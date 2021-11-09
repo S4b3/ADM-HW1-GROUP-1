@@ -1,5 +1,5 @@
-animeTitle	b'Kairaku Satsujin Chousakan Kouji'
-animeType	b'OVA'
+animeTitle	Kairaku Satsujin Chousakan Kouji
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	5.65
 animeUsers	439
 animeRank	
-animePopularity	
-animeDescription	b'From the creator of Urotsukidoji: Legend of the Overfiend, La Blue Girl, and Demon Beast Invasion! A monster is out for blood, and only the man-demon Koji can hunt down the preternatural killer. Aided by a morbid psychic, he follows the grisly trail of victims to a lonely woman. What unspeakable horrors will he find? And are even Koji`s powers enough to curb this devastating threat?\n(Source: AniDB)'
+animePopularity	10292
+animeDescription	"From the creator of Urotsukidoji: Legend of the Overfiend, La Blue Girl, and Demon Beast Invasion! A monster is out for blood, and only the man-demon Koji can hunt down the preternatural killer. Aided by a morbid psychic, he follows the grisly trail of victims to a lonely woman. What unspeakable horrors will he find? And are even Koji`s powers enough to curb this devastating threat?
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Koji', b'Kyoko', b'Kanzaki', b'Miko', b'Yuta', b'Meguro', b'Aya', b'Doctor', b'Jun', b'Narrator']
-animeVoices	[b'\nKumagaya, Nina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamaki, Yasuhito\n\nProducer\n\n', b'\nEndou, Katsumi\n\nStoryboard\n\n', b'\nMaeda, Toshio\n\nOriginal Creator\n\n', b'\nTakahashi, Takeo\n\nKey Animation\n\n']
+animeCharacters	['Koji', 'Kyoko', 'Kanzaki', 'Miko', 'Yuta', 'Meguro', 'Aya', 'Doctor', 'Jun', 'Narrator']
+animeVoices	['Kumagaya, Nina']
+animeStaff	[['Yamaki, Yasuhito', 'Producer'], ['Endou, Katsumi', 'Storyboard'], ['Maeda, Toshio', 'Original Creator'], ['Takahashi, Takeo', 'Key Animation']]

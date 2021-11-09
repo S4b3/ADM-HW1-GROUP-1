@@ -1,4 +1,4 @@
-animeTitle	b'Gift nor Art'
+animeTitle	Gift nor Art
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.48
 animeUsers	241
 animeRank	
-animePopularity	
-animeDescription	b'Music video for the song Gift nor Art by Tripshots, featuring Hatsune Miku.'
+animePopularity	13432
+animeDescription	Music video for the song Gift nor Art by Tripshots, featuring Hatsune Miku.
 animeRelated	[]
-animeCharacters	[b'Hatsune, Miku']
+animeCharacters	['Hatsune, Miku']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTripshots\n\nDirector\n\n', b'\nHatsune, Miku\n\nTheme Song Performance\n\n']
+animeStaff	[['Tripshots', 'Director'], ['Hatsune, Miku', 'Theme Song Performance']]

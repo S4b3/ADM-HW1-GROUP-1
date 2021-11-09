@@ -1,5 +1,5 @@
-animeTitle	b'Carnival Phantasm EX Season'
-animeType	b'OVA'
+animeTitle	Carnival Phantasm EX Season
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.47
 animeUsers	24601
 animeRank	
-animePopularity	
-animeDescription	b'A DVD-only episode bundled with the special edition Take Moon volume. \n\nCaren Ortensia attempts to control the world using money with varying degrees of success, Phantas-Moon receives a movie adaption of her T.V. show, and Shiki is involved in a love plot that spans years.   \n\n(Source: Wikipedia)'
-animeRelated	[b'Take Moon', b'Carnival Phantasm']
-animeCharacters	[b'Lancer', b'Brunestud, Arcueid', b'Toono, Shiki', b'Hortensia, Caren', b'Saber', b'Toosaka, Rin', b'Gilgamesh', b'Emiya, Shirou', b'von Einzbern, Illyasviel', b'Kotomine, Kirei']
-animeVoices	[b'\nCanna, Nobutoshi\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nNakata, Jouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiga, Yuuji\n\nProducer\n\n', b'\nKishi, Seiji\n\nDirector\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nMasaki, Shinichi\n\nStoryboard\n\n']
+animePopularity	2699
+animeDescription	"A DVD-only episode bundled with the special edition Take Moon volume. 
+
+Caren Ortensia attempts to control the world using money with varying degrees of success, Phantas-Moon receives a movie adaption of her T.V. show, and Shiki is involved in a love plot that spans years.   
+
+(Source: Wikipedia)"
+animeRelated	['Take Moon', 'Carnival Phantasm']
+animeCharacters	['Lancer', 'Brunestud, Arcueid', 'Toono, Shiki', 'Hortensia, Caren', 'Saber', 'Toosaka, Rin', 'Gilgamesh', 'Emiya, Shirou', 'von Einzbern, Illyasviel', 'Kotomine, Kirei']
+animeVoices	['Canna, Nobutoshi', 'Yuzuki, Ryouka', 'Nojima, Kenji', 'Koshimizu, Ami', 'Kawasumi, Ayako', 'Ueda, Kana', 'Endou, Aya', 'Sugiyama, Noriaki', 'Kadowaki, Mai', 'Nakata, Jouji']
+animeStaff	[['Higa, Yuuji', 'Producer'], ['Kishi, Seiji', 'Director'], ['Iida, Satoki', 'Sound Director'], ['Masaki, Shinichi', 'Storyboard']]

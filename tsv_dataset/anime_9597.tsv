@@ -1,5 +1,5 @@
-animeTitle	b'Duel Masters (2017)'
-animeType	b'TV'
+animeTitle	Duel Masters (2017)
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.74
 animeUsers	142
 animeRank	
-animePopularity	
-animeDescription	"b""In the new series' story, the balance of the Creature World is starting to crumble. A talking deck case named Decky comes to the human world to search for a Duel Master to preserve equilibrium. There he sees Joe's power to create creatures.\n\n(Source: ANN)"""
-animeRelated	[b'Duel Masters', b'Duel Masters VSRF', b'40 Shuunen Da yo!! CoroCoro All-Star Shougakkou', b'Duel Masters!']
-animeCharacters	[b'Kirifuda, Joe', b'Deckie', b'Uraraka, Momo', b'Kira']
-animeVoices	[b'\nKobayashi, Yumiko\nJapanese\n', b'\nSatou, Setsuji\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasaki, Shinobu\n\nDirector\n\n', b'\nItou, Fumio\n\nEpisode Director, Storyboard\n\n', b'\nHyadain\n\nTheme Song Lyrics, Theme Song Composition, Theme Song Arrangement\n\n', b'\nHayabusa\n\nTheme Song Performance\n\n']
+animePopularity	10186
+animeDescription	"In the new series' story, the balance of the Creature World is starting to crumble. A talking deck case named Decky comes to the human world to search for a Duel Master to preserve equilibrium. There he sees Joe's power to create creatures.
+
+(Source: ANN)"
+animeRelated	['Duel Masters', 'Duel Masters VSRF', '40 Shuunen Da yo!! CoroCoro All-Star Shougakkou', 'Duel Masters!']
+animeCharacters	['Kirifuda, Joe', 'Deckie', 'Uraraka, Momo', 'Kira']
+animeVoices	['Kobayashi, Yumiko', 'Satou, Setsuji', 'Toyosaki, Aki', 'Toyonaga, Toshiyuki']
+animeStaff	[['Sasaki, Shinobu', 'Director'], ['Itou, Fumio', 'Episode Director, Storyboard'], ['Hyadain', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['Hayabusa', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Otokonoko \xe2\x99\x82 Delivery'
-animeType	b'OVA'
+animeTitle	Otokonoko ♂ Delivery
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.76
 animeUsers	4695
 animeRank	
-animePopularity	
-animeDescription	b'Shuuji finds out his classmate takes on a job as a crossdresser and gets interested in joining him.'
+animePopularity	5222
+animeDescription	Shuuji finds out his classmate takes on a job as a crossdresser and gets interested in joining him.
 animeRelated	[]
-animeCharacters	[b'Shun', b'Aoi', b'Kazuya']
-animeVoices	[b'\nMisonoo, Mei\nJapanese\n', b'\nOgihara, Hideki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshiten\n\nDirector, Character Design\n\n', b'\nNemuNemu\n\nOriginal Character Design\n\n']
+animeCharacters	['Shun', 'Aoi', 'Kazuya']
+animeVoices	['Misonoo, Mei', 'Ogihara, Hideki']
+animeStaff	[['Yoshiten', 'Director, Character Design'], ['NemuNemu', 'Original Character Design']]

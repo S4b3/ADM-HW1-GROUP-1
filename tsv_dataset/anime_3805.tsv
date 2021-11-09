@@ -1,5 +1,5 @@
-animeTitle	b'Mewkledreamy'
-animeType	b'TV'
+animeTitle	Mewkledreamy
+animeType	TV
 animeNumEpisode	48
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.0
 animeUsers	678
 animeRank	
-animePopularity	
-animeDescription	"b'The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of ""Yume Synchro"" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. \n\n(Source: ANN)'"
-animeRelated	[b'Mewkledreamy', b'Mewkledreamy Mix!']
-animeCharacters	[b'Hinata, Yume', b'Tsukishima, Maira', b'Minamikawa, Asahi', b'Yuni', b'Peko', b'Mew', b'Sugiyama, Haruto', b'Anzai, Tokiwa', b'Imai, Kotoko', b'Suu']
-animeVoices	[b'\nMurakami, Natsumi\nJapanese\n', b'\nItou, Ayasa\nJapanese\n', b'\nKobayashi, Yuusuke\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nKubo, Yurika\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nOgoe, Yuuki\nJapanese\n', b'\nFairouz, Ai\nJapanese\n', b'\nYukimura, Eri\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurai, Hiroaki\n\nDirector\n\n', b'\nSawada, Maria\n\nTheme Song Performance\n\n', b'\nKon, Chiaki\n\nAssistant Production Coordinat\n\n', b'\nKawada, Ruka\n\nMusic\n\n']
+animePopularity	6707
+animeDescription	"The story begins when a middle school girl named Yume sees something fall from the sky, and meets a pale violet-colored kitten named Mew. It turns out that Mew has the power of ""Yume Synchro"" (Dream Synchro), the power to enter dreams. In the dream world, the girl and Mew collect Dream Stones. 
+
+(Source: ANN)"
+animeRelated	['Mewkledreamy', 'Mewkledreamy Mix!']
+animeCharacters	['Hinata, Yume', 'Tsukishima, Maira', 'Minamikawa, Asahi', 'Yuni', 'Peko', 'Mew', 'Sugiyama, Haruto', 'Anzai, Tokiwa', 'Imai, Kotoko', 'Suu']
+animeVoices	['Murakami, Natsumi', 'Itou, Ayasa', 'Kobayashi, Yuusuke', 'Kugimiya, Rie', 'Kubo, Yurika', 'Toyosaki, Aki', 'Ogoe, Yuuki', 'Fairouz, Ai', 'Yukimura, Eri', 'Kanemoto, Hisako']
+animeStaff	[['Sakurai, Hiroaki', 'Director'], ['Sawada, Maria', 'Theme Song Performance'], ['Kon, Chiaki', 'Assistant Production Coordinat'], ['Kawada, Ruka', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Loveless Specials'
-animeType	b'Special'
+animeTitle	Loveless Specials
+animeType	Special
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.52
 animeUsers	7124
 animeRank	
-animePopularity	
-animeDescription	b'DVD specials.'
-animeRelated	[b'Loveless']
-animeCharacters	[b'Aoyagi, Ritsuka', b'Agatsuma, Soubi']
-animeVoices	[b'\nMinagawa, Junko\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKouga, Yun\n\nOriginal Creator\n\n', b'\nIwakura, Kazunori\n\nCharacter Design\n\n']
+animePopularity	4251
+animeDescription	DVD specials.
+animeRelated	['Loveless']
+animeCharacters	['Aoyagi, Ritsuka', 'Agatsuma, Soubi']
+animeVoices	['Minagawa, Junko', 'Konishi, Katsuyuki']
+animeStaff	[['Kouga, Yun', 'Original Creator'], ['Iwakura, Kazunori', 'Character Design']]

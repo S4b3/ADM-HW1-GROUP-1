@@ -1,5 +1,5 @@
-animeTitle	b'Pandane to Tamago-hime'
-animeType	b'Movie'
+animeTitle	Pandane to Tamago-hime
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.9
 animeUsers	1678
 animeRank	
-animePopularity	
-animeDescription	"b""In a lonesome water mill deep in a forest of briers and brambles lives a witch named Baba Yaga. There the witch keeps her servant the Egg Princess confined and forces the tiny egg-girl to do all the hard daily chores around the mill. One night, a large batch of kneaded dough resting in a trough suddenly comes to life from the witch's spell. Fearful of the witch, the Egg Princess and her new friend decide to run away. What will lay ahead for the two of them...?\n\n(Source: Official Website)"""
+animePopularity	7212
+animeDescription	"In a lonesome water mill deep in a forest of briers and brambles lives a witch named Baba Yaga. There the witch keeps her servant the Egg Princess confined and forces the tiny egg-girl to do all the hard daily chores around the mill. One night, a large batch of kneaded dough resting in a trough suddenly comes to life from the witch's spell. Fearful of the witch, the Egg Princess and her new friend decide to run away. What will lay ahead for the two of them...?
+
+(Source: Official Website)"
 animeRelated	[]
-animeCharacters	[b'Egg Princess', b'Mr. Dough']
+animeCharacters	['Egg Princess', 'Mr. Dough']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyazaki, Hayao\n\nDirector, Script, Storyboard\n\n', b'\nHisaishi, Joe\n\nMusic\n\n', b'\nOshiyama, Kiyotaka\n\nKey Animation\n\n', b'\nVivaldi, Antonio Lucio\n\nMusic\n\n']
+animeStaff	[['Miyazaki, Hayao', 'Director, Script, Storyboard'], ['Hisaishi, Joe', 'Music'], ['Oshiyama, Kiyotaka', 'Key Animation'], ['Vivaldi, Antonio Lucio', 'Music']]

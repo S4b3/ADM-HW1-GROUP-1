@@ -1,5 +1,5 @@
-animeTitle	b'Boku no Son Gokuu'
-animeType	b'Movie'
+animeTitle	Boku no Son Gokuu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.09
 animeUsers	147
 animeRank	
-animePopularity	
-animeDescription	b'Son-Goku is a monkey who was born from a stone and is endowed with magical powers. He gets carried away and goes on a rampage until at last Buddha confines him within Mt. Gogyo. Saved by Sanzohoshi, Son-Goku accompanies him on a journey to India. But on their way, monsters lie in wait for them.\n\n(Source: BakaBT)'
-animeRelated	[b'Gokuu no Daibouken', b'Saiyuuki', b'Saiyuuki: Son Gokuu Monogatari', b'Tezuka Osamu Monogatari: Boku wa Son Gokuu', b'Son Gokuu Silk Road wo Tobu!!', b'Son Gokuu no Hi no Youjin', b'Son O-gong gwa Byeoldeul-ui Jeonjaeng']
-animeCharacters	[b'Son, Gokuu']
-animeVoices	[b'\nYuuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugino, Akio\n\nDirector, Animation Director\n\n', b'\nYoshimura, Fumihiro\n\nDirector\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nYumemakura, Baku\n\nScript\n\n']
+animePopularity	12675
+animeDescription	"Son-Goku is a monkey who was born from a stone and is endowed with magical powers. He gets carried away and goes on a rampage until at last Buddha confines him within Mt. Gogyo. Saved by Sanzohoshi, Son-Goku accompanies him on a journey to India. But on their way, monsters lie in wait for them.
+
+(Source: BakaBT)"
+animeRelated	['Gokuu no Daibouken', 'Saiyuuki', 'Saiyuuki: Son Gokuu Monogatari', 'Tezuka Osamu Monogatari: Boku wa Son Gokuu', 'Son Gokuu Silk Road wo Tobu!!', 'Son Gokuu no Hi no Youjin', 'Son O-gong gwa Byeoldeul-ui Jeonjaeng']
+animeCharacters	['Son, Gokuu']
+animeVoices	['Yuuka']
+animeStaff	[['Sugino, Akio', 'Director, Animation Director'], ['Yoshimura, Fumihiro', 'Director'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Yumemakura, Baku', 'Script']]

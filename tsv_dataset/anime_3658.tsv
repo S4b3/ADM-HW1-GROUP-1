@@ -1,5 +1,5 @@
-animeTitle	b'Yankee-kun na Yamada-kun to Megane-chan to Majo'
-animeType	b'Special'
+animeTitle	Yankee-kun na Yamada-kun to Megane-chan to Majo
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.03
 animeUsers	7552
 animeRank	
-animePopularity	
-animeDescription	"b""The official website for the Yamada-kun and the Seven Witches television anime series revealed on Sunday that the anime's first Blu-ray Disc and DVD box sets will include a Yankee-kun to Megane-chan collaborative manga and anime. \n\n(Source: ANN)"""
-animeRelated	[b'Yankee-kun na Yamada-kun to Megane-chan to Majo', b'Yamada-kun to 7-nin no Majo (TV)']
-animeCharacters	[b'Shinagawa, Daichi', b'Adachi, Hana', b'Izumi, Gaku', b'Chiba, Seiya', b'Himeji, Rinka']
-animeVoices	[b'\nOno, Yuuki\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nKikuchi, Mika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshikawa, Miki\n\nOriginal Creator\n\n']
+animePopularity	3840
+animeDescription	"The official website for the Yamada-kun and the Seven Witches television anime series revealed on Sunday that the anime's first Blu-ray Disc and DVD box sets will include a Yankee-kun to Megane-chan collaborative manga and anime. 
+
+(Source: ANN)"
+animeRelated	['Yankee-kun na Yamada-kun to Megane-chan to Majo', 'Yamada-kun to 7-nin no Majo (TV)']
+animeCharacters	['Shinagawa, Daichi', 'Adachi, Hana', 'Izumi, Gaku', 'Chiba, Seiya', 'Himeji, Rinka']
+animeVoices	['Ono, Yuuki', 'Hikasa, Youko', 'Terashima, Takuma', 'Maeno, Tomoaki', 'Kikuchi, Mika']
+animeStaff	[['Yoshikawa, Miki', 'Original Creator']]

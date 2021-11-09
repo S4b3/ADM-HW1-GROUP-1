@@ -1,5 +1,5 @@
-animeTitle	b'Ajin Senshi'
-animeType	b'Movie'
+animeTitle	Ajin Senshi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.05
 animeUsers	185
 animeRank	
-animePopularity	
-animeDescription	b'In the year 2200 an interstellar war is held where the weapons most frequently used are the psychic capacities. The hero, Zero, son of an earthling and an extraterrestrial, the prince and last survivor of a clan of magicians. He will fight against the army of the Manjidara empire, whose forces are such as its head ambition to control the whole universe.\n\n(Source: AniDB)'
+animePopularity	10056
+animeDescription	"In the year 2200 an interstellar war is held where the weapons most frequently used are the psychic capacities. The hero, Zero, son of an earthling and an extraterrestrial, the prince and last survivor of a clan of magicians. He will fight against the army of the Manjidara empire, whose forces are such as its head ambition to control the whole universe.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Zero', b'Toruma', b'Catherine', b'March', b'Jaraharumen', b'Dobos', b'Mint', b'Ronda', b'Haji', b'Vathek']
-animeVoices	[b'\nMatsumoto, Yasunori\nJapanese\n', b'\nSakurai, Toshiharu\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n', b'\nFujimoto, Yuzuru\nJapanese\n', b'\nSenda, Mitsuo\nJapanese\n', b'\nShimaka, Yuu\nJapanese\n', b'\nSasaoka, Shigezou\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nTomiyama, Kei\nJapanese\n', b'\nTomita, Kousei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Satoshi\n\nProducer\n\n', b'\nTominaga, Tsuneo\n\nDirector, Storyboard\n\n', b'\nTakahashi, Hideki\n\nKey Animation\n\n', b'\nNakajima, Yuuki\n\nMusic\n\n']
+animeCharacters	['Zero', 'Toruma', 'Catherine', 'March', 'Jaraharumen', 'Dobos', 'Mint', 'Ronda', 'Haji', 'Vathek']
+animeVoices	['Matsumoto, Yasunori', 'Sakurai, Toshiharu', 'Matsui, Naoko', 'Fujimoto, Yuzuru', 'Senda, Mitsuo', 'Shimaka, Yuu', 'Sasaoka, Shigezou', 'Ogata, Kenichi', 'Tomiyama, Kei', 'Tomita, Kousei']
+animeStaff	[['Dezaki, Satoshi', 'Producer'], ['Tominaga, Tsuneo', 'Director, Storyboard'], ['Takahashi, Hideki', 'Key Animation'], ['Nakajima, Yuuki', 'Music']]

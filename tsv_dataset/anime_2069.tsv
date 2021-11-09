@@ -1,5 +1,5 @@
-animeTitle	b'Ranma \xc2\xbd: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou'
-animeType	b'Movie'
+animeTitle	Ranma ½: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.37
 animeUsers	7254
 animeRank	
-animePopularity	
-animeDescription	"b""Kuno purchases a strange egg, believing that the mysterious powers of the legendary Phoenix will help him defeat Ranma. But when the egg hatches on his head, the bird goes out of control and wreaks havoc all over Tokyo. Ranma and the gang must use any means necessary to get the Phoenix to leave Kuno's head and fly away.\n\n(Source: ANN)"""
-animeRelated	[b'Ranma \xc2\xbd: Kessen Tougenkyou! Hanayome wo Torimodose!']
-animeCharacters	[b'Saotome, Ranma', b'Tendou, Akane', b'Kuno, Tatewaki', b'Hibiki, Ryouga', b'Shampoo', b'Kuonji, Ukyo', b'Tendou, Nabiki', b'Saotome, Genma', b'Tendou, Kasumi', b'Mousse']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nSakuma, Rei\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nTakayama, Minami\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Rumiko\n\nOriginal Creator\n\n', b'\nKawai, Kenji\n\nMusic\n\n', b'\nNakajima, Atsuko\n\nCharacter Design\n\n', b'\nRyota, Yamaguchi\n\nScreenplay\n\n']
+animePopularity	4517
+animeDescription	"Kuno purchases a strange egg, believing that the mysterious powers of the legendary Phoenix will help him defeat Ranma. But when the egg hatches on his head, the bird goes out of control and wreaks havoc all over Tokyo. Ranma and the gang must use any means necessary to get the Phoenix to leave Kuno's head and fly away.
+
+(Source: ANN)"
+animeRelated	['Ranma ½: Kessen Tougenkyou! Hanayome wo Torimodose!']
+animeCharacters	['Saotome, Ranma', 'Tendou, Akane', 'Kuno, Tatewaki', 'Hibiki, Ryouga', 'Shampoo', 'Kuonji, Ukyo', 'Tendou, Nabiki', 'Saotome, Genma', 'Tendou, Kasumi', 'Mousse']
+animeVoices	['Hayashibara, Megumi', 'Hidaka, Noriko', 'Suzuoki, Hirotaka', 'Yamadera, Kouichi', 'Sakuma, Rei', 'Tsuru, Hiromi', 'Takayama, Minami', 'Ogata, Kenichi', 'Inoue, Kikuko', 'Seki, Toshihiko']
+animeStaff	[['Takahashi, Rumiko', 'Original Creator'], ['Kawai, Kenji', 'Music'], ['Nakajima, Atsuko', 'Character Design'], ['Ryota, Yamaguchi', 'Screenplay']]

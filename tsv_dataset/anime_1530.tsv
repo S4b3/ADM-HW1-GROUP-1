@@ -1,5 +1,5 @@
-animeTitle	b'Fantastic Children'
-animeType	b'TV'
+animeTitle	Fantastic Children
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.53
 animeUsers	6709
 animeRank	
-animePopularity	
-animeDescription	b'A group of enigmatic white-haired children has been spotted at different times and places in Europe for over 500 years. Always with the appearance of 11-year-olds, they behave far more mature than they should be, never grow old, and seem to have supernatural power. What they have been seeking is a girl, and the only clue they have is a picture with a crescent moon. Now, in the year of 2012, an athletic boy named Tohma is about to be involved in this centuries-long mystery.\n\n(Source: ANN)'
-animeRelated	[b'Fantastic Children: Tokei Jikake no Tabibito-tachi', b'Fantastic Children: Befort no Kodomo-tachi no Sonogo']
-animeCharacters	[b'Thoma', b'Agi', b'Soreto', b'Seth', b'Hasmodai', b'Mel', b'Dumas', b'Lui, Helga', b'Kulana, Chitto', b'Tarlant']
-animeVoices	[b'\nMinagawa, Junko\nJapanese\n', b'\nUrata, Yuu\nJapanese\n', b'\nTakaguchi, Yukiko\nJapanese\n', b'\nGotou, Satoshi\nJapanese\n', b'\nMatsumoto, Sachi\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nHanawa, Eiji\nJapanese\n', b'\nKawaragi, Shiho\nJapanese\n', b'\nKobayashi, Kei\nJapanese\n', b'\nYaguchi, Asami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Takashi\n\nDirector, Episode Director, Script, Storyboard, Character Design, Original Creator\n\n', b'\nHayase, Hiroyuki\n\nSound Director\n\n', b'\nKaburagi, Hiro\n\nEpisode Director, Storyboard\n\n', b'\nShimizu, Kenichi\n\nEpisode Director\n\n']
+animePopularity	3327
+animeDescription	"A group of enigmatic white-haired children has been spotted at different times and places in Europe for over 500 years. Always with the appearance of 11-year-olds, they behave far more mature than they should be, never grow old, and seem to have supernatural power. What they have been seeking is a girl, and the only clue they have is a picture with a crescent moon. Now, in the year of 2012, an athletic boy named Tohma is about to be involved in this centuries-long mystery.
+
+(Source: ANN)"
+animeRelated	['Fantastic Children: Tokei Jikake no Tabibito-tachi', 'Fantastic Children: Befort no Kodomo-tachi no Sonogo']
+animeCharacters	['Thoma', 'Agi', 'Soreto', 'Seth', 'Hasmodai', 'Mel', 'Dumas', 'Lui, Helga', 'Kulana, Chitto', 'Tarlant']
+animeVoices	['Minagawa, Junko', 'Urata, Yuu', 'Takaguchi, Yukiko', 'Gotou, Satoshi', 'Matsumoto, Sachi', 'Sakamoto, Maaya', 'Hanawa, Eiji', 'Kawaragi, Shiho', 'Kobayashi, Kei', 'Yaguchi, Asami']
+animeStaff	[['Nakamura, Takashi', 'Director, Episode Director, Script, Storyboard, Character Design, Original Creator'], ['Hayase, Hiroyuki', 'Sound Director'], ['Kaburagi, Hiro', 'Episode Director, Storyboard'], ['Shimizu, Kenichi', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Dragoon'
-animeType	b'OVA'
+animeTitle	Dragoon
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.71
 animeUsers	476
 animeRank	
-animePopularity	
-animeDescription	"b'In the great Garubado Empire, a lethal weapon is in the process of being manufactured, but is stolen and subsequently lost in battle. Now the Empire is looking for this weapon: a girl that can call forth the ""Dragoon"" power. She has amnesia and is found by a wandering swordsman in training by who vows to help her find out who she is and why she has such a strange power. '"
+animePopularity	9984
+animeDescription	"In the great Garubado Empire, a lethal weapon is in the process of being manufactured, but is stolen and subsequently lost in battle. Now the Empire is looking for this weapon: a girl that can call forth the ""Dragoon"" power. She has amnesia and is found by a wandering swordsman in training by who vows to help her find out who she is and why she has such a strange power. "
 animeRelated	[]
-animeCharacters	[b'Myuu', b'Keeves Fearudo, Rain', b'Caliver, Millie', b'Caliver, Sedi', b'Bashua', b'Bapu', b'Randy', b'Gabriel', b'Lilith', b'Ganto']
-animeVoices	[b'\nKouda, Mariko\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nMiyamura, Yuko\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nSonozaki, Mie\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nIizuka, Shouzou\nJapanese\n', b'\nImai, Yuka\nJapanese\n', b'\nMatsumoto, Dai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaejima, Kenichi\n\nDirector, Storyboard\n\n', b'\nImai, Yuka\n\nTheme Song Performance\n\n', b'\nNishimura, Satoshi\n\nMechanical Design\n\n', b'\nCampbell, Charles\n\nADR Director, Editing\n\n']
+animeCharacters	['Myuu', 'Keeves Fearudo, Rain', 'Caliver, Millie', 'Caliver, Sedi', 'Bashua', 'Bapu', 'Randy', 'Gabriel', 'Lilith', 'Ganto']
+animeVoices	['Kouda, Mariko', 'Seki, Toshihiko', 'Miyamura, Yuko', 'Ishida, Akira', 'Ootsuka, Akio', 'Sonozaki, Mie', 'Koyasu, Takehito', 'Iizuka, Shouzou', 'Imai, Yuka', 'Matsumoto, Dai']
+animeStaff	[['Maejima, Kenichi', 'Director, Storyboard'], ['Imai, Yuka', 'Theme Song Performance'], ['Nishimura, Satoshi', 'Mechanical Design'], ['Campbell, Charles', 'ADR Director, Editing']]

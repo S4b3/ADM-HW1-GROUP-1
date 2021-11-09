@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon: Pikachu no Fuyuyasumi'
-animeType	b'OVA'
+animeTitle	Pokemon: Pikachu no Fuyuyasumi
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.51
 animeUsers	6625
 animeRank	
-animePopularity	
-animeDescription	"b""Pikachu's Winter Vacations are three series of videos, each composed of several Pikachu shorts. All shorts deal with winter and Christmas. This is the first series and contains Christmas Night & Kanga Games."""
-animeRelated	[b'Pokemon', b'Pokemon: Pikachu no Fuyuyasumi (2000)']
-animeCharacters	[b'Pikachu', b'Togepi', b'Satoshi', b'Takeshi', b'Kasumi', b'Nyarth']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n', b'\nSugimori, Ken\n\nOriginal Character Design\n\n', b'\nIwane, Masaaki\n\nAnimation Director\n\n']
+animePopularity	4762
+animeDescription	Pikachu's Winter Vacations are three series of videos, each composed of several Pikachu shorts. All shorts deal with winter and Christmas. This is the first series and contains Christmas Night & Kanga Games.
+animeRelated	['Pokemon', 'Pokemon: Pikachu no Fuyuyasumi (2000)']
+animeCharacters	['Pikachu', 'Togepi', 'Satoshi', 'Takeshi', 'Kasumi', 'Nyarth']
+animeVoices	['Ootani, Ikue', 'Koorogi, Satomi', 'Matsumoto, Rica', 'Ueda, Yuuji', 'Iizuka, Mayumi', 'Inuyama, Inuko']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design'], ['Iwane, Masaaki', 'Animation Director']]

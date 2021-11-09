@@ -1,5 +1,5 @@
-animeTitle	b'Gundam Neo Experience 0087: Green Divers'
-animeType	b'Movie'
+animeTitle	Gundam Neo Experience 0087: Green Divers
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.35
 animeUsers	577
 animeRank	
-animePopularity	
-animeDescription	"b""During the closing days of the Gryps conflict of Mobile Suit Zeta Gundam, two siblings\xe2\x80\x94Asagi and Takuya\xe2\x80\x94ride aboard a civilian transport bound for Earth. Caught in a battle between the Titans and AEUG, they must somehow guide their ship through atmospheric entry. Luckily, they're not completely alone, as they find aid from a custom-painted Zeta Gundam, whose pilot sounds a lot like One Year War ace Amuro Ray.\n\n(Source: ANN)"""
-animeRelated	[b'Mobile Suit Zeta Gundam']
-animeCharacters	[b'Bayard, Jack']
-animeVoices	[b'\nFukuyama, Jun\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Hajime\n\nOriginal Creator\n\n', b'\nOokawara, Kunio\n\nMechanical Design\n\n']
+animePopularity	8276
+animeDescription	"During the closing days of the Gryps conflict of Mobile Suit Zeta Gundam, two siblings—Asagi and Takuya—ride aboard a civilian transport bound for Earth. Caught in a battle between the Titans and AEUG, they must somehow guide their ship through atmospheric entry. Luckily, they're not completely alone, as they find aid from a custom-painted Zeta Gundam, whose pilot sounds a lot like One Year War ace Amuro Ray.
+
+(Source: ANN)"
+animeRelated	['Mobile Suit Zeta Gundam']
+animeCharacters	['Bayard, Jack']
+animeVoices	['Fukuyama, Jun']
+animeStaff	[['Yatate, Hajime', 'Original Creator'], ['Ookawara, Kunio', 'Mechanical Design']]

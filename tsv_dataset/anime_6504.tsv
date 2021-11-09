@@ -1,5 +1,5 @@
-animeTitle	b'Tactical Roar'
-animeType	b'TV'
+animeTitle	Tactical Roar
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.43
 animeUsers	3322
 animeRank	
-animePopularity	
-animeDescription	"b""In the near future the world's climate shifted creating in the Western Pacific a perpetual super cyclone: the Grand Roar that altered the earth, flooding most countries. Shipping and navigation became important to nations and following the appearance of ocean pirates, necessisated companies to hire escort cruisers to safeguard their investments. Hyousuke Nagimiya is a system engineer that was comissioned to upgrade the Pascal Magi manned by an entire crew of women with its captain, Misaki Nanaha. Together the crew strives to prove themselves to their detractors that they are no mere 'Alice Brand'. Yet as they go about their mission a larger global conspiracy seems to be working behind the scenes to take advantage of this new world order.\n\n(Source: ANN)"""
-animeRelated	[b'Tactical Roar Special']
-animeCharacters	[b'Misaki, Nanaha', b'Watatsumi, Tsubasa', b'Nagimiya, Hyousuke', b'Fukami, Sango', b'Kairi, Miharu', b'Akoya, Mashu', b'Hakubi', b'Okamachi, Kunio', b'Aquanaut, Clio', b'Hamaguchi, Lemara']
-animeVoices	[b'\nNakahara, Mai\nJapanese\n', b'\nTakahashi, Mikako\nJapanese\n', b'\nSuganuma, Hisayoshi\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nKobayashi, Yumiko\nJapanese\n', b'\nArai, Satomi\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nNomura, Kenji\nJapanese\n', b'\nNatsuki, Rio\nJapanese\n', b'\nNakamura, Daiki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nIshikura, Kenichi\n\nEpisode Director\n\n', b'\nItou, Kouji\n\nEpisode Director, Animation Director, Key Animation\n\n', b'\nTakahashi, Shigeharu\n\nStoryboard\n\n']
+animePopularity	5451
+animeDescription	"In the near future the world's climate shifted creating in the Western Pacific a perpetual super cyclone: the Grand Roar that altered the earth, flooding most countries. Shipping and navigation became important to nations and following the appearance of ocean pirates, necessisated companies to hire escort cruisers to safeguard their investments. Hyousuke Nagimiya is a system engineer that was comissioned to upgrade the Pascal Magi manned by an entire crew of women with its captain, Misaki Nanaha. Together the crew strives to prove themselves to their detractors that they are no mere 'Alice Brand'. Yet as they go about their mission a larger global conspiracy seems to be working behind the scenes to take advantage of this new world order.
+
+(Source: ANN)"
+animeRelated	['Tactical Roar Special']
+animeCharacters	['Misaki, Nanaha', 'Watatsumi, Tsubasa', 'Nagimiya, Hyousuke', 'Fukami, Sango', 'Kairi, Miharu', 'Akoya, Mashu', 'Hakubi', 'Okamachi, Kunio', 'Aquanaut, Clio', 'Hamaguchi, Lemara']
+animeVoices	['Nakahara, Mai', 'Takahashi, Mikako', 'Suganuma, Hisayoshi', 'Ueda, Kana', 'Kobayashi, Yumiko', 'Arai, Satomi', 'Noto, Mamiko', 'Nomura, Kenji', 'Natsuki, Rio', 'Nakamura, Daiki']
+animeStaff	[['Aketagawa, Jin', 'Sound Director'], ['Ishikura, Kenichi', 'Episode Director'], ['Itou, Kouji', 'Episode Director, Animation Director, Key Animation'], ['Takahashi, Shigeharu', 'Storyboard']]

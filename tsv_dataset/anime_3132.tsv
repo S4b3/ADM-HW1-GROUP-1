@@ -1,5 +1,5 @@
-animeTitle	b'D.C.if: Da Capo if'
-animeType	b'OVA'
+animeTitle	D.C.if: Da Capo if
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.15
 animeUsers	6912
 animeRank	
-animePopularity	
-animeDescription	"b'This two episode OVA retelling of the first Da Capo series with the ""what if"" Junichi Asakura were to return Kotori Shirakawa\'s feelings.'"
-animeRelated	[b'D.C.: Da Capo', b'D.C.S.S: Da Capo Second Season']
-animeCharacters	[b'Shirakawa, Kotori', b'Asakura, Junichi', b'Yoshino, Sakura', b'Utamaru', b'Suginami', b'Mizukoshi, Moe', b'Amakase, Miharu', b'Mizukoshi, Mako', b'Shirakawa, Koyomi']
-animeVoices	[b'\nHorie, Yui\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nItsuki, Yui\nJapanese\n', b'\nMatsuoka, Yuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Masashi\n\nScript\n\n', b'\nCooRie\n\nTheme Song Performance\n\n', b'\nyozuca*\n\nTheme Song Performance\n\n', b'\nNanao, Naru\n\nOriginal Character Design\n\n']
+animePopularity	4516
+animeDescription	"This two episode OVA retelling of the first Da Capo series with the ""what if"" Junichi Asakura were to return Kotori Shirakawa's feelings."
+animeRelated	['D.C.: Da Capo', 'D.C.S.S: Da Capo Second Season']
+animeCharacters	['Shirakawa, Kotori', 'Asakura, Junichi', 'Yoshino, Sakura', 'Utamaru', 'Suginami', 'Mizukoshi, Moe', 'Amakase, Miharu', 'Mizukoshi, Mako', 'Shirakawa, Koyomi']
+animeVoices	['Horie, Yui', 'Tamura, Yukari', 'Itsuki, Yui', 'Matsuoka, Yuki']
+animeStaff	[['Suzuki, Masashi', 'Script'], ['CooRie', 'Theme Song Performance'], ['yozuca*', 'Theme Song Performance'], ['Nanao, Naru', 'Original Character Design']]

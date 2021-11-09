@@ -1,5 +1,5 @@
-animeTitle	b'Million Doll'
-animeType	b'TV'
+animeTitle	Million Doll
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.8
 animeUsers	3965
 animeRank	
-animePopularity	
-animeDescription	b'Million Doll revolves around Suuko, an idol-loving hikikomori (shut-in) who has one ability: To make any idol popular through the power of blogging. She puts her sights on the Fukuoka idol Itorio and tries to make her sell more, but she is impeded by the charismatic idol Ryuu-san and the underground idol Mariko.\n\n(Source: ANN)'
-animeRelated	[b'Million Doll', b'Million Doll: Otaku Go Kouza']
-animeCharacters	[b'Mariko', b'Momona', b'Ryuu-san', b'Yurino', b'Rina', b'Suuko', b'Kamakura, Hinami', b'Kaede', b'Kuu-nyan']
-animeVoices	[b'\nItou, Miku\nJapanese\n', b'\nWatanabe, Yui\nJapanese\n', b'\nUmehara, Yuuichirou\nJapanese\n', b'\nMatsui, Eriko\nJapanese\n', b'\nIizuka, Mayu\nJapanese\n', b'\nKusuda, Aina\nJapanese\n', b'\nUchida, Aya\nJapanese\n', b'\nKabayama, Minami\nJapanese\n', b'\nArakawa, Natsuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawaguchi, Keiichirou\n\nDirector\n\n', b'\nMurakami, Momoko\n\nScript\n\n', b'\nTashiro, Tomokazu\n\nTheme Song Composition\n\n', b'\nYamane, Masahiro\n\nCharacter Design\n\n']
+animePopularity	5159
+animeDescription	"Million Doll revolves around Suuko, an idol-loving hikikomori (shut-in) who has one ability: To make any idol popular through the power of blogging. She puts her sights on the Fukuoka idol Itorio and tries to make her sell more, but she is impeded by the charismatic idol Ryuu-san and the underground idol Mariko.
+
+(Source: ANN)"
+animeRelated	['Million Doll', 'Million Doll: Otaku Go Kouza']
+animeCharacters	['Mariko', 'Momona', 'Ryuu-san', 'Yurino', 'Rina', 'Suuko', 'Kamakura, Hinami', 'Kaede', 'Kuu-nyan']
+animeVoices	['Itou, Miku', 'Watanabe, Yui', 'Umehara, Yuuichirou', 'Matsui, Eriko', 'Iizuka, Mayu', 'Kusuda, Aina', 'Uchida, Aya', 'Kabayama, Minami', 'Arakawa, Natsuki']
+animeStaff	[['Kawaguchi, Keiichirou', 'Director'], ['Murakami, Momoko', 'Script'], ['Tashiro, Tomokazu', 'Theme Song Composition'], ['Yamane, Masahiro', 'Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Cop Craft'
-animeType	b'TV'
+animeTitle	Cop Craft
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.72
 animeUsers	41666
 animeRank	
-animePopularity	
-animeDescription	"b""Fifteen years ago, a hyperspace gate appeared in the middle of the Pacific Ocean, connecting Earth to a strange world filled with fairies and monsters. The city of San-Teresa became a home for over two million of these otherworldly visitors. Unfortunately, the population boom also brought its fair share of problems\xe2\x80\x94drugs, prostitution, and trafficking. To combat the rampant crime lurking in the city's shadows, a new department was established in the San-Teresa Metropolitan Police.\n\nFormer JSDF soldier Kei Matoba is one of the best cops that the department has to offer, despite his inclination to occasionally bend the rules. After a fairy trafficking case goes wrong, Kei loses Rick Fury, his friend and partner of four years, setting him on a quest for vengeance. To help him with the case, the department pairs him with Tilarna Exedilika, a noble of the Farbani Kingdom. As one of the Knights of Mirvor, her duty is to rescue the noble fairy that Kei encountered during his last case. Despite his distaste for non-humans, he accepts the arrangement at the request of his superiors. Now, the unlikely duo must come together and overcome their differences in order to return the missing fairy to her country and avenge the death of Kei's partner.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Cop Craft: Dragnet Mirage Reloaded', b'Cop Craft: Utsukushiki Onna Kishi! Toraware no Yousei wo Oe!']
-animeCharacters	[b'Exedilika, Tilarna', b'Matoba, Kei', b'Zelada', b'Estefan, Cameron', b'Mcbee, Tony', b'Epps, Cecil', b'Roth, Jack', b'Austin, Jamie']
-animeVoices	[b'\nYoshioka, Mayu\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nTakahashi, Ryousuke\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nHamada, Kenji\nJapanese\n', b'\nNakahara, Mai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItagaki, Shin\n\nDirector, Storyboard, Assistant Animation Director, Layout, Animation Director, Key Animation\n\n', b'\nGatoh, Shoji\n\nScript, Series Composition, Original Creator\n\n', b'\nOoishi, Masayoshi\n\nTheme Song Composition, Theme Song Lyrics, Theme Song Performance, Theme Song Arrangement\n\n', b'\nYoshioka, Mayu\n\nTheme Song Performance\n\n']
+animePopularity	1615
+animeDescription	"Fifteen years ago, a hyperspace gate appeared in the middle of the Pacific Ocean, connecting Earth to a strange world filled with fairies and monsters. The city of San-Teresa became a home for over two million of these otherworldly visitors. Unfortunately, the population boom also brought its fair share of problems—drugs, prostitution, and trafficking. To combat the rampant crime lurking in the city's shadows, a new department was established in the San-Teresa Metropolitan Police.
+
+Former JSDF soldier Kei Matoba is one of the best cops that the department has to offer, despite his inclination to occasionally bend the rules. After a fairy trafficking case goes wrong, Kei loses Rick Fury, his friend and partner of four years, setting him on a quest for vengeance. To help him with the case, the department pairs him with Tilarna Exedilika, a noble of the Farbani Kingdom. As one of the Knights of Mirvor, her duty is to rescue the noble fairy that Kei encountered during his last case. Despite his distaste for non-humans, he accepts the arrangement at the request of his superiors. Now, the unlikely duo must come together and overcome their differences in order to return the missing fairy to her country and avenge the death of Kei's partner.
+
+[Written by MAL Rewrite]"
+animeRelated	['Cop Craft: Dragnet Mirage Reloaded', 'Cop Craft: Utsukushiki Onna Kishi! Toraware no Yousei wo Oe!']
+animeCharacters	['Exedilika, Tilarna', 'Matoba, Kei', 'Zelada', 'Estefan, Cameron', 'Mcbee, Tony', 'Epps, Cecil', 'Roth, Jack', 'Austin, Jamie']
+animeVoices	['Yoshioka, Mayu', 'Tsuda, Kenjirou', 'Ootsuka, Houchuu', 'Inoue, Marina', 'Takahashi, Ryousuke', 'Orikasa, Fumiko', 'Hamada, Kenji', 'Nakahara, Mai']
+animeStaff	[['Itagaki, Shin', 'Director, Storyboard, Assistant Animation Director, Layout, Animation Director, Key Animation'], ['Gatoh, Shoji', 'Script, Series Composition, Original Creator'], ['Ooishi, Masayoshi', 'Theme Song Composition, Theme Song Lyrics, Theme Song Performance, Theme Song Arrangement'], ['Yoshioka, Mayu', 'Theme Song Performance']]

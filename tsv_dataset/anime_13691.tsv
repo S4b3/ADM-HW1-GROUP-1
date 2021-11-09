@@ -1,5 +1,5 @@
-animeTitle	b'Tako ni Natta Okaasan'
-animeType	b'Special'
+animeTitle	Tako ni Natta Okaasan
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'The second film in Shin-Ei\'s series of annual WWII themed anime television movies for children ""Sensou Douwa"" (war story).\n\n(Source: AniDB)'"
-animeRelated	[b'Kiku-chan to Ookami', b'Futatsu no Kurumi', b'Aoi Hitomi no Onnanoko no Ohanashi', b'Yakeato no, Okashi no Ki', b'Boku no Boukuugou', b'Umigame to Shounen', b'Chiisai Sensuikan ni Koi wo Shita Dekasugiru Kujira no Hanashi']
-animeCharacters	[b'Narrator']
-animeVoices	[b'\nSatou, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakeuchi, Yoshio\n\nDirector\n\n', b'\nOokuma, Akira\n\nSound Director\n\n', b'\nNishida, Minoru\n\nArt Director\n\n', b'\nOkayasu, Hajime\n\nEditing\n\n']
+animePopularity	12552
+animeDescription	"The second film in Shin-Ei's series of annual WWII themed anime television movies for children ""Sensou Douwa"" (war story).
+
+(Source: AniDB)"
+animeRelated	['Kiku-chan to Ookami', 'Futatsu no Kurumi', 'Aoi Hitomi no Onnanoko no Ohanashi', 'Yakeato no, Okashi no Ki', 'Boku no Boukuugou', 'Umigame to Shounen', 'Chiisai Sensuikan ni Koi wo Shita Dekasugiru Kujira no Hanashi']
+animeCharacters	['Narrator']
+animeVoices	['Satou, Ai']
+animeStaff	[['Takeuchi, Yoshio', 'Director'], ['Ookuma, Akira', 'Sound Director'], ['Nishida, Minoru', 'Art Director'], ['Okayasu, Hajime', 'Editing']]

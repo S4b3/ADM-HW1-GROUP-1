@@ -1,5 +1,5 @@
-animeTitle	b'Gon'
-animeType	b'TV'
+animeTitle	Gon
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.73
 animeUsers	489
 animeRank	
-animePopularity	
-animeDescription	b'The Gon series features the completely wordless adventures of the irascible title character, a tiny fictional dinosaur, as he interacts with the natural world. Gon somehow survived the extinction of his fellow dinosaurs and interacts with paleolithic animals. \n\n(Source: Wikipedia)'
-animeRelated	[b'Gon', b'Gon 2nd Season']
-animeCharacters	[b'Gon']
-animeVoices	[b'\nKumai, Motoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakakuwa, Hajime\n\nScript\n\n', b'\nTanaka, Masashi\n\nOriginal Creator\n\n']
+animePopularity	9760
+animeDescription	"The Gon series features the completely wordless adventures of the irascible title character, a tiny fictional dinosaur, as he interacts with the natural world. Gon somehow survived the extinction of his fellow dinosaurs and interacts with paleolithic animals. 
+
+(Source: Wikipedia)"
+animeRelated	['Gon', 'Gon 2nd Season']
+animeCharacters	['Gon']
+animeVoices	['Kumai, Motoko']
+animeStaff	[['Takakuwa, Hajime', 'Script'], ['Tanaka, Masashi', 'Original Creator']]

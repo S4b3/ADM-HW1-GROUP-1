@@ -1,5 +1,5 @@
-animeTitle	b'Major S1'
-animeType	b'TV'
+animeTitle	Major S1
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.24
 animeUsers	44726
 animeRank	
-animePopularity	
-animeDescription	"b""Gorou Honda, a little boy obsessed with baseball, has always admired his father, Shigeharu. Wishing to follow in his father's footsteps, Gorou dreams of becoming a professional baseball player. In turn, his son's starry-eyed admiration encourages Shigeharu to keep persevering, despite his late wife's death and his unsatisfying position on the second-string team Blue Ocean.\n\nUnfortunately, an elbow injury forces Shigeharu off the team, and he falls into despair. However, after an offhand joke from his childhood friend, Shigeharu reevaluates his choices and decides to keep playing, leaving behind his prime position as pitcher and taking up the bat. Now motivated more than ever, Gorou works hard to carve his way in the Japanese Little League.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Major', b'Major S2', b'Major Movie: Yuujou no Winning Shot']
-animeCharacters	[b'Honda, Gorou', b'Shimizu, Kaoru', b'Komori, Daisuke', b'Sawamura, Ryouta', b'Satou, Toshiya', b'Gibson, Joe', b'Shimizu, Taiga', b'Honda, Shigeharu', b'Hoshino, Momoko', b'Shigeno, Hideki']
-animeVoices	[b'\nKumai, Motoko\nJapanese\n', b'\nSasamoto, Yuuko\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nSasajima, Kaoru\nJapanese\n', b'\nOno, Fuyuka\nJapanese\n', b'\nOchiai, Kouji\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nNoda, Junko\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKasai, Kenichi\n\nDirector, Storyboard\n\n', b'\nTakakuwa, Hajime\n\nSound Director\n\n', b'\nYoshida, Reiko\n\nScript\n\n', b'\nYoshioka, Takao\n\nScript\n\n']
+animePopularity	1780
+animeDescription	"Gorou Honda, a little boy obsessed with baseball, has always admired his father, Shigeharu. Wishing to follow in his father's footsteps, Gorou dreams of becoming a professional baseball player. In turn, his son's starry-eyed admiration encourages Shigeharu to keep persevering, despite his late wife's death and his unsatisfying position on the second-string team Blue Ocean.
+
+Unfortunately, an elbow injury forces Shigeharu off the team, and he falls into despair. However, after an offhand joke from his childhood friend, Shigeharu reevaluates his choices and decides to keep playing, leaving behind his prime position as pitcher and taking up the bat. Now motivated more than ever, Gorou works hard to carve his way in the Japanese Little League.
+
+[Written by MAL Rewrite]"
+animeRelated	['Major', 'Major S2', 'Major Movie: Yuujou no Winning Shot']
+animeCharacters	['Honda, Gorou', 'Shimizu, Kaoru', 'Komori, Daisuke', 'Sawamura, Ryouta', 'Satou, Toshiya', 'Gibson, Joe', 'Shimizu, Taiga', 'Honda, Shigeharu', 'Hoshino, Momoko', 'Shigeno, Hideki']
+animeVoices	['Kumai, Motoko', 'Sasamoto, Yuuko', 'Kugimiya, Rie', 'Sasajima, Kaoru', 'Ono, Fuyuka', 'Ochiai, Kouji', 'Koyasu, Takehito', 'Noda, Junko', 'Sakuya, Shunsuke']
+animeStaff	[['Kasai, Kenichi', 'Director, Storyboard'], ['Takakuwa, Hajime', 'Sound Director'], ['Yoshida, Reiko', 'Script'], ['Yoshioka, Takao', 'Script']]

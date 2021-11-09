@@ -1,5 +1,5 @@
-animeTitle	b'Ichi Nichi Shite Narazu'
-animeType	b'ONA'
+animeTitle	Ichi Nichi Shite Narazu
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The story follows an office worker Mitsuki who is more devoted to her work than her own personal grooming. She decides to improve her appearance when she discovers that her boss Watanabe is leaving.\n\n(Source: ANN)'
+animePopularity	14331
+animeDescription	"The story follows an office worker Mitsuki who is more devoted to her work than her own personal grooming. She decides to improve her appearance when she discovers that her boss Watanabe is leaving.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Watanabe', b'Chiba, Ryouta', b'Hattori, Mitsuki', b'Bartender']
-animeVoices	[b'\nInoue, Satoru\nJapanese\n', b'\nUmehara, Yuuichirou\nJapanese\n', b'\nKubota, Hikari\nJapanese\n', b'\nKagami, Riki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCeui\n\nTheme Song Performance, Theme Song Lyrics, Theme Song Composition\n\n']
+animeCharacters	['Watanabe', 'Chiba, Ryouta', 'Hattori, Mitsuki', 'Bartender']
+animeVoices	['Inoue, Satoru', 'Umehara, Yuuichirou', 'Kubota, Hikari', 'Kagami, Riki']
+animeStaff	[['Ceui', 'Theme Song Performance, Theme Song Lyrics, Theme Song Composition']]

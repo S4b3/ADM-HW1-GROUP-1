@@ -1,5 +1,5 @@
-animeTitle	b'Gall Force: Chikyuu Shou'
-animeType	b'OVA'
+animeTitle	Gall Force: Chikyuu Shou
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.19
 animeUsers	840
 animeRank	
-animePopularity	
-animeDescription	"b""The year 2085 and the only winners of the last war were the machines. Years previously the human race discovered the ruins of an ancient ship beneath the moon's surface and used the knowledge gained to create weapons of war. Eventually these weapons turned against mankind, seeing them as a threat and deciding the only way to stop these war loving humans was to destroy them. Heavily influenced by the 1988 Terminator movie, this new series focuses upon Sandy Newman as she leads a band of warriors in an attempt to reclaim the earth from the machines. If they can reach a group of unlaunched nuclear missiles, they can take out the machine`s headquarters located in Australia. \n\n(Source: AniDB)"""
-animeRelated	[b'Rhea Gall Force', b'Gall Force: New Era']
-animeCharacters	[b'Newman, Sandy', b'Score', b'Norton', b'Gorn', b'Bauer', b'Melody', b'Mitty', b'Fortin', b'Catty', b'McKenzie, Lamidia']
-animeVoices	[b'\nMatsui, Naoko\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nHara, Eriko\nJapanese\n', b'\nHonda, Chieko\nJapanese\n', b'\nKawamura, Maria\nJapanese\n', b'\nWatanabe, Naoko\nJapanese\n', b'\nYamamoto, Yuriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkiyama, Katsuhito\n\nDirector\n\n', b'\nKakinuma, Hideki\n\nScript\n\n', b'\nSonoda, Kenichi\n\nOriginal Character Design\n\n', b'\nOoshiro, Tsutomu\n\nKey Animation\n\n']
+animePopularity	8932
+animeDescription	"The year 2085 and the only winners of the last war were the machines. Years previously the human race discovered the ruins of an ancient ship beneath the moon's surface and used the knowledge gained to create weapons of war. Eventually these weapons turned against mankind, seeing them as a threat and deciding the only way to stop these war loving humans was to destroy them. Heavily influenced by the 1988 Terminator movie, this new series focuses upon Sandy Newman as she leads a band of warriors in an attempt to reclaim the earth from the machines. If they can reach a group of unlaunched nuclear missiles, they can take out the machine`s headquarters located in Australia. 
+
+(Source: AniDB)"
+animeRelated	['Rhea Gall Force', 'Gall Force: New Era']
+animeCharacters	['Newman, Sandy', 'Score', 'Norton', 'Gorn', 'Bauer', 'Melody', 'Mitty', 'Fortin', 'Catty', 'McKenzie, Lamidia']
+animeVoices	['Matsui, Naoko', 'Tsuru, Hiromi', 'Yara, Yuusaku', 'Satou, Masaharu', 'Inoue, Kazuhiko', 'Hara, Eriko', 'Honda, Chieko', 'Kawamura, Maria', 'Watanabe, Naoko', 'Yamamoto, Yuriko']
+animeStaff	[['Akiyama, Katsuhito', 'Director'], ['Kakinuma, Hideki', 'Script'], ['Sonoda, Kenichi', 'Original Character Design'], ['Ooshiro, Tsutomu', 'Key Animation']]

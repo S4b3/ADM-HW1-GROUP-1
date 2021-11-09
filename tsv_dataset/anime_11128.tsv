@@ -1,5 +1,5 @@
-animeTitle	b'Kujira (1952)'
-animeType	b'Movie'
+animeTitle	Kujira (1952)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.2
 animeUsers	486
 animeRank	
-animePopularity	
-animeDescription	"b""Remake of Oofuji's earlier film from the year 1927.\n\n(Source: AniDB)"""
-animeRelated	[b'Kujira']
+animePopularity	10996
+animeDescription	"Remake of Oofuji's earlier film from the year 1927.
+
+(Source: AniDB)"
+animeRelated	['Kujira']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

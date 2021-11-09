@@ -1,5 +1,5 @@
-animeTitle	b'Black Blood Brothers'
-animeType	b'TV'
+animeTitle	Black Blood Brothers
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.12
 animeUsers	50962
 animeRank	
-animePopularity	
-animeDescription	"b'Ten years after the Holy War in Hong Kong, Mochizuki Jirou, aka the Silver Blade, and the lone hero who fought and defeated the Kowloon Children despite the loss of his lover, returns to Japan with his young brother, Mochizuki Kotarou. The two quickly discover that the Kowloon Children who survived the Holy War are seeking to infiltrate the ""Special Zone"", a thriving city protected by an invisible barrier that will not allow Kowloon Children entrance, unless they\'re invited. Red Bloods refers to the humans; Black Bloods are the vampires, and the Mochizuki Brothers are Old Blood, the last descendants of an elite clan of vampires. When Kotarou is abducted by one of the Kowloon Children, Jirou has no choice but to fight once more.\n\n(Source: ANN)'"
-animeRelated	[b'Black Blood Brothers ver.C', b'Black Blood Brothers']
-animeCharacters	[b'Mochizuki, Jirou', b'Mochizuki, Kotarou', b'Warlock, Cassandra Jill', b'Katsuragi, Mimiko', b'Clock, Zelman', b'Sei', b'Warlock, Cain', b'Eve, Alice', b'Wong, Kelly', b'Zaza']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nMinami, Omi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nNagata, Ryoko\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nTakagi, Reiko\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n', b'\nTsuji, Ayumi\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nAshida, Toyoo\n\nEpisode Director, Storyboard\n\n', b'\nAsami, Matsuo\n\nEpisode Director\n\n']
+animePopularity	1686
+animeDescription	"Ten years after the Holy War in Hong Kong, Mochizuki Jirou, aka the Silver Blade, and the lone hero who fought and defeated the Kowloon Children despite the loss of his lover, returns to Japan with his young brother, Mochizuki Kotarou. The two quickly discover that the Kowloon Children who survived the Holy War are seeking to infiltrate the ""Special Zone"", a thriving city protected by an invisible barrier that will not allow Kowloon Children entrance, unless they're invited. Red Bloods refers to the humans; Black Bloods are the vampires, and the Mochizuki Brothers are Old Blood, the last descendants of an elite clan of vampires. When Kotarou is abducted by one of the Kowloon Children, Jirou has no choice but to fight once more.
+
+(Source: ANN)"
+animeRelated	['Black Blood Brothers ver.C', 'Black Blood Brothers']
+animeCharacters	['Mochizuki, Jirou', 'Mochizuki, Kotarou', 'Warlock, Cassandra Jill', 'Katsuragi, Mimiko', 'Clock, Zelman', 'Sei', 'Warlock, Cain', 'Eve, Alice', 'Wong, Kelly', 'Zaza']
+animeVoices	['Sakurai, Takahiro', 'Minami, Omi', 'Sawashiro, Miyuki', 'Nagata, Ryoko', 'Fukuyama, Jun', 'Takagi, Reiko', 'Yasumoto, Hiroki', 'Tsuji, Ayumi', 'Toriumi, Kousuke']
+animeStaff	[['Cook, Justin', 'Producer'], ['Kameyama, Toshiki', 'Sound Director'], ['Ashida, Toyoo', 'Episode Director, Storyboard'], ['Asami, Matsuo', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Getter Robo Go'
-animeType	b'TV'
+animeTitle	Getter Robo Go
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.1
 animeUsers	380
 animeRank	
-animePopularity	
-animeDescription	b'A new Getter robot is piloted by three youth as they combat the evil terrors that plague the world.'
-animeRelated	[b'Shin Getter Robo tai Neo Getter Robo', b'Getter Robo', b'Getter Robo G']
-animeCharacters	[b'Ichimonji, Go', b'Daido, Gai', b'Tachibana, Sho', b'Professor Lando']
-animeVoices	[b'\nKusao, Takeshi\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nKobayashi, Yuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNitta, Yoshikata\n\nEpisode Director\n\n', b'\nHoshiyama, Hiroyuki\n\nScript\n\n', b'\nWatanabe, Chuumei\n\nTheme Song Arrangement, Theme Song Composition, Music\n\n', b'\nNakamura, Yutaka\n\nKey Animation\n\n']
+animePopularity	9508
+animeDescription	A new Getter robot is piloted by three youth as they combat the evil terrors that plague the world.
+animeRelated	['Shin Getter Robo tai Neo Getter Robo', 'Getter Robo', 'Getter Robo G']
+animeCharacters	['Ichimonji, Go', 'Daido, Gai', 'Tachibana, Sho', 'Professor Lando']
+animeVoices	['Kusao, Takeshi', 'Kamiya, Akira', 'Kobayashi, Yuko']
+animeStaff	[['Nitta, Yoshikata', 'Episode Director'], ['Hoshiyama, Hiroyuki', 'Script'], ['Watanabe, Chuumei', 'Theme Song Arrangement, Theme Song Composition, Music'], ['Nakamura, Yutaka', 'Key Animation']]

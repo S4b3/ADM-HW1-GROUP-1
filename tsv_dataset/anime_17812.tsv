@@ -1,5 +1,5 @@
-animeTitle	b'Amanee!: Tomodachinchi de Konna Koto ni Naru Nante!'
-animeType	b'OVA'
+animeTitle	Amanee!: Tomodachinchi de Konna Koto ni Naru Nante!
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.97
 animeUsers	5589
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the same name adult manga by Shiomaneki.\n\nRyouichi goes to his friend Yuu's place to play video games, like they do sometimes. It turns out that Yuu's aunt Yui has come to visit, and she joins them. But it soon becomes clear that it's not a video game she wants to play with Ryouichi...\n\n(Source: AniDB)"""
-animeRelated	[b'Amanee!']
-animeCharacters	[b'Yui', b'Ryouichi', b'Yuu']
-animeVoices	[b'\nTakashiro, Mitsu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOota, Hideta\n\nProducer, Director\n\n', b'\nShiomaneki\n\nOriginal Creator\n\n']
+animePopularity	4992
+animeDescription	"Based on the same name adult manga by Shiomaneki.
+
+Ryouichi goes to his friend Yuu's place to play video games, like they do sometimes. It turns out that Yuu's aunt Yui has come to visit, and she joins them. But it soon becomes clear that it's not a video game she wants to play with Ryouichi...
+
+(Source: AniDB)"
+animeRelated	['Amanee!']
+animeCharacters	['Yui', 'Ryouichi', 'Yuu']
+animeVoices	['Takashiro, Mitsu']
+animeStaff	[['Oota, Hideta', 'Producer, Director'], ['Shiomaneki', 'Original Creator']]

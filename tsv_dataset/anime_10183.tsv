@@ -1,5 +1,5 @@
-animeTitle	b'Ippatsu Hicchuu!! Devander'
-animeType	b'OVA'
+animeTitle	Ippatsu Hicchuu!! Devander
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.56
 animeUsers	245
 animeRank	
-animePopularity	
-animeDescription	"b'This story revolves around a spirited, carefree boy named Kazuma Harukaze, who lives with his little sister Sakura and his horse Lovely on a farm within sight of Mt. Fuji. One day, a ""meteor"" lands nearby, and it turns out to be Hinkeeru\xe2\x80\x94a messenger from Muzanda who has come to warn Earth of a grave danger\xe2\x80\x94and a robot horse named Robony.\n\n(Source: ANN)'"
+animePopularity	12228
+animeDescription	"This story revolves around a spirited, carefree boy named Kazuma Harukaze, who lives with his little sister Sakura and his horse Lovely on a farm within sight of Mt. Fuji. One day, a ""meteor"" lands nearby, and it turns out to be Hinkeeru—a messenger from Muzanda who has come to warn Earth of a grave danger—and a robot horse named Robony.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Harukaze, Kazuma', b'Giara Red Senmai', b'King Bull', b'Harukaze, Sakura']
-animeVoices	[b'\nKaji, Yuki\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nOohira, Tooru\nJapanese\n', b'\nOokubo, Rumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nYamashita, Masahito\n\nStoryboard, Animation Director, Key Animation\n\n', b'\nOobari, Masami\n\nKey Animation\n\n', b'\nArai, Jun\n\nKey Animation, Animation Director\n\n']
+animeCharacters	['Harukaze, Kazuma', 'Giara Red Senmai', 'King Bull', 'Harukaze, Sakura']
+animeVoices	['Kaji, Yuki', 'Morikawa, Toshiyuki', 'Oohira, Tooru', 'Ookubo, Rumi']
+animeStaff	[['Sasagawa, Hiroshi', 'Director'], ['Yamashita, Masahito', 'Storyboard, Animation Director, Key Animation'], ['Oobari, Masami', 'Key Animation'], ['Arai, Jun', 'Key Animation, Animation Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Burn Up!'
-animeType	b'OVA'
+animeTitle	Burn Up!
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.08
 animeUsers	3041
 animeRank	
-animePopularity	
-animeDescription	"b'To the unsuspecting eye Maki, Reimi and Yuka may not look like ace crime fighters, which might explain why they\'re stuck on traffic patrol instead of more ""exciting"" police duties.\n\nAll that changes when Yuka gets herself kidnapped by a white slave organization run by a politically connected businessman who\'s got the rest of the police cowed.\n\nNow it\'s up to Maki and Reimi to don skin-tight battle armor, liberate a tank, and make sure that a certain slaver learns that when you play with fire, you\'re going to get your ass burned!\n\n(Source: DVD Back Cover)'"
-animeRelated	[b'Burn Up Excess', b'Burn Up Scramble', b'Burn Up! W']
-animeCharacters	[b'Reimi', b'Yuka', b'Maki', b'Ryuji', b'Sayaka', b'Gannack', b'Banba', b'Kenji', b'McCoy, Samuel']
-animeVoices	[b'\nItou, Miki\nJapanese\n', b'\nNishihara, Kumiko\nJapanese\n', b'\nShibata, Yumiko\nJapanese\n', b'\nUmezu, Hideyuki\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n', b'\nYanada, Kiyoyuki\nJapanese\n', b'\nAkaboshi, Shoichiro\nJapanese\n', b'\nHiramatsu, Hirokazu\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuda, Akio\n\nProducer\n\n', b'\nIde, Yasunori\n\nDirector, Planning\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nKawai, Kenji\n\nMusic\n\n']
+animePopularity	5960
+animeDescription	"To the unsuspecting eye Maki, Reimi and Yuka may not look like ace crime fighters, which might explain why they're stuck on traffic patrol instead of more ""exciting"" police duties.
+
+All that changes when Yuka gets herself kidnapped by a white slave organization run by a politically connected businessman who's got the rest of the police cowed.
+
+Now it's up to Maki and Reimi to don skin-tight battle armor, liberate a tank, and make sure that a certain slaver learns that when you play with fire, you're going to get your ass burned!
+
+(Source: DVD Back Cover)"
+animeRelated	['Burn Up Excess', 'Burn Up Scramble', 'Burn Up! W']
+animeCharacters	['Reimi', 'Yuka', 'Maki', 'Ryuji', 'Sayaka', 'Gannack', 'Banba', 'Kenji', 'McCoy, Samuel']
+animeVoices	['Itou, Miki', 'Nishihara, Kumiko', 'Shibata, Yumiko', 'Umezu, Hideyuki', 'Shiratori, Yuri', 'Yanada, Kiyoyuki', 'Akaboshi, Shoichiro', 'Hiramatsu, Hirokazu', 'Wakamoto, Norio']
+animeStaff	[['Matsuda, Akio', 'Producer'], ['Ide, Yasunori', 'Director, Planning'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Kawai, Kenji', 'Music']]

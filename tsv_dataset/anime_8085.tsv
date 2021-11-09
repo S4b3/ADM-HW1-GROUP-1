@@ -1,5 +1,5 @@
-animeTitle	b'Tanin no Kankei'
-animeType	b'OVA'
+animeTitle	Tanin no Kankei
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.12
 animeUsers	648
 animeRank	
-animePopularity	
-animeDescription	"b""Tokiro Ehara, an idealistic geeky professor, begins teaching at an exclusive high school for girls, with hopes of meeting young innocent minds in their most fragile state. Unfortunately, on his way to work, he meets 18-year-old Miyako and finds out that she is one wild student that needs to be taught how a prim and proper teenager should behave. He starts to believe that he is just the right person to teach her. Miyako, however, has other plans, and she's not above using her seductive wiles to lure him into submission. \n\n(Source: AniDB)"""
-animeRelated	[b'Tanin no Kankei']
-animeCharacters	"[b'Hase, Miyako', b'Ehara, Tokiro', b'Kishida', b'Kou', b""Miyako's Father"", b'Emi']"
-animeVoices	[b'\nAmano, Yuri\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nSugawara, Junichi\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nTomiyama, Kei\nJapanese\n', b'\nKonishi, Hiroko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSekita, Osamu\n\nDirector\n\n', b'\nKawasaki, Hiroyuki\n\nScript\n\n', b'\nFuruya, Akira\n\nArt Director\n\n', b'\nYamasawa, Minoru\n\nAnimation Director, Character Design\n\n']
+animePopularity	9415
+animeDescription	"Tokiro Ehara, an idealistic geeky professor, begins teaching at an exclusive high school for girls, with hopes of meeting young innocent minds in their most fragile state. Unfortunately, on his way to work, he meets 18-year-old Miyako and finds out that she is one wild student that needs to be taught how a prim and proper teenager should behave. He starts to believe that he is just the right person to teach her. Miyako, however, has other plans, and she's not above using her seductive wiles to lure him into submission. 
+
+(Source: AniDB)"
+animeRelated	['Tanin no Kankei']
+animeCharacters	"['Hase, Miyako', 'Ehara, Tokiro', 'Kishida', 'Kou', ""Miyako's Father"", 'Emi']"
+animeVoices	['Amano, Yuri', 'Morikawa, Toshiyuki', 'Sugawara, Junichi', 'Horikawa, Ryo', 'Tomiyama, Kei', 'Konishi, Hiroko']
+animeStaff	[['Sekita, Osamu', 'Director'], ['Kawasaki, Hiroyuki', 'Script'], ['Furuya, Akira', 'Art Director'], ['Yamasawa, Minoru', 'Animation Director, Character Design']]

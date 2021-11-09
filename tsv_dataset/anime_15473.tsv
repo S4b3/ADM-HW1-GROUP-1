@@ -1,5 +1,5 @@
-animeTitle	b'Dotanba no Manners'
-animeType	b'TV'
+animeTitle	Dotanba no Manners
+animeType	TV
 animeNumEpisode	283
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'An introduction to etiquette through the hapless antics of Mr. Dotanba, who manages to put his foot in it in innumerable social situations.\n\n(Source: ANN)'
+animePopularity	14317
+animeDescription	"An introduction to etiquette through the hapless antics of Mr. Dotanba, who manages to put his foot in it in innumerable social situations.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Dotanba']
-animeVoices	[b'\nSako, Masato\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshida, Hiroshi\n\nStoryboard\n\n', b'\nSatou, Sanpei\n\nOriginal Creator\n\n', b'\nWakabayashi, Tadao\n\nAnimation Director\n\n']
+animeCharacters	['Dotanba']
+animeVoices	['Sako, Masato']
+animeStaff	[['Yoshida, Hiroshi', 'Storyboard'], ['Satou, Sanpei', 'Original Creator'], ['Wakabayashi, Tadao', 'Animation Director']]

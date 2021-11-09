@@ -1,5 +1,5 @@
-animeTitle	b'Amnesia OVA'
-animeType	b'OVA'
+animeTitle	Amnesia OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.36
 animeUsers	14595
 animeRank	
-animePopularity	
-animeDescription	b'Animate Tokuten for purchasing all 6 volumes of TV Anime Series.\n\nThe contents of the OVA are from the Drama CDs.'
-animeRelated	[b'Amnesia']
-animeCharacters	[b'Ukyou', b'Shin', b'Touma', b'Ikki', b'Kent', b'Orion', b'Heroine', b'Rika']
-animeVoices	[b'\nMiyata, Kouki\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nIgarashi, Hiromi\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nYoshida, Seiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYanagi, Nagi\n\nTheme Song Lyrics, Theme Song Performance\n\n', b'\nHanamura, Mai\n\nOriginal Character Design\n\n', b'\nTomioka, Takashi\n\nKey Animation\n\n']
+animePopularity	3266
+animeDescription	"Animate Tokuten for purchasing all 6 volumes of TV Anime Series.
+
+The contents of the OVA are from the Drama CDs."
+animeRelated	['Amnesia']
+animeCharacters	['Ukyou', 'Shin', 'Touma', 'Ikki', 'Kent', 'Orion', 'Heroine', 'Rika']
+animeVoices	['Miyata, Kouki', 'Kakihara, Tetsuya', 'Hino, Satoshi', 'Taniyama, Kishou', 'Ishida, Akira', 'Igarashi, Hiromi', 'Nazuka, Kaori', 'Yoshida, Seiko']
+animeStaff	[['Yanagi, Nagi', 'Theme Song Lyrics, Theme Song Performance'], ['Hanamura, Mai', 'Original Character Design'], ['Tomioka, Takashi', 'Key Animation']]

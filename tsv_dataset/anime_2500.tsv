@@ -1,4 +1,4 @@
-animeTitle	b'Macross F Music Clip Shuu: Nyankuri'
+animeTitle	Macross F Music Clip Shuu: Nyankuri
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.28
 animeUsers	1814
 animeRank	
-animePopularity	
-animeDescription	"b""Music clip collection release from anime series Macross Frontier featuring eight music clips and popular scenes from TV series and theatrical features. Also includes newly-created footage such as interview with Ranka and Sheryl and TV spot starring Ranka plus choreography footage starring 3D character version of Nakajima Megumi & May'n.\n\n(Source: AniDB)"""
-animeRelated	[b'Macross F']
-animeCharacters	[b'Nome, Sheryl', b'Lee, Ranka', b'Saotome, Alto']
-animeVoices	[b'\nEndou, Aya\nJapanese\n', b'\nNakajima, Megumi\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nKikuchi, Yasuhito\n\nEpisode Director, Storyboard\n\n', b'\nSatou, Hidekazu\n\nStoryboard, Assistant Director\n\n', b'\nNakajima, Megumi\n\nInserted Song Performance\n\n', b""\nMay'n\n\nInserted Song Performance\n\n""]"
+animePopularity	7419
+animeDescription	"Music clip collection release from anime series Macross Frontier featuring eight music clips and popular scenes from TV series and theatrical features. Also includes newly-created footage such as interview with Ranka and Sheryl and TV spot starring Ranka plus choreography footage starring 3D character version of Nakajima Megumi & May'n.
+
+(Source: AniDB)"
+animeRelated	['Macross F']
+animeCharacters	['Nome, Sheryl', 'Lee, Ranka', 'Saotome, Alto']
+animeVoices	['Endou, Aya', 'Nakajima, Megumi']
+animeStaff	"[['Kikuchi, Yasuhito', 'Episode Director, Storyboard'], ['Satou, Hidekazu', 'Storyboard, Assistant Director'], ['Nakajima, Megumi', 'Inserted Song Performance'], [""May'n"", 'Inserted Song Performance']]"

@@ -1,5 +1,5 @@
-animeTitle	b'Soul Buster'
-animeType	b'TV'
+animeTitle	Soul Buster
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.79
 animeUsers	5930
 animeRank	
-animePopularity	
-animeDescription	"b""Keishuu, China.\n\nThe history books say that in the era of the Three Kingdoms, this land was a place of never-ending war. A young high school boy, Sonshin, who hates his city's history, is troubled by a certain dream. When he wakes up from the dream, strange things begin to happen one after another, and without understanding what's going on, he suddenly finds himself facing Gien, one of the generals from the Romance of the Three Kingdoms, who's trying to kill him! Just before Gien's blade strikes home, a mysterious beautiful woman appears in front of Sonshin. What trials await Sonshin, as he witnesses this terrible battle between two generals of the Three Kingdoms?\n\n(Source: Crunchyroll)"""
+animePopularity	3981
+animeDescription	"Keishuu, China.
+
+The history books say that in the era of the Three Kingdoms, this land was a place of never-ending war. A young high school boy, Sonshin, who hates his city's history, is troubled by a certain dream. When he wakes up from the dream, strange things begin to happen one after another, and without understanding what's going on, he suddenly finds himself facing Gien, one of the generals from the Romance of the Three Kingdoms, who's trying to kill him! Just before Gien's blade strikes home, a mysterious beautiful woman appears in front of Sonshin. What trials await Sonshin, as he witnesses this terrible battle between two generals of the Three Kingdoms?
+
+(Source: Crunchyroll)"
 animeRelated	[]
-animeCharacters	[b'Shuu, Yu', b'Son, Shin', b'Ryou, Un', b'Barin, Yi', b'Sou, Sei', b'Hou, Ga', b'Shuu, Sou', b'Chou', b'Tei, Fu', b'Bo, Anzi']
-animeVoices	[b'\nTanabe, Rui\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nRyu, Seira\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nHorie, Shun\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nShingaki, Tarusuke\nJapanese\n', b'\nSugou, Takayuki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Odahiro\n\nDirector\n\n', b'\nShimizu, Katsunori\n\nSound Director\n\n', b'\nAyane\n\nTheme Song Performance\n\n', b'\nZwei\n\nTheme Song Performance\n\n']
+animeCharacters	['Shuu, Yu', 'Son, Shin', 'Ryou, Un', 'Barin, Yi', 'Sou, Sei', 'Hou, Ga', 'Shuu, Sou', 'Chou', 'Tei, Fu', 'Bo, Anzi']
+animeVoices	['Tanabe, Rui', 'Mizushima, Takahiro', 'Ryu, Seira', 'Kakihara, Tetsuya', 'Horie, Shun', 'Koshimizu, Ami', 'Toyonaga, Toshiyuki', 'Shingaki, Tarusuke', 'Sugou, Takayuki', 'Namikawa, Daisuke']
+animeStaff	[['Watanabe, Odahiro', 'Director'], ['Shimizu, Katsunori', 'Sound Director'], ['Ayane', 'Theme Song Performance'], ['Zwei', 'Theme Song Performance']]

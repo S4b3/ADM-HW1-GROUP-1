@@ -1,5 +1,5 @@
-animeTitle	b'Tiger & Bunny Movie 2: The Rising'
-animeType	b'Movie'
+animeTitle	Tiger & Bunny Movie 2: The Rising
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.79
 animeUsers	9975
 animeRank	
-animePopularity	
-animeDescription	"b'The film will revolve around a mystery that happens on the day of the ""Justice Day"" festival that celebrates Sternbild\'s legendary goddess.\n\n(Source: ANN)'"
-animeRelated	[b'Tiger & Bunny', b'Tiger & Bunny Movie 1: The Beginning', b'Tiger & Bunny 2']
-animeCharacters	[b'Kaburagi, Kotetsu T.', b'Brooks Jr., Barnaby', b'Goldsmith, Ryan', b'Karelin, Ivan', b'Petrov, Yuri', b'Goodman, Keith', b'Lyle, Karina', b'Seymour, Nathan', b'Huang, Pao-Lin', b'Lopez, Antonio']
-animeVoices	[b'\nHirata, Hiroaki\nJapanese\n', b'\nMorita, Masakazu\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nInoue, Gou\nJapanese\n', b'\nKotobuki, Minako\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nKusunoki, Taiten\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYonetani, Yoshitomo\n\nDirector\n\n', b'\nSuzuki, Kiyotaka\n\nEpisode Director\n\n', b'\nUNISON SQUARE GARDEN\n\nTheme Song Performance\n\n', b'\nNOVELS\n\nTheme Song Performance\n\n']
+animePopularity	3556
+animeDescription	"The film will revolve around a mystery that happens on the day of the ""Justice Day"" festival that celebrates Sternbild's legendary goddess.
+
+(Source: ANN)"
+animeRelated	['Tiger & Bunny', 'Tiger & Bunny Movie 1: The Beginning', 'Tiger & Bunny 2']
+animeCharacters	['Kaburagi, Kotetsu T.', 'Brooks Jr., Barnaby', 'Goldsmith, Ryan', 'Karelin, Ivan', 'Petrov, Yuri', 'Goodman, Keith', 'Lyle, Karina', 'Seymour, Nathan', 'Huang, Pao-Lin', 'Lopez, Antonio']
+animeVoices	['Hirata, Hiroaki', 'Morita, Masakazu', 'Nakamura, Yuuichi', 'Okamoto, Nobuhiko', 'Yusa, Kouji', 'Inoue, Gou', 'Kotobuki, Minako', 'Tsuda, Kenjirou', 'Ise, Mariya', 'Kusunoki, Taiten']
+animeStaff	[['Yonetani, Yoshitomo', 'Director'], ['Suzuki, Kiyotaka', 'Episode Director'], ['UNISON SQUARE GARDEN', 'Theme Song Performance'], ['NOVELS', 'Theme Song Performance']]

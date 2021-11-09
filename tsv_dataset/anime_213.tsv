@@ -1,5 +1,5 @@
-animeTitle	b'NHK ni Youkoso!'
-animeType	b'TV'
+animeTitle	NHK ni Youkoso!
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.32
 animeUsers	276117
 animeRank	
-animePopularity	
-animeDescription	"b""Twenty-two-year-old college dropout Tatsuhiro Satou has been a hikikomori for almost four years now. In his isolation, he has come to believe in many obscure conspiracy theories, but there is one in particular which he holds unshakable faith in: the theory that the evil conspirator behind his shut-in NEET (Not in Employment, Education or Training) status is the Nihon Hikikomori Kyokai (NHK)\xe2\x80\x94an evil and secret organization dedicated to fostering the spread of hikikomori culture.\n\nNHK ni Youkoso! is a psychological dramedy that follows Tatsuhiro as he strives to escape from the NHK's wicked machinations and the disease of self-wrought isolation, while struggling to even just leave his apartment and find a job. His unexpected encounter with the mysterious Misaki Nakahara might signal a reversal of fortune for Tatsuhiro, but with this meeting comes the inevitable cost of having to face his greatest fear\xe2\x80\x94society.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'NHK ni Youkoso!']
-animeCharacters	[b'Satou, Tatsuhiro', b'Nakahara, Misaki', b'Yamazaki, Kaoru', b'Purin', b'Kashiwa, Hitomi', b'NHK Agents', b'Kobayashi, Megumi', b'Jougasaki, Akira', b'Satou, Shizue', b'Kusano, Yuu']
-animeVoices	[b'\nKoizumi, Yutaka\nJapanese\n', b'\nMakino, Yui\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nShishido, Rumi\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nHayamizu, Risa\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nShou, Mayumi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Yuusuke\n\nDirector, Episode Director, Storyboard\n\n', b'\nShioya, Yoku\n\nSound Director\n\n', b'\nKaburagi, Hiro\n\nEpisode Director, Storyboard\n\n', b'\nFujimoto, Jirou\n\nEpisode Director\n\n']
+animePopularity	236
+animeDescription	"Twenty-two-year-old college dropout Tatsuhiro Satou has been a hikikomori for almost four years now. In his isolation, he has come to believe in many obscure conspiracy theories, but there is one in particular which he holds unshakable faith in: the theory that the evil conspirator behind his shut-in NEET (Not in Employment, Education or Training) status is the Nihon Hikikomori Kyokai (NHK)—an evil and secret organization dedicated to fostering the spread of hikikomori culture.
+
+NHK ni Youkoso! is a psychological dramedy that follows Tatsuhiro as he strives to escape from the NHK's wicked machinations and the disease of self-wrought isolation, while struggling to even just leave his apartment and find a job. His unexpected encounter with the mysterious Misaki Nakahara might signal a reversal of fortune for Tatsuhiro, but with this meeting comes the inevitable cost of having to face his greatest fear—society.
+
+[Written by MAL Rewrite]"
+animeRelated	['NHK ni Youkoso!']
+animeCharacters	['Satou, Tatsuhiro', 'Nakahara, Misaki', 'Yamazaki, Kaoru', 'Purin', 'Kashiwa, Hitomi', 'NHK Agents', 'Kobayashi, Megumi', 'Jougasaki, Akira', 'Satou, Shizue', 'Kusano, Yuu']
+animeVoices	['Koizumi, Yutaka', 'Makino, Yui', 'Sakaguchi, Daisuke', 'Shishido, Rumi', 'Kobayashi, Sanae', 'Hayamizu, Risa', 'Tobita, Nobuo', 'Shou, Mayumi', 'Sawashiro, Miyuki']
+animeStaff	[['Yamamoto, Yuusuke', 'Director, Episode Director, Storyboard'], ['Shioya, Yoku', 'Sound Director'], ['Kaburagi, Hiro', 'Episode Director, Storyboard'], ['Fujimoto, Jirou', 'Episode Director']]

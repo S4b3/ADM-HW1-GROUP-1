@@ -1,5 +1,5 @@
-animeTitle	b'Project A-Ko'
-animeType	b'Movie'
+animeTitle	Project A-Ko
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.84
 animeUsers	6813
 animeRank	
-animePopularity	
-animeDescription	"b""Sixteen years after its destruction by a meteor, Graviton City has been rebuilt into a futuristic metropolis. However, this is of little concern to superpowered high school student Eiko Magami, who only cares about her best friend Shiiko Kotobuki and arriving at school on time. Unfortunately, the incredibly intelligent Biko Daitokuji intends to befriend Shiiko, taking Eiko's place as the Shiiko's best friend using any means she can.\n\nBiko decides that, to accomplish this, she must defeat Eiko in combat. In order to overcome her super strength and speed, Biko creates a mecha and challenges Eiko in front of their school gate. As the two commence their battle, an extremely large spaceship hovers over Earth, searching for something left behind.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'A-Ko The Versus', b'Project A-Ko 2: Daitokuji Zaibatsu no Inbou']
-animeCharacters	[b'Magami, Eiko', b'Daitokuji, Biko', b'Kotobuki, Shiiko', b'D', b'Captain Napolipolita', b'Asa', b'Mari', b'Ine', b'Ume', b'Ayumi, Miss']
-animeVoices	[b'\nItou, Miki\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nIkeda, Shuuichi\nJapanese\n', b'\nHibino, Akari\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nTakamori, Yoshino\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nMukaidono, Asami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishijima, Katsuhiko\n\nDirector, Screenplay, Creator\n\n', b'\nMoriyama, Yuuji\n\nScript, Character Design, Animation Director, Key Animation\n\n', b'\nKimura, Shinji\n\nArt Director\n\n', b'\nYamauchi, Noriyasu\n\nKey Animation\n\n']
+animePopularity	4409
+animeDescription	"Sixteen years after its destruction by a meteor, Graviton City has been rebuilt into a futuristic metropolis. However, this is of little concern to superpowered high school student Eiko Magami, who only cares about her best friend Shiiko Kotobuki and arriving at school on time. Unfortunately, the incredibly intelligent Biko Daitokuji intends to befriend Shiiko, taking Eiko's place as the Shiiko's best friend using any means she can.
+
+Biko decides that, to accomplish this, she must defeat Eiko in combat. In order to overcome her super strength and speed, Biko creates a mecha and challenges Eiko in front of their school gate. As the two commence their battle, an extremely large spaceship hovers over Earth, searching for something left behind.
+
+[Written by MAL Rewrite]"
+animeRelated	['A-Ko The Versus', 'Project A-Ko 2: Daitokuji Zaibatsu no Inbou']
+animeCharacters	['Magami, Eiko', 'Daitokuji, Biko', 'Kotobuki, Shiiko', 'D', 'Captain Napolipolita', 'Asa', 'Mari', 'Ine', 'Ume', 'Ayumi, Miss']
+animeVoices	['Itou, Miki', 'Shinohara, Emi', 'Tomizawa, Michie', 'Genda, Tesshou', 'Ikeda, Shuuichi', 'Hibino, Akari', 'Gouri, Daisuke', 'Takamori, Yoshino', 'Hayashibara, Megumi', 'Mukaidono, Asami']
+animeStaff	[['Nishijima, Katsuhiko', 'Director, Screenplay, Creator'], ['Moriyama, Yuuji', 'Script, Character Design, Animation Director, Key Animation'], ['Kimura, Shinji', 'Art Director'], ['Yamauchi, Noriyasu', 'Key Animation']]

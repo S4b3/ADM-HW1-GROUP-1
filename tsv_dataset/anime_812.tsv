@@ -1,5 +1,5 @@
-animeTitle	b'Maria-sama ga Miteru 3rd'
-animeType	b'OVA'
+animeTitle	Maria-sama ga Miteru 3rd
+animeType	OVA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.83
 animeUsers	9194
 animeRank	
-animePopularity	
-animeDescription	"b""Summer has arrived, and the students of Lillian Girls' Academy are on break! Yumi and Sachiko head out to the Ogasawara family's summer home, but what was supposed to be a relaxing vacation takes a turn for the worse when some of Sachiko's old acquaintances drop by for tea. These rich and snobby debutantes don't think Yumi is worthy of Sachiko's affection and they're out to make this summer one she'll regret.\n\n(Source: RightStuf)"""
-animeRelated	[b'Maria-sama ga Miteru', b'Maria-sama ga Miteru: Haru', b'Maria-sama ga Miteru 3rd Specials', b'Maria-sama ga Miteru 4th']
-animeCharacters	[b'Ogasawara, Sachiko', b'Fukuzawa, Yumi', b'Toudou, Shimako', b'Matsudaira, Touko', b'Shimazu, Yoshino', b'Hasekura, Rei', b'Nijou, Noriko', b'Hosokawa, Kanako', b'Satou, Sei', b'Kanina, Shizuka']
-animeVoices	[b'\nItou, Miki\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nIkezawa, Haruna\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nShimizu, Kaori\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nrino\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsushita, Yukihiro\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nYoshida, Shunji\n\nEpisode Director\n\n', b'\nYoshida, Reiko\n\nScript, Series Composition\n\n']
+animePopularity	3993
+animeDescription	"Summer has arrived, and the students of Lillian Girls' Academy are on break! Yumi and Sachiko head out to the Ogasawara family's summer home, but what was supposed to be a relaxing vacation takes a turn for the worse when some of Sachiko's old acquaintances drop by for tea. These rich and snobby debutantes don't think Yumi is worthy of Sachiko's affection and they're out to make this summer one she'll regret.
+
+(Source: RightStuf)"
+animeRelated	['Maria-sama ga Miteru', 'Maria-sama ga Miteru: Haru', 'Maria-sama ga Miteru 3rd Specials', 'Maria-sama ga Miteru 4th']
+animeCharacters	['Ogasawara, Sachiko', 'Fukuzawa, Yumi', 'Toudou, Shimako', 'Matsudaira, Touko', 'Shimazu, Yoshino', 'Hasekura, Rei', 'Nijou, Noriko', 'Hosokawa, Kanako', 'Satou, Sei', 'Kanina, Shizuka']
+animeVoices	['Itou, Miki', 'Ueda, Kana', 'Noto, Mamiko', 'Kugimiya, Rie', 'Ikezawa, Haruna', 'Itou, Shizuka', 'Shimizu, Kaori', 'Koshimizu, Ami', 'Toyoguchi, Megumi', 'rino']
+animeStaff	[['Matsushita, Yukihiro', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Yoshida, Shunji', 'Episode Director'], ['Yoshida, Reiko', 'Script, Series Composition']]

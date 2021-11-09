@@ -1,5 +1,5 @@
-animeTitle	b'Spectral Force Chronicle Divergence'
-animeType	b'OVA'
+animeTitle	Spectral Force Chronicle Divergence
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	4.94
 animeUsers	220
 animeRank	
-animePopularity	
-animeDescription	b'Anime based on JRPG series Spectral Force.'
-animeRelated	[b'Spectral Force']
-animeCharacters	[b'Hiro']
-animeVoices	[b'\nMiyamura, Yuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Yoshiteru\n\nDirector\n\n', b'\nIdea Factory\n\nOriginal Creator\n\n', b'\nKuwana, Shingo\n\nPlanning\n\n']
+animePopularity	11576
+animeDescription	Anime based on JRPG series Spectral Force.
+animeRelated	['Spectral Force']
+animeCharacters	['Hiro']
+animeVoices	['Miyamura, Yuko']
+animeStaff	[['Satou, Yoshiteru', 'Director'], ['Idea Factory', 'Original Creator'], ['Kuwana, Shingo', 'Planning']]

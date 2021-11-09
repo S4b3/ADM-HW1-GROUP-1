@@ -1,5 +1,5 @@
-animeTitle	b'Happy World!'
-animeType	b'OVA'
+animeTitle	Happy World!
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.99
 animeUsers	2677
 animeRank	
-animePopularity	
-animeDescription	"b""Oomura Takeshi is one unlucky fellow. He has has this case of bad luck ever since he was little. One day, while on his normal runs with bad luck, he meets an Angel named Elle, and he finds out that his father wished the curse of bad luck upon him. Takeshi has the oppurtunity to pass on the curse, but accepts it to save a young girl. For his noble act, Elle becomes human and lives with Takeshi to protect him from the curse, which is something Takeshi isn't particularly happy with.\n\n(Source: ANN)"""
-animeRelated	[b'Happy World!']
-animeCharacters	[b'Elle', b'Omura, Takeshi', b'Motoko', b'Sanae']
-animeVoices	[b'\nHanamura, Satomi\nJapanese\n', b'\nYabe, Masahito\nJapanese\n', b'\nSasajima, Kaoru\nJapanese\n', b'\nUchikawa, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIkehata, Takashi\n\nDirector\n\n', b'\nWaki, Takeshi\n\nSound Director\n\n', b'\nTakeshita, Kenjirou\n\nOriginal Creator\n\n']
+animePopularity	6600
+animeDescription	"Oomura Takeshi is one unlucky fellow. He has has this case of bad luck ever since he was little. One day, while on his normal runs with bad luck, he meets an Angel named Elle, and he finds out that his father wished the curse of bad luck upon him. Takeshi has the oppurtunity to pass on the curse, but accepts it to save a young girl. For his noble act, Elle becomes human and lives with Takeshi to protect him from the curse, which is something Takeshi isn't particularly happy with.
+
+(Source: ANN)"
+animeRelated	['Happy World!']
+animeCharacters	['Elle', 'Omura, Takeshi', 'Motoko', 'Sanae']
+animeVoices	['Hanamura, Satomi', 'Yabe, Masahito', 'Sasajima, Kaoru', 'Uchikawa, Ai']
+animeStaff	[['Ikehata, Takashi', 'Director'], ['Waki, Takeshi', 'Sound Director'], ['Takeshita, Kenjirou', 'Original Creator']]

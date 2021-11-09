@@ -1,5 +1,5 @@
-animeTitle	b'Osomatsu-san Movie'
-animeType	b'Movie'
+animeTitle	Osomatsu-san Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.87
 animeUsers	4610
 animeRank	
-animePopularity	
-animeDescription	"b'After an embarrassing high school class reunion with their successful classmates, who have ""proper"" jobs, relationships, and even children, the Matsuno sextuplets return home to sulk about their status as NEETs. They spend the night drinking away their sorrows, eventually falling unconscious, until they awaken in a strange world of memories, centered around one of the brothers\' biggest high school regret.\n\nAs the sextuplets navigate this memory world, they encounter their embarrassing past selves from high school, as well as those of their friends. All the while, they try to uncover whose regret was great enough to trap them in this strange world, so that they can make their way back to reality. However, they\'re running out of time; this world of memories is unstable, and the sextuplets may lose their chance to make things right if they\'re too slow....'"
-animeRelated	[b'Osomatsu-san 2nd Season', b'Osomatsu-san Movie: Zensetsu Gekijou', b'Osomatsu-san Movie 2']
-animeCharacters	[b'Matsuno, Ichimatsu', b'Matsuno, Karamatsu', b'Matsuno, Juushimatsu', b'Matsuno, Osomatsu', b'Matsuno, Choromatsu', b'Matsuno, Todomatsu', b'Iyami', b'Yowai, Totoko', b'Chibita', b'Dayon']
-animeVoices	[b'\nFukuyama, Jun\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nKokuryu, Sachi\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujita, Youichi\n\nDirector\n\n', b'\nTanaka, Tomoya\n\nEpisode Director\n\n', b'\nMatsubara, Shuu\n\nScript\n\n', b'\nEndou, Aya\n\nTheme Song Performance\n\n']
+animePopularity	5005
+animeDescription	"After an embarrassing high school class reunion with their successful classmates, who have ""proper"" jobs, relationships, and even children, the Matsuno sextuplets return home to sulk about their status as NEETs. They spend the night drinking away their sorrows, eventually falling unconscious, until they awaken in a strange world of memories, centered around one of the brothers' biggest high school regret.
+
+As the sextuplets navigate this memory world, they encounter their embarrassing past selves from high school, as well as those of their friends. All the while, they try to uncover whose regret was great enough to trap them in this strange world, so that they can make their way back to reality. However, they're running out of time; this world of memories is unstable, and the sextuplets may lose their chance to make things right if they're too slow...."
+animeRelated	['Osomatsu-san 2nd Season', 'Osomatsu-san Movie: Zensetsu Gekijou', 'Osomatsu-san Movie 2']
+animeCharacters	['Matsuno, Ichimatsu', 'Matsuno, Karamatsu', 'Matsuno, Juushimatsu', 'Matsuno, Osomatsu', 'Matsuno, Choromatsu', 'Matsuno, Todomatsu', 'Iyami', 'Yowai, Totoko', 'Chibita', 'Dayon']
+animeVoices	['Fukuyama, Jun', 'Nakamura, Yuuichi', 'Ono, Daisuke', 'Sakurai, Takahiro', 'Kamiya, Hiroshi', 'Irino, Miyu', 'Suzumura, Kenichi', 'Endou, Aya', 'Kokuryu, Sachi', 'Tobita, Nobuo']
+animeStaff	[['Fujita, Youichi', 'Director'], ['Tanaka, Tomoya', 'Episode Director'], ['Matsubara, Shuu', 'Script'], ['Endou, Aya', 'Theme Song Performance']]

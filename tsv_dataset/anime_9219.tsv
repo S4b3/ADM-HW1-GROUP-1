@@ -1,5 +1,5 @@
-animeTitle	b'Marvel Disk Wars: The Avengers'
-animeType	b'TV'
+animeTitle	Marvel Disk Wars: The Avengers
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.85
 animeUsers	1667
 animeRank	
-animePopularity	
-animeDescription	"b""The story will revolve around how the Avengers\xe2\x80\x94Iron Man, Captain America, Thor, and the Hulk together with the help of Spider-Man and a group of teens\xe2\x80\x94will harness their respective fighting skills and superhuman powers to foil Loki's scheme to take over the world. Marvel Disk Wars: The Avengers will target boys in the 6-12 age group.\n\n(Source: Marvel)"""
-animeRelated	[b'Avengers Confidential: Black Widow to Punisher', b'Marvel Future Avengers']
-animeCharacters	[b'Stark, Anthony', b'Parker, Peter', b'Rogers, Steve', b'Banner, Bruce', b'Loki', b'Odinson, Thor', b'Taylor, Chris', b'Shannon, Jessica', b'van Dyne, Janet', b'Akatsuki, Hikaru']
-animeVoices	[b'\nHanawa, Eiji\nJapanese\n', b'\nKawada, Shinji\nJapanese\n', b'\nNakaya, Kazuhiro\nJapanese\n', b'\nMatsuda, Kenichirou\nJapanese\n', b'\nMutou, Tadashi\nJapanese\n', b'\nKase, Yasuyuki\nJapanese\n', b'\nKuwahata, Yuusuke\nJapanese\n', b'\nOozora, Naomi\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nIguchi, Yuuichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKomura, Toshiaki\n\nDirector\n\n', b'\nKakudou, Hiroyuki\n\nEpisode Director\n\n', b'\nTsubota, Fumi\n\nScript\n\n', b'\nT.M.Revolution\n\nTheme Song Performance\n\n']
+animePopularity	5930
+animeDescription	"The story will revolve around how the Avengers—Iron Man, Captain America, Thor, and the Hulk together with the help of Spider-Man and a group of teens—will harness their respective fighting skills and superhuman powers to foil Loki's scheme to take over the world. Marvel Disk Wars: The Avengers will target boys in the 6-12 age group.
+
+(Source: Marvel)"
+animeRelated	['Avengers Confidential: Black Widow to Punisher', 'Marvel Future Avengers']
+animeCharacters	['Stark, Anthony', 'Parker, Peter', 'Rogers, Steve', 'Banner, Bruce', 'Loki', 'Odinson, Thor', 'Taylor, Chris', 'Shannon, Jessica', 'van Dyne, Janet', 'Akatsuki, Hikaru']
+animeVoices	['Hanawa, Eiji', 'Kawada, Shinji', 'Nakaya, Kazuhiro', 'Matsuda, Kenichirou', 'Mutou, Tadashi', 'Kase, Yasuyuki', 'Kuwahata, Yuusuke', 'Oozora, Naomi', 'Mizuhashi, Kaori', 'Iguchi, Yuuichi']
+animeStaff	[['Komura, Toshiaki', 'Director'], ['Kakudou, Hiroyuki', 'Episode Director'], ['Tsubota, Fumi', 'Script'], ['T.M.Revolution', 'Theme Song Performance']]

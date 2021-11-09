@@ -1,5 +1,5 @@
-animeTitle	b'Zan Sayonara Zetsubou Sensei'
-animeType	b'TV'
+animeTitle	Zan Sayonara Zetsubou Sensei
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.89
 animeUsers	36092
 animeRank	
-animePopularity	
-animeDescription	"b""Nozomu Itoshiki is still the bizarre teacher of the even stranger Class 2-F. He attempts to teach his students the negative aspects of the world and society, only to have each circumstance thrown at his face whenever he tries. With more students and friends than before, Zetsubo-sensei's life becomes harder and crazier than ever before.\n\n(Source: ANN)"""
-animeRelated	[b'Sayonara Zetsubou Sensei', b'Goku Sayonara Zetsubou Sensei', b'Zan Sayonara Zetsubou Sensei Bangaichi']
-animeCharacters	[b'Itoshiki, Nozomu', b'Fuura, Kafuka', b'Kitsu, Chiri', b'Komori, Kiri', b'Tsunetsuki, Matoi', b'Hitou, Nami', b'Sekiutsu, Tarou', b'Fujiyoshi, Harumi', b'Otonashi, Meru', b'Kobushi, Abiru']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nNonaka, Ai\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nTanii, Asuka\nJapanese\n', b'\nSanada, Asami\nJapanese\n', b'\nShintani, Ryouko\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nGotou, Yuuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyamoto, Junnosuke\n\nProducer\n\n', b'\nOoshima, Miku\n\nAssistant Producer\n\n', b'\nShinbou, Akiyuki\n\nDirector\n\n', b'\nMiyamoto, Yukihiro\n\nDirector, Episode Director\n\n']
+animePopularity	1683
+animeDescription	"Nozomu Itoshiki is still the bizarre teacher of the even stranger Class 2-F. He attempts to teach his students the negative aspects of the world and society, only to have each circumstance thrown at his face whenever he tries. With more students and friends than before, Zetsubo-sensei's life becomes harder and crazier than ever before.
+
+(Source: ANN)"
+animeRelated	['Sayonara Zetsubou Sensei', 'Goku Sayonara Zetsubou Sensei', 'Zan Sayonara Zetsubou Sensei Bangaichi']
+animeCharacters	['Itoshiki, Nozomu', 'Fuura, Kafuka', 'Kitsu, Chiri', 'Komori, Kiri', 'Tsunetsuki, Matoi', 'Hitou, Nami', 'Sekiutsu, Tarou', 'Fujiyoshi, Harumi', 'Otonashi, Meru', 'Kobushi, Abiru']
+animeVoices	['Kamiya, Hiroshi', 'Nonaka, Ai', 'Inoue, Marina', 'Tanii, Asuka', 'Sanada, Asami', 'Shintani, Ryouko', 'Sawashiro, Miyuki', 'Matsuki, Miyu', 'Saitou, Chiwa', 'Gotou, Yuuko']
+animeStaff	[['Miyamoto, Junnosuke', 'Producer'], ['Ooshima, Miku', 'Assistant Producer'], ['Shinbou, Akiyuki', 'Director'], ['Miyamoto, Yukihiro', 'Director, Episode Director']]

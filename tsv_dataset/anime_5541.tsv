@@ -1,5 +1,5 @@
-animeTitle	b'Pucca'
-animeType	b'TV'
+animeTitle	Pucca
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.61
 animeUsers	7186
 animeRank	
-animePopularity	
-animeDescription	"b'Pucca is the young daughter of a Chinese noodle house owner and she is hopelessly in love with the ninja Garu. He tries desperately to avoid Pucca\'s advances and usually does not return her affection. This results in many comical situations as Pucca goes to great lengths just to steal a kiss from Garu. Expect to see lots of ""funny love"" antics involving everything from noodles to deadly ninjas.\n\n(Source: TV.com)'"
-animeRelated	[b'Pucca (ONA)', b'Pucca 2']
-animeCharacters	[b'Pucca', b'Garu', b'Abyo', b'Ching', b'Mio', b'Claus, Santa', b'Tobe']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nKumai, Motoko\nJapanese\n', b'\nIshino, Ryuuzou\nJapanese\n', b'\nKobayashi, Kei\nJapanese\n', b'\nMasutani, Yasunori\nJapanese\n', b'\nMugihito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nPlus-Tech Squeeze Box\n\nTheme Song Performance\n\n', b'\nDemory, Bernard\n\nADR Director\n\n']
+animePopularity	4689
+animeDescription	"Pucca is the young daughter of a Chinese noodle house owner and she is hopelessly in love with the ninja Garu. He tries desperately to avoid Pucca's advances and usually does not return her affection. This results in many comical situations as Pucca goes to great lengths just to steal a kiss from Garu. Expect to see lots of ""funny love"" antics involving everything from noodles to deadly ninjas.
+
+(Source: TV.com)"
+animeRelated	['Pucca (ONA)', 'Pucca 2']
+animeCharacters	['Pucca', 'Garu', 'Abyo', 'Ching', 'Mio', 'Claus, Santa', 'Tobe']
+animeVoices	['Ootani, Ikue', 'Kumai, Motoko', 'Ishino, Ryuuzou', 'Kobayashi, Kei', 'Masutani, Yasunori', 'Mugihito']
+animeStaff	[['Plus-Tech Squeeze Box', 'Theme Song Performance'], ['Demory, Bernard', 'ADR Director']]

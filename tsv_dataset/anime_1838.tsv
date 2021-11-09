@@ -1,5 +1,5 @@
-animeTitle	b'PriPara'
-animeType	b'TV'
+animeTitle	PriPara
+animeType	TV
 animeNumEpisode	140
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.44
 animeUsers	3686
 animeRank	
-animePopularity	
-animeDescription	"b""Every little girl waits for the day she'll get her special ticket, one that will grant her entry into the world of PriPara (Prism Paradise). PriPara is a world of music, fashion, and daily auditions for a chance to become a pop idol. Laala Manaka's friends and classmates aspire to become idols, but her school forbids elementary school students from participating in the idol competitions.\n\nLuckily, Laala is only interested in watching the idol shows. Yet somehow despite all this, she manages to bumble her way into the PriPara world, and debut as a fresh new talent. After being told all her life that she's too loud, Laala has finally found a place where she can be as loud as she wants and sing from her heart.\n\nAnd not only that, but there's a possibility that she might be the legendary Prism Voice. Adventure, fashion, and music awaits as Laala climbs her way to the top, on her way to become the cutest and most beloved pop idol in the world of PriPara!"""
-animeRelated	"[b'Pretty Rhythm: Aurora Dream', b'Pretty Rhythm Movie: All Star Selection - Prism Show\xe2\x98\x86Best Ten', b'Pretty Rhythm: All Star Selection', b'PriPara Movie: Mi~nna Atsumare! Prism\xe2\x98\x86Tours', b'Tobidasu PriPara: Mi~nna de Mezase! Idol\xe2\x98\x86Grand Prix', b""PriPara Movie: Mi~nna no Akogare\xe2\x99\xaa Let's Go\xe2\x98\x86Prix Paris"", b'PriPara Movie: Mi~nna de Kagayake! Kirarin\xe2\x98\x86Star Live!', b'PriPara & Kiratto Pri\xe2\x98\x86chan Movie: Kirakira Memorial Live', b'Idol Land PriPara', b'Idol Time PriPara']"
-animeCharacters	[b'Manaka, Laala', b'Houjou, Sophie', b'Minami, Mirei', b'Kurosu, Aroma', b'Vocaldoll, Falulu', b'Shikyouin, Hibiki', b'West, Leona', b'Shiratama, Mikan', b'Toudou, Shion', b'West, Dorothy']
-animeVoices	[b'\nAkaneya, Himika\nJapanese\n', b'\nKubota, Miyu\nJapanese\n', b'\nSerizawa, Yuu\nJapanese\n', b'\nMakino, Yui\nJapanese\n', b'\nAkasaki, Chinatsu\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nWakai, Yuuki\nJapanese\n', b'\nWatanabe, Yui\nJapanese\n', b'\nYamakita, Saki\nJapanese\n', b'\nShibuya, Azuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMoriwaki, Makoto\n\nDirector, Script, Storyboard, Series Composition\n\n', b'\nAndou, Ryou\n\nEpisode Director\n\n', b'\nOokubo, Masao\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nItou, Fumio\n\nEpisode Director\n\n']
+animePopularity	4191
+animeDescription	"Every little girl waits for the day she'll get her special ticket, one that will grant her entry into the world of PriPara (Prism Paradise). PriPara is a world of music, fashion, and daily auditions for a chance to become a pop idol. Laala Manaka's friends and classmates aspire to become idols, but her school forbids elementary school students from participating in the idol competitions.
+
+Luckily, Laala is only interested in watching the idol shows. Yet somehow despite all this, she manages to bumble her way into the PriPara world, and debut as a fresh new talent. After being told all her life that she's too loud, Laala has finally found a place where she can be as loud as she wants and sing from her heart.
+
+And not only that, but there's a possibility that she might be the legendary Prism Voice. Adventure, fashion, and music awaits as Laala climbs her way to the top, on her way to become the cutest and most beloved pop idol in the world of PriPara!"
+animeRelated	"['Pretty Rhythm: Aurora Dream', 'Pretty Rhythm Movie: All Star Selection - Prism Show☆Best Ten', 'Pretty Rhythm: All Star Selection', 'PriPara Movie: Mi~nna Atsumare! Prism☆Tours', 'Tobidasu PriPara: Mi~nna de Mezase! Idol☆Grand Prix', ""PriPara Movie: Mi~nna no Akogare♪ Let's Go☆Prix Paris"", 'PriPara Movie: Mi~nna de Kagayake! Kirarin☆Star Live!', 'PriPara & Kiratto Pri☆chan Movie: Kirakira Memorial Live', 'Idol Land PriPara', 'Idol Time PriPara']"
+animeCharacters	['Manaka, Laala', 'Houjou, Sophie', 'Minami, Mirei', 'Kurosu, Aroma', 'Vocaldoll, Falulu', 'Shikyouin, Hibiki', 'West, Leona', 'Shiratama, Mikan', 'Toudou, Shion', 'West, Dorothy']
+animeVoices	['Akaneya, Himika', 'Kubota, Miyu', 'Serizawa, Yuu', 'Makino, Yui', 'Akasaki, Chinatsu', 'Saiga, Mitsuki', 'Wakai, Yuuki', 'Watanabe, Yui', 'Yamakita, Saki', 'Shibuya, Azuki']
+animeStaff	[['Moriwaki, Makoto', 'Director, Script, Storyboard, Series Composition'], ['Andou, Ryou', 'Episode Director'], ['Ookubo, Masao', 'Episode Director, Storyboard, Key Animation'], ['Itou, Fumio', 'Episode Director']]

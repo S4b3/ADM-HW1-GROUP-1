@@ -1,5 +1,5 @@
-animeTitle	b'Rudolf to Ippaiattena'
-animeType	b'Movie'
+animeTitle	Rudolf to Ippaiattena
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.63
 animeUsers	266
 animeRank	
-animePopularity	
-animeDescription	"b""Rudolf enjoys a life of comfort and care in Gifu, Japan. Yet true to the adage, curiosity gets the best of the kitten, and he decides to explore beyond the four walls of his home. When he's inadvertently whisked into the back of a cargo truck and lands in Tokyo, he befriends Ippaiattena, a seasoned street cat who possesses a crucial and unusual skill that will help him find his way home: the ability to read the human language. Rudolf's journey is rich with Japanese culture, and his story celebrates the wonder of discovery\xe2\x80\x94that magical moment when you realize you have the key to unlock the world.\n\n(Source: New York International Children's Film Festival)"""
-animeRelated	[b'Rudolf to Ippaiattena x Godzilla x Toho Cinemas Moving Logo Eizou']
-animeCharacters	[b'Ippaiattena', b'Rudolf', b'Devil', b'Butchy']
-animeVoices	[b'\nSuzuki, Ryouhei\nJapanese\n', b'\nInoue, Mao\nJapanese\n', b'\nFuruta, Arata\nJapanese\n', b'\nYashima, Norito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nSakakibara, Motonori\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nKatou, Youichi\n\nScript\n\n']
+animePopularity	10983
+animeDescription	"Rudolf enjoys a life of comfort and care in Gifu, Japan. Yet true to the adage, curiosity gets the best of the kitten, and he decides to explore beyond the four walls of his home. When he's inadvertently whisked into the back of a cargo truck and lands in Tokyo, he befriends Ippaiattena, a seasoned street cat who possesses a crucial and unusual skill that will help him find his way home: the ability to read the human language. Rudolf's journey is rich with Japanese culture, and his story celebrates the wonder of discovery—that magical moment when you realize you have the key to unlock the world.
+
+(Source: New York International Children's Film Festival)"
+animeRelated	['Rudolf to Ippaiattena x Godzilla x Toho Cinemas Moving Logo Eizou']
+animeCharacters	['Ippaiattena', 'Rudolf', 'Devil', 'Butchy']
+animeVoices	['Suzuki, Ryouhei', 'Inoue, Mao', 'Furuta, Arata', 'Yashima, Norito']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Sakakibara, Motonori', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Katou, Youichi', 'Script']]

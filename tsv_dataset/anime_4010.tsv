@@ -1,5 +1,5 @@
-animeTitle	b'Brotherhood: Final Fantasy XV'
-animeType	b'ONA'
+animeTitle	Brotherhood: Final Fantasy XV
+animeType	ONA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.94
 animeUsers	38551
 animeRank	
-animePopularity	
-animeDescription	"b""Crown Prince of the Kingdom of Lucis, Noctis Lucis Caelum, sets out on a journey to Caem. His purpose is to meet with Lunafreya Nox Fleuret, an oracle and Noctis' childhood friend, in order to marry her. A strong and silent type, Noctis is accompanied by his friends and Royal Guard Gladiolus, Prompto, and Ignis. The four young men set out on a road trip across the continent in the king's personal convertible, the Regalia. Along the journey, each of them experience various situations which allow them to reflect on their past together, and strengthen their bonds for the future.\n\nA prequel to the 2016 video game Final Fantasy XV, Brotherhood: Final Fantasy XV explores the relationships of its four main protagonists and the challenges awaiting them.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kingsglaive: Final Fantasy XV']
-animeCharacters	[b'Lucis Caelum, Noctis', b'Argentum, Prompto', b'Scientia, Ignis', b'Amicitia, Gladiolus', b'Nox Fleuret, Lunafreya', b'Lucis Caelum, Regis', b'Marilith', b'Amicitia, Iris', b'Gentiana']
-animeVoices	[b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nKitagawa, Rina\nJapanese\n', b'\nIsobe, Tsutomu\nJapanese\n', b'\nKoichi, Makoto\nJapanese\n', b'\nHan, Megumi\nJapanese\n', b'\nKinoshita, Sayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasui, Souichi\n\nDirector, Episode Director, Storyboard\n\n', b'\nImaizumi, Yuuichi\n\nSound Director\n\n', b'\nKurata, Ayako\n\nEpisode Director\n\n', b'\nAyana, Yuniko\n\nScript\n\n']
+animePopularity	2009
+animeDescription	"Crown Prince of the Kingdom of Lucis, Noctis Lucis Caelum, sets out on a journey to Caem. His purpose is to meet with Lunafreya Nox Fleuret, an oracle and Noctis' childhood friend, in order to marry her. A strong and silent type, Noctis is accompanied by his friends and Royal Guard Gladiolus, Prompto, and Ignis. The four young men set out on a road trip across the continent in the king's personal convertible, the Regalia. Along the journey, each of them experience various situations which allow them to reflect on their past together, and strengthen their bonds for the future.
+
+A prequel to the 2016 video game Final Fantasy XV, Brotherhood: Final Fantasy XV explores the relationships of its four main protagonists and the challenges awaiting them.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kingsglaive: Final Fantasy XV']
+animeCharacters	['Lucis Caelum, Noctis', 'Argentum, Prompto', 'Scientia, Ignis', 'Amicitia, Gladiolus', 'Nox Fleuret, Lunafreya', 'Lucis Caelum, Regis', 'Marilith', 'Amicitia, Iris', 'Gentiana']
+animeVoices	['Suzuki, Tatsuhisa', 'Kakihara, Tetsuya', 'Miyano, Mamoru', 'Miyake, Kenta', 'Kitagawa, Rina', 'Isobe, Tsutomu', 'Koichi, Makoto', 'Han, Megumi', 'Kinoshita, Sayaka']
+animeStaff	[['Masui, Souichi', 'Director, Episode Director, Storyboard'], ['Imaizumi, Yuuichi', 'Sound Director'], ['Kurata, Ayako', 'Episode Director'], ['Ayana, Yuniko', 'Script']]

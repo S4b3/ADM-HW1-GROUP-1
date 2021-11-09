@@ -1,4 +1,4 @@
-animeTitle	b'Children Record'
+animeTitle	Children Record
 animeType	Music
 animeNumEpisode	2
 releaseDate	
@@ -7,9 +7,18 @@ animeNumMembers
 animeScore	6.79
 animeUsers	1571
 animeRank	
-animePopularity	
-animeDescription	"b'Children Record features two songs, the titular one serving as an opening to the Kagerou Project song series.\n\nKisaragi Attention\nFor the ultra-popular idol Momo Kisaragi, going out in public is nearly impossible. No matter what, she always seems to capture everyone\'s attention. She\'s not even that talented! With so many doubts, one would think she might as well quit. However, after meeting with the ""Mekakushi-dan,"" Momo may finally find a place to belong.\n\nChildren Record\nLong ago, the heat-haze began drawing in victims, granting them red-eyed powers\xe2\x80\x94but these powers bring more pain than good. Through the despair, these affected children push ever onward to a future full of hope.\n\n[Written by MAL Rewrite]\n'"
-animeRelated	[b'Mekakucity Actors']
-animeCharacters	[b'Enomoto, Takane', b'Tateyama, Ayano']
+animePopularity	8129
+animeDescription	"Children Record features two songs, the titular one serving as an opening to the Kagerou Project song series.
+
+Kisaragi Attention
+For the ultra-popular idol Momo Kisaragi, going out in public is nearly impossible. No matter what, she always seems to capture everyone's attention. She's not even that talented! With so many doubts, one would think she might as well quit. However, after meeting with the ""Mekakushi-dan,"" Momo may finally find a place to belong.
+
+Children Record
+Long ago, the heat-haze began drawing in victims, granting them red-eyed powers—but these powers bring more pain than good. Through the despair, these affected children push ever onward to a future full of hope.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Mekakucity Actors']
+animeCharacters	['Enomoto, Takane', 'Tateyama, Ayano']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nJin\n\nTheme Song Lyrics, Theme Song Composition, Theme Song Arrangement\n\n', b'\nIA\n\nTheme Song Performance\n\n']
+animeStaff	[['Jin', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['IA', 'Theme Song Performance']]

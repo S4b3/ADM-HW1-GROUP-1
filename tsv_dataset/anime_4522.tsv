@@ -1,5 +1,5 @@
-animeTitle	b'Heroman'
-animeType	b'TV'
+animeTitle	Heroman
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.82
 animeUsers	12360
 animeRank	
-animePopularity	
-animeDescription	"b'In California\'s Center City, shy but kindhearted Joseph Carter ""Joey"" Jones lives with his grandmother, working in a coffee shop. Though his family is financially burdened and he is bullied at school, he remains cheerful. A robotics enthusiast, he wants a top-of-the-line toy robot called a Heybo more than anything.\n\nOne day Joey and his friend Simon ""Psy"" Kaina come across a destroyed Heybo discarded by a group of rich kids. He takes it home and repairs it himself, excitedly naming it Heroman. However, one night Heroman is struck by lightning and comes to life, growing several times its size in the process.\n\nThat same night Center City is attacked by aliens called Skrugg whose attention was brought to Earth after Joey\'s acquaintance Professor Matthew Denton made attempts to contact them. Along with Joey, Heroman quickly heads to the scene of the attack, where he finds people in trouble, including his friend Lina Davis and her father. Using an arm-mounted controller, Joey is able to command Heroman to use superpowers to fight off the Skrugg and rescue civilians. As the aliens continue their invasion of Earth, the duo are the only ones separating humanity and destruction.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Heroman', b'Heroman Specials']
-animeCharacters	[b'Jones, Joseph Carter', b'Heroman', b'Kaina, Simon', b'Davis, Lina', b'Lee, Stan', b'Denton, Matthew', b'Jones, Virginia', b'Jones, Holly Virginia', b'Minami, Doctor', b'Collins, Vera']
-animeVoices	[b'\nKomatsu, Mikako\nJapanese\n', b'\nTakeuchi, Ryouta\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nObata, Mayu\nJapanese\n', b'\nIi, Atsushi\nJapanese\n', b'\nCho\nJapanese\n', b'\nSakai, Sumie\nJapanese\n', b'\nOgasawara, Arisa\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nShindo, Naomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNanba, Hitoshi\n\nDirector, Storyboard\n\n', b'\nHaraguchi, Noboru\n\nSound Director\n\n', b'\nTamura, Koutarou\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nSueda, Yoshifumi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	2980
+animeDescription	"In California's Center City, shy but kindhearted Joseph Carter ""Joey"" Jones lives with his grandmother, working in a coffee shop. Though his family is financially burdened and he is bullied at school, he remains cheerful. A robotics enthusiast, he wants a top-of-the-line toy robot called a Heybo more than anything.
+
+One day Joey and his friend Simon ""Psy"" Kaina come across a destroyed Heybo discarded by a group of rich kids. He takes it home and repairs it himself, excitedly naming it Heroman. However, one night Heroman is struck by lightning and comes to life, growing several times its size in the process.
+
+That same night Center City is attacked by aliens called Skrugg whose attention was brought to Earth after Joey's acquaintance Professor Matthew Denton made attempts to contact them. Along with Joey, Heroman quickly heads to the scene of the attack, where he finds people in trouble, including his friend Lina Davis and her father. Using an arm-mounted controller, Joey is able to command Heroman to use superpowers to fight off the Skrugg and rescue civilians. As the aliens continue their invasion of Earth, the duo are the only ones separating humanity and destruction.
+
+[Written by MAL Rewrite]"
+animeRelated	['Heroman', 'Heroman Specials']
+animeCharacters	['Jones, Joseph Carter', 'Heroman', 'Kaina, Simon', 'Davis, Lina', 'Lee, Stan', 'Denton, Matthew', 'Jones, Virginia', 'Jones, Holly Virginia', 'Minami, Doctor', 'Collins, Vera']
+animeVoices	['Komatsu, Mikako', 'Takeuchi, Ryouta', 'Kimura, Ryouhei', 'Obata, Mayu', 'Ii, Atsushi', 'Cho', 'Sakai, Sumie', 'Ogasawara, Arisa', 'Matsumoto, Yasunori', 'Shindo, Naomi']
+animeStaff	[['Nanba, Hitoshi', 'Director, Storyboard'], ['Haraguchi, Noboru', 'Sound Director'], ['Tamura, Koutarou', 'Episode Director, Storyboard, Key Animation'], ['Sueda, Yoshifumi', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Youma'
-animeType	b'OVA'
+animeTitle	Youma
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.08
 animeUsers	3119
 animeRank	
-animePopularity	
-animeDescription	b'A terrible war has ravaged the land, and now, fueled by the blood of numerous fallen warriors the Yoma, demons from hell, emerge once more. A skilled ninja seeks to end the bloodshed these demons inflict upon humanity, but to do this he must fight against his undead former best friend and fellow ninja who was killed in battle and has been resurrected to serve the Yoma. \n\n(Source: ANN)'
-animeRelated	[b'Youma']
-animeCharacters	[b'Hikage', b'Marou', b'Aya', b'Ito', b'Shiratsuyu', b'Kotone', b'Kazami', b'Majuumi no Miko']
-animeVoices	[b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nTominaga, Miina\nJapanese\n', b'\nArakawa, Minako\nJapanese\n', b'\nShioya, Kouzou\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAnnou, Takashi\n\nDirector\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nAikawa, Shou\n\nScript\n\n', b'\nKarashima, Midori\n\nTheme Song Composition, Theme Song Lyrics, Theme Song Performance\n\n']
+animePopularity	5907
+animeDescription	"A terrible war has ravaged the land, and now, fueled by the blood of numerous fallen warriors the Yoma, demons from hell, emerge once more. A skilled ninja seeks to end the bloodshed these demons inflict upon humanity, but to do this he must fight against his undead former best friend and fellow ninja who was killed in battle and has been resurrected to serve the Yoma. 
+
+(Source: ANN)"
+animeRelated	['Youma']
+animeCharacters	['Hikage', 'Marou', 'Aya', 'Ito', 'Shiratsuyu', 'Kotone', 'Kazami', 'Majuumi no Miko']
+animeVoices	['Horiuchi, Kenyuu', 'Shiozawa, Kaneto', 'Tsuru, Hiromi', 'Tominaga, Miina', 'Arakawa, Minako', 'Shioya, Kouzou', 'Mizutani, Yuuko', 'Tanaka, Hideyuki', 'Kosugi, Juurouta']
+animeStaff	[['Annou, Takashi', 'Director'], ['Watanabe, Jun', 'Sound Director'], ['Aikawa, Shou', 'Script'], ['Karashima, Midori', 'Theme Song Composition, Theme Song Lyrics, Theme Song Performance']]

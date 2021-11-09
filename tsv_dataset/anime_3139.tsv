@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 32: Nobita to Kiseki no Shima - Animal Adventure'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 32: Nobita to Kiseki no Shima - Animal Adventure
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.15
 animeUsers	2465
 animeRank	
-animePopularity	
-animeDescription	"b""Nobita and his dad buy a big rhinoceros beetle, which he promises to his dad to take good care of it. Later, Doraemon's group finds a strange island where a tribe co-exists with prehistoric creatures long believed to extinct yet preserved by a mythical beetle spirit named Golden Hercules. However, the group has to deal with a group of criminals from the future who intend to capture Golden Hercules for a profit.\n\n(Source: Wikipedia)"""
-animeRelated	[b'Doraemon (2005)']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi', b'Nobi, Nobisuke']
-animeVoices	[b'\nMizuta, Wasabi\nJapanese\n', b'\nOohara, Megumi\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nKimura, Subaru\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKusuba, Kouzou\n\nDirector, Storyboard\n\n', b'\nFukuyama, Masaharu\n\nTheme Song Lyrics, Theme Song Performance, Theme Song Composition\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n', b'\nItou, Hidetsugu\n\nKey Animation\n\n']
+animePopularity	7560
+animeDescription	"Nobita and his dad buy a big rhinoceros beetle, which he promises to his dad to take good care of it. Later, Doraemon's group finds a strange island where a tribe co-exists with prehistoric creatures long believed to extinct yet preserved by a mythical beetle spirit named Golden Hercules. However, the group has to deal with a group of criminals from the future who intend to capture Golden Hercules for a profit.
+
+(Source: Wikipedia)"
+animeRelated	['Doraemon (2005)']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Nobi, Nobisuke']
+animeVoices	['Mizuta, Wasabi', 'Oohara, Megumi', 'Kakazu, Yumi', 'Seki, Tomokazu', 'Kimura, Subaru', 'Matsumoto, Yasunori']
+animeStaff	[['Kusuba, Kouzou', 'Director, Storyboard'], ['Fukuyama, Masaharu', 'Theme Song Lyrics, Theme Song Performance, Theme Song Composition'], ['Fujiko, Fujio F.', 'Original Creator'], ['Itou, Hidetsugu', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Michi (Movie)'
-animeType	b'Movie'
+animeTitle	Michi (Movie)
+animeType	Movie
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.1
 animeUsers	213
 animeRank	
-animePopularity	
-animeDescription	b'The My Road series\xe2\x80\x94Scarlet Road (2002), White Road (2003), Indigo Road (2006), and the most recent instalment Lemon Road (2008)\xe2\x80\x94can be read as meditations on loss and mourning. These poetic films tell their story through motif, character expression, music and montage and require repeated viewing for one to absorb the subtly evoked layers of meaning.\n\n(Source: Midnight Eye)'
+animePopularity	11827
+animeDescription	"The My Road series—Scarlet Road (2002), White Road (2003), Indigo Road (2006), and the most recent instalment Lemon Road (2008)—can be read as meditations on loss and mourning. These poetic films tell their story through motif, character expression, music and montage and require repeated viewing for one to absorb the subtly evoked layers of meaning.
+
+(Source: Midnight Eye)"
 animeRelated	[]
-animeCharacters	[b'Michi']
+animeCharacters	['Michi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurata, Tomoyasu\n\nDirector\n\n']
+animeStaff	[['Murata, Tomoyasu', 'Director']]

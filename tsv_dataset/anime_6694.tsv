@@ -1,5 +1,5 @@
-animeTitle	b'Null Peta'
-animeType	b'ONA'
+animeTitle	Null Peta
+animeType	ONA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.4
 animeUsers	7722
 animeRank	
-animePopularity	
-animeDescription	"b'Genius inventor Null tragically loses her older sister Peta in an accident. To get over the grief, Null develops ""Peta Robo,"" a robot with the same characteristics as her late sister. However, the robot is a little different as to what Null expected.\n\n(Source: MAL News)'"
-animeRelated	[b'Null Peta Special']
-animeCharacters	[b'Peta', b'Null', b'Kaki']
-animeVoices	[b'\nUeda, Reina\nJapanese\n', b'\nWaki, Azumi\nJapanese\n', b'\nYamamoto, Maki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOgura, Hirofumi\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nHato\n\nScript, Original Creator\n\n', b'\nTakeshima, Eku\n\nOriginal Character Design\n\n']
+animePopularity	4031
+animeDescription	"Genius inventor Null tragically loses her older sister Peta in an accident. To get over the grief, Null develops ""Peta Robo,"" a robot with the same characteristics as her late sister. However, the robot is a little different as to what Null expected.
+
+(Source: MAL News)"
+animeRelated	['Null Peta Special']
+animeCharacters	['Peta', 'Null', 'Kaki']
+animeVoices	['Ueda, Reina', 'Waki, Azumi', 'Yamamoto, Maki']
+animeStaff	[['Ogura, Hirofumi', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Hato', 'Script, Original Creator'], ['Takeshima, Eku', 'Original Character Design']]

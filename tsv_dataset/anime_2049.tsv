@@ -1,5 +1,5 @@
-animeTitle	b'Net-juu no Susume Special'
-animeType	b'Special'
+animeTitle	Net-juu no Susume Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.38
 animeUsers	54974
 animeRank	
-animePopularity	
-animeDescription	"b""Much to her dismay, Moriko Morioka's computer has broken down. However, not all is lost as she remembers that Yuuta Sakurai is a computer geek, leading Morioka to seek his expertise. But when Sakurai visits to help build her a new computer, hilarity ensues.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Net-juu no Susume']
-animeCharacters	[b'Morioka, Moriko', b'Sakurai, Yuuta', b'Lily', b'Hayashi', b'Koiwai, Homare', b'Kanbe', b'Fujimoto, Kazuomi', b'Lilac', b'Pokotarou', b'Harumi']
-animeVoices	[b'\nNoto, Mamiko\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nUeda, Reina\nJapanese\n', b'\nSuzuki, Ryouta\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nAisaka, Yuuka\nJapanese\n', b'\nSunseki, Kazuhiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChapin, Clifford\n\nADR Director\n\n', b'\nFukunaga, Gen\n\nExecutive Producer\n\n', b'\nKokuyou, Rin\n\nOriginal Creator\n\n']
+animePopularity	1776
+animeDescription	"Much to her dismay, Moriko Morioka's computer has broken down. However, not all is lost as she remembers that Yuuta Sakurai is a computer geek, leading Morioka to seek his expertise. But when Sakurai visits to help build her a new computer, hilarity ensues.
+
+[Written by MAL Rewrite]"
+animeRelated	['Net-juu no Susume']
+animeCharacters	['Morioka, Moriko', 'Sakurai, Yuuta', 'Lily', 'Hayashi', 'Koiwai, Homare', 'Kanbe', 'Fujimoto, Kazuomi', 'Lilac', 'Pokotarou', 'Harumi']
+animeVoices	['Noto, Mamiko', 'Sakurai, Takahiro', 'Ueda, Reina', 'Suzuki, Ryouta', 'Maeno, Tomoaki', 'Nakamura, Yuuichi', 'Terashima, Takuma', 'Aisaka, Yuuka', 'Sunseki, Kazuhiro']
+animeStaff	[['Chapin, Clifford', 'ADR Director'], ['Fukunaga, Gen', 'Executive Producer'], ['Kokuyou, Rin', 'Original Creator']]

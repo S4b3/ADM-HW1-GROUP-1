@@ -1,5 +1,5 @@
-animeTitle	b'KochinPa! Dainiki'
-animeType	b'TV'
+animeTitle	KochinPa! Dainiki
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	4.69
 animeUsers	488
 animeRank	
-animePopularity	
-animeDescription	b'The second season of KochinPa!'
-animeRelated	[b'KochinPa!', b'Devidol!']
-animeCharacters	[b'Aira', b'Hana', b'Shima']
-animeVoices	[b'\nPile\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugahara, Souta\n\nDirector, Script\n\n', b'\nwogura\n\nCharacter Design\n\n']
+animePopularity	10613
+animeDescription	The second season of KochinPa!
+animeRelated	['KochinPa!', 'Devidol!']
+animeCharacters	['Aira', 'Hana', 'Shima']
+animeVoices	['Pile', 'Hanazawa, Kana', 'Iguchi, Yuka']
+animeStaff	[['Sugahara, Souta', 'Director, Script'], ['wogura', 'Character Design']]

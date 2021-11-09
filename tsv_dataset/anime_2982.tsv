@@ -1,5 +1,5 @@
-animeTitle	b'Seimei no Kagaku: Micro Patrol'
-animeType	b'OVA'
+animeTitle	Seimei no Kagaku: Micro Patrol
+animeType	OVA
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.18
 animeUsers	1115
 animeRank	
-animePopularity	
-animeDescription	"b'The series ""Once Upon a Time... Life"" teaches about the human body and about the different systems in it with the same characters from the other ""Once Upon a Time"" seasons. ""The good Characters"" represent the body\'s defense mechanisms, whereas ""the bad Characters"" represent the viruses and bacteria that threaten to attack the human body.\n\n(Source: Wikipedia)'"
-animeRelated	[b'Ginga Patrol PJ']
-animeCharacters	[b'Hemo', b'Globin', b'Maestro']
-animeVoices	[b'\nShiga, Katsuya\nJapanese\n', b'\nSasamoto, Yuuko\nJapanese\n', b'\nIshimori, Takkou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nBarill\xc3\xa9, Albert\n\nOriginal Creator\n\n']
+animePopularity	9110
+animeDescription	"The series ""Once Upon a Time... Life"" teaches about the human body and about the different systems in it with the same characters from the other ""Once Upon a Time"" seasons. ""The good Characters"" represent the body's defense mechanisms, whereas ""the bad Characters"" represent the viruses and bacteria that threaten to attack the human body.
+
+(Source: Wikipedia)"
+animeRelated	['Ginga Patrol PJ']
+animeCharacters	['Hemo', 'Globin', 'Maestro']
+animeVoices	['Shiga, Katsuya', 'Sasamoto, Yuuko', 'Ishimori, Takkou']
+animeStaff	[['Barillé, Albert', 'Original Creator']]

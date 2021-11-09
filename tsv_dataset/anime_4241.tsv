@@ -1,5 +1,5 @@
-animeTitle	b'Bomberman Jetters'
-animeType	b'TV'
+animeTitle	Bomberman Jetters
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.89
 animeUsers	1110
 animeRank	
-animePopularity	
-animeDescription	"b'Deep Space, many different cultures have come together to live on planet Jet. To keep the peace an organization known as the Jetters is formed. This space police group fight against the villains known as the ""Hige hige dan"" making sure that the universe is safe. The leader of the Jetters Mighty is a powerful Bomberman, who is looked up to and respected....his brother however is a lazy crude slacker named Shirobon. Suddenly Mighty disappears and Shiro finds himself placed in a new situation. Shiro steps up and become a responsible Bomberman, and with the new friends he made of the Jetters it may become possible for him to be the next ""Jetters leader.""\n\n(Source: ANN)'"
-animeRelated	[b'Bomberman B-Daman Bakugaiden']
-animeCharacters	[b'Bomber, White', b'Mujoe', b'Shout', b'Mighty', b'Pui', b'Birdy', b'Max', b'Zero', b'Bomber, Thunder', b'MechaDoc']
-animeVoices	[b'\nKaneda, Tomoko\nJapanese\n', b'\nIshii, Kouji\nJapanese\n', b'\nMizuno, Risa\nJapanese\n', b'\nTakahashi, Hiroki\nJapanese\n', b'\nTakeuchi, Junko\nJapanese\n', b'\nIwasaki, Masami\nJapanese\n', b'\nTakemoto, Eiji\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamakawa, Norio\n\nProducer\n\n', b'\nGouda, Hozumi\n\nSound Director\n\n', b'\nKamitsubo, Ryouki\n\nEpisode Director\n\n', b'\nYoshida, Reiko\n\nScript\n\n']
+animePopularity	7837
+animeDescription	"Deep Space, many different cultures have come together to live on planet Jet. To keep the peace an organization known as the Jetters is formed. This space police group fight against the villains known as the ""Hige hige dan"" making sure that the universe is safe. The leader of the Jetters Mighty is a powerful Bomberman, who is looked up to and respected....his brother however is a lazy crude slacker named Shirobon. Suddenly Mighty disappears and Shiro finds himself placed in a new situation. Shiro steps up and become a responsible Bomberman, and with the new friends he made of the Jetters it may become possible for him to be the next ""Jetters leader.""
+
+(Source: ANN)"
+animeRelated	['Bomberman B-Daman Bakugaiden']
+animeCharacters	['Bomber, White', 'Mujoe', 'Shout', 'Mighty', 'Pui', 'Birdy', 'Max', 'Zero', 'Bomber, Thunder', 'MechaDoc']
+animeVoices	['Kaneda, Tomoko', 'Ishii, Kouji', 'Mizuno, Risa', 'Takahashi, Hiroki', 'Takeuchi, Junko', 'Iwasaki, Masami', 'Takemoto, Eiji', 'Tatsuta, Naoki']
+animeStaff	[['Yamakawa, Norio', 'Producer'], ['Gouda, Hozumi', 'Sound Director'], ['Kamitsubo, Ryouki', 'Episode Director'], ['Yoshida, Reiko', 'Script']]

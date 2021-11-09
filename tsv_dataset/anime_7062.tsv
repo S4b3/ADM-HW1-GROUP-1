@@ -1,5 +1,5 @@
-animeTitle	b'Chinmoku no Kantai'
-animeType	b'OVA'
+animeTitle	Chinmoku no Kantai
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.32
 animeUsers	653
 animeRank	
-animePopularity	
-animeDescription	"b'During the cold war, the Japan Maritime Self-Defense Force jointly developed a nuclear submarine with the United States Navy. On its maiden voyage, the captain of the submarine declares the submarine to be an independent state, ""Yamato.""'"
-animeRelated	[b'Chinmoku no Kantai']
-animeCharacters	[b'Gorou, Watase', b'Hiroshima', b'Mizoguchi', b'Tadokoro, Shin', b'Hayami, Kenji', b'Takegami, Toshio', b'Kaeda, Shirou', b'Kaibara, Wataru', b'Ryan', b'Bennett']
-animeVoices	[b'\nShioya, Yoku\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nNaka, Hiroshi\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nSaka, Osamu\nJapanese\n', b'\nTsukayama, Masane\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nTokumaru, Kan\nJapanese\n', b'\nUeda, Toshiya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Ryousuke\n\nDirector\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nDaichi, Akitarou\n\nStoryboard\n\n', b'\nKakudou, Hiroyuki\n\nStoryboard\n\n']
+animePopularity	9406
+animeDescription	"During the cold war, the Japan Maritime Self-Defense Force jointly developed a nuclear submarine with the United States Navy. On its maiden voyage, the captain of the submarine declares the submarine to be an independent state, ""Yamato."""
+animeRelated	['Chinmoku no Kantai']
+animeCharacters	['Gorou, Watase', 'Hiroshima', 'Mizoguchi', 'Tadokoro, Shin', 'Hayami, Kenji', 'Takegami, Toshio', 'Kaeda, Shirou', 'Kaibara, Wataru', 'Ryan', 'Bennett']
+animeVoices	['Shioya, Yoku', 'Ootsuka, Akio', 'Naka, Hiroshi', 'Ogata, Kenichi', 'Tobita, Nobuo', 'Saka, Osamu', 'Tsukayama, Masane', 'Wakamoto, Norio', 'Tokumaru, Kan', 'Ueda, Toshiya']
+animeStaff	[['Takahashi, Ryousuke', 'Director'], ['Urakami, Yasuo', 'Sound Director'], ['Daichi, Akitarou', 'Storyboard'], ['Kakudou, Hiroyuki', 'Storyboard']]

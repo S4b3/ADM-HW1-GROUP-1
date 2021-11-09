@@ -1,5 +1,5 @@
-animeTitle	b'Azuki-chan'
-animeType	b'TV'
+animeTitle	Azuki-chan
+animeType	TV
 animeNumEpisode	117
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.74
 animeUsers	817
 animeRank	
-animePopularity	
-animeDescription	b'Azusa Noyama is a 12-year-old girl student, taking 5th grade, but everyone knows her as Azuki-Chan, nickname that she dislikes. Yuunosuke Ogasawara, a new student, asks her about her nickname, saying that he likes it. Azuki falls in love with him, and they start going out together. They share a diary, and become boyfriend and girlfriend.\n\n(Source: ANN)'
-animeRelated	[b'Azuki-chan', b'Azuki-chan the Movie']
-animeCharacters	[b'Ogasawara, Yuunosuke', b'Kodama, Midori', b'Noyama, Azusa', b'Nishino, Kaoru', b'Takayanagi, Ken', b'Takahashi, Tomomi', b'Noyama, Daizu', b'Kodama, Aoi', b'Sakakibara, Youko']
-animeVoices	[b'\nMiyazaki, Issei\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nYukana\nJapanese\n', b'\nKawata, Taeko\nJapanese\n', b'\nMadono, Mitsuaki\nJapanese\n', b'\nSuzuki, Akiko\nJapanese\n', b'\nKozakura, Etsuko\nJapanese\n', b'\nOdagi, Mie\nJapanese\n', b'\nSakuma, Rei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKojima, Masayuki\n\nDirector, Storyboard\n\n', b'\nRintaro\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nSakurai, Hiroaki\n\nEpisode Director, Storyboard, Animation Director\n\n']
+animePopularity	8844
+animeDescription	"Azusa Noyama is a 12-year-old girl student, taking 5th grade, but everyone knows her as Azuki-Chan, nickname that she dislikes. Yuunosuke Ogasawara, a new student, asks her about her nickname, saying that he likes it. Azuki falls in love with him, and they start going out together. They share a diary, and become boyfriend and girlfriend.
+
+(Source: ANN)"
+animeRelated	['Azuki-chan', 'Azuki-chan the Movie']
+animeCharacters	['Ogasawara, Yuunosuke', 'Kodama, Midori', 'Noyama, Azusa', 'Nishino, Kaoru', 'Takayanagi, Ken', 'Takahashi, Tomomi', 'Noyama, Daizu', 'Kodama, Aoi', 'Sakakibara, Youko']
+animeVoices	['Miyazaki, Issei', 'Matsumoto, Rica', 'Yukana', 'Kawata, Taeko', 'Madono, Mitsuaki', 'Suzuki, Akiko', 'Kozakura, Etsuko', 'Odagi, Mie', 'Sakuma, Rei']
+animeStaff	[['Kojima, Masayuki', 'Director, Storyboard'], ['Rintaro', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Sakurai, Hiroaki', 'Episode Director, Storyboard, Animation Director']]

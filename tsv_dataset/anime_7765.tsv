@@ -1,5 +1,5 @@
-animeTitle	b'Chou Tokkyuu Hikarian'
-animeType	b'TV'
+animeTitle	Chou Tokkyuu Hikarian
+animeType	TV
 animeNumEpisode	156
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.18
 animeUsers	231
 animeRank	
-animePopularity	
-animeDescription	b'Chou Tokkyuu Hikarian is about a series of bullet trains that are turned into robots. The robots, along with two humans named Tetsuyuki Shinbashi and Minayo Kanda, have to stop an alien invasion.\n\n(Source: Wikipedia)'
-animeRelated	[b'Denkou Chou Tokkyuu Hikarian']
-animeCharacters	[b'Tsubasa', b'DD51', b'Super Hokuto']
-animeVoices	[b'\nNanao, Haruhi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKanada, Yoshinori\n\nEpisode Director, Storyboard, Animation Director\n\n', b'\nKuroda, Yousuke\n\nScript\n\n', b'\nOoshiro, Tsutomu\n\nKey Animation\n\n', b'\nHayashi, Yuzo\n\nMusic\n\n']
+animePopularity	12134
+animeDescription	"Chou Tokkyuu Hikarian is about a series of bullet trains that are turned into robots. The robots, along with two humans named Tetsuyuki Shinbashi and Minayo Kanda, have to stop an alien invasion.
+
+(Source: Wikipedia)"
+animeRelated	['Denkou Chou Tokkyuu Hikarian']
+animeCharacters	['Tsubasa', 'DD51', 'Super Hokuto']
+animeVoices	['Nanao, Haruhi']
+animeStaff	[['Kanada, Yoshinori', 'Episode Director, Storyboard, Animation Director'], ['Kuroda, Yousuke', 'Script'], ['Ooshiro, Tsutomu', 'Key Animation'], ['Hayashi, Yuzo', 'Music']]

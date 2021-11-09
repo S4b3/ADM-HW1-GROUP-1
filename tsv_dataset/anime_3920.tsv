@@ -1,5 +1,5 @@
-animeTitle	b'A-Channel: +A-Channel'
-animeType	b'Special'
+animeTitle	A-Channel: +A-Channel
+animeType	Special
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.96
 animeUsers	8873
 animeRank	
-animePopularity	
-animeDescription	b'Extra specials from the DVD/BDs. '
-animeRelated	[b'A-Channel']
-animeCharacters	[b'Ichii, Tooru', b'Nishi, Yuuko', b'Momoki, Run', b'Tennouji, Nagisa', b'Satou, Sachiyo', b'Kitou, Kimiko']
-animeVoices	[b'\nYuuki, Aoi\nJapanese\n', b'\nKotobuki, Minako\nJapanese\n', b'\nFukuhara, Kaori\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nChihara, Minori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwakami, Atsuhiro\n\nProducer\n\n', b'\nYuuki, Aoi\n\nTheme Song Performance\n\n', b'\nKotobuki, Minako\n\nTheme Song Performance\n\n', b'\nUchiyama, Yumi\n\nTheme Song Performance\n\n']
+animePopularity	4172
+animeDescription	Extra specials from the DVD/BDs. 
+animeRelated	['A-Channel']
+animeCharacters	['Ichii, Tooru', 'Nishi, Yuuko', 'Momoki, Run', 'Tennouji, Nagisa', 'Satou, Sachiyo', 'Kitou, Kimiko']
+animeVoices	['Yuuki, Aoi', 'Kotobuki, Minako', 'Fukuhara, Kaori', 'Uchiyama, Yumi', 'Ono, Daisuke', 'Chihara, Minori']
+animeStaff	[['Iwakami, Atsuhiro', 'Producer'], ['Yuuki, Aoi', 'Theme Song Performance'], ['Kotobuki, Minako', 'Theme Song Performance'], ['Uchiyama, Yumi', 'Theme Song Performance']]

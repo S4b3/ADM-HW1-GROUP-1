@@ -1,5 +1,5 @@
-animeTitle	b'Heya/Keitai'
-animeType	b'Movie'
+animeTitle	Heya/Keitai
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.59
 animeUsers	311
 animeRank	
-animePopularity	
-animeDescription	b'Gestalt was shot over the course of a year in a Tokyo dormitory. Each day, Ishida would paint on the wall and photograph it using the available light from the window. The 7-minute long film, which is accompanied by haunting organ music composed by J.S. Bach, consists of those several seconds of film Ishida shot daily.\n\n(Source: Midnight Eye)'
-animeRelated	[b'Ga no Iru Tokoro', b'Kangaeru Renshuu', b'Kaidan']
+animePopularity	11828
+animeDescription	"Gestalt was shot over the course of a year in a Tokyo dormitory. Each day, Ishida would paint on the wall and photograph it using the available light from the window. The 7-minute long film, which is accompanied by haunting organ music composed by J.S. Bach, consists of those several seconds of film Ishida shot daily.
+
+(Source: Midnight Eye)"
+animeRelated	['Ga no Iru Tokoro', 'Kangaeru Renshuu', 'Kaidan']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

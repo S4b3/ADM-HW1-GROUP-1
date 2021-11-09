@@ -1,5 +1,5 @@
-animeTitle	b'Hakuouki: Otogisoushi'
-animeType	b'TV'
+animeTitle	Hakuouki: Otogisoushi
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.61
 animeUsers	1763
 animeRank	
-animePopularity	
-animeDescription	"b'Features the characters from the games in chibi form with a completely new story with the theme: ""A normal everyday that might have existed.""'"
-animeRelated	[b'Hakuouki', b'Hakuouki: Otogisoushi Special']
-animeCharacters	[b'Saitou, Hajime', b'Okita, Souji', b'Hijikata, Toshizou', b'Kazama, Chikage', b'Harada, Sanosuke', b'Toudou, Heisuke', b'Yukimura, Chizuru', b'Nagakura, Shinpachi', b'Sannan, Keisuke', b'Yamazaki, Susumu']
-animeVoices	[b'\nToriumi, Kousuke\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nTsuboi, Tomohiro\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nSuzuki, Takayuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOda, Motohiro\n\nProducer\n\n', b'\nShinohara, Parako\n\nDirector\n\n', b'\nRenka\n\nTheme Song Lyrics, Theme Song Performance\n\n']
+animePopularity	6640
+animeDescription	"Features the characters from the games in chibi form with a completely new story with the theme: ""A normal everyday that might have existed."""
+animeRelated	['Hakuouki', 'Hakuouki: Otogisoushi Special']
+animeCharacters	['Saitou, Hajime', 'Okita, Souji', 'Hijikata, Toshizou', 'Kazama, Chikage', 'Harada, Sanosuke', 'Toudou, Heisuke', 'Yukimura, Chizuru', 'Nagakura, Shinpachi', 'Sannan, Keisuke', 'Yamazaki, Susumu']
+animeVoices	['Toriumi, Kousuke', 'Morikubo, Shoutarou', 'Miki, Shinichiro', 'Tsuda, Kenjirou', 'Yusa, Kouji', 'Yoshino, Hiroyuki', 'Kuwashima, Houko', 'Tsuboi, Tomohiro', 'Tobita, Nobuo', 'Suzuki, Takayuki']
+animeStaff	[['Oda, Motohiro', 'Producer'], ['Shinohara, Parako', 'Director'], ['Renka', 'Theme Song Lyrics, Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Crying Freeman'
-animeType	b'OVA'
+animeTitle	Crying Freeman
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.47
 animeUsers	3109
 animeRank	
-animePopularity	
-animeDescription	"b'Yo Hinomura was an ordinary Japanese potter when a run-in with a Chinese mafia changed his life forever. Now an assassin for the 108 Dragons, Yo is the perfect killing machine. As a sign for remorse over his victims, he sheds tears after eliminating his targets. Because of this, he is infamously known by the Dragons and every crime syndicate in the world as ""Crying Freeman.""\n\n(Source: ANN)'"
-animeRelated	[b'Crying Freeman']
-animeCharacters	[b'Hinomura, Yo', b'Hino, Emu', b'Heaven, Nina', b'Hanada, Kimie', b'Bayasan', b'Lee', b'Yanagi', b'Nitta, Inspector', b'Yan', b'Pei, Woh']
-animeVoices	[b'\nFurukawa, Toshio\nJapanese\n', b'\nKataishi, Chiharu\nJapanese\n', b'\nTakashima, Gara\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nTanaka, Kazumi\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMacek, Carl\n\nProducer, ADR Director\n\n', b'\nTakahashi, Naoko\n\nProducer\n\n', b'\nYamauchi, Shigeyasu\n\nDirector, Storyboard\n\n', b'\nNishio, Daisuke\n\nDirector\n\n']
+animePopularity	5405
+animeDescription	"Yo Hinomura was an ordinary Japanese potter when a run-in with a Chinese mafia changed his life forever. Now an assassin for the 108 Dragons, Yo is the perfect killing machine. As a sign for remorse over his victims, he sheds tears after eliminating his targets. Because of this, he is infamously known by the Dragons and every crime syndicate in the world as ""Crying Freeman.""
+
+(Source: ANN)"
+animeRelated	['Crying Freeman']
+animeCharacters	['Hinomura, Yo', 'Hino, Emu', 'Heaven, Nina', 'Hanada, Kimie', 'Bayasan', 'Lee', 'Yanagi', 'Nitta, Inspector', 'Yan', 'Pei, Woh']
+animeVoices	['Furukawa, Toshio', 'Kataishi, Chiharu', 'Takashima, Gara', 'Katsuki, Masako', 'Tanaka, Kazumi', 'Yara, Yuusaku', 'Horikawa, Ryo']
+animeStaff	[['Macek, Carl', 'Producer, ADR Director'], ['Takahashi, Naoko', 'Producer'], ['Yamauchi, Shigeyasu', 'Director, Storyboard'], ['Nishio, Daisuke', 'Director']]

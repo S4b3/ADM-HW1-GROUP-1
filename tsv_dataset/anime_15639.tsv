@@ -1,5 +1,5 @@
-animeTitle	b'Furiten-kun'
-animeType	b'Movie'
+animeTitle	Furiten-kun
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Based on the yonkoma manga by Ueda Masashi.'
-animeRelated	[b'Furiten-kun (1990)']
-animeCharacters	[b'Furiten-kun']
+animePopularity	14740
+animeDescription	Based on the yonkoma manga by Ueda Masashi.
+animeRelated	['Furiten-kun (1990)']
+animeCharacters	['Furiten-kun']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYotsuji, Takao\n\nEpisode Director\n\n', b'\nYoshida, Hiroshi\n\nEpisode Director\n\n', b'\nItou, Tsunehisa\n\nScript\n\n', b'\nNakazaki, Hideya\n\nTheme Song Performance\n\n']
+animeStaff	[['Yotsuji, Takao', 'Episode Director'], ['Yoshida, Hiroshi', 'Episode Director'], ['Itou, Tsunehisa', 'Script'], ['Nakazaki, Hideya', 'Theme Song Performance']]

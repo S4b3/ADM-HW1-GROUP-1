@@ -1,5 +1,5 @@
-animeTitle	b'Majo no Takkyuubin'
-animeType	b'Movie'
+animeTitle	Majo no Takkyuubin
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.22
 animeUsers	292089
 animeRank	
-animePopularity	
-animeDescription	b'Kiki, a 13-year-old witch-in-training, must spend a year living on her own in a distant town in order to become a full-fledged witch. Leaving her family and friends, Kiki undertakes this tradition when she flies out into the open world atop her broomstick with her black cat Jiji.\n\nAs she settles down in the coastal town of Koriko, Kiki struggles to adapt and ends up wandering the streets with no place to stay\xe2\x80\x94until she encounters Osono, who offers Kiki boarding in exchange for making deliveries for her small bakery. Before long, Kiki decides to open her own courier service by broomstick, beginning her journey to independence. In attempting to find her place among the townsfolk, Kiki brings with her exciting new experiences and comes to understand the true meaning of responsibility.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Hungry Days: Aoharu ka yo.']
-animeCharacters	"[b'Kiki', b'Jiji', b'Ursula', b'Kopoli, Tombo', b""Osono's husband"", b'Osono', b'Bertha', b'Roufujin', b'Kokiri', b'Lilly']"
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nSakuma, Rei\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nToda, Keiko\nJapanese\n', b'\nSeki, Hiroko\nJapanese\n', b'\nKatou, Haruko\nJapanese\n', b'\nNobusawa, Mieko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyazaki, Hayao\n\nProducer, Director, Script\n\n', b'\nTanaka, Eiko\n\nProducer\n\n', b'\nTakahata, Isao\n\nSound Director\n\n', b'\nMatsutoya, Yumi\n\nTheme Song Performance\n\n']
+animePopularity	356
+animeDescription	"Kiki, a 13-year-old witch-in-training, must spend a year living on her own in a distant town in order to become a full-fledged witch. Leaving her family and friends, Kiki undertakes this tradition when she flies out into the open world atop her broomstick with her black cat Jiji.
+
+As she settles down in the coastal town of Koriko, Kiki struggles to adapt and ends up wandering the streets with no place to stay—until she encounters Osono, who offers Kiki boarding in exchange for making deliveries for her small bakery. Before long, Kiki decides to open her own courier service by broomstick, beginning her journey to independence. In attempting to find her place among the townsfolk, Kiki brings with her exciting new experiences and comes to understand the true meaning of responsibility.
+
+[Written by MAL Rewrite]"
+animeRelated	['Hungry Days: Aoharu ka yo.']
+animeCharacters	"['Kiki', 'Jiji', 'Ursula', 'Kopoli, Tombo', ""Osono's husband"", 'Osono', 'Bertha', 'Roufujin', 'Kokiri', 'Lilly']"
+animeVoices	['Takayama, Minami', 'Sakuma, Rei', 'Yamaguchi, Kappei', 'Yamadera, Kouichi', 'Toda, Keiko', 'Seki, Hiroko', 'Katou, Haruko', 'Nobusawa, Mieko']
+animeStaff	[['Miyazaki, Hayao', 'Producer, Director, Script'], ['Tanaka, Eiko', 'Producer'], ['Takahata, Isao', 'Sound Director'], ['Matsutoya, Yumi', 'Theme Song Performance']]

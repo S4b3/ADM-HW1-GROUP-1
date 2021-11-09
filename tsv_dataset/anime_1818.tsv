@@ -1,5 +1,5 @@
-animeTitle	b'Brave Story'
-animeType	b'Movie'
+animeTitle	Brave Story
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.44
 animeUsers	18195
 animeRank	
-animePopularity	
-animeDescription	"b'When 11-year-old Wataru\'s father leaves home and his mother is taken ill to the hospital, he decides to change his fate by traveling through the door shown to him by his friend Mitsuru. In a land of magic and monsters, Wataru must summon all his courage and embark on a journey with several comrades to meet the Goddess of Destiny and change this ""mistaken fate.""\n\n(Source: ANN)'"
-animeRelated	[b'Brave Story: Shinsetsu', b'Brave Story']
-animeCharacters	[b'Ashikawa, Mitsuru', b'Mitani, Wataru', b'Miina', b'Cutts', b'Ki-Kima', b'Mysterious Girl', b'Princess Zofie', b'Ashikawa, Aya', b'Monk Rau', b'Mitani, Akira']
-animeVoices	[b'\nWentz, Eiji\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nTokiwa, Takako\nJapanese\n', b'\nOizumi, Yo\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nYajima, Akiko\nJapanese\n', b'\nNagashima, Kanon\nJapanese\n', b'\nTakahashi, Katsumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChigira, Kouichi\n\nDirector, Storyboard\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nIchimura, Tetsuo\n\nEpisode Director\n\n', b'\nOokouchi, Ichirou\n\nScript\n\n']
+animePopularity	2842
+animeDescription	"When 11-year-old Wataru's father leaves home and his mother is taken ill to the hospital, he decides to change his fate by traveling through the door shown to him by his friend Mitsuru. In a land of magic and monsters, Wataru must summon all his courage and embark on a journey with several comrades to meet the Goddess of Destiny and change this ""mistaken fate.""
+
+(Source: ANN)"
+animeRelated	['Brave Story: Shinsetsu', 'Brave Story']
+animeCharacters	['Ashikawa, Mitsuru', 'Mitani, Wataru', 'Miina', 'Cutts', 'Ki-Kima', 'Mysterious Girl', 'Princess Zofie', 'Ashikawa, Aya', 'Monk Rau', 'Mitani, Akira']
+animeVoices	['Wentz, Eiji', 'Sawashiro, Miyuki', 'Saitou, Chiwa', 'Tokiwa, Takako', 'Oizumi, Yo', 'Kawasumi, Ayako', 'Yajima, Akiko', 'Nagashima, Kanon', 'Takahashi, Katsumi']
+animeStaff	[['Chigira, Kouichi', 'Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director'], ['Ichimura, Tetsuo', 'Episode Director'], ['Ookouchi, Ichirou', 'Script']]

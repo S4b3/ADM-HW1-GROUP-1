@@ -1,5 +1,5 @@
-animeTitle	b'One Piece Movie 4: Dead End no Bouken'
-animeType	b'Movie'
+animeTitle	One Piece Movie 4: Dead End no Bouken
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.56
 animeUsers	45039
 animeRank	
-animePopularity	
-animeDescription	b'Luffy and crew arrive at the harbour of Anabaru. The local casino is holding a competition in which the winner will obtain a huge monetary reward if he reaches the finishing line first. Nami is elated and decides to participate in the competition. However, there is a conspiracy going behind the competition and the mastermind is an ex-military commander, Gasparde. His plan is to lure all the pirates to the military base and send them to their deaths. Luffy and gang have to overcome the numerous tests and tribulations along the way to complete this dead-end adventure.\n\n(Source: ANN)'
-animeRelated	[b'One Piece']
-animeCharacters	[b'Monkey D., Luffy', b'Roronoa, Zoro', b'Sanji', b'Nico, Robin', b'Tony Tony, Chopper', b'Usopp', b'Nami', b'Bascud, Shuraiya', b'Bascud, Adelle', b'Gasparde']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nYamaguchi, Yuriko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nMiyamoto, Mitsuru\nJapanese\n', b'\nSakai, Miki\nJapanese\n', b'\nIshida, Tarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUda, Kounosuke\n\nDirector\n\n', b'\nBUMP OF CHICKEN\n\nTheme Song Arrangement, Theme Song Composition, Theme Song Performance, Theme Song Lyrics\n\n', b'\nFujiwara, Motoo\n\nTheme Song Lyrics, Theme Song Composition\n\n', b'\nOda, Eiichiro\n\nOriginal Creator\n\n']
+animePopularity	1878
+animeDescription	"Luffy and crew arrive at the harbour of Anabaru. The local casino is holding a competition in which the winner will obtain a huge monetary reward if he reaches the finishing line first. Nami is elated and decides to participate in the competition. However, there is a conspiracy going behind the competition and the mastermind is an ex-military commander, Gasparde. His plan is to lure all the pirates to the military base and send them to their deaths. Luffy and gang have to overcome the numerous tests and tribulations along the way to complete this dead-end adventure.
+
+(Source: ANN)"
+animeRelated	['One Piece']
+animeCharacters	['Monkey D., Luffy', 'Roronoa, Zoro', 'Sanji', 'Nico, Robin', 'Tony Tony, Chopper', 'Usopp', 'Nami', 'Bascud, Shuraiya', 'Bascud, Adelle', 'Gasparde']
+animeVoices	['Tanaka, Mayumi', 'Nakai, Kazuya', 'Hirata, Hiroaki', 'Yamaguchi, Yuriko', 'Ootani, Ikue', 'Yamaguchi, Kappei', 'Okamura, Akemi', 'Miyamoto, Mitsuru', 'Sakai, Miki', 'Ishida, Tarou']
+animeStaff	[['Uda, Kounosuke', 'Director'], ['BUMP OF CHICKEN', 'Theme Song Arrangement, Theme Song Composition, Theme Song Performance, Theme Song Lyrics'], ['Fujiwara, Motoo', 'Theme Song Lyrics, Theme Song Composition'], ['Oda, Eiichiro', 'Original Creator']]

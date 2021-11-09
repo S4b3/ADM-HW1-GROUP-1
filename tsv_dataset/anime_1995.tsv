@@ -1,5 +1,5 @@
-animeTitle	b'Yozakura Quartet: Hoshi no Umi'
-animeType	b'OVA'
+animeTitle	Yozakura Quartet: Hoshi no Umi
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	7.4
 animeUsers	14541
 animeRank	
-animePopularity	
-animeDescription	"b""An OVA based on the Hoshi no Umi arc of the manga spanning chapters 26-34. \n\nThis arc focuses on Rin Azuma, a Jiang-Shi yokai resident of Sakurashin adjusting to her new life in the city and working for a ramen shop. One day her former friend Zakuro Kurumaki invades Sakurashin to capture Rin and convince her to join her in destroying the city with the other yokai hunters as well as Enjin Hiizumi, the main antagonist of the series. Akina Hiizumi and the other members of the Hiizumi Life Counseling Office take action to save Rin, 'tune' the yokai controlling Zakuro and protect the city.\n\n(Source: ANN)\n"""
-animeRelated	[b'Yozakura Quartet', b'Yozakura Quartet: Hana no Uta']
-animeCharacters	[b'Yarizakura, Hime', b'Isone, Kotoha', b'Hiizumi, Akina', b'Azuma, Rin', b'Nanami, Ao', b'Shinatsuhiko, Yae', b'F, V Juli', b'Shinatsuhiko, Yuuhi', b'Kishi, Kyousuke', b'Kishi, Touka']
-animeVoices	[b'\nFukuen, Misato\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nMatayoshi, Ai\nJapanese\n', b'\nFujita, Saki\nJapanese\n', b'\nKuwatani, Natsuko\nJapanese\n', b'\nOokubo, Aiko\nJapanese\n', b'\nMatsumoto, Sachi\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nryo-timo\n\nDirector, Episode Director, Storyboard, Animation Director, Character Design, Chief Animation Director, Key Animation\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nKobayashi, Hiroshi\n\nEpisode Director, Storyboard\n\n', b'\nSuzuki, Kiyotaka\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3002
+animeDescription	"An OVA based on the Hoshi no Umi arc of the manga spanning chapters 26-34. 
+
+This arc focuses on Rin Azuma, a Jiang-Shi yokai resident of Sakurashin adjusting to her new life in the city and working for a ramen shop. One day her former friend Zakuro Kurumaki invades Sakurashin to capture Rin and convince her to join her in destroying the city with the other yokai hunters as well as Enjin Hiizumi, the main antagonist of the series. Akina Hiizumi and the other members of the Hiizumi Life Counseling Office take action to save Rin, 'tune' the yokai controlling Zakuro and protect the city.
+
+(Source: ANN)
+"
+animeRelated	['Yozakura Quartet', 'Yozakura Quartet: Hana no Uta']
+animeCharacters	['Yarizakura, Hime', 'Isone, Kotoha', 'Hiizumi, Akina', 'Azuma, Rin', 'Nanami, Ao', 'Shinatsuhiko, Yae', 'F, V Juli', 'Shinatsuhiko, Yuuhi', 'Kishi, Kyousuke', 'Kishi, Touka']
+animeVoices	['Fukuen, Misato', 'Sawashiro, Miyuki', 'Kaji, Yuki', 'Matayoshi, Ai', 'Fujita, Saki', 'Kuwatani, Natsuko', 'Ookubo, Aiko', 'Matsumoto, Sachi', 'Ono, Daisuke', 'Tomatsu, Haruka']
+animeStaff	[['ryo-timo', 'Director, Episode Director, Storyboard, Animation Director, Character Design, Chief Animation Director, Key Animation'], ['Aketagawa, Jin', 'Sound Director'], ['Kobayashi, Hiroshi', 'Episode Director, Storyboard'], ['Suzuki, Kiyotaka', 'Episode Director, Storyboard']]

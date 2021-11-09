@@ -1,5 +1,5 @@
-animeTitle	b'Karneval (TV)'
-animeType	b'TV'
+animeTitle	Karneval (TV)
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.11
 animeUsers	78596
 animeRank	
-animePopularity	
-animeDescription	"b'While in search of his precious friend, a young boy named Nai falls captive to a beautiful woman, whose looks are matched only by her taste for human flesh. Meanwhile Gareki, a clever thief, is in the midst of robbing her luxurious home. After causing a distraction, Gareki agrees to help Nai escape, but they are discovered upon the woman\'s return. As she transforms into a ghoulish monster, the boys flee.\n\nOn the run, Nai and Gareki are found by ""Circus,"" a government defense agency that deals with criminal activity too difficult for the police to handle and protects civilians from ""varuga""\xe2\x80\x94terrible monsters that devour humans for sustenance. In the hope that it will lead Nai to his missing friend, he and Gareki decide to join Circus. On their perilous journey, they face dangerous varuga and begin to uncover the secrets behind a shadowy organization known as Kafka.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Karneval', b'Karneval Specials']
-animeCharacters	[b'Gareki', b'Yogi', b'Nai', b'Tsukumo', b'Hirato', b'Dezart, Akari', b'Arumerita, Karoku', b'Tsukitachi', b'Jiki', b'Kiichi']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nKitamura, Eri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuganuma, Eiji\n\nDirector, Storyboard, Animation Director, Key Animation\n\n', b'\nYano, Satoshi\n\nSound Director\n\n', b'\nNishikata, Yasuto\n\nStoryboard\n\n', b'\nGRANRODEO\n\nTheme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement\n\n']
+animePopularity	926
+animeDescription	"While in search of his precious friend, a young boy named Nai falls captive to a beautiful woman, whose looks are matched only by her taste for human flesh. Meanwhile Gareki, a clever thief, is in the midst of robbing her luxurious home. After causing a distraction, Gareki agrees to help Nai escape, but they are discovered upon the woman's return. As she transforms into a ghoulish monster, the boys flee.
+
+On the run, Nai and Gareki are found by ""Circus,"" a government defense agency that deals with criminal activity too difficult for the police to handle and protects civilians from ""varuga""—terrible monsters that devour humans for sustenance. In the hope that it will lead Nai to his missing friend, he and Gareki decide to join Circus. On their perilous journey, they face dangerous varuga and begin to uncover the secrets behind a shadowy organization known as Kafka.
+
+[Written by MAL Rewrite]"
+animeRelated	['Karneval', 'Karneval Specials']
+animeCharacters	['Gareki', 'Yogi', 'Nai', 'Tsukumo', 'Hirato', 'Dezart, Akari', 'Arumerita, Karoku', 'Tsukitachi', 'Jiki', 'Kiichi']
+animeVoices	['Kamiya, Hiroshi', 'Miyano, Mamoru', 'Shimono, Hiro', 'Endou, Aya', 'Ono, Daisuke', 'Hirakawa, Daisuke', 'Hoshi, Souichirou', 'Yusa, Kouji', 'Nakamura, Yuuichi', 'Kitamura, Eri']
+animeStaff	[['Suganuma, Eiji', 'Director, Storyboard, Animation Director, Key Animation'], ['Yano, Satoshi', 'Sound Director'], ['Nishikata, Yasuto', 'Storyboard'], ['GRANRODEO', 'Theme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement']]

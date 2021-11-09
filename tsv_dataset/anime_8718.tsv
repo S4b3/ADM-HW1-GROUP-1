@@ -1,5 +1,5 @@
-animeTitle	b'Birth'
-animeType	b'OVA'
+animeTitle	Birth
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.98
 animeUsers	1875
 animeRank	
-animePopularity	
-animeDescription	b'Aqualoid was a prosperous planet, but an attack from a mysterious life force, the Inorganics, transforms it into a post-apocalyptic shell of its former self. When Nam finds a mysterious sword, he is suddenly the object of a planet-wide chase. With the Inorganics closing in, will Nam and his friends discover the secret of the sword and save their world? Or will they destroy Aqualoid in favor of a new Birth?\n\n(Source: AniDB)'
+animePopularity	6755
+animeDescription	"Aqualoid was a prosperous planet, but an attack from a mysterious life force, the Inorganics, transforms it into a post-apocalyptic shell of its former self. When Nam finds a mysterious sword, he is suddenly the object of a planet-wide chase. With the Inorganics closing in, will Nam and his friends discover the secret of the sword and save their world? Or will they destroy Aqualoid in favor of a new Birth?
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Rasa', b'Monga', b'Nam', b'Kim', b'Luzen, Bao', b'Arlia']
-animeVoices	[b'\nTominaga, Miina\nJapanese\n', b'\nShiraishi, Fuyumi\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nToda, Keiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSadamitsu, Shinya\n\nDirector\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b'\nTakegami, Junki\n\nScript\n\n', b'\nAnno, Hideaki\n\nKey Animation\n\n']
+animeCharacters	['Rasa', 'Monga', 'Nam', 'Kim', 'Luzen, Bao', 'Arlia']
+animeVoices	['Tominaga, Miina', 'Shiraishi, Fuyumi', 'Yao, Kazuki', 'Shiozawa, Kaneto', 'Nagai, Ichiro', 'Toda, Keiko']
+animeStaff	[['Sadamitsu, Shinya', 'Director'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Takegami, Junki', 'Script'], ['Anno, Hideaki', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman'
-animeType	b'Movie'
+animeTitle	Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.86
 animeUsers	3157
 animeRank	
-animePopularity	
-animeDescription	"b'The story follows Benio ""Haikara-san"" Hanamura, who lost her mother when she was very young and has been raised by her father, a high-ranking official in the Japanese army. As a result, she has grown into a tomboy. Contrary to traditional Japanese notions of femininity, she studies kendo, drinks sake, dresses in often outlandish-looking Western fashions instead of the traditional kimono, and is not as interested in housework as she is in literature. She also rejects the idea of arranged marriages and believes in a woman\'s right to a career and to marry for love.\n\n(Source: ANN)'"
-animeRelated	[b'Haikara-san ga Tooru', b'Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai']
-animeCharacters	[b'Hanamura, Benio', b'Ijuuin, Shinobu', b'Hanamura', b'Aoe, Tousei', b'Fujieda, Ranmaru', b'Onijima, Shingo', b'Ushigorou', b'Kitakouji, Tamaki', b'Mikhailov, Larisa']
-animeVoices	[b'\nHayami, Saori\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKidokoro, Seimei\n\nDirector, Episode Director, Storyboard\n\n', b'\nHayami, Saori\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nTakeuchi, Mariya\n\nTheme Song Lyrics, Theme Song Composition\n\n', b'\nSeto, Asami\n\nInserted Song Performance\n\n']
+animePopularity	5292
+animeDescription	"The story follows Benio ""Haikara-san"" Hanamura, who lost her mother when she was very young and has been raised by her father, a high-ranking official in the Japanese army. As a result, she has grown into a tomboy. Contrary to traditional Japanese notions of femininity, she studies kendo, drinks sake, dresses in often outlandish-looking Western fashions instead of the traditional kimono, and is not as interested in housework as she is in literature. She also rejects the idea of arranged marriages and believes in a woman's right to a career and to marry for love.
+
+(Source: ANN)"
+animeRelated	['Haikara-san ga Tooru', 'Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai']
+animeCharacters	['Hanamura, Benio', 'Ijuuin, Shinobu', 'Hanamura', 'Aoe, Tousei', 'Fujieda, Ranmaru', 'Onijima, Shingo', 'Ushigorou', 'Kitakouji, Tamaki', 'Mikhailov, Larisa']
+animeVoices	['Hayami, Saori', 'Sakamoto, Maaya']
+animeStaff	[['Kidokoro, Seimei', 'Director, Episode Director, Storyboard'], ['Hayami, Saori', 'Theme Song Performance, Inserted Song Performance'], ['Takeuchi, Mariya', 'Theme Song Lyrics, Theme Song Composition'], ['Seto, Asami', 'Inserted Song Performance']]

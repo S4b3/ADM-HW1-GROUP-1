@@ -1,5 +1,5 @@
-animeTitle	b'Bokura no'
-animeType	b'TV'
+animeTitle	Bokura no
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.64
 animeUsers	44476
 animeRank	
-animePopularity	
-animeDescription	"b""15 children, 8 boys and 7 girls, are enjoying their summer camp together when they suddenly discover a grotto by the sea. When they enter the mysterious place they find a room full of computers, as well as a man named Kokopelli, who introduces himself as the owner. He claims to be working on a game which involves a giant robot that has been designed to protect the Earth from 15 different alien invasions. Kokopelli hasn't been able to test the game yet, so he persuades all but one of the children to sign a contract in what he claims will be a fun adventure.\n\nHowever, as soon as the contracts are signed things start to take a much darker turn. In Bokurano, the children must now pilot the giant robot Zearth one at a time in the hopes that they will have what it takes to defeat all of the upcoming enemies. But Kokopelli has left out one very important piece of information: the giant robot Zearth's energy source."""
-animeRelated	[b'Bokurano', b'Bokura no: Tsuisou']
-animeCharacters	[b'Ushiro, Jun', b'Koemushi', b'Yamura, Daiichi', b'Moji, Kunihiko', b'Honda, Chizuru', b'Machi, Yoko', b'Nakarai, Mako', b'Kirie, Yousuke', b'Ano, Maki', b'Yoshikawa, Kanji']
-animeVoices	[b'\nMinagawa, Junko\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nTakahashi, Ao\nJapanese\n', b'\nSanpei, Yuuko\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nAsanuma, Shintaro\nJapanese\n', b'\nHiga, Kumiko\nJapanese\n', b'\nNojima, Kenji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagai, Masaru\n\nProducer\n\n', b'\nMorita, Hiroyuki\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nHayashi, Naotaka\n\nEpisode Director\n\n']
+animePopularity	1061
+animeDescription	"15 children, 8 boys and 7 girls, are enjoying their summer camp together when they suddenly discover a grotto by the sea. When they enter the mysterious place they find a room full of computers, as well as a man named Kokopelli, who introduces himself as the owner. He claims to be working on a game which involves a giant robot that has been designed to protect the Earth from 15 different alien invasions. Kokopelli hasn't been able to test the game yet, so he persuades all but one of the children to sign a contract in what he claims will be a fun adventure.
+
+However, as soon as the contracts are signed things start to take a much darker turn. In Bokurano, the children must now pilot the giant robot Zearth one at a time in the hopes that they will have what it takes to defeat all of the upcoming enemies. But Kokopelli has left out one very important piece of information: the giant robot Zearth's energy source."
+animeRelated	['Bokurano', 'Bokura no: Tsuisou']
+animeCharacters	['Ushiro, Jun', 'Koemushi', 'Yamura, Daiichi', 'Moji, Kunihiko', 'Honda, Chizuru', 'Machi, Yoko', 'Nakarai, Mako', 'Kirie, Yousuke', 'Ano, Maki', 'Yoshikawa, Kanji']
+animeVoices	['Minagawa, Junko', 'Ishida, Akira', 'Sugita, Tomokazu', 'Miyata, Kouki', 'Takahashi, Ao', 'Sanpei, Yuuko', 'Iguchi, Yuka', 'Asanuma, Shintaro', 'Higa, Kumiko', 'Nojima, Kenji']
+animeStaff	[['Nagai, Masaru', 'Producer'], ['Morita, Hiroyuki', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Hayashi, Naotaka', 'Episode Director']]

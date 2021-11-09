@@ -1,5 +1,5 @@
-animeTitle	b'Robokko Beeton'
-animeType	b'TV'
+animeTitle	Robokko Beeton
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""When a boy's uncle sends him confusing plans for a robot from America, the boy makes a mistake in the assembly which leads to unexpected results.\n\n(Source: AniDB)"""
+animePopularity	14922
+animeDescription	"When a boy's uncle sends him confusing plans for a robot from America, the boy makes a mistake in the assembly which leads to unexpected results.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Masao', b'Beeton', b'Nennen', b'Gakioyaji', b'Urara']
-animeVoices	[b'\nTokumaru, Kan\nJapanese\n', b'\nShiraishi, Fuyumi\nJapanese\n', b'\nHirai, Michiko\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nKoyama, Mami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOosumi, Masaaki\n\nDirector, Original Creator\n\n', b'\nTomino, Yoshiyuki\n\nEpisode Director\n\n', b'\nDezaki, Satoshi\n\nEpisode Director\n\n', b'\nFukutomi, Hiroshi\n\nEpisode Director\n\n']
+animeCharacters	['Masao', 'Beeton', 'Nennen', 'Gakioyaji', 'Urara']
+animeVoices	['Tokumaru, Kan', 'Shiraishi, Fuyumi', 'Hirai, Michiko', 'Nagai, Ichiro', 'Koyama, Mami']
+animeStaff	[['Oosumi, Masaaki', 'Director, Original Creator'], ['Tomino, Yoshiyuki', 'Episode Director'], ['Dezaki, Satoshi', 'Episode Director'], ['Fukutomi, Hiroshi', 'Episode Director']]

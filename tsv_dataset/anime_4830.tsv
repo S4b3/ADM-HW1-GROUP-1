@@ -1,5 +1,5 @@
-animeTitle	b'Teekyuu 3'
-animeType	b'TV'
+animeTitle	Teekyuu 3
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.76
 animeUsers	13630
 animeRank	
-animePopularity	
-animeDescription	b'Third season of Teekyuu series.'
-animeRelated	[b'Teekyuu', b'Teekyuu 2', b'Teekyuu 3 Specials', b'Teekyuu 4']
-animeCharacters	[b'Bandou, Marimo', b'Shinjou, Kanae', b'Takamiya, Nasuno', b'Oshimoto, Yuri', b'Michael', b'Kondou, Annenkov', b'Tanaka, Kinako', b'Kondou, Udonko', b'Oshimoto, Youta', b'Bobby']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nNarumi, Kyoko\nJapanese\n', b'\nWatanabe, Yui\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nNakashima, Yuki\nJapanese\n', b'\nIshihara, Kaori\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n', b'\nShimozuma, Yoshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItagaki, Shin\n\nDirector, Sound Director, Episode Director, Script, Storyboard, In-Between Animation, Key Animation, Animation Director, Chief Animation Director, Character Design\n\n', b'\nPiyo\n\nOriginal Character Design\n\n', b'\nTerada, Tsugeo\n\nOriginal Creator\n\n', b'\nHasegawa, Mai\n\nEditing\n\n']
+animePopularity	3696
+animeDescription	Third season of Teekyuu series.
+animeRelated	['Teekyuu', 'Teekyuu 2', 'Teekyuu 3 Specials', 'Teekyuu 4']
+animeCharacters	['Bandou, Marimo', 'Shinjou, Kanae', 'Takamiya, Nasuno', 'Oshimoto, Yuri', 'Michael', 'Kondou, Annenkov', 'Tanaka, Kinako', 'Kondou, Udonko', 'Oshimoto, Youta', 'Bobby']
+animeVoices	['Hanazawa, Kana', 'Mimori, Suzuko', 'Narumi, Kyoko', 'Watanabe, Yui', 'Kitamura, Eri', 'Nakashima, Yuki', 'Ishihara, Kaori', 'Oosaka, Ryouta', 'Shimozuma, Yoshiyuki']
+animeStaff	[['Itagaki, Shin', 'Director, Sound Director, Episode Director, Script, Storyboard, In-Between Animation, Key Animation, Animation Director, Chief Animation Director, Character Design'], ['Piyo', 'Original Character Design'], ['Terada, Tsugeo', 'Original Creator'], ['Hasegawa, Mai', 'Editing']]

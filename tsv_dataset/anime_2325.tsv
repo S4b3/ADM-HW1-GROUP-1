@@ -1,5 +1,5 @@
-animeTitle	b'Slayers Return'
-animeType	b'Movie'
+animeTitle	Slayers Return
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.32
 animeUsers	9122
 animeRank	
-animePopularity	
-animeDescription	b'The inhabitants of the village of Biaz, forced to labor in the serivce of the world-domination-happy Zein organization, hires Lina Inverse and Naga The Serpent to drive off the invaders. Lina and Naga agree, lured by stories of Elfin treasure sleeping below Biaz, only to get considerably more trouble -from the Zein and from the treasure - than they ever expected. \n\n(Source: ANN)'
-animeRelated	[b'Slayers: Super Explosive Demon Story', b'Slayers Original Movie Screenplay Book', b'Slayers: The Motion Picture', b'Slayers Great']
-animeCharacters	"[b'Inverse, Lina', b'Saillune, Gracia Ul Naga', b'Saleena', b'Zahhard', b'Galev', b'Becker', b'Female Martial Arts Master', b""Saleena's father""]"
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nKawamura, Maria\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nOkamoto, Maya\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector, Storyboard\n\n', b'\nWatanabe, Hiroshi\n\nDirector\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nHayashibara, Megumi\n\nTheme Song Performance\n\n']
+animePopularity	4178
+animeDescription	"The inhabitants of the village of Biaz, forced to labor in the serivce of the world-domination-happy Zein organization, hires Lina Inverse and Naga The Serpent to drive off the invaders. Lina and Naga agree, lured by stories of Elfin treasure sleeping below Biaz, only to get considerably more trouble -from the Zein and from the treasure - than they ever expected. 
+
+(Source: ANN)"
+animeRelated	['Slayers: Super Explosive Demon Story', 'Slayers Original Movie Screenplay Book', 'Slayers: The Motion Picture', 'Slayers Great']
+animeCharacters	"['Inverse, Lina', 'Saillune, Gracia Ul Naga', 'Saleena', 'Zahhard', 'Galev', 'Becker', 'Female Martial Arts Master', ""Saleena's father""]"
+animeVoices	['Hayashibara, Megumi', 'Kawamura, Maria', 'Hiramatsu, Akiko', 'Yao, Kazuki', 'Utsumi, Kenji', 'Chafurin', 'Okamoto, Maya', 'Ootsuka, Akio']
+animeStaff	[['Yuyama, Kunihiko', 'Director, Storyboard'], ['Watanabe, Hiroshi', 'Director'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Hayashibara, Megumi', 'Theme Song Performance']]

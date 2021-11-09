@@ -1,5 +1,5 @@
-animeTitle	b'Moldiver'
-animeType	b'OVA'
+animeTitle	Moldiver
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.03
 animeUsers	1078
 animeRank	
-animePopularity	
-animeDescription	b'Hiroshi Ozora invents the Mol Unit, a device that makes its user invincible. His plans of becoming a super hero are short lived however when his sister, Mirai, accidently modifies the suit configuration. Now she is forced to save Tokyo by herself from the evil Machinegal and his gang of all-female androids. \n\n(Source: ANN)'
-animeRelated	[b'Secret of Moldiver: Himitsu Daihyakka', b'Moldiver Ex']
-animeCharacters	[b'Ozora, Mirai', b'Amagi, Hiroshi', b'Ozora, Hiroshi', b'Misaki, Kaoru', b'Nastassja', b'Sayuri', b'Shirase, Mao', b'Jennifer', b'Vivien', b'Isabelle']
-animeVoices	[b'\nYukana\nJapanese\n', b'\nYanami, Jouji\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nYanada, Kiyoyuki\nJapanese\n', b'\nShimamura, Kaoru\nJapanese\n', b'\nKikuchi, Izumi\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nAmano, Yuri\nJapanese\n', b'\nNishihara, Kumiko\nJapanese\n', b'\nShinohara, Emi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nInoue, Hiroaki\n\nProducer\n\n', b'\nKitazume, Hiroyuki\n\nDirector, Animation Director, Character Design\n\n', b'\nAoki, Takeshi\n\nDirector\n\n', b'\nMatsuoka, Hiroki\n\nSound Director\n\n']
+animePopularity	8239
+animeDescription	"Hiroshi Ozora invents the Mol Unit, a device that makes its user invincible. His plans of becoming a super hero are short lived however when his sister, Mirai, accidently modifies the suit configuration. Now she is forced to save Tokyo by herself from the evil Machinegal and his gang of all-female androids. 
+
+(Source: ANN)"
+animeRelated	['Secret of Moldiver: Himitsu Daihyakka', 'Moldiver Ex']
+animeCharacters	['Ozora, Mirai', 'Amagi, Hiroshi', 'Ozora, Hiroshi', 'Misaki, Kaoru', 'Nastassja', 'Sayuri', 'Shirase, Mao', 'Jennifer', 'Vivien', 'Isabelle']
+animeVoices	['Yukana', 'Yanami, Jouji', 'Morikawa, Toshiyuki', 'Yanada, Kiyoyuki', 'Shimamura, Kaoru', 'Kikuchi, Izumi', 'Hiramatsu, Akiko', 'Amano, Yuri', 'Nishihara, Kumiko', 'Shinohara, Emi']
+animeStaff	[['Inoue, Hiroaki', 'Producer'], ['Kitazume, Hiroyuki', 'Director, Animation Director, Character Design'], ['Aoki, Takeshi', 'Director'], ['Matsuoka, Hiroki', 'Sound Director']]

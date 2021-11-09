@@ -1,5 +1,5 @@
-animeTitle	b'Shika no Ou: Yuna to Yakusoku no Tabi'
-animeType	b'Movie'
+animeTitle	Shika no Ou: Yuna to Yakusoku no Tabi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""In the years following a vicious war, the Empire of Zol now controls the land and citizens of rival Aquafa\xe2\x80\x94except for Aquafa's Fire Horse Territory, where wild dogs that once carried the deadly Black Wolf Fever continue to roam free. When a pack of dogs race through a Zol-controlled mine, Van, an enslaved former soldier, and a young girl named Yuna are both bitten, but manage to escape as the sole survivors of the attack. Finally free, Van and Yuna seek out a simple, peaceful existence in the countryside. But as the deadly disease once again runs rampant, they find themselves at the crossroads of a struggle much larger than any one nation.\n\n(Source: GKIDS)"""
-animeRelated	[b'Shika no Ou: Yuna to Yakusoku no Tabi']
-animeCharacters	[b'Makoukan', b'Sae', b'Hossal', b'Yuna', b'Van', b'Pyuika', b'Sforsam, Tohrim', b'Yotal', b'Akafah King', b'Rimuell']
-animeVoices	[b'\nWatanabe, Anne\nJapanese\n', b'\nTakeuchi, Ryouma\nJapanese\n', b'\nKimura, Hisui\nJapanese\n', b'\nTsutsumi, Shinichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsushita, Keiko\n\nProducer\n\n', b'\nAndou, Masashi\n\nDirector, Chief Animation Director, Character Design, Animation Director\n\n', b'\nMiyaji, Masayuki\n\nDirector\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n']
+animePopularity	4272
+animeDescription	"In the years following a vicious war, the Empire of Zol now controls the land and citizens of rival Aquafa—except for Aquafa's Fire Horse Territory, where wild dogs that once carried the deadly Black Wolf Fever continue to roam free. When a pack of dogs race through a Zol-controlled mine, Van, an enslaved former soldier, and a young girl named Yuna are both bitten, but manage to escape as the sole survivors of the attack. Finally free, Van and Yuna seek out a simple, peaceful existence in the countryside. But as the deadly disease once again runs rampant, they find themselves at the crossroads of a struggle much larger than any one nation.
+
+(Source: GKIDS)"
+animeRelated	['Shika no Ou: Yuna to Yakusoku no Tabi']
+animeCharacters	['Makoukan', 'Sae', 'Hossal', 'Yuna', 'Van', 'Pyuika', 'Sforsam, Tohrim', 'Yotal', 'Akafah King', 'Rimuell']
+animeVoices	['Watanabe, Anne', 'Takeuchi, Ryouma', 'Kimura, Hisui', 'Tsutsumi, Shinichi']
+animeStaff	[['Matsushita, Keiko', 'Producer'], ['Andou, Masashi', 'Director, Chief Animation Director, Character Design, Animation Director'], ['Miyaji, Masayuki', 'Director'], ['Kikuta, Hiromi', 'Sound Director']]

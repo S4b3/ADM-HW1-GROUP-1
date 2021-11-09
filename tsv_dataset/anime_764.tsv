@@ -1,5 +1,5 @@
-animeTitle	b'Aria the Crepuscolo'
-animeType	b'Movie'
+animeTitle	Aria the Crepuscolo
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.85
 animeUsers	1179
 animeRank	
-animePopularity	
-animeDescription	"b""The season is fall and the city of Neo-Venezia is covered in fallen leaves. Something is bothering Anya, who works at Orange Planet. Her senior colleagues Alice and Athena haven't seen each other due to their busy schedules, which is making Athena feel sad. But for some reason, Alice seems to be avoiding her altogether. With her friends Ai and Azusa's help, Anya tries to find a definitive way for Alice and Athena to get together. But during this time, Anya learns of a situation that only she can see because of where she stands.\n\n(Source: Shochiku)"""
-animeRelated	[b'Aria', b'Aria the Avvenire', b'Aria the Benedizione']
-animeCharacters	[b'Carroll, Alice', b'Glory, Athena', b'Dostoyevskaya, Anya', b'Mizunashi, Akari', b'Florence, Alicia', b'Granzchesta, Aika S.', b'Pokoteng, Aria', b'Ferrari, Akira E.', b'Aino, Ai', b'Maa']
-animeVoices	[b'\nHirohashi, Ryou\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nHazuki, Erino\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nNishimura, Chinami\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Junichi\n\nDirector, Screenplay\n\n', b'\nNatori, Takahiro\n\nDirector\n\n', b'\nYasuno, Kiyono\n\nTheme Song Performance\n\n', b'\nAmano, Kozue\n\nOriginal Creator\n\n']
+animePopularity	5959
+animeDescription	"The season is fall and the city of Neo-Venezia is covered in fallen leaves. Something is bothering Anya, who works at Orange Planet. Her senior colleagues Alice and Athena haven't seen each other due to their busy schedules, which is making Athena feel sad. But for some reason, Alice seems to be avoiding her altogether. With her friends Ai and Azusa's help, Anya tries to find a definitive way for Alice and Athena to get together. But during this time, Anya learns of a situation that only she can see because of where she stands.
+
+(Source: Shochiku)"
+animeRelated	['Aria', 'Aria the Avvenire', 'Aria the Benedizione']
+animeCharacters	['Carroll, Alice', 'Glory, Athena', 'Dostoyevskaya, Anya', 'Mizunashi, Akari', 'Florence, Alicia', 'Granzchesta, Aika S.', 'Pokoteng, Aria', 'Ferrari, Akira E.', 'Aino, Ai', 'Maa']
+animeVoices	['Hirohashi, Ryou', 'Satou, Rina', 'Kayano, Ai', 'Hazuki, Erino', 'Ohara, Sayaka', 'Saitou, Chiwa', 'Nishimura, Chinami', 'Minagawa, Junko', 'Mizuhashi, Kaori', 'Watanabe, Akeno']
+animeStaff	[['Satou, Junichi', 'Director, Screenplay'], ['Natori, Takahiro', 'Director'], ['Yasuno, Kiyono', 'Theme Song Performance'], ['Amano, Kozue', 'Original Creator']]

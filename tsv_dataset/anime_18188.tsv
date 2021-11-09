@@ -1,5 +1,5 @@
-animeTitle	b'Kansen 3: Shuto Houkai'
-animeType	b'OVA'
+animeTitle	Kansen 3: Shuto Houkai
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.41
 animeUsers	1805
 animeRank	
-animePopularity	
-animeDescription	"b'Four years have passed since the initial outbreak of the Unknown virus epidemic, and the terrifying plague which depopulated the Tohoku region of Japan has been reduced to a mere memory, thanks to drastic quarantine measures coupled with an effective vaccine.\n\nBut the Unknown virus is not dead yet and soon, very soon, an unescapable doom will fall upon Wataru Ayase and his family and friends, trapping them inside the ""Hell on Earth"" madhouse which originally was their home city, Tokyo...\n\n(Source: VNDB)'"
-animeRelated	[b'Kansen 2: Inzai Toshi', b'Kansen 5: The Daybreak']
-animeCharacters	[b'Homura, Margarita B', b'Kannagi, Yuuho ', b'Mizuki', b'Igarashi, Tomomi']
-animeVoices	[b'\nTamiyasu, Tomoe\nJapanese\n', b'\nInokuchi, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Toshiyuki\n\nProducer\n\n', b'\nYokoyama, Hiromi\n\nDirector, Episode Director\n\n', b'\nKinohara, Hikaru\n\nCharacter Design\n\n', b'\nLee, Si-Min\n\nCharacter Design, Animation Director\n\n']
+animePopularity	6718
+animeDescription	"Four years have passed since the initial outbreak of the Unknown virus epidemic, and the terrifying plague which depopulated the Tohoku region of Japan has been reduced to a mere memory, thanks to drastic quarantine measures coupled with an effective vaccine.
+
+But the Unknown virus is not dead yet and soon, very soon, an unescapable doom will fall upon Wataru Ayase and his family and friends, trapping them inside the ""Hell on Earth"" madhouse which originally was their home city, Tokyo...
+
+(Source: VNDB)"
+animeRelated	['Kansen 2: Inzai Toshi', 'Kansen 5: The Daybreak']
+animeCharacters	['Homura, Margarita B', 'Kannagi, Yuuho ', 'Mizuki', 'Igarashi, Tomomi']
+animeVoices	['Tamiyasu, Tomoe', 'Inokuchi, Yuka']
+animeStaff	[['Yamamoto, Toshiyuki', 'Producer'], ['Yokoyama, Hiromi', 'Director, Episode Director'], ['Kinohara, Hikaru', 'Character Design'], ['Lee, Si-Min', 'Character Design, Animation Director']]

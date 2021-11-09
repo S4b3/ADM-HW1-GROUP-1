@@ -1,5 +1,5 @@
-animeTitle	b'Jinzou Ningen Kikaider The Animation'
-animeType	b'TV'
+animeTitle	Jinzou Ningen Kikaider The Animation
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.98
 animeUsers	3870
 animeRank	
-animePopularity	
-animeDescription	b'The genius robotics professor, Dr. Komyoji has created Jiro (who has the ability to transform into Kikaider) \xe2\x80\x93 a humanoid robot tasked with the protection of Dr. Komyoji\xe2\x80\x99s son, Masaru, and daughter, Mitsuko. Gifted with a conscience circuit, which has the power to simulate real emotions that helps to distinguish between \xe2\x80\x9cright and wrong\xe2\x80\x9d, Jiro must protect Mitsuko and Masaru from the evil Dr. Gil who wants Jiro to join his army and aid in his goal of world domination.\n\n(Source: ANN)'
-animeRelated	[b'Kikaider 02', b'Jinzou Ningen Kikaida', b'Kikaider 01 The Animation', b'Guitar wo Motta Shounen: Kikaider vs. Inazuman']
-animeCharacters	[b'Jiro', b'Saburo/Hakaider', b'Komyoji, Mitsuko', b'Komyoji, Nobuhiko ', b'Herbert, Gill', b'Bat, Golden', b'Komyoji, Ichiro ']
-animeVoices	[b'\nSeki, Tomokazu\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nOgawa, Shinji\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nIto, Yusuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwakami, Atsuhiro\n\nProducer\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nOkamura, Tensai\n\nDirector, Episode Director, Storyboard\n\n', b'\nAndou, Masahiro\n\nEpisode Director, Storyboard\n\n']
+animePopularity	5613
+animeDescription	"The genius robotics professor, Dr. Komyoji has created Jiro (who has the ability to transform into Kikaider) – a humanoid robot tasked with the protection of Dr. Komyoji’s son, Masaru, and daughter, Mitsuko. Gifted with a conscience circuit, which has the power to simulate real emotions that helps to distinguish between “right and wrong”, Jiro must protect Mitsuko and Masaru from the evil Dr. Gil who wants Jiro to join his army and aid in his goal of world domination.
+
+(Source: ANN)"
+animeRelated	['Kikaider 02', 'Jinzou Ningen Kikaida', 'Kikaider 01 The Animation', 'Guitar wo Motta Shounen: Kikaider vs. Inazuman']
+animeCharacters	['Jiro', 'Saburo/Hakaider', 'Komyoji, Mitsuko', 'Komyoji, Nobuhiko ', 'Herbert, Gill', 'Bat, Golden', 'Komyoji, Ichiro ']
+animeVoices	['Seki, Tomokazu', 'Kosugi, Juurouta', 'Horie, Yui', 'Ogawa, Shinji', 'Wakamoto, Norio', 'Ito, Yusuke']
+animeStaff	[['Iwakami, Atsuhiro', 'Producer'], ['Maseba, Yutaka', 'Producer'], ['Okamura, Tensai', 'Director, Episode Director, Storyboard'], ['Andou, Masahiro', 'Episode Director, Storyboard']]

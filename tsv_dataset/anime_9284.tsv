@@ -1,5 +1,5 @@
-animeTitle	b'Anisama'
-animeType	b'ONA'
+animeTitle	Anisama
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.82
 animeUsers	739
 animeRank	
-animePopularity	
-animeDescription	"b'The official YouTube channel of the Animelo Summer Live concerts began streaming a Kemono Friends anime short video on Wednesday. The video features Northern White-faced Owl and Eurasian Eagle-Owl gathering a team of friends together to clean up the dilapidated Saitama Super Arena, the real-life venue of the Animelo Summer Live event.\n\nWhile there, the friends find cards that teach proper behavior while enjoying the concert, such as not using electronic devices. (""What\'s a \'mobile\'?"" ""Doesn\'t look very tasty."") Later, the friends see how many people are entering the venue (far above their estimate of 100), and beat a hasty retreat. \n\n(Source: ANN)'"
-animeRelated	[b'Kemono Friends']
-animeCharacters	[b'Northern White-faced Owl', b'Eurasian Eagle-owl']
-animeVoices	[b'\nMikami, Shiori\nJapanese\n', b'\nUehara, Akari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShirouzu, Yuuko\n\nArt Director\n\n', b'\nIsa, Yoshihisa\n\nAnimation Director\n\n', b'\nKazama, Yuka\n\nSound Effects\n\n']
+animePopularity	9389
+animeDescription	"The official YouTube channel of the Animelo Summer Live concerts began streaming a Kemono Friends anime short video on Wednesday. The video features Northern White-faced Owl and Eurasian Eagle-Owl gathering a team of friends together to clean up the dilapidated Saitama Super Arena, the real-life venue of the Animelo Summer Live event.
+
+While there, the friends find cards that teach proper behavior while enjoying the concert, such as not using electronic devices. (""What's a 'mobile'?"" ""Doesn't look very tasty."") Later, the friends see how many people are entering the venue (far above their estimate of 100), and beat a hasty retreat. 
+
+(Source: ANN)"
+animeRelated	['Kemono Friends']
+animeCharacters	['Northern White-faced Owl', 'Eurasian Eagle-owl']
+animeVoices	['Mikami, Shiori', 'Uehara, Akari']
+animeStaff	[['Shirouzu, Yuuko', 'Art Director'], ['Isa, Yoshihisa', 'Animation Director'], ['Kazama, Yuka', 'Sound Effects']]

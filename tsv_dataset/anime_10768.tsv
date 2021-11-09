@@ -1,5 +1,5 @@
-animeTitle	b'Makaryuudo Demon Hunter'
-animeType	b'OVA'
+animeTitle	Makaryuudo Demon Hunter
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.36
 animeUsers	830
 animeRank	
-animePopularity	
-animeDescription	"b""Yama Rikudo is not your average teenage girl. With her trademark duo horn-like tufted hair, she\xe2\x80\x99s really a kind of demon policewoman, charged with the duty of protecting Japan from demonic monsters that\xe2\x80\x99ve gone AWOL. Even when her demon superiors try and pull her off the job, because demon-human relations are getting too hot for her to handle, she will stay and fight with her giant scythe, because, while disguised as a high school student, she has fallen for fellow student Sho Kurogane. Now she must save Sho, and his friends, from the evil plotting of the school\xe2\x80\x99s eternal youth seeking, soul sucking, Headmistress.\n\n(Source: Chris' Cel Site)"""
+animePopularity	9263
+animeDescription	"Yama Rikudo is not your average teenage girl. With her trademark duo horn-like tufted hair, she’s really a kind of demon policewoman, charged with the duty of protecting Japan from demonic monsters that’ve gone AWOL. Even when her demon superiors try and pull her off the job, because demon-human relations are getting too hot for her to handle, she will stay and fight with her giant scythe, because, while disguised as a high school student, she has fallen for fellow student Sho Kurogane. Now she must save Sho, and his friends, from the evil plotting of the school’s eternal youth seeking, soul sucking, Headmistress.
+
+(Source: Chris' Cel Site)"
 animeRelated	[]
-animeCharacters	[b'Kurogane, Sho', b'Rikudo, Yama', b'Principal', b'Aono, Kaoru', b'Sawaguchi, Takashi', b'Naraka', b'Chaos']
-animeVoices	[b'\nSeki, Toshihiko\nJapanese\n', b'\nTakayama, Minami\nJapanese\n', b'\nInoue, You\nJapanese\n', b'\nSakuma, Rei\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nTominaga, Miina\nJapanese\n', b'\nEbara, Masashi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamada, Etsuji\n\nSound Director\n\n', b'\nKishida, Takahiro\n\nKey Animation\n\n', b'\nMoriyama, Yuuji\n\nCharacter Design\n\n', b'\nWatanabe, Junichi\n\nCharacter Design, Key Animation\n\n']
+animeCharacters	['Kurogane, Sho', 'Rikudo, Yama', 'Principal', 'Aono, Kaoru', 'Sawaguchi, Takashi', 'Naraka', 'Chaos']
+animeVoices	['Seki, Toshihiko', 'Takayama, Minami', 'Inoue, You', 'Sakuma, Rei', 'Horikawa, Ryo', 'Tominaga, Miina', 'Ebara, Masashi']
+animeStaff	[['Yamada, Etsuji', 'Sound Director'], ['Kishida, Takahiro', 'Key Animation'], ['Moriyama, Yuuji', 'Character Design'], ['Watanabe, Junichi', 'Character Design, Key Animation']]

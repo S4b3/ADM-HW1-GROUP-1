@@ -1,5 +1,5 @@
-animeTitle	b'Kagaku na Yatsura'
-animeType	b'OVA'
+animeTitle	Kagaku na Yatsura
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.7
 animeUsers	9916
 animeRank	
-animePopularity	
-animeDescription	"b""Choosing which high school club to join can be a daunting task. After all, there are only so many hours in the day, not to mention the power struggle between cyborgs and part canine-females. At least, that's the conundrum that Haruki Komaba finds himself trapped in.\n\nAiri Kuze is a mechanical science master with a crush on Haruki. Touko Hizuki is a half-dog, half-girl chemical science master who's also fond of Haruki. Unfortunately for Haruki, he accidentally promised to join both clubs and finds himself in the middle of a fierce battle for his membership and, if Airi has anything to say about it, his hand in marriage.\n\nAs if things weren't complicated enough, Ayana's perverted older sister Touko has decided to intervene on her younger sibling's behalf, bringing her own brand of sexually charged chemical science into the mix. Haruki's going to have a difficult time deciding on a club. If the girls don't end up tearing each other apart first, that is."""
-animeRelated	[b'Kagaku na Yatsura']
-animeCharacters	[b'Hizuki, Ayana', b'Hizuki, Touko', b'Kuze, Airi', b'Komaba, Haruki', b'Euphemia', b'Kasama']
-animeVoices	[b'\nTakamori, Natsumi\nJapanese\n', b'\nSakuma, Kumi\nJapanese\n', b'\nAkutsu, Kana\nJapanese\n', b'\nMajima, Junji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagai, Masaru\n\nProducer\n\n', b'\nKaneko, Hiraku\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nTakayama, Katsuhiko\n\nScript\n\n']
+animePopularity	3789
+animeDescription	"Choosing which high school club to join can be a daunting task. After all, there are only so many hours in the day, not to mention the power struggle between cyborgs and part canine-females. At least, that's the conundrum that Haruki Komaba finds himself trapped in.
+
+Airi Kuze is a mechanical science master with a crush on Haruki. Touko Hizuki is a half-dog, half-girl chemical science master who's also fond of Haruki. Unfortunately for Haruki, he accidentally promised to join both clubs and finds himself in the middle of a fierce battle for his membership and, if Airi has anything to say about it, his hand in marriage.
+
+As if things weren't complicated enough, Ayana's perverted older sister Touko has decided to intervene on her younger sibling's behalf, bringing her own brand of sexually charged chemical science into the mix. Haruki's going to have a difficult time deciding on a club. If the girls don't end up tearing each other apart first, that is."
+animeRelated	['Kagaku na Yatsura']
+animeCharacters	['Hizuki, Ayana', 'Hizuki, Touko', 'Kuze, Airi', 'Komaba, Haruki', 'Euphemia', 'Kasama']
+animeVoices	['Takamori, Natsumi', 'Sakuma, Kumi', 'Akutsu, Kana', 'Majima, Junji']
+animeStaff	[['Nagai, Masaru', 'Producer'], ['Kaneko, Hiraku', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Takayama, Katsuhiko', 'Script']]

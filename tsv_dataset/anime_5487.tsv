@@ -1,5 +1,5 @@
-animeTitle	b'Emblem Take 2'
-animeType	b'OVA'
+animeTitle	Emblem Take 2
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.62
 animeUsers	449
 animeRank	
-animePopularity	
-animeDescription	"b""Shinjuku, 1983. A member of the Kaeda Yakuza gang, Akutsu Jouji, has lost in a brawl with a university cheering squad, and begs for forgiveness through bitter tears. Since then, nothing has gone well in Jouji's life, until 10 years later in 1993, his friend was ordered to kill him, and as he ran away he killed himself, ending his miserable life.\n\nBut when Jouji opened his eyes, he was in Shinjuku in 1983, at the fight with the university students that caused things to go wrong. Now with ten more years of memories and experience, Jouji repels the university students with spirit and wisdom. Now he swears to wear a gold emblem around town, and begins his life anew.\n\n(Source: Hokuto no Gun)\n"""
-animeRelated	[b'Emblem Take 2']
-animeCharacters	[b'Akutsu, Jouji', b'Fukunaga, Takashi', b'Takayama, Tadashi', b'Sayama, Hisashi', b'Okita, Tsutomu', b'Oonishi, Yasuo', b'Nakanishi, Kenzo', b'Yano, Kinya', b'Ebara, Shingo', b'Yamazaki, Tadayoshi']
-animeVoices	[b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nKakegawa, Hirohiko\nJapanese\n', b'\nIsobe, Hiroshi\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n', b'\nMatsuo, Ginzou\nJapanese\n', b'\nNakamura, Daiki\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImazawa, Tetsuo\n\nDirector\n\n', b'\nShimizu, Junji\n\nEpisode Director\n\n', b'\nUrahata, Tatsuhiko\n\nScript\n\n', b'\nMiyamae, Mitsuharu\n\nArt Director\n\n']
+animePopularity	10284
+animeDescription	"Shinjuku, 1983. A member of the Kaeda Yakuza gang, Akutsu Jouji, has lost in a brawl with a university cheering squad, and begs for forgiveness through bitter tears. Since then, nothing has gone well in Jouji's life, until 10 years later in 1993, his friend was ordered to kill him, and as he ran away he killed himself, ending his miserable life.
+
+But when Jouji opened his eyes, he was in Shinjuku in 1983, at the fight with the university students that caused things to go wrong. Now with ten more years of memories and experience, Jouji repels the university students with spirit and wisdom. Now he swears to wear a gold emblem around town, and begins his life anew.
+
+(Source: Hokuto no Gun)
+"
+animeRelated	['Emblem Take 2']
+animeCharacters	['Akutsu, Jouji', 'Fukunaga, Takashi', 'Takayama, Tadashi', 'Sayama, Hisashi', 'Okita, Tsutomu', 'Oonishi, Yasuo', 'Nakanishi, Kenzo', 'Yano, Kinya', 'Ebara, Shingo', 'Yamazaki, Tadayoshi']
+animeVoices	['Morikawa, Toshiyuki', 'Canna, Nobutoshi', 'Yara, Yuusaku', 'Kakegawa, Hirohiko', 'Isobe, Hiroshi', 'Satou, Masaharu', 'Matsuo, Ginzou', 'Nakamura, Daiki', 'Hayami, Show', 'Kobayashi, Kiyoshi']
+animeStaff	[['Imazawa, Tetsuo', 'Director'], ['Shimizu, Junji', 'Episode Director'], ['Urahata, Tatsuhiko', 'Script'], ['Miyamae, Mitsuharu', 'Art Director']]

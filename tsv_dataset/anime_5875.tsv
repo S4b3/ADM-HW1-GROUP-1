@@ -1,5 +1,5 @@
-animeTitle	b'Dance in the Vampire Bund: Special Edition'
-animeType	b'Special'
+animeTitle	Dance in the Vampire Bund: Special Edition
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.55
 animeUsers	5880
 animeRank	
-animePopularity	
-animeDescription	b'A Dance in the Vampire Bund recap episode featuring re-edited footage from the first 7 episodes.'
-animeRelated	[b'Dance in the Vampire Bund']
-animeCharacters	[b'Tepes, Mina', b'Kaburagi Regendorf, Akira', b'Saegusa, Yuki', b'Meiren', b'Shinonome, Nanami', b'Regendorf, Wolfgang', b'Sister Laura', b'Saijou, Takashi']
-animeVoices	[b'\nYuuki, Aoi\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKonno, Naoyuki\n\nCharacter Design\n\n']
+animePopularity	4565
+animeDescription	A Dance in the Vampire Bund recap episode featuring re-edited footage from the first 7 episodes.
+animeRelated	['Dance in the Vampire Bund']
+animeCharacters	['Tepes, Mina', 'Kaburagi Regendorf, Akira', 'Saegusa, Yuki', 'Meiren', 'Shinonome, Nanami', 'Regendorf, Wolfgang', 'Sister Laura', 'Saijou, Takashi']
+animeVoices	['Yuuki, Aoi', 'Nakamura, Yuuichi', 'Saitou, Chiwa', 'Kobayashi, Yuu']
+animeStaff	[['Konno, Naoyuki', 'Character Design']]

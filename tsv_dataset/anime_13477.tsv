@@ -1,5 +1,5 @@
-animeTitle	b'Sore Ike! Anpanman: Kagayake! Kurun to Inochi no Hoshi'
-animeType	b'Movie'
+animeTitle	Sore Ike! Anpanman: Kagayake! Kurun to Inochi no Hoshi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""The story begins in Anpanman World, where everybody is bustling around, getting ready for the annual Star Festival. On that day, an egg emerges from Baikinman's garbage box, and when it hatches, a mysterious boy named Kurun emerges from within. Though Kurun does not know where he came from, he spends his days having fun with everybody. But one day, black stars begin raining down. Anpanman thinks that something suspicious might be occurring at the Star of Life, and he heads there.\n\n(Source: ANN)"""
-animeRelated	[b'Sore Ike! Anpanman']
-animeCharacters	[b'Anpanman']
-animeVoices	[b'\nToda, Keiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYanase, Takashi\n\nOriginal Creator\n\n']
+animePopularity	15663
+animeDescription	"The story begins in Anpanman World, where everybody is bustling around, getting ready for the annual Star Festival. On that day, an egg emerges from Baikinman's garbage box, and when it hatches, a mysterious boy named Kurun emerges from within. Though Kurun does not know where he came from, he spends his days having fun with everybody. But one day, black stars begin raining down. Anpanman thinks that something suspicious might be occurring at the Star of Life, and he heads there.
+
+(Source: ANN)"
+animeRelated	['Sore Ike! Anpanman']
+animeCharacters	['Anpanman']
+animeVoices	['Toda, Keiko']
+animeStaff	[['Yanase, Takashi', 'Original Creator']]

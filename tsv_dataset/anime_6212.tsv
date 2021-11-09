@@ -1,5 +1,5 @@
-animeTitle	b'Amaenaide yo!!'
-animeType	b'TV'
+animeTitle	Amaenaide yo!!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.48
 animeUsers	31805
 animeRank	
-animePopularity	
-animeDescription	b'Satonaka Ikkou, a 16 year old boy, is a first year trainee at the Saienji Buddhist Temple. He was sent there by his parents to be trained by his grandmother, the Saienji Priestess. At the temple he finds himself surrounded by beautiful female priestesses-in-training. Upon seeing a girl naked, Ikko has the ability to turn into a super-monk, performing massive exorcisms for the good of the temple.\n\n(Source: ANN)\n'
-animeRelated	[b'Amaenaide yo!!', b'Amaenaide yo!! Katsu!!', b'Amaenaide yo!!: Yasumanaide yo!!']
-animeCharacters	[b'Nanbu, Chitose', b'Satonaka, Ikkou', b'Sugai, Hinata', b'Amanogawa, Haruka', b'Atouda, Yuuko', b'Ikuina, Sumi', b'Ayako', b'Sugai, Sakura', b'Yanagi', b'Yume, Karyuudo']
-animeVoices	[b'\nNakahara, Mai\nJapanese\n', b'\nSuzuki, Chihiro\nJapanese\n', b'\nShintani, Ryouko\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nHiguchi, Chieko\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nNanao, Haruhi\nJapanese\n', b'\nHatano, Wataru\nJapanese\n', b'\nMasukawa, Yoichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMotonaga, Keitarou\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nSokuza, Makoto\n\nEpisode Director\n\n', b'\nOkamoto, Hideki\n\nEpisode Director\n\n']
+animePopularity	2074
+animeDescription	"Satonaka Ikkou, a 16 year old boy, is a first year trainee at the Saienji Buddhist Temple. He was sent there by his parents to be trained by his grandmother, the Saienji Priestess. At the temple he finds himself surrounded by beautiful female priestesses-in-training. Upon seeing a girl naked, Ikko has the ability to turn into a super-monk, performing massive exorcisms for the good of the temple.
+
+(Source: ANN)
+"
+animeRelated	['Amaenaide yo!!', 'Amaenaide yo!! Katsu!!', 'Amaenaide yo!!: Yasumanaide yo!!']
+animeCharacters	['Nanbu, Chitose', 'Satonaka, Ikkou', 'Sugai, Hinata', 'Amanogawa, Haruka', 'Atouda, Yuuko', 'Ikuina, Sumi', 'Ayako', 'Sugai, Sakura', 'Yanagi', 'Yume, Karyuudo']
+animeVoices	['Nakahara, Mai', 'Suzuki, Chihiro', 'Shintani, Ryouko', 'Watanabe, Akeno', 'Higuchi, Chieko', 'Kawakami, Tomoko', 'Mizuki, Nana', 'Nanao, Haruhi', 'Hatano, Wataru', 'Masukawa, Yoichi']
+animeStaff	[['Motonaga, Keitarou', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Sokuza, Makoto', 'Episode Director'], ['Okamoto, Hideki', 'Episode Director']]

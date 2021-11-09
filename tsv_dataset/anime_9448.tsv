@@ -1,5 +1,5 @@
-animeTitle	b'Transformers: Scramble City'
-animeType	b'OVA'
+animeTitle	Transformers: Scramble City
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.78
 animeUsers	783
 animeRank	
-animePopularity	
-animeDescription	"b'Beginning with a recap of the coming of the Transformers to Earth and the story of Devastator, the OVA then gets its original story underway, as the Autobots are shown to be in the midst of constructing the powerful ""Scramble City,"" overseen by their newest arrival, Ultra Magnus. \n\nWhen the Decepticons learn of this, their combiner robots are deployed to attack, and a battle between them and their Autobot counterparts ensues. \n\n(Source: Wikipedia)'"
+animePopularity	9864
+animeDescription	"Beginning with a recap of the coming of the Transformers to Earth and the story of Devastator, the OVA then gets its original story underway, as the Autobots are shown to be in the midst of constructing the powerful ""Scramble City,"" overseen by their newest arrival, Ultra Magnus. 
+
+When the Decepticons learn of this, their combiner robots are deployed to attack, and a battle between them and their Autobot counterparts ensues. 
+
+(Source: Wikipedia)"
 animeRelated	[]
-animeCharacters	[b'Prime, Optimus', b'Starscream', b'Megatron', b'Magnus, Ultra', b'Soundwave', b'Bumblebee', b'Jazz', b'Wheeljack', b'Skywarp', b'Thundercracker']
+animeCharacters	['Prime, Optimus', 'Starscream', 'Megatron', 'Magnus, Ultra', 'Soundwave', 'Bumblebee', 'Jazz', 'Wheeljack', 'Skywarp', 'Thundercracker']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimonari, Satoko\n\nTheme Song Performance\n\n', b'\nKawamori, Shouji\n\nMechanical Design\n\n', b'\nHayama, Junichi\n\nKey Animation\n\n', b'\nSugiura, Shouichirou\n\nArt Director\n\n']
+animeStaff	[['Shimonari, Satoko', 'Theme Song Performance'], ['Kawamori, Shouji', 'Mechanical Design'], ['Hayama, Junichi', 'Key Animation'], ['Sugiura, Shouichirou', 'Art Director']]

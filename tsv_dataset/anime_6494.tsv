@@ -1,5 +1,5 @@
-animeTitle	b'Prism Ark'
-animeType	b'TV'
+animeTitle	Prism Ark
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.43
 animeUsers	7830
 animeRank	
-animePopularity	
-animeDescription	"b""The Sablum Empire has been attempting to take over the kingdom of Windland for many years, and are now plotting with the mercenaries Sister Hell and Darkness Knight to start a new offensive using powerful magical beings called Angels. \n\nHyaweh, a carefree yet talented swordsman, and Priecia, who just might be the lost princess of Windland, are enrolled at the Knight's Academy in Windland to hone their skill at swords and sorcery. There they meet many friends and allies who can help them protect their homeland from the impending invasion. """
-animeRelated	[b'Prism Ark Specials', b'Prism Magical: Prism Generations!']
-animeCharacters	[b'Priecia', b'Hyaweh', b'Theresa', b'Fel', b'Kagura', b'Mibu, Karin', b'Filia', b'Litte', b'Bridget', b'von Ferdinand, Jung']
-animeVoices	[b'\nSakakibara, Yui\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n', b'\nMomoi, Haruko\nJapanese\n', b'\nKoyama, Kimiko\nJapanese\n', b'\nAsumi, Kana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOobari, Masami\n\nDirector, Episode Director, Storyboard, Key Animation\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nYoshida, Tooru\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nSaitou, Yoshinari\n\nEpisode Director, Key Animation, Animation Director\n\n']
+animePopularity	3897
+animeDescription	"The Sablum Empire has been attempting to take over the kingdom of Windland for many years, and are now plotting with the mercenaries Sister Hell and Darkness Knight to start a new offensive using powerful magical beings called Angels. 
+
+Hyaweh, a carefree yet talented swordsman, and Priecia, who just might be the lost princess of Windland, are enrolled at the Knight's Academy in Windland to hone their skill at swords and sorcery. There they meet many friends and allies who can help them protect their homeland from the impending invasion. "
+animeRelated	['Prism Ark Specials', 'Prism Magical: Prism Generations!']
+animeCharacters	['Priecia', 'Hyaweh', 'Theresa', 'Fel', 'Kagura', 'Mibu, Karin', 'Filia', 'Litte', 'Bridget', 'von Ferdinand, Jung']
+animeVoices	['Sakakibara, Yui', 'Kakihara, Tetsuya', 'Asakawa, Yuu', 'Mizuhashi, Kaori', 'Nabatame, Hitomi', 'Matsui, Naoko', 'Momoi, Haruko', 'Koyama, Kimiko', 'Asumi, Kana']
+animeStaff	[['Oobari, Masami', 'Director, Episode Director, Storyboard, Key Animation'], ['Kameyama, Toshiki', 'Sound Director'], ['Yoshida, Tooru', 'Episode Director, Storyboard, Key Animation'], ['Saitou, Yoshinari', 'Episode Director, Key Animation, Animation Director']]

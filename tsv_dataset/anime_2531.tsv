@@ -1,5 +1,5 @@
-animeTitle	b'Nazo no Kanojo X: Nazo no Natsu Matsuri'
-animeType	b'OVA'
+animeTitle	Nazo no Kanojo X: Nazo no Natsu Matsuri
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.27
 animeUsers	19854
 animeRank	
-animePopularity	
-animeDescription	b'OVA released with the 9th volume of the manga. \n\nThe day when Tsubaki goes to the summer festival with Ueno, Oka, and Urabe. '
-animeRelated	[b'Nazo no Kanojo X']
-animeCharacters	[b'Urabe, Mikoto', b'Tsubaki, Akira', b'Oka, Ayuko', b'Ueno, Kouhei', b'Matsubue, Takaomi', b'Togawa, Arika', b'Tsubaki, Youko']
-animeVoices	[b'\nYoshitani, Ayako\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nYuuki, Hiro\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nFukuen, Misato\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagai, Masaru\n\nProducer\n\n', b'\nWatanabe, Ayumu\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nKojima, Masayuki\n\nStoryboard\n\n']
+animePopularity	3000
+animeDescription	"OVA released with the 9th volume of the manga. 
+
+The day when Tsubaki goes to the summer festival with Ueno, Oka, and Urabe. "
+animeRelated	['Nazo no Kanojo X']
+animeCharacters	['Urabe, Mikoto', 'Tsubaki, Akira', 'Oka, Ayuko', 'Ueno, Kouhei', 'Matsubue, Takaomi', 'Togawa, Arika', 'Tsubaki, Youko']
+animeVoices	['Yoshitani, Ayako', 'Irino, Miyu', 'Hirohashi, Ryou', 'Kaji, Yuki', 'Yuuki, Hiro', 'Hayashibara, Megumi', 'Fukuen, Misato']
+animeStaff	[['Nagai, Masaru', 'Producer'], ['Watanabe, Ayumu', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Kojima, Masayuki', 'Storyboard']]

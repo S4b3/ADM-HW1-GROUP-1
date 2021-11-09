@@ -1,5 +1,5 @@
-animeTitle	"b""Cookin' Idol Ai! Mai! Main!"""
-animeType	b'TV'
+animeTitle	Cookin' Idol Ai! Mai! Main!
+animeType	TV
 animeNumEpisode	305
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.23
 animeUsers	209
 animeRank	
-animePopularity	
-animeDescription	b'Cooking Idol teaches children how to cook through instruction of the main character, MAIN. The show itself is divided into an animated segment featuring MAIN, and a live-action segment featuring the voice actor of MAIN, Fukuhara Haruka, as she practices the cooking herself. The live-action segment is not included in the avg episode duration.'
+animePopularity	9770
+animeDescription	Cooking Idol teaches children how to cook through instruction of the main character, MAIN. The show itself is divided into an animated segment featuring MAIN, and a live-action segment featuring the voice actor of MAIN, Fukuhara Haruka, as she practices the cooking herself. The live-action segment is not included in the avg episode duration.
 animeRelated	[]
-animeCharacters	[b'Hiiragi, Main', b'Misanga', b'Kobayashi', b'Himekouji, Reia', b'Yuria', b'Gotou, Carmen', b'Yuma', b'Tokumaru', b'Amano, Seika', b'Kinako']
-animeVoices	[b'\nFukuhara, Haruka\nJapanese\n', b'\nKobayashi, Akiko\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nMiyamoto, Kanako\nJapanese\n', b'\nYokoyama, Chisa\nJapanese\n', b'\nOota, Tetsuharu\nJapanese\n', b'\nIino, Mayu\nJapanese\n', b'\nHotta, Masaru\nJapanese\n', b'\nKasahara, Hiroko\nJapanese\n', b'\nWakayama, Shion\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHamano, Kazuzou\n\nSound Director\n\n', b'\nFukuhara, Haruka\n\nTheme Song Performance\n\n', b'\nHirami, Miharu\n\nSeries Composition\n\n', b'\nTakahashi, Maho\n\nArt Director\n\n']
+animeCharacters	['Hiiragi, Main', 'Misanga', 'Kobayashi', 'Himekouji, Reia', 'Yuria', 'Gotou, Carmen', 'Yuma', 'Tokumaru', 'Amano, Seika', 'Kinako']
+animeVoices	['Fukuhara, Haruka', 'Kobayashi, Akiko', 'Toyonaga, Toshiyuki', 'Miyamoto, Kanako', 'Yokoyama, Chisa', 'Oota, Tetsuharu', 'Iino, Mayu', 'Hotta, Masaru', 'Kasahara, Hiroko', 'Wakayama, Shion']
+animeStaff	[['Hamano, Kazuzou', 'Sound Director'], ['Fukuhara, Haruka', 'Theme Song Performance'], ['Hirami, Miharu', 'Series Composition'], ['Takahashi, Maho', 'Art Director']]

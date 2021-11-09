@@ -1,5 +1,5 @@
-animeTitle	b'Togainu no Chi'
-animeType	b'TV'
+animeTitle	Togainu no Chi
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.26
 animeUsers	32043
 animeRank	
-animePopularity	
-animeDescription	"b""In the wake of a third world war which left Japan in ruins, an organization known as Vischio seized control of Tokyo and renamed it Toshima. Taking place in its back alleys are battle games known as Igura, overseen by the Vischio, in which contestants battle and bathe in each other's blood to earn the chance to go up against its tournament's king, Il-re.\n\nIgura is not the only fighting tournament around; Bl@ster is a similar yet vastly different game since it prohibits murder and the use of weapons. The only way to win is by knocking out the opponent. Akira, a young man isolated from his family, is known to be undefeatable at Bl@ster. However, his life on the top is shattered when he is accused of murder. Unable to prove his own innocence, all hope is seemingly lost... that is until a mysterious woman named Emma appears and offers him a chance. Now, to regain his freedom, Akira must participate in Igura and ultimately defeat Il-re.\n\n[Written by MAL Rewrite]"""
-animeRelated	"[b'Togainu no Chi', b""BOY's LOVE Nitro+CHiRAL""]"
-animeCharacters	[b'Shiki', b'Akira', b'Rin', b'Keisuke', b'Nano', b'Motomi', b'Gunji', b'Kau', b'Kiriwar', b'Arbitro']
-animeVoices	[b'\nMidorikawa, Hikaru\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n', b'\nIchijo, Kazuya\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nOkano, Kousuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwakami, Atsuhiro\n\nProducer\n\n', b'\nKonno, Naoyuki\n\nDirector, Character Design\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nSugawara, Yukie\n\nScript\n\n']
+animePopularity	1886
+animeDescription	"In the wake of a third world war which left Japan in ruins, an organization known as Vischio seized control of Tokyo and renamed it Toshima. Taking place in its back alleys are battle games known as Igura, overseen by the Vischio, in which contestants battle and bathe in each other's blood to earn the chance to go up against its tournament's king, Il-re.
+
+Igura is not the only fighting tournament around; Bl@ster is a similar yet vastly different game since it prohibits murder and the use of weapons. The only way to win is by knocking out the opponent. Akira, a young man isolated from his family, is known to be undefeatable at Bl@ster. However, his life on the top is shattered when he is accused of murder. Unable to prove his own innocence, all hope is seemingly lost... that is until a mysterious woman named Emma appears and offers him a chance. Now, to regain his freedom, Akira must participate in Igura and ultimately defeat Il-re.
+
+[Written by MAL Rewrite]"
+animeRelated	"['Togainu no Chi', ""BOY's LOVE Nitro+CHiRAL""]"
+animeCharacters	['Shiki', 'Akira', 'Rin', 'Keisuke', 'Nano', 'Motomi', 'Gunji', 'Kau', 'Kiriwar', 'Arbitro']
+animeVoices	['Midorikawa, Hikaru', 'Toriumi, Kousuke', 'Fukuyama, Jun', 'Sugita, Tomokazu', 'Yamazaki, Takumi', 'Ichijo, Kazuya', 'Taniyama, Kishou', 'Konishi, Katsuyuki', 'Okano, Kousuke']
+animeStaff	[['Iwakami, Atsuhiro', 'Producer'], ['Konno, Naoyuki', 'Director, Character Design'], ['Motoyama, Satoshi', 'Sound Director'], ['Sugawara, Yukie', 'Script']]

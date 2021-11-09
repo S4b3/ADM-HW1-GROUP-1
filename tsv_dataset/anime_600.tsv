@@ -1,5 +1,5 @@
-animeTitle	b'Kobato.'
-animeType	b'TV'
+animeTitle	Kobato.
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.96
 animeUsers	52434
 animeRank	
-animePopularity	
-animeDescription	"b""The friendly and sincere Kobato Hanato has a wish to go to a particular place no matter what. To fulfill this desire, she is tasked with helping people in their times of distress. For each mended broken heart, a small candy-like fragment is produced and fills a special bottle. Once the bottle is full, her wish will be granted.\n\nAs Kobato carries out her mission alongside her stuffed toy companion, Ioryogi, she encounters various people troubled by their different situations. From a child struggling with his parents, a high school girl troubled about romance, and everything in between, Kobato's naturally sweet smile and outgoing personality are ready to brighten their day!\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kobato.', b'Kobato.: Hajimete no Kobato.']
-animeCharacters	[b'Hanato, Kobato', b'Ioryogi', b'Fujimoto, Kiyokazu', b'Flourite, Fai D.', b'Watanuki, Kimihiro', b'Kurogane', b'Li, Syaoran', b'Modoki, Mokona', b'Suzuhara, Misaki']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nInada, Tetsu\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nKikuchi, Mika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasuhara, Mitsuyuki\n\nDirector, Episode Director, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nNakajima, Toshihiko\n\nSound Director\n\n', b'\nTachikawa, Yuzuru\n\nEpisode Director, Storyboard\n\n']
+animePopularity	1184
+animeDescription	"The friendly and sincere Kobato Hanato has a wish to go to a particular place no matter what. To fulfill this desire, she is tasked with helping people in their times of distress. For each mended broken heart, a small candy-like fragment is produced and fills a special bottle. Once the bottle is full, her wish will be granted.
+
+As Kobato carries out her mission alongside her stuffed toy companion, Ioryogi, she encounters various people troubled by their different situations. From a child struggling with his parents, a high school girl troubled about romance, and everything in between, Kobato's naturally sweet smile and outgoing personality are ready to brighten their day!
+
+[Written by MAL Rewrite]"
+animeRelated	['Kobato.', 'Kobato.: Hajimete no Kobato.']
+animeCharacters	['Hanato, Kobato', 'Ioryogi', 'Fujimoto, Kiyokazu', 'Flourite, Fai D.', 'Watanuki, Kimihiro', 'Kurogane', 'Li, Syaoran', 'Modoki, Mokona', 'Suzuhara, Misaki']
+animeVoices	['Hanazawa, Kana', 'Inada, Tetsu', 'Maeno, Tomoaki', 'Namikawa, Daisuke', 'Fukuyama, Jun', 'Irino, Miyu', 'Kikuchi, Mika']
+animeStaff	[['Masuhara, Mitsuyuki', 'Director, Episode Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Nakajima, Toshihiko', 'Sound Director'], ['Tachikawa, Yuzuru', 'Episode Director, Storyboard']]

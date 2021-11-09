@@ -1,5 +1,5 @@
-animeTitle	b'Bonobono (TV 2016)'
-animeType	b'TV'
+animeTitle	Bonobono (TV 2016)
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.38
 animeUsers	625
 animeRank	
-animePopularity	
-animeDescription	"b'Based on the original comic BONO BONO by Mikio Igarashi that has seen over 9,000,000 total copies printed, this is the definitive animated version of the emotionally soothing character-driven series that will make you ask yourself the philosophical question, ""What are living things?"" while laughing at heartwarming gags and being entertained by the interactions of amusing forest friends Bonobono the young sea otter, Chipmunk, Fishing Cat, and more.\n\nEnjoy the easygoing days and minor misadventures of Bonobono and his friends!\n\n(Source: Fuji Creative)'"
-animeRelated	[b'Bonobono', b'Bonobono (TV)', b'Bonobono: Uchuu kara Kita Tomodachi']
-animeCharacters	[b'Bonobono', b'Shimarisu', b'Araiguma', b'Sunadorineko', b'Araiguma-kun no Otousan', b'Shimacchau Ojisan']
-animeVoices	[b'\nYukimiyama, Fukuko\nJapanese\n', b'\nOgata, Aya\nJapanese\n', b'\nTakano, Shinpei\nJapanese\n', b'\nKurofuji, Yuuki\nJapanese\n', b'\nAwazu, Takatsugu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamaguchi, Hidenori\n\nDirector\n\n', b'\nYokota, Chikako\n\nSound Director\n\n', b'\nHirota, Mitsutaka\n\nSeries Composition\n\n', b'\nKonno, Yasuyuki\n\nSound Effects\n\n']
+animePopularity	8825
+animeDescription	"Based on the original comic BONO BONO by Mikio Igarashi that has seen over 9,000,000 total copies printed, this is the definitive animated version of the emotionally soothing character-driven series that will make you ask yourself the philosophical question, ""What are living things?"" while laughing at heartwarming gags and being entertained by the interactions of amusing forest friends Bonobono the young sea otter, Chipmunk, Fishing Cat, and more.
+
+Enjoy the easygoing days and minor misadventures of Bonobono and his friends!
+
+(Source: Fuji Creative)"
+animeRelated	['Bonobono', 'Bonobono (TV)', 'Bonobono: Uchuu kara Kita Tomodachi']
+animeCharacters	['Bonobono', 'Shimarisu', 'Araiguma', 'Sunadorineko', 'Araiguma-kun no Otousan', 'Shimacchau Ojisan']
+animeVoices	['Yukimiyama, Fukuko', 'Ogata, Aya', 'Takano, Shinpei', 'Kurofuji, Yuuki', 'Awazu, Takatsugu']
+animeStaff	[['Yamaguchi, Hidenori', 'Director'], ['Yokota, Chikako', 'Sound Director'], ['Hirota, Mitsutaka', 'Series Composition'], ['Konno, Yasuyuki', 'Sound Effects']]

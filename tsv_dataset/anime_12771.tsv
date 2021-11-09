@@ -1,5 +1,5 @@
-animeTitle	b'Pinch to Punch'
-animeType	b'TV'
+animeTitle	Pinch to Punch
+animeType	TV
 animeNumEpisode	156
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A comedy about two goofy twins in the armed forces.\n\n(Source: AniDB)'
+animePopularity	14423
+animeDescription	"A comedy about two goofy twins in the armed forces.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Pinch']
-animeVoices	[b'\nChijimatsu, Sachiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAoki, Takashi\n\nEpisode Director, Original Creator\n\n', b'\nAndou, Toyohiro\n\nScript\n\n', b'\nWakabayashi, Tadao\n\nAnimation Director\n\n']
+animeCharacters	['Pinch']
+animeVoices	['Chijimatsu, Sachiko']
+animeStaff	[['Aoki, Takashi', 'Episode Director, Original Creator'], ['Andou, Toyohiro', 'Script'], ['Wakabayashi, Tadao', 'Animation Director']]

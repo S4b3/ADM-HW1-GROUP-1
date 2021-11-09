@@ -1,5 +1,5 @@
-animeTitle	b'Macross Flash Back 2012'
-animeType	b'OVA'
+animeTitle	Macross Flash Back 2012
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.89
 animeUsers	4007
 animeRank	
-animePopularity	
-animeDescription	"b'Flash Back 2012 is Minmei\'s farewell concert. Featuring some of her best songs, the music is performed over various scenes and events taken from Macross TV as well as Macross ""Do You Remember Love"". Also included is a newly animated closing sequence showing the launch of Misa\'s colony vessel, the Megaroad-01, into space.\n\n(Source: ANN)'"
-animeRelated	[b'Macross', b'Macross: Do You Remember Love?']
-animeCharacters	[b'Lynn, Minmay', b'Hayase, Misa', b'Ichijou, Hikaru', b'Fallyna, Milia', b'Kridanik, Vrlitwhai', b'La Salle, Claudia', b'Folmo, Exsedol', b'Yoshio', b'Lynn, Paochun', b'Lynn, Shigeyo']
-animeVoices	[b'\nIijima, Mari\nJapanese\n', b'\nDoi, Mika\nJapanese\n', b'\nHase, Arihiro\nJapanese\n', b'\nTakeda, Eri\nJapanese\n', b'\nKanie, Eiji\nJapanese\n', b'\nOobayashi, Ryuusuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawamori, Shouji\n\nDirector, Mechanical Design\n\n', b'\nTakayama, Fumihiko\n\nEpisode Director\n\n', b'\nIijima, Mari\n\nTheme Song Composition, Theme Song Arrangement, Theme Song Performance, Theme Song Lyrics\n\n', b'\nMikimoto, Haruhiko\n\nCharacter Design\n\n']
+animePopularity	5741
+animeDescription	"Flash Back 2012 is Minmei's farewell concert. Featuring some of her best songs, the music is performed over various scenes and events taken from Macross TV as well as Macross ""Do You Remember Love"". Also included is a newly animated closing sequence showing the launch of Misa's colony vessel, the Megaroad-01, into space.
+
+(Source: ANN)"
+animeRelated	['Macross', 'Macross: Do You Remember Love?']
+animeCharacters	['Lynn, Minmay', 'Hayase, Misa', 'Ichijou, Hikaru', 'Fallyna, Milia', 'Kridanik, Vrlitwhai', 'La Salle, Claudia', 'Folmo, Exsedol', 'Yoshio', 'Lynn, Paochun', 'Lynn, Shigeyo']
+animeVoices	['Iijima, Mari', 'Doi, Mika', 'Hase, Arihiro', 'Takeda, Eri', 'Kanie, Eiji', 'Oobayashi, Ryuusuke']
+animeStaff	[['Kawamori, Shouji', 'Director, Mechanical Design'], ['Takayama, Fumihiko', 'Episode Director'], ['Iijima, Mari', 'Theme Song Composition, Theme Song Arrangement, Theme Song Performance, Theme Song Lyrics'], ['Mikimoto, Haruhiko', 'Character Design']]

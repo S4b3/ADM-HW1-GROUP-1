@@ -1,5 +1,5 @@
-animeTitle	b'Hajime no Ippo: Boxer no Kobushi'
-animeType	b'Special'
+animeTitle	Hajime no Ippo: Boxer no Kobushi
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	8.09
 animeUsers	24910
 animeRank	
-animePopularity	
-animeDescription	b'A special episode included in the DVDs. It tells how Takamura started boxing.'
-animeRelated	[b'Hajime no Ippo']
-animeCharacters	[b'Takamura, Mamoru', b'Kamogawa, Genji', b'Makunouchi, Ippo', b'Shinoda, Tomoyuki', b'Miyata, Father', b'Yagi, Haruhiko', b'Sakura']
-animeVoices	[b'\nKoyama, Rikiya\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nKiyasu, Kohei\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nNakajima, Toshihiko\nJapanese\n', b'\nHorikawa, Jin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nMorikawa, George\n\nOriginal Creator\n\n', b'\nKaneko, Hidetoshi\n\nArt Director\n\n', b'\nTomioka, Takashi\n\nKey Animation\n\n']
+animePopularity	2692
+animeDescription	A special episode included in the DVDs. It tells how Takamura started boxing.
+animeRelated	['Hajime no Ippo']
+animeCharacters	['Takamura, Mamoru', 'Kamogawa, Genji', 'Makunouchi, Ippo', 'Shinoda, Tomoyuki', 'Miyata, Father', 'Yagi, Haruhiko', 'Sakura']
+animeVoices	['Koyama, Rikiya', 'Utsumi, Kenji', 'Kiyasu, Kohei', 'Ishizuka, Unshou', 'Nakajima, Toshihiko', 'Horikawa, Jin']
+animeStaff	[['Mima, Masafumi', 'Sound Director'], ['Morikawa, George', 'Original Creator'], ['Kaneko, Hidetoshi', 'Art Director'], ['Tomioka, Takashi', 'Key Animation']]

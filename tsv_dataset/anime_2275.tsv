@@ -1,5 +1,5 @@
-animeTitle	b'Glass no Kamen'
-animeType	b'TV'
+animeTitle	Glass no Kamen
+animeType	TV
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.33
 animeUsers	2127
 animeRank	
-animePopularity	
-animeDescription	"b'Kitajima Maya, a 13-year old girl with a talent for acting, was discovered by the reclusive actress Tsukikage. The story follows Maya\'s growing up, intense training, overcoming challenges, and evolving into the foremost actress of her generation (she is about 20 so far). Maya\'s greatest rival is Himekawa Ayumi, the beautiful daughter of a famous movie couple. They ultimately vied for the most sought-after role - the ""Crimson Goddess"". An equally important subplot Maya\'s relationship with the handsome and ruthless entertainment mogul Hayami Masumi, who secretly became her number one fan, but misunderstandings and bad-timing obstructed their romance...\n\n(Source: ANN)'"
-animeRelated	[b'Glass no Kamen', b'Glass no Kamen (2005)', b'Glass no Kamen: Sen no Kamen wo Motsu Shoujo']
-animeCharacters	[b'Kitajima, Maya', b'Hayami, Masumi', b'Himekawa, Ayumi', b'Tsukikage, Chigusa', b'Sakurakouji, Yuu', b'Mizuki, Saeko', b'Onodera, Hajime', b'Narrator', b'Kobayashi, Genzou', b'Kitajima, Haru']
-animeVoices	[b'\nKatsuki, Masako\nJapanese\n', b'\nNozawa, Nachi\nJapanese\n', b'\nMatsushima, Minori\nJapanese\n', b'\nNakanishi, Taeko\nJapanese\n', b'\nMitsuya, Yuuji\nJapanese\n', b'\nTakizawa, Kumiko\nJapanese\n', b'\nKitahama, Haruko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugii, Gisaburou\n\nDirector, Episode Director\n\n', b'\nTsunoda, Toshitaka\n\nEpisode Director, Storyboard\n\n', b'\nKonparu, Tomoko\n\nScript\n\n', b'\nTsuji, Masaki\n\nScript\n\n']
+animePopularity	5864
+animeDescription	"Kitajima Maya, a 13-year old girl with a talent for acting, was discovered by the reclusive actress Tsukikage. The story follows Maya's growing up, intense training, overcoming challenges, and evolving into the foremost actress of her generation (she is about 20 so far). Maya's greatest rival is Himekawa Ayumi, the beautiful daughter of a famous movie couple. They ultimately vied for the most sought-after role - the ""Crimson Goddess"". An equally important subplot Maya's relationship with the handsome and ruthless entertainment mogul Hayami Masumi, who secretly became her number one fan, but misunderstandings and bad-timing obstructed their romance...
+
+(Source: ANN)"
+animeRelated	['Glass no Kamen', 'Glass no Kamen (2005)', 'Glass no Kamen: Sen no Kamen wo Motsu Shoujo']
+animeCharacters	['Kitajima, Maya', 'Hayami, Masumi', 'Himekawa, Ayumi', 'Tsukikage, Chigusa', 'Sakurakouji, Yuu', 'Mizuki, Saeko', 'Onodera, Hajime', 'Narrator', 'Kobayashi, Genzou', 'Kitajima, Haru']
+animeVoices	['Katsuki, Masako', 'Nozawa, Nachi', 'Matsushima, Minori', 'Nakanishi, Taeko', 'Mitsuya, Yuuji', 'Takizawa, Kumiko', 'Kitahama, Haruko']
+animeStaff	[['Sugii, Gisaburou', 'Director, Episode Director'], ['Tsunoda, Toshitaka', 'Episode Director, Storyboard'], ['Konparu, Tomoko', 'Script'], ['Tsuji, Masaki', 'Script']]

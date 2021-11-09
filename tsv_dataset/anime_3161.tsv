@@ -1,5 +1,5 @@
-animeTitle	b'Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e'
-animeType	b'Movie'
+animeTitle	Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.14
 animeUsers	36452
 animeRank	
-animePopularity	
-animeDescription	"b""The Ark Fleet has been destroyed, and a significant number of the enemy's troops have been wiped out due to its crash landing. As the remaining forces of the Knights of St. Michael regroup in order to launch a final assault on Castle Weisswolf, the W-0, along with their new ally Ashley Ashra, stand ready to intercept them.\n\nMeanwhile, with his Geass out of control, Shin moves to erase his younger brother's existence once and for all. But Akito, having promised Leila that he will come back alive, refuses to accept such a fate, and the two clash in their final battle.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Code Geass: Hangyaku no Lelouch', b'Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara', b'Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e Picture Drama']
-animeCharacters	[b'Hyuuga, Akito', b'Malcal, Leila', b'Kosaka, Ayano', b'Naruse, Yukiya', b'Sayama, Ryou', b'Kururugi, Suzaku', b'Lamperouge, Rolo', b'Kingsley, Julius', b'Hyuuga Shaing, Shin', b'Smilas, Gene']
-animeVoices	[b'\nYuzuki, Ryouka\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSabat, Christopher\n\nProducer\n\n', b'\nMajima, Takahiro\n\nEpisode Director\n\n', b'\nWatanabe, Masaki\n\nEpisode Director, Storyboard\n\n', b'\nSakamoto, Maaya\n\nTheme Song Performance\n\n']
+animePopularity	1956
+animeDescription	"The Ark Fleet has been destroyed, and a significant number of the enemy's troops have been wiped out due to its crash landing. As the remaining forces of the Knights of St. Michael regroup in order to launch a final assault on Castle Weisswolf, the W-0, along with their new ally Ashley Ashra, stand ready to intercept them.
+
+Meanwhile, with his Geass out of control, Shin moves to erase his younger brother's existence once and for all. But Akito, having promised Leila that he will come back alive, refuses to accept such a fate, and the two clash in their final battle.
+
+[Written by MAL Rewrite]"
+animeRelated	['Code Geass: Hangyaku no Lelouch', 'Code Geass: Boukoku no Akito 4 - Nikushimi no Kioku kara', 'Code Geass: Boukoku no Akito 5 - Itoshiki Mono-tachi e Picture Drama']
+animeCharacters	['Hyuuga, Akito', 'Malcal, Leila', 'Kosaka, Ayano', 'Naruse, Yukiya', 'Sayama, Ryou', 'Kururugi, Suzaku', 'Lamperouge, Rolo', 'Kingsley, Julius', 'Hyuuga Shaing, Shin', 'Smilas, Gene']
+animeVoices	['Yuzuki, Ryouka', 'Sakamoto, Maaya', 'Hikasa, Youko', 'Matsuoka, Yoshitsugu', 'Hino, Satoshi', 'Sakurai, Takahiro', 'Mizushima, Takahiro', 'Fukuyama, Jun', 'Minagawa, Junko', 'Ishizuka, Unshou']
+animeStaff	[['Sabat, Christopher', 'Producer'], ['Majima, Takahiro', 'Episode Director'], ['Watanabe, Masaki', 'Episode Director, Storyboard'], ['Sakamoto, Maaya', 'Theme Song Performance']]

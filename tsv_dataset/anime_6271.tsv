@@ -1,5 +1,5 @@
-animeTitle	b'Rozen Maiden: Meitantei Kunkun - Duell Walzer'
-animeType	b'Special'
+animeTitle	Rozen Maiden: Meitantei Kunkun - Duell Walzer
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.47
 animeUsers	8042
 animeRank	
-animePopularity	
-animeDescription	b'Extra animation from the PS2 game.'
-animeRelated	[b'Rozen Maiden']
-animeCharacters	[b'Detective Kun-Kun']
-animeVoices	[b'\nTsukui, Kyousei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nPEACH\xe2\x80\x90PIT\n\nOriginal Creator\n\n', b'\nMitsumune, Shinkichi\n\nMusic\n\n']
+animePopularity	4283
+animeDescription	Extra animation from the PS2 game.
+animeRelated	['Rozen Maiden']
+animeCharacters	['Detective Kun-Kun']
+animeVoices	['Tsukui, Kyousei']
+animeStaff	[['PEACH‐PIT', 'Original Creator'], ['Mitsumune, Shinkichi', 'Music']]

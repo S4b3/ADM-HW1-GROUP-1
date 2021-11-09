@@ -1,5 +1,5 @@
-animeTitle	b'Aoi Blink'
-animeType	b'TV'
+animeTitle	Aoi Blink
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.76
 animeUsers	603
 animeRank	
-animePopularity	
-animeDescription	b'Story of a young boy named Kakeru and his adventures together with a magical blue pony named Blink.'
+animePopularity	9904
+animeDescription	Story of a young boy named Kakeru and his adventures together with a magical blue pony named Blink.
 animeRelated	[]
-animeCharacters	[b'Blink', b'Tanba', b'Shiki, Kakeru', b'Satch', b'Kirara', b'Nitch']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nYoshimura, You\nJapanese\n', b'\nItou, Miki\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Takuo\n\nStoryboard\n\n', b'\nTakagi, Shinji\n\nStoryboard\n\n', b'\nAsada, Yuuji\n\nStoryboard\n\n', b'\nIshiguro, Megumu\n\nStoryboard, Animation Director\n\n']
+animeCharacters	['Blink', 'Tanba', 'Shiki, Kakeru', 'Satch', 'Kirara', 'Nitch']
+animeVoices	['Nozawa, Masako', 'Yoshimura, You', 'Itou, Miki', 'Ogata, Kenichi']
+animeStaff	[['Suzuki, Takuo', 'Storyboard'], ['Takagi, Shinji', 'Storyboard'], ['Asada, Yuuji', 'Storyboard'], ['Ishiguro, Megumu', 'Storyboard, Animation Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Servamp Movie: Alice in the Garden'
-animeType	b'Movie'
+animeTitle	Servamp Movie: Alice in the Garden
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.23
 animeUsers	4682
 animeRank	
-animePopularity	
-animeDescription	"b'The Servamps and their pact-bound ""Eves"" are finally getting back to their normal lives as they recover from their injuries from the previous battles. However, when it starts snowing in the middle of summer, one of the Eves, Mahiru Shirota, suspects vampiric interference. Concerned by the strange phenomenon, he sets out to gather the group once more to try and solve the mystery; however, they suddenly lose contact with Misono Arisuin, the Eve of the Servamp of Lust.\n\nServamp Movie: Alice in the Garden delves into the untold past of Misono and his brother Mikuni Arisuin, as well as the many mysteries of the grand Arisuin Mansion.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Servamp']
-animeCharacters	[b'Kuro', b'Shirota, Mahiru', b'Arisuin, Misono', b'Snow Lily', b'Arisuin, Mikuni', b'Doubt Doubt', b'Hugh the Dark Algernon III']
-animeVoices	[b'\nKaji, Yuki\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nHorie, Kazuma\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHisao, Ayumu\n\nScript\n\n', b'\nRe: OLDCODEX\n\nTheme Song Performance\n\n', b'\nTanaka, Strike\n\nOriginal Creator\n\n', b'\nYamagami, Aiko\n\nColor Design\n\n']
+animePopularity	3888
+animeDescription	"The Servamps and their pact-bound ""Eves"" are finally getting back to their normal lives as they recover from their injuries from the previous battles. However, when it starts snowing in the middle of summer, one of the Eves, Mahiru Shirota, suspects vampiric interference. Concerned by the strange phenomenon, he sets out to gather the group once more to try and solve the mystery; however, they suddenly lose contact with Misono Arisuin, the Eve of the Servamp of Lust.
+
+Servamp Movie: Alice in the Garden delves into the untold past of Misono and his brother Mikuni Arisuin, as well as the many mysteries of the grand Arisuin Mansion.
+
+[Written by MAL Rewrite]"
+animeRelated	['Servamp']
+animeCharacters	['Kuro', 'Shirota, Mahiru', 'Arisuin, Misono', 'Snow Lily', 'Arisuin, Mikuni', 'Doubt Doubt', 'Hugh the Dark Algernon III']
+animeVoices	['Kaji, Yuki', 'Terashima, Takuma', 'Shimono, Hiro', 'Horie, Kazuma', 'Kakihara, Tetsuya', 'Tsuda, Kenjirou']
+animeStaff	[['Hisao, Ayumu', 'Script'], ['Re: OLDCODEX', 'Theme Song Performance'], ['Tanaka, Strike', 'Original Creator'], ['Yamagami, Aiko', 'Color Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hokuto no Ken: Yuria-den'
-animeType	b'OVA'
+animeTitle	Hokuto no Ken: Yuria-den
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.11
 animeUsers	3311
 animeRank	
-animePopularity	
-animeDescription	b'The second part of the new Hokuto no Ken pentalogy. The story of this OVA centers around Yuria.\n\n(Source: Wikipedia)'
-animeRelated	[b'Hokuto no Ken', b'Hokuto no Ken: Raoh Gaiden Junai-hen', b'Hokuto no Ken: Raoh Gaiden Gekitou-hen']
-animeCharacters	[b'Kenshirou', b'Yuria', b'Raou', b'Rei', b'Toki', b'Jagi', b'Souther', b'Shin', b'Fudou', b'Ryuga']
-animeVoices	[b'\nGibu, Yuko\nJapanese\n', b'\nIshida, Yuriko\nJapanese\n', b'\nKawamoto, Kunihiro\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nKirimoto, Takuya\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Hidehito\n\nDirector, Episode Director, Storyboard\n\n', b'\nKoyama, Satoru\n\nSound Director\n\n', b'\nKajiura, Yuki\n\nMusic\n\n', b'\nBuronson\n\nOriginal Creator\n\n']
+animePopularity	5945
+animeDescription	"The second part of the new Hokuto no Ken pentalogy. The story of this OVA centers around Yuria.
+
+(Source: Wikipedia)"
+animeRelated	['Hokuto no Ken', 'Hokuto no Ken: Raoh Gaiden Junai-hen', 'Hokuto no Ken: Raoh Gaiden Gekitou-hen']
+animeCharacters	['Kenshirou', 'Yuria', 'Raou', 'Rei', 'Toki', 'Jagi', 'Souther', 'Shin', 'Fudou', 'Ryuga']
+animeVoices	['Gibu, Yuko', 'Ishida, Yuriko', 'Kawamoto, Kunihiro', 'Miki, Shinichiro', 'Horiuchi, Kenyuu', 'Ootsuka, Akio', 'Kirimoto, Takuya', 'Gouri, Daisuke', 'Sakaguchi, Daisuke']
+animeStaff	[['Ueda, Hidehito', 'Director, Episode Director, Storyboard'], ['Koyama, Satoru', 'Sound Director'], ['Kajiura, Yuki', 'Music'], ['Buronson', 'Original Creator']]

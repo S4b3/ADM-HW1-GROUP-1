@@ -1,5 +1,5 @@
-animeTitle	b'Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru'
-animeType	b'TV'
+animeTitle	Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.7
 animeUsers	25350
 animeRank	
-animePopularity	
-animeDescription	"b'""I\'m going to live for myself!""\n\nThe greatest assassin on Earth knew only how to live as a tool for his employers\xe2\x80\x94until they stopped letting him live. Reborn by the grace of a goddess into a world of swords and sorcery, he\'s offered a chance to do things differently this time around, but there\'s a catch...He has to eliminate a super-powerful hero who will bring about the end of the world unless he is stopped.\n\nNow known as Lugh Tuatha D\xc3\xa9, the master assassin certainly has his hands full, particularly because of all the beautiful girls who constantly surround him. Lugh may have been an incomparable killer, but how will he fare against foes with powerful magic? \n\n(Source: Yen Press)'"
-animeRelated	[b'Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru']
-animeCharacters	[b'Tuatha D\xc3\xa9, Lugh', b'Dia', b'Maha', b'Tarte', b'Liannenon, Epona', b'Goddess', b'Esri', b'Claris', b'Cian']
-animeVoices	[b'\nAkabane, Kenji\nJapanese\n', b'\nUeda, Reina\nJapanese\n', b'\nShimoji, Shino\nJapanese\n', b'\nTakada, Yuuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTamura, Masafumi\n\nDirector\n\n', b'\nTakayama, Katsuhiko\n\nScript, Series Composition\n\n', b'\nYuuki, Aira\n\nTheme Song Performance\n\n', b'\nNinomiya, Yui\n\nTheme Song Performance\n\n']
+animePopularity	1000
+animeDescription	"""I'm going to live for myself!""
+
+The greatest assassin on Earth knew only how to live as a tool for his employers—until they stopped letting him live. Reborn by the grace of a goddess into a world of swords and sorcery, he's offered a chance to do things differently this time around, but there's a catch...He has to eliminate a super-powerful hero who will bring about the end of the world unless he is stopped.
+
+Now known as Lugh Tuatha Dé, the master assassin certainly has his hands full, particularly because of all the beautiful girls who constantly surround him. Lugh may have been an incomparable killer, but how will he fare against foes with powerful magic? 
+
+(Source: Yen Press)"
+animeRelated	['Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru']
+animeCharacters	['Tuatha Dé, Lugh', 'Dia', 'Maha', 'Tarte', 'Liannenon, Epona', 'Goddess', 'Esri', 'Claris', 'Cian']
+animeVoices	['Akabane, Kenji', 'Ueda, Reina', 'Shimoji, Shino', 'Takada, Yuuki']
+animeStaff	[['Tamura, Masafumi', 'Director'], ['Takayama, Katsuhiko', 'Script, Series Composition'], ['Yuuki, Aira', 'Theme Song Performance'], ['Ninomiya, Yui', 'Theme Song Performance']]

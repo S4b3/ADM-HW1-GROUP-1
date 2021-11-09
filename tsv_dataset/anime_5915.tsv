@@ -1,5 +1,5 @@
-animeTitle	b'Hai! Akko Desu'
-animeType	b'TV'
+animeTitle	Hai! Akko Desu
+animeType	TV
 animeNumEpisode	164
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.54
 animeUsers	151
 animeRank	
-animePopularity	
-animeDescription	b'The story follows the daily life of a Akko-chan who is a new young wife.'
+animePopularity	12047
+animeDescription	The story follows the daily life of a Akko-chan who is a new young wife.
 animeRelated	[]
-animeCharacters	[b'Akko', b'Hiroshi', b'Yukie', b'Hanako', b'Tarou', b'Junichi', b'Setsuko']
-animeVoices	[b'\nKomiya, Kazue\nJapanese\n', b'\nHorimoto, Hitoshi\nJapanese\n', b'\nTomoe, Seiko\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nSenou, Reiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsunoda, Toshitaka\n\nDirector, Episode Director, Script, Storyboard\n\n', b'\nYoshida, Hiroshi\n\nEpisode Director, Storyboard\n\n', b'\nWatanabe, Mami\n\nScript\n\n', b'\nHashimoto, Ushio\n\nTheme Song Performance\n\n']
+animeCharacters	['Akko', 'Hiroshi', 'Yukie', 'Hanako', 'Tarou', 'Junichi', 'Setsuko']
+animeVoices	['Komiya, Kazue', 'Horimoto, Hitoshi', 'Tomoe, Seiko', 'Koorogi, Satomi', 'Sakamoto, Chika', 'Shiozawa, Kaneto', 'Senou, Reiko']
+animeStaff	[['Tsunoda, Toshitaka', 'Director, Episode Director, Script, Storyboard'], ['Yoshida, Hiroshi', 'Episode Director, Storyboard'], ['Watanabe, Mami', 'Script'], ['Hashimoto, Ushio', 'Theme Song Performance']]

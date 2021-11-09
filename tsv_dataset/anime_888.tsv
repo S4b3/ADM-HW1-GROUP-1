@@ -1,5 +1,5 @@
-animeTitle	b'Jin-Rou'
-animeType	b'Movie'
+animeTitle	Jin-Rou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.78
 animeUsers	62888
 animeRank	
-animePopularity	
-animeDescription	b'In an alternate history, following World War II, civil unrest and terrorism run rampant in a devastated Japan under foreign occupation. During a botched interception of underground munitions being transferred by a terrorist organization, Constable Kazuki Fuse, a soldier in an elite counter-terrorism unit, witnesses the true terror of human nature. He fails to prevent a teenage girl from carrying out a desperate suicide bombing that subsequently causes immense destruction to Tokyo. With mental scars and his competence under question, Kazuki is sent back to the military academy for re-evaluation. Unbeknownst to him, he will soon be caught up in a web of government conspiracies that have the power to determine the future of all of Japan.\n\nJin-Rou is a heart-wrenching tale of a man treading the fine line between human and beast, ultimately discovering to which side he truly belongs.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Kenrou Densetsu']
-animeCharacters	[b'Fuse, Kazuki', b'Amemiya, Kei', b'Henmi, Atsuhi', b'Tohbe, Hachiroh', b'Agawa, Nanami', b'Aniya, Isao', b'Handa, Hajime', b'Muroto, Bunmei', b'Tatsumi, Shiro']
-animeVoices	[b'\nFujiki, Yoshikatsu\nJapanese\n', b'\nMutou, Sumi\nJapanese\n', b'\nKinoshita, Hiroyuki\nJapanese\n', b'\nSakaguchi, Yoshisada\nJapanese\n', b'\nSendai, Eri\nJapanese\n', b'\nHirota, Kousei\nJapanese\n', b'\nHoribe, Ryuuichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHorikawa, Kenji\n\nProducer\n\n', b'\nOkiura, Hiroyuki\n\nDirector, Storyboard, Character Design, Key Animation\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n', b'\nKamiyama, Kenji\n\nEpisode Director, Animation Director\n\n']
+animePopularity	1244
+animeDescription	"In an alternate history, following World War II, civil unrest and terrorism run rampant in a devastated Japan under foreign occupation. During a botched interception of underground munitions being transferred by a terrorist organization, Constable Kazuki Fuse, a soldier in an elite counter-terrorism unit, witnesses the true terror of human nature. He fails to prevent a teenage girl from carrying out a desperate suicide bombing that subsequently causes immense destruction to Tokyo. With mental scars and his competence under question, Kazuki is sent back to the military academy for re-evaluation. Unbeknownst to him, he will soon be caught up in a web of government conspiracies that have the power to determine the future of all of Japan.
+
+Jin-Rou is a heart-wrenching tale of a man treading the fine line between human and beast, ultimately discovering to which side he truly belongs.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kenrou Densetsu']
+animeCharacters	['Fuse, Kazuki', 'Amemiya, Kei', 'Henmi, Atsuhi', 'Tohbe, Hachiroh', 'Agawa, Nanami', 'Aniya, Isao', 'Handa, Hajime', 'Muroto, Bunmei', 'Tatsumi, Shiro']
+animeVoices	['Fujiki, Yoshikatsu', 'Mutou, Sumi', 'Kinoshita, Hiroyuki', 'Sakaguchi, Yoshisada', 'Sendai, Eri', 'Hirota, Kousei', 'Horibe, Ryuuichi']
+animeStaff	[['Horikawa, Kenji', 'Producer'], ['Okiura, Hiroyuki', 'Director, Storyboard, Character Design, Key Animation'], ['Wakabayashi, Kazuhiro', 'Sound Director'], ['Kamiyama, Kenji', 'Episode Director, Animation Director']]

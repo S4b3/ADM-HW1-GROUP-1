@@ -1,5 +1,5 @@
-animeTitle	b'Gatchaman'
-animeType	b'OVA'
+animeTitle	Gatchaman
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.41
 animeUsers	1007
 animeRank	
-animePopularity	
-animeDescription	"b""In the year 2066, the Republic of Hontworl, a charter member of the United Nations, leaves the organization without explaining its motives. This causes an outrage within the U.N. and places the security of the world on edge. Soon after this incident, Myori, the capital of the Republic of Triad, is attacked by a bird-like, flying fortress known as the Turtle King.\n\nThe International Science Organization, which is headed by Dr. Kouzaburou Nanbu, is tasked to deal with this mysterious enemy. At the same time, the leading scientists of the ISO are disappearing. The five members of the Science Ninja Team, the Gatchaman warriors, are called upon to get to the bottom of things.\n\nIt's been years since the team has fought Berg Katze and the infamous Galactor organization. Will Ken, also known as the Eagle, still be able to lead his team to victory against this supreme force of evil?"""
-animeRelated	[b'Kagaku Ninja-tai Gatchaman', b'Pandora to Akubi']
-animeCharacters	[b'Washio, Ken', b'Asakura, Joe', b'Jun', b'Nakanishi, Ryu', b'Jinpei', b'Katse, Berg', b'Kozaburou, Nambu', b'Washio, Kentaro', b'Sousai X', b'Secretary General']
-animeVoices	[b'\nOnosaka, Masaya\nJapanese\n', b'\nIshii, Kouji\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nTachiki, Fumihiko\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nSawaki, Ikuya\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nTanaka, Nobuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFukushima, Hiroyuki\n\nDirector\n\n', b'\nKramer, Steve\n\nScript, ADR Director\n\n', b'\nMizuki, Ichirou\n\nTheme Song Composition\n\n', b'\nUmetsu, Yasuomi\n\nAnimation Director, Key Animation, Character Design\n\n']
+animePopularity	7991
+animeDescription	"In the year 2066, the Republic of Hontworl, a charter member of the United Nations, leaves the organization without explaining its motives. This causes an outrage within the U.N. and places the security of the world on edge. Soon after this incident, Myori, the capital of the Republic of Triad, is attacked by a bird-like, flying fortress known as the Turtle King.
+
+The International Science Organization, which is headed by Dr. Kouzaburou Nanbu, is tasked to deal with this mysterious enemy. At the same time, the leading scientists of the ISO are disappearing. The five members of the Science Ninja Team, the Gatchaman warriors, are called upon to get to the bottom of things.
+
+It's been years since the team has fought Berg Katze and the infamous Galactor organization. Will Ken, also known as the Eagle, still be able to lead his team to victory against this supreme force of evil?"
+animeRelated	['Kagaku Ninja-tai Gatchaman', 'Pandora to Akubi']
+animeCharacters	['Washio, Ken', 'Asakura, Joe', 'Jun', 'Nakanishi, Ryu', 'Jinpei', 'Katse, Berg', 'Kozaburou, Nambu', 'Washio, Kentaro', 'Sousai X', 'Secretary General']
+animeVoices	['Onosaka, Masaya', 'Ishii, Kouji', 'Neya, Michiko', 'Tachiki, Fumihiko', 'Matsumoto, Rica', 'Shiozawa, Kaneto', 'Sawaki, Ikuya', 'Ishizuka, Unshou', 'Tanaka, Nobuo']
+animeStaff	[['Fukushima, Hiroyuki', 'Director'], ['Kramer, Steve', 'Script, ADR Director'], ['Mizuki, Ichirou', 'Theme Song Composition'], ['Umetsu, Yasuomi', 'Animation Director, Key Animation, Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Kinnikuman: Gyakushuu! Uchuu Kakure Choujin'
-animeType	b'Movie'
+animeTitle	Kinnikuman: Gyakushuu! Uchuu Kakure Choujin
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.09
 animeUsers	161
 animeRank	
-animePopularity	
-animeDescription	"b'As the whole world watches the Choujin Rugby game on TV, the ""Underground Space Emperor"" Hydra King has his Underground Space Supermen kidnap Robin Mask. Their aim is to lure out the Seigi Choujins and then attack them using the Robin Memo, which contains info on all of the Seigi Choujin\'s weaknesses. Watching on TV all over the world, Kinnikuman and the Seigi Choujins get together and head for Planet Hydra.\n\n(Source: Kinnikuman Wiki)'"
-animeRelated	[b'Kinnikuman', b'Kinnikuman: Seigi Choujin vs. Kodai Choujin', b'Kinnikuman: Haresugata! Seigi Choujin']
-animeCharacters	[b'Kinniku, Suguru', b'Ramenman, Victory', b'Warsman', b'Terryman', b'Black Hole', b'Geronimo', b'Queen Elizabeth', b'Shouno, Natsuko', b'Alexandria Meat', b'Iwao']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nKanie, Eiji\nJapanese\n', b'\nHori, Hideyuki\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nKishino, Kazuhiko\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nMatsushima, Minori\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTamiya, Takeshi\n\nProducer\n\n', b'\nYamayoshi, Yasuo\n\nDirector\n\n', b'\nKamiya, Akira\n\nTheme Song Performance\n\n', b'\nSerizawa, Hiroaki\n\nTheme Song Composition\n\n']
+animePopularity	11967
+animeDescription	"As the whole world watches the Choujin Rugby game on TV, the ""Underground Space Emperor"" Hydra King has his Underground Space Supermen kidnap Robin Mask. Their aim is to lure out the Seigi Choujins and then attack them using the Robin Memo, which contains info on all of the Seigi Choujin's weaknesses. Watching on TV all over the world, Kinnikuman and the Seigi Choujins get together and head for Planet Hydra.
+
+(Source: Kinnikuman Wiki)"
+animeRelated	['Kinnikuman', 'Kinnikuman: Seigi Choujin vs. Kodai Choujin', 'Kinnikuman: Haresugata! Seigi Choujin']
+animeCharacters	['Kinniku, Suguru', 'Ramenman, Victory', 'Warsman', 'Terryman', 'Black Hole', 'Geronimo', 'Queen Elizabeth', 'Shouno, Natsuko', 'Alexandria Meat', 'Iwao']
+animeVoices	['Kamiya, Akira', 'Kanie, Eiji', 'Hori, Hideyuki', 'Tanaka, Hideyuki', 'Kishino, Kazuhiko', 'Shiozawa, Kaneto', 'Matsushima, Minori', 'Tsuru, Hiromi', 'Satou, Masaharu']
+animeStaff	[['Tamiya, Takeshi', 'Producer'], ['Yamayoshi, Yasuo', 'Director'], ['Kamiya, Akira', 'Theme Song Performance'], ['Serizawa, Hiroaki', 'Theme Song Composition']]

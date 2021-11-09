@@ -1,5 +1,5 @@
-animeTitle	b'Dokushin Apartment Dokudami-sou'
-animeType	b'OVA'
+animeTitle	Dokushin Apartment Dokudami-sou
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.54
 animeUsers	373
 animeRank	
-animePopularity	
-animeDescription	b'Based on the manga by Takashi Fukutani.'
-animeRelated	[b'Dokushin Apartment Dokudamisou']
-animeCharacters	[b'Hori, Yoshio', b'Yuuho', b'Osamu', b'Roku', b'Shinobu', b'Yumi']
-animeVoices	[b'\nFutamata, Issei\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nNakahara, Shigeru\nJapanese\n', b'\nAnzai, Masahiro\nJapanese\n', b'\nIkura, Kazue\nJapanese\n', b'\nTakada, Yumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYokoyama, Masakazu\n\nSound Effects\n\n', b'\nOda, Hitoshi\n\nKey Animation, Animation Director, Character Design\n\n', b'\nIshigaki, Tsutomu\n\nArt Director\n\n']
+animePopularity	10275
+animeDescription	Based on the manga by Takashi Fukutani.
+animeRelated	['Dokushin Apartment Dokudamisou']
+animeCharacters	['Hori, Yoshio', 'Yuuho', 'Osamu', 'Roku', 'Shinobu', 'Yumi']
+animeVoices	['Futamata, Issei', 'Tsuru, Hiromi', 'Nakahara, Shigeru', 'Anzai, Masahiro', 'Ikura, Kazue', 'Takada, Yumi']
+animeStaff	[['Yokoyama, Masakazu', 'Sound Effects'], ['Oda, Hitoshi', 'Key Animation, Animation Director, Character Design'], ['Ishigaki, Tsutomu', 'Art Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Mugen Senki Portriss'
-animeType	b'TV'
+animeTitle	Mugen Senki Portriss
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'In a raving world, legendary knights stood up. Will they become gods of war or world saviors? Three Portriss Knights and sole human boy are now going to change the World!\n\nPortriss Planet, home of where robots live in peace. However, this peacefulness was ruined by the sudden appearance of a Dictator ""Dark Portriss"". Dark Portriss plans to attain infinite powers through the use of the ""Space-time destroying Cannon"". The only ones able to stop this are the Portriss Knights! A boy, Yuuma, accidentally got into the Portriss World, and the Portrisses` adventure begins!\n\n(Source: AniDB)'"
+animePopularity	13454
+animeDescription	"In a raving world, legendary knights stood up. Will they become gods of war or world saviors? Three Portriss Knights and sole human boy are now going to change the World!
+
+Portriss Planet, home of where robots live in peace. However, this peacefulness was ruined by the sudden appearance of a Dictator ""Dark Portriss"". Dark Portriss plans to attain infinite powers through the use of the ""Space-time destroying Cannon"". The only ones able to stop this are the Portriss Knights! A boy, Yuuma, accidentally got into the Portriss World, and the Portrisses` adventure begins!
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Yuuma', b'Kuro Maryu', b'Dual Carrie', b'Dark Potoris', b'Ion Elgar', b'Dual Rose']
-animeVoices	[b'\nShiraishi, Ryouko\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nHashi, Takaya\nJapanese\n', b'\nSugimoto, Yuu\nJapanese\n', b'\nChafurin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyoshi, Keiichirou\n\nSound Director\n\n', b'\nCOOL\n\nTheme Song Performance\n\n', b'\nENVY\n\nTheme Song Performance\n\n', b'\nTakaya, Hirotoshi\n\nCharacter Design\n\n']
+animeCharacters	['Yuuma', 'Kuro Maryu', 'Dual Carrie', 'Dark Potoris', 'Ion Elgar', 'Dual Rose']
+animeVoices	['Shiraishi, Ryouko', 'Kosugi, Juurouta', 'Kamiya, Hiroshi', 'Hashi, Takaya', 'Sugimoto, Yuu', 'Chafurin']
+animeStaff	[['Miyoshi, Keiichirou', 'Sound Director'], ['COOL', 'Theme Song Performance'], ['ENVY', 'Theme Song Performance'], ['Takaya, Hirotoshi', 'Character Design']]

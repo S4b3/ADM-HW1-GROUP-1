@@ -1,5 +1,5 @@
-animeTitle	b'Slayers Premium'
-animeType	b'Movie'
+animeTitle	Slayers Premium
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.19
 animeUsers	8754
 animeRank	
-animePopularity	
-animeDescription	b'Lina and Gourry travel to a seaside town named Acassi, where octopus tentacle is a delicacy. However, the octopus meat carries a curse that dooms the eater to only speak Takogo (octopus language). Amelia, Zelgadiss, and Xelloss all show up, and the main four characters (Lina, Gourry, Ameria, Zelgadiss) get cursed. The octopi enlist the power of a mazoku to get rid of the humans once and for all. The white sorceress Ruma must learn the cure to the curse from her long-lost master in order to save the town. \n\n(Source: ANN)'
-animeRelated	[b'Slayers Premium', b'Slayers Next', b'Slayers Try']
-animeCharacters	[b'Inverse, Lina', b'Graywords, Zelgadis', b'Gabriev, Gourry', b'Saillune, Amelia Wil Tesla', b'Xellos', b'Saillune, Gracia Ul Naga', b'Intelligent Octopus', b'Ruuma']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nSuzuki, Masami\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nKawamura, Maria\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Junichi\n\nDirector, Sound Director, Script\n\n', b'\nHayashibara, Megumi\n\nTheme Song Performance\n\n', b'\nKanzaka, Hajime\n\nCreator\n\n', b'\nOizaki, Fumitoshi\n\nKey Animation\n\n']
+animePopularity	4211
+animeDescription	"Lina and Gourry travel to a seaside town named Acassi, where octopus tentacle is a delicacy. However, the octopus meat carries a curse that dooms the eater to only speak Takogo (octopus language). Amelia, Zelgadiss, and Xelloss all show up, and the main four characters (Lina, Gourry, Ameria, Zelgadiss) get cursed. The octopi enlist the power of a mazoku to get rid of the humans once and for all. The white sorceress Ruma must learn the cure to the curse from her long-lost master in order to save the town. 
+
+(Source: ANN)"
+animeRelated	['Slayers Premium', 'Slayers Next', 'Slayers Try']
+animeCharacters	['Inverse, Lina', 'Graywords, Zelgadis', 'Gabriev, Gourry', 'Saillune, Amelia Wil Tesla', 'Xellos', 'Saillune, Gracia Ul Naga', 'Intelligent Octopus', 'Ruuma']
+animeVoices	['Hayashibara, Megumi', 'Midorikawa, Hikaru', 'Matsumoto, Yasunori', 'Suzuki, Masami', 'Ishida, Akira', 'Kawamura, Maria', 'Sakurai, Takahiro', 'Shiratori, Yuri']
+animeStaff	[['Satou, Junichi', 'Director, Sound Director, Script'], ['Hayashibara, Megumi', 'Theme Song Performance'], ['Kanzaka, Hajime', 'Creator'], ['Oizaki, Fumitoshi', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Mahoutsukai Tai! (TV)'
-animeType	b'TV'
+animeTitle	Mahoutsukai Tai! (TV)
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.77
 animeUsers	3012
 animeRank	
-animePopularity	
-animeDescription	"b""The aliens have been defeated, and the Bell has been transformed into a gigantic cherry tree. Now, the brave Magic User's Club must reconvene to deal with a new problem. Apparently, some inconsiderate persons left a skyscraper sized cherry tree in the middle of Tokyo, and it's become a major inconvenience to everyone in the city. Even though they have no idea who could have done such a thing, the Club feels strangely responsible and springs into action. Meanwhile, a mysterious person is spying on the magic club in the form of a small boy. \n\n(Source: ANN)"""
-animeRelated	[b'Mahou Tsukai Tai!', b'Mahoutsukai Tai!']
-animeCharacters	[b'Sawanoguchi, Sae', b'Aikawa, Akane', b'Nakatomi, Nanaka', b'Takakura, Takeo', b'Aburatsubo, Ayanojou', b'Jinno, Jurika', b'Miyama, Mizuha']
-animeVoices	[b'\nKonishi, Hiroko\nJapanese\n', b'\nIwao, Junko\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nMiyahara, Nami\nJapanese\n', b'\nSakuma, Rei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Junichi\n\nDirector, Episode Director, Storyboard, Original Creator\n\n', b'\nNakamura, Ryuutarou\n\nEpisode Director, Storyboard\n\n', b'\nSayama, Kiyoko\n\nEpisode Director, Storyboard\n\n', b'\nTakenouchi, Kazuhisa\n\nEpisode Director, Storyboard\n\n']
+animePopularity	5397
+animeDescription	"The aliens have been defeated, and the Bell has been transformed into a gigantic cherry tree. Now, the brave Magic User's Club must reconvene to deal with a new problem. Apparently, some inconsiderate persons left a skyscraper sized cherry tree in the middle of Tokyo, and it's become a major inconvenience to everyone in the city. Even though they have no idea who could have done such a thing, the Club feels strangely responsible and springs into action. Meanwhile, a mysterious person is spying on the magic club in the form of a small boy. 
+
+(Source: ANN)"
+animeRelated	['Mahou Tsukai Tai!', 'Mahoutsukai Tai!']
+animeCharacters	['Sawanoguchi, Sae', 'Aikawa, Akane', 'Nakatomi, Nanaka', 'Takakura, Takeo', 'Aburatsubo, Ayanojou', 'Jinno, Jurika', 'Miyama, Mizuha']
+animeVoices	['Konishi, Hiroko', 'Iwao, Junko', 'Iizuka, Mayumi', 'Onosaka, Masaya', 'Koyasu, Takehito', 'Miyahara, Nami', 'Sakuma, Rei']
+animeStaff	[['Satou, Junichi', 'Director, Episode Director, Storyboard, Original Creator'], ['Nakamura, Ryuutarou', 'Episode Director, Storyboard'], ['Sayama, Kiyoko', 'Episode Director, Storyboard'], ['Takenouchi, Kazuhisa', 'Episode Director, Storyboard']]

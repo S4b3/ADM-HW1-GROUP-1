@@ -1,4 +1,4 @@
-animeTitle	b'Boku wa Kuma'
+animeTitle	Boku wa Kuma
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.67
 animeUsers	814
 animeRank	
-animePopularity	
-animeDescription	"b""A stop motion animation produced by NHK. A colorful children's music video about a clumsy bear, what he is\xe2\x80\x94and is not\xe2\x80\x94and what he likes and dislikes."""
+animePopularity	10363
+animeDescription	A stop motion animation produced by NHK. A colorful children's music video about a clumsy bear, what he is—and is not—and what he likes and dislikes.
 animeRelated	[]
-animeCharacters	[b'Kuma']
+animeCharacters	['Kuma']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nGouda, Tsuneo\n\nDirector\n\n', b'\nUtada, Hikaru\n\nMusic\n\n']
+animeStaff	[['Gouda, Tsuneo', 'Director'], ['Utada, Hikaru', 'Music']]

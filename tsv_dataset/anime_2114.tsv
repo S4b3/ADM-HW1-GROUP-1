@@ -1,5 +1,5 @@
-animeTitle	b'City Hunter: Hyakuman Dollar no Inbou'
-animeType	b'Movie'
+animeTitle	City Hunter: Hyakuman Dollar no Inbou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.36
 animeUsers	2692
 animeRank	
-animePopularity	
-animeDescription	"b""Beautiful American Emily O'Hara offers the City Hunter (Ryo Saeba & Kaori Makimura) one million dollars to protect her from a man named Douglas. Ryo & Kaori take the job, but things are not quite what they seem. The real target just might be Ryo, but it's unclear who wants Saeba dead.\n\n(Source: ANN)"""
-animeRelated	[b'City Hunter 3', b'City Hunter: Bay City Wars']
-animeCharacters	"[b'Saeba, Ryou', b'Makimura, Kaori', b""O'Hara, Emily"", b'Nogami, Saeko', b'Ijuuin, Hayato', b'Miki']"
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nIkura, Kazue\nJapanese\n', b'\nSasaki, Yuko\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nItou, Miki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Masuo\n\nProducer\n\n', b'\nKodama, Kenji\n\nDirector\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n']
+animePopularity	6423
+animeDescription	"Beautiful American Emily O'Hara offers the City Hunter (Ryo Saeba & Kaori Makimura) one million dollars to protect her from a man named Douglas. Ryo & Kaori take the job, but things are not quite what they seem. The real target just might be Ryo, but it's unclear who wants Saeba dead.
+
+(Source: ANN)"
+animeRelated	['City Hunter 3', 'City Hunter: Bay City Wars']
+animeCharacters	"['Saeba, Ryou', 'Makimura, Kaori', ""O'Hara, Emily"", 'Nogami, Saeko', 'Ijuuin, Hayato', 'Miki']"
+animeVoices	['Kamiya, Akira', 'Ikura, Kazue', 'Sasaki, Yuko', 'Genda, Tesshou', 'Itou, Miki']
+animeStaff	[['Ueda, Masuo', 'Producer'], ['Kodama, Kenji', 'Director'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Urakami, Yasuo', 'Sound Director']]

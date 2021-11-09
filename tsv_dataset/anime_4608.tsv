@@ -1,5 +1,5 @@
-animeTitle	b'Bakuretsu Tenshi'
-animeType	b'TV'
+animeTitle	Bakuretsu Tenshi
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.8
 animeUsers	27346
 animeRank	
-animePopularity	
-animeDescription	"b""In Japan's not-too-distant future, crime has become so common that the government has legalised firearms for citizens to use in self-defence. To combat this new wave of wrongdoing, the Recently Armed Police of Tokyo was established in hopes of hunting down criminals with lethal force.\n\nKyohei Tachibana is a gifted culinary student who dreams of saving up enough money to become a pastry chef in France. When four young mercenaries ask him to be their cook, he's forced into making a tough choice. As Jo, Meg, Sei, and Amy take on the bloodiest jobs in the chaotic city of Tokyo, Kyohei accepts an imminent descent into the world of crime\xe2\x80\x94and he'll do a lot more than just cooking!"""
-animeRelated	"[b""Bakuretsu Tenshi: Angel's Adolescence"", b'Bakuretsu Tenshi: Infinity']"
-animeCharacters	[b'Jo', b'Meg', b'Sei', b'Amy', b'Tachibana, Kyouhei', b'Maria', b'Jinno, Leo', b'Sam', b'Katsu, Takane', b'Shirley']
-animeVoices	[b'\nWatanabe, Akeno\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nTakahashi, Mikako\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nHikami, Kyouko\nJapanese\n', b'\nSugou, Takayuki\nJapanese\n', b'\nOmoro, Masayuki\nJapanese\n', b'\nHayamizu, Risa\nJapanese\n', b'\nYoshizumi, Kozue\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nGonzo\n\nProducer\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nOhata, Koichi\n\nDirector\n\n']
+animePopularity	2171
+animeDescription	"In Japan's not-too-distant future, crime has become so common that the government has legalised firearms for citizens to use in self-defence. To combat this new wave of wrongdoing, the Recently Armed Police of Tokyo was established in hopes of hunting down criminals with lethal force.
+
+Kyohei Tachibana is a gifted culinary student who dreams of saving up enough money to become a pastry chef in France. When four young mercenaries ask him to be their cook, he's forced into making a tough choice. As Jo, Meg, Sei, and Amy take on the bloodiest jobs in the chaotic city of Tokyo, Kyohei accepts an imminent descent into the world of crime—and he'll do a lot more than just cooking!"
+animeRelated	"[""Bakuretsu Tenshi: Angel's Adolescence"", 'Bakuretsu Tenshi: Infinity']"
+animeCharacters	['Jo', 'Meg', 'Sei', 'Amy', 'Tachibana, Kyouhei', 'Maria', 'Jinno, Leo', 'Sam', 'Katsu, Takane', 'Shirley']
+animeVoices	['Watanabe, Akeno', 'Toyoguchi, Megumi', 'Tanaka, Rie', 'Takahashi, Mikako', 'Ueda, Yuuji', 'Hikami, Kyouko', 'Sugou, Takayuki', 'Omoro, Masayuki', 'Hayamizu, Risa', 'Yoshizumi, Kozue']
+animeStaff	[['Cook, Justin', 'Producer'], ['Gonzo', 'Producer'], ['Watson, Barry', 'Producer'], ['Ohata, Koichi', 'Director']]

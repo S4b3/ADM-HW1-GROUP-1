@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Ball Movie 4: Saikyou e no Michi'
-animeType	b'Movie'
+animeTitle	Dragon Ball Movie 4: Saikyou e no Michi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.13
 animeUsers	27527
 animeRank	
-animePopularity	
-animeDescription	"b""A retelling of Dragon Ball's origin with a different take on the meeting of Goku, Bulma, and Kame-Sen'nin. It also retells the Red Ribbon Army story; but this time they find Goku rather than Goku finding them. \n\n(Source: ANN)"""
-animeRelated	[b'Dragon Ball', b'Dragon Ball Movie 1: Shen Long no Densetsu', b'Dragon Ball Movie 3: Makafushigi Daibouken']
-animeCharacters	"[b'Son, Gokuu', b'Bulma', b'Oolong', b'Muten-Roushi', b'Yamcha', b'Shen Long', b""Pu'ar"", b'Umigame', b'Jinzouningen 8-gou', b'Staff Officer Black']"
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nAikawa, Kinya\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nWatanabe, Naoko\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nIizuka, Shouzou\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nYamauchi, Shigeyasu\n\nDirector\n\n', b'\nToriyama, Akira\n\nOriginal Creator\n\n', b'\nHosoda, Mamoru\n\nKey Animation\n\n']
+animePopularity	2465
+animeDescription	"A retelling of Dragon Ball's origin with a different take on the meeting of Goku, Bulma, and Kame-Sen'nin. It also retells the Red Ribbon Army story; but this time they find Goku rather than Goku finding them. 
+
+(Source: ANN)"
+animeRelated	['Dragon Ball', 'Dragon Ball Movie 1: Shen Long no Densetsu', 'Dragon Ball Movie 3: Makafushigi Daibouken']
+animeCharacters	"['Son, Gokuu', 'Bulma', 'Oolong', 'Muten-Roushi', 'Yamcha', 'Shen Long', ""Pu'ar"", 'Umigame', 'Jinzouningen 8-gou', 'Staff Officer Black']"
+animeVoices	['Nozawa, Masako', 'Tsuru, Hiromi', 'Tatsuta, Naoki', 'Aikawa, Kinya', 'Furuya, Toru', 'Utsumi, Kenji', 'Watanabe, Naoko', 'Gouri, Daisuke', 'Iizuka, Shouzou', 'Satou, Masaharu']
+animeStaff	[['Watson, Barry', 'Producer'], ['Yamauchi, Shigeyasu', 'Director'], ['Toriyama, Akira', 'Original Creator'], ['Hosoda, Mamoru', 'Key Animation']]

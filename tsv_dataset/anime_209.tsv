@@ -1,5 +1,5 @@
-animeTitle	b'Doukyuusei (Movie)'
-animeType	b'Movie'
+animeTitle	Doukyuusei (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.32
 animeUsers	108240
 animeRank	
-animePopularity	
-animeDescription	"b""Hikaru Kusakabe is a normal, carefree boy in a rock band who is always focused on the present. During the summer, his entire class is forced to participate in an upcoming chorus festival. By coincidence, he discovers his classmate Rihito Sajou\xe2\x80\x94known for being an honor student with excellent grades\xe2\x80\x94practicing his singing alone. Sajou just cannot seem to get their class' song right, and Kusakabe, delighted at seeing a new side of his straight-laced classmate, offers to help him prepare for the event.\n\nAlthough their lives and personalities are total opposites, they begin to grow closer as time progresses. But with the pressure of an unknown future, what will become of them and their growing relationship?\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Doukyuusei']
-animeCharacters	[b'Kusakabe, Hikaru', b'Sajou, Rihito', b'Hara, Manabu']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nIshikawa, Hideo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Shouko\n\nDirector, Storyboard, Key Animation\n\n', b'\nFujita, Akiko\n\nSound Director\n\n', b'\nOzaki, Yuuki\n\nTheme Song Performance\n\n', b'\nNakamura, Asumiko\n\nOriginal Creator\n\n']
+animePopularity	871
+animeDescription	"Hikaru Kusakabe is a normal, carefree boy in a rock band who is always focused on the present. During the summer, his entire class is forced to participate in an upcoming chorus festival. By coincidence, he discovers his classmate Rihito Sajou—known for being an honor student with excellent grades—practicing his singing alone. Sajou just cannot seem to get their class' song right, and Kusakabe, delighted at seeing a new side of his straight-laced classmate, offers to help him prepare for the event.
+
+Although their lives and personalities are total opposites, they begin to grow closer as time progresses. But with the pressure of an unknown future, what will become of them and their growing relationship?
+
+[Written by MAL Rewrite]"
+animeRelated	['Doukyuusei']
+animeCharacters	['Kusakabe, Hikaru', 'Sajou, Rihito', 'Hara, Manabu']
+animeVoices	['Kamiya, Hiroshi', 'Nojima, Kenji', 'Ishikawa, Hideo']
+animeStaff	[['Nakamura, Shouko', 'Director, Storyboard, Key Animation'], ['Fujita, Akiko', 'Sound Director'], ['Ozaki, Yuuki', 'Theme Song Performance'], ['Nakamura, Asumiko', 'Original Creator']]

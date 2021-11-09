@@ -1,5 +1,5 @@
-animeTitle	b'Norageki!'
-animeType	b'OVA'
+animeTitle	Norageki!
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.14
 animeUsers	4820
 animeRank	
-animePopularity	
-animeDescription	"b""In an isolated prison, there are only four prisoners and a cat. One day, a power outage opens all the locks and all of the prisoners are released. However, all of the guards are nowhere to be seen and there are no exits. An extraordinary event occurs in response to an old man's strange behavior.\n\n(Source: ANN) """
+animePopularity	5328
+animeDescription	"In an isolated prison, there are only four prisoners and a cat. One day, a power outage opens all the locks and all of the prisoners are released. However, all of the guards are nowhere to be seen and there are no exits. An extraordinary event occurs in response to an old man's strange behavior.
+
+(Source: ANN) "
 animeRelated	[]
-animeCharacters	[b'Kouseinen', b'Nora Neko', b'Ii Onna', b'Roujin', b'Chuunen Otoko', b'Ota Onna']
-animeVoices	[b'\nIrino, Miyu\nJapanese\n', b'\nTamura, Mutsumi\nJapanese\n', b'\nHonda, Takako\nJapanese\n', b'\nKatou, Seizou\nJapanese\n', b'\nMori, Kazuma\nJapanese\n', b'\nMeg\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUchida, Kenji\n\nProducer\n\n', b'\nAndou, Hiroaki\n\nDirector\n\n', b'\nTsuchiya, Masaki\n\nSound Director\n\n', b'\nYatate, Hajime\n\nStoryboard\n\n']
+animeCharacters	['Kouseinen', 'Nora Neko', 'Ii Onna', 'Roujin', 'Chuunen Otoko', 'Ota Onna']
+animeVoices	['Irino, Miyu', 'Tamura, Mutsumi', 'Honda, Takako', 'Katou, Seizou', 'Mori, Kazuma', 'Meg']
+animeStaff	[['Uchida, Kenji', 'Producer'], ['Andou, Hiroaki', 'Director'], ['Tsuchiya, Masaki', 'Sound Director'], ['Yatate, Hajime', 'Storyboard']]

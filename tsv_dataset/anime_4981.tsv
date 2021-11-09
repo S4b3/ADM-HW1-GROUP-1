@@ -1,5 +1,5 @@
-animeTitle	b'Mahoutsukai ni Taisetsu na Koto'
-animeType	b'TV'
+animeTitle	Mahoutsukai ni Taisetsu na Koto
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.73
 animeUsers	6247
 animeRank	
-animePopularity	
-animeDescription	"b""Yume Kikuchi, a girl who can use magic, goes to Tokyo to be an apprentice mage to the handsome Masami Oyamada (a professional mage). In Tokyo, Yume learns about magic, helping people, and various other things on her way to being a mage. But she soon also finds out that even just magic alone isn't enough to make someone truly happy...\n\n(Source: ANN)"""
-animeRelated	[b'Mahoutsukai ni Taisetsu na Koto', b'Mahoutsukai ni Taisetsu na Koto: Natsu no Sora']
-animeCharacters	[b'Kikuchi, Yume', b'Oyamada, Masami', b'Brooks, Angela', b'Furusaki, Rikiya', b'Inoue, Sakuya ', b'Morikawa, Runa', b'Zennosuke', b'Kato, Go', b'Iwashita, Melinda', b'Iwanaga, Junko']
-animeVoices	[b'\nMiyazaki, Aoi\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nKiyokawa, Motomu\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nIshige, Sawa\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nIida, Hiroshi\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nKurumado, Akiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuda, Akio\n\nProducer\n\n', b'\nShimoda, Masami\n\nDirector\n\n', b'\nTanaka, Hideyuki\n\nSound Director\n\n', b'\nNakayama, Katsuichi\n\nEpisode Director, Storyboard, Key Animation\n\n']
+animePopularity	3708
+animeDescription	"Yume Kikuchi, a girl who can use magic, goes to Tokyo to be an apprentice mage to the handsome Masami Oyamada (a professional mage). In Tokyo, Yume learns about magic, helping people, and various other things on her way to being a mage. But she soon also finds out that even just magic alone isn't enough to make someone truly happy...
+
+(Source: ANN)"
+animeRelated	['Mahoutsukai ni Taisetsu na Koto', 'Mahoutsukai ni Taisetsu na Koto: Natsu no Sora']
+animeCharacters	['Kikuchi, Yume', 'Oyamada, Masami', 'Brooks, Angela', 'Furusaki, Rikiya', 'Inoue, Sakuya ', 'Morikawa, Runa', 'Zennosuke', 'Kato, Go', 'Iwashita, Melinda', 'Iwanaga, Junko']
+animeVoices	['Miyazaki, Aoi', 'Suwabe, Junichi', 'Watanabe, Akeno', 'Kiyokawa, Motomu', 'Tobita, Nobuo', 'Ishige, Sawa', 'Ueda, Yuuji', 'Iida, Hiroshi', 'Hiramatsu, Akiko', 'Kurumado, Akiko']
+animeStaff	[['Matsuda, Akio', 'Producer'], ['Shimoda, Masami', 'Director'], ['Tanaka, Hideyuki', 'Sound Director'], ['Nakayama, Katsuichi', 'Episode Director, Storyboard, Key Animation']]

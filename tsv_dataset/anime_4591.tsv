@@ -1,5 +1,5 @@
-animeTitle	b'Hetalia World\xe2\x98\x85Stars'
-animeType	b'ONA'
+animeTitle	Hetalia World★Stars
+animeType	ONA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.81
 animeUsers	4280
 animeRank	
-animePopularity	
-animeDescription	"b""There are strange people in this world. If it is short, it will disappear for several days, and if it is long, it will disappear for hundreds of years. The name and personality changed, and suddenly appeared by someone's unexpected idea. Even though he is the most weird, he is loosely accepted and used by his boss. This is the story of such strange people.\n\n(Source: MAL News)"""
-animeRelated	[b'Hetalia World\xe2\x98\x86Stars', b'Hetalia Axis Powers', b'Hetalia World\xe2\x98\x85Stars Specials']
-animeCharacters	[b'United Kingdom', b'North Italy', b'Russia', b'America', b'Germany', b'Japan', b'France', b'Austria', b'Seychelles', b'Portugal']
-animeVoices	[b'\nSugiyama, Noriaki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nTakato, Yasuhiro\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n', b'\nTakahashi, Hiroki\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nUmehara, Yuuichirou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Hiroshi\n\nDirector\n\n', b'\nHiramitsu, Takuya\n\nSound Director\n\n', b'\nHimaruya, Hidekaz\n\nOriginal Creator\n\n', b'\nFudeyasu, Kazuyuki\n\nSeries Composition\n\n']
+animePopularity	4398
+animeDescription	"There are strange people in this world. If it is short, it will disappear for several days, and if it is long, it will disappear for hundreds of years. The name and personality changed, and suddenly appeared by someone's unexpected idea. Even though he is the most weird, he is loosely accepted and used by his boss. This is the story of such strange people.
+
+(Source: MAL News)"
+animeRelated	['Hetalia World☆Stars', 'Hetalia Axis Powers', 'Hetalia World★Stars Specials']
+animeCharacters	['United Kingdom', 'North Italy', 'Russia', 'America', 'Germany', 'Japan', 'France', 'Austria', 'Seychelles', 'Portugal']
+animeVoices	['Sugiyama, Noriaki', 'Namikawa, Daisuke', 'Takato, Yasuhiro', 'Konishi, Katsuyuki', 'Yasumoto, Hiroki', 'Takahashi, Hiroki', 'Onosaka, Masaya', 'Umehara, Yuuichirou']
+animeStaff	[['Watanabe, Hiroshi', 'Director'], ['Hiramitsu, Takuya', 'Sound Director'], ['Himaruya, Hidekaz', 'Original Creator'], ['Fudeyasu, Kazuyuki', 'Series Composition']]

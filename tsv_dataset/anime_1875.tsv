@@ -1,5 +1,5 @@
-animeTitle	b'Hakuouki OVA'
-animeType	b'OVA'
+animeTitle	Hakuouki OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.43
 animeUsers	4493
 animeRank	
-animePopularity	
-animeDescription	"b'Two short OVA of Hakuouki distributed to those who purchased all six volumes of the DVD. A fandisc game ""Hakuoki Zuisouroku"" and an official parody ""Hakuoki SSL (a high school parody)"" were animated.'"
-animeRelated	[b'Hakuouki SSL', b'Hakuouki']
-animeCharacters	[b'Saitou, Hajime', b'Okita, Souji', b'Hijikata, Toshizou', b'Harada, Sanosuke', b'Toudou, Heisuke', b'Yukimura, Chizuru', b'Nagakura, Shinpachi', b'Kazama, Chikage', b'Sannan, Keisuke', b'Yamazaki, Susumu']
+animePopularity	4823
+animeDescription	"Two short OVA of Hakuouki distributed to those who purchased all six volumes of the DVD. A fandisc game ""Hakuoki Zuisouroku"" and an official parody ""Hakuoki SSL (a high school parody)"" were animated."
+animeRelated	['Hakuouki SSL', 'Hakuouki']
+animeCharacters	['Saitou, Hajime', 'Okita, Souji', 'Hijikata, Toshizou', 'Harada, Sanosuke', 'Toudou, Heisuke', 'Yukimura, Chizuru', 'Nagakura, Shinpachi', 'Kazama, Chikage', 'Sannan, Keisuke', 'Yamazaki, Susumu']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKazuki, Yone\n\nOriginal Character Design\n\n']
+animeStaff	[['Kazuki, Yone', 'Original Character Design']]

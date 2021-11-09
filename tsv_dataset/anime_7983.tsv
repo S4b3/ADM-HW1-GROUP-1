@@ -1,5 +1,5 @@
-animeTitle	b'Mazinger Z tai Devilman'
-animeType	b'Movie'
+animeTitle	Mazinger Z tai Devilman
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.14
 animeUsers	1528
 animeRank	
-animePopularity	
-animeDescription	b'The heroes of the series Mazinger Z and Devilman fighting against the evil Demon Clan.'
-animeRelated	[b'Devilman', b'Mazinger Z', b'Cyborg 009 VS Devilman']
-animeCharacters	[b'Fudou, Akira', b'Devilman', b'Kabuto, Kouji', b'Dr. Hell', b'Zannin, Demon General']
-animeVoices	[b'\nTanaka, Ryouichi\nJapanese\n', b'\nIshimaru, Hiroya\nJapanese\n', b'\nTomita, Kousei\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMizuki, Ichirou\n\nTheme Song Performance\n\n', b'\nColumbia Yurikago Kai\n\nTheme Song Performance\n\n', b'\nWatanabe, Chuumei\n\nTheme Song Composition, Theme Song Arrangement, Music\n\n', b'\nNagai, Go\n\nOriginal Creator\n\n']
+animePopularity	7774
+animeDescription	The heroes of the series Mazinger Z and Devilman fighting against the evil Demon Clan.
+animeRelated	['Devilman', 'Mazinger Z', 'Cyborg 009 VS Devilman']
+animeCharacters	['Fudou, Akira', 'Devilman', 'Kabuto, Kouji', 'Dr. Hell', 'Zannin, Demon General']
+animeVoices	['Tanaka, Ryouichi', 'Ishimaru, Hiroya', 'Tomita, Kousei', 'Kobayashi, Kiyoshi']
+animeStaff	[['Mizuki, Ichirou', 'Theme Song Performance'], ['Columbia Yurikago Kai', 'Theme Song Performance'], ['Watanabe, Chuumei', 'Theme Song Composition, Theme Song Arrangement, Music'], ['Nagai, Go', 'Original Creator']]

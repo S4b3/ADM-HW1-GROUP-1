@@ -1,5 +1,5 @@
-animeTitle	b'Ragnastrike Angels'
-animeType	b'TV'
+animeTitle	Ragnastrike Angels
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.33
 animeUsers	4230
 animeRank	
-animePopularity	
-animeDescription	"b'In the near future, massive hostile beings called ""Fiarem"" are waging war on Earth. To defend the world from this alien threat, Japan unleashes a special team known as ""Ragna Strikers""\xe2\x80\x94six young women wielding advanced weaponry and the ability to grow to gigantic sizes. Ragnastrike Angels follows Ayano Anemori and her friends as they live their daily lives and battle the violent Fiarem.\n\n[Written by MAL Rewrite]'"
+animePopularity	5009
+animeDescription	"In the near future, massive hostile beings called ""Fiarem"" are waging war on Earth. To defend the world from this alien threat, Japan unleashes a special team known as ""Ragna Strikers""—six young women wielding advanced weaponry and the ability to grow to gigantic sizes. Ragnastrike Angels follows Ayano Anemori and her friends as they live their daily lives and battle the violent Fiarem.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Kanomiya, Izuki', b'Mihime, Moka', b'Toujou, Hinata', b'Midou Barnett, Kasumi', b'Nanami, Nagisa', b'Anemori, Ayano', b'Sonoda, Eleanor', b'Hiiragi, Rio']
-animeVoices	[b'\nUchida, Maaya\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nFuchigami, Mai\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nKurosawa, Tomoyo\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nNakahara, Mai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWada, Junichi\n\nDirector\n\n', b'\nHamano, Takatoshi\n\nSound Director\n\n', b'\nKikuchi, Takeshi\n\nScript\n\n', b'\nKurosawa, Tomoyo\n\nTheme Song Performance\n\n']
+animeCharacters	['Kanomiya, Izuki', 'Mihime, Moka', 'Toujou, Hinata', 'Midou Barnett, Kasumi', 'Nanami, Nagisa', 'Anemori, Ayano', 'Sonoda, Eleanor', 'Hiiragi, Rio']
+animeVoices	['Uchida, Maaya', 'Minase, Inori', 'Fuchigami, Mai', 'Yuuki, Aoi', 'Sakura, Ayane', 'Kurosawa, Tomoyo', 'Koshimizu, Ami', 'Nakahara, Mai']
+animeStaff	[['Wada, Junichi', 'Director'], ['Hamano, Takatoshi', 'Sound Director'], ['Kikuchi, Takeshi', 'Script'], ['Kurosawa, Tomoyo', 'Theme Song Performance']]

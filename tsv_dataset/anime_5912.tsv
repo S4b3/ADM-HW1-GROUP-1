@@ -1,5 +1,5 @@
-animeTitle	b'Final Approach'
-animeType	b'TV'
+animeTitle	Final Approach
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.54
 animeUsers	16389
 animeRank	
-animePopularity	
-animeDescription	b'Ever since their parents died a few years ago, Ryo and his sister Akane have been living alone together. Despite their difficult situation, they are still living reasonably happy and normal lives. However, everything is about to be flipped upside-down due to a secret government project. Due to increasingly low birth rates in Japan, the Japanese government is testing a program in which two young people are forced to marry. Ryo wants no part of it, but he is given little choice in the matter; his new fianc\xc3\xa9e, Shizuka, comes to his home late one night with several dozen government issued bodyguards, who are there to ensure the success of the new couple. Unlike Ryo, Shizuka couldn\xe2\x80\x99t be more willing to go along with this new program, and eagerly goes about her wifely duties, despite his objections. With meddling friends, pushy bodyguards, and an overenthusiastic new fianc\xc3\xa9e, Ryo\xe2\x80\x99s life has taken a turn in a direction the young man certainly didn\xe2\x80\x99t expect.\n\n(Source: ANN)'
+animePopularity	3138
+animeDescription	"Ever since their parents died a few years ago, Ryo and his sister Akane have been living alone together. Despite their difficult situation, they are still living reasonably happy and normal lives. However, everything is about to be flipped upside-down due to a secret government project. Due to increasingly low birth rates in Japan, the Japanese government is testing a program in which two young people are forced to marry. Ryo wants no part of it, but he is given little choice in the matter; his new fiancée, Shizuka, comes to his home late one night with several dozen government issued bodyguards, who are there to ensure the success of the new couple. Unlike Ryo, Shizuka couldn’t be more willing to go along with this new program, and eagerly goes about her wifely duties, despite his objections. With meddling friends, pushy bodyguards, and an overenthusiastic new fiancée, Ryo’s life has taken a turn in a direction the young man certainly didn’t expect.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Masuda, Shizuka', b'Mizuhara, Ryo', b'Mutsu, Emiho', b'Mizuhara, Akane', b'Mukasa, Haruki', b'Moriya, Miki', b'Meno, Yurika']
-animeVoices	[b'\nNogawa, Sakura\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nTakahashi, Chiaki\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nOkano, Kousuke\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomiya, Saburou\n\nProducer\n\n', b'\nYamamoto, Takashi\n\nDirector\n\n', b'\nNanba, Hitoshi\n\nStoryboard\n\n', b'\nHashimoto, Miyuki\n\nTheme Song Performance\n\n']
+animeCharacters	['Masuda, Shizuka', 'Mizuhara, Ryo', 'Mutsu, Emiho', 'Mizuhara, Akane', 'Mukasa, Haruki', 'Moriya, Miki', 'Meno, Yurika']
+animeVoices	['Nogawa, Sakura', 'Kishio, Daisuke', 'Takahashi, Chiaki', 'Matsuki, Miyu', 'Okano, Kousuke', 'Tamura, Yukari', 'Minaguchi, Yuko']
+animeStaff	[['Oomiya, Saburou', 'Producer'], ['Yamamoto, Takashi', 'Director'], ['Nanba, Hitoshi', 'Storyboard'], ['Hashimoto, Miyuki', 'Theme Song Performance']]

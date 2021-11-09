@@ -1,5 +1,5 @@
-animeTitle	b'Zoids Fuzors'
-animeType	b'TV'
+animeTitle	Zoids Fuzors
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.39
 animeUsers	4379
 animeRank	
-animePopularity	
-animeDescription	"b""R.D. is a delivery boy who works for a company called Mach Storm in order to earn money to search for the legendary Alpha Zoid. A Zoid that he heard rumours about from his dad that he passionately believes in. Mach Storm also doubles as a Zoid Battling team. In R.D.'s first Coliseum Zoid Battle, he encounters a team that can fuse Zoids. R.D. soon discovers that he has a Zoid that can computably fuse with his Zoid, Liger Zero. After this happens R.D.'s adventure to discover the truth about the Alpha Zoid begins.\n\n(Source: ANN)"""
-animeRelated	[b'Zoids Genesis', b'Zoids', b'Zoids Shinseiki/Zero', b'Zoids Wild']
-animeCharacters	[b'R.D.', b'Sweet', b'Blade', b'Holiday, Jean', b'Richter, Alpha', b'Gummie', b'Fenis', b'Gilbert', b'Sigma', b'Fan']
-animeVoices	[b'\nNojima, Kenji\nJapanese\n', b'\nNakamura, Chie\nJapanese\n', b'\nMajima, Junji\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nYanada, Kiyoyuki\nJapanese\n', b'\nIshimura, Tomoko\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nKatsu, Anri\nJapanese\n', b'\nSasamoto, Yuuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nIshida, Tooru\n\nEpisode Director\n\n', b'\nTokairin, Shinichi\n\nStoryboard\n\n', b'\nNishimoto, Yukio\n\nStoryboard\n\n']
+animePopularity	5256
+animeDescription	"R.D. is a delivery boy who works for a company called Mach Storm in order to earn money to search for the legendary Alpha Zoid. A Zoid that he heard rumours about from his dad that he passionately believes in. Mach Storm also doubles as a Zoid Battling team. In R.D.'s first Coliseum Zoid Battle, he encounters a team that can fuse Zoids. R.D. soon discovers that he has a Zoid that can computably fuse with his Zoid, Liger Zero. After this happens R.D.'s adventure to discover the truth about the Alpha Zoid begins.
+
+(Source: ANN)"
+animeRelated	['Zoids Genesis', 'Zoids', 'Zoids Shinseiki/Zero', 'Zoids Wild']
+animeCharacters	['R.D.', 'Sweet', 'Blade', 'Holiday, Jean', 'Richter, Alpha', 'Gummie', 'Fenis', 'Gilbert', 'Sigma', 'Fan']
+animeVoices	['Nojima, Kenji', 'Nakamura, Chie', 'Majima, Junji', 'Sakurai, Takahiro', 'Seki, Tomokazu', 'Yanada, Kiyoyuki', 'Ishimura, Tomoko', 'Fukuyama, Jun', 'Katsu, Anri', 'Sasamoto, Yuuko']
+animeStaff	[['Aketagawa, Jin', 'Sound Director'], ['Ishida, Tooru', 'Episode Director'], ['Tokairin, Shinichi', 'Storyboard'], ['Nishimoto, Yukio', 'Storyboard']]

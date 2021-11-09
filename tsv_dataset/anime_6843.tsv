@@ -1,5 +1,5 @@
-animeTitle	b'Katte ni Kaizou Specials'
-animeType	b'Special'
+animeTitle	Katte ni Kaizou Specials
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.37
 animeUsers	612
 animeRank	
-animePopularity	
-animeDescription	b'3 specials released with the BD/DVDs.'
-animeRelated	[b'Katte ni Kaizou']
-animeCharacters	[b'Katsu, Kaizou', b'Natori, Umi', b'Tsubouchi, Chitan', b'Saien, Suzu']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinbou, Akiyuki\n\nDirector\n\n', b'\nKumeta, Kouji\n\nOriginal Creator\n\n']
+animePopularity	8584
+animeDescription	3 specials released with the BD/DVDs.
+animeRelated	['Katte ni Kaizou']
+animeCharacters	['Katsu, Kaizou', 'Natori, Umi', 'Tsubouchi, Chitan', 'Saien, Suzu']
+animeVoices	['Sakurai, Takahiro', 'Kitamura, Eri', 'Saitou, Chiwa', 'Toyosaki, Aki']
+animeStaff	[['Shinbou, Akiyuki', 'Director'], ['Kumeta, Kouji', 'Original Creator']]

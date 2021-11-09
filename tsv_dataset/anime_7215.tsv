@@ -1,5 +1,5 @@
-animeTitle	b'Robot Girls Z Plus'
-animeType	b'ONA'
+animeTitle	Robot Girls Z Plus
+animeType	ONA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.29
 animeUsers	2642
 animeRank	
-animePopularity	
-animeDescription	"b'Robot Girls Z+, the new Robot Girls Z anime, will be six monthly shorts that will debut next spring. The protagonists of Team Z will appear in the new shorts, along with the reformed Team G, Team LOD, Team Gou, and characters that first appeared in the franchise\'s online game. The new shorts\' story will be based two classic ""Toei Manga Matsuri"" films, Great Mazinger tai Getter Robo (Great Mazinger Vs. Getter Robo) and Great Mazinger tai Getter Robo G - Kuuchuu Dai-Gekitotsu (Great Mazinger Vs. Getter Robo G - The Great Space Encounter).\n\n(Source: ANN)'"
-animeRelated	[b'Robot Girls Z']
-animeCharacters	[b'Mazinger Z', b'Great Mazinger', b'Grendizer', b'Nagare, Ryouma', b'Jin, Hayato', b'Tomoe, Musashi', b'Getter Robo', b'Boss Borot', b'Bong', b'Getter Gai']
-animeVoices	[b'\nHonda, Mariko\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nAranami, Kazusa\nJapanese\n', b'\nInada, Tetsu\nJapanese\n', b'\nTakemoto, Eiji\nJapanese\n', b'\nKawazu, Yasuhiko\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nTakahashi, Minami\nJapanese\n', b'\nOzawa, Ari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMoriyama, Yoshihide\n\nProducer\n\n', b'\nIkehata, Hiroshi\n\nDirector, Episode Director, Storyboard\n\n', b'\nHyoudou, Kazuho\n\nScript, Series Composition\n\n', b'\nMinase, Inori\n\nTheme Song Performance\n\n']
+animePopularity	6357
+animeDescription	"Robot Girls Z+, the new Robot Girls Z anime, will be six monthly shorts that will debut next spring. The protagonists of Team Z will appear in the new shorts, along with the reformed Team G, Team LOD, Team Gou, and characters that first appeared in the franchise's online game. The new shorts' story will be based two classic ""Toei Manga Matsuri"" films, Great Mazinger tai Getter Robo (Great Mazinger Vs. Getter Robo) and Great Mazinger tai Getter Robo G - Kuuchuu Dai-Gekitotsu (Great Mazinger Vs. Getter Robo G - The Great Space Encounter).
+
+(Source: ANN)"
+animeRelated	['Robot Girls Z']
+animeCharacters	['Mazinger Z', 'Great Mazinger', 'Grendizer', 'Nagare, Ryouma', 'Jin, Hayato', 'Tomoe, Musashi', 'Getter Robo', 'Boss Borot', 'Bong', 'Getter Gai']
+animeVoices	['Honda, Mariko', 'Minase, Inori', 'Aranami, Kazusa', 'Inada, Tetsu', 'Takemoto, Eiji', 'Kawazu, Yasuhiko', 'Uchida, Maaya', 'Taketatsu, Ayana', 'Takahashi, Minami', 'Ozawa, Ari']
+animeStaff	[['Moriyama, Yoshihide', 'Producer'], ['Ikehata, Hiroshi', 'Director, Episode Director, Storyboard'], ['Hyoudou, Kazuho', 'Script, Series Composition'], ['Minase, Inori', 'Theme Song Performance']]

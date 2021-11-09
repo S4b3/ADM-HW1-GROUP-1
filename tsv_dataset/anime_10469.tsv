@@ -1,5 +1,5 @@
-animeTitle	b'Dallos Special'
-animeType	b'OVA'
+animeTitle	Dallos Special
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.47
 animeUsers	257
 animeRank	
-animePopularity	
-animeDescription	b'An edited compendium of the four OVAs were spliced together to create a movie which aired in theaters. Included within the was also a prologue, which used 50 extra shots that introduced the world of Dallos before the opening credits.\n\n(Source: Orphan Fansubs and AniDB)'
-animeRelated	[b'Dallos']
-animeCharacters	[b'McCoy, Doc']
-animeVoices	[b'\nGenda, Tesshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOshii, Mamoru\n\nDirector\n\n', b'\nNitta, Ichirou\n\nMusic\n\n', b'\nNunokawa, Yuuji\n\nProduction Manager\n\n', b'\nOkada, Toshiyasu\n\nCharacter Design\n\n']
+animePopularity	11722
+animeDescription	"An edited compendium of the four OVAs were spliced together to create a movie which aired in theaters. Included within the was also a prologue, which used 50 extra shots that introduced the world of Dallos before the opening credits.
+
+(Source: Orphan Fansubs and AniDB)"
+animeRelated	['Dallos']
+animeCharacters	['McCoy, Doc']
+animeVoices	['Genda, Tesshou']
+animeStaff	[['Oshii, Mamoru', 'Director'], ['Nitta, Ichirou', 'Music'], ['Nunokawa, Yuuji', 'Production Manager'], ['Okada, Toshiyasu', 'Character Design']]

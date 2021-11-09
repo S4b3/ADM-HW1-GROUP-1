@@ -1,5 +1,5 @@
-animeTitle	b'Sobakasu Pucchi'
-animeType	b'TV'
+animeTitle	Sobakasu Pucchi
+animeType	TV
 animeNumEpisode	162
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A kids adventure and comedy series. Each 5 minute episode aired Monday through Saturday in a continuing story which completed at the end of the week.\n\n(Source: AniDB)'
+animePopularity	15039
+animeDescription	"A kids adventure and comedy series. Each 5 minute episode aired Monday through Saturday in a continuing story which completed at the end of the week.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Pucchi', b'Narrator']
-animeVoices	[b'\nChijimatsu, Sachiko\nJapanese\n', b'\nKamiyama, Takuzou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAoki, Takashi\n\nEpisode Director, Original Creator\n\n', b'\nIshiguro, Noboru\n\nScript\n\n', b'\nAndou, Toyohiro\n\nScript\n\n', b'\nWakabayashi, Tadao\n\nAnimation Director\n\n']
+animeCharacters	['Pucchi', 'Narrator']
+animeVoices	['Chijimatsu, Sachiko', 'Kamiyama, Takuzou']
+animeStaff	[['Aoki, Takashi', 'Episode Director, Original Creator'], ['Ishiguro, Noboru', 'Script'], ['Andou, Toyohiro', 'Script'], ['Wakabayashi, Tadao', 'Animation Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Duel Masters Zero'
-animeType	b'TV'
+animeTitle	Duel Masters Zero
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.93
 animeUsers	525
 animeRank	
-animePopularity	
-animeDescription	"b""The previous season of 'Zero Duel Masters' was set in an alternate universe, so this season's plot is a continuation of the Duel Masters Charge.\n\nIt follows the aftermath of the duel of Shobu vs. Zakira.\n\n(Source: Duel Masters Wikia)"""
-animeRelated	[b'Zero Duel Masters', b'Duel Masters Cross', b'Duel Masters Zero: Tokubetsu-hen - Tamashii Shoukan Special!']
-animeCharacters	[b'Kirifuda, Shoubu', b'Kokujou, Kyoushirou', b'Hakuou', b'Tasogare, Mimi', b'Kadoko, Rekuta']
-animeVoices	[b'\nKobayashi, Yumiko\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nNakajima, Saki\nJapanese\n', b'\nImai, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nRey\n\nTheme Song Performance\n\n', b'\nItou, Hideki\n\nCharacter Design\n\n', b'\nMatsumoto, Shigenobu\n\nOriginal Creator\n\n']
+animePopularity	9970
+animeDescription	"The previous season of 'Zero Duel Masters' was set in an alternate universe, so this season's plot is a continuation of the Duel Masters Charge.
+
+It follows the aftermath of the duel of Shobu vs. Zakira.
+
+(Source: Duel Masters Wikia)"
+animeRelated	['Zero Duel Masters', 'Duel Masters Cross', 'Duel Masters Zero: Tokubetsu-hen - Tamashii Shoukan Special!']
+animeCharacters	['Kirifuda, Shoubu', 'Kokujou, Kyoushirou', 'Hakuou', 'Tasogare, Mimi', 'Kadoko, Rekuta']
+animeVoices	['Kobayashi, Yumiko', 'Kishio, Daisuke', 'Minagawa, Junko', 'Nakajima, Saki', 'Imai, Yuka']
+animeStaff	[['Rey', 'Theme Song Performance'], ['Itou, Hideki', 'Character Design'], ['Matsumoto, Shigenobu', 'Original Creator']]

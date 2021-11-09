@@ -1,5 +1,5 @@
-animeTitle	b'X/1999'
-animeType	b'Movie'
+animeTitle	X/1999
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.57
 animeUsers	16980
 animeRank	
-animePopularity	
-animeDescription	"b""At the millennial edge, the concluding battle for humanity's future is staged. Kamui Shirou's destiny has been decided as he returns to Tokyo to face his ultimate challenge. The Dragon of Heaven, defenders of the Earth, stand ready to protect the world from the Dragon of Earth, the seven angels of legend, who embrace the devastation of the planet to bring about its purification. Now Kamui must decide which side to fight for although he finds the idea utterly unappealing. It isn't until realizing that his two childhood friends, Fuma and Kotori Monou, are in grievous peril that Kamui decides to step into his fated position in the climactic struggle of the Year of Destiny: 1999. \n\n(Source: AnimeNfo) """
-animeRelated	[b'X', b'X\xc2\xb2: Double X']
-animeCharacters	[b'Shirou, Kamui', b'Monou, Fuuma', b'Sumeragi, Subaru', b'Sakurazuka, Seishirou', b'Arisugawa, Sorata', b'Kishu, Arashi', b'Kasumi, Karen', b'Monou, Kotori', b'Yatoji, Satsuki', b'Kuzuki, Kakyo']
-animeVoices	[b'\nSeki, Tomokazu\nJapanese\n', b'\nNarita, Ken\nJapanese\n', b'\nMiyazaki, Issei\nJapanese\n', b'\nFurusawa, Tohru\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nKoyama, Mami\nJapanese\n', b'\nIwao, Junko\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaruyama, Masao\n\nProducer\n\n', b'\nRintaro\n\nDirector, Script, Screenplay\n\n', b'\nEndou, Takuji\n\nEpisode Director, Assistant Director\n\n', b'\nX Japan\n\nTheme Song Composition, Theme Song Performance\n\n']
+animePopularity	3133
+animeDescription	"At the millennial edge, the concluding battle for humanity's future is staged. Kamui Shirou's destiny has been decided as he returns to Tokyo to face his ultimate challenge. The Dragon of Heaven, defenders of the Earth, stand ready to protect the world from the Dragon of Earth, the seven angels of legend, who embrace the devastation of the planet to bring about its purification. Now Kamui must decide which side to fight for although he finds the idea utterly unappealing. It isn't until realizing that his two childhood friends, Fuma and Kotori Monou, are in grievous peril that Kamui decides to step into his fated position in the climactic struggle of the Year of Destiny: 1999. 
+
+(Source: AnimeNfo) "
+animeRelated	['X', 'X²: Double X']
+animeCharacters	['Shirou, Kamui', 'Monou, Fuuma', 'Sumeragi, Subaru', 'Sakurazuka, Seishirou', 'Arisugawa, Sorata', 'Kishu, Arashi', 'Kasumi, Karen', 'Monou, Kotori', 'Yatoji, Satsuki', 'Kuzuki, Kakyo']
+animeVoices	['Seki, Tomokazu', 'Narita, Ken', 'Miyazaki, Issei', 'Furusawa, Tohru', 'Yamadera, Kouichi', 'Shinohara, Emi', 'Koyama, Mami', 'Iwao, Junko', 'Mitsuishi, Kotono']
+animeStaff	[['Maruyama, Masao', 'Producer'], ['Rintaro', 'Director, Script, Screenplay'], ['Endou, Takuji', 'Episode Director, Assistant Director'], ['X Japan', 'Theme Song Composition, Theme Song Performance']]

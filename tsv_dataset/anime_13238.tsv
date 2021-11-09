@@ -1,5 +1,5 @@
-animeTitle	b'Shimajirou no Wow!'
-animeType	b'TV'
+animeTitle	Shimajirou no Wow!
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Fourth season of the Shimajirou children's television series."""
-animeRelated	[b'Shimajirou Hesoka', b'Shimajirou to Fufu no Daibouken Movie: Sukue! Nana-iro no Hana', b'Shimajirou to Kujira no Uta', b'Shimajirou Movie: Mahou no Shima no Daibouken', b'Shimajirou to Tanjoubi no Ohoshi-sama']
-animeCharacters	[b'Shimano, Shimajirou', b'Makiba, Ramurin', b'Midorihara, Mimirin', b'Sorano, Torippii']
-animeVoices	[b'\nMinami, Omi\nJapanese\n', b'\nTakahashi, Miki\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nPUFFY\n\nTheme Song Lyrics, Theme Song Performance\n\n', b'\nIshino, Takkyu\n\nTheme Song Lyrics, Theme Song Composition\n\n', b'\nTada, Akifumi\n\nMusic\n\n', b'\nSuzuki, Miho\n\nCharacter Design\n\n']
+animePopularity	13907
+animeDescription	Fourth season of the Shimajirou children's television series.
+animeRelated	['Shimajirou Hesoka', 'Shimajirou to Fufu no Daibouken Movie: Sukue! Nana-iro no Hana', 'Shimajirou to Kujira no Uta', 'Shimajirou Movie: Mahou no Shima no Daibouken', 'Shimajirou to Tanjoubi no Ohoshi-sama']
+animeCharacters	['Shimano, Shimajirou', 'Makiba, Ramurin', 'Midorihara, Mimirin', 'Sorano, Torippii']
+animeVoices	['Minami, Omi', 'Takahashi, Miki', 'Yamazaki, Takumi']
+animeStaff	[['PUFFY', 'Theme Song Lyrics, Theme Song Performance'], ['Ishino, Takkyu', 'Theme Song Lyrics, Theme Song Composition'], ['Tada, Akifumi', 'Music'], ['Suzuki, Miho', 'Character Design']]

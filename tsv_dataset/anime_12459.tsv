@@ -1,5 +1,5 @@
-animeTitle	b'Notari Matsutarou'
-animeType	b'OVA'
+animeTitle	Notari Matsutarou
+animeType	OVA
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A teenage school dropout finds new meaning in life when he discovers sumo wrestling, heading off to Tokyo for the bright lights and training with an aging master of the sport.\n\n(Source: The Anime Encyclopedia)'
-animeRelated	[b'Notari Matsutarou', b'Abarenbou Rikishi!! Matsutarou']
-animeCharacters	[b'Sakaguchi, Matsutarou', b'Minami, Reiko']
-animeVoices	[b'\nYara, Yuusaku\nJapanese\n', b'\nSakuma, Rei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChiba, Tetsuya\n\nOriginal Creator\n\n', b'\nFukuda, Gen\n\nCharacter Design\n\n']
+animePopularity	12477
+animeDescription	"A teenage school dropout finds new meaning in life when he discovers sumo wrestling, heading off to Tokyo for the bright lights and training with an aging master of the sport.
+
+(Source: The Anime Encyclopedia)"
+animeRelated	['Notari Matsutarou', 'Abarenbou Rikishi!! Matsutarou']
+animeCharacters	['Sakaguchi, Matsutarou', 'Minami, Reiko']
+animeVoices	['Yara, Yuusaku', 'Sakuma, Rei']
+animeStaff	[['Chiba, Tetsuya', 'Original Creator'], ['Fukuda, Gen', 'Character Design']]

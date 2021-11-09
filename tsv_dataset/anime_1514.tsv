@@ -1,5 +1,5 @@
-animeTitle	b'Yuru Camp\xe2\x96\xb3 Specials'
-animeType	b'Special'
+animeTitle	Yuru Camp△ Specials
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.54
 animeUsers	19932
 animeRank	
-animePopularity	
-animeDescription	"b'Specials included in the anime\'s BD/DVD releases. The first disc release features ""Heya Camp Episode 0,"" a story before Nadeshiko joins the club.\n\n(Source: ANN)'"
-animeRelated	[b'Yuru Camp\xe2\x96\xb3', b'Heya Camp\xe2\x96\xb3']
-animeCharacters	[b'Shima, Rin', b'Kagamihara, Nadeshiko', b'Inuyama, Aoi', b'Oogaki, Chiaki', b'Saitou, Ena', b'Kagamihara, Sakura', b'Inuyama, Akari', b'Narration']
-animeVoices	[b'\nTouyama, Nao\nJapanese\n', b'\nHanamori, Yumiri\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nHara, Sayuri\nJapanese\n', b'\nTakahashi, Rie\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nMatsuda, Risae\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItou, Mutsumi\n\nScript\n\n', b'\nAfro\n\nOriginal Creator\n\n']
+animePopularity	2677
+animeDescription	"Specials included in the anime's BD/DVD releases. The first disc release features ""Heya Camp Episode 0,"" a story before Nadeshiko joins the club.
+
+(Source: ANN)"
+animeRelated	['Yuru Camp△', 'Heya Camp△']
+animeCharacters	['Shima, Rin', 'Kagamihara, Nadeshiko', 'Inuyama, Aoi', 'Oogaki, Chiaki', 'Saitou, Ena', 'Kagamihara, Sakura', 'Inuyama, Akari', 'Narration']
+animeVoices	['Touyama, Nao', 'Hanamori, Yumiri', 'Toyosaki, Aki', 'Hara, Sayuri', 'Takahashi, Rie', 'Inoue, Marina', 'Matsuda, Risae']
+animeStaff	[['Itou, Mutsumi', 'Script'], ['Afro', 'Original Creator']]

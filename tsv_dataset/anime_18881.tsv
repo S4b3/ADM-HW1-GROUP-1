@@ -1,5 +1,5 @@
-animeTitle	b'Rinkan Gakuen: Yamete! ...Okaasan, Minaide!'
-animeType	b'OVA'
+animeTitle	Rinkan Gakuen: Yamete! ...Okaasan, Minaide!
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.37
 animeUsers	894
 animeRank	
-animePopularity	
-animeDescription	b'Based on the game by Lune loves K.'
+animePopularity	8539
+animeDescription	Based on the game by Lune loves K.
 animeRelated	[]
-animeCharacters	[b'Taifuuji, Haruka', b'Taifuuji, Ai']
+animeCharacters	['Taifuuji, Haruka', 'Taifuuji, Ai']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYokoyama, Hiromi\n\nDirector\n\n', b'\nLee, Si-Min\n\nKey Animation\n\n', b'\nMori, Kokan\n\nPlanning\n\n', b'\nAsano, Akira\n\nMusic\n\n']
+animeStaff	[['Yokoyama, Hiromi', 'Director'], ['Lee, Si-Min', 'Key Animation'], ['Mori, Kokan', 'Planning'], ['Asano, Akira', 'Music']]

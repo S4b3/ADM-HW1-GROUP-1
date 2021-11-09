@@ -1,5 +1,5 @@
-animeTitle	b'Psycho-Pass'
-animeType	b'TV'
+animeTitle	Psycho-Pass
+animeType	TV
 animeNumEpisode	22
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.36
 animeUsers	646942
 animeRank	
-animePopularity	
-animeDescription	"b""Justice, and the enforcement of it, has changed. In the 22nd century, Japan enforces the Sibyl System, an objective means of determining the threat level of each citizen by examining their mental state for signs of criminal intent, known as their Psycho-Pass. Inspectors uphold the law by subjugating, often with lethal force, anyone harboring the slightest ill-will; alongside them are Enforcers, jaded Inspectors that have become latent criminals, granted relative freedom in exchange for carrying out the Inspectors' dirty work.\n\nInto this world steps Akane Tsunemori, a young woman with an honest desire to uphold justice. However, as she works alongside veteran Enforcer Shinya Kougami, she soon learns that the Sibyl System's judgments are not as perfect as her fellow Inspectors assume. With everything she has known turned on its head, Akane wrestles with the question of what justice truly is, and whether it can be upheld through the use of a system that may already be corrupt.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kanshikan Tsunemori Akane', b'All Alone With You', b'Psycho-Pass 2']
-animeCharacters	[b'Kougami, Shinya', b'Makishima, Shougo', b'Tsunemori, Akane', b'Ginoza, Nobuchika', b'Kagari, Shuusei', b'Masaoka, Tomomi', b'Karanomori, Shion', b'Kunizuka, Yayoi', b'Saiga, Jouji', b'Dominator']
-animeVoices	[b'\nSeki, Tomokazu\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nArimoto, Kinryuu\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nYamaji, Kazuhiro\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWada, Jouji\n\nProducer\n\n', b'\nMorihiro, Fumi\n\nAssistant Producer\n\n', b'\nShiotani, Naoyoshi\n\nDirector, Episode Director, Storyboard, Key Animation\n\n', b'\nMotohiro, Katsuyuki\n\nDirector\n\n']
+animePopularity	52
+animeDescription	"Justice, and the enforcement of it, has changed. In the 22nd century, Japan enforces the Sibyl System, an objective means of determining the threat level of each citizen by examining their mental state for signs of criminal intent, known as their Psycho-Pass. Inspectors uphold the law by subjugating, often with lethal force, anyone harboring the slightest ill-will; alongside them are Enforcers, jaded Inspectors that have become latent criminals, granted relative freedom in exchange for carrying out the Inspectors' dirty work.
+
+Into this world steps Akane Tsunemori, a young woman with an honest desire to uphold justice. However, as she works alongside veteran Enforcer Shinya Kougami, she soon learns that the Sibyl System's judgments are not as perfect as her fellow Inspectors assume. With everything she has known turned on its head, Akane wrestles with the question of what justice truly is, and whether it can be upheld through the use of a system that may already be corrupt.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kanshikan Tsunemori Akane', 'All Alone With You', 'Psycho-Pass 2']
+animeCharacters	['Kougami, Shinya', 'Makishima, Shougo', 'Tsunemori, Akane', 'Ginoza, Nobuchika', 'Kagari, Shuusei', 'Masaoka, Tomomi', 'Karanomori, Shion', 'Kunizuka, Yayoi', 'Saiga, Jouji', 'Dominator']
+animeVoices	['Seki, Tomokazu', 'Sakurai, Takahiro', 'Hanazawa, Kana', 'Nojima, Kenji', 'Ishida, Akira', 'Arimoto, Kinryuu', 'Sawashiro, Miyuki', 'Itou, Shizuka', 'Yamaji, Kazuhiro', 'Hidaka, Noriko']
+animeStaff	[['Wada, Jouji', 'Producer'], ['Morihiro, Fumi', 'Assistant Producer'], ['Shiotani, Naoyoshi', 'Director, Episode Director, Storyboard, Key Animation'], ['Motohiro, Katsuyuki', 'Director']]

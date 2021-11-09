@@ -1,5 +1,5 @@
-animeTitle	b'Code:Breaker OVA'
-animeType	b'OVA'
+animeTitle	Code:Breaker OVA
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.72
 animeUsers	12372
 animeRank	
-animePopularity	
-animeDescription	"b'A three-volume OVA of Code:Breaker.  Each volume will be bundled with volumes 22-24 of the manga, respectively. \n\nSubtitles and release dates:\n Vol.1: ""code:extra 1,2,3 & Plus 1"", Dec 17, 2012\n Vol.2: ""code:100 & extra HANAMI & Plus 2"", Feb 15, 2013\n Vol.3: ""code:4koma Special Theater"", Apr 17, 2013'"
-animeRelated	[b'Code:Breaker']
-animeCharacters	[b'Oogami, Rei', b'Sakurakouji, Sakura', b'Tenpouin, Yuuki', b'Fujiwara, Toki', b'Hitomi', b'Heike, Masaomi', b'Hachiouji, Rui', b'Nyanmaru', b'Emperor', b'Takatsu, Aoba']
-animeVoices	[b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nKimura, Subaru\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nItou, Kanae\nJapanese\n', b'\nSendai, Eri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNoshitani, Mitsutaka\n\nEpisode Director\n\n', b'\nSakoi, Masayuki\n\nStoryboard\n\n', b'\nSuzumura, Kenichi\n\nTheme Song Performance\n\n', b'\nItou, Kanae\n\nTheme Song Performance\n\n']
+animePopularity	3288
+animeDescription	"A three-volume OVA of Code:Breaker.  Each volume will be bundled with volumes 22-24 of the manga, respectively. 
+
+Subtitles and release dates:
+ Vol.1: ""code:extra 1,2,3 & Plus 1"", Dec 17, 2012
+ Vol.2: ""code:100 & extra HANAMI & Plus 2"", Feb 15, 2013
+ Vol.3: ""code:4koma Special Theater"", Apr 17, 2013"
+animeRelated	['Code:Breaker']
+animeCharacters	['Oogami, Rei', 'Sakurakouji, Sakura', 'Tenpouin, Yuuki', 'Fujiwara, Toki', 'Hitomi', 'Heike, Masaomi', 'Hachiouji, Rui', 'Nyanmaru', 'Emperor', 'Takatsu, Aoba']
+animeVoices	['Okamoto, Nobuhiko', 'Hikasa, Youko', 'Toyonaga, Toshiyuki', 'Suzumura, Kenichi', 'Miki, Shinichiro', 'Kimura, Subaru', 'Saiga, Mitsuki', 'Itou, Kanae', 'Sendai, Eri']
+animeStaff	[['Noshitani, Mitsutaka', 'Episode Director'], ['Sakoi, Masayuki', 'Storyboard'], ['Suzumura, Kenichi', 'Theme Song Performance'], ['Itou, Kanae', 'Theme Song Performance']]

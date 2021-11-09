@@ -1,5 +1,5 @@
-animeTitle	b'Bishoujo Yuugekitai Battle Skipper'
-animeType	b'OVA'
+animeTitle	Bishoujo Yuugekitai Battle Skipper
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	5.22
 animeUsers	595
 animeRank	
-animePopularity	
-animeDescription	"b'Despite the title, this is not a feature but the three-part OAV Battle Skipper (1995), which Takashi Watanabe directed before going on to Slayers. \n\nWhen the members of the Etiquette Club at St. Ignacio\'s School for Girls go down the tubes--literally--they acquire the skimpy outfits they wear to pilot the unfortunately named BSs or Battle Skippers, state-of-the-art military mecha. As ""Extars,"" the Etiquette Club members fight to eliminate evil from the world, which means the bizarre schemes of Sayaka, the nasty, super-rich president of the rival Debutante Club, and her flunky, Todo. \n\nThe series was created to promote a line of robot toys from Tomy, and viewers who are willing to accept high school girls\' quarrels escalating into battles involving satellite weaponry may enjoy these silly adventures.\n\n(Source: AniDB)'"
+animePopularity	9781
+animeDescription	"Despite the title, this is not a feature but the three-part OAV Battle Skipper (1995), which Takashi Watanabe directed before going on to Slayers. 
+
+When the members of the Etiquette Club at St. Ignacio's School for Girls go down the tubes--literally--they acquire the skimpy outfits they wear to pilot the unfortunately named BSs or Battle Skippers, state-of-the-art military mecha. As ""Extars,"" the Etiquette Club members fight to eliminate evil from the world, which means the bizarre schemes of Sayaka, the nasty, super-rich president of the rival Debutante Club, and her flunky, Todo. 
+
+The series was created to promote a line of robot toys from Tomy, and viewers who are willing to accept high school girls' quarrels escalating into battles involving satellite weaponry may enjoy these silly adventures.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Ayanokouji, Reika', b'Izaki, Kanami', b'Sakaki, Shihoko', b'Shibusawa, Rie', b'Tachibana, Saori', b'Kitaouji, Sayaka']
-animeVoices	[b'\nInoue, Kikuko\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n', b'\nMiyamura, Yuko\nJapanese\n', b'\nNiiyama, Shiho\nJapanese\n', b'\nNishimura, Chinami\nJapanese\n', b'\nOrikasa, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFukushima, Hiroyuki\n\nProducer\n\n', b'\nWatanabe, Takashi\n\nDirector\n\n', b'\nKamata, Hidemi\n\nScript\n\n', b'\nInoue, Kikuko\n\nTheme Song Performance\n\n']
+animeCharacters	['Ayanokouji, Reika', 'Izaki, Kanami', 'Sakaki, Shihoko', 'Shibusawa, Rie', 'Tachibana, Saori', 'Kitaouji, Sayaka']
+animeVoices	['Inoue, Kikuko', 'Shiratori, Yuri', 'Miyamura, Yuko', 'Niiyama, Shiho', 'Nishimura, Chinami', 'Orikasa, Ai']
+animeStaff	[['Fukushima, Hiroyuki', 'Producer'], ['Watanabe, Takashi', 'Director'], ['Kamata, Hidemi', 'Script'], ['Inoue, Kikuko', 'Theme Song Performance']]

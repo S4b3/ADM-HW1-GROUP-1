@@ -1,5 +1,5 @@
-animeTitle	b'Hungry Heart: Wild Striker'
-animeType	b'TV'
+animeTitle	Hungry Heart: Wild Striker
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.56
 animeUsers	11501
 animeRank	
-animePopularity	
-animeDescription	b'Kyosuke Kano has lived under the shadow of his successful brother Seisuke all his life who is a professional soccer player. Tired of being compared and downgraded at, he abandoned playing soccer until a boy from his new highschool discovered him and asked him to join their team. Kyosuke joins it and befriends two other first year players named Rodrigo and Sakai with the dream of becoming professional soccer players themselves.\n\n(Source: ANN) '
-animeRelated	[b'Hungry Heart']
-animeCharacters	[b'Kanou, Kyosuke', b'Jefferson, Kouji Sakai', b'Tsujiwaki, Miki', b'Rodrigo', b'Kanou, Seisuke', b'Furuki, Ryosei', b'Kamata, Gouzo', b'Ichikawa, Hiroshi', b'Murakami, Kazuo', b'Kazuto, Mori']
-animeVoices	[b'\nToriumi, Kousuke\nJapanese\n', b'\nTakatsuka, Masaya\nJapanese\n', b'\nKato, Natsuki\nJapanese\n', b'\nIshizuka, Katashi\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nNomura, Kenji\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nMatsuyama, Takashi\nJapanese\n', b'\nHibino, Akari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Hideo\n\nSound Director\n\n', b'\nKaburagi, Hiro\n\nEpisode Director, Storyboard\n\n', b'\nShiraishi, Michita\n\nEpisode Director\n\n', b'\nNigorikawa, Atsushi\n\nEpisode Director\n\n']
+animePopularity	3835
+animeDescription	"Kyosuke Kano has lived under the shadow of his successful brother Seisuke all his life who is a professional soccer player. Tired of being compared and downgraded at, he abandoned playing soccer until a boy from his new highschool discovered him and asked him to join their team. Kyosuke joins it and befriends two other first year players named Rodrigo and Sakai with the dream of becoming professional soccer players themselves.
+
+(Source: ANN) "
+animeRelated	['Hungry Heart']
+animeCharacters	['Kanou, Kyosuke', 'Jefferson, Kouji Sakai', 'Tsujiwaki, Miki', 'Rodrigo', 'Kanou, Seisuke', 'Furuki, Ryosei', 'Kamata, Gouzo', 'Ichikawa, Hiroshi', 'Murakami, Kazuo', 'Kazuto, Mori']
+animeVoices	['Toriumi, Kousuke', 'Takatsuka, Masaya', 'Kato, Natsuki', 'Ishizuka, Katashi', 'Koyasu, Takehito', 'Yusa, Kouji', 'Nomura, Kenji', 'Yoshino, Hiroyuki', 'Matsuyama, Takashi', 'Hibino, Akari']
+animeStaff	[['Takahashi, Hideo', 'Sound Director'], ['Kaburagi, Hiro', 'Episode Director, Storyboard'], ['Shiraishi, Michita', 'Episode Director'], ['Nigorikawa, Atsushi', 'Episode Director']]

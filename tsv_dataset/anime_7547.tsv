@@ -1,5 +1,5 @@
-animeTitle	b'Calimero'
-animeType	b'TV'
+animeTitle	Calimero
+animeType	TV
 animeNumEpisode	45
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.23
 animeUsers	1741
 animeRank	
-animePopularity	
-animeDescription	b'Calimero is a small black bird who has a shell on his head; his dream is to fly like the other birds. When he tries to fly and screws up he is teased by the other birds, but his girlfriend Pricilla is there to cheer him up. Despite his appearance, he is quite smart and thinks up an idea to fly.\n\n(Source: ANN)'
-animeRelated	[b'Shin Calimero']
-animeCharacters	[b'Calimero', b'Priscilla', b'Professor Owl', b'Jobatta, Peter']
-animeVoices	[b'\nMiwa, Katsue\nJapanese\n', b'\nNomura, Michiko\nJapanese\n', b'\nYanami, Jouji\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTamiya, Takeshi\n\nDirector\n\n', b'\nSerikawa, Yuugo\n\nDirector\n\n', b'\nYamayoshi, Yasuo\n\nEpisode Director\n\n', b'\nKomori, Akihiro\n\nTheme Song Arrangement\n\n']
+animePopularity	7855
+animeDescription	"Calimero is a small black bird who has a shell on his head; his dream is to fly like the other birds. When he tries to fly and screws up he is teased by the other birds, but his girlfriend Pricilla is there to cheer him up. Despite his appearance, he is quite smart and thinks up an idea to fly.
+
+(Source: ANN)"
+animeRelated	['Shin Calimero']
+animeCharacters	['Calimero', 'Priscilla', 'Professor Owl', 'Jobatta, Peter']
+animeVoices	['Miwa, Katsue', 'Nomura, Michiko', 'Yanami, Jouji', 'Kimotsuki, Kaneta']
+animeStaff	[['Tamiya, Takeshi', 'Director'], ['Serikawa, Yuugo', 'Director'], ['Yamayoshi, Yasuo', 'Episode Director'], ['Komori, Akihiro', 'Theme Song Arrangement']]

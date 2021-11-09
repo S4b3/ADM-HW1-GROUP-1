@@ -1,5 +1,5 @@
-animeTitle	b'Kaze no Matasaburou (Movie)'
-animeType	b'Movie'
+animeTitle	Kaze no Matasaburou (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.12
 animeUsers	1444
 animeRank	
-animePopularity	
-animeDescription	"b""A girl moves from the city and goes to school in the country due to some circumstances in her father's job. Her new schoolmates keep her at a distance. There is a boy she'd like to get to know better, but she worries about how he might treat her and doesn't try to get closer. She begins to hate life in the countryside and longs to return to the city, but she ends up meeting a real god of wind.\n\n(Source: MAL News)"""
-animeRelated	[b'Kaze no Matasaburou', b'Utopa', b'Kacchikenee!', b'Colorful Ninja Iromaki']
-animeCharacters	"[b'Fuujin', b'Takada-san', b'Kouichi', b'Mimizu', b'Kasuke', b'Sensei', b'Kouichi no Sobo', b'Takada no Chichi', b""Kouichi's Mother"", b'Kame']"
-animeVoices	[b'\nTanaka, Masahiko\nJapanese\n', b'\nInaba, Natsuki\nJapanese\n', b'\nYamazaki, Satoshi\nJapanese\n', b'\nSaitou, Momoko\nJapanese\n', b'\nMorohoshi, Sumire\nJapanese\n', b'\nOkada, Eimi\nJapanese\n', b'\nTakahashi, Rieko\nJapanese\n', b'\nSakaguchi, Shuuhei\nJapanese\n', b'\nKojima, Sachiko\nJapanese\n', b'\nShimoji, Shino\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamada, Hiroki\n\nDirector\n\n', b'\nMiyazawa, Kenji\n\nOriginal Creator\n\n', b'\nHoriuchi, Hiroyuki\n\nAnimation Director\n\n']
+animePopularity	8160
+animeDescription	"A girl moves from the city and goes to school in the country due to some circumstances in her father's job. Her new schoolmates keep her at a distance. There is a boy she'd like to get to know better, but she worries about how he might treat her and doesn't try to get closer. She begins to hate life in the countryside and longs to return to the city, but she ends up meeting a real god of wind.
+
+(Source: MAL News)"
+animeRelated	['Kaze no Matasaburou', 'Utopa', 'Kacchikenee!', 'Colorful Ninja Iromaki']
+animeCharacters	"['Fuujin', 'Takada-san', 'Kouichi', 'Mimizu', 'Kasuke', 'Sensei', 'Kouichi no Sobo', 'Takada no Chichi', ""Kouichi's Mother"", 'Kame']"
+animeVoices	['Tanaka, Masahiko', 'Inaba, Natsuki', 'Yamazaki, Satoshi', 'Saitou, Momoko', 'Morohoshi, Sumire', 'Okada, Eimi', 'Takahashi, Rieko', 'Sakaguchi, Shuuhei', 'Kojima, Sachiko', 'Shimoji, Shino']
+animeStaff	[['Yamada, Hiroki', 'Director'], ['Miyazawa, Kenji', 'Original Creator'], ['Horiuchi, Hiroyuki', 'Animation Director']]

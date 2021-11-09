@@ -1,5 +1,5 @@
-animeTitle	b'Young Black Jack'
-animeType	b'TV'
+animeTitle	Young Black Jack
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.23
 animeUsers	30729
 animeRank	
-animePopularity	
-animeDescription	b'In the 1960s, a gifted young medical student tries to make a name for himself. Kuroo Hazama is a reserved young man with unusual black-and-white hair, a body covered with scars, and a dark past. Despite only being a medical student, his surgical brilliance starts to attract attention after he completes a seemingly impossible operation. Together with the spirited and honest intern Maiko Okamoto and Yabu, a close friend with a troubled life, Hazama devotes himself to the world of medicine. \n\nHowever, his path to becoming a respectable surgeon is a difficult one as student riots, war, and corruption are consuming Japan. Hazama quickly finds himself caught up in a series of nefarious circumstances that challenge his integrity as a person and his path towards becoming a surgeon. Young Black Jack chronicles the story of a man capable of performing unthinkable feats of medicine, and the journey that leads him to become the legend known as Black Jack.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Young Black Jack', b'Black Jack']
-animeCharacters	[b'Hazama, Kuroo', b'Okamoto, Maiko', b'Yabu', b'Doctor Kiriko', b'Hige Oyaji', b'Hyakki, Maruo', b'Octane', b'Hugo', b'Lisenberg', b'Tawashi']
-animeVoices	[b'\nUmehara, Yuuichirou\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nTomita, Kousei\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n', b'\nTakeuchi, Shunsuke\nJapanese\n', b'\nYamanoi, Jin\nJapanese\n', b'\nShioya, Yoku\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKase, Mitsuko\n\nDirector\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nTakahashi, Ryousuke\n\nScript, Series Composition\n\n', b'\nTakuto\n\nTheme Song Lyrics, Theme Song Performance, Theme Song Composition\n\n']
+animePopularity	1937
+animeDescription	"In the 1960s, a gifted young medical student tries to make a name for himself. Kuroo Hazama is a reserved young man with unusual black-and-white hair, a body covered with scars, and a dark past. Despite only being a medical student, his surgical brilliance starts to attract attention after he completes a seemingly impossible operation. Together with the spirited and honest intern Maiko Okamoto and Yabu, a close friend with a troubled life, Hazama devotes himself to the world of medicine. 
+
+However, his path to becoming a respectable surgeon is a difficult one as student riots, war, and corruption are consuming Japan. Hazama quickly finds himself caught up in a series of nefarious circumstances that challenge his integrity as a person and his path towards becoming a surgeon. Young Black Jack chronicles the story of a man capable of performing unthinkable feats of medicine, and the journey that leads him to become the legend known as Black Jack.
+
+[Written by MAL Rewrite]"
+animeRelated	['Young Black Jack', 'Black Jack']
+animeCharacters	['Hazama, Kuroo', 'Okamoto, Maiko', 'Yabu', 'Doctor Kiriko', 'Hige Oyaji', 'Hyakki, Maruo', 'Octane', 'Hugo', 'Lisenberg', 'Tawashi']
+animeVoices	['Umehara, Yuuichirou', 'Itou, Shizuka', 'Yusa, Kouji', 'Suwabe, Junichi', 'Tomita, Kousei', 'Miyano, Mamoru', 'Oosaka, Ryouta', 'Takeuchi, Shunsuke', 'Yamanoi, Jin', 'Shioya, Yoku']
+animeStaff	[['Kase, Mitsuko', 'Director'], ['Kameyama, Toshiki', 'Sound Director'], ['Takahashi, Ryousuke', 'Script, Series Composition'], ['Takuto', 'Theme Song Lyrics, Theme Song Performance, Theme Song Composition']]

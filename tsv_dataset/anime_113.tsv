@@ -1,5 +1,5 @@
-animeTitle	b'Hotaru no Haka'
-animeType	b'Movie'
+animeTitle	Hotaru no Haka
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.5
 animeUsers	314357
 animeRank	
-animePopularity	
-animeDescription	b'As World War II reaches its conclusion in 1945, Japan faces widespread destruction in the form of American bombings, devastating city after city. Hotaru no Haka, also known as Grave of the Fireflies, is the story of Seita and his sister Setsuko, two Japanese children whose lives are ravaged by the brutal war. They have lost their mother, their father, their home, and the prospect of a bright future\xe2\x80\x94all tragic consequences of the war.\n\nNow orphaned and homeless, Seita and Setsuko have no choice but to drift across the countryside, beset by starvation and disease. Met with the apathy of adults along the way, they find that desperate circumstances can turn even the kindest of people cruel yet their youthful hope shines brightly in the face of unrelenting hardship, preventing the siblings from swiftly succumbing to an inevitable fate.\n\n[Written by MAL Rewrite]'
+animePopularity	303
+animeDescription	"As World War II reaches its conclusion in 1945, Japan faces widespread destruction in the form of American bombings, devastating city after city. Hotaru no Haka, also known as Grave of the Fireflies, is the story of Seita and his sister Setsuko, two Japanese children whose lives are ravaged by the brutal war. They have lost their mother, their father, their home, and the prospect of a bright future—all tragic consequences of the war.
+
+Now orphaned and homeless, Seita and Setsuko have no choice but to drift across the countryside, beset by starvation and disease. Met with the apathy of adults along the way, they find that desperate circumstances can turn even the kindest of people cruel yet their youthful hope shines brightly in the face of unrelenting hardship, preventing the siblings from swiftly succumbing to an inevitable fate.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Setsuko', b'Seita', b'Mrs. Yokokawa']
-animeVoices	[b'\nShiraishi, Ayano\nJapanese\n', b'\nTatsumi, Tsutomu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahata, Isao\n\nDirector, Screenplay\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nMamiya, Michio\n\nTheme Song Composition, Theme Song Arrangement, Music\n\n', b'\nAnno, Hideaki\n\nKey Animation\n\n']
+animeCharacters	['Setsuko', 'Seita', 'Mrs. Yokokawa']
+animeVoices	['Shiraishi, Ayano', 'Tatsumi, Tsutomu']
+animeStaff	[['Takahata, Isao', 'Director, Screenplay'], ['Urakami, Yasuo', 'Sound Director'], ['Mamiya, Michio', 'Theme Song Composition, Theme Song Arrangement, Music'], ['Anno, Hideaki', 'Key Animation']]

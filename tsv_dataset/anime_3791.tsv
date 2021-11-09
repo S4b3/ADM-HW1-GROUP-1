@@ -1,5 +1,5 @@
-animeTitle	b'Manga Sekai Mukashibanashi'
-animeType	b'TV'
+animeTitle	Manga Sekai Mukashibanashi
+animeType	TV
 animeNumEpisode	127
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.01
 animeUsers	345
 animeRank	
-animePopularity	
-animeDescription	"b'Each episode of this series tells the story of a famous fairy tale from all around the world. Some of them are adapted from famous books such as ""The Iliad"".\n\n(Source: ANN)'"
-animeRelated	[b'Manga Nippon Mukashibanashi (1976)']
+animePopularity	10240
+animeDescription	"Each episode of this series tells the story of a famous fairy tale from all around the world. Some of them are adapted from famous books such as ""The Iliad"".
+
+(Source: ANN)"
+animeRelated	['Manga Nippon Mukashibanashi (1976)']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

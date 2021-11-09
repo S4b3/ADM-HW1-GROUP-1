@@ -1,5 +1,5 @@
-animeTitle	b'Detective Conan vs. Wooo'
-animeType	b'ONA'
+animeTitle	Detective Conan vs. Wooo
+animeType	ONA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.1
 animeUsers	2061
 animeRank	
-animePopularity	
-animeDescription	"b'A web series ""Detective Conan vs. Wooo."" This web short is an advertisement for the Wooo line of televisions in Japan.'"
-animeRelated	[b'Detective Conan']
-animeCharacters	[b'Edogawa, Conan', b'Mouri, Ran', b'Mouri, Kogorou', b'Agasa, Hiroshi']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUrakami, Keiko\n\nSound Director\n\n']
+animePopularity	6969
+animeDescription	"A web series ""Detective Conan vs. Wooo."" This web short is an advertisement for the Wooo line of televisions in Japan."
+animeRelated	['Detective Conan']
+animeCharacters	['Edogawa, Conan', 'Mouri, Ran', 'Mouri, Kogorou', 'Agasa, Hiroshi']
+animeVoices	['Takayama, Minami', 'Yamazaki, Wakana', 'Koyama, Rikiya', 'Ogata, Kenichi']
+animeStaff	[['Urakami, Keiko', 'Sound Director']]

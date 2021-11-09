@@ -1,5 +1,5 @@
-animeTitle	b'Non Non Biyori Repeat: Hotaru ga Tanoshinda'
-animeType	b'OVA'
+animeTitle	Non Non Biyori Repeat: Hotaru ga Tanoshinda
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.84
 animeUsers	19601
 animeRank	
-animePopularity	
-animeDescription	"b""Life in rural Asahigaoka moves at its own pace. Devoid of the pleasures and worries of a bustling metropolis, this small village might seem painfully dull at first glance. However, despite living this far from her hometown of Tokyo, Hotaru Ichijou manages to find a group of friends whom she can spend quality time with. No matter whether it's winter, spring, summer, or fall, they make full use of everything the nature around them has to offer.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Non Non Biyori: Okinawa e Ikukoto ni Natta', b'Non Non Biyori Repeat']
-animeCharacters	[b'Miyauchi, Renge', b'Koshigaya, Komari', b'Ichijou, Hotaru', b'Koshigaya, Natsumi', b'Kagayama, Kaede', b'Koshigaya, Suguru', b'Koshigaya, Yukiko', b'Ichijou, Mother']
-animeVoices	[b'\nKoiwai, Kotori\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nMurakawa, Rie\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nSatou, Rina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshida, Reiko\n\nStoryboard\n\n', b'\nSakura, Ayane\n\nTheme Song Performance\n\n', b'\nAsumi, Kana\n\nTheme Song Performance\n\n', b'\nnano.RIPE\n\nTheme Song Composition, Theme Song Arrangement, Theme Song Performance, Theme Song Lyrics\n\n']
+animePopularity	2804
+animeDescription	"Life in rural Asahigaoka moves at its own pace. Devoid of the pleasures and worries of a bustling metropolis, this small village might seem painfully dull at first glance. However, despite living this far from her hometown of Tokyo, Hotaru Ichijou manages to find a group of friends whom she can spend quality time with. No matter whether it's winter, spring, summer, or fall, they make full use of everything the nature around them has to offer.
+
+[Written by MAL Rewrite]"
+animeRelated	['Non Non Biyori: Okinawa e Ikukoto ni Natta', 'Non Non Biyori Repeat']
+animeCharacters	['Miyauchi, Renge', 'Koshigaya, Komari', 'Ichijou, Hotaru', 'Koshigaya, Natsumi', 'Kagayama, Kaede', 'Koshigaya, Suguru', 'Koshigaya, Yukiko', 'Ichijou, Mother']
+animeVoices	['Koiwai, Kotori', 'Asumi, Kana', 'Murakawa, Rie', 'Sakura, Ayane', 'Satou, Rina']
+animeStaff	[['Yoshida, Reiko', 'Storyboard'], ['Sakura, Ayane', 'Theme Song Performance'], ['Asumi, Kana', 'Theme Song Performance'], ['nano.RIPE', 'Theme Song Composition, Theme Song Arrangement, Theme Song Performance, Theme Song Lyrics']]

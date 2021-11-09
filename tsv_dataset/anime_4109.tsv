@@ -1,5 +1,5 @@
-animeTitle	b'Ookami to Koushinryou VR'
-animeType	b'ONA'
+animeTitle	Ookami to Koushinryou VR
+animeType	ONA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.92
 animeUsers	1279
 animeRank	
-animePopularity	
-animeDescription	"b""Independent development circle Spicy Tails announced on that it is developing a virtual reality anime based on Isuna Hasekura's Spice & Wolf novels. Hasekura himself is writing a new scenario for the anime. It will have English subtitles. The television anime's voice actors Ami Koshimizu (Holo) and Jun Fukuyama (Kraft Lawrence) are returning. \n\nThe anime is slated for release on HTC VIVE, Oculus Rift, and other platforms in early 2019. It will also be viewable on PC without a VR headset. \n\n(Source: ANN)"""
-animeRelated	[b'Ookami to Koushinryou', b'Ookami to Koushinryou VR 2']
-animeCharacters	[b'Holo', b'Lawrence, Kraft']
+animePopularity	4671
+animeDescription	"Independent development circle Spicy Tails announced on that it is developing a virtual reality anime based on Isuna Hasekura's Spice & Wolf novels. Hasekura himself is writing a new scenario for the anime. It will have English subtitles. The television anime's voice actors Ami Koshimizu (Holo) and Jun Fukuyama (Kraft Lawrence) are returning. 
+
+The anime is slated for release on HTC VIVE, Oculus Rift, and other platforms in early 2019. It will also be viewable on PC without a VR headset. 
+
+(Source: ANN)"
+animeRelated	['Ookami to Koushinryou', 'Ookami to Koushinryou VR 2']
+animeCharacters	['Holo', 'Lawrence, Kraft']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHasekura, Isuna\n\nScript\n\n', b'\nAyakura, Juu\n\nCharacter Design\n\n']
+animeStaff	[['Hasekura, Isuna', 'Script'], ['Ayakura, Juu', 'Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hug tto! Precure\xe2\x99\xa1Futari wa Precure Movie: All Stars Memories'
-animeType	b'Movie'
+animeTitle	Hug tto! Precure♡Futari wa Precure Movie: All Stars Memories
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.56
 animeUsers	1064
 animeRank	
-animePopularity	
-animeDescription	"b""A vengeful teru teru bozu-like monster called Miden is stealing all of the Cures' magical powers and memories, turning them into helpless infants, barring Nagisa Misumi and Hana Nono. They must help the affected Cures to regain their abilities and fight off this new menace.\n\n(Source: Wikipedia)"""
-animeRelated	[b'Futari wa Precure', b'Hug tto! Precure']
-animeCharacters	[b'Misumi, Nagisa', b'Nono, Hana', b'Yukishiro, Honoka', b'Amour, Ruru', b'Aisaki, Emiru', b'Kagayaki, Homare', b'Kujou, Hikari', b'Kirahoshi, Ciel', b'Yakushiji, Saaya', b'Kurumi, Erika']
-animeVoices	[b'\nHonna, Youko\nJapanese\n', b'\nHikisaka, Rie\nJapanese\n', b'\nYukana\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nTamura, Nao\nJapanese\n', b'\nOgura, Yui\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nHonizumi, Rina\nJapanese\n', b'\nMizusawa, Fumie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyamoto, Hiroshi\n\nDirector\n\n', b'\nKoumura, Junko\n\nScript\n\n', b'\nGojou, Mayumi\n\nTheme Song Performance\n\n', b'\nHayashi, Yuuki\n\nMusic\n\n']
+animePopularity	8370
+animeDescription	"A vengeful teru teru bozu-like monster called Miden is stealing all of the Cures' magical powers and memories, turning them into helpless infants, barring Nagisa Misumi and Hana Nono. They must help the affected Cures to regain their abilities and fight off this new menace.
+
+(Source: Wikipedia)"
+animeRelated	['Futari wa Precure', 'Hug tto! Precure']
+animeCharacters	['Misumi, Nagisa', 'Nono, Hana', 'Yukishiro, Honoka', 'Amour, Ruru', 'Aisaki, Emiru', 'Kagayaki, Homare', 'Kujou, Hikari', 'Kirahoshi, Ciel', 'Yakushiji, Saaya', 'Kurumi, Erika']
+animeVoices	['Honna, Youko', 'Hikisaka, Rie', 'Yukana', 'Tamura, Yukari', 'Tamura, Nao', 'Ogura, Yui', 'Tanaka, Rie', 'Minase, Inori', 'Honizumi, Rina', 'Mizusawa, Fumie']
+animeStaff	[['Miyamoto, Hiroshi', 'Director'], ['Koumura, Junko', 'Script'], ['Gojou, Mayumi', 'Theme Song Performance'], ['Hayashi, Yuuki', 'Music']]

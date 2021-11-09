@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: Goodbye Partner'
-animeType	b'Special'
+animeTitle	Lupin III: Goodbye Partner
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.81
 animeUsers	1786
 animeRank	
-animePopularity	
-animeDescription	b'The new TV special will be about the battles against Jigen, who aims for Lupin who searches for the treasure. Goemon, who is angry because he cannot forgive betrayal of Jigen, will fight along with Lupin against the strongest enemy in the history.\n\n(Source: MAL News)'
-animeRelated	[b'Lupin III']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi', b'Katou', b'Alisa', b'Chopin, Frederic', b'Emilka', b'Madam President']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nUeda, Youji\nJapanese\n', b'\nKotobuki, Minako\nJapanese\n', b'\nUchida, Yuuya\nJapanese\n', b'\nUchida, Risa\nJapanese\n', b'\nShiota, Tomoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawagoe, Jun\n\nDirector\n\n', b'\nShimizu, Youji\n\nSound Director\n\n', b'\nMukai, Masahiro\n\nEpisode Director\n\n', b'\nHata, Takehiko\n\nScript\n\n']
+animePopularity	7064
+animeDescription	"The new TV special will be about the battles against Jigen, who aims for Lupin who searches for the treasure. Goemon, who is angry because he cannot forgive betrayal of Jigen, will fight along with Lupin against the strongest enemy in the history.
+
+(Source: MAL News)"
+animeRelated	['Lupin III']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Katou', 'Alisa', 'Chopin, Frederic', 'Emilka', 'Madam President']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Sawashiro, Miyuki', 'Namikawa, Daisuke', 'Yamadera, Kouichi', 'Ueda, Youji', 'Kotobuki, Minako', 'Uchida, Yuuya', 'Uchida, Risa', 'Shiota, Tomoko']
+animeStaff	[['Kawagoe, Jun', 'Director'], ['Shimizu, Youji', 'Sound Director'], ['Mukai, Masahiro', 'Episode Director'], ['Hata, Takehiko', 'Script']]

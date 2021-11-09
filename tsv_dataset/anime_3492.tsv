@@ -1,5 +1,5 @@
-animeTitle	b'Kodomo no Jikan: Ni Gakki'
-animeType	b'OVA'
+animeTitle	Kodomo no Jikan: Ni Gakki
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.07
 animeUsers	16015
 animeRank	
-animePopularity	
-animeDescription	b'The second season of Kodomo no Jikan.'
-animeRelated	[b'Kodomo no Jikan', b'Kodomo no Jikan (TV)']
-animeCharacters	[b'Kokonoe, Rin', b'Kagami, Kuro', b'Usa, Mimi', b'Aoki, Daisuke', b'Shirai, Sae', b'Kokonoe, Reiji', b'Houin, Kyouko', b'Oyajima, Kenta']
-animeVoices	[b'\nKitamura, Eri\nJapanese\n', b'\nShindou, Kei\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nMajima, Junji\nJapanese\n', b'\nSoumi, Youko\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nTanaka, Ryouko\nJapanese\n', b'\nIshigami, Yuuichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuganuma, Eiji\n\nDirector, Episode Director, Storyboard\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nOkada, Mari\n\nScript, Series Composition\n\n', b'\nKitamura, Eri\n\nTheme Song Performance\n\n']
+animePopularity	3305
+animeDescription	The second season of Kodomo no Jikan.
+animeRelated	['Kodomo no Jikan', 'Kodomo no Jikan (TV)']
+animeCharacters	['Kokonoe, Rin', 'Kagami, Kuro', 'Usa, Mimi', 'Aoki, Daisuke', 'Shirai, Sae', 'Kokonoe, Reiji', 'Houin, Kyouko', 'Oyajima, Kenta']
+animeVoices	['Kitamura, Eri', 'Shindou, Kei', 'Kadowaki, Mai', 'Majima, Junji', 'Soumi, Youko', 'Sugita, Tomokazu', 'Tanaka, Ryouko', 'Ishigami, Yuuichi']
+animeStaff	[['Suganuma, Eiji', 'Director, Episode Director, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Okada, Mari', 'Script, Series Composition'], ['Kitamura, Eri', 'Theme Song Performance']]

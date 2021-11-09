@@ -1,5 +1,5 @@
-animeTitle	b'Renkin San-kyuu Magical? Pokaan Specials'
-animeType	b'Special'
+animeTitle	Renkin San-kyuu Magical? Pokaan Specials
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.91
 animeUsers	3187
 animeRank	
-animePopularity	
-animeDescription	b'DVD specials.'
-animeRelated	[b'Renkin San-kyuu Magical? Pokaan']
-animeCharacters	[b'Liru', b'Pachira', b'Uma', b'Aiko', b'Dr. K-Ko', b'Keimie', b'Tan', b'Jun']
-animeVoices	[b'\nNabatame, Hitomi\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nSaitou, Momoko\nJapanese\n', b'\nAkesaka, Satomi\nJapanese\n', b'\nTsuda, Shouko\nJapanese\n', b'\nNomico\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAgematsu, Noriyasu\n\nMusic\n\n']
+animePopularity	6210
+animeDescription	DVD specials.
+animeRelated	['Renkin San-kyuu Magical? Pokaan']
+animeCharacters	['Liru', 'Pachira', 'Uma', 'Aiko', 'Dr. K-Ko', 'Keimie', 'Tan', 'Jun']
+animeVoices	['Nabatame, Hitomi', 'Hirano, Aya', 'Saitou, Momoko', 'Akesaka, Satomi', 'Tsuda, Shouko', 'Nomico']
+animeStaff	[['Agematsu, Noriyasu', 'Music']]

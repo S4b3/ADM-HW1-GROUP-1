@@ -1,5 +1,5 @@
-animeTitle	b'Shingeki no Bahamut: Genesis - Short Story'
-animeType	b'ONA'
+animeTitle	Shingeki no Bahamut: Genesis - Short Story
+animeType	ONA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.13
 animeUsers	9239
 animeRank	
-animePopularity	
-animeDescription	"b""The first short story focuses on Favaro and Kaiser between the events of the first and second series as they visit Favaro's home village. \n\nThe second short story shows Kaiser as a knight commander sparring with Jeanne, and sharing the reasons they remained as Orleans Knights in the aftermath of the final battle against Bahamut."""
-animeRelated	[b'Shingeki no Bahamut: Genesis', b'Shingeki no Bahamut: Virgin Soul']
-animeCharacters	"[b'Leone, Favaro', b'Lidfard, Kaisar', b""d'Arc, Jeanne"", b'Leone, Bunyan']"
-animeVoices	[b'\nYoshino, Hiroyuki\nJapanese\n', b'\nInoue, Gou\nJapanese\n', b'\nHan, Megumi\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKanno, Toshiyuki\n\nAnimation Director\n\n']
+animePopularity	3725
+animeDescription	"The first short story focuses on Favaro and Kaiser between the events of the first and second series as they visit Favaro's home village. 
+
+The second short story shows Kaiser as a knight commander sparring with Jeanne, and sharing the reasons they remained as Orleans Knights in the aftermath of the final battle against Bahamut."
+animeRelated	['Shingeki no Bahamut: Genesis', 'Shingeki no Bahamut: Virgin Soul']
+animeCharacters	"['Leone, Favaro', 'Lidfard, Kaisar', ""d'Arc, Jeanne"", 'Leone, Bunyan']"
+animeVoices	['Yoshino, Hiroyuki', 'Inoue, Gou', 'Han, Megumi', 'Hayashibara, Megumi']
+animeStaff	[['Kanno, Toshiyuki', 'Animation Director']]

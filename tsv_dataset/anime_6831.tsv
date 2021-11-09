@@ -1,5 +1,5 @@
-animeTitle	b'Argento Soma Special'
-animeType	b'Special'
+animeTitle	Argento Soma Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	6.37
 animeUsers	1523
 animeRank	
-animePopularity	
-animeDescription	b'The pilot Sue Harris goes to a mission on a frozen country, there she suffers an accident on the mountains and her life is in severe danger. Trying to survive on the harsh enviroment, she encounters an alien and engages in combat with it. The two beings will use all means possible to escape of that dead trap alive.\n'
-animeRelated	[b'Argento Soma']
-animeCharacters	[b'Harris, Sue', b'Green, Guinevere', b'Heartland, Michael', b'Ines, Lana', b'Simmons, Dan']
-animeVoices	[b'\nHorie, Yui\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nSayuri\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurase, Shukou\n\nCharacter Design\n\n', b'\nAbe, Misao\n\nKey Animation\n\n', b'\nKawazoe, Masakazu\n\nKey Animation\n\n']
+animePopularity	7962
+animeDescription	"The pilot Sue Harris goes to a mission on a frozen country, there she suffers an accident on the mountains and her life is in severe danger. Trying to survive on the harsh enviroment, she encounters an alien and engages in combat with it. The two beings will use all means possible to escape of that dead trap alive.
+"
+animeRelated	['Argento Soma']
+animeCharacters	['Harris, Sue', 'Green, Guinevere', 'Heartland, Michael', 'Ines, Lana', 'Simmons, Dan']
+animeVoices	['Horie, Yui', 'Inoue, Kikuko', 'Nakata, Jouji', 'Sayuri', 'Koyasu, Takehito']
+animeStaff	[['Murase, Shukou', 'Character Design'], ['Abe, Misao', 'Key Animation'], ['Kawazoe, Masakazu', 'Key Animation']]

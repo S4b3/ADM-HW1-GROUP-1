@@ -1,5 +1,5 @@
-animeTitle	b'Sengoku Kitan Youtouden'
-animeType	b'OVA'
+animeTitle	Sengoku Kitan Youtouden
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.98
 animeUsers	567
 animeRank	
-animePopularity	
-animeDescription	"b""In the year 1580, a man named Lord Nobunaga Oda sends hoards of unholy armies across Japan, slaying all who stand in their way. A young ninja escapes her villages' destruction with a short sword, one of the three mystical weapons that can end Oda's rule. During her quest, she is joined by two other ninjas who wield the other two weapons of legend, the sacred sword and spear. \n\n(Source: ANN) """
-animeRelated	[b'Sengoku Kitan Youtouden Movie']
-animeCharacters	"[b'Hayami, Ayame', b'Mori, Ranmaru', b'Sakon, Hayate', b'Oda, Nobunaga', b'Kogure, Ryouma', b'Fuma Ninja 2', b'Fuma Ninja 1', b'Fuma Ninja 3', b""Gen'yusai"", b'Kayo']"
-animeVoices	[b'\nToda, Keiko\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nWatabe, Takeshi\nJapanese\n', b'\nYoshida, Miho\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamasaki, Osamu\n\nDirector\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n', b'\nTsuruyama, Osamu\n\nStoryboard\n\n', b'\nSasaji, Masanori\n\nTheme Song Composition, Theme Song Arrangement\n\n']
+animePopularity	9364
+animeDescription	"In the year 1580, a man named Lord Nobunaga Oda sends hoards of unholy armies across Japan, slaying all who stand in their way. A young ninja escapes her villages' destruction with a short sword, one of the three mystical weapons that can end Oda's rule. During her quest, she is joined by two other ninjas who wield the other two weapons of legend, the sacred sword and spear. 
+
+(Source: ANN) "
+animeRelated	['Sengoku Kitan Youtouden Movie']
+animeCharacters	"['Hayami, Ayame', 'Mori, Ranmaru', 'Sakon, Hayate', 'Oda, Nobunaga', 'Kogure, Ryouma', 'Fuma Ninja 2', 'Fuma Ninja 1', 'Fuma Ninja 3', ""Gen'yusai"", 'Kayo']"
+animeVoices	['Toda, Keiko', 'Shiozawa, Kaneto', 'Inoue, Kazuhiko', 'Yao, Kazuki', 'Watabe, Takeshi', 'Yoshida, Miho']
+animeStaff	[['Yamasaki, Osamu', 'Director'], ['Honda, Yasunori', 'Sound Director'], ['Tsuruyama, Osamu', 'Storyboard'], ['Sasaji, Masanori', 'Theme Song Composition, Theme Song Arrangement']]

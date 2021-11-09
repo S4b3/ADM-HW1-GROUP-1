@@ -1,5 +1,5 @@
-animeTitle	b'Astarotte no Omocha! EX'
-animeType	b'OVA'
+animeTitle	Astarotte no Omocha! EX
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.62
 animeUsers	17176
 animeRank	
-animePopularity	
-animeDescription	"b""The OVA Astaroette no Omocha is a three part short story series. In the first story, Lotte and Asuha find themselves searching for details about their school project. In the second bit, is the backstory to how Zelda came to be Lotte's bodyguard. The final of the three, is a flashback of how the queen met Naoya and how they conceived Asuha ten years prior to the events in the anime.\n\n(Source: ANN)"""
-animeRelated	[b'Rotte no Omocha!', b'Astarotte no Omocha!']
-animeCharacters	[b'Ygvar, Astarotte', b'Touhara, Asuha', b'Ygvar, Mercelida', b'Touhara, Naoya', b'Sorveig Sorgrims, Ingrid', b'Reginhard, Griselda', b'Mirjasdottir, Elfreda', b'Snorrevik, Judith', b'Signar, Unnbjorg', b'Frismar, Olaf']
-animeVoices	[b'\nKugimiya, Rie\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n', b'\nCho\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOizaki, Fumitoshi\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nMieno, Hitomi\n\nScript, Series Composition\n\n', b'\nKouno, Takamitsu\n\nScript\n\n']
+animePopularity	3090
+animeDescription	"The OVA Astaroette no Omocha is a three part short story series. In the first story, Lotte and Asuha find themselves searching for details about their school project. In the second bit, is the backstory to how Zelda came to be Lotte's bodyguard. The final of the three, is a flashback of how the queen met Naoya and how they conceived Asuha ten years prior to the events in the anime.
+
+(Source: ANN)"
+animeRelated	['Rotte no Omocha!', 'Astarotte no Omocha!']
+animeCharacters	['Ygvar, Astarotte', 'Touhara, Asuha', 'Ygvar, Mercelida', 'Touhara, Naoya', 'Sorveig Sorgrims, Ingrid', 'Reginhard, Griselda', 'Mirjasdottir, Elfreda', 'Snorrevik, Judith', 'Signar, Unnbjorg', 'Frismar, Olaf']
+animeVoices	['Kugimiya, Rie', 'Tamura, Yukari', 'Minaguchi, Yuko', 'Satou, Rina', 'Saitou, Chiwa', 'Fujimura, Ayumi', 'Horie, Yui', 'Nabatame, Hitomi', 'Hirohashi, Ryou', 'Cho']
+animeStaff	[['Oizaki, Fumitoshi', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Mieno, Hitomi', 'Script, Series Composition'], ['Kouno, Takamitsu', 'Script']]

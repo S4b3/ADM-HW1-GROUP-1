@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori'
-animeType	b'Special'
+animeTitle	Lupin III: Tenshi no Tactics - Yume no Kakera wa Koroshi no Kaori
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.04
 animeUsers	2277
 animeRank	
-animePopularity	
-animeDescription	"b'Stolen from the famous ""secret"" Air Force base, Area 51, Lupin\'s most recently stolen treasure holds a secret. Four ""Bloody Angels,"" the toughest women Lupin has ever faced, want the treasure for their own terrorist purposes. Meanwhile Zenigata teams up with a female police officer to hunt Lupin and the terrorists down.\n\n(Source: ANN)'"
-animeRelated	[b'Lupin III']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi', b'Bomber Linda', b'Emily', b'Kaoru the Ripper', b'Lady Jo', b'Poison Sophie']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nNaya, Gorou\nJapanese\n', b'\nArai, Satomi\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nAsano, Mayumi\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiya, Shigeyuki\n\nDirector, Storyboard\n\n', b'\nMonkey Punch\n\nOriginal Creator\n\n', b'\nOono, Yuuji\n\nMusic\n\n', b'\nNamura, Hidetoshi\n\nKey Animation\n\n']
+animePopularity	6636
+animeDescription	"Stolen from the famous ""secret"" Air Force base, Area 51, Lupin's most recently stolen treasure holds a secret. Four ""Bloody Angels,"" the toughest women Lupin has ever faced, want the treasure for their own terrorist purposes. Meanwhile Zenigata teams up with a female police officer to hunt Lupin and the terrorists down.
+
+(Source: ANN)"
+animeRelated	['Lupin III']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Bomber Linda', 'Emily', 'Kaoru the Ripper', 'Lady Jo', 'Poison Sophie']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou', 'Arai, Satomi', 'Matsui, Naoko', 'Tanaka, Atsuko', 'Asano, Mayumi', 'Noto, Mamiko']
+animeStaff	[['Miya, Shigeyuki', 'Director, Storyboard'], ['Monkey Punch', 'Original Creator'], ['Oono, Yuuji', 'Music'], ['Namura, Hidetoshi', 'Key Animation']]

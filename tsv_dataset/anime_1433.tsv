@@ -1,5 +1,5 @@
-animeTitle	b'Mashiro no Oto'
-animeType	b'TV'
+animeTitle	Mashiro no Oto
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.56
 animeUsers	39942
 animeRank	
-animePopularity	
-animeDescription	"b""Setsu Sawamura runs away from his small home village following the death of his grandfather, the legendary shamisen master Matsugorou Sawamura. On his deathbed, Matsugorou told Setsu to give up the shamisen if he was only going to imitate others instead of playing in his own way. Grieving, Setsu heads for Tokyo, hoping that the big city can inspire him to discover his own unique playing style. But Tokyo defies his expectations by drowning out all other sounds with the deafening noise of its city life. \n\nConcerned about her son, Setsu's rich and successful mother, Umeko, waltzes back into his life and forces him to enroll in Umezono Academy. At the school, he meets Shuri Maeda, a girl who is fascinated by the Tsugaru shamisen and wishes to perform a song her grandmother once heard a long time ago. Shuri starts up a shamisen appreciation club and convinces Setsu to teach the members how to play the instrument. As he becomes more involved with the club, will Setsu be able to recover his love for the shamisen and discover the unique sound he lacks?\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Mashiro no Oto', b'Mashiro no Oto Mini']
-animeCharacters	[b'Sawamura, Setsu', b'Tachiki, Yuna', b'Sawamura, Umeko', b'Kaji, Takaomi', b'Yamano, Sakura', b'Sawamura, Wakana', b'Nagamori, Rai', b'Maeda, Shuri', b'Yamazato, Yui', b'Yaguchi, Kaito']
-animeVoices	[b'\nShimazaki, Nobunaga\nJapanese\n', b'\nAida, Rikako\nJapanese\n', b'\nHonda, Takako\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nTaniguchi, Yuna\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nMiyamoto, Yume\nJapanese\n', b'\nKondou, Reina\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkagi, Hiroaki\n\nDirector\n\n', b'\nKatou, Kanichi\n\nScript\n\n', b'\nBURNOUT SYNDROMES\n\nTheme Song Performance\n\n', b'\nYoshida Brothers\n\nTheme Song Performance\n\n']
+animePopularity	1461
+animeDescription	"Setsu Sawamura runs away from his small home village following the death of his grandfather, the legendary shamisen master Matsugorou Sawamura. On his deathbed, Matsugorou told Setsu to give up the shamisen if he was only going to imitate others instead of playing in his own way. Grieving, Setsu heads for Tokyo, hoping that the big city can inspire him to discover his own unique playing style. But Tokyo defies his expectations by drowning out all other sounds with the deafening noise of its city life. 
+
+Concerned about her son, Setsu's rich and successful mother, Umeko, waltzes back into his life and forces him to enroll in Umezono Academy. At the school, he meets Shuri Maeda, a girl who is fascinated by the Tsugaru shamisen and wishes to perform a song her grandmother once heard a long time ago. Shuri starts up a shamisen appreciation club and convinces Setsu to teach the members how to play the instrument. As he becomes more involved with the club, will Setsu be able to recover his love for the shamisen and discover the unique sound he lacks?
+
+[Written by MAL Rewrite]"
+animeRelated	['Mashiro no Oto', 'Mashiro no Oto Mini']
+animeCharacters	['Sawamura, Setsu', 'Tachiki, Yuna', 'Sawamura, Umeko', 'Kaji, Takaomi', 'Yamano, Sakura', 'Sawamura, Wakana', 'Nagamori, Rai', 'Maeda, Shuri', 'Yamazato, Yui', 'Yaguchi, Kaito']
+animeVoices	['Shimazaki, Nobunaga', 'Aida, Rikako', 'Honda, Takako', 'Kaji, Yuki', 'Taniguchi, Yuna', 'Hosoya, Yoshimasa', 'Suzuki, Tatsuhisa', 'Miyamoto, Yume', 'Kondou, Reina', 'Okamoto, Nobuhiko']
+animeStaff	[['Akagi, Hiroaki', 'Director'], ['Katou, Kanichi', 'Script'], ['BURNOUT SYNDROMES', 'Theme Song Performance'], ['Yoshida Brothers', 'Theme Song Performance']]

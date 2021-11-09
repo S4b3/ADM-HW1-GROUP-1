@@ -1,5 +1,5 @@
-animeTitle	b'Ano Ko ni 1000%'
-animeType	b'OVA'
+animeTitle	Ano Ko ni 1000%
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.15
 animeUsers	1090
 animeRank	
-animePopularity	
-animeDescription	b'Ano Ko ni 1000% is a high school love story. Azusa Kawahara is the soccer team manager, and her love for childhood playmate Ikumi is mutual. Although the whole school knew what was happening between Azusa and Ikumi, there were rivals who came between them.\n\n(Source: Wikipedia)'
-animeRelated	[b'Ano Ko ni 1000%']
-animeCharacters	[b'Kawahara, Azusa', b'Morisaki, Ikumi', b'Kanda, Tamotsu']
-animeVoices	[b'\nOnodera, Keiko\nJapanese\n', b'\nAnbe, Atsushi\nJapanese\n', b'\nHorimoto, Hitoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nKitagawa, Miyuki\n\nOriginal Creator\n\n', b'\nHarada, Souichirou\n\nMusic\n\n', b'\nIzawa, Harumi\n\nKey Animation, Animation Director, Character Design\n\n']
+animePopularity	9197
+animeDescription	"Ano Ko ni 1000% is a high school love story. Azusa Kawahara is the soccer team manager, and her love for childhood playmate Ikumi is mutual. Although the whole school knew what was happening between Azusa and Ikumi, there were rivals who came between them.
+
+(Source: Wikipedia)"
+animeRelated	['Ano Ko ni 1000%']
+animeCharacters	['Kawahara, Azusa', 'Morisaki, Ikumi', 'Kanda, Tamotsu']
+animeVoices	['Onodera, Keiko', 'Anbe, Atsushi', 'Horimoto, Hitoshi']
+animeStaff	[['Fujiyama, Fusanobu', 'Sound Director'], ['Kitagawa, Miyuki', 'Original Creator'], ['Harada, Souichirou', 'Music'], ['Izawa, Harumi', 'Key Animation, Animation Director, Character Design']]

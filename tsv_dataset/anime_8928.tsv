@@ -1,5 +1,5 @@
-animeTitle	b'Zegapain ADP'
-animeType	b'Movie'
+animeTitle	Zegapain ADP
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.93
 animeUsers	220
 animeRank	
-animePopularity	
-animeDescription	b'Animation studio Sunrise has announced at AnimeJapan 2016 that its 2006 mecha anime series Zegapain will be re-edited into a movie titled Zegapain ADP. The movie will also include new scenes not present in the TV anime.\n\n(Source: MAL News)'
-animeRelated	[b'Zegapain']
-animeCharacters	[b'Kaminagi, Ryouko', b'Sogoru, Kyou', b'Misaki, Shizuno', b'Mao, Lu Sheng', b'Shima', b'Jen, May-Yu', b'May-Yen']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nAsanuma, Shintaro\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nTsuboi, Tomohiro\nJapanese\n', b'\nMakino, Yui\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamakawa, Norio\n\nProducer\n\n', b'\nHamano, Takatoshi\n\nSound Director\n\n', b'\nArai, Akino\n\nTheme Song Performance\n\n', b'\nShibata, Akiko\n\nColor Design\n\n']
+animePopularity	8470
+animeDescription	"Animation studio Sunrise has announced at AnimeJapan 2016 that its 2006 mecha anime series Zegapain will be re-edited into a movie titled Zegapain ADP. The movie will also include new scenes not present in the TV anime.
+
+(Source: MAL News)"
+animeRelated	['Zegapain']
+animeCharacters	['Kaminagi, Ryouko', 'Sogoru, Kyou', 'Misaki, Shizuno', 'Mao, Lu Sheng', 'Shima', 'Jen, May-Yu', 'May-Yen']
+animeVoices	['Hanazawa, Kana', 'Asanuma, Shintaro', 'Kawasumi, Ayako', 'Park, Romi', 'Tsuboi, Tomohiro', 'Makino, Yui', 'Watanabe, Akeno']
+animeStaff	[['Yamakawa, Norio', 'Producer'], ['Hamano, Takatoshi', 'Sound Director'], ['Arai, Akino', 'Theme Song Performance'], ['Shibata, Akiko', 'Color Design']]

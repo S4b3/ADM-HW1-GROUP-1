@@ -1,5 +1,5 @@
-animeTitle	b'Uchuu Senkan Yamato: Fukkatsu-hen'
-animeType	b'Movie'
+animeTitle	Uchuu Senkan Yamato: Fukkatsu-hen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.01
 animeUsers	1230
 animeRank	
-animePopularity	
-animeDescription	b'A crisis is approaching Earth with the expansion of a moving black hole, in the year 2220. A plan is devised to move over 300-million people from Earth. When the latest transportation fleet is attacked, Space Battleship Yamato comes to its defense, the ship is now commanded by Susumu Kodai, also aboard is daughter Miyuki, child of Susumu and Yuki. \n\n(Source: FUNimation) '
-animeRelated	[b'Uchuu Senkan Yamato: Kanketsu-hen']
-animeCharacters	[b'Kodai, Susumu', b'Sanada, Shirou', b'Mori, Yuki', b'Analyzer', b'Sado, Sakezou', b'Shima, Jiro', b'Oota, Kenjirou', b'Tokugawa, Tasuke', b'Kodai, Miyuki']
-animeVoices	[b'\nYamadera, Kouichi\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishizaki, Yoshinobu\n\nDirector, Original Creator\n\n', b'\nShirato, Takeshi\n\nDirector, Storyboard\n\n', b'\nYoshida, Tomohiro\n\nSound Director\n\n', b'\nHabara, Nobuyoshi\n\nStoryboard, Animation Director\n\n']
+animePopularity	7822
+animeDescription	"A crisis is approaching Earth with the expansion of a moving black hole, in the year 2220. A plan is devised to move over 300-million people from Earth. When the latest transportation fleet is attacked, Space Battleship Yamato comes to its defense, the ship is now commanded by Susumu Kodai, also aboard is daughter Miyuki, child of Susumu and Yuki. 
+
+(Source: FUNimation) "
+animeRelated	['Uchuu Senkan Yamato: Kanketsu-hen']
+animeCharacters	['Kodai, Susumu', 'Sanada, Shirou', 'Mori, Yuki', 'Analyzer', 'Sado, Sakezou', 'Shima, Jiro', 'Oota, Kenjirou', 'Tokugawa, Tasuke', 'Kodai, Miyuki']
+animeVoices	['Yamadera, Kouichi', 'Aono, Takeshi', 'Ogata, Kenichi', 'Nagai, Ichiro', 'Okiayu, Ryoutarou', 'Furuya, Toru', 'Fujimura, Ayumi']
+animeStaff	[['Nishizaki, Yoshinobu', 'Director, Original Creator'], ['Shirato, Takeshi', 'Director, Storyboard'], ['Yoshida, Tomohiro', 'Sound Director'], ['Habara, Nobuyoshi', 'Storyboard, Animation Director']]

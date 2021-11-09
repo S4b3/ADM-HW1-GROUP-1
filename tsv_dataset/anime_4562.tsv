@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon Sun & Moon'
-animeType	b'TV'
+animeTitle	Pokemon Sun & Moon
+animeType	TV
 animeNumEpisode	146
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.81
 animeUsers	33557
 animeRank	
-animePopularity	
-animeDescription	"b""After his mother wins a free trip to the islands, Pokemon trainer Satoshi and his partner Pikachu head for Melemele Island of the beautiful Alola region, which is filled with lots of new Pokemon and even variations of familiar faces. Eager to explore the island, Satoshi and Pikachu run wild with excitement, quickly losing their way while chasing after a Pokemon. The pair eventually stumbles upon the Pokemon School, an institution where students come to learn more about these fascinating creatures.\n\nAt the school, when he and one of the students\xe2\x80\x94the no-nonsense Kaki\xe2\x80\x94have a run-in with the nefarious thugs of Team Skull, Satoshi discovers the overwhelming might of the Z-Moves, powerful attacks originating from the Alola region that require the trainer and Pokemon to be in sync. Later that night, he and Pikachu have an encounter with the guardian deity Pokemon of Melemele Island, the mysterious Kapu Kokeko. The Pokemon of legend bestows upon them a Z-Ring, a necessary tool in using the Z-Moves. Dazzled by his earlier battle and now in possession of a Z-Ring, Satoshi and Pikachu decide to stay behind in the Alola Region to learn and master the strength of these powerful new attacks.\n\nEnrolling in the Pokemon School, Satoshi is joined by classmates such as Lillie, who loves Pokemon but cannot bring herself to touch them, Kaki, and many others. Between attending classes, fending off the pesky Team Rocket\xe2\x80\x94who themselves have arrived in Alola to pave the way for their organization's future plans\xe2\x80\x94and taking on the Island Challenge that is necessary to master the Z-Moves, Satoshi and Pikachu are in for an exciting new adventure.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Pokemon XY&Z', b'Pokemon Movie 20: Kimi ni Kimeta!', b'Eievui to Colorful Friends', b'Toho Cinemas x Pokemon Go', b'Pokemon Movie 21: Minna no Monogatari', b'Pokemon Movie 22: Mewtwo no Gyakushuu Evolution', b'Pokemon (2019)']
-animeCharacters	[b'Pikachu', b'Satoshi', b'Lillie', b'Suiren', b'Mao', b'Kaki', b'Maamane', b'Kojirou', b'Takeshi', b'Kasumi']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nShindou, Kei\nJapanese\n', b'\nKikuchi, Hitomi\nJapanese\n', b'\nUeda, Reina\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nTakekuma, Fumiko\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nTomiyasu, Daiki\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nSekine, Ayumi\n\nScript\n\n']
+animePopularity	1830
+animeDescription	"After his mother wins a free trip to the islands, Pokemon trainer Satoshi and his partner Pikachu head for Melemele Island of the beautiful Alola region, which is filled with lots of new Pokemon and even variations of familiar faces. Eager to explore the island, Satoshi and Pikachu run wild with excitement, quickly losing their way while chasing after a Pokemon. The pair eventually stumbles upon the Pokemon School, an institution where students come to learn more about these fascinating creatures.
+
+At the school, when he and one of the students—the no-nonsense Kaki—have a run-in with the nefarious thugs of Team Skull, Satoshi discovers the overwhelming might of the Z-Moves, powerful attacks originating from the Alola region that require the trainer and Pokemon to be in sync. Later that night, he and Pikachu have an encounter with the guardian deity Pokemon of Melemele Island, the mysterious Kapu Kokeko. The Pokemon of legend bestows upon them a Z-Ring, a necessary tool in using the Z-Moves. Dazzled by his earlier battle and now in possession of a Z-Ring, Satoshi and Pikachu decide to stay behind in the Alola Region to learn and master the strength of these powerful new attacks.
+
+Enrolling in the Pokemon School, Satoshi is joined by classmates such as Lillie, who loves Pokemon but cannot bring herself to touch them, Kaki, and many others. Between attending classes, fending off the pesky Team Rocket—who themselves have arrived in Alola to pave the way for their organization's future plans—and taking on the Island Challenge that is necessary to master the Z-Moves, Satoshi and Pikachu are in for an exciting new adventure.
+
+[Written by MAL Rewrite]"
+animeRelated	['Pokemon XY&Z', 'Pokemon Movie 20: Kimi ni Kimeta!', 'Eievui to Colorful Friends', 'Toho Cinemas x Pokemon Go', 'Pokemon Movie 21: Minna no Monogatari', 'Pokemon Movie 22: Mewtwo no Gyakushuu Evolution', 'Pokemon (2019)']
+animeCharacters	['Pikachu', 'Satoshi', 'Lillie', 'Suiren', 'Mao', 'Kaki', 'Maamane', 'Kojirou', 'Takeshi', 'Kasumi']
+animeVoices	['Ootani, Ikue', 'Matsumoto, Rica', 'Shindou, Kei', 'Kikuchi, Hitomi', 'Ueda, Reina', 'Ishikawa, Kaito', 'Takekuma, Fumiko', 'Miki, Shinichiro', 'Ueda, Yuuji', 'Iizuka, Mayumi']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Tomiyasu, Daiki', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Sekine, Ayumi', 'Script']]

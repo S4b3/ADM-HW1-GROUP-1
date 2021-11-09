@@ -1,5 +1,5 @@
-animeTitle	b'Alexander Senki'
-animeType	b'TV'
+animeTitle	Alexander Senki
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.7
 animeUsers	2763
 animeRank	
-animePopularity	
-animeDescription	"b'In 356 BC, Alexander the Great arrives in Greece with the ominous destiny that he will become the ""destroyer of the world."" Inheriting the crown, he becomes king of the Macedonians and starts down a road of conquest with terrific speed. Alexander ultimately confronts his fated nemesis, Darius the Third, in a war with Persia which changes Alexander into the devil he was fated to become, assuring the destruction of all in his path, and possibly himself.\n\n(Source: TBS Global Business)'"
-animeRelated	[b'Alexander Senki Movie']
-animeCharacters	[b'Alexander', b'Diogenes', b'Hephaestion', b'Philippos', b'Cleitus', b'Roxanne', b'Cassandra', b'Demosthenes', b'Attalos', b'Antipater']
-animeVoices	[b'\nSeki, Toshihiko\nJapanese\n', b'\nKumakura, Kazuo\nJapanese\n', b'\nTsujitani, Kouji\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nSugou, Takayuki\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nOoki, Tamio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nRintaro\n\nCo-Director, Producer\n\n', b'\nKanemori, Yoshinori\n\nCo-Director\n\n', b'\nMaruyama, Masao\n\nProducer\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n']
+animePopularity	6116
+animeDescription	"In 356 BC, Alexander the Great arrives in Greece with the ominous destiny that he will become the ""destroyer of the world."" Inheriting the crown, he becomes king of the Macedonians and starts down a road of conquest with terrific speed. Alexander ultimately confronts his fated nemesis, Darius the Third, in a war with Persia which changes Alexander into the devil he was fated to become, assuring the destruction of all in his path, and possibly himself.
+
+(Source: TBS Global Business)"
+animeRelated	['Alexander Senki Movie']
+animeCharacters	['Alexander', 'Diogenes', 'Hephaestion', 'Philippos', 'Cleitus', 'Roxanne', 'Cassandra', 'Demosthenes', 'Attalos', 'Antipater']
+animeVoices	['Seki, Toshihiko', 'Kumakura, Kazuo', 'Tsujitani, Kouji', 'Furuya, Toru', 'Ootsuka, Houchuu', 'Minaguchi, Yuko', 'Tanaka, Atsuko', 'Sugou, Takayuki', 'Aono, Takeshi', 'Ooki, Tamio']
+animeStaff	[['Rintaro', 'Co-Director, Producer'], ['Kanemori, Yoshinori', 'Co-Director'], ['Maruyama, Masao', 'Producer'], ['Honda, Yasunori', 'Sound Director']]

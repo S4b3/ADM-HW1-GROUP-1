@@ -1,5 +1,5 @@
-animeTitle	b'Suteki Tantei Labyrinth'
-animeType	b'TV'
+animeTitle	Suteki Tantei Labyrinth
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.71
 animeUsers	1872
 animeRank	
-animePopularity	
-animeDescription	b'In a forgotten town known as the old capital of Tokyo, strange and mysterious crimes are progressively occuring. These supernatural occurances are beyond comprehension and bring fear and terror to the people. Only one person is not intimidated by the evil underlying these occurances and is willing to challenge them: Hyuga Mayuki, a young boy detective who holds a special insight power that allows him to uncover the real truth behind these occurances. \n\n(Source: ANN)'
-animeRelated	[b'Suteki Tantei Labyrinth']
-animeCharacters	[b'Shinano, Seiran', b'Hyuga, Mayuki', b'Mieno, Hatsumi', b'Koga, Rakuta', b'Yatomi, Yae', b'Izumi, Sanae', b'Izumi, Minori', b'Koga, Kouta', b'Byakko', b'Tomaru, Miyako']
-animeVoices	[b'\nSuwabe, Junichi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n', b'\nInoue, Nana\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Hiroshi\n\nDirector, Episode Director, Storyboard, Key Animation\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nNamura, Hidetoshi\n\nStoryboard\n\n', b'\nWatanabe, Masaki\n\nStoryboard\n\n']
+animePopularity	5517
+animeDescription	"In a forgotten town known as the old capital of Tokyo, strange and mysterious crimes are progressively occuring. These supernatural occurances are beyond comprehension and bring fear and terror to the people. Only one person is not intimidated by the evil underlying these occurances and is willing to challenge them: Hyuga Mayuki, a young boy detective who holds a special insight power that allows him to uncover the real truth behind these occurances. 
+
+(Source: ANN)"
+animeRelated	['Suteki Tantei Labyrinth']
+animeCharacters	['Shinano, Seiran', 'Hyuga, Mayuki', 'Mieno, Hatsumi', 'Koga, Rakuta', 'Yatomi, Yae', 'Izumi, Sanae', 'Izumi, Minori', 'Koga, Kouta', 'Byakko', 'Tomaru, Miyako']
+animeVoices	['Suwabe, Junichi', 'Sawashiro, Miyuki', 'Ueda, Kana', 'Inoue, Marina', 'Satou, Satomi', 'Yuzuki, Ryouka', 'Inoue, Nana', 'Park, Romi', 'Horie, Yui', 'Ohara, Sayaka']
+animeStaff	[['Watanabe, Hiroshi', 'Director, Episode Director, Storyboard, Key Animation'], ['Hata, Shouji', 'Sound Director'], ['Namura, Hidetoshi', 'Storyboard'], ['Watanabe, Masaki', 'Storyboard']]

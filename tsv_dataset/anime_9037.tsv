@@ -1,5 +1,5 @@
-animeTitle	b'Time Bokan 24'
-animeType	b'TV'
+animeTitle	Time Bokan 24
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.9
 animeUsers	762
 animeRank	
-animePopularity	
-animeDescription	"b'Tokio is a junior high student living in the present time who is recruited to be a member of the 24th century\'s Space-Time Administration Bureau. Together with his partner Calen, their mission is to uncover the ""True History"", the part of history that the textbooks doesn\'t tell. But in their way is the Akudama Trio that intends to prevent the True History from being revealed for their own personal gains.\n\n(Source: Wikipedia)'"
-animeRelated	[b'Time Bokan', b'Time Bokan: Gyakushuu no San Akunin', b'Gekiyaba\xe2\x88\x9eBokkan!!']
-animeCharacters	[b'Calen', b'Tokio', b'Bimajo', b'Tsubuyakky', b'President Nixon', b'Peralino', b'The President', b'Son, Gokuu', b'Okita, Souji', b'Kondou, Isami']
-animeVoices	[b'\nKitou, Akari\nJapanese\n', b'\nWakayama, Akihisa\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nMaeda, Takeshi\nJapanese\n', b'\nNose, Ikuji\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nChiba, Susumu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nInagaki, Takayuki\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nTanemura, Ayataka\n\nEpisode Director\n\n', b'\nSatou, Yuuzou\n\nEpisode Director, Storyboard\n\n']
+animePopularity	7397
+animeDescription	"Tokio is a junior high student living in the present time who is recruited to be a member of the 24th century's Space-Time Administration Bureau. Together with his partner Calen, their mission is to uncover the ""True History"", the part of history that the textbooks doesn't tell. But in their way is the Akudama Trio that intends to prevent the True History from being revealed for their own personal gains.
+
+(Source: Wikipedia)"
+animeRelated	['Time Bokan', 'Time Bokan: Gyakushuu no San Akunin', 'Gekiyaba∞Bokkan!!']
+animeCharacters	['Calen', 'Tokio', 'Bimajo', 'Tsubuyakky', 'President Nixon', 'Peralino', 'The President', 'Son, Gokuu', 'Okita, Souji', 'Kondou, Isami']
+animeVoices	['Kitou, Akari', 'Wakayama, Akihisa', 'Kitamura, Eri', 'Hirata, Hiroaki', 'Matsumoto, Yasunori', 'Maeda, Takeshi', 'Nose, Ikuji', 'Sakaguchi, Daisuke', 'Kakihara, Tetsuya', 'Chiba, Susumu']
+animeStaff	[['Inagaki, Takayuki', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Tanemura, Ayataka', 'Episode Director'], ['Satou, Yuuzou', 'Episode Director, Storyboard']]

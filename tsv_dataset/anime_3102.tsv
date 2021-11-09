@@ -1,5 +1,5 @@
-animeTitle	b'Monster Musume no Iru Nichijou OVA'
-animeType	b'OVA'
+animeTitle	Monster Musume no Iru Nichijou OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	7.15
 animeUsers	47560
 animeRank	
-animePopularity	
-animeDescription	"b""During a physical exam, Miia, Centorea, and Mero discover that they have gained too much weight due to Kimihito Kurusu's delicious cooking. To remedy this, Polt offers them first use of her new pool and gym facility before its grand opening. However, it's not all fun and games, as the three girls' competitive spirits start to flare up!\n\nMeanwhile, when Rachnera Arachnera receives a letter from her previous host family, she finds out that they would like to meet with her and apologize for the events that caused her transfer. But, as it turns out, not only do they want to apologize, they want her back as well! When the family's daughter, Ren Kunanzuki, shows up at the front door, the gang must convince her to let Rachnera stay at Kimihito's house. \n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Monster Musume no Iru Nichijou']
-animeCharacters	[b'Miia', b'Arachnera, Rachnera', b'Suu', b'Papi', b'Shianus, Centorea', b'Kurusu, Kimihito', b'Lorelei, Meroune', b'Lala', b'Polt', b'Zombina']
-animeVoices	[b'\nAmamiya, Sora\nJapanese\n', b'\nNakamura, Sakura\nJapanese\n', b'\nNomura, Mayuka\nJapanese\n', b'\nOzawa, Ari\nJapanese\n', b'\nAikawa, Natsuki\nJapanese\n', b'\nMajima, Junji\nJapanese\n', b'\nYamazaki, Haruka\nJapanese\n', b'\nKakuma, Ai\nJapanese\n', b'\nNatsukawa, Shiina\nJapanese\n', b'\nMochizuki, Rei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshihara, Tatsuya\n\nDirector\n\n', b'\nInui, Takemaru\n\nOriginal Creator\n\n', b'\nJones, Kyle\n\nADR Director\n\n', b'\nYaso, Shouta\n\nSound Effects\n\n']
+animePopularity	1717
+animeDescription	"During a physical exam, Miia, Centorea, and Mero discover that they have gained too much weight due to Kimihito Kurusu's delicious cooking. To remedy this, Polt offers them first use of her new pool and gym facility before its grand opening. However, it's not all fun and games, as the three girls' competitive spirits start to flare up!
+
+Meanwhile, when Rachnera Arachnera receives a letter from her previous host family, she finds out that they would like to meet with her and apologize for the events that caused her transfer. But, as it turns out, not only do they want to apologize, they want her back as well! When the family's daughter, Ren Kunanzuki, shows up at the front door, the gang must convince her to let Rachnera stay at Kimihito's house. 
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Monster Musume no Iru Nichijou']
+animeCharacters	['Miia', 'Arachnera, Rachnera', 'Suu', 'Papi', 'Shianus, Centorea', 'Kurusu, Kimihito', 'Lorelei, Meroune', 'Lala', 'Polt', 'Zombina']
+animeVoices	['Amamiya, Sora', 'Nakamura, Sakura', 'Nomura, Mayuka', 'Ozawa, Ari', 'Aikawa, Natsuki', 'Majima, Junji', 'Yamazaki, Haruka', 'Kakuma, Ai', 'Natsukawa, Shiina', 'Mochizuki, Rei']
+animeStaff	[['Yoshihara, Tatsuya', 'Director'], ['Inui, Takemaru', 'Original Creator'], ['Jones, Kyle', 'ADR Director'], ['Yaso, Shouta', 'Sound Effects']]

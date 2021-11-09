@@ -1,5 +1,5 @@
-animeTitle	b'Sei Yariman Gakuen Enkou Nikki The Animation'
-animeType	b'OVA'
+animeTitle	Sei Yariman Gakuen Enkou Nikki The Animation
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.11
 animeUsers	4738
 animeRank	
-animePopularity	
-animeDescription	b'Saiki Yasuo is a 45-year-old office worker. After 20 years of marriage, his wife asked for a divorce and left him. Now, depressed, he spends the nights drinking alone, until one night a girl from the St. Marian Academy approaches him looking for a client.\n\n*Based on a doujin game by Orcsoft.\n\n(Source: VNDB)'
-animeRelated	[b'Sei Yariman Gakuen Enkou Nikki', b'Okusama wa Moto Yariman', b'Shin Sei Yariman Gakuen Enkou Nikki The Animation']
-animeCharacters	[b'Misono, Miho', b'Rei', b'Yasuo, Saiki']
-animeVoices	[b'\nMisonoo, Mei\nJapanese\n', b'\nTezuka, Ryouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishikawa, Takashi\n\nDirector, Character Design\n\n', b'\nOrc Soft\n\nOriginal Creator\n\n', b'\nKatahira, Shinji\n\nArt Director\n\n', b'\nMario\n\nOriginal Character Design\n\n']
+animePopularity	5000
+animeDescription	"Saiki Yasuo is a 45-year-old office worker. After 20 years of marriage, his wife asked for a divorce and left him. Now, depressed, he spends the nights drinking alone, until one night a girl from the St. Marian Academy approaches him looking for a client.
+
+*Based on a doujin game by Orcsoft.
+
+(Source: VNDB)"
+animeRelated	['Sei Yariman Gakuen Enkou Nikki', 'Okusama wa Moto Yariman', 'Shin Sei Yariman Gakuen Enkou Nikki The Animation']
+animeCharacters	['Misono, Miho', 'Rei', 'Yasuo, Saiki']
+animeVoices	['Misonoo, Mei', 'Tezuka, Ryouko']
+animeStaff	[['Nishikawa, Takashi', 'Director, Character Design'], ['Orc Soft', 'Original Creator'], ['Katahira, Shinji', 'Art Director'], ['Mario', 'Original Character Design']]

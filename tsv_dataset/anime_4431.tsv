@@ -1,5 +1,5 @@
-animeTitle	b'Juushin Enbu: Hero Tales'
-animeType	b'TV'
+animeTitle	Juushin Enbu: Hero Tales
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.85
 animeUsers	8591
 animeRank	
-animePopularity	
-animeDescription	"b""For citizens of the Ken Empire, justice is a myth. Lord Keiro, the deranged Shogun of the Imperial Army, blazes a trail of terror across the countryside in search of the sacred sword that will make him a god. Standing in his way is Taito, an omnipotent star reborn in human form\xe2\x80\x94a young hero who vows to use his celestial strength to avenge those slaughtered by the villainous Shogun.\n\nTaito's mystical powers steer him toward a violent showdown with Keiro, and if used recklessly, his newfound abilities could shred the very fabric of his being. To master the art of control and become a heroic martial artist, Taito must seek the guidance of others like him: the seven star-born warriors with the strength to shatter a corrupt empire.\n\n(Source: RightStuf)"""
-animeRelated	[b'Juushin Enbu']
-animeCharacters	[b'Shirei, Taitou', b'Mouten, Ryuukou', b'Meitoku, Housei', b'Seiren, Laila', b'Mougai, Koyo', b'Shokan, Rinmei', b'Hakuho, Keiro', b'Kuju, Kouei', b'Choyo, Shoukaku', b'Taki']
-animeVoices	[b'\nSuzumura, Kenichi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nTai, Yuuki\nJapanese\n', b'\nKanda, Akemi\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nKaida, Yuuko\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSekita, Osamu\n\nDirector\n\n', b'\nShimizu, Youji\n\nSound Director\n\n', b'\nAsami, Matsuo\n\nEpisode Director\n\n', b'\nHigh and Mighty Color\n\nTheme Song Performance, Theme Song Lyrics\n\n']
+animePopularity	3630
+animeDescription	"For citizens of the Ken Empire, justice is a myth. Lord Keiro, the deranged Shogun of the Imperial Army, blazes a trail of terror across the countryside in search of the sacred sword that will make him a god. Standing in his way is Taito, an omnipotent star reborn in human form—a young hero who vows to use his celestial strength to avenge those slaughtered by the villainous Shogun.
+
+Taito's mystical powers steer him toward a violent showdown with Keiro, and if used recklessly, his newfound abilities could shred the very fabric of his being. To master the art of control and become a heroic martial artist, Taito must seek the guidance of others like him: the seven star-born warriors with the strength to shatter a corrupt empire.
+
+(Source: RightStuf)"
+animeRelated	['Juushin Enbu']
+animeCharacters	['Shirei, Taitou', 'Mouten, Ryuukou', 'Meitoku, Housei', 'Seiren, Laila', 'Mougai, Koyo', 'Shokan, Rinmei', 'Hakuho, Keiro', 'Kuju, Kouei', 'Choyo, Shoukaku', 'Taki']
+animeVoices	['Suzumura, Kenichi', 'Sakurai, Takahiro', 'Tai, Yuuki', 'Kanda, Akemi', 'Koyama, Rikiya', 'Kaida, Yuuko', 'Ginga, Banjou', 'Tanaka, Atsuko', 'Hayami, Show', 'Orikasa, Fumiko']
+animeStaff	[['Sekita, Osamu', 'Director'], ['Shimizu, Youji', 'Sound Director'], ['Asami, Matsuo', 'Episode Director'], ['High and Mighty Color', 'Theme Song Performance, Theme Song Lyrics']]

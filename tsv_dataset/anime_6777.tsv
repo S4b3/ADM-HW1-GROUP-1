@@ -1,5 +1,5 @@
-animeTitle	b'Gall Force 2: Destruction'
-animeType	b'OVA'
+animeTitle	Gall Force 2: Destruction
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.38
 animeUsers	1297
 animeRank	
-animePopularity	
-animeDescription	"b""Lufy, discovered floating lifeless in space, is brought on board a Solnoid cruiser and given another chance at life. Once the hardened warrior, she is shown events that shake her faith (one's own death seems to have a way of changing one's philosophy) and lessening her power as a fighter just as that power is most needed! \n\n(Source: AniDB)"""
-animeRelated	[b'Gall Force 1: Eternal Story', b'Gall Force 3: Stardust War']
-animeCharacters	[b'Lufy', b'Catty', b'Amy', b'Shildy', b'Spea']
-animeVoices	[b'\nTsuru, Hiromi\nJapanese\n', b'\nWatanabe, Naoko\nJapanese\n', b'\nHonda, Chieko\nJapanese\n', b'\nKanda, Waka\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHayashi, Hiroki\n\nCo-Director\n\n', b'\nAkiyama, Katsuhito\n\nDirector\n\n', b'\nKakinuma, Hideki\n\nScript\n\n', b'\nOhira, Shinya\n\nKey Animation\n\n']
+animePopularity	8580
+animeDescription	"Lufy, discovered floating lifeless in space, is brought on board a Solnoid cruiser and given another chance at life. Once the hardened warrior, she is shown events that shake her faith (one's own death seems to have a way of changing one's philosophy) and lessening her power as a fighter just as that power is most needed! 
+
+(Source: AniDB)"
+animeRelated	['Gall Force 1: Eternal Story', 'Gall Force 3: Stardust War']
+animeCharacters	['Lufy', 'Catty', 'Amy', 'Shildy', 'Spea']
+animeVoices	['Tsuru, Hiromi', 'Watanabe, Naoko', 'Honda, Chieko', 'Kanda, Waka', 'Mizutani, Yuuko']
+animeStaff	[['Hayashi, Hiroki', 'Co-Director'], ['Akiyama, Katsuhito', 'Director'], ['Kakinuma, Hideki', 'Script'], ['Ohira, Shinya', 'Key Animation']]

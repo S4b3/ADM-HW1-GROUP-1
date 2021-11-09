@@ -1,5 +1,5 @@
-animeTitle	b'Kakumeiki Valvrave 2nd Season'
-animeType	b'TV'
+animeTitle	Kakumeiki Valvrave 2nd Season
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.28
 animeUsers	48747
 animeRank	
-animePopularity	
-animeDescription	"b""Haruto and his comrades continue to fight against the forces of Dorssia. However, many things remain unanswered in the midst of battle, including the past of L-Elf and his fellow soldier's past, the destiny of the mysterious girl Liselotte, and the feelings of Haruto, Shouko, and Saki. The relationships and loyalty of each and every member of each army will be tested as the clash of ideals and power reaches its climax.\n\n(Source: ANN)"""
-animeRelated	[b'Kakumeiki Valvrave']
-animeCharacters	[b'Karlstein, L-elf', b'Rukino, Saki', b'Tokishima, Haruto', b'Sashinami, Shouko', b'Renbokouji, Akira', b'Kirschbaum, A-drei', b'Inuzuka, Kyuuma', b'Q-vier', b'Dorssia, Lieselotte W.', b'H-neun']
-animeVoices	[b'\nKimura, Ryouhei\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n', b'\nSeto, Asami\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nOno, Yuuki\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyakawa, Tomoko\n\nAssistant Producer\n\n', b'\nMatsuo, Kou\n\nDirector, Episode Director, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nGotou, Keiji\n\nEpisode Director, Storyboard, Key Animation\n\n']
+animePopularity	1802
+animeDescription	"Haruto and his comrades continue to fight against the forces of Dorssia. However, many things remain unanswered in the midst of battle, including the past of L-Elf and his fellow soldier's past, the destiny of the mysterious girl Liselotte, and the feelings of Haruto, Shouko, and Saki. The relationships and loyalty of each and every member of each army will be tested as the clash of ideals and power reaches its climax.
+
+(Source: ANN)"
+animeRelated	['Kakumeiki Valvrave']
+animeCharacters	['Karlstein, L-elf', 'Rukino, Saki', 'Tokishima, Haruto', 'Sashinami, Shouko', 'Renbokouji, Akira', 'Kirschbaum, A-drei', 'Inuzuka, Kyuuma', 'Q-vier', 'Dorssia, Lieselotte W.', 'H-neun']
+animeVoices	['Kimura, Ryouhei', 'Tomatsu, Haruka', 'Oosaka, Ryouta', 'Seto, Asami', 'Yuuki, Aoi', 'Fukuyama, Jun', 'Ono, Yuuki', 'Kaji, Yuki', 'Toyosaki, Aki', 'Miyano, Mamoru']
+animeStaff	[['Miyakawa, Tomoko', 'Assistant Producer'], ['Matsuo, Kou', 'Director, Episode Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Gotou, Keiji', 'Episode Director, Storyboard, Key Animation']]

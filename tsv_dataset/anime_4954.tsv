@@ -1,5 +1,5 @@
-animeTitle	b'Aishite Knight'
-animeType	b'TV'
+animeTitle	Aishite Knight
+animeType	TV
 animeNumEpisode	42
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.73
 animeUsers	2664
 animeRank	
-animePopularity	
-animeDescription	"b'Yaeko Mitamura is an 18 year old girl working in her father\'s Okonomiyaki restaurant. One day Yakko casually meets a little boy, Hashizo and his odd cat Juliano. Hashizo has lost both parents when still a baby and has been brought up by his elder brother. Hashizo\'s brother Go Kato is the lead singer of the emerging rock band ""Bee Hive"". When Yakko meets Go and his friend and ""Bee Hive"" member Satomi Okawa an unexpected series of events unfolds. Love, jealousy, rock\'n roll and the sparkle of newly borned stars is what makes this anime so lovable.\n\n(Source: ANN)'"
-animeRelated	[b'Aishite Knight']
-animeCharacters	[b'Mitamura, Yaeko', b'Kato, Go', b'Kato, Hashizo', b'Juliano', b'Mitamura, Shigemaru', b'Okawa, Satomi', b'Sugi, Hiroyuki', b'Kajiwara, Meiko', b'Tono, Eiji']
-animeVoices	[b'\nHorie, Mitsuko\nJapanese\n', b'\nSasaki, Isao\nJapanese\n', b'\nMita, Yuuko\nJapanese\n', b'\nAmenomori, Masashi\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nMori, Katsuji\nJapanese\n', b'\nHori, Hideyuki\nJapanese\n', b'\nKawashima, Chiyoko\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoshi, Shigeo\n\nDirector\n\n', b'\nKasai, Osamu\n\nDirector\n\n', b'\nTomita, Sukehiro\n\nScript\n\n', b'\nHisaishi, Joe\n\nTheme Song Arrangement\n\n']
+animePopularity	6058
+animeDescription	"Yaeko Mitamura is an 18 year old girl working in her father's Okonomiyaki restaurant. One day Yakko casually meets a little boy, Hashizo and his odd cat Juliano. Hashizo has lost both parents when still a baby and has been brought up by his elder brother. Hashizo's brother Go Kato is the lead singer of the emerging rock band ""Bee Hive"". When Yakko meets Go and his friend and ""Bee Hive"" member Satomi Okawa an unexpected series of events unfolds. Love, jealousy, rock'n roll and the sparkle of newly borned stars is what makes this anime so lovable.
+
+(Source: ANN)"
+animeRelated	['Aishite Knight']
+animeCharacters	['Mitamura, Yaeko', 'Kato, Go', 'Kato, Hashizo', 'Juliano', 'Mitamura, Shigemaru', 'Okawa, Satomi', 'Sugi, Hiroyuki', 'Kajiwara, Meiko', 'Tono, Eiji']
+animeVoices	['Horie, Mitsuko', 'Sasaki, Isao', 'Mita, Yuuko', 'Amenomori, Masashi', 'Aono, Takeshi', 'Mori, Katsuji', 'Hori, Hideyuki', 'Kawashima, Chiyoko', 'Shiozawa, Kaneto']
+animeStaff	[['Koshi, Shigeo', 'Director'], ['Kasai, Osamu', 'Director'], ['Tomita, Sukehiro', 'Script'], ['Hisaishi, Joe', 'Theme Song Arrangement']]

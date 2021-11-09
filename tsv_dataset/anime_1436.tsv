@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Fighter G Gundam'
-animeType	b'TV'
+animeTitle	Mobile Fighter G Gundam
+animeType	TV
 animeNumEpisode	49
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.56
 animeUsers	31494
 animeRank	
-animePopularity	
-animeDescription	"b""In the year Future Century 0060, the many countries that once comprised Earth's surface exist as separate colonies floating in space. Their home planet now uninhabitable, the ruler of all of the colonies is decided by their unanimous participation in the intergalactic Gundam Fight Tournament\xe2\x80\x94a series of battles between the champions of each colony to determine who is most fit to reign over them all.\n\nNeo-Japan's champion is Domon Kasshu, a man who accepts the role with some ulterior motives. Domon searches the galaxy for his brother, a criminal who allegedly murdered their mother and made off with the Devil Gundam, a highly advanced weapon with the power to unleash mass destruction across the galaxy. In his quest to bring his sibling to justice, Domon travels from colony to colony, meeting many of the fighters who will become his allies and enemies in the forthcoming Gundam Fight Tournament.\n\nArmed with the strength of the Shining Gundam, Domon battles to uncover the truth behind his tortured childhood, suffering great betrayal and crushing blows on his quest toward personal and national triumph.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kidou Butouden G Gundam', b'Choukyuu! Kidou Butouden G Gundam', b'Mobile Suit Gundam']
-animeCharacters	[b'Kasshu, Domon', b'Mikamura, Rain', b'Master Asia', b'Beardsley, Allenby', b'Bruder, Schwarz', b'Crocket, Chibodee', b'de Sand, George', b'Saici, Sai', b'Gulskii, Argo', b'Kasshu, Kyouji']
-animeVoices	[b'\nSeki, Tomokazu\nJapanese\n', b'\nAmano, Yuri\nJapanese\n', b'\nAkimoto, Yousuke\nJapanese\n', b'\nHidaka, Narumi\nJapanese\n', b'\nHori, Hideyuki\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nUgaki, Hidenari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Hajime\n\nProducer, Original Creator\n\n', b'\nMinami, Masahiko\n\nProducer\n\n', b'\nUeda, Masuo\n\nProducer\n\n', b'\nImagawa, Yasuhiro\n\nDirector, Episode Director, Storyboard\n\n']
+animePopularity	2259
+animeDescription	"In the year Future Century 0060, the many countries that once comprised Earth's surface exist as separate colonies floating in space. Their home planet now uninhabitable, the ruler of all of the colonies is decided by their unanimous participation in the intergalactic Gundam Fight Tournament—a series of battles between the champions of each colony to determine who is most fit to reign over them all.
+
+Neo-Japan's champion is Domon Kasshu, a man who accepts the role with some ulterior motives. Domon searches the galaxy for his brother, a criminal who allegedly murdered their mother and made off with the Devil Gundam, a highly advanced weapon with the power to unleash mass destruction across the galaxy. In his quest to bring his sibling to justice, Domon travels from colony to colony, meeting many of the fighters who will become his allies and enemies in the forthcoming Gundam Fight Tournament.
+
+Armed with the strength of the Shining Gundam, Domon battles to uncover the truth behind his tortured childhood, suffering great betrayal and crushing blows on his quest toward personal and national triumph.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kidou Butouden G Gundam', 'Choukyuu! Kidou Butouden G Gundam', 'Mobile Suit Gundam']
+animeCharacters	['Kasshu, Domon', 'Mikamura, Rain', 'Master Asia', 'Beardsley, Allenby', 'Bruder, Schwarz', 'Crocket, Chibodee', 'de Sand, George', 'Saici, Sai', 'Gulskii, Argo', 'Kasshu, Kyouji']
+animeVoices	['Seki, Tomokazu', 'Amano, Yuri', 'Akimoto, Yousuke', 'Hidaka, Narumi', 'Hori, Hideyuki', 'Ootsuka, Houchuu', 'Yamazaki, Takumi', 'Yamaguchi, Kappei', 'Ugaki, Hidenari']
+animeStaff	[['Yatate, Hajime', 'Producer, Original Creator'], ['Minami, Masahiko', 'Producer'], ['Ueda, Masuo', 'Producer'], ['Imagawa, Yasuhiro', 'Director, Episode Director, Storyboard']]

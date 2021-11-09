@@ -1,5 +1,5 @@
-animeTitle	b'Tonari no Seki-kun Specials'
-animeType	b'Special'
+animeTitle	Tonari no Seki-kun Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	7.46
 animeUsers	16286
 animeRank	
-animePopularity	
-animeDescription	b'Two unaired episodes included in the DVD Set release of Tonari no Seki-kun series.\n\n#1. Field Trip (Rinkan Gakkou) (first volume)\n#2. Snow Playing (Yuki Asobi) (second volume)'
-animeRelated	[b'Tonari no Seki-kun']
-animeCharacters	"[b'Seki, Toshinari', b'Yokoi, Rumi', b'Uzawa, Akiyasu', b'Narrator', b""Uzawa's Friend"", b'Nakama, Yuu', b'Hashino, Tomoka']"
-animeVoices	[b'\nShimono, Hiro\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nShiraishi, Minoru\nJapanese\n', b'\nSakaguchi, Tetsuo\nJapanese\n', b'\nShitara, Mami\nJapanese\n', b'\nKikuchi, Kokoro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMutou, Yuuji\n\nDirector\n\n', b'\nMorishige, Takuma\n\nOriginal Creator\n\n']
+animePopularity	3360
+animeDescription	"Two unaired episodes included in the DVD Set release of Tonari no Seki-kun series.
+
+#1. Field Trip (Rinkan Gakkou) (first volume)
+#2. Snow Playing (Yuki Asobi) (second volume)"
+animeRelated	['Tonari no Seki-kun']
+animeCharacters	"['Seki, Toshinari', 'Yokoi, Rumi', 'Uzawa, Akiyasu', 'Narrator', ""Uzawa's Friend"", 'Nakama, Yuu', 'Hashino, Tomoka']"
+animeVoices	['Shimono, Hiro', 'Hanazawa, Kana', 'Shiraishi, Minoru', 'Sakaguchi, Tetsuo', 'Shitara, Mami', 'Kikuchi, Kokoro']
+animeStaff	[['Mutou, Yuuji', 'Director'], ['Morishige, Takuma', 'Original Creator']]

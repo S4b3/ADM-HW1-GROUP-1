@@ -1,5 +1,5 @@
-animeTitle	b'T.P. Sakura: Time Paladin Sakura'
-animeType	b'OVA'
+animeTitle	T.P. Sakura: Time Paladin Sakura
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.9
 animeUsers	1498
 animeRank	
-animePopularity	
-animeDescription	"b""The project is a spinoff from Circus's D.C. Da Capo franchise and features the Yoshino Sakura character as a seemingly ordinary third grader with secret special powers.\n\n(Source: AniDB)"""
-animeRelated	[b'D.C.: Da Capo']
-animeCharacters	[b'Yoshino, Sakura', b'Suginami', b'Asakura, Junichi', b'Shirakawa, Kotori', b'Asakura, Nemu', b'Mizukoshi, Moe', b'Amakase, Miharu', b'Mizukoshi, Mako', b'Tsukishiro, Alice']
-animeVoices	[b'\nMimori, Suzuko\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nNitta, Emi\nJapanese\n', b'\nYonezawa, Madoka\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nItou, Kanae\nJapanese\n', b'\nEnoki, Azusa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKidani, Takaaki\n\nProducer\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nSatou, Hikaru\n\nEpisode Director\n\n', b'\nSasaki, Sayaka\n\nTheme Song Performance\n\n']
+animePopularity	7555
+animeDescription	"The project is a spinoff from Circus's D.C. Da Capo franchise and features the Yoshino Sakura character as a seemingly ordinary third grader with secret special powers.
+
+(Source: AniDB)"
+animeRelated	['D.C.: Da Capo']
+animeCharacters	['Yoshino, Sakura', 'Suginami', 'Asakura, Junichi', 'Shirakawa, Kotori', 'Asakura, Nemu', 'Mizukoshi, Moe', 'Amakase, Miharu', 'Mizukoshi, Mako', 'Tsukishiro, Alice']
+animeVoices	['Mimori, Suzuko', 'Kishio, Daisuke', 'Nitta, Emi', 'Yonezawa, Madoka', 'Taketatsu, Ayana', 'Itou, Kanae', 'Enoki, Azusa']
+animeStaff	[['Kidani, Takaaki', 'Producer'], ['Ebina, Yasunori', 'Sound Director'], ['Satou, Hikaru', 'Episode Director'], ['Sasaki, Sayaka', 'Theme Song Performance']]

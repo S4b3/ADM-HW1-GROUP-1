@@ -1,5 +1,5 @@
-animeTitle	b'Macross: Do You Remember Love?'
-animeType	b'Movie'
+animeTitle	Macross: Do You Remember Love?
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.96
 animeUsers	19156
 animeRank	
-animePopularity	
-animeDescription	"b""After warping light-years away from Earth, the spacecraft Macross carries a city of civilians and soldiers back home. They continuously fight off the threat of the Zentradi and Meltrandi, giant alien races with whom humanity wages war. \n\nDuring a battle, the Macross transforms into a mecha operated by fighter pilot Hikaru Ichijou. Thrust into a number of hardships, Hikaru grows close to the city's idol Minmay Lynn. As their relationship develops, however, it is viewed unfavorably by others due to Minmay's status and popularity.\n\nWith war raging on and the state of Earth unknown, Hikaru and his fellow soldiers fight on against their mysterious enemies. Throughout the bloodshed, Hikaru and Minmay attempt to keep hold of their feelings for one another. Minmay pours her heart into her music, which may just turn out to be the key to finding peace.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Macross', b'Macross II: Lovers Again', b'Macross Flash Back 2012']
-animeCharacters	[b'Hayase, Misa', b'Lynn, Minmay', b'Ichijou, Hikaru', b'Focker, Roy', b'Jenius, Maximilian', b'Fallyna, Milia', b'Global, Bruno J.', b'Milliome, Shammy', b'Kridanik, Vrlitwhai', b'La Salle, Claudia']
-animeVoices	[b'\nDoi, Mika\nJapanese\n', b'\nIijima, Mari\nJapanese\n', b'\nHase, Arihiro\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nTakeda, Eri\nJapanese\n', b'\nHazama, Michio\nJapanese\n', b'\nMiyuki, Sanae\nJapanese\n', b'\nKanie, Eiji\nJapanese\n', b'\nOhara, Noriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawamori, Shouji\n\nDirector, Mechanical Design\n\n', b'\nIshiguro, Noboru\n\nDirector\n\n', b'\nAkiyama, Katsuhito\n\nDirector\n\n', b'\nItano, Ichirou\n\nStoryboard, Animation Director, Key Animation, In-Between Animation\n\n']
+animePopularity	2812
+animeDescription	"After warping light-years away from Earth, the spacecraft Macross carries a city of civilians and soldiers back home. They continuously fight off the threat of the Zentradi and Meltrandi, giant alien races with whom humanity wages war. 
+
+During a battle, the Macross transforms into a mecha operated by fighter pilot Hikaru Ichijou. Thrust into a number of hardships, Hikaru grows close to the city's idol Minmay Lynn. As their relationship develops, however, it is viewed unfavorably by others due to Minmay's status and popularity.
+
+With war raging on and the state of Earth unknown, Hikaru and his fellow soldiers fight on against their mysterious enemies. Throughout the bloodshed, Hikaru and Minmay attempt to keep hold of their feelings for one another. Minmay pours her heart into her music, which may just turn out to be the key to finding peace.
+
+[Written by MAL Rewrite]"
+animeRelated	['Macross', 'Macross II: Lovers Again', 'Macross Flash Back 2012']
+animeCharacters	['Hayase, Misa', 'Lynn, Minmay', 'Ichijou, Hikaru', 'Focker, Roy', 'Jenius, Maximilian', 'Fallyna, Milia', 'Global, Bruno J.', 'Milliome, Shammy', 'Kridanik, Vrlitwhai', 'La Salle, Claudia']
+animeVoices	['Doi, Mika', 'Iijima, Mari', 'Hase, Arihiro', 'Kamiya, Akira', 'Hayami, Show', 'Takeda, Eri', 'Hazama, Michio', 'Miyuki, Sanae', 'Kanie, Eiji', 'Ohara, Noriko']
+animeStaff	[['Kawamori, Shouji', 'Director, Mechanical Design'], ['Ishiguro, Noboru', 'Director'], ['Akiyama, Katsuhito', 'Director'], ['Itano, Ichirou', 'Storyboard, Animation Director, Key Animation, In-Between Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Honoo no Labyrinth'
-animeType	b'OVA'
+animeTitle	Honoo no Labyrinth
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.23
 animeUsers	4206
 animeRank	
-animePopularity	
-animeDescription	b'Meet Galan, a Russian spastic geek who`d do anything to be a real, live samurai. But that`s just an impossible dream... or is it? When his friend Natsu, who is a successor of Japanese emigrants family, gives him the gift of an ancient sword, strange events unfold, and even stranger people drop out of the sky to attack. Now Galan must overcome his ineptitude and join a bunch of beautiful women in a wacky romp through a kingdom that time forgot. Hey, what could be better?\n\n(Source: AniDB, edited)'
+animePopularity	5512
+animeDescription	"Meet Galan, a Russian spastic geek who`d do anything to be a real, live samurai. But that`s just an impossible dream... or is it? When his friend Natsu, who is a successor of Japanese emigrants family, gives him the gift of an ancient sword, strange events unfold, and even stranger people drop out of the sky to attack. Now Galan must overcome his ineptitude and join a bunch of beautiful women in a wacky romp through a kingdom that time forgot. Hey, what could be better?
+
+(Source: AniDB, edited)"
 animeRelated	[]
-animeCharacters	[b'Galan', b'White, Carrie', b'Suppaatoka, Erola', b'Aoi, Natsu', b'Kasumi', b'Ho, Shinka', b'Nijinsky, Nastassja', b'Kagami, Datenoshin', b'Aoi, Shigemitsu']
-animeVoices	[b'\nToochika, Kouichi\nJapanese\n', b'\nKingetsu, Mami\nJapanese\n', b'\nMasuda, Yuki\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nSasaki, Yuriko\nJapanese\n', b'\nAsano, Ruri\nJapanese\n', b'\nChiba, Susumu\nJapanese\n', b'\nIizuka, Shouzou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishijima, Katsuhiko\n\nDirector, Storyboard\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nFujino, Kouichi\n\nTheme Song Arrangement, Theme Song Composition, Music\n\n', b'\nYamauchi, Noriyasu\n\nAnimation Director, Character Design\n\n']
+animeCharacters	['Galan', 'White, Carrie', 'Suppaatoka, Erola', 'Aoi, Natsu', 'Kasumi', 'Ho, Shinka', 'Nijinsky, Nastassja', 'Kagami, Datenoshin', 'Aoi, Shigemitsu']
+animeVoices	['Toochika, Kouichi', 'Kingetsu, Mami', 'Masuda, Yuki', 'Tamura, Yukari', 'Sasaki, Yuriko', 'Asano, Ruri', 'Chiba, Susumu', 'Iizuka, Shouzou']
+animeStaff	[['Nishijima, Katsuhiko', 'Director, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Fujino, Kouichi', 'Theme Song Arrangement, Theme Song Composition, Music'], ['Yamauchi, Noriyasu', 'Animation Director, Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Island'
-animeType	b'TV'
+animeTitle	Island
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.33
 animeUsers	42126
 animeRank	
-animePopularity	
-animeDescription	"b'On a remote island far from the mainland named Urashima, a man washes ashore, with no recollection of his name or homeland. What he does recall, however, is that he is a time traveler with a mission: to save a certain girl from harm. As nightfall arrives, he meets Rinne Ohara, a girl who sings a tune that reminds him of a specific name\xe2\x80\x94Setsuna\xe2\x80\x94and decides to use it as his own.\n\nKnowing another ""Setsuna"" herself, Rinne takes him to her household as a servant, hoping that he is the same one she remembers. On the other hand, Setsuna continues to learn more about Urashima, desiring to identify his lost past. He comes to know about the island\'s folklore, its three great families, and the endemic disease that prevents anyone afflicted from stepping out into the daylight. \n\nAs the mysteries of his missing memories and Urashima itself unfold, Setsuna must remember his purpose and fulfill his mission as soon as possible. But, as he witnesses the myriad of troubles plaguing the island, Setsuna begins to question\xe2\x80\x94is his temporal displacement merely an effort to change a single girl\'s fate?\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Island']
-animeCharacters	[b'Ohara, Rinne', b'Kurutsu, Karen', b'Garandou, Sara', b'Sanzenkai, Setsuna', b'Ohara, Kuon', b'Tandori, Mei', b'Hatoma, An', b'Sunada, Emiri', b'Kurutsu, Subaru', b'Kurutsu, Natsumi']
-animeVoices	[b'\nTamura, Yukari\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nYamamura, Hibiku\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nNakajima, Yui\nJapanese\n', b'\nTakayanagi, Tomoyo\nJapanese\n', b'\nTanaka, Takako\nJapanese\n', b'\nKawanishi, Kengo\nJapanese\n', b'\nKitamura, Eri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawaguchi, Keiichirou\n\nDirector, Storyboard\n\n', b'\nMorishita, Hiroto\n\nSound Director\n\n', b'\nArakawa, Naruhisa\n\nScript, Series Composition\n\n', b'\nTamura, Yukari\n\nTheme Song Performance, Inserted Song Performance\n\n']
+animePopularity	1442
+animeDescription	"On a remote island far from the mainland named Urashima, a man washes ashore, with no recollection of his name or homeland. What he does recall, however, is that he is a time traveler with a mission: to save a certain girl from harm. As nightfall arrives, he meets Rinne Ohara, a girl who sings a tune that reminds him of a specific name—Setsuna—and decides to use it as his own.
+
+Knowing another ""Setsuna"" herself, Rinne takes him to her household as a servant, hoping that he is the same one she remembers. On the other hand, Setsuna continues to learn more about Urashima, desiring to identify his lost past. He comes to know about the island's folklore, its three great families, and the endemic disease that prevents anyone afflicted from stepping out into the daylight. 
+
+As the mysteries of his missing memories and Urashima itself unfold, Setsuna must remember his purpose and fulfill his mission as soon as possible. But, as he witnesses the myriad of troubles plaguing the island, Setsuna begins to question—is his temporal displacement merely an effort to change a single girl's fate?
+
+[Written by MAL Rewrite]"
+animeRelated	['Island']
+animeCharacters	['Ohara, Rinne', 'Kurutsu, Karen', 'Garandou, Sara', 'Sanzenkai, Setsuna', 'Ohara, Kuon', 'Tandori, Mei', 'Hatoma, An', 'Sunada, Emiri', 'Kurutsu, Subaru', 'Kurutsu, Natsumi']
+animeVoices	['Tamura, Yukari', 'Asumi, Kana', 'Yamamura, Hibiku', 'Suzuki, Tatsuhisa', 'Satou, Rina', 'Nakajima, Yui', 'Takayanagi, Tomoyo', 'Tanaka, Takako', 'Kawanishi, Kengo', 'Kitamura, Eri']
+animeStaff	[['Kawaguchi, Keiichirou', 'Director, Storyboard'], ['Morishita, Hiroto', 'Sound Director'], ['Arakawa, Naruhisa', 'Script, Series Composition'], ['Tamura, Yukari', 'Theme Song Performance, Inserted Song Performance']]

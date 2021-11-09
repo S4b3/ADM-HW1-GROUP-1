@@ -1,5 +1,5 @@
-animeTitle	b'One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari'
-animeType	b'Special'
+animeTitle	One Piece: Episode of Merry - Mou Hitori no Nakama no Monogatari
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.2
 animeUsers	25390
 animeRank	
-animePopularity	
-animeDescription	"b""The story arcs aboard the Straw Hat Crew's first ship Going Merry (Merry Go in some adaptations) are recreated with brand-new animation, from Luffy and Usopp's fight and Robin's disappearance to the crew's final farewell to the ship. Going Merry is treated as another member of the Straw Hats as Luffy, Zoro, Nami, and the rest of the crew set sail for the legendary treasure, the One Piece.\n\n(Source: ANN)"""
-animeRelated	[b'One Piece']
-animeCharacters	[b'Monkey D., Luffy', b'Roronoa, Zoro', b'Sanji', b'Nico, Robin', b'Tony Tony, Chopper', b'Usopp', b'Nami', b'Franky', b'Brook', b'Rob, Lucci']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nYamaguchi, Yuriko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nCho\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nmoumoon\n\nTheme Song Performance\n\n', b'\nMiki, Tatsuya\n\nKey Animation\n\n', b'\nTomita, Yoshikazu\n\nKey Animation\n\n', b'\nTRIPLANE\n\nInserted Song Performance\n\n']
+animePopularity	2509
+animeDescription	"The story arcs aboard the Straw Hat Crew's first ship Going Merry (Merry Go in some adaptations) are recreated with brand-new animation, from Luffy and Usopp's fight and Robin's disappearance to the crew's final farewell to the ship. Going Merry is treated as another member of the Straw Hats as Luffy, Zoro, Nami, and the rest of the crew set sail for the legendary treasure, the One Piece.
+
+(Source: ANN)"
+animeRelated	['One Piece']
+animeCharacters	['Monkey D., Luffy', 'Roronoa, Zoro', 'Sanji', 'Nico, Robin', 'Tony Tony, Chopper', 'Usopp', 'Nami', 'Franky', 'Brook', 'Rob, Lucci']
+animeVoices	['Tanaka, Mayumi', 'Nakai, Kazuya', 'Hirata, Hiroaki', 'Yamaguchi, Yuriko', 'Ootani, Ikue', 'Yamaguchi, Kappei', 'Okamura, Akemi', 'Yao, Kazuki', 'Cho', 'Seki, Tomokazu']
+animeStaff	[['moumoon', 'Theme Song Performance'], ['Miki, Tatsuya', 'Key Animation'], ['Tomita, Yoshikazu', 'Key Animation'], ['TRIPLANE', 'Inserted Song Performance']]

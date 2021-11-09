@@ -1,5 +1,5 @@
-animeTitle	b'Jikuu Tantei Genshi-kun'
-animeType	b'TV'
+animeTitle	Jikuu Tantei Genshi-kun
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.31
 animeUsers	3990
 animeRank	
-animePopularity	
-animeDescription	"b""It is the 25th century. The dark lord has 'infected' history with time-devices that could damage history beyond repair. Flint and his father lived in the prehistorics when they got turned into fossiles. They are discovered and Flint ges turned back to his original state. With the help of his father, a boy Tony and a girl Sara he has to travel trough time to bring the time-devices back to the land of time so history will be saved.\n\n(Source: ANN)"""
+animePopularity	5682
+animeDescription	"It is the 25th century. The dark lord has 'infected' history with time-devices that could damage history beyond repair. Flint and his father lived in the prehistorics when they got turned into fossiles. They are discovered and Flint ges turned back to his original state. With the help of his father, a boy Tony and a girl Sara he has to travel trough time to bring the time-devices back to the land of time so history will be saved.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Genshi', b'Principal Dino', b'Yamato, Tokio', b'Yamato, Sora', b'Love-Love', b'Professor Yamato', b'Pterry', b'Oto-tan', b'Aino, Akira', b'Mr. Mite']
-animeVoices	[b'\nSuzuki, Akiko\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nMorita, Kiyu\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nOmimura, Mayuko\nJapanese\n', b'\nSatou, Masamichi\nJapanese\n', b'\nNishimura, Chinami\nJapanese\n', b'\nTachiki, Fumihiko\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nChafurin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFukutomi, Hiroshi\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nTsuchiya, Hiroyuki\n\nEpisode Director\n\n', b'\nKuzuya, Naoyuki\n\nEpisode Director\n\n']
+animeCharacters	['Genshi', 'Principal Dino', 'Yamato, Tokio', 'Yamato, Sora', 'Love-Love', 'Professor Yamato', 'Pterry', 'Oto-tan', 'Aino, Akira', 'Mr. Mite']
+animeVoices	['Suzuki, Akiko', 'Ueda, Yuuji', 'Morita, Kiyu', 'Mizuki, Nana', 'Omimura, Mayuko', 'Satou, Masamichi', 'Nishimura, Chinami', 'Tachiki, Fumihiko', 'Touma, Yumi', 'Chafurin']
+animeStaff	[['Fukutomi, Hiroshi', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Tsuchiya, Hiroyuki', 'Episode Director'], ['Kuzuya, Naoyuki', 'Episode Director']]

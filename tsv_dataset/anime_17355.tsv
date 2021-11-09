@@ -1,5 +1,5 @@
-animeTitle	"b""Ryman's Club"""
-animeType	b'TV'
+animeTitle	Ryman's Club
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Ryman's Club is set in a badminton business group, depicting the two different aspects of daily life as a salaryman, as well as growth and conflicts as players. The anime follows Mikoto Shiratori, a prodigy badminton player who suffers from a trauma following a loss at the inter-high tournament. He becomes a salaryman at the Sunlight Beverage company and befriends Tatsuru Miyazumi, the best performing player and salesman in the team.\n\n(Source: MAL News)"""
+animePopularity	19099
+animeDescription	"Ryman's Club is set in a badminton business group, depicting the two different aspects of daily life as a salaryman, as well as growth and conflicts as players. The anime follows Mikoto Shiratori, a prodigy badminton player who suffers from a trauma following a loss at the inter-high tournament. He becomes a salaryman at the Sunlight Beverage company and befriends Tatsuru Miyazumi, the best performing player and salesman in the team.
+
+(Source: MAL News)"
 animeRelated	[]
-animeCharacters	[b'Takeda, Kouki', b'Saeki, Touya', b'Saeki, Souta', b'Miyazumi, Tatsuru', b'Shiratori, Mikoto']
-animeVoices	[b'\nKakihara, Tetsuya\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nEnoki, Junya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamauchi, Ami\n\nDirector, Series Composition\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nYasuda, Suzuhito\n\nOriginal Character Design\n\n', b'\nKai, Masatoshi\n\nArt Director\n\n']
+animeCharacters	['Takeda, Kouki', 'Saeki, Touya', 'Saeki, Souta', 'Miyazumi, Tatsuru', 'Shiratori, Mikoto']
+animeVoices	['Kakihara, Tetsuya', 'Oosaka, Ryouta', 'Ishikawa, Kaito', 'Miki, Shinichiro', 'Enoki, Junya']
+animeStaff	[['Yamauchi, Ami', 'Director, Series Composition'], ['Motoyama, Satoshi', 'Sound Director'], ['Yasuda, Suzuhito', 'Original Character Design'], ['Kai, Masatoshi', 'Art Director']]

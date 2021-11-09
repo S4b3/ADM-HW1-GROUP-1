@@ -1,5 +1,5 @@
-animeTitle	b'Moyashimon'
-animeType	b'TV'
+animeTitle	Moyashimon
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.58
 animeUsers	26048
 animeRank	
-animePopularity	
-animeDescription	"b""One could say that freshman college student Tadayasu Sawaki has a wide range of vision. He has a peculiar ability that allows him to see microorganisms with the naked eye. Sawaki can see all sorts of microbes, from the fungi that cause athlete's foot to the yeast used to make alcohol, with him perceiving his little friends as cute chibi creatures. Attending an agricultural university, his talent piques the interest of numerous professors, including Professor Itsuki, who specializes in fermentation. \n\nSawaki starts school indifferent toward his ability, choosing an agricultural school in Tokyo. However, with the help of the eccentric community around him, he slowly learns to appreciate these visible microbes and his talent. The whimsical cast of professors and classmates attending the university almost makes Sawaki seem normal despite his ability.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Moyashimon', b'Moyashimon: Kin Gekijou Deluxe', b'Moyashimon CGI Anime', b'Moyashimon Returns']
-animeCharacters	[b'Yuuki, Kei', b'Hasegawa, Haruka', b'Sawaki, Tadayasu', b'Itsuki, Keizou', b'Aspergillus oryzae', b'Mutou, Aoi', b'Oikawa, Hazuki', b'Aspergillus niger', b'Corynebacterium diphtheriae', b'Kawahama, Takuma']
-animeVoices	[b'\nSaiga, Mitsuki\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nNishimura, Tomomichi\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nKanda, Akemi\nJapanese\n', b'\nYoshida, Hisanori\nJapanese\n', b'\nSuzuki, Q-Taro\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Kouji\n\nProducer\n\n', b'\nWatanabe, Tetsuya\n\nProducer\n\n', b'\nSano, Hiroaki\n\nProducer\n\n', b'\nYano, Yuuichirou\n\nDirector\n\n']
+animePopularity	2106
+animeDescription	"One could say that freshman college student Tadayasu Sawaki has a wide range of vision. He has a peculiar ability that allows him to see microorganisms with the naked eye. Sawaki can see all sorts of microbes, from the fungi that cause athlete's foot to the yeast used to make alcohol, with him perceiving his little friends as cute chibi creatures. Attending an agricultural university, his talent piques the interest of numerous professors, including Professor Itsuki, who specializes in fermentation. 
+
+Sawaki starts school indifferent toward his ability, choosing an agricultural school in Tokyo. However, with the help of the eccentric community around him, he slowly learns to appreciate these visible microbes and his talent. The whimsical cast of professors and classmates attending the university almost makes Sawaki seem normal despite his ability.
+
+[Written by MAL Rewrite]"
+animeRelated	['Moyashimon', 'Moyashimon: Kin Gekijou Deluxe', 'Moyashimon CGI Anime', 'Moyashimon Returns']
+animeCharacters	['Yuuki, Kei', 'Hasegawa, Haruka', 'Sawaki, Tadayasu', 'Itsuki, Keizou', 'Aspergillus oryzae', 'Mutou, Aoi', 'Oikawa, Hazuki', 'Aspergillus niger', 'Corynebacterium diphtheriae', 'Kawahama, Takuma']
+animeVoices	['Saiga, Mitsuki', 'Ohara, Sayaka', 'Sakaguchi, Daisuke', 'Nishimura, Tomomichi', 'Touma, Yumi', 'Noto, Mamiko', 'Kanda, Akemi', 'Yoshida, Hisanori', 'Suzuki, Q-Taro', 'Sugiyama, Noriaki']
+animeStaff	[['Yamamoto, Kouji', 'Producer'], ['Watanabe, Tetsuya', 'Producer'], ['Sano, Hiroaki', 'Producer'], ['Yano, Yuuichirou', 'Director']]

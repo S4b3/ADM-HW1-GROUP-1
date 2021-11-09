@@ -1,5 +1,5 @@
-animeTitle	b'Sei Shoujo Sentai Lakers EX'
-animeType	b'OVA'
+animeTitle	Sei Shoujo Sentai Lakers EX
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.89
 animeUsers	435
 animeRank	
-animePopularity	
-animeDescription	b'A group of alien girls from planet Blade Star come to earth after their home planet got destroyed. They all have powerful Super-Lake Crystals that allow them to transform into superheroines. led by Blade Knight, they must fight Oleana, an evil space dominatrix, their toughest enemy.\n\n(Source: ANN)'
+animePopularity	10415
+animeDescription	"A group of alien girls from planet Blade Star come to earth after their home planet got destroyed. They all have powerful Super-Lake Crystals that allow them to transform into superheroines. led by Blade Knight, they must fight Oleana, an evil space dominatrix, their toughest enemy.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Akira', b'Yayoi', b'Reiko', b'Yuka', b'Natsune', b'Chiaki']
-animeVoices	[b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nOikawa, Hitomi\nJapanese\n', b'\nAsami, Junko\nJapanese\n', b'\nKanai, Mika\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nPikabia\n\nTheme Song Performance\n\n', b'\nKoyama, Kenji\n\nSound Effects\n\n', b'\nNishiyama, Masanori\n\nBackground Art\n\n']
+animeCharacters	['Akira', 'Yayoi', 'Reiko', 'Yuka', 'Natsune', 'Chiaki']
+animeVoices	['Morikawa, Toshiyuki', 'Oikawa, Hitomi', 'Asami, Junko', 'Kanai, Mika', 'Koorogi, Satomi', 'Katsuki, Masako']
+animeStaff	[['Tsuruoka, Youta', 'Sound Director'], ['Pikabia', 'Theme Song Performance'], ['Koyama, Kenji', 'Sound Effects'], ['Nishiyama, Masanori', 'Background Art']]

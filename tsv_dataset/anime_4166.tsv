@@ -1,5 +1,5 @@
-animeTitle	b'Kurozuka'
-animeType	b'TV'
+animeTitle	Kurozuka
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.91
 animeUsers	28656
 animeRank	
-animePopularity	
-animeDescription	"b""Adaptation of Takashi Noguchi's manga, which itself adapts Baku Yumemakura's supernatural romance novel.\n\nThe original novel is about a 12th-century man named Minamoto no Yoshitsune (Kurou). Kurou flees into the mountains after losing to his brother Minamoto no Yoritomo, the first Shogun to rule all of Japan. History records that he committed suicide, but instead, Kurou meets a strange, beautiful woman named Kuromitsu in her mountain hermitage. Eventually, Kurou falls in love with Kuromitsu, but then realizes she conceals a dark secret. He learns that he is unable to die and continues to live for a thousand years as Japan evolves into a future society.\n\n(Source: ANN)"""
-animeRelated	[b'Kurozuka']
-animeCharacters	[b'Kurou', b'Kuromitsu', b'Kuon', b'Benkei', b'Rai', b'Yokoyama, Hiroaki', b'Saniwa', b'Arashiyama', b'Karuta', b'Izana']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAraki, Tetsurou\n\nDirector, Episode Director, Storyboard, Series Composition\n\n', b'\nIshizuka, Atsuko\n\nEpisode Director, Storyboard\n\n', b'\nItou, Tomohiko\n\nEpisode Director, Storyboard\n\n', b'\nHirao, Takayuki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	1790
+animeDescription	"Adaptation of Takashi Noguchi's manga, which itself adapts Baku Yumemakura's supernatural romance novel.
+
+The original novel is about a 12th-century man named Minamoto no Yoshitsune (Kurou). Kurou flees into the mountains after losing to his brother Minamoto no Yoritomo, the first Shogun to rule all of Japan. History records that he committed suicide, but instead, Kurou meets a strange, beautiful woman named Kuromitsu in her mountain hermitage. Eventually, Kurou falls in love with Kuromitsu, but then realizes she conceals a dark secret. He learns that he is unable to die and continues to live for a thousand years as Japan evolves into a future society.
+
+(Source: ANN)"
+animeRelated	['Kurozuka']
+animeCharacters	['Kurou', 'Kuromitsu', 'Kuon', 'Benkei', 'Rai', 'Yokoyama, Hiroaki', 'Saniwa', 'Arashiyama', 'Karuta', 'Izana']
+animeVoices	['Miyano, Mamoru', 'Park, Romi', 'Irino, Miyu', 'Nakata, Jouji', 'Kuwashima, Houko', 'Fujita, Toshiko', 'Miki, Shinichiro', 'Fujiwara, Keiji', 'Inoue, Kazuhiko']
+animeStaff	[['Araki, Tetsurou', 'Director, Episode Director, Storyboard, Series Composition'], ['Ishizuka, Atsuko', 'Episode Director, Storyboard'], ['Itou, Tomohiko', 'Episode Director, Storyboard'], ['Hirao, Takayuki', 'Episode Director, Storyboard']]

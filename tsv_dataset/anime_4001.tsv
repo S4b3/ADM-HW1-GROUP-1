@@ -1,5 +1,5 @@
-animeTitle	b'Magic Tree House'
-animeType	b'Movie'
+animeTitle	Magic Tree House
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.95
 animeUsers	2229
 animeRank	
-animePopularity	
-animeDescription	b'Based on The Magic Tree House series, award winning series of children books written by American author Mary Pope Osborne.'
+animePopularity	6304
+animeDescription	Based on The Magic Tree House series, award winning series of children books written by American author Mary Pope Osborne.
 animeRelated	[]
-animeCharacters	[b'Annie', b'Jack', b'Kathleen', b'Tracy', b'Mother', b'Le Fay, Morgan']
-animeVoices	[b'\nAshida, Mana\nJapanese\n', b'\nKitagawa, Keiko\nJapanese\n', b'\nShitaya, Noriko\nJapanese\n', b'\nMizuki, Nana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishikiori, Hiroshi\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nOokouchi, Ichirou\n\nScript, Screenplay\n\n', b'\nSenju, Akira\n\nMusic\n\n']
+animeCharacters	['Annie', 'Jack', 'Kathleen', 'Tracy', 'Mother', 'Le Fay, Morgan']
+animeVoices	['Ashida, Mana', 'Kitagawa, Keiko', 'Shitaya, Noriko', 'Mizuki, Nana']
+animeStaff	[['Nishikiori, Hiroshi', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Ookouchi, Ichirou', 'Script, Screenplay'], ['Senju, Akira', 'Music']]

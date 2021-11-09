@@ -1,5 +1,5 @@
-animeTitle	b'Tenjouhen: Utsunomiko'
-animeType	b'Movie'
+animeTitle	Tenjouhen: Utsunomiko
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Prequel of Utsunomiko.'
-animeRelated	[b'Utsunomiko', b'Utsunomiko: Heaven Chapter']
-animeCharacters	[b'Kagami', b'Utsunomiko']
-animeVoices	[b'\nYamada, Eiko\nJapanese\n', b'\nFuruya, Toru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUmezawa, Atsutoshi\n\nDirector\n\n', b'\nImazawa, Tetsuo\n\nChief Animation Director\n\n', b'\nTomita, Sukehiro\n\nScreenplay\n\n', b'\nFujikawa, Keisuke\n\nOriginal Creator\n\n']
+animePopularity	12081
+animeDescription	Prequel of Utsunomiko.
+animeRelated	['Utsunomiko', 'Utsunomiko: Heaven Chapter']
+animeCharacters	['Kagami', 'Utsunomiko']
+animeVoices	['Yamada, Eiko', 'Furuya, Toru']
+animeStaff	[['Umezawa, Atsutoshi', 'Director'], ['Imazawa, Tetsuo', 'Chief Animation Director'], ['Tomita, Sukehiro', 'Screenplay'], ['Fujikawa, Keisuke', 'Original Creator']]

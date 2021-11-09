@@ -1,5 +1,5 @@
-animeTitle	b'Diabolik Lovers Recap'
-animeType	b'Special'
+animeTitle	Diabolik Lovers Recap
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.42
 animeUsers	10567
 animeRank	
-animePopularity	
-animeDescription	b'Recap of episodes 1-6 with new narrations.'
-animeRelated	[b'Diabolik Lovers']
-animeCharacters	[b'Sakamaki, Ayato', b'Sakamaki, Kanato', b'Sakamaki, Laito', b'Sakamaki, Shuu', b'Sakamaki, Subaru', b'Sakamaki, Reiji', b'Komori, Yui']
-animeVoices	[b'\nMidorikawa, Hikaru\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nKondou, Takashi\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nSuegara, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTagashira, Shinobu\n\nDirector\n\n', b'\nMidorikawa, Hikaru\n\nTheme Song Performance\n\n', b'\nToriumi, Kousuke\n\nTheme Song Performance\n\n', b'\nHayashi, Yuuki\n\nMusic\n\n']
+animePopularity	3765
+animeDescription	Recap of episodes 1-6 with new narrations.
+animeRelated	['Diabolik Lovers']
+animeCharacters	['Sakamaki, Ayato', 'Sakamaki, Kanato', 'Sakamaki, Laito', 'Sakamaki, Shuu', 'Sakamaki, Subaru', 'Sakamaki, Reiji', 'Komori, Yui']
+animeVoices	['Midorikawa, Hikaru', 'Kaji, Yuki', 'Hirakawa, Daisuke', 'Toriumi, Kousuke', 'Kondou, Takashi', 'Konishi, Katsuyuki', 'Suegara, Rie']
+animeStaff	[['Tagashira, Shinobu', 'Director'], ['Midorikawa, Hikaru', 'Theme Song Performance'], ['Toriumi, Kousuke', 'Theme Song Performance'], ['Hayashi, Yuuki', 'Music']]

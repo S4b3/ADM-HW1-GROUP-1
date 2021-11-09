@@ -1,5 +1,5 @@
-animeTitle	b'Cool Devices'
-animeType	b'OVA'
+animeTitle	Cool Devices
+animeType	OVA
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.23
 animeUsers	2206
 animeRank	
-animePopularity	
-animeDescription	"b""Welcome to a series of tapes the likes of which you've never seen before! Strong stories, highly charged with erotic content are all presented without Japan's export censorship (as they were intended to be seen).\n\nThey do not follow a single story. They break all the rules. They are Cool Devices. They aren't for kids, but they might be for you if you have the guts. Welcome to a new world... and be sure to wash your hands when you're done.\n\n(Source: Official Site)"""
-animeRelated	[b'Dorei Senshi Maya']
-animeCharacters	[b'Yuuki, Ai', b'Rui', b'Mizutani, Maya', b'Kana']
-animeVoices	[b'\nYuzuki, Ryouka\nJapanese\n', b'\nShimamura, Kaoru\nJapanese\n', b'\nNishihara, Kumiko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKotoyoshi, Yumisuke\n\nDirector\n\n', b'\nUtatane, Hiroyuki\n\nDirector, Creator\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nUmetsu, Yasuomi\n\nCharacter Design\n\n']
+animePopularity	6319
+animeDescription	"Welcome to a series of tapes the likes of which you've never seen before! Strong stories, highly charged with erotic content are all presented without Japan's export censorship (as they were intended to be seen).
+
+They do not follow a single story. They break all the rules. They are Cool Devices. They aren't for kids, but they might be for you if you have the guts. Welcome to a new world... and be sure to wash your hands when you're done.
+
+(Source: Official Site)"
+animeRelated	['Dorei Senshi Maya']
+animeCharacters	['Yuuki, Ai', 'Rui', 'Mizutani, Maya', 'Kana']
+animeVoices	['Yuzuki, Ryouka', 'Shimamura, Kaoru', 'Nishihara, Kumiko', 'Ootani, Ikue']
+animeStaff	[['Kotoyoshi, Yumisuke', 'Director'], ['Utatane, Hiroyuki', 'Director, Creator'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Umetsu, Yasuomi', 'Character Design']]

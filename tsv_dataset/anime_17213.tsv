@@ -1,5 +1,5 @@
-animeTitle	b'Mars'
-animeType	b'OVA'
+animeTitle	Mars
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Mars is the 1st remake of the franchise and restored the original manga's storyline of a young boy in suspended animation inside a South Sea volcano who awakens a century before his alien masters planned to use his powers to reduce human civilization to a manageable low-tech level. \n\n(Source: The Anime Encyclopedia)"""
-animeRelated	[b'Mars', b'Shin Seiki Den Mars', b'Rokushin Gattai GodMars']
-animeCharacters	[b'Mars']
-animeVoices	[b'\nSasaki, Nozomu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nMotohashi, Hideyuki\n\nAnimation Director, Character Design\n\n']
+animePopularity	12996
+animeDescription	"Mars is the 1st remake of the franchise and restored the original manga's storyline of a young boy in suspended animation inside a South Sea volcano who awakens a century before his alien masters planned to use his powers to reduce human civilization to a manageable low-tech level. 
+
+(Source: The Anime Encyclopedia)"
+animeRelated	['Mars', 'Shin Seiki Den Mars', 'Rokushin Gattai GodMars']
+animeCharacters	['Mars']
+animeVoices	['Sasaki, Nozomu']
+animeStaff	[['Iwanami, Yoshikazu', 'Sound Director'], ['Motohashi, Hideyuki', 'Animation Director, Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Attack No.1'
-animeType	b'TV'
+animeTitle	Attack No.1
+animeType	TV
 animeNumEpisode	104
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.77
 animeUsers	2745
 animeRank	
-animePopularity	
-animeDescription	b'Kozue is a middleschool girl and enthusiastic volleyball player. Her dream is to play in the Japanese national volleyball team. During the series she makes it from the school district league up to the Japanese volleyball finals, step by step till the international volleyball championship. But the faster and higher Kozue climbs the career ladder up, the more she gets confronted with the dark side of success: too high expectations, self-conceit and envy are progressing towards serious problems.\n\n(Source: ANN)'
-animeRelated	[b'Attack No.1', b'Attack No.1 (1970)', b'Attack No.1: Namida no Fushichou', b'Attack No.1: Namida no Kaiten Receive', b'Attack No.1: Namida no Sekai Senshuken']
-animeCharacters	[b'Ayuhara, Kozue', b'Hayakawa, Midori', b'Makimura, Kyouko', b'Nakazawa', b'Shimizu, Haruko', b'Hongou, Shunsuke', b'Oonuma, Miyuki', b'Takeichi, Kayoko']
-animeVoices	[b'\nKobato, Kurumi\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nSawada, Kazuko\nJapanese\n', b'\nMori, Hiroko\nJapanese\n', b'\nNakamura, Shuusei\nJapanese\n', b'\nSugaya, Masako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKurokawa, Fumio\n\nEpisode Director\n\n', b'\nTakeuchi, Yoshio\n\nEpisode Director\n\n', b'\nTsuji, Masaki\n\nScript\n\n', b'\nItou, Tsunehisa\n\nScript\n\n']
+animePopularity	5906
+animeDescription	"Kozue is a middleschool girl and enthusiastic volleyball player. Her dream is to play in the Japanese national volleyball team. During the series she makes it from the school district league up to the Japanese volleyball finals, step by step till the international volleyball championship. But the faster and higher Kozue climbs the career ladder up, the more she gets confronted with the dark side of success: too high expectations, self-conceit and envy are progressing towards serious problems.
+
+(Source: ANN)"
+animeRelated	['Attack No.1', 'Attack No.1 (1970)', 'Attack No.1: Namida no Fushichou', 'Attack No.1: Namida no Kaiten Receive', 'Attack No.1: Namida no Sekai Senshuken']
+animeCharacters	['Ayuhara, Kozue', 'Hayakawa, Midori', 'Makimura, Kyouko', 'Nakazawa', 'Shimizu, Haruko', 'Hongou, Shunsuke', 'Oonuma, Miyuki', 'Takeichi, Kayoko']
+animeVoices	['Kobato, Kurumi', 'Masuyama, Eiko', 'Sawada, Kazuko', 'Mori, Hiroko', 'Nakamura, Shuusei', 'Sugaya, Masako']
+animeStaff	[['Kurokawa, Fumio', 'Episode Director'], ['Takeuchi, Yoshio', 'Episode Director'], ['Tsuji, Masaki', 'Script'], ['Itou, Tsunehisa', 'Script']]

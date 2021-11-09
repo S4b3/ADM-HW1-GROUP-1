@@ -1,5 +1,5 @@
-animeTitle	b'Bakutou Sengen Daigunder'
-animeType	b'TV'
+animeTitle	Bakutou Sengen Daigunder
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.69
 animeUsers	1319
 animeRank	
-animePopularity	
-animeDescription	"b""Akira Akebono, a young boy who is competing in a robot tournament where many of the robots are capable of transforming into animal forms. Akira wants to win the ultimate prize, the Titan Belt, with the help of his group of robots, all of which are capable of forming into the robot Daigunder. Daigunder is the creation of Akira's father, Professor Hajime Akebono. Together with a girl named Haruka, they compete under the name of Team Akira. However, Team Akira faces opposition from not only their competition, but a robot named Ginzan who is under the control of the evil Professor Maelstrom.\n\n(Source: ANN)"""
+animePopularity	8749
+animeDescription	"Akira Akebono, a young boy who is competing in a robot tournament where many of the robots are capable of transforming into animal forms. Akira wants to win the ultimate prize, the Titan Belt, with the help of his group of robots, all of which are capable of forming into the robot Daigunder. Daigunder is the creation of Akira's father, Professor Hajime Akebono. Together with a girl named Haruka, they compete under the name of Team Akira. However, Team Akira faces opposition from not only their competition, but a robot named Ginzan who is under the control of the evil Professor Maelstrom.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Akebono, Akira', b'Sarah', b'Hoshi, Haruka', b'Daigunder', b'Rougamaru', b'DragoBurst']
-animeVoices	[b'\nTakimoto, Fujiko\nJapanese\n', b'\nIshimura, Tomoko\nJapanese\n', b'\nIhata, Juri\nJapanese\n', b'\nYanada, Kiyoyuki\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYano, Hiroyuki\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nEndoh, Masaaki\n\nTheme Song Performance\n\n', b'\nKitadani, Hiroshi\n\nTheme Song Performance\n\n']
+animeCharacters	['Akebono, Akira', 'Sarah', 'Hoshi, Haruka', 'Daigunder', 'Rougamaru', 'DragoBurst']
+animeVoices	['Takimoto, Fujiko', 'Ishimura, Tomoko', 'Ihata, Juri', 'Yanada, Kiyoyuki', 'Hiyama, Nobuyuki', 'Wakamoto, Norio']
+animeStaff	[['Yano, Hiroyuki', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Endoh, Masaaki', 'Theme Song Performance'], ['Kitadani, Hiroshi', 'Theme Song Performance']]

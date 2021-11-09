@@ -1,5 +1,5 @@
-animeTitle	b'Time Bokan'
-animeType	b'TV'
+animeTitle	Time Bokan
+animeType	TV
 animeNumEpisode	61
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.52
 animeUsers	474
 animeRank	
-animePopularity	
-animeDescription	b'Dr. Kieta, the inventor of a time-travel machine, is lost on a test run of his machine to the prehistoric past. When the time-space craft returns to the present, his young assistants are surprised to find only a parrot in the cockpit. In their hurry to find the missing scientist before it is too late, the youngsters set out on a time-space hunt without any clear destination.\n\n(Source: Official Site)'
-animeRelated	[b'Time Bokan Series: Yatterman', b'Time Bokan Series: Yattodetaman', b'Time Bokan Oudou Fukko', b'Time Bokan Series: Itadakiman', b'Time Bokan 2000: Kaitou Kiramekiman', b'Time Bokan Series: Zenderman', b'Time Bokan Series: Gyakuten Ippatsuman', b'Time Bokan Series: Time Patroltai Otasukeman', b'Time Bokan 24']
-animeCharacters	[b'Junko', b'Warusa', b'Majo', b'Dr. Kieda', b'C-robot', b'Tanpei', b'Grocky', b'Perasuke', b'Otake-san', b'Narrator']
-animeVoices	[b'\nOkamoto, Mari\nJapanese\n', b'\nTatekabe, Kazuya\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nSaikachi, Ryuuji\nJapanese\n', b'\nKatsura, Reiko\nJapanese\n', b'\nOota, Yoshiko\nJapanese\n', b'\nYanami, Jouji\nJapanese\n', b'\nTakiguchi, Junpei\nJapanese\n', b'\nEndou, Haru\nJapanese\n', b'\nTomiyama, Kei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMashimo, Kouichi\n\nCo-Director\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nHasegawa, Yasuo\n\nEpisode Director\n\n', b'\nAnnou, Masami\n\nEpisode Director\n\n']
+animePopularity	9358
+animeDescription	"Dr. Kieta, the inventor of a time-travel machine, is lost on a test run of his machine to the prehistoric past. When the time-space craft returns to the present, his young assistants are surprised to find only a parrot in the cockpit. In their hurry to find the missing scientist before it is too late, the youngsters set out on a time-space hunt without any clear destination.
+
+(Source: Official Site)"
+animeRelated	['Time Bokan Series: Yatterman', 'Time Bokan Series: Yattodetaman', 'Time Bokan Oudou Fukko', 'Time Bokan Series: Itadakiman', 'Time Bokan 2000: Kaitou Kiramekiman', 'Time Bokan Series: Zenderman', 'Time Bokan Series: Gyakuten Ippatsuman', 'Time Bokan Series: Time Patroltai Otasukeman', 'Time Bokan 24']
+animeCharacters	['Junko', 'Warusa', 'Majo', 'Dr. Kieda', 'C-robot', 'Tanpei', 'Grocky', 'Perasuke', 'Otake-san', 'Narrator']
+animeVoices	['Okamoto, Mari', 'Tatekabe, Kazuya', 'Ohara, Noriko', 'Saikachi, Ryuuji', 'Katsura, Reiko', 'Oota, Yoshiko', 'Yanami, Jouji', 'Takiguchi, Junpei', 'Endou, Haru', 'Tomiyama, Kei']
+animeStaff	[['Mashimo, Kouichi', 'Co-Director'], ['Sasagawa, Hiroshi', 'Director'], ['Hasegawa, Yasuo', 'Episode Director'], ['Annou, Masami', 'Episode Director']]

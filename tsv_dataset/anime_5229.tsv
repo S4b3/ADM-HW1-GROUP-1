@@ -1,5 +1,5 @@
-animeTitle	b'Spriggan'
-animeType	b'Movie'
+animeTitle	Spriggan
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.67
 animeUsers	11011
 animeRank	
-animePopularity	
-animeDescription	"b""Deep in the Ararat Mountains of Turkey, a secret organization known as ARCAM has found what is believed to be Noah's Ark. However, the U.S. Machine Corps., a rogue organization of the Pentagon, wants to take over the Ark as a means of global supremacy. Only a special ARCAM operative known as a Spriggan stands in their way. Japanese Spriggan Yu Ominae teams up with French Spriggan Jean-Jacques Mondo to combat members of the U.S. Machine Corps. led by Col. MacDougall\xe2\x80\x94a genetically-enhanced boy with deadly psionic powers. However, they must act fast and stop MacDougall before he uses the Ark for his own agenda.\n\n(Source: ANN)"""
-animeRelated	[b'Spriggan', b'Spriggan (ONA)']
-animeCharacters	[b'Ominae, Yuu', b'MacDougall, Colonel', b'Margaret', b'Dr. Meisel', b'Jacquemondo, Jean', b'Director Yamamoto', b'Narrator', b'Little Boy', b'Fat Man', b'Takanaka']
-animeVoices	[b'\nMorikubo, Shoutarou\nJapanese\n', b'\nAigase, Ryuji\nJapanese\n', b'\nTamagawa, Sakiko\nJapanese\n', b'\nShiroyama, Ken\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nArimoto, Kinryuu\nJapanese\n', b'\nYajima, Masaaki\nJapanese\n', b'\nSuzuki, Katsumi\nJapanese\n', b'\nMakishima, Naoki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOtomo, Katsuhiro\n\nProducer\n\n', b'\nKawasaki, Hirotsugu\n\nDirector, Storyboard, Screenplay\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nWatanabe, Akio\n\nKey Animation\n\n']
+animePopularity	3809
+animeDescription	"Deep in the Ararat Mountains of Turkey, a secret organization known as ARCAM has found what is believed to be Noah's Ark. However, the U.S. Machine Corps., a rogue organization of the Pentagon, wants to take over the Ark as a means of global supremacy. Only a special ARCAM operative known as a Spriggan stands in their way. Japanese Spriggan Yu Ominae teams up with French Spriggan Jean-Jacques Mondo to combat members of the U.S. Machine Corps. led by Col. MacDougall—a genetically-enhanced boy with deadly psionic powers. However, they must act fast and stop MacDougall before he uses the Ark for his own agenda.
+
+(Source: ANN)"
+animeRelated	['Spriggan', 'Spriggan (ONA)']
+animeCharacters	['Ominae, Yuu', 'MacDougall, Colonel', 'Margaret', 'Dr. Meisel', 'Jacquemondo, Jean', 'Director Yamamoto', 'Narrator', 'Little Boy', 'Fat Man', 'Takanaka']
+animeVoices	['Morikubo, Shoutarou', 'Aigase, Ryuji', 'Tamagawa, Sakiko', 'Shiroyama, Ken', 'Koyasu, Takehito', 'Arimoto, Kinryuu', 'Yajima, Masaaki', 'Suzuki, Katsumi', 'Makishima, Naoki']
+animeStaff	[['Otomo, Katsuhiro', 'Producer'], ['Kawasaki, Hirotsugu', 'Director, Storyboard, Screenplay'], ['Tsuruoka, Youta', 'Sound Director'], ['Watanabe, Akio', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Genji'
-animeType	b'OVA'
+animeTitle	Genji
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Time-traveling lovers Katsumi and Sakura find themselves in the midst of Japan's medieval civil war between the Heike and Genji clans.\n\n(Source: AniDB)"""
+animePopularity	11369
+animeDescription	"Time-traveling lovers Katsumi and Sakura find themselves in the midst of Japan's medieval civil war between the Heike and Genji clans.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Ebata, Katsumi']
-animeVoices	[b'\nSasaki, Nozomu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYasumura, Ryou\n\nDirector\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nKouga, Yun\n\nOriginal Creator\n\n', b'\nYamamoto, Masafumi\n\nAnimation Director\n\n']
+animeCharacters	['Ebata, Katsumi']
+animeVoices	['Sasaki, Nozomu']
+animeStaff	[['Yasumura, Ryou', 'Director'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Kouga, Yun', 'Original Creator'], ['Yamamoto, Masafumi', 'Animation Director']]

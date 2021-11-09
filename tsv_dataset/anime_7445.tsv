@@ -1,5 +1,5 @@
-animeTitle	b'Jinzou Konchuu Kabutoborg VxV'
-animeType	b'TV'
+animeTitle	Jinzou Konchuu Kabutoborg VxV
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.25
 animeUsers	161
 animeRank	
-animePopularity	
-animeDescription	b'BorgBattles between KabutoBorgs have become popular enough to hold world tournaments. The main character Ryuusei is an enthusiast of these battles. Along with his friends Katsuji and Ken, he continues fighting against new enemies day after day.'
+animePopularity	12296
+animeDescription	BorgBattles between KabutoBorgs have become popular enough to hold world tournaments. The main character Ryuusei is an enthusiast of these battles. Along with his friends Katsuji and Ken, he continues fighting against new enemies day after day.
 animeRelated	[]
-animeCharacters	[b'Amanogawa, Ryuusei', b'Ryuushou, Ken', b'Matsuoka, Katsuji', b'Yamada, Ichirou', b'Andou, Loid']
-animeVoices	[b'\nChikiri, Kyouko\nJapanese\n', b'\nWatanabe, Kei\nJapanese\n', b'\nMitsuhashi, Kanako\nJapanese\n', b'\nMaeda, Takeshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiodori, Hiroshi\n\nDirector, Episode Director, Storyboard\n\n', b'\nKoizumi, Kisuke\n\nSound Director\n\n', b'\nMatsushita, Yoko\n\nExecutive Producer\n\n', b'\nYamatoya, Akatsuki\n\nSeries Composition\n\n']
+animeCharacters	['Amanogawa, Ryuusei', 'Ryuushou, Ken', 'Matsuoka, Katsuji', 'Yamada, Ichirou', 'Andou, Loid']
+animeVoices	['Chikiri, Kyouko', 'Watanabe, Kei', 'Mitsuhashi, Kanako', 'Maeda, Takeshi']
+animeStaff	[['Ishiodori, Hiroshi', 'Director, Episode Director, Storyboard'], ['Koizumi, Kisuke', 'Sound Director'], ['Matsushita, Yoko', 'Executive Producer'], ['Yamatoya, Akatsuki', 'Series Composition']]

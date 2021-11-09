@@ -1,5 +1,5 @@
-animeTitle	b'Jungle Taitei Movie'
-animeType	b'Movie'
+animeTitle	Jungle Taitei Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.21
 animeUsers	238
 animeRank	
-animePopularity	
-animeDescription	"b""The first 2 minutes of this film are taken from the Jungle Emperor Leo (1965) TV series, while the rest is all original. Tezuka was very pleased that this film conveyed his story accurately, something he wasn't able to do with the TV series. \n\n(Source: ANN)"""
-animeRelated	[b'Jungle Taitei']
-animeCharacters	[b'Leo', b'Panja']
-animeVoices	[b'\nOota, Yoshiko\nJapanese\n', b'\nMidorikawa, Minoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasaki, Mori\n\nProducer\n\n', b'\nYamamoto, Eiichi\n\nDirector\n\n', b'\nRintaro\n\nEpisode Director\n\n', b'\nSugino, Akio\n\nKey Animation\n\n']
+animePopularity	11335
+animeDescription	"The first 2 minutes of this film are taken from the Jungle Emperor Leo (1965) TV series, while the rest is all original. Tezuka was very pleased that this film conveyed his story accurately, something he wasn't able to do with the TV series. 
+
+(Source: ANN)"
+animeRelated	['Jungle Taitei']
+animeCharacters	['Leo', 'Panja']
+animeVoices	['Oota, Yoshiko', 'Midorikawa, Minoru']
+animeStaff	[['Masaki, Mori', 'Producer'], ['Yamamoto, Eiichi', 'Director'], ['Rintaro', 'Episode Director'], ['Sugino, Akio', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hwanggeum Nalgae 1.2.3.'
-animeType	b'Movie'
+animeTitle	Hwanggeum Nalgae 1.2.3.
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.27
 animeUsers	112
 animeRank	
-animePopularity	
-animeDescription	"b""Released in Korea in 1978, Gold Wing 123, or Golden Wing 123, is an animated sci-fi superhero feature from Kim Cheong Ki, who also directed the classic Robot Taekwon V (1976) and created the popular Wuroemae series. Like Robot Taekwon V, Gold Wing 123 draws from Japanese genre themes and character designs to create Korea's very own world-saving transforming superhero, a young man who attains super powers and is tasked to defend earth from the evil plans of a galactic conqueror. \n\n(Source: YesAsia)"""
-animeRelated	[b'Robot Taekwon V wa Hwanggeum Nalgae']
+animePopularity	13870
+animeDescription	"Released in Korea in 1978, Gold Wing 123, or Golden Wing 123, is an animated sci-fi superhero feature from Kim Cheong Ki, who also directed the classic Robot Taekwon V (1976) and created the popular Wuroemae series. Like Robot Taekwon V, Gold Wing 123 draws from Japanese genre themes and character designs to create Korea's very own world-saving transforming superhero, a young man who attains super powers and is tasked to defend earth from the evil plans of a galactic conqueror. 
+
+(Source: YesAsia)"
+animeRelated	['Robot Taekwon V wa Hwanggeum Nalgae']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

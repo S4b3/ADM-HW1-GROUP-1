@@ -1,5 +1,5 @@
-animeTitle	b'D-Frag!'
-animeType	b'TV'
+animeTitle	D-Frag!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.54
 animeUsers	174396
 animeRank	
-animePopularity	
-animeDescription	"b""The Kazama Family\xe2\x80\x94a gang of three wannabe delinquents and close friends, spearheaded by Kenji Kazama, is trying to make a name for themselves at Fujou Academy. On the first day of the term, the gang finds themselves putting out a fire in the Game Development Club. Instead of thanking them, the eccentric club members attack and knock out Kenji's two friends, forcing Kenji to fight for his life. Failing to escape, the gang leader is coerced into joining the Game Development Club.\n\nAs he settles in, Kenji gets to know the four girls responsible for his provisional membership\xe2\x80\x94student council president and general tyrant Chitose Karasuyama, spirited tomboy Sakura Mizukami, negligent club advisor Minami Oosawa, and the school's infamous shadow leader Roka Shibasaki. Throughout the Game Development Club's constant shenanigans and his desperate attempts to leave the club, Kenji begins to realize that he may be actually enjoying himself.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'D-Frag!', b'D-Frag!*']
-animeCharacters	[b'Shibasaki, Roka', b'Takao', b'Kazama, Kenji', b'Mizukami, Sakura', b'Karasuyama, Chitose', b'Sakai, Tama', b'Funabori', b'Kazama, Noe', b'Conecone, Shawn', b'Oosawa, Minami']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nTakahashi, Mikako\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nKatou, Emiri\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugawara, Seiki\n\nDirector\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n', b'\nIshikawa, Shunsuke\n\nEpisode Director\n\n', b'\nHanazawa, Kana\n\nTheme Song Performance\n\n']
+animePopularity	488
+animeDescription	"The Kazama Family—a gang of three wannabe delinquents and close friends, spearheaded by Kenji Kazama, is trying to make a name for themselves at Fujou Academy. On the first day of the term, the gang finds themselves putting out a fire in the Game Development Club. Instead of thanking them, the eccentric club members attack and knock out Kenji's two friends, forcing Kenji to fight for his life. Failing to escape, the gang leader is coerced into joining the Game Development Club.
+
+As he settles in, Kenji gets to know the four girls responsible for his provisional membership—student council president and general tyrant Chitose Karasuyama, spirited tomboy Sakura Mizukami, negligent club advisor Minami Oosawa, and the school's infamous shadow leader Roka Shibasaki. Throughout the Game Development Club's constant shenanigans and his desperate attempts to leave the club, Kenji begins to realize that he may be actually enjoying himself.
+
+[Written by MAL Rewrite]"
+animeRelated	['D-Frag!', 'D-Frag!*']
+animeCharacters	['Shibasaki, Roka', 'Takao', 'Kazama, Kenji', 'Mizukami, Sakura', 'Karasuyama, Chitose', 'Sakai, Tama', 'Funabori', 'Kazama, Noe', 'Conecone, Shawn', 'Oosawa, Minami']
+animeVoices	['Hanazawa, Kana', 'Itou, Shizuka', 'Konishi, Katsuyuki', 'Takahashi, Mikako', 'Saitou, Chiwa', 'Ueda, Kana', 'Toyosaki, Aki', 'Katou, Emiri', 'Nakata, Jouji', 'Koshimizu, Ami']
+animeStaff	[['Sugawara, Seiki', 'Director'], ['Takadera, Takeshi', 'Sound Director'], ['Ishikawa, Shunsuke', 'Episode Director'], ['Hanazawa, Kana', 'Theme Song Performance']]

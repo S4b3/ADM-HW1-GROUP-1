@@ -1,5 +1,5 @@
-animeTitle	b'Dengeki Bunko 2007 Movie Festival Special'
-animeType	b'Special'
+animeTitle	Dengeki Bunko 2007 Movie Festival Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.18
 animeUsers	1984
 animeRank	
-animePopularity	
-animeDescription	"b""Played at Dengeki Bunko's Movie Festival on 21 April 2007 before the Shakugan no Shana, Inukami! and Kino no Tabi movies. It was later released on DVD and sold at Dengeki's 15th Anniversary event."""
-animeRelated	[b'Shakugan no Shana', b'Kino no Tabi: The Beautiful World', b'Inukami!']
-animeCharacters	[b'Shana', b'Kino', b'Youko', b'Sakai, Yuuji', b'Hermes', b'Kawahira, Keita', b'Yoshida, Kazumi', b'Alastor']
-animeVoices	[b'\nKugimiya, Rie\nJapanese\n', b'\nMaeda, Ai\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nAigase, Ryuji\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n']
+animePopularity	7235
+animeDescription	Played at Dengeki Bunko's Movie Festival on 21 April 2007 before the Shakugan no Shana, Inukami! and Kino no Tabi movies. It was later released on DVD and sold at Dengeki's 15th Anniversary event.
+animeRelated	['Shakugan no Shana', 'Kino no Tabi: The Beautiful World', 'Inukami!']
+animeCharacters	['Shana', 'Kino', 'Youko', 'Sakai, Yuuji', 'Hermes', 'Kawahira, Keita', 'Yoshida, Kazumi', 'Alastor']
+animeVoices	['Kugimiya, Rie', 'Maeda, Ai', 'Horie, Yui', 'Hino, Satoshi', 'Aigase, Ryuji', 'Fukuyama, Jun', 'Kawasumi, Ayako']
 animeStaff	[]

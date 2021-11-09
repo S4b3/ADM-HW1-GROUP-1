@@ -1,5 +1,5 @@
-animeTitle	b'Gintama: The Final'
-animeType	b'Movie'
+animeTitle	Gintama: The Final
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	9.0
 animeUsers	29979
 animeRank	
-animePopularity	
-animeDescription	b'New Gintama movie.'
-animeRelated	[b'Gintama', b'Gintama.: Shirogane no Tamashii-hen - Kouhan-sen', b'Gintama: The Semi-Final']
-animeCharacters	[b'Sakata, Gintoki', b'Kagura', b'Shimura, Shinpachi', b'Katsura, Kotarou', b'Hijikata, Toushirou', b'Okita, Sougo', b'Takasugi, Shinsuke', b'Tsukuyo', b'Hasegawa, Taizou', b'Kamui']
-animeVoices	[b'\nSugita, Tomokazu\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nHino, Satoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujita, Youichi\n\nDirector\n\n', b'\nMiyawaki, Chizuru\n\nDirector, Series Composition\n\n', b'\nTakamatsu, Shinji\n\nSound Director\n\n', b'\nSPYAIR\n\nTheme Song Performance\n\n']
+animePopularity	1924
+animeDescription	New Gintama movie.
+animeRelated	['Gintama', 'Gintama.: Shirogane no Tamashii-hen - Kouhan-sen', 'Gintama: The Semi-Final']
+animeCharacters	['Sakata, Gintoki', 'Kagura', 'Shimura, Shinpachi', 'Katsura, Kotarou', 'Hijikata, Toushirou', 'Okita, Sougo', 'Takasugi, Shinsuke', 'Tsukuyo', 'Hasegawa, Taizou', 'Kamui']
+animeVoices	['Sugita, Tomokazu', 'Ishida, Akira', 'Hino, Satoshi']
+animeStaff	[['Fujita, Youichi', 'Director'], ['Miyawaki, Chizuru', 'Director, Series Composition'], ['Takamatsu, Shinji', 'Sound Director'], ['SPYAIR', 'Theme Song Performance']]

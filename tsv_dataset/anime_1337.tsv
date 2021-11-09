@@ -1,5 +1,5 @@
-animeTitle	b'Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA'
-animeType	b'OVA'
+animeTitle	Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.59
 animeUsers	140002
 animeRank	
-animePopularity	
-animeDescription	"b""One morning, Hachiman Hikigaya contemplates the superfluous nature of marriage and its misleading image of happiness. However, he is forced into confronting his skepticism when the Volunteer Service Club is tasked with assisting a local municipal magazine advertise the allure of marriage to younger people. Unfortunately, neither the club's advisor, Shizuka Hiratsuka, nor the other club members have any firsthand experience with the subject. With only one week until the deadline, the group must quickly learn about the intricacies behind the special ceremony, even if they have to resort to more creative means!\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Yahari Ore no Seishun Love Comedy wa Machigatteiru.']
-animeCharacters	[b'Hikigaya, Hachiman', b'Yukinoshita, Yukino', b'Yuigahama, Yui', b'Hiratsuka, Shizuka', b'Totsuka, Saika', b'Hikigaya, Komachi', b'Kawasaki, Saki', b'Zaimokuza, Yoshiteru', b'Miura, Yumiko', b'Ebina, Hina']
-animeVoices	[b'\nEguchi, Takuya\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nTouyama, Nao\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nSasaki, Nozomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshimura, Ai\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nWatari, Wataru\n\nScript, Original Creator\n\n', b'\nHayami, Saori\n\nTheme Song Performance\n\n']
+animePopularity	784
+animeDescription	"One morning, Hachiman Hikigaya contemplates the superfluous nature of marriage and its misleading image of happiness. However, he is forced into confronting his skepticism when the Volunteer Service Club is tasked with assisting a local municipal magazine advertise the allure of marriage to younger people. Unfortunately, neither the club's advisor, Shizuka Hiratsuka, nor the other club members have any firsthand experience with the subject. With only one week until the deadline, the group must quickly learn about the intricacies behind the special ceremony, even if they have to resort to more creative means!
+
+[Written by MAL Rewrite]"
+animeRelated	['Yahari Ore no Seishun Love Comedy wa Machigatteiru.']
+animeCharacters	['Hikigaya, Hachiman', 'Yukinoshita, Yukino', 'Yuigahama, Yui', 'Hiratsuka, Shizuka', 'Totsuka, Saika', 'Hikigaya, Komachi', 'Kawasaki, Saki', 'Zaimokuza, Yoshiteru', 'Miura, Yumiko', 'Ebina, Hina']
+animeVoices	['Eguchi, Takuya', 'Hayami, Saori', 'Touyama, Nao', 'Yuzuki, Ryouka', 'Komatsu, Mikako', 'Yuuki, Aoi', 'Koshimizu, Ami', 'Hiyama, Nobuyuki', 'Inoue, Marina', 'Sasaki, Nozomi']
+animeStaff	[['Yoshimura, Ai', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Watari, Wataru', 'Script, Original Creator'], ['Hayami, Saori', 'Theme Song Performance']]

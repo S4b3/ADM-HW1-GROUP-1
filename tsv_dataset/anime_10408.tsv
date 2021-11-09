@@ -1,5 +1,5 @@
-animeTitle	b'Bloodivores'
-animeType	b'TV'
+animeTitle	Bloodivores
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.49
 animeUsers	33934
 animeRank	
-animePopularity	
-animeDescription	"b'60 years ago, a strange case of insomnia struck the population, forcing them to stay awake for more than a full week. The victims, completely sleep deprived, all went mad. To cure this illness, a new medicine was produced, but the side effects turned the patients into vampires. Humanity went to war against this new species and triumphed, but some of the vampires managed to survive. Born from a Human and a Vampire, the main character Mi Liu, ""The Child of Hope,"" is to represent the new hope that will connect the two species. Ringleader of a bank robbery, Mi Liu is arrested and transferred to a special prison of the National Defense Agency that monitors Vampires. Trying to break free with Anji, Mi Liu is attacked by strange monsters and he finds out that the prison location corresponds to the birthplace of Vampires, the old capital ""Blue Town."" Why are Vampires trapped in Blue Town? What are those strange monsters attacking them? Our heroes must fight to solve those mysteries.\n\n(Source: Emon via ANN)'"
-animeRelated	[b'BLOODIVORES']
-animeCharacters	[b'Mi, Liu', b'Zo, Anji', b'Chen, Fong', b'Win, Chao', b'Lee, Shin', b'Lou, Yao', b'Yaya', b'Rod', b'Shimon, Guching', b'Mi, Tenju']
-animeVoices	[b'\nAkabane, Kenji\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nIchiki, Mitsuhiro\nJapanese\n', b'\nYamaguchi, Shouhei\nJapanese\n', b'\nSatou, Takuya\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nNakada, Arisa\nJapanese\n', b'\nShundou, Mitsutoshi\nJapanese\n', b'\nMoriya, Satomi\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMili\n\nTheme Song Performance\n\n', b'\nUmino, Yoshimi\n\nArt Director\n\n', b'\nNobori, Haruko\n\nColor Design\n\n', b'\nISAO\n\nMusic\n\n']
+animePopularity	1735
+animeDescription	"60 years ago, a strange case of insomnia struck the population, forcing them to stay awake for more than a full week. The victims, completely sleep deprived, all went mad. To cure this illness, a new medicine was produced, but the side effects turned the patients into vampires. Humanity went to war against this new species and triumphed, but some of the vampires managed to survive. Born from a Human and a Vampire, the main character Mi Liu, ""The Child of Hope,"" is to represent the new hope that will connect the two species. Ringleader of a bank robbery, Mi Liu is arrested and transferred to a special prison of the National Defense Agency that monitors Vampires. Trying to break free with Anji, Mi Liu is attacked by strange monsters and he finds out that the prison location corresponds to the birthplace of Vampires, the old capital ""Blue Town."" Why are Vampires trapped in Blue Town? What are those strange monsters attacking them? Our heroes must fight to solve those mysteries.
+
+(Source: Emon via ANN)"
+animeRelated	['BLOODIVORES']
+animeCharacters	['Mi, Liu', 'Zo, Anji', 'Chen, Fong', 'Win, Chao', 'Lee, Shin', 'Lou, Yao', 'Yaya', 'Rod', 'Shimon, Guching', 'Mi, Tenju']
+animeVoices	['Akabane, Kenji', 'Kitamura, Eri', 'Ichiki, Mitsuhiro', 'Yamaguchi, Shouhei', 'Satou, Takuya', 'Hayami, Show', 'Nakada, Arisa', 'Shundou, Mitsutoshi', 'Moriya, Satomi', 'Touchi, Hiroki']
+animeStaff	[['Mili', 'Theme Song Performance'], ['Umino, Yoshimi', 'Art Director'], ['Nobori, Haruko', 'Color Design'], ['ISAO', 'Music']]

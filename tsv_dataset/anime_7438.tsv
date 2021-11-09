@@ -1,5 +1,5 @@
-animeTitle	b'Gegege no Kitarou: Jigoku-hen'
-animeType	b'TV'
+animeTitle	Gegege no Kitarou: Jigoku-hen
+animeType	TV
 animeNumEpisode	7
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.25
 animeUsers	172
 animeRank	
-animePopularity	
-animeDescription	b'The origins of Kitarou.'
-animeRelated	[b'Gegege no Kitarou (2007)', b'Gegege no Kitarou (1968)', b'Gegege no Kitarou (1971)', b'Gegege no Kitarou (1985)', b'Gegege no Kitarou (1996)']
-animeCharacters	[b'Kitarou', b'Medama Oyaji', b'Neko Musume', b'Nezumi Otoko', b'Babaa, Sunakake']
-animeVoices	[b'\nToda, Keiko\nJapanese\n', b'\nTanonaka, Isamu\nJapanese\n', b'\nMita, Yuuko\nJapanese\n', b'\nTomiyama, Kei\nJapanese\n', b'\nEmori, Hiroko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKasai, Osamu\n\nDirector\n\n', b'\nMiyazawa, Yasunori\n\nKey Animation, Animation Director\n\n', b'\nKanemori, Yoshinori\n\nCharacter Design\n\n', b'\nKimura, Kyotaro\n\nPlanning\n\n']
+animePopularity	11569
+animeDescription	The origins of Kitarou.
+animeRelated	['Gegege no Kitarou (2007)', 'Gegege no Kitarou (1968)', 'Gegege no Kitarou (1971)', 'Gegege no Kitarou (1985)', 'Gegege no Kitarou (1996)']
+animeCharacters	['Kitarou', 'Medama Oyaji', 'Neko Musume', 'Nezumi Otoko', 'Babaa, Sunakake']
+animeVoices	['Toda, Keiko', 'Tanonaka, Isamu', 'Mita, Yuuko', 'Tomiyama, Kei', 'Emori, Hiroko']
+animeStaff	[['Kasai, Osamu', 'Director'], ['Miyazawa, Yasunori', 'Key Animation, Animation Director'], ['Kanemori, Yoshinori', 'Character Design'], ['Kimura, Kyotaro', 'Planning']]

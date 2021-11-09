@@ -1,5 +1,5 @@
-animeTitle	"b""Asura Cryin'"""
-animeType	b'TV'
+animeTitle	Asura Cryin'
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.92
 animeUsers	43189
 animeRank	
-animePopularity	
-animeDescription	"b""Natsume Tomoharu is a normal high-school student in every way with one exception: he's being followed by the ghost of his best friend, Misao.\n\nAfter moving into his brother's old house, Tomoharu expects to continue living his normal life but is one day left with a mysterious and locked briefcase without any instruction. At first he plans to leave it in storage; however, his house is soon invaded by multiple groups of people after the briefcase. Although still not knowing the purpose of the briefcase, Tomoharu and Misao attempt to escape with it.\n\nFrom there on, Tomoharu tries to learn the secrets behind the briefcase, the connections between it and Misao, and why it has the power to change the world.\n\n[Written by MAL Rewrite]"""
-animeRelated	"[b""Asura Cryin'"", b""Asura Cryin' 2""]"
-animeCharacters	[b'Takatsuki, Kanade', b'Minakami, Misao', b'Natsume, Tomoharu', b'Kurosaki, Shuri', b'Kitsutaka, Touru', b'Fortuna Somesheru Miku Crowzenbruhi, Ania', b'Shizuma, Aine', b'Kurasawa, Rikka', b'Saeki, Reishirou', b'Higuchi, Takuma']
-animeVoices	[b'\nNonaka, Ai\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nKaida, Yuuko\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nShimono, Hiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakanishi, Go\n\nProducer\n\n', b'\nKamimura, Osamu\n\nProducer\n\n', b'\nMatsuura, Hiroaki\n\nProducer\n\n', b'\nKusakawa, Keizou\n\nDirector, Episode Director, Storyboard\n\n']
+animePopularity	1696
+animeDescription	"Natsume Tomoharu is a normal high-school student in every way with one exception: he's being followed by the ghost of his best friend, Misao.
+
+After moving into his brother's old house, Tomoharu expects to continue living his normal life but is one day left with a mysterious and locked briefcase without any instruction. At first he plans to leave it in storage; however, his house is soon invaded by multiple groups of people after the briefcase. Although still not knowing the purpose of the briefcase, Tomoharu and Misao attempt to escape with it.
+
+From there on, Tomoharu tries to learn the secrets behind the briefcase, the connections between it and Misao, and why it has the power to change the world.
+
+[Written by MAL Rewrite]"
+animeRelated	"[""Asura Cryin'"", ""Asura Cryin' 2""]"
+animeCharacters	['Takatsuki, Kanade', 'Minakami, Misao', 'Natsume, Tomoharu', 'Kurosaki, Shuri', 'Kitsutaka, Touru', 'Fortuna Somesheru Miku Crowzenbruhi, Ania', 'Shizuma, Aine', 'Kurasawa, Rikka', 'Saeki, Reishirou', 'Higuchi, Takuma']
+animeVoices	['Nonaka, Ai', 'Tomatsu, Haruka', 'Irino, Miyu', 'Tanaka, Rie', 'Kaida, Yuuko', 'Yahagi, Sayuri', 'Satou, Satomi', 'Kitamura, Eri', 'Morikubo, Shoutarou', 'Shimono, Hiro']
+animeStaff	[['Nakanishi, Go', 'Producer'], ['Kamimura, Osamu', 'Producer'], ['Matsuura, Hiroaki', 'Producer'], ['Kusakawa, Keizou', 'Director, Episode Director, Storyboard']]

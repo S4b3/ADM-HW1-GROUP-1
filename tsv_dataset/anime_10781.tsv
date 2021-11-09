@@ -1,5 +1,5 @@
-animeTitle	b'Military! Special'
-animeType	b'Special'
+animeTitle	Military! Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.35
 animeUsers	2428
 animeRank	
-animePopularity	
-animeDescription	b'Episode 13 included with the Blu-ray/DVD release. '
-animeRelated	[b'Military!']
-animeCharacters	[b'Shakirov', b'Yano, Souhei', b'Grummans, Aria', b'Haruka', b'Lutgalnikov', b'Cecilie', b'Mamo-chan', b'Grue', b'Yano, Souichi', b'Mizuno, Yukari']
-animeVoices	[b'\nMinase, Inori\nJapanese\n', b'\nYamaya, Yoshitaka\nJapanese\n', b'\nSuzuki, Misaki\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nTouyama, Nao\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nArai, Satomi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nCho\nJapanese\n', b'\nTerasaki, Ayano\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMinase, Inori\n\nTheme Song Performance\n\n']
+animePopularity	7123
+animeDescription	Episode 13 included with the Blu-ray/DVD release. 
+animeRelated	['Military!']
+animeCharacters	['Shakirov', 'Yano, Souhei', 'Grummans, Aria', 'Haruka', 'Lutgalnikov', 'Cecilie', 'Mamo-chan', 'Grue', 'Yano, Souichi', 'Mizuno, Yukari']
+animeVoices	['Minase, Inori', 'Yamaya, Yoshitaka', 'Suzuki, Misaki', 'Sakura, Ayane', 'Touyama, Nao', 'Kayano, Ai', 'Arai, Satomi', 'Sakurai, Takahiro', 'Cho', 'Terasaki, Ayano']
+animeStaff	[['Minase, Inori', 'Theme Song Performance']]

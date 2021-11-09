@@ -1,5 +1,5 @@
-animeTitle	b'The\xe2\x98\x86Doraemons: Goal! Goal! Goal!!'
-animeType	b'Movie'
+animeTitle	The☆Doraemons: Goal! Goal! Goal!!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.18
 animeUsers	504
 animeRank	
-animePopularity	
-animeDescription	b'The Doraemons, a group of culturally different versions of the Doraemon, gather to play a game of soccer.\n\n(Source: ANN)'
-animeRelated	[b'Doraemon Movie 23: Nobita to Robot Kingdom']
-animeCharacters	[b'Doraemon', b'Dora-rinho', b'El Matadora', b'Dora-nichov', b'Dora the Kid', b'Dr. Achimoff', b'Dora-med III', b'Wang, Dora']
+animePopularity	10555
+animeDescription	"The Doraemons, a group of culturally different versions of the Doraemon, gather to play a game of soccer.
+
+(Source: ANN)"
+animeRelated	['Doraemon Movie 23: Nobita to Robot Kingdom']
+animeCharacters	['Doraemon', 'Dora-rinho', 'El Matadora', 'Dora-nichov', 'Dora the Kid', 'Dr. Achimoff', 'Dora-med III', 'Wang, Dora']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYasumi, Tetsuo\n\nDirector\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n', b'\nMatsuda, Akihiko\n\nSound Effects\n\n', b'\nOokuma, Akira\n\nRecording Engineer\n\n']
+animeStaff	[['Yasumi, Tetsuo', 'Director'], ['Fujiko, Fujio F.', 'Original Creator'], ['Matsuda, Akihiko', 'Sound Effects'], ['Ookuma, Akira', 'Recording Engineer']]

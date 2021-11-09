@@ -1,5 +1,5 @@
-animeTitle	b'Bishoujo Senshi Sailor Moon Eternal Movie 2'
-animeType	b'Movie'
+animeTitle	Bishoujo Senshi Sailor Moon Eternal Movie 2
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.69
 animeUsers	5032
 animeRank	
-animePopularity	
-animeDescription	"b""The threat of the Dead Moon Circus still looms over Usagi Tsukino and the Sailor Guardians. Driven into a corner, the Earth plunges further into darkness as nightmares continue to spread. The Outer Sailor Guardians sense that something is amiss when the young Hotaru Tomoe begins to rapidly age following the total solar eclipse. Believing that their prince and princess are in danger, the four reawaken their powers once more to reunite and aid their fellow Sailor Guardians. \n\nDue to the influence of the eclipse, Usagi and Mamoru Chiba's conditions begin to worsen, causing their powers to deteriorate. Without their leader, the Guardians are at a loss as to what they should do next. Frustrated by the situation, Hotaru and Chibiusa set off on their own to confront the Amazoness Quartet, who have been causing the brunt of the chaos thus far. As Queen Nehelenia's liberation quickly approaches, the Sailor Guardians are running out of time to stop her.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Bishoujo Senshi Sailor Moon', b'Bishoujo Senshi Sailor Moon SuperS', b'Bishoujo Senshi Sailor Moon Eternal Movie 1']
-animeCharacters	[b'Tsukino, Usagi', b'Hino, Rei', b'Tomoe, Hotaru', b'Kino, Makoto', b'Aino, Minako', b'Tenou, Haruka', b'Mizuno, Ami', b'Chiba, Mamoru', b'Kaiou, Michiru', b'Chibiusa']
-animeVoices	[b'\nSatou, Rina\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKon, Chiaki\n\nDirector\n\n', b'\nFudeyasu, Kazuyuki\n\nScript\n\n', b'\nItou, Shizuka\n\nTheme Song Performance\n\n', b'\nKoshimizu, Ami\n\nTheme Song Performance\n\n']
+animePopularity	4576
+animeDescription	"The threat of the Dead Moon Circus still looms over Usagi Tsukino and the Sailor Guardians. Driven into a corner, the Earth plunges further into darkness as nightmares continue to spread. The Outer Sailor Guardians sense that something is amiss when the young Hotaru Tomoe begins to rapidly age following the total solar eclipse. Believing that their prince and princess are in danger, the four reawaken their powers once more to reunite and aid their fellow Sailor Guardians. 
+
+Due to the influence of the eclipse, Usagi and Mamoru Chiba's conditions begin to worsen, causing their powers to deteriorate. Without their leader, the Guardians are at a loss as to what they should do next. Frustrated by the situation, Hotaru and Chibiusa set off on their own to confront the Amazoness Quartet, who have been causing the brunt of the chaos thus far. As Queen Nehelenia's liberation quickly approaches, the Sailor Guardians are running out of time to stop her.
+
+[Written by MAL Rewrite]"
+animeRelated	['Bishoujo Senshi Sailor Moon', 'Bishoujo Senshi Sailor Moon SuperS', 'Bishoujo Senshi Sailor Moon Eternal Movie 1']
+animeCharacters	['Tsukino, Usagi', 'Hino, Rei', 'Tomoe, Hotaru', 'Kino, Makoto', 'Aino, Minako', 'Tenou, Haruka', 'Mizuno, Ami', 'Chiba, Mamoru', 'Kaiou, Michiru', 'Chibiusa']
+animeVoices	['Satou, Rina', 'Kanemoto, Hisako']
+animeStaff	[['Kon, Chiaki', 'Director'], ['Fudeyasu, Kazuyuki', 'Script'], ['Itou, Shizuka', 'Theme Song Performance'], ['Koshimizu, Ami', 'Theme Song Performance']]

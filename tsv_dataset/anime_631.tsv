@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam Thunderbolt: December Sky'
-animeType	b'Movie'
+animeTitle	Mobile Suit Gundam Thunderbolt: December Sky
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.93
 animeUsers	9348
 animeRank	
-animePopularity	
-animeDescription	"b'Federation troops and Zeon forces carry out a fierce battle in the Thunderbolt Sector in what was once Side 4 ""Moore."" The Thunderbolt Sector is a shoal zone composed of the debris of destroyed space colonies, named for the electrical discharges from the metal debris. MS pilot Io Flemming is among the Federation soldiers who are dispatched to the area, where Zeon sniper Daryl Lorenz awaits them on the battlefield.\n\n(Source: Gundam Wikia)'"
-animeRelated	[b'Kidou Senshi Gundam Thunderbolt', b'Mobile Suit Gundam Thunderbolt', b'Mobile Suit Gundam Thunderbolt: Bandit Flower']
-animeCharacters	[b'Fleming, Io', b'Lorenz, Daryl', b'Sexton, J. J.', b'Mitchum, Karla', b'Peer, Claudia', b'Ness, Fisher', b'Graham', b'Kaka, Cornelius', b'Burroughs']
-animeVoices	[b'\nNakamura, Yuuichi\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nTsuchida, Hiroshi\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nYukinari, Toa\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nSasaki, Mutsumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuo, Kou\n\nDirector, Script\n\n', b'\nSinterniklaas, Michael\n\nADR Director\n\n', b'\nOotagaki, Yasuo\n\nOriginal Creator\n\n', b'\nTakaya, Hirotoshi\n\nCharacter Design\n\n']
+animePopularity	4232
+animeDescription	"Federation troops and Zeon forces carry out a fierce battle in the Thunderbolt Sector in what was once Side 4 ""Moore."" The Thunderbolt Sector is a shoal zone composed of the debris of destroyed space colonies, named for the electrical discharges from the metal debris. MS pilot Io Flemming is among the Federation soldiers who are dispatched to the area, where Zeon sniper Daryl Lorenz awaits them on the battlefield.
+
+(Source: Gundam Wikia)"
+animeRelated	['Kidou Senshi Gundam Thunderbolt', 'Mobile Suit Gundam Thunderbolt', 'Mobile Suit Gundam Thunderbolt: Bandit Flower']
+animeCharacters	['Fleming, Io', 'Lorenz, Daryl', 'Sexton, J. J.', 'Mitchum, Karla', 'Peer, Claudia', 'Ness, Fisher', 'Graham', 'Kaka, Cornelius', 'Burroughs']
+animeVoices	['Nakamura, Yuuichi', 'Kimura, Ryouhei', 'Tsuchida, Hiroshi', 'Ohara, Sayaka', 'Yukinari, Toa', 'Sakuya, Shunsuke', 'Hirakawa, Daisuke', 'Sasaki, Mutsumi']
+animeStaff	[['Matsuo, Kou', 'Director, Script'], ['Sinterniklaas, Michael', 'ADR Director'], ['Ootagaki, Yasuo', 'Original Creator'], ['Takaya, Hirotoshi', 'Character Design']]

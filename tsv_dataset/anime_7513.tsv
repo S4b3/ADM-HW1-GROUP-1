@@ -1,5 +1,5 @@
-animeTitle	b'Youkai Watch \xe2\x99\xaa'
-animeType	b'TV'
+animeTitle	Youkai Watch ♪
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.24
 animeUsers	296
 animeRank	
-animePopularity	
-animeDescription	"b""The new show will feature unique and returning Yo-kai. The comedy will also center on the original series' main characters: fifth-grader Keita (Nate in the English version), ghost butler Whisper, and popular Yo-kai like Jibanyan and Komasan. The original cast members for these four characters are returning for this new series.\n\n(Source: ANN)"""
-animeRelated	[b'Youkai Watch!']
-animeCharacters	[b'Jibanyan', b'Komasan', b'Whisper', b'Amano, Keita', b'Imada, Kanchi', b'Kodama, Fumika', b'Jimenken', b'Kumashima, Gorouta']
+animePopularity	10556
+animeDescription	"The new show will feature unique and returning Yo-kai. The comedy will also center on the original series' main characters: fifth-grader Keita (Nate in the English version), ghost butler Whisper, and popular Yo-kai like Jibanyan and Komasan. The original cast members for these four characters are returning for this new series.
+
+(Source: ANN)"
+animeRelated	['Youkai Watch!']
+animeCharacters	['Jibanyan', 'Komasan', 'Whisper', 'Amano, Keita', 'Imada, Kanchi', 'Kodama, Fumika', 'Jimenken', 'Kumashima, Gorouta']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nEndou, Aya\n\nTheme Song Performance\n\n', b'\nKozakura, Etsuko\n\nTheme Song Lyrics\n\n', b'\nYoshiki, Risa\n\nTheme Song Performance\n\n', b'\nKing Cream Soda.\n\nTheme Song Performance\n\n']
+animeStaff	[['Endou, Aya', 'Theme Song Performance'], ['Kozakura, Etsuko', 'Theme Song Lyrics'], ['Yoshiki, Risa', 'Theme Song Performance'], ['King Cream Soda.', 'Theme Song Performance']]

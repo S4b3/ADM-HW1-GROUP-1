@@ -1,5 +1,5 @@
-animeTitle	b'Sore Ike! Anpanman: Dokin-chan no Dokidoki Calendar'
-animeType	b'Movie'
+animeTitle	Sore Ike! Anpanman: Dokin-chan no Dokidoki Calendar
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Sore Ike! Anpanman']
-animeCharacters	[b'Anpanman', b'Baikinman', b'Dokin-chan', b'Currypanman', b'Cheese', b'Katsudonman', b'Oji-san, Jam', b'Shokupanman', b'Kamameshidon', b'Nyanja']
-animeVoices	[b'\nToda, Keiko\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagaoka, Akinori\n\nDirector\n\n', b'\nMaeda, Minoru\n\nAnimation Director, Character Design\n\n', b'\nYanase, Takashi\n\nOriginal Creator\n\n', b'\nIzumi, Taku\n\nMusic\n\n']
+animePopularity	15808
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Sore Ike! Anpanman']
+animeCharacters	['Anpanman', 'Baikinman', 'Dokin-chan', 'Currypanman', 'Cheese', 'Katsudonman', 'Oji-san, Jam', 'Shokupanman', 'Kamameshidon', 'Nyanja']
+animeVoices	['Toda, Keiko', 'Nakao, Ryusei', 'Tsuru, Hiromi']
+animeStaff	[['Nagaoka, Akinori', 'Director'], ['Maeda, Minoru', 'Animation Director, Character Design'], ['Yanase, Takashi', 'Original Creator'], ['Izumi, Taku', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Kuroshitsuji: Book of Circus'
-animeType	b'TV'
+animeTitle	Kuroshitsuji: Book of Circus
+animeType	TV
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.09
 animeUsers	178695
 animeRank	
-animePopularity	
-animeDescription	"b""Full of wonder and excitement, the Noah's Arc Circus troupe has captured audiences with their dazzling performances. Yet these fantastic acts don't come without a price. Children have mysteriously gone missing around London, correlating to that of the groups' movements. Unsettled by these kidnappings, Queen Victoria sends in her notorious guard dog, Ciel Phantomhive, and his ever-faithful demon butler, Sebastian Michaelis, on an undercover mission to find these missing children.\n\nTrying to balance their new circus acts with their covert investigation under the big top, however, proves to be quite a challenge. With the other performers growing suspicious and the threat of the circus' mysterious benefactor looming overhead, what the two discover will shake Ciel to his very core.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kuroshitsuji', b'Kuroshitsuji: Book of Murder']
-animeCharacters	[b'Michaelis, Sebastian', b'Phantomhive, Ciel', b'Sutcliff, Grell', b'Undertaker', b'Finnian', b'Mey-Rin', b'Midford, Elizabeth', b'Snake', b'Joker', b'Spears, William T.']
-animeVoices	[b'\nOno, Daisuke\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nKatou, Emiri\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAbe, Noriyuki\n\nDirector\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nTokoro, Tomokazu\n\nEpisode Director\n\n', b'\nKosaka, Harume\n\nEpisode Director\n\n']
+animePopularity	493
+animeDescription	"Full of wonder and excitement, the Noah's Arc Circus troupe has captured audiences with their dazzling performances. Yet these fantastic acts don't come without a price. Children have mysteriously gone missing around London, correlating to that of the groups' movements. Unsettled by these kidnappings, Queen Victoria sends in her notorious guard dog, Ciel Phantomhive, and his ever-faithful demon butler, Sebastian Michaelis, on an undercover mission to find these missing children.
+
+Trying to balance their new circus acts with their covert investigation under the big top, however, proves to be quite a challenge. With the other performers growing suspicious and the threat of the circus' mysterious benefactor looming overhead, what the two discover will shake Ciel to his very core.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kuroshitsuji', 'Kuroshitsuji: Book of Murder']
+animeCharacters	['Michaelis, Sebastian', 'Phantomhive, Ciel', 'Sutcliff, Grell', 'Undertaker', 'Finnian', 'Mey-Rin', 'Midford, Elizabeth', 'Snake', 'Joker', 'Spears, William T.']
+animeVoices	['Ono, Daisuke', 'Sakamoto, Maaya', 'Fukuyama, Jun', 'Suwabe, Junichi', 'Kaji, Yuki', 'Katou, Emiri', 'Tamura, Yukari', 'Terashima, Takuma', 'Miyano, Mamoru', 'Sugiyama, Noriaki']
+animeStaff	[['Abe, Noriyuki', 'Director'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Tokoro, Tomokazu', 'Episode Director'], ['Kosaka, Harume', 'Episode Director']]

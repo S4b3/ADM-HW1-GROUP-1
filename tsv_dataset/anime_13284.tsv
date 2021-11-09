@@ -1,5 +1,5 @@
-animeTitle	b'Shinrabanshou: Tenchi Shinmei no Shou'
-animeType	b'ONA'
+animeTitle	Shinrabanshou: Tenchi Shinmei no Shou
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The ONA produced to celebrate the 10th anniversary of Shinra Bansho Choco from Bandai.\n\nShinra Bansho Choco is a chocolate biscuit sandwich brand that includes a card that features characters of the Gods.\n\n(Source: MAL)'
+animePopularity	12076
+animeDescription	"The ONA produced to celebrate the 10th anniversary of Shinra Bansho Choco from Bandai.
+
+Shinra Bansho Choco is a chocolate biscuit sandwich brand that includes a card that features characters of the Gods.
+
+(Source: MAL)"
 animeRelated	[]
-animeCharacters	[b'Mobius', b'Saiga', b'Balunseal', b'Arc', b'Shizuku', b'Polaris', b'Arcana', b'Sai', b'Makishiusu', b'Sirius']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nMurase, Ayumu\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nOno, Yuuki\nJapanese\n', b'\nTakatsuka, Masaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshitake, Masato\n\nEditing\n\n', b'\nMatsumoto, Katsuki\n\nBackground Art\n\n', b'\nTayama, Osamu\n\nArt Director\n\n', b'\nTeramoto, Yuuki\n\nDirector of Photography\n\n']
+animeCharacters	['Mobius', 'Saiga', 'Balunseal', 'Arc', 'Shizuku', 'Polaris', 'Arcana', 'Sai', 'Makishiusu', 'Sirius']
+animeVoices	['Kamiya, Hiroshi', 'Midorikawa, Hikaru', 'Minagawa, Junko', 'Murase, Ayumu', 'Sawashiro, Miyuki', 'Fujimura, Ayumi', 'Sakura, Ayane', 'Shimono, Hiro', 'Ono, Yuuki', 'Takatsuka, Masaya']
+animeStaff	[['Yoshitake, Masato', 'Editing'], ['Matsumoto, Katsuki', 'Background Art'], ['Tayama, Osamu', 'Art Director'], ['Teramoto, Yuuki', 'Director of Photography']]

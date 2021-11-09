@@ -1,4 +1,4 @@
-animeTitle	b'Sumiko no Egao'
+animeTitle	Sumiko no Egao
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A music video starring Sumiko.'
-animeRelated	[b'Sumiko']
-animeCharacters	[b'Yoshida, Sumiko']
+animePopularity	15578
+animeDescription	A music video starring Sumiko.
+animeRelated	['Sumiko']
+animeCharacters	['Yoshida, Sumiko']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nUrumaDelvi\n\nCharacter Design\n\n']
+animeStaff	[['UrumaDelvi', 'Character Design']]

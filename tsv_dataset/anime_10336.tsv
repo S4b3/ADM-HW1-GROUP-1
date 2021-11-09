@@ -1,5 +1,5 @@
-animeTitle	b'Moekan The Animation'
-animeType	b'OVA'
+animeTitle	Moekan The Animation
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.51
 animeUsers	897
 animeRank	
-animePopularity	
-animeDescription	"b""An anarchistic country that is said to dominate the world exists on a vast island known as Moekko Island. This is where the final works of AC Company's android combat maids (resembling beautiful young girls) are done, also where these maids get there communication training. A new maid is to come to the island to be trained, Rinia, she is a young looking girl, who has lost her all of her memories, she tries very hard to impress the owner at Moekko island, but just ends up making a lot of trouble around the mansion. Takahiro, the owner of Moekko island, a depressive young man who has also lost his memories is seen as a very unhappy person who thinks Rinia will only be trouble around the mansion. As time passes, Takahiro slowly grows attached to Rinia's attempted ways of helping and so starts a beautiful relationship among the quiet island. \n\n(Source: ANN)"""
+animePopularity	8639
+animeDescription	"An anarchistic country that is said to dominate the world exists on a vast island known as Moekko Island. This is where the final works of AC Company's android combat maids (resembling beautiful young girls) are done, also where these maids get there communication training. A new maid is to come to the island to be trained, Rinia, she is a young looking girl, who has lost her all of her memories, she tries very hard to impress the owner at Moekko island, but just ends up making a lot of trouble around the mansion. Takahiro, the owner of Moekko island, a depressive young man who has also lost his memories is seen as a very unhappy person who thinks Rinia will only be trouble around the mansion. As time passes, Takahiro slowly grows attached to Rinia's attempted ways of helping and so starts a beautiful relationship among the quiet island. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Kanzaki, Takahiro', b'Rinia', b'Rei']
-animeVoices	[b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nNaruse, Mia\nJapanese\n', b'\nSasajima, Kaoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShioya, Yoku\n\nSound Director\n\n', b'\nKatou, Hiroto\n\nEpisode Director, Storyboard\n\n', b'\nYamanaka, Norimasa\n\nTheme Song Arrangement\n\n', b'\nSCA-DI\n\nOriginal Creator\n\n']
+animeCharacters	['Kanzaki, Takahiro', 'Rinia', 'Rei']
+animeVoices	['Morikawa, Toshiyuki', 'Naruse, Mia', 'Sasajima, Kaoru']
+animeStaff	[['Shioya, Yoku', 'Sound Director'], ['Katou, Hiroto', 'Episode Director, Storyboard'], ['Yamanaka, Norimasa', 'Theme Song Arrangement'], ['SCA-DI', 'Original Creator']]

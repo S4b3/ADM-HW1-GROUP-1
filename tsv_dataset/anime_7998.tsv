@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam G40'
-animeType	b'ONA'
+animeTitle	Mobile Suit Gundam G40
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.13
 animeUsers	1156
 animeRank	
-animePopularity	
-animeDescription	b'U.C. 0079 - A squadron of Zakus from the Principality of Zeon invades a neutral space colony. Amuro Ray reluctantly pilots the Gundam G40 prototype mobile suit to combat the threat, as well as Zeon ace pilot Char Aznable and his custom red Zaku II.\n\n(Source: ANN)'
-animeRelated	[b'Mobile Suit Gundam']
-animeCharacters	[b'Aznable, Char', b'Ray, Amuro']
+animePopularity	8351
+animeDescription	"U.C. 0079 - A squadron of Zakus from the Principality of Zeon invades a neutral space colony. Amuro Ray reluctantly pilots the Gundam G40 prototype mobile suit to combat the threat, as well as Zeon ace pilot Char Aznable and his custom red Zaku II.
+
+(Source: ANN)"
+animeRelated	['Mobile Suit Gundam']
+animeCharacters	['Aznable, Char', 'Ray, Amuro']
 animeVoices	[]
 animeStaff	[]

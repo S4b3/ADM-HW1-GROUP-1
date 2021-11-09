@@ -1,5 +1,5 @@
-animeTitle	b'Gokicha!!'
-animeType	b'ONA'
+animeTitle	Gokicha!!
+animeType	ONA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.56
 animeUsers	5637
 animeRank	
-animePopularity	
-animeDescription	"b""Gokicha is a small cockroach girl who has moved from Kanto to Hokkaido. She hopes the people in Hokkaido, who are less used to her kind, will become her friends. Despite her best intentions, however, she always seems to find herself on the bottom of someone's shoe or covered in insecticide. As Gokicha and her friend Chaba try to make it on the streets, it becomes apparent that the lives of cockroaches are full of peril.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Gokicha']
-animeCharacters	[b'Gokicha', b'Chaba', b'Seinen']
-animeVoices	[b'\nNoto, Mamiko\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNoto, Mamiko\n\nTheme Song Performance\n\n', b'\nRui, Tamachi\n\nOriginal Creator\n\n', b'\nFuruya, Yuuji\n\nSound Effects\n\n', b'\nYasuda, Masaki\n\nExecutive Producer\n\n']
+animePopularity	4989
+animeDescription	"Gokicha is a small cockroach girl who has moved from Kanto to Hokkaido. She hopes the people in Hokkaido, who are less used to her kind, will become her friends. Despite her best intentions, however, she always seems to find herself on the bottom of someone's shoe or covered in insecticide. As Gokicha and her friend Chaba try to make it on the streets, it becomes apparent that the lives of cockroaches are full of peril.
+
+[Written by MAL Rewrite]"
+animeRelated	['Gokicha']
+animeCharacters	['Gokicha', 'Chaba', 'Seinen']
+animeVoices	['Noto, Mamiko', 'Kugimiya, Rie', 'Matsuoka, Yoshitsugu']
+animeStaff	[['Noto, Mamiko', 'Theme Song Performance'], ['Rui, Tamachi', 'Original Creator'], ['Furuya, Yuuji', 'Sound Effects'], ['Yasuda, Masaki', 'Executive Producer']]

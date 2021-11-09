@@ -1,5 +1,5 @@
-animeTitle	b'Tsukimonogatari'
-animeType	b'TV'
+animeTitle	Tsukimonogatari
+animeType	TV
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.12
 animeUsers	201785
 animeRank	
-animePopularity	
-animeDescription	b'Koyomi Araragi is studying hard in preparation for his college entrance exams when he begins to notice something very strange: his reflection no longer appears in a mirror, a characteristic of a true vampire. Worried about the state of his body, he enlists the help of the human-like doll Yotsugi Ononoki and her master Yozuru Kagenui, an immortal oddity specialist.\n\nQuickly realizing what is wrong with him, Yozuru gives him two choices: either abstain from using the vampiric abilities he received from Shinobu Oshino, or lose his humanity forever.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Monogatari Series: Final Season', b'Monogatari Series: Second Season', b'Owarimonogatari', b'Okitegami Kyouko no Bibouroku x Monogatari']
-animeCharacters	[b'Araragi, Koyomi', b'Ononoki, Yotsugi', b'Senjougahara, Hitagi', b'Oshino, Shinobu', b'Oshino, Ougi', b'Araragi, Karen', b'Araragi, Tsukihi', b'Kagenui, Yozuru', b'Teori, Tadatsuru']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinbou, Akiyuki\n\nDirector, Series Composition\n\n', b'\nItamura, Tomoyuki\n\nDirector, Episode Director, Storyboard, Key Animation\n\n', b'\nMiyamoto, Yukihiro\n\nEpisode Director\n\n', b'\nOkada, Kenjirou\n\nEpisode Director\n\n']
+animePopularity	466
+animeDescription	"Koyomi Araragi is studying hard in preparation for his college entrance exams when he begins to notice something very strange: his reflection no longer appears in a mirror, a characteristic of a true vampire. Worried about the state of his body, he enlists the help of the human-like doll Yotsugi Ononoki and her master Yozuru Kagenui, an immortal oddity specialist.
+
+Quickly realizing what is wrong with him, Yozuru gives him two choices: either abstain from using the vampiric abilities he received from Shinobu Oshino, or lose his humanity forever.
+
+[Written by MAL Rewrite]"
+animeRelated	['Monogatari Series: Final Season', 'Monogatari Series: Second Season', 'Owarimonogatari', 'Okitegami Kyouko no Bibouroku x Monogatari']
+animeCharacters	['Araragi, Koyomi', 'Ononoki, Yotsugi', 'Senjougahara, Hitagi', 'Oshino, Shinobu', 'Oshino, Ougi', 'Araragi, Karen', 'Araragi, Tsukihi', 'Kagenui, Yozuru', 'Teori, Tadatsuru']
+animeVoices	['Kamiya, Hiroshi', 'Hayami, Saori', 'Saitou, Chiwa', 'Sakamoto, Maaya', 'Mizuhashi, Kaori', 'Kitamura, Eri', 'Iguchi, Yuka', 'Shiraishi, Ryouko', 'Koyasu, Takehito']
+animeStaff	[['Shinbou, Akiyuki', 'Director, Series Composition'], ['Itamura, Tomoyuki', 'Director, Episode Director, Storyboard, Key Animation'], ['Miyamoto, Yukihiro', 'Episode Director'], ['Okada, Kenjirou', 'Episode Director']]

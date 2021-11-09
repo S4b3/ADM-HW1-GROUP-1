@@ -1,5 +1,5 @@
-animeTitle	b'Jarinko Chie'
-animeType	b'Movie'
+animeTitle	Jarinko Chie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.03
 animeUsers	1402
 animeRank	
-animePopularity	
-animeDescription	"b'Jarinko Chie is a movie directed by Takahata in 1981. Based on the very popular manga by Etsumi HARUKI, it is about ten year old Chie, ""the most unfortunate girl in Japan"", who manages her family diner while her unemployed yakuza father and her mother are separated. This sounds really depressing, but it\'s actually a very funny comedy. \n\nThe story is set in Osaka, which has a totally different culture from Tokyo. After the success of the movie, a TV series was made, and Takahata worked as the chief director.\n\n(Source: nausicaa.net)'"
-animeRelated	[b'Jarinko Chie', b'Jarinko Chie (TV)', b'Chie-chan Funsenki: Jarinko Chie']
-animeCharacters	[b'Takemoto, Chie', b'Takemoto, Tetsu', b'Yurine, Kouzou', b'Maruyama, Mitsuru', b'Takemoto, Yoshie']
-animeVoices	[b'\nNakayama, Chinatsu\nJapanese\n', b'\nNishikawa, Norio\nJapanese\n', b'\nAshiya, Gannosuke\nJapanese\n', b'\nMitsubayashi, Kyouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahata, Isao\n\nDirector, Script\n\n', b'\nKisugi, Takao\n\nTheme Song Composition\n\n', b'\nOotsuka, Yasuo\n\nCharacter Design\n\n', b'\nNanba, Hitoshi\n\nIn-Between Animation\n\n']
+animePopularity	8019
+animeDescription	"Jarinko Chie is a movie directed by Takahata in 1981. Based on the very popular manga by Etsumi HARUKI, it is about ten year old Chie, ""the most unfortunate girl in Japan"", who manages her family diner while her unemployed yakuza father and her mother are separated. This sounds really depressing, but it's actually a very funny comedy. 
+
+The story is set in Osaka, which has a totally different culture from Tokyo. After the success of the movie, a TV series was made, and Takahata worked as the chief director.
+
+(Source: nausicaa.net)"
+animeRelated	['Jarinko Chie', 'Jarinko Chie (TV)', 'Chie-chan Funsenki: Jarinko Chie']
+animeCharacters	['Takemoto, Chie', 'Takemoto, Tetsu', 'Yurine, Kouzou', 'Maruyama, Mitsuru', 'Takemoto, Yoshie']
+animeVoices	['Nakayama, Chinatsu', 'Nishikawa, Norio', 'Ashiya, Gannosuke', 'Mitsubayashi, Kyouko']
+animeStaff	[['Takahata, Isao', 'Director, Script'], ['Kisugi, Takao', 'Theme Song Composition'], ['Ootsuka, Yasuo', 'Character Design'], ['Nanba, Hitoshi', 'In-Between Animation']]

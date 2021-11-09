@@ -1,5 +1,5 @@
-animeTitle	b'Neon Genesis Evangelion: Death & Rebirth'
-animeType	b'Movie'
+animeTitle	Neon Genesis Evangelion: Death & Rebirth
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.45
 animeUsers	118805
 animeRank	
-animePopularity	
-animeDescription	"b""In the year 2015, more than a decade has passed since the catastrophic event known as Second Impact befell mankind. During this time of recovery, a select few learned of beings known as the Angels\xe2\x80\x94colossal malevolent entities with the intention of triggering the Third Impact and wiping out the rest of humanity.\n\nCalled into the city of Tokyo-3 by his father Gendou Ikari, teenager Shinji is thrust headlong into humanity's struggle. Separated from Gendou since the death of his mother, Shinji presumes that his father wishes to repair their shattered familial bonds; instead, he discovers that he was brought to pilot a giant machine capable of fighting the Angels, Evangelion Unit-01. Forced to battle against wave after wave of mankind's greatest threat, the young boy finds himself caught in the middle of a plan that could affect the future of humanity forever.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Neon Genesis Evangelion']
-animeCharacters	[b'Souryuu, Asuka Langley', b'Ikari, Shinji', b'Ayanami, Rei', b'Katsuragi, Misato', b'Nagisa, Kaworu', b'Ikari, Gendou', b'Kaji, Ryouji', b'Akagi, Ritsuko', b'Suzuhara, Touji', b'Ibuki, Maya']
-animeVoices	[b'\nMiyamura, Yuko\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nTachiki, Fumihiko\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nYamaguchi, Yuriko\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nNagasawa, Miki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshikawa, Mitsuhisa\n\nProducer\n\n', b'\nAnno, Hideaki\n\nDirector, Storyboard, Animation Director, Mechanical Design, Creator, Setting, Key Animation, Screenplay\n\n', b'\nTsurumaki, Kazuya\n\nDirector, Storyboard, Setting\n\n', b'\nMasayuki\n\nDirector, Storyboard, Key Animation, Animation Director\n\n']
+animePopularity	832
+animeDescription	"In the year 2015, more than a decade has passed since the catastrophic event known as Second Impact befell mankind. During this time of recovery, a select few learned of beings known as the Angels—colossal malevolent entities with the intention of triggering the Third Impact and wiping out the rest of humanity.
+
+Called into the city of Tokyo-3 by his father Gendou Ikari, teenager Shinji is thrust headlong into humanity's struggle. Separated from Gendou since the death of his mother, Shinji presumes that his father wishes to repair their shattered familial bonds; instead, he discovers that he was brought to pilot a giant machine capable of fighting the Angels, Evangelion Unit-01. Forced to battle against wave after wave of mankind's greatest threat, the young boy finds himself caught in the middle of a plan that could affect the future of humanity forever.
+
+[Written by MAL Rewrite]"
+animeRelated	['Neon Genesis Evangelion']
+animeCharacters	['Souryuu, Asuka Langley', 'Ikari, Shinji', 'Ayanami, Rei', 'Katsuragi, Misato', 'Nagisa, Kaworu', 'Ikari, Gendou', 'Kaji, Ryouji', 'Akagi, Ritsuko', 'Suzuhara, Touji', 'Ibuki, Maya']
+animeVoices	['Miyamura, Yuko', 'Ogata, Megumi', 'Hayashibara, Megumi', 'Mitsuishi, Kotono', 'Ishida, Akira', 'Tachiki, Fumihiko', 'Yamadera, Kouichi', 'Yamaguchi, Yuriko', 'Seki, Tomokazu', 'Nagasawa, Miki']
+animeStaff	[['Ishikawa, Mitsuhisa', 'Producer'], ['Anno, Hideaki', 'Director, Storyboard, Animation Director, Mechanical Design, Creator, Setting, Key Animation, Screenplay'], ['Tsurumaki, Kazuya', 'Director, Storyboard, Setting'], ['Masayuki', 'Director, Storyboard, Key Animation, Animation Director']]

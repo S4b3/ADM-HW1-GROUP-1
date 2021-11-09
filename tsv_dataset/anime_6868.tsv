@@ -1,5 +1,5 @@
-animeTitle	b'Hana yori Dango (Movie)'
-animeType	b'Movie'
+animeTitle	Hana yori Dango (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.36
 animeUsers	2912
 animeRank	
-animePopularity	
-animeDescription	"b""Set in an alternative timeline to the TV series and manga, the movie features a classic Cinderella story told through the medium of 80's dance. Tsukushi Makino is a trainee dancer in a New York Performance group, struggling to become the star of the show with the help of Rui Hanazawa and Tsukasa Doumyouji.\n\n(Source: ANN)"""
-animeRelated	[b'Hana yori Dango']
-animeCharacters	[b'Domyouji, Tsukasa', b'Makino, Tsukushi', b'Hanazawa, Rui', b'Toudou, Shizuka', b'Mimasaka, Akira', b'Aoike, Kazuya', b'Nishikado, Soujirou', b'Matsuoka, Yuuki', b'Sanjou, Sakurako']
-animeVoices	[b'\nMiyashita, Naoki\nJapanese\n', b'\nMochida, Maki\nJapanese\n', b'\nYamamoto, Kouji\nJapanese\n', b'\nIetomi, Yoji\nJapanese\n', b'\nAkaida, Yoshihiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamauchi, Shigeyasu\n\nDirector, Storyboard\n\n', b'\nOshima, Michiru\n\nMusic\n\n', b'\nKamio, Yoko\n\nOriginal Creator\n\n', b'\nNagamine, Tatsuya\n\nAssistant Director\n\n']
+animePopularity	6021
+animeDescription	"Set in an alternative timeline to the TV series and manga, the movie features a classic Cinderella story told through the medium of 80's dance. Tsukushi Makino is a trainee dancer in a New York Performance group, struggling to become the star of the show with the help of Rui Hanazawa and Tsukasa Doumyouji.
+
+(Source: ANN)"
+animeRelated	['Hana yori Dango']
+animeCharacters	['Domyouji, Tsukasa', 'Makino, Tsukushi', 'Hanazawa, Rui', 'Toudou, Shizuka', 'Mimasaka, Akira', 'Aoike, Kazuya', 'Nishikado, Soujirou', 'Matsuoka, Yuuki', 'Sanjou, Sakurako']
+animeVoices	['Miyashita, Naoki', 'Mochida, Maki', 'Yamamoto, Kouji', 'Ietomi, Yoji', 'Akaida, Yoshihiko']
+animeStaff	[['Yamauchi, Shigeyasu', 'Director, Storyboard'], ['Oshima, Michiru', 'Music'], ['Kamio, Yoko', 'Original Creator'], ['Nagamine, Tatsuya', 'Assistant Director']]

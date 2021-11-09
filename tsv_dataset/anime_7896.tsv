@@ -1,5 +1,5 @@
-animeTitle	b'Mori no Tonto-tachi'
-animeType	b'TV'
+animeTitle	Mori no Tonto-tachi
+animeType	TV
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.15
 animeUsers	197
 animeRank	
-animePopularity	
-animeDescription	b'Deep in the forests of Finland live the little people, or Tontus, the elves who work all year round to keep Joulupukki (Santa Claus) supplied with toys for Christmas Eve.\n\n(Source: ANN)'
+animePopularity	12424
+animeDescription	"Deep in the forests of Finland live the little people, or Tontus, the elves who work all year round to keep Joulupukki (Santa Claus) supplied with toys for Christmas Eve.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Joulupukki', b'Elisa', b'Lasse', b'Carpenter', b'Erkki', b'Mauri', b'Pertti']
-animeVoices	[b'\nTomita, Kousei\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nShimaka, Yuu\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nHiguchi, Masakazu\n\nDirector, Storyboard\n\n', b'\nHorie, Mitsuko\n\nTheme Song Performance\n\n', b""\nD'Avena, Cristina\n\nTheme Song Performance\n\n"", b'\nWatanabe, Takeo\n\nMusic\n\n']"
+animeCharacters	['Joulupukki', 'Elisa', 'Lasse', 'Carpenter', 'Erkki', 'Mauri', 'Pertti']
+animeVoices	['Tomita, Kousei', 'Tsuru, Hiromi', 'Horikawa, Ryo', 'Tatsuta, Naoki', 'Suzuoki, Hirotaka', 'Tanaka, Mayumi', 'Shimaka, Yuu']
+animeStaff	"[['Higuchi, Masakazu', 'Director, Storyboard'], ['Horie, Mitsuko', 'Theme Song Performance'], [""D'Avena, Cristina"", 'Theme Song Performance'], ['Watanabe, Takeo', 'Music']]"

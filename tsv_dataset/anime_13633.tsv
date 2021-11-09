@@ -1,5 +1,5 @@
-animeTitle	b'T-sensei'
-animeType	b'ONA'
+animeTitle	T-sensei
+animeType	ONA
 animeNumEpisode	14
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The author initially started as a childcare worker living in Tokyo, calling himself T-sensei and describing his life of tending kindergarteners on his Twitter since 2012, which received various positive responses.\n\n(Source: MAL News)'
-animeRelated	"[b'T-sensei', b""Don't Cry""]"
-animeCharacters	[b'T-sensei']
-animeVoices	[b'\nShimazaki, Nobunaga\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYukue, Moegi\n\nOriginal Creator\n\n', b'\nT-sensei\n\nOriginal Creator\n\n']
+animePopularity	10961
+animeDescription	"The author initially started as a childcare worker living in Tokyo, calling himself T-sensei and describing his life of tending kindergarteners on his Twitter since 2012, which received various positive responses.
+
+(Source: MAL News)"
+animeRelated	"['T-sensei', ""Don't Cry""]"
+animeCharacters	['T-sensei']
+animeVoices	['Shimazaki, Nobunaga']
+animeStaff	[['Yukue, Moegi', 'Original Creator'], ['T-sensei', 'Original Creator']]

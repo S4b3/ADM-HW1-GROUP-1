@@ -1,5 +1,5 @@
-animeTitle	b'Sword Art Online II: Sword Art Offline II'
-animeType	b'Special'
+animeTitle	Sword Art Online II: Sword Art Offline II
+animeType	Special
 animeNumEpisode	9
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.56
 animeUsers	21274
 animeRank	
-animePopularity	
-animeDescription	b'BD/DVD specials.'
-animeRelated	[b'Sword Art Online: Sword Art Offline - Extra Edition', b'Sword Art Online II']
-animeCharacters	[b'Kirigaya, Kazuto', b'Yuuki, Asuna', b'Asada, Shino', b'Konno, Yuuki', b'Yui', b'Kirigaya, Suguha', b'Ayano, Keiko', b'Shinozaki, Rika']
-animeVoices	[b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nItou, Kanae\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nHidaka, Rina\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawahara, Reki\n\nOriginal Creator\n\n']
+animePopularity	2386
+animeDescription	BD/DVD specials.
+animeRelated	['Sword Art Online: Sword Art Offline - Extra Edition', 'Sword Art Online II']
+animeCharacters	['Kirigaya, Kazuto', 'Yuuki, Asuna', 'Asada, Shino', 'Konno, Yuuki', 'Yui', 'Kirigaya, Suguha', 'Ayano, Keiko', 'Shinozaki, Rika']
+animeVoices	['Matsuoka, Yoshitsugu', 'Tomatsu, Haruka', 'Sawashiro, Miyuki', 'Yuuki, Aoi', 'Itou, Kanae', 'Taketatsu, Ayana', 'Hidaka, Rina', 'Takagaki, Ayahi']
+animeStaff	[['Kawahara, Reki', 'Original Creator']]

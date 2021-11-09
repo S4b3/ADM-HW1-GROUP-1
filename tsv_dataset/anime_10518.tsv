@@ -1,5 +1,5 @@
-animeTitle	b'Shoumetsu Toshi'
-animeType	b'TV'
+animeTitle	Shoumetsu Toshi
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.45
 animeUsers	13418
 animeRank	
-animePopularity	
-animeDescription	"b""One day, a city suddenly disappears. Takuya, a professional by-the-contract courier and lone wolf, meets Yuki, the only survivor from the city's extinction. The two rely on a message from Yuki's father, who was heard to be missing, and head toward the disappeared city, Lost. \n\nHowever, unexpected obstacles strike before the pair, with the reality especially shocking for Yuki. Before them are the feelings of those left behind, a mysterious group manipulating in the shadows, and unveiling the hidden conspiracy. Takuya and Yuki, who both were initially strangers, would deepen their bond during the journey and unravel the mystery of the Lost city. \n\n(Source: MAL News)"""
+animePopularity	2301
+animeDescription	"One day, a city suddenly disappears. Takuya, a professional by-the-contract courier and lone wolf, meets Yuki, the only survivor from the city's extinction. The two rely on a message from Yuki's father, who was heard to be missing, and head toward the disappeared city, Lost. 
+
+However, unexpected obstacles strike before the pair, with the reality especially shocking for Yuki. Before them are the feelings of those left behind, a mysterious group manipulating in the shadows, and unveiling the hidden conspiracy. Takuya and Yuki, who both were initially strangers, would deepen their bond during the journey and unravel the mystery of the Lost city. 
+
+(Source: MAL News)"
 animeRelated	[]
-animeCharacters	[b'Yuki', b'Takuya', b'Taiyou', b'Kouta', b'Tsuki', b'Kana', b'Yua', b'Rena', b'Suzuna', b'Yoshiaki']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nTakahashi, Hidenori\nJapanese\n', b'\nTakahashi, Makoto\nJapanese\n', b'\nImai, Asami\nJapanese\n', b'\nKubo, Yurika\nJapanese\n', b'\nSonoyama, Hikari\nJapanese\n', b'\nOonishi, Aguri\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiya, Shigeyuki\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nAbe, Mao\n\nTheme Song Performance\n\n', b'\nSPR5\n\nTheme Song Performance\n\n']
+animeCharacters	['Yuki', 'Takuya', 'Taiyou', 'Kouta', 'Tsuki', 'Kana', 'Yua', 'Rena', 'Suzuna', 'Yoshiaki']
+animeVoices	['Hanazawa, Kana', 'Sugita, Tomokazu', 'Takahashi, Hidenori', 'Takahashi, Makoto', 'Imai, Asami', 'Kubo, Yurika', 'Sonoyama, Hikari', 'Oonishi, Aguri', 'Sakura, Ayane', 'Matsuoka, Yoshitsugu']
+animeStaff	[['Miya, Shigeyuki', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Abe, Mao', 'Theme Song Performance'], ['SPR5', 'Theme Song Performance']]

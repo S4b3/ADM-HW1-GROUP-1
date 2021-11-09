@@ -1,5 +1,5 @@
-animeTitle	b'Mother: Saigo no Shoujo Eve'
-animeType	b'Movie'
+animeTitle	Mother: Saigo no Shoujo Eve
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.64
 animeUsers	413
 animeRank	
-animePopularity	
-animeDescription	"b'The future is bleak and urbanized. A government super-power holds the keys to all the doors. Hope lies in a secret organization who kidnaps ""gifted"" children and teaches them to wield their ability to view the life energy of all living things. A young girl befriends a sempai, a street rat comes to rescue her, and two parents wait helplessly to see their daughter one last time...\n\n(Source: AniDB)'"
+animePopularity	10671
+animeDescription	"The future is bleak and urbanized. A government super-power holds the keys to all the doors. Hope lies in a secret organization who kidnaps ""gifted"" children and teaches them to wield their ability to view the life energy of all living things. A young girl befriends a sempai, a street rat comes to rescue her, and two parents wait helplessly to see their daughter one last time...
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Dew', b'Eve']
-animeVoices	[b'\nKashiwakura, Tsutomu\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Iku\n\nDirector\n\n', b'\nSaegusa, Shigeaki\n\nMusic\n\n', b'\nSeki, Shuuichi\n\nCharacter Design\n\n']
+animeCharacters	['Dew', 'Eve']
+animeVoices	['Kashiwakura, Tsutomu', 'Mitsuishi, Kotono']
+animeStaff	[['Suzuki, Iku', 'Director'], ['Saegusa, Shigeaki', 'Music'], ['Seki, Shuuichi', 'Character Design']]

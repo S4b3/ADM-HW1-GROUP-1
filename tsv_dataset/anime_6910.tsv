@@ -1,5 +1,5 @@
-animeTitle	b'Sentimental Journey'
-animeType	b'TV'
+animeTitle	Sentimental Journey
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.35
 animeUsers	674
 animeRank	
-animePopularity	
-animeDescription	"b""Sentimental Journey is a collection of twelve short stories about twelve different girls. Though unrelated, there is one common theme that binds the episodes together: each girl's bittersweet experience of first love. \n\n(Source: ANN)"""
+animePopularity	8450
+animeDescription	"Sentimental Journey is a collection of twelve short stories about twelve different girls. Though unrelated, there is one common theme that binds the episodes together: each girl's bittersweet experience of first love. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Endou, Akira', b'Sugihara, Manami', b'Morii, Kaho', b'Adachi, Taeko', b'Sawatari, Honoka', b'Ayasaki, Wakana', b'Hoshino, Asuka', b'Matsuoka, Chie', b'Nanase, Yuu', b'Nagakura, Emiru']
-animeVoices	[b'\nSuzuki, Urarako\nJapanese\n', b'\nToyoshima, Machiko\nJapanese\n', b'\nMannaka, Yukiko\nJapanese\n', b'\nOkada, Junko\nJapanese\n', b'\nSuzuki, Mariko\nJapanese\n', b'\nOda, Michiko\nJapanese\n', b'\nOkamoto, Asami\nJapanese\n', b'\nYonemoto, Chizu\nJapanese\n', b'\nNishiguchi, Yuka\nJapanese\n', b'\nMaeda, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKatayama, Kazuyoshi\n\nDirector\n\n', b'\nArakawa, Naruhisa\n\nScript\n\n', b'\nYoshinaga, Naoyuki\n\nStoryboard\n\n', b'\nYamane, Masahiro\n\nKey Animation\n\n']
+animeCharacters	['Endou, Akira', 'Sugihara, Manami', 'Morii, Kaho', 'Adachi, Taeko', 'Sawatari, Honoka', 'Ayasaki, Wakana', 'Hoshino, Asuka', 'Matsuoka, Chie', 'Nanase, Yuu', 'Nagakura, Emiru']
+animeVoices	['Suzuki, Urarako', 'Toyoshima, Machiko', 'Mannaka, Yukiko', 'Okada, Junko', 'Suzuki, Mariko', 'Oda, Michiko', 'Okamoto, Asami', 'Yonemoto, Chizu', 'Nishiguchi, Yuka', 'Maeda, Ai']
+animeStaff	[['Katayama, Kazuyoshi', 'Director'], ['Arakawa, Naruhisa', 'Script'], ['Yoshinaga, Naoyuki', 'Storyboard'], ['Yamane, Masahiro', 'Key Animation']]

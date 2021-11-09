@@ -1,5 +1,5 @@
-animeTitle	b'All That Gundam'
-animeType	b'Special'
+animeTitle	All That Gundam
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.8
 animeUsers	2098
 animeRank	
-animePopularity	
-animeDescription	b'Animated video created just for a 1989 event that featured all the major mobile suit robots from the first 10 years of the Gundam anime franchise.\n\n(Source: ANN)'
-animeRelated	[b'Mobile Suit Gundam']
+animePopularity	7145
+animeDescription	"Animated video created just for a 1989 event that featured all the major mobile suit robots from the first 10 years of the Gundam anime franchise.
+
+(Source: ANN)"
+animeRelated	['Mobile Suit Gundam']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

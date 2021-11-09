@@ -1,5 +1,5 @@
-animeTitle	b'Yuru Yuri: Doushite, Tomaranai, Tokimeki, Dokidoki, Paradox, Eternal'
-animeType	b'Special'
+animeTitle	Yuru Yuri: Doushite, Tomaranai, Tokimeki, Dokidoki, Paradox, Eternal
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.36
 animeUsers	10036
 animeRank	
-animePopularity	
-animeDescription	"b""Yuru Yuri DVD/BD special.\n\nChinatsu's horrendous and atrocious drawings come to life in a tale about a handsome prince, a hideous girl and true love!\n\n(Source: Anime-Planet)"""
-animeRelated	[b'Yuru Yuri']
-animeCharacters	[b'Yoshikawa, Chinatsu']
-animeVoices	[b'\nOokubo, Rumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNamori\n\nOriginal Creator\n\n', b'\nSuzuki, Shunsuke\n\nArt Director\n\n']
+animePopularity	3759
+animeDescription	"Yuru Yuri DVD/BD special.
+
+Chinatsu's horrendous and atrocious drawings come to life in a tale about a handsome prince, a hideous girl and true love!
+
+(Source: Anime-Planet)"
+animeRelated	['Yuru Yuri']
+animeCharacters	['Yoshikawa, Chinatsu']
+animeVoices	['Ookubo, Rumi']
+animeStaff	[['Namori', 'Original Creator'], ['Suzuki, Shunsuke', 'Art Director']]

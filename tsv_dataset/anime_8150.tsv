@@ -1,5 +1,5 @@
-animeTitle	b'Brain Powerd'
-animeType	b'TV'
+animeTitle	Brain Powerd
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.1
 animeUsers	2154
 animeRank	
-animePopularity	
-animeDescription	"b""In the not so distant future much of the earth has been submerged under the sea or destroyed by earthquakes. At the center of the turmoil is the mysterious Orphan. Orphan may or may not be the original cause of the cataclysms. Orphan's goal is to raise a ship hidden deep beneath the sea to the surface, but doing so would result in the destruction of all humans except for the small number which are loyal to Orphan.\n\nOrphan's agents pilot mysterious mecha known as Grand Cheres, and search the world for mysterious, giant disks which occasionally appear, flying at high speeds and wrecking much of the countryside, or cities, when they hit the ground. After a dying disc almost kills Hime, a Brain Powerd is born from the disc. Brain Powerds are another type of Mecha, similar to but not the same as Grand Cheres.\n\nHime becomes the Brain Powerd's pilot, forming a symbiotic relationship with the living mecha and joins an International Organization dedicated to stopping Orphan, or at the very least saving humanity should Orphan succeed.\n\n(Source: AniDB)"""
-animeRelated	[b'Brain Powerd']
-animeCharacters	[b'Isami, Yuu', b'Utsumiya, Hime', b'Isami, Iiko', b'Maximillian, Baron', b'Lundberg, Lasse', b'Isami, Midori', b'Brankan, Edgar', b'Gimms, Kanan', b'Glass, Shiela', b'Guys, Nakki']
-animeVoices	[b'\nShiratori, Tetsu\nJapanese\n', b'\nMurata, Akino\nJapanese\n', b'\nWatanabe, Kumiko\nJapanese\n', b'\nIsobe, Masako\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nKanoki, Shouko\nJapanese\n', b'\nNanba, Keiichi\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nTouma, Yumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTomino, Yoshiyuki\n\nDirector, Script, Original Creator\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nWatanabe, Tetsuya\n\nEpisode Director\n\n', b'\nHarada, Nana\n\nEpisode Director\n\n']
+animePopularity	5619
+animeDescription	"In the not so distant future much of the earth has been submerged under the sea or destroyed by earthquakes. At the center of the turmoil is the mysterious Orphan. Orphan may or may not be the original cause of the cataclysms. Orphan's goal is to raise a ship hidden deep beneath the sea to the surface, but doing so would result in the destruction of all humans except for the small number which are loyal to Orphan.
+
+Orphan's agents pilot mysterious mecha known as Grand Cheres, and search the world for mysterious, giant disks which occasionally appear, flying at high speeds and wrecking much of the countryside, or cities, when they hit the ground. After a dying disc almost kills Hime, a Brain Powerd is born from the disc. Brain Powerds are another type of Mecha, similar to but not the same as Grand Cheres.
+
+Hime becomes the Brain Powerd's pilot, forming a symbiotic relationship with the living mecha and joins an International Organization dedicated to stopping Orphan, or at the very least saving humanity should Orphan succeed.
+
+(Source: AniDB)"
+animeRelated	['Brain Powerd']
+animeCharacters	['Isami, Yuu', 'Utsumiya, Hime', 'Isami, Iiko', 'Maximillian, Baron', 'Lundberg, Lasse', 'Isami, Midori', 'Brankan, Edgar', 'Gimms, Kanan', 'Glass, Shiela', 'Guys, Nakki']
+animeVoices	['Shiratori, Tetsu', 'Murata, Akino', 'Watanabe, Kumiko', 'Isobe, Masako', 'Miki, Shinichiro', 'Kanoki, Shouko', 'Nanba, Keiichi', 'Park, Romi', 'Tanaka, Atsuko', 'Touma, Yumi']
+animeStaff	[['Tomino, Yoshiyuki', 'Director, Script, Original Creator'], ['Urakami, Yasuo', 'Sound Director'], ['Watanabe, Tetsuya', 'Episode Director'], ['Harada, Nana', 'Episode Director']]

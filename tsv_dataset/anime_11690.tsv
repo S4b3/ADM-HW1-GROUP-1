@@ -1,5 +1,5 @@
-animeTitle	b'Kakugo no Susume'
-animeType	b'OVA'
+animeTitle	Kakugo no Susume
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.76
 animeUsers	3770
 animeRank	
-animePopularity	
-animeDescription	b'A series of natural disasters has reduced the world to rubble, with the survivors doing whatever they must to survive in a world gone mad. But one young boy, Kakugo, gifted with amazing martial arts and a superpowerful suit of armor by his late father, has been charged with making the world (or at least his school) a safer place. But his sister has a matching set of skills and equipment, and she`s on a mission to bring peace to the world... by wiping out humanity! \n\n(Source: AnimeNfo)'
-animeRelated	[b'Kakugo no Susume']
-animeCharacters	[b'Hagakure, Kakugo', b'Hagakure, Harara', b'Horie, Tsumiko', b'Hamuko', b'Hoshino', b'Kagenari', b'Chidokuro', b'Tomohisa', b'Bolt', b'Dokumaguro']
-animeVoices	[b'\nYamadera, Kouichi\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nHorie, Mitsuko\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nFujimoto, Yuzuru\nJapanese\n', b'\nYasui, Kunihiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirano, Toshiki\n\nDirector\n\n', b'\nTanaka, Hideyuki\n\nSound Director\n\n', b'\nMotonaga, Keitarou\n\nEpisode Director\n\n', b'\nMatsui, Hitoyuki\n\nStoryboard\n\n']
+animePopularity	5389
+animeDescription	"A series of natural disasters has reduced the world to rubble, with the survivors doing whatever they must to survive in a world gone mad. But one young boy, Kakugo, gifted with amazing martial arts and a superpowerful suit of armor by his late father, has been charged with making the world (or at least his school) a safer place. But his sister has a matching set of skills and equipment, and she`s on a mission to bring peace to the world... by wiping out humanity! 
+
+(Source: AnimeNfo)"
+animeRelated	['Kakugo no Susume']
+animeCharacters	['Hagakure, Kakugo', 'Hagakure, Harara', 'Horie, Tsumiko', 'Hamuko', 'Hoshino', 'Kagenari', 'Chidokuro', 'Tomohisa', 'Bolt', 'Dokumaguro']
+animeVoices	['Yamadera, Kouichi', 'Ogata, Megumi', 'Horie, Mitsuko', 'Katsuki, Masako', 'Okiayu, Ryoutarou', 'Ogata, Kenichi', 'Chiba, Shigeru', 'Fujimoto, Yuzuru', 'Yasui, Kunihiko']
+animeStaff	[['Hirano, Toshiki', 'Director'], ['Tanaka, Hideyuki', 'Sound Director'], ['Motonaga, Keitarou', 'Episode Director'], ['Matsui, Hitoyuki', 'Storyboard']]

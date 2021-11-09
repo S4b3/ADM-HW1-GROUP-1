@@ -1,5 +1,5 @@
-animeTitle	b'Aquarion Movie: Ippatsu Gyakuten-hen'
-animeType	b'Movie'
+animeTitle	Aquarion Movie: Ippatsu Gyakuten-hen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.75
 animeUsers	1999
 animeRank	
-animePopularity	
-animeDescription	b'This movie is an alternative version of the TV series; it is composed of the two 2007 OVAs, edited to improve the pacing of the plot, and an extra segment akin to a TV episode where the cast are given the task of studying flowers.\n\nThe plot has several differences to the TV series.'
-animeRelated	[b'Sousei no Aquarion', b'Sousei no Aquarion OVA', b'Soosee no Aquarion: Dai 27-wa Parallel-ban']
-animeCharacters	[b'Apollo', b'de Alisia, Silvia', b'Ko, Reika', b'Fudou, Gen', b'Toma', b'de Alisia, Sirius', b'Rune, Rena', b'Jorge, Jean-Jerome', b'Otoha', b'Vieira, Pierre']
-animeVoices	[b'\nTerashima, Takuma\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nSatou, Hiromi\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nHyoudou, Mako\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawamori, Shouji\n\nDirector, Screenplay, Original Creator\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nKikuchi, Yasuhito\n\nEpisode Director, Storyboard, Key Animation, Assistant Director\n\n', b'\nMatsuda, Kiyoshi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	6472
+animeDescription	"This movie is an alternative version of the TV series; it is composed of the two 2007 OVAs, edited to improve the pacing of the plot, and an extra segment akin to a TV episode where the cast are given the task of studying flowers.
+
+The plot has several differences to the TV series."
+animeRelated	['Sousei no Aquarion', 'Sousei no Aquarion OVA', 'Soosee no Aquarion: Dai 27-wa Parallel-ban']
+animeCharacters	['Apollo', 'de Alisia, Silvia', 'Ko, Reika', 'Fudou, Gen', 'Toma', 'de Alisia, Sirius', 'Rune, Rena', 'Jorge, Jean-Jerome', 'Otoha', 'Vieira, Pierre']
+animeVoices	['Terashima, Takuma', 'Kakazu, Yumi', 'Kobayashi, Sanae', 'Ishizuka, Unshou', 'Morikawa, Toshiyuki', 'Sugita, Tomokazu', 'Satou, Hiromi', 'Tobita, Nobuo', 'Hyoudou, Mako', 'Onosaka, Masaya']
+animeStaff	[['Kawamori, Shouji', 'Director, Screenplay, Original Creator'], ['Mima, Masafumi', 'Sound Director'], ['Kikuchi, Yasuhito', 'Episode Director, Storyboard, Key Animation, Assistant Director'], ['Matsuda, Kiyoshi', 'Episode Director, Storyboard']]

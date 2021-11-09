@@ -1,5 +1,5 @@
-animeTitle	b'Choujin Densetsu Urotsukidouji 2'
-animeType	b'Movie'
+animeTitle	Choujin Densetsu Urotsukidouji 2
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.9
 animeUsers	1523
 animeRank	
-animePopularity	
-animeDescription	"b""During World War 2, the Nazis attempted to breach the barriers between the three worlds. They failed then, but a Dr. Myunihausen (Munchausen?) tries again, through the manipulation of Nagumo's brother Takeaki. His goal? To have the Chojin replaced.\n\nAs Takeaki is injured in the approaching flight, Nagumo donates some of his blood to save his life, thus infusing Takeaki with the powers of the overfiend. And the results might be too much for Tokyo, perhaps even the overfiend himself, to bear.\n\n(Source: themanime.org)"""
-animeRelated	[b'Urotsukidouji', b'Choujin Densetsu Urotsukidouji', b'Shin Choujin Densetsu Urotsukidouji Mataiden', b'Choujin Densetsu Urotsukidouji: Mirai-hen']
-animeCharacters	[b'Amanojaku', b'Amano, Megumi', b'Nagumo, Tatsuo', b'Kiryu, Takeaki', b'Hitler, Adolf', b'Kuroko', b'Itou, Akemi', b'Mimi', b'M\xc3\xbcnchhausen II, Faust', b'Kohoki']
-animeVoices	[b'\nNishimura, Tomohiro\nJapanese\n', b'\nTakada, Yumi\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nKashiwakura, Tsutomu\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nDemon Kakka\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakayama, Hideki\n\nDirector\n\n', b'\nMaeda, Toshio\n\nOriginal Creator\n\n', b'\nAbe, Yukio\n\nRecording\n\n', b'\nOguro, Akira\n\nKey Animation\n\n']
+animePopularity	8121
+animeDescription	"During World War 2, the Nazis attempted to breach the barriers between the three worlds. They failed then, but a Dr. Myunihausen (Munchausen?) tries again, through the manipulation of Nagumo's brother Takeaki. His goal? To have the Chojin replaced.
+
+As Takeaki is injured in the approaching flight, Nagumo donates some of his blood to save his life, thus infusing Takeaki with the powers of the overfiend. And the results might be too much for Tokyo, perhaps even the overfiend himself, to bear.
+
+(Source: themanime.org)"
+animeRelated	['Urotsukidouji', 'Choujin Densetsu Urotsukidouji', 'Shin Choujin Densetsu Urotsukidouji Mataiden', 'Choujin Densetsu Urotsukidouji: Mirai-hen']
+animeCharacters	['Amanojaku', 'Amano, Megumi', 'Nagumo, Tatsuo', 'Kiryu, Takeaki', 'Hitler, Adolf', 'Kuroko', 'Itou, Akemi', 'Mimi', 'Münchhausen II, Faust', 'Kohoki']
+animeVoices	['Nishimura, Tomohiro', 'Takada, Yumi', 'Matsumoto, Yasunori', 'Kashiwakura, Tsutomu', 'Ichiryuusai, Harumi', 'Demon Kakka', 'Wakamoto, Norio']
+animeStaff	[['Takayama, Hideki', 'Director'], ['Maeda, Toshio', 'Original Creator'], ['Abe, Yukio', 'Recording'], ['Oguro, Akira', 'Key Animation']]

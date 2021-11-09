@@ -1,4 +1,4 @@
-animeTitle	b'Shokichi Monogatari'
+animeTitle	Shokichi Monogatari
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.54
 animeUsers	146
 animeRank	
-animePopularity	
-animeDescription	b'A music video created by married artist unit Uruma Delvi about a stray dog named Shokichi.'
+animePopularity	14598
+animeDescription	A music video created by married artist unit Uruma Delvi about a stray dog named Shokichi.
 animeRelated	[]
-animeCharacters	[b'Shokichi']
+animeCharacters	['Shokichi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nUrumaDelvi\n\nDirector\n\n']
+animeStaff	[['UrumaDelvi', 'Director']]

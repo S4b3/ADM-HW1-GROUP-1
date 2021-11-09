@@ -1,5 +1,5 @@
-animeTitle	b'Kinnikuman II Sei: Ultimate Muscle'
-animeType	b'TV'
+animeTitle	Kinnikuman II Sei: Ultimate Muscle
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.93
 animeUsers	3200
 animeRank	
-animePopularity	
-animeDescription	b'The Chojin Crown, the tournament which Mantaro (Kid Muscle) reluctantly participates in. After going along with the obstacles (most of which were created to try and eliminate him), he qualified.\n\n(Source: Wikipedia)'
-animeRelated	[b'Kinnikuman II Sei', b'Kinnikuman II Sei: Ultimate Muscle 2', b'Kinnikuman II Sei: Second Generations']
-animeCharacters	[b'Kinniku, Mantarou', b'Terry the Kid', b'Alexandria Meat', b'Check Mate', b'Gazelleman', b'Nikaidou, Rinko', b'Seiuchin', b'Ilioukhine', b'Muscle, Harabote']
-animeVoices	[b'\nOnosaka, Masaya\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nYoshida, Konami\nJapanese\n', b'\nToochika, Kouichi\nJapanese\n', b'\nMasutani, Yasunori\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n', b'\nNomura, Kenji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKomura, Toshiaki\n\nDirector, Episode Director\n\n', b'\nUeda, Yoshihiro\n\nEpisode Director\n\n', b'\nYudetamago\n\nOriginal Creator\n\n', b'\nSatou, Masaki\n\nCharacter Design\n\n']
+animePopularity	6291
+animeDescription	"The Chojin Crown, the tournament which Mantaro (Kid Muscle) reluctantly participates in. After going along with the obstacles (most of which were created to try and eliminate him), he qualified.
+
+(Source: Wikipedia)"
+animeRelated	['Kinnikuman II Sei', 'Kinnikuman II Sei: Ultimate Muscle 2', 'Kinnikuman II Sei: Second Generations']
+animeCharacters	['Kinniku, Mantarou', 'Terry the Kid', 'Alexandria Meat', 'Check Mate', 'Gazelleman', 'Nikaidou, Rinko', 'Seiuchin', 'Ilioukhine', 'Muscle, Harabote']
+animeVoices	['Onosaka, Masaya', 'Morikawa, Toshiyuki', 'Yoshida, Konami', 'Toochika, Kouichi', 'Masutani, Yasunori', 'Orikasa, Fumiko', 'Yamazaki, Takumi', 'Nomura, Kenji']
+animeStaff	[['Komura, Toshiaki', 'Director, Episode Director'], ['Ueda, Yoshihiro', 'Episode Director'], ['Yudetamago', 'Original Creator'], ['Satou, Masaki', 'Character Design']]

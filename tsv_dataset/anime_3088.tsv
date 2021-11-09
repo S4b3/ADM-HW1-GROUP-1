@@ -1,5 +1,5 @@
-animeTitle	b'Street Fighter II Movie'
-animeType	b'Movie'
+animeTitle	Street Fighter II Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.16
 animeUsers	16413
 animeRank	
-animePopularity	
-animeDescription	"b""Get your quarters ready, because the world's top fighters are about to go head to head in this explosive animated adaptation of the classic Street Fighter II arcade game! M. Bison's plan to crush those who would oppose his organization, Shadowloo, is simple: brainwash the strongest martial artists around with his dreaded psycho power, and turn them into living weapons! To stop him, Interpol agent Chun-Li must team up with Major Guile of the United States Air Force, but that's no small feat.\n\nThey'll have to put aside their differences and learn to work together, and fast. Bison is closing in on Ryu, a traveling vagabond said to be the best fighter in the world. Fortunately (or not), Ryu is a hard man to find, but the same can't be said of his eternal rival, Ken. And it might just be through Ken that Bison will get what he wants! Can the World Warriors beat Bison to the punch?\n\n(Source: Discotek)"""
-animeRelated	[b'Street Fighter II V']
-animeCharacters	[b'Ryuu', b'Chun-Li', b'Masters, Ken', b'Vega', b'Guile', b'White, Cammy', b'Balrog', b'Sagat', b'Fei-Long', b'Zangief']
-animeVoices	[b'\nShimizu, Koujirou\nJapanese\n', b'\nFujitani, Miki\nJapanese\n', b'\nHaga, Kenji\nJapanese\n', b'\nKusaka, Takeshi\nJapanese\n', b'\nTsukayama, Masane\nJapanese\n', b'\nSasaki, Youko\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nSasaoka, Shigezou\nJapanese\n', b'\nKanao, Tetsuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugii, Gisaburou\n\nDirector, Storyboard, Screenplay\n\n', b'\nTokairin, Shinichi\n\nStoryboard\n\n', b'\nShinohara, Ryoko\n\nTheme Song Performance\n\n', b'\nMurase, Shukou\n\nCharacter Design\n\n']
+animePopularity	3554
+animeDescription	"Get your quarters ready, because the world's top fighters are about to go head to head in this explosive animated adaptation of the classic Street Fighter II arcade game! M. Bison's plan to crush those who would oppose his organization, Shadowloo, is simple: brainwash the strongest martial artists around with his dreaded psycho power, and turn them into living weapons! To stop him, Interpol agent Chun-Li must team up with Major Guile of the United States Air Force, but that's no small feat.
+
+They'll have to put aside their differences and learn to work together, and fast. Bison is closing in on Ryu, a traveling vagabond said to be the best fighter in the world. Fortunately (or not), Ryu is a hard man to find, but the same can't be said of his eternal rival, Ken. And it might just be through Ken that Bison will get what he wants! Can the World Warriors beat Bison to the punch?
+
+(Source: Discotek)"
+animeRelated	['Street Fighter II V']
+animeCharacters	['Ryuu', 'Chun-Li', 'Masters, Ken', 'Vega', 'Guile', 'White, Cammy', 'Balrog', 'Sagat', 'Fei-Long', 'Zangief']
+animeVoices	['Shimizu, Koujirou', 'Fujitani, Miki', 'Haga, Kenji', 'Kusaka, Takeshi', 'Tsukayama, Masane', 'Sasaki, Youko', 'Shiozawa, Kaneto', 'Sasaoka, Shigezou', 'Kanao, Tetsuo']
+animeStaff	[['Sugii, Gisaburou', 'Director, Storyboard, Screenplay'], ['Tokairin, Shinichi', 'Storyboard'], ['Shinohara, Ryoko', 'Theme Song Performance'], ['Murase, Shukou', 'Character Design']]

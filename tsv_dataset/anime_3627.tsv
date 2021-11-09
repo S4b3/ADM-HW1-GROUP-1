@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam SEED: After-Phase Between the Stars'
-animeType	b'Special'
+animeTitle	Mobile Suit Gundam SEED: After-Phase Between the Stars
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	7.04
 animeUsers	7187
 animeRank	
-animePopularity	
-animeDescription	"b""As the war between ZAFT's Coordinators and Earth's Naturals comes to a close, the survivors of the conflict recuperate. Some of these veterans heal with the aid of loved ones, and others choose to recover in isolation, reflecting on their losses and the friends no longer with them.\n\nIn this epilogue to the hardships of Kira Yamato and Athrun Zala, the heroes come to terms with their roles in the recent war and prepare for adventures yet to come.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Mobile Suit Gundam SEED', b'Mobile Suit Gundam SEED Destiny']
-animeCharacters	[b'Yamato, Kira', b'Clyne, Lacus', b'Zala, Athrun', b'Athha, Cagalli Yula']
-animeVoices	[b'\nHoshi, Souichirou\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nShindo, Naomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Hajime\n\nProducer\n\n', b'\nHirai, Hisashi\n\nCharacter Design\n\n']
+animePopularity	4629
+animeDescription	"As the war between ZAFT's Coordinators and Earth's Naturals comes to a close, the survivors of the conflict recuperate. Some of these veterans heal with the aid of loved ones, and others choose to recover in isolation, reflecting on their losses and the friends no longer with them.
+
+In this epilogue to the hardships of Kira Yamato and Athrun Zala, the heroes come to terms with their roles in the recent war and prepare for adventures yet to come.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Mobile Suit Gundam SEED', 'Mobile Suit Gundam SEED Destiny']
+animeCharacters	['Yamato, Kira', 'Clyne, Lacus', 'Zala, Athrun', 'Athha, Cagalli Yula']
+animeVoices	['Hoshi, Souichirou', 'Tanaka, Rie', 'Ishida, Akira', 'Shindo, Naomi']
+animeStaff	[['Yatate, Hajime', 'Producer'], ['Hirai, Hisashi', 'Character Design']]

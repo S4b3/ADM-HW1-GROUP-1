@@ -1,5 +1,5 @@
-animeTitle	b'Initial D Battle Stage 2'
-animeType	b'OVA'
+animeTitle	Initial D Battle Stage 2
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.64
 animeUsers	11695
 animeRank	
-animePopularity	
-animeDescription	"b'This is simply the OVA summing up the major events and battles of ""Initial D 4th Stage"" much like the ""Initial D Battle Stage"" original summed up the first 3 seasons. Additionally, has 2 extra battles from the manga that were not incorporated into the original 4th Stage.\n\n(Source: ANN)'"
-animeRelated	[b'Initial D Fourth Stage', b'Initial D Battle Stage', b'Initial D Battle Stage 3']
-animeCharacters	[b'Fujiwara, Takumi', b'Takahashi, Keisuke', b'Takeuchi, Itsuki', b'Iketani, Kouichirou', b'Iwase, Kyoko', b'Tachibana, Yuuichi', b'Hoshino, Kouzou', b'Akiyama, Wataru', b'Joushima, Toushiya', b'Fumihiro, Hiroshi']
-animeVoices	[b'\nMiki, Shinichiro\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nNishimura, Tomomichi\nJapanese\n', b'\nOotomo, Ryuuzaburou\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nEbara, Masashi\nJapanese\n', b'\nHosoi, Osamu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTominaga, Tsuneo\n\nDirector\n\n', b'\nShigeno, Shuuichi\n\nOriginal Creator\n\n', b'\nTsuchiya, Keiichi\n\nAnimation Check\n\n', b'\nRodgers, Dave\n\nInserted Song Performance\n\n']
+animePopularity	3582
+animeDescription	"This is simply the OVA summing up the major events and battles of ""Initial D 4th Stage"" much like the ""Initial D Battle Stage"" original summed up the first 3 seasons. Additionally, has 2 extra battles from the manga that were not incorporated into the original 4th Stage.
+
+(Source: ANN)"
+animeRelated	['Initial D Fourth Stage', 'Initial D Battle Stage', 'Initial D Battle Stage 3']
+animeCharacters	['Fujiwara, Takumi', 'Takahashi, Keisuke', 'Takeuchi, Itsuki', 'Iketani, Kouichirou', 'Iwase, Kyoko', 'Tachibana, Yuuichi', 'Hoshino, Kouzou', 'Akiyama, Wataru', 'Joushima, Toushiya', 'Fumihiro, Hiroshi']
+animeVoices	['Miki, Shinichiro', 'Seki, Tomokazu', 'Iwata, Mitsuo', 'Yao, Kazuki', 'Toyoguchi, Megumi', 'Nishimura, Tomomichi', 'Ootomo, Ryuuzaburou', 'Matsumoto, Yasunori', 'Ebara, Masashi', 'Hosoi, Osamu']
+animeStaff	[['Tominaga, Tsuneo', 'Director'], ['Shigeno, Shuuichi', 'Original Creator'], ['Tsuchiya, Keiichi', 'Animation Check'], ['Rodgers, Dave', 'Inserted Song Performance']]

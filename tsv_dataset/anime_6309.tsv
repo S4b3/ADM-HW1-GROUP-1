@@ -1,5 +1,5 @@
-animeTitle	b'Hare Tokidoki Buta (TV)'
-animeType	b'TV'
+animeTitle	Hare Tokidoki Buta (TV)
+animeType	TV
 animeNumEpisode	61
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.47
 animeUsers	254
 animeRank	
-animePopularity	
-animeDescription	b'Tokyo Pig is the wacky and crazy story of a young boy named Spencer and his magical pet pig named Sunny. This is the wierd adventures of these two wierdos.\n\n(Source: ANN)'
-animeRelated	[b'Hare Tokidoki Buta']
-animeCharacters	[b'Mama', b'Tama-chan', b'Announcer Yadama', b'Nabeshin', b'Papa', b'Harebuta', b'Hatakeyama, Noriyasu', b'Onigiriyama', b'Hiraga, Kimiyo', b'Musashi, Koganei']
-animeVoices	[b'\nMatsui, Naoko\nJapanese\n', b'\nMamiya, Kurumi\nJapanese\n', b'\nWatanabe, Misa\nJapanese\n', b'\nYuuki, Hiro\nJapanese\n', b'\nYanada, Kiyoyuki\nJapanese\n', b'\nKanai, Mika\nJapanese\n', b'\nMinami, Omi\nJapanese\n', b'\nMizuta, Wasabi\nJapanese\n', b'\nBaba, Sumie\nJapanese\n', b'\nShioya, Yoku\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Shinichi\n\nDirector\n\n', b'\nHirata, Toshio\n\nDirector\n\n', b'\nNimoy, Jeff\n\nScript\n\n', b'\nKramer, Steve\n\nScript\n\n']
+animePopularity	10994
+animeDescription	"Tokyo Pig is the wacky and crazy story of a young boy named Spencer and his magical pet pig named Sunny. This is the wierd adventures of these two wierdos.
+
+(Source: ANN)"
+animeRelated	['Hare Tokidoki Buta']
+animeCharacters	['Mama', 'Tama-chan', 'Announcer Yadama', 'Nabeshin', 'Papa', 'Harebuta', 'Hatakeyama, Noriyasu', 'Onigiriyama', 'Hiraga, Kimiyo', 'Musashi, Koganei']
+animeVoices	['Matsui, Naoko', 'Mamiya, Kurumi', 'Watanabe, Misa', 'Yuuki, Hiro', 'Yanada, Kiyoyuki', 'Kanai, Mika', 'Minami, Omi', 'Mizuta, Wasabi', 'Baba, Sumie', 'Shioya, Yoku']
+animeStaff	[['Watanabe, Shinichi', 'Director'], ['Hirata, Toshio', 'Director'], ['Nimoy, Jeff', 'Script'], ['Kramer, Steve', 'Script']]

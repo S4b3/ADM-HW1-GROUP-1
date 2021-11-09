@@ -1,5 +1,5 @@
-animeTitle	b'Gokujou!! Mecha Mote Iinchou Second Collection'
-animeType	b'TV'
+animeTitle	Gokujou!! Mecha Mote Iinchou Second Collection
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.3
 animeUsers	574
 animeRank	
-animePopularity	
-animeDescription	b'The continuation of Gokujou!! Mecha Mote Iinchou with a new title.  Episode numbers continue from 51.'
-animeRelated	[b'Gokujou!! Mecha Mote Iinchou']
-animeCharacters	[b'Kitagami, Mimi', b'Toujou, Ushio', b'Nishizaki, Ao', b'Nagumo, Namito', b'Temotemo', b'Himuro, Ibu', b'Konaka, Mari', b'Kaneda, Riko', b'Mimura, Mako', b'Harui, Kaho']
-animeVoices	[b'\nOgawa, Mana\nJapanese\n', b'\nOshima, Ryo\nJapanese\n', b'\nAbe, Ryutaro\nJapanese\n', b'\nWatanabe, Tomohiro\nJapanese\n', b'\nChiba, Chiemi\nJapanese\n', b'\nInoue, Marina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nArakawa, Masatsugu\n\nDirector\n\n', b'\nTsubota, Fumi\n\nScript\n\n', b'\nSayama, Kiyoko\n\nStoryboard\n\n', b'\nOgawa, Mana\n\nTheme Song Performance, Inserted Song Performance\n\n']
+animePopularity	8850
+animeDescription	The continuation of Gokujou!! Mecha Mote Iinchou with a new title.  Episode numbers continue from 51.
+animeRelated	['Gokujou!! Mecha Mote Iinchou']
+animeCharacters	['Kitagami, Mimi', 'Toujou, Ushio', 'Nishizaki, Ao', 'Nagumo, Namito', 'Temotemo', 'Himuro, Ibu', 'Konaka, Mari', 'Kaneda, Riko', 'Mimura, Mako', 'Harui, Kaho']
+animeVoices	['Ogawa, Mana', 'Oshima, Ryo', 'Abe, Ryutaro', 'Watanabe, Tomohiro', 'Chiba, Chiemi', 'Inoue, Marina']
+animeStaff	[['Arakawa, Masatsugu', 'Director'], ['Tsubota, Fumi', 'Script'], ['Sayama, Kiyoko', 'Storyboard'], ['Ogawa, Mana', 'Theme Song Performance, Inserted Song Performance']]

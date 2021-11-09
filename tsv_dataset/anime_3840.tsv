@@ -1,5 +1,5 @@
-animeTitle	b'Crayon Shin-chan Movie 23: Ora no Hikkoshi Monogatari - Saboten Daisuugeki'
-animeType	b'Movie'
+animeTitle	Crayon Shin-chan Movie 23: Ora no Hikkoshi Monogatari - Saboten Daisuugeki
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.99
 animeUsers	1838
 animeRank	
-animePopularity	
-animeDescription	"b'Hiroshi was ordered to be the manager of his company\'s Mexico branch in order to collect the fruit of a new type of cactus that has the sweetest nectar. So, Nohara family packs up and moves to Mexico to live there. They had to bid farewell to their acquaintances and the citizens of Kasukabe with tears. Shinnosuke heard that Mexican young girls are stylish and beautiful and became eager for this journey. On arriving at Mardequellyovaca city in Mexico, a new life full of anxiety, surrounded by unique neighbors awaits them. But Shinnosuke and Nohara family had no idea that flesh-eating killer cactuses are going to attack.\n\nTo save the town, the Nohara family and their neighbors work together to fight against ""Killer Cactus"". \n\n(Source: Wikipedia)'"
-animeRelated	[b'Crayon Shin-chan', b'Crayon Shin-chan Movie 22: Gachinko! Gyakushuu no Robo To-chan', b'Crayon Shin-chan Movie 24: Bakusui! Yumemi World Dai Totsugeki']
-animeCharacters	[b'Nohara, Shinnosuke', b'Nohara, Hiroshi', b'Nohara, Misae', b'Nohara, Himawari', b'Eraindesu, Duyaggao ', b'Rodriguez, Nene', b'Mariachi', b'Carolina']
-animeVoices	[b'\nYajima, Akiko\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nNarahashi, Miki\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHashimoto, Masakazu\n\nDirector\n\n', b'\nUeno, Kimiko\n\nScript\n\n', b'\nYuasa, Masaaki\n\nStoryboard, Key Animation\n\n', b'\nHyadain\n\nTheme Song Arrangement\n\n']
+animePopularity	8202
+animeDescription	"Hiroshi was ordered to be the manager of his company's Mexico branch in order to collect the fruit of a new type of cactus that has the sweetest nectar. So, Nohara family packs up and moves to Mexico to live there. They had to bid farewell to their acquaintances and the citizens of Kasukabe with tears. Shinnosuke heard that Mexican young girls are stylish and beautiful and became eager for this journey. On arriving at Mardequellyovaca city in Mexico, a new life full of anxiety, surrounded by unique neighbors awaits them. But Shinnosuke and Nohara family had no idea that flesh-eating killer cactuses are going to attack.
+
+To save the town, the Nohara family and their neighbors work together to fight against ""Killer Cactus"". 
+
+(Source: Wikipedia)"
+animeRelated	['Crayon Shin-chan', 'Crayon Shin-chan Movie 22: Gachinko! Gyakushuu no Robo To-chan', 'Crayon Shin-chan Movie 24: Bakusui! Yumemi World Dai Totsugeki']
+animeCharacters	['Nohara, Shinnosuke', 'Nohara, Hiroshi', 'Nohara, Misae', 'Nohara, Himawari', 'Eraindesu, Duyaggao ', 'Rodriguez, Nene', 'Mariachi', 'Carolina']
+animeVoices	['Yajima, Akiko', 'Fujiwara, Keiji', 'Narahashi, Miki', 'Koorogi, Satomi', 'Hirata, Hiroaki', 'Horiuchi, Kenyuu', 'Namikawa, Daisuke', 'Sakamoto, Maaya']
+animeStaff	[['Hashimoto, Masakazu', 'Director'], ['Ueno, Kimiko', 'Script'], ['Yuasa, Masaaki', 'Storyboard, Key Animation'], ['Hyadain', 'Theme Song Arrangement']]

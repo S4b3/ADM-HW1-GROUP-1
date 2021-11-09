@@ -1,5 +1,5 @@
-animeTitle	b'ef: A Tale of Memories. - Recollections'
-animeType	b'Special'
+animeTitle	ef: A Tale of Memories. - Recollections
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.3
 animeUsers	3789
 animeRank	
-animePopularity	
-animeDescription	"b""Asou Renji comes back at the station with Chihiro, after the events of ef - a tale of memories. They recollect various moments in this 'summary' of the first season of ef, with special new intermissions.\n\n(Source: Animeka)"""
-animeRelated	[b'ef: A Tale of Memories.']
-animeCharacters	[b'Shindou, Chihiro', b'Asou, Renji', b'Amamiya, Yuuko', b'Miyamura, Miyako', b'Himura, Yuu', b'Hirono, Hiro', b'Hayama, Mizuki', b'Shindou, Kei', b'Tsutsumi, Kyosuke']
-animeVoices	[b'\nYanase, Natsumi\nJapanese\n', b'\nTakagi, Motoki\nJapanese\n', b'\nNakajima, Yumiko\nJapanese\n', b'\nTaguchi, Hiroko\nJapanese\n', b'\nToochika, Kouichi\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nGotou, Mai\nJapanese\n', b'\nOkada, Junko\nJapanese\n', b'\nTai, Yuuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTenmon\n\nTheme Song Composition, Music\n\n', b'\nNanao, Naru\n\nOriginal Character Design\n\n', b'\nminori\n\nOriginal Creator\n\n']
+animePopularity	4817
+animeDescription	"Asou Renji comes back at the station with Chihiro, after the events of ef - a tale of memories. They recollect various moments in this 'summary' of the first season of ef, with special new intermissions.
+
+(Source: Animeka)"
+animeRelated	['ef: A Tale of Memories.']
+animeCharacters	['Shindou, Chihiro', 'Asou, Renji', 'Amamiya, Yuuko', 'Miyamura, Miyako', 'Himura, Yuu', 'Hirono, Hiro', 'Hayama, Mizuki', 'Shindou, Kei', 'Tsutsumi, Kyosuke']
+animeVoices	['Yanase, Natsumi', 'Takagi, Motoki', 'Nakajima, Yumiko', 'Taguchi, Hiroko', 'Toochika, Kouichi', 'Shimono, Hiro', 'Gotou, Mai', 'Okada, Junko', 'Tai, Yuuki']
+animeStaff	[['Tenmon', 'Theme Song Composition, Music'], ['Nanao, Naru', 'Original Character Design'], ['minori', 'Original Creator']]

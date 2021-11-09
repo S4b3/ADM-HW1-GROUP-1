@@ -1,5 +1,5 @@
-animeTitle	b'Bosco Daibouken'
-animeType	b'TV'
+animeTitle	Bosco Daibouken
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.97
 animeUsers	502
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the book by Tony Wolf.\n\nThe Fountain of Life is the source of all life forces in the Bosco World. Princess Apricot, who is supposed to become Queen of Fountainland-the Guardian of the Fountain of Life-is kidnapped by villains who aim to rule the Bosco World.\n\nIf Princess Apricot can't take the queen's throne by the next solar eclipse, the Fountain of Life will dry up. The animals living in the forest of Bosco, including Frog, Otter and Tortoise, decide to help Princess and take her to Fountainland in order to protect their peaceful life in the Bosco World. So begins the journey in a balloon full of dreams, hope, adventures, and love!\n\nSource: Official Website)"""
-animeRelated	[b'Bosco no Mori no Nakama-tachi']
-animeCharacters	[b'Apricot', b'Hoodman', b'Damia']
-animeVoices	[b'\nMinaguchi, Yuko\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nYoshida, Rihoko\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nEndou, Katsumi\n\nStoryboard\n\n', b'\nHidaka, Noriko\n\nTheme Song Performance\n\n', b""\nD'Avena, Cristina\n\nTheme Song Performance\n\n"", b'\nHarada, Hiroshi\n\nKey Animation\n\n']"
+animePopularity	10227
+animeDescription	"Based on the book by Tony Wolf.
+
+The Fountain of Life is the source of all life forces in the Bosco World. Princess Apricot, who is supposed to become Queen of Fountainland-the Guardian of the Fountain of Life-is kidnapped by villains who aim to rule the Bosco World.
+
+If Princess Apricot can't take the queen's throne by the next solar eclipse, the Fountain of Life will dry up. The animals living in the forest of Bosco, including Frog, Otter and Tortoise, decide to help Princess and take her to Fountainland in order to protect their peaceful life in the Bosco World. So begins the journey in a balloon full of dreams, hope, adventures, and love!
+
+Source: Official Website)"
+animeRelated	['Bosco no Mori no Nakama-tachi']
+animeCharacters	['Apricot', 'Hoodman', 'Damia']
+animeVoices	['Minaguchi, Yuko', 'Ginga, Banjou', 'Yoshida, Rihoko']
+animeStaff	"[['Endou, Katsumi', 'Storyboard'], ['Hidaka, Noriko', 'Theme Song Performance'], [""D'Avena, Cristina"", 'Theme Song Performance'], ['Harada, Hiroshi', 'Key Animation']]"

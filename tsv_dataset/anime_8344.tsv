@@ -1,5 +1,5 @@
-animeTitle	b'DRAMAtical Murder'
-animeType	b'TV'
+animeTitle	DRAMAtical Murder
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.07
 animeUsers	61197
 animeRank	
-animePopularity	
-animeDescription	"b'Some time ago, the influential and powerful Toue Inc. bought the island of Midorijima, Japan, with the plans of building Platinum Jail\xe2\x80\x94a luxurious utopian facility. Those who are lucky enough to call it home are the wealthiest citizens in the world. The original residents of the island, however, were forced to relocate to the Old Residential District; and after the completion of Platinum Jail, they were completely abandoned.\n\n""Rib"" and ""Rhyme"" are the most common games played on the island. Rib is an old school game in which gangs engage in turf wars against each other, while Rhyme is a technologically advanced game wherein participants fight in a virtual reality. To be able to play Rhyme, you must have an ""All-Mate"" (an AI that typically looks like a pet), and the match must be mediated by an ""Usui.""\n\nAoba Seragaki has no interest in playing either game; he prefers to live a peaceful life with his grandmother and All-Mate, Ren. However, after getting forcefully dragged into a dangerous Rhyme match and hearing rumors about disappearing Rib players, all of Aoba\'s hopes of living a normal life are completely abolished.\n\n[Written by MAL Rewrite]'"
-animeRelated	"[b'DRAMAtical Murder', b'DRAMAtical Murder: Data_xx_Transitory', b""BOY's LOVE Nitro+CHiRAL""]"
-animeCharacters	[b'Noiz', b'Clear', b'Seragaki, Aoba', b'Koujaku', b'Ren', b'Mink', b'Virus', b'Trip', b'Sei', b'Mizuki']
-animeVoices	[b'\nHino, Satoshi\nJapanese\n', b'\nNakazawa, Masatomo\nJapanese\n', b'\nKisaichi, Atsushi\nJapanese\n', b'\nTakahashi, Hiroki\nJapanese\n', b'\nTakeuchi, Ryouta\nJapanese\n', b'\nMatsuda, Kenichirou\nJapanese\n', b'\nMajima, Junji\nJapanese\n', b'\nHiguchi, Tomoyuki\nJapanese\n', b'\nIguchi, Yuuichi\nJapanese\n', b'\nTakahashi, Kenji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiura, Kazuya\n\nDirector\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nSasaki, Tokihiro\n\nEpisode Director\n\n', b'\nItou, Fumio\n\nEpisode Director\n\n']
+animePopularity	1180
+animeDescription	"Some time ago, the influential and powerful Toue Inc. bought the island of Midorijima, Japan, with the plans of building Platinum Jail—a luxurious utopian facility. Those who are lucky enough to call it home are the wealthiest citizens in the world. The original residents of the island, however, were forced to relocate to the Old Residential District; and after the completion of Platinum Jail, they were completely abandoned.
+
+""Rib"" and ""Rhyme"" are the most common games played on the island. Rib is an old school game in which gangs engage in turf wars against each other, while Rhyme is a technologically advanced game wherein participants fight in a virtual reality. To be able to play Rhyme, you must have an ""All-Mate"" (an AI that typically looks like a pet), and the match must be mediated by an ""Usui.""
+
+Aoba Seragaki has no interest in playing either game; he prefers to live a peaceful life with his grandmother and All-Mate, Ren. However, after getting forcefully dragged into a dangerous Rhyme match and hearing rumors about disappearing Rib players, all of Aoba's hopes of living a normal life are completely abolished.
+
+[Written by MAL Rewrite]"
+animeRelated	"['DRAMAtical Murder', 'DRAMAtical Murder: Data_xx_Transitory', ""BOY's LOVE Nitro+CHiRAL""]"
+animeCharacters	['Noiz', 'Clear', 'Seragaki, Aoba', 'Koujaku', 'Ren', 'Mink', 'Virus', 'Trip', 'Sei', 'Mizuki']
+animeVoices	['Hino, Satoshi', 'Nakazawa, Masatomo', 'Kisaichi, Atsushi', 'Takahashi, Hiroki', 'Takeuchi, Ryouta', 'Matsuda, Kenichirou', 'Majima, Junji', 'Higuchi, Tomoyuki', 'Iguchi, Yuuichi', 'Takahashi, Kenji']
+animeStaff	[['Miura, Kazuya', 'Director'], ['Iida, Satoki', 'Sound Director'], ['Sasaki, Tokihiro', 'Episode Director'], ['Itou, Fumio', 'Episode Director']]

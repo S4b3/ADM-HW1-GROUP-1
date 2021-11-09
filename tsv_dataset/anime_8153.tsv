@@ -1,5 +1,5 @@
-animeTitle	"b""Dragon's Heaven"""
-animeType	b'OVA'
+animeTitle	Dragon's Heaven
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.1
 animeUsers	2808
 animeRank	
-animePopularity	
-animeDescription	"b""In the year 3195, there was a war between an army of robots and the humans. When Shaian, a sentient combat armor, lost his companion in battle, he shut down until his internal systems spotted a new human. It's now almost a 1000 years later, and Shaian's greatest enemy is still alive and doing battle in Brazil. With a new friend`s help, Shaian may be able to stop this evil force before another war rages over the continent.\n\n(Source: ANN)"""
+animePopularity	6070
+animeDescription	"In the year 3195, there was a war between an army of robots and the humans. When Shaian, a sentient combat armor, lost his companion in battle, he shut down until his internal systems spotted a new human. It's now almost a 1000 years later, and Shaian's greatest enemy is still alive and doing battle in Brazil. With a new friend`s help, Shaian may be able to stop this evil force before another war rages over the continent.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Ikuuru', b'Shaian', b'Elmedain', b'Orionis']
-animeVoices	[b'\nMinaguchi, Yuko\nJapanese\n', b'\nKayumi, Iemasa\nJapanese\n', b'\nTomiyama, Kei\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Makoto\n\nDirector, Original Creator\n\n', b'\nKobayashi, Osamu\n\nStoryboard, Color Setting, Mechanical Design, Key Animation\n\n', b'\nOhira, Shinya\n\nAnimation Director, Key Animation\n\n', b'\nHirano, Toshiki\n\nCharacter Design\n\n']
+animeCharacters	['Ikuuru', 'Shaian', 'Elmedain', 'Orionis']
+animeVoices	['Minaguchi, Yuko', 'Kayumi, Iemasa', 'Tomiyama, Kei', 'Gouri, Daisuke']
+animeStaff	[['Kobayashi, Makoto', 'Director, Original Creator'], ['Kobayashi, Osamu', 'Storyboard, Color Setting, Mechanical Design, Key Animation'], ['Ohira, Shinya', 'Animation Director, Key Animation'], ['Hirano, Toshiki', 'Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Biohazard 4: Incubate'
-animeType	b'OVA'
+animeTitle	Biohazard 4: Incubate
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.15
 animeUsers	3005
 animeRank	
-animePopularity	
-animeDescription	"b""After the Playstation port of Resident Evil 4 hit the stores Capcom released a new 97 minute DVD some time later which intended to summarize the whole story of Resident Evil 4. It's played on English audio with Japanese subtitles. It also included a little book which explains the life on El Pueblo before and the arrival of Osmund Saddler. It also solved some plot holes like the whereabouts of the children. It contains many of the scenes original to Resident Evil 4.\n\n(Source: Resident Evil Wiki)"""
-animeRelated	[b'Biohazard: Degeneration']
-animeCharacters	[b'Kennedy, Leon Scott', b'Wong, Ada', b'Wesker, Albert']
+animePopularity	6059
+animeDescription	"After the Playstation port of Resident Evil 4 hit the stores Capcom released a new 97 minute DVD some time later which intended to summarize the whole story of Resident Evil 4. It's played on English audio with Japanese subtitles. It also included a little book which explains the life on El Pueblo before and the arrival of Osmund Saddler. It also solved some plot holes like the whereabouts of the children. It contains many of the scenes original to Resident Evil 4.
+
+(Source: Resident Evil Wiki)"
+animeRelated	['Biohazard: Degeneration']
+animeCharacters	['Kennedy, Leon Scott', 'Wong, Ada', 'Wesker, Albert']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nCapcom\n\nOriginal Creator\n\n']
+animeStaff	[['Capcom', 'Original Creator']]

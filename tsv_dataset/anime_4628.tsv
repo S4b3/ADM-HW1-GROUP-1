@@ -1,5 +1,5 @@
-animeTitle	b'Majutsushi Orphen: Revenge'
-animeType	b'TV'
+animeTitle	Majutsushi Orphen: Revenge
+animeType	TV
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.8
 animeUsers	6158
 animeRank	
-animePopularity	
-animeDescription	b'Orphen and his gang has set out on an all new adventure with many monsters to battle and no peace and quiet. But a new friend has joined the group. Her name Lycorus who was sent to find Orphen. Many mysterious shadows are overhanging over head. \n\n(Source: ANN)'
-animeRelated	[b'Majutsushi Orphen', b'Majutsushi Orphen Hagure Tabi']
-animeCharacters	[b'Orphen', b'Everlasting, Cleao', b'Lin, Majic', b'Volkan', b'Nielsen, Lycorus', b'Dortin', b'Reki', b'Allenford, Hartia', b'Powderfield, Childman', b'Rai']
-animeVoices	[b'\nMorikubo, Shoutarou\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n', b'\nMinami, Omi\nJapanese\n', b'\nIkura, Kazue\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nShiina, Hekiru\nJapanese\n', b'\nYoshida, Konami\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nToriumi, Katsumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChung, Jin Ho\n\nProducer, ADR Director\n\n', b'\nTakahashi, Tooru\n\nDirector, Episode Director, Storyboard\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nKasai, Kenichi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	4403
+animeDescription	"Orphen and his gang has set out on an all new adventure with many monsters to battle and no peace and quiet. But a new friend has joined the group. Her name Lycorus who was sent to find Orphen. Many mysterious shadows are overhanging over head. 
+
+(Source: ANN)"
+animeRelated	['Majutsushi Orphen', 'Majutsushi Orphen Hagure Tabi']
+animeCharacters	['Orphen', 'Everlasting, Cleao', 'Lin, Majic', 'Volkan', 'Nielsen, Lycorus', 'Dortin', 'Reki', 'Allenford, Hartia', 'Powderfield, Childman', 'Rai']
+animeVoices	['Morikubo, Shoutarou', 'Iizuka, Mayumi', 'Minami, Omi', 'Ikura, Kazue', 'Kawakami, Tomoko', 'Shiina, Hekiru', 'Yoshida, Konami', 'Okiayu, Ryoutarou', 'Nakata, Jouji', 'Toriumi, Katsumi']
+animeStaff	[['Chung, Jin Ho', 'Producer, ADR Director'], ['Takahashi, Tooru', 'Director, Episode Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director'], ['Kasai, Kenichi', 'Episode Director, Storyboard']]

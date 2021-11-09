@@ -1,5 +1,5 @@
-animeTitle	b'Yatterman Specials'
-animeType	b'Special'
+animeTitle	Yatterman Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.15
 animeUsers	143
 animeRank	
-animePopularity	
-animeDescription	"b'Two extended specials.\nThe first one parodies Monta Mino, a famous real life Japanese entertainer. The second one parodies the US television show ""24"".\n'"
-animeRelated	[b'Yatterman']
-animeCharacters	[b'Mino, Monichi']
-animeVoices	[b'\nMino, Monta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUemura, Yutaka\n\nEpisode Director\n\n']
+animePopularity	12635
+animeDescription	"Two extended specials.
+The first one parodies Monta Mino, a famous real life Japanese entertainer. The second one parodies the US television show ""24"".
+"
+animeRelated	['Yatterman']
+animeCharacters	['Mino, Monichi']
+animeVoices	['Mino, Monta']
+animeStaff	[['Uemura, Yutaka', 'Episode Director']]

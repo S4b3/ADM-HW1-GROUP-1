@@ -1,5 +1,5 @@
-animeTitle	b'Saa Ikou! Tamagotchi'
-animeType	b'TV'
+animeTitle	Saa Ikou! Tamagotchi
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.8
 animeUsers	359
 animeRank	
-animePopularity	
-animeDescription	"b""Let's Go! Tamagotchi is an anime series focusing on the lives of Mametchi, Memetchi, Kuchipatchi, ChaMametchi, and their friends. The series premiered in Japan in December 2007, while an English dub was uploaded by Bandai in December 2008. It was originally uploaded a week before the release of the first movie in Japanese."""
-animeRelated	[b'Eiga de Toujou! Tamagotchi Dokidoki! Uchuu no Maigotchi!?']
-animeCharacters	[b'Mametchi', b'Memetchi', b'Lovelitchi', b'KuroMametchi']
-animeVoices	[b'\nKugimiya, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n', b'\nOoseki, Tatsue\n\nColor Design\n\n', b'\nIkeda, Shinsuke\n\nDirector of Photography\n\n']
+animePopularity	11449
+animeDescription	Let's Go! Tamagotchi is an anime series focusing on the lives of Mametchi, Memetchi, Kuchipatchi, ChaMametchi, and their friends. The series premiered in Japan in December 2007, while an English dub was uploaded by Bandai in December 2008. It was originally uploaded a week before the release of the first movie in Japanese.
+animeRelated	['Eiga de Toujou! Tamagotchi Dokidoki! Uchuu no Maigotchi!?']
+animeCharacters	['Mametchi', 'Memetchi', 'Lovelitchi', 'KuroMametchi']
+animeVoices	['Kugimiya, Rie']
+animeStaff	[['Mima, Masafumi', 'Sound Director'], ['Tanaka, Kouhei', 'Music'], ['Ooseki, Tatsue', 'Color Design'], ['Ikeda, Shinsuke', 'Director of Photography']]

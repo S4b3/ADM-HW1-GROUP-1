@@ -1,5 +1,5 @@
-animeTitle	b'MM!'
-animeType	b'TV'
+animeTitle	MM!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.08
 animeUsers	113037
 animeRank	
-animePopularity	
-animeDescription	"b'Taro Sado is a high school student who lives his day to day life with a big secret\xe2\x80\x94he\'s a masochist! Encouraged by his cross-dressing best friend Tatsukichi Hayama, Taro asks the Second Voluntary Club for help with his problem and ends up joining the club after they vow to ""fix"" him.\n\nHowever, it turns out that all of the members of the club have some serious issues. The club leader Mio Isurugi is a self-designated god who is afraid of cats, Arashiko Yuuno has a severe fear of men, and the club advisor Michiru Onigawara is a sadist who enjoys making people cosplay. \n\nTogether with other wacky characters such as Yumi Mamiya, a talented masseuse and Yuuno\'s best friend, and Noa Hiiragi, the president of the invention club, they all learn about the importance of acceptance and kindness.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'MM!', b'MM! Specials']
-animeCharacters	[b'Isurugi, Mio', b'Sado, Taro', b'Yuuno, Arashiko', b'Hiiragi, Noa', b'Hayama, Tatsukichi', b'Onigawara, Michiru', b'Sado, Tomoko', b'Himura, Yukinojo', b'Mamiya, Yumi', b'Sado, Nanaha']
-animeVoices	[b'\nTaketatsu, Ayana\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nYonaga, Tsubasa\nJapanese\n', b'\nGibu, Yuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagasawa, Tsuyoshi\n\nDirector, Episode Director, Storyboard\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n', b'\nHashiguchi, Yousuke\n\nEpisode Director\n\n', b'\nKobayashi, Kousuke\n\nEpisode Director\n\n']
+animePopularity	820
+animeDescription	"Taro Sado is a high school student who lives his day to day life with a big secret—he's a masochist! Encouraged by his cross-dressing best friend Tatsukichi Hayama, Taro asks the Second Voluntary Club for help with his problem and ends up joining the club after they vow to ""fix"" him.
+
+However, it turns out that all of the members of the club have some serious issues. The club leader Mio Isurugi is a self-designated god who is afraid of cats, Arashiko Yuuno has a severe fear of men, and the club advisor Michiru Onigawara is a sadist who enjoys making people cosplay. 
+
+Together with other wacky characters such as Yumi Mamiya, a talented masseuse and Yuuno's best friend, and Noa Hiiragi, the president of the invention club, they all learn about the importance of acceptance and kindness.
+
+[Written by MAL Rewrite]"
+animeRelated	['MM!', 'MM! Specials']
+animeCharacters	['Isurugi, Mio', 'Sado, Taro', 'Yuuno, Arashiko', 'Hiiragi, Noa', 'Hayama, Tatsukichi', 'Onigawara, Michiru', 'Sado, Tomoko', 'Himura, Yukinojo', 'Mamiya, Yumi', 'Sado, Nanaha']
+animeVoices	['Taketatsu, Ayana', 'Fukuyama, Jun', 'Hayami, Saori', 'Yahagi, Sayuri', 'Satou, Rina', 'Tanaka, Rie', 'Ohara, Sayaka', 'Yonaga, Tsubasa', 'Gibu, Yuko']
+animeStaff	[['Nagasawa, Tsuyoshi', 'Director, Episode Director, Storyboard'], ['Takadera, Takeshi', 'Sound Director'], ['Hashiguchi, Yousuke', 'Episode Director'], ['Kobayashi, Kousuke', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Nanatsu no Taizai: Imashime no Fukkatsu Joshou'
-animeType	b'Special'
+animeTitle	Nanatsu no Taizai: Imashime no Fukkatsu Joshou
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.26
 animeUsers	22932
 animeRank	
-animePopularity	
-animeDescription	b'An episode recapping Nanatsu no Taizai with additional scenes, aired before the new season in January 2018.'
-animeRelated	[b'Nanatsu no Taizai', b'Nanatsu no Taizai: Seisen no Shirushi', b'Nanatsu no Taizai: Imashime no Fukkatsu', b'Nanatsu no Taizai: Kamigami no Gekirin']
-animeCharacters	[b'Ban', b'Meliodas', b'King', b'Hawk', b'Gowther', b'Diane', b'Liones, Elizabeth', b'Merlin', b'Gilthunder']
+animePopularity	2287
+animeDescription	An episode recapping Nanatsu no Taizai with additional scenes, aired before the new season in January 2018.
+animeRelated	['Nanatsu no Taizai', 'Nanatsu no Taizai: Seisen no Shirushi', 'Nanatsu no Taizai: Imashime no Fukkatsu', 'Nanatsu no Taizai: Kamigami no Gekirin']
+animeCharacters	['Ban', 'Meliodas', 'King', 'Hawk', 'Gowther', 'Diane', 'Liones, Elizabeth', 'Merlin', 'Gilthunder']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nFLOW\n\nTheme Song Performance\n\n', b'\nGRANRODEO\n\nTheme Song Performance\n\n']
+animeStaff	[['FLOW', 'Theme Song Performance'], ['GRANRODEO', 'Theme Song Performance']]

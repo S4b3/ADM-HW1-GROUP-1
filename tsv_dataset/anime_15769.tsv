@@ -1,5 +1,5 @@
-animeTitle	b'Ginga Hyouryuu Vifam 13'
-animeType	b'TV'
+animeTitle	Ginga Hyouryuu Vifam 13
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'On July 27 1996, Mr. Takeyuki Kanda died suddenly at the age of 52. Born August 11 1943, he was known as the director of several animations including VIFAM. Thus in 1998 a new TV series of VIFAM was broadcasted in memory of him. Televised 1998/3/21-1998/10/3 (in Kansai area), it contains 26 episodes, and like Twelve people disappeared it is a sidestory, but some new features are added: new persons, new RV, etc.\n\nThe story could be inserted between #22 and #26 (#24 and #25 are digests) of VIFAM, and is divided into three parts: Act I (#1-14), Interlude (#15-18), Act II (#19-26), if we name them (in reality Act I and II have little relationship). It could also be the New Testament, but it is now regarded as an apocrypha (or worse, a pseudo-VIFAM). There are several reasons to say so, but to watch the story is the best way to understand them.\n\n(Source: u-netsurf.ne.jp/~suemura/vifam/vguide.html)'
-animeRelated	[b'Ginga Hyouryuu Vifam']
-animeCharacters	[b'Lyan, Barts', b'Eril, Jimmy', b'Rowel, Maki', b'Pearson, Katue', b'Shuffle, Fred', b'Eliza, Pench', b'Publin, Sharon', b'Norton, Kentsu', b'Shuffle, Roddy', b'Barbland, Clare']
-animeVoices	[b'\nTakemura, Hiroshi\nJapanese\n', b'\nChijimatsu, Sachiko\nJapanese\n', b'\nKasahara, Hiroko\nJapanese\n', b'\nAkiyama, Runa\nJapanese\n', b'\nHara, Eriko\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nTominaga, Miina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Masuo\n\nProducer\n\n', b'\nKawase, Toshifumi\n\nDirector, Storyboard\n\n', b'\nTakamatsu, Shinji\n\nEpisode Director, Storyboard\n\n', b'\nKasai, Kenichi\n\nEpisode Director\n\n']
+animePopularity	12593
+animeDescription	"On July 27 1996, Mr. Takeyuki Kanda died suddenly at the age of 52. Born August 11 1943, he was known as the director of several animations including VIFAM. Thus in 1998 a new TV series of VIFAM was broadcasted in memory of him. Televised 1998/3/21-1998/10/3 (in Kansai area), it contains 26 episodes, and like Twelve people disappeared it is a sidestory, but some new features are added: new persons, new RV, etc.
+
+The story could be inserted between #22 and #26 (#24 and #25 are digests) of VIFAM, and is divided into three parts: Act I (#1-14), Interlude (#15-18), Act II (#19-26), if we name them (in reality Act I and II have little relationship). It could also be the New Testament, but it is now regarded as an apocrypha (or worse, a pseudo-VIFAM). There are several reasons to say so, but to watch the story is the best way to understand them.
+
+(Source: u-netsurf.ne.jp/~suemura/vifam/vguide.html)"
+animeRelated	['Ginga Hyouryuu Vifam']
+animeCharacters	['Lyan, Barts', 'Eril, Jimmy', 'Rowel, Maki', 'Pearson, Katue', 'Shuffle, Fred', 'Eliza, Pench', 'Publin, Sharon', 'Norton, Kentsu', 'Shuffle, Roddy', 'Barbland, Clare']
+animeVoices	['Takemura, Hiroshi', 'Chijimatsu, Sachiko', 'Kasahara, Hiroko', 'Akiyama, Runa', 'Hara, Eriko', 'Nozawa, Masako', 'Tominaga, Miina']
+animeStaff	[['Ueda, Masuo', 'Producer'], ['Kawase, Toshifumi', 'Director, Storyboard'], ['Takamatsu, Shinji', 'Episode Director, Storyboard'], ['Kasai, Kenichi', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Dr. Slump Movie 11: Dr. Mashirito & Abale-chan'
-animeType	b'Movie'
+animeTitle	Dr. Slump Movie 11: Dr. Mashirito & Abale-chan
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.02
 animeUsers	412
 animeRank	
-animePopularity	
-animeDescription	b'The story centers around an evil counterpart of Arale created by Dr. Mashirito named Abale.'
-animeRelated	[b'Dr. Slump: Arale-chan']
-animeCharacters	"[b'Abale', b'Dr. Mashirito Jr.', b'Norimaki, Arale', b'Norimaki, Gajira', b'Soramame, Tarou', b'Daiou, Nikochan', b""Nikochan's Servant"", b'Pagos']"
-animeVoices	[b'\nKoyama, Mami\nJapanese\n', b'\nNozawa, Nachi\nJapanese\n', b'\nNishihara, Kumiko\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nOotake, Hiroshi\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagamine, Tatsuya\n\nDirector\n\n', b'\nToriyama, Akira\n\nOriginal Creator\n\n', b'\nUmezawa, Atsutoshi\n\nPlanning\n\n']
+animePopularity	10631
+animeDescription	The story centers around an evil counterpart of Arale created by Dr. Mashirito named Abale.
+animeRelated	['Dr. Slump: Arale-chan']
+animeCharacters	"['Abale', 'Dr. Mashirito Jr.', 'Norimaki, Arale', 'Norimaki, Gajira', 'Soramame, Tarou', 'Daiou, Nikochan', ""Nikochan's Servant"", 'Pagos']"
+animeVoices	['Koyama, Mami', 'Nozawa, Nachi', 'Nishihara, Kumiko', 'Furukawa, Toshio', 'Ootake, Hiroshi', 'Chiba, Shigeru', 'Satou, Masaharu']
+animeStaff	[['Nagamine, Tatsuya', 'Director'], ['Toriyama, Akira', 'Original Creator'], ['Umezawa, Atsutoshi', 'Planning']]

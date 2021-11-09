@@ -1,4 +1,4 @@
-animeTitle	b'Freely Tomorrow'
+animeTitle	Freely Tomorrow
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.67
 animeUsers	1461
 animeRank	
-animePopularity	
-animeDescription	"b'This is part of the album ""Mitchie M feat. Hatsune Miku - Greatest Idol""\n\nThe Music Video premiered at Vocaloid Cinema Party 2012.'"
+animePopularity	8795
+animeDescription	"This is part of the album ""Mitchie M feat. Hatsune Miku - Greatest Idol""
+
+The Music Video premiered at Vocaloid Cinema Party 2012."
 animeRelated	[]
-animeCharacters	[b'Hatsune, Miku']
+animeCharacters	['Hatsune, Miku']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHatsune, Miku\n\nTheme Song Performance\n\n']
+animeStaff	[['Hatsune, Miku', 'Theme Song Performance']]

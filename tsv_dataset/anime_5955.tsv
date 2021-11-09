@@ -1,5 +1,5 @@
-animeTitle	b'Persona 4 the Golden Animation: Thank you Mr. Accomplice'
-animeType	b'Special'
+animeTitle	Persona 4 the Golden Animation: Thank you Mr. Accomplice
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.53
 animeUsers	4275
 animeRank	
-animePopularity	
-animeDescription	b'After Yuu finds out the past and circumstances of Adachi, he makes a single decision in order to save him.\n\n(Source: ANN)\n\nThis is an alternate ending to the Persona 4 The Golden Animation series.'
-animeRelated	[b'Persona 4 the Golden Animation']
-animeCharacters	[b'Narukami, Yuu', b'Adachi, Tooru', b'Shirogane, Naoto', b'Hanamura, Yousuke', b'Kujikawa, Rise', b'Tatsumi, Kanji', b'Amagi, Yukiko', b'Marie']
+animePopularity	5053
+animeDescription	"After Yuu finds out the past and circumstances of Adachi, he makes a single decision in order to save him.
+
+(Source: ANN)
+
+This is an alternate ending to the Persona 4 The Golden Animation series."
+animeRelated	['Persona 4 the Golden Animation']
+animeCharacters	['Narukami, Yuu', 'Adachi, Tooru', 'Shirogane, Naoto', 'Hanamura, Yousuke', 'Kujikawa, Rise', 'Tatsumi, Kanji', 'Amagi, Yukiko', 'Marie']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSoejima, Shigenori\n\nOriginal Character Design\n\n']
+animeStaff	[['Soejima, Shigenori', 'Original Character Design']]

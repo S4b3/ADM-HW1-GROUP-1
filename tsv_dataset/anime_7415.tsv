@@ -1,5 +1,5 @@
-animeTitle	b'Zoo: Hidamari no Shi'
-animeType	b'Movie'
+animeTitle	Zoo: Hidamari no Shi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.26
 animeUsers	203
 animeRank	
-animePopularity	
-animeDescription	b'A man makes a robot girl and tries to teach her the aspects of daily life. But what is his real goal?'
+animePopularity	12600
+animeDescription	A man makes a robot girl and tries to teach her the aspects of daily life. But what is his real goal?
 animeRelated	[]
-animeCharacters	[b'Man', b'Girl']
-animeVoices	[b'\nRyuu, Suwaru\nJapanese\n', b'\nSuzuki, Kasumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMizusaki, Junpei\n\nDirector\n\n', b'\nFuruya, Usamaru\n\nScript, Storyboard, Character Design\n\n', b'\nOtsuichi\n\nOriginal Creator\n\n', b'\nMidorikawa, Tooru\n\nMusic\n\n']
+animeCharacters	['Man', 'Girl']
+animeVoices	['Ryuu, Suwaru', 'Suzuki, Kasumi']
+animeStaff	[['Mizusaki, Junpei', 'Director'], ['Furuya, Usamaru', 'Script, Storyboard, Character Design'], ['Otsuichi', 'Original Creator'], ['Midorikawa, Tooru', 'Music']]

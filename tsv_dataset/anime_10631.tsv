@@ -1,5 +1,5 @@
-animeTitle	"b""Uchuu Kyoudai: Apo's Dream"""
-animeType	b'OVA'
+animeTitle	Uchuu Kyoudai: Apo's Dream
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.41
 animeUsers	1261
 animeRank	
-animePopularity	
-animeDescription	"b""Included on a DVD within the limited edition of the manga's volume 17. \n\nApo, the pet dog from the manga, will star in the anime."""
-animeRelated	[b'Uchuu Kyoudai']
-animeCharacters	[b'Apo', b'Nanba, Mutta', b'Nanba, Hibito', b'Nanba, Father', b'Nanba, Mother']
+animePopularity	7862
+animeDescription	"Included on a DVD within the limited edition of the manga's volume 17. 
+
+Apo, the pet dog from the manga, will star in the anime."
+animeRelated	['Uchuu Kyoudai']
+animeCharacters	['Apo', 'Nanba, Mutta', 'Nanba, Hibito', 'Nanba, Father', 'Nanba, Mother']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoyama, Chuuya\n\nOriginal Creator\n\n']
+animeStaff	[['Koyama, Chuuya', 'Original Creator']]

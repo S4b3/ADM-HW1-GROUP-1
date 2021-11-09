@@ -1,4 +1,4 @@
-animeTitle	b'Baymax'
+animeTitle	Baymax
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.96
 animeUsers	844
 animeRank	
-animePopularity	
-animeDescription	b'The adventure story revolves around Hiro, a 14-year-old boy who lost his dear brother Tadashi in a mysterious accident, and Baymax, a personal healthcare companion robot developed by Tadashi. The story is set in San Fransokyo, a fictional city that combines the imagery of San Francisco and Tokyo.\n\n(Source: ANN)'
-animeRelated	[b'Baymax']
-animeCharacters	[b'Hamada, Tadashi', b'Baymax', b'Hamada, Hiro']
+animePopularity	10201
+animeDescription	"The adventure story revolves around Hiro, a 14-year-old boy who lost his dear brother Tadashi in a mysterious accident, and Baymax, a personal healthcare companion robot developed by Tadashi. The story is set in San Fransokyo, a fictional city that combines the imagery of San Francisco and Tokyo.
+
+(Source: ANN)"
+animeRelated	['Baymax']
+animeCharacters	['Hamada, Tadashi', 'Baymax', 'Hamada, Hiro']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTekken\n\nDirector\n\n', b'\nKoyama, Shigeto\n\nOriginal Character Design\n\n']
+animeStaff	[['Tekken', 'Director'], ['Koyama, Shigeto', 'Original Character Design']]

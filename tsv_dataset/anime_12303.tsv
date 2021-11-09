@@ -1,4 +1,4 @@
-animeTitle	b'Natalie'
+animeTitle	Natalie
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Music video for Sayonara Ponytail's song Natalie, animated by AC-bu. The video is a parody of 80s anime opening animations."""
+animePopularity	18203
+animeDescription	Music video for Sayonara Ponytail's song Natalie, animated by AC-bu. The video is a parody of 80s anime opening animations.
 animeRelated	[]
-animeCharacters	[b'Ayumin', b'Nacchan', b'Miina', b'Yuritan', b'Megu', b'324P', b'Megane-kun']
+animeCharacters	['Ayumin', 'Nacchan', 'Miina', 'Yuritan', 'Megu', '324P', 'Megane-kun']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nAC-bu\n\nDirector\n\n', b'\nSayonara Ponytail\n\nTheme Song Performance\n\n']
+animeStaff	[['AC-bu', 'Director'], ['Sayonara Ponytail', 'Theme Song Performance']]

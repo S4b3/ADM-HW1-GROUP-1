@@ -1,5 +1,5 @@
-animeTitle	b'Bakuon!! OVA'
-animeType	b'OVA'
+animeTitle	Bakuon!! OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.41
 animeUsers	4017
 animeRank	
-animePopularity	
-animeDescription	b'Bundled with the 7th and 9th volumes of the Bakuon!! manga.'
-animeRelated	[b'Bakuon!!']
-animeCharacters	[b'Suzunoki, Rin', b'Amano, Onsa', b'Kawasaki, Raimu', b'Sakura, Hane', b'Minowa, Hijiri', b'Sakura, Yume', b'Hayakawa, Hikari', b'Nakano, Chisame']
-animeVoices	[b'\nTouyama, Nao\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nUeda, Reina\nJapanese\n', b'\nYamaguchi, Rikako\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakanishi, Ryousuke\n\nMusic\n\n', b'\nOrimoto, Mimana\n\nOriginal Creator\n\n', b'\nNii, Manabu\n\nAnimation Director\n\n', b'\nMuratani, Takashi\n\nAnimation Director\n\n']
+animePopularity	5592
+animeDescription	Bundled with the 7th and 9th volumes of the Bakuon!! manga.
+animeRelated	['Bakuon!!']
+animeCharacters	['Suzunoki, Rin', 'Amano, Onsa', 'Kawasaki, Raimu', 'Sakura, Hane', 'Minowa, Hijiri', 'Sakura, Yume', 'Hayakawa, Hikari', 'Nakano, Chisame']
+animeVoices	['Touyama, Nao', 'Uchiyama, Yumi', 'Ueda, Reina', 'Yamaguchi, Rikako', 'Uesaka, Sumire']
+animeStaff	[['Nakanishi, Ryousuke', 'Music'], ['Orimoto, Mimana', 'Original Creator'], ['Nii, Manabu', 'Animation Director'], ['Muratani, Takashi', 'Animation Director']]

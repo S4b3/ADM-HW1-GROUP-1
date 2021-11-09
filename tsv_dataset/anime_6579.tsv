@@ -1,5 +1,5 @@
-animeTitle	b'RahXephon Specials'
-animeType	b'Special'
+animeTitle	RahXephon Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.42
 animeUsers	1111
 animeRank	
-animePopularity	
-animeDescription	b'DVD Specials for the series RahXephon.\n\n1. Memories (Episode 9.5)\n2. Ichiko Hashimoto - The Fate of Katun\n'
-animeRelated	[b'RahXephon']
+animePopularity	7842
+animeDescription	"DVD Specials for the series RahXephon.
+
+1. Memories (Episode 9.5)
+2. Ichiko Hashimoto - The Fate of Katun
+"
+animeRelated	['RahXephon']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

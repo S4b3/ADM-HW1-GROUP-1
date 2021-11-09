@@ -1,5 +1,5 @@
-animeTitle	b'Koukaku Kidoutai Arise: Alternative Architecture'
-animeType	b'TV'
+animeTitle	Koukaku Kidoutai Arise: Alternative Architecture
+animeType	TV
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.24
 animeUsers	13053
 animeRank	
-animePopularity	
-animeDescription	"b'A TV anime version of Ghost in the Shell: Arise. The first eight episodes are an edited version of the four movies while the last two features a new arc called ""Pyrophoric Cult.""\n\nThe plot involves the ""Fire Starter"" virus explored previously, and introduces the new character Pyromania. The episode will have ties to the upcoming film.\n\n(Source: Wikipedia)'"
-animeRelated	[b'Koukaku Kidoutai Arise: Ghost in the Shell - Border:1 Ghost Pain', b'Koukaku Kidoutai Arise: Ghost in the Shell - Border:2 Ghost Whispers', b'Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears', b'Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone', b'Koukaku Kidoutai: Shin Movie']
-animeCharacters	[b'Kusanagi, Motoko', b'Batou', b'Togusa', b'Aramaki, Daisuke', b'Saito', b'Ishikawa', b'Pazu', b'Logicoma', b'Borma', b'Kurutsu']
-animeVoices	[b'\nSakamoto, Maaya\nJapanese\n', b'\nMatsuda, Kenichirou\nJapanese\n', b'\nShingaki, Tarusuke\nJapanese\n', b'\nJuku, Ikkyuu\nJapanese\n', b'\nNakakuni, Takurou\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n', b'\nUeda, Youji\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nAsano, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKise, Kazuchika\n\nDirector, Character Design\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nSakamoto, Maaya\n\nTheme Song Performance, Theme Song Lyrics\n\n', b'\nAoba, Ichiko\n\nTheme Song Performance\n\n']
+animePopularity	2856
+animeDescription	"A TV anime version of Ghost in the Shell: Arise. The first eight episodes are an edited version of the four movies while the last two features a new arc called ""Pyrophoric Cult.""
+
+The plot involves the ""Fire Starter"" virus explored previously, and introduces the new character Pyromania. The episode will have ties to the upcoming film.
+
+(Source: Wikipedia)"
+animeRelated	['Koukaku Kidoutai Arise: Ghost in the Shell - Border:1 Ghost Pain', 'Koukaku Kidoutai Arise: Ghost in the Shell - Border:2 Ghost Whispers', 'Koukaku Kidoutai Arise: Ghost in the Shell - Border:3 Ghost Tears', 'Koukaku Kidoutai Arise: Ghost in the Shell - Border:4 Ghost Stands Alone', 'Koukaku Kidoutai: Shin Movie']
+animeCharacters	['Kusanagi, Motoko', 'Batou', 'Togusa', 'Aramaki, Daisuke', 'Saito', 'Ishikawa', 'Pazu', 'Logicoma', 'Borma', 'Kurutsu']
+animeVoices	['Sakamoto, Maaya', 'Matsuda, Kenichirou', 'Shingaki, Tarusuke', 'Juku, Ikkyuu', 'Nakakuni, Takurou', 'Sakuya, Shunsuke', 'Ueda, Youji', 'Sawashiro, Miyuki', 'Nakai, Kazuya', 'Asano, Mayumi']
+animeStaff	[['Kise, Kazuchika', 'Director, Character Design'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Sakamoto, Maaya', 'Theme Song Performance, Theme Song Lyrics'], ['Aoba, Ichiko', 'Theme Song Performance']]

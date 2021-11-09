@@ -1,5 +1,5 @@
-animeTitle	b'Shonan Junai Gumi!'
-animeType	b'OVA'
+animeTitle	Shonan Junai Gumi!
+animeType	OVA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.46
 animeUsers	16518
 animeRank	
-animePopularity	
-animeDescription	b'Eikichi Onizuka and Ryuji Danma are members of infamous biker duo, the Oni Baku. When not out riding around, they can be found in school, trying to pick up young women. This is the story of the young Onizuka, who would later become the greatest teacher in Japan, and his partner Ryuji in their quest to lose their virginity and reach maturity.\n\nThey are widely feared bosozoku, and are known for their tenacity and viciousness in a fight. However, this lifestyle does not exactly endear them to the opposite gender, so they decide to change their ways. However, this is easier said than done.\n\n(Source: ANN)'
-animeRelated	[b'Bad Company', b'Shonan Junai Gumi!', b'Great Teacher Onizuka']
-animeCharacters	[b'Onizuka, Eikichi', b'Danma, Ryuuji', b'Saejima, Toshiyuki', b'Masaki, Kyosuke', b'Kadena, Nao', b'Fujisaki, Shinomi', b'Izumo, Mariko', b'Akutsu, Junya', b'Kamata, Jun', b'Nagase, Nagisa']
-animeVoices	[b'\nFutamata, Issei\nJapanese\n', b'\nHori, Hideyuki\nJapanese\n', b'\nNarita, Ken\nJapanese\n', b'\nKawagiko, Ritsu\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHayase, Hiroyuki\n\nSound Director\n\n', b'\nTakenouchi, Kazuhisa\n\nStoryboard\n\n', b'\nFujisawa, Tohru\n\nOriginal Creator\n\n', b'\nMiyamae, Mitsuharu\n\nArt Director\n\n']
+animePopularity	2870
+animeDescription	"Eikichi Onizuka and Ryuji Danma are members of infamous biker duo, the Oni Baku. When not out riding around, they can be found in school, trying to pick up young women. This is the story of the young Onizuka, who would later become the greatest teacher in Japan, and his partner Ryuji in their quest to lose their virginity and reach maturity.
+
+They are widely feared bosozoku, and are known for their tenacity and viciousness in a fight. However, this lifestyle does not exactly endear them to the opposite gender, so they decide to change their ways. However, this is easier said than done.
+
+(Source: ANN)"
+animeRelated	['Bad Company', 'Shonan Junai Gumi!', 'Great Teacher Onizuka']
+animeCharacters	['Onizuka, Eikichi', 'Danma, Ryuuji', 'Saejima, Toshiyuki', 'Masaki, Kyosuke', 'Kadena, Nao', 'Fujisaki, Shinomi', 'Izumo, Mariko', 'Akutsu, Junya', 'Kamata, Jun', 'Nagase, Nagisa']
+animeVoices	['Futamata, Issei', 'Hori, Hideyuki', 'Narita, Ken', 'Kawagiko, Ritsu', 'Hiramatsu, Akiko', 'Katsuki, Masako', 'Koyasu, Takehito', 'Hiyama, Nobuyuki', 'Hayashibara, Megumi']
+animeStaff	[['Hayase, Hiroyuki', 'Sound Director'], ['Takenouchi, Kazuhisa', 'Storyboard'], ['Fujisawa, Tohru', 'Original Creator'], ['Miyamae, Mitsuharu', 'Art Director']]

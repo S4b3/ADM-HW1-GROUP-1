@@ -1,5 +1,5 @@
-animeTitle	b'Howl no Ugoku Shiro'
-animeType	b'Movie'
+animeTitle	Howl no Ugoku Shiro
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.66
 animeUsers	707150
 animeRank	
-animePopularity	
-animeDescription	"b""That jumbled piece of architecture, that cacophony of hissing steam and creaking joints, with smoke billowing from it as it moves on its own... That castle is home to the magnificent wizard Howl, infamous for both his magical prowess and for being a womanizer\xe2\x80\x94or so the rumor goes in Sophie Hatter's small town. Sophie, as the plain daughter of a hatmaker, does not expect much from her future and is content with working hard in the shop. \n\nHowever, Sophie's simple life takes a turn for the exciting when she is ensnared in a disturbing situation, and the mysterious wizard appears to rescue her. Unfortunately, this encounter, brief as it may be, spurs the vain and vengeful Witch of the Waste\xe2\x80\x94in a fit of jealousy caused by a past discord with Howl\xe2\x80\x94to put a curse on the maiden, turning her into an old woman.\n\nIn an endeavor to return to normal, Sophie must accompany Howl and a myriad of eccentric companions\xe2\x80\x94ranging from a powerful fire demon to a hopping scarecrow\xe2\x80\x94in his living castle, on a dangerous adventure as a raging war tears their kingdom apart.\n\n[Written by MAL Rewrite]"""
+animePopularity	97
+animeDescription	"That jumbled piece of architecture, that cacophony of hissing steam and creaking joints, with smoke billowing from it as it moves on its own... That castle is home to the magnificent wizard Howl, infamous for both his magical prowess and for being a womanizer—or so the rumor goes in Sophie Hatter's small town. Sophie, as the plain daughter of a hatmaker, does not expect much from her future and is content with working hard in the shop. 
+
+However, Sophie's simple life takes a turn for the exciting when she is ensnared in a disturbing situation, and the mysterious wizard appears to rescue her. Unfortunately, this encounter, brief as it may be, spurs the vain and vengeful Witch of the Waste—in a fit of jealousy caused by a past discord with Howl—to put a curse on the maiden, turning her into an old woman.
+
+In an endeavor to return to normal, Sophie must accompany Howl and a myriad of eccentric companions—ranging from a powerful fire demon to a hopping scarecrow—in his living castle, on a dangerous adventure as a raging war tears their kingdom apart.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Howl', b'Hatter, Sophie', b'Calcifer', b'Turnip Head', b'Heen', b'Markl', b'Witch of the Waste', b'Suliman']
-animeVoices	[b'\nKimura, Takuya\nJapanese\n', b'\nBaisho, Chieko\nJapanese\n', b'\nGashuin, Tatsuya\nJapanese\n', b'\nOizumi, Yo\nJapanese\n', b'\nKamiki, Ryunosuke\nJapanese\n', b'\nMiwa, Akihiro\nJapanese\n', b'\nKatou, Haruko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Toshio\n\nProducer\n\n', b'\nIshii, Tomohiko\n\nAssistant Producer\n\n', b'\nMiyazaki, Hayao\n\nDirector, Script, Screenplay, Executive Producer\n\n', b'\nHisaishi, Joe\n\nTheme Song Arrangement, Music\n\n']
+animeCharacters	['Howl', 'Hatter, Sophie', 'Calcifer', 'Turnip Head', 'Heen', 'Markl', 'Witch of the Waste', 'Suliman']
+animeVoices	['Kimura, Takuya', 'Baisho, Chieko', 'Gashuin, Tatsuya', 'Oizumi, Yo', 'Kamiki, Ryunosuke', 'Miwa, Akihiro', 'Katou, Haruko']
+animeStaff	[['Suzuki, Toshio', 'Producer'], ['Ishii, Tomohiko', 'Assistant Producer'], ['Miyazaki, Hayao', 'Director, Script, Screenplay, Executive Producer'], ['Hisaishi, Joe', 'Theme Song Arrangement, Music']]

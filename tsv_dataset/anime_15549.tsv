@@ -1,4 +1,4 @@
-animeTitle	b'Ending Song'
+animeTitle	Ending Song
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Music video for the song Ending Song by Megu To Patron.'
+animePopularity	18506
+animeDescription	Music video for the song Ending Song by Megu To Patron.
 animeRelated	[]
-animeCharacters	[b'Megu']
+animeCharacters	['Megu']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOhashi, Takashi\n\nDirector\n\n', b'\nMegu to Patron\n\nTheme Song Performance\n\n']
+animeStaff	[['Ohashi, Takashi', 'Director'], ['Megu to Patron', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ao Oni The Animation (Movie)'
-animeType	b'Movie'
+animeTitle	Ao Oni The Animation (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	4.16
 animeUsers	2691
 animeRank	
-animePopularity	
-animeDescription	b'An animated film series based on the Ao Oni game. It will feature a new story.'
-animeRelated	[b'Ao Oni The Animation']
-animeCharacters	[b'Murakami, Shouichirou', b'Konaka, Shou', b'Manabe, Kouji', b'Minazuki, Karin', b'Takashiro, Junko', b'Ao Oni', b'Hatano, Mifuyu', b'Tachibana, Fumihiko']
+animePopularity	6290
+animeDescription	An animated film series based on the Ao Oni game. It will feature a new story.
+animeRelated	['Ao Oni The Animation']
+animeCharacters	['Murakami, Shouichirou', 'Konaka, Shou', 'Manabe, Kouji', 'Minazuki, Karin', 'Takashiro, Junko', 'Ao Oni', 'Hatano, Mifuyu', 'Tachibana, Fumihiko']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nShikata, Akiko\n\nTheme Song Performance\n\n', b'\nSakurai, Masaaki\n\nCharacter Design\n\n', b'\nnoprops\n\nOriginal Creator\n\n', b'\nYanagida, Shiyu\n\nMusic\n\n']
+animeStaff	[['Shikata, Akiko', 'Theme Song Performance'], ['Sakurai, Masaaki', 'Character Design'], ['noprops', 'Original Creator'], ['Yanagida, Shiyu', 'Music']]

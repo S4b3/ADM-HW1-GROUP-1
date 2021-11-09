@@ -1,5 +1,5 @@
-animeTitle	b'Gegege no Kitarou: Nippon Bakuretsu'
-animeType	b'Movie'
+animeTitle	Gegege no Kitarou: Nippon Bakuretsu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.47
 animeUsers	302
 animeRank	
-animePopularity	
-animeDescription	b'Movie based on the 2007 TV anime with an original plot.'
-animeRelated	[b'Gegege no Kitarou (2007)']
-animeCharacters	[b'Kitarou', b'Medama Oyaji', b'Neko Musume', b'Nezumi Otoko', b'Babaa, Sunakake']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nTanonaka, Isamu\nJapanese\n', b'\nKonno, Hiromi\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nYamamoto, Keiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoga, Gou\n\nDirector\n\n', b'\nSanjou, Riku\n\nScript, Series Composition\n\n', b'\nMizuki, Shigeru\n\nOriginal Creator\n\n', b'\nYokoyama, Seiji\n\nMusic\n\n']
+animePopularity	11100
+animeDescription	Movie based on the 2007 TV anime with an original plot.
+animeRelated	['Gegege no Kitarou (2007)']
+animeCharacters	['Kitarou', 'Medama Oyaji', 'Neko Musume', 'Nezumi Otoko', 'Babaa, Sunakake']
+animeVoices	['Takayama, Minami', 'Tanonaka, Isamu', 'Konno, Hiromi', 'Takagi, Wataru', 'Yamamoto, Keiko']
+animeStaff	[['Koga, Gou', 'Director'], ['Sanjou, Riku', 'Script, Series Composition'], ['Mizuki, Shigeru', 'Original Creator'], ['Yokoyama, Seiji', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Gall Force 3: Stardust War'
-animeType	b'OVA'
+animeTitle	Gall Force 3: Stardust War
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.36
 animeUsers	1151
 animeRank	
-animePopularity	
-animeDescription	b'The girls are saved ... by none other than Catty Nebulart herself! Now, the race is on as Catty struggles to complete her crowning achievement: a huge machine that will bring life to a lifeless world! \n\n(Source: AniDB)'
-animeRelated	[b'Gall Force 2: Destruction', b'Rhea Gall Force']
-animeCharacters	[b'Lufy', b'Catty', b'Amy', b'Shildy', b'Spea', b'Nebulart, Catty', b'Pony']
-animeVoices	[b'\nTsuru, Hiromi\nJapanese\n', b'\nWatanabe, Naoko\nJapanese\n', b'\nHonda, Chieko\nJapanese\n', b'\nShou, Mayumi\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nArakawa, Minako\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkiyama, Katsuhito\n\nDirector\n\n', b'\nKakinuma, Hideki\n\nScript\n\n', b'\nSonoda, Kenichi\n\nCharacter Design\n\n']
+animePopularity	8791
+animeDescription	"The girls are saved ... by none other than Catty Nebulart herself! Now, the race is on as Catty struggles to complete her crowning achievement: a huge machine that will bring life to a lifeless world! 
+
+(Source: AniDB)"
+animeRelated	['Gall Force 2: Destruction', 'Rhea Gall Force']
+animeCharacters	['Lufy', 'Catty', 'Amy', 'Shildy', 'Spea', 'Nebulart, Catty', 'Pony']
+animeVoices	['Tsuru, Hiromi', 'Watanabe, Naoko', 'Honda, Chieko', 'Shou, Mayumi', 'Mizutani, Yuuko', 'Arakawa, Minako', 'Tomizawa, Michie']
+animeStaff	[['Akiyama, Katsuhito', 'Director'], ['Kakinuma, Hideki', 'Script'], ['Sonoda, Kenichi', 'Character Design']]

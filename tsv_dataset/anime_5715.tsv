@@ -1,5 +1,5 @@
-animeTitle	b'Meitantei Holmes: Aoi Ruby no Maki / Kaitei no Zaihou no Maki'
-animeType	b'Movie'
+animeTitle	Meitantei Holmes: Aoi Ruby no Maki / Kaitei no Zaihou no Maki
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.58
 animeUsers	434
 animeRank	
-animePopularity	
-animeDescription	b'The famous blue ruby is stolen in such an elaborate way, that only one villain can be suspected - Professor Moriarty. It is up to Sherlock Holmes to return it and, in the process, to turn a young pick-pocket on the right path. In the second part, Moriarty sets his sights even higher, stealing a top-secret submarine from the Navy. What does he need it for? Holmes is once again on the trail.\n\n(Source: BakaBT)'
-animeRelated	[b'Meitantei Holmes']
-animeCharacters	[b'Holmes, Sherlock', b'Moriarty, Professor ', b'Watson', b'Hudson, Mary', b'Polly', b'Jewelry Shop Owner']
-animeVoices	[b'\nShibata, Teruhiko\nJapanese\n', b'\nOtsuka, Chikao\nJapanese\n', b'\nTomita, Kousei\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nMasuoka, Hiroshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyazaki, Hayao\n\nDirector\n\n', b'\nUtsunomiya, Satoru\n\nIn-Between Animation\n\n', b'\nKatayama, Kazuyoshi\n\nIn-Between Animation\n\n', b'\nShinohara, Nobuko\n\nIn-Between Animation\n\n']
+animePopularity	10423
+animeDescription	"The famous blue ruby is stolen in such an elaborate way, that only one villain can be suspected - Professor Moriarty. It is up to Sherlock Holmes to return it and, in the process, to turn a young pick-pocket on the right path. In the second part, Moriarty sets his sights even higher, stealing a top-secret submarine from the Navy. What does he need it for? Holmes is once again on the trail.
+
+(Source: BakaBT)"
+animeRelated	['Meitantei Holmes']
+animeCharacters	['Holmes, Sherlock', 'Moriarty, Professor ', 'Watson', 'Hudson, Mary', 'Polly', 'Jewelry Shop Owner']
+animeVoices	['Shibata, Teruhiko', 'Otsuka, Chikao', 'Tomita, Kousei', 'Ichiryuusai, Harumi', 'Tanaka, Mayumi', 'Masuoka, Hiroshi']
+animeStaff	[['Miyazaki, Hayao', 'Director'], ['Utsunomiya, Satoru', 'In-Between Animation'], ['Katayama, Kazuyoshi', 'In-Between Animation'], ['Shinohara, Nobuko', 'In-Between Animation']]

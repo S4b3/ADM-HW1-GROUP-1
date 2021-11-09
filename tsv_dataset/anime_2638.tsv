@@ -1,5 +1,5 @@
-animeTitle	b'Witch Hunter Robin'
-animeType	b'TV'
+animeTitle	Witch Hunter Robin
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.26
 animeUsers	37883
 animeRank	
-animePopularity	
-animeDescription	"b""Witches are individuals with special powers like ESP, telekinesis, mind control, etc. Robin, a 15-year-old craft user, arrives from Italy to Japan to work for an organization named STN Japan Division (STN-J) as a replacement for one of STN-J's witch hunters who was recently killed. Unlike other divisions of STN, STN-J tries to capture the witches alive in order to learn why and how they became witches in the first place.\n\n(Source: ANN)"""
+animePopularity	1605
+animeDescription	"Witches are individuals with special powers like ESP, telekinesis, mind control, etc. Robin, a 15-year-old craft user, arrives from Italy to Japan to work for an organization named STN Japan Division (STN-J) as a replacement for one of STN-J's witch hunters who was recently killed. Unlike other divisions of STN, STN-J tries to capture the witches alive in order to learn why and how they became witches in the first place.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Sena, Robin', b'Amon', b'Lee, Michael', b'Karasuma, Miho', b'Doujima, Yurika', b'Sakaki, Haruto', b'Nagira, Shunji', b'Kurosawa, Akio', b'Kirihara, Kazuhiro', b'Kousaka, Shintarou']
-animeVoices	[b'\nWatanabe, Akeno\nJapanese\n', b'\nTakewaka, Takuma\nJapanese\n', b'\nYuuki, Hiro\nJapanese\n', b'\nKouda, Kaho\nJapanese\n', b'\nHikami, Kyouko\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nYamanoi, Jin\nJapanese\n', b'\nOhba, Mahito\nJapanese\n', b'\nEndo, Moriya\nJapanese\n', b'\nTsuji, Shinpachi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurase, Shukou\n\nDirector, Script, Storyboard, Original Creator\n\n', b'\nFujino, Sadayoshi\n\nSound Director\n\n', b'\nOnda, Naoyuki\n\nStoryboard, Animation Director\n\n', b'\nHiramatsu, Tadashi\n\nStoryboard, Key Animation\n\n']
+animeCharacters	['Sena, Robin', 'Amon', 'Lee, Michael', 'Karasuma, Miho', 'Doujima, Yurika', 'Sakaki, Haruto', 'Nagira, Shunji', 'Kurosawa, Akio', 'Kirihara, Kazuhiro', 'Kousaka, Shintarou']
+animeVoices	['Watanabe, Akeno', 'Takewaka, Takuma', 'Yuuki, Hiro', 'Kouda, Kaho', 'Hikami, Kyouko', 'Fukuyama, Jun', 'Yamanoi, Jin', 'Ohba, Mahito', 'Endo, Moriya', 'Tsuji, Shinpachi']
+animeStaff	[['Murase, Shukou', 'Director, Script, Storyboard, Original Creator'], ['Fujino, Sadayoshi', 'Sound Director'], ['Onda, Naoyuki', 'Storyboard, Animation Director'], ['Hiramatsu, Tadashi', 'Storyboard, Key Animation']]

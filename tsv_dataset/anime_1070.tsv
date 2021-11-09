@@ -1,5 +1,5 @@
-animeTitle	b'Muumindani no Suisei'
-animeType	b'Movie'
+animeTitle	Muumindani no Suisei
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.69
 animeUsers	4244
 animeRank	
-animePopularity	
-animeDescription	"b""Unusual things have been happening in Moominvalley. Moomin, Sniff and Mee leave for the Observatory on the Lonely Mountains to confirm the Muskrat's words: a comet is about to hit Moominvalley and destroy everything. On the way they meet Snufkin, the Hemulen and the Snorks and experience many adventures. \n\n(Source: ANN)"""
-animeRelated	[b'Tanoshii Muumin Ikka']
-animeCharacters	[b'Snufkin', b'Moomintroll', b'Little My', b'Moominpappa', b'Moominmamma', b'Sniff', b'Floren', b'Stinky', b'Hemulen', b'Muskrat']
-animeVoices	[b'\nKoyasu, Takehito\nJapanese\n', b'\nTakayama, Minami\nJapanese\n', b'\nSakuma, Rei\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nTani, Ikuko\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nKanai, Mika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSaitou, Hiroshi\n\nDirector, Storyboard, Key Animation\n\n', b'\nMiyazaki, Akira\n\nScript\n\n', b'\nShiratori, Emiko\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nZornitzer, Shai\n\nTheme Song Performance\n\n']
+animePopularity	5658
+animeDescription	"Unusual things have been happening in Moominvalley. Moomin, Sniff and Mee leave for the Observatory on the Lonely Mountains to confirm the Muskrat's words: a comet is about to hit Moominvalley and destroy everything. On the way they meet Snufkin, the Hemulen and the Snorks and experience many adventures. 
+
+(Source: ANN)"
+animeRelated	['Tanoshii Muumin Ikka']
+animeCharacters	['Snufkin', 'Moomintroll', 'Little My', 'Moominpappa', 'Moominmamma', 'Sniff', 'Floren', 'Stinky', 'Hemulen', 'Muskrat']
+animeVoices	['Koyasu, Takehito', 'Takayama, Minami', 'Sakuma, Rei', 'Ootsuka, Akio', 'Tani, Ikuko', 'Nakao, Ryusei', 'Kanai, Mika']
+animeStaff	[['Saitou, Hiroshi', 'Director, Storyboard, Key Animation'], ['Miyazaki, Akira', 'Script'], ['Shiratori, Emiko', 'Theme Song Performance, Inserted Song Performance'], ['Zornitzer, Shai', 'Theme Song Performance']]

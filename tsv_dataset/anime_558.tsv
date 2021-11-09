@@ -1,5 +1,5 @@
-animeTitle	b'Major Movie: Yuujou no Winning Shot'
-animeType	b'Movie'
+animeTitle	Major Movie: Yuujou no Winning Shot
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.0
 animeUsers	10197
 animeRank	
-animePopularity	
-animeDescription	b'Goro briefly returns to Japan after a triumphant campaign in the US. He is heading towards Fukuoka where he played baseball when he was a fifth grader. Having just moved into a new town, this is where Goro faced a critical point in his life. \n\n(Source: ANN)'
-animeRelated	[b'Gekijouban Major: Yuujou no Winning Shot', b'Major S2', b'Major S1']
-animeCharacters	[b'Honda, Gorou', b'Koga, Masato', b'Koga, Megumi', b'Satou, Toshiya', b'Shimizu, Kaoru', b'Honda, Shigeharu', b'Hoshino, Momoko', b'Komori, Daisuke', b'Sanders', b'Shigeno, Hideki']
-animeVoices	[b'\nMorikubo, Shoutarou\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nRenbutsu, Misako\nJapanese\n', b'\nOno, Fuyuka\nJapanese\n', b'\nSasamoto, Yuuko\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nNoda, Junko\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKato, Takao\n\nDirector, Storyboard\n\n', b'\nEnomoto, Akihiro\n\nStoryboard\n\n', b'\nKouno, Megumi\n\nIn-Between Animation\n\n', b'\nMitsuda, Takuya\n\nOriginal Creator\n\n']
+animePopularity	4154
+animeDescription	"Goro briefly returns to Japan after a triumphant campaign in the US. He is heading towards Fukuoka where he played baseball when he was a fifth grader. Having just moved into a new town, this is where Goro faced a critical point in his life. 
+
+(Source: ANN)"
+animeRelated	['Gekijouban Major: Yuujou no Winning Shot', 'Major S2', 'Major S1']
+animeCharacters	['Honda, Gorou', 'Koga, Masato', 'Koga, Megumi', 'Satou, Toshiya', 'Shimizu, Kaoru', 'Honda, Shigeharu', 'Hoshino, Momoko', 'Komori, Daisuke', 'Sanders', 'Shigeno, Hideki']
+animeVoices	['Morikubo, Shoutarou', 'Nojima, Kenji', 'Renbutsu, Misako', 'Ono, Fuyuka', 'Sasamoto, Yuuko', 'Koyasu, Takehito', 'Noda, Junko', 'Kugimiya, Rie', 'Sakuya, Shunsuke']
+animeStaff	[['Kato, Takao', 'Director, Storyboard'], ['Enomoto, Akihiro', 'Storyboard'], ['Kouno, Megumi', 'In-Between Animation'], ['Mitsuda, Takuya', 'Original Creator']]

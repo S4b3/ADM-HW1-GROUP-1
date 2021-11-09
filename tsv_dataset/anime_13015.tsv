@@ -1,5 +1,5 @@
-animeTitle	b'Sabaku no Kaizoku! Captain Kuppa'
-animeType	b'TV'
+animeTitle	Sabaku no Kaizoku! Captain Kuppa
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Sometime in the future, the world was completely dried up and became all desert. They had little rivers and lakes left, which villians and dangerous animals lived. Water has become the most valueable thing on the world. Whoever can control water will rule over the world.  \n\n(Source: ANN)'
+animePopularity	13154
+animeDescription	"Sometime in the future, the world was completely dried up and became all desert. They had little rivers and lakes left, which villians and dangerous animals lived. Water has become the most valueable thing on the world. Whoever can control water will rule over the world.  
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Yukke', b'Captain Kuppa']
-animeVoices	[b'\nKumai, Motoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMashimo, Kouichi\n\nDirector, Series Composition\n\n', b'\nYamamoto, Hideyo\n\nEpisode Director\n\n', b'\nTada, Shunsuke\n\nEpisode Director\n\n', b'\nWakabayashi, Atsushi\n\nCharacter Design\n\n']
+animeCharacters	['Yukke', 'Captain Kuppa']
+animeVoices	['Kumai, Motoko']
+animeStaff	[['Mashimo, Kouichi', 'Director, Series Composition'], ['Yamamoto, Hideyo', 'Episode Director'], ['Tada, Shunsuke', 'Episode Director'], ['Wakabayashi, Atsushi', 'Character Design']]

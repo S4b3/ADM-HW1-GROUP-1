@@ -1,5 +1,5 @@
-animeTitle	b'Futari Daka'
-animeType	b'TV'
+animeTitle	Futari Daka
+animeType	TV
 animeNumEpisode	36
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.97
 animeUsers	136
 animeRank	
-animePopularity	
-animeDescription	b'Two motor-bike crazy young men meet on a track one day. One almost kills the other and after a while, they discover that they have the same first name. Since they are both excellent at racing, they very quickly become rivals ... but their passion and firstname is not the only thing they have in common.'
-animeRelated	[b'Futari-Daka']
-animeCharacters	[b'Kogure, Asako', b'Toujou, Taka', b'Sawatari, Taka', b'Okada, Ryuuko', b'Richter', b'Hanazono, Akemi', b'Ardana', b'Weller, Patricia', b'Toujou, Mia', b'Sawatari, Hisako']
-animeVoices	[b'\nTsuru, Hiromi\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nToda, Keiko\nJapanese\n', b'\nYada, Kouji\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nNojima, Akio\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nMiura, Masako\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYotsuji, Takao\n\nDirector, Episode Director, Script, Storyboard\n\n', b'\nTakayashiki, Hideo\n\nScript\n\n', b'\nHirano, Yasushi\n\nScript\n\n', b'\nSerizawa, Hiroaki\n\nTheme Song Arrangement, Theme Song Composition\n\n']
+animePopularity	11665
+animeDescription	Two motor-bike crazy young men meet on a track one day. One almost kills the other and after a while, they discover that they have the same first name. Since they are both excellent at racing, they very quickly become rivals ... but their passion and firstname is not the only thing they have in common.
+animeRelated	['Futari-Daka']
+animeCharacters	['Kogure, Asako', 'Toujou, Taka', 'Sawatari, Taka', 'Okada, Ryuuko', 'Richter', 'Hanazono, Akemi', 'Ardana', 'Weller, Patricia', 'Toujou, Mia', 'Sawatari, Hisako']
+animeVoices	['Tsuru, Hiromi', 'Shiozawa, Kaneto', 'Furuya, Toru', 'Toda, Keiko', 'Yada, Kouji', 'Utsumi, Kenji', 'Nojima, Akio', 'Tomizawa, Michie', 'Miura, Masako', 'Fujita, Toshiko']
+animeStaff	[['Yotsuji, Takao', 'Director, Episode Director, Script, Storyboard'], ['Takayashiki, Hideo', 'Script'], ['Hirano, Yasushi', 'Script'], ['Serizawa, Hiroaki', 'Theme Song Arrangement, Theme Song Composition']]

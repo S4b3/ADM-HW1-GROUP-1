@@ -1,5 +1,5 @@
-animeTitle	b'Super Zugan'
-animeType	b'TV'
+animeTitle	Super Zugan
+animeType	TV
 animeNumEpisode	21
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A story about mahjong.'
+animePopularity	12798
+animeDescription	A story about mahjong.
 animeRelated	[]
-animeCharacters	[b'Toyotomi, Hideyuki', b'Hayami, Akina', b'Tokugawa, Yasubee', b'Akechi, Kouichi', b'Oda, Shintaro', b'Santa']
-animeVoices	[b'\nYamaguchi, Kappei\nJapanese\n', b'\nOhtsubo, Junko\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nNanba, Keiichi\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishimura, Junji\n\nDirector\n\n', b'\nMinami, Haruo\n\nTheme Song Performance\n\n', b'\nNakajima, Atsuko\n\nCharacter Design\n\n', b'\nMiura, Satoshi\n\nAnimation Director\n\n']
+animeCharacters	['Toyotomi, Hideyuki', 'Hayami, Akina', 'Tokugawa, Yasubee', 'Akechi, Kouichi', 'Oda, Shintaro', 'Santa']
+animeVoices	['Yamaguchi, Kappei', 'Ohtsubo, Junko', 'Tatsuta, Naoki', 'Nanba, Keiichi', 'Yamadera, Kouichi']
+animeStaff	[['Nishimura, Junji', 'Director'], ['Minami, Haruo', 'Theme Song Performance'], ['Nakajima, Atsuko', 'Character Design'], ['Miura, Satoshi', 'Animation Director']]

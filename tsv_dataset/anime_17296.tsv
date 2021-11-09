@@ -1,5 +1,5 @@
-animeTitle	b'Meshinuma.'
-animeType	b'ONA'
+animeTitle	Meshinuma.
+animeType	ONA
 animeNumEpisode	20
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Meshinuma.']
-animeCharacters	[b'Iinuma', b'Yamamoto, Akino', b'Iinuma, Natsuka', b'Hanayama', b'Sasahara, Yukie']
-animeVoices	[b'\nHatano, Wataru\nJapanese\n', b'\nIshii, Misa\nJapanese\n', b'\nUchiyama, Mari\nJapanese\n', b'\nKamio, Shinichirou\nJapanese\n', b'\nWatanabe, Keaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Masashi\n\nSound Director\n\n', b'\nKamijou, Osamu\n\nEpisode Director, Storyboard\n\n', b'\nAmidamuku\n\nOriginal Creator\n\n', b'\nNakahara, Yuuta\n\nSound Effects\n\n']
+animePopularity	12501
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Meshinuma.']
+animeCharacters	['Iinuma', 'Yamamoto, Akino', 'Iinuma, Natsuka', 'Hanayama', 'Sasahara, Yukie']
+animeVoices	['Hatano, Wataru', 'Ishii, Misa', 'Uchiyama, Mari', 'Kamio, Shinichirou', 'Watanabe, Keaki']
+animeStaff	[['Satou, Masashi', 'Sound Director'], ['Kamijou, Osamu', 'Episode Director, Storyboard'], ['Amidamuku', 'Original Creator'], ['Nakahara, Yuuta', 'Sound Effects']]

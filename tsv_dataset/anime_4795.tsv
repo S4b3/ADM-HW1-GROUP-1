@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Ball Movie 2: Majinjou no Nemurihime'
-animeType	b'Movie'
+animeTitle	Dragon Ball Movie 2: Majinjou no Nemurihime
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.76
 animeUsers	29034
 animeRank	
-animePopularity	
-animeDescription	"b'Goku and Kuririn are given an assignment by Kame-Sen\'nin: ""Retrieve the sleeping princess from Lucifer and I will take you as my students."" But the mission proves to be more perilous than originally thought.\n\n(Source: ANN)'"
-animeRelated	[b'Dragon Ball', b'Dragon Ball Movie 1: Shen Long no Densetsu', b'Dragon Ball Movie 3: Makafushigi Daibouken']
-animeCharacters	"[b'Son, Gokuu', b'Bulma', b'Kuririn', b'Lunch', b'Lucifer', b'Muten-Roushi', b'Yamcha', b""Pu'ar"", b'Oolong', b'Umigame']"
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nKoyama, Mami\nJapanese\n', b'\nNozawa, Nachi\nJapanese\n', b'\nMiyauchi, Kouhei\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nWatanabe, Naoko\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatson, Barry\n\nProducer, ADR Director\n\n', b'\nNishio, Daisuke\n\nDirector\n\n', b'\nHashimoto, Ushio\n\nTheme Song Performance\n\n', b'\nToriyama, Akira\n\nOriginal Creator\n\n']
+animePopularity	2421
+animeDescription	"Goku and Kuririn are given an assignment by Kame-Sen'nin: ""Retrieve the sleeping princess from Lucifer and I will take you as my students."" But the mission proves to be more perilous than originally thought.
+
+(Source: ANN)"
+animeRelated	['Dragon Ball', 'Dragon Ball Movie 1: Shen Long no Densetsu', 'Dragon Ball Movie 3: Makafushigi Daibouken']
+animeCharacters	"['Son, Gokuu', 'Bulma', 'Kuririn', 'Lunch', 'Lucifer', 'Muten-Roushi', 'Yamcha', ""Pu'ar"", 'Oolong', 'Umigame']"
+animeVoices	['Nozawa, Masako', 'Tsuru, Hiromi', 'Tanaka, Mayumi', 'Koyama, Mami', 'Nozawa, Nachi', 'Miyauchi, Kouhei', 'Furuya, Toru', 'Watanabe, Naoko', 'Tatsuta, Naoki']
+animeStaff	[['Watson, Barry', 'Producer, ADR Director'], ['Nishio, Daisuke', 'Director'], ['Hashimoto, Ushio', 'Theme Song Performance'], ['Toriyama, Akira', 'Original Creator']]

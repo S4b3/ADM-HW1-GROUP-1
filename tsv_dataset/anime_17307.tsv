@@ -1,5 +1,5 @@
-animeTitle	b'Mob Psycho 100 III'
-animeType	b'TV'
+animeTitle	Mob Psycho 100 III
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Third season of Mob Psycho 100.'
-animeRelated	[b'Mob Psycho 100', b'Mob Psycho 100 II']
-animeCharacters	[b'Reigen, Arataka', b'Kageyama, Shigeo', b'Ekubo', b'Hanazawa, Teruki', b'Kageyama, Ritsu']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nItou, Setsuo\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nIrino, Miyu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTachikawa, Yuzuru\n\nDirector\n\n', b'\nHasui, Takahiro\n\nDirector\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n', b'\nONE\n\nOriginal Creator\n\n']
+animePopularity	19124
+animeDescription	Third season of Mob Psycho 100.
+animeRelated	['Mob Psycho 100', 'Mob Psycho 100 II']
+animeCharacters	['Reigen, Arataka', 'Kageyama, Shigeo', 'Ekubo', 'Hanazawa, Teruki', 'Kageyama, Ritsu']
+animeVoices	['Sakurai, Takahiro', 'Itou, Setsuo', 'Ootsuka, Akio', 'Matsuoka, Yoshitsugu', 'Irino, Miyu']
+animeStaff	[['Tachikawa, Yuzuru', 'Director'], ['Hasui, Takahiro', 'Director'], ['Wakabayashi, Kazuhiro', 'Sound Director'], ['ONE', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hen'
-animeType	b'OVA'
+animeTitle	Hen
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.15
 animeUsers	1873
 animeRank	
-animePopularity	
-animeDescription	"b""Yoshida Chizuru is the sexiest co-ed in her class. Secretly, she's been appearing in TV commercials\xe2\x80\x94despite the fact that students are forbidden from working. But one of her professors has uncovered her secret and hopes to use this information to his advantage. Yoshida's got plans of her own, and has no intention of giving up her acting career..."""
-animeRelated	[b'Hen']
-animeCharacters	[b'Yoshida, Chizuru', b'Yamada, Azumi', b'Hiroyuki', b'Yamada, Kiriko', b'Karasawa, Sushiaki']
-animeVoices	[b'\nKichiya, Atsuko\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nKinomiya, Ryouko\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOku, Hiroya\n\nOriginal Creator\n\n', b'\nUmetsu, Yasuomi\n\nCharacter Design\n\n', b'\nNakajima, Chuji\n\nAnimation Director\n\n', b'\nTsuno, Gouji\n\nMusic\n\n']
+animePopularity	7117
+animeDescription	Yoshida Chizuru is the sexiest co-ed in her class. Secretly, she's been appearing in TV commercials—despite the fact that students are forbidden from working. But one of her professors has uncovered her secret and hopes to use this information to his advantage. Yoshida's got plans of her own, and has no intention of giving up her acting career...
+animeRelated	['Hen']
+animeCharacters	['Yoshida, Chizuru', 'Yamada, Azumi', 'Hiroyuki', 'Yamada, Kiriko', 'Karasawa, Sushiaki']
+animeVoices	['Kichiya, Atsuko', 'Ishida, Akira', 'Kinomiya, Ryouko', 'Koyasu, Takehito']
+animeStaff	[['Oku, Hiroya', 'Original Creator'], ['Umetsu, Yasuomi', 'Character Design'], ['Nakajima, Chuji', 'Animation Director'], ['Tsuno, Gouji', 'Music']]

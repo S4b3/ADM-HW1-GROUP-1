@@ -1,5 +1,5 @@
-animeTitle	b'Roujin Z'
-animeType	b'Movie'
+animeTitle	Roujin Z
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.05
 animeUsers	9631
 animeRank	
-animePopularity	
-animeDescription	b'The Z Project was intended to give the new generation a break from caring for the old. The original intenion was to create a machine to care for them without any intervention. At first glance, it looked like an excellent plan, and many of the younger generation approved of its application. But when old Mr. Takazawa become the test subject for the Z-001 machine, Haruko questioned both the tactics of the hospital and the moral implications of the machine. This is just the beginning, as Haruko has not just the hospital, but the odds against her. But then, she discovers an odd quirk about the machine: it uses a biochip, and it eventually acquires a mind of its own!\n\n(Source: AnimeNfo)'
-animeRelated	[b'ZeD']
-animeCharacters	[b'Mihashi, Haruko', b'Terada, Takashi', b'Takazawa, Kijuro', b'Old Man A', b'Oe, Nobuko', b'Old Man C', b'Old Man B', b'Z Computer', b'Maneuver Commander', b'Takazawa, Haru']
-animeVoices	[b'\nYokoyama, Chisa\nJapanese\n', b'\nOgawa, Shinji\nJapanese\n', b'\nMatsumura, Hikojiro\nJapanese\n', b'\nSaikachi, Ryuuji\nJapanese\n', b'\nSatou, Chie\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nSaito, Sho\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKitakubo, Hiroyuki\n\nDirector, Storyboard\n\n', b'\nOtomo, Katsuhiro\n\nScript, Mechanical Design\n\n', b'\nTanaka, Tatsuyuki\n\nStoryboard, Layout\n\n', b'\nKon, Satoshi\n\nLayout, Planning, Key Animation\n\n']
+animePopularity	3365
+animeDescription	"The Z Project was intended to give the new generation a break from caring for the old. The original intenion was to create a machine to care for them without any intervention. At first glance, it looked like an excellent plan, and many of the younger generation approved of its application. But when old Mr. Takazawa become the test subject for the Z-001 machine, Haruko questioned both the tactics of the hospital and the moral implications of the machine. This is just the beginning, as Haruko has not just the hospital, but the odds against her. But then, she discovers an odd quirk about the machine: it uses a biochip, and it eventually acquires a mind of its own!
+
+(Source: AnimeNfo)"
+animeRelated	['ZeD']
+animeCharacters	['Mihashi, Haruko', 'Terada, Takashi', 'Takazawa, Kijuro', 'Old Man A', 'Oe, Nobuko', 'Old Man C', 'Old Man B', 'Z Computer', 'Maneuver Commander', 'Takazawa, Haru']
+animeVoices	['Yokoyama, Chisa', 'Ogawa, Shinji', 'Matsumura, Hikojiro', 'Saikachi, Ryuuji', 'Satou, Chie', 'Aono, Takeshi', 'Saito, Sho', 'Ogata, Kenichi']
+animeStaff	[['Kitakubo, Hiroyuki', 'Director, Storyboard'], ['Otomo, Katsuhiro', 'Script, Mechanical Design'], ['Tanaka, Tatsuyuki', 'Storyboard, Layout'], ['Kon, Satoshi', 'Layout, Planning, Key Animation']]

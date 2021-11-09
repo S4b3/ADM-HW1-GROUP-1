@@ -1,5 +1,5 @@
-animeTitle	b'Rekka no Honoo'
-animeType	b'TV'
+animeTitle	Rekka no Honoo
+animeType	TV
 animeNumEpisode	42
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.35
 animeUsers	23765
 animeRank	
-animePopularity	
-animeDescription	b'Most people think that ninjas are a thing of the past, but Rekka Hanabishi wishes otherwise. Although he comes from a family that makes fireworks, he likes to think of himself as a self-styled, modern-day ninja. Sounds like fun, right? Maybe not. Rekka ends up in lots of fights because he once made the bold announcement that if someone can defeat him, he will become their servant.\n\nThen one day, Rekka meets Yanagi Sakoshita, a gentle girl with the ability to heal any wound or injury. Their meeting sets off a chain of events, which culminate into a shocking discovery. Rekka is the last surviving member of a legendary ninja clan that was wiped out centuries ago. Even more astonishing than being an actual ninja, he also wields the power to control fire. What does this mean for Rekka? Who are these strange people after him and Yanagi? Find out in Rekka no Honoo!'
-animeRelated	[b'Rekka no Honoo', b'Rekka no Honoo: Final Burning']
-animeCharacters	[b'Hanabishi, Rekka', b'Kirisawa, Fuuko', b'Kurei', b'Mikagami, Tokiya', b'Koganei, Kaoru', b'Sakoshita, Yanagi', b'Kagerou', b'Ishijima, Domon', b'Joker', b'Tsukishiro']
-animeVoices	[b'\nOkano, Kousuke\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nKumai, Motoko\nJapanese\n', b'\nMasuda, Yuki\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nMadono, Mitsuaki\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAbe, Noriyuki\n\nDirector, Episode Director, Storyboard\n\n', b'\nDate, Hayato\n\nEpisode Director\n\n', b'\nYoshida, Shunji\n\nEpisode Director, Storyboard\n\n', b'\nTakayanagi, Shigehito\n\nEpisode Director, Storyboard\n\n']
+animePopularity	2279
+animeDescription	"Most people think that ninjas are a thing of the past, but Rekka Hanabishi wishes otherwise. Although he comes from a family that makes fireworks, he likes to think of himself as a self-styled, modern-day ninja. Sounds like fun, right? Maybe not. Rekka ends up in lots of fights because he once made the bold announcement that if someone can defeat him, he will become their servant.
+
+Then one day, Rekka meets Yanagi Sakoshita, a gentle girl with the ability to heal any wound or injury. Their meeting sets off a chain of events, which culminate into a shocking discovery. Rekka is the last surviving member of a legendary ninja clan that was wiped out centuries ago. Even more astonishing than being an actual ninja, he also wields the power to control fire. What does this mean for Rekka? Who are these strange people after him and Yanagi? Find out in Rekka no Honoo!"
+animeRelated	['Rekka no Honoo', 'Rekka no Honoo: Final Burning']
+animeCharacters	['Hanabishi, Rekka', 'Kirisawa, Fuuko', 'Kurei', 'Mikagami, Tokiya', 'Koganei, Kaoru', 'Sakoshita, Yanagi', 'Kagerou', 'Ishijima, Domon', 'Joker', 'Tsukishiro']
+animeVoices	['Okano, Kousuke', 'Hiramatsu, Akiko', 'Okiayu, Ryoutarou', 'Midorikawa, Hikaru', 'Kumai, Motoko', 'Masuda, Yuki', 'Mitsuishi, Kotono', 'Tobita, Nobuo', 'Madono, Mitsuaki', 'Seki, Tomokazu']
+animeStaff	[['Abe, Noriyuki', 'Director, Episode Director, Storyboard'], ['Date, Hayato', 'Episode Director'], ['Yoshida, Shunji', 'Episode Director, Storyboard'], ['Takayanagi, Shigehito', 'Episode Director, Storyboard']]

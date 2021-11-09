@@ -1,5 +1,5 @@
-animeTitle	b'Uma Musume: Pretty Derby'
-animeType	b'ONA'
+animeTitle	Uma Musume: Pretty Derby
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.56
 animeUsers	2464
 animeRank	
-animePopularity	
-animeDescription	b'A promotional video by Cygames for their newest game project. The concept of the game seems to involve a mash-up of an idol-raising simulator with a horse-racing mechanic, except the idols and horses in question are moe, anthropomorphic horse girls.\n\n(Source: Crunchyroll)'
-animeRelated	[b'Uma Musume: Pretty Derby (TV)']
-animeCharacters	[b'Special Week', b'Silence Suzuka', b'Toukai Teiou', b'Symboli Rudolf', b'Fujikiseki']
+animePopularity	5874
+animeDescription	"A promotional video by Cygames for their newest game project. The concept of the game seems to involve a mash-up of an idol-raising simulator with a horse-racing mechanic, except the idols and horses in question are moe, anthropomorphic horse girls.
+
+(Source: Crunchyroll)"
+animeRelated	['Uma Musume: Pretty Derby (TV)']
+animeCharacters	['Special Week', 'Silence Suzuka', 'Toukai Teiou', 'Symboli Rudolf', 'Fujikiseki']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nCygames\n\nCreator\n\n']
+animeStaff	[['Cygames', 'Creator']]

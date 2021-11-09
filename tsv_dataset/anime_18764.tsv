@@ -1,5 +1,5 @@
-animeTitle	b'Ashita no Yukinojou'
-animeType	b'OVA'
+animeTitle	Ashita no Yukinojou
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.56
 animeUsers	663
 animeRank	
-animePopularity	
-animeDescription	b'Kasuga Serina is a cheerful girl and enjoys her school life. One day, she meets a handsome transfer student, Yukimura Yukinojo, who acts as if he were indifferent of others. Despite his behavior, she cannot help caring about him.\n\n(Source: animenfo.com)'
-animeRelated	[b'Masaru Ashita no Yukinojou 2']
-animeCharacters	[b'Yukinojou, Yukimura', b'Kasuga, Serina', b'Kubo, Shouko']
+animePopularity	8816
+animeDescription	"Kasuga Serina is a cheerful girl and enjoys her school life. One day, she meets a handsome transfer student, Yukimura Yukinojo, who acts as if he were indifferent of others. Despite his behavior, she cannot help caring about him.
+
+(Source: animenfo.com)"
+animeRelated	['Masaru Ashita no Yukinojou 2']
+animeCharacters	['Yukinojou, Yukimura', 'Kasuga, Serina', 'Kubo, Shouko']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKageyama, Shigenori\n\nDirector, Script, Storyboard, Screenplay\n\n', b'\nELF Corporation\n\nOriginal Creator\n\n', b'\nKatou, Hiroto\n\nAnimation Director\n\n', b'\nTahara, Yuuko\n\nBackground Art\n\n']
+animeStaff	[['Kageyama, Shigenori', 'Director, Script, Storyboard, Screenplay'], ['ELF Corporation', 'Original Creator'], ['Katou, Hiroto', 'Animation Director'], ['Tahara, Yuuko', 'Background Art']]

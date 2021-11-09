@@ -1,5 +1,5 @@
-animeTitle	b'MapleStory Special'
-animeType	b'Special'
+animeTitle	MapleStory Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.48
 animeUsers	117
 animeRank	
-animePopularity	
-animeDescription	b'Unaired episode of the MapleStory series included on the 9th DVD Volume.'
-animeRelated	[b'MapleStory']
-animeCharacters	[b'Nina', b'Al', b'Kino']
+animePopularity	13530
+animeDescription	Unaired episode of the MapleStory series included on the 9th DVD Volume.
+animeRelated	['MapleStory']
+animeCharacters	['Nina', 'Al', 'Kino']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiyama, Takaaki\n\nScript\n\n']
+animeStaff	[['Ishiyama, Takaaki', 'Script']]

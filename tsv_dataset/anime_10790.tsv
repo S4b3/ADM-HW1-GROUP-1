@@ -1,5 +1,5 @@
-animeTitle	b'Arabian Night: Sindbad no Bouken'
-animeType	b'Movie'
+animeTitle	Arabian Night: Sindbad no Bouken
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	5.35
 animeUsers	505
 animeRank	
-animePopularity	
-animeDescription	"b'This is a work by Toei Animation Co., Ltd. with screenplay by Tezuka Osamu in cooperation with novelist Kita Morio. Sinbad and a boy, Ali, are stowaways on the transport ship ""Boulder,"" but they win their proper places on the ship after currying the favor of the captain. \nThen the beautiful princess Samir jumps on board to escape a wicked minister who wants to marry her, and Sinbad goes through a series of adventures to protect the princess. \n\nThe story unfolds with ups and downs, full of dramatic episodes from the original story such as a rough-and-tumble battle with a strange bird that is guarding diamonds.'"
-animeRelated	[b'Arabian Nights: Sindbad no Bouken (TV)']
-animeCharacters	[b'Sinbad', b'Great King Torfa', b'Captain Hamdi', b'Abdullah']
-animeVoices	[b'\nKinoshita, Hideo\nJapanese\n', b'\nKawakubo, Kiyoshi\nJapanese\n', b'\nTakiguchi, Junpei\nJapanese\n', b'\nDazai, Hisao\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuroda, Yoshio\n\nEpisode Director\n\n', b'\nHorie, Mitsuko\n\nTheme Song Performance\n\n', b'\nTomita, Isao\n\nMusic\n\n', b'\nYamamoto, Zenjirou\n\nIn-Between Animation\n\n']
+animePopularity	10308
+animeDescription	"This is a work by Toei Animation Co., Ltd. with screenplay by Tezuka Osamu in cooperation with novelist Kita Morio. Sinbad and a boy, Ali, are stowaways on the transport ship ""Boulder,"" but they win their proper places on the ship after currying the favor of the captain. 
+Then the beautiful princess Samir jumps on board to escape a wicked minister who wants to marry her, and Sinbad goes through a series of adventures to protect the princess. 
+
+The story unfolds with ups and downs, full of dramatic episodes from the original story such as a rough-and-tumble battle with a strange bird that is guarding diamonds."
+animeRelated	['Arabian Nights: Sindbad no Bouken (TV)']
+animeCharacters	['Sinbad', 'Great King Torfa', 'Captain Hamdi', 'Abdullah']
+animeVoices	['Kinoshita, Hideo', 'Kawakubo, Kiyoshi', 'Takiguchi, Junpei', 'Dazai, Hisao']
+animeStaff	[['Kuroda, Yoshio', 'Episode Director'], ['Horie, Mitsuko', 'Theme Song Performance'], ['Tomita, Isao', 'Music'], ['Yamamoto, Zenjirou', 'In-Between Animation']]

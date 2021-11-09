@@ -1,5 +1,5 @@
-animeTitle	b'Watashitachi, Luck Logic-bu!'
-animeType	b'TV'
+animeTitle	Watashitachi, Luck Logic-bu!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.44
 animeUsers	882
 animeRank	
-animePopularity	
-animeDescription	b'The comedy shorts follow four girls who are members of the Luck Logic Club, whose activity is playing the Luck & Logic card game. Watashitachi, Luck Logic-bu! will air approximately one minute before each episode of the main series.\n\n(Source: MAL News)'
-animeRelated	[b'Luck & Logic', b'Watashitachi, Luck Logic-bu! 2']
-animeCharacters	[b'Aonosaki, Unne', b'Fukai, Ronri', b'Sukinanoka, Ado']
-animeVoices	[b'\nNishimoto, Rimi\nJapanese\n', b'\nMatsui, Eriko\nJapanese\n', b'\nOzaki, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNaoya, Takashi\n\nDirector\n\n', b'\nGouda, Hozumi\n\nSound Director\n\n', b'\nShirahata, Yoshiyuki\n\nEpisode Director\n\n', b'\nTakahashi, Yuuya\n\nScript, Series Composition, Original Creator\n\n']
+animePopularity	7429
+animeDescription	"The comedy shorts follow four girls who are members of the Luck Logic Club, whose activity is playing the Luck & Logic card game. Watashitachi, Luck Logic-bu! will air approximately one minute before each episode of the main series.
+
+(Source: MAL News)"
+animeRelated	['Luck & Logic', 'Watashitachi, Luck Logic-bu! 2']
+animeCharacters	['Aonosaki, Unne', 'Fukai, Ronri', 'Sukinanoka, Ado']
+animeVoices	['Nishimoto, Rimi', 'Matsui, Eriko', 'Ozaki, Yuka']
+animeStaff	[['Naoya, Takashi', 'Director'], ['Gouda, Hozumi', 'Sound Director'], ['Shirahata, Yoshiyuki', 'Episode Director'], ['Takahashi, Yuuya', 'Script, Series Composition, Original Creator']]

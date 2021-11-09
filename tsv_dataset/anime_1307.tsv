@@ -1,5 +1,5 @@
-animeTitle	b'Konnichiwa Anne: Before Green Gables'
-animeType	b'TV'
+animeTitle	Konnichiwa Anne: Before Green Gables
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.6
 animeUsers	1504
 animeRank	
-animePopularity	
-animeDescription	b'The story of what happened to Anne Shirley before she was adopted.'
-animeRelated	[b'Akage no Anne']
-animeCharacters	[b'Shirley, Anne', b'Thomas, Bert', b'Lochinvar', b'Thomas, Eliza', b'Thomas, Joanna Harrigan', b'Thomas, Noah', b'McGavin, Randolph', b'Hammond, Kendrick', b'Hammond, Charlotte', b'Hammond, Ella']
-animeVoices	[b'\nHidaka, Rina\nJapanese\n', b'\nSatou, Setsuji\nJapanese\n', b'\nWakusawa, Rika\nJapanese\n', b'\nTamura, Seiko\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nNagasako, Takashi\nJapanese\n', b'\nAmano, Yuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatabe, Katsuyoshi\n\nDirector\n\n', b'\nHayase, Hiroyuki\n\nSound Director\n\n', b'\nKidokoro, Seimei\n\nEpisode Director, Storyboard\n\n', b'\nShimada, Michiru\n\nScript, Series Composition\n\n']
+animePopularity	6461
+animeDescription	The story of what happened to Anne Shirley before she was adopted.
+animeRelated	['Akage no Anne']
+animeCharacters	['Shirley, Anne', 'Thomas, Bert', 'Lochinvar', 'Thomas, Eliza', 'Thomas, Joanna Harrigan', 'Thomas, Noah', 'McGavin, Randolph', 'Hammond, Kendrick', 'Hammond, Charlotte', 'Hammond, Ella']
+animeVoices	['Hidaka, Rina', 'Satou, Setsuji', 'Wakusawa, Rika', 'Tamura, Seiko', 'Koorogi, Satomi', 'Nagasako, Takashi', 'Amano, Yuri']
+animeStaff	[['Yatabe, Katsuyoshi', 'Director'], ['Hayase, Hiroyuki', 'Sound Director'], ['Kidokoro, Seimei', 'Episode Director, Storyboard'], ['Shimada, Michiru', 'Script, Series Composition']]

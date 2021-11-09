@@ -1,5 +1,5 @@
-animeTitle	b'Hyouge Mono'
-animeType	b'TV'
+animeTitle	Hyouge Mono
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.99
 animeUsers	3013
 animeRank	
-animePopularity	
-animeDescription	"b""The story is set during Japan's Sengoku Jidai (Era of the Warring States) and centers on Furuta Sasuke, a vassal of the great warlord Oda Nobunaga and a man obsessed with tea ceremony and material desires in his pursuit of a fortuitous life. Having learned from Oda and the legendary tea master Sen no Soueki, Furuta walks the way of the Hyouge Mono.\n\n(Source: ANN)"""
-animeRelated	[b'Hyouge Mono']
-animeCharacters	[b'Furuta, Sasuke', b'Senno, Soueki', b'Oda, Nobunaga', b'Tokugawa, Ieyasu', b'Hashiba, Hideyoshi', b'Date, Masamune', b'Hechikan', b'Akechi, Mitsuhide', b'Hachisuka, Masakatsu', b'Yasuke']
-animeVoices	[b'\nOhkura, Kouji\nJapanese\n', b'\nTanaka, Nobuo\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nTsurumi, Shingo\nJapanese\n', b'\nEbara, Masashi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nIshida, Tarou\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nTajiri, Hiroaki\nJapanese\n', b'\nKuroda, Takaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMashimo, Kouichi\n\nDirector, Episode Director, Storyboard\n\n', b'\nNakano, Tooru\n\nSound Director\n\n', b'\nKawatsura, Shinya\n\nEpisode Director, Storyboard\n\n', b'\nKurokawa, Tomoyuki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3688
+animeDescription	"The story is set during Japan's Sengoku Jidai (Era of the Warring States) and centers on Furuta Sasuke, a vassal of the great warlord Oda Nobunaga and a man obsessed with tea ceremony and material desires in his pursuit of a fortuitous life. Having learned from Oda and the legendary tea master Sen no Soueki, Furuta walks the way of the Hyouge Mono.
+
+(Source: ANN)"
+animeRelated	['Hyouge Mono']
+animeCharacters	['Furuta, Sasuke', 'Senno, Soueki', 'Oda, Nobunaga', 'Tokugawa, Ieyasu', 'Hashiba, Hideyoshi', 'Date, Masamune', 'Hechikan', 'Akechi, Mitsuhide', 'Hachisuka, Masakatsu', 'Yasuke']
+animeVoices	['Ohkura, Kouji', 'Tanaka, Nobuo', 'Koyama, Rikiya', 'Tsurumi, Shingo', 'Ebara, Masashi', 'Nakai, Kazuya', 'Ishida, Tarou', 'Tanaka, Hideyuki', 'Tajiri, Hiroaki', 'Kuroda, Takaya']
+animeStaff	[['Mashimo, Kouichi', 'Director, Episode Director, Storyboard'], ['Nakano, Tooru', 'Sound Director'], ['Kawatsura, Shinya', 'Episode Director, Storyboard'], ['Kurokawa, Tomoyuki', 'Episode Director, Storyboard']]

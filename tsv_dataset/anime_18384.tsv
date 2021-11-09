@@ -1,5 +1,5 @@
-animeTitle	b'Soap no Moko-chan'
-animeType	b'OVA'
+animeTitle	Soap no Moko-chan
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.17
 animeUsers	560
 animeRank	
-animePopularity	
-animeDescription	"b""Moko is a masseuse who gives her male clients a special massage, guaranteed to help them release stress. Of all the women in her profession, Miko is one of the most popular. Her secret is simple, it's just that she enjoys pleasing men so much, that she loves the massages just as much as her clients do.\n\n(Source: AniDB)"""
+animePopularity	10055
+animeDescription	"Moko is a masseuse who gives her male clients a special massage, guaranteed to help them release stress. Of all the women in her profession, Miko is one of the most popular. Her secret is simple, it's just that she enjoys pleasing men so much, that she loves the massages just as much as her clients do.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Motoko']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshida, Shunji\n\nDirector\n\n']
+animeCharacters	['Motoko']
+animeVoices	['Ootani, Ikue']
+animeStaff	[['Yoshida, Shunji', 'Director']]

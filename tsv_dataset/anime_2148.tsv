@@ -1,5 +1,5 @@
-animeTitle	b'Slayers Special'
-animeType	b'OVA'
+animeTitle	Slayers Special
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.36
 animeUsers	8978
 animeRank	
-animePopularity	
-animeDescription	"b'In these three self-contained half-hour stories, Lina Inverse and her partner, Naga The Serpent, take on a variety of jobs for quick cash, food, and/or their own skins. The first episode, ""The Scary Chimera Plan,"" pits them against a lunatic magician who intends to use Lina to create a fearsome, spell-slinging monster. Then, in ""Jeffry\'s Knighthood,"" they\'re hired by an overprotective mother to see that her son - a young man barely capable of holding a sword - becomes a respected knight, by ""helping"" him fight off the marauding soldiers terrorizing the area. Finally, ""Mirror, Mirror"" puts the two in a race to hunt down and capture (for bounty, of course) a rogue sorceror who\'s found an ancient artifact that can create loyal duplicates of anything or anyone, including his enemies. \n\n(Source: ANN)'"
-animeRelated	[b'Slayers Special', b'Slayers', b'Slayers: The Motion Picture', b'Slayers Excellent']
-animeCharacters	[b'Inverse, Lina', b'Saillune, Gracia Ul Naga', b'Josephine', b'Lagan', b'Goldias', b'Galda', b'Vista', b'Mailstar, Jeffrey', b'Diol']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nKawamura, Maria\nJapanese\n', b'\nYoshida, Rihoko\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nShibata, Hidekatsu\nJapanese\n', b'\nOotomo, Ryuuzaburou\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nAono, Takeshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Hiroshi\n\nDirector\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nYamazaki, Kazuo\n\nScript, Storyboard\n\n', b'\nHayashibara, Megumi\n\nTheme Song Performance, Inserted Song Performance\n\n']
+animePopularity	4218
+animeDescription	"In these three self-contained half-hour stories, Lina Inverse and her partner, Naga The Serpent, take on a variety of jobs for quick cash, food, and/or their own skins. The first episode, ""The Scary Chimera Plan,"" pits them against a lunatic magician who intends to use Lina to create a fearsome, spell-slinging monster. Then, in ""Jeffry's Knighthood,"" they're hired by an overprotective mother to see that her son - a young man barely capable of holding a sword - becomes a respected knight, by ""helping"" him fight off the marauding soldiers terrorizing the area. Finally, ""Mirror, Mirror"" puts the two in a race to hunt down and capture (for bounty, of course) a rogue sorceror who's found an ancient artifact that can create loyal duplicates of anything or anyone, including his enemies. 
+
+(Source: ANN)"
+animeRelated	['Slayers Special', 'Slayers', 'Slayers: The Motion Picture', 'Slayers Excellent']
+animeCharacters	['Inverse, Lina', 'Saillune, Gracia Ul Naga', 'Josephine', 'Lagan', 'Goldias', 'Galda', 'Vista', 'Mailstar, Jeffrey', 'Diol']
+animeVoices	['Hayashibara, Megumi', 'Kawamura, Maria', 'Yoshida, Rihoko', 'Ginga, Banjou', 'Shibata, Hidekatsu', 'Ootomo, Ryuuzaburou', 'Shiozawa, Kaneto', 'Ishida, Akira', 'Aono, Takeshi']
+animeStaff	[['Watanabe, Hiroshi', 'Director'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Yamazaki, Kazuo', 'Script, Storyboard'], ['Hayashibara, Megumi', 'Theme Song Performance, Inserted Song Performance']]

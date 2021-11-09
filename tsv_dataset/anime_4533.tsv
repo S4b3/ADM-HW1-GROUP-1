@@ -1,5 +1,5 @@
-animeTitle	b'Micchiri Neko'
-animeType	b'TV'
+animeTitle	Micchiri Neko
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.82
 animeUsers	2623
 animeRank	
-animePopularity	
-animeDescription	"b'The cute and mysterious cat-like creatures called Mitchiri Neko that seem to gather around each other if you leave them alone now get their own anime with a glorious voice cast! The free and happy-go- lucky Mitchiri Neko\xe2\x80\x99s daily life is filled fluff and surreal laughs! Say it with me, ""Mitchiri! Mitchiri!""\n\n(Source: Crunchyroll)'"
-animeRelated	[b'Micchiri Neko', b'Micchiri Neko March', b'Micchiri Wanko! Animation']
-animeCharacters	[b'Piyopiyo', b'Mitchi', b'Ribon', b'Honey', b'Colorful']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Kyou\n\nDirector\n\n', b'\nYamazaki, Shiori\n\nSound Director\n\n', b'\nKobayashi, Tetsuya\n\nMusic\n\n']
+animePopularity	5978
+animeDescription	"The cute and mysterious cat-like creatures called Mitchiri Neko that seem to gather around each other if you leave them alone now get their own anime with a glorious voice cast! The free and happy-go- lucky Mitchiri Neko’s daily life is filled fluff and surreal laughs! Say it with me, ""Mitchiri! Mitchiri!""
+
+(Source: Crunchyroll)"
+animeRelated	['Micchiri Neko', 'Micchiri Neko March', 'Micchiri Wanko! Animation']
+animeCharacters	['Piyopiyo', 'Mitchi', 'Ribon', 'Honey', 'Colorful']
+animeVoices	['Kamiya, Hiroshi', 'Fukuyama, Jun', 'Hayami, Saori', 'Sakurai, Takahiro', 'Nakamura, Yuuichi']
+animeStaff	[['Yatate, Kyou', 'Director'], ['Yamazaki, Shiori', 'Sound Director'], ['Kobayashi, Tetsuya', 'Music']]

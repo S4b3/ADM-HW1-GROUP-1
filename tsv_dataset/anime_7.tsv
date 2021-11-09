@@ -1,5 +1,5 @@
-animeTitle	b'Hunter x Hunter (2011)'
-animeType	b'TV'
+animeTitle	Hunter x Hunter (2011)
+animeType	TV
 animeNumEpisode	148
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	9.06
 animeUsers	1252938
 animeRank	
-animePopularity	
-animeDescription	b'Hunter x Hunter is set in a world where Hunters exist to perform all manner of dangerous tasks like capturing criminals and bravely searching for lost treasures in uncharted territories. Twelve-year-old Gon Freecss is determined to become the best Hunter possible in hopes of finding his father, who was a Hunter himself and had long ago abandoned his young son. However, Gon soon realizes the path to achieving his goals is far more challenging than he could have ever imagined.\n\nAlong the way to becoming an official Hunter, Gon befriends the lively doctor-in-training Leorio, vengeful Kurapika, and rebellious ex-assassin Killua. To attain their own goals and desires, together the four of them take the Hunter Exam, notorious for its low success rate and high probability of death. Throughout their journey, Gon and his friends embark on an adventure that puts them through many hardships and struggles. They will meet a plethora of monsters, creatures, and characters\xe2\x80\x94all while learning what being a Hunter truly means.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Hunter x Hunter', b'Hunter x Hunter: Original Video Animation', b'Hunter x Hunter: Greed Island', b'Hunter x Hunter: Greed Island Final', b'Hunter x Hunter Movie 1: Phantom Rouge', b'Hunter x Hunter Movie 2: The Last Mission']
-animeCharacters	[b'Zoldyck, Killua', b'Kurapika', b'Freecss, Gon', b'Paladiknight, Leorio', b'Morow, Hisoka', b'Meruem', b'Lucilfer, Chrollo', b'Netero, Isaac', b'Neferpitou', b'Portor, Feitan']
-animeVoices	[b'\nIse, Mariya\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nHan, Megumi\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaruyama, Masao\n\nProducer\n\n', b'\nNakatani, Toshio\n\nProducer\n\n', b'\nKoujina, Hiroshi\n\nDirector\n\n', b'\nYamada, Chiaki\n\nSound Director\n\n']
+animePopularity	10
+animeDescription	"Hunter x Hunter is set in a world where Hunters exist to perform all manner of dangerous tasks like capturing criminals and bravely searching for lost treasures in uncharted territories. Twelve-year-old Gon Freecss is determined to become the best Hunter possible in hopes of finding his father, who was a Hunter himself and had long ago abandoned his young son. However, Gon soon realizes the path to achieving his goals is far more challenging than he could have ever imagined.
+
+Along the way to becoming an official Hunter, Gon befriends the lively doctor-in-training Leorio, vengeful Kurapika, and rebellious ex-assassin Killua. To attain their own goals and desires, together the four of them take the Hunter Exam, notorious for its low success rate and high probability of death. Throughout their journey, Gon and his friends embark on an adventure that puts them through many hardships and struggles. They will meet a plethora of monsters, creatures, and characters—all while learning what being a Hunter truly means.
+
+[Written by MAL Rewrite]"
+animeRelated	['Hunter x Hunter', 'Hunter x Hunter: Original Video Animation', 'Hunter x Hunter: Greed Island', 'Hunter x Hunter: Greed Island Final', 'Hunter x Hunter Movie 1: Phantom Rouge', 'Hunter x Hunter Movie 2: The Last Mission']
+animeCharacters	['Zoldyck, Killua', 'Kurapika', 'Freecss, Gon', 'Paladiknight, Leorio', 'Morow, Hisoka', 'Meruem', 'Lucilfer, Chrollo', 'Netero, Isaac', 'Neferpitou', 'Portor, Feitan']
+animeVoices	['Ise, Mariya', 'Sawashiro, Miyuki', 'Han, Megumi', 'Fujiwara, Keiji', 'Namikawa, Daisuke', 'Uchiyama, Kouki', 'Miyano, Mamoru', 'Ginga, Banjou', 'Fujimura, Ayumi', 'Yamaguchi, Kappei']
+animeStaff	[['Maruyama, Masao', 'Producer'], ['Nakatani, Toshio', 'Producer'], ['Koujina, Hiroshi', 'Director'], ['Yamada, Chiaki', 'Sound Director']]

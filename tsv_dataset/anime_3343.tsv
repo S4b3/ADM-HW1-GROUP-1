@@ -1,5 +1,5 @@
-animeTitle	b'Highschool of the Dead'
-animeType	b'TV'
+animeTitle	Highschool of the Dead
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.1
 animeUsers	794437
 animeRank	
-animePopularity	
-animeDescription	b'It happened suddenly: The dead began to rise and Japan was thrown into total chaos. As these monsters begin terrorizing a high school, Takashi Kimuro is forced to kill his best friend when he gets bitten and joins the ranks of the walking dead. Vowing to protect Rei Miyamoto, the girlfriend of the man he just executed, they narrowly escape their death trap of a school, only to be greeted with a society that has already fallen.\n\nSoon, Takashi and Rei band together with other students on a journey to find their family members and uncover what caused this overwhelming pandemic. Joining them is Saeko Busujima, the beautiful president of the Kendo Club; Kouta Hirano, an otaku with a fetish for firearms; Saya Takagi, the daughter of an influential politician; and Shizuka Marikawa, their hot school nurse. But will the combined strength of these individuals be enough to conquer this undead apocalypse?\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Highschool of the Dead', b'Highschool of the Dead: Drifters of the Dead']
-animeCharacters	[b'Busujima, Saeko', b'Miyamoto, Rei', b'Komuro, Takashi', b'Hirano, Kouta', b'Takagi, Saya', b'Marikawa, Shizuka', b'Maresato, Alice', b'Minami, Rika', b'Zeke', b'Shidou, Koichi']
-animeVoices	[b'\nSawashiro, Miyuki\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nFukui, Yukari\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nTakeuchi, Junko\nJapanese\n', b'\nHarada, Hitomi\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAraki, Tetsurou\n\nDirector, Episode Director, Storyboard, Key Animation\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nMasuhara, Mitsuyuki\n\nEpisode Director\n\n', b'\nHanyuu, Naoyasu\n\nEpisode Director\n\n']
+animePopularity	65
+animeDescription	"It happened suddenly: The dead began to rise and Japan was thrown into total chaos. As these monsters begin terrorizing a high school, Takashi Kimuro is forced to kill his best friend when he gets bitten and joins the ranks of the walking dead. Vowing to protect Rei Miyamoto, the girlfriend of the man he just executed, they narrowly escape their death trap of a school, only to be greeted with a society that has already fallen.
+
+Soon, Takashi and Rei band together with other students on a journey to find their family members and uncover what caused this overwhelming pandemic. Joining them is Saeko Busujima, the beautiful president of the Kendo Club; Kouta Hirano, an otaku with a fetish for firearms; Saya Takagi, the daughter of an influential politician; and Shizuka Marikawa, their hot school nurse. But will the combined strength of these individuals be enough to conquer this undead apocalypse?
+
+[Written by MAL Rewrite]"
+animeRelated	['Highschool of the Dead', 'Highschool of the Dead: Drifters of the Dead']
+animeCharacters	['Busujima, Saeko', 'Miyamoto, Rei', 'Komuro, Takashi', 'Hirano, Kouta', 'Takagi, Saya', 'Marikawa, Shizuka', 'Maresato, Alice', 'Minami, Rika', 'Zeke', 'Shidou, Koichi']
+animeVoices	['Sawashiro, Miyuki', 'Inoue, Marina', 'Suwabe, Junichi', 'Hiyama, Nobuyuki', 'Kitamura, Eri', 'Fukui, Yukari', 'Taketatsu, Ayana', 'Takeuchi, Junko', 'Harada, Hitomi', 'Taniyama, Kishou']
+animeStaff	[['Araki, Tetsurou', 'Director, Episode Director, Storyboard, Key Animation'], ['Tanaka, Kazuya', 'Sound Director'], ['Masuhara, Mitsuyuki', 'Episode Director'], ['Hanyuu, Naoyasu', 'Episode Director']]

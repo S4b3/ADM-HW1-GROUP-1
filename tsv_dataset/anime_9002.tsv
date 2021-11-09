@@ -1,4 +1,4 @@
-animeTitle	b'Chime'
+animeTitle	Chime
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.91
 animeUsers	2690
 animeRank	
-animePopularity	
-animeDescription	b'The 2nd music video from the same creators that did Downloader. The music video premiered on Nico Nico Douga on June 1st, 2011 the CD with the DVD bundled on June 24, 2011.\n\n(Source: AniDB)'
-animeRelated	[b'Downloader']
-animeCharacters	[b'Hatsune, Miku']
-animeVoices	[b'\nHatsune, Miku\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHatsune, Miku\n\nTheme Song Performance\n\n', b'\nKoike, Yuuki\n\nEditing\n\n']
+animePopularity	7339
+animeDescription	"The 2nd music video from the same creators that did Downloader. The music video premiered on Nico Nico Douga on June 1st, 2011 the CD with the DVD bundled on June 24, 2011.
+
+(Source: AniDB)"
+animeRelated	['Downloader']
+animeCharacters	['Hatsune, Miku']
+animeVoices	['Hatsune, Miku']
+animeStaff	[['Hatsune, Miku', 'Theme Song Performance'], ['Koike, Yuuki', 'Editing']]

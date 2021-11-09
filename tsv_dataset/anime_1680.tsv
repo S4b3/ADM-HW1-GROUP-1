@@ -1,5 +1,5 @@
-animeTitle	b'Digimon Adventure tri. 2: Ketsui'
-animeType	b'Movie'
+animeTitle	Digimon Adventure tri. 2: Ketsui
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.48
 animeUsers	40814
 animeRank	
-animePopularity	
-animeDescription	"b""Infected Digimon\xe2\x80\x94digital monsters who have begun acting in a berserk manner and experiencing a bizarre increase in power\xe2\x80\x94are invading the real world. While Maki Himekawa and Daigo Nishijima, agents of the mysterious Incorporated Administrative Agency, attempt to learn more about these disruptive appearances, most of the Chosen Children are busy preparing for Tsukishima General High School's summer festival.\n\nMimi Tachikawa, having recently returned to Japan after living in the United States for years, struggles to find her footing among her classmates and fellow Chosen Children. Meanwhile, by throwing himself into his studies, Jou Kido has been deliberately avoiding all issues related to Digimon, causing his partner Gomamon to run away. Mimi and Jou's individual actions cause friction within the group even as the threat of infected Digimon still looms over them. Will the two resolve their personal conflicts in time to help their friends fight off the latest threat?\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Digimon Adventure tri. 1: Saikai', b'Digimon Adventure tri. 3: Kokuhaku']
-animeCharacters	[b'Yagami, Taichi', b'Ishida, Yamato', b'Yagami, Hikari', b'Takaishi, Takeru', b'Agumon', b'Tachikawa, Mimi', b'Izumi, Koushirou', b'Tailmon', b'Takenouchi, Sora', b'Patamon']
-animeVoices	[b'\nHanae, Natsuki\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nEnoki, Junya\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n', b'\nYoshida, Hitomi\nJapanese\n', b'\nTamura, Mutsumi\nJapanese\n', b'\nTokumitsu, Yuka\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nMatsumoto, Miwa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nArai, Shuuhei\n\nProducer\n\n', b'\nMotonaga, Keitarou\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nIwahata, Gouichi\n\nStoryboard\n\n']
+animePopularity	1988
+animeDescription	"Infected Digimon—digital monsters who have begun acting in a berserk manner and experiencing a bizarre increase in power—are invading the real world. While Maki Himekawa and Daigo Nishijima, agents of the mysterious Incorporated Administrative Agency, attempt to learn more about these disruptive appearances, most of the Chosen Children are busy preparing for Tsukishima General High School's summer festival.
+
+Mimi Tachikawa, having recently returned to Japan after living in the United States for years, struggles to find her footing among her classmates and fellow Chosen Children. Meanwhile, by throwing himself into his studies, Jou Kido has been deliberately avoiding all issues related to Digimon, causing his partner Gomamon to run away. Mimi and Jou's individual actions cause friction within the group even as the threat of infected Digimon still looms over them. Will the two resolve their personal conflicts in time to help their friends fight off the latest threat?
+
+[Written by MAL Rewrite]"
+animeRelated	['Digimon Adventure tri. 1: Saikai', 'Digimon Adventure tri. 3: Kokuhaku']
+animeCharacters	['Yagami, Taichi', 'Ishida, Yamato', 'Yagami, Hikari', 'Takaishi, Takeru', 'Agumon', 'Tachikawa, Mimi', 'Izumi, Koushirou', 'Tailmon', 'Takenouchi, Sora', 'Patamon']
+animeVoices	['Hanae, Natsuki', 'Hosoya, Yoshimasa', 'Ichimichi, Mao', 'Enoki, Junya', 'Sakamoto, Chika', 'Yoshida, Hitomi', 'Tamura, Mutsumi', 'Tokumitsu, Yuka', 'Mimori, Suzuko', 'Matsumoto, Miwa']
+animeStaff	[['Arai, Shuuhei', 'Producer'], ['Motonaga, Keitarou', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Iwahata, Gouichi', 'Storyboard']]

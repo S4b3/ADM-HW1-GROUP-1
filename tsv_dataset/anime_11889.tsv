@@ -1,5 +1,5 @@
-animeTitle	"b'""Tokyo""'"
-animeType	b'Movie'
+animeTitle	"""Tokyo"""
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,8 +7,8 @@ animeNumMembers
 animeScore	4.34
 animeUsers	291
 animeRank	
-animePopularity	
-animeDescription	b'A short film spelling Tokyo in hiragana.'
+animePopularity	12800
+animeDescription	A short film spelling Tokyo in hiragana.
 animeRelated	[]
 animeCharacters	[]
 animeVoices	[]

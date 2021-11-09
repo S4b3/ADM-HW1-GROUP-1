@@ -1,5 +1,5 @@
-animeTitle	b'Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu'
-animeType	b'Movie'
+animeTitle	Slam Dunk: Hoero Basketman-damashii! Hanamichi to Rukawa no Atsuki Natsu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.66
 animeUsers	6854
 animeRank	
-animePopularity	
-animeDescription	"b""Ichiro Mizusawa, a player from Rukawa's old junior high school, Tomigoaka, is diagnosed with a crippling leg condition and wants to play one last game with Rukawa. Hanamichi sets out to help the boy and fulfill his wish. \n\n(Source: ANN)"""
-animeRelated	[b'Slam Dunk']
-animeCharacters	[b'Sakuragi, Hanamichi', b'Mitsui, Hisashi', b'Rukawa, Kaede', b'Miyagi, Ryouta', b'Akagi, Takenori', b'Mizusawa, Ichiro', b'Mito, Youhei', b'Akagi, Haruko', b'Anzai, Mitsuyoshi', b'Kogure, Kiminobu']
-animeVoices	[b'\nKusao, Takeshi\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nShioya, Yoku\nJapanese\n', b'\nYanada, Kiyoyuki\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nNishimura, Tomomichi\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMANISH\n\nTheme Song Lyrics, Theme Song Performance\n\n', b'\nInoue, Takehiko\n\nOriginal Creator\n\n', b'\nHosoda, Mamoru\n\nKey Animation\n\n', b'\nKagami, Takahiro\n\nAssistant Animation Director\n\n']
+animePopularity	4619
+animeDescription	"Ichiro Mizusawa, a player from Rukawa's old junior high school, Tomigoaka, is diagnosed with a crippling leg condition and wants to play one last game with Rukawa. Hanamichi sets out to help the boy and fulfill his wish. 
+
+(Source: ANN)"
+animeRelated	['Slam Dunk']
+animeCharacters	['Sakuragi, Hanamichi', 'Mitsui, Hisashi', 'Rukawa, Kaede', 'Miyagi, Ryouta', 'Akagi, Takenori', 'Mizusawa, Ichiro', 'Mito, Youhei', 'Akagi, Haruko', 'Anzai, Mitsuyoshi', 'Kogure, Kiminobu']
+animeVoices	['Kusao, Takeshi', 'Okiayu, Ryoutarou', 'Midorikawa, Hikaru', 'Shioya, Yoku', 'Yanada, Kiyoyuki', 'Ishida, Akira', 'Morikawa, Toshiyuki', 'Hiramatsu, Akiko', 'Nishimura, Tomomichi', 'Tanaka, Hideyuki']
+animeStaff	[['MANISH', 'Theme Song Lyrics, Theme Song Performance'], ['Inoue, Takehiko', 'Original Creator'], ['Hosoda, Mamoru', 'Key Animation'], ['Kagami, Takahiro', 'Assistant Animation Director']]

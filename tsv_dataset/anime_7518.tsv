@@ -1,5 +1,5 @@
-animeTitle	b'Oishinbo: Kyuukyoku tai Shikou, Chouju Ryouri Taiketsu!!'
-animeType	b'Movie'
+animeTitle	Oishinbo: Kyuukyoku tai Shikou, Chouju Ryouri Taiketsu!!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.23
 animeUsers	164
 animeRank	
-animePopularity	
-animeDescription	"b""Ultimate Menu and Supreme Menu square off in a cooking battle about dishes that promote longevity. For Supreme's Kaibara Yuzan and Ultimate's Yamaoka Shirou (who are father and son), this confrontation is more than strictly business: it's personal.\n\n(Source: BakaBT)"""
-animeRelated	[b'Oishinbo', b'Oishinbo: Nichibei Kome Sensou']
-animeCharacters	[b'Yamaoka, Shirou', b'Kurita, Yuuko']
-animeVoices	[b'\nInoue, Kazuhiko\nJapanese\n', b'\nShou, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakeuchi, Yoshio\n\nDirector\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nNakamura, Yuma\n\nTheme Song Performance\n\n', b'\nFunayama, Motoki\n\nTheme Song Arrangement\n\n']
+animePopularity	12601
+animeDescription	"Ultimate Menu and Supreme Menu square off in a cooking battle about dishes that promote longevity. For Supreme's Kaibara Yuzan and Ultimate's Yamaoka Shirou (who are father and son), this confrontation is more than strictly business: it's personal.
+
+(Source: BakaBT)"
+animeRelated	['Oishinbo', 'Oishinbo: Nichibei Kome Sensou']
+animeCharacters	['Yamaoka, Shirou', 'Kurita, Yuuko']
+animeVoices	['Inoue, Kazuhiko', 'Shou, Mayumi']
+animeStaff	[['Takeuchi, Yoshio', 'Director'], ['Urakami, Yasuo', 'Sound Director'], ['Nakamura, Yuma', 'Theme Song Performance'], ['Funayama, Motoki', 'Theme Song Arrangement']]

@@ -1,5 +1,5 @@
-animeTitle	b'White Album 2nd Season'
-animeType	b'TV'
+animeTitle	White Album 2nd Season
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.81
 animeUsers	17897
 animeRank	
-animePopularity	
-animeDescription	b'The second season of White Album, also known as episodes 14-26.'
-animeRelated	[b'White Album']
-animeCharacters	[b'Ogata, Rina', b'Morikawa, Yuki', b'Fujii, Touya', b'Shinozuka, Yayoi', b'Kawashima, Haruka', b'Mizuki, Mana', b'Matsuyama, Menou', b'Ogata, Eiji', b'Nanase, Akira', b'Sawakura, Misaki']
-animeVoices	[b'\nMizuki, Nana\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nMasu, Nozomi\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nShishido, Rumi\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nTakamoto, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShioya, Yoku\n\nSound Director, Recording\n\n', b'\nMizuki, Nana\n\nTheme Song Performance\n\n', b'\nSuara\n\nTheme Song Performance\n\n', b'\nYoshinari, You\n\nAnimation Director\n\n']
+animePopularity	2658
+animeDescription	The second season of White Album, also known as episodes 14-26.
+animeRelated	['White Album']
+animeCharacters	['Ogata, Rina', 'Morikawa, Yuki', 'Fujii, Touya', 'Shinozuka, Yayoi', 'Kawashima, Haruka', 'Mizuki, Mana', 'Matsuyama, Menou', 'Ogata, Eiji', 'Nanase, Akira', 'Sawakura, Misaki']
+animeVoices	['Mizuki, Nana', 'Hirano, Aya', 'Maeno, Tomoaki', 'Park, Romi', 'Masu, Nozomi', 'Tomatsu, Haruka', 'Shishido, Rumi', 'Hayami, Show', 'Sakaguchi, Daisuke', 'Takamoto, Megumi']
+animeStaff	[['Shioya, Yoku', 'Sound Director, Recording'], ['Mizuki, Nana', 'Theme Song Performance'], ['Suara', 'Theme Song Performance'], ['Yoshinari, You', 'Animation Director']]

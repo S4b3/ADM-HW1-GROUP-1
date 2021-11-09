@@ -1,5 +1,5 @@
-animeTitle	b'Zombie-Loan Specials'
-animeType	b'Special'
+animeTitle	Zombie-Loan Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.03
 animeUsers	14444
 animeRank	
-animePopularity	
-animeDescription	b'The series was originally planned to be 20+ episodes but was cut short due to unknown circumstances. These specials released on the 7th DVD volume continue the story.'
-animeRelated	[b'Zombie-Loan']
-animeCharacters	[b'Akatsuki, Chika', b'Tachibana, Shito', b'Kita, Michiru', b'Zarame', b'Yuuta', b'Yoimachi, Koyomi', b'Shiba, Reiichirou', b'Bekkou', b'Lyca', b'Asou, Sotetsu']
-animeVoices	[b'\nSuzumura, Kenichi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nItou, Kentarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSawano, Hiroyuki\n\nMusic\n\n', b'\nPEACH\xe2\x80\x90PIT\n\nOriginal Creator\n\n']
+animePopularity	3451
+animeDescription	The series was originally planned to be 20+ episodes but was cut short due to unknown circumstances. These specials released on the 7th DVD volume continue the story.
+animeRelated	['Zombie-Loan']
+animeCharacters	['Akatsuki, Chika', 'Tachibana, Shito', 'Kita, Michiru', 'Zarame', 'Yuuta', 'Yoimachi, Koyomi', 'Shiba, Reiichirou', 'Bekkou', 'Lyca', 'Asou, Sotetsu']
+animeVoices	['Suzumura, Kenichi', 'Sakurai, Takahiro', 'Kuwashima, Houko', 'Saitou, Chiwa', 'Suwabe, Junichi', 'Morikawa, Toshiyuki', 'Kakihara, Tetsuya', 'Itou, Kentarou']
+animeStaff	[['Sawano, Hiroyuki', 'Music'], ['PEACH‐PIT', 'Original Creator']]

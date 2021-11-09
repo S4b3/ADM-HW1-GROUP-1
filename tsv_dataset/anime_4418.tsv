@@ -1,5 +1,5 @@
-animeTitle	b'Fate/stay night TV Reproduction'
-animeType	b'OVA'
+animeTitle	Fate/stay night TV Reproduction
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.85
 animeUsers	14981
 animeRank	
-animePopularity	
-animeDescription	b'An edited and condensed version of the TV series.'
-animeRelated	[b'Fate/stay night']
-animeCharacters	[b'Saber', b'Toosaka, Rin', b'Archer', b'Emiya, Shirou', b'Gilgamesh', b'Matou, Sakura', b'von Einzbern, Illyasviel', b'Kotomine, Kirei', b'Lancer', b'Rider']
-animeVoices	[b'\nKawasumi, Ayako\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nShitaya, Noriko\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTainaka, Sachi\n\nTheme Song Performance\n\n', b'\nDewa, Yoshiaki\n\nTheme Song Arrangement, Theme Song Composition\n\n', b'\nNasu, Kinoko\n\nOriginal Creator\n\n', b'\nType-Moon\n\nOriginal Creator\n\n']
+animePopularity	2881
+animeDescription	An edited and condensed version of the TV series.
+animeRelated	['Fate/stay night']
+animeCharacters	['Saber', 'Toosaka, Rin', 'Archer', 'Emiya, Shirou', 'Gilgamesh', 'Matou, Sakura', 'von Einzbern, Illyasviel', 'Kotomine, Kirei', 'Lancer', 'Rider']
+animeVoices	['Kawasumi, Ayako', 'Ueda, Kana', 'Suwabe, Junichi', 'Sugiyama, Noriaki', 'Seki, Tomokazu', 'Shitaya, Noriko', 'Kadowaki, Mai', 'Nakata, Jouji', 'Canna, Nobutoshi', 'Asakawa, Yuu']
+animeStaff	[['Tainaka, Sachi', 'Theme Song Performance'], ['Dewa, Yoshiaki', 'Theme Song Arrangement, Theme Song Composition'], ['Nasu, Kinoko', 'Original Creator'], ['Type-Moon', 'Original Creator']]

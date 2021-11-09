@@ -1,5 +1,5 @@
-animeTitle	b'Cleavage'
-animeType	b'OVA'
+animeTitle	Cleavage
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.64
 animeUsers	5615
 animeRank	
-animePopularity	
-animeDescription	b'From the authors of Bible Black and Discipline comes this new OVA based on a game with the same name.\n\nWhen their father is given a transfer, Todo Yuto and Todo Erika are left alone. They are siblings, but they are not blood related. When Yuto was a child, his mother died. His father remarried a woman who, herself, had a child from a previous relationship, Erika. His stepmother was quite gentle, but she, too, has since passed away. Living alone, they begin to love each other as a man and a woman. However, an art teacher, Sayaka, notices their relationship and...\n\n(Source: AnimeNfo)'
-animeRelated	[b'Cleavage: Koibito wa Oneesan']
-animeCharacters	[b'Ichinose, Sayaka', b'Todou, Erika', b'Toudou, Yuuto']
-animeVoices	[b'\nDodo, Asako\nJapanese\n', b'\nOda, Mari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshida, Tomohiro\n\nSound Director\n\n', b'\nSei Shoujo\n\nOriginal Character Design, Original Creator\n\n', b'\nKano, Akira\n\nCharacter Design\n\n']
+animePopularity	4786
+animeDescription	"From the authors of Bible Black and Discipline comes this new OVA based on a game with the same name.
+
+When their father is given a transfer, Todo Yuto and Todo Erika are left alone. They are siblings, but they are not blood related. When Yuto was a child, his mother died. His father remarried a woman who, herself, had a child from a previous relationship, Erika. His stepmother was quite gentle, but she, too, has since passed away. Living alone, they begin to love each other as a man and a woman. However, an art teacher, Sayaka, notices their relationship and...
+
+(Source: AnimeNfo)"
+animeRelated	['Cleavage: Koibito wa Oneesan']
+animeCharacters	['Ichinose, Sayaka', 'Todou, Erika', 'Toudou, Yuuto']
+animeVoices	['Dodo, Asako', 'Oda, Mari']
+animeStaff	[['Yoshida, Tomohiro', 'Sound Director'], ['Sei Shoujo', 'Original Character Design, Original Creator'], ['Kano, Akira', 'Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Detective Conan OVA 01: Conan vs. Kid vs. Yaiba'
-animeType	b'OVA'
+animeTitle	Detective Conan OVA 01: Conan vs. Kid vs. Yaiba
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.24
 animeUsers	9693
 animeRank	
-animePopularity	
-animeDescription	"b""Mitsuhiko Tsuburaya lends Conan Edogawa a massive amount of manga, which Conan starts reading, despite the overwhelming quantity. Elsewhere, Kogorou Mouri is asked by the Mine family to protect the treasured sword in their dojo, as Kaitou Kid has sent a note of his intent to steal it. Upon arriving at the dojo, Conan and the others meet Yaiba Kurogane. Together, they aim to thwart the phantom thief's plans. However, Conan begins to notice something strange about the case...\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Detective Conan', b'Kenyuu Densetsu Yaiba']
-animeCharacters	[b'Edogawa, Conan', b'Kuroba, Kaito', b'Haibara, Ai', b'Mouri, Ran', b'Mouri, Kogorou', b'Yoshida, Ayumi', b'Tsuburaya, Mitsuhiko', b'Kojima, Genta', b'Kurogane, Yaiba', b'Koizumi, Akako']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nIwai, Yukiko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Yasuichiro\n\nDirector, Storyboard\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nGarnet Crow\n\nTheme Song Performance\n\n', b'\nAoyama, Gosho\n\nOriginal Creator\n\n']
+animePopularity	4194
+animeDescription	"Mitsuhiko Tsuburaya lends Conan Edogawa a massive amount of manga, which Conan starts reading, despite the overwhelming quantity. Elsewhere, Kogorou Mouri is asked by the Mine family to protect the treasured sword in their dojo, as Kaitou Kid has sent a note of his intent to steal it. Upon arriving at the dojo, Conan and the others meet Yaiba Kurogane. Together, they aim to thwart the phantom thief's plans. However, Conan begins to notice something strange about the case...
+
+[Written by MAL Rewrite]"
+animeRelated	['Detective Conan', 'Kenyuu Densetsu Yaiba']
+animeCharacters	['Edogawa, Conan', 'Kuroba, Kaito', 'Haibara, Ai', 'Mouri, Ran', 'Mouri, Kogorou', 'Yoshida, Ayumi', 'Tsuburaya, Mitsuhiko', 'Kojima, Genta', 'Kurogane, Yaiba', 'Koizumi, Akako']
+animeVoices	['Takayama, Minami', 'Yamaguchi, Kappei', 'Hayashibara, Megumi', 'Yamazaki, Wakana', 'Kamiya, Akira', 'Iwai, Yukiko', 'Ootani, Ikue', 'Takagi, Wataru']
+animeStaff	[['Yamamoto, Yasuichiro', 'Director, Storyboard'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Garnet Crow', 'Theme Song Performance'], ['Aoyama, Gosho', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Infinite Dendrogram'
-animeType	b'TV'
+animeTitle	Infinite Dendrogram
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.16
 animeUsers	56010
 animeRank	
-animePopularity	
-animeDescription	"b""In the year 2043, <Infinite Dendrogram>, the world's first successful full-dive VRMMO was released. In addition to its ability to perfectly simulate the five senses, along with its many other amazing features, the game promised to offer players a world full of infinite possibilities. Nearly two years later, soon-to-be college freshman, Reiji Mukudori, is finally able to buy a copy of the game and start playing. With some help from his experienced older brother, Shuu, and his partner Embryo, Reiji embarks on an adventure into the world of <Infinite Dendrogram>. Just what will he discover and encounter in this game world known for its incredible realism and infinite possibilities?\n\n(Source: J-Novel Club)"""
-animeRelated	[b'Infinite Dendrogram', b'Naze Nani Dendrogram']
-animeCharacters	[b'Nemesis', b'Mukudori, Reiji ', b'Starling, Shu ', b'Mr. Franklin', b'Adler, Marie', b'Lesseps, Hugo', b'Fusou, Tsukuyo', b'Holmes, Rook', b'Babylon', b'Xunyu']
-animeVoices	[b'\nOono, Yuuko\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nMurase, Ayumu\nJapanese\n', b'\nKoichi, Makoto\nJapanese\n', b'\nTakada, Yuuki\nJapanese\n', b'\nTouyama, Nao\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Tomoki\n\nDirector\n\n', b'\nKoizumi, Kisuke\n\nSound Director\n\n', b'\nMomose, Yuuichirou\n\nScript, Series Composition\n\n', b'\nYuuki, Aoi\n\nTheme Song Performance\n\n']
+animePopularity	1280
+animeDescription	"In the year 2043, <Infinite Dendrogram>, the world's first successful full-dive VRMMO was released. In addition to its ability to perfectly simulate the five senses, along with its many other amazing features, the game promised to offer players a world full of infinite possibilities. Nearly two years later, soon-to-be college freshman, Reiji Mukudori, is finally able to buy a copy of the game and start playing. With some help from his experienced older brother, Shuu, and his partner Embryo, Reiji embarks on an adventure into the world of <Infinite Dendrogram>. Just what will he discover and encounter in this game world known for its incredible realism and infinite possibilities?
+
+(Source: J-Novel Club)"
+animeRelated	['Infinite Dendrogram', 'Naze Nani Dendrogram']
+animeCharacters	['Nemesis', 'Mukudori, Reiji ', 'Starling, Shu ', 'Mr. Franklin', 'Adler, Marie', 'Lesseps, Hugo', 'Fusou, Tsukuyo', 'Holmes, Rook', 'Babylon', 'Xunyu']
+animeVoices	['Oono, Yuuko', 'Saitou, Souma', 'Hino, Satoshi', 'Matsuoka, Yoshitsugu', 'Hikasa, Youko', 'Murase, Ayumu', 'Koichi, Makoto', 'Takada, Yuuki', 'Touyama, Nao']
+animeStaff	[['Kobayashi, Tomoki', 'Director'], ['Koizumi, Kisuke', 'Sound Director'], ['Momose, Yuuichirou', 'Script, Series Composition'], ['Yuuki, Aoi', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Fune wo Amu'
-animeType	b'TV'
+animeTitle	Fune wo Amu
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.63
 animeUsers	34308
 animeRank	
-animePopularity	
-animeDescription	"b'Kouhei Araki, a veteran editor of the dictionary editorial division at Genbu Publishing, plans to retire in order to better care for his ailing wife. However, before retiring, he must find a replacement to complete his latest project: a new dictionary called ""The Great Passage."" But no matter where he looks, he cannot find anyone suitable, as making a dictionary requires a wealth of patience, time, and dedication.\n\nMitsuya Majime works in Genbu Publishing\'s sales division, yet he has poor social skills and an inability to read the mood in most situations. In spite of this, he excels at having an enthusiasm for words thanks to his love of reading and careful personality. It is these skills that draw Araki to him and prompt him to offer Majime a position in the dictionary editorial department. As Majime accepts his new position, he finds himself unsure of his abilities and questioning whether he will fit in with his new co-workers. Yet amid the vast sea of words, The Great Passage will bring them together.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Fune wo Amu', b'Fune wo Amu: Yokoku']
-animeCharacters	[b'Majime, Mitsuya', b'Nishioka, Masashi', b'Hayashi, Kaguya', b'Araki, Kouhei', b'Take', b'Matsumoto, Tomosuke', b'Professor Oda', b'Sasaki, Kaoru', b'Kai', b'Miyoshi, Remi']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nKanao, Tetsuo\nJapanese\n', b'\nTani, Ikuko\nJapanese\n', b'\nMugihito\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n', b'\nShibuya, Azuki\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuroyanagi, Toshimasa\n\nDirector, Script\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nSatou, Takuya\n\nScript, Series Composition\n\n', b'\nNemoto, Toshizou\n\nScript\n\n']
+animePopularity	1621
+animeDescription	"Kouhei Araki, a veteran editor of the dictionary editorial division at Genbu Publishing, plans to retire in order to better care for his ailing wife. However, before retiring, he must find a replacement to complete his latest project: a new dictionary called ""The Great Passage."" But no matter where he looks, he cannot find anyone suitable, as making a dictionary requires a wealth of patience, time, and dedication.
+
+Mitsuya Majime works in Genbu Publishing's sales division, yet he has poor social skills and an inability to read the mood in most situations. In spite of this, he excels at having an enthusiasm for words thanks to his love of reading and careful personality. It is these skills that draw Araki to him and prompt him to offer Majime a position in the dictionary editorial department. As Majime accepts his new position, he finds himself unsure of his abilities and questioning whether he will fit in with his new co-workers. Yet amid the vast sea of words, The Great Passage will bring them together.
+
+[Written by MAL Rewrite]"
+animeRelated	['Fune wo Amu', 'Fune wo Amu: Yokoku']
+animeCharacters	['Majime, Mitsuya', 'Nishioka, Masashi', 'Hayashi, Kaguya', 'Araki, Kouhei', 'Take', 'Matsumoto, Tomosuke', 'Professor Oda', 'Sasaki, Kaoru', 'Kai', 'Miyoshi, Remi']
+animeVoices	['Sakurai, Takahiro', 'Kamiya, Hiroshi', 'Sakamoto, Maaya', 'Kanao, Tetsuo', 'Tani, Ikuko', 'Mugihito', 'Tobita, Nobuo', 'Sakakibara, Yoshiko', 'Shibuya, Azuki', 'Saitou, Chiwa']
+animeStaff	[['Kuroyanagi, Toshimasa', 'Director, Script'], ['Nagasaki, Yukio', 'Sound Director'], ['Satou, Takuya', 'Script, Series Composition'], ['Nemoto, Toshizou', 'Script']]

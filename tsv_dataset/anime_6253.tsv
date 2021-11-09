@@ -1,5 +1,5 @@
-animeTitle	b'Street Fighter Alpha: Generations'
-animeType	b'Movie'
+animeTitle	Street Fighter Alpha: Generations
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.48
 animeUsers	7681
 animeRank	
-animePopularity	
-animeDescription	"b""When Ryu returns to pay homage to his deceased mentor, Gouken, he is tormented by disturbing memories of his master's killer. In a quest to become a true martial arts master, Ryu sets out to hone his street fighting skills and to deliver himself from the haunting legacy of the Dark Hadou. But the ultimate test of his new power can only be accomplished through one last fateful confrontation with his arch-nemesis, Gouki (Akuma). \n\n(Source: AniDB)"""
-animeRelated	[b'Street Fighter Zero The Animation']
-animeCharacters	[b'Ryuu', b'Gouki', b'Masters, Ken', b'Kasugano, Sakura', b'Gouken', b'Goutetsu']
-animeVoices	[b'\nKase, Yasuyuki\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nHanawa, Eiji\nJapanese\n', b'\nKawasaki, Mao\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuwana, Ikuo\n\nDirector, Storyboard, Character Design\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n', b'\nYoshida, Reiko\n\nScript\n\n', b'\nWatanabe, Akio\n\nKey Animation\n\n']
+animePopularity	4806
+animeDescription	"When Ryu returns to pay homage to his deceased mentor, Gouken, he is tormented by disturbing memories of his master's killer. In a quest to become a true martial arts master, Ryu sets out to hone his street fighting skills and to deliver himself from the haunting legacy of the Dark Hadou. But the ultimate test of his new power can only be accomplished through one last fateful confrontation with his arch-nemesis, Gouki (Akuma). 
+
+(Source: AniDB)"
+animeRelated	['Street Fighter Zero The Animation']
+animeCharacters	['Ryuu', 'Gouki', 'Masters, Ken', 'Kasugano, Sakura', 'Gouken', 'Goutetsu']
+animeVoices	['Kase, Yasuyuki', 'Gouri, Daisuke', 'Hanawa, Eiji', 'Kawasaki, Mao']
+animeStaff	[['Kuwana, Ikuo', 'Director, Storyboard, Character Design'], ['Honda, Yasunori', 'Sound Director'], ['Yoshida, Reiko', 'Script'], ['Watanabe, Akio', 'Key Animation']]

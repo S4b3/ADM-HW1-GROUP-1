@@ -1,5 +1,5 @@
-animeTitle	b'Samchongsa: Time Machine 001'
-animeType	b'Movie'
+animeTitle	Samchongsa: Time Machine 001
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis has been added for this series yet.\n\nClick here to update this information.'
-animeRelated	[b'Byeolnala Samchongsa']
-animeCharacters	"[b'Oz', b'Princess Lulu', b""Oz's Friend"", b'Koundari']"
+animePopularity	14368
+animeDescription	"No synopsis has been added for this series yet.
+
+Click here to update this information."
+animeRelated	['Byeolnala Samchongsa']
+animeCharacters	"['Oz', 'Princess Lulu', ""Oz's Friend"", 'Koundari']"
 animeVoices	[]
 animeStaff	[]

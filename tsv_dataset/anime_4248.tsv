@@ -1,5 +1,5 @@
-animeTitle	b'Futakoi Alternative'
-animeType	b'TV'
+animeTitle	Futakoi Alternative
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.89
 animeUsers	10593
 animeRank	
-animePopularity	
-animeDescription	"b""The Futaba Detective Agency, being run by Rentarou, who has taken over the family business, after his father's death 3 weeks ago. Along w/ Sara & Souju, his live-in identical twin assistants. He ends up running afoul of the local Yakuza.\n\n(Source: ANN)"""
-animeRelated	[b'Futakoi Alternative', b'Futakoi']
-animeCharacters	[b'Futaba, Rentarou', b'Shirogane, Sara', b'Shirogane, Souju', b'Sakurazuki, Kira', b'Ichijou, Sumireko', b'Sakurazuki, Yura', b'Ichijou, Kaoruko', b'Hinagiku, Lulu', b'Hariyama, Nishimori', b'Momoi, Mai']
-animeVoices	[b'\nSeki, Tomokazu\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nItsuki, Yui\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nTsunakake, Hiromi\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nHasegawa, Shizuka\nJapanese\n', b'\nYasumura, Makoto\nJapanese\n', b'\nSango, Minako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirao, Takayuki\n\nDirector, Episode Director, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nKobayashi, Tomoki\n\nEpisode Director\n\n', b'\nAbe, Masashi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3323
+animeDescription	"The Futaba Detective Agency, being run by Rentarou, who has taken over the family business, after his father's death 3 weeks ago. Along w/ Sara & Souju, his live-in identical twin assistants. He ends up running afoul of the local Yakuza.
+
+(Source: ANN)"
+animeRelated	['Futakoi Alternative', 'Futakoi']
+animeCharacters	['Futaba, Rentarou', 'Shirogane, Sara', 'Shirogane, Souju', 'Sakurazuki, Kira', 'Ichijou, Sumireko', 'Sakurazuki, Yura', 'Ichijou, Kaoruko', 'Hinagiku, Lulu', 'Hariyama, Nishimori', 'Momoi, Mai']
+animeVoices	['Seki, Tomokazu', 'Mizuhashi, Kaori', 'Kadowaki, Mai', 'Itsuki, Yui', 'Koshimizu, Ami', 'Tsunakake, Hiromi', 'Horie, Yui', 'Hasegawa, Shizuka', 'Yasumura, Makoto', 'Sango, Minako']
+animeStaff	[['Hirao, Takayuki', 'Director, Episode Director, Storyboard'], ['Aketagawa, Jin', 'Sound Director'], ['Kobayashi, Tomoki', 'Episode Director'], ['Abe, Masashi', 'Episode Director, Storyboard']]

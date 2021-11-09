@@ -1,5 +1,5 @@
-animeTitle	b'Kupu~!! Mamegoma!'
-animeType	b'TV'
+animeTitle	Kupu~!! Mamegoma!
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The story revolves around a palm-sized seal named Mameta, the other seals (Cherry-chan, Soda-kun, Lemon-chan, Candy-chan), and the Mamekawa family that raises the seals.\n\n(Source: ANN)'
+animePopularity	11980
+animeDescription	"The story revolves around a palm-sized seal named Mameta, the other seals (Cherry-chan, Soda-kun, Lemon-chan, Candy-chan), and the Mamekawa family that raises the seals.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Mameta', b'Mamegawa, Akane']
-animeVoices	[b'\nFujimura, Ayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujita, Akiko\n\nSound Director\n\n', b'\nMiyamoto, Kanako\n\nTheme Song Performance\n\n', b'\nOohashi, Megumi\n\nMusic\n\n', b'\nMorio, Maki\n\nArt Director\n\n']
+animeCharacters	['Mameta', 'Mamegawa, Akane']
+animeVoices	['Fujimura, Ayumi']
+animeStaff	[['Fujita, Akiko', 'Sound Director'], ['Miyamoto, Kanako', 'Theme Song Performance'], ['Oohashi, Megumi', 'Music'], ['Morio, Maki', 'Art Director']]

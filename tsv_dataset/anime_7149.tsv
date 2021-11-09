@@ -1,5 +1,5 @@
-animeTitle	b'Koutetsu Sangokushi'
-animeType	b'TV'
+animeTitle	Koutetsu Sangokushi
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.31
 animeUsers	2197
 animeRank	
-animePopularity	
-animeDescription	b'The Imperial Seal has been passed down through the generations since ancient times. It confers great power unto the warriors that it chooses. This is the story of those warriors.\n\nIt is a time of chaos and of civil war. It is a time when great armies clash in titanic battles and great heroes carve their names in history. It is also a time of death and destruction, when the people of the land live in constant fear of the sword. Onto this stage steps the reluctant Rikuson (Lu Xun), whose family had been the guardians of the Imperial Seal up until it was stolen by Sonsaku. At the behest of his mentor Rikuson offers his services to Sonsaku with the intention of confirming the will of the Imperial Seal. However, assassins strike down Sonsaku and the Imperial Seal is lost. So begins, Rikuson\xe2\x80\x99s journey to recover the Imperial Seal and discover his destiny.\n\n(Source: AniDB)'
-animeRelated	[b'Koutetsu Sangokushi Special']
-animeCharacters	"[b'Shoukatsuryou, Koumei', b'Chuubou, Sonken', b'Hakugen, Rikuson', b'Kouseki, Ryoutou', b'Shimei, Ryomou', b'Kouha, Kannei', b'Shoukatsukin, Shiyu', b""Shiryuu, Chou'un"", b'Koukin, Shuuyu', b'Kouso, Genyou']"
-animeVoices	[b'\nKoyasu, Takehito\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiramitsu, Takuya\n\nSound Director\n\n', b'\nYamashita, Kenichi\n\nScript\n\n', b'\nMiyano, Mamoru\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nInotsume, Shinichi\n\nScreenplay\n\n']
+animePopularity	5638
+animeDescription	"The Imperial Seal has been passed down through the generations since ancient times. It confers great power unto the warriors that it chooses. This is the story of those warriors.
+
+It is a time of chaos and of civil war. It is a time when great armies clash in titanic battles and great heroes carve their names in history. It is also a time of death and destruction, when the people of the land live in constant fear of the sword. Onto this stage steps the reluctant Rikuson (Lu Xun), whose family had been the guardians of the Imperial Seal up until it was stolen by Sonsaku. At the behest of his mentor Rikuson offers his services to Sonsaku with the intention of confirming the will of the Imperial Seal. However, assassins strike down Sonsaku and the Imperial Seal is lost. So begins, Rikuson’s journey to recover the Imperial Seal and discover his destiny.
+
+(Source: AniDB)"
+animeRelated	['Koutetsu Sangokushi Special']
+animeCharacters	"['Shoukatsuryou, Koumei', 'Chuubou, Sonken', 'Hakugen, Rikuson', 'Kouseki, Ryoutou', 'Shimei, Ryomou', 'Kouha, Kannei', 'Shoukatsukin, Shiyu', ""Shiryuu, Chou'un"", 'Koukin, Shuuyu', 'Kouso, Genyou']"
+animeVoices	['Koyasu, Takehito', 'Nabatame, Hitomi', 'Miyano, Mamoru', 'Saiga, Mitsuki', 'Ishida, Akira', 'Suwabe, Junichi', 'Yusa, Kouji', 'Sugiyama, Noriaki', 'Miki, Shinichiro', 'Okiayu, Ryoutarou']
+animeStaff	[['Hiramitsu, Takuya', 'Sound Director'], ['Yamashita, Kenichi', 'Script'], ['Miyano, Mamoru', 'Theme Song Performance, Inserted Song Performance'], ['Inotsume, Shinichi', 'Screenplay']]

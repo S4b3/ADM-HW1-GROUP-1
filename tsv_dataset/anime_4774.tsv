@@ -1,5 +1,5 @@
-animeTitle	b'Koutetsu Tenshi Kurumi'
-animeType	b'TV'
+animeTitle	Koutetsu Tenshi Kurumi
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.77
 animeUsers	9049
 animeRank	
-animePopularity	
-animeDescription	"b'During Japan\'s Taisho Era (1912-1926), a scientist named Ayanokoji developed the Steel Angel - an artificial humanoid with superhuman physical abilities. While the Imperial Army wanted to use the Steel Angel as a new means of modern warfare, Ayanokoji wanted his creation to be a new step in the future of mankind. Thus, he defied orders from the Army and secretly made the Steel Angel codenamed ""Kurumi"". Then one day, a young boy named Nakahito Kagura snuck into Ayanokoji\'s house as a dare by his friends and stumbled upon Kurumi\'s lifeless body. A sudden attack by the Imperial Army shook the house, causing Kurumi to fall on Nakahito. At that moment, their lips met, and Kurumi woke up from ""the kiss that started a miracle"". \n\n(Source: ANN)'"
-animeRelated	[b'Koutetsu Tenshi Kurumi', b'Koutetsu Tenshi Kurumi 2', b'Koutetsu Tenshi Kurumi Encore']
-animeCharacters	[b'Kurumi', b'Karinka', b'Saki', b'Kagura, Nakahito', b'Kagura, Kamihito', b'Ayanokouji, Tetsuo', b'Dr. Brandow', b'Kaga', b'Two-Tone', b'Mikhail']
-animeVoices	[b'\nEnomoto, Atsuko\nJapanese\n', b'\nKurata, Masayo\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nTezuka, Chiharu\nJapanese\n', b'\nTouma, Yumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Naohito\n\nDirector, Storyboard\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nTanaka, Rie\n\nTheme Song Performance\n\n', b'\nEnomoto, Atsuko\n\nTheme Song Performance\n\n']
+animePopularity	3819
+animeDescription	"During Japan's Taisho Era (1912-1926), a scientist named Ayanokoji developed the Steel Angel - an artificial humanoid with superhuman physical abilities. While the Imperial Army wanted to use the Steel Angel as a new means of modern warfare, Ayanokoji wanted his creation to be a new step in the future of mankind. Thus, he defied orders from the Army and secretly made the Steel Angel codenamed ""Kurumi"". Then one day, a young boy named Nakahito Kagura snuck into Ayanokoji's house as a dare by his friends and stumbled upon Kurumi's lifeless body. A sudden attack by the Imperial Army shook the house, causing Kurumi to fall on Nakahito. At that moment, their lips met, and Kurumi woke up from ""the kiss that started a miracle"". 
+
+(Source: ANN)"
+animeRelated	['Koutetsu Tenshi Kurumi', 'Koutetsu Tenshi Kurumi 2', 'Koutetsu Tenshi Kurumi Encore']
+animeCharacters	['Kurumi', 'Karinka', 'Saki', 'Kagura, Nakahito', 'Kagura, Kamihito', 'Ayanokouji, Tetsuo', 'Dr. Brandow', 'Kaga', 'Two-Tone', 'Mikhail']
+animeVoices	['Enomoto, Atsuko', 'Kurata, Masayo', 'Tanaka, Rie', 'Kuwashima, Houko', 'Matsumoto, Yasunori', 'Suzuoki, Hirotaka', 'Morikawa, Toshiyuki', 'Tezuka, Chiharu', 'Touma, Yumi']
+animeStaff	[['Takahashi, Naohito', 'Director, Storyboard'], ['Watanabe, Jun', 'Sound Director'], ['Tanaka, Rie', 'Theme Song Performance'], ['Enomoto, Atsuko', 'Theme Song Performance']]

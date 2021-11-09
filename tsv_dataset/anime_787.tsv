@@ -1,5 +1,5 @@
-animeTitle	b'Senpai ga Uzai Kouhai no Hanashi'
-animeType	b'TV'
+animeTitle	Senpai ga Uzai Kouhai no Hanashi
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.84
 animeUsers	13909
 animeRank	
-animePopularity	
-animeDescription	"b""Igarashi Futuba's new job would be great if her senpai, Takeda Harumi, wasn't so incredibly annoying! Futuba hates his laugh, she hates how big he is, and she really hates that he treats her like a little kid. Just because Futuba is short and looks young doesn't make her a kid, and just because she spends so much time with Takeda doesn't mean she sees him as anything but an annoying senpai...or does she?! \n\n(Source: Seven Seas Entertainment)"""
-animeRelated	[b'Senpai ga Uzai Kouhai no Hanashi']
-animeCharacters	[b'Igarashi, Futaba', b'Takeda, Harumi', b'Sakurai, Touko', b'Kazama, Souta', b'Kurobe, Natsumi', b'Tsukishiro, Mona', b'Ojii-chan', b'Sakurai, Yuuto', b'Buchou', b'Ooishi']
-animeVoices	[b'\nKusunoki, Tomori\nJapanese\n', b'\nTakeuchi, Shunsuke\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nTsuchida, Reiou\nJapanese\n', b'\nAoyama, Reina\nJapanese\n', b'\nKoga, Aoi\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nAoyama, Yutaka\nJapanese\n', b'\nOdagaki, Yuta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItou, Ryouta\n\nDirector\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n', b'\nHayami, Saori\n\nTheme Song Performance\n\n', b'\nHorie, Yui\n\nTheme Song Performance\n\n']
+animePopularity	1475
+animeDescription	"Igarashi Futuba's new job would be great if her senpai, Takeda Harumi, wasn't so incredibly annoying! Futuba hates his laugh, she hates how big he is, and she really hates that he treats her like a little kid. Just because Futuba is short and looks young doesn't make her a kid, and just because she spends so much time with Takeda doesn't mean she sees him as anything but an annoying senpai...or does she?! 
+
+(Source: Seven Seas Entertainment)"
+animeRelated	['Senpai ga Uzai Kouhai no Hanashi']
+animeCharacters	['Igarashi, Futaba', 'Takeda, Harumi', 'Sakurai, Touko', 'Kazama, Souta', 'Kurobe, Natsumi', 'Tsukishiro, Mona', 'Ojii-chan', 'Sakurai, Yuuto', 'Buchou', 'Ooishi']
+animeVoices	['Kusunoki, Tomori', 'Takeuchi, Shunsuke', 'Hayami, Saori', 'Tsuchida, Reiou', 'Aoyama, Reina', 'Koga, Aoi', 'Ootsuka, Akio', 'Horie, Yui', 'Aoyama, Yutaka', 'Odagaki, Yuta']
+animeStaff	[['Itou, Ryouta', 'Director'], ['Takadera, Takeshi', 'Sound Director'], ['Hayami, Saori', 'Theme Song Performance'], ['Horie, Yui', 'Theme Song Performance']]

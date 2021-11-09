@@ -1,5 +1,5 @@
-animeTitle	b'Shinigami no Ballad.'
-animeType	b'TV'
+animeTitle	Shinigami no Ballad.
+animeType	TV
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.91
 animeUsers	17556
 animeRank	
-animePopularity	
-animeDescription	"b'A girl wrapped in white, her name is Momo...in her hand lies a blunt yet shiny scythe. By her side is a winged black cat by the name of Daniel. Carrying the souls of humans, the girl\'s existence parallels to that of a ""Death God"" or ""Shinigami"". At the instant when this white Death God touches the hearts of humans, the world is filled with kindness and grief... \n\n(Source: ANN) '"
-animeRelated	[b'Shinigami no Ballad.']
-animeCharacters	[b'Momo', b'Daniel', b'Asano, Mitsuki', b'Ichihara, Kantarou', b'Makihara, Mai', b'Nakayama', b'Nodo, Kouta', b'Asano, Subaru']
-animeVoices	[b'\nKobayashi, Akiko\nJapanese\n', b'\nShimizu, Ai\nJapanese\n', b'\nKaida, Yuki\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nYaguchi, Asami\nJapanese\n', b'\nKanada, Aki\nJapanese\n', b'\nKimura, Akiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMochizuki, Tomomi\n\nDirector, Sound Director, Episode Director, Storyboard\n\n', b'\nYoshida, Reiko\n\nScript, Series Composition\n\n', b'\nMOKA\xe2\x98\x86\n\nMusic\n\n', b'\nImaizumi, Kenichi\n\nAnimation Director, Key Animation\n\n']
+animePopularity	2690
+animeDescription	"A girl wrapped in white, her name is Momo...in her hand lies a blunt yet shiny scythe. By her side is a winged black cat by the name of Daniel. Carrying the souls of humans, the girl's existence parallels to that of a ""Death God"" or ""Shinigami"". At the instant when this white Death God touches the hearts of humans, the world is filled with kindness and grief... 
+
+(Source: ANN) "
+animeRelated	['Shinigami no Ballad.']
+animeCharacters	['Momo', 'Daniel', 'Asano, Mitsuki', 'Ichihara, Kantarou', 'Makihara, Mai', 'Nakayama', 'Nodo, Kouta', 'Asano, Subaru']
+animeVoices	['Kobayashi, Akiko', 'Shimizu, Ai', 'Kaida, Yuki', 'Toyonaga, Toshiyuki', 'Saitou, Chiwa', 'Yaguchi, Asami', 'Kanada, Aki', 'Kimura, Akiko']
+animeStaff	[['Mochizuki, Tomomi', 'Director, Sound Director, Episode Director, Storyboard'], ['Yoshida, Reiko', 'Script, Series Composition'], ['MOKA☆', 'Music'], ['Imaizumi, Kenichi', 'Animation Director, Key Animation']]

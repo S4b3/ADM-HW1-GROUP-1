@@ -1,5 +1,5 @@
-animeTitle	b'Tsukumo'
-animeType	b'Movie'
+animeTitle	Tsukumo
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.67
 animeUsers	3450
 animeRank	
-animePopularity	
-animeDescription	b'One night during the 18th century, deep in the mountains, a man loses his way and comes across a small shrine. As he enters, the space transforms into a room of a different world.\n\n(Source: Annecy)'
-animeRelated	[b'Hi no Youjin', b'Buki yo Saraba', b'Gambo', b'Short Peace Opening']
-animeCharacters	[b'Man']
-animeVoices	[b'\nYamadera, Kouichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nArias, Michael\n\nProducer\n\n', b'\nMorita, Shuuhei\n\nDirector, Screenplay\n\n', b'\nLedford, John\n\nExecutive Producer\n\n', b'\nNakamura, Hideki\n\nBackground Art\n\n']
+animePopularity	6205
+animeDescription	"One night during the 18th century, deep in the mountains, a man loses his way and comes across a small shrine. As he enters, the space transforms into a room of a different world.
+
+(Source: Annecy)"
+animeRelated	['Hi no Youjin', 'Buki yo Saraba', 'Gambo', 'Short Peace Opening']
+animeCharacters	['Man']
+animeVoices	['Yamadera, Kouichi']
+animeStaff	[['Arias, Michael', 'Producer'], ['Morita, Shuuhei', 'Director, Screenplay'], ['Ledford, John', 'Executive Producer'], ['Nakamura, Hideki', 'Background Art']]

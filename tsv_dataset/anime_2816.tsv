@@ -1,5 +1,5 @@
-animeTitle	b'Selector Destructed WIXOSS Movie'
-animeType	b'Movie'
+animeTitle	Selector Destructed WIXOSS Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.21
 animeUsers	5241
 animeRank	
-animePopularity	
-animeDescription	"b""This movie is a retelling/summary of Selector Infected and Spread, with extra scenes interspersed such as the characters in childhood. Despite mostly being previously used scenes, they were cut and altered to make a high intensity and fast paced story, highlighting the moments of slow silence and reflection. Some changes were made such as the true origin of Tama's name, the significance of Sachi and Rumi, and the relationship between your name and being alone.\n\n(Source: Asenshi)"""
-animeRelated	[b'Selector Infected WIXOSS', b'Selector Spread WIXOSS']
-animeCharacters	[b'Tama', b'Kominato, Ruuko', b'Aoi, Akira', b'Urazoe, Iona', b'Kurebayashi, Yuzuki', b'Ulith', b'Uemura, Hitoe', b'Piruluk', b'Kurebayashi, Kazuki', b'Eldora']
-animeVoices	[b'\nKuno, Misaki\nJapanese\n', b'\nKakuma, Ai\nJapanese\n', b'\nAkasaki, Chinatsu\nJapanese\n', b'\nSeto, Asami\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nOonishi, Saori\nJapanese\n', b'\nKobayashi, Yuusuke\nJapanese\n', b'\nArai, Satomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Takuya\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nOkada, Mari\n\nScript, Series Composition\n\n', b'\nSakurabi, Katsushi\n\nStoryboard, Key Animation\n\n']
+animePopularity	4318
+animeDescription	"This movie is a retelling/summary of Selector Infected and Spread, with extra scenes interspersed such as the characters in childhood. Despite mostly being previously used scenes, they were cut and altered to make a high intensity and fast paced story, highlighting the moments of slow silence and reflection. Some changes were made such as the true origin of Tama's name, the significance of Sachi and Rumi, and the relationship between your name and being alone.
+
+(Source: Asenshi)"
+animeRelated	['Selector Infected WIXOSS', 'Selector Spread WIXOSS']
+animeCharacters	['Tama', 'Kominato, Ruuko', 'Aoi, Akira', 'Urazoe, Iona', 'Kurebayashi, Yuzuki', 'Ulith', 'Uemura, Hitoe', 'Piruluk', 'Kurebayashi, Kazuki', 'Eldora']
+animeVoices	['Kuno, Misaki', 'Kakuma, Ai', 'Akasaki, Chinatsu', 'Seto, Asami', 'Sakura, Ayane', 'Kugimiya, Rie', 'Kayano, Ai', 'Oonishi, Saori', 'Kobayashi, Yuusuke', 'Arai, Satomi']
+animeStaff	[['Satou, Takuya', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Okada, Mari', 'Script, Series Composition'], ['Sakurabi, Katsushi', 'Storyboard, Key Animation']]

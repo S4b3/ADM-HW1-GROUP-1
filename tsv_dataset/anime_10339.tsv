@@ -1,5 +1,5 @@
-animeTitle	b'Otaku no Seiza'
-animeType	b'OVA'
+animeTitle	Otaku no Seiza
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.51
 animeUsers	287
 animeRank	
-animePopularity	
-animeDescription	b'Anime based on Otaku no Seiza: in Another World, on the Turbo CD, and Otaku no Seiza: An Adventure in the Otaku Galaxy, for the NES, which were two Role-Playing games, published by M&M, released in Japan in 1991 and 1993.'
+animePopularity	11256
+animeDescription	Anime based on Otaku no Seiza: in Another World, on the Turbo CD, and Otaku no Seiza: An Adventure in the Otaku Galaxy, for the NES, which were two Role-Playing games, published by M&M, released in Japan in 1991 and 1993.
 animeRelated	[]
-animeCharacters	[b'Otoko', b'Nekketsu', b'Jonjon', b'Domul San Kyoudai', b'Indra', b'Maaya', b'Narrator ', b'Yun', b'Yan', b'Min']
-animeVoices	[b'\nYamadera, Kouichi\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nTanaka, Nobuo\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nTakada, Yumi\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nNishimori, Akira\n\nEpisode Director\n\n', b'\nEguchi, Hisashi\n\nOriginal Creator\n\n', b'\nMotomiya, Hiroshi\n\nOriginal Creator\n\n']
+animeCharacters	['Otoko', 'Nekketsu', 'Jonjon', 'Domul San Kyoudai', 'Indra', 'Maaya', 'Narrator ', 'Yun', 'Yan', 'Min']
+animeVoices	['Yamadera, Kouichi', 'Chiba, Shigeru', 'Kikuchi, Masami', 'Genda, Tesshou', 'Kamiya, Akira', 'Inoue, Kikuko', 'Tanaka, Nobuo', 'Shinohara, Emi', 'Takada, Yumi', 'Hiramatsu, Akiko']
+animeStaff	[['Iwanami, Yoshikazu', 'Sound Director'], ['Nishimori, Akira', 'Episode Director'], ['Eguchi, Hisashi', 'Original Creator'], ['Motomiya, Hiroshi', 'Original Creator']]

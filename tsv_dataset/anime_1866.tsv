@@ -1,5 +1,5 @@
-animeTitle	b'Ayakashi: Japanese Classic Horror'
-animeType	b'TV'
+animeTitle	Ayakashi: Japanese Classic Horror
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	7.43
 animeUsers	21603
 animeRank	
-animePopularity	
-animeDescription	"b'A collection of three classic Japanese horror stories: ""Yotsuya Kaidan"", the story of a wife betrayed by her husband who seeks vengeance even in death. ""Tenshu Monogatari"", the story of forbidden love between a goddess and a human, and ""Bakeneko"", the story of a mysterious cat monster with a vendetta against a certain family. \n'"
-animeRelated	[b'Mononoke']
-animeCharacters	[b'Kusuriuri', b'Tamiya, Oiwa', b'Tomi-Hime', b'Tamiya, Iemon', b'Himekawa, Zusho-no-Suke', b'Kayo', b'Tsuruya, Nanboku', b'Kaikaimaru', b'Tamaki', b'Kikimaru']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nKoyama, Mami\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nYukana\nJapanese\n', b'\nSaka, Osamu\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nKamada, Kozue\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Kouji\n\nProducer\n\n', b'\nSano, Hiroaki\n\nProducer\n\n', b'\nShibata, Hiroaki\n\nProducer\n\n', b'\nUmezawa, Atsutoshi\n\nProducer\n\n']
+animePopularity	2199
+animeDescription	"A collection of three classic Japanese horror stories: ""Yotsuya Kaidan"", the story of a wife betrayed by her husband who seeks vengeance even in death. ""Tenshu Monogatari"", the story of forbidden love between a goddess and a human, and ""Bakeneko"", the story of a mysterious cat monster with a vendetta against a certain family. 
+"
+animeRelated	['Mononoke']
+animeCharacters	['Kusuriuri', 'Tamiya, Oiwa', 'Tomi-Hime', 'Tamiya, Iemon', 'Himekawa, Zusho-no-Suke', 'Kayo', 'Tsuruya, Nanboku', 'Kaikaimaru', 'Tamaki', 'Kikimaru']
+animeVoices	['Sakurai, Takahiro', 'Koyama, Mami', 'Kuwashima, Houko', 'Hirata, Hiroaki', 'Midorikawa, Hikaru', 'Yukana', 'Saka, Osamu', 'Yamaguchi, Kappei', 'Kamada, Kozue', 'Onosaka, Masaya']
+animeStaff	[['Yamamoto, Kouji', 'Producer'], ['Sano, Hiroaki', 'Producer'], ['Shibata, Hiroaki', 'Producer'], ['Umezawa, Atsutoshi', 'Producer']]

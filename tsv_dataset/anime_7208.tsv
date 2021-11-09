@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon XY: New Year Special'
-animeType	b'Special'
+animeTitle	Pokemon XY: New Year Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.29
 animeUsers	1861
 animeRank	
-animePopularity	
-animeDescription	b'Recap episode.'
-animeRelated	[b'Pokemon XY']
-animeCharacters	[b'Pikachu', b'Satoshi']
+animePopularity	7088
+animeDescription	Recap episode.
+animeRelated	['Pokemon XY']
+animeCharacters	['Pikachu', 'Satoshi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n', b'\nSugimori, Ken\n\nOriginal Character Design\n\n']
+animeStaff	[['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design']]

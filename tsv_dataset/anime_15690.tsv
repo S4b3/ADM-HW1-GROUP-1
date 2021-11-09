@@ -1,5 +1,5 @@
-animeTitle	b'Gamba to Kawauso no Bouken'
-animeType	b'Movie'
+animeTitle	Gamba to Kawauso no Bouken
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The final chapter of the Gamba saga, released in theatres 15 years after the original TV series.\n\n(Source: AniDB)'
-animeRelated	[b'Gamba no Bouken']
-animeCharacters	[b'Gakusha', b'Gamba', b'Ikasama', b'Shijin', b'Noroi']
-animeVoices	[b'\nTomiyama, Kei\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nHori, Junko\nJapanese\n', b'\nShimada, Akira\nJapanese\n', b'\nOtsuka, Chikao\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOoga, Shunji\n\nDirector\n\n', b'\nSuzuki, Shinichi\n\nAnimation Director\n\n', b'\nMinami, Shinichiro\n\nKey Animation\n\n', b'\nSaitou, Atsuo\n\nOriginal Creator\n\n']
+animePopularity	14080
+animeDescription	"The final chapter of the Gamba saga, released in theatres 15 years after the original TV series.
+
+(Source: AniDB)"
+animeRelated	['Gamba no Bouken']
+animeCharacters	['Gakusha', 'Gamba', 'Ikasama', 'Shijin', 'Noroi']
+animeVoices	['Tomiyama, Kei', 'Nozawa, Masako', 'Hori, Junko', 'Shimada, Akira', 'Otsuka, Chikao']
+animeStaff	[['Ooga, Shunji', 'Director'], ['Suzuki, Shinichi', 'Animation Director'], ['Minami, Shinichiro', 'Key Animation'], ['Saitou, Atsuo', 'Original Creator']]

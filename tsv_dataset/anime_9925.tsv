@@ -1,5 +1,5 @@
-animeTitle	b'AIKa: Special Trial'
-animeType	b'Special'
+animeTitle	AIKa: Special Trial
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.64
 animeUsers	2838
 animeRank	
-animePopularity	
-animeDescription	b'A bonus episode about Aika and company moving to a new office. '
-animeRelated	[b'AIKa']
-animeCharacters	[b'Sumeragi, Aika', b'Aida, Rion', b'Alexymetalia, Maypia', b'Turbulence, Gust', b'Bandora, B.A.', b'Etsuko, Nina', b'Hagen, Neena', b'Hagen, Rudolf', b'Shuntaro, Michikusa', b'Bianca']
-animeVoices	[b'\nSakuma, Rei\nJapanese\n', b'\nKonishi, Hiroko\nJapanese\n', b'\nTamagawa, Sakiko\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nKyouda, Hisako\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nTakayama, Minami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTerahigashi, Katsumi\n\nEpisode Director, Storyboard\n\n', b'\nTanaka, Ryou\n\nKey Animation\n\n']
+animePopularity	6252
+animeDescription	A bonus episode about Aika and company moving to a new office. 
+animeRelated	['AIKa']
+animeCharacters	['Sumeragi, Aika', 'Aida, Rion', 'Alexymetalia, Maypia', 'Turbulence, Gust', 'Bandora, B.A.', 'Etsuko, Nina', 'Hagen, Neena', 'Hagen, Rudolf', 'Shuntaro, Michikusa', 'Bianca']
+animeVoices	['Sakuma, Rei', 'Konishi, Hiroko', 'Tamagawa, Sakiko', 'Kosugi, Juurouta', 'Kyouda, Hisako', 'Okamura, Akemi', 'Tanaka, Atsuko', 'Shiozawa, Kaneto', 'Onosaka, Masaya', 'Takayama, Minami']
+animeStaff	[['Terahigashi, Katsumi', 'Episode Director, Storyboard'], ['Tanaka, Ryou', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Oh! Super Milk-chan'
-animeType	b'TV'
+animeTitle	Oh! Super Milk-chan
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.99
 animeUsers	1914
 animeRank	
-animePopularity	
-animeDescription	"b""Milk-chan is a drooling, potty-mouthed baby who lives in an apartment with an obsolete robot named Tetsuko, a slug named Hanage, and an uncontrollable pet named Robodog. Whenever the President calls, Milk-chan and the gang rush to the scene to solve any type of problem - whether it's stopping a money counterfeiter hungry for Belgian waffles or counselling a school of drunk fish. At the same time, they have to avoid a nagging landlord, as they're six months behind their rent.\n\n(Source: ANN)"""
-animeRelated	[b'Super Milk-chan', b'Oh! Super Milk-chan Special']
-animeCharacters	[b'Milk Chan, Super', b'President, The', b'Tetsuko', b'Hanage', b'Eyepatch, Dr.', b'No. 1, Robodog', b'Landlord, The']
-animeVoices	[b'\nNakamura, Haruka\nJapanese\n', b'\nCho\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomori, Takahiro\n\nDirector, Key Animation, Chief Animation Director\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nIshihara, Tatsuya\n\nEpisode Director, Storyboard\n\n', b'\nOhata, Kiyotaka\n\nEpisode Director, Storyboard, Assistant Director\n\n']
+animePopularity	7104
+animeDescription	"Milk-chan is a drooling, potty-mouthed baby who lives in an apartment with an obsolete robot named Tetsuko, a slug named Hanage, and an uncontrollable pet named Robodog. Whenever the President calls, Milk-chan and the gang rush to the scene to solve any type of problem - whether it's stopping a money counterfeiter hungry for Belgian waffles or counselling a school of drunk fish. At the same time, they have to avoid a nagging landlord, as they're six months behind their rent.
+
+(Source: ANN)"
+animeRelated	['Super Milk-chan', 'Oh! Super Milk-chan Special']
+animeCharacters	['Milk Chan, Super', 'President, The', 'Tetsuko', 'Hanage', 'Eyepatch, Dr.', 'No. 1, Robodog', 'Landlord, The']
+animeVoices	['Nakamura, Haruka', 'Cho', 'Yuzuki, Ryouka', 'Tobita, Nobuo']
+animeStaff	[['Oomori, Takahiro', 'Director, Key Animation, Chief Animation Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Ishihara, Tatsuya', 'Episode Director, Storyboard'], ['Ohata, Kiyotaka', 'Episode Director, Storyboard, Assistant Director']]

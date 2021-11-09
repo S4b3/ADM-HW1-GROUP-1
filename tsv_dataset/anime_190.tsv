@@ -1,5 +1,5 @@
-animeTitle	b'Major S6'
-animeType	b'TV'
+animeTitle	Major S6
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.35
 animeUsers	32099
 animeRank	
-animePopularity	
-animeDescription	b'The intense Baseball World Cup has reached its conclusion. Gorou Honda has regained his passion for baseball and is once again back in full gear. He has secured a team position with the Hornets and has travelled back to America to prepare for his spectacular debut as a Major League pitcher.\n\nHowever, Gorou encounters a sudden series of unexpected issues and devastating events follow, crushing his motivation and potentially reducing the baseball career that he has worked tirelessly to maintain into crumbs. In the final season of Major, Gorou must yet again overcome immense hardship in order to save his baseball career. This time there is no simple solution, as the problem is deeply rooted within his own mind...\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Major', b'Major S5', b'Major: World Series']
-animeCharacters	[b'Honda, Gorou', b'Satou, Toshiya', b'Shimizu, Kaoru', b'Gibson, Joe', b'Shimizu, Taiga', b'Gibson Jr., Joe', b'Hoshino, Momoko', b'Komori, Daisuke', b'Shigeno, Hideki', b'Sanders']
-animeVoices	[b'\nMorikubo, Shoutarou\nJapanese\n', b'\nMorita, Masakazu\nJapanese\n', b'\nSasamoto, Yuuko\nJapanese\n', b'\nOchiai, Kouji\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nNoda, Junko\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n', b'\nIshii, Kouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFukushima, Toshinori\n\nDirector\n\n', b'\nSuenaga, Mitsuyo\n\nScript\n\n', b'\nFrench Kiss\n\nTheme Song Performance\n\n', b'\nMegamasso\n\nTheme Song Performance\n\n']
+animePopularity	2377
+animeDescription	"The intense Baseball World Cup has reached its conclusion. Gorou Honda has regained his passion for baseball and is once again back in full gear. He has secured a team position with the Hornets and has travelled back to America to prepare for his spectacular debut as a Major League pitcher.
+
+However, Gorou encounters a sudden series of unexpected issues and devastating events follow, crushing his motivation and potentially reducing the baseball career that he has worked tirelessly to maintain into crumbs. In the final season of Major, Gorou must yet again overcome immense hardship in order to save his baseball career. This time there is no simple solution, as the problem is deeply rooted within his own mind...
+
+[Written by MAL Rewrite]"
+animeRelated	['Major', 'Major S5', 'Major: World Series']
+animeCharacters	['Honda, Gorou', 'Satou, Toshiya', 'Shimizu, Kaoru', 'Gibson, Joe', 'Shimizu, Taiga', 'Gibson Jr., Joe', 'Hoshino, Momoko', 'Komori, Daisuke', 'Shigeno, Hideki', 'Sanders']
+animeVoices	['Morikubo, Shoutarou', 'Morita, Masakazu', 'Sasamoto, Yuuko', 'Ochiai, Kouji', 'Park, Romi', 'Namikawa, Daisuke', 'Noda, Junko', 'Miyata, Kouki', 'Sakuya, Shunsuke', 'Ishii, Kouji']
+animeStaff	[['Fukushima, Toshinori', 'Director'], ['Suenaga, Mitsuyo', 'Script'], ['French Kiss', 'Theme Song Performance'], ['Megamasso', 'Theme Song Performance']]

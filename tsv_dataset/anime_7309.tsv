@@ -1,5 +1,5 @@
-animeTitle	b'Yurumates wa?'
-animeType	b'OVA'
+animeTitle	Yurumates wa?
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.28
 animeUsers	1166
 animeRank	
-animePopularity	
-animeDescription	b'Aida Yurume is a ronin student who came to Tokyo to prepare for university entrance exam. But the place was a back district, where the address Tokyo is so ill-fitting. The residents of the apartment are Kawano Sae, a veteran ronin with straight-man character, Tanaka Kumi, an innocent-looking girl and Matsukishi, a young man looking twice as his age. The story depicts their slow and comfortable life of preparing for university.\n\n(Source: AniDB)'
-animeRelated	[b'Yurumates']
-animeCharacters	"[b'Aida, Yurume', b'Matsukichi', b'Tanaka, Kumi', b'Kawano, Sae', b""Sae's Sister""]"
-animeVoices	[b'\nMomoi, Haruko\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nKuwatani, Natsuko\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsukimisato, Tomohiro\n\nDirector, Script\n\n', b'\nsaxyun\n\nOriginal Creator\n\n']
+animePopularity	8868
+animeDescription	"Aida Yurume is a ronin student who came to Tokyo to prepare for university entrance exam. But the place was a back district, where the address Tokyo is so ill-fitting. The residents of the apartment are Kawano Sae, a veteran ronin with straight-man character, Tanaka Kumi, an innocent-looking girl and Matsukishi, a young man looking twice as his age. The story depicts their slow and comfortable life of preparing for university.
+
+(Source: AniDB)"
+animeRelated	['Yurumates']
+animeCharacters	"['Aida, Yurume', 'Matsukichi', 'Tanaka, Kumi', 'Kawano, Sae', ""Sae's Sister""]"
+animeVoices	['Momoi, Haruko', 'Hino, Satoshi', 'Matsuki, Miyu', 'Kuwatani, Natsuko', 'Taketatsu, Ayana']
+animeStaff	[['Tsukimisato, Tomohiro', 'Director, Script'], ['saxyun', 'Original Creator']]

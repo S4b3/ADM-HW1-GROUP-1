@@ -1,5 +1,5 @@
-animeTitle	b'Mahoutsukai Sally (Movie)'
-animeType	b'Movie'
+animeTitle	Mahoutsukai Sally (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.91
 animeUsers	250
 animeRank	
-animePopularity	
-animeDescription	b'This short movie tells the story of Sally, a teenage witch that came to Earth from the Magical Kingdom.\n\nFor some mysterious reason, spring has not started yet. Sally and her friends have to find the cause and fix the problem.\n\n(Source: Fuko Ibuki)'
-animeRelated	[b'Mahoutsukai Sally']
-animeCharacters	[b'Yumeno, Sally', b'Poron', b'Hermes', b'Hanamura, Yoshiko']
-animeVoices	[b'\nYamamoto, Yuriko\nJapanese\n', b'\nIchiryuusai, Teiyuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKasai, Osamu\n\nDirector\n\n', b'\nAsakawa, Hiroko\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nShiramine, Mitsuko\n\nTheme Song Lyrics\n\n', b'\nYokoyama, Mitsuteru\n\nOriginal Creator\n\n']
+animePopularity	12195
+animeDescription	"This short movie tells the story of Sally, a teenage witch that came to Earth from the Magical Kingdom.
+
+For some mysterious reason, spring has not started yet. Sally and her friends have to find the cause and fix the problem.
+
+(Source: Fuko Ibuki)"
+animeRelated	['Mahoutsukai Sally']
+animeCharacters	['Yumeno, Sally', 'Poron', 'Hermes', 'Hanamura, Yoshiko']
+animeVoices	['Yamamoto, Yuriko', 'Ichiryuusai, Teiyuu']
+animeStaff	[['Kasai, Osamu', 'Director'], ['Asakawa, Hiroko', 'Theme Song Performance, Inserted Song Performance'], ['Shiramine, Mitsuko', 'Theme Song Lyrics'], ['Yokoyama, Mitsuteru', 'Original Creator']]

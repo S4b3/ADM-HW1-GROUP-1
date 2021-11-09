@@ -1,5 +1,5 @@
-animeTitle	b'Black Clover: Jump Festa 2016 Special'
-animeType	b'OVA'
+animeTitle	Black Clover: Jump Festa 2016 Special
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.75
 animeUsers	15953
 animeRank	
-animePopularity	
-animeDescription	b'An OVA episode bundled with the 11th manga volume.'
-animeRelated	[b'Black Clover']
-animeCharacters	[b'Asta', b'Yuno', b'Aquaria, Lily', b'Mars', b'Salik, Revchi', b'Narrator', b'Aruru', b'Orfai, Orsi', b'Nash', b'Recca']
-animeVoices	[b'\nHorie, Shun\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nAoyama, Yutaka\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nYamamoto, Nozomi\nJapanese\n', b'\nUeda, Youji\nJapanese\n', b'\nIshigami, Shizuka\nJapanese\n', b'\nOogame, Asuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNoto, Takashi\n\nDirector\n\n', b'\nangela\n\nTheme Song Performance\n\n', b'\nTabata, Yuuki\n\nOriginal Creator\n\n', b'\nMori, Yuya\n\nMusic\n\n']
+animePopularity	3059
+animeDescription	An OVA episode bundled with the 11th manga volume.
+animeRelated	['Black Clover']
+animeCharacters	['Asta', 'Yuno', 'Aquaria, Lily', 'Mars', 'Salik, Revchi', 'Narrator', 'Aruru', 'Orfai, Orsi', 'Nash', 'Recca']
+animeVoices	['Horie, Shun', 'Saitou, Souma', 'Kayano, Ai', 'Ishikawa, Kaito', 'Aoyama, Yutaka', 'Ishizuka, Unshou', 'Yamamoto, Nozomi', 'Ueda, Youji', 'Ishigami, Shizuka', 'Oogame, Asuka']
+animeStaff	[['Noto, Takashi', 'Director'], ['angela', 'Theme Song Performance'], ['Tabata, Yuuki', 'Original Creator'], ['Mori, Yuya', 'Music']]

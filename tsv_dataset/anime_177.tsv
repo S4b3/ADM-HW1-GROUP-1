@@ -1,5 +1,5 @@
-animeTitle	b'Hellsing Ultimate'
-animeType	b'OVA'
+animeTitle	Hellsing Ultimate
+animeType	OVA
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.37
 animeUsers	387946
 animeRank	
-animePopularity	
-animeDescription	"b""There exist creatures of darkness and evil that plague the night, devouring any human unfortunate enough to be caught in their grasp. On the other side is Hellsing, an organization dedicated to destroying these supernatural forces that threaten the very existence of humanity. At its head is Integra Fairbrook Wingates Hellsing, who commands a powerful military and spends her life fighting the undead.\n\nIntegra's vast army, however, pales in comparison with her ultimate weapon: the vampire Alucard, who works against his own kind as an exterminator for Hellsing. With his new vampire servant, Seras Victoria, at his side, Alucard must battle not only monsters, but all those who stand to oppose Hellsing, be they in the guise of good or evil.\n\nIn a battle for mankind's survival, Hellsing Ultimate proves that appearances are not all they may seem, and sometimes the greatest weapon can come in the form of one's worst nightmare.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Hellsing', b'Hellsing: Digest for Freaks', b'Hellsing: The Dawn']
-animeCharacters	[b'Alucard', b'Victoria, Seras', b'Fairbrook Wingates Hellsing, Integra', b'Anderson, Alexander', b'Bernadotte, Pip', b'Dornez, Walter C.', b'Major', b'Schr\xc3\xb6dinger', b'Van Winkle, Rip', b'Shousa']
-animeVoices	[b'\nNakata, Jouji\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTonokatsu, Hideki\n\nCo-Director\n\n', b'\nUeda, Yasuyuki\n\nProducer\n\n', b'\nTokoro, Tomokazu\n\nDirector\n\n', b'\nTanaka, Hiroyuki\n\nDirector, Episode Director\n\n']
+animePopularity	157
+animeDescription	"There exist creatures of darkness and evil that plague the night, devouring any human unfortunate enough to be caught in their grasp. On the other side is Hellsing, an organization dedicated to destroying these supernatural forces that threaten the very existence of humanity. At its head is Integra Fairbrook Wingates Hellsing, who commands a powerful military and spends her life fighting the undead.
+
+Integra's vast army, however, pales in comparison with her ultimate weapon: the vampire Alucard, who works against his own kind as an exterminator for Hellsing. With his new vampire servant, Seras Victoria, at his side, Alucard must battle not only monsters, but all those who stand to oppose Hellsing, be they in the guise of good or evil.
+
+In a battle for mankind's survival, Hellsing Ultimate proves that appearances are not all they may seem, and sometimes the greatest weapon can come in the form of one's worst nightmare.
+
+[Written by MAL Rewrite]"
+animeRelated	['Hellsing', 'Hellsing: Digest for Freaks', 'Hellsing: The Dawn']
+animeCharacters	['Alucard', 'Victoria, Seras', 'Fairbrook Wingates Hellsing, Integra', 'Anderson, Alexander', 'Bernadotte, Pip', 'Dornez, Walter C.', 'Major', 'Schrödinger', 'Van Winkle, Rip', 'Shousa']
+animeVoices	['Nakata, Jouji', 'Orikasa, Fumiko', 'Mizuhashi, Kaori', 'Wakamoto, Norio', 'Hirata, Hiroaki', 'Park, Romi', 'Tobita, Nobuo', 'Shiraishi, Ryouko', 'Sakamoto, Maaya']
+animeStaff	[['Tonokatsu, Hideki', 'Co-Director'], ['Ueda, Yasuyuki', 'Producer'], ['Tokoro, Tomokazu', 'Director'], ['Tanaka, Hiroyuki', 'Director, Episode Director']]

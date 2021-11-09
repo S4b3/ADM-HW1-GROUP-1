@@ -1,5 +1,5 @@
-animeTitle	b'Bakuman.'
-animeType	b'TV'
+animeTitle	Bakuman.
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.21
 animeUsers	254873
 animeRank	
-animePopularity	
-animeDescription	"b""As a child, Moritaka Mashiro dreamt of becoming a mangaka, just like his childhood hero and uncle, Tarou Kawaguchi, creator of a popular gag manga. But when tragedy strikes, he gives up on his dream and spends his middle school days studying, aiming to become a salaryman instead.\n\nOne day, his classmate Akito Takagi, the school's top student and aspiring writer, notices the detailed drawings in Moritaka's notebook. Seeing the vast potential of his artistic talent, Akito approaches Moritaka, proposing that they become mangaka together. After much convincing, Moritaka realizes that if he is able to create a popular manga series, he may be able to get the girl he has a crush on, Miho Azuki, to take part in the anime adaptation as a voice actor. Thus the pair begins creating manga under the pen name Muto Ashirogi, hoping to become the greatest mangaka in Japan, the likes of which no one has ever seen.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Bakuman.', b'Bakuman. 2nd Season', b'Bakuman.: Deraman.']
-animeCharacters	[b'Mashiro, Moritaka', b'Takagi, Akito', b'Niizuma, Eiji', b'Hiramaru, Kazuya', b'Azuki, Miho', b'Fukuda, Shinta', b'Hattori, Akira', b'Miyoshi, Kaya', b'Yoshida, Kouji', b'Aoki, Yuriko']
-animeVoices	[b'\nAbe, Atsushi\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nMorita, Masakazu\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nTone, Kentarou\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKasai, Kenichi\n\nDirector, Storyboard\n\n', b'\nAkitaya, Noriaki\n\nDirector, Episode Director, Storyboard\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nHashimoto, Hiroyuki\n\nEpisode Director, Storyboard, Key Animation\n\n']
+animePopularity	289
+animeDescription	"As a child, Moritaka Mashiro dreamt of becoming a mangaka, just like his childhood hero and uncle, Tarou Kawaguchi, creator of a popular gag manga. But when tragedy strikes, he gives up on his dream and spends his middle school days studying, aiming to become a salaryman instead.
+
+One day, his classmate Akito Takagi, the school's top student and aspiring writer, notices the detailed drawings in Moritaka's notebook. Seeing the vast potential of his artistic talent, Akito approaches Moritaka, proposing that they become mangaka together. After much convincing, Moritaka realizes that if he is able to create a popular manga series, he may be able to get the girl he has a crush on, Miho Azuki, to take part in the anime adaptation as a voice actor. Thus the pair begins creating manga under the pen name Muto Ashirogi, hoping to become the greatest mangaka in Japan, the likes of which no one has ever seen.
+
+[Written by MAL Rewrite]"
+animeRelated	['Bakuman.', 'Bakuman. 2nd Season', 'Bakuman.: Deraman.']
+animeCharacters	['Mashiro, Moritaka', 'Takagi, Akito', 'Niizuma, Eiji', 'Hiramaru, Kazuya', 'Azuki, Miho', 'Fukuda, Shinta', 'Hattori, Akira', 'Miyoshi, Kaya', 'Yoshida, Kouji', 'Aoki, Yuriko']
+animeVoices	['Abe, Atsushi', 'Hino, Satoshi', 'Okamoto, Nobuhiko', 'Morita, Masakazu', 'Hayami, Saori', 'Suwabe, Junichi', 'Tone, Kentarou', 'Yahagi, Sayuri', 'Koyasu, Takehito', 'Kawasumi, Ayako']
+animeStaff	[['Kasai, Kenichi', 'Director, Storyboard'], ['Akitaya, Noriaki', 'Director, Episode Director, Storyboard'], ['Watanabe, Jun', 'Sound Director'], ['Hashimoto, Hiroyuki', 'Episode Director, Storyboard, Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Romantica Clock'
-animeType	b'Special'
+animeTitle	Romantica Clock
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	5.71
 animeUsers	6248
 animeRank	
-animePopularity	
-animeDescription	"b""Three episodes aired on TV as part of the Ribon x Oha Suta specials. \n\nAkane: She's beautiful and popular, lively and full of vitality; Aoi: Looks like a small animal but is actually very clever. Who knew that these two very different people were actually... twin siblings?! \n\n(Source: MU) \n\nNote: Episodes were made available on the official stream few days before the official broadcast."""
-animeRelated	[b'Romantica Clock']
-animeCharacters	[b'Kajiya, Akane', b'Kajiya, Aoi', b'Karin']
-animeVoices	[b'\nKayano, Ai\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaki, Youko\n\nOriginal Creator\n\n']
+animePopularity	4835
+animeDescription	"Three episodes aired on TV as part of the Ribon x Oha Suta specials. 
+
+Akane: She's beautiful and popular, lively and full of vitality; Aoi: Looks like a small animal but is actually very clever. Who knew that these two very different people were actually... twin siblings?! 
+
+(Source: MU) 
+
+Note: Episodes were made available on the official stream few days before the official broadcast."
+animeRelated	['Romantica Clock']
+animeCharacters	['Kajiya, Akane', 'Kajiya, Aoi', 'Karin']
+animeVoices	['Kayano, Ai', 'Ishikawa, Kaito']
+animeStaff	[['Maki, Youko', 'Original Creator']]

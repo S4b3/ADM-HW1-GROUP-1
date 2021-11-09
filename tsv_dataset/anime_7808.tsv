@@ -1,5 +1,5 @@
-animeTitle	b'Ojamanga Yamada-kun'
-animeType	b'TV'
+animeTitle	Ojamanga Yamada-kun
+animeType	TV
 animeNumEpisode	103
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.17
 animeUsers	115
 animeRank	
-animePopularity	
-animeDescription	"b'TV anime adaptation of Hisaichi Ishii\'s comedy manga ""Ojamanga Yamada-kun"".'"
-animeRelated	[b'Ojamanga Yamada-kun (Movie)']
-animeCharacters	[b'Sanae']
+animePopularity	12342
+animeDescription	"TV anime adaptation of Hisaichi Ishii's comedy manga ""Ojamanga Yamada-kun""."
+animeRelated	['Ojamanga Yamada-kun (Movie)']
+animeCharacters	['Sanae']
 animeVoices	[]
-animeStaff	"[b'\n\n\n\n\n\n', b'\nMitsunobu, Hiroyoshi\n\nDirector\n\n', b'\nKaneko, Yutaka\n\nScript\n\n', b""\nKoorogi '73\n\nTheme Song Performance, Inserted Song Performance\n\n"", b'\nTakada, Hiroshi\n\nTheme Song Arrangement\n\n']"
+animeStaff	"[['Mitsunobu, Hiroyoshi', 'Director'], ['Kaneko, Yutaka', 'Script'], [""Koorogi '73"", 'Theme Song Performance, Inserted Song Performance'], ['Takada, Hiroshi', 'Theme Song Arrangement']]"

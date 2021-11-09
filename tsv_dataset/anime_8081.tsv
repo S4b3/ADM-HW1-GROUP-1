@@ -1,5 +1,5 @@
-animeTitle	b'Sonic X Pilot'
-animeType	b'Special'
+animeTitle	Sonic X Pilot
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.12
 animeUsers	1836
 animeRank	
-animePopularity	
-animeDescription	b'The original pilot videos for Sonic X.\n\nAn English promotional without humans, and a Japanese closer to the final.'
-animeRelated	[b'Sonic X']
-animeCharacters	[b'Sonic the Hedgehog', b'Shadow the Hedgehog', b'Prower, Miles', b'The Echidna, Knuckles', b'Robotnik, Ivo', b'Rose, Amy']
+animePopularity	7887
+animeDescription	"The original pilot videos for Sonic X.
+
+An English promotional without humans, and a Japanese closer to the final."
+animeRelated	['Sonic X']
+animeCharacters	['Sonic the Hedgehog', 'Shadow the Hedgehog', 'Prower, Miles', 'The Echidna, Knuckles', 'Robotnik, Ivo', 'Rose, Amy']
 animeVoices	[]
 animeStaff	[]

@@ -1,5 +1,5 @@
-animeTitle	b'Senran Kagura Shinovi Master: Tokyo Youma-hen'
-animeType	b'TV'
+animeTitle	Senran Kagura Shinovi Master: Tokyo Youma-hen
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.3
 animeUsers	7467
 animeRank	
-animePopularity	
-animeDescription	"b'Girls study at schools for modern shinobi. They dedicate their entire young lives to learning to become true shinobi, battling each other to polish their skills. And then one day, Asuka, whose grandfather is a legendary shinobi, encounters an ancient evil being named a ""Youma"" in the back alleys of Tokyo at Christmastime. Where there is light, there is shadow. Over 28 of the strongest and most well-endowed ninjas in history, both good and evil, will collide in a battle to determine true justice. And this deadly battle begins... right now.\n\n(Source: Crunchyroll)'"
-animeRelated	[b'Senran Kagura']
-animeCharacters	[b'Asuka', b'Hikage', b'Katsuragi', b'Homura', b'Yagyuu', b'Ikaruga', b'Yumi', b'Hibari', b'Haruka', b'Ryouna']
-animeVoices	[b'\nHarada, Hitomi\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nImai, Asami\nJapanese\n', b'\nHara, Yumi\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nMako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYanagisawa, Tetsuya\n\nDirector\n\n', b'\nMorishita, Hiroto\n\nSound Director\n\n', b'\nAsaoka, Takuya\n\nEpisode Director, Storyboard, Assistant Animation Director, Animation Director\n\n', b'\nAsami, Matsuo\n\nEpisode Director\n\n']
+animePopularity	3051
+animeDescription	"Girls study at schools for modern shinobi. They dedicate their entire young lives to learning to become true shinobi, battling each other to polish their skills. And then one day, Asuka, whose grandfather is a legendary shinobi, encounters an ancient evil being named a ""Youma"" in the back alleys of Tokyo at Christmastime. Where there is light, there is shadow. Over 28 of the strongest and most well-endowed ninjas in history, both good and evil, will collide in a battle to determine true justice. And this deadly battle begins... right now.
+
+(Source: Crunchyroll)"
+animeRelated	['Senran Kagura']
+animeCharacters	['Asuka', 'Hikage', 'Katsuragi', 'Homura', 'Yagyuu', 'Ikaruga', 'Yumi', 'Hibari', 'Haruka', 'Ryouna']
+animeVoices	['Harada, Hitomi', 'Shiraishi, Ryouko', 'Kobayashi, Yuu', 'Kitamura, Eri', 'Mizuhashi, Kaori', 'Imai, Asami', 'Hara, Yumi', 'Iguchi, Yuka', 'Toyoguchi, Megumi', 'Mako']
+animeStaff	[['Yanagisawa, Tetsuya', 'Director'], ['Morishita, Hiroto', 'Sound Director'], ['Asaoka, Takuya', 'Episode Director, Storyboard, Assistant Animation Director, Animation Director'], ['Asami, Matsuo', 'Episode Director']]

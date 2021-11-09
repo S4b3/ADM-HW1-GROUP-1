@@ -1,5 +1,5 @@
-animeTitle	b'One Piece: Straw Hat Theater'
-animeType	b'Special'
+animeTitle	One Piece: Straw Hat Theater
+animeType	Special
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.35
 animeUsers	13593
 animeRank	
-animePopularity	
-animeDescription	"b'Straw Hat Theater is made up of five shorts that aired alongside One Piece episodes 279 through 283 in October 2006. They are based on Oda Eiichiro\'s side comics that were drawn when he was given three sheets of blank paper by his editor and told to draw anything.\n\nThe first short is about Chopper Man infiltrating the lair of the evil Dr. Usodabada. The second short is a news report on what food was like for the Straw Hats before Sanji joined the crew. The third short investigates the hypothetical situation of ""if the Straw Hat Pirates were Obahan, who would be the strongest?"" The fourth short is about the bosses of the Luffione, Zorocia, and Sanjino families fighting for control. In the fifth short, all of the Straw Hats are carefree monsters.'"
-animeRelated	[b'One Piece Log Book Omake', b'One Piece']
-animeCharacters	[b'Monkey D., Luffy', b'Roronoa, Zoro', b'Sanji', b'Nico, Robin', b'Tony Tony, Chopper', b'Usopp', b'Nami', b'Tsubaki', b'Tashigi']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nYamaguchi, Yuriko\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nSonobe, Keiichi\nJapanese\n', b'\nNoda, Junko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOda, Eiichiro\n\nOriginal Creator\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n', b'\nHamaguchi, Shirou\n\nMusic\n\n']
+animePopularity	3544
+animeDescription	"Straw Hat Theater is made up of five shorts that aired alongside One Piece episodes 279 through 283 in October 2006. They are based on Oda Eiichiro's side comics that were drawn when he was given three sheets of blank paper by his editor and told to draw anything.
+
+The first short is about Chopper Man infiltrating the lair of the evil Dr. Usodabada. The second short is a news report on what food was like for the Straw Hats before Sanji joined the crew. The third short investigates the hypothetical situation of ""if the Straw Hat Pirates were Obahan, who would be the strongest?"" The fourth short is about the bosses of the Luffione, Zorocia, and Sanjino families fighting for control. In the fifth short, all of the Straw Hats are carefree monsters."
+animeRelated	['One Piece Log Book Omake', 'One Piece']
+animeCharacters	['Monkey D., Luffy', 'Roronoa, Zoro', 'Sanji', 'Nico, Robin', 'Tony Tony, Chopper', 'Usopp', 'Nami', 'Tsubaki', 'Tashigi']
+animeVoices	['Tanaka, Mayumi', 'Nakai, Kazuya', 'Hirata, Hiroaki', 'Yamaguchi, Yuriko', 'Yamaguchi, Kappei', 'Okamura, Akemi', 'Sonobe, Keiichi', 'Noda, Junko']
+animeStaff	[['Oda, Eiichiro', 'Original Creator'], ['Tanaka, Kouhei', 'Music'], ['Hamaguchi, Shirou', 'Music']]

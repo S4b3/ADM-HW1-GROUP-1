@@ -1,5 +1,5 @@
-animeTitle	b'Hiiro no Kakera: Totsugeki! Tonari no Ikemenzu'
-animeType	b'OVA'
+animeTitle	Hiiro no Kakera: Totsugeki! Tonari no Ikemenzu
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.72
 animeUsers	2432
 animeRank	
-animePopularity	
-animeDescription	"b""Bundled with Hiiro no Kakera Taizen, a comprehensive illustration book on the six-year history of Idea Factory's Hiiro no Kakera romance game franchise, the OVA reveals the private lives of the five main characters."""
-animeRelated	[b'Hiiro no Kakera']
-animeCharacters	[b'Onizaki, Takuma', b'Komura, Yuuichi', b'Atori, Mahiro', b'Oomi, Suguru', b'Inukai, Shinji', b'Takara, Kiyono', b'Kutani, Ryou', b'Ashiya, Masataka']
-animeVoices	[b'\nSugita, Tomokazu\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nOkano, Kousuke\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nShimowada, Hiroki\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nNomiya, Kazunori\nJapanese\n', b'\nNagano, Yoshikazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKazuki, Yone\n\nOriginal Character Design\n\n', b'\nIdea Factory\n\nOriginal Creator\n\n']
+animePopularity	5923
+animeDescription	Bundled with Hiiro no Kakera Taizen, a comprehensive illustration book on the six-year history of Idea Factory's Hiiro no Kakera romance game franchise, the OVA reveals the private lives of the five main characters.
+animeRelated	['Hiiro no Kakera']
+animeCharacters	['Onizaki, Takuma', 'Komura, Yuuichi', 'Atori, Mahiro', 'Oomi, Suguru', 'Inukai, Shinji', 'Takara, Kiyono', 'Kutani, Ryou', 'Ashiya, Masataka']
+animeVoices	['Sugita, Tomokazu', 'Namikawa, Daisuke', 'Okano, Kousuke', 'Hirakawa, Daisuke', 'Shimowada, Hiroki', 'Mimori, Suzuko', 'Nomiya, Kazunori', 'Nagano, Yoshikazu']
+animeStaff	[['Kazuki, Yone', 'Original Character Design'], ['Idea Factory', 'Original Creator']]

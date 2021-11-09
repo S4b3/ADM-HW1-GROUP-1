@@ -1,5 +1,5 @@
-animeTitle	b'Angelium'
-animeType	b'OVA'
+animeTitle	Angelium
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	5.88
 animeUsers	2123
 animeRank	
-animePopularity	
-animeDescription	b'Zeus was an omniscient and omnipotent god who rules Heaven where gods lived. However, he was a pervert who had a wish to flirt with young angels not being known by his wife, Hera. \n\nHe came up with an idea to make use of the promotion examination took place every three years. Three angels, Yu, Miki, and Chado-ko came down to the earth to take the exams. When they began to work as part-time jobs at the flower shop, the severe trials occurred one after another. \n\nZeus was taking care of them secretly. However it\xe2\x80\x99s not from his kindness, but from his pervert desire. But, his activities were known in the lower world... \n\n(Source: AniDB)'
+animePopularity	7082
+animeDescription	"Zeus was an omniscient and omnipotent god who rules Heaven where gods lived. However, he was a pervert who had a wish to flirt with young angels not being known by his wife, Hera. 
+
+He came up with an idea to make use of the promotion examination took place every three years. Three angels, Yu, Miki, and Chado-ko came down to the earth to take the exams. When they began to work as part-time jobs at the flower shop, the severe trials occurred one after another. 
+
+Zeus was taking care of them secretly. However it’s not from his kindness, but from his pervert desire. But, his activities were known in the lower world... 
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Amamiya, Yu', b'Yunaki, Miki', b'Asagiri, Cyadoko', b'Angels, Chief of', b'Oshime', b'Miyashiro', b'Minori', b'Hera', b'Masuda', b'Zeus']
-animeVoices	[b'\nKajita, Yuuki\nJapanese\n', b'\nUchikawa, Ai\nJapanese\n', b'\nSato, Mikako\nJapanese\n', b'\nYajima, Akiko\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nHitomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKume, Issei\n\nDirector, Storyboard\n\n', b'\nAisaka, Naoki\n\nCharacter Design\n\n', b'\nOkazaki, Hideo\n\nDirector of Photography\n\n']
+animeCharacters	['Amamiya, Yu', 'Yunaki, Miki', 'Asagiri, Cyadoko', 'Angels, Chief of', 'Oshime', 'Miyashiro', 'Minori', 'Hera', 'Masuda', 'Zeus']
+animeVoices	['Kajita, Yuuki', 'Uchikawa, Ai', 'Sato, Mikako', 'Yajima, Akiko', 'Kishio, Daisuke', 'Hitomi']
+animeStaff	[['Kume, Issei', 'Director, Storyboard'], ['Aisaka, Naoki', 'Character Design'], ['Okazaki, Hideo', 'Director of Photography']]

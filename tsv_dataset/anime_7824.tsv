@@ -1,5 +1,5 @@
-animeTitle	b'30-sai no Hoken Taiiku Specials'
-animeType	b'Special'
+animeTitle	30-sai no Hoken Taiiku Specials
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,17 @@ animeNumMembers
 animeScore	6.17
 animeUsers	1742
 animeRank	
-animePopularity	
-animeDescription	"b""DVD specials.\n\nEpisode 1 -  \xe6\x9c\x97\xe8\xaa\xad\xe5\xb0\x91\xe5\xb9\xb4 (Lecture Shounen): \nMacaron's special training by Kuu-chan.\n\nEpisode 2 - \xe6\x9c\x97\xe8\xaa\xad\xe5\x85\x84\xe5\xbc\x9f (Lecture brothers): \nMacaron's special training by his brother Daigorou.\n\nEpisode 3 - \xe3\x82\x82\xe3\x81\x86\xe4\xb8\x80\xe3\x81\xa4\xe3\x81\xae\xe3\x82\xa8\xe3\x83\xb3\xe3\x83\x87\xe3\x82\xa3\xe3\x83\xb3\xe3\x82\xb0~\xe5\x9b\x9a\xe3\x82\x8f\xe3\x82\x8c\xe3\x81\xae\xe5\xae\x89\xe8\x97\xa4\xe3\x81\xaa\xe3\x81\xa4~ (Another ending ~ Natsu Andou's imprisonment):"""
-animeRelated	[b'30-sai no Hoken Taiiku']
-animeCharacters	[b'Macaron', b'Daigorou']
+animePopularity	6564
+animeDescription	"DVD specials.
+
+Episode 1 -  朗読少年 (Lecture Shounen): 
+Macaron's special training by Kuu-chan.
+
+Episode 2 - 朗読兄弟 (Lecture brothers): 
+Macaron's special training by his brother Daigorou.
+
+Episode 3 - もう一つのエンディング~囚われの安藤なつ~ (Another ending ~ Natsu Andou's imprisonment):"
+animeRelated	['30-sai no Hoken Taiiku']
+animeCharacters	['Macaron', 'Daigorou']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMankyuu\n\nDirector\n\n']
+animeStaff	[['Mankyuu', 'Director']]

@@ -1,5 +1,5 @@
-animeTitle	"b""Detective Conan OVA 08: High School Girl Detective Sonoko Suzuki's Case Files"""
-animeType	b'OVA'
+animeTitle	Detective Conan OVA 08: High School Girl Detective Sonoko Suzuki's Case Files
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.21
 animeUsers	5680
 animeRank	
-animePopularity	
-animeDescription	"b""Sonoko is writing a script for a play. In her script, there's a murder case, and high-school detective Suzuki Sonoko is there to help solve it. Haibara finds flaws in the deduction section of the plot, and Ran decides to call Shinichi for help with the script.\n\n(Source: Wikipedia, edited)"""
-animeRelated	[b'Detective Conan']
-animeCharacters	[b'Edogawa, Conan', b'Haibara, Ai', b'Mouri, Ran', b'Yoshida, Ayumi', b'Suzuki, Sonoko', b'Tsuburaya, Mitsuhiko', b'Kojima, Genta', b'Mouri, Kogorou', b'Takagi, Wataru', b'Megure, Juuzou']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nIwai, Yukiko\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nChafurin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nU-ka Saegusa in db\n\nTheme Song Performance, Theme Song Lyrics, Theme Song Composition\n\n', b'\nAoyama, Gosho\n\nOriginal Creator\n\n', b'\nYokoyama, Masakazu\n\nSound Effects\n\n']
+animePopularity	5018
+animeDescription	"Sonoko is writing a script for a play. In her script, there's a murder case, and high-school detective Suzuki Sonoko is there to help solve it. Haibara finds flaws in the deduction section of the plot, and Ran decides to call Shinichi for help with the script.
+
+(Source: Wikipedia, edited)"
+animeRelated	['Detective Conan']
+animeCharacters	['Edogawa, Conan', 'Haibara, Ai', 'Mouri, Ran', 'Yoshida, Ayumi', 'Suzuki, Sonoko', 'Tsuburaya, Mitsuhiko', 'Kojima, Genta', 'Mouri, Kogorou', 'Takagi, Wataru', 'Megure, Juuzou']
+animeVoices	['Takayama, Minami', 'Hayashibara, Megumi', 'Yamazaki, Wakana', 'Iwai, Yukiko', 'Matsui, Naoko', 'Ootani, Ikue', 'Takagi, Wataru', 'Kamiya, Akira', 'Chafurin']
+animeStaff	[['U-ka Saegusa in db', 'Theme Song Performance, Theme Song Lyrics, Theme Song Composition'], ['Aoyama, Gosho', 'Original Creator'], ['Yokoyama, Masakazu', 'Sound Effects']]

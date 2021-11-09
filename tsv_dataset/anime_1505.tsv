@@ -1,5 +1,5 @@
-animeTitle	b'Sengoku Basara Ni'
-animeType	b'TV'
+animeTitle	Sengoku Basara Ni
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.54
 animeUsers	29853
 animeRank	
-animePopularity	
-animeDescription	"b""The deadly confrontation with the Devil King, Oda Nobunaga is over, but the struggle for supremacy continues in Warring Countries-era Japan, as the armies of Takeda Shingen and Uesugi Kenshin repeatedly engage battle at Kawanakajima.\n\nMeanwhile, on the easternmost side of the battlefield, two outstanding characters bound by destiny\xe2\x80\x94one clad in azure and the other in crimson\xe2\x80\x94are about to clash in a long-awaited, decisive duel.\n\nThen a sudden dispatch informs that a huge army has surrounded the forces of Takeda, Uesugi and Date at Kakanakajima. Their leader is Toyotomi Hideyoshi, the man who inherited Nobunaga's dreams and ambitions, and who is now going to bring havoc over Japan once again!\n\n(Source: Production I.G)"""
-animeRelated	[b'Sengoku Basara Ranse Ranbu', b'Sengoku Basara', b'Mini Sengoku Basara Two: Tsukiyo no Katakura-kun', b'Sengoku Basara Two: Ryuko, Itadaki no Chikai! Atsuki Mirai e Kakeru Tamashii!!', b'Sengoku Basara Movie: The Last Party']
-animeCharacters	[b'Date, Masamune', b'Sanada, Yukimura', b'Maeda, Keiji', b'Chousokabe, Motochika', b'Katakura, Kojuurou', b'Sarutobi, Sasuke', b'Ishida, Mitsunari', b'Mouri, Motonari', b'Oda, Nobunaga', b'Tokugawa, Ieyasu']
-animeVoices	[b'\nNakai, Kazuya\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nMorita, Masakazu\nJapanese\n', b'\nIshino, Ryuuzou\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nNakahara, Shigeru\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWada, Jouji\n\nProducer\n\n', b'\nNozaki, Keiichi\n\nProducer\n\n', b'\nNakatake, Tetsuya\n\nProducer\n\n', b'\nNomura, Kazuya\n\nDirector, Episode Director, Storyboard\n\n']
+animePopularity	2181
+animeDescription	"The deadly confrontation with the Devil King, Oda Nobunaga is over, but the struggle for supremacy continues in Warring Countries-era Japan, as the armies of Takeda Shingen and Uesugi Kenshin repeatedly engage battle at Kawanakajima.
+
+Meanwhile, on the easternmost side of the battlefield, two outstanding characters bound by destiny—one clad in azure and the other in crimson—are about to clash in a long-awaited, decisive duel.
+
+Then a sudden dispatch informs that a huge army has surrounded the forces of Takeda, Uesugi and Date at Kakanakajima. Their leader is Toyotomi Hideyoshi, the man who inherited Nobunaga's dreams and ambitions, and who is now going to bring havoc over Japan once again!
+
+(Source: Production I.G)"
+animeRelated	['Sengoku Basara Ranse Ranbu', 'Sengoku Basara', 'Mini Sengoku Basara Two: Tsukiyo no Katakura-kun', 'Sengoku Basara Two: Ryuko, Itadaki no Chikai! Atsuki Mirai e Kakeru Tamashii!!', 'Sengoku Basara Movie: The Last Party']
+animeCharacters	['Date, Masamune', 'Sanada, Yukimura', 'Maeda, Keiji', 'Chousokabe, Motochika', 'Katakura, Kojuurou', 'Sarutobi, Sasuke', 'Ishida, Mitsunari', 'Mouri, Motonari', 'Oda, Nobunaga', 'Tokugawa, Ieyasu']
+animeVoices	['Nakai, Kazuya', 'Hoshi, Souichirou', 'Morita, Masakazu', 'Ishino, Ryuuzou', 'Morikawa, Toshiyuki', 'Koyasu, Takehito', 'Seki, Tomokazu', 'Nakahara, Shigeru', 'Wakamoto, Norio', 'Ookawa, Tooru']
+animeStaff	[['Wada, Jouji', 'Producer'], ['Nozaki, Keiichi', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Nomura, Kazuya', 'Director, Episode Director, Storyboard']]

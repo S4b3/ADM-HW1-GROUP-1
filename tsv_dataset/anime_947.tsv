@@ -1,5 +1,5 @@
-animeTitle	b'Tantei Gakuen Q'
-animeType	b'TV'
+animeTitle	Tantei Gakuen Q
+animeType	TV
 animeNumEpisode	45
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.75
 animeUsers	12166
 animeRank	
-animePopularity	
-animeDescription	b'Kyuu is your average boy with a knack for logic and reasoning. Desiring to become a detective, he finds out about the existence of the Dan Detective School (DDS); a famed school where students are allowed to bear arms. Together with Megu, a girl with photographic memory, the martial arts master Kinta, the genius programmer Kazuma and the mysterious Ryuu, Kyuu tackles many well planned out crimes, always seeking the truth.'
-animeRelated	[b'Tantei Gakuen Q']
-animeCharacters	[b'Amakusa, Ryuu', b'Renjo, Kyuu', b'Minami, Megumi', b'Tooyama, Kintarou', b'Narusawa, Kazuma', b'Yukihira, Sakurako', b'Dan, Morihiko', b'Shigeta, Kumi', b'Nanami, Koutarou', b'Fuuma, Mio']
-animeVoices	[b'\nToochika, Kouichi\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nIshikawa, Hideo\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nSakuma, Kumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAbe, Noriyuki\n\nDirector, Episode Director, Storyboard\n\n', b'\nKuzuya, Naoyuki\n\nEpisode Director\n\n', b'\nNoshitani, Mitsutaka\n\nEpisode Director\n\n', b'\nTokairin, Shinichi\n\nEpisode Director\n\n']
+animePopularity	3243
+animeDescription	Kyuu is your average boy with a knack for logic and reasoning. Desiring to become a detective, he finds out about the existence of the Dan Detective School (DDS); a famed school where students are allowed to bear arms. Together with Megu, a girl with photographic memory, the martial arts master Kinta, the genius programmer Kazuma and the mysterious Ryuu, Kyuu tackles many well planned out crimes, always seeking the truth.
+animeRelated	['Tantei Gakuen Q']
+animeCharacters	['Amakusa, Ryuu', 'Renjo, Kyuu', 'Minami, Megumi', 'Tooyama, Kintarou', 'Narusawa, Kazuma', 'Yukihira, Sakurako', 'Dan, Morihiko', 'Shigeta, Kumi', 'Nanami, Koutarou', 'Fuuma, Mio']
+animeVoices	['Toochika, Kouichi', 'Ogata, Megumi', 'Kuwashima, Houko', 'Ishikawa, Hideo', 'Kawakami, Tomoko', 'Yukino, Satsuki', 'Tanaka, Hideyuki', 'Hayashibara, Megumi', 'Miki, Shinichiro', 'Sakuma, Kumi']
+animeStaff	[['Abe, Noriyuki', 'Director, Episode Director, Storyboard'], ['Kuzuya, Naoyuki', 'Episode Director'], ['Noshitani, Mitsutaka', 'Episode Director'], ['Tokairin, Shinichi', 'Episode Director']]

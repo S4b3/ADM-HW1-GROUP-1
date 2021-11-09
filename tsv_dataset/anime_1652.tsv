@@ -1,5 +1,5 @@
-animeTitle	b'One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura'
-animeType	b'Movie'
+animeTitle	One Piece Movie 9: Episode of Chopper Plus - Fuyu ni Saku, Kiseki no Sakura
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.49
 animeUsers	28216
 animeRank	
-animePopularity	
-animeDescription	"b""The movie is a retelling of the Drum Island arc with new music and animation. Vivi has been removed from the plot while both Nico Robin and Franky, who joined the crew after the Drum Island arc, have been added. The movie also has the Straw Hat's new ship, the Thousand Sunny. It has been stated that Oda will be creating a new character for this movie, Wapol's older brother, Mushul, who also appears to be a Devil Fruit user. \n\n(Source: Wikipedia) """
-animeRelated	[b'One Piece', b'One Piece: Cry Heart']
-animeCharacters	[b'Monkey D., Luffy', b'Sanji', b'Tony Tony, Chopper', b'Nami', b'Hiluluk', b'Kureha', b'Wapol', b'Musshuru', b'Roronoa, Zoro', b'Nico, Robin']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nUshiyama, Shigeru\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nShimada, Bin\nJapanese\n', b'\nMino, Monta\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nYamaguchi, Yuriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimizu, Junji\n\nDirector, Storyboard\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nOda, Eiichiro\n\nOriginal Creator\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n']
+animePopularity	2413
+animeDescription	"The movie is a retelling of the Drum Island arc with new music and animation. Vivi has been removed from the plot while both Nico Robin and Franky, who joined the crew after the Drum Island arc, have been added. The movie also has the Straw Hat's new ship, the Thousand Sunny. It has been stated that Oda will be creating a new character for this movie, Wapol's older brother, Mushul, who also appears to be a Devil Fruit user. 
+
+(Source: Wikipedia) "
+animeRelated	['One Piece', 'One Piece: Cry Heart']
+animeCharacters	['Monkey D., Luffy', 'Sanji', 'Tony Tony, Chopper', 'Nami', 'Hiluluk', 'Kureha', 'Wapol', 'Musshuru', 'Roronoa, Zoro', 'Nico, Robin']
+animeVoices	['Tanaka, Mayumi', 'Hirata, Hiroaki', 'Ootani, Ikue', 'Okamura, Akemi', 'Ushiyama, Shigeru', 'Nozawa, Masako', 'Shimada, Bin', 'Mino, Monta', 'Nakai, Kazuya', 'Yamaguchi, Yuriko']
+animeStaff	[['Shimizu, Junji', 'Director, Storyboard'], ['Nagasaki, Yukio', 'Sound Director'], ['Oda, Eiichiro', 'Original Creator'], ['Tanaka, Kouhei', 'Music']]

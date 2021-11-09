@@ -1,5 +1,5 @@
-animeTitle	b'Kinnikuman: Kessen! Shichinin no Choujin tai Uchuu Nobushi'
-animeType	b'Special'
+animeTitle	Kinnikuman: Kessen! Shichinin no Choujin tai Uchuu Nobushi
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.3
 animeUsers	248
 animeRank	
-animePopularity	
-animeDescription	b'A TV Special first aired in 1984. It covers the Planet Rakka story arc and takes place after the 21st Choujin Olympics Arc. A young boy from Planet Rakka named Beansman asks Kinnikuman and the others to help save his planet from the Space Samurais led by Black King. The story was a parody of The Seven Samurai.\n\n(Source: Kinnikuman Wiki)'
-animeRelated	[b'Kinnikuman']
-animeCharacters	[b'Kinniku, Suguru', b'Robin Mask', b'Ramenman, Victory', b'Warsman', b'Brocken Jr.', b'Terryman', b'Black Sumoman', b'Kinkotsuman', b'Iwao', b'Yosaku']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nKanie, Eiji\nJapanese\n', b'\nTanaka, Ryouichi\nJapanese\n', b'\nMizutori, Tetsuo\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nKitagawa, Yonehiko\nJapanese\n', b'\nFutamata, Issei\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTamiya, Takeshi\n\nProducer\n\n', b'\nYamayoshi, Yasuo\n\nDirector, Storyboard\n\n', b'\nYudetamago\n\nOriginal Creator\n\n']
+animePopularity	11524
+animeDescription	"A TV Special first aired in 1984. It covers the Planet Rakka story arc and takes place after the 21st Choujin Olympics Arc. A young boy from Planet Rakka named Beansman asks Kinnikuman and the others to help save his planet from the Space Samurais led by Black King. The story was a parody of The Seven Samurai.
+
+(Source: Kinnikuman Wiki)"
+animeRelated	['Kinnikuman']
+animeCharacters	['Kinniku, Suguru', 'Robin Mask', 'Ramenman, Victory', 'Warsman', 'Brocken Jr.', 'Terryman', 'Black Sumoman', 'Kinkotsuman', 'Iwao', 'Yosaku']
+animeVoices	['Kamiya, Akira', 'Gouri, Daisuke', 'Kanie, Eiji', 'Tanaka, Ryouichi', 'Mizutori, Tetsuo', 'Tanaka, Hideyuki', 'Kitagawa, Yonehiko', 'Futamata, Issei', 'Satou, Masaharu']
+animeStaff	[['Tamiya, Takeshi', 'Producer'], ['Yamayoshi, Yasuo', 'Director, Storyboard'], ['Yudetamago', 'Original Creator']]

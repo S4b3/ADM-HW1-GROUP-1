@@ -1,5 +1,5 @@
-animeTitle	b'Maid Ane'
-animeType	b'OVA'
+animeTitle	Maid Ane
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.12
 animeUsers	1240
 animeRank	
-animePopularity	
-animeDescription	b'One day Yuuta comes home to find his childhood friend Akie has returned to his country village. Akie works as a maid in Tokyo and Yuuta begins thinking of her in a whole different light.\n\n(Source: ANN)'
-animeRelated	[b'Maid Ane']
-animeCharacters	[b'Akie', b'Yuuta']
+animePopularity	8070
+animeDescription	"One day Yuuta comes home to find his childhood friend Akie has returned to his country village. Akie works as a maid in Tokyo and Yuuta begins thinking of her in a whole different light.
+
+(Source: ANN)"
+animeRelated	['Maid Ane']
+animeCharacters	['Akie', 'Yuuta']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaguro, Teikoku\n\nOriginal Creator\n\n', b'\nTsubone, Kentarou\n\nEditing\n\n']
+animeStaff	[['Maguro, Teikoku', 'Original Creator'], ['Tsubone, Kentarou', 'Editing']]

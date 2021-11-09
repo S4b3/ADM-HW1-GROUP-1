@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: Lupin Ansatsu Shirei'
-animeType	b'Special'
+animeTitle	Lupin III: Lupin Ansatsu Shirei
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.94
 animeUsers	2654
 animeRank	
-animePopularity	
-animeDescription	b'Inspector Zenigata has been removed from the Lupin case which leaves him despondent, and he ends up drinking with Lupin & Jigen. Lupin decides that he and his gang should work with Zenigata to solve his new case, investigating a group of arms dealers known as Shot Shell. Lupin gathers his partners together (Jigen, Goemon, & Fujiko), and with Zenegata they steal a Russian submarine. They kidnap a scientist named Karen Korinsky to help them operate the sub, and also to protect her from Shot Shell. Meanwhile the ICPO assigns a man named Keith Hayden to the Lupin case, and unlike Zenigata he wants Lupin and his group dead. Where ever Lupin and friends go, Keith follows, as the officer attempts to pick them off one by one. \n\n(Source: ANN)'
-animeRelated	[b'Lupin III']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi', b'Korinsky, Karen', b'Klause, John', b'Hayden, Keith', b'Brad']
-animeVoices	[b'\nYamada, Yasuo\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nNaya, Gorou\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nNozawa, Nachi\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nGinga, Banjou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSabat, Christopher\n\nProducer\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nOosumi, Masaaki\n\nDirector\n\n', b'\nOkuwaki, Masaharu\n\nStoryboard\n\n']
+animePopularity	6323
+animeDescription	"Inspector Zenigata has been removed from the Lupin case which leaves him despondent, and he ends up drinking with Lupin & Jigen. Lupin decides that he and his gang should work with Zenigata to solve his new case, investigating a group of arms dealers known as Shot Shell. Lupin gathers his partners together (Jigen, Goemon, & Fujiko), and with Zenegata they steal a Russian submarine. They kidnap a scientist named Karen Korinsky to help them operate the sub, and also to protect her from Shot Shell. Meanwhile the ICPO assigns a man named Keith Hayden to the Lupin case, and unlike Zenigata he wants Lupin and his group dead. Where ever Lupin and friends go, Keith follows, as the officer attempts to pick them off one by one. 
+
+(Source: ANN)"
+animeRelated	['Lupin III']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Korinsky, Karen', 'Klause, John', 'Hayden, Keith', 'Brad']
+animeVoices	['Yamada, Yasuo', 'Kobayashi, Kiyoshi', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou', 'Tanaka, Atsuko', 'Nozawa, Nachi', 'Ishizuka, Unshou', 'Ginga, Banjou']
+animeStaff	[['Sabat, Christopher', 'Producer'], ['Watson, Barry', 'Producer'], ['Oosumi, Masaaki', 'Director'], ['Okuwaki, Masaharu', 'Storyboard']]

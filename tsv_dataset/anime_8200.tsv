@@ -1,5 +1,5 @@
-animeTitle	b'Poputepipikku Specials'
-animeType	b'Special'
+animeTitle	Poputepipikku Specials
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.09
 animeUsers	434
 animeRank	
-animePopularity	
-animeDescription	b'Specials included in the Blu-ray and DVD releases of Poputepipikku.'
-animeRelated	[b'Poputepipikku', b'Bobunemimimmi Specials']
-animeCharacters	[b'Popuko', b'Pipimi']
+animePopularity	9774
+animeDescription	Specials included in the Blu-ray and DVD releases of Poputepipikku.
+animeRelated	['Poputepipikku', 'Bobunemimimmi Specials']
+animeCharacters	['Popuko', 'Pipimi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOokawa, bkub\n\nOriginal Creator\n\n']
+animeStaff	[['Ookawa, bkub', 'Original Creator']]

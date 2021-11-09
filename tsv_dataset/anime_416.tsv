@@ -1,5 +1,5 @@
-animeTitle	b'Tsubasa: Shunraiki'
-animeType	b'OVA'
+animeTitle	Tsubasa: Shunraiki
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	8.11
 animeUsers	27752
 animeRank	
-animePopularity	
-animeDescription	b'Tsubasa/xxxHOLiC Project\n\nA 4 part OVA released with the limited editions of the Tsubasa and xxxHOLiC volumes.\nThere are two OVAs for each series, with plots linked together.\n\nThey cover the Nihon Country Arc and scarcely some of the Celes Country Arc.\n\n(Source: Official Project Website)'
-animeRelated	[b'Tsubasa: RESERVoir CHRoNiCLE', b'Tsubasa: Tokyo Revelations', b'xxxHOLiC Shunmuki']
-animeCharacters	[b'Flourite, Fai D.', b'Syaoran', b'Sakura', b'Kurogane', b'Li, Syaoran', b'Modoki, Mokona', b'Ichihara, Yuuko', b'Watanuki, Kimihiro', b'Sakurazuka, Seishirou']
-animeVoices	[b'\nNamikawa, Daisuke\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nMakino, Yui\nJapanese\n', b'\nInada, Tetsu\nJapanese\n', b'\nKikuchi, Mika\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuroki, Rui\n\nProducer\n\n', b'\nTada, Shunsuke\n\nDirector, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nOhkawa, Nanase\n\nScript\n\n']
+animePopularity	2308
+animeDescription	"Tsubasa/xxxHOLiC Project
+
+A 4 part OVA released with the limited editions of the Tsubasa and xxxHOLiC volumes.
+There are two OVAs for each series, with plots linked together.
+
+They cover the Nihon Country Arc and scarcely some of the Celes Country Arc.
+
+(Source: Official Project Website)"
+animeRelated	['Tsubasa: RESERVoir CHRoNiCLE', 'Tsubasa: Tokyo Revelations', 'xxxHOLiC Shunmuki']
+animeCharacters	['Flourite, Fai D.', 'Syaoran', 'Sakura', 'Kurogane', 'Li, Syaoran', 'Modoki, Mokona', 'Ichihara, Yuuko', 'Watanuki, Kimihiro', 'Sakurazuka, Seishirou']
+animeVoices	['Namikawa, Daisuke', 'Irino, Miyu', 'Makino, Yui', 'Inada, Tetsu', 'Kikuchi, Mika', 'Ohara, Sayaka', 'Fukuyama, Jun', 'Touchi, Hiroki']
+animeStaff	[['Kuroki, Rui', 'Producer'], ['Tada, Shunsuke', 'Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Ohkawa, Nanase', 'Script']]

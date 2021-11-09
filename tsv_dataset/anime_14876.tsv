@@ -1,5 +1,5 @@
-animeTitle	b'Ashita no Kibou: Kanashimi yo Arigatou - Takae Tsuneo Monogatari'
-animeType	b'Movie'
+animeTitle	Ashita no Kibou: Kanashimi yo Arigatou - Takae Tsuneo Monogatari
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'An animated biographical film about the life of Takae Tsuneo, who was dealt a heavy blow when he lost both of his arms but worked to help other people with disabilities. \nAt the age of seventeen, Tsuneo is electrocuted during his job installing power lines and has both of his arms amputated. However, he decides to devote his life to poetry and literature, and begins to practice writing by holding a pen with his mouth. He eventually gets a job as a newspaper reporter, and turns his attention to other people dealing with disabilities.\n\n(Source: Japanese Film Database)'
+animePopularity	13826
+animeDescription	"An animated biographical film about the life of Takae Tsuneo, who was dealt a heavy blow when he lost both of his arms but worked to help other people with disabilities. 
+At the age of seventeen, Tsuneo is electrocuted during his job installing power lines and has both of his arms amputated. However, he decides to devote his life to poetry and literature, and begins to practice writing by holding a pen with his mouth. He eventually gets a job as a newspaper reporter, and turns his attention to other people dealing with disabilities.
+
+(Source: Japanese Film Database)"
 animeRelated	[]
-animeCharacters	"[b'Takae, Tsuneo', b'Secretary Yamada', b""Kouhei's Mother"", b'Takae, Mihoko', b'Narrator']"
-animeVoices	[b'\nMizuki, Ichirou\nJapanese\n', b'\nIsomura, Midori\nJapanese\n', b'\nHoshina, Yuri\nJapanese\n', b'\nTaira, Yoshie\nJapanese\n', b'\nIchihara, Etsuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagasaki, Yukio\n\nADR Director\n\n']
+animeCharacters	"['Takae, Tsuneo', 'Secretary Yamada', ""Kouhei's Mother"", 'Takae, Mihoko', 'Narrator']"
+animeVoices	['Mizuki, Ichirou', 'Isomura, Midori', 'Hoshina, Yuri', 'Taira, Yoshie', 'Ichihara, Etsuko']
+animeStaff	[['Nagasaki, Yukio', 'ADR Director']]

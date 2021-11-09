@@ -1,5 +1,5 @@
-animeTitle	"b""Touch 3: Kimi ga Toorisugita Ato ni - Don't Pass Me By"""
-animeType	b'Movie'
+animeTitle	Touch 3: Kimi ga Toorisugita Ato ni - Don't Pass Me By
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.67
 animeUsers	691
 animeRank	
-animePopularity	
-animeDescription	b'Compilation movie of the third year of the Touch timeline. Contain many important plot differences, added scenes and the complete removal of an important character.\n\n(Source: AniDB)'
-animeRelated	[b'Touch', b'Touch 2: Sayonara no Okurimono']
-animeCharacters	[b'Uesugi, Tatsuya', b'Asakura, Minami', b'Harada, Shouhei', b'Kashiwaba, Eijirou', b'Punch', b'Uesugi, Kazuya', b'Matsudaira, Koutarou', b'Uesugi, Haruko', b'Kashiwaba, Eiichirou', b'Nitta, Akio']
-animeVoices	[b'\nMitsuya, Yuuji\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugii, Gisaburou\n\nDirector, Script, Chief Animation Director\n\n', b'\nNagaoka, Akinori\n\nDirector\n\n', b'\nTHE ALFEE\n\nTheme Song Performance\n\n', b'\nNitta, Ichirou\n\nTheme Song Arrangement\n\n']
+animePopularity	9644
+animeDescription	"Compilation movie of the third year of the Touch timeline. Contain many important plot differences, added scenes and the complete removal of an important character.
+
+(Source: AniDB)"
+animeRelated	['Touch', 'Touch 2: Sayonara no Okurimono']
+animeCharacters	['Uesugi, Tatsuya', 'Asakura, Minami', 'Harada, Shouhei', 'Kashiwaba, Eijirou', 'Punch', 'Uesugi, Kazuya', 'Matsudaira, Koutarou', 'Uesugi, Haruko', 'Kashiwaba, Eiichirou', 'Nitta, Akio']
+animeVoices	['Mitsuya, Yuuji', 'Hidaka, Noriko', 'Inoue, Kazuhiko']
+animeStaff	[['Sugii, Gisaburou', 'Director, Script, Chief Animation Director'], ['Nagaoka, Akinori', 'Director'], ['THE ALFEE', 'Theme Song Performance'], ['Nitta, Ichirou', 'Theme Song Arrangement']]

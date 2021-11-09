@@ -1,5 +1,5 @@
-animeTitle	b'Youjo Senki'
-animeType	b'TV'
+animeTitle	Youjo Senki
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.98
 animeUsers	381799
 animeRank	
-animePopularity	
-animeDescription	"b'Tanya Degurechaff is a young soldier infamous for predatorial-like ruthlessness and an uncanny, tactical aptitude, earning her the nickname of the ""Devil of the Rhine."" Underneath her innocuous appearance, however, lies the soul of a man who challenged Being X, the self-proclaimed God, to a battle of wits\xe2\x80\x94which resulted in him being reincarnated as a little girl into a world of magical warfare. Hellbent on defiance, Tanya resolves to ascend the ranks of her country\'s military as it slowly plunges into world war, with only Being X proving to be the strongest obstacle in recreating the peaceful life she once knew. But her perceptive actions and combat initiative have an unintended side effect: propelling the mighty Empire into becoming one of the most powerful nations in mankind\'s history.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Youjo Senki', b'Youjo Shenki Episode 0', b'Youjo Shenki', b'Youjo Senki: Senkyou Houkoku', b'Youjo Senki Movie', b'Isekai Quartet', b'Isekai Quartet 2', b'Isekai Quartet Movie: Another World', b'Youjo Senki: Sabaku no Pasta Daisakusen']
-animeCharacters	[b'Degurechaff, Tanya', b'Serebryakova, Viktoriya Ivanovna', b'von Zettour, Hans', b'von Lergen, Erich', b'Sioux, Mary', b'von Rudersdorf, Kurt', b'Weiss, Matheus Johann', b'Existence X', b'von Schugel, Adelheid', b'Sioux, Anson']
-animeVoices	[b'\nYuuki, Aoi\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nHamano, Daiki\nJapanese\n', b'\nTezuka, Hideaki\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUemura, Yutaka\n\nDirector, Episode Director, Storyboard\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nAkamatsu, Yasuhiro\n\nEpisode Director, Storyboard\n\n', b'\nIhara, Kenta\n\nScript, Series Composition\n\n']
+animePopularity	174
+animeDescription	"Tanya Degurechaff is a young soldier infamous for predatorial-like ruthlessness and an uncanny, tactical aptitude, earning her the nickname of the ""Devil of the Rhine."" Underneath her innocuous appearance, however, lies the soul of a man who challenged Being X, the self-proclaimed God, to a battle of wits—which resulted in him being reincarnated as a little girl into a world of magical warfare. Hellbent on defiance, Tanya resolves to ascend the ranks of her country's military as it slowly plunges into world war, with only Being X proving to be the strongest obstacle in recreating the peaceful life she once knew. But her perceptive actions and combat initiative have an unintended side effect: propelling the mighty Empire into becoming one of the most powerful nations in mankind's history.
+
+[Written by MAL Rewrite]"
+animeRelated	['Youjo Senki', 'Youjo Shenki Episode 0', 'Youjo Shenki', 'Youjo Senki: Senkyou Houkoku', 'Youjo Senki Movie', 'Isekai Quartet', 'Isekai Quartet 2', 'Isekai Quartet Movie: Another World', 'Youjo Senki: Sabaku no Pasta Daisakusen']
+animeCharacters	['Degurechaff, Tanya', 'Serebryakova, Viktoriya Ivanovna', 'von Zettour, Hans', 'von Lergen, Erich', 'Sioux, Mary', 'von Rudersdorf, Kurt', 'Weiss, Matheus Johann', 'Existence X', 'von Schugel, Adelheid', 'Sioux, Anson']
+animeVoices	['Yuuki, Aoi', 'Hayami, Saori', 'Ootsuka, Houchuu', 'Miki, Shinichiro', 'Tomatsu, Haruka', 'Genda, Tesshou', 'Hamano, Daiki', 'Tezuka, Hideaki', 'Tobita, Nobuo', 'Horiuchi, Kenyuu']
+animeStaff	[['Uemura, Yutaka', 'Director, Episode Director, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Akamatsu, Yasuhiro', 'Episode Director, Storyboard'], ['Ihara, Kenta', 'Script, Series Composition']]

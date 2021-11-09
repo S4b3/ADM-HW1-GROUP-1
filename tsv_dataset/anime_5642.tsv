@@ -1,5 +1,5 @@
-animeTitle	b'To Heart'
-animeType	b'TV'
+animeTitle	To Heart
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.59
 animeUsers	8422
 animeRank	
-animePopularity	
-animeDescription	b'For as long as Akari can remember, she and Hiroyuki have always been friends. But with time, everything changes, and her feelings have turned into something more. As a new semester of high school begins, will the two childhood friends come closer together or drift further apart? Join Hiroyuki, Akari and all their friends\xe2\x80\x94the bubbly Shiho, the quiet Serika, the lovely Kotone, and more\xe2\x80\x94in this heartwarming tale of love, relationships and friendship!\n\n(Source: RightStuf)'
-animeRelated	[b'To Heart', b'To Heart 2', b'To Heart: Remember My Memories', b'To Heart Omake']
-animeCharacters	[b'Kamigishi, Akari', b'Fujita, Hiroyuki', b'Nagaoka, Shiho', b'HMX-12, Multi', b'Kurusugawa, Serika', b'Miyauchi, Lemmy', b'Hoshina, Tomoko', b'Matsubara, Aoi', b'Himekawa, Kotone', b'Kurusugawa, Ayaka']
-animeVoices	[b'\nKawasumi, Ayako\nJapanese\n', b'\nIchijo, Kazuya\nJapanese\n', b'\nHiguchi, Chieko\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nIwao, Junko\nJapanese\n', b'\nKasahara, Rumi\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n', b'\nHikami, Kyouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Naohito\n\nDirector, Storyboard\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nIwasaki, Yoshiaki\n\nStoryboard\n\n', b'\nKawasumi, Ayako\n\nTheme Song Performance\n\n']
+animePopularity	3682
+animeDescription	"For as long as Akari can remember, she and Hiroyuki have always been friends. But with time, everything changes, and her feelings have turned into something more. As a new semester of high school begins, will the two childhood friends come closer together or drift further apart? Join Hiroyuki, Akari and all their friends—the bubbly Shiho, the quiet Serika, the lovely Kotone, and more—in this heartwarming tale of love, relationships and friendship!
+
+(Source: RightStuf)"
+animeRelated	['To Heart', 'To Heart 2', 'To Heart: Remember My Memories', 'To Heart Omake']
+animeCharacters	['Kamigishi, Akari', 'Fujita, Hiroyuki', 'Nagaoka, Shiho', 'HMX-12, Multi', 'Kurusugawa, Serika', 'Miyauchi, Lemmy', 'Hoshina, Tomoko', 'Matsubara, Aoi', 'Himekawa, Kotone', 'Kurusugawa, Ayaka']
+animeVoices	['Kawasumi, Ayako', 'Ichijo, Kazuya', 'Higuchi, Chieko', 'Horie, Yui', 'Iwao, Junko', 'Kasahara, Rumi', 'Hisakawa, Aya', 'Iizuka, Mayumi', 'Hikami, Kyouko']
+animeStaff	[['Takahashi, Naohito', 'Director, Storyboard'], ['Watanabe, Jun', 'Sound Director'], ['Iwasaki, Yoshiaki', 'Storyboard'], ['Kawasumi, Ayako', 'Theme Song Performance']]

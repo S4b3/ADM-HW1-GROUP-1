@@ -1,5 +1,5 @@
-animeTitle	b'Mezzo Forte'
-animeType	b'OVA'
+animeTitle	Mezzo Forte
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.64
 animeUsers	13077
 animeRank	
-animePopularity	
-animeDescription	"b'For some individuals, baseball is more than just a game. Momokitchi Momoi, an underworld boss and the owner of a professional team known as the ""Peach Twisters,"" seems to be the perfect example. There is only one punishment for players who have let him down: death. Terrible as he may sound, there is someone even more wicked than him\xe2\x80\x94his daughter, Momomi.\n\nThe three members of the Danger Service Agency\xe2\x80\x94Mikura Suzuki, Tomohisa Harada, and Kenichi Kurokawa\xe2\x80\x94are tasked with kidnapping Momokitchi and taking down his criminal empire. Surrounded by armed bodyguards, he is bound to be a risky target. However, born with a gun in hand, Mikura is used to dancing with danger. The only unknown quantity is Momomi, reputed to be a cold-blooded killer with a twisted mind. Should she stand in the DSA\'s way, Suzuki might finally find herself a worthy opponent.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Mezzo DSA', b'A Kite']
-animeCharacters	[b'Suzuki, Mikura', b'Momoi, Momomi', b'Kurokawa, Kenichi', b'Harada, Tomohisa', b'Sawa', b'Hirooka', b'Momoi, Momokitchi']
-animeVoices	[b'\nKotani, Tomoko\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nHirokawa, Taichirou\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nIizuka, Shouzou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUmetsu, Yasuomi\n\nDirector, Key Animation, Screenplay, Animation Director, Character Design\n\n', b'\nIshihama, Masashi\n\n2nd Key Animation, Key Animation\n\n', b'\nNakazawa, Kazuto\n\nKey Animation\n\n', b'\nOoshiro, Tsutomu\n\nKey Animation\n\n']
+animePopularity	3454
+animeDescription	"For some individuals, baseball is more than just a game. Momokitchi Momoi, an underworld boss and the owner of a professional team known as the ""Peach Twisters,"" seems to be the perfect example. There is only one punishment for players who have let him down: death. Terrible as he may sound, there is someone even more wicked than him—his daughter, Momomi.
+
+The three members of the Danger Service Agency—Mikura Suzuki, Tomohisa Harada, and Kenichi Kurokawa—are tasked with kidnapping Momokitchi and taking down his criminal empire. Surrounded by armed bodyguards, he is bound to be a risky target. However, born with a gun in hand, Mikura is used to dancing with danger. The only unknown quantity is Momomi, reputed to be a cold-blooded killer with a twisted mind. Should she stand in the DSA's way, Suzuki might finally find herself a worthy opponent.
+
+[Written by MAL Rewrite]"
+animeRelated	['Mezzo DSA', 'A Kite']
+animeCharacters	['Suzuki, Mikura', 'Momoi, Momomi', 'Kurokawa, Kenichi', 'Harada, Tomohisa', 'Sawa', 'Hirooka', 'Momoi, Momokitchi']
+animeVoices	['Kotani, Tomoko', 'Okamura, Akemi', 'Hirokawa, Taichirou', 'Yamazaki, Takumi', 'Wakamoto, Norio', 'Iizuka, Shouzou']
+animeStaff	[['Umetsu, Yasuomi', 'Director, Key Animation, Screenplay, Animation Director, Character Design'], ['Ishihama, Masashi', '2nd Key Animation, Key Animation'], ['Nakazawa, Kazuto', 'Key Animation'], ['Ooshiro, Tsutomu', 'Key Animation']]

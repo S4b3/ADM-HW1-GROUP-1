@@ -1,5 +1,5 @@
-animeTitle	b'Salad Juu Yuushi Tomatoman'
-animeType	b'TV'
+animeTitle	Salad Juu Yuushi Tomatoman
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.46
 animeUsers	338
 animeRank	
-animePopularity	
-animeDescription	"b""Tomato is one of the 10 knights of the salad kindom. Young and clumsy, yet always ends up saving the day and is admired by everyone even the pretty princess peach, who he desperately falls in love with.Every episode they embark on a new journey to solve a new mission. This would be easier if only the insect band didn't get in their way every time. \n\n(Source: ANN)"""
+animePopularity	11491
+animeDescription	"Tomato is one of the 10 knights of the salad kindom. Young and clumsy, yet always ends up saving the day and is admired by everyone even the pretty princess peach, who he desperately falls in love with.Every episode they embark on a new journey to solve a new mission. This would be easier if only the insect band didn't get in their way every time. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Tomatoman', b'Maronmaro']
-animeVoices	[b'\nAikawa, Rikako\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector, Original Creator\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nIkehata, Takashi\n\nEpisode Director, Storyboard\n\n', b'\nOoba, Hideaki\n\nEpisode Director, Storyboard\n\n']
+animeCharacters	['Tomatoman', 'Maronmaro']
+animeVoices	['Aikawa, Rikako', 'Sasaki, Nozomu']
+animeStaff	[['Sasagawa, Hiroshi', 'Director, Original Creator'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Ikehata, Takashi', 'Episode Director, Storyboard'], ['Ooba, Hideaki', 'Episode Director, Storyboard']]

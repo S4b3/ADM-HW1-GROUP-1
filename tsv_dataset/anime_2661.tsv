@@ -1,5 +1,5 @@
-animeTitle	b'Himouto! Umaru-chan OVA'
-animeType	b'OVA'
+animeTitle	Himouto! Umaru-chan OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.25
 animeUsers	35972
 animeRank	
-animePopularity	
-animeDescription	"b""Episodes included in the manga's seventh and tenth volumes."""
-animeRelated	[b'Himouto! Umaru-chan']
-animeCharacters	[b'Doma, Umaru', b'Doma, Taihei', b'Ebina, Nana', b'Motoba, Kirie', b'Tachibana, Sylphinford', b'Takematsu, Yukio']
-animeVoices	[b'\nTanaka, Aimi\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nKageyama, Akari\nJapanese\n', b'\nShiraishi, Haruka\nJapanese\n', b'\nFurukawa, Yurina\nJapanese\n', b'\nMaeda, Hiroki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOota, Masahiko\n\nDirector, Episode Director\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nAoshima, Takashi\n\nScript, Series Composition\n\n', b'\nTanaka, Aimi\n\nTheme Song Performance\n\n']
+animePopularity	2035
+animeDescription	Episodes included in the manga's seventh and tenth volumes.
+animeRelated	['Himouto! Umaru-chan']
+animeCharacters	['Doma, Umaru', 'Doma, Taihei', 'Ebina, Nana', 'Motoba, Kirie', 'Tachibana, Sylphinford', 'Takematsu, Yukio']
+animeVoices	['Tanaka, Aimi', 'Nojima, Kenji', 'Kageyama, Akari', 'Shiraishi, Haruka', 'Furukawa, Yurina', 'Maeda, Hiroki']
+animeStaff	[['Oota, Masahiko', 'Director, Episode Director'], ['Ebina, Yasunori', 'Sound Director'], ['Aoshima, Takashi', 'Script, Series Composition'], ['Tanaka, Aimi', 'Theme Song Performance']]

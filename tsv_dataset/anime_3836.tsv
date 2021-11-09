@@ -1,5 +1,5 @@
-animeTitle	b'Bessatsu Olympia Kyklos'
-animeType	b'TV'
+animeTitle	Bessatsu Olympia Kyklos
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.99
 animeUsers	4417
 animeRank	
-animePopularity	
-animeDescription	b'Demetrios, a timid and kind vase painter in Ancient Greece who dislikes sports and competitions, is one day forced to come up with a game to compete with the mayor of the neighboring town in order to save his village. While hiding inside a large vase outside his workshop, lightning strikes the vase Demetrios is in, transferring him to Tokyo, Japan, during the 1964 Summer Olympics.\n\n(Source: MU)'
-animeRelated	[b'Olympia Kyklos']
-animeCharacters	[b'Demetrios', b'Theophilos', b'Honeuros The Bard', b'Apollonia', b'Iwaya, Asakichi']
-animeVoices	[b'\nOno, Daisuke\nJapanese\n', b'\nKatagiri, Jin\nJapanese\n', b'\nSatou, Takashi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujii, Ryou\n\nDirector\n\n', b'\nYamazaki, Mari\n\nOriginal Creator\n\n']
+animePopularity	4528
+animeDescription	"Demetrios, a timid and kind vase painter in Ancient Greece who dislikes sports and competitions, is one day forced to come up with a game to compete with the mayor of the neighboring town in order to save his village. While hiding inside a large vase outside his workshop, lightning strikes the vase Demetrios is in, transferring him to Tokyo, Japan, during the 1964 Summer Olympics.
+
+(Source: MU)"
+animeRelated	['Olympia Kyklos']
+animeCharacters	['Demetrios', 'Theophilos', 'Honeuros The Bard', 'Apollonia', 'Iwaya, Asakichi']
+animeVoices	['Ono, Daisuke', 'Katagiri, Jin', 'Satou, Takashi']
+animeStaff	[['Fujii, Ryou', 'Director'], ['Yamazaki, Mari', 'Original Creator']]

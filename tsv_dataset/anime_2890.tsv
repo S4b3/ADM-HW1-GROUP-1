@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam SEED Destiny'
-animeType	b'TV'
+animeTitle	Mobile Suit Gundam SEED Destiny
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	7.2
 animeUsers	57070
 animeRank	
-animePopularity	
-animeDescription	"b""In the year Cosmic Era 0071, a wartime brawl between two mobile suits results in the destruction of a neutral country. Shinn Asuka finds his entire family killed as casualties of the violence, and swears his life toward a vengeful pursuit of the Earth's Natural forces, under the impression they were the ones responsible for his family's death. Shinn works his way up through the ZAFT military forces, eventually gaining access to the cockpit of the prototype Impulse mobile suit.\n\nAthrun Zala, a veteran of the recent war employed in the service of diplomat Cagalli Yula Athha, finds himself drawn into a new conflict between the Naturals and the Coordinators: human beings artificially enhanced before birth and hated by the Naturals for their biological advantages.\n\nAs the new war rears its head and violence becomes inevitable, Athrun finds himself as a mentor to the bitter Shinn. Athrun must steer the young pilot towards a mindset of mercy before his rage and desire for vengeance consumes him.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Mobile Suit Gundam SEED Destiny', b'Mobile Suit Gundam SEED C.E.73: Stargazer', b'Mobile Suit Gundam SEED Destiny Final Plus: The Chosen Future', b'Mobile Suit Gundam SEED Destiny Special Edition', b'Mobile Suit Gundam SEED: After-Phase Between the Stars']
-animeCharacters	[b'Yamato, Kira', b'Clyne, Lacus', b'Zala, Athrun', b'Athha, Cagalli Yula', b'Asuka, Shinn', b'Hawke, Lunamaria', b'Za Burrel, Rey', b'La Flaga, Mu', b'Haro', b'Le Creuset, Rau']
-animeVoices	[b'\nHoshi, Souichirou\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nShindo, Naomi\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Hajime\n\nProducer\n\n', b'\nSatou, Hiroyuki\n\nProducer\n\n', b'\nFukuda, Mitsuo\n\nDirector, Episode Director, Storyboard\n\n', b'\nFujino, Sadayoshi\n\nSound Director\n\n']
+animePopularity	1688
+animeDescription	"In the year Cosmic Era 0071, a wartime brawl between two mobile suits results in the destruction of a neutral country. Shinn Asuka finds his entire family killed as casualties of the violence, and swears his life toward a vengeful pursuit of the Earth's Natural forces, under the impression they were the ones responsible for his family's death. Shinn works his way up through the ZAFT military forces, eventually gaining access to the cockpit of the prototype Impulse mobile suit.
+
+Athrun Zala, a veteran of the recent war employed in the service of diplomat Cagalli Yula Athha, finds himself drawn into a new conflict between the Naturals and the Coordinators: human beings artificially enhanced before birth and hated by the Naturals for their biological advantages.
+
+As the new war rears its head and violence becomes inevitable, Athrun finds himself as a mentor to the bitter Shinn. Athrun must steer the young pilot towards a mindset of mercy before his rage and desire for vengeance consumes him.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Mobile Suit Gundam SEED Destiny', 'Mobile Suit Gundam SEED C.E.73: Stargazer', 'Mobile Suit Gundam SEED Destiny Final Plus: The Chosen Future', 'Mobile Suit Gundam SEED Destiny Special Edition', 'Mobile Suit Gundam SEED: After-Phase Between the Stars']
+animeCharacters	['Yamato, Kira', 'Clyne, Lacus', 'Zala, Athrun', 'Athha, Cagalli Yula', 'Asuka, Shinn', 'Hawke, Lunamaria', 'Za Burrel, Rey', 'La Flaga, Mu', 'Haro', 'Le Creuset, Rau']
+animeVoices	['Hoshi, Souichirou', 'Tanaka, Rie', 'Ishida, Akira', 'Shindo, Naomi', 'Suzumura, Kenichi', 'Sakamoto, Maaya', 'Seki, Toshihiko', 'Koyasu, Takehito', 'Mitsuishi, Kotono']
+animeStaff	[['Yatate, Hajime', 'Producer'], ['Satou, Hiroyuki', 'Producer'], ['Fukuda, Mitsuo', 'Director, Episode Director, Storyboard'], ['Fujino, Sadayoshi', 'Sound Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hell Target'
-animeType	b'OVA'
+animeTitle	Hell Target
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.62
 animeUsers	739
 animeRank	
-animePopularity	
-animeDescription	b'A spaceship is lost near the forbidden planet of Inferno II. Some years later, a second ship with a crew of nine gets there and encounters a monster that rapidly makes mince meat of most of them. The sole survivor, Makurou Kitazato, must destroy the monster before it can surprise a third ship that is already en route.\n\n(Source: AniDB)'
+animePopularity	9681
+animeDescription	"A spaceship is lost near the forbidden planet of Inferno II. Some years later, a second ship with a crew of nine gets there and encounters a monster that rapidly makes mince meat of most of them. The sole survivor, Makurou Kitazato, must destroy the monster before it can surprise a third ship that is already en route.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Makurou, Kitazato', b'Brown, Meryl', b'Treyanov, Euler', b'Fernandez, Rico', b'Krueger, Hans', b'Howard, Harry', b'Lee, Chang', b'Karmak, Tiki', b'Miaura, Jean']
-animeVoices	[b'\nMurayama, Akira\nJapanese\n', b'\nTakashima, Gara\nJapanese\n', b'\nChiba, Kouichi\nJapanese\n', b'\nSawaki, Ikuya\nJapanese\n', b'\nHori, Katsunosuke\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nHiromori, Shingo\nJapanese\n', b'\nShimamoto, Sumi\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuzaki, Kenichi\n\nProducer, Script, Screenplay, Original Creator\n\n', b'\nNakamura, Keito\n\nDirector, Planning Producer, Planning\n\n', b'\nIkeda, Shigemi\n\nArt Director\n\n', b'\nOokubo, Shuuichi\n\nBackground Art\n\n']
+animeCharacters	['Makurou, Kitazato', 'Brown, Meryl', 'Treyanov, Euler', 'Fernandez, Rico', 'Krueger, Hans', 'Howard, Harry', 'Lee, Chang', 'Karmak, Tiki', 'Miaura, Jean']
+animeVoices	['Murayama, Akira', 'Takashima, Gara', 'Chiba, Kouichi', 'Sawaki, Ikuya', 'Hori, Katsunosuke', 'Suzuoki, Hirotaka', 'Hiromori, Shingo', 'Shimamoto, Sumi', 'Shiozawa, Kaneto']
+animeStaff	[['Matsuzaki, Kenichi', 'Producer, Script, Screenplay, Original Creator'], ['Nakamura, Keito', 'Director, Planning Producer, Planning'], ['Ikeda, Shigemi', 'Art Director'], ['Ookubo, Shuuichi', 'Background Art']]

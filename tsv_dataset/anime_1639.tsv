@@ -1,5 +1,5 @@
-animeTitle	b'Nanbaka 2'
-animeType	b'ONA'
+animeTitle	Nanbaka 2
+animeType	ONA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.5
 animeUsers	53250
 animeRank	
-animePopularity	
-animeDescription	"b""The second part of Nanbaka. The prisoners and their guards continue their comfortable lives at Nanba Prison. However, from the shadows emerges a new threat: Enki Gokuu, a person from Samon's past, who has mysterious goals of his own."""
-animeRelated	[b'Nanbaka', b'Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!']
-animeCharacters	[b'Juugo', b'Nico', b'Uno', b'Sugoroku, Hajime', b'Rock', b'Hyakushiki, Momoko', b'Gokuu, Samon', b'Hitokoe, Mitsuru', b'Tanabata, Seitarou', b'Tsukumo']
-animeVoices	[b'\nUemura, Yuuto\nJapanese\n', b'\nKobayashi, Daiki\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nShiozaki, Ire\nJapanese\n', b'\nAkesaka, Satomi\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nOkuyama, Keito\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakamatsu, Shinji\n\nDirector\n\n', b'\nDismuke, Aaron\n\nScript, ADR Director\n\n', b'\nTsubota, Fumi\n\nScript\n\n', b'\nSeki, Tomokazu\n\nTheme Song Performance\n\n']
+animePopularity	1506
+animeDescription	The second part of Nanbaka. The prisoners and their guards continue their comfortable lives at Nanba Prison. However, from the shadows emerges a new threat: Enki Gokuu, a person from Samon's past, who has mysterious goals of his own.
+animeRelated	['Nanbaka', 'Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!']
+animeCharacters	['Juugo', 'Nico', 'Uno', 'Sugoroku, Hajime', 'Rock', 'Hyakushiki, Momoko', 'Gokuu, Samon', 'Hitokoe, Mitsuru', 'Tanabata, Seitarou', 'Tsukumo']
+animeVoices	['Uemura, Yuuto', 'Kobayashi, Daiki', 'Kakihara, Tetsuya', 'Seki, Tomokazu', 'Shiozaki, Ire', 'Akesaka, Satomi', 'Hoshi, Souichirou', 'Tsuda, Kenjirou', 'Okuyama, Keito', 'Toyonaga, Toshiyuki']
+animeStaff	[['Takamatsu, Shinji', 'Director'], ['Dismuke, Aaron', 'Script, ADR Director'], ['Tsubota, Fumi', 'Script'], ['Seki, Tomokazu', 'Theme Song Performance']]

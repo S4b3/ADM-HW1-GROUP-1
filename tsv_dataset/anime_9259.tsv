@@ -1,5 +1,5 @@
-animeTitle	b'Tatakae!! Ramenman (Movie)'
-animeType	b'Movie'
+animeTitle	Tatakae!! Ramenman (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.83
 animeUsers	142
 animeRank	
-animePopularity	
-animeDescription	"b'Theatrical film of the anime series Tatakae!! Ramenman, based on the manga chapter ""Strike the Darkness"".\n\nIt was released in Japan on July 9, 1988 and is set sometime after the Mongol Tiger two-parter.\n\n(Source: Kinnikuman Wiki)'"
-animeRelated	[b'Tatakae!! Ramenman']
-animeCharacters	[b'Ramenman, Victory', b'Shumai', b'Qiang-Gui', b'Mercury Charsiuman', b'Dao-Gui', b'Pidan', b'Leyla', b'Mapo', b'Lu Laobing', b'Heise Mowang']
-animeVoices	[b'\nMori, Katsuji\nJapanese\n', b'\nMatsushima, Minori\nJapanese\n', b'\nHori, Yukitoshi\nJapanese\n', b'\nHashi, Takaya\nJapanese\n', b'\nTotani, Kouji\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n', b'\nEmori, Hiroko\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYudetamago\n\nOriginal Creator\n\n', b'\nKonno, Yasuyuki\n\nSound Effects\n\n', b'\nOku, Keiichi\n\nMusic\n\n', b'\nShirato, Takeshi\n\nKey Animation\n\n']
+animePopularity	12778
+animeDescription	"Theatrical film of the anime series Tatakae!! Ramenman, based on the manga chapter ""Strike the Darkness"".
+
+It was released in Japan on July 9, 1988 and is set sometime after the Mongol Tiger two-parter.
+
+(Source: Kinnikuman Wiki)"
+animeRelated	['Tatakae!! Ramenman']
+animeCharacters	['Ramenman, Victory', 'Shumai', 'Qiang-Gui', 'Mercury Charsiuman', 'Dao-Gui', 'Pidan', 'Leyla', 'Mapo', 'Lu Laobing', 'Heise Mowang']
+animeVoices	['Mori, Katsuji', 'Matsushima, Minori', 'Hori, Yukitoshi', 'Hashi, Takaya', 'Totani, Kouji', 'Ootsuka, Houchuu', 'Tsuru, Hiromi', 'Sugiyama, Kazuko', 'Emori, Hiroko', 'Kobayashi, Kiyoshi']
+animeStaff	[['Yudetamago', 'Original Creator'], ['Konno, Yasuyuki', 'Sound Effects'], ['Oku, Keiichi', 'Music'], ['Shirato, Takeshi', 'Key Animation']]

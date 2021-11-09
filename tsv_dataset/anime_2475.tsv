@@ -1,5 +1,5 @@
-animeTitle	b'Kuruneko'
-animeType	b'TV'
+animeTitle	Kuruneko
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.29
 animeUsers	761
 animeRank	
-animePopularity	
-animeDescription	b'Based on a manga about cats and their sake loving owner.'
-animeRelated	[b'Kuruneko', b'Kuruneko 2nd Season', b'Kuruneko: Kurunekobin']
-animeCharacters	[b'Narrator']
-animeVoices	[b'\nKobayashi, Satomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDaichi, Akitarou\n\nDirector\n\n', b'\nHsu, Vivian\n\nTheme Song Performance\n\n']
+animePopularity	7443
+animeDescription	Based on a manga about cats and their sake loving owner.
+animeRelated	['Kuruneko', 'Kuruneko 2nd Season', 'Kuruneko: Kurunekobin']
+animeCharacters	['Narrator']
+animeVoices	['Kobayashi, Satomi']
+animeStaff	[['Daichi, Akitarou', 'Director'], ['Hsu, Vivian', 'Theme Song Performance']]

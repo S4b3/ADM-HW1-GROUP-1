@@ -1,5 +1,5 @@
-animeTitle	b'Btooom!'
-animeType	b'TV'
+animeTitle	Btooom!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.33
 animeUsers	429323
 animeRank	
-animePopularity	
-animeDescription	"b'Ryouta Sakamoto is unemployed and lives with his mother, his only real achievement being that he is Japan\'s top player of the popular online video game Btooom! However, his peaceful life is about to change when he finds himself stranded on an island in the middle of nowhere, with a small green crystal embedded in his left hand and no memory of how he got there. To his shock, someone has decided to recreate the game he is so fond of in real life, with the stakes being life or death.\n\nArmed with a bag full of unique bombs known as ""BIM,"" the players are tasked with killing seven of their fellow participants and taking their green crystals in order to return home. Initially condemning any form of violence, Ryouta is forced to fight when he realizes that many of the other players are not as welcoming as they may seem. Teaming up with Himiko, a fellow Btooom! player, they attempt to get off of the island together, coming closer and closer to the truth behind this contest of death.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Btooom!', b'Btooom!: Bakusatsu Digest']
-animeCharacters	[b'Sakamoto, Ryouta', b'Himiko', b'Kira, Kousuke', b'Taira, Kiyoshi', b'Oda, Nobutaka', b'Date, Masahito', b'Natsume, Souichi', b'Akechi, Mitsuo', b'Kinoshita, Hidemi', b'Miyamoto, Masashi']
-animeVoices	[b'\nHongo, Kanata\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nNarita, Ken\nJapanese\n', b'\nFutamata, Issei\nJapanese\n', b'\nMamiya, Yasuhiro\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nKuroda, Takaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Kotono\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nKatou, Makoto\n\nEpisode Director, Storyboard\n\n', b'\nNogami, Kazuo\n\nEpisode Director\n\n']
+animePopularity	162
+animeDescription	"Ryouta Sakamoto is unemployed and lives with his mother, his only real achievement being that he is Japan's top player of the popular online video game Btooom! However, his peaceful life is about to change when he finds himself stranded on an island in the middle of nowhere, with a small green crystal embedded in his left hand and no memory of how he got there. To his shock, someone has decided to recreate the game he is so fond of in real life, with the stakes being life or death.
+
+Armed with a bag full of unique bombs known as ""BIM,"" the players are tasked with killing seven of their fellow participants and taking their green crystals in order to return home. Initially condemning any form of violence, Ryouta is forced to fight when he realizes that many of the other players are not as welcoming as they may seem. Teaming up with Himiko, a fellow Btooom! player, they attempt to get off of the island together, coming closer and closer to the truth behind this contest of death.
+
+[Written by MAL Rewrite]"
+animeRelated	['Btooom!', 'Btooom!: Bakusatsu Digest']
+animeCharacters	['Sakamoto, Ryouta', 'Himiko', 'Kira, Kousuke', 'Taira, Kiyoshi', 'Oda, Nobutaka', 'Date, Masahito', 'Natsume, Souichi', 'Akechi, Mitsuo', 'Kinoshita, Hidemi', 'Miyamoto, Masashi']
+animeVoices	['Hongo, Kanata', 'Mimori, Suzuko', 'Sawashiro, Miyuki', 'Ookawa, Tooru', 'Nakamura, Yuuichi', 'Narita, Ken', 'Futamata, Issei', 'Mamiya, Yasuhiro', 'Hikasa, Youko', 'Kuroda, Takaya']
+animeStaff	[['Watanabe, Kotono', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Katou, Makoto', 'Episode Director, Storyboard'], ['Nogami, Kazuo', 'Episode Director']]

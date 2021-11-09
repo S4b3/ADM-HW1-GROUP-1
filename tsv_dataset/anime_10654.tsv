@@ -1,5 +1,5 @@
-animeTitle	b'Haja Kyosei G Dangaiou'
-animeType	b'TV'
+animeTitle	Haja Kyosei G Dangaiou
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.4
 animeUsers	621
 animeRank	
-animePopularity	
-animeDescription	"b'A mysterious explosion on Futagami Island begins a new chapter in the Dangaioh mythos! Led by the evil Professor Katou, a band of warriors calling themselves the ""Tartarus Knights"" have begun their campaign to lay waste to the world by way of a small research station on Futagami Island. Katou\'s victory seems almost certain until he encounters an advanced fortress guarding the island. From it, a group of three humanoid robots are launched\xe2\x80\x94Dangaioh!\n\n(Source: AniDB)'"
-animeRelated	[b'Haja Taisei Dangaiou']
-animeCharacters	[b'Chidou, Hitomi', b'Manami, Mishio', b'Amagi, Kuya', b'Mia, Alice', b'Kazamaki, Chiho', b'Shima, Ryuko', b'Mori, Kozue', b'Tsukishiro, Kaori', b'Yamagata, Kasumi', b'Tamahara, Kyoko']
-animeVoices	[b'\nAsano, Masumi\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nSuzuki, Chihiro\nJapanese\n', b'\nShou, Mayumi\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nYamamoto, Maria\nJapanese\n', b'\nMizuno, Manabi\nJapanese\n', b'\nMiura, Naoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nInoue, Hiroaki\n\nProducer\n\n', b'\nHirano, Toshiki\n\nDirector, Original Creator\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nHanyuu, Naoyasu\n\nEpisode Director\n\n']
+animePopularity	8761
+animeDescription	"A mysterious explosion on Futagami Island begins a new chapter in the Dangaioh mythos! Led by the evil Professor Katou, a band of warriors calling themselves the ""Tartarus Knights"" have begun their campaign to lay waste to the world by way of a small research station on Futagami Island. Katou's victory seems almost certain until he encounters an advanced fortress guarding the island. From it, a group of three humanoid robots are launched—Dangaioh!
+
+(Source: AniDB)"
+animeRelated	['Haja Taisei Dangaiou']
+animeCharacters	['Chidou, Hitomi', 'Manami, Mishio', 'Amagi, Kuya', 'Mia, Alice', 'Kazamaki, Chiho', 'Shima, Ryuko', 'Mori, Kozue', 'Tsukishiro, Kaori', 'Yamagata, Kasumi', 'Tamahara, Kyoko']
+animeVoices	['Asano, Masumi', 'Kawasumi, Ayako', 'Suzuki, Chihiro', 'Shou, Mayumi', 'Katsuki, Masako', 'Yukino, Satsuki', 'Yamamoto, Maria', 'Mizuno, Manabi', 'Miura, Naoko']
+animeStaff	[['Inoue, Hiroaki', 'Producer'], ['Hirano, Toshiki', 'Director, Original Creator'], ['Kameyama, Toshiki', 'Sound Director'], ['Hanyuu, Naoyasu', 'Episode Director']]

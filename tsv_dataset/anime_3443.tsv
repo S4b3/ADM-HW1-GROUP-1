@@ -1,5 +1,5 @@
-animeTitle	b'Tesagure! Bukatsumono Encore'
-animeType	b'TV'
+animeTitle	Tesagure! Bukatsumono Encore
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.08
 animeUsers	1408
 animeRank	
-animePopularity	
-animeDescription	b'Second season of Tesagure! Bukatsumono.'
-animeRelated	[b'Tesagure! Bukatsumono', b'Tesagure! Bukatsumono Spin-off Purupurun Sharumu to Asobou']
-animeCharacters	[b'Takahashi, Aoi', b'Tanaka, Koharu', b'Suzuki, Yua', b'Satou, Hina', b'Sonota, Mobuko', b'Watanabe, Mio']
-animeVoices	[b'\nOgino, Karin\nJapanese\n', b'\nOhashi, Ayaka\nJapanese\n', b'\nNishi, Asuka\nJapanese\n', b'\nAkesaka, Satomi\nJapanese\n', b'\nUeda, Reina\nJapanese\n', b'\nMizuhara, Kaoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshidate, Koutarou\n\nDirector\n\n', b'\nOhashi, Ayaka\n\nTheme Song Performance\n\n', b'\nAkesaka, Satomi\n\nTheme Song Performance\n\n', b'\nNishi, Asuka\n\nTheme Song Performance\n\n']
+animePopularity	7452
+animeDescription	Second season of Tesagure! Bukatsumono.
+animeRelated	['Tesagure! Bukatsumono', 'Tesagure! Bukatsumono Spin-off Purupurun Sharumu to Asobou']
+animeCharacters	['Takahashi, Aoi', 'Tanaka, Koharu', 'Suzuki, Yua', 'Satou, Hina', 'Sonota, Mobuko', 'Watanabe, Mio']
+animeVoices	['Ogino, Karin', 'Ohashi, Ayaka', 'Nishi, Asuka', 'Akesaka, Satomi', 'Ueda, Reina', 'Mizuhara, Kaoru']
+animeStaff	[['Ishidate, Koutarou', 'Director'], ['Ohashi, Ayaka', 'Theme Song Performance'], ['Akesaka, Satomi', 'Theme Song Performance'], ['Nishi, Asuka', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Fresh Precure! Movie: Omocha no Kuni wa Himitsu ga Ippai!?'
-animeType	b'Movie'
+animeTitle	Fresh Precure! Movie: Omocha no Kuni wa Himitsu ga Ippai!?
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.66
 animeUsers	1755
 animeRank	
-animePopularity	
-animeDescription	"b""After resolving the problems in the Labyrinth Kingdom, Love Momozono and her friends live a happy life and continue their dance training. Suddenly, the town children's toys start to go missing and the girls agree to help find them. Love Momozono's stuffed rabbit then comes to life and tells the Cures that the Toymajin is responsible. The Fresh Pretty Cure cast then travel to the Kingdom of Toys to save the day!\n\n(Source: bakabt)"""
-animeRelated	[b'Fresh Precure!']
-animeCharacters	[b'Higashi, Setsuna', b'Momozono, Love', b'Yamabuki, Inori', b'Aono, Miki', b'Chiffon', b'Tart', b'Toymajin ', b'Usapyon', b'Tachibana, Kaoru', b'Cymbal Monkey']
-animeVoices	[b'\nKomatsu, Yuka\nJapanese\n', b'\nOki, Kanae\nJapanese\n', b'\nNakagawa, Akiko\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nMatsuno, Taiki\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nMaeda, Ken\nJapanese\n', b'\nYabe, Masahito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimizu, Junji\n\nDirector\n\n', b'\nHayashi, Momoko\n\nTheme Song Performance\n\n', b'\nTakanashi, Yasuharu\n\nMusic\n\n', b'\nNishii, Terumi\n\nKey Animation\n\n']
+animePopularity	7582
+animeDescription	"After resolving the problems in the Labyrinth Kingdom, Love Momozono and her friends live a happy life and continue their dance training. Suddenly, the town children's toys start to go missing and the girls agree to help find them. Love Momozono's stuffed rabbit then comes to life and tells the Cures that the Toymajin is responsible. The Fresh Pretty Cure cast then travel to the Kingdom of Toys to save the day!
+
+(Source: bakabt)"
+animeRelated	['Fresh Precure!']
+animeCharacters	['Higashi, Setsuna', 'Momozono, Love', 'Yamabuki, Inori', 'Aono, Miki', 'Chiffon', 'Tart', 'Toymajin ', 'Usapyon', 'Tachibana, Kaoru', 'Cymbal Monkey']
+animeVoices	['Komatsu, Yuka', 'Oki, Kanae', 'Nakagawa, Akiko', 'Kitamura, Eri', 'Koorogi, Satomi', 'Matsuno, Taiki', 'Sakamoto, Chika', 'Tsuru, Hiromi', 'Maeda, Ken', 'Yabe, Masahito']
+animeStaff	[['Shimizu, Junji', 'Director'], ['Hayashi, Momoko', 'Theme Song Performance'], ['Takanashi, Yasuharu', 'Music'], ['Nishii, Terumi', 'Key Animation']]

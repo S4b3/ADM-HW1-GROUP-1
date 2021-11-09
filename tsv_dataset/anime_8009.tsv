@@ -1,5 +1,5 @@
-animeTitle	b'Robotan'
-animeType	b'TV'
+animeTitle	Robotan
+animeType	TV
 animeNumEpisode	104
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.13
 animeUsers	132
 animeRank	
-animePopularity	
-animeDescription	b'Based on a manga by Morita Kenji.\n\nHousehold robot Robotan, made by a nerdy school boy named Kan-chan, lives with an everyday Japanese family as a domestic servant and friend to the children.\n\n(Source: AniDB)'
-animeRelated	[b'Robotan (1986)']
-animeCharacters	"[b'Robotan', b""Bocchi's Father""]"
-animeVoices	[b'\nZaitsu, Ichirou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHoney Knights\n\nTheme Song Performance\n\n', b'\nTaniguchi, Moriyasu\n\nAnimation Director\n\n', b'\nMorita, Kenji\n\nOriginal Creator, Animation Director\n\n']
+animePopularity	13307
+animeDescription	"Based on a manga by Morita Kenji.
+
+Household robot Robotan, made by a nerdy school boy named Kan-chan, lives with an everyday Japanese family as a domestic servant and friend to the children.
+
+(Source: AniDB)"
+animeRelated	['Robotan (1986)']
+animeCharacters	"['Robotan', ""Bocchi's Father""]"
+animeVoices	['Zaitsu, Ichirou']
+animeStaff	[['Honey Knights', 'Theme Song Performance'], ['Taniguchi, Moriyasu', 'Animation Director'], ['Morita, Kenji', 'Original Creator, Animation Director']]

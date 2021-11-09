@@ -1,5 +1,5 @@
-animeTitle	b'Digimon Adventure 02 Movies'
-animeType	b'Movie'
+animeTitle	Digimon Adventure 02 Movies
+animeType	Movie
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.11
 animeUsers	24413
 animeRank	
-animePopularity	
-animeDescription	b'Years after a young boy in America loses one of his Digimon friends, an evil viral Digimon successfully kidnaps the original Chosen Children. Their younger friends must race against time with their Digimon partners to discover the source of this new menace, and perhaps solve a years-old mystery.\n\n(Source: ANN)'
-animeRelated	[b'Digimon Adventure 02']
-animeCharacters	[b'Yagami, Hikari', b'Takaishi, Takeru', b'Tailmon', b'Terriermon', b'Patamon', b'Motomiya, Daisuke', b'V-mon', b'Inoue, Miyako', b'Wallace', b'Hida, Iori']
-animeVoices	[b'\nAraki, Kae\nJapanese\n', b'\nYamamoto, Taisuke\nJapanese\n', b'\nTokumitsu, Yuka\nJapanese\n', b'\nTada, Aoi\nJapanese\n', b'\nMatsumoto, Miwa\nJapanese\n', b'\nKiuchi, Reiko\nJapanese\n', b'\nNoda, Junko\nJapanese\n', b'\nNatsuki, Rio\nJapanese\n', b'\nMiyahara, Nami\nJapanese\n', b'\nUrawa, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSeki, Hiromi\n\nProducer\n\n', b'\nYamauchi, Shigeyasu\n\nDirector, Storyboard\n\n', b'\nYoshida, Reiko\n\nScript\n\n', b'\nOishi, Tatsuya\n\nKey Animation\n\n']
+animePopularity	2713
+animeDescription	"Years after a young boy in America loses one of his Digimon friends, an evil viral Digimon successfully kidnaps the original Chosen Children. Their younger friends must race against time with their Digimon partners to discover the source of this new menace, and perhaps solve a years-old mystery.
+
+(Source: ANN)"
+animeRelated	['Digimon Adventure 02']
+animeCharacters	['Yagami, Hikari', 'Takaishi, Takeru', 'Tailmon', 'Terriermon', 'Patamon', 'Motomiya, Daisuke', 'V-mon', 'Inoue, Miyako', 'Wallace', 'Hida, Iori']
+animeVoices	['Araki, Kae', 'Yamamoto, Taisuke', 'Tokumitsu, Yuka', 'Tada, Aoi', 'Matsumoto, Miwa', 'Kiuchi, Reiko', 'Noda, Junko', 'Natsuki, Rio', 'Miyahara, Nami', 'Urawa, Megumi']
+animeStaff	[['Seki, Hiromi', 'Producer'], ['Yamauchi, Shigeyasu', 'Director, Storyboard'], ['Yoshida, Reiko', 'Script'], ['Oishi, Tatsuya', 'Key Animation']]

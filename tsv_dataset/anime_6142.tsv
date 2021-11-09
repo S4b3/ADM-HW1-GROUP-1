@@ -1,5 +1,5 @@
-animeTitle	b'Mizugumo Monmon'
-animeType	b'Movie'
+animeTitle	Mizugumo Monmon
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.5
 animeUsers	783
 animeRank	
-animePopularity	
-animeDescription	"b""The short film's main character is a water spider who seems to have fallen in love with a water strider. Though she is scared of him at first, the water strider soon gets used to the presence of the spider. \n\n(Source: Wikipedia) """
+animePopularity	8282
+animeDescription	"The short film's main character is a water spider who seems to have fallen in love with a water strider. Though she is scared of him at first, the water strider soon gets used to the presence of the spider. 
+
+(Source: Wikipedia) "
 animeRelated	[]
-animeCharacters	[b'Monmon']
+animeCharacters	['Monmon']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyazaki, Hayao\n\nDirector, Script\n\n', b'\nYonebayashi, Hiromasa\n\nKey Animation\n\n', b'\nYasuda, Michiyo\n\nColor Design\n\n', b'\nSatou, Masako\n\nKey Animation\n\n']
+animeStaff	[['Miyazaki, Hayao', 'Director, Script'], ['Yonebayashi, Hiromasa', 'Key Animation'], ['Yasuda, Michiyo', 'Color Design'], ['Satou, Masako', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Get Up! Get Live! #Geragera'
-animeType	b'TV'
+animeTitle	Get Up! Get Live! #Geragera
+animeType	TV
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'The story of the ""voice actor x 2D entertainer"" project centers on aspiring comedian entertainers who all gather at SSS, a talent agency for comedians. The story portrays the friction and jealousy in their rivaling careers, as well as their admiration towards industry veterans, their disappointments, and the obstacles to their success as they aspire to become the greatest entertainers in Japan and the world.\n\n(Source: ANN)'"
-animeRelated	[b'Get Up! Get Live! #GeraGera Episode 0']
-animeCharacters	[b'Oono, Toranosuke', b'Komae, Kazuma', b'Higashizawa, Kaede', b'Kitami, Ren', b'Machida, Sena', b'Uehara, Junya']
-animeVoices	[b'\nIshikawa, Kaito\nJapanese\n', b'\nKumagai, Kentarou\nJapanese\n', b'\nNishiyama, Koutarou\nJapanese\n', b'\nAzakami, Youhei\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nHanae, Natsuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nEighty-Eight\n\nDirector\n\n', b'\nWatari, Wataru\n\nOriginal Creator\n\n', b'\nIfukube, Takashi\n\nSeries Composition\n\n', b'\nTenshin, Mukai\n\nPlanning\n\n']
+animePopularity	11267
+animeDescription	"The story of the ""voice actor x 2D entertainer"" project centers on aspiring comedian entertainers who all gather at SSS, a talent agency for comedians. The story portrays the friction and jealousy in their rivaling careers, as well as their admiration towards industry veterans, their disappointments, and the obstacles to their success as they aspire to become the greatest entertainers in Japan and the world.
+
+(Source: ANN)"
+animeRelated	['Get Up! Get Live! #GeraGera Episode 0']
+animeCharacters	['Oono, Toranosuke', 'Komae, Kazuma', 'Higashizawa, Kaede', 'Kitami, Ren', 'Machida, Sena', 'Uehara, Junya']
+animeVoices	['Ishikawa, Kaito', 'Kumagai, Kentarou', 'Nishiyama, Koutarou', 'Azakami, Youhei', 'Toyonaga, Toshiyuki', 'Hanae, Natsuki']
+animeStaff	[['Eighty-Eight', 'Director'], ['Watari, Wataru', 'Original Creator'], ['Ifukube, Takashi', 'Series Composition'], ['Tenshin, Mukai', 'Planning']]

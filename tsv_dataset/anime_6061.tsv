@@ -1,5 +1,5 @@
-animeTitle	b'Nezumi Monogatari: George to Gerald no Bouken'
-animeType	b'Movie'
+animeTitle	Nezumi Monogatari: George to Gerald no Bouken
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.51
 animeUsers	332
 animeRank	
-animePopularity	
-animeDescription	"b'Nezumi Monogatari is the story of two mice called George and Gerald who embark on a journey together with three friends to find the ""Dragon of Light"".'"
+animePopularity	11381
+animeDescription	"Nezumi Monogatari is the story of two mice called George and Gerald who embark on a journey together with three friends to find the ""Dragon of Light""."
 animeRelated	[]
-animeCharacters	[b'Marie-Lou', b'George', b'Gerald', b'Leopold', b'Hanna', b'Norma', b'Chamberlain', b'Walter', b'Alex']
-animeVoices	[b'\nKikuchi, Mika\nJapanese\n', b'\nTakayama, Minami\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHata, Masami\n\nDirector, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nHirata, Toshio\n\nCharacter Design\n\n', b'\nKurahashi, Shizuo\n\nSound Effects\n\n']
+animeCharacters	['Marie-Lou', 'George', 'Gerald', 'Leopold', 'Hanna', 'Norma', 'Chamberlain', 'Walter', 'Alex']
+animeVoices	['Kikuchi, Mika', 'Takayama, Minami', 'Hayashibara, Megumi', 'Nozawa, Masako', 'Yamaguchi, Kappei', 'Inuyama, Inuko', 'Utsumi, Kenji']
+animeStaff	[['Hata, Masami', 'Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Hirata, Toshio', 'Character Design'], ['Kurahashi, Shizuo', 'Sound Effects']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hello Kitty no Yuubinya-san Arigatou'
-animeType	b'OVA'
+animeTitle	Hello Kitty no Yuubinya-san Arigatou
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Kitty's and Mimmy's class find out that Yuubinya-san, their town's postal worker, is having a hard time delivering the mail in his old age. They try to give him a gift as a thank you for all his years of hard work."""
+animePopularity	14255
+animeDescription	Kitty's and Mimmy's class find out that Yuubinya-san, their town's postal worker, is having a hard time delivering the mail in his old age. They try to give him a gift as a thank you for all his years of hard work.
 animeRelated	[]
-animeCharacters	[b'White, Kitty', b'White, Mimmy']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshikawa, Yasuo\n\nDirector\n\n', b'\nHoshiyama, Hiroyuki\n\nScreenplay\n\n', b'\nTsuji, Shintarou\n\nExecutive Producer\n\n', b'\nMatsuyama, Maya\n\nAnimation Director\n\n']
+animeCharacters	['White, Kitty', 'White, Mimmy']
+animeVoices	['Hayashibara, Megumi']
+animeStaff	[['Ishikawa, Yasuo', 'Director'], ['Hoshiyama, Hiroyuki', 'Screenplay'], ['Tsuji, Shintarou', 'Executive Producer'], ['Matsuyama, Maya', 'Animation Director']]

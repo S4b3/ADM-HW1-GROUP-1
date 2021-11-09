@@ -1,5 +1,5 @@
-animeTitle	b'Hulaing Babies'
-animeType	b'TV'
+animeTitle	Hulaing Babies
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.87
 animeUsers	1121
 animeRank	
-animePopularity	
-animeDescription	b'The anime will center on a group of young girls and their struggle as they aim to become Hula Girls.'
-animeRelated	[b'Hulaing Babies Petit', b'Hulaing Babies Aratame: Staying Babies']
-animeCharacters	[b'Miku', b'Nagisa', b'Mona', b'Moe', b'Shiina', b'Suzu', b'Fumi', b'Migiwa', b'Natsu', b'Ohara-sensei']
-animeVoices	[b'\nItou, Miku\nJapanese\n', b'\nBridcutt, Sarah Emi\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nToyota, Moe\nJapanese\n', b'\nYamaguchi, Rikako\nJapanese\n', b'\nYoshimura, Haruka\nJapanese\n', b'\nSasaki, Mikoi\nJapanese\n', b'\nSoyama, Momoko\nJapanese\n', b'\nHarusaki, Non\nJapanese\n', b'\nKobori, Yurie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAsao, Yoshinori\n\nDirector\n\n', b'\nKoizumi, Kisuke\n\nSound Director\n\n', b'\nAOP\n\nTheme Song Performance\n\n', b'\nOominato, Ryouzou\n\nColor Design, Character Design, Animation Director\n\n']
+animePopularity	7969
+animeDescription	The anime will center on a group of young girls and their struggle as they aim to become Hula Girls.
+animeRelated	['Hulaing Babies Petit', 'Hulaing Babies Aratame: Staying Babies']
+animeCharacters	['Miku', 'Nagisa', 'Mona', 'Moe', 'Shiina', 'Suzu', 'Fumi', 'Migiwa', 'Natsu', 'Ohara-sensei']
+animeVoices	['Itou, Miku', 'Bridcutt, Sarah Emi', 'Mimori, Suzuko', 'Toyota, Moe', 'Yamaguchi, Rikako', 'Yoshimura, Haruka', 'Sasaki, Mikoi', 'Soyama, Momoko', 'Harusaki, Non', 'Kobori, Yurie']
+animeStaff	[['Asao, Yoshinori', 'Director'], ['Koizumi, Kisuke', 'Sound Director'], ['AOP', 'Theme Song Performance'], ['Oominato, Ryouzou', 'Color Design, Character Design, Animation Director']]

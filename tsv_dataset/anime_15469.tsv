@@ -1,5 +1,5 @@
-animeTitle	b'Dosukoi Sushi Zumou'
-animeType	b'TV'
+animeTitle	Dosukoi Sushi Zumou
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
+animePopularity	15050
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
 animeRelated	[]
-animeCharacters	[b'Wasabi Gyouji', b'Gari Yobidashi', b'Takenoko Oyakata', b'Nasubi Oyakata', b'Ocha Kaisetsusha']
-animeVoices	[b'\nSasa, Kenta\nJapanese\n', b'\nSawashiro, Chiharu\nJapanese\n', b'\nHama, Kento\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nOoshima, Miyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSukegawa, Yuuta\n\nDirector\n\n']
+animeCharacters	['Wasabi Gyouji', 'Gari Yobidashi', 'Takenoko Oyakata', 'Nasubi Oyakata', 'Ocha Kaisetsusha']
+animeVoices	['Sasa, Kenta', 'Sawashiro, Chiharu', 'Hama, Kento', 'Tsuda, Kenjirou', 'Ooshima, Miyuki']
+animeStaff	[['Sukegawa, Yuuta', 'Director']]

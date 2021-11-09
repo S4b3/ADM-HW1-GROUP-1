@@ -1,5 +1,5 @@
-animeTitle	b'Super Cub'
-animeType	b'TV'
+animeTitle	Super Cub
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.45
 animeUsers	27833
 animeRank	
-animePopularity	
-animeDescription	"b""Koguma, a reserved second-year high school student, has nothing\xe2\x80\x94no parents, hobbies, friends, or goals. On her way home one afternoon, she visits a vehicle shop in hopes of acquiring a motor scooter. With only enough money to make ends meet, she is disheartened by the price tags and prepares to turn back. However, as she is about to leave, the shop's owner offers her a pre-owned Honda Super Cub for ten thousand yen. Believing that the motorcycle will help brighten her monotonous world, she accepts the deal. As Koguma journeys through her town on small adventures with her Super Cub, she begins to build irreplaceable friendships and eagerly advances toward her new life.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Super Cub']
-animeCharacters	[b'Koguma', b'Reiko', b'Eniwa, Shii', b'Shino-san', b'Driver', b'Homeroom Teacher', b'Boy Student', b'Girl Student', b'Clerk']
-animeVoices	[b'\nYomichi, Yuki\nJapanese\n', b'\nNanase, Ayaka\nJapanese\n', b'\nHioka, Natsumi\nJapanese\n', b'\nUo, Ken\nJapanese\n', b'\nTakeuchi, Ryouta\nJapanese\n', b'\nHara, Eriko\nJapanese\n', b'\nFukuhara, Katsumi\nJapanese\n', b'\nFukagawa, Seria\nJapanese\n', b'\nHoriba, Miki\nJapanese\n', b'\nYamamoto, Kanehira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujii, Toshirou\n\nDirector\n\n', b'\nZAQ\n\nTheme Song Lyrics, Music\n\n', b'\nYomichi, Yuki\n\nTheme Song Performance\n\n', b'\nHioka, Natsumi\n\nTheme Song Performance\n\n']
+animePopularity	1899
+animeDescription	"Koguma, a reserved second-year high school student, has nothing—no parents, hobbies, friends, or goals. On her way home one afternoon, she visits a vehicle shop in hopes of acquiring a motor scooter. With only enough money to make ends meet, she is disheartened by the price tags and prepares to turn back. However, as she is about to leave, the shop's owner offers her a pre-owned Honda Super Cub for ten thousand yen. Believing that the motorcycle will help brighten her monotonous world, she accepts the deal. As Koguma journeys through her town on small adventures with her Super Cub, she begins to build irreplaceable friendships and eagerly advances toward her new life.
+
+[Written by MAL Rewrite]"
+animeRelated	['Super Cub']
+animeCharacters	['Koguma', 'Reiko', 'Eniwa, Shii', 'Shino-san', 'Driver', 'Homeroom Teacher', 'Boy Student', 'Girl Student', 'Clerk']
+animeVoices	['Yomichi, Yuki', 'Nanase, Ayaka', 'Hioka, Natsumi', 'Uo, Ken', 'Takeuchi, Ryouta', 'Hara, Eriko', 'Fukuhara, Katsumi', 'Fukagawa, Seria', 'Horiba, Miki', 'Yamamoto, Kanehira']
+animeStaff	[['Fujii, Toshirou', 'Director'], ['ZAQ', 'Theme Song Lyrics, Music'], ['Yomichi, Yuki', 'Theme Song Performance'], ['Hioka, Natsumi', 'Theme Song Performance']]

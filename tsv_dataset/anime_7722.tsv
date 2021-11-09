@@ -1,5 +1,5 @@
-animeTitle	b'Sasurai no Shoujo Nell'
-animeType	b'TV'
+animeTitle	Sasurai no Shoujo Nell
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.19
 animeUsers	244
 animeRank	
-animePopularity	
-animeDescription	"b""Nell is a young girl living with her grandfather, Mr Trent, the owner of a shop in London. As he couldn't payback a loan he made, he has to flee with Nell. They decide to search for Nell's mother, who is living somewhere in Great Britain..."""
+animePopularity	10500
+animeDescription	Nell is a young girl living with her grandfather, Mr Trent, the owner of a shop in London. As he couldn't payback a loan he made, he has to flee with Nell. They decide to search for Nell's mother, who is living somewhere in Great Britain...
 animeRelated	[]
-animeCharacters	[b'Trent', b'Nell', b'Rosa', b'Narrator', b'Brass', b'Kilp', b'Mystery Man', b'Kit']
-animeVoices	[b'\nMine, Eken\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nTakahashi, Naoko\nJapanese\n', b'\nInagaki, Mihoko\nJapanese\n', b'\nYashiro, Shun\nJapanese\n', b'\nKumakura, Kazuo\nJapanese\n', b'\nSogabe, Kazuyuki\nJapanese\n', b'\nOota, Yoshiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishimaki, Hideo\n\nDirector\n\n', b'\nFuji, Mineo\n\nEpisode Director, Storyboard\n\n', b'\nDickens, Charles\n\nOriginal Creator\n\n', b'\nKuzuoka, Hiroshi\n\nAnimation Director\n\n']
+animeCharacters	['Trent', 'Nell', 'Rosa', 'Narrator', 'Brass', 'Kilp', 'Mystery Man', 'Kit']
+animeVoices	['Mine, Eken', 'Ichiryuusai, Harumi', 'Takahashi, Naoko', 'Inagaki, Mihoko', 'Yashiro, Shun', 'Kumakura, Kazuo', 'Sogabe, Kazuyuki', 'Oota, Yoshiko']
+animeStaff	[['Nishimaki, Hideo', 'Director'], ['Fuji, Mineo', 'Episode Director, Storyboard'], ['Dickens, Charles', 'Original Creator'], ['Kuzuoka, Hiroshi', 'Animation Director']]

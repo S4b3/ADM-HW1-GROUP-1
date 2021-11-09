@@ -1,5 +1,5 @@
-animeTitle	b'Hetalia: The World Twinkle'
-animeType	b'ONA'
+animeTitle	Hetalia: The World Twinkle
+animeType	ONA
 animeNumEpisode	15
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.24
 animeUsers	16411
 animeRank	
-animePopularity	
-animeDescription	"b""United Kingdom and America have to put aside their centuries of differences and cooperate if they want to stand a chance against Italy and Germany on the African Front. After being defeated by a questionable border defense system, France swears vengeance on Germany. In another part of the world, the Nordic countries discuss how similar they are to each other, much to Finland's dismay. Meanwhile, Sealand embarks on a very ambitious quest to search for the other micronations after befriending Wy and Seborga.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Hetalia Axis Powers', b'Hetalia: The Beautiful World', b'Hetalia: The World Twinkle Specials', b'Hetalia: The World Twinkle Extra Disc', b'Hetalia World\xe2\x98\x85Stars']
-animeCharacters	[b'United Kingdom', b'North Italy', b'Russia', b'America', b'Germany', b'Japan', b'France', b'China', b'Prussia', b'Canada']
-animeVoices	[b'\nSugiyama, Noriaki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nTakato, Yasuhiro\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n', b'\nTakahashi, Hiroki\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nKaida, Yuki\nJapanese\n', b'\nKousaka, Atsushi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMarchi, Jamie\n\nScript\n\n', b'\nNamikawa, Daisuke\n\nTheme Song Performance\n\n', b'\nHimaruya, Hidekaz\n\nOriginal Creator\n\n', b'\nFukunaga, Gen\n\nExecutive Producer\n\n']
+animePopularity	2926
+animeDescription	"United Kingdom and America have to put aside their centuries of differences and cooperate if they want to stand a chance against Italy and Germany on the African Front. After being defeated by a questionable border defense system, France swears vengeance on Germany. In another part of the world, the Nordic countries discuss how similar they are to each other, much to Finland's dismay. Meanwhile, Sealand embarks on a very ambitious quest to search for the other micronations after befriending Wy and Seborga.
+
+[Written by MAL Rewrite]"
+animeRelated	['Hetalia Axis Powers', 'Hetalia: The Beautiful World', 'Hetalia: The World Twinkle Specials', 'Hetalia: The World Twinkle Extra Disc', 'Hetalia World★Stars']
+animeCharacters	['United Kingdom', 'North Italy', 'Russia', 'America', 'Germany', 'Japan', 'France', 'China', 'Prussia', 'Canada']
+animeVoices	['Sugiyama, Noriaki', 'Namikawa, Daisuke', 'Takato, Yasuhiro', 'Konishi, Katsuyuki', 'Yasumoto, Hiroki', 'Takahashi, Hiroki', 'Onosaka, Masaya', 'Kaida, Yuki', 'Kousaka, Atsushi']
+animeStaff	[['Marchi, Jamie', 'Script'], ['Namikawa, Daisuke', 'Theme Song Performance'], ['Himaruya, Hidekaz', 'Original Creator'], ['Fukunaga, Gen', 'Executive Producer']]

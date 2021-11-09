@@ -1,5 +1,5 @@
-animeTitle	b'Digimon Adventure: Last Evolution Kizuna'
-animeType	b'Movie'
+animeTitle	Digimon Adventure: Last Evolution Kizuna
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.18
 animeUsers	10889
 animeRank	
-animePopularity	
-animeDescription	"b""As the Chosen Children and their partner Digimon live happily together in the human world, Taichi Yagami and Yamato Ishida, alongside their friends, dedicate themselves to maintaining this hard-earned peace. Though united by this innate responsibility, each one has already started to take their first steps toward a future beyond being a Chosen Child. \n\nHowever, this new journey is interrupted by the appearance of Menoa Bellucci, an American professor specializing in Digimon research. She bears news of several Chosen Children from around the world being found comatose, with their partner Digimon nowhere to be found. Menoa's investigations indicate that a new breed of Digimon is behind the alarming phenomenon: Eosmon, who hides within the internet's depths. \n\nTo succeed in this mission, the team must endeavor through the growing distance between them and band together one last time.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Digimon Adventure', b'Digimon Adventure: Last Evolution Kizuna', b'Digimon Adventure: 20 Shuunen Memorial Story']
-animeCharacters	[b'Yagami, Taichi', b'Ishida, Yamato', b'Yagami, Hikari', b'Takaishi, Takeru', b'Tachikawa, Mimi', b'Izumi, Koushirou', b'Takenouchi, Sora', b'Kido, Jou', b'Ichijouji, Ken', b'Motomiya, Daisuke']
-animeVoices	[b'\nHanae, Natsuki\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nEnoki, Junya\nJapanese\n', b'\nYoshida, Hitomi\nJapanese\n', b'\nTamura, Mutsumi\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nIkeda, Junya\nJapanese\n', b'\nLounsbery, Arthur\nJapanese\n', b'\nKatayama, Fukujuurou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTaguchi, Tomohisa\n\nDirector\n\n', b'\nOohashi, Kazuki\n\nEpisode Director\n\n', b'\nYamatoya, Akatsuki\n\nScript, Screenplay\n\n', b'\nWada, Koji\n\nTheme Song Performance\n\n']
+animePopularity	3236
+animeDescription	"As the Chosen Children and their partner Digimon live happily together in the human world, Taichi Yagami and Yamato Ishida, alongside their friends, dedicate themselves to maintaining this hard-earned peace. Though united by this innate responsibility, each one has already started to take their first steps toward a future beyond being a Chosen Child. 
+
+However, this new journey is interrupted by the appearance of Menoa Bellucci, an American professor specializing in Digimon research. She bears news of several Chosen Children from around the world being found comatose, with their partner Digimon nowhere to be found. Menoa's investigations indicate that a new breed of Digimon is behind the alarming phenomenon: Eosmon, who hides within the internet's depths. 
+
+To succeed in this mission, the team must endeavor through the growing distance between them and band together one last time.
+
+[Written by MAL Rewrite]"
+animeRelated	['Digimon Adventure', 'Digimon Adventure: Last Evolution Kizuna', 'Digimon Adventure: 20 Shuunen Memorial Story']
+animeCharacters	['Yagami, Taichi', 'Ishida, Yamato', 'Yagami, Hikari', 'Takaishi, Takeru', 'Tachikawa, Mimi', 'Izumi, Koushirou', 'Takenouchi, Sora', 'Kido, Jou', 'Ichijouji, Ken', 'Motomiya, Daisuke']
+animeVoices	['Hanae, Natsuki', 'Hosoya, Yoshimasa', 'Ichimichi, Mao', 'Enoki, Junya', 'Yoshida, Hitomi', 'Tamura, Mutsumi', 'Mimori, Suzuko', 'Ikeda, Junya', 'Lounsbery, Arthur', 'Katayama, Fukujuurou']
+animeStaff	[['Taguchi, Tomohisa', 'Director'], ['Oohashi, Kazuki', 'Episode Director'], ['Yamatoya, Akatsuki', 'Script, Screenplay'], ['Wada, Koji', 'Theme Song Performance']]

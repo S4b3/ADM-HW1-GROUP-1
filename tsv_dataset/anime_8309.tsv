@@ -1,5 +1,5 @@
-animeTitle	b'Torajima no Miime'
-animeType	b'Special'
+animeTitle	Torajima no Miime
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.08
 animeUsers	275
 animeRank	
-animePopularity	
-animeDescription	"b'A special that appeared with the Queen Emeraldas OVA, a short story dedicated to Leiji Matsumoto\'s beloved cat ""Mii-kun.""'"
-animeRelated	[b'Torajima no Miime', b'Queen Emeraldas']
-animeCharacters	[b'Mii-kun', b'Tori-san', b'Ooyama, Toshirou', b'Shirobota', b'Ooyama, Akiko', b'Ooyama, Atsuko', b'Chibitora', b'Ooyama, Hana']
-animeVoices	[b'\nKoorogi, Satomi\nJapanese\n', b'\nMatsumoto, Yoshirou\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nUrawa, Megumi\nJapanese\n', b'\nNagasako, Takashi\nJapanese\n', b'\nSayuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsumoto, Leiji\n\nCreator\n\n', b'\nTaniguchi, Moriyasu\n\nAnimation Director, Character Design\n\n']
+animePopularity	11658
+animeDescription	"A special that appeared with the Queen Emeraldas OVA, a short story dedicated to Leiji Matsumoto's beloved cat ""Mii-kun."""
+animeRelated	['Torajima no Miime', 'Queen Emeraldas']
+animeCharacters	['Mii-kun', 'Tori-san', 'Ooyama, Toshirou', 'Shirobota', 'Ooyama, Akiko', 'Ooyama, Atsuko', 'Chibitora', 'Ooyama, Hana']
+animeVoices	['Koorogi, Satomi', 'Matsumoto, Yoshirou', 'Tatsuta, Naoki', 'Neya, Michiko', 'Urawa, Megumi', 'Nagasako, Takashi', 'Sayuri']
+animeStaff	[['Matsumoto, Leiji', 'Creator'], ['Taniguchi, Moriyasu', 'Animation Director, Character Design']]

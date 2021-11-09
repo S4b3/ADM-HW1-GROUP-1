@@ -1,5 +1,5 @@
-animeTitle	b'La Rose de Versailles'
-animeType	b'Special'
+animeTitle	La Rose de Versailles
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.67
 animeUsers	752
 animeRank	
-animePopularity	
-animeDescription	b'Toei Animation announced the new movie based on the classic anime and manga. This project is most likely canceled and a trailer is all that remains, which is what this entry encompasses.'
-animeRelated	[b'Versailles no Bara']
-animeCharacters	[b'de Jarjeyes, Oscar Fran\xc3\xa7ois', b'Grandier, Andr\xc3\xa9', b'Antoinette, Marie', b'Fersen, Hans Axel von']
-animeVoices	[b'\nKobayashi, Sanae\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIkeda, Riyoko\n\nOriginal Creator\n\n']
+animePopularity	8242
+animeDescription	Toei Animation announced the new movie based on the classic anime and manga. This project is most likely canceled and a trailer is all that remains, which is what this entry encompasses.
+animeRelated	['Versailles no Bara']
+animeCharacters	['de Jarjeyes, Oscar François', 'Grandier, André', 'Antoinette, Marie', 'Fersen, Hans Axel von']
+animeVoices	['Kobayashi, Sanae', 'Morikawa, Toshiyuki', 'Kawasumi, Ayako', 'Inoue, Kazuhiko']
+animeStaff	[['Ikeda, Riyoko', 'Original Creator']]

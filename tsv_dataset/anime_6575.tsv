@@ -1,5 +1,5 @@
-animeTitle	b'Phantom in the Twilight'
-animeType	b'TV'
+animeTitle	Phantom in the Twilight
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.42
 animeUsers	11297
 animeRank	
-animePopularity	
-animeDescription	"b'Set in modern day London, the story takes place in a world where ""Shadows"" are born from human fear and anxiety. A young girl arrives to study abroad, only to be caught in a bizarre incident as she enters university. In a city with no acquaintances, the helpless girl wanders into ""Caf\xc3\xa9 Forbidden,"" a mysterious caf\xc3\xa9 that exclusively opens at midnight. She meets an assortment of handsome men employed at the caf\xc3\xa9, where guardians who protect the boundary between humans and shadow convene.\n\n(Source: MAL News)'"
+animePopularity	2791
+animeDescription	"Set in modern day London, the story takes place in a world where ""Shadows"" are born from human fear and anxiety. A young girl arrives to study abroad, only to be caught in a bizarre incident as she enters university. In a city with no acquaintances, the helpless girl wanders into ""Café Forbidden,"" a mysterious café that exclusively opens at midnight. She meets an assortment of handsome men employed at the café, where guardians who protect the boundary between humans and shadow convene.
+
+(Source: MAL News)"
 animeRelated	[]
-animeCharacters	[b'Ton, Baileu', b' Bowen, Luke', b'King, Wayne ', b'Garfunkel, Vlad ', b'Tauryu', b'Rijan, Sha ', b'Shinyao, Mu ', b'Helsing, Van ', b'Gregory, George L. ', b'Haysin']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nYamashita, Daiki\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nIwami, Manaka\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nNomura, Kenji\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirasawa, Nao\n\nProducer\n\n', b'\nKunihiro, Mori\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nNakayama, Naomi\n\nEpisode Director, Storyboard\n\n']
+animeCharacters	['Ton, Baileu', ' Bowen, Luke', 'King, Wayne ', 'Garfunkel, Vlad ', 'Tauryu', 'Rijan, Sha ', 'Shinyao, Mu ', 'Helsing, Van ', 'Gregory, George L. ', 'Haysin']
+animeVoices	['Hanazawa, Kana', 'Okamoto, Nobuhiko', 'Yamashita, Daiki', 'Sakurai, Takahiro', 'Sugita, Tomokazu', 'Horie, Yui', 'Iwami, Manaka', 'Koyama, Rikiya', 'Nomura, Kenji', 'Suwabe, Junichi']
+animeStaff	[['Hirasawa, Nao', 'Producer'], ['Kunihiro, Mori', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Nakayama, Naomi', 'Episode Director, Storyboard']]

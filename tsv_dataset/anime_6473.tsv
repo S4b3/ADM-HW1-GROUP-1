@@ -1,5 +1,5 @@
-animeTitle	b'Senyoku no Sigrdrifa'
-animeType	b'TV'
+animeTitle	Senyoku no Sigrdrifa
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.44
 animeUsers	10122
 animeRank	
-animePopularity	
-animeDescription	"b'When humanity is driven to the brink of despair by an alien threat called Pillars, a self-proclaimed god named Odin appears and bestows upon the people the power of ""Valkyries""\xe2\x80\x94battle maidens who pilot vintage aircraft called Hero Wings.\n\nClaudia ""Schwertleite"" Bruford is the ace of the European Valkyrie Wing. When Japan\'s S-class Valkyrie passes away in battle, Claudia is relocated to Japan as a replacement. However, with a dark record of being the sole survivor in every mission that results in being nicknamed ""Grim Reaper,"" she suspects she already knows why she was chosen.\n\nPrepared to be shunned yet again, she arrives at the Tateyama Valkyrie Wing. Little does she know, her new comrades are a bunch of oddballs who have zero intention of accepting her dreadful nickname!\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Senyoku no Sigrdrifa: Dai-909 Senjutsu Hime-tai Sentou Kiroku!']
-animeCharacters	[b'Komagome, Azuzu', b'Muguruma, Miyako', b'Bruford, Claudia', b'Watarai, Sonoka', b'Kazuura, Nono', b'Honjou, Misato', b'Kinpatsu', b'Gurasan', b'Odin', b'Ronge']
-animeVoices	[b'\nIchimichi, Mao\nJapanese\n', b'\nHieda, Nene\nJapanese\n', b'\nYamamura, Hibiku\nJapanese\n', b'\nKikuchi, Sayaka\nJapanese\n', b'\nHidaka, Rina\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nKajita, Mafia\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTokuda, Hirotaka\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nNagatsuki, Tappei\n\nScript, Series Composition\n\n', b'\nNanawo, Akari\n\nTheme Song Performance\n\n']
+animePopularity	2909
+animeDescription	"When humanity is driven to the brink of despair by an alien threat called Pillars, a self-proclaimed god named Odin appears and bestows upon the people the power of ""Valkyries""—battle maidens who pilot vintage aircraft called Hero Wings.
+
+Claudia ""Schwertleite"" Bruford is the ace of the European Valkyrie Wing. When Japan's S-class Valkyrie passes away in battle, Claudia is relocated to Japan as a replacement. However, with a dark record of being the sole survivor in every mission that results in being nicknamed ""Grim Reaper,"" she suspects she already knows why she was chosen.
+
+Prepared to be shunned yet again, she arrives at the Tateyama Valkyrie Wing. Little does she know, her new comrades are a bunch of oddballs who have zero intention of accepting her dreadful nickname!
+
+[Written by MAL Rewrite]"
+animeRelated	['Senyoku no Sigrdrifa: Dai-909 Senjutsu Hime-tai Sentou Kiroku!']
+animeCharacters	['Komagome, Azuzu', 'Muguruma, Miyako', 'Bruford, Claudia', 'Watarai, Sonoka', 'Kazuura, Nono', 'Honjou, Misato', 'Kinpatsu', 'Gurasan', 'Odin', 'Ronge']
+animeVoices	['Ichimichi, Mao', 'Hieda, Nene', 'Yamamura, Hibiku', 'Kikuchi, Sayaka', 'Hidaka, Rina', 'Horie, Yui', 'Sugita, Tomokazu', 'Kajita, Mafia', 'Nakamura, Yuuichi']
+animeStaff	[['Tokuda, Hirotaka', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Nagatsuki, Tappei', 'Script, Series Composition'], ['Nanawo, Akari', 'Theme Song Performance']]

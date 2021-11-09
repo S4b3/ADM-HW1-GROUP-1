@@ -1,5 +1,5 @@
-animeTitle	b'Hyouga Senshi Gaislugger'
-animeType	b'TV'
+animeTitle	Hyouga Senshi Gaislugger
+animeType	TV
 animeNumEpisode	20
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""A cyborg warrior from an ancient Antarctic kingdom awakes 30000 years later from an accidental hibernation to find the Earth changed and an old alien enemy on the verge of invasion. It's up to Guyslugger to use his ancient technology to defeat the aliens. \n\n(Source: AniDB)"""
+animePopularity	12544
+animeDescription	"A cyborg warrior from an ancient Antarctic kingdom awakes 30000 years later from an accidental hibernation to find the Earth changed and an old alien enemy on the verge of invasion. It's up to Guyslugger to use his ancient technology to defeat the aliens. 
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Dr. Shiki', b'Reiko', b'Mari', b'Taro', b'Ken', b'Kaya']
-animeVoices	[b'\nIizuka, Shouzou\nJapanese\n', b'\nYoshida, Rihoko\nJapanese\n', b'\nKomiya, Kazue\nJapanese\n', b'\nYamamoto, Keiko\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nKamiya, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiguro, Noboru\n\nDirector\n\n', b'\nFujikawa, Keisuke\n\nScript, Screenplay\n\n', b'\nMizuki, Ichirou\n\nTheme Song Performance\n\n', b'\nHorie, Mitsuko\n\nTheme Song Performance\n\n']
+animeCharacters	['Dr. Shiki', 'Reiko', 'Mari', 'Taro', 'Ken', 'Kaya']
+animeVoices	['Iizuka, Shouzou', 'Yoshida, Rihoko', 'Komiya, Kazue', 'Yamamoto, Keiko', 'Furuya, Toru', 'Kamiya, Akira']
+animeStaff	[['Ishiguro, Noboru', 'Director'], ['Fujikawa, Keisuke', 'Script, Screenplay'], ['Mizuki, Ichirou', 'Theme Song Performance'], ['Horie, Mitsuko', 'Theme Song Performance']]

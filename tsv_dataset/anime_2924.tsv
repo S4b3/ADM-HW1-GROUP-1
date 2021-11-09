@@ -1,5 +1,5 @@
-animeTitle	b'Touhou Niji Sousaku Doujin Anime: Musou Kakyou Special'
-animeType	b'OVA'
+animeTitle	Touhou Niji Sousaku Doujin Anime: Musou Kakyou Special
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.19
 animeUsers	3072
 animeRank	
-animePopularity	
-animeDescription	"b'Episode 2.5 of ""A Summer Day\'s Dream"" series of anime shorts based on the Touhou Project shooter game series.'"
-animeRelated	[b'Touhou Niji Sousaku Doujin Anime: Musou Kakyou']
-animeCharacters	[b'Kirisame, Marisa', b'Konpaku, Youmu', b'Inaba, Reisen Udongein', b'Hakurei, Reimu', b'Izayoi, Sakuya', b'Scarlet, Remilia', b'Saigyouji, Yuyuko', b'Ibuki, Suika', b'Inaba, Tewi', b'Yagokoro, Eirin']
+animePopularity	5784
+animeDescription	"Episode 2.5 of ""A Summer Day's Dream"" series of anime shorts based on the Touhou Project shooter game series."
+animeRelated	['Touhou Niji Sousaku Doujin Anime: Musou Kakyou']
+animeCharacters	['Kirisame, Marisa', 'Konpaku, Youmu', 'Inaba, Reisen Udongein', 'Hakurei, Reimu', 'Izayoi, Sakuya', 'Scarlet, Remilia', 'Saigyouji, Yuyuko', 'Ibuki, Suika', 'Inaba, Tewi', 'Yagokoro, Eirin']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTokine\n\nDirector\n\n', b'\nZUN\n\nOriginal Creator\n\n']
+animeStaff	[['Tokine', 'Director'], ['ZUN', 'Original Creator']]

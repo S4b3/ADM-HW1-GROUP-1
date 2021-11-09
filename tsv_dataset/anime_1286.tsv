@@ -1,5 +1,5 @@
-animeTitle	b'Juubee Ninpuuchou'
-animeType	b'Movie'
+animeTitle	Juubee Ninpuuchou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.61
 animeUsers	58824
 animeRank	
-animePopularity	
-animeDescription	"b""Jubei Kibagami wanders feudal Japan as an itinerant swordsman-for-hire. After a past betrayal left him masterless, he has no more patience for warring political factions and their schemes. Unfortunately, both past and political intrigue collide when he meets and saves a female ninja named Kagero from a man with the ability to make his body as hard as stone.\n\nThe sole survivor of a ninja clan, Kagero continues her team's last mission: investigate a mysterious plague that wiped out an entire village. Jubei wants nothing to do with this, but the stone-like man's allies, a group of ninja with supernatural powers known as the Devils of Kimon, make that option difficult. To make matters worse, a government spy poisons Jubei, promising him an antidote if he can unravel the true intentions of the Devils of Kimon and their connection to the plague. The trail leads to shadow leaders, a plot to overthrow the government, and a man that Jubei thought he would never see again."""
-animeRelated	[b'Juubee Ninpuuchou: Ryuuhougyoku-hen']
-animeCharacters	[b'Kibagami, Jubei', b'Kagero', b'Himuro, Gemma', b'Dakuan', b'Benisato', b'Zakuro', b'Yurimaru', b'Shijima', b'Tessai', b'Utsutsu, Mujuro']
-animeVoices	[b'\nYamadera, Kouichi\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nTakashima, Gara\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nOomori, Akimasa\nJapanese\n', b'\nOotomo, Ryuuzaburou\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nKawajiri, Yoshiaki\n\nDirector, Screenplay, Key Animation, Original Creator, Original Character Design\n\n', b'\nHamasaki, Hiroshi\n\nKey Animation\n\n', b'\nKoike, Takeshi\n\nKey Animation\n\n']
+animePopularity	1455
+animeDescription	"Jubei Kibagami wanders feudal Japan as an itinerant swordsman-for-hire. After a past betrayal left him masterless, he has no more patience for warring political factions and their schemes. Unfortunately, both past and political intrigue collide when he meets and saves a female ninja named Kagero from a man with the ability to make his body as hard as stone.
+
+The sole survivor of a ninja clan, Kagero continues her team's last mission: investigate a mysterious plague that wiped out an entire village. Jubei wants nothing to do with this, but the stone-like man's allies, a group of ninja with supernatural powers known as the Devils of Kimon, make that option difficult. To make matters worse, a government spy poisons Jubei, promising him an antidote if he can unravel the true intentions of the Devils of Kimon and their connection to the plague. The trail leads to shadow leaders, a plot to overthrow the government, and a man that Jubei thought he would never see again."
+animeRelated	['Juubee Ninpuuchou: Ryuuhougyoku-hen']
+animeCharacters	['Kibagami, Jubei', 'Kagero', 'Himuro, Gemma', 'Dakuan', 'Benisato', 'Zakuro', 'Yurimaru', 'Shijima', 'Tessai', 'Utsutsu, Mujuro']
+animeVoices	['Yamadera, Kouichi', 'Shinohara, Emi', 'Gouri, Daisuke', 'Aono, Takeshi', 'Takashima, Gara', 'Katsuki, Masako', 'Seki, Toshihiko', 'Oomori, Akimasa', 'Ootomo, Ryuuzaburou', 'Wakamoto, Norio']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Kawajiri, Yoshiaki', 'Director, Screenplay, Key Animation, Original Creator, Original Character Design'], ['Hamasaki, Hiroshi', 'Key Animation'], ['Koike, Takeshi', 'Key Animation']]

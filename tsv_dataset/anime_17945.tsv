@@ -1,5 +1,5 @@
-animeTitle	b'Otome*Domain The Animation'
-animeType	b'OVA'
+animeTitle	Otome*Domain The Animation
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.73
 animeUsers	1551
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
+animePopularity	7439
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
 animeRelated	[]
-animeCharacters	[b'Asuka, Minato', b'Oogaki, Hinata', b'Saionji, Kazari', b'Kifune, Yuzu']
-animeVoices	[b'\nAyumi, Sarah\nJapanese\n', b'\nMinegishi, Yukari\nJapanese\n', b'\nAnzu, Hana\nJapanese\n', b'\nHanakage, Hotaru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nRaika, Ken\n\nDirector\n\n', b'\nSuzuki, Takato\n\nCharacter Design\n\n']
+animeCharacters	['Asuka, Minato', 'Oogaki, Hinata', 'Saionji, Kazari', 'Kifune, Yuzu']
+animeVoices	['Ayumi, Sarah', 'Minegishi, Yukari', 'Anzu, Hana', 'Hanakage, Hotaru']
+animeStaff	[['Raika, Ken', 'Director'], ['Suzuki, Takato', 'Character Design']]

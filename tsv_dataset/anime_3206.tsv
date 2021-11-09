@@ -1,5 +1,5 @@
-animeTitle	b'Shin Captain Tsubasa'
-animeType	b'OVA'
+animeTitle	Shin Captain Tsubasa
+animeType	OVA
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.13
 animeUsers	5921
 animeRank	
-animePopularity	
-animeDescription	"b""Shin Captain Tsubasa takes place at the International Jr. Youth tournament (U-16) in Paris, France. After defeating the Argentina Jr. Youth, Italy Jr. Youth and France Jr. Youth teams, Japan Jr. Youth reaches the final against the powerful West Germany Jr. Youth team. The giant goal keeper M\xc3\xbcller, the ace Kaltz and Europe's best player Schneider offer the Japan Jr. Youth team an extremely hard final match."""
-animeRelated	[b'Captain Tsubasa', b'Captain Tsubasa J']
-animeCharacters	[b'Oozora, Tsubasa', b'Wakabayashi, Genzou', b'Hyuuga, Kojirou', b'Matsuyama, Hikaru', b'Schneider, Karl-Heinz', b'Ishizaki, Ryou', b'Nakazawa, Sanae', b'Wakashimazu, Ken', b'Pierre, Elle Sid', b'Soda, Makoto']
-animeVoices	[b'\nHibino, Akari\nJapanese\n', b'\nHashimoto, Kouichi\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nIchiryuusai, Teiyuu\nJapanese\n', b'\nNanba, Keiichi\nJapanese\n', b'\nMaruyama, Hiroko\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nShioya, Yoku\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nSekita, Osamu\n\nDirector\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b""\nD'Avena, Cristina\n\nTheme Song Performance\n\n""]"
+animePopularity	5173
+animeDescription	Shin Captain Tsubasa takes place at the International Jr. Youth tournament (U-16) in Paris, France. After defeating the Argentina Jr. Youth, Italy Jr. Youth and France Jr. Youth teams, Japan Jr. Youth reaches the final against the powerful West Germany Jr. Youth team. The giant goal keeper Müller, the ace Kaltz and Europe's best player Schneider offer the Japan Jr. Youth team an extremely hard final match.
+animeRelated	['Captain Tsubasa', 'Captain Tsubasa J']
+animeCharacters	['Oozora, Tsubasa', 'Wakabayashi, Genzou', 'Hyuuga, Kojirou', 'Matsuyama, Hikaru', 'Schneider, Karl-Heinz', 'Ishizaki, Ryou', 'Nakazawa, Sanae', 'Wakashimazu, Ken', 'Pierre, Elle Sid', 'Soda, Makoto']
+animeVoices	['Hibino, Akari', 'Hashimoto, Kouichi', 'Suzuoki, Hirotaka', 'Ichiryuusai, Teiyuu', 'Nanba, Keiichi', 'Maruyama, Hiroko', 'Sakamoto, Chika', 'Tobita, Nobuo', 'Shioya, Yoku', 'Ootsuka, Houchuu']
+animeStaff	"[['Sekita, Osamu', 'Director'], ['Watanabe, Jun', 'Sound Director'], ['Matsuura, Noriyoshi', 'Sound Director'], [""D'Avena, Cristina"", 'Theme Song Performance']]"

@@ -1,5 +1,5 @@
-animeTitle	b'Xiao Qian'
-animeType	b'Movie'
+animeTitle	Xiao Qian
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.43
 animeUsers	1020
 animeRank	
-animePopularity	
-animeDescription	b'A Chinese Ghost Story is a movie that follows a young man named Ning. After the loss of his girlfriend he works as a debt collector to forget his troubles only to encounter more than he had imagined. Accompanied by his constant companion Solid Gold, Ning ends up in a ghost town and from there the adventure ensues. This movie explores some of China`s myths and fantasies as the viewer is taken through a world of drama, romance, and battles between good and evil.\n\n(Source: AniDB)'
+animePopularity	8530
+animeDescription	"A Chinese Ghost Story is a movie that follows a young man named Ning. After the loss of his girlfriend he works as a debt collector to forget his troubles only to encounter more than he had imagined. Accompanied by his constant companion Solid Gold, Ning ends up in a ghost town and from there the adventure ensues. This movie explores some of China`s myths and fantasies as the viewer is taken through a world of drama, romance, and battles between good and evil.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Ning', b'Cloud, White', b'Lan, Siu', b'Beard, Red', b'Evil, Mountain', b'Gold, Solid', b'Deep, Siu', b'Miles, Ten', b'Trunk, Madame', b'Seen, Siu']
-animeVoices	[b'\nIshida, Akira\nJapanese\n', b'\nYuuya, Atsuko\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshikawa, Shingo\n\nAssistant Animation Director\n\n']
+animeCharacters	['Ning', 'Cloud, White', 'Lan, Siu', 'Beard, Red', 'Evil, Mountain', 'Gold, Solid', 'Deep, Siu', 'Miles, Ten', 'Trunk, Madame', 'Seen, Siu']
+animeVoices	['Ishida, Akira', 'Yuuya, Atsuko', 'Tamura, Yukari', 'Hayashibara, Megumi']
+animeStaff	[['Ishikawa, Shingo', 'Assistant Animation Director']]

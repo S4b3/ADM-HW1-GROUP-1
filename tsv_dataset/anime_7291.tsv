@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon: Pikachu Tanken Club'
-animeType	b'Special'
+animeTitle	Pokemon: Pikachu Tanken Club
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.28
 animeUsers	2296
 animeRank	
-animePopularity	
-animeDescription	b'The fourth short premiered on ANA flights on August 1, 2007.\n\n(Source: Wikipedia)'
-animeRelated	[b'Pokemon Diamond & Pearl']
-animeCharacters	[b'Pikachu', b'Nyarth', b'Soonansu', b'Narrator']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nAsada, Yuuji\n\nEpisode Director, Storyboard, Special Effects\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n', b'\nSugimori, Ken\n\nOriginal Character Design\n\n']
+animePopularity	6442
+animeDescription	"The fourth short premiered on ANA flights on August 1, 2007.
+
+(Source: Wikipedia)"
+animeRelated	['Pokemon Diamond & Pearl']
+animeCharacters	['Pikachu', 'Nyarth', 'Soonansu', 'Narrator']
+animeVoices	['Ootani, Ikue', 'Inuyama, Inuko', 'Ueda, Yuuji', 'Horiuchi, Kenyuu']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Asada, Yuuji', 'Episode Director, Storyboard, Special Effects'], ['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design']]

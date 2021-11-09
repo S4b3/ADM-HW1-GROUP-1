@@ -1,5 +1,5 @@
-animeTitle	b'Ijiwaru Baasan (1996)'
-animeType	b'TV'
+animeTitle	Ijiwaru Baasan (1996)
+animeType	TV
 animeNumEpisode	46
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Grandma is a nasty and manipulative thing most of the time, causing endless trouble for her son-in-law and daughter, her grandchildren, and her neighbours.\n\n(Source: ANN)'
-animeRelated	[b'Ijiwaru Baasan']
-animeCharacters	[b'Ishi']
-animeVoices	[b'\nNozawa, Nachi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWada, Kaoru\n\nMusic\n\n', b'\nHasegawa, Machiko\n\nOriginal Creator\n\n', b'\nKurahashi, Shizuo\n\nSound Effects\n\n', b'\nNagao, Hitoshi\n\nArt Director\n\n']
+animePopularity	14998
+animeDescription	"Grandma is a nasty and manipulative thing most of the time, causing endless trouble for her son-in-law and daughter, her grandchildren, and her neighbours.
+
+(Source: ANN)"
+animeRelated	['Ijiwaru Baasan']
+animeCharacters	['Ishi']
+animeVoices	['Nozawa, Nachi']
+animeStaff	[['Wada, Kaoru', 'Music'], ['Hasegawa, Machiko', 'Original Creator'], ['Kurahashi, Shizuo', 'Sound Effects'], ['Nagao, Hitoshi', 'Art Director']]

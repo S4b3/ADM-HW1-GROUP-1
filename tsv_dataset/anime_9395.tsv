@@ -1,5 +1,5 @@
-animeTitle	"b""What's Michael?"""
-animeType	b'OVA'
+animeTitle	What's Michael?
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.79
 animeUsers	323
 animeRank	
-animePopularity	
-animeDescription	b'A series of adventures featuring the one cat apparently everyone in the world owns... Michael.'
-animeRelated	"[b""What's Michael?"", b""What's Michael? 2"", b""What's Michael? (TV)""]"
-animeCharacters	[b'Michael', b'Poppo', b'Narrator']
-animeVoices	[b'\nTomiyama, Kei\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYanagawa, Shigeru\n\nScript, Series Composition\n\n', b'\nKobayashi, Makoto\n\nOriginal Creator\n\n', b'\nKatsumata, Geki\n\nArt Director\n\n', b'\nIwasa, Tadashi\n\nBackground Art\n\n']
+animePopularity	11312
+animeDescription	A series of adventures featuring the one cat apparently everyone in the world owns... Michael.
+animeRelated	"[""What's Michael?"", ""What's Michael? 2"", ""What's Michael? (TV)""]"
+animeCharacters	['Michael', 'Poppo', 'Narrator']
+animeVoices	['Tomiyama, Kei', 'Nozawa, Masako', 'Nagai, Ichiro']
+animeStaff	[['Yanagawa, Shigeru', 'Script, Series Composition'], ['Kobayashi, Makoto', 'Original Creator'], ['Katsumata, Geki', 'Art Director'], ['Iwasa, Tadashi', 'Background Art']]

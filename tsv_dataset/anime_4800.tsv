@@ -1,5 +1,5 @@
-animeTitle	b'Hitohira'
-animeType	b'TV'
+animeTitle	Hitohira
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.76
 animeUsers	6813
 animeRank	
-animePopularity	
-animeDescription	"b""A transfer student Asai Mugi is a painfully shy girl. She is so shy that she can't speak when she becomes seriously nervous. However, for some reason, she is spotted and recruited as a member of the drama club.\n\n(Source: AnimeNfo)"""
-animeRelated	[b'Hitohira']
-animeCharacters	[b'Asai, Mugi', b'Ichinose, Nono', b'Nishida, Risaki', b'Katsuragi, Takashi', b'Nishida, Kai', b'Sakaki, Mirei', b'Tamashiro, Haruko', b'Kawasaki, Hibiki', b'Takeda, Kyousuke', b'Kakei']
-animeVoices	[b'\nKimoto, Orie\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nHikami, Kyouko\nJapanese\n', b'\nNarita, Ken\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nTanaka, Akiko\nJapanese\n', b'\nOosuka, Jun\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMotohashi, Hideyuki\n\nProducer, Chief Animation Director\n\n', b'\nNishimori, Akira\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nKitahata, Tooru\n\nEpisode Director, Storyboard\n\n']
+animePopularity	4096
+animeDescription	"A transfer student Asai Mugi is a painfully shy girl. She is so shy that she can't speak when she becomes seriously nervous. However, for some reason, she is spotted and recruited as a member of the drama club.
+
+(Source: AnimeNfo)"
+animeRelated	['Hitohira']
+animeCharacters	['Asai, Mugi', 'Ichinose, Nono', 'Nishida, Risaki', 'Katsuragi, Takashi', 'Nishida, Kai', 'Sakaki, Mirei', 'Tamashiro, Haruko', 'Kawasaki, Hibiki', 'Takeda, Kyousuke', 'Kakei']
+animeVoices	['Kimoto, Orie', 'Kawasumi, Ayako', 'Hikami, Kyouko', 'Narita, Ken', 'Kishio, Daisuke', 'Yukino, Satsuki', 'Ueda, Kana', 'Tanaka, Akiko', 'Oosuka, Jun', 'Saitou, Chiwa']
+animeStaff	[['Motohashi, Hideyuki', 'Producer, Chief Animation Director'], ['Nishimori, Akira', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Kitahata, Tooru', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Papa to Odorou'
-animeType	b'TV'
+animeTitle	Papa to Odorou
+animeType	TV
 animeNumEpisode	16
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.65
 animeUsers	377
 animeRank	
-animePopularity	
-animeDescription	b'Imagine two irresponsible siblings (Fuko and Yoshiharu) living under the care of an equally or more irresponsible father (Amachi). Then add some bizarre stuff, like cobras, bad jokes, adult videos, seductive grannies, farting, stupid remarks and insults, terribly foul language, and a nonsensical plethora of strange happenings...\n\n(Source: ANN)'
-animeRelated	[b'Papa to odorou']
-animeCharacters	[b'Amachi, Shigeru']
-animeVoices	[b'\nInoue, Kazuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShirahata, Nobuo\n\nDirector\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nKikkawa, Koji\n\nTheme Song Performance\n\n', b'\nSogo, Masashi\n\nSeries Composition\n\n']
+animePopularity	10862
+animeDescription	"Imagine two irresponsible siblings (Fuko and Yoshiharu) living under the care of an equally or more irresponsible father (Amachi). Then add some bizarre stuff, like cobras, bad jokes, adult videos, seductive grannies, farting, stupid remarks and insults, terribly foul language, and a nonsensical plethora of strange happenings...
+
+(Source: ANN)"
+animeRelated	['Papa to odorou']
+animeCharacters	['Amachi, Shigeru']
+animeVoices	['Inoue, Kazuhiko']
+animeStaff	[['Shirahata, Nobuo', 'Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Kikkawa, Koji', 'Theme Song Performance'], ['Sogo, Masashi', 'Series Composition']]

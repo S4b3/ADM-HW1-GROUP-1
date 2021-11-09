@@ -1,5 +1,5 @@
-animeTitle	b'Nangoku Shounen Papuwa-kun'
-animeType	b'TV'
+animeTitle	Nangoku Shounen Papuwa-kun
+animeType	TV
 animeNumEpisode	42
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.18
 animeUsers	136
 animeRank	
-animePopularity	
-animeDescription	"b""Papuwa-kun is a young boy living a quiet life with his dog, Chappy, on a small island located somewhere in South Pacific, when Shintaro, who is being pursued by gangsters, invades their happy existence. \nChappi takes Shintaro's precious Jewel, thereby making the two main characters lifelong rivals. Together they experience a series of bizarre adventures and situations. \n\n(Source: AnimeNfo)"""
-animeRelated	[b'Nangoku Shounen Papuwa-kun', b'Papuwa', b'Nangoku Shounen Papuwa-kun: Hoshi Kudaru Yoru ni Aimashou']
-animeCharacters	[b'Papuwa', b'Itou', b'Chappy', b'Kotaro', b'Shintaro', b'Arashiyama', b'Miyagi, Touhoku', b'Magic', b'Hakata, Donta', b'Ninja Tottori']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nMasuoka, Hiroshi\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nShioya, Yoku\nJapanese\n', b'\nHayami, Show\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHosoda, Masahiro\n\nDirector\n\n', b'\nTakagi, Jun\n\nDirector\n\n', b'\nShibata, Ami\n\nOriginal Creator\n\n', b'\nKawai, Ken\n\nArt Director\n\n']
+animePopularity	11613
+animeDescription	"Papuwa-kun is a young boy living a quiet life with his dog, Chappy, on a small island located somewhere in South Pacific, when Shintaro, who is being pursued by gangsters, invades their happy existence. 
+Chappi takes Shintaro's precious Jewel, thereby making the two main characters lifelong rivals. Together they experience a series of bizarre adventures and situations. 
+
+(Source: AnimeNfo)"
+animeRelated	['Nangoku Shounen Papuwa-kun', 'Papuwa', 'Nangoku Shounen Papuwa-kun: Hoshi Kudaru Yoru ni Aimashou']
+animeCharacters	['Papuwa', 'Itou', 'Chappy', 'Kotaro', 'Shintaro', 'Arashiyama', 'Miyagi, Touhoku', 'Magic', 'Hakata, Donta', 'Ninja Tottori']
+animeVoices	['Tanaka, Mayumi', 'Genda, Tesshou', 'Masuoka, Hiroshi', 'Ootani, Ikue', 'Midorikawa, Hikaru', 'Shioya, Yoku', 'Hayami, Show']
+animeStaff	[['Hosoda, Masahiro', 'Director'], ['Takagi, Jun', 'Director'], ['Shibata, Ami', 'Original Creator'], ['Kawai, Ken', 'Art Director']]

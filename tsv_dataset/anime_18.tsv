@@ -1,5 +1,5 @@
-animeTitle	b'Owarimonogatari 2nd Season'
-animeType	b'TV'
+animeTitle	Owarimonogatari 2nd Season
+animeType	TV
 animeNumEpisode	7
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.91
 animeUsers	150320
 animeRank	
-animePopularity	
-animeDescription	b'Following an encounter with oddity specialist Izuko Gaen, third-year high school student Koyomi Araragi wakes up in a strange, deserted void only to be greeted by a joyfully familiar face in an alarmingly unfamiliar place.  \n\nAraragi, with the help of his girlfriend Hitagi Senjougahara, maneuvers through the webs of his past and the perplexities of the present in search of answers. However, fate once again delivers him to the eccentric transfer student Ougi Oshino, who brings forth an unexpected proposal that may unearth the very foundation to which he is anchored. As Araragi peels back the layers of mystery surrounding an apparition, he discovers a truth not meant to be revealed.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Monogatari Series: Final Season', b'Owarimonogatari', b'Koyomimonogatari', b'Owarimonogatari 2nd Season Recaps', b'Zoku Owarimonogatari']
-animeCharacters	[b'Senjougahara, Hitagi', b'Araragi, Koyomi', b'Hachikuji, Mayoi', b'Oshino, Ougi', b'Oshino, Shinobu', b'Hanekawa, Tsubasa', b'Kanbaru, Suruga', b'Sengoku, Nadeko', b'Ononoki, Yotsugi', b'Oshino, Meme']
-animeVoices	[b'\nSaitou, Chiwa\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nKatou, Emiri\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinbou, Akiyuki\n\nDirector, Series Composition\n\n', b'\nItamura, Tomoyuki\n\nDirector, Episode Director, Storyboard\n\n', b'\nKizawa, Yukito\n\nScript\n\n', b'\nNakamoto, Munemasa\n\nScript\n\n']
+animePopularity	529
+animeDescription	"Following an encounter with oddity specialist Izuko Gaen, third-year high school student Koyomi Araragi wakes up in a strange, deserted void only to be greeted by a joyfully familiar face in an alarmingly unfamiliar place.  
+
+Araragi, with the help of his girlfriend Hitagi Senjougahara, maneuvers through the webs of his past and the perplexities of the present in search of answers. However, fate once again delivers him to the eccentric transfer student Ougi Oshino, who brings forth an unexpected proposal that may unearth the very foundation to which he is anchored. As Araragi peels back the layers of mystery surrounding an apparition, he discovers a truth not meant to be revealed.
+
+[Written by MAL Rewrite]"
+animeRelated	['Monogatari Series: Final Season', 'Owarimonogatari', 'Koyomimonogatari', 'Owarimonogatari 2nd Season Recaps', 'Zoku Owarimonogatari']
+animeCharacters	['Senjougahara, Hitagi', 'Araragi, Koyomi', 'Hachikuji, Mayoi', 'Oshino, Ougi', 'Oshino, Shinobu', 'Hanekawa, Tsubasa', 'Kanbaru, Suruga', 'Sengoku, Nadeko', 'Ononoki, Yotsugi', 'Oshino, Meme']
+animeVoices	['Saitou, Chiwa', 'Kamiya, Hiroshi', 'Katou, Emiri', 'Mizuhashi, Kaori', 'Sakamoto, Maaya', 'Horie, Yui', 'Hanazawa, Kana', 'Hayami, Saori', 'Sakurai, Takahiro']
+animeStaff	[['Shinbou, Akiyuki', 'Director, Series Composition'], ['Itamura, Tomoyuki', 'Director, Episode Director, Storyboard'], ['Kizawa, Yukito', 'Script'], ['Nakamoto, Munemasa', 'Script']]

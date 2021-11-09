@@ -1,5 +1,5 @@
-animeTitle	b'GA: Geijutsuka Art Design Class: Aozora ga Kakitai'
-animeType	b'OVA'
+animeTitle	GA: Geijutsuka Art Design Class: Aozora ga Kakitai
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.07
 animeUsers	2083
 animeRank	
-animePopularity	
-animeDescription	"b'GA: Geijutsuka Art Design Class OVA. ""I Want to Draw the Blue Sky""'"
-animeRelated	[b'GA: Geijutsuka Art Design Class']
-animeCharacters	[b'Noda, Miki', b'Oomichi, Miyabi', b'Yamaguchi, Kisaragi', b'Tomokane', b'Nozaki, Namiko', b'Awara, Chikako', b'Usami, Mayumi', b'Mizubuchi', b'Takuma, Sotoma']
-animeVoices	[b'\nTokunaga, Ai\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nKanda, Akemi\nJapanese\n', b'\nMinami, Omi\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nTsukui, Kyousei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurai, Hiroaki\n\nDirector\n\n', b'\nOkamoto, Hideki\n\nStoryboard\n\n', b'\nSawashiro, Miyuki\n\nTheme Song Performance\n\n', b'\nTomatsu, Haruka\n\nTheme Song Performance\n\n']
+animePopularity	7373
+animeDescription	"GA: Geijutsuka Art Design Class OVA. ""I Want to Draw the Blue Sky"""
+animeRelated	['GA: Geijutsuka Art Design Class']
+animeCharacters	['Noda, Miki', 'Oomichi, Miyabi', 'Yamaguchi, Kisaragi', 'Tomokane', 'Nozaki, Namiko', 'Awara, Chikako', 'Usami, Mayumi', 'Mizubuchi', 'Takuma, Sotoma']
+animeVoices	['Tokunaga, Ai', 'Nazuka, Kaori', 'Tomatsu, Haruka', 'Sawashiro, Miyuki', 'Horie, Yui', 'Kanda, Akemi', 'Minami, Omi', 'Koshimizu, Ami', 'Tsukui, Kyousei']
+animeStaff	[['Sakurai, Hiroaki', 'Director'], ['Okamoto, Hideki', 'Storyboard'], ['Sawashiro, Miyuki', 'Theme Song Performance'], ['Tomatsu, Haruka', 'Theme Song Performance']]

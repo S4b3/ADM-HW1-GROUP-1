@@ -1,5 +1,5 @@
-animeTitle	b'Mirai no Mirai'
-animeType	b'Movie'
+animeTitle	Mirai no Mirai
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.3
 animeUsers	50625
 animeRank	
-animePopularity	
-animeDescription	"b""In a quiet corner of the city, four-year-old Kun Oota has lived a spoiled life as an only child with his parents and the family dog, Yukko. But when his new baby sister Mirai is brought home, his simple life is thrown upside-down; suddenly, it isn't all about him anymore. Despite his tantrums and nagging, Mirai is seemingly now the subject of all his parents' love.\n\nTo help him adapt to this drastic change, Kun is taken on an extraordinary journey through time, meeting his family's past, present, and future selves, as he learns not only what it means to be a part of a family, but also what it means to be an older brother.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Mirai no Mirai', b'Green Dakara x Mirai no Mirai']
-animeCharacters	[b'Oota, Kun', b'Oota, Mirai', b'Yukko', b'Seinen', b'Otousan', b'Baaba', b'Okaasan', b'Jiiji']
-animeVoices	[b'\nKamishiraishi, Moka\nJapanese\n', b'\nKuroki, Haru\nJapanese\n', b'\nYoshihara, Mitsuo\nJapanese\n', b'\nFukuyama, Masaharu\nJapanese\n', b'\nHoshino, Gen\nJapanese\n', b'\nMiyazaki, Yoshiko\nJapanese\n', b'\nAso, Kumiko\nJapanese\n', b'\nYakusho, Kouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSaitou, Yuuichirou\n\nProducer\n\n', b'\nKawamura, Genki\n\nProducer\n\n', b'\nHosoda, Mamoru\n\nDirector, Script, Original Creator\n\n', b'\nYamashita, Tatsurou\n\nTheme Song Performance\n\n']
+animePopularity	1532
+animeDescription	"In a quiet corner of the city, four-year-old Kun Oota has lived a spoiled life as an only child with his parents and the family dog, Yukko. But when his new baby sister Mirai is brought home, his simple life is thrown upside-down; suddenly, it isn't all about him anymore. Despite his tantrums and nagging, Mirai is seemingly now the subject of all his parents' love.
+
+To help him adapt to this drastic change, Kun is taken on an extraordinary journey through time, meeting his family's past, present, and future selves, as he learns not only what it means to be a part of a family, but also what it means to be an older brother.
+
+[Written by MAL Rewrite]"
+animeRelated	['Mirai no Mirai', 'Green Dakara x Mirai no Mirai']
+animeCharacters	['Oota, Kun', 'Oota, Mirai', 'Yukko', 'Seinen', 'Otousan', 'Baaba', 'Okaasan', 'Jiiji']
+animeVoices	['Kamishiraishi, Moka', 'Kuroki, Haru', 'Yoshihara, Mitsuo', 'Fukuyama, Masaharu', 'Hoshino, Gen', 'Miyazaki, Yoshiko', 'Aso, Kumiko', 'Yakusho, Kouji']
+animeStaff	[['Saitou, Yuuichirou', 'Producer'], ['Kawamura, Genki', 'Producer'], ['Hosoda, Mamoru', 'Director, Script, Original Creator'], ['Yamashita, Tatsurou', 'Theme Song Performance']]

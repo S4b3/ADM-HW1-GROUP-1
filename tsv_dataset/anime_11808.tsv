@@ -1,5 +1,5 @@
-animeTitle	b'Papillon Rose'
-animeType	b'TV'
+animeTitle	Papillon Rose
+animeType	TV
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	4.59
 animeUsers	849
 animeRank	
-animePopularity	
-animeDescription	"b'The story takes place one year after the OVA.\n\nBecause of the previous war, Kabucki-cho was devastated, and the owner abandoned his lingerie pub, ""Pallion,"" and opened ""New Papillion"" in Akihabara. During the war, Tsubomi, and her colleagues Anne and Shizuku lost their memories, and they began new lives in Akihabara.\n\nOn the other hand, the Susano, aliens who were invading the Earth, appeared. They turned a UMA (Unidentified Mysterious Animal) into a monster and make it raid on Akihabara. Rama the cat made Tsubomi and her buddies retrieve their memories, and let them fight against the monster as Lingerie Soldiers.\n\n(Source: AnimeNfo)'"
-animeRelated	[b'Lingerie Senshi Papillon Rose']
-animeCharacters	[b'Hikaru', b'Anne', b'Papillon Margaret', b'Tsubomi', b'Raama ']
-animeVoices	[b'\nTanaka, Kumi\nJapanese\n', b'\nNagai, Mai\nJapanese\n', b'\nYamamoto, Maria\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Hideo\n\nSound Director\n\n', b'\nSugawara, Miho\n\nSound Director\n\n', b'\nSatou, Kazuharu\n\nScript\n\n', b'\nNishi, Shigenari\n\nEditing\n\n']
+animePopularity	7946
+animeDescription	"The story takes place one year after the OVA.
+
+Because of the previous war, Kabucki-cho was devastated, and the owner abandoned his lingerie pub, ""Pallion,"" and opened ""New Papillion"" in Akihabara. During the war, Tsubomi, and her colleagues Anne and Shizuku lost their memories, and they began new lives in Akihabara.
+
+On the other hand, the Susano, aliens who were invading the Earth, appeared. They turned a UMA (Unidentified Mysterious Animal) into a monster and make it raid on Akihabara. Rama the cat made Tsubomi and her buddies retrieve their memories, and let them fight against the monster as Lingerie Soldiers.
+
+(Source: AnimeNfo)"
+animeRelated	['Lingerie Senshi Papillon Rose']
+animeCharacters	['Hikaru', 'Anne', 'Papillon Margaret', 'Tsubomi', 'Raama ']
+animeVoices	['Tanaka, Kumi', 'Nagai, Mai', 'Yamamoto, Maria']
+animeStaff	[['Takahashi, Hideo', 'Sound Director'], ['Sugawara, Miho', 'Sound Director'], ['Satou, Kazuharu', 'Script'], ['Nishi, Shigenari', 'Editing']]

@@ -1,5 +1,5 @@
-animeTitle	b'Mirai Kara Kita Shounen Super Jetter'
-animeType	b'TV'
+animeTitle	Mirai Kara Kita Shounen Super Jetter
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A time patroller from the 30th century goes back to the 20th century to stop a meteor from destroying the world.\n\n'
+animePopularity	13338
+animeDescription	"A time patroller from the 30th century goes back to the 20th century to stop a meteor from destroying the world.
+
+"
 animeRelated	[]
-animeCharacters	[b'Alien X']
+animeCharacters	['Alien X']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakagaki, Kouzou\n\nEpisode Director\n\n', b'\nToyota, Aritsune\n\nScript\n\n', b'\nYamashita, Takeo\n\nTheme Song Composition, Theme Song Arrangement\n\n']
+animeStaff	[['Takagaki, Kouzou', 'Episode Director'], ['Toyota, Aritsune', 'Script'], ['Yamashita, Takeo', 'Theme Song Composition, Theme Song Arrangement']]

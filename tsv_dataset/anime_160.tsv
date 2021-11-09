@@ -1,5 +1,5 @@
-animeTitle	b'Cross Game'
-animeType	b'TV'
+animeTitle	Cross Game
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	8.4
 animeUsers	43596
 animeRank	
-animePopularity	
-animeDescription	"b""Kou Kitamura and Aoba Tsukishima are often at odds\xe2\x80\x94even though their families happen to be close friends and business partners. Although the only child of a sports shop owner, Kou has never been interested in playing baseball. Despite this, he possesses an impressive batting ability honed by frequent visits to the local baseball batting center run by the Tsukushima family. On the other hand, Aoba loves to play baseball and is a star player with exceptional pitching form.\n\nHowever, these two seemingly complete opposites share something very important to them\xe2\x80\x94Wakaba Tsukishima, Aoba's older sister and Kou's destined sweetheart. Admired by the quarrelsome duo, Wakaba often finds herself the catalyst to their never-ending rivalry. But whether or not they realize that they have more in common than either would care to admit, only time will tell. The game of baseball may just be what the pair needs to ultimately overcome their own personal struggles.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Cross Game']
-animeCharacters	[b'Kitamura, Kou', b'Tsukishima, Aoba', b'Azuma, Yuuhei', b'Tsukishima, Wakaba', b'Akaishi, Osamu', b'Azuma, Junpei', b'Nomo', b'Oukubo, Hiroko', b'Senda, Keiichirou', b'Tsukishima, Momiji']
-animeVoices	[b'\nIrino, Miyu\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nKanda, Akemi\nJapanese\n', b'\nNomura, Kenji\nJapanese\n', b'\nMadono, Mitsuaki\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nKameoka, Mami\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nShitaya, Noriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSekita, Osamu\n\nDirector\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n', b'\nKawaguchi, Keiichirou\n\nEpisode Director, Storyboard\n\n', b'\nShirane, Hideki\n\nScript, Screenplay\n\n']
+animePopularity	1496
+animeDescription	"Kou Kitamura and Aoba Tsukishima are often at odds—even though their families happen to be close friends and business partners. Although the only child of a sports shop owner, Kou has never been interested in playing baseball. Despite this, he possesses an impressive batting ability honed by frequent visits to the local baseball batting center run by the Tsukushima family. On the other hand, Aoba loves to play baseball and is a star player with exceptional pitching form.
+
+However, these two seemingly complete opposites share something very important to them—Wakaba Tsukishima, Aoba's older sister and Kou's destined sweetheart. Admired by the quarrelsome duo, Wakaba often finds herself the catalyst to their never-ending rivalry. But whether or not they realize that they have more in common than either would care to admit, only time will tell. The game of baseball may just be what the pair needs to ultimately overcome their own personal struggles.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Cross Game']
+animeCharacters	['Kitamura, Kou', 'Tsukishima, Aoba', 'Azuma, Yuuhei', 'Tsukishima, Wakaba', 'Akaishi, Osamu', 'Azuma, Junpei', 'Nomo', 'Oukubo, Hiroko', 'Senda, Keiichirou', 'Tsukishima, Momiji']
+animeVoices	['Irino, Miyu', 'Tomatsu, Haruka', 'Sakurai, Takahiro', 'Kanda, Akemi', 'Nomura, Kenji', 'Madono, Mitsuaki', 'Nozawa, Masako', 'Kameoka, Mami', 'Kishio, Daisuke', 'Shitaya, Noriko']
+animeStaff	[['Sekita, Osamu', 'Director'], ['Takadera, Takeshi', 'Sound Director'], ['Kawaguchi, Keiichirou', 'Episode Director, Storyboard'], ['Shirane, Hideki', 'Script, Screenplay']]

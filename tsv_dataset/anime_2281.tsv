@@ -1,5 +1,5 @@
-animeTitle	b'Kowarekake no Orgel'
-animeType	b'OVA'
+animeTitle	Kowarekake no Orgel
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.33
 animeUsers	15806
 animeRank	
-animePopularity	
-animeDescription	"b""In 2039, helper androids are widespread as general purpose electronics.\n\nKeiichiro lost his family in a traffic accident and retired from his band. One day, he finds an android of an old model in a garbage dump. He takes her home, but after taking her to a repair shop he was told that she couldn't be repaired, so he plans to throw her away. The next day, Keiichiro finds her making breakfast for him. Thus begin the summer days of an android with no memories and a dreamless boy."""
-animeRelated	[b'Kowarekake no Orgel', b'Kowarekake no Orgel Special', b'Kowarekake no Orgel (Movie)']
-animeCharacters	[b'Flower', b'Kuro, Keiichirou', b'Kawada, Noriko', b'Iris', b'Shunpei']
-animeVoices	[b'\nAsano, Masumi\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nNakao, Eri\nJapanese\n', b'\nAsanuma, Shintaro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawaguchi, Keiichirou\n\nDirector\n\n', b'\nMatsuoka, Hiroki\n\nSound Director\n\n', b'\nSatou, Hiromi\n\nTheme Song Performance\n\n', b'\nYoshihara, Tatsuya\n\nKey Animation\n\n']
+animePopularity	3128
+animeDescription	"In 2039, helper androids are widespread as general purpose electronics.
+
+Keiichiro lost his family in a traffic accident and retired from his band. One day, he finds an android of an old model in a garbage dump. He takes her home, but after taking her to a repair shop he was told that she couldn't be repaired, so he plans to throw her away. The next day, Keiichiro finds her making breakfast for him. Thus begin the summer days of an android with no memories and a dreamless boy."
+animeRelated	['Kowarekake no Orgel', 'Kowarekake no Orgel Special', 'Kowarekake no Orgel (Movie)']
+animeCharacters	['Flower', 'Kuro, Keiichirou', 'Kawada, Noriko', 'Iris', 'Shunpei']
+animeVoices	['Asano, Masumi', 'Kakihara, Tetsuya', 'Nakao, Eri', 'Asanuma, Shintaro']
+animeStaff	[['Kawaguchi, Keiichirou', 'Director'], ['Matsuoka, Hiroki', 'Sound Director'], ['Satou, Hiromi', 'Theme Song Performance'], ['Yoshihara, Tatsuya', 'Key Animation']]

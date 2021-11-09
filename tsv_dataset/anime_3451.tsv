@@ -1,5 +1,5 @@
-animeTitle	b'Mister Ajikko'
-animeType	b'TV'
+animeTitle	Mister Ajikko
+animeType	TV
 animeNumEpisode	99
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.07
 animeUsers	683
 animeRank	
-animePopularity	
-animeDescription	"b""Ajiyoshi Yoichi is a culinary prodigy who manages the eating house together with his mother. One day, Murata Genjiro appears in the eating house and is surprised at the delicious taste and delicate culinary skills of the katsu-don prepared by Youichi. Subsequently, Youichi is being invited to the Aji-oh Building in which he is involved in a spaghetti match with the in-house Italian chef, Marui. Youichi's novel culinary ideas, coupled with his enthusiasm of serving the best for his guests, allow him to defeat Marui in the match. From then on, Youichi begins to compete with other rivals in the race for the best tastes and dishes. \n\n(Source: ANN) """
-animeRelated	[b'Mr Ajikko', b'Mister Ajikko Special']
-animeCharacters	[b'Ajiyoshi, Youichi', b'Murata, Genjirou', b'Marui, Yoshio', b'Nakae, Heita', b'Yamaoka, Shigeru', b'Yamaoka, Mitsuko', b'Tareme']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nIizuka, Shouzou\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n', b'\nNarahashi, Miki\nJapanese\n', b'\nKawanami, Yoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImagawa, Yasuhiro\n\nDirector, Storyboard\n\n', b'\nKawase, Toshifumi\n\nEpisode Director, Storyboard\n\n', b'\nYamaguchi, Yuuji\n\nEpisode Director\n\n', b'\nKuriyama, Yoshihide\n\nEpisode Director\n\n']
+animePopularity	7614
+animeDescription	"Ajiyoshi Yoichi is a culinary prodigy who manages the eating house together with his mother. One day, Murata Genjiro appears in the eating house and is surprised at the delicious taste and delicate culinary skills of the katsu-don prepared by Youichi. Subsequently, Youichi is being invited to the Aji-oh Building in which he is involved in a spaghetti match with the in-house Italian chef, Marui. Youichi's novel culinary ideas, coupled with his enthusiasm of serving the best for his guests, allow him to defeat Marui in the match. From then on, Youichi begins to compete with other rivals in the race for the best tastes and dishes. 
+
+(Source: ANN) "
+animeRelated	['Mr Ajikko', 'Mister Ajikko Special']
+animeCharacters	['Ajiyoshi, Youichi', 'Murata, Genjirou', 'Marui, Yoshio', 'Nakae, Heita', 'Yamaoka, Shigeru', 'Yamaoka, Mitsuko', 'Tareme']
+animeVoices	['Takayama, Minami', 'Kobayashi, Kiyoshi', 'Iizuka, Shouzou', 'Sasaki, Nozomu', 'Narahashi, Miki', 'Kawanami, Yoko']
+animeStaff	[['Imagawa, Yasuhiro', 'Director, Storyboard'], ['Kawase, Toshifumi', 'Episode Director, Storyboard'], ['Yamaguchi, Yuuji', 'Episode Director'], ['Kuriyama, Yoshihide', 'Episode Director']]

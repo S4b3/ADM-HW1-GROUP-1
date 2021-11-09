@@ -1,5 +1,5 @@
-animeTitle	b'Koneko no Rakugaki'
-animeType	b'Movie'
+animeTitle	Koneko no Rakugaki
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.8
 animeUsers	805
 animeRank	
-animePopularity	
-animeDescription	"b""Yasuji Mori's short about a kitten drawing pictures on a wall."""
-animeRelated	[b'Koneko no Studio']
-animeCharacters	[b'Koneko']
+animePopularity	10127
+animeDescription	Yasuji Mori's short about a kitten drawing pictures on a wall.
+animeRelated	['Koneko no Studio']
+animeCharacters	['Koneko']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Zenjirou\n\nPlanning\n\n']
+animeStaff	[['Yamamoto, Zenjirou', 'Planning']]

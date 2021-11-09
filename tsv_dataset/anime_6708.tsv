@@ -1,5 +1,5 @@
-animeTitle	b'Uchuu Senshi Baldios'
-animeType	b'TV'
+animeTitle	Uchuu Senshi Baldios
+animeType	TV
 animeNumEpisode	34
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.4
 animeUsers	370
 animeRank	
-animePopularity	
-animeDescription	b'After polluting their own planet beyond repair, a race of evil aliens target earth as their next home. Now it is up to a lone outcast and his robotic spacecraft, Baldios, to defend earth. But, first he must convince the distrusting human population of the impending danger.\n\n(Source: ANN)'
-animeRelated	[b'Uchuu Senshi Baldios (Movie)']
-animeCharacters	[b'Regan, Marine', b'Aphrodia, Roza', b'Hoshino, Jemmy', b'Oliver, Jack', b'Hokuto, Raita', b'Narrator', b'Torinomias', b'Quinstein, Ella', b'Degras']
-animeVoices	[b'\nShiozawa, Kaneto\nJapanese\n', b'\nJinbo, Naomi\nJapanese\n', b'\nYokozawa, Keiko\nJapanese\n', b'\nSuzuki, Kiyonobu\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nIshimori, Takkou\nJapanese\n', b'\nKamiya, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nEpisode Director, Storyboard\n\n', b'\nShudou, Takeshi\n\nScript\n\n', b'\nSatou, Gen\n\nStoryboard, Mechanical Design\n\n', b'\nYotsuji, Takao\n\nStoryboard\n\n']
+animePopularity	9620
+animeDescription	"After polluting their own planet beyond repair, a race of evil aliens target earth as their next home. Now it is up to a lone outcast and his robotic spacecraft, Baldios, to defend earth. But, first he must convince the distrusting human population of the impending danger.
+
+(Source: ANN)"
+animeRelated	['Uchuu Senshi Baldios (Movie)']
+animeCharacters	['Regan, Marine', 'Aphrodia, Roza', 'Hoshino, Jemmy', 'Oliver, Jack', 'Hokuto, Raita', 'Narrator', 'Torinomias', 'Quinstein, Ella', 'Degras']
+animeVoices	['Shiozawa, Kaneto', 'Jinbo, Naomi', 'Yokozawa, Keiko', 'Suzuki, Kiyonobu', 'Genda, Tesshou', 'Ishimori, Takkou', 'Kamiya, Akira']
+animeStaff	[['Yuyama, Kunihiko', 'Episode Director, Storyboard'], ['Shudou, Takeshi', 'Script'], ['Satou, Gen', 'Storyboard, Mechanical Design'], ['Yotsuji, Takao', 'Storyboard']]

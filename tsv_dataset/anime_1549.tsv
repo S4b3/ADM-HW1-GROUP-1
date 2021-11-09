@@ -1,5 +1,5 @@
-animeTitle	b'Mahou Shoujo Lyrical Nanoha: Detonation'
-animeType	b'Movie'
+animeTitle	Mahou Shoujo Lyrical Nanoha: Detonation
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.53
 animeUsers	2209
 animeRank	
-animePopularity	
-animeDescription	"b'The story continues directly from Reflection. As the conflict continues to escalate, Nanoha and her allies soon found out the troubled history between Iris and Yuri, which is related to the tragedy of Eltoria\'s ""Planet Reclamation Committee"".\n\n(Source: Nanoha Wiki)'"
-animeRelated	[b'Mahou Shoujo Lyrical Nanoha: Reflection']
-animeCharacters	[b'Testarossa, Fate', b'Takamachi, Nanoha', b'Yagami, Hayate', b'Florian, Kyrie', b'Iris', b'Florian, Amitie', b'Vita', b'Signum', b'Reinforce II', b'Shamal']
-animeVoices	[b'\nMizuki, Nana\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nSanada, Asami\nJapanese\n', b'\nShimizu, Kaori\nJapanese\n', b'\nYukana\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHamana, Takayuki\n\nDirector\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nTsuzuki, Masaki\n\nScript, Original Creator\n\n', b'\nMizuki, Nana\n\nTheme Song Performance, Inserted Song Performance\n\n']
+animePopularity	6065
+animeDescription	"The story continues directly from Reflection. As the conflict continues to escalate, Nanoha and her allies soon found out the troubled history between Iris and Yuri, which is related to the tragedy of Eltoria's ""Planet Reclamation Committee"".
+
+(Source: Nanoha Wiki)"
+animeRelated	['Mahou Shoujo Lyrical Nanoha: Reflection']
+animeCharacters	['Testarossa, Fate', 'Takamachi, Nanoha', 'Yagami, Hayate', 'Florian, Kyrie', 'Iris', 'Florian, Amitie', 'Vita', 'Signum', 'Reinforce II', 'Shamal']
+animeVoices	['Mizuki, Nana', 'Tamura, Yukari', 'Ueda, Kana', 'Satou, Satomi', 'Hikasa, Youko', 'Tomatsu, Haruka', 'Sanada, Asami', 'Shimizu, Kaori', 'Yukana', 'Yuzuki, Ryouka']
+animeStaff	[['Hamana, Takayuki', 'Director'], ['Kameyama, Toshiki', 'Sound Director'], ['Tsuzuki, Masaki', 'Script, Original Creator'], ['Mizuki, Nana', 'Theme Song Performance, Inserted Song Performance']]

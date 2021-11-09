@@ -1,5 +1,5 @@
-animeTitle	b'KutsuDaru.'
-animeType	b'TV'
+animeTitle	KutsuDaru.
+animeType	TV
 animeNumEpisode	48
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""In a Tokyo suburb small town, there lives a girl named Nekota Kaoru. Being born into a normal family, being raised in a normal way, this spring she'll become a normal happy middle-schooler.\n\nHowever, since young age, Nekota had an abnormal ability to see Imadoki youkai (Modern Monster). And she has kept it a secret from others..."""
+animePopularity	12632
+animeDescription	"In a Tokyo suburb small town, there lives a girl named Nekota Kaoru. Being born into a normal family, being raised in a normal way, this spring she'll become a normal happy middle-schooler.
+
+However, since young age, Nekota had an abnormal ability to see Imadoki youkai (Modern Monster). And she has kept it a secret from others..."
 animeRelated	[]
-animeCharacters	[b'Darudaru Kutsushita', b'Tachibana, Kurara', b'Karasawa, Rin', b'Maruo, Mikako', b'Nekota, Kaoru', b'Narrator', b'Morishita, Daniel']
-animeVoices	[b'\nHikida, Yukari\nJapanese\n', b'\nShima, Yuika\nJapanese\n', b'\nSatou, Hinata\nJapanese\n', b'\nKanai, Miki\nJapanese\n', b'\nHoriuchi, Marina\nJapanese\n', b'\nInada, Tetsu\nJapanese\n', b'\nSuganuma, Hisayoshi\nJapanese\n']
+animeCharacters	['Darudaru Kutsushita', 'Tachibana, Kurara', 'Karasawa, Rin', 'Maruo, Mikako', 'Nekota, Kaoru', 'Narrator', 'Morishita, Daniel']
+animeVoices	['Hikida, Yukari', 'Shima, Yuika', 'Satou, Hinata', 'Kanai, Miki', 'Horiuchi, Marina', 'Inada, Tetsu', 'Suganuma, Hisayoshi']
 animeStaff	[]

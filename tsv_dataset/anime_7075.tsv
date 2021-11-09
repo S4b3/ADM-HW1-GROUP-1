@@ -1,5 +1,5 @@
-animeTitle	b'Juushinki Pandora'
-animeType	b'TV'
+animeTitle	Juushinki Pandora
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.32
 animeUsers	8726
 animeRank	
-animePopularity	
-animeDescription	"b'The series is set in a near-future world where the boundary between human being and AI is vague. A rapid biological evolution, similar to ""Cambrian Explosion,"" is caused by one incident. This incident turns into the genesis of a new jostle for supremacy, and the influence of the evolution goes beyond biological framework and spreads to various kinds of materials and technologies. The era of massive evolution involving diverse existences, such as human, machines, and biotechnologies, is coming. Characters fight an existential war in such a world.\n\n(Source: ANN)'"
+animePopularity	3067
+animeDescription	"The series is set in a near-future world where the boundary between human being and AI is vague. A rapid biological evolution, similar to ""Cambrian Explosion,"" is caused by one incident. This incident turns into the genesis of a new jostle for supremacy, and the influence of the evolution goes beyond biological framework and spreads to various kinds of materials and technologies. The era of massive evolution involving diverse existences, such as human, machines, and biotechnologies, is coming. Characters fight an existential war in such a world.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Lau, Leon', b'Lau, Chloe', b'You, Quinny', b'Horvat, Doug', b'Suu, Cecil', b'Yun, Jay', b'Din, Glenn', b'Sieg', b'Fiona', b'Valli, Emillia']
-animeVoices	[b'\nMaeno, Tomoaki\nJapanese\n', b'\nTouyama, Nao\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nUmehara, Yuuichirou\nJapanese\n', b'\nUchida, Yuuma\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nSeto, Asami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Hidekazu\n\nDirector\n\n', b'\nHamano, Takatoshi\n\nSound Director\n\n', b'\nBUMP OF CHICKEN\n\nTheme Song Performance\n\n', b'\nNakajima, Megumi\n\nInserted Song Performance\n\n']
+animeCharacters	['Lau, Leon', 'Lau, Chloe', 'You, Quinny', 'Horvat, Doug', 'Suu, Cecil', 'Yun, Jay', 'Din, Glenn', 'Sieg', 'Fiona', 'Valli, Emillia']
+animeVoices	['Maeno, Tomoaki', 'Touyama, Nao', 'Hanazawa, Kana', 'Tsuda, Kenjirou', 'Kayano, Ai', 'Umehara, Yuuichirou', 'Uchida, Yuuma', 'Nakamura, Yuuichi', 'Noto, Mamiko', 'Seto, Asami']
+animeStaff	[['Satou, Hidekazu', 'Director'], ['Hamano, Takatoshi', 'Sound Director'], ['BUMP OF CHICKEN', 'Theme Song Performance'], ['Nakajima, Megumi', 'Inserted Song Performance']]

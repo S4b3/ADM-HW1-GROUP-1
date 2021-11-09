@@ -1,5 +1,5 @@
-animeTitle	"b""Queen's Blade OVA Specials"""
-animeType	b'Special'
+animeTitle	Queen's Blade OVA Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.08
 animeUsers	3181
 animeRank	
-animePopularity	
-animeDescription	"b""Specials included in the Queen's Blade Premium Visual Book's DVDs."""
-animeRelated	"[b""Queen's Blade OVA""]"
-animeCharacters	[b'Alleyne', b'Sigui']
-animeVoices	[b'\nKitamura, Eri\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOda, Non\n\nOriginal Character Design\n\n', b'\nRinshin\n\nKey Animation\n\n', b'\nIshibashi, Yukiko\n\nChief Animation Director\n\n', b'\nHobby Japan\n\nOriginal Creator\n\n']
+animePopularity	5466
+animeDescription	Specials included in the Queen's Blade Premium Visual Book's DVDs.
+animeRelated	"[""Queen's Blade OVA""]"
+animeCharacters	['Alleyne', 'Sigui']
+animeVoices	['Kitamura, Eri', 'Kobayashi, Yuu']
+animeStaff	[['Oda, Non', 'Original Character Design'], ['Rinshin', 'Key Animation'], ['Ishibashi, Yukiko', 'Chief Animation Director'], ['Hobby Japan', 'Original Creator']]

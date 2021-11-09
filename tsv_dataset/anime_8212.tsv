@@ -1,5 +1,5 @@
-animeTitle	b'Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?'
-animeType	b'Movie'
+animeTitle	Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.09
 animeUsers	83673
 animeRank	
-animePopularity	
-animeDescription	"b""It's summer, and Norimichi Shimada and his friends want to know if fireworks look round or flat from the side. They forge a plan to find the answer at Moshimo Festival's fireworks display. However, Norimichi finds himself conflicted when his classmate, Nazuna Oikawa, plans to run away from home and wants Norimichi to join her. When things go awry in their attempt to escape, a strange orb in Nazuna's possession gives them another chance at staying together.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?', b'Uchiage Hanabi', b'Sou: Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?-hen', b'New My Tear CL Series']
-animeCharacters	[b'Oikawa, Nazuna', b'Shimada, Norimichi', b'Azumi, Yuusuke', b'Miura, Haruko', b'Minoru', b'Oikawa, Mother', b'Kazuhiro', b'Shimada, Mother', b'Azumi, Father', b'Hanabishi']
-animeVoices	[b'\nHirose, Suzu\nJapanese\n', b'\nSuda, Masaki\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nMatsu, Takako\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nMiyamoto, Mitsuru\nJapanese\n', b'\nTachiki, Fumihiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinbou, Akiyuki\n\nDirector\n\n', b'\nTakeuchi, Nobuyuki\n\nDirector, Storyboard, Layout, Setting\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nMiyamoto, Yukihiro\n\nEpisode Director\n\n']
+animePopularity	1039
+animeDescription	"It's summer, and Norimichi Shimada and his friends want to know if fireworks look round or flat from the side. They forge a plan to find the answer at Moshimo Festival's fireworks display. However, Norimichi finds himself conflicted when his classmate, Nazuna Oikawa, plans to run away from home and wants Norimichi to join her. When things go awry in their attempt to escape, a strange orb in Nazuna's possession gives them another chance at staying together.
+
+[Written by MAL Rewrite]"
+animeRelated	['Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?', 'Uchiage Hanabi', 'Sou: Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?-hen', 'New My Tear CL Series']
+animeCharacters	['Oikawa, Nazuna', 'Shimada, Norimichi', 'Azumi, Yuusuke', 'Miura, Haruko', 'Minoru', 'Oikawa, Mother', 'Kazuhiro', 'Shimada, Mother', 'Azumi, Father', 'Hanabishi']
+animeVoices	['Hirose, Suzu', 'Suda, Masaki', 'Miyano, Mamoru', 'Hanazawa, Kana', 'Kaji, Yuki', 'Matsu, Takako', 'Toyonaga, Toshiyuki', 'Neya, Michiko', 'Miyamoto, Mitsuru', 'Tachiki, Fumihiko']
+animeStaff	[['Shinbou, Akiyuki', 'Director'], ['Takeuchi, Nobuyuki', 'Director, Storyboard, Layout, Setting'], ['Tsuruoka, Youta', 'Sound Director'], ['Miyamoto, Yukihiro', 'Episode Director']]

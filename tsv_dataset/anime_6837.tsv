@@ -1,5 +1,5 @@
-animeTitle	b'Fairy Gone 2nd Season'
-animeType	b'TV'
+animeTitle	Fairy Gone 2nd Season
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.37
 animeUsers	13120
 animeRank	
-animePopularity	
-animeDescription	b'Second season of Fairy Gone.'
-animeRelated	[b'Fairy Gone']
-animeCharacters	[b'Underbar, Free', b'Noel, Marlya', b'Thorne, Veronica', b'Row, Wolfran', b'Risker, Bivi', b'Sweet, Bitter', b'Laboo, Axel', b'Distarol, Cain', b'Need, Eleanor', b'Carme, Damien']
+animePopularity	2792
+animeDescription	Second season of Fairy Gone.
+animeRelated	['Fairy Gone']
+animeCharacters	['Underbar, Free', 'Noel, Marlya', 'Thorne, Veronica', 'Row, Wolfran', 'Risker, Bivi', 'Sweet, Bitter', 'Laboo, Axel', 'Distarol, Cain', 'Need, Eleanor', 'Carme, Damien']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Kenichi\n\nDirector\n\n', b'\nTsuda, Naokatsu\n\nEpisode Director, Storyboard\n\n', b'\nAbe, Yuriko\n\nEpisode Director, Storyboard\n\n', b'\nOota, Tomoaki\n\nEpisode Director\n\n']
+animeStaff	[['Suzuki, Kenichi', 'Director'], ['Tsuda, Naokatsu', 'Episode Director, Storyboard'], ['Abe, Yuriko', 'Episode Director, Storyboard'], ['Oota, Tomoaki', 'Episode Director']]

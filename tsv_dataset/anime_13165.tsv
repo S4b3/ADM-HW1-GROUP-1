@@ -1,5 +1,5 @@
-animeTitle	b'Shabake'
-animeType	b'ONA'
+animeTitle	Shabake
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Special produced to celebrate the 20th anniversary of the Shabake novel series.'
+animePopularity	14872
+animeDescription	Special produced to celebrate the 20th anniversary of the Shabake novel series.
 animeRelated	[]
-animeCharacters	[b'Wakadanna', b'Suzuhiko-hime', b'Byoubunozoki', b'Sasuke', b'Nikichi']
-animeVoices	[b'\nEnoki, Junya\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nAzakami, Youhei\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItou, Hideki\n\nDirector\n\n', b'\nWada, Kaoru\n\nMusic\n\n']
+animeCharacters	['Wakadanna', 'Suzuhiko-hime', 'Byoubunozoki', 'Sasuke', 'Nikichi']
+animeVoices	['Enoki, Junya', 'Kanemoto, Hisako', 'Kimura, Ryouhei', 'Azakami, Youhei', 'Uchiyama, Kouki']
+animeStaff	[['Itou, Hideki', 'Director'], ['Wada, Kaoru', 'Music']]

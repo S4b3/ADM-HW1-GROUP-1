@@ -1,5 +1,5 @@
-animeTitle	b'Otome Nadeshiko Koi Techou'
-animeType	b'OVA'
+animeTitle	Otome Nadeshiko Koi Techou
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	5.91
 animeUsers	2359
 animeRank	
-animePopularity	
-animeDescription	"b""The story follows a 16-year-old girl who is experiencing her first love during Japan's Taishou period (1912-1926).\nBundled with special versions of Otome Nadeshiko Love Diary 2 light novel.\n\n(Source: ANN)"""
-animeRelated	[b'Otome Nadeshiko Koi Techou']
-animeCharacters	[b'Touguu, Chizuru', b'Suzumoto, Sougetsu']
-animeVoices	[b'\nKawase, Akiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSanpei, Hijiri\n\nDirector\n\n', b'\nKoumura, Junko\n\nScript\n\n', b'\nTouma, Rei\n\nOriginal Character Design\n\n', b'\nArai, Kazuhiro\n\nArt Director\n\n']
+animePopularity	7115
+animeDescription	"The story follows a 16-year-old girl who is experiencing her first love during Japan's Taishou period (1912-1926).
+Bundled with special versions of Otome Nadeshiko Love Diary 2 light novel.
+
+(Source: ANN)"
+animeRelated	['Otome Nadeshiko Koi Techou']
+animeCharacters	['Touguu, Chizuru', 'Suzumoto, Sougetsu']
+animeVoices	['Kawase, Akiko']
+animeStaff	[['Sanpei, Hijiri', 'Director'], ['Koumura, Junko', 'Script'], ['Touma, Rei', 'Original Character Design'], ['Arai, Kazuhiro', 'Art Director']]

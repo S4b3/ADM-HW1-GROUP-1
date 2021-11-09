@@ -1,5 +1,5 @@
-animeTitle	b'Grimms Notes The Animation'
-animeType	b'TV'
+animeTitle	Grimms Notes The Animation
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.97
 animeUsers	8678
 animeRank	
-animePopularity	
-animeDescription	"b""Within one's Book of Fate is their destiny. Written by the mysterious Story Tellers, these books decide every small detail of one's life. Some Story Tellers, however, choose to interfere with the stories of others rather than write their own. These malevolent beings are known as Chaos Tellers, who seek to ruin stories by overwriting the Books of Fate.\n\nEx, Reina, Tao, and Shane were born with blank books. Ostracized by society due to this abnormality, they abandon their respective stories in search of better lives. In the vast unknown, they encounter famous fairy tale characters such as Cinderella, Momotarou, and Snow White. All the while, they work to subdue the Chaos Tellers and return peace and order to the stories.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Grimms Notes']
-animeCharacters	[b'Ex', b'Reina', b'Shane', b'Tao', b'Alice', b'Cinderella', b'Snow White', b'Red Riding Hood', b'Curly', b'Emperor']
-animeVoices	[b'\nOosaka, Ryouta\nJapanese\n', b'\nUeda, Reina\nJapanese\n', b'\nKubota, Miyu\nJapanese\n', b'\nEguchi, Takuya\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nTaneda, Risa\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nEchigoya, Kousuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugawara, Seiki\n\nDirector\n\n', b'\nGou, Fumiyuki\n\nSound Director\n\n', b'\nNishimori, Akira\n\nEpisode Director\n\n', b'\nMano, Akira\n\nEpisode Director\n\n']
+animePopularity	2893
+animeDescription	"Within one's Book of Fate is their destiny. Written by the mysterious Story Tellers, these books decide every small detail of one's life. Some Story Tellers, however, choose to interfere with the stories of others rather than write their own. These malevolent beings are known as Chaos Tellers, who seek to ruin stories by overwriting the Books of Fate.
+
+Ex, Reina, Tao, and Shane were born with blank books. Ostracized by society due to this abnormality, they abandon their respective stories in search of better lives. In the vast unknown, they encounter famous fairy tale characters such as Cinderella, Momotarou, and Snow White. All the while, they work to subdue the Chaos Tellers and return peace and order to the stories.
+
+[Written by MAL Rewrite]"
+animeRelated	['Grimms Notes']
+animeCharacters	['Ex', 'Reina', 'Shane', 'Tao', 'Alice', 'Cinderella', 'Snow White', 'Red Riding Hood', 'Curly', 'Emperor']
+animeVoices	['Oosaka, Ryouta', 'Ueda, Reina', 'Kubota, Miyu', 'Eguchi, Takuya', 'Yuuki, Aoi', 'Taneda, Risa', 'Uesaka, Sumire', 'Echigoya, Kousuke']
+animeStaff	[['Sugawara, Seiki', 'Director'], ['Gou, Fumiyuki', 'Sound Director'], ['Nishimori, Akira', 'Episode Director'], ['Mano, Akira', 'Episode Director']]

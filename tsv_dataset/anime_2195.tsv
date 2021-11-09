@@ -1,5 +1,5 @@
-animeTitle	b'Dareka no Manazashi'
-animeType	b'Movie'
+animeTitle	Dareka no Manazashi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.35
 animeUsers	33330
 animeRank	
-animePopularity	
-animeDescription	"b""In near-future Japan, Aya Okamura lives alone in an apartment away from her parents. Her mother has worked overseas ever since her childhood, so her aging father Kouji and their cat Mii-san are the only ones left in their family home. After a tiring day, Aya declines her father's invitation for dinner by lying that she is still at work. Yet that very night, she receives another call with sudden news that may bring this separated family closer.\n\n[Written by MAL Rewrite]"""
+animePopularity	2210
+animeDescription	"In near-future Japan, Aya Okamura lives alone in an apartment away from her parents. Her mother has worked overseas ever since her childhood, so her aging father Kouji and their cat Mii-san are the only ones left in their family home. After a tiring day, Aya declines her father's invitation for dinner by lying that she is still at work. Yet that very night, she receives another call with sudden news that may bring this separated family closer.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Okamura, Aya', b'Okamura, Kouji', b'Mii-san', b'Okamura, Minako']
-animeVoices	[b'\nHanamura, Satomi\nJapanese\n', b'\nOgawa, Shinji\nJapanese\n', b'\nHirano, Fumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinkai, Makoto\n\nDirector, Episode Director, Script, Storyboard\n\n', b'\nTanji, Takumi\n\nBackground Art, Art Director\n\n', b'\nSuzuki, Miho\n\nAnimation Director, Key Animation, Character Design\n\n', b'\nMatsuura, Akihisa\n\nMusic\n\n']
+animeCharacters	['Okamura, Aya', 'Okamura, Kouji', 'Mii-san', 'Okamura, Minako']
+animeVoices	['Hanamura, Satomi', 'Ogawa, Shinji', 'Hirano, Fumi']
+animeStaff	[['Shinkai, Makoto', 'Director, Episode Director, Script, Storyboard'], ['Tanji, Takumi', 'Background Art, Art Director'], ['Suzuki, Miho', 'Animation Director, Key Animation, Character Design'], ['Matsuura, Akihisa', 'Music']]

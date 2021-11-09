@@ -1,5 +1,5 @@
-animeTitle	b'Pucca (ONA)'
-animeType	b'ONA'
+animeTitle	Pucca (ONA)
+animeType	ONA
 animeNumEpisode	46
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.6
 animeUsers	4152
 animeRank	
-animePopularity	
-animeDescription	"b""Pucca is a cute and energetic 10 years old Korean girl. Working as a delivery girl for the restaurant of her parents, she has one love obsession, Garu, and will do anything to kiss him!\n\nGaru is an aspiring ninja, often followed by his cat Mio. He's shy and always has to try to escape from Pucca's traps. But she will absolutely never give up!\n\nGood thing both of them like chocolate!\n\n(Source: AniDB)"""
-animeRelated	[b'Pucca']
-animeCharacters	[b'Pucca', b'Garu', b'Abyo', b'Mio', b'Claus, Santa']
+animePopularity	5920
+animeDescription	"Pucca is a cute and energetic 10 years old Korean girl. Working as a delivery girl for the restaurant of her parents, she has one love obsession, Garu, and will do anything to kiss him!
+
+Garu is an aspiring ninja, often followed by his cat Mio. He's shy and always has to try to escape from Pucca's traps. But she will absolutely never give up!
+
+Good thing both of them like chocolate!
+
+(Source: AniDB)"
+animeRelated	['Pucca']
+animeCharacters	['Pucca', 'Garu', 'Abyo', 'Mio', 'Claus, Santa']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nPlus-Tech Squeeze Box\n\nTheme Song Performance\n\n', b'\nDemory, Bernard\n\nADR Director\n\n']
+animeStaff	[['Plus-Tech Squeeze Box', 'Theme Song Performance'], ['Demory, Bernard', 'ADR Director']]

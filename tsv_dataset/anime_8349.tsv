@@ -1,5 +1,5 @@
-animeTitle	b'Gunslinger Stratos The Animation'
-animeType	b'TV'
+animeTitle	Gunslinger Stratos The Animation
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,21 @@ animeNumMembers
 animeScore	6.07
 animeUsers	27783
 animeRank	
-animePopularity	
-animeDescription	"b'A.D. 2115\xe2\x80\x94the island nation once called Japan is now known as the ""17th Far East Imperial City Management District.""\n\nThe citizens were promised a life of peace in exchange for some of the comfort they were used to having. People believed their lives would never change and tomorrow will be the same as today. No one suspected the impending doom which their society was about to face.\n\n""Degradation""\xe2\x80\x94a rare disease which led to the total disintegration of the human body to a mere pile of sand was slowly but surely spreading throughout the world.\n\nTohru Kazasumi, an ordinary student becomes embroiled in a multi universal battle between his world and the parallel world of ""Frontier S (Stratos)."" This meant that Tohru must fight himself from an alternate world.\n\nTheir futures collide as their paths cross.\n\nWill both worlds ever find peace?\n\n(Source: Aniplex USA)'"
-animeRelated	[b'Gunslinger Stratos', b'Gunslinger Stratos The Animation: Kikan/Kaze no Yukue', b'Gunslinger Stratos The Animation: Bunki/Futatsu no Mirai']
-animeCharacters	[b'Kazasumi, Tooru', b'Katagiri, Kyouka', b'Katagiri, Kyouma', b'Rindou, Shizune', b'Odhner, Brian', b'Dogma', b'Mysterious Girl', b'Odhner, Remy', b'Ignatova, Lyudmila N.', b'Janetine, Olga']
-animeVoices	[b'\nAbe, Atsushi\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n', b'\nNishida, Masakazu\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nTezuka, Hideaki\nJapanese\n', b'\nMochizuki, Rei\nJapanese\n', b'\nFujita, Akane\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nEzaki, Shinpei\n\nDirector\n\n', b'\nGARNiDELiA\n\nTheme Song Composition, Theme Song Arrangement, Theme Song Performance, Theme Song Lyrics\n\n', b'\nAyano, Mashiro\n\nTheme Song Performance\n\n', b'\nHinata, Megumi\n\nTheme Song Lyrics\n\n']
+animePopularity	2098
+animeDescription	"A.D. 2115—the island nation once called Japan is now known as the ""17th Far East Imperial City Management District.""
+
+The citizens were promised a life of peace in exchange for some of the comfort they were used to having. People believed their lives would never change and tomorrow will be the same as today. No one suspected the impending doom which their society was about to face.
+
+""Degradation""—a rare disease which led to the total disintegration of the human body to a mere pile of sand was slowly but surely spreading throughout the world.
+
+Tohru Kazasumi, an ordinary student becomes embroiled in a multi universal battle between his world and the parallel world of ""Frontier S (Stratos)."" This meant that Tohru must fight himself from an alternate world.
+
+Their futures collide as their paths cross.
+
+Will both worlds ever find peace?
+
+(Source: Aniplex USA)"
+animeRelated	['Gunslinger Stratos', 'Gunslinger Stratos The Animation: Kikan/Kaze no Yukue', 'Gunslinger Stratos The Animation: Bunki/Futatsu no Mirai']
+animeCharacters	['Kazasumi, Tooru', 'Katagiri, Kyouka', 'Katagiri, Kyouma', 'Rindou, Shizune', 'Odhner, Brian', 'Dogma', 'Mysterious Girl', 'Odhner, Remy', 'Ignatova, Lyudmila N.', 'Janetine, Olga']
+animeVoices	['Abe, Atsushi', 'Kanemoto, Hisako', 'Nishida, Masakazu', 'Ueda, Kana', 'Tezuka, Hideaki', 'Mochizuki, Rei', 'Fujita, Akane', 'Sawashiro, Miyuki', 'Hayami, Saori', 'Ohara, Sayaka']
+animeStaff	[['Ezaki, Shinpei', 'Director'], ['GARNiDELiA', 'Theme Song Composition, Theme Song Arrangement, Theme Song Performance, Theme Song Lyrics'], ['Ayano, Mashiro', 'Theme Song Performance'], ['Hinata, Megumi', 'Theme Song Lyrics']]

@@ -1,5 +1,5 @@
-animeTitle	b'Turn A Gundam I Movie: Earth Light'
-animeType	b'Movie'
+animeTitle	Turn A Gundam I Movie: Earth Light
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.5
 animeUsers	1246
 animeRank	
-animePopularity	
-animeDescription	b'A movie retelling of the first half of the Turn A Gundam series. '
-animeRelated	[b'Turn A Gundam', b'Turn A Gundam II Movie: Moonlight Butterfly']
-animeCharacters	[b'Soreil, Dianna', b'Cehack, Loran', b'Heim, Sochie', b'Heim, Kihel', b'Ord, Harry', b'Borjarno, Lily', b'Laijie, Keith', b'Doll, Fran', b'Nander, Corin', b'Rhineford, Guin Sard']
-animeVoices	[b'\nTakahashi, Rieko\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nMurata, Akino\nJapanese\n', b'\nInada, Tetsu\nJapanese\n', b'\nKobayashi, Ai\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nWatanabe, Kumiko\nJapanese\n', b'\nKawazu, Yasuhiko\nJapanese\n', b'\nAoba, Gou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Hajime\n\nProducer\n\n', b'\nTomino, Yoshiyuki\n\nDirector, Original Creator\n\n', b'\nWatanabe, Tetsuya\n\nEpisode Director\n\n', b'\nKunihiro, Mori\n\nEpisode Director, Storyboard\n\n']
+animePopularity	7436
+animeDescription	A movie retelling of the first half of the Turn A Gundam series. 
+animeRelated	['Turn A Gundam', 'Turn A Gundam II Movie: Moonlight Butterfly']
+animeCharacters	['Soreil, Dianna', 'Cehack, Loran', 'Heim, Sochie', 'Heim, Kihel', 'Ord, Harry', 'Borjarno, Lily', 'Laijie, Keith', 'Doll, Fran', 'Nander, Corin', 'Rhineford, Guin Sard']
+animeVoices	['Takahashi, Rieko', 'Park, Romi', 'Murata, Akino', 'Inada, Tetsu', 'Kobayashi, Ai', 'Fukuyama, Jun', 'Watanabe, Kumiko', 'Kawazu, Yasuhiko', 'Aoba, Gou']
+animeStaff	[['Yatate, Hajime', 'Producer'], ['Tomino, Yoshiyuki', 'Director, Original Creator'], ['Watanabe, Tetsuya', 'Episode Director'], ['Kunihiro, Mori', 'Episode Director, Storyboard']]

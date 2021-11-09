@@ -1,5 +1,5 @@
-animeTitle	b'Switch'
-animeType	b'OVA'
+animeTitle	Switch
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.91
 animeUsers	10196
 animeRank	
-animePopularity	
-animeDescription	"b'Two newbies at the Narcotic Control Department in Japan, Haru and Kai, struggle against: drug dealers, gangs, murderers, psychopaths, mysterious organizations, and mad people in general. The gentle and caring one of the group, Kai, who has problems of his own, has the tendency of turning into a lethal killing machine in certain scenarios. The way he acts changes like that of a ""switch"". As the two do their job, answers of what is behind Kai\'s strange behavior and who exactly he is, is revealed.\n\n(Source: ANN)\n'"
-animeRelated	[b'Switch']
-animeCharacters	[b'Etou, Kai', b'Kurabayashi, Haru', b'Kagura, Akito', b'Masataka, Hiki', b'Kajiyama, Keigo', b'Akaha', b'Ibu, Masami', b'Kuzuya, Shouhei']
-animeVoices	[b'\nFukuyama, Jun\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n', b'\nOdai, Ryohei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nnaked ape\n\nOriginal Creator, Original Character Design\n\n', b'\nTakahashi, Natsuko\n\nScreenplay\n\n', b'\nSaki, Otoh\n\nOriginal Creator\n\n']
+animePopularity	3585
+animeDescription	"Two newbies at the Narcotic Control Department in Japan, Haru and Kai, struggle against: drug dealers, gangs, murderers, psychopaths, mysterious organizations, and mad people in general. The gentle and caring one of the group, Kai, who has problems of his own, has the tendency of turning into a lethal killing machine in certain scenarios. The way he acts changes like that of a ""switch"". As the two do their job, answers of what is behind Kai's strange behavior and who exactly he is, is revealed.
+
+(Source: ANN)
+"
+animeRelated	['Switch']
+animeCharacters	['Etou, Kai', 'Kurabayashi, Haru', 'Kagura, Akito', 'Masataka, Hiki', 'Kajiyama, Keigo', 'Akaha', 'Ibu, Masami', 'Kuzuya, Shouhei']
+animeVoices	['Fukuyama, Jun', 'Sakurai, Takahiro', 'Sugita, Tomokazu', 'Suwabe, Junichi', 'Nakai, Kazuya', 'Touchi, Hiroki', 'Odai, Ryohei']
+animeStaff	[['Iwanami, Yoshikazu', 'Sound Director'], ['naked ape', 'Original Creator, Original Character Design'], ['Takahashi, Natsuko', 'Screenplay'], ['Saki, Otoh', 'Original Creator']]

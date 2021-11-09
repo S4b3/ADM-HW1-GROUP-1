@@ -1,5 +1,5 @@
-animeTitle	b'Zoku Sayonara Zetsubou Sensei'
-animeType	b'TV'
+animeTitle	Zoku Sayonara Zetsubou Sensei
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.91
 animeUsers	53308
 animeRank	
-animePopularity	
-animeDescription	"b""More crazy antics abound as Nozomu Itoshiki (a.k.a Zetsubou-sensei), who is the worlds most negative person, tries to teach class 2-F about how life is filled with despair and darkness. A harder task than it first may seem, with his students being far from ordinary themselves, including the likes of the most positive girl he has ever met, his very own stalker, a foreign exchange student with split personalities and a perfectionist acting class president, due to the fact the real class president can't be seen by anyone, among others. \n\n(Source: ANN)"""
-animeRelated	[b'Sayonara Zetsubou Sensei', b'Goku Sayonara Zetsubou Sensei', b'Sayonara Zetsubou Sensei Jo: Zoku Zetsubou Shoujo Senshuu']
-animeCharacters	[b'Itoshiki, Nozomu', b'Fuura, Kafuka', b'Kitsu, Chiri', b'Komori, Kiri', b'Tsunetsuki, Matoi', b'Hitou, Nami', b'Sekiutsu, Tarou', b'Fujiyoshi, Harumi', b'Otonashi, Meru', b'Kobushi, Abiru']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nNonaka, Ai\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nTanii, Asuka\nJapanese\n', b'\nSanada, Asami\nJapanese\n', b'\nShintani, Ryouko\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nGotou, Yuuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKubota, Mitsutoshi\n\nProducer\n\n', b'\nMiyamoto, Junnosuke\n\nAssistant Producer\n\n', b'\nShinbou, Akiyuki\n\nDirector, Animation Check\n\n', b'\nMiyamoto, Yukihiro\n\nDirector, Episode Director, Storyboard\n\n']
+animePopularity	1407
+animeDescription	"More crazy antics abound as Nozomu Itoshiki (a.k.a Zetsubou-sensei), who is the worlds most negative person, tries to teach class 2-F about how life is filled with despair and darkness. A harder task than it first may seem, with his students being far from ordinary themselves, including the likes of the most positive girl he has ever met, his very own stalker, a foreign exchange student with split personalities and a perfectionist acting class president, due to the fact the real class president can't be seen by anyone, among others. 
+
+(Source: ANN)"
+animeRelated	['Sayonara Zetsubou Sensei', 'Goku Sayonara Zetsubou Sensei', 'Sayonara Zetsubou Sensei Jo: Zoku Zetsubou Shoujo Senshuu']
+animeCharacters	['Itoshiki, Nozomu', 'Fuura, Kafuka', 'Kitsu, Chiri', 'Komori, Kiri', 'Tsunetsuki, Matoi', 'Hitou, Nami', 'Sekiutsu, Tarou', 'Fujiyoshi, Harumi', 'Otonashi, Meru', 'Kobushi, Abiru']
+animeVoices	['Kamiya, Hiroshi', 'Nonaka, Ai', 'Inoue, Marina', 'Tanii, Asuka', 'Sanada, Asami', 'Shintani, Ryouko', 'Sawashiro, Miyuki', 'Matsuki, Miyu', 'Saitou, Chiwa', 'Gotou, Yuuko']
+animeStaff	[['Kubota, Mitsutoshi', 'Producer'], ['Miyamoto, Junnosuke', 'Assistant Producer'], ['Shinbou, Akiyuki', 'Director, Animation Check'], ['Miyamoto, Yukihiro', 'Director, Episode Director, Storyboard']]

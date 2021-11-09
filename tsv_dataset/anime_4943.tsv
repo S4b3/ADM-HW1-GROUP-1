@@ -1,5 +1,5 @@
-animeTitle	b'Stratos 4 OVA'
-animeType	b'OVA'
+animeTitle	Stratos 4 OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.73
 animeUsers	1286
 animeRank	
-animePopularity	
-animeDescription	b'After successfully returning to Earth on the renovated Stratos 4, the four main characters are visited by the Comet Blasters Chizuru Kubo and Annette Kerry, who bring them a shocking video.  Meanwhile, Orbital Station 7 is in serious trouble...\n\nThis two-episode OVA comes between the first and second seasons.\n\n(Source: ANN, edited by Glenn Magus Harvey)'
-animeRelated	[b'Stratos 4', b'Stratos 4 Advance', b'Stratos 4: Logbook', b'Stratos 4 OVA: Stratos 4.1 - Dutch Roll']
-animeCharacters	[b'Honjou, Mikaze', b'Kikuhara, Karin', b'Doi, Shizuha', b'Nakamura, Ayamo', b'Kisaragi, Sayaka', b'Mukai, Touko', b'Miyazaki, Tsubasa', b'Oozora, Miharu', b'Kubo, Chizuru', b'Mikuriya, Alice']
-animeVoices	[b'\nKakazu, Yumi\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nShimizu, Kaori\nJapanese\n', b'\nKikuchi, Shiho\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nKimura, Misa\nJapanese\n', b'\nTasaka, Hideki\nJapanese\n', b'\nSoumi, Youko\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nAsano, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nHinata, Megumi\n\nTheme Song Performance\n\n', b'\nTakayama, Katsuhiko\n\nSeries Composition\n\n', b'\nYamauchi, Noriyasu\n\nChief Animation Director, Mechanical Design, Character Design\n\n']
+animePopularity	8329
+animeDescription	"After successfully returning to Earth on the renovated Stratos 4, the four main characters are visited by the Comet Blasters Chizuru Kubo and Annette Kerry, who bring them a shocking video.  Meanwhile, Orbital Station 7 is in serious trouble...
+
+This two-episode OVA comes between the first and second seasons.
+
+(Source: ANN, edited by Glenn Magus Harvey)"
+animeRelated	['Stratos 4', 'Stratos 4 Advance', 'Stratos 4: Logbook', 'Stratos 4 OVA: Stratos 4.1 - Dutch Roll']
+animeCharacters	['Honjou, Mikaze', 'Kikuhara, Karin', 'Doi, Shizuha', 'Nakamura, Ayamo', 'Kisaragi, Sayaka', 'Mukai, Touko', 'Miyazaki, Tsubasa', 'Oozora, Miharu', 'Kubo, Chizuru', 'Mikuriya, Alice']
+animeVoices	['Kakazu, Yumi', 'Orikasa, Fumiko', 'Shimizu, Kaori', 'Kikuchi, Shiho', 'Ohara, Sayaka', 'Kimura, Misa', 'Tasaka, Hideki', 'Soumi, Youko', 'Hiramatsu, Akiko', 'Asano, Mayumi']
+animeStaff	[['Tsuruoka, Youta', 'Sound Director'], ['Hinata, Megumi', 'Theme Song Performance'], ['Takayama, Katsuhiko', 'Series Composition'], ['Yamauchi, Noriyasu', 'Chief Animation Director, Mechanical Design, Character Design']]

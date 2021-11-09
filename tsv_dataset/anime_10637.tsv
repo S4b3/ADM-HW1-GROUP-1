@@ -1,5 +1,5 @@
-animeTitle	b'Anitore! EX'
-animeType	b'TV'
+animeTitle	Anitore! EX
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.41
 animeUsers	10999
 animeRank	
-animePopularity	
-animeDescription	"b'""Move your soul and body!"" Each episode contains a variety of routines, such as push-ups, sit-ups, spine twists, dance, yoga, stretches, trunk training, and taichi. Five girls aiming to become idols will exercise with you, and that troubling body fat percentage will go down by 1000%...!?'"
-animeRelated	[b'Anitore! EX: Jigoku no Training', b'Anitore! XX: Hitotsu Yane no Shita de']
-animeCharacters	[b'Tachibana, Akiko', b'Saotome, Shizuno', b'Hoshi, Asami', b'Higuchi, Eri', b'Hiraoka, Yuu', b'Andalucia']
-animeVoices	[b'\nNaganawa, Maria\nJapanese\n', b'\nKomaki, Miyu\nJapanese\n', b'\nItou, Miku\nJapanese\n', b'\nWaki, Azumi\nJapanese\n', b'\nTakao, Kanon\nJapanese\n', b'\nSogabe, Eri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNigorikawa, Atsushi\n\nDirector\n\n', b'\nIshibashi, Daisuke\n\nScript, Series Composition\n\n', b'\nItou, Miku\n\nTheme Song Performance\n\n', b'\nNaganawa, Maria\n\nTheme Song Performance\n\n']
+animePopularity	3310
+animeDescription	"""Move your soul and body!"" Each episode contains a variety of routines, such as push-ups, sit-ups, spine twists, dance, yoga, stretches, trunk training, and taichi. Five girls aiming to become idols will exercise with you, and that troubling body fat percentage will go down by 1000%...!?"
+animeRelated	['Anitore! EX: Jigoku no Training', 'Anitore! XX: Hitotsu Yane no Shita de']
+animeCharacters	['Tachibana, Akiko', 'Saotome, Shizuno', 'Hoshi, Asami', 'Higuchi, Eri', 'Hiraoka, Yuu', 'Andalucia']
+animeVoices	['Naganawa, Maria', 'Komaki, Miyu', 'Itou, Miku', 'Waki, Azumi', 'Takao, Kanon', 'Sogabe, Eri']
+animeStaff	[['Nigorikawa, Atsushi', 'Director'], ['Ishibashi, Daisuke', 'Script, Series Composition'], ['Itou, Miku', 'Theme Song Performance'], ['Naganawa, Maria', 'Theme Song Performance']]

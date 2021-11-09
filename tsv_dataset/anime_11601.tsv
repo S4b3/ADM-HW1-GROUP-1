@@ -1,5 +1,5 @@
-animeTitle	b'Eguchi Hisashi no Kotobuki Gorou Show'
-animeType	b'OVA'
+animeTitle	Eguchi Hisashi no Kotobuki Gorou Show
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	4.87
 animeUsers	430
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the gag manga by Hisashi Eguchi.\n\nOriginally released as a feature part of Studio Pierrot's video magazine show Anime V Comic Rentaman (\xe3\x82\xa2\xe3\x83\x8b\xe3\x83\xa1\xe3\x83\xbbV\xe3\x83\xbb\xe3\x82\xb3\xe3\x83\x9f\xe3\x83\x83\xe3\x82\xaf \xe3\x83\xac\xe3\x83\xb3\xe3\x82\xbf\xe3\x83\x9e\xe3\x83\xb3) along with Abashiri Ikka, Yumemakura Baku Twilight Gekijou and Akai Hayate. \n\n(Source: AniDB) """
-animeRelated	[b'Kotobuki Gorou Show', b'Abashiri Ikka', b'Akai Hayate', b'Yumemakura Baku Twilight Gekijou']
-animeCharacters	[b'Vulgar Father', b'Kirishima', b'Kirishima no Tsuma', b'Butler', b'Kaichou no Musume', b'Kaichou', b'Kirishima no Musuko', b'Ichinose', b'College Student', b'Sailor']
-animeVoices	[b'\nYara, Yuusaku\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nSatou, Ai\nJapanese\n', b'\nAkimoto, Yousuke\nJapanese\n', b'\nKishiro, Sakurako\nJapanese\n', b'\nNishimura, Tomomichi\nJapanese\n', b'\nUeda, Toshiya\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nFutamata, Issei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nKozuma, Shinsaku\n\nStoryboard\n\n', b'\nYara, Yuusaku\n\nTheme Song Performance\n\n', b'\nEguchi, Hisashi\n\nOriginal Creator\n\n']
+animePopularity	10433
+animeDescription	"Based on the gag manga by Hisashi Eguchi.
+
+Originally released as a feature part of Studio Pierrot's video magazine show Anime V Comic Rentaman (アニメ・V・コミック レンタマン) along with Abashiri Ikka, Yumemakura Baku Twilight Gekijou and Akai Hayate. 
+
+(Source: AniDB) "
+animeRelated	['Kotobuki Gorou Show', 'Abashiri Ikka', 'Akai Hayate', 'Yumemakura Baku Twilight Gekijou']
+animeCharacters	['Vulgar Father', 'Kirishima', 'Kirishima no Tsuma', 'Butler', 'Kaichou no Musume', 'Kaichou', 'Kirishima no Musuko', 'Ichinose', 'College Student', 'Sailor']
+animeVoices	['Yara, Yuusaku', 'Genda, Tesshou', 'Satou, Ai', 'Akimoto, Yousuke', 'Kishiro, Sakurako', 'Nishimura, Tomomichi', 'Ueda, Toshiya', 'Inoue, Kikuko', 'Futamata, Issei']
+animeStaff	[['Fujiyama, Fusanobu', 'Sound Director'], ['Kozuma, Shinsaku', 'Storyboard'], ['Yara, Yuusaku', 'Theme Song Performance'], ['Eguchi, Hisashi', 'Original Creator']]

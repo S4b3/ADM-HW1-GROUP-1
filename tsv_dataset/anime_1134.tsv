@@ -1,5 +1,5 @@
-animeTitle	b'Arashi no Yoru ni'
-animeType	b'Movie'
+animeTitle	Arashi no Yoru ni
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	7.67
 animeUsers	9558
 animeRank	
-animePopularity	
-animeDescription	b'A story about a goat and a wolf who become friends on a stormy night, and how they overcome differences and hardships.\n\n(Source: ANN)\n'
-animeRelated	[b'Arashi no Yoru ni', b'Arashi no Yoru ni: Himitsu no Tomodachi']
-animeCharacters	[b'Mei', b'Gabu', b'Zaku', b'Barry', b'Tapu', b'Bicchi', b'Giro', b'Mii']
-animeVoices	[b'\nNarimiya, Hiroki\nJapanese\n', b'\nNakamura, Shidou\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nHayashiya, Shouzou\nJapanese\n', b'\nYanagihara, Tetsuya\nJapanese\n', b'\nTakeuchi, Riki\nJapanese\n', b'\nKobayashi, Maya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugii, Gisaburou\n\nDirector, Episode Director, Screenplay\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nHirata, Shuuichi\n\nBackground Art\n\n', b'\nKanemori, Yoshinori\n\nKey Animation\n\n']
+animePopularity	3943
+animeDescription	"A story about a goat and a wolf who become friends on a stormy night, and how they overcome differences and hardships.
+
+(Source: ANN)
+"
+animeRelated	['Arashi no Yoru ni', 'Arashi no Yoru ni: Himitsu no Tomodachi']
+animeCharacters	['Mei', 'Gabu', 'Zaku', 'Barry', 'Tapu', 'Bicchi', 'Giro', 'Mii']
+animeVoices	['Narimiya, Hiroki', 'Nakamura, Shidou', 'Yamadera, Kouichi', 'Hayashiya, Shouzou', 'Yanagihara, Tetsuya', 'Takeuchi, Riki', 'Kobayashi, Maya']
+animeStaff	[['Sugii, Gisaburou', 'Director, Episode Director, Screenplay'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Hirata, Shuuichi', 'Background Art'], ['Kanemori, Yoshinori', 'Key Animation']]

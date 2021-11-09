@@ -1,5 +1,5 @@
-animeTitle	b'Makyou Gaiden Le Deus'
-animeType	b'OVA'
+animeTitle	Makyou Gaiden Le Deus
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.5
 animeUsers	690
 animeRank	
-animePopularity	
-animeDescription	b'In a post-apocalyptic world, the treasure hunter Riot and his pretty sidekicks are searching for Eyes of Zalem, which they hope will guide them to Rido, the treasure of a long-lost Quall civilization. A limitless energy source, the Rido has the power to even restore life; but unfortunately for Riot, the evil Demsters are after it too. (from ANN)'
+animePopularity	9857
+animeDescription	In a post-apocalyptic world, the treasure hunter Riot and his pretty sidekicks are searching for Eyes of Zalem, which they hope will guide them to Rido, the treasure of a long-lost Quall civilization. A limitless energy source, the Rido has the power to even restore life; but unfortunately for Riot, the evil Demsters are after it too. (from ANN)
 animeRelated	[]
-animeCharacters	[b'Riot', b'Kaiser']
-animeVoices	[b'\nYao, Kazuki\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNegishi, Hiroshi\n\nDirector\n\n', b'\nShimizu, Katsunori\n\nSound Director\n\n', b'\nKitakubo, Hiroyuki\n\nScript\n\n', b'\nSonoda, Hideki\n\nScript\n\n']
+animeCharacters	['Riot', 'Kaiser']
+animeVoices	['Yao, Kazuki', 'Wakamoto, Norio']
+animeStaff	[['Negishi, Hiroshi', 'Director'], ['Shimizu, Katsunori', 'Sound Director'], ['Kitakubo, Hiroyuki', 'Script'], ['Sonoda, Hideki', 'Script']]

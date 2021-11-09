@@ -1,5 +1,5 @@
-animeTitle	b'Genshiken Nidaime Specials'
-animeType	b'Special'
+animeTitle	Genshiken Nidaime Specials
+animeType	Special
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.73
 animeUsers	2310
 animeRank	
-animePopularity	
-animeDescription	b'Special episodes included in BD.'
-animeRelated	[b'Genshiken', b'Genshiken Nidaime']
-animeCharacters	[b'Ogiue, Chika', b'Hopkins, Susanna', b'Oono, Kanako', b'Hato, Kenjirou', b'Yoshitake, Rika', b'Yajima, Mirei']
-animeVoices	[b'\nYamamoto, Nozomi\nJapanese\n', b'\nOozora, Naomi\nJapanese\n', b'\nYukana\nJapanese\n', b'\nYamamoto, Kazutomi\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKio, Shimoku\n\nOriginal Creator\n\n']
+animePopularity	6181
+animeDescription	Special episodes included in BD.
+animeRelated	['Genshiken', 'Genshiken Nidaime']
+animeCharacters	['Ogiue, Chika', 'Hopkins, Susanna', 'Oono, Kanako', 'Hato, Kenjirou', 'Yoshitake, Rika', 'Yajima, Mirei']
+animeVoices	['Yamamoto, Nozomi', 'Oozora, Naomi', 'Yukana', 'Yamamoto, Kazutomi', 'Uesaka, Sumire', 'Uchiyama, Yumi']
+animeStaff	[['Kio, Shimoku', 'Original Creator']]

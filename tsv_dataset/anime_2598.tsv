@@ -1,5 +1,5 @@
-animeTitle	b'Detective Conan OVA 07: A Challenge from Agasa! Agasa vs. Conan and the Detective Boys'
-animeType	b'OVA'
+animeTitle	Detective Conan OVA 07: A Challenge from Agasa! Agasa vs. Conan and the Detective Boys
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.26
 animeUsers	6233
 animeRank	
-animePopularity	
-animeDescription	b'Professor Agasa is kidnapped and the Detective Boys must use clues found at his house and in various parts of the city in order to find him.'
-animeRelated	[b'Detective Conan']
-animeCharacters	[b'Edogawa, Conan', b'Haibara, Ai', b'Agasa, Hiroshi', b'Yoshida, Ayumi', b'Tsuburaya, Mitsuhiko', b'Kojima, Genta', b'Mouri, Ran', b'Mouri, Kogorou', b'Suzuki, Sonoko', b'Satou, Miwako']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nIwai, Yukiko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Yasuichiro\n\nDirector, Storyboard\n\n', b'\nTakahashi, Shigeharu\n\nEpisode Director, Storyboard\n\n', b'\nKuraki, Mai\n\nTheme Song Performance\n\n', b'\nAoyama, Gosho\n\nOriginal Creator\n\n']
+animePopularity	4827
+animeDescription	Professor Agasa is kidnapped and the Detective Boys must use clues found at his house and in various parts of the city in order to find him.
+animeRelated	['Detective Conan']
+animeCharacters	['Edogawa, Conan', 'Haibara, Ai', 'Agasa, Hiroshi', 'Yoshida, Ayumi', 'Tsuburaya, Mitsuhiko', 'Kojima, Genta', 'Mouri, Ran', 'Mouri, Kogorou', 'Suzuki, Sonoko', 'Satou, Miwako']
+animeVoices	['Takayama, Minami', 'Hayashibara, Megumi', 'Ogata, Kenichi', 'Iwai, Yukiko', 'Ootani, Ikue', 'Takagi, Wataru', 'Yamazaki, Wakana', 'Kamiya, Akira', 'Matsui, Naoko']
+animeStaff	[['Yamamoto, Yasuichiro', 'Director, Storyboard'], ['Takahashi, Shigeharu', 'Episode Director, Storyboard'], ['Kuraki, Mai', 'Theme Song Performance'], ['Aoyama, Gosho', 'Original Creator']]

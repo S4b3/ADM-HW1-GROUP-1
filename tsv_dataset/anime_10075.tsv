@@ -1,5 +1,5 @@
-animeTitle	b'Paris no Isabelle'
-animeType	b'TV'
+animeTitle	Paris no Isabelle
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.6
 animeUsers	230
 animeRank	
-animePopularity	
-animeDescription	"b""The principal character is 15-year-old Isabelle Laustin, other characters being her parents Leon and Marie, Isabelle's friends Jean and his sister Marie, and Isabelle's suitor, Captain Victor.\n\nWhen Paris is besieged and Napoleon III's army is defeated, Isabelle escapes to London, disguised as a boy, and engages in secret agent stuff.\n\n(Source: AniDB)"""
+animePopularity	11237
+animeDescription	"The principal character is 15-year-old Isabelle Laustin, other characters being her parents Leon and Marie, Isabelle's friends Jean and his sister Marie, and Isabelle's suitor, Captain Victor.
+
+When Paris is besieged and Napoleon III's army is defeated, Isabelle escapes to London, disguised as a boy, and engages in secret agent stuff.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Narrator', b'Marie']
-animeVoices	[b'\nInagaki, Mihoko\nJapanese\n', b'\nSenou, Reiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChopin, Fr\xc3\xa9d\xc3\xa9ric\n\nMusic\n\n', b'\nFukuda, Gen\n\nAnimation Director, Character Design\n\n']
+animeCharacters	['Narrator', 'Marie']
+animeVoices	['Inagaki, Mihoko', 'Senou, Reiko']
+animeStaff	[['Chopin, Frédéric', 'Music'], ['Fukuda, Gen', 'Animation Director, Character Design']]

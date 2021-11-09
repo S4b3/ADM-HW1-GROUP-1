@@ -1,5 +1,5 @@
-animeTitle	b'Macross F Movie 1: Itsuwari no Utahime'
-animeType	b'Movie'
+animeTitle	Macross F Movie 1: Itsuwari no Utahime
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.81
 animeUsers	14377
 animeRank	
-animePopularity	
-animeDescription	b'Half retelling of the original Frontier series, half new story. Conspiracies arise within the Frontier government when Sheryl Nome arrives to the colonial fleet for her concert and is soon marked as a spy for Galaxy while childhood friends, Alto Saotome and Ranka Lee both try to achieve their dreams as the battle between Frontier and the Vajra draws closer.\n\nThis movie serves as part one of the Frontier retelling and will conclude with the second, The Wings of Goodbye.'
-animeRelated	[b'Macross F', b'Macross F Movie 2: Sayonara no Tsubasa', b'Pure Shield']
-animeCharacters	"[b'Nome, Sheryl', b'Lee, Ranka', b'Saotome, Alto', b'Klang, Klan', b'Sterne, Brera', b'Blanc, Mikhail', b'Lee, Ozma', b""O'Connor, Grace"", b'Angelloni, Luca', b'Wilder, Jeffrey']"
-animeVoices	[b'\nEndou, Aya\nJapanese\n', b'\nNakajima, Megumi\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawamori, Shouji\n\nDirector, Mechanical Design, Creator, Screenplay\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nKikuchi, Yasuhito\n\nEpisode Director, Assistant Director, Key Animation\n\n', b'\nMatsuda, Kiyoshi\n\nStoryboard\n\n']
+animePopularity	3398
+animeDescription	"Half retelling of the original Frontier series, half new story. Conspiracies arise within the Frontier government when Sheryl Nome arrives to the colonial fleet for her concert and is soon marked as a spy for Galaxy while childhood friends, Alto Saotome and Ranka Lee both try to achieve their dreams as the battle between Frontier and the Vajra draws closer.
+
+This movie serves as part one of the Frontier retelling and will conclude with the second, The Wings of Goodbye."
+animeRelated	['Macross F', 'Macross F Movie 2: Sayonara no Tsubasa', 'Pure Shield']
+animeCharacters	"['Nome, Sheryl', 'Lee, Ranka', 'Saotome, Alto', 'Klang, Klan', 'Sterne, Brera', 'Blanc, Mikhail', 'Lee, Ozma', ""O'Connor, Grace"", 'Angelloni, Luca', 'Wilder, Jeffrey']"
+animeVoices	['Endou, Aya', 'Nakajima, Megumi', 'Nakamura, Yuuichi', 'Toyoguchi, Megumi', 'Hoshi, Souichirou', 'Kamiya, Hiroshi', 'Konishi, Katsuyuki', 'Inoue, Kikuko', 'Fukuyama, Jun', 'Ookawa, Tooru']
+animeStaff	[['Kawamori, Shouji', 'Director, Mechanical Design, Creator, Screenplay'], ['Mima, Masafumi', 'Sound Director'], ['Kikuchi, Yasuhito', 'Episode Director, Assistant Director, Key Animation'], ['Matsuda, Kiyoshi', 'Storyboard']]

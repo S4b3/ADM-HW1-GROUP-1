@@ -1,5 +1,5 @@
-animeTitle	b'Kremlin'
-animeType	b'ONA'
+animeTitle	Kremlin
+animeType	ONA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.2
 animeUsers	417
 animeRank	
-animePopularity	
-animeDescription	"b'A gag, flash animation comedy that centers around a purported college student named Haruo ""Cat"" Kyattsuyama who only went to his school, the low-tier Kunekune College, once. One day, he sees a cute Russian Blue cat named Kan-u abandoned in a cardboard box on the roadside somewhere in Japan. Kyattsuyama pretends not to see the cat, and continues to do so for an entire year. Surprisingly, no one has shown up to try to save the cat, so Kyattsuyama finally decides to pick the cat up \xe2\x80\x94 however, by then, there are now three Russian Blue cats instead of just one. Kyattsuyama asked the cats for their names, and they all said ""Kan-u."" \n\nThe anime shorts are inspired by Kaoru Curry-zawa\'s ""Kremlin"" cat gag comedy manga. \n\n(Source: ANN) '"
-animeRelated	[b'Kremlin']
-animeCharacters	[b'Guan Yu', b'Kyattsuyama, Haruo']
-animeVoices	[b'\nHirakawa, Aki\nJapanese\n', b'\nTani, Youichirou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTani, Azuma\n\nDirector, Theme Song Performance\n\n', b'\nCurryzawa, Kaoru\n\nOriginal Creator\n\n']
+animePopularity	11198
+animeDescription	"A gag, flash animation comedy that centers around a purported college student named Haruo ""Cat"" Kyattsuyama who only went to his school, the low-tier Kunekune College, once. One day, he sees a cute Russian Blue cat named Kan-u abandoned in a cardboard box on the roadside somewhere in Japan. Kyattsuyama pretends not to see the cat, and continues to do so for an entire year. Surprisingly, no one has shown up to try to save the cat, so Kyattsuyama finally decides to pick the cat up — however, by then, there are now three Russian Blue cats instead of just one. Kyattsuyama asked the cats for their names, and they all said ""Kan-u."" 
+
+The anime shorts are inspired by Kaoru Curry-zawa's ""Kremlin"" cat gag comedy manga. 
+
+(Source: ANN) "
+animeRelated	['Kremlin']
+animeCharacters	['Guan Yu', 'Kyattsuyama, Haruo']
+animeVoices	['Hirakawa, Aki', 'Tani, Youichirou']
+animeStaff	[['Tani, Azuma', 'Director, Theme Song Performance'], ['Curryzawa, Kaoru', 'Original Creator']]

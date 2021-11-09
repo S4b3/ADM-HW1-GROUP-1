@@ -1,5 +1,5 @@
-animeTitle	b'Xevious'
-animeType	b'Movie'
+animeTitle	Xevious
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""In the year 2150 A.D. space pilot Takeru and human computer Martha come across a giant ship which contains two mechanical beings called Sara and Ru Mi. They warn Takeru and Martha of the Gump, an alien race that is heading to Earth so that it can take over the planet. With only 40 mintues remaining until Earth's invasion, Takeru enters the Solvalou, a combat aircraft, and heads to the Gump's base on the planet Andoa.\n\n(Source: ANN)"""
+animePopularity	12998
+animeDescription	"In the year 2150 A.D. space pilot Takeru and human computer Martha come across a giant ship which contains two mechanical beings called Sara and Ru Mi. They warn Takeru and Martha of the Gump, an alien race that is heading to Earth so that it can take over the planet. With only 40 mintues remaining until Earth's invasion, Takeru enters the Solvalou, a combat aircraft, and heads to the Gump's base on the planet Andoa.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Sarah', b'Takeru', b'Me, Roux', b'Martha', b'Putnam']
-animeVoices	[b'\nYuzuki, Ryouka\nJapanese\n', b'\nOda, Yuusei\nJapanese\n', b'\nAraki, Kae\nJapanese\n', b'\nAkimoto, Yousuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSeino, Kazumichi\n\nProducer, Director\n\n', b'\nKobayashi, Nobumitsu\n\nMechanical Design\n\n', b'\nOgura, Shinya\n\nAssistant Director, Setting\n\n']
+animeCharacters	['Sarah', 'Takeru', 'Me, Roux', 'Martha', 'Putnam']
+animeVoices	['Yuzuki, Ryouka', 'Oda, Yuusei', 'Araki, Kae', 'Akimoto, Yousuke']
+animeStaff	[['Seino, Kazumichi', 'Producer, Director'], ['Kobayashi, Nobumitsu', 'Mechanical Design'], ['Ogura, Shinya', 'Assistant Director, Setting']]

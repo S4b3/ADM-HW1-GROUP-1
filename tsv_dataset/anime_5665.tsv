@@ -1,5 +1,5 @@
-animeTitle	b'Gambo'
-animeType	b'Movie'
+animeTitle	Gambo
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.59
 animeUsers	3533
 animeRank	
-animePopularity	
-animeDescription	"b""Gambo is about a battle between a creature who's been killing members of a royal Japanese family, and a mysterious white bear who protects them.\n\n(Source: Crunchyroll)"""
-animeRelated	[b'Hi no Youjin', b'Tsukumo', b'Buki yo Saraba', b'Short Peace Opening']
+animePopularity	5865
+animeDescription	"Gambo is about a battle between a creature who's been killing members of a royal Japanese family, and a mysterious white bear who protects them.
+
+(Source: Crunchyroll)"
+animeRelated	['Hi no Youjin', 'Tsukumo', 'Buki yo Saraba', 'Short Peace Opening']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

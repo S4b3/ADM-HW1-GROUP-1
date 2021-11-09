@@ -1,5 +1,5 @@
-animeTitle	b'Duel Masters Cross'
-animeType	b'TV'
+animeTitle	Duel Masters Cross
+animeType	TV
 animeNumEpisode	100
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.31
 animeUsers	707
 animeRank	
-animePopularity	
-animeDescription	b'Shobu and friends fight the remaining Fua Duelists in order to defeat Zakira. Once again, they face off against the old members of Fua Duelists at the World Championship tournament.\n\nShobu also found the terrible fate his friends faced because of these duelists in their past.\n\n(Source: Duel Masters Wikia)'
-animeRelated	[b'Duel Masters Movie 2: Lunatic God Saga', b'Duel Masters Zero', b'Duel Masters Cross Shock']
-animeCharacters	[b'Kirifuda, Shoubu', b'Kokujou, Kyoushirou', b'Tasogare, Mimi', b'Hakuou', b'Kadoko, Rekuta']
-animeVoices	[b'\nKobayashi, Yumiko\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nNakajima, Saki\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nImai, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamada, Chiaki\n\nSound Director\n\n', b'\nItou, Hideki\n\nCharacter Design\n\n', b'\nWatanabe, Keito\n\nArt Director\n\n']
+animePopularity	9427
+animeDescription	"Shobu and friends fight the remaining Fua Duelists in order to defeat Zakira. Once again, they face off against the old members of Fua Duelists at the World Championship tournament.
+
+Shobu also found the terrible fate his friends faced because of these duelists in their past.
+
+(Source: Duel Masters Wikia)"
+animeRelated	['Duel Masters Movie 2: Lunatic God Saga', 'Duel Masters Zero', 'Duel Masters Cross Shock']
+animeCharacters	['Kirifuda, Shoubu', 'Kokujou, Kyoushirou', 'Tasogare, Mimi', 'Hakuou', 'Kadoko, Rekuta']
+animeVoices	['Kobayashi, Yumiko', 'Kishio, Daisuke', 'Nakajima, Saki', 'Minagawa, Junko', 'Imai, Yuka']
+animeStaff	[['Yamada, Chiaki', 'Sound Director'], ['Itou, Hideki', 'Character Design'], ['Watanabe, Keito', 'Art Director']]

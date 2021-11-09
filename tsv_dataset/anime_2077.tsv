@@ -1,5 +1,5 @@
-animeTitle	b'Taiho Shichau zo The Movie'
-animeType	b'Movie'
+animeTitle	Taiho Shichau zo The Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.37
 animeUsers	3130
 animeRank	
-animePopularity	
-animeDescription	"b""Bokutou Precinct rarely deals with criminals more nefarious than speeding sportscar drivers. So when Officers Nikaido Yoriko and Aoi Futaba find a cache of illegal firearms in a stolen car, and a rash of traffic control malfunctions snarls traffic along Tokyo's streets, it is up to Tokyo's finest to figure out what's gone wrong. And of course, it'll take the talents of Kobayakawa Miyuki and Tsujimoto Natsumi to crack the case. But will Miyuki's trusty Mini-Pat and Natsumi's fierce determination be enough to stop a devious mastermind from exploiting the weaknesses of the system and crippling Tokyo\xe2\x80\x94and the world\xe2\x80\x94for good?\n\n(Source: AnimeNfo)"""
-animeRelated	[b'Taiho Shichau zo', b'Taiho Shichau zo (TV)', b'Taiho Shichau zo Special', b'Taiho Shichau zo: Nagisa no Koutsuu Yuudou', b'Taiho Shichau zo in America', b'Taiho Shichau zo: Second Season', b'Taiho Shichau zo: Full Throttle']
-animeCharacters	[b'Tsujimoto, Natsumi', b'Kobayakawa, Miyuki', b'Nikaidou, Yoriko', b'Aoi, Futaba', b'Tokairin, Shoji', b'Kachou', b'Nakajima, Ken', b'Kinoshita, Kaoruko', b'Tokuno Keibu', b'Boat Captain']
-animeVoices	[b'\nTamagawa, Sakiko\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nKozakura, Etsuko\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nMasamune, Issei\nJapanese\n', b'\nShimada, Bin\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n', b'\nSawaki, Ikuya\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishimura, Junji\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nKawai, Kenji\n\nMusic\n\n', b'\nFujishima, Kousuke\n\nOriginal Creator\n\n']
+animePopularity	6015
+animeDescription	"Bokutou Precinct rarely deals with criminals more nefarious than speeding sportscar drivers. So when Officers Nikaido Yoriko and Aoi Futaba find a cache of illegal firearms in a stolen car, and a rash of traffic control malfunctions snarls traffic along Tokyo's streets, it is up to Tokyo's finest to figure out what's gone wrong. And of course, it'll take the talents of Kobayakawa Miyuki and Tsujimoto Natsumi to crack the case. But will Miyuki's trusty Mini-Pat and Natsumi's fierce determination be enough to stop a devious mastermind from exploiting the weaknesses of the system and crippling Tokyo—and the world—for good?
+
+(Source: AnimeNfo)"
+animeRelated	['Taiho Shichau zo', 'Taiho Shichau zo (TV)', 'Taiho Shichau zo Special', 'Taiho Shichau zo: Nagisa no Koutsuu Yuudou', 'Taiho Shichau zo in America', 'Taiho Shichau zo: Second Season', 'Taiho Shichau zo: Full Throttle']
+animeCharacters	['Tsujimoto, Natsumi', 'Kobayakawa, Miyuki', 'Nikaidou, Yoriko', 'Aoi, Futaba', 'Tokairin, Shoji', 'Kachou', 'Nakajima, Ken', 'Kinoshita, Kaoruko', 'Tokuno Keibu', 'Boat Captain']
+animeVoices	['Tamagawa, Sakiko', 'Hiramatsu, Akiko', 'Kozakura, Etsuko', 'Matsumoto, Rica', 'Seki, Tomokazu', 'Masamune, Issei', 'Shimada, Bin', 'Sakakibara, Yoshiko', 'Sawaki, Ikuya', 'Ogata, Kenichi']
+animeStaff	[['Nishimura, Junji', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Kawai, Kenji', 'Music'], ['Fujishima, Kousuke', 'Original Creator']]

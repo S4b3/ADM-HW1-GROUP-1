@@ -1,5 +1,5 @@
-animeTitle	b'Nineteen 19'
-animeType	b'OVA'
+animeTitle	Nineteen 19
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.07
 animeUsers	1309
 animeRank	
-animePopularity	
-animeDescription	"b""19-year-old Kubota is ready to find a girlfriend. The perfect chance arises when he meets Masana Fujisaka, his first love, in a club. She's just broken up with her longtime boyfriend and is surprised to run into Kubota, who sees that the perfect opportunity has just arisen."""
-animeRelated	[b'Nineteen']
-animeCharacters	[b'Fujisaki, Masana', b'Kubota, Kazushi', b'Kusano, Hiroaki', b'Yagi', b'Kawahara, Kazuya']
-animeVoices	[b'\nTsuru, Hiromi\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChigira, Kouichi\n\nDirector\n\n', b'\nKadomatsu, Toshiki\n\nTheme Song Performance, Theme Song Arrangement, Theme Song Composition, Theme Song Lyrics, Inserted Song Performance\n\n', b'\nOnda, Naoyuki\n\nAnimation Director, Character Design\n\n', b'\nKitagawa, Shou\n\nOriginal Creator\n\n']
+animePopularity	8041
+animeDescription	19-year-old Kubota is ready to find a girlfriend. The perfect chance arises when he meets Masana Fujisaka, his first love, in a club. She's just broken up with her longtime boyfriend and is surprised to run into Kubota, who sees that the perfect opportunity has just arisen.
+animeRelated	['Nineteen']
+animeCharacters	['Fujisaki, Masana', 'Kubota, Kazushi', 'Kusano, Hiroaki', 'Yagi', 'Kawahara, Kazuya']
+animeVoices	['Tsuru, Hiromi', 'Onosaka, Masaya', 'Yamaguchi, Kappei', 'Koyasu, Takehito', 'Yamadera, Kouichi']
+animeStaff	[['Chigira, Kouichi', 'Director'], ['Kadomatsu, Toshiki', 'Theme Song Performance, Theme Song Arrangement, Theme Song Composition, Theme Song Lyrics, Inserted Song Performance'], ['Onda, Naoyuki', 'Animation Director, Character Design'], ['Kitagawa, Shou', 'Original Creator']]

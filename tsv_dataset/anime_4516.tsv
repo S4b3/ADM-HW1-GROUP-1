@@ -1,5 +1,5 @@
-animeTitle	b'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III OVA'
-animeType	b'OVA'
+animeTitle	Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.82
 animeUsers	15800
 animeRank	
-animePopularity	
-animeDescription	"b""There's a new natural hot spring in Orario thanks to the Dian Cecht Familia, but Naaza of the Miach Familia suspects an elaborate con and needs help to prove it. What does that mean for Bell since he's in the wrong place at the wrong time? It means getting caught in the middle of an ongoing rivalry between two Familias. Again.\n\n(Source: ANN)"""
-animeRelated	[b'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III']
-animeCharacters	[b'Cranel, Bell', b'Hestia', b'Wallenstein, Ais', b'Lion, Ryuu', b'Arde, Liliruca', b'Sanjouno, Haruhime', b'Wiene', b'Yamato, Mikoto', b'Crozzo, Welf', b'Teasanare, Amid']
-animeVoices	[b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nOonishi, Saori\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nChisuga, Haruka\nJapanese\n', b'\nHidaka, Rina\nJapanese\n', b'\nAkasaki, Chinatsu\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTachibana, Hideki\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nShirane, Hideki\n\nScript\n\n', b'\nIguchi, Yuka\n\nTheme Song Performance\n\n']
+animePopularity	2516
+animeDescription	"There's a new natural hot spring in Orario thanks to the Dian Cecht Familia, but Naaza of the Miach Familia suspects an elaborate con and needs help to prove it. What does that mean for Bell since he's in the wrong place at the wrong time? It means getting caught in the middle of an ongoing rivalry between two Familias. Again.
+
+(Source: ANN)"
+animeRelated	['Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III']
+animeCharacters	['Cranel, Bell', 'Hestia', 'Wallenstein, Ais', 'Lion, Ryuu', 'Arde, Liliruca', 'Sanjouno, Haruhime', 'Wiene', 'Yamato, Mikoto', 'Crozzo, Welf', 'Teasanare, Amid']
+animeVoices	['Matsuoka, Yoshitsugu', 'Minase, Inori', 'Oonishi, Saori', 'Hayami, Saori', 'Uchida, Maaya', 'Chisuga, Haruka', 'Hidaka, Rina', 'Akasaki, Chinatsu', 'Hosoya, Yoshimasa']
+animeStaff	[['Tachibana, Hideki', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Shirane, Hideki', 'Script'], ['Iguchi, Yuka', 'Theme Song Performance']]

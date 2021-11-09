@@ -1,5 +1,5 @@
-animeTitle	b'The Snack World'
-animeType	b'Movie'
+animeTitle	The Snack World
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The Snack World follows a ragtag group of friends who embark on an adventure together. They live in a land similar to traditional fantasy settings but with certain modern twists like cell phones and convenience stores.'
-animeRelated	[b'The Snack World (TV)', b'The Snack World: Hitogirai no Renny']
-animeCharacters	[b'Mayone', b'Gob-san', b'Peperon', b'Chup']
-animeVoices	[b'\nTaketatsu, Ayana\nJapanese\n', b'\nMiyazawa, Tadashi\nJapanese\n', b'\nSugimura, Kenji\nJapanese\n', b'\nHan, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMori, Takeshi\n\nDirector\n\n', b'\nHino, Akihiro\n\nScreenplay\n\n', b'\nNagano, Takuzou\n\nCharacter Design\n\n', b'\nKondou, Rei\n\nMusic\n\n']
+animePopularity	14576
+animeDescription	The Snack World follows a ragtag group of friends who embark on an adventure together. They live in a land similar to traditional fantasy settings but with certain modern twists like cell phones and convenience stores.
+animeRelated	['The Snack World (TV)', 'The Snack World: Hitogirai no Renny']
+animeCharacters	['Mayone', 'Gob-san', 'Peperon', 'Chup']
+animeVoices	['Taketatsu, Ayana', 'Miyazawa, Tadashi', 'Sugimura, Kenji', 'Han, Megumi']
+animeStaff	[['Mori, Takeshi', 'Director'], ['Hino, Akihiro', 'Screenplay'], ['Nagano, Takuzou', 'Character Design'], ['Kondou, Rei', 'Music']]

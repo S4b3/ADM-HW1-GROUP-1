@@ -1,5 +1,5 @@
-animeTitle	b'Fatal Fury: Legend of the Hungry Wolf'
-animeType	b'OVA'
+animeTitle	Fatal Fury: Legend of the Hungry Wolf
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.43
 animeUsers	5110
 animeRank	
-animePopularity	
-animeDescription	b'Jeff Bogard was a master of the Hakkyokuseiken martial arts school and the guardian of its secret techniques. Coveting this knowledge, Geese Howard, the most powerful man in South Town, challenged and murdered him in front of his adoptive sons Terry and Andy Bogard. Under the guidance of their mentor Tung Fe Rue, the brothers dedicate their lives to training in the ultimate art to avenge their father. \n\n10 years later, Geese promotes a martial arts tournament known as the King of Fighters. Terry and Andy join their friend Muay Thai champion Joe Higashi and enter the competition in order to finally face Geese in combat.  \n\n[Written by MAL Rewrite]\n'
-animeRelated	[b'Fatal Fury: The Motion Picture', b'Fatal Fury 2: The New Battle', b'King of Fighters: Another Day', b'The King of Fighters: Destiny']
-animeCharacters	[b'Bogard, Terry', b'Howard, Geese', b'Bogard, Andy', b'Higashi, Joe', b'McGuire, Lily', b'Kane, Billy', b'Bogard, Jeff', b'Kim, Kaphwan', b'Jai, Hwa', b'Tung, Fu Rue']
-animeVoices	[b'\nShibata, Hidekatsu\nJapanese\n', b'\nNanba, Keiichi\nJapanese\n', b'\nGray-stanford, Jason\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nNakamura, Daiki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFukutomi, Hiroshi\n\nDirector\n\n', b'\nKuzuya, Naoyuki\n\nEpisode Director, Storyboard\n\n', b'\nMasuda, Toshio\n\nMusic\n\n', b'\nMima, Masafumi\n\nSound Effects\n\n']
+animePopularity	5505
+animeDescription	"Jeff Bogard was a master of the Hakkyokuseiken martial arts school and the guardian of its secret techniques. Coveting this knowledge, Geese Howard, the most powerful man in South Town, challenged and murdered him in front of his adoptive sons Terry and Andy Bogard. Under the guidance of their mentor Tung Fe Rue, the brothers dedicate their lives to training in the ultimate art to avenge their father. 
+
+10 years later, Geese promotes a martial arts tournament known as the King of Fighters. Terry and Andy join their friend Muay Thai champion Joe Higashi and enter the competition in order to finally face Geese in combat.  
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Fatal Fury: The Motion Picture', 'Fatal Fury 2: The New Battle', 'King of Fighters: Another Day', 'The King of Fighters: Destiny']
+animeCharacters	['Bogard, Terry', 'Howard, Geese', 'Bogard, Andy', 'Higashi, Joe', 'McGuire, Lily', 'Kane, Billy', 'Bogard, Jeff', 'Kim, Kaphwan', 'Jai, Hwa', 'Tung, Fu Rue']
+animeVoices	['Shibata, Hidekatsu', 'Nanba, Keiichi', 'Gray-stanford, Jason', 'Inoue, Kikuko', 'Ishizuka, Unshou', 'Nakamura, Daiki']
+animeStaff	[['Fukutomi, Hiroshi', 'Director'], ['Kuzuya, Naoyuki', 'Episode Director, Storyboard'], ['Masuda, Toshio', 'Music'], ['Mima, Masafumi', 'Sound Effects']]

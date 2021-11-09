@@ -1,5 +1,5 @@
-animeTitle	b'Canary'
-animeType	b'OVA'
+animeTitle	Canary
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.62
 animeUsers	829
 animeRank	
-animePopularity	
-animeDescription	b'Mika Katagiri wants her band to perform at the upcoming local festival. However, complications arise. Their keyboardist, Jun, refuses to play, and their stage has been cancelled. Refusing to give up, Mika and her band strive to find a way to play at the festival, using any means necessary.\n\n(Source: ANN)'
+animePopularity	9543
+animeDescription	"Mika Katagiri wants her band to perform at the upcoming local festival. However, complications arise. Their keyboardist, Jun, refuses to play, and their stage has been cancelled. Refusing to give up, Mika and her band strive to find a way to play at the festival, using any means necessary.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Hoshino, Mai', b'Otogawa, Madoka']
-animeVoices	[b'\nSaitou, Chiwa\nJapanese\n', b'\nHorie, Yui\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMotonaga, Keitarou\n\nDirector\n\n', b'\nMatsuoka, Hiroki\n\nSound Director\n\n', b'\nFront Wing\n\nOriginal Creator\n\n', b'\nIkeda, Shigemi\n\nArt Director\n\n']
+animeCharacters	['Hoshino, Mai', 'Otogawa, Madoka']
+animeVoices	['Saitou, Chiwa', 'Horie, Yui']
+animeStaff	[['Motonaga, Keitarou', 'Director'], ['Matsuoka, Hiroki', 'Sound Director'], ['Front Wing', 'Original Creator'], ['Ikeda, Shigemi', 'Art Director']]

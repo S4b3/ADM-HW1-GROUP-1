@@ -1,5 +1,5 @@
-animeTitle	b'Charlotte: Tsuyoimono-tachi'
-animeType	b'Special'
+animeTitle	Charlotte: Tsuyoimono-tachi
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.48
 animeUsers	84533
 animeRank	
-animePopularity	
-animeDescription	"b""Takehito Kumagami's clairvoyance leads his group of friends to another child with supernatural powers: Iori Sekiguchi, a mind reader. However, as they try to approach her, they realize her power makes her nearly impossible to pin down. Having been chosen by the club to handle this case, Nao Tomori and Yuu Otosaka must find a way to get around the child's unique ability before it is too late.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Charlotte']
-animeCharacters	[b'Tomori, Nao', b'Otosaka, Yuu', b'Sekiguchi, Iori', b'Otosaka, Ayumi', b'Takajou, Joujirou', b'Kurobane, Yusa', b'Kumagami, Takehito', b'Honoka']
-animeVoices	[b'\nSakura, Ayane\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nAsakura, Momo\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nTakemoto, Eiji\nJapanese\n', b'\nLynn\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAsai, Yoshiyuki\n\nDirector\n\n', b'\nMaeda, Jun\n\nTheme Song Lyrics, Music\n\n', b'\nLia\n\nTheme Song Performance\n\n', b'\nTada, Aoi\n\nTheme Song Performance\n\n']
+animePopularity	1186
+animeDescription	"Takehito Kumagami's clairvoyance leads his group of friends to another child with supernatural powers: Iori Sekiguchi, a mind reader. However, as they try to approach her, they realize her power makes her nearly impossible to pin down. Having been chosen by the club to handle this case, Nao Tomori and Yuu Otosaka must find a way to get around the child's unique ability before it is too late.
+
+[Written by MAL Rewrite]"
+animeRelated	['Charlotte']
+animeCharacters	['Tomori, Nao', 'Otosaka, Yuu', 'Sekiguchi, Iori', 'Otosaka, Ayumi', 'Takajou, Joujirou', 'Kurobane, Yusa', 'Kumagami, Takehito', 'Honoka']
+animeVoices	['Sakura, Ayane', 'Uchiyama, Kouki', 'Minase, Inori', 'Asakura, Momo', 'Mizushima, Takahiro', 'Uchida, Maaya', 'Takemoto, Eiji', 'Lynn']
+animeStaff	[['Asai, Yoshiyuki', 'Director'], ['Maeda, Jun', 'Theme Song Lyrics, Music'], ['Lia', 'Theme Song Performance'], ['Tada, Aoi', 'Theme Song Performance']]

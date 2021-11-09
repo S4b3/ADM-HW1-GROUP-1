@@ -1,5 +1,5 @@
-animeTitle	b'Boku wa Robot-goshi no Kimi ni Koi wo Suru'
-animeType	b'Special'
+animeTitle	Boku wa Robot-goshi no Kimi ni Koi wo Suru
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.32
 animeUsers	825
 animeRank	
-animePopularity	
-animeDescription	"b""An animated promotional video for the novel of the same title.\n\nThe novel's story is set in the year 2060 with Tokyo's third Olympics close at hand. While a secret project using robots moves forward, notice of a terrorist threat arrives. The story's protagonist combats terrorism and aims to protect the heroine, to whom he has given his heart. Plot twists come one after another as the story unfolds to a moving conclusion.\n\n(Source: ANN)"""
-animeRelated	[b'Boku wa Robot-goshi no Kimi ni Koi wo Suru Movie']
-animeCharacters	[b'Youichirou', b'Takeru', b'Saki']
-animeVoices	[b'\nKiuchi, Hidenobu\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTHE SxPLAY\n\nTheme Song Performance\n\n', b'\nloundraw\n\nCharacter Design\n\n']
+animePopularity	7655
+animeDescription	"An animated promotional video for the novel of the same title.
+
+The novel's story is set in the year 2060 with Tokyo's third Olympics close at hand. While a secret project using robots moves forward, notice of a terrorist threat arrives. The story's protagonist combats terrorism and aims to protect the heroine, to whom he has given his heart. Plot twists come one after another as the story unfolds to a moving conclusion.
+
+(Source: ANN)"
+animeRelated	['Boku wa Robot-goshi no Kimi ni Koi wo Suru Movie']
+animeCharacters	['Youichirou', 'Takeru', 'Saki']
+animeVoices	['Kiuchi, Hidenobu', 'Irino, Miyu', 'Hanazawa, Kana']
+animeStaff	[['THE SxPLAY', 'Theme Song Performance'], ['loundraw', 'Character Design']]

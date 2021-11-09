@@ -1,5 +1,5 @@
-animeTitle	b'Bishoujo Senshi Sailor Moon Eternal Movie 1'
-animeType	b'Movie'
+animeTitle	Bishoujo Senshi Sailor Moon Eternal Movie 1
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.47
 animeUsers	5822
 animeRank	
-animePopularity	
-animeDescription	"b'The Dead Moon Circus has arrived in Juban with the hopes of liberating their queen, Nehellenia, by stealing the Legendary Silver Crystal for themselves. Using ""Lemures,"" the Circus begins to convert people\'s dreams into nightmares in order to collect enough energy to plunge the Earth into darkness and turn it into a planet of death. In order to stop the Circus in their tracks, Usagi Tsukino and her friends must reprise their roles as the Inner Sailor Guardians.\n\nWhen Mamoru Chiba suddenly falls ill after the appearance of a total solar eclipse, Usagi and Chibiusa encounter a pegasus by the name of Helios who is desperate to unseal the Golden Crystal, which Helios claims is the only way to save their world from the impending threat. Meanwhile, the Sailor Guardians discover that they can no longer transform following the eclipse and begin to fall victim to the Circus\' Lemures. Will they be able to recover their powers in time to stop the darkness from taking over?\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Bishoujo Senshi Sailor Moon', b'Bishoujo Senshi Sailor Moon SuperS', b'Bishoujo Senshi Sailor Moon Eternal Movie 1 Recap', b'Bishoujo Senshi Sailor Moon Crystal Season III', b'Bishoujo Senshi Sailor Moon Eternal Movie 2']
-animeCharacters	[b'Tsukino, Usagi', b'Hino, Rei', b'Kino, Makoto', b'Aino, Minako', b'Mizuno, Ami', b'Chibiusa', b'Tomoe, Hotaru', b'Chiba, Mamoru', b'Luna', b'Artemis']
-animeVoices	[b'\nMitsuishi, Kotono\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n', b'\nFukuen, Misato\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKon, Chiaki\n\nDirector\n\n', b'\nFudeyasu, Kazuyuki\n\nScript\n\n', b'\nItou, Shizuka\n\nTheme Song Performance\n\n', b'\nKoshimizu, Ami\n\nTheme Song Performance\n\n']
+animePopularity	4101
+animeDescription	"The Dead Moon Circus has arrived in Juban with the hopes of liberating their queen, Nehellenia, by stealing the Legendary Silver Crystal for themselves. Using ""Lemures,"" the Circus begins to convert people's dreams into nightmares in order to collect enough energy to plunge the Earth into darkness and turn it into a planet of death. In order to stop the Circus in their tracks, Usagi Tsukino and her friends must reprise their roles as the Inner Sailor Guardians.
+
+When Mamoru Chiba suddenly falls ill after the appearance of a total solar eclipse, Usagi and Chibiusa encounter a pegasus by the name of Helios who is desperate to unseal the Golden Crystal, which Helios claims is the only way to save their world from the impending threat. Meanwhile, the Sailor Guardians discover that they can no longer transform following the eclipse and begin to fall victim to the Circus' Lemures. Will they be able to recover their powers in time to stop the darkness from taking over?
+
+[Written by MAL Rewrite]"
+animeRelated	['Bishoujo Senshi Sailor Moon', 'Bishoujo Senshi Sailor Moon SuperS', 'Bishoujo Senshi Sailor Moon Eternal Movie 1 Recap', 'Bishoujo Senshi Sailor Moon Crystal Season III', 'Bishoujo Senshi Sailor Moon Eternal Movie 2']
+animeCharacters	['Tsukino, Usagi', 'Hino, Rei', 'Kino, Makoto', 'Aino, Minako', 'Mizuno, Ami', 'Chibiusa', 'Tomoe, Hotaru', 'Chiba, Mamoru', 'Luna', 'Artemis']
+animeVoices	['Mitsuishi, Kotono', 'Satou, Rina', 'Koshimizu, Ami', 'Itou, Shizuka', 'Kanemoto, Hisako', 'Fukuen, Misato', 'Nojima, Kenji', 'Hirohashi, Ryou']
+animeStaff	[['Kon, Chiaki', 'Director'], ['Fudeyasu, Kazuyuki', 'Script'], ['Itou, Shizuka', 'Theme Song Performance'], ['Koshimizu, Ami', 'Theme Song Performance']]

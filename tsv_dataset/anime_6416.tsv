@@ -1,5 +1,5 @@
-animeTitle	b'Gokinjo Monogatari the Movie'
-animeType	b'Movie'
+animeTitle	Gokinjo Monogatari the Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.45
 animeUsers	687
 animeRank	
-animePopularity	
-animeDescription	b'An alternate retelling of the beginning of the original series.\n\nMikako and Tsutomu lived next door to each other since they were little. They both attend an art school, where Mikako is pursuing her dream of being a fashion designer.\n\nThey formed a club called Akindo with several of their friends. Akindo participates in flea markets, where they sell their creations\xe2\x80\x94clothes, dolls, and artwork.'
-animeRelated	[b'Gokinjo Monogatari']
-animeCharacters	[b'Kouda, Mikako', b'Yamaguchi, Tsutomu', b'Kanzaki, Risa', b'Nakasu, Mariko', b'Tashiro, Yuusuke', b'Oota, Mai', b'Oikawa, Ayumi', b'Kouda, Ruriko', b'Nishino, Jiro', b'Nakasu, Shintaro']
-animeVoices	[b'\nNiiyama, Shiho\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimizu, Junji\n\nDirector\n\n', b'\nShishido, Rumi\n\nTheme Song Performance\n\n', b'\nYazawa, Ai\n\nOriginal Creator\n\n', b'\nSeki, Hiromi\n\nPlanning\n\n']
+animePopularity	8591
+animeDescription	"An alternate retelling of the beginning of the original series.
+
+Mikako and Tsutomu lived next door to each other since they were little. They both attend an art school, where Mikako is pursuing her dream of being a fashion designer.
+
+They formed a club called Akindo with several of their friends. Akindo participates in flea markets, where they sell their creations—clothes, dolls, and artwork."
+animeRelated	['Gokinjo Monogatari']
+animeCharacters	['Kouda, Mikako', 'Yamaguchi, Tsutomu', 'Kanzaki, Risa', 'Nakasu, Mariko', 'Tashiro, Yuusuke', 'Oota, Mai', 'Oikawa, Ayumi', 'Kouda, Ruriko', 'Nishino, Jiro', 'Nakasu, Shintaro']
+animeVoices	['Niiyama, Shiho']
+animeStaff	[['Shimizu, Junji', 'Director'], ['Shishido, Rumi', 'Theme Song Performance'], ['Yazawa, Ai', 'Original Creator'], ['Seki, Hiromi', 'Planning']]

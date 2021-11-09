@@ -1,5 +1,5 @@
-animeTitle	b'Joshi Luck!'
-animeType	b'OVA'
+animeTitle	Joshi Luck!
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.08
 animeUsers	4625
 animeRank	
-animePopularity	
-animeDescription	b'A guy by the name of Kuroda-sensei is given a job as the new coach/adviser of the girls lacrosse club in a all female school called Felinus Academy for Girls but... it turns out to be a bumpy ride as he encounters sex fiends among the squad, and his adventures begins as he attempts to gain their respect as adviser.\n\n(Source: MU)'
-animeRelated	[b'Joshi Luck!']
-animeCharacters	[b'Kise, Matori', b'Shirogane, Sakura', b'Aoyama, Kumiko', b'Momoi, Yuri', b'Akagi, Aya', b'Kuroda, Koutarou']
+animePopularity	5304
+animeDescription	"A guy by the name of Kuroda-sensei is given a job as the new coach/adviser of the girls lacrosse club in a all female school called Felinus Academy for Girls but... it turns out to be a bumpy ride as he encounters sex fiends among the squad, and his adventures begins as he attempts to gain their respect as adviser.
+
+(Source: MU)"
+animeRelated	['Joshi Luck!']
+animeCharacters	['Kise, Matori', 'Shirogane, Sakura', 'Aoyama, Kumiko', 'Momoi, Yuri', 'Akagi, Aya', 'Kuroda, Koutarou']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nRaika, Ken\n\nDirector\n\n', b'\nDISTANCE\n\nOriginal Creator\n\n']
+animeStaff	[['Raika, Ken', 'Director'], ['DISTANCE', 'Original Creator']]

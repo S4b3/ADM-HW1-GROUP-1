@@ -1,5 +1,5 @@
-animeTitle	b'Usavich'
-animeType	b'TV'
+animeTitle	Usavich
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.94
 animeUsers	3630
 animeRank	
-animePopularity	
-animeDescription	b'Collection of animated shorts from MTV Japan and produced by Studio Kanaban that follows the misadventures of Kirenenko and Putin, two rabbits stuck in a Russian prison. '
-animeRelated	[b'Usavich II', b'Usavich Special', b'Usavich Zero']
-animeCharacters	[b'Kirenenko', b'Putin', b'Com\xc4\x83neci', b'Leningrad']
-animeVoices	[b'\nUeno, Hironori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTomioka, Satoshi\n\nDirector, Script, Storyboard, Screenplay, Original Creator\n\n', b'\nBach, Johann Sebastian\n\nMusic\n\n', b'\nUeno, Hironori\n\nSound Effects, Music\n\n']
+animePopularity	6358
+animeDescription	Collection of animated shorts from MTV Japan and produced by Studio Kanaban that follows the misadventures of Kirenenko and Putin, two rabbits stuck in a Russian prison. 
+animeRelated	['Usavich II', 'Usavich Special', 'Usavich Zero']
+animeCharacters	['Kirenenko', 'Putin', 'Comăneci', 'Leningrad']
+animeVoices	['Ueno, Hironori']
+animeStaff	[['Tomioka, Satoshi', 'Director, Script, Storyboard, Screenplay, Original Creator'], ['Bach, Johann Sebastian', 'Music'], ['Ueno, Hironori', 'Sound Effects, Music']]

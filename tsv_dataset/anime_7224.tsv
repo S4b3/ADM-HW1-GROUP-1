@@ -1,5 +1,5 @@
-animeTitle	b'Warau Salesman Dai SP-banashi'
-animeType	b'Special'
+animeTitle	Warau Salesman Dai SP-banashi
+animeType	Special
 animeNumEpisode	8
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.29
 animeUsers	110
 animeRank	
-animePopularity	
-animeDescription	b'Specials of Warau Salesman broadcasted intermittently during the main show not included in the episode count of the main show. They are 3 times the length of a normal episode and fill a half hour time-slot.'
-animeRelated	[b'Warau Salesman']
-animeCharacters	[b'Moguro, Fukuzou', b'Mushimi, Chouko', b'Hiyodori, Shinako', b'Mushimi, Ichirou', b'Asobita', b'High School Girl', b'Erito, Tsutomu']
-animeVoices	[b'\nOohira, Tooru\nJapanese\n', b'\nShimazu, Saeko\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nMikimoto, Yuji\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n', b'\nShioya, Yoku\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYonetani, Yoshitomo\n\nDirector\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n', b'\nMiyano, Takashi\n\nArt Director\n\n', b'\nOkaseko, Nobuhiro\n\nAnimation Director\n\n']
+animePopularity	12900
+animeDescription	Specials of Warau Salesman broadcasted intermittently during the main show not included in the episode count of the main show. They are 3 times the length of a normal episode and fill a half hour time-slot.
+animeRelated	['Warau Salesman']
+animeCharacters	['Moguro, Fukuzou', 'Mushimi, Chouko', 'Hiyodori, Shinako', 'Mushimi, Ichirou', 'Asobita', 'High School Girl', 'Erito, Tsutomu']
+animeVoices	['Oohira, Tooru', 'Shimazu, Saeko', 'Tsuru, Hiromi', 'Mikimoto, Yuji', 'Chiba, Shigeru', 'Minaguchi, Yuko', 'Shioya, Yoku']
+animeStaff	[['Yonetani, Yoshitomo', 'Director'], ['Tanaka, Kouhei', 'Music'], ['Miyano, Takashi', 'Art Director'], ['Okaseko, Nobuhiro', 'Animation Director']]

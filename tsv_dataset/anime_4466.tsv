@@ -1,5 +1,5 @@
-animeTitle	b'Soul Eater: Late Night Show'
-animeType	b'Special'
+animeTitle	Soul Eater: Late Night Show
+animeType	Special
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.84
 animeUsers	6642
 animeRank	
-animePopularity	
-animeDescription	"b'Additional specials included in two Blu-ray Box volumes of Soul Eater. \n\nOriginally they were a part of late-night version of dual broadcast of Soul Eater; the regular Monday 6:00 p.m. version and a late-night ""Soul Eater Late Show"" version.\n\nSpecial footage was added at the start and end of the commercial break; the next episode preview was also different from the regular version.\n\n(Source: Wikipedia)'"
-animeRelated	[b'Soul Eater']
-animeCharacters	[b'Albarn, Maka']
+animePopularity	3719
+animeDescription	"Additional specials included in two Blu-ray Box volumes of Soul Eater. 
+
+Originally they were a part of late-night version of dual broadcast of Soul Eater; the regular Monday 6:00 p.m. version and a late-night ""Soul Eater Late Show"" version.
+
+Special footage was added at the start and end of the commercial break; the next episode preview was also different from the regular version.
+
+(Source: Wikipedia)"
+animeRelated	['Soul Eater']
+animeCharacters	['Albarn, Maka']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMakino, Yui\n\nTheme Song Performance\n\n', b'\nUNISON SQUARE GARDEN\n\nTheme Song Performance\n\n', b'\nTsuji, Shion\n\nTheme Song Performance\n\n', b'\nHOW MERRY MARRY\n\nTheme Song Performance\n\n']
+animeStaff	[['Makino, Yui', 'Theme Song Performance'], ['UNISON SQUARE GARDEN', 'Theme Song Performance'], ['Tsuji, Shion', 'Theme Song Performance'], ['HOW MERRY MARRY', 'Theme Song Performance']]

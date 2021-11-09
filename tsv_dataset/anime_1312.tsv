@@ -1,5 +1,5 @@
-animeTitle	b'Master Keaton'
-animeType	b'TV'
+animeTitle	Master Keaton
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.6
 animeUsers	4112
 animeRank	
-animePopularity	
-animeDescription	"b""Taichi Keaton is a half-British half-Japanese archeologist and SAS veteran of the Falklands War. He solves mysteries and investigates insurance fraud for Lloyd's around the world.\n\n(Source: ANN)"""
-animeRelated	[b'Master Keaton', b'Master Keaton OVA']
-animeCharacters	"[b'Keaton, Taichi', b'Narrator', b'Sofia', b'Hiraga, Taihei', b'Hiraga, Yuriko', b'Funase, Shinsuke', b'Lyman, Flora', b'Chapman, Charlie', b""O'Connell, Daniel"", b'Flora']"
-animeVoices	[b'\nInoue, Norihiro\nJapanese\n', b'\nYamada, Keaton\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n', b'\nSugawara, Masashi\nJapanese\n', b'\nTsuji, Shinpachi\nJapanese\n', b'\nUno, Ayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTamura, Manabu\n\nProducer\n\n', b'\nKojima, Masayuki\n\nDirector\n\n', b'\nKanbe, Mamoru\n\nEpisode Director\n\n', b'\nMasaki, Shinichi\n\nEpisode Director\n\n']
+animePopularity	3875
+animeDescription	"Taichi Keaton is a half-British half-Japanese archeologist and SAS veteran of the Falklands War. He solves mysteries and investigates insurance fraud for Lloyd's around the world.
+
+(Source: ANN)"
+animeRelated	['Master Keaton', 'Master Keaton OVA']
+animeCharacters	"['Keaton, Taichi', 'Narrator', 'Sofia', 'Hiraga, Taihei', 'Hiraga, Yuriko', 'Funase, Shinsuke', 'Lyman, Flora', 'Chapman, Charlie', ""O'Connell, Daniel"", 'Flora']"
+animeVoices	['Inoue, Norihiro', 'Yamada, Keaton', 'Shinohara, Emi', 'Nagai, Ichiro', 'Kuwashima, Houko', 'Kamiya, Hiroshi', 'Minaguchi, Yuko', 'Sugawara, Masashi', 'Tsuji, Shinpachi', 'Uno, Ayumi']
+animeStaff	[['Tamura, Manabu', 'Producer'], ['Kojima, Masayuki', 'Director'], ['Kanbe, Mamoru', 'Episode Director'], ['Masaki, Shinichi', 'Episode Director']]

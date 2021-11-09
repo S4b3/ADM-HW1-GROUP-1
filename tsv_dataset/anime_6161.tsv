@@ -1,5 +1,5 @@
-animeTitle	b'Triage X: Recollection XOXO'
-animeType	b'OVA'
+animeTitle	Triage X: Recollection XOXO
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.5
 animeUsers	8501
 animeRank	
-animePopularity	
-animeDescription	b'Unaired episode 11 of the Triage X series bundled with the 12th manga volume.'
-animeRelated	[b'Triage X']
-animeCharacters	[b'Hitsugi, Sayo', b'Sagiri, Yuuko', b'Tsurugi, Miki', b'Kiba, Mikoto', b'Mikami, Arashi', b'Nashida, Oriha', b'Winchester, Fiona Ran', b'Inunaki, Shinichirou', b'Mochizuki, Masamune']
-animeVoices	[b'\nShiraishi, Ryouko\nJapanese\n', b'\nOno, Fuyuka\nJapanese\n', b'\nAsano, Masumi\nJapanese\n', b'\nKondou, Yui\nJapanese\n', b'\nAkabane, Kenji\nJapanese\n', b'\nSatou, Amina\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nKuroda, Takaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Shouji\n\nOriginal Creator\n\n', b'\nTakami, Akio\n\nCharacter Design\n\n', b'\nIkeda, Ayumi\n\nColor Design\n\n']
+animePopularity	3919
+animeDescription	Unaired episode 11 of the Triage X series bundled with the 12th manga volume.
+animeRelated	['Triage X']
+animeCharacters	['Hitsugi, Sayo', 'Sagiri, Yuuko', 'Tsurugi, Miki', 'Kiba, Mikoto', 'Mikami, Arashi', 'Nashida, Oriha', 'Winchester, Fiona Ran', 'Inunaki, Shinichirou', 'Mochizuki, Masamune']
+animeVoices	['Shiraishi, Ryouko', 'Ono, Fuyuka', 'Asano, Masumi', 'Kondou, Yui', 'Akabane, Kenji', 'Satou, Amina', 'Hisakawa, Aya', 'Miki, Shinichiro', 'Kuroda, Takaya']
+animeStaff	[['Satou, Shouji', 'Original Creator'], ['Takami, Akio', 'Character Design'], ['Ikeda, Ayumi', 'Color Design']]

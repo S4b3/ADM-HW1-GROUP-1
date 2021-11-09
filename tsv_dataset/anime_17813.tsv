@@ -1,5 +1,5 @@
-animeTitle	b'Ikoku Irokoi Romantan'
-animeType	b'OVA'
+animeTitle	Ikoku Irokoi Romantan
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.96
 animeUsers	22981
 animeRank	
-animePopularity	
-animeDescription	"b""Japanese yakuza clan heir Ranmaru just got married on a lavish cruise ship, but things aren't as they seem. The marriage is just for the appearances, and he ends up getting drunk and spending the night not with his bride but with the sexy ship captain. When the two men meet again in Italy, it is the start of a spectacular love story.\n\n(Source: MU)"""
-animeRelated	[b'Ikoku Irokoi Romantan']
-animeCharacters	[b'Oumi, Ranmaru', b'Valentino, Albert', b'Oumi, Kaoru', b'Gondou, Ryuuji']
-animeVoices	[b'\nItou, Kentarou\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOotani, Hajime\n\nDirector, Storyboard\n\n', b'\nYamane, Ayano\n\nOriginal Creator\n\n']
+animePopularity	2774
+animeDescription	"Japanese yakuza clan heir Ranmaru just got married on a lavish cruise ship, but things aren't as they seem. The marriage is just for the appearances, and he ends up getting drunk and spending the night not with his bride but with the sexy ship captain. When the two men meet again in Italy, it is the start of a spectacular love story.
+
+(Source: MU)"
+animeRelated	['Ikoku Irokoi Romantan']
+animeCharacters	['Oumi, Ranmaru', 'Valentino, Albert', 'Oumi, Kaoru', 'Gondou, Ryuuji']
+animeVoices	['Itou, Kentarou', 'Suwabe, Junichi', 'Kawakami, Tomoko', 'Okiayu, Ryoutarou']
+animeStaff	[['Ootani, Hajime', 'Director, Storyboard'], ['Yamane, Ayano', 'Original Creator']]

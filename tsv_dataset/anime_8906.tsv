@@ -1,5 +1,5 @@
-animeTitle	b'Sarutobi Ecchan'
-animeType	b'TV'
+animeTitle	Sarutobi Ecchan
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	5.94
 animeUsers	183
 animeRank	
-animePopularity	
-animeDescription	b'A strange girl transfers to Mitsuba Elementary School. At first glance, she is a normal student. However, she is a great athlete, and can talk to animals. Accoding to her, she is the 33rd descendant of the great ninja, Sarutobi Sasuke. Futhermoe, her dog, Puku, can talk.\nBecause she doesn\xe2\x80\x99t live in any house, she spends a night at Miko-chan\xe2\x80\x99s room. She is tunred out of the room once. However, because they thank her for extingushig the fire, they let her stay at their house. After that, she makes a name at school.\n\n(Source: AnimeNfo)'
+animePopularity	11770
+animeDescription	"A strange girl transfers to Mitsuba Elementary School. At first glance, she is a normal student. However, she is a great athlete, and can talk to animals. Accoding to her, she is the 33rd descendant of the great ninja, Sarutobi Sasuke. Futhermoe, her dog, Puku, can talk.
+Because she doesn’t live in any house, she spends a night at Miko-chan’s room. She is tunred out of the room once. However, because they thank her for extingushig the fire, they let her stay at their house. After that, she makes a name at school.
+
+(Source: AnimeNfo)"
 animeRelated	[]
-animeCharacters	[b'Etsuko', b'Hakuyuki-sensei']
-animeVoices	[b'\nNomura, Michiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkazaki, Minoru\n\nEpisode Director\n\n', b'\nEndou, Yuuji\n\nEpisode Director\n\n', b'\nIshinomori, Shoutarou\n\nScript\n\n', b'\nMiyazaki, Hayao\n\nKey Animation\n\n']
+animeCharacters	['Etsuko', 'Hakuyuki-sensei']
+animeVoices	['Nomura, Michiko']
+animeStaff	[['Okazaki, Minoru', 'Episode Director'], ['Endou, Yuuji', 'Episode Director'], ['Ishinomori, Shoutarou', 'Script'], ['Miyazaki, Hayao', 'Key Animation']]

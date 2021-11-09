@@ -1,5 +1,5 @@
-animeTitle	b'Ryuuou no Oshigoto!'
-animeType	b'TV'
+animeTitle	Ryuuou no Oshigoto!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.88
 animeUsers	66666
 animeRank	
-animePopularity	
-animeDescription	"b'Shogi, a Japanese game similar to chess, is one of the most popular board games in the country, played by everyone from children to the elderly. Some players are talented enough to take the game to a professional level. The title of Ryuuou, meaning ""the dragon king,"" is only awarded to the person who reaches the pinnacle of competitive shogi.\n\nYaichi Kuzuryuu has just become the youngest Ryuuou after winning the grand championship. However, the shogi community is unwelcoming to his victory, some even calling him the worst Ryuuou in history. Moreover, he forgets about the agreement he made with Ai Hinatsuru, a little girl he promised to coach if he won. After she shows up at his doorstep, he reluctantly agrees to uphold his promise and makes Ai his disciple.\n\nTogether, they aim to improve and exceed the limits of their shogi prowess: Ai, to unlock her hidden talents; Yaichi, to prove to the world that he deserves his accomplishments.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Ryuuou no Oshigoto!']
-animeCharacters	"[b'Sora, Ginko', b'Hinatsuru, Ai', b'Yashajin, Ai', b'Kuzuryuu, Yaichi', b""d'Izoard, Charlotte"", b'Kiyotaki, Keika', b'Sainokami, Ika', b'Rokuroba, Tamayo', b'Kannabe, Ayumu', b'Mizukoshi, Mio']"
-animeVoices	[b'\nKanemoto, Hisako\nJapanese\n', b'\nHidaka, Rina\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nUchida, Yuuma\nJapanese\n', b'\nOgura, Yui\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nKubo, Yurika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYanagi, Shinsuke\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nItou, Miku\n\nTheme Song Performance\n\n', b'\nMachico\n\nTheme Song Performance\n\n']
+animePopularity	1105
+animeDescription	"Shogi, a Japanese game similar to chess, is one of the most popular board games in the country, played by everyone from children to the elderly. Some players are talented enough to take the game to a professional level. The title of Ryuuou, meaning ""the dragon king,"" is only awarded to the person who reaches the pinnacle of competitive shogi.
+
+Yaichi Kuzuryuu has just become the youngest Ryuuou after winning the grand championship. However, the shogi community is unwelcoming to his victory, some even calling him the worst Ryuuou in history. Moreover, he forgets about the agreement he made with Ai Hinatsuru, a little girl he promised to coach if he won. After she shows up at his doorstep, he reluctantly agrees to uphold his promise and makes Ai his disciple.
+
+Together, they aim to improve and exceed the limits of their shogi prowess: Ai, to unlock her hidden talents; Yaichi, to prove to the world that he deserves his accomplishments.
+
+[Written by MAL Rewrite]"
+animeRelated	['Ryuuou no Oshigoto!']
+animeCharacters	"['Sora, Ginko', 'Hinatsuru, Ai', 'Yashajin, Ai', 'Kuzuryuu, Yaichi', ""d'Izoard, Charlotte"", 'Kiyotaki, Keika', 'Sainokami, Ika', 'Rokuroba, Tamayo', 'Kannabe, Ayumu', 'Mizukoshi, Mio']"
+animeVoices	['Kanemoto, Hisako', 'Hidaka, Rina', 'Sakura, Ayane', 'Uchida, Yuuma', 'Ogura, Yui', 'Kayano, Ai', 'Tomatsu, Haruka', 'Ichimichi, Mao', 'Okamoto, Nobuhiko', 'Kubo, Yurika']
+animeStaff	[['Yanagi, Shinsuke', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Itou, Miku', 'Theme Song Performance'], ['Machico', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hero Company'
-animeType	b'OVA'
+animeTitle	Hero Company
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'""A hero"" is a job that in the face of danger and adversity or from a position of weakness, display courage and the will for self-sacrifice. Would you like to work as such a hero in our company? You may transform, manipulate a huge robot or fight as a squad. Shall we realize your dream in our ""Hero Company""?!\n\n(Source: MU) '"
-animeRelated	[b'Hero Company']
-animeCharacters	[b'Hyuuga, Hikaru', b'Kiba, Kihan', b'Tsurugi, Saki', b'Busou, Shun', b'Hadou, Daichi', b'Amano, Ginga', b'Amano, Mother', b'Valentine, Kakao']
-animeVoices	[b'\nFuchigami, Mai\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nLynn\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShirahata, Nobuo\n\nDirector\n\n', b'\nHirota, Mitsutaka\n\nScript\n\n', b'\nShimamoto, Kazuhiko\n\nOriginal Creator\n\n', b'\nTagashira, Shinobu\n\nCharacter Design\n\n']
+animePopularity	11716
+animeDescription	"""A hero"" is a job that in the face of danger and adversity or from a position of weakness, display courage and the will for self-sacrifice. Would you like to work as such a hero in our company? You may transform, manipulate a huge robot or fight as a squad. Shall we realize your dream in our ""Hero Company""?!
+
+(Source: MU) "
+animeRelated	['Hero Company']
+animeCharacters	['Hyuuga, Hikaru', 'Kiba, Kihan', 'Tsurugi, Saki', 'Busou, Shun', 'Hadou, Daichi', 'Amano, Ginga', 'Amano, Mother', 'Valentine, Kakao']
+animeVoices	['Fuchigami, Mai', 'Konishi, Katsuyuki', 'Lynn', 'Namikawa, Daisuke', 'Sugita, Tomokazu', 'Irino, Miyu', 'Inoue, Kikuko', 'Seki, Tomokazu']
+animeStaff	[['Shirahata, Nobuo', 'Director'], ['Hirota, Mitsutaka', 'Script'], ['Shimamoto, Kazuhiko', 'Original Creator'], ['Tagashira, Shinobu', 'Character Design']]

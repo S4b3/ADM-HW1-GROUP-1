@@ -1,5 +1,5 @@
-animeTitle	b'Senkaiden Houshin Engi'
-animeType	b'TV'
+animeTitle	Senkaiden Houshin Engi
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.11
 animeUsers	6247
 animeRank	
-animePopularity	
-animeDescription	b'Thousands of years ago, it was a time of witchcraft and dark magic. An evil sorceress has bewitched the emperor of the mighty dynasty and he has become a mindless puppet. The country is in shambles, and evil spirits lurk everywhere. The human world is on the verge of utter destruction. A bold mission is planned by the Confederation of the Immortal Masters. They send a young master wizard to hunt down the villains and evil warlocks in the devastated lands.\n\n(Source: ANN)'
-animeRelated	[b'Houshin Engi', b'Hakyuu Houshin Engi']
-animeCharacters	[b'Taikoubou', b'Dakki', b'Li, Nataku', b'Shinkohyou', b'Bunchuu', b'Youzen', b'Sibuxiang', b'Kou, Tenka', b'Fugen Shinjin', b'Raishinshi']
-animeVoices	[b'\nYuuki, Hiro\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nMatsuyama, Takashi\nJapanese\n', b'\nChiba, Susumu\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nYamagishi, Isao\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Noriko\n\nProducer\n\n', b'\nNishimura, Junji\n\nDirector\n\n', b'\nSokuza, Makoto\n\nEpisode Director\n\n', b'\nYonekura, Chihiro\n\nTheme Song Performance\n\n']
+animePopularity	4444
+animeDescription	"Thousands of years ago, it was a time of witchcraft and dark magic. An evil sorceress has bewitched the emperor of the mighty dynasty and he has become a mindless puppet. The country is in shambles, and evil spirits lurk everywhere. The human world is on the verge of utter destruction. A bold mission is planned by the Confederation of the Immortal Masters. They send a young master wizard to hunt down the villains and evil warlocks in the devastated lands.
+
+(Source: ANN)"
+animeRelated	['Houshin Engi', 'Hakyuu Houshin Engi']
+animeCharacters	['Taikoubou', 'Dakki', 'Li, Nataku', 'Shinkohyou', 'Bunchuu', 'Youzen', 'Sibuxiang', 'Kou, Tenka', 'Fugen Shinjin', 'Raishinshi']
+animeVoices	['Yuuki, Hiro', 'Kakazu, Yumi', 'Miyata, Kouki', 'Ishida, Akira', 'Matsuyama, Takashi', 'Chiba, Susumu', 'Kusao, Takeshi', 'Yamagishi, Isao', 'Ogata, Megumi', 'Matsumoto, Rica']
+animeStaff	[['Kobayashi, Noriko', 'Producer'], ['Nishimura, Junji', 'Director'], ['Sokuza, Makoto', 'Episode Director'], ['Yonekura, Chihiro', 'Theme Song Performance']]

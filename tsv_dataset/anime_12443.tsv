@@ -1,5 +1,5 @@
-animeTitle	b'Norakuro'
-animeType	b'TV'
+animeTitle	Norakuro
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'Norakuro is a black dog enlisted in the ""Mokenrentai"" (Fierce Dog Brigade), an Imperial army of dogs fighting in a war against the enemy Monkey Army.\n\nNorakuro is a stray black-and-white dog in an army of white dogs who blundered his way while being a Private Second-Class.\n\nThis series  was relatively faithful to the comics. One big change, however, was the addition of the army nurse Miko, whom Norakuro had a crush on. For this series, Norakuro was voiced by Nobuyo Ooyama, who would later become noted for voicing Doraemon.\n\n(Source: Cartoon Research)'"
-animeRelated	[b'Norakuro', b'Norakuro Gochou', b'Norakuro Shoui: Nichiyoubi no Kaijiken', b'Norakuro-kun', b'Norakuro Ittouhei', b'Norakuro Compilation OVA']
-animeCharacters	[b'Norakuro']
-animeVoices	[b'\nOoyama, Nobuyo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamashita, Takeo\n\nTheme Song Composition\n\n', b'\nAmachi, Fusako\n\nTheme Song Performance\n\n', b'\nTsunoda, Toshitaka\n\nChief Animation Director\n\n', b'\nKamezaki, Keishi\n\nArt Director\n\n']
+animePopularity	13681
+animeDescription	"Norakuro is a black dog enlisted in the ""Mokenrentai"" (Fierce Dog Brigade), an Imperial army of dogs fighting in a war against the enemy Monkey Army.
+
+Norakuro is a stray black-and-white dog in an army of white dogs who blundered his way while being a Private Second-Class.
+
+This series  was relatively faithful to the comics. One big change, however, was the addition of the army nurse Miko, whom Norakuro had a crush on. For this series, Norakuro was voiced by Nobuyo Ooyama, who would later become noted for voicing Doraemon.
+
+(Source: Cartoon Research)"
+animeRelated	['Norakuro', 'Norakuro Gochou', 'Norakuro Shoui: Nichiyoubi no Kaijiken', 'Norakuro-kun', 'Norakuro Ittouhei', 'Norakuro Compilation OVA']
+animeCharacters	['Norakuro']
+animeVoices	['Ooyama, Nobuyo']
+animeStaff	[['Yamashita, Takeo', 'Theme Song Composition'], ['Amachi, Fusako', 'Theme Song Performance'], ['Tsunoda, Toshitaka', 'Chief Animation Director'], ['Kamezaki, Keishi', 'Art Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hanakappa Movie: Hanasake! Pakkaan\xe2\x99\xaa Chou no Kuni no Daibouken'
-animeType	b'Movie'
+animeTitle	Hanakappa Movie: Hanasake! Pakkaan♪ Chou no Kuni no Daibouken
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'How annoying moms can be with all their lectures, but what happens if they are gone...? Mothers from the Yamabiko Village get kidnapped! Hanakappa and his friends leave their village and set out on a journey to save their mothers! Enduring a freezing mountain in winter and a blazing desert in summer, the kids head to a wonderland called ""Butterfly Kingdom"". Why were the mothers taken away? And who is this boy called Pol traveling with Hanakappa? What is his secret?\n\n(Source: GAGA International)'"
-animeRelated	"[b'Hanakappa', b""That's Hanakappa Musical: Pan to Gohan, Docchi nano!?""]"
-animeCharacters	[b'Hanakappa']
+animePopularity	15186
+animeDescription	"How annoying moms can be with all their lectures, but what happens if they are gone...? Mothers from the Yamabiko Village get kidnapped! Hanakappa and his friends leave their village and set out on a journey to save their mothers! Enduring a freezing mountain in winter and a blazing desert in summer, the kids head to a wonderland called ""Butterfly Kingdom"". Why were the mothers taken away? And who is this boy called Pol traveling with Hanakappa? What is his secret?
+
+(Source: GAGA International)"
+animeRelated	"['Hanakappa', ""That's Hanakappa Musical: Pan to Gohan, Docchi nano!?""]"
+animeCharacters	['Hanakappa']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nNonaka, Kazumi\n\nDirector\n\n', b'\nEvery Little Thing\n\nTheme Song Performance\n\n', b'\nMatsumiya, Yumi\n\nArt Director\n\n']
+animeStaff	[['Nonaka, Kazumi', 'Director'], ['Every Little Thing', 'Theme Song Performance'], ['Matsumiya, Yumi', 'Art Director']]

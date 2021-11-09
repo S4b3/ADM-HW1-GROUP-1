@@ -1,5 +1,5 @@
-animeTitle	b'Yakimochi Caprice'
-animeType	b'Special'
+animeTitle	Yakimochi Caprice
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.03
 animeUsers	308
 animeRank	
-animePopularity	
-animeDescription	"b'Special ending animation sequence for the ""Anime Seijin: Tokimeki Recipe"" cooking and talk show. \n\nThe ""nonsensical romantic fantasy"" of the anime centres around a kitten named Loup and a puppy named Noix \xe2\x80\x94 both of whom believe that they are actually human girls. \n\n(Source: ANN) '"
+animePopularity	11534
+animeDescription	"Special ending animation sequence for the ""Anime Seijin: Tokimeki Recipe"" cooking and talk show. 
+
+The ""nonsensical romantic fantasy"" of the anime centres around a kitten named Loup and a puppy named Noix — both of whom believe that they are actually human girls. 
+
+(Source: ANN) "
 animeRelated	[]
-animeCharacters	[b'Noix', b'Loup']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuuki, Aoi\n\nTheme Song Performance\n\n']
+animeCharacters	['Noix', 'Loup']
+animeVoices	['Hanazawa, Kana', 'Yuuki, Aoi']
+animeStaff	[['Yuuki, Aoi', 'Theme Song Performance']]

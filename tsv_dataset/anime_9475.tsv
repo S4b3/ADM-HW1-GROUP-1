@@ -1,5 +1,5 @@
-animeTitle	b'Big Order'
-animeType	b'OVA'
+animeTitle	Big Order
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.77
 animeUsers	16588
 animeRank	
-animePopularity	
-animeDescription	b'The story centers on an introverted high school student named Eiji Hoshimiya with a huge secret\xe2\x80\x94he wished for the destruction of the world when he was younger. Fairies give certain people special powers called Orders, and what Order Users can do with their power depends on their wishes. Ten years after the Great Destruction, Eiji struggles to come to terms with his immense power.\n\n(Source: ANN)'
-animeRelated	[b'Big Order', b'Big Order (TV)']
-animeCharacters	[b'Kurenai, Rin', b'Hoshimiya, Eiji', b'Iyo', b'Daisy', b'Hoshimiya, Sena', b'Hiiragi, Yoshitsune', b'Tairano, Kagekiyo', b'Hoshimiya, Gennai', b'Fran, Abraham Louis', b'Sundan, Ayahito']
-animeVoices	[b'\nMikami, Shiori\nJapanese\n', b'\nMorita, Masakazu\nJapanese\n', b'\nTadokoro, Azusa\nJapanese\n', b'\nMisaki, Mari\nJapanese\n', b'\nKuno, Misaki\nJapanese\n', b'\nTachibana, Shinnosuke\nJapanese\n', b'\nHarada, Hitomi\nJapanese\n', b'\nTsuruoka, Satoshi\nJapanese\n', b'\nShingaki, Tarusuke\nJapanese\n', b'\nHayashi, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKamanaka, Nobuharu\n\nDirector, Episode Director, Storyboard\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nTakayama, Katsuhiko\n\nScript\n\n', b'\nYousei Teikoku\n\nTheme Song Performance\n\n']
+animePopularity	2987
+animeDescription	"The story centers on an introverted high school student named Eiji Hoshimiya with a huge secret—he wished for the destruction of the world when he was younger. Fairies give certain people special powers called Orders, and what Order Users can do with their power depends on their wishes. Ten years after the Great Destruction, Eiji struggles to come to terms with his immense power.
+
+(Source: ANN)"
+animeRelated	['Big Order', 'Big Order (TV)']
+animeCharacters	['Kurenai, Rin', 'Hoshimiya, Eiji', 'Iyo', 'Daisy', 'Hoshimiya, Sena', 'Hiiragi, Yoshitsune', 'Tairano, Kagekiyo', 'Hoshimiya, Gennai', 'Fran, Abraham Louis', 'Sundan, Ayahito']
+animeVoices	['Mikami, Shiori', 'Morita, Masakazu', 'Tadokoro, Azusa', 'Misaki, Mari', 'Kuno, Misaki', 'Tachibana, Shinnosuke', 'Harada, Hitomi', 'Tsuruoka, Satoshi', 'Shingaki, Tarusuke', 'Hayashi, Yuu']
+animeStaff	[['Kamanaka, Nobuharu', 'Director, Episode Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director'], ['Takayama, Katsuhiko', 'Script'], ['Yousei Teikoku', 'Theme Song Performance']]

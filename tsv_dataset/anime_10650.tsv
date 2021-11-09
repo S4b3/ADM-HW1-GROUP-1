@@ -1,5 +1,5 @@
-animeTitle	b'Circuit Angel: Ketsui no Starting Grid'
-animeType	b'OVA'
+animeTitle	Circuit Angel: Ketsui no Starting Grid
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.4
 animeUsers	422
 animeRank	
-animePopularity	
-animeDescription	b'Mariko is tough yet kind girl who is really into motorcycles. She ends up in a race to settle things between the rich son of bike maker and herself.\n\n(Source: ANN)'
+animePopularity	10847
+animeDescription	"Mariko is tough yet kind girl who is really into motorcycles. She ends up in a race to settle things between the rich son of bike maker and herself.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Keiichi', b'Nabeshima, Sho', b'Okazaki, Mariko', b'Nabeshima, Mitsugu', b'Jiro', b'Okazaki, Matsutaro', b'Hiroko', b'Nagase, Raita']
-animeVoices	[b'\nNanba, Keiichi\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nOkamoto, Maya\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nFutamata, Issei\nJapanese\n', b'\nMiyauchi, Kouhei\nJapanese\n', b'\nMoriguchi, Hiroko\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMoriguchi, Hiroko\n\nTheme Song Performance\n\n', b'\nArai, Torao\n\nArt Director\n\n']
+animeCharacters	['Keiichi', 'Nabeshima, Sho', 'Okazaki, Mariko', 'Nabeshima, Mitsugu', 'Jiro', 'Okazaki, Matsutaro', 'Hiroko', 'Nagase, Raita']
+animeVoices	['Nanba, Keiichi', 'Horiuchi, Kenyuu', 'Okamoto, Maya', 'Nagai, Ichiro', 'Futamata, Issei', 'Miyauchi, Kouhei', 'Moriguchi, Hiroko', 'Genda, Tesshou']
+animeStaff	[['Moriguchi, Hiroko', 'Theme Song Performance'], ['Arai, Torao', 'Art Director']]

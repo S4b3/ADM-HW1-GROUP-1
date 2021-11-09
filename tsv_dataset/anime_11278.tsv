@@ -1,5 +1,5 @@
-animeTitle	b'Sushi Ninja'
-animeType	b'ONA'
+animeTitle	Sushi Ninja
+animeType	ONA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.11
 animeUsers	201
 animeRank	
-animePopularity	
-animeDescription	b'Elite Sushi Ninja fights with evil Monsters for justice every day! They, however, are on the popular superhero TV show\xe2\x80\xa6. In the real world, three lazy kids named \xe2\x80\x9cIKURA\xe2\x80\x9d, \xe2\x80\x9cMAGURO\xe2\x80\x9d, and \xe2\x80\x9cTAMAGO\xe2\x80\x9d watch with that TV show. They wish to be Heroes like the Sushi Ninja on the TV show some day, but they always fall out over something stupid. One day, they unexpectedly meet up with a beautiful Princess being chasing by Nachos King Gang. She deems the three guys to be the Heroic Sushi Ninja on TV show and asks them for help. They are so excited and act like the heroes on TV show. Then they decide to face with the enemies to protect the Princess\xe2\x80\xa6. Can they be the real Heroes and protect the Princess from the evil?\n\n(Source: Daisuki)'
+animePopularity	12452
+animeDescription	"Elite Sushi Ninja fights with evil Monsters for justice every day! They, however, are on the popular superhero TV show…. In the real world, three lazy kids named “IKURA”, “MAGURO”, and “TAMAGO” watch with that TV show. They wish to be Heroes like the Sushi Ninja on the TV show some day, but they always fall out over something stupid. One day, they unexpectedly meet up with a beautiful Princess being chasing by Nachos King Gang. She deems the three guys to be the Heroic Sushi Ninja on TV show and asks them for help. They are so excited and act like the heroes on TV show. Then they decide to face with the enemies to protect the Princess…. Can they be the real Heroes and protect the Princess from the evil?
+
+(Source: Daisuki)"
 animeRelated	[]
-animeCharacters	[b'The Princess', b'Tamago', b'Maguro', b'Ikura']
-animeVoices	[b'\nMizuki, Nana\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nKaji, Yuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakakibara, Motonori\n\nDirector\n\n', b'\nKageyama, Hironobu\n\nTheme Song Performance\n\n', b'\nEndoh, Masaaki\n\nTheme Song Performance\n\n', b'\nKitadani, Hiroshi\n\nTheme Song Performance\n\n']
+animeCharacters	['The Princess', 'Tamago', 'Maguro', 'Ikura']
+animeVoices	['Mizuki, Nana', 'Miyano, Mamoru', 'Park, Romi', 'Kaji, Yuki']
+animeStaff	[['Sakakibara, Motonori', 'Director'], ['Kageyama, Hironobu', 'Theme Song Performance'], ['Endoh, Masaaki', 'Theme Song Performance'], ['Kitadani, Hiroshi', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Trigun'
-animeType	b'TV'
+animeTitle	Trigun
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.22
 animeUsers	301980
 animeRank	
-animePopularity	
-animeDescription	"b'Vash the Stampede is the man with a $$60,000,000,000 bounty on his head. The reason: he\'s a merciless villain who lays waste to all those that oppose him and flattens entire cities for fun, garnering him the title ""The Humanoid Typhoon."" He leaves a trail of death and destruction wherever he goes, and anyone can count themselves dead if they so much as make eye contact\xe2\x80\x94or so the rumors say. In actuality, Vash is a huge softie who claims to have never taken a life and avoids violence at all costs.\n\nWith his crazy doughnut obsession and buffoonish attitude in tow, Vash traverses the wasteland of the planet Gunsmoke, all the while followed by two insurance agents, Meryl Stryfe and Milly Thompson, who attempt to minimize his impact on the public. But soon, their misadventures evolve into life-or-death situations as a group of legendary assassins are summoned to bring about suffering to the trio. Vash\'s agonizing past will be unraveled and his morality and principles pushed to the breaking point.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Trigun', b'Trigun: Badlands Rumble']
-animeCharacters	[b'Vash the Stampede', b'Wolfwood, Nicholas D.', b'Thompson, Milly', b'Stryfe, Meryl', b'Bluesummers, Legato', b'Kuroneko', b'Millions, Knives', b'Saverem, Rem', b'the Hornfreak, Midvalley', b'the Beast, Zazie']
-animeVoices	[b'\nOnosaka, Masaya\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nFurusawa, Tohru\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nNishimura, Tomohiro\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nKitayama, Shigeru\n\nProducer\n\n', b'\nNishimura, Satoshi\n\nDirector, Episode Director, Storyboard\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n']
+animePopularity	228
+animeDescription	"Vash the Stampede is the man with a $$60,000,000,000 bounty on his head. The reason: he's a merciless villain who lays waste to all those that oppose him and flattens entire cities for fun, garnering him the title ""The Humanoid Typhoon."" He leaves a trail of death and destruction wherever he goes, and anyone can count themselves dead if they so much as make eye contact—or so the rumors say. In actuality, Vash is a huge softie who claims to have never taken a life and avoids violence at all costs.
+
+With his crazy doughnut obsession and buffoonish attitude in tow, Vash traverses the wasteland of the planet Gunsmoke, all the while followed by two insurance agents, Meryl Stryfe and Milly Thompson, who attempt to minimize his impact on the public. But soon, their misadventures evolve into life-or-death situations as a group of legendary assassins are summoned to bring about suffering to the trio. Vash's agonizing past will be unraveled and his morality and principles pushed to the breaking point.
+
+[Written by MAL Rewrite]"
+animeRelated	['Trigun', 'Trigun: Badlands Rumble']
+animeCharacters	['Vash the Stampede', 'Wolfwood, Nicholas D.', 'Thompson, Milly', 'Stryfe, Meryl', 'Bluesummers, Legato', 'Kuroneko', 'Millions, Knives', 'Saverem, Rem', 'the Hornfreak, Midvalley', 'the Beast, Zazie']
+animeVoices	['Onosaka, Masaya', 'Hayami, Show', 'Yukino, Satsuki', 'Tsuru, Hiromi', 'Seki, Toshihiko', 'Furusawa, Tohru', 'Hisakawa, Aya', 'Nishimura, Tomohiro', 'Kamiya, Hiroshi']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Kitayama, Shigeru', 'Producer'], ['Nishimura, Satoshi', 'Director, Episode Director, Storyboard'], ['Honda, Yasunori', 'Sound Director']]

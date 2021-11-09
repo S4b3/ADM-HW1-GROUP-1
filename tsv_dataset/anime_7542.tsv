@@ -1,5 +1,5 @@
-animeTitle	b'Blade'
-animeType	b'TV'
+animeTitle	Blade
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.23
 animeUsers	9766
 animeRank	
-animePopularity	
-animeDescription	"b'The story revolves around Blade, a ""Daywalker"" vampire hunter who was born with vampire and human blood after a vampire attacked his mother. While visiting Japan on a mission, Blade tracks down Deacon Frost, the vampire who killed his mother. Blade confronts ""Existence,"" a mysterious organization composed of vampires modified by Frost. \n\n(Source: ANN)'"
-animeRelated	[b'Wolverine']
-animeCharacters	[b'Brooks, Eric', b'Makoto', b'Howlett, James', b'Mikage, Kikyou', b'Agus', b'Isaac, Lucius', b'Frost, Edgar', b'Lupit', b'Carol', b'Radu']
-animeVoices	[b'\nMinagawa, Junko\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nHagiwara, Masato\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n', b'\nFukuda, Kenji\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasuhara, Mitsuyuki\n\nDirector, Episode Director, Storyboard\n\n', b'\nTakamura, Yuuta\n\nEpisode Director\n\n', b'\nTanaka, Tomoya\n\nEpisode Director\n\n', b'\nAraki, Tetsurou\n\nStoryboard\n\n']
+animePopularity	3601
+animeDescription	"The story revolves around Blade, a ""Daywalker"" vampire hunter who was born with vampire and human blood after a vampire attacked his mother. While visiting Japan on a mission, Blade tracks down Deacon Frost, the vampire who killed his mother. Blade confronts ""Existence,"" a mysterious organization composed of vampires modified by Frost. 
+
+(Source: ANN)"
+animeRelated	['Wolverine']
+animeCharacters	['Brooks, Eric', 'Makoto', 'Howlett, James', 'Mikage, Kikyou', 'Agus', 'Isaac, Lucius', 'Frost, Edgar', 'Lupit', 'Carol', 'Radu']
+animeVoices	['Minagawa, Junko', 'Sakamoto, Maaya', 'Koyama, Rikiya', 'Hagiwara, Masato', 'Ueda, Yuuji', 'Touchi, Hiroki', 'Fukuda, Kenji', 'Neya, Michiko', 'Ohara, Sayaka', 'Yoshino, Hiroyuki']
+animeStaff	[['Masuhara, Mitsuyuki', 'Director, Episode Director, Storyboard'], ['Takamura, Yuuta', 'Episode Director'], ['Tanaka, Tomoya', 'Episode Director'], ['Araki, Tetsurou', 'Storyboard']]

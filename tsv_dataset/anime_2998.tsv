@@ -1,5 +1,5 @@
-animeTitle	b'Pumpkin Scissors'
-animeType	b'TV'
+animeTitle	Pumpkin Scissors
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.17
 animeUsers	14764
 animeRank	
-animePopularity	
-animeDescription	"b""Three years ago, the long war between the Royal Empire and the Republic of Frost came to an end. With both nations a long way from recovery, a passionate young woman named Alice L. Malvin leads the Pumpkin Scissors, a unit of the imperial army specializing in war relief.\n\nDuring a mission to assist a village occupied by renegade soldiers, Alice meets Randal Oland, a scarred former soldier with a sordid past and kind heart. Encouraged by the efforts of the Pumpkin Scissors, he joins the team on their mission. During the assault, however, Randal enters a trance-like state prompted by a mysterious blue lantern. As a result, he acquires monstrous strength and decimates the enemy forces.\n\nDespite having witnessed Randal's disturbing transformation, Alice invites him to join her squandrant, confident that his gentle nature will prevail and make him a perfect fit for the Pumpkin Scissors.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Pumpkin Scissors']
-animeCharacters	[b'Oland, Randal', b'Malvin, Alice L.', b'Oreldo', b'Hans', b'Mercury', b'Stecchin, Lili', b'Martis', b'Marielle', b'Wolkins', b'Hunks']
-animeVoices	[b'\nMiyake, Kenta\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nMajima, Junji\nJapanese\n', b'\nOgawa, Kazuki\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nSuzuki, Chihiro\nJapanese\n', b'\nNarita, Sayaka\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nCho\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkiyama, Katsuhito\n\nDirector, Storyboard\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nAbe, Masashi\n\nEpisode Director, Storyboard\n\n', b'\nNishouji, Yoshihito\n\nEpisode Director, Storyboard\n\n']
+animePopularity	2902
+animeDescription	"Three years ago, the long war between the Royal Empire and the Republic of Frost came to an end. With both nations a long way from recovery, a passionate young woman named Alice L. Malvin leads the Pumpkin Scissors, a unit of the imperial army specializing in war relief.
+
+During a mission to assist a village occupied by renegade soldiers, Alice meets Randal Oland, a scarred former soldier with a sordid past and kind heart. Encouraged by the efforts of the Pumpkin Scissors, he joins the team on their mission. During the assault, however, Randal enters a trance-like state prompted by a mysterious blue lantern. As a result, he acquires monstrous strength and decimates the enemy forces.
+
+Despite having witnessed Randal's disturbing transformation, Alice invites him to join her squandrant, confident that his gentle nature will prevail and make him a perfect fit for the Pumpkin Scissors.
+
+[Written by MAL Rewrite]"
+animeRelated	['Pumpkin Scissors']
+animeCharacters	['Oland, Randal', 'Malvin, Alice L.', 'Oreldo', 'Hans', 'Mercury', 'Stecchin, Lili', 'Martis', 'Marielle', 'Wolkins', 'Hunks']
+animeVoices	['Miyake, Kenta', 'Itou, Shizuka', 'Toriumi, Kousuke', 'Majima, Junji', 'Ogawa, Kazuki', 'Ueda, Kana', 'Suzuki, Chihiro', 'Narita, Sayaka', 'Taniyama, Kishou', 'Cho']
+animeStaff	[['Akiyama, Katsuhito', 'Director, Storyboard'], ['Watanabe, Jun', 'Sound Director'], ['Abe, Masashi', 'Episode Director, Storyboard'], ['Nishouji, Yoshihito', 'Episode Director, Storyboard']]

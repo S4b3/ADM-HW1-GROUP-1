@@ -1,5 +1,5 @@
-animeTitle	b'Coo: Tooi Umi kara Kita Coo'
-animeType	b'Movie'
+animeTitle	Coo: Tooi Umi kara Kita Coo
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.68
 animeUsers	621
 animeRank	
-animePopularity	
-animeDescription	"b""Obata Yousuke lives on Pagopago in the Fiji archipelago with his father Tetsuo, a specialist in oceanographic biology. After a storm strikes the island, Yousuke rides to the lagoon with his Jet Ski and finds a strange baby dinosaur there. He takes it to his father's laboratory and names it Coo.\n\nCoo grows and seems to be a large marine reptile (a baby plesiosaur) which lived there some 65 million years ago. But Coo soon becomes an object of interest for the French secret service, assigned to protect the nuclear interests of France in that otherwise peaceful part of the world. \n\n(Source: AniDB)"""
+animePopularity	9564
+animeDescription	"Obata Yousuke lives on Pagopago in the Fiji archipelago with his father Tetsuo, a specialist in oceanographic biology. After a storm strikes the island, Yousuke rides to the lagoon with his Jet Ski and finds a strange baby dinosaur there. He takes it to his father's laboratory and names it Coo.
+
+Coo grows and seems to be a large marine reptile (a baby plesiosaur) which lived there some 65 million years ago. But Coo soon becomes an object of interest for the French secret service, assigned to protect the nuclear interests of France in that otherwise peaceful part of the world. 
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Obata, Yousuke', b'Nozaki, Cathy']
-animeVoices	[b'\nYamazaki, Yuuta\nJapanese\n', b'\nYamaguchi, Tomoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImazawa, Tetsuo\n\nDirector\n\n', b'\nHosoda, Mamoru\n\nAssistant Animation Director\n\n', b'\nSuda, Masami\n\nKey Animation\n\n', b'\nFukuda, Michio\n\nKey Animation\n\n']
+animeCharacters	['Obata, Yousuke', 'Nozaki, Cathy']
+animeVoices	['Yamazaki, Yuuta', 'Yamaguchi, Tomoko']
+animeStaff	[['Imazawa, Tetsuo', 'Director'], ['Hosoda, Mamoru', 'Assistant Animation Director'], ['Suda, Masami', 'Key Animation'], ['Fukuda, Michio', 'Key Animation']]

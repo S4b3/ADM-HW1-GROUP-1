@@ -1,5 +1,5 @@
-animeTitle	b'Hikawa Maru Monogatari'
-animeType	b'Movie'
+animeTitle	Hikawa Maru Monogatari
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Hirayama Jirou has lost his mother in the Great Kanto Earthquake and now runs a soba stall with his father. He decides to join the crew of the famous ocean liner Hikawa Maru and finds work cooking in the ship's galley. Through his eyes, the film explores the ship's 85-year history.\n\n(Source: ANN)"""
+animePopularity	12523
+animeDescription	"Hirayama Jirou has lost his mother in the Great Kanto Earthquake and now runs a soba stall with his father. He decides to join the crew of the famous ocean liner Hikawa Maru and finds work cooking in the ship's galley. Through his eyes, the film explores the ship's 85-year history.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Morimoto, Seiichi']
-animeVoices	[b'\nYamaguchi, Kiyohiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiura, Kouji\n\nScript\n\n', b'\nOda, Kazumasa\n\nTheme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement\n\n', b'\nKonno, Yasuyuki\n\nSound Effects\n\n', b'\nTakehara, Kenji\n\nDirector of Photography\n\n']
+animeCharacters	['Morimoto, Seiichi']
+animeVoices	['Yamaguchi, Kiyohiro']
+animeStaff	[['Miura, Kouji', 'Script'], ['Oda, Kazumasa', 'Theme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement'], ['Konno, Yasuyuki', 'Sound Effects'], ['Takehara, Kenji', 'Director of Photography']]

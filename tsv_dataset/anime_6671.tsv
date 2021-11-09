@@ -1,5 +1,5 @@
-animeTitle	b'Frame Arms Girl'
-animeType	b'TV'
+animeTitle	Frame Arms Girl
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.4
 animeUsers	8678
 animeRank	
-animePopularity	
-animeDescription	"b""Ao Gennai is a completely average first-year high school student\xe2\x80\x94that is, until a mysterious package is delivered to her home one day. Inside she finds Gourai, a tiny humanoid robot capable of movement and combat known as a Frame Arms Girl. Gourai is the first of her kind, possessing an extremely advanced AI that allows her to form a personality, learn, and grow, much like the human mind.\n\nFollowing Gourai's activation, Ao is thrust headfirst into the world of Frame Arms Girls as more and more of the intelligent robots are delivered straight to her front door. With a rather hefty cash incentive pushing her forward, Ao is committed to collecting as much data about the Frame Arms Girls and their combat as possible, all while they learn what it means to be human.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Frame Arms: A Violent Struggle', b'Frame Arms Girl Movie: Kyakkya Ufufu na Wonderland']
-animeCharacters	[b'Baselard', b'Gennai, Ao', b'Gourai', b'Jinrai', b'Architect', b'Materia, Shiro', b'Materia, Kuro', b'Stylet', b'Hresvelgr', b'Kotobuki, Bukiko']
-animeVoices	[b'\nNagae, Rika\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nKaho, Narumi\nJapanese\n', b'\nKabayama, Minami\nJapanese\n', b'\nYamamura, Hibiku\nJapanese\n', b'\nYamazaki, Erii\nJapanese\n', b'\nAyase, Yuu\nJapanese\n', b'\nAbe, Rika\nJapanese\n', b'\nIzawa, Kanomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawaguchi, Keiichirou\n\nDirector, Episode Director, Storyboard\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nYoshihara, Tatsuya\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nYamamoto, Takashi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3280
+animeDescription	"Ao Gennai is a completely average first-year high school student—that is, until a mysterious package is delivered to her home one day. Inside she finds Gourai, a tiny humanoid robot capable of movement and combat known as a Frame Arms Girl. Gourai is the first of her kind, possessing an extremely advanced AI that allows her to form a personality, learn, and grow, much like the human mind.
+
+Following Gourai's activation, Ao is thrust headfirst into the world of Frame Arms Girls as more and more of the intelligent robots are delivered straight to her front door. With a rather hefty cash incentive pushing her forward, Ao is committed to collecting as much data about the Frame Arms Girls and their combat as possible, all while they learn what it means to be human.
+
+[Written by MAL Rewrite]"
+animeRelated	['Frame Arms: A Violent Struggle', 'Frame Arms Girl Movie: Kyakkya Ufufu na Wonderland']
+animeCharacters	['Baselard', 'Gennai, Ao', 'Gourai', 'Jinrai', 'Architect', 'Materia, Shiro', 'Materia, Kuro', 'Stylet', 'Hresvelgr', 'Kotobuki, Bukiko']
+animeVoices	['Nagae, Rika', 'Hikasa, Youko', 'Kaho, Narumi', 'Kabayama, Minami', 'Yamamura, Hibiku', 'Yamazaki, Erii', 'Ayase, Yuu', 'Abe, Rika', 'Izawa, Kanomi']
+animeStaff	[['Kawaguchi, Keiichirou', 'Director, Episode Director, Storyboard'], ['Iida, Satoki', 'Sound Director'], ['Yoshihara, Tatsuya', 'Episode Director, Storyboard, Key Animation'], ['Yamamoto, Takashi', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Planzet'
-animeType	b'Movie'
+animeTitle	Planzet
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.59
 animeUsers	1920
 animeRank	
-animePopularity	
-animeDescription	"b""In 2047, an unknown, alien life-form descends upon the Earth, destroying all the major cities in one fell swoop. The survivors unite and build a Diffusor to stop the Februus, the invaders the military would later codename the FOS, and a temporary peace is achieved. Jump forward to 2053, the present. PLANZET: The final plan, Plan Zed, to retake Planet Earth. A last, desperate counterattack against the enemy. Hiroshi Akishima, soldier in the Planetary Defense Forces Alliance, would like nothing better than a shot at the aliens responsible for his father's death six years ago. However, the new offensive requires the Diffusor to be dropped, leaving the entire planet terribly vulnerable once more. Will humanity regain the stars or lose everything in the final, ultimate gamble? \n\n(Source: Sentai Filmworks) """
+animePopularity	7810
+animeDescription	"In 2047, an unknown, alien life-form descends upon the Earth, destroying all the major cities in one fell swoop. The survivors unite and build a Diffusor to stop the Februus, the invaders the military would later codename the FOS, and a temporary peace is achieved. Jump forward to 2053, the present. PLANZET: The final plan, Plan Zed, to retake Planet Earth. A last, desperate counterattack against the enemy. Hiroshi Akishima, soldier in the Planetary Defense Forces Alliance, would like nothing better than a shot at the aliens responsible for his father's death six years ago. However, the new offensive requires the Diffusor to be dropped, leaving the entire planet terribly vulnerable once more. Will humanity regain the stars or lose everything in the final, ultimate gamble? 
+
+(Source: Sentai Filmworks) "
 animeRelated	[]
-animeCharacters	[b'Akejima, Koyomi', b'Akejima, Taishi', b'Comissioner Yoshizawa', b'Sagawa, Kaori', b'Akejima, Koshirou', b'Tazaki, Ken', b'Yoshizawa, Yuura']
-animeVoices	[b'\nIshihara, Kaori\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nTerasaki, Yuka\nJapanese\n', b'\nIwasaki, Masami\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nTakeuchi, Junko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAwazu, Jun\n\nDirector, Script, Storyboard, Original Creator\n\n', b'\nYamada, Haru\n\nSound Director\n\n', b'\nHajime, Chitose\n\nTheme Song Performance\n\n', b'\nAyres, Christopher\n\nADR Director\n\n']
+animeCharacters	['Akejima, Koyomi', 'Akejima, Taishi', 'Comissioner Yoshizawa', 'Sagawa, Kaori', 'Akejima, Koshirou', 'Tazaki, Ken', 'Yoshizawa, Yuura']
+animeVoices	['Ishihara, Kaori', 'Miyano, Mamoru', 'Yara, Yuusaku', 'Terasaki, Yuka', 'Iwasaki, Masami', 'Tsuda, Kenjirou', 'Takeuchi, Junko']
+animeStaff	[['Awazu, Jun', 'Director, Script, Storyboard, Original Creator'], ['Yamada, Haru', 'Sound Director'], ['Hajime, Chitose', 'Theme Song Performance'], ['Ayres, Christopher', 'ADR Director']]

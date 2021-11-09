@@ -1,5 +1,5 @@
-animeTitle	b'Aho Girl'
-animeType	b'TV'
+animeTitle	Aho Girl
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.83
 animeUsers	216990
 animeRank	
-animePopularity	
-animeDescription	"b'Yoshiko Hanabatake is an idiot beyond all belief. Somehow managing to consistently score zeroes on all of her tests and consumed by an absurd obsession with bananas, her senseless acts have caused even her own mother to lose all hope. Only one person is up to the task of keeping her insanity in check: childhood friend Akuru ""A-kun"" Akutsu.\n\nThough he bemoans the ridiculous behavior he has to endure, the studious but terrifying A-kun is always ready to put an end to any stupidity Yoshiko gets up to, with no qualms about using physical force. Unfortunately, no matter how many times he attempts to knock some sense into her, the girl bounces right back to her usual shenanigans, even dragging in some other eccentrics along for the ride. Try as he might to rein in her nonsense, every moment is unpredictable with Yoshiko and her profound idiocy on the loose.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Aho Girl']
-animeCharacters	[b'Hanabatake, Yoshiko', b'Akutsu, Akuru', b'Sumino, Sayaka', b'Fuuki Iinchou', b'Hanabatake, Yoshie', b'Eimura, Akane', b'Kurosaki, Ryuuichi', b'Akutsu, Ruri', b'Oshieda, Atsuko', b'Hiiragi, Kii']
-animeVoices	[b'\nYuuki, Aoi\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nHarada, Sayaka\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nYashiro, Taku\nJapanese\n', b'\nSenbongi, Sayaka\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nMaeda, Rena\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKusakawa, Keizou\n\nDirector\n\n', b'\nTamaki, Shingo\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nShimizu, Sorato\n\nEpisode Director, Storyboard, Key Animation, Animation Director, Chief Animation Director\n\n']
+animePopularity	406
+animeDescription	"Yoshiko Hanabatake is an idiot beyond all belief. Somehow managing to consistently score zeroes on all of her tests and consumed by an absurd obsession with bananas, her senseless acts have caused even her own mother to lose all hope. Only one person is up to the task of keeping her insanity in check: childhood friend Akuru ""A-kun"" Akutsu.
+
+Though he bemoans the ridiculous behavior he has to endure, the studious but terrifying A-kun is always ready to put an end to any stupidity Yoshiko gets up to, with no qualms about using physical force. Unfortunately, no matter how many times he attempts to knock some sense into her, the girl bounces right back to her usual shenanigans, even dragging in some other eccentrics along for the ride. Try as he might to rein in her nonsense, every moment is unpredictable with Yoshiko and her profound idiocy on the loose.
+
+[Written by MAL Rewrite]"
+animeRelated	['Aho Girl']
+animeCharacters	['Hanabatake, Yoshiko', 'Akutsu, Akuru', 'Sumino, Sayaka', 'Fuuki Iinchou', 'Hanabatake, Yoshie', 'Eimura, Akane', 'Kurosaki, Ryuuichi', 'Akutsu, Ruri', 'Oshieda, Atsuko', 'Hiiragi, Kii']
+animeVoices	['Yuuki, Aoi', 'Sugita, Tomokazu', 'Harada, Sayaka', 'Uesaka, Sumire', 'Hikasa, Youko', 'Ichimichi, Mao', 'Yashiro, Taku', 'Senbongi, Sayaka', 'Satou, Rina', 'Maeda, Rena']
+animeStaff	[['Kusakawa, Keizou', 'Director'], ['Tamaki, Shingo', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Shimizu, Sorato', 'Episode Director, Storyboard, Key Animation, Animation Director, Chief Animation Director']]

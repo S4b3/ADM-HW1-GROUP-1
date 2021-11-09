@@ -1,5 +1,5 @@
-animeTitle	b'Kishin Houkou Demonbane'
-animeType	b'OVA'
+animeTitle	Kishin Houkou Demonbane
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.02
 animeUsers	3350
 animeRank	
-animePopularity	
-animeDescription	b'Lily Bridge, a young journalist, arrives at Arkham City, hoping to find a big scoop. However, with all the strange things occuring around the city, only the exceptional findings are news-worthy, such as the mysterious mecha known as Demonbane. However, upon finding a small piece of machinery that seemed to be connected with the Hadou Combine, Lily is determined to find the truth. Little does she know, she enters into a dark world, involving herself with Demonbane and the powerful forces that control the city.\n\n(Source: ANN)'
-animeRelated	[b'Zanmataisei Demonbane', b'Kishin Houkou Demonbane (TV)']
-animeCharacters	[b'Azif, Al', b'Daijuuji, Kurou', b'Bridge, Lily']
-animeVoices	[b'\nKanda, Rie\nJapanese\n', b'\nItou, Kentarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nInokawa, Shintarou\n\nDirector\n\n', b'\nMasuo, Shouichi\n\nDirector\n\n', b'\nNitroplus\n\nOriginal Creator, Original Character Design\n\n', b'\nNi\xce\xb8\n\nOriginal Character Design\n\n']
+animePopularity	5570
+animeDescription	"Lily Bridge, a young journalist, arrives at Arkham City, hoping to find a big scoop. However, with all the strange things occuring around the city, only the exceptional findings are news-worthy, such as the mysterious mecha known as Demonbane. However, upon finding a small piece of machinery that seemed to be connected with the Hadou Combine, Lily is determined to find the truth. Little does she know, she enters into a dark world, involving herself with Demonbane and the powerful forces that control the city.
+
+(Source: ANN)"
+animeRelated	['Zanmataisei Demonbane', 'Kishin Houkou Demonbane (TV)']
+animeCharacters	['Azif, Al', 'Daijuuji, Kurou', 'Bridge, Lily']
+animeVoices	['Kanda, Rie', 'Itou, Kentarou']
+animeStaff	[['Inokawa, Shintarou', 'Director'], ['Masuo, Shouichi', 'Director'], ['Nitroplus', 'Original Creator, Original Character Design'], ['Niθ', 'Original Character Design']]

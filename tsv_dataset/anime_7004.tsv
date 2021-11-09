@@ -1,5 +1,5 @@
-animeTitle	b'Yatogame-chan Kansatsu Nikki Nisatsume'
-animeType	b'TV'
+animeTitle	Yatogame-chan Kansatsu Nikki Nisatsume
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.34
 animeUsers	6596
 animeRank	
-animePopularity	
-animeDescription	b'Second season of Yatogame-chan Kansatsu Nikki.'
-animeRelated	[b'Yatogame-chan Kansatsu Nikki', b'Yatogame-chan Kansatsu Nikki Sansatsume']
-animeCharacters	[b'Yatogame, Monaka', b'Sasatsu, Yanna', b'Jin, Kaito', b'Tadakusa, Mai', b'Jandara, Rin', b'Jin, Hanka', b'Koshiyasu, Nanaho', b'Itemae, Shiharu', b'Teppei', b'Shonai, Lala']
-animeVoices	[b'\nTomatsu, Haruka\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nIchiki, Mitsuhiro\nJapanese\n', b'\nWakai, Yuuki\nJapanese\n', b'\nMatsui, Eriko\nJapanese\n', b'\nAkabane, Kenji\nJapanese\n', b'\nNanjou, Yoshino\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAlfakyun.\n\nTheme Song Performance\n\n', b'\nHayasaka, Satsuki\n\nChief Animation Director, Character Design\n\n', b'\nKawakami, Hitoshi\n\nArt Director, Background Art\n\n', b'\nWORDS in STEREO\n\nSeries Composition\n\n']
+animePopularity	4515
+animeDescription	Second season of Yatogame-chan Kansatsu Nikki.
+animeRelated	['Yatogame-chan Kansatsu Nikki', 'Yatogame-chan Kansatsu Nikki Sansatsume']
+animeCharacters	['Yatogame, Monaka', 'Sasatsu, Yanna', 'Jin, Kaito', 'Tadakusa, Mai', 'Jandara, Rin', 'Jin, Hanka', 'Koshiyasu, Nanaho', 'Itemae, Shiharu', 'Teppei', 'Shonai, Lala']
+animeVoices	['Tomatsu, Haruka', 'Komatsu, Mikako', 'Ichiki, Mitsuhiro', 'Wakai, Yuuki', 'Matsui, Eriko', 'Akabane, Kenji', 'Nanjou, Yoshino']
+animeStaff	[['Alfakyun.', 'Theme Song Performance'], ['Hayasaka, Satsuki', 'Chief Animation Director, Character Design'], ['Kawakami, Hitoshi', 'Art Director, Background Art'], ['WORDS in STEREO', 'Series Composition']]

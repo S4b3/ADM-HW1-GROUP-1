@@ -1,5 +1,5 @@
-animeTitle	b'Golden Douga Gekijou'
-animeType	b'ONA'
+animeTitle	Golden Douga Gekijou
+animeType	ONA
 animeNumEpisode	33
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.3
 animeUsers	991
 animeRank	
-animePopularity	
-animeDescription	b'Short anime series of Golden Kamuy streamed on the official website.'
-animeRelated	[b'Golden Kamuy', b'Golden Kamuy 2nd Season', b'Golden Kamuy 3rd Season']
-animeCharacters	[b'Shiraishi, Yoshitake', b'Koito, Otonoshin', b'Ienaga, Kano', b'Usami, Tokishige']
-animeVoices	[b'\nItou, Kentarou\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKinutani, Soushi\n\nEpisode Director, Key Animation\n\n', b'\nNoda, Satoru\n\nOriginal Creator\n\n']
+animePopularity	7270
+animeDescription	Short anime series of Golden Kamuy streamed on the official website.
+animeRelated	['Golden Kamuy', 'Golden Kamuy 2nd Season', 'Golden Kamuy 3rd Season']
+animeCharacters	['Shiraishi, Yoshitake', 'Koito, Otonoshin', 'Ienaga, Kano', 'Usami, Tokishige']
+animeVoices	['Itou, Kentarou', 'Konishi, Katsuyuki', 'Matsuoka, Yoshitsugu']
+animeStaff	[['Kinutani, Soushi', 'Episode Director, Key Animation'], ['Noda, Satoru', 'Original Creator']]

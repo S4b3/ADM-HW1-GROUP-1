@@ -1,5 +1,5 @@
-animeTitle	b'Gin no Saji 2nd Season'
-animeType	b'TV'
+animeTitle	Gin no Saji 2nd Season
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.28
 animeUsers	79630
 animeRank	
-animePopularity	
-animeDescription	b'As the new semester begins at Ooezo Agricultural High School, Hachiken is now used to the tough lifestyle of a rural, agricultural high school. While Hachiken still wonders what he will do in the future, he continues to discover both the harsh and the beautiful realities of the countryside.\n\n(Source: ANN)'
-animeRelated	[b'Gin no Saji']
-animeCharacters	[b'Hachiken, Yuugo', b'Mikage, Aki', b'Komaba, Ichirou', b'Inada, Tamako', b'Yoshino, Mayumi', b'Principal', b'Nakajima, Yoshiyuki', b'Fuji, Ichiko', b'Tokiwa, Keiji', b'Hachiken, Shingo']
-animeVoices	[b'\nKimura, Ryouhei\nJapanese\n', b'\nMiyake, Marie\nJapanese\n', b'\nSakurai, Tooru\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n', b'\nIzawa, Shiori\nJapanese\n', b'\nMitsuya, Yuuji\nJapanese\n', b'\nMasutani, Yasunori\nJapanese\n', b'\nYuuya, Atsuko\nJapanese\n', b'\nShouji, Masayuki\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDeai, Kotomi\n\nDirector\n\n', b'\nItou, Tomohiko\n\nSound Director\n\n', b'\nKishimoto, Taku\n\nScript, Series Composition\n\n', b'\nGoose House\n\nTheme Song Composition, Theme Song Lyrics, Theme Song Performance\n\n']
+animePopularity	1321
+animeDescription	"As the new semester begins at Ooezo Agricultural High School, Hachiken is now used to the tough lifestyle of a rural, agricultural high school. While Hachiken still wonders what he will do in the future, he continues to discover both the harsh and the beautiful realities of the countryside.
+
+(Source: ANN)"
+animeRelated	['Gin no Saji']
+animeCharacters	['Hachiken, Yuugo', 'Mikage, Aki', 'Komaba, Ichirou', 'Inada, Tamako', 'Yoshino, Mayumi', 'Principal', 'Nakajima, Yoshiyuki', 'Fuji, Ichiko', 'Tokiwa, Keiji', 'Hachiken, Shingo']
+animeVoices	['Kimura, Ryouhei', 'Miyake, Marie', 'Sakurai, Tooru', 'Takagaki, Ayahi', 'Izawa, Shiori', 'Mitsuya, Yuuji', 'Masutani, Yasunori', 'Yuuya, Atsuko', 'Shouji, Masayuki', 'Konishi, Katsuyuki']
+animeStaff	[['Deai, Kotomi', 'Director'], ['Itou, Tomohiko', 'Sound Director'], ['Kishimoto, Taku', 'Script, Series Composition'], ['Goose House', 'Theme Song Composition, Theme Song Lyrics, Theme Song Performance']]

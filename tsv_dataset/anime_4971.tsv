@@ -1,5 +1,5 @@
-animeTitle	b'Gurazeni Season 2'
-animeType	b'TV'
+animeTitle	Gurazeni Season 2
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.73
 animeUsers	2200
 animeRank	
-animePopularity	
-animeDescription	b'Second season of Gurazeni.'
-animeRelated	[b'Gurazeni']
-animeCharacters	[b'Bonda, Natsunosuke', b'Shiraki', b'Nishigouchi, Hiroshi', b'Nishigouchi, Wife', b'Shouno', b'Ogiwara', b'Sekijima', b'Itsuki, Mother-in-law', b'Korekawa', b'Jinno, Jirou']
-animeVoices	[b'\nOchiai, Fukushi\nJapanese\n', b'\nToki, Shunichi\nJapanese\n', b'\nKase, Yasuyuki\nJapanese\n', b'\nToujou, Hisako\nJapanese\n', b'\nHorii, Chado\nJapanese\n', b'\nMakishima, Naoki\nJapanese\n', b'\nIshikari, Yuki\nJapanese\n', b'\nKamei, Yoshiko\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nTsujitani, Kouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAdachi, Keiji\n\nOriginal Character Design\n\n', b'\nMoritaka, Yuuji\n\nOriginal Creator\n\n']
+animePopularity	7523
+animeDescription	Second season of Gurazeni.
+animeRelated	['Gurazeni']
+animeCharacters	['Bonda, Natsunosuke', 'Shiraki', 'Nishigouchi, Hiroshi', 'Nishigouchi, Wife', 'Shouno', 'Ogiwara', 'Sekijima', 'Itsuki, Mother-in-law', 'Korekawa', 'Jinno, Jirou']
+animeVoices	['Ochiai, Fukushi', 'Toki, Shunichi', 'Kase, Yasuyuki', 'Toujou, Hisako', 'Horii, Chado', 'Makishima, Naoki', 'Ishikari, Yuki', 'Kamei, Yoshiko', 'Hino, Satoshi', 'Tsujitani, Kouji']
+animeStaff	[['Adachi, Keiji', 'Original Character Design'], ['Moritaka, Yuuji', 'Original Creator']]

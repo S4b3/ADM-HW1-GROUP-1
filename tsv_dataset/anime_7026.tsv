@@ -1,5 +1,5 @@
-animeTitle	b'Ashita e Attack!'
-animeType	b'TV'
+animeTitle	Ashita e Attack!
+animeType	TV
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.33
 animeUsers	491
 animeRank	
-animePopularity	
-animeDescription	b'This drama tells the story of girls in high school. Girls who love to play volleyball form a team in their school. Although the team starts out as a weak and unorganized sport club, over time the girls\xe2\x80\x99 extraordinary passion and endeavor enables their team to become one of the best organized and highly recognized teams at the school. Now they aim to win the championship in the National High School Volleyball League. Although it is painful and hard to achieve such a goal, it is nice to have friends to share the feeling, especially the joy. Through volleyball, the girls learn and experience many lessons in life as they grow up. Let\xe2\x80\x99s share their laughter.\n\n(Source: Nippon Animation)'
+animePopularity	9776
+animeDescription	"This drama tells the story of girls in high school. Girls who love to play volleyball form a team in their school. Although the team starts out as a weak and unorganized sport club, over time the girls’ extraordinary passion and endeavor enables their team to become one of the best organized and highly recognized teams at the school. Now they aim to win the championship in the National High School Volleyball League. Although it is painful and hard to achieve such a goal, it is nice to have friends to share the feeling, especially the joy. Through volleyball, the girls learn and experience many lessons in life as they grow up. Let’s share their laughter.
+
+(Source: Nippon Animation)"
 animeRelated	[]
-animeCharacters	[b'Hijiri, Mimi', b'Ichijou, Asuka', b'Shiraki, Rumi', b'Nishi, Sumie', b'Sekiya, Kimiko', b'Hara, Daisuke', b'Oota, Tomiko', b'Narrator', b'Sugihara, Yukari']
-animeVoices	[b'\nKoyama, Mami\nJapanese\n', b'\nYoshida, Rihoko\nJapanese\n', b'\nNobusawa, Mieko\nJapanese\n', b'\nYokozawa, Keiko\nJapanese\n', b'\nMatsukane, Yoneko\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nAoki, Kazuyo\nJapanese\n', b'\nTomiyama, Kei\nJapanese\n', b'\nKomiya, Kazue\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKurokawa, Fumio\n\nDirector, Storyboard\n\n', b'\nHayakawa, Keiji\n\nStoryboard\n\n', b'\nOkuda, Seiji\n\nStoryboard\n\n', b'\nHorie, Mitsuko\n\nTheme Song Performance\n\n']
+animeCharacters	['Hijiri, Mimi', 'Ichijou, Asuka', 'Shiraki, Rumi', 'Nishi, Sumie', 'Sekiya, Kimiko', 'Hara, Daisuke', 'Oota, Tomiko', 'Narrator', 'Sugihara, Yukari']
+animeVoices	['Koyama, Mami', 'Yoshida, Rihoko', 'Nobusawa, Mieko', 'Yokozawa, Keiko', 'Matsukane, Yoneko', 'Inoue, Makio', 'Aoki, Kazuyo', 'Tomiyama, Kei', 'Komiya, Kazue']
+animeStaff	[['Kurokawa, Fumio', 'Director, Storyboard'], ['Hayakawa, Keiji', 'Storyboard'], ['Okuda, Seiji', 'Storyboard'], ['Horie, Mitsuko', 'Theme Song Performance']]

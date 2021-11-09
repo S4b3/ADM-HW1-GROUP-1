@@ -1,5 +1,5 @@
-animeTitle	b'Amanchu! Advance'
-animeType	b'TV'
+animeTitle	Amanchu! Advance
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.13
 animeUsers	10359
 animeRank	
-animePopularity	
-animeDescription	b'Second season of Amanchu!.'
-animeRelated	[b'Amanchu!', b'Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto']
-animeCharacters	[b'Kohinata, Hikari', b'Ooki, Futaba', b'Katori, Mato', b'Ninomiya, Ai', b'Ninomiya, Makoto', b'Aria', b'Himeno, Chizuru', b'Kohinata, Kino', b'Misaki, Kokoro', b'Misaki, Kotori']
-animeVoices	[b'\nSuzuki, Eri\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nOonishi, Saori\nJapanese\n', b'\nUmehara, Yuuichirou\nJapanese\n', b'\nKubo, Yurika\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nYamamoto, Ai\nJapanese\n', b'\nKakuma, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Youko\n\nProducer\n\n', b'\nSatou, Junichi\n\nDirector, Sound Director, Storyboard\n\n', b'\nSayama, Kiyoko\n\nDirector, Episode Director\n\n', b'\nSekita, Osamu\n\nEpisode Director\n\n']
+animePopularity	3342
+animeDescription	Second season of Amanchu!.
+animeRelated	['Amanchu!', 'Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto']
+animeCharacters	['Kohinata, Hikari', 'Ooki, Futaba', 'Katori, Mato', 'Ninomiya, Ai', 'Ninomiya, Makoto', 'Aria', 'Himeno, Chizuru', 'Kohinata, Kino', 'Misaki, Kokoro', 'Misaki, Kotori']
+animeVoices	['Suzuki, Eri', 'Kayano, Ai', 'Itou, Shizuka', 'Oonishi, Saori', 'Umehara, Yuuichirou', 'Kubo, Yurika', 'Inoue, Kikuko', 'Yamamoto, Ai', 'Kakuma, Ai']
+animeStaff	[['Ueda, Youko', 'Producer'], ['Satou, Junichi', 'Director, Sound Director, Storyboard'], ['Sayama, Kiyoko', 'Director, Episode Director'], ['Sekita, Osamu', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Genki!! Ekoda-chan'
-animeType	b'TV'
+animeTitle	Genki!! Ekoda-chan
+animeType	TV
 animeNumEpisode	22
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.75
 animeUsers	114
 animeRank	
-animePopularity	
-animeDescription	b'Based on a four-panel manga, Rinshi!! Ekoda-chan is about a single woman in Tokyo who drifts through relationships and who works at various hostess clubs and the like.\n\n(Source: Zigguratbuilder, edited)'
-animeRelated	[b'Rinshi!! Ekoda-chan']
-animeCharacters	[b'Ekoda-chan']
+animePopularity	11431
+animeDescription	"Based on a four-panel manga, Rinshi!! Ekoda-chan is about a single woman in Tokyo who drifts through relationships and who works at various hostess clubs and the like.
+
+(Source: Zigguratbuilder, edited)"
+animeRelated	['Rinshi!! Ekoda-chan']
+animeCharacters	['Ekoda-chan']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakinami, Yukari\n\nOriginal Creator\n\n']
+animeStaff	[['Takinami, Yukari', 'Original Creator']]

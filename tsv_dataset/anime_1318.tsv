@@ -1,5 +1,5 @@
-animeTitle	b'Runway de Waratte'
-animeType	b'TV'
+animeTitle	Runway de Waratte
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.6
 animeUsers	40029
 animeRank	
-animePopularity	
-animeDescription	"b""Being the daughter of a modeling agency owner, Chiyuki Fujito aspires to represent her father's agency in the prestigious Paris Fashion Week, shining under the spotlight as a runway model. However, although she is equipped with great looks and talent, she unfortunately lacks a key element in becoming a successful model\xe2\x80\x94height. Stuck at 158 cm even after entering high school, her childhood dream seems out of reach.\n\nMeanwhile, Ikuto Tsumura is a high school student with a knack in designing clothes; however, without the resources to pursue the necessary education, his ambition of becoming a fashion designer remains a mere dream. But as fate brings Chiyuki and Ikuto together, the dim hopes within their hearts are ignited once again. Together, the two promise to rebel against convention and carve out their own paths in the fashion world.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Runway de Waratte', b'Runway de Waratte Mini Anime']
-animeCharacters	[b'Fujito, Chiyuki', b'Tsumura, Ikuto', b'Hasegawa, Kokoro', b'Tsumura, Honoka', b'Ayano, Too', b'Niinuma, Fumiyo', b'Tsumura, Aoi', b'Yanagida, Hajime', b'Igarashi, Yu', b'Takaoka, Youko']
-animeVoices	[b'\nHanamori, Yumiri\nJapanese\n', b'\nHanae, Natsuki\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nIshikawa, Yui\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nSuwa, Ayaka\nJapanese\n', b'\nYamamura, Hibiku\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nHan, Keiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagayama, Nobuyoshi\n\nDirector\n\n', b'\nTanaka, Ryou\n\nSound Director\n\n', b'\nJae Joong\n\nTheme Song Performance\n\n', b'\nMachida, Touko\n\nSeries Composition\n\n']
+animePopularity	1650
+animeDescription	"Being the daughter of a modeling agency owner, Chiyuki Fujito aspires to represent her father's agency in the prestigious Paris Fashion Week, shining under the spotlight as a runway model. However, although she is equipped with great looks and talent, she unfortunately lacks a key element in becoming a successful model—height. Stuck at 158 cm even after entering high school, her childhood dream seems out of reach.
+
+Meanwhile, Ikuto Tsumura is a high school student with a knack in designing clothes; however, without the resources to pursue the necessary education, his ambition of becoming a fashion designer remains a mere dream. But as fate brings Chiyuki and Ikuto together, the dim hopes within their hearts are ignited once again. Together, the two promise to rebel against convention and carve out their own paths in the fashion world.
+
+[Written by MAL Rewrite]"
+animeRelated	['Runway de Waratte', 'Runway de Waratte Mini Anime']
+animeCharacters	['Fujito, Chiyuki', 'Tsumura, Ikuto', 'Hasegawa, Kokoro', 'Tsumura, Honoka', 'Ayano, Too', 'Niinuma, Fumiyo', 'Tsumura, Aoi', 'Yanagida, Hajime', 'Igarashi, Yu', 'Takaoka, Youko']
+animeVoices	['Hanamori, Yumiri', 'Hanae, Natsuki', 'Kayano, Ai', 'Ishikawa, Yui', 'Kimura, Ryouhei', 'Suwa, Ayaka', 'Yamamura, Hibiku', 'Suwabe, Junichi', 'Han, Keiko']
+animeStaff	[['Nagayama, Nobuyoshi', 'Director'], ['Tanaka, Ryou', 'Sound Director'], ['Jae Joong', 'Theme Song Performance'], ['Machida, Touko', 'Series Composition']]

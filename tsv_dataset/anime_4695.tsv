@@ -1,5 +1,5 @@
-animeTitle	b'Galaxy Angel Specials'
-animeType	b'Special'
+animeTitle	Galaxy Angel Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.78
 animeUsers	827
 animeRank	
-animePopularity	
-animeDescription	b'VHS/DVD only episodes 21 and 26.'
-animeRelated	[b'Galaxy Angel']
-animeCharacters	"[b'Sakuraba, Milfeulle', b'Blancmanche, Mint', b'H, Vanilla', b'Stollen, Forte', b'Franboise, Ranpha', b""O'Huey, Volcott"", b'Normad']"
+animePopularity	9390
+animeDescription	VHS/DVD only episodes 21 and 26.
+animeRelated	['Galaxy Angel']
+animeCharacters	"['Sakuraba, Milfeulle', 'Blancmanche, Mint', 'H, Vanilla', 'Stollen, Forte', 'Franboise, Ranpha', ""O'Huey, Volcott"", 'Normad']"
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSaitou, Kazuya\n\nKey Animation\n\n']
+animeStaff	[['Saitou, Kazuya', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ao Ashi'
-animeType	b'TV'
+animeTitle	Ao Ashi
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Ashito Aoi is a young, aspiring soccer player from a backwater town in Japan. His hopes of getting into a high school with a good soccer club are dashed when he causes an incident during a critical match for his team, which results in their loss and elimination from the tournament. Nevertheless, he catches the eye of someone important who happened to be visiting from Tokyo. How will things turn out for Ashito? \n\n(Source: Shogakukan Asia)'
-animeRelated	[b'Ao Ashi']
-animeCharacters	[b'Takeshima, Ryuuichi', b'Motoki, Yuuma', b'Asari, Marchis Jun', b'Kuroda, Kanpei', b'Togashi, Keiji']
+animePopularity	8362
+animeDescription	"Ashito Aoi is a young, aspiring soccer player from a backwater town in Japan. His hopes of getting into a high school with a good soccer club are dashed when he causes an incident during a critical match for his team, which results in their loss and elimination from the tournament. Nevertheless, he catches the eye of someone important who happened to be visiting from Tokyo. How will things turn out for Ashito? 
+
+(Source: Shogakukan Asia)"
+animeRelated	['Ao Ashi']
+animeCharacters	['Takeshima, Ryuuichi', 'Motoki, Yuuma', 'Asari, Marchis Jun', 'Kuroda, Kanpei', 'Togashi, Keiji']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Yuugo\n\nOriginal Creator, Original Character Design\n\n', b'\nUeno, Naohiko\n\nOriginal Creator\n\n']
+animeStaff	[['Kobayashi, Yuugo', 'Original Creator, Original Character Design'], ['Ueno, Naohiko', 'Original Creator']]

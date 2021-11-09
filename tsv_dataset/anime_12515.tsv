@@ -1,5 +1,5 @@
-animeTitle	b'Ohayou! Spank (Movie)'
-animeType	b'Movie'
+animeTitle	Ohayou! Spank (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the shoujo manga by Yukimuro Shun'ichi and Takanashi Shizue serialised in Nakayoshi. \n\n(Source: AniDB)"""
-animeRelated	[b'Ohayou! Spank']
-animeCharacters	[b'Spank', b'Yoshimura, Shinako']
-animeVoices	[b'\nTsukase, Noriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshida, Shigetsugu\n\nDirector\n\n', b'\nKaneko, Yutaka\n\nScript\n\n', b'\nMakaino, Kouji\n\nMusic\n\n', b'\nTakanashi, Shizue\n\nOriginal Character Design\n\n']
+animePopularity	13722
+animeDescription	"Based on the shoujo manga by Yukimuro Shun'ichi and Takanashi Shizue serialised in Nakayoshi. 
+
+(Source: AniDB)"
+animeRelated	['Ohayou! Spank']
+animeCharacters	['Spank', 'Yoshimura, Shinako']
+animeVoices	['Tsukase, Noriko']
+animeStaff	[['Yoshida, Shigetsugu', 'Director'], ['Kaneko, Yutaka', 'Script'], ['Makaino, Kouji', 'Music'], ['Takanashi, Shizue', 'Original Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Zero Tester: Chikyuu wo Mamore!'
-animeType	b'TV'
+animeTitle	Zero Tester: Chikyuu wo Mamore!
+animeType	TV
 animeNumEpisode	28
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis has been added for this series yet.\n\nClick here to update this information.'
-animeRelated	[b'Zero Tester']
-animeCharacters	[b'Fubuki, Shin', b'Lisa', b'Kenmotsu, Tsutomu', b'Hiroshi', b'Tachibana, Dr.', b'Narrator']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nHirokawa, Taichirou\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nKawakubo, Kiyoshi\nJapanese\n', b'\nJinnai, Tatsuyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Ryousuke\n\nDirector, Script\n\n', b'\nYasuhiko, Yoshikazu\n\nEpisode Director, Script, Storyboard, Animation Director\n\n', b'\nSuginami Jidou Gasshoudan\n\nTheme Song Performance\n\n', b'\nRoyal Knights\n\nTheme Song Performance\n\n']
+animePopularity	13272
+animeDescription	"No synopsis has been added for this series yet.
+
+Click here to update this information."
+animeRelated	['Zero Tester']
+animeCharacters	['Fubuki, Shin', 'Lisa', 'Kenmotsu, Tsutomu', 'Hiroshi', 'Tachibana, Dr.', 'Narrator']
+animeVoices	['Kamiya, Akira', 'Ichiryuusai, Harumi', 'Hirokawa, Taichirou', 'Ohara, Noriko', 'Kawakubo, Kiyoshi', 'Jinnai, Tatsuyuki']
+animeStaff	[['Takahashi, Ryousuke', 'Director, Script'], ['Yasuhiko, Yoshikazu', 'Episode Director, Script, Storyboard, Animation Director'], ['Suginami Jidou Gasshoudan', 'Theme Song Performance'], ['Royal Knights', 'Theme Song Performance']]

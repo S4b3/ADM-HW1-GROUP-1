@@ -1,5 +1,5 @@
-animeTitle	b'Koharu Biyori'
-animeType	b'OVA'
+animeTitle	Koharu Biyori
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.61
 animeUsers	9051
 animeRank	
-animePopularity	
-animeDescription	b'Set in a near future, a time where robots are common workers for their owners. Takaya Murase has just purchased a maid robot from a robotic doll distributor, MaidWorks. Ready to live a normal cleaning, cooking, and serving life to her owner, Yui is purchased, by Takaya but he has other plans for her...like dressing her up in dress-costumes of his fantasies and more.\n\n(Source: ANN)'
-animeRelated	[b'Koharubiyori']
-animeCharacters	[b'Yui', b'Murase, Takaya', b'Sumitomo, Minori', b'Sakuya', b'Midou, Ran', b'Kuon', b'Hagiwara, Ayumi', b'Midou, Sumire', b'Shop Owner', b'Hagiwara, Kanae']
-animeVoices	[b'\nKitamura, Eri\nJapanese\n', b'\nKondou, Takayuki\nJapanese\n', b'\nAkesaka, Satomi\nJapanese\n', b'\nShimizu, Ai\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nMiyake, Kaya\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakayama, Nobuhiro\n\nProducer\n\n', b'\nInagaki, Takayuki\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nAoshima, Takashi\n\nScript, Series Composition\n\n']
+animePopularity	4058
+animeDescription	"Set in a near future, a time where robots are common workers for their owners. Takaya Murase has just purchased a maid robot from a robotic doll distributor, MaidWorks. Ready to live a normal cleaning, cooking, and serving life to her owner, Yui is purchased, by Takaya but he has other plans for her...like dressing her up in dress-costumes of his fantasies and more.
+
+(Source: ANN)"
+animeRelated	['Koharubiyori']
+animeCharacters	['Yui', 'Murase, Takaya', 'Sumitomo, Minori', 'Sakuya', 'Midou, Ran', 'Kuon', 'Hagiwara, Ayumi', 'Midou, Sumire', 'Shop Owner', 'Hagiwara, Kanae']
+animeVoices	['Kitamura, Eri', 'Kondou, Takayuki', 'Akesaka, Satomi', 'Shimizu, Ai', 'Yahagi, Sayuri', 'Koshimizu, Ami', 'Iguchi, Yuka', 'Hayami, Saori', 'Miyake, Kaya', 'Yuzuki, Ryouka']
+animeStaff	[['Nakayama, Nobuhiro', 'Producer'], ['Inagaki, Takayuki', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Aoshima, Takashi', 'Script, Series Composition']]

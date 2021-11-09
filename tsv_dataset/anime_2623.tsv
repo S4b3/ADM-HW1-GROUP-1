@@ -1,5 +1,5 @@
-animeTitle	b'One Piece: Umi no Heso no Daibouken-hen'
-animeType	b'Special'
+animeTitle	One Piece: Umi no Heso no Daibouken-hen
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.26
 animeUsers	15323
 animeRank	
-animePopularity	
-animeDescription	"b""The Straw Hats encounter a city in the middle of a whirlpool, called the Ocean's Navel, that is being destroyed by giant monsters. These monsters supposedly protect a treasure capable of granting wishes, but in the process of defeating these guardians, the crew ends up releasing another evil.  (aired after Episode 53)\n\n(Source: Wikipedia)"""
-animeRelated	[b'One Piece']
-animeCharacters	[b'Monkey D., Luffy', b'Roronoa, Zoro', b'Sanji', b'Usopp', b'Nami', b'Captain Joke', b'Meroie', b'Hamu']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nTakayama, Minami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKaizawa, Yukio\n\nDirector\n\n', b'\nOda, Eiichiro\n\nOriginal Creator\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n', b'\nHamaguchi, Shirou\n\nMusic\n\n']
+animePopularity	3242
+animeDescription	"The Straw Hats encounter a city in the middle of a whirlpool, called the Ocean's Navel, that is being destroyed by giant monsters. These monsters supposedly protect a treasure capable of granting wishes, but in the process of defeating these guardians, the crew ends up releasing another evil.  (aired after Episode 53)
+
+(Source: Wikipedia)"
+animeRelated	['One Piece']
+animeCharacters	['Monkey D., Luffy', 'Roronoa, Zoro', 'Sanji', 'Usopp', 'Nami', 'Captain Joke', 'Meroie', 'Hamu']
+animeVoices	['Tanaka, Mayumi', 'Nakai, Kazuya', 'Hirata, Hiroaki', 'Yamaguchi, Kappei', 'Okamura, Akemi', 'Ootsuka, Akio', 'Ootani, Ikue', 'Takayama, Minami']
+animeStaff	[['Kaizawa, Yukio', 'Director'], ['Oda, Eiichiro', 'Original Creator'], ['Tanaka, Kouhei', 'Music'], ['Hamaguchi, Shirou', 'Music']]

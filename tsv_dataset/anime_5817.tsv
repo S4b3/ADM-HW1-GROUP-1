@@ -1,5 +1,5 @@
-animeTitle	b'Oda Cinnamon Nobunaga'
-animeType	b'TV'
+animeTitle	Oda Cinnamon Nobunaga
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.56
 animeUsers	5335
 animeRank	
-animePopularity	
-animeDescription	"b'In the ""one-of-a-kind samurai-general-reincarnated-as-a-canine comedy,"" Nobunaga perishes at Honnouji as in history, and reincarnates in modern-day Japan as a dog named Shinamon. Other Warring States era warlords such as Takeda Shingen eventually join him, also as dogs.\n\n(Source: ANN)'"
-animeRelated	[b'Oda Cinnamon Nobunaga']
-animeCharacters	[b'Cinnamon', b'Lucky', b'Boo', b'Julian', b'Gilbert', b'Marutarou', b'Oda, Ichiko']
-animeVoices	[b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nKumada, Akane\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Hidetoshi\n\nDirector\n\n', b'\nHoriuchi, Kenyuu\n\nTheme Song Performance\n\n', b'\nFurukawa, Toshio\n\nTheme Song Performance\n\n', b'\nGenda, Tesshou\n\nTheme Song Performance\n\n']
+animePopularity	4258
+animeDescription	"In the ""one-of-a-kind samurai-general-reincarnated-as-a-canine comedy,"" Nobunaga perishes at Honnouji as in history, and reincarnates in modern-day Japan as a dog named Shinamon. Other Warring States era warlords such as Takeda Shingen eventually join him, also as dogs.
+
+(Source: ANN)"
+animeRelated	['Oda Cinnamon Nobunaga']
+animeCharacters	['Cinnamon', 'Lucky', 'Boo', 'Julian', 'Gilbert', 'Marutarou', 'Oda, Ichiko']
+animeVoices	['Horiuchi, Kenyuu', 'Genda, Tesshou', 'Furukawa, Toshio', 'Sugita, Tomokazu', 'Sakurai, Takahiro', 'Suzumura, Kenichi', 'Kumada, Akane']
+animeStaff	[['Takahashi, Hidetoshi', 'Director'], ['Horiuchi, Kenyuu', 'Theme Song Performance'], ['Furukawa, Toshio', 'Theme Song Performance'], ['Genda, Tesshou', 'Theme Song Performance']]

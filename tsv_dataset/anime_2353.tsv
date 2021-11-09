@@ -1,5 +1,5 @@
-animeTitle	b'Tari Tari'
-animeType	b'TV'
+animeTitle	Tari Tari
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.31
 animeUsers	52021
 animeRank	
-animePopularity	
-animeDescription	"b""At Shirahamazaka High School, a special recital is held every year in which music students are able to showcase their talents in front of professionals and other prestigious guests. A third year, Konatsu Miyamoto desperately wants to sing in her last high school recital, but because she screwed up the year before, the vice principal has barred her from participating.\n\nThat's when Konatsu comes up with a new plan to get involved; instead of joining the official choir, she'll form her own singing club with her friends! Unfortunately this proves to be harder than she imagined. Her friend Wakana Sakai, has given up on singing, for one, and Konatsu needs more than just two members. With only a month left until the recital, will Konatsu be able to find enough members for her club and actually be ready to sing at one of the most important events of the school year and graduate without regrets?"""
-animeRelated	[b'Tari Tari', b'Utopia', b'Tari Tari: Kumottari, Kagayaitari, Mata Itsuka Utattari']
-animeCharacters	[b'Sakai, Wakana', b'Okita, Sawa', b'Miyamoto, Konatsu', b'Maeda, Atsuhiro', b'Tanaka, Taichi', b'Sakai, Mahiru', b'Takakura, Naoko', b'Okuto, Akiko', b'Condor Queens, Gaikoku', b'Sakai, Keisuke']
-animeVoices	[b'\nTakagaki, Ayahi\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nSeto, Asami\nJapanese\n', b'\nHanae, Natsuki\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nNanjou, Yoshino\nJapanese\n', b'\nDiaz, Jorge\nJapanese\n', b'\nHamada, Kenji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHorikawa, Kenji\n\nProducer\n\n', b'\nHashimoto, Masakazu\n\nDirector, Series Composition\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nAsai, Yoshiyuki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	1217
+animeDescription	"At Shirahamazaka High School, a special recital is held every year in which music students are able to showcase their talents in front of professionals and other prestigious guests. A third year, Konatsu Miyamoto desperately wants to sing in her last high school recital, but because she screwed up the year before, the vice principal has barred her from participating.
+
+That's when Konatsu comes up with a new plan to get involved; instead of joining the official choir, she'll form her own singing club with her friends! Unfortunately this proves to be harder than she imagined. Her friend Wakana Sakai, has given up on singing, for one, and Konatsu needs more than just two members. With only a month left until the recital, will Konatsu be able to find enough members for her club and actually be ready to sing at one of the most important events of the school year and graduate without regrets?"
+animeRelated	['Tari Tari', 'Utopia', 'Tari Tari: Kumottari, Kagayaitari, Mata Itsuka Utattari']
+animeCharacters	['Sakai, Wakana', 'Okita, Sawa', 'Miyamoto, Konatsu', 'Maeda, Atsuhiro', 'Tanaka, Taichi', 'Sakai, Mahiru', 'Takakura, Naoko', 'Okuto, Akiko', 'Condor Queens, Gaikoku', 'Sakai, Keisuke']
+animeVoices	['Takagaki, Ayahi', 'Hayami, Saori', 'Seto, Asami', 'Hanae, Natsuki', 'Shimazaki, Nobunaga', 'Ohara, Sayaka', 'Tanaka, Atsuko', 'Nanjou, Yoshino', 'Diaz, Jorge', 'Hamada, Kenji']
+animeStaff	[['Horikawa, Kenji', 'Producer'], ['Hashimoto, Masakazu', 'Director, Series Composition'], ['Aketagawa, Jin', 'Sound Director'], ['Asai, Yoshiyuki', 'Episode Director, Storyboard']]

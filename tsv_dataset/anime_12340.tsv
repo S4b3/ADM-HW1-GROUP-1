@@ -1,5 +1,5 @@
-animeTitle	b'Neko to Mata'
-animeType	b'TV'
+animeTitle	Neko to Mata
+animeType	TV
 animeNumEpisode	67
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The series centers around two cats: a younger sister named Neko, and an older brother named Mata. Neko is a nekomata (a mythical two-tailed cat), innocently selfish, and spoiled by her brother. Mata is a neighborhood cat with an eartipped mark as a sign of being neutered. They meet under a streetlight in the city at night to talk.\n\n(Source: ANN)'
-animeRelated	[b'Mr. Shadow']
-animeCharacters	[b'Mata', b'Neko']
-animeVoices	[b'\nHatanaka, Tasuku\nJapanese\n', b'\nNagatsuka, Takuma\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOnaka, Takeshi\n\nDirector, Script, Character Design\n\n']
+animePopularity	12824
+animeDescription	"The series centers around two cats: a younger sister named Neko, and an older brother named Mata. Neko is a nekomata (a mythical two-tailed cat), innocently selfish, and spoiled by her brother. Mata is a neighborhood cat with an eartipped mark as a sign of being neutered. They meet under a streetlight in the city at night to talk.
+
+(Source: ANN)"
+animeRelated	['Mr. Shadow']
+animeCharacters	['Mata', 'Neko']
+animeVoices	['Hatanaka, Tasuku', 'Nagatsuka, Takuma']
+animeStaff	[['Onaka, Takeshi', 'Director, Script, Character Design']]

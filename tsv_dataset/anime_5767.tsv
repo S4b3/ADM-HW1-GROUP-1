@@ -1,5 +1,5 @@
-animeTitle	"b""Glass no Kantai: La Legende du Vent de l'Univers"""
-animeType	b'TV'
+animeTitle	Glass no Kantai: La Legende du Vent de l'Univers
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.57
 animeUsers	2973
 animeRank	
-animePopularity	
-animeDescription	"b""The People's Army led by Michel stands against Vetti's newly founded empire. Upon seeing how strong the Glass Battleship is, Michel tries to get Cleo, the captain of the Glass Battleship, to help People's Army overthrow Vetti's empire. And together they fight against Vetti's empire.\n\n(Source: ANN)"""
-animeRelated	"[b""Glass no Kantai: La Legende du Vent de l'Univers Specials""]"
-animeCharacters	[b'Lunard Sforza de Roselait, Vetti', b'Aiolos Corbeille de Veil, Cleo', b'Volban de Cabelle, Michel', b'Fitzlard Deon de Lac, Ralph', b'Guilty', b'Jil', b'Elvia', b'Hizack', b'Gorna', b'Barratt']
-animeVoices	[b'\nIshida, Akira\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nKaida, Yuuko\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nUemura, Takako\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nYamaguchi, Tarou\nJapanese\n', b'\nSugou, Takayuki\nJapanese\n', b'\nKashii, Shouto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSabat, Christopher\n\nProducer, ADR Director\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nHarp, Clarine\n\nProducer\n\n', b'\nOohara, Minoru\n\nDirector\n\n']
+animePopularity	5118
+animeDescription	"The People's Army led by Michel stands against Vetti's newly founded empire. Upon seeing how strong the Glass Battleship is, Michel tries to get Cleo, the captain of the Glass Battleship, to help People's Army overthrow Vetti's empire. And together they fight against Vetti's empire.
+
+(Source: ANN)"
+animeRelated	"[""Glass no Kantai: La Legende du Vent de l'Univers Specials""]"
+animeCharacters	['Lunard Sforza de Roselait, Vetti', 'Aiolos Corbeille de Veil, Cleo', 'Volban de Cabelle, Michel', 'Fitzlard Deon de Lac, Ralph', 'Guilty', 'Jil', 'Elvia', 'Hizack', 'Gorna', 'Barratt']
+animeVoices	['Ishida, Akira', 'Park, Romi', 'Kaida, Yuuko', 'Kugimiya, Rie', 'Uemura, Takako', 'Sakurai, Takahiro', 'Yamaguchi, Tarou', 'Sugou, Takayuki', 'Kashii, Shouto']
+animeStaff	[['Sabat, Christopher', 'Producer, ADR Director'], ['Cook, Justin', 'Producer'], ['Harp, Clarine', 'Producer'], ['Oohara, Minoru', 'Director']]

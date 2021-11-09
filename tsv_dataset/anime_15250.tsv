@@ -1,5 +1,5 @@
-animeTitle	b'Chouriki Robo Galatt'
-animeType	b'TV'
+animeTitle	Chouriki Robo Galatt
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'In a peaceful, disarmed world where small robots are utilized as housekeepers, villains act with huge robots instead of weapons. Dr. Keewee converts Michael\xe2\x80\x99s robot into a transformable one in order to teach them a lesson. This is the birth of Galatt, the town hero.\n\n(Source: ANN)'
+animePopularity	12416
+animeDescription	"In a peaceful, disarmed world where small robots are utilized as housekeepers, villains act with huge robots instead of weapons. Dr. Keewee converts Michael’s robot into a transformable one in order to teach them a lesson. This is the birth of Galatt, the town hero.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Pumpkin, Patty', b'Kashmir Jr., Kamil', b'Marsh, Michael', b'Dr. Kiwi']
-animeVoices	[b'\nTakamori, Yoshino\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nNakagawa, Katsuhiko\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHoshiyama, Hiroyuki\n\nScript\n\n', b'\nKoyama, Takao\n\nScript\n\n', b'\nHirano, Yasushi\n\nScript\n\n', b'\nEndo, Akinori\n\nScript\n\n']
+animeCharacters	['Pumpkin, Patty', 'Kashmir Jr., Kamil', 'Marsh, Michael', 'Dr. Kiwi']
+animeVoices	['Takamori, Yoshino', 'Suzuoki, Hirotaka', 'Nakagawa, Katsuhiko', 'Tatsuta, Naoki']
+animeStaff	[['Hoshiyama, Hiroyuki', 'Script'], ['Koyama, Takao', 'Script'], ['Hirano, Yasushi', 'Script'], ['Endo, Akinori', 'Script']]

@@ -1,5 +1,5 @@
-animeTitle	b'Skyers 5'
-animeType	b'TV'
+animeTitle	Skyers 5
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A science fiction action series about the future battles between a planetary police force and an international crime syndicate. The series plays out as a mix between science fiction and an old western. \n'
-animeRelated	[b'Shin Skyers 5', b'Skyers 5 EX']
-animeCharacters	[b'Captain', b'Shuntarou', b'Yuri', b'Samson', b'Ghost', b'Polka']
-animeVoices	[b'\nMaki, Kyousuke\nJapanese\n', b'\nNakamura, Shuusei\nJapanese\n', b'\nKuri, Youko\nJapanese\n', b'\nKamiyama, Takuzou\nJapanese\n', b'\nWakui, Setsuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSeki, Shuuichi\n\nEpisode Director, Animation Director\n\n', b'\nHoney Knights\n\nTheme Song Performance\n\n', b'\nKawasaki, Noboru\n\nOriginal Creator\n\n']
+animePopularity	13189
+animeDescription	"A science fiction action series about the future battles between a planetary police force and an international crime syndicate. The series plays out as a mix between science fiction and an old western. 
+"
+animeRelated	['Shin Skyers 5', 'Skyers 5 EX']
+animeCharacters	['Captain', 'Shuntarou', 'Yuri', 'Samson', 'Ghost', 'Polka']
+animeVoices	['Maki, Kyousuke', 'Nakamura, Shuusei', 'Kuri, Youko', 'Kamiyama, Takuzou', 'Wakui, Setsuo']
+animeStaff	[['Seki, Shuuichi', 'Episode Director, Animation Director'], ['Honey Knights', 'Theme Song Performance'], ['Kawasaki, Noboru', 'Original Creator']]

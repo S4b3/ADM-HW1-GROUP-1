@@ -1,5 +1,5 @@
-animeTitle	b'Majime ni Fumajime Kaiketsu Zorori: Nazo no Otakara Daisakusen'
-animeType	b'Movie'
+animeTitle	Majime ni Fumajime Kaiketsu Zorori: Nazo no Otakara Daisakusen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.43
 animeUsers	182
 animeRank	
-animePopularity	
-animeDescription	"b'""Unbelievable"" Zorori is a prankster fox determined to become the Prince of Mischief, with his very own castle and beautiful bride. While is notorious for his prank-making schemes, his ill-meaning plots often backfire against him, and can usually end up even benefiting or cheering up his targets, much to his dismay. Nevertheless, Zorori has the wits and intelligence to wriggle out of the tightest of all spots, and journeys with a pair of twin boars, Ishishi and Noshishi, in order to fulfill his long wished-for goal and at last prove to his deceased mother, Mama Zorori that he truly holds the potential to achieve his dreams.\n\n(Source: ANN)'"
-animeRelated	[b'Majime ni Fumajime Kaiketsu Zorori']
-animeCharacters	[b'Zorori', b'Keroro', b'Giroro', b'Kururu', b'Tamama', b'Dororo', b'Noshishi', b'Ishishi']
-animeVoices	[b'\nYamadera, Kouichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujimori, Masaya\n\nStoryboard, Animation Director\n\n', b'\nKumai, Motoko\n\nTheme Song Performance\n\n', b'\nAmemiya, Akira\n\nKey Animation\n\n', b'\nYamada, Tatsuo\n\nKey Animation\n\n']
+animePopularity	12577
+animeDescription	"""Unbelievable"" Zorori is a prankster fox determined to become the Prince of Mischief, with his very own castle and beautiful bride. While is notorious for his prank-making schemes, his ill-meaning plots often backfire against him, and can usually end up even benefiting or cheering up his targets, much to his dismay. Nevertheless, Zorori has the wits and intelligence to wriggle out of the tightest of all spots, and journeys with a pair of twin boars, Ishishi and Noshishi, in order to fulfill his long wished-for goal and at last prove to his deceased mother, Mama Zorori that he truly holds the potential to achieve his dreams.
+
+(Source: ANN)"
+animeRelated	['Majime ni Fumajime Kaiketsu Zorori']
+animeCharacters	['Zorori', 'Keroro', 'Giroro', 'Kururu', 'Tamama', 'Dororo', 'Noshishi', 'Ishishi']
+animeVoices	['Yamadera, Kouichi']
+animeStaff	[['Fujimori, Masaya', 'Storyboard, Animation Director'], ['Kumai, Motoko', 'Theme Song Performance'], ['Amemiya, Akira', 'Key Animation'], ['Yamada, Tatsuo', 'Key Animation']]

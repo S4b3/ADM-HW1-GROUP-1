@@ -1,5 +1,5 @@
-animeTitle	b'Karuizawa Syndrome'
-animeType	b'OVA'
+animeTitle	Karuizawa Syndrome
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.64
 animeUsers	231
 animeRank	
-animePopularity	
-animeDescription	"b""It  is an action comedy about a young man's persistent sexual fantasies. It has 4 distinct art styles: a manga style, a SD style, a realistic style, and a art-graphic pencil style.\n\n(Source: technogirls.org)\n\nBased on the manga by TAGAMI Yoshihisa (\xe3\x81\x9f\xe3\x81\x8c\xe3\x81\xbf \xe3\x82\x88\xe3\x81\x97\xe3\x81\xb2\xe3\x81\x95) that serialised in Big Comic Spirits."""
-animeRelated	[b'Karuizawa Syndrome']
-animeCharacters	[b'Aizawa, Kouhei', b'Naruse, Dai', b'Kuonji, Noriko', b'Minowa, Takanari', b'Minowa, Milk', b'Chiryuu', b'Onda, Jirou', b'Kinoshita, Kumiko']
-animeVoices	[b'\nShiozawa, Kaneto\nJapanese\n', b'\nYamada, Keaton\nJapanese\n', b'\nToda, Keiko\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nFutamata, Issei\nJapanese\n', b'\nHironaka, Masashi\nJapanese\n', b'\nMiyuki, Sanae\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishikubo, Mizuho\n\nDirector\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b'\nTsuchiya, Tokio\n\nScript\n\n', b'\nTagami, Yoshihisa\n\nOriginal Creator\n\n']
+animePopularity	11953
+animeDescription	"It  is an action comedy about a young man's persistent sexual fantasies. It has 4 distinct art styles: a manga style, a SD style, a realistic style, and a art-graphic pencil style.
+
+(Source: technogirls.org)
+
+Based on the manga by TAGAMI Yoshihisa (たがみ よしひさ) that serialised in Big Comic Spirits."
+animeRelated	['Karuizawa Syndrome']
+animeCharacters	['Aizawa, Kouhei', 'Naruse, Dai', 'Kuonji, Noriko', 'Minowa, Takanari', 'Minowa, Milk', 'Chiryuu', 'Onda, Jirou', 'Kinoshita, Kumiko']
+animeVoices	['Shiozawa, Kaneto', 'Yamada, Keaton', 'Toda, Keiko', 'Tanaka, Hideyuki', 'Tsuru, Hiromi', 'Futamata, Issei', 'Hironaka, Masashi', 'Miyuki, Sanae']
+animeStaff	[['Nishikubo, Mizuho', 'Director'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Tsuchiya, Tokio', 'Script'], ['Tagami, Yoshihisa', 'Original Creator']]

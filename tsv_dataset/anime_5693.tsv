@@ -1,5 +1,5 @@
-animeTitle	b'Di Gi Charat Christmas Special'
-animeType	b'Special'
+animeTitle	Di Gi Charat Christmas Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.58
 animeUsers	1540
 animeRank	
-animePopularity	
-animeDescription	b'The Christmas Special aired in December 2000 and featured Piyoko again attempting to capture Dejiko by inviting all the characters on a cruise.\n\n(Source: Wikipedia)'
-animeRelated	[b'Di Gi Charat Summer Special 2000', b'Di Gi Charat Ohanami Special']
-animeCharacters	[b'Di Gi Charat', b'Petit Charat', b'Usada, Hikaru', b'Analogue III, Pyocola', b'Gema', b'Schweitzer, Ky', b'Erhard, Coo', b'Heisenberg, Rik', b'Abarenbou', b'Kimura, Takuro']
-animeVoices	[b'\nSaeki, Tomo\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurai, Hiroaki\n\nDirector\n\n', b'\nSawashiro, Miyuki\n\nTheme Song Performance\n\n', b'\nOkui, Masami\n\nTheme Song Performance\n\n', b'\nMasuda, Toshio\n\nMusic\n\n']
+animePopularity	8272
+animeDescription	"The Christmas Special aired in December 2000 and featured Piyoko again attempting to capture Dejiko by inviting all the characters on a cruise.
+
+(Source: Wikipedia)"
+animeRelated	['Di Gi Charat Summer Special 2000', 'Di Gi Charat Ohanami Special']
+animeCharacters	['Di Gi Charat', 'Petit Charat', 'Usada, Hikaru', 'Analogue III, Pyocola', 'Gema', 'Schweitzer, Ky', 'Erhard, Coo', 'Heisenberg, Rik', 'Abarenbou', 'Kimura, Takuro']
+animeVoices	['Saeki, Tomo', 'Okiayu, Ryoutarou']
+animeStaff	[['Sakurai, Hiroaki', 'Director'], ['Sawashiro, Miyuki', 'Theme Song Performance'], ['Okui, Masami', 'Theme Song Performance'], ['Masuda, Toshio', 'Music']]

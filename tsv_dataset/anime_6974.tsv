@@ -1,5 +1,5 @@
-animeTitle	b'Gyakuten Sekai no Denchi Shoujo'
-animeType	b'TV'
+animeTitle	Gyakuten Sekai no Denchi Shoujo
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.33
 animeUsers	1445
 animeRank	
-animePopularity	
-animeDescription	"b'Japan, 2019, just before the dawn of a new era. Suddenly, a rift to another dimension appears in the sky, revealing an alternative world ""Shinkoku Nippon,"" with the sky and the earth upside down. This parallel world keeps their former militarism, with its era being Eternal Showa. The military invades the real Japan with giant humanoid robots called ""Garann"" and their gas weapons ""Genmu"", rendering our modern weapons ineffective. ""Shinkoku Nippon"" instantly seizes the government and achieves de facto conquest of Japan. The new era, ""Reiwa,"" has not arrived for Japan. \n\n(Source: MAL News)'"
+animePopularity	4910
+animeDescription	"Japan, 2019, just before the dawn of a new era. Suddenly, a rift to another dimension appears in the sky, revealing an alternative world ""Shinkoku Nippon,"" with the sky and the earth upside down. This parallel world keeps their former militarism, with its era being Eternal Showa. The military invades the real Japan with giant humanoid robots called ""Garann"" and their gas weapons ""Genmu"", rendering our modern weapons ineffective. ""Shinkoku Nippon"" instantly seizes the government and achieves de facto conquest of Japan. The new era, ""Reiwa,"" has not arrived for Japan. 
+
+(Source: MAL News)"
 animeRelated	[]
-animeCharacters	[b'Akagi, Rin', b'Kudou, Hosomichi', b'Kuroki, Misa', b'Aoba, Yuki', b'Yamada, Balzac', b'Megane', b'Cap', b'Pocha', b'Tanaka, Nastassja', b'Ukai']
-animeVoices	[b'\nFairouz, Ai\nJapanese\n', b'\nYamashita, Seiichirou\nJapanese\n', b'\nIzawa, Shiori\nJapanese\n', b'\nSuzuki, Aina\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nHayama, Shouta\nJapanese\n', b'\nKaneko, Hayato\nJapanese\n', b'\nMatsuda, Kenichirou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiga, Yuuji\n\nProducer\n\n', b'\nAndou, Masaomi\n\nDirector\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nSuzuki, Aina\n\nTheme Song Performance\n\n']
+animeCharacters	['Akagi, Rin', 'Kudou, Hosomichi', 'Kuroki, Misa', 'Aoba, Yuki', 'Yamada, Balzac', 'Megane', 'Cap', 'Pocha', 'Tanaka, Nastassja', 'Ukai']
+animeVoices	['Fairouz, Ai', 'Yamashita, Seiichirou', 'Izawa, Shiori', 'Suzuki, Aina', 'Sugita, Tomokazu', 'Mizushima, Takahiro', 'Hayama, Shouta', 'Kaneko, Hayato', 'Matsuda, Kenichirou']
+animeStaff	[['Higa, Yuuji', 'Producer'], ['Andou, Masaomi', 'Director'], ['Iida, Satoki', 'Sound Director'], ['Suzuki, Aina', 'Theme Song Performance']]

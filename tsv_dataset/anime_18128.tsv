@@ -1,5 +1,5 @@
-animeTitle	b'Kanojo ga Nekomimi ni Kigaetara'
-animeType	b'OVA'
+animeTitle	Kanojo ga Nekomimi ni Kigaetara
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.49
 animeUsers	2090
 animeRank	
-animePopularity	
-animeDescription	b'Based on the adult manga by Miyabi.'
-animeRelated	[b'Otome Hime']
-animeCharacters	[b'Haruna']
-animeVoices	[b'\nYamakawa, Kotomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOota, Hideta\n\nEpisode Director\n\n', b'\nSawayama, Shinichiro\n\nScript\n\n', b'\nMiyabi\n\nOriginal Creator\n\n']
+animePopularity	6837
+animeDescription	Based on the adult manga by Miyabi.
+animeRelated	['Otome Hime']
+animeCharacters	['Haruna']
+animeVoices	['Yamakawa, Kotomi']
+animeStaff	[['Oota, Hideta', 'Episode Director'], ['Sawayama, Shinichiro', 'Script'], ['Miyabi', 'Original Creator']]

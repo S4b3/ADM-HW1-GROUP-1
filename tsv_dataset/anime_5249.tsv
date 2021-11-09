@@ -1,5 +1,5 @@
-animeTitle	b'D.C. I&II P.S.P. Re-Animated'
-animeType	b'OVA'
+animeTitle	D.C. I&II P.S.P. Re-Animated
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.67
 animeUsers	2034
 animeRank	
-animePopularity	
-animeDescription	b'An OVA bundled with a PSP game Da Capo: D.C. I & II P.S.P. It features animated confession scenes for the four main heroines of the two games, Nemu, Kotori, Yume, and Otome. '
-animeRelated	[b'D.C.: Da Capo', b'D.C.II: Da Capo II']
-animeCharacters	[b'Shirakawa, Kotori', b'Asakura, Nemu', b'Asakura, Otome', b'Asakura, Yume', b'Asakura, Junichi', b'Sakurai, Yoshiyuki']
-animeVoices	[b'\nHorie, Yui\nJapanese\n', b'\nNogawa, Sakura\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n', b'\nTai, Yuuki\nJapanese\n', b'\nAsanuma, Shintaro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCircus\n\nOriginal Creator\n\n', b'\nKoyama, Kenji\n\nSound Effects\n\n', b'\nTakashina, Yuka\n\nCharacter Design\n\n', b'\nIwaida, You\n\nColor Design\n\n']
+animePopularity	6513
+animeDescription	An OVA bundled with a PSP game Da Capo: D.C. I & II P.S.P. It features animated confession scenes for the four main heroines of the two games, Nemu, Kotori, Yume, and Otome. 
+animeRelated	['D.C.: Da Capo', 'D.C.II: Da Capo II']
+animeCharacters	['Shirakawa, Kotori', 'Asakura, Nemu', 'Asakura, Otome', 'Asakura, Yume', 'Asakura, Junichi', 'Sakurai, Yoshiyuki']
+animeVoices	['Horie, Yui', 'Nogawa, Sakura', 'Takagaki, Ayahi', 'Tai, Yuuki', 'Asanuma, Shintaro']
+animeStaff	[['Circus', 'Original Creator'], ['Koyama, Kenji', 'Sound Effects'], ['Takashina, Yuka', 'Character Design'], ['Iwaida, You', 'Color Design']]

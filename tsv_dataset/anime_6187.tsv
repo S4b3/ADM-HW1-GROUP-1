@@ -1,5 +1,5 @@
-animeTitle	b'Arano no Sakebi Koe: Hoero, Buck'
-animeType	b'Special'
+animeTitle	Arano no Sakebi Koe: Hoero, Buck
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.49
 animeUsers	405
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the novel by Jack London.\n\nBuck, a half German Shepherd half Saint Bernard who's life is pretty peaceful and happy living with the Millers\xe2\x80\x99 in California. However, one day he is tricked and sold off. He ends up in the snowy North where he has become a sled dog during the Gold Rush. His story takes many twists and turns and he has to fight for his own survival.\n\n(Source: ANN)"""
+animePopularity	10584
+animeDescription	"Based on the novel by Jack London.
+
+Buck, a half German Shepherd half Saint Bernard who's life is pretty peaceful and happy living with the Millers’ in California. However, one day he is tricked and sold off. He ends up in the snowy North where he has become a sled dog during the Gold Rush. His story takes many twists and turns and he has to fight for his own survival.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Buck', b'Thornton, John']
-animeVoices	[b'\nKobayashi, Osamu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorishita, Kouzou\n\nDirector\n\n', b'\nFujikawa, Keisuke\n\nScript, Screenplay\n\n', b'\nWatanabe, Takeo\n\nMusic\n\n', b'\nLondon, Jack\n\nOriginal Creator\n\n']
+animeCharacters	['Buck', 'Thornton, John']
+animeVoices	['Kobayashi, Osamu']
+animeStaff	[['Morishita, Kouzou', 'Director'], ['Fujikawa, Keisuke', 'Script, Screenplay'], ['Watanabe, Takeo', 'Music'], ['London, Jack', 'Original Creator']]

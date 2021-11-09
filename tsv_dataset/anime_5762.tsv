@@ -1,5 +1,5 @@
-animeTitle	b'Fatal Fury: The Motion Picture'
-animeType	b'Movie'
+animeTitle	Fatal Fury: The Motion Picture
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.57
 animeUsers	6580
 animeRank	
-animePopularity	
-animeDescription	"b""Young millionaire Laocorn Gaudeamus is on a crusade to recover six pieces of armour said to give the user the powers of Mars\xe2\x80\x94the legendary God of War. Fearing that her twin brother is slowly losing his sanity with every armour piece he collects, Sulia runs to Terry, Andy, Joe and Mai to form their own global crusade to stop Laocorn from opening a potential Pandora's Box and releasing an uncontrollable form of destruction.\n\n(Source: ANN)"""
-animeRelated	[b'King of Fighters: Another Day', b'The King of Fighters: Destiny', b'Fatal Fury: Legend of the Hungry Wolf', b'Fatal Fury 2: The New Battle']
-animeCharacters	[b'Bogard, Terry', b'Shiranui, Mai', b'Bogard, Andy', b'Higashi, Joe', b'Gaeudemus, Sulia', b'Howard, Geese', b'McGuire, Lily', b'Kane, Billy', b'Jai, Hwa', b'Hauer']
-animeVoices	[b'\nMitsuishi, Kotono\nJapanese\n', b'\nNanba, Keiichi\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nSakurai, Tomo\nJapanese\n', b'\nHayami, Show\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOobari, Masami\n\nDirector, Character Design, Chief Animation Director\n\n', b'\nYoshinari, You\n\nKey Animation\n\n', b'\nTsurumaki, Kazuya\n\nKey Animation\n\n', b'\nMima, Masafumi\n\nSound Effects\n\n']
+animePopularity	5017
+animeDescription	"Young millionaire Laocorn Gaudeamus is on a crusade to recover six pieces of armour said to give the user the powers of Mars—the legendary God of War. Fearing that her twin brother is slowly losing his sanity with every armour piece he collects, Sulia runs to Terry, Andy, Joe and Mai to form their own global crusade to stop Laocorn from opening a potential Pandora's Box and releasing an uncontrollable form of destruction.
+
+(Source: ANN)"
+animeRelated	['King of Fighters: Another Day', 'The King of Fighters: Destiny', 'Fatal Fury: Legend of the Hungry Wolf', 'Fatal Fury 2: The New Battle']
+animeCharacters	['Bogard, Terry', 'Shiranui, Mai', 'Bogard, Andy', 'Higashi, Joe', 'Gaeudemus, Sulia', 'Howard, Geese', 'McGuire, Lily', 'Kane, Billy', 'Jai, Hwa', 'Hauer']
+animeVoices	['Mitsuishi, Kotono', 'Nanba, Keiichi', 'Hiyama, Nobuyuki', 'Sakurai, Tomo', 'Hayami, Show']
+animeStaff	[['Oobari, Masami', 'Director, Character Design, Chief Animation Director'], ['Yoshinari, You', 'Key Animation'], ['Tsurumaki, Kazuya', 'Key Animation'], ['Mima, Masafumi', 'Sound Effects']]

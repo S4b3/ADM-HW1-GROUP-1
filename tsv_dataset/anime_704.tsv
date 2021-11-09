@@ -1,5 +1,5 @@
-animeTitle	b'There She Is!!'
-animeType	b'ONA'
+animeTitle	There She Is!!
+animeType	ONA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.89
 animeUsers	12638
 animeRank	
-animePopularity	
-animeDescription	"b""The plot revolves around Doki, a female rabbit, meeting, falling in love with, and chasing Nabi, a male cat, in a world where love between the two species is socially unacceptable. The theme of the short is that all love can be accepted and has a chance. Nabi attempts to cure Doki's infatuation for him, but after seeing the extent of her love, he gives in and finds something he can appreciate in her.\n\n(Source: Wikipedia)"""
+animePopularity	3770
+animeDescription	"The plot revolves around Doki, a female rabbit, meeting, falling in love with, and chasing Nabi, a male cat, in a world where love between the two species is socially unacceptable. The theme of the short is that all love can be accepted and has a chance. Nabi attempts to cure Doki's infatuation for him, but after seeing the extent of her love, he gives in and finds something he can appreciate in her.
+
+(Source: Wikipedia)"
 animeRelated	[]
-animeCharacters	[b'Doki', b'Nabi', b'Il-ho']
+animeCharacters	['Doki', 'Nabi', 'Il-ho']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nAmalloc\n\nCreator\n\n']
+animeStaff	[['Amalloc', 'Creator']]

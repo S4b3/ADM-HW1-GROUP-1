@@ -1,5 +1,5 @@
-animeTitle	b'Neko no Robu'
-animeType	b'TV'
+animeTitle	Neko no Robu
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The series stars a cat with a lack of energy who speaks while lying down, yet has a thorough personality.  He thinks various things and has fun watching humans.'
+animePopularity	10949
+animeDescription	The series stars a cat with a lack of energy who speaks while lying down, yet has a thorough personality.  He thinks various things and has fun watching humans.
 animeRelated	[]
-animeCharacters	[b'Robu']
-animeVoices	[b'\nNanjou, Yoshino\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOnaka, Takeshi\n\nDirector, Character Design\n\n', b'\nKashimura, Satoshi\n\nSound Director\n\n']
+animeCharacters	['Robu']
+animeVoices	['Nanjou, Yoshino']
+animeStaff	[['Onaka, Takeshi', 'Director, Character Design'], ['Kashimura, Satoshi', 'Sound Director']]

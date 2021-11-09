@@ -1,5 +1,5 @@
-animeTitle	b'Captain Movie'
-animeType	b'Movie'
+animeTitle	Captain Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The movie focuses on a game between Sumiya 2 and Aoba Gakuin. '
-animeRelated	[b'Captain (TV)']
-animeCharacters	[b'Marui', b'Igarashi', b'Taniguchi, Takao', b'Takagi', b'Koyama', b'Matsushita']
+animePopularity	13935
+animeDescription	The movie focuses on a game between Sumiya 2 and Aoba Gakuin. 
+animeRelated	['Captain (TV)']
+animeCharacters	['Marui', 'Igarashi', 'Taniguchi, Takao', 'Takagi', 'Koyama', 'Matsushita']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Satoshi\n\nDirector\n\n', b'\nChiba, Akio\n\nOriginal Creator\n\n', b'\nKiyoyama, Shigetaka\n\nCharacter Design\n\n', b'\nShimizu, Keizou\n\nAnimation Director\n\n']
+animeStaff	[['Dezaki, Satoshi', 'Director'], ['Chiba, Akio', 'Original Creator'], ['Kiyoyama, Shigetaka', 'Character Design'], ['Shimizu, Keizou', 'Animation Director']]

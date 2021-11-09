@@ -1,5 +1,5 @@
-animeTitle	b'Saint Seiya: Meiou Hades Meikai-hen'
-animeType	b'OVA'
+animeTitle	Saint Seiya: Meiou Hades Meikai-hen
+animeType	OVA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.75
 animeUsers	27057
 animeRank	
-animePopularity	
-animeDescription	b'Seiya and the rest of the Bronze and Gold Saints who have survived the Sanctuary battle have entered the world of the Dead. They are fighting to get to Hades and defeat him. \n\n(Source: ANN)'
-animeRelated	[b'Saint Seiya', b'Saint Seiya: Meiou Hades Juuni Kyuu-hen', b'Saint Seiya: Meiou Hades Elysion-hen']
-animeCharacters	[b'Phoenix, Ikki', b'Dragon, Shiryuu', b'Pegasus, Seiya', b'Andromeda, Shun', b'Cygnus, Hyouga', b'Virgo, Shaka', b'Gemini, Saga', b'Aquarius, Camus', b'Aries, Muu', b'Leo, Aiolia']
-animeVoices	[b'\nKonishi, Katsuyuki\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nMorita, Masakazu\nJapanese\n', b'\nKasuya, Yuuta\nJapanese\n', b'\nMiura, Hiroaki\nJapanese\n', b'\nMitsuya, Yuuji\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKatsumata, Tomoharu\n\nDirector, Storyboard\n\n', b'\nCruz, Ricardo\n\nTheme Song Performance\n\n', b'\nMatsuzawa, Yumi\n\nTheme Song Performance\n\n', b'\nKurumada, Masami\n\nOriginal Creator\n\n']
+animePopularity	2676
+animeDescription	"Seiya and the rest of the Bronze and Gold Saints who have survived the Sanctuary battle have entered the world of the Dead. They are fighting to get to Hades and defeat him. 
+
+(Source: ANN)"
+animeRelated	['Saint Seiya', 'Saint Seiya: Meiou Hades Juuni Kyuu-hen', 'Saint Seiya: Meiou Hades Elysion-hen']
+animeCharacters	['Phoenix, Ikki', 'Dragon, Shiryuu', 'Pegasus, Seiya', 'Andromeda, Shun', 'Cygnus, Hyouga', 'Virgo, Shaka', 'Gemini, Saga', 'Aquarius, Camus', 'Aries, Muu', 'Leo, Aiolia']
+animeVoices	['Konishi, Katsuyuki', 'Sakurai, Takahiro', 'Morita, Masakazu', 'Kasuya, Yuuta', 'Miura, Hiroaki', 'Mitsuya, Yuuji', 'Okiayu, Ryoutarou', 'Canna, Nobutoshi', 'Yamazaki, Takumi', 'Tanaka, Hideyuki']
+animeStaff	[['Katsumata, Tomoharu', 'Director, Storyboard'], ['Cruz, Ricardo', 'Theme Song Performance'], ['Matsuzawa, Yumi', 'Theme Song Performance'], ['Kurumada, Masami', 'Original Creator']]

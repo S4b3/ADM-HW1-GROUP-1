@@ -1,5 +1,5 @@
-animeTitle	b'Shaman King'
-animeType	b'TV'
+animeTitle	Shaman King
+animeType	TV
 animeNumEpisode	64
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.77
 animeUsers	168196
 animeRank	
-animePopularity	
-animeDescription	"b""A battle is about to begin in Tokyo: the Shaman Fight, a tournament held every five hundred years where shaman\xe2\x80\x94those who can command spirits\xe2\x80\x94confront each other in combat. The victor of this contest becomes the Shaman King and the only one who is able to contact and control the Great Spirit, allowing them to reshape the world as they please through its immense power.\n\nDuring a late night walk, Manta Oyamada runs into his classmate, the carefree You Asakura, who invites him to come stargazing with some friends, who, to Manta's horror, turn out to be ghosts from a local cemetery! However, the knowledge that Manta possesses\xe2\x80\x94a rare sixth sense that allows Manta to see these spirits\xe2\x80\x94endears the boy to You. So when You finds out that his new comrade has been beaten up by a local gang, he decides to avenge him with the help of Amidamaru, a samurai ghost whose tomb was broken by the gang leader. \n\nSoon Manta uncovers more about the world of spirits, including the Shaman Fight, in which his new friend You aims to claim victory.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Shaman King', b'Shaman King Specials', b'Shaman King (2021)']
-animeCharacters	[b'Asakura, You', b'Asakura, Hao', b'Kyouyama, Anna', b'Tao, Ren', b'Amidamaru', b'Oyamada, Manta', b'Faust VIII, Johann', b'Usui, Horokeu', b'Umemiya, Ryuunosuke', b'Diethel, Lyserg']
-animeVoices	[b'\nSatou, Yuuko\nJapanese\n', b'\nTakayama, Minami\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nTanaka, Masahiko\nJapanese\n', b'\nSoumi, Youko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamakawa, Norio\n\nAssistant Producer\n\n', b'\nMizushima, Seiji\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nHabara, Nobuyoshi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	520
+animeDescription	"A battle is about to begin in Tokyo: the Shaman Fight, a tournament held every five hundred years where shaman—those who can command spirits—confront each other in combat. The victor of this contest becomes the Shaman King and the only one who is able to contact and control the Great Spirit, allowing them to reshape the world as they please through its immense power.
+
+During a late night walk, Manta Oyamada runs into his classmate, the carefree You Asakura, who invites him to come stargazing with some friends, who, to Manta's horror, turn out to be ghosts from a local cemetery! However, the knowledge that Manta possesses—a rare sixth sense that allows Manta to see these spirits—endears the boy to You. So when You finds out that his new comrade has been beaten up by a local gang, he decides to avenge him with the help of Amidamaru, a samurai ghost whose tomb was broken by the gang leader. 
+
+Soon Manta uncovers more about the world of spirits, including the Shaman Fight, in which his new friend You aims to claim victory.
+
+[Written by MAL Rewrite]"
+animeRelated	['Shaman King', 'Shaman King Specials', 'Shaman King (2021)']
+animeCharacters	['Asakura, You', 'Asakura, Hao', 'Kyouyama, Anna', 'Tao, Ren', 'Amidamaru', 'Oyamada, Manta', 'Faust VIII, Johann', 'Usui, Horokeu', 'Umemiya, Ryuunosuke', 'Diethel, Lyserg']
+animeVoices	['Satou, Yuuko', 'Takayama, Minami', 'Hayashibara, Megumi', 'Park, Romi', 'Konishi, Katsuyuki', 'Inuyama, Inuko', 'Koyasu, Takehito', 'Ueda, Yuuji', 'Tanaka, Masahiko', 'Soumi, Youko']
+animeStaff	[['Yamakawa, Norio', 'Assistant Producer'], ['Mizushima, Seiji', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Habara, Nobuyoshi', 'Episode Director, Storyboard']]

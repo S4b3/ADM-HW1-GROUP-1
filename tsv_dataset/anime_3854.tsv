@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 08: Nobita to Ryuu no Kishi'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 08: Nobita to Ryuu no Kishi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.98
 animeUsers	2154
 animeRank	
-animePopularity	
-animeDescription	"b""Doraemon created a hideout for everyone in an underground cave and Suneo got lost. Everyone came back out except Suneo. After finding out that he was lost the entrance was broken. They have to find another entrance to the caves and end up in a dinosaur world. Vanho , a soldier rescued them and said that he found Suneo. When they found Suneo they found out about Vanho's people's plans. Their plan it to study Doraemon's group as human specimens and take over Earth's suface .\n\n(Source: ANN)"""
-animeRelated	[b'Daichouhen Doraemon', b'Doraemon (1979)']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi', b'Gouda, Mother']
-animeVoices	[b'\nOoyama, Nobuyo\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nNomura, Michiko\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nTatekabe, Kazuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShibayama, Tsutomu\n\nDirector\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nTakeda, Tetsuya\n\nTheme Song Lyrics\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n']
+animePopularity	7690
+animeDescription	"Doraemon created a hideout for everyone in an underground cave and Suneo got lost. Everyone came back out except Suneo. After finding out that he was lost the entrance was broken. They have to find another entrance to the caves and end up in a dinosaur world. Vanho , a soldier rescued them and said that he found Suneo. When they found Suneo they found out about Vanho's people's plans. Their plan it to study Doraemon's group as human specimens and take over Earth's suface .
+
+(Source: ANN)"
+animeRelated	['Daichouhen Doraemon', 'Doraemon (1979)']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Gouda, Mother']
+animeVoices	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Nomura, Michiko', 'Kimotsuki, Kaneta', 'Tatekabe, Kazuya']
+animeStaff	[['Shibayama, Tsutomu', 'Director'], ['Urakami, Yasuo', 'Sound Director'], ['Takeda, Tetsuya', 'Theme Song Lyrics'], ['Fujiko, Fujio F.', 'Original Creator']]

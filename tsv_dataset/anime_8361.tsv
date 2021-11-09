@@ -1,5 +1,5 @@
-animeTitle	b'Angelique: Twin Collection'
-animeType	b'OVA'
+animeTitle	Angelique: Twin Collection
+animeType	OVA
 animeNumEpisode	8
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.06
 animeUsers	277
 animeRank	
-animePopularity	
-animeDescription	b'As the title implies, this series features a pair of characters per episode. Each DVD has one music video for each character, plus one part of an eight part story. Annoyingly, the music videos are for the short versions of the songs, not the full versions... to get those, you had to buy the Twin Collection CDs.\n\n(Source: Neo-Romance)'
-animeRelated	[b'Angelique: Shiroi Tsubasa no Memoire']
-animeCharacters	[b'Randy', b'Clavis', b'Olivie', b'Zephel', b'Oscar', b'Julious', b'Luva', b'Lumiale', b'Marcel', b'Arios']
-animeVoices	[b'\nCanna, Nobutoshi\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nYuuki, Hiro\nJapanese\n', b'\nNarita, Ken\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoyasu, Takehito\n\nTheme Song Performance\n\n', b'\nMorikawa, Toshiyuki\n\nTheme Song Performance\n\n', b'\nTachiki, Fumihiko\n\nTheme Song Performance\n\n', b'\nHayami, Show\n\nTheme Song Performance\n\n']
+animePopularity	10291
+animeDescription	"As the title implies, this series features a pair of characters per episode. Each DVD has one music video for each character, plus one part of an eight part story. Annoyingly, the music videos are for the short versions of the songs, not the full versions... to get those, you had to buy the Twin Collection CDs.
+
+(Source: Neo-Romance)"
+animeRelated	['Angelique: Shiroi Tsubasa no Memoire']
+animeCharacters	['Randy', 'Clavis', 'Olivie', 'Zephel', 'Oscar', 'Julious', 'Luva', 'Lumiale', 'Marcel', 'Arios']
+animeVoices	['Canna, Nobutoshi', 'Tanaka, Hideyuki', 'Koyasu, Takehito', 'Iwata, Mitsuo', 'Horiuchi, Kenyuu', 'Hayami, Show', 'Seki, Toshihiko', 'Tobita, Nobuo', 'Yuuki, Hiro', 'Narita, Ken']
+animeStaff	[['Koyasu, Takehito', 'Theme Song Performance'], ['Morikawa, Toshiyuki', 'Theme Song Performance'], ['Tachiki, Fumihiko', 'Theme Song Performance'], ['Hayami, Show', 'Theme Song Performance']]

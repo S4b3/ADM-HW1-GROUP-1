@@ -1,5 +1,5 @@
-animeTitle	b'Choboraunyopomi Gekijou Ai Mai Mii'
-animeType	b'TV'
+animeTitle	Choboraunyopomi Gekijou Ai Mai Mii
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.83
 animeUsers	11810
 animeRank	
-animePopularity	
-animeDescription	"b'The anime adaptation of the four-panel manga ""Ai Mai Mii"".\n\nThe story follows girls in a manga club\xe2\x80\x94Ai, Mai, Mii, and Ponoka-senpai\xe2\x80\x94who might be fighting evil invaders threatening Earth, facing off against rivals in tournaments, and dealing with other absurd situations when they are not drawing manga.\n\n(Source: ANN)'"
-animeRelated	[b'Ai Mai Mii', b'Choboraunyopomi Gekijou Dai Ni Maku Ai Mai Mii: Mousou Catastrophe']
-animeCharacters	[b'Ponoka', b'Mii', b'Mai', b'Ai', b'Narrator', b'Akimoto, Lucas-san', b'London, Alisa']
-animeVoices	[b'\nKayano, Ai\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nUchida, Aya\nJapanese\n', b'\nOotsubo, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImazaki, Itsuki\n\nDirector, Editing, Character Design\n\n', b'\nKawazoe, Kengo\n\nSound Director\n\n', b'\nUchida, Maaya\n\nTheme Song Performance\n\n', b'\nUchida, Aya\n\nTheme Song Performance\n\n']
+animePopularity	3424
+animeDescription	"The anime adaptation of the four-panel manga ""Ai Mai Mii"".
+
+The story follows girls in a manga club—Ai, Mai, Mii, and Ponoka-senpai—who might be fighting evil invaders threatening Earth, facing off against rivals in tournaments, and dealing with other absurd situations when they are not drawing manga.
+
+(Source: ANN)"
+animeRelated	['Ai Mai Mii', 'Choboraunyopomi Gekijou Dai Ni Maku Ai Mai Mii: Mousou Catastrophe']
+animeCharacters	['Ponoka', 'Mii', 'Mai', 'Ai', 'Narrator', 'Akimoto, Lucas-san', 'London, Alisa']
+animeVoices	['Kayano, Ai', 'Uchida, Maaya', 'Uchida, Aya', 'Ootsubo, Yuka']
+animeStaff	[['Imazaki, Itsuki', 'Director, Editing, Character Design'], ['Kawazoe, Kengo', 'Sound Director'], ['Uchida, Maaya', 'Theme Song Performance'], ['Uchida, Aya', 'Theme Song Performance']]

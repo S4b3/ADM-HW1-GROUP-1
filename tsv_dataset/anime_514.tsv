@@ -1,5 +1,5 @@
-animeTitle	b'D.Gray-man'
-animeType	b'TV'
+animeTitle	D.Gray-man
+animeType	TV
 animeNumEpisode	103
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.03
 animeUsers	230891
 animeRank	
-animePopularity	
-animeDescription	"b'Losing a loved one is so painful that one may sometimes wish to be able to resurrect them\xe2\x80\x94a weakness that the enigmatic Millennium Earl exploits. To make his mechanical weapons known as ""Akuma,"" he uses the souls of the dead that are called back. Once a soul is placed in an Akuma, it is trapped forever, and the only way to save them is to exorcise them from their vessel using the Anti-Akuma weapon, ""Innocence.""\n\nAfter spending three years as the disciple of General Cross, Allen Walker is sent to the Black Order\xe2\x80\x94an organization comprised of those willing to fight Akuma and the Millennium Earl\xe2\x80\x94to become an official Exorcist. With an arm as his Innocence and a cursed eye that can see the suffering souls within an Akuma, it\'s up to Allen and his fellow Exorcists to stop the Millennium Earl\'s ultimate plot: one that can lead to the destruction of the world.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'D.Gray-man', b'D.Gray-man Hallow']
-animeCharacters	[b'Walker, Allen', b'Lavi', b'Kanda, Yuu', b'Lee, Lenalee', b'Mikk, Tyki', b'Kamelot, Road', b'Marian, Cross', b'Crowley III, Aleister', b'Millennium Earl', b'Lee, Komui']
-animeVoices	[b'\nKobayashi, Sanae\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nShimizu, Ai\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nTakiguchi, Junpei\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSabat, Christopher\n\nProducer, ADR Director\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nHarp, Clarine\n\nProducer\n\n', b'\nIwata, Shiniichi\n\nProducer\n\n']
+animePopularity	232
+animeDescription	"Losing a loved one is so painful that one may sometimes wish to be able to resurrect them—a weakness that the enigmatic Millennium Earl exploits. To make his mechanical weapons known as ""Akuma,"" he uses the souls of the dead that are called back. Once a soul is placed in an Akuma, it is trapped forever, and the only way to save them is to exorcise them from their vessel using the Anti-Akuma weapon, ""Innocence.""
+
+After spending three years as the disciple of General Cross, Allen Walker is sent to the Black Order—an organization comprised of those willing to fight Akuma and the Millennium Earl—to become an official Exorcist. With an arm as his Innocence and a cursed eye that can see the suffering souls within an Akuma, it's up to Allen and his fellow Exorcists to stop the Millennium Earl's ultimate plot: one that can lead to the destruction of the world.
+
+[Written by MAL Rewrite]"
+animeRelated	['D.Gray-man', 'D.Gray-man Hallow']
+animeCharacters	['Walker, Allen', 'Lavi', 'Kanda, Yuu', 'Lee, Lenalee', 'Mikk, Tyki', 'Kamelot, Road', 'Marian, Cross', 'Crowley III, Aleister', 'Millennium Earl', 'Lee, Komui']
+animeVoices	['Kobayashi, Sanae', 'Suzumura, Kenichi', 'Sakurai, Takahiro', 'Itou, Shizuka', 'Morikawa, Toshiyuki', 'Shimizu, Ai', 'Touchi, Hiroki', 'Iwata, Mitsuo', 'Takiguchi, Junpei', 'Konishi, Katsuyuki']
+animeStaff	[['Sabat, Christopher', 'Producer, ADR Director'], ['Cook, Justin', 'Producer'], ['Harp, Clarine', 'Producer'], ['Iwata, Shiniichi', 'Producer']]

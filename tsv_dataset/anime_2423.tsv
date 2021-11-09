@@ -1,5 +1,5 @@
-animeTitle	b'Star Wars: Visions'
-animeType	b'ONA'
+animeTitle	Star Wars: Visions
+animeType	ONA
 animeNumEpisode	9
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.3
 animeUsers	23671
 animeRank	
-animePopularity	
-animeDescription	"b""Presenting all-new, creative takes on the galaxy far, far away, Star Wars: Visions will be a series of animated short films celebrating Star Wars through the lens of the world's best anime creators. The anthology collection will bring nine fantastic visions from several of the leading Japanese anime studios, offering a fresh and diverse cultural perspective to Star Wars.\n\n(Source: Disney+)"""
+animePopularity	2489
+animeDescription	"Presenting all-new, creative takes on the galaxy far, far away, Star Wars: Visions will be a series of animated short films celebrating Star Wars through the lens of the world's best anime creators. The anthology collection will bring nine fantastic visions from several of the leading Japanese anime studios, offering a fresh and diverse cultural perspective to Star Wars.
+
+(Source: Disney+)"
 animeRelated	[]
-animeCharacters	[b'Fett, Boba', b'F', b'Lop', b'Ronin', b'Am', b'Karre', b'Tajin', b'Kara', b'Dan', b'Haru']
-animeVoices	[b'\nSeto, Asami\nJapanese\n', b'\nKobayashi, Seiran\nJapanese\n', b'\nTerasoma, Masaki\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nEnoki, Junya\nJapanese\n', b'\nAkasaki, Chinatsu\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nHan, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImaishi, Hiroyuki\n\nDirector\n\n', b'\nKamiyama, Kenji\n\nDirector\n\n', b'\nChoi, Eun-Young\n\nDirector\n\n', b'\nOotsuka, Masahiko\n\nDirector\n\n']
+animeCharacters	['Fett, Boba', 'F', 'Lop', 'Ronin', 'Am', 'Karre', 'Tajin', 'Kara', 'Dan', 'Haru']
+animeVoices	['Seto, Asami', 'Kobayashi, Seiran', 'Terasoma, Masaki', 'Shiraishi, Ryouko', 'Enoki, Junya', 'Akasaki, Chinatsu', 'Nakamura, Yuuichi', 'Han, Megumi']
+animeStaff	[['Imaishi, Hiroyuki', 'Director'], ['Kamiyama, Kenji', 'Director'], ['Choi, Eun-Young', 'Director'], ['Ootsuka, Masahiko', 'Director']]

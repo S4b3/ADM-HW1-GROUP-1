@@ -1,5 +1,5 @@
-animeTitle	b'Appleseed XIII'
-animeType	b'OVA'
+animeTitle	Appleseed XIII
+animeType	OVA
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.34
 animeUsers	3172
 animeRank	
-animePopularity	
-animeDescription	b'After facing massive destruction from a devastating war, the city Olympus has become the last stronghold as the center of command for the world. In order to protect the city from a group of terrorists known as the Argonauts, former LAPD SWAT member, Deunan Knotts, runs special military forces consisting of Biroids (cloned humans) and her cyborg partner Brialeos. Knotts must protect the city at all costs but is met with difficulties when Al Ceides, the Argonaut leader thought to be dead, resurfaces and causes problems. \n\n(Source: FUNimation) '
-animeRelated	[b'Appleseed XIII', b'Appleseed (Movie)', b'Appleseed', b'Appleseed Alpha', b'Appleseed XIII Remix Movie 1: Yuigon', b'Appleseed XIII Remix Movie 2: Yogen']
-animeCharacters	[b'Knute, Deunan', b'Briareos', b'Areios, Athena', b'Hitomi', b'Chades, Deia', b'Nike', b'Magus', b'Baxter', b'Lance', b'Yoshitsune']
-animeVoices	[b'\nSakamoto, Maaya\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nTamagawa, Sakiko\nJapanese\n', b'\nTakahashi, Mikako\nJapanese\n', b'\nShindo, Naomi\nJapanese\n', b'\nYanagisawa, Mayumi\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nSugawara, Masashi\nJapanese\n', b'\nUchida, Naoya\nJapanese\n', b'\nShimono, Hiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorishita, Katsuji\n\nProducer\n\n', b'\nHamana, Takayuki\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nUmehara, Eiji\n\nScript\n\n']
+animePopularity	4734
+animeDescription	"After facing massive destruction from a devastating war, the city Olympus has become the last stronghold as the center of command for the world. In order to protect the city from a group of terrorists known as the Argonauts, former LAPD SWAT member, Deunan Knotts, runs special military forces consisting of Biroids (cloned humans) and her cyborg partner Brialeos. Knotts must protect the city at all costs but is met with difficulties when Al Ceides, the Argonaut leader thought to be dead, resurfaces and causes problems. 
+
+(Source: FUNimation) "
+animeRelated	['Appleseed XIII', 'Appleseed (Movie)', 'Appleseed', 'Appleseed Alpha', 'Appleseed XIII Remix Movie 1: Yuigon', 'Appleseed XIII Remix Movie 2: Yogen']
+animeCharacters	['Knute, Deunan', 'Briareos', 'Areios, Athena', 'Hitomi', 'Chades, Deia', 'Nike', 'Magus', 'Baxter', 'Lance', 'Yoshitsune']
+animeVoices	['Sakamoto, Maaya', 'Yamadera, Kouichi', 'Tamagawa, Sakiko', 'Takahashi, Mikako', 'Shindo, Naomi', 'Yanagisawa, Mayumi', 'Nakata, Jouji', 'Sugawara, Masashi', 'Uchida, Naoya', 'Shimono, Hiro']
+animeStaff	[['Morishita, Katsuji', 'Producer'], ['Hamana, Takayuki', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Umehara, Eiji', 'Script']]

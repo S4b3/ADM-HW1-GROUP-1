@@ -1,5 +1,5 @@
-animeTitle	b'Shokupan Mimi'
-animeType	b'TV'
+animeTitle	Shokupan Mimi
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.64
 animeUsers	719
 animeRank	
-animePopularity	
-animeDescription	"b""The story is about the daily life of a piece of bread named Mimi, and some of her friends and family. Based on Shimamori Natsuko's Shokupan Mimi (White Bread Mimi) 4-panel manga."""
-animeRelated	[b'Shokupan Mimi Specials']
-animeCharacters	[b'Puchitoma-chan', b'Hammy', b'Mimi', b'Bata-chan', b'Narrator', b'Pansome-kun']
-animeVoices	[b'\nTomioka, Misako\nJapanese\n', b'\nMiyazaki, Ui\nJapanese\n', b'\nNogawa, Sakura\nJapanese\n', b'\nGotou, Saori\nJapanese\n', b'\nMorishima, Shuuta\nJapanese\n', b'\nHirayama, Emi\nJapanese\n']
+animePopularity	10123
+animeDescription	The story is about the daily life of a piece of bread named Mimi, and some of her friends and family. Based on Shimamori Natsuko's Shokupan Mimi (White Bread Mimi) 4-panel manga.
+animeRelated	['Shokupan Mimi Specials']
+animeCharacters	['Puchitoma-chan', 'Hammy', 'Mimi', 'Bata-chan', 'Narrator', 'Pansome-kun']
+animeVoices	['Tomioka, Misako', 'Miyazaki, Ui', 'Nogawa, Sakura', 'Gotou, Saori', 'Morishima, Shuuta', 'Hirayama, Emi']
 animeStaff	[]

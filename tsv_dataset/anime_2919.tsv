@@ -1,5 +1,5 @@
-animeTitle	b'Shakugan no Shana-tan II (Second)'
-animeType	b'Special'
+animeTitle	Shakugan no Shana-tan II (Second)
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	7.19
 animeUsers	20382
 animeRank	
-animePopularity	
-animeDescription	b'Shana-tan specials bundled with the limited edition first and fifth volumes of the Shakugan no Shana II (Second) DVD and the limited edition Shakugan no Shana II (Second) guide book.\n\nEpisodes\n#1: Shakugan no Shana-tan Begins\n#2: Shakugan no Shana-tan & Yoshida: Konoe Fumina no Gyakushuu\n#3: Shakugan no Shana-tan Revenge'
-animeRelated	[b'Shakugan no Shana-tan', b'Shakugan no Shana II (Second)', b'Shakugan no Shana-tan S']
-animeCharacters	[b'Shana', b'Sakai, Yuuji', b'Hecate', b'Daw, Margery', b'Yoshida, Kazumi', b'Carmel, Wilhelmina', b'Sabrac', b'Satou, Keisaku', b'Konoe, Fumina', b'Ike, Hayato']
-animeVoices	[b'\nKugimiya, Rie\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nKuroda, Takaya\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nNojima, Hirofumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItou, Noizi\n\nOriginal Character Design\n\n', b'\nOtani, Kow\n\nMusic\n\n', b'\nTakahashi, Yashichiro\n\nOriginal Creator\n\n', b'\nOotsuka, Mai\n\nCharacter Design\n\n']
+animePopularity	2790
+animeDescription	"Shana-tan specials bundled with the limited edition first and fifth volumes of the Shakugan no Shana II (Second) DVD and the limited edition Shakugan no Shana II (Second) guide book.
+
+Episodes
+#1: Shakugan no Shana-tan Begins
+#2: Shakugan no Shana-tan & Yoshida: Konoe Fumina no Gyakushuu
+#3: Shakugan no Shana-tan Revenge"
+animeRelated	['Shakugan no Shana-tan', 'Shakugan no Shana II (Second)', 'Shakugan no Shana-tan S']
+animeCharacters	['Shana', 'Sakai, Yuuji', 'Hecate', 'Daw, Margery', 'Yoshida, Kazumi', 'Carmel, Wilhelmina', 'Sabrac', 'Satou, Keisaku', 'Konoe, Fumina', 'Ike, Hayato']
+animeVoices	['Kugimiya, Rie', 'Hino, Satoshi', 'Noto, Mamiko', 'Nabatame, Hitomi', 'Kawasumi, Ayako', 'Itou, Shizuka', 'Kuroda, Takaya', 'Nojima, Kenji', 'Nojima, Hirofumi']
+animeStaff	[['Itou, Noizi', 'Original Character Design'], ['Otani, Kow', 'Music'], ['Takahashi, Yashichiro', 'Original Creator'], ['Ootsuka, Mai', 'Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Evangelion: 1.0 You Are (Not) Alone'
-animeType	b'Movie'
+animeTitle	Evangelion: 1.0 You Are (Not) Alone
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	8.03
 animeUsers	269515
 animeRank	
-animePopularity	
-animeDescription	"b'In a post-apocalyptic world, the last remaining human settlement in Japan is the heavily fortified city of Tokyo-3. Fourteen-year-old Shinji Ikari is brought to the headquarters of NERV, an underground organization lead by his estranged father, Gendou. He requests that Shinji become a pilot of an ""Evangelion,"" a colossal android built to fight against monstrous and destructive alien creatures known as ""Angels"" that wreak havoc on the planet and threaten the survival of the remaining human race.\n\nAlthough initially reluctant, Shinji is swayed by the idea of reconciling with his father, and agrees to aid in mankind\'s perilous endeavor against its alien threat, as the pilot of Evangelion Unit-01. Thrust into the midst of a dangerous battlefield, Shinji must find the necessary courage and resolve to face against the Angels\' incursions before it is too late.\n\n[Written by MAL Rewrite]\n'"
-animeRelated	[b'Neon Genesis Evangelion', b'Evangelion: 2.0 You Can (Not) Advance', b'Peaceful Times (F02) Petit Film', b'Beautiful World']
-animeCharacters	[b'Ikari, Shinji', b'Ayanami, Rei', b'Katsuragi, Misato', b'Nagisa, Kaworu', b'Pen Pen', b'Ikari, Gendou', b'Akagi, Ritsuko', b'Suzuhara, Touji', b'Ibuki, Maya', b'Ikari, Yui']
-animeVoices	[b'\nOgata, Megumi\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nTachiki, Fumihiko\nJapanese\n', b'\nYamaguchi, Yuriko\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nAnno, Hideaki\n\nDirector, Script, Storyboard, Creator, Key Animation, Screenplay\n\n', b'\nTsurumaki, Kazuya\n\nDirector, Storyboard, Key Animation\n\n', b'\nMasayuki\n\nDirector, Key Animation\n\n']
+animePopularity	363
+animeDescription	"In a post-apocalyptic world, the last remaining human settlement in Japan is the heavily fortified city of Tokyo-3. Fourteen-year-old Shinji Ikari is brought to the headquarters of NERV, an underground organization lead by his estranged father, Gendou. He requests that Shinji become a pilot of an ""Evangelion,"" a colossal android built to fight against monstrous and destructive alien creatures known as ""Angels"" that wreak havoc on the planet and threaten the survival of the remaining human race.
+
+Although initially reluctant, Shinji is swayed by the idea of reconciling with his father, and agrees to aid in mankind's perilous endeavor against its alien threat, as the pilot of Evangelion Unit-01. Thrust into the midst of a dangerous battlefield, Shinji must find the necessary courage and resolve to face against the Angels' incursions before it is too late.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Neon Genesis Evangelion', 'Evangelion: 2.0 You Can (Not) Advance', 'Peaceful Times (F02) Petit Film', 'Beautiful World']
+animeCharacters	['Ikari, Shinji', 'Ayanami, Rei', 'Katsuragi, Misato', 'Nagisa, Kaworu', 'Pen Pen', 'Ikari, Gendou', 'Akagi, Ritsuko', 'Suzuhara, Touji', 'Ibuki, Maya', 'Ikari, Yui']
+animeVoices	['Ogata, Megumi', 'Hayashibara, Megumi', 'Mitsuishi, Kotono', 'Ishida, Akira', 'Tachiki, Fumihiko', 'Yamaguchi, Yuriko', 'Seki, Tomokazu']
+animeStaff	[['Cook, Justin', 'Producer'], ['Anno, Hideaki', 'Director, Script, Storyboard, Creator, Key Animation, Screenplay'], ['Tsurumaki, Kazuya', 'Director, Storyboard, Key Animation'], ['Masayuki', 'Director, Key Animation']]

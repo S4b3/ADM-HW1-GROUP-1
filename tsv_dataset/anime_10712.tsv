@@ -1,5 +1,5 @@
-animeTitle	b'1-gatsu ni wa Christmas'
-animeType	b'OVA'
+animeTitle	1-gatsu ni wa Christmas
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.38
 animeUsers	424
 animeRank	
-animePopularity	
-animeDescription	b'Nobumasa is a boy who works part-time in a shoe store, where he meets Mizuki, a girl whose abusive family life has left her unable to trust other people. Meanwhile, Nobumasa is unaware that another girl, Seiko, has a crush on him but is unable to express her feelings.\n\n(Source: The Anime Encyclopedia)'
+animePopularity	10846
+animeDescription	"Nobumasa is a boy who works part-time in a shoe store, where he meets Mizuki, a girl whose abusive family life has left her unable to trust other people. Meanwhile, Nobumasa is unaware that another girl, Seiko, has a crush on him but is unable to express her feelings.
+
+(Source: The Anime Encyclopedia)"
 animeRelated	[]
-animeCharacters	[b'Fujioka, Junsho', b'Mizuki', b'Kashiwagi, Seiko']
-animeVoices	[b'\nKoyasu, Takehito\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Satoshi\n\nDirector\n\n', b'\nWakabayashi, Atsushi\n\nKey Animation\n\n', b'\nIwadate, Mariko\n\nOriginal Creator\n\n']
+animeCharacters	['Fujioka, Junsho', 'Mizuki', 'Kashiwagi, Seiko']
+animeVoices	['Koyasu, Takehito', 'Hayashibara, Megumi', 'Hidaka, Noriko']
+animeStaff	[['Dezaki, Satoshi', 'Director'], ['Wakabayashi, Atsushi', 'Key Animation'], ['Iwadate, Mariko', 'Original Creator']]

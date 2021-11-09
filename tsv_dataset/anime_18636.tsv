@@ -1,5 +1,5 @@
-animeTitle	b'Midnight Panther'
-animeType	b'OVA'
+animeTitle	Midnight Panther
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.78
 animeUsers	837
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the Best-Selling Comics From CPM Manga! The traveling musical group The Pussycats is the hottest thing around. Lou, Kei and Sonya are three, sexy singers with a legion of screaming fans in every town. But these pussycats have claws. \n\nSingers by day, assassins by night. Unbeknownst to their fans, The Pussy Cats are also The Midnight Panthers\xe2\x80\x94female assassins who will kill anyone if the price is right! Their next target is a despotic king who rules by fear and crushes dissension with an iron fist. But for one of the Panthers, it's not just another job... it's personal. \n\n(Source: AniDB)"""
-animeRelated	[b'Midnight Panther']
-animeCharacters	[b'Sonya', b'Sinclair, Kei', b'Lukish', b'Elohim Gibor II, Bad', b'Captain', b'Baba', b'Dark']
-animeVoices	[b'\nYamaguchi, Yuriko\nJapanese\n', b'\nAsami, Junko\nJapanese\n', b'\nUchikawa, Ai\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nFuruta, Nobuyuki\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nTsukui, Kyousei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKageyama, Shigenori\n\nDirector, Script, Storyboard, Screenplay\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nRinshin\n\nAnimation Director, Character Design\n\n', b'\nOoshiro, Tsutomu\n\nKey Animation\n\n']
+animePopularity	9165
+animeDescription	"Based on the Best-Selling Comics From CPM Manga! The traveling musical group The Pussycats is the hottest thing around. Lou, Kei and Sonya are three, sexy singers with a legion of screaming fans in every town. But these pussycats have claws. 
+
+Singers by day, assassins by night. Unbeknownst to their fans, The Pussy Cats are also The Midnight Panthers—female assassins who will kill anyone if the price is right! Their next target is a despotic king who rules by fear and crushes dissension with an iron fist. But for one of the Panthers, it's not just another job... it's personal. 
+
+(Source: AniDB)"
+animeRelated	['Midnight Panther']
+animeCharacters	['Sonya', 'Sinclair, Kei', 'Lukish', 'Elohim Gibor II, Bad', 'Captain', 'Baba', 'Dark']
+animeVoices	['Yamaguchi, Yuriko', 'Asami, Junko', 'Uchikawa, Ai', 'Miki, Shinichiro', 'Furuta, Nobuyuki', 'Inoue, Kazuhiko', 'Tsukui, Kyousei']
+animeStaff	[['Kageyama, Shigenori', 'Director, Script, Storyboard, Screenplay'], ['Tsuruoka, Youta', 'Sound Director'], ['Rinshin', 'Animation Director, Character Design'], ['Ooshiro, Tsutomu', 'Key Animation']]

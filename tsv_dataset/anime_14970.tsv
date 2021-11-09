@@ -1,5 +1,5 @@
-animeTitle	b'Bean Bandit'
-animeType	b'OVA'
+animeTitle	Bean Bandit
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Gunsmith Cats', b'Riding Bean']
-animeCharacters	[b'Vincent, Irene', b'Bandit, Bean', b'Hopkins, May', b'Farrah, Becky']
-animeVoices	[b'\nAsai, Ayaka\nJapanese\n', b'\nTakahashi, Hidenori\nJapanese\n', b'\nIgarashi, Hiromi\nJapanese\n', b'\nKitamura, Eri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSonoda, Kenichi\n\nDirector, Script, Chief Animation Director, Original Creator, Planning\n\n', b'\nAoki, Yuu\n\nDirector\n\n', b'\nHirasawa, Hisayoshi\n\nSound Director\n\n', b'\nShimizu, Keizou\n\nCharacter Design\n\n']
+animePopularity	7872
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Gunsmith Cats', 'Riding Bean']
+animeCharacters	['Vincent, Irene', 'Bandit, Bean', 'Hopkins, May', 'Farrah, Becky']
+animeVoices	['Asai, Ayaka', 'Takahashi, Hidenori', 'Igarashi, Hiromi', 'Kitamura, Eri']
+animeStaff	[['Sonoda, Kenichi', 'Director, Script, Chief Animation Director, Original Creator, Planning'], ['Aoki, Yuu', 'Director'], ['Hirasawa, Hisayoshi', 'Sound Director'], ['Shimizu, Keizou', 'Character Design']]

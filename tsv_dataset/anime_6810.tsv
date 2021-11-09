@@ -1,5 +1,5 @@
-animeTitle	b'Miyamoto Musashi: Souken ni Haseru Yume'
-animeType	b'Movie'
+animeTitle	Miyamoto Musashi: Souken ni Haseru Yume
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.37
 animeUsers	1548
 animeRank	
-animePopularity	
-animeDescription	"b""The film's story centers on Musashi Miyamoto, one of the most famous swordsmen in Japanese history. He pioneered the Hyouhou Niten Ichi-ryuu style of two-sword fighting and wrote The Book of Five Rings, a book that has been compared to Sun Tzu's The Art of War for its insight on tactics and strategy."""
+animePopularity	6561
+animeDescription	The film's story centers on Musashi Miyamoto, one of the most famous swordsmen in Japanese history. He pioneered the Hyouhou Niten Ichi-ryuu style of two-sword fighting and wrote The Book of Five Rings, a book that has been compared to Sun Tzu's The Art of War for its insight on tactics and strategy.
 animeRelated	[]
-animeCharacters	[b'Yoshioka, Denshichiro']
+animeCharacters	['Yoshioka, Denshichiro']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorishita, Katsuji\n\nProducer\n\n', b'\nNishikubo, Mizuho\n\nDirector, Storyboard\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nOshii, Mamoru\n\nScript, Original Creator\n\n']
+animeStaff	[['Morishita, Katsuji', 'Producer'], ['Nishikubo, Mizuho', 'Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director'], ['Oshii, Mamoru', 'Script, Original Creator']]

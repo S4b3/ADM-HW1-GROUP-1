@@ -1,5 +1,5 @@
-animeTitle	b'Cyborg 009: The Reopening'
-animeType	b'Special'
+animeTitle	Cyborg 009: The Reopening
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.51
 animeUsers	575
 animeRank	
-animePopularity	
-animeDescription	b'A short 3D CGI anime of Cyborg 009 produced by director Oshii Mamoru.'
-animeRelated	[b'Cyborg 009 (TV)', b'009 Re:Cyborg']
-animeCharacters	[b'Shimamura, Joe', b'Link, Jet', b'Arnoul, Fran\xc3\xa7oise']
+animePopularity	9804
+animeDescription	A short 3D CGI anime of Cyborg 009 produced by director Oshii Mamoru.
+animeRelated	['Cyborg 009 (TV)', '009 Re:Cyborg']
+animeCharacters	['Shimamura, Joe', 'Link, Jet', 'Arnoul, Françoise']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOshii, Mamoru\n\nDirector\n\n', b'\nKawai, Kenji\n\nMusic\n\n', b'\nKamiyama, Kenji\n\nScreenplay\n\n', b'\nIshinomori, Shoutarou\n\nOriginal Creator\n\n']
+animeStaff	[['Oshii, Mamoru', 'Director'], ['Kawai, Kenji', 'Music'], ['Kamiyama, Kenji', 'Screenplay'], ['Ishinomori, Shoutarou', 'Original Creator']]

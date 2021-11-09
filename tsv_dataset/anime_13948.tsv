@@ -1,5 +1,5 @@
-animeTitle	b'Tsuideni Tonchinkan'
-animeType	b'TV'
+animeTitle	Tsuideni Tonchinkan
+animeType	TV
 animeNumEpisode	43
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Based on the same name gag manga by Endo Koichi.\n\nA gang decides to play at burglary without the knowledge of their schoolmates, each masquerading at different times as the master thief Tonchinkan.\n\n(Source: ANN)'
-animeRelated	[b'Tsuideni Tonchinkan']
-animeCharacters	[b'Nukesaku, Aida']
-animeVoices	[b'\nYoshimura, You\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMisawa, Shin\n\nEpisode Director, Storyboard\n\n', b'\nYamada, Takashi\n\nScript\n\n', b'\nKoyama, Takao\n\nScript, Series Composition\n\n', b'\nYanagawa, Shigeru\n\nScript\n\n']
+animePopularity	12469
+animeDescription	"Based on the same name gag manga by Endo Koichi.
+
+A gang decides to play at burglary without the knowledge of their schoolmates, each masquerading at different times as the master thief Tonchinkan.
+
+(Source: ANN)"
+animeRelated	['Tsuideni Tonchinkan']
+animeCharacters	['Nukesaku, Aida']
+animeVoices	['Yoshimura, You']
+animeStaff	[['Misawa, Shin', 'Episode Director, Storyboard'], ['Yamada, Takashi', 'Script'], ['Koyama, Takao', 'Script, Series Composition'], ['Yanagawa, Shigeru', 'Script']]

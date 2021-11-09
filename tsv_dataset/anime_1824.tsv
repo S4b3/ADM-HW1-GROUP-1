@@ -1,5 +1,5 @@
-animeTitle	b'Gallery Fake'
-animeType	b'TV'
+animeTitle	Gallery Fake
+animeType	TV
 animeNumEpisode	37
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.44
 animeUsers	2789
 animeRank	
-animePopularity	
-animeDescription	b'Fujita Reiji is the owner of an art gallery, Gallery Fake. He deals with fake items, and is also familiar with the black market. However, he has a special talent for art, and used to work for the Metropolitan Museum of Art in New York as a curator.\n\n(Source: ANN)'
-animeRelated	[b'Gallery Fake']
-animeCharacters	[b'Fujita, Reiji', b'Halifa, Sara', b'Pedro', b'Muhammad', b'Udai', b'Yoshioka', b'Funakoshi', b'Mitamura, Sayoko', b'Tsujidou, Runa', b'Carlos']
-animeVoices	[b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nNonaka, Hideaki\nJapanese\n', b'\nAoyama, Yutaka\nJapanese\n', b'\nIshizumi, Akihiko\nJapanese\n', b'\nShioya, Kouzou\nJapanese\n', b'\nChiba, Isshin\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwakami, Atsuhiro\n\nProducer\n\n', b'\nYamasaki, Osamu\n\nDirector\n\n', b'\nNishimori, Akira\n\nDirector\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n']
+animePopularity	4832
+animeDescription	"Fujita Reiji is the owner of an art gallery, Gallery Fake. He deals with fake items, and is also familiar with the black market. However, he has a special talent for art, and used to work for the Metropolitan Museum of Art in New York as a curator.
+
+(Source: ANN)"
+animeRelated	['Gallery Fake']
+animeCharacters	['Fujita, Reiji', 'Halifa, Sara', 'Pedro', 'Muhammad', 'Udai', 'Yoshioka', 'Funakoshi', 'Mitamura, Sayoko', 'Tsujidou, Runa', 'Carlos']
+animeVoices	['Morikawa, Toshiyuki', 'Kawasumi, Ayako', 'Nonaka, Hideaki', 'Aoyama, Yutaka', 'Ishizumi, Akihiko', 'Shioya, Kouzou', 'Chiba, Isshin', 'Yukino, Satsuki', 'Neya, Michiko', 'Utsumi, Kenji']
+animeStaff	[['Iwakami, Atsuhiro', 'Producer'], ['Yamasaki, Osamu', 'Director'], ['Nishimori, Akira', 'Director'], ['Kobayashi, Katsuyoshi', 'Sound Director']]

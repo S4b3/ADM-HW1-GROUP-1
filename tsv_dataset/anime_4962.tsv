@@ -1,5 +1,5 @@
-animeTitle	b'Cardfight!! Vanguard: Legion Mate-hen'
-animeType	b'TV'
+animeTitle	Cardfight!! Vanguard: Legion Mate-hen
+animeType	TV
 animeNumEpisode	33
 releaseDate	
 endDate	
@@ -7,9 +7,17 @@ animeNumMembers
 animeScore	6.73
 animeUsers	6606
 animeRank	
-animePopularity	
-animeDescription	"b'Several days after the mortal battle against Link Joker which embroils the whole world, the world has returned to peace.\n\nBut Kai Toshiki faces a surprising situation. Sendou Aichi, the hero who saved the world from the invasion of Link Joker, has suddenly disappeared. In addition, everyone\'s memory about Aichi is lost...Almost all hints have been lost, and Kai starts to search Aichi with ""Blaster Blade"" and the deck of Royal Paladin, the only existing hint and the proof of their bonds.\n\nKai is approached by fighters who call themselves ""Quatre Knights"". The four---Gaillard, Neve, Ratie and Sarah---are fighters with world-class power in vanguard fights. They control mysterious power and urge Kai to give up searching Aichi. What is their purpose...!? And what is their relationship with Aichi...!?\n\nKai, with the new power ""Legion"" in his hand, fights to take Aichi back. Now, the war has begun! \n\n(Source: Cardfight!! Vanguard Wikia)'"
-animeRelated	[b'Cardfight!! Vanguard: Link Joker-hen', b'Cardfight!! Vanguard Movie: Neon Messiah', b'Cardfight!! Vanguard G']
-animeCharacters	[b'Kai, Toshiki', b'Tokura, Misaki', b'Miwa, Taishi', b'Katsuragi, Kamui', b'Ishida, Naoki', b'Souryuu, Leon', b'Sendou, Aichi', b'Suzugamori, Ren', b'Tatsunagi, Kourin', b'Sendou, Emi']
-animeVoices	[b'\nSatou, Takuya\nJapanese\n', b'\nKitta, Izumi\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nIshikawa, Shizuka\nJapanese\n', b'\nNara, Tooru\nJapanese\n', b'\nKanbara, Daichi\nJapanese\n', b'\nYonaga, Tsubasa\nJapanese\n', b'\nAbe, Atsushi\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nEnomoto, Atsuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuji, Hatsuki\n\nDirector\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n', b'\nUmemoto, Yui\n\nEpisode Director, Assistant Director\n\n', b'\nDAIGO\n\nTheme Song Lyrics, Theme Song Composition\n\n']
+animePopularity	4684
+animeDescription	"Several days after the mortal battle against Link Joker which embroils the whole world, the world has returned to peace.
+
+But Kai Toshiki faces a surprising situation. Sendou Aichi, the hero who saved the world from the invasion of Link Joker, has suddenly disappeared. In addition, everyone's memory about Aichi is lost...Almost all hints have been lost, and Kai starts to search Aichi with ""Blaster Blade"" and the deck of Royal Paladin, the only existing hint and the proof of their bonds.
+
+Kai is approached by fighters who call themselves ""Quatre Knights"". The four---Gaillard, Neve, Ratie and Sarah---are fighters with world-class power in vanguard fights. They control mysterious power and urge Kai to give up searching Aichi. What is their purpose...!? And what is their relationship with Aichi...!?
+
+Kai, with the new power ""Legion"" in his hand, fights to take Aichi back. Now, the war has begun! 
+
+(Source: Cardfight!! Vanguard Wikia)"
+animeRelated	['Cardfight!! Vanguard: Link Joker-hen', 'Cardfight!! Vanguard Movie: Neon Messiah', 'Cardfight!! Vanguard G']
+animeCharacters	['Kai, Toshiki', 'Tokura, Misaki', 'Miwa, Taishi', 'Katsuragi, Kamui', 'Ishida, Naoki', 'Souryuu, Leon', 'Sendou, Aichi', 'Suzugamori, Ren', 'Tatsunagi, Kourin', 'Sendou, Emi']
+animeVoices	['Satou, Takuya', 'Kitta, Izumi', 'Morikubo, Shoutarou', 'Ishikawa, Shizuka', 'Nara, Tooru', 'Kanbara, Daichi', 'Yonaga, Tsubasa', 'Abe, Atsushi', 'Mimori, Suzuko', 'Enomoto, Atsuko']
+animeStaff	[['Tsuji, Hatsuki', 'Director'], ['Takadera, Takeshi', 'Sound Director'], ['Umemoto, Yui', 'Episode Director, Assistant Director'], ['DAIGO', 'Theme Song Lyrics, Theme Song Composition']]

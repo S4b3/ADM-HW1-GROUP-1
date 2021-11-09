@@ -1,5 +1,5 @@
-animeTitle	b'Shinpi no Hou'
-animeType	b'Movie'
+animeTitle	Shinpi no Hou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.31
 animeUsers	507
 animeRank	
-animePopularity	
-animeDescription	b'The film takes place in 201X, when the newly-formed Empire of Godom is threatening to take over the world by using mysterious technology offered to them by Chan Reika, the mysterious female president of a trading company. The protagonist of the film Shishimaru Shou is the one man who has the mystical technology that can stop the Empire of Godom, but after being hunted down by the Empire, he is saved by mysterious Indians, who tell him about a prophecy about the second coming of a savior. \n\n(Source: ANN) '
+animePopularity	9803
+animeDescription	"The film takes place in 201X, when the newly-formed Empire of Godom is threatening to take over the world by using mysterious technology offered to them by Chan Reika, the mysterious female president of a trading company. The protagonist of the film Shishimaru Shou is the one man who has the mystical technology that can stop the Empire of Godom, but after being hunted down by the Empire, he is saved by mysterious Indians, who tell him about a prophecy about the second coming of a savior. 
+
+(Source: ANN) "
 animeRelated	[]
-animeCharacters	[b'Shishimaru, Shou', b'Tatha Gata Killer', b'Chan, Reika']
-animeVoices	[b'\nKoyasu, Takehito\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImakake, Isamu\n\nDirector\n\n', b'\nSuda, Masami\n\nChief Animation Director\n\n', b'\nOokawa, Ryuuhou\n\nExecutive Producer, Original Creator\n\n', b'\nMaejima, Kenichi\n\nKey Animation\n\n']
+animeCharacters	['Shishimaru, Shou', 'Tatha Gata Killer', 'Chan, Reika']
+animeVoices	['Koyasu, Takehito', 'Hirakawa, Daisuke', 'Fujimura, Ayumi']
+animeStaff	[['Imakake, Isamu', 'Director'], ['Suda, Masami', 'Chief Animation Director'], ['Ookawa, Ryuuhou', 'Executive Producer, Original Creator'], ['Maejima, Kenichi', 'Key Animation']]

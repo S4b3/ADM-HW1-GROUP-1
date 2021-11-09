@@ -1,5 +1,5 @@
-animeTitle	b'Carnival Phantasm: Illya-jou'
-animeType	b'Special'
+animeTitle	Carnival Phantasm: Illya-jou
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.88
 animeUsers	19147
 animeRank	
-animePopularity	
-animeDescription	"b""A special feature based on a real-time run of the Fate/Hollow Ataraxia Visual Novel's mini-game, Illya's Castle. \n\nThe key characters' voice actor/actress' participate in live commentary for the duration of the game."""
-animeRelated	[b'Carnival Phantasm']
-animeCharacters	[b'Saber', b'Archer', b'Emiya, Shirou', b'von Einzbern, Illyasviel', b'Lancer', b'Toosaka, Rin', b'Matou, Sakura', b'Kotomine, Kirei', b'Rider', b'Caster']
-animeVoices	[b'\nKawasumi, Ayako\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nShitaya, Noriko\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nType-Moon\n\nOriginal Creator\n\n']
+animePopularity	3175
+animeDescription	"A special feature based on a real-time run of the Fate/Hollow Ataraxia Visual Novel's mini-game, Illya's Castle. 
+
+The key characters' voice actor/actress' participate in live commentary for the duration of the game."
+animeRelated	['Carnival Phantasm']
+animeCharacters	['Saber', 'Archer', 'Emiya, Shirou', 'von Einzbern, Illyasviel', 'Lancer', 'Toosaka, Rin', 'Matou, Sakura', 'Kotomine, Kirei', 'Rider', 'Caster']
+animeVoices	['Kawasumi, Ayako', 'Suwabe, Junichi', 'Sugiyama, Noriaki', 'Kadowaki, Mai', 'Canna, Nobutoshi', 'Ueda, Kana', 'Shitaya, Noriko', 'Nakata, Jouji', 'Asakawa, Yuu', 'Tanaka, Atsuko']
+animeStaff	[['Type-Moon', 'Original Creator']]

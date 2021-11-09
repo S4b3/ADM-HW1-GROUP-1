@@ -1,5 +1,5 @@
-animeTitle	b'Taimanin Yukikaze'
-animeType	b'OVA'
+animeTitle	Taimanin Yukikaze
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.49
 animeUsers	3677
 animeRank	
-animePopularity	
-animeDescription	"b""Yukikaze, a student at a ninja training academy, learns new demon-fighting techniques. One day, she and her friend Akiyama Rinko decide to infiltrate an evil organization in hopes of finding Yukikaze's mother; however, to do so, there is a great price they have to pay..."""
-animeRelated	[b'Taimanin Yukikaze: Taimanin Machoukyou ni Otsu', b'Taimanin Asagi', b'Makai Kishi Ingrid', b'Koutetsu no Majo Annerose', b'Taimanin Yukikaze Special', b'Taimanin Shiranui: Inyoku no Dorei Shoufu']
-animeCharacters	[b'Mizuki, Yukikaze', b'Mizuki, Shiranui', b'Muneichi, Yazaki', b'Akiyama, Rinko', b'Akiyama, Tatsurou']
-animeVoices	[b'\nHimuro, Yuri\nJapanese\n', b'\nMiruno, Jun\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nRokugen Alice\n\nTheme Song Lyrics, Theme Song Composition, Theme Song Arrangement\n\n', b'\nLilith Soft\n\nOriginal Creator\n\n', b'\nAoi, Nagisa\n\nOriginal Character Design\n\n']
+animePopularity	5293
+animeDescription	Yukikaze, a student at a ninja training academy, learns new demon-fighting techniques. One day, she and her friend Akiyama Rinko decide to infiltrate an evil organization in hopes of finding Yukikaze's mother; however, to do so, there is a great price they have to pay...
+animeRelated	['Taimanin Yukikaze: Taimanin Machoukyou ni Otsu', 'Taimanin Asagi', 'Makai Kishi Ingrid', 'Koutetsu no Majo Annerose', 'Taimanin Yukikaze Special', 'Taimanin Shiranui: Inyoku no Dorei Shoufu']
+animeCharacters	['Mizuki, Yukikaze', 'Mizuki, Shiranui', 'Muneichi, Yazaki', 'Akiyama, Rinko', 'Akiyama, Tatsurou']
+animeVoices	['Himuro, Yuri', 'Miruno, Jun']
+animeStaff	[['Rokugen Alice', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['Lilith Soft', 'Original Creator'], ['Aoi, Nagisa', 'Original Character Design']]

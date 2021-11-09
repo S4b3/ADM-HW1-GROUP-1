@@ -1,5 +1,5 @@
-animeTitle	b'Red Ash: Gearworld'
-animeType	b'Movie'
+animeTitle	Red Ash: Gearworld
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.63
 animeUsers	612
 animeRank	
-animePopularity	
-animeDescription	"b'In a futuristic world, the ""Nanorace,"" people whose genes contain nanomachines that grant them special abilities, are controlled and suffer prejudice from the ""Purerace"" of normal human beings. Beck, a legendary hunter with the power of ""Red Ash,"" aims to undergo the surgical procedure to become Purerace. Alongside the large yet timid mechanic Tyger, they use their parallel machine to fly to the old world, doing dangerous jobs.\n\nOne day, they suddenly run into Call, a girl pursued by the duo of Safari and Stripe. Call, Beck, and Tyger together travel to the clockwork world. But Safari, Stripe, and their leader Deny, stubbornly pursue Call, and are finally in a position to make their attack on Beck and his friends.\n\n(Source: ANN) '"
-animeRelated	[b'Charanpo Land no Bouken', b'Genbanojou', b'Zunda Horizon']
-animeCharacters	[b'Tyger', b'Call', b'Beck']
-animeVoices	[b'\nMoriwaki, Rikumi\nJapanese\n', b'\nUchimura, Fumiko\nJapanese\n', b'\nKaji, Yuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Kouji\n\nMusic\n\n', b'\nNakamura, Ken\n\nBackground Art\n\n', b'\nEbihara, Yuu\n\nKey Animation\n\n']
+animePopularity	9087
+animeDescription	"In a futuristic world, the ""Nanorace,"" people whose genes contain nanomachines that grant them special abilities, are controlled and suffer prejudice from the ""Purerace"" of normal human beings. Beck, a legendary hunter with the power of ""Red Ash,"" aims to undergo the surgical procedure to become Purerace. Alongside the large yet timid mechanic Tyger, they use their parallel machine to fly to the old world, doing dangerous jobs.
+
+One day, they suddenly run into Call, a girl pursued by the duo of Safari and Stripe. Call, Beck, and Tyger together travel to the clockwork world. But Safari, Stripe, and their leader Deny, stubbornly pursue Call, and are finally in a position to make their attack on Beck and his friends.
+
+(Source: ANN) "
+animeRelated	['Charanpo Land no Bouken', 'Genbanojou', 'Zunda Horizon']
+animeCharacters	['Tyger', 'Call', 'Beck']
+animeVoices	['Moriwaki, Rikumi', 'Uchimura, Fumiko', 'Kaji, Yuki']
+animeStaff	[['Nakamura, Kouji', 'Music'], ['Nakamura, Ken', 'Background Art'], ['Ebihara, Yuu', 'Key Animation']]

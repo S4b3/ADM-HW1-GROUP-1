@@ -1,5 +1,5 @@
-animeTitle	b'Panda-Z: The Robonimation'
-animeType	b'TV'
+animeTitle	Panda-Z: The Robonimation
+animeType	TV
 animeNumEpisode	30
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.19
 animeUsers	647
 animeRank	
-animePopularity	
-animeDescription	b'Panda-Z chronicles the misadventures of Pan Taron and his giant robot Panda-Z, as they battle the evil Skull Panda and his Warunimal forces.\n\n(Source: ANN)'
-animeRelated	[b'Mazinger Z']
-animeCharacters	[b'Pan-Taron', b'Panda Z']
+animePopularity	9313
+animeDescription	"Panda-Z chronicles the misadventures of Pan Taron and his giant robot Panda-Z, as they battle the evil Skull Panda and his Warunimal forces.
+
+(Source: ANN)"
+animeRelated	['Mazinger Z']
+animeCharacters	['Pan-Taron', 'Panda Z']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Takuya\n\nCo-Director\n\n', b'\nKanbe, Mamoru\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nJAM Project\n\nTheme Song Performance\n\n']
+animeStaff	[['Satou, Takuya', 'Co-Director'], ['Kanbe, Mamoru', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['JAM Project', 'Theme Song Performance']]

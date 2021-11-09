@@ -1,5 +1,5 @@
-animeTitle	b'Chouja Raideen'
-animeType	b'TV'
+animeTitle	Chouja Raideen
+animeType	TV
 animeNumEpisode	38
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.34
 animeUsers	534
 animeRank	
-animePopularity	
-animeDescription	b'Hishou, Ginga, Ace, Hayate, and Ikazuchi all work at a studio doing various idol-related jobs at the request of their manager, Reiko. But in reality, these five teenagers are really the Reideens, a group of superheroes who fight the Super Devils sent by Lushu, a mysterious being. Little do the Reideens know, these Super Devils are being sent for a more important purpose...\n\n(Source: ANN)'
-animeRelated	[b'Reideen', b'Yuusha Raideen']
-animeCharacters	[b'Torikai, Ginga', b'De Mon, Rouch', b'Amakai, Reiko']
-animeVoices	[b'\nYusa, Kouji\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawase, Toshifumi\n\nDirector, Storyboard\n\n', b'\nYamaguchi, Yuuji\n\nEpisode Director, Storyboard\n\n', b'\nSonoda, Hideki\n\nScript, Series Composition\n\n', b'\nTakamatsu, Shinji\n\nStoryboard\n\n']
+animePopularity	9419
+animeDescription	"Hishou, Ginga, Ace, Hayate, and Ikazuchi all work at a studio doing various idol-related jobs at the request of their manager, Reiko. But in reality, these five teenagers are really the Reideens, a group of superheroes who fight the Super Devils sent by Lushu, a mysterious being. Little do the Reideens know, these Super Devils are being sent for a more important purpose...
+
+(Source: ANN)"
+animeRelated	['Reideen', 'Yuusha Raideen']
+animeCharacters	['Torikai, Ginga', 'De Mon, Rouch', 'Amakai, Reiko']
+animeVoices	['Yusa, Kouji', 'Yao, Kazuki', 'Tanaka, Atsuko']
+animeStaff	[['Kawase, Toshifumi', 'Director, Storyboard'], ['Yamaguchi, Yuuji', 'Episode Director, Storyboard'], ['Sonoda, Hideki', 'Script, Series Composition'], ['Takamatsu, Shinji', 'Storyboard']]

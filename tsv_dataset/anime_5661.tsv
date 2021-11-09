@@ -1,5 +1,5 @@
-animeTitle	b'DearS'
-animeType	b'TV'
+animeTitle	DearS
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.59
 animeUsers	72434
 animeRank	
-animePopularity	
-animeDescription	"b'One year ago, a UFO containing 150 aliens crash-landed off the shores of Kasai. Because no one could fix their ship, the Japanese Government decided to bestow upon them the designation ""DearS"" and make them into Japanese citizens, teaching them the language, customs, and culture of Japan. However, in order for them to become more familiar with human society, a home-stay program has been enacted to allow them to mingle with other humans.\n\nOne misty morning, a truck carrying a capsule that housed one of these aliens ends up dropping it into the riverbank, releasing her from her confinement. She is eventually found by a high school student named Takeya Ikuhara, who saves her from being hit by a truck and takes pity on her, despite being extremely distrustful of their race and wanting nothing to do with them. Upon being named Ren, she imprints upon him as her ""Master"" and serves as his personal ""Slave,"" leaving him with a ""DearS"" who wants to remain with him no matter what and bringing his ordinary, alien-free days to an end.'"
-animeRelated	[b'DearS', b'DearS: Kin no Tama Desu no?']
-animeCharacters	[b'Ren Ren Ren Nagusaran Rensia Ruroonren Nakora', b'Ikuhara, Takeya', b'Izumi, Neneko', b'Sia Nostal Ren Naguregyug, Thanast Useim Ruki Miu', b'Yoshimine, Mitsuka', b'Nia', b'China', b'Rubi', b'Khi', b'Xaki']
-animeVoices	[b'\nShimizu, Ai\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nMomoi, Haruko\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Iku\n\nDirector, Storyboard\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nWatanabe, Junichi\n\nEpisode Director\n\n', b'\nYoshioka, Takao\n\nScript, Series Composition\n\n']
+animePopularity	1285
+animeDescription	"One year ago, a UFO containing 150 aliens crash-landed off the shores of Kasai. Because no one could fix their ship, the Japanese Government decided to bestow upon them the designation ""DearS"" and make them into Japanese citizens, teaching them the language, customs, and culture of Japan. However, in order for them to become more familiar with human society, a home-stay program has been enacted to allow them to mingle with other humans.
+
+One misty morning, a truck carrying a capsule that housed one of these aliens ends up dropping it into the riverbank, releasing her from her confinement. She is eventually found by a high school student named Takeya Ikuhara, who saves her from being hit by a truck and takes pity on her, despite being extremely distrustful of their race and wanting nothing to do with them. Upon being named Ren, she imprints upon him as her ""Master"" and serves as his personal ""Slave,"" leaving him with a ""DearS"" who wants to remain with him no matter what and bringing his ordinary, alien-free days to an end."
+animeRelated	['DearS', 'DearS: Kin no Tama Desu no?']
+animeCharacters	['Ren Ren Ren Nagusaran Rensia Ruroonren Nakora', 'Ikuhara, Takeya', 'Izumi, Neneko', 'Sia Nostal Ren Naguregyug, Thanast Useim Ruki Miu', 'Yoshimine, Mitsuka', 'Nia', 'China', 'Rubi', 'Khi', 'Xaki']
+animeVoices	['Shimizu, Ai', 'Taniyama, Kishou', 'Saitou, Chiwa', 'Nakahara, Mai', 'Inoue, Kikuko', 'Tamura, Yukari', 'Momoi, Haruko', 'Toyoguchi, Megumi', 'Sawashiro, Miyuki', 'Hirata, Hiroaki']
+animeStaff	[['Suzuki, Iku', 'Director, Storyboard'], ['Kikuta, Hiromi', 'Sound Director'], ['Watanabe, Junichi', 'Episode Director'], ['Yoshioka, Takao', 'Script, Series Composition']]

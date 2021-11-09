@@ -1,5 +1,5 @@
-animeTitle	b'Tattoon Master'
-animeType	b'OVA'
+animeTitle	Tattoon Master
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.12
 animeUsers	1078
 animeRank	
-animePopularity	
-animeDescription	"b""When Hibio's adventurer mother sets off to research a mysterious tribe, she hits a wall. Fortunately for her, the beautiful young Nima sees a family portrait and decides that she wants her son for her husband and she gets a chance to further her research. She agrees to the arrangement. Of course, she doesn't consult him about his future bride. When Nima shows up in Tokyo to be with her new husband, hilarity and chaos ensues as Hibio and his modern Tokyo background meets Nima's magical heritage. \n\n(Source: ANN)"""
-animeRelated	[b'Tattoon Master']
-animeCharacters	"[b'Nima', b'Hibio', b""Fujimatsu's Grandfather"", b'Masae', b'Eda, Arnold', b'Nike', b'Eda, Hydra', b'Fujimatsu', b""Hibio's Father""]"
-animeVoices	[b'\nKouda, Mariko\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nHirano, Fumi\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nShimakata, Junko\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKamiyama, Kenji\n\nEpisode Director, Storyboard\n\n', b'\nKuroda, Yousuke\n\nScript\n\n', b'\nYamamoto, Harukichi\n\nTheme Song Arrangement, Music\n\n', b'\nAraki, Hideki\n\nCharacter Design, Key Animation\n\n']
+animePopularity	8622
+animeDescription	"When Hibio's adventurer mother sets off to research a mysterious tribe, she hits a wall. Fortunately for her, the beautiful young Nima sees a family portrait and decides that she wants her son for her husband and she gets a chance to further her research. She agrees to the arrangement. Of course, she doesn't consult him about his future bride. When Nima shows up in Tokyo to be with her new husband, hilarity and chaos ensues as Hibio and his modern Tokyo background meets Nima's magical heritage. 
+
+(Source: ANN)"
+animeRelated	['Tattoon Master']
+animeCharacters	"['Nima', 'Hibio', ""Fujimatsu's Grandfather"", 'Masae', 'Eda, Arnold', 'Nike', 'Eda, Hydra', 'Fujimatsu', ""Hibio's Father""]"
+animeVoices	['Kouda, Mariko', 'Ueda, Yuuji', 'Aono, Takeshi', 'Hirano, Fumi', 'Furukawa, Toshio', 'Shimakata, Junko', 'Miki, Shinichiro', 'Koorogi, Satomi', 'Chiba, Shigeru']
+animeStaff	[['Kamiyama, Kenji', 'Episode Director, Storyboard'], ['Kuroda, Yousuke', 'Script'], ['Yamamoto, Harukichi', 'Theme Song Arrangement, Music'], ['Araki, Hideki', 'Character Design, Key Animation']]

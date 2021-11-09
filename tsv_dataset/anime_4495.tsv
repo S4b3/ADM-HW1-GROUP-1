@@ -1,5 +1,5 @@
-animeTitle	b'Etotama'
-animeType	b'TV'
+animeTitle	Etotama
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.83
 animeUsers	24274
 animeRank	
-animePopularity	
-animeDescription	"b""Every 60 years, the heavens conduct a sacred ritual called ETM12. This custom involves selecting worthy Eto-musume\xe2\x80\x94celestial beings representing different animals\xe2\x80\x94to become one of the members of the Chinese zodiac, or Eto-shin. However, since the first ETM12 two thousand years ago, the original batch of Eto-shin reigns with no one being able to replace them.\n\nNyaa-tan is a cat Eto-musume who aspires to become a member of the zodiac in the ongoing ETM12. Fulfilling her ambition requires her to secure 12 seals, one for each Eto-shin. To that end, she must win various types of battles using Sol/Lull\xe2\x80\x94divine energy created by people's positive emotions. This task is not easy however, as her powers as an Eto-musume are far below the abilities of a single Eto-shin. As such, she needs a constant source of energy.\n\nBut in a chance encounter, Nyaa-tan meets Takeru Amato, a man who has just transferred to the apartment where she is secretly staying. To Nyaa-tan's delight, Takeru discovers that he gives out high quality Sol/Lull\xe2\x80\x94something that sets him apart from most people. With this, the story of Takeru and Nyaa-tan begins. As Takeru supports Nyaa-tan in her dreams, he meets the Eto-shin and begins to uncover a mysterious past.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Etotama', b'Etotama Specials', b'Etotama: Nyankyaku Banrai']
-animeCharacters	[b'Nyaa-tan', b'Uri-tan', b'Amato, Takeru', b'Moo-tan', b'Piyo-tan', b'Chuu-tan', b'Shaa-tan', b'Mei-tan', b'Inu-tan', b'Dora-tan']
-animeVoices	[b'\nMurakawa, Rie\nJapanese\n', b'\nHanamori, Yumiri\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nMatsui, Eriko\nJapanese\n', b'\nSasaki, Mikoi\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nFuchigami, Mai\nJapanese\n', b'\nHonda, Mariko\nJapanese\n', b'\nUchida, Maaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOizaki, Fumitoshi\n\nDirector, Sound Director\n\n', b'\nHirakawa, Takamitsu\n\nDirector\n\n', b'\nIwata, Kazuya\n\nEpisode Director\n\n', b'\nMajima, Takahiro\n\nEpisode Director\n\n']
+animePopularity	1972
+animeDescription	"Every 60 years, the heavens conduct a sacred ritual called ETM12. This custom involves selecting worthy Eto-musume—celestial beings representing different animals—to become one of the members of the Chinese zodiac, or Eto-shin. However, since the first ETM12 two thousand years ago, the original batch of Eto-shin reigns with no one being able to replace them.
+
+Nyaa-tan is a cat Eto-musume who aspires to become a member of the zodiac in the ongoing ETM12. Fulfilling her ambition requires her to secure 12 seals, one for each Eto-shin. To that end, she must win various types of battles using Sol/Lull—divine energy created by people's positive emotions. This task is not easy however, as her powers as an Eto-musume are far below the abilities of a single Eto-shin. As such, she needs a constant source of energy.
+
+But in a chance encounter, Nyaa-tan meets Takeru Amato, a man who has just transferred to the apartment where she is secretly staying. To Nyaa-tan's delight, Takeru discovers that he gives out high quality Sol/Lull—something that sets him apart from most people. With this, the story of Takeru and Nyaa-tan begins. As Takeru supports Nyaa-tan in her dreams, he meets the Eto-shin and begins to uncover a mysterious past.
+
+[Written by MAL Rewrite]"
+animeRelated	['Etotama', 'Etotama Specials', 'Etotama: Nyankyaku Banrai']
+animeCharacters	['Nyaa-tan', 'Uri-tan', 'Amato, Takeru', 'Moo-tan', 'Piyo-tan', 'Chuu-tan', 'Shaa-tan', 'Mei-tan', 'Inu-tan', 'Dora-tan']
+animeVoices	['Murakawa, Rie', 'Hanamori, Yumiri', 'Shimono, Hiro', 'Matsui, Eriko', 'Sasaki, Mikoi', 'Ohara, Sayaka', 'Nabatame, Hitomi', 'Fuchigami, Mai', 'Honda, Mariko', 'Uchida, Maaya']
+animeStaff	[['Oizaki, Fumitoshi', 'Director, Sound Director'], ['Hirakawa, Takamitsu', 'Director'], ['Iwata, Kazuya', 'Episode Director'], ['Majima, Takahiro', 'Episode Director']]

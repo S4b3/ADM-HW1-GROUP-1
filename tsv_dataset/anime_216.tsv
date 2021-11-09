@@ -1,5 +1,5 @@
-animeTitle	b'Shirobako'
-animeType	b'TV'
+animeTitle	Shirobako
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.32
 animeUsers	119196
 animeRank	
-animePopularity	
-animeDescription	b'It all started in Kaminoyama High School, when five best friends\xe2\x80\x94Aoi Miyamori, Ema Yasuhara, Midori Imai, Shizuka Sakaki, and Misa Toudou\xe2\x80\x94discovered their collective love for all things anime and formed the animation club. After making their first amateur anime together and showcasing it at the culture festival, the group vow to pursue careers in the industry, aiming to one day work together and create their own mainstream show.\n\nTwo and a half years later, Aoi and Ema have managed to land jobs at the illustrious Musashino Animation production company. The others, however, are finding it difficult to get their dream jobs. Shizuka is feeling the weight of not being recognized as a capable voice actor, Misa has a secure yet unsatisfying career designing 3D models for a car company, and Midori is a university student intent on pursuing her dream as a story writer. These five girls will learn that the path to success is one with many diversions, but dreams can still be achieved through perseverance and a touch of eccentric creativity.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Shirobako: Kaminoyama Koukou Animation Doukoukai', b'Shirobako: Introduction', b'Shirobako Specials', b'Shirobako Movie']
-animeCharacters	[b'Miyamori, Aoi', b'Yasuhara, Ema', b'Sakaki, Shizuka', b'Imai, Midori', b'Toudou, Misa', b'Yano, Erika', b'Ogasawara, Rinko', b'Kinoshita, Seiichi', b'Kunogi, Ai', b'Andou, Tsubaki']
-animeVoices	[b'\nKimura, Juri\nJapanese\n', b'\nYoshimura, Haruka\nJapanese\n', b'\nChisuga, Haruka\nJapanese\n', b'\nOowada, Hitomi\nJapanese\n', b'\nTakano, Asami\nJapanese\n', b'\nYamaoka, Yuri\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nIzawa, Shiori\nJapanese\n', b'\nHayama, Ikumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHorikawa, Kenji\n\nProducer, Planning\n\n', b'\nNagatani, Takayuki\n\nProducer\n\n', b'\nMizushima, Tsutomu\n\nDirector, Sound Director, Episode Director, Theme Song Lyrics\n\n', b'\nKoyama, Yoshitaka\n\nEpisode Director\n\n']
+animePopularity	424
+animeDescription	"It all started in Kaminoyama High School, when five best friends—Aoi Miyamori, Ema Yasuhara, Midori Imai, Shizuka Sakaki, and Misa Toudou—discovered their collective love for all things anime and formed the animation club. After making their first amateur anime together and showcasing it at the culture festival, the group vow to pursue careers in the industry, aiming to one day work together and create their own mainstream show.
+
+Two and a half years later, Aoi and Ema have managed to land jobs at the illustrious Musashino Animation production company. The others, however, are finding it difficult to get their dream jobs. Shizuka is feeling the weight of not being recognized as a capable voice actor, Misa has a secure yet unsatisfying career designing 3D models for a car company, and Midori is a university student intent on pursuing her dream as a story writer. These five girls will learn that the path to success is one with many diversions, but dreams can still be achieved through perseverance and a touch of eccentric creativity.
+
+[Written by MAL Rewrite]"
+animeRelated	['Shirobako: Kaminoyama Koukou Animation Doukoukai', 'Shirobako: Introduction', 'Shirobako Specials', 'Shirobako Movie']
+animeCharacters	['Miyamori, Aoi', 'Yasuhara, Ema', 'Sakaki, Shizuka', 'Imai, Midori', 'Toudou, Misa', 'Yano, Erika', 'Ogasawara, Rinko', 'Kinoshita, Seiichi', 'Kunogi, Ai', 'Andou, Tsubaki']
+animeVoices	['Kimura, Juri', 'Yoshimura, Haruka', 'Chisuga, Haruka', 'Oowada, Hitomi', 'Takano, Asami', 'Yamaoka, Yuri', 'Kayano, Ai', 'Hiyama, Nobuyuki', 'Izawa, Shiori', 'Hayama, Ikumi']
+animeStaff	[['Horikawa, Kenji', 'Producer, Planning'], ['Nagatani, Takayuki', 'Producer'], ['Mizushima, Tsutomu', 'Director, Sound Director, Episode Director, Theme Song Lyrics'], ['Koyama, Yoshitaka', 'Episode Director']]

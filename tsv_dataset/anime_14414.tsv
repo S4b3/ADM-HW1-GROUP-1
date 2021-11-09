@@ -1,5 +1,5 @@
-animeTitle	b'Yanbou Ninbou Tonbou'
-animeType	b'TV'
+animeTitle	Yanbou Ninbou Tonbou
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""An old 1950s NHK radio drama featuring the three titular monkey brothers, this anime updates the story for the '90s audience of the original broadcasters' new satellite channel. The brothers try some crow soup, start a fire on the mountain, and race the king of the Pig People--like kids do.\n\n(Source: The Anime Encyclopedia)"""
+animePopularity	15239
+animeDescription	"An old 1950s NHK radio drama featuring the three titular monkey brothers, this anime updates the story for the '90s audience of the original broadcasters' new satellite channel. The brothers try some crow soup, start a fire on the mountain, and race the king of the Pig People--like kids do.
+
+(Source: The Anime Encyclopedia)"
 animeRelated	[]
-animeCharacters	[b'Tonbou']
-animeVoices	[b'\nKanai, Mika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuda, Yoshizou\n\nEpisode Director, Storyboard\n\n', b'\nHirata, Toshio\n\nStoryboard\n\n', b'\nOkuda, Seiji\n\nStoryboard\n\n', b'\nSuda, Masami\n\nCharacter Design\n\n']
+animeCharacters	['Tonbou']
+animeVoices	['Kanai, Mika']
+animeStaff	[['Tsuda, Yoshizou', 'Episode Director, Storyboard'], ['Hirata, Toshio', 'Storyboard'], ['Okuda, Seiji', 'Storyboard'], ['Suda, Masami', 'Character Design']]

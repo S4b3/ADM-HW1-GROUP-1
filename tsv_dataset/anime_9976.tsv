@@ -1,5 +1,5 @@
-animeTitle	b'91 Daze'
-animeType	b'Special'
+animeTitle	91 Daze
+animeType	Special
 animeNumEpisode	7
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.63
 animeUsers	1485
 animeRank	
-animePopularity	
-animeDescription	b'91 Daze is a series of shorts included in various disk packages. They focus around Angelo, Nero, and sometimes Corteo in various comedic situations.\n\n(Source: 91-days.wikia)'
-animeRelated	[b'91 Days']
-animeCharacters	[b'Lagusa, Angelo', b'Vanetti, Nero', b'Corteo']
-animeVoices	[b'\nKondou, Takashi\nJapanese\n', b'\nEguchi, Takuya\nJapanese\n', b'\nSaitou, Souma\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKasugamori, Haruki\n\nDirector\n\n']
+animePopularity	7732
+animeDescription	"91 Daze is a series of shorts included in various disk packages. They focus around Angelo, Nero, and sometimes Corteo in various comedic situations.
+
+(Source: 91-days.wikia)"
+animeRelated	['91 Days']
+animeCharacters	['Lagusa, Angelo', 'Vanetti, Nero', 'Corteo']
+animeVoices	['Kondou, Takashi', 'Eguchi, Takuya', 'Saitou, Souma']
+animeStaff	[['Kasugamori, Haruki', 'Director']]

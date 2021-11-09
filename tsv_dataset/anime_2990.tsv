@@ -1,5 +1,5 @@
-animeTitle	b'Toaru Hikuushi e no Koiuta'
-animeType	b'TV'
+animeTitle	Toaru Hikuushi e no Koiuta
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.18
 animeUsers	37085
 animeRank	
-animePopularity	
-animeDescription	"b'In order to uncover the ""end of the sky,"" as spoken of in ancient mythology, Kal-el Albus is sent to Isla, an island in the sky. There he attends Cadoques High\'s Aerial Division, where he enjoys a carefree life with his schoolmates. That is...until a surprise attack by the air tribe drags Isla into a bloody war.\n\n(Source: NIS America)'"
-animeRelated	[b'Toaru Hikuushi e no Koiuta', b'Toaru Hikuushi e no Tsuioku']
-animeCharacters	[b'Albus, Kal-el', b'Cruz, Claire', b'Albus, Ariel', b'Axis, Ignacio', b'Fukuhara, Mitsuo', b'Cervantes, Amelia', b'de Lucia, Chiharu', b'de Alarcon, Luis', b'Albus, Michael', b'Hazome, Shizuka']
-animeVoices	[b'\nHanae, Natsuki\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nHamazoe, Shinya\nJapanese\n', b'\nTakimoto, Fujiko\nJapanese\n', b'\nTano, Asami\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nMatsuyama, Takashi\nJapanese\n', b'\nSatou, Hana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Toshimasa\n\nDirector, Episode Director, Storyboard, Key Animation\n\n', b'\nYoshida, Reiko\n\nScript\n\n', b'\nInotsume, Shinichi\n\nScript, Series Composition, Screenplay\n\n', b'\nSuzuki, Takaaki\n\nScript\n\n']
+animePopularity	1721
+animeDescription	"In order to uncover the ""end of the sky,"" as spoken of in ancient mythology, Kal-el Albus is sent to Isla, an island in the sky. There he attends Cadoques High's Aerial Division, where he enjoys a carefree life with his schoolmates. That is...until a surprise attack by the air tribe drags Isla into a bloody war.
+
+(Source: NIS America)"
+animeRelated	['Toaru Hikuushi e no Koiuta', 'Toaru Hikuushi e no Tsuioku']
+animeCharacters	['Albus, Kal-el', 'Cruz, Claire', 'Albus, Ariel', 'Axis, Ignacio', 'Fukuhara, Mitsuo', 'Cervantes, Amelia', 'de Lucia, Chiharu', 'de Alarcon, Luis', 'Albus, Michael', 'Hazome, Shizuka']
+animeVoices	['Hanae, Natsuki', 'Yuuki, Aoi', 'Taketatsu, Ayana', 'Ishikawa, Kaito', 'Hamazoe, Shinya', 'Takimoto, Fujiko', 'Tano, Asami', 'Kosugi, Juurouta', 'Matsuyama, Takashi', 'Satou, Hana']
+animeStaff	[['Suzuki, Toshimasa', 'Director, Episode Director, Storyboard, Key Animation'], ['Yoshida, Reiko', 'Script'], ['Inotsume, Shinichi', 'Script, Series Composition, Screenplay'], ['Suzuki, Takaaki', 'Script']]

@@ -1,5 +1,5 @@
-animeTitle	b'Kanojo ga Mimai ni Konai Wake'
-animeType	b'OVA'
+animeTitle	Kanojo ga Mimai ni Konai Wake
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.29
 animeUsers	2130
 animeRank	
-animePopularity	
-animeDescription	"b""Seiji is a permanent part-timer. He has been dating a girl, Ai, for two years and he is now thinking about marrying her. But one day, he has a traffic accident and breaks his leg and becomes hospitalized. Ai promises,  with a smile, to visit him every day. But their relationship gradually changes after his hospitalization.\n\nA real estate broker who hit Seiji. A guy at the same hospital room. A handsome doctor in charge of him. A co-worker at his shop. A nurse who is his ex-girlfriend. Various people cut in on Seiji and Ai's relationship. Will they be able to overcome it and keep their relationship?"""
+animePopularity	6545
+animeDescription	"Seiji is a permanent part-timer. He has been dating a girl, Ai, for two years and he is now thinking about marrying her. But one day, he has a traffic accident and breaks his leg and becomes hospitalized. Ai promises,  with a smile, to visit him every day. But their relationship gradually changes after his hospitalization.
+
+A real estate broker who hit Seiji. A guy at the same hospital room. A handsome doctor in charge of him. A co-worker at his shop. A nurse who is his ex-girlfriend. Various people cut in on Seiji and Ai's relationship. Will they be able to overcome it and keep their relationship?"
 animeRelated	[]
-animeCharacters	[b'Fujisawa, Ai', b'Kosaka, Akiko', b'Shibuya, Yuuichi']
-animeVoices	[b'\nNishizawa, Hiroka\nJapanese\n', b'\nMizusawa, Kei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTatsumi\n\nDirector, Storyboard, Animation Director, Character Design\n\n', b'\nSawayama, Shinichiro\n\nScript, Screenplay\n\n']
+animeCharacters	['Fujisawa, Ai', 'Kosaka, Akiko', 'Shibuya, Yuuichi']
+animeVoices	['Nishizawa, Hiroka', 'Mizusawa, Kei']
+animeStaff	[['Tatsumi', 'Director, Storyboard, Animation Director, Character Design'], ['Sawayama, Shinichiro', 'Script, Screenplay']]

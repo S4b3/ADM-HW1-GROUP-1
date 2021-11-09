@@ -1,5 +1,5 @@
-animeTitle	b'Birthday Wonderland'
-animeType	b'Movie'
+animeTitle	Birthday Wonderland
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.52
 animeUsers	4230
 animeRank	
-animePopularity	
-animeDescription	"b'The day before her birthday, Akane is asked to retrieve her birthday present from her aunt Chi\'s shop. While looking around, she chances upon a mysterious slab with a hand-shaped cavity in it. Curious, she places her hand in it, and\xe2\x80\x94to her surprise\xe2\x80\x94it fits perfectly. The next thing she knows, a strange alchemist named Hippocrates and his apprentice Pipo appear, calling Akane the legendary ""Goddess of the Green Wind.""\n\nThe two eccentrics claim to be from a different world connected to the shop\'s basement. With the peace of their world in jeopardy, Hippocrates and Pipo seek the help of the only one capable of saving it from destruction: Akane. Forced to accompany them on a journey to restore the land\'s harmony, Akane\xe2\x80\x94with her aunt in tow\xe2\x80\x94sets off to discover a magical new place.\n\n[Written by MAL Rewrite]'"
+animePopularity	4427
+animeDescription	"The day before her birthday, Akane is asked to retrieve her birthday present from her aunt Chi's shop. While looking around, she chances upon a mysterious slab with a hand-shaped cavity in it. Curious, she places her hand in it, and—to her surprise—it fits perfectly. The next thing she knows, a strange alchemist named Hippocrates and his apprentice Pipo appear, calling Akane the legendary ""Goddess of the Green Wind.""
+
+The two eccentrics claim to be from a different world connected to the shop's basement. With the peace of their world in jeopardy, Hippocrates and Pipo seek the help of the only one capable of saving it from destruction: Akane. Forced to accompany them on a journey to restore the land's harmony, Akane—with her aunt in tow—sets off to discover a magical new place.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Akane', b'Hippocrates', b'Midori', b'Chi', b'Pipo', b'Gu, Zan', b'Doropo']
-animeVoices	[b'\nMatsuoka, Mayu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHara, Keiichi\n\nDirector\n\n', b'\nmilet\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nKuvshinov, Ilya\n\nCharacter Design\n\n', b'\nHuang, Chengxi\n\nKey Animation\n\n']
+animeCharacters	['Akane', 'Hippocrates', 'Midori', 'Chi', 'Pipo', 'Gu, Zan', 'Doropo']
+animeVoices	['Matsuoka, Mayu']
+animeStaff	[['Hara, Keiichi', 'Director'], ['milet', 'Theme Song Performance, Inserted Song Performance'], ['Kuvshinov, Ilya', 'Character Design'], ['Huang, Chengxi', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Street Fighter IV: Aratanaru Kizuna'
-animeType	b'OVA'
+animeTitle	Street Fighter IV: Aratanaru Kizuna
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.26
 animeUsers	3863
 animeRank	
-animePopularity	
-animeDescription	b'CAPCOM has announced an anime feature based on its Street Fighter IV fighting game at Tokyo Game Show.\n\nThe feature will show what happens to the characters after Street Fighter II, including: Cammy walking through the woods with a group of troops, Ryu awakening to his dark side, Sakura and Chun-Li fighting together against a gang of thugs, and Crimson Viper fighting against Ryu.\n\n(Source: ANN)'
-animeRelated	[b'Street Fighter II Movie', b'Street Fighter IV: Aftermath']
-animeCharacters	[b'Ryuu', b'Masters, Ken', b'Chun-Li', b'Gouki', b'Kasugano, Sakura', b'White, Cammy', b'Balrog', b'Guile', b'Seth', b'Viper, Crimson']
-animeVoices	[b'\nTakahashi, Hiroki\nJapanese\n', b'\nKishi, Yuuji\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nTaketora\nJapanese\n', b'\nFukuen, Misato\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nSonozaki, Mie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKanai, Jirou\n\nDirector, Storyboard, Key Animation, Character Design, Animation Director\n\n', b'\nJaffe, Taliesin\n\nADR Director\n\n', b'\nFukasawa, Hideyuki\n\nMusic\n\n', b'\nCapcom\n\nOriginal Creator\n\n']
+animePopularity	6017
+animeDescription	"CAPCOM has announced an anime feature based on its Street Fighter IV fighting game at Tokyo Game Show.
+
+The feature will show what happens to the characters after Street Fighter II, including: Cammy walking through the woods with a group of troops, Ryu awakening to his dark side, Sakura and Chun-Li fighting together against a gang of thugs, and Crimson Viper fighting against Ryu.
+
+(Source: ANN)"
+animeRelated	['Street Fighter II Movie', 'Street Fighter IV: Aftermath']
+animeCharacters	['Ryuu', 'Masters, Ken', 'Chun-Li', 'Gouki', 'Kasugano, Sakura', 'White, Cammy', 'Balrog', 'Guile', 'Seth', 'Viper, Crimson']
+animeVoices	['Takahashi, Hiroki', 'Kishi, Yuuji', 'Orikasa, Fumiko', 'Taketora', 'Fukuen, Misato', 'Sawashiro, Miyuki', 'Suwabe, Junichi', 'Yasumoto, Hiroki', 'Ootsuka, Akio', 'Sonozaki, Mie']
+animeStaff	[['Kanai, Jirou', 'Director, Storyboard, Key Animation, Character Design, Animation Director'], ['Jaffe, Taliesin', 'ADR Director'], ['Fukasawa, Hideyuki', 'Music'], ['Capcom', 'Original Creator']]

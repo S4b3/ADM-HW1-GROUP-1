@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon: Pikachu no Fushigi na Fushigi na Daibouken'
-animeType	b'Special'
+animeTitle	Pokemon: Pikachu no Fushigi na Fushigi na Daibouken
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.31
 animeUsers	2088
 animeRank	
-animePopularity	
-animeDescription	"b""While being let out to play by their trainers, Pikachu and Piplup wind up separated from their Pok\xc3\xa9mon friends and wind up travelling with a Skitty into a strange dimension, unknowingly followed by Croagunk, Team Rocket's Pok\xc3\xa9mon and a Marill that's desperate to have someone hear her sing... \n\n(Source: Bulbapedia)"""
-animeRelated	[b'Pokemon Diamond & Pearl']
-animeCharacters	[b'Pikachu', b'Nyarth', b'Soonansu', b'Narrator']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAnami, Rei\n\nAssistant Producer\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nAsada, Yuuji\n\nEpisode Director, Sound Effects\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n']
+animePopularity	6700
+animeDescription	"While being let out to play by their trainers, Pikachu and Piplup wind up separated from their Pokémon friends and wind up travelling with a Skitty into a strange dimension, unknowingly followed by Croagunk, Team Rocket's Pokémon and a Marill that's desperate to have someone hear her sing... 
+
+(Source: Bulbapedia)"
+animeRelated	['Pokemon Diamond & Pearl']
+animeCharacters	['Pikachu', 'Nyarth', 'Soonansu', 'Narrator']
+animeVoices	['Ootani, Ikue', 'Inuyama, Inuko', 'Ueda, Yuuji', 'Horiuchi, Kenyuu']
+animeStaff	[['Anami, Rei', 'Assistant Producer'], ['Yuyama, Kunihiko', 'Director'], ['Asada, Yuuji', 'Episode Director, Sound Effects'], ['Tajiri, Satoshi', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hitsuji no Uta'
-animeType	b'OVA'
+animeTitle	Hitsuji no Uta
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.19
 animeUsers	6005
 animeRank	
-animePopularity	
-animeDescription	"b""Kazuna's family has a history of suffering from a disease that creates an uncontrollable vampire-like thirst for blood. Knowing none of this, Kazuna was sent to live with the Eda couple as a child. As the sickness begins to show signs of being present within himself, he comes into contact with his older sister, Chizuna, who has been suffering from it since early childhood. Knowing that the sickness incurs a heavy weight upon those that suffer from it, Chizuna tries to ease her brother's burden, to help him learn to control his urges, but... \n\n(Source: ANN) """
-animeRelated	[b'Hitsuji no Uta']
-animeCharacters	[b'Takashiro, Chizuna', b'Takashiro, Kazuna', b'Yaegashi, You', b'Eda, Natsuko', b'Eda, Shin', b'Kinoshita, Minase']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nSasaki, Youko\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaruyama, Masao\n\nProducer\n\n', b'\nSugii, Gisaburou\n\nDirector, Script, Storyboard\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nHayashibara, Megumi\n\nTheme Song Performance\n\n']
+animePopularity	4422
+animeDescription	"Kazuna's family has a history of suffering from a disease that creates an uncontrollable vampire-like thirst for blood. Knowing none of this, Kazuna was sent to live with the Eda couple as a child. As the sickness begins to show signs of being present within himself, he comes into contact with his older sister, Chizuna, who has been suffering from it since early childhood. Knowing that the sickness incurs a heavy weight upon those that suffer from it, Chizuna tries to ease her brother's burden, to help him learn to control his urges, but... 
+
+(Source: ANN) "
+animeRelated	['Hitsuji no Uta']
+animeCharacters	['Takashiro, Chizuna', 'Takashiro, Kazuna', 'Yaegashi, You', 'Eda, Natsuko', 'Eda, Shin', 'Kinoshita, Minase']
+animeVoices	['Hayashibara, Megumi', 'Seki, Tomokazu', 'Yukino, Satsuki', 'Sasaki, Youko', 'Kosugi, Juurouta', 'Suzumura, Kenichi']
+animeStaff	[['Maruyama, Masao', 'Producer'], ['Sugii, Gisaburou', 'Director, Script, Storyboard'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Hayashibara, Megumi', 'Theme Song Performance']]

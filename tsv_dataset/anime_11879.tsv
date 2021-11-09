@@ -1,5 +1,5 @@
-animeTitle	b'Nora'
-animeType	b'OVA'
+animeTitle	Nora
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.39
 animeUsers	928
 animeRank	
-animePopularity	
-animeDescription	"b'Nora is on vacation in a ""Holiday Inn"" space station. When the artificial gravity fails, the whole space resort becomes chaotic but she helps solve the problem. \n\n(Source: ANN)'"
-animeRelated	[b'Nora no Hakobune', b'Twinkle Nora Rock Me!']
-animeCharacters	[b'Scholar, Nora', b'Dr. Zachariasen', b'Fat Lady', b'Stewardess', b'Newscaster', b'Official', b'Chief', b'Pecanson, Edward', b'Artifiend', b'Professor Doherty']
-animeVoices	[b'\nYamamoto, Yuriko\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nMukaidono, Asami\nJapanese\n', b'\nYamada, Eiko\nJapanese\n', b'\nShioya, Kouzou\nJapanese\n', b'\nHirose, Masashi\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nNojima, Akio\nJapanese\n', b'\nNakamura, Shuusei\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Mataichirou\n\nProducer\n\n', b'\nYamakawa, Norio\n\nProducer, Planning\n\n', b'\nMikuriya, Satomi\n\nDirector, Script, Storyboard, Character Design, Setting, Original Creator\n\n', b'\nNakata, Reiko\n\nScript\n\n']
+animePopularity	9146
+animeDescription	"Nora is on vacation in a ""Holiday Inn"" space station. When the artificial gravity fails, the whole space resort becomes chaotic but she helps solve the problem. 
+
+(Source: ANN)"
+animeRelated	['Nora no Hakobune', 'Twinkle Nora Rock Me!']
+animeCharacters	['Scholar, Nora', 'Dr. Zachariasen', 'Fat Lady', 'Stewardess', 'Newscaster', 'Official', 'Chief', 'Pecanson, Edward', 'Artifiend', 'Professor Doherty']
+animeVoices	['Yamamoto, Yuriko', 'Utsumi, Kenji', 'Mukaidono, Asami', 'Yamada, Eiko', 'Shioya, Kouzou', 'Hirose, Masashi', 'Ginga, Banjou', 'Nojima, Akio', 'Nakamura, Shuusei', 'Nagai, Ichiro']
+animeStaff	[['Yamamoto, Mataichirou', 'Producer'], ['Yamakawa, Norio', 'Producer, Planning'], ['Mikuriya, Satomi', 'Director, Script, Storyboard, Character Design, Setting, Original Creator'], ['Nakata, Reiko', 'Script']]

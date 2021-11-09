@@ -1,5 +1,5 @@
-animeTitle	b'Nanako SOS'
-animeType	b'TV'
+animeTitle	Nanako SOS
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.3
 animeUsers	337
 animeRank	
-animePopularity	
-animeDescription	"b""Nanako is a young girl who unexpectedly acquires supernatural powers and at the same time loses her past memory. By accident, a scientific genius called Marlow, is present when she acquires her powers. Marlow is an industrious high school boy with extraordinary ambitions. He talks to Nanako into joining his detective agency by promising to help her regain her memory. Nanako innocently believes him, but Marlow's real intent is to use her powers to benefit his agency and himself.\n\nThe story unfolds as Nanako encounters a variety of dangerous missions and mysterious events, but her natural sunny disposition helps her through all the incidents as she solves each mystery one after the other.\n\n(Source: Wikipedia)"""
-animeRelated	[b'Nanako SOS']
-animeCharacters	[b'Tomoshige, Yotsuya', b'Iidabashi', b'Nanako', b'Dr. Ishikawa', b'Seven', b'Eleven', b'Oshamambe']
-animeVoices	[b'\nMitsuya, Yuuji\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nKitou, Reiko\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nTonguu, Kyouko\nJapanese\n', b'\nTakiguchi, Junpei\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nShigino, Akira\n\nDirector, Chief Animation Director\n\n', b'\nTsukasa, Sunaga\n\nEpisode Director\n\n', b""\nD'Avena, Cristina\n\nTheme Song Performance\n\n"", b'\nNitta, Ichirou\n\nTheme Song Arrangement, Theme Song Composition, Music\n\n']"
+animePopularity	10050
+animeDescription	"Nanako is a young girl who unexpectedly acquires supernatural powers and at the same time loses her past memory. By accident, a scientific genius called Marlow, is present when she acquires her powers. Marlow is an industrious high school boy with extraordinary ambitions. He talks to Nanako into joining his detective agency by promising to help her regain her memory. Nanako innocently believes him, but Marlow's real intent is to use her powers to benefit his agency and himself.
+
+The story unfolds as Nanako encounters a variety of dangerous missions and mysterious events, but her natural sunny disposition helps her through all the incidents as she solves each mystery one after the other.
+
+(Source: Wikipedia)"
+animeRelated	['Nanako SOS']
+animeCharacters	['Tomoshige, Yotsuya', 'Iidabashi', 'Nanako', 'Dr. Ishikawa', 'Seven', 'Eleven', 'Oshamambe']
+animeVoices	['Mitsuya, Yuuji', 'Furuya, Toru', 'Kitou, Reiko', 'Ginga, Banjou', 'Tatsuta, Naoki', 'Tonguu, Kyouko', 'Takiguchi, Junpei']
+animeStaff	"[['Shigino, Akira', 'Director, Chief Animation Director'], ['Tsukasa, Sunaga', 'Episode Director'], [""D'Avena, Cristina"", 'Theme Song Performance'], ['Nitta, Ichirou', 'Theme Song Arrangement, Theme Song Composition, Music']]"

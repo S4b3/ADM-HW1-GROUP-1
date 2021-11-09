@@ -1,5 +1,5 @@
-animeTitle	b'Kiddy Grade: Maelstrom'
-animeType	b'Movie'
+animeTitle	Kiddy Grade: Maelstrom
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.07
 animeUsers	1172
 animeRank	
-animePopularity	
-animeDescription	"b""A recap of the original anime's second quarter."""
-animeRelated	[b'Kiddy Grade', b'Kiddy Grade: Ignition', b'Kiddy Grade: Truth Dawn']
-animeCharacters	"[b'\xc3\x89clair', b'Lumi\xc3\xa8re', b'Sinistra', b'Tweedledee', b'Tweedledum', b'Jenever, Alv', b'Viola', b'Armbrust', b'Dextera', b""D'Autriche, Chevalier""]"
-animeVoices	[b'\nHirano, Aya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKikuchi, Tsuyoshi\n\nAssistant Producer\n\n', b'\nGotou, Keiji\n\nDirector\n\n', b'\nKimura, Hidefumi\n\nScript\n\n', b'\nsavage genius\n\nTheme Song Performance\n\n']
+animePopularity	7481
+animeDescription	A recap of the original anime's second quarter.
+animeRelated	['Kiddy Grade', 'Kiddy Grade: Ignition', 'Kiddy Grade: Truth Dawn']
+animeCharacters	"['Éclair', 'Lumière', 'Sinistra', 'Tweedledee', 'Tweedledum', 'Jenever, Alv', 'Viola', 'Armbrust', 'Dextera', ""D'Autriche, Chevalier""]"
+animeVoices	['Hirano, Aya']
+animeStaff	[['Kikuchi, Tsuyoshi', 'Assistant Producer'], ['Gotou, Keiji', 'Director'], ['Kimura, Hidefumi', 'Script'], ['savage genius', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Nukko.'
-animeType	b'TV'
+animeTitle	Nukko.
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""The new Nukko. anime is an adolescent school story revolving around Nukko and Nukko's slightly(?) oddball friends.\n\n(Source: ANN)"""
+animePopularity	15195
+animeDescription	"The new Nukko. anime is an adolescent school story revolving around Nukko and Nukko's slightly(?) oddball friends.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Nukko', b'Ikko']
-animeVoices	[b'\nYamamoto, Ayano\nJapanese\n', b'\nKashida, Yuuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOnaka, Takeshi\n\nDirector, Character Design\n\n', b'\nMiyazaki, Maya\n\nCharacter Design\n\n', b'\nAdachi, Motoichi\n\nSeries Composition\n\n']
+animeCharacters	['Nukko', 'Ikko']
+animeVoices	['Yamamoto, Ayano', 'Kashida, Yuuri']
+animeStaff	[['Onaka, Takeshi', 'Director, Character Design'], ['Miyazaki, Maya', 'Character Design'], ['Adachi, Motoichi', 'Series Composition']]

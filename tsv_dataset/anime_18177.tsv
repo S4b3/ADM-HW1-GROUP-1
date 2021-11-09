@@ -1,5 +1,5 @@
-animeTitle	b'Shinshou Genmukan'
-animeType	b'OVA'
+animeTitle	Shinshou Genmukan
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.42
 animeUsers	1172
 animeRank	
-animePopularity	
-animeDescription	"b""Kido is a private detective. One day, he receives a job offer. It is just to guard his client. He once tries to refuse it, but Mei, Kido's partner, tells him to accept it. Kido reluctantly accepts the offer and visits the client's house. There lives Ayano, a daughter of the client, Shibata, a butler, Imada, a janitor, Nozomi, a live-in maid, and Kaoru, Ayano's home tutor. Kido asks Shibata what's his job, but he just gives a vague answer. He doesn't know what to do, but he gradually gets to know the secret of the family....\n\n(Source: ErogeShop)"""
-animeRelated	[b'Genmukan']
-animeCharacters	[b'Watase, Nozomi', b'Kido, Satoru', b'Tanimura, Kaoru', b'Imada, Kazuyoshi', b'Nakakouji, Ayano', b'Nakayama, Mei']
-animeVoices	[b'\nYamakawa, Kotomi\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n', b'\nFujiwara, Mioko\nJapanese\n', b'\nKobayashi, Maki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTaka, Tony\n\nOriginal Character Design\n\n', b'\nOgawara, Haruo\n\nCharacter Design\n\n']
+animePopularity	7604
+animeDescription	"Kido is a private detective. One day, he receives a job offer. It is just to guard his client. He once tries to refuse it, but Mei, Kido's partner, tells him to accept it. Kido reluctantly accepts the offer and visits the client's house. There lives Ayano, a daughter of the client, Shibata, a butler, Imada, a janitor, Nozomi, a live-in maid, and Kaoru, Ayano's home tutor. Kido asks Shibata what's his job, but he just gives a vague answer. He doesn't know what to do, but he gradually gets to know the secret of the family....
+
+(Source: ErogeShop)"
+animeRelated	['Genmukan']
+animeCharacters	['Watase, Nozomi', 'Kido, Satoru', 'Tanimura, Kaoru', 'Imada, Kazuyoshi', 'Nakakouji, Ayano', 'Nakayama, Mei']
+animeVoices	['Yamakawa, Kotomi', 'Ookawa, Tooru', 'Fujiwara, Mioko', 'Kobayashi, Maki']
+animeStaff	[['Taka, Tony', 'Original Character Design'], ['Ogawara, Haruo', 'Character Design']]

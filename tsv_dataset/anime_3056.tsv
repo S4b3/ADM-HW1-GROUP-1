@@ -1,5 +1,5 @@
-animeTitle	b'Hayate no Gotoku! Heaven Is a Place on Earth'
-animeType	b'Movie'
+animeTitle	Hayate no Gotoku! Heaven Is a Place on Earth
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.16
 animeUsers	16689
 animeRank	
-animePopularity	
-animeDescription	"b""Hayate, Nagi and the gang spend the last days of summer break at Nishizawa's countryside vacation home. But a mysterious spirit has concocted a scheme to separate the butler from his young mistress. \n\n(Source: ANN) """
-animeRelated	"[b'Hayate no Gotoku!', b'Hayate no Gotoku!!', b""Hayate no Gotoku! Can't Take My Eyes Off You""]"
-animeCharacters	[b'Ayasaki, Hayate', b'Sanzenin, Nagi', b'Katsura, Hinagiku', b'Maria', b'Saginomiya, Isumi', b'Nishizawa, Ayumu', b'Segawa, Izumi', b'Suirenji, Ruka', b'Aizawa, Sakuya', b'Tama']
-animeVoices	[b'\nShiraishi, Ryouko\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nTakahashi, Mikako\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nYamazaki, Haruka\nJapanese\n', b'\nUeda, Kana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuda, Akio\n\nProducer\n\n', b'\nSuzuki, Takeyuki\n\nProducer\n\n', b'\nKomori, Hideto\n\nDirector, Episode Director, Storyboard, Key Animation, Character Design, Chief Animation Director, Animation Director\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n']
+animePopularity	3060
+animeDescription	"Hayate, Nagi and the gang spend the last days of summer break at Nishizawa's countryside vacation home. But a mysterious spirit has concocted a scheme to separate the butler from his young mistress. 
+
+(Source: ANN) "
+animeRelated	"['Hayate no Gotoku!', 'Hayate no Gotoku!!', ""Hayate no Gotoku! Can't Take My Eyes Off You""]"
+animeCharacters	['Ayasaki, Hayate', 'Sanzenin, Nagi', 'Katsura, Hinagiku', 'Maria', 'Saginomiya, Isumi', 'Nishizawa, Ayumu', 'Segawa, Izumi', 'Suirenji, Ruka', 'Aizawa, Sakuya', 'Tama']
+animeVoices	['Shiraishi, Ryouko', 'Kugimiya, Rie', 'Itou, Shizuka', 'Tanaka, Rie', 'Matsuki, Miyu', 'Takahashi, Mikako', 'Yahagi, Sayuri', 'Yamazaki, Haruka', 'Ueda, Kana']
+animeStaff	[['Matsuda, Akio', 'Producer'], ['Suzuki, Takeyuki', 'Producer'], ['Komori, Hideto', 'Director, Episode Director, Storyboard, Key Animation, Character Design, Chief Animation Director, Animation Director'], ['Iwanami, Yoshikazu', 'Sound Director']]

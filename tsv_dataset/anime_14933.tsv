@@ -1,5 +1,5 @@
-animeTitle	b'Bakutsuri Bar Hunter'
-animeType	b'TV'
+animeTitle	Bakutsuri Bar Hunter
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Bakutsuri Bar Hunter Movie: Nazo no Barcode Trial! Bakutsure! Shinkaigyo Poseidon']
-animeCharacters	[b'Shuwajirou', b'Samejima, Kiba', b'Potepen', b'Tachitsute, Totta']
-animeVoices	[b'\nNemoto, Kouta\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSetou, Kenji\n\nDirector\n\n', b'\nInoue, Akiko\n\nScript\n\n', b'\nIchikawa, Gigaemon\n\nScript\n\n', b'\nHosokawa, Hideki\n\nStoryboard\n\n']
+animePopularity	13562
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Bakutsuri Bar Hunter Movie: Nazo no Barcode Trial! Bakutsure! Shinkaigyo Poseidon']
+animeCharacters	['Shuwajirou', 'Samejima, Kiba', 'Potepen', 'Tachitsute, Totta']
+animeVoices	['Nemoto, Kouta', 'Saiga, Mitsuki', 'Uchiyama, Yumi', 'Hirohashi, Ryou']
+animeStaff	[['Setou, Kenji', 'Director'], ['Inoue, Akiko', 'Script'], ['Ichikawa, Gigaemon', 'Script'], ['Hosokawa, Hideki', 'Storyboard']]

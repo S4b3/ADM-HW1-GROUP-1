@@ -1,5 +1,5 @@
-animeTitle	b'Crayon Shin-chan Movie 25: Shin-chan Shuurai! Uchuujin Shiriri'
-animeType	b'Movie'
+animeTitle	Crayon Shin-chan Movie 25: Shin-chan Shuurai! Uchuujin Shiriri
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.88
 animeUsers	957
 animeRank	
-animePopularity	
-animeDescription	"b""The film's story begins when Shiriri, an alien, arrives and turns Hiroshi and Misae into children. To turn them back, Shinnosuke must travel the length of Japan with Shiriri hidden in his butt. Meanwhile, Shiriri's father is moving forward with a huge conspiracy. \n\n(Source: ANN)"""
-animeRelated	[b'Crayon Shin-chan', b'Crayon Shin-chan Movie 24: Bakusui! Yumemi World Dai Totsugeki', b'Crayon Shin-chan x Panpaka Pants: Aeon Cinema Manner Movie Collab', b'Crayon Shin-chan Movie 26: Bakumori! Kung Fu Boys - Ramen Tairan']
-animeCharacters	[b'Nohara, Shinnosuke', b'Nohara, Hiroshi', b'Nohara, Misae', b'Nohara, Himawari', b'Shiro', b'Boo-chan', b'Kazama, Tooru', b'Sakurada, Nene', b'Sato, Masao', b'Oohara, Nanako']
+animePopularity	9211
+animeDescription	"The film's story begins when Shiriri, an alien, arrives and turns Hiroshi and Misae into children. To turn them back, Shinnosuke must travel the length of Japan with Shiriri hidden in his butt. Meanwhile, Shiriri's father is moving forward with a huge conspiracy. 
+
+(Source: ANN)"
+animeRelated	['Crayon Shin-chan', 'Crayon Shin-chan Movie 24: Bakusui! Yumemi World Dai Totsugeki', 'Crayon Shin-chan x Panpaka Pants: Aeon Cinema Manner Movie Collab', 'Crayon Shin-chan Movie 26: Bakumori! Kung Fu Boys - Ramen Tairan']
+animeCharacters	['Nohara, Shinnosuke', 'Nohara, Hiroshi', 'Nohara, Misae', 'Nohara, Himawari', 'Shiro', 'Boo-chan', 'Kazama, Tooru', 'Sakurada, Nene', 'Sato, Masao', 'Oohara, Nanako']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHashimoto, Masakazu\n\nDirector\n\n', b'\nTakahashi, Yu\n\nTheme Song Performance\n\n', b'\nUsui, Yoshito\n\nOriginal Creator\n\n', b'\nKuno, Yoko\n\nKey Animation, Character Design, Mechanical Design\n\n']
+animeStaff	[['Hashimoto, Masakazu', 'Director'], ['Takahashi, Yu', 'Theme Song Performance'], ['Usui, Yoshito', 'Original Creator'], ['Kuno, Yoko', 'Key Animation, Character Design, Mechanical Design']]

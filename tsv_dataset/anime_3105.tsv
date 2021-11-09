@@ -1,5 +1,5 @@
-animeTitle	b'Offside (TV)'
-animeType	b'TV'
+animeTitle	Offside (TV)
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.15
 animeUsers	1026
 animeRank	
-animePopularity	
-animeDescription	"b""Goro Kumagaya is an established, tall middle-school goalkeeper who wanted to enter Yokonan high-school that is considered to be among the elites in terms of its football club, only to fail and end up in the lowly-ranked school opposite to Yokonan because of an accident. However, he met Shingo, Hideki and Kazuhito Oda who are all skillful footballers there and together in the Kawasaki High School football club, they challenge Yokonan and any other schools that they have to face in order to improve and become the champions. Any setbacks that they face would instead be an opportunity for a better improvement; one of which was the discovery of Goro's natural talent as an ace striker. \n\n(Source: ANN) """
-animeRelated	[b'Offside']
-animeCharacters	[b'Kumagaya, Goro', b'Yakumaru, Hideki', b'Sato, Shingo', b'Ibino, Katsuhiko', b'Oda, Yukiko', b'Kayano, Takashi', b'Arimoto, Kantoku', b'Oda, Kazuhito', b'Nouchi, Yoshinari', b'Ibino, Yoshihiko']
-animeVoices	[b'\nTsuchida, Hiroshi\nJapanese\n', b'\nKisaichi, Atsushi\nJapanese\n', b'\nShibuya, Shigeru\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nItou, Miki\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nShimura, Tomoyuki\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nFujita, Yoshinori\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkuda, Seiji\n\nDirector\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nMatsumoto, Yoshihisa\n\nEpisode Director, Storyboard\n\n', b'\nYotsuji, Takao\n\nScript, Theme Song Lyrics, Chief Animation Director\n\n']
+animePopularity	8406
+animeDescription	"Goro Kumagaya is an established, tall middle-school goalkeeper who wanted to enter Yokonan high-school that is considered to be among the elites in terms of its football club, only to fail and end up in the lowly-ranked school opposite to Yokonan because of an accident. However, he met Shingo, Hideki and Kazuhito Oda who are all skillful footballers there and together in the Kawasaki High School football club, they challenge Yokonan and any other schools that they have to face in order to improve and become the champions. Any setbacks that they face would instead be an opportunity for a better improvement; one of which was the discovery of Goro's natural talent as an ace striker. 
+
+(Source: ANN) "
+animeRelated	['Offside']
+animeCharacters	['Kumagaya, Goro', 'Yakumaru, Hideki', 'Sato, Shingo', 'Ibino, Katsuhiko', 'Oda, Yukiko', 'Kayano, Takashi', 'Arimoto, Kantoku', 'Oda, Kazuhito', 'Nouchi, Yoshinari', 'Ibino, Yoshihiko']
+animeVoices	['Tsuchida, Hiroshi', 'Kisaichi, Atsushi', 'Shibuya, Shigeru', 'Kamiya, Hiroshi', 'Itou, Miki', 'Miki, Shinichiro', 'Shimura, Tomoyuki', 'Matsumoto, Yasunori', 'Fujita, Yoshinori', 'Canna, Nobutoshi']
+animeStaff	[['Okuda, Seiji', 'Director'], ['Watanabe, Jun', 'Sound Director'], ['Matsumoto, Yoshihisa', 'Episode Director, Storyboard'], ['Yotsuji, Takao', 'Script, Theme Song Lyrics, Chief Animation Director']]

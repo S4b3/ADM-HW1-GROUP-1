@@ -1,5 +1,5 @@
-animeTitle	b'Gall Force 1: Eternal Story'
-animeType	b'Movie'
+animeTitle	Gall Force 1: Eternal Story
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.43
 animeUsers	2088
 animeRank	
-animePopularity	
-animeDescription	b'Two advanced civilizations, the Paranoids (a race of alien humanoids) and the Solenoids (who are all women) are waging a war that has gone on for centuries. When the Solenoid fleet leaves a battle to defend an experimentally terraformed world from the Paranoids, one damaged Solenoid ship, the Star Leaf, is separated from the fleet. \n\nOnly seven women remain alive on the ship: Eluza, the captain, Rabby, the solid more or less main character, Lufy, the brash pilot, Catty, the mysterious science officer, Pony, the pink-haired ditzy tech, Patty, a solid crew member, and Remy, the cute one. \n\nAfter narrowly escaping the battle, the crew of the Star Leaf decides to continue with their orders and rendezvous at planet Chaos to defend it. It turns out, however, that their ship is the subject of a Paranoid experiment. In the end, it is up to the remaining crew Star Leaf to defend the artificial paradise of Chaos from the Paranoid fleet and the plans of the Solenoid leaders.\n\n(Source: AniDB)'
-animeRelated	[b'Gall Force 2: Destruction', b'Gall Force: The Revolution', b'Scramble Wars: Tsuppashire! Genom Trophy Rally', b'Ten Little Gall Force']
-animeCharacters	[b'Rabby', b'Catty', b'Rumy', b'Patty', b'Eluza', b'Lufy', b'Pony']
-animeVoices	[b'\nMatsui, Naoko\nJapanese\n', b'\nWatanabe, Naoko\nJapanese\n', b'\nYamamoto, Yuriko\nJapanese\n', b'\nHara, Eriko\nJapanese\n', b'\nKawamura, Maria\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkiyama, Katsuhito\n\nDirector\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b'\nYatagai, Kenichi\n\nEpisode Director\n\n', b'\nTomita, Sukehiro\n\nScript\n\n']
+animePopularity	6578
+animeDescription	"Two advanced civilizations, the Paranoids (a race of alien humanoids) and the Solenoids (who are all women) are waging a war that has gone on for centuries. When the Solenoid fleet leaves a battle to defend an experimentally terraformed world from the Paranoids, one damaged Solenoid ship, the Star Leaf, is separated from the fleet. 
+
+Only seven women remain alive on the ship: Eluza, the captain, Rabby, the solid more or less main character, Lufy, the brash pilot, Catty, the mysterious science officer, Pony, the pink-haired ditzy tech, Patty, a solid crew member, and Remy, the cute one. 
+
+After narrowly escaping the battle, the crew of the Star Leaf decides to continue with their orders and rendezvous at planet Chaos to defend it. It turns out, however, that their ship is the subject of a Paranoid experiment. In the end, it is up to the remaining crew Star Leaf to defend the artificial paradise of Chaos from the Paranoid fleet and the plans of the Solenoid leaders.
+
+(Source: AniDB)"
+animeRelated	['Gall Force 2: Destruction', 'Gall Force: The Revolution', 'Scramble Wars: Tsuppashire! Genom Trophy Rally', 'Ten Little Gall Force']
+animeCharacters	['Rabby', 'Catty', 'Rumy', 'Patty', 'Eluza', 'Lufy', 'Pony']
+animeVoices	['Matsui, Naoko', 'Watanabe, Naoko', 'Yamamoto, Yuriko', 'Hara, Eriko', 'Kawamura, Maria', 'Tsuru, Hiromi', 'Tomizawa, Michie']
+animeStaff	[['Akiyama, Katsuhito', 'Director'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Yatagai, Kenichi', 'Episode Director'], ['Tomita, Sukehiro', 'Script']]

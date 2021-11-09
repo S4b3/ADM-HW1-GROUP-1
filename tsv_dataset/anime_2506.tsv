@@ -1,5 +1,5 @@
-animeTitle	b'One Piece: Adventure of Nebulandia'
-animeType	b'Special'
+animeTitle	One Piece: Adventure of Nebulandia
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.28
 animeUsers	15967
 animeRank	
-animePopularity	
-animeDescription	b'This special will have the Straw Hats fight Foxy again in the New World on Nebulandia, an island that nullifies Devil Fruit powers.'
-animeRelated	[b'One Piece']
-animeCharacters	[b'Monkey D., Luffy', b'Roronoa, Zoro', b'Sanji', b'Nico, Robin', b'Tony Tony, Chopper', b'Usopp', b'Nami', b'Brook', b'Franky', b'Foxy']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nYamaguchi, Yuriko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nCho\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nShimada, Bin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUda, Kounosuke\n\nDirector\n\n', b'\nTomioka, Atsuhiro\n\nScript\n\n', b'\nKoga, Gou\n\nStoryboard\n\n', b'\nTokoro, Katsumi\n\nStoryboard\n\n']
+animePopularity	3283
+animeDescription	This special will have the Straw Hats fight Foxy again in the New World on Nebulandia, an island that nullifies Devil Fruit powers.
+animeRelated	['One Piece']
+animeCharacters	['Monkey D., Luffy', 'Roronoa, Zoro', 'Sanji', 'Nico, Robin', 'Tony Tony, Chopper', 'Usopp', 'Nami', 'Brook', 'Franky', 'Foxy']
+animeVoices	['Tanaka, Mayumi', 'Nakai, Kazuya', 'Hirata, Hiroaki', 'Yamaguchi, Yuriko', 'Ootani, Ikue', 'Yamaguchi, Kappei', 'Okamura, Akemi', 'Cho', 'Yao, Kazuki', 'Shimada, Bin']
+animeStaff	[['Uda, Kounosuke', 'Director'], ['Tomioka, Atsuhiro', 'Script'], ['Koga, Gou', 'Storyboard'], ['Tokoro, Katsumi', 'Storyboard']]

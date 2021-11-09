@@ -1,5 +1,5 @@
-animeTitle	b'Ashita e Free Kick'
-animeType	b'TV'
+animeTitle	Ashita e Free Kick
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.42
 animeUsers	611
 animeRank	
-animePopularity	
-animeDescription	b'Shun Godai is a young boy who likes soccer. But his grandfather, a successful businessman, want his grandson to follow his path...'
+animePopularity	9602
+animeDescription	Shun Godai is a young boy who likes soccer. But his grandfather, a successful businessman, want his grandson to follow his path...
 animeRelated	[]
-animeCharacters	[b'Godai, Shun', b'Mascowitz, Jose', b'Aritaka, Mizuho', b'Henderson, Carl', b'Toto', b'Morita, Mirei', b'Bazettini, Roberto', b'Randou, Shin', b'Green, Abe', b'Becken, Chris']
-animeVoices	[b'\nKusao, Takeshi\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nAmano, Yuri\nJapanese\n', b'\nIshino, Ryuuzou\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOrikasa, Ai\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nIwanaga, Tetsuya\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nAmino, Tetsuro\n\nDirector\n\n', b'\nItou, Naoyuki\n\nEpisode Director, Animation Director\n\n', b'\nKato, Takao\n\nEpisode Director, Storyboard\n\n', b""\nD'Avena, Cristina\n\nTheme Song Performance\n\n""]"
+animeCharacters	['Godai, Shun', 'Mascowitz, Jose', 'Aritaka, Mizuho', 'Henderson, Carl', 'Toto', 'Morita, Mirei', 'Bazettini, Roberto', 'Randou, Shin', 'Green, Abe', 'Becken, Chris']
+animeVoices	['Kusao, Takeshi', 'Takagi, Wataru', 'Amano, Yuri', 'Ishino, Ryuuzou', 'Yamaguchi, Kappei', 'Orikasa, Ai', 'Sasaki, Nozomu', 'Koyasu, Takehito', 'Iwanaga, Tetsuya', 'Kosugi, Juurouta']
+animeStaff	"[['Amino, Tetsuro', 'Director'], ['Itou, Naoyuki', 'Episode Director, Animation Director'], ['Kato, Takao', 'Episode Director, Storyboard'], [""D'Avena, Cristina"", 'Theme Song Performance']]"

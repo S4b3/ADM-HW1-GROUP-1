@@ -1,5 +1,5 @@
-animeTitle	b'Platonic Chain'
-animeType	b'TV'
+animeTitle	Platonic Chain
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.63
 animeUsers	649
 animeRank	
-animePopularity	
-animeDescription	b'In the near future, technology has made a few leaps and bounds, and videophones and constant wireless internet access are available to everyone. However, it would seen that the government has been careless and a skilled hacker was able to break into the national information archive. Using the data held there he creates the Platonic Chain website for people to discover information about themselves and their friends. Words start to spread quickly that there is a site that enables you to look up anything. Coincidentally, three young girls, Hitomi, Rika, and Kanae, are able to access the site.\n\n(Source: ANN)'
-animeRelated	[b'Platonic Chain', b'Platonic Chain: Web', b'Platonic Chain: Ansatsu Jikkouchuu']
-animeCharacters	[b'Mizuhara, Kanae', b'Tanaka, Hitomi', b'Kagura, Rika']
-animeVoices	[b'\nTsunakake, Hiromi\nJapanese\n', b'\nChiba, Saeko\nJapanese\n', b'\nNonaka, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItami, Aki\n\nScript\n\n', b'\nIchikawa, Ai\n\nTheme Song Performance\n\n', b'\nOkazaki, Takeshi\n\nCharacter Design\n\n']
+animePopularity	8164
+animeDescription	"In the near future, technology has made a few leaps and bounds, and videophones and constant wireless internet access are available to everyone. However, it would seen that the government has been careless and a skilled hacker was able to break into the national information archive. Using the data held there he creates the Platonic Chain website for people to discover information about themselves and their friends. Words start to spread quickly that there is a site that enables you to look up anything. Coincidentally, three young girls, Hitomi, Rika, and Kanae, are able to access the site.
+
+(Source: ANN)"
+animeRelated	['Platonic Chain', 'Platonic Chain: Web', 'Platonic Chain: Ansatsu Jikkouchuu']
+animeCharacters	['Mizuhara, Kanae', 'Tanaka, Hitomi', 'Kagura, Rika']
+animeVoices	['Tsunakake, Hiromi', 'Chiba, Saeko', 'Nonaka, Ai']
+animeStaff	[['Itami, Aki', 'Script'], ['Ichikawa, Ai', 'Theme Song Performance'], ['Okazaki, Takeshi', 'Character Design']]

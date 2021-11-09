@@ -1,5 +1,5 @@
-animeTitle	b'Gang-aji Ttong'
-animeType	b'Movie'
+animeTitle	Gang-aji Ttong
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.73
 animeUsers	1353
 animeRank	
-animePopularity	
-animeDescription	"b""Once upon a time, a little doggy poo lived on the side of a road. He felt all alone in this world. He believed that nobody needed him for anything, and that he had no purpose in life. If only Doggy Poo had a reason for being, then he wouldn't give up on his dream to be useful to this world. One day, Doggy Poo meets a lovely dandelion sprout. Will she explain his purpose in life? Will she help him make his dream come true?\n\n(Source: AniDB)"""
+animePopularity	8374
+animeDescription	"Once upon a time, a little doggy poo lived on the side of a road. He felt all alone in this world. He believed that nobody needed him for anything, and that he had no purpose in life. If only Doggy Poo had a reason for being, then he wouldn't give up on his dream to be useful to this world. One day, Doggy Poo meets a lovely dandelion sprout. Will she explain his purpose in life? Will she help him make his dream come true?
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Doggy Poo', b'Hen, Mother', b'Sprout, Dandelion', b'Lump of Soil', b'Farmer ', b'Sparrow ', b'Leaf']
+animeCharacters	['Doggy Poo', 'Hen, Mother', 'Sprout, Dandelion', 'Lump of Soil', 'Farmer ', 'Sparrow ', 'Leaf']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKwon, Oh-Sung\n\nDirector\n\n', b'\nYiruma\n\nTheme Song Lyrics, Music\n\n', b'\nPark, Nomi\n\nScreenplay\n\n', b'\nYi, Hyo-Jung\n\nProduction Manager\n\n']
+animeStaff	[['Kwon, Oh-Sung', 'Director'], ['Yiruma', 'Theme Song Lyrics, Music'], ['Park, Nomi', 'Screenplay'], ['Yi, Hyo-Jung', 'Production Manager']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ganbare!! Tabuchi-kun!!'
-animeType	b'Movie'
+animeTitle	Ganbare!! Tabuchi-kun!!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The Seibu Lions baseball team makes it to the next round of a baseball tournament thanks to the heroic efforts of its star player, Tabuchi, but the next stage will involve hard work and cooperation.\n\n(Source: AniDB)'
-animeRelated	[b'Ganbare!! Tabuchi-kun!!', b'Ganbare!! Tabuchi-kun!! Gekitou Pennant Race', b'Ganbare!! Tabuchi-kun!! (ONA)']
-animeCharacters	[b'Tabuchi', b'Nemoto Kantoku', b'Miyoko']
-animeVoices	[b'\nNishida, Toshiyuki\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nNiki, Terumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShibayama, Tsutomu\n\nDirector\n\n', b'\nKonparu, Tomoko\n\nScript\n\n', b'\nTsuji, Masaki\n\nScript\n\n', b'\nDezaki, Satoshi\n\nScript\n\n']
+animePopularity	14744
+animeDescription	"The Seibu Lions baseball team makes it to the next round of a baseball tournament thanks to the heroic efforts of its star player, Tabuchi, but the next stage will involve hard work and cooperation.
+
+(Source: AniDB)"
+animeRelated	['Ganbare!! Tabuchi-kun!!', 'Ganbare!! Tabuchi-kun!! Gekitou Pennant Race', 'Ganbare!! Tabuchi-kun!! (ONA)']
+animeCharacters	['Tabuchi', 'Nemoto Kantoku', 'Miyoko']
+animeVoices	['Nishida, Toshiyuki', 'Utsumi, Kenji', 'Niki, Terumi']
+animeStaff	[['Shibayama, Tsutomu', 'Director'], ['Konparu, Tomoko', 'Script'], ['Tsuji, Masaki', 'Script'], ['Dezaki, Satoshi', 'Script']]

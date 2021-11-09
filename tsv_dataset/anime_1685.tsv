@@ -1,5 +1,5 @@
-animeTitle	b'Joshiraku'
-animeType	b'TV'
+animeTitle	Joshiraku
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.48
 animeUsers	36368
 animeRank	
-animePopularity	
-animeDescription	b'Joshiraku follows the conversations of five rakugo storyteller girls relating the odd things that happen to them each day. Their comedic and satirical chatting covers all kinds of topics, from pointless observations of everyday life, to politics, manga, and more. Each girl has something new to add to the discussion, and the discourse never ends in the same place it began.\n\nEach of the rakugo girls has their own unique personality, with the energetic but immature Marii Buratei; the seemingly cute Kigurumi Haroukitei; the inherently lucky and carefree Tetora Bouhatei; the calm and violent Gankyou Kuurubiyuutei; and the pessimistic and unstable Kukuru Anrakutei. These girls\xe2\x80\x94and their mysterious friend in a wrestling mask\xe2\x80\x94give their observations to the audience, either backstage at the rakugo theater or in various famous locations around Tokyo.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Joshiraku', b'Joshiraku OVA']
-animeCharacters	[b'Anrakutei, Kukuru', b'Buratei, Marii', b'Haroukitei, Kigurumi', b'Kuurubiyuutei, Gankyou', b'Bouhatei, Tetora', b'Mask', b'Old woman 3', b'Uzatei, Uzannu']
-animeVoices	[b'\nGotou, Saori\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nKoiwai, Kotori\nJapanese\n', b'\nNanjou, Yoshino\nJapanese\n', b'\nYamamoto, Nozomi\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nShintani, Ryouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyamoto, Junnosuke\n\nProducer\n\n', b'\nMizushima, Tsutomu\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nTakashima, Daisuke\n\nEpisode Director\n\n']
+animePopularity	1228
+animeDescription	"Joshiraku follows the conversations of five rakugo storyteller girls relating the odd things that happen to them each day. Their comedic and satirical chatting covers all kinds of topics, from pointless observations of everyday life, to politics, manga, and more. Each girl has something new to add to the discussion, and the discourse never ends in the same place it began.
+
+Each of the rakugo girls has their own unique personality, with the energetic but immature Marii Buratei; the seemingly cute Kigurumi Haroukitei; the inherently lucky and carefree Tetora Bouhatei; the calm and violent Gankyou Kuurubiyuutei; and the pessimistic and unstable Kukuru Anrakutei. These girls—and their mysterious friend in a wrestling mask—give their observations to the audience, either backstage at the rakugo theater or in various famous locations around Tokyo.
+
+[Written by MAL Rewrite]"
+animeRelated	['Joshiraku', 'Joshiraku OVA']
+animeCharacters	['Anrakutei, Kukuru', 'Buratei, Marii', 'Haroukitei, Kigurumi', 'Kuurubiyuutei, Gankyou', 'Bouhatei, Tetora', 'Mask', 'Old woman 3', 'Uzatei, Uzannu']
+animeVoices	['Gotou, Saori', 'Sakura, Ayane', 'Koiwai, Kotori', 'Nanjou, Yoshino', 'Yamamoto, Nozomi', 'Yuuki, Aoi', 'Shintani, Ryouko']
+animeStaff	[['Miyamoto, Junnosuke', 'Producer'], ['Mizushima, Tsutomu', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Takashima, Daisuke', 'Episode Director']]

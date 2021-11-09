@@ -1,5 +1,5 @@
-animeTitle	b'Dallos'
-animeType	b'OVA'
+animeTitle	Dallos
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.96
 animeUsers	2300
 animeRank	
-animePopularity	
-animeDescription	"b""At the end of the 21st century, Earth had to confront the problem of population increases combined with shortages in resources. Development of the Moon was seen as the way to solve the situation. The Moon's mineral resources reinvigorated the Earth and brought prosperity. However, the achievement of that vision proved painful for those who'd left their home world to settle on the Moon.\n\nOne of Man's greatest dreams has become a nightmare for those who have been forced to live it out. Shun Nonomura doesn't realize it, but he's about to discover a weapon\xe2\x80\x94one that can overthrow the oppressive Monopolice and bring freedom to the lunar colonists. The growing resistance movement is quick to adopt it, along with its creator, into their ranks as they rally around the mysterious alien monument known as Dallos...\n\n(Source: AniDB)"""
-animeRelated	[b'Dallos Special']
-animeCharacters	[b'Nonomura, Shun', b'Leiger, Alex', b'McCoy, Doc']
-animeVoices	[b'\nIkeda, Shuuichi\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOshii, Mamoru\n\nDirector\n\n', b'\nToriumi, Hisayuki\n\nDirector, Screenplay, Original Creator\n\n', b'\nShiba, Shigeharu\n\nSound Director\n\n', b'\nYamashita, Masahito\n\nKey Animation\n\n']
+animePopularity	6169
+animeDescription	"At the end of the 21st century, Earth had to confront the problem of population increases combined with shortages in resources. Development of the Moon was seen as the way to solve the situation. The Moon's mineral resources reinvigorated the Earth and brought prosperity. However, the achievement of that vision proved painful for those who'd left their home world to settle on the Moon.
+
+One of Man's greatest dreams has become a nightmare for those who have been forced to live it out. Shun Nonomura doesn't realize it, but he's about to discover a weapon—one that can overthrow the oppressive Monopolice and bring freedom to the lunar colonists. The growing resistance movement is quick to adopt it, along with its creator, into their ranks as they rally around the mysterious alien monument known as Dallos...
+
+(Source: AniDB)"
+animeRelated	['Dallos Special']
+animeCharacters	['Nonomura, Shun', 'Leiger, Alex', 'McCoy, Doc']
+animeVoices	['Ikeda, Shuuichi', 'Genda, Tesshou']
+animeStaff	[['Oshii, Mamoru', 'Director'], ['Toriumi, Hisayuki', 'Director, Screenplay, Original Creator'], ['Shiba, Shigeharu', 'Sound Director'], ['Yamashita, Masahito', 'Key Animation']]

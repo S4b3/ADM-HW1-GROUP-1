@@ -1,5 +1,5 @@
-animeTitle	b'Usagi Drop Specials'
-animeType	b'Special'
+animeTitle	Usagi Drop Specials
+animeType	Special
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.96
 animeUsers	37235
 animeRank	
-animePopularity	
-animeDescription	"b'Four short episodes bundled with DVD/Blu-Ray.\nVol.1: Episode 2.5 ""Aquarium of Leaves""\nVol.2: Episode 3.5 ""Dear My Santa Claus""\nVol.3: Episode 6.5 ""Full Blossom in the Sky""\nVol.4: Episode 8.5 ""Way Home""'"
-animeRelated	[b'Usagi Drop']
-animeCharacters	[b'Kaga, Rin', b'Kawachi, Daikichi', b'Nitani, Yukari', b'Nitani, Kouki', b'Maeda, Haruko']
-animeVoices	[b'\nMatsuura, Ayu\nJapanese\n', b'\nTsuchida, Hiroshi\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nSakai, Noa\nJapanese\n', b'\nUeda, Kana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsushita, Keiko\n\nProducer\n\n', b'\nNakatake, Tetsuya\n\nProducer\n\n', b'\nKishimoto, Taku\n\nScript, Series Composition\n\n', b'\nUnita, Yumi\n\nOriginal Creator\n\n']
+animePopularity	2185
+animeDescription	"Four short episodes bundled with DVD/Blu-Ray.
+Vol.1: Episode 2.5 ""Aquarium of Leaves""
+Vol.2: Episode 3.5 ""Dear My Santa Claus""
+Vol.3: Episode 6.5 ""Full Blossom in the Sky""
+Vol.4: Episode 8.5 ""Way Home"""
+animeRelated	['Usagi Drop']
+animeCharacters	['Kaga, Rin', 'Kawachi, Daikichi', 'Nitani, Yukari', 'Nitani, Kouki', 'Maeda, Haruko']
+animeVoices	['Matsuura, Ayu', 'Tsuchida, Hiroshi', 'Ohara, Sayaka', 'Sakai, Noa', 'Ueda, Kana']
+animeStaff	[['Matsushita, Keiko', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Kishimoto, Taku', 'Script, Series Composition'], ['Unita, Yumi', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi'
-animeType	b'OVA'
+animeTitle	Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.62
 animeUsers	849
 animeRank	
-animePopularity	
-animeDescription	"b'The story takes place shortly before Cartaphilus took a nap and Chise became an auditor at the academy.\n\nElias and his friends help Chise prepare for the academy, where in the middle of everyday life, Spriggan visits the mansion on a spooky horse with the words, ""The appearance of the ghost hunting association is unusual this time.""\n\nGabriel, an ordinary boy who just moved from London, was bored of his environment of parting with friends, being in an unfamiliar location, and everything else. Sitting by the window and glancing beyond, he spotted a purple smoke and decided to chase after it, looking to escape his boredom. Though it should not, the world of the boy begins to converge with the wizards, who live on the other side behind a thick veil.\n\n(Source: MAL News)'"
-animeRelated	[b'Mahoutsukai no Yome']
-animeCharacters	[b'Hatori, Chise', b'Ainsworth, Elias', b'Ruth', b'Silky', b'Oberon', b'Titania', b'Spriggan', b'Mysterious Boy', b'Gabriel']
-animeVoices	[b'\nTanezaki, Atsumi\nJapanese\n', b'\nTakeuchi, Ryouta\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n', b'\nIchikawa, Aoi\nJapanese\n', b'\nIgarashi, Hiromi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTerasawa, Kazuaki\n\nDirector\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nTakaha, Aya\n\nScript\n\n', b'\nYonaiyama, Youko\n\nScript\n\n']
+animePopularity	2869
+animeDescription	"The story takes place shortly before Cartaphilus took a nap and Chise became an auditor at the academy.
+
+Elias and his friends help Chise prepare for the academy, where in the middle of everyday life, Spriggan visits the mansion on a spooky horse with the words, ""The appearance of the ghost hunting association is unusual this time.""
+
+Gabriel, an ordinary boy who just moved from London, was bored of his environment of parting with friends, being in an unfamiliar location, and everything else. Sitting by the window and glancing beyond, he spotted a purple smoke and decided to chase after it, looking to escape his boredom. Though it should not, the world of the boy begins to converge with the wizards, who live on the other side behind a thick veil.
+
+(Source: MAL News)"
+animeRelated	['Mahoutsukai no Yome']
+animeCharacters	['Hatori, Chise', 'Ainsworth, Elias', 'Ruth', 'Silky', 'Oberon', 'Titania', 'Spriggan', 'Mysterious Boy', 'Gabriel']
+animeVoices	['Tanezaki, Atsumi', 'Takeuchi, Ryouta', 'Uchiyama, Kouki', 'Endou, Aya', 'Yamaguchi, Kappei', 'Ohara, Sayaka', 'Yasumoto, Hiroki', 'Ichikawa, Aoi', 'Igarashi, Hiromi']
+animeStaff	[['Terasawa, Kazuaki', 'Director'], ['Hata, Shouji', 'Sound Director'], ['Takaha, Aya', 'Script'], ['Yonaiyama, Youko', 'Script']]

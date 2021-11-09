@@ -1,5 +1,5 @@
-animeTitle	b'Suika: Manatsu no Okurimono'
-animeType	b'OVA'
+animeTitle	Suika: Manatsu no Okurimono
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.85
 animeUsers	579
 animeRank	
-animePopularity	
-animeDescription	b'A fourth episode that was released as an extra in the Suika boxset.'
-animeRelated	[b'Suika']
-animeCharacters	[b'Shirakawa, Sayaka', b'Masaki, Akane']
+animePopularity	9862
+animeDescription	A fourth episode that was released as an extra in the Suika boxset.
+animeRelated	['Suika']
+animeCharacters	['Shirakawa, Sayaka', 'Masaki, Akane']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nNanao, Naru\n\nOriginal Character Design\n\n']
+animeStaff	[['Nanao, Naru', 'Original Character Design']]

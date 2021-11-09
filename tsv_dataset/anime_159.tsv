@@ -1,5 +1,5 @@
-animeTitle	b'Barakamon'
-animeType	b'TV'
+animeTitle	Barakamon
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.4
 animeUsers	288711
 animeRank	
-animePopularity	
-animeDescription	"b'Seishuu Handa is an up-and-coming calligrapher: young, handsome, talented, and unfortunately, a narcissist to boot. When a veteran labels his award-winning piece as ""unoriginal,"" Seishuu quickly loses his cool with severe repercussions.\n\nAs punishment, and also in order to aid him in self-reflection, Seishuu\'s father exiles him to the Goto Islands, far from the comfortable Tokyo lifestyle the temperamental artist is used to. Now thrown into a rural setting, Seishuu must attempt to find new inspiration and develop his own unique art style\xe2\x80\x94that is, if boisterous children (headed by the frisky Naru Kotoishi), fujoshi middle schoolers, and energetic old men stop barging into his house! The newest addition to the intimate and quirky Goto community only wants to get some work done, but the islands are far from the peaceful countryside he signed up for. Thanks to his wacky neighbors who are entirely incapable of minding their own business, the arrogant calligrapher learns so much more than he ever hoped to.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Barakamon', b'Mijikamon', b'Handa-kun']
-animeCharacters	[b'Kotoishi, Naru', b'Handa, Sei', b'Arai, Tamako', b'Kubota, Hina', b'Yamamura, Miwa', b'Kido, Hiroshi', b'Handa, Emi', b'Kawafuji, Takao', b'Sakamoto, Kazuyuki', b'Oohama, Kentarou']
-animeVoices	[b'\nHara, Suzuko\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nOokubo, Rumi\nJapanese\n', b'\nEndou, Rina\nJapanese\n', b'\nFuruki, Nozomi\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nTakamori, Yoshino\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nTachiki, Fumihiko\nJapanese\n', b'\nKimura, Seiya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTachibana, Masaki\n\nDirector, Episode Director, Storyboard, 2nd Key Animation, Key Animation, Principle Drawing\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n', b'\nIino, Shinya\n\nEpisode Director\n\n', b'\nKaneko, Shingo\n\nEpisode Director\n\n']
+animePopularity	264
+animeDescription	"Seishuu Handa is an up-and-coming calligrapher: young, handsome, talented, and unfortunately, a narcissist to boot. When a veteran labels his award-winning piece as ""unoriginal,"" Seishuu quickly loses his cool with severe repercussions.
+
+As punishment, and also in order to aid him in self-reflection, Seishuu's father exiles him to the Goto Islands, far from the comfortable Tokyo lifestyle the temperamental artist is used to. Now thrown into a rural setting, Seishuu must attempt to find new inspiration and develop his own unique art style—that is, if boisterous children (headed by the frisky Naru Kotoishi), fujoshi middle schoolers, and energetic old men stop barging into his house! The newest addition to the intimate and quirky Goto community only wants to get some work done, but the islands are far from the peaceful countryside he signed up for. Thanks to his wacky neighbors who are entirely incapable of minding their own business, the arrogant calligrapher learns so much more than he ever hoped to.
+
+[Written by MAL Rewrite]"
+animeRelated	['Barakamon', 'Mijikamon', 'Handa-kun']
+animeCharacters	['Kotoishi, Naru', 'Handa, Sei', 'Arai, Tamako', 'Kubota, Hina', 'Yamamura, Miwa', 'Kido, Hiroshi', 'Handa, Emi', 'Kawafuji, Takao', 'Sakamoto, Kazuyuki', 'Oohama, Kentarou']
+animeVoices	['Hara, Suzuko', 'Ono, Daisuke', 'Ookubo, Rumi', 'Endou, Rina', 'Furuki, Nozomi', 'Uchiyama, Kouki', 'Takamori, Yoshino', 'Suwabe, Junichi', 'Tachiki, Fumihiko', 'Kimura, Seiya']
+animeStaff	[['Tachibana, Masaki', 'Director, Episode Director, Storyboard, 2nd Key Animation, Key Animation, Principle Drawing'], ['Wakabayashi, Kazuhiro', 'Sound Director'], ['Iino, Shinya', 'Episode Director'], ['Kaneko, Shingo', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Bakugan Battle Brawlers'
-animeType	b'TV'
+animeTitle	Bakugan Battle Brawlers
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,17 @@ animeNumMembers
 animeScore	6.37
 animeUsers	54220
 animeRank	
-animePopularity	
-animeDescription	"b""Mysterious cards came down from the sky one day. Capable of summoning powerful creatures from another dimension, they became the centerpiece of a new game called Bakugan. The game gained instant popularity among children and teenagers, with the best of them competing in a worldwide ranking.\n\nMeanwhile, war for domination over Vestroia, the homeland of Bakugan cards, rages on. Invaded by the White Dragon Naga and his servants, the Doom Beings, the realm becomes increasingly destabilized. Dimensions begin to merge and many Bakugan players come to realize that their pastime is not merely a game.\n\nDanma Kuusou, one such Bakugan player, intends to become the World Ranking's leader someday. However, during one of his fights he experiences a vision of a clash in Vestroia. The fight suddenly moves to Earth, where Danma comes into possession of a talking, mighty fire Bakugan, Pyrus Dragonoid.\n\nHe soon gets dragged into the conflict, and together with his Bakugan Brawlers team, must traverse the dimensions and restore balance in a ravaged world.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Bakugan Battle Brawlers: New Vestroia', b'Baku Tech! Bakugan', b'Bakugan: Battle Planet']
-animeCharacters	[b'Kazami, Shun', b'Kuusou, Danma', b'Gehabich, Alice', b'Misaki, Runo', b'Drago', b'Marukura, Chouji', b'Heyward, Julie', b'Masquerade', b'Von Hertzon, Klaus', b'Lee, Chan']
-animeVoices	[b'\nSuzuki, Chihiro\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nSendai, Eri\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n', b'\nMizuno, Risa\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nKondou, Takayuki\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHashimoto, Mitsuo\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nKatou, Hiroto\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nKunihiro, Mori\n\nEpisode Director, Storyboard\n\n']
+animePopularity	1779
+animeDescription	"Mysterious cards came down from the sky one day. Capable of summoning powerful creatures from another dimension, they became the centerpiece of a new game called Bakugan. The game gained instant popularity among children and teenagers, with the best of them competing in a worldwide ranking.
+
+Meanwhile, war for domination over Vestroia, the homeland of Bakugan cards, rages on. Invaded by the White Dragon Naga and his servants, the Doom Beings, the realm becomes increasingly destabilized. Dimensions begin to merge and many Bakugan players come to realize that their pastime is not merely a game.
+
+Danma Kuusou, one such Bakugan player, intends to become the World Ranking's leader someday. However, during one of his fights he experiences a vision of a clash in Vestroia. The fight suddenly moves to Earth, where Danma comes into possession of a talking, mighty fire Bakugan, Pyrus Dragonoid.
+
+He soon gets dragged into the conflict, and together with his Bakugan Brawlers team, must traverse the dimensions and restore balance in a ravaged world.
+
+[Written by MAL Rewrite]"
+animeRelated	['Bakugan Battle Brawlers: New Vestroia', 'Baku Tech! Bakugan', 'Bakugan: Battle Planet']
+animeCharacters	['Kazami, Shun', 'Kuusou, Danma', 'Gehabich, Alice', 'Misaki, Runo', 'Drago', 'Marukura, Chouji', 'Heyward, Julie', 'Masquerade', 'Von Hertzon, Klaus', 'Lee, Chan']
+animeVoices	['Suzuki, Chihiro', 'Kobayashi, Yuu', 'Noto, Mamiko', 'Sendai, Eri', 'Fujiwara, Keiji', 'Hirohashi, Ryou', 'Mizuno, Risa', 'Hoshi, Souichirou', 'Kondou, Takayuki', 'Sawashiro, Miyuki']
+animeStaff	[['Hashimoto, Mitsuo', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Katou, Hiroto', 'Episode Director, Storyboard, Key Animation'], ['Kunihiro, Mori', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ashita no Nadja'
-animeType	b'TV'
+animeTitle	Ashita no Nadja
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.59
 animeUsers	9083
 animeRank	
-animePopularity	
-animeDescription	"b""This story takes place about one hundred years ago. Nadja is a bright, cheerful girl who was raised in an orphanage near London, England. Nadja was entrusted to the orphanage when she was a baby. So she thought her father and mother were dead. But before her thirteenth birthday, she found out that her mother might be alive..\n\nNadja sets out on a journey to find her mother! With all of Europe as the stage, Nadja's exciting adventure begins!\n\n(Source: AniDB)"""
-animeRelated	[b'Ashita no Nadja']
-animeCharacters	[b'Applefield, Nadja', b'Harcourt, Keith', b'Harcourt, Francis', b'Applefield, Rosemary', b'Arte, Sylvie', b'Rossi, Rita', b'Tsurugi, Kennosuke', b'Strand, Christian', b'Raphael', b'Geiger, Abel']
-animeVoices	[b'\nKoshimizu, Ami\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nShishido, Rumi\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nKiuchi, Reiko\nJapanese\n', b'\nOguri, Yusuke\nJapanese\n', b'\nYamamoto, Kouji\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIgarashi, Takuya\n\nDirector\n\n', b'\nKasai, Osamu\n\nSound Director, Episode Director, Storyboard\n\n', b'\nHosoda, Mamoru\n\nEpisode Director, Storyboard, Layout, Key Animation\n\n', b'\nYamauchi, Shigeyasu\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3463
+animeDescription	"This story takes place about one hundred years ago. Nadja is a bright, cheerful girl who was raised in an orphanage near London, England. Nadja was entrusted to the orphanage when she was a baby. So she thought her father and mother were dead. But before her thirteenth birthday, she found out that her mother might be alive..
+
+Nadja sets out on a journey to find her mother! With all of Europe as the stage, Nadja's exciting adventure begins!
+
+(Source: AniDB)"
+animeRelated	['Ashita no Nadja']
+animeCharacters	['Applefield, Nadja', 'Harcourt, Keith', 'Harcourt, Francis', 'Applefield, Rosemary', 'Arte, Sylvie', 'Rossi, Rita', 'Tsurugi, Kennosuke', 'Strand, Christian', 'Raphael', 'Geiger, Abel']
+animeVoices	['Koshimizu, Ami', 'Saiga, Mitsuki', 'Shishido, Rumi', 'Orikasa, Fumiko', 'Ootani, Ikue', 'Kiuchi, Reiko', 'Oguri, Yusuke', 'Yamamoto, Kouji', 'Yamazaki, Takumi']
+animeStaff	[['Igarashi, Takuya', 'Director'], ['Kasai, Osamu', 'Sound Director, Episode Director, Storyboard'], ['Hosoda, Mamoru', 'Episode Director, Storyboard, Layout, Key Animation'], ['Yamauchi, Shigeyasu', 'Episode Director, Storyboard']]

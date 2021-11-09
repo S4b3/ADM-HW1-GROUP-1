@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon XY: Odemashi Ko Majin Hoopa'
-animeType	b'OVA'
+animeTitle	Pokemon XY: Odemashi Ko Majin Hoopa
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.38
 animeUsers	3067
 animeRank	
-animePopularity	
-animeDescription	b'An anime short for the Pokemon XY series. It is available in Japan along with the purchasing of a ticket for Hoopa and the Clash of Ages movie, which this short ties into. \n\n(Source: Bulbapedia)'
-animeRelated	[b'Pokemon Movie 18: Ring no Choumajin Hoopa']
-animeCharacters	[b'Hoopa', b'Mary', b'Barza']
-animeVoices	[b'\nNakagawa, Shoko\nJapanese\n', b'\nFujiwara, Tatsuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakano, Satoshi\n\nChief Animation Director\n\n']
+animePopularity	6259
+animeDescription	"An anime short for the Pokemon XY series. It is available in Japan along with the purchasing of a ticket for Hoopa and the Clash of Ages movie, which this short ties into. 
+
+(Source: Bulbapedia)"
+animeRelated	['Pokemon Movie 18: Ring no Choumajin Hoopa']
+animeCharacters	['Hoopa', 'Mary', 'Barza']
+animeVoices	['Nakagawa, Shoko', 'Fujiwara, Tatsuya']
+animeStaff	[['Nakano, Satoshi', 'Chief Animation Director']]

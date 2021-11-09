@@ -1,5 +1,5 @@
-animeTitle	b'Kowarekake no Orgel (Movie)'
-animeType	b'Movie'
+animeTitle	Kowarekake no Orgel (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.31
 animeUsers	5839
 animeRank	
-animePopularity	
-animeDescription	"b""In 2039, helper androids are widespread as general purpose electronics. \n\nKeiichiro lost his family in a traffic accident and retired from his band. One day, he finds an old model android in a garbage dump. He takes her home but after taking her to a repair shop he was told she couldn't be repaired so he planned to throw her away, but the next day he finds her making breakfast for him. Thus begin the summer days of a memoryless android and a dreamless boy. \n\nKowarekake no Orgel was originally an independent animation released as an OVA. Later on it received a theatrical release that is a bit different and longer than the original. """
-animeRelated	[b'Kowarekake no Orgel', b'Kowarekake no Orgel Special']
-animeCharacters	[b'Flower', b'Kuro, Keiichirou', b'Kawada, Noriko', b'Iris', b'Shunpei']
-animeVoices	[b'\nAsano, Masumi\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawaguchi, Keiichirou\n\nDirector\n\n', b'\nPOP\n\nOriginal Character Design\n\n', b'\nInotsume, Shinichi\n\nScreenplay\n\n']
+animePopularity	4570
+animeDescription	"In 2039, helper androids are widespread as general purpose electronics. 
+
+Keiichiro lost his family in a traffic accident and retired from his band. One day, he finds an old model android in a garbage dump. He takes her home but after taking her to a repair shop he was told she couldn't be repaired so he planned to throw her away, but the next day he finds her making breakfast for him. Thus begin the summer days of a memoryless android and a dreamless boy. 
+
+Kowarekake no Orgel was originally an independent animation released as an OVA. Later on it received a theatrical release that is a bit different and longer than the original. "
+animeRelated	['Kowarekake no Orgel', 'Kowarekake no Orgel Special']
+animeCharacters	['Flower', 'Kuro, Keiichirou', 'Kawada, Noriko', 'Iris', 'Shunpei']
+animeVoices	['Asano, Masumi', 'Kakihara, Tetsuya']
+animeStaff	[['Kawaguchi, Keiichirou', 'Director'], ['POP', 'Original Character Design'], ['Inotsume, Shinichi', 'Screenplay']]

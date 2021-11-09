@@ -1,5 +1,5 @@
-animeTitle	b'Penguin Highway'
-animeType	b'Movie'
+animeTitle	Penguin Highway
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.6
 animeUsers	21651
 animeRank	
-animePopularity	
-animeDescription	"b'For a child, Aoyama has knowledge comparable to an adult. As such, he is often teased by his classmates. He also has a crush on the friendly woman he recently met at a dental office. One morning, penguins start mysteriously appearing around his neighborhood. Nobody knows where they came from and how they managed to get there. Aoyama is determined to find out more, and he joins his new crush in researching the penguins.\n\nAs time passes, they discover a levitating sphere which they nickname ""The Sea."" Whatever goes into The Sea does not come back out, and the only things that can destroy it are the penguins. However, something horrifying is created when the penguins do...\n\nPenguin Highway follows Aoyama and the woman\'s research on the mysterious penguins\' origin, as well as the many difficulties Aoyama faces throughout his investigation.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Penguin Highway']
-animeCharacters	[b'Lady', b'Aoyama', b'Uchida', b'Hamamoto', b'Aoyama, Sister', b'Aoyama, Father', b'Suzuki', b'Aoyama, Mother', b'Hamamoto, Father']
-animeVoices	[b'\nAoi, Yuu\nJapanese\n', b'\nKita, Kana\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nHan, Megumi\nJapanese\n', b'\nKuno, Misaki\nJapanese\n', b'\nNishijima, Hidetoshi\nJapanese\n', b'\nFukui, Miki\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nTakenaka, Naoto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Junichi\n\nProducer\n\n', b'\nNakatake, Tetsuya\n\nAssistant Producer\n\n', b'\nIshida, Hiroyasu\n\nDirector, Storyboard\n\n', b'\nKimura, Eriko\n\nSound Director\n\n']
+animePopularity	2300
+animeDescription	"For a child, Aoyama has knowledge comparable to an adult. As such, he is often teased by his classmates. He also has a crush on the friendly woman he recently met at a dental office. One morning, penguins start mysteriously appearing around his neighborhood. Nobody knows where they came from and how they managed to get there. Aoyama is determined to find out more, and he joins his new crush in researching the penguins.
+
+As time passes, they discover a levitating sphere which they nickname ""The Sea."" Whatever goes into The Sea does not come back out, and the only things that can destroy it are the penguins. However, something horrifying is created when the penguins do...
+
+Penguin Highway follows Aoyama and the woman's research on the mysterious penguins' origin, as well as the many difficulties Aoyama faces throughout his investigation.
+
+[Written by MAL Rewrite]"
+animeRelated	['Penguin Highway']
+animeCharacters	['Lady', 'Aoyama', 'Uchida', 'Hamamoto', 'Aoyama, Sister', 'Aoyama, Father', 'Suzuki', 'Aoyama, Mother', 'Hamamoto, Father']
+animeVoices	['Aoi, Yuu', 'Kita, Kana', 'Kugimiya, Rie', 'Han, Megumi', 'Kuno, Misaki', 'Nishijima, Hidetoshi', 'Fukui, Miki', 'Noto, Mamiko', 'Takenaka, Naoto']
+animeStaff	[['Satou, Junichi', 'Producer'], ['Nakatake, Tetsuya', 'Assistant Producer'], ['Ishida, Hiroyasu', 'Director, Storyboard'], ['Kimura, Eriko', 'Sound Director']]

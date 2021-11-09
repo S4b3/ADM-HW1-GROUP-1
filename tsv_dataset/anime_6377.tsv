@@ -1,5 +1,5 @@
-animeTitle	b'Midnight Eye: Gokuu'
-animeType	b'OVA'
+animeTitle	Midnight Eye: Gokuu
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.45
 animeUsers	3528
 animeRank	
-animePopularity	
-animeDescription	"b'Furinji Goku is a detective who has an ""eye of god"".\n\nWhile he was investigating the murder case of his colleague when he had been an officer, he was pressured to stop it by the police executives. However, he continue investigating, and he lost his left eye. When he was about to be killed, a mysterious group helped him and transplant an artificial eye. The eye was a super technological device that connected to the whole computer network in the world, and enabled him to control any computers.\n\n(Source: AnimeNfo)'"
-animeRelated	[b'Midnight Eye Gokuu', b'Midnight Eye: Gokuu II']
-animeCharacters	[b'Fuurinji, Gokuu', b'Peacock', b'Yabuki, Youko', b'Chang', b'Dr. Yamazaki', b'Hakuryu, Genji']
-animeVoices	[b'\nMatsuda, Shigeharu\nJapanese\n', b'\nTerase, Kyouko\nJapanese\n', b'\nKoyama, Mami\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Naoko\n\nProducer\n\n', b'\nKawajiri, Yoshiaki\n\nDirector\n\n', b'\nNakanishi, Ryuuzou\n\nScript\n\n', b'\nHamasaki, Hiroshi\n\nAnimation Director, Character Design\n\n']
+animePopularity	5543
+animeDescription	"Furinji Goku is a detective who has an ""eye of god"".
+
+While he was investigating the murder case of his colleague when he had been an officer, he was pressured to stop it by the police executives. However, he continue investigating, and he lost his left eye. When he was about to be killed, a mysterious group helped him and transplant an artificial eye. The eye was a super technological device that connected to the whole computer network in the world, and enabled him to control any computers.
+
+(Source: AnimeNfo)"
+animeRelated	['Midnight Eye Gokuu', 'Midnight Eye: Gokuu II']
+animeCharacters	['Fuurinji, Gokuu', 'Peacock', 'Yabuki, Youko', 'Chang', 'Dr. Yamazaki', 'Hakuryu, Genji']
+animeVoices	['Matsuda, Shigeharu', 'Terase, Kyouko', 'Koyama, Mami', 'Gouri, Daisuke', 'Nagai, Ichiro', 'Wakamoto, Norio']
+animeStaff	[['Takahashi, Naoko', 'Producer'], ['Kawajiri, Yoshiaki', 'Director'], ['Nakanishi, Ryuuzou', 'Script'], ['Hamasaki, Hiroshi', 'Animation Director, Character Design']]

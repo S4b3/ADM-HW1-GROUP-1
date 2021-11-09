@@ -1,5 +1,5 @@
-animeTitle	b'Inazuma Eleven'
-animeType	b'TV'
+animeTitle	Inazuma Eleven
+animeType	TV
 animeNumEpisode	127
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.62
 animeUsers	99850
 animeRank	
-animePopularity	
-animeDescription	"b""While other schools in Japan compete for the title of being the best soccer team in the country, Raimon Middle School's soccer club, Inazuma Eleven, struggles to rise from the verge of being disbanded. The grandson of Inazuma Eleven's first generation goalkeeper and captain of the team, Mamoru Endou, takes the challenge of kicking the long neglected club back into shape. To do this, he'll need a little help and more than a little luck.\n\nMamoru Endou finds hope in the hands of Shuuya Gouenji, a brilliant young player who has given up on soccer. Mamoru is determined to get Shuuya and other new recruits to join his team, no matter what the cost. Is his passion and determination enough to treat the ailing club? Or is there no more hope for the team?"""
-animeRelated	[b'Inazuma Eleven', b'Inazuma Eleven: Special', b'Inazuma Eleven: Saikyou Gundan Ogre Shuurai', b'Inazuma Eleven Go', b'Inazuma Eleven: Chou Jigen Dream Match', b'Inazuma Eleven: Ares no Tenbin', b'Inazuma Eleven x Kaitou Gru no Tsuki Dorobou', b'Inazuma Eleven: Reloaded - Soccer no Henkaku']
-animeCharacters	[b'Endou, Mamoru', b'Gouenji, Shuuya', b'Kidou, Yuuto', b'Fubuki, Shirou', b'Kiyama, Hiroto', b'Afuro, Terumi', b'Kazemaru, Ichirouta', b'Fudou, Akio', b'Tsunami, Jousuke', b'Midorikawa, Ryuuji']
-animeVoices	[b'\nTakeuchi, Junko\nJapanese\n', b'\nNojima, Hirofumi\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nSanpei, Yuuko\nJapanese\n', b'\nNishigaki, Yuka\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nSakaguchi, Shuuhei\nJapanese\n', b'\nKodaira, Yuuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkiyama, Katsuhito\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nTsuda, Naokatsu\n\nEpisode Director\n\n', b'\nFujimoto, Jirou\n\nEpisode Director\n\n']
+animePopularity	1042
+animeDescription	"While other schools in Japan compete for the title of being the best soccer team in the country, Raimon Middle School's soccer club, Inazuma Eleven, struggles to rise from the verge of being disbanded. The grandson of Inazuma Eleven's first generation goalkeeper and captain of the team, Mamoru Endou, takes the challenge of kicking the long neglected club back into shape. To do this, he'll need a little help and more than a little luck.
+
+Mamoru Endou finds hope in the hands of Shuuya Gouenji, a brilliant young player who has given up on soccer. Mamoru is determined to get Shuuya and other new recruits to join his team, no matter what the cost. Is his passion and determination enough to treat the ailing club? Or is there no more hope for the team?"
+animeRelated	['Inazuma Eleven', 'Inazuma Eleven: Special', 'Inazuma Eleven: Saikyou Gundan Ogre Shuurai', 'Inazuma Eleven Go', 'Inazuma Eleven: Chou Jigen Dream Match', 'Inazuma Eleven: Ares no Tenbin', 'Inazuma Eleven x Kaitou Gru no Tsuki Dorobou', 'Inazuma Eleven: Reloaded - Soccer no Henkaku']
+animeCharacters	['Endou, Mamoru', 'Gouenji, Shuuya', 'Kidou, Yuuto', 'Fubuki, Shirou', 'Kiyama, Hiroto', 'Afuro, Terumi', 'Kazemaru, Ichirouta', 'Fudou, Akio', 'Tsunami, Jousuke', 'Midorikawa, Ryuuji']
+animeVoices	['Takeuchi, Junko', 'Nojima, Hirofumi', 'Yoshino, Hiroyuki', 'Miyano, Mamoru', 'Mizushima, Takahiro', 'Sanpei, Yuuko', 'Nishigaki, Yuka', 'Kaji, Yuki', 'Sakaguchi, Shuuhei', 'Kodaira, Yuuki']
+animeStaff	[['Akiyama, Katsuhito', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Tsuda, Naokatsu', 'Episode Director'], ['Fujimoto, Jirou', 'Episode Director']]

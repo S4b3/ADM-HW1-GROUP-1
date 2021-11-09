@@ -1,5 +1,5 @@
-animeTitle	b'The Chocolate Panic Picture Show'
-animeType	b'OVA'
+animeTitle	The Chocolate Panic Picture Show
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.41
 animeUsers	1352
 animeRank	
-animePopularity	
-animeDescription	"b""Gainax's first professional production, The Chocolate Panic Picture Show is a wacky musical OVA based on a manga by Fujiwara Kamui, serialised in Monthly Super Action and partly inspired by Jamie Uys's The Gods Must Be Crazy (1980).\n\nFollow Manbo, Chinbo and Chonbo as they are flung into a strange, psychedelic world of madness they don't understand. See them cause chaos through their zany, unpredictable antics in this comical take on cultural imperialism."""
-animeRelated	[b'Chocolate Panic']
-animeCharacters	[b'Manbo']
+animePopularity	8445
+animeDescription	"Gainax's first professional production, The Chocolate Panic Picture Show is a wacky musical OVA based on a manga by Fujiwara Kamui, serialised in Monthly Super Action and partly inspired by Jamie Uys's The Gods Must Be Crazy (1980).
+
+Follow Manbo, Chinbo and Chonbo as they are flung into a strange, psychedelic world of madness they don't understand. See them cause chaos through their zany, unpredictable antics in this comical take on cultural imperialism."
+animeRelated	['Chocolate Panic']
+animeCharacters	['Manbo']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKanada, Yoshinori\n\nStoryboard\n\n', b'\nYaginuma, Kazuyoshi\n\nKey Animation\n\n', b'\nAoyama, Hiroyuki\n\nKey Animation\n\n', b'\nFujiwara, Kamui\n\nSeries Composition, Planning, Creator\n\n']
+animeStaff	[['Kanada, Yoshinori', 'Storyboard'], ['Yaginuma, Kazuyoshi', 'Key Animation'], ['Aoyama, Hiroyuki', 'Key Animation'], ['Fujiwara, Kamui', 'Series Composition, Planning, Creator']]

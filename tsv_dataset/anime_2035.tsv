@@ -1,5 +1,5 @@
-animeTitle	b'Gatchaman Crowds: Embrace'
-animeType	b'Special'
+animeTitle	Gatchaman Crowds: Embrace
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.38
 animeUsers	7688
 animeRank	
-animePopularity	
-animeDescription	"b""Director's cut of episode 12 included with the BD/DVD box release. Contains about 15 minutes of new content. """
-animeRelated	[b'Gatchaman Crowds']
-animeCharacters	[b'Ichinose, Hajime', b'Ninomiya, Rui', b'Katze, Berg', b'O. D.', b'Miya, Utsutsu', b'Hibiki, Joe', b'Tachibana, Sugane', b'Paiman', b'Robinson, J. J.', b'Sousai X']
-animeVoices	[b'\nUchida, Maaya\nJapanese\n', b'\nMurase, Ayumu\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nHosomi, Daisuke\nJapanese\n', b'\nKoiwai, Kotori\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nTange, Sakura\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Kenji\n\nDirector\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nOono, Toshiya\n\nScript, Series Composition\n\n', b'\nAbe, Noriyuki\n\nStoryboard\n\n']
+animePopularity	4380
+animeDescription	Director's cut of episode 12 included with the BD/DVD box release. Contains about 15 minutes of new content. 
+animeRelated	['Gatchaman Crowds']
+animeCharacters	['Ichinose, Hajime', 'Ninomiya, Rui', 'Katze, Berg', 'O. D.', 'Miya, Utsutsu', 'Hibiki, Joe', 'Tachibana, Sugane', 'Paiman', 'Robinson, J. J.', 'Sousai X']
+animeVoices	['Uchida, Maaya', 'Murase, Ayumu', 'Miyano, Mamoru', 'Hosomi, Daisuke', 'Koiwai, Kotori', 'Namikawa, Daisuke', 'Oosaka, Ryouta', 'Hirano, Aya', 'Tange, Sakura']
+animeStaff	[['Nakamura, Kenji', 'Director'], ['Nagasaki, Yukio', 'Sound Director'], ['Oono, Toshiya', 'Script, Series Composition'], ['Abe, Noriyuki', 'Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ozmafia!!'
-animeType	b'TV'
+animeTitle	Ozmafia!!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.45
 animeUsers	6210
 animeRank	
-animePopularity	
-animeDescription	b'The anime will feature an original story from the game on which it is based. '
-animeRelated	[b'Ozmafia!!', b'Ozmafia!! Special']
-animeCharacters	[b'Kyrie', b'Scarlet', b'Caramia', b'Axel', b'Caesar', b'Sou', b'Pashet', b'Hameln', b'Alfani', b'Judie']
-animeVoices	[b'\nOkitsu, Kazuyuki\nJapanese\n', b'\nIchiki, Mitsuhiro\nJapanese\n', b'\nShingaki, Tarusuke\nJapanese\n', b'\nKakehashi, Atsushi\nJapanese\n', b'\nKirimoto, Takuya\nJapanese\n', b'\nIguchi, Yuuichi\nJapanese\n', b'\nFujii, Kyoko\nJapanese\n', b'\nOno, Yuuki\nJapanese\n', b'\nTakahashi, Makoto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirasawa, Hisayoshi\n\nDirector\n\n', b'\nHayashi, Kouji\n\nDirector of Photography\n\n', b'\nShiraishi, Yuika\n\nSound Effects\n\n', b'\nNatsuno, Hamuto\n\nOriginal Character Design\n\n']
+animePopularity	4106
+animeDescription	The anime will feature an original story from the game on which it is based. 
+animeRelated	['Ozmafia!!', 'Ozmafia!! Special']
+animeCharacters	['Kyrie', 'Scarlet', 'Caramia', 'Axel', 'Caesar', 'Sou', 'Pashet', 'Hameln', 'Alfani', 'Judie']
+animeVoices	['Okitsu, Kazuyuki', 'Ichiki, Mitsuhiro', 'Shingaki, Tarusuke', 'Kakehashi, Atsushi', 'Kirimoto, Takuya', 'Iguchi, Yuuichi', 'Fujii, Kyoko', 'Ono, Yuuki', 'Takahashi, Makoto']
+animeStaff	[['Hirasawa, Hisayoshi', 'Director'], ['Hayashi, Kouji', 'Director of Photography'], ['Shiraishi, Yuika', 'Sound Effects'], ['Natsuno, Hamuto', 'Original Character Design']]

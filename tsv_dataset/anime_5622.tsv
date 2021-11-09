@@ -1,5 +1,5 @@
-animeTitle	b'Youkai Watch: Shadow Side'
-animeType	b'TV'
+animeTitle	Youkai Watch: Shadow Side
+animeType	TV
 animeNumEpisode	49
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.6
 animeUsers	444
 animeRank	
-animePopularity	
-animeDescription	"b""Taking place after the events of the fourth film, the series centers on 11 yr old Keisuke Amano, Natsume's younger brother (both of whom are the children of Keita Amano and Fumika Kodama of the original Youkai Watch anime) who doesn't believe in any supernatural phenomenon around him. But as he notices his sister is frequently comes back home late, he decided to stalk her, only to find out she is doing her duties exorcising evil Youkai alongside her friends Touma and Akinori, and running a Yo-Kai detective agency. With their secret revealed to him, Natsume decided to let him tag along in her activities as they investigate Youkai crimes and take on evil Youkai to maintain peace all over the city. \n\n(Source: Wiki)"""
-animeRelated	[b'Youkai Watch Movie 4: Shadow Side - Oni-ou no Fukkatsu', b'Youkai Watch Movie 5: Forever Friends', b'Youkai Watch!']
-animeCharacters	[b'Amano, Natsume', b'Tsukinami, Touma', b'Amano, Keisuke', b'Arihoshi, Akinori', b'Jibanyan', b'Komasan', b'Whisper', b'Amano, Keita', b'Kodama, Fumika', b'Jimenken']
-animeVoices	[b'\nYuuki, Aoi\nJapanese\n', b'\nHasegawa, Yoshiaki\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nTamura, Mutsumi\nJapanese\n', b'\nKuroda, Takaya\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYajima, Tetsuo\n\nStoryboard\n\n', b'\nKing Cream Soda.\n\nTheme Song Performance\n\n', b'\nHino, Akihiro\n\nOriginal Creator\n\n', b'\nNagano, Takuzou\n\nOriginal Character Design\n\n']
+animePopularity	9581
+animeDescription	"Taking place after the events of the fourth film, the series centers on 11 yr old Keisuke Amano, Natsume's younger brother (both of whom are the children of Keita Amano and Fumika Kodama of the original Youkai Watch anime) who doesn't believe in any supernatural phenomenon around him. But as he notices his sister is frequently comes back home late, he decided to stalk her, only to find out she is doing her duties exorcising evil Youkai alongside her friends Touma and Akinori, and running a Yo-Kai detective agency. With their secret revealed to him, Natsume decided to let him tag along in her activities as they investigate Youkai crimes and take on evil Youkai to maintain peace all over the city. 
+
+(Source: Wiki)"
+animeRelated	['Youkai Watch Movie 4: Shadow Side - Oni-ou no Fukkatsu', 'Youkai Watch Movie 5: Forever Friends', 'Youkai Watch!']
+animeCharacters	['Amano, Natsume', 'Tsukinami, Touma', 'Amano, Keisuke', 'Arihoshi, Akinori', 'Jibanyan', 'Komasan', 'Whisper', 'Amano, Keita', 'Kodama, Fumika', 'Jimenken']
+animeVoices	['Yuuki, Aoi', 'Hasegawa, Yoshiaki', 'Tomatsu, Haruka', 'Tamura, Mutsumi', 'Kuroda, Takaya', 'Seki, Tomokazu']
+animeStaff	[['Yajima, Tetsuo', 'Storyboard'], ['King Cream Soda.', 'Theme Song Performance'], ['Hino, Akihiro', 'Original Creator'], ['Nagano, Takuzou', 'Original Character Design']]

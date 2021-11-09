@@ -1,5 +1,5 @@
-animeTitle	b'Ai Shimai 2: Futari no Kajitsu'
-animeType	b'OVA'
+animeTitle	Ai Shimai 2: Futari no Kajitsu
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.49
 animeUsers	3507
 animeRank	
-animePopularity	
-animeDescription	"b""Rumi and Tomoko's father has returned, but he seems to have developed an uncontrollable urge for Tomoko, after seeing her all grown up. He tries to fight off his urges, and Takedo, in order to keep the family together.\n\n(Source: ANN)"""
-animeRelated	[b'Ai Shimai: Futari no Kajitsu', b'Ai Shimai Tsubomi... Kegashite Kudasai']
-animeCharacters	[b'Kitazawa, Yukie', b'Kitazawa, Rumi', b'Nogawa, Taketo', b'Kitazawa, Tomoko', b'Kitazawa', b'Okamoto, Yumi']
+animePopularity	5815
+animeDescription	"Rumi and Tomoko's father has returned, but he seems to have developed an uncontrollable urge for Tomoko, after seeing her all grown up. He tries to fight off his urges, and Takedo, in order to keep the family together.
+
+(Source: ANN)"
+animeRelated	['Ai Shimai: Futari no Kajitsu', 'Ai Shimai Tsubomi... Kegashite Kudasai']
+animeCharacters	['Kitazawa, Yukie', 'Kitazawa, Rumi', 'Nogawa, Taketo', 'Kitazawa, Tomoko', 'Kitazawa', 'Okamoto, Yumi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMomoi, Osamu\n\nScript\n\n', b'\nAgematsu, Noriyasu\n\nTheme Song Lyrics, Theme Song Composition, Theme Song Arrangement\n\n', b'\nSatou, Hiromi\n\nTheme Song Performance\n\n', b'\nELF Corporation\n\nOriginal Creator\n\n']
+animeStaff	[['Momoi, Osamu', 'Script'], ['Agematsu, Noriyasu', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['Satou, Hiromi', 'Theme Song Performance'], ['ELF Corporation', 'Original Creator']]

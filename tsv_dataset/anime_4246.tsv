@@ -1,5 +1,5 @@
-animeTitle	b'Denpa Kyoushi (TV)'
-animeType	b'TV'
+animeTitle	Denpa Kyoushi (TV)
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.89
 animeUsers	56634
 animeRank	
-animePopularity	
-animeDescription	"b'Junichirou Kagami is a young published physicist, a genius, and a hopeless otaku. At the mercy of YD, a self-diagnosed illness which causes him to only be able to do what he ""Yearns to Do,"" Junichirou foregoes his scientific career to maintain and improve his anime blog. However, when he gets hired as a high school physics teacher; his sister Suzune, no longer willing to tolerate his NEET lifestyle, forces him to take the position. \n\nDespite the fact that Junichirou has no motivation to teach the standard curriculum, he may still have something of value to teach his students outside of academics. With his class in tow, Junichirou embarks on an unlikely journey filled with life lessons such as acceptance of others, how to make lasting friends, and what it means to live a better life by doing what you yearn to do.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Denpa Kyoushi']
-animeCharacters	[b'Kagami, Junichirou', b'Kagami, Suzune', b'Araki, Koutarou', b'Tanaka, Sachiko', b'Hiiragi, Koyomi', b'Kuramochi, Madoka', b'Shikishima, Kiriko', b'Kitou, Miho', b'Kanou, Minako', b'Nanami, Seijuurou']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nMatsui, Rena\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nTadokoro, Azusa\nJapanese\n', b'\nTatsumi, Yuiko\nJapanese\n', b'\nAmamiya, Sora\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Masato\n\nDirector\n\n', b'\nTrySail\n\nTheme Song Performance\n\n', b'\nSphere\n\nTheme Song Performance\n\n', b'\n9nine\n\nTheme Song Performance\n\n']
+animePopularity	1253
+animeDescription	"Junichirou Kagami is a young published physicist, a genius, and a hopeless otaku. At the mercy of YD, a self-diagnosed illness which causes him to only be able to do what he ""Yearns to Do,"" Junichirou foregoes his scientific career to maintain and improve his anime blog. However, when he gets hired as a high school physics teacher; his sister Suzune, no longer willing to tolerate his NEET lifestyle, forces him to take the position. 
+
+Despite the fact that Junichirou has no motivation to teach the standard curriculum, he may still have something of value to teach his students outside of academics. With his class in tow, Junichirou embarks on an unlikely journey filled with life lessons such as acceptance of others, how to make lasting friends, and what it means to live a better life by doing what you yearn to do.
+
+[Written by MAL Rewrite]"
+animeRelated	['Denpa Kyoushi']
+animeCharacters	['Kagami, Junichirou', 'Kagami, Suzune', 'Araki, Koutarou', 'Tanaka, Sachiko', 'Hiiragi, Koyomi', 'Kuramochi, Madoka', 'Shikishima, Kiriko', 'Kitou, Miho', 'Kanou, Minako', 'Nanami, Seijuurou']
+animeVoices	['Kamiya, Hiroshi', 'Matsui, Rena', 'Toyosaki, Aki', 'Sakura, Ayane', 'Mimori, Suzuko', 'Ichimichi, Mao', 'Tadokoro, Azusa', 'Tatsumi, Yuiko', 'Amamiya, Sora', 'Hosoya, Yoshimasa']
+animeStaff	[['Satou, Masato', 'Director'], ['TrySail', 'Theme Song Performance'], ['Sphere', 'Theme Song Performance'], ['9nine', 'Theme Song Performance']]

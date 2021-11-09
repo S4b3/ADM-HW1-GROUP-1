@@ -1,5 +1,5 @@
-animeTitle	b'Koi to Senkyo to Chocolate'
-animeType	b'TV'
+animeTitle	Koi to Senkyo to Chocolate
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	7.04
 animeUsers	87341
 animeRank	
-animePopularity	
-animeDescription	"b""Yuuki Oojima is a member of his high school's Food Research Club, whose main activity is eating snacks bought with funds allocated to them by the school. However, this peaceful and wasteful lifestyle is under threat as the upcoming student election draws near. Satsuki Shinonome, a major candidate and the head of the department of financial affairs, campaigns on a platform that includes disbanding meritless clubs such as the Food Research Club and redirecting their budgets to proper ones.\n\nUnderstandably, the Food Research Club is in an uproar over this development, with president Chisato Sumiyoshi vowing to preserve it. But what can they even do to stop the highly competent and popular Satsuki from getting elected?\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Koi to Senkyo to Chocolate', b'Koi to Senkyo to Chocolate: Koi Imouto!', b'Koi to Senkyo to Chocolate: Ikenai Hazuki-sensei']
-animeCharacters	[b'Shinonome, Satsuki', b'Sumiyoshi, Chisato', b'Oojima, Yuuki', b'Aomi, Isara', b'Kiba, Mifuyu', b'Morishita, Michiru', b'Yumeshima, Oboro', b'Shinonome, Hazuki', b'Nanase, Matsuri', b'Edagawa, Nozomi']
-animeVoices	[b'\nAsakawa, Yuu\nJapanese\n', b'\nNakamura, Eriko\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nImai, Asami\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nIshimatsu, Chiemi\nJapanese\n', b'\nItou, Kanae\nJapanese\n', b'\nGibu, Yuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKitahata, Tooru\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nAndou, Takashi\n\nEpisode Director\n\n', b'\nTakayama, Katsuhiko\n\nScript\n\n']
+animePopularity	842
+animeDescription	"Yuuki Oojima is a member of his high school's Food Research Club, whose main activity is eating snacks bought with funds allocated to them by the school. However, this peaceful and wasteful lifestyle is under threat as the upcoming student election draws near. Satsuki Shinonome, a major candidate and the head of the department of financial affairs, campaigns on a platform that includes disbanding meritless clubs such as the Food Research Club and redirecting their budgets to proper ones.
+
+Understandably, the Food Research Club is in an uproar over this development, with president Chisato Sumiyoshi vowing to preserve it. But what can they even do to stop the highly competent and popular Satsuki from getting elected?
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Koi to Senkyo to Chocolate', 'Koi to Senkyo to Chocolate: Koi Imouto!', 'Koi to Senkyo to Chocolate: Ikenai Hazuki-sensei']
+animeCharacters	['Shinonome, Satsuki', 'Sumiyoshi, Chisato', 'Oojima, Yuuki', 'Aomi, Isara', 'Kiba, Mifuyu', 'Morishita, Michiru', 'Yumeshima, Oboro', 'Shinonome, Hazuki', 'Nanase, Matsuri', 'Edagawa, Nozomi']
+animeVoices	['Asakawa, Yuu', 'Nakamura, Eriko', 'Nakamura, Yuuichi', 'Kadowaki, Mai', 'Mizuhashi, Kaori', 'Imai, Asami', 'Ogata, Megumi', 'Ishimatsu, Chiemi', 'Itou, Kanae', 'Gibu, Yuko']
+animeStaff	[['Kitahata, Tooru', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Andou, Takashi', 'Episode Director'], ['Takayama, Katsuhiko', 'Script']]

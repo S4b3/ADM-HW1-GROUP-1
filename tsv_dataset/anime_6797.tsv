@@ -1,5 +1,5 @@
-animeTitle	b'Sensou no Tsukurikata'
-animeType	b'Movie'
+animeTitle	Sensou no Tsukurikata
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.38
 animeUsers	305
 animeRank	
-animePopularity	
-animeDescription	b'Short anti-war animation adapting the picture book Sensou no Tsukurikata. It was created by the group NOddIN.'
+animePopularity	12394
+animeDescription	Short anti-war animation adapting the picture book Sensou no Tsukurikata. It was created by the group NOddIN.
 animeRelated	[]
-animeCharacters	[b'Narrator']
-animeVoices	[b'\nMatsumoto, Marika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKabuki, Sawako\n\nAnimation Director\n\n', b'\nSatou, Miyo\n\nAnimation Director\n\n', b'\nQ-rais\n\nAnimation Director\n\n', b'\nYKBX\n\nAnimation Director\n\n']
+animeCharacters	['Narrator']
+animeVoices	['Matsumoto, Marika']
+animeStaff	[['Kabuki, Sawako', 'Animation Director'], ['Satou, Miyo', 'Animation Director'], ['Q-rais', 'Animation Director'], ['YKBX', 'Animation Director']]

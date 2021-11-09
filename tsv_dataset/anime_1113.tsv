@@ -1,5 +1,5 @@
-animeTitle	b'Seikai no Senki III'
-animeType	b'OVA'
+animeTitle	Seikai no Senki III
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.68
 animeUsers	8297
 animeRank	
-animePopularity	
-animeDescription	"b'Jinto and Lafiel were riding on a light-armed transport ship ""Bokbrusue"" and navigating at the planar space of the Hyde System. This was for Jinto to govern the Hyde System, which returned to Empirial rule after the Union retreated, officially as an Earl. However, the government of Martin, Jinto`s motherland, resisted obstinately against the Empirial rule. On the other side, ""Daiichi Jyuurin Sentai"" (the First Devastation Fleet), formed with the new ship type ""Attack Vessel"", travelled to the Hyde System for drilling practices, but... \n\n(Source: ANN)'"
-animeRelated	[b'Seikai no Senki', b'Seikai no Senki II']
-animeCharacters	[b'Abriel, Lafiel', b'Linn, Jinto', b'Naurh, Ekuryua', b'Tirusec, Samson', b'Sobaash']
-animeVoices	[b'\nKawasumi, Ayako\nJapanese\n', b'\nImai, Yuka\nJapanese\n', b'\nShimizu, Kaori\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagaoka, Yasuchika\n\nDirector\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nMutou, Yasuyuki\n\nScript\n\n', b'\nWakakusa, Kei\n\nTheme Song Composition\n\n']
+animePopularity	4383
+animeDescription	"Jinto and Lafiel were riding on a light-armed transport ship ""Bokbrusue"" and navigating at the planar space of the Hyde System. This was for Jinto to govern the Hyde System, which returned to Empirial rule after the Union retreated, officially as an Earl. However, the government of Martin, Jinto`s motherland, resisted obstinately against the Empirial rule. On the other side, ""Daiichi Jyuurin Sentai"" (the First Devastation Fleet), formed with the new ship type ""Attack Vessel"", travelled to the Hyde System for drilling practices, but... 
+
+(Source: ANN)"
+animeRelated	['Seikai no Senki', 'Seikai no Senki II']
+animeCharacters	['Abriel, Lafiel', 'Linn, Jinto', 'Naurh, Ekuryua', 'Tirusec, Samson', 'Sobaash']
+animeVoices	['Kawasumi, Ayako', 'Imai, Yuka', 'Shimizu, Kaori', 'Saiga, Mitsuki']
+animeStaff	[['Nagaoka, Yasuchika', 'Director'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Mutou, Yasuyuki', 'Script'], ['Wakakusa, Kei', 'Theme Song Composition']]

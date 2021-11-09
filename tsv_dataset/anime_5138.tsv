@@ -1,5 +1,5 @@
-animeTitle	b'Tsukumogami Kashimasu'
-animeType	b'TV'
+animeTitle	Tsukumogami Kashimasu
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.69
 animeUsers	3863
 animeRank	
-animePopularity	
-animeDescription	b'The series is set during the Edo period, in the Fukagawa ward of old Edo (present-day Tokyo). Because the area is prone to fire and flooding, residents rent everyday items like pots, futons, and clothing from shops instead of purchasing them, so as not to impede them when they flee. Obeni and Seiji, an older sister and younger brother, run one such rental shop called Izumoya. However, mixed in with their inventory are tsukumogami, objects that have turned into spirits after a hundred years of existence. The siblings sometimes lend these sentient items to customers. Both Obeni and Seiji can see and talk to these spirits, and other tsukumogami often come to the store after hearing of the famed siblings. \n\n(Source: ANN)'
+animePopularity	4484
+animeDescription	"The series is set during the Edo period, in the Fukagawa ward of old Edo (present-day Tokyo). Because the area is prone to fire and flooding, residents rent everyday items like pots, futons, and clothing from shops instead of purchasing them, so as not to impede them when they flee. Obeni and Seiji, an older sister and younger brother, run one such rental shop called Izumoya. However, mixed in with their inventory are tsukumogami, objects that have turned into spirits after a hundred years of existence. The siblings sometimes lend these sentient items to customers. Both Obeni and Seiji can see and talk to these spirits, and other tsukumogami often come to the store after hearing of the famed siblings. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Okou', b'Seiji', b'Tsukuyomi', b'Ohime', b'Usagi', b'Goi', b'Notetsu', b'Sanae', b'Satarou']
-animeVoices	[b'\nKomatsu, Mikako\nJapanese\n', b'\nEnoki, Junya\nJapanese\n', b'\nNakano, Yutaka\nJapanese\n', b'\nAkesaka, Satomi\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nNara, Tooru\nJapanese\n', b'\nMikami, Shiori\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurata, Masahiko\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nShimoyama, Kento\n\nScript, Series Composition\n\n', b'\nUrasawa, Yoshio\n\nScript\n\n']
+animeCharacters	['Okou', 'Seiji', 'Tsukuyomi', 'Ohime', 'Usagi', 'Goi', 'Notetsu', 'Sanae', 'Satarou']
+animeVoices	['Komatsu, Mikako', 'Enoki, Junya', 'Nakano, Yutaka', 'Akesaka, Satomi', 'Iguchi, Yuka', 'Hirakawa, Daisuke', 'Nara, Tooru', 'Mikami, Shiori', 'Sakurai, Takahiro']
+animeStaff	[['Murata, Masahiko', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Shimoyama, Kento', 'Script, Series Composition'], ['Urasawa, Yoshio', 'Script']]

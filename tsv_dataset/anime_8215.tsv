@@ -1,5 +1,5 @@
-animeTitle	b'Youkoso Lodoss-tou e!'
-animeType	b'Movie'
+animeTitle	Youkoso Lodoss-tou e!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.09
 animeUsers	743
 animeRank	
-animePopularity	
-animeDescription	b'This movie is the compilation of the 27 mini-parody episode trailers that ran at the end of every Record of Lodoss War: Chronicles of the Heroic Knight episode, which featured characters depicted in their chibi forms.'
-animeRelated	[b'Lodoss-tou Senki: Eiyuu Kishi Den']
-animeCharacters	[b'Deedlit', b'Spark', b'Merestianna, Pirotessa ', b'Wagnard', b'Shiris']
+animePopularity	9689
+animeDescription	This movie is the compilation of the 27 mini-parody episode trailers that ran at the end of every Record of Lodoss War: Chronicles of the Heroic Knight episode, which featured characters depicted in their chibi forms.
+animeRelated	['Lodoss-tou Senki: Eiyuu Kishi Den']
+animeCharacters	['Deedlit', 'Spark', 'Merestianna, Pirotessa ', 'Wagnard', 'Shiris']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nChigira, Kouichi\n\nDirector\n\n', b'\nMatsuoka, Hiroki\n\nSound Director\n\n', b'\nIkeda, Shigemi\n\nArt Director\n\n', b'\nKobayashi, Akemi\n\nAnimation Director, Character Design\n\n']
+animeStaff	[['Chigira, Kouichi', 'Director'], ['Matsuoka, Hiroki', 'Sound Director'], ['Ikeda, Shigemi', 'Art Director'], ['Kobayashi, Akemi', 'Animation Director, Character Design']]

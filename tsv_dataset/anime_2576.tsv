@@ -1,5 +1,5 @@
-animeTitle	b'Layton Mystery Tanteisha: Katri no Nazotoki File'
-animeType	b'TV'
+animeTitle	Layton Mystery Tanteisha: Katri no Nazotoki File
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.27
 animeUsers	2179
 animeRank	
-animePopularity	
-animeDescription	"b""Professor Layton's daughter, Katrielle Layton, runs the Layton Detective Agency together with the talking dog Sherl and her assistant Ernest, and solves strange cases that happen everyday in London. Originally, she started the job with the purpose of finding her father, Hershel Layton, who had disappeared suddenly, but her incredible ability to solve puzzles made her well-known and she receives numerous requests.\n\n(Source: Layton Wiki)"""
-animeRelated	[b'Layton Kyouju to Eien no Utahime']
-animeCharacters	[b'Layton, Katrielle', b'Montoir, Noah', b'Royer, Geraldine', b'Sherl', b'Layton, Hershel', b'Triton, Luke', b'Aldebaran, Rufus', b'Freud, Anne', b'Darjeeling, Aspoiro', b'Wright, Simon']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nIkeda, Kyousuke\nJapanese\n', b'\nYamamura, Hibiku\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nTadano, Youhei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHino, Akihiro\n\nDirector, Series Composition, Original Creator\n\n', b'\nMitsunaka, Susumu\n\nDirector\n\n', b'\nTanaka, Ryou\n\nSound Director\n\n', b'\nIshigura, Rei\n\nEpisode Director, Storyboard\n\n']
+animePopularity	4545
+animeDescription	"Professor Layton's daughter, Katrielle Layton, runs the Layton Detective Agency together with the talking dog Sherl and her assistant Ernest, and solves strange cases that happen everyday in London. Originally, she started the job with the purpose of finding her father, Hershel Layton, who had disappeared suddenly, but her incredible ability to solve puzzles made her well-known and she receives numerous requests.
+
+(Source: Layton Wiki)"
+animeRelated	['Layton Kyouju to Eien no Utahime']
+animeCharacters	['Layton, Katrielle', 'Montoir, Noah', 'Royer, Geraldine', 'Sherl', 'Layton, Hershel', 'Triton, Luke', 'Aldebaran, Rufus', 'Freud, Anne', 'Darjeeling, Aspoiro', 'Wright, Simon']
+animeVoices	['Hanazawa, Kana', 'Ikeda, Kyousuke', 'Yamamura, Hibiku', 'Kosugi, Juurouta', 'Yamadera, Kouichi', 'Saitou, Souma', 'Tsuda, Kenjirou', 'Ise, Mariya', 'Tadano, Youhei']
+animeStaff	[['Hino, Akihiro', 'Director, Series Composition, Original Creator'], ['Mitsunaka, Susumu', 'Director'], ['Tanaka, Ryou', 'Sound Director'], ['Ishigura, Rei', 'Episode Director, Storyboard']]

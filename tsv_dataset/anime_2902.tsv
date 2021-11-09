@@ -1,5 +1,5 @@
-animeTitle	b'Sola'
-animeType	b'TV'
+animeTitle	Sola
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	7.2
 animeUsers	42181
 animeRank	
-animePopularity	
-animeDescription	"b""Yorito Morimiya is obsessed with the sky. He especially loves taking pictures of its array of different faces\xe2\x80\x94sunrises, sunsets, clouds. On one of his early-morning excursions to photograph the sunrise, Yorito meets a strange girl engaged in an argument with a vending machine. By the time that Yorito forces the girl's tomato juice out of the machine, she's vanished without a trace.\n\nSola follows the story of Yorito, his sister Aono, and their childhood friends Mana and Koyori Ishizuki, as well as that of a mysterious girl who appears and disappears, and who seems to harbor a dark secret. In a world where magic and the supernatural are never far below the surface and no one is who they seem to be, love and loneliness vie for supremacy beneath Yorito's sky. \n"""
-animeRelated	[b'Sola', b'Sola Specials']
-animeCharacters	[b'Shihou, Matsuri', b'Morimiya, Aono', b'Morimiya, Yorito', b'Kamikawa, Mayuko', b'Ishizuki, Koyori', b'Ishizuki, Mana', b'Tsujidou, Takeshi', b'Sakura, Sae', b'Uehara, Touko', b'Mizuguchi, Chisato']
-animeVoices	[b'\nNoto, Mamiko\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nKaneda, Tomoko\nJapanese\n', b'\nShimizu, Ai\nJapanese\n', b'\nHonda, Youko\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nOno, Ryouko\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatomi, Tetsurou\n\nProducer\n\n', b'\nKobayashi, Tomoki\n\nDirector, Episode Director, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nTakayanagi, Shigehito\n\nEpisode Director, Storyboard\n\n']
+animePopularity	1700
+animeDescription	"Yorito Morimiya is obsessed with the sky. He especially loves taking pictures of its array of different faces—sunrises, sunsets, clouds. On one of his early-morning excursions to photograph the sunrise, Yorito meets a strange girl engaged in an argument with a vending machine. By the time that Yorito forces the girl's tomato juice out of the machine, she's vanished without a trace.
+
+Sola follows the story of Yorito, his sister Aono, and their childhood friends Mana and Koyori Ishizuki, as well as that of a mysterious girl who appears and disappears, and who seems to harbor a dark secret. In a world where magic and the supernatural are never far below the surface and no one is who they seem to be, love and loneliness vie for supremacy beneath Yorito's sky. 
+"
+animeRelated	['Sola', 'Sola Specials']
+animeCharacters	['Shihou, Matsuri', 'Morimiya, Aono', 'Morimiya, Yorito', 'Kamikawa, Mayuko', 'Ishizuki, Koyori', 'Ishizuki, Mana', 'Tsujidou, Takeshi', 'Sakura, Sae', 'Uehara, Touko', 'Mizuguchi, Chisato']
+animeVoices	['Noto, Mamiko', 'Nakahara, Mai', 'Okamoto, Nobuhiko', 'Kaneda, Tomoko', 'Shimizu, Ai', 'Honda, Youko', 'Fujiwara, Keiji', 'Koshimizu, Ami', 'Ono, Ryouko', 'Yahagi, Sayuri']
+animeStaff	[['Satomi, Tetsurou', 'Producer'], ['Kobayashi, Tomoki', 'Director, Episode Director, Storyboard'], ['Aketagawa, Jin', 'Sound Director'], ['Takayanagi, Shigehito', 'Episode Director, Storyboard']]

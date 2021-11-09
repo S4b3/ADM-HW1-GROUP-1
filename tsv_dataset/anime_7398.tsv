@@ -1,5 +1,5 @@
-animeTitle	b'Puraore! Pride of Orange'
-animeType	b'TV'
+animeTitle	Puraore! Pride of Orange
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.26
 animeUsers	2029
 animeRank	
-animePopularity	
-animeDescription	"b""Third-year junior high schooler Manaka Mizusawa is tasked by her teacher to put a poster up about a trial ice hockey class sponsored by the Dream Monkeys, their city's local professional team. Interested in attending the class herself, Manaka also persuades her younger sister Ayaka and her clubmates Kaoruko Yanagida and Mami Ono to join her.\n\nWhen the four gather at the gymnasium where the tutorial is held, they meet fellow third-year students Riko Saginuma and Naomi Takagi. As the girls practice their hearts out, their fascination for the sport increases, motivating them to play on a competitive level. Wanting to experience the unique and exciting memories that ice hockey can offer, the girls gradually form a team that has the potential to reach the top.\n\n[Written by MAL Rewrite]"""
+animePopularity	4321
+animeDescription	"Third-year junior high schooler Manaka Mizusawa is tasked by her teacher to put a poster up about a trial ice hockey class sponsored by the Dream Monkeys, their city's local professional team. Interested in attending the class herself, Manaka also persuades her younger sister Ayaka and her clubmates Kaoruko Yanagida and Mami Ono to join her.
+
+When the four gather at the gymnasium where the tutorial is held, they meet fellow third-year students Riko Saginuma and Naomi Takagi. As the girls practice their hearts out, their fascination for the sport increases, motivating them to play on a competitive level. Wanting to experience the unique and exciting memories that ice hockey can offer, the girls gradually form a team that has the potential to reach the top.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Mizusawa, Manaka', b'Yanagida, Kaoruko', b'Saginuma, Riko', b'Ono, Mami', b'Mizusawa, Ayaka', b'Kiyose, Yuu', b'Takagi, Naomi', b'Shishiuchi, Minato', b'Kuga, Seiko', b'Fujishiro, Mona']
-animeVoices	[b'\nMasuda, Riku\nJapanese\n', b'\nMoriyama, Yurika\nJapanese\n', b'\nKitamori, Saika\nJapanese\n', b'\nAoyama, Yoshino\nJapanese\n', b'\nSagara, Mayu\nJapanese\n', b'\nHongou, Satomi\nJapanese\n', b'\nShioiri, Asuka\nJapanese\n', b'\nHoshinoya, Shizuku\nJapanese\n', b'\nAiba, Aina\nJapanese\n', b'\nTakase, Kurumi\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nAnzai, Takefumi\n\nDirector\n\n', b'\nFujita, Akiko\n\nSound Director\n\n', b""\nMay'n\n\nTheme Song Performance\n\n"", b'\nSagara, Mayu\n\nTheme Song Performance\n\n']"
+animeCharacters	['Mizusawa, Manaka', 'Yanagida, Kaoruko', 'Saginuma, Riko', 'Ono, Mami', 'Mizusawa, Ayaka', 'Kiyose, Yuu', 'Takagi, Naomi', 'Shishiuchi, Minato', 'Kuga, Seiko', 'Fujishiro, Mona']
+animeVoices	['Masuda, Riku', 'Moriyama, Yurika', 'Kitamori, Saika', 'Aoyama, Yoshino', 'Sagara, Mayu', 'Hongou, Satomi', 'Shioiri, Asuka', 'Hoshinoya, Shizuku', 'Aiba, Aina', 'Takase, Kurumi']
+animeStaff	"[['Anzai, Takefumi', 'Director'], ['Fujita, Akiko', 'Sound Director'], [""May'n"", 'Theme Song Performance'], ['Sagara, Mayu', 'Theme Song Performance']]"

@@ -1,5 +1,5 @@
-animeTitle	b'Yakyuukyou no Uta: Kita no Ookami Minami no Tora'
-animeType	b'Movie'
+animeTitle	Yakyuukyou no Uta: Kita no Ookami Minami no Tora
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A re-edited version of episodes 13 and 14 of the TV series. Double billed with Mirai Shounen Conan movie in the cinemas.\n\n(Source: AniDB)'
-animeRelated	[b'Yakyuukyou no Uta']
-animeCharacters	[b'Mizuhara, Yuuki']
+animePopularity	13735
+animeDescription	"A re-edited version of episodes 13 and 14 of the TV series. Double billed with Mirai Shounen Conan movie in the cinemas.
+
+(Source: AniDB)"
+animeRelated	['Yakyuukyou no Uta']
+animeCharacters	['Mizuhara, Yuuki']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMizushima, Shinji\n\nOriginal Creator\n\n', b'\nMatsuda, Akihiko\n\nSound Effects\n\n', b'\nHandou, Katsumi\n\nArt Director\n\n', b'\nOkayasu, Hajime\n\nEditing\n\n']
+animeStaff	[['Mizushima, Shinji', 'Original Creator'], ['Matsuda, Akihiko', 'Sound Effects'], ['Handou, Katsumi', 'Art Director'], ['Okayasu, Hajime', 'Editing']]

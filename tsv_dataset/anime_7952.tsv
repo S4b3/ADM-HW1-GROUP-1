@@ -1,5 +1,5 @@
-animeTitle	b'Manyuu Hikenchou Specials'
-animeType	b'Special'
+animeTitle	Manyuu Hikenchou Specials
+animeType	Special
 animeNumEpisode	8
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.15
 animeUsers	5117
 animeRank	
-animePopularity	
-animeDescription	b'Short extra anime from the DVDs and Blu-rays.'
-animeRelated	[b'Manyuu Hikenchou']
-animeCharacters	[b'Manyuu, Chifusa', b'Manyuu, Kagefusa', b'Sayama, Ouka', b'Kaede']
-animeVoices	[b'\nKotobuki, Minako\nJapanese\n', b'\nMizuhara, Kaoru\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKaneko, Hiraku\n\nDirector\n\n', b'\nKonchiki\n\nOriginal Creator\n\n']
+animePopularity	4740
+animeDescription	Short extra anime from the DVDs and Blu-rays.
+animeRelated	['Manyuu Hikenchou']
+animeCharacters	['Manyuu, Chifusa', 'Manyuu, Kagefusa', 'Sayama, Ouka', 'Kaede']
+animeVoices	['Kotobuki, Minako', 'Mizuhara, Kaoru', 'Noto, Mamiko', 'Toyosaki, Aki']
+animeStaff	[['Kaneko, Hiraku', 'Director'], ['Konchiki', 'Original Creator']]

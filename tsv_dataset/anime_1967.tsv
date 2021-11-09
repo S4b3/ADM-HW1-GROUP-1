@@ -1,5 +1,5 @@
-animeTitle	b'Gunslinger Girl'
-animeType	b'TV'
+animeTitle	Gunslinger Girl
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.4
 animeUsers	68331
 animeRank	
-animePopularity	
-animeDescription	b'In the heart of Italy, the Social Welfare Agency rescues young girls from hospital beds and gives them a second chance at life using the latest in cybernetic advancements. With their artificially enhanced bodies, the girls are brainwashed and trained as assassins to carry out the dirty work of the Italian Government. Despite all the modifications, they are still just children at heart, struggling for recognition from those they love, even knowing the love they feel is manufactured. This tragic tale unfolds as these girls grapple with their emotions in an agency that treats them as nothing but ruthless killers.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Gunslinger Girl', b'Gunslinger Girl: Il Teatrino']
-animeCharacters	[b'Triela', b'Henrietta', b'Rico', b'Claes', b'Croce, Jose', b'Angelica', b'Hilshire', b'DeSica, Elsa', b'Caterina', b'Croce, Jean']
-animeVoices	[b'\nSendai, Eri\nJapanese\n', b'\nNanri, Yuuka\nJapanese\n', b'\nMitsuhashi, Kanako\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nKiuchi, Hidenobu\nJapanese\n', b'\nTerakado, Hitomi\nJapanese\n', b'\nEbara, Masashi\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nYokoyama, Chisa\nJapanese\n', b'\nMiyamoto, Mitsuru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nHamano, Takatoshi\n\nProducer\n\n', b'\nWatanabe, Kazuya\n\nProducer\n\n', b'\nYoshimoto, Satoshi\n\nProducer\n\n']
+animePopularity	1024
+animeDescription	"In the heart of Italy, the Social Welfare Agency rescues young girls from hospital beds and gives them a second chance at life using the latest in cybernetic advancements. With their artificially enhanced bodies, the girls are brainwashed and trained as assassins to carry out the dirty work of the Italian Government. Despite all the modifications, they are still just children at heart, struggling for recognition from those they love, even knowing the love they feel is manufactured. This tragic tale unfolds as these girls grapple with their emotions in an agency that treats them as nothing but ruthless killers.
+
+[Written by MAL Rewrite]"
+animeRelated	['Gunslinger Girl', 'Gunslinger Girl: Il Teatrino']
+animeCharacters	['Triela', 'Henrietta', 'Rico', 'Claes', 'Croce, Jose', 'Angelica', 'Hilshire', 'DeSica, Elsa', 'Caterina', 'Croce, Jean']
+animeVoices	['Sendai, Eri', 'Nanri, Yuuka', 'Mitsuhashi, Kanako', 'Koshimizu, Ami', 'Kiuchi, Hidenobu', 'Terakado, Hitomi', 'Ebara, Masashi', 'Noto, Mamiko', 'Yokoyama, Chisa', 'Miyamoto, Mitsuru']
+animeStaff	[['Watson, Barry', 'Producer'], ['Hamano, Takatoshi', 'Producer'], ['Watanabe, Kazuya', 'Producer'], ['Yoshimoto, Satoshi', 'Producer']]

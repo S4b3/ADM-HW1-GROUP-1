@@ -1,5 +1,5 @@
-animeTitle	b'Saki Zenkoku-hen'
-animeType	b'TV'
+animeTitle	Saki Zenkoku-hen
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.41
 animeUsers	13641
 animeRank	
-animePopularity	
-animeDescription	"b""Saki Miyanaga, along with the rest of Kiyosumi High School's mahjong team, proceeds to the national level of the Interhigh Mahjong Championship. However, reaching the top will prove difficult as she faces opponents on par with and, quite possibly, exceeding her skills. Even so, she refuses to back down, vowing to stop at nothing to fulfill her goal: to see her sister face-to-face once more.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Saki', b'Saki Achiga-hen: Episode of Side-A', b'Saki Achiga-hen: Episode of Side-A Specials']
-animeCharacters	[b'Miyanaga, Saki', b'Takei, Hisa', b'Haramura, Nodoka', b'Kataoka, Yuuki', b'Someya, Mako', b'Amae, Koromo', b'Fukuji, Mihoko', b'Miyanaga, Teru', b'Touyoko, Momoko', b'Takakamo, Shizuno']
-animeVoices	[b'\nUeda, Kana\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nFukuhara, Kaori\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nSaitou, Momoko\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuura, Hiroaki\n\nProducer\n\n', b'\nOno, Manabu\n\nDirector\n\n', b'\nIwata, Kazuya\n\nEpisode Director\n\n', b'\nUrahata, Tatsuhiko\n\nScript, Series Composition\n\n']
+animePopularity	3221
+animeDescription	"Saki Miyanaga, along with the rest of Kiyosumi High School's mahjong team, proceeds to the national level of the Interhigh Mahjong Championship. However, reaching the top will prove difficult as she faces opponents on par with and, quite possibly, exceeding her skills. Even so, she refuses to back down, vowing to stop at nothing to fulfill her goal: to see her sister face-to-face once more.
+
+[Written by MAL Rewrite]"
+animeRelated	['Saki', 'Saki Achiga-hen: Episode of Side-A', 'Saki Achiga-hen: Episode of Side-A Specials']
+animeCharacters	['Miyanaga, Saki', 'Takei, Hisa', 'Haramura, Nodoka', 'Kataoka, Yuuki', 'Someya, Mako', 'Amae, Koromo', 'Fukuji, Mihoko', 'Miyanaga, Teru', 'Touyoko, Momoko', 'Takakamo, Shizuno']
+animeVoices	['Ueda, Kana', 'Itou, Shizuka', 'Koshimizu, Ami', 'Kugimiya, Rie', 'Shiraishi, Ryouko', 'Fukuhara, Kaori', 'Horie, Yui', 'Nakahara, Mai', 'Saitou, Momoko', 'Yuuki, Aoi']
+animeStaff	[['Matsuura, Hiroaki', 'Producer'], ['Ono, Manabu', 'Director'], ['Iwata, Kazuya', 'Episode Director'], ['Urahata, Tatsuhiko', 'Script, Series Composition']]

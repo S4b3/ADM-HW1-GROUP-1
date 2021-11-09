@@ -1,5 +1,5 @@
-animeTitle	b'Zukkoke Sannin-gumi: Zukkoke Jikuu Bouken'
-animeType	b'OVA'
+animeTitle	Zukkoke Sannin-gumi: Zukkoke Jikuu Bouken
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Three reporters from the school paper get transported back to the Edo period.\n'
-animeRelated	[b'Sore Ike! Zukkoke Sannin-gumi', b'Zukkoke Sannin-gumi no Hi Asobi Boushi Daisakusen', b'Zukkoke Sannin-gumi no Jitensha Kyoushitsu', b'Zukkoke Sannin-gumi no Bousai Kyoushitsu', b'Zukkoke Sannin-gumi no Koutsuu Anzen']
-animeCharacters	[b'Yamanaka, Shotaro', b'Okuda, Miyoshi', b'Hachiya, Ryouhei']
-animeVoices	[b'\nHibino, Akari\nJapanese\n', b'\nSakurai, Toshiharu\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Hidehito\n\nDirector\n\n', b'\nKoyama, Takao\n\nScreenplay\n\n', b'\nYamamoto, Masayuki\n\nMusic\n\n', b'\nTakeichi, Masahisa\n\nMusic\n\n']
+animePopularity	15070
+animeDescription	"Three reporters from the school paper get transported back to the Edo period.
+"
+animeRelated	['Sore Ike! Zukkoke Sannin-gumi', 'Zukkoke Sannin-gumi no Hi Asobi Boushi Daisakusen', 'Zukkoke Sannin-gumi no Jitensha Kyoushitsu', 'Zukkoke Sannin-gumi no Bousai Kyoushitsu', 'Zukkoke Sannin-gumi no Koutsuu Anzen']
+animeCharacters	['Yamanaka, Shotaro', 'Okuda, Miyoshi', 'Hachiya, Ryouhei']
+animeVoices	['Hibino, Akari', 'Sakurai, Toshiharu', 'Sakamoto, Chika']
+animeStaff	[['Ueda, Hidehito', 'Director'], ['Koyama, Takao', 'Screenplay'], ['Yamamoto, Masayuki', 'Music'], ['Takeichi, Masahisa', 'Music']]

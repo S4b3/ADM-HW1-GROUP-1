@@ -1,5 +1,5 @@
-animeTitle	b'Antique Heart'
-animeType	b'OVA'
+animeTitle	Antique Heart
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.54
 animeUsers	465
 animeRank	
-animePopularity	
-animeDescription	"b""There's an old decrepit building at the edge of the school grounds that hasn't been used for years, and it falls apart a little bit more each day. But the little house holds a secret, as Takahiro and his friends are soon to find out...they wind up making contact with a mysterious entity known as Saki. Can Takahiro save Saki's world from destruction.\n\n(Source: ANN)"""
+animePopularity	10518
+animeDescription	"There's an old decrepit building at the edge of the school grounds that hasn't been used for years, and it falls apart a little bit more each day. But the little house holds a secret, as Takahiro and his friends are soon to find out...they wind up making contact with a mysterious entity known as Saki. Can Takahiro save Saki's world from destruction.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Princess Saki', b'Honda, Takahiro', b'Kawasaki, Toru', b'Suzuki, Tadashi', b'Matsuda', b'Principal']
-animeVoices	[b'\nShou, Mayumi\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nHiramatsu, Hirokazu\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nUeda, Toshiya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Junichi\n\nDirector\n\n', b'\nKawamoto, Toshihiro\n\nKey Animation\n\n', b'\nSagawa, Senri\n\nArt Director\n\n', b'\nIzu, Kazuhiko\n\nMusic\n\n']
+animeCharacters	['Princess Saki', 'Honda, Takahiro', 'Kawasaki, Toru', 'Suzuki, Tadashi', 'Matsuda', 'Principal']
+animeVoices	['Shou, Mayumi', 'Seki, Toshihiko', 'Hiramatsu, Hirokazu', 'Furukawa, Toshio', 'Shiozawa, Kaneto', 'Ueda, Toshiya']
+animeStaff	[['Watanabe, Junichi', 'Director'], ['Kawamoto, Toshihiro', 'Key Animation'], ['Sagawa, Senri', 'Art Director'], ['Izu, Kazuhiko', 'Music']]

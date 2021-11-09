@@ -1,5 +1,5 @@
-animeTitle	b'Ojousama Sousamou'
-animeType	b'OVA'
+animeTitle	Ojousama Sousamou
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.81
 animeUsers	1201
 animeRank	
-animePopularity	
-animeDescription	"b""Debutante Detective Corps begins with introductions to the five main characters, Miyuki, Reika, Youko, Nina, and Kimiko. It seems these five girls are incredibly rich and have been sent a threatening video tape by forces unknown. A police guard is set up at the school where the girls have enrolled. Kimiko, however, doesn't like the idea of being cooped up at school, and convinces the rest of the girls to trick the police into leaving. No sooner are the police gone, however, then the girls are assaulted by three armed terrorists. What ensues is a rather silly escapade with our heroines attempting to thwart their attackers. \n\n(Source: ANN)"""
-animeRelated	[b'Sotsugyou: Graduation']
-animeCharacters	[b'Ayanokouji, Miyuki', b'Ryuuzaki, Yoko', b'Shu, Reika', b'Kirov, Nina', b'Ayanokouji, Kimiko', b'Announcer', b'Ochi, Inspector', b'Nomura, Detective', b'Principal']
-animeVoices	[b'\nNagashima, Yuuko\nJapanese\n', b'\nYanase, Natsumi\nJapanese\n', b'\nTange, Sakura\nJapanese\n', b'\nKasahara, Rumi\nJapanese\n', b'\nNiiyama, Shiho\nJapanese\n', b'\nYonemoto, Chizu\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nFuruya, Toru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinbou, Akiyuki\n\nDirector\n\n', b'\nTange, Sakura\n\nTheme Song Performance\n\n', b'\nYanase, Natsumi\n\nTheme Song Performance\n\n', b'\nNiiyama, Shiho\n\nTheme Song Performance\n\n']
+animePopularity	8592
+animeDescription	"Debutante Detective Corps begins with introductions to the five main characters, Miyuki, Reika, Youko, Nina, and Kimiko. It seems these five girls are incredibly rich and have been sent a threatening video tape by forces unknown. A police guard is set up at the school where the girls have enrolled. Kimiko, however, doesn't like the idea of being cooped up at school, and convinces the rest of the girls to trick the police into leaving. No sooner are the police gone, however, then the girls are assaulted by three armed terrorists. What ensues is a rather silly escapade with our heroines attempting to thwart their attackers. 
+
+(Source: ANN)"
+animeRelated	['Sotsugyou: Graduation']
+animeCharacters	['Ayanokouji, Miyuki', 'Ryuuzaki, Yoko', 'Shu, Reika', 'Kirov, Nina', 'Ayanokouji, Kimiko', 'Announcer', 'Ochi, Inspector', 'Nomura, Detective', 'Principal']
+animeVoices	['Nagashima, Yuuko', 'Yanase, Natsumi', 'Tange, Sakura', 'Kasahara, Rumi', 'Niiyama, Shiho', 'Yonemoto, Chizu', 'Aono, Takeshi', 'Furuya, Toru']
+animeStaff	[['Shinbou, Akiyuki', 'Director'], ['Tange, Sakura', 'Theme Song Performance'], ['Yanase, Natsumi', 'Theme Song Performance'], ['Niiyama, Shiho', 'Theme Song Performance']]

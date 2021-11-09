@@ -1,5 +1,5 @@
-animeTitle	b'Kokoro Toshokan: Communication Clips'
-animeType	b'Special'
+animeTitle	Kokoro Toshokan: Communication Clips
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.75
 animeUsers	252
 animeRank	
-animePopularity	
-animeDescription	"b'A small collection of various clips from throughout the series, separted by 3 second segments with titles like ""Kokoro\'s Cute"" coupled with a quick clip of some mech anime.\n\n(Source: ANN)'"
-animeRelated	[b'Kokoro Toshokan']
-animeCharacters	[b'Kokoro', b'Aruto', b'Iina']
+animePopularity	12000
+animeDescription	"A small collection of various clips from throughout the series, separted by 3 second segments with titles like ""Kokoro's Cute"" coupled with a quick clip of some mech anime.
+
+(Source: ANN)"
+animeRelated	['Kokoro Toshokan']
+animeCharacters	['Kokoro', 'Aruto', 'Iina']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasunari, Koji\n\nDirector\n\n', b'\nKuroda, Yousuke\n\nScript\n\n', b'\nTachibana, Hideki\n\nCharacter Design\n\n', b'\nTakagi, Nobuyuki\n\nOriginal Creator\n\n']
+animeStaff	[['Masunari, Koji', 'Director'], ['Kuroda, Yousuke', 'Script'], ['Tachibana, Hideki', 'Character Design'], ['Takagi, Nobuyuki', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Escha Chron'
-animeType	b'ONA'
+animeTitle	Escha Chron
+animeType	ONA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.46
 animeUsers	1755
 animeRank	
-animePopularity	
-animeDescription	"b""The story follows the two titular girls Escha and Chron, whose contrasting personalities are like the sun and moon. The two girls are from Terminal, a future post-apocalyptic world that's empty and monochrome. The two girls cross worlds and arrive in the present day, which they call Transit. As Escha and Chron experience the light (scenery) and sound (music) of the real world, the future world of Terminal gradually changes into a more vivid world.\n\n(Source: ANN)"""
+animePopularity	6141
+animeDescription	"The story follows the two titular girls Escha and Chron, whose contrasting personalities are like the sun and moon. The two girls are from Terminal, a future post-apocalyptic world that's empty and monochrome. The two girls cross worlds and arrive in the present day, which they call Transit. As Escha and Chron experience the light (scenery) and sound (music) of the real world, the future world of Terminal gradually changes into a more vivid world.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Escha', b'Chron']
-animeVoices	[b'\nAnzai, Chika\nJapanese\n', b'\nYasuno, Kiyono\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMizushima, Seiji\n\nDirector\n\n', b'\nYamaguchi, Hikaru\n\nDirector\n\n', b'\nTakahashi, Tatsuya\n\nScript\n\n', b'\nYasuno, Kiyono\n\nInserted Song Performance\n\n']
+animeCharacters	['Escha', 'Chron']
+animeVoices	['Anzai, Chika', 'Yasuno, Kiyono']
+animeStaff	[['Mizushima, Seiji', 'Director'], ['Yamaguchi, Hikaru', 'Director'], ['Takahashi, Tatsuya', 'Script'], ['Yasuno, Kiyono', 'Inserted Song Performance']]

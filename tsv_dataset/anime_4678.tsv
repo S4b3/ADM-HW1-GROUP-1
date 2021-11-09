@@ -1,5 +1,5 @@
-animeTitle	b'Gundam Build Fighters: Battlogue'
-animeType	b'ONA'
+animeTitle	Gundam Build Fighters: Battlogue
+animeType	ONA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.79
 animeUsers	3160
 animeRank	
-animePopularity	
-animeDescription	b'This is a dynamic dream battle featuring many types of Gunpla skirmishing in all sorts of situations.\n\n(Source: gundam.info)'
-animeRelated	[b'Gundam Build Fighters', b'Gundam Build Fighters Try']
-animeCharacters	[b'Ray, Amuro', b'Yuuki, Tatsuya', b'Iori, Sei', b'Hoshino, Fumina', b'Sazaki, Kaoruko', b'Kousaka, Yuuma', b'Sakai, Minato', b'Renato, Serio', b'Renato, Mario', b'Renato, Julio']
-animeVoices	[b'\nFuruya, Toru\nJapanese\n', b'\nSatou, Takuya\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nMakino, Yui\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n', b'\nUchida, Yuuma\nJapanese\n', b'\nOkitsu, Kazuyuki\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHayashi, Yuuki\n\nMusic\n\n', b'\nAbe, Misao\n\nKey Animation\n\n', b'\nGotou, Haruhi\n\nDirector of Photography\n\n']
+animePopularity	6264
+animeDescription	"This is a dynamic dream battle featuring many types of Gunpla skirmishing in all sorts of situations.
+
+(Source: gundam.info)"
+animeRelated	['Gundam Build Fighters', 'Gundam Build Fighters Try']
+animeCharacters	['Ray, Amuro', 'Yuuki, Tatsuya', 'Iori, Sei', 'Hoshino, Fumina', 'Sazaki, Kaoruko', 'Kousaka, Yuuma', 'Sakai, Minato', 'Renato, Serio', 'Renato, Mario', 'Renato, Julio']
+animeVoices	['Furuya, Toru', 'Satou, Takuya', 'Komatsu, Mikako', 'Makino, Yui', 'Hirohashi, Ryou', 'Uchida, Yuuma', 'Okitsu, Kazuyuki', 'Ueda, Yuuji']
+animeStaff	[['Hayashi, Yuuki', 'Music'], ['Abe, Misao', 'Key Animation'], ['Gotou, Haruhi', 'Director of Photography']]

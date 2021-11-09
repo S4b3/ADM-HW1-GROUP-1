@@ -1,5 +1,5 @@
-animeTitle	b'Ajimu: Kaigan Monogatari'
-animeType	b'ONA'
+animeTitle	Ajimu: Kaigan Monogatari
+animeType	ONA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.35
 animeUsers	5511
 animeRank	
-animePopularity	
-animeDescription	"b""Seventeen year old Nakaido Hirosuke is just your average high school student. One morning as he arrives at the train station on his way to school, he catches sight of a beautiful girl, Ajimu Yasuna, and immediately falls for her. The two of them get to know each other and become friends, but he can't confess his feelings and she is unsure of hers. As events and other people present obstacles for the potential couple to clear, their relationship begins to develop and their feelings become clear.\n\n(Source: ANN)"""
+animePopularity	4701
+animeDescription	"Seventeen year old Nakaido Hirosuke is just your average high school student. One morning as he arrives at the train station on his way to school, he catches sight of a beautiful girl, Ajimu Yasuna, and immediately falls for her. The two of them get to know each other and become friends, but he can't confess his feelings and she is unsure of hers. As events and other people present obstacles for the potential couple to clear, their relationship begins to develop and their feelings become clear.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Yasuna, Ajimu', b'Hirosuke, Nakaido', b'Yuuma, Otomine', b'Takemoto, Suzue', b'Akizuki, Kyouko', b'Kazuki, Izumiya']
-animeVoices	[b'\nChiba, Saeko\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nMadono, Mitsuaki\nJapanese\n', b'\nMiyamura, Yuko\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChiba, Saeko\n\nTheme Song Performance\n\n', b'\nMutou, Yasuyuki\n\nSeries Composition\n\n', b'\nSano, Takashi\n\nKey Animation\n\n', b'\nFujiyama, Fusanobu\n\nPlanning\n\n']
+animeCharacters	['Yasuna, Ajimu', 'Hirosuke, Nakaido', 'Yuuma, Otomine', 'Takemoto, Suzue', 'Akizuki, Kyouko', 'Kazuki, Izumiya']
+animeVoices	['Chiba, Saeko', 'Ishida, Akira', 'Madono, Mitsuaki', 'Miyamura, Yuko', 'Mitsuishi, Kotono', 'Morikubo, Shoutarou']
+animeStaff	[['Chiba, Saeko', 'Theme Song Performance'], ['Mutou, Yasuyuki', 'Series Composition'], ['Sano, Takashi', 'Key Animation'], ['Fujiyama, Fusanobu', 'Planning']]

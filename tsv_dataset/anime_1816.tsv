@@ -1,5 +1,5 @@
-animeTitle	b'Ansatsu Kyoushitsu: Deai no Jikan'
-animeType	b'Special'
+animeTitle	Ansatsu Kyoushitsu: Deai no Jikan
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.44
 animeUsers	51622
 animeRank	
-animePopularity	
-animeDescription	"b""Koro-sensei reminisces about his first meeting with Karasuma, where they first butted heads and fought against each other, ultimately coming to respect one another. However, Karasuma eventually points out their actual meeting wasn't nearly as eventful.\n\n(Source: ANN)"""
-animeRelated	[b'Ansatsu Kyoushitsu']
-animeCharacters	[b'Koro-sensei', b'Shiota, Nagisa', b'Karasuma, Tadaomi', b'Kayano, Kaede']
-animeVoices	[b'\nFukuyama, Jun\nJapanese\n', b'\nFuchigami, Mai\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nSuzaki, Aya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKishi, Seiji\n\nDirector\n\n', b'\nMatsui, Yuusei\n\nOriginal Creator\n\n', b'\nFukunaga, Gen\n\nExecutive Producer\n\n']
+animePopularity	1452
+animeDescription	"Koro-sensei reminisces about his first meeting with Karasuma, where they first butted heads and fought against each other, ultimately coming to respect one another. However, Karasuma eventually points out their actual meeting wasn't nearly as eventful.
+
+(Source: ANN)"
+animeRelated	['Ansatsu Kyoushitsu']
+animeCharacters	['Koro-sensei', 'Shiota, Nagisa', 'Karasuma, Tadaomi', 'Kayano, Kaede']
+animeVoices	['Fukuyama, Jun', 'Fuchigami, Mai', 'Sugita, Tomokazu', 'Suzaki, Aya']
+animeStaff	[['Kishi, Seiji', 'Director'], ['Matsui, Yuusei', 'Original Creator'], ['Fukunaga, Gen', 'Executive Producer']]

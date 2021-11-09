@@ -1,5 +1,5 @@
-animeTitle	b'Tokyo Mew Mew'
-animeType	b'TV'
+animeTitle	Tokyo Mew Mew
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.01
 animeUsers	59791
 animeRank	
-animePopularity	
-animeDescription	b'Ichigo Momomiya expected her date with her crush, Masaya Aoyama, to have a more romantic ending than her falling asleep after she sees a vision of a cat entering her body. Things get even stranger when, the next day, she begins displaying cat-like behaviors such as an intense craving for fish. When Masaya is attacked by a monster, she discovers that she is able to transform into the cat-eared magical girl, Mew Ichigo.\n\nAfter she saves Masaya, two researchers named Ryou Shirogane and Keiichiro Akasaka approach her and reveal they had injected her with Iriomote Cat DNA in order to create a magical girl that can save the world from aliens. Ichigo is tasked with fighting these monsters, but saving the world proves to be just too much for Ichigo to handle by herself. Fortunately, she learns that there are four other girls just like her, and now, Ichigo must find them quickly before the aliens completely take over the planet.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Tokyo Mew Mew', b'Tokyo Mew Mew New \xe2\x99\xa1']
-animeCharacters	[b'Momomiya, Ichigo', b'Fujiwara, Zakuro', b'Aizawa, Mint', b'Huang, Bu-Ling', b'Midorikawa, Lettuce', b'Quiche', b'Shirogane, Ryou', b'Aoyama, Masaya', b'Masha', b'Blue Knight']
-animeVoices	[b'\nNakajima, Saki\nJapanese\n', b'\nNoda, Junko\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n', b'\nMochizuki, Hisayo\nJapanese\n', b'\nSakuma, Kumi\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nToochika, Kouichi\nJapanese\n', b'\nOgata, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAbe, Noriyuki\n\nDirector, Episode Director, Storyboard, Recording\n\n', b'\nMatsuura, Johei\n\nEpisode Director, Storyboard\n\n', b'\nEnomoto, Akihiro\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nNishimura, Satoshi\n\nStoryboard\n\n']
+animePopularity	1332
+animeDescription	"Ichigo Momomiya expected her date with her crush, Masaya Aoyama, to have a more romantic ending than her falling asleep after she sees a vision of a cat entering her body. Things get even stranger when, the next day, she begins displaying cat-like behaviors such as an intense craving for fish. When Masaya is attacked by a monster, she discovers that she is able to transform into the cat-eared magical girl, Mew Ichigo.
+
+After she saves Masaya, two researchers named Ryou Shirogane and Keiichiro Akasaka approach her and reveal they had injected her with Iriomote Cat DNA in order to create a magical girl that can save the world from aliens. Ichigo is tasked with fighting these monsters, but saving the world proves to be just too much for Ichigo to handle by herself. Fortunately, she learns that there are four other girls just like her, and now, Ichigo must find them quickly before the aliens completely take over the planet.
+
+[Written by MAL Rewrite]"
+animeRelated	['Tokyo Mew Mew', 'Tokyo Mew Mew New ♡']
+animeCharacters	['Momomiya, Ichigo', 'Fujiwara, Zakuro', 'Aizawa, Mint', 'Huang, Bu-Ling', 'Midorikawa, Lettuce', 'Quiche', 'Shirogane, Ryou', 'Aoyama, Masaya', 'Masha', 'Blue Knight']
+animeVoices	['Nakajima, Saki', 'Noda, Junko', 'Kakazu, Yumi', 'Mochizuki, Hisayo', 'Sakuma, Kumi', 'Sakaguchi, Daisuke', 'Toochika, Kouichi', 'Ogata, Megumi']
+animeStaff	[['Abe, Noriyuki', 'Director, Episode Director, Storyboard, Recording'], ['Matsuura, Johei', 'Episode Director, Storyboard'], ['Enomoto, Akihiro', 'Episode Director, Storyboard, Key Animation'], ['Nishimura, Satoshi', 'Storyboard']]

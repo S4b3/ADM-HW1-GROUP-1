@@ -1,5 +1,5 @@
-animeTitle	b'Bananya: Fushigi na Nakama-tachi'
-animeType	b'TV'
+animeTitle	Bananya: Fushigi na Nakama-tachi
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.59
 animeUsers	5490
 animeRank	
-animePopularity	
-animeDescription	"b'On a little planet live little creatures called ""Bananyas."" Come watch their daily lifes full of adventures and discoveries.'"
-animeRelated	[b'Bananya']
-animeCharacters	[b'Bananya', b'Emo Bananya', b'Scientist Bananya', b'Elder Bananya', b'Robot Kitty', b'Vampire Bananya', b'Pirate Bananya', b'Metal Bananya', b'Zombie Bananya', b'Narrator']
-animeVoices	[b'\nKaji, Yuki\nJapanese\n', b'\nYuuki, Kana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Kyou\n\nDirector\n\n', b'\nAbe, Nobuyuki\n\nSound Director\n\n', b'\nTakata, Masahiro\n\nScript\n\n', b'\nTateyama, Akiyuki\n\nMusic\n\n']
+animePopularity	5075
+animeDescription	"On a little planet live little creatures called ""Bananyas."" Come watch their daily lifes full of adventures and discoveries."
+animeRelated	['Bananya']
+animeCharacters	['Bananya', 'Emo Bananya', 'Scientist Bananya', 'Elder Bananya', 'Robot Kitty', 'Vampire Bananya', 'Pirate Bananya', 'Metal Bananya', 'Zombie Bananya', 'Narrator']
+animeVoices	['Kaji, Yuki', 'Yuuki, Kana']
+animeStaff	[['Yatate, Kyou', 'Director'], ['Abe, Nobuyuki', 'Sound Director'], ['Takata, Masahiro', 'Script'], ['Tateyama, Akiyuki', 'Music']]

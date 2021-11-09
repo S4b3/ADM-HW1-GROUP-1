@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 36: Shin Nobita no Nippon Tanjou'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 36: Shin Nobita no Nippon Tanjou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.28
 animeUsers	1973
 animeRank	
-animePopularity	
-animeDescription	"b'Doraemon and friends run away from their home and travel back in time to the 70,000 years ago where nobody existed to build their ideal private paradise. After they fully relished the freedom in the era, Doraemon and friends bid farewell to their paradise and come back to the present day. However, a few days after they came back home, Doraemon and friends bump into a caveman called ""Kukul"" in the current era. They find out that the caveman Kukul was accidentally transported forward to the present, and that his tribe called Hikari tribe was attacked and abducted by Giga Zombie and Kurayami tribe after Doraemon and friends left the primitive age.\n\nDoraemon and friends decide to go back to the primitive age to save Hikari tribe from the villain.\n\nThey dive into a grand adventure during their first and the furthest runaway.\n\n(Source: Toho)'"
-animeRelated	[b'Doraemon Movie 10: Nobita no Nippon Tanjou', b'Doraemon (2005)']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi', b'Dorami', b'Nobi, Nobisuke', b'Nobi, Tamako', b'Giga Zombie', b'Kukuru']
-animeVoices	[b'\nMizuta, Wasabi\nJapanese\n', b'\nOohara, Megumi\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nKimura, Subaru\nJapanese\n', b'\nFujimoto, Chiaki\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYakuwa, Shinnosuke\n\nDirector, Script\n\n', b'\nTanaka, Akiyoshi\n\nSound Director\n\n', b'\nOkano, Shingo\n\nEpisode Director\n\n', b'\nYamazaki, Masayoshi\n\nTheme Song Performance\n\n']
+animePopularity	7906
+animeDescription	"Doraemon and friends run away from their home and travel back in time to the 70,000 years ago where nobody existed to build their ideal private paradise. After they fully relished the freedom in the era, Doraemon and friends bid farewell to their paradise and come back to the present day. However, a few days after they came back home, Doraemon and friends bump into a caveman called ""Kukul"" in the current era. They find out that the caveman Kukul was accidentally transported forward to the present, and that his tribe called Hikari tribe was attacked and abducted by Giga Zombie and Kurayami tribe after Doraemon and friends left the primitive age.
+
+Doraemon and friends decide to go back to the primitive age to save Hikari tribe from the villain.
+
+They dive into a grand adventure during their first and the furthest runaway.
+
+(Source: Toho)"
+animeRelated	['Doraemon Movie 10: Nobita no Nippon Tanjou', 'Doraemon (2005)']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Dorami', 'Nobi, Nobisuke', 'Nobi, Tamako', 'Giga Zombie', 'Kukuru']
+animeVoices	['Mizuta, Wasabi', 'Oohara, Megumi', 'Kakazu, Yumi', 'Seki, Tomokazu', 'Kimura, Subaru', 'Fujimoto, Chiaki', 'Matsumoto, Yasunori', 'Mitsuishi, Kotono', 'Ootsuka, Houchuu', 'Shiraishi, Ryouko']
+animeStaff	[['Yakuwa, Shinnosuke', 'Director, Script'], ['Tanaka, Akiyoshi', 'Sound Director'], ['Okano, Shingo', 'Episode Director'], ['Yamazaki, Masayoshi', 'Theme Song Performance']]

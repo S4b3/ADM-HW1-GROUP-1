@@ -1,5 +1,5 @@
-animeTitle	b'Hello Kitty no Cinderella'
-animeType	b'Movie'
+animeTitle	Hello Kitty no Cinderella
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.2
 animeUsers	443
 animeRank	
-animePopularity	
-animeDescription	b'Hello Kitty version of Cinderella.'
-animeRelated	[b'Kiki to Lala no Aoi Tori', b'My Melody no Akazukin', b'Hello Kitty no Cinderella (OVA)']
-animeCharacters	[b'White, Kitty']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nGrimm, Jacob and Wilhelm\n\nOriginal Creator\n\n', b'\nHata, Masami\n\nChief Animation Director\n\n', b'\nTsuji, Shintarou\n\nExecutive Producer\n\n', b'\nMatsuyama, Maya\n\nAnimation Director\n\n']
+animePopularity	11008
+animeDescription	Hello Kitty version of Cinderella.
+animeRelated	['Kiki to Lala no Aoi Tori', 'My Melody no Akazukin', 'Hello Kitty no Cinderella (OVA)']
+animeCharacters	['White, Kitty']
+animeVoices	['Hayashibara, Megumi']
+animeStaff	[['Grimm, Jacob and Wilhelm', 'Original Creator'], ['Hata, Masami', 'Chief Animation Director'], ['Tsuji, Shintarou', 'Executive Producer'], ['Matsuyama, Maya', 'Animation Director']]

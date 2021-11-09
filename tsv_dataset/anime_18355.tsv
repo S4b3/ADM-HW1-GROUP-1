@@ -1,5 +1,5 @@
-animeTitle	b'Boku no Yayoi-san'
-animeType	b'OVA'
+animeTitle	Boku no Yayoi-san
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.21
 animeUsers	2192
 animeRank	
-animePopularity	
-animeDescription	"b""It has been five years since Hiro's older brother passed away, and during those years, he has been living with his brother's widow, Yayoi. Fast forward to the present, Hiro's feelings for Yayoi are brighter than ever.\n\nWill he be able to confess his feelings toward her? Will Yayoi be able to reciprocate said feelings?\n\n(Source: MU, edited)"""
-animeRelated	[b'Boku no Yayoi-san', b'Boku no Yayoi-san 2']
-animeCharacters	[b'Nijihara, Yayoi']
+animePopularity	6666
+animeDescription	"It has been five years since Hiro's older brother passed away, and during those years, he has been living with his brother's widow, Yayoi. Fast forward to the present, Hiro's feelings for Yayoi are brighter than ever.
+
+Will he be able to confess his feelings toward her? Will Yayoi be able to reciprocate said feelings?
+
+(Source: MU, edited)"
+animeRelated	['Boku no Yayoi-san', 'Boku no Yayoi-san 2']
+animeCharacters	['Nijihara, Yayoi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsukino, Jyogi\n\nOriginal Creator\n\n']
+animeStaff	[['Tsukino, Jyogi', 'Original Creator']]

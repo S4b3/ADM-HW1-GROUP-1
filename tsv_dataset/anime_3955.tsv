@@ -1,5 +1,5 @@
-animeTitle	b'Show By Rock!! Mashumairesh!!'
-animeType	b'TV'
+animeTitle	Show By Rock!! Mashumairesh!!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.96
 animeUsers	3261
 animeRank	
-animePopularity	
-animeDescription	b'New Show by Rock!! TV Series featuring the new band Mashumairesh!!.'
-animeRelated	[b'Show By Rock!!', b'Show by Rock!! Stars!!']
-animeCharacters	[b'Howan', b'Mashima, Himeko', b'Delmin', b'Ruhuyu', b'Crow', b'Rom', b'Aion', b'Yaiba', b'Hacchin', b'Yasu']
-animeVoices	[b'\nToono, Hikaru\nJapanese\n', b'\nNatsuyoshi, Yuuko\nJapanese\n', b'\nWatada, Misaki\nJapanese\n', b'\nYamane, Aya\nJapanese\n', b'\nKomatsu, Shouhei\nJapanese\n', b'\nItou, Kento\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSon, Seung-Hui\n\nDirector\n\n', b'\nGou, Fumiyuki\n\nSound Director\n\n', b'\nTakanashi, Yasuharu\n\nMusic\n\n', b'\nFunta\n\nMusic\n\n']
+animePopularity	4929
+animeDescription	New Show by Rock!! TV Series featuring the new band Mashumairesh!!.
+animeRelated	['Show By Rock!!', 'Show by Rock!! Stars!!']
+animeCharacters	['Howan', 'Mashima, Himeko', 'Delmin', 'Ruhuyu', 'Crow', 'Rom', 'Aion', 'Yaiba', 'Hacchin', 'Yasu']
+animeVoices	['Toono, Hikaru', 'Natsuyoshi, Yuuko', 'Watada, Misaki', 'Yamane, Aya', 'Komatsu, Shouhei', 'Itou, Kento']
+animeStaff	[['Son, Seung-Hui', 'Director'], ['Gou, Fumiyuki', 'Sound Director'], ['Takanashi, Yasuharu', 'Music'], ['Funta', 'Music']]

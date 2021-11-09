@@ -1,5 +1,5 @@
-animeTitle	b'Saint Seiya: Shinku no Shounen Densetsu'
-animeType	b'Movie'
+animeTitle	Saint Seiya: Shinku no Shounen Densetsu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.21
 animeUsers	7983
 animeRank	
-animePopularity	
-animeDescription	b'Sun God Apollo the brother of Athena is here to take Athena back to heaven and taking over the sanctuary. He revived the deceased gold saints and use them and a few god saints as bodyguards. But Athena did not obey him, Apollo had no choice but send her to hell. On the otherhand, the bronze saints are on their way to save Athena.\n\n(Source: ANN) '
-animeRelated	[b'Saint Seiya']
-animeCharacters	[b'Phoenix, Ikki', b'Dragon, Shiryuu', b'Pegasus, Seiya', b'Andromeda, Shun', b'Cygnus, Hyouga', b'Abel, Phoebus', b'Gemini, Saga', b'Aquarius, Camus', b'Libra, Douko', b'Kido, Saori']
-animeVoices	[b'\nHori, Hideyuki\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nHashimoto, Kouichi\nJapanese\n', b'\nHirokawa, Taichirou\nJapanese\n', b'\nSogabe, Kazuyuki\nJapanese\n', b'\nNaya, Rokurou\nJapanese\n', b'\nYada, Kouji\nJapanese\n', b'\nHan, Keiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamauchi, Shigeyasu\n\nDirector\n\n', b'\nBaroli, Gilberto\n\nScript, ADR Director\n\n', b'\nSuga, Yoshiyuki\n\nScript\n\n', b'\nYamada, Nobuo\n\nTheme Song Composition\n\n']
+animePopularity	4608
+animeDescription	"Sun God Apollo the brother of Athena is here to take Athena back to heaven and taking over the sanctuary. He revived the deceased gold saints and use them and a few god saints as bodyguards. But Athena did not obey him, Apollo had no choice but send her to hell. On the otherhand, the bronze saints are on their way to save Athena.
+
+(Source: ANN) "
+animeRelated	['Saint Seiya']
+animeCharacters	['Phoenix, Ikki', 'Dragon, Shiryuu', 'Pegasus, Seiya', 'Andromeda, Shun', 'Cygnus, Hyouga', 'Abel, Phoebus', 'Gemini, Saga', 'Aquarius, Camus', 'Libra, Douko', 'Kido, Saori']
+animeVoices	['Hori, Hideyuki', 'Suzuoki, Hirotaka', 'Furuya, Toru', 'Horikawa, Ryo', 'Hashimoto, Kouichi', 'Hirokawa, Taichirou', 'Sogabe, Kazuyuki', 'Naya, Rokurou', 'Yada, Kouji', 'Han, Keiko']
+animeStaff	[['Yamauchi, Shigeyasu', 'Director'], ['Baroli, Gilberto', 'Script, ADR Director'], ['Suga, Yoshiyuki', 'Script'], ['Yamada, Nobuo', 'Theme Song Composition']]

@@ -1,5 +1,5 @@
-animeTitle	b'Space Oz no Bouken'
-animeType	b'TV'
+animeTitle	Space Oz no Bouken
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'In the year 2060, eight year old Dorothy and her dog are mysteriously swept off their planet into the wonderful, magical Galaxy of Oz. An evil witch, Gloomhilda, once ruled the Galaxy through fear and terror but was driven out by the good Dr. Oz. Now, Gloomhilda has amassed an army on the outskirts of the Galaxy and is preparing to win back her empire.Her sneak attack fails due to Dorothy\'s unexpected arrival. However, Dr. Oz knows Gloomhilda will return. He has a plan which will free the Galaxy of the wickedness of Gloomhilda forever. Legend tells of three magical crystals, the Crystal of Love, the Crystal of Wisdom, and the Crystal of Courage. These crystals were spread throughout the Galaxy and lost hundreds of years ago. According to the legend, whoever possesses all three crystals will rule the Galaxy of Oz for all Eternity. Under the guidance of Dr. Oz, Dorothy and an assortment of ""heroes"" set out to scour the Galaxy in search of the three magical crystals. \n\n(Source: ANN) '"
+animePopularity	13690
+animeDescription	"In the year 2060, eight year old Dorothy and her dog are mysteriously swept off their planet into the wonderful, magical Galaxy of Oz. An evil witch, Gloomhilda, once ruled the Galaxy through fear and terror but was driven out by the good Dr. Oz. Now, Gloomhilda has amassed an army on the outskirts of the Galaxy and is preparing to win back her empire.Her sneak attack fails due to Dorothy's unexpected arrival. However, Dr. Oz knows Gloomhilda will return. He has a plan which will free the Galaxy of the wickedness of Gloomhilda forever. Legend tells of three magical crystals, the Crystal of Love, the Crystal of Wisdom, and the Crystal of Courage. These crystals were spread throughout the Galaxy and lost hundreds of years ago. According to the legend, whoever possesses all three crystals will rule the Galaxy of Oz for all Eternity. Under the guidance of Dr. Oz, Dorothy and an assortment of ""heroes"" set out to scour the Galaxy in search of the three magical crystals. 
+
+(Source: ANN) "
 animeRelated	[]
-animeCharacters	[b'Dorothy', b'Princess Shera', b'Lily']
-animeVoices	[b'\nKouda, Mariko\nJapanese\n', b'\nAmano, Yuri\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nSokuza, Makoto\n\nEpisode Director, Storyboard\n\n', b'\nSatou, Masato\n\nEpisode Director\n\n', b'\nOkuda, Seiji\n\nStoryboard\n\n', b""\nD'Avena, Cristina\n\nTheme Song Performance\n\n""]"
+animeCharacters	['Dorothy', 'Princess Shera', 'Lily']
+animeVoices	['Kouda, Mariko', 'Amano, Yuri', 'Shiratori, Yuri']
+animeStaff	"[['Sokuza, Makoto', 'Episode Director, Storyboard'], ['Satou, Masato', 'Episode Director'], ['Okuda, Seiji', 'Storyboard'], [""D'Avena, Cristina"", 'Theme Song Performance']]"

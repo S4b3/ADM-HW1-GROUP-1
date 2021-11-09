@@ -1,5 +1,5 @@
-animeTitle	b'Urara Meirochou'
-animeType	b'TV'
+animeTitle	Urara Meirochou
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.12
 animeUsers	33667
 animeRank	
-animePopularity	
-animeDescription	"b'Labyrinth Town is a legendary city composed of ten districts, home to witches and diviners alike. In the outermost district of this maze, many young girls begin training to join the ranks of the ""Urara,"" a group of women known far and wide for their ability to divine the answers to the world\'s most difficult questions. Chiya, a wild girl raised amongst the animals in the mountains, is invited to take her rightful place as a first rank urara. By joining them, she hopes to divine the location of her long-lost mother.\n\nChiya quickly makes three friends: studious Kon Tatsumi, aspiring witch Koume Yukimi, and reticent Nono Natsume. Armed with only their own ingenuity and a vague connection to the gods, they begin their journey in the way of the urara.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Urara Meirochou']
-animeCharacters	[b'Chiya', b'Tatsumi, Kon', b'Yukimi, Koume', b'Natsume, Nono', b'Natsume, Nina', b'Iroi, Saku', b'Quispilquette, Marie', b'Tokie', b'Ooshima', b'Shiozawa']
-animeVoices	[b'\nHarada, Sayaka\nJapanese\n', b'\nHondo, Kaede\nJapanese\n', b'\nKubo, Yurika\nJapanese\n', b'\nYoshimura, Haruka\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nSuwa, Ayaka\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nTakakura, Yuka\nJapanese\n', b'\nSasaki, Hitomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Youhei\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nMieno, Hitomi\n\nScript, Series Composition\n\n', b'\nHondo, Kaede\n\nTheme Song Performance\n\n']
+animePopularity	1435
+animeDescription	"Labyrinth Town is a legendary city composed of ten districts, home to witches and diviners alike. In the outermost district of this maze, many young girls begin training to join the ranks of the ""Urara,"" a group of women known far and wide for their ability to divine the answers to the world's most difficult questions. Chiya, a wild girl raised amongst the animals in the mountains, is invited to take her rightful place as a first rank urara. By joining them, she hopes to divine the location of her long-lost mother.
+
+Chiya quickly makes three friends: studious Kon Tatsumi, aspiring witch Koume Yukimi, and reticent Nono Natsume. Armed with only their own ingenuity and a vague connection to the gods, they begin their journey in the way of the urara.
+
+[Written by MAL Rewrite]"
+animeRelated	['Urara Meirochou']
+animeCharacters	['Chiya', 'Tatsumi, Kon', 'Yukimi, Koume', 'Natsume, Nono', 'Natsume, Nina', 'Iroi, Saku', 'Quispilquette, Marie', 'Tokie', 'Ooshima', 'Shiozawa']
+animeVoices	['Harada, Sayaka', 'Hondo, Kaede', 'Kubo, Yurika', 'Yoshimura, Haruka', 'Kayano, Ai', 'Suwa, Ayaka', 'Yahagi, Sayuri', 'Noto, Mamiko', 'Takakura, Yuka', 'Sasaki, Hitomi']
+animeStaff	[['Suzuki, Youhei', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Mieno, Hitomi', 'Script, Series Composition'], ['Hondo, Kaede', 'Theme Song Performance']]

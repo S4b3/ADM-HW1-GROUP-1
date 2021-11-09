@@ -1,5 +1,5 @@
-animeTitle	b'Ai (ONA)'
-animeType	b'ONA'
+animeTitle	Ai (ONA)
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	2.61
 animeUsers	2383
 animeRank	
-animePopularity	
-animeDescription	b'Short animation by Rapparu.'
+animePopularity	7975
+animeDescription	Short animation by Rapparu.
 animeRelated	[]
-animeCharacters	[b'Person']
+animeCharacters	['Person']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nRapparu\n\nDirector\n\n']
+animeStaff	[['Rapparu', 'Director']]

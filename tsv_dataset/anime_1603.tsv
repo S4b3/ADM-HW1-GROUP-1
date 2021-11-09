@@ -1,5 +1,5 @@
-animeTitle	b'Donten ni Warau'
-animeType	b'TV'
+animeTitle	Donten ni Warau
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.51
 animeUsers	40497
 animeRank	
-animePopularity	
-animeDescription	b'When swords were outlawed in the eleventh year of the Meiji Era, the mighty samurai population began to dwindle. Those who rejected the ban on blades rebelled, causing violent unrest to erupt throughout the countryside. To combat the rise in criminal activity, an inescapable lake prison was constructed. Three young men, born of the Kumoh line, were given the duty of delivering criminals to their place of confinement\xe2\x80\x94but could there be more to their mission than meets the eye?\n\n(Source: FUNimation)'
-animeRelated	"[b'Donten ni Warau', b'Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai', b'Ippun de Wakaru Eiga ""Donten ni Warau"" Kaisetsu Yokoku']"
-animeCharacters	[b'Kumou, Tenka', b'Kinjou, Shirasu', b'Kumou, Soramaru', b'Kumou, Chuutarou', b'Nishiki', b'Abeno, Hirari', b'Abeno, Sousei', b'Sasaki, Kiiko', b'Kagami, Naoto', b'Ashiya, Mutsuki']
-animeVoices	[b'\nNakamura, Yuuichi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nYonaga, Tsubasa\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nFujiwara, Yuuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHaraguchi, Hiroshi\n\nDirector\n\n', b'\nEnomoto, Takahiro\n\nSound Director\n\n', b'\nTakahashi, Yuuya\n\nScript, Series Composition\n\n', b'\nGalneryus\n\nTheme Song Arrangement, Theme Song Performance, Theme Song Lyrics, Theme Song Composition\n\n']
+animePopularity	1462
+animeDescription	"When swords were outlawed in the eleventh year of the Meiji Era, the mighty samurai population began to dwindle. Those who rejected the ban on blades rebelled, causing violent unrest to erupt throughout the countryside. To combat the rise in criminal activity, an inescapable lake prison was constructed. Three young men, born of the Kumoh line, were given the duty of delivering criminals to their place of confinement—but could there be more to their mission than meets the eye?
+
+(Source: FUNimation)"
+animeRelated	"['Donten ni Warau', 'Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai', 'Ippun de Wakaru Eiga ""Donten ni Warau"" Kaisetsu Yokoku']"
+animeCharacters	['Kumou, Tenka', 'Kinjou, Shirasu', 'Kumou, Soramaru', 'Kumou, Chuutarou', 'Nishiki', 'Abeno, Hirari', 'Abeno, Sousei', 'Sasaki, Kiiko', 'Kagami, Naoto', 'Ashiya, Mutsuki']
+animeVoices	['Nakamura, Yuuichi', 'Sakurai, Takahiro', 'Kaji, Yuki', 'Yonaga, Tsubasa', 'Noto, Mamiko', 'Suzumura, Kenichi', 'Toriumi, Kousuke', 'Ohara, Sayaka', 'Miki, Shinichiro', 'Fujiwara, Yuuki']
+animeStaff	[['Haraguchi, Hiroshi', 'Director'], ['Enomoto, Takahiro', 'Sound Director'], ['Takahashi, Yuuya', 'Script, Series Composition'], ['Galneryus', 'Theme Song Arrangement, Theme Song Performance, Theme Song Lyrics, Theme Song Composition']]

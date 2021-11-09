@@ -1,5 +1,5 @@
-animeTitle	b'Hoshi no Kirby: Pilot'
-animeType	b'Special'
+animeTitle	Hoshi no Kirby: Pilot
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.63
 animeUsers	904
 animeRank	
-animePopularity	
-animeDescription	b'Pilot episode for Kirby: Right Back At Ya!\n\nThe episode begins with a mysterious pink creature, Kirby, crash landing his starship on a foreign planet, Popstar. '
-animeRelated	[b'Hoshi no Kirby']
-animeCharacters	[b'Kirby', b'King Dedede', b'Fumu', b'Meta Knight']
+animePopularity	9603
+animeDescription	"Pilot episode for Kirby: Right Back At Ya!
+
+The episode begins with a mysterious pink creature, Kirby, crash landing his starship on a foreign planet, Popstar. "
+animeRelated	['Hoshi no Kirby']
+animeCharacters	['Kirby', 'King Dedede', 'Fumu', 'Meta Knight']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurai, Masahiro\n\nOriginal Creator\n\n']
+animeStaff	[['Sakurai, Masahiro', 'Original Creator']]

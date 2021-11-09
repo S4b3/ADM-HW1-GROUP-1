@@ -1,5 +1,5 @@
-animeTitle	b'Black Magic M-66'
-animeType	b'OVA'
+animeTitle	Black Magic M-66
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.38
 animeUsers	5955
 animeRank	
-animePopularity	
-animeDescription	"b""When Sybel, a freelance reporter, discovers a military plane crash, she is thrilled by the prospect of getting her hands on the latest inside scoop. However, she is unaware that the plane was carrying two top-secret prototype android assassins who will stop at nothing to destroy their target. As the military frantically tries to clean up its mess, Sybel races against time to find and protect the robots' targeted victim\xe2\x80\x94all while documenting the military's misconduct\xe2\x80\x94before it is too late.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Black Magic']
-animeCharacters	[b'Sybel', b'Ferris', b'Major', b'Roger', b'Paco', b'Nakamura', b'Professor Slade', b'Professor Matthew', b'Leakey, Richard']
-animeVoices	[b'\nSakakibara, Yoshiko\nJapanese\n', b'\nYokoyama, Chisa\nJapanese\n', b'\nOgawa, Shinji\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nShioya, Kouzou\nJapanese\n', b'\nTonguu, Kyouko\nJapanese\n', b'\nTsujimura, Mahito\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nMizushima, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nShirow, Masamune\n\nDirector, Storyboard, Original Creator, Screenplay\n\n', b'\nKitakubo, Hiroyuki\n\nDirector, Screenplay, Character Design\n\n', b'\nOhira, Shinya\n\nKey Animation\n\n']
+animePopularity	4750
+animeDescription	"When Sybel, a freelance reporter, discovers a military plane crash, she is thrilled by the prospect of getting her hands on the latest inside scoop. However, she is unaware that the plane was carrying two top-secret prototype android assassins who will stop at nothing to destroy their target. As the military frantically tries to clean up its mess, Sybel races against time to find and protect the robots' targeted victim—all while documenting the military's misconduct—before it is too late.
+
+[Written by MAL Rewrite]"
+animeRelated	['Black Magic']
+animeCharacters	['Sybel', 'Ferris', 'Major', 'Roger', 'Paco', 'Nakamura', 'Professor Slade', 'Professor Matthew', 'Leakey, Richard']
+animeVoices	['Sakakibara, Yoshiko', 'Yokoyama, Chisa', 'Ogawa, Shinji', 'Wakamoto, Norio', 'Shioya, Kouzou', 'Tonguu, Kyouko', 'Tsujimura, Mahito', 'Nagai, Ichiro', 'Mizushima, Yuu']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Shirow, Masamune', 'Director, Storyboard, Original Creator, Screenplay'], ['Kitakubo, Hiroyuki', 'Director, Screenplay, Character Design'], ['Ohira, Shinya', 'Key Animation']]

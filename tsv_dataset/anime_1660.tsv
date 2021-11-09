@@ -1,5 +1,5 @@
-animeTitle	b'Yozakura Quartet: Tsuki ni Naku'
-animeType	b'OVA'
+animeTitle	Yozakura Quartet: Tsuki ni Naku
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.49
 animeUsers	9550
 animeRank	
-animePopularity	
-animeDescription	"b'""Tsuki ni Naku"" will take the story content from volume 11 of the manga, which features a visit to a onsen by the members of the Hiizumi Life Councelling Office, while the town\'s police force have to deal with a new youkai-hunter threat.\n\nThis OVA is bundled with the limited edition of the manga (14th, 15th, and 16th).'"
-animeRelated	[b'Yozakura Quartet', b'Yozakura Quartet: Hana no Uta']
-animeCharacters	[b'Kishi, Kyousuke', b'Mizuki, Shidou', b'Nanami, Ao', b'Yarizakura, Hime', b'Isone, Kotoha', b'Hiizumi, Akina', b'F, V Lila', b'Shinatsuhiko, Yae', b'F, V Juli', b'Shinatsuhiko, Yuuhi']
-animeVoices	[b'\nOno, Daisuke\nJapanese\n', b'\nKase, Yasuyuki\nJapanese\n', b'\nFujita, Saki\nJapanese\n', b'\nFukuen, Misato\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nKuwatani, Natsuko\nJapanese\n', b'\nOokubo, Aiko\nJapanese\n', b'\nMatsumoto, Sachi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Shinichi\n\nProducer\n\n', b'\nryo-timo\n\nDirector, Episode Director, Storyboard, Character Design, Animation Director\n\n', b'\nKobayashi, Hiroshi\n\nEpisode Director, Storyboard\n\n', b'\nYoshizaki, Hibiki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3536
+animeDescription	"""Tsuki ni Naku"" will take the story content from volume 11 of the manga, which features a visit to a onsen by the members of the Hiizumi Life Councelling Office, while the town's police force have to deal with a new youkai-hunter threat.
+
+This OVA is bundled with the limited edition of the manga (14th, 15th, and 16th)."
+animeRelated	['Yozakura Quartet', 'Yozakura Quartet: Hana no Uta']
+animeCharacters	['Kishi, Kyousuke', 'Mizuki, Shidou', 'Nanami, Ao', 'Yarizakura, Hime', 'Isone, Kotoha', 'Hiizumi, Akina', 'F, V Lila', 'Shinatsuhiko, Yae', 'F, V Juli', 'Shinatsuhiko, Yuuhi']
+animeVoices	['Ono, Daisuke', 'Kase, Yasuyuki', 'Fujita, Saki', 'Fukuen, Misato', 'Sawashiro, Miyuki', 'Kaji, Yuki', 'Kayano, Ai', 'Kuwatani, Natsuko', 'Ookubo, Aiko', 'Matsumoto, Sachi']
+animeStaff	[['Nakamura, Shinichi', 'Producer'], ['ryo-timo', 'Director, Episode Director, Storyboard, Character Design, Animation Director'], ['Kobayashi, Hiroshi', 'Episode Director, Storyboard'], ['Yoshizaki, Hibiki', 'Episode Director, Storyboard']]

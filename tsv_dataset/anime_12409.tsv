@@ -1,5 +1,5 @@
-animeTitle	b'Nintama Rantarou: Dokutake Onsen no Dan'
-animeType	b'Special'
+animeTitle	Nintama Rantarou: Dokutake Onsen no Dan
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""The Lord of Maitake Castle asks the Ninjutsu Academy Headmaster to accompany him when he sneaks out incognito to visit a dango shop, and Rantarou, Kirimaru and Shinbei tag along for the trip as well. However, it turns out that the shop is actually a Dokutake Castle trap, and they're not the only ones who have been caught."""
-animeRelated	[b'Nintama Rantarou']
-animeCharacters	[b'Settsuno, Kirimaru', b'Fukutomi, Shinbei', b'Inadera, Rantarou', b'Doi, Hansuke', b'Yamada, Rikichi', b'HemuHemu', b'Tairano, Takiyashamaru', b'Shibuki', b'Fuuki', b'Yamabuki']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nIchiryuusai, Teiyuu\nJapanese\n', b'\nTakayama, Minami\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nOkano, Kousuke\nJapanese\n', b'\nShimada, Bin\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nShimakata, Junko\nJapanese\n', b'\nOotomo, Ryuuzaburou\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShibayama, Tsutomu\n\nDirector, Storyboard\n\n', b'\nUrasawa, Yoshio\n\nScript\n\n', b'\nMakaino, Kouji\n\nMusic\n\n', b'\nFujimori, Masaya\n\nCharacter Design\n\n']
+animePopularity	14566
+animeDescription	The Lord of Maitake Castle asks the Ninjutsu Academy Headmaster to accompany him when he sneaks out incognito to visit a dango shop, and Rantarou, Kirimaru and Shinbei tag along for the trip as well. However, it turns out that the shop is actually a Dokutake Castle trap, and they're not the only ones who have been caught.
+animeRelated	['Nintama Rantarou']
+animeCharacters	['Settsuno, Kirimaru', 'Fukutomi, Shinbei', 'Inadera, Rantarou', 'Doi, Hansuke', 'Yamada, Rikichi', 'HemuHemu', 'Tairano, Takiyashamaru', 'Shibuki', 'Fuuki', 'Yamabuki']
+animeVoices	['Tanaka, Mayumi', 'Ichiryuusai, Teiyuu', 'Takayama, Minami', 'Seki, Toshihiko', 'Okano, Kousuke', 'Shimada, Bin', 'Takagi, Wataru', 'Shimakata, Junko', 'Ootomo, Ryuuzaburou', 'Mitsuishi, Kotono']
+animeStaff	[['Shibayama, Tsutomu', 'Director, Storyboard'], ['Urasawa, Yoshio', 'Script'], ['Makaino, Kouji', 'Music'], ['Fujimori, Masaya', 'Character Design']]

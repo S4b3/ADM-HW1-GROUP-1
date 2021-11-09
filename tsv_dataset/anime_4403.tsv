@@ -1,5 +1,5 @@
-animeTitle	b'Wei\xc3\x9f Kreuz OVA'
-animeType	b'OVA'
+animeTitle	Weiß Kreuz OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.85
 animeUsers	2396
 animeRank	
-animePopularity	
-animeDescription	b'Someone out there is determined to see the fall of Weiss Kreuz, and it looks like they have found the perfect plan for it. The four assassins find themselves trapped in a deadly game of deceit, where the question of honor versus duty comes to surface. Now they must fight for their own reasons to survive--and there can be only be one victor in this field of death.\n\n(Source: AniDB)'
-animeRelated	[b'Wei\xc3\x9f Kreuz Gl\xc3\xbchen', b'Wei\xc3\x9f Kreuz']
-animeCharacters	[b'Fujimiya, Ran', b'Kudou, Youji', b'Tsukiyono, Omi', b'Hidaka, Ken', b'Reina']
-animeVoices	[b'\nKoyasu, Takehito\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nYuuki, Hiro\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nNakamura, Chie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKimura, Shinichiro\n\nDirector\n\n', b'\nMiki, Shinichiro\n\nTheme Song Performance\n\n', b'\nSeki, Tomokazu\n\nTheme Song Performance\n\n', b'\nKoyasu, Takehito\n\nOriginal Creator\n\n']
+animePopularity	6862
+animeDescription	"Someone out there is determined to see the fall of Weiss Kreuz, and it looks like they have found the perfect plan for it. The four assassins find themselves trapped in a deadly game of deceit, where the question of honor versus duty comes to surface. Now they must fight for their own reasons to survive--and there can be only be one victor in this field of death.
+
+(Source: AniDB)"
+animeRelated	['Weiß Kreuz Glühen', 'Weiß Kreuz']
+animeCharacters	['Fujimiya, Ran', 'Kudou, Youji', 'Tsukiyono, Omi', 'Hidaka, Ken', 'Reina']
+animeVoices	['Koyasu, Takehito', 'Miki, Shinichiro', 'Yuuki, Hiro', 'Seki, Tomokazu', 'Nakamura, Chie']
+animeStaff	[['Kimura, Shinichiro', 'Director'], ['Miki, Shinichiro', 'Theme Song Performance'], ['Seki, Tomokazu', 'Theme Song Performance'], ['Koyasu, Takehito', 'Original Creator']]

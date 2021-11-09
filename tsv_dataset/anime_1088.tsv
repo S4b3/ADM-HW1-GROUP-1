@@ -1,5 +1,5 @@
-animeTitle	b'Detective Conan Movie 17: Private Eye in the Distant Sea'
-animeType	b'Movie'
+animeTitle	Detective Conan Movie 17: Private Eye in the Distant Sea
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.69
 animeUsers	17948
 animeRank	
-animePopularity	
-animeDescription	"b""The warship Aegis Destroyer is conducting public exercises in Maizuru Bay where, coincidentally, a suspicious foreign ship was recently spotted. Conan Edogawa, Ran Mouri, Kogorou Mouri, Sonoko Suzuki, and the Detective Boys all receive a ticket to attend this event. However, while the ongoing military operations are underway, one of the crew members comes across a lieutenant's severed left arm. Conan later discovers that a foreign spy may have infiltrated the warship to obtain classified information by any means necessary. If the information were to leak, Japan's line of defense would be exposed, leaving the country unprotected from hostile attack.\n\nWith the help of the police at sea while other friends and allies investigate on the mainland, Conan must now prevent this national crisis and identify the spy for the sake of Japan.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Detective Conan']
-animeCharacters	[b'Edogawa, Conan', b'Mouri, Ran', b'Mouri, Kogorou', b'Fujii, Nanami', b'Haibara, Ai', b'Hattori, Heiji', b'Takagi, Wataru', b'Tooyama, Kazuha', b'Agasa, Hiroshi', b'Suzuki, Sonoko']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nShibasaki, Kou\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nMiyamura, Yuko\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuwa, Michihiko\n\nProducer, Planning\n\n', b'\nShizuno, Koubun\n\nDirector, Storyboard\n\n', b'\nUrakami, Keiko\n\nSound Director\n\n', b'\nOno, Katsuo\n\nMusic\n\n']
+animePopularity	3176
+animeDescription	"The warship Aegis Destroyer is conducting public exercises in Maizuru Bay where, coincidentally, a suspicious foreign ship was recently spotted. Conan Edogawa, Ran Mouri, Kogorou Mouri, Sonoko Suzuki, and the Detective Boys all receive a ticket to attend this event. However, while the ongoing military operations are underway, one of the crew members comes across a lieutenant's severed left arm. Conan later discovers that a foreign spy may have infiltrated the warship to obtain classified information by any means necessary. If the information were to leak, Japan's line of defense would be exposed, leaving the country unprotected from hostile attack.
+
+With the help of the police at sea while other friends and allies investigate on the mainland, Conan must now prevent this national crisis and identify the spy for the sake of Japan.
+
+[Written by MAL Rewrite]"
+animeRelated	['Detective Conan']
+animeCharacters	['Edogawa, Conan', 'Mouri, Ran', 'Mouri, Kogorou', 'Fujii, Nanami', 'Haibara, Ai', 'Hattori, Heiji', 'Takagi, Wataru', 'Tooyama, Kazuha', 'Agasa, Hiroshi', 'Suzuki, Sonoko']
+animeVoices	['Takayama, Minami', 'Yamazaki, Wakana', 'Koyama, Rikiya', 'Shibasaki, Kou', 'Hayashibara, Megumi', 'Horikawa, Ryo', 'Takagi, Wataru', 'Miyamura, Yuko', 'Ogata, Kenichi', 'Matsui, Naoko']
+animeStaff	[['Suwa, Michihiko', 'Producer, Planning'], ['Shizuno, Koubun', 'Director, Storyboard'], ['Urakami, Keiko', 'Sound Director'], ['Ono, Katsuo', 'Music']]

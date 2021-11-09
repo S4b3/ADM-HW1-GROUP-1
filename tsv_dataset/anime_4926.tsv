@@ -1,5 +1,5 @@
-animeTitle	b'Viewtiful Joe'
-animeType	b'TV'
+animeTitle	Viewtiful Joe
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.74
 animeUsers	4256
 animeRank	
-animePopularity	
-animeDescription	"b'Joe, a red-headed movie buff, and Silvia, his girlfriend, are having a bit of relationship trouble. Silvia feels that Joe is taking her for-granted and wants to do something together for once, so Joe decides to take her to see an old action movie featuring his favorite hero, Captain Blue. What started out as a cute movie date takes a turn for the worst when Silvia is pulled into the movie by the leader of the evil organization, Jado.\n\nJoe follows her into the mysterious ""Movieland,"" and is granted a powerful device known as a V-Watch by Captain Blue himself. With it, he transforms into the action hero named ""Viewtiful Joe"" and goes off to rescue his girlfriend before she can be used by Jado to take over the world. It\'s a long road to go from average Joe to full-blown hero, but he\'ll give it his all to save both his girl and the world\xe2\x80\x94and he\'ll do it in the most ""view-ti-ful"" way possible.'"
+animePopularity	5242
+animeDescription	"Joe, a red-headed movie buff, and Silvia, his girlfriend, are having a bit of relationship trouble. Silvia feels that Joe is taking her for-granted and wants to do something together for once, so Joe decides to take her to see an old action movie featuring his favorite hero, Captain Blue. What started out as a cute movie date takes a turn for the worst when Silvia is pulled into the movie by the leader of the evil organization, Jado.
+
+Joe follows her into the mysterious ""Movieland,"" and is granted a powerful device known as a V-Watch by Captain Blue himself. With it, he transforms into the action hero named ""Viewtiful Joe"" and goes off to rescue his girlfriend before she can be used by Jado to take over the world. It's a long road to go from average Joe to full-blown hero, but he'll give it his all to save both his girl and the world—and he'll do it in the most ""view-ti-ful"" way possible."
 animeRelated	[]
-animeCharacters	[b'Joe', b'Alastor', b'Silvia', b'Junior', b'Blue, Captain', b'Davidson, Hulk', b'Gran Bruce', b'Charles the Third', b'Bianky', b'Coordinator Sprocket']
-animeVoices	[b'\nSeki, Tomokazu\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nKuwatani, Natsuko\nJapanese\n', b'\nTsumura, Makoto\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nTakase, Akimitsu\nJapanese\n', b'\nKashii, Shouto\nJapanese\n', b'\nOgata, Mitsuru\nJapanese\n', b'\nAsano, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiyama, Takaaki\n\nDirector, Script\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nTamagawa, Makoto\n\nEpisode Director, Storyboard\n\n', b'\nCapcom\n\nOriginal Creator\n\n']
+animeCharacters	['Joe', 'Alastor', 'Silvia', 'Junior', 'Blue, Captain', 'Davidson, Hulk', 'Gran Bruce', 'Charles the Third', 'Bianky', 'Coordinator Sprocket']
+animeVoices	['Seki, Tomokazu', 'Miki, Shinichiro', 'Kuwatani, Natsuko', 'Tsumura, Makoto', 'Ginga, Banjou', 'Takase, Akimitsu', 'Kashii, Shouto', 'Ogata, Mitsuru', 'Asano, Mayumi']
+animeStaff	[['Ishiyama, Takaaki', 'Director, Script'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Tamagawa, Makoto', 'Episode Director, Storyboard'], ['Capcom', 'Original Creator']]

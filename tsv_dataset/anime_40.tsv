@@ -1,5 +1,5 @@
-animeTitle	b'Ousama Ranking'
-animeType	b'TV'
+animeTitle	Ousama Ranking
+animeType	TV
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.73
 animeUsers	11276
 animeRank	
-animePopularity	
-animeDescription	"b'The web manga centers around Bojji, a deaf, powerless prince who cannot even wield a children\'s sword. As the firstborn son, he strives hard and dreams of becoming the world\'s greatest king. However, people mutter about him behind his back as ""a good-for-nothing prince"" and ""no way he can be king.""\n\nBojji is able to make his first ever friend, ""Kage"" (shadow)\xe2\x80\x94a literal shadow on the ground who somehow understands Bojji well. (Kage is a survivor of the Kage assassin clan that was all but wiped out. No longer a killer, Kage now makes ends meet by stealing.) The story follows Bojji\'s coming-of-age as he meets various people in his life, starting with his fateful encounter with Kage.\n\n(Source: MAL News)'"
-animeRelated	[b'Ousama Ranking']
-animeCharacters	[b'Bojji', b'Kage', b'Apeas', b'Hiling', b'Hokuro', b'BeBin', b'Bosse', b'Magic Mirror', b'Death-Par', b'Death-Har']
-animeVoices	[b'\nHinata, Minami\nJapanese\n', b'\nMurase, Ayumu\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nYamashita, Daiki\nJapanese\n', b'\nUeda, Youji\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nShimoyama, Yoshimitsu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkada, Maiko\n\nProducer\n\n', b'\nHatta, Yousuke\n\nDirector\n\n', b'\nFuchigami, Makoto\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n']
+animePopularity	2163
+animeDescription	"The web manga centers around Bojji, a deaf, powerless prince who cannot even wield a children's sword. As the firstborn son, he strives hard and dreams of becoming the world's greatest king. However, people mutter about him behind his back as ""a good-for-nothing prince"" and ""no way he can be king.""
+
+Bojji is able to make his first ever friend, ""Kage"" (shadow)—a literal shadow on the ground who somehow understands Bojji well. (Kage is a survivor of the Kage assassin clan that was all but wiped out. No longer a killer, Kage now makes ends meet by stealing.) The story follows Bojji's coming-of-age as he meets various people in his life, starting with his fateful encounter with Kage.
+
+(Source: MAL News)"
+animeRelated	['Ousama Ranking']
+animeCharacters	['Bojji', 'Kage', 'Apeas', 'Hiling', 'Hokuro', 'BeBin', 'Bosse', 'Magic Mirror', 'Death-Par', 'Death-Har']
+animeVoices	['Hinata, Minami', 'Murase, Ayumu', 'Yasumoto, Hiroki', 'Satou, Rina', 'Yamashita, Daiki', 'Ueda, Youji', 'Miyake, Kenta', 'Sakamoto, Maaya', 'Sakurai, Takahiro', 'Shimoyama, Yoshimitsu']
+animeStaff	[['Okada, Maiko', 'Producer'], ['Hatta, Yousuke', 'Director'], ['Fuchigami, Makoto', 'Director'], ['Ebina, Yasunori', 'Sound Director']]

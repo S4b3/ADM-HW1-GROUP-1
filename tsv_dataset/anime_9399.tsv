@@ -1,5 +1,5 @@
-animeTitle	b'Bremen 4: Jigoku no Naka no Tenshi-tachi'
-animeType	b'Special'
+animeTitle	Bremen 4: Jigoku no Naka no Tenshi-tachi
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	5.79
 animeUsers	227
 animeRank	
-animePopularity	
-animeDescription	"b'TV anime created as a part of ""24-Hour Television"". Since 1978, Japanese TV network NTV has been doing charity event ""24-Hour Television"" every summer. Tezuka Production created anime specials for the event under the supervision of Osamu Tezuka. ""Bremen 4: Jigoku no Naka no Tenshi-tachi"" was produced for the 1981 event. Its title means ""Bremen 4: Angels in Hell"" in English.\n\nThe story is, similar to the Bremen Town Musicians fairy tale by Brothers Grimm, about four animals, Coda the cat, Alegro the dog, Largo the donkey and Minuet the chicken.\n\nThey save Rondo the alien who is on a peace mission. In return Rondo gives them a machine which can transform them into humans. Turned into their new form as humans, they go to the town, where they see the madness of war.\n\n(Source: AniDB)'"
-animeRelated	[b'Black Jack', b'Kaitei Choutokkyuu: Marine Express', b'Ginga Tansa 2100-nen: Border Planet', b'100-man-nen Chikyuu no Tabi: Bander Book', b'Time Slip Ichimannen: Prime Rose', b'Fumoon']
-animeCharacters	[b'Coda', b'Minuet', b'Alegro', b'Largo', b'Hazama, Kuroo', b'Hige Oyaji']
-animeVoices	[b'\nOkamoto, Mari\nJapanese\n', b'\nKyouda, Hisako\nJapanese\n', b'\nIshimaru, Hiroya\nJapanese\n', b'\nTomiyama, Kei\nJapanese\n', b'\nNozawa, Nachi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Osamu\n\nOriginal Creator\n\n', b'\nImagawa, Yasuhiro\n\nProduction Assistant\n\n', b'\nGrimm, Jacob and Wilhelm\n\nOriginal Creator\n\n', b'\nHiguchi, Yasuo\n\nMusic\n\n']
+animePopularity	12053
+animeDescription	"TV anime created as a part of ""24-Hour Television"". Since 1978, Japanese TV network NTV has been doing charity event ""24-Hour Television"" every summer. Tezuka Production created anime specials for the event under the supervision of Osamu Tezuka. ""Bremen 4: Jigoku no Naka no Tenshi-tachi"" was produced for the 1981 event. Its title means ""Bremen 4: Angels in Hell"" in English.
+
+The story is, similar to the Bremen Town Musicians fairy tale by Brothers Grimm, about four animals, Coda the cat, Alegro the dog, Largo the donkey and Minuet the chicken.
+
+They save Rondo the alien who is on a peace mission. In return Rondo gives them a machine which can transform them into humans. Turned into their new form as humans, they go to the town, where they see the madness of war.
+
+(Source: AniDB)"
+animeRelated	['Black Jack', 'Kaitei Choutokkyuu: Marine Express', 'Ginga Tansa 2100-nen: Border Planet', '100-man-nen Chikyuu no Tabi: Bander Book', 'Time Slip Ichimannen: Prime Rose', 'Fumoon']
+animeCharacters	['Coda', 'Minuet', 'Alegro', 'Largo', 'Hazama, Kuroo', 'Hige Oyaji']
+animeVoices	['Okamoto, Mari', 'Kyouda, Hisako', 'Ishimaru, Hiroya', 'Tomiyama, Kei', 'Nozawa, Nachi']
+animeStaff	[['Tezuka, Osamu', 'Original Creator'], ['Imagawa, Yasuhiro', 'Production Assistant'], ['Grimm, Jacob and Wilhelm', 'Original Creator'], ['Higuchi, Yasuo', 'Music']]

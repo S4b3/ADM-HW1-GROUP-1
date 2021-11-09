@@ -1,5 +1,5 @@
-animeTitle	b'KO Seiki Beast Sanjuushi'
-animeType	b'OVA'
+animeTitle	KO Seiki Beast Sanjuushi
+animeType	OVA
 animeNumEpisode	7
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.52
 animeUsers	679
 animeRank	
-animePopularity	
-animeDescription	"b""The series is set in the distant future in which the Earth is split in two. The southern hemisphere is placed in another dimension while the inhabitants of the northern hemisphere are able to morph into beast-like humanoids. Eventually the humans of the southern hemisphere, led by Uranus, attack the Beasts.\n\nThe Three Beasts, Wan Derbard (Wan Dabadadatta) of the Tiger Tribe, Bud Mint (Baado Mint) of the Bird Tribe, and Mei Mer (Mei Mah) of the Mermaid Tribe, are taken prisoner along with Mei Mer's companion Tuttle Millen (Mekka Mannen, also of the Mermaid tribe), but manage to escape thanks to a little girl named Yuuni Charm Password. Together they seek Gaia, which they believe to be a fabulous treasure, but they are pursued by Uranus's minions : V-Darn the vicious mage-knight, V-Sion the warrior woman and Akumako, V-Darn's sadistic imp-like partner.\n\n(Source: Wikipedia)"""
+animePopularity	8926
+animeDescription	"The series is set in the distant future in which the Earth is split in two. The southern hemisphere is placed in another dimension while the inhabitants of the northern hemisphere are able to morph into beast-like humanoids. Eventually the humans of the southern hemisphere, led by Uranus, attack the Beasts.
+
+The Three Beasts, Wan Derbard (Wan Dabadadatta) of the Tiger Tribe, Bud Mint (Baado Mint) of the Bird Tribe, and Mei Mer (Mei Mah) of the Mermaid Tribe, are taken prisoner along with Mei Mer's companion Tuttle Millen (Mekka Mannen, also of the Mermaid tribe), but manage to escape thanks to a little girl named Yuuni Charm Password. Together they seek Gaia, which they believe to be a fabulous treasure, but they are pursued by Uranus's minions : V-Darn the vicious mage-knight, V-Sion the warrior woman and Akumako, V-Darn's sadistic imp-like partner.
+
+(Source: Wikipedia)"
 animeRelated	[]
-animeCharacters	[b'Derbard, Wan', b'Yuuni Charm Password', b'Mah, Mei', b'Mint, Bud', b'Millen, Tuttle', b'V-Darn', b'V-Sion', b'C-Seagull', b'Akumako']
-animeVoices	[b'\nYamaguchi, Kappei\nJapanese\n', b'\nShishido, Rumi\nJapanese\n', b'\nKanai, Mika\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nShioya, Kouzou\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nOrikasa, Ai\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNegishi, Hiroshi\n\nDirector\n\n', b'\nIshihara, Tatsuya\n\nEpisode Director\n\n', b'\nAkahori, Satoru\n\nScript\n\n', b'\nItou, Takehiko\n\nCharacter Design\n\n']
+animeCharacters	['Derbard, Wan', 'Yuuni Charm Password', 'Mah, Mei', 'Mint, Bud', 'Millen, Tuttle', 'V-Darn', 'V-Sion', 'C-Seagull', 'Akumako']
+animeVoices	['Yamaguchi, Kappei', 'Shishido, Rumi', 'Kanai, Mika', 'Koyasu, Takehito', 'Shioya, Kouzou', 'Matsumoto, Yasunori', 'Mizutani, Yuuko', 'Orikasa, Ai', 'Matsui, Naoko']
+animeStaff	[['Negishi, Hiroshi', 'Director'], ['Ishihara, Tatsuya', 'Episode Director'], ['Akahori, Satoru', 'Script'], ['Itou, Takehiko', 'Character Design']]

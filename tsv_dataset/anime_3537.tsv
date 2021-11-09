@@ -1,5 +1,5 @@
-animeTitle	b'Nobunaga no Shinobi'
-animeType	b'TV'
+animeTitle	Nobunaga no Shinobi
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.06
 animeUsers	7897
 animeRank	
-animePopularity	
-animeDescription	"b""Rescued from nearly drowning in a river, a young Chidori yearns to pay back her savior's kindness. Though her cute and innocent appearance might not show it, she is actually a highly skilled ninja, so years later, Chidori and her friend Sukezou come to serve under the man who saved her\xe2\x80\x94the ambitious warlord, Nobunaga Oda.\n\nAs Nobunaga fights off invading forces and sets his sights upon neighboring lands, Chidori is assigned vital tasks to assure victory, such as gathering information or assassinating key figures. Between taking on these important missions and dealing with the colorful cast of Nobunaga's family and servants, the young ninja is always ready to do her best to lead her master toward greatness.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Nobunaga no Shinobi', b'Nobunaga no Shinobi: Nobunaga to Minarai Shinobi', b'Nobunaga no Shinobi: Ise Kanegasaki-hen']
-animeCharacters	[b'Chidori', b'Oda, Nobunaga', b'Takenaka, Hanbee', b'Kichou', b'Nene', b'Kinoshita, Hideyoshi', b'Sukezou', b'Endou, Naotsune', b'Azai, Hisamasa', b'Azai, Nagamasa']
-animeVoices	[b'\nMinase, Inori\nJapanese\n', b'\nHatano, Wataru\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nTakahashi, Chiaki\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nMurase, Ayumu\nJapanese\n', b'\nYanada, Kiyoyuki\nJapanese\n', b'\nMatsuyama, Takashi\nJapanese\n', b'\nTakumi, Yasuaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDaichi, Akitarou\n\nDirector\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nValshe\n\nTheme Song Performance\n\n', b'\nRenka\n\nTheme Song Lyrics, Theme Song Performance\n\n']
+animePopularity	3984
+animeDescription	"Rescued from nearly drowning in a river, a young Chidori yearns to pay back her savior's kindness. Though her cute and innocent appearance might not show it, she is actually a highly skilled ninja, so years later, Chidori and her friend Sukezou come to serve under the man who saved her—the ambitious warlord, Nobunaga Oda.
+
+As Nobunaga fights off invading forces and sets his sights upon neighboring lands, Chidori is assigned vital tasks to assure victory, such as gathering information or assassinating key figures. Between taking on these important missions and dealing with the colorful cast of Nobunaga's family and servants, the young ninja is always ready to do her best to lead her master toward greatness.
+
+[Written by MAL Rewrite]"
+animeRelated	['Nobunaga no Shinobi', 'Nobunaga no Shinobi: Nobunaga to Minarai Shinobi', 'Nobunaga no Shinobi: Ise Kanegasaki-hen']
+animeCharacters	['Chidori', 'Oda, Nobunaga', 'Takenaka, Hanbee', 'Kichou', 'Nene', 'Kinoshita, Hideyoshi', 'Sukezou', 'Endou, Naotsune', 'Azai, Hisamasa', 'Azai, Nagamasa']
+animeVoices	['Minase, Inori', 'Hatano, Wataru', 'Hirakawa, Daisuke', 'Takahashi, Chiaki', 'Kugimiya, Rie', 'Yamaguchi, Kappei', 'Murase, Ayumu', 'Yanada, Kiyoyuki', 'Matsuyama, Takashi', 'Takumi, Yasuaki']
+animeStaff	[['Daichi, Akitarou', 'Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Valshe', 'Theme Song Performance'], ['Renka', 'Theme Song Lyrics, Theme Song Performance']]

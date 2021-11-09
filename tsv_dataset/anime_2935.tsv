@@ -1,5 +1,5 @@
-animeTitle	b'Flag'
-animeType	b'ONA'
+animeTitle	Flag
+animeType	ONA
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.19
 animeUsers	3667
 animeRank	
-animePopularity	
-animeDescription	b'In 20xx, a civil war broke out in a small country in Asia in spite of the dispatch of UN forces. But a picture taken by accident in the battlefield accelerates the peace process: a photograph of a flag, which became the symbol of peace. However, just before the peace agreement is finalized, the flag is stolen by an armed extremist group in order to obstruct the truce. To rescue the flag, the UN sends the Special Development Command (SDC, which is armed with the High Agility Versatile Weapon Carrier (HAVWC)), along with an embedded photojournalist to record their activities. That photojournalist is Saeko Shirasu\xe2\x80\x94the young camerawoman who took the picture of the flag.\n\n (Source: ANN)'
-animeRelated	"[b""Flag Director's Edition: Issenman no Kufura no Kiroku""]"
-animeCharacters	[b'Shirasu, Saeko', b'Akagi, Keiichi ', b'Eversalt, Chris', b'Nikkanen, Jan', b'Paint Engineer ', b'Chief', b'Kufura ', b'Hacker', b'Lisa', b'Captain']
-animeVoices	[b'\nTanaka, Rena\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nHidaka, Narumi\nJapanese\n', b'\nNomura, Kenji\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Ryousuke\n\nDirector, Script, Original Creator\n\n', b'\nTerada, Kazuo\n\nDirector, Script\n\n', b'\nMomose, Keiichi\n\nSound Director\n\n', b'\nNozaki, Tooru\n\nScript, Series Composition\n\n']
+animePopularity	4174
+animeDescription	"In 20xx, a civil war broke out in a small country in Asia in spite of the dispatch of UN forces. But a picture taken by accident in the battlefield accelerates the peace process: a photograph of a flag, which became the symbol of peace. However, just before the peace agreement is finalized, the flag is stolen by an armed extremist group in order to obstruct the truce. To rescue the flag, the UN sends the Special Development Command (SDC, which is armed with the High Agility Versatile Weapon Carrier (HAVWC)), along with an embedded photojournalist to record their activities. That photojournalist is Saeko Shirasu—the young camerawoman who took the picture of the flag.
+
+ (Source: ANN)"
+animeRelated	"[""Flag Director's Edition: Issenman no Kufura no Kiroku""]"
+animeCharacters	['Shirasu, Saeko', 'Akagi, Keiichi ', 'Eversalt, Chris', 'Nikkanen, Jan', 'Paint Engineer ', 'Chief', 'Kufura ', 'Hacker', 'Lisa', 'Captain']
+animeVoices	['Tanaka, Rena', 'Ishizuka, Unshou', 'Hidaka, Narumi', 'Nomura, Kenji', 'Orikasa, Fumiko', 'Kobayashi, Sanae']
+animeStaff	[['Takahashi, Ryousuke', 'Director, Script, Original Creator'], ['Terada, Kazuo', 'Director, Script'], ['Momose, Keiichi', 'Sound Director'], ['Nozaki, Tooru', 'Script, Series Composition']]

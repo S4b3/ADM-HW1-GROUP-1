@@ -1,5 +1,5 @@
-animeTitle	b'Project A-Ko 3: Cinderella Rhapsody'
-animeType	b'OVA'
+animeTitle	Project A-Ko 3: Cinderella Rhapsody
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.36
 animeUsers	2280
 animeRank	
-animePopularity	
-animeDescription	"b""In the middle of another break from school, A-Ko dreams of finding the perfect boyfriend. Because of this, she and C-Ko get into an argument that leads to C-Ko running away and nearly getting hit by a motorcyclist named Kei. While working part-time at a fast-food restaurant to raise money for a party dress, A-Ko meets Kei and immediately falls in love with him. B-Ko happens to like him as well; however, both A-Ko and B-Ko are unaware that C-Ko is the apple of Kei's eyes. \n\n(Source: ANN)"""
-animeRelated	[b'Project A-Ko 2: Daitokuji Zaibatsu no Inbou', b'Project A-Ko 4: Final']
-animeCharacters	[b'Magami, Eiko', b'Daitokuji, Biko', b'Kotobuki, Shiiko', b'Kei', b'Mari', b'Asa', b'D', b'Captain Napolipolita', b'Ume', b'Ayumi, Miss']
-animeVoices	[b'\nItou, Miki\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nHibino, Akari\nJapanese\n', b'\nIkeda, Shuuichi\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nMukaidono, Asami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMoriyama, Yuuji\n\nDirector, Character Design\n\n', b'\nMasuo, Shouichi\n\nEpisode Director, Key Animation\n\n', b'\nBaBe\n\nTheme Song Performance\n\n', b'\nNakazaki, Hideya\n\nTheme Song Composition\n\n']
+animePopularity	7252
+animeDescription	"In the middle of another break from school, A-Ko dreams of finding the perfect boyfriend. Because of this, she and C-Ko get into an argument that leads to C-Ko running away and nearly getting hit by a motorcyclist named Kei. While working part-time at a fast-food restaurant to raise money for a party dress, A-Ko meets Kei and immediately falls in love with him. B-Ko happens to like him as well; however, both A-Ko and B-Ko are unaware that C-Ko is the apple of Kei's eyes. 
+
+(Source: ANN)"
+animeRelated	['Project A-Ko 2: Daitokuji Zaibatsu no Inbou', 'Project A-Ko 4: Final']
+animeCharacters	['Magami, Eiko', 'Daitokuji, Biko', 'Kotobuki, Shiiko', 'Kei', 'Mari', 'Asa', 'D', 'Captain Napolipolita', 'Ume', 'Ayumi, Miss']
+animeVoices	['Itou, Miki', 'Shinohara, Emi', 'Tomizawa, Michie', 'Genda, Tesshou', 'Gouri, Daisuke', 'Hibino, Akari', 'Ikeda, Shuuichi', 'Hayashibara, Megumi', 'Mukaidono, Asami']
+animeStaff	[['Moriyama, Yuuji', 'Director, Character Design'], ['Masuo, Shouichi', 'Episode Director, Key Animation'], ['BaBe', 'Theme Song Performance'], ['Nakazaki, Hideya', 'Theme Song Composition']]

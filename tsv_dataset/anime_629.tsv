@@ -1,5 +1,5 @@
-animeTitle	b'SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi'
-animeType	b'OVA'
+animeTitle	SKET Dance: Imouto no Nayami ni Nayamu Ani ni Nayamu Imouto to Sono Nakama-tachi
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.94
 animeUsers	10265
 animeRank	
-animePopularity	
-animeDescription	b'An OVA of SKET Dance bundled with the 29th volume of the manga, covering chapters 198, 199, and 200.\n\nThis is a conclusion of some of the events shown in the last episode of the anime series.'
-animeRelated	[b'SKET Dance']
-animeCharacters	[b'Fujisaki, Yuusuke', b'Usui, Kazuyoshi', b'Onizuka, Hime', b'Tsubaki, Sasuke', b'Agata, Soujirou', b'Agata, Saaya', b'Asahina, Kikuno', b'Katou, Kiri', b'Shinba, Michiru', b'Unyuu, Mimori']
-animeVoices	[b'\nYoshino, Hiroyuki\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nTakamoto, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawaguchi, Keiichirou\n\nDirector\n\n', b'\nThe Sketchbook\n\nTheme Song Performance\n\n', b'\nShinohara, Kenta\n\nOriginal Creator, Original Character Design\n\n', b'\nImaizumi, Yuuichi\n\nSound Manager\n\n']
+animePopularity	4000
+animeDescription	"An OVA of SKET Dance bundled with the 29th volume of the manga, covering chapters 198, 199, and 200.
+
+This is a conclusion of some of the events shown in the last episode of the anime series."
+animeRelated	['SKET Dance']
+animeCharacters	['Fujisaki, Yuusuke', 'Usui, Kazuyoshi', 'Onizuka, Hime', 'Tsubaki, Sasuke', 'Agata, Soujirou', 'Agata, Saaya', 'Asahina, Kikuno', 'Katou, Kiri', 'Shinba, Michiru', 'Unyuu, Mimori']
+animeVoices	['Yoshino, Hiroyuki', 'Sugita, Tomokazu', 'Shiraishi, Ryouko', 'Shimono, Hiro', 'Seki, Tomokazu', 'Hanazawa, Kana', 'Kobayashi, Yuu', 'Oosaka, Ryouta', 'Nojima, Kenji', 'Takamoto, Megumi']
+animeStaff	[['Kawaguchi, Keiichirou', 'Director'], ['The Sketchbook', 'Theme Song Performance'], ['Shinohara, Kenta', 'Original Creator, Original Character Design'], ['Imaizumi, Yuuichi', 'Sound Manager']]

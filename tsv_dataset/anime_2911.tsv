@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam 00: Tenshitachi no Kiseki'
-animeType	b'Special'
+animeTitle	Mobile Suit Gundam 00: Tenshitachi no Kiseki
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.19
 animeUsers	2180
 animeRank	
-animePopularity	
-animeDescription	b'A recap of the first season, from Setsuna point of view.'
-animeRelated	[b'Mobile Suit Gundam 00']
-animeCharacters	[b'Seiei, Setsuna F.', b'Stratos, Lockon', b'Erde, Tieria', b'Haptism, Allelujah', b'Aker, Graham', b'Haro', b'Al-Saachez, Ali', b'Ismail, Marina', b'Peries, Soma', b'Smirnov, Sergei']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nTsunematsu, Ayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Hajime\n\nProducer\n\n']
+animePopularity	6201
+animeDescription	A recap of the first season, from Setsuna point of view.
+animeRelated	['Mobile Suit Gundam 00']
+animeCharacters	['Seiei, Setsuna F.', 'Stratos, Lockon', 'Erde, Tieria', 'Haptism, Allelujah', 'Aker, Graham', 'Haro', 'Al-Saachez, Ali', 'Ismail, Marina', 'Peries, Soma', 'Smirnov, Sergei']
+animeVoices	['Miyano, Mamoru', 'Miki, Shinichiro', 'Kamiya, Hiroshi', 'Yoshino, Hiroyuki', 'Nakamura, Yuuichi', 'Fujiwara, Keiji', 'Tsunematsu, Ayumi']
+animeStaff	[['Yatate, Hajime', 'Producer']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ginga Tetsudou 999 for Planetarium'
-animeType	b'Movie'
+animeTitle	Ginga Tetsudou 999 for Planetarium
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.4
 animeUsers	139
 animeRank	
-animePopularity	
-animeDescription	b'The movie was screened in several Planetariums in Japan and followed the adventures of Tetsuro, Maetel and a bunch of new characters like Nanami Yuma.'
-animeRelated	[b'Ginga Tetsudou 999']
-animeCharacters	[b'Maetel', b'Hoshino, Tetsurou', b'The Conductor']
-animeVoices	[b'\nIkeda, Masako\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsumoto, Leiji\n\nOriginal Creator\n\n']
+animePopularity	11396
+animeDescription	The movie was screened in several Planetariums in Japan and followed the adventures of Tetsuro, Maetel and a bunch of new characters like Nanami Yuma.
+animeRelated	['Ginga Tetsudou 999']
+animeCharacters	['Maetel', 'Hoshino, Tetsurou', 'The Conductor']
+animeVoices	['Ikeda, Masako', 'Nozawa, Masako', 'Kimotsuki, Kaneta']
+animeStaff	[['Matsumoto, Leiji', 'Original Creator']]

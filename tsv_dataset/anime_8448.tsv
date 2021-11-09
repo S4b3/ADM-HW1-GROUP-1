@@ -1,5 +1,5 @@
-animeTitle	b'Hangyakusei Million Arthur'
-animeType	b'TV'
+animeTitle	Hangyakusei Million Arthur
+animeType	TV
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.05
 animeUsers	5461
 animeRank	
-animePopularity	
-animeDescription	b'Tales of old speak of the legends of Excalibur, a sacred sword. The sword is wielded by those who are worthy of its power, bestowing them extraordinary strength and granting them the title of Arthur. However, a divine miracle results in the creation of multiple Excaliburs, thus distorting the fabric of time.\n\nAiming to revert time to its original course, a group of six Arthurs composed of Danchou, Renkin, Kakka, Yamaneko, Tekken, and Rurou are sent back in time when the abnormal Excaliburs were spawned. They are assigned with one sole task: to destroy the Excaliburs of the past\xe2\x80\x94all of which total up to one million.\n\n[Written by MAL Rewrite]\n'
-animeRelated	[b'Jakusansei Million Arthur', b'Koukyousei Million Arthur', b'Hangyakusei Million Arthur 2nd Season', b'Hangyakusei Million Arthur PV']
-animeCharacters	[b'Danchou Arthur', b'Kakka Arthur', b'Renkin Arthur', b'Tekken Arthur', b'Yamaneko Arthur', b'Bodach', b'Rurou Arthur', b'Titania', b'Coupy', b'Bethor']
-animeVoices	[b'\nAmamiya, Sora\nJapanese\n', b'\nHanae, Natsuki\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nTakahashi, Rie\nJapanese\n', b'\nTouyama, Nao\nJapanese\n', b'\nHidaka, Rina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Youhei\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nTamai, Tsuyoshi\n\nScript, Series Composition\n\n', b'\nMinakami, Seishi\n\nScript\n\n']
+animePopularity	3290
+animeDescription	"Tales of old speak of the legends of Excalibur, a sacred sword. The sword is wielded by those who are worthy of its power, bestowing them extraordinary strength and granting them the title of Arthur. However, a divine miracle results in the creation of multiple Excaliburs, thus distorting the fabric of time.
+
+Aiming to revert time to its original course, a group of six Arthurs composed of Danchou, Renkin, Kakka, Yamaneko, Tekken, and Rurou are sent back in time when the abnormal Excaliburs were spawned. They are assigned with one sole task: to destroy the Excaliburs of the past—all of which total up to one million.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Jakusansei Million Arthur', 'Koukyousei Million Arthur', 'Hangyakusei Million Arthur 2nd Season', 'Hangyakusei Million Arthur PV']
+animeCharacters	['Danchou Arthur', 'Kakka Arthur', 'Renkin Arthur', 'Tekken Arthur', 'Yamaneko Arthur', 'Bodach', 'Rurou Arthur', 'Titania', 'Coupy', 'Bethor']
+animeVoices	['Amamiya, Sora', 'Hanae, Natsuki', 'Minase, Inori', 'Kakihara, Tetsuya', 'Taketatsu, Ayana', 'Mimori, Suzuko', 'Nakamura, Yuuichi', 'Takahashi, Rie', 'Touyama, Nao', 'Hidaka, Rina']
+animeStaff	[['Suzuki, Youhei', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Tamai, Tsuyoshi', 'Script, Series Composition'], ['Minakami, Seishi', 'Script']]

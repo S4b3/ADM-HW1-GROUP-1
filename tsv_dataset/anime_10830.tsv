@@ -1,5 +1,5 @@
-animeTitle	b'Tomoe ga Yuku!'
-animeType	b'OVA'
+animeTitle	Tomoe ga Yuku!
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.34
 animeUsers	300
 animeRank	
-animePopularity	
-animeDescription	"b""The title character of Tomoe ga Yuku! (Tomoe Will Go!) is gutsy enough to roller skate down freeways for thrills. After losing a friend in a roller skating accident, Tomoe joins a stunt group called Green Ship. Although still mourning her friend's death, Tomoe has no reservations about embracing a relationship with the group's leader, Kazusa. Soon she discovers Green Ship is a front for an assassin training camp. She must flee her new life and love and rekindle her fiery spirit in order to fight against the organization which wants her dead.\n\n(Source: Animerica Extra December 2001)"""
-animeRelated	[b'There Goes Tomoe!']
-animeCharacters	[b'Oujima, Tomoe', b'Toujou, Iori', b'Himuro, Kazusa', b'Kai', b'Oujima, Shizuka', b'Aoyagi, Tsukasa', b'Asatori, Kurou', b'Mrs. Toujou']
-animeVoices	[b'\nYamamoto, Yuriko\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nHironaka, Masashi\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nKataishi, Chiharu\nJapanese\n', b'\nShimada, Bin\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiyama, Takaaki\n\nDirector, Sound Director\n\n', b'\nTamano, Harumi\n\nEpisode Director\n\n', b'\nMink\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nTamura, Yumi\n\nOriginal Creator\n\n']
+animePopularity	10880
+animeDescription	"The title character of Tomoe ga Yuku! (Tomoe Will Go!) is gutsy enough to roller skate down freeways for thrills. After losing a friend in a roller skating accident, Tomoe joins a stunt group called Green Ship. Although still mourning her friend's death, Tomoe has no reservations about embracing a relationship with the group's leader, Kazusa. Soon she discovers Green Ship is a front for an assassin training camp. She must flee her new life and love and rekindle her fiery spirit in order to fight against the organization which wants her dead.
+
+(Source: Animerica Extra December 2001)"
+animeRelated	['There Goes Tomoe!']
+animeCharacters	['Oujima, Tomoe', 'Toujou, Iori', 'Himuro, Kazusa', 'Kai', 'Oujima, Shizuka', 'Aoyagi, Tsukasa', 'Asatori, Kurou', 'Mrs. Toujou']
+animeVoices	['Yamamoto, Yuriko', 'Inoue, Kazuhiko', 'Hironaka, Masashi', 'Yara, Yuusaku', 'Tsuru, Hiromi', 'Kataishi, Chiharu', 'Shimada, Bin', 'Fujita, Toshiko']
+animeStaff	[['Ishiyama, Takaaki', 'Director, Sound Director'], ['Tamano, Harumi', 'Episode Director'], ['Mink', 'Theme Song Performance, Inserted Song Performance'], ['Tamura, Yumi', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ashita no Joe 2 (Movie)'
-animeType	b'Movie'
+animeTitle	Ashita no Joe 2 (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.24
 animeUsers	1242
 animeRank	
-animePopularity	
-animeDescription	"b""It has been six months since the tragic accident in Joe and Rikiishi's fight. Joe believes he has overcomed Rikiishi's death and decides to make a comeback. Joe does make a successful comeback by scoring 5 KO's by body blows. Joe is then given a shot at the national title as a means by the boxing commission to put him down. The champion, Tiger Ozaki makes use of Joe's habits and ends up making Joe's corner throw in the towel. Joe is afraid to throw punches at the face because of what happened to Rikiishi. Youko, Joe's love interest and the owner of the gym where Rikiishi trained at recruits a world ranked boxer from Venezuela, Carlos Rivera, to get Joe back on his feet and pursue his boxing career to the regional and world ranks. \n\n(Source: ANN)"""
-animeRelated	[b'Ashita no Joe 2']
-animeCharacters	[b'Yabuki, Joe', b'Tange, Danpei', b'Rikiishi, Tooru', b'Rivera, Carlos', b'Shiraki, Yoko', b'Mendoza, Jos\xc3\xa9', b'Sachi', b'Nishi, Kanichi', b'Mendoza, Chelsy', b'Kanagushi, Wolf']
-animeVoices	[b'\nAoi, Teruhiko\nJapanese\n', b'\nFujioka, Juukei\nJapanese\n', b'\nYamanaka, Joe\nJapanese\n', b'\nDan, Fumi\nJapanese\n', b'\nShiraishi, Fuyumi\nJapanese\n', b'\nShirou, Kishibe\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Osamu\n\nDirector, Script\n\n', b'\nNakamura, Ryuutarou\n\nKey Animation\n\n', b'\nMorimoto, Kouji\n\nKey Animation\n\n', b'\nKajiwara, Ikki\n\nOriginal Creator\n\n']
+animePopularity	7710
+animeDescription	"It has been six months since the tragic accident in Joe and Rikiishi's fight. Joe believes he has overcomed Rikiishi's death and decides to make a comeback. Joe does make a successful comeback by scoring 5 KO's by body blows. Joe is then given a shot at the national title as a means by the boxing commission to put him down. The champion, Tiger Ozaki makes use of Joe's habits and ends up making Joe's corner throw in the towel. Joe is afraid to throw punches at the face because of what happened to Rikiishi. Youko, Joe's love interest and the owner of the gym where Rikiishi trained at recruits a world ranked boxer from Venezuela, Carlos Rivera, to get Joe back on his feet and pursue his boxing career to the regional and world ranks. 
+
+(Source: ANN)"
+animeRelated	['Ashita no Joe 2']
+animeCharacters	['Yabuki, Joe', 'Tange, Danpei', 'Rikiishi, Tooru', 'Rivera, Carlos', 'Shiraki, Yoko', 'Mendoza, José', 'Sachi', 'Nishi, Kanichi', 'Mendoza, Chelsy', 'Kanagushi, Wolf']
+animeVoices	['Aoi, Teruhiko', 'Fujioka, Juukei', 'Yamanaka, Joe', 'Dan, Fumi', 'Shiraishi, Fuyumi', 'Shirou, Kishibe']
+animeStaff	[['Dezaki, Osamu', 'Director, Script'], ['Nakamura, Ryuutarou', 'Key Animation'], ['Morimoto, Kouji', 'Key Animation'], ['Kajiwara, Ikki', 'Original Creator']]

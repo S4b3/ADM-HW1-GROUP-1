@@ -1,5 +1,5 @@
-animeTitle	b'One Room'
-animeType	b'TV'
+animeTitle	One Room
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.56
 animeUsers	38981
 animeRank	
-animePopularity	
-animeDescription	b'Having just moved into a new apartment building, Yui Hanasaka makes a customary visit to greet her neighbor. When she learns that he is an upperclassman at the university she aspires to attend, she asks for his help to pass her entrance exams. Meanwhile, Natsuki Momohara decides to visit her older brother, who lives alone in an apartment in Tokyo. Elsewhere, aspiring singer Moka Aoshima reunites with her childhood friend, who is a hopeful novelist. \n\nThree stories, although seemingly unrelated, contain the same essence: strings of fate will bind together those who share the same destiny, and one needs to look no further than a single apartment room.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Room Mate', b'One Room Special', b'One Room Second Season', b'One Room Second Season: Hanasaka Yui no Prologue']
-animeCharacters	[b'Hanasaka, Yui', b'Momohara, Natsuki', b'Aoshima, Moka']
-animeVoices	[b'\nIchimichi, Mao\nJapanese\n', b'\nMurakawa, Rie\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimoi, Aose\n\nScript\n\n', b'\nMimori, Suzuko\n\nTheme Song Performance\n\n', b'\nIchimichi, Mao\n\nTheme Song Performance\n\n', b'\nMurakawa, Rie\n\nTheme Song Performance\n\n']
+animePopularity	1556
+animeDescription	"Having just moved into a new apartment building, Yui Hanasaka makes a customary visit to greet her neighbor. When she learns that he is an upperclassman at the university she aspires to attend, she asks for his help to pass her entrance exams. Meanwhile, Natsuki Momohara decides to visit her older brother, who lives alone in an apartment in Tokyo. Elsewhere, aspiring singer Moka Aoshima reunites with her childhood friend, who is a hopeful novelist. 
+
+Three stories, although seemingly unrelated, contain the same essence: strings of fate will bind together those who share the same destiny, and one needs to look no further than a single apartment room.
+
+[Written by MAL Rewrite]"
+animeRelated	['Room Mate', 'One Room Special', 'One Room Second Season', 'One Room Second Season: Hanasaka Yui no Prologue']
+animeCharacters	['Hanasaka, Yui', 'Momohara, Natsuki', 'Aoshima, Moka']
+animeVoices	['Ichimichi, Mao', 'Murakawa, Rie', 'Mimori, Suzuko']
+animeStaff	[['Shimoi, Aose', 'Script'], ['Mimori, Suzuko', 'Theme Song Performance'], ['Ichimichi, Mao', 'Theme Song Performance'], ['Murakawa, Rie', 'Theme Song Performance']]

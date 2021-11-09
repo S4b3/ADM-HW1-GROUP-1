@@ -1,5 +1,5 @@
-animeTitle	b'Planetarian: Snow Globe'
-animeType	b'OVA'
+animeTitle	Planetarian: Snow Globe
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.23
 animeUsers	1523
 animeRank	
-animePopularity	
-animeDescription	"b'The new OVA will feature the prequel short story ""Snow Globe,"" which debuted as part of a light novel volume that bundled with a limited-edition version of the original PC game.'"
-animeRelated	[b'Planetarian: Chiisana Hoshi no Yume']
-animeCharacters	[b'Hoshino, Yumemi']
+animePopularity	5576
+animeDescription	"The new OVA will feature the prequel short story ""Snow Globe,"" which debuted as part of a light novel volume that bundled with a limited-edition version of the original PC game."
+animeRelated	['Planetarian: Chiisana Hoshi no Yume']
+animeCharacters	['Hoshino, Yumemi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTamamura, Jin\n\nDirector\n\n', b'\nYamaguchi, Takayuki\n\nSound Director\n\n', b'\nYasukawa, Shougo\n\nScript, Series Composition\n\n', b'\nKey\n\nOriginal Creator\n\n']
+animeStaff	[['Tamamura, Jin', 'Director'], ['Yamaguchi, Takayuki', 'Sound Director'], ['Yasukawa, Shougo', 'Script, Series Composition'], ['Key', 'Original Creator']]

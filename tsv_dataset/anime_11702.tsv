@@ -1,5 +1,5 @@
-animeTitle	b'Alice in Cyberland'
-animeType	b'Special'
+animeTitle	Alice in Cyberland
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	4.74
 animeUsers	656
 animeRank	
-animePopularity	
-animeDescription	b'When criminal Cybernackists appear in the Cyberland, the vast 21st century computer networks, Alice, Miss Catnick, Leina, and Julie are drawn in by the mysterious Lucia to become a fighting force of young girl soldiers in the Cyberland to combat the criminal element. '
+animePopularity	9176
+animeDescription	When criminal Cybernackists appear in the Cyberland, the vast 21st century computer networks, Alice, Miss Catnick, Leina, and Julie are drawn in by the mysterious Lucia to become a fighting force of young girl soldiers in the Cyberland to combat the criminal element. 
 animeRelated	[]
-animeCharacters	[b'Otori, Rena', b'Yagami, Juri', b'Minazuki, Alice']
-animeVoices	[b'\nAraki, Kae\nJapanese\n', b'\nMiyamura, Yuko\nJapanese\n', b'\nAsada, Yoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshidou, Hiroyuki\n\nEpisode Director\n\n', b'\nKonaka, Chiaki\n\nScript\n\n', b'\nMoriyama, Daisuke\n\nOriginal Character Design\n\n', b'\nShimazu, Ikuo\n\nAnimation Director\n\n']
+animeCharacters	['Otori, Rena', 'Yagami, Juri', 'Minazuki, Alice']
+animeVoices	['Araki, Kae', 'Miyamura, Yuko', 'Asada, Yoko']
+animeStaff	[['Ishidou, Hiroyuki', 'Episode Director'], ['Konaka, Chiaki', 'Script'], ['Moriyama, Daisuke', 'Original Character Design'], ['Shimazu, Ikuo', 'Animation Director']]

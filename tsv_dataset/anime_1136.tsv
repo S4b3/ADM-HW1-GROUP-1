@@ -1,5 +1,5 @@
-animeTitle	b'Detective Conan Movie 21: The Crimson Love Letter'
-animeType	b'Movie'
+animeTitle	Detective Conan Movie 21: The Crimson Love Letter
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,17 @@ animeNumMembers
 animeScore	7.67
 animeUsers	12750
 animeRank	
-animePopularity	
-animeDescription	"b'A bombing case at Nichiuri TV in autumn. The Satsuki Cup, which crowns the winner of Japan\'s Hyakunin Isshu, is currently being filmed inside the facility. The incident results in a big commotion and, while the building is burning to ashes, the only people left inside are Heiji and Kazuha. They get rescued just in time by Conan, who rushes to the scene. Both the identity and purposes of the bomber are unknown.\n\nWhile confusion takes over due to the explosion, Conan meets a mysterious beautiful girl who claims she is ""Heiji\'s fianc\xc3\xa9e"". Her name is Momiji Ooka and she is the Kyoto High School champion of the Karuta game. As fate would have it, Kazuha is going to face Momiji in the Hyakunin Isshu, so she begins to train with the help of Heiji\'s mother, Shizuka, who is a skilled Karuta player.\n\nAt the same time, in a Japanese house in Arashiyama, Kyoto\'s outskirts, the reigning Satsuki Cup champion is murdered. Pictures of the crime scene reveal Momji\'s presence. Additionally, several Karuta cards were spread around the victim.\n\nConan and Heiji, along with the Osaka and Kyoto police departments, begin their investigation on the Satsuki Cup and the related murder case. As the inquiry goes on, they come across a secret connected with the Hyakunin Isshu. \n\n(Source: Detective Conan Wiki)'"
-animeRelated	[b'Meitantei Conan: Karakurenai no Love Letter', b'Detective Conan']
-animeCharacters	[b'Edogawa, Conan', b'Hattori, Heiji', b'Mouri, Ran', b'Mouri, Kogorou', b'Tooyama, Kazuha', b'Haibara, Ai', b'Agasa, Hiroshi', b'Suzuki, Sonoko', b'Yoshida, Ayumi', b'Tsuburaya, Mitsuhiko']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nMiyamura, Yuko\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n', b'\nIwai, Yukiko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShizuno, Koubun\n\nDirector\n\n', b'\nUrakami, Keiko\n\nSound Director\n\n', b'\nKanai, Jirou\n\nStoryboard, Key Animation, Animation Director\n\n', b'\nKuraki, Mai\n\nTheme Song Performance\n\n']
+animePopularity	3662
+animeDescription	"A bombing case at Nichiuri TV in autumn. The Satsuki Cup, which crowns the winner of Japan's Hyakunin Isshu, is currently being filmed inside the facility. The incident results in a big commotion and, while the building is burning to ashes, the only people left inside are Heiji and Kazuha. They get rescued just in time by Conan, who rushes to the scene. Both the identity and purposes of the bomber are unknown.
+
+While confusion takes over due to the explosion, Conan meets a mysterious beautiful girl who claims she is ""Heiji's fiancée"". Her name is Momiji Ooka and she is the Kyoto High School champion of the Karuta game. As fate would have it, Kazuha is going to face Momiji in the Hyakunin Isshu, so she begins to train with the help of Heiji's mother, Shizuka, who is a skilled Karuta player.
+
+At the same time, in a Japanese house in Arashiyama, Kyoto's outskirts, the reigning Satsuki Cup champion is murdered. Pictures of the crime scene reveal Momji's presence. Additionally, several Karuta cards were spread around the victim.
+
+Conan and Heiji, along with the Osaka and Kyoto police departments, begin their investigation on the Satsuki Cup and the related murder case. As the inquiry goes on, they come across a secret connected with the Hyakunin Isshu. 
+
+(Source: Detective Conan Wiki)"
+animeRelated	['Meitantei Conan: Karakurenai no Love Letter', 'Detective Conan']
+animeCharacters	['Edogawa, Conan', 'Hattori, Heiji', 'Mouri, Ran', 'Mouri, Kogorou', 'Tooyama, Kazuha', 'Haibara, Ai', 'Agasa, Hiroshi', 'Suzuki, Sonoko', 'Yoshida, Ayumi', 'Tsuburaya, Mitsuhiko']
+animeVoices	['Takayama, Minami', 'Horikawa, Ryo', 'Yamazaki, Wakana', 'Koyama, Rikiya', 'Miyamura, Yuko', 'Hayashibara, Megumi', 'Ogata, Kenichi', 'Matsui, Naoko', 'Iwai, Yukiko', 'Ootani, Ikue']
+animeStaff	[['Shizuno, Koubun', 'Director'], ['Urakami, Keiko', 'Sound Director'], ['Kanai, Jirou', 'Storyboard, Key Animation, Animation Director'], ['Kuraki, Mai', 'Theme Song Performance']]

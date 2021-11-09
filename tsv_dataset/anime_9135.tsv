@@ -1,5 +1,5 @@
-animeTitle	b'Barbapapa (1977)'
-animeType	b'TV'
+animeTitle	Barbapapa (1977)
+animeType	TV
 animeNumEpisode	48
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.87
 animeUsers	248
 animeRank	
-animePopularity	
-animeDescription	"b""Based on a series of children's books written in the 1970s by Annette Tison and Talus Taylor.\n\nAdding to the first serie from 1975, the second serie brings 48 new episodes.\n\n(Source: AniDB)"""
-animeRelated	[b'Barbapapa', b'Barbapapa Sekai wo Mawaru']
-animeCharacters	[b'Barbapapa', b'Barbabelle', b'Barbamama']
+animePopularity	12115
+animeDescription	"Based on a series of children's books written in the 1970s by Annette Tison and Talus Taylor.
+
+Adding to the first serie from 1975, the second serie brings 48 new episodes.
+
+(Source: AniDB)"
+animeRelated	['Barbapapa', 'Barbapapa Sekai wo Mawaru']
+animeCharacters	['Barbapapa', 'Barbabelle', 'Barbamama']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamada, Katsuhisa\n\nDirector\n\n', b'\nTsuji, Masaki\n\nScript\n\n', b'\nGruber, Franz Xaver\n\nTheme Song Composition\n\n', b'\nSuginami Jidou Gasshoudan\n\nInserted Song Performance\n\n']
+animeStaff	[['Yamada, Katsuhisa', 'Director'], ['Tsuji, Masaki', 'Script'], ['Gruber, Franz Xaver', 'Theme Song Composition'], ['Suginami Jidou Gasshoudan', 'Inserted Song Performance']]

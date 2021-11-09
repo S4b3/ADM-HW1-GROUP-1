@@ -1,5 +1,5 @@
-animeTitle	b'Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai'
-animeType	b'Special'
+animeTitle	Natsume Yuujinchou: Nyanko-sensei to Hajimete no Otsukai
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	7.66
 animeUsers	14864
 animeRank	
-animePopularity	
-animeDescription	"b""A new original animated story included on a bonus mail-order DVD eligible for readers of LaLa's August, October and September 2013 issues.  It was later aired as a special in the broadcast schedule of Natsume Yuujinchou Go on the 16.November 2016.\n"""
-animeRelated	[b'Natsume Yuujinchou Shi', b'Natsume Yuujinchou Go']
-animeCharacters	[b'Natsume, Takashi', b'Madara', b'Tanuma, Kaname', b'Natori, Shuuichi', b'Taki, Tooru', b'Hinoe', b'Fujiwara, Touko', b'Hiiragi', b'Nishimura, Satoru', b'Sasada, Jun']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nHorie, Kazuma\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nItou, Miki\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomori, Takahiro\n\nDirector\n\n', b'\nMidorikawa, Yuki\n\nOriginal Creator\n\n', b'\nSeki, Kazuhiko\n\nEditing\n\n']
+animePopularity	3278
+animeDescription	"A new original animated story included on a bonus mail-order DVD eligible for readers of LaLa's August, October and September 2013 issues.  It was later aired as a special in the broadcast schedule of Natsume Yuujinchou Go on the 16.November 2016.
+"
+animeRelated	['Natsume Yuujinchou Shi', 'Natsume Yuujinchou Go']
+animeCharacters	['Natsume, Takashi', 'Madara', 'Tanuma, Kaname', 'Natori, Shuuichi', 'Taki, Tooru', 'Hinoe', 'Fujiwara, Touko', 'Hiiragi', 'Nishimura, Satoru', 'Sasada, Jun']
+animeVoices	['Kamiya, Hiroshi', 'Inoue, Kazuhiko', 'Horie, Kazuma', 'Ishida, Akira', 'Satou, Rina', 'Okamura, Akemi', 'Itou, Miki', 'Yukino, Satsuki', 'Kimura, Ryouhei', 'Sawashiro, Miyuki']
+animeStaff	[['Oomori, Takahiro', 'Director'], ['Midorikawa, Yuki', 'Original Creator'], ['Seki, Kazuhiko', 'Editing']]

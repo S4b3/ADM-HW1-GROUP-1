@@ -1,5 +1,5 @@
-animeTitle	b'Harmonie'
-animeType	b'Movie'
+animeTitle	Harmonie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.28
 animeUsers	26025
 animeRank	
-animePopularity	
-animeDescription	"b""Akio Honjou is a high school student with a special gift for music. He can perfectly recall any piece of music that he has heard only once. One day, as he tries to reproduce a particularly soothing piano melody, he unexpectedly meets Juri Makina\xe2\x80\x94the girl whose cell phone had spontaneously played the tune earlier in class.\n\nIf art is the only way to truly know what landscapes populate others' inner worlds, then can this particular tune pave the way for Akio to begin to understand the more intellectual and emotional aspects of his captivating classmate, Juri?\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kuro no Su: Chronus', b'Ookii 1 Nensei to Chiisana 2 Nensei', b'Parol no Miraijima']
-animeCharacters	[b'Makina, Juri', b'Honjou, Akio', b'Mayumi', b'Ryouko', b'Sonoko', b'Gotou', b'Watanabe', b'Yoshida']
-animeVoices	[b'\nUeda, Reina\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nNumakura, Manami\nJapanese\n', b'\nTaichi, You\nJapanese\n', b'\nHigashiuchi, Mariko\nJapanese\n', b'\nFurukawa, Makoto\nJapanese\n', b'\nIwasaki, Ryou\nJapanese\n', b'\nMatsumoto, Kenta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nInagaki, Ryousuke\n\nProducer, Production Manager\n\n', b'\nYoshiura, Yasuhiro\n\nDirector, Storyboard, Editing, Creator, Director of Photography\n\n', b'\nKOKIA\n\nTheme Song Performance\n\n', b'\nIkariya, Atsushi\n\nAnimation Director, Character Design\n\n']
+animePopularity	2454
+animeDescription	"Akio Honjou is a high school student with a special gift for music. He can perfectly recall any piece of music that he has heard only once. One day, as he tries to reproduce a particularly soothing piano melody, he unexpectedly meets Juri Makina—the girl whose cell phone had spontaneously played the tune earlier in class.
+
+If art is the only way to truly know what landscapes populate others' inner worlds, then can this particular tune pave the way for Akio to begin to understand the more intellectual and emotional aspects of his captivating classmate, Juri?
+
+[Written by MAL Rewrite]"
+animeRelated	['Kuro no Su: Chronus', 'Ookii 1 Nensei to Chiisana 2 Nensei', 'Parol no Miraijima']
+animeCharacters	['Makina, Juri', 'Honjou, Akio', 'Mayumi', 'Ryouko', 'Sonoko', 'Gotou', 'Watanabe', 'Yoshida']
+animeVoices	['Ueda, Reina', 'Matsuoka, Yoshitsugu', 'Numakura, Manami', 'Taichi, You', 'Higashiuchi, Mariko', 'Furukawa, Makoto', 'Iwasaki, Ryou', 'Matsumoto, Kenta']
+animeStaff	[['Inagaki, Ryousuke', 'Producer, Production Manager'], ['Yoshiura, Yasuhiro', 'Director, Storyboard, Editing, Creator, Director of Photography'], ['KOKIA', 'Theme Song Performance'], ['Ikariya, Atsushi', 'Animation Director, Character Design']]

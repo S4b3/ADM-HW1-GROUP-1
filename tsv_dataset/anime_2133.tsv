@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam II: Soldiers of Sorrow'
-animeType	b'Movie'
+animeTitle	Mobile Suit Gundam II: Soldiers of Sorrow
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.36
 animeUsers	15380
 animeRank	
-animePopularity	
-animeDescription	b'As the War continues, Amuro and the White Base crew must make their way toward the Earth Federation Headquarters, Jaburo. On their way they meet several new enemies and face off against impossible odds. They fight in Operation Odessa to relieve the Earth from the clutches of the Zeon forces.\n\nLives are lost, new friendships are made, and discoveries at every corner. Amuro soon learns that he possesses the powers of the mysterious Newtypes.\n\n(Source: Otakufreakmk2)'
-animeRelated	[b'Mobile Suit Gundam', b'Mobile Suit Gundam I', b'Mobile Suit Gundam III: Encounters in Space']
-animeCharacters	[b'Ray, Amuro', b'Aznable, Char', b'Noa, Bright', b'Haro', b'Mass, Sayla', b'Ral, Ramba', b'Zabi, Mineva Lao', b'Shiden, Kai', b'Hamon, Crowley', b'Bow, Fraw']
-animeVoices	[b'\nFuruya, Toru\nJapanese\n', b'\nIkeda, Shuuichi\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nTakagi, Sanae\nJapanese\n', b'\nInoue, You\nJapanese\n', b'\nHirose, Masashi\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nNakatani, Yumi\nJapanese\n', b'\nUkai, Rumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nYatate, Hajime\n\nProducer\n\n', b'\nTomino, Yoshiyuki\n\nDirector, Script, Storyboard, Original Creator\n\n', b'\nMatsuzaki, Kenichi\n\nScript, Screenplay\n\n']
+animePopularity	3552
+animeDescription	"As the War continues, Amuro and the White Base crew must make their way toward the Earth Federation Headquarters, Jaburo. On their way they meet several new enemies and face off against impossible odds. They fight in Operation Odessa to relieve the Earth from the clutches of the Zeon forces.
+
+Lives are lost, new friendships are made, and discoveries at every corner. Amuro soon learns that he possesses the powers of the mysterious Newtypes.
+
+(Source: Otakufreakmk2)"
+animeRelated	['Mobile Suit Gundam', 'Mobile Suit Gundam I', 'Mobile Suit Gundam III: Encounters in Space']
+animeCharacters	['Ray, Amuro', 'Aznable, Char', 'Noa, Bright', 'Haro', 'Mass, Sayla', 'Ral, Ramba', 'Zabi, Mineva Lao', 'Shiden, Kai', 'Hamon, Crowley', 'Bow, Fraw']
+animeVoices	['Furuya, Toru', 'Ikeda, Shuuichi', 'Suzuoki, Hirotaka', 'Takagi, Sanae', 'Inoue, You', 'Hirose, Masashi', 'Furukawa, Toshio', 'Nakatani, Yumi', 'Ukai, Rumiko']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Yatate, Hajime', 'Producer'], ['Tomino, Yoshiyuki', 'Director, Script, Storyboard, Original Creator'], ['Matsuzaki, Kenichi', 'Script, Screenplay']]

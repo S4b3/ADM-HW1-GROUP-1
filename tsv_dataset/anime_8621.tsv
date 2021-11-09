@@ -1,5 +1,5 @@
-animeTitle	b'Cestvs: The Roman Fighter'
-animeType	b'TV'
+animeTitle	Cestvs: The Roman Fighter
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.0
 animeUsers	4720
 animeRank	
-animePopularity	
-animeDescription	"b""In the year 54 AD, 15-year-old slave fighter Cestvs desires one thing\xe2\x80\x94an escape from his violent life. It is the wish Cestvs' owner has promised to grant him, but only after he wins 100 battles. However, Cestvs quickly comes to terms with the fact that, as a slave, his life is expendable. After the death of his friend, the possibility of freedom is the only thing keeping him going. With a burning ambition to attain it, Cestvs embarks on a journey to earn himself back, even if it means fighting other slaves for the entertainment of the public.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kentou Ankokuden Cestvs', b'Kendo Shitouden Cestvs']
-animeCharacters	[b'Cestvs', b'Zafar', b'Roxane', b'Nero', b'Demitorius', b'Narrator', b'Sabina', b'Demitorius, Ruska Atticus', b'Agrippina', b'Emden']
-animeVoices	[b'\nMineta, Hiromu\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nUemura, Yuuto\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nTakeuchi, Ryouta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawase, Toshifumi\n\nDirector, Script, Series Composition\n\n', b'\nMonma, Kazuya\n\nDirector\n\n', b'\nNakano, Tooru\n\nSound Director\n\n', b'\nTokuda, Masahiro\n\nMusic\n\n']
+animePopularity	4324
+animeDescription	"In the year 54 AD, 15-year-old slave fighter Cestvs desires one thing—an escape from his violent life. It is the wish Cestvs' owner has promised to grant him, but only after he wins 100 battles. However, Cestvs quickly comes to terms with the fact that, as a slave, his life is expendable. After the death of his friend, the possibility of freedom is the only thing keeping him going. With a burning ambition to attain it, Cestvs embarks on a journey to earn himself back, even if it means fighting other slaves for the entertainment of the public.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kentou Ankokuden Cestvs', 'Kendo Shitouden Cestvs']
+animeCharacters	['Cestvs', 'Zafar', 'Roxane', 'Nero', 'Demitorius', 'Narrator', 'Sabina', 'Demitorius, Ruska Atticus', 'Agrippina', 'Emden']
+animeVoices	['Mineta, Hiromu', 'Koyama, Rikiya', 'Kobayashi, Sanae', 'Uemura, Yuuto', 'Touchi, Hiroki', 'Ootsuka, Akio', 'Endou, Aya', 'Ono, Kensho', 'Inoue, Kikuko', 'Takeuchi, Ryouta']
+animeStaff	[['Kawase, Toshifumi', 'Director, Script, Series Composition'], ['Monma, Kazuya', 'Director'], ['Nakano, Tooru', 'Sound Director'], ['Tokuda, Masahiro', 'Music']]

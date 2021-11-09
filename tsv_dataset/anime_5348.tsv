@@ -1,5 +1,5 @@
-animeTitle	b'DNA\xc2\xb2'
-animeType	b'TV'
+animeTitle	DNA²
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.65
 animeUsers	18225
 animeRank	
-animePopularity	
-animeDescription	b'Karin, a DNA operator from the future, is on a mission to change the course of History by stopping Junta Momonari from becoming the Mega-Playboy who fathered 100 children and led to the overpopulation of the world. But Junta is no playboy; in fact he is allergic to girls. But when Karin shoots him with the wrong DNA-altering bullet, he starts sporadically becoming the Mega-Playboy capable of charming any woman. Karin must try to restore the situation to normal before the change to Mega-Playboy becomes irreversible. \n\n(Source: ANN)'
-animeRelated	[b'DNA\xc2\xb2: Dokoka de Nakushita Aitsu no Aitsu', b'DNA\xc2\xb2 OVA']
-animeCharacters	[b'Aoi, Karin', b'Momonari, Junta', b'Kurimoto, Ami', b'Saeki, Tomoko', b'Takanashi, Kotomi', b'Kawasaki, Lulara', b'Momonari, Chiyo', b'Yokomori', b'Sugashita, Ryuji', b'Oharu']
-animeVoices	[b'\nTominaga, Miina\nJapanese\n', b'\nNanba, Keiichi\nJapanese\n', b'\nKasahara, Hiroko\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nShiina, Hekiru\nJapanese\n', b'\nTamagawa, Sakiko\nJapanese\n', b'\nMaruyama, Hiroko\nJapanese\n', b'\nOobayashi, Ryuusuke\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nYamada, Eiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaruyama, Masao\n\nProducer\n\n', b'\nShiba, Shigeharu\n\nSound Director\n\n', b'\nTanaka, Hiroyuki\n\nEpisode Director\n\n', b'\nOdaka, Yoshinori\n\nEpisode Director\n\n']
+animePopularity	2873
+animeDescription	"Karin, a DNA operator from the future, is on a mission to change the course of History by stopping Junta Momonari from becoming the Mega-Playboy who fathered 100 children and led to the overpopulation of the world. But Junta is no playboy; in fact he is allergic to girls. But when Karin shoots him with the wrong DNA-altering bullet, he starts sporadically becoming the Mega-Playboy capable of charming any woman. Karin must try to restore the situation to normal before the change to Mega-Playboy becomes irreversible. 
+
+(Source: ANN)"
+animeRelated	['DNA²: Dokoka de Nakushita Aitsu no Aitsu', 'DNA² OVA']
+animeCharacters	['Aoi, Karin', 'Momonari, Junta', 'Kurimoto, Ami', 'Saeki, Tomoko', 'Takanashi, Kotomi', 'Kawasaki, Lulara', 'Momonari, Chiyo', 'Yokomori', 'Sugashita, Ryuji', 'Oharu']
+animeVoices	['Tominaga, Miina', 'Nanba, Keiichi', 'Kasahara, Hiroko', 'Hayashibara, Megumi', 'Shiina, Hekiru', 'Tamagawa, Sakiko', 'Maruyama, Hiroko', 'Oobayashi, Ryuusuke', 'Koyasu, Takehito', 'Yamada, Eiko']
+animeStaff	[['Maruyama, Masao', 'Producer'], ['Shiba, Shigeharu', 'Sound Director'], ['Tanaka, Hiroyuki', 'Episode Director'], ['Odaka, Yoshinori', 'Episode Director']]

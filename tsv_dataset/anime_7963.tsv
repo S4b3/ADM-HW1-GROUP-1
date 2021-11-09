@@ -1,5 +1,5 @@
-animeTitle	b'Blood-C: None-None Gekijou'
-animeType	b'ONA'
+animeTitle	Blood-C: None-None Gekijou
+animeType	ONA
 animeNumEpisode	7
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.14
 animeUsers	2306
 animeRank	
-animePopularity	
-animeDescription	b'A series of short specials aired on the official website prior to the movie release. It consists of an explanation about the anime from the perspective of the twin characters, Motoe Nono and Motoe Nene.\n\nAn additional episode was aired at the Clamp Festival 2012.  It was later included in Blood-C: The Last Dark Limited Edition BD and DVD.'
-animeRelated	[b'Blood-C']
-animeCharacters	[b'Motoe, Nene', b'Motoe, Nono']
-animeVoices	[b'\nFukuen, Misato\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAshina, Minoru\n\nEpisode Director\n\n', b'\nCLAMP\n\nOriginal Creator\n\n']
+animePopularity	5371
+animeDescription	"A series of short specials aired on the official website prior to the movie release. It consists of an explanation about the anime from the perspective of the twin characters, Motoe Nono and Motoe Nene.
+
+An additional episode was aired at the Clamp Festival 2012.  It was later included in Blood-C: The Last Dark Limited Edition BD and DVD."
+animeRelated	['Blood-C']
+animeCharacters	['Motoe, Nene', 'Motoe, Nono']
+animeVoices	['Fukuen, Misato']
+animeStaff	[['Ashina, Minoru', 'Episode Director'], ['CLAMP', 'Original Creator']]

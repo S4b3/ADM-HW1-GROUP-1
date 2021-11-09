@@ -1,5 +1,5 @@
-animeTitle	b'Sword Art Online: Extra Edition'
-animeType	b'Special'
+animeTitle	Sword Art Online: Extra Edition
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.56
 animeUsers	164433
 animeRank	
-animePopularity	
-animeDescription	"b'The story is set a couple of years after the events of Sword Art Online, where Kazuto ""Kirito"" Kirigaya and his sister Suguha meet up with Asuna Yuuki, Rika ""Lisbeth"" Shinozaki, and Keiko ""Silica"" Ayano at the SAO Survivor School. Kirito then attends emergency counseling, while the girls go for a swim at the pool. It turns out that said ""emergency counseling"" is a subterfuge set up by Seijirou Kikuoka, aiming to rehash the incident of Sword Art Online in hopes of determining Akihiko Kayaba\'s motives. What will the girls get up to in the pool, and what awaits Kirito and his ""counseling""?\n\n[Written by MAL Rewrite]\n'"
-animeRelated	[b'Sword Art Online', b'Sword Art Online: Sword Art Offline - Extra Edition', b'Sword Art Online II']
-animeCharacters	[b'Kirigaya, Kazuto', b'Yuuki, Asuna', b'Kirigaya, Suguha', b'Yui', b'Tsuboi, Ryoutarou', b'Ayano, Keiko', b'Shinozaki, Rika', b'Sachi', b'Kayaba, Akihiko', b'Mills, Andrew Gilbert']
-animeVoices	[b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nItou, Kanae\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nHidaka, Rina\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nHeo, Pyeonggang\n\nEpisode Director\n\n', b'\nNakamoto, Munemasa\n\nScript\n\n', b'\nLiSA\n\nTheme Song Performance\n\n']
+animePopularity	637
+animeDescription	"The story is set a couple of years after the events of Sword Art Online, where Kazuto ""Kirito"" Kirigaya and his sister Suguha meet up with Asuna Yuuki, Rika ""Lisbeth"" Shinozaki, and Keiko ""Silica"" Ayano at the SAO Survivor School. Kirito then attends emergency counseling, while the girls go for a swim at the pool. It turns out that said ""emergency counseling"" is a subterfuge set up by Seijirou Kikuoka, aiming to rehash the incident of Sword Art Online in hopes of determining Akihiko Kayaba's motives. What will the girls get up to in the pool, and what awaits Kirito and his ""counseling""?
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Sword Art Online', 'Sword Art Online: Sword Art Offline - Extra Edition', 'Sword Art Online II']
+animeCharacters	['Kirigaya, Kazuto', 'Yuuki, Asuna', 'Kirigaya, Suguha', 'Yui', 'Tsuboi, Ryoutarou', 'Ayano, Keiko', 'Shinozaki, Rika', 'Sachi', 'Kayaba, Akihiko', 'Mills, Andrew Gilbert']
+animeVoices	['Matsuoka, Yoshitsugu', 'Tomatsu, Haruka', 'Taketatsu, Ayana', 'Itou, Kanae', 'Hirata, Hiroaki', 'Hidaka, Rina', 'Takagaki, Ayahi', 'Hayami, Saori', 'Yasumoto, Hiroki']
+animeStaff	[['Iwanami, Yoshikazu', 'Sound Director'], ['Heo, Pyeonggang', 'Episode Director'], ['Nakamoto, Munemasa', 'Script'], ['LiSA', 'Theme Song Performance']]

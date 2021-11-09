@@ -1,5 +1,5 @@
-animeTitle	b'Aikatsu Friends!'
-animeType	b'TV'
+animeTitle	Aikatsu Friends!
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.14
 animeUsers	2277
 animeRank	
-animePopularity	
-animeDescription	"b'Aine Yuuki, who is a regular student at Star Harmony Academy\'s normal division, meets Mio Minato from the idol division, who invites her to join Aikatsu to fulfill Aine\'s goal to make friends. She also befriends Maika Ch\xc5\x8dno and Ema Hinata who are also idols. Aine and Mio form a pair to become best friends to become the bright ""Diamond Friends"". Karen Kamishiro and Mirai Asuku are categorized as ""Diamond Friends"" and are in the Diamond Class!\n\n(Source: Wikipedia)'"
-animeRelated	[b'Aikatsu!', b'Aikatsu Stars!', b'Aikatsu Friends!: Kagayaki no Jewel', b'Aikatsu Planet!']
-animeCharacters	[b'Minato, Mio', b'Yuuki, Aine', b'Asuka, Mirai', b'Kamishiro, Karen', b'Shirayuri, Sakuya', b'Chouno, Maika', b'Shirayuri, Kaguya', b'Hinata, Ema', b'Coco', b'Minato, Osamu']
-animeVoices	[b'\nKido, Ibuki\nJapanese\n', b'\nMatsunaga, Akane\nJapanese\n', b'\nOhashi, Ayaka\nJapanese\n', b'\nTadokoro, Azusa\nJapanese\n', b'\nSuyama, Emiri\nJapanese\n', b'\nMiyama, Karen\nJapanese\n', b'\nKuwahara, Yuuki\nJapanese\n', b'\nNinomiya, Yui\nJapanese\n', b'\nMorohoshi, Sumire\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIgarashi, Shishou\n\nDirector\n\n', b'\nKyougoku, Takahiko\n\nEpisode Director\n\n', b'\nMatsuo, Kou\n\nEpisode Director, Storyboard\n\n', b'\nAndou, Naoya\n\nEpisode Director, Storyboard\n\n']
+animePopularity	5369
+animeDescription	"Aine Yuuki, who is a regular student at Star Harmony Academy's normal division, meets Mio Minato from the idol division, who invites her to join Aikatsu to fulfill Aine's goal to make friends. She also befriends Maika Chōno and Ema Hinata who are also idols. Aine and Mio form a pair to become best friends to become the bright ""Diamond Friends"". Karen Kamishiro and Mirai Asuku are categorized as ""Diamond Friends"" and are in the Diamond Class!
+
+(Source: Wikipedia)"
+animeRelated	['Aikatsu!', 'Aikatsu Stars!', 'Aikatsu Friends!: Kagayaki no Jewel', 'Aikatsu Planet!']
+animeCharacters	['Minato, Mio', 'Yuuki, Aine', 'Asuka, Mirai', 'Kamishiro, Karen', 'Shirayuri, Sakuya', 'Chouno, Maika', 'Shirayuri, Kaguya', 'Hinata, Ema', 'Coco', 'Minato, Osamu']
+animeVoices	['Kido, Ibuki', 'Matsunaga, Akane', 'Ohashi, Ayaka', 'Tadokoro, Azusa', 'Suyama, Emiri', 'Miyama, Karen', 'Kuwahara, Yuuki', 'Ninomiya, Yui', 'Morohoshi, Sumire', 'Sugita, Tomokazu']
+animeStaff	[['Igarashi, Shishou', 'Director'], ['Kyougoku, Takahiko', 'Episode Director'], ['Matsuo, Kou', 'Episode Director, Storyboard'], ['Andou, Naoya', 'Episode Director, Storyboard']]

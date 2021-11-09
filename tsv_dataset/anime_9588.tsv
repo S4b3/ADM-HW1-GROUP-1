@@ -1,5 +1,5 @@
-animeTitle	b'Maps'
-animeType	b'OVA'
+animeTitle	Maps
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.75
 animeUsers	687
 animeRank	
-animePopularity	
-animeDescription	"b""While looking for the ledgendary Mapman, the last surviving member of the Nomad Star tribe, Lipumira finds him in Tokyo. His name is Gen Tokishima and he is the only one able to get one part of the starmap hidden within the Earth. After retrieving the piece, Gen must make a decision to follow Lipumira in her foolhardy search to find the remaining pieces of the starmap or stay on Earth. He makes his decision, only to find his girlfriend has beaten him to the spaceship as she wants to come as well. Unfortunately, as Gen learns the secret of the starmap, Lipumira's sisters have plans to stop her and will stop her at any cost. \n\n(Source: ANN)"""
-animeRelated	[b'MAPS', b'MAPS: Densetsu no Samayoeru Seijin-tachi']
-animeCharacters	[b'Kimizuka, Hoshimi', b'Gweiss, Lipumira', b'Tokishima, Gen', b'Gatalion', b'Jarna', b'Lingrodo', b'Sasandra Shuseki', b'Zeo', b'Gahha, Kalakala', b'Calion']
-animeVoices	[b'\nKouda, Mariko\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nMaruta, Mari\nJapanese\n', b'\nTakahashi, Miki\nJapanese\n', b'\nKatou, Seizou\nJapanese\n', b'\nMine, Eken\nJapanese\n', b'\nKanao, Tetsuo\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nTaniguchi, Takashi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishizawa, Susumu\n\nDirector, Episode Director, Storyboard\n\n', b'\nMatsuoka, Hiroki\n\nSound Director\n\n', b'\nMizushima, Yasuhiro\n\nTheme Song Performance\n\n', b'\nHasegawa, Yuuichi\n\nOriginal Creator\n\n']
+animePopularity	9319
+animeDescription	"While looking for the ledgendary Mapman, the last surviving member of the Nomad Star tribe, Lipumira finds him in Tokyo. His name is Gen Tokishima and he is the only one able to get one part of the starmap hidden within the Earth. After retrieving the piece, Gen must make a decision to follow Lipumira in her foolhardy search to find the remaining pieces of the starmap or stay on Earth. He makes his decision, only to find his girlfriend has beaten him to the spaceship as she wants to come as well. Unfortunately, as Gen learns the secret of the starmap, Lipumira's sisters have plans to stop her and will stop her at any cost. 
+
+(Source: ANN)"
+animeRelated	['MAPS', 'MAPS: Densetsu no Samayoeru Seijin-tachi']
+animeCharacters	['Kimizuka, Hoshimi', 'Gweiss, Lipumira', 'Tokishima, Gen', 'Gatalion', 'Jarna', 'Lingrodo', 'Sasandra Shuseki', 'Zeo', 'Gahha, Kalakala', 'Calion']
+animeVoices	['Kouda, Mariko', 'Touma, Yumi', 'Midorikawa, Hikaru', 'Maruta, Mari', 'Takahashi, Miki', 'Katou, Seizou', 'Mine, Eken', 'Kanao, Tetsuo', 'Ootsuka, Houchuu', 'Taniguchi, Takashi']
+animeStaff	[['Nishizawa, Susumu', 'Director, Episode Director, Storyboard'], ['Matsuoka, Hiroki', 'Sound Director'], ['Mizushima, Yasuhiro', 'Theme Song Performance'], ['Hasegawa, Yuuichi', 'Original Creator']]

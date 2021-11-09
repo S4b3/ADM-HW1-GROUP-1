@@ -1,5 +1,5 @@
-animeTitle	b'Date A Live III'
-animeType	b'TV'
+animeTitle	Date A Live III
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	7.17
 animeUsers	141505
 animeRank	
-animePopularity	
-animeDescription	"b""Shidou Itsuka carries on with his quest for Ratatoskr in finding Spirits and trying to seal their powers, all while maintaining his relationships with the ones he had already sealed. Moreover, as new Spirits appear, he must undergo more complicated trials\xe2\x80\x94all to put a stop to further disasters as he discovers more about the Spirits' origin.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Date A Live', b'Date A Live Movie: Mayuri Judgment', b'Date A Live IV']
-animeCharacters	[b'Yatogami, Tooka', b'Tobiichi, Origami', b'Itsuka, Kotori', b'Itsuka, Shidou', b'Tokisaki, Kurumi', b'Yoshino', b'Izayoi, Miku', b'Yamai, Yuzuru', b'Natsumi', b'Yamai, Kaguya']
-animeVoices	[b'\nInoue, Marina\nJapanese\n', b'\nTogashi, Misuzu\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nSanada, Asami\nJapanese\n', b'\nNomizu, Iori\nJapanese\n', b'\nChihara, Minori\nJapanese\n', b'\nBridcutt, Sarah Emi\nJapanese\n', b'\nMano, Ayumi\nJapanese\n', b'\nUchida, Maaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMotonaga, Keitarou\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nSokuza, Makoto\n\nEpisode Director\n\n', b'\nHarada, Nana\n\nEpisode Director\n\n']
+animePopularity	604
+animeDescription	"Shidou Itsuka carries on with his quest for Ratatoskr in finding Spirits and trying to seal their powers, all while maintaining his relationships with the ones he had already sealed. Moreover, as new Spirits appear, he must undergo more complicated trials—all to put a stop to further disasters as he discovers more about the Spirits' origin.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Date A Live', 'Date A Live Movie: Mayuri Judgment', 'Date A Live IV']
+animeCharacters	['Yatogami, Tooka', 'Tobiichi, Origami', 'Itsuka, Kotori', 'Itsuka, Shidou', 'Tokisaki, Kurumi', 'Yoshino', 'Izayoi, Miku', 'Yamai, Yuzuru', 'Natsumi', 'Yamai, Kaguya']
+animeVoices	['Inoue, Marina', 'Togashi, Misuzu', 'Taketatsu, Ayana', 'Shimazaki, Nobunaga', 'Sanada, Asami', 'Nomizu, Iori', 'Chihara, Minori', 'Bridcutt, Sarah Emi', 'Mano, Ayumi', 'Uchida, Maaya']
+animeStaff	[['Motonaga, Keitarou', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Sokuza, Makoto', 'Episode Director'], ['Harada, Nana', 'Episode Director']]

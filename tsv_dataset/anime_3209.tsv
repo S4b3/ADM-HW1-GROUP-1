@@ -1,5 +1,5 @@
-animeTitle	b'Tenjoubito to Akutobito Saigo no Tatakai'
-animeType	b'Movie'
+animeTitle	Tenjoubito to Akutobito Saigo no Tatakai
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.13
 animeUsers	2405
 animeRank	
-animePopularity	
-animeDescription	"b""A movie finale to Munto, a director's cut of the climactic scenes with new footage."""
-animeRelated	[b'Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai']
-animeCharacters	[b'Munto', b'Hidaka, Yumemi', b'Ono, Ichiko', b'Imamura, Suzume', b'Gass', b'Leica', b'Gntaru', b'Irita']
-animeVoices	[b'\nOno, Daisuke\nJapanese\n', b'\nAizawa, Mai\nJapanese\n', b'\nHorikawa, Chika\nJapanese\n', b'\nKonno, Hiromi\nJapanese\n', b'\nInada, Tetsu\nJapanese\n', b'\nSaito, Fuko\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKigami, Yoshiji\n\nDirector, Script, Storyboard, Series Composition\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nAizawa, Mai\n\nTheme Song Performance\n\n', b'\nYamada, Naoko\n\nKey Animation\n\n']
+animePopularity	5954
+animeDescription	A movie finale to Munto, a director's cut of the climactic scenes with new footage.
+animeRelated	['Sora wo Miageru Shoujo no Hitomi ni Utsuru Sekai']
+animeCharacters	['Munto', 'Hidaka, Yumemi', 'Ono, Ichiko', 'Imamura, Suzume', 'Gass', 'Leica', 'Gntaru', 'Irita']
+animeVoices	['Ono, Daisuke', 'Aizawa, Mai', 'Horikawa, Chika', 'Konno, Hiromi', 'Inada, Tetsu', 'Saito, Fuko', 'Wakamoto, Norio']
+animeStaff	[['Kigami, Yoshiji', 'Director, Script, Storyboard, Series Composition'], ['Tsuruoka, Youta', 'Sound Director'], ['Aizawa, Mai', 'Theme Song Performance'], ['Yamada, Naoko', 'Key Animation']]

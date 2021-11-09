@@ -1,5 +1,5 @@
-animeTitle	b'Zombieland Saga: Revenge'
-animeType	b'TV'
+animeTitle	Zombieland Saga: Revenge
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	8.05
 animeUsers	48710
 animeRank	
-animePopularity	
-animeDescription	b'Second season of Zombieland Saga.'
-animeRelated	[b'Zombieland Saga', b'Zombieland Saga Movie']
-animeCharacters	[b'Tatsumi, Koutarou', b'Nikaidou, Saki', b'Mizuno, Ai', b'Yamada, Tae', b'Minamoto, Sakura', b'Konno, Junko', b'Hoshikawa, Lily', b'Yuugiri', b'Romero', b'Policeman A']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n', b'\nTano, Asami\nJapanese\n', b'\nTaneda, Risa\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nHondo, Kaede\nJapanese\n', b'\nKawase, Maki\nJapanese\n', b'\nTanaka, Minami\nJapanese\n', b'\nKinugawa, Rika\nJapanese\n', b'\nTakato, Yasuhiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakai, Munehisa\n\nDirector\n\n', b'\nTakanashi, Yasuharu\n\nMusic\n\n', b'\nSai, Fumihide\n\nChief Animation Director\n\n', b'\nFukagawa, Kasumi\n\nCharacter Design\n\n']
+animePopularity	1148
+animeDescription	Second season of Zombieland Saga.
+animeRelated	['Zombieland Saga', 'Zombieland Saga Movie']
+animeCharacters	['Tatsumi, Koutarou', 'Nikaidou, Saki', 'Mizuno, Ai', 'Yamada, Tae', 'Minamoto, Sakura', 'Konno, Junko', 'Hoshikawa, Lily', 'Yuugiri', 'Romero', 'Policeman A']
+animeVoices	['Miyano, Mamoru', 'Tano, Asami', 'Taneda, Risa', 'Mitsuishi, Kotono', 'Hondo, Kaede', 'Kawase, Maki', 'Tanaka, Minami', 'Kinugawa, Rika', 'Takato, Yasuhiro']
+animeStaff	[['Sakai, Munehisa', 'Director'], ['Takanashi, Yasuharu', 'Music'], ['Sai, Fumihide', 'Chief Animation Director'], ['Fukagawa, Kasumi', 'Character Design']]

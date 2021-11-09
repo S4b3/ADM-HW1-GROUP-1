@@ -1,5 +1,5 @@
-animeTitle	b'Sora no Manimani'
-animeType	b'TV'
+animeTitle	Sora no Manimani
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.08
 animeUsers	15724
 animeRank	
-animePopularity	
-animeDescription	b'Saku Ooyagi returns to his hometown after seven years and is soon reacquainted with his childhood friend, Mihoshi Akeno. The reunion is far from merry since the last memory they have of each other is of her falling off a tree and him saving her. In any case, Mihoshi is determined to improve their relationship and forces Saku to join the astronomy club she founded.'
-animeRelated	[b'Sora no Manimani', b'Sora no Manimani Specials']
-animeCharacters	[b'Akeno, Mihoshi', b'Roma, Takeyasu', b'Makita, Hime', b'Edogawa, Masashi', b'Yarai, Sayo', b'Ooyagi, Saku', b'Oumi, Ayumi', b'Kotozuka, Fumie', b'Souma, Nozomu', b'Emiri']
-animeVoices	[b'\nItou, Kanae\nJapanese\n', b'\nMajima, Junji\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nTakagi, Reiko\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nMatsukaze, Masaya\nJapanese\n', b'\nKotobuki, Minako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakamatsu, Shinji\n\nDirector, Script, Storyboard\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nTsuda, Naokatsu\n\nEpisode Director\n\n', b'\nYoshimura, Ai\n\nEpisode Director, Storyboard\n\n']
+animePopularity	2807
+animeDescription	Saku Ooyagi returns to his hometown after seven years and is soon reacquainted with his childhood friend, Mihoshi Akeno. The reunion is far from merry since the last memory they have of each other is of her falling off a tree and him saving her. In any case, Mihoshi is determined to improve their relationship and forces Saku to join the astronomy club she founded.
+animeRelated	['Sora no Manimani', 'Sora no Manimani Specials']
+animeCharacters	['Akeno, Mihoshi', 'Roma, Takeyasu', 'Makita, Hime', 'Edogawa, Masashi', 'Yarai, Sayo', 'Ooyagi, Saku', 'Oumi, Ayumi', 'Kotozuka, Fumie', 'Souma, Nozomu', 'Emiri']
+animeVoices	['Itou, Kanae', 'Majima, Junji', 'Tomatsu, Haruka', 'Takagi, Reiko', 'Hayami, Saori', 'Maeno, Tomoaki', 'Sawashiro, Miyuki', 'Koshimizu, Ami', 'Matsukaze, Masaya', 'Kotobuki, Minako']
+animeStaff	[['Takamatsu, Shinji', 'Director, Script, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Tsuda, Naokatsu', 'Episode Director'], ['Yoshimura, Ai', 'Episode Director, Storyboard']]

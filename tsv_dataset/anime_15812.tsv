@@ -1,5 +1,5 @@
-animeTitle	b'Gothicmade: Hana no Utame'
-animeType	b'Movie'
+animeTitle	Gothicmade: Hana no Utame
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""On a tiny colony world named Carmine, young women known as Songstresses inherit the generation memories  of those who came before them, using their knowledge to help a populace that suffers under the harsh policies of the ruling interplanetary league.\n\nNewly reborn as a Songstress, 16-year-old Bellin Ajelli sets off a holy pilgrimage across the planet. Rumors of a possible terrorist attack result in Prince Truhallon of the militant Donau Empire being sent in to protect her, but his very presence is the antithesis of everything Bellin stands for. The two are as different as night and day, but they're stuck together until they reach the capital."""
+animePopularity	8234
+animeDescription	"On a tiny colony world named Carmine, young women known as Songstresses inherit the generation memories  of those who came before them, using their knowledge to help a populace that suffers under the harsh policies of the ruling interplanetary league.
+
+Newly reborn as a Songstress, 16-year-old Bellin Ajelli sets off a holy pilgrimage across the planet. Rumors of a possible terrorist attack result in Prince Truhallon of the militant Donau Empire being sent in to protect her, but his very presence is the antithesis of everything Bellin stands for. The two are as different as night and day, but they're stuck together until they reach the capital."
 animeRelated	[]
-animeCharacters	[b'Toriharon, Donau Ga', b'Ajelli, Bellin']
-animeVoices	[b'\nSasaki, Nozomu\nJapanese\n', b'\nKawamura, Maria\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagano, Mamoru\n\nDirector, Key Animation, Screenplay, Original Creator, Character Design\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n', b'\nOgura, Hiromasa\n\nArt Director\n\n', b'\nNakura, Yasuhiro\n\nAnimation Director\n\n']
+animeCharacters	['Toriharon, Donau Ga', 'Ajelli, Bellin']
+animeVoices	['Sasaki, Nozomu', 'Kawamura, Maria']
+animeStaff	[['Nagano, Mamoru', 'Director, Key Animation, Screenplay, Original Creator, Character Design'], ['Wakabayashi, Kazuhiro', 'Sound Director'], ['Ogura, Hiromasa', 'Art Director'], ['Nakura, Yasuhiro', 'Animation Director']]

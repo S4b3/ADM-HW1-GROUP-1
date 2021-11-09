@@ -1,5 +1,5 @@
-animeTitle	b'Pittanko! Nekozakana'
-animeType	b'TV'
+animeTitle	Pittanko! Nekozakana
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'On a distant southern island, a fish (sakana) opened its mouth for a cat (neko), thus ""nekozakana"" (cat-fish) is born.\n\n(Source: ANN)'"
-animeRelated	[b'Pittanko!! Nekozakana']
+animePopularity	15262
+animeDescription	"On a distant southern island, a fish (sakana) opened its mouth for a cat (neko), thus ""nekozakana"" (cat-fish) is born.
+
+(Source: ANN)"
+animeRelated	['Pittanko!! Nekozakana']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

@@ -1,5 +1,5 @@
-animeTitle	b'Asatte Dance'
-animeType	b'OVA'
+animeTitle	Asatte Dance
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.53
 animeUsers	216
 animeRank	
-animePopularity	
-animeDescription	"b""Suekichi goes to university and has, as any Japanese university student, time for hobbies. Things change when he attends his great grandfather's funeral and wakes the next morning in his room with a very sexy girl besides him. His great grandfather has left him a *little* inheritance but there are some conditions. Meanwhile, sexy Aya keeps hanging around and refuses to go away. The beginning of a strange relationship which revolves around suspicions and desire. \n\n(Source: MU)"""
-animeRelated	[b'Asatte Dance']
-animeCharacters	[b'Hibino, Aya', b'Terayama, Suekichi', b'Freddy', b'Shimomura, Masami', b'Terayama, Daikichi', b'Genichiro', b'Fukagawa, Miyuki', b'Mr. Tachimi', b'Ikezu, Daisuke', b'Munakata, Naruhito']
-animeVoices	[b'\nOrikasa, Ai\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOchiai, Masamune\n\nDirector\n\n', b'\nKogure, Teruo\n\nDirector\n\n', b'\nYamamoto, Naoki\n\nOriginal Creator\n\n']
+animePopularity	10273
+animeDescription	"Suekichi goes to university and has, as any Japanese university student, time for hobbies. Things change when he attends his great grandfather's funeral and wakes the next morning in his room with a very sexy girl besides him. His great grandfather has left him a *little* inheritance but there are some conditions. Meanwhile, sexy Aya keeps hanging around and refuses to go away. The beginning of a strange relationship which revolves around suspicions and desire. 
+
+(Source: MU)"
+animeRelated	['Asatte Dance']
+animeCharacters	['Hibino, Aya', 'Terayama, Suekichi', 'Freddy', 'Shimomura, Masami', 'Terayama, Daikichi', 'Genichiro', 'Fukagawa, Miyuki', 'Mr. Tachimi', 'Ikezu, Daisuke', 'Munakata, Naruhito']
+animeVoices	['Orikasa, Ai', 'Ootsuka, Houchuu']
+animeStaff	[['Ochiai, Masamune', 'Director'], ['Kogure, Teruo', 'Director'], ['Yamamoto, Naoki', 'Original Creator']]

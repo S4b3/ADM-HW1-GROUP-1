@@ -1,5 +1,5 @@
-animeTitle	b'Koko wa Green Wood'
-animeType	b'OVA'
+animeTitle	Koko wa Green Wood
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.82
 animeUsers	2613
 animeRank	
-animePopularity	
-animeDescription	"b""Hasukawa Kazuya is in a terrible bind. His brother's new wife is also the woman that Kazuya secretly loves. Determined to avoid them both, Kazuya leaves home to live in the student dorm called Greenwood. There, he hopes to find peace of mind. Unfortunately for Kazuya, stability and peace are the last things one might find at Greenwood - home of the weirdest characters on campus.\n\n(Source: ANN)"""
-animeRelated	[b'Koko wa Green Wood']
-animeCharacters	[b'Kisaragi, Shun', b'Tezuka, Shinobu', b'Ikeda, Mitsuru', b'Hasukawa, Kazuya', b'Kisaragi, Reina', b'Hasukawa, Kazuhiro', b'Yuko', b'Tezuka, Nagisa', b'Furusawa, Shinichiro', b'Hasukawa, Sumire']
-animeVoices	[b'\nSakamoto, Chika\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n', b'\nKawata, Taeko\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nShimamoto, Sumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMochizuki, Tomomi\n\nDirector, Script\n\n', b'\nSakamoto, Chika\n\nTheme Song Performance\n\n', b'\nSakamoto, Hiroshi\n\nTheme Song Arrangement, Theme Song Composition, Inserted Song Performance\n\n', b'\nNagata, Shigeru\n\nMusic\n\n']
+animePopularity	5665
+animeDescription	"Hasukawa Kazuya is in a terrible bind. His brother's new wife is also the woman that Kazuya secretly loves. Determined to avoid them both, Kazuya leaves home to live in the student dorm called Greenwood. There, he hopes to find peace of mind. Unfortunately for Kazuya, stability and peace are the last things one might find at Greenwood - home of the weirdest characters on campus.
+
+(Source: ANN)"
+animeRelated	['Koko wa Green Wood']
+animeCharacters	['Kisaragi, Shun', 'Tezuka, Shinobu', 'Ikeda, Mitsuru', 'Hasukawa, Kazuya', 'Kisaragi, Reina', 'Hasukawa, Kazuhiro', 'Yuko', 'Tezuka, Nagisa', 'Furusawa, Shinichiro', 'Hasukawa, Sumire']
+animeVoices	['Sakamoto, Chika', 'Seki, Toshihiko', 'Iwata, Mitsuo', 'Sasaki, Nozomu', 'Kawata, Taeko', 'Inoue, Kazuhiko', 'Hisakawa, Aya', 'Tsuru, Hiromi', 'Horiuchi, Kenyuu', 'Shimamoto, Sumi']
+animeStaff	[['Mochizuki, Tomomi', 'Director, Script'], ['Sakamoto, Chika', 'Theme Song Performance'], ['Sakamoto, Hiroshi', 'Theme Song Arrangement, Theme Song Composition, Inserted Song Performance'], ['Nagata, Shigeru', 'Music']]

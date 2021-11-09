@@ -1,5 +1,5 @@
-animeTitle	b'.hack//Unison'
-animeType	b'Special'
+animeTitle	.hack//Unison
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.66
 animeUsers	10493
 animeRank	
-animePopularity	
-animeDescription	"b'Somewhere in the MMORPG called ""The World,"" a group is gathered at a pub, awaiting the start of an event. There, old friends and acquaintances are reunited, including those who rarely log on. Some are even forging new relationships for the first time. Together, invited by the hacker Helba, the group leaves for the event in the Net Slums where a celebration awaits them all.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'.hack//Sign']
-animeCharacters	[b'Tsukasa', b'Subaru', b'Kite', b'Balmung', b'Sora', b'Mimiru', b'Bear', b'Crim', b'Blackrose', b'Aura']
-animeVoices	[b'\nSaiga, Mitsuki\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nAida, Sayaka\nJapanese\n', b'\nFreeman, Crispin\nJapanese\n', b'\nYanaka, Hiroshi\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nNakata, Kazuhiro\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nAsano, Masumi\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakagi, Kazunori\n\nProducer\n\n', b'\nMorimoto, Kouji\n\nProducer\n\n', b'\nEgawa, Kuninori\n\nProducer\n\n', b'\nMashimo, Kouichi\n\nDirector, Sound Director, Script, Storyboard\n\n']
+animePopularity	3813
+animeDescription	"Somewhere in the MMORPG called ""The World,"" a group is gathered at a pub, awaiting the start of an event. There, old friends and acquaintances are reunited, including those who rarely log on. Some are even forging new relationships for the first time. Together, invited by the hacker Helba, the group leaves for the event in the Net Slums where a celebration awaits them all.
+
+[Written by MAL Rewrite]"
+animeRelated	['.hack//Sign']
+animeCharacters	['Tsukasa', 'Subaru', 'Kite', 'Balmung', 'Sora', 'Mimiru', 'Bear', 'Crim', 'Blackrose', 'Aura']
+animeVoices	['Saiga, Mitsuki', 'Nazuka, Kaori', 'Aida, Sayaka', 'Freeman, Crispin', 'Yanaka, Hiroshi', 'Toyoguchi, Megumi', 'Nakata, Kazuhiro', 'Miki, Shinichiro', 'Asano, Masumi', 'Sakamoto, Maaya']
+animeStaff	[['Takagi, Kazunori', 'Producer'], ['Morimoto, Kouji', 'Producer'], ['Egawa, Kuninori', 'Producer'], ['Mashimo, Kouichi', 'Director, Sound Director, Script, Storyboard']]

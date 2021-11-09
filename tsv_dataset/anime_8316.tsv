@@ -1,5 +1,5 @@
-animeTitle	b'MonHun Nikki Girigiri Airou Mura G'
-animeType	b'TV'
+animeTitle	MonHun Nikki Girigiri Airou Mura G
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.07
 animeUsers	166
 animeRank	
-animePopularity	
-animeDescription	"b""This sequel will depict the comical adventures of the Airuu (Felyne), a feline monster species in CAPCOM's Monster Hunter game franchise, as they face numerous quests.\n\n(Source: ANN)"""
-animeRelated	[b'MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu']
-animeCharacters	[b'Nyaito', b'Pugi', b'Puni', b'Instructor', b'Leader', b'Nyami', b'Nyasuta', b'Pakase']
-animeVoices	[b'\nKobayashi, Yuu\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nTakahashi, Mikako\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nTakagi, Reiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamawaki, Koutarou\n\nCharacter Design\n\n']
+animePopularity	12536
+animeDescription	"This sequel will depict the comical adventures of the Airuu (Felyne), a feline monster species in CAPCOM's Monster Hunter game franchise, as they face numerous quests.
+
+(Source: ANN)"
+animeRelated	['MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu']
+animeCharacters	['Nyaito', 'Pugi', 'Puni', 'Instructor', 'Leader', 'Nyami', 'Nyasuta', 'Pakase']
+animeVoices	['Kobayashi, Yuu', 'Noto, Mamiko', 'Miyake, Kenta', 'Seki, Tomokazu', 'Takahashi, Mikako', 'Hikasa, Youko', 'Takagi, Reiko']
+animeStaff	[['Yamawaki, Koutarou', 'Character Design']]

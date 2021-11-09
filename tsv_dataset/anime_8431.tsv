@@ -1,5 +1,5 @@
-animeTitle	b'Yonimo Osoroshii Grimm Douwa'
-animeType	b'OVA'
+animeTitle	Yonimo Osoroshii Grimm Douwa
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.05
 animeUsers	204
 animeRank	
-animePopularity	
-animeDescription	"b'The truth behind the well-known Grimm\'s Tales is cruel and full of blood and lust!\n\nEpisode 1: ""Hansel & Gretel"": Two brothers lost in the woods were actually criminals...\n\nEpisode 2: ""The Blue Beard"": The true character of the Blue Beard was a cannibal who was unable to tolerate his wife\'s adultery. \n\nEpisode 3: ""Cinderella"": Actually Cinderella had abnormal affections toward the prince.'"
-animeRelated	[b'Yonimo Osoroshii Nihon Mukashibanashi']
-animeCharacters	[b'Cinderella']
+animePopularity	10678
+animeDescription	"The truth behind the well-known Grimm's Tales is cruel and full of blood and lust!
+
+Episode 1: ""Hansel & Gretel"": Two brothers lost in the woods were actually criminals...
+
+Episode 2: ""The Blue Beard"": The true character of the Blue Beard was a cannibal who was unable to tolerate his wife's adultery. 
+
+Episode 3: ""Cinderella"": Actually Cinderella had abnormal affections toward the prince."
+animeRelated	['Yonimo Osoroshii Nihon Mukashibanashi']
+animeCharacters	['Cinderella']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasui, Souichi\n\nDirector\n\n', b'\nTakaya, Hirotoshi\n\nDirector, Character Design\n\n', b'\nGrimm, Jacob and Wilhelm\n\nOriginal Creator\n\n']
+animeStaff	[['Masui, Souichi', 'Director'], ['Takaya, Hirotoshi', 'Director, Character Design'], ['Grimm, Jacob and Wilhelm', 'Original Creator']]

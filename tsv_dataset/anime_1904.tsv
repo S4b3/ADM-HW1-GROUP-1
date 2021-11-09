@@ -1,5 +1,5 @@
-animeTitle	b'Naruto: Shippuuden Movie 4 - The Lost Tower'
-animeType	b'Movie'
+animeTitle	Naruto: Shippuuden Movie 4 - The Lost Tower
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.42
 animeUsers	119134
 animeRank	
-animePopularity	
-animeDescription	"b""Led by Yamato, Naruto Uzumaki, Sakura Haruno, and Sai are assigned to capture Mukade, a rogue ninja who is pursuing the ancient chakra Ryuumyaku located underneath the Rouran ruins. While the Ryuumyaku has been sealed by the Fourth Hokage, the group fails to prevent Mukade from releasing its power. Consequently, a strong energy burst engulfs both Naruto and Yamato before they can escape.\n\nAs he awakens in a magnificent yet hostile kingdom, Naruto meets its young queen Saara and three Konohagakure ninjas on a top-secret mission. They reveal to him that he has time-traveled to Rouran 20 years into the past! To make matters worse, Mukade has already infiltrated the royal court, becoming the naive queen's most trusted minister under the alias Anrokuzan.\n\nJoining forces with the three ninjas, Naruto must protect Saara's life without fail to stop the villain's plans and return to the present.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Gekijouban Naruto: Shippuuden - The Lost Tower', b'Naruto: Shippuuden', b'Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!!']
-animeCharacters	[b'Uzumaki, Naruto', b'Namikaze, Minato', b'Saara', b'Mukade', b'Hatake, Kakashi', b'Jiraiya', b'Haruno, Sakura', b'Might, Guy', b'Tsunade', b'Uzumaki, Kushina']
-animeVoices	[b'\nTakeuchi, Junko\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nOotomo, Ryuuzaburou\nJapanese\n', b'\nTamura, Mutsumi\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nNakamura, Chie\nJapanese\n', b'\nMakiguchi, Mayuki\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurata, Masahiko\n\nDirector, Storyboard, Key Animation\n\n', b'\nMasuda, Toshihiko\n\nStoryboard\n\n', b'\nNigorikawa, Atsushi\n\nStoryboard\n\n', b'\nNiidome, Toshiya\n\nStoryboard\n\n']
+animePopularity	873
+animeDescription	"Led by Yamato, Naruto Uzumaki, Sakura Haruno, and Sai are assigned to capture Mukade, a rogue ninja who is pursuing the ancient chakra Ryuumyaku located underneath the Rouran ruins. While the Ryuumyaku has been sealed by the Fourth Hokage, the group fails to prevent Mukade from releasing its power. Consequently, a strong energy burst engulfs both Naruto and Yamato before they can escape.
+
+As he awakens in a magnificent yet hostile kingdom, Naruto meets its young queen Saara and three Konohagakure ninjas on a top-secret mission. They reveal to him that he has time-traveled to Rouran 20 years into the past! To make matters worse, Mukade has already infiltrated the royal court, becoming the naive queen's most trusted minister under the alias Anrokuzan.
+
+Joining forces with the three ninjas, Naruto must protect Saara's life without fail to stop the villain's plans and return to the present.
+
+[Written by MAL Rewrite]"
+animeRelated	['Gekijouban Naruto: Shippuuden - The Lost Tower', 'Naruto: Shippuuden', 'Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!!']
+animeCharacters	['Uzumaki, Naruto', 'Namikaze, Minato', 'Saara', 'Mukade', 'Hatake, Kakashi', 'Jiraiya', 'Haruno, Sakura', 'Might, Guy', 'Tsunade', 'Uzumaki, Kushina']
+animeVoices	['Takeuchi, Junko', 'Morikawa, Toshiyuki', 'Hayami, Saori', 'Ootomo, Ryuuzaburou', 'Tamura, Mutsumi', 'Ootsuka, Houchuu', 'Nakamura, Chie', 'Makiguchi, Mayuki', 'Katsuki, Masako']
+animeStaff	[['Murata, Masahiko', 'Director, Storyboard, Key Animation'], ['Masuda, Toshihiko', 'Storyboard'], ['Nigorikawa, Atsushi', 'Storyboard'], ['Niidome, Toshiya', 'Storyboard']]

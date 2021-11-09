@@ -1,5 +1,5 @@
-animeTitle	b'Miss Monochrome The Animation'
-animeType	b'TV'
+animeTitle	Miss Monochrome The Animation
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.39
 animeUsers	19985
 animeRank	
-animePopularity	
-animeDescription	"b'""Miss Monochrome"" is an original character design from seiyuu Horie Yui. In March 2012, she first used the ""Miss Monochrome"" character as a 3D virtual singer to sing her songs at her concert ""Horie Yui wo Meguru Bouken III ~Secret Mission Tour~."" Later, the character appeared in a range of merchandise as well as in the social network game ""Girlfriend (Beta).""\n\nAccording to the setting, Miss Monochrome loves only the monochrome style, dislikes all kinds of color, and always dreams about changing the world into her favorite monochrome color.\n\n(Source: MAL News)'"
-animeRelated	[b'Miss Monochrome: Motto Challenge', b'Miss Monochrome-san', b'Miss Monochrome The Animation: Soccer-hen', b'Miss Monochrome The Animation: Manager', b'Miss Monochrome: Watashi dake no Monogatari', b'Miss Monochrome The Animation 2', b'Miss Monochrome: Music Clips']
-animeCharacters	[b'Miss Monochrome', b'Ruu-chan', b'Maneo', b'Wooser', b'Mana', b'Kikuko', b'Akiko', b'Narrator']
-animeVoices	[b'\nHorie, Yui\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nKanda, Akemi\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nSuwa, Ayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatomi, Tetsurou\n\nProducer\n\n', b'\nYamaura, Takanori\n\nProducer\n\n', b'\nShiba, Hirokazu\n\nProducer\n\n', b'\nIwasaki, Yoshiaki\n\nDirector\n\n']
+animePopularity	2635
+animeDescription	"""Miss Monochrome"" is an original character design from seiyuu Horie Yui. In March 2012, she first used the ""Miss Monochrome"" character as a 3D virtual singer to sing her songs at her concert ""Horie Yui wo Meguru Bouken III ~Secret Mission Tour~."" Later, the character appeared in a range of merchandise as well as in the social network game ""Girlfriend (Beta).""
+
+According to the setting, Miss Monochrome loves only the monochrome style, dislikes all kinds of color, and always dreams about changing the world into her favorite monochrome color.
+
+(Source: MAL News)"
+animeRelated	['Miss Monochrome: Motto Challenge', 'Miss Monochrome-san', 'Miss Monochrome The Animation: Soccer-hen', 'Miss Monochrome The Animation: Manager', 'Miss Monochrome: Watashi dake no Monogatari', 'Miss Monochrome The Animation 2', 'Miss Monochrome: Music Clips']
+animeCharacters	['Miss Monochrome', 'Ruu-chan', 'Maneo', 'Wooser', 'Mana', 'Kikuko', 'Akiko', 'Narrator']
+animeVoices	['Horie, Yui', 'Fujiwara, Keiji', 'Kanda, Akemi', 'Inoue, Kikuko', 'Suwa, Ayaka']
+animeStaff	[['Satomi, Tetsurou', 'Producer'], ['Yamaura, Takanori', 'Producer'], ['Shiba, Hirokazu', 'Producer'], ['Iwasaki, Yoshiaki', 'Director']]

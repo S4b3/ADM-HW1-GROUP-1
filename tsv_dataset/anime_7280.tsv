@@ -1,5 +1,5 @@
-animeTitle	b'Loups=Garous'
-animeType	b'Movie'
+animeTitle	Loups=Garous
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.28
 animeUsers	7159
 animeRank	
-animePopularity	
-animeDescription	b'In a future governed through the lens of a camera, where people eat synthetic food and pursue an online existence in lieu of physical contact, a group of children begin meeting up in the real world. The aloof Ayumi Kono, the genius hacker Mio Tsuzuki, and the socially awkward Hazuki Makino set out to find the fourth member of their group, Yuko Yabe, who has gone missing. With the help of Myao Rei, an unregistered citizen proficient in martial arts, they are able to find Yuko. However, when their situation takes a sudden turn for the worse, the group stumbles headlong into a dark mystery that challenges everything they know about their world.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Loups=Garous: Kihi Subeki Ookami', b'Loups=Garous #Overture']
-animeCharacters	[b'Kono, Ayumi', b'Tsuzuki, Mio', b'Makino, Hazuki', b'Rei, Myao', b'Yabe, Yuko', b'Kunugi, Touji', b'Ishida, Riichiro', b'Nakamura, Yuji', b'Kawabata, Ryu', b'Fuwa, Shizue']
-animeVoices	[b'\nIgarashi, Hiromi\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nOki, Kanae\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nUetake, Kana\nJapanese\n', b'\nKawamoto, Kunihiro\nJapanese\n', b'\nAoyama, Yutaka\nJapanese\n', b'\nKatsunuma, Kiyoshi\nJapanese\n', b'\nSakamaki, Manabu\nJapanese\n', b'\nHirata, Eriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujisaku, Junichi\n\nDirector\n\n', b'\nKoizumi, Kisuke\n\nSound Director\n\n', b'\nSaitou, Akihiro\n\nEpisode Director\n\n', b'\nFoster, Steven\n\nScript, ADR Director\n\n']
+animePopularity	4338
+animeDescription	"In a future governed through the lens of a camera, where people eat synthetic food and pursue an online existence in lieu of physical contact, a group of children begin meeting up in the real world. The aloof Ayumi Kono, the genius hacker Mio Tsuzuki, and the socially awkward Hazuki Makino set out to find the fourth member of their group, Yuko Yabe, who has gone missing. With the help of Myao Rei, an unregistered citizen proficient in martial arts, they are able to find Yuko. However, when their situation takes a sudden turn for the worse, the group stumbles headlong into a dark mystery that challenges everything they know about their world.
+
+[Written by MAL Rewrite]"
+animeRelated	['Loups=Garous: Kihi Subeki Ookami', 'Loups=Garous #Overture']
+animeCharacters	['Kono, Ayumi', 'Tsuzuki, Mio', 'Makino, Hazuki', 'Rei, Myao', 'Yabe, Yuko', 'Kunugi, Touji', 'Ishida, Riichiro', 'Nakamura, Yuji', 'Kawabata, Ryu', 'Fuwa, Shizue']
+animeVoices	['Igarashi, Hiromi', 'Inoue, Marina', 'Oki, Kanae', 'Sawashiro, Miyuki', 'Uetake, Kana', 'Kawamoto, Kunihiro', 'Aoyama, Yutaka', 'Katsunuma, Kiyoshi', 'Sakamaki, Manabu', 'Hirata, Eriko']
+animeStaff	[['Fujisaku, Junichi', 'Director'], ['Koizumi, Kisuke', 'Sound Director'], ['Saitou, Akihiro', 'Episode Director'], ['Foster, Steven', 'Script, ADR Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Juuni Taisen'
-animeType	b'TV'
+animeTitle	Juuni Taisen
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.54
 animeUsers	119677
 animeRank	
-animePopularity	
-animeDescription	b'Every 12 years, mercenaries who possess the highest caliber of brute strength, cunning wit, and deadly precision gather to participate in the Zodiac Tournament. Each warrior bears the name and attributes of one of the 12 animals of the Chinese zodiac. With their pride and lives on the line, they engage in vicious combat until only the victor remains.\n\nThe 12th Zodiac Tournament begins in a desolate city, devoid of any evidence of the half million people who recently lived there. To raise the stakes, each warrior ingests a poisonous gem, thus setting a time limit on the tournament\xe2\x80\x94and on their life. With one wish for the victor up for grabs, the Zodiac Warriors start their cutthroat battle for survival.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Juuni Taisen']
-animeCharacters	[b'Usagi', b'Nezumi', b'Tora', b'Ushii', b'Sharyuu', b'Niwatori', b'Inounoshishi', b'Tatsumi Kyoudai Ani', b'Tatsumi Kyoudai Otouto', b'Dotsuku']
-animeVoices	[b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nHorie, Shun\nJapanese\n', b'\nIgarashi, Hiromi\nJapanese\n', b'\nUmehara, Yuuichirou\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nEguchi, Takuya\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nNishimura, Tomohiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHosoda, Naoto\n\nDirector\n\n', b'\nKoizumi, Kisuke\n\nSound Director\n\n', b'\nMiura, Kazuya\n\nEpisode Director, Storyboard\n\n', b'\nKubo, Yuusuke\n\nEpisode Director, Storyboard\n\n']
+animePopularity	706
+animeDescription	"Every 12 years, mercenaries who possess the highest caliber of brute strength, cunning wit, and deadly precision gather to participate in the Zodiac Tournament. Each warrior bears the name and attributes of one of the 12 animals of the Chinese zodiac. With their pride and lives on the line, they engage in vicious combat until only the victor remains.
+
+The 12th Zodiac Tournament begins in a desolate city, devoid of any evidence of the half million people who recently lived there. To raise the stakes, each warrior ingests a poisonous gem, thus setting a time limit on the tournament—and on their life. With one wish for the victor up for grabs, the Zodiac Warriors start their cutthroat battle for survival.
+
+[Written by MAL Rewrite]"
+animeRelated	['Juuni Taisen']
+animeCharacters	['Usagi', 'Nezumi', 'Tora', 'Ushii', 'Sharyuu', 'Niwatori', 'Inounoshishi', 'Tatsumi Kyoudai Ani', 'Tatsumi Kyoudai Otouto', 'Dotsuku']
+animeVoices	['Okamoto, Nobuhiko', 'Horie, Shun', 'Igarashi, Hiromi', 'Umehara, Yuuichirou', 'Hayami, Saori', 'Sakura, Ayane', 'Hikasa, Youko', 'Eguchi, Takuya', 'Toriumi, Kousuke', 'Nishimura, Tomohiro']
+animeStaff	[['Hosoda, Naoto', 'Director'], ['Koizumi, Kisuke', 'Sound Director'], ['Miura, Kazuya', 'Episode Director, Storyboard'], ['Kubo, Yuusuke', 'Episode Director, Storyboard']]

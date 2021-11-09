@@ -1,5 +1,5 @@
-animeTitle	b'Ushiro no Shoumen Daare'
-animeType	b'Movie'
+animeTitle	Ushiro no Shoumen Daare
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.76
 animeUsers	3076
 animeRank	
-animePopularity	
-animeDescription	"b""Kayoko is a young girl in 1940, just starting first grade. She's a bit of a crybaby, which is no secret to those around her. She loves playing with friends and singing cute schoolyard chants, and occasionally having fun with her three older brothers. Her mother is pregnant, and so she looks forward to being a big sister, only partially understanding the responsibility that might bring. Meanwhile, the war effort is growing, and it`s only the natural thing to do to be patriotic and support the country...\n\nKayoko goes so far as to contribute her favorite dolly, whose materials could help build explosives. Time passes, and as she grows older, Kayoko sees how the war has affected her life and those around her. Nothing can prepare her for 1945, however, and the bleak times that are soon to come. Based on original creator Kayoko Ebina's real life experience during World War 2 on Showa era.\n\n(Source: ANN)"""
+animePopularity	5216
+animeDescription	"Kayoko is a young girl in 1940, just starting first grade. She's a bit of a crybaby, which is no secret to those around her. She loves playing with friends and singing cute schoolyard chants, and occasionally having fun with her three older brothers. Her mother is pregnant, and so she looks forward to being a big sister, only partially understanding the responsibility that might bring. Meanwhile, the war effort is growing, and it`s only the natural thing to do to be patriotic and support the country...
+
+Kayoko goes so far as to contribute her favorite dolly, whose materials could help build explosives. Time passes, and as she grows older, Kayoko sees how the war has affected her life and those around her. Nothing can prepare her for 1945, however, and the bleak times that are soon to come. Based on original creator Kayoko Ebina's real life experience during World War 2 on Showa era.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Nakane, Kayoko', b'Nakane, Otokichi', b'Nakane, Tadayoshi', b'Granny', b'Nakane, Kisaburou', b'Nakane, Takejirou', b'Nakane, Kounosuke', b'Nakane, Yoshi']
-animeVoices	[b'\nMiwa, Katsue\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nHayashiya, Shouzou\nJapanese\n', b'\nNunami, Terue\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n', b'\nYanagisawa, Michiyo\nJapanese\n', b'\nIkeda, Masako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nArihara, Seiji\n\nDirector, Script, Planning\n\n', b'\nAsami, Takashi\n\nEpisode Director\n\n', b'\nShiratori, Emiko\n\nTheme Song Performance\n\n', b'\nMima, Masafumi\n\nSound Manager\n\n']
+animeCharacters	['Nakane, Kayoko', 'Nakane, Otokichi', 'Nakane, Tadayoshi', 'Granny', 'Nakane, Kisaburou', 'Nakane, Takejirou', 'Nakane, Kounosuke', 'Nakane, Yoshi']
+animeVoices	['Miwa, Katsue', 'Wakamoto, Norio', 'Hayashiya, Shouzou', 'Nunami, Terue', 'Nozawa, Masako', 'Sasaki, Nozomu', 'Yanagisawa, Michiyo', 'Ikeda, Masako']
+animeStaff	[['Arihara, Seiji', 'Director, Script, Planning'], ['Asami, Takashi', 'Episode Director'], ['Shiratori, Emiko', 'Theme Song Performance'], ['Mima, Masafumi', 'Sound Manager']]

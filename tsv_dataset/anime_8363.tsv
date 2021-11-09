@@ -1,5 +1,5 @@
-animeTitle	b'Attraction'
-animeType	b'ONA'
+animeTitle	Attraction
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.06
 animeUsers	908
 animeRank	
-animePopularity	
-animeDescription	b'Interactive anti-smoking anime. Directed by Koji Morimoto (best known for Studio 4\xc2\xb0C works), this ONA is available in Japanese, English, and French.'
+animePopularity	9385
+animeDescription	Interactive anti-smoking anime. Directed by Koji Morimoto (best known for Studio 4°C works), this ONA is available in Japanese, English, and French.
 animeRelated	[]
-animeCharacters	[b'Koichi', b'Ren', b'Hiro', b'The Boss', b'Club girl']
+animeCharacters	['Koichi', 'Ren', 'Hiro', 'The Boss', 'Club girl']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Eiko\n\nProducer\n\n', b'\nMorimoto, Kouji\n\nDirector, Key Animation\n\n', b'\nFukushima, Atsuko\n\nKey Animation\n\n']
+animeStaff	[['Tanaka, Eiko', 'Producer'], ['Morimoto, Kouji', 'Director, Key Animation'], ['Fukushima, Atsuko', 'Key Animation']]

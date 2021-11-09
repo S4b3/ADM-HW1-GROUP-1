@@ -1,5 +1,5 @@
-animeTitle	b'Tsumamigui'
-animeType	b'OVA'
+animeTitle	Tsumamigui
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.44
 animeUsers	2066
 animeRank	
-animePopularity	
-animeDescription	b'What can a widowed woman do when she gets that itch? Invite a nubile man over to help her decorate! It has been a year since Chiho became a widow and the nights are getting lonely. It\xe2\x80\x99s a good thing that her friend Kanae is there to help. Kanae is experienced, she\xe2\x80\x99s been married for eight years and she knows just what Chiho needs. A little spice, a little color and some new scenery is what\xe2\x80\x99s missing from Chiho\xe2\x80\x99s life.\n\n(Source: AniDB)'
-animeRelated	[b'Tsumamigui 3 The Animation']
-animeCharacters	[b'Hasuma, Kanae', b'Mizumori, Chiho', b'Tsuzaki, Satoru']
-animeVoices	[b'\nItou, Miki\nJapanese\n', b'\nShimizu, Kaori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYokoyama, Hiromi\n\nDirector\n\n', b'\nTakahashi, Takeo\n\nStoryboard\n\n', b'\nAliceSoft\n\nOriginal Creator\n\n', b'\nMasudate, Toshihide\n\nChief Animation Director, Character Design\n\n']
+animePopularity	6502
+animeDescription	"What can a widowed woman do when she gets that itch? Invite a nubile man over to help her decorate! It has been a year since Chiho became a widow and the nights are getting lonely. It’s a good thing that her friend Kanae is there to help. Kanae is experienced, she’s been married for eight years and she knows just what Chiho needs. A little spice, a little color and some new scenery is what’s missing from Chiho’s life.
+
+(Source: AniDB)"
+animeRelated	['Tsumamigui 3 The Animation']
+animeCharacters	['Hasuma, Kanae', 'Mizumori, Chiho', 'Tsuzaki, Satoru']
+animeVoices	['Itou, Miki', 'Shimizu, Kaori']
+animeStaff	[['Yokoyama, Hiromi', 'Director'], ['Takahashi, Takeo', 'Storyboard'], ['AliceSoft', 'Original Creator'], ['Masudate, Toshihide', 'Chief Animation Director, Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Inumarudashi'
-animeType	b'TV'
+animeTitle	Inumarudashi
+animeType	TV
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.22
 animeUsers	136
 animeRank	
-animePopularity	
-animeDescription	"b""Comedy at a kindergarten. Inumaru-kun is a four-year old boy, who runs about the kindergarten naked below the waist. Yamada Tamako is a new nursery teacher and she is struggling with Inumaru's weird behaviour."""
-animeRelated	[b'Inumarudashi']
-animeCharacters	[b'Yamada, Tamako', b'Inumaru']
-animeVoices	[b'\nKondo, Haruna\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDaichi, Akitarou\n\nEpisode Director\n\n']
+animePopularity	12177
+animeDescription	Comedy at a kindergarten. Inumaru-kun is a four-year old boy, who runs about the kindergarten naked below the waist. Yamada Tamako is a new nursery teacher and she is struggling with Inumaru's weird behaviour.
+animeRelated	['Inumarudashi']
+animeCharacters	['Yamada, Tamako', 'Inumaru']
+animeVoices	['Kondo, Haruna', 'Kobayashi, Yuu']
+animeStaff	[['Daichi, Akitarou', 'Episode Director']]

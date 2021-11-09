@@ -1,5 +1,5 @@
-animeTitle	b'Discipline Zero'
-animeType	b'OVA'
+animeTitle	Discipline Zero
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.56
 animeUsers	4033
 animeRank	
-animePopularity	
-animeDescription	b'Based on the game by Active. \n\nThe hit series Discipline is revived with this new original story set prior to the coming of Hayami Takuro, protagonist of the first series.\n\nMorimoto Leona and Otokawa Saori are newly arrived boarding students at St. Alcadia Academy. Morimoto Leona desires to subjugate every person within the school, severely punishing those who are of no use to her. Even the teachers are not spared. Fellow boarders Yuuki, Ruri and Maiko, who are oblivious of the situation, fall prey to the limitless sexual desires of the male students.'
-animeRelated	[b'Discipline']
-animeCharacters	[b'Morimoto, Leona', b'Otokawa, Saori', b'Nonomura, Ruri', b'Himeki, Karen', b'Nishizaki, Yuri', b'Nishizaki, Momone', b'Kaneda, Maiko', b'Miyagishi, Yuuki', b'Morimoto, Reina', b'Kaori, Matsuno']
-animeVoices	[b'\nHoujou, Asuka\nJapanese\n', b'\nHagiwara, Emiko\nJapanese\n', b'\nNishizawa, Hiroka\nJapanese\n', b'\nKobayashi, Maki\nJapanese\n', b'\nMorota, Kaoru\nJapanese\n', b'\nShimazaki, Haruka\nJapanese\n', b'\nSasagawa, Ayana\nJapanese\n', b'\nAsai, Harumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakagawa, Tatsuto\n\nSound Director\n\n', b'\nMakino, Yukihiro\n\nStoryboard, Key Animation\n\n', b'\nSei Shoujo\n\nOriginal Character Design, Original Creator\n\n', b'\nActive\n\nOriginal Creator\n\n']
+animePopularity	5221
+animeDescription	"Based on the game by Active. 
+
+The hit series Discipline is revived with this new original story set prior to the coming of Hayami Takuro, protagonist of the first series.
+
+Morimoto Leona and Otokawa Saori are newly arrived boarding students at St. Alcadia Academy. Morimoto Leona desires to subjugate every person within the school, severely punishing those who are of no use to her. Even the teachers are not spared. Fellow boarders Yuuki, Ruri and Maiko, who are oblivious of the situation, fall prey to the limitless sexual desires of the male students."
+animeRelated	['Discipline']
+animeCharacters	['Morimoto, Leona', 'Otokawa, Saori', 'Nonomura, Ruri', 'Himeki, Karen', 'Nishizaki, Yuri', 'Nishizaki, Momone', 'Kaneda, Maiko', 'Miyagishi, Yuuki', 'Morimoto, Reina', 'Kaori, Matsuno']
+animeVoices	['Houjou, Asuka', 'Hagiwara, Emiko', 'Nishizawa, Hiroka', 'Kobayashi, Maki', 'Morota, Kaoru', 'Shimazaki, Haruka', 'Sasagawa, Ayana', 'Asai, Harumi']
+animeStaff	[['Nakagawa, Tatsuto', 'Sound Director'], ['Makino, Yukihiro', 'Storyboard, Key Animation'], ['Sei Shoujo', 'Original Character Design, Original Creator'], ['Active', 'Original Creator']]

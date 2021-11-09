@@ -1,5 +1,5 @@
-animeTitle	b'Hajimete no Gal: Hajimete no Bunkasai'
-animeType	b'OVA'
+animeTitle	Hajimete no Gal: Hajimete no Bunkasai
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.49
 animeUsers	27403
 animeRank	
-animePopularity	
-animeDescription	b'Bundled with the limited edition 5th volume of the Hajimete no Gal manga. '
-animeRelated	[b'Hajimete no Gal']
-animeCharacters	[b'Yame, Yukana', b'Hashiba, Junichi']
+animePopularity	2333
+animeDescription	Bundled with the limited edition 5th volume of the Hajimete no Gal manga. 
+animeRelated	['Hajimete no Gal']
+animeCharacters	['Yame, Yukana', 'Hashiba, Junichi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nFurukawa, Hiroyuki\n\nDirector, Character Design\n\n', b'\nIwanaga, Daiji\n\nEpisode Director\n\n', b'\nMomose, Yuuichirou\n\nScript, Series Composition\n\n', b'\nOgawa, Yuuki\n\nAssistant Director\n\n']
+animeStaff	[['Furukawa, Hiroyuki', 'Director, Character Design'], ['Iwanaga, Daiji', 'Episode Director'], ['Momose, Yuuichirou', 'Script, Series Composition'], ['Ogawa, Yuuki', 'Assistant Director']]

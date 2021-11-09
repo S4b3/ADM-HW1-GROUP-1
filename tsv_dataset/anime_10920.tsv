@@ -1,5 +1,5 @@
-animeTitle	b'Nobunaga-sensei no Osanazuma'
-animeType	b'TV'
+animeTitle	Nobunaga-sensei no Osanazuma
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.29
 animeUsers	27158
 animeRank	
-animePopularity	
-animeDescription	"b'""One day, a girl who loves me will suddenly appear before me""\xe2\x80\x94Middle school teacher Nobunaga has always been dreaming of such a gal game-like situation. However, the one who appeared before him was Kichou, a 14-year-old girl who proclaims herself as his wife. Appears to have arrived from the Sengoku era, she mistakes Nobunaga as Nobunaga Oda and urges him to conceive a child with her. Thus begins the age-difference love comedy between a gal game-loving teacher and a Sengoku era expert princess.\n\n(Source: MAL News)'"
-animeRelated	[b'Nobunaga-sensei no Osanazuma']
-animeCharacters	[b'Saitou, Kichou', b'Ikoma, Kitsuno', b'Oda, Nobunaga', b'Hoshigaoka, Yuri', b'Biwajima, Mayu', b'Atsuta, Ranma']
-animeVoices	[b'\nUehara, Akari\nJapanese\n', b'\nOzawa, Ari\nJapanese\n', b'\nSakai, Koudai\nJapanese\n', b'\nTanaka, Marika\nJapanese\n', b'\nYuuzaki, Konomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasaki, Tokihiro\n\nDirector\n\n', b'\nAbe, Nobuyuki\n\nSound Director\n\n', b'\nKuramori, Rokurou\n\nEpisode Director\n\n', b'\nTachibana, Rika\n\nTheme Song Performance\n\n']
+animePopularity	2108
+animeDescription	"""One day, a girl who loves me will suddenly appear before me""—Middle school teacher Nobunaga has always been dreaming of such a gal game-like situation. However, the one who appeared before him was Kichou, a 14-year-old girl who proclaims herself as his wife. Appears to have arrived from the Sengoku era, she mistakes Nobunaga as Nobunaga Oda and urges him to conceive a child with her. Thus begins the age-difference love comedy between a gal game-loving teacher and a Sengoku era expert princess.
+
+(Source: MAL News)"
+animeRelated	['Nobunaga-sensei no Osanazuma']
+animeCharacters	['Saitou, Kichou', 'Ikoma, Kitsuno', 'Oda, Nobunaga', 'Hoshigaoka, Yuri', 'Biwajima, Mayu', 'Atsuta, Ranma']
+animeVoices	['Uehara, Akari', 'Ozawa, Ari', 'Sakai, Koudai', 'Tanaka, Marika', 'Yuuzaki, Konomi']
+animeStaff	[['Sasaki, Tokihiro', 'Director'], ['Abe, Nobuyuki', 'Sound Director'], ['Kuramori, Rokurou', 'Episode Director'], ['Tachibana, Rika', 'Theme Song Performance']]

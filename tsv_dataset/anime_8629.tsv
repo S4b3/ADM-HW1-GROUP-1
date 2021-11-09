@@ -1,5 +1,5 @@
-animeTitle	b'Isuca'
-animeType	b'TV'
+animeTitle	Isuca
+animeType	TV
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.0
 animeUsers	58722
 animeRank	
-animePopularity	
-animeDescription	"b""Poor Shinichirou Asano has the worst of luck. His parents abandoned him and ran off to Europe. If that isn't bad enough on its own, they barely left him any money to take care of himself. In order to pay rent and keep a roof over his head, he has to work. Unfortunately, he was just fired from his last job and as a high school student, he doesn't have many other prospects.\n\nOne evening, he's attacked by a centipede monster on his way home. Shinichirou is saved by a mysterious girl with a bow and arrow, who he later discovers is Sakuya Shimazu, a beautiful student who attends his school. But when he later helps an injured girl, he discovers two things. First, the injured girl isn't human at all but rather a nekomata, a two-tailed demon cat. And second, Sakuya comes from a family of exorcists, who've protected humanity from rogue monsters and spirits for generations. Because Shinichirou was responsible for releasing the nekomata, Sakuya enlists his help in recapturing the demon, but that's just the beginning of Shinichirou's relationship with Sakuya. It turns out the Shimazu family needs a housekeeper and it just so happens that Shinichirou excels at cooking and likes to clean! It may not be his dream job, but if it pays the rent and puts food on the table..."""
-animeRelated	[b'Isuca', b'Isuca: Gokuraku']
-animeCharacters	[b'Shimazu, Sakuya', b'Asano, Shinichirou', b'Tamako', b'Isuca', b'Shimazu, Suseri', b'Souma, Nadeshiko', b'Asano, Father', b'Asano, Mother', b'Ookubo, Naoki', b'Il-Dana']
-animeVoices	[b'\nKido, Ibuki\nJapanese\n', b'\nKoumoto, Keisuke\nJapanese\n', b'\nSadohara, Kaori\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nZougou, Saeko\nJapanese\n', b'\nMaruyama, Takeshi\nJapanese\n', b'\nTakamori, Nao\nJapanese\n', b'\nSakai, Shunsuke\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwanaga, Akira\n\nDirector\n\n', b'\nShimizu, Katsunori\n\nSound Director\n\n', b'\nIshida, Tooru\n\nEpisode Director, Storyboard\n\n', b'\nUmetsu, Yasuomi\n\nStoryboard, Key Animation, Animation Director\n\n']
+animePopularity	1311
+animeDescription	"Poor Shinichirou Asano has the worst of luck. His parents abandoned him and ran off to Europe. If that isn't bad enough on its own, they barely left him any money to take care of himself. In order to pay rent and keep a roof over his head, he has to work. Unfortunately, he was just fired from his last job and as a high school student, he doesn't have many other prospects.
+
+One evening, he's attacked by a centipede monster on his way home. Shinichirou is saved by a mysterious girl with a bow and arrow, who he later discovers is Sakuya Shimazu, a beautiful student who attends his school. But when he later helps an injured girl, he discovers two things. First, the injured girl isn't human at all but rather a nekomata, a two-tailed demon cat. And second, Sakuya comes from a family of exorcists, who've protected humanity from rogue monsters and spirits for generations. Because Shinichirou was responsible for releasing the nekomata, Sakuya enlists his help in recapturing the demon, but that's just the beginning of Shinichirou's relationship with Sakuya. It turns out the Shimazu family needs a housekeeper and it just so happens that Shinichirou excels at cooking and likes to clean! It may not be his dream job, but if it pays the rent and puts food on the table..."
+animeRelated	['Isuca', 'Isuca: Gokuraku']
+animeCharacters	['Shimazu, Sakuya', 'Asano, Shinichirou', 'Tamako', 'Isuca', 'Shimazu, Suseri', 'Souma, Nadeshiko', 'Asano, Father', 'Asano, Mother', 'Ookubo, Naoki', 'Il-Dana']
+animeVoices	['Kido, Ibuki', 'Koumoto, Keisuke', 'Sadohara, Kaori', 'Fujimura, Ayumi', 'Ichimichi, Mao', 'Zougou, Saeko', 'Maruyama, Takeshi', 'Takamori, Nao', 'Sakai, Shunsuke', 'Morikawa, Toshiyuki']
+animeStaff	[['Iwanaga, Akira', 'Director'], ['Shimizu, Katsunori', 'Sound Director'], ['Ishida, Tooru', 'Episode Director, Storyboard'], ['Umetsu, Yasuomi', 'Storyboard, Key Animation, Animation Director']]

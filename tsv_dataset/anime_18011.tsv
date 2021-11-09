@@ -1,5 +1,5 @@
-animeTitle	b'Kimihagu'
-animeType	b'OVA'
+animeTitle	Kimihagu
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.65
 animeUsers	1928
 animeRank	
-animePopularity	
-animeDescription	"b'The main character is in his second year of high school. One day, he falls in love with Kasumi, who has just moved to his school. But he is too shy to talk to her. Minami, his childhood friend, advises him to join the ""Love Club"". This club is to help the students who are in love take action. He immediately joins it, and Kasumi also joins the club. It seems she is in love with someone but has no courage to tell her love to him. He is happy to become friends with Kasumi, but she loves someone else....\n\n(Source: ErogeShop)'"
+animePopularity	6943
+animeDescription	"The main character is in his second year of high school. One day, he falls in love with Kasumi, who has just moved to his school. But he is too shy to talk to her. Minami, his childhood friend, advises him to join the ""Love Club"". This club is to help the students who are in love take action. He immediately joins it, and Kasumi also joins the club. It seems she is in love with someone but has no courage to tell her love to him. He is happy to become friends with Kasumi, but she loves someone else....
+
+(Source: ErogeShop)"
 animeRelated	[]
-animeCharacters	[b'Yuzuki, Minami', b'Serizawa, Madoka', b'Sakurano, Miren', b'Kizaki, Kensuke', b'Shiina, Kasumi', b'Yuuki, Emiri']
-animeVoices	[b'\nKobayashi, Maki\nJapanese\n', b'\nIchimura, Oma\nJapanese\n', b'\nHagiwara, Emiko\nJapanese\n', b'\nOkajima, Tae\nJapanese\n', b'\nTaguchi, Hiroko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurakami, Kotaro\n\nProducer\n\n', b'\nSunaga, Naruhito\n\nScript, Screenplay\n\n', b'\nFront Wing\n\nOriginal Creator\n\n', b'\nShibata, Shirou\n\nAnimation Director\n\n']
+animeCharacters	['Yuzuki, Minami', 'Serizawa, Madoka', 'Sakurano, Miren', 'Kizaki, Kensuke', 'Shiina, Kasumi', 'Yuuki, Emiri']
+animeVoices	['Kobayashi, Maki', 'Ichimura, Oma', 'Hagiwara, Emiko', 'Okajima, Tae', 'Taguchi, Hiroko']
+animeStaff	[['Murakami, Kotaro', 'Producer'], ['Sunaga, Naruhito', 'Script, Screenplay'], ['Front Wing', 'Original Creator'], ['Shibata, Shirou', 'Animation Director']]

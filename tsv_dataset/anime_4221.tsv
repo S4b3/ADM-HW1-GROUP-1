@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon 3D Adventure 2: Pikachu no Kaitei Daibouken'
-animeType	b'Movie'
+animeTitle	Pokemon 3D Adventure 2: Pikachu no Kaitei Daibouken
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.89
 animeUsers	3482
 animeRank	
-animePopularity	
-animeDescription	b'When Pikachu and friends decide to stop by a tropical island for some rest and relaxation, they got more than they had bargained for after Chatot discovers a Treasure Map! They follow the map to Wailord\xe2\x80\x99s Tear, a mysterious place located in a sunken pirate ship. Will Pikachu and friends find the treasure? What mysteries and dangers are in store? Will our pals return safely? Find out in Pikachu\xe2\x80\x99s Ocean Adventure! \n\n(Source: Bulbapedia)'
-animeRelated	[b'Pokemon Advanced Generation', b'Pokemon 3D Adventure: Mew wo Sagase!']
-animeCharacters	[b'Pikachu', b'Nyarth']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nAsada, Yuuji\n\nEpisode Director, Storyboard\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n', b'\nSugimori, Ken\n\nOriginal Character Design\n\n']
+animePopularity	5562
+animeDescription	"When Pikachu and friends decide to stop by a tropical island for some rest and relaxation, they got more than they had bargained for after Chatot discovers a Treasure Map! They follow the map to Wailord’s Tear, a mysterious place located in a sunken pirate ship. Will Pikachu and friends find the treasure? What mysteries and dangers are in store? Will our pals return safely? Find out in Pikachu’s Ocean Adventure! 
+
+(Source: Bulbapedia)"
+animeRelated	['Pokemon Advanced Generation', 'Pokemon 3D Adventure: Mew wo Sagase!']
+animeCharacters	['Pikachu', 'Nyarth']
+animeVoices	['Ootani, Ikue', 'Inuyama, Inuko']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Asada, Yuuji', 'Episode Director, Storyboard'], ['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design']]

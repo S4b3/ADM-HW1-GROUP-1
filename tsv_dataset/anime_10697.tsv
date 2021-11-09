@@ -1,5 +1,5 @@
-animeTitle	b'Akai Hayate'
-animeType	b'OVA'
+animeTitle	Akai Hayate
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.39
 animeUsers	536
 animeRank	
-animePopularity	
-animeDescription	"b""Japan is secretly controlled by a tyrannical group of ninjas called the Shinogara. Their finest assassin is a man named Hayate Kanuma, whose father leads the Shinogara. \n\nHayate, however, knows that the secret society's control over Japan is wrong. Sacrificing his own safety, Hayate kills his father. Now he's on the run, safe almost nowhere from his vengeful former comrades except perhaps for the one hiding place he decides upon: his sister. After possibly being fatally wounded, Hayate is able to transfer his soul into his sister's body, temporarily sharing it with her. His sister, Shiori, can awaken Hayate and call upon his ninja abilities when the Shinogara are close at hand but each time she does so, a little more of her true self is lost. This arrangement can't possibly go on forever, so how will Hayate finally defeat the Shinogara? \n\n(Source: Cammila Albertson)"""
-animeRelated	[b'Abashiri Ikka', b'Yumemakura Baku Twilight Gekijou', b'Eguchi Hisashi no Kotobuki Gorou Show']
-animeCharacters	[b'Kanuma, Hayate', b'Serizawa, Miyabi', b'Kuroda, Sanetsuna', b'Kurama, Genbu', b'Satomi, Shuri', b'Nagase, Jun', b'Kanuma, Shiori', b'Narrator', b'Date, Ikkaku', b'Harada, Genji']
-animeVoices	[b'\nInoue, Kazuhiko\nJapanese\n', b'\nNagayama, Akemi\nJapanese\n', b'\nYanada, Kiyoyuki\nJapanese\n', b'\nKashiwakura, Tsutomu\nJapanese\n', b'\nGouda, Hozumi\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nTamagawa, Sakiko\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuruyama, Osamu\n\nDirector, Storyboard, Key Animation\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nYamasaki, Osamu\n\nScript\n\n', b'\nOobari, Masami\n\nStoryboard, Key Animation\n\n']
+animePopularity	9607
+animeDescription	"Japan is secretly controlled by a tyrannical group of ninjas called the Shinogara. Their finest assassin is a man named Hayate Kanuma, whose father leads the Shinogara. 
+
+Hayate, however, knows that the secret society's control over Japan is wrong. Sacrificing his own safety, Hayate kills his father. Now he's on the run, safe almost nowhere from his vengeful former comrades except perhaps for the one hiding place he decides upon: his sister. After possibly being fatally wounded, Hayate is able to transfer his soul into his sister's body, temporarily sharing it with her. His sister, Shiori, can awaken Hayate and call upon his ninja abilities when the Shinogara are close at hand but each time she does so, a little more of her true self is lost. This arrangement can't possibly go on forever, so how will Hayate finally defeat the Shinogara? 
+
+(Source: Cammila Albertson)"
+animeRelated	['Abashiri Ikka', 'Yumemakura Baku Twilight Gekijou', 'Eguchi Hisashi no Kotobuki Gorou Show']
+animeCharacters	['Kanuma, Hayate', 'Serizawa, Miyabi', 'Kuroda, Sanetsuna', 'Kurama, Genbu', 'Satomi, Shuri', 'Nagase, Jun', 'Kanuma, Shiori', 'Narrator', 'Date, Ikkaku', 'Harada, Genji']
+animeVoices	['Inoue, Kazuhiko', 'Nagayama, Akemi', 'Yanada, Kiyoyuki', 'Kashiwakura, Tsutomu', 'Gouda, Hozumi', 'Seki, Toshihiko', 'Tamagawa, Sakiko', 'Genda, Tesshou', 'Yao, Kazuki', 'Nakao, Ryusei']
+animeStaff	[['Tsuruyama, Osamu', 'Director, Storyboard, Key Animation'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Yamasaki, Osamu', 'Script'], ['Oobari, Masami', 'Storyboard, Key Animation']]

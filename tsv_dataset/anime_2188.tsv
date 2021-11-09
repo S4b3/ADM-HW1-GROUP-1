@@ -1,5 +1,5 @@
-animeTitle	b'Bishoujo Senshi Sailor Moon Memorial'
-animeType	b'OVA'
+animeTitle	Bishoujo Senshi Sailor Moon Memorial
+animeType	OVA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.35
 animeUsers	5460
 animeRank	
-animePopularity	
-animeDescription	b'A summary of each season of the Sailor Moon franchise, narrated by various Sailor Moon characters.'
-animeRelated	[b'Bishoujo Senshi Sailor Moon', b'Bishoujo Senshi Sailor Moon S', b'Bishoujo Senshi Sailor Moon R', b'Bishoujo Senshi Sailor Moon: Sailor Stars', b'Bishoujo Senshi Sailor Moon SuperS']
-animeCharacters	[b'Tsukino, Usagi', b'Hino, Rei', b'Kino, Makoto', b'Aino, Minako', b'Mizuno, Ami', b'Chiba, Mamoru', b'Chibiusa', b'Luna', b'Tomoe, Hotaru', b'Tenou, Haruka']
-animeVoices	[b'\nMitsuishi, Kotono\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nFukami, Rica\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nAraki, Kae\nJapanese\n', b'\nHan, Keiko\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n', b'\nOgata, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakeuchi, Naoko\n\nOriginal Creator\n\n']
+animePopularity	4438
+animeDescription	A summary of each season of the Sailor Moon franchise, narrated by various Sailor Moon characters.
+animeRelated	['Bishoujo Senshi Sailor Moon', 'Bishoujo Senshi Sailor Moon S', 'Bishoujo Senshi Sailor Moon R', 'Bishoujo Senshi Sailor Moon: Sailor Stars', 'Bishoujo Senshi Sailor Moon SuperS']
+animeCharacters	['Tsukino, Usagi', 'Hino, Rei', 'Kino, Makoto', 'Aino, Minako', 'Mizuno, Ami', 'Chiba, Mamoru', 'Chibiusa', 'Luna', 'Tomoe, Hotaru', 'Tenou, Haruka']
+animeVoices	['Mitsuishi, Kotono', 'Tomizawa, Michie', 'Shinohara, Emi', 'Fukami, Rica', 'Hisakawa, Aya', 'Furuya, Toru', 'Araki, Kae', 'Han, Keiko', 'Minaguchi, Yuko', 'Ogata, Megumi']
+animeStaff	[['Takeuchi, Naoko', 'Original Creator']]

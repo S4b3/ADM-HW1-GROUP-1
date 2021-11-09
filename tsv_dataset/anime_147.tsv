@@ -1,5 +1,5 @@
-animeTitle	b'Kara no Kyoukai 7: Satsujin Kousatsu (Go)'
-animeType	b'Movie'
+animeTitle	Kara no Kyoukai 7: Satsujin Kousatsu (Go)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.42
 animeUsers	97486
 animeRank	
-animePopularity	
-animeDescription	"b""In February 1999, a string of murders has Shiki Ryougi and Mikiya Kokutou on edge. These crimes share a disturbing resemblance to a similar set of homicides from 1995, when Shiki and Mikiya first met, and awaken a dark, murderous desire that has laid dormant within Shiki's soul ever since then.\n\nWith Shiki under suspicion due to her involvement in the past killings and supposed resemblance to the killer, she and Mikiya set out to find the true perpetrator. In the midst of their separate investigations, Mikiya grows increasingly concerned with Shiki's well-being and hurries to find the one responsible in order to protect Shiki from her own impulses. With the lead he receives from his cousin, police investigator Daisuke Akimi, Mikiya is led into the underbelly of Mifune City, as the salvation of Shiki's soul lies in his determination to prove her innocence once and for all.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kara no Kyoukai: The Garden of Sinners', b'Kara no Kyoukai 6: Boukyaku Rokuon', b'Kara no Kyoukai 8: Shuushou', b'Kara no Kyoukai: Manner Movies']
-animeCharacters	[b'Ryougi, Shiki', b'Kokutou, Mikiya', b'Shirazumi, Lio', b'Aozaki, Touko', b'Kokutou, Azaka', b'Araya, Souren', b'Akimi, Daisuke', b'Gakuto', b'Hotaruzuka, Otoko']
-animeVoices	[b'\nSakamoto, Maaya\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nHonda, Takako\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n', b'\nTakahashi, Kenji\nJapanese\n', b'\nKaida, Yuuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwakami, Atsuhiro\n\nProducer\n\n', b'\nKondou, Hikaru\n\nProducer\n\n', b'\nTakizawa, Shinsuke\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n']
+animePopularity	978
+animeDescription	"In February 1999, a string of murders has Shiki Ryougi and Mikiya Kokutou on edge. These crimes share a disturbing resemblance to a similar set of homicides from 1995, when Shiki and Mikiya first met, and awaken a dark, murderous desire that has laid dormant within Shiki's soul ever since then.
+
+With Shiki under suspicion due to her involvement in the past killings and supposed resemblance to the killer, she and Mikiya set out to find the true perpetrator. In the midst of their separate investigations, Mikiya grows increasingly concerned with Shiki's well-being and hurries to find the one responsible in order to protect Shiki from her own impulses. With the lead he receives from his cousin, police investigator Daisuke Akimi, Mikiya is led into the underbelly of Mifune City, as the salvation of Shiki's soul lies in his determination to prove her innocence once and for all.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kara no Kyoukai: The Garden of Sinners', 'Kara no Kyoukai 6: Boukyaku Rokuon', 'Kara no Kyoukai 8: Shuushou', 'Kara no Kyoukai: Manner Movies']
+animeCharacters	['Ryougi, Shiki', 'Kokutou, Mikiya', 'Shirazumi, Lio', 'Aozaki, Touko', 'Kokutou, Azaka', 'Araya, Souren', 'Akimi, Daisuke', 'Gakuto', 'Hotaruzuka, Otoko']
+animeVoices	['Sakamoto, Maaya', 'Suzumura, Kenichi', 'Hoshi, Souichirou', 'Honda, Takako', 'Fujimura, Ayumi', 'Nakata, Jouji', 'Touchi, Hiroki', 'Takahashi, Kenji', 'Kaida, Yuuko']
+animeStaff	[['Iwakami, Atsuhiro', 'Producer'], ['Kondou, Hikaru', 'Producer'], ['Takizawa, Shinsuke', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director']]

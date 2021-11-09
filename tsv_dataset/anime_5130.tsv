@@ -1,5 +1,5 @@
-animeTitle	b'Seton Doubutsuki'
-animeType	b'TV'
+animeTitle	Seton Doubutsuki
+animeType	TV
 animeNumEpisode	45
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	6.69
 animeUsers	131
 animeRank	
-animePopularity	
-animeDescription	"b'Documentary in which the achievement of Ernest ""Black Wolf"" Thompson is settled in different Episodes. Every single episode is a documentary in which one sort of Animal is described.\n'"
-animeRelated	[b'Seton Doubutsuki: Kuma no Ko Jacky']
-animeCharacters	[b'Seton, Ernest']
+animePopularity	12695
+animeDescription	"Documentary in which the achievement of Ernest ""Black Wolf"" Thompson is settled in different Episodes. Every single episode is a documentary in which one sort of Animal is described.
+"
+animeRelated	['Seton Doubutsuki: Kuma no Ko Jacky']
+animeCharacters	['Seton, Ernest']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nShirato, Takeshi\n\nDirector\n\n', b'\nNitta, Yoshikata\n\nEpisode Director, Storyboard\n\n', b'\nIshikawa, Yasuo\n\nEpisode Director, Storyboard\n\n', b'\nDreaming\n\nTheme Song Performance\n\n']
+animeStaff	[['Shirato, Takeshi', 'Director'], ['Nitta, Yoshikata', 'Episode Director, Storyboard'], ['Ishikawa, Yasuo', 'Episode Director, Storyboard'], ['Dreaming', 'Theme Song Performance']]

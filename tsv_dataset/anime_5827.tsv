@@ -1,5 +1,5 @@
-animeTitle	b'Shi Xiong'
-animeType	b'ONA'
+animeTitle	Shi Xiong
+animeType	ONA
 animeNumEpisode	41
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.56
 animeUsers	652
 animeRank	
-animePopularity	
-animeDescription	b'Protagonist XiaoFei used to be an ordinary guy from H city. After the spring water was contaminated with a virus, however, he unexpectedly encountered an unprecedented crisis. The people living in H City became zombies one by one, devouring each other, and gradually evolving. Can XiaoFei escape from H city and meet up with his girlfriend Wei? The story now begins...\n\n(Source: The Faiien Scans)'
-animeRelated	[b'Wo Jiao Bai Xiaofei']
-animeCharacters	[b'Bai, Xiaofei']
+animePopularity	8645
+animeDescription	"Protagonist XiaoFei used to be an ordinary guy from H city. After the spring water was contaminated with a virus, however, he unexpectedly encountered an unprecedented crisis. The people living in H City became zombies one by one, devouring each other, and gradually evolving. Can XiaoFei escape from H city and meet up with his girlfriend Wei? The story now begins...
+
+(Source: The Faiien Scans)"
+animeRelated	['Wo Jiao Bai Xiaofei']
+animeCharacters	['Bai, Xiaofei']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nLi, Shujie\n\nDirector\n\n', b'\nLu, Hengyu\n\nDirector\n\n']
+animeStaff	[['Li, Shujie', 'Director'], ['Lu, Hengyu', 'Director']]

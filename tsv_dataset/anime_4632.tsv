@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon: Pikachu to Eievui Friends'
-animeType	b'Movie'
+animeTitle	Pokemon: Pikachu to Eievui Friends
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.8
 animeUsers	3806
 animeRank	
-animePopularity	
-animeDescription	"b'The 25th Pikachu short, set to premiere alongside the 16th movie of the Pokemon franchise, ""Pokemon Best Wishes! Season 2: Shinsoku no Genosect"".'"
-animeRelated	[b'Pokemon Movie 16: Shinsoku no Genosect - Mewtwo Kakusei', b'Pokemon Best Wishes! Season 2: Decolora Adventure']
-animeCharacters	[b'Pikachu', b'Nyarth', b'Eevee', b'Soonansu', b'Narrator']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nNishimura, Chinami\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nMaeda, Atsuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n', b'\nSugimori, Ken\n\nOriginal Character Design\n\n', b'\nWayland, Tom\n\nADR Director\n\n']
+animePopularity	5678
+animeDescription	"The 25th Pikachu short, set to premiere alongside the 16th movie of the Pokemon franchise, ""Pokemon Best Wishes! Season 2: Shinsoku no Genosect""."
+animeRelated	['Pokemon Movie 16: Shinsoku no Genosect - Mewtwo Kakusei', 'Pokemon Best Wishes! Season 2: Decolora Adventure']
+animeCharacters	['Pikachu', 'Nyarth', 'Eevee', 'Soonansu', 'Narrator']
+animeVoices	['Ootani, Ikue', 'Inuyama, Inuko', 'Nishimura, Chinami', 'Ueda, Yuuji', 'Maeda, Atsuko']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design'], ['Wayland, Tom', 'ADR Director']]

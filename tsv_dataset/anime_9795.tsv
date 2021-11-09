@@ -1,5 +1,5 @@
-animeTitle	b'Kumo to Tulip'
-animeType	b'Movie'
+animeTitle	Kumo to Tulip
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.69
 animeUsers	1053
 animeRank	
-animePopularity	
-animeDescription	b'A spider attempts to lure a ladybug into his web. When she manages to escape and hide in a tulip, a storm comes that batters the spider, while the ladybug remains safe.'
+animePopularity	9534
+animeDescription	A spider attempts to lure a ladybug into his web. When she manages to escape and hide in a tulip, a storm comes that batters the spider, while the ladybug remains safe.
 animeRelated	[]
-animeCharacters	[b'Spider', b'Ladybug']
-animeVoices	[b'\nMurao, Gorou\nJapanese\n', b'\nSugiyama, Yoshiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasaoka, Kenzou\n\nDirector, Episode Director, Script, Director of Photography\n\n', b'\nKumaki, Kiichirou\n\nPlanning\n\n', b'\nKumakawa, Masao\n\nIn-Between Animation\n\n']
+animeCharacters	['Spider', 'Ladybug']
+animeVoices	['Murao, Gorou', 'Sugiyama, Yoshiko']
+animeStaff	[['Masaoka, Kenzou', 'Director, Episode Director, Script, Director of Photography'], ['Kumaki, Kiichirou', 'Planning'], ['Kumakawa, Masao', 'In-Between Animation']]

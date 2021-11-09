@@ -1,5 +1,5 @@
-animeTitle	b'Seto no Hanayome Fan Disc'
-animeType	b'Special'
+animeTitle	Seto no Hanayome Fan Disc
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	7.01
 animeUsers	2229
 animeRank	
-animePopularity	
-animeDescription	"b""Fan discs containing shorts that weren't included in the TV series. \n\n1. Aoi Koi-hen\n2. Ibara Koiji-hen\n\nMusic videos from both discs are not included in the entry, as they don't contain any new scenes.\n\nThe same specials were included in the Blueray box set, but divided into 6 episodes of 2 minutes each."""
-animeRelated	[b'Seto no Hanayome']
-animeCharacters	[b'Seto, Sun', b'Masa', b'Michishio, Nagasumi', b'Edomae, Lunar']
+animePopularity	5909
+animeDescription	"Fan discs containing shorts that weren't included in the TV series. 
+
+1. Aoi Koi-hen
+2. Ibara Koiji-hen
+
+Music videos from both discs are not included in the entry, as they don't contain any new scenes.
+
+The same specials were included in the Blueray box set, but divided into 6 episodes of 2 minutes each."
+animeRelated	['Seto no Hanayome']
+animeCharacters	['Seto, Sun', 'Masa', 'Michishio, Nagasumi', 'Edomae, Lunar']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKitamura, Eri\n\nInserted Song Performance\n\n', b'\nMomoi, Haruko\n\nInserted Song Performance\n\n', b'\nNogawa, Sakura\n\nInserted Song Performance\n\n', b'\nMorinaga, Rika\n\nInserted Song Performance\n\n']
+animeStaff	[['Kitamura, Eri', 'Inserted Song Performance'], ['Momoi, Haruko', 'Inserted Song Performance'], ['Nogawa, Sakura', 'Inserted Song Performance'], ['Morinaga, Rika', 'Inserted Song Performance']]

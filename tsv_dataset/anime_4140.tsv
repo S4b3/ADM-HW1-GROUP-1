@@ -1,5 +1,5 @@
-animeTitle	b'Servamp'
-animeType	b'TV'
+animeTitle	Servamp
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.91
 animeUsers	91800
 animeRank	
-animePopularity	
-animeDescription	"b""Mahiru Shirota firmly believes that simple is best and troublesome things should be avoided at all costs. It is troublesome to do nothing and regret it later\xe2\x80\x94and this ideology has led the 15-year-old to pick up a stray cat on his way home from school. As he affectionately names the feline Kuro, little does he know that this chance meeting will spark an extraordinary change in his everyday life.\n\nOne day, Mahiru returns home to find something quite strange: a mysterious young man he has never seen before. His subsequent panic results in the uninvited guest being exposed to sunlight and\xe2\x80\x94much to Mahiru's shock\xe2\x80\x94transforming into Kuro! Upon revealing himself as a mere lazy shut-in vampire, Kuro promises to leave once night falls. However, one disaster after another leads to Mahiru accidentally forming a contract with his new freeloader, dragging him into a life-threatening battle of supernatural servants and bloodthirsty beings that is anything but simple.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Servamp', b'Servamp Specials', b'Servamp Movie: Alice in the Garden']
-animeCharacters	[b'Kuro', b'Shirota, Mahiru', b'Hyde', b'Todoroki, Licht Jekylland', b'Tsubaki', b'Watanuki, Sakuya', b'Arisuin, Misono', b'Kamiya, Tsurugi', b'Snow Lily', b'Arisuin, Mikuni']
-animeVoices	[b'\nKaji, Yuki\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nSuzuki, Yuto\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nHorie, Kazuma\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakano, Hideaki\n\nDirector\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nTerashima, Takuma\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nRe: OLDCODEX\n\nTheme Song Performance\n\n']
+animePopularity	775
+animeDescription	"Mahiru Shirota firmly believes that simple is best and troublesome things should be avoided at all costs. It is troublesome to do nothing and regret it later—and this ideology has led the 15-year-old to pick up a stray cat on his way home from school. As he affectionately names the feline Kuro, little does he know that this chance meeting will spark an extraordinary change in his everyday life.
+
+One day, Mahiru returns home to find something quite strange: a mysterious young man he has never seen before. His subsequent panic results in the uninvited guest being exposed to sunlight and—much to Mahiru's shock—transforming into Kuro! Upon revealing himself as a mere lazy shut-in vampire, Kuro promises to leave once night falls. However, one disaster after another leads to Mahiru accidentally forming a contract with his new freeloader, dragging him into a life-threatening battle of supernatural servants and bloodthirsty beings that is anything but simple.
+
+[Written by MAL Rewrite]"
+animeRelated	['Servamp', 'Servamp Specials', 'Servamp Movie: Alice in the Garden']
+animeCharacters	['Kuro', 'Shirota, Mahiru', 'Hyde', 'Todoroki, Licht Jekylland', 'Tsubaki', 'Watanuki, Sakuya', 'Arisuin, Misono', 'Kamiya, Tsurugi', 'Snow Lily', 'Arisuin, Mikuni']
+animeVoices	['Kaji, Yuki', 'Terashima, Takuma', 'Kimura, Ryouhei', 'Shimazaki, Nobunaga', 'Suzuki, Tatsuhisa', 'Suzuki, Yuto', 'Shimono, Hiro', 'Kamiya, Hiroshi', 'Horie, Kazuma', 'Kakihara, Tetsuya']
+animeStaff	[['Nakano, Hideaki', 'Director'], ['Kameyama, Toshiki', 'Sound Director'], ['Terashima, Takuma', 'Theme Song Performance, Inserted Song Performance'], ['Re: OLDCODEX', 'Theme Song Performance']]

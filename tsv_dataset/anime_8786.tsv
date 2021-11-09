@@ -1,5 +1,5 @@
-animeTitle	b'Gon 2nd Season'
-animeType	b'TV'
+animeTitle	Gon 2nd Season
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.97
 animeUsers	159
 animeRank	
-animePopularity	
-animeDescription	b'Continuation of the Gon series.'
-animeRelated	[b'Gon']
-animeCharacters	[b'Gon']
-animeVoices	[b'\nKumai, Motoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Masashi\n\nOriginal Creator\n\n']
+animePopularity	13028
+animeDescription	Continuation of the Gon series.
+animeRelated	['Gon']
+animeCharacters	['Gon']
+animeVoices	['Kumai, Motoko']
+animeStaff	[['Tanaka, Masashi', 'Original Creator']]

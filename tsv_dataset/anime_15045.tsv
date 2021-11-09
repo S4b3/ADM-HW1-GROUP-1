@@ -1,5 +1,5 @@
-animeTitle	b'Bokura Mangaka: Tokiwasou Monogatari'
-animeType	b'Special'
+animeTitle	Bokura Mangaka: Tokiwasou Monogatari
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Tokiwa was the apartment complex where a group of stellar artists lived in 1953.\n\nHiro Terada, Motoo Abiko and Hiroshi Fujimoto, Shotaro Ishinomori, and Fujio Akatsuka shared the trials and tribulations of being struggling young artists and writers with no money and no luck with editors or girls, with a spirit of insane youthful enthusiasm that enabled them to survive the lean years and emerge as stars of the manga firmament.\n\n(Source: AniDB)'
+animePopularity	13999
+animeDescription	"Tokiwa was the apartment complex where a group of stellar artists lived in 1953.
+
+Hiro Terada, Motoo Abiko and Hiroshi Fujimoto, Shotaro Ishinomori, and Fujio Akatsuka shared the trials and tribulations of being struggling young artists and writers with no money and no luck with editors or girls, with a spirit of insane youthful enthusiasm that enabled them to survive the lean years and emerge as stars of the manga firmament.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Fujimoto, Hiroshi', b'Akatsuka, Fujio', b'Ishinomori, Shotaro', b'Fujiko, Fujio A', b'Tsunoda, Jiro', b'Narrator']
-animeVoices	[b'\nTanaka, Hideyuki\nJapanese\n', b'\nMori, Katsuji\nJapanese\n', b'\nTomiyama, Kei\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nYanami, Jouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Shinichi\n\nDirector\n\n', b'\nYamamoto, Kotaro\n\nTheme Song Performance\n\n', b'\nIshinomori, Shoutarou\n\nCharacter Design, Animation Director\n\n', b'\nKouzai, Takao\n\nAnimation Director\n\n']
+animeCharacters	['Fujimoto, Hiroshi', 'Akatsuka, Fujio', 'Ishinomori, Shotaro', 'Fujiko, Fujio A', 'Tsunoda, Jiro', 'Narrator']
+animeVoices	['Tanaka, Hideyuki', 'Mori, Katsuji', 'Tomiyama, Kei', 'Inoue, Makio', 'Shiozawa, Kaneto', 'Yanami, Jouji']
+animeStaff	[['Suzuki, Shinichi', 'Director'], ['Yamamoto, Kotaro', 'Theme Song Performance'], ['Ishinomori, Shoutarou', 'Character Design, Animation Director'], ['Kouzai, Takao', 'Animation Director']]

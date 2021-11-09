@@ -1,5 +1,5 @@
-animeTitle	b'The Last: Naruto the Movie'
-animeType	b'Movie'
+animeTitle	The Last: Naruto the Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.77
 animeUsers	305839
 animeRank	
-animePopularity	
-animeDescription	"b""Two years have passed since the end of the Fourth Great Ninja War. Konohagakure has remained in a state of peace and harmony\xe2\x80\x94until Sixth Hokage Kakashi Hatake notices the moon is dangerously approaching the Earth, posing the threat of planetary ruin.\n\nAmidst the grave ordeal, the Konoha is invaded by a new evil, Toneri Oosutuski, who suddenly abducts Hinata Hyuuga's little sister Hanabi. Kakashi dispatches a skilled ninja team comprised of Naruto Uzumaki, Sakura Haruno, Shikamaru Nara, Sai, and Hinata in an effort to rescue Hanabi from the diabolical clutches of Toneri. However, during their mission, the team faces several obstacles that challenge them, foiling their efforts.\n\nWith her abduction, the relationships the team share with one another are tested, and with the world reaching the brink of destruction, they must race against time to ensure the safety of their planet. Meanwhile, as the battle ensues, Naruto is driven to fight for something greater than he has ever imagined\xe2\x80\x94love.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'The Last: Naruto the Movie', b'Naruto: Shippuuden']
-animeCharacters	[b'Uzumaki, Naruto', b'Nara, Shikamaru', b'Hyuuga, Hinata', b'Haruno, Sakura', b'Sai', b'Ootsutsuki, Toneri', b'Hatake, Kakashi', b'Uchiha, Sasuke', b'Gaara', b'Pain']
-animeVoices	[b'\nTakeuchi, Junko\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nNakamura, Chie\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Tsuneo\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nKyouzuka, Maruo\n\nScript\n\n', b'\nYamashita, Hiroyuki\n\nStoryboard, Animation Director, Key Animation\n\n']
+animePopularity	353
+animeDescription	"Two years have passed since the end of the Fourth Great Ninja War. Konohagakure has remained in a state of peace and harmony—until Sixth Hokage Kakashi Hatake notices the moon is dangerously approaching the Earth, posing the threat of planetary ruin.
+
+Amidst the grave ordeal, the Konoha is invaded by a new evil, Toneri Oosutuski, who suddenly abducts Hinata Hyuuga's little sister Hanabi. Kakashi dispatches a skilled ninja team comprised of Naruto Uzumaki, Sakura Haruno, Shikamaru Nara, Sai, and Hinata in an effort to rescue Hanabi from the diabolical clutches of Toneri. However, during their mission, the team faces several obstacles that challenge them, foiling their efforts.
+
+With her abduction, the relationships the team share with one another are tested, and with the world reaching the brink of destruction, they must race against time to ensure the safety of their planet. Meanwhile, as the battle ensues, Naruto is driven to fight for something greater than he has ever imagined—love.
+
+[Written by MAL Rewrite]"
+animeRelated	['The Last: Naruto the Movie', 'Naruto: Shippuuden']
+animeCharacters	['Uzumaki, Naruto', 'Nara, Shikamaru', 'Hyuuga, Hinata', 'Haruno, Sakura', 'Sai', 'Ootsutsuki, Toneri', 'Hatake, Kakashi', 'Uchiha, Sasuke', 'Gaara', 'Pain']
+animeVoices	['Takeuchi, Junko', 'Morikubo, Shoutarou', 'Mizuki, Nana', 'Nakamura, Chie', 'Hino, Satoshi', 'Fukuyama, Jun', 'Inoue, Kazuhiko', 'Sugiyama, Noriaki', 'Ishida, Akira', 'Horiuchi, Kenyuu']
+animeStaff	[['Kobayashi, Tsuneo', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Kyouzuka, Maruo', 'Script'], ['Yamashita, Hiroyuki', 'Storyboard, Animation Director, Key Animation']]

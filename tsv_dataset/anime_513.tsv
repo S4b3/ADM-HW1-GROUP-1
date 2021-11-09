@@ -1,5 +1,5 @@
-animeTitle	b'Clannad'
-animeType	b'TV'
+animeTitle	Clannad
+animeType	TV
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,17 @@ animeNumMembers
 animeScore	8.03
 animeUsers	652338
 animeRank	
-animePopularity	
-animeDescription	"b'Tomoya Okazaki is a delinquent who finds life dull and believes he\'ll never amount to anything. Along with his friend Youhei Sunohara, he skips school and plans to waste his high school days away.\n\nOne day while walking to school, Tomoya passes a young girl muttering quietly to herself. Without warning she exclaims ""Anpan!"" (a popular Japanese food) which catches Tomoya\'s attention. He soon discovers the girl\'s name is Nagisa Furukawa and that she exclaims things she likes in order to motivate herself. Nagisa claims they are now friends, but Tomoya walks away passing the encounter off as nothing.\n\nHowever, Tomoya finds he is noticing Nagisa more and more around school. Eventually he concedes and befriends her. Tomoya learns Nagisa has been held back a year due to a severe illness and that her dream is to revive the school\'s drama club. Claiming he has nothing better to do, he decides to help her achieve this goal along with the help of four other girls.\n\nAs Tomoya spends more time with the girls, he learns more about them and their problems. As he attempts to help each girl overcome her respective obstacle, he begins to realize life isn\'t as dull as he once thought.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Clannad', b'Clannad: Hikaru Mimamoru Sakamichi de', b'Clannad Movie', b'Clannad: Mou Hitotsu no Sekai, Tomoyo-hen', b'Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen', b'Clannad: After Story']
-animeCharacters	[b'Okazaki, Tomoya', b'Furukawa, Nagisa', b'Sakagami, Tomoyo', b'Fujibayashi, Kyou', b'Ibuki, Fuuko', b'Ichinose, Kotomi', b'Sunohara, Youhei', b'Fujibayashi, Ryou', b'Furukawa, Akio', b'Furukawa, Sanae']
-animeVoices	[b'\nNakamura, Yuuichi\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n', b'\nNonaka, Ai\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nKanda, Akemi\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHatta, Youko\n\nProducer\n\n', b'\nNakamura, Shinichi\n\nProducer\n\n', b'\nIshihara, Tatsuya\n\nDirector, Episode Director, Storyboard\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n']
+animePopularity	72
+animeDescription	"Tomoya Okazaki is a delinquent who finds life dull and believes he'll never amount to anything. Along with his friend Youhei Sunohara, he skips school and plans to waste his high school days away.
+
+One day while walking to school, Tomoya passes a young girl muttering quietly to herself. Without warning she exclaims ""Anpan!"" (a popular Japanese food) which catches Tomoya's attention. He soon discovers the girl's name is Nagisa Furukawa and that she exclaims things she likes in order to motivate herself. Nagisa claims they are now friends, but Tomoya walks away passing the encounter off as nothing.
+
+However, Tomoya finds he is noticing Nagisa more and more around school. Eventually he concedes and befriends her. Tomoya learns Nagisa has been held back a year due to a severe illness and that her dream is to revive the school's drama club. Claiming he has nothing better to do, he decides to help her achieve this goal along with the help of four other girls.
+
+As Tomoya spends more time with the girls, he learns more about them and their problems. As he attempts to help each girl overcome her respective obstacle, he begins to realize life isn't as dull as he once thought.
+
+[Written by MAL Rewrite]"
+animeRelated	['Clannad', 'Clannad: Hikaru Mimamoru Sakamichi de', 'Clannad Movie', 'Clannad: Mou Hitotsu no Sekai, Tomoyo-hen', 'Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen', 'Clannad: After Story']
+animeCharacters	['Okazaki, Tomoya', 'Furukawa, Nagisa', 'Sakagami, Tomoyo', 'Fujibayashi, Kyou', 'Ibuki, Fuuko', 'Ichinose, Kotomi', 'Sunohara, Youhei', 'Fujibayashi, Ryou', 'Furukawa, Akio', 'Furukawa, Sanae']
+animeVoices	['Nakamura, Yuuichi', 'Nakahara, Mai', 'Kuwashima, Houko', 'Hirohashi, Ryou', 'Nonaka, Ai', 'Noto, Mamiko', 'Sakaguchi, Daisuke', 'Kanda, Akemi', 'Okiayu, Ryoutarou', 'Inoue, Kikuko']
+animeStaff	[['Hatta, Youko', 'Producer'], ['Nakamura, Shinichi', 'Producer'], ['Ishihara, Tatsuya', 'Director, Episode Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director']]

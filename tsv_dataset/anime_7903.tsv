@@ -1,5 +1,5 @@
-animeTitle	b'Scramble Wars: Tsuppashire! Genom Trophy Rally'
-animeType	b'OVA'
+animeTitle	Scramble Wars: Tsuppashire! Genom Trophy Rally
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.15
 animeUsers	489
 animeRank	
-animePopularity	
-animeDescription	"b'Take the characters from a number of sci-fi based animes, a stage not unlike ""Wacky Races,"" super deformed madness, and general insanity and what you get is Scramble Wars. While Scramble Wars does include characters from the original Bubblegum Crisis, Gall Force and Genesis Survivor Gaiarth, it also has a few other characters from other animes such as AD Police and Riding Bean. It doesn\'t matter if you loved or hated any of these series, as long as you\'ve seen at least one of them you\'ll have a great time watching this, though the insanity is so generic that it really doesn\'t matter if you haven\'t seen any of the animes featured in Scramble Wars. \n\nWacky Races! No not really, but close enough. Genom is holding a race; the winner will receive the Genom Trophy! Woohoo! Yay! Enter, Priss on her Motoroid, Linna and Nene, Sylia and Mackie, a Boomer... A Boomer?... okay... and characters from other animes already mentioned a million times. All will be racing against each other to win this prestigious trophy for some reason. And all of them will do anything to win it...\n\n(Source: AniDB)'"
-animeRelated	[b'Bubblegum Crash', b'Gall Force 1: Eternal Story', b'Rhea Gall Force', b'Sousei Kishi Gaiarth', b'Ten Little Gall Force']
-animeCharacters	[b'Asagiri, Priscilla', b'Romanova, Nene', b'Stingray, Sylia', b'Yamazaki, Linna', b'Lufy', b'Rabby', b'Catty', b'Stingray, Mackey', b'Zaxon', b'Sahari']
-animeVoices	[b'\nTachikawa, Ryoko\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n', b'\nWatanabe, Naoko\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFukushima, Hiroyuki\n\nDirector\n\n', b'\nMatsuoka, Hiroki\n\nSound Director\n\n', b'\nSonoda, Kenichi\n\nCharacter Design\n\n', b'\nSasaki, Toshiko\n\nAnimation Director, Character Design\n\n']
+animePopularity	10574
+animeDescription	"Take the characters from a number of sci-fi based animes, a stage not unlike ""Wacky Races,"" super deformed madness, and general insanity and what you get is Scramble Wars. While Scramble Wars does include characters from the original Bubblegum Crisis, Gall Force and Genesis Survivor Gaiarth, it also has a few other characters from other animes such as AD Police and Riding Bean. It doesn't matter if you loved or hated any of these series, as long as you've seen at least one of them you'll have a great time watching this, though the insanity is so generic that it really doesn't matter if you haven't seen any of the animes featured in Scramble Wars. 
+
+Wacky Races! No not really, but close enough. Genom is holding a race; the winner will receive the Genom Trophy! Woohoo! Yay! Enter, Priss on her Motoroid, Linna and Nene, Sylia and Mackie, a Boomer... A Boomer?... okay... and characters from other animes already mentioned a million times. All will be racing against each other to win this prestigious trophy for some reason. And all of them will do anything to win it...
+
+(Source: AniDB)"
+animeRelated	['Bubblegum Crash', 'Gall Force 1: Eternal Story', 'Rhea Gall Force', 'Sousei Kishi Gaiarth', 'Ten Little Gall Force']
+animeCharacters	['Asagiri, Priscilla', 'Romanova, Nene', 'Stingray, Sylia', 'Yamazaki, Linna', 'Lufy', 'Rabby', 'Catty', 'Stingray, Mackey', 'Zaxon', 'Sahari']
+animeVoices	['Tachikawa, Ryoko', 'Hiramatsu, Akiko', 'Sakakibara, Yoshiko', 'Tomizawa, Michie', 'Tsuru, Hiromi', 'Matsui, Naoko', 'Watanabe, Naoko', 'Sasaki, Nozomu', 'Ootsuka, Akio', 'Hidaka, Noriko']
+animeStaff	[['Fukushima, Hiroyuki', 'Director'], ['Matsuoka, Hiroki', 'Sound Director'], ['Sonoda, Kenichi', 'Character Design'], ['Sasaki, Toshiko', 'Animation Director, Character Design']]

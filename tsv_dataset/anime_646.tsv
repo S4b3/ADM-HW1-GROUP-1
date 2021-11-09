@@ -1,5 +1,5 @@
-animeTitle	b'Love Live! The School Idol Movie'
-animeType	b'Movie'
+animeTitle	Love Live! The School Idol Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.93
 animeUsers	63608
 animeRank	
-animePopularity	
-animeDescription	"b""Hot on the heels of the third year students' graduation, \xce\xbc's is invited to New York in hopes of spreading the joy of school idols to other parts of the world. Due to the events of the recent Love Live!, \xce\xbc's has reached eminent stardom which results in crowds swarming them whenever they appear in public. With the increased attention, however, comes a difficult choice.\n\nHaving yet to publicly announce the decision they came to regarding their future, the young members of \xce\xbc's are pushed to continue performing by rival group A-RISE, Otonokizaka High School, and even Love Live! itself. As leader, Honoka Kousaka is left wondering if the path they have chosen is truly for the best, as \xce\xbc's must re-evaluate their choices and come to a final decision on what they want for the future.\n\nLove Live! The School Idol Movie depicts the final chapter in \xce\xbc's story as the girls explore just what being an idol means to them as well as the bond that connects the nine of them together.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Love Live! School Idol Project 2nd Season', b'Love Live! The School Idol Movie: Gekijou Manner CM', b'Love Live! x Watering KissMint Collaboration CM', b'Love Live! Nijigasaki Gakuen School Idol Doukoukai']
-animeCharacters	[b'Nishikino, Maki', b'Yazawa, Niko', b'Toujou, Nozomi', b'Minami, Kotori', b'Sonoda, Umi', b'Kousaka, Honoka', b'Hoshizora, Rin', b'Ayase, Eri', b'Koizumi, Hanayo', b'Kira, Tsubasa']
-animeVoices	[b'\nPile\nJapanese\n', b'\nTokui, Sora\nJapanese\n', b'\nKusuda, Aina\nJapanese\n', b'\nUchida, Aya\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nNitta, Emi\nJapanese\n', b'\nIida, Riho\nJapanese\n', b'\nNanjou, Yoshino\nJapanese\n', b'\nKubo, Yurika\nJapanese\n', b'\nSakuragawa, Megu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKyougoku, Takahiko\n\nDirector\n\n', b'\nHanada, Jukki\n\nScript\n\n', b'\nZAQ\n\nTheme Song Composition\n\n', b'\nHata, Aki\n\nTheme Song Lyrics\n\n']
+animePopularity	1454
+animeDescription	"Hot on the heels of the third year students' graduation, μ's is invited to New York in hopes of spreading the joy of school idols to other parts of the world. Due to the events of the recent Love Live!, μ's has reached eminent stardom which results in crowds swarming them whenever they appear in public. With the increased attention, however, comes a difficult choice.
+
+Having yet to publicly announce the decision they came to regarding their future, the young members of μ's are pushed to continue performing by rival group A-RISE, Otonokizaka High School, and even Love Live! itself. As leader, Honoka Kousaka is left wondering if the path they have chosen is truly for the best, as μ's must re-evaluate their choices and come to a final decision on what they want for the future.
+
+Love Live! The School Idol Movie depicts the final chapter in μ's story as the girls explore just what being an idol means to them as well as the bond that connects the nine of them together.
+
+[Written by MAL Rewrite]"
+animeRelated	['Love Live! School Idol Project 2nd Season', 'Love Live! The School Idol Movie: Gekijou Manner CM', 'Love Live! x Watering KissMint Collaboration CM', 'Love Live! Nijigasaki Gakuen School Idol Doukoukai']
+animeCharacters	['Nishikino, Maki', 'Yazawa, Niko', 'Toujou, Nozomi', 'Minami, Kotori', 'Sonoda, Umi', 'Kousaka, Honoka', 'Hoshizora, Rin', 'Ayase, Eri', 'Koizumi, Hanayo', 'Kira, Tsubasa']
+animeVoices	['Pile', 'Tokui, Sora', 'Kusuda, Aina', 'Uchida, Aya', 'Mimori, Suzuko', 'Nitta, Emi', 'Iida, Riho', 'Nanjou, Yoshino', 'Kubo, Yurika', 'Sakuragawa, Megu']
+animeStaff	[['Kyougoku, Takahiko', 'Director'], ['Hanada, Jukki', 'Script'], ['ZAQ', 'Theme Song Composition'], ['Hata, Aki', 'Theme Song Lyrics']]

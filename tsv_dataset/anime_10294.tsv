@@ -1,5 +1,5 @@
-animeTitle	b'Ashinaga Ojisan'
-animeType	b'Special'
+animeTitle	Ashinaga Ojisan
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.53
 animeUsers	239
 animeRank	
-animePopularity	
-animeDescription	"b""An orphan girl receives a scholarship for a prestigious school from an anonymous benefactor who she refers to as Daddy Long Legs.\n\nNote: This TV special is not related to the 1990's series directly.\n\n(Source: AniDB)"""
-animeRelated	[b'Watashi no Ashinaga Ojisan']
-animeCharacters	[b'Sally', b'Judy', b'Jarvis']
-animeVoices	[b'\nKomiya, Kazue\nJapanese\n', b'\nTanaka, Yuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuri, Ippei\n\nProducer\n\n', b'\nHiguchi, Masakazu\n\nDirector, Storyboard\n\n', b'\nHorie, Mitsuko\n\nTheme Song Performance\n\n', b'\nColumbia Yurikago Kai\n\nTheme Song Performance, Inserted Song Performance\n\n']
+animePopularity	11863
+animeDescription	"An orphan girl receives a scholarship for a prestigious school from an anonymous benefactor who she refers to as Daddy Long Legs.
+
+Note: This TV special is not related to the 1990's series directly.
+
+(Source: AniDB)"
+animeRelated	['Watashi no Ashinaga Ojisan']
+animeCharacters	['Sally', 'Judy', 'Jarvis']
+animeVoices	['Komiya, Kazue', 'Tanaka, Yuko']
+animeStaff	[['Kuri, Ippei', 'Producer'], ['Higuchi, Masakazu', 'Director, Storyboard'], ['Horie, Mitsuko', 'Theme Song Performance'], ['Columbia Yurikago Kai', 'Theme Song Performance, Inserted Song Performance']]

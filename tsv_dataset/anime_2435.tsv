@@ -1,5 +1,5 @@
-animeTitle	b'Potemayo'
-animeType	b'TV'
+animeTitle	Potemayo
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.29
 animeUsers	5720
 animeRank	
-animePopularity	
-animeDescription	"b""Sunao Moriyama finds a strange but cute creature that he names Potemayo. Potemayo starts following him everywhere, usually riding on top of his head. His discovery becomes the center of attention in his class at school. Soon after, a similar creature appears, and is named Guchuko by one of Sunao's classmates. However, Guchuko doesn't seem to be as good-natured as Potemayo.\n\n(Source: ANN)"""
-animeRelated	[b'Potemayo', b'Potemayo Specials']
-animeCharacters	[b'Guchuko', b'Potemayo', b'Natsu, Mikan', b'Takamimori, Kyou', b'Moriyama, Sunao', b'Kasugano, Nene', b'Kirihara, Mudou', b'Narrator', b'Natsu, Yasumi', b'Seki, Tomari']
-animeVoices	[b'\nTsuji, Ayumi\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nKaida, Yuuko\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nTokita, Hikaru\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatomi, Tetsurou\n\nProducer\n\n', b'\nIkehata, Takashi\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nChata\n\nTheme Song Performance\n\n']
+animePopularity	4486
+animeDescription	"Sunao Moriyama finds a strange but cute creature that he names Potemayo. Potemayo starts following him everywhere, usually riding on top of his head. His discovery becomes the center of attention in his class at school. Soon after, a similar creature appears, and is named Guchuko by one of Sunao's classmates. However, Guchuko doesn't seem to be as good-natured as Potemayo.
+
+(Source: ANN)"
+animeRelated	['Potemayo', 'Potemayo Specials']
+animeCharacters	['Guchuko', 'Potemayo', 'Natsu, Mikan', 'Takamimori, Kyou', 'Moriyama, Sunao', 'Kasugano, Nene', 'Kirihara, Mudou', 'Narrator', 'Natsu, Yasumi', 'Seki, Tomari']
+animeVoices	['Tsuji, Ayumi', 'Hanazawa, Kana', 'Kawasumi, Ayako', 'Kaida, Yuuko', 'Kitamura, Eri', 'Kugimiya, Rie', 'Tokita, Hikaru', 'Inoue, Kikuko', 'Okamoto, Nobuhiko']
+animeStaff	[['Satomi, Tetsurou', 'Producer'], ['Ikehata, Takashi', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Chata', 'Theme Song Performance']]

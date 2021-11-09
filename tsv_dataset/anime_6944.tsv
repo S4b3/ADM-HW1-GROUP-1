@@ -1,5 +1,5 @@
-animeTitle	b'Idol Tenshi Youkoso Youko'
-animeType	b'TV'
+animeTitle	Idol Tenshi Youkoso Youko
+animeType	TV
 animeNumEpisode	43
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.35
 animeUsers	154
 animeRank	
-animePopularity	
-animeDescription	b'A young girl and her flying squirrel goes to Tokyo in hopes of becoming an idol singer. On the way, she meets another girl who wants to become an actress, and together they work to achieve their dreams. (Source: ANN)'
+animePopularity	10675
+animeDescription	A young girl and her flying squirrel goes to Tokyo in hopes of becoming an idol singer. On the way, she meets another girl who wants to become an actress, and together they work to achieve their dreams. (Source: ANN)
 animeRelated	[]
-animeCharacters	[b'Tanaka, Youko', b'Yamamori, Saki', b'Jackson, Michael', b'Yasu', b'Yamashita, Hideki', b'Shibuya, Chougorou']
-animeVoices	[b'\nKanai, Mika\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nNishimura, Tomomichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAmino, Tetsuro\n\nDirector\n\n', b'\nTanaka, Hideyuki\n\nSound Director\n\n', b'\nKato, Takao\n\nEpisode Director, Storyboard\n\n', b'\nYoshida, Hiroshi\n\nEpisode Director, Storyboard\n\n']
+animeCharacters	['Tanaka, Youko', 'Yamamori, Saki', 'Jackson, Michael', 'Yasu', 'Yamashita, Hideki', 'Shibuya, Chougorou']
+animeVoices	['Kanai, Mika', 'Hayashibara, Megumi', 'Yamaguchi, Kappei', 'Suzuoki, Hirotaka', 'Nishimura, Tomomichi']
+animeStaff	[['Amino, Tetsuro', 'Director'], ['Tanaka, Hideyuki', 'Sound Director'], ['Kato, Takao', 'Episode Director, Storyboard'], ['Yoshida, Hiroshi', 'Episode Director, Storyboard']]

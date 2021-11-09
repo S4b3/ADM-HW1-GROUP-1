@@ -1,5 +1,5 @@
-animeTitle	b'Imako System'
-animeType	b'OVA'
+animeTitle	Imako System
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.07
 animeUsers	1907
 animeRank	
-animePopularity	
-animeDescription	b'Based on the adult manga by Midori no Ruupe.'
-animeRelated	[b'Imako System']
-animeCharacters	[b'Imako', b'Ichina', b'Mikage', b'Tatsuki']
-animeVoices	[b'\nAkino, Hana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMidori no Rupe\n\nOriginal Creator\n\n', b'\nShinkai, Kouki\n\nEditing\n\n', b'\nKasumi, Kyouka\n\nDirector of Photography\n\n']
+animePopularity	7095
+animeDescription	Based on the adult manga by Midori no Ruupe.
+animeRelated	['Imako System']
+animeCharacters	['Imako', 'Ichina', 'Mikage', 'Tatsuki']
+animeVoices	['Akino, Hana']
+animeStaff	[['Midori no Rupe', 'Original Creator'], ['Shinkai, Kouki', 'Editing'], ['Kasumi, Kyouka', 'Director of Photography']]

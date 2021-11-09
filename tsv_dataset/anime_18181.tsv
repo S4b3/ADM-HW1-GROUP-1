@@ -1,5 +1,5 @@
-animeTitle	b'Virgin Night'
-animeType	b'OVA'
+animeTitle	Virgin Night
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.41
 animeUsers	1616
 animeRank	
-animePopularity	
-animeDescription	"b""Tonight, Yuzuru and Azumi are having a critically important date\xe2\x80\x94if they don't become more intimate by the end of it, their relationship may be in trouble. Both of them are conscious about this pressing matter, but while overwhelmed with nervousness and insecurities, they question each other's intentions.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Virgin Night']
-animeCharacters	[b'Azumi']
+animePopularity	7659
+animeDescription	"Tonight, Yuzuru and Azumi are having a critically important date—if they don't become more intimate by the end of it, their relationship may be in trouble. Both of them are conscious about this pressing matter, but while overwhelmed with nervousness and insecurities, they question each other's intentions.
+
+[Written by MAL Rewrite]"
+animeRelated	['Virgin Night']
+animeCharacters	['Azumi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshida, Tomohiro\n\nSound Director\n\n', b'\nTanaka, Yutaka\n\nCharacter Design, Original Creator\n\n', b'\nSekiya, Yoshihiro\n\nDirector of Photography\n\n', b'\nHashimoto, Hideki\n\nAnimation Director, Layout\n\n']
+animeStaff	[['Yoshida, Tomohiro', 'Sound Director'], ['Tanaka, Yutaka', 'Character Design, Original Creator'], ['Sekiya, Yoshihiro', 'Director of Photography'], ['Hashimoto, Hideki', 'Animation Director, Layout']]

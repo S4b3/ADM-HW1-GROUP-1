@@ -1,5 +1,5 @@
-animeTitle	b'Ulysses: Jehanne Darc to Renkin no Kishi'
-animeType	b'TV'
+animeTitle	Ulysses: Jehanne Darc to Renkin no Kishi
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.33
 animeUsers	24986
 animeRank	
-animePopularity	
-animeDescription	"b""The story is set in the 15th century, during the Hundred Years' War between France and England over the succession to the French throne. Montmorency, the son of a noble, immerses himself in the studies of magic and alchemy at a royal knight training school. However, following France's crushing defeat at Agincourt, the school is dissolved. Having lost everything and now a wanted man, Montmorency, who had just become an alchemist, encounters a mysterious village girl named Jehanne.\n\n(Source: MAL News)"""
-animeRelated	[b'Ulysses: Jehanne Darc to Renkin no Kishi']
-animeCharacters	[b'La Hire', b'Astaroth', b'Darc, Jehanne', b'Montmorency', b'de Richemont, Arthur', b'de Valois, Charlotte', b'Valois Bourgogne, Philippite', b'Glasdale', b'Xaintrailles', b'Akahige no John']
-animeVoices	[b'\nIshigami, Shizuka\nJapanese\n', b'\nToujou, Hisako\nJapanese\n', b'\nOono, Yuuko\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n', b'\nNumakura, Manami\nJapanese\n', b'\nOonishi, Saori\nJapanese\n', b'\nTakada, Yuuki\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nTakahashi, Hidenori\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItagaki, Shin\n\nDirector, Episode Director, Storyboard, Key Animation, Editing\n\n', b'\nNaya, Ryousuke\n\nSound Director\n\n', b'\nKingetsu, Ryuunosuke\n\nScript, Series Composition\n\n', b'\nFuchigami, Mai\n\nTheme Song Lyrics, Theme Song Performance\n\n']
+animePopularity	1873
+animeDescription	"The story is set in the 15th century, during the Hundred Years' War between France and England over the succession to the French throne. Montmorency, the son of a noble, immerses himself in the studies of magic and alchemy at a royal knight training school. However, following France's crushing defeat at Agincourt, the school is dissolved. Having lost everything and now a wanted man, Montmorency, who had just become an alchemist, encounters a mysterious village girl named Jehanne.
+
+(Source: MAL News)"
+animeRelated	['Ulysses: Jehanne Darc to Renkin no Kishi']
+animeCharacters	['La Hire', 'Astaroth', 'Darc, Jehanne', 'Montmorency', 'de Richemont, Arthur', 'de Valois, Charlotte', 'Valois Bourgogne, Philippite', 'Glasdale', 'Xaintrailles', 'Akahige no John']
+animeVoices	['Ishigami, Shizuka', 'Toujou, Hisako', 'Oono, Yuuko', 'Oosaka, Ryouta', 'Numakura, Manami', 'Oonishi, Saori', 'Takada, Yuuki', 'Hirata, Hiroaki', 'Takahashi, Hidenori', 'Genda, Tesshou']
+animeStaff	[['Itagaki, Shin', 'Director, Episode Director, Storyboard, Key Animation, Editing'], ['Naya, Ryousuke', 'Sound Director'], ['Kingetsu, Ryuunosuke', 'Script, Series Composition'], ['Fuchigami, Mai', 'Theme Song Lyrics, Theme Song Performance']]

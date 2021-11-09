@@ -1,5 +1,5 @@
-animeTitle	b'Katta-kun Monogatari'
-animeType	b'Movie'
+animeTitle	Katta-kun Monogatari
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""An anime starring Katta-kun, a real-life pelican who inhabited the Tokiwa Park in Ube.\n\nIn this movie, Katta-kun befriends Shu, a little boy whose parents went off to the Middle East because of their work. When war breaks out, Shu and Katta-kun travel to the Middle East to save Shu's parents and end the war.\n\nDue to it's hilariously ridiculousness this movie achived cult status in Japan.\n\n(Source: AniDB)"""
+animePopularity	16063
+animeDescription	"An anime starring Katta-kun, a real-life pelican who inhabited the Tokiwa Park in Ube.
+
+In this movie, Katta-kun befriends Shu, a little boy whose parents went off to the Middle East because of their work. When war breaks out, Shu and Katta-kun travel to the Middle East to save Shu's parents and end the war.
+
+Due to it's hilariously ridiculousness this movie achived cult status in Japan.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Katta-kun']
-animeVoices	[b'\nSatou, Chie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshida, Kenji\n\nDirector, Screenplay\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nIkeda, Shigemi\n\nArt Director\n\n', b'\nWatanabe, Toshiyuki\n\nMusic\n\n']
+animeCharacters	['Katta-kun']
+animeVoices	['Satou, Chie']
+animeStaff	[['Yoshida, Kenji', 'Director, Screenplay'], ['Mima, Masafumi', 'Sound Director'], ['Ikeda, Shigemi', 'Art Director'], ['Watanabe, Toshiyuki', 'Music']]

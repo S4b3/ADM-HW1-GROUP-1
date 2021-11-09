@@ -1,5 +1,5 @@
-animeTitle	b'Galactic Patrol Lensman'
-animeType	b'TV'
+animeTitle	Galactic Patrol Lensman
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.25
 animeUsers	232
 animeRank	
-animePopularity	
-animeDescription	"b""The young Kimball Kinnison is leaving home for a wider education when a Galactic Patrol ship crashes on his family's land and the dying pilot gives him a mysterious Lens. Half-sentient, the Lens now implanted in his hand becomes the focus of changes in Kim's life including his father's death, a space battle, and an encounter with Galactic Patrol nursing officer Chris. Impelled by the Lens, he discovers a new world of experiences opening before him and he risks his life to save Chris and the Universe. \n\n(Source: AniDB)"""
-animeRelated	[b'SF Shinseiki Lensman']
-animeCharacters	[b'Kinnison, Kimball', b'Buskirk']
-animeVoices	[b'\nFurukawa, Toshio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuji, Masaki\n\nScript\n\n', b'\nKigami, Yoshiji\n\nStoryboard\n\n', b'\nMorimoto, Kouji\n\nKey Animation\n\n', b'\nOhira, Shinya\n\nKey Animation\n\n']
+animePopularity	10253
+animeDescription	"The young Kimball Kinnison is leaving home for a wider education when a Galactic Patrol ship crashes on his family's land and the dying pilot gives him a mysterious Lens. Half-sentient, the Lens now implanted in his hand becomes the focus of changes in Kim's life including his father's death, a space battle, and an encounter with Galactic Patrol nursing officer Chris. Impelled by the Lens, he discovers a new world of experiences opening before him and he risks his life to save Chris and the Universe. 
+
+(Source: AniDB)"
+animeRelated	['SF Shinseiki Lensman']
+animeCharacters	['Kinnison, Kimball', 'Buskirk']
+animeVoices	['Furukawa, Toshio']
+animeStaff	[['Tsuji, Masaki', 'Script'], ['Kigami, Yoshiji', 'Storyboard'], ['Morimoto, Kouji', 'Key Animation'], ['Ohira, Shinya', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Dounika Naru Hibi'
-animeType	b'Movie'
+animeTitle	Dounika Naru Hibi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.44
 animeUsers	3951
 animeRank	
-animePopularity	
-animeDescription	b'Love is love. Someday, the pain of being in love will be an endearing memory. No matter who the feelings are towards, no matter what form it takes, all love and lifestyles have the same value. An omnibus anime tells the stories of \xe2\x80\x9cThe wedding of an ex\xe2\x80\x9d, \xe2\x80\x9ca student and a teacher at an all-boys\xe2\x80\x99 school\xe2\x80\x9d and \xe2\x80\x9cchildhood friends whose bodies and hearts change with adolescence.\xe2\x80\x9d\n\n(Source: Kotonoha)'
-animeRelated	[b'Dounika Naru Hibi']
-animeCharacters	"[b'Yagasaki-kun', b'Sawa-sensei', b'Aya-san', b'Ecchan', b'Shin-chan', b'Mika-chan', b'Yuri', b""Shin-chan's Mother"", b""Shin-chan's Father"", b'Tanabe-kun']"
-animeVoices	[b'\nYamashita, Seiichirou\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nKido, Ibuki\nJapanese\n', b'\nIshihara, Kaori\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nAmasaki, Kouhei\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Takuya\n\nDirector, Screenplay\n\n', b'\nAritomi, Kouji\n\nEpisode Director\n\n', b'\nCreepHyp\n\nTheme Song Performance, Music\n\n', b'\nShimura, Takako\n\nOriginal Creator\n\n']
+animePopularity	4521
+animeDescription	"Love is love. Someday, the pain of being in love will be an endearing memory. No matter who the feelings are towards, no matter what form it takes, all love and lifestyles have the same value. An omnibus anime tells the stories of “The wedding of an ex”, “a student and a teacher at an all-boys’ school” and “childhood friends whose bodies and hearts change with adolescence.”
+
+(Source: Kotonoha)"
+animeRelated	['Dounika Naru Hibi']
+animeCharacters	"['Yagasaki-kun', 'Sawa-sensei', 'Aya-san', 'Ecchan', 'Shin-chan', 'Mika-chan', 'Yuri', ""Shin-chan's Mother"", ""Shin-chan's Father"", 'Tanabe-kun']"
+animeVoices	['Yamashita, Seiichirou', 'Sakurai, Takahiro', 'Komatsu, Mikako', 'Hanazawa, Kana', 'Kido, Ibuki', 'Ishihara, Kaori', 'Hayami, Saori', 'Shiraishi, Ryouko', 'Amasaki, Kouhei', 'Shimazaki, Nobunaga']
+animeStaff	[['Satou, Takuya', 'Director, Screenplay'], ['Aritomi, Kouji', 'Episode Director'], ['CreepHyp', 'Theme Song Performance, Music'], ['Shimura, Takako', 'Original Creator']]

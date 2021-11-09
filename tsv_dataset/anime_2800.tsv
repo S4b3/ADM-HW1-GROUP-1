@@ -1,5 +1,5 @@
-animeTitle	b'Shikabane Hime: Aka'
-animeType	b'TV'
+animeTitle	Shikabane Hime: Aka
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.22
 animeUsers	40104
 animeRank	
-animePopularity	
-animeDescription	"b""After being brutally murdered along with her family, Makina Hoshimura turns into a Shikabane Hime, a living corpse contracted to the Kougon Cult, in order to exert revenge on the mysterious undead organization responsible for her death. She is assisted in this task by Keisei Tagami, her contracted priest and former friend. This series follows the story of Keisei's younger brother Ouri, a boy with an unusual attraction to death, who slowly discovers his brother's secret and gets dragged into the world of the Shikabanes. \n\n(Source: Wikipedia, edited)"""
-animeRelated	[b'Shikabane Hime', b'Shikabane Hime: Kuro']
-animeCharacters	[b'Hoshimura, Makina', b'Tagami, Keisei', b'Kagami, Ouri', b'Ruo, Minai', b'Hokuto', b'Hazama', b'Kuroneko', b'Touka, Akira', b'Yamagami, Itsuki', b'Amase, Saki']
-animeVoices	[b'\nAkiyama, Nana\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nHasome, Tatsuya\nJapanese\n', b'\nHirata, Yuka\nJapanese\n', b'\nFujimura, Chika\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nNakamura, Chise\nJapanese\n', b'\nKikuchi, Mika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamaga, Hiroyuki\n\nProducer\n\n', b'\nMurata, Masahiko\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nTsuda, Naokatsu\n\nEpisode Director\n\n']
+animePopularity	1471
+animeDescription	"After being brutally murdered along with her family, Makina Hoshimura turns into a Shikabane Hime, a living corpse contracted to the Kougon Cult, in order to exert revenge on the mysterious undead organization responsible for her death. She is assisted in this task by Keisei Tagami, her contracted priest and former friend. This series follows the story of Keisei's younger brother Ouri, a boy with an unusual attraction to death, who slowly discovers his brother's secret and gets dragged into the world of the Shikabanes. 
+
+(Source: Wikipedia, edited)"
+animeRelated	['Shikabane Hime', 'Shikabane Hime: Kuro']
+animeCharacters	['Hoshimura, Makina', 'Tagami, Keisei', 'Kagami, Ouri', 'Ruo, Minai', 'Hokuto', 'Hazama', 'Kuroneko', 'Touka, Akira', 'Yamagami, Itsuki', 'Amase, Saki']
+animeVoices	['Akiyama, Nana', 'Fujiwara, Keiji', 'Hasome, Tatsuya', 'Hirata, Yuka', 'Fujimura, Chika', 'Ookawa, Tooru', 'Horie, Yui', 'Yuuki, Aoi', 'Nakamura, Chise', 'Kikuchi, Mika']
+animeStaff	[['Yamaga, Hiroyuki', 'Producer'], ['Murata, Masahiko', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Tsuda, Naokatsu', 'Episode Director']]

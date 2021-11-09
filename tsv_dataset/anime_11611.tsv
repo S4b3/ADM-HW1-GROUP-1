@@ -1,5 +1,5 @@
-animeTitle	b'TANK S.W.A.T. 01'
-animeType	b'OVA'
+animeTitle	TANK S.W.A.T. 01
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	4.86
 animeUsers	1009
 animeRank	
-animePopularity	
-animeDescription	b'Masamune Shirow presents a story about the Dominion Tank Police dealing with terrorists taking over the NT Building with AI driven tanks.'
-animeRelated	[b'Dominion']
-animeCharacters	[b'Ozaki, Leona', b'Annapuma', b'Unipuma']
-animeVoices	[b'\nYukino, Satsuki\nJapanese\n', b'\nKawatsuma, Miho\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiga, Romanov\n\nDirector\n\n', b'\nChida, Kazuhiro\n\nSound Director\n\n', b'\nShirow, Masamune\n\nOriginal Creator\n\n']
+animePopularity	8881
+animeDescription	Masamune Shirow presents a story about the Dominion Tank Police dealing with terrorists taking over the NT Building with AI driven tanks.
+animeRelated	['Dominion']
+animeCharacters	['Ozaki, Leona', 'Annapuma', 'Unipuma']
+animeVoices	['Yukino, Satsuki', 'Kawatsuma, Miho']
+animeStaff	[['Higa, Romanov', 'Director'], ['Chida, Kazuhiro', 'Sound Director'], ['Shirow, Masamune', 'Original Creator']]

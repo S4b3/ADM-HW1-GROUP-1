@@ -1,5 +1,5 @@
-animeTitle	b'Genji Monogatari Sennenki'
-animeType	b'TV'
+animeTitle	Genji Monogatari Sennenki
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.9
 animeUsers	2924
 animeRank	
-animePopularity	
-animeDescription	b'Born from a much loved, but lowly ranked concubine, Genji Hikaru is called the Shining Prince and is the beloved second son of the Emperor. Although he cannot be an heir to the throne of his father, Genji spends his life surrounded by every pleasure and love. And yet, his one longing in love is something that even the power of an Emperor can never give him.\n\n(Source: ANN)'
-animeRelated	[b'Genji Monogatari']
-animeCharacters	[b'Genji, Hikaru', b'Fujitsubo no Miya', b'Kiritsubo, Koui', b'Murasaki', b'Kokiden no Nyougo', b'To no Chujo', b'Aoi no Ue', b'Koremitsu', b'Oborozukiyo', b'Kiritsubo, Mikado']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nTamagawa, Sakiko\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nHirata, Eriko\nJapanese\n', b'\nSuzuki, Chihiro\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Kouji\n\nProducer\n\n', b'\nDezaki, Osamu\n\nDirector, Script, Storyboard\n\n', b'\nKonparu, Tomoko\n\nScript\n\n', b'\nShiina, Ringo\n\nTheme Song Composition, Theme Song Arrangement, Theme Song Lyrics\n\n']
+animePopularity	4743
+animeDescription	"Born from a much loved, but lowly ranked concubine, Genji Hikaru is called the Shining Prince and is the beloved second son of the Emperor. Although he cannot be an heir to the throne of his father, Genji spends his life surrounded by every pleasure and love. And yet, his one longing in love is something that even the power of an Emperor can never give him.
+
+(Source: ANN)"
+animeRelated	['Genji Monogatari']
+animeCharacters	['Genji, Hikaru', 'Fujitsubo no Miya', 'Kiritsubo, Koui', 'Murasaki', 'Kokiden no Nyougo', 'To no Chujo', 'Aoi no Ue', 'Koremitsu', 'Oborozukiyo', 'Kiritsubo, Mikado']
+animeVoices	['Sakurai, Takahiro', 'Tamagawa, Sakiko', 'Endou, Aya', 'Fujita, Toshiko', 'Sugita, Tomokazu', 'Hirata, Eriko', 'Suzuki, Chihiro', 'Horiuchi, Kenyuu']
+animeStaff	[['Yamamoto, Kouji', 'Producer'], ['Dezaki, Osamu', 'Director, Script, Storyboard'], ['Konparu, Tomoko', 'Script'], ['Shiina, Ringo', 'Theme Song Composition, Theme Song Arrangement, Theme Song Lyrics']]

@@ -1,5 +1,5 @@
-animeTitle	b'Dr. Slump Movie 09: Arale-chan N-cha!! Wakuwaku Hot no Natsuyasumi'
-animeType	b'Movie'
+animeTitle	Dr. Slump Movie 09: Arale-chan N-cha!! Wakuwaku Hot no Natsuyasumi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.16
 animeUsers	342
 animeRank	
-animePopularity	
-animeDescription	"b""It's summer vacation in Penguin Village, and a very pretty vampire pays them a visit!\n\n(Source: BakaBT)"""
-animeRelated	[b'Dr. Slump: Arale-chan']
-animeCharacters	[b'Norimaki, Senbei', b'Vandora', b'Norimaki, Arale', b'Suppaman', b'Norimaki, Gajira', b'Soramame, Tarou', b'Norimaki, Turbo', b'Dr. Mashirito', b'Soramame, Kurikinton', b'Yamabuki, Midori']
-animeVoices	[b'\nUtsumi, Kenji\nJapanese\n', b'\nKomiya, Kazue\nJapanese\n', b'\nKoyama, Mami\nJapanese\n', b'\nTeppouzuka, Yoko\nJapanese\n', b'\nShimada, Bin\nJapanese\n', b'\nMatsui, Mami\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nKawanami, Yoko\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nHashimoto, Mitsuo\n\nDirector\n\n', b""\nKoorogi '73\n\nTheme Song Performance\n\n"", b'\nColumbia Yurikago Kai\n\nTheme Song Performance\n\n', b'\nTakashima, Akihiko\n\nTheme Song Arrangement\n\n']"
+animePopularity	10865
+animeDescription	"It's summer vacation in Penguin Village, and a very pretty vampire pays them a visit!
+
+(Source: BakaBT)"
+animeRelated	['Dr. Slump: Arale-chan']
+animeCharacters	['Norimaki, Senbei', 'Vandora', 'Norimaki, Arale', 'Suppaman', 'Norimaki, Gajira', 'Soramame, Tarou', 'Norimaki, Turbo', 'Dr. Mashirito', 'Soramame, Kurikinton', 'Yamabuki, Midori']
+animeVoices	['Utsumi, Kenji', 'Komiya, Kazue', 'Koyama, Mami', 'Teppouzuka, Yoko', 'Shimada, Bin', 'Matsui, Mami', 'Kamiya, Akira', 'Kawanami, Yoko']
+animeStaff	"[['Hashimoto, Mitsuo', 'Director'], [""Koorogi '73"", 'Theme Song Performance'], ['Columbia Yurikago Kai', 'Theme Song Performance'], ['Takashima, Akihiko', 'Theme Song Arrangement']]"

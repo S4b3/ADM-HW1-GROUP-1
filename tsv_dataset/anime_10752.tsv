@@ -1,5 +1,5 @@
-animeTitle	b'Hakyuu Houshin Engi'
-animeType	b'TV'
+animeTitle	Hakyuu Houshin Engi
+animeType	TV
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.37
 animeUsers	3109
 animeRank	
-animePopularity	
-animeDescription	"b""When his clan is wiped out by a beautiful demon, young Taikobo finds himself in charge of the mysterious Houshin Project. Its mission: find all immortals living in the human world and seal them away forever. But who do you trust\xe2\x80\x94and whose side are you really on\xe2\x80\x94when you've been trained to hunt demons by a demon?\n\n(Source: VIZ Media)"""
-animeRelated	[b'Houshin Engi', b'Senkaiden Houshin Engi', b'Hakyuu Houshin Engi Recap', b'Hakyuu Houshin Engi: Kou-ke no Chi']
-animeCharacters	[b'Taikoubou', b'Li, Nataku', b'Dakki', b'Shinkohyou', b'Bunchuu', b'Youzen', b'Sibuxiang', b'Kou, Tenka', b'Chou Kou Mei', b'Fukki']
-animeVoices	[b'\nOno, Kensho\nJapanese\n', b'\nFurukawa, Makoto\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nKENN\nJapanese\n', b'\nOkitsu, Kazuyuki\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAizawa, Masahiro\n\nDirector\n\n', b'\nIwata, Kazuya\n\nEpisode Director\n\n', b'\nOokusa, Yoshiki\n\nScript\n\n', b'\nIkeda, Rintarou\n\nScript\n\n']
+animePopularity	4111
+animeDescription	"When his clan is wiped out by a beautiful demon, young Taikobo finds himself in charge of the mysterious Houshin Project. Its mission: find all immortals living in the human world and seal them away forever. But who do you trust—and whose side are you really on—when you've been trained to hunt demons by a demon?
+
+(Source: VIZ Media)"
+animeRelated	['Houshin Engi', 'Senkaiden Houshin Engi', 'Hakyuu Houshin Engi Recap', 'Hakyuu Houshin Engi: Kou-ke no Chi']
+animeCharacters	['Taikoubou', 'Li, Nataku', 'Dakki', 'Shinkohyou', 'Bunchuu', 'Youzen', 'Sibuxiang', 'Kou, Tenka', 'Chou Kou Mei', 'Fukki']
+animeVoices	['Ono, Kensho', 'Furukawa, Makoto', 'Hikasa, Youko', 'Toriumi, Kousuke', 'Maeno, Tomoaki', 'Nakamura, Yuuichi', 'Sakurai, Takahiro', 'KENN', 'Okitsu, Kazuyuki', 'Okamoto, Nobuhiko']
+animeStaff	[['Aizawa, Masahiro', 'Director'], ['Iwata, Kazuya', 'Episode Director'], ['Ookusa, Yoshiki', 'Script'], ['Ikeda, Rintarou', 'Script']]

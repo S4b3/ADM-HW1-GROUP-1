@@ -1,5 +1,5 @@
-animeTitle	b'Hinomaruzumou'
-animeType	b'TV'
+animeTitle	Hinomaruzumou
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	7.58
 animeUsers	40846
 animeRank	
-animePopularity	
-animeDescription	"b""In professional sumo, there are no weight classes. It's a savage sport where the strongest survive, and anyone willing to test their mettle can step into the ring. There is, however, a minimum size requirement to be a pro sumo wrestler, and young Hinomaru Ushio, incredibly talented and hardworking though he may be, does not meet that requirement. This small boy has big dreams of reaching the highest class of  sumo, Hinoshita Kaisan. The only way he could possibly go pro is if he becomes the High School Yokozuna, a title given to the strongest wrestler in high school tournaments.\n\nUshio is under a lot of pressure, as well as a time limit. If he can't show off his skills in the high school tournaments, he may lose his chance to go pro permanently, and the odds are stacked against him. Instead of enrolling in Ishigami High, the best school for sumo in Japan, he enrolls in Odachi High and must build a sumo club from the ground up with the one devout member Shinya Ozeki. Odachi High is the true underdog of the sumo world, but Ushio has to push forward with all his strength if he is going to make it professionally.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Hinomaruzumou']
-animeCharacters	[b'Ushio, Hinomaru', b'Gojou, Yuuma', b'Ozeki, Shinya', b'Kunisaki, Chihiro', b'Gojou, Reina', b'Tsuji, Kirihito', b'Tennouji, Shidou', b'Sada, Mizuki', b'Mitsuhashi, Kei', b'Kuze, Sousuke']
-animeVoices	[b'\nAbe, Atsushi\nJapanese\n', b'\nKumagai, Kentarou\nJapanese\n', b'\nOchiai, Fukushi\nJapanese\n', b'\nSatou, Takuya\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nTakeuchi, Ryouta\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nMurase, Ayumu\nJapanese\n', b'\nTakeuchi, Shunsuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUda, Kounosuke\n\nDirector, Episode Director\n\n', b'\nYamamoto, Yasutaka\n\nDirector, Storyboard\n\n', b'\nMurayama, Kiyoshi\n\nEpisode Director\n\n', b'\nOoba, Hideaki\n\nEpisode Director\n\n']
+animePopularity	1672
+animeDescription	"In professional sumo, there are no weight classes. It's a savage sport where the strongest survive, and anyone willing to test their mettle can step into the ring. There is, however, a minimum size requirement to be a pro sumo wrestler, and young Hinomaru Ushio, incredibly talented and hardworking though he may be, does not meet that requirement. This small boy has big dreams of reaching the highest class of  sumo, Hinoshita Kaisan. The only way he could possibly go pro is if he becomes the High School Yokozuna, a title given to the strongest wrestler in high school tournaments.
+
+Ushio is under a lot of pressure, as well as a time limit. If he can't show off his skills in the high school tournaments, he may lose his chance to go pro permanently, and the odds are stacked against him. Instead of enrolling in Ishigami High, the best school for sumo in Japan, he enrolls in Odachi High and must build a sumo club from the ground up with the one devout member Shinya Ozeki. Odachi High is the true underdog of the sumo world, but Ushio has to push forward with all his strength if he is going to make it professionally.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Hinomaruzumou']
+animeCharacters	['Ushio, Hinomaru', 'Gojou, Yuuma', 'Ozeki, Shinya', 'Kunisaki, Chihiro', 'Gojou, Reina', 'Tsuji, Kirihito', 'Tennouji, Shidou', 'Sada, Mizuki', 'Mitsuhashi, Kei', 'Kuze, Sousuke']
+animeVoices	['Abe, Atsushi', 'Kumagai, Kentarou', 'Ochiai, Fukushi', 'Satou, Takuya', 'Komatsu, Mikako', 'Terashima, Takuma', 'Takeuchi, Ryouta', 'Ishikawa, Kaito', 'Murase, Ayumu', 'Takeuchi, Shunsuke']
+animeStaff	[['Uda, Kounosuke', 'Director, Episode Director'], ['Yamamoto, Yasutaka', 'Director, Storyboard'], ['Murayama, Kiyoshi', 'Episode Director'], ['Ooba, Hideaki', 'Episode Director']]

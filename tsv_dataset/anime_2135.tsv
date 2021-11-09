@@ -1,5 +1,5 @@
-animeTitle	b'Nami yo Kiitekure'
-animeType	b'TV'
+animeTitle	Nami yo Kiitekure
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.36
 animeUsers	23448
 animeRank	
-animePopularity	
-animeDescription	"b""Restaurant worker Minare Koda has recently been through a bad breakup. Heartbroken and drunk after a night out, she rants about her misery to a complete stranger\xe2\x80\x94Kanetsugu Matou, a radio station director local to Sapporo, Hokkaido.\n\nThe next day at work, Minare is shocked to hear a recording of herself from the previous night playing over the radio. Flustered, she rushes to the radio station in a frenzy to stop the broadcast. As she confronts Matou, a chain of events leads to her giving an impromptu talk live on air, explaining her savage drunken speech. With her energetic voice, she delivers a smooth dialogue with no hesitation, which Matou recognizes as raw talent.\n\nMinare soon becomes a late-night talk show host under Matou's direction, covering amusing narratives set in Sapporo, all while balancing her day job and personal life to make ends meet.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Nami yo Kiitekure']
-animeCharacters	[b'Koda, Minare', b'Matou, Kanetsugu', b'Nanba, Mizuho', b'Tachibana, Makie', b'Oki, Shinji', b'Nakahara, Chuuya', b'Koumoto, Ryuusuke', b'Kureko, Katsumi', b'Suga, Mitsuo', b'Takarada, Yoshiki']
-animeVoices	[b'\nSugiyama, Riho\nJapanese\n', b'\nFuji, Shinshuu\nJapanese\n', b'\nIwami, Manaka\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nYano, Masaaki\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nYamaji, Kazuhiro\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nShimada, Bin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMinamikawa, Tatsuma\n\nDirector, Episode Director, Storyboard\n\n', b'\nTakahashi, Tsuyoshi\n\nSound Director\n\n', b'\nOkada, Kenjirou\n\nStoryboard\n\n', b'\ntacica\n\nTheme Song Arrangement, Theme Song Performance\n\n']
+animePopularity	2048
+animeDescription	"Restaurant worker Minare Koda has recently been through a bad breakup. Heartbroken and drunk after a night out, she rants about her misery to a complete stranger—Kanetsugu Matou, a radio station director local to Sapporo, Hokkaido.
+
+The next day at work, Minare is shocked to hear a recording of herself from the previous night playing over the radio. Flustered, she rushes to the radio station in a frenzy to stop the broadcast. As she confronts Matou, a chain of events leads to her giving an impromptu talk live on air, explaining her savage drunken speech. With her energetic voice, she delivers a smooth dialogue with no hesitation, which Matou recognizes as raw talent.
+
+Minare soon becomes a late-night talk show host under Matou's direction, covering amusing narratives set in Sapporo, all while balancing her day job and personal life to make ends meet.
+
+[Written by MAL Rewrite]"
+animeRelated	['Nami yo Kiitekure']
+animeCharacters	['Koda, Minare', 'Matou, Kanetsugu', 'Nanba, Mizuho', 'Tachibana, Makie', 'Oki, Shinji', 'Nakahara, Chuuya', 'Koumoto, Ryuusuke', 'Kureko, Katsumi', 'Suga, Mitsuo', 'Takarada, Yoshiki']
+animeVoices	['Sugiyama, Riho', 'Fuji, Shinshuu', 'Iwami, Manaka', 'Noto, Mamiko', 'Uchiyama, Kouki', 'Yano, Masaaki', 'Ishikawa, Kaito', 'Yamaji, Kazuhiro', 'Namikawa, Daisuke', 'Shimada, Bin']
+animeStaff	[['Minamikawa, Tatsuma', 'Director, Episode Director, Storyboard'], ['Takahashi, Tsuyoshi', 'Sound Director'], ['Okada, Kenjirou', 'Storyboard'], ['tacica', 'Theme Song Arrangement, Theme Song Performance']]

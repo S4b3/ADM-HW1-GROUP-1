@@ -1,5 +1,5 @@
-animeTitle	b'Kaiketsu Zorro'
-animeType	b'TV'
+animeTitle	Kaiketsu Zorro
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.22
 animeUsers	4857
 animeRank	
-animePopularity	
-animeDescription	"b""Diego Vega returns from his study trip to discover his homeland is under the army's dictatorship. Diego, refusing to watch idly, disguises himself as Zorro to protect the weak and oppressed. Diego is not a coward but he is unable to win the affections of his sweetheart, Lolita, who is attracted to other more noble men. Diego serenades Lolita as Zorro and fights the evils of his homeland, hoping to capture her heart."""
+animePopularity	5300
+animeDescription	Diego Vega returns from his study trip to discover his homeland is under the army's dictatorship. Diego, refusing to watch idly, disguises himself as Zorro to protect the weak and oppressed. Diego is not a coward but he is unable to win the affections of his sweetheart, Lolita, who is attracted to other more noble men. Diego serenades Lolita as Zorro and fights the evils of his homeland, hoping to capture her heart.
 animeRelated	[]
-animeCharacters	[b'De La Vega, Diego', b'Lolita', b'Viento', b'Bernard', b'De La Vega, Alejandro', b'Prideaux, Caterina', b'Maria', b'Figaro', b'Tackle', b'Prideaux, Don Carlos']
-animeVoices	[b'\nSeki, Toshihiko\nJapanese\n', b'\nKawamura, Maria\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nSawaki, Ikuya\nJapanese\n', b'\nTakizawa, Kumiko\nJapanese\n', b'\nMine, Atsuko\nJapanese\n', b'\nIizuka, Shouzou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Hideyuki\n\nSound Director\n\n', b'\nMatsuura, Johei\n\nEpisode Director\n\n', b'\nYabuki, Tsutomu\n\nEpisode Director, Storyboard\n\n', b'\nHirano, Yasushi\n\nScript, Storyboard\n\n']
+animeCharacters	['De La Vega, Diego', 'Lolita', 'Viento', 'Bernard', 'De La Vega, Alejandro', 'Prideaux, Caterina', 'Maria', 'Figaro', 'Tackle', 'Prideaux, Don Carlos']
+animeVoices	['Seki, Toshihiko', 'Kawamura, Maria', 'Matsumoto, Rica', 'Sawaki, Ikuya', 'Takizawa, Kumiko', 'Mine, Atsuko', 'Iizuka, Shouzou']
+animeStaff	[['Tanaka, Hideyuki', 'Sound Director'], ['Matsuura, Johei', 'Episode Director'], ['Yabuki, Tsutomu', 'Episode Director, Storyboard'], ['Hirano, Yasushi', 'Script, Storyboard']]

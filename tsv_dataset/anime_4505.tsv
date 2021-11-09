@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: Kiri no Elusive'
-animeType	b'Special'
+animeTitle	Lupin III: Kiri no Elusive
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.83
 animeUsers	2019
 animeRank	
-animePopularity	
-animeDescription	"b""On the ocean floor, Lupin is once again seeking a treasure hoping to get on Fujiko's good side. As Zenigata chases them on sea and land, people around the gang begin to vanish mysteriously. The fog rolls in and Mamo Kyosuke appears in a burst of light; he claims to be from the future and seeks revenge on Lupin III for what Lupin XIII has done to him. Mamo hurls Lupin, Jigen, Goemon, and Zenigata 500 years into the past; as two warring factions fight over a legendary shrine dedicated to time travel, Lupin must find a way to survive the past to ensure his future.\n\n(Source: Lupin III Encyclopedia)\n\nThis movie is a remake of episode 13 in the original Lupin III series."""
-animeRelated	[b'Lupin III']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Ishikawa XIII, Goemon', b'Mamou, Kyosuke', b'Mine, Fujiko', b'Zenigata, Kouichi', b'Eshika', b'Takaya', b'Iseka', b'Ofumi']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nNakamura, Shidou\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nNaya, Gorou\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nOokubo, Shoutaro\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nSekine, Mari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasuda, Toshihiko\n\nDirector, Storyboard\n\n', b'\nIkezoe, Takahiro\n\nEpisode Director\n\n', b'\nYamada, Yuka\n\nScript\n\n', b'\nTomisawa, Nobuo\n\nStoryboard\n\n']
+animePopularity	6907
+animeDescription	"On the ocean floor, Lupin is once again seeking a treasure hoping to get on Fujiko's good side. As Zenigata chases them on sea and land, people around the gang begin to vanish mysteriously. The fog rolls in and Mamo Kyosuke appears in a burst of light; he claims to be from the future and seeks revenge on Lupin III for what Lupin XIII has done to him. Mamo hurls Lupin, Jigen, Goemon, and Zenigata 500 years into the past; as two warring factions fight over a legendary shrine dedicated to time travel, Lupin must find a way to survive the past to ensure his future.
+
+(Source: Lupin III Encyclopedia)
+
+This movie is a remake of episode 13 in the original Lupin III series."
+animeRelated	['Lupin III']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Ishikawa XIII, Goemon', 'Mamou, Kyosuke', 'Mine, Fujiko', 'Zenigata, Kouichi', 'Eshika', 'Takaya', 'Iseka', 'Ofumi']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Inoue, Makio', 'Nakamura, Shidou', 'Masuyama, Eiko', 'Naya, Gorou', 'Ishida, Akira', 'Ookubo, Shoutaro', 'Kuwashima, Houko', 'Sekine, Mari']
+animeStaff	[['Masuda, Toshihiko', 'Director, Storyboard'], ['Ikezoe, Takahiro', 'Episode Director'], ['Yamada, Yuka', 'Script'], ['Tomisawa, Nobuo', 'Storyboard']]

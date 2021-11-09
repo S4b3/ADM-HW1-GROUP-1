@@ -1,5 +1,5 @@
-animeTitle	b'Boku no Chikyuu wo Mamotte: Kiniro no Toki Nagarete'
-animeType	b'Special'
+animeTitle	Boku no Chikyuu wo Mamotte: Kiniro no Toki Nagarete
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.51
 animeUsers	341
 animeRank	
-animePopularity	
-animeDescription	b'Please Save My Earth Music Image Video: The Passing of the Golden Age contains six music videos with footage not seen in the OVA and scenes taken from the manga, as well as a slightly different version of the OVA ending sequence, and the ending credits for the image videos.\n\n(Source: Wikipedia)\n\nSee more info for additional information about these music videos.'
-animeRelated	[b'Boku no Chikyuu wo Mamotte']
-animeCharacters	[b'Kobayashi, Rin', b'Shion', b'Mokuren', b'Sakaguchi, Alice', b'Nishikiori, Issei', b'Enju', b'Rojion', b'Ogura, Jinpachi']
-animeVoices	[b'\nIshida, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiwatari, Saki\n\nOriginal Creator\n\n']
+animePopularity	10263
+animeDescription	"Please Save My Earth Music Image Video: The Passing of the Golden Age contains six music videos with footage not seen in the OVA and scenes taken from the manga, as well as a slightly different version of the OVA ending sequence, and the ending credits for the image videos.
+
+(Source: Wikipedia)
+
+See more info for additional information about these music videos."
+animeRelated	['Boku no Chikyuu wo Mamotte']
+animeCharacters	['Kobayashi, Rin', 'Shion', 'Mokuren', 'Sakaguchi, Alice', 'Nishikiori, Issei', 'Enju', 'Rojion', 'Ogura, Jinpachi']
+animeVoices	['Ishida, Akira']
+animeStaff	[['Hiwatari, Saki', 'Original Creator']]

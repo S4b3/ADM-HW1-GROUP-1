@@ -1,5 +1,5 @@
-animeTitle	b'Hand Maid May: Akiramemasen'
-animeType	b'Special'
+animeTitle	Hand Maid May: Akiramemasen
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.73
 animeUsers	4309
 animeRank	
-animePopularity	
-animeDescription	b'Special episode.'
-animeRelated	[b'Hand Maid May']
-animeCharacters	[b'May', b'Saotome, Kazuya', b'Tani, Kasumi']
+animePopularity	5802
+animeDescription	Special episode.
+animeRelated	['Hand Maid May']
+animeCharacters	['May', 'Saotome, Kazuya', 'Tani, Kasumi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSargent, Lia\n\nADR Director\n\n', b'\nFujii, Maki\n\nAnimation Director\n\n', b'\nNitta, Yasunari\n\nKey Animation\n\n']
+animeStaff	[['Sargent, Lia', 'ADR Director'], ['Fujii, Maki', 'Animation Director'], ['Nitta, Yasunari', 'Key Animation']]

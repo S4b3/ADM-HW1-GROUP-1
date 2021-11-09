@@ -1,5 +1,5 @@
-animeTitle	b'Gilgamesh'
-animeType	b'TV'
+animeTitle	Gilgamesh
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.64
 animeUsers	9318
 animeRank	
-animePopularity	
-animeDescription	"b""The half-divine King of Uruk, Gilgamesh, was considered but a paltry legend... until his majestic tomb was discovered in the Middle East. This imperial crypt drew scientists from across the globe to the land, and with that came recognition of their fame. In a joint effort, they built Heaven's Gate in pursuit of advancing human knowledge.\n\nOne day, a group of terrorists driven by greed attack Heaven's Gate, causing an explosion within the facility for archaeological excavation. The resulting phenomenon had much more impact than anyone could have imagined.\n\nMore specifically, it triggered the birth of supernatural beings. In the midst of this mess, two siblings by the names of Kiyoko and Tatsuya encounter mysterious men with supernatural powers who, despite the scientific crisis around them, claim the ability to restore good to the world. Nevertheless, these seemingly heroic and all-powerful creatures act under the rule of factions. Are they here to save the world, or destroy it?"""
-animeRelated	[b'Gilgamesh']
-animeCharacters	[b'Madoka, Tatsuya', b'Kageyama, Hiroko', b'Novem', b'Madoka, Kiyoko', b'Sex', b'Madoka, Terumichi', b'Kazmatsuri, Hayato', b'Omuro, Fuko', b'Yuki, Reiko', b'Fujisaki, Isamu']
-animeVoices	[b'\nNamikawa, Daisuke\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nShibuya, Shigeru\nJapanese\n', b'\nNakamura, Chie\nJapanese\n', b'\nTamomura, Shin\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nAraki, Kae\nJapanese\n', b'\nItou, Kentarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurata, Masahiko\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nFoster, Steven\n\nScript, ADR Director\n\n', b'\nKatou, Hiroto\n\nStoryboard\n\n']
+animePopularity	2990
+animeDescription	"The half-divine King of Uruk, Gilgamesh, was considered but a paltry legend... until his majestic tomb was discovered in the Middle East. This imperial crypt drew scientists from across the globe to the land, and with that came recognition of their fame. In a joint effort, they built Heaven's Gate in pursuit of advancing human knowledge.
+
+One day, a group of terrorists driven by greed attack Heaven's Gate, causing an explosion within the facility for archaeological excavation. The resulting phenomenon had much more impact than anyone could have imagined.
+
+More specifically, it triggered the birth of supernatural beings. In the midst of this mess, two siblings by the names of Kiyoko and Tatsuya encounter mysterious men with supernatural powers who, despite the scientific crisis around them, claim the ability to restore good to the world. Nevertheless, these seemingly heroic and all-powerful creatures act under the rule of factions. Are they here to save the world, or destroy it?"
+animeRelated	['Gilgamesh']
+animeCharacters	['Madoka, Tatsuya', 'Kageyama, Hiroko', 'Novem', 'Madoka, Kiyoko', 'Sex', 'Madoka, Terumichi', 'Kazmatsuri, Hayato', 'Omuro, Fuko', 'Yuki, Reiko', 'Fujisaki, Isamu']
+animeVoices	['Namikawa, Daisuke', 'Saiga, Mitsuki', 'Shibuya, Shigeru', 'Nakamura, Chie', 'Tamomura, Shin', 'Fujiwara, Keiji', 'Kobayashi, Sanae', 'Araki, Kae', 'Itou, Kentarou']
+animeStaff	[['Murata, Masahiko', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Foster, Steven', 'Script, ADR Director'], ['Katou, Hiroto', 'Storyboard']]

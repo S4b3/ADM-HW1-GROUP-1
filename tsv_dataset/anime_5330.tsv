@@ -1,5 +1,5 @@
-animeTitle	b'Teekyuu 7'
-animeType	b'TV'
+animeTitle	Teekyuu 7
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.65
 animeUsers	7545
 animeRank	
-animePopularity	
-animeDescription	b'Seventh season of the Teekyuu series.'
-animeRelated	[b'Teekyuu', b'Teekyuu 6', b'Teekyuu 7 Specials', b'Teekyuu 8']
-animeCharacters	[b'Bandou, Marimo', b'Shinjou, Kanae', b'Takamiya, Nasuno', b'Oshimoto, Yuri', b'Tanaka, Kinako', b'Nishiaraidaishi, Nishi', b'Kondou, Udonko', b'Kondou, Annenkov', b'Oshimoto, Youta', b'Saleswoman']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nNarumi, Kyoko\nJapanese\n', b'\nWatanabe, Yui\nJapanese\n', b'\nNakashima, Yuki\nJapanese\n', b'\nTanijiri, Maria\nJapanese\n', b'\nIshihara, Kaori\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItagaki, Shin\n\nDirector, Sound Director, Storyboard, Key Animation, Series Composition, Character Design\n\n', b'\nHanazawa, Kana\n\nTheme Song Performance\n\n', b'\nMimori, Suzuko\n\nTheme Song Performance\n\n', b'\nWatanabe, Yui\n\nTheme Song Performance\n\n']
+animePopularity	4615
+animeDescription	Seventh season of the Teekyuu series.
+animeRelated	['Teekyuu', 'Teekyuu 6', 'Teekyuu 7 Specials', 'Teekyuu 8']
+animeCharacters	['Bandou, Marimo', 'Shinjou, Kanae', 'Takamiya, Nasuno', 'Oshimoto, Yuri', 'Tanaka, Kinako', 'Nishiaraidaishi, Nishi', 'Kondou, Udonko', 'Kondou, Annenkov', 'Oshimoto, Youta', 'Saleswoman']
+animeVoices	['Hanazawa, Kana', 'Mimori, Suzuko', 'Narumi, Kyoko', 'Watanabe, Yui', 'Nakashima, Yuki', 'Tanijiri, Maria', 'Ishihara, Kaori', 'Kitamura, Eri', 'Oosaka, Ryouta']
+animeStaff	[['Itagaki, Shin', 'Director, Sound Director, Storyboard, Key Animation, Series Composition, Character Design'], ['Hanazawa, Kana', 'Theme Song Performance'], ['Mimori, Suzuko', 'Theme Song Performance'], ['Watanabe, Yui', 'Theme Song Performance']]

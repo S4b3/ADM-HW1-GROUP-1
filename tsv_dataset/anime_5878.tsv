@@ -1,5 +1,5 @@
-animeTitle	b'Fragtime'
-animeType	b'Movie'
+animeTitle	Fragtime
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.55
 animeUsers	11701
 animeRank	
-animePopularity	
-animeDescription	b'Misuzu Moritani is an introvert who has always had difficulty interacting with her classmates, quickly becoming flustered whenever someone tries to talk to her. Sometimes, she will use her ability to stop time for three minutes to escape troublesome social situations.\n\nOne day, as Misuzu watches the suspended environment around her, she observes that her classmate, Haruka Murakami, is somehow able to move despite her temporal influence. From that moment on, Misuzu experiences new wonders as she explores more of the world she has long avoided; no matter where time may take her, Misuzu can count on Haruka to always be at her side.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Fragtime']
-animeCharacters	[b'Murakami, Haruka', b'Moritani, Misuzu']
-animeVoices	[b'\nMiyamoto, Yume\nJapanese\n', b'\nItou, Miku\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItou, Miku\n\nTheme Song Performance\n\n', b'\nMiyamoto, Yume\n\nTheme Song Performance\n\n', b'\nrionos\n\nMusic\n\n', b'\nSato\n\nOriginal Creator\n\n']
+animePopularity	3225
+animeDescription	"Misuzu Moritani is an introvert who has always had difficulty interacting with her classmates, quickly becoming flustered whenever someone tries to talk to her. Sometimes, she will use her ability to stop time for three minutes to escape troublesome social situations.
+
+One day, as Misuzu watches the suspended environment around her, she observes that her classmate, Haruka Murakami, is somehow able to move despite her temporal influence. From that moment on, Misuzu experiences new wonders as she explores more of the world she has long avoided; no matter where time may take her, Misuzu can count on Haruka to always be at her side.
+
+[Written by MAL Rewrite]"
+animeRelated	['Fragtime']
+animeCharacters	['Murakami, Haruka', 'Moritani, Misuzu']
+animeVoices	['Miyamoto, Yume', 'Itou, Miku']
+animeStaff	[['Itou, Miku', 'Theme Song Performance'], ['Miyamoto, Yume', 'Theme Song Performance'], ['rionos', 'Music'], ['Sato', 'Original Creator']]

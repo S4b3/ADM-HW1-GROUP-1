@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam I'
-animeType	b'Movie'
+animeTitle	Mobile Suit Gundam I
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.27
 animeUsers	18122
 animeRank	
-animePopularity	
-animeDescription	"b'In the future, with Earth\'s population rapidly increasing, humanity has developed giant orbiting space colonies gathered in clusters known as ""Sides."" As the elites on Earth force most of the populace into space, rebellion begins to brew. In the year Universal Century 0079, one of the colony clusters known as Side 3 declares itself the Principality of Zeon and launches a war of independence against the Earth Federation.\n\nDespite having only a fraction of the resources of the Federation, Zeon quickly gains the upper hand in the conflict through the use of giant humanoid robots called mobile suits. Chief among Zeon\'s mobile suit ace pilots is Char Aznable, a mysterious masked man known as the ""Red Comet."" When Char\'s squadron comes across the Federation developing its own prototype mobile suit called Gundam in the colony Side 7, his men launch a brutal attack. Amuro Ray, the son of the prototype\'s developer, gets in the Gundam and is able to fend off the Zeon attack. As Amuro soon finds himself directly in conflict with Char, he is forced to flee the colony on a Federation ship.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Mobile Suit Gundam', b'Mobile Suit Gundam II: Soldiers of Sorrow']
-animeCharacters	[b'Aznable, Char', b'Ray, Amuro', b'Noa, Bright', b'Haro', b'Mass, Sayla', b'Ral, Ramba', b'Zabi, Mineva Lao', b'Shiden, Kai', b'Zabi, Garma', b'Zabi, Gihren']
-animeVoices	[b'\nIkeda, Shuuichi\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nTakagi, Sanae\nJapanese\n', b'\nInoue, You\nJapanese\n', b'\nHirose, Masashi\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nMori, Katsuji\nJapanese\n', b'\nGinga, Banjou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nYatate, Hajime\n\nProducer\n\n', b'\nTomino, Yoshiyuki\n\nDirector, Script, Storyboard, Original Creator\n\n', b'\nMatsuzaki, Kenichi\n\nScript, Screenplay\n\n']
+animePopularity	3239
+animeDescription	"In the future, with Earth's population rapidly increasing, humanity has developed giant orbiting space colonies gathered in clusters known as ""Sides."" As the elites on Earth force most of the populace into space, rebellion begins to brew. In the year Universal Century 0079, one of the colony clusters known as Side 3 declares itself the Principality of Zeon and launches a war of independence against the Earth Federation.
+
+Despite having only a fraction of the resources of the Federation, Zeon quickly gains the upper hand in the conflict through the use of giant humanoid robots called mobile suits. Chief among Zeon's mobile suit ace pilots is Char Aznable, a mysterious masked man known as the ""Red Comet."" When Char's squadron comes across the Federation developing its own prototype mobile suit called Gundam in the colony Side 7, his men launch a brutal attack. Amuro Ray, the son of the prototype's developer, gets in the Gundam and is able to fend off the Zeon attack. As Amuro soon finds himself directly in conflict with Char, he is forced to flee the colony on a Federation ship.
+
+[Written by MAL Rewrite]"
+animeRelated	['Mobile Suit Gundam', 'Mobile Suit Gundam II: Soldiers of Sorrow']
+animeCharacters	['Aznable, Char', 'Ray, Amuro', 'Noa, Bright', 'Haro', 'Mass, Sayla', 'Ral, Ramba', 'Zabi, Mineva Lao', 'Shiden, Kai', 'Zabi, Garma', 'Zabi, Gihren']
+animeVoices	['Ikeda, Shuuichi', 'Furuya, Toru', 'Suzuoki, Hirotaka', 'Takagi, Sanae', 'Inoue, You', 'Hirose, Masashi', 'Furukawa, Toshio', 'Mori, Katsuji', 'Ginga, Banjou']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Yatate, Hajime', 'Producer'], ['Tomino, Yoshiyuki', 'Director, Script, Storyboard, Original Creator'], ['Matsuzaki, Kenichi', 'Script, Screenplay']]

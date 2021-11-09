@@ -1,5 +1,5 @@
-animeTitle	b'Okusama ga Seitokaichou!+!'
-animeType	b'TV'
+animeTitle	Okusama ga Seitokaichou!+!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.61
 animeUsers	74035
 animeRank	
-animePopularity	
-animeDescription	"b""The story begins with Izumi Hayato running to be student council president. But when a beautiful girl swings in promising the liberalization of love while flinging condoms into the audience, he ends up losing to her and becoming the vice president. At the student council meeting, the newly-elected president invites herself over to Izumi's house, where she promptly announces she is to become Izumi's wife thanks to an agreement\xe2\x80\x94facilitated by alcohol\xe2\x80\x94made between their parents when they were only 3.\n\n(Source: MAL Scanlations)"""
-animeRelated	[b'Okusama ga Seitokaichou!', b'Okusama ga Seitokaichou!: Seitokaichou to Ofuro Asobi']
-animeCharacters	[b'Wakana, Ui', b'Izumi, Hayato', b'Misumi, Rin', b'Niikura, Ayane', b'Misumi, Kei', b'Sawatari, Mato', b'Fujisaki, Karen', b'Wakana, Misato', b'Saijou, Honoka', b'Wakana, Ryouji']
-animeVoices	[b'\nTaketatsu, Ayana\nJapanese\n', b'\nOkitsu, Kazuyuki\nJapanese\n', b'\nTsuda, Minami\nJapanese\n', b'\nFujimoto, Aoi\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nNagatsuma, Juri\nJapanese\n', b'\nSugiyama, Yoshie\nJapanese\n', b'\nKaneda, Tomoko\nJapanese\n', b'\nTokui, Sora\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasaki, Tokihiro\n\nDirector\n\n', b'\nAiura, Kazuya\n\nEpisode Director, Storyboard\n\n', b'\nKatakiri, Rekka\n\nTheme Song Performance\n\n', b'\nNakata, Yumi\n\nOriginal Creator\n\n']
+animePopularity	1252
+animeDescription	"The story begins with Izumi Hayato running to be student council president. But when a beautiful girl swings in promising the liberalization of love while flinging condoms into the audience, he ends up losing to her and becoming the vice president. At the student council meeting, the newly-elected president invites herself over to Izumi's house, where she promptly announces she is to become Izumi's wife thanks to an agreement—facilitated by alcohol—made between their parents when they were only 3.
+
+(Source: MAL Scanlations)"
+animeRelated	['Okusama ga Seitokaichou!', 'Okusama ga Seitokaichou!: Seitokaichou to Ofuro Asobi']
+animeCharacters	['Wakana, Ui', 'Izumi, Hayato', 'Misumi, Rin', 'Niikura, Ayane', 'Misumi, Kei', 'Sawatari, Mato', 'Fujisaki, Karen', 'Wakana, Misato', 'Saijou, Honoka', 'Wakana, Ryouji']
+animeVoices	['Taketatsu, Ayana', 'Okitsu, Kazuyuki', 'Tsuda, Minami', 'Fujimoto, Aoi', 'Shiraishi, Ryouko', 'Nagatsuma, Juri', 'Sugiyama, Yoshie', 'Kaneda, Tomoko', 'Tokui, Sora']
+animeStaff	[['Sasaki, Tokihiro', 'Director'], ['Aiura, Kazuya', 'Episode Director, Storyboard'], ['Katakiri, Rekka', 'Theme Song Performance'], ['Nakata, Yumi', 'Original Creator']]

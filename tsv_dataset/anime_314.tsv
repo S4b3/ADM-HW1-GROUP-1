@@ -1,5 +1,5 @@
-animeTitle	b'InuYasha: Kanketsu-hen'
-animeType	b'TV'
+animeTitle	InuYasha: Kanketsu-hen
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.21
 animeUsers	118293
 animeRank	
-animePopularity	
-animeDescription	b'Thwarted again by Naraku, Inuyasha, Kagome Higurashi, and their friends must continue their hunt for the few remaining Shikon Jewel shards, lest they fully form into a corrupted jewel at the hands of Naraku. But Naraku has plans of his own to acquire them, and will destroy anyone and anything standing in his way\xe2\x80\x94even his own underlings.\n\nThe persistent, unyielding danger posed by Naraku forces Sango and Miroku to decide what is most important to them\xe2\x80\x94each other or their duty in battle. Meanwhile, Inuyasha must decide whether his heart lies with Kikyou or Kagome, before fate decides for him. Amid the race to find the shards, Inuyasha and his brother Sesshoumaru must also resolve their feud and cooperate for their final confrontation with Naraku, as it is a battle they must win in order to put a stop to his evil and cruelty once and for all.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'InuYasha', b'Hanyou no Yashahime: Sengoku Otogizoushi']
-animeCharacters	[b'Inuyasha', b'Higurashi, Kagome', b'Sango', b'Miroku', b'Sesshoumaru', b'Kikyou', b'Shippou', b'Kouga', b'Kagura', b'Rin']
-animeVoices	[b'\nYamaguchi, Kappei\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nNarita, Ken\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nWatanabe, Kumiko\nJapanese\n', b'\nMatsuno, Taiki\nJapanese\n', b'\nOogami, Izumi\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nWatada, Shinya\n\nEpisode Director, Storyboard\n\n', b'\nFuruta, Jouji\n\nEpisode Director\n\n', b'\nSatou, Teruo\n\nEpisode Director, Assistant Director\n\n']
+animePopularity	745
+animeDescription	"Thwarted again by Naraku, Inuyasha, Kagome Higurashi, and their friends must continue their hunt for the few remaining Shikon Jewel shards, lest they fully form into a corrupted jewel at the hands of Naraku. But Naraku has plans of his own to acquire them, and will destroy anyone and anything standing in his way—even his own underlings.
+
+The persistent, unyielding danger posed by Naraku forces Sango and Miroku to decide what is most important to them—each other or their duty in battle. Meanwhile, Inuyasha must decide whether his heart lies with Kikyou or Kagome, before fate decides for him. Amid the race to find the shards, Inuyasha and his brother Sesshoumaru must also resolve their feud and cooperate for their final confrontation with Naraku, as it is a battle they must win in order to put a stop to his evil and cruelty once and for all.
+
+[Written by MAL Rewrite]"
+animeRelated	['InuYasha', 'Hanyou no Yashahime: Sengoku Otogizoushi']
+animeCharacters	['Inuyasha', 'Higurashi, Kagome', 'Sango', 'Miroku', 'Sesshoumaru', 'Kikyou', 'Shippou', 'Kouga', 'Kagura', 'Rin']
+animeVoices	['Yamaguchi, Kappei', 'Yukino, Satsuki', 'Kuwashima, Houko', 'Saitou, Chiwa', 'Narita, Ken', 'Hidaka, Noriko', 'Watanabe, Kumiko', 'Matsuno, Taiki', 'Oogami, Izumi', 'Noto, Mamiko']
+animeStaff	[['Tsuruoka, Youta', 'Sound Director'], ['Watada, Shinya', 'Episode Director, Storyboard'], ['Furuta, Jouji', 'Episode Director'], ['Satou, Teruo', 'Episode Director, Assistant Director']]

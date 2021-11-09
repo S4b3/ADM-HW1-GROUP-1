@@ -1,5 +1,5 @@
-animeTitle	b'Galaxy Angel Rune'
-animeType	b'TV'
+animeTitle	Galaxy Angel Rune
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.32
 animeUsers	1321
 animeRank	
-animePopularity	
-animeDescription	b'Apricot Sakuraba and 4 new girls were now assigned as the new Galaxy Angels with the same mission: to search for the Lost Technology and keep peace to Planet Transbaal. \n\n(Source: ANN)'
-animeRelated	[b'Galaxy Angel 3rd', b'Galaxy Angel']
-animeCharacters	[b'Sakuraba, Apricot', b'Pudding, Nano-Nano', b'Marjoram, Kahlua', b'Azeat, Anise', b'Marjoram, Tequila', b'Sherbet, Lily C.', b'Mimoret', b'Sakuraba, Milfeulle', b'Blancmanche, Mint', b'H, Vanilla']
-animeVoices	[b'\nInamura, Yuuna\nJapanese\n', b'\nAkesaka, Satomi\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nHanamura, Satomi\nJapanese\n', b'\nNakayama, Erina\nJapanese\n', b'\nKobayashi, Akiko\nJapanese\n', b'\nShintani, Ryouko\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKishi, Seiji\n\nDirector\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nShiraishi, Michita\n\nEpisode Director\n\n', b'\nKakihara, Yuuko\n\nScript\n\n']
+animePopularity	7052
+animeDescription	"Apricot Sakuraba and 4 new girls were now assigned as the new Galaxy Angels with the same mission: to search for the Lost Technology and keep peace to Planet Transbaal. 
+
+(Source: ANN)"
+animeRelated	['Galaxy Angel 3rd', 'Galaxy Angel']
+animeCharacters	['Sakuraba, Apricot', 'Pudding, Nano-Nano', 'Marjoram, Kahlua', 'Azeat, Anise', 'Marjoram, Tequila', 'Sherbet, Lily C.', 'Mimoret', 'Sakuraba, Milfeulle', 'Blancmanche, Mint', 'H, Vanilla']
+animeVoices	['Inamura, Yuuna', 'Akesaka, Satomi', 'Hirano, Aya', 'Hanamura, Satomi', 'Nakayama, Erina', 'Kobayashi, Akiko', 'Shintani, Ryouko', 'Sawashiro, Miyuki']
+animeStaff	[['Kishi, Seiji', 'Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Shiraishi, Michita', 'Episode Director'], ['Kakihara, Yuuko', 'Script']]

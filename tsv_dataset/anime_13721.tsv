@@ -1,5 +1,5 @@
-animeTitle	b'Tantei Shounen Kageman'
-animeType	b'TV'
+animeTitle	Tantei Shounen Kageman
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Kageman is a boy who wants to become the best detective in the world. Each of the self-contained episode features a fun guessing game and unriddling of a case. \n\n(Source: AniDB)'
+animePopularity	15194
+animeDescription	"Kageman is a boy who wants to become the best detective in the world. Each of the self-contained episode features a fun guessing game and unriddling of a case. 
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Narrator']
-animeVoices	[b'\nKobayashi, Kiyoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOhata, Kiyotaka\n\nEpisode Director, Storyboard\n\n', b'\nSadohara, Takeyuki\n\nEpisode Director\n\n', b'\nKume, Issei\n\nEpisode Director, Storyboard\n\n', b'\nMakino, Takashi\n\nTheme Song Composition\n\n']
+animeCharacters	['Narrator']
+animeVoices	['Kobayashi, Kiyoshi']
+animeStaff	[['Ohata, Kiyotaka', 'Episode Director, Storyboard'], ['Sadohara, Takeyuki', 'Episode Director'], ['Kume, Issei', 'Episode Director, Storyboard'], ['Makino, Takashi', 'Theme Song Composition']]

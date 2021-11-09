@@ -1,5 +1,5 @@
-animeTitle	b'Digital Juice'
-animeType	b'OVA'
+animeTitle	Digital Juice
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.55
 animeUsers	2492
 animeRank	
-animePopularity	
-animeDescription	b'A series of short animations that show different worlds and different characters. These episodes are designed to take the viewer into a psychological world of fantasy and mystery.\n\n(Source: ANN)'
+animePopularity	6584
+animeDescription	"A series of short animations that show different worlds and different characters. These episodes are designed to take the viewer into a psychological world of fantasy and mystery.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Neji', b'Hasami']
-animeVoices	[b'\nMatsuoka, Fumiaki\nJapanese\n', b'\nFujita, Kaoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorimoto, Kouji\n\nCo-Director, Director, Character Design, Setting\n\n', b'\nKobayashi, Osamu\n\nCo-Director\n\n', b'\nYaginuma, Kazuyoshi\n\nCo-Director, Color Design, Character Design, Animation Director\n\n', b'\nTanaka, Tatsuyuki\n\nCo-Director\n\n']
+animeCharacters	['Neji', 'Hasami']
+animeVoices	['Matsuoka, Fumiaki', 'Fujita, Kaoru']
+animeStaff	[['Morimoto, Kouji', 'Co-Director, Director, Character Design, Setting'], ['Kobayashi, Osamu', 'Co-Director'], ['Yaginuma, Kazuyoshi', 'Co-Director, Color Design, Character Design, Animation Director'], ['Tanaka, Tatsuyuki', 'Co-Director']]

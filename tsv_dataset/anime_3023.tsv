@@ -1,5 +1,5 @@
-animeTitle	b'Digimon Ghost Game'
-animeType	b'TV'
+animeTitle	Digimon Ghost Game
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	7.17
 animeUsers	1371
 animeRank	
-animePopularity	
-animeDescription	"b'Sightings of mysterious creatures known as ""Hologram Ghosts"" have been a popular topic on social networks for the past few years. According to the rumors, several people have fallen victim to these specters. Those fortunate to survive their encounters with the paranormal beings claim that they resembled glitched holograms.\n\nHazakura Academy middle school student Hiro Amanokawa believes these sightings are merely an urban legend. However, as the incidents start to increase in frequency, he is reminded of the day his father suddenly vanished, with strange digital watches serving as the only relics of his disappearance. Much like the other sightings, what happened to Hiro\'s father cannot be explained by conventional logic. \n\nOne day, when a fellow student in the academy is attacked by a Hologram Ghost, Hiro and his friend Kiyoshirou Higashimitarai decide to look into the matter. Little does Hiro know that this investigation will be their first step toward discovering a dangerous world previously unknown to mankind.\n\n[Written by MAL Rewrite]\n'"
-animeRelated	[b'Digimon Adventure']
-animeCharacters	[b'Gammamon', b'Higashimitarai, Kiyoshirou', b'Tsukiyono, Ruri', b'Angoramon', b'Jellymon', b'Amanokawa, Hiro']
-animeVoices	[b'\nSawashiro, Miyuki\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nShimamura, Yuu\nJapanese\n', b'\nTamura, Mutsumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChioka, Kimitoshi\n\nDirector\n\n', b'\nMitsuka, Masato\n\nDirector\n\n', b'\nOtani, Kow\n\nMusic\n\n', b'\nHongou, Akiyoshi\n\nOriginal Creator\n\n']
+animePopularity	5162
+animeDescription	"Sightings of mysterious creatures known as ""Hologram Ghosts"" have been a popular topic on social networks for the past few years. According to the rumors, several people have fallen victim to these specters. Those fortunate to survive their encounters with the paranormal beings claim that they resembled glitched holograms.
+
+Hazakura Academy middle school student Hiro Amanokawa believes these sightings are merely an urban legend. However, as the incidents start to increase in frequency, he is reminded of the day his father suddenly vanished, with strange digital watches serving as the only relics of his disappearance. Much like the other sightings, what happened to Hiro's father cannot be explained by conventional logic. 
+
+One day, when a fellow student in the academy is attacked by a Hologram Ghost, Hiro and his friend Kiyoshirou Higashimitarai decide to look into the matter. Little does Hiro know that this investigation will be their first step toward discovering a dangerous world previously unknown to mankind.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Digimon Adventure']
+animeCharacters	['Gammamon', 'Higashimitarai, Kiyoshirou', 'Tsukiyono, Ruri', 'Angoramon', 'Jellymon', 'Amanokawa, Hiro']
+animeVoices	['Sawashiro, Miyuki', 'Ishida, Akira', 'Kobayashi, Yuu', 'Nakai, Kazuya', 'Shimamura, Yuu', 'Tamura, Mutsumi']
+animeStaff	[['Chioka, Kimitoshi', 'Director'], ['Mitsuka, Masato', 'Director'], ['Otani, Kow', 'Music'], ['Hongou, Akiyoshi', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue Specials'
-animeType	b'Special'
+animeTitle	Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue Specials
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	5.31
 animeUsers	1904
 animeRank	
-animePopularity	
-animeDescription	b'In addition to the flash anime, 3 short special episodes were included on the Ane Log Fan Disc.\n\nEpisodes\n#1: Sekai no Ane Ijin no Jikan\n#2: Moya-nee Boot Camp\n#3: Ane Denwa Soudan'
-animeRelated	[b'Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue']
-animeCharacters	[b'Konoe, Moyako', b'Konoe, Akira', b'Kurose, Kasumi']
-animeVoices	[b'\nKoshimizu, Ami\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nAkesaka, Satomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTaguchi, Kenji\n\nOriginal Creator\n\n']
+animePopularity	6804
+animeDescription	"In addition to the flash anime, 3 short special episodes were included on the Ane Log Fan Disc.
+
+Episodes
+#1: Sekai no Ane Ijin no Jikan
+#2: Moya-nee Boot Camp
+#3: Ane Denwa Soudan"
+animeRelated	['Ane Log: Moyako Neesan no Honpen wo Tobidashite Tomaranai Monologue']
+animeCharacters	['Konoe, Moyako', 'Konoe, Akira', 'Kurose, Kasumi']
+animeVoices	['Koshimizu, Ami', 'Mizushima, Takahiro', 'Akesaka, Satomi']
+animeStaff	[['Taguchi, Kenji', 'Original Creator']]

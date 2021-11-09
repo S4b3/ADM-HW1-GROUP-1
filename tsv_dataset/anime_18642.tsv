@@ -1,5 +1,5 @@
-animeTitle	b'Shoujo Senki Brain Jacker'
-animeType	b'OVA'
+animeTitle	Shoujo Senki Brain Jacker
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.77
 animeUsers	1347
 animeRank	
-animePopularity	
-animeDescription	"b'Based on the eroge ""Shoujo Senki Soul Eater"" by Lune.'"
-animeRelated	[b'Shoujo Senki Soul Eater']
-animeCharacters	[b'Kaifon, Lin']
+animePopularity	7677
+animeDescription	"Based on the eroge ""Shoujo Senki Soul Eater"" by Lune."
+animeRelated	['Shoujo Senki Soul Eater']
+animeCharacters	['Kaifon, Lin']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTominaga, Tsuneo\n\nEpisode Director, Storyboard\n\n', b'\nUshijima, Yuji\n\nAnimation Director, Character Design\n\n']
+animeStaff	[['Tominaga, Tsuneo', 'Episode Director, Storyboard'], ['Ushijima, Yuji', 'Animation Director, Character Design']]

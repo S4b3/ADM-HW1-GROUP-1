@@ -1,5 +1,5 @@
-animeTitle	b'Sword Art Online II'
-animeType	b'TV'
+animeTitle	Sword Art Online II
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.72
 animeUsers	1097346
 animeRank	
-animePopularity	
-animeDescription	"b""A year after escaping Sword Art Online, Kazuto Kirigaya has been settling back into the real world. However, his peace is short-lived as a new incident occurs in a game called Gun Gale Online, where a player by the name of Death Gun appears to be killing people in the real world by shooting them in-game. Approached by officials to assist in investigating the murders, Kazuto assumes his persona of Kirito once again and logs into Gun Gale Online, intent on stopping the killer.\n\nOnce inside, Kirito meets Sinon, a highly skilled sniper afflicted by a traumatic past. She is soon dragged in his chase after Death Gun, and together they enter the Bullet of Bullets, a tournament where their target is sure to appear. Uncertain of Death Gun's real powers, Kirito and Sinon race to stop him before he has the chance to claim another life. Not everything goes smoothly, however, as scars from the past impede their progress. In a high-stakes game where the next victim could easily be one of them, Kirito puts his life on the line in the virtual world once more.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Sword Art Online', b'Sword Art Online: Extra Edition', b'Sword Art Online II: Debriefing', b'Sword Art Online II: Sword Art Offline II', b'Sword Art Online Fatal Bullet: The Third Episode - Pilot-ban', b'Sword Art Online Fatal Bullet: The Third Episode', b'Sword Art Online Movie: Ordinal Scale', b'Sword Art Online Alternative: Gun Gale Online']
-animeCharacters	[b'Kirigaya, Kazuto', b'Yuuki, Asuna', b'Asada, Shino', b'Konno, Yuuki', b'Yui', b'Kirigaya, Suguha', b'Tsuboi, Ryoutarou', b'Ayano, Keiko', b'Shinozaki, Rika', b'Mills, Andrew Gilbert']
-animeVoices	[b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nItou, Kanae\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nHidaka, Rina\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiki, Kazuma\n\nProducer\n\n', b'\nItou, Tomohiko\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nTakashima, Daisuke\n\nEpisode Director\n\n']
+animePopularity	31
+animeDescription	"A year after escaping Sword Art Online, Kazuto Kirigaya has been settling back into the real world. However, his peace is short-lived as a new incident occurs in a game called Gun Gale Online, where a player by the name of Death Gun appears to be killing people in the real world by shooting them in-game. Approached by officials to assist in investigating the murders, Kazuto assumes his persona of Kirito once again and logs into Gun Gale Online, intent on stopping the killer.
+
+Once inside, Kirito meets Sinon, a highly skilled sniper afflicted by a traumatic past. She is soon dragged in his chase after Death Gun, and together they enter the Bullet of Bullets, a tournament where their target is sure to appear. Uncertain of Death Gun's real powers, Kirito and Sinon race to stop him before he has the chance to claim another life. Not everything goes smoothly, however, as scars from the past impede their progress. In a high-stakes game where the next victim could easily be one of them, Kirito puts his life on the line in the virtual world once more.
+
+[Written by MAL Rewrite]"
+animeRelated	['Sword Art Online', 'Sword Art Online: Extra Edition', 'Sword Art Online II: Debriefing', 'Sword Art Online II: Sword Art Offline II', 'Sword Art Online Fatal Bullet: The Third Episode - Pilot-ban', 'Sword Art Online Fatal Bullet: The Third Episode', 'Sword Art Online Movie: Ordinal Scale', 'Sword Art Online Alternative: Gun Gale Online']
+animeCharacters	['Kirigaya, Kazuto', 'Yuuki, Asuna', 'Asada, Shino', 'Konno, Yuuki', 'Yui', 'Kirigaya, Suguha', 'Tsuboi, Ryoutarou', 'Ayano, Keiko', 'Shinozaki, Rika', 'Mills, Andrew Gilbert']
+animeVoices	['Matsuoka, Yoshitsugu', 'Tomatsu, Haruka', 'Sawashiro, Miyuki', 'Yuuki, Aoi', 'Itou, Kanae', 'Taketatsu, Ayana', 'Hirata, Hiroaki', 'Hidaka, Rina', 'Takagaki, Ayahi', 'Yasumoto, Hiroki']
+animeStaff	[['Miki, Kazuma', 'Producer'], ['Itou, Tomohiko', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Takashima, Daisuke', 'Episode Director']]

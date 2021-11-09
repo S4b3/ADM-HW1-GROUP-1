@@ -1,5 +1,5 @@
-animeTitle	b'Golgo 13: Queen Bee'
-animeType	b'OVA'
+animeTitle	Golgo 13: Queen Bee
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.59
 animeUsers	3761
 animeRank	
-animePopularity	
-animeDescription	"b'Master assassin Golgo 13 is hired by the advisor of presidential candidate Robert Hardy to assassinate ""Queen Bee,"" the beautiful and deadly leader of a South American guerilla army. Golgo, however, finds this job too easy and digs further information to find out the true connection between Hardy and Queen Bee.\n\n(Source: ANN)'"
-animeRelated	[b'Golgo 13', b'Golgo 13 (TV)']
-animeCharacters	[b'Togo, Duke', b'Queen Bee', b'Hardy, Robert', b'Waltham, Thomas']
-animeVoices	[b'\nGenda, Tesshou\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nArimoto, Kinryuu\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Mataichirou\n\nProducer, Executive Producer\n\n', b'\nDezaki, Osamu\n\nDirector, Storyboard\n\n', b'\nKuwahara, Satoshi\n\nEpisode Director\n\n', b'\nKoike, Kazuo\n\nOriginal Creator\n\n']
+animePopularity	5629
+animeDescription	"Master assassin Golgo 13 is hired by the advisor of presidential candidate Robert Hardy to assassinate ""Queen Bee,"" the beautiful and deadly leader of a South American guerilla army. Golgo, however, finds this job too easy and digs further information to find out the true connection between Hardy and Queen Bee.
+
+(Source: ANN)"
+animeRelated	['Golgo 13', 'Golgo 13 (TV)']
+animeCharacters	['Togo, Duke', 'Queen Bee', 'Hardy, Robert', 'Waltham, Thomas']
+animeVoices	['Genda, Tesshou', 'Katsuki, Masako', 'Arimoto, Kinryuu', 'Nakao, Ryusei']
+animeStaff	[['Yamamoto, Mataichirou', 'Producer, Executive Producer'], ['Dezaki, Osamu', 'Director, Storyboard'], ['Kuwahara, Satoshi', 'Episode Director'], ['Koike, Kazuo', 'Original Creator']]

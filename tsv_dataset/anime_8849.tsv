@@ -1,5 +1,5 @@
-animeTitle	b'Samurai Girl Real Bout High School'
-animeType	b'TV'
+animeTitle	Samurai Girl Real Bout High School
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.95
 animeUsers	3576
 animeRank	
-animePopularity	
-animeDescription	"b""At Daimon High School, kids settle their disputes by dueling with each other in the school's official K-Fight battle arena. Ryoko Mitsurugi, samurai girl and undefeated K-Fight champion, is called upon by a mysterious Priestess to protect the Earth from an invasion coming from the alternate universe of Solvania. She must face battles that will test her skills, her friendships, and her heart in order to find her true strength as a samurai warrior. \n\n(Source: ANN)"""
-animeRelated	[b'Real Bout High School', b'Shoukan Kyoushi Real Bout High School']
-animeCharacters	[b'Mitsurugi, Ryoko', b'Kusanagi, Shizuma', b'Kiribayashi, Azumi', b'Onizuka, Miyuki', b'Nakamura, Tamaki', b'Hishinuma, Nanako', b'Aoki, Misao', b'Shishikura, Tatsuya', b'Todo, Takao', b'Yuki, Hitomi']
-animeVoices	[b'\nKimura, Ikue\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nNogawa, Sakura\nJapanese\n', b'\nYoshida, Sayuri\nJapanese\n', b'\nSumitomo, Yuuko\nJapanese\n', b'\nChiba, Susumu\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nNasu, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTokairin, Shinichi\n\nDirector, Script, Storyboard\n\n', b'\nInoue, Kazuhiko\n\nSound Director\n\n', b'\nSatou, Hidekazu\n\nEpisode Director, Storyboard\n\n', b'\nSayama, Kiyoko\n\nStoryboard\n\n']
+animePopularity	5461
+animeDescription	"At Daimon High School, kids settle their disputes by dueling with each other in the school's official K-Fight battle arena. Ryoko Mitsurugi, samurai girl and undefeated K-Fight champion, is called upon by a mysterious Priestess to protect the Earth from an invasion coming from the alternate universe of Solvania. She must face battles that will test her skills, her friendships, and her heart in order to find her true strength as a samurai warrior. 
+
+(Source: ANN)"
+animeRelated	['Real Bout High School', 'Shoukan Kyoushi Real Bout High School']
+animeCharacters	['Mitsurugi, Ryoko', 'Kusanagi, Shizuma', 'Kiribayashi, Azumi', 'Onizuka, Miyuki', 'Nakamura, Tamaki', 'Hishinuma, Nanako', 'Aoki, Misao', 'Shishikura, Tatsuya', 'Todo, Takao', 'Yuki, Hitomi']
+animeVoices	['Kimura, Ikue', 'Seki, Tomokazu', 'Yukino, Satsuki', 'Nogawa, Sakura', 'Yoshida, Sayuri', 'Sumitomo, Yuuko', 'Chiba, Susumu', 'Ishizuka, Unshou', 'Nasu, Megumi']
+animeStaff	[['Tokairin, Shinichi', 'Director, Script, Storyboard'], ['Inoue, Kazuhiko', 'Sound Director'], ['Satou, Hidekazu', 'Episode Director, Storyboard'], ['Sayama, Kiyoko', 'Storyboard']]

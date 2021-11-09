@@ -1,5 +1,5 @@
-animeTitle	b'Red Garden: Dead Girls'
-animeType	b'OVA'
+animeTitle	Red Garden: Dead Girls
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.37
 animeUsers	3227
 animeRank	
-animePopularity	
-animeDescription	b'In the future (subsequent to the events of the television series) Kate, Rose, Rachel and Claire divide their immortal lives between study and vigilantism. Their past link to the red garden on Roosevelt Island comes back to haunt them after mysterious transfer students Louise and Edgar seek out their friendship.'
-animeRelated	[b'Red Garden']
-animeCharacters	[b'Ashley, Kate', b'Forrest, Claire', b'Benning, Rachel', b'Sheedy, Rose', b'Edgar', b'Lula', b'Luke', b'Sinclair, Paula', b'Louise', b'Steiner, Claude']
-animeVoices	[b'\nTomisaka, Akira\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nShintani, Ryouko\nJapanese\n', b'\nTsuji, Ayumi\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nMasuda, Yuuki\nJapanese\n', b'\nFukuen, Misato\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChung, Jin Ho\n\nProducer\n\n', b'\nMatsuo, Kou\n\nDirector\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nFoster, Steven\n\nScript, ADR Director\n\n']
+animePopularity	5914
+animeDescription	In the future (subsequent to the events of the television series) Kate, Rose, Rachel and Claire divide their immortal lives between study and vigilantism. Their past link to the red garden on Roosevelt Island comes back to haunt them after mysterious transfer students Louise and Edgar seek out their friendship.
+animeRelated	['Red Garden']
+animeCharacters	['Ashley, Kate', 'Forrest, Claire', 'Benning, Rachel', 'Sheedy, Rose', 'Edgar', 'Lula', 'Luke', 'Sinclair, Paula', 'Louise', 'Steiner, Claude']
+animeVoices	['Tomisaka, Akira', 'Sawashiro, Miyuki', 'Shintani, Ryouko', 'Tsuji, Ayumi', 'Koyasu, Takehito', 'Masuda, Yuuki', 'Fukuen, Misato']
+animeStaff	[['Chung, Jin Ho', 'Producer'], ['Matsuo, Kou', 'Director'], ['Kameyama, Toshiki', 'Sound Director'], ['Foster, Steven', 'Script, ADR Director']]

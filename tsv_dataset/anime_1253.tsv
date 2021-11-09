@@ -1,5 +1,5 @@
-animeTitle	b'K: Seven Stories Movie 5 - Memory of Red - Burn'
-animeType	b'Movie'
+animeTitle	K: Seven Stories Movie 5 - Memory of Red - Burn
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.62
 animeUsers	4385
 animeRank	
-animePopularity	
-animeDescription	"b""It is the beginning of December. Anna Kushina's birthday is coming up, so the boys of HOMRA decide to celebrate by preparing a surprise party for their little princess.\n\n(Source: TubiTV)"""
-animeRelated	[b'K: Memory of Red', b'K: Seven Stories Movie 4 - Lost Small World - Ori no Mukou ni', b'K: Seven Stories Movie 6 - Circle Vision - Nameless Song', b'K: Seven Stories - The Idol K']
-animeCharacters	[b'Suou, Mikoto', b'Totsuka, Tatara', b'Kusanagi, Izumo', b'Yata, Misaki', b'Fushimi, Saruhiko', b'Isana, Yashiro', b'Kushina, Anna', b'Munakata, Reishi', b'Awashima, Seri', b'Hisui, Nagare']
-animeVoices	[b'\nTsuda, Kenjirou\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nOkitsu, Kazuyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Ryou\n\nSound Director\n\n']
+animePopularity	4207
+animeDescription	"It is the beginning of December. Anna Kushina's birthday is coming up, so the boys of HOMRA decide to celebrate by preparing a surprise party for their little princess.
+
+(Source: TubiTV)"
+animeRelated	['K: Memory of Red', 'K: Seven Stories Movie 4 - Lost Small World - Ori no Mukou ni', 'K: Seven Stories Movie 6 - Circle Vision - Nameless Song', 'K: Seven Stories - The Idol K']
+animeCharacters	['Suou, Mikoto', 'Totsuka, Tatara', 'Kusanagi, Izumo', 'Yata, Misaki', 'Fushimi, Saruhiko', 'Isana, Yashiro', 'Kushina, Anna', 'Munakata, Reishi', 'Awashima, Seri', 'Hisui, Nagare']
+animeVoices	['Tsuda, Kenjirou', 'Kaji, Yuki', 'Sakurai, Takahiro', 'Fukuyama, Jun', 'Miyano, Mamoru', 'Namikawa, Daisuke', 'Horie, Yui', 'Sugita, Tomokazu', 'Okitsu, Kazuyuki']
+animeStaff	[['Tanaka, Ryou', 'Sound Director']]

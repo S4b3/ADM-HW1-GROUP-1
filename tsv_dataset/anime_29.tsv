@@ -1,5 +1,5 @@
-animeTitle	b'Odd Taxi'
-animeType	b'TV'
+animeTitle	Odd Taxi
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.79
 animeUsers	87609
 animeRank	
-animePopularity	
-animeDescription	"b'Eccentric and blunt, the walrus Hiroshi Odokawa lives a relatively normal life. He drives a taxi for a living, and there he meets several unique individuals: the jobless Taichi Kabasawa who is dead-set on going viral, the mysterious nurse Miho Shirakawa, the struggling comedic duo ""Homo Sapiens,"" and Dobu, a well-known delinquent.\n\nBut Odokawa\'s simple way of life is about to be turned upside-down. The case of a missing girl the police have been tracking leads back to him, and now both the yakuza and a duo of corrupt cops are on his tail. Set in a strangely familiar city filled with unusual individuals, Odd Taxi is a bizarre story about a humble taxi driver and the mystery of a lost high schooler.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Odd Taxi']
-animeCharacters	[b'Odokawa, Hiroshi', b'Yano', b'Tanaka, Hajime', b'Shirakawa, Miho', b'Imai, Shun', b'Dobu', b'Gouriki, Ayumu', b'Daimon, Koushirou', b'Yamamoto, Fuyuki', b'Kakihana, Eiji']
-animeVoices	[b'\nHanae, Natsuki\nJapanese\n', b'\nMETEOR\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nIida, Riho\nJapanese\n', b'\nSakai, Koudai\nJapanese\n', b'\nHamada, Kenji\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nAsei\nJapanese\n', b'\nFurukawa, Makoto\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKinoshita, Baku\n\nDirector, Character Design\n\n', b'\nYoshida, Kouhei\n\nSound Director\n\n', b'\nYamai, Sayaka\n\nEpisode Director\n\n', b'\nKonomoto, Kazuya\n\nScript\n\n']
+animePopularity	897
+animeDescription	"Eccentric and blunt, the walrus Hiroshi Odokawa lives a relatively normal life. He drives a taxi for a living, and there he meets several unique individuals: the jobless Taichi Kabasawa who is dead-set on going viral, the mysterious nurse Miho Shirakawa, the struggling comedic duo ""Homo Sapiens,"" and Dobu, a well-known delinquent.
+
+But Odokawa's simple way of life is about to be turned upside-down. The case of a missing girl the police have been tracking leads back to him, and now both the yakuza and a duo of corrupt cops are on his tail. Set in a strangely familiar city filled with unusual individuals, Odd Taxi is a bizarre story about a humble taxi driver and the mystery of a lost high schooler.
+
+[Written by MAL Rewrite]"
+animeRelated	['Odd Taxi']
+animeCharacters	['Odokawa, Hiroshi', 'Yano', 'Tanaka, Hajime', 'Shirakawa, Miho', 'Imai, Shun', 'Dobu', 'Gouriki, Ayumu', 'Daimon, Koushirou', 'Yamamoto, Fuyuki', 'Kakihana, Eiji']
+animeVoices	['Hanae, Natsuki', 'METEOR', 'Saitou, Souma', 'Iida, Riho', 'Sakai, Koudai', 'Hamada, Kenji', 'Kimura, Ryouhei', 'Asei', 'Furukawa, Makoto', 'Yamaguchi, Kappei']
+animeStaff	[['Kinoshita, Baku', 'Director, Character Design'], ['Yoshida, Kouhei', 'Sound Director'], ['Yamai, Sayaka', 'Episode Director'], ['Konomoto, Kazuya', 'Script']]

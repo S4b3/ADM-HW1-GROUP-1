@@ -1,5 +1,5 @@
-animeTitle	b'Koihime'
-animeType	b'OVA'
+animeTitle	Koihime
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.57
 animeUsers	1829
 animeRank	
-animePopularity	
-animeDescription	"b""When Musashi returns to his childhood home, he rekindles friendships with four beautiful young women from his youth that he'd totally forgotten about. Hidden desires give way to supernatural secrets, though, as Musashi discovers that the village he remembers hides a terrible secret that he never even imagined. Can love really conquer all? \n\n(Source: AniDB)"""
-animeRelated	[b'Zoku Koihime']
-animeCharacters	[b'Sasaki, Musashi', b'Nami', b'Suzaku', b'Mayuki', b'Anzu', b'Namiki', b'Shizuhi', b'Tengu', b'Sasaki, Grandmother', b'Dragon King']
+animePopularity	7188
+animeDescription	"When Musashi returns to his childhood home, he rekindles friendships with four beautiful young women from his youth that he'd totally forgotten about. Hidden desires give way to supernatural secrets, though, as Musashi discovers that the village he remembers hides a terrible secret that he never even imagined. Can love really conquer all? 
+
+(Source: AniDB)"
+animeRelated	['Zoku Koihime']
+animeCharacters	['Sasaki, Musashi', 'Nami', 'Suzaku', 'Mayuki', 'Anzu', 'Namiki', 'Shizuhi', 'Tengu', 'Sasaki, Grandmother', 'Dragon King']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomiya, Saburou\n\nProducer\n\n', b'\nMasaki, Shinichi\n\nDirector\n\n', b'\nSaitou, Miwako\n\nTheme Song Lyrics\n\n', b'\nYoshioka, Takao\n\nScreenplay\n\n']
+animeStaff	[['Oomiya, Saburou', 'Producer'], ['Masaki, Shinichi', 'Director'], ['Saitou, Miwako', 'Theme Song Lyrics'], ['Yoshioka, Takao', 'Screenplay']]

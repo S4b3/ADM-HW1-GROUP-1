@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: Harimao no Zaihou wo Oe!!'
-animeType	b'Special'
+animeTitle	Lupin III: Harimao no Zaihou wo Oe!!
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.96
 animeUsers	2469
 animeRank	
-animePopularity	
-animeDescription	"b""Lupin's on the trail of a decades-lost treasure\xe2\x80\x94the collected booty of World-War-II-era thief Harimao\xe2\x80\x94worth billions of dollars. But as he plans to con retired British spy Sir Archer into giving up the location of the stash, Archer himself gets into the hunt. Lupin now has to team up with his former mark to outwit a more sinister opponent who wants the treasure for himself. And of course, Zenigata's on the scent and gunning for the gang once again.\n\n(Source: ANN)"""
-animeRelated	[b'Lupin III']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi', b'Goering', b'Russel', b'Archer, Sir', b'Diana']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nNaya, Gorou\nJapanese\n', b'\nAmada, Masuo\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nNakamura, Tadashi\nJapanese\n', b'\nOkamoto, Maya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSabat, Christopher\n\nProducer\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nDezaki, Osamu\n\nDirector, Storyboard\n\n', b'\nStrait, Sonny\n\nADR Director\n\n']
+animePopularity	6580
+animeDescription	"Lupin's on the trail of a decades-lost treasure—the collected booty of World-War-II-era thief Harimao—worth billions of dollars. But as he plans to con retired British spy Sir Archer into giving up the location of the stash, Archer himself gets into the hunt. Lupin now has to team up with his former mark to outwit a more sinister opponent who wants the treasure for himself. And of course, Zenigata's on the scent and gunning for the gang once again.
+
+(Source: ANN)"
+animeRelated	['Lupin III']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Goering', 'Russel', 'Archer, Sir', 'Diana']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou', 'Amada, Masuo', 'Tanaka, Mayumi', 'Nakamura, Tadashi', 'Okamoto, Maya']
+animeStaff	[['Sabat, Christopher', 'Producer'], ['Watson, Barry', 'Producer'], ['Dezaki, Osamu', 'Director, Storyboard'], ['Strait, Sonny', 'ADR Director']]

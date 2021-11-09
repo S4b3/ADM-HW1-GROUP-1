@@ -1,5 +1,5 @@
-animeTitle	b'Jewelpet'
-animeType	b'TV'
+animeTitle	Jewelpet
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.69
 animeUsers	2708
 animeRank	
-animePopularity	
-animeDescription	"b""When what looks to be a cluster of shooting stars appear in the sky, Rinko Kougyoku and her friend Minami each make a wish.\n\nWhat the girls truly saw were not stars, but 'Jewel Charms' falling to the Earth. These charms were created by three magicians in a magical world names Jewel Land, each housing one of its many native Jewelpets. Although these creatures are free to roam the world in their original form, the magicians sometimes turn them into charms so that they can be carried around with great ease. Most Jewelpets don't find this troublesome, but once a mischievous bunny by the name of Ruby feels overly claustrophobic, she devises her escape.\n\nOne day, the magicians decide to move the Jewelpets, and task a pelican with delivering them to the Dream Forest. All is well until a strong gust of wind disorients the bird, who then drops all of the charms that he was carrying. Instead of heading towards the Dream Forest, all the Jewelpets but Ruby fall to Rinko\xe2\x80\x99s home city on Earth. Someone must go and retrieve them all, and as Ruby was the worst-behaved of the bunch, she is given the task of going to Earth.\n\nWhen Ruby reaches Earth in the form of a red Jewel Charm, she falls into Rinko\xe2\x80\x99s water glass, and thus begins a rather unexpected adventure. Rinko, Minami, and Ruby form an alliance to search and gather all of the fallen charms, encountering strange creatures and tons of helpful allies along the way. Will they be able to succesfully bring the Jewelpets home safely, or is Earth full of more danger than they had expected? """
-animeRelated	[b'Jewel Pet', b'Jewelpet Twinkle\xe2\x98\x86', b'Jewelpet Sunshine', b'Jewelpet Kira\xe2\x98\x86Deco!', b'Jewelpet Movie: Sweets Dance Princess', b'Jewelpet Happiness', b'Lady Jewelpet', b'Jewelpet Magical Change', b'Jewelpet: Attack Chance!?', b'Jewelpet: Attack Travel!']
-animeCharacters	[b'Ruby', b'Sapphie', b'Garnet', b'Kougyoku, Rinko', b'Arisugawa, Aoi', b'Diana', b'Asaoka, Minami', b'Labra', b'Dian', b'Sango']
-animeVoices	[b'\nSaitou, Ayaka\nJapanese\n', b'\nSasaki, Nozomi\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nKamei, Eri\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nShishido, Rumi\nJapanese\n', b'\nAkina\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nSakai, Rei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Kazuya\n\nProducer\n\n', b'\nHiramitsu, Takuya\n\nSound Director\n\n', b'\nIshiodori, Hiroshi\n\nEpisode Director, Storyboard\n\n', b'\nTanaka, Tomoya\n\nEpisode Director\n\n']
+animePopularity	5309
+animeDescription	"When what looks to be a cluster of shooting stars appear in the sky, Rinko Kougyoku and her friend Minami each make a wish.
+
+What the girls truly saw were not stars, but 'Jewel Charms' falling to the Earth. These charms were created by three magicians in a magical world names Jewel Land, each housing one of its many native Jewelpets. Although these creatures are free to roam the world in their original form, the magicians sometimes turn them into charms so that they can be carried around with great ease. Most Jewelpets don't find this troublesome, but once a mischievous bunny by the name of Ruby feels overly claustrophobic, she devises her escape.
+
+One day, the magicians decide to move the Jewelpets, and task a pelican with delivering them to the Dream Forest. All is well until a strong gust of wind disorients the bird, who then drops all of the charms that he was carrying. Instead of heading towards the Dream Forest, all the Jewelpets but Ruby fall to Rinko’s home city on Earth. Someone must go and retrieve them all, and as Ruby was the worst-behaved of the bunch, she is given the task of going to Earth.
+
+When Ruby reaches Earth in the form of a red Jewel Charm, she falls into Rinko’s water glass, and thus begins a rather unexpected adventure. Rinko, Minami, and Ruby form an alliance to search and gather all of the fallen charms, encountering strange creatures and tons of helpful allies along the way. Will they be able to succesfully bring the Jewelpets home safely, or is Earth full of more danger than they had expected? "
+animeRelated	['Jewel Pet', 'Jewelpet Twinkle☆', 'Jewelpet Sunshine', 'Jewelpet Kira☆Deco!', 'Jewelpet Movie: Sweets Dance Princess', 'Jewelpet Happiness', 'Lady Jewelpet', 'Jewelpet Magical Change', 'Jewelpet: Attack Chance!?', 'Jewelpet: Attack Travel!']
+animeCharacters	['Ruby', 'Sapphie', 'Garnet', 'Kougyoku, Rinko', 'Arisugawa, Aoi', 'Diana', 'Asaoka, Minami', 'Labra', 'Dian', 'Sango']
+animeVoices	['Saitou, Ayaka', 'Sasaki, Nozomi', 'Hirano, Aya', 'Kamei, Eri', 'Sawashiro, Miyuki', 'Shishido, Rumi', 'Akina', 'Fukuyama, Jun', 'Sakai, Rei']
+animeStaff	[['Watanabe, Kazuya', 'Producer'], ['Hiramitsu, Takuya', 'Sound Director'], ['Ishiodori, Hiroshi', 'Episode Director, Storyboard'], ['Tanaka, Tomoya', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Wakusei Robo Danguard Ace tai Konchuu Robot Gundan'
-animeType	b'Movie'
+animeTitle	Wakusei Robo Danguard Ace tai Konchuu Robot Gundan
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.55
 animeUsers	196
 animeRank	
-animePopularity	
-animeDescription	b'A new insect enemy that feeds off of the energy of all living things has set its eyes on Earth.\n\n(Source: BakaBT)'
-animeRelated	[b'Wakusei Robo Danguard Ace']
-animeCharacters	[b'Ichimonji, Takuma', b'Dan, Captain', b'Arai, Banta', b'Dr. Oedo', b'Tamaga', b'Lisa']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nShibata, Hidekatsu\nJapanese\n', b'\nOotake, Hiroshi\nJapanese\n', b'\nTomita, Kousei\nJapanese\n', b'\nYoshida, Rihoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasaki, Isao\n\nTheme Song Performance\n\n', b'\nMatsumoto, Leiji\n\nOriginal Creator\n\n', b'\nKikuchi, Shunsuke\n\nMusic\n\n', b'\nMatsumoto, Kenji\n\nBackground Art\n\n']
+animePopularity	12383
+animeDescription	"A new insect enemy that feeds off of the energy of all living things has set its eyes on Earth.
+
+(Source: BakaBT)"
+animeRelated	['Wakusei Robo Danguard Ace']
+animeCharacters	['Ichimonji, Takuma', 'Dan, Captain', 'Arai, Banta', 'Dr. Oedo', 'Tamaga', 'Lisa']
+animeVoices	['Kamiya, Akira', 'Shibata, Hidekatsu', 'Ootake, Hiroshi', 'Tomita, Kousei', 'Yoshida, Rihoko']
+animeStaff	[['Sasaki, Isao', 'Theme Song Performance'], ['Matsumoto, Leiji', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music'], ['Matsumoto, Kenji', 'Background Art']]

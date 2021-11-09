@@ -1,5 +1,5 @@
-animeTitle	b'Jinryoku Senkan!? Shiokaze Sawakaze'
-animeType	b'ONA'
+animeTitle	Jinryoku Senkan!? Shiokaze Sawakaze
+animeType	ONA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""The series plays out in the Onahama district in Iwaki, in the Fukushima prefecture's coastal region. \n\nIt follows the personifications of two WW2 japanese warships, Shiokaze and Sawakaze, who worked as breakwaters in Onahama Port. In this fictional story, the 2011 earthquake pierces a worm hole in the spacetime continuum, starting an invasion from another dimension."""
+animePopularity	12799
+animeDescription	"The series plays out in the Onahama district in Iwaki, in the Fukushima prefecture's coastal region. 
+
+It follows the personifications of two WW2 japanese warships, Shiokaze and Sawakaze, who worked as breakwaters in Onahama Port. In this fictional story, the 2011 earthquake pierces a worm hole in the spacetime continuum, starting an invasion from another dimension."
 animeRelated	[]
-animeCharacters	[b'Shiokaze', b'Sawakaze', b'Hoshi, Shinpei', b'Okimi', b'Izumi']
-animeVoices	[b'\nEndou, Hiroyuki\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nYamashita, Seiichirou\nJapanese\n', b'\nSawashiro, Chiharu\nJapanese\n', b'\nSenbongi, Sayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshida, Tooru\n\nDirector\n\n', b'\nAsao, Yoshinori\n\nDirector, Planning\n\n']
+animeCharacters	['Shiokaze', 'Sawakaze', 'Hoshi, Shinpei', 'Okimi', 'Izumi']
+animeVoices	['Endou, Hiroyuki', 'Uesaka, Sumire', 'Yamashita, Seiichirou', 'Sawashiro, Chiharu', 'Senbongi, Sayaka']
+animeStaff	[['Yoshida, Tooru', 'Director'], ['Asao, Yoshinori', 'Director, Planning']]

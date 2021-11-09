@@ -1,5 +1,5 @@
-animeTitle	b'Rumiko Takahashi Anthology'
-animeType	b'TV'
+animeTitle	Rumiko Takahashi Anthology
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.17
 animeUsers	1619
 animeRank	
-animePopularity	
-animeDescription	"b'Rumic World TV (2003) consists of thirteen independent series based on short stories from 1987-2000 by Takahashi Rumiko. The episode order is not sorted based on the year the story was written. For example, the first episode ""Tragedy of P""\'s story was written in 1991 while the last episode ""Senmuno inu""\'s story was written in 1994.\n\n(Source: AnimeNfo)'"
-animeRelated	[b'Senmu no Inu', b'P no Higeki', b'Takahashi Rumiko Gekijou Ningyo no Mori']
-animeCharacters	"[b'Kakei-san', b'Hazuki', b'Tonegawa, Ruriko', b'Doumoto, Kouichiro', b'Betto', b'Yukari', b""Doumoto Kouichiro's wife"", b'Hirooka, Ritsuko', b'Soupon Panitto, Atchara', b'Kakei, Hiroshi']"
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nOtsuka, Chikao\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nWatanabe, Kumiko\nJapanese\n', b'\nHan, Keiko\nJapanese\n', b'\nHori, Junko\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nKobayashi, Noriko\n\nProducer\n\n', b'\nNishimori, Akira\n\nDirector, Storyboard\n\n', b'\nKitahata, Tooru\n\nEpisode Director, Storyboard\n\n', b""\nO'Brien, Liam\n\nScript, ADR Director\n\n""]"
+animePopularity	6417
+animeDescription	"Rumic World TV (2003) consists of thirteen independent series based on short stories from 1987-2000 by Takahashi Rumiko. The episode order is not sorted based on the year the story was written. For example, the first episode ""Tragedy of P""'s story was written in 1991 while the last episode ""Senmuno inu""'s story was written in 1994.
+
+(Source: AnimeNfo)"
+animeRelated	['Senmu no Inu', 'P no Higeki', 'Takahashi Rumiko Gekijou Ningyo no Mori']
+animeCharacters	"['Kakei-san', 'Hazuki', 'Tonegawa, Ruriko', 'Doumoto, Kouichiro', 'Betto', 'Yukari', ""Doumoto Kouichiro's wife"", 'Hirooka, Ritsuko', 'Soupon Panitto, Atchara', 'Kakei, Hiroshi']"
+animeVoices	['Hayashibara, Megumi', 'Minaguchi, Yuko', 'Inoue, Kikuko', 'Otsuka, Chikao', 'Yamaguchi, Kappei', 'Yukino, Satsuki', 'Watanabe, Kumiko', 'Han, Keiko', 'Hori, Junko']
+animeStaff	"[['Kobayashi, Noriko', 'Producer'], ['Nishimori, Akira', 'Director, Storyboard'], ['Kitahata, Tooru', 'Episode Director, Storyboard'], [""O'Brien, Liam"", 'Script, ADR Director']]"

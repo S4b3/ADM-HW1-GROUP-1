@@ -1,5 +1,5 @@
-animeTitle	b'Chain Chronicle: Haecceitas no Hikari Part 1'
-animeType	b'Movie'
+animeTitle	Chain Chronicle: Haecceitas no Hikari Part 1
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.03
 animeUsers	6785
 animeRank	
-animePopularity	
-animeDescription	b'Set in the land of Yuguto, the people thought that the land they live is the size of the world, but it\xe2\x80\x99s actually divided into several areas, each with a respective king. Even though there were small wars among areas, the kings had roundtable meetings to maintain peace and balance. It was until a dark group of dark monsters appeared...\n\n(Source: MAL News)'
-animeRelated	[b'Chain Chronicle: Haecceitas no Hikari', b'Chain Chronicle: Haecceitas no Hikari Part 2']
-animeCharacters	[b'Aram', b'Phoena', b'Yuri', b'Marina', b'Cain', b'Yuni', b'Velnar', b'Aludra', b'Eirenus', b'Katya']
-animeVoices	[b'\nYamashita, Daiki\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nTerasaki, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKudou, Masashi\n\nDirector, Character Design\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nNakayama, Naomi\n\nEpisode Director\n\n', b'\nnano\n\nTheme Song Performance, Theme Song Lyrics\n\n']
+animePopularity	3896
+animeDescription	"Set in the land of Yuguto, the people thought that the land they live is the size of the world, but it’s actually divided into several areas, each with a respective king. Even though there were small wars among areas, the kings had roundtable meetings to maintain peace and balance. It was until a dark group of dark monsters appeared...
+
+(Source: MAL News)"
+animeRelated	['Chain Chronicle: Haecceitas no Hikari', 'Chain Chronicle: Haecceitas no Hikari Part 2']
+animeCharacters	['Aram', 'Phoena', 'Yuri', 'Marina', 'Cain', 'Yuni', 'Velnar', 'Aludra', 'Eirenus', 'Katya']
+animeVoices	['Yamashita, Daiki', 'Sakura, Ayane', 'Ishida, Akira', 'Terasaki, Yuka']
+animeStaff	[['Kudou, Masashi', 'Director, Character Design'], ['Hata, Shouji', 'Sound Director'], ['Nakayama, Naomi', 'Episode Director'], ['nano', 'Theme Song Performance, Theme Song Lyrics']]

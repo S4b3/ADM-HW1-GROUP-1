@@ -1,5 +1,5 @@
-animeTitle	b'Radiant 2nd Season'
-animeType	b'TV'
+animeTitle	Radiant 2nd Season
+animeType	TV
 animeNumEpisode	21
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.59
 animeUsers	32161
 animeRank	
-animePopularity	
-animeDescription	b'Second season of Radiant.'
-animeRelated	[b'Radiant']
-animeCharacters	[b'Melie', b'Seth', b'Doc', b'Grimm', b'Dragunov, Dart', b'Ocoho', b'Alma', b'Jill', b'Mister Bobley', b'Bagliore, Ulmina']
-animeVoices	[b'\nYuuki, Aoi\nJapanese\n', b'\nHanamori, Yumiri\nJapanese\n', b'\nOohata, Shintarou\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nFuchigami, Mai\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nKoichi, Makoto\nJapanese\n', b'\nHayami, Saori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKishi, Seiji\n\nDirector\n\n', b'\nYamada, Taku\n\nEpisode Director, Storyboard\n\n', b'\nNakamuraEmi\n\nTheme Song Performance\n\n', b'\nVan Ermengem, Marie\n\nADR Director\n\n']
+animePopularity	1835
+animeDescription	Second season of Radiant.
+animeRelated	['Radiant']
+animeCharacters	['Melie', 'Seth', 'Doc', 'Grimm', 'Dragunov, Dart', 'Ocoho', 'Alma', 'Jill', 'Mister Bobley', 'Bagliore, Ulmina']
+animeVoices	['Yuuki, Aoi', 'Hanamori, Yumiri', 'Oohata, Shintarou', 'Koyasu, Takehito', 'Yusa, Kouji', 'Fuchigami, Mai', 'Park, Romi', 'Inoue, Kikuko', 'Koichi, Makoto', 'Hayami, Saori']
+animeStaff	[['Kishi, Seiji', 'Director'], ['Yamada, Taku', 'Episode Director, Storyboard'], ['NakamuraEmi', 'Theme Song Performance'], ['Van Ermengem, Marie', 'ADR Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Fullmetal Alchemist: Reflections'
-animeType	b'Special'
+animeTitle	Fullmetal Alchemist: Reflections
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.27
 animeUsers	15463
 animeRank	
-animePopularity	
-animeDescription	b'A reflection on what happened during the FMA TV series.'
-animeRelated	[b'Fullmetal Alchemist']
-animeCharacters	[b'Elric, Edward', b'Elric, Alphonse', b'Mustang, Roy', b'Hughes, Maes', b'Greed', b'Hawkeye, Riza', b'Armstrong, Alex Louis', b'Rockbell, Winry', b'Envy', b'Hohenheim, Van']
-animeVoices	[b'\nPark, Romi\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nYamaguchi, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMizushima, Seiji\n\nDirector\n\n', b'\nArakawa, Hiromu\n\nOriginal Creator\n\n', b'\nAsian Kung-Fu Generation\n\nInserted Song Performance\n\n', b'\nOshima, Michiru\n\nMusic\n\n']
+animePopularity	2810
+animeDescription	A reflection on what happened during the FMA TV series.
+animeRelated	['Fullmetal Alchemist']
+animeCharacters	['Elric, Edward', 'Elric, Alphonse', 'Mustang, Roy', 'Hughes, Maes', 'Greed', 'Hawkeye, Riza', 'Armstrong, Alex Louis', 'Rockbell, Winry', 'Envy', 'Hohenheim, Van']
+animeVoices	['Park, Romi', 'Kugimiya, Rie', 'Ookawa, Tooru', 'Fujiwara, Keiji', 'Suwabe, Junichi', 'Neya, Michiko', 'Utsumi, Kenji', 'Toyoguchi, Megumi', 'Yamaguchi, Mayumi']
+animeStaff	[['Mizushima, Seiji', 'Director'], ['Arakawa, Hiromu', 'Original Creator'], ['Asian Kung-Fu Generation', 'Inserted Song Performance'], ['Oshima, Michiru', 'Music']]

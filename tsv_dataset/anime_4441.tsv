@@ -1,5 +1,5 @@
-animeTitle	b'Croket!'
-animeType	b'TV'
+animeTitle	Croket!
+animeType	TV
 animeNumEpisode	104
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.84
 animeUsers	263
 animeRank	
-animePopularity	
-animeDescription	"b'The ""Forbidden Treasure"" is an extraordinary artefact who can grant any wishes. The people seeking it are called the Bankers, and our hero, Corokke, is one of them.'"
-animeRelated	[b'Croket!']
-animeCharacters	[b'Croket', b'Worcester']
-animeVoices	[b'\nKatou, Nanae\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nItou, Tatsufumi\n\nEpisode Director\n\n', b'\nTomioka, Atsuhiro\n\nScript\n\n', b'\nNightmare\n\nTheme Song Performance\n\n']
+animePopularity	11221
+animeDescription	"The ""Forbidden Treasure"" is an extraordinary artefact who can grant any wishes. The people seeking it are called the Bankers, and our hero, Corokke, is one of them."
+animeRelated	['Croket!']
+animeCharacters	['Croket', 'Worcester']
+animeVoices	['Katou, Nanae', 'Matsumoto, Yasunori']
+animeStaff	[['Watanabe, Jun', 'Sound Director'], ['Itou, Tatsufumi', 'Episode Director'], ['Tomioka, Atsuhiro', 'Script'], ['Nightmare', 'Theme Song Performance']]

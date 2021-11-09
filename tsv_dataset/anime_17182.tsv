@@ -1,5 +1,5 @@
-animeTitle	b'Manga Hajimete Monogatari'
-animeType	b'TV'
+animeTitle	Manga Hajimete Monogatari
+animeType	TV
 animeNumEpisode	305
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'An educational program for children featuring various historical events, showing both animation and live action footage. A reoccurring ""older sister"" and the pink mole Mogutan, will take you on a journey through time. '"
-animeRelated	[b'Manga Doushite Monogatari', b'Manga Hajimete Monogatari OVA']
-animeCharacters	[b'Mogutan']
+animePopularity	12968
+animeDescription	"An educational program for children featuring various historical events, showing both animation and live action footage. A reoccurring ""older sister"" and the pink mole Mogutan, will take you on a journey through time. "
+animeRelated	['Manga Doushite Monogatari', 'Manga Hajimete Monogatari OVA']
+animeCharacters	['Mogutan']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYotsuji, Takao\n\nEpisode Director\n\n', b'\nFuruta, Yoshiaki\n\nTheme Song Arrangement\n\n']
+animeStaff	[['Yotsuji, Takao', 'Episode Director'], ['Furuta, Yoshiaki', 'Theme Song Arrangement']]

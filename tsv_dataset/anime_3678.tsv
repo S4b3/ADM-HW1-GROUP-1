@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon: Doraemon Comes Back'
-animeType	b'Special'
+animeTitle	Doraemon: Doraemon Comes Back
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.03
 animeUsers	1097
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Doraemon (1979)', b'Doraemon: Doraemon Comes Back (Movie)']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Honekawa, Suneo', b'Gouda, Takeshi']
-animeVoices	[b'\nOoyama, Nobuyo\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nTatekabe, Kazuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n', b'\nKikuchi, Shunsuke\n\nMusic\n\n', b'\nHashi, Katsuhiro\n\nBackground Art\n\n']
+animePopularity	9032
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Doraemon (1979)', 'Doraemon: Doraemon Comes Back (Movie)']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Honekawa, Suneo', 'Gouda, Takeshi']
+animeVoices	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Kimotsuki, Kaneta', 'Tatekabe, Kazuya']
+animeStaff	[['Fujiko, Fujio F.', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music'], ['Hashi, Katsuhiro', 'Background Art']]

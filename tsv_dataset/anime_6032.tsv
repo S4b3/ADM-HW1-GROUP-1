@@ -1,5 +1,5 @@
-animeTitle	b'Minami no Shima no Dera-chan'
-animeType	b'Movie'
+animeTitle	Minami no Shima no Dera-chan
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.52
 animeUsers	8776
 animeRank	
-animePopularity	
-animeDescription	b'The story follows Dera after he returns to the southern islands from the Usagiyama Shopping District, and depicts his gentle slapstick daily life with the Prince and Choi.\n\n(Source: ANN)'
-animeRelated	[b'Tamako Market', b'Tamako Love Story']
-animeCharacters	[b'Mochimazzi, Dera', b'Mochimazzi, Choi', b'Mochimazzi, Mecha']
-animeVoices	[b'\nYamazaki, Takumi\nJapanese\n', b'\nYamaoka, Yuri\nJapanese\n', b'\nShimono, Hiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshihara, Tatsuya\n\nEpisode Director, Storyboard\n\n', b'\nKataoka, Tomoko\n\nMusic\n\n']
+animePopularity	3832
+animeDescription	"The story follows Dera after he returns to the southern islands from the Usagiyama Shopping District, and depicts his gentle slapstick daily life with the Prince and Choi.
+
+(Source: ANN)"
+animeRelated	['Tamako Market', 'Tamako Love Story']
+animeCharacters	['Mochimazzi, Dera', 'Mochimazzi, Choi', 'Mochimazzi, Mecha']
+animeVoices	['Yamazaki, Takumi', 'Yamaoka, Yuri', 'Shimono, Hiro']
+animeStaff	[['Ishihara, Tatsuya', 'Episode Director, Storyboard'], ['Kataoka, Tomoko', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Soukou Kihei Votoms: Kakuyaku taru Itan'
-animeType	b'OVA'
+animeTitle	Soukou Kihei Votoms: Kakuyaku taru Itan
+animeType	OVA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.93
 animeUsers	1289
 animeRank	
-animePopularity	
-animeDescription	"b'Chirico is awoken from cold sleep and separated from Fyana. His attempts to find her come to the attention of a Nextant, the replacement for the Perfect Soldier program. At the same time, the new Pope is to be nominated, and Chirico is religiously considered to be ""The Untouchable"". With one of the nominees related to the Nextant, Chirico\'s actions will have far-reaching political ramifications.\n\n(Source: ANN)'"
-animeRelated	[b'Soukou Kihei Votoms', b'Soukou Kihei Votoms: Koei Futatabi']
-animeCharacters	[b'Cuvie, Chirico', b'Fyana', b'Rochina, Jean Paul', b'da Montewells, Teitania', b'Pope Theo VIII', b'Cardinal Gounod', b'Noskowitz, Irin', b'Godiva', b'da Montewells, Vyacheslav']
-animeVoices	[b'\nGouda, Hozumi\nJapanese\n', b'\nYanaga, Kazuko\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nMatsuoka, Youko\nJapanese\n', b'\nBando, Naoki\nJapanese\n', b'\nTsuji, Shinpachi\nJapanese\n', b'\nSasaoka, Shigezou\nJapanese\n', b'\nEbara, Masashi\nJapanese\n', b'\nYamanouchi, Masato\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Ryousuke\n\nDirector\n\n', b'\nImanishi, Takashi\n\nDirector, Storyboard\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nInui, Hiroki\n\nTheme Song Arrangement, Theme Song Composition\n\n']
+animePopularity	8284
+animeDescription	"Chirico is awoken from cold sleep and separated from Fyana. His attempts to find her come to the attention of a Nextant, the replacement for the Perfect Soldier program. At the same time, the new Pope is to be nominated, and Chirico is religiously considered to be ""The Untouchable"". With one of the nominees related to the Nextant, Chirico's actions will have far-reaching political ramifications.
+
+(Source: ANN)"
+animeRelated	['Soukou Kihei Votoms', 'Soukou Kihei Votoms: Koei Futatabi']
+animeCharacters	['Cuvie, Chirico', 'Fyana', 'Rochina, Jean Paul', 'da Montewells, Teitania', 'Pope Theo VIII', 'Cardinal Gounod', 'Noskowitz, Irin', 'Godiva', 'da Montewells, Vyacheslav']
+animeVoices	['Gouda, Hozumi', 'Yanaga, Kazuko', 'Ginga, Banjou', 'Matsuoka, Youko', 'Bando, Naoki', 'Tsuji, Shinpachi', 'Sasaoka, Shigezou', 'Ebara, Masashi', 'Yamanouchi, Masato']
+animeStaff	[['Takahashi, Ryousuke', 'Director'], ['Imanishi, Takashi', 'Director, Storyboard'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Inui, Hiroki', 'Theme Song Arrangement, Theme Song Composition']]

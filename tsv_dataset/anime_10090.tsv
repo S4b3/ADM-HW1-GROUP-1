@@ -1,5 +1,5 @@
-animeTitle	b'Oshare Kozou wa Hanamaru'
-animeType	b'OVA'
+animeTitle	Oshare Kozou wa Hanamaru
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.59
 animeUsers	344
 animeRank	
-animePopularity	
-animeDescription	"b'Kotobuki is a cheerful outgoing 14 year old girl. She\'s a young lady with good fashion sense and her favorite pass-time includes browsing through specialty shops, gift shops, and clothing stores. Her favorite store is ""Galopine Et Galopin"", a clothing store run by a young fashion designer named Hodaka-san. Hodaka is a handsome, quiet, reserved young man who\'s designs are making him very popular in the fashion world.\n\n(Source: AniDB)'"
-animeRelated	[b'Oshare Kozou ni Hanamaru']
-animeCharacters	[b'Kujou, Kazuomi', b'Kunishige, Hodaka', b'Fujiya, Kotobuki']
-animeVoices	[b'\nNanba, Keiichi\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nEndou, Takuji\n\nDirector\n\n', b'\nSatou, Yuuzou\n\nKey Animation\n\n', b'\nTakahashi, Kumiko\n\nKey Animation\n\n', b'\nKatou, Hiroshi\n\nBackground Art\n\n']
+animePopularity	11363
+animeDescription	"Kotobuki is a cheerful outgoing 14 year old girl. She's a young lady with good fashion sense and her favorite pass-time includes browsing through specialty shops, gift shops, and clothing stores. Her favorite store is ""Galopine Et Galopin"", a clothing store run by a young fashion designer named Hodaka-san. Hodaka is a handsome, quiet, reserved young man who's designs are making him very popular in the fashion world.
+
+(Source: AniDB)"
+animeRelated	['Oshare Kozou ni Hanamaru']
+animeCharacters	['Kujou, Kazuomi', 'Kunishige, Hodaka', 'Fujiya, Kotobuki']
+animeVoices	['Nanba, Keiichi', 'Hayami, Show', 'Mitsuishi, Kotono']
+animeStaff	[['Endou, Takuji', 'Director'], ['Satou, Yuuzou', 'Key Animation'], ['Takahashi, Kumiko', 'Key Animation'], ['Katou, Hiroshi', 'Background Art']]

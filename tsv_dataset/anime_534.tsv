@@ -1,5 +1,5 @@
-animeTitle	b'Persona 3 the Movie 4: Winter of Rebirth'
-animeType	b'Movie'
+animeTitle	Persona 3 the Movie 4: Winter of Rebirth
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,20 @@ animeNumMembers
 animeScore	8.01
 animeUsers	27081
 animeRank	
-animePopularity	
-animeDescription	"b'""The time of destruction is coming ever closer without a doubt. It cannot be stopped.""\nTo know death, to gaze at death, to face death.\n\nMakoto and his allies have grown through the many meetings and partings they have experienced.\n\nTheir fight might not be for the sake of the world, but for themselves. Even so, they have continued to fight, believing that there are peaceful days waiting at the end of the battle.\n\nHowever, a boy says that destruction is the fate that humanity must shoulder. The boy they believed to be their friend tells them the truth of the situation without an emotion on his face.\n\nThe season changes to winter. Makoto makes a decision in order to greet the spring that is waiting beyond...\n\n(Source: ANN)'"
-animeRelated	[b'Persona 3 the Movie 3: Falling Down', b'Persona 3 the Movie Meets \xe2\x80\x9cWalkman\xe2\x80\x9d']
-animeCharacters	[b'Yuuki, Makoto', b'Aegis', b'Kirijou, Mitsuru', b'Sanada, Akihiko', b'Takeba, Yukari', b'Iori, Junpei', b'Yamagishi, Fuuka', b'Mochizuki, Ryouji', b'Koromaru', b'Amada, Ken']
-animeVoices	[b'\nIshida, Akira\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nOgata, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTaguchi, Tomohisa\n\nDirector\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nKumagai, Jun\n\nScript\n\n', b'\nKawamura, Yumi\n\nTheme Song Performance\n\n']
+animePopularity	2290
+animeDescription	"""The time of destruction is coming ever closer without a doubt. It cannot be stopped.""
+To know death, to gaze at death, to face death.
+
+Makoto and his allies have grown through the many meetings and partings they have experienced.
+
+Their fight might not be for the sake of the world, but for themselves. Even so, they have continued to fight, believing that there are peaceful days waiting at the end of the battle.
+
+However, a boy says that destruction is the fate that humanity must shoulder. The boy they believed to be their friend tells them the truth of the situation without an emotion on his face.
+
+The season changes to winter. Makoto makes a decision in order to greet the spring that is waiting beyond...
+
+(Source: ANN)"
+animeRelated	['Persona 3 the Movie 3: Falling Down', 'Persona 3 the Movie Meets “Walkman”']
+animeCharacters	['Yuuki, Makoto', 'Aegis', 'Kirijou, Mitsuru', 'Sanada, Akihiko', 'Takeba, Yukari', 'Iori, Junpei', 'Yamagishi, Fuuka', 'Mochizuki, Ryouji', 'Koromaru', 'Amada, Ken']
+animeVoices	['Ishida, Akira', 'Sakamoto, Maaya', 'Tanaka, Rie', 'Midorikawa, Hikaru', 'Toyoguchi, Megumi', 'Toriumi, Kousuke', 'Noto, Mamiko', 'Ogata, Megumi']
+animeStaff	[['Taguchi, Tomohisa', 'Director'], ['Iida, Satoki', 'Sound Director'], ['Kumagai, Jun', 'Script'], ['Kawamura, Yumi', 'Theme Song Performance']]

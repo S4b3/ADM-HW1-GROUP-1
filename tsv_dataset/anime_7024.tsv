@@ -1,5 +1,5 @@
-animeTitle	b'Yoroshiku Mechadock'
-animeType	b'TV'
+animeTitle	Yoroshiku Mechadock
+animeType	TV
 animeNumEpisode	30
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.33
 animeUsers	298
 animeRank	
-animePopularity	
-animeDescription	b'Mechadock is a powerful race car obtained from a simple economy car, which is able to race on any ground.'
-animeRelated	[b'Yoroshiku Mechadoc']
-animeCharacters	[b'Kazami, Jun', b'Kirishima, Kirito', b'Noro, Kiyoshi', b'Nakamura, Ichiro', b'Ono, Reiko', b'Ono, Seisaburou', b'Watanabe, Toshimitsu', b'Tsuyuzaki, Takeshi', b'Tsukinari, Hikoroku', b'Nachi, Wataru']
-animeVoices	[b'\nHashimoto, Kouichi\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nIshimaru, Hiroya\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nKatou, Masayuki\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nKobayashi, Katsuhiko\nJapanese\n', b'\nIchiryuusai, Teiyuu\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKojima, Masayuki\n\nEpisode Director, Storyboard\n\n', b'\nSadamitsu, Shinya\n\nEpisode Director, 2nd Key Animation\n\n', b'\nKoyama, Takao\n\nScript\n\n', b'\nTerada, Kenji\n\nScript, Series Composition\n\n']
+animePopularity	9732
+animeDescription	Mechadock is a powerful race car obtained from a simple economy car, which is able to race on any ground.
+animeRelated	['Yoroshiku Mechadoc']
+animeCharacters	['Kazami, Jun', 'Kirishima, Kirito', 'Noro, Kiyoshi', 'Nakamura, Ichiro', 'Ono, Reiko', 'Ono, Seisaburou', 'Watanabe, Toshimitsu', 'Tsuyuzaki, Takeshi', 'Tsukinari, Hikoroku', 'Nachi, Wataru']
+animeVoices	['Hashimoto, Kouichi', 'Horiuchi, Kenyuu', 'Genda, Tesshou', 'Ishimaru, Hiroya', 'Hidaka, Noriko', 'Katou, Masayuki', 'Ishizuka, Unshou', 'Kobayashi, Katsuhiko', 'Ichiryuusai, Teiyuu', 'Inoue, Kazuhiko']
+animeStaff	[['Kojima, Masayuki', 'Episode Director, Storyboard'], ['Sadamitsu, Shinya', 'Episode Director, 2nd Key Animation'], ['Koyama, Takao', 'Script'], ['Terada, Kenji', 'Script, Series Composition']]

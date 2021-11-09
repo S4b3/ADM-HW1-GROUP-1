@@ -1,5 +1,5 @@
-animeTitle	b'Kyoto Animation: Souzou-hen'
-animeType	b'Special'
+animeTitle	Kyoto Animation: Souzou-hen
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.63
 animeUsers	998
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Kyoto Animation: Ajisai-hen', b'Kyoto Animation: Hoshi-hen', b'Kyoto Animation: Hana-hen', b'Kyoto Animation: Sora-hen', b'Kyoto Animation: Ikitaku Naru Omise-hen', b'Kyoto Animation: Hassou-hen', b'Kyoto Animation: Megane-hen', b'Kyoto Animation: Kasa-hen', b'Kyoto Animation: Suiei-hen', b'Kyoto Animation: Meiji-hen']
-animeCharacters	[b'Kousuke', b'Akari']
-animeVoices	[b'\nMiyazaki, Yuu\nJapanese\n', b'\nWakayama, Shion\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakamoto, Haruki\n\nEpisode Director, Storyboard\n\n', b'\nTokuyama, Tamami\n\nAnimation Director, Character Design\n\n']
+animePopularity	9155
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Kyoto Animation: Ajisai-hen', 'Kyoto Animation: Hoshi-hen', 'Kyoto Animation: Hana-hen', 'Kyoto Animation: Sora-hen', 'Kyoto Animation: Ikitaku Naru Omise-hen', 'Kyoto Animation: Hassou-hen', 'Kyoto Animation: Megane-hen', 'Kyoto Animation: Kasa-hen', 'Kyoto Animation: Suiei-hen', 'Kyoto Animation: Meiji-hen']
+animeCharacters	['Kousuke', 'Akari']
+animeVoices	['Miyazaki, Yuu', 'Wakayama, Shion']
+animeStaff	[['Sakamoto, Haruki', 'Episode Director, Storyboard'], ['Tokuyama, Tamami', 'Animation Director, Character Design']]

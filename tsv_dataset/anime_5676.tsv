@@ -1,5 +1,5 @@
-animeTitle	b'Killing Bites'
-animeType	b'TV'
+animeTitle	Killing Bites
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.59
 animeUsers	63649
 animeRank	
-animePopularity	
-animeDescription	"b""After unknowingly participating in a kidnapping, college student Yuuya Nomoto finds his friends brutally murdered by Hitomi Uzaki, the high school girl they attempted to abduct. Forced to drive her to an undisclosed location, he finds himself being wagered as the prize for a death match between two Therianthropes, superpowered human-animal hybrids created through advanced gene therapy. As one of these hybrids, Hitomi uses the speed and fearlessness she gained from her ratel genes to viciously dispatch her foe and save Yuuya from certain death.\n\nWaking up hours later hoping the whole event was only a nightmare, Yuuya realizes that he has become embroiled in a secret proxy war between four large Japanese business conglomerates, with the winner taking control of the economy. As her sole albeit unwilling investor, his life is now directly linked to Hitomi's ability to participate in underground bloodsport matches known only as Killing Bites.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Killing Bites', b'Kedamono Damono']
-animeCharacters	[b'Uzaki, Hitomi', b'Nomoto, Yuuya', b'Inaba, Ui', b'Nakanishi, Eruza', b'Nakanishi, Taiga', b'Inui, Pure', b'Mitsukado, Youko', b'Tani, Yuugo', b'Kuroi, Tasuku', b'Oonuma, Den']
-animeVoices	[b'\nAmamiya, Sora\nJapanese\n', b'\nHatano, Wataru\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nTanaka, Minami\nJapanese\n', b'\nHan, Megumi\nJapanese\n', b'\nOno, Yuuki\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishikata, Yasuto\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nYamauchi, Ami\n\nEpisode Director, Storyboard\n\n', b'\nIkeda, Rintarou\n\nScript\n\n']
+animePopularity	1160
+animeDescription	"After unknowingly participating in a kidnapping, college student Yuuya Nomoto finds his friends brutally murdered by Hitomi Uzaki, the high school girl they attempted to abduct. Forced to drive her to an undisclosed location, he finds himself being wagered as the prize for a death match between two Therianthropes, superpowered human-animal hybrids created through advanced gene therapy. As one of these hybrids, Hitomi uses the speed and fearlessness she gained from her ratel genes to viciously dispatch her foe and save Yuuya from certain death.
+
+Waking up hours later hoping the whole event was only a nightmare, Yuuya realizes that he has become embroiled in a secret proxy war between four large Japanese business conglomerates, with the winner taking control of the economy. As her sole albeit unwilling investor, his life is now directly linked to Hitomi's ability to participate in underground bloodsport matches known only as Killing Bites.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Killing Bites', 'Kedamono Damono']
+animeCharacters	['Uzaki, Hitomi', 'Nomoto, Yuuya', 'Inaba, Ui', 'Nakanishi, Eruza', 'Nakanishi, Taiga', 'Inui, Pure', 'Mitsukado, Youko', 'Tani, Yuugo', 'Kuroi, Tasuku', 'Oonuma, Den']
+animeVoices	['Amamiya, Sora', 'Hatano, Wataru', 'Uesaka, Sumire', 'Uchida, Maaya', 'Nakamura, Yuuichi', 'Tanaka, Minami', 'Han, Megumi', 'Ono, Yuuki', 'Yoshino, Hiroyuki']
+animeStaff	[['Nishikata, Yasuto', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Yamauchi, Ami', 'Episode Director, Storyboard'], ['Ikeda, Rintarou', 'Script']]

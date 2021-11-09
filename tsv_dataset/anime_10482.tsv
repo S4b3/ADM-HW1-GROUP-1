@@ -1,5 +1,5 @@
-animeTitle	"b""Angel's Feather"""
-animeType	b'OVA'
+animeTitle	Angel's Feather
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.46
 animeUsers	9611
 animeRank	
-animePopularity	
-animeDescription	b'In the Binfield Kingdom Chronicle, it is said that there was once a small, peaceful country called the Kingdom of Winfield, whose king and royal family possessed great white wings.\n\nHamura Shou is newly enrolled at Yuusei Academy. After hearing about a student named Misonou Kai from the headmaster, Shou comes to believe that Kai is his younger twin brother, who he was separated from when he was younger. However, after a mysterious earthquake, Shou is suddenly carried into another world with two other students. It is in this new world that, after being attacked by a monster, Shou suddenly unleashes great, white wings.\n\n[Written by MAL Rewrite]'
+animePopularity	4044
+animeDescription	"In the Binfield Kingdom Chronicle, it is said that there was once a small, peaceful country called the Kingdom of Winfield, whose king and royal family possessed great white wings.
+
+Hamura Shou is newly enrolled at Yuusei Academy. After hearing about a student named Misonou Kai from the headmaster, Shou comes to believe that Kai is his younger twin brother, who he was separated from when he was younger. However, after a mysterious earthquake, Shou is suddenly carried into another world with two other students. It is in this new world that, after being attacked by a monster, Shou suddenly unleashes great, white wings.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Hamura, Shou', b'Misonou, Kai', b'Ousaka, Christopher', b'Chikura, Anri', b'Nakajyou, Yuuto', b'Mitsugi, Kyouhei', b'Sakakibara, Ran', b'Wakabayashi, Reiya', b'Aoki, Naoto', b'Mizuochi, Sena']
-animeVoices	[b'\nYamaguchi, Kappei\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nSuzuki, Chihiro\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nHatano, Wataru\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nMasutani, Yasunori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nInoue, Hiroaki\n\nProducer\n\n', b'\nKuroda, Yasuhiro\n\nDirector\n\n', b'\nKakihara, Tetsuya\n\nTheme Song Performance\n\n', b'\nIshikawa, Hideo\n\nTheme Song Performance\n\n']
+animeCharacters	['Hamura, Shou', 'Misonou, Kai', 'Ousaka, Christopher', 'Chikura, Anri', 'Nakajyou, Yuuto', 'Mitsugi, Kyouhei', 'Sakakibara, Ran', 'Wakabayashi, Reiya', 'Aoki, Naoto', 'Mizuochi, Sena']
+animeVoices	['Yamaguchi, Kappei', 'Midorikawa, Hikaru', 'Suzuki, Chihiro', 'Miyata, Kouki', 'Hatano, Wataru', 'Kakihara, Tetsuya', 'Kosugi, Juurouta', 'Inoue, Kazuhiko', 'Kishio, Daisuke', 'Masutani, Yasunori']
+animeStaff	[['Inoue, Hiroaki', 'Producer'], ['Kuroda, Yasuhiro', 'Director'], ['Kakihara, Tetsuya', 'Theme Song Performance'], ['Ishikawa, Hideo', 'Theme Song Performance']]

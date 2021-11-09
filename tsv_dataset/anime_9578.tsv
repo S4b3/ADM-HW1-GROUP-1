@@ -1,5 +1,5 @@
-animeTitle	b'Hipira-kun Special'
-animeType	b'Special'
+animeTitle	Hipira-kun Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.75
 animeUsers	233
 animeRank	
-animePopularity	
-animeDescription	b'Last episode of Hipira-kun bundled with the DVD/Blu-ray release.'
-animeRelated	[b'Hipira: The Little Vampire', b'Hipira-kun ONA']
-animeCharacters	[b'Soul-kun', b'Hipira']
-animeVoices	[b'\nOhara, Sayaka\nJapanese\n', b'\nKobayashi, Yumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOtomo, Katsuhiro\n\nOriginal Creator\n\n', b'\nKimura, Shinji\n\nOriginal Character Design\n\n']
+animePopularity	12437
+animeDescription	Last episode of Hipira-kun bundled with the DVD/Blu-ray release.
+animeRelated	['Hipira: The Little Vampire', 'Hipira-kun ONA']
+animeCharacters	['Soul-kun', 'Hipira']
+animeVoices	['Ohara, Sayaka', 'Kobayashi, Yumiko']
+animeStaff	[['Otomo, Katsuhiro', 'Original Creator'], ['Kimura, Shinji', 'Original Character Design']]

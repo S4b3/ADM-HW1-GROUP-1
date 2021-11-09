@@ -1,5 +1,5 @@
-animeTitle	b'Ore-sama Kingdom'
-animeType	b'OVA'
+animeTitle	Ore-sama Kingdom
+animeType	OVA
 animeNumEpisode	14
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.3
 animeUsers	497
 animeRank	
-animePopularity	
-animeDescription	"b'The story centers on Nonoha Nonohara, a young manga artist who just enrolled in a new school. She finds herself surrounded by a group of three ""super-cute"" guys.\n\n(Source: MU)'"
-animeRelated	[b'Oresama Kingdom']
-animeCharacters	[b'Nonohara, Nono', b'Akagi, Hikaru', b'Kurosawa, Shun', b'Hakuba, Shinogu', b'Oohigashi, Mariko', b'Taniguchi', b'Isshiki, Kyouya', b'Kurosawa, Miwa']
-animeVoices	[b'\nHasegawa, Akiko\nJapanese\n', b'\nNaruse, Makoto\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nHatano, Wataru\nJapanese\n', b'\nMakiguchi, Miki\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nIse, Mariya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYagami, Chitose\n\nOriginal Creator\n\n']
+animePopularity	8257
+animeDescription	"The story centers on Nonoha Nonohara, a young manga artist who just enrolled in a new school. She finds herself surrounded by a group of three ""super-cute"" guys.
+
+(Source: MU)"
+animeRelated	['Oresama Kingdom']
+animeCharacters	['Nonohara, Nono', 'Akagi, Hikaru', 'Kurosawa, Shun', 'Hakuba, Shinogu', 'Oohigashi, Mariko', 'Taniguchi', 'Isshiki, Kyouya', 'Kurosawa, Miwa']
+animeVoices	['Hasegawa, Akiko', 'Naruse, Makoto', 'Sakurai, Takahiro', 'Hatano, Wataru', 'Makiguchi, Miki', 'Yusa, Kouji', 'Hosoya, Yoshimasa', 'Ise, Mariya']
+animeStaff	[['Yagami, Chitose', 'Original Creator']]

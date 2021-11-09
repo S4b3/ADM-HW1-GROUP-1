@@ -1,5 +1,5 @@
-animeTitle	b'Cipher'
-animeType	b'OVA'
+animeTitle	Cipher
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	4.56
 animeUsers	4570
 animeRank	
-animePopularity	
-animeDescription	b'Two brothers are in the spotlight: one a movie star making a football movie, the other a musician who occasionally goes to school (to cover for his sibling). What will destiny bring them? '
-animeRelated	[b'Cipher']
-animeCharacters	[b'Rang, Roy', b'Rang, Jake', b'Murphy, Anise']
-animeVoices	[b'\nKabira, Jay\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTominaga, Tsuneo\n\nDirector\n\n', b'\nCollins, Phil\n\nTheme Song Composition, Theme Song Arrangement, Music\n\n', b'\nLoggins, Kenny\n\nTheme Song Arrangement, Theme Song Composition, Music\n\n', b'\nWilliams, Deniece\n\nTheme Song Arrangement, Theme Song Composition, Music\n\n']
+animePopularity	5401
+animeDescription	Two brothers are in the spotlight: one a movie star making a football movie, the other a musician who occasionally goes to school (to cover for his sibling). What will destiny bring them? 
+animeRelated	['Cipher']
+animeCharacters	['Rang, Roy', 'Rang, Jake', 'Murphy, Anise']
+animeVoices	['Kabira, Jay']
+animeStaff	[['Tominaga, Tsuneo', 'Director'], ['Collins, Phil', 'Theme Song Composition, Theme Song Arrangement, Music'], ['Loggins, Kenny', 'Theme Song Arrangement, Theme Song Composition, Music'], ['Williams, Deniece', 'Theme Song Arrangement, Theme Song Composition, Music']]

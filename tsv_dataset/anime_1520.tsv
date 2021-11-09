@@ -1,5 +1,5 @@
-animeTitle	b'The Big O'
-animeType	b'TV'
+animeTitle	The Big O
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.53
 animeUsers	31847
 animeRank	
-animePopularity	
-animeDescription	"b""Paradigm City, a city of amnesia and a place of belonging. It remains populated by forgotten pasts and the ruins of their labors due to a calamity 40 years ago. Shrouded in a fog-like mystery, it is up to people like Roger Smith to shine a light through the mist. Acting as a professional negotiator and suave agent, Roger is a self-tailored ladies man whose only love is for funeral black. However, as he gets deeply involved with his clients, what often starts as a simple negotiation evolves into Roger saving Paradigm from crime and peril.\n\nIn the process, Roger stumbles even deeper into the untold folds of the city. As a rule, things are hardly ever as they appear. Serving as gray knight in a gray world, Roger is not without allies. By his side are Norman, a loyal and widely skilled butler, and Dorothy, a human-like android with deadpan snark. Together with the relic Big O, a jet-black mecha of gargantuan size and weight, they help Roger serve iron justice to Paradigm's lurking villains as he discovers the truth about 40 years ago.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'The Big O']
-animeCharacters	[b'Wayneright, R. Dorothy', b'Smith, Roger', b'Burg, Norman', b'Rosewater, Angel', b'Seebach, Michael', b'Beck, Jason', b'Gabriel, Alan', b'Big Ear', b'Dastun, Dan', b'Ferry, Louise']
-animeVoices	[b'\nYajima, Akiko\nJapanese\n', b'\nMiyamoto, Mitsuru\nJapanese\n', b'\nKiyokawa, Motomu\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nHori, Katsunosuke\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nFutamata, Issei\nJapanese\n', b'\nTsuji, Shinpachi\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nIshimura, Tomoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nKatayama, Kazuyoshi\n\nDirector, Episode Director, Script, Storyboard, Screenplay\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nNakamura, Kenji\n\nEpisode Director\n\n']
+animePopularity	1864
+animeDescription	"Paradigm City, a city of amnesia and a place of belonging. It remains populated by forgotten pasts and the ruins of their labors due to a calamity 40 years ago. Shrouded in a fog-like mystery, it is up to people like Roger Smith to shine a light through the mist. Acting as a professional negotiator and suave agent, Roger is a self-tailored ladies man whose only love is for funeral black. However, as he gets deeply involved with his clients, what often starts as a simple negotiation evolves into Roger saving Paradigm from crime and peril.
+
+In the process, Roger stumbles even deeper into the untold folds of the city. As a rule, things are hardly ever as they appear. Serving as gray knight in a gray world, Roger is not without allies. By his side are Norman, a loyal and widely skilled butler, and Dorothy, a human-like android with deadpan snark. Together with the relic Big O, a jet-black mecha of gargantuan size and weight, they help Roger serve iron justice to Paradigm's lurking villains as he discovers the truth about 40 years ago.
+
+[Written by MAL Rewrite]"
+animeRelated	['The Big O']
+animeCharacters	['Wayneright, R. Dorothy', 'Smith, Roger', 'Burg, Norman', 'Rosewater, Angel', 'Seebach, Michael', 'Beck, Jason', 'Gabriel, Alan', 'Big Ear', 'Dastun, Dan', 'Ferry, Louise']
+animeVoices	['Yajima, Akiko', 'Miyamoto, Mitsuru', 'Kiyokawa, Motomu', 'Shinohara, Emi', 'Hori, Katsunosuke', 'Ootsuka, Houchuu', 'Futamata, Issei', 'Tsuji, Shinpachi', 'Genda, Tesshou', 'Ishimura, Tomoko']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Katayama, Kazuyoshi', 'Director, Episode Director, Script, Storyboard, Screenplay'], ['Tsuruoka, Youta', 'Sound Director'], ['Nakamura, Kenji', 'Episode Director']]

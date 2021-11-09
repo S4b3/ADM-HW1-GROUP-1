@@ -1,5 +1,5 @@
-animeTitle	b'Fairy Tail'
-animeType	b'TV'
+animeTitle	Fairy Tail
+animeType	TV
 animeNumEpisode	175
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.6
 animeUsers	769289
 animeRank	
-animePopularity	
-animeDescription	"b""In the mystical land of Fiore, magic exists as an essential part of everyday life. Countless magic guilds lie at the core of all magical activity, and serve as venues for like-minded mages to band together and take on job requests. Among them, Fairy Tail stands out from the rest as a place of strength, spirit, and family.\n\nLucy Heartfilia is a young mage searching for celestial gate keys, and her dream is to become a full-fledged wizard by joining this famous guild. In her search, she runs into Natsu Dragneel and his partner Happy, who are on a quest to find Natsu's foster father, the dragon Igneel.\n\nUpon being tricked by a man, Lucy falls under an abduction attempt, only to be saved by Natsu. To her shock, he reveals that he is a member of Fairy Tail and invites her to join them. There, Lucy meets the guild's strange members, such as the ice wizard Gray Fullbuster and magic swordswoman Erza Scarlet. Together as a family, they battle the forces of evil, help those in need, and gain new friends, all the while enjoying the never-ending adventure that is Fairy Tail.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Fairy Tail', b'Groove Adventure Rave', b'Fairy Tail OVA', b'Fairy Tail Movie 1: Houou no Miko', b'Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa', b'Towa no Kizuna', b'Fairy Tail Movie 2: Dragon Cry', b'Fairy Tail x Mameshiba', b'Fairy Tail x Rave', b'Fairy Tail (2014)']
-animeCharacters	[b'Dragneel, Natsu', b'Scarlet, Erza', b'Fullbuster, Gray', b'Heartfilia, Lucy', b'Happy', b'Marvell, Wendy', b'Charl\xc3\xa9s', b'Lockser, Juvia', b'Fernandes, Jellal', b'Redfox, Gajeel']
-animeVoices	[b'\nKakihara, Tetsuya\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nHatano, Wataru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOchikoshi, Tomonori\n\nProducer\n\n', b'\nIshihira, Shinji\n\nDirector\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nIshiguro, Kyouhei\n\nEpisode Director, Storyboard\n\n']
+animePopularity	41
+animeDescription	"In the mystical land of Fiore, magic exists as an essential part of everyday life. Countless magic guilds lie at the core of all magical activity, and serve as venues for like-minded mages to band together and take on job requests. Among them, Fairy Tail stands out from the rest as a place of strength, spirit, and family.
+
+Lucy Heartfilia is a young mage searching for celestial gate keys, and her dream is to become a full-fledged wizard by joining this famous guild. In her search, she runs into Natsu Dragneel and his partner Happy, who are on a quest to find Natsu's foster father, the dragon Igneel.
+
+Upon being tricked by a man, Lucy falls under an abduction attempt, only to be saved by Natsu. To her shock, he reveals that he is a member of Fairy Tail and invites her to join them. There, Lucy meets the guild's strange members, such as the ice wizard Gray Fullbuster and magic swordswoman Erza Scarlet. Together as a family, they battle the forces of evil, help those in need, and gain new friends, all the while enjoying the never-ending adventure that is Fairy Tail.
+
+[Written by MAL Rewrite]"
+animeRelated	['Fairy Tail', 'Groove Adventure Rave', 'Fairy Tail OVA', 'Fairy Tail Movie 1: Houou no Miko', 'Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa', 'Towa no Kizuna', 'Fairy Tail Movie 2: Dragon Cry', 'Fairy Tail x Mameshiba', 'Fairy Tail x Rave', 'Fairy Tail (2014)']
+animeCharacters	['Dragneel, Natsu', 'Scarlet, Erza', 'Fullbuster, Gray', 'Heartfilia, Lucy', 'Happy', 'Marvell, Wendy', 'Charlés', 'Lockser, Juvia', 'Fernandes, Jellal', 'Redfox, Gajeel']
+animeVoices	['Kakihara, Tetsuya', 'Ohara, Sayaka', 'Kitamura, Eri', 'Hirano, Aya', 'Kugimiya, Rie', 'Satou, Satomi', 'Horie, Yui', 'Nakahara, Mai', 'Namikawa, Daisuke', 'Hatano, Wataru']
+animeStaff	[['Ochikoshi, Tomonori', 'Producer'], ['Ishihira, Shinji', 'Director'], ['Hata, Shouji', 'Sound Director'], ['Ishiguro, Kyouhei', 'Episode Director, Storyboard']]

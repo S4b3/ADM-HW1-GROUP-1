@@ -1,4 +1,4 @@
-animeTitle	b'Suiyoubi no Yakusoku'
+animeTitle	Suiyoubi no Yakusoku
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.4
 animeUsers	103
 animeRank	
-animePopularity	
-animeDescription	b'Music video animated by Mogelatte for the song Suiyoubi no Yakusoku by HoneyWorks featuring Gero.'
+animePopularity	16074
+animeDescription	Music video animated by Mogelatte for the song Suiyoubi no Yakusoku by HoneyWorks featuring Gero.
 animeRelated	[]
-animeCharacters	[b'Hamanaka, Midori']
+animeCharacters	['Hamanaka, Midori']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHoneyWorks\n\nTheme Song Performance\n\n', b'\nGero\n\nTheme Song Performance\n\n']
+animeStaff	[['HoneyWorks', 'Theme Song Performance'], ['Gero', 'Theme Song Performance']]

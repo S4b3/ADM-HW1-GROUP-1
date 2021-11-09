@@ -1,5 +1,5 @@
-animeTitle	b'Megumi'
-animeType	b'ONA'
+animeTitle	Megumi
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.02
 animeUsers	643
 animeRank	
-animePopularity	
-animeDescription	b'An anime biography on Megumi Yokota, who was abducted by North Korea in 1977 when she was 13 years old. North Korea acknowledges abducting her and at least 12 other Japanese residents during the 1970s and the 1980s, but the country has not provided any conclusive evidence on her fate and most of the others.\n\n(Source: ANN) '
-animeRelated	[b'Megumi']
-animeCharacters	[b'Yokota, Megumi', b'Yokota, Shigeru', b'Yokota, Sakie']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nFukami, Rica\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomori, Hidetoshi\n\nDirector\n\n', b'\nMitsui, Hideki\n\nScript\n\n', b'\nSatou, Hiromu\n\nArt Director\n\n', b'\nWada, Toshiya\n\nSound Effects\n\n']
+animePopularity	9572
+animeDescription	"An anime biography on Megumi Yokota, who was abducted by North Korea in 1977 when she was 13 years old. North Korea acknowledges abducting her and at least 12 other Japanese residents during the 1970s and the 1980s, but the country has not provided any conclusive evidence on her fate and most of the others.
+
+(Source: ANN) "
+animeRelated	['Megumi']
+animeCharacters	['Yokota, Megumi', 'Yokota, Shigeru', 'Yokota, Sakie']
+animeVoices	['Takayama, Minami', 'Yamadera, Kouichi', 'Fukami, Rica']
+animeStaff	[['Oomori, Hidetoshi', 'Director'], ['Mitsui, Hideki', 'Script'], ['Satou, Hiromu', 'Art Director'], ['Wada, Toshiya', 'Sound Effects']]

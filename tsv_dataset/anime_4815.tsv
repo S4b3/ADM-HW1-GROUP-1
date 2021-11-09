@@ -1,5 +1,5 @@
-animeTitle	b'Mewkledreamy Mix!'
-animeType	b'TV'
+animeTitle	Mewkledreamy Mix!
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.76
 animeUsers	123
 animeRank	
-animePopularity	
-animeDescription	b'Second season of Mewkledreamy.'
-animeRelated	[b'Mewkledreamy']
-animeCharacters	[b'Hinata, Yume', b'Tsukishima, Maira', b'Yuni', b'Minamikawa, Asahi', b'Peko', b'Mew', b'Anzai, Tokiwa', b'Imai, Kotoko', b'Suu', b'Hagi']
-animeVoices	[b'\nKobayashi, Yuusuke\nJapanese\n']
+animePopularity	10821
+animeDescription	Second season of Mewkledreamy.
+animeRelated	['Mewkledreamy']
+animeCharacters	['Hinata, Yume', 'Tsukishima, Maira', 'Yuni', 'Minamikawa, Asahi', 'Peko', 'Mew', 'Anzai, Tokiwa', 'Imai, Kotoko', 'Suu', 'Hagi']
+animeVoices	['Kobayashi, Yuusuke']
 animeStaff	[]

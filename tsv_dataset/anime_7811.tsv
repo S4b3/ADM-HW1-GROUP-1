@@ -1,5 +1,5 @@
-animeTitle	b'Phantom of the Kill: Zero kara no Hangyaku'
-animeType	b'Movie'
+animeTitle	Phantom of the Kill: Zero kara no Hangyaku
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.17
 animeUsers	2887
 animeRank	
-animePopularity	
-animeDescription	"b'Game producer Jun Imaizumi announced six new projects related to the smartphone game ""Phantom of the Kill"" during a Niconico live broadcast celebrating the game\'s one-year anniversary on Friday. One of the new projects is a 15-minute anime concept film.\n\nNaoyoshi Shiotani (Psycho-Pass, Blood-C: The Last Dark) will direct the concept film at Production I.G \n\nFuji & Gumi Games\' strategy drama RPG follows mysterious girls who carry the names of legendary weapons (such as ""Masamune"") as they search for their lost memories. The game allows players to collect characters and weapons, and enter dungeons to engage in turn-based tactical battles.\n\n(Source: ANN)'"
+animePopularity	5376
+animeDescription	"Game producer Jun Imaizumi announced six new projects related to the smartphone game ""Phantom of the Kill"" during a Niconico live broadcast celebrating the game's one-year anniversary on Friday. One of the new projects is a 15-minute anime concept film.
+
+Naoyoshi Shiotani (Psycho-Pass, Blood-C: The Last Dark) will direct the concept film at Production I.G 
+
+Fuji & Gumi Games' strategy drama RPG follows mysterious girls who carry the names of legendary weapons (such as ""Masamune"") as they search for their lost memories. The game allows players to collect characters and weapons, and enter dungeons to engage in turn-based tactical battles.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Amane', b'Zero', b'Nurse', b'Valyn', b'Researcher', b'Consul', b'Tyrhung']
-animeVoices	[b'\nYukana\nJapanese\n', b'\nFujiwara, Tatsuya\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nNishimura, Tomomichi\nJapanese\n', b'\nSawaki, Ikuya\nJapanese\n', b'\nAmamiya, Sora\nJapanese\n', b'\nHirota, Kousei\nJapanese\n', b'\nSasaki, Mutsumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShiotani, Naoyoshi\n\nDirector, Script, Storyboard\n\n', b'\nAoki, Yasuhiro\n\nStoryboard, Character Design, Key Animation, Assistant Animation Director\n\n', b'\nDempagumi.inc\n\nTheme Song Performance\n\n', b'\nNishio, Tetsuya\n\nKey Animation\n\n']
+animeCharacters	['Amane', 'Zero', 'Nurse', 'Valyn', 'Researcher', 'Consul', 'Tyrhung']
+animeVoices	['Yukana', 'Fujiwara, Tatsuya', 'Inoue, Marina', 'Asumi, Kana', 'Hanazawa, Kana', 'Nishimura, Tomomichi', 'Sawaki, Ikuya', 'Amamiya, Sora', 'Hirota, Kousei', 'Sasaki, Mutsumi']
+animeStaff	[['Shiotani, Naoyoshi', 'Director, Script, Storyboard'], ['Aoki, Yasuhiro', 'Storyboard, Character Design, Key Animation, Assistant Animation Director'], ['Dempagumi.inc', 'Theme Song Performance'], ['Nishio, Tetsuya', 'Key Animation']]

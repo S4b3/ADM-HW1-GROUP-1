@@ -1,5 +1,5 @@
-animeTitle	b'Tabi Machi Late Show'
-animeType	b'TV'
+animeTitle	Tabi Machi Late Show
+animeType	TV
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.21
 animeUsers	4371
 animeRank	
-animePopularity	
-animeDescription	b'Departures are moments that evoke both hope and melancholy. Tabi Machi Late Show examines how these ambivalent emotions continue to persist long beyond that singular moment of parting. Azuma reminisces about her mentor as she sees off her own student; Kumeno recalls her short, turbulent friendship with Koizumi; Yukari meets an old friend during the Lantern Festival; and Sakurada fondly remembers the numerous students she has met during her teaching career.\n\nStructured around a theme of goodbyes and journeys, Tabi Machi Late Show is composed of four intimate, slice-of-life vignettes that wistfully examine the lasting impressions people leave on one another.\n\n[Written by MAL Rewrite]\n'
+animePopularity	5685
+animeDescription	"Departures are moments that evoke both hope and melancholy. Tabi Machi Late Show examines how these ambivalent emotions continue to persist long beyond that singular moment of parting. Azuma reminisces about her mentor as she sees off her own student; Kumeno recalls her short, turbulent friendship with Koizumi; Yukari meets an old friend during the Lantern Festival; and Sakurada fondly remembers the numerous students she has met during her teaching career.
+
+Structured around a theme of goodbyes and journeys, Tabi Machi Late Show is composed of four intimate, slice-of-life vignettes that wistfully examine the lasting impressions people leave on one another.
+
+[Written by MAL Rewrite]
+"
 animeRelated	[]
-animeCharacters	"[b'Haruka', b'Sakurada', b'Matsuzaki', b'Yukari', b'Koizumi', b'Nagi', b""Azuma's Husband"", b'Kumeno, Akemi', b'Azuma']"
-animeVoices	[b'\nGibu, Yuko\nJapanese\n', b'\nTaira, Masumi\nJapanese\n', b'\nNakadai, Yoshikazu\nJapanese\n', b'\nEndou, Rina\nJapanese\n', b'\nTomizawa, Yuuki\nJapanese\n', b'\nOokuma, Kenta\nJapanese\n', b'\nTabata, Miho\nJapanese\n', b'\nMorishita, Yukiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHori, Yuuta\n\nProducer\n\n', b'\nNumata, Yuu\n\nDirector, Script, Storyboard, Creator\n\n', b'\nYamada, Haru\n\nSound Director\n\n', b'\nHoshiko, Senpuukyaku\n\nEpisode Director\n\n']
+animeCharacters	"['Haruka', 'Sakurada', 'Matsuzaki', 'Yukari', 'Koizumi', 'Nagi', ""Azuma's Husband"", 'Kumeno, Akemi', 'Azuma']"
+animeVoices	['Gibu, Yuko', 'Taira, Masumi', 'Nakadai, Yoshikazu', 'Endou, Rina', 'Tomizawa, Yuuki', 'Ookuma, Kenta', 'Tabata, Miho', 'Morishita, Yukiko']
+animeStaff	[['Hori, Yuuta', 'Producer'], ['Numata, Yuu', 'Director, Script, Storyboard, Creator'], ['Yamada, Haru', 'Sound Director'], ['Hoshiko, Senpuukyaku', 'Episode Director']]

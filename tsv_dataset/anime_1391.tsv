@@ -1,5 +1,5 @@
-animeTitle	b'Nijuu Mensou no Musume'
-animeType	b'TV'
+animeTitle	Nijuu Mensou no Musume
+animeType	TV
 animeNumEpisode	22
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.57
 animeUsers	10362
 animeRank	
-animePopularity	
-animeDescription	"b""Chiko is the daughter of the wealthy Mikamo family who has to live with her aunt and uncle after her parents passed away. Because her aunt wants to inherit the Mikamo family's wealth, she gives Chiko poisoned food. One day, however, she's kidnapped by the Nijuu Mensou (20 Faces) and decides to join his clan. \n\n(Source: ZOMG)"""
-animeRelated	[b'Nijuu Mensou no Musume']
-animeCharacters	[b'Mikamo, Chizuko', b'Nijuu Mensou', b'Ken', b'Tamiya, Seiji', b'Tome', b'Kayama, Nozomi', b'Akine', b'Mikamo, Yoshie', b'Kakihara, Kohei', b'Koito, Shunka']
-animeVoices	[b'\nHirano, Aya\nJapanese\n', b'\nUchida, Yuuya\nJapanese\n', b'\nMatsukaze, Masaya\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nArai, Satomi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nTakeda, Masanori\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nSatou, Rina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Kouji\n\nProducer\n\n', b'\nYonai, Noritomo\n\nProducer\n\n', b'\nKimura, Kyotaro\n\nProducer\n\n', b'\nTomisawa, Nobuo\n\nDirector\n\n']
+animePopularity	3189
+animeDescription	"Chiko is the daughter of the wealthy Mikamo family who has to live with her aunt and uncle after her parents passed away. Because her aunt wants to inherit the Mikamo family's wealth, she gives Chiko poisoned food. One day, however, she's kidnapped by the Nijuu Mensou (20 Faces) and decides to join his clan. 
+
+(Source: ZOMG)"
+animeRelated	['Nijuu Mensou no Musume']
+animeCharacters	['Mikamo, Chizuko', 'Nijuu Mensou', 'Ken', 'Tamiya, Seiji', 'Tome', 'Kayama, Nozomi', 'Akine', 'Mikamo, Yoshie', 'Kakihara, Kohei', 'Koito, Shunka']
+animeVoices	['Hirano, Aya', 'Uchida, Yuuya', 'Matsukaze, Masaya', 'Tanaka, Atsuko', 'Arai, Satomi', 'Sawashiro, Miyuki', 'Takeda, Masanori', 'Touma, Yumi', 'Ootsuka, Houchuu', 'Satou, Rina']
+animeStaff	[['Yamamoto, Kouji', 'Producer'], ['Yonai, Noritomo', 'Producer'], ['Kimura, Kyotaro', 'Producer'], ['Tomisawa, Nobuo', 'Director']]

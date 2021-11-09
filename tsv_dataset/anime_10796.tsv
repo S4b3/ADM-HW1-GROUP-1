@@ -1,5 +1,5 @@
-animeTitle	b'Houkago no Pleiades: Manner Movie'
-animeType	b'Movie'
+animeTitle	Houkago no Pleiades: Manner Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.35
 animeUsers	682
 animeRank	
-animePopularity	
-animeDescription	b'A manner movie based on the Houkago no Pleiades anime.\n\nA manner movie is a reminder video shown in theaters before the main movie starts, it is there to remind the audience to turn off their mobile phones, avoid talking, etc. This Houkago no Pleiades manner movie was exclusive to the United Cinemas theater chain.\n\n(Source: AniDB)'
-animeRelated	[b'Houkago no Pleiades', b'Houkago no Pleiades (TV)']
-animeCharacters	[b'Subaru', b'Nanako', b'Aoi', b'Hikaru', b'Itsuki']
+animePopularity	9041
+animeDescription	"A manner movie based on the Houkago no Pleiades anime.
+
+A manner movie is a reminder video shown in theaters before the main movie starts, it is there to remind the audience to turn off their mobile phones, avoid talking, etc. This Houkago no Pleiades manner movie was exclusive to the United Cinemas theater chain.
+
+(Source: AniDB)"
+animeRelated	['Houkago no Pleiades', 'Houkago no Pleiades (TV)']
+animeCharacters	['Subaru', 'Nanako', 'Aoi', 'Hikaru', 'Itsuki']
 animeVoices	[]
 animeStaff	[]

@@ -1,5 +1,5 @@
-animeTitle	b'Nisekoi OVA'
-animeType	b'OVA'
+animeTitle	Nisekoi OVA
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.39
 animeUsers	80659
 animeRank	
-animePopularity	
-animeDescription	b'Episodes released on DVDs bundled with the 14th, 16th, and 17th volumes of the Nisekoi manga.'
-animeRelated	[b'Nisekoi', b'Magical P\xc3\xa2tissi\xc3\xa8re Kosaki-chan!!', b'Nisekoi:', b'Nisekoi: OVA']
-animeCharacters	[b'Kirisaki, Chitoge', b'Onodera, Kosaki', b'Ichijou, Raku', b'Tsugumi, Seishirou', b'Tachibana, Marika', b'Maiko, Shuu', b'Onodera, Haru', b'Miyamoto, Ruri', b'Sasaki, Ryuunosuke', b'McCoy, Paula']
-animeVoices	[b'\nTouyama, Nao\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nNumakura, Manami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinbou, Akiyuki\n\nDirector\n\n', b'\nTatsuwa, Naoyuki\n\nDirector, Episode Director, Storyboard\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nNumata, Seiya\n\nEpisode Director\n\n']
+animePopularity	1211
+animeDescription	Episodes released on DVDs bundled with the 14th, 16th, and 17th volumes of the Nisekoi manga.
+animeRelated	['Nisekoi', 'Magical Pâtissière Kosaki-chan!!', 'Nisekoi:', 'Nisekoi: OVA']
+animeCharacters	['Kirisaki, Chitoge', 'Onodera, Kosaki', 'Ichijou, Raku', 'Tsugumi, Seishirou', 'Tachibana, Marika', 'Maiko, Shuu', 'Onodera, Haru', 'Miyamoto, Ruri', 'Sasaki, Ryuunosuke', 'McCoy, Paula']
+animeVoices	['Touyama, Nao', 'Hanazawa, Kana', 'Uchiyama, Kouki', 'Komatsu, Mikako', 'Asumi, Kana', 'Kaji, Yuki', 'Sakura, Ayane', 'Uchiyama, Yumi', 'Hiyama, Nobuyuki', 'Numakura, Manami']
+animeStaff	[['Shinbou, Akiyuki', 'Director'], ['Tatsuwa, Naoyuki', 'Director, Episode Director, Storyboard'], ['Kameyama, Toshiki', 'Sound Director'], ['Numata, Seiya', 'Episode Director']]

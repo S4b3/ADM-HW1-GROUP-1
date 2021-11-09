@@ -1,5 +1,5 @@
-animeTitle	b'Heybot!'
-animeType	b'TV'
+animeTitle	Heybot!
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.01
 animeUsers	340
 animeRank	
-animePopularity	
-animeDescription	"b'The anime takes place on the screw-shaped island country of Nejigajima and follows the two ""Bokyabots"" Hebot and the Yurui Prince Nejiru as they collect different ""Bokya Neji"" screws. When the Bokyabots wear the Bokya Neji screws on their heads, they\'re able to compete in ""Bokya Battles,"" battles for who can think up and tell the best jokes.\n\n(Source: ANN)'"
-animeRelated	[b'Heybot']
-animeCharacters	[b'Heybot', b'Negil, Nejiru', b'Vocammy', b'Macaroni', b'Peyket', b'Nejiyanagi, Yuuko', b'Suchat', b'Chigiiru, Chigiru']
-animeVoices	[b'\nIzawa, Shiori\nJapanese\n', b'\nTamura, Nao\nJapanese\n', b'\nArai, Satomi\nJapanese\n', b'\nYamaoka, Yuri\nJapanese\n', b'\nUchida, Takeshi\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshihira, Shinji\n\nDirector\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nSekita, Osamu\n\nEpisode Director\n\n', b'\nSuzuki, Yuuji\n\nEpisode Director, Storyboard\n\n']
+animePopularity	9471
+animeDescription	"The anime takes place on the screw-shaped island country of Nejigajima and follows the two ""Bokyabots"" Hebot and the Yurui Prince Nejiru as they collect different ""Bokya Neji"" screws. When the Bokyabots wear the Bokya Neji screws on their heads, they're able to compete in ""Bokya Battles,"" battles for who can think up and tell the best jokes.
+
+(Source: ANN)"
+animeRelated	['Heybot']
+animeCharacters	['Heybot', 'Negil, Nejiru', 'Vocammy', 'Macaroni', 'Peyket', 'Nejiyanagi, Yuuko', 'Suchat', 'Chigiiru, Chigiru']
+animeVoices	['Izawa, Shiori', 'Tamura, Nao', 'Arai, Satomi', 'Yamaoka, Yuri', 'Uchida, Takeshi', 'Maeno, Tomoaki']
+animeStaff	[['Ishihira, Shinji', 'Director'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Sekita, Osamu', 'Episode Director'], ['Suzuki, Yuuji', 'Episode Director, Storyboard']]

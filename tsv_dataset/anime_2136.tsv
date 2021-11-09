@@ -1,5 +1,5 @@
-animeTitle	b'One Piece: Mamore! Saigo no Dai Butai'
-animeType	b'Special'
+animeTitle	One Piece: Mamore! Saigo no Dai Butai
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.36
 animeUsers	12178
 animeRank	
-animePopularity	
-animeDescription	"b""For many years, Ex-Marine Lieutenant Randolph and his troupe have put on a play aboard his ship. Having lost his family to pirates, Randolph wishes to put on plays that will give courage to those who have also lost their loved ones to pirates. Unfortunately, Randolph must retire soon, and he is now giving his last performance. Luffy and his crew come to see the play, and somehow manage to take part in it themselves. But from Randolph's past comes a vengeful subordinate with a diabolical plan who has finally become commander in order to capture Randolph. Luffy and his nakama now must prove to the people that not all pirates are scum, and protect Randolph's final farewell performance from the bitter commander. (aired after Episode 174)\n\n(Source: ANN)"""
-animeRelated	[b'One Piece']
-animeCharacters	[b'Monkey D., Luffy', b'Roronoa, Zoro', b'Sanji', b'Nico, Robin', b'Tony Tony, Chopper', b'Usopp', b'Nami', b'Randolph', b'Lola', b'Governor']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nYamaguchi, Yuriko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nSonobe, Keiichi\nJapanese\n', b'\nNagaki, Kiyoko\nJapanese\n', b'\nFutamata, Issei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOda, Eiichiro\n\nOriginal Creator\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n', b'\nHamaguchi, Shirou\n\nMusic\n\n']
+animePopularity	3535
+animeDescription	"For many years, Ex-Marine Lieutenant Randolph and his troupe have put on a play aboard his ship. Having lost his family to pirates, Randolph wishes to put on plays that will give courage to those who have also lost their loved ones to pirates. Unfortunately, Randolph must retire soon, and he is now giving his last performance. Luffy and his crew come to see the play, and somehow manage to take part in it themselves. But from Randolph's past comes a vengeful subordinate with a diabolical plan who has finally become commander in order to capture Randolph. Luffy and his nakama now must prove to the people that not all pirates are scum, and protect Randolph's final farewell performance from the bitter commander. (aired after Episode 174)
+
+(Source: ANN)"
+animeRelated	['One Piece']
+animeCharacters	['Monkey D., Luffy', 'Roronoa, Zoro', 'Sanji', 'Nico, Robin', 'Tony Tony, Chopper', 'Usopp', 'Nami', 'Randolph', 'Lola', 'Governor']
+animeVoices	['Tanaka, Mayumi', 'Nakai, Kazuya', 'Hirata, Hiroaki', 'Yamaguchi, Yuriko', 'Ootani, Ikue', 'Yamaguchi, Kappei', 'Okamura, Akemi', 'Sonobe, Keiichi', 'Nagaki, Kiyoko', 'Futamata, Issei']
+animeStaff	[['Oda, Eiichiro', 'Original Creator'], ['Tanaka, Kouhei', 'Music'], ['Hamaguchi, Shirou', 'Music']]

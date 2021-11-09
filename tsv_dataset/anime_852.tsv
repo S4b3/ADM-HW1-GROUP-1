@@ -1,5 +1,5 @@
-animeTitle	b'Break Blade 3: Kyoujin no Ato'
-animeType	b'Movie'
+animeTitle	Break Blade 3: Kyoujin no Ato
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.8
 animeUsers	34267
 animeRank	
-animePopularity	
-animeDescription	b'Third Break Blade movie.'
-animeRelated	[b'Break Blade', b'Break Blade 2: Ketsubetsu no Michi', b'Break Blade 4: Sanka no Chi']
-animeCharacters	[b'Arrow, Rygart', b'Erster, Sigyn', b'Zess', b'Girge', b'Zaubraff, Cleo', b'Borcuse', b'Stryze, Narvi', b'Hodr', b'True', b'Baldr']
-animeVoices	[b'\nHoshi, Souichirou\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nSugawara, Masashi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirasawa, Nao\n\nProducer\n\n', b'\nHabara, Nobuyoshi\n\nDirector, Storyboard\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nFoster, Steven\n\nScript, ADR Director\n\n']
+animePopularity	2354
+animeDescription	Third Break Blade movie.
+animeRelated	['Break Blade', 'Break Blade 2: Ketsubetsu no Michi', 'Break Blade 4: Sanka no Chi']
+animeCharacters	['Arrow, Rygart', 'Erster, Sigyn', 'Zess', 'Girge', 'Zaubraff, Cleo', 'Borcuse', 'Stryze, Narvi', 'Hodr', 'True', 'Baldr']
+animeVoices	['Hoshi, Souichirou', 'Saitou, Chiwa', 'Kamiya, Hiroshi', 'Toriumi, Kousuke', 'Hanazawa, Kana', 'Nakai, Kazuya', 'Inoue, Marina', 'Nakamura, Yuuichi', 'Ogata, Kenichi', 'Sugawara, Masashi']
+animeStaff	[['Hirasawa, Nao', 'Producer'], ['Habara, Nobuyoshi', 'Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director'], ['Foster, Steven', 'Script, ADR Director']]

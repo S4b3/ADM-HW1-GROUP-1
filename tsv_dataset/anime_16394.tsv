@@ -1,5 +1,5 @@
-animeTitle	b'Jimoto ga Japan'
-animeType	b'TV'
+animeTitle	Jimoto ga Japan
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""There's a new tough guy transfer student in Tokyo. His name is Tokio and he's raring to see how scrappy the locals are. But when he comes face-to-face with a Japan-obsessed red-haired kid that won't leave him alone until he tells him exactly what prefecture he's from, his life takes a turn for the crazy! This kid isn't just Japan obsessed, he's developed a martial art based on all the different prefectures in the country! \n\n(Source: VIZ Media)"""
-animeRelated	[b'Jimoto ga Japan']
-animeCharacters	[b'Hinomoto, Japan', b'Kikuchi, Masurao', b'Komachi, Yuze', b'Hide', b'Kayahara, Nao', b'Abiko, Tokio']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nUeda, Reina\nJapanese\n', b'\nHatano, Wataru\nJapanese\n', b'\nKatou, Emiri\nJapanese\n', b'\nNishiyama, Koutarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeno, Isamu\n\nDirector\n\n', b'\nKushida, Akira\n\nTheme Song Performance\n\n', b'\nHayashi, Seiji\n\nOriginal Creator\n\n']
+animePopularity	9979
+animeDescription	"There's a new tough guy transfer student in Tokyo. His name is Tokio and he's raring to see how scrappy the locals are. But when he comes face-to-face with a Japan-obsessed red-haired kid that won't leave him alone until he tells him exactly what prefecture he's from, his life takes a turn for the crazy! This kid isn't just Japan obsessed, he's developed a martial art based on all the different prefectures in the country! 
+
+(Source: VIZ Media)"
+animeRelated	['Jimoto ga Japan']
+animeCharacters	['Hinomoto, Japan', 'Kikuchi, Masurao', 'Komachi, Yuze', 'Hide', 'Kayahara, Nao', 'Abiko, Tokio']
+animeVoices	['Takayama, Minami', 'Genda, Tesshou', 'Ueda, Reina', 'Hatano, Wataru', 'Katou, Emiri', 'Nishiyama, Koutarou']
+animeStaff	[['Ueno, Isamu', 'Director'], ['Kushida, Akira', 'Theme Song Performance'], ['Hayashi, Seiji', 'Original Creator']]

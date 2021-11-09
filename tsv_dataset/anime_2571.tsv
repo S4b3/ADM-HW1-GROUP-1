@@ -1,5 +1,5 @@
-animeTitle	b'High School DxD Specials'
-animeType	b'Special'
+animeTitle	High School DxD Specials
+animeType	Special
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,23 @@ animeNumMembers
 animeScore	7.27
 animeUsers	105771
 animeRank	
-animePopularity	
-animeDescription	"b""A series of 3-5 minute specials that were bundled with the HighSchool DxD DVD and Blu-rays. They are a stand alone set of episodes that are not a part of any story line in particular.\n\nSpecial 1: Going Sunbathing! - The Occult Research Club goes on a beach outing.\n\nSpecial 2: Issei's Private Training! - Issei is being given lessons in magic by Akeno.\n\nSpecial 3: A Little Bold, Koneko-Chan... Nyan! - Koneko accidentally has her personality reversed magically, making her incredibly sexually active and reversing her sexual preference.\n\nSpecial 4: The Untold Story of The Dress Break's Birth! - A few flashbacks of how Issei first found out and eventually perfected his special move, Dress Break.\n\nSpecial 5: Making Udon! - As part of a penalty for losing a bet, Sona and Tsubaki make udon for the Occult Research Club but the udon comes to life in a peculiar way...\n\nSpecial 6: Asia Transforms! - Asia wants to prove she is just as bad as any demon by using ideas found in Issei's magazines, going as far as dressing up like a harlot and seducing him.\n\n(Source: Wikipedia)"""
-animeRelated	[b'High School DxD']
-animeCharacters	[b'Gremory, Rias', b'Himejima, Akeno', b'Hyoudou, Issei', b'Toujou, Koneko', b'Argento, Asia', b'Kiba, Yuuto', b'Sitri, Souna', b'Shinra, Tsubaki', b'Motohama', b'Matsuda']
-animeVoices	[b'\nHikasa, Youko\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nAsakura, Azumi\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nTakamori, Natsumi\nJapanese\n', b'\nKimura, Akiko\nJapanese\n', b'\nNakakuni, Takurou\nJapanese\n', b'\nTakumi, Yasuaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYanagisawa, Tetsuya\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nIshibumi, Ichiei\n\nOriginal Creator\n\n', b'\nMiyama-Zero\n\nOriginal Character Design\n\n']
+animePopularity	979
+animeDescription	"A series of 3-5 minute specials that were bundled with the HighSchool DxD DVD and Blu-rays. They are a stand alone set of episodes that are not a part of any story line in particular.
+
+Special 1: Going Sunbathing! - The Occult Research Club goes on a beach outing.
+
+Special 2: Issei's Private Training! - Issei is being given lessons in magic by Akeno.
+
+Special 3: A Little Bold, Koneko-Chan... Nyan! - Koneko accidentally has her personality reversed magically, making her incredibly sexually active and reversing her sexual preference.
+
+Special 4: The Untold Story of The Dress Break's Birth! - A few flashbacks of how Issei first found out and eventually perfected his special move, Dress Break.
+
+Special 5: Making Udon! - As part of a penalty for losing a bet, Sona and Tsubaki make udon for the Occult Research Club but the udon comes to life in a peculiar way...
+
+Special 6: Asia Transforms! - Asia wants to prove she is just as bad as any demon by using ideas found in Issei's magazines, going as far as dressing up like a harlot and seducing him.
+
+(Source: Wikipedia)"
+animeRelated	['High School DxD']
+animeCharacters	['Gremory, Rias', 'Himejima, Akeno', 'Hyoudou, Issei', 'Toujou, Koneko', 'Argento, Asia', 'Kiba, Yuuto', 'Sitri, Souna', 'Shinra, Tsubaki', 'Motohama', 'Matsuda']
+animeVoices	['Hikasa, Youko', 'Itou, Shizuka', 'Kaji, Yuki', 'Taketatsu, Ayana', 'Asakura, Azumi', 'Nojima, Kenji', 'Takamori, Natsumi', 'Kimura, Akiko', 'Nakakuni, Takurou', 'Takumi, Yasuaki']
+animeStaff	[['Yanagisawa, Tetsuya', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Ishibumi, Ichiei', 'Original Creator'], ['Miyama-Zero', 'Original Character Design']]

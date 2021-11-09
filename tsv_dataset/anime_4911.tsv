@@ -1,5 +1,5 @@
-animeTitle	b'One Piece: Taose! Kaizoku Ganzack'
-animeType	b'OVA'
+animeTitle	One Piece: Taose! Kaizoku Ganzack
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.74
 animeUsers	15547
 animeRank	
-animePopularity	
-animeDescription	"b""While Luffy and his crew of Zoro and Nami are starving on their small boat, they are attacked by a large monster. Nami is taken away, while Luffy and Zoro wash up on shore. There they meet a young girl, Medaka, and learn of the sad history of the island. The evil Pirate Ganzack has taken away all the men in the village and enslaved them, including Medaka's father. Now Luffy, Zoro, and Medaka must infiltrate Ganzack's base in order to rescue the villagers and Nami. \n\n(Source: ANN)"""
-animeRelated	[b'One Piece: Taose! Kaizoku Ganzack', b'One Piece']
-animeCharacters	[b'Monkey D., Luffy', b'Roronoa, Zoro', b'Nami', b'Ganzack', b'Gol D., Roger', b'Medaka']
-animeVoices	[b'\nTakano, Urara\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTaniguchi, Gorou\n\nDirector\n\n', b'\nTanaka, Hideyuki\n\nSound Director\n\n', b'\nKitajima, Hiroaki\n\nScript\n\n', b'\nOda, Eiichiro\n\nOriginal Creator\n\n']
+animePopularity	3285
+animeDescription	"While Luffy and his crew of Zoro and Nami are starving on their small boat, they are attacked by a large monster. Nami is taken away, while Luffy and Zoro wash up on shore. There they meet a young girl, Medaka, and learn of the sad history of the island. The evil Pirate Ganzack has taken away all the men in the village and enslaved them, including Medaka's father. Now Luffy, Zoro, and Medaka must infiltrate Ganzack's base in order to rescue the villagers and Nami. 
+
+(Source: ANN)"
+animeRelated	['One Piece: Taose! Kaizoku Ganzack', 'One Piece']
+animeCharacters	['Monkey D., Luffy', 'Roronoa, Zoro', 'Nami', 'Ganzack', 'Gol D., Roger', 'Medaka']
+animeVoices	['Takano, Urara', 'Takagi, Wataru', 'Toyoguchi, Megumi', 'Wakamoto, Norio']
+animeStaff	[['Taniguchi, Gorou', 'Director'], ['Tanaka, Hideyuki', 'Sound Director'], ['Kitajima, Hiroaki', 'Script'], ['Oda, Eiichiro', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Norakuro Nitouhei: Enshuu no Maki'
-animeType	b'Movie'
+animeTitle	Norakuro Nitouhei: Enshuu no Maki
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.06
 animeUsers	398
 animeRank	
-animePopularity	
-animeDescription	b'Norakuro keeps getting his allies and enemies mixed up while on training maneuvers. What he had thought to be a successfully eliminated enemy tank turns out to be the tank carrying the Regimental Commander.\n\n(Source: AniDB)'
-animeRelated	[b'Norakuro', b'Norakuro Nitouhei: Kyouren no Maki', b'Norakuro Nitouhei']
-animeCharacters	[b'Norakuro']
+animePopularity	11652
+animeDescription	"Norakuro keeps getting his allies and enemies mixed up while on training maneuvers. What he had thought to be a successfully eliminated enemy tank turns out to be the tank carrying the Regimental Commander.
+
+(Source: AniDB)"
+animeRelated	['Norakuro', 'Norakuro Nitouhei: Kyouren no Maki', 'Norakuro Nitouhei']
+animeCharacters	['Norakuro']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurata, Yasuji\n\nDirector\n\n', b'\nChuuzou, Aochi\n\nScreenplay\n\n', b'\nTagawa, Suihou\n\nOriginal Creator\n\n']
+animeStaff	[['Murata, Yasuji', 'Director'], ['Chuuzou, Aochi', 'Screenplay'], ['Tagawa, Suihou', 'Original Creator']]

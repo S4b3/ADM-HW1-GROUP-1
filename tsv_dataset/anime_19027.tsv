@@ -1,5 +1,5 @@
-animeTitle	b'Detective File 1: Kindan no Ai'
-animeType	b'OVA'
+animeTitle	Detective File 1: Kindan no Ai
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.0
 animeUsers	539
 animeRank	
-animePopularity	
-animeDescription	"b""Private detective Takayasu Higishino rescues Ayane from two men who cornered her in an alley. Ayane is startled by Takayasu's appearance, he looks just like her presumedly dead brother Shingo. Shingo's car accident occured under strange circumstances, and Ayane has hired Takayasu to help her find out what really happened. Takayasu suspects Ayane's family maybe involved, so he heads back with Ayane to her family mansion, posing as Shingo, hoping to uncover the truth.\n\n(Source: ANN) """
+animePopularity	9758
+animeDescription	"Private detective Takayasu Higishino rescues Ayane from two men who cornered her in an alley. Ayane is startled by Takayasu's appearance, he looks just like her presumedly dead brother Shingo. Shingo's car accident occured under strange circumstances, and Ayane has hired Takayasu to help her find out what really happened. Takayasu suspects Ayane's family maybe involved, so he heads back with Ayane to her family mansion, posing as Shingo, hoping to uncover the truth.
+
+(Source: ANN) "
 animeRelated	[]
-animeCharacters	[b'Akimoto, Ayane', b'Higashino, Takayasu', b'Shingo', b'Taizo', b'Kiyoe', b'Gosuke']
-animeVoices	[b'\nNagumo, Kyoko\nJapanese\n', b'\nMiyazaki, Kohei\nJapanese\n', b'\nYamino, Mao\nJapanese\n', b'\nNishioka, Satoshi\nJapanese\n', b'\nToma, Sakurako\nJapanese\n', b'\nNakajima, Shizuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Hideo\n\nSound Director\n\n']
+animeCharacters	['Akimoto, Ayane', 'Higashino, Takayasu', 'Shingo', 'Taizo', 'Kiyoe', 'Gosuke']
+animeVoices	['Nagumo, Kyoko', 'Miyazaki, Kohei', 'Yamino, Mao', 'Nishioka, Satoshi', 'Toma, Sakurako', 'Nakajima, Shizuo']
+animeStaff	[['Takahashi, Hideo', 'Sound Director']]

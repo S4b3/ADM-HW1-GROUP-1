@@ -1,5 +1,5 @@
-animeTitle	b'Uchuu Senkan Yamato: Aratanaru Tabidachi'
-animeType	b'Special'
+animeTitle	Uchuu Senkan Yamato: Aratanaru Tabidachi
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.67
 animeUsers	1047
 animeRank	
-animePopularity	
-animeDescription	"b""It is the year 2201. The Yamato has returned from the devastating battle with Emperor Zordar and the Comet Empire. Sanada, Aihara, and Shima are released from the hospital, and go to pay their respects to the fallen crew members at Okita's memorial. They meet Tokugawa's son Tasuke, who says that he will be joining the crew once he graduates from cadet school. The next day at his graduation, he ends up capsizing a boat full of new cadets because they are all too busy staring at the Yamato to watch where they are going.\n\nAfter some problems during launch due to the new engine crew hitting the wrong switches and stalling the ship, the Yamato departs on what should be a simple training mission.\n\n(Source: AniDB)"""
-animeRelated	[b'Uchuu Senkan Yamato: Aratanaru Tabidachi', b'Uchuu Senkan Yamato 2', b'Yamato yo Towa ni', b'Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou: Take Off', b'']
-animeCharacters	[b'Kodai, Susumu', b'Desler, Aberdt', b'Mori, Yuki', b'Sanada, Shirou', b'Shima, Daisuke', b'Analyzer', b'Sado, Sakezou', b'Kodai, Mamoru', b'Starsha', b'Kodai, Sasha']
-animeVoices	[b'\nTomiyama, Kei\nJapanese\n', b'\nIbu, Masatou\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nNakamura, Shuusei\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nHirokawa, Taichirou\nJapanese\n', b'\nUeda, Miyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsumoto, Leiji\n\nOriginal Creator\n\n', b'\nKanada, Yoshinori\n\nKey Animation\n\n', b'\nKogawa, Tomonori\n\nKey Animation\n\n', b'\nMiyagawa, Hiroshi\n\nMusic\n\n']
+animePopularity	8189
+animeDescription	"It is the year 2201. The Yamato has returned from the devastating battle with Emperor Zordar and the Comet Empire. Sanada, Aihara, and Shima are released from the hospital, and go to pay their respects to the fallen crew members at Okita's memorial. They meet Tokugawa's son Tasuke, who says that he will be joining the crew once he graduates from cadet school. The next day at his graduation, he ends up capsizing a boat full of new cadets because they are all too busy staring at the Yamato to watch where they are going.
+
+After some problems during launch due to the new engine crew hitting the wrong switches and stalling the ship, the Yamato departs on what should be a simple training mission.
+
+(Source: AniDB)"
+animeRelated	['Uchuu Senkan Yamato: Aratanaru Tabidachi', 'Uchuu Senkan Yamato 2', 'Yamato yo Towa ni', 'Uchuu Senkan Yamato 2205: Aratanaru Tabidachi - Zenshou: Take Off', '']
+animeCharacters	['Kodai, Susumu', 'Desler, Aberdt', 'Mori, Yuki', 'Sanada, Shirou', 'Shima, Daisuke', 'Analyzer', 'Sado, Sakezou', 'Kodai, Mamoru', 'Starsha', 'Kodai, Sasha']
+animeVoices	['Tomiyama, Kei', 'Ibu, Masatou', 'Ichiryuusai, Harumi', 'Aono, Takeshi', 'Nakamura, Shuusei', 'Ogata, Kenichi', 'Nagai, Ichiro', 'Hirokawa, Taichirou', 'Ueda, Miyuki']
+animeStaff	[['Matsumoto, Leiji', 'Original Creator'], ['Kanada, Yoshinori', 'Key Animation'], ['Kogawa, Tomonori', 'Key Animation'], ['Miyagawa, Hiroshi', 'Music']]

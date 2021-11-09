@@ -1,5 +1,5 @@
-animeTitle	b'Captain Tsubasa J'
-animeType	b'TV'
+animeTitle	Captain Tsubasa J
+animeType	TV
 animeNumEpisode	47
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.27
 animeUsers	15075
 animeRank	
-animePopularity	
-animeDescription	b'The first 33 episodes are a summary of the previous series. In the first new episodes a new character, Shingo Aoi, (playing in Italy) is introduced. After that the world cup begins, this time with extraordinary, new countries like Sweden, Thailand or Uzbekistan. Unfortunately the Anime ends in the middle of the world cup after the match Japan-Uzbekistan.\n\n(Source: ANN)'
-animeRelated	[b'Captain Tsubasa: World Youth-hen', b'Captain Tsubasa: Road to 2002', b'Shin Captain Tsubasa', b'Captain Tsubasa: Saikyou no Teki! Holland Youth']
-animeCharacters	[b'Oozora, Tsubasa', b'Wakabayashi, Genzou', b'Hyuuga, Kojirou', b'Misugi, Jun', b'Matsuyama, Hikaru', b'Ishizaki, Ryou', b'Nakazawa, Sanae', b'Misaki, Tarou', b'Wakashimazu, Ken', b'Aoi, Shingo']
-animeVoices	[b'\nSasaki, Nozomu\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nKashiwakura, Tsutomu\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nTakimoto, Fujiko\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiodori, Hiroshi\n\nEpisode Director, Storyboard\n\n', b'\nKuzuya, Naoyuki\n\nEpisode Director, Storyboard\n\n', b'\nOhata, Kiyotaka\n\nEpisode Director\n\n', b'\nIshizaki, Susumu\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3548
+animeDescription	"The first 33 episodes are a summary of the previous series. In the first new episodes a new character, Shingo Aoi, (playing in Italy) is introduced. After that the world cup begins, this time with extraordinary, new countries like Sweden, Thailand or Uzbekistan. Unfortunately the Anime ends in the middle of the world cup after the match Japan-Uzbekistan.
+
+(Source: ANN)"
+animeRelated	['Captain Tsubasa: World Youth-hen', 'Captain Tsubasa: Road to 2002', 'Shin Captain Tsubasa', 'Captain Tsubasa: Saikyou no Teki! Holland Youth']
+animeCharacters	['Oozora, Tsubasa', 'Wakabayashi, Genzou', 'Hyuuga, Kojirou', 'Misugi, Jun', 'Matsuyama, Hikaru', 'Ishizaki, Ryou', 'Nakazawa, Sanae', 'Misaki, Tarou', 'Wakashimazu, Ken', 'Aoi, Shingo']
+animeVoices	['Sasaki, Nozomu', 'Miki, Shinichiro', 'Hiyama, Nobuyuki', 'Ogata, Megumi', 'Kashiwakura, Tsutomu', 'Yamaguchi, Kappei', 'Takimoto, Fujiko', 'Ishida, Akira', 'Seki, Tomokazu', 'Kikuchi, Masami']
+animeStaff	[['Ishiodori, Hiroshi', 'Episode Director, Storyboard'], ['Kuzuya, Naoyuki', 'Episode Director, Storyboard'], ['Ohata, Kiyotaka', 'Episode Director'], ['Ishizaki, Susumu', 'Episode Director, Storyboard']]

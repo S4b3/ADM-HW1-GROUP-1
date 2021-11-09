@@ -1,5 +1,5 @@
-animeTitle	b'Ai Yori Aoshi: Enishi'
-animeType	b'TV'
+animeTitle	Ai Yori Aoshi: Enishi
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.14
 animeUsers	29884
 animeRank	
-animePopularity	
-animeDescription	"b""Two years after meeting Aoi, Kaoru and gang are still up to their normal habits. Kaoru now in grad school and the tenants being as rowdy as ever what will become of Aoi and Kaoru's love.\n\nTwo years has passed since Aoi and Kaoru were freed from the bonds of their families. They continue to live their normal lives with their usual friends in their house."""
-animeRelated	[b'Ai Yori Aoshi', b'Ai Yori Aoshi: Enishi - Miyuki']
-animeCharacters	[b'Sakuraba, Aoi', b'Hanabishi, Kaoru', b'Foster, Tina', b'Kagurazaki, Miyabi', b'Minazuki, Taeko', b'Minazuki, Chika', b'Miyuki, Mayu', b'Komiya, Natsuki', b'Aizawa, Chizuru']
-animeVoices	[b'\nKawasumi, Ayako\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nMomoi, Haruko\nJapanese\n', b'\nNarita, Sayaka\nJapanese\n', b'\nKoyama, Kimiko\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimoda, Masami\n\nDirector\n\n', b'\nTakashima, Daisuke\n\nEpisode Director\n\n', b'\nHata, Yoshito\n\nEpisode Director\n\n', b'\nNakayama, Katsuichi\n\nEpisode Director\n\n']
+animePopularity	2400
+animeDescription	"Two years after meeting Aoi, Kaoru and gang are still up to their normal habits. Kaoru now in grad school and the tenants being as rowdy as ever what will become of Aoi and Kaoru's love.
+
+Two years has passed since Aoi and Kaoru were freed from the bonds of their families. They continue to live their normal lives with their usual friends in their house."
+animeRelated	['Ai Yori Aoshi', 'Ai Yori Aoshi: Enishi - Miyuki']
+animeCharacters	['Sakuraba, Aoi', 'Hanabishi, Kaoru', 'Foster, Tina', 'Kagurazaki, Miyabi', 'Minazuki, Taeko', 'Minazuki, Chika', 'Miyuki, Mayu', 'Komiya, Natsuki', 'Aizawa, Chizuru']
+animeVoices	['Kawasumi, Ayako', 'Hoshi, Souichirou', 'Yukino, Satsuki', 'Hiramatsu, Akiko', 'Mizuhashi, Kaori', 'Momoi, Haruko', 'Narita, Sayaka', 'Koyama, Kimiko', 'Noto, Mamiko']
+animeStaff	[['Shimoda, Masami', 'Director'], ['Takashima, Daisuke', 'Episode Director'], ['Hata, Yoshito', 'Episode Director'], ['Nakayama, Katsuichi', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Inazuma Eleven: Orion no Kokuin'
-animeType	b'TV'
+animeTitle	Inazuma Eleven: Orion no Kokuin
+animeType	TV
 animeNumEpisode	49
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.82
 animeUsers	9310
 animeRank	
-animePopularity	
-animeDescription	"b'The moment of reckoning has arrived as the illustrious Football Frontier International is finally underway. After winning the national Football Frontier, the newly assembled Raimon Junior High School soccer team awaits the announcement of Inazuma Japan\xe2\x80\x94the team of players who will represent Japan at the international tournament. Asuto Inamori, along with the ""Demon of the Field"" Ryouhei Haizaki and the ""Emperor of the Pitch"" Yuuma Nosaka, quickly realize that they are up against forces far greater and more powerful than they anticipated.\n\nIn Inazuma Eleven: Orion no Kokuin, mysterious powers are at play within the tournament that threatens to alter the course of history and the game of soccer itself. With the help of their cunning coach Zhao Jinyun and the inexplicable newcomer Ichihoshi Mitsuru, Inazuma Japan must defend the world of soccer in their most difficult challenge yet.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Inazuma Eleven: Ares no Tenbin']
-animeCharacters	[b'Nosaka, Yuuma', b'Haizaki, Ryouhei', b'Ichihoshi, Hikaru', b'Inamori, Asuto', b'Ichihoshi, Mitsuru', b'Fubuki, Shirou', b'Endou, Mamoru', b'Gouenji, Shuuya', b'Kidou, Yuuto', b'Kiyama, Hiroto']
-animeVoices	[b'\nFukuyama, Jun\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nOomachi, Tomohiro\nJapanese\n', b'\nMurase, Ayumu\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nTakeuchi, Junko\nJapanese\n', b'\nNojima, Hirofumi\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHino, Akihiro\n\nDirector, Series Composition, Original Creator\n\n', b'\nKamakura, Yumi\n\nDirector\n\n', b'\nMiyoshi, Keiichirou\n\nSound Director\n\n', b'\nHaraguchi, Noboru\n\nSound Director\n\n']
+animePopularity	3985
+animeDescription	"The moment of reckoning has arrived as the illustrious Football Frontier International is finally underway. After winning the national Football Frontier, the newly assembled Raimon Junior High School soccer team awaits the announcement of Inazuma Japan—the team of players who will represent Japan at the international tournament. Asuto Inamori, along with the ""Demon of the Field"" Ryouhei Haizaki and the ""Emperor of the Pitch"" Yuuma Nosaka, quickly realize that they are up against forces far greater and more powerful than they anticipated.
+
+In Inazuma Eleven: Orion no Kokuin, mysterious powers are at play within the tournament that threatens to alter the course of history and the game of soccer itself. With the help of their cunning coach Zhao Jinyun and the inexplicable newcomer Ichihoshi Mitsuru, Inazuma Japan must defend the world of soccer in their most difficult challenge yet.
+
+[Written by MAL Rewrite]"
+animeRelated	['Inazuma Eleven: Ares no Tenbin']
+animeCharacters	['Nosaka, Yuuma', 'Haizaki, Ryouhei', 'Ichihoshi, Hikaru', 'Inamori, Asuto', 'Ichihoshi, Mitsuru', 'Fubuki, Shirou', 'Endou, Mamoru', 'Gouenji, Shuuya', 'Kidou, Yuuto', 'Kiyama, Hiroto']
+animeVoices	['Fukuyama, Jun', 'Kamiya, Hiroshi', 'Oomachi, Tomohiro', 'Murase, Ayumu', 'Miyano, Mamoru', 'Takeuchi, Junko', 'Nojima, Hirofumi', 'Yoshino, Hiroyuki', 'Mizushima, Takahiro']
+animeStaff	[['Hino, Akihiro', 'Director, Series Composition, Original Creator'], ['Kamakura, Yumi', 'Director'], ['Miyoshi, Keiichirou', 'Sound Director'], ['Haraguchi, Noboru', 'Sound Director']]

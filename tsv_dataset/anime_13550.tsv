@@ -1,5 +1,5 @@
-animeTitle	b'Spy Gekimetsu'
-animeType	b'Movie'
+animeTitle	Spy Gekimetsu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A war propaganda film which begins with Roosevelt and Churchill in a secret meeting preparing their spy plans. Western spies in fancy suits and top hats parachute into Japan, disturbing innocent farmers. The Japanese civilians manage to thwart the spy activities.\n\n(Source: AniDB)'
+animePopularity	13521
+animeDescription	"A war propaganda film which begins with Roosevelt and Churchill in a secret meeting preparing their spy plans. Western spies in fancy suits and top hats parachute into Japan, disturbing innocent farmers. The Japanese civilians manage to thwart the spy activities.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Churchill, Winston', b'Roosevelt, Franklin Delano']
+animeCharacters	['Churchill, Winston', 'Roosevelt, Franklin Delano']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Zenjirou\n\nEpisode Director, Key Animation, Director of Photography\n\n']
+animeStaff	[['Yamamoto, Zenjirou', 'Episode Director, Key Animation, Director of Photography']]

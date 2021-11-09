@@ -1,5 +1,5 @@
-animeTitle	b'Lemon Angel Project'
-animeType	b'TV'
+animeTitle	Lemon Angel Project
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.57
 animeUsers	2515
 animeRank	
-animePopularity	
-animeDescription	b'Lemon Angel was once the greatest girl band of Japan, but then it broke up and most of its members vanished. When a music producer decides to put together a new Lemon Angel, average high schooler Tomo Minaguchi is approached to audition for the group. Little does she know of the mystery behind the original Lemon Angel...\n\n(Source: ANN)\n'
+animePopularity	5880
+animeDescription	"Lemon Angel was once the greatest girl band of Japan, but then it broke up and most of its members vanished. When a music producer decides to put together a new Lemon Angel, average high schooler Tomo Minaguchi is approached to audition for the group. Little does she know of the mystery behind the original Lemon Angel...
+
+(Source: ANN)
+"
 animeRelated	[]
-animeCharacters	[b'Campbell, Erika', b'Minaguchi, Tomo', b'Nagisa, Miru', b'Suwa, Miki', b'Yuuki, Saya', b'Sakakibara, Fuyumi', b'Katagiri, Hitoshi', b'Yamaguchi, Danny', b'Moroi, Takeshi', b'Kousaka, Katsuya']
-animeVoices	[b'\nChihara, Minori\nJapanese\n', b'\nShihono, Ryou\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nMaruyama, Miki\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nHirama, Juri\nJapanese\n', b'\nKawada, Shinji\nJapanese\n', b'\nYamaguchi, Ken\nJapanese\n', b'\nTsuruoka, Satoshi\nJapanese\n', b'\nOohata, Shintarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKikuchi, Kouichi\n\nSound Director\n\n', b'\nOzeki, Masayuki\n\nEpisode Director\n\n', b'\nOoseki, Masayuki\n\nEpisode Director\n\n', b'\nHayashi, Naotaka\n\nScript\n\n']
+animeCharacters	['Campbell, Erika', 'Minaguchi, Tomo', 'Nagisa, Miru', 'Suwa, Miki', 'Yuuki, Saya', 'Sakakibara, Fuyumi', 'Katagiri, Hitoshi', 'Yamaguchi, Danny', 'Moroi, Takeshi', 'Kousaka, Katsuya']
+animeVoices	['Chihara, Minori', 'Shihono, Ryou', 'Kadowaki, Mai', 'Maruyama, Miki', 'Koshimizu, Ami', 'Hirama, Juri', 'Kawada, Shinji', 'Yamaguchi, Ken', 'Tsuruoka, Satoshi', 'Oohata, Shintarou']
+animeStaff	[['Kikuchi, Kouichi', 'Sound Director'], ['Ozeki, Masayuki', 'Episode Director'], ['Ooseki, Masayuki', 'Episode Director'], ['Hayashi, Naotaka', 'Script']]

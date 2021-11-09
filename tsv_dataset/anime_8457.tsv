@@ -1,5 +1,5 @@
-animeTitle	b'Little Polar Bear: Shirokuma-kun, Fune ni Noru'
-animeType	b'OVA'
+animeTitle	Little Polar Bear: Shirokuma-kun, Fune ni Noru
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.05
 animeUsers	127
 animeRank	
-animePopularity	
-animeDescription	b'A continuation of adventures of the Little Polar Bear.'
-animeRelated	[b'Little Polar Bear: Shirokuma-kun, Doko e?']
-animeCharacters	[b'Lars']
+animePopularity	13002
+animeDescription	A continuation of adventures of the Little Polar Bear.
+animeRelated	['Little Polar Bear: Shirokuma-kun, Doko e?']
+animeCharacters	['Lars']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nArakawa, Masatsugu\n\nDirector\n\n', b'\nPsy S\n\nTheme Song Performance\n\n', b'\nYuasa, Masaaki\n\nAnimation Director, Character Design\n\n', b'\nIshikawa, Mitsuhisa\n\nProduction Coordination\n\n']
+animeStaff	[['Arakawa, Masatsugu', 'Director'], ['Psy S', 'Theme Song Performance'], ['Yuasa, Masaaki', 'Animation Director, Character Design'], ['Ishikawa, Mitsuhisa', 'Production Coordination']]

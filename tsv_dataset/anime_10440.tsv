@@ -1,5 +1,5 @@
-animeTitle	b'Monster High: Kowa-ike Girls'
-animeType	b'ONA'
+animeTitle	Monster High: Kowa-ike Girls
+animeType	ONA
 animeNumEpisode	8
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.48
 animeUsers	453
 animeRank	
-animePopularity	
-animeDescription	"b""An anime adaptation of the popular Mattel fashion doll line 'Monster High'."""
+animePopularity	10774
+animeDescription	An anime adaptation of the popular Mattel fashion doll line 'Monster High'.
 animeRelated	[]
-animeCharacters	[b'Draculaura', b'Vondergeist, Spectra', b'de Nile, Cleo', b'Wolf, Clawdeen', b'Stein, Frankie', b'Blue, Lagoona', b'Bominable, Abbey', b'Yelps, Ghoulia']
-animeVoices	[b'\nHamasaki, Nana\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nSaitou, Aya\nJapanese\n', b'\nYonezawa, Madoka\nJapanese\n', b'\nDate, Arisa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Shinichi\n\nDirector\n\n', b'\nMieno, Hitomi\n\nScript\n\n', b'\nYuki, Shinzou\n\nArt Director\n\n', b'\nKitakata, Masami\n\nSound Effects\n\n']
+animeCharacters	['Draculaura', 'Vondergeist, Spectra', 'de Nile, Cleo', 'Wolf, Clawdeen', 'Stein, Frankie', 'Blue, Lagoona', 'Bominable, Abbey', 'Yelps, Ghoulia']
+animeVoices	['Hamasaki, Nana', 'Minagawa, Junko', 'Saitou, Aya', 'Yonezawa, Madoka', 'Date, Arisa']
+animeStaff	[['Watanabe, Shinichi', 'Director'], ['Mieno, Hitomi', 'Script'], ['Yuki, Shinzou', 'Art Director'], ['Kitakata, Masami', 'Sound Effects']]

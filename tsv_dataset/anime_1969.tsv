@@ -1,5 +1,5 @@
-animeTitle	b'Hokuto no Ken: Toki-den'
-animeType	b'OVA'
+animeTitle	Hokuto no Ken: Toki-den
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.4
 animeUsers	3178
 animeRank	
-animePopularity	
-animeDescription	b'The fourth part of the new Hokuto no Ken pentalogy (3 movies, 2 OVAs). '
-animeRelated	[b'Hokuto no Ken', b'Hokuto no Ken: Raoh Gaiden Gekitou-hen', b'Hokuto no Ken Zero: Kenshirou Den']
-animeCharacters	[b'Raou', b'Toki', b'Kenshirou', b'Bat', b'Yuria', b'Lin', b'Ryuuken', b'Souga', b'Sara']
-animeVoices	[b'\nKawamoto, Kunihiro\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nAbe, Hiroshi\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nIshida, Yuriko\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nOtsuka, Chikao\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nHirano, Aya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoyama, Satoru\n\nSound Director\n\n', b'\nKimura, Ryuuichi\n\nEpisode Director\n\n', b'\nOomori, Hidetoshi\n\nEpisode Director, Storyboard\n\n', b'\nYamamoto, Hideyo\n\nStoryboard\n\n']
+animePopularity	6014
+animeDescription	The fourth part of the new Hokuto no Ken pentalogy (3 movies, 2 OVAs). 
+animeRelated	['Hokuto no Ken', 'Hokuto no Ken: Raoh Gaiden Gekitou-hen', 'Hokuto no Ken Zero: Kenshirou Den']
+animeCharacters	['Raou', 'Toki', 'Kenshirou', 'Bat', 'Yuria', 'Lin', 'Ryuuken', 'Souga', 'Sara']
+animeVoices	['Kawamoto, Kunihiro', 'Horiuchi, Kenyuu', 'Abe, Hiroshi', 'Namikawa, Daisuke', 'Ishida, Yuriko', 'Sakamoto, Maaya', 'Otsuka, Chikao', 'Ishizuka, Unshou', 'Hirano, Aya']
+animeStaff	[['Koyama, Satoru', 'Sound Director'], ['Kimura, Ryuuichi', 'Episode Director'], ['Oomori, Hidetoshi', 'Episode Director, Storyboard'], ['Yamamoto, Hideyo', 'Storyboard']]

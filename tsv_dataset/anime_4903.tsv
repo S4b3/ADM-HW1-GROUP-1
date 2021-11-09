@@ -1,5 +1,5 @@
-animeTitle	b'Machine-Doll wa Kizutsukanai Specials'
-animeType	b'Special'
+animeTitle	Machine-Doll wa Kizutsukanai Specials
+animeType	Special
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	6.74
 animeUsers	14483
 animeRank	
-animePopularity	
-animeDescription	"b'Original animation to be included in the BD and DVD volume releases of Machine-Doll wa Kizutsukanai.\n\nVolume 1: ""Soshite Futari wa Manabisha e (And So They Arrive at School)""\nVolume 2: ""Irori, Rotenburo de Sosou suru (Irori Has an Accident at the Open-Air Bath)""\nVolume 3: ""Char and Frey, Senritsu no Bathroom (Charl, Frey, and the Bathroom of Terror)""\nVolume 4: ""Akabane Nadeshiko, Natsu no Yo no Yume (Nadeshiko Akabane, Midsummer Night\'s Dream)""\nVolume 5: ""Kojin Jugyou: Imishitsu de Bijo Futari to~ (Private Lesson - Two Beauties in an Infirmary)""\nVolume 6: ""Bishoujo Shuugou! Mizugi Darake no Daisoudou (Pretty Girls Gather! Swimsuit-Stubbed Pandemonium)""'"
-animeRelated	[b'Machine-Doll wa Kizutsukanai']
-animeCharacters	[b'Yaya', b'Akabane, Raishin', b'Frey', b'Belew, Charlotte', b'Irori', b'Karyuusai, Shouko', b'Sigmund', b'Komurasaki', b'Kimberly', b'Akabane, Nadeshiko']
-animeVoices	[b'\nHarada, Hitomi\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nTakamoto, Megumi\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nYukana\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nOgura, Yui\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKayano, Ai\n\nTheme Song Performance\n\n', b'\nOgura, Yui\n\nTheme Song Performance\n\n', b'\nHarada, Hitomi\n\nTheme Song Performance\n\n', b'\nFukunaga, Gen\n\nExecutive Producer\n\n']
+animePopularity	3126
+animeDescription	"Original animation to be included in the BD and DVD volume releases of Machine-Doll wa Kizutsukanai.
+
+Volume 1: ""Soshite Futari wa Manabisha e (And So They Arrive at School)""
+Volume 2: ""Irori, Rotenburo de Sosou suru (Irori Has an Accident at the Open-Air Bath)""
+Volume 3: ""Char and Frey, Senritsu no Bathroom (Charl, Frey, and the Bathroom of Terror)""
+Volume 4: ""Akabane Nadeshiko, Natsu no Yo no Yume (Nadeshiko Akabane, Midsummer Night's Dream)""
+Volume 5: ""Kojin Jugyou: Imishitsu de Bijo Futari to~ (Private Lesson - Two Beauties in an Infirmary)""
+Volume 6: ""Bishoujo Shuugou! Mizugi Darake no Daisoudou (Pretty Girls Gather! Swimsuit-Stubbed Pandemonium)"""
+animeRelated	['Machine-Doll wa Kizutsukanai']
+animeCharacters	['Yaya', 'Akabane, Raishin', 'Frey', 'Belew, Charlotte', 'Irori', 'Karyuusai, Shouko', 'Sigmund', 'Komurasaki', 'Kimberly', 'Akabane, Nadeshiko']
+animeVoices	['Harada, Hitomi', 'Shimono, Hiro', 'Asumi, Kana', 'Takamoto, Megumi', 'Kayano, Ai', 'Yukana', 'Nakata, Jouji', 'Ogura, Yui', 'Itou, Shizuka', 'Hanazawa, Kana']
+animeStaff	[['Kayano, Ai', 'Theme Song Performance'], ['Ogura, Yui', 'Theme Song Performance'], ['Harada, Hitomi', 'Theme Song Performance'], ['Fukunaga, Gen', 'Executive Producer']]

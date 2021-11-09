@@ -1,5 +1,5 @@
-animeTitle	b'Morita-san wa Mukuchi'
-animeType	b'OVA'
+animeTitle	Morita-san wa Mukuchi
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.58
 animeUsers	4142
 animeRank	
-animePopularity	
-animeDescription	"b""OVA bundled with the special edition of manga volume 3.\n\nMorita Mayu is a high school girl. She is extremely reticent and her silence and habit of looking at people's eyes straightly sometimes cause misunderstanding. The reason behind it is not because she doesn\xe2\x80\x99t like to talk nor because she has nothing to say. The reason she rarely speaks is due to the fact she thinks too much before speaking, thus losing the timing to speak altogether. Despite this, she lives a happy school life with her classmates. """
-animeRelated	[b'Morita-san wa Mukuchi', b'Morita-san wa Mukuchi.', b'Morita-san wa Mukuchi. 2']
-animeCharacters	[b'Morita, Mayu', b'Matsuzaka, Hana', b'Murakoshi, Miki', b'Miura, Chihiro', b'Girl with Glasses', b'Kokubo, Ryuuta', b'Oono, Kouichi', b'Morita, Father', b'Yamamoto, Ritsuki', b'Morita, Yumi']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nNanjou, Yoshino\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nTsuchiya, Maki\nJapanese\n', b'\nKubota, Ryuuichi\nJapanese\n', b'\nOoshita, Kouta\nJapanese\n', b'\nKii, Masatoshi\nJapanese\n', b'\nHiraga, Mie\nJapanese\n', b'\nNanase, Ami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHayashi, Naotaka\n\nDirector\n\n', b'\nNozaki, Keiichi\n\nSound Director\n\n', b'\nSatou, Yuu\n\nScript\n\n', b'\nHanazawa, Kana\n\nTheme Song Performance\n\n']
+animePopularity	5575
+animeDescription	"OVA bundled with the special edition of manga volume 3.
+
+Morita Mayu is a high school girl. She is extremely reticent and her silence and habit of looking at people's eyes straightly sometimes cause misunderstanding. The reason behind it is not because she doesn’t like to talk nor because she has nothing to say. The reason she rarely speaks is due to the fact she thinks too much before speaking, thus losing the timing to speak altogether. Despite this, she lives a happy school life with her classmates. "
+animeRelated	['Morita-san wa Mukuchi', 'Morita-san wa Mukuchi.', 'Morita-san wa Mukuchi. 2']
+animeCharacters	['Morita, Mayu', 'Matsuzaka, Hana', 'Murakoshi, Miki', 'Miura, Chihiro', 'Girl with Glasses', 'Kokubo, Ryuuta', 'Oono, Kouichi', 'Morita, Father', 'Yamamoto, Ritsuki', 'Morita, Yumi']
+animeVoices	['Hanazawa, Kana', 'Nanjou, Yoshino', 'Tomatsu, Haruka', 'Hayami, Saori', 'Tsuchiya, Maki', 'Kubota, Ryuuichi', 'Ooshita, Kouta', 'Kii, Masatoshi', 'Hiraga, Mie', 'Nanase, Ami']
+animeStaff	[['Hayashi, Naotaka', 'Director'], ['Nozaki, Keiichi', 'Sound Director'], ['Satou, Yuu', 'Script'], ['Hanazawa, Kana', 'Theme Song Performance']]

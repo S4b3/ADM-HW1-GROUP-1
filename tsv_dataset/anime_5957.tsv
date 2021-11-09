@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon Diamond & Pearl Atsumare! Pokemon Planet Center'
-animeType	b'Movie'
+animeTitle	Pokemon Diamond & Pearl Atsumare! Pokemon Planet Center
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.53
 animeUsers	370
 animeRank	
-animePopularity	
-animeDescription	"b""Hey everyone! I'm Satoshi! Have you ever looked up at the night sky and gazed at the stars floating up there? Just like with Pokemon, the star-studded sky has lots and lots of mysteries!  The Pokemon Planet Center is a place where you can solve some of the mysteries of space together with Pikachu! So let's all get together at the Pokemon Planet Center!\n\n(Source: Dogasu's Backpack)"""
-animeRelated	[b'Pokemon Diamond & Pearl']
+animePopularity	10718
+animeDescription	"Hey everyone! I'm Satoshi! Have you ever looked up at the night sky and gazed at the stars floating up there? Just like with Pokemon, the star-studded sky has lots and lots of mysteries!  The Pokemon Planet Center is a place where you can solve some of the mysteries of space together with Pikachu! So let's all get together at the Pokemon Planet Center!
+
+(Source: Dogasu's Backpack)"
+animeRelated	['Pokemon Diamond & Pearl']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

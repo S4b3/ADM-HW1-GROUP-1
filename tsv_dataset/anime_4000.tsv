@@ -1,5 +1,5 @@
-animeTitle	b'Macademi Wasshoi!'
-animeType	b'TV'
+animeTitle	Macademi Wasshoi!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.95
 animeUsers	16771
 animeRank	
-animePopularity	
-animeDescription	"b'Magician\'s Academy revolves around Takuto Hasegawa, who attends a magic academy that is not marked on any map. During a summoning spell exam, he accidentally creates a girl named Tanarotte, who happens to hold enough magical power to destroy his country, but fortunately Tanarotte professes undying loyalty (and love) to her ""creator."" \n\n(Source: ANN)'"
-animeRelated	"[b""Magician's Academy""]"
-animeCharacters	[b'Falce', b'Unthirteen, Tanarotte', b'Hasegawa, Suzuho', b'Hasegawa, Takuto', b'Sakuma, Eitarou', b'Hapsiel', b'Eneus', b'Stein, Frankram', b'Agaliarept', b'Finea']
-animeVoices	[b'\nFukui, Yukari\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nMiyazaki, Ui\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nShitaya, Noriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKanasaki, Takaomi\n\nDirector, Storyboard\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nYamamoto, Takashi\n\nEpisode Director, Storyboard\n\n', b'\nAoshima, Takashi\n\nScript\n\n']
+animePopularity	2786
+animeDescription	"Magician's Academy revolves around Takuto Hasegawa, who attends a magic academy that is not marked on any map. During a summoning spell exam, he accidentally creates a girl named Tanarotte, who happens to hold enough magical power to destroy his country, but fortunately Tanarotte professes undying loyalty (and love) to her ""creator."" 
+
+(Source: ANN)"
+animeRelated	"[""Magician's Academy""]"
+animeCharacters	['Falce', 'Unthirteen, Tanarotte', 'Hasegawa, Suzuho', 'Hasegawa, Takuto', 'Sakuma, Eitarou', 'Hapsiel', 'Eneus', 'Stein, Frankram', 'Agaliarept', 'Finea']
+animeVoices	['Fukui, Yukari', 'Ise, Mariya', 'Miyazaki, Ui', 'Koshimizu, Ami', 'Terashima, Takuma', 'Tobita, Nobuo', 'Kawasumi, Ayako', 'Hiyama, Nobuyuki', 'Suwabe, Junichi', 'Shitaya, Noriko']
+animeStaff	[['Kanasaki, Takaomi', 'Director, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Yamamoto, Takashi', 'Episode Director, Storyboard'], ['Aoshima, Takashi', 'Script']]

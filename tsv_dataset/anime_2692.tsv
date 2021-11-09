@@ -1,5 +1,5 @@
-animeTitle	b'Hetalia: The World Twinkle Specials'
-animeType	b'Special'
+animeTitle	Hetalia: The World Twinkle Specials
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.24
 animeUsers	2410
 animeRank	
-animePopularity	
-animeDescription	b'Extra episodes included in the DVD volumes of Hetalia: The World Twinkle.'
-animeRelated	[b'Hetalia: The World Twinkle']
-animeCharacters	[b'North Italy', b'Germany', b'Japan', b'Sweden', b'Finland', b'Netherlands', b'Prussia', b'America', b'Poland', b'Hungary']
+animePopularity	6161
+animeDescription	Extra episodes included in the DVD volumes of Hetalia: The World Twinkle.
+animeRelated	['Hetalia: The World Twinkle']
+animeCharacters	['North Italy', 'Germany', 'Japan', 'Sweden', 'Finland', 'Netherlands', 'Prussia', 'America', 'Poland', 'Hungary']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nNamikawa, Daisuke\n\nTheme Song Performance\n\n', b'\nFukunaga, Gen\n\nExecutive Producer\n\n', b'\nConisch\n\nMusic\n\n']
+animeStaff	[['Namikawa, Daisuke', 'Theme Song Performance'], ['Fukunaga, Gen', 'Executive Producer'], ['Conisch', 'Music']]

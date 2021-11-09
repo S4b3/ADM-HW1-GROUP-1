@@ -1,5 +1,5 @@
-animeTitle	b'Another'
-animeType	b'TV'
+animeTitle	Another
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.51
 animeUsers	828632
 animeRank	
-animePopularity	
-animeDescription	"b""In 1972, a popular student in Yomiyama North Middle School's class 3-3 named Misaki passed away during the school year. Since then, the town of Yomiyama has been shrouded by a fearful atmosphere, from the dark secrets hidden deep within.\n\nTwenty-six years later, 15-year-old Kouichi Sakakibara transfers into class 3-3 of Yomiyama North and soon after discovers that a strange, gloomy mood seems to hang over all the students. He also finds himself drawn to the mysterious, eyepatch-wearing student Mei Misaki; however, the rest of the class and the teachers seem to treat her like she doesn't exist. Paying no heed to warnings from everyone including Mei herself, Kouichi begins to get closer not only to her, but also to the truth behind the gruesome phenomenon plaguing class 3-3 of Yomiyama North.\n\nAnother follows Kouichi, Mei, and their classmates as they are pulled into the enigma surrounding a series of inevitable, tragic events\xe2\x80\x94but unraveling the horror of Yomiyama may just cost them the ultimate price.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Another', b'Another: The Other - Inga', b'Another: Misaki Mei - Shizukani']
-animeCharacters	[b'Misaki, Mei', b'Sakakibara, Kouichi', b'Akazawa, Izumi', b'Teshigawara, Naoya', b'Mochizuki, Yuuya', b'Chibiki, Tatsuji', b'Fujioka, Misaki', b'Sakuragi, Yukari', b'Mikami, Reiko', b'Kazami, Tomohiko']
-animeVoices	[b'\nTakamori, Natsumi\nJapanese\n', b'\nAbe, Atsushi\nJapanese\n', b'\nYonezawa, Madoka\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nYamamoto, Kazutomi\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nNonaka, Ai\nJapanese\n', b'\nSakakibara, Naoko\nJapanese\n', b'\nIchiki, Mitsuhiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHorikawa, Kenji\n\nProducer, Planning\n\n', b'\nItou, Yoshiyuki\n\nProducer\n\n', b'\nMizushima, Tsutomu\n\nDirector, Storyboard\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n']
+animePopularity	50
+animeDescription	"In 1972, a popular student in Yomiyama North Middle School's class 3-3 named Misaki passed away during the school year. Since then, the town of Yomiyama has been shrouded by a fearful atmosphere, from the dark secrets hidden deep within.
+
+Twenty-six years later, 15-year-old Kouichi Sakakibara transfers into class 3-3 of Yomiyama North and soon after discovers that a strange, gloomy mood seems to hang over all the students. He also finds himself drawn to the mysterious, eyepatch-wearing student Mei Misaki; however, the rest of the class and the teachers seem to treat her like she doesn't exist. Paying no heed to warnings from everyone including Mei herself, Kouichi begins to get closer not only to her, but also to the truth behind the gruesome phenomenon plaguing class 3-3 of Yomiyama North.
+
+Another follows Kouichi, Mei, and their classmates as they are pulled into the enigma surrounding a series of inevitable, tragic events—but unraveling the horror of Yomiyama may just cost them the ultimate price.
+
+[Written by MAL Rewrite]"
+animeRelated	['Another', 'Another: The Other - Inga', 'Another: Misaki Mei - Shizukani']
+animeCharacters	['Misaki, Mei', 'Sakakibara, Kouichi', 'Akazawa, Izumi', 'Teshigawara, Naoya', 'Mochizuki, Yuuya', 'Chibiki, Tatsuji', 'Fujioka, Misaki', 'Sakuragi, Yukari', 'Mikami, Reiko', 'Kazami, Tomohiko']
+animeVoices	['Takamori, Natsumi', 'Abe, Atsushi', 'Yonezawa, Madoka', 'Maeno, Tomoaki', 'Yamamoto, Kazutomi', 'Hirata, Hiroaki', 'Nonaka, Ai', 'Sakakibara, Naoko', 'Ichiki, Mitsuhiro']
+animeStaff	[['Horikawa, Kenji', 'Producer, Planning'], ['Itou, Yoshiyuki', 'Producer'], ['Mizushima, Tsutomu', 'Director, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director']]

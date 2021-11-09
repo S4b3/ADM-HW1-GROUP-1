@@ -1,4 +1,4 @@
-animeTitle	b'Nihonbashi Koukashita R Keikaku'
+animeTitle	Nihonbashi Koukashita R Keikaku
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.6
 animeUsers	1989
 animeRank	
-animePopularity	
-animeDescription	"b""Music video for Jin's seventh published song, created for IA Project's compilation album IA/01 -BIRTH-."""
-animeRelated	[b'World Calling']
-animeCharacters	[b'IA']
+animePopularity	7963
+animeDescription	Music video for Jin's seventh published song, created for IA Project's compilation album IA/01 -BIRTH-.
+animeRelated	['World Calling']
+animeCharacters	['IA']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHosogane, Takuya\n\nDirector\n\n', b'\nJin\n\nTheme Song Lyrics, Theme Song Composition, Theme Song Arrangement\n\n', b'\nIA\n\nTheme Song Performance\n\n', b'\nAkasaka, Aka\n\nOriginal Character Design\n\n']
+animeStaff	[['Hosogane, Takuya', 'Director'], ['Jin', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['IA', 'Theme Song Performance'], ['Akasaka, Aka', 'Original Character Design']]

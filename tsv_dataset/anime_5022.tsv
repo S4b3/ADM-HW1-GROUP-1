@@ -1,5 +1,5 @@
-animeTitle	b'Tales of Symphonia The Animation: Kratos-sensei no Private Lesson'
-animeType	b'Special'
+animeTitle	Tales of Symphonia The Animation: Kratos-sensei no Private Lesson
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	6.72
 animeUsers	3517
 animeRank	
-animePopularity	
-animeDescription	b'A special bonus animation included in the first volume of the Tales of Symphonia DVD.\nLloyd and Collete talk about the special DVD editions, and Professor Kratos gives a summary of the ancient history of the world in Tales of Symphonia.'
-animeRelated	[b'Tales of Symphonia The Animation: Sylvarant-hen', b'Tales of Symphonia The Animation: Kaette Kita Kratos-sensei no Private Lesson']
-animeCharacters	[b'Aurion, Kratos', b'Irving, Lloyd', b'Brunel, Colette']
-animeVoices	[b'\nTachiki, Fumihiko\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nMizuki, Nana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujishima, Kousuke\n\nCharacter Design\n\n', b'\nBandai-Namco\n\nOriginal Creator\n\n']
+animePopularity	5777
+animeDescription	"A special bonus animation included in the first volume of the Tales of Symphonia DVD.
+Lloyd and Collete talk about the special DVD editions, and Professor Kratos gives a summary of the ancient history of the world in Tales of Symphonia."
+animeRelated	['Tales of Symphonia The Animation: Sylvarant-hen', 'Tales of Symphonia The Animation: Kaette Kita Kratos-sensei no Private Lesson']
+animeCharacters	['Aurion, Kratos', 'Irving, Lloyd', 'Brunel, Colette']
+animeVoices	['Tachiki, Fumihiko', 'Konishi, Katsuyuki', 'Mizuki, Nana']
+animeStaff	[['Fujishima, Kousuke', 'Character Design'], ['Bandai-Namco', 'Original Creator']]

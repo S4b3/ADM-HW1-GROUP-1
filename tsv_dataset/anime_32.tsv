@@ -1,5 +1,5 @@
-animeTitle	b'Cowboy Bebop'
-animeType	b'TV'
+animeTitle	Cowboy Bebop
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.77
 animeUsers	713379
 animeRank	
-animePopularity	
-animeDescription	"b'In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as ""Cowboys."" The ragtag team aboard the spaceship Bebop are two such individuals.\n\nMellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels\xe2\x80\x94Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong\xe2\x80\x94the crew embarks on thrilling adventures that unravel each member\'s dark and mysterious past little by little.\n\nWell-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Cowboy Bebop', b'Shooting Star Bebop: Cowboy Bebop', b'Cowboy Bebop: Tengoku no Tobira', b'Cowboy Bebop: Ein no Natsuyasumi', b'Cowboy Bebop: Yose Atsume Blues']
-animeCharacters	[b'Spiegel, Spike', b'Valentine, Faye', b'Wong Hau Pepelu Tivrusky IV, Edward', b'Black, Jet', b'Ein', b'Vicious', b'Eckener, Grencia Mars Elijah Guo', b'Von de Oniyate, Andy', b'Julia', b'Mad Pierrot']
-animeVoices	[b'\nYamadera, Kouichi\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nTada, Aoi\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nEbara, Masashi\nJapanese\n', b'\nTakashima, Gara\nJapanese\n', b'\nGinga, Banjou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nMinami, Masahiko\n\nProducer\n\n', b'\nWatanabe, Shinichiro\n\nDirector, Script, Storyboard\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n']
+animePopularity	44
+animeDescription	"In the year 2071, humanity has colonized several of the planets and moons of the solar system leaving the now uninhabitable surface of planet Earth behind. The Inter Solar System Police attempts to keep peace in the galaxy, aided in part by outlaw bounty hunters, referred to as ""Cowboys."" The ragtag team aboard the spaceship Bebop are two such individuals.
+
+Mellow and carefree Spike Spiegel is balanced by his boisterous, pragmatic partner Jet Black as the pair makes a living chasing bounties and collecting rewards. Thrown off course by the addition of new members that they meet in their travels—Ein, a genetically engineered, highly intelligent Welsh Corgi; femme fatale Faye Valentine, an enigmatic trickster with memory loss; and the strange computer whiz kid Edward Wong—the crew embarks on thrilling adventures that unravel each member's dark and mysterious past little by little.
+
+Well-balanced with high density action and light-hearted comedy, Cowboy Bebop is a space Western classic and an homage to the smooth and improvised music it is named after.
+
+[Written by MAL Rewrite]"
+animeRelated	['Cowboy Bebop', 'Shooting Star Bebop: Cowboy Bebop', 'Cowboy Bebop: Tengoku no Tobira', 'Cowboy Bebop: Ein no Natsuyasumi', 'Cowboy Bebop: Yose Atsume Blues']
+animeCharacters	['Spiegel, Spike', 'Valentine, Faye', 'Wong Hau Pepelu Tivrusky IV, Edward', 'Black, Jet', 'Ein', 'Vicious', 'Eckener, Grencia Mars Elijah Guo', 'Von de Oniyate, Andy', 'Julia', 'Mad Pierrot']
+animeVoices	['Yamadera, Kouichi', 'Hayashibara, Megumi', 'Tada, Aoi', 'Ishizuka, Unshou', 'Wakamoto, Norio', 'Horiuchi, Kenyuu', 'Ebara, Masashi', 'Takashima, Gara', 'Ginga, Banjou']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Minami, Masahiko', 'Producer'], ['Watanabe, Shinichiro', 'Director, Script, Storyboard'], ['Kobayashi, Katsuyoshi', 'Sound Director']]

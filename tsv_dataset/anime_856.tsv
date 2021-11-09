@@ -1,5 +1,5 @@
-animeTitle	b'Detective Conan Movie 12: Full Score of Fear'
-animeType	b'Movie'
+animeTitle	Detective Conan Movie 12: Full Score of Fear
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.8
 animeUsers	23236
 animeRank	
-animePopularity	
-animeDescription	"b'Serial murders involving all kinds have happened. All the victims are from a Music School led by a famous pianist. Conan and company have been invited to a opening concert of the Music Hall built by the pianist. The biggest attraction of this concert is the world famous violin called ""Stradivarius"" and a special appearance of a singer who has perfect pitch. \n\n(Source: ANN)'"
-animeRelated	[b'Detective Conan', b'Detective Conan Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab']
-animeCharacters	[b'Edogawa, Conan', b'Mouri, Ran', b'Mouri, Kogorou', b'Akiba, Reiko', b'Haibara, Ai', b'Takagi, Wataru', b'Agasa, Hiroshi', b'Yoshida, Ayumi', b'Satou, Miwako', b'Tsuburaya, Mitsuhiko']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nIwai, Yukiko\nJapanese\n', b'\nYuuya, Atsuko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuwa, Michihiko\n\nProducer, Planning\n\n', b'\nYamamoto, Yasuichiro\n\nDirector, Episode Director, Storyboard\n\n', b'\nKamegaki, Hajime\n\nStoryboard\n\n', b'\nNishimori, Akira\n\nStoryboard\n\n']
+animePopularity	2801
+animeDescription	"Serial murders involving all kinds have happened. All the victims are from a Music School led by a famous pianist. Conan and company have been invited to a opening concert of the Music Hall built by the pianist. The biggest attraction of this concert is the world famous violin called ""Stradivarius"" and a special appearance of a singer who has perfect pitch. 
+
+(Source: ANN)"
+animeRelated	['Detective Conan', 'Detective Conan Magic File 2: Kudou Shinichi - The Case of the Mysterious Wall and the Black Lab']
+animeCharacters	['Edogawa, Conan', 'Mouri, Ran', 'Mouri, Kogorou', 'Akiba, Reiko', 'Haibara, Ai', 'Takagi, Wataru', 'Agasa, Hiroshi', 'Yoshida, Ayumi', 'Satou, Miwako', 'Tsuburaya, Mitsuhiko']
+animeVoices	['Takayama, Minami', 'Yamazaki, Wakana', 'Kamiya, Akira', 'Kuwashima, Houko', 'Hayashibara, Megumi', 'Takagi, Wataru', 'Ogata, Kenichi', 'Iwai, Yukiko', 'Yuuya, Atsuko', 'Ootani, Ikue']
+animeStaff	[['Suwa, Michihiko', 'Producer, Planning'], ['Yamamoto, Yasuichiro', 'Director, Episode Director, Storyboard'], ['Kamegaki, Hajime', 'Storyboard'], ['Nishimori, Akira', 'Storyboard']]

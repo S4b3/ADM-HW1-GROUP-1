@@ -1,5 +1,5 @@
-animeTitle	b'Taiho Shichau zo Special'
-animeType	b'TV'
+animeTitle	Taiho Shichau zo Special
+animeType	TV
 animeNumEpisode	20
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.06
 animeUsers	1979
 animeRank	
-animePopularity	
-animeDescription	"b""Best friends and partners Miyuki Kobayakawa and Natsumi Sujimoto, along with the rest of the gang at Bokuto station, confront a motley group of offenders ranging from hi-tech panty thieves, purse-snatchers, and traffic violators. Using Miyuki's driving prowess and tech knowledge, as well as Natsumi's spunk and strength, the duo at times must resort to unconventional methods to see that justice is served.\n\n(Source: ANN)"""
-animeRelated	[b'Taiho Shichau zo', b'Taiho Shichau zo (TV)', b'Taiho Shichau zo: Nagisa no Koutsuu Yuudou', b'Taiho Shichau zo in America', b'Taiho Shichau zo The Movie', b'Taiho Shichau zo: Second Season', b'Taiho Shichau zo: Full Throttle']
-animeCharacters	[b'Tsujimoto, Natsumi', b'Kobayakawa, Miyuki', b'Nikaidou, Yoriko', b'Aoi, Futaba', b'Nakajima, Ken', b'Kachou', b'Maho', b'Shou', b'Yuuta']
-animeVoices	[b'\nTamagawa, Sakiko\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nKozakura, Etsuko\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nShimada, Bin\nJapanese\n', b'\nMasamune, Issei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishimura, Junji\n\nDirector\n\n', b'\nNamura, Hidetoshi\n\nKey Animation\n\n', b'\nHosokawa, Hideki\n\nKey Animation\n\n', b'\nCesario, Juliet\n\nADR Director\n\n']
+animePopularity	6719
+animeDescription	"Best friends and partners Miyuki Kobayakawa and Natsumi Sujimoto, along with the rest of the gang at Bokuto station, confront a motley group of offenders ranging from hi-tech panty thieves, purse-snatchers, and traffic violators. Using Miyuki's driving prowess and tech knowledge, as well as Natsumi's spunk and strength, the duo at times must resort to unconventional methods to see that justice is served.
+
+(Source: ANN)"
+animeRelated	['Taiho Shichau zo', 'Taiho Shichau zo (TV)', 'Taiho Shichau zo: Nagisa no Koutsuu Yuudou', 'Taiho Shichau zo in America', 'Taiho Shichau zo The Movie', 'Taiho Shichau zo: Second Season', 'Taiho Shichau zo: Full Throttle']
+animeCharacters	['Tsujimoto, Natsumi', 'Kobayakawa, Miyuki', 'Nikaidou, Yoriko', 'Aoi, Futaba', 'Nakajima, Ken', 'Kachou', 'Maho', 'Shou', 'Yuuta']
+animeVoices	['Tamagawa, Sakiko', 'Hiramatsu, Akiko', 'Kozakura, Etsuko', 'Matsumoto, Rica', 'Shimada, Bin', 'Masamune, Issei']
+animeStaff	[['Nishimura, Junji', 'Director'], ['Namura, Hidetoshi', 'Key Animation'], ['Hosokawa, Hideki', 'Key Animation'], ['Cesario, Juliet', 'ADR Director']]

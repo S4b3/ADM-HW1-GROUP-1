@@ -1,5 +1,5 @@
-animeTitle	b'Fushigi Yuugi Special: Nakago Shikkari Shinasai!'
-animeType	b'Special'
+animeTitle	Fushigi Yuugi Special: Nakago Shikkari Shinasai!
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.09
 animeUsers	780
 animeRank	
-animePopularity	
-animeDescription	"b""At the heart of the stories is the fictional lives of the voice actors who play the roles of the characters in Fushigi Yuugi with particular attention paid to Nakago. \n\nIn here, Miaka is transformed into a super idol, Tamahome is a spoiled prima donna and Nakago, Tamahome's wicked and evil adversary, is  a person living in a hovel, who comes late to the recordings and is totally under the thumb of  Tamahome who scolds him every time.\n\n(Source: aiminako)"""
-animeRelated	[b'Fushigi Yuugi']
-animeCharacters	[b'Nakago', b'Tamahome', b'Yuuki, Miaka', b'Hongo, Yui', b'Soi']
-animeVoices	[b'\nFurusawa, Tohru\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nAraki, Kae\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKamegaki, Hajime\n\nDirector\n\n', b'\nWatase, Yuu\n\nOriginal Creator\n\n', b'\nMotohashi, Hideyuki\n\nCharacter Design\n\n', b'\nUrasawa, Yoshio\n\nSeries Composition\n\n']
+animePopularity	8893
+animeDescription	"At the heart of the stories is the fictional lives of the voice actors who play the roles of the characters in Fushigi Yuugi with particular attention paid to Nakago. 
+
+In here, Miaka is transformed into a super idol, Tamahome is a spoiled prima donna and Nakago, Tamahome's wicked and evil adversary, is  a person living in a hovel, who comes late to the recordings and is totally under the thumb of  Tamahome who scolds him every time.
+
+(Source: aiminako)"
+animeRelated	['Fushigi Yuugi']
+animeCharacters	['Nakago', 'Tamahome', 'Yuuki, Miaka', 'Hongo, Yui', 'Soi']
+animeVoices	['Furusawa, Tohru', 'Midorikawa, Hikaru', 'Araki, Kae', 'Touma, Yumi', 'Tanaka, Atsuko']
+animeStaff	[['Kamegaki, Hajime', 'Director'], ['Watase, Yuu', 'Original Creator'], ['Motohashi, Hideyuki', 'Character Design'], ['Urasawa, Yoshio', 'Series Composition']]

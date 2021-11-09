@@ -1,5 +1,5 @@
-animeTitle	b'Yutori-chan'
-animeType	b'ONA'
+animeTitle	Yutori-chan
+animeType	ONA
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.11
 animeUsers	1603
 animeRank	
-animePopularity	
-animeDescription	b'Comedy anime about the generation gaps. The three main characters represent the major generations of Japanese; Yutori (teenagers), Tsumekomi (20-30s) and Dankai (middle age). Tsumekomi-chan is an office worker in a toy company and supervises the part-time working student Yutori-chan. She tries to get along with Yutori-chan but her selfish behavior typical of the Yutori generation is incomprehensible. '
+animePopularity	6817
+animeDescription	Comedy anime about the generation gaps. The three main characters represent the major generations of Japanese; Yutori (teenagers), Tsumekomi (20-30s) and Dankai (middle age). Tsumekomi-chan is an office worker in a toy company and supervises the part-time working student Yutori-chan. She tries to get along with Yutori-chan but her selfish behavior typical of the Yutori generation is incomprehensible. 
 animeRelated	[]
-animeCharacters	[b'Tsumekomi, Shiori', b'Dankain, Reiko', b'Tanaka, Yutori', b'Roujin', b'Yutori Mama', b'Shiwada, Rumi', b'Shikai', b'Rarittora', b'Nurse', b'Iyashi, Keiko']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nMiyazaki, Hiromu\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nOki, Kanae\nJapanese\n', b'\nNonaka, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawaguchi, Keiichirou\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nAsakawa, Miya\n\nScript, Series Composition\n\n', b'\nHanazawa, Kana\n\nTheme Song Performance\n\n']
+animeCharacters	['Tsumekomi, Shiori', 'Dankain, Reiko', 'Tanaka, Yutori', 'Roujin', 'Yutori Mama', 'Shiwada, Rumi', 'Shikai', 'Rarittora', 'Nurse', 'Iyashi, Keiko']
+animeVoices	['Hanazawa, Kana', 'Watanabe, Akeno', 'Yuuki, Aoi', 'Miyazaki, Hiromu', 'Fujimura, Ayumi', 'Inoue, Kikuko', 'Oki, Kanae', 'Nonaka, Ai']
+animeStaff	[['Kawaguchi, Keiichirou', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Asakawa, Miya', 'Script, Series Composition'], ['Hanazawa, Kana', 'Theme Song Performance']]

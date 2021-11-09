@@ -1,5 +1,5 @@
-animeTitle	b'Days: Touin Gakuen-sen!'
-animeType	b'OVA'
+animeTitle	Days: Touin Gakuen-sen!
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.46
 animeUsers	5287
 animeRank	
-animePopularity	
-animeDescription	b'Sequel to DAYS.\n\nThe final match against Touyin Gakuin for National High School Soccer Tournament Tokyo Preliminary.\n\n(Source: MAL News)'
-animeRelated	[b'Days', b'Days (TV)']
-animeCharacters	[b'Tsukamoto, Tsukushi', b'Kazama, Jin', b'Ooshiba, Kiichi']
+animePopularity	3939
+animeDescription	"Sequel to DAYS.
+
+The final match against Touyin Gakuin for National High School Soccer Tournament Tokyo Preliminary.
+
+(Source: MAL News)"
+animeRelated	['Days', 'Days (TV)']
+animeCharacters	['Tsukamoto, Tsukushi', 'Kazama, Jin', 'Ooshiba, Kiichi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYasuda, Tsuyoshi\n\nOriginal Creator\n\n']
+animeStaff	[['Yasuda, Tsuyoshi', 'Original Creator']]

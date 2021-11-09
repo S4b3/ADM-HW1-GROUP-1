@@ -1,5 +1,5 @@
-animeTitle	b'Youkai Watch Movie 3: Soratobu Kujira to Double Sekai no Daibouken da Nyan!'
-animeType	b'Movie'
+animeTitle	Youkai Watch Movie 3: Soratobu Kujira to Double Sekai no Daibouken da Nyan!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.29
 animeUsers	446
 animeRank	
-animePopularity	
-animeDescription	b'Third Youkai Watch movie.'
-animeRelated	[b'Youkai Watch', b'Youkai Watch Movie 2: Enma Daiou to Itsutsu no Monogatari da Nyan!', b'Youkai Watch Movie 4: Shadow Side - Oni-ou no Fukkatsu']
-animeCharacters	[b'Jibanyan', b'Komasan', b'Amano, Keita', b'USApyon', b'Komajirou', b'Imada, Kanchi', b'Jimenken', b'Kumashima, Gorouta']
-animeVoices	[b'\nKozakura, Etsuko\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUshiro, Shinji\n\nDirector, Storyboard\n\n', b'\nHino, Akihiro\n\nScript, Original Creator\n\n', b'\nTachibana, Masaki\n\nKey Animation\n\n', b'\nNagano, Takuzou\n\nOriginal Character Design\n\n']
+animePopularity	10468
+animeDescription	Third Youkai Watch movie.
+animeRelated	['Youkai Watch', 'Youkai Watch Movie 2: Enma Daiou to Itsutsu no Monogatari da Nyan!', 'Youkai Watch Movie 4: Shadow Side - Oni-ou no Fukkatsu']
+animeCharacters	['Jibanyan', 'Komasan', 'Amano, Keita', 'USApyon', 'Komajirou', 'Imada, Kanchi', 'Jimenken', 'Kumashima, Gorouta']
+animeVoices	['Kozakura, Etsuko', 'Tomatsu, Haruka']
+animeStaff	[['Ushiro, Shinji', 'Director, Storyboard'], ['Hino, Akihiro', 'Script, Original Creator'], ['Tachibana, Masaki', 'Key Animation'], ['Nagano, Takuzou', 'Original Character Design']]

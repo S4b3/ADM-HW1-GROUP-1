@@ -1,5 +1,5 @@
-animeTitle	b'Gundam Build Fighters Try'
-animeType	b'TV'
+animeTitle	Gundam Build Fighters Try
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	7.24
 animeUsers	21048
 animeRank	
-animePopularity	
-animeDescription	"b""The story of Gundam Build Fighters Try is set 7 years after the end of the 1st series. Now Seiho Academy's Gunpla Battle Club has only one member, Hoshino Fumina, who is a third grade student in junior high. As the president of the club, she needs two more members to participate in the upcoming All-Japan Gunpla Battle Championships. One day she encounters a transfer student named Kamiki Sekai, who has traveled around for Kenpo training with his master. Then joining by a young Gunpla builder Kousaka Yuuma, their challenge to the Gunpla Battle begins....\n\n(Source: Crunchyroll)\n"""
-animeRelated	[b'Gundam Build Fighters', b'Gundam Build Fighters: GM no Gyakushuu', b'Gundam Build Fighters Try: Island Wars', b'Gundam Build Fighters: Battlogue']
-animeCharacters	[b'Hoshino, Fumina', b'Kamiki, Sekai', b'Kousaka, Yuuma', b'Kasshu, Domon', b'Yuuki, Tatsuya', b'Kijima, Shia', b'Sazaki, Kaoruko', b'Kousaka, China', b'Kamiki, Mirai', b'Ral']
-animeVoices	[b'\nMakino, Yui\nJapanese\n', b'\nTogashi, Kazumi\nJapanese\n', b'\nUchida, Yuuma\nJapanese\n', b'\nSatou, Takuya\nJapanese\n', b'\nFujita, Saki\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n', b'\nIshikawa, Yui\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nHouki, Katsuhisa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatada, Shinya\n\nDirector\n\n', b'\nMinamikawa, Tatsuma\n\nEpisode Director\n\n', b'\nMinami, Yasuhiro\n\nEpisode Director\n\n', b'\nNishizawa, Susumu\n\nStoryboard\n\n']
+animePopularity	2885
+animeDescription	"The story of Gundam Build Fighters Try is set 7 years after the end of the 1st series. Now Seiho Academy's Gunpla Battle Club has only one member, Hoshino Fumina, who is a third grade student in junior high. As the president of the club, she needs two more members to participate in the upcoming All-Japan Gunpla Battle Championships. One day she encounters a transfer student named Kamiki Sekai, who has traveled around for Kenpo training with his master. Then joining by a young Gunpla builder Kousaka Yuuma, their challenge to the Gunpla Battle begins....
+
+(Source: Crunchyroll)
+"
+animeRelated	['Gundam Build Fighters', 'Gundam Build Fighters: GM no Gyakushuu', 'Gundam Build Fighters Try: Island Wars', 'Gundam Build Fighters: Battlogue']
+animeCharacters	['Hoshino, Fumina', 'Kamiki, Sekai', 'Kousaka, Yuuma', 'Kasshu, Domon', 'Yuuki, Tatsuya', 'Kijima, Shia', 'Sazaki, Kaoruko', 'Kousaka, China', 'Kamiki, Mirai', 'Ral']
+animeVoices	['Makino, Yui', 'Togashi, Kazumi', 'Uchida, Yuuma', 'Satou, Takuya', 'Fujita, Saki', 'Hirohashi, Ryou', 'Ishikawa, Yui', 'Endou, Aya', 'Houki, Katsuhisa']
+animeStaff	[['Watada, Shinya', 'Director'], ['Minamikawa, Tatsuma', 'Episode Director'], ['Minami, Yasuhiro', 'Episode Director'], ['Nishizawa, Susumu', 'Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Pinkerton'
-animeType	b'OVA'
+animeTitle	Pinkerton
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.6
 animeUsers	2195
 animeRank	
-animePopularity	
-animeDescription	b'Adaptation of the manga by Monorino.'
-animeRelated	[b'Pinkerton']
-animeCharacters	[b'Inukai, Kyouko', b'Hotaru', b'Erika', b'Makino', b'Hikari']
-animeVoices	[b'\nHayase, Yayoi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMonorino\n\nOriginal Creator\n\n', b'\nKasumi, Kyouka\n\nDirector of Photography\n\n', b'\nHirayama, Shinobu\n\nColor Design\n\n']
+animePopularity	6031
+animeDescription	Adaptation of the manga by Monorino.
+animeRelated	['Pinkerton']
+animeCharacters	['Inukai, Kyouko', 'Hotaru', 'Erika', 'Makino', 'Hikari']
+animeVoices	['Hayase, Yayoi']
+animeStaff	[['Monorino', 'Original Creator'], ['Kasumi, Kyouka', 'Director of Photography'], ['Hirayama, Shinobu', 'Color Design']]

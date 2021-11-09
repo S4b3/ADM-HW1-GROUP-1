@@ -1,5 +1,5 @@
-animeTitle	b'Ryuuichi Manga Gekijou Onbu Obake'
-animeType	b'TV'
+animeTitle	Ryuuichi Manga Gekijou Onbu Obake
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The mischievous antics of a ghost in an ancient village.\n\n(Source: AniDB)'
-animeRelated	[b'Onbu Obake']
-animeCharacters	[b'Onbuu', b'Ojii', b'Ojou', b'Higejii']
-animeVoices	[b'\nKuri, Youko\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nYamamoto, Yoshiko\nJapanese\n', b'\nKitayama, Toshio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYukimuro, Shunichi\n\nScript\n\n', b'\nYokoyama, Ryuuichi\n\nTheme Song Lyrics, 2nd Key Animation, Original Creator\n\n', b'\nKamezaki, Keishi\n\nTheme Song Lyrics\n\n', b'\nTsunoda, Toshitaka\n\nAnimation Director\n\n']
+animePopularity	14140
+animeDescription	"The mischievous antics of a ghost in an ancient village.
+
+(Source: AniDB)"
+animeRelated	['Onbu Obake']
+animeCharacters	['Onbuu', 'Ojii', 'Ojou', 'Higejii']
+animeVoices	['Kuri, Youko', 'Nagai, Ichiro', 'Yamamoto, Yoshiko', 'Kitayama, Toshio']
+animeStaff	[['Yukimuro, Shunichi', 'Script'], ['Yokoyama, Ryuuichi', 'Theme Song Lyrics, 2nd Key Animation, Original Creator'], ['Kamezaki, Keishi', 'Theme Song Lyrics'], ['Tsunoda, Toshitaka', 'Animation Director']]

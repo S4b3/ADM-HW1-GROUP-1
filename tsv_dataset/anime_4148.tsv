@@ -1,5 +1,5 @@
-animeTitle	b'Anima Yell!'
-animeType	b'TV'
+animeTitle	Anima Yell!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.91
 animeUsers	13313
 animeRank	
-animePopularity	
-animeDescription	"b""Kohane Hatoya\xe2\x80\x99s most lovable trait is also her greatest flaw. She loves to help others no matter how far she has to go in order to get the job done. Her biggest inspiration to do so comes to light when she sees what cheerleading looks like for the first time in middle school. Now a highschooler but as enthusiastic as ever, Kohane wants nothing more than to start her very own cheerleading squad. She's encouraged by her best friend, Uki Sawatari, who often has to help her get out of trouble.\n\nThere is just one problem: Kohane does not have any experience in cheerleading. She has absolutely no idea what to do, what to wear, or how to perform. To make matters worse, she has been scared of heights since childhood, and this new sport is full of stunts pulled far from the ground for a girl her size. Enter Hizume Arima, a former cheerleader who wishes to leave her pastime behind. Unfortunately for her, Kohane recognizes Hizume, and will stop at nothing just so she can lead the new squad, even if it means facing her childhood fear.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Anima Yell!', b'Anima Yell! Ouen Douga']
-animeCharacters	[b'Hatoya, Kohane', b'Tatejima, Kotetsu', b'Sawatari, Uki', b'Arima, Hizume', b'Ushiku, Kana', b'Inukai', b'Kateika-bu Buchou', b'Basket Senpai', b'Nekoya, Tamako', b'Nekoya, Suzuko']
-animeVoices	[b'\nOzaki, Yuka\nJapanese\n', b'\nKusunoki, Tomori\nJapanese\n', b'\nIzawa, Mikako\nJapanese\n', b'\nYamada, Yuina\nJapanese\n', b'\nShiraishi, Haruka\nJapanese\n', b'\nMatsui, Eriko\nJapanese\n', b'\nNatsuno, Nao\nJapanese\n', b'\nFurukawa, Yurina\nJapanese\n', b'\nMatsuda, Satsumi\nJapanese\n', b'\nMatsuda, Risae\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Masako\n\nDirector\n\n', b'\nHiramitsu, Takuya\n\nSound Director\n\n', b'\nShimo, Fumihiko\n\nScript, Series Composition\n\n', b'\nOokuma, Takaharu\n\nStoryboard\n\n']
+animePopularity	2952
+animeDescription	"Kohane Hatoya’s most lovable trait is also her greatest flaw. She loves to help others no matter how far she has to go in order to get the job done. Her biggest inspiration to do so comes to light when she sees what cheerleading looks like for the first time in middle school. Now a highschooler but as enthusiastic as ever, Kohane wants nothing more than to start her very own cheerleading squad. She's encouraged by her best friend, Uki Sawatari, who often has to help her get out of trouble.
+
+There is just one problem: Kohane does not have any experience in cheerleading. She has absolutely no idea what to do, what to wear, or how to perform. To make matters worse, she has been scared of heights since childhood, and this new sport is full of stunts pulled far from the ground for a girl her size. Enter Hizume Arima, a former cheerleader who wishes to leave her pastime behind. Unfortunately for her, Kohane recognizes Hizume, and will stop at nothing just so she can lead the new squad, even if it means facing her childhood fear.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Anima Yell!', 'Anima Yell! Ouen Douga']
+animeCharacters	['Hatoya, Kohane', 'Tatejima, Kotetsu', 'Sawatari, Uki', 'Arima, Hizume', 'Ushiku, Kana', 'Inukai', 'Kateika-bu Buchou', 'Basket Senpai', 'Nekoya, Tamako', 'Nekoya, Suzuko']
+animeVoices	['Ozaki, Yuka', 'Kusunoki, Tomori', 'Izawa, Mikako', 'Yamada, Yuina', 'Shiraishi, Haruka', 'Matsui, Eriko', 'Natsuno, Nao', 'Furukawa, Yurina', 'Matsuda, Satsumi', 'Matsuda, Risae']
+animeStaff	[['Satou, Masako', 'Director'], ['Hiramitsu, Takuya', 'Sound Director'], ['Shimo, Fumihiko', 'Script, Series Composition'], ['Ookuma, Takaharu', 'Storyboard']]

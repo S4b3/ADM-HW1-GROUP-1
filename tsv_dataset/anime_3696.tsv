@@ -1,5 +1,5 @@
-animeTitle	b'Artiswitch'
-animeType	b'ONA'
+animeTitle	Artiswitch
+animeType	ONA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.02
 animeUsers	1958
 animeRank	
-animePopularity	
-animeDescription	"b'There was a rumour among the young people in Harajuku, Tokyo. There is a place called Ura-Harajuku somewhere in Harajuku, and it seems that there is a shop run by a witch. The witch\'s name is Nina. A young witch with a chameleon and a pig fulfills the secret wishes of her guests. Her method is to invite her to a mysterious space and look into the ""real feelings"" deep inside her heart. Customers are sometimes excited, sometimes hurt, and make their own choices to fulfill their wishes.\n\n(Source: AniDB)'"
+animePopularity	6590
+animeDescription	"There was a rumour among the young people in Harajuku, Tokyo. There is a place called Ura-Harajuku somewhere in Harajuku, and it seems that there is a shop run by a witch. The witch's name is Nina. A young witch with a chameleon and a pig fulfills the secret wishes of her guests. Her method is to invite her to a mysterious space and look into the ""real feelings"" deep inside her heart. Customers are sometimes excited, sometimes hurt, and make their own choices to fulfill their wishes.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Nina', b'Ruru', b'Akihiro', b'Haruka', b'Mana']
-animeVoices	[b'\nAoi, Utano\nJapanese\n', b'\nKuroki, Honoka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIkeda, Kazuma\n\nDirector\n\n', b'\nFujita, Akiko\n\nSound Director\n\n', b'\nFaber, Rasmus\n\nMusic\n\n', b'\nYoshida, Erika\n\nSeries Composition\n\n']
+animeCharacters	['Nina', 'Ruru', 'Akihiro', 'Haruka', 'Mana']
+animeVoices	['Aoi, Utano', 'Kuroki, Honoka']
+animeStaff	[['Ikeda, Kazuma', 'Director'], ['Fujita, Akiko', 'Sound Director'], ['Faber, Rasmus', 'Music'], ['Yoshida, Erika', 'Series Composition']]

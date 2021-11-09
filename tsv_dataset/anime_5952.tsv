@@ -1,5 +1,5 @@
-animeTitle	b'X-Men Openings'
-animeType	b'Special'
+animeTitle	X-Men Openings
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.54
 animeUsers	186
 animeRank	
-animePopularity	
-animeDescription	"b'For the TV Tokyo dub of the series, the intro was replaced with a new, Japanese-animated sequence as well as a new theme called ""Rising"", by the band Ambience. Starting with episode 42, a second new intro was used, featuring the song ""Dakishimetai Dare yori mo"".\n\n(Source: Wikipedia)'"
+animePopularity	13931
+animeDescription	"For the TV Tokyo dub of the series, the intro was replaced with a new, Japanese-animated sequence as well as a new theme called ""Rising"", by the band Ambience. Starting with episode 42, a second new intro was used, featuring the song ""Dakishimetai Dare yori mo"".
+
+(Source: Wikipedia)"
 animeRelated	[]
-animeCharacters	[b'Howlett, James', b'Summers, Scott']
+animeCharacters	['Howlett, James', 'Summers, Scott']
 animeVoices	[]
 animeStaff	[]

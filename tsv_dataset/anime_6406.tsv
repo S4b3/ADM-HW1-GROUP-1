@@ -1,5 +1,5 @@
-animeTitle	b'Clockwork Planet'
-animeType	b'TV'
+animeTitle	Clockwork Planet
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.45
 animeUsers	51657
 animeRank	
-animePopularity	
-animeDescription	"b""Legend tells that when the Earth was destroyed, the great clockmaker Y made a replacement from cogs and gears. Naoto Miura is a young boy who aspires to be a great clockmaker. However, despite his unique talent\xe2\x80\x94sensitive hearing that can immediately understand clockwork mechanics from noise alone\xe2\x80\x94he has made little progress. But this changes when a coffin falls from the sky into his apartment, revealing RyuZU, a female automaton forged by Y himself.\n\nNews of RyuZU's arrival brings Marie Bell Breguet, the gifted heir of a distinguished line of clockmakers, and her cyborg bodyguard Vainney Halter into Naoto's life as well. When she and Naoto both become embroiled in an action-packed battle for their lives, they discover an uncomfortable truth: the clockwork planet that humanity has lived on for over a millennium is beginning to break down\xe2\x80\x94a secret that many people will kill to protect.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Clockwork Planet']
-animeCharacters	[b'RyuZU', b'Miura, Naoto', b'AnchoR', b'Halter, Vainney', b'Bell Breguet, Marie', b'Konrad', b'Hoshimiya, Houko', b'Vermouth', b'Strega', b'Amaretto']
-animeVoices	[b'\nKakuma, Ai\nJapanese\n', b'\nNanjou, Yoshino\nJapanese\n', b'\nSenbongi, Sayaka\nJapanese\n', b'\nMatsuda, Kenichirou\nJapanese\n', b'\nOonishi, Saori\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nMatsuda, Satsumi\nJapanese\n', b'\nYoshimura, Haruka\nJapanese\n', b'\nMogi, Takamasa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagasawa, Tsuyoshi\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nOonishi, Kenta\n\nEpisode Director\n\n', b'\nSaitou, Akira\n\nEpisode Director, Storyboard, Editing\n\n']
+animePopularity	1245
+animeDescription	"Legend tells that when the Earth was destroyed, the great clockmaker Y made a replacement from cogs and gears. Naoto Miura is a young boy who aspires to be a great clockmaker. However, despite his unique talent—sensitive hearing that can immediately understand clockwork mechanics from noise alone—he has made little progress. But this changes when a coffin falls from the sky into his apartment, revealing RyuZU, a female automaton forged by Y himself.
+
+News of RyuZU's arrival brings Marie Bell Breguet, the gifted heir of a distinguished line of clockmakers, and her cyborg bodyguard Vainney Halter into Naoto's life as well. When she and Naoto both become embroiled in an action-packed battle for their lives, they discover an uncomfortable truth: the clockwork planet that humanity has lived on for over a millennium is beginning to break down—a secret that many people will kill to protect.
+
+[Written by MAL Rewrite]"
+animeRelated	['Clockwork Planet']
+animeCharacters	['RyuZU', 'Miura, Naoto', 'AnchoR', 'Halter, Vainney', 'Bell Breguet, Marie', 'Konrad', 'Hoshimiya, Houko', 'Vermouth', 'Strega', 'Amaretto']
+animeVoices	['Kakuma, Ai', 'Nanjou, Yoshino', 'Senbongi, Sayaka', 'Matsuda, Kenichirou', 'Oonishi, Saori', 'Ishizuka, Unshou', 'Uchida, Maaya', 'Matsuda, Satsumi', 'Yoshimura, Haruka', 'Mogi, Takamasa']
+animeStaff	[['Nagasawa, Tsuyoshi', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Oonishi, Kenta', 'Episode Director'], ['Saitou, Akira', 'Episode Director, Storyboard, Editing']]

@@ -1,5 +1,5 @@
-animeTitle	b'Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven'
-animeType	b'Special'
+animeTitle	Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.01
 animeUsers	10019
 animeRank	
-animePopularity	
-animeDescription	"b'Compilation movie of the ""Individual Eleven"" story from Ghost in the Shell: SAC 2nd Gig series.\n\n(Source: AniDB)'"
-animeRelated	[b'Koukaku Kidoutai: Stand Alone Complex 2nd GIG', b'Koukaku Kidoutai: Stand Alone Complex - The Laughing Man', b'Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikoma na Hibi']
-animeCharacters	[b'Kusanagi, Motoko', b'Batou', b'Togusa', b'Aramaki, Daisuke', b'Tachikoma', b'Saito', b'Ishikawa', b'Kuze, Hideo', b'Pazu', b'Borma']
-animeVoices	[b'\nTanaka, Atsuko\nJapanese\n', b'\nTamagawa, Sakiko\nJapanese\n', b'\nNakano, Yutaka\nJapanese\n', b'\nOnozuka, Takashi\nJapanese\n', b'\nYamaguchi, Tarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKamiyama, Kenji\n\nDirector, Script, Storyboard\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n', b'\nFuseki, Kazunobu\n\nEpisode Director, Storyboard\n\n', b'\nYoshihara, Masayuki\n\nEpisode Director, Storyboard, Key Animation\n\n']
+animePopularity	3482
+animeDescription	"Compilation movie of the ""Individual Eleven"" story from Ghost in the Shell: SAC 2nd Gig series.
+
+(Source: AniDB)"
+animeRelated	['Koukaku Kidoutai: Stand Alone Complex 2nd GIG', 'Koukaku Kidoutai: Stand Alone Complex - The Laughing Man', 'Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikoma na Hibi']
+animeCharacters	['Kusanagi, Motoko', 'Batou', 'Togusa', 'Aramaki, Daisuke', 'Tachikoma', 'Saito', 'Ishikawa', 'Kuze, Hideo', 'Pazu', 'Borma']
+animeVoices	['Tanaka, Atsuko', 'Tamagawa, Sakiko', 'Nakano, Yutaka', 'Onozuka, Takashi', 'Yamaguchi, Tarou']
+animeStaff	[['Kamiyama, Kenji', 'Director, Script, Storyboard'], ['Wakabayashi, Kazuhiro', 'Sound Director'], ['Fuseki, Kazunobu', 'Episode Director, Storyboard'], ['Yoshihara, Masayuki', 'Episode Director, Storyboard, Key Animation']]

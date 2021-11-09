@@ -1,5 +1,5 @@
-animeTitle	b'Dog Soldier'
-animeType	b'OVA'
+animeTitle	Dog Soldier
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	3.91
 animeUsers	880
 animeRank	
-animePopularity	
-animeDescription	b'When an American scientist carrying a cure for the AIDS virus is kidnapped by an arms merchant, John Kyosuke is forced back from retirement. He accepts the challenge to regain possession of the anti-serum. He finds out that some of the people he is after are closely related, which gives his conquest a whole new meaning.\n\n(Source: AnimeNfo)'
-animeRelated	[b'Dog Soldier']
-animeCharacters	[b'Hiba, John Kyosuke', b'Takamura, Makoto Allen', b'Magley, Catherine', b'Takechi', b'Fudou, Masami']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nDoi, Mika\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nEbata, Hiroyuki\n\nDirector\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b'\nAikawa, Shou\n\nScript\n\n', b'\nKuroishi, Hitomi\n\nMusic\n\n']
+animePopularity	9833
+animeDescription	"When an American scientist carrying a cure for the AIDS virus is kidnapped by an arms merchant, John Kyosuke is forced back from retirement. He accepts the challenge to regain possession of the anti-serum. He finds out that some of the people he is after are closely related, which gives his conquest a whole new meaning.
+
+(Source: AnimeNfo)"
+animeRelated	['Dog Soldier']
+animeCharacters	['Hiba, John Kyosuke', 'Takamura, Makoto Allen', 'Magley, Catherine', 'Takechi', 'Fudou, Masami']
+animeVoices	['Kamiya, Akira', 'Wakamoto, Norio', 'Doi, Mika', 'Yara, Yuusaku', 'Gouri, Daisuke']
+animeStaff	[['Ebata, Hiroyuki', 'Director'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Aikawa, Shou', 'Script'], ['Kuroishi, Hitomi', 'Music']]

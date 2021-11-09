@@ -1,5 +1,5 @@
-animeTitle	b'Infini-T Force Movie: Gatchaman - Saraba Tomo yo'
-animeType	b'Movie'
+animeTitle	Infini-T Force Movie: Gatchaman - Saraba Tomo yo
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.24
 animeUsers	237
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Infini-T Force']
-animeCharacters	[b'Washio, Ken', b'Casshern', b'Asakura, Joe', b'Yoroi, Takeshi', b'Minami, Johji', b'Kozaburou, Nambu', b'Kaidou, Emi', b'Sasaoka']
-animeVoices	[b'\nSeki, Tomokazu\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nSuzuki, Kazuma\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nFunakoshi, Eiichirou\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nEndou, Aya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsumoto, Atsushi\n\nDirector\n\n', b'\nOh! Great\n\nOriginal Character Design\n\n', b'\nKumagai, Jun\n\nSeries Composition\n\n']
+animePopularity	9789
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Infini-T Force']
+animeCharacters	['Washio, Ken', 'Casshern', 'Asakura, Joe', 'Yoroi, Takeshi', 'Minami, Johji', 'Kozaburou, Nambu', 'Kaidou, Emi', 'Sasaoka']
+animeVoices	['Seki, Tomokazu', 'Saitou, Souma', 'Suzuki, Kazuma', 'Suzumura, Kenichi', 'Sakurai, Takahiro', 'Funakoshi, Eiichirou', 'Kayano, Ai', 'Endou, Aya']
+animeStaff	[['Matsumoto, Atsushi', 'Director'], ['Oh! Great', 'Original Character Design'], ['Kumagai, Jun', 'Series Composition']]

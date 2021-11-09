@@ -1,5 +1,5 @@
-animeTitle	b'Tensai? Dr. Hamax'
-animeType	b'TV'
+animeTitle	Tensai? Dr. Hamax
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis has been added for this series yet.\n\nClick here to update this information.'
+animePopularity	15333
+animeDescription	"No synopsis has been added for this series yet.
+
+Click here to update this information."
 animeRelated	[]
-animeCharacters	[b'Dr. Hamax', b'President', b'Kaori', b'Eriko', b'Dodoarino']
-animeVoices	[b'\nHamaguchi, Masaru\nJapanese\n', b'\nYanagihara, Tetsuya\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nNamiki, Noriko\nJapanese\n', b'\nArino, Shinya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFuseki, Kazunobu\n\nDirector, Episode Director, Storyboard\n\n', b'\nTakashima, Daisuke\n\nEpisode Director\n\n', b'\nKAZCO\n\nTheme Song Performance\n\n', b'\nGenma, Nobuhiko\n\nMechanical Design\n\n']
+animeCharacters	['Dr. Hamax', 'President', 'Kaori', 'Eriko', 'Dodoarino']
+animeVoices	['Hamaguchi, Masaru', 'Yanagihara, Tetsuya', 'Nazuka, Kaori', 'Namiki, Noriko', 'Arino, Shinya']
+animeStaff	[['Fuseki, Kazunobu', 'Director, Episode Director, Storyboard'], ['Takashima, Daisuke', 'Episode Director'], ['KAZCO', 'Theme Song Performance'], ['Genma, Nobuhiko', 'Mechanical Design']]

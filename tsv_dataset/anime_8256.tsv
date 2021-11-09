@@ -1,5 +1,5 @@
-animeTitle	b'0-sen Hayato'
-animeType	b'TV'
+animeTitle	0-sen Hayato
+animeType	TV
 animeNumEpisode	38
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.08
 animeUsers	120
 animeRank	
-animePopularity	
-animeDescription	b'The adventures of a zero fighter pilot during World War II. \n\n(Source: AniDB) '
-animeRelated	[b'0-sen Hayato Pilot']
-animeCharacters	[b'Azuma, Hayato', b'Toudai, Sa', b'Captain, Miyamoto', b'Isshiki, Kyougo']
-animeVoices	[b'\nHoujou, Michiru\nJapanese\n', b'\nKayumi, Iemasa\nJapanese\n', b'\nOtsuka, Chikao\nJapanese\n', b'\nAsakura, Kouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuji, Naoki\n\nOriginal Creator\n\n']
+animePopularity	12005
+animeDescription	"The adventures of a zero fighter pilot during World War II. 
+
+(Source: AniDB) "
+animeRelated	['0-sen Hayato Pilot']
+animeCharacters	['Azuma, Hayato', 'Toudai, Sa', 'Captain, Miyamoto', 'Isshiki, Kyougo']
+animeVoices	['Houjou, Michiru', 'Kayumi, Iemasa', 'Otsuka, Chikao', 'Asakura, Kouji']
+animeStaff	[['Tsuji, Naoki', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Eikoku Ikka, Nihon wo Taberu'
-animeType	b'TV'
+animeTitle	Eikoku Ikka, Nihon wo Taberu
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.35
 animeUsers	238
 animeRank	
-animePopularity	
-animeDescription	"b""Based on a book by British travel and dining journalist Michael Booth. Follows Booth, his wife Lissen, and two kids Ansger (6) and Emil (4), on their 100-day trip to Japan as they try a wide variety of Japanese foods. Booth was inspired to make the trip by Shizuo Tsuji's book, Japanese Cooking, A Simple Art.\n\n(Source: ANN)"""
-animeRelated	[b'Eikoku Ikka, Nihon wo Taberu: English Ikka, Shougatsu wo Taberu']
-animeCharacters	[b'Booth, Michael', b'Booth, Emil', b'Booth, Lissen', b'Booth, Asger']
-animeVoices	[b'\nTakemoto, Eiji\nJapanese\n', b'\nMannaka, Yukiko\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nRareko\n\nDirector, Character Design\n\n', b'\nvan Beethoven, Ludwig\n\nMusic\n\n', b'\nBizet, Georges\n\nMusic\n\n']
+animePopularity	10707
+animeDescription	"Based on a book by British travel and dining journalist Michael Booth. Follows Booth, his wife Lissen, and two kids Ansger (6) and Emil (4), on their 100-day trip to Japan as they try a wide variety of Japanese foods. Booth was inspired to make the trip by Shizuo Tsuji's book, Japanese Cooking, A Simple Art.
+
+(Source: ANN)"
+animeRelated	['Eikoku Ikka, Nihon wo Taberu: English Ikka, Shougatsu wo Taberu']
+animeCharacters	['Booth, Michael', 'Booth, Emil', 'Booth, Lissen', 'Booth, Asger']
+animeVoices	['Takemoto, Eiji', 'Mannaka, Yukiko', 'Hirohashi, Ryou']
+animeStaff	[['Rareko', 'Director, Character Design'], ['van Beethoven, Ludwig', 'Music'], ['Bizet, Georges', 'Music']]

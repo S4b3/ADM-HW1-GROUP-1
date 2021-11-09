@@ -1,5 +1,5 @@
-animeTitle	b'Senyuu. 2'
-animeType	b'TV'
+animeTitle	Senyuu. 2
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.45
 animeUsers	30956
 animeRank	
-animePopularity	
-animeDescription	"b""When a hole opened up in the world and monsters flooded out, humanity prepared for the demon lord Rukimedes' rise once again. However, even the gravity of this situation cannot impede the antics of straight man hero Alba Fr\xc3\xbchling and sadist soldier Ross.\n\nRoss, trapped within a plane between two worlds due to Januar Ein's magic, encounters the demon lord taking a nap and looking far too comfortable in his confinement. Simultaneously, Alba, once again in prison, has been sidelined in favor of his eccentric companion's hijinks.\n\nAlthough separated, Ross and Alba continue their attempts to prevent the demon lord's resurgence, but unbeknownst to them, a ghost from Ross' past may just threaten their quest's success.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Senyuu.', b'Senyuu. Specials']
-animeCharacters	[b'Ross', b'Fr\xc3\xbchling, Alba', b'Ruki', b'Ein, Januar', b'Samejima', b'Lortelia, Michelajul', b'Ares', b'Elf, November', b'Sieben, Juli', b'Alba, Mother']
-animeVoices	[b'\nNakamura, Yuuichi\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nUeda, Youji\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nOkamoto, Hiroshi\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nShimamoto, Sumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Yutaka\n\nDirector, Episode Director, Storyboard\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nItagaki, Shin\n\nEpisode Director, Storyboard\n\n', b'\nYokote, Michiko\n\nScript, Series Composition\n\n']
+animePopularity	2427
+animeDescription	"When a hole opened up in the world and monsters flooded out, humanity prepared for the demon lord Rukimedes' rise once again. However, even the gravity of this situation cannot impede the antics of straight man hero Alba Frühling and sadist soldier Ross.
+
+Ross, trapped within a plane between two worlds due to Januar Ein's magic, encounters the demon lord taking a nap and looking far too comfortable in his confinement. Simultaneously, Alba, once again in prison, has been sidelined in favor of his eccentric companion's hijinks.
+
+Although separated, Ross and Alba continue their attempts to prevent the demon lord's resurgence, but unbeknownst to them, a ghost from Ross' past may just threaten their quest's success.
+
+[Written by MAL Rewrite]"
+animeRelated	['Senyuu.', 'Senyuu. Specials']
+animeCharacters	['Ross', 'Frühling, Alba', 'Ruki', 'Ein, Januar', 'Samejima', 'Lortelia, Michelajul', 'Ares', 'Elf, November', 'Sieben, Juli', 'Alba, Mother']
+animeVoices	['Nakamura, Yuuichi', 'Shimono, Hiro', 'Kayano, Ai', 'Sakurai, Takahiro', 'Sugita, Tomokazu', 'Ueda, Youji', 'Uchiyama, Yumi', 'Okamoto, Hiroshi', 'Sakaguchi, Daisuke', 'Shimamoto, Sumi']
+animeStaff	[['Yamamoto, Yutaka', 'Director, Episode Director, Storyboard'], ['Kikuta, Hiromi', 'Sound Director'], ['Itagaki, Shin', 'Episode Director, Storyboard'], ['Yokote, Michiko', 'Script, Series Composition']]

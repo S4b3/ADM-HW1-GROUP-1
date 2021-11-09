@@ -1,5 +1,5 @@
-animeTitle	b'Kiki to Lala no Hoshi no Dance Shoes'
-animeType	b'OVA'
+animeTitle	Kiki to Lala no Hoshi no Dance Shoes
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""It's dancing time for Kiki and Lala."""
-animeRelated	[b'Kiki to Lala no Aoi Tori', b'Kiki to Lala no Hansel to Gretel', b'Kiki to Lala no Ohimesama ni Naritai', b'Kiki to Lala no Hakuchouza no Ohimesama', b'Kiki to Lala no Papa to Mama ni Aitai']
-animeCharacters	[b'Lala', b'Kiki']
+animePopularity	14823
+animeDescription	It's dancing time for Kiki and Lala.
+animeRelated	['Kiki to Lala no Aoi Tori', 'Kiki to Lala no Hansel to Gretel', 'Kiki to Lala no Ohimesama ni Naritai', 'Kiki to Lala no Hakuchouza no Ohimesama', 'Kiki to Lala no Papa to Mama ni Aitai']
+animeCharacters	['Lala', 'Kiki']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHata, Masami\n\nDirector\n\n', b'\nWatanabe, Mami\n\nScreenplay\n\n']
+animeStaff	[['Hata, Masami', 'Director'], ['Watanabe, Mami', 'Screenplay']]

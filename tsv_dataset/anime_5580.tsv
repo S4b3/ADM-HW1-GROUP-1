@@ -1,5 +1,5 @@
-animeTitle	b'Amaenaide yo!! Katsu!!: Damasarenaide yo!!'
-animeType	b'Special'
+animeTitle	Amaenaide yo!! Katsu!!: Damasarenaide yo!!
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.6
 animeUsers	6349
 animeRank	
-animePopularity	
-animeDescription	b'A behind the scenes special of all the main characters in Amaenaide yo!! Katsu!!, where they give their own personal feelings about their past experiences with the show, as well as their working experiences with their fellow cast members.'
-animeRelated	[b'Amaenaide yo!! Katsu!!']
-animeCharacters	[b'Nanbu, Chitose', b'Kazusano, Kazuki', b'Satonaka, Ikkou', b'Sugai, Hinata', b'Amanogawa, Haruka', b'Atouda, Yuuko', b'Ikuina, Sumi', b'Sugai, Sakura', b'Kawahara, Joutoku']
-animeVoices	[b'\nNakahara, Mai\nJapanese\n', b'\nSanada, Asami\nJapanese\n', b'\nSuzuki, Chihiro\nJapanese\n', b'\nShintani, Ryouko\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nHiguchi, Chieko\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nNanao, Haruhi\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMotonaga, Keitarou\n\nDirector\n\n']
+animePopularity	4757
+animeDescription	A behind the scenes special of all the main characters in Amaenaide yo!! Katsu!!, where they give their own personal feelings about their past experiences with the show, as well as their working experiences with their fellow cast members.
+animeRelated	['Amaenaide yo!! Katsu!!']
+animeCharacters	['Nanbu, Chitose', 'Kazusano, Kazuki', 'Satonaka, Ikkou', 'Sugai, Hinata', 'Amanogawa, Haruka', 'Atouda, Yuuko', 'Ikuina, Sumi', 'Sugai, Sakura', 'Kawahara, Joutoku']
+animeVoices	['Nakahara, Mai', 'Sanada, Asami', 'Suzuki, Chihiro', 'Shintani, Ryouko', 'Watanabe, Akeno', 'Higuchi, Chieko', 'Kawakami, Tomoko', 'Nanao, Haruhi', 'Sugiyama, Kazuko']
+animeStaff	[['Motonaga, Keitarou', 'Director']]

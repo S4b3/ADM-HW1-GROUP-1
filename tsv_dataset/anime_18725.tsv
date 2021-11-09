@@ -1,5 +1,5 @@
-animeTitle	b'Kibun Kibun'
-animeType	b'OVA'
+animeTitle	Kibun Kibun
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.63
 animeUsers	448
 animeRank	
-animePopularity	
-animeDescription	b'Adapted from the manga of the same name, Kibun Kibun deals with the normal life and problems of a young couple, with a mixture of comic situations along the way.\n\n(Source: The Unofficial LineMarvel Forums)'
+animePopularity	10232
+animeDescription	"Adapted from the manga of the same name, Kibun Kibun deals with the normal life and problems of a young couple, with a mixture of comic situations along the way.
+
+(Source: The Unofficial LineMarvel Forums)"
 animeRelated	[]
-animeCharacters	[b'Michiko, Kayama']
-animeVoices	[b'\nRyou, Nagumo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDitama, Bow\n\nOriginal Creator\n\n', b'\nArai, Kazuhiro\n\nArt Director\n\n']
+animeCharacters	['Michiko, Kayama']
+animeVoices	['Ryou, Nagumo']
+animeStaff	[['Ditama, Bow', 'Original Creator'], ['Arai, Kazuhiro', 'Art Director']]

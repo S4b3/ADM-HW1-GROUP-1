@@ -1,5 +1,5 @@
-animeTitle	b'Norn9: Norn+Nonet Recap'
-animeType	b'Special'
+animeTitle	Norn9: Norn+Nonet Recap
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.15
 animeUsers	2082
 animeRank	
-animePopularity	
-animeDescription	b'Recap of episodes 1-9 of Norn9: Norn+Nonet.'
-animeRelated	[b'Norn9: Norn+Nonet']
-animeCharacters	[b'Yuiga, Kakeru', b'Ichinose, Senri', b'Shukuri, Akito']
+animePopularity	6736
+animeDescription	Recap of episodes 1-9 of Norn9: Norn+Nonet.
+animeRelated	['Norn9: Norn+Nonet']
+animeCharacters	['Yuiga, Kakeru', 'Ichinose, Senri', 'Shukuri, Akito']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYanagi, Nagi\n\nTheme Song Performance\n\n', b'\nOda, Kaori\n\nTheme Song Performance\n\n']
+animeStaff	[['Yanagi, Nagi', 'Theme Song Performance'], ['Oda, Kaori', 'Theme Song Performance']]

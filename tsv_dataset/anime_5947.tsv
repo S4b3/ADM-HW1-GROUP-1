@@ -1,5 +1,5 @@
-animeTitle	b'Tales of the Abyss Special Fan Disc'
-animeType	b'Special'
+animeTitle	Tales of the Abyss Special Fan Disc
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.54
 animeUsers	1202
 animeRank	
-animePopularity	
-animeDescription	"b'Two short ""skit-type"" anime:\nEpisode 1: ""Meii Jade? (Great Doctor Jade?)""\nEpisode 2: ""Goshujin-sama to Maid (Master and Maid)"" '"
-animeRelated	[b'Tales of the Abyss']
-animeCharacters	[b'Fon Fabre, Luke', b'Curtiss, Jade', b'Grants, Tear', b'Asch', b'Cecil, Guy', b'Tatlin, Anise', b'Luzu Kimlasca Lanvaldear, Natalia', b'Mieu']
-animeVoices	[b'\nSuzuki, Chihiro\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nYukana\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nMomoi, Haruko\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nMaruyama, Miki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nBandai-Namco\n\nOriginal Creator\n\n']
+animePopularity	7479
+animeDescription	"Two short ""skit-type"" anime:
+Episode 1: ""Meii Jade? (Great Doctor Jade?)""
+Episode 2: ""Goshujin-sama to Maid (Master and Maid)"" "
+animeRelated	['Tales of the Abyss']
+animeCharacters	['Fon Fabre, Luke', 'Curtiss, Jade', 'Grants, Tear', 'Asch', 'Cecil, Guy', 'Tatlin, Anise', 'Luzu Kimlasca Lanvaldear, Natalia', 'Mieu']
+animeVoices	['Suzuki, Chihiro', 'Koyasu, Takehito', 'Yukana', 'Matsumoto, Yasunori', 'Momoi, Haruko', 'Neya, Michiko', 'Maruyama, Miki']
+animeStaff	[['Bandai-Namco', 'Original Creator']]

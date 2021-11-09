@@ -1,5 +1,5 @@
-animeTitle	b'Ch\xc3\xa4oS;Child Episode 0'
-animeType	b'Special'
+animeTitle	ChäoS;Child Episode 0
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.25
 animeUsers	10133
 animeRank	
-animePopularity	
-animeDescription	b'A recap of Ch\xc3\xa4oS;HEAd that aired along with episode 1 of Ch\xc3\xa4oS;Child as part of a one-hour special.'
-animeRelated	[b'Ch\xc3\xa4oS;HEAd', b'Ch\xc3\xa4oS;Child']
-animeCharacters	[b'Nishijou, Takumi', b'Sakihata, Rimi', b'Shogun', b'Miyashiro, Takuru', b'Aoi, Sena', b'Nishijou, Nanami', b'Shino, Hazuki', b'Takashina, Fumio']
-animeVoices	[b'\nYoshino, Hiroyuki\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nYonaga, Tsubasa\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nMiyazaki, Ui\nJapanese\n', b'\nAoki, Noriko\nJapanese\n', b'\nIshida, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItou, Kanako\n\nTheme Song Performance\n\n', b'\nShikura, Chiyomaru\n\nTheme Song Lyrics, Theme Song Composition, Original Creator\n\n', b'\nMcDonald, Joel\n\nADR Director\n\n', b'\nFukunaga, Gen\n\nExecutive Producer\n\n']
+animePopularity	3934
+animeDescription	A recap of ChäoS;HEAd that aired along with episode 1 of ChäoS;Child as part of a one-hour special.
+animeRelated	['ChäoS;HEAd', 'ChäoS;Child']
+animeCharacters	['Nishijou, Takumi', 'Sakihata, Rimi', 'Shogun', 'Miyashiro, Takuru', 'Aoi, Sena', 'Nishijou, Nanami', 'Shino, Hazuki', 'Takashina, Fumio']
+animeVoices	['Yoshino, Hiroyuki', 'Kitamura, Eri', 'Yonaga, Tsubasa', 'Matsuoka, Yoshitsugu', 'Nabatame, Hitomi', 'Miyazaki, Ui', 'Aoki, Noriko', 'Ishida, Akira']
+animeStaff	[['Itou, Kanako', 'Theme Song Performance'], ['Shikura, Chiyomaru', 'Theme Song Lyrics, Theme Song Composition, Original Creator'], ['McDonald, Joel', 'ADR Director'], ['Fukunaga, Gen', 'Executive Producer']]

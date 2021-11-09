@@ -1,5 +1,5 @@
-animeTitle	b'One Piece: Yume no Soccer Ou!'
-animeType	b'Movie'
+animeTitle	One Piece: Yume no Soccer Ou!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.15
 animeUsers	20578
 animeRank	
-animePopularity	
-animeDescription	b'Luffy and his crew take on the Villain All-Stars in a game of soccer in order to become the Dream Soccer King. The game comes down to a pk tie-breaker shoot-out with Coby as goalie and Helmeppo refereeing.\n\n(Source: ANN) '
-animeRelated	[b'One Piece', b'One Piece Movie 3: Chinjuu-jima no Chopper Oukoku']
-animeCharacters	[b'Monkey D., Luffy', b'Roronoa, Zoro', b'Sanji', b'Tony Tony, Chopper', b'Usopp', b'Nami', b'Bentham', b'Buggy', b'Nefertari, Vivi', b'Carue']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nWatanabe, Misa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakai, Munehisa\n\nDirector\n\n', b'\nOda, Eiichiro\n\nOriginal Creator\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n', b'\nHamaguchi, Shirou\n\nMusic\n\n']
+animePopularity	2916
+animeDescription	"Luffy and his crew take on the Villain All-Stars in a game of soccer in order to become the Dream Soccer King. The game comes down to a pk tie-breaker shoot-out with Coby as goalie and Helmeppo refereeing.
+
+(Source: ANN) "
+animeRelated	['One Piece', 'One Piece Movie 3: Chinjuu-jima no Chopper Oukoku']
+animeCharacters	['Monkey D., Luffy', 'Roronoa, Zoro', 'Sanji', 'Tony Tony, Chopper', 'Usopp', 'Nami', 'Bentham', 'Buggy', 'Nefertari, Vivi', 'Carue']
+animeVoices	['Tanaka, Mayumi', 'Nakai, Kazuya', 'Hirata, Hiroaki', 'Ootani, Ikue', 'Yamaguchi, Kappei', 'Okamura, Akemi', 'Yao, Kazuki', 'Chiba, Shigeru', 'Watanabe, Misa']
+animeStaff	[['Sakai, Munehisa', 'Director'], ['Oda, Eiichiro', 'Original Creator'], ['Tanaka, Kouhei', 'Music'], ['Hamaguchi, Shirou', 'Music']]

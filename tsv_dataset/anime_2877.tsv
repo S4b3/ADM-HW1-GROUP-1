@@ -1,5 +1,5 @@
-animeTitle	b'GS Mikami'
-animeType	b'TV'
+animeTitle	GS Mikami
+animeType	TV
 animeNumEpisode	45
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.2
 animeUsers	3599
 animeRank	
-animePopularity	
-animeDescription	"b'In a world plagued with malicious ghosts, how is it possible to combat the existence of such evil spirits? The answer is to hire a ""Ghost Sweeper""\xe2\x80\x94a professional exorcist, whose duty is to exterminate any unwanted ghoul or poltergeist.\n\nWhen it comes to Ghost Sweepers, Reiko Mikami is considered to be a cut above the rest. After receiving an offer to examine a haunting near Jinkotsu Hot Spring, she sets off to put her skills to work. Accompanied by her assistants, the underpaid and perverted high school student Tadao Yokoshima and the friendly teenage ghost Kinu Himuro, GS Mikami details the wacky exploits and adventures of these three as they go about investigating paranormal activities.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'GS Mikami Gokuraku Daisakusen!!', b'GS Mikami: Gokuraku Daisakusen!!']
-animeCharacters	[b'Mikami, Reiko', b'Yokoshima, Tadao', b'Himuro, Kinu', b'Maria', b'Namiko', b'Teresa', b'Ryugaki, Reika', b'Yakuchin', b'Karasu, Kazuhiro', b'Rokudo, Meiko']
-animeVoices	[b'\nTsuru, Hiromi\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nKouda, Mariko\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nKawamura, Maria\nJapanese\n', b'\nYamamoto, Yuriko\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nSogabe, Kazuyuki\nJapanese\n', b'\nNishihara, Kumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSeki, Hiromi\n\nProducer\n\n', b'\nUmezawa, Atsutoshi\n\nDirector, Episode Director, Storyboard\n\n', b'\nShimizu, Junji\n\nEpisode Director\n\n', b'\nYamayoshi, Yasuo\n\nEpisode Director, Storyboard\n\n']
+animePopularity	5095
+animeDescription	"In a world plagued with malicious ghosts, how is it possible to combat the existence of such evil spirits? The answer is to hire a ""Ghost Sweeper""—a professional exorcist, whose duty is to exterminate any unwanted ghoul or poltergeist.
+
+When it comes to Ghost Sweepers, Reiko Mikami is considered to be a cut above the rest. After receiving an offer to examine a haunting near Jinkotsu Hot Spring, she sets off to put her skills to work. Accompanied by her assistants, the underpaid and perverted high school student Tadao Yokoshima and the friendly teenage ghost Kinu Himuro, GS Mikami details the wacky exploits and adventures of these three as they go about investigating paranormal activities.
+
+[Written by MAL Rewrite]"
+animeRelated	['GS Mikami Gokuraku Daisakusen!!', 'GS Mikami: Gokuraku Daisakusen!!']
+animeCharacters	['Mikami, Reiko', 'Yokoshima, Tadao', 'Himuro, Kinu', 'Maria', 'Namiko', 'Teresa', 'Ryugaki, Reika', 'Yakuchin', 'Karasu, Kazuhiro', 'Rokudo, Meiko']
+animeVoices	['Tsuru, Hiromi', 'Horikawa, Ryo', 'Kouda, Mariko', 'Yamazaki, Wakana', 'Kawamura, Maria', 'Yamamoto, Yuriko', 'Chafurin', 'Sogabe, Kazuyuki', 'Nishihara, Kumiko']
+animeStaff	[['Seki, Hiromi', 'Producer'], ['Umezawa, Atsutoshi', 'Director, Episode Director, Storyboard'], ['Shimizu, Junji', 'Episode Director'], ['Yamayoshi, Yasuo', 'Episode Director, Storyboard']]

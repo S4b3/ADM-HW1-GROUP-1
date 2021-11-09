@@ -1,5 +1,5 @@
-animeTitle	b'Senkou no Night Raid Specials'
-animeType	b'Special'
+animeTitle	Senkou no Night Raid Specials
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.87
 animeUsers	2237
 animeRank	
-animePopularity	
-animeDescription	b'Three un-aired episodes included on the BD/DVD volumes. See More Info for an episode list.'
-animeRelated	[b'Senkou no Night Raid']
-animeCharacters	[b'Miyoshi, Aoi', b'Iha, Kazura', b'Sonogi, Yukina', b'Kagiya, Natsume', b'Yusa, Shizune', b'Sakurai, Shinichirou']
-animeVoices	[b'\nYoshino, Hiroyuki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nIkuta, Yoshiko\nJapanese\n', b'\nHoshino, Takanori\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nOobayashi, Ryuusuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAyres, Christopher\n\nADR Director\n\n', b'\nSasaki, Keigo\n\nCharacter Design\n\n', b'\nHakase, Taro\n\nMusic\n\n', b'\nLedford, John\n\nExecutive Producer\n\n']
+animePopularity	6933
+animeDescription	Three un-aired episodes included on the BD/DVD volumes. See More Info for an episode list.
+animeRelated	['Senkou no Night Raid']
+animeCharacters	['Miyoshi, Aoi', 'Iha, Kazura', 'Sonogi, Yukina', 'Kagiya, Natsume', 'Yusa, Shizune', 'Sakurai, Shinichirou']
+animeVoices	['Yoshino, Hiroyuki', 'Namikawa, Daisuke', 'Ikuta, Yoshiko', 'Hoshino, Takanori', 'Kawasumi, Ayako', 'Oobayashi, Ryuusuke']
+animeStaff	[['Ayres, Christopher', 'ADR Director'], ['Sasaki, Keigo', 'Character Design'], ['Hakase, Taro', 'Music'], ['Ledford, John', 'Executive Producer']]

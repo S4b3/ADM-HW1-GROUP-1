@@ -1,5 +1,5 @@
-animeTitle	b'Gundam Build Fighters: GM no Gyakushuu'
-animeType	b'ONA'
+animeTitle	Gundam Build Fighters: GM no Gyakushuu
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.17
 animeUsers	3938
 animeRank	
-animePopularity	
-animeDescription	"b""The day before the ceremony marking the completion of the Yajima Stadium, Nils Nielsen invites Sei Iori, Meijin Kawaguchi, and others to an exhibition battle using the new large-scale battle system he has designed. Now that they are all reunited, Sei attempts to show off the Build Strike Cosmos that he has upgraded for the exhibition, but then he notices something missing... Meanwhile, somebody takes control of the stadium's systems, sealing Sei and the others inside. Before them appears a mysterious group, which has come to challenge them to Gunpla Battle.\n\n(Source: Sunrise)"""
-animeRelated	[b'Gundam Build Fighters', b'Gundam Build Fighters Try', b'Gundam Build Fighters: Battlogue']
-animeCharacters	[b'Reiji', b'Yuuki, Tatsuya', b'Iori, Sei', b'Fellini, Ricardo', b'Kousaka, China', b'Yasaka, Mao', b'Nielsen, Nils', b'Mihoshi', b'Misaki', b'Gawain']
-animeVoices	[b'\nKokuryu, Sachi\nJapanese\n', b'\nSatou, Takuya\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nIshikawa, Yui\nJapanese\n', b'\nFujii, Minami\nJapanese\n', b'\nTachibana, Shinnosuke\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nSusaki, Shigeyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nBACK-ON\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nHayashi, Yuuki\n\nMusic\n\n', b'\nTakase, Kenichi\n\nKey Animation\n\n']
+animePopularity	5861
+animeDescription	"The day before the ceremony marking the completion of the Yajima Stadium, Nils Nielsen invites Sei Iori, Meijin Kawaguchi, and others to an exhibition battle using the new large-scale battle system he has designed. Now that they are all reunited, Sei attempts to show off the Build Strike Cosmos that he has upgraded for the exhibition, but then he notices something missing... Meanwhile, somebody takes control of the stadium's systems, sealing Sei and the others inside. Before them appears a mysterious group, which has come to challenge them to Gunpla Battle.
+
+(Source: Sunrise)"
+animeRelated	['Gundam Build Fighters', 'Gundam Build Fighters Try', 'Gundam Build Fighters: Battlogue']
+animeCharacters	['Reiji', 'Yuuki, Tatsuya', 'Iori, Sei', 'Fellini, Ricardo', 'Kousaka, China', 'Yasaka, Mao', 'Nielsen, Nils', 'Mihoshi', 'Misaki', 'Gawain']
+animeVoices	['Kokuryu, Sachi', 'Satou, Takuya', 'Komatsu, Mikako', 'Nakamura, Yuuichi', 'Ishikawa, Yui', 'Fujii, Minami', 'Tachibana, Shinnosuke', 'Yuuki, Aoi', 'Shiraishi, Ryouko', 'Susaki, Shigeyuki']
+animeStaff	[['BACK-ON', 'Theme Song Performance, Inserted Song Performance'], ['Hayashi, Yuuki', 'Music'], ['Takase, Kenichi', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Gundam Build Fighters'
-animeType	b'TV'
+animeTitle	Gundam Build Fighters
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.75
 animeUsers	32460
 animeRank	
-animePopularity	
-animeDescription	b'Though Gundam Plastic Models, better known as Gunpla, exploded in popularity with the release of the anime series Mobile Suit Gundam, their presence faded before resurging with a new purpose. Through the power of Plavsky particles, fans are now able to pit their Gunpla against others in a virtual reality-style battle with the best competing at the annual Gunpla World Tournament. \n\nSei Iori, whose father was a once finalist in the competition, dreams of one day conquering the contest himself. However, while Sei is an expert Gunpla builder, he lacks the prowess to effectively fight his creations during actual battle. In comes Reiji, a mysterious boy who is curiously ignorant of society but quickly demonstrates to Sei tremendous ability in Gunpla battles. The two boys decide to combine their strengths in order to sweep the Gunpla World Tournament and take the Gunpla world by storm.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Gundam Build Fighters', b'Mobile Suit Gundam', b'Mokei Senshi Gunpla Builders Beginning G', b'Gundam Build Fighters Try', b'Gundam Build Fighters: GM no Gyakushuu', b'Gundam Build Fighters Specials', b'Gundam Build Fighters: Battlogue', b'Gundam Build Divers']
-animeCharacters	[b'Reiji', b'Iori, Sei', b'Jyrki\xc3\xa4inen, Aila', b'Iori, Rinko', b'Yuuki, Tatsuya', b'Fellini, Ricardo', b'Kousaka, China', b'Ral', b'Yasaka, Mao', b'Mihoshi']
-animeVoices	[b'\nKokuryu, Sachi\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nSatou, Takuya\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nIshikawa, Yui\nJapanese\n', b'\nHirose, Masashi\nJapanese\n', b'\nFujii, Minami\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagasaki, Kenji\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nMinami, Yasuhiro\n\nEpisode Director\n\n', b'\nNishizawa, Susumu\n\nStoryboard\n\n']
+animePopularity	2159
+animeDescription	"Though Gundam Plastic Models, better known as Gunpla, exploded in popularity with the release of the anime series Mobile Suit Gundam, their presence faded before resurging with a new purpose. Through the power of Plavsky particles, fans are now able to pit their Gunpla against others in a virtual reality-style battle with the best competing at the annual Gunpla World Tournament. 
+
+Sei Iori, whose father was a once finalist in the competition, dreams of one day conquering the contest himself. However, while Sei is an expert Gunpla builder, he lacks the prowess to effectively fight his creations during actual battle. In comes Reiji, a mysterious boy who is curiously ignorant of society but quickly demonstrates to Sei tremendous ability in Gunpla battles. The two boys decide to combine their strengths in order to sweep the Gunpla World Tournament and take the Gunpla world by storm.
+
+[Written by MAL Rewrite]"
+animeRelated	['Gundam Build Fighters', 'Mobile Suit Gundam', 'Mokei Senshi Gunpla Builders Beginning G', 'Gundam Build Fighters Try', 'Gundam Build Fighters: GM no Gyakushuu', 'Gundam Build Fighters Specials', 'Gundam Build Fighters: Battlogue', 'Gundam Build Divers']
+animeCharacters	['Reiji', 'Iori, Sei', 'Jyrkiäinen, Aila', 'Iori, Rinko', 'Yuuki, Tatsuya', 'Fellini, Ricardo', 'Kousaka, China', 'Ral', 'Yasaka, Mao', 'Mihoshi']
+animeVoices	['Kokuryu, Sachi', 'Komatsu, Mikako', 'Hayami, Saori', 'Mitsuishi, Kotono', 'Satou, Takuya', 'Nakamura, Yuuichi', 'Ishikawa, Yui', 'Hirose, Masashi', 'Fujii, Minami', 'Yuuki, Aoi']
+animeStaff	[['Nagasaki, Kenji', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Minami, Yasuhiro', 'Episode Director'], ['Nishizawa, Susumu', 'Storyboard']]

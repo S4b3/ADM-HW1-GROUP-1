@@ -1,5 +1,5 @@
-animeTitle	b'Meganebu!'
-animeType	b'TV'
+animeTitle	Meganebu!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.27
 animeUsers	8042
 animeRank	
-animePopularity	
-animeDescription	"b""At Himaraya Third Technical School, five bespectacled members of the Glasses club are crazy about eyewear. Their leader, Akira Souma, founded the club to develop the X-ray glasses of his dreams, but their research has been slow in between getting into quirky escapades and fighting off student body president William Satou's attempts to further cut their tight club funding. With unbounded youthful passion, these friends set their minds on making their project a resounding success.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Meganebu!: Sekai wa Lens Goshi ni Kagayaku!!', b'Meganebu!: Seitokai yori Ai wo Komete']
-animeCharacters	[b'Minabe, Yukiya', b'Souma, Akira', b'Hachimine, Takuma', b'Kimata, Hayato', b'Kamatani, Mitsuki', b'Souma, Hikaru', b'Shirogane, Hotaka', b'Satou, William', b'Kira High School Gang Leader', b'Mochizuki, Koichi']
-animeVoices	[b'\nSuwabe, Junichi\nJapanese\n', b'\nAkabane, Kenji\nJapanese\n', b'\nTamaru, Atsushi\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nKousaka, Atsushi\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nTakahashi, Hidenori\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Soubi\n\nDirector\n\n', b'\nTakeshita, Ryouhei\n\nEpisode Director\n\n', b'\nWatanabe, Odahiro\n\nStoryboard, Key Animation\n\n', b'\nOhata, Kiyotaka\n\nStoryboard\n\n']
+animePopularity	3335
+animeDescription	"At Himaraya Third Technical School, five bespectacled members of the Glasses club are crazy about eyewear. Their leader, Akira Souma, founded the club to develop the X-ray glasses of his dreams, but their research has been slow in between getting into quirky escapades and fighting off student body president William Satou's attempts to further cut their tight club funding. With unbounded youthful passion, these friends set their minds on making their project a resounding success.
+
+[Written by MAL Rewrite]"
+animeRelated	['Meganebu!: Sekai wa Lens Goshi ni Kagayaku!!', 'Meganebu!: Seitokai yori Ai wo Komete']
+animeCharacters	['Minabe, Yukiya', 'Souma, Akira', 'Hachimine, Takuma', 'Kimata, Hayato', 'Kamatani, Mitsuki', 'Souma, Hikaru', 'Shirogane, Hotaka', 'Satou, William', 'Kira High School Gang Leader', 'Mochizuki, Koichi']
+animeVoices	['Suwabe, Junichi', 'Akabane, Kenji', 'Tamaru, Atsushi', 'Kimura, Ryouhei', 'Miyata, Kouki', 'Kousaka, Atsushi', 'Yasumoto, Hiroki', 'Sugiyama, Noriaki', 'Takahashi, Hidenori', 'Toyonaga, Toshiyuki']
+animeStaff	[['Yamamoto, Soubi', 'Director'], ['Takeshita, Ryouhei', 'Episode Director'], ['Watanabe, Odahiro', 'Storyboard, Key Animation'], ['Ohata, Kiyotaka', 'Storyboard']]

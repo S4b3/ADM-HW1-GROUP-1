@@ -1,5 +1,5 @@
-animeTitle	b'Kantai Collection: KanColle'
-animeType	b'TV'
+animeTitle	Kantai Collection: KanColle
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.86
 animeUsers	79939
 animeRank	
-animePopularity	
-animeDescription	"b'With the seas under constant threat from the hostile ""Abyssal Fleet,"" a specialized naval base is established to counter them. Rather than standard naval weaponry, however, the base is armed with ""Kanmusu""\xe2\x80\x94girls who harbor the spirits of Japanese warships\xe2\x80\x94possessing the ability to don weaponized gear that allows them to harness the powerful souls within themselves. Fubuki, a young Destroyer-type Kanmusu, joins the base as a new recruit; unfortunately for her, despite her inexperience and timid nature, she is assigned to the famous Third Torpedo Squadron and quickly thrust into the heat of battle. When she is rescued from near annihilation, the rookie warship resolves to become as strong as the one who saved her.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Kantai Collection: KanColle Zoku-hen', b'KanColle Movie']
-animeCharacters	[b'Kongou', b'Yuudachi', b'Kaga', b'Fubuki', b'Akagi', b'Mutsuki', b'Shimakaze', b'Hibiki', b'Haruna', b'Yamato']
-animeVoices	[b'\nTouyama, Nao\nJapanese\n', b'\nTanibe, Yumi\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nFujita, Saki\nJapanese\n', b'\nHidaka, Rina\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nSuzaki, Aya\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWEST GROUND\n\nProducer, Theme Song Composition, Theme Song Arrangement\n\n', b'\nKusakawa, Keizou\n\nDirector\n\n', b'\nKosaka, Harume\n\nEpisode Director\n\n', b'\nHonda, Yoshino\n\nEpisode Director\n\n']
+animePopularity	904
+animeDescription	"With the seas under constant threat from the hostile ""Abyssal Fleet,"" a specialized naval base is established to counter them. Rather than standard naval weaponry, however, the base is armed with ""Kanmusu""—girls who harbor the spirits of Japanese warships—possessing the ability to don weaponized gear that allows them to harness the powerful souls within themselves. Fubuki, a young Destroyer-type Kanmusu, joins the base as a new recruit; unfortunately for her, despite her inexperience and timid nature, she is assigned to the famous Third Torpedo Squadron and quickly thrust into the heat of battle. When she is rescued from near annihilation, the rookie warship resolves to become as strong as the one who saved her.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kantai Collection: KanColle Zoku-hen', 'KanColle Movie']
+animeCharacters	['Kongou', 'Yuudachi', 'Kaga', 'Fubuki', 'Akagi', 'Mutsuki', 'Shimakaze', 'Hibiki', 'Haruna', 'Yamato']
+animeVoices	['Touyama, Nao', 'Tanibe, Yumi', 'Iguchi, Yuka', 'Uesaka, Sumire', 'Fujita, Saki', 'Hidaka, Rina', 'Sakura, Ayane', 'Suzaki, Aya', 'Taketatsu, Ayana']
+animeStaff	[['WEST GROUND', 'Producer, Theme Song Composition, Theme Song Arrangement'], ['Kusakawa, Keizou', 'Director'], ['Kosaka, Harume', 'Episode Director'], ['Honda, Yoshino', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ranma \xc2\xbd: Akumu! Shunmin Kou'
-animeType	b'OVA'
+animeTitle	Ranma ½: Akumu! Shunmin Kou
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.52
 animeUsers	5434
 animeRank	
-animePopularity	
-animeDescription	"b'Twelve years after the final OVA was shown, and the end of the manga, a new piece of Ranma \xc2\xbd animation was made for the ""It\'s a Rumic World"" exhibition of Rumiko Takahashi\'s artwork. The new 30 minute special is based on the ""Nightmare! Incense of Spring Sleep"" manga story from volume 34, and was shown on odd numbered days at the ""It\'s A Rumic World"" exhibition in Tokyo from July 30th to August 11th.\n\n(Source: Wikipedia)'"
-animeRelated	[b'Ranma \xc2\xbd']
-animeCharacters	[b'Saotome, Ranma', b'Tendou, Akane', b'Inuyasha', b'Miroku', b'Hibiki, Ryouga', b'Shampoo', b'Shippou', b'Kuonji, Ukyo', b'Tendou, Nabiki', b'Happosai']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nSakuma, Rei\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nTakayama, Minami\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMori, Takeshi\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nSatou, Teruo\n\nEpisode Director\n\n', b'\nMatsumoto, Norio\n\nKey Animation\n\n']
+animePopularity	4902
+animeDescription	"Twelve years after the final OVA was shown, and the end of the manga, a new piece of Ranma ½ animation was made for the ""It's a Rumic World"" exhibition of Rumiko Takahashi's artwork. The new 30 minute special is based on the ""Nightmare! Incense of Spring Sleep"" manga story from volume 34, and was shown on odd numbered days at the ""It's A Rumic World"" exhibition in Tokyo from July 30th to August 11th.
+
+(Source: Wikipedia)"
+animeRelated	['Ranma ½']
+animeCharacters	['Saotome, Ranma', 'Tendou, Akane', 'Inuyasha', 'Miroku', 'Hibiki, Ryouga', 'Shampoo', 'Shippou', 'Kuonji, Ukyo', 'Tendou, Nabiki', 'Happosai']
+animeVoices	['Hayashibara, Megumi', 'Hidaka, Noriko', 'Yamadera, Kouichi', 'Sakuma, Rei', 'Tsuru, Hiromi', 'Takayama, Minami', 'Nagai, Ichiro']
+animeStaff	[['Mori, Takeshi', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Satou, Teruo', 'Episode Director'], ['Matsumoto, Norio', 'Key Animation']]

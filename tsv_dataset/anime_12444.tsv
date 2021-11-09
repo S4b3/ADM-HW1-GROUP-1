@@ -1,5 +1,5 @@
-animeTitle	b'Norakuro Compilation OVA'
-animeType	b'OVA'
+animeTitle	Norakuro Compilation OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Recap compilation of the Norakuro series.'
-animeRelated	[b'Norakuro']
-animeCharacters	[b'Norakuro']
+animePopularity	15178
+animeDescription	Recap compilation of the Norakuro series.
+animeRelated	['Norakuro']
+animeCharacters	['Norakuro']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTagawa, Suihou\n\nOriginal Creator\n\n']
+animeStaff	[['Tagawa, Suihou', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen'
-animeType	b'Movie'
+animeTitle	Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.32
 animeUsers	88319
 animeRank	
-animePopularity	
-animeDescription	b'As Goku investigates the destruction of the Southern Galaxy, Vegeta is taken to be King of the New Planet Vegeta, and to destroy the Legendary Super Saiyan, Broly.\n\n(Source: ANN)'
-animeRelated	[b'Dragon Ball Z', b'Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai']
-animeCharacters	[b'Son, Gokuu', b'Vegeta', b'Son, Gohan', b'Future Trunks', b'Broly', b'Piccolo', b'Bulma', b'Muten-Roushi', b'Kuririn', b'Chi-Chi']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nShimada, Bin\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nMiyauchi, Kouhei\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nWatanabe, Naoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nYamauchi, Shigeyasu\n\nDirector, Storyboard\n\n', b'\nKoyama, Takao\n\nScript\n\n', b'\nKageyama, Hironobu\n\nTheme Song Performance\n\n']
+animePopularity	1271
+animeDescription	"As Goku investigates the destruction of the Southern Galaxy, Vegeta is taken to be King of the New Planet Vegeta, and to destroy the Legendary Super Saiyan, Broly.
+
+(Source: ANN)"
+animeRelated	['Dragon Ball Z', 'Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai']
+animeCharacters	['Son, Gokuu', 'Vegeta', 'Son, Gohan', 'Future Trunks', 'Broly', 'Piccolo', 'Bulma', 'Muten-Roushi', 'Kuririn', 'Chi-Chi']
+animeVoices	['Nozawa, Masako', 'Horikawa, Ryo', 'Kusao, Takeshi', 'Shimada, Bin', 'Furukawa, Toshio', 'Tsuru, Hiromi', 'Miyauchi, Kouhei', 'Tanaka, Mayumi', 'Watanabe, Naoko']
+animeStaff	[['Watson, Barry', 'Producer'], ['Yamauchi, Shigeyasu', 'Director, Storyboard'], ['Koyama, Takao', 'Script'], ['Kageyama, Hironobu', 'Theme Song Performance']]

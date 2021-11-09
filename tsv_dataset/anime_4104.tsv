@@ -1,5 +1,5 @@
-animeTitle	b'Mahoromatic End Year Special'
-animeType	b'Special'
+animeTitle	Mahoromatic End Year Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.92
 animeUsers	2655
 animeRank	
-animePopularity	
-animeDescription	b'Recap episode.'
-animeRelated	[b'Mahoromatic: Automatic Maiden']
-animeCharacters	[b'Andou, Mahoro', b'Misato, Suguru', b'Andou, Minawa', b'Slash', b'Shikijou, Saori', b'Ooe, Chizuko', b'Sakura, Miyuki', b'Hamaguchi, Toshiya', b'Kawahara, Kiyomi', b'Todoroki, Rin']
-animeVoices	[b'\nKawasumi, Ayako\nJapanese\n', b'\nKisaichi, Atsushi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakayama, Bunjuro\n\nOriginal Creator\n\n', b'\nTakashina, Yuka\n\nKey Animation\n\n']
+animePopularity	6400
+animeDescription	Recap episode.
+animeRelated	['Mahoromatic: Automatic Maiden']
+animeCharacters	['Andou, Mahoro', 'Misato, Suguru', 'Andou, Minawa', 'Slash', 'Shikijou, Saori', 'Ooe, Chizuko', 'Sakura, Miyuki', 'Hamaguchi, Toshiya', 'Kawahara, Kiyomi', 'Todoroki, Rin']
+animeVoices	['Kawasumi, Ayako', 'Kisaichi, Atsushi']
+animeStaff	[['Nakayama, Bunjuro', 'Original Creator'], ['Takashina, Yuka', 'Key Animation']]

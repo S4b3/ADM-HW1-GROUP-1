@@ -1,5 +1,5 @@
-animeTitle	b'Manga Kodomo Bunko'
-animeType	b'TV'
+animeTitle	Manga Kodomo Bunko
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""A collection of children's stories and tales from traditional Japanese folklore.\n\n(Source: AniDB)"""
+animePopularity	14646
+animeDescription	"A collection of children's stories and tales from traditional Japanese folklore.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Narrator']
-animeVoices	[b'\nKishida, Kyouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaeda, Tsuneo\n\nDirector\n\n', b'\nKobayashi, Osamu\n\nEpisode Director\n\n', b'\nHiguchi, Masakazu\n\nEpisode Director\n\n', b'\nColumbia Yurikago Kai\n\nTheme Song Performance, Inserted Song Performance\n\n']
+animeCharacters	['Narrator']
+animeVoices	['Kishida, Kyouko']
+animeStaff	[['Maeda, Tsuneo', 'Director'], ['Kobayashi, Osamu', 'Episode Director'], ['Higuchi, Masakazu', 'Episode Director'], ['Columbia Yurikago Kai', 'Theme Song Performance, Inserted Song Performance']]

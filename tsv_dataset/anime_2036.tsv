@@ -1,5 +1,5 @@
-animeTitle	b'Grimm Meisaku Gekijou'
-animeType	b'TV'
+animeTitle	Grimm Meisaku Gekijou
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.38
 animeUsers	1356
 animeRank	
-animePopularity	
-animeDescription	b'The series consists of mostly stand-alone episodes which retell different fairy or folk tales.  Despite the title, they are not all based on fairy tales collected by the Grimm Brothers.'
-animeRelated	[b'Grimm Masterpiece Theater II']
-animeCharacters	[b'Little Red Riding Hood', b'Snow White', b'Bluebeard', b'Gretel', b'Hansel', b'Joringel', b'Cinderella', b'Jorinda', b'Sultan']
-animeVoices	[b'\nHorie, Mitsuko\nJapanese\n', b'\nTamagawa, Sakiko\nJapanese\n', b'\nFujii, Kayoko\nJapanese\n', b'\nHori, Katsunosuke\nJapanese\n', b'\nHonda, Chieko\nJapanese\n', b'\nKoyama, Mami\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nYanami, Jouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKramer, Steve\n\nScript\n\n', b'\nMiyazaki, Akira\n\nStoryboard, Screenplay\n\n', b'\nAoki, Nozomi\n\nTheme Song Arrangement\n\n', b'\nHashimoto, Ushio\n\nTheme Song Performance\n\n']
+animePopularity	7700
+animeDescription	The series consists of mostly stand-alone episodes which retell different fairy or folk tales.  Despite the title, they are not all based on fairy tales collected by the Grimm Brothers.
+animeRelated	['Grimm Masterpiece Theater II']
+animeCharacters	['Little Red Riding Hood', 'Snow White', 'Bluebeard', 'Gretel', 'Hansel', 'Joringel', 'Cinderella', 'Jorinda', 'Sultan']
+animeVoices	['Horie, Mitsuko', 'Tamagawa, Sakiko', 'Fujii, Kayoko', 'Hori, Katsunosuke', 'Honda, Chieko', 'Koyama, Mami', 'Kikuchi, Masami', 'Tsuru, Hiromi', 'Yanami, Jouji']
+animeStaff	[['Kramer, Steve', 'Script'], ['Miyazaki, Akira', 'Storyboard, Screenplay'], ['Aoki, Nozomi', 'Theme Song Arrangement'], ['Hashimoto, Ushio', 'Theme Song Performance']]

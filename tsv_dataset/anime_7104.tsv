@@ -1,5 +1,5 @@
-animeTitle	b'Tentou Mushi no Uta'
-animeType	b'TV'
+animeTitle	Tentou Mushi no Uta
+animeType	TV
 animeNumEpisode	104
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.32
 animeUsers	183
 animeRank	
-animePopularity	
-animeDescription	b'The adventures of seven orphan who live in poverty, although they have a very rich grandfather.'
+animePopularity	12277
+animeDescription	The adventures of seven orphan who live in poverty, although they have a very rich grandfather.
 animeRelated	[]
-animeCharacters	[b'Isshuu, Mizuo', b'Isshuu, Tsuchimaru', b'Isshuu, Kintaro', b'Isshuu, Kaji', b'Isshuu, Tsukimi', b'Isshuu, Mokusuke', b'Yoichi', b'Soroku']
-animeVoices	[b'\nYamamoto, Yoshiko\nJapanese\n', b'\nMaruyama, Hiroko\nJapanese\n', b'\nTsukase, Noriko\nJapanese\n', b'\nYasuhara, Yoshito\nJapanese\n', b'\nOkamoto, Mari\nJapanese\n', b'\nYamashita, Keisuke\nJapanese\n', b'\nMasuoka, Hiroshi\nJapanese\n', b'\nOotake, Hiroshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nShiba, Shigeharu\n\nSound Director\n\n', b'\nNunokawa, Yuuji\n\nEpisode Director\n\n', b'\nAnnou, Masami\n\nEpisode Director\n\n']
+animeCharacters	['Isshuu, Mizuo', 'Isshuu, Tsuchimaru', 'Isshuu, Kintaro', 'Isshuu, Kaji', 'Isshuu, Tsukimi', 'Isshuu, Mokusuke', 'Yoichi', 'Soroku']
+animeVoices	['Yamamoto, Yoshiko', 'Maruyama, Hiroko', 'Tsukase, Noriko', 'Yasuhara, Yoshito', 'Okamoto, Mari', 'Yamashita, Keisuke', 'Masuoka, Hiroshi', 'Ootake, Hiroshi']
+animeStaff	[['Sasagawa, Hiroshi', 'Director'], ['Shiba, Shigeharu', 'Sound Director'], ['Nunokawa, Yuuji', 'Episode Director'], ['Annou, Masami', 'Episode Director']]

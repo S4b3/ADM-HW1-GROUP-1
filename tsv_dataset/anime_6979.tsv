@@ -1,5 +1,5 @@
-animeTitle	b'Jakusansei Million Arthur'
-animeType	b'ONA'
+animeTitle	Jakusansei Million Arthur
+animeType	ONA
 animeNumEpisode	60
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.34
 animeUsers	237
 animeRank	
-animePopularity	
-animeDescription	b'During the live-stream of the Majo Labo! program, it was announced that Kakusansei Million Arthur will be receiving an ONA adaptation. The ONA will be based on the official 4-koma web comic and will run for four cours, debuting in Fall.\n\nKakusansei Million Arthur is a card-battle game based on the legend of King Arthur. One million people also claim this title, wielding their own Excalibur. Developed by Square Enix, the game was originally released on iOS and Android in 2012 and since received a PlayStation Vita and Nintendo 3DS version in 2014.\n\nThe comic is based on the game and is drawn by Choboraunyopomi (Ai Mai Mi). It was published online in October 2014 and currently, there are 17 chapters.\n\n(Source: MAL News)'
-animeRelated	[b'Jakusansei Million Arthur Specials', b'Jakusansei Million Arthur: Forever Kakusansei Million Arthur', b'Hangyakusei Million Arthur']
-animeCharacters	[b'Youhei Arthur', b'Fugou Arthur', b'Touzoku Arthur', b'Utahime Arthur', b'Elle ', b'Lion', b'Horse', b'Galahad', b'Uathach', b'Uther']
-animeVoices	[b'\nAbe, Atsushi\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMankyuu\n\nDirector\n\n', b'\nKoizumi, Kisuke\n\nSound Director\n\n', b'\nChoboraunyopomi\n\nOriginal Character Design\n\n', b'\nMisawa, Yasuhiro\n\nMusic\n\n']
+animePopularity	10119
+animeDescription	"During the live-stream of the Majo Labo! program, it was announced that Kakusansei Million Arthur will be receiving an ONA adaptation. The ONA will be based on the official 4-koma web comic and will run for four cours, debuting in Fall.
+
+Kakusansei Million Arthur is a card-battle game based on the legend of King Arthur. One million people also claim this title, wielding their own Excalibur. Developed by Square Enix, the game was originally released on iOS and Android in 2012 and since received a PlayStation Vita and Nintendo 3DS version in 2014.
+
+The comic is based on the game and is drawn by Choboraunyopomi (Ai Mai Mi). It was published online in October 2014 and currently, there are 17 chapters.
+
+(Source: MAL News)"
+animeRelated	['Jakusansei Million Arthur Specials', 'Jakusansei Million Arthur: Forever Kakusansei Million Arthur', 'Hangyakusei Million Arthur']
+animeCharacters	['Youhei Arthur', 'Fugou Arthur', 'Touzoku Arthur', 'Utahime Arthur', 'Elle ', 'Lion', 'Horse', 'Galahad', 'Uathach', 'Uther']
+animeVoices	['Abe, Atsushi', 'Okamoto, Nobuhiko', 'Sakura, Ayane', 'Uchida, Maaya', 'Iguchi, Yuka', 'Nakata, Jouji', 'Koyama, Rikiya', 'Hanazawa, Kana', 'Kanemoto, Hisako']
+animeStaff	[['Mankyuu', 'Director'], ['Koizumi, Kisuke', 'Sound Director'], ['Choboraunyopomi', 'Original Character Design'], ['Misawa, Yasuhiro', 'Music']]

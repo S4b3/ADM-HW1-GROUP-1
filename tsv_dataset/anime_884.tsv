@@ -1,5 +1,5 @@
-animeTitle	b'Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu'
-animeType	b'Movie'
+animeTitle	Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.78
 animeUsers	3978
 animeRank	
-animePopularity	
-animeDescription	"b'Adult people all over Japan had been captivated by 20th Century Expo, theme parks that reenacted good old days of the 1970s (the last days of Japan\'s high economic growth). One day the adults disappeared into the theme parks, leaving their children abandoned. That was a plot by ""Yesterday Once More,"" an organization who despises the 21st century and tries to bring Japan back to the 20th century with the dreams and hopes. Shinnosuke and his parents, Hiroshi and Misae, fight against the plot of ""Yesterday Once More"" in order to live together with family in the 21st century.\n\n(Source: Manabu Tsuribe)'"
-animeRelated	[b'Crayon Shin-chan', b'Crayon Shin-chan Movie 10: Arashi wo Yobu Appare! Sengoku Daikassen', b'Crayon Shin-chan Movie 08: Arashi wo Yobu Jungle']
-animeCharacters	[b'Nohara, Shinnosuke', b'Nohara, Hiroshi', b'Nohara, Misae', b'Nohara, Himawari', b'Boo-chan', b'Kazama, Tooru', b'Sakurada, Nene', b'Sato, Masao', b'Matsuzaka, Ume', b'Nohara, Ginnosuke']
-animeVoices	[b'\nYajima, Akiko\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nNarahashi, Miki\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nSatou, Chie\nJapanese\n', b'\nMashiba, Mari\nJapanese\n', b'\nHayashi, Tamao\nJapanese\n', b'\nIchiryuusai, Teiyuu\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nMatsuo, Ginzou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHara, Keiichi\n\nDirector, Script, Storyboard\n\n', b'\nMizushima, Tsutomu\n\nEpisode Director\n\n', b'\nShiramine, Mitsuko\n\nTheme Song Lyrics\n\n', b'\nUsui, Yoshito\n\nOriginal Creator\n\n']
+animePopularity	6000
+animeDescription	"Adult people all over Japan had been captivated by 20th Century Expo, theme parks that reenacted good old days of the 1970s (the last days of Japan's high economic growth). One day the adults disappeared into the theme parks, leaving their children abandoned. That was a plot by ""Yesterday Once More,"" an organization who despises the 21st century and tries to bring Japan back to the 20th century with the dreams and hopes. Shinnosuke and his parents, Hiroshi and Misae, fight against the plot of ""Yesterday Once More"" in order to live together with family in the 21st century.
+
+(Source: Manabu Tsuribe)"
+animeRelated	['Crayon Shin-chan', 'Crayon Shin-chan Movie 10: Arashi wo Yobu Appare! Sengoku Daikassen', 'Crayon Shin-chan Movie 08: Arashi wo Yobu Jungle']
+animeCharacters	['Nohara, Shinnosuke', 'Nohara, Hiroshi', 'Nohara, Misae', 'Nohara, Himawari', 'Boo-chan', 'Kazama, Tooru', 'Sakurada, Nene', 'Sato, Masao', 'Matsuzaka, Ume', 'Nohara, Ginnosuke']
+animeVoices	['Yajima, Akiko', 'Fujiwara, Keiji', 'Narahashi, Miki', 'Koorogi, Satomi', 'Satou, Chie', 'Mashiba, Mari', 'Hayashi, Tamao', 'Ichiryuusai, Teiyuu', 'Tomizawa, Michie', 'Matsuo, Ginzou']
+animeStaff	[['Hara, Keiichi', 'Director, Script, Storyboard'], ['Mizushima, Tsutomu', 'Episode Director'], ['Shiramine, Mitsuko', 'Theme Song Lyrics'], ['Usui, Yoshito', 'Original Creator']]

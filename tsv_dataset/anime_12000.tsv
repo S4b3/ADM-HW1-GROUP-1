@@ -1,5 +1,5 @@
-animeTitle	b'Good-by Elvis and USA'
-animeType	b'Movie'
+animeTitle	Good-by Elvis and USA
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	3.05
 animeUsers	773
 animeRank	
-animePopularity	
-animeDescription	b'A chaotic mixture of hand-drawn animation and magazine cut-outs appropriating American pop culture. With a soundtrack involving music and sounds played in reverse, iconography of war and pop culture are intercut or merged together with images of eroticism and consumption. The film screened at the 3rd Sogetsu Animation Festival 1971.\n\n(Source: Collaborative Cataloging Japan)'
+animePopularity	10588
+animeDescription	"A chaotic mixture of hand-drawn animation and magazine cut-outs appropriating American pop culture. With a soundtrack involving music and sounds played in reverse, iconography of war and pop culture are intercut or merged together with images of eroticism and consumption. The film screened at the 3rd Sogetsu Animation Festival 1971.
+
+(Source: Collaborative Cataloging Japan)"
 animeRelated	[]
-animeCharacters	[b'Presley, Elvis']
+animeCharacters	['Presley, Elvis']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaami, Keiichi\n\nDirector\n\n', b'\nPresley, Elvis\n\nMusic\n\n']
+animeStaff	[['Tanaami, Keiichi', 'Director'], ['Presley, Elvis', 'Music']]

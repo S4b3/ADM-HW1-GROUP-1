@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam Thunderbolt'
-animeType	b'ONA'
+animeTitle	Mobile Suit Gundam Thunderbolt
+animeType	ONA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.94
 animeUsers	22048
 animeRank	
-animePopularity	
-animeDescription	"b""In Universal Century 0079, forces of the Earth Federation and Principality of Zeon engage in a battle within the Thunderbolt Sector during the One Year War. This section of space\xe2\x80\x94known for its constant strikes of electricity\xe2\x80\x94proves to be a deadly battlefield, as Federation pilot Io Fleming leads a charge against Zeon's ace Daryl Lorenz and his squad of snipers. With the fighters on both sides proving to be formidable soldiers, neither side is willing to back down, fighting strategically amongst the remnants of colonies.\n\nBut when Io gets a hold of a prototype Gundam, Daryl will have to make a sacrifice in order to obtain enough power to crush his enemy and ensure that Zeon is victorious, or watch as his comrades are slaughtered by a single man.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kidou Senshi Gundam Thunderbolt', b'Mobile Suit Gundam', b'Mobile Suit Gundam Thunderbolt: December Sky', b'Mobile Suit Gundam Thunderbolt 2nd Season']
-animeCharacters	[b'Fleming, Io', b'Lorenz, Daryl', b'Sexton, J. J.', b'Mitchum, Karla', b'Peer, Claudia', b'Ness, Fisher', b'Graham', b'Kaka, Cornelius', b'Burroughs']
-animeVoices	[b'\nNakamura, Yuuichi\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nTsuchida, Hiroshi\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nYukinari, Toa\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nSasaki, Mutsumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuo, Kou\n\nDirector, Script\n\n', b'\nKimura, Eriko\n\nSound Director\n\n', b'\nYoshizawa, Toshikazu\n\nEpisode Director\n\n', b'\nTeraoka, Iwao\n\nStoryboard\n\n']
+animePopularity	2661
+animeDescription	"In Universal Century 0079, forces of the Earth Federation and Principality of Zeon engage in a battle within the Thunderbolt Sector during the One Year War. This section of space—known for its constant strikes of electricity—proves to be a deadly battlefield, as Federation pilot Io Fleming leads a charge against Zeon's ace Daryl Lorenz and his squad of snipers. With the fighters on both sides proving to be formidable soldiers, neither side is willing to back down, fighting strategically amongst the remnants of colonies.
+
+But when Io gets a hold of a prototype Gundam, Daryl will have to make a sacrifice in order to obtain enough power to crush his enemy and ensure that Zeon is victorious, or watch as his comrades are slaughtered by a single man.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kidou Senshi Gundam Thunderbolt', 'Mobile Suit Gundam', 'Mobile Suit Gundam Thunderbolt: December Sky', 'Mobile Suit Gundam Thunderbolt 2nd Season']
+animeCharacters	['Fleming, Io', 'Lorenz, Daryl', 'Sexton, J. J.', 'Mitchum, Karla', 'Peer, Claudia', 'Ness, Fisher', 'Graham', 'Kaka, Cornelius', 'Burroughs']
+animeVoices	['Nakamura, Yuuichi', 'Kimura, Ryouhei', 'Tsuchida, Hiroshi', 'Ohara, Sayaka', 'Yukinari, Toa', 'Sakuya, Shunsuke', 'Hirakawa, Daisuke', 'Sasaki, Mutsumi']
+animeStaff	[['Matsuo, Kou', 'Director, Script'], ['Kimura, Eriko', 'Sound Director'], ['Yoshizawa, Toshikazu', 'Episode Director'], ['Teraoka, Iwao', 'Storyboard']]

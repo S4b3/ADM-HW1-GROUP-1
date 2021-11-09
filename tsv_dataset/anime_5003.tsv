@@ -1,5 +1,5 @@
-animeTitle	b'Hiiro no Kakera'
-animeType	b'TV'
+animeTitle	Hiiro no Kakera
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.72
 animeUsers	40172
 animeRank	
-animePopularity	
-animeDescription	"b""Gods and ghosts only exist in fairy tales, right? That's the impression that high school girl Tamki Kasuga has before she goes to live with her grandmother in the remote village of Kifumura. After being attacked by strange creatures upon her arrival, she is soon informed that females in her family contain the blood of the Tamayori Princess, who has the responsibility and power of keeping gods and ghosts sealed away so that they can't harm the general public. At first Tamaki has trouble believing this, but having five beautiful young men following her everywhere she goes acting as her guardians goes a long way towards convincing her.\n\nThere's more to this job than Tamaki first realizes, however, and the path that lies ahead of her is fraught with peril and danger. Will she be able to successfully take on the heavy role that has been put on her shoulders?"""
-animeRelated	[b'Hiiro no Kakera: Mezame no Toki', b'Hiiro no Kakera Dai Ni Shou', b'Hiiro no Kakera: Totsugeki! Tonari no Ikemenzu']
-animeCharacters	[b'Onizaki, Takuma', b'Komura, Yuuichi', b'Atori, Mahiro', b'Kasuga, Tamaki', b'Oomi, Suguru', b'Inukai, Shinji', b'Kutani, Ryou', b'Vier', b'Zwei', b'Ein']
-animeVoices	[b'\nSugita, Tomokazu\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nOkano, Kousuke\nJapanese\n', b'\nMiyake, Marie\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nShimowada, Hiroki\nJapanese\n', b'\nNomiya, Kazunori\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nKawahara, Yoshihisa\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShirahata, Nobuo\n\nDirector\n\n', b'\nHiramitsu, Takuya\n\nSound Director\n\n', b'\nYoshida, Shunji\n\nEpisode Director\n\n', b'\nKato, Toshiyuki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	1600
+animeDescription	"Gods and ghosts only exist in fairy tales, right? That's the impression that high school girl Tamki Kasuga has before she goes to live with her grandmother in the remote village of Kifumura. After being attacked by strange creatures upon her arrival, she is soon informed that females in her family contain the blood of the Tamayori Princess, who has the responsibility and power of keeping gods and ghosts sealed away so that they can't harm the general public. At first Tamaki has trouble believing this, but having five beautiful young men following her everywhere she goes acting as her guardians goes a long way towards convincing her.
+
+There's more to this job than Tamaki first realizes, however, and the path that lies ahead of her is fraught with peril and danger. Will she be able to successfully take on the heavy role that has been put on her shoulders?"
+animeRelated	['Hiiro no Kakera: Mezame no Toki', 'Hiiro no Kakera Dai Ni Shou', 'Hiiro no Kakera: Totsugeki! Tonari no Ikemenzu']
+animeCharacters	['Onizaki, Takuma', 'Komura, Yuuichi', 'Atori, Mahiro', 'Kasuga, Tamaki', 'Oomi, Suguru', 'Inukai, Shinji', 'Kutani, Ryou', 'Vier', 'Zwei', 'Ein']
+animeVoices	['Sugita, Tomokazu', 'Namikawa, Daisuke', 'Okano, Kousuke', 'Miyake, Marie', 'Hirakawa, Daisuke', 'Shimowada, Hiroki', 'Nomiya, Kazunori', 'Ohara, Sayaka', 'Kawahara, Yoshihisa', 'Yasumoto, Hiroki']
+animeStaff	[['Shirahata, Nobuo', 'Director'], ['Hiramitsu, Takuya', 'Sound Director'], ['Yoshida, Shunji', 'Episode Director'], ['Kato, Toshiyuki', 'Episode Director, Storyboard']]

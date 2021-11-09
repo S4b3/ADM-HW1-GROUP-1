@@ -1,5 +1,5 @@
-animeTitle	b'Hoshi to Tsubasa no Paradox'
-animeType	b'ONA'
+animeTitle	Hoshi to Tsubasa no Paradox
+animeType	ONA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.7
 animeUsers	113
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
+animePopularity	12344
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
 animeRelated	[]
-animeCharacters	[b'Reika', b'Nagi', b'Hikari', b'Shirley']
-animeVoices	[b'\nSuwa, Ayaka\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nSatou, Miyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoizumi, Kisuke\n\nSound Director\n\n', b'\nAndou, Naoya\n\nEpisode Director, Storyboard\n\n', b'\nKanno, Yoko\n\nTheme Song Arrangement\n\n', b'\nSadamoto, Yoshiyuki\n\nOriginal Character Design\n\n']
+animeCharacters	['Reika', 'Nagi', 'Hikari', 'Shirley']
+animeVoices	['Suwa, Ayaka', 'Shiraishi, Ryouko', 'Komatsu, Mikako', 'Satou, Miyuki']
+animeStaff	[['Koizumi, Kisuke', 'Sound Director'], ['Andou, Naoya', 'Episode Director, Storyboard'], ['Kanno, Yoko', 'Theme Song Arrangement'], ['Sadamoto, Yoshiyuki', 'Original Character Design']]

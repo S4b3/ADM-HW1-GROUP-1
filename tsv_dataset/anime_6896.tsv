@@ -1,5 +1,5 @@
-animeTitle	b'Uchuu Senshi Baldios (Movie)'
-animeType	b'Movie'
+animeTitle	Uchuu Senshi Baldios (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.36
 animeUsers	465
 animeRank	
-animePopularity	
-animeDescription	b'This film supplied the ending to the cancelled Space Warrior Baldios television series.'
-animeRelated	[b'Uchuu Senshi Baldios']
-animeCharacters	[b'Regan, Marine', b'Aphrodia, Roza', b'Hoshino, Jemmy', b'Oliver, Jack', b'Hokuto, Raita', b'Torinomias', b'Quinstein, Ella']
+animePopularity	10656
+animeDescription	This film supplied the ending to the cancelled Space Warrior Baldios television series.
+animeRelated	['Uchuu Senshi Baldios']
+animeCharacters	['Regan, Marine', 'Aphrodia, Roza', 'Hoshino, Jemmy', 'Oliver, Jack', 'Hokuto, Raita', 'Torinomias', 'Quinstein, Ella']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nShiba, Shigeharu\n\nSound Director\n\n', b'\nTONY\n\nTheme Song Performance\n\n', b'\nHaneda, Kentarou\n\nMusic\n\n', b'\nKamegaki, Hajime\n\nMechanical Design\n\n']
+animeStaff	[['Shiba, Shigeharu', 'Sound Director'], ['TONY', 'Theme Song Performance'], ['Haneda, Kentarou', 'Music'], ['Kamegaki, Hajime', 'Mechanical Design']]

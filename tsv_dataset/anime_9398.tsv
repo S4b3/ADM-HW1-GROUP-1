@@ -1,5 +1,5 @@
-animeTitle	b'Blade & Soul Specials'
-animeType	b'Special'
+animeTitle	Blade & Soul Specials
+animeType	Special
 animeNumEpisode	7
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	5.79
 animeUsers	2645
 animeRank	
-animePopularity	
-animeDescription	b'Short specials (featuring the chibi forms of the characters) included in the Blade and Soul Blu-rays and DVDs.\n'
-animeRelated	[b'Blade & Soul']
-animeCharacters	[b'Alka', b'El, Karen', b'Jin, Hazuki', b'Dan, Roana', b'Jin, Varel', b'Yuu']
-animeVoices	[b'\nTakao, Yuki\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nAmamiya, Sora\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nInoue, Marina\nJapanese\n']
+animePopularity	5879
+animeDescription	"Short specials (featuring the chibi forms of the characters) included in the Blade and Soul Blu-rays and DVDs.
+"
+animeRelated	['Blade & Soul']
+animeCharacters	['Alka', 'El, Karen', 'Jin, Hazuki', 'Dan, Roana', 'Jin, Varel', 'Yuu']
+animeVoices	['Takao, Yuki', 'Ohara, Sayaka', 'Amamiya, Sora', 'Takagaki, Ayahi', 'Yuuki, Aoi', 'Inoue, Marina']
 animeStaff	[]

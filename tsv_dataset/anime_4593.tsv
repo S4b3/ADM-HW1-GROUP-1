@@ -1,5 +1,5 @@
-animeTitle	b'Hyakujuu-Ou GoLion'
-animeType	b'TV'
+animeTitle	Hyakujuu-Ou GoLion
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.81
 animeUsers	4714
 animeRank	
-animePopularity	
-animeDescription	b'Golion, a powerful sentient robot, abuses his great powers by attacking and killing creatures known as Deathblack Beastmen, boasting that no one could defeat him. A divine space being punishes Golion for his arrogance and abuse by seperating him into 5 different lion robots. In the year 1999, a group of 5 young men return to Earth after a space voyage, only to find it ravaged by nuclear war. After encountering the alien race known as the Galra, the 5 youths end up on the planet Altea, and learn that the 5 lion robots that Golion was split into are in hibernation in various parts of Altea. Somehow, they must reunite the lions and form Golion, the only hope for the human race.\n\n(Source: ANN)\n\nAbout Voltron (U.S.)'
+animePopularity	5132
+animeDescription	"Golion, a powerful sentient robot, abuses his great powers by attacking and killing creatures known as Deathblack Beastmen, boasting that no one could defeat him. A divine space being punishes Golion for his arrogance and abuse by seperating him into 5 different lion robots. In the year 1999, a group of 5 young men return to Earth after a space voyage, only to find it ravaged by nuclear war. After encountering the alien race known as the Galra, the 5 youths end up on the planet Altea, and learn that the 5 lion robots that Golion was split into are in hibernation in various parts of Altea. Somehow, they must reunite the lions and form Golion, the only hope for the human race.
+
+(Source: ANN)
+
+About Voltron (U.S.)"
 animeRelated	[]
-animeCharacters	[b'Kurogane, Isamu', b'Shirogane, Takashi', b'Kogane, Akira', b'Prince Sincline', b'Seidou, Tsuyoshi', b'Dai Bazaal', b'Suzuishi, Hiroshi', b'Fala', b'Shirogane, Ryou', b'Prince Alor']
-animeVoices	[b'\nMizushima, Yuu\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nTomita, Kousei\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nUkai, Rumiko\nJapanese\n', b'\nShimizu, Mari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nEpisode Director\n\n', b'\nTsuji, Masaki\n\nScript\n\n', b'\nMizuki, Ichirou\n\nTheme Song Performance\n\n', b'\nColumbia Yurikago Kai\n\nTheme Song Performance, Inserted Song Performance\n\n']
+animeCharacters	['Kurogane, Isamu', 'Shirogane, Takashi', 'Kogane, Akira', 'Prince Sincline', 'Seidou, Tsuyoshi', 'Dai Bazaal', 'Suzuishi, Hiroshi', 'Fala', 'Shirogane, Ryou', 'Prince Alor']
+animeVoices	['Mizushima, Yuu', 'Nakao, Ryusei', 'Inoue, Kazuhiko', 'Kamiya, Akira', 'Genda, Tesshou', 'Tomita, Kousei', 'Nozawa, Masako', 'Ukai, Rumiko', 'Shimizu, Mari']
+animeStaff	[['Sasagawa, Hiroshi', 'Episode Director'], ['Tsuji, Masaki', 'Script'], ['Mizuki, Ichirou', 'Theme Song Performance'], ['Columbia Yurikago Kai', 'Theme Song Performance, Inserted Song Performance']]

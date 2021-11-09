@@ -1,5 +1,5 @@
-animeTitle	b'Urusei Yatsura Movie 4: Lum The Forever'
-animeType	b'Movie'
+animeTitle	Urusei Yatsura Movie 4: Lum The Forever
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.75
 animeUsers	2298
 animeRank	
-animePopularity	
-animeDescription	"b'Strange things begin happening in Tomobiki Town... \n\nWhen a great cherry tree, ""Tarozakura"" is cut down while Lum & Co. are making a movie, Lum loses her horns-and her powers! Thus begins the strangest and most lyrical of the Urusei Yatsura movies...\n\n(Source: AniDB)'"
-animeRelated	[b'Urusei Yatsura']
-animeCharacters	[b'Lum', b'Moroboshi, Ataru', b'Mendo, Shutaro', b'Ran', b'Sakuranbou', b'Miyake, Shinobu', b'Satoshi', b'Sakura', b'Ten', b'Moroboshi, Mother']
-animeVoices	[b'\nHirano, Fumi\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nKomiya, Kazue\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nShimazu, Saeko\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nWashio, Machiko\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n', b'\nSakuma, Natsumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamazaki, Kazuo\n\nDirector, Script, Screenplay\n\n', b'\nYoshinaga, Naoyuki\n\nEpisode Director\n\n', b'\nInoue, Toshiki\n\nScript\n\n', b'\nTakahashi, Rumiko\n\nOriginal Creator\n\n']
+animePopularity	6696
+animeDescription	"Strange things begin happening in Tomobiki Town... 
+
+When a great cherry tree, ""Tarozakura"" is cut down while Lum & Co. are making a movie, Lum loses her horns-and her powers! Thus begins the strangest and most lyrical of the Urusei Yatsura movies...
+
+(Source: AniDB)"
+animeRelated	['Urusei Yatsura']
+animeCharacters	['Lum', 'Moroboshi, Ataru', 'Mendo, Shutaro', 'Ran', 'Sakuranbou', 'Miyake, Shinobu', 'Satoshi', 'Sakura', 'Ten', 'Moroboshi, Mother']
+animeVoices	['Hirano, Fumi', 'Furukawa, Toshio', 'Kamiya, Akira', 'Komiya, Kazue', 'Nagai, Ichiro', 'Shimazu, Saeko', 'Chiba, Shigeru', 'Washio, Machiko', 'Sugiyama, Kazuko', 'Sakuma, Natsumi']
+animeStaff	[['Yamazaki, Kazuo', 'Director, Script, Screenplay'], ['Yoshinaga, Naoyuki', 'Episode Director'], ['Inoue, Toshiki', 'Script'], ['Takahashi, Rumiko', 'Original Creator']]

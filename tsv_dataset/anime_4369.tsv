@@ -1,5 +1,5 @@
-animeTitle	b'Shirobako Specials'
-animeType	b'Special'
+animeTitle	Shirobako Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,18 @@ animeNumMembers
 animeScore	6.86
 animeUsers	10496
 animeRank	
-animePopularity	
-animeDescription	"b'Shirobako Specials is an OVA adaptation of the first episodes of the two fictional television anime produced by Musashino Animation in the Shirobako television anime.\n\nEkusodasu!: Shutsu Tokyo\nAkane, Aya, and Alpine are the three members of the struggling idol group Tracy, which has yet to make a name for themselves. After their performance at a supermarket attracts a dismal audience, the trio\'s leader Akane decides to turn their fortune around by confronting their disinterested manager Taguchi. But the girls are in for a surprise when they stumble across Taguchi\'s corpse in a storage room, and become the prime suspects in his murder\xe2\x80\x94all the while rising to the widespread fame they so desperately wanted.\n\nDaisan Hikou Shoujotai: FALLING ANGEL\nThe 307 Aerial Squad, also known as ""Hell Alice,"" is part of a global military resistance against the enigmatic Builders, who have covered a third of Earth\'s surface with mysterious structures known as Pillars. With all aircraft built after the 1970s disabled by the Pillars, Hell Alice must pilot their outdated equipment against the advanced technology stolen by the Builders. Among their ranks is the talented, school-aged Japanese girl Aria Hitotose, the so-called ""Ice Doll"" who never hesitates in even the most dire of situations. When an operation to rescue survivors from a destroyed base goes awry, it is up to Aria and her trusty allies to save the day.\n\n[Written by MAL Rewrite]\n'"
-animeRelated	[b'Dai 3-hikou Shoujo-tai', b'Shirobako']
-animeCharacters	[b'Yakovleva, Tatiana', b'Hitotose, Aria', b'Ashkenazy, Noa', b'Aya', b'Waldeg\xc3\xa5rd, Christine', b'Weller, Catherine', b'Alpine', b'Akane', b'Taguchi', b'Lye']
-animeVoices	[b'\nYamaoka, Yuri\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n', b'\nNumakura, Manami\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nYonezawa, Madoka\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nFukushima, Jun\nJapanese\n', b'\nHamada, Kenji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMizushima, Tsutomu\n\nDirector\n\n', b'\nYoshihara, Masayuki\n\nEpisode Director, Storyboard\n\n', b'\nOokura, Masahiko\n\nEpisode Director\n\n', b'\nYoshino, Hiroyuki\n\nScript\n\n']
+animePopularity	3695
+animeDescription	"Shirobako Specials is an OVA adaptation of the first episodes of the two fictional television anime produced by Musashino Animation in the Shirobako television anime.
+
+Ekusodasu!: Shutsu Tokyo
+Akane, Aya, and Alpine are the three members of the struggling idol group Tracy, which has yet to make a name for themselves. After their performance at a supermarket attracts a dismal audience, the trio's leader Akane decides to turn their fortune around by confronting their disinterested manager Taguchi. But the girls are in for a surprise when they stumble across Taguchi's corpse in a storage room, and become the prime suspects in his murder—all the while rising to the widespread fame they so desperately wanted.
+
+Daisan Hikou Shoujotai: FALLING ANGEL
+The 307 Aerial Squad, also known as ""Hell Alice,"" is part of a global military resistance against the enigmatic Builders, who have covered a third of Earth's surface with mysterious structures known as Pillars. With all aircraft built after the 1970s disabled by the Pillars, Hell Alice must pilot their outdated equipment against the advanced technology stolen by the Builders. Among their ranks is the talented, school-aged Japanese girl Aria Hitotose, the so-called ""Ice Doll"" who never hesitates in even the most dire of situations. When an operation to rescue survivors from a destroyed base goes awry, it is up to Aria and her trusty allies to save the day.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Dai 3-hikou Shoujo-tai', 'Shirobako']
+animeCharacters	['Yakovleva, Tatiana', 'Hitotose, Aria', 'Ashkenazy, Noa', 'Aya', 'Waldegård, Christine', 'Weller, Catherine', 'Alpine', 'Akane', 'Taguchi', 'Lye']
+animeVoices	['Yamaoka, Yuri', 'Kanemoto, Hisako', 'Numakura, Manami', 'Itou, Shizuka', 'Yonezawa, Madoka', 'Kayano, Ai', 'Nakahara, Mai', 'Fukushima, Jun', 'Hamada, Kenji']
+animeStaff	[['Mizushima, Tsutomu', 'Director'], ['Yoshihara, Masayuki', 'Episode Director, Storyboard'], ['Ookura, Masahiko', 'Episode Director'], ['Yoshino, Hiroyuki', 'Script']]

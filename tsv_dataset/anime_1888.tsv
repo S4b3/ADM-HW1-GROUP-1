@@ -1,5 +1,5 @@
-animeTitle	b'Chobits'
-animeType	b'TV'
+animeTitle	Chobits
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.42
 animeUsers	223340
 animeRank	
-animePopularity	
-animeDescription	"b'When computers start to look like humans, can love remain the same?\n\nHideki Motosuwa is a young country boy who is studying hard to get into college. Coming from a poor background, he can barely afford the expenses, let alone the newest fad: Persocoms, personal computers that look exactly like human beings. One evening while walking home, he finds an abandoned Persocom. After taking her home and managing to activate her, she seems to be defective, as she can only say one word, ""Chii,"" which eventually becomes her name. Unlike other Persocoms, however, Chii cannot download information onto her hard drive, so Hideki decides to teach her about the world the old-fashioned way, while studying for his college entrance exams at the same time.\n\nAlong with his friends, Hideki tries to unravel the mystery of Chii, who may be a ""Chobit,"" an urban legend about special units that have real human emotions and thoughts, and love toward their owner. But can romance flourish between a Persocom and a human? \n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Chobits', b'Chobits: Chibits', b'Chobits Recap']
-animeCharacters	[b'Chii', b'Motosuwa, Hideki', b'Sumomo', b'Freya', b'Kotoko', b'Yuzuki', b'Atashi dake no Hito', b'Kokubunji, Minoru', b'Shinbo, Hiromu', b'Zima']
-animeVoices	[b'\nTanaka, Rie\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nKumai, Motoko\nJapanese\n', b'\nYukana\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nChiba, Isshin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAsaka, Morio\n\nDirector, Episode Director, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nNagai, Tatsuyuki\n\nEpisode Director, Storyboard\n\n', b'\nOota, Masahiko\n\nEpisode Director\n\n']
+animePopularity	371
+animeDescription	"When computers start to look like humans, can love remain the same?
+
+Hideki Motosuwa is a young country boy who is studying hard to get into college. Coming from a poor background, he can barely afford the expenses, let alone the newest fad: Persocoms, personal computers that look exactly like human beings. One evening while walking home, he finds an abandoned Persocom. After taking her home and managing to activate her, she seems to be defective, as she can only say one word, ""Chii,"" which eventually becomes her name. Unlike other Persocoms, however, Chii cannot download information onto her hard drive, so Hideki decides to teach her about the world the old-fashioned way, while studying for his college entrance exams at the same time.
+
+Along with his friends, Hideki tries to unravel the mystery of Chii, who may be a ""Chobit,"" an urban legend about special units that have real human emotions and thoughts, and love toward their owner. But can romance flourish between a Persocom and a human? 
+
+[Written by MAL Rewrite]"
+animeRelated	['Chobits', 'Chobits: Chibits', 'Chobits Recap']
+animeCharacters	['Chii', 'Motosuwa, Hideki', 'Sumomo', 'Freya', 'Kotoko', 'Yuzuki', 'Atashi dake no Hito', 'Kokubunji, Minoru', 'Shinbo, Hiromu', 'Zima']
+animeVoices	['Tanaka, Rie', 'Sugita, Tomokazu', 'Kumai, Motoko', 'Yukana', 'Orikasa, Fumiko', 'Kuwashima, Houko', 'Seki, Tomokazu', 'Chiba, Isshin']
+animeStaff	[['Asaka, Morio', 'Director, Episode Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Nagai, Tatsuyuki', 'Episode Director, Storyboard'], ['Oota, Masahiko', 'Episode Director']]

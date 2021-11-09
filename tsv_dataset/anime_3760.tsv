@@ -1,5 +1,5 @@
-animeTitle	b'Toriko: Jump Super Anime Tour 2009 Special'
-animeType	b'Special'
+animeTitle	Toriko: Jump Super Anime Tour 2009 Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.01
 animeUsers	3454
 animeRank	
-animePopularity	
-animeDescription	"b""Special shown at the Jump Super Anime Tour in 2009.\n\nIn a world where the taste and texture of food is extremely important, there exist individuals known as Bishoku-ya (luxury food providers) who specialize in the acquisition of rare ingredients and animals. Toriko is one of these hunters and it is his dream to find the most precious foods in the world and create the ultimate dinner course. As one of the most skilled hunters in the world he is regularly hired by restaurants and the rich to seek out new ingredients and rare animals.\n\nA man with inhuman ability, he utilizes his incredible strength and knowledge of the animal kingdom to capture ferocious, evasive and rare beasts to further his final goal, the ultimate dinner course composed of the most delicious food in the world. He is currently accompanied by a weak and timid chef who, inspired by Toriko's ambition, travels with him to improve his culinary skills and find rare ingredients."""
-animeRelated	[b'Toriko', b'Toriko 3D: Kaimaku Gourmet Adventure!!']
-animeCharacters	[b'Toriko', b'Komatsu', b'Tom']
-animeVoices	[b'\nKondou, Takashi\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nObunai, Mitsuru\n\nDirector, Episode Director\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nMiura, Takahiro\n\nEpisode Director, Storyboard\n\n', b'\nKondou, Takashi\n\nTheme Song Performance\n\n']
+animePopularity	6062
+animeDescription	"Special shown at the Jump Super Anime Tour in 2009.
+
+In a world where the taste and texture of food is extremely important, there exist individuals known as Bishoku-ya (luxury food providers) who specialize in the acquisition of rare ingredients and animals. Toriko is one of these hunters and it is his dream to find the most precious foods in the world and create the ultimate dinner course. As one of the most skilled hunters in the world he is regularly hired by restaurants and the rich to seek out new ingredients and rare animals.
+
+A man with inhuman ability, he utilizes his incredible strength and knowledge of the animal kingdom to capture ferocious, evasive and rare beasts to further his final goal, the ultimate dinner course composed of the most delicious food in the world. He is currently accompanied by a weak and timid chef who, inspired by Toriko's ambition, travels with him to improve his culinary skills and find rare ingredients."
+animeRelated	['Toriko', 'Toriko 3D: Kaimaku Gourmet Adventure!!']
+animeCharacters	['Toriko', 'Komatsu', 'Tom']
+animeVoices	['Kondou, Takashi', 'Kishio, Daisuke', 'Fujiwara, Keiji']
+animeStaff	[['Obunai, Mitsuru', 'Director, Episode Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Miura, Takahiro', 'Episode Director, Storyboard'], ['Kondou, Takashi', 'Theme Song Performance']]

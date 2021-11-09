@@ -1,5 +1,5 @@
-animeTitle	b'Capricorn'
-animeType	b'OVA'
+animeTitle	Capricorn
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.42
 animeUsers	1003
 animeRank	
-animePopularity	
-animeDescription	b'In the blink of an eye, high school student Taku Shimamura finds himself transported to the bizarre world of Slaffleaze, where intelligent creatures govern and the ruling class, led by the villainous Zolba, is plotting the invasion of the world they know as Capricorn, the Earth. Joining together with the oppressed Slaffleaze peasants, Taku must find a way to stop Zolba`s dark forces before the way to the unsuspecting Earth is opened. In order to do so, he must first gain the love and trust of the last of the Yappie, the ancestral guardians of Slaffeaze. This is a task that will take more than a little courage and daring, for the last Yappie is not just a cute young female, she`s also a dragon.\n\n(Source: ANN)'
-animeRelated	[b'Capricorn']
-animeCharacters	[b'Mona', b'Shimamura, Taku', b'Non', b'Dr. Yottoru', b'Jil']
-animeVoices	[b'\nMatsui, Naoko\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n', b'\nAmano, Yuri\nJapanese\n', b'\nInaba, Minoru\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImanishi, Takashi\n\nDirector, Script, Storyboard\n\n', b'\nWatanabe, Shinichiro\n\nScript\n\n', b'\nManabe, Jouji\n\nScript, Original Creator\n\n', b'\nOoshiro, Tsutomu\n\nKey Animation\n\n']
+animePopularity	8739
+animeDescription	"In the blink of an eye, high school student Taku Shimamura finds himself transported to the bizarre world of Slaffleaze, where intelligent creatures govern and the ruling class, led by the villainous Zolba, is plotting the invasion of the world they know as Capricorn, the Earth. Joining together with the oppressed Slaffleaze peasants, Taku must find a way to stop Zolba`s dark forces before the way to the unsuspecting Earth is opened. In order to do so, he must first gain the love and trust of the last of the Yappie, the ancestral guardians of Slaffeaze. This is a task that will take more than a little courage and daring, for the last Yappie is not just a cute young female, she`s also a dragon.
+
+(Source: ANN)"
+animeRelated	['Capricorn']
+animeCharacters	['Mona', 'Shimamura, Taku', 'Non', 'Dr. Yottoru', 'Jil']
+animeVoices	['Matsui, Naoko', 'Kikuchi, Masami', 'Amano, Yuri', 'Inaba, Minoru', 'Onosaka, Masaya']
+animeStaff	[['Imanishi, Takashi', 'Director, Script, Storyboard'], ['Watanabe, Shinichiro', 'Script'], ['Manabe, Jouji', 'Script, Original Creator'], ['Ooshiro, Tsutomu', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hatsukoi Limited.'
-animeType	b'TV'
+animeTitle	Hatsukoi Limited.
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.3
 animeUsers	36484
 animeRank	
-animePopularity	
-animeDescription	"b'A series relating the intertwined stories about the ""first loves"" of several middle-schoolers and high-schoolers. Each episode tends to focus on a different character, however the developments established during previous episodes continue to play smaller roles in those following. As the series progresses, an array of unusual and unexpected love webs begin to blossom.'"
-animeRelated	[b'Hatsukoi Limited.', b'Hatsukoi Limited.: Gentei Shoujo']
-animeCharacters	[b'Yamamoto, Misaki', b'Enomoto, Kei', b'Bessho, Koyoi', b'Kusuda, Etsu', b'Dobashi, Rika', b'Arihara, Ayumi', b'Chikura, Nao', b'Sogabe, Hiroyuki', b'Watase, Meguru', b'Zaitsu, Mamoru']
-animeVoices	[b'\nTanaka, Rie\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nAsanuma, Shintaro\nJapanese\n', b'\nKotobuki, Minako\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nIrino, Miyu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawase, Kouhei\n\nProducer\n\n', b'\nNakayama, Nobuhiro\n\nProducer\n\n', b'\nYamakawa, Yoshiki\n\nDirector, Episode Director, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n']
+animePopularity	1749
+animeDescription	"A series relating the intertwined stories about the ""first loves"" of several middle-schoolers and high-schoolers. Each episode tends to focus on a different character, however the developments established during previous episodes continue to play smaller roles in those following. As the series progresses, an array of unusual and unexpected love webs begin to blossom."
+animeRelated	['Hatsukoi Limited.', 'Hatsukoi Limited.: Gentei Shoujo']
+animeCharacters	['Yamamoto, Misaki', 'Enomoto, Kei', 'Bessho, Koyoi', 'Kusuda, Etsu', 'Dobashi, Rika', 'Arihara, Ayumi', 'Chikura, Nao', 'Sogabe, Hiroyuki', 'Watase, Meguru', 'Zaitsu, Mamoru']
+animeVoices	['Tanaka, Rie', 'Itou, Shizuka', 'Toyosaki, Aki', 'Asanuma, Shintaro', 'Kotobuki, Minako', 'Ise, Mariya', 'Fujimura, Ayumi', 'Sakurai, Takahiro', 'Shiraishi, Ryouko', 'Irino, Miyu']
+animeStaff	[['Kawase, Kouhei', 'Producer'], ['Nakayama, Nobuhiro', 'Producer'], ['Yamakawa, Yoshiki', 'Director, Episode Director, Storyboard'], ['Aketagawa, Jin', 'Sound Director']]

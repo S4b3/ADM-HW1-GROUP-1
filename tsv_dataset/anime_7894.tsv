@@ -1,4 +1,4 @@
-animeTitle	b'Yumeyume'
+animeTitle	Yumeyume
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.16
 animeUsers	1147
 animeRank	
-animePopularity	
-animeDescription	"b'Music video from DECO*27.\n\n""Miku Hatsune and Future Stars Project mirai"" (SEGA) Main Theme Song'"
+animePopularity	9677
+animeDescription	"Music video from DECO*27.
+
+""Miku Hatsune and Future Stars Project mirai"" (SEGA) Main Theme Song"
 animeRelated	[]
-animeCharacters	[b'Hatsune, Miku']
-animeVoices	[b'\nHatsune, Miku\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHatsune, Miku\n\nTheme Song Performance\n\n', b'\nDECO*27\n\nTheme Song Lyrics, Theme Song Composition, Theme Song Arrangement, Creator\n\n', b'\nMorii, Kenshirou\n\nKey Animation\n\n']
+animeCharacters	['Hatsune, Miku']
+animeVoices	['Hatsune, Miku']
+animeStaff	[['Hatsune, Miku', 'Theme Song Performance'], ['DECO*27', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement, Creator'], ['Morii, Kenshirou', 'Key Animation']]

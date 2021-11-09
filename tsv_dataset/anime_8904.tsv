@@ -1,5 +1,5 @@
-animeTitle	b'Rakugo Tennyo Oyui'
-animeType	b'TV'
+animeTitle	Rakugo Tennyo Oyui
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.94
 animeUsers	298
 animeRank	
-animePopularity	
-animeDescription	"b'Six girls including Tsukishima Yui were summoned into the end of Edo period by the power of mystic stones. They became celestial nymphs to protect cities from evils. Each girl obtained her own power. The power Yui obtained was ""word"". She would fight against evils by her ""words"" that gave people hope.\n\n(Source: AnimeNfo)\n\n'"
+animePopularity	9478
+animeDescription	"Six girls including Tsukishima Yui were summoned into the end of Edo period by the power of mystic stones. They became celestial nymphs to protect cities from evils. Each girl obtained her own power. The power Yui obtained was ""word"". She would fight against evils by her ""words"" that gave people hope.
+
+(Source: AnimeNfo)
+
+"
 animeRelated	[]
-animeCharacters	[b'Tsukishima, Yui', b'Naitou, Akira', b'Asukayama, Miyabi', b'Koishikawa, Suzu', b'Yanaka, Tae', b'Sengoku, Ryou', b'Kotsukahara, Ukyou']
-animeVoices	[b'\nGotou, Saori\nJapanese\n', b'\nNoda, Junko\nJapanese\n', b'\nKojima, Sachiko\nJapanese\n', b'\nShimizu, Ai\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nIshida, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakamoto, Norihiro\n\nDirector\n\n', b'\nTakakuwa, Hajime\n\nSound Director\n\n', b'\nTsuchiya, Hiroyuki\n\nEpisode Director\n\n', b'\nKuzuya, Naoyuki\n\nStoryboard\n\n']
+animeCharacters	['Tsukishima, Yui', 'Naitou, Akira', 'Asukayama, Miyabi', 'Koishikawa, Suzu', 'Yanaka, Tae', 'Sengoku, Ryou', 'Kotsukahara, Ukyou']
+animeVoices	['Gotou, Saori', 'Noda, Junko', 'Kojima, Sachiko', 'Shimizu, Ai', 'Sawashiro, Miyuki', 'Kobayashi, Yuu', 'Ishida, Akira']
+animeStaff	[['Takamoto, Norihiro', 'Director'], ['Takakuwa, Hajime', 'Sound Director'], ['Tsuchiya, Hiroyuki', 'Episode Director'], ['Kuzuya, Naoyuki', 'Storyboard']]

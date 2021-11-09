@@ -1,5 +1,5 @@
-animeTitle	b'Lord of Vermilion: Guren no Ou'
-animeType	b'TV'
+animeTitle	Lord of Vermilion: Guren no Ou
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.34
 animeUsers	9221
 animeRank	
-animePopularity	
-animeDescription	"b'Set in Tokyo, it\'s January 29, 2030. High-frequency resonance is observed in the vicinity of Tokyo, and the red fog rolls into the city. Those who hear the sound, humans and animals alike, pass out, losing consciousness. Everything shuts down in Tokyo, believing that the fog is carrying an unknown virus that causes an epidemic. However, six days later, after the incident, people wake up as if nothing happened. After that, Tokyo\'s sealed-off city sections gradually return to normal. However, since the high-frequency resonance, some ""bizarre events"" start to happen, and people find themselves being pulled deeper into more mysteries. Meanwhile, young people start to become aware of themselves and release their power hidden in their blood, discovering themselves as ""vessel of wisdom blood."" Together, being led by something unknown, they meet, communicate, and face the unavoidable circle of fate, sacrificing their own lives.\n\n(Source: MAL News)'"
-animeRelated	[b'Lord of Vermilion III Special Anime Movie', b'Lord of Vermilion IV']
-animeCharacters	[b'Kamina, Chihiro', b'Sakiyama, Koume', b'Ichijou, Julia', b'Aoi, Jun', b'Shiraki, Yuuri', b'Kaburagi, Kark', b'Jumonji, Suruga', b'Owari, Ikuro', b'Kurokami, Marie', b'Morizono, Eiko']
-animeVoices	[b'\nKaji, Yuki\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nFukuen, Misato\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nToki, Shunichi\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nNakamura, Tomoko\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nSuganuma, Eiji\n\nDirector\n\n', b""\nMay'n\n\nTheme Song Performance\n\n"", b'\nJUNNA\n\nTheme Song Performance\n\n', b'\nJewell, Jerry\n\nADR Director\n\n']"
+animePopularity	2905
+animeDescription	"Set in Tokyo, it's January 29, 2030. High-frequency resonance is observed in the vicinity of Tokyo, and the red fog rolls into the city. Those who hear the sound, humans and animals alike, pass out, losing consciousness. Everything shuts down in Tokyo, believing that the fog is carrying an unknown virus that causes an epidemic. However, six days later, after the incident, people wake up as if nothing happened. After that, Tokyo's sealed-off city sections gradually return to normal. However, since the high-frequency resonance, some ""bizarre events"" start to happen, and people find themselves being pulled deeper into more mysteries. Meanwhile, young people start to become aware of themselves and release their power hidden in their blood, discovering themselves as ""vessel of wisdom blood."" Together, being led by something unknown, they meet, communicate, and face the unavoidable circle of fate, sacrificing their own lives.
+
+(Source: MAL News)"
+animeRelated	['Lord of Vermilion III Special Anime Movie', 'Lord of Vermilion IV']
+animeCharacters	['Kamina, Chihiro', 'Sakiyama, Koume', 'Ichijou, Julia', 'Aoi, Jun', 'Shiraki, Yuuri', 'Kaburagi, Kark', 'Jumonji, Suruga', 'Owari, Ikuro', 'Kurokami, Marie', 'Morizono, Eiko']
+animeVoices	['Kaji, Yuki', 'Yuuki, Aoi', 'Horie, Yui', 'Suwabe, Junichi', 'Fukuen, Misato', 'Miki, Shinichiro', 'Ishida, Akira', 'Toki, Shunichi', 'Kobayashi, Yuu', 'Nakamura, Tomoko']
+animeStaff	"[['Suganuma, Eiji', 'Director'], [""May'n"", 'Theme Song Performance'], ['JUNNA', 'Theme Song Performance'], ['Jewell, Jerry', 'ADR Director']]"

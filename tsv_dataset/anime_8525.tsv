@@ -1,5 +1,5 @@
-animeTitle	b'Gunslinger Stratos'
-animeType	b'ONA'
+animeTitle	Gunslinger Stratos
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.03
 animeUsers	1255
 animeRank	
-animePopularity	
-animeDescription	b'Animated movie of the popular online multi-player double gun action game Gunslinger Stratos 2 which was streamed on the official YouTube channel of Square Enix.'
-animeRelated	[b'Gunslinger Stratos The Animation']
-animeCharacters	[b'Kazasumi, Tooru', b'Katagiri, Kyouka', b'Katagiri, Kyouma', b'Rindou, Shizune', b'Odhner, Remy']
-animeVoices	[b'\nAbe, Atsushi\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n', b'\nNishida, Masakazu\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nFuchigami, Makoto\n\nEpisode Director, Storyboard\n\n', b'\nKatou, Hiromi\n\nAnimation Director, Character Design\n\n', b'\nTamura, Yuri\n\nEditing\n\n']
+animePopularity	7435
+animeDescription	Animated movie of the popular online multi-player double gun action game Gunslinger Stratos 2 which was streamed on the official YouTube channel of Square Enix.
+animeRelated	['Gunslinger Stratos The Animation']
+animeCharacters	['Kazasumi, Tooru', 'Katagiri, Kyouka', 'Katagiri, Kyouma', 'Rindou, Shizune', 'Odhner, Remy']
+animeVoices	['Abe, Atsushi', 'Kanemoto, Hisako', 'Nishida, Masakazu', 'Ueda, Kana', 'Sawashiro, Miyuki']
+animeStaff	[['Aketagawa, Jin', 'Sound Director'], ['Fuchigami, Makoto', 'Episode Director, Storyboard'], ['Katou, Hiromi', 'Animation Director, Character Design'], ['Tamura, Yuri', 'Editing']]

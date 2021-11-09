@@ -1,5 +1,5 @@
-animeTitle	b'Sushi Police'
-animeType	b'TV'
+animeTitle	Sushi Police
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	4.65
 animeUsers	3929
 animeRank	
-animePopularity	
-animeDescription	"b""Honda, Kawasaki, and Suzuki all comprise the elite ninth unit of the Sushi Police\xe2\x80\x94a task force with the sole objective of sniffing out restaurants serving illicit or non-traditional sushi and eradicating them, no matter how insignificant their offense may be. The Sushi Police travel freely around the world in pursuit of these vile criminals day or night, with their strong sense of justice and the World Food-Culture Conservation Organization backing them. No offenders of Japan's traditional cuisine can escape their wrath!\n\nDuring one of their purification missions, the Sushi Police encounter Sara\xe2\x80\x94a hot, young, television reporter out to expose them and the World Food-Culture Conservation Organization for corruption. They interrogate her, but her wiles, skills, and charms allow her to easily escape from their grasp, setting off a chain of events that will lead to the true purpose of the Sushi Police being revealed.\n\n[Written by MAL Rewrite]"""
+animePopularity	4837
+animeDescription	"Honda, Kawasaki, and Suzuki all comprise the elite ninth unit of the Sushi Police—a task force with the sole objective of sniffing out restaurants serving illicit or non-traditional sushi and eradicating them, no matter how insignificant their offense may be. The Sushi Police travel freely around the world in pursuit of these vile criminals day or night, with their strong sense of justice and the World Food-Culture Conservation Organization backing them. No offenders of Japan's traditional cuisine can escape their wrath!
+
+During one of their purification missions, the Sushi Police encounter Sara—a hot, young, television reporter out to expose them and the World Food-Culture Conservation Organization for corruption. They interrogate her, but her wiles, skills, and charms allow her to easily escape from their grasp, setting off a chain of events that will lead to the true purpose of the Sushi Police being revealed.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Suzuki', b'Kawasaki', b'Honda', b'Carlos', b'Sara', b'Fuji, Madame']
-animeVoices	[b'\nOkamoto, Hiromitsu\nJapanese\n', b'\nYamashita, Akira\nJapanese\n', b'\nKikuchi, Yumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMomen, Tatsushi\n\nDirector\n\n', b'\nPerfume\n\nTheme Song Performance\n\n', b'\nNakata, Yasutaka\n\nTheme Song Composition\n\n', b'\nOkamoto, Sae\n\nBackground Art\n\n']
+animeCharacters	['Suzuki', 'Kawasaki', 'Honda', 'Carlos', 'Sara', 'Fuji, Madame']
+animeVoices	['Okamoto, Hiromitsu', 'Yamashita, Akira', 'Kikuchi, Yumi']
+animeStaff	[['Momen, Tatsushi', 'Director'], ['Perfume', 'Theme Song Performance'], ['Nakata, Yasutaka', 'Theme Song Composition'], ['Okamoto, Sae', 'Background Art']]

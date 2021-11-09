@@ -1,5 +1,5 @@
-animeTitle	b'Hi\xe2\x98\x86sCoool! SeHa Girls'
-animeType	b'TV'
+animeTitle	Hi☆sCoool! SeHa Girls
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.51
 animeUsers	4546
 animeRank	
-animePopularity	
-animeDescription	"b""The story of the anime will revolve around Dreamcast, Sega Saturn, and Mega Drive, who have just enrolled in SeHaGaga Academy at Tokyo's Haneda \xc5\x8ctorii station. They are given an assignment needed to graduate by a suspicious teacher, and to clear this assignment, the girls need to enter the world of Sega games. The girls must try their best to graduate without incident.\n\n(Source: ANN)"""
-animeRelated	[b'Gendai Nihon ni Yattekita Sega no Megami ni Arigachi na Koto', b'Hi\xe2\x98\x86sCoool! SeHa Girls Special']
-animeCharacters	[b'Sega Saturn', b'Dreamcast', b'Mega Drive', b'Sega Mark III', b'Mega-CD 2', b'Mega Drive 2', b'TeraDrive', b'Mega-CD', b'Genesis', b'Super 32X']
-animeVoices	[b'\nTakahashi, Minami\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nIzawa, Shiori\nJapanese\n', b'\nTanaka, Manami\nJapanese\n', b'\nHayashi, Saori\nJapanese\n', b'\nYamaoka, Yuri\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nMikami, Shiori\nJapanese\n', b'\nTano, Asami\nJapanese\n', b'\nKano, Yui\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugahara, Souta\n\nDirector, Script, Character Design\n\n', b'\nIchimichi, Mao\n\nTheme Song Performance\n\n', b'\nTakahashi, Minami\n\nTheme Song Performance\n\n', b'\nIzawa, Shiori\n\nTheme Song Performance\n\n']
+animePopularity	5125
+animeDescription	"The story of the anime will revolve around Dreamcast, Sega Saturn, and Mega Drive, who have just enrolled in SeHaGaga Academy at Tokyo's Haneda Ōtorii station. They are given an assignment needed to graduate by a suspicious teacher, and to clear this assignment, the girls need to enter the world of Sega games. The girls must try their best to graduate without incident.
+
+(Source: ANN)"
+animeRelated	['Gendai Nihon ni Yattekita Sega no Megami ni Arigachi na Koto', 'Hi☆sCoool! SeHa Girls Special']
+animeCharacters	['Sega Saturn', 'Dreamcast', 'Mega Drive', 'Sega Mark III', 'Mega-CD 2', 'Mega Drive 2', 'TeraDrive', 'Mega-CD', 'Genesis', 'Super 32X']
+animeVoices	['Takahashi, Minami', 'Ichimichi, Mao', 'Izawa, Shiori', 'Tanaka, Manami', 'Hayashi, Saori', 'Yamaoka, Yuri', 'Inoue, Marina', 'Mikami, Shiori', 'Tano, Asami', 'Kano, Yui']
+animeStaff	[['Sugahara, Souta', 'Director, Script, Character Design'], ['Ichimichi, Mao', 'Theme Song Performance'], ['Takahashi, Minami', 'Theme Song Performance'], ['Izawa, Shiori', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Oshare Majo Love and Berry: Shiawase no Mahou'
-animeType	b'Movie'
+animeTitle	Oshare Majo Love and Berry: Shiawase no Mahou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""A movie based on the popular fashion card and arcade dance game aimed at young girls. The movie features the magical Princesses Love and Berry, who posess Fashion Magic. While Love and Berry are best friends, they become rivals for attention when they're on the dance floor.\n\n(Source: Wikipedia)"""
+animePopularity	11988
+animeDescription	"A movie based on the popular fashion card and arcade dance game aimed at young girls. The movie features the magical Princesses Love and Berry, who posess Fashion Magic. While Love and Berry are best friends, they become rivals for attention when they're on the dance floor.
+
+(Source: Wikipedia)"
 animeRelated	[]
-animeCharacters	[b'Love', b'Berry', b'Shou', b'Yumi']
-animeVoices	[b'\nKonno, Hiromi\nJapanese\n', b'\nYanai, Hisayo\nJapanese\n', b'\nKaida, Yuki\nJapanese\n', b'\nYajima, Akiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMochizuki, Tomomi\n\nDirector, Sound Director, Storyboard\n\n', b'\nOtsuka, Ai\n\nTheme Song Performance\n\n', b'\nMOKA\xe2\x98\x86\n\nMusic\n\n', b'\nKadonosono, Megumi\n\nCharacter Design\n\n']
+animeCharacters	['Love', 'Berry', 'Shou', 'Yumi']
+animeVoices	['Konno, Hiromi', 'Yanai, Hisayo', 'Kaida, Yuki', 'Yajima, Akiko']
+animeStaff	[['Mochizuki, Tomomi', 'Director, Sound Director, Storyboard'], ['Otsuka, Ai', 'Theme Song Performance'], ['MOKA☆', 'Music'], ['Kadonosono, Megumi', 'Character Design']]

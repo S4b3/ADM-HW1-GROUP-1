@@ -1,5 +1,5 @@
-animeTitle	b'Tsurezure Children'
-animeType	b'TV'
+animeTitle	Tsurezure Children
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.61
 animeUsers	313614
 animeRank	
-animePopularity	
-animeDescription	b'Young love\xe2\x80\x94it takes many unique and fascinating forms that flourish as children begin to mature into adults. From being unable to confess to not knowing what real love actually feels like, various obstacles can arise when learning about romantic attraction for the first time. But underneath all that, young love is something truly beautiful to behold, leading to brand new experiences for those young and in love.\n\nTsurezure Children depicts various scenarios of young love coming to fruition, along with the struggles and joys that it entails.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Tsurezure Children']
-animeCharacters	[b'Akagi, Masafumi', b'Katori, Shinichi', b'Minagawa, Yuki', b'Takano, Chizuru', b'Kaji, Ryouko', b'Kamine, Ayaka', b'Ijima, Kana', b'Sugawara, Takurou', b'Gouda, Takeru', b'Sasahara, Satsuki']
-animeVoices	[b'\nOno, Kensho\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nOgura, Yui\nJapanese\n', b'\nKitou, Akari\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nUchida, Maaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKaneko, Hiraku\n\nDirector\n\n', b'\nTateishi, Yayoi\n\nSound Director\n\n', b'\nUrahata, Tatsuhiko\n\nScript, Series Composition\n\n', b'\nCrane, Deborah\n\nScript\n\n']
+animePopularity	249
+animeDescription	"Young love—it takes many unique and fascinating forms that flourish as children begin to mature into adults. From being unable to confess to not knowing what real love actually feels like, various obstacles can arise when learning about romantic attraction for the first time. But underneath all that, young love is something truly beautiful to behold, leading to brand new experiences for those young and in love.
+
+Tsurezure Children depicts various scenarios of young love coming to fruition, along with the struggles and joys that it entails.
+
+[Written by MAL Rewrite]"
+animeRelated	['Tsurezure Children']
+animeCharacters	['Akagi, Masafumi', 'Katori, Shinichi', 'Minagawa, Yuki', 'Takano, Chizuru', 'Kaji, Ryouko', 'Kamine, Ayaka', 'Ijima, Kana', 'Sugawara, Takurou', 'Gouda, Takeru', 'Sasahara, Satsuki']
+animeVoices	['Ono, Kensho', 'Namikawa, Daisuke', 'Hanazawa, Kana', 'Minase, Inori', 'Sakura, Ayane', 'Ogura, Yui', 'Kitou, Akari', 'Ishikawa, Kaito', 'Maeno, Tomoaki', 'Uchida, Maaya']
+animeStaff	[['Kaneko, Hiraku', 'Director'], ['Tateishi, Yayoi', 'Sound Director'], ['Urahata, Tatsuhiko', 'Script, Series Composition'], ['Crane, Deborah', 'Script']]

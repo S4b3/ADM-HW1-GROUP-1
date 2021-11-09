@@ -1,5 +1,5 @@
-animeTitle	b'Eyeshield 21: Jump Festa 2005 Special'
-animeType	b'Special'
+animeTitle	Eyeshield 21: Jump Festa 2005 Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.75
 animeUsers	2507
 animeRank	
-animePopularity	
-animeDescription	b'A brief OVA about the Devil Bats training on an island. '
-animeRelated	[b'Eyeshield 21']
-animeCharacters	[b'Hiruma, Youichi', b'Kobayakawa, Sena', b'Raimon, Tarou', b'Kurita, Ryokan', b'Anezaki, Mamori', b'Yukimitsu, Manabu', b'Komusubi, Daikichi', b'Juumonji, Kazuki', b'Togano, Shozo', b'Kuroki, Koji']
-animeVoices	[b'\nTamura, Atsushi\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nNagano, Kouichi\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nHotta, Masaru\nJapanese\n', b'\nSakaki, Hidenori\nJapanese\n', b'\nHoshino, Takanori\nJapanese\n', b'\nMaeda, Takeshi\nJapanese\n', b'\nIwasaki, Masami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurata, Yusuke\n\nOriginal Character Design\n\n', b'\nInagaki, Riichiro\n\nOriginal Creator\n\n']
+animePopularity	6443
+animeDescription	A brief OVA about the Devil Bats training on an island. 
+animeRelated	['Eyeshield 21']
+animeCharacters	['Hiruma, Youichi', 'Kobayakawa, Sena', 'Raimon, Tarou', 'Kurita, Ryokan', 'Anezaki, Mamori', 'Yukimitsu, Manabu', 'Komusubi, Daikichi', 'Juumonji, Kazuki', 'Togano, Shozo', 'Kuroki, Koji']
+animeVoices	['Tamura, Atsushi', 'Irino, Miyu', 'Yamaguchi, Kappei', 'Nagano, Kouichi', 'Hirano, Aya', 'Hotta, Masaru', 'Sakaki, Hidenori', 'Hoshino, Takanori', 'Maeda, Takeshi', 'Iwasaki, Masami']
+animeStaff	[['Murata, Yusuke', 'Original Character Design'], ['Inagaki, Riichiro', 'Original Creator']]

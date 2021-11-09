@@ -1,5 +1,5 @@
-animeTitle	b'Tsui no Sora'
-animeType	b'OVA'
+animeTitle	Tsui no Sora
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	2.26
 animeUsers	2785
 animeRank	
-animePopularity	
-animeDescription	b'After the sudden death of a student, mysterious things start to happen and a school seemingly falls into madness.\n\nBased on the game by KeroQ.'
+animePopularity	7161
+animeDescription	"After the sudden death of a student, mysterious things start to happen and a school seemingly falls into madness.
+
+Based on the game by KeroQ."
 animeRelated	[]
-animeCharacters	[b'Mamiya, Takuji', b'Minakami, Yukito', b'Otonashi, Ayana', b'Takashima, Zakuro']
+animeCharacters	['Mamiya, Takuji', 'Minakami, Yukito', 'Otonashi, Ayana', 'Takashima, Zakuro']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSCA-DI\n\nOriginal Creator\n\n']
+animeStaff	[['SCA-DI', 'Original Creator']]

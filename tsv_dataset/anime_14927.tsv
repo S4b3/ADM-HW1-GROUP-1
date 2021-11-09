@@ -1,5 +1,5 @@
-animeTitle	b'Baka Mukashibanashi Movie: Jijii Wars'
-animeType	b'Movie'
+animeTitle	Baka Mukashibanashi Movie: Jijii Wars
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Animated adaptation of old Japanese folk tales with the modern twists by Keiko Sootome.'
+animePopularity	14993
+animeDescription	Animated adaptation of old Japanese folk tales with the modern twists by Keiko Sootome.
 animeRelated	[]
-animeCharacters	[b'Narrator']
-animeVoices	[b'\nNukumizu, Youichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSootome, Keiko\n\nDirector, Original Creator\n\n', b'\nHosokawa, Tooru\n\nDirector, Screenplay, Original Creator\n\n']
+animeCharacters	['Narrator']
+animeVoices	['Nukumizu, Youichi']
+animeStaff	[['Sootome, Keiko', 'Director, Original Creator'], ['Hosokawa, Tooru', 'Director, Screenplay, Original Creator']]

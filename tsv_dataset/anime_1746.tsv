@@ -1,5 +1,5 @@
-animeTitle	b'Junjou Romantica Special'
-animeType	b'Special'
+animeTitle	Junjou Romantica Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.46
 animeUsers	14556
 animeRank	
-animePopularity	
-animeDescription	b'Voice actors comment various scenes from the anime.'
-animeRelated	[b'Junjou Romantica']
-animeCharacters	[b'Usami, Akihiko', b'Takahashi, Misaki']
+animePopularity	3174
+animeDescription	Voice actors comment various scenes from the anime.
+animeRelated	['Junjou Romantica']
+animeCharacters	['Usami, Akihiko', 'Takahashi, Misaki']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Shungiku\n\nScript\n\n', b'\nMOKA\xe2\x98\x86\n\nMusic\n\n']
+animeStaff	[['Nakamura, Shungiku', 'Script'], ['MOKA☆', 'Music']]

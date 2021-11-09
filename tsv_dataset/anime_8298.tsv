@@ -1,5 +1,5 @@
-animeTitle	b'Shin Don Chuck Monogatari'
-animeType	b'TV'
+animeTitle	Shin Don Chuck Monogatari
+animeType	TV
 animeNumEpisode	73
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.08
 animeUsers	170
 animeRank	
-animePopularity	
-animeDescription	b'More adventures for Chuck and his friends.\n\n(Source: AniDB)'
-animeRelated	[b'Don Chuck Monogatari']
-animeCharacters	[b'Don Chuck']
+animePopularity	13177
+animeDescription	"More adventures for Chuck and his friends.
+
+(Source: AniDB)"
+animeRelated	['Don Chuck Monogatari']
+animeCharacters	['Don Chuck']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSekita, Osamu\n\nEpisode Director\n\n', b'\nTakagaki, Kouzou\n\nEpisode Director\n\n', b'\nAndou, Toyohiro\n\nScript\n\n', b'\nOosugi, Kumiko\n\nTheme Song Performance\n\n']
+animeStaff	[['Sekita, Osamu', 'Episode Director'], ['Takagaki, Kouzou', 'Episode Director'], ['Andou, Toyohiro', 'Script'], ['Oosugi, Kumiko', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Dousou Kai'
-animeType	b'OVA'
+animeTitle	Dousou Kai
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.7
 animeUsers	599
 animeRank	
-animePopularity	
-animeDescription	b'A young group of friends meet up for the first time in a very long time after finishing high-school. One of them remembers how once ago a girl left him Daisies and a love letter inside his locker, back in the high-school days. He has three suspects of who this secret lover could be and so there is only one way to know... by having sex with all of them.\n\n(Source: AniDB)'
-animeRelated	[b'Dousou Kai Again']
-animeCharacters	[b'Aoki, Momoko']
+animePopularity	9435
+animeDescription	"A young group of friends meet up for the first time in a very long time after finishing high-school. One of them remembers how once ago a girl left him Daisies and a love letter inside his locker, back in the high-school days. He has three suspects of who this secret lover could be and so there is only one way to know... by having sex with all of them.
+
+(Source: AniDB)"
+animeRelated	['Dousou Kai Again']
+animeCharacters	['Aoki, Momoko']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOoshiro, Tsutomu\n\nKey Animation\n\n', b'\nTokiwa, Shouji\n\nArt Director\n\n']
+animeStaff	[['Ooshiro, Tsutomu', 'Key Animation'], ['Tokiwa, Shouji', 'Art Director']]

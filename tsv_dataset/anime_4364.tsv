@@ -1,5 +1,5 @@
-animeTitle	b'Radiant'
-animeType	b'TV'
+animeTitle	Radiant
+animeType	TV
 animeNumEpisode	21
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.86
 animeUsers	56490
 animeRank	
-animePopularity	
-animeDescription	b'Nemeses\xe2\x80\x94powerful and mysterious demonic entities that fall from the sky and vaporize anything they touch. The only ones who can combat these creatures are Sorcerers, those who have survived an encounter with a Nemesis but were infected in the process.\n\nSeth, a Sorcerer from Pompo Hills, sets out on an adventure to exterminate all these Nemeses. Accompanying him are Doc and M\xc3\xa9lie, fellow Sorcerers who share his ideal. Their main objective is to bring about a world where Sorcerers are no longer persecuted for being infected, and to that end, desire to destroy the source of the Nemeses themselves: the mythical Radiant.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Radiant 2nd Season']
-animeCharacters	[b'Melie', b'Seth', b'Alma', b'Doc', b'Grimm', b'Hameline', b'Dragunov, Dart', b'Mister Bobley', b'Bagliore, Ulmina', b'Lieselotte']
-animeVoices	[b'\nYuuki, Aoi\nJapanese\n', b'\nHanamori, Yumiri\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nOohata, Shintarou\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nKoichi, Makoto\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nSakura, Ayane\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiga, Yuuji\n\nProducer\n\n', b'\nKishi, Seiji\n\nDirector\n\n', b'\nFukuoka, Motoo\n\nDirector, Storyboard\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n']
+animePopularity	1036
+animeDescription	"Nemeses—powerful and mysterious demonic entities that fall from the sky and vaporize anything they touch. The only ones who can combat these creatures are Sorcerers, those who have survived an encounter with a Nemesis but were infected in the process.
+
+Seth, a Sorcerer from Pompo Hills, sets out on an adventure to exterminate all these Nemeses. Accompanying him are Doc and Mélie, fellow Sorcerers who share his ideal. Their main objective is to bring about a world where Sorcerers are no longer persecuted for being infected, and to that end, desire to destroy the source of the Nemeses themselves: the mythical Radiant.
+
+[Written by MAL Rewrite]"
+animeRelated	['Radiant 2nd Season']
+animeCharacters	['Melie', 'Seth', 'Alma', 'Doc', 'Grimm', 'Hameline', 'Dragunov, Dart', 'Mister Bobley', 'Bagliore, Ulmina', 'Lieselotte']
+animeVoices	['Yuuki, Aoi', 'Hanamori, Yumiri', 'Park, Romi', 'Oohata, Shintarou', 'Koyasu, Takehito', 'Uchiyama, Yumi', 'Yusa, Kouji', 'Koichi, Makoto', 'Hayami, Saori', 'Sakura, Ayane']
+animeStaff	[['Higa, Yuuji', 'Producer'], ['Kishi, Seiji', 'Director'], ['Fukuoka, Motoo', 'Director, Storyboard'], ['Takadera, Takeshi', 'Sound Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Coffee Ikaga Deshou'
-animeType	b'ONA'
+animeTitle	Coffee Ikaga Deshou
+animeType	ONA
 animeNumEpisode	30
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The anime follows a coffee food truck shop, where the barista makes an individual cup for each customer. The coffee brewed conscientiously, sincerely, and wholeheartedly helps customers unwind.\n\n(Source: ANN)'
-animeRelated	[b'Coffee Ikaga Deshou']
-animeCharacters	[b'Aoyama, Hajime', b'Baba', b'Gakine, Shima']
-animeVoices	[b'\nSaitou, Souma\nJapanese\n', b'\nKatou, Emiri\nJapanese\n', b'\nAkasaki, Chinatsu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawakami, Eimi\n\nProducer, Director, Episode Director, 2nd Key Animation, Animation Director\n\n', b'\nSatou, Masashi\n\nSound Director\n\n', b'\nOotaki, Kenichi\n\nKey Animation, Director of Photography\n\n', b'\nKonari, Misato\n\nOriginal Creator\n\n']
+animePopularity	12676
+animeDescription	"The anime follows a coffee food truck shop, where the barista makes an individual cup for each customer. The coffee brewed conscientiously, sincerely, and wholeheartedly helps customers unwind.
+
+(Source: ANN)"
+animeRelated	['Coffee Ikaga Deshou']
+animeCharacters	['Aoyama, Hajime', 'Baba', 'Gakine, Shima']
+animeVoices	['Saitou, Souma', 'Katou, Emiri', 'Akasaki, Chinatsu']
+animeStaff	[['Kawakami, Eimi', 'Producer, Director, Episode Director, 2nd Key Animation, Animation Director'], ['Satou, Masashi', 'Sound Director'], ['Ootaki, Kenichi', 'Key Animation, Director of Photography'], ['Konari, Misato', 'Original Creator']]

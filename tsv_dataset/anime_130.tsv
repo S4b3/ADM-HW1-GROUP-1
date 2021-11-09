@@ -1,5 +1,5 @@
-animeTitle	b'Nichijou'
-animeType	b'TV'
+animeTitle	Nichijou
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.46
 animeUsers	280072
 animeRank	
-animePopularity	
-animeDescription	"b""Nichijou primarily focuses on the daily antics of a trio of childhood friends\xe2\x80\x94high school girls Mio Naganohara, Yuuko Aioi and Mai Minakami\xe2\x80\x94whose stories soon intertwine with the young genius Hakase Shinonome, her robot caretaker Nano, and their talking cat Sakamoto. With every passing day, the lives of these six, as well as of the many people around them, experience both the calms of normal life and the insanity of the absurd. Walking to school, being bitten by a talking crow, spending time with friends, and watching the principal suplex a deer: they are all in a day's work in the extraordinary everyday lives of those in Nichijou. \n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Nichijou', b'Nichijou: Nichijou no 0-wa', b'Nichijou: Original Jikai Yokoku', b'Amemiya-san']
-animeCharacters	[b'Aioi, Yuuko', b'Sakamoto', b'Shinonome, Hakase', b'Naganohara, Mio', b'Shinonome, Nano', b'Minakami, Mai', b'Sakurai, Izumi', b'Karasu', b'Tachibana, Misato', b'Sasahara, Koujirou']
-animeVoices	[b'\nHonda, Mariko\nJapanese\n', b'\nShiraishi, Minoru\nJapanese\n', b'\nKonno, Hiromi\nJapanese\n', b'\nAizawa, Mai\nJapanese\n', b'\nFuruya, Shizuka\nJapanese\n', b'\nTogashi, Misuzu\nJapanese\n', b'\nKosuge, Mami\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nHorikawa, Chika\nJapanese\n', b'\nKawahara, Yoshihisa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSenami, Riri\n\nAssistant Producer\n\n', b'\nIshihara, Tatsuya\n\nDirector, Episode Director, Storyboard, Screenplay\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nYamada, Naoko\n\nEpisode Director, Storyboard, Key Animation\n\n']
+animePopularity	163
+animeDescription	"Nichijou primarily focuses on the daily antics of a trio of childhood friends—high school girls Mio Naganohara, Yuuko Aioi and Mai Minakami—whose stories soon intertwine with the young genius Hakase Shinonome, her robot caretaker Nano, and their talking cat Sakamoto. With every passing day, the lives of these six, as well as of the many people around them, experience both the calms of normal life and the insanity of the absurd. Walking to school, being bitten by a talking crow, spending time with friends, and watching the principal suplex a deer: they are all in a day's work in the extraordinary everyday lives of those in Nichijou. 
+
+[Written by MAL Rewrite]"
+animeRelated	['Nichijou', 'Nichijou: Nichijou no 0-wa', 'Nichijou: Original Jikai Yokoku', 'Amemiya-san']
+animeCharacters	['Aioi, Yuuko', 'Sakamoto', 'Shinonome, Hakase', 'Naganohara, Mio', 'Shinonome, Nano', 'Minakami, Mai', 'Sakurai, Izumi', 'Karasu', 'Tachibana, Misato', 'Sasahara, Koujirou']
+animeVoices	['Honda, Mariko', 'Shiraishi, Minoru', 'Konno, Hiromi', 'Aizawa, Mai', 'Furuya, Shizuka', 'Togashi, Misuzu', 'Kosuge, Mami', 'Ono, Daisuke', 'Horikawa, Chika', 'Kawahara, Yoshihisa']
+animeStaff	[['Senami, Riri', 'Assistant Producer'], ['Ishihara, Tatsuya', 'Director, Episode Director, Storyboard, Screenplay'], ['Tsuruoka, Youta', 'Sound Director'], ['Yamada, Naoko', 'Episode Director, Storyboard, Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Haikyuu!! Movie 4: Concept no Tatakai'
-animeType	b'Movie'
+animeTitle	Haikyuu!! Movie 4: Concept no Tatakai
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.13
 animeUsers	19454
 animeRank	
-animePopularity	
-animeDescription	b'Recap film that will cover the match against Shiratorizawa Academy that took place in the third season.\n\n(Source: MAL News)'
-animeRelated	[b'Haikyuu!!', b'Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou', b'Haikyuu!! Movie 3: Sainou to Sense']
-animeCharacters	[b'Hinata, Shouyou', b'Kageyama, Tobio', b'Nishinoya, Yuu', b'Tsukishima, Kei', b'Sugawara, Koushi', b'Tanaka, Ryuunosuke', b'Yamaguchi, Tadashi', b'Tendou, Satori', b'Azumane, Asahi', b'Sawamura, Daichi']
+animePopularity	2397
+animeDescription	"Recap film that will cover the match against Shiratorizawa Academy that took place in the third season.
+
+(Source: MAL News)"
+animeRelated	['Haikyuu!!', 'Haikyuu!!: Karasuno Koukou vs. Shiratorizawa Gakuen Koukou', 'Haikyuu!! Movie 3: Sainou to Sense']
+animeCharacters	['Hinata, Shouyou', 'Kageyama, Tobio', 'Nishinoya, Yuu', 'Tsukishima, Kei', 'Sugawara, Koushi', 'Tanaka, Ryuunosuke', 'Yamaguchi, Tadashi', 'Tendou, Satori', 'Azumane, Asahi', 'Sawamura, Daichi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorihiro, Fumi\n\nProducer\n\n', b'\nMatsushita, Keiko\n\nProducer\n\n', b'\nBURNOUT SYNDROMES\n\nTheme Song Performance\n\n', b'\nFurudate, Haruichi\n\nOriginal Creator\n\n']
+animeStaff	[['Morihiro, Fumi', 'Producer'], ['Matsushita, Keiko', 'Producer'], ['BURNOUT SYNDROMES', 'Theme Song Performance'], ['Furudate, Haruichi', 'Original Creator']]

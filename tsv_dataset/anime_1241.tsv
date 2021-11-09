@@ -1,5 +1,5 @@
-animeTitle	b'Jigoku Shoujo'
-animeType	b'TV'
+animeTitle	Jigoku Shoujo
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.63
 animeUsers	111012
 animeRank	
-animePopularity	
-animeDescription	"b""Have you heard of Hell Correspondence? Those with a powerful grudge may only access this mysterious website at midnight, allowing them to enter anyone's name and have that person be ferried straight to hell. Ai Enma, the Hell Girl, will not judge whether or not the chosen target deserves punishment; she will merely exact revenge on them for you. Not much is known about this young girl other than that she swiftly carries out her tasks with the help of three straw dolls. There is just one catch, however\xe2\x80\x94as payment for carrying out such a request, the user must condemn themselves to an afterlife in hell.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Jigoku Shoujo', b'Shin Jigoku Shoujo', b'Jigoku Shoujo Futakomori', b'Jigoku Shoujo Recap']
-animeCharacters	"[b'Enma, Ai', b'Ichimoku, Ren', b'Hone Onna', b'Wanyuudou', b'Shibata, Tsugumi', b'Shibata, Hajime', b""De L'Enfer, Gilles"", b'Sakuragi, Kanako', b'Shibuya, Minami', b'Takamura, Ryoko']"
-animeVoices	[b'\nNoto, Mamiko\nJapanese\n', b'\nMatsukaze, Masaya\nJapanese\n', b'\nHonda, Takako\nJapanese\n', b'\nSugou, Takayuki\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nIshige, Sawa\nJapanese\n', b'\nShimizu, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nOomori, Takahiro\n\nDirector, Episode Director, Storyboard\n\n', b'\nKosaka, Harume\n\nEpisode Director\n\n', b'\nTatum, John Michael\n\nScript\n\n']
+animePopularity	547
+animeDescription	"Have you heard of Hell Correspondence? Those with a powerful grudge may only access this mysterious website at midnight, allowing them to enter anyone's name and have that person be ferried straight to hell. Ai Enma, the Hell Girl, will not judge whether or not the chosen target deserves punishment; she will merely exact revenge on them for you. Not much is known about this young girl other than that she swiftly carries out her tasks with the help of three straw dolls. There is just one catch, however—as payment for carrying out such a request, the user must condemn themselves to an afterlife in hell.
+
+[Written by MAL Rewrite]"
+animeRelated	['Jigoku Shoujo', 'Shin Jigoku Shoujo', 'Jigoku Shoujo Futakomori', 'Jigoku Shoujo Recap']
+animeCharacters	"['Enma, Ai', 'Ichimoku, Ren', 'Hone Onna', 'Wanyuudou', 'Shibata, Tsugumi', 'Shibata, Hajime', ""De L'Enfer, Gilles"", 'Sakuragi, Kanako', 'Shibuya, Minami', 'Takamura, Ryoko']"
+animeVoices	['Noto, Mamiko', 'Matsukaze, Masaya', 'Honda, Takako', 'Sugou, Takayuki', 'Mizuki, Nana', 'Ueda, Yuuji', 'Fukuyama, Jun', 'Sawashiro, Miyuki', 'Ishige, Sawa', 'Shimizu, Ai']
+animeStaff	[['Cook, Justin', 'Producer'], ['Oomori, Takahiro', 'Director, Episode Director, Storyboard'], ['Kosaka, Harume', 'Episode Director'], ['Tatum, John Michael', 'Script']]

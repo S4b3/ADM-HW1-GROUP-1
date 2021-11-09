@@ -1,5 +1,5 @@
-animeTitle	b'Anyamal Tantei Kiruminzoo'
-animeType	b'TV'
+animeTitle	Anyamal Tantei Kiruminzoo
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.07
 animeUsers	1372
 animeRank	
-animePopularity	
-animeDescription	"b' While searching for a run-away cat the twins Riko and Rimu Mikogami find a strange device that transforms them into ""Kirumin."" It also enables them to turn into real animals. Their older sister Nagisa soon joins them. Now the three have cute, funny and sometimes dangerous adventures.'"
+animePopularity	6108
+animeDescription	" While searching for a run-away cat the twins Riko and Rimu Mikogami find a strange device that transforms them into ""Kirumin."" It also enables them to turn into real animals. Their older sister Nagisa soon joins them. Now the three have cute, funny and sometimes dangerous adventures."
 animeRelated	[]
-animeCharacters	[b'Hatori, Kanon', b'Mikogami, Riko', b'Mikogami, Rimu', b'Mikogami, Nagisa', b'Hatori, Misa', b'Ryuudou, Pulse', b'Mikogami, Haruka', b'Cobblepot, Jun', b'Miyabe, Kasumi', b'Kijima, Tamao']
-animeVoices	[b'\nTange, Sakura\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nAnzai, Chika\nJapanese\n', b'\nWatanabe, Misa\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nMiyamoto, Kanako\nJapanese\n', b'\nIkebe, Kumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasui, Souichi\n\nDirector\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nMasaki, Shinichi\n\nEpisode Director\n\n', b'\nHara, Hiroshi\n\nEpisode Director, Key Animation\n\n']
+animeCharacters	['Hatori, Kanon', 'Mikogami, Riko', 'Mikogami, Rimu', 'Mikogami, Nagisa', 'Hatori, Misa', 'Ryuudou, Pulse', 'Mikogami, Haruka', 'Cobblepot, Jun', 'Miyabe, Kasumi', 'Kijima, Tamao']
+animeVoices	['Tange, Sakura', 'Yuuki, Aoi', 'Satou, Satomi', 'Anzai, Chika', 'Watanabe, Misa', 'Nojima, Kenji', 'Neya, Michiko', 'Miyamoto, Kanako', 'Ikebe, Kumiko']
+animeStaff	[['Masui, Souichi', 'Director'], ['Nagasaki, Yukio', 'Sound Director'], ['Masaki, Shinichi', 'Episode Director'], ['Hara, Hiroshi', 'Episode Director, Key Animation']]

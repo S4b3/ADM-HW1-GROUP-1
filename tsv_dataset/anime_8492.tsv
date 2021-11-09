@@ -1,5 +1,5 @@
-animeTitle	b'Super Shiro'
-animeType	b'TV'
+animeTitle	Super Shiro
+animeType	TV
 animeNumEpisode	48
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.04
 animeUsers	364
 animeRank	
-animePopularity	
-animeDescription	b'Spin-off series of Crayon Shin-chan franchise, featuring Shiro.  Commemorates 60th Anniversary of TV Asahi.'
-animeRelated	[b'Crayon Shin-chan']
-animeCharacters	[b'Shiro', b'Nohara, Shinnosuke', b'Nohara, Hiroshi', b'Nohara, Misae', b'Nohara, Himawari', b'Dekapoo']
+animePopularity	9647
+animeDescription	Spin-off series of Crayon Shin-chan franchise, featuring Shiro.  Commemorates 60th Anniversary of TV Asahi.
+animeRelated	['Crayon Shin-chan']
+animeCharacters	['Shiro', 'Nohara, Shinnosuke', 'Nohara, Hiroshi', 'Nohara, Misae', 'Nohara, Himawari', 'Dekapoo']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nChoi, Eun-Young\n\nProducer\n\n', b'\nYuasa, Masaaki\n\nDirector, Script, Planning\n\n', b'\nShimoyama, Tomohisa\n\nDirector\n\n', b'\nOokuma, Akira\n\nSound Director\n\n']
+animeStaff	[['Choi, Eun-Young', 'Producer'], ['Yuasa, Masaaki', 'Director, Script, Planning'], ['Shimoyama, Tomohisa', 'Director'], ['Ookuma, Akira', 'Sound Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Steamboy'
-animeType	b'Movie'
+animeTitle	Steamboy
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.34
 animeUsers	36168
 animeRank	
-animePopularity	
-animeDescription	"b""Ray is a young wunderkind inventor living in Victorian England. His life is turned upside down when he receives a special package hailing from the United States, sent by his grandfather, Lloyd Steam. The package contains a device called a Steam Ball, a device so powerful that it can drive any machine that requires steam with a nearly limitless amount of energy.\n\nRay is instructed to not let the Steam Ball fall into the wrong hands, which include the mighty O'Hara Foundation, who desperately want to bring the Steam Ball back into their control so they can achieve their less than noble goals.\n\nHe will need to use every bit of his brilliance in order to dodge the countless goons that are sent to snatch the device from him. It will be a battle between good and evil, a battle for redemption, a battle for the future!"""
-animeRelated	[b'Steamboy']
-animeCharacters	"[b'Steam, James Ray', b""O'Hara-St. Jones, Scarlett"", b'Steam, James Lloyd', b'Emma', b'David', b'Steam, James Edward', b'The Admiral', b'Stephenson, Robert', b'Thomas', b'Smith, Alfred']"
-animeVoices	[b'\nSuzuki, Anne\nJapanese\n', b'\nKonishi, Manami\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nTsukayama, Masane\nJapanese\n', b'\nSaka, Osamu\nJapanese\n', b'\nKodama, Kiyoshi\nJapanese\n', b'\nHibi, Aiko\nJapanese\n', b'\nTerajima, Susumu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOtomo, Katsuhiro\n\nDirector, Script, Original Creator\n\n', b'\nMatsumi, Shinichi\n\nDirector\n\n', b'\nAndou, Hiroaki\n\nEpisode Director\n\n', b'\nTakagi, Shinji\n\nEpisode Director\n\n']
+animePopularity	2013
+animeDescription	"Ray is a young wunderkind inventor living in Victorian England. His life is turned upside down when he receives a special package hailing from the United States, sent by his grandfather, Lloyd Steam. The package contains a device called a Steam Ball, a device so powerful that it can drive any machine that requires steam with a nearly limitless amount of energy.
+
+Ray is instructed to not let the Steam Ball fall into the wrong hands, which include the mighty O'Hara Foundation, who desperately want to bring the Steam Ball back into their control so they can achieve their less than noble goals.
+
+He will need to use every bit of his brilliance in order to dodge the countless goons that are sent to snatch the device from him. It will be a battle between good and evil, a battle for redemption, a battle for the future!"
+animeRelated	['Steamboy']
+animeCharacters	"['Steam, James Ray', ""O'Hara-St. Jones, Scarlett"", 'Steam, James Lloyd', 'Emma', 'David', 'Steam, James Edward', 'The Admiral', 'Stephenson, Robert', 'Thomas', 'Smith, Alfred']"
+animeVoices	['Suzuki, Anne', 'Konishi, Manami', 'Kobayashi, Sanae', 'Tsukayama, Masane', 'Saka, Osamu', 'Kodama, Kiyoshi', 'Hibi, Aiko', 'Terajima, Susumu']
+animeStaff	[['Otomo, Katsuhiro', 'Director, Script, Original Creator'], ['Matsumi, Shinichi', 'Director'], ['Andou, Hiroaki', 'Episode Director'], ['Takagi, Shinji', 'Episode Director']]

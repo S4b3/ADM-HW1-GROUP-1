@@ -1,5 +1,5 @@
-animeTitle	b'Rakushou! Hyper Doll'
-animeType	b'OVA'
+animeTitle	Rakushou! Hyper Doll
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	5.7
 animeUsers	879
 animeRank	
-animePopularity	
-animeDescription	"b""Mew and Mica are alien androids sent by their boss to defend the Earth. Unfortunately for our planet, they are the laziest superheroines you will ever meet. Now most superheroes would drop whatever they're doing, transform, and proceed to kick monsters' butts... but these two would do no such thing. Mew and Mica just can't let their duties interfere with their ice cream, arguments, or whatever activities they happen to be engaged in at the time. When they are not Hyper Dolls they seem to be just ordinary, rather cute school girls, lusted after by the boys.\n(Source: ANN)"""
-animeRelated	[b'Rakushou! Hyper Doll']
-animeCharacters	[b'Minazuki, Mica', b'Aida, Shouko', b'Akai, Hideo', b'Fumizuki, Mew', b'Commander', b'Narrator', b'Dr. Zaiclit', b'Kurageman', b'Detective Todo', b'Inagoman']
-animeVoices	[b'\nYukana\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n', b'\nMadono, Mitsuaki\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n', b'\nSawa, Ritsuo\nJapanese\n', b'\nKatou, Seizou\nJapanese\n', b'\nKujira\nJapanese\n', b'\nYamaguchi, Ken\nJapanese\n', b'\nNakamura, Hidetoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Yasuyuki\n\nProducer\n\n', b'\nMoriwaki, Makoto\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nNegishi, Takayuki\n\nMusic\n\n']
+animePopularity	9285
+animeDescription	"Mew and Mica are alien androids sent by their boss to defend the Earth. Unfortunately for our planet, they are the laziest superheroines you will ever meet. Now most superheroes would drop whatever they're doing, transform, and proceed to kick monsters' butts... but these two would do no such thing. Mew and Mica just can't let their duties interfere with their ice cream, arguments, or whatever activities they happen to be engaged in at the time. When they are not Hyper Dolls they seem to be just ordinary, rather cute school girls, lusted after by the boys.
+(Source: ANN)"
+animeRelated	['Rakushou! Hyper Doll']
+animeCharacters	['Minazuki, Mica', 'Aida, Shouko', 'Akai, Hideo', 'Fumizuki, Mew', 'Commander', 'Narrator', 'Dr. Zaiclit', 'Kurageman', 'Detective Todo', 'Inagoman']
+animeVoices	['Yukana', 'Shiratori, Yuri', 'Madono, Mitsuaki', 'Iizuka, Mayumi', 'Sawa, Ritsuo', 'Katou, Seizou', 'Kujira', 'Yamaguchi, Ken', 'Nakamura, Hidetoshi']
+animeStaff	[['Ueda, Yasuyuki', 'Producer'], ['Moriwaki, Makoto', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Negishi, Takayuki', 'Music']]

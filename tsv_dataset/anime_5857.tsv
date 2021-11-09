@@ -1,5 +1,5 @@
-animeTitle	b'Slow Step'
-animeType	b'OVA'
+animeTitle	Slow Step
+animeType	OVA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.55
 animeUsers	790
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the Adachi manga of the same name. The story revolves around a romantic triangle formed by the girl Minatsu Nakazato, a young student and softball player; Shu Akiba, a schoolmate; and Naoto Kadomatsu, an up-and-coming boxer. In reality the three-way relationship is more like three-and-a-half, considering that Naoto is in love with Maria... actually Minatsu herself, who'd once disguised herself to escape some evildoers."""
-animeRelated	[b'Slow Step']
-animeCharacters	[b'Nakazato, Minatsu', b'Kadomatsu, Naoto', b'Akiba, Shuu', b'Tanaka, Chika', b'Sawamura, Ayako', b'Yamazakura, Kango']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n', b'\nEmori, Hiroko\nJapanese\n', b'\nKamiya, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector, Episode Director, Storyboard\n\n', b'\nSaki, Nobuhide\n\nTheme Song Performance\n\n', b'\nAdachi, Mitsuru\n\nOriginal Creator\n\n', b'\nNakamura, Mitsuki\n\nArt Director\n\n']
+animePopularity	8631
+animeDescription	Based on the Adachi manga of the same name. The story revolves around a romantic triangle formed by the girl Minatsu Nakazato, a young student and softball player; Shu Akiba, a schoolmate; and Naoto Kadomatsu, an up-and-coming boxer. In reality the three-way relationship is more like three-and-a-half, considering that Naoto is in love with Maria... actually Minatsu herself, who'd once disguised herself to escape some evildoers.
+animeRelated	['Slow Step']
+animeCharacters	['Nakazato, Minatsu', 'Kadomatsu, Naoto', 'Akiba, Shuu', 'Tanaka, Chika', 'Sawamura, Ayako', 'Yamazakura, Kango']
+animeVoices	['Takayama, Minami', 'Horikawa, Ryo', 'Yamaguchi, Kappei', 'Sakamoto, Chika', 'Emori, Hiroko', 'Kamiya, Akira']
+animeStaff	[['Yuyama, Kunihiko', 'Director, Episode Director, Storyboard'], ['Saki, Nobuhide', 'Theme Song Performance'], ['Adachi, Mitsuru', 'Original Creator'], ['Nakamura, Mitsuki', 'Art Director']]

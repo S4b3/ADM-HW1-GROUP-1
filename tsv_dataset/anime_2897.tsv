@@ -1,5 +1,5 @@
-animeTitle	b'Sayonara Watashi no Cramer Movie: First Touch'
-animeType	b'Movie'
+animeTitle	Sayonara Watashi no Cramer Movie: First Touch
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.2
 animeUsers	2555
 animeRank	
-animePopularity	
-animeDescription	"b""14-year-old Nozomi Onda has only one thing on her mind: playing beautiful soccer. There's just one problem: no matter how much she longs to participate in official matches, she'd have physically superior boys as opponents. But when a boy from her past confronts her on the street, she decides she can't wait any longer.\n\n(Source: Kodansha Comics)"""
-animeRelated	[b'Sayonara Football', b'Sayonara Watashi no Cramer']
-animeCharacters	[b'Onda, Nozomi', b'Onda, Junpei', b'Samejima, Kouzou', b'Tani, Yasuaki', b'Takei, Kaoru', b'Yamada, Tetsuji', b'Echizen, Sawa']
-animeVoices	[b'\nShimabukuro, Miyuri\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nTsuchiya, Shinba\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nWakayama, Shion\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSaitou, Shunsuke\n\nProducer\n\n', b'\nShiba, Hirokazu\n\nProducer\n\n', b'\nTakuno, Seiki\n\nDirector\n\n', b'\nKobayashi, Aika\n\nTheme Song Performance, Inserted Song Performance\n\n']
+animePopularity	5648
+animeDescription	"14-year-old Nozomi Onda has only one thing on her mind: playing beautiful soccer. There's just one problem: no matter how much she longs to participate in official matches, she'd have physically superior boys as opponents. But when a boy from her past confronts her on the street, she decides she can't wait any longer.
+
+(Source: Kodansha Comics)"
+animeRelated	['Sayonara Football', 'Sayonara Watashi no Cramer']
+animeCharacters	['Onda, Nozomi', 'Onda, Junpei', 'Samejima, Kouzou', 'Tani, Yasuaki', 'Takei, Kaoru', 'Yamada, Tetsuji', 'Echizen, Sawa']
+animeVoices	['Shimabukuro, Miyuri', 'Shiraishi, Ryouko', 'Yusa, Kouji', 'Tsuchiya, Shinba', 'Oosaka, Ryouta', 'Uchiyama, Kouki', 'Wakayama, Shion']
+animeStaff	[['Saitou, Shunsuke', 'Producer'], ['Shiba, Hirokazu', 'Producer'], ['Takuno, Seiki', 'Director'], ['Kobayashi, Aika', 'Theme Song Performance, Inserted Song Performance']]

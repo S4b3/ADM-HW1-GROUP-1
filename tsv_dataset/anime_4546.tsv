@@ -1,5 +1,5 @@
-animeTitle	b'Tytania'
-animeType	b'TV'
+animeTitle	Tytania
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.82
 animeUsers	6234
 animeRank	
-animePopularity	
-animeDescription	"b""One Man vs. an Empire!  Through fear and conquest, the Empire of Valdana holds the future of most of human space within its iron hands, and for generations, those hands have belonged to the Landless Lords of the ruling Tytania dynasty.  \n\nBut now the foundation of the empire is crumbling, pockets of rebellion are forming and when a mission sent to punish the city-state of Euriya is shockingly defeated, the man responsible becomes the target of a galaxy-wide manhunt!  \n\nFor Fan Hyurlick, architect of Tytania's first defeat, glory becomes desperation as his own side betrays him.  Now Fan must not only save his own life, but somehow turn the tables on opponents who have whole worlds to command!\n\n(Source: Sentai Filmworks)"""
-animeRelated	[b'Tytania']
-animeCharacters	[b'Tytania, Jouslain', b'Hyulick, Fan', b'Tytania, Idris', b'Tytania, Ariabert', b'Tytania, Zarlisch', b'Tytania, Ajuman', b'Lydia', b'Florenz, Lira', b'Tytania, Alses', b'Kallen']
-animeVoices	[b'\nKishio, Daisuke\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nKondou, Takashi\nJapanese\n', b'\nTaketora\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nShiono, Anri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiguro, Noboru\n\nDirector\n\n', b'\nItou, Kouji\n\nDirector, Storyboard, Mechanical Design\n\n', b'\nAndou, Ken\n\nEpisode Director\n\n', b'\nSuzuki, Masashi\n\nScript\n\n']
+animePopularity	4190
+animeDescription	"One Man vs. an Empire!  Through fear and conquest, the Empire of Valdana holds the future of most of human space within its iron hands, and for generations, those hands have belonged to the Landless Lords of the ruling Tytania dynasty.  
+
+But now the foundation of the empire is crumbling, pockets of rebellion are forming and when a mission sent to punish the city-state of Euriya is shockingly defeated, the man responsible becomes the target of a galaxy-wide manhunt!  
+
+For Fan Hyurlick, architect of Tytania's first defeat, glory becomes desperation as his own side betrays him.  Now Fan must not only save his own life, but somehow turn the tables on opponents who have whole worlds to command!
+
+(Source: Sentai Filmworks)"
+animeRelated	['Tytania']
+animeCharacters	['Tytania, Jouslain', 'Hyulick, Fan', 'Tytania, Idris', 'Tytania, Ariabert', 'Tytania, Zarlisch', 'Tytania, Ajuman', 'Lydia', 'Florenz, Lira', 'Tytania, Alses', 'Kallen']
+animeVoices	['Kishio, Daisuke', 'Konishi, Katsuyuki', 'Yoshino, Hiroyuki', 'Kondou, Takashi', 'Taketora', 'Miyake, Kenta', 'Nazuka, Kaori', 'Yahagi, Sayuri', 'Kusao, Takeshi', 'Shiono, Anri']
+animeStaff	[['Ishiguro, Noboru', 'Director'], ['Itou, Kouji', 'Director, Storyboard, Mechanical Design'], ['Andou, Ken', 'Episode Director'], ['Suzuki, Masashi', 'Script']]

@@ -1,5 +1,5 @@
-animeTitle	b'Shirogane no Ishi: Argevollen'
-animeType	b'TV'
+animeTitle	Shirogane no Ishi: Argevollen
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.5
 animeUsers	15295
 animeRank	
-animePopularity	
-animeDescription	"b""The Kingdom of Arandas alliance and the Countries Unification of Ingelmia have been at war for many years. The fortress of the Great Wall has remained firmly closed, but when it creaks open, the complexion of the war starts to change dramatically.\n\nA new recruit, Susumu Tokimune, is waiting for his first battle. He takes the lead without thinking of the possibility of being trapped, and has a fatal encounter with engineer Jamie Hazaford and the Silver Trailkrieger, Argevollen.\n\nThe encounter takes place in a corner of the world where fighting has become the norm. This small coincidence is going to change the future of Tokimune's Independent 8th platoon, as well as the course of the war.\n\n(Source: Showgate)"""
+animePopularity	2737
+animeDescription	"The Kingdom of Arandas alliance and the Countries Unification of Ingelmia have been at war for many years. The fortress of the Great Wall has remained firmly closed, but when it creaks open, the complexion of the war starts to change dramatically.
+
+A new recruit, Susumu Tokimune, is waiting for his first battle. He takes the lead without thinking of the possibility of being trapped, and has a fatal encounter with engineer Jamie Hazaford and the Silver Trailkrieger, Argevollen.
+
+The encounter takes place in a corner of the world where fighting has become the norm. This small coincidence is going to change the future of Tokimune's Independent 8th platoon, as well as the course of the war.
+
+(Source: Showgate)"
 animeRelated	[]
-animeCharacters	[b'Suzushiro, Saori', b'Samonji, Ukyou', b'Hazaford, Jamie', b'Susumu, Tokimune', b'Nanjou, Reika', b'Quasimodo, Eraldo', b'Appleton, Silfy', b'Roderick, Liz', b'Richthofen, Schlein', b'Gaap, Bernard']
-animeVoices	[b'\nOhara, Sayaka\nJapanese\n', b'\nTsuchida, Hiroshi\nJapanese\n', b'\nOonishi, Saori\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nOgata, Mitsuru\nJapanese\n', b'\nSakurai, Harumi\nJapanese\n', b'\nArai, Satomi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nYamaguchi, Tarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakayama, Nobuhiro\n\nProducer\n\n', b'\nOotsuki, Atsushi\n\nDirector, Script\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nAndou, Takashi\n\nEpisode Director\n\n']
+animeCharacters	['Suzushiro, Saori', 'Samonji, Ukyou', 'Hazaford, Jamie', 'Susumu, Tokimune', 'Nanjou, Reika', 'Quasimodo, Eraldo', 'Appleton, Silfy', 'Roderick, Liz', 'Richthofen, Schlein', 'Gaap, Bernard']
+animeVoices	['Ohara, Sayaka', 'Tsuchida, Hiroshi', 'Oonishi, Saori', 'Oosaka, Ryouta', 'Hikasa, Youko', 'Ogata, Mitsuru', 'Sakurai, Harumi', 'Arai, Satomi', 'Sakurai, Takahiro', 'Yamaguchi, Tarou']
+animeStaff	[['Nakayama, Nobuhiro', 'Producer'], ['Ootsuki, Atsushi', 'Director, Script'], ['Aketagawa, Jin', 'Sound Director'], ['Andou, Takashi', 'Episode Director']]

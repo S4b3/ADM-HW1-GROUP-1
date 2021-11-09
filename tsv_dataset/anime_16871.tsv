@@ -1,5 +1,5 @@
-animeTitle	b'Konpora Kid'
-animeType	b'TV'
+animeTitle	Konpora Kid
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The time is set in the Mechatronics Era in the future. In this era, schools actually float in the Tokyo sky at around 2000 - 3000 metres. At home, there is freedom in movement as everyone has a flight mechanism within them which allows them to fly. Transportation is made easy as a result.\n\n(Source: ANN)'
+animePopularity	15560
+animeDescription	"The time is set in the Mechatronics Era in the future. In this era, schools actually float in the Tokyo sky at around 2000 - 3000 metres. At home, there is freedom in movement as everyone has a flight mechanism within them which allows them to fly. Transportation is made easy as a result.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Kyoutou, Shinryuu']
-animeVoices	[b'\nGinga, Banjou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nEndou, Yuuji\n\nProducer, Episode Director\n\n', b'\nMorishita, Kouzou\n\nDirector\n\n', b'\nYanagawa, Shigeru\n\nDirector, Script\n\n', b'\nYamauchi, Shigeyasu\n\nEpisode Director, Storyboard\n\n']
+animeCharacters	['Kyoutou, Shinryuu']
+animeVoices	['Ginga, Banjou']
+animeStaff	[['Endou, Yuuji', 'Producer, Episode Director'], ['Morishita, Kouzou', 'Director'], ['Yanagawa, Shigeru', 'Director, Script'], ['Yamauchi, Shigeyasu', 'Episode Director, Storyboard']]

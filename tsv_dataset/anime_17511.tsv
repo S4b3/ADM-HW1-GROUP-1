@@ -1,5 +1,5 @@
-animeTitle	b'Black Clover Movie'
-animeType	b'Movie'
+animeTitle	Black Clover Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Black Clover']
-animeCharacters	[b'Asta']
+animePopularity	1964
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Black Clover']
+animeCharacters	['Asta']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTabata, Yuuki\n\nOriginal Creator\n\n']
+animeStaff	[['Tabata, Yuuki', 'Original Creator']]

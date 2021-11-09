@@ -1,5 +1,5 @@
-animeTitle	b'Piano no Mori (TV)'
-animeType	b'TV'
+animeTitle	Piano no Mori (TV)
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.31
 animeUsers	40158
 animeRank	
-animePopularity	
-animeDescription	"b""A tranquil tale about two boys from very different upbringings. On one hand you have Kai, born as the son of a prostitute, who's been playing the abandoned piano in the forest near his home ever since he was young. And on the other you have Syuhei, practically breast-fed by the piano as the son of a family of prestigious pianists. Yet it is their common bond with the piano that eventually intertwines their paths in life.\n\n(Source: KEFI)"""
-animeRelated	[b'Piano no Mori', b'Piano no Mori (TV) 2nd Season']
-animeCharacters	[b'Ichinose, Kai', b'Amamiya, Shuuhei', b'Ajino, Sousuke', b'Ichinose, Reiko', b'Maruyama, Takako', b'Pang, Wei', b'Szymanowski, Lech', b'Adamski, Karol', b'Ormesson, Sophie', b'Amamiya, Namie']
-animeVoices	[b'\nSaitou, Souma\nJapanese\n', b'\nHanae, Natsuki\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nKENN\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nMiyake, Marie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakatani, Gaku\n\nDirector\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nSaeki, Shouji\n\nStoryboard\n\n', b'\nYuuki, Aoi\n\nTheme Song Performance\n\n']
+animePopularity	1622
+animeDescription	"A tranquil tale about two boys from very different upbringings. On one hand you have Kai, born as the son of a prostitute, who's been playing the abandoned piano in the forest near his home ever since he was young. And on the other you have Syuhei, practically breast-fed by the piano as the son of a family of prestigious pianists. Yet it is their common bond with the piano that eventually intertwines their paths in life.
+
+(Source: KEFI)"
+animeRelated	['Piano no Mori', 'Piano no Mori (TV) 2nd Season']
+animeCharacters	['Ichinose, Kai', 'Amamiya, Shuuhei', 'Ajino, Sousuke', 'Ichinose, Reiko', 'Maruyama, Takako', 'Pang, Wei', 'Szymanowski, Lech', 'Adamski, Karol', 'Ormesson, Sophie', 'Amamiya, Namie']
+animeVoices	['Saitou, Souma', 'Hanae, Natsuki', 'Suwabe, Junichi', 'Sakamoto, Maaya', 'Yuuki, Aoi', 'Nakamura, Yuuichi', 'KENN', 'Konishi, Katsuyuki', 'Ise, Mariya', 'Miyake, Marie']
+animeStaff	[['Nakatani, Gaku', 'Director'], ['Nagasaki, Yukio', 'Sound Director'], ['Saeki, Shouji', 'Storyboard'], ['Yuuki, Aoi', 'Theme Song Performance']]

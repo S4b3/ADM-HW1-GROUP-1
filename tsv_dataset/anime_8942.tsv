@@ -1,5 +1,5 @@
-animeTitle	b'Duel Masters Victory V3'
-animeType	b'TV'
+animeTitle	Duel Masters Victory V3
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.93
 animeUsers	226
 animeRank	
-animePopularity	
-animeDescription	b'In this series the story continues after Katta Kirifuda defeats the YA.RA.SI band and also gains back his popularity by defeating Leo and his sidekick Nai Minamimo.\n\nIn this series Katta will use a new race of Outrage creatures against the opposing new race of Oracle deck users. Also in the creature world a new time era will start off.\n\n(Source: Duel Masters Wikia)'
-animeRelated	[b'Duel Masters Victory V', b'Duel Masters VS']
-animeCharacters	[b'Kirifuda, Katta']
-animeVoices	[b'\nKobayashi, Yumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHemenway\n\nTheme Song Performance\n\n', b'\nAraki, Kenichi\n\nSeries Composition\n\n']
+animePopularity	11208
+animeDescription	"In this series the story continues after Katta Kirifuda defeats the YA.RA.SI band and also gains back his popularity by defeating Leo and his sidekick Nai Minamimo.
+
+In this series Katta will use a new race of Outrage creatures against the opposing new race of Oracle deck users. Also in the creature world a new time era will start off.
+
+(Source: Duel Masters Wikia)"
+animeRelated	['Duel Masters Victory V', 'Duel Masters VS']
+animeCharacters	['Kirifuda, Katta']
+animeVoices	['Kobayashi, Yumiko']
+animeStaff	[['Hemenway', 'Theme Song Performance'], ['Araki, Kenichi', 'Series Composition']]

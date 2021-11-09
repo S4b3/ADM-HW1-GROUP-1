@@ -1,5 +1,5 @@
-animeTitle	b'Little Charo 2'
-animeType	b'TV'
+animeTitle	Little Charo 2
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""NHK's English education program. In Little Charo 2, the puppy journeys with his master through a mysterious place called the Middle World, which lies between the World of the Living and the World of the Dead.\n\n(Source: AniDB)"""
-animeRelated	[b'Little Charo', b'Little Charo: Touhoku-hen']
-animeCharacters	[b'Charo']
+animePopularity	14131
+animeDescription	"NHK's English education program. In Little Charo 2, the puppy journeys with his master through a mysterious place called the Middle World, which lies between the World of the Living and the World of the Dead.
+
+(Source: AniDB)"
+animeRelated	['Little Charo', 'Little Charo: Touhoku-hen']
+animeCharacters	['Charo']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuraki, Mai\n\nTheme Song Performance, Theme Song Lyrics\n\n']
+animeStaff	[['Kuraki, Mai', 'Theme Song Performance, Theme Song Lyrics']]

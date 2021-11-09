@@ -1,5 +1,5 @@
-animeTitle	b'Ranma \xc2\xbd: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!'
-animeType	b'Movie'
+animeTitle	Ranma ½: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.25
 animeUsers	10510
 animeRank	
-animePopularity	
-animeDescription	b'All is well at the Tendo residence when from out of nowhere, a Chinese girl named Lychee appears, seeking revenge on Happosai for a broken promise made since her birth. Things get worse when Kirin and the Seven Lucky Gods appear and abduct Akane to take as his wife. Ranma and the gang must travel to Nekonron, China, and save Akane from getting married to Kirin. \n\n(Source: ANN)'
-animeRelated	[b'Ranma \xc2\xbd']
-animeCharacters	[b'Saotome, Ranma', b'Tendou, Akane', b'Hibiki, Ryouga', b'Shampoo', b'Kuonji, Ukyo', b'Tendou, Nabiki', b'Saotome, Genma', b'Kuno, Tatewaki', b'Tendou, Kasumi', b'Mousse']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nSakuma, Rei\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nTakayama, Minami\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIuchi, Shuji\n\nDirector, Screenplay\n\n', b'\nYamamoto, Yuusuke\n\nEpisode Director, Storyboard\n\n', b'\nYanagawa, Shigeru\n\nScript\n\n', b'\nHidaka, Masamitsu\n\nStoryboard\n\n']
+animePopularity	4041
+animeDescription	"All is well at the Tendo residence when from out of nowhere, a Chinese girl named Lychee appears, seeking revenge on Happosai for a broken promise made since her birth. Things get worse when Kirin and the Seven Lucky Gods appear and abduct Akane to take as his wife. Ranma and the gang must travel to Nekonron, China, and save Akane from getting married to Kirin. 
+
+(Source: ANN)"
+animeRelated	['Ranma ½']
+animeCharacters	['Saotome, Ranma', 'Tendou, Akane', 'Hibiki, Ryouga', 'Shampoo', 'Kuonji, Ukyo', 'Tendou, Nabiki', 'Saotome, Genma', 'Kuno, Tatewaki', 'Tendou, Kasumi', 'Mousse']
+animeVoices	['Hayashibara, Megumi', 'Hidaka, Noriko', 'Yamadera, Kouichi', 'Sakuma, Rei', 'Tsuru, Hiromi', 'Takayama, Minami', 'Ogata, Kenichi', 'Suzuoki, Hirotaka', 'Inoue, Kikuko', 'Seki, Toshihiko']
+animeStaff	[['Iuchi, Shuji', 'Director, Screenplay'], ['Yamamoto, Yuusuke', 'Episode Director, Storyboard'], ['Yanagawa, Shigeru', 'Script'], ['Hidaka, Masamitsu', 'Storyboard']]

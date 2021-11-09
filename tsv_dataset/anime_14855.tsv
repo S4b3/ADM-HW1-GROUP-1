@@ -1,5 +1,5 @@
-animeTitle	b'Aries: Shinwa no Seizakyuu'
-animeType	b'OVA'
+animeTitle	Aries: Shinwa no Seizakyuu
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Based on the shoujo manga by Fuyuki Rurika.'
-animeRelated	[b'Aries']
-animeCharacters	[b'Sakura, Arisa', b'Hades']
-animeVoices	[b'\nKawamura, Maria\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshikawa, Youichirou\n\nTheme Song Composition\n\n', b'\nNakazawa, Kazuto\n\nCharacter Design\n\n', b'\nFuyuki, Rurika\n\nOriginal Creator, Original Character Design\n\n']
+animePopularity	13552
+animeDescription	Based on the shoujo manga by Fuyuki Rurika.
+animeRelated	['Aries']
+animeCharacters	['Sakura, Arisa', 'Hades']
+animeVoices	['Kawamura, Maria', 'Inoue, Kazuhiko']
+animeStaff	[['Yoshikawa, Youichirou', 'Theme Song Composition'], ['Nakazawa, Kazuto', 'Character Design'], ['Fuyuki, Rurika', 'Original Creator, Original Character Design']]

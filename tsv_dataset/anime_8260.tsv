@@ -1,5 +1,5 @@
-animeTitle	b'Assemble Insert'
-animeType	b'OVA'
+animeTitle	Assemble Insert
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.08
 animeUsers	1463
 animeRank	
-animePopularity	
-animeDescription	b'A criminal group known as Demon Seed terrorizes Tokyo with its vast armies of mecha. The local police is afraid to confront them, but one person stands in their way: Maron Namikaze, a 13-year-old idol singer with a catchy voice and unbelievable superhuman strength.\n\n(Source: ANN)'
-animeRelated	[b'Assemble Insert']
-animeCharacters	[b'Namikaze, Maron', b'Hattori', b'Mikawa, Yoshiko', b'Buka, Shi', b'Buka, San', b'Buka, Ni', b'Demon, Kyouzaburou', b'Sonoba, Kagiri', b'Buka, Ichi', b'Shimokoube, Ryouhei']
-animeVoices	[b'\nKasahara, Hiroko\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nYamamoto, Masayuki\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nFutamata, Issei\nJapanese\n', b'\nOtsuka, Chikao\nJapanese\n', b'\nKawamura, Maria\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTomobuki, Ami\n\nDirector\n\n', b'\nKasahara, Hiroko\n\nTheme Song Performance\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n', b'\nYuuki, Masami\n\nOriginal Creator\n\n']
+animePopularity	8025
+animeDescription	"A criminal group known as Demon Seed terrorizes Tokyo with its vast armies of mecha. The local police is afraid to confront them, but one person stands in their way: Maron Namikaze, a 13-year-old idol singer with a catchy voice and unbelievable superhuman strength.
+
+(Source: ANN)"
+animeRelated	['Assemble Insert']
+animeCharacters	['Namikaze, Maron', 'Hattori', 'Mikawa, Yoshiko', 'Buka, Shi', 'Buka, San', 'Buka, Ni', 'Demon, Kyouzaburou', 'Sonoba, Kagiri', 'Buka, Ichi', 'Shimokoube, Ryouhei']
+animeVoices	['Kasahara, Hiroko', 'Wakamoto, Norio', 'Inoue, Kikuko', 'Yamamoto, Masayuki', 'Yamadera, Kouichi', 'Futamata, Issei', 'Otsuka, Chikao', 'Kawamura, Maria', 'Matsumoto, Yasunori', 'Nagai, Ichiro']
+animeStaff	[['Tomobuki, Ami', 'Director'], ['Kasahara, Hiroko', 'Theme Song Performance'], ['Tanaka, Kouhei', 'Music'], ['Yuuki, Masami', 'Original Creator']]

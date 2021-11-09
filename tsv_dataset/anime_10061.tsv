@@ -1,5 +1,5 @@
-animeTitle	b'Garugaku.: Sei Girls Square Gakuin'
-animeType	b'TV'
+animeTitle	Garugaku.: Sei Girls Square Gakuin
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.6
 animeUsers	157
 animeRank	
-animePopularity	
-animeDescription	"b""The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.\n\n(Source: ANN)"""
-animeRelated	[b'Gal-gaku.: Hijiri Girls Square Gakuin']
-animeCharacters	[b'Kurea', b'Momoka', b'Minami', b'Kira', b'Youka', b'Yuzuha', b'Ran', b'Misaki', b'Toa']
-animeVoices	[b'\nMasuda, Kurea\nJapanese\n', b'\nSumitani, Momoka\nJapanese\n', b'\nHishida, Minami\nJapanese\n', b'\nYamaguchi, Kira\nJapanese\n', b'\nOgawa, Youka\nJapanese\n', b'\nOda, Yuzuha\nJapanese\n', b'\nIshii, Ran\nJapanese\n', b'\nTsuruya, Misaki\nJapanese\n', b'\nHarada, Toa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkagi, Hiroaki\n\nDirector\n\n', b'\nFujisaku, Junichi\n\nScript, Series Composition\n\n', b'\nGirls\xc2\xb2\n\nTheme Song Performance\n\n', b'\nKyougoku, Takahiko\n\nAnimation Director\n\n']
+animePopularity	10013
+animeDescription	"The anime is set in Holy Girls Square Academy, an academy for training pro star performers. The anime will focus on students who aim to participate in the academy's annual big event, the Girls' Arena.
+
+(Source: ANN)"
+animeRelated	['Gal-gaku.: Hijiri Girls Square Gakuin']
+animeCharacters	['Kurea', 'Momoka', 'Minami', 'Kira', 'Youka', 'Yuzuha', 'Ran', 'Misaki', 'Toa']
+animeVoices	['Masuda, Kurea', 'Sumitani, Momoka', 'Hishida, Minami', 'Yamaguchi, Kira', 'Ogawa, Youka', 'Oda, Yuzuha', 'Ishii, Ran', 'Tsuruya, Misaki', 'Harada, Toa']
+animeStaff	[['Akagi, Hiroaki', 'Director'], ['Fujisaku, Junichi', 'Script, Series Composition'], ['Girls²', 'Theme Song Performance'], ['Kyougoku, Takahiko', 'Animation Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Bishoujo Senshi Sailor Moon R: The Movie'
-animeType	b'Movie'
+animeTitle	Bishoujo Senshi Sailor Moon R: The Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.7
 animeUsers	31652
 animeRank	
-animePopularity	
-animeDescription	b'When Mamoru was little he gave a rose to a little boy named Fiore. Fiore promised that one day he would bring Mamoru lots of flowers. Now Fiore has come back to earth but his intentions are not merely to fulfil a promise... \n\n(Source: ANN)'
-animeRelated	[b'Bishoujo Senshi Sailor Moon R', b'Bishoujo Senshi Sailor Moon R: Make Up! Sailor Senshi']
-animeCharacters	[b'Tsukino, Usagi', b'Hino, Rei', b'Kino, Makoto', b'Aino, Minako', b'Mizuno, Ami', b'Chiba, Mamoru', b'Fiore', b'Kisenian', b'Chibiusa', b'Luna']
-animeVoices	[b'\nMitsuishi, Kotono\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nFukami, Rica\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nAraki, Kae\nJapanese\n', b'\nHan, Keiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIkuhara, Kunihiko\n\nDirector\n\n', b'\nMitsuishi, Kotono\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nHisakawa, Aya\n\nTheme Song Performance\n\n', b'\nShinohara, Emi\n\nTheme Song Performance, Inserted Song Performance\n\n']
+animePopularity	2336
+animeDescription	"When Mamoru was little he gave a rose to a little boy named Fiore. Fiore promised that one day he would bring Mamoru lots of flowers. Now Fiore has come back to earth but his intentions are not merely to fulfil a promise... 
+
+(Source: ANN)"
+animeRelated	['Bishoujo Senshi Sailor Moon R', 'Bishoujo Senshi Sailor Moon R: Make Up! Sailor Senshi']
+animeCharacters	['Tsukino, Usagi', 'Hino, Rei', 'Kino, Makoto', 'Aino, Minako', 'Mizuno, Ami', 'Chiba, Mamoru', 'Fiore', 'Kisenian', 'Chibiusa', 'Luna']
+animeVoices	['Mitsuishi, Kotono', 'Tomizawa, Michie', 'Shinohara, Emi', 'Fukami, Rica', 'Hisakawa, Aya', 'Ogata, Megumi', 'Midorikawa, Hikaru', 'Touma, Yumi', 'Araki, Kae', 'Han, Keiko']
+animeStaff	[['Ikuhara, Kunihiko', 'Director'], ['Mitsuishi, Kotono', 'Theme Song Performance, Inserted Song Performance'], ['Hisakawa, Aya', 'Theme Song Performance'], ['Shinohara, Emi', 'Theme Song Performance, Inserted Song Performance']]

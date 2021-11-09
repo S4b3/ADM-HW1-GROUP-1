@@ -1,5 +1,5 @@
-animeTitle	b'Mononoke Hime'
-animeType	b'Movie'
+animeTitle	Mononoke Hime
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.69
 animeUsers	654270
 animeRank	
-animePopularity	
-animeDescription	"b""When an Emishi village is attacked by a fierce demon boar, the young prince Ashitaka puts his life at stake to defend his tribe. With its dying breath, the beast curses the prince's arm, granting him demonic powers while gradually siphoning his life away. Instructed by the village elders to travel westward for a cure, Ashitaka arrives at Tatara, the Iron Town, where he finds himself embroiled in a fierce conflict: Lady Eboshi of Tatara, promoting constant deforestation, stands against Princess San and the sacred spirits of the forest, who are furious at the destruction brought by the humans. As the opposing forces of nature and mankind begin to clash in a desperate struggle for survival, Ashitaka attempts to seek harmony between the two, all the while battling the latent demon inside of him. Princess Mononoke is a tale depicting the connection of technology and nature, while showing the path to harmony that could be achieved by mutual acceptance.\n\n[Written by MAL Rewrite]"""
+animePopularity	99
+animeDescription	"When an Emishi village is attacked by a fierce demon boar, the young prince Ashitaka puts his life at stake to defend his tribe. With its dying breath, the beast curses the prince's arm, granting him demonic powers while gradually siphoning his life away. Instructed by the village elders to travel westward for a cure, Ashitaka arrives at Tatara, the Iron Town, where he finds himself embroiled in a fierce conflict: Lady Eboshi of Tatara, promoting constant deforestation, stands against Princess San and the sacred spirits of the forest, who are furious at the destruction brought by the humans. As the opposing forces of nature and mankind begin to clash in a desperate struggle for survival, Ashitaka attempts to seek harmony between the two, all the while battling the latent demon inside of him. Princess Mononoke is a tale depicting the connection of technology and nature, while showing the path to harmony that could be achieved by mutual acceptance.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'San', b'Ashitaka', b'Gozen, Eboshi', b'Kodama', b'Moro', b'Yakul', b'The Forest Spirit', b'Toki', b'Jiko, Bou', b'Okkoto']
-animeVoices	[b'\nIshida, Yuriko\nJapanese\n', b'\nMatsuda, Youji\nJapanese\n', b'\nTanaka, Yuko\nJapanese\n', b'\nMiwa, Akihiro\nJapanese\n', b'\nShimamoto, Sumi\nJapanese\n', b'\nKobayashi, Kaoru\nJapanese\n', b'\nMorishige, Hisaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Toshio\n\nProducer\n\n', b'\nMiyazaki, Hayao\n\nDirector, Theme Song Lyrics, Creator, Screenplay\n\n', b'\nGaiman, Neil\n\nScript\n\n', b'\nHisaishi, Joe\n\nTheme Song Arrangement, Theme Song Composition, Music\n\n']
+animeCharacters	['San', 'Ashitaka', 'Gozen, Eboshi', 'Kodama', 'Moro', 'Yakul', 'The Forest Spirit', 'Toki', 'Jiko, Bou', 'Okkoto']
+animeVoices	['Ishida, Yuriko', 'Matsuda, Youji', 'Tanaka, Yuko', 'Miwa, Akihiro', 'Shimamoto, Sumi', 'Kobayashi, Kaoru', 'Morishige, Hisaya']
+animeStaff	[['Suzuki, Toshio', 'Producer'], ['Miyazaki, Hayao', 'Director, Theme Song Lyrics, Creator, Screenplay'], ['Gaiman, Neil', 'Script'], ['Hisaishi, Joe', 'Theme Song Arrangement, Theme Song Composition, Music']]

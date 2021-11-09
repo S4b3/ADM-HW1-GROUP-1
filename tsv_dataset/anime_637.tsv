@@ -1,5 +1,5 @@
-animeTitle	b'Wu Shan Wu Xing'
-animeType	b'ONA'
+animeTitle	Wu Shan Wu Xing
+animeType	ONA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.93
 animeUsers	11028
 animeRank	
-animePopularity	
-animeDescription	b'A legend tells that a long time ago, monsters could give the ability to certain elected officials to master the five elements. But for that, you have to go through the dangerous foggy mountains...\n\nWe follow the adventures of one of these elected officials.\n\n(Source: Nautiljon)'
-animeRelated	[b'Wu Shan Wuhang (2016)']
-animeCharacters	[b'Wen Ren, Yi Xuan']
+animePopularity	3034
+animeDescription	"A legend tells that a long time ago, monsters could give the ability to certain elected officials to master the five elements. But for that, you have to go through the dangerous foggy mountains...
+
+We follow the adventures of one of these elected officials.
+
+(Source: Nautiljon)"
+animeRelated	['Wu Shan Wuhang (2016)']
+animeCharacters	['Wen Ren, Yi Xuan']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nLin, Hun\n\nDirector\n\n']
+animeStaff	[['Lin, Hun', 'Director']]

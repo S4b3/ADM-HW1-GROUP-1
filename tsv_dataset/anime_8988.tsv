@@ -1,5 +1,5 @@
-animeTitle	b'Twin Angel Break'
-animeType	b'TV'
+animeTitle	Twin Angel Break
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.92
 animeUsers	2619
 animeRank	
-animePopularity	
-animeDescription	"b""Amatsuki Meguru is a girl who innocently aspires to be a hero of justice and the cool Kisaragi Sumire who grew up in the strict Kisaragi household... The two girls who are in their 3rd year of middle school end up getting orders from a mysterious hedgehog named Miruku-chan and turn into Twin Angels in order to fight evil! Meguru is always cheerful but sometimes a bit too forceful. Meanwhile, Sumire isn't accustomed with being around others. Despite their differences, as they work together, they start opening up to each other.\n\n(Source: Crunchyroll)"""
-animeRelated	[b'Kaitou Tenshi Twin Angel', b'Kaitou Tenshi Twin Angel: Kyun Kyun\xe2\x98\x86Tokimeki Paradise!! OVA', b'Kaitou Tenshi Twin Angel: Kyun Kyun\xe2\x98\x86Tokimeki Paradise!!']
-animeCharacters	[b'Amatsuki, Meguru', b'Kisaragi, Sumire', b'Kawarumi, Yuuki', b'Veil', b'Minazuki, Haruka', b'Miruku-chan', b'Mary', b'Hazuki, Kurumi', b'Tanaka, Billy', b'Kannazuki, Misae']
-animeVoices	[b'\nIchimichi, Mao\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nTakahashi, Minami\nJapanese\n', b'\nSuwa, Ayaka\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nIchijou, Miyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwasaki, Yoshiaki\n\nDirector\n\n', b'\nOhata, Kiyotaka\n\nEpisode Director, Storyboard\n\n', b'\nItou, Michiko\n\nSeries Composition\n\n', b'\nKanetaka, Rika\n\nKey Animation\n\n']
+animePopularity	4983
+animeDescription	"Amatsuki Meguru is a girl who innocently aspires to be a hero of justice and the cool Kisaragi Sumire who grew up in the strict Kisaragi household... The two girls who are in their 3rd year of middle school end up getting orders from a mysterious hedgehog named Miruku-chan and turn into Twin Angels in order to fight evil! Meguru is always cheerful but sometimes a bit too forceful. Meanwhile, Sumire isn't accustomed with being around others. Despite their differences, as they work together, they start opening up to each other.
+
+(Source: Crunchyroll)"
+animeRelated	['Kaitou Tenshi Twin Angel', 'Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!! OVA', 'Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!!']
+animeCharacters	['Amatsuki, Meguru', 'Kisaragi, Sumire', 'Kawarumi, Yuuki', 'Veil', 'Minazuki, Haruka', 'Miruku-chan', 'Mary', 'Hazuki, Kurumi', 'Tanaka, Billy', 'Kannazuki, Misae']
+animeVoices	['Ichimichi, Mao', 'Kayano, Ai', 'Takahashi, Minami', 'Suwa, Ayaka', 'Tamura, Yukari', 'Kugimiya, Rie', 'Itou, Shizuka', 'Yoshino, Hiroyuki', 'Ichijou, Miyuki']
+animeStaff	[['Iwasaki, Yoshiaki', 'Director'], ['Ohata, Kiyotaka', 'Episode Director, Storyboard'], ['Itou, Michiko', 'Series Composition'], ['Kanetaka, Rika', 'Key Animation']]

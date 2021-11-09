@@ -1,5 +1,5 @@
-animeTitle	b'Argonavis Movie: Ryuusei no Obligato'
-animeType	b'Movie'
+animeTitle	Argonavis Movie: Ryuusei no Obligato
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Compilation of Argonavis from BanG Dream! with new cuts.'
-animeRelated	[b'Argonavis from BanG Dream!', b'Argonavis from BanG Dream! Movie']
-animeCharacters	[b'Nanahoshi, Ren', b'Shiroishi, Banri', b'Matoba, Wataru', b'Goryou, Yuuto', b'Kikyou, Rio', b'Asahi, Nayuta', b'Misono, Reon', b'Akebono, Ryou', b'Satozuka, Kenta', b'Sakaigawa, Miyuki']
-animeVoices	[b'\nItou, Masahiro\nJapanese\n', b'\nHashimoto, Shouhei\nJapanese\n', b'\nMaeda, Seiji\nJapanese\n', b'\nHyuuga, Daisuke\nJapanese\n', b'\nMorishima, Shuuta\nJapanese\n', b'\nOgasawara, Jin\nJapanese\n', b'\nMano, Takumi\nJapanese\n', b'\nAkiya, Hiroto\nJapanese\n', b'\nHashimoto, Shinichi\nJapanese\n', b'\nMiyauchi, Kousuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorikawa, Shigeru\n\nDirector\n\n', b'\nArgonavis\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nGYROAXIA\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nTakahashi, Ryou\n\nMusic\n\n']
+animePopularity	11035
+animeDescription	Compilation of Argonavis from BanG Dream! with new cuts.
+animeRelated	['Argonavis from BanG Dream!', 'Argonavis from BanG Dream! Movie']
+animeCharacters	['Nanahoshi, Ren', 'Shiroishi, Banri', 'Matoba, Wataru', 'Goryou, Yuuto', 'Kikyou, Rio', 'Asahi, Nayuta', 'Misono, Reon', 'Akebono, Ryou', 'Satozuka, Kenta', 'Sakaigawa, Miyuki']
+animeVoices	['Itou, Masahiro', 'Hashimoto, Shouhei', 'Maeda, Seiji', 'Hyuuga, Daisuke', 'Morishima, Shuuta', 'Ogasawara, Jin', 'Mano, Takumi', 'Akiya, Hiroto', 'Hashimoto, Shinichi', 'Miyauchi, Kousuke']
+animeStaff	[['Morikawa, Shigeru', 'Director'], ['Argonavis', 'Theme Song Performance, Inserted Song Performance'], ['GYROAXIA', 'Theme Song Performance, Inserted Song Performance'], ['Takahashi, Ryou', 'Music']]

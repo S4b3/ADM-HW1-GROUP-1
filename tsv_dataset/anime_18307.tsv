@@ -1,5 +1,5 @@
-animeTitle	b'Himekishi Angelica'
-animeType	b'OVA'
+animeTitle	Himekishi Angelica
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.26
 animeUsers	1459
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the game by Silky's.\n\nA clever and ambitious man is able to take over a kingdom by cunningly forcing his way into the hearts of the Rothschilt family women. One by one he convinces them they can't live without him and makes them into his obedient and willing sex slaves. Now the kingdom is at his mercy and his real revenge can commence. \n\n(Source: AniDB)"""
-animeRelated	[b'Himekishi Olivia']
-animeCharacters	[b'Rothschilt, Angelica', b'Rothschilt, Christina']
-animeVoices	[b'\nYoneshima, Nozomi\nJapanese\n', b'\nHonma, Yukari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurakami, Kotaro\n\nProducer\n\n', b'\nShibata, Shirou\n\nAnimation Director\n\n']
+animePopularity	7375
+animeDescription	"Based on the game by Silky's.
+
+A clever and ambitious man is able to take over a kingdom by cunningly forcing his way into the hearts of the Rothschilt family women. One by one he convinces them they can't live without him and makes them into his obedient and willing sex slaves. Now the kingdom is at his mercy and his real revenge can commence. 
+
+(Source: AniDB)"
+animeRelated	['Himekishi Olivia']
+animeCharacters	['Rothschilt, Angelica', 'Rothschilt, Christina']
+animeVoices	['Yoneshima, Nozomi', 'Honma, Yukari']
+animeStaff	[['Murakami, Kotaro', 'Producer'], ['Shibata, Shirou', 'Animation Director']]

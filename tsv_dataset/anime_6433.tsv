@@ -1,5 +1,5 @@
-animeTitle	b'Buta'
-animeType	b'Movie'
+animeTitle	Buta
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.44
 animeUsers	4591
 animeRank	
-animePopularity	
-animeDescription	b'A few days before Fox officially inherits the treasured heirloom in his family\xe2\x80\x94a mysterious map, the Tufugu Pirates storm into his house and kidnap him, taking the strange map with them.\n\nButa, a powerful mercenary, is hired by shady characters to help them seek the treasure. In a stroke of great luck, Buta and Fox meet in the underbelly of a pirate ship. Will Fox be able to convince Buta to save him, or will the fabled treasure fall into the hands of crooks?\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Wasurenagumo', b'Puka Puka Juju', b'Shiranpuri (Movie)']
-animeCharacters	[b'Fox', b'Guppi', b'Torafugu', b'Buta']
-animeVoices	[b'\nSawashiro, Miyuki\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n', b'\nTerasoma, Masaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTomonaga, Kazuhide\n\nDirector, Script\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nKurahashi, Shizuo\n\nSound Effects\n\n', b'\nKasahara, Yoshihiro\n\nEditing\n\n']
+animePopularity	5756
+animeDescription	"A few days before Fox officially inherits the treasured heirloom in his family—a mysterious map, the Tufugu Pirates storm into his house and kidnap him, taking the strange map with them.
+
+Buta, a powerful mercenary, is hired by shady characters to help them seek the treasure. In a stroke of great luck, Buta and Fox meet in the underbelly of a pirate ship. Will Fox be able to convince Buta to save him, or will the fabled treasure fall into the hands of crooks?
+
+[Written by MAL Rewrite]"
+animeRelated	['Wasurenagumo', 'Puka Puka Juju', 'Shiranpuri (Movie)']
+animeCharacters	['Fox', 'Guppi', 'Torafugu', 'Buta']
+animeVoices	['Sawashiro, Miyuki', 'Yukino, Satsuki', 'Sakuya, Shunsuke', 'Terasoma, Masaki']
+animeStaff	[['Tomonaga, Kazuhide', 'Director, Script'], ['Kikuta, Hiromi', 'Sound Director'], ['Kurahashi, Shizuo', 'Sound Effects'], ['Kasahara, Yoshihiro', 'Editing']]

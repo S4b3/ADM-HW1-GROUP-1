@@ -1,5 +1,5 @@
-animeTitle	b'Maria-sama ga Miteru 3rd Specials'
-animeType	b'Special'
+animeTitle	Maria-sama ga Miteru 3rd Specials
+animeType	Special
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.32
 animeUsers	3232
 animeRank	
-animePopularity	
-animeDescription	"b'A series of chibi-style ""outtakes"" from the ""shooting"" of the Mariamite series.'"
-animeRelated	[b'Maria-sama ga Miteru 3rd']
-animeCharacters	[b'Ogasawara, Sachiko', b'Fukuzawa, Yumi', b'Toudou, Shimako', b'Matsudaira, Touko', b'Shimazu, Yoshino', b'Hasekura, Rei', b'Nijou, Noriko', b'Torii, Eriko', b'Arisugawa, Kintarou', b'Satou, Sei']
-animeVoices	[b'\nItou, Miki\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nIkezawa, Haruna\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nShimizu, Kaori\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsushita, Yukihiro\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nHibiki, Reine\n\nOriginal Character Design\n\n']
+animePopularity	6222
+animeDescription	"A series of chibi-style ""outtakes"" from the ""shooting"" of the Mariamite series."
+animeRelated	['Maria-sama ga Miteru 3rd']
+animeCharacters	['Ogasawara, Sachiko', 'Fukuzawa, Yumi', 'Toudou, Shimako', 'Matsudaira, Touko', 'Shimazu, Yoshino', 'Hasekura, Rei', 'Nijou, Noriko', 'Torii, Eriko', 'Arisugawa, Kintarou', 'Satou, Sei']
+animeVoices	['Itou, Miki', 'Ueda, Kana', 'Noto, Mamiko', 'Kugimiya, Rie', 'Ikezawa, Haruna', 'Itou, Shizuka', 'Shimizu, Kaori', 'Nabatame, Hitomi', 'Minagawa, Junko', 'Toyoguchi, Megumi']
+animeStaff	[['Matsushita, Yukihiro', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Hibiki, Reine', 'Original Character Design']]

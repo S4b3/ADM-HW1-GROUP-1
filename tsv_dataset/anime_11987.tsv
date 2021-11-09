@@ -1,5 +1,5 @@
-animeTitle	b'Dark Cat'
-animeType	b'OVA'
+animeTitle	Dark Cat
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	3.29
 animeUsers	2059
 animeRank	
-animePopularity	
-animeDescription	b'Hyoi and Ryoi, two brothers with the power to take the form of cats, must unravel the mystery of a creeping, tentacled, demon plague before it consumes them and their classmates. Ultimately, they must confront their old Dark Cat master Jukokubo, though whether they can put an end to the evil he has released remains a mystery.\n\n(Source: ANN)'
+animePopularity	7639
+animeDescription	"Hyoi and Ryoi, two brothers with the power to take the form of cats, must unravel the mystery of a creeping, tentacled, demon plague before it consumes them and their classmates. Ultimately, they must confront their old Dark Cat master Jukokubo, though whether they can put an end to the evil he has released remains a mystery.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Koizumi, Hiroki', b'Kagezaki, Hyoi', b'Jukokubo', b'Kagezaki, Rui', b'Koenji, Aimi', b'Koiwa-sensei', b'Egami, Sakiko', b'Iwata-sensei', b'Asagaya, Takako']
-animeVoices	[b'\nNakahara, Shigeru\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nKashiwakura, Tsutomu\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nKawamura, Maria\nJapanese\n', b'\nHagimori, Junko\nJapanese\n', b'\nNishimura, Tomomichi\nJapanese\n', b'\nTouma, Yumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Iku\n\nDirector\n\n', b'\nInoue, Toshiki\n\nScript\n\n', b'\nSuda, Masami\n\nCharacter Design\n\n', b'\nSirabella, John\n\nExecutive Producer\n\n']
+animeCharacters	['Koizumi, Hiroki', 'Kagezaki, Hyoi', 'Jukokubo', 'Kagezaki, Rui', 'Koenji, Aimi', 'Koiwa-sensei', 'Egami, Sakiko', 'Iwata-sensei', 'Asagaya, Takako']
+animeVoices	['Nakahara, Shigeru', 'Okiayu, Ryoutarou', 'Gouri, Daisuke', 'Kashiwakura, Tsutomu', 'Hisakawa, Aya', 'Kawamura, Maria', 'Hagimori, Junko', 'Nishimura, Tomomichi', 'Touma, Yumi']
+animeStaff	[['Suzuki, Iku', 'Director'], ['Inoue, Toshiki', 'Script'], ['Suda, Masami', 'Character Design'], ['Sirabella, John', 'Executive Producer']]

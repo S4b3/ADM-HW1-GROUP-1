@@ -1,5 +1,5 @@
-animeTitle	b'Fake'
-animeType	b'OVA'
+animeTitle	Fake
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.52
 animeUsers	10052
 animeRank	
-animePopularity	
-animeDescription	"b'Dee Laytner and Randy ""Ryo"" Maclane are two New York cops taking a needed vacation in England. Dee has very strong feelings for Ryo and wants to take this chance to advance their relationship (and if he\'s lucky, maybe seduce Ryo). Ryo doesn\'t understand his own feelings for Dee, and doesn\'t know if he wants to (or should) acknowledge them. Their vacation and relationship is suddenly disturbed when murders and missing person reports keep surfacing around their hotel. The only common tie the cases have is that all of the victims were Japanese or Japanese descent. Dee and Ryo have to solve the case before Ryo, who is half Japanese, becomes the next victim.\n\n(Source: ANN)'"
-animeRelated	[b'Fake']
-animeCharacters	[b'Laytner, Dee', b'Maclean, Randy', b'Bikky', b'Carol', b'Rose, Berkeley', b'Adams, Jemmy J.']
-animeVoices	[b'\nSeki, Tomokazu\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nEbara, Masashi\nJapanese\n', b'\nIwanaga, Tetsuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Iku\n\nDirector\n\n', b'\nMiyazaki, Nagisa\n\nDirector, Animation Director\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nEndo, Akinori\n\nScript\n\n']
+animePopularity	4105
+animeDescription	"Dee Laytner and Randy ""Ryo"" Maclane are two New York cops taking a needed vacation in England. Dee has very strong feelings for Ryo and wants to take this chance to advance their relationship (and if he's lucky, maybe seduce Ryo). Ryo doesn't understand his own feelings for Dee, and doesn't know if he wants to (or should) acknowledge them. Their vacation and relationship is suddenly disturbed when murders and missing person reports keep surfacing around their hotel. The only common tie the cases have is that all of the victims were Japanese or Japanese descent. Dee and Ryo have to solve the case before Ryo, who is half Japanese, becomes the next victim.
+
+(Source: ANN)"
+animeRelated	['Fake']
+animeCharacters	['Laytner, Dee', 'Maclean, Randy', 'Bikky', 'Carol', 'Rose, Berkeley', 'Adams, Jemmy J.']
+animeVoices	['Seki, Tomokazu', 'Tobita, Nobuo', 'Matsumoto, Rica', 'Yamazaki, Wakana', 'Ebara, Masashi', 'Iwanaga, Tetsuya']
+animeStaff	[['Suzuki, Iku', 'Director'], ['Miyazaki, Nagisa', 'Director, Animation Director'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Endo, Akinori', 'Script']]

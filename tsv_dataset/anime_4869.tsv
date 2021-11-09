@@ -1,5 +1,5 @@
-animeTitle	b'Fate/Grand Order: First Order'
-animeType	b'Special'
+animeTitle	Fate/Grand Order: First Order
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.75
 animeUsers	97768
 animeRank	
-animePopularity	
-animeDescription	"b""In 2015, the Chaldea Security Organization draws on experts of both the magical and mundane fields to observe the future of mankind for possible extinction events. Humanity's survival seems assured for the next century\xe2\x80\x94until the verdict suddenly changes, and now eradication of the species awaits at the end of 2016. The cause is unknown, but appears to be linked with the Japanese town of Fuyuki and the events of 2004 during the Fifth Holy Grail War.\n\nIn response, Chaldea harnesses an experimental means of time travel, the Rayshift technology. With it, Ritsuka Fujimaru, a young man newly recruited to the organization, and the mysterious girl Mash Kyrielight, can travel back to 2004 and discover how to save humanity. A grand order to fight fate has been declared\xe2\x80\x94an order to change the past and restore the future.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Fate/stay night', b'Fate/Grand Order', b'Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Ijin-hen', b'Fate/Grand Order: Moonlight/Lostroom', b'Fate/Grand Order: Zettai Majuu Sensen Babylonia', b'Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram', b'Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram', b'Manga de Wakaru! Fate/Grand Order', b'Toshiwasure Guda Guda Order 2016']
-animeCharacters	[b'Kyrielight, Mash', b'Fujimaru, Ritsuka', b'Caster', b'Saber', b'Archer', b'Rider', b'Archaman, Romani', b'Arsimilat Animusphere, Olga-Marie', b'Fou', b'Lainur, Lev']
-animeVoices	[b'\nTakahashi, Rie\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nYonezawa, Madoka\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNanba, Hitoshi\n\nDirector\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n', b'\nTsukada, Takurou\n\nEpisode Director, Storyboard, Assistant Director\n\n', b'\nSekine, Ayumi\n\nScript\n\n']
+animePopularity	1060
+animeDescription	"In 2015, the Chaldea Security Organization draws on experts of both the magical and mundane fields to observe the future of mankind for possible extinction events. Humanity's survival seems assured for the next century—until the verdict suddenly changes, and now eradication of the species awaits at the end of 2016. The cause is unknown, but appears to be linked with the Japanese town of Fuyuki and the events of 2004 during the Fifth Holy Grail War.
+
+In response, Chaldea harnesses an experimental means of time travel, the Rayshift technology. With it, Ritsuka Fujimaru, a young man newly recruited to the organization, and the mysterious girl Mash Kyrielight, can travel back to 2004 and discover how to save humanity. A grand order to fight fate has been declared—an order to change the past and restore the future.
+
+[Written by MAL Rewrite]"
+animeRelated	['Fate/stay night', 'Fate/Grand Order', 'Fate/Grand Order: Himuro no Tenchi - 7-nin no Saikyou Ijin-hen', 'Fate/Grand Order: Moonlight/Lostroom', 'Fate/Grand Order: Zettai Majuu Sensen Babylonia', 'Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram', 'Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram', 'Manga de Wakaru! Fate/Grand Order', 'Toshiwasure Guda Guda Order 2016']
+animeCharacters	['Kyrielight, Mash', 'Fujimaru, Ritsuka', 'Caster', 'Saber', 'Archer', 'Rider', 'Archaman, Romani', 'Arsimilat Animusphere, Olga-Marie', 'Fou', 'Lainur, Lev']
+animeVoices	['Takahashi, Rie', 'Shimazaki, Nobunaga', 'Kawasumi, Ayako', 'Suwabe, Junichi', 'Asakawa, Yuu', 'Suzumura, Kenichi', 'Yonezawa, Madoka', 'Sugita, Tomokazu']
+animeStaff	[['Nanba, Hitoshi', 'Director'], ['Takadera, Takeshi', 'Sound Director'], ['Tsukada, Takurou', 'Episode Director, Storyboard, Assistant Director'], ['Sekine, Ayumi', 'Script']]

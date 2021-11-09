@@ -1,5 +1,5 @@
-animeTitle	b'Nine'
-animeType	b'Special'
+animeTitle	Nine
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.06
 animeUsers	127
 animeRank	
-animePopularity	
-animeDescription	"b""Just before entering Seishuu High School, track star Katsuya Niimi and judo champion Susumu Karasawa see a girl crying as the school loses a baseball game. The boys decide to join the team and improve it in order to make her smile. The girl turns out to be Yuri Nakao, daughter of the baseball coach, and they learn the baseball team will be shut down if it doesn't start winning. The series follows the three, as well as pitcher Eiji Kurahashi, as Niimi and Karasawa learn about baseball and what it means to be one of nine players on a team, as they work together through high school make it to Koushien.\n\n(Source: Wikipedia)"""
-animeRelated	[b'Nine', b'Nine: Original-ban', b'Nine 2: Koibito Sengen']
-animeCharacters	[b'Niimi, Katsuya']
-animeVoices	[b'\nFuruya, Toru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugii, Gisaburou\n\nDirector\n\n', b'\nSerizawa, Hiroaki\n\nTheme Song Composition, Theme Song Arrangement, Inserted Song Performance, Music\n\n', b'\nAdachi, Mitsuru\n\nOriginal Creator\n\n', b'\nMaeda, Minoru\n\nCharacter Design\n\n']
+animePopularity	12106
+animeDescription	"Just before entering Seishuu High School, track star Katsuya Niimi and judo champion Susumu Karasawa see a girl crying as the school loses a baseball game. The boys decide to join the team and improve it in order to make her smile. The girl turns out to be Yuri Nakao, daughter of the baseball coach, and they learn the baseball team will be shut down if it doesn't start winning. The series follows the three, as well as pitcher Eiji Kurahashi, as Niimi and Karasawa learn about baseball and what it means to be one of nine players on a team, as they work together through high school make it to Koushien.
+
+(Source: Wikipedia)"
+animeRelated	['Nine', 'Nine: Original-ban', 'Nine 2: Koibito Sengen']
+animeCharacters	['Niimi, Katsuya']
+animeVoices	['Furuya, Toru']
+animeStaff	[['Sugii, Gisaburou', 'Director'], ['Serizawa, Hiroaki', 'Theme Song Composition, Theme Song Arrangement, Inserted Song Performance, Music'], ['Adachi, Mitsuru', 'Original Creator'], ['Maeda, Minoru', 'Character Design']]

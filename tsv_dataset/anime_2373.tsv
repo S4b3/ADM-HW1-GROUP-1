@@ -1,5 +1,5 @@
-animeTitle	b'Inazuma Eleven: Saikyou Gundan Ogre Shuurai'
-animeType	b'Movie'
+animeTitle	Inazuma Eleven: Saikyou Gundan Ogre Shuurai
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.31
 animeUsers	14523
 animeRank	
-animePopularity	
-animeDescription	b'An organization in the future sends the specially trained Team Ogre to defeat Endou Mamoru and his team, to prevent him from influencing the world with his soccer.\n\n(Source: AniDB)'
-animeRelated	[b'Inazuma Eleven']
-animeCharacters	[b'Endou, Mamoru', b'Gouenji, Shuuya', b'Kidou, Yuuto', b'Sleed, Baddap', b'Endou, Kanon', b'Fubuki, Shirou', b'Kiyama, Hiroto', b'Afuro, Terumi', b'Kazemaru, Ichirouta', b'Sakuma, Jirou']
-animeVoices	[b'\nTakeuchi, Junko\nJapanese\n', b'\nNojima, Hirofumi\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nSanpei, Yuuko\nJapanese\n', b'\nNishigaki, Yuka\nJapanese\n', b'\nTano, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyao, Yoshikazu\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nYoshida, Tooru\n\nEpisode Director, Storyboard\n\n', b'\nYamada, Hirokazu\n\nEpisode Director\n\n']
+animePopularity	3697
+animeDescription	"An organization in the future sends the specially trained Team Ogre to defeat Endou Mamoru and his team, to prevent him from influencing the world with his soccer.
+
+(Source: AniDB)"
+animeRelated	['Inazuma Eleven']
+animeCharacters	['Endou, Mamoru', 'Gouenji, Shuuya', 'Kidou, Yuuto', 'Sleed, Baddap', 'Endou, Kanon', 'Fubuki, Shirou', 'Kiyama, Hiroto', 'Afuro, Terumi', 'Kazemaru, Ichirouta', 'Sakuma, Jirou']
+animeVoices	['Takeuchi, Junko', 'Nojima, Hirofumi', 'Yoshino, Hiroyuki', 'Kamiya, Hiroshi', 'Miyano, Mamoru', 'Mizushima, Takahiro', 'Sanpei, Yuuko', 'Nishigaki, Yuka', 'Tano, Megumi']
+animeStaff	[['Miyao, Yoshikazu', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Yoshida, Tooru', 'Episode Director, Storyboard'], ['Yamada, Hirokazu', 'Episode Director']]

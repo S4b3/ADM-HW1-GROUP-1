@@ -1,5 +1,5 @@
-animeTitle	b'Zombie-Loan'
-animeType	b'TV'
+animeTitle	Zombie-Loan
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.86
 animeUsers	58285
 animeRank	
-animePopularity	
-animeDescription	"b'Do you know when you are going to die? Michiru Kita does, as she has the ability to see a ""ring of death"" on the necks of those around her\xe2\x80\x94and the darker the ring, the closer one is to death. \n\nOne day, she notices that two boys in her class, Chika Akatsuki and Shito Tachibana, have completely black rings. Seeking to warn them of their impending demise, she stumbles onto their secret: they are already dead, but are kept alive due to a contract with Zombie-Loan, a mysterious loan office. Of course, nothing comes without a price, as the boys must hunt down and kill zombies in order to pay off their debt. And once they learn about Michiru\'s ""Shinigami Eyes,"" they drag her into their crazy world.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Zombie-Loan', b'Zombie-Loan Specials']
-animeCharacters	[b'Akatsuki, Chika', b'Tachibana, Shito', b'Kita, Michiru', b'Zarame', b'Yuuta', b'Yoimachi, Koyomi', b'Shiba, Reiichirou', b'Bekkou', b'Lyca', b'Asou, Sotetsu']
-animeVoices	[b'\nSuzumura, Kenichi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nItou, Kentarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMotohashi, Hideyuki\n\nProducer, Chief Animation Director\n\n', b'\nNishimori, Akira\n\nDirector, Episode Director, Storyboard\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nYamato, Naomichi\n\nEpisode Director\n\n']
+animePopularity	1320
+animeDescription	"Do you know when you are going to die? Michiru Kita does, as she has the ability to see a ""ring of death"" on the necks of those around her—and the darker the ring, the closer one is to death. 
+
+One day, she notices that two boys in her class, Chika Akatsuki and Shito Tachibana, have completely black rings. Seeking to warn them of their impending demise, she stumbles onto their secret: they are already dead, but are kept alive due to a contract with Zombie-Loan, a mysterious loan office. Of course, nothing comes without a price, as the boys must hunt down and kill zombies in order to pay off their debt. And once they learn about Michiru's ""Shinigami Eyes,"" they drag her into their crazy world.
+
+[Written by MAL Rewrite]"
+animeRelated	['Zombie-Loan', 'Zombie-Loan Specials']
+animeCharacters	['Akatsuki, Chika', 'Tachibana, Shito', 'Kita, Michiru', 'Zarame', 'Yuuta', 'Yoimachi, Koyomi', 'Shiba, Reiichirou', 'Bekkou', 'Lyca', 'Asou, Sotetsu']
+animeVoices	['Suzumura, Kenichi', 'Sakurai, Takahiro', 'Kuwashima, Houko', 'Kosugi, Juurouta', 'Saitou, Chiwa', 'Ueda, Kana', 'Suwabe, Junichi', 'Morikawa, Toshiyuki', 'Kakihara, Tetsuya', 'Itou, Kentarou']
+animeStaff	[['Motohashi, Hideyuki', 'Producer, Chief Animation Director'], ['Nishimori, Akira', 'Director, Episode Director, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Yamato, Naomichi', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Fushigi no Umi no Nadia'
-animeType	b'TV'
+animeTitle	Fushigi no Umi no Nadia
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.53
 animeUsers	15675
 animeRank	
-animePopularity	
-animeDescription	"b""In 1889, the world is on the pinnacle of great discoveries in technology. In mankind's grasp for the future, a sinister foe known only as Gargoyle, obsessed with restoring the former Atlantean empire to the glory it once held, begins his plans to take over the world. Nadia, with the help of a young inventor, Jean Roque Lartigue, and Captain Nemo of the submarine Nautilus, must fight to save the world from Gargoyle and Neo-Atlantis. Based on the Novel '20,000 Leagues Under the Sea' by Jules Verne.\n\n(Source: ANN) """
-animeRelated	[b'Fushigi no Umi no Nadia: Original Movie', b'Fushigi no Umi no Nadia Omake Gekijou']
-animeCharacters	[b'la Arwall, Nadia', b'Roque Lartigue, Jean', b'King', b'Carlsberg, Marie en', b'Nemo', b'Sanson', b'Gargoyle', b'Granva, Grandis', b'Electra, Medina La Lugensius', b'Narrator']
-animeVoices	[b'\nTakamori, Yoshino\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nSakurai, Toshiharu\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nKiyokawa, Motomu\nJapanese\n', b'\nTakizawa, Kumiko\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAnno, Hideaki\n\nDirector, Storyboard, Animation Director, Mechanical Design\n\n', b'\nHiguchi, Shinji\n\nDirector, Storyboard, Inserted Song Performance\n\n', b'\nShimizu, Katsunori\n\nSound Director\n\n', b'\nMaeda, Mahiro\n\nEpisode Director, Storyboard, Setting, Key Animation, Original Creator\n\n']
+animePopularity	2388
+animeDescription	"In 1889, the world is on the pinnacle of great discoveries in technology. In mankind's grasp for the future, a sinister foe known only as Gargoyle, obsessed with restoring the former Atlantean empire to the glory it once held, begins his plans to take over the world. Nadia, with the help of a young inventor, Jean Roque Lartigue, and Captain Nemo of the submarine Nautilus, must fight to save the world from Gargoyle and Neo-Atlantis. Based on the Novel '20,000 Leagues Under the Sea' by Jules Verne.
+
+(Source: ANN) "
+animeRelated	['Fushigi no Umi no Nadia: Original Movie', 'Fushigi no Umi no Nadia Omake Gekijou']
+animeCharacters	['la Arwall, Nadia', 'Roque Lartigue, Jean', 'King', 'Carlsberg, Marie en', 'Nemo', 'Sanson', 'Gargoyle', 'Granva, Grandis', 'Electra, Medina La Lugensius', 'Narrator']
+animeVoices	['Takamori, Yoshino', 'Hidaka, Noriko', 'Sakurai, Toshiharu', 'Mizutani, Yuuko', 'Ootsuka, Akio', 'Horiuchi, Kenyuu', 'Kiyokawa, Motomu', 'Takizawa, Kumiko', 'Inoue, Kikuko']
+animeStaff	[['Anno, Hideaki', 'Director, Storyboard, Animation Director, Mechanical Design'], ['Higuchi, Shinji', 'Director, Storyboard, Inserted Song Performance'], ['Shimizu, Katsunori', 'Sound Director'], ['Maeda, Mahiro', 'Episode Director, Storyboard, Setting, Key Animation, Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Bakuen Campus Guardress'
-animeType	b'OVA'
+animeTitle	Bakuen Campus Guardress
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.01
 animeUsers	927
 animeRank	
-animePopularity	
-animeDescription	b'Long ago, the gate to the world of darkness was sealed. Now evil warriors, known as Remnants, are trying to reopen the gate and let demons take over the world. However, at Tobira High School, there exist guardians of the gate who must risk their lives to prevent the gate from being opened. \n\n(Source: ANN)'
+animePopularity	8478
+animeDescription	"Long ago, the gate to the world of darkness was sealed. Now evil warriors, known as Remnants, are trying to reopen the gate and let demons take over the world. However, at Tobira High School, there exist guardians of the gate who must risk their lives to prevent the gate from being opened. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Jinno, Hazumi', b'Kijima, Touta', b'Jinno, Takumi', b'Chiryuu', b'Hime, Aoba', b'Yuka', b'Yamashiro, Kazuma', b'Honda, Yasumasa', b'Murasaki', b'Jinno, Kasumi']
-animeVoices	[b'\nMatsumoto, Rica\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nKanai, Mika\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nTsujitani, Kouji\nJapanese\n', b'\nAmano, Yuri\nJapanese\n', b'\nHayami, Kei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshikawa, Mitsuhisa\n\nProducer\n\n', b'\nNishikubo, Mizuho\n\nDirector, Storyboard\n\n', b'\nMatsumoto, Rica\n\nTheme Song Performance\n\n', b'\nHagiwara, Kazushi\n\nOriginal Creator\n\n']
+animeCharacters	['Jinno, Hazumi', 'Kijima, Touta', 'Jinno, Takumi', 'Chiryuu', 'Hime, Aoba', 'Yuka', 'Yamashiro, Kazuma', 'Honda, Yasumasa', 'Murasaki', 'Jinno, Kasumi']
+animeVoices	['Matsumoto, Rica', 'Ootsuka, Akio', 'Ishida, Akira', 'Yamadera, Kouichi', 'Kanai, Mika', 'Shiratori, Yuri', 'Morikawa, Toshiyuki', 'Tsujitani, Kouji', 'Amano, Yuri', 'Hayami, Kei']
+animeStaff	[['Ishikawa, Mitsuhisa', 'Producer'], ['Nishikubo, Mizuho', 'Director, Storyboard'], ['Matsumoto, Rica', 'Theme Song Performance'], ['Hagiwara, Kazushi', 'Original Creator']]

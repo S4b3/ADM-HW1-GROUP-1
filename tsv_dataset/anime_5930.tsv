@@ -1,5 +1,5 @@
-animeTitle	b'Neo Ranga'
-animeType	b'TV'
+animeTitle	Neo Ranga
+animeType	TV
 animeNumEpisode	48
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.54
 animeUsers	2220
 animeRank	
-animePopularity	
-animeDescription	b'An ancient God called Ranga awakens on an isolated island in the South Pacific where it has been slumbering forgotten by mankind. Three sisters living in Tokyo\xe2\x80\x94Minami, Ushio, and Yuuhi Shimabara\xe2\x80\x94discover they have inherited this Island Kingdom, along with the huge God. When Ranga shows up in Tokyo, it soon becomes a source of wonder and conflict for the three sisters that control Ranga, the people who want to destroy it, and ones who want to use it. \n\n(Source: ANN)'
+animePopularity	5012
+animeDescription	"An ancient God called Ranga awakens on an isolated island in the South Pacific where it has been slumbering forgotten by mankind. Three sisters living in Tokyo—Minami, Ushio, and Yuuhi Shimabara—discover they have inherited this Island Kingdom, along with the huge God. When Ranga shows up in Tokyo, it soon becomes a source of wonder and conflict for the three sisters that control Ranga, the people who want to destroy it, and ones who want to use it. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Shimabara, Yuuhi', b'Shimabara, Ushio', b'Joel', b'Shimabara, Minami', b'Neo Ranga', b'Hasegawa, Shougo', b'Kurogane, Hayato', b'Amagi, Erina', b'Narrator', b'Takesue, Yoshiyuki']
-animeVoices	[b'\nSendai, Eri\nJapanese\n', b'\nMiyamura, Yuko\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nSumitomo, Yuuko\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nMiura, Naoko\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nMatsuo, Ginzou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Shinichi\n\nAssistant Producer\n\n', b'\nKamiya, Jun\n\nDirector\n\n', b'\nTsuru, Toshiyuki\n\nEpisode Director, Storyboard, Chief Animation Director\n\n', b'\nKamimura, Osamu\n\nEpisode Director, Storyboard\n\n']
+animeCharacters	['Shimabara, Yuuhi', 'Shimabara, Ushio', 'Joel', 'Shimabara, Minami', 'Neo Ranga', 'Hasegawa, Shougo', 'Kurogane, Hayato', 'Amagi, Erina', 'Narrator', 'Takesue, Yoshiyuki']
+animeVoices	['Sendai, Eri', 'Miyamura, Yuko', 'Miyata, Kouki', 'Sumitomo, Yuuko', 'Ootsuka, Akio', 'Morikawa, Toshiyuki', 'Miura, Naoko', 'Ueda, Yuuji', 'Matsuo, Ginzou']
+animeStaff	[['Nakamura, Shinichi', 'Assistant Producer'], ['Kamiya, Jun', 'Director'], ['Tsuru, Toshiyuki', 'Episode Director, Storyboard, Chief Animation Director'], ['Kamimura, Osamu', 'Episode Director, Storyboard']]

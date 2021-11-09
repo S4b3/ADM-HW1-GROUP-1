@@ -1,5 +1,5 @@
-animeTitle	b'Fairy Tail Movie 1: Houou no Miko'
-animeType	b'Movie'
+animeTitle	Fairy Tail Movie 1: Houou no Miko
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.38
 animeUsers	105769
 animeRank	
-animePopularity	
-animeDescription	"b""In the mountains of north Fiore lies the Fire Village, where a lush-blue relic known as the Phoenix Stone is preserved. Entrusted to a mystifying woman named \xc3\x89clair, it is said to contain the power of an ancient phoenix. She wanders the land alone and protects the stone from harm, despite having no memory of why it was left in her care and only the faintest recollection of where she must take it. \n\nAfter encountering the wizard guild Fairy Tail, \xc3\x89clair receives an offer from Natsu Dragneel and his friends to help her uncover the mysteries surrounding the stone. However, in the midst of the group's journey, \xc3\x89clair is suddenly attacked and the stone is taken from her. With this, nefarious intentions to revive the blazing phoenix for its unparalleled power come to light, and the wizards of Fairy Tail find themselves in a situation that could spell calamity. They must now work together to prevent the revival of the phoenix and save the world from ruin. \n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Fairy Tail', b'Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa', b'Fairy Tail Movie 2: Dragon Cry']
-animeCharacters	[b'Dragneel, Natsu', b'Scarlet, Erza', b'Fullbuster, Gray', b'Heartfilia, Lucy', b'Happy', b'Marvell, Wendy', b'Charl\xc3\xa9s', b'\xc3\x89clair', b'Momon', b'Lockser, Juvia']
-animeVoices	[b'\nKakihara, Tetsuya\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nKanai, Mika\nJapanese\n', b'\nNakahara, Mai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujimori, Masaya\n\nDirector\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nKobayashi, Tsuneo\n\nStoryboard\n\n', b'\nHirano, Aya\n\nTheme Song Performance\n\n']
+animePopularity	966
+animeDescription	"In the mountains of north Fiore lies the Fire Village, where a lush-blue relic known as the Phoenix Stone is preserved. Entrusted to a mystifying woman named Éclair, it is said to contain the power of an ancient phoenix. She wanders the land alone and protects the stone from harm, despite having no memory of why it was left in her care and only the faintest recollection of where she must take it. 
+
+After encountering the wizard guild Fairy Tail, Éclair receives an offer from Natsu Dragneel and his friends to help her uncover the mysteries surrounding the stone. However, in the midst of the group's journey, Éclair is suddenly attacked and the stone is taken from her. With this, nefarious intentions to revive the blazing phoenix for its unparalleled power come to light, and the wizards of Fairy Tail find themselves in a situation that could spell calamity. They must now work together to prevent the revival of the phoenix and save the world from ruin. 
+
+[Written by MAL Rewrite]"
+animeRelated	['Fairy Tail', 'Fairy Tail Movie 1: Houou no Miko - Hajimari no Asa', 'Fairy Tail Movie 2: Dragon Cry']
+animeCharacters	['Dragneel, Natsu', 'Scarlet, Erza', 'Fullbuster, Gray', 'Heartfilia, Lucy', 'Happy', 'Marvell, Wendy', 'Charlés', 'Éclair', 'Momon', 'Lockser, Juvia']
+animeVoices	['Kakihara, Tetsuya', 'Ohara, Sayaka', 'Nakamura, Yuuichi', 'Hirano, Aya', 'Kugimiya, Rie', 'Satou, Satomi', 'Horie, Yui', 'Endou, Aya', 'Kanai, Mika', 'Nakahara, Mai']
+animeStaff	[['Fujimori, Masaya', 'Director'], ['Hata, Shouji', 'Sound Director'], ['Kobayashi, Tsuneo', 'Storyboard'], ['Hirano, Aya', 'Theme Song Performance']]

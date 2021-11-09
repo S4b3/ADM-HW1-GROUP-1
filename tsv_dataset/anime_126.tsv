@@ -1,5 +1,5 @@
-animeTitle	b'Kimetsu no Yaiba: Mugen Ressha-hen'
-animeType	b'TV'
+animeTitle	Kimetsu no Yaiba: Mugen Ressha-hen
+animeType	TV
 animeNumEpisode	7
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.47
 animeUsers	31327
 animeRank	
-animePopularity	
-animeDescription	b'TV version of Kimetsu no Yaiba Movie: Mugen Ressha-hen including an entirely new first episode. The first episode depicts Rengoku as he embarks on his journey to the Mugen Train. The remaining episodes will add about 70 new animation cuts and new background music, as well as a new trailer.\n\n(Source: ANN)'
-animeRelated	[b'Kimetsu no Yaiba Movie: Mugen Ressha-hen', b'Kimetsu no Yaiba: Yuukaku-hen']
-animeCharacters	[b'Kamado, Tanjirou', b'Agatsuma, Zenitsu', b'Kamado, Nezuko', b'Hashibira, Inosuke', b'Rengoku, Kyoujurou', b'Kochou, Shinobu', b'Tomioka, Giyuu', b'Tokitou, Muichirou', b'Akaza', b'Uzui, Tengen']
+animePopularity	1084
+animeDescription	"TV version of Kimetsu no Yaiba Movie: Mugen Ressha-hen including an entirely new first episode. The first episode depicts Rengoku as he embarks on his journey to the Mugen Train. The remaining episodes will add about 70 new animation cuts and new background music, as well as a new trailer.
+
+(Source: ANN)"
+animeRelated	['Kimetsu no Yaiba Movie: Mugen Ressha-hen', 'Kimetsu no Yaiba: Yuukaku-hen']
+animeCharacters	['Kamado, Tanjirou', 'Agatsuma, Zenitsu', 'Kamado, Nezuko', 'Hashibira, Inosuke', 'Rengoku, Kyoujurou', 'Kochou, Shinobu', 'Tomioka, Giyuu', 'Tokitou, Muichirou', 'Akaza', 'Uzui, Tengen']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nLiSA\n\nTheme Song Performance\n\n', b'\nKajiura, Yuki\n\nTheme Song Arrangement, Theme Song Lyrics, Theme Song Composition\n\n', b'\nShiina, Gou\n\nMusic\n\n']
+animeStaff	[['LiSA', 'Theme Song Performance'], ['Kajiura, Yuki', 'Theme Song Arrangement, Theme Song Lyrics, Theme Song Composition'], ['Shiina, Gou', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Mazinkaiser SKL'
-animeType	b'OVA'
+animeTitle	Mazinkaiser SKL
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.06
 animeUsers	5082
 animeRank	
-animePopularity	
-animeDescription	"b""Prior to the events of the anime, three factions\xe2\x80\x94the Garan Army, the Kiba Army, and the Aira Army, battle for total dominance of Machine Island. The island is basically a prison, isolated from the rest of the world. The island contains a vast amount of resources, allowing the three factions to create an infinite supply of giant robots for their respective armies.\n\nThe world government learns that the island's power reactor has become unstable and will explode within 66 hours, destroying all of life and Earth itself. The government sends the Death Caprice squad, composed of mercenaries Ken Kaido and Ryo Magami to solve the issue, along with their giant robot Mazinkaiser, but was that a good idea?"""
-animeRelated	[b'Mazinkaiser']
-animeCharacters	[b'Kaido, Ken', b'Magami, Ryo', b'Kiba', b'Tsubasa, Yuki', b'Aira', b'Himiko', b'Misty', b'Hurricane', b'Garan', b'Fancy']
-animeVoices	[b'\nAsanuma, Shintaro\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nShimizu, Ai\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nTakahashi, Mikako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawagoe, Jun\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nHayakawa, Tadashi\n\nScript, Series Composition\n\n', b'\nSadie\n\nTheme Song Performance, Theme Song Composition\n\n']
+animePopularity	5187
+animeDescription	"Prior to the events of the anime, three factions—the Garan Army, the Kiba Army, and the Aira Army, battle for total dominance of Machine Island. The island is basically a prison, isolated from the rest of the world. The island contains a vast amount of resources, allowing the three factions to create an infinite supply of giant robots for their respective armies.
+
+The world government learns that the island's power reactor has become unstable and will explode within 66 hours, destroying all of life and Earth itself. The government sends the Death Caprice squad, composed of mercenaries Ken Kaido and Ryo Magami to solve the issue, along with their giant robot Mazinkaiser, but was that a good idea?"
+animeRelated	['Mazinkaiser']
+animeCharacters	['Kaido, Ken', 'Magami, Ryo', 'Kiba', 'Tsubasa, Yuki', 'Aira', 'Himiko', 'Misty', 'Hurricane', 'Garan', 'Fancy']
+animeVoices	['Asanuma, Shintaro', 'Hino, Satoshi', 'Hiyama, Nobuyuki', 'Hayami, Saori', 'Tanaka, Atsuko', 'Inoue, Kikuko', 'Shimizu, Ai', 'Shiraishi, Ryouko', 'Ginga, Banjou', 'Takahashi, Mikako']
+animeStaff	[['Kawagoe, Jun', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Hayakawa, Tadashi', 'Script, Series Composition'], ['Sadie', 'Theme Song Performance, Theme Song Composition']]

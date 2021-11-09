@@ -1,4 +1,4 @@
-animeTitle	b'Amazing Nuts!'
+animeTitle	Amazing Nuts!
 animeType	Music
 animeNumEpisode	4
 releaseDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.55
 animeUsers	4181
 animeRank	
-animePopularity	
-animeDescription	b'Amazing Nuts! is an anthology of four animated shorts with each featuring its own distinct animation style and music by Studio 4\xc2\xb0C.\n\n1. Global Astroliner Gou\n2. Glass Eye\n3. Kung-Fu Love\n4. Joe and Marilyn'
+animePopularity	5624
+animeDescription	"Amazing Nuts! is an anthology of four animated shorts with each featuring its own distinct animation style and music by Studio 4°C.
+
+1. Global Astroliner Gou
+2. Glass Eye
+3. Kung-Fu Love
+4. Joe and Marilyn"
 animeRelated	[]
-animeCharacters	[b'Kichijoji, Hanako', b'Ichimoji']
-animeVoices	[b'\nKitamura, Eri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakayama, Daisuke\n\nDirector, Storyboard\n\n', b'\nAoki, Yasuhiro\n\nDirector\n\n', b'\nAshino, Yoshiharu\n\nStoryboard, Key Animation\n\n', b'\nMiyake, Masakazu\n\nArt Director\n\n']
+animeCharacters	['Kichijoji, Hanako', 'Ichimoji']
+animeVoices	['Kitamura, Eri']
+animeStaff	[['Nakayama, Daisuke', 'Director, Storyboard'], ['Aoki, Yasuhiro', 'Director'], ['Ashino, Yoshiharu', 'Storyboard, Key Animation'], ['Miyake, Masakazu', 'Art Director']]

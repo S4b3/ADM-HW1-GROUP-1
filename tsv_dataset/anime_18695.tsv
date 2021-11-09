@@ -1,5 +1,5 @@
-animeTitle	b'Ai Doll'
-animeType	b'OVA'
+animeTitle	Ai Doll
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.69
 animeUsers	1258
 animeRank	
-animePopularity	
-animeDescription	b'The story of young Rachel is a sad one. Orphaned as a small child, abused by a jealous rival, and the object of lust by those who are supposed to be caretakers, she still tries to maintain a positive attitude about her future. Aided by her only friend Beth, her budding romance with Prince Andrew falls under jeopardy when a distant relative whisks her away for purposes unknown.\n\n(Source: ANN)'
+animePopularity	7973
+animeDescription	"The story of young Rachel is a sad one. Orphaned as a small child, abused by a jealous rival, and the object of lust by those who are supposed to be caretakers, she still tries to maintain a positive attitude about her future. Aided by her only friend Beth, her budding romance with Prince Andrew falls under jeopardy when a distant relative whisks her away for purposes unknown.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Andrew']
+animeCharacters	['Andrew']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOmata, Shinichi\n\nProducer\n\n', b'\nKujou, Rion\n\nDirector, Storyboard\n\n', b'\nHayakawa, Naomi\n\nScript, Original Creator\n\n', b'\nOkazaki, Hideo\n\nDirector of Photography\n\n']
+animeStaff	[['Omata, Shinichi', 'Producer'], ['Kujou, Rion', 'Director, Storyboard'], ['Hayakawa, Naomi', 'Script, Original Creator'], ['Okazaki, Hideo', 'Director of Photography']]

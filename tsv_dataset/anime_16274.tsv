@@ -1,5 +1,5 @@
-animeTitle	b'Idol Land PriPara'
-animeType	b'ONA'
+animeTitle	Idol Land PriPara
+animeType	ONA
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'Tie-in anime linked to the ""Idol Land PriPara"" smartphone game.\n\nEpisode 1 was streamed in advance during the ""PIA LIVE STREAM"" event on August 18, 2021. Regular broadcasting began in spring 2022.'"
-animeRelated	[b'PriPara']
-animeCharacters	[b'Manaka, Laala', b'Yumekawa, Yui', b'Yumekawa, Shougo', b'Katasumi, Amari', b'Mario']
-animeVoices	[b'\nDate, Arisa\nJapanese\n', b'\nYamashita, Seiichirou\nJapanese\n', b'\nIida, Riho\nJapanese\n', b'\nTachibana, Tatsumaru\nJapanese\n']
+animePopularity	11772
+animeDescription	"Tie-in anime linked to the ""Idol Land PriPara"" smartphone game.
+
+Episode 1 was streamed in advance during the ""PIA LIVE STREAM"" event on August 18, 2021. Regular broadcasting began in spring 2022."
+animeRelated	['PriPara']
+animeCharacters	['Manaka, Laala', 'Yumekawa, Yui', 'Yumekawa, Shougo', 'Katasumi, Amari', 'Mario']
+animeVoices	['Date, Arisa', 'Yamashita, Seiichirou', 'Iida, Riho', 'Tachibana, Tatsumaru']
 animeStaff	[]

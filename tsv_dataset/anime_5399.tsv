@@ -1,5 +1,5 @@
-animeTitle	b'Pyuu to Fuku! Jaguar'
-animeType	b'OVA'
+animeTitle	Pyuu to Fuku! Jaguar
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.64
 animeUsers	120
 animeRank	
-animePopularity	
-animeDescription	b'Based on the gag manga written and illustrated by Usuta Kyousuke that ran in Shuukan Shounen Jump from 2000 to 2010.\n\n(Source: AniDB)'
-animeRelated	[b'Pyuu to Fuku! Jaguar', b'Pyuu to Fuku! Jaguar: Ima, Fuki ni Yukimasu', b'Pyuu to Fuku! Jaguar: Return of Yaku Ichinenburi']
-animeCharacters	[b'Jaguar, Junichi', b'Hamawatari, Hiromitsu', b'Saketome, Kiyohiko']
+animePopularity	11933
+animeDescription	"Based on the gag manga written and illustrated by Usuta Kyousuke that ran in Shuukan Shounen Jump from 2000 to 2010.
+
+(Source: AniDB)"
+animeRelated	['Pyuu to Fuku! Jaguar', 'Pyuu to Fuku! Jaguar: Ima, Fuki ni Yukimasu', 'Pyuu to Fuku! Jaguar: Return of Yaku Ichinenburi']
+animeCharacters	['Jaguar, Junichi', 'Hamawatari, Hiromitsu', 'Saketome, Kiyohiko']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTani, Azuma\n\nDirector\n\n', b'\nUsuta, Kyousuke\n\nOriginal Creator\n\n', b'\nFROGMAN\n\nChief Animation Director\n\n']
+animeStaff	[['Tani, Azuma', 'Director'], ['Usuta, Kyousuke', 'Original Creator'], ['FROGMAN', 'Chief Animation Director']]

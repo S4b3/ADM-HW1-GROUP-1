@@ -1,5 +1,5 @@
-animeTitle	b'Blassreiter'
-animeType	b'TV'
+animeTitle	Blassreiter
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.91
 animeUsers	25422
 animeRank	
-animePopularity	
-animeDescription	"b'Modern Germany is plagued by an outbreak of ""Amalgams."" Existing solely to wreak havoc, these cybernetic entities spawn from rotting flesh and can fuse with technology to gain new abilities. With society left in the wake of their destruction, the Xenogenesis Assault Team (XAT) is formed to suppress the threat. Alongside its primary mission to protect against the Amalgam attacks, the organization is also researching the newly discovered ""amalgamated"" humans which possess rational thought and are far deadlier than their non-sentient counterparts.\n\nJoseph Jobson is one such amalgamated human who has full control over his powers. Although successful in his line of work as a lone warrior, an unfortunate encounter with the recently-turned-Amalgam Gerd Frentzen makes him a priority target of the XAT. As he eludes the organization and seeks new allies, Joseph is transformed into the Blassreiter\xe2\x80\x94a being heralded as the strongest Amalgam in existence. Now, he must fight back with his newfound powers to uncover the truth behind not only his past, but also the entire Amalgam conflict.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Blassreiter Judgment', b'Blassreiter: Navi']
-animeCharacters	[b'Jobson, Joseph', b'Werner, Amanda', b'Frentzen, Gerd', b'Saltza, Hermann', b'Xargin, Magwald', b'Elea', b'Lutz, Alvin', b'Kasagi, Shido', b'Jobson, Sasha', b'Grese, Beatrice']
-animeVoices	[b'\nMatsukaze, Masaya\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagai, Masaru\n\nProducer\n\n', b'\nItano, Ichirou\n\nDirector, Episode Director, Script, Storyboard, Animation Director, Screenplay, Key Animation, Series Composition\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nNobuta, Yuu\n\nEpisode Director\n\n']
+animePopularity	1922
+animeDescription	"Modern Germany is plagued by an outbreak of ""Amalgams."" Existing solely to wreak havoc, these cybernetic entities spawn from rotting flesh and can fuse with technology to gain new abilities. With society left in the wake of their destruction, the Xenogenesis Assault Team (XAT) is formed to suppress the threat. Alongside its primary mission to protect against the Amalgam attacks, the organization is also researching the newly discovered ""amalgamated"" humans which possess rational thought and are far deadlier than their non-sentient counterparts.
+
+Joseph Jobson is one such amalgamated human who has full control over his powers. Although successful in his line of work as a lone warrior, an unfortunate encounter with the recently-turned-Amalgam Gerd Frentzen makes him a priority target of the XAT. As he eludes the organization and seeks new allies, Joseph is transformed into the Blassreiter—a being heralded as the strongest Amalgam in existence. Now, he must fight back with his newfound powers to uncover the truth behind not only his past, but also the entire Amalgam conflict.
+
+[Written by MAL Rewrite]"
+animeRelated	['Blassreiter Judgment', 'Blassreiter: Navi']
+animeCharacters	['Jobson, Joseph', 'Werner, Amanda', 'Frentzen, Gerd', 'Saltza, Hermann', 'Xargin, Magwald', 'Elea', 'Lutz, Alvin', 'Kasagi, Shido', 'Jobson, Sasha', 'Grese, Beatrice']
+animeVoices	['Matsukaze, Masaya', 'Itou, Shizuka', 'Ishizuka, Unshou', 'Miyake, Kenta', 'Suwabe, Junichi', 'Hanazawa, Kana', 'Hiyama, Nobuyuki', 'Nabatame, Hitomi', 'Ohara, Sayaka']
+animeStaff	[['Nagai, Masaru', 'Producer'], ['Itano, Ichirou', 'Director, Episode Director, Script, Storyboard, Animation Director, Screenplay, Key Animation, Series Composition'], ['Aketagawa, Jin', 'Sound Director'], ['Nobuta, Yuu', 'Episode Director']]

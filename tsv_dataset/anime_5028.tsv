@@ -1,5 +1,5 @@
-animeTitle	b'Miyuki'
-animeType	b'TV'
+animeTitle	Miyuki
+animeType	TV
 animeNumEpisode	37
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.71
 animeUsers	701
 animeRank	
-animePopularity	
-animeDescription	b'Wakamatsu Masato lives with his step-sister, Miyuki, whom he does not have blood relationship with. Their father is always working oversea and left the two of them living by themselves in Toukyou. Miyuki is cute, nice, sensitive and very popular among guys around Masato. Masato has a girlfriend at school whose name is Kajima Miyuki, who is pretty and gentle, the ideal dream of every highschool boy.\n\n(Source: AnimeNfo)'
-animeRelated	[b'Miyuki']
-animeCharacters	[b'Wakamatsu, Miyuki', b'Wakamatsu, Masato', b'Kashima, Miyuki', b'Muraki, Yoshio', b'Nakata, Torao', b'Kousaka, Kenji', b'Kashima, Mother', b'Masaki, Ryuuichi', b'Kashima, Yasujirou']
-animeVoices	[b'\nOginome, Youko\nJapanese\n', b'\nToriumi, Katsumi\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nMori, Katsuji\nJapanese\n', b'\nUeda, Miyuki\nJapanese\n', b'\nOobayashi, Ryuusuke\nJapanese\n', b'\nTomiyama, Kei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishikubo, Mizuho\n\nDirector, Script\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b'\nKogawa, Yoriyasu\n\nEpisode Director\n\n', b'\nTokita, Hiroko\n\nEpisode Director\n\n']
+animePopularity	8110
+animeDescription	"Wakamatsu Masato lives with his step-sister, Miyuki, whom he does not have blood relationship with. Their father is always working oversea and left the two of them living by themselves in Toukyou. Miyuki is cute, nice, sensitive and very popular among guys around Masato. Masato has a girlfriend at school whose name is Kajima Miyuki, who is pretty and gentle, the ideal dream of every highschool boy.
+
+(Source: AnimeNfo)"
+animeRelated	['Miyuki']
+animeCharacters	['Wakamatsu, Miyuki', 'Wakamatsu, Masato', 'Kashima, Miyuki', 'Muraki, Yoshio', 'Nakata, Torao', 'Kousaka, Kenji', 'Kashima, Mother', 'Masaki, Ryuuichi', 'Kashima, Yasujirou']
+animeVoices	['Oginome, Youko', 'Toriumi, Katsumi', 'Tsuru, Hiromi', 'Shiozawa, Kaneto', 'Genda, Tesshou', 'Mori, Katsuji', 'Ueda, Miyuki', 'Oobayashi, Ryuusuke', 'Tomiyama, Kei']
+animeStaff	[['Nishikubo, Mizuho', 'Director, Script'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Kogawa, Yoriyasu', 'Episode Director'], ['Tokita, Hiroko', 'Episode Director']]

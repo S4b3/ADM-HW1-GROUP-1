@@ -1,5 +1,5 @@
-animeTitle	b'Circuit no Ookami II: Modena no Ken'
-animeType	b'OVA'
+animeTitle	Circuit no Ookami II: Modena no Ken
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.48
 animeUsers	113
 animeRank	
-animePopularity	
-animeDescription	b'The adventures of Ken Ferrari, a former racer and motor journalist with an appetite for women. Based on the manga by Satoshi Ikezawa.'
+animePopularity	12405
+animeDescription	The adventures of Ken Ferrari, a former racer and motor journalist with an appetite for women. Based on the manga by Satoshi Ikezawa.
 animeRelated	[]
-animeCharacters	[b'Ferrari, Ken']
-animeVoices	[b'\nOnosaka, Masaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuriyama, Yoshihide\n\nDirector\n\n', b'\nYamaguchi, Satoshi\n\nCharacter Design\n\n', b'\nIkezawa, Satoshi\n\nOriginal Creator\n\n']
+animeCharacters	['Ferrari, Ken']
+animeVoices	['Onosaka, Masaya']
+animeStaff	[['Kuriyama, Yoshihide', 'Director'], ['Yamaguchi, Satoshi', 'Character Design'], ['Ikezawa, Satoshi', 'Original Creator']]

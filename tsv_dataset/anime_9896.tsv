@@ -1,5 +1,5 @@
-animeTitle	b'Yumemakura Baku Twilight Gekijou'
-animeType	b'OVA'
+animeTitle	Yumemakura Baku Twilight Gekijou
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.66
 animeUsers	203
 animeRank	
-animePopularity	
-animeDescription	"b""Originally released as a feature part of Studio Pierrot's video magazine show Anime V Comic Rentaman (\xe3\x82\xa2\xe3\x83\x8b\xe3\x83\xa1\xe3\x83\xbbV\xe3\x83\xbb\xe3\x82\xb3\xe3\x83\x9f\xe3\x83\x83\xe3\x82\xaf \xe3\x83\xac\xe3\x83\xb3\xe3\x82\xbf\xe3\x83\x9e\xe3\x83\xb3) along with Abashiri Ikka, Eguchi Hisashi no Kotobuki Gorou Show and Akai Hayate. \n\n(Source: AniDB) """
-animeRelated	[b'Abashiri Ikka', b'Akai Hayate', b'Eguchi Hisashi no Kotobuki Gorou Show']
-animeCharacters	[b'Ayabe, Fumio ', b'Yakuza no Otoko', b'Alumni C', b'Michael', b'Saori', b'Shimada, Michihiko', b'Alumni B', b'Alumni A', b'Mibu', b'Nagamuro']
-animeVoices	[b'\nTsuru, Hiromi\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nMadono, Mitsuaki\nJapanese\n', b'\nYamada, Keaton\nJapanese\n', b'\nKobayashi, Yuko\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nShibuya, Shigeru\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nNakamura, Akio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOhira, Shinya\n\nDirector, Storyboard, Animation Director, Screenplay, Character Design\n\n', b'\nHashimoto, Shinji\n\nDirector, Storyboard, Key Animation, Screenplay, Animation Director, Character Design\n\n', b'\nTsuru, Hiromi\n\nTheme Song Performance\n\n', b'\nTanaka, Tatsuyuki\n\nKey Animation\n\n']
+animePopularity	10884
+animeDescription	"Originally released as a feature part of Studio Pierrot's video magazine show Anime V Comic Rentaman (アニメ・V・コミック レンタマン) along with Abashiri Ikka, Eguchi Hisashi no Kotobuki Gorou Show and Akai Hayate. 
+
+(Source: AniDB) "
+animeRelated	['Abashiri Ikka', 'Akai Hayate', 'Eguchi Hisashi no Kotobuki Gorou Show']
+animeCharacters	['Ayabe, Fumio ', 'Yakuza no Otoko', 'Alumni C', 'Michael', 'Saori', 'Shimada, Michihiko', 'Alumni B', 'Alumni A', 'Mibu', 'Nagamuro']
+animeVoices	['Tsuru, Hiromi', 'Chafurin', 'Madono, Mitsuaki', 'Yamada, Keaton', 'Kobayashi, Yuko', 'Tobita, Nobuo', 'Ishida, Akira', 'Shibuya, Shigeru', 'Yamadera, Kouichi', 'Nakamura, Akio']
+animeStaff	[['Ohira, Shinya', 'Director, Storyboard, Animation Director, Screenplay, Character Design'], ['Hashimoto, Shinji', 'Director, Storyboard, Key Animation, Screenplay, Animation Director, Character Design'], ['Tsuru, Hiromi', 'Theme Song Performance'], ['Tanaka, Tatsuyuki', 'Key Animation']]

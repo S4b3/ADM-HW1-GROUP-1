@@ -1,5 +1,5 @@
-animeTitle	"b""Joshikousei: Girl's High"""
-animeType	b'TV'
+animeTitle	Joshikousei: Girl's High
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.58
 animeUsers	12937
 animeRank	
-animePopularity	
-animeDescription	b'Eriko and her friends Yuma and Ayano are excited about entering high school. Their excitement leads to their breaking of the rules when they toured the school before the opening ceremony. They find out their preconceptions about the all female school may not be as true as they had first thought. Despite that, Eriko and her friends are joined by new friends. They aim to get through high school life together.\n\n(Source: ANN)'
-animeRelated	"[b'Joshikousei: Girls-High', b""Joshikousei: Girl's High Specials""]"
-animeCharacters	[b'Kouda, Akari', b'Ogawa, Ikue', b'Suzuki, Yuma', b'Satou, Ayano', b'Takahashi, Eriko', b'Himeji, Kyoko', b'Matsuo, Kaoru', b'Odagiri, Yuuichirou', b'Shimotakatani, Takanori', b'Suzuki, Momoka']
-animeVoices	[b'\nYukino, Satsuki\nJapanese\n', b'\nIshige, Sawa\nJapanese\n', b'\nAsano, Masumi\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nHikami, Kyouko\nJapanese\n', b'\nOkuda, Keijin\nJapanese\n', b'\nMadono, Mitsuaki\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nShimizu, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujimoto, Yoshitaka\n\nDirector\n\n', b'\nShimizu, Katsunori\n\nSound Director\n\n', b'\nItou, Michiko\n\nScript, Screenplay\n\n', b'\nHinata, Megumi\n\nTheme Song Composition, Theme Song Performance, Theme Song Lyrics\n\n']
+animePopularity	3127
+animeDescription	"Eriko and her friends Yuma and Ayano are excited about entering high school. Their excitement leads to their breaking of the rules when they toured the school before the opening ceremony. They find out their preconceptions about the all female school may not be as true as they had first thought. Despite that, Eriko and her friends are joined by new friends. They aim to get through high school life together.
+
+(Source: ANN)"
+animeRelated	"['Joshikousei: Girls-High', ""Joshikousei: Girl's High Specials""]"
+animeCharacters	['Kouda, Akari', 'Ogawa, Ikue', 'Suzuki, Yuma', 'Satou, Ayano', 'Takahashi, Eriko', 'Himeji, Kyoko', 'Matsuo, Kaoru', 'Odagiri, Yuuichirou', 'Shimotakatani, Takanori', 'Suzuki, Momoka']
+animeVoices	['Yukino, Satsuki', 'Ishige, Sawa', 'Asano, Masumi', 'Noto, Mamiko', 'Nabatame, Hitomi', 'Hikami, Kyouko', 'Okuda, Keijin', 'Madono, Mitsuaki', 'Mizushima, Takahiro', 'Shimizu, Ai']
+animeStaff	[['Fujimoto, Yoshitaka', 'Director'], ['Shimizu, Katsunori', 'Sound Director'], ['Itou, Michiko', 'Script, Screenplay'], ['Hinata, Megumi', 'Theme Song Composition, Theme Song Performance, Theme Song Lyrics']]

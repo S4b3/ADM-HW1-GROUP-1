@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: Part 6 - Jidai'
-animeType	b'Special'
+animeTitle	Lupin III: Part 6 - Jidai
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.36
 animeUsers	1478
 animeRank	
-animePopularity	
-animeDescription	b'Episode 0 of Lupin III: Part 6 series.'
-animeRelated	[b'Lupin III: Part 5', b'Lupin III: Part 6']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTomisawa, Nobuo\n\nDirector\n\n', b'\nTakahashi, Yuuya\n\nScript\n\n', b'\nMonkey Punch\n\nOriginal Creator\n\n', b'\nOono, Yuuji\n\nMusic\n\n']
+animePopularity	8254
+animeDescription	Episode 0 of Lupin III: Part 6 series.
+animeRelated	['Lupin III: Part 5', 'Lupin III: Part 6']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Sawashiro, Miyuki', 'Namikawa, Daisuke', 'Yamadera, Kouichi']
+animeStaff	[['Tomisawa, Nobuo', 'Director'], ['Takahashi, Yuuya', 'Script'], ['Monkey Punch', 'Original Creator'], ['Oono, Yuuji', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	"b""Arata naru Sekai: World's/Start/Load/End"""
-animeType	b'OVA'
+animeTitle	Arata naru Sekai: World's/Start/Load/End
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.29
 animeUsers	8399
 animeRank	
-animePopularity	
-animeDescription	b'Four high school girls in uniforms walk silently on the barren earth. These girls are time travelers who had been sent 6000 years into the future, from their present in which the same day is endlessly repeated, in order to evade human extinction.\n\nThey studied time travel in school, were examined by the aptitude test, and were sent to the future as told. What should they do now? They had no idea. The only thing they could take with them from the present was a light, toy-like cellphone. Of course, it receives no signal here.\n\nAs the girls are walking, they see strange birds flying in the sky, and a discolored river in the distance.\n\nThen, one girl finds an abandoned house, and recognizes the name inscribed on the front gates.'
-animeRelated	[b'Arata naru Sekai: Kako-hen', b'Arata naru Sekai: Gendai-hen']
-animeCharacters	[b'Hoshigaoka, Arisa', b'Yakusa', b'Kirishima', b'Ichimiya', b'Nakamura, Arata', b'Hongou', b'Sakyouyama, Chikusa']
-animeVoices	[b'\nIguchi, Yuka\nJapanese\n', b'\nTaneda, Risa\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nNagata, Yoriko\nJapanese\n', b'\nOokubo, Rumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTachikawa, Yuzuru\n\nDirector\n\n', b'\nIruma, Hitoma\n\nScript, Theme Song Lyrics, Original Creator\n\n', b'\nKousaki, Satoru\n\nTheme Song Arrangement, Theme Song Composition\n\n', b'\nKawano, Marina\n\nTheme Song Performance\n\n']
+animePopularity	4062
+animeDescription	"Four high school girls in uniforms walk silently on the barren earth. These girls are time travelers who had been sent 6000 years into the future, from their present in which the same day is endlessly repeated, in order to evade human extinction.
+
+They studied time travel in school, were examined by the aptitude test, and were sent to the future as told. What should they do now? They had no idea. The only thing they could take with them from the present was a light, toy-like cellphone. Of course, it receives no signal here.
+
+As the girls are walking, they see strange birds flying in the sky, and a discolored river in the distance.
+
+Then, one girl finds an abandoned house, and recognizes the name inscribed on the front gates."
+animeRelated	['Arata naru Sekai: Kako-hen', 'Arata naru Sekai: Gendai-hen']
+animeCharacters	['Hoshigaoka, Arisa', 'Yakusa', 'Kirishima', 'Ichimiya', 'Nakamura, Arata', 'Hongou', 'Sakyouyama, Chikusa']
+animeVoices	['Iguchi, Yuka', 'Taneda, Risa', 'Kimura, Ryouhei', 'Uchiyama, Yumi', 'Nagata, Yoriko', 'Ookubo, Rumi']
+animeStaff	[['Tachikawa, Yuzuru', 'Director'], ['Iruma, Hitoma', 'Script, Theme Song Lyrics, Original Creator'], ['Kousaki, Satoru', 'Theme Song Arrangement, Theme Song Composition'], ['Kawano, Marina', 'Theme Song Performance']]

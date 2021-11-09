@@ -1,5 +1,5 @@
-animeTitle	b'Miss Monochrome The Animation: Manager'
-animeType	b'OVA'
+animeTitle	Miss Monochrome The Animation: Manager
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.24
 animeUsers	2837
 animeRank	
-animePopularity	
-animeDescription	b'Limited edition OVA episode of Miss Monochrome.'
-animeRelated	[b'Miss Monochrome The Animation']
-animeCharacters	[b'Miss Monochrome', b'Ruu-chan', b'Maneo', b'Mana', b'Kikuko']
-animeVoices	[b'\nHorie, Yui\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nKanda, Akemi\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHorie, Yui\n\nTheme Song Performance, Original Character Design\n\n']
+animePopularity	6521
+animeDescription	Limited edition OVA episode of Miss Monochrome.
+animeRelated	['Miss Monochrome The Animation']
+animeCharacters	['Miss Monochrome', 'Ruu-chan', 'Maneo', 'Mana', 'Kikuko']
+animeVoices	['Horie, Yui', 'Fujiwara, Keiji', 'Kanda, Akemi', 'Inoue, Kikuko']
+animeStaff	[['Horie, Yui', 'Theme Song Performance, Original Character Design']]

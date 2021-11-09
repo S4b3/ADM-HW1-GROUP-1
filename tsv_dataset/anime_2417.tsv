@@ -1,5 +1,5 @@
-animeTitle	b'Onegai\xe2\x98\x86Teacher: Himitsu na Futari'
-animeType	b'OVA'
+animeTitle	Onegai☆Teacher: Himitsu na Futari
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.3
 animeUsers	27121
 animeRank	
-animePopularity	
-animeDescription	"b""Kei and Mizuho are having some marital difficulties, and Mizuho's family decides it's high time for a visit. \n\n(Source: ANN)"""
-animeRelated	[b'Onegai\xe2\x98\x86Teacher', b'Onegai\xe2\x98\x86Twins', b'Onegai\xe2\x98\x86Twins: Natsu wa Owaranai']
-animeCharacters	[b'Kazami, Mizuho', b'Kusanagi, Kei', b'Morino, Ichigo', b'Marie', b'Kazami, Hatsuho', b'Herikawa, Koishi', b'Kazami, Maho', b'Magumo, Hyosuke', b'Misumi, Kaede', b'Shidou, Matagu']
-animeVoices	[b'\nInoue, Kikuko\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nKawada, Mami\n\nTheme Song Performance\n\n', b'\nKOTOKO\n\nTheme Song Performance, Theme Song Lyrics\n\n', b'\nKuroda, Yousuke\n\nScreenplay\n\n']
+animePopularity	2657
+animeDescription	"Kei and Mizuho are having some marital difficulties, and Mizuho's family decides it's high time for a visit. 
+
+(Source: ANN)"
+animeRelated	['Onegai☆Teacher', 'Onegai☆Twins', 'Onegai☆Twins: Natsu wa Owaranai']
+animeCharacters	['Kazami, Mizuho', 'Kusanagi, Kei', 'Morino, Ichigo', 'Marie', 'Kazami, Hatsuho', 'Herikawa, Koishi', 'Kazami, Maho', 'Magumo, Hyosuke', 'Misumi, Kaede', 'Shidou, Matagu']
+animeVoices	['Inoue, Kikuko', 'Hoshi, Souichirou', 'Kawasumi, Ayako']
+animeStaff	[['Kikuta, Hiromi', 'Sound Director'], ['Kawada, Mami', 'Theme Song Performance'], ['KOTOKO', 'Theme Song Performance, Theme Song Lyrics'], ['Kuroda, Yousuke', 'Screenplay']]

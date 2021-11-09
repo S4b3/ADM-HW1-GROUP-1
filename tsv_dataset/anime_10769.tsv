@@ -1,5 +1,5 @@
-animeTitle	b'Monkey Punch no Sekai: Alice'
-animeType	b'OVA'
+animeTitle	Monkey Punch no Sekai: Alice
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.36
 animeUsers	532
 animeRank	
-animePopularity	
-animeDescription	b'Released in 1991, this OVA revolves around a mad scientist and the woman that betrayed him. Her unfaithfulness causes the scientist to turn her into a bionic sex machine that desires to please her man completely. However, she still remains unfaithful, and it is up to the scientist`s son to track her down and exact revenge.\n\n(Source: AniDB)'
+animePopularity	10207
+animeDescription	"Released in 1991, this OVA revolves around a mad scientist and the woman that betrayed him. Her unfaithfulness causes the scientist to turn her into a bionic sex machine that desires to please her man completely. However, she still remains unfaithful, and it is up to the scientist`s son to track her down and exact revenge.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Alice', b'Jirochou, Don', b'Omasa']
-animeVoices	[b'\nKatsuki, Masako\nJapanese\n', b'\nYasuhara, Yoshito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAoki, Yuuzou\n\nDirector\n\n', b'\nMonkey Punch\n\nOriginal Creator\n\n']
+animeCharacters	['Alice', 'Jirochou, Don', 'Omasa']
+animeVoices	['Katsuki, Masako', 'Yasuhara, Yoshito']
+animeStaff	[['Aoki, Yuuzou', 'Director'], ['Monkey Punch', 'Original Creator']]

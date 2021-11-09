@@ -1,5 +1,5 @@
-animeTitle	b'Zoids'
-animeType	b'TV'
+animeTitle	Zoids
+animeType	TV
 animeNumEpisode	67
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.37
 animeUsers	22242
 animeRank	
-animePopularity	
-animeDescription	b'Zoids are beast-like fighting machines used in both everyday use such as transportation, and special use such as war. Some types of Zoids, know as Organoids, are miniature Zoids that are living organisms. These Organoids have the capability to fuse with a non-living Zoid and make it much more powerful.\n\nVan (Ban) Freiheit discovers a Zoid Organoid in an abandoned laboratory while running from two strangers piloting Zoids. Also in the laboratory, in an animated suspension tube is a strange girl. He breaks the tube open and takes her and the Organoid with him. Spotting a ruined Shield Liger Zoid outside nearby, the Organoid fuses with it and repairs the damages. Making his escape, Van names the Organoid Zeke, and decides to keep him as a friend. The girl, who says her name is Fiona, wants to find something called Zoids Eve, and so Van, Zeke, and Fiona begin their adventure.\n\n(Source: AniDB)'
-animeRelated	[b'Kijuushin Seiki Zoids', b'Zoids Genesis', b'Zoids Shinseiki/Zero', b'Zoids Fuzors', b'Zoids Wild']
-animeCharacters	[b'Flyheight, Van', b'Linette, Elisi', b'Prozen, Gunther', b'Raven', b'Irvine', b'Schubaltz, Karl', b'Reese', b'Moonbay', b'Shadow', b'Schubaltz, Thomas Richard']
-animeVoices	[b'\nKishio, Daisuke\nJapanese\n', b'\nOhmoto, Makiko\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nWatanabe, Kumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKato, Takao\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nOotsuki, Atsushi\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nHabara, Nobuyoshi\n\nEpisode Director, Storyboard, Key Animation\n\n']
+animePopularity	2656
+animeDescription	"Zoids are beast-like fighting machines used in both everyday use such as transportation, and special use such as war. Some types of Zoids, know as Organoids, are miniature Zoids that are living organisms. These Organoids have the capability to fuse with a non-living Zoid and make it much more powerful.
+
+Van (Ban) Freiheit discovers a Zoid Organoid in an abandoned laboratory while running from two strangers piloting Zoids. Also in the laboratory, in an animated suspension tube is a strange girl. He breaks the tube open and takes her and the Organoid with him. Spotting a ruined Shield Liger Zoid outside nearby, the Organoid fuses with it and repairs the damages. Making his escape, Van names the Organoid Zeke, and decides to keep him as a friend. The girl, who says her name is Fiona, wants to find something called Zoids Eve, and so Van, Zeke, and Fiona begin their adventure.
+
+(Source: AniDB)"
+animeRelated	['Kijuushin Seiki Zoids', 'Zoids Genesis', 'Zoids Shinseiki/Zero', 'Zoids Fuzors', 'Zoids Wild']
+animeCharacters	['Flyheight, Van', 'Linette, Elisi', 'Prozen, Gunther', 'Raven', 'Irvine', 'Schubaltz, Karl', 'Reese', 'Moonbay', 'Shadow', 'Schubaltz, Thomas Richard']
+animeVoices	['Kishio, Daisuke', 'Ohmoto, Makiko', 'Saiga, Mitsuki', 'Fujiwara, Keiji', 'Ueda, Yuuji', 'Watanabe, Kumiko']
+animeStaff	[['Kato, Takao', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Ootsuki, Atsushi', 'Episode Director, Storyboard, Key Animation'], ['Habara, Nobuyoshi', 'Episode Director, Storyboard, Key Animation']]

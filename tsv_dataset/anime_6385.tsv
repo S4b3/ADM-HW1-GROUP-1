@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon: Meloetta no Kirakira Recital'
-animeType	b'Movie'
+animeTitle	Pokemon: Meloetta no Kirakira Recital
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.45
 animeUsers	3448
 animeRank	
-animePopularity	
-animeDescription	"b'The 24th Pikachu short, set to premiere alongisde the 15th movie of the Pok\xc3\xa9mon franchise, ""Pokemon Best Wishes!: Kyurem vs. Seikenshi"". It will star the recently unveiled Pok\xc3\xa9mon, Meloetta, in its Aria and Pirouette formes. '"
-animeRelated	[b'Pokemon Movie 15: Kyurem vs. Seikenshi', b'Pokemon Best Wishes! Season 2']
-animeCharacters	[b'Pikachu', b'Meloetta', b'Nyarth', b'Soonansu', b'Fushigidane', b'Narrator']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nNakajima, Megumi\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nAsada, Yuuji\n\nEpisode Director, Storyboard\n\n', b'\nMomoiro Clover Z\n\nTheme Song Performance\n\n']
+animePopularity	5753
+animeDescription	"The 24th Pikachu short, set to premiere alongisde the 15th movie of the Pokémon franchise, ""Pokemon Best Wishes!: Kyurem vs. Seikenshi"". It will star the recently unveiled Pokémon, Meloetta, in its Aria and Pirouette formes. "
+animeRelated	['Pokemon Movie 15: Kyurem vs. Seikenshi', 'Pokemon Best Wishes! Season 2']
+animeCharacters	['Pikachu', 'Meloetta', 'Nyarth', 'Soonansu', 'Fushigidane', 'Narrator']
+animeVoices	['Ootani, Ikue', 'Nakajima, Megumi', 'Inuyama, Inuko', 'Ueda, Yuuji', 'Hayashibara, Megumi']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Asada, Yuuji', 'Episode Director, Storyboard'], ['Momoiro Clover Z', 'Theme Song Performance']]

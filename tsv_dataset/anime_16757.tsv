@@ -1,5 +1,5 @@
-animeTitle	b'Kiniro Mosaic: Thank You!!'
-animeType	b'Movie'
+animeTitle	Kiniro Mosaic: Thank You!!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Kiniro Mosaic: Pretty Days']
-animeCharacters	[b'Kujou, Karen', b'Komichi, Aya', b'Cartelet, Alice', b'Inokuma, Youko', b'Oomiya, Shinobu']
+animePopularity	5573
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Kiniro Mosaic: Pretty Days']
+animeCharacters	['Kujou, Karen', 'Komichi, Aya', 'Cartelet, Alice', 'Inokuma, Youko', 'Oomiya, Shinobu']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nNawa, Munenori\n\nDirector\n\n', b'\nTouyama, Nao\n\nTheme Song Performance\n\n', b'\nTaneda, Risa\n\nTheme Song Performance\n\n', b'\nUchiyama, Yumi\n\nTheme Song Performance\n\n']
+animeStaff	[['Nawa, Munenori', 'Director'], ['Touyama, Nao', 'Theme Song Performance'], ['Taneda, Risa', 'Theme Song Performance'], ['Uchiyama, Yumi', 'Theme Song Performance']]

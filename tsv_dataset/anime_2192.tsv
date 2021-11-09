@@ -1,5 +1,5 @@
-animeTitle	b'City Hunter: Bay City Wars'
-animeType	b'Movie'
+animeTitle	City Hunter: Bay City Wars
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.35
 animeUsers	2878
 animeRank	
-animePopularity	
-animeDescription	"b""A new island resort has been built in Tokyo bay, and it is run by one of the world's most powerful super computers. The City Hunter gang has been invited to the grand opening party, but only Miki & Kaori have gotten there. Soon, they and the rest of the party goers are taken hostage by an exiled South American dictator called General Gillium. Now it's up to Ryo and Umibozu to free the hostages, and prevent Gillium's daughter from using the super computer to launch a nuclear attack on the USA. \n\n(Source: ANN)"""
-animeRelated	[b'City Hunter 3', b'City Hunter: Hyakuman Dollar no Inbou']
-animeCharacters	[b'Saeba, Ryou', b'Makimura, Kaori', b'Nogami, Saeko', b'Ijuuin, Hayato', b'Miki']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nIkura, Kazue\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Masuo\n\nProducer\n\n', b'\nKodama, Kenji\n\nDirector\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n']
+animePopularity	6282
+animeDescription	"A new island resort has been built in Tokyo bay, and it is run by one of the world's most powerful super computers. The City Hunter gang has been invited to the grand opening party, but only Miki & Kaori have gotten there. Soon, they and the rest of the party goers are taken hostage by an exiled South American dictator called General Gillium. Now it's up to Ryo and Umibozu to free the hostages, and prevent Gillium's daughter from using the super computer to launch a nuclear attack on the USA. 
+
+(Source: ANN)"
+animeRelated	['City Hunter 3', 'City Hunter: Hyakuman Dollar no Inbou']
+animeCharacters	['Saeba, Ryou', 'Makimura, Kaori', 'Nogami, Saeko', 'Ijuuin, Hayato', 'Miki']
+animeVoices	['Kamiya, Akira', 'Ikura, Kazue', 'Genda, Tesshou']
+animeStaff	[['Ueda, Masuo', 'Producer'], ['Kodama, Kenji', 'Director'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Urakami, Yasuo', 'Sound Director']]

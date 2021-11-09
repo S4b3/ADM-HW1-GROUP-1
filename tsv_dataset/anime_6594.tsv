@@ -1,5 +1,5 @@
-animeTitle	b'Moetan'
-animeType	b'TV'
+animeTitle	Moetan
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.41
 animeUsers	8332
 animeRank	
-animePopularity	
-animeDescription	"b'Ink Nijihara is a girl in high school. Unfortunately her crush Nao Tezuka barely recognizes her. To make matters worse, she is very short. Now Ink meets a duck and becomes a ""mahou shoujo"" and teaches Nao english in disguise. \n\n(Source: ANN)'"
-animeRelated	[b'Moetan', b'Moetan Specials']
-animeCharacters	[b'Nijihara, Ink', b'Kuroi, Sumi', b'Ah-kun', b'Shiratori, Alice', b'Ka-kun', b'Tezuka, Nao', b'Na-kun', b'Dandy', b'Ruriko', b'Tanaka, Rina']
-animeVoices	[b'\nTamura, Yukari\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nKaneda, Tomoko\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nMorinaga, Rika\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawaguchi, Keiichirou\n\nDirector, Episode Director, Storyboard\n\n', b'\nMatsuoka, Hiroki\n\nSound Director\n\n', b'\nIkehata, Hiroshi\n\nEpisode Director\n\n', b'\nHashiguchi, Yousuke\n\nEpisode Director\n\n']
+animePopularity	3527
+animeDescription	"Ink Nijihara is a girl in high school. Unfortunately her crush Nao Tezuka barely recognizes her. To make matters worse, she is very short. Now Ink meets a duck and becomes a ""mahou shoujo"" and teaches Nao english in disguise. 
+
+(Source: ANN)"
+animeRelated	['Moetan', 'Moetan Specials']
+animeCharacters	['Nijihara, Ink', 'Kuroi, Sumi', 'Ah-kun', 'Shiratori, Alice', 'Ka-kun', 'Tezuka, Nao', 'Na-kun', 'Dandy', 'Ruriko', 'Tanaka, Rina']
+animeVoices	['Tamura, Yukari', 'Tomatsu, Haruka', 'Onosaka, Masaya', 'Nazuka, Kaori', 'Hiyama, Nobuyuki', 'Ueda, Yuuji', 'Kaneda, Tomoko', 'Nakata, Jouji', 'Morinaga, Rika', 'Iguchi, Yuka']
+animeStaff	[['Kawaguchi, Keiichirou', 'Director, Episode Director, Storyboard'], ['Matsuoka, Hiroki', 'Sound Director'], ['Ikehata, Hiroshi', 'Episode Director'], ['Hashiguchi, Yousuke', 'Episode Director']]

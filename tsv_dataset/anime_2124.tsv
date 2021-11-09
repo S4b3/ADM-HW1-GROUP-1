@@ -1,5 +1,5 @@
-animeTitle	b'Isekai Shokudou'
-animeType	b'TV'
+animeTitle	Isekai Shokudou
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.36
 animeUsers	77790
 animeRank	
-animePopularity	
-animeDescription	"b'Western Restaurant Nekoya is a popular eatery located on a street corner in a Tokyo shopping district. Serving both traditional Japanese fare as well as Western dishes, this eating establishment is popular among Tokyo\'s residents. But this seemingly ordinary restaurant is also popular with another type of clientele... \n\nWhile the restaurant is thought to be closed on Saturdays, the truth is that on this special day each week, its doors are instead opened to the inhabitants of other worlds. From dragons and elves to fairies and mages, this restaurant has no shortage of strange customers. Nevertheless, the enigmatic chef known only as ""Master"" will be waiting to serve up their favorite dishes with a kind smile and keep them coming back for many more Saturdays to come.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Isekai Shokudou', b'Isekai Shokudou 2']
-animeCharacters	[b'Tenshu', b'Aletta', b'Kuro', b'Aka no Joou', b'Adelheid', b'Samanark, Victoria', b'Faldania', b'Gold, Sarah', b'Lionel', b'Christian']
-animeVoices	[b'\nSuwabe, Junichi\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nOonishi, Saori\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nUeda, Reina\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nYasuno, Kiyono\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nJinbo, Masato\n\nDirector, Script, Series Composition\n\n', b'\nTsuchiya, Masaki\n\nSound Director\n\n', b'\nMarchi, Jamie\n\nScript\n\n', b'\nKimura, Yasuhiro\n\nStoryboard\n\n']
+animePopularity	975
+animeDescription	"Western Restaurant Nekoya is a popular eatery located on a street corner in a Tokyo shopping district. Serving both traditional Japanese fare as well as Western dishes, this eating establishment is popular among Tokyo's residents. But this seemingly ordinary restaurant is also popular with another type of clientele... 
+
+While the restaurant is thought to be closed on Saturdays, the truth is that on this special day each week, its doors are instead opened to the inhabitants of other worlds. From dragons and elves to fairies and mages, this restaurant has no shortage of strange customers. Nevertheless, the enigmatic chef known only as ""Master"" will be waiting to serve up their favorite dishes with a kind smile and keep them coming back for many more Saturdays to come.
+
+[Written by MAL Rewrite]"
+animeRelated	['Isekai Shokudou', 'Isekai Shokudou 2']
+animeCharacters	['Tenshu', 'Aletta', 'Kuro', 'Aka no Joou', 'Adelheid', 'Samanark, Victoria', 'Faldania', 'Gold, Sarah', 'Lionel', 'Christian']
+animeVoices	['Suwabe, Junichi', 'Uesaka, Sumire', 'Oonishi, Saori', 'Itou, Shizuka', 'Ueda, Reina', 'Tamura, Yukari', 'Hikasa, Youko', 'Yasuno, Kiyono', 'Hiyama, Nobuyuki', 'Konishi, Katsuyuki']
+animeStaff	[['Jinbo, Masato', 'Director, Script, Series Composition'], ['Tsuchiya, Masaki', 'Sound Director'], ['Marchi, Jamie', 'Script'], ['Kimura, Yasuhiro', 'Storyboard']]

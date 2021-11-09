@@ -1,5 +1,5 @@
-animeTitle	b'Nurse Witch Komugi-chan Magikarte Special'
-animeType	b'Special'
+animeTitle	Nurse Witch Komugi-chan Magikarte Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.43
 animeUsers	2256
 animeRank	
-animePopularity	
-animeDescription	b'A TV special, known as episode 2.5, that takes place between episodes 2 and 3.\n\n(Source: ANN)'
-animeRelated	[b'Nurse Witch Komugi-chan Magikarte']
-animeCharacters	[b'Nakahara, Komugi', b'Kokubunji, Koyori', b'Mugimaru', b'Date, Kyousuke', b'Mibu, Shirou', b'Tokisaka, Runa', b'Akiba, Megumi', b'Sakurai, Asuka', b'Kirihara, Yui']
-animeVoices	[b'\nMomoi, Haruko\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nTamura, Yukari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nArakawa, Masatsugu\n\nDirector\n\n', b'\nWatanabe, Akio\n\nAnimation Director, Character Design\n\n', b'\nHosoi, Mieko\n\nKey Animation\n\n', b'\nTakada, Akira\n\nKey Animation\n\n']
+animePopularity	7085
+animeDescription	"A TV special, known as episode 2.5, that takes place between episodes 2 and 3.
+
+(Source: ANN)"
+animeRelated	['Nurse Witch Komugi-chan Magikarte']
+animeCharacters	['Nakahara, Komugi', 'Kokubunji, Koyori', 'Mugimaru', 'Date, Kyousuke', 'Mibu, Shirou', 'Tokisaka, Runa', 'Akiba, Megumi', 'Sakurai, Asuka', 'Kirihara, Yui']
+animeVoices	['Momoi, Haruko', 'Ueda, Yuuji', 'Saiga, Mitsuki', 'Tamura, Yukari']
+animeStaff	[['Arakawa, Masatsugu', 'Director'], ['Watanabe, Akio', 'Animation Director, Character Design'], ['Hosoi, Mieko', 'Key Animation'], ['Takada, Akira', 'Key Animation']]

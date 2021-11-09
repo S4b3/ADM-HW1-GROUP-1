@@ -1,5 +1,5 @@
-animeTitle	b'Sakura Taisen: Le Nouveau Paris'
-animeType	b'OVA'
+animeTitle	Sakura Taisen: Le Nouveau Paris
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.42
 animeUsers	778
 animeRank	
-animePopularity	
-animeDescription	"b""After Ichiro Ogami's departure, the girls of the Paris Flower Defense Force are left debating who will be the next captain, while a centuries-old threat surfaces. \n\n(Source: ANN)"""
-animeRelated	[b'Sakura Taisen: Ecole de Paris']
-animeCharacters	[b'Fontaine, Erica', b'Bleumer, Glycine', b'Coquelicot', b'Carlini, Lobelia', b'Kitaoji, Hanabi', b'Raison, Mell', b'Caprice, Ci', b'Lilac, Isabel']
-animeVoices	[b'\nHidaka, Noriko\nJapanese\n', b'\nShimazu, Saeko\nJapanese\n', b'\nKozakura, Etsuko\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nTakamori, Yoshino\nJapanese\n', b'\nKojima, Sachiko\nJapanese\n', b'\nKanai, Mika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiroi, Ouji\n\nProducer, Planning, Original Creator\n\n', b'\nYamamoto, Yuusuke\n\nDirector\n\n', b'\nKawasaki, Hiroyuki\n\nScript\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n']
+animePopularity	8805
+animeDescription	"After Ichiro Ogami's departure, the girls of the Paris Flower Defense Force are left debating who will be the next captain, while a centuries-old threat surfaces. 
+
+(Source: ANN)"
+animeRelated	['Sakura Taisen: Ecole de Paris']
+animeCharacters	['Fontaine, Erica', 'Bleumer, Glycine', 'Coquelicot', 'Carlini, Lobelia', 'Kitaoji, Hanabi', 'Raison, Mell', 'Caprice, Ci', 'Lilac, Isabel']
+animeVoices	['Hidaka, Noriko', 'Shimazu, Saeko', 'Kozakura, Etsuko', 'Inoue, Kikuko', 'Takamori, Yoshino', 'Kojima, Sachiko', 'Kanai, Mika']
+animeStaff	[['Hiroi, Ouji', 'Producer, Planning, Original Creator'], ['Yamamoto, Yuusuke', 'Director'], ['Kawasaki, Hiroyuki', 'Script'], ['Tanaka, Kouhei', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Rekka no Honoo: Final Burning'
-animeType	b'Special'
+animeTitle	Rekka no Honoo: Final Burning
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.05
 animeUsers	2316
 animeRank	
-animePopularity	
-animeDescription	"b'This episode explains why the title of the series is ""Flame of Recca"". The things that happened in this short OAV was in the last volume, volume 33, of the tankoubon of Flame of Recca.'"
-animeRelated	[b'Rekka no Honoo']
-animeCharacters	[b'Hanabishi, Rekka', b'Mikagami, Tokiya', b'Sakoshita, Yanagi', b'Ishijima, Domon', b'Kurei']
+animePopularity	6379
+animeDescription	"This episode explains why the title of the series is ""Flame of Recca"". The things that happened in this short OAV was in the last volume, volume 33, of the tankoubon of Flame of Recca."
+animeRelated	['Rekka no Honoo']
+animeCharacters	['Hanabishi, Rekka', 'Mikagami, Tokiya', 'Sakoshita, Yanagi', 'Ishijima, Domon', 'Kurei']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nAnzai, Nobuyuki\n\nOriginal Creator\n\n']
+animeStaff	[['Anzai, Nobuyuki', 'Original Creator']]

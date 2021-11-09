@@ -1,5 +1,5 @@
-animeTitle	b'Gaikotsu Shotenin Honda-san'
-animeType	b'TV'
+animeTitle	Gaikotsu Shotenin Honda-san
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.31
 animeUsers	37557
 animeRank	
-animePopularity	
-animeDescription	"b""Honda is a skeleton, but more importantly, he is a bookseller. And he'll tell you from firsthand experience that the job of a bookstore employee is more challenging than it may seem to the average customer.\n\nAlongside his equally eccentric coworkers, Honda constantly deals with the stressful requirements of the bookselling industry. From the drama of receiving new titles without their bonus material to the struggle of providing quality service to customers who speak a different language, the work of a skeleton bookseller never ends.\n\nNevertheless, despite the hardships he faces, Honda thoroughly enjoys his job and strives to bring the best book selections and service to his customers.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Gaikotsu Shotenin Honda-san', b'Gaikotsu Shotenin Honda-san OVA', b'Honda-san x Taka no Tsume']
-animeCharacters	[b'Honda', b'Pest Mask', b'Okitsune', b'Kamibukuro', b'Gas Mask', b'Houtai', b'Azarashi', b'Majutsushi', b'Armour', b'Kendou']
-animeVoices	[b'\nSaitou, Souma\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nSanpei, Yuuko\nJapanese\n', b'\nHatano, Wataru\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nMurase, Ayumu\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nNishiyama, Koutarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTodoroki, Owl\n\nDirector\n\n', b'\nImaizumi, Yuuichi\n\nSound Director\n\n', b'\nOkashima, Shin\n\nScript, Series Composition\n\n', b'\nSaitou, Souma\n\nTheme Song Performance\n\n']
+animePopularity	1685
+animeDescription	"Honda is a skeleton, but more importantly, he is a bookseller. And he'll tell you from firsthand experience that the job of a bookstore employee is more challenging than it may seem to the average customer.
+
+Alongside his equally eccentric coworkers, Honda constantly deals with the stressful requirements of the bookselling industry. From the drama of receiving new titles without their bonus material to the struggle of providing quality service to customers who speak a different language, the work of a skeleton bookseller never ends.
+
+Nevertheless, despite the hardships he faces, Honda thoroughly enjoys his job and strives to bring the best book selections and service to his customers.
+
+[Written by MAL Rewrite]"
+animeRelated	['Gaikotsu Shotenin Honda-san', 'Gaikotsu Shotenin Honda-san OVA', 'Honda-san x Taka no Tsume']
+animeCharacters	['Honda', 'Pest Mask', 'Okitsune', 'Kamibukuro', 'Gas Mask', 'Houtai', 'Azarashi', 'Majutsushi', 'Armour', 'Kendou']
+animeVoices	['Saitou, Souma', 'Hikasa, Youko', 'Itou, Shizuka', 'Sanpei, Yuuko', 'Hatano, Wataru', 'Kitamura, Eri', 'Murase, Ayumu', 'Nakao, Ryusei', 'Okamura, Akemi', 'Nishiyama, Koutarou']
+animeStaff	[['Todoroki, Owl', 'Director'], ['Imaizumi, Yuuichi', 'Sound Director'], ['Okashima, Shin', 'Script, Series Composition'], ['Saitou, Souma', 'Theme Song Performance']]

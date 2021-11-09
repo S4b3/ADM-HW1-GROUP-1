@@ -1,5 +1,5 @@
-animeTitle	b'Obake no Q-Tarou: Tobidase! Bake Bake Daisakusen'
-animeType	b'Movie'
+animeTitle	Obake no Q-Tarou: Tobidase! Bake Bake Daisakusen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Note: Screened as a double feature with Doraemon: Nobita to Tetsujin Heidan and with Pro Golfer Saru: Super Golf World e no Chousen!!.\n\n(Source: AniDB)'
-animeRelated	[b'Obake no Q-tarou (1985)']
-animeCharacters	[b'Q-Tarou']
-animeVoices	[b'\nAmachi, Fusako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n', b'\nKikuchi, Shunsuke\n\nMusic\n\n', b'\nFujiko, Fujio (A)\n\nOriginal Creator\n\n']
+animePopularity	15665
+animeDescription	"Note: Screened as a double feature with Doraemon: Nobita to Tetsujin Heidan and with Pro Golfer Saru: Super Golf World e no Chousen!!.
+
+(Source: AniDB)"
+animeRelated	['Obake no Q-tarou (1985)']
+animeCharacters	['Q-Tarou']
+animeVoices	['Amachi, Fusako']
+animeStaff	[['Sasagawa, Hiroshi', 'Director'], ['Fujiko, Fujio F.', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music'], ['Fujiko, Fujio (A)', 'Original Creator']]

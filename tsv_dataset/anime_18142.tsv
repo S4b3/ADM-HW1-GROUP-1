@@ -1,5 +1,5 @@
-animeTitle	b'Bible Black: Imari Ryoujoku Genba'
-animeType	b'Special'
+animeTitle	Bible Black: Imari Ryoujoku Genba
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.47
 animeUsers	5913
 animeRank	
-animePopularity	
-animeDescription	b'The Imari SP shows Imari being raped when she is about to leave the school at late hour. \n\nThis is a short released as part of the 2006 boxset. \n\n(Source: Wikipedia)'
-animeRelated	[b'Bible Black']
-animeCharacters	[b'Imari, Kurumi']
-animeVoices	[b'\nNishijima, Kaori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSei Shoujo\n\nOriginal Character Design, Original Creator\n\n', b'\nYoshiten\n\nCharacter Design, Animation Director\n\n', b'\nActive\n\nOriginal Creator\n\n']
+animePopularity	4809
+animeDescription	"The Imari SP shows Imari being raped when she is about to leave the school at late hour. 
+
+This is a short released as part of the 2006 boxset. 
+
+(Source: Wikipedia)"
+animeRelated	['Bible Black']
+animeCharacters	['Imari, Kurumi']
+animeVoices	['Nishijima, Kaori']
+animeStaff	[['Sei Shoujo', 'Original Character Design, Original Creator'], ['Yoshiten', 'Character Design, Animation Director'], ['Active', 'Original Creator']]

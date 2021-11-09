@@ -1,5 +1,5 @@
-animeTitle	b'Tobe! Isami'
-animeType	b'TV'
+animeTitle	Tobe! Isami
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.22
 animeUsers	519
 animeRank	
-animePopularity	
-animeDescription	"b'Isami Hanaoka is just a fifth grader who happens to be a descendant of the Shinsengumi. Together with fellow descendants and classmates Soushi Yukimi and Toshi Tsukikage, she discovers in the basement of her home, strange artifacts left behind by their ancestors as well as a message urging them to ""Fight the evil Kurotengu organization.""  \n\n(Source: ANN)'"
-animeRelated	[b'Tobe! Isami']
-animeCharacters	[b'Hanaoka, Isami', b'Tsukikage, Kei', b'Tsukikage, Toshi', b'Yukimi, Soushi', b'Karakuri Tengu', b'Hanaoka, Reiko', b'Gin Tengu', b'Golden Tengu', b'Serizawa, Ruriko', b'Serizawa, Kamonojou']
-animeVoices	[b'\nNakajima, Michiyo\nJapanese\n', b'\nMita, Yuuko\nJapanese\n', b'\nKamei, Yoshiko\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nTsuda, Eizou\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nOno, Kenichi\nJapanese\n', b'\nInaba, Minoru\nJapanese\n', b'\nHorikoshi, Mami\nJapanese\n', b'\nNishikawa, Ikuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugii, Gisaburou\n\nDirector\n\n', b'\nSatou, Tatsuo\n\nDirector, Script\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nSayama, Kiyoko\n\nEpisode Director, Storyboard\n\n']
+animePopularity	9558
+animeDescription	"Isami Hanaoka is just a fifth grader who happens to be a descendant of the Shinsengumi. Together with fellow descendants and classmates Soushi Yukimi and Toshi Tsukikage, she discovers in the basement of her home, strange artifacts left behind by their ancestors as well as a message urging them to ""Fight the evil Kurotengu organization.""  
+
+(Source: ANN)"
+animeRelated	['Tobe! Isami']
+animeCharacters	['Hanaoka, Isami', 'Tsukikage, Kei', 'Tsukikage, Toshi', 'Yukimi, Soushi', 'Karakuri Tengu', 'Hanaoka, Reiko', 'Gin Tengu', 'Golden Tengu', 'Serizawa, Ruriko', 'Serizawa, Kamonojou']
+animeVoices	['Nakajima, Michiyo', 'Mita, Yuuko', 'Kamei, Yoshiko', 'Hidaka, Noriko', 'Tsuda, Eizou', 'Inoue, Kikuko', 'Ono, Kenichi', 'Inaba, Minoru', 'Horikoshi, Mami', 'Nishikawa, Ikuo']
+animeStaff	[['Sugii, Gisaburou', 'Director'], ['Satou, Tatsuo', 'Director, Script'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Sayama, Kiyoko', 'Episode Director, Storyboard']]

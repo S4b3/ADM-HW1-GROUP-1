@@ -1,5 +1,5 @@
-animeTitle	b'IS: Infinite Stratos 2'
-animeType	b'TV'
+animeTitle	IS: Infinite Stratos 2
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.5
 animeUsers	196399
 animeRank	
-animePopularity	
-animeDescription	b'Second season of Infinite Stratos.'
-animeRelated	[b'IS: Infinite Stratos', b'IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou', b'IS: Infinite Stratos 2 - Hitonatsu no Omoide', b'IS: Infinite Stratos 2 - World Purge-hen', b'IS: Infinite Stratos 2 - Infinite Wedding']
-animeCharacters	[b'Dunois, Charlotte', b'Bodewig, Laura', b'Shinonono, Houki', b'Sarashiki, Tatenashi', b'Orimura, Ichika', b'Alcott, Cecilia', b'Huang, Lingyin', b'Orimura, Chifuyu', b'Shinonono, Tabane', b'Nohotoke, Honne']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nYukana\nJapanese\n', b'\nShimoda, Asami\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKikuchi, Yasuhito\n\nDirector\n\n', b'\nTosaka, Shin\n\nDirector, Episode Director, Storyboard\n\n', b'\nYoneda, Mitsuhiro\n\nEpisode Director, Storyboard\n\n', b'\nTerahigashi, Katsumi\n\nStoryboard\n\n']
+animePopularity	489
+animeDescription	Second season of Infinite Stratos.
+animeRelated	['IS: Infinite Stratos', 'IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou', 'IS: Infinite Stratos 2 - Hitonatsu no Omoide', 'IS: Infinite Stratos 2 - World Purge-hen', 'IS: Infinite Stratos 2 - Infinite Wedding']
+animeCharacters	['Dunois, Charlotte', 'Bodewig, Laura', 'Shinonono, Houki', 'Sarashiki, Tatenashi', 'Orimura, Ichika', 'Alcott, Cecilia', 'Huang, Lingyin', 'Orimura, Chifuyu', 'Shinonono, Tabane', 'Nohotoke, Honne']
+animeVoices	['Hanazawa, Kana', 'Inoue, Marina', 'Hikasa, Youko', 'Saitou, Chiwa', 'Uchiyama, Kouki', 'Yukana', 'Shimoda, Asami', 'Toyoguchi, Megumi', 'Tamura, Yukari', 'Kadowaki, Mai']
+animeStaff	[['Kikuchi, Yasuhito', 'Director'], ['Tosaka, Shin', 'Director, Episode Director, Storyboard'], ['Yoneda, Mitsuhiro', 'Episode Director, Storyboard'], ['Terahigashi, Katsumi', 'Storyboard']]

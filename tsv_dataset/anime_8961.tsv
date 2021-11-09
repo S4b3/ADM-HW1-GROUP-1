@@ -1,5 +1,5 @@
-animeTitle	b'Marie & Gali ver. 2.0'
-animeType	b'TV'
+animeTitle	Marie & Gali ver. 2.0
+animeType	TV
 animeNumEpisode	30
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.93
 animeUsers	182
 animeRank	
-animePopularity	
-animeDescription	b'The second season of Marie & Gali.'
-animeRelated	[b'Marie & Gali']
-animeCharacters	[b'Marika', b'Pet', b'Galilei, Galileo', b'Newton, Isaac', b'Hertz, Heinrich', b'Archimedes', b'Fleming, John Ambrose', b'da Vinci, Leonardo', b'Curie-Sk\xc5\x82odowska, Marie']
-animeVoices	[b'\nCho\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nBogdan, Gyarmath\n\nProducer\n\n', b'\nYamada, Takashi\n\nScript\n\n', b'\nItou, Mutsumi\n\nScript\n\n', b'\nKakudou, Hiroyuki\n\nStoryboard\n\n']
+animePopularity	11311
+animeDescription	The second season of Marie & Gali.
+animeRelated	['Marie & Gali']
+animeCharacters	['Marika', 'Pet', 'Galilei, Galileo', 'Newton, Isaac', 'Hertz, Heinrich', 'Archimedes', 'Fleming, John Ambrose', 'da Vinci, Leonardo', 'Curie-Skłodowska, Marie']
+animeVoices	['Cho']
+animeStaff	[['Bogdan, Gyarmath', 'Producer'], ['Yamada, Takashi', 'Script'], ['Itou, Mutsumi', 'Script'], ['Kakudou, Hiroyuki', 'Storyboard']]

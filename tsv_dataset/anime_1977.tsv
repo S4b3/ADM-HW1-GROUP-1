@@ -1,5 +1,5 @@
-animeTitle	b'Nichijou: Nichijou no 0-wa'
-animeType	b'OVA'
+animeTitle	Nichijou: Nichijou no 0-wa
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.4
 animeUsers	39642
 animeRank	
-animePopularity	
-animeDescription	"b""While the title suggests a story of simple, everyday school life, the contents are more the opposite. The setting is a strange school where you may see the principal wrestle a deer or a robot's arm hide a rollcake. However there are still normal stories, like making a card castle or taking a test you didn't study for."""
-animeRelated	[b'Nichijou']
-animeCharacters	[b'Aioi, Yuuko', b'Sakamoto', b'Shinonome, Hakase', b'Naganohara, Mio', b'Shinonome, Nano', b'Minakami, Mai']
-animeVoices	[b'\nHonda, Mariko\nJapanese\n', b'\nShiraishi, Minoru\nJapanese\n', b'\nKonno, Hiromi\nJapanese\n', b'\nAizawa, Mai\nJapanese\n', b'\nFuruya, Shizuka\nJapanese\n', b'\nTogashi, Misuzu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHatta, Hideaki\n\nProducer\n\n', b'\nSenami, Riri\n\nAssistant Producer\n\n', b'\nIshihara, Tatsuya\n\nDirector, Storyboard\n\n', b'\nSakamoto, Kazuya\n\nEpisode Director\n\n']
+animePopularity	1966
+animeDescription	While the title suggests a story of simple, everyday school life, the contents are more the opposite. The setting is a strange school where you may see the principal wrestle a deer or a robot's arm hide a rollcake. However there are still normal stories, like making a card castle or taking a test you didn't study for.
+animeRelated	['Nichijou']
+animeCharacters	['Aioi, Yuuko', 'Sakamoto', 'Shinonome, Hakase', 'Naganohara, Mio', 'Shinonome, Nano', 'Minakami, Mai']
+animeVoices	['Honda, Mariko', 'Shiraishi, Minoru', 'Konno, Hiromi', 'Aizawa, Mai', 'Furuya, Shizuka', 'Togashi, Misuzu']
+animeStaff	[['Hatta, Hideaki', 'Producer'], ['Senami, Riri', 'Assistant Producer'], ['Ishihara, Tatsuya', 'Director, Storyboard'], ['Sakamoto, Kazuya', 'Episode Director']]

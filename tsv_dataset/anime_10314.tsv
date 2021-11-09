@@ -1,5 +1,5 @@
-animeTitle	b'Beatless Intermission'
-animeType	b'Special'
+animeTitle	Beatless Intermission
+animeType	Special
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.52
 animeUsers	4107
 animeRank	
-animePopularity	
-animeDescription	b'Recap episodes of Beatless.'
-animeRelated	[b'Beatless']
-animeCharacters	[b'Lacia', b'Endou, Arato']
-animeVoices	[b'\nTouyama, Nao\nJapanese\n', b'\nYoshinaga, Takuto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nredjuice\n\nOriginal Character Design\n\n', b'\nHase, Satoshi\n\nOriginal Creator\n\n']
+animePopularity	5196
+animeDescription	Recap episodes of Beatless.
+animeRelated	['Beatless']
+animeCharacters	['Lacia', 'Endou, Arato']
+animeVoices	['Touyama, Nao', 'Yoshinaga, Takuto']
+animeStaff	[['redjuice', 'Original Character Design'], ['Hase, Satoshi', 'Original Creator']]

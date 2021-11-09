@@ -1,5 +1,5 @@
-animeTitle	b'Di Gi Charat Ohanami Special'
-animeType	b'Special'
+animeTitle	Di Gi Charat Ohanami Special
+animeType	Special
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	6.63
 animeUsers	1109
 animeRank	
-animePopularity	
-animeDescription	b'The Ohamami Special consisted of four independent episodes of Di Gi Charat with no continuation that aired in Spring 2001 in Japan.\n\n\xe2\x80\xa2 Ohanami Special Episode 1 - The Evil Settles Down  \n\xe2\x80\xa2 Ohanami Special Episode 2 - Sakura Sakura\n\xe2\x80\xa2 Ohanami Special Episode 3 - Long Haired Onii-san-nyu\n\xe2\x80\xa2 Ohanami Special Episode 4 - Don`t Call me Rabi-en-Rose  \n\n(Source: AniDB & Wikipedia)'
-animeRelated	[b'Di Gi Charat', b'Di Gi Charat Natsuyasumi Special', b'Di Gi Charat Christmas Special']
-animeCharacters	[b'Di Gi Charat', b'Petit Charat', b'Usada, Hikaru', b'Gema', b'Analogue III, Pyocola', b'Schweitzer, Ky', b'Erhard, Coo', b'Kimura, Takuro', b'Heisenberg, Rik']
-animeVoices	[b'\nSaeki, Tomo\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Tooru\n\nDirector, Storyboard\n\n', b'\nSakurai, Hiroaki\n\nStoryboard\n\n', b'\nSawashiro, Miyuki\n\nTheme Song Performance\n\n', b'\nOkui, Masami\n\nTheme Song Performance\n\n']
+animePopularity	8823
+animeDescription	"The Ohamami Special consisted of four independent episodes of Di Gi Charat with no continuation that aired in Spring 2001 in Japan.
+
+• Ohanami Special Episode 1 - The Evil Settles Down  
+• Ohanami Special Episode 2 - Sakura Sakura
+• Ohanami Special Episode 3 - Long Haired Onii-san-nyu
+• Ohanami Special Episode 4 - Don`t Call me Rabi-en-Rose  
+
+(Source: AniDB & Wikipedia)"
+animeRelated	['Di Gi Charat', 'Di Gi Charat Natsuyasumi Special', 'Di Gi Charat Christmas Special']
+animeCharacters	['Di Gi Charat', 'Petit Charat', 'Usada, Hikaru', 'Gema', 'Analogue III, Pyocola', 'Schweitzer, Ky', 'Erhard, Coo', 'Kimura, Takuro', 'Heisenberg, Rik']
+animeVoices	['Saeki, Tomo', 'Okiayu, Ryoutarou']
+animeStaff	[['Takahashi, Tooru', 'Director, Storyboard'], ['Sakurai, Hiroaki', 'Storyboard'], ['Sawashiro, Miyuki', 'Theme Song Performance'], ['Okui, Masami', 'Theme Song Performance']]

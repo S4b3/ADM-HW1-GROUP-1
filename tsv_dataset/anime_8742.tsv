@@ -1,4 +1,4 @@
-animeTitle	b'Neko Matsuri'
+animeTitle	Neko Matsuri
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	5.98
 animeUsers	669
 animeRank	
-animePopularity	
-animeDescription	b'Official music video for the song Neko Matsuri by the fictional band Irodorimidori. It is the 13th song in the franchise and focuses on Naru Hakobe.\n'
-animeRelated	[b'My Dearest Song', b'Bang Babang Bang!!!']
-animeCharacters	[b'Hakobe, Naru']
+animePopularity	10573
+animeDescription	"Official music video for the song Neko Matsuri by the fictional band Irodorimidori. It is the 13th song in the franchise and focuses on Naru Hakobe.
+"
+animeRelated	['My Dearest Song', 'Bang Babang Bang!!!']
+animeCharacters	['Hakobe, Naru']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYarita\n\nDirector\n\n']
+animeStaff	[['Yarita', 'Director']]

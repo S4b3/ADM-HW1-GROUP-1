@@ -1,5 +1,5 @@
-animeTitle	b'Uchuu Patrol Hopper'
-animeType	b'TV'
+animeTitle	Uchuu Patrol Hopper
+animeType	TV
 animeNumEpisode	44
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'After an alien attack, a boy named Jun is rescued by aliens who give him super powers and recruit him into the Space Patrol. The series was renamed Patrol Hopper Uchukko Jun for the final 18 episodes. \n\n(Source: AniDB) '
+animePopularity	13024
+animeDescription	"After an alien attack, a boy named Jun is rescued by aliens who give him super powers and recruit him into the Space Patrol. The series was renamed Patrol Hopper Uchukko Jun for the final 18 episodes. 
+
+(Source: AniDB) "
 animeRelated	[]
-animeCharacters	[b'Donki Taiin']
-animeVoices	[b'\nChikaishi, Shinsuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMori, Yasuji\n\nAnimation Director, Animation Check\n\n', b'\nKondou, Eisuke\n\nIn-Between Animation\n\n', b'\nKumakawa, Masao\n\nAnimation Director\n\n']
+animeCharacters	['Donki Taiin']
+animeVoices	['Chikaishi, Shinsuke']
+animeStaff	[['Mori, Yasuji', 'Animation Director, Animation Check'], ['Kondou, Eisuke', 'In-Between Animation'], ['Kumakawa, Masao', 'Animation Director']]

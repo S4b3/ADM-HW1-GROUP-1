@@ -1,5 +1,5 @@
-animeTitle	b'Hitoriga The Animation'
-animeType	b'OVA'
+animeTitle	Hitoriga The Animation
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.26
 animeUsers	2043
 animeRank	
-animePopularity	
-animeDescription	b'On the train to school one day, Shirakawa Sumire is molested. However, when she confides in teacher Takahashi, the nightmare escalates...\n\n(Source: AniDB)'
-animeRelated	[b'Hitoriga', b'Natsumushi The Animation']
-animeCharacters	[b'Shirakawa, Sumire', b'Kurahashi']
-animeVoices	[b'\nSakurai, Harumi\nJapanese\n', b'\nHarada, Tomotaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatase, Toshihiro\n\nDirector\n\n', b'\nTominaga, Tsuneo\n\nEpisode Director\n\n', b'\nSawayama, Shinichiro\n\nScript, Screenplay\n\n', b'\nAraki, Hideki\n\nStoryboard\n\n']
+animePopularity	6612
+animeDescription	"On the train to school one day, Shirakawa Sumire is molested. However, when she confides in teacher Takahashi, the nightmare escalates...
+
+(Source: AniDB)"
+animeRelated	['Hitoriga', 'Natsumushi The Animation']
+animeCharacters	['Shirakawa, Sumire', 'Kurahashi']
+animeVoices	['Sakurai, Harumi', 'Harada, Tomotaka']
+animeStaff	[['Watase, Toshihiro', 'Director'], ['Tominaga, Tsuneo', 'Episode Director'], ['Sawayama, Shinichiro', 'Script, Screenplay'], ['Araki, Hideki', 'Storyboard']]

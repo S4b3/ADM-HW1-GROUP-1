@@ -1,5 +1,5 @@
-animeTitle	b'Haiyoru! Nyaruani: Remember My Love(craft-sensei)'
-animeType	b'TV'
+animeTitle	Haiyoru! Nyaruani: Remember My Love(craft-sensei)
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.25
 animeUsers	10613
 animeRank	
-animePopularity	
-animeDescription	"b'The story centers around Nyarlko, a formless Cthulhu deity who can take on the shape of anyone it wishes, but particularly the shape of a seemingly ordinary silver-haired girl. Mahiro Yasaka is a normal high school student who is chased by aliens one night, until ""Nyarlko"" saves him.\n\n(Source: ANN)'"
-animeRelated	[b'Haiyore! Nyaruko-san', b'Haiyoru! Nyaruani', b'Haiyoru! Nyaruani: Remember My Love(craft-sensei) Special']
-animeCharacters	[b'Nyaruko', b'Yasaka, Mahiro', b'Cthuko', b'Atoko', b'Nyarue']
-animeVoices	[b'\nAsumi, Kana\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nEnoki, Azusa\nJapanese\n', b'\nHara, Sayuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTani, Azuma\n\nDirector, Script\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nAisora, Manta\n\nScript, Original Creator\n\n', b'\nKoin\n\nOriginal Character Design\n\n']
+animePopularity	3505
+animeDescription	"The story centers around Nyarlko, a formless Cthulhu deity who can take on the shape of anyone it wishes, but particularly the shape of a seemingly ordinary silver-haired girl. Mahiro Yasaka is a normal high school student who is chased by aliens one night, until ""Nyarlko"" saves him.
+
+(Source: ANN)"
+animeRelated	['Haiyore! Nyaruko-san', 'Haiyoru! Nyaruani', 'Haiyoru! Nyaruani: Remember My Love(craft-sensei) Special']
+animeCharacters	['Nyaruko', 'Yasaka, Mahiro', 'Cthuko', 'Atoko', 'Nyarue']
+animeVoices	['Asumi, Kana', 'Kitamura, Eri', 'Matsuki, Miyu', 'Enoki, Azusa', 'Hara, Sayuri']
+animeStaff	[['Tani, Azuma', 'Director, Script'], ['Hata, Shouji', 'Sound Director'], ['Aisora, Manta', 'Script, Original Creator'], ['Koin', 'Original Character Design']]

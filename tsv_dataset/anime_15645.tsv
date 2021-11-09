@@ -1,5 +1,5 @@
-animeTitle	b'Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki'
-animeType	b'Movie'
+animeTitle	Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The movie will adapt the first volume following an eight-year-old boy Keiji getting a mysterious snack that can make him fish taiyaki (Japanese fish-shaped cake).\n\n(Source: MAL News)'
-animeRelated	[b'Fushigi Dagashiya: Zenitendou']
-animeCharacters	[b'Keiji', b'Fuyuko', b'Beniko', b'Father', b'Sumimaru']
-animeVoices	[b'\nKumagai, Toshiki\nJapanese\n', b'\nShiratori, Tamaki\nJapanese\n', b'\nIketani, Nobue\nJapanese\n', b'\nWatanabe, Ikkei\nJapanese\n', b'\nKatayama, Fukujuurou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTomioka, Satoshi\n\nDirector\n\n', b'\nKobayashi, Yuji\n\nScript\n\n', b'\nMichiru\n\nMusic\n\n', b'\nHiroshima, Reiko\n\nOriginal Creator\n\n']
+animePopularity	12876
+animeDescription	"The movie will adapt the first volume following an eight-year-old boy Keiji getting a mysterious snack that can make him fish taiyaki (Japanese fish-shaped cake).
+
+(Source: MAL News)"
+animeRelated	['Fushigi Dagashiya: Zenitendou']
+animeCharacters	['Keiji', 'Fuyuko', 'Beniko', 'Father', 'Sumimaru']
+animeVoices	['Kumagai, Toshiki', 'Shiratori, Tamaki', 'Iketani, Nobue', 'Watanabe, Ikkei', 'Katayama, Fukujuurou']
+animeStaff	[['Tomioka, Satoshi', 'Director'], ['Kobayashi, Yuji', 'Script'], ['Michiru', 'Music'], ['Hiroshima, Reiko', 'Original Creator']]

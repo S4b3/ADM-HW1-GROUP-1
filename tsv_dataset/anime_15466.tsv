@@ -1,5 +1,5 @@
-animeTitle	b'Dorimogu Daa!!'
-animeType	b'TV'
+animeTitle	Dorimogu Daa!!
+animeType	TV
 animeNumEpisode	49
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Mock and his sister, Sweet, are curious about the fuss on the earth and eventually decide to come out of the ground. They save the poor, the innocent and the brave whenever and wherever these people need help. Mock and Sweet get rid of tyrants, evil kings and notorious emperors, with smart and funny tricks a la Mole! The story background follows major historic events.'
+animePopularity	13489
+animeDescription	Mock and his sister, Sweet, are curious about the fuss on the earth and eventually decide to come out of the ground. They save the poor, the innocent and the brave whenever and wherever these people need help. Mock and Sweet get rid of tyrants, evil kings and notorious emperors, with smart and funny tricks a la Mole! The story background follows major historic events.
 animeRelated	[]
-animeCharacters	[b'Hanamogu', b'Dorimogu', b'Narrator', b'Ronald', b'Charlemagne']
-animeVoices	[b'\nMiura, Masako\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n', b'\nKitagawa, Takurou\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nTakiguchi, Junpei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuzuoka, Hiroshi\n\nDirector\n\n', b'\nYamada, Takashi\n\nScript\n\n', b'\nOnozaki, Kousuke\n\nTheme Song Arrangement\n\n']
+animeCharacters	['Hanamogu', 'Dorimogu', 'Narrator', 'Ronald', 'Charlemagne']
+animeVoices	['Miura, Masako', 'Fujita, Toshiko', 'Kitagawa, Takurou', 'Horiuchi, Kenyuu', 'Takiguchi, Junpei']
+animeStaff	[['Kuzuoka, Hiroshi', 'Director'], ['Yamada, Takashi', 'Script'], ['Onozaki, Kousuke', 'Theme Song Arrangement']]

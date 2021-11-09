@@ -1,5 +1,5 @@
-animeTitle	b'Sakura Taisen: Katsudou Shashin'
-animeType	b'Movie'
+animeTitle	Sakura Taisen: Katsudou Shashin
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.44
 animeUsers	2672
 animeRank	
-animePopularity	
-animeDescription	b'Since a new branch of division to New York has been created, Ohgami has now been assigned to the Paris Division. Now the Flower Division must be able to survive on their own, with the help of their new American-cultured leader.\n\n(Source: ANN)'
-animeRelated	[b'Sakura Taisen: Gouka Kenran', b'Sakura Taisen: Sumire']
-animeCharacters	[b'Shinguji, Sakura', b'Tachibana, Maria', b'Kanzaki, Sumire', b'Kirishima, Kanna', b'Altair, Ratchet', b'Kohran, Ri', b'Chateaubriand, Iris', b'Milchstra\xc3\x9fe, Leni', b'Soletta, Orihime', b'Ogami, Ichiro']
-animeVoices	[b'\nYokoyama, Chisa\nJapanese\n', b'\nTakano, Urara\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nKuno, Akiko\nJapanese\n', b'\nFuchizaki, Yuriko\nJapanese\n', b'\nNishihara, Kumiko\nJapanese\n', b'\nIkura, Kazue\nJapanese\n', b'\nOkamoto, Maya\nJapanese\n', b'\nSuyama, Akio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHongou, Mitsuru\n\nDirector, Script, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nHiroi, Ouji\n\nScript, Theme Song Lyrics, Original Creator\n\n', b'\nNishimura, Hiroyuki\n\nScript, Storyboard\n\n']
+animePopularity	6574
+animeDescription	"Since a new branch of division to New York has been created, Ohgami has now been assigned to the Paris Division. Now the Flower Division must be able to survive on their own, with the help of their new American-cultured leader.
+
+(Source: ANN)"
+animeRelated	['Sakura Taisen: Gouka Kenran', 'Sakura Taisen: Sumire']
+animeCharacters	['Shinguji, Sakura', 'Tachibana, Maria', 'Kanzaki, Sumire', 'Kirishima, Kanna', 'Altair, Ratchet', 'Kohran, Ri', 'Chateaubriand, Iris', 'Milchstraße, Leni', 'Soletta, Orihime', 'Ogami, Ichiro']
+animeVoices	['Yokoyama, Chisa', 'Takano, Urara', 'Tomizawa, Michie', 'Tanaka, Mayumi', 'Kuno, Akiko', 'Fuchizaki, Yuriko', 'Nishihara, Kumiko', 'Ikura, Kazue', 'Okamoto, Maya', 'Suyama, Akio']
+animeStaff	[['Hongou, Mitsuru', 'Director, Script, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Hiroi, Ouji', 'Script, Theme Song Lyrics, Original Creator'], ['Nishimura, Hiroyuki', 'Script, Storyboard']]

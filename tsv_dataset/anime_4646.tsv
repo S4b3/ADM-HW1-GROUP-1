@@ -1,5 +1,5 @@
-animeTitle	b'Rinne no Lagrange: Kamogawa Days'
-animeType	b'OVA'
+animeTitle	Rinne no Lagrange: Kamogawa Days
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.79
 animeUsers	3203
 animeRank	
-animePopularity	
-animeDescription	"b""As Yoko has her assistant scour the seabed in search of something, Madoka, unable to pilot Midori properly again, returns to Kamogawa to see the New Year in. Upon returning home, Madoka receives New Year's letters from Lan and Muginami, updating her about what's going on in their lives, to which Madoka makes a prompt reply. As the months pass by and Madoka moves up a year in school, Lan and Muginami visit an intergalactic replica of Kamogawa on the tourist planet Polyhedron.\n\nTakes place between seasons 1 and 2.\n\n(Source: Wikipedia)"""
-animeRelated	[b'Rinne no Lagrange', b'Rinne no Lagrange Season 2']
-animeCharacters	[b'Kyouno, Madoka', b'Fin E Ld Si, Laffinty', b'Muginami', b'Danon Ci, Array', b'Rakus Lestrine Ha, Kirius', b'Tadokoro, Shouzou', b'Lizamarie de Rochefort, Astelia', b'Nakaizumi, Youko', b'Fin E Ld Si, Dizelmine', b'Row, James']
-animeVoices	[b'\nIshihara, Kaori\nJapanese\n', b'\nSeto, Asami\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nYasumura, Makoto\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nKawada, Shinji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Toshimasa\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nSuga, Shoutarou\n\nScript, Series Composition\n\n', b'\nMorita, Shigeru\n\nScript\n\n']
+animePopularity	5662
+animeDescription	"As Yoko has her assistant scour the seabed in search of something, Madoka, unable to pilot Midori properly again, returns to Kamogawa to see the New Year in. Upon returning home, Madoka receives New Year's letters from Lan and Muginami, updating her about what's going on in their lives, to which Madoka makes a prompt reply. As the months pass by and Madoka moves up a year in school, Lan and Muginami visit an intergalactic replica of Kamogawa on the tourist planet Polyhedron.
+
+Takes place between seasons 1 and 2.
+
+(Source: Wikipedia)"
+animeRelated	['Rinne no Lagrange', 'Rinne no Lagrange Season 2']
+animeCharacters	['Kyouno, Madoka', 'Fin E Ld Si, Laffinty', 'Muginami', 'Danon Ci, Array', 'Rakus Lestrine Ha, Kirius', 'Tadokoro, Shouzou', 'Lizamarie de Rochefort, Astelia', 'Nakaizumi, Youko', 'Fin E Ld Si, Dizelmine', 'Row, James']
+animeVoices	['Ishihara, Kaori', 'Seto, Asami', 'Kayano, Ai', 'Matsuoka, Yoshitsugu', 'Nojima, Kenji', 'Yasumura, Makoto', 'Kanemoto, Hisako', 'Noto, Mamiko', 'Ono, Daisuke', 'Kawada, Shinji']
+animeStaff	[['Suzuki, Toshimasa', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Suga, Shoutarou', 'Script, Series Composition'], ['Morita, Shigeru', 'Script']]

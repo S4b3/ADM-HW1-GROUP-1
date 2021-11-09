@@ -1,5 +1,5 @@
-animeTitle	b'Dakaretai Otoko 1-i ni Odosarete Imasu. Movie: Spain-hen'
-animeType	b'Movie'
+animeTitle	Dakaretai Otoko 1-i ni Odosarete Imasu. Movie: Spain-hen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Covers the Spain arc of the manga.'
-animeRelated	[b'Dakaretai Otoko 1-i ni Odosarete Imasu.']
-animeCharacters	[b'Saijou, Takato', b'Azumaya, Junta', b'Antonio', b'Narumiya, Ryou', b'Ayagi, Chihiro', b'Arisu, Kiyotaka', b'Usaka, Kazuomi', b'Tomo-kun', b'Ceres']
-animeVoices	[b'\nTakahashi, Hiroki\nJapanese\n', b'\nOno, Yuuki\nJapanese\n', b'\nOchiai, Fukushi\nJapanese\n', b'\nUchida, Yuuma\nJapanese\n', b'\nSatou, Takuya\nJapanese\n', b'\nHatano, Wataru\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nHayami, Show\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTatsuwa, Naoyuki\n\nDirector\n\n', b'\nNarita, Yoshimi\n\nScript\n\n', b'\nYokoyama, Masaru\n\nMusic\n\n', b'\nShiba, Minako\n\nCharacter Design\n\n']
+animePopularity	4005
+animeDescription	Covers the Spain arc of the manga.
+animeRelated	['Dakaretai Otoko 1-i ni Odosarete Imasu.']
+animeCharacters	['Saijou, Takato', 'Azumaya, Junta', 'Antonio', 'Narumiya, Ryou', 'Ayagi, Chihiro', 'Arisu, Kiyotaka', 'Usaka, Kazuomi', 'Tomo-kun', 'Ceres']
+animeVoices	['Takahashi, Hiroki', 'Ono, Yuuki', 'Ochiai, Fukushi', 'Uchida, Yuuma', 'Satou, Takuya', 'Hatano, Wataru', 'Toriumi, Kousuke', 'Hayami, Show']
+animeStaff	[['Tatsuwa, Naoyuki', 'Director'], ['Narita, Yoshimi', 'Script'], ['Yokoyama, Masaru', 'Music'], ['Shiba, Minako', 'Character Design']]

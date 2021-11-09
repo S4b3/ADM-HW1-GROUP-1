@@ -1,5 +1,5 @@
-animeTitle	b'Vampire Hunter'
-animeType	b'OVA'
+animeTitle	Vampire Hunter
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.61
 animeUsers	6072
 animeRank	
-animePopularity	
-animeDescription	"b""The world is a dark, brooding place populated by humans, but ruled in reality by powerful beings known as the Darkstalkers, and there is constant conflict between them as they try to determine who is the most powerful of them all. Zombies, vampires, werewolves - all of them compete in contests of strength and sheer will to attain their own personal goals. \n\nAll of this becomes moot when a race of Aztec robots called the Huitzil decide that humanity isn't worth saving, and start waging war on the world, while in the sky, a solar god from outer space plots the conquest of Earth. And the Darkstalkers must become unwilling allies in order to save the world. \n\n(Source: AnimeNfo)"""
+animePopularity	4442
+animeDescription	"The world is a dark, brooding place populated by humans, but ruled in reality by powerful beings known as the Darkstalkers, and there is constant conflict between them as they try to determine who is the most powerful of them all. Zombies, vampires, werewolves - all of them compete in contests of strength and sheer will to attain their own personal goals. 
+
+All of this becomes moot when a race of Aztec robots called the Huitzil decide that humanity isn't worth saving, and start waging war on the world, while in the sky, a solar god from outer space plots the conquest of Earth. And the Darkstalkers must become unwilling allies in order to save the world. 
+
+(Source: AnimeNfo)"
 animeRelated	[]
-animeCharacters	[b'Aensland, Morrigan', b'Felicia', b'Maximoff, Demitri', b'Baine, Donovan', b'Pyron', b'Anita', b'Talbain, Gallon', b'Lei-Lei', b'Zarock, Zabel', b'Bishamon']
-animeVoices	[b'\nSakuma, Rei\nJapanese\n', b'\nYukana\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nOgawa, Shinji\nJapanese\n', b'\nYajima, Akiko\nJapanese\n', b'\nTachiki, Fumihiko\nJapanese\n', b'\nMiyamura, Yuko\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nIizuka, Shouzou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIkeda, Masashi\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nTanaka, Hiroyuki\n\nEpisode Director\n\n', b'\nImaishi, Hiroyuki\n\nKey Animation\n\n']
+animeCharacters	['Aensland, Morrigan', 'Felicia', 'Maximoff, Demitri', 'Baine, Donovan', 'Pyron', 'Anita', 'Talbain, Gallon', 'Lei-Lei', 'Zarock, Zabel', 'Bishamon']
+animeVoices	['Sakuma, Rei', 'Yukana', 'Ootsuka, Akio', 'Ishizuka, Unshou', 'Ogawa, Shinji', 'Yajima, Akiko', 'Tachiki, Fumihiko', 'Miyamura, Yuko', 'Yamadera, Kouichi', 'Iizuka, Shouzou']
+animeStaff	[['Ikeda, Masashi', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Tanaka, Hiroyuki', 'Episode Director'], ['Imaishi, Hiroyuki', 'Key Animation']]

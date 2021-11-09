@@ -1,5 +1,5 @@
-animeTitle	b'Sengoku Basara'
-animeType	b'TV'
+animeTitle	Sengoku Basara
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.36
 animeUsers	57457
 animeRank	
-animePopularity	
-animeDescription	"b""During Japan's Sengoku period, several powerful warlords fought in politics and in arms with hopes of unifying the country under a central government. Nobunaga Oda had asserted himself as being the most powerful of these rulers by possessing the strength and military resource necessary to conquer all of Japan.\n\nShingen Takeda and his trusted warrior Yukimura Sanada led one of the main clans standing in Nobunaga\xe2\x80\x99s way. One night, Sanada had been ordered to lead a sneak attack against General Kenshin Uesugi, which was then thwarted by Masamune Date and his army. Sanada and Date fought to a draw, which forged a heated rivalry out of their newfound admiration for one another.\n\nNobunaga continues to exert his forces in Sengoku Basara by doubling down on his influence across the country. Sanada and Date find themselves having to put their differences aside in order to quell the rise of Nobunaga and save feudal Japan from his tyrannical reign. Magical, militant, and political powers fly forth as these warriors and leaders clash amongst themselves and the armies of Nobunaga."""
-animeRelated	[b'Sengoku Basara Ranse Ranbu', b'Sengoku Basara', b'Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!', b'Mini Sengoku Basara: Chousokabe-kun to Mouri-kun', b'Sengoku Basara Ni', b'Gakuen Basara']
-animeCharacters	[b'Date, Masamune', b'Sanada, Yukimura', b'Chousokabe, Motochika', b'Katakura, Kojuurou', b'Sarutobi, Sasuke', b'Maeda, Keiji', b'Mouri, Motonari', b'Oda, Nobunaga', b'Akechi, Mitsuhide', b'Tokugawa, Ieyasu']
-animeVoices	[b'\nNakai, Kazuya\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nIshino, Ryuuzou\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nMorita, Masakazu\nJapanese\n', b'\nNakahara, Shigeru\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWada, Jouji\n\nProducer\n\n', b'\nNozaki, Keiichi\n\nProducer\n\n', b'\nNakatake, Tetsuya\n\nProducer\n\n', b'\nKawasaki, Itsurou\n\nDirector, Episode Director, Storyboard\n\n']
+animePopularity	1201
+animeDescription	"During Japan's Sengoku period, several powerful warlords fought in politics and in arms with hopes of unifying the country under a central government. Nobunaga Oda had asserted himself as being the most powerful of these rulers by possessing the strength and military resource necessary to conquer all of Japan.
+
+Shingen Takeda and his trusted warrior Yukimura Sanada led one of the main clans standing in Nobunaga’s way. One night, Sanada had been ordered to lead a sneak attack against General Kenshin Uesugi, which was then thwarted by Masamune Date and his army. Sanada and Date fought to a draw, which forged a heated rivalry out of their newfound admiration for one another.
+
+Nobunaga continues to exert his forces in Sengoku Basara by doubling down on his influence across the country. Sanada and Date find themselves having to put their differences aside in order to quell the rise of Nobunaga and save feudal Japan from his tyrannical reign. Magical, militant, and political powers fly forth as these warriors and leaders clash amongst themselves and the armies of Nobunaga."
+animeRelated	['Sengoku Basara Ranse Ranbu', 'Sengoku Basara', 'Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!', 'Mini Sengoku Basara: Chousokabe-kun to Mouri-kun', 'Sengoku Basara Ni', 'Gakuen Basara']
+animeCharacters	['Date, Masamune', 'Sanada, Yukimura', 'Chousokabe, Motochika', 'Katakura, Kojuurou', 'Sarutobi, Sasuke', 'Maeda, Keiji', 'Mouri, Motonari', 'Oda, Nobunaga', 'Akechi, Mitsuhide', 'Tokugawa, Ieyasu']
+animeVoices	['Nakai, Kazuya', 'Hoshi, Souichirou', 'Ishino, Ryuuzou', 'Morikawa, Toshiyuki', 'Koyasu, Takehito', 'Morita, Masakazu', 'Nakahara, Shigeru', 'Wakamoto, Norio', 'Hayami, Show', 'Ookawa, Tooru']
+animeStaff	[['Wada, Jouji', 'Producer'], ['Nozaki, Keiichi', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Kawasaki, Itsurou', 'Director, Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Soukou no Strain'
-animeType	b'TV'
+animeTitle	Soukou no Strain
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.05
 animeUsers	8226
 animeRank	
-animePopularity	
-animeDescription	"b'Eleven-year-old Sara Werec\'s elder brother, Ralph, was sent to the frontlines of an interstellar war 130 light years away, and Sara vowed to reunite with him one day as a comrade. Five years later, Sara is a student at Grapera Space Armed Soldier Academy, training to become a Reasoner, a pilot of an advanced weapons system called a ""Strain.""\n\nWhen the academy is suddenly attacked by enemy forces, Sara enters battle against a Strain that quickly overpowers her. After incapacitating her, the pilot reveals himself to be her Ralph. Killing all the other students and destroying the school, he disappears, leaving Sara to question everything she has ever known. Soukou no Strain is the story of Sara as she reenters training under a new name, now determined to confront her brother and make sense of her brother\'s actions.\n\n[Written by MAL Rewrite]'"
+animePopularity	3933
+animeDescription	"Eleven-year-old Sara Werec's elder brother, Ralph, was sent to the frontlines of an interstellar war 130 light years away, and Sara vowed to reunite with him one day as a comrade. Five years later, Sara is a student at Grapera Space Armed Soldier Academy, training to become a Reasoner, a pilot of an advanced weapons system called a ""Strain.""
+
+When the academy is suddenly attacked by enemy forces, Sara enters battle against a Strain that quickly overpowers her. After incapacitating her, the pilot reveals himself to be her Ralph. Killing all the other students and destroying the school, he disappears, leaving Sara to question everything she has ever known. Soukou no Strain is the story of Sara as she reenters training under a new name, now determined to confront her brother and make sense of her brother's actions.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Werec, Sara', b'Werec, Ralph', b'Emily', b'Gelh, Lotti', b'Reberth, Lavinia', b'Carmichael', b'Shobbeypower, Martha', b'Melchisidec', b'Radofrics, Carrisford', b'Iges, Jessie']
-animeVoices	[b'\nKawasumi, Ayako\nJapanese\n', b'\nKondou, Takashi\nJapanese\n', b'\nNonaka, Ai\nJapanese\n', b'\nYukana\nJapanese\n', b'\nTanii, Asuka\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nWatanabe, Tetsuya\n\nDirector, Episode Director\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nAoki, Ei\n\nEpisode Director, Storyboard\n\n']
+animeCharacters	['Werec, Sara', 'Werec, Ralph', 'Emily', 'Gelh, Lotti', 'Reberth, Lavinia', 'Carmichael', 'Shobbeypower, Martha', 'Melchisidec', 'Radofrics, Carrisford', 'Iges, Jessie']
+animeVoices	['Kawasumi, Ayako', 'Kondou, Takashi', 'Nonaka, Ai', 'Yukana', 'Tanii, Asuka', 'Minagawa, Junko', 'Hoshi, Souichirou', 'Matsuki, Miyu']
+animeStaff	[['Cook, Justin', 'Producer'], ['Watanabe, Tetsuya', 'Director, Episode Director'], ['Kameyama, Toshiki', 'Sound Director'], ['Aoki, Ei', 'Episode Director, Storyboard']]

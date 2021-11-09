@@ -1,5 +1,5 @@
-animeTitle	b'Ladyspo'
-animeType	b'TV'
+animeTitle	Ladyspo
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	3.29
 animeUsers	651
 animeRank	
-animePopularity	
-animeDescription	b'A science-fiction comedy where various pro sports bounty hunters fight each other in sporting events. The story centers on Arigetti, Korupi, and Sabina, three women in a team who participate in various sports.'
+animePopularity	7970
+animeDescription	A science-fiction comedy where various pro sports bounty hunters fight each other in sporting events. The story centers on Arigetti, Korupi, and Sabina, three women in a team who participate in various sports.
 animeRelated	[]
-animeCharacters	[b'Mokomoko', b'Sabina', b'Korupi', b'Arigetti']
-animeVoices	[b'\nKinoshita, Suzuna\nJapanese\n', b'\nUehara, Akari\nJapanese\n', b'\nShimada, Saki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKimura, Hiroshi\n\nDirector, Script, Storyboard, Series Composition\n\n', b'\nShibata, Katsutoshi\n\nSound Director\n\n', b'\nKusuda, Aina\n\nTheme Song Performance\n\n', b'\nKanayama, Keisei\n\nEditing\n\n']
+animeCharacters	['Mokomoko', 'Sabina', 'Korupi', 'Arigetti']
+animeVoices	['Kinoshita, Suzuna', 'Uehara, Akari', 'Shimada, Saki']
+animeStaff	[['Kimura, Hiroshi', 'Director, Script, Storyboard, Series Composition'], ['Shibata, Katsutoshi', 'Sound Director'], ['Kusuda, Aina', 'Theme Song Performance'], ['Kanayama, Keisei', 'Editing']]

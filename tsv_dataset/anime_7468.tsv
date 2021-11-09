@@ -1,5 +1,5 @@
-animeTitle	b'Gregory Horror Show: The Last Train'
-animeType	b'TV'
+animeTitle	Gregory Horror Show: The Last Train
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.24
 animeUsers	605
 animeRank	
-animePopularity	
-animeDescription	b'The third series, The Last Train is set with 26 stories during a bizarre train ride that Gregory embarks upon.\n\n(Source: AniDB)'
-animeRelated	[b'Gregory Horror Show: The Second Guest']
-animeCharacters	"[b'Judgement Boy', b'Gregory', b'Neko Zombie', b""chef, Hell's""]"
-animeVoices	[b'\nChafurin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwata, Naomi\n\nOriginal Creator\n\n']
+animePopularity	10385
+animeDescription	"The third series, The Last Train is set with 26 stories during a bizarre train ride that Gregory embarks upon.
+
+(Source: AniDB)"
+animeRelated	['Gregory Horror Show: The Second Guest']
+animeCharacters	"['Judgement Boy', 'Gregory', 'Neko Zombie', ""chef, Hell's""]"
+animeVoices	['Chafurin']
+animeStaff	[['Iwata, Naomi', 'Original Creator']]

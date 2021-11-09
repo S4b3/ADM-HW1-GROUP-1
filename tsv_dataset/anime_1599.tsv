@@ -1,5 +1,5 @@
-animeTitle	b'Cider no You ni Kotoba ga Wakiagaru'
-animeType	b'Movie'
+animeTitle	Cider no You ni Kotoba ga Wakiagaru
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.51
 animeUsers	58186
 animeRank	
-animePopularity	
-animeDescription	"b'The visual features the tagline, ""I met you in my 17th summer..."" The ""boy-meets-girl"" story depicts how words and music bridge the gap between Cherry, a boy who is terrible at communicating with other people, and Smile, a girl who hides behind a mask. They meet in a mundane suburban shopping mall in a provincial city.\n\nCherry always wears headphones and puts the feelings he cannot utter into his hobby, Japanese haiku poems. Smile always wears a mask to conceal her large front teeth, for which she has dental braces. As a popular video star, she streams a video about seeking ""cuteness.""\n\n(Source: ANN)'"
-animeRelated	[b'Cider no You ni Kotoba ga Wakiagaru']
-animeCharacters	[b'Cherry', b'Smile']
-animeVoices	[b'\nIchikawa, Somegorou\nJapanese\n', b'\nSugisaki, Hana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiguro, Kyouhei\n\nDirector\n\n', b'\nSatou, Dai\n\nScript\n\n', b'\nUshio, Kensuke\n\nMusic\n\n', b'\nAikyou, Yukiko\n\nCharacter Design\n\n']
+animePopularity	1469
+animeDescription	"The visual features the tagline, ""I met you in my 17th summer..."" The ""boy-meets-girl"" story depicts how words and music bridge the gap between Cherry, a boy who is terrible at communicating with other people, and Smile, a girl who hides behind a mask. They meet in a mundane suburban shopping mall in a provincial city.
+
+Cherry always wears headphones and puts the feelings he cannot utter into his hobby, Japanese haiku poems. Smile always wears a mask to conceal her large front teeth, for which she has dental braces. As a popular video star, she streams a video about seeking ""cuteness.""
+
+(Source: ANN)"
+animeRelated	['Cider no You ni Kotoba ga Wakiagaru']
+animeCharacters	['Cherry', 'Smile']
+animeVoices	['Ichikawa, Somegorou', 'Sugisaki, Hana']
+animeStaff	[['Ishiguro, Kyouhei', 'Director'], ['Satou, Dai', 'Script'], ['Ushio, Kensuke', 'Music'], ['Aikyou, Yukiko', 'Character Design']]

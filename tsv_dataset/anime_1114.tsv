@@ -1,5 +1,5 @@
-animeTitle	b'Shingeki no Kyojin Movie 1: Guren no Yumiya'
-animeType	b'Movie'
+animeTitle	Shingeki no Kyojin Movie 1: Guren no Yumiya
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.68
 animeUsers	38324
 animeRank	
-animePopularity	
-animeDescription	b'Recap of episodes 1-13.'
-animeRelated	[b'Shingeki no Kyojin', b'Shingeki no Kyojin: Ano Hi Kara', b'Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa']
-animeCharacters	[b'Ackerman, Mikasa', b'Yeager, Eren', b'Arlert, Armin', b'Levi', b'Smith, Erwin', b'Zo\xc3\xab, Hange', b'Blouse, Sasha', b'Braun, Reiner', b'Kirstein, Jean', b'Leonhart, Annie']
-animeVoices	[b'\nIshikawa, Yui\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nShimamura, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWada, Jouji\n\nProducer\n\n', b'\nNakatake, Tetsuya\n\nProducer\n\n', b'\nAraki, Tetsurou\n\nDirector\n\n', b'\nLinked Horizon\n\nTheme Song Performance\n\n']
+animePopularity	1701
+animeDescription	Recap of episodes 1-13.
+animeRelated	['Shingeki no Kyojin', 'Shingeki no Kyojin: Ano Hi Kara', 'Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa']
+animeCharacters	['Ackerman, Mikasa', 'Yeager, Eren', 'Arlert, Armin', 'Levi', 'Smith, Erwin', 'Zoë, Hange', 'Blouse, Sasha', 'Braun, Reiner', 'Kirstein, Jean', 'Leonhart, Annie']
+animeVoices	['Ishikawa, Yui', 'Kaji, Yuki', 'Inoue, Marina', 'Kamiya, Hiroshi', 'Ono, Daisuke', 'Park, Romi', 'Kobayashi, Yuu', 'Hosoya, Yoshimasa', 'Taniyama, Kishou', 'Shimamura, Yuu']
+animeStaff	[['Wada, Jouji', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Araki, Tetsurou', 'Director'], ['Linked Horizon', 'Theme Song Performance']]

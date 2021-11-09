@@ -1,5 +1,5 @@
-animeTitle	b'Lodoss-tou Senki: Eiyuu Kishi Den'
-animeType	b'TV'
+animeTitle	Lodoss-tou Senki: Eiyuu Kishi Den
+animeType	TV
 animeNumEpisode	27
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.14
 animeUsers	9544
 animeRank	
-animePopularity	
-animeDescription	"b""Five years after the death of the Emperor of Marmo in the War of Heroes, Parn is now the Free Knight of Lodoss, he and his old allies now famous through the land. However, the Emperor's right-hand man, Ashram, seeks the scepter of domination to re-unify Lodoss under his former leader's banner. Meanwhile, beyond his attempts at conquest lies a more sinister force beginning to set the stage for the resurrection of the goddess of death and destruction...\n\n(Source: ANN)"""
-animeRelated	[b'Lodoss-tou Senki: Eiyuu Kishi Den', b'Lodoss-tou Senki', b'Youkoso Lodoss-tou e!']
-animeCharacters	[b'Deedlit', b'Parn', b'Leaf', b'Spark', b'Neese', b'Ashram', b'Merestianna, Pirotessa ', b'Orson', b'Karla', b'Kashue']
-animeVoices	[b'\nNoda, Junko\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nSawaguchi, Chie\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nNishihara, Kumiko\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nNakata, Jouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakazawa, Kazuto\n\nEpisode Director, Storyboard, Animation Director\n\n', b'\nSatou, Shouichi\n\nScript\n\n', b'\nSugishima, Kunihisa\n\nStoryboard\n\n', b'\nMatsui, Hitoyuki\n\nStoryboard\n\n']
+animePopularity	3428
+animeDescription	"Five years after the death of the Emperor of Marmo in the War of Heroes, Parn is now the Free Knight of Lodoss, he and his old allies now famous through the land. However, the Emperor's right-hand man, Ashram, seeks the scepter of domination to re-unify Lodoss under his former leader's banner. Meanwhile, beyond his attempts at conquest lies a more sinister force beginning to set the stage for the resurrection of the goddess of death and destruction...
+
+(Source: ANN)"
+animeRelated	['Lodoss-tou Senki: Eiyuu Kishi Den', 'Lodoss-tou Senki', 'Youkoso Lodoss-tou e!']
+animeCharacters	['Deedlit', 'Parn', 'Leaf', 'Spark', 'Neese', 'Ashram', 'Merestianna, Pirotessa ', 'Orson', 'Karla', 'Kashue']
+animeVoices	['Noda, Junko', 'Canna, Nobutoshi', 'Sakamoto, Maaya', 'Nojima, Kenji', 'Sawaguchi, Chie', 'Hayami, Show', 'Nishihara, Kumiko', 'Hiyama, Nobuyuki', 'Nakata, Jouji']
+animeStaff	[['Nakazawa, Kazuto', 'Episode Director, Storyboard, Animation Director'], ['Satou, Shouichi', 'Script'], ['Sugishima, Kunihisa', 'Storyboard'], ['Matsui, Hitoyuki', 'Storyboard']]

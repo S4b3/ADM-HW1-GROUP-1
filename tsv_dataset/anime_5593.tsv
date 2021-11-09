@@ -1,5 +1,5 @@
-animeTitle	b'Houseki no Kuni'
-animeType	b'ONA'
+animeTitle	Houseki no Kuni
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.6
 animeUsers	5275
 animeRank	
-animePopularity	
-animeDescription	"b""*Based on a manga of the same name by Ichikawa Haruko, serialised in Afternoon.\n\nIn the distant future, a new life form called Houseki is born. The 28 Houseki must fight against the Tsukijin who want to attack them and turn them into decorations, thus each gem is assigned a role such as a fighter or a medic. Though she hopes to fight the moon people, Phos is a gem who is given no assignment until the gems' manager Kongo asks her to edit a natural history magazine.\n\nNote: A promotional video that was released through YouTube in commemoration of the publication of the manga's first volume.\n\n(Source: AniDB)"""
-animeRelated	[b'Houseki no Kuni', b'Houseki no Kuni (TV)']
-animeCharacters	[b'Phosphophyllite', b'Cinnabar']
+animePopularity	4523
+animeDescription	"*Based on a manga of the same name by Ichikawa Haruko, serialised in Afternoon.
+
+In the distant future, a new life form called Houseki is born. The 28 Houseki must fight against the Tsukijin who want to attack them and turn them into decorations, thus each gem is assigned a role such as a fighter or a medic. Though she hopes to fight the moon people, Phos is a gem who is given no assignment until the gems' manager Kongo asks her to edit a natural history magazine.
+
+Note: A promotional video that was released through YouTube in commemoration of the publication of the manga's first volume.
+
+(Source: AniDB)"
+animeRelated	['Houseki no Kuni', 'Houseki no Kuni (TV)']
+animeCharacters	['Phosphophyllite', 'Cinnabar']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOohashi, Akiyo\n\nDirector, Storyboard\n\n', b'\nIchikawa, Haruko\n\nOriginal Creator\n\n', b'\nKonno, Yasuyuki\n\nSound Effects\n\n', b'\nKanou, Aya\n\nKey Animation, Character Design, Animation Director\n\n']
+animeStaff	[['Oohashi, Akiyo', 'Director, Storyboard'], ['Ichikawa, Haruko', 'Original Creator'], ['Konno, Yasuyuki', 'Sound Effects'], ['Kanou, Aya', 'Key Animation, Character Design, Animation Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Attack No.1 (1970)'
-animeType	b'Movie'
+animeTitle	Attack No.1 (1970)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.22
 animeUsers	271
 animeRank	
-animePopularity	
-animeDescription	b'The first recap film of Attack No.1 , it covers the first 6 episodes of the TV anime.\n\nKozue is a high school girl and an enthusiastic volleyball player. Her dream is to play on the Japanese national volleyball team. Over the course of the series she makes it from the school district league up to the Japanese volleyball finals, step by step until the international volleyball championship. But the faster and higher Kozue climbs, the more she is confronted with the dark side of success: too-high expectations, self-conceit, and envy.\n\n(Source: ANN)'
-animeRelated	[b'Attack No.1']
-animeCharacters	[b'Ayuhara, Kozue']
-animeVoices	[b'\nKobato, Kurumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Takeo\n\nMusic\n\n']
+animePopularity	11133
+animeDescription	"The first recap film of Attack No.1 , it covers the first 6 episodes of the TV anime.
+
+Kozue is a high school girl and an enthusiastic volleyball player. Her dream is to play on the Japanese national volleyball team. Over the course of the series she makes it from the school district league up to the Japanese volleyball finals, step by step until the international volleyball championship. But the faster and higher Kozue climbs, the more she is confronted with the dark side of success: too-high expectations, self-conceit, and envy.
+
+(Source: ANN)"
+animeRelated	['Attack No.1']
+animeCharacters	['Ayuhara, Kozue']
+animeVoices	['Kobato, Kurumi']
+animeStaff	[['Watanabe, Takeo', 'Music']]

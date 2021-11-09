@@ -1,5 +1,5 @@
-animeTitle	b'Stop!! Hibari-kun!'
-animeType	b'TV'
+animeTitle	Stop!! Hibari-kun!
+animeType	TV
 animeNumEpisode	35
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.05
 animeUsers	1080
 animeRank	
-animePopularity	
-animeDescription	"b""A teenage boy has now moved in the home of his mother's friend, because she had died a while back. It just so happens that the Yakuza family has four beautiful daughters, but one daughter, Hibari, who is more beautiful then the rest of the daughters, is actually a boy. Hibari just can't keep his hands off our hero and so their crazy yet happy lives go on. \n\n(Source: ANN)"""
-animeRelated	[b'Stop!! Hibari-kun!']
-animeCharacters	[b'Oozora, Hibari', b'Sakamoto, Kousaku', b'Oozora, Suzume', b'Oozora, Tsugumi', b'Oozora, Ibari', b'Oozora, Tsubame', b'Rikiishi, Joe', b'Rouba', b'Tamashiro', b'Kawahana, Hiroshi']
-animeVoices	[b'\nMajima, Satomi\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nSuzuki, Tomiko\nJapanese\n', b'\nHirano, Fumi\nJapanese\n', b'\nYanami, Jouji\nJapanese\n', b'\nIrokawa, Kyouko\nJapanese\n', b'\nOotaki, Shinya\nJapanese\n', b'\nSuzuki, Reiko\nJapanese\n', b'\nKanie, Eiji\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawajiri, Yoshiaki\n\nEpisode Director, Storyboard\n\n', b'\nImazawa, Tetsuo\n\nEpisode Director, Storyboard\n\n', b'\nIshiguro, Megumu\n\nEpisode Director\n\n', b'\nEbata, Hiroyuki\n\nEpisode Director\n\n']
+animePopularity	5908
+animeDescription	"A teenage boy has now moved in the home of his mother's friend, because she had died a while back. It just so happens that the Yakuza family has four beautiful daughters, but one daughter, Hibari, who is more beautiful then the rest of the daughters, is actually a boy. Hibari just can't keep his hands off our hero and so their crazy yet happy lives go on. 
+
+(Source: ANN)"
+animeRelated	['Stop!! Hibari-kun!']
+animeCharacters	['Oozora, Hibari', 'Sakamoto, Kousaku', 'Oozora, Suzume', 'Oozora, Tsugumi', 'Oozora, Ibari', 'Oozora, Tsubame', 'Rikiishi, Joe', 'Rouba', 'Tamashiro', 'Kawahana, Hiroshi']
+animeVoices	['Majima, Satomi', 'Furuya, Toru', 'Suzuki, Tomiko', 'Hirano, Fumi', 'Yanami, Jouji', 'Irokawa, Kyouko', 'Ootaki, Shinya', 'Suzuki, Reiko', 'Kanie, Eiji', 'Shiozawa, Kaneto']
+animeStaff	[['Kawajiri, Yoshiaki', 'Episode Director, Storyboard'], ['Imazawa, Tetsuo', 'Episode Director, Storyboard'], ['Ishiguro, Megumu', 'Episode Director'], ['Ebata, Hiroyuki', 'Episode Director']]

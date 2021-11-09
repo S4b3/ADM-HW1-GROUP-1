@@ -1,5 +1,5 @@
-animeTitle	b'Shokugeki no Souma OVA'
-animeType	b'OVA'
+animeTitle	Shokugeki no Souma OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.35
 animeUsers	51924
 animeRank	
-animePopularity	
-animeDescription	b'New OVAs bundled with the 18th and 19th volumes of the Shokugeki no Souma manga. '
-animeRelated	[b'Shokugeki no Souma']
-animeCharacters	[b'Nakiri, Erina', b'Nakiri, Alice', b'Aldini, Takumi', b'Aldini, Isami', b'Yukihira, Souma', b'Tadokoro, Megumi', b'Isshiki, Satoshi', b'Kurokiba, Ryou', b'Mito, Ikumi', b'Hayama, Akira']
-animeVoices	[b'\nTaneda, Risa\nJapanese\n', b'\nAkasaki, Chinatsu\nJapanese\n', b'\nHanae, Natsuki\nJapanese\n', b'\nOno, Yuuki\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nTakahashi, Minami\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nIshigami, Shizuka\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYonetani, Yoshitomo\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nKajii, Sega\n\nEpisode Director, Storyboard\n\n', b'\nYasukawa, Shougo\n\nScript, Series Composition\n\n']
+animePopularity	1537
+animeDescription	New OVAs bundled with the 18th and 19th volumes of the Shokugeki no Souma manga. 
+animeRelated	['Shokugeki no Souma']
+animeCharacters	['Nakiri, Erina', 'Nakiri, Alice', 'Aldini, Takumi', 'Aldini, Isami', 'Yukihira, Souma', 'Tadokoro, Megumi', 'Isshiki, Satoshi', 'Kurokiba, Ryou', 'Mito, Ikumi', 'Hayama, Akira']
+animeVoices	['Taneda, Risa', 'Akasaki, Chinatsu', 'Hanae, Natsuki', 'Ono, Yuuki', 'Matsuoka, Yoshitsugu', 'Takahashi, Minami', 'Sakurai, Takahiro', 'Okamoto, Nobuhiko', 'Ishigami, Shizuka', 'Suwabe, Junichi']
+animeStaff	[['Yonetani, Yoshitomo', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Kajii, Sega', 'Episode Director, Storyboard'], ['Yasukawa, Shougo', 'Script, Series Composition']]

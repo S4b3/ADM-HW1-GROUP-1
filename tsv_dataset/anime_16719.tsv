@@ -1,5 +1,5 @@
-animeTitle	b'Kikansha Yaemon'
-animeType	b'Movie'
+animeTitle	Kikansha Yaemon
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Animated 3D movie based on a bestseller picture book by Agawa Hiroyuki, illustrated by Okabe Fuyuhiko and published in 1959 by Iwanami Shoten Publishing.'
-animeRelated	[b'Kikansha Yaemon: D51 no Daibouken']
-animeCharacters	[b'Yaemon']
-animeVoices	[b'\nChii, Takeo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoyama, Takao\n\nScript\n\n', b'\nTakaki, Hiroshi\n\nMusic\n\n']
+animePopularity	15654
+animeDescription	Animated 3D movie based on a bestseller picture book by Agawa Hiroyuki, illustrated by Okabe Fuyuhiko and published in 1959 by Iwanami Shoten Publishing.
+animeRelated	['Kikansha Yaemon: D51 no Daibouken']
+animeCharacters	['Yaemon']
+animeVoices	['Chii, Takeo']
+animeStaff	[['Koyama, Takao', 'Script'], ['Takaki, Hiroshi', 'Music']]

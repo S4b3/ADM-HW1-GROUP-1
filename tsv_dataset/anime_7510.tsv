@@ -1,5 +1,5 @@
-animeTitle	b'Usuzumizakura: Garo'
-animeType	b'Movie'
+animeTitle	Usuzumizakura: Garo
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.24
 animeUsers	426
 animeRank	
-animePopularity	
-animeDescription	b'Set during the Heian Period, Kyo is a beautiful city that is proud of its glory. Two beautiful onmyouji meet, and the sad and short-lived beautiful cherry blossom starts to stir after 1000 years.\n\n(Source: MAL News)'
-animeRelated	[b'Garo: Guren no Tsuki']
-animeCharacters	[b'Akira', b'Raikou', b'Kintoki', b'Seimei', b'Tokimaru', b'Fujiwara no, Yasusuke', b'Fujiwara no, Michinaga', b'Takeru', b'Tenko', b'Minamoto no, Yorinobu']
-animeVoices	[b'\nTanaka, Atsuko\nJapanese\n', b'\nNakayama, Masei\nJapanese\n', b'\nYajima, Akiko\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nHigashi, Keisuke\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nNomura, Katsuhito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishimura, Satoshi\n\nDirector\n\n', b'\nKubo, Souichirou\n\nSound Director\n\n', b'\nKobayashi, Yasuko\n\nScript\n\n', b'\nKatsura, Masakazu\n\nOriginal Character Design\n\n']
+animePopularity	7315
+animeDescription	"Set during the Heian Period, Kyo is a beautiful city that is proud of its glory. Two beautiful onmyouji meet, and the sad and short-lived beautiful cherry blossom starts to stir after 1000 years.
+
+(Source: MAL News)"
+animeRelated	['Garo: Guren no Tsuki']
+animeCharacters	['Akira', 'Raikou', 'Kintoki', 'Seimei', 'Tokimaru', 'Fujiwara no, Yasusuke', 'Fujiwara no, Michinaga', 'Takeru', 'Tenko', 'Minamoto no, Yorinobu']
+animeVoices	['Tanaka, Atsuko', 'Nakayama, Masei', 'Yajima, Akiko', 'Park, Romi', 'Higashi, Keisuke', 'Namikawa, Daisuke', 'Horiuchi, Kenyuu', 'Seki, Tomokazu', 'Nakata, Jouji', 'Nomura, Katsuhito']
+animeStaff	[['Nishimura, Satoshi', 'Director'], ['Kubo, Souichirou', 'Sound Director'], ['Kobayashi, Yasuko', 'Script'], ['Katsura, Masakazu', 'Original Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	"b""Mermaid's Scar"""
-animeType	b'OVA'
+animeTitle	Mermaid's Scar
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.8
 animeUsers	2636
 animeRank	
-animePopularity	
-animeDescription	"b'Legend has it that when you eat the flesh of a mermaid, you would live forever. Yuta and Mana are living proof of this... Together, they journey to various places trying to find meaning for their existence, or perhaps even a ""cure"" for their situation. One day, Yuta and Mana meet Masato, a little boy who seems terrified of his mother Misa. It seems to Yuta and Mana that mother and son have a very unusual relationship. What happens when Yuta and Mana decide to discover the dark secret Masato and Misa are hiding? And what about those monster-like creatures that have been appearing?\n\n(Source: AniDB)'"
-animeRelated	[b'Ningyo Series', b'Takahashi Rumiko Gekijou Ningyo no Mori', b'Ningyo no Mori']
-animeCharacters	[b'Mana', b'Yuta', b'Masato', b'Misa', b'Yukie']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nTakashima, Gara\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAsaka, Morio\n\nDirector\n\n', b'\nMochida, Maki\n\nTheme Song Performance\n\n', b'\nSaitou, Miwako\n\nTheme Song Lyrics\n\n', b'\nTakahashi, Rumiko\n\nOriginal Creator\n\n']
+animePopularity	6178
+animeDescription	"Legend has it that when you eat the flesh of a mermaid, you would live forever. Yuta and Mana are living proof of this... Together, they journey to various places trying to find meaning for their existence, or perhaps even a ""cure"" for their situation. One day, Yuta and Mana meet Masato, a little boy who seems terrified of his mother Misa. It seems to Yuta and Mana that mother and son have a very unusual relationship. What happens when Yuta and Mana decide to discover the dark secret Masato and Misa are hiding? And what about those monster-like creatures that have been appearing?
+
+(Source: AniDB)"
+animeRelated	['Ningyo Series', 'Takahashi Rumiko Gekijou Ningyo no Mori', 'Ningyo no Mori']
+animeCharacters	['Mana', 'Yuta', 'Masato', 'Misa', 'Yukie']
+animeVoices	['Takayama, Minami', 'Yamadera, Kouichi', 'Takashima, Gara', 'Inoue, Kikuko']
+animeStaff	[['Asaka, Morio', 'Director'], ['Mochida, Maki', 'Theme Song Performance'], ['Saitou, Miwako', 'Theme Song Lyrics'], ['Takahashi, Rumiko', 'Original Creator']]

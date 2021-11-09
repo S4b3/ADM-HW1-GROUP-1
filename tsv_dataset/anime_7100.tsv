@@ -1,5 +1,5 @@
-animeTitle	b'Souten no Ken Specials'
-animeType	b'Special'
+animeTitle	Souten no Ken Specials
+animeType	Special
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.32
 animeUsers	920
 animeRank	
-animePopularity	
-animeDescription	b'Episodes 16, 17, 18 and 21 of the Souten no Ken anime series, which were not originally aired, but released on DVD. Because of this, these episodes are uncut/uncensored. \n\n(Source: Wikipedia)'
-animeRelated	[b'Souten no Ken']
-animeCharacters	[b'Kasumi, Kenshirou', b'Mang, Kuangyun', b'Zhang, Taiyan', b'de Guise, Charles', b'Pan, Guanglin', b'Pan, Yuling']
-animeVoices	[b'\nYamadera, Kouichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nEgami, Kiyoshi\n\nStoryboard\n\n', b'\nBuronson\n\nOriginal Creator\n\n', b'\nHara, Tetsuo\n\nOriginal Character Design\n\n', b'\nSuda, Masami\n\nAnimation Director\n\n']
+animePopularity	8995
+animeDescription	"Episodes 16, 17, 18 and 21 of the Souten no Ken anime series, which were not originally aired, but released on DVD. Because of this, these episodes are uncut/uncensored. 
+
+(Source: Wikipedia)"
+animeRelated	['Souten no Ken']
+animeCharacters	['Kasumi, Kenshirou', 'Mang, Kuangyun', 'Zhang, Taiyan', 'de Guise, Charles', 'Pan, Guanglin', 'Pan, Yuling']
+animeVoices	['Yamadera, Kouichi']
+animeStaff	[['Egami, Kiyoshi', 'Storyboard'], ['Buronson', 'Original Creator'], ['Hara, Tetsuo', 'Original Character Design'], ['Suda, Masami', 'Animation Director']]

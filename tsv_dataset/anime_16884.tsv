@@ -1,5 +1,5 @@
-animeTitle	b'Kotatsu Neko (TV)'
-animeType	b'TV'
+animeTitle	Kotatsu Neko (TV)
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'Kotatsu Neko is based on a ""live-action science-fiction/fantasy romance"" film of the same name which was released in Japan in 2006. The story is set in a certain neighborhood of Tokyo where two cats live under a kotatsu. Shito is a girlish white cat, while Zero is a cool black cat. The cat\'s owner, Rei ""Junior"" Fujisaki, is a third-year middle-school hikikomori obsessed with games. He likes a girl in his class, but naturally, he cannot work up the nerve to tell her. Shito herself harbors a secret one-sided love also. \n\n(Source: ANN)'"
+animePopularity	13130
+animeDescription	"Kotatsu Neko is based on a ""live-action science-fiction/fantasy romance"" film of the same name which was released in Japan in 2006. The story is set in a certain neighborhood of Tokyo where two cats live under a kotatsu. Shito is a girlish white cat, while Zero is a cool black cat. The cat's owner, Rei ""Junior"" Fujisaki, is a third-year middle-school hikikomori obsessed with games. He likes a girl in his class, but naturally, he cannot work up the nerve to tell her. Shito herself harbors a secret one-sided love also. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Zero']
-animeVoices	[b'\nYamamura, Hibiku\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n']
+animeCharacters	['Zero']
+animeVoices	['Yamamura, Hibiku']
+animeStaff	[['Motoyama, Satoshi', 'Sound Director']]

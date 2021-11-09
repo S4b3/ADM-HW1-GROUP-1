@@ -1,5 +1,5 @@
-animeTitle	b'Historical'
-animeType	b'ONA'
+animeTitle	Historical
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.73
 animeUsers	127
 animeRank	
-animePopularity	
-animeDescription	b'A highschool girl encounters a rabbit like creature who sends her back in time. '
+animePopularity	12622
+animeDescription	A highschool girl encounters a rabbit like creature who sends her back in time. 
 animeRelated	[]
-animeCharacters	[b'Akane, Makoto', b'Kanotsuno, Shiki', b'Enza']
-animeVoices	[b'\nKitamura, Eri\nJapanese\n', b'\nFujimoto, Ayaka\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nRabbit MACHINE\n\nDirector\n\n', b'\npurikoko\n\nMusic\n\n']
+animeCharacters	['Akane, Makoto', 'Kanotsuno, Shiki', 'Enza']
+animeVoices	['Kitamura, Eri', 'Fujimoto, Ayaka', 'Sakurai, Takahiro']
+animeStaff	[['Rabbit MACHINE', 'Director'], ['purikoko', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Tetsuwan Atom: Ivan no Wakusei - Robot to Ningen no Yuujou'
-animeType	b'Movie'
+animeTitle	Tetsuwan Atom: Ivan no Wakusei - Robot to Ningen no Yuujou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.26
 animeUsers	219
 animeRank	
-animePopularity	
-animeDescription	b'Another Tetsuwan Atom Movie that was shown in the Tezuka Osamu World Cinema in Tokyo until it was closed in 2011.\n\n(Source: AniDB)'
-animeRelated	[b'Astro Boy: Tetsuwan Atom']
-animeCharacters	[b'Atom', b'Uran', b'Dr. Ochanomizu']
-animeVoices	[b'\nTsumura, Makoto\nJapanese\n', b'\nMaruyama, Miki\nJapanese\n', b'\nKatsuta, Hisashi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Osamu\n\nDirector, Storyboard\n\n', b'\nNishita, Masayoshi\n\nAnimation Director\n\n']
+animePopularity	11401
+animeDescription	"Another Tetsuwan Atom Movie that was shown in the Tezuka Osamu World Cinema in Tokyo until it was closed in 2011.
+
+(Source: AniDB)"
+animeRelated	['Astro Boy: Tetsuwan Atom']
+animeCharacters	['Atom', 'Uran', 'Dr. Ochanomizu']
+animeVoices	['Tsumura, Makoto', 'Maruyama, Miki', 'Katsuta, Hisashi']
+animeStaff	[['Dezaki, Osamu', 'Director, Storyboard'], ['Nishita, Masayoshi', 'Animation Director']]

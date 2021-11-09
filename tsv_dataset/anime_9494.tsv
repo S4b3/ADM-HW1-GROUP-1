@@ -1,5 +1,5 @@
-animeTitle	b'Ima no Watashi ni Dekiru Koto...'
-animeType	b'ONA'
+animeTitle	Ima no Watashi ni Dekiru Koto...
+animeType	ONA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.77
 animeUsers	216
 animeRank	
-animePopularity	
-animeDescription	b'The story takes place in 2102 where future has advanced beyond what was imagined in the 21st century and in 2016. 17-year-old Nami is a high school girl living everyday happily without much thought. A recent increase in guerrilla heavy rains has caused to her start worrying a little. She encounters 10-year-old You, a mysterious girl from the near future.\n\n(Source: ANN)'
+animePopularity	11938
+animeDescription	"The story takes place in 2102 where future has advanced beyond what was imagined in the 21st century and in 2016. 17-year-old Nami is a high school girl living everyday happily without much thought. A recent increase in guerrilla heavy rains has caused to her start worrying a little. She encounters 10-year-old You, a mysterious girl from the near future.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'You', b'Nami']
-animeVoices	[b'\nTsukui, Ayami\nJapanese\n', b'\nHarada, Hitomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAbe, Shuuhei\n\nSound Director\n\n', b'\nFukuda, Michio\n\nEpisode Director\n\n', b'\nKasuga, Minami\n\nArt Director\n\n', b'\nKoshiyama, Asahiko\n\nDirector of Photography\n\n']
+animeCharacters	['You', 'Nami']
+animeVoices	['Tsukui, Ayami', 'Harada, Hitomi']
+animeStaff	[['Abe, Shuuhei', 'Sound Director'], ['Fukuda, Michio', 'Episode Director'], ['Kasuga, Minami', 'Art Director'], ['Koshiyama, Asahiko', 'Director of Photography']]

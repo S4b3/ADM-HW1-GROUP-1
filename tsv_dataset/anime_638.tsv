@@ -1,5 +1,5 @@
-animeTitle	b'Yakitate!! Japan'
-animeType	b'TV'
+animeTitle	Yakitate!! Japan
+animeType	TV
 animeNumEpisode	69
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.93
 animeUsers	34457
 animeRank	
-animePopularity	
-animeDescription	"b""While countries such as France, England, and Germany all have their own internationally celebrated bread, Japan simply does not have one that can match in reputation.\n\nThus after discovering the wonders of breadmaking at a young age, Kazuma Azuma embarks on a quest to create Japan's own unique national bread. And being blessed with unusually warm hands that allow dough to ferment faster, Azuma is able to bring his baking innovations to another level.\n\nAs he begins working at the prestigious Japanese bakery chain, Pantasia, Azuma encounters other talented bakers and experiences firsthand the competitive world of baking. Along with his newfound friends and rivals, Azuma strives to create new and unparalleled bread that will start a baking revolution. \n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Yakitate!! Japan']
-animeCharacters	[b'Azuma, Kazuma', b'Kuroyanagi, Ryo', b'Kawachi, Kyousuke', b'Matsushiro, Ken', b'Azusagawa, Tsukino', b'Kanmuri, Shigeru', b'Suwabara, Kai', b'Bolneze, Pierrot', b'Kidd, Brad', b'Adenauer, Monica']
-animeVoices	[b'\nKobayashi, Yumiko\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nSakaguchi, Shuuhei\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n', b'\nOtsuka, Chihiro\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nSakazume, Takayuki\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamakawa, Norio\n\nProducer\n\n', b'\nAoki, Yasuhiro\n\nDirector\n\n', b'\nKimura, Eriko\n\nSound Director\n\n', b'\nIshiodori, Hiroshi\n\nEpisode Director\n\n']
+animePopularity	1803
+animeDescription	"While countries such as France, England, and Germany all have their own internationally celebrated bread, Japan simply does not have one that can match in reputation.
+
+Thus after discovering the wonders of breadmaking at a young age, Kazuma Azuma embarks on a quest to create Japan's own unique national bread. And being blessed with unusually warm hands that allow dough to ferment faster, Azuma is able to bring his baking innovations to another level.
+
+As he begins working at the prestigious Japanese bakery chain, Pantasia, Azuma encounters other talented bakers and experiences firsthand the competitive world of baking. Along with his newfound friends and rivals, Azuma strives to create new and unparalleled bread that will start a baking revolution. 
+
+[Written by MAL Rewrite]"
+animeRelated	['Yakitate!! Japan']
+animeCharacters	['Azuma, Kazuma', 'Kuroyanagi, Ryo', 'Kawachi, Kyousuke', 'Matsushiro, Ken', 'Azusagawa, Tsukino', 'Kanmuri, Shigeru', 'Suwabara, Kai', 'Bolneze, Pierrot', 'Kidd, Brad', 'Adenauer, Monica']
+animeVoices	['Kobayashi, Yumiko', 'Koyasu, Takehito', 'Sakaguchi, Shuuhei', 'Touchi, Hiroki', 'Otsuka, Chihiro', 'Inoue, Marina', 'Sakazume, Takayuki', 'Seki, Tomokazu', 'Horiuchi, Kenyuu', 'Kugimiya, Rie']
+animeStaff	[['Yamakawa, Norio', 'Producer'], ['Aoki, Yasuhiro', 'Director'], ['Kimura, Eriko', 'Sound Director'], ['Ishiodori, Hiroshi', 'Episode Director']]

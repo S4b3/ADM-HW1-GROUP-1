@@ -1,5 +1,5 @@
-animeTitle	b'Super Secret'
-animeType	b'ONA'
+animeTitle	Super Secret
+animeType	ONA
 animeNumEpisode	22
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Two neighboring childhood friends. An airheaded girl and the boy who takes care of her like a mother hen. And of course, there is his family background with a tiny, insignificant supernatural secret. Now that her parents have left the girl in their neighbor's care, will she ever discover her friend's secret?\n\n(Source: MU)"""
-animeRelated	[b'Super Secret']
-animeCharacters	[b'Ji, Emma', b'Nam, Ryan', b'Song, Johan', b'Moon, Jasmine', b'Ji, Ethan', b'Kwon, Victor', b'Seo, Inna', b'Moon, Jamie', b'Kwon, Hunter', b'Nam, Hailey']
+animePopularity	12810
+animeDescription	"Two neighboring childhood friends. An airheaded girl and the boy who takes care of her like a mother hen. And of course, there is his family background with a tiny, insignificant supernatural secret. Now that her parents have left the girl in their neighbor's care, will she ever discover her friend's secret?
+
+(Source: MU)"
+animeRelated	['Super Secret']
+animeCharacters	['Ji, Emma', 'Nam, Ryan', 'Song, Johan', 'Moon, Jasmine', 'Ji, Ethan', 'Kwon, Victor', 'Seo, Inna', 'Moon, Jamie', 'Kwon, Hunter', 'Nam, Hailey']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nJang, Stella\n\nTheme Song Performance\n\n', b'\neon\n\nOriginal Creator\n\n']
+animeStaff	[['Jang, Stella', 'Theme Song Performance'], ['eon', 'Original Creator']]

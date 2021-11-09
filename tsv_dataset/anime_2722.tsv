@@ -1,5 +1,5 @@
-animeTitle	b'Plastic Neesan'
-animeType	b'ONA'
+animeTitle	Plastic Neesan
+animeType	ONA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.23
 animeUsers	90903
 animeRank	
-animePopularity	
-animeDescription	"b'Iroe Genma is a third-year high school student often referred to as ""Elder Sister"" despite her short height. This troublemaking teenager is the president of her school\'s Model Club, which is dedicated to building plastic models of various objects and structures, such as cars, boats, and even robots.\n\nJoined by her two underclassmen, the violent Hazuki ""Okappa"" Okamoto and the rational Makina ""Makimaki"" Sakamaki, the small group aims to carry out their club duties but are often sidetracked by a myriad of distractions. From battles between club members to lessons on how to confess to your crush, these three schoolgirls get caught up in all sorts of wacky, and downright outrageous situations!\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Plastic Neesan']
-animeCharacters	[b'Genma, Iroe', b'Okamoto, Hazuki', b'Sakamaki, Makina', b'Kuniki', b'Mizuno', b'Azuma', b'Ishihara, Satomi', b'Sanada', b'Sano', b'Himekawa, Yuria']
-animeVoices	[b'\nKanou, Mari\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nKurata, Masayo\nJapanese\n', b'\nAkabane, Kenji\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nKanbara, Daichi\nJapanese\n', b'\nSaotome, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMizushima, Tsutomu\n\nDirector, Sound Director, Storyboard\n\n', b'\nUltra-Prism\n\nTheme Song Performance\n\n', b'\nSaotome, Yuka\n\nTheme Song Performance\n\n', b'\nKatou, Tatsuya\n\nMusic\n\n']
+animePopularity	991
+animeDescription	"Iroe Genma is a third-year high school student often referred to as ""Elder Sister"" despite her short height. This troublemaking teenager is the president of her school's Model Club, which is dedicated to building plastic models of various objects and structures, such as cars, boats, and even robots.
+
+Joined by her two underclassmen, the violent Hazuki ""Okappa"" Okamoto and the rational Makina ""Makimaki"" Sakamaki, the small group aims to carry out their club duties but are often sidetracked by a myriad of distractions. From battles between club members to lessons on how to confess to your crush, these three schoolgirls get caught up in all sorts of wacky, and downright outrageous situations!
+
+[Written by MAL Rewrite]"
+animeRelated	['Plastic Neesan']
+animeCharacters	['Genma, Iroe', 'Okamoto, Hazuki', 'Sakamaki, Makina', 'Kuniki', 'Mizuno', 'Azuma', 'Ishihara, Satomi', 'Sanada', 'Sano', 'Himekawa, Yuria']
+animeVoices	['Kanou, Mari', 'Uchiyama, Yumi', 'Inoue, Marina', 'Taniyama, Kishou', 'Kurata, Masayo', 'Akabane, Kenji', 'Saitou, Chiwa', 'Kanbara, Daichi', 'Saotome, Yuka']
+animeStaff	[['Mizushima, Tsutomu', 'Director, Sound Director, Storyboard'], ['Ultra-Prism', 'Theme Song Performance'], ['Saotome, Yuka', 'Theme Song Performance'], ['Katou, Tatsuya', 'Music']]

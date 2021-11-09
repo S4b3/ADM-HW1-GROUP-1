@@ -1,5 +1,5 @@
-animeTitle	b'Tales of Zestiria: Doushi no Yoake'
-animeType	b'Special'
+animeTitle	Tales of Zestiria: Doushi no Yoake
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.39
 animeUsers	19176
 animeRank	
-animePopularity	
-animeDescription	"b""TV anime special of Bandai Namco Games' Tales of Zestiria role-playing game."""
-animeRelated	[b'Tales of Zestiria: Michibiki no Toki', b'Tales of Zestiria the Cross']
-animeCharacters	[b'Mikleo', b'Sorey', b'Diphda, Alisha', b'Lunarre', b'Maisen', b'Caim', b'Jiiji']
-animeVoices	[b'\nOosaka, Ryouta\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nKousaka, Atsushi\nJapanese\n', b'\nToriumi, Katsumi\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKondou, Hikaru\n\nProducer, Planning\n\n', b'\nSotozaki, Haruo\n\nDirector, Episode Director, Storyboard, Key Animation\n\n', b'\nShiina, Gou\n\nMusic\n\n', b'\nTerao, Yuuichi\n\nDirector of Photography\n\n']
+animePopularity	2795
+animeDescription	TV anime special of Bandai Namco Games' Tales of Zestiria role-playing game.
+animeRelated	['Tales of Zestiria: Michibiki no Toki', 'Tales of Zestiria the Cross']
+animeCharacters	['Mikleo', 'Sorey', 'Diphda, Alisha', 'Lunarre', 'Maisen', 'Caim', 'Jiiji']
+animeVoices	['Oosaka, Ryouta', 'Kimura, Ryouhei', 'Kayano, Ai', 'Koyasu, Takehito', 'Kousaka, Atsushi', 'Toriumi, Katsumi', 'Ogata, Kenichi']
+animeStaff	[['Kondou, Hikaru', 'Producer, Planning'], ['Sotozaki, Haruo', 'Director, Episode Director, Storyboard, Key Animation'], ['Shiina, Gou', 'Music'], ['Terao, Yuuichi', 'Director of Photography']]

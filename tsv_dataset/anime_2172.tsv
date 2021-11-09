@@ -1,5 +1,5 @@
-animeTitle	b'Strike Witches: Operation Victory Arrow'
-animeType	b'OVA'
+animeTitle	Strike Witches: Operation Victory Arrow
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.35
 animeUsers	8647
 animeRank	
-animePopularity	
-animeDescription	b'Operation Victory Arrow is set in the period between the end of Operation Mars in the second television series and the 2012 Strike Witches movie. The three 30-minute short stories depict the lives of the members who returned to their respective homes.\n\n(Source: ANN)'
-animeRelated	[b'Strike Witches 2', b'Strike Witches Movie']
-animeCharacters	[b'Hartmann, Erica', b'Lucchini, Francesca', b'Barkhorn, Gertrud', b'Bishop, Lynette', b'Clostermann, Perrine H.', b'Yeager, Charlotte E.', b'Wilcke, Minna-Dietlinde', b'Marseille, Hanna-Justina', b'Hartmann, Ursula', b'Planchard, Amelie']
-animeVoices	[b'\nNogawa, Sakura\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nSonozaki, Mie\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakamura, Kazuhiro\n\nDirector, Script, Character Design\n\n', b'\nYoshida, Tomohiro\n\nSound Director\n\n', b'\nShimada, Humikane\n\nScript, Original Character Design\n\n', b'\nUrahata, Tatsuhiko\n\nScript\n\n']
+animePopularity	3810
+animeDescription	"Operation Victory Arrow is set in the period between the end of Operation Mars in the second television series and the 2012 Strike Witches movie. The three 30-minute short stories depict the lives of the members who returned to their respective homes.
+
+(Source: ANN)"
+animeRelated	['Strike Witches 2', 'Strike Witches Movie']
+animeCharacters	['Hartmann, Erica', 'Lucchini, Francesca', 'Barkhorn, Gertrud', 'Bishop, Lynette', 'Clostermann, Perrine H.', 'Yeager, Charlotte E.', 'Wilcke, Minna-Dietlinde', 'Marseille, Hanna-Justina', 'Hartmann, Ursula', 'Planchard, Amelie']
+animeVoices	['Nogawa, Sakura', 'Saitou, Chiwa', 'Sonozaki, Mie', 'Nazuka, Kaori', 'Sawashiro, Miyuki', 'Koshimizu, Ami', 'Tanaka, Rie', 'Itou, Shizuka', 'Yahagi, Sayuri']
+animeStaff	[['Takamura, Kazuhiro', 'Director, Script, Character Design'], ['Yoshida, Tomohiro', 'Sound Director'], ['Shimada, Humikane', 'Script, Original Character Design'], ['Urahata, Tatsuhiko', 'Script']]

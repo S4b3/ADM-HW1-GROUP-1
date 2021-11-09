@@ -1,5 +1,5 @@
-animeTitle	"b""Kagerou Daze: In a Day's"""
-animeType	b'Movie'
+animeTitle	Kagerou Daze: In a Day's
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.17
 animeUsers	2303
 animeRank	
-animePopularity	
-animeDescription	"b""Shintarou Kisaragi\xe2\x80\x94a NEET who shut himself inside his room for 2 years\xe2\x80\x94has been living his life normally until he met a cyber girl named Ene, who appeared in his computer screen when someone anonymously sent him a mysterious e-mail one year ago. One day, Ene had been messing with Shintaro's PC, which causes him have to go to the outside world for first time in two years.\n\n(Source: Official site)"""
-animeRelated	"[b'Kagerou Daze', b'Mekakucity Actors', b'Mekakucity Days', b'Red', b""Mekakucity V's""]"
-animeCharacters	[b'Enomoto, Takane', b'Kano, Shuuya', b'Kisaragi, Shintarou', b'Kokonose, Haruka', b'Kido, Tsubomi', b'Kozakura, Mari', b'Seto, Kousuke', b'Kisaragi, Momo', b'Amamiya, Hibiya']
+animePopularity	4540
+animeDescription	"Shintarou Kisaragi—a NEET who shut himself inside his room for 2 years—has been living his life normally until he met a cyber girl named Ene, who appeared in his computer screen when someone anonymously sent him a mysterious e-mail one year ago. One day, Ene had been messing with Shintaro's PC, which causes him have to go to the outside world for first time in two years.
+
+(Source: Official site)"
+animeRelated	"['Kagerou Daze', 'Mekakucity Actors', 'Mekakucity Days', 'Red', ""Mekakucity V's""]"
+animeCharacters	['Enomoto, Takane', 'Kano, Shuuya', 'Kisaragi, Shintarou', 'Kokonose, Haruka', 'Kido, Tsubomi', 'Kozakura, Mari', 'Seto, Kousuke', 'Kisaragi, Momo', 'Amamiya, Hibiya']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSidu\n\nDirector, Script, Screenplay\n\n', b'\nJin\n\nOriginal Creator\n\n']
+animeStaff	[['Sidu', 'Director, Script, Screenplay'], ['Jin', 'Original Creator']]

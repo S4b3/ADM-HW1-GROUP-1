@@ -1,5 +1,5 @@
-animeTitle	b'Goblin Slayer: Bouken Kiroku Youshi - Adventure Sheet'
-animeType	b'Special'
+animeTitle	Goblin Slayer: Bouken Kiroku Youshi - Adventure Sheet
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.19
 animeUsers	20180
 animeRank	
-animePopularity	
-animeDescription	b'Recap of the first 10 episodes of Goblin Slayer.'
-animeRelated	[b'Goblin Slayer']
-animeCharacters	[b'Goblin Slayer']
+animePopularity	2757
+animeDescription	Recap of the first 10 episodes of Goblin Slayer.
+animeRelated	['Goblin Slayer']
+animeCharacters	['Goblin Slayer']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKagyuu, Kumo\n\nOriginal Creator\n\n', b'\nKannatsuki, Noboru\n\nOriginal Character Design\n\n']
+animeStaff	[['Kagyuu, Kumo', 'Original Creator'], ['Kannatsuki, Noboru', 'Original Character Design']]

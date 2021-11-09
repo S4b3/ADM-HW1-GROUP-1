@@ -1,5 +1,5 @@
-animeTitle	b'Sakigake!! Otokojuku'
-animeType	b'TV'
+animeTitle	Sakigake!! Otokojuku
+animeType	TV
 animeNumEpisode	34
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.39
 animeUsers	2515
 animeRank	
-animePopularity	
-animeDescription	b'Otokojuku: a private school for juvenile delinquents that were previously expelled from normal schools. At this school, Japanese chivalry is taught through feudal and military fundamentals. Similar to an action film, the classes are overwhelmed by violence. Only those who survive it become true men.\n\n(Source: ANN)'
-animeRelated	[b'Sakigake!! Otokojuku', b'Sakigake!! Otokojuku Movie']
-animeCharacters	[b'Tsurugi, Momotarou', b'Togashi, Genji', b'Toramaru, Ryuji', b'Edajima, Heihachi', b'Tazawa, Ippei', b'Daigouin, Jaki', b'Gokukoji, Hidemaro', b'Tsubakiyama, Kiyomi', b'Date, Omito', b'J']
-animeVoices	[b'\nHori, Hideyuki\nJapanese\n', b'\nYamaguchi, Ken\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nHirano, Masato\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nTsukase, Noriko\nJapanese\n', b'\nNakata, Kazuhiro\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nGinga, Banjou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishizawa, Nobutaka\n\nDirector\n\n', b'\nOoba, Hideaki\n\nEpisode Director\n\n', b'\nYamayoshi, Yasuo\n\nEpisode Director\n\n', b'\nKikuchi, Shunsuke\n\nMusic\n\n']
+animePopularity	5060
+animeDescription	"Otokojuku: a private school for juvenile delinquents that were previously expelled from normal schools. At this school, Japanese chivalry is taught through feudal and military fundamentals. Similar to an action film, the classes are overwhelmed by violence. Only those who survive it become true men.
+
+(Source: ANN)"
+animeRelated	['Sakigake!! Otokojuku', 'Sakigake!! Otokojuku Movie']
+animeCharacters	['Tsurugi, Momotarou', 'Togashi, Genji', 'Toramaru, Ryuji', 'Edajima, Heihachi', 'Tazawa, Ippei', 'Daigouin, Jaki', 'Gokukoji, Hidemaro', 'Tsubakiyama, Kiyomi', 'Date, Omito', 'J']
+animeVoices	['Hori, Hideyuki', 'Yamaguchi, Ken', 'Yara, Yuusaku', 'Gouri, Daisuke', 'Hirano, Masato', 'Tanaka, Hideyuki', 'Tsukase, Noriko', 'Nakata, Kazuhiro', 'Suzuoki, Hirotaka', 'Ginga, Banjou']
+animeStaff	[['Nishizawa, Nobutaka', 'Director'], ['Ooba, Hideaki', 'Episode Director'], ['Yamayoshi, Yasuo', 'Episode Director'], ['Kikuchi, Shunsuke', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Fate/Prototype'
-animeType	b'OVA'
+animeTitle	Fate/Prototype
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.68
 animeUsers	49159
 animeRank	
-animePopularity	
-animeDescription	"b""Fate/Prototype is a digest version of Kinoko Nasu's original version of Fate/stay night."""
-animeRelated	[b'Fate/stay night']
-animeCharacters	[b'Saber', b'Sajou, Ayaka', b'Archer', b'Lancer', b'Reiroukan, Misaya', b'Sajou, Manaka', b'Rider', b'Sajyou, Father', b'Sancraid, Phahn', b'Isemi, Aro']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nOgata, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKishi, Seiji\n\nDirector\n\n', b'\nNasu, Kinoko\n\nOriginal Creator\n\n', b'\nType-Moon\n\nOriginal Creator\n\n', b'\nTakanashi, Yasuharu\n\nMusic\n\n']
+animePopularity	1638
+animeDescription	Fate/Prototype is a digest version of Kinoko Nasu's original version of Fate/stay night.
+animeRelated	['Fate/stay night']
+animeCharacters	['Saber', 'Sajou, Ayaka', 'Archer', 'Lancer', 'Reiroukan, Misaya', 'Sajou, Manaka', 'Rider', 'Sajyou, Father', 'Sancraid, Phahn', 'Isemi, Aro']
+animeVoices	['Sakurai, Takahiro', 'Hanazawa, Kana', 'Nakamura, Yuuichi', 'Nakai, Kazuya', 'Saitou, Chiwa', 'Toyosaki, Aki', 'Miyano, Mamoru', 'Touchi, Hiroki', 'Koyasu, Takehito', 'Ogata, Megumi']
+animeStaff	[['Kishi, Seiji', 'Director'], ['Nasu, Kinoko', 'Original Creator'], ['Type-Moon', 'Original Creator'], ['Takanashi, Yasuharu', 'Music']]

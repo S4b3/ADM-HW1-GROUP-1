@@ -1,5 +1,5 @@
-animeTitle	b'Nepos Napos'
-animeType	b'TV'
+animeTitle	Nepos Napos
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""You see a whale-shaped cloud drifting in the blue sky. What you don't see is a strange land of Nepos Napos that lies above it. Don't you want to know what is happening and how everybody lives up there?\n\n(Source: The Answer Studio)"""
+animePopularity	16575
+animeDescription	"You see a whale-shaped cloud drifting in the blue sky. What you don't see is a strange land of Nepos Napos that lies above it. Don't you want to know what is happening and how everybody lives up there?
+
+(Source: The Answer Studio)"
 animeRelated	[]
-animeCharacters	[b'Panna', b'Nepo', b'Teemo', b'Pooba', b'Maya', b'Paya', b'Dontos', b'Napple', b'Popock', b'Lazoo']
-animeVoices	[b'\nSendai, Eri\nJapanese\n', b'\nKatou, Emiri\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nIzumi, Kumiko\nJapanese\n', b'\nTanaka, Yuuko\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKiso, Yukari\n\nProducer\n\n', b'\nOoga, Shunji\n\nDirector\n\n', b'\nKawamata, Hiroshi\n\nDirector\n\n', b'\nTakahashi, Natsuko\n\nScript\n\n']
+animeCharacters	['Panna', 'Nepo', 'Teemo', 'Pooba', 'Maya', 'Paya', 'Dontos', 'Napple', 'Popock', 'Lazoo']
+animeVoices	['Sendai, Eri', 'Katou, Emiri', 'Kakihara, Tetsuya', 'Izumi, Kumiko', 'Tanaka, Yuuko', 'Sakamoto, Chika']
+animeStaff	[['Kiso, Yukari', 'Producer'], ['Ooga, Shunji', 'Director'], ['Kawamata, Hiroshi', 'Director'], ['Takahashi, Natsuko', 'Script']]

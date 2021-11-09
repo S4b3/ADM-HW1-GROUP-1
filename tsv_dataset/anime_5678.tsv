@@ -1,5 +1,5 @@
-animeTitle	b'.hack//Tasogare no Udewa Densetsu'
-animeType	b'TV'
+animeTitle	.hack//Tasogare no Udewa Densetsu
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.58
 animeUsers	32266
 animeRank	
-animePopularity	
-animeDescription	"b'Winning the legendary characters ""Kite"" and ""Black Rose"" from an event held by the creators of the MMORPG ""The World,"" Shugo and his twin sister Rena steps into ""The World."" Together they completed events and quests, along with their new friends Ouka, Mirelle, Hotaru, and Sanjuro. Soon after, mysterious monsters appeared, and death by these monsters caused players to slip into a coma in the real world. Only Shugo and Rena can solve this problem, but why are they being targeted, and what secrets is the game hiding?\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'.hack//Tasogare no Udewa Densetsu', b'.hack//Sign', b'.hack//Gift', b'.hack//Tasogare no Udewa Densetsu: Offline de Aimashou', b'.hack//Roots', b'.hack//Quantum']
-animeCharacters	[b'Kunisaki, Rena', b'Kunisaki, Shugo', b'Balmung', b'Aura', b'Ouka', b'Mireille', b'Silver Knight', b'Hotaru', b'Reki', b'Sanjuro']
-animeVoices	[b'\nNakahara, Mai\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nKaida, Yuki\nJapanese\n', b'\nMatsuoka, Yuki\nJapanese\n', b'\nChiba, Isshin\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nMasutani, Yasunori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorimoto, Kouji\n\nProducer\n\n', b'\nSawai, Kouji\n\nDirector, Sound Director, Storyboard\n\n', b'\nMorioka, Hiroshi\n\nDirector\n\n', b'\nKajiura, Yuki\n\nTheme Song Composition\n\n']
+animePopularity	2203
+animeDescription	"Winning the legendary characters ""Kite"" and ""Black Rose"" from an event held by the creators of the MMORPG ""The World,"" Shugo and his twin sister Rena steps into ""The World."" Together they completed events and quests, along with their new friends Ouka, Mirelle, Hotaru, and Sanjuro. Soon after, mysterious monsters appeared, and death by these monsters caused players to slip into a coma in the real world. Only Shugo and Rena can solve this problem, but why are they being targeted, and what secrets is the game hiding?
+
+[Written by MAL Rewrite]"
+animeRelated	['.hack//Tasogare no Udewa Densetsu', '.hack//Sign', '.hack//Gift', '.hack//Tasogare no Udewa Densetsu: Offline de Aimashou', '.hack//Roots', '.hack//Quantum']
+animeCharacters	['Kunisaki, Rena', 'Kunisaki, Shugo', 'Balmung', 'Aura', 'Ouka', 'Mireille', 'Silver Knight', 'Hotaru', 'Reki', 'Sanjuro']
+animeVoices	['Nakahara, Mai', 'Minagawa, Junko', 'Hiyama, Nobuyuki', 'Sakamoto, Maaya', 'Kaida, Yuki', 'Matsuoka, Yuki', 'Chiba, Isshin', 'Kawasumi, Ayako', 'Hoshi, Souichirou', 'Masutani, Yasunori']
+animeStaff	[['Morimoto, Kouji', 'Producer'], ['Sawai, Kouji', 'Director, Sound Director, Storyboard'], ['Morioka, Hiroshi', 'Director'], ['Kajiura, Yuki', 'Theme Song Composition']]

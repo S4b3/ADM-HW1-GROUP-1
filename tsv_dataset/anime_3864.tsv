@@ -1,5 +1,5 @@
-animeTitle	b'Kinnikuman II Sei: Ultimate Muscle 2'
-animeType	b'TV'
+animeTitle	Kinnikuman II Sei: Ultimate Muscle 2
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.98
 animeUsers	2814
 animeRank	
-animePopularity	
-animeDescription	b'Mantaro has made it to the semifinal match of the Chojin Cup. He must now fight Ricardo in a soccer field to advance to the last match. Kevin Mask is also in the semifinals, and must defeat Ilioukhine in an aerial field to advance. These three matches will determine who wins the Chojin Cup.\n\n(Source: ANN)'
-animeRelated	[b'Kinnikuman II Sei: Ultimate Muscle']
-animeCharacters	[b'Kinniku, Mantarou', b'Terry the Kid', b'Alexandria Meat', b'Check Mate', b'Gazelleman', b'Nikaidou, Rinko', b'Seiuchin', b'Ilioukhine']
-animeVoices	[b'\nOnosaka, Masaya\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nYoshida, Konami\nJapanese\n', b'\nToochika, Kouichi\nJapanese\n', b'\nMasutani, Yasunori\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKomura, Toshiaki\n\nDirector, Episode Director\n\n', b'\nUeda, Yoshihiro\n\nEpisode Director\n\n', b'\nKoga, Gou\n\nEpisode Director\n\n', b'\nYudetamago\n\nOriginal Creator\n\n']
+animePopularity	6644
+animeDescription	"Mantaro has made it to the semifinal match of the Chojin Cup. He must now fight Ricardo in a soccer field to advance to the last match. Kevin Mask is also in the semifinals, and must defeat Ilioukhine in an aerial field to advance. These three matches will determine who wins the Chojin Cup.
+
+(Source: ANN)"
+animeRelated	['Kinnikuman II Sei: Ultimate Muscle']
+animeCharacters	['Kinniku, Mantarou', 'Terry the Kid', 'Alexandria Meat', 'Check Mate', 'Gazelleman', 'Nikaidou, Rinko', 'Seiuchin', 'Ilioukhine']
+animeVoices	['Onosaka, Masaya', 'Morikawa, Toshiyuki', 'Yoshida, Konami', 'Toochika, Kouichi', 'Masutani, Yasunori', 'Orikasa, Fumiko', 'Yamazaki, Takumi']
+animeStaff	[['Komura, Toshiaki', 'Director, Episode Director'], ['Ueda, Yoshihiro', 'Episode Director'], ['Koga, Gou', 'Episode Director'], ['Yudetamago', 'Original Creator']]

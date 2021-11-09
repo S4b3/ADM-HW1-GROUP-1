@@ -1,5 +1,5 @@
-animeTitle	b'Uchi no Oochopus'
-animeType	b'TV'
+animeTitle	Uchi no Oochopus
+animeType	TV
 animeNumEpisode	38
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The main character is the mysterious lifeform Oochopus. In the series, the Oochopus appears at the house of five-year-old Kantarou and three-year-old An-chan. Kantarou and An-chan accept the cute but somewhat irresponsible Oochopus as family.\n\n(Source: ANN)'
+animePopularity	15867
+animeDescription	"The main character is the mysterious lifeform Oochopus. In the series, the Oochopus appears at the house of five-year-old Kantarou and three-year-old An-chan. Kantarou and An-chan accept the cute but somewhat irresponsible Oochopus as family.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'An-chan', b'Kantarou', b'Oochopus', b'Yansu', b'Oppekepee', b'Yukiotoko', b'Aniki', b'Tonarin Chino Oba-chan', b'Papa', b'Tonarin Chino Oji-chan']
-animeVoices	[b'\nAsumi, Kana\nJapanese\n', b'\nYamamoto, Kazutomi\nJapanese\n', b'\nYuuki, Chisa\nJapanese\n', b'\nYamaguchi, Kiyohiro\nJapanese\n', b'\nShimura, Tomoyuki\nJapanese\n', b'\nMakihara, Chika\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nEchigoya, Kousuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAsai, Shingo\n\nStoryboard\n\n']
+animeCharacters	['An-chan', 'Kantarou', 'Oochopus', 'Yansu', 'Oppekepee', 'Yukiotoko', 'Aniki', 'Tonarin Chino Oba-chan', 'Papa', 'Tonarin Chino Oji-chan']
+animeVoices	['Asumi, Kana', 'Yamamoto, Kazutomi', 'Yuuki, Chisa', 'Yamaguchi, Kiyohiro', 'Shimura, Tomoyuki', 'Makihara, Chika', 'Takagi, Wataru', 'Echigoya, Kousuke']
+animeStaff	[['Asai, Shingo', 'Storyboard']]

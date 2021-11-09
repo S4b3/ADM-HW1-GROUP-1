@@ -1,5 +1,5 @@
-animeTitle	b'Futatsu no Spica'
-animeType	b'TV'
+animeTitle	Futatsu no Spica
+animeType	TV
 animeNumEpisode	20
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.36
 animeUsers	3306
 animeRank	
-animePopularity	
-animeDescription	"b'When Kamogawa Asumi was just a baby, her mother was grievously injured when a rocket crashed to the ground. Five years later, having been in a coma all the time, Asumi\'s mother finally dies, and the little girl struggles to come to terms with the death of a mother she barely remembers. In the midst of her turmoil, she meets ""Lion-san,"" a strange figure wearing a lion mask and claiming to be a ghost. Lion-san helps Asumi to bury her mother\'s ashes, and finally, Asumi reaches her own decision: ""When I grow up, I\'m going to be a rocket pilot.""\n\n(Source: ANN)'"
-animeRelated	[b'Futatsu no Spica']
-animeCharacters	[b'Lion-san', b'Kamogawa, Asumi', b'Ukita, Marika', b'Suzuki, Shuu', b'Oumi, Kei', b'Fuchuuya, Shinnosuke', b'Kamogawa, Kyouko', b'Suzunari, Yuuko', b'Suzunari, Father', b'Ooyama']
-animeVoices	[b'\nKoyasu, Takehito\nJapanese\n', b'\nYajima, Akiko\nJapanese\n', b'\nKimura, Akiko\nJapanese\n', b'\nKaida, Yuki\nJapanese\n', b'\nOno, Fuyuka\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nKasahara, Hiroko\nJapanese\n', b'\nMizuno, Risa\nJapanese\n', b'\nKashii, Shouto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMochizuki, Tomomi\n\nDirector, Episode Director, Script, Storyboard, Series Composition\n\n', b'\nGouda, Hozumi\n\nSound Director\n\n', b'\nOonuma, Shin\n\nEpisode Director\n\n', b'\nYamamoto, Yuusuke\n\nEpisode Director, Storyboard\n\n']
+animePopularity	5464
+animeDescription	"When Kamogawa Asumi was just a baby, her mother was grievously injured when a rocket crashed to the ground. Five years later, having been in a coma all the time, Asumi's mother finally dies, and the little girl struggles to come to terms with the death of a mother she barely remembers. In the midst of her turmoil, she meets ""Lion-san,"" a strange figure wearing a lion mask and claiming to be a ghost. Lion-san helps Asumi to bury her mother's ashes, and finally, Asumi reaches her own decision: ""When I grow up, I'm going to be a rocket pilot.""
+
+(Source: ANN)"
+animeRelated	['Futatsu no Spica']
+animeCharacters	['Lion-san', 'Kamogawa, Asumi', 'Ukita, Marika', 'Suzuki, Shuu', 'Oumi, Kei', 'Fuchuuya, Shinnosuke', 'Kamogawa, Kyouko', 'Suzunari, Yuuko', 'Suzunari, Father', 'Ooyama']
+animeVoices	['Koyasu, Takehito', 'Yajima, Akiko', 'Kimura, Akiko', 'Kaida, Yuki', 'Ono, Fuyuka', 'Toyonaga, Toshiyuki', 'Kasahara, Hiroko', 'Mizuno, Risa', 'Kashii, Shouto']
+animeStaff	[['Mochizuki, Tomomi', 'Director, Episode Director, Script, Storyboard, Series Composition'], ['Gouda, Hozumi', 'Sound Director'], ['Oonuma, Shin', 'Episode Director'], ['Yamamoto, Yuusuke', 'Episode Director, Storyboard']]

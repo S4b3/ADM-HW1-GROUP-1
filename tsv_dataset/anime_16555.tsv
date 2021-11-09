@@ -1,5 +1,5 @@
-animeTitle	b'Kamiarizuki no Kodomo'
-animeType	b'Movie'
+animeTitle	Kamiarizuki no Kodomo
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'This is a story of a 12-year-old girl, Kanna, born as a descendant of the Gods. Her family has a mission to deliver offerings from all over Japan to the Gods\xe2\x80\x99 gathering in Izumo. Although Kanna\xe2\x80\x99s mother was to complete the mission, her passing prompted Kanna to finish the task, hoping she could reunite with her dead mother in the Gods\xe2\x80\x99 land at the end of her journey.\n\n(Source: Anime Expo)'
+animePopularity	6921
+animeDescription	"This is a story of a 12-year-old girl, Kanna, born as a descendant of the Gods. Her family has a mission to deliver offerings from all over Japan to the Gods’ gathering in Izumo. Although Kanna’s mother was to complete the mission, her passing prompted Kanna to finish the task, hoping she could reunite with her dead mother in the Gods’ land at the end of her journey.
+
+(Source: Anime Expo)"
 animeRelated	[]
-animeCharacters	[b'Yasha', b'Shiro', b'Hayama, Kanna', b'Ookuninushi', b'Ryuujin', b'Miki', b'Hayama, Yayoi', b'Hayama, Norimasa', b'Ebisu']
-animeVoices	[b'\nIrino, Miyu\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nMakita, Aju\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nNagase, Riko\nJapanese\n', b'\nShibasaki, Kou\nJapanese\n', b'\nIura, Arata\nJapanese\n', b'\nChafurin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nMochizuki, Tomomi\n\nStoryboard\n\n', b'\nSakamoto, Kazuya\n\nStoryboard\n\n', b'\nShirai, Takana\n\nStoryboard\n\n']
+animeCharacters	['Yasha', 'Shiro', 'Hayama, Kanna', 'Ookuninushi', 'Ryuujin', 'Miki', 'Hayama, Yayoi', 'Hayama, Norimasa', 'Ebisu']
+animeVoices	['Irino, Miyu', 'Sakamoto, Maaya', 'Makita, Aju', 'Kamiya, Akira', 'Takagi, Wataru', 'Nagase, Riko', 'Shibasaki, Kou', 'Iura, Arata', 'Chafurin']
+animeStaff	[['Iwanami, Yoshikazu', 'Sound Director'], ['Mochizuki, Tomomi', 'Storyboard'], ['Sakamoto, Kazuya', 'Storyboard'], ['Shirai, Takana', 'Storyboard']]

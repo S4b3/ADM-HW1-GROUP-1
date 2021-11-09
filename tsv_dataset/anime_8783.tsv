@@ -1,5 +1,5 @@
-animeTitle	b'Fate/Zero Cafe'
-animeType	b'Movie'
+animeTitle	Fate/Zero Cafe
+animeType	Movie
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.97
 animeUsers	3736
 animeRank	
-animePopularity	
-animeDescription	b'The story re-imagines the cast of the Fate/Zero as cute super-deformed characters who open a caf\xc3\xa9, led by Saber as the manager.\n\n(Source: ANN)'
-animeRelated	[b'Fate/Zero']
-animeCharacters	[b'Saber', b'Lancer', b'Velvet, Waver', b'Uryuu, Ryuunosuke', b'Assassin', b'Gilgamesh', b'Rider', b'von Einzbern, Irisviel', b'Caster', b'El-Melloi Archibald, Kayneth']
+animePopularity	4070
+animeDescription	"The story re-imagines the cast of the Fate/Zero as cute super-deformed characters who open a café, led by Saber as the manager.
+
+(Source: ANN)"
+animeRelated	['Fate/Zero']
+animeCharacters	['Saber', 'Lancer', 'Velvet, Waver', 'Uryuu, Ryuunosuke', 'Assassin', 'Gilgamesh', 'Rider', 'von Einzbern, Irisviel', 'Caster', 'El-Melloi Archibald, Kayneth']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nType-Moon\n\nOriginal Creator\n\n']
+animeStaff	[['Type-Moon', 'Original Creator']]

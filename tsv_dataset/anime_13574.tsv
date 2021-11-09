@@ -1,5 +1,5 @@
-animeTitle	b'Sugar Bunnies'
-animeType	b'TV'
+animeTitle	Sugar Bunnies
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Random cutesy edutainment tales aimed at small children, featuring animated speaking plushy toys.\n\nAired inside the anime corner of the Kitty's Paradise TV block."""
-animeRelated	[b'Sugar Bunnies: Taisetsu na Tomodachi e...']
-animeCharacters	[b'Usa, Shiro', b'Usa, Kuro', b'Cherbourg, Sophia', b'Jeunet, Pierre', b'Usa, Mint', b'Usa, Cappucino', b'Dupont, Francoise', b'Usa, Strawberry', b'Usa, Komugi', b'Usa, Blueberry']
-animeVoices	[b'\nHorie, Yui\nJapanese\n', b'\nKimura, Akiko\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nMasuda, Yuki\nJapanese\n', b'\nSasamoto, Yuuko\nJapanese\n', b'\nYurin\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAsami, Matsuo\n\nEpisode Director\n\n', b'\nTsuji, Shintarou\n\nExecutive Producer\n\n']
+animePopularity	11867
+animeDescription	"Random cutesy edutainment tales aimed at small children, featuring animated speaking plushy toys.
+
+Aired inside the anime corner of the Kitty's Paradise TV block."
+animeRelated	['Sugar Bunnies: Taisetsu na Tomodachi e...']
+animeCharacters	['Usa, Shiro', 'Usa, Kuro', 'Cherbourg, Sophia', 'Jeunet, Pierre', 'Usa, Mint', 'Usa, Cappucino', 'Dupont, Francoise', 'Usa, Strawberry', 'Usa, Komugi', 'Usa, Blueberry']
+animeVoices	['Horie, Yui', 'Kimura, Akiko', 'Ueda, Kana', 'Masuda, Yuki', 'Sasamoto, Yuuko', 'Yurin', 'Kakazu, Yumi']
+animeStaff	[['Asami, Matsuo', 'Episode Director'], ['Tsuji, Shintarou', 'Executive Producer']]

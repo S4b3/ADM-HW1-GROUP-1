@@ -1,5 +1,5 @@
-animeTitle	b'Tsunpri'
-animeType	b'OVA'
+animeTitle	Tsunpri
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.03
 animeUsers	2998
 animeRank	
-animePopularity	
-animeDescription	"b'This story is divided into 2 parts:\n\nThe first focuses on Diana, who is in charge of ""rewarding"" a knight for her bravery and protecting the royal family, while the second focuses on Reiana, after a dangerous battle in which she considerably risked her life, she is in charge of visiting this same gentleman who saved her life, and by chance of fate, they end up being more united than ever.'"
-animeRelated	[b'Tsunpri: Aishite Ohimesama']
-animeCharacters	[b'Reiana', b'Diana']
+animePopularity	5928
+animeDescription	"This story is divided into 2 parts:
+
+The first focuses on Diana, who is in charge of ""rewarding"" a knight for her bravery and protecting the royal family, while the second focuses on Reiana, after a dangerous battle in which she considerably risked her life, she is in charge of visiting this same gentleman who saved her life, and by chance of fate, they end up being more united than ever."
+animeRelated	['Tsunpri: Aishite Ohimesama']
+animeCharacters	['Reiana', 'Diana']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKaneko, Hiraku\n\nDirector\n\n', b'\nBuriki\n\nOriginal Character Design\n\n', b'\nAyanokouji, Reika\n\nColor Design\n\n', b'\nKanzaki, Misora\n\nOriginal Creator\n\n']
+animeStaff	[['Kaneko, Hiraku', 'Director'], ['Buriki', 'Original Character Design'], ['Ayanokouji, Reika', 'Color Design'], ['Kanzaki, Misora', 'Original Creator']]

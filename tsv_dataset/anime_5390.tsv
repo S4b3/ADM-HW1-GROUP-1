@@ -1,5 +1,5 @@
-animeTitle	b'Medarot Damashii'
-animeType	b'TV'
+animeTitle	Medarot Damashii
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.64
 animeUsers	8644
 animeRank	
-animePopularity	
-animeDescription	b'The sequel to the famous Medabots series, following the continuing adventures of Ikki and Metabee. The two encountered a strange enemy named Jinkai and the so called Death Medabots. Along with Nae and Erica, they will defeat Jinkai and the Death Medabots.'
-animeRelated	[b'Medarot']
-animeCharacters	[b'Metabee', b'Tenryou, Ikki', b'Kikuhime', b'Amazake, Arika', b'Peppercat', b'Iwanoi', b'Akibahara, Nae', b'Cyandog', b'Keithturtle', b'Brass']
-animeVoices	[b'\nYamazaki, Michiru\nJapanese\n', b'\nMizuno, Risa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nArakawa, Masatsugu\n\nDirector\n\n', b'\nTakashima, Daisuke\n\nEpisode Director\n\n', b'\nFuseki, Kazunobu\n\nEpisode Director, Storyboard\n\n', b'\nHamana, Takayuki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	4273
+animeDescription	The sequel to the famous Medabots series, following the continuing adventures of Ikki and Metabee. The two encountered a strange enemy named Jinkai and the so called Death Medabots. Along with Nae and Erica, they will defeat Jinkai and the Death Medabots.
+animeRelated	['Medarot']
+animeCharacters	['Metabee', 'Tenryou, Ikki', 'Kikuhime', 'Amazake, Arika', 'Peppercat', 'Iwanoi', 'Akibahara, Nae', 'Cyandog', 'Keithturtle', 'Brass']
+animeVoices	['Yamazaki, Michiru', 'Mizuno, Risa']
+animeStaff	[['Arakawa, Masatsugu', 'Director'], ['Takashima, Daisuke', 'Episode Director'], ['Fuseki, Kazunobu', 'Episode Director, Storyboard'], ['Hamana, Takayuki', 'Episode Director, Storyboard']]

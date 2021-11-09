@@ -1,5 +1,5 @@
-animeTitle	b'Ogenki Clinic'
-animeType	b'OVA'
+animeTitle	Ogenki Clinic
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.78
 animeUsers	828
 animeRank	
-animePopularity	
-animeDescription	b'Whatever problem a patient may have with sex, the wacky Dr. Okeguri and his sexy nurse, Ruko, are here to help! Using a variety of unconventional methods and an extremely affectionate bedside manner, this team is devoted to bringing pleasure to those in pain and joy to those in despair. \n\n(Source: AniDB)'
-animeRelated	[b'Ogenki Clinic']
-animeCharacters	[b'Ruko', b'Ogenki , Dr. Tuaro', b'Queen, Katty', b'Sachiko', b'Shoko', b'Melon, Dianna']
-animeVoices	[b'\nInoue, Kikuko\nJapanese\n', b'\nKida, Ayumi\nJapanese\n', b'\nTakano, Urara\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Takashi\n\nDirector\n\n', b'\nRoullier, Philippe\n\nADR Director\n\n']
+animePopularity	9043
+animeDescription	"Whatever problem a patient may have with sex, the wacky Dr. Okeguri and his sexy nurse, Ruko, are here to help! Using a variety of unconventional methods and an extremely affectionate bedside manner, this team is devoted to bringing pleasure to those in pain and joy to those in despair. 
+
+(Source: AniDB)"
+animeRelated	['Ogenki Clinic']
+animeCharacters	['Ruko', 'Ogenki , Dr. Tuaro', 'Queen, Katty', 'Sachiko', 'Shoko', 'Melon, Dianna']
+animeVoices	['Inoue, Kikuko', 'Kida, Ayumi', 'Takano, Urara']
+animeStaff	[['Watanabe, Takashi', 'Director'], ['Roullier, Philippe', 'ADR Director']]

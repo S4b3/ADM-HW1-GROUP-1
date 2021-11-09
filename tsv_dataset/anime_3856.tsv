@@ -1,5 +1,5 @@
-animeTitle	b'Gravitation'
-animeType	b'TV'
+animeTitle	Gravitation
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.98
 animeUsers	58075
 animeRank	
-animePopularity	
-animeDescription	"b'All Shuichi ever dreamed about was following in the footsteps of his pop idol, Ryuichi Sakuma and the band Nittle Grasper. Together with his best friend Hiro, Shuichi\'s formed a band called Bad Luck and they\'ve even managed to get signed to a major recording label! Unfortunately, the studio deadlines are looming and Shuichi still hasn\'t finished the lyrics for any of the songs. What he needs is a little inspiration... but he\'s been running a little low in that department lately. While Hiro recommends finding a girlfriend, fate has other things in store for him...\n\nWalking through the park late one night, Shuichi\'s latest lyrics flutter away and land at the feet of a stunning stranger that takes his breath away. Unfortunately, that mysterious stranger happens to be the famous novelist Eiri Yuki, who completely crushes the young singer by telling him he has ""zero talent"". Now, Shuichi\'s so annoyed that he\'s managed to finish his song just so he can find and confront Yuki once again. But, are his actions really motivated by anger, or has he actually fallen in love? \n\n(Source: RightStuf)'"
-animeRelated	[b'Gravitation', b'Gravitation: Lyrics of Love']
-animeCharacters	[b'Yuki, Eiri', b'Shindou, Shuuichi', b'Nakano, Hiroshi', b'Seguchi, Tohma', b'Sakuma, Ryuuichi', b'Winchester, Claude', b'Uesugi, Tatsuha', b'Fujisaki, Suguru', b'Sakano', b'Seguchi, Mika']
-animeVoices	[b'\nInoue, Kazuhiko\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nOrikasa, Ai\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nIshikawa, Hideo\nJapanese\n', b'\nTakimoto, Fujiko\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShirahata, Nobuo\n\nDirector, Storyboard\n\n', b'\nSayama, Kiyoko\n\nEpisode Director, Storyboard\n\n', b'\nYokote, Michiko\n\nScript, 2nd Key Animation, Series Composition\n\n', b'\nOmode, Akemi\n\nScript\n\n']
+animePopularity	1510
+animeDescription	"All Shuichi ever dreamed about was following in the footsteps of his pop idol, Ryuichi Sakuma and the band Nittle Grasper. Together with his best friend Hiro, Shuichi's formed a band called Bad Luck and they've even managed to get signed to a major recording label! Unfortunately, the studio deadlines are looming and Shuichi still hasn't finished the lyrics for any of the songs. What he needs is a little inspiration... but he's been running a little low in that department lately. While Hiro recommends finding a girlfriend, fate has other things in store for him...
+
+Walking through the park late one night, Shuichi's latest lyrics flutter away and land at the feet of a stunning stranger that takes his breath away. Unfortunately, that mysterious stranger happens to be the famous novelist Eiri Yuki, who completely crushes the young singer by telling him he has ""zero talent"". Now, Shuichi's so annoyed that he's managed to finish his song just so he can find and confront Yuki once again. But, are his actions really motivated by anger, or has he actually fallen in love? 
+
+(Source: RightStuf)"
+animeRelated	['Gravitation', 'Gravitation: Lyrics of Love']
+animeCharacters	['Yuki, Eiri', 'Shindou, Shuuichi', 'Nakano, Hiroshi', 'Seguchi, Tohma', 'Sakuma, Ryuuichi', 'Winchester, Claude', 'Uesugi, Tatsuha', 'Fujisaki, Suguru', 'Sakano', 'Seguchi, Mika']
+animeVoices	['Inoue, Kazuhiko', 'Seki, Tomokazu', 'Matsumoto, Yasunori', 'Orikasa, Ai', 'Yamaguchi, Kappei', 'Okiayu, Ryoutarou', 'Ishikawa, Hideo', 'Takimoto, Fujiko', 'Koyasu, Takehito', 'Tsuru, Hiromi']
+animeStaff	[['Shirahata, Nobuo', 'Director, Storyboard'], ['Sayama, Kiyoko', 'Episode Director, Storyboard'], ['Yokote, Michiko', 'Script, 2nd Key Animation, Series Composition'], ['Omode, Akemi', 'Script']]

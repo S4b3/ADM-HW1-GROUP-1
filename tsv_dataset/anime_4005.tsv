@@ -1,5 +1,5 @@
-animeTitle	b'Aldnoah.Zero 2nd Season'
-animeType	b'TV'
+animeTitle	Aldnoah.Zero 2nd Season
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.94
 animeUsers	171888
 animeRank	
-animePopularity	
-animeDescription	"b'The war between the Terrans and the Vers Empire of Mars has ended, allowing humanity to blissfully enjoy their lives in a time of peace. Nineteen months later, however, the Vers princess makes a shocking public declaration: ""the Terrans are a foolish race that covets resources, destroys nature, and are devoted to the pursuit of pleasure."" And so, to protect their precious Earth, she calls upon her knights to take up arms, and the raging battle between the two civilizations reignites.\n\nSlaine Troyard has found a place among the Martians, giving Earth a short respite from the war against the Vers Empire. However, a peaceful resolution seems inconceivable. The various people who fought desperately for survival in the past now find themselves in the midst of yet another bloody and chaotic conflict, one that will forever alter the fate of humankind.\n\n[Written by MAL Rewrite]\n'"
-animeRelated	[b'Aldnoah.Zero 2nd Season', b'Aldnoah.Zero']
-animeCharacters	[b'Kaizuka, Inaho', b'Troyard, Slaine', b'Vers Allusia, Asseylum', b'Amifumi, Inko', b'Kaizuka, Yuki', b'Areash, Rayet', b'Marito, Kouichirou', b'Vers Envers, Lemrina', b'Magbaredge, Darzana', b'Saazbaum']
-animeVoices	[b'\nHanae, Natsuki\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nAmamiya, Sora\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nMisawa, Sachika\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nNatsukawa, Shiina\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKurosaki, Shizuka\n\nProducer\n\n', b'\nAoki, Ei\n\nDirector, Episode Director, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nKatou, Makoto\n\nEpisode Director, Storyboard\n\n']
+animePopularity	610
+animeDescription	"The war between the Terrans and the Vers Empire of Mars has ended, allowing humanity to blissfully enjoy their lives in a time of peace. Nineteen months later, however, the Vers princess makes a shocking public declaration: ""the Terrans are a foolish race that covets resources, destroys nature, and are devoted to the pursuit of pleasure."" And so, to protect their precious Earth, she calls upon her knights to take up arms, and the raging battle between the two civilizations reignites.
+
+Slaine Troyard has found a place among the Martians, giving Earth a short respite from the war against the Vers Empire. However, a peaceful resolution seems inconceivable. The various people who fought desperately for survival in the past now find themselves in the midst of yet another bloody and chaotic conflict, one that will forever alter the fate of humankind.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Aldnoah.Zero 2nd Season', 'Aldnoah.Zero']
+animeCharacters	['Kaizuka, Inaho', 'Troyard, Slaine', 'Vers Allusia, Asseylum', 'Amifumi, Inko', 'Kaizuka, Yuki', 'Areash, Rayet', 'Marito, Kouichirou', 'Vers Envers, Lemrina', 'Magbaredge, Darzana', 'Saazbaum']
+animeVoices	['Hanae, Natsuki', 'Ono, Kensho', 'Amamiya, Sora', 'Komatsu, Mikako', 'Ohara, Sayaka', 'Misawa, Sachika', 'Nakai, Kazuya', 'Natsukawa, Shiina', 'Kayano, Ai', 'Ookawa, Tooru']
+animeStaff	[['Kurosaki, Shizuka', 'Producer'], ['Aoki, Ei', 'Director, Episode Director, Storyboard'], ['Aketagawa, Jin', 'Sound Director'], ['Katou, Makoto', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Business Fish'
-animeType	b'TV'
+animeTitle	Business Fish
+animeType	TV
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.62
 animeUsers	320
 animeRank	
-animePopularity	
-animeDescription	b'The anime features characters with human bodies and fish heads as office workers at an IT firm.'
+animePopularity	8156
+animeDescription	The anime features characters with human bodies and fish heads as office workers at an IT firm.
 animeRelated	[]
-animeCharacters	[b'Uowaki, Tai', b'Ise, Ebika', b'Takoyama, Hachio', b'Umino, Fudou', b'Otohime, Mai']
+animeCharacters	['Uowaki, Tai', 'Ise, Ebika', 'Takoyama, Hachio', 'Umino, Fudou', 'Otohime, Mai']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nFunada, Akira\n\nProducer\n\n', b'\nSumida, Takashi\n\nDirector\n\n']
+animeStaff	[['Funada, Akira', 'Producer'], ['Sumida, Takashi', 'Director']]

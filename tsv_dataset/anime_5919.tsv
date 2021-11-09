@@ -1,5 +1,5 @@
-animeTitle	b'Honto ni Atta! Reibai Sensei'
-animeType	b'TV'
+animeTitle	Honto ni Atta! Reibai Sensei
+animeType	TV
 animeNumEpisode	22
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.54
 animeUsers	2240
 animeRank	
-animePopularity	
-animeDescription	b'The story revolves around Kibayashi, a teacher whose hobby is speaking with the dead and whose special talent is exorcism. She seems to know everything about the other world, yet nothing about our own.\n\n(Source: AniDB)'
-animeRelated	[b'Honto ni Atta! Reibai Sensei', b'Pair']
-animeCharacters	[b'Kibayashi, Juri', b'Yoshii, Akiko', b'Nitta, Eri', b'Kuroneko', b'Kame-chan', b'Assistant Principal', b'Marujolene', b'Nagara-sensei', b'Kanako', b'Romeo']
-animeVoices	[b'\nMizuhara, Kaoru\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nKatou, Emiri\nJapanese\n', b'\nOno, Yuuki\nJapanese\n', b'\nFuchigami, Mai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTani, Azuma\n\nDirector, Screenplay\n\n', b'\nUmoto, Yuuji\n\nEpisode Director\n\n', b'\nMatsumoto, Hidekichi\n\nOriginal Creator\n\n']
+animePopularity	6072
+animeDescription	"The story revolves around Kibayashi, a teacher whose hobby is speaking with the dead and whose special talent is exorcism. She seems to know everything about the other world, yet nothing about our own.
+
+(Source: AniDB)"
+animeRelated	['Honto ni Atta! Reibai Sensei', 'Pair']
+animeCharacters	['Kibayashi, Juri', 'Yoshii, Akiko', 'Nitta, Eri', 'Kuroneko', 'Kame-chan', 'Assistant Principal', 'Marujolene', 'Nagara-sensei', 'Kanako', 'Romeo']
+animeVoices	['Mizuhara, Kaoru', 'Matsuki, Miyu', 'Katou, Emiri', 'Ono, Yuuki', 'Fuchigami, Mai']
+animeStaff	[['Tani, Azuma', 'Director, Screenplay'], ['Umoto, Yuuji', 'Episode Director'], ['Matsumoto, Hidekichi', 'Original Creator']]

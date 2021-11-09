@@ -1,5 +1,5 @@
-animeTitle	b'Zegapain'
-animeType	b'TV'
+animeTitle	Zegapain
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.32
 animeUsers	9536
 animeRank	
-animePopularity	
-animeDescription	"b""Average high school student Kyou Sogoru is an avid swimmer living in beautiful Maihama City. He spends his days hanging out with friends, swimming, and playing video games. However, his normal life turns upside down when a beautiful and mysterious girl named Shizuno Misaki approaches him with a strange request\xe2\x80\x94jump into their school's pool together.\n\nThis fateful leap transports Kyou into a war-torn world where humans pilot impressive humanoid robots known as Zegas to fight against malicious aliens known as Gards-Orm. To spearhead this endeavor, humans have formed Cerebrum, a rebel organization working to prevent the Gards-Orm from eradicating humankind.\n\nAs Kyou participates in combat operations, meets his fellow Zega pilots, and witnesses countless deaths, he begins to question the true nature of this world as well as his own life.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Zegapain ADP']
-animeCharacters	[b'Kaminagi, Ryouko', b'Sogoru, Kyou', b'Misaki, Shizuno', b'Minato', b'Mao, Lu Sheng', b'Abyss', b'Kaminagi, Kouji', b'Tomigai, Kei', b'Avenir, Chris', b'Toya, Hayase']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nAsanuma, Shintaro\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nKatou, Masayuki\nJapanese\n', b'\nOotsuda, Hiromi\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nYanaka, Hiroshi\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImanishi, Takashi\n\nProducer\n\n', b'\nYamakawa, Norio\n\nProducer\n\n', b'\nShimoda, Masami\n\nDirector, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n']
+animePopularity	3222
+animeDescription	"Average high school student Kyou Sogoru is an avid swimmer living in beautiful Maihama City. He spends his days hanging out with friends, swimming, and playing video games. However, his normal life turns upside down when a beautiful and mysterious girl named Shizuno Misaki approaches him with a strange request—jump into their school's pool together.
+
+This fateful leap transports Kyou into a war-torn world where humans pilot impressive humanoid robots known as Zegas to fight against malicious aliens known as Gards-Orm. To spearhead this endeavor, humans have formed Cerebrum, a rebel organization working to prevent the Gards-Orm from eradicating humankind.
+
+As Kyou participates in combat operations, meets his fellow Zega pilots, and witnesses countless deaths, he begins to question the true nature of this world as well as his own life.
+
+[Written by MAL Rewrite]"
+animeRelated	['Zegapain ADP']
+animeCharacters	['Kaminagi, Ryouko', 'Sogoru, Kyou', 'Misaki, Shizuno', 'Minato', 'Mao, Lu Sheng', 'Abyss', 'Kaminagi, Kouji', 'Tomigai, Kei', 'Avenir, Chris', 'Toya, Hayase']
+animeVoices	['Hanazawa, Kana', 'Asanuma, Shintaro', 'Kawasumi, Ayako', 'Inoue, Marina', 'Park, Romi', 'Katou, Masayuki', 'Ootsuda, Hiromi', 'Watanabe, Akeno', 'Yanaka, Hiroshi', 'Kamiya, Hiroshi']
+animeStaff	[['Imanishi, Takashi', 'Producer'], ['Yamakawa, Norio', 'Producer'], ['Shimoda, Masami', 'Director, Storyboard'], ['Aketagawa, Jin', 'Sound Director']]

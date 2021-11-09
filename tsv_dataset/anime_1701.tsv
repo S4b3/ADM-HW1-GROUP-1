@@ -1,5 +1,5 @@
-animeTitle	b'Momoko, Kaeru no Uta ga Kikoeru yo.'
-animeType	b'Movie'
+animeTitle	Momoko, Kaeru no Uta ga Kikoeru yo.
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.47
 animeUsers	1106
 animeRank	
-animePopularity	
-animeDescription	"b'Momoko, who attends a special school, is both mentally and physically disabled. Every morning she becomes peevish because she can\'t go to the ordinary school with her twin brother Riki. Her family soothes Momoko by singing her favorite song ""The Song of Frogs.""\n\nOne day, Momoko shouts encouragement to Riki who\'s playing dodgeball at an open classroom day and Riki\'s team wins the game. Ryuji, whose team lost the game, is not impressed and demands that Riki stop bringing his \'idiot sister\' to school. Riki totally loses control and hits Ryuji with all his might.\n\nThe following year, an experiment in integrated education is implemented and Momoko begins to attend Riki\'s school. Unfortunately, her physical condition takes a turn for the worse and she\'s sent to a hospital. Riki and all her classmates want to cheer her up and they set a goal of winning a relay race so that they would be able to tell Momoko the good news. Meanwhile, the fastest sprinter, Ryuichi, insists that he won\'t be taking part in the race.\n\n(Source: Eleven Arts)'"
+animePopularity	8028
+animeDescription	"Momoko, who attends a special school, is both mentally and physically disabled. Every morning she becomes peevish because she can't go to the ordinary school with her twin brother Riki. Her family soothes Momoko by singing her favorite song ""The Song of Frogs.""
+
+One day, Momoko shouts encouragement to Riki who's playing dodgeball at an open classroom day and Riki's team wins the game. Ryuji, whose team lost the game, is not impressed and demands that Riki stop bringing his 'idiot sister' to school. Riki totally loses control and hits Ryuji with all his might.
+
+The following year, an experiment in integrated education is implemented and Momoko begins to attend Riki's school. Unfortunately, her physical condition takes a turn for the worse and she's sent to a hospital. Riki and all her classmates want to cheer her up and they set a goal of winning a relay race so that they would be able to tell Momoko the good news. Meanwhile, the fastest sprinter, Ryuichi, insists that he won't be taking part in the race.
+
+(Source: Eleven Arts)"
 animeRelated	[]
-animeCharacters	"[b'Kuramoto, Momoko', b'Kuramoto, Riki', b'Kuroki', b'Reiko', b""Seiji's mother"", b'Yoshida, Kenta', b'School Principal', b'Kuramoto, Masayuki', b'Kita, Kouichi', b'Kita, Ryuuji']"
-animeVoices	[b'\nMamiya, Kurumi\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nItou, Kentarou\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nKouda, Kaho\nJapanese\n', b'\nKimura, Masafumi\nJapanese\n', b'\nYamanoi, Jin\nJapanese\n', b'\nUchida, Naoya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShibuichi, Setsuko\n\nDirector, Storyboard, Character Design\n\n', b'\nShimizu, Katsunori\n\nSound Director\n\n', b'\nSuenaga, Mitsuyo\n\nScript\n\n', b'\nOshima, Michiru\n\nMusic\n\n']
+animeCharacters	"['Kuramoto, Momoko', 'Kuramoto, Riki', 'Kuroki', 'Reiko', ""Seiji's mother"", 'Yoshida, Kenta', 'School Principal', 'Kuramoto, Masayuki', 'Kita, Kouichi', 'Kita, Ryuuji']"
+animeVoices	['Mamiya, Kurumi', 'Uchiyama, Kouki', 'Itou, Kentarou', 'Mizutani, Yuuko', 'Kouda, Kaho', 'Kimura, Masafumi', 'Yamanoi, Jin', 'Uchida, Naoya']
+animeStaff	[['Shibuichi, Setsuko', 'Director, Storyboard, Character Design'], ['Shimizu, Katsunori', 'Sound Director'], ['Suenaga, Mitsuyo', 'Script'], ['Oshima, Michiru', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Cardcaptor Sakura: Kero-chan ni Omakase!'
-animeType	b'Movie'
+animeTitle	Cardcaptor Sakura: Kero-chan ni Omakase!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.33
 animeUsers	14944
 animeRank	
-animePopularity	
-animeDescription	"b'Following the events of Cardcaptor Sakura Movie 2: The Sealed Card, Kero and Spinel share a plate of takoyaki (octopus balls). They get into a fight over who gets the last piece, and in the process send it flying out the window. They both chase the takoyaki, and each other, in a mighty effort to be the ""takoyaki captor"".\n\n(Source: ANN)'"
-animeRelated	[b'Cardcaptor Sakura', b'Cardcaptor Sakura Movie 2: Fuuin Sareta Card']
-animeCharacters	[b'Keroberos', b'Spinel Sun', b'Kinomoto, Sakura', b'Li, Shaoran', b'Daidouji, Tomoyo', b'Li, Meiling', b'Hiiragizawa, Eriol']
-animeVoices	[b'\nHisakawa, Aya\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nTange, Sakura\nJapanese\n', b'\nKumai, Motoko\nJapanese\n', b'\nIwao, Junko\nJapanese\n', b'\nYukana\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKojima, Masayuki\n\nDirector, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nHisakawa, Aya\n\nTheme Song Performance, Theme Song Lyrics\n\n', b'\nNegishi, Takayuki\n\nTheme Song Arrangement, Theme Song Composition, Music\n\n']
+animePopularity	3333
+animeDescription	"Following the events of Cardcaptor Sakura Movie 2: The Sealed Card, Kero and Spinel share a plate of takoyaki (octopus balls). They get into a fight over who gets the last piece, and in the process send it flying out the window. They both chase the takoyaki, and each other, in a mighty effort to be the ""takoyaki captor"".
+
+(Source: ANN)"
+animeRelated	['Cardcaptor Sakura', 'Cardcaptor Sakura Movie 2: Fuuin Sareta Card']
+animeCharacters	['Keroberos', 'Spinel Sun', 'Kinomoto, Sakura', 'Li, Shaoran', 'Daidouji, Tomoyo', 'Li, Meiling', 'Hiiragizawa, Eriol']
+animeVoices	['Hisakawa, Aya', 'Konishi, Katsuyuki', 'Tange, Sakura', 'Kumai, Motoko', 'Iwao, Junko', 'Yukana', 'Sasaki, Nozomu']
+animeStaff	[['Kojima, Masayuki', 'Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Hisakawa, Aya', 'Theme Song Performance, Theme Song Lyrics'], ['Negishi, Takayuki', 'Theme Song Arrangement, Theme Song Composition, Music']]

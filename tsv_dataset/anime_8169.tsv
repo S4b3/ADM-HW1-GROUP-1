@@ -1,5 +1,5 @@
-animeTitle	b'Machine Hayabusa'
-animeType	b'TV'
+animeTitle	Machine Hayabusa
+animeType	TV
 animeNumEpisode	21
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.1
 animeUsers	157
 animeRank	
-animePopularity	
-animeDescription	b'Because of the appearance of a villain team, Black Shadow, the international racing was ruined. To compete with Black Shadow, Saionji Racing Team was founded. They developed a racing car, Hayabusa. It was a super racing machine that carries hyper power engine, Cavalier Engine. The main driver of the team was Hayabusa Ken whose big brother was killed by Black Shadow.\n\n(Source: AnimeNfo)'
+animePopularity	11826
+animeDescription	"Because of the appearance of a villain team, Black Shadow, the international racing was ruined. To compete with Black Shadow, Saionji Racing Team was founded. They developed a racing car, Hayabusa. It was a super racing machine that carries hyper power engine, Cavalier Engine. The main driver of the team was Hayabusa Ken whose big brother was killed by Black Shadow.
+
+(Source: AnimeNfo)"
 animeRelated	[]
-animeCharacters	[b'Hayabusa, Ken', b'Dr. Saionji', b'Mutsu, Gorou', b'Saionji, Sakura', b'Kamikaze, Hiroshi', b'Iwata, Tetsuo', b'Yamato, Shingo']
-animeVoices	[b'\nSogabe, Kazuyuki\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nOotake, Hiroshi\nJapanese\n', b'\nYoshida, Rihoko\nJapanese\n', b'\nYamamoto, Keiko\nJapanese\n', b'\nMizutori, Tetsuo\nJapanese\n', b'\nYada, Kouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkuda, Seiji\n\nEpisode Director\n\n', b'\nOkazaki, Minoru\n\nEpisode Director\n\n', b'\nMorishita, Kouzou\n\nEpisode Director\n\n', b'\nMizuki, Ichirou\n\nTheme Song Performance\n\n']
+animeCharacters	['Hayabusa, Ken', 'Dr. Saionji', 'Mutsu, Gorou', 'Saionji, Sakura', 'Kamikaze, Hiroshi', 'Iwata, Tetsuo', 'Yamato, Shingo']
+animeVoices	['Sogabe, Kazuyuki', 'Nagai, Ichiro', 'Ootake, Hiroshi', 'Yoshida, Rihoko', 'Yamamoto, Keiko', 'Mizutori, Tetsuo', 'Yada, Kouji']
+animeStaff	[['Okuda, Seiji', 'Episode Director'], ['Okazaki, Minoru', 'Episode Director'], ['Morishita, Kouzou', 'Episode Director'], ['Mizuki, Ichirou', 'Theme Song Performance']]

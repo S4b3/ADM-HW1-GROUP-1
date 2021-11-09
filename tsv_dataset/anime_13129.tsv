@@ -1,5 +1,5 @@
-animeTitle	b'Sekai Douwa Anime Zenshuu'
-animeType	b'OVA'
+animeTitle	Sekai Douwa Anime Zenshuu
+animeType	OVA
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Each episode tells a different story from Grimm's Fairy Tales. """
+animePopularity	13376
+animeDescription	Each episode tells a different story from Grimm's Fairy Tales. 
 animeRelated	[]
-animeCharacters	[b'Duckling, Ugly', b'Jack', b'Puss-In-Boots', b'Moe', b'Manny', b'Mother Pig']
+animeCharacters	['Duckling, Ugly', 'Jack', 'Puss-In-Boots', 'Moe', 'Manny', 'Mother Pig']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nGrimm, Jacob and Wilhelm\n\nOriginal Creator\n\n']
+animeStaff	[['Grimm, Jacob and Wilhelm', 'Original Creator']]

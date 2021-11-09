@@ -1,5 +1,5 @@
-animeTitle	b'SSSS.Gridman'
-animeType	b'TV'
+animeTitle	SSSS.Gridman
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.15
 animeUsers	102525
 animeRank	
-animePopularity	
-animeDescription	"b'Yuuta Hibiki wakes up in the room of Rikka Takarada and notices two things: he has no memories, and he can hear a mysterious voice calling his name from a nearby room. On further inspection, he finds a robot\xe2\x80\x94which introduces itself as Hyper Agent Gridman\xe2\x80\x94behind the screen of an old computer. Much to Yuuta\'s surprise, Rikka cannot hear Gridman, nor can she see the ominous monsters looming over a thick fog as it envelopes the town outside.\n\nAnother giant monster materializes in the city and proceeds to wreak havoc. Amidst the confusion, Yuuta is once again drawn to the old computer and merges with Gridman. Suddenly, he appears in the middle of the battle and is forced to fight the monster. Together with Rikka and fellow classmate Shou Utsumi, Yuuta forms the ""Gridman Alliance"" to defeat the monsters plaguing the city and find whoever is responsible for their emergence.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'SSSS.Gridman', b'SSSS.Dynazenon']
-animeCharacters	[b'Takarada, Rikka', b'Shinjou, Akane', b'Hibiki, Yuuta', b'Gridman', b'Utsumi, Shou', b'Samurai Calibur', b'Anti', b'Kaijuu Shoujo Anosillus (2-daime)', b'Borr', b'Hass']
-animeVoices	[b'\nMiyamoto, Yume\nJapanese\n', b'\nUeda, Reina\nJapanese\n', b'\nHirose, Yuuya\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nTakahashi, Ryousuke\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nTakahashi, Karin\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nKitou, Akari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUsa, Yoshiki\n\nProducer\n\n', b'\nAmemiya, Akira\n\nDirector, Episode Director, Storyboard, 2nd Key Animation, Key Animation, Chief Animation Director\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nNakasono, Masato\n\nEpisode Director, Storyboard\n\n']
+animePopularity	729
+animeDescription	"Yuuta Hibiki wakes up in the room of Rikka Takarada and notices two things: he has no memories, and he can hear a mysterious voice calling his name from a nearby room. On further inspection, he finds a robot—which introduces itself as Hyper Agent Gridman—behind the screen of an old computer. Much to Yuuta's surprise, Rikka cannot hear Gridman, nor can she see the ominous monsters looming over a thick fog as it envelopes the town outside.
+
+Another giant monster materializes in the city and proceeds to wreak havoc. Amidst the confusion, Yuuta is once again drawn to the old computer and merges with Gridman. Suddenly, he appears in the middle of the battle and is forced to fight the monster. Together with Rikka and fellow classmate Shou Utsumi, Yuuta forms the ""Gridman Alliance"" to defeat the monsters plaguing the city and find whoever is responsible for their emergence.
+
+[Written by MAL Rewrite]"
+animeRelated	['SSSS.Gridman', 'SSSS.Dynazenon']
+animeCharacters	['Takarada, Rikka', 'Shinjou, Akane', 'Hibiki, Yuuta', 'Gridman', 'Utsumi, Shou', 'Samurai Calibur', 'Anti', 'Kaijuu Shoujo Anosillus (2-daime)', 'Borr', 'Hass']
+animeVoices	['Miyamoto, Yume', 'Ueda, Reina', 'Hirose, Yuuya', 'Midorikawa, Hikaru', 'Saitou, Souma', 'Takahashi, Ryousuke', 'Suzumura, Kenichi', 'Takahashi, Karin', 'Yuuki, Aoi', 'Kitou, Akari']
+animeStaff	[['Usa, Yoshiki', 'Producer'], ['Amemiya, Akira', 'Director, Episode Director, Storyboard, 2nd Key Animation, Key Animation, Chief Animation Director'], ['Kameyama, Toshiki', 'Sound Director'], ['Nakasono, Masato', 'Episode Director, Storyboard']]

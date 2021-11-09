@@ -1,5 +1,5 @@
-animeTitle	b'Choujikuu Kidan Southern Cross'
-animeType	b'TV'
+animeTitle	Choujikuu Kidan Southern Cross
+animeType	TV
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.58
 animeUsers	2771
 animeRank	
-animePopularity	
-animeDescription	b'By the year 2120, humans have successfully colonized other planets following the near devestation of Earth from the last great world war. However, on Gloire, one such colony are surprised and unprepared at the arrival of The Zor, a group of beings whom were the original inhabitants of the planet and left following similar near fatal events. Coming to reclaim their former home world, a relentless war erupts between both races that ultimately leads to a cataclysmic showdown and into a no-win scenario for either.\n\n(Source: ANN)'
+animePopularity	6233
+animeDescription	"By the year 2120, humans have successfully colonized other planets following the near devestation of Earth from the last great world war. However, on Gloire, one such colony are surprised and unprepared at the arrival of The Zor, a group of beings whom were the original inhabitants of the planet and left following similar near fatal events. Coming to reclaim their former home world, a relentless war erupts between both races that ultimately leads to a cataclysmic showdown and into a no-win scenario for either.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Fr\xc3\xa1n\xc3\xa7aix, Jeanne', b'Leon, Claude', b'Angel, Mary', b'Isavia, Lana', b'Wei\xc3\x9fe, Seifriet', b'Slawski, Andrzej', b'Musica', b'Brown, R.', b'Emerson, Rolf', b'de Etouard, Charles']
-animeVoices	[b'\nTomizawa, Michie\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nMizukura, Kumiko\nJapanese\n', b'\nDoi, Mika\nJapanese\n', b'\nHirano, Yoshikazu\nJapanese\n', b'\nMeguro, Kousuke\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nTotani, Kouji\nJapanese\n', b'\nMugihito\nJapanese\n', b'\nShimada, Bin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHasegawa, Yasuo\n\nDirector\n\n', b'\nTerada, Kenji\n\nScript\n\n', b'\nYamada, Katsuhisa\n\nStoryboard\n\n', b'\nKageyama, Hironobu\n\nInserted Song Performance\n\n']
+animeCharacters	['Fránçaix, Jeanne', 'Leon, Claude', 'Angel, Mary', 'Isavia, Lana', 'Weiße, Seifriet', 'Slawski, Andrzej', 'Musica', 'Brown, R.', 'Emerson, Rolf', 'de Etouard, Charles']
+animeVoices	['Tomizawa, Michie', 'Gouri, Daisuke', 'Mizukura, Kumiko', 'Doi, Mika', 'Hirano, Yoshikazu', 'Meguro, Kousuke', 'Hidaka, Noriko', 'Totani, Kouji', 'Mugihito', 'Shimada, Bin']
+animeStaff	[['Hasegawa, Yasuo', 'Director'], ['Terada, Kenji', 'Script'], ['Yamada, Katsuhisa', 'Storyboard'], ['Kageyama, Hironobu', 'Inserted Song Performance']]

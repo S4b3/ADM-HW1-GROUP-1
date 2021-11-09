@@ -1,5 +1,5 @@
-animeTitle	b'Outbreak Company'
-animeType	b'TV'
+animeTitle	Outbreak Company
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.24
 animeUsers	155043
 animeRank	
-animePopularity	
-animeDescription	"b'Shinichi Kanou is a shut-in otaku with a vast knowledge of anime, manga, and video games. One day, after applying for a job in hopes of escaping his secluded lifestyle, he is kidnapped and transported to the Eldant Empire\xe2\x80\x94a fantasy world filled with elves, dragons, and dwarves. Trapped in this strange land, Shinichi is given an unlikely task by the Japanese government: to spread otaku culture across the realm by becoming an ""Otaku Missionary.""\n\nTo accomplish his mission, Shinichi has the full support of the Japanese government, as well as the half-elf maid Myucel and Princess Petralka of the Eldant Empire. Together with this ragtag bunch, he will overcome the obstacles of politics, social classes, and ethnic discrimination to promote the ways of the otaku in this holy land.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Outbreak Company: Moeru Shinryakusha']
-animeCharacters	[b'Foaran, Myucel', b'Kanou, Shinichi', b'Anne Eldante III, Petralka', b'Hanaiman, Elbia ', b'Koganuma, Minori', b'En Koldobar, Galious', b'Darwin, Brooke', b'Garde, Romilda', b'Game Narrator', b'Sleison, Loic']
-animeVoices	[b'\nMimori, Suzuko\nJapanese\n', b'\nHanae, Natsuki\nJapanese\n', b'\nFuchigami, Mai\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nTomita, Takahiro\nJapanese\n', b'\nHonda, Mariko\nJapanese\n', b'\nTakahashi, Kouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOikawa, Kei\n\nDirector, Storyboard\n\n', b'\nEnomoto, Takahiro\n\nSound Director\n\n', b'\nTakahashi, Takeo\n\nStoryboard\n\n', b'\nMimori, Suzuko\n\nTheme Song Performance\n\n']
+animePopularity	554
+animeDescription	"Shinichi Kanou is a shut-in otaku with a vast knowledge of anime, manga, and video games. One day, after applying for a job in hopes of escaping his secluded lifestyle, he is kidnapped and transported to the Eldant Empire—a fantasy world filled with elves, dragons, and dwarves. Trapped in this strange land, Shinichi is given an unlikely task by the Japanese government: to spread otaku culture across the realm by becoming an ""Otaku Missionary.""
+
+To accomplish his mission, Shinichi has the full support of the Japanese government, as well as the half-elf maid Myucel and Princess Petralka of the Eldant Empire. Together with this ragtag bunch, he will overcome the obstacles of politics, social classes, and ethnic discrimination to promote the ways of the otaku in this holy land.
+
+[Written by MAL Rewrite]"
+animeRelated	['Outbreak Company: Moeru Shinryakusha']
+animeCharacters	['Foaran, Myucel', 'Kanou, Shinichi', 'Anne Eldante III, Petralka', 'Hanaiman, Elbia ', 'Koganuma, Minori', 'En Koldobar, Galious', 'Darwin, Brooke', 'Garde, Romilda', 'Game Narrator', 'Sleison, Loic']
+animeVoices	['Mimori, Suzuko', 'Hanae, Natsuki', 'Fuchigami, Mai', 'Uesaka, Sumire', 'Uchida, Maaya', 'Miki, Shinichiro', 'Tomita, Takahiro', 'Honda, Mariko', 'Takahashi, Kouji']
+animeStaff	[['Oikawa, Kei', 'Director, Storyboard'], ['Enomoto, Takahiro', 'Sound Director'], ['Takahashi, Takeo', 'Storyboard'], ['Mimori, Suzuko', 'Theme Song Performance']]

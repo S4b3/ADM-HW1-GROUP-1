@@ -1,5 +1,5 @@
-animeTitle	b'Ogami Matsugorou'
-animeType	b'OVA'
+animeTitle	Ogami Matsugorou
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the same name manga by Itou Minoru, serialized in Kodansha's Weekly Shounen Magazine."""
-animeRelated	[b'Ogami Matsugorou']
-animeCharacters	[b'Nagasaki, Koume', b'Ogami, Matsugorou']
-animeVoices	[b'\nTamagawa, Sakiko\nJapanese\n', b'\nHori, Hideyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomori, Hidetoshi\n\nDirector, Animation Director, Character Design\n\n', b'\nOoshiro, Tsutomu\n\nKey Animation\n\n', b'\nTakahashi, Youichi\n\nMusic\n\n', b'\nIida, Hiroyoshi\n\nKey Animation\n\n']
+animePopularity	13746
+animeDescription	Based on the same name manga by Itou Minoru, serialized in Kodansha's Weekly Shounen Magazine.
+animeRelated	['Ogami Matsugorou']
+animeCharacters	['Nagasaki, Koume', 'Ogami, Matsugorou']
+animeVoices	['Tamagawa, Sakiko', 'Hori, Hideyuki']
+animeStaff	[['Oomori, Hidetoshi', 'Director, Animation Director, Character Design'], ['Ooshiro, Tsutomu', 'Key Animation'], ['Takahashi, Youichi', 'Music'], ['Iida, Hiroyoshi', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Mahou Shoujo Sae'
-animeType	b'OVA'
+animeTitle	Mahou Shoujo Sae
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.51
 animeUsers	600
 animeRank	
-animePopularity	
-animeDescription	"b""Evil magicians from the parallel universe are invading Earth and sucking out the consciousness from humans, and then use it for power. Our magical girl, Kusunoki Sae, is here to stop them! It's not an easy task, because all of her enemies seems to be nothing but perverts!\n\n(Source: AniDB)"""
-animeRelated	[b'Mahou Shoujo Sae']
-animeCharacters	[b'Emito', b'Kusunoki, Sae', b'Nishijima, Shouko', b'Ruran']
-animeVoices	[b'\nMotoi, Emi\nJapanese\n', b'\nKurokawa, Nami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHattori, Noritomo\n\nAnimation Director\n\n', b'\nTokiwa, Shouji\n\nArt Director\n\n', b'\nHiguchi, Isami\n\nOriginal Character Design\n\n']
+animePopularity	9660
+animeDescription	"Evil magicians from the parallel universe are invading Earth and sucking out the consciousness from humans, and then use it for power. Our magical girl, Kusunoki Sae, is here to stop them! It's not an easy task, because all of her enemies seems to be nothing but perverts!
+
+(Source: AniDB)"
+animeRelated	['Mahou Shoujo Sae']
+animeCharacters	['Emito', 'Kusunoki, Sae', 'Nishijima, Shouko', 'Ruran']
+animeVoices	['Motoi, Emi', 'Kurokawa, Nami']
+animeStaff	[['Hattori, Noritomo', 'Animation Director'], ['Tokiwa, Shouji', 'Art Director'], ['Higuchi, Isami', 'Original Character Design']]

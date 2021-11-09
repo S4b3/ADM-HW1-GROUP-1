@@ -1,5 +1,5 @@
-animeTitle	b'ClassicaLoid 2nd Season'
-animeType	b'TV'
+animeTitle	ClassicaLoid 2nd Season
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.49
 animeUsers	1549
 animeRank	
-animePopularity	
-animeDescription	b'Second season of ClassicaLoid.'
-animeRelated	[b'ClassicaLoid']
-animeCharacters	[b'Mozart', b'Beethoven', b'Kagura, Sousuke', b'Otowa, Kanae', b'Schubert', b'Chopin', b'Bach', b'B\xc4\x85darzewska', b'Tchaikovsky', b'Pad-kun']
-animeVoices	[b'\nKaji, Yuki\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKida, Tsuyoshi\n\nScript\n\n', b'\nMatsuoka, Yoshitsugu\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nMaeno, Tomoaki\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nIshida, Yoko\n\nTheme Song Performance\n\n']
+animePopularity	6326
+animeDescription	Second season of ClassicaLoid.
+animeRelated	['ClassicaLoid']
+animeCharacters	['Mozart', 'Beethoven', 'Kagura, Sousuke', 'Otowa, Kanae', 'Schubert', 'Chopin', 'Bach', 'Bądarzewska', 'Tchaikovsky', 'Pad-kun']
+animeVoices	['Kaji, Yuki', 'Sugita, Tomokazu', 'Shimazaki, Nobunaga', 'Komatsu, Mikako', 'Maeno, Tomoaki']
+animeStaff	[['Kida, Tsuyoshi', 'Script'], ['Matsuoka, Yoshitsugu', 'Theme Song Performance, Inserted Song Performance'], ['Maeno, Tomoaki', 'Theme Song Performance, Inserted Song Performance'], ['Ishida, Yoko', 'Theme Song Performance']]

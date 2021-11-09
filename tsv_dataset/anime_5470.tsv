@@ -1,5 +1,5 @@
-animeTitle	b'Majokko Tsukune-chan'
-animeType	b'OVA'
+animeTitle	Majokko Tsukune-chan
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.63
 animeUsers	1078
 animeRank	
-animePopularity	
-animeDescription	b'In this surreal comedy, the witch Tsukune-chan travels the countryside doling out just deserts, be they good or bad.\n\n(Source: AniDB)'
-animeRelated	[b'Majokko Tsukune-chan']
-animeCharacters	[b'Tsukune', b'Uncle Tony', b'Santa Claus', b'Devil Santa', b'Onigawara, Mika', b'Kesennuma, Himeko']
-animeVoices	[b'\nMomoi, Haruko\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nKatou, Masayuki\nJapanese\n', b'\nSanpei, Yuuko\nJapanese\n', b'\nTokunaga, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurai, Hiroaki\n\nDirector\n\n', b'\nKaneko, Shingo\n\nScript, Storyboard\n\n', b'\nDaichi, Akitarou\n\nStoryboard\n\n', b'\nMomoi, Haruko\n\nTheme Song Performance\n\n']
+animePopularity	8652
+animeDescription	"In this surreal comedy, the witch Tsukune-chan travels the countryside doling out just deserts, be they good or bad.
+
+(Source: AniDB)"
+animeRelated	['Majokko Tsukune-chan']
+animeCharacters	['Tsukune', 'Uncle Tony', 'Santa Claus', 'Devil Santa', 'Onigawara, Mika', 'Kesennuma, Himeko']
+animeVoices	['Momoi, Haruko', 'Ono, Daisuke', 'Katou, Masayuki', 'Sanpei, Yuuko', 'Tokunaga, Ai']
+animeStaff	[['Sakurai, Hiroaki', 'Director'], ['Kaneko, Shingo', 'Script, Storyboard'], ['Daichi, Akitarou', 'Storyboard'], ['Momoi, Haruko', 'Theme Song Performance']]

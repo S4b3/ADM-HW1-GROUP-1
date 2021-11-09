@@ -1,5 +1,5 @@
-animeTitle	b'Minami-ke Okawari'
-animeType	b'TV'
+animeTitle	Minami-ke Okawari
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.34
 animeUsers	37178
 animeRank	
-animePopularity	
-animeDescription	"b""The second season of Minami-Ke. It picks up where the first season left off, and just like the first season, it's about the daily lives of the three Minami sisters, Haruka, Kana and Chiaki, and their school friends."""
-animeRelated	[b'Minami-ke', b'Minami-ke Okaeri']
-animeCharacters	[b'Minami, Kana', b'Minami, Chiaki', b'Minami, Haruka', b'Hosaka', b'Makoto', b'Minami, Touma', b'Uchida, Yuka', b'Fujioka', b'Atsuko', b'Maki']
-animeVoices	[b'\nInoue, Marina\nJapanese\n', b'\nChihara, Minori\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nMorinaga, Rika\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nOno, Ryouko\nJapanese\n', b'\nTakagi, Reiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHosoda, Naoto\n\nDirector, Episode Director, Storyboard\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nNagahama, Norihiko\n\nEpisode Director\n\n', b'\nKobayashi, Kousuke\n\nEpisode Director\n\n']
+animePopularity	2090
+animeDescription	The second season of Minami-Ke. It picks up where the first season left off, and just like the first season, it's about the daily lives of the three Minami sisters, Haruka, Kana and Chiaki, and their school friends.
+animeRelated	['Minami-ke', 'Minami-ke Okaeri']
+animeCharacters	['Minami, Kana', 'Minami, Chiaki', 'Minami, Haruka', 'Hosaka', 'Makoto', 'Minami, Touma', 'Uchida, Yuka', 'Fujioka', 'Atsuko', 'Maki']
+animeVoices	['Inoue, Marina', 'Chihara, Minori', 'Satou, Rina', 'Ono, Daisuke', 'Morinaga, Rika', 'Mizuki, Nana', 'Kitamura, Eri', 'Kakihara, Tetsuya', 'Ono, Ryouko', 'Takagi, Reiko']
+animeStaff	[['Hosoda, Naoto', 'Director, Episode Director, Storyboard'], ['Ebina, Yasunori', 'Sound Director'], ['Nagahama, Norihiko', 'Episode Director'], ['Kobayashi, Kousuke', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Kakko Kawaii Sengen!'
-animeType	b'TV'
+animeTitle	Kakko Kawaii Sengen!
+animeType	TV
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.62
 animeUsers	344
 animeRank	
-animePopularity	
-animeDescription	"b""Shorts run during Shueisha's Saki-yomi Jum-Bang! television program starting on November 5, 2010. \n\n(Source: AniDB)"""
-animeRelated	[b'Kakko Kawaii Sengen!', b'Kakko Kawaii Sengen! 2', b'Kakko Kawaii Sengen! Specials']
-animeCharacters	[b'Aoya, Kaoru', b'Kao-chan']
-animeVoices	[b'\nTaniyama, Kishou\nJapanese\n', b'\nHikasa, Youko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMankyuu\n\nDirector\n\n', b'\nJigoku no Misawa\n\nOriginal Creator\n\n']
+animePopularity	10526
+animeDescription	"Shorts run during Shueisha's Saki-yomi Jum-Bang! television program starting on November 5, 2010. 
+
+(Source: AniDB)"
+animeRelated	['Kakko Kawaii Sengen!', 'Kakko Kawaii Sengen! 2', 'Kakko Kawaii Sengen! Specials']
+animeCharacters	['Aoya, Kaoru', 'Kao-chan']
+animeVoices	['Taniyama, Kishou', 'Hikasa, Youko']
+animeStaff	[['Mankyuu', 'Director'], ['Jigoku no Misawa', 'Original Creator']]

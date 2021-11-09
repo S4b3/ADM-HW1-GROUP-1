@@ -1,5 +1,5 @@
-animeTitle	b'Warau Hyouteki'
-animeType	b'OVA'
+animeTitle	Warau Hyouteki
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.2
 animeUsers	1790
 animeRank	
-animePopularity	
-animeDescription	"b""Yuzuru was an average teenager who had almost forgotten that he was betrothed to Azusa when he was only six! Now arriving to claim what she feels is rightfully hers, only Satomi (Yuzuru's current girlfriend) stands in her way... and with the mysterious and frightening powers that Azusa brings, Satomi won't stand in her way for long!\n\n(Source: AniDB)"""
-animeRelated	[b'Rumic World', b'Fire Tripper', b'The Choujo']
-animeCharacters	"[b'Shiga, Azusa', b'Shiga, Yuzuru', b'Satomi', b""Satomi's Mother""]"
-animeVoices	[b'\nTsuru, Hiromi\nJapanese\n', b'\nShioya, Yoku\nJapanese\n', b'\nMatsumoto, Iyo\nJapanese\n', b'\nSatou, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNunokawa, Yuuji\n\nProducer\n\n', b'\nTakahashi, Motosuke\n\nDirector\n\n', b'\nTakayashiki, Hideo\n\nScript\n\n', b'\nTakahashi, Rumiko\n\nOriginal Creator\n\n']
+animePopularity	7512
+animeDescription	"Yuzuru was an average teenager who had almost forgotten that he was betrothed to Azusa when he was only six! Now arriving to claim what she feels is rightfully hers, only Satomi (Yuzuru's current girlfriend) stands in her way... and with the mysterious and frightening powers that Azusa brings, Satomi won't stand in her way for long!
+
+(Source: AniDB)"
+animeRelated	['Rumic World', 'Fire Tripper', 'The Choujo']
+animeCharacters	"['Shiga, Azusa', 'Shiga, Yuzuru', 'Satomi', ""Satomi's Mother""]"
+animeVoices	['Tsuru, Hiromi', 'Shioya, Yoku', 'Matsumoto, Iyo', 'Satou, Ai']
+animeStaff	[['Nunokawa, Yuuji', 'Producer'], ['Takahashi, Motosuke', 'Director'], ['Takayashiki, Hideo', 'Script'], ['Takahashi, Rumiko', 'Original Creator']]

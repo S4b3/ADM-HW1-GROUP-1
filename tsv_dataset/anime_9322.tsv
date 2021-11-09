@@ -1,5 +1,5 @@
-animeTitle	b'Military!'
-animeType	b'TV'
+animeTitle	Military!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.81
 animeUsers	16683
 animeRank	
-animePopularity	
-animeDescription	"b""The story takes place during a conflict between the Krakozhia Dukedom and the Grania Republic. In the midst of the fighting, a savior appears to the Krakozhia Dukedom, and it is a high school student named Yano Souhei. Two female soldiers, First Lieutenant Ruto and Second Lieutenant Haruka, appear in tanks to intrude on Souhei's everyday life, followed by the enemy soldier Shachirofu, all of whom use firearms without hesitation at his house.\n\n(Source: ANN)"""
-animeRelated	[b'Military!', b'Military! Special']
-animeCharacters	[b'Haruka', b'Lutgalnikov', b'Yano, Souhei', b'Grummans, Aria', b'Shakirov', b'Cecilie', b'Mamo-chan', b'Grue', b'Yano, Souichi', b'Mizuno, Yukari']
-animeVoices	[b'\nSakura, Ayane\nJapanese\n', b'\nTouyama, Nao\nJapanese\n', b'\nYamaya, Yoshitaka\nJapanese\n', b'\nSuzuki, Misaki\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nArai, Satomi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nCho\nJapanese\n', b'\nTerasaki, Ayano\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKimura, Hiroshi\n\nDirector\n\n', b'\nMinase, Inori\n\nTheme Song Performance\n\n', b'\nSakura, Ayane\n\nTheme Song Performance\n\n', b'\nTouyama, Nao\n\nTheme Song Performance\n\n']
+animePopularity	2921
+animeDescription	"The story takes place during a conflict between the Krakozhia Dukedom and the Grania Republic. In the midst of the fighting, a savior appears to the Krakozhia Dukedom, and it is a high school student named Yano Souhei. Two female soldiers, First Lieutenant Ruto and Second Lieutenant Haruka, appear in tanks to intrude on Souhei's everyday life, followed by the enemy soldier Shachirofu, all of whom use firearms without hesitation at his house.
+
+(Source: ANN)"
+animeRelated	['Military!', 'Military! Special']
+animeCharacters	['Haruka', 'Lutgalnikov', 'Yano, Souhei', 'Grummans, Aria', 'Shakirov', 'Cecilie', 'Mamo-chan', 'Grue', 'Yano, Souichi', 'Mizuno, Yukari']
+animeVoices	['Sakura, Ayane', 'Touyama, Nao', 'Yamaya, Yoshitaka', 'Suzuki, Misaki', 'Minase, Inori', 'Kayano, Ai', 'Arai, Satomi', 'Sakurai, Takahiro', 'Cho', 'Terasaki, Ayano']
+animeStaff	[['Kimura, Hiroshi', 'Director'], ['Minase, Inori', 'Theme Song Performance'], ['Sakura, Ayane', 'Theme Song Performance'], ['Touyama, Nao', 'Theme Song Performance']]

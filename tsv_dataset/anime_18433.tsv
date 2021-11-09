@@ -1,5 +1,5 @@
-animeTitle	b'Etsuraku no Tane The Animation'
-animeType	b'OVA'
+animeTitle	Etsuraku no Tane The Animation
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.11
 animeUsers	1904
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the game by WendyBell.\n\nA beautiful girl's body is inhabited by a tentacle monster that forces her to attack other cute girls."""
+animePopularity	7023
+animeDescription	"Based on the game by WendyBell.
+
+A beautiful girl's body is inhabited by a tentacle monster that forces her to attack other cute girls."
 animeRelated	[]
-animeCharacters	[b'Fujimori, Hiyori', b'Nonohara, Rena', b'Shinjou, Rui', b'Murasawa, Itsuki']
-animeVoices	[b'\nMinae, Kotori\nJapanese\n', b'\nTezuka, Ryouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinkai, Kouki\n\nEditing\n\n', b'\nWendyBell\n\nOriginal Creator\n\n']
+animeCharacters	['Fujimori, Hiyori', 'Nonohara, Rena', 'Shinjou, Rui', 'Murasawa, Itsuki']
+animeVoices	['Minae, Kotori', 'Tezuka, Ryouko']
+animeStaff	[['Shinkai, Kouki', 'Editing'], ['WendyBell', 'Original Creator']]

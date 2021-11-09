@@ -1,5 +1,5 @@
-animeTitle	b'Onmyou Taisenki'
-animeType	b'TV'
+animeTitle	Onmyou Taisenki
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.15
 animeUsers	1574
 animeRank	
-animePopularity	
-animeDescription	"b""All his life, Riku Tachibana has been raised by his grandfather. For some reason, the old man has always been fond of strange hand gestures, and they've rubbed off on Riku, who performs them almost subconsciously, to his classmates' great amusement. One day, however, it suddenly becomes clear to Riku what his grandfather has been surreptitiously teaching him. And the teachings could mean the difference between life and death for Riku. \n\n(Source: ANN)"""
-animeRelated	[b'Onmyou Taisenki']
-animeCharacters	[b'Kogenta', b'Yoshikawa, Yakumo', b'Tachibana, Riku', b'Oogami, Masaomi', b'Asuka, Yuuma', b'Hiiragi no Horin', b'Kibachiyo', b'Ikazuchi no Fusanoshin', b'Jouzenji, Momo', b'Houjou no Nene ']
-animeVoices	[b'\nAida, Sayaka\nJapanese\n', b'\nMorita, Masakazu\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nTakewaka, Takuma\nJapanese\n', b'\nOda, Hisafumi\nJapanese\n', b'\nYukana\nJapanese\n', b'\nKatsu, Anri\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nKanda, Akemi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamakawa, Norio\n\nProducer\n\n', b'\nFujino, Sadayoshi\n\nSound Director\n\n', b'\nFujita, Youichi\n\nEpisode Director, Storyboard\n\n', b'\nWatanabe, Junichi\n\nEpisode Director\n\n']
+animePopularity	6690
+animeDescription	"All his life, Riku Tachibana has been raised by his grandfather. For some reason, the old man has always been fond of strange hand gestures, and they've rubbed off on Riku, who performs them almost subconsciously, to his classmates' great amusement. One day, however, it suddenly becomes clear to Riku what his grandfather has been surreptitiously teaching him. And the teachings could mean the difference between life and death for Riku. 
+
+(Source: ANN)"
+animeRelated	['Onmyou Taisenki']
+animeCharacters	['Kogenta', 'Yoshikawa, Yakumo', 'Tachibana, Riku', 'Oogami, Masaomi', 'Asuka, Yuuma', 'Hiiragi no Horin', 'Kibachiyo', 'Ikazuchi no Fusanoshin', 'Jouzenji, Momo', 'Houjou no Nene ']
+animeVoices	['Aida, Sayaka', 'Morita, Masakazu', 'Fukuyama, Jun', 'Takewaka, Takuma', 'Oda, Hisafumi', 'Yukana', 'Katsu, Anri', 'Watanabe, Akeno', 'Kanda, Akemi']
+animeStaff	[['Yamakawa, Norio', 'Producer'], ['Fujino, Sadayoshi', 'Sound Director'], ['Fujita, Youichi', 'Episode Director, Storyboard'], ['Watanabe, Junichi', 'Episode Director']]

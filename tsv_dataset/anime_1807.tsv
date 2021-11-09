@@ -1,5 +1,5 @@
-animeTitle	b'Idoly Pride'
-animeType	b'TV'
+animeTitle	Idoly Pride
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.45
 animeUsers	10677
 animeRank	
-animePopularity	
-animeDescription	"b""The VENUS Program is an idol scoring system that is entirely impartial, using AI and data to rank candidates based on an array of factors. To determine the rising stars of the idol industry, the annual VENUS Grand Prix is held utilizing these algorithms. Among all the idols that have participated, none have been as outstanding as Mana Nagase. However, on the day of the tournament's finals, a tragic accident suddenly ends her career.\n\nKouhei Makino, who previously worked as Mana's manager, continues his career at Hoshimi Productions years after her death. Wanting to build a new team of idols, he accepts interviews from various girls. Unexpectedly, one of the interviewees is Kotono Nagase, Mana's younger sister, who is striving to carry on her sister's legacy under the tutelage of her former advisor. Also auditioning is Sakura Kawasaki, whose voice sounds astoundingly similar to that of Mana.\n\nBoth Kotono and Sakura pass the evaluations, joining a group of eight other aspiring young girls. Living in a shared dormitory, the 10 members work together to learn more about what it means to harmonize as a team. United by an ambitious endeavor, the girls compete their way to the top as they traverse through the unforgiving world of idols.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'The Sun, Moon and Stars']
-animeCharacters	[b'Nagase, Mana', b'Ichinose, Rei', b'Nagase, Kotono', b'Hayasaka, Mei', b'Kawasaki, Sakura', b'Hyoudou, Shizuku', b'Narumiya, Suzu', b'Saeki, Haruko', b'Shiraishi, Chisa', b'Shiraishi, Saki']
-animeVoices	[b'\nKanda, Sayaka\nJapanese\n', b'\nYuuki, Moeko\nJapanese\n', b'\nTachibana, Mirai\nJapanese\n', b'\nHinata, Moka\nJapanese\n', b'\nKanno, Mai\nJapanese\n', b'\nShutou, Yukina\nJapanese\n', b'\nAikawa, Kanata\nJapanese\n', b'\nSasaki, Nao\nJapanese\n', b'\nTakao, Kanon\nJapanese\n', b'\nMiyazawa, Koharu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKinome, Yuu\n\nDirector\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nTakahashi, Tatsuya\n\nSeries Composition\n\n', b'\nQP:flapper\n\nOriginal Character Design\n\n']
+animePopularity	2675
+animeDescription	"The VENUS Program is an idol scoring system that is entirely impartial, using AI and data to rank candidates based on an array of factors. To determine the rising stars of the idol industry, the annual VENUS Grand Prix is held utilizing these algorithms. Among all the idols that have participated, none have been as outstanding as Mana Nagase. However, on the day of the tournament's finals, a tragic accident suddenly ends her career.
+
+Kouhei Makino, who previously worked as Mana's manager, continues his career at Hoshimi Productions years after her death. Wanting to build a new team of idols, he accepts interviews from various girls. Unexpectedly, one of the interviewees is Kotono Nagase, Mana's younger sister, who is striving to carry on her sister's legacy under the tutelage of her former advisor. Also auditioning is Sakura Kawasaki, whose voice sounds astoundingly similar to that of Mana.
+
+Both Kotono and Sakura pass the evaluations, joining a group of eight other aspiring young girls. Living in a shared dormitory, the 10 members work together to learn more about what it means to harmonize as a team. United by an ambitious endeavor, the girls compete their way to the top as they traverse through the unforgiving world of idols.
+
+[Written by MAL Rewrite]"
+animeRelated	['The Sun, Moon and Stars']
+animeCharacters	['Nagase, Mana', 'Ichinose, Rei', 'Nagase, Kotono', 'Hayasaka, Mei', 'Kawasaki, Sakura', 'Hyoudou, Shizuku', 'Narumiya, Suzu', 'Saeki, Haruko', 'Shiraishi, Chisa', 'Shiraishi, Saki']
+animeVoices	['Kanda, Sayaka', 'Yuuki, Moeko', 'Tachibana, Mirai', 'Hinata, Moka', 'Kanno, Mai', 'Shutou, Yukina', 'Aikawa, Kanata', 'Sasaki, Nao', 'Takao, Kanon', 'Miyazawa, Koharu']
+animeStaff	[['Kinome, Yuu', 'Director'], ['Iida, Satoki', 'Sound Director'], ['Takahashi, Tatsuya', 'Series Composition'], ['QP:flapper', 'Original Character Design']]

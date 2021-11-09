@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon Housoukyoku'
-animeType	b'TV'
+animeTitle	Pokemon Housoukyoku
+animeType	TV
 animeNumEpisode	16
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.86
 animeUsers	13401
 animeRank	
-animePopularity	
-animeDescription	"b""Pok\xc3\xa9mon Chronicles is a TV series comprised of the English-dubbed versions of a number of Pok\xc3\xa9mon TV specials. Many of the episodes are from the Weekly Pok\xc3\xa9mon Broadcasting Station show in Japan, but it also contained The Legend of Thunder! and shorts from the Pikachu's Winter Vacation series. The series, in each episode, basically focuses on the lives of the many of the recurring/main characters Ash Ketchum met on his journey, like Sakura, Misty, her sisters, Casey, and Tracey. Ash only makes two appearances in the series in brief cameos.\n\n(Source: Bulbapedia)"""
-animeRelated	[b'Pokemon', b'Pokemon Advanced Generation']
-animeCharacters	[b'Takeshi', b'Kasumi', b'Ookido, Shigeru', b'Kenji', b'Kenta', b'Bashou', b'Buson', b'Tsutomu', b'Pikachu', b'Satoshi']
-animeVoices	[b'\nUeda, Yuuji\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n', b'\nKobayashi, Yuko\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nValencia, Amparo\n\nScript, ADR Director\n\n', b'\nVanni, Giorgio\n\nTheme Song Performance\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n']
+animePopularity	3506
+animeDescription	"Pokémon Chronicles is a TV series comprised of the English-dubbed versions of a number of Pokémon TV specials. Many of the episodes are from the Weekly Pokémon Broadcasting Station show in Japan, but it also contained The Legend of Thunder! and shorts from the Pikachu's Winter Vacation series. The series, in each episode, basically focuses on the lives of the many of the recurring/main characters Ash Ketchum met on his journey, like Sakura, Misty, her sisters, Casey, and Tracey. Ash only makes two appearances in the series in brief cameos.
+
+(Source: Bulbapedia)"
+animeRelated	['Pokemon', 'Pokemon Advanced Generation']
+animeCharacters	['Takeshi', 'Kasumi', 'Ookido, Shigeru', 'Kenji', 'Kenta', 'Bashou', 'Buson', 'Tsutomu', 'Pikachu', 'Satoshi']
+animeVoices	['Ueda, Yuuji', 'Iizuka, Mayumi', 'Kobayashi, Yuko', 'Seki, Tomokazu', 'Nojima, Kenji', 'Morikawa, Toshiyuki', 'Hiyama, Nobuyuki', 'Sakaguchi, Daisuke', 'Ootani, Ikue', 'Matsumoto, Rica']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Valencia, Amparo', 'Script, ADR Director'], ['Vanni, Giorgio', 'Theme Song Performance'], ['Tajiri, Satoshi', 'Original Creator']]

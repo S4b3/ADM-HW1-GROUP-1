@@ -1,5 +1,5 @@
-animeTitle	b'K-On!!: Keikaku!'
-animeType	b'Special'
+animeTitle	K-On!!: Keikaku!
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.84
 animeUsers	60760
 animeRank	
-animePopularity	
-animeDescription	b'The summer holidays are coming to an end, but the girls from Houkago Tea Time want to take one more trip before their next semester starts. With countless travel destinations to choose from and as many preferences as there are club members, coming to an agreement seems far-flung.\n\nUnable to reach a decision, they remember that they must first apply for new passports. As simple as it may sound, the routine visit to a government office and filing a form soon turns into an all-day adventure for Yui Hirasawa and the rest of the band.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'K-On!!']
-animeCharacters	[b'Hirasawa, Yui', b'Akiyama, Mio', b'Nakano, Azusa', b'Kotobuki, Tsumugi', b'Tainaka, Ritsu', b'Hirasawa, Ui', b'Yamanaka, Sawako', b'Manabe, Nodoka', b'Tainaka, Satoshi']
-animeVoices	[b'\nToyosaki, Aki\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nKotobuki, Minako\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nYonezawa, Madoka\nJapanese\n', b'\nSanada, Asami\nJapanese\n', b'\nFujitou, Chika\nJapanese\n', b'\nItou, Mika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakemoto, Yasuhiro\n\nEpisode Director, Storyboard\n\n', b'\nHoukago Tea Time\n\nTheme Song Performance\n\n', b'\nKomori, Shigeo\n\nTheme Song Arrangement\n\n', b'\nHoriguchi, Yukiko\n\nCharacter Design\n\n']
+animePopularity	1526
+animeDescription	"The summer holidays are coming to an end, but the girls from Houkago Tea Time want to take one more trip before their next semester starts. With countless travel destinations to choose from and as many preferences as there are club members, coming to an agreement seems far-flung.
+
+Unable to reach a decision, they remember that they must first apply for new passports. As simple as it may sound, the routine visit to a government office and filing a form soon turns into an all-day adventure for Yui Hirasawa and the rest of the band.
+
+[Written by MAL Rewrite]"
+animeRelated	['K-On!!']
+animeCharacters	['Hirasawa, Yui', 'Akiyama, Mio', 'Nakano, Azusa', 'Kotobuki, Tsumugi', 'Tainaka, Ritsu', 'Hirasawa, Ui', 'Yamanaka, Sawako', 'Manabe, Nodoka', 'Tainaka, Satoshi']
+animeVoices	['Toyosaki, Aki', 'Hikasa, Youko', 'Taketatsu, Ayana', 'Kotobuki, Minako', 'Satou, Satomi', 'Yonezawa, Madoka', 'Sanada, Asami', 'Fujitou, Chika', 'Itou, Mika']
+animeStaff	[['Takemoto, Yasuhiro', 'Episode Director, Storyboard'], ['Houkago Tea Time', 'Theme Song Performance'], ['Komori, Shigeo', 'Theme Song Arrangement'], ['Horiguchi, Yukiko', 'Character Design']]

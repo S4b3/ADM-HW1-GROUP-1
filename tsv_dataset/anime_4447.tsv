@@ -1,4 +1,4 @@
-animeTitle	b'Heart Realize'
+animeTitle	Heart Realize
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.84
 animeUsers	3199
 animeRank	
-animePopularity	
-animeDescription	b'Music video bundled with the limited edition of the Noragami ED single. '
-animeRelated	[b'Noragami', b'Nirvana']
-animeCharacters	[b'Yato', b'Yukine', b'Iki, Hiyori', b'Bishamon', b'Kofuku', b'Kazuma', b'Nora', b'Daikoku', b'Kuraha', b'Tomone']
+animePopularity	6113
+animeDescription	Music video bundled with the limited edition of the Noragami ED single. 
+animeRelated	['Noragami', 'Nirvana']
+animeCharacters	['Yato', 'Yukine', 'Iki, Hiyori', 'Bishamon', 'Kofuku', 'Kazuma', 'Nora', 'Daikoku', 'Kuraha', 'Tomone']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nryo\n\nTheme Song Lyrics, Theme Song Composition, Theme Song Arrangement\n\n', b'\nTia\n\nTheme Song Performance\n\n']
+animeStaff	[['ryo', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['Tia', 'Theme Song Performance']]

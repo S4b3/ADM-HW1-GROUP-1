@@ -1,5 +1,5 @@
-animeTitle	b'Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito'
-animeType	b'Movie'
+animeTitle	Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	7.68
 animeUsers	25653
 animeRank	
-animePopularity	
-animeDescription	"b""An unusual snow storm hits Tokyo and the Sailor Senshi discover that an evil snow queen Kaguya, wants to freeze the entire earth. It's up to the Inner Sailor Senshi along with the Outers, to defeat the Queen. Meanwhile, Luna falls in love with a human astronomer named Kakeru whose girlfriend is an astronaut about to take a space shuttle mission. Kakeru becomes ill and Luna wishes she could be a human to help him. \n"""
-animeRelated	[b'Bishoujo Senshi Sailor Moon S']
-animeCharacters	[b'Tsukino, Usagi', b'Hino, Rei', b'Kino, Makoto', b'Aino, Minako', b'Tenou, Haruka', b'Mizuno, Ami', b'Kaiou, Michiru', b'Chibiusa', b'Meiou, Setsuna', b'Luna']
-animeVoices	[b'\nMitsuishi, Kotono\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nFukami, Rica\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nAraki, Kae\nJapanese\n', b'\nKawashima, Chiyoko\nJapanese\n', b'\nHan, Keiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nShibata, Hiroki\n\nSound Director, Episode Director, Storyboard\n\n', b'\nMoon Lips\n\nTheme Song Performance\n\n', b'\nAsakawa, Hiroko\n\nTheme Song Performance\n\n']
+animePopularity	2554
+animeDescription	"An unusual snow storm hits Tokyo and the Sailor Senshi discover that an evil snow queen Kaguya, wants to freeze the entire earth. It's up to the Inner Sailor Senshi along with the Outers, to defeat the Queen. Meanwhile, Luna falls in love with a human astronomer named Kakeru whose girlfriend is an astronaut about to take a space shuttle mission. Kakeru becomes ill and Luna wishes she could be a human to help him. 
+"
+animeRelated	['Bishoujo Senshi Sailor Moon S']
+animeCharacters	['Tsukino, Usagi', 'Hino, Rei', 'Kino, Makoto', 'Aino, Minako', 'Tenou, Haruka', 'Mizuno, Ami', 'Kaiou, Michiru', 'Chibiusa', 'Meiou, Setsuna', 'Luna']
+animeVoices	['Mitsuishi, Kotono', 'Tomizawa, Michie', 'Shinohara, Emi', 'Fukami, Rica', 'Ogata, Megumi', 'Hisakawa, Aya', 'Katsuki, Masako', 'Araki, Kae', 'Kawashima, Chiyoko', 'Han, Keiko']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Shibata, Hiroki', 'Sound Director, Episode Director, Storyboard'], ['Moon Lips', 'Theme Song Performance'], ['Asakawa, Hiroko', 'Theme Song Performance']]

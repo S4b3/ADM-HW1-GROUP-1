@@ -1,5 +1,5 @@
-animeTitle	b'Robotan (1986)'
-animeType	b'TV'
+animeTitle	Robotan (1986)
+animeType	TV
 animeNumEpisode	33
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.12
 animeUsers	280
 animeRank	
-animePopularity	
-animeDescription	b'The story about robot named Robotan who came from outside the earth, he met with a kid then they become friends but they always stuck with some troubles because of bad people who chase after Robotan however our hero win the fight every time.'
-animeRelated	[b'Robotan']
-animeCharacters	[b'Robotan']
-animeVoices	[b'\nMaruyama, Hiroko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTokunaga, Motoyoshi\n\nProducer\n\n', b'\nHarada, Hiroshi\n\nAnimation Director\n\n', b'\nMiyamae, Mitsuharu\n\nArt Director\n\n', b'\nTaniguchi, Moriyasu\n\nAnimation Director\n\n']
+animePopularity	12205
+animeDescription	The story about robot named Robotan who came from outside the earth, he met with a kid then they become friends but they always stuck with some troubles because of bad people who chase after Robotan however our hero win the fight every time.
+animeRelated	['Robotan']
+animeCharacters	['Robotan']
+animeVoices	['Maruyama, Hiroko']
+animeStaff	[['Tokunaga, Motoyoshi', 'Producer'], ['Harada, Hiroshi', 'Animation Director'], ['Miyamae, Mitsuharu', 'Art Director'], ['Taniguchi, Moriyasu', 'Animation Director']]

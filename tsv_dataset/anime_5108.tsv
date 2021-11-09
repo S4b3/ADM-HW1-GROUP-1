@@ -1,5 +1,5 @@
-animeTitle	b'Seikaisuru Kado: Ninovo'
-animeType	b'ONA'
+animeTitle	Seikaisuru Kado: Ninovo
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.7
 animeUsers	9171
 animeRank	
-animePopularity	
-animeDescription	b'Episode 0 of Seikaisuru Kado premiering on Amazon Prime.'
-animeRelated	[b'Seikaisuru Kado']
-animeCharacters	[b'Yaha-kui zaShunina', b'Shindou, Koujirou', b'Hanamori, Shun', b'Asano, Shuuhei', b'Natsume, Ritsu', b'Ooishi, Tetsuo', b'Mifune, Tetsuhito', b'Ubuka, Kiyotaka', b'Sasauchi, Naomi']
-animeVoices	[b'\nMiura, Hiroaki\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nAkabane, Kenji\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nHanda, Yuusuke\nJapanese\n', b'\nGotou, Tetsuo\nJapanese\n', b'\nSaitou, Shirou\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFukunaga, Gen\n\nExecutive Producer\n\n', b'\nWalker, Tyler\n\nADR Director\n\n']
+animePopularity	4337
+animeDescription	Episode 0 of Seikaisuru Kado premiering on Amazon Prime.
+animeRelated	['Seikaisuru Kado']
+animeCharacters	['Yaha-kui zaShunina', 'Shindou, Koujirou', 'Hanamori, Shun', 'Asano, Shuuhei', 'Natsume, Ritsu', 'Ooishi, Tetsuo', 'Mifune, Tetsuhito', 'Ubuka, Kiyotaka', 'Sasauchi, Naomi']
+animeVoices	['Miura, Hiroaki', 'Saitou, Souma', 'Akabane, Kenji', 'Itou, Shizuka', 'Handa, Yuusuke', 'Gotou, Tetsuo', 'Saitou, Shirou', 'Kikuchi, Masami']
+animeStaff	[['Fukunaga, Gen', 'Executive Producer'], ['Walker, Tyler', 'ADR Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Seitokai no Ichizon Lv.2'
-animeType	b'ONA'
+animeTitle	Seitokai no Ichizon Lv.2
+animeType	ONA
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.36
 animeUsers	32290
 animeRank	
-animePopularity	
-animeDescription	"b""Sugisaki Ken, through diligence and academic excellence, had successfully entered the paradise that is the Hekiyou Private Academy's Student Council. There, he boldly embarks on his plan to create his personal harem with the 4 girls who are the other council members, namely: The incredibly youthful president Sakurano Kurimu; The cool and kindly yet super-sadistic secretary Akaba Chizuru; Tomboyish and hot-blooded vice-president Shiina Minatsu; and The ephemerally beautiful yet complicated treasurer Shiina Mafuyu. While every day since then has been non-stop fun, Graduation Day now looms near. Could this spell the end of their carefree days?\n\n(Source: translated and adapted from official site by Cranston)"""
-animeRelated	[b'Seitokai no Ichizon', b'Seitokai no Ichizon Lv.2: Watasu Seitokai']
-animeCharacters	[b'Sugisaki, Ken', b'Shiina, Mafuyu', b'Akaba, Chizuru', b'Sakurano, Kurimu', b'Shiina, Minatsu', b'Toudou, Elise', b'Toudou, Lilicia', b'Sugisaki, Ringo', b'Matsubara, Asuka', b'Magiru, Satori']
-animeVoices	[b'\nKondou, Takashi\nJapanese\n', b'\nNomizu, Iori\nJapanese\n', b'\nMina\nJapanese\n', b'\nHonda, Mariko\nJapanese\n', b'\nTogashi, Misuzu\nJapanese\n', b'\nShimizu, Ai\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nYonezawa, Madoka\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nKosuge, Mami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImaizumi, Kenichi\n\nDirector\n\n', b'\nKunisawa, Mariko\n\nScript\n\n', b'\nNomizu, Iori\n\nTheme Song Performance\n\n', b'\nTogashi, Misuzu\n\nTheme Song Performance\n\n']
+animePopularity	2137
+animeDescription	"Sugisaki Ken, through diligence and academic excellence, had successfully entered the paradise that is the Hekiyou Private Academy's Student Council. There, he boldly embarks on his plan to create his personal harem with the 4 girls who are the other council members, namely: The incredibly youthful president Sakurano Kurimu; The cool and kindly yet super-sadistic secretary Akaba Chizuru; Tomboyish and hot-blooded vice-president Shiina Minatsu; and The ephemerally beautiful yet complicated treasurer Shiina Mafuyu. While every day since then has been non-stop fun, Graduation Day now looms near. Could this spell the end of their carefree days?
+
+(Source: translated and adapted from official site by Cranston)"
+animeRelated	['Seitokai no Ichizon', 'Seitokai no Ichizon Lv.2: Watasu Seitokai']
+animeCharacters	['Sugisaki, Ken', 'Shiina, Mafuyu', 'Akaba, Chizuru', 'Sakurano, Kurimu', 'Shiina, Minatsu', 'Toudou, Elise', 'Toudou, Lilicia', 'Sugisaki, Ringo', 'Matsubara, Asuka', 'Magiru, Satori']
+animeVoices	['Kondou, Takashi', 'Nomizu, Iori', 'Mina', 'Honda, Mariko', 'Togashi, Misuzu', 'Shimizu, Ai', 'Noto, Mamiko', 'Yonezawa, Madoka', 'Koshimizu, Ami', 'Kosuge, Mami']
+animeStaff	[['Imaizumi, Kenichi', 'Director'], ['Kunisawa, Mariko', 'Script'], ['Nomizu, Iori', 'Theme Song Performance'], ['Togashi, Misuzu', 'Theme Song Performance']]

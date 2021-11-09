@@ -1,5 +1,5 @@
-animeTitle	b'Dame Oyaji'
-animeType	b'TV'
+animeTitle	Dame Oyaji
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Dame Oyaji is the story of Damesuke Amano, a hapless office worker who faces a tremendous amount of bullying on the job and especially at home, where he has (contrary to traditional Japanese notions of family) absolutely no power or say in the runnings of the household whatsoever.\n\nAmano lives with his wife, Onibaba, his beautiful teenaged daughter Yukiko, and his grade-schooler son Takobo. Onibaba is an imposing, violent heifer of a woman who regularly berates and even physically assaults her husband and who enjoys nothing more than making his life miserable; Yukiko and Takobo frequently join in physically and psychologically abusing their father. \n\nThe original manga is said to have been quite shocking to early 1970s Japan, in which the father was often still traditionally regarded as the head of the household.\n\n(Source: Wikipedia)'
+animePopularity	14130
+animeDescription	"Dame Oyaji is the story of Damesuke Amano, a hapless office worker who faces a tremendous amount of bullying on the job and especially at home, where he has (contrary to traditional Japanese notions of family) absolutely no power or say in the runnings of the household whatsoever.
+
+Amano lives with his wife, Onibaba, his beautiful teenaged daughter Yukiko, and his grade-schooler son Takobo. Onibaba is an imposing, violent heifer of a woman who regularly berates and even physically assaults her husband and who enjoys nothing more than making his life miserable; Yukiko and Takobo frequently join in physically and psychologically abusing their father. 
+
+The original manga is said to have been quite shocking to early 1970s Japan, in which the father was often still traditionally regarded as the head of the household.
+
+(Source: Wikipedia)"
 animeRelated	[]
-animeCharacters	[b'Amano, Damesuke', b'Amano, Takobou']
-animeVoices	[b'\nOoizumi, Akira\nJapanese\n', b'\nKaminarimon, Kenbo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakaguchi, Hisashi\n\nEpisode Director\n\n', b'\nAndou, Toyohiro\n\nScript, Series Composition\n\n', b'\nTanaka, Eiji\n\nAnimation Director\n\n', b'\nFuruya, Mitsutoshi\n\nOriginal Creator\n\n']
+animeCharacters	['Amano, Damesuke', 'Amano, Takobou']
+animeVoices	['Ooizumi, Akira', 'Kaminarimon, Kenbo']
+animeStaff	[['Sakaguchi, Hisashi', 'Episode Director'], ['Andou, Toyohiro', 'Script, Series Composition'], ['Tanaka, Eiji', 'Animation Director'], ['Furuya, Mitsutoshi', 'Original Creator']]

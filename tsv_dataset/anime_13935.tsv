@@ -1,5 +1,5 @@
-animeTitle	b'Train Heroes'
-animeType	b'TV'
+animeTitle	Train Heroes
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'2100A.D. The world has entered a new age of super high-speed railways. The World Railway Conference has introduced the Laser Rail, a whole new form of travel in which trains are no longer confined to the ground.\n\nTo operate on the Laser Rail, the Train Base is established. Here, trains from across the globe, installed with artificial intelligences and robot bodies. Thus the Train Heroes are born.\n\nWithin the Train Base, these Train Heroes undergo strict training sessions. On occasion, they are called upon to assist in disaster rescue and relief.\n\n(Source: AniDB)'
-animeRelated	[b'Train Heroes Movie']
-animeCharacters	[b'Eight', b'Sam', b'Arl', b'Gou', b'Instructor Neel', b'Ann', b'Narrator']
-animeVoices	[b'\nTanaka, Hideki\nJapanese\n', b'\nOkitsu, Kazuyuki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nUrayama, Jin\nJapanese\n', b'\nTogashi, Misuzu\nJapanese\n', b'\nOchiai, Kouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDawa dolma, Alan\n\nTheme Song Performance\n\n']
+animePopularity	13634
+animeDescription	"2100A.D. The world has entered a new age of super high-speed railways. The World Railway Conference has introduced the Laser Rail, a whole new form of travel in which trains are no longer confined to the ground.
+
+To operate on the Laser Rail, the Train Base is established. Here, trains from across the globe, installed with artificial intelligences and robot bodies. Thus the Train Heroes are born.
+
+Within the Train Base, these Train Heroes undergo strict training sessions. On occasion, they are called upon to assist in disaster rescue and relief.
+
+(Source: AniDB)"
+animeRelated	['Train Heroes Movie']
+animeCharacters	['Eight', 'Sam', 'Arl', 'Gou', 'Instructor Neel', 'Ann', 'Narrator']
+animeVoices	['Tanaka, Hideki', 'Okitsu, Kazuyuki', 'Namikawa, Daisuke', 'Ono, Daisuke', 'Urayama, Jin', 'Togashi, Misuzu', 'Ochiai, Kouji']
+animeStaff	[['Dawa dolma, Alan', 'Theme Song Performance']]

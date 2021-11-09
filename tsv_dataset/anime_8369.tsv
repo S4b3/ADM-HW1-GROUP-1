@@ -1,5 +1,5 @@
-animeTitle	b'Cutey Honey Flash: The Movie'
-animeType	b'Movie'
+animeTitle	Cutey Honey Flash: The Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.06
 animeUsers	961
 animeRank	
-animePopularity	
-animeDescription	b'Honey Kisaragi is a perfectly normal beautiful high school student. Until her scientist father is kidnapped by the evil organization Panther Claw, that is. But her father left behind a device she can use to transform into the red-haired sword-wielding heroine Cutey Honey.'
-animeRelated	[b'Cutey Honey F', b'Cutie Honey Universe']
-animeCharacters	[b'Kisaragi, Honey', b'Hayami, Seiji', b'Aki, Natsuko', b'Tsuneni, Miharu', b'Zera, Prince', b'Hazuki, Seira', b'Steiner, Robert']
-animeVoices	[b'\nNagano, Ai\nJapanese\n', b'\nChiba, Susumu\nJapanese\n', b'\nOhmoto, Makiko\nJapanese\n', b'\nOkohira, Shizuka\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nRyota, Yamaguchi\n\nScript\n\n', b'\nNagai, Go\n\nOriginal Creator\n\n', b'\nSahashi, Toshihiko\n\nMusic\n\n', b'\nKinoshita, Yuuki\n\nKey Animation\n\n']
+animePopularity	8045
+animeDescription	Honey Kisaragi is a perfectly normal beautiful high school student. Until her scientist father is kidnapped by the evil organization Panther Claw, that is. But her father left behind a device she can use to transform into the red-haired sword-wielding heroine Cutey Honey.
+animeRelated	['Cutey Honey F', 'Cutie Honey Universe']
+animeCharacters	['Kisaragi, Honey', 'Hayami, Seiji', 'Aki, Natsuko', 'Tsuneni, Miharu', 'Zera, Prince', 'Hazuki, Seira', 'Steiner, Robert']
+animeVoices	['Nagano, Ai', 'Chiba, Susumu', 'Ohmoto, Makiko', 'Okohira, Shizuka', 'Hayami, Show', 'Hiramatsu, Akiko', 'Yamadera, Kouichi']
+animeStaff	[['Ryota, Yamaguchi', 'Script'], ['Nagai, Go', 'Original Creator'], ['Sahashi, Toshihiko', 'Music'], ['Kinoshita, Yuuki', 'Key Animation']]

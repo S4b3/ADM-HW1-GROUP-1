@@ -1,5 +1,5 @@
-animeTitle	b'Robotics;Notes'
-animeType	b'TV'
+animeTitle	Robotics;Notes
+animeType	TV
 animeNumEpisode	22
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.33
 animeUsers	67944
 animeRank	
-animePopularity	
-animeDescription	"b'It has always been the aspiration of the Central Tanegashima High School Robotics Research Club to complete the GunPro1, a fully functioning giant robot. For years, the members of the club have contributed to its progress and it is now Akiho Senomiya\'s goal to finally make the dream of all the past club members become a reality. However, things are not as easy as they seem as the club lacks the funding for such a huge endeavor. Aside from that, the only other club member, Kaito Yashio, shows no interest in assisting his childhood friend and instead indulges in playing mecha-fighting games on his ""PokeCom."" \n\nAs Kaito is in the middle of wasting his days, he receives an indecipherable message and hears a voice that seems to be drowned out by the noise of static. He searches for the source, only to realize that it came from Airi Yukifune, an AI which only exists within the augmented reality system accessible via the PokeCom. Robotic;Notes follows the story of Kaito as he discovers a peculiar report in Airi\'s database, one that would have disastrous consequences in the future.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Robotics;Notes', b'Ch\xc3\xa4oS;HEAd', b'Steins;Gate', b'Steins;Gate 0', b'Ch\xc3\xa4oS;Child', b'Occultic;Nine']
-animeCharacters	[b'Furugoori, Kona', b'Senomiya, Akiho', b'Yashio, Kaito', b'Yukifune, Airi', b'Hidaka, Subaru', b'Daitoku, Junna', b'Tennouji, Nae', b'Senomiya, Misaki', b'Irei, Mizuka', b'Kimijima, Kou']
-animeVoices	[b'\nNazuka, Kaori\nJapanese\n', b'\nNanjou, Yoshino\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nTokui, Sora\nJapanese\n', b'\nYamamoto, Ayano\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nHonda, Takako\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nShikura, Chiyomaru\n\nProducer, Theme Song Lyrics, Theme Song Composition, Original Creator\n\n', b'\nWada, Jouji\n\nProducer\n\n', b'\nKimura, Makoto\n\nProducer\n\n']
+animePopularity	1062
+animeDescription	"It has always been the aspiration of the Central Tanegashima High School Robotics Research Club to complete the GunPro1, a fully functioning giant robot. For years, the members of the club have contributed to its progress and it is now Akiho Senomiya's goal to finally make the dream of all the past club members become a reality. However, things are not as easy as they seem as the club lacks the funding for such a huge endeavor. Aside from that, the only other club member, Kaito Yashio, shows no interest in assisting his childhood friend and instead indulges in playing mecha-fighting games on his ""PokeCom."" 
+
+As Kaito is in the middle of wasting his days, he receives an indecipherable message and hears a voice that seems to be drowned out by the noise of static. He searches for the source, only to realize that it came from Airi Yukifune, an AI which only exists within the augmented reality system accessible via the PokeCom. Robotic;Notes follows the story of Kaito as he discovers a peculiar report in Airi's database, one that would have disastrous consequences in the future.
+
+[Written by MAL Rewrite]"
+animeRelated	['Robotics;Notes', 'ChäoS;HEAd', 'Steins;Gate', 'Steins;Gate 0', 'ChäoS;Child', 'Occultic;Nine']
+animeCharacters	['Furugoori, Kona', 'Senomiya, Akiho', 'Yashio, Kaito', 'Yukifune, Airi', 'Hidaka, Subaru', 'Daitoku, Junna', 'Tennouji, Nae', 'Senomiya, Misaki', 'Irei, Mizuka', 'Kimijima, Kou']
+animeVoices	['Nazuka, Kaori', 'Nanjou, Yoshino', 'Kimura, Ryouhei', 'Kugimiya, Rie', 'Hosoya, Yoshimasa', 'Tokui, Sora', 'Yamamoto, Ayano', 'Inoue, Kikuko', 'Honda, Takako', 'Morikawa, Toshiyuki']
+animeStaff	[['Cook, Justin', 'Producer'], ['Shikura, Chiyomaru', 'Producer, Theme Song Lyrics, Theme Song Composition, Original Creator'], ['Wada, Jouji', 'Producer'], ['Kimura, Makoto', 'Producer']]

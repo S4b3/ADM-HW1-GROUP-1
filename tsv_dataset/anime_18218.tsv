@@ -1,5 +1,5 @@
-animeTitle	b'Yagami Yuu'
-animeType	b'OVA'
+animeTitle	Yagami Yuu
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.37
 animeUsers	2879
 animeRank	
-animePopularity	
-animeDescription	"b""Based on a game by Mink's M no Violet division."""
-animeRelated	[b'Yakin Byoutou San']
-animeCharacters	[b'Yagami, Yuu', b'Shouko', b'Yotsuya, Jiro']
-animeVoices	[b'\nInokuchi, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurakami, Teruaki\n\nDirector, Storyboard, Key Animation, Character Design, Animation Director\n\n', b'\nMomoi, Osamu\n\nScript\n\n', b'\nYatabe, Katsuyoshi\n\nProduction Coordination\n\n', b'\nNozaki, Hiroki\n\nSound Effects\n\n']
+animePopularity	6158
+animeDescription	Based on a game by Mink's M no Violet division.
+animeRelated	['Yakin Byoutou San']
+animeCharacters	['Yagami, Yuu', 'Shouko', 'Yotsuya, Jiro']
+animeVoices	['Inokuchi, Yuka']
+animeStaff	[['Murakami, Teruaki', 'Director, Storyboard, Key Animation, Character Design, Animation Director'], ['Momoi, Osamu', 'Script'], ['Yatabe, Katsuyoshi', 'Production Coordination'], ['Nozaki, Hiroki', 'Sound Effects']]

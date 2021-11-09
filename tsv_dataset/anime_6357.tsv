@@ -1,5 +1,5 @@
-animeTitle	b'Pet'
-animeType	b'TV'
+animeTitle	Pet
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.46
 animeUsers	21620
 animeRank	
-animePopularity	
-animeDescription	b'Despite endless research, the human mind remains a mystery to this day. Unknown to the public, there exist special individuals who are able to dive deep into the minds of people and even manipulate their memories.\n\nGifted with this ability, Hiroki, Tsukasa, and Satoru are among those who use their power to commit crime under the orders of their leader, Katsuragi. The three step into the dangerous territory of the human mind in order to destroy their assigned targets while striving to keep their own minds and memories safe.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Pet']
-animeCharacters	[b'Hiroki', b'Tsukasa', b'Hayashi', b'Satoru', b'Katsuragi', b'President', b'Jin', b'Long']
-animeVoices	[b'\nUeda, Keisuke\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nKase, Yasuyuki\nJapanese\n', b'\nOno, Yuuki\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nYusa, Kouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomori, Takahiro\n\nDirector\n\n', b'\nOoshiro, Miyuki\n\nEpisode Director, Storyboard, Animation Director\n\n', b'\nTK from Ling Tosite Sigure\n\nTheme Song Arrangement\n\n', b'\nMemai SIREN\n\nTheme Song Composition, Theme Song Performance\n\n']
+animePopularity	1852
+animeDescription	"Despite endless research, the human mind remains a mystery to this day. Unknown to the public, there exist special individuals who are able to dive deep into the minds of people and even manipulate their memories.
+
+Gifted with this ability, Hiroki, Tsukasa, and Satoru are among those who use their power to commit crime under the orders of their leader, Katsuragi. The three step into the dangerous territory of the human mind in order to destroy their assigned targets while striving to keep their own minds and memories safe.
+
+[Written by MAL Rewrite]"
+animeRelated	['Pet']
+animeCharacters	['Hiroki', 'Tsukasa', 'Hayashi', 'Satoru', 'Katsuragi', 'President', 'Jin', 'Long']
+animeVoices	['Ueda, Keisuke', 'Taniyama, Kishou', 'Kase, Yasuyuki', 'Ono, Yuuki', 'Sakuya, Shunsuke', 'Tobita, Nobuo', 'Ichimichi, Mao', 'Yusa, Kouji']
+animeStaff	[['Oomori, Takahiro', 'Director'], ['Ooshiro, Miyuki', 'Episode Director, Storyboard, Animation Director'], ['TK from Ling Tosite Sigure', 'Theme Song Arrangement'], ['Memai SIREN', 'Theme Song Composition, Theme Song Performance']]

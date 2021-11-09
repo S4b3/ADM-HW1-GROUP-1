@@ -1,5 +1,5 @@
-animeTitle	b'Space Adventure Cobra'
-animeType	b'Movie'
+animeTitle	Space Adventure Cobra
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.09
 animeUsers	3483
 animeRank	
-animePopularity	
-animeDescription	b'Cobra, a notorious space pirate, is enlisted by bounty hunter Jane to rescue her sister from the strange being known as Crystal Boy, but then finds himself drawn into a complex struggle over the fate of a mysterious wandering planet.\n\n(Source: ANN)'
-animeRelated	[b'Cobra', b'Space Cobra']
-animeCharacters	[b'Cobra', b'Armaroid, Lady', b'Royal, Jane', b'Crystal Bowie', b'Royal, Dominique', b'Sandra']
-animeVoices	[b'\nMatsuzaki, Shigeru\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n', b'\nNakamura, Akiko\nJapanese\n', b'\nMutsumi, Gorou\nJapanese\n', b'\nFubuki, Jun\nJapanese\n', b'\nTajima, Reiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Osamu\n\nDirector, Storyboard\n\n', b'\nTerasawa, Buichi\n\nScript, Original Creator\n\n', b'\nMatsuzaki, Shigeru\n\nTheme Song Performance\n\n', b'\nMiyazaki, Hayao\n\nKey Animation\n\n']
+animePopularity	5677
+animeDescription	"Cobra, a notorious space pirate, is enlisted by bounty hunter Jane to rescue her sister from the strange being known as Crystal Boy, but then finds himself drawn into a complex struggle over the fate of a mysterious wandering planet.
+
+(Source: ANN)"
+animeRelated	['Cobra', 'Space Cobra']
+animeCharacters	['Cobra', 'Armaroid, Lady', 'Royal, Jane', 'Crystal Bowie', 'Royal, Dominique', 'Sandra']
+animeVoices	['Matsuzaki, Shigeru', 'Sakakibara, Yoshiko', 'Nakamura, Akiko', 'Mutsumi, Gorou', 'Fubuki, Jun', 'Tajima, Reiko']
+animeStaff	[['Dezaki, Osamu', 'Director, Storyboard'], ['Terasawa, Buichi', 'Script, Original Creator'], ['Matsuzaki, Shigeru', 'Theme Song Performance'], ['Miyazaki, Hayao', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Saint Seiya: Saishuu Seisen no Senshi-tachi'
-animeType	b'Movie'
+animeTitle	Saint Seiya: Saishuu Seisen no Senshi-tachi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.78
 animeUsers	8040
 animeRank	
-animePopularity	
-animeDescription	"b""Lucifer has been awoken from his eternal slumber by the spirits of Eris, Abel and Poseidon. He has come to kill Athena and fulfill his heart's burning desire: becoming the strongest of all the gods.\n\n(Source: ANN)"""
-animeRelated	[b'Saint Seiya']
-animeCharacters	[b'Phoenix, Ikki', b'Dragon, Shiryuu', b'Pegasus, Seiya', b'Andromeda, Shun', b'Cygnus, Hyouga', b'Lucifer', b'Virgo, Shaka', b'Aries, Muu', b'Leo, Aiolia', b'Scorpio, Milo']
-animeVoices	[b'\nHori, Hideyuki\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nHashimoto, Kouichi\nJapanese\n', b'\nTsukayama, Masane\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamauchi, Shigeyasu\n\nDirector\n\n', b'\nBaroli, Gilberto\n\nScript, ADR Director\n\n', b'\nKurumada, Masami\n\nOriginal Creator\n\n', b'\nBaroli, Hermes\n\nADR Director\n\n']
+animePopularity	4585
+animeDescription	"Lucifer has been awoken from his eternal slumber by the spirits of Eris, Abel and Poseidon. He has come to kill Athena and fulfill his heart's burning desire: becoming the strongest of all the gods.
+
+(Source: ANN)"
+animeRelated	['Saint Seiya']
+animeCharacters	['Phoenix, Ikki', 'Dragon, Shiryuu', 'Pegasus, Seiya', 'Andromeda, Shun', 'Cygnus, Hyouga', 'Lucifer', 'Virgo, Shaka', 'Aries, Muu', 'Leo, Aiolia', 'Scorpio, Milo']
+animeVoices	['Hori, Hideyuki', 'Suzuoki, Hirotaka', 'Furuya, Toru', 'Horikawa, Ryo', 'Hashimoto, Kouichi', 'Tsukayama, Masane', 'Shiozawa, Kaneto', 'Tanaka, Hideyuki']
+animeStaff	[['Yamauchi, Shigeyasu', 'Director'], ['Baroli, Gilberto', 'Script, ADR Director'], ['Kurumada, Masami', 'Original Creator'], ['Baroli, Hermes', 'ADR Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Choujuushin Gravion'
-animeType	b'TV'
+animeTitle	Choujuushin Gravion
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.39
 animeUsers	4222
 animeRank	
-animePopularity	
-animeDescription	"b""The year is now 2041 AD. A new enemy called Zeravire suddenly appears in the solar system, destroying all military installations it comes across. However, a wealthy man named Klein Sandman is already aware of this planned invasion and had been secretly preparing his army for battle. His trump card is Gravion, a giant robot that utilizes gravity as its source of energy. Meanwhile a young man named Eiji secretly enters Sandman's base in search for his missing sister. It is there that he meets another young man by the name of Toga... These two must now fight together with four other individuals aboard the super robot, Gravion to fend off the Zeravire threat.\n\n(Source: ANN)"""
-animeRelated	[b'Choujuushin Gravion Zwei']
-animeCharacters	[b'Sandman, Klein', b'Tachibana, Mizuki', b'Leele', b'Shigure, Eiji', b'Gusuku, Luna', b'Tenkuji, Toga', b'Eina', b'Marinia', b'Tesera', b'C\xc3\xa9cile']
-animeVoices	[b'\nHayami, Show\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nIkezawa, Haruna\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nUchikawa, Ai\nJapanese\n', b'\nOmae, Akane\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurahama, Shouji\n\nProducer\n\n', b'\nOobari, Masami\n\nDirector, Episode Director, Storyboard, Assistant Animation Director, Key Animation, Mechanical Design, Original Creator, Character Design\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nKanbe, Hiroyuki\n\nEpisode Director, Animation Director\n\n']
+animePopularity	4950
+animeDescription	"The year is now 2041 AD. A new enemy called Zeravire suddenly appears in the solar system, destroying all military installations it comes across. However, a wealthy man named Klein Sandman is already aware of this planned invasion and had been secretly preparing his army for battle. His trump card is Gravion, a giant robot that utilizes gravity as its source of energy. Meanwhile a young man named Eiji secretly enters Sandman's base in search for his missing sister. It is there that he meets another young man by the name of Toga... These two must now fight together with four other individuals aboard the super robot, Gravion to fend off the Zeravire threat.
+
+(Source: ANN)"
+animeRelated	['Choujuushin Gravion Zwei']
+animeCharacters	['Sandman, Klein', 'Tachibana, Mizuki', 'Leele', 'Shigure, Eiji', 'Gusuku, Luna', 'Tenkuji, Toga', 'Eina', 'Marinia', 'Tesera', 'Cécile']
+animeVoices	['Hayami, Show', 'Asakawa, Yuu', 'Kuwashima, Houko', 'Suzumura, Kenichi', 'Ikezawa, Haruna', 'Fukuyama, Jun', 'Nakahara, Mai', 'Mizuki, Nana', 'Uchikawa, Ai', 'Omae, Akane']
+animeStaff	[['Murahama, Shouji', 'Producer'], ['Oobari, Masami', 'Director, Episode Director, Storyboard, Assistant Animation Director, Key Animation, Mechanical Design, Original Creator, Character Design'], ['Tsuruoka, Youta', 'Sound Director'], ['Kanbe, Hiroyuki', 'Episode Director, Animation Director']]

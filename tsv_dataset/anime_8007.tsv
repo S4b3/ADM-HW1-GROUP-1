@@ -1,5 +1,5 @@
-animeTitle	b'Otohime Connection'
-animeType	b'OVA'
+animeTitle	Otohime Connection
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.13
 animeUsers	162
 animeRank	
-animePopularity	
-animeDescription	"b""Special based on the manga by Ooya Kazumi, published in Betsukomi Flower Comics.\n\nAn all-male pop group doubles as a detective agency. The cute girl member of the agency is kidnapped when one of the men's past returns to trouble them all in the present.\n\n(Source: sandg-anime)"""
-animeRelated	[b'Otohime Connection']
-animeCharacters	[b'Hirano, Michio', b'Okuda, Yuuki', b'Kouga, Himeko', b'Kizaki, Nagisa', b'Master']
-animeVoices	[b'\nInoue, Kazuhiko\nJapanese\n', b'\nYokoyama, Chisa\nJapanese\n', b'\nYamada, Eiko\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nHayami, Show\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nGotou, Takayuki\n\nDirector, Storyboard, Mechanical Design, Character Design, Animation Director, Key Animation\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b'\nSerizawa, Rui\n\nTheme Song Lyrics\n\n', b'\nIshikawa, Mitsuhisa\n\nProduction Coordination\n\n']
+animePopularity	11941
+animeDescription	"Special based on the manga by Ooya Kazumi, published in Betsukomi Flower Comics.
+
+An all-male pop group doubles as a detective agency. The cute girl member of the agency is kidnapped when one of the men's past returns to trouble them all in the present.
+
+(Source: sandg-anime)"
+animeRelated	['Otohime Connection']
+animeCharacters	['Hirano, Michio', 'Okuda, Yuuki', 'Kouga, Himeko', 'Kizaki, Nagisa', 'Master']
+animeVoices	['Inoue, Kazuhiko', 'Yokoyama, Chisa', 'Yamada, Eiko', 'Matsumoto, Yasunori', 'Hayami, Show']
+animeStaff	[['Gotou, Takayuki', 'Director, Storyboard, Mechanical Design, Character Design, Animation Director, Key Animation'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Serizawa, Rui', 'Theme Song Lyrics'], ['Ishikawa, Mitsuhisa', 'Production Coordination']]

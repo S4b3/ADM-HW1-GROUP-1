@@ -1,5 +1,5 @@
-animeTitle	"b'Lupin III: Episode 0 ""First Contact""'"
-animeType	b'Special'
+animeTitle	"Lupin III: Episode 0 ""First Contact"""
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.6
 animeUsers	4084
 animeRank	
-animePopularity	
-animeDescription	"b""Jigen tells the story of the gang's first meeting. Jigen, still a member of the Mafia, is hired to protect an ancient artifact - one that Lupin and Fujiko are both trying to steal. Meanwhile, Inspector Zenigata, then of the Japanese police force, has come to the U.S. on Fujiko's trail, and Ishikawa Goemon is searching for the lost treasure of his clan. \n\n(Source: ANN)"""
-animeRelated	[b'Lupin III']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi', b'Elenor', b'Crawford', b'McFly, George', b'Galvez', b'Shade']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nNaya, Gorou\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nIkeda, Masaru\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nMoriyama, Shuichiro\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOohara, Minoru\n\nDirector\n\n', b'\nYonemura, Shouji\n\nScript\n\n', b'\nRosa, Sonia\n\nTheme Song Lyrics, Theme Song Performance\n\n', b'\nMonkey Punch\n\nOriginal Creator\n\n']
+animePopularity	5530
+animeDescription	"Jigen tells the story of the gang's first meeting. Jigen, still a member of the Mafia, is hired to protect an ancient artifact - one that Lupin and Fujiko are both trying to steal. Meanwhile, Inspector Zenigata, then of the Japanese police force, has come to the U.S. on Fujiko's trail, and Ishikawa Goemon is searching for the lost treasure of his clan. 
+
+(Source: ANN)"
+animeRelated	['Lupin III']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Elenor', 'Crawford', 'McFly, George', 'Galvez', 'Shade']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou', 'Park, Romi', 'Ikeda, Masaru', 'Nagai, Ichiro', 'Moriyama, Shuichiro', 'Sakuya, Shunsuke']
+animeStaff	[['Oohara, Minoru', 'Director'], ['Yonemura, Shouji', 'Script'], ['Rosa, Sonia', 'Theme Song Lyrics, Theme Song Performance'], ['Monkey Punch', 'Original Creator']]

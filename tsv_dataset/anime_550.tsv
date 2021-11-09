@@ -1,5 +1,5 @@
-animeTitle	b'Durarara!!x2 Shou'
-animeType	b'TV'
+animeTitle	Durarara!!x2 Shou
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.0
 animeUsers	218500
 animeRank	
-animePopularity	
-animeDescription	"b'Although peace has finally returned to Ikebukuro, many of the odd occurrences have become common sights around the city. One such case is the police\'s constant pursuit of Celty Sturluson, the Headless Rider. Moreover, someone has placed a large bounty on her, igniting the motivation of gang members all over to begin searching for the supernatural creature as well. Meanwhile, Mikado Ryuugamine is approached by Aoba Kuronuma, a mysterious underclassman with unknown intentions, who reveals that he knows Mikado\'s true identity.\n\nBut Ikebukuro\'s state of tranquility is short-lived, as a new threat appears in the form of a murderer who goes by the pseudonym ""Hollywood,"" known for wearing a different mask each time they commit a crime. As the various events taking place prove to be connected yet again, Ikebukuro is thrown into another conflict that threatens to engulf the entire city in chaos.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Durarara!!', b'Durarara!!x2 Ten', b'Durarara!!x2 Shou: Watashi no Kokoro wa Nabe Moyou']
-animeCharacters	[b'Orihara, Izaya', b'Heiwajima, Shizuo', b'Sturluson, Celty', b'Kishitani, Shinra', b'Ryuugamine, Mikado', b'Sonohara, Anri', b'Kida, Masaomi', b'Brezhnev, Semyon', b'Kadota, Kyouhei', b'Karisawa, Erika']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nKuroda, Takaya\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomori, Takahiro\n\nDirector, Sound Director, Episode Director, Storyboard\n\n', b'\nYoneda, Mitsuhiro\n\nEpisode Director\n\n', b'\nSuganuma, Eiji\n\nEpisode Director, Storyboard, Key Animation, 2nd Key Animation\n\n', b'\nHeo, Pyeonggang\n\nEpisode Director\n\n']
+animePopularity	385
+animeDescription	"Although peace has finally returned to Ikebukuro, many of the odd occurrences have become common sights around the city. One such case is the police's constant pursuit of Celty Sturluson, the Headless Rider. Moreover, someone has placed a large bounty on her, igniting the motivation of gang members all over to begin searching for the supernatural creature as well. Meanwhile, Mikado Ryuugamine is approached by Aoba Kuronuma, a mysterious underclassman with unknown intentions, who reveals that he knows Mikado's true identity.
+
+But Ikebukuro's state of tranquility is short-lived, as a new threat appears in the form of a murderer who goes by the pseudonym ""Hollywood,"" known for wearing a different mask each time they commit a crime. As the various events taking place prove to be connected yet again, Ikebukuro is thrown into another conflict that threatens to engulf the entire city in chaos.
+
+[Written by MAL Rewrite]"
+animeRelated	['Durarara!!', 'Durarara!!x2 Ten', 'Durarara!!x2 Shou: Watashi no Kokoro wa Nabe Moyou']
+animeCharacters	['Orihara, Izaya', 'Heiwajima, Shizuo', 'Sturluson, Celty', 'Kishitani, Shinra', 'Ryuugamine, Mikado', 'Sonohara, Anri', 'Kida, Masaomi', 'Brezhnev, Semyon', 'Kadota, Kyouhei', 'Karisawa, Erika']
+animeVoices	['Kamiya, Hiroshi', 'Ono, Daisuke', 'Sawashiro, Miyuki', 'Fukuyama, Jun', 'Toyonaga, Toshiyuki', 'Hanazawa, Kana', 'Miyano, Mamoru', 'Kuroda, Takaya', 'Nakamura, Yuuichi', 'Takagaki, Ayahi']
+animeStaff	[['Oomori, Takahiro', 'Director, Sound Director, Episode Director, Storyboard'], ['Yoneda, Mitsuhiro', 'Episode Director'], ['Suganuma, Eiji', 'Episode Director, Storyboard, Key Animation, 2nd Key Animation'], ['Heo, Pyeonggang', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Raldessia Chronicles'
-animeType	b'ONA'
+animeTitle	Raldessia Chronicles
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	5.29
 animeUsers	221
 animeRank	
-animePopularity	
-animeDescription	"b""DeNA's promotional anime video for its mobile game Raldessia Chronicles.\n"""
-animeRelated	[b'Hacka Doll', b'Bishoujo Mobage: Mobami-chan']
+animePopularity	12643
+animeDescription	"DeNA's promotional anime video for its mobile game Raldessia Chronicles.
+"
+animeRelated	['Hacka Doll', 'Bishoujo Mobage: Mobami-chan']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

@@ -1,5 +1,5 @@
-animeTitle	b'Akuma-kun (Movie)'
-animeType	b'Movie'
+animeTitle	Akuma-kun (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.89
 animeUsers	206
 animeRank	
-animePopularity	
-animeDescription	"b""The age of the demons has begun. Dr Faust has foreseen this rise of evil. Unfortunately, he is near death and is unable to personally battle this upcoming threat. Faust entrusts a young boy, Shingo Yamada, to take the responsibility of ridding the Earth of this new evil presence. Faust finds a birthmark on Shingo's forehead that signifies that he is the chosen demon fighter. Faust summons from hell what may be humanity's only hope of surviving: a less than enthusiastic devil named Mephisto rises. After signing a pact in blood to save humankind, Shingo and Mephisto set out to battle the supernatural world.\n\n(Source: AniDB)"""
-animeRelated	[b'Akuma-kun']
-animeCharacters	[b'Mephisto Jr.', b'Hyakume', b'Umoregi, Shingo', b'Kajyu', b'Sasypelele', b'Yonaldepazutoli', b'Red Pixie', b'Blue Pixie', b'Old Mephisto', b'Yurg']
+animePopularity	12133
+animeDescription	"The age of the demons has begun. Dr Faust has foreseen this rise of evil. Unfortunately, he is near death and is unable to personally battle this upcoming threat. Faust entrusts a young boy, Shingo Yamada, to take the responsibility of ridding the Earth of this new evil presence. Faust finds a birthmark on Shingo's forehead that signifies that he is the chosen demon fighter. Faust summons from hell what may be humanity's only hope of surviving: a less than enthusiastic devil named Mephisto rises. After signing a pact in blood to save humankind, Shingo and Mephisto set out to battle the supernatural world.
+
+(Source: AniDB)"
+animeRelated	['Akuma-kun']
+animeCharacters	['Mephisto Jr.', 'Hyakume', 'Umoregi, Shingo', 'Kajyu', 'Sasypelele', 'Yonaldepazutoli', 'Red Pixie', 'Blue Pixie', 'Old Mephisto', 'Yurg']
 animeVoices	[]
-animeStaff	"[b'\n\n\n\n\n\n', b'\nSatou, Junichi\n\nDirector\n\n', b""\nKoorogi '73\n\nTheme Song Performance\n\n"", b'\nShiramine, Mitsuko\n\nTheme Song Lyrics\n\n', b'\nMizuki, Shigeru\n\nOriginal Creator\n\n']"
+animeStaff	"[['Satou, Junichi', 'Director'], [""Koorogi '73"", 'Theme Song Performance'], ['Shiramine, Mitsuko', 'Theme Song Lyrics'], ['Mizuki, Shigeru', 'Original Creator']]"

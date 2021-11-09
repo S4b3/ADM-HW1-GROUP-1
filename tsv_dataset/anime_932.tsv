@@ -1,5 +1,5 @@
-animeTitle	b'Nanatsu no Taizai'
-animeType	b'TV'
+animeTitle	Nanatsu no Taizai
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.76
 animeUsers	1083238
 animeRank	
-animePopularity	
-animeDescription	"b'In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the ""Seven Deadly Sins,"" were still alive. Ten years later, the Holy Knights themselves staged a coup d\xe2\x80\x99\xc3\xa9tat, and thus became the new, tyrannical rulers of the Kingdom of Liones.\n\nBased on the best-selling manga series of the same name, Nanatsu no Taizai follows the adventures of Elizabeth, the third princess of the Kingdom of Liones, and her search for the Seven Deadly Sins. With their help, she endeavors to not only take back her kingdom from the Holy Knights, but to also seek justice in an unjust world.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Nanatsu no Taizai', b'Nanatsu no Taizai OVA', b'Nanatsu no Taizai: Seisen no Shirushi', b'Nanatsu no Taizai: Imashime no Fukkatsu Joshou']
-animeCharacters	[b'Ban', b'Meliodas', b'King', b'Hawk', b'Gowther', b'Diane', b'Liones, Elizabeth', b'Merlin', b'Elaine', b'Gilthunder']
-animeVoices	[b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nKuno, Misaki\nJapanese\n', b'\nTakagi, Yuuhei\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nAmamiya, Sora\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nKoiwai, Kotori\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkamura, Tensai\n\nDirector\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n', b'\nIshii, Toshimasa\n\nEpisode Director\n\n', b'\nTakamura, Yuuta\n\nEpisode Director\n\n']
+animePopularity	28
+animeDescription	"In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the ""Seven Deadly Sins,"" were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones.
+
+Based on the best-selling manga series of the same name, Nanatsu no Taizai follows the adventures of Elizabeth, the third princess of the Kingdom of Liones, and her search for the Seven Deadly Sins. With their help, she endeavors to not only take back her kingdom from the Holy Knights, but to also seek justice in an unjust world.
+
+[Written by MAL Rewrite]"
+animeRelated	['Nanatsu no Taizai', 'Nanatsu no Taizai OVA', 'Nanatsu no Taizai: Seisen no Shirushi', 'Nanatsu no Taizai: Imashime no Fukkatsu Joshou']
+animeCharacters	['Ban', 'Meliodas', 'King', 'Hawk', 'Gowther', 'Diane', 'Liones, Elizabeth', 'Merlin', 'Elaine', 'Gilthunder']
+animeVoices	['Suzuki, Tatsuhisa', 'Kaji, Yuki', 'Fukuyama, Jun', 'Kuno, Misaki', 'Takagi, Yuuhei', 'Yuuki, Aoi', 'Amamiya, Sora', 'Sakamoto, Maaya', 'Koiwai, Kotori', 'Miyano, Mamoru']
+animeStaff	[['Okamura, Tensai', 'Director'], ['Wakabayashi, Kazuhiro', 'Sound Director'], ['Ishii, Toshimasa', 'Episode Director'], ['Takamura, Yuuta', 'Episode Director']]

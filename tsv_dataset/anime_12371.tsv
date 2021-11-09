@@ -1,5 +1,5 @@
-animeTitle	b'Nihon Meisaku Douwa Series: Akai Tori no Kokoro'
-animeType	b'TV'
+animeTitle	Nihon Meisaku Douwa Series: Akai Tori no Kokoro
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""A collection of children's stories originally printed in the popular magazine Akai Tori, which was published from 1918 to 1936.\n\n(Source: AniDB)"""
+animePopularity	13430
+animeDescription	"A collection of children's stories originally printed in the popular magazine Akai Tori, which was published from 1918 to 1936.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Yoshikichi']
+animeCharacters	['Yoshikichi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nShibayama, Tsutomu\n\nDirector\n\n', b'\nYabuki, Kimio\n\nDirector\n\n', b'\nKabashima, Yoshio\n\nDirector\n\n', b'\nDazai, Osamu\n\nOriginal Creator\n\n']
+animeStaff	[['Shibayama, Tsutomu', 'Director'], ['Yabuki, Kimio', 'Director'], ['Kabashima, Yoshio', 'Director'], ['Dazai, Osamu', 'Original Creator']]

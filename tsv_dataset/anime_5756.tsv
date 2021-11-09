@@ -1,5 +1,5 @@
-animeTitle	b'Aikatsu on Parade! (ONA)'
-animeType	b'ONA'
+animeTitle	Aikatsu on Parade! (ONA)
+animeType	ONA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.57
 animeUsers	521
 animeRank	
-animePopularity	
-animeDescription	"b'""Dream School Grand Prix"" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy\'s new idol Noel Otoshiro is selected as one of them?! For each idol\'s dream, a new story starts running into the shining future! \n\n(Source: Crunchyroll)'"
-animeRelated	[b'Aikatsu!', b'Aikatsu Stars!', b'Aikatsu Friends!: Kagayaki no Jewel', b'Aikatsu on Parade!']
-animeCharacters	[b'Kiseki, Raki', b'Otoshiro, Noel']
+animePopularity	10289
+animeDescription	"""Dream School Grand Prix"" to decide the No.1 idol school among five schools representing the Aikatsu world will be held! In this competition where top idols representing each school compete on stage, Dream Academy's new idol Noel Otoshiro is selected as one of them?! For each idol's dream, a new story starts running into the shining future! 
+
+(Source: Crunchyroll)"
+animeRelated	['Aikatsu!', 'Aikatsu Stars!', 'Aikatsu Friends!: Kagayaki no Jewel', 'Aikatsu on Parade!']
+animeCharacters	['Kiseki, Raki', 'Otoshiro, Noel']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nonetrap\n\nMusic\n\n', b'\nKoyama, Kenji\n\nSound Effects\n\n']
+animeStaff	[['onetrap', 'Music'], ['Koyama, Kenji', 'Sound Effects']]

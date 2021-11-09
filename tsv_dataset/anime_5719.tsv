@@ -1,5 +1,5 @@
-animeTitle	b'Princess Tutu Recaps'
-animeType	b'Special'
+animeTitle	Princess Tutu Recaps
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.58
 animeUsers	2169
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Princess Tutu']
-animeCharacters	[b'Arima, Ahiru', b'Fakir', b'Kuroha, Rue', b'Myuuto', b'Neko-sensei', b'Drosselmeyer', b'Edel', b'Lilie', b'Pique']
-animeVoices	[b'\nKatou, Nanae\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nYanagi, Naoki\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChung, Jin Ho\n\nProducer, ADR Director\n\n', b'\nWada, Kaoru\n\nMusic\n\n']
+animePopularity	6757
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Princess Tutu']
+animeCharacters	['Arima, Ahiru', 'Fakir', 'Kuroha, Rue', 'Myuuto', 'Neko-sensei', 'Drosselmeyer', 'Edel', 'Lilie', 'Pique']
+animeVoices	['Katou, Nanae', 'Sakurai, Takahiro', 'Mizuki, Nana', 'Yanagi, Naoki', 'Shiratori, Yuri']
+animeStaff	[['Chung, Jin Ho', 'Producer, ADR Director'], ['Wada, Kaoru', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Fastening Days'
-animeType	b'ONA'
+animeTitle	Fastening Days
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.44
 animeUsers	2442
 animeRank	
-animePopularity	
-animeDescription	"b""Yoji and Kei, a boy and girl,  live in a town in the not-so-distant future with their foster parent, Anna. But these seemingly ordinary children have a secret hidden even from their unsuspecting mother.\n\nYoji and Kei are superhero defenders of their town! With a flap of their capes, the two of them and their robot bear sidekick,  Oscar, protect the citizens in their town with their handmade high-tech machinery. But from what menace? And will our little heroes be able to overcome the  crisis about to threaten the town's peaceful everyday serenity?\n\nCheck out this utterly electrifying near-future animation to find out!\n\n(Source: Official website)"""
-animeRelated	[b'Fastening Days 2']
-animeCharacters	[b'Kei', b'Youji', b'Anna']
-animeVoices	[b'\nShiraishi, Ryouko\nJapanese\n', b'\nOno, Fuyuka\nJapanese\n', b'\nSadaoka, Sayuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshida, Hiroyasu\n\nDirector\n\n', b'\nMatsuoka, Hiroki\n\nSound Director\n\n', b'\nTanaka, Junichi\n\nScript, Original Creator\n\n', b'\nPerfume\n\nTheme Song Performance\n\n']
+animePopularity	6687
+animeDescription	"Yoji and Kei, a boy and girl,  live in a town in the not-so-distant future with their foster parent, Anna. But these seemingly ordinary children have a secret hidden even from their unsuspecting mother.
+
+Yoji and Kei are superhero defenders of their town! With a flap of their capes, the two of them and their robot bear sidekick,  Oscar, protect the citizens in their town with their handmade high-tech machinery. But from what menace? And will our little heroes be able to overcome the  crisis about to threaten the town's peaceful everyday serenity?
+
+Check out this utterly electrifying near-future animation to find out!
+
+(Source: Official website)"
+animeRelated	['Fastening Days 2']
+animeCharacters	['Kei', 'Youji', 'Anna']
+animeVoices	['Shiraishi, Ryouko', 'Ono, Fuyuka', 'Sadaoka, Sayuri']
+animeStaff	[['Ishida, Hiroyasu', 'Director'], ['Matsuoka, Hiroki', 'Sound Director'], ['Tanaka, Junichi', 'Script, Original Creator'], ['Perfume', 'Theme Song Performance']]

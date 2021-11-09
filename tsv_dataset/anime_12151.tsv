@@ -1,5 +1,5 @@
-animeTitle	b'Mori no Ongakudan'
-animeType	b'ONA'
+animeTitle	Mori no Ongakudan
+animeType	ONA
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
+animePopularity	14760
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
 animeRelated	[]
-animeCharacters	[b'Rat', b'Boar', b'Raccoon', b'Squirrel']
-animeVoices	[b'\nMorimoto, Shintarou\nJapanese\n', b'\nShirokuma, Hiroshi\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nSerizawa, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujita, Youichi\n\nDirector\n\n', b'\nMatsubara, Shuu\n\nScript\n\n', b'\nMatsuura, Takeomi\n\nMusic\n\n', b'\nFerreira, Christophe\n\nCharacter Design\n\n']
+animeCharacters	['Rat', 'Boar', 'Raccoon', 'Squirrel']
+animeVoices	['Morimoto, Shintarou', 'Shirokuma, Hiroshi', 'Miyake, Kenta', 'Serizawa, Yuu']
+animeStaff	[['Fujita, Youichi', 'Director'], ['Matsubara, Shuu', 'Script'], ['Matsuura, Takeomi', 'Music'], ['Ferreira, Christophe', 'Character Design']]

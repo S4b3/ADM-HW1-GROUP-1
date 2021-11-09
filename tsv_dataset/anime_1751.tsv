@@ -1,5 +1,5 @@
-animeTitle	b'Koukaku Kidoutai: Shin Movie'
-animeType	b'Movie'
+animeTitle	Koukaku Kidoutai: Shin Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.46
 animeUsers	14653
 animeRank	
-animePopularity	
-animeDescription	b'In the year 2027, a year following the end of the non-nuclear World War IV, a bomb has gone off in Newport City, killing a major arms dealer who may have ties with the mysterious 501 Organization. Public Security official Daisuke Aramaki hires full-body cyber prosthesis user and hacker extraordinaire, Motoko Kusanagi, to investigate.\n\n(Source: Wikipedia)'
-animeRelated	[b'Koukaku Kidoutai', b'Koukaku Kidoutai: SAC_2045', b'Koukaku Kidoutai Arise: Alternative Architecture', b'Animegatari x Koukaku Kidoutai Collab Eizou']
-animeCharacters	[b'Kusanagi, Motoko', b'Batou', b'Togusa', b'Aramaki, Daisuke', b'Saito', b'Ishikawa', b'Pazu', b'Logicoma', b'Borma', b'Kurutsu']
-animeVoices	[b'\nSakamoto, Maaya\nJapanese\n', b'\nMatsuda, Kenichirou\nJapanese\n', b'\nShingaki, Tarusuke\nJapanese\n', b'\nJuku, Ikkyuu\nJapanese\n', b'\nNakakuni, Takurou\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n', b'\nUeda, Youji\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nAsano, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNomura, Kazuya\n\nDirector, Key Animation\n\n', b'\nKise, Kazuchika\n\nDirector, Character Design, Key Animation\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nAbe, Shuuhei\n\nSound Director\n\n']
+animePopularity	2710
+animeDescription	"In the year 2027, a year following the end of the non-nuclear World War IV, a bomb has gone off in Newport City, killing a major arms dealer who may have ties with the mysterious 501 Organization. Public Security official Daisuke Aramaki hires full-body cyber prosthesis user and hacker extraordinaire, Motoko Kusanagi, to investigate.
+
+(Source: Wikipedia)"
+animeRelated	['Koukaku Kidoutai', 'Koukaku Kidoutai: SAC_2045', 'Koukaku Kidoutai Arise: Alternative Architecture', 'Animegatari x Koukaku Kidoutai Collab Eizou']
+animeCharacters	['Kusanagi, Motoko', 'Batou', 'Togusa', 'Aramaki, Daisuke', 'Saito', 'Ishikawa', 'Pazu', 'Logicoma', 'Borma', 'Kurutsu']
+animeVoices	['Sakamoto, Maaya', 'Matsuda, Kenichirou', 'Shingaki, Tarusuke', 'Juku, Ikkyuu', 'Nakakuni, Takurou', 'Sakuya, Shunsuke', 'Ueda, Youji', 'Sawashiro, Miyuki', 'Nakai, Kazuya', 'Asano, Mayumi']
+animeStaff	[['Nomura, Kazuya', 'Director, Key Animation'], ['Kise, Kazuchika', 'Director, Character Design, Key Animation'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Abe, Shuuhei', 'Sound Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Shirobako Movie'
-animeType	b'Movie'
+animeTitle	Shirobako Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.74
 animeUsers	6787
 animeRank	
-animePopularity	
-animeDescription	"b""The film's story is set four years after the events of the original Shirobako anime. Aoi Miyamori keeps busy dealing with the ordinary troubles in her daily work at Musashino Animation. After a morning meeting, Watanabe talks to Aoi and puts her in charge of a new theatrical anime project for the studio. The project has unexpected problems, and Aoi is unsure if the company can proceed with a theatrical anime with its current state of affairs. While dealing with that anxiety, Aoi meets a new colleague named Kaede Miyai (voiced by Ayane Sakura). She and the MusAni team work together to complete the project.\n\n(Source: ANN)"""
-animeRelated	[b'Shirobako']
-animeCharacters	[b'Miyamori, Aoi', b'Yasuhara, Ema', b'Sakaki, Shizuka', b'Imai, Midori', b'Toudou, Misa', b'Miyai, Kaede', b'Yano, Erika', b'Ogasawara, Rinko', b'Kinoshita, Seiichi', b'Kunogi, Ai']
-animeVoices	[b'\nKimura, Juri\nJapanese\n', b'\nYoshimura, Haruka\nJapanese\n', b'\nChisuga, Haruka\nJapanese\n', b'\nOowada, Hitomi\nJapanese\n', b'\nTakano, Asami\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nYamaoka, Yuri\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nIzawa, Shiori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMizushima, Tsutomu\n\nDirector\n\n', b'\nYokote, Michiko\n\nScript\n\n', b'\nfh\xc3\xa1na\n\nTheme Song Performance\n\n', b'\nPonkan\xe2\x91\xa7\n\nOriginal Character Design\n\n']
+animePopularity	2830
+animeDescription	"The film's story is set four years after the events of the original Shirobako anime. Aoi Miyamori keeps busy dealing with the ordinary troubles in her daily work at Musashino Animation. After a morning meeting, Watanabe talks to Aoi and puts her in charge of a new theatrical anime project for the studio. The project has unexpected problems, and Aoi is unsure if the company can proceed with a theatrical anime with its current state of affairs. While dealing with that anxiety, Aoi meets a new colleague named Kaede Miyai (voiced by Ayane Sakura). She and the MusAni team work together to complete the project.
+
+(Source: ANN)"
+animeRelated	['Shirobako']
+animeCharacters	['Miyamori, Aoi', 'Yasuhara, Ema', 'Sakaki, Shizuka', 'Imai, Midori', 'Toudou, Misa', 'Miyai, Kaede', 'Yano, Erika', 'Ogasawara, Rinko', 'Kinoshita, Seiichi', 'Kunogi, Ai']
+animeVoices	['Kimura, Juri', 'Yoshimura, Haruka', 'Chisuga, Haruka', 'Oowada, Hitomi', 'Takano, Asami', 'Sakura, Ayane', 'Yamaoka, Yuri', 'Kayano, Ai', 'Hiyama, Nobuyuki', 'Izawa, Shiori']
+animeStaff	[['Mizushima, Tsutomu', 'Director'], ['Yokote, Michiko', 'Script'], ['fhána', 'Theme Song Performance'], ['Ponkan⑧', 'Original Character Design']]

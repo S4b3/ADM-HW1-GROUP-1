@@ -1,5 +1,5 @@
-animeTitle	b'UG\xe2\x98\x86Ultimate Girls'
-animeType	b'TV'
+animeTitle	UG☆Ultimate Girls
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.64
 animeUsers	3000
 animeRank	
-animePopularity	
-animeDescription	"b""During a monster attack on the city, which is something that happens quite often, Silk and her two friends try get close to the attacking monster for a better view. An unfortunate choice of location to watch from leads to UFO-man, the city's giant protector, to land on the girls crushing them to death. Feeling sorry, UFO-man blames their death on the monster and promises to bring Silk and her friends back to life by lending them his power but the catch is that they now have to become the city's protector as well.\n\n(Source: ANN)"""
+animePopularity	5663
+animeDescription	"During a monster attack on the city, which is something that happens quite often, Silk and her two friends try get close to the attacking monster for a better view. An unfortunate choice of location to watch from leads to UFO-man, the city's giant protector, to land on the girls crushing them to death. Feeling sorry, UFO-man blames their death on the monster and promises to bring Silk and her friends back to life by lending them his power but the catch is that they now have to become the city's protector as well.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Koharuno, Shiruku', b'UFO Man', b'Moroboshi, Tsubomi', b'Ootori, Vivienne', b'Moroboshi, Makoto', b'Okamura, Yosaku', b'Koharuno, Mayu']
-animeVoices	[b'\nFukuen, Misato\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nTokunaga, Ai\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nTai, Yuuki\nJapanese\n', b'\nMatsuyama, Takashi\nJapanese\n', b'\nKimura, Akiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMutou, Yuuji\n\nDirector, Episode Director, Storyboard\n\n', b'\nTakahashi, Hideo\n\nSound Director\n\n', b'\nIshiodori, Hiroshi\n\nEpisode Director, Storyboard\n\n', b'\nKon, Chiaki\n\nStoryboard\n\n']
+animeCharacters	['Koharuno, Shiruku', 'UFO Man', 'Moroboshi, Tsubomi', 'Ootori, Vivienne', 'Moroboshi, Makoto', 'Okamura, Yosaku', 'Koharuno, Mayu']
+animeVoices	['Fukuen, Misato', 'Furuya, Toru', 'Tokunaga, Ai', 'Nabatame, Hitomi', 'Tai, Yuuki', 'Matsuyama, Takashi', 'Kimura, Akiko']
+animeStaff	[['Mutou, Yuuji', 'Director, Episode Director, Storyboard'], ['Takahashi, Hideo', 'Sound Director'], ['Ishiodori, Hiroshi', 'Episode Director, Storyboard'], ['Kon, Chiaki', 'Storyboard']]

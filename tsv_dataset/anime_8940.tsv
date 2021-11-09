@@ -1,5 +1,5 @@
-animeTitle	b'DD Hokuto no Ken 2 Ichigo Aji+'
-animeType	b'TV'
+animeTitle	DD Hokuto no Ken 2 Ichigo Aji+
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,18 @@ animeNumMembers
 animeScore	5.93
 animeUsers	938
 animeRank	
-animePopularity	
-animeDescription	"b""In the 21st century, the characters of Fist of the North Star are living in peaceful Japan. In particular, Kenshirou is a convenience store worker, Raoh works at a factory, and wracked by illness, Toki is looking for work. The legend of the Fighting NEET (Not in Education, Employment, or Training) North Star begins in the modern day.\n\n(Source: Crunchyroll)\n\n\nNote: Short stories adapting Hokuto no Ken: Ichigo Aji manga are included at the end of each episode.\n\nServing as a spinoff gag manga of the original Hokuto no Ken series, the story is a parody of Fist of the North Star by Buronson and Tetsuo Hara. It consists of page-long gags centered mainly on Souther, both within his final battle with Kenshiro and inserting himself into other parts of the series where he doesn't belong. One recurring gag involves the kid with a turban repeatedly stabbing Souther in the leg every time he climbs the pyramid's staircase, and another involves Rei suddenly transforming into Souther in his iconic moments. \n\n(Source: Hokuto no Ken Wikia)"""
-animeRelated	[b'DD Hokuto no Ken', b'Hokuto no Ken: Ichigo-Aji', b'Hokuto no Ken', b'Hokuto no Ken 2', b'DD Hokuto no Ken (2013)']
-animeCharacters	[b'Kenshirou', b'Rei', b'Souther', b'Shuu', b'Shin', b'Fudou', b'Yuda', b'Raou', b'Toki', b'Bat']
-animeVoices	[b'\nKonishi, Katsuyuki\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nMatsuyama, Takashi\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nYamashita, Daiki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMankyuu\n\nDirector\n\n', b'\nTanabe, Keiji\n\nTheme Song Arrangement\n\n', b'\nYukito Imouto\n\nOriginal Character Design\n\n', b'\nKawata, Yushi\n\nOriginal Creator\n\n']
+animePopularity	8225
+animeDescription	"In the 21st century, the characters of Fist of the North Star are living in peaceful Japan. In particular, Kenshirou is a convenience store worker, Raoh works at a factory, and wracked by illness, Toki is looking for work. The legend of the Fighting NEET (Not in Education, Employment, or Training) North Star begins in the modern day.
+
+(Source: Crunchyroll)
+
+
+Note: Short stories adapting Hokuto no Ken: Ichigo Aji manga are included at the end of each episode.
+
+Serving as a spinoff gag manga of the original Hokuto no Ken series, the story is a parody of Fist of the North Star by Buronson and Tetsuo Hara. It consists of page-long gags centered mainly on Souther, both within his final battle with Kenshiro and inserting himself into other parts of the series where he doesn't belong. One recurring gag involves the kid with a turban repeatedly stabbing Souther in the leg every time he climbs the pyramid's staircase, and another involves Rei suddenly transforming into Souther in his iconic moments. 
+
+(Source: Hokuto no Ken Wikia)"
+animeRelated	['DD Hokuto no Ken', 'Hokuto no Ken: Ichigo-Aji', 'Hokuto no Ken', 'Hokuto no Ken 2', 'DD Hokuto no Ken (2013)']
+animeCharacters	['Kenshirou', 'Rei', 'Souther', 'Shuu', 'Shin', 'Fudou', 'Yuda', 'Raou', 'Toki', 'Bat']
+animeVoices	['Konishi, Katsuyuki', 'Toriumi, Kousuke', 'Ginga, Banjou', 'Suwabe, Junichi', 'Morikawa, Toshiyuki', 'Matsuyama, Takashi', 'Taniyama, Kishou', 'Yamashita, Daiki']
+animeStaff	[['Mankyuu', 'Director'], ['Tanabe, Keiji', 'Theme Song Arrangement'], ['Yukito Imouto', 'Original Character Design'], ['Kawata, Yushi', 'Original Creator']]

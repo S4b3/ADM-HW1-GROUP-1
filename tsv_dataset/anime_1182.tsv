@@ -1,5 +1,5 @@
-animeTitle	b'D4DJ: First Mix'
-animeType	b'TV'
+animeTitle	D4DJ: First Mix
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.65
 animeUsers	7478
 animeRank	
-animePopularity	
-animeDescription	b'Having moved back to Japan from abroad, Rinku Aimoto transfers to Yoba Academy where DJing is popular. She is deeply moved by a DJ concert she sees there, and decides to form a unit of her own with Maho Akashi, Muni Oonaruto, and Rei Togetsu.\n\nWhile interacting with the other DJ units like Peaky P-key and Photon Maiden, Rinku and her friends aim for the high stage!\n\n(Source: Funimation)'
-animeRelated	[b'D4DJ Petit Mix']
-animeCharacters	[b'Aimoto, Rinku', b'Oonaruto, Muni', b'Akashi, Maho', b'Togetsu, Rei', b'Yamate, Kyouko', b'Izumo, Saki', b'Inuyose, Shinobu', b'Miyake, Aoi', b'Aoyagi, Tsubaki', b'Fukushima, Noa']
-animeVoices	[b'\nNishio, Yuuka\nJapanese\n', b'\nMimura, Haruka\nJapanese\n', b'\nKagami, Karin\nJapanese\n', b'\nShizaki, Kanon\nJapanese\n', b'\nTerakawa, Aimi\nJapanese\n', b'\nTsumugi, Risa\nJapanese\n', b'\nTakagi, Miyu\nJapanese\n', b'\nTsunko\nJapanese\n', b'\nKatou, Rihona\nJapanese\n', b'\nSatou, Hinata\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuura, Hiroaki\n\nProducer\n\n', b'\nMizushima, Seiji\n\nDirector\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nHyadain\n\nTheme Song Composition\n\n']
+animePopularity	4102
+animeDescription	"Having moved back to Japan from abroad, Rinku Aimoto transfers to Yoba Academy where DJing is popular. She is deeply moved by a DJ concert she sees there, and decides to form a unit of her own with Maho Akashi, Muni Oonaruto, and Rei Togetsu.
+
+While interacting with the other DJ units like Peaky P-key and Photon Maiden, Rinku and her friends aim for the high stage!
+
+(Source: Funimation)"
+animeRelated	['D4DJ Petit Mix']
+animeCharacters	['Aimoto, Rinku', 'Oonaruto, Muni', 'Akashi, Maho', 'Togetsu, Rei', 'Yamate, Kyouko', 'Izumo, Saki', 'Inuyose, Shinobu', 'Miyake, Aoi', 'Aoyagi, Tsubaki', 'Fukushima, Noa']
+animeVoices	['Nishio, Yuuka', 'Mimura, Haruka', 'Kagami, Karin', 'Shizaki, Kanon', 'Terakawa, Aimi', 'Tsumugi, Risa', 'Takagi, Miyu', 'Tsunko', 'Katou, Rihona', 'Satou, Hinata']
+animeStaff	[['Matsuura, Hiroaki', 'Producer'], ['Mizushima, Seiji', 'Director'], ['Nagasaki, Yukio', 'Sound Director'], ['Hyadain', 'Theme Song Composition']]

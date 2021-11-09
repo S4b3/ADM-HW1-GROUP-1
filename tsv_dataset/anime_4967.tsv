@@ -1,5 +1,5 @@
-animeTitle	"b""Dorami & Doraemons: Robot School's Seven Mysteries"""
-animeType	b'Movie'
+animeTitle	Dorami & Doraemons: Robot School's Seven Mysteries
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.73
 animeUsers	616
 animeRank	
-animePopularity	
-animeDescription	"b""At the graduation day in Robot School, mysterious flow pulls in all of Dorami's friends and classmates, including Doraemon. Doraemons coming to the rescue, trying to solve this mystery and reveal one who stay behind all of this."""
-animeRelated	[b'Doraemon Movie 17: Nobita to Ginga Express']
-animeCharacters	[b'Dorami', b'Dora the Kid', b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi', b'El Matadora', b'Dora-nichov', b'Teraodai']
-animeVoices	[b'\nYokozawa, Keiko\nJapanese\n', b'\nNanba, Keiichi\nJapanese\n', b'\nOoyama, Nobuyo\nJapanese\n', b'\nTsukui, Kyousei\nJapanese\n', b'\nSakurai, Toshiharu\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYonetani, Yoshitomo\n\nDirector\n\n', b'\nTerada, Kenji\n\nScript\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n', b'\nMatsuda, Akihiko\n\nSound Effects\n\n']
+animePopularity	10264
+animeDescription	At the graduation day in Robot School, mysterious flow pulls in all of Dorami's friends and classmates, including Doraemon. Doraemons coming to the rescue, trying to solve this mystery and reveal one who stay behind all of this.
+animeRelated	['Doraemon Movie 17: Nobita to Ginga Express']
+animeCharacters	['Dorami', 'Dora the Kid', 'Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'El Matadora', 'Dora-nichov', 'Teraodai']
+animeVoices	['Yokozawa, Keiko', 'Nanba, Keiichi', 'Ooyama, Nobuyo', 'Tsukui, Kyousei', 'Sakurai, Toshiharu', 'Nagai, Ichiro']
+animeStaff	[['Yonetani, Yoshitomo', 'Director'], ['Terada, Kenji', 'Script'], ['Fujiko, Fujio F.', 'Original Creator'], ['Matsuda, Akihiko', 'Sound Effects']]

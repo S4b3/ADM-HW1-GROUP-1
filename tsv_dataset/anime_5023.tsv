@@ -1,5 +1,5 @@
-animeTitle	b'Teekyuu 2'
-animeType	b'TV'
+animeTitle	Teekyuu 2
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.72
 animeUsers	16193
 animeRank	
-animePopularity	
-animeDescription	b'Second season of Teekyu series.'
-animeRelated	[b'Teekyuu', b'Teekyuu 3', b'Teekyuu 2 Specials']
-animeCharacters	[b'Bandou, Marimo', b'Shinjou, Kanae', b'Takamiya, Nasuno', b'Oshimoto, Yuri', b'Tomalin', b'Yucatan', b'Kondou, Udonko', b'Takamiya, Father', b'Bobby', b'Mika']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nNarumi, Kyoko\nJapanese\n', b'\nWatanabe, Yui\nJapanese\n', b'\nOgura, Yui\nJapanese\n', b'\nTakahashi, Shinya\nJapanese\n', b'\nIshihara, Kaori\nJapanese\n', b'\nShimozuma, Yoshiyuki\nJapanese\n', b'\nOowada, Hitomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItagaki, Shin\n\nDirector, Sound Director, Episode Director, Script, Storyboard, Key Animation, Character Design, Animation Director, In-Between Animation\n\n', b'\nNarumi, Kyoko\n\nTheme Song Performance\n\n', b'\nYashikin\n\nTheme Song Lyrics, Theme Song Composition, Theme Song Arrangement\n\n', b'\nTerada, Tsugeo\n\nOriginal Creator\n\n']
+animePopularity	3411
+animeDescription	Second season of Teekyu series.
+animeRelated	['Teekyuu', 'Teekyuu 3', 'Teekyuu 2 Specials']
+animeCharacters	['Bandou, Marimo', 'Shinjou, Kanae', 'Takamiya, Nasuno', 'Oshimoto, Yuri', 'Tomalin', 'Yucatan', 'Kondou, Udonko', 'Takamiya, Father', 'Bobby', 'Mika']
+animeVoices	['Hanazawa, Kana', 'Mimori, Suzuko', 'Narumi, Kyoko', 'Watanabe, Yui', 'Ogura, Yui', 'Takahashi, Shinya', 'Ishihara, Kaori', 'Shimozuma, Yoshiyuki', 'Oowada, Hitomi']
+animeStaff	[['Itagaki, Shin', 'Director, Sound Director, Episode Director, Script, Storyboard, Key Animation, Character Design, Animation Director, In-Between Animation'], ['Narumi, Kyoko', 'Theme Song Performance'], ['Yashikin', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['Terada, Tsugeo', 'Original Creator']]

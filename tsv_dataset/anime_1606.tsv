@@ -1,5 +1,5 @@
-animeTitle	b'Hello!! Kiniro Mosaic'
-animeType	b'TV'
+animeTitle	Hello!! Kiniro Mosaic
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.51
 animeUsers	33007
 animeRank	
-animePopularity	
-animeDescription	"b""Although learning different languages continues to be an interest for Shinobu and her friends, the new school year brings unexpected difficulties. Not only is there always something new and different to distract them from their studies, but Alice and Yoko also are having trouble adjusting to being in a different class from Shinobu and Aya.\n\nMeanwhile, Karen isn't getting along at all with her new homeroom teacher, and it doesn't help that the teacher is having trouble figuring out how to make herself seem friendlier to her students as well. Craziness may ensue, but sometimes, all it takes is the right mutual experience to bring everyone together.\n\nWhile some of those experiences may not be as well-thought-out as others (like when Alice and Aya act like juvenile delinquents to seem more grown up), the gang's new adventures are certain to warm everyone's heart as the fun and friendships keep growing in HELLO!! KINMOZA!\n\n(Source: Sentai Filmworks)"""
-animeRelated	[b'Kiniro Mosaic', b'Kiniro Mosaic: Pretty Days']
-animeCharacters	[b'Kujou, Karen', b'Komichi, Aya', b'Cartelet, Alice', b'Inokuma, Youko', b'Oomiya, Shinobu', b'Kuzehashi, Akari', b'Karasuma, Sakura', b'Matsubara, Honoka', b'Oomiya, Isami', b'Inokuma, Mitsuki']
-animeVoices	[b'\nTouyama, Nao\nJapanese\n', b'\nTaneda, Risa\nJapanese\n', b'\nTanaka, Manami\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nNishi, Asuka\nJapanese\n', b'\nOonishi, Saori\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nSuwa, Ayaka\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nMurakawa, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Motoki\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nAsami, Matsuo\n\nEpisode Director\n\n', b'\nKawabata, Erkin\n\nStoryboard, Key Animation\n\n']
+animePopularity	2026
+animeDescription	"Although learning different languages continues to be an interest for Shinobu and her friends, the new school year brings unexpected difficulties. Not only is there always something new and different to distract them from their studies, but Alice and Yoko also are having trouble adjusting to being in a different class from Shinobu and Aya.
+
+Meanwhile, Karen isn't getting along at all with her new homeroom teacher, and it doesn't help that the teacher is having trouble figuring out how to make herself seem friendlier to her students as well. Craziness may ensue, but sometimes, all it takes is the right mutual experience to bring everyone together.
+
+While some of those experiences may not be as well-thought-out as others (like when Alice and Aya act like juvenile delinquents to seem more grown up), the gang's new adventures are certain to warm everyone's heart as the fun and friendships keep growing in HELLO!! KINMOZA!
+
+(Source: Sentai Filmworks)"
+animeRelated	['Kiniro Mosaic', 'Kiniro Mosaic: Pretty Days']
+animeCharacters	['Kujou, Karen', 'Komichi, Aya', 'Cartelet, Alice', 'Inokuma, Youko', 'Oomiya, Shinobu', 'Kuzehashi, Akari', 'Karasuma, Sakura', 'Matsubara, Honoka', 'Oomiya, Isami', 'Inokuma, Mitsuki']
+animeVoices	['Touyama, Nao', 'Taneda, Risa', 'Tanaka, Manami', 'Uchiyama, Yumi', 'Nishi, Asuka', 'Oonishi, Saori', 'Satou, Satomi', 'Suwa, Ayaka', 'Tamura, Yukari', 'Murakawa, Rie']
+animeStaff	[['Tanaka, Motoki', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Asami, Matsuo', 'Episode Director'], ['Kawabata, Erkin', 'Storyboard, Key Animation']]

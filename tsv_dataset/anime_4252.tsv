@@ -1,5 +1,5 @@
-animeTitle	b'Gokukoku no Brynhildr'
-animeType	b'TV'
+animeTitle	Gokukoku no Brynhildr
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	6.89
 animeUsers	149596
 animeRank	
-animePopularity	
-animeDescription	"b""Venturing into the wilderness, the skeptical Ryouta Murakami and the ambitious Kuroneko were on a quest to prove the existence of extraterrestrial life when a tragic accident occurred, reaping Kuroneko of her life and leaving Ryouta in a critically injured state.\n\nTen years have passed since the disaster, and Ryouta is now living a normal life in high school. He vows to prove that aliens are real in honor of his late friend. A transfer student named Neko Kuroha unexpectedly arrives one day, bearing a striking resemblance to the late Kuroneko\xe2\x80\x94even sharing a similar name. Most mysteriously, she seems to possess supernatural powers.\n\nAs Ryouta takes more interest in Neko, he is drawn into a deadly world where dangerous scientists hunt magic-wielding witches that have escaped from their secret research laboratory. Neko is one of these escapees, but there are many others who are in similar situations, and it's up to Ryouta to protect them from their would-be captors.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Gokukoku no Brynhildr', b'Gokukoku no Brynhildr: Kara Sawagi']
-animeCharacters	[b'Kuroha, Neko', b'Schlierenzauer, Kazumi', b'Tachibana, Kana', b'Murakami, Ryouta', b'Takatori, Kotori', b'Tokou, Nanami', b'Fujisaki, Mako', b'Wakabayashi, Hatsuna', b'Hashiratani, Kogorou', b'Ichijiku, Chisato']
-animeVoices	[b'\nTaneda, Risa\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nSuzaki, Aya\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nTadokoro, Azusa\nJapanese\n', b'\nNumakura, Manami\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nItou, Kentarou\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImaizumi, Kenichi\n\nDirector\n\n', b'\nTsuchiya, Masaki\n\nSound Director\n\n', b'\nTakamura, Yuuta\n\nEpisode Director\n\n', b'\nKitajima, Yukinori\n\nScript, Series Composition\n\n']
+animePopularity	565
+animeDescription	"Venturing into the wilderness, the skeptical Ryouta Murakami and the ambitious Kuroneko were on a quest to prove the existence of extraterrestrial life when a tragic accident occurred, reaping Kuroneko of her life and leaving Ryouta in a critically injured state.
+
+Ten years have passed since the disaster, and Ryouta is now living a normal life in high school. He vows to prove that aliens are real in honor of his late friend. A transfer student named Neko Kuroha unexpectedly arrives one day, bearing a striking resemblance to the late Kuroneko—even sharing a similar name. Most mysteriously, she seems to possess supernatural powers.
+
+As Ryouta takes more interest in Neko, he is drawn into a deadly world where dangerous scientists hunt magic-wielding witches that have escaped from their secret research laboratory. Neko is one of these escapees, but there are many others who are in similar situations, and it's up to Ryouta to protect them from their would-be captors.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Gokukoku no Brynhildr', 'Gokukoku no Brynhildr: Kara Sawagi']
+animeCharacters	['Kuroha, Neko', 'Schlierenzauer, Kazumi', 'Tachibana, Kana', 'Murakami, Ryouta', 'Takatori, Kotori', 'Tokou, Nanami', 'Fujisaki, Mako', 'Wakabayashi, Hatsuna', 'Hashiratani, Kogorou', 'Ichijiku, Chisato']
+animeVoices	['Taneda, Risa', 'Ichimichi, Mao', 'Suzaki, Aya', 'Satou, Rina', 'Tadokoro, Azusa', 'Numakura, Manami', 'Noto, Mamiko', 'Uchiyama, Yumi', 'Itou, Kentarou', 'Touchi, Hiroki']
+animeStaff	[['Imaizumi, Kenichi', 'Director'], ['Tsuchiya, Masaki', 'Sound Director'], ['Takamura, Yuuta', 'Episode Director'], ['Kitajima, Yukinori', 'Script, Series Composition']]

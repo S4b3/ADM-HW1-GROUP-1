@@ -1,5 +1,5 @@
-animeTitle	b'Bio Hunter'
-animeType	b'OVA'
+animeTitle	Bio Hunter
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	5.92
 animeUsers	5018
 animeRank	
-animePopularity	
-animeDescription	b'Two scientists are attempting to distribute the cure for a demon virus that is affecting people all over Japan, however, things have become complicated. One of them has become infected. So begins his battle with himself, as he attempts to not only control his emerging demon side, but also to save the lives of others by wielding its great strength. \n'
-animeRelated	[b'Bio Hunter']
-animeCharacters	[b'Koshigaya', b'Komada', b'Murakami, Sayaka', b'Marie', b'Police Officer', b'OL', b'Yoshikawa', b'Murakami, Bokudo', b'Tabe, Seijuro']
-animeVoices	[b'\nInoue, Kazuhiko\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n', b'\nIgarashi, Rei\nJapanese\n', b'\nNakamura, Daiki\nJapanese\n', b'\nOtsuka, Mizue\nJapanese\n', b'\nOotomo, Ryuuzaburou\nJapanese\n', b'\nOtsuka, Chikao\nJapanese\n', b'\nIshida, Tarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawajiri, Yoshiaki\n\nProducer, Script, Key Animation\n\n', b'\nYamamoto, Mataichirou\n\nProducer\n\n', b'\nTakahashi, Naoko\n\nProducer\n\n', b'\nSatou, Yuuzou\n\nDirector, Storyboard\n\n']
+animePopularity	5032
+animeDescription	"Two scientists are attempting to distribute the cure for a demon virus that is affecting people all over Japan, however, things have become complicated. One of them has become infected. So begins his battle with himself, as he attempts to not only control his emerging demon side, but also to save the lives of others by wielding its great strength. 
+"
+animeRelated	['Bio Hunter']
+animeCharacters	['Koshigaya', 'Komada', 'Murakami, Sayaka', 'Marie', 'Police Officer', 'OL', 'Yoshikawa', 'Murakami, Bokudo', 'Tabe, Seijuro']
+animeVoices	['Inoue, Kazuhiko', 'Seki, Toshihiko', 'Minaguchi, Yuko', 'Igarashi, Rei', 'Nakamura, Daiki', 'Otsuka, Mizue', 'Ootomo, Ryuuzaburou', 'Otsuka, Chikao', 'Ishida, Tarou']
+animeStaff	[['Kawajiri, Yoshiaki', 'Producer, Script, Key Animation'], ['Yamamoto, Mataichirou', 'Producer'], ['Takahashi, Naoko', 'Producer'], ['Satou, Yuuzou', 'Director, Storyboard']]

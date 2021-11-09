@@ -1,5 +1,5 @@
-animeTitle	b'Golden Time'
-animeType	b'TV'
+animeTitle	Golden Time
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.76
 animeUsers	432011
 animeRank	
-animePopularity	
-animeDescription	"b""Due to a tragic accident, Banri Tada is struck with amnesia, dissolving the memories of his hometown and past. However, after befriending Mitsuo Yanagisawa, he decides to move on and begin a new life at law school in Tokyo. But just as he is beginning to adjust to his college life, the beautiful Kouko Kaga dramatically barges into Banri's life, and their chance meeting marks the beginning of an unforgettable year. \n\nAfter having a glimpse of college life, Banri learns that he is in a new place and a new world\xe2\x80\x94a place where he can be reborn, have new friends, fall in love, make mistakes, and grow. And as he begins to discover who he was, the path he has chosen leads him towards a blindingly bright life that he will never want to forget.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Golden Time']
-animeCharacters	[b'Kaga, Kouko', b'Tada, Banri', b'Hayashida, Nana', b'Yanagisawa, Mitsuo', b'Nana', b'Satou, Takaya', b'Oka, Chinami', b'Koshino', b'Sao', b'Tada, Mother']
-animeVoices	[b'\nHorie, Yui\nJapanese\n', b'\nFurukawa, Makoto\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nHikami, Takahiro\nJapanese\n', b'\nKido, Ibuki\nJapanese\n', b'\nKondou, Takayuki\nJapanese\n', b'\nGotou, Saori\nJapanese\n', b'\nHonda, Takako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKon, Chiaki\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nKoyama, Yoshitaka\n\nEpisode Director, Storyboard\n\n', b'\nNakano, Hideaki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	135
+animeDescription	"Due to a tragic accident, Banri Tada is struck with amnesia, dissolving the memories of his hometown and past. However, after befriending Mitsuo Yanagisawa, he decides to move on and begin a new life at law school in Tokyo. But just as he is beginning to adjust to his college life, the beautiful Kouko Kaga dramatically barges into Banri's life, and their chance meeting marks the beginning of an unforgettable year. 
+
+After having a glimpse of college life, Banri learns that he is in a new place and a new world—a place where he can be reborn, have new friends, fall in love, make mistakes, and grow. And as he begins to discover who he was, the path he has chosen leads him towards a blindingly bright life that he will never want to forget.
+
+[Written by MAL Rewrite]"
+animeRelated	['Golden Time']
+animeCharacters	['Kaga, Kouko', 'Tada, Banri', 'Hayashida, Nana', 'Yanagisawa, Mitsuo', 'Nana', 'Satou, Takaya', 'Oka, Chinami', 'Koshino', 'Sao', 'Tada, Mother']
+animeVoices	['Horie, Yui', 'Furukawa, Makoto', 'Kayano, Ai', 'Ishikawa, Kaito', 'Satou, Satomi', 'Hikami, Takahiro', 'Kido, Ibuki', 'Kondou, Takayuki', 'Gotou, Saori', 'Honda, Takako']
+animeStaff	[['Kon, Chiaki', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Koyama, Yoshitaka', 'Episode Director, Storyboard'], ['Nakano, Hideaki', 'Episode Director, Storyboard']]

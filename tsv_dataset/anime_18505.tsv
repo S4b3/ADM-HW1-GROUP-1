@@ -1,5 +1,5 @@
-animeTitle	b'Ryoujoku Guerrilla Kari 3'
-animeType	b'OVA'
+animeTitle	Ryoujoku Guerrilla Kari 3
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.02
 animeUsers	605
 animeRank	
-animePopularity	
-animeDescription	b'There is a spaceship called Victoire. It keeps winning and never loses. The ship is controlled by young and beautiful women, and their victory always boosts the morale of the team. But the ship and its secrets are sold to the enemy after the war, and the women are confined in prison. They have nothing to protect themselves...   \n\n(Source: AniDB)'
+animePopularity	8951
+animeDescription	"There is a spaceship called Victoire. It keeps winning and never loses. The ship is controlled by young and beautiful women, and their victory always boosts the morale of the team. But the ship and its secrets are sold to the enemy after the war, and the women are confined in prison. They have nothing to protect themselves...   
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Belteie, Giselle', b'Gregor, Elen', b'Bisotsus, Rogul']
-animeVoices	[b'\nNishizawa, Hiroka\nJapanese\n', b'\nOokubo, Aiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujimoto, Yoshitaka\n\nDirector, Storyboard\n\n', b'\nShinkai, Kouki\n\nEditing\n\n', b'\nYamamoto, Toshiyuki\n\nMusic\n\n', b'\nMatsui, Shinya\n\nDirector of Photography\n\n']
+animeCharacters	['Belteie, Giselle', 'Gregor, Elen', 'Bisotsus, Rogul']
+animeVoices	['Nishizawa, Hiroka', 'Ookubo, Aiko']
+animeStaff	[['Fujimoto, Yoshitaka', 'Director, Storyboard'], ['Shinkai, Kouki', 'Editing'], ['Yamamoto, Toshiyuki', 'Music'], ['Matsui, Shinya', 'Director of Photography']]

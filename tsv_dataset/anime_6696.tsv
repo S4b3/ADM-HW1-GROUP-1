@@ -1,5 +1,5 @@
-animeTitle	b'Rail Wars!'
-animeType	b'TV'
+animeTitle	Rail Wars!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.4
 animeUsers	79169
 animeRank	
-animePopularity	
-animeDescription	"b""Rail Wars! takes place in an alternate universe where the Japanese government remains in control of the nation's railway systems. Because of the stability afforded by the leadership of the government, the railway system is allowed to flourish.\n\nNaoto Takayama aspires to become an employee for Japan National Railways because of the comfortable life that it will enable him to live. In order to accomplish this he enters its training program, where students must demonstrate their knowledge of trains as well as their ability to be ready for any challenge that might arise.\n\nDuring this time period he will encounter other students such as the athletically gifted Aoi Sakura, the constantly hungry Sho Iwaizumi, and the human encyclopedia Haruka Komi. Together they will work towards surviving their trainee period, all the while taking on purse snatchers, bomb threats, and the looming specter of the extremist \xe2\x80\x9cRJ\xe2\x80\x9d group who wants to privatize the railway system."""
-animeRelated	[b'Rail Wars! Nihon Kokuyuu Tetsudou Kouantai']
-animeCharacters	[b'Sakurai, Aoi', b'Koumi, Haruka', b'Takayama, Naoto', b'Iwaizumi, Shou', b'Iida, Nana', b'Kashima, Noa', b'Sasshou, Mari', b'Gonou, Hitomi', b'Jougasaki, Nami', b'Kuji, Alice']
-animeVoices	[b'\nNumakura, Manami\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nChihara, Minori\nJapanese\n', b'\nIgarashi, Hiromi\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nKouno, Marika\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSueda, Yoshifumi\n\nDirector, Episode Director, Storyboard\n\n', b'\nGou, Fumiyuki\n\nSound Director\n\n', b'\nSasaki, Tokihiro\n\nEpisode Director\n\n', b'\nTakahashi, Takeo\n\nStoryboard\n\n']
+animePopularity	970
+animeDescription	"Rail Wars! takes place in an alternate universe where the Japanese government remains in control of the nation's railway systems. Because of the stability afforded by the leadership of the government, the railway system is allowed to flourish.
+
+Naoto Takayama aspires to become an employee for Japan National Railways because of the comfortable life that it will enable him to live. In order to accomplish this he enters its training program, where students must demonstrate their knowledge of trains as well as their ability to be ready for any challenge that might arise.
+
+During this time period he will encounter other students such as the athletically gifted Aoi Sakura, the constantly hungry Sho Iwaizumi, and the human encyclopedia Haruka Komi. Together they will work towards surviving their trainee period, all the while taking on purse snatchers, bomb threats, and the looming specter of the extremist “RJ” group who wants to privatize the railway system."
+animeRelated	['Rail Wars! Nihon Kokuyuu Tetsudou Kouantai']
+animeCharacters	['Sakurai, Aoi', 'Koumi, Haruka', 'Takayama, Naoto', 'Iwaizumi, Shou', 'Iida, Nana', 'Kashima, Noa', 'Sasshou, Mari', 'Gonou, Hitomi', 'Jougasaki, Nami', 'Kuji, Alice']
+animeVoices	['Numakura, Manami', 'Uchida, Maaya', 'Fukuyama, Jun', 'Hino, Satoshi', 'Horie, Yui', 'Chihara, Minori', 'Igarashi, Hiromi', 'Nakahara, Mai', 'Kouno, Marika', 'Fujimura, Ayumi']
+animeStaff	[['Sueda, Yoshifumi', 'Director, Episode Director, Storyboard'], ['Gou, Fumiyuki', 'Sound Director'], ['Sasaki, Tokihiro', 'Episode Director'], ['Takahashi, Takeo', 'Storyboard']]

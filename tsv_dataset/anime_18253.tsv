@@ -1,5 +1,5 @@
-animeTitle	b'Cele Kano'
-animeType	b'OVA'
+animeTitle	Cele Kano
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.33
 animeUsers	1571
 animeRank	
-animePopularity	
-animeDescription	"b""During summer holidays, Katsuragi reports to the Tsubaratera household to work as a butler in accordance to his grandfather's will. There, he meets the spoiled and willful Tsubaratera Kotoha.\n\n(Source: translated and adapted from official site by Cranston)"""
-animeRelated	[b'Cele\xe2\x99\xa5Kano']
-animeCharacters	[b'Tsuburadera, Kotoha', b'Katsuragi, Ryuunosuke', b'Kurimina, Main']
+animePopularity	7500
+animeDescription	"During summer holidays, Katsuragi reports to the Tsubaratera household to work as a butler in accordance to his grandfather's will. There, he meets the spoiled and willful Tsubaratera Kotoha.
+
+(Source: translated and adapted from official site by Cranston)"
+animeRelated	['Cele♥Kano']
+animeCharacters	['Tsuburadera, Kotoha', 'Katsuragi, Ryuunosuke', 'Kurimina, Main']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nIgarashi, Denma\n\nOriginal Creator\n\n']
+animeStaff	[['Igarashi, Denma', 'Original Creator']]

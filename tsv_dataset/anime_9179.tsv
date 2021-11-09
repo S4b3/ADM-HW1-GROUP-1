@@ -1,5 +1,5 @@
-animeTitle	b'School Days: Valentine Days'
-animeType	b'OVA'
+animeTitle	School Days: Valentine Days
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.86
 animeUsers	27628
 animeRank	
-animePopularity	
-animeDescription	"b'OVA that came with the PlayStation 2 game ""School Days L\xc3\x97H""\n\nMakoto, Sekai, Kotonoha, and many other classmates all go to a hot springs hotel to relax, where they discuss what their plans are for the upcoming Valentine\'s Day. When the day actually comes, half a dozen girls fight over who gets to give chocolate to Makoto.\n\n(Source: ANN)'"
-animeRelated	[b'School Days']
-animeCharacters	[b'Katsura, Kotonoha', b'Itou, Makoto', b'Saionji, Sekai', b'Kiyoura, Setsuna', b'Katsura, Kokoro', b'Kato, Otome', b'Sawanaga, Taisuke', b'Kanroji, Nanami', b'Kuroda, Hikari', b'Saionji, Youko']
-animeVoices	[b'\nOkajima, Tae\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nKawaragi, Shiho\nJapanese\n', b'\nImoto, Kei\nJapanese\n', b'\nAshiro, Megu\nJapanese\n', b'\nNagami, Haruka\nJapanese\n', b'\nMatsumoto, Yoshirou\nJapanese\n', b'\nTakahashi, Chiaki\nJapanese\n', b'\nTanaka, Ryouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMotonaga, Keitarou\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nKuzuya, Naoyuki\n\nStoryboard\n\n', b'\nHashimoto, Miyuki\n\nTheme Song Performance\n\n']
+animePopularity	2519
+animeDescription	"OVA that came with the PlayStation 2 game ""School Days L×H""
+
+Makoto, Sekai, Kotonoha, and many other classmates all go to a hot springs hotel to relax, where they discuss what their plans are for the upcoming Valentine's Day. When the day actually comes, half a dozen girls fight over who gets to give chocolate to Makoto.
+
+(Source: ANN)"
+animeRelated	['School Days']
+animeCharacters	['Katsura, Kotonoha', 'Itou, Makoto', 'Saionji, Sekai', 'Kiyoura, Setsuna', 'Katsura, Kokoro', 'Kato, Otome', 'Sawanaga, Taisuke', 'Kanroji, Nanami', 'Kuroda, Hikari', 'Saionji, Youko']
+animeVoices	['Okajima, Tae', 'Hirakawa, Daisuke', 'Kawaragi, Shiho', 'Imoto, Kei', 'Ashiro, Megu', 'Nagami, Haruka', 'Matsumoto, Yoshirou', 'Takahashi, Chiaki', 'Tanaka, Ryouko']
+animeStaff	[['Motonaga, Keitarou', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Kuzuya, Naoyuki', 'Storyboard'], ['Hashimoto, Miyuki', 'Theme Song Performance']]

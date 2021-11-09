@@ -1,5 +1,5 @@
-animeTitle	b'Genma Taisen'
-animeType	b'Movie'
+animeTitle	Genma Taisen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,17 @@ animeNumMembers
 animeScore	5.14
 animeUsers	1672
 animeRank	
-animePopularity	
-animeDescription	"b""From the depths of space he is coming...\n\nAncient beyond understanding, his power is immeasurable. He has destroyed half the universe and is on his way here. He is... Genma.\n\nOnly two people are aware of the imminent catastrophe: Princess Luna, a modern day prophetess and Vega, a cybernetic crusader from a world long since ravaged by Genma. Determined to spare the Earth from a similar fate, Luna and Vega must try to mobilize the most potent psychics in the world. Together, this army of fledging psychic warriors must succeed where billions have tried... and failed.\n\nBut will they be able to gather their champions in time? Genma's agents are already on Earth to ensure that their master meets with no opposition!\n\n(Source: AnimeNfo)"""
-animeRelated	[b'Genma Taisen', b'Genma Taisen: Shinwa Zenya no Shou']
-animeCharacters	"[b'Luna', b'Vega', b'Azuma, Jou', b'Announcer', b'Transylvanian Chamberlain', b'Salamander', b'Genma Daioh', b""Chief O'Reilly"", b'Gangster', b'Yogin']"
-animeVoices	[b'\nKoyama, Mami\nJapanese\n', b'\nEmori, Toru\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nYada, Kouji\nJapanese\n', b'\nMiyauchi, Kouhei\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n', b'\nMugihito\nJapanese\n', b'\nShioya, Yoku\nJapanese\n', b'\nSaikachi, Ryuuji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nRintaro\n\nDirector\n\n', b'\nEmerson, Keith\n\nTheme Song Arrangement, Theme Song Composition\n\n', b'\nOtomo, Katsuhiro\n\nCharacter Design\n\n', b'\nMozart, Wolfgang Amadeus\n\nMusic\n\n']
+animePopularity	7007
+animeDescription	"From the depths of space he is coming...
+
+Ancient beyond understanding, his power is immeasurable. He has destroyed half the universe and is on his way here. He is... Genma.
+
+Only two people are aware of the imminent catastrophe: Princess Luna, a modern day prophetess and Vega, a cybernetic crusader from a world long since ravaged by Genma. Determined to spare the Earth from a similar fate, Luna and Vega must try to mobilize the most potent psychics in the world. Together, this army of fledging psychic warriors must succeed where billions have tried... and failed.
+
+But will they be able to gather their champions in time? Genma's agents are already on Earth to ensure that their master meets with no opposition!
+
+(Source: AnimeNfo)"
+animeRelated	['Genma Taisen', 'Genma Taisen: Shinwa Zenya no Shou']
+animeCharacters	"['Luna', 'Vega', 'Azuma, Jou', 'Announcer', 'Transylvanian Chamberlain', 'Salamander', 'Genma Daioh', ""Chief O'Reilly"", 'Gangster', 'Yogin']"
+animeVoices	['Koyama, Mami', 'Emori, Toru', 'Furuya, Toru', 'Yada, Kouji', 'Miyauchi, Kouhei', 'Utsumi, Kenji', 'Satou, Masaharu', 'Mugihito', 'Shioya, Yoku', 'Saikachi, Ryuuji']
+animeStaff	[['Rintaro', 'Director'], ['Emerson, Keith', 'Theme Song Arrangement, Theme Song Composition'], ['Otomo, Katsuhiro', 'Character Design'], ['Mozart, Wolfgang Amadeus', 'Music']]

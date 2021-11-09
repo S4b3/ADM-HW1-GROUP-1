@@ -1,5 +1,5 @@
-animeTitle	b'Tetsujin 28-gou (2004)'
-animeType	b'TV'
+animeTitle	Tetsujin 28-gou (2004)
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.32
 animeUsers	871
 animeRank	
-animePopularity	
-animeDescription	"b""In post-WWII Japan, Prof. Shikishima has built up Shikishima Industries to be a technological powerhouse, working on developing robots. However, at the heart of their success lurks a dark secret from the war, something that cost the life of Prof. Kaneda, the mentor of Prof. Shikishima. Now Kaneda's son, Shoutarou, is about to learn the truth, and it will change him forever. \n\n(Source: ANN)"""
-animeRelated	[b'Tetsujin 28-gou', b'Tetsujin 28-gou: Hakuchuu no Zangetsu', b'Tetsujin 28-gou Gao!']
-animeCharacters	[b'Kaneda, Shoutarou', b'Murasame, Kenji', b'Ootsuka, Chief', b'Dr. Black', b'Franken, Shutain', b'Murasame, Ryuusaku', b'Shikishima, Professor']
-animeVoices	[b'\nKumai, Motoko\nJapanese\n', b'\nMikimoto, Yuji\nJapanese\n', b'\nInaba, Minoru\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nUshiyama, Shigeru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImagawa, Yasuhiro\n\nDirector, Episode Director, Script, Storyboard, Series Composition\n\n', b'\nOishi, Tatsuya\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nAraki, Kenichi\n\nScript\n\n', b'\nItagaki, Shin\n\nStoryboard\n\n']
+animePopularity	7503
+animeDescription	"In post-WWII Japan, Prof. Shikishima has built up Shikishima Industries to be a technological powerhouse, working on developing robots. However, at the heart of their success lurks a dark secret from the war, something that cost the life of Prof. Kaneda, the mentor of Prof. Shikishima. Now Kaneda's son, Shoutarou, is about to learn the truth, and it will change him forever. 
+
+(Source: ANN)"
+animeRelated	['Tetsujin 28-gou', 'Tetsujin 28-gou: Hakuchuu no Zangetsu', 'Tetsujin 28-gou Gao!']
+animeCharacters	['Kaneda, Shoutarou', 'Murasame, Kenji', 'Ootsuka, Chief', 'Dr. Black', 'Franken, Shutain', 'Murasame, Ryuusaku', 'Shikishima, Professor']
+animeVoices	['Kumai, Motoko', 'Mikimoto, Yuji', 'Inaba, Minoru', 'Wakamoto, Norio', 'Ushiyama, Shigeru']
+animeStaff	[['Imagawa, Yasuhiro', 'Director, Episode Director, Script, Storyboard, Series Composition'], ['Oishi, Tatsuya', 'Episode Director, Storyboard, Key Animation'], ['Araki, Kenichi', 'Script'], ['Itagaki, Shin', 'Storyboard']]

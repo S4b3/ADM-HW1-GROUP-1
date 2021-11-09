@@ -1,5 +1,5 @@
-animeTitle	b'Mirai Nikki (TV)'
-animeType	b'TV'
+animeTitle	Mirai Nikki (TV)
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.48
 animeUsers	1028059
 animeRank	
-animePopularity	
-animeDescription	"b'Lonely high school student, Yukiteru Amano, spends his days writing a diary on his cellphone, while conversing with his two seemingly imaginary friends Deus Ex Machina, who is the god of time and space, and Murmur, the god\'s servant. Revealing himself to be an actual entity, Deus grants Yukiteru a ""Random Diary,"" which shows highly descriptive entries based on the future and forces him into a bloody battle royale with 11 other holders of similarly powerful future diaries.\n\nWith the last person standing designated as the new god of time and space, Yukiteru must find and kill the other 11 in order to survive. He reluctantly teams up with his obsessive stalker Yuno Gasai (who also possesses such a diary), and she takes it upon herself to ensure his safety. But there\'s more to the girl than meets the eye, as she might have other plans for her unrequited love...\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Mirai Nikki', b'Mirai Nikki (TV): Ura Mirai Nikki', b'Mirai Nikki: Redial']
-animeCharacters	[b'Gasai, Yuno', b'Amano, Yukiteru', b'Uryuu, Minene', b'Akise, Aru', b'Hirasaka, Yomotsu', b'Kasugano, Tsubaki', b'Deus Ex Machina', b'Mur Mur', b'Houjou, Reisuke', b'Ikusaba, Marco']
-animeVoices	[b'\nMurata, Tomosa\nJapanese\n', b'\nTogashi, Misuzu\nJapanese\n', b'\nAizawa, Mai\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nKawahara, Yoshihisa\nJapanese\n', b'\nSendai, Eri\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nHonda, Manami\nJapanese\n', b'\nSanada, Asami\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHosoda, Naoto\n\nDirector\n\n', b'\nNagura, Yasushi\n\nSound Director\n\n', b'\nTakashima, Daisuke\n\nEpisode Director\n\n', b'\nTakamura, Yuuta\n\nEpisode Director\n\n']
+animePopularity	24
+animeDescription	"Lonely high school student, Yukiteru Amano, spends his days writing a diary on his cellphone, while conversing with his two seemingly imaginary friends Deus Ex Machina, who is the god of time and space, and Murmur, the god's servant. Revealing himself to be an actual entity, Deus grants Yukiteru a ""Random Diary,"" which shows highly descriptive entries based on the future and forces him into a bloody battle royale with 11 other holders of similarly powerful future diaries.
+
+With the last person standing designated as the new god of time and space, Yukiteru must find and kill the other 11 in order to survive. He reluctantly teams up with his obsessive stalker Yuno Gasai (who also possesses such a diary), and she takes it upon herself to ensure his safety. But there's more to the girl than meets the eye, as she might have other plans for her unrequited love...
+
+[Written by MAL Rewrite]"
+animeRelated	['Mirai Nikki', 'Mirai Nikki (TV): Ura Mirai Nikki', 'Mirai Nikki: Redial']
+animeCharacters	['Gasai, Yuno', 'Amano, Yukiteru', 'Uryuu, Minene', 'Akise, Aru', 'Hirasaka, Yomotsu', 'Kasugano, Tsubaki', 'Deus Ex Machina', 'Mur Mur', 'Houjou, Reisuke', 'Ikusaba, Marco']
+animeVoices	['Murata, Tomosa', 'Togashi, Misuzu', 'Aizawa, Mai', 'Ishida, Akira', 'Kawahara, Yoshihisa', 'Sendai, Eri', 'Wakamoto, Norio', 'Honda, Manami', 'Sanada, Asami', 'Seki, Tomokazu']
+animeStaff	[['Hosoda, Naoto', 'Director'], ['Nagura, Yasushi', 'Sound Director'], ['Takashima, Daisuke', 'Episode Director'], ['Takamura, Yuuta', 'Episode Director']]

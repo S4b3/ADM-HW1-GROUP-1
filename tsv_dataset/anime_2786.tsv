@@ -1,5 +1,5 @@
-animeTitle	b'Kinnikuman'
-animeType	b'TV'
+animeTitle	Kinnikuman
+animeType	TV
 animeNumEpisode	137
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.22
 animeUsers	2653
 animeRank	
-animePopularity	
-animeDescription	b'Kinnikuman is a superhero... a bad one. The one day a person named Meat tells Kinnikuman that he is the prince of an alien planet. Kinnikuman must save the day numerous times fighting evil chiyojins and competing in tournaments to prove himself to his family and to gain respect and money.'
-animeRelated	[b'Kinnikuman', b'Kinnikuman (Movie)', b'Kinnikuman: Kinnikusei Oui Soudatsu-hen', b'Kinnikuman: Ooabare! Seigi Choujin', b'Kinnikuman: Seigi Choujin vs. Kodai Choujin', b'Kinnikuman: Kessen! Shichinin no Choujin tai Uchuu Nobushi', b'Tatakae!! Ramenman']
-animeCharacters	[b'Kinniku, Suguru', b'Alexandria Meat', b'Robin Mask', b'Ramenman, Victory', b'Warsman', b'Brocken Jr.', b'Terryman', b'Ashuraman', b'Buffaloman', b'Black Hole']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nMatsushima, Minori\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nHori, Hideyuki\nJapanese\n', b'\nMizutori, Tetsuo\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTamiya, Takeshi\n\nProducer\n\n', b'\nYamayoshi, Yasuo\n\nDirector\n\n', b'\nShirato, Takeshi\n\nEpisode Director\n\n', b'\nTerada, Kenji\n\nScript\n\n']
+animePopularity	5372
+animeDescription	Kinnikuman is a superhero... a bad one. The one day a person named Meat tells Kinnikuman that he is the prince of an alien planet. Kinnikuman must save the day numerous times fighting evil chiyojins and competing in tournaments to prove himself to his family and to gain respect and money.
+animeRelated	['Kinnikuman', 'Kinnikuman (Movie)', 'Kinnikuman: Kinnikusei Oui Soudatsu-hen', 'Kinnikuman: Ooabare! Seigi Choujin', 'Kinnikuman: Seigi Choujin vs. Kodai Choujin', 'Kinnikuman: Kessen! Shichinin no Choujin tai Uchuu Nobushi', 'Tatakae!! Ramenman']
+animeCharacters	['Kinniku, Suguru', 'Alexandria Meat', 'Robin Mask', 'Ramenman, Victory', 'Warsman', 'Brocken Jr.', 'Terryman', 'Ashuraman', 'Buffaloman', 'Black Hole']
+animeVoices	['Kamiya, Akira', 'Matsushima, Minori', 'Gouri, Daisuke', 'Ginga, Banjou', 'Hori, Hideyuki', 'Mizutori, Tetsuo', 'Tanaka, Hideyuki', 'Satou, Masaharu']
+animeStaff	[['Tamiya, Takeshi', 'Producer'], ['Yamayoshi, Yasuo', 'Director'], ['Shirato, Takeshi', 'Episode Director'], ['Terada, Kenji', 'Script']]

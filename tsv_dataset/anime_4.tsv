@@ -1,5 +1,5 @@
-animeTitle	b'Steins;Gate'
-animeType	b'TV'
+animeTitle	Steins;Gate
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	9.09
 animeUsers	1109700
 animeRank	
-animePopularity	
-animeDescription	"b'The self-proclaimed mad scientist Rintarou Okabe rents out a room in a rickety old building in Akihabara, where he indulges himself in his hobby of inventing prospective ""future gadgets"" with fellow lab members: Mayuri Shiina, his air-headed childhood friend, and Hashida Itaru, a perverted hacker nicknamed ""Daru."" The three pass the time by tinkering with their most promising contraption yet, a machine dubbed the ""Phone Microwave,"" which performs the strange function of morphing bananas into piles of green gel.\n\nThough miraculous in itself, the phenomenon doesn\'t provide anything concrete in Okabe\'s search for a scientific breakthrough; that is, until the lab members are spurred into action by a string of mysterious happenings before stumbling upon an unexpected success\xe2\x80\x94the Phone Microwave can send emails to the past, altering the flow of history.\n\nAdapted from the critically acclaimed visual novel by 5pb. and Nitroplus, Steins;Gate takes Okabe through the depths of scientific theory and practicality. Forced across the diverging threads of past and present, Okabe must shoulder the burdens that come with holding the key to the realm of time.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Steins;Gate', b'Ch\xc3\xa4oS;HEAd', b'Robotics;Notes', b'Ch\xc3\xa4oS;Child', b'Occultic;Nine', b'Steins;Gate: Oukoubakko no Poriomania', b'Steins;Gate: Soumei Eichi no Cognitive Computing', b'Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero']
-animeCharacters	[b'Okabe, Rintarou', b'Makise, Kurisu', b'Shiina, Mayuri', b'Hashida, Itaru', b'Amane, Suzuha', b'Urushibara, Ruka', b'Akiha, Rumiho', b'Kiryuu, Moeka', b'Tennouji, Yuugo', b'Tennouji, Nae']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n', b'\nImai, Asami\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nMomoi, Haruko\nJapanese\n', b'\nGotou, Saori\nJapanese\n', b'\nTerasoma, Masaki\nJapanese\n', b'\nYamamoto, Ayano\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwasa, Gaku\n\nProducer\n\n', b'\nYasuda, Takeshi\n\nProducer, Planning\n\n', b'\nHamasaki, Hiroshi\n\nDirector, Episode Director, Storyboard, Key Animation\n\n', b'\nSatou, Takuya\n\nDirector, Episode Director, Storyboard\n\n']
+animePopularity	11
+animeDescription	"The self-proclaimed mad scientist Rintarou Okabe rents out a room in a rickety old building in Akihabara, where he indulges himself in his hobby of inventing prospective ""future gadgets"" with fellow lab members: Mayuri Shiina, his air-headed childhood friend, and Hashida Itaru, a perverted hacker nicknamed ""Daru."" The three pass the time by tinkering with their most promising contraption yet, a machine dubbed the ""Phone Microwave,"" which performs the strange function of morphing bananas into piles of green gel.
+
+Though miraculous in itself, the phenomenon doesn't provide anything concrete in Okabe's search for a scientific breakthrough; that is, until the lab members are spurred into action by a string of mysterious happenings before stumbling upon an unexpected success—the Phone Microwave can send emails to the past, altering the flow of history.
+
+Adapted from the critically acclaimed visual novel by 5pb. and Nitroplus, Steins;Gate takes Okabe through the depths of scientific theory and practicality. Forced across the diverging threads of past and present, Okabe must shoulder the burdens that come with holding the key to the realm of time.
+
+[Written by MAL Rewrite]"
+animeRelated	['Steins;Gate', 'ChäoS;HEAd', 'Robotics;Notes', 'ChäoS;Child', 'Occultic;Nine', 'Steins;Gate: Oukoubakko no Poriomania', 'Steins;Gate: Soumei Eichi no Cognitive Computing', 'Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero']
+animeCharacters	['Okabe, Rintarou', 'Makise, Kurisu', 'Shiina, Mayuri', 'Hashida, Itaru', 'Amane, Suzuha', 'Urushibara, Ruka', 'Akiha, Rumiho', 'Kiryuu, Moeka', 'Tennouji, Yuugo', 'Tennouji, Nae']
+animeVoices	['Miyano, Mamoru', 'Imai, Asami', 'Hanazawa, Kana', 'Seki, Tomokazu', 'Tamura, Yukari', 'Kobayashi, Yuu', 'Momoi, Haruko', 'Gotou, Saori', 'Terasoma, Masaki', 'Yamamoto, Ayano']
+animeStaff	[['Iwasa, Gaku', 'Producer'], ['Yasuda, Takeshi', 'Producer, Planning'], ['Hamasaki, Hiroshi', 'Director, Episode Director, Storyboard, Key Animation'], ['Satou, Takuya', 'Director, Episode Director, Storyboard']]

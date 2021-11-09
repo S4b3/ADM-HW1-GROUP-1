@@ -1,5 +1,5 @@
-animeTitle	b'Samurai 7'
-animeType	b'TV'
+animeTitle	Samurai 7
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.46
 animeUsers	55918
 animeRank	
-animePopularity	
-animeDescription	"b'In the far distant future, on a planet that might have been called ""earth"", there was a war between samurai who mechanized their bodies. After the long war, people enjoyed a modest peace.\n\nFacing starvation and abductions at the hands of fearsome mechanized bandits (Nobuseri), the farmers of Kanna Village make the dangerous choice to hire samurai for protection. The village\'s water priestess, Kirara, her younger sister, Komachi, and a heartbroken villager, Rikichi, set off to hire willing samurai with nothing to offer but rice from their meager harvests. Through dangerous encounters and a bit of luck, seven samurai of varying specialties and experience are gathered for an epic battle against the bandits and the merchants that influence them.\n\nSamurai 7 is based loosely upon Kurosawa Akira\'s famous movie ""Seven Samurai""/""Shichinin no Samurai""'"
-animeRelated	[b'Samurai 7']
-animeCharacters	[b'Kyuzo', b'Kikuchiyo', b'Hayashida, Heihachi', b'Shimada, Kambei', b'Okamoto, Katsushiro', b'Kirara', b'Katayama, Gorobei', b'Komachi', b'Shichiroji', b'Rikichi']
-animeVoices	[b'\nMiki, Shinichiro\nJapanese\n', b'\nKong, Kuwata\nJapanese\n', b'\nInukai, Junji\nJapanese\n', b'\nTerasoma, Masaki\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nInada, Tetsu\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nKusano, Tooru\nJapanese\n', b'\nSaizen, Tadahisa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nTakizawa, Toshifumi\n\nDirector, Storyboard\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nTada, Shunsuke\n\nEpisode Director, Storyboard\n\n']
+animePopularity	1418
+animeDescription	"In the far distant future, on a planet that might have been called ""earth"", there was a war between samurai who mechanized their bodies. After the long war, people enjoyed a modest peace.
+
+Facing starvation and abductions at the hands of fearsome mechanized bandits (Nobuseri), the farmers of Kanna Village make the dangerous choice to hire samurai for protection. The village's water priestess, Kirara, her younger sister, Komachi, and a heartbroken villager, Rikichi, set off to hire willing samurai with nothing to offer but rice from their meager harvests. Through dangerous encounters and a bit of luck, seven samurai of varying specialties and experience are gathered for an epic battle against the bandits and the merchants that influence them.
+
+Samurai 7 is based loosely upon Kurosawa Akira's famous movie ""Seven Samurai""/""Shichinin no Samurai"""
+animeRelated	['Samurai 7']
+animeCharacters	['Kyuzo', 'Kikuchiyo', 'Hayashida, Heihachi', 'Shimada, Kambei', 'Okamoto, Katsushiro', 'Kirara', 'Katayama, Gorobei', 'Komachi', 'Shichiroji', 'Rikichi']
+animeVoices	['Miki, Shinichiro', 'Kong, Kuwata', 'Inukai, Junji', 'Terasoma, Masaki', 'Park, Romi', 'Orikasa, Fumiko', 'Inada, Tetsu', 'Saitou, Chiwa', 'Kusano, Tooru', 'Saizen, Tadahisa']
+animeStaff	[['Watson, Barry', 'Producer'], ['Takizawa, Toshifumi', 'Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director'], ['Tada, Shunsuke', 'Episode Director, Storyboard']]

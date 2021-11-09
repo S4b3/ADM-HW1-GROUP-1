@@ -1,5 +1,5 @@
-animeTitle	b'Pui Pui Molcar'
-animeType	b'TV'
+animeTitle	Pui Pui Molcar
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,21 @@ animeNumMembers
 animeScore	8.07
 animeUsers	5120
 animeRank	
-animePopularity	
-animeDescription	"b'The stage sets in a world where guinea pigs became cars.\n\nThe car that makes you relax, ""Molcar"".\n\nHaving big round eyes, curvy butt and speedy limbs, they always explore the world with their innocent faces.\n\nEven during traffic jams, you can be eased just by looking at the butt of that Molcar in front of you.\n\nEven when they cause trouble, their furry cuteness will somehow make you forgive them!?\n\nSurrounded by situations only met by cars, it\'s a Mol-animation filled with cure, friendship, adventure and furry actions!\n\n(Source: Muse Asia, edited)'"
-animeRelated	[b'Tobidase! Narase! Pui Pui Molcar']
-animeCharacters	[b'Teddy', b'Choko', b'Abbey', b'Potato', b'Emergency Molcar']
+animePopularity	5484
+animeDescription	"The stage sets in a world where guinea pigs became cars.
+
+The car that makes you relax, ""Molcar"".
+
+Having big round eyes, curvy butt and speedy limbs, they always explore the world with their innocent faces.
+
+Even during traffic jams, you can be eased just by looking at the butt of that Molcar in front of you.
+
+Even when they cause trouble, their furry cuteness will somehow make you forgive them!?
+
+Surrounded by situations only met by cars, it's a Mol-animation filled with cure, friendship, adventure and furry actions!
+
+(Source: Muse Asia, edited)"
+animeRelated	['Tobidase! Narase! Pui Pui Molcar']
+animeCharacters	['Teddy', 'Choko', 'Abbey', 'Potato', 'Emergency Molcar']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMisato, Tomoki\n\nDirector\n\n', b'\nNoguchi, Akira\n\nSound Director\n\n']
+animeStaff	[['Misato, Tomoki', 'Director'], ['Noguchi, Akira', 'Sound Director']]

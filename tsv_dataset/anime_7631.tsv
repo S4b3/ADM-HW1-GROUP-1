@@ -1,5 +1,5 @@
-animeTitle	b'Taifuu no Noruda'
-animeType	b'Movie'
+animeTitle	Taifuu no Noruda
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.21
 animeUsers	14362
 animeRank	
-animePopularity	
-animeDescription	b'The film takes place on a certain isolated island, at a certain middle school, and on the eve of the culture festival. A boy quits baseball after playing his whole life and has a fight with his best friend. Then, they suddenly meet a mysterious, red-eyed girl named Noruda, and a huge typhoon hits the middle school.\n\n(Source: ANN)'
+animePopularity	3085
+animeDescription	"The film takes place on a certain isolated island, at a certain middle school, and on the eve of the culture festival. A boy quits baseball after playing his whole life and has a fight with his best friend. Then, they suddenly meet a mysterious, red-eyed girl named Noruda, and a huge typhoon hits the middle school.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Noruda', b'Azuma, Shuuichi', b'Saijou, Kenta']
-animeVoices	[b'\nKiyohara, Kaya\nJapanese\n', b'\nNomura, Shuuhei\nJapanese\n', b'\nKaneko, Daichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nArai, Youjirou\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nBird Bear Hare and Fish\n\nTheme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement\n\n', b'\nBahi JD\n\nKey Animation\n\n']
+animeCharacters	['Noruda', 'Azuma, Shuuichi', 'Saijou, Kenta']
+animeVoices	['Kiyohara, Kaya', 'Nomura, Shuuhei', 'Kaneko, Daichi']
+animeStaff	[['Arai, Youjirou', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Bird Bear Hare and Fish', 'Theme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement'], ['Bahi JD', 'Key Animation']]

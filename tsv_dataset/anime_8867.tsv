@@ -1,5 +1,5 @@
-animeTitle	b'Hajime Ningen Gyatoruz'
-animeType	b'TV'
+animeTitle	Hajime Ningen Gyatoruz
+animeType	TV
 animeNumEpisode	77
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.95
 animeUsers	158
 animeRank	
-animePopularity	
-animeDescription	b'A comedy about the wacky adventures of Giatrus and his tribe of the first human beings on the planet. \n\n(Source: AniDB)'
-animeRelated	[b'Hajime Ningen Gon']
-animeCharacters	[b'Gon', b'Grim Reaper', b'Piko-chan', b'Father', b'Mother', b'Dotechin']
-animeVoices	[b'\nMaruyama, Hiroko\nJapanese\n', b'\nMasuoka, Hiroshi\nJapanese\n', b'\nYoshida, Rihoko\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nHanagata, Keiko\nJapanese\n', b'\nTatekabe, Kazuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Osamu\n\nEpisode Director\n\n', b'\nHata, Masami\n\nEpisode Director\n\n', b'\nSonoyama, Shunji\n\nTheme Song Lyrics, Original Creator\n\n', b'\nHisaishi, Joe\n\nMusic\n\n']
+animePopularity	12428
+animeDescription	"A comedy about the wacky adventures of Giatrus and his tribe of the first human beings on the planet. 
+
+(Source: AniDB)"
+animeRelated	['Hajime Ningen Gon']
+animeCharacters	['Gon', 'Grim Reaper', 'Piko-chan', 'Father', 'Mother', 'Dotechin']
+animeVoices	['Maruyama, Hiroko', 'Masuoka, Hiroshi', 'Yoshida, Rihoko', 'Kimotsuki, Kaneta', 'Hanagata, Keiko', 'Tatekabe, Kazuya']
+animeStaff	[['Dezaki, Osamu', 'Episode Director'], ['Hata, Masami', 'Episode Director'], ['Sonoyama, Shunji', 'Theme Song Lyrics, Original Creator'], ['Hisaishi, Joe', 'Music']]

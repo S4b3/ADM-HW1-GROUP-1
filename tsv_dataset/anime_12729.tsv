@@ -1,5 +1,5 @@
-animeTitle	b'Peach Command Shin Momotarou Densetsu'
-animeType	b'TV'
+animeTitle	Peach Command Shin Momotarou Densetsu
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A continuation of Momotarou Densetsu.'
-animeRelated	[b'Momotarou Densetsu']
-animeCharacters	[b'Momotarou', b'Yeti', b'Kintarou', b'Tinkle', b'Narrator']
-animeVoices	[b'\nSasaki, Nozomu\nJapanese\n', b'\nChiba, Isshin\nJapanese\n', b'\nWatanabe, Kumiko\nJapanese\n', b'\nOrikasa, Ai\nJapanese\n', b'\nKoujiro, Chie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n', b'\nSasaki, Nozomu\n\nTheme Song Performance\n\n', b'\nOrikasa, Ai\n\nTheme Song Performance\n\n', b'\nNanba, Hiroyuki\n\nMusic\n\n']
+animePopularity	15359
+animeDescription	A continuation of Momotarou Densetsu.
+animeRelated	['Momotarou Densetsu']
+animeCharacters	['Momotarou', 'Yeti', 'Kintarou', 'Tinkle', 'Narrator']
+animeVoices	['Sasaki, Nozomu', 'Chiba, Isshin', 'Watanabe, Kumiko', 'Orikasa, Ai', 'Koujiro, Chie']
+animeStaff	[['Honda, Yasunori', 'Sound Director'], ['Sasaki, Nozomu', 'Theme Song Performance'], ['Orikasa, Ai', 'Theme Song Performance'], ['Nanba, Hiroyuki', 'Music']]

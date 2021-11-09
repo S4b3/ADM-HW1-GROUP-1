@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 20: Nobita no Uchuu Hyouryuuki'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 20: Nobita no Uchuu Hyouryuuki
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.04
 animeUsers	2063
 animeRank	
-animePopularity	
-animeDescription	b'After bragging about receiving a space trip ticket from his father, Suneo concedes they would have to wait quite a while until they can actually go. So, Nobita and co. turns to Doraemon for it, but they were given a space simulation game to play together instead. Unfortunately an accident with another gadget occurred, leaving Suneo and Giant trapped inside the game, only to be picked up by someone from outer space. Nobita, Shizuka and Doraemon then pursued the UFO that has the game inside it which took them all to a real space adventure. \n\n(Source: ANN) '
-animeRelated	"[b'Daichouhen Doraemon', b'Doraemon (1979)', b'The\xe2\x98\x86Doraemons: Strange, Sweets, Strange?', b""Doraemon: Nobita's the Night Before a Wedding""]"
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi', b'Nobi, Nobisuke']
-animeVoices	[b'\nOoyama, Nobuyo\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nNomura, Michiko\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nTatekabe, Kazuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShibayama, Tsutomu\n\nDirector\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n', b'\nYoneda, Mitsuyoshi\n\nKey Animation\n\n']
+animePopularity	7831
+animeDescription	"After bragging about receiving a space trip ticket from his father, Suneo concedes they would have to wait quite a while until they can actually go. So, Nobita and co. turns to Doraemon for it, but they were given a space simulation game to play together instead. Unfortunately an accident with another gadget occurred, leaving Suneo and Giant trapped inside the game, only to be picked up by someone from outer space. Nobita, Shizuka and Doraemon then pursued the UFO that has the game inside it which took them all to a real space adventure. 
+
+(Source: ANN) "
+animeRelated	"['Daichouhen Doraemon', 'Doraemon (1979)', 'The☆Doraemons: Strange, Sweets, Strange?', ""Doraemon: Nobita's the Night Before a Wedding""]"
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Nobi, Nobisuke']
+animeVoices	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Nomura, Michiko', 'Kimotsuki, Kaneta', 'Tatekabe, Kazuya']
+animeStaff	[['Shibayama, Tsutomu', 'Director'], ['Urakami, Yasuo', 'Sound Director'], ['Fujiko, Fujio F.', 'Original Creator'], ['Yoneda, Mitsuyoshi', 'Key Animation']]

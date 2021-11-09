@@ -1,5 +1,5 @@
-animeTitle	b'Fullmetal Alchemist: Premium Collection'
-animeType	b'OVA'
+animeTitle	Fullmetal Alchemist: Premium Collection
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,18 @@ animeNumMembers
 animeScore	7.32
 animeUsers	32110
 animeRank	
-animePopularity	
-animeDescription	"b'1. State Alchemists vs Seven Homunculi\nA 10 minute film featuring: Ed, Al, Mustang and many other members of the State doing battle with the deadly Homonculi in an alternate reality Amestris.\n\n2. Chibi Party (Enkai-hen)\nShort 6 minute Skit drawn in Super Deformed style where every character in the series (including bad guys) are celebrating an ""After Party"" of the Conqueror of Shambala movie.\n\n3. Kids (Kodomo-hen)\nShort 3 minute story which features Edward and his grandkids in present day 2005.\n\n(Source: ANN) '"
-animeRelated	[b'Fullmetal Alchemist', b'Fullmetal Alchemist: The Conqueror of Shamballa']
-animeCharacters	[b'Elric, Edward', b'Elric, Alphonse', b'Rockbell, Winry', b'Mustang, Roy', b'Hughes, Maes', b'Greed', b'Hawkeye, Riza', b'Armstrong, Alex Louis', b'Envy', b'Bradley, King']
-animeVoices	[b'\nPark, Romi\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nYamaguchi, Mayumi\nJapanese\n', b'\nShibata, Hidekatsu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nMizushima, Seiji\n\nDirector\n\n', b'\nAndou, Masahiro\n\nStoryboard, Key Animation\n\n', b'\nTomisawa, Nobuo\n\nStoryboard\n\n']
+animePopularity	2155
+animeDescription	"1. State Alchemists vs Seven Homunculi
+A 10 minute film featuring: Ed, Al, Mustang and many other members of the State doing battle with the deadly Homonculi in an alternate reality Amestris.
+
+2. Chibi Party (Enkai-hen)
+Short 6 minute Skit drawn in Super Deformed style where every character in the series (including bad guys) are celebrating an ""After Party"" of the Conqueror of Shambala movie.
+
+3. Kids (Kodomo-hen)
+Short 3 minute story which features Edward and his grandkids in present day 2005.
+
+(Source: ANN) "
+animeRelated	['Fullmetal Alchemist', 'Fullmetal Alchemist: The Conqueror of Shamballa']
+animeCharacters	['Elric, Edward', 'Elric, Alphonse', 'Rockbell, Winry', 'Mustang, Roy', 'Hughes, Maes', 'Greed', 'Hawkeye, Riza', 'Armstrong, Alex Louis', 'Envy', 'Bradley, King']
+animeVoices	['Park, Romi', 'Kugimiya, Rie', 'Toyoguchi, Megumi', 'Ookawa, Tooru', 'Fujiwara, Keiji', 'Suwabe, Junichi', 'Neya, Michiko', 'Utsumi, Kenji', 'Yamaguchi, Mayumi', 'Shibata, Hidekatsu']
+animeStaff	[['Cook, Justin', 'Producer'], ['Mizushima, Seiji', 'Director'], ['Andou, Masahiro', 'Storyboard, Key Animation'], ['Tomisawa, Nobuo', 'Storyboard']]

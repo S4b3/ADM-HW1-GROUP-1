@@ -1,5 +1,5 @@
-animeTitle	b'Chou Shounen Tanteidan Neo'
-animeType	b'TV'
+animeTitle	Chou Shounen Tanteidan Neo
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.26
 animeUsers	259
 animeRank	
-animePopularity	
-animeDescription	"b""The series will follow the descendant of Kobayashi from Edogawa Ranpo's series of detective novels."""
+animePopularity	8981
+animeDescription	The series will follow the descendant of Kobayashi from Edogawa Ranpo's series of detective novels.
 animeRelated	[]
-animeCharacters	[b'Akechi 7th, Kogorou', b'Nijuumensou 7th, Kaijin', b'Hanasaki, Mayumi', b'Kobayashi 7th, Shounen', b'Neko, Fujin', b'Inoue-kun', b'Noro-chan']
-animeVoices	[b'\nHosoya, Yoshimasa\nJapanese\n', b'\nEguchi, Takuya\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nHorii, Chado\nJapanese\n', b'\nKuno, Misaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomiya, Kazuhito\n\nDirector, Series Composition\n\n', b'\nAmano, Yoshitaka\n\nCharacter Design\n\n']
+animeCharacters	['Akechi 7th, Kogorou', 'Nijuumensou 7th, Kaijin', 'Hanasaki, Mayumi', 'Kobayashi 7th, Shounen', 'Neko, Fujin', 'Inoue-kun', 'Noro-chan']
+animeVoices	['Hosoya, Yoshimasa', 'Eguchi, Takuya', 'Uesaka, Sumire', 'Kimura, Ryouhei', 'Hanazawa, Kana', 'Horii, Chado', 'Kuno, Misaki']
+animeStaff	[['Oomiya, Kazuhito', 'Director, Series Composition'], ['Amano, Yoshitaka', 'Character Design']]

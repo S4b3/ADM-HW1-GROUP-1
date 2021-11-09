@@ -1,5 +1,5 @@
-animeTitle	b'Shion Special'
-animeType	b'Special'
+animeTitle	Shion Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.33
 animeUsers	644
 animeRank	
-animePopularity	
-animeDescription	b'An exclusive alternate (happy) ending included in the DVD Box of Shion.'
-animeRelated	[b'Shion']
-animeCharacters	[b'Misuzu, Yukiko', b'Shion', b'Asaki, Hiroki']
+animePopularity	9612
+animeDescription	An exclusive alternate (happy) ending included in the DVD Box of Shion.
+animeRelated	['Shion']
+animeCharacters	['Misuzu, Yukiko', 'Shion', 'Asaki, Hiroki']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nLilith Soft\n\nOriginal Character Design\n\n']
+animeStaff	[['Lilith Soft', 'Original Character Design']]

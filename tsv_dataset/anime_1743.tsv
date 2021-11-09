@@ -1,5 +1,5 @@
-animeTitle	b'Guilty Crown'
-animeType	b'TV'
+animeTitle	Guilty Crown
+animeType	TV
 animeNumEpisode	22
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.46
 animeUsers	542594
 animeRank	
-animePopularity	
-animeDescription	"b'Japan, 2039. Ten years after the outbreak of the ""Apocalypse Virus,"" an event solemnly regarded as ""Lost Christmas,"" the once proud nation has fallen under the rule of the GHQ, an independent military force dedicated to restoring order. Funeral Parlor, a guerilla group led by the infamous Gai Tsutsugami, act as freedom fighters, offering the only resistance to GHQ\'s cruel despotism.\n\nInori Yuzuriha, a key member of Funeral Parlor, runs into the weak and unsociable Shuu Ouma during a crucial operation, which results in him obtaining the ""Power of Kings""\xe2\x80\x94an ability which allows the wielder to draw out the manifestations of an individual\'s personality, or ""voids."" Now an unwilling participant in the struggle against GHQ, Shuu must learn to control his newfound power if he is to help take back Japan once and for all.\n\nGuilty Crown follows the action-packed story of a young high school student who is dragged into a war, possessing an ability that will help him uncover the secrets of the GHQ, Funeral Parlor, and Lost Christmas. However, he will soon learn that the truth comes at a far greater price than he could have ever imagined.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Guilty Crown', b'Guilty Crown: Kiseki - Reassortment', b'Guilty Crown: Lost Christmas - An Episode of Port Town', b'Guilty Crown: 4-koma Gekijou', b'The Everlasting Guilty Crown']
-animeCharacters	[b'Yuzuriha, Inori', b'Ouma, Shuu', b'Tsutsugami, Gai', b'Shinomiya, Ayase', b'Tsugumi', b'Menjou, Hare', b'Segai, Makoto Waltz', b'Yan, Daryl', b'Ouma, Mana', b'Kido, Kenji']
-animeVoices	[b'\nKayano, Ai\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nShimamura, Yuu\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWada, Jouji\n\nProducer\n\n', b'\nKimura, Makoto\n\nProducer\n\n', b'\nNakatake, Tetsuya\n\nProducer\n\n', b'\nAraki, Tetsurou\n\nDirector, Episode Director, Storyboard, Key Animation, Assistant Director, Principle Drawing\n\n']
+animePopularity	92
+animeDescription	"Japan, 2039. Ten years after the outbreak of the ""Apocalypse Virus,"" an event solemnly regarded as ""Lost Christmas,"" the once proud nation has fallen under the rule of the GHQ, an independent military force dedicated to restoring order. Funeral Parlor, a guerilla group led by the infamous Gai Tsutsugami, act as freedom fighters, offering the only resistance to GHQ's cruel despotism.
+
+Inori Yuzuriha, a key member of Funeral Parlor, runs into the weak and unsociable Shuu Ouma during a crucial operation, which results in him obtaining the ""Power of Kings""—an ability which allows the wielder to draw out the manifestations of an individual's personality, or ""voids."" Now an unwilling participant in the struggle against GHQ, Shuu must learn to control his newfound power if he is to help take back Japan once and for all.
+
+Guilty Crown follows the action-packed story of a young high school student who is dragged into a war, possessing an ability that will help him uncover the secrets of the GHQ, Funeral Parlor, and Lost Christmas. However, he will soon learn that the truth comes at a far greater price than he could have ever imagined.
+
+[Written by MAL Rewrite]"
+animeRelated	['Guilty Crown', 'Guilty Crown: Kiseki - Reassortment', 'Guilty Crown: Lost Christmas - An Episode of Port Town', 'Guilty Crown: 4-koma Gekijou', 'The Everlasting Guilty Crown']
+animeCharacters	['Yuzuriha, Inori', 'Ouma, Shuu', 'Tsutsugami, Gai', 'Shinomiya, Ayase', 'Tsugumi', 'Menjou, Hare', 'Segai, Makoto Waltz', 'Yan, Daryl', 'Ouma, Mana', 'Kido, Kenji']
+animeVoices	['Kayano, Ai', 'Kaji, Yuki', 'Nakamura, Yuuichi', 'Hanazawa, Kana', 'Taketatsu, Ayana', 'Shimamura, Yuu', 'Canna, Nobutoshi', 'Uchiyama, Kouki', 'Okamoto, Nobuhiko']
+animeStaff	[['Wada, Jouji', 'Producer'], ['Kimura, Makoto', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Araki, Tetsurou', 'Director, Episode Director, Storyboard, Key Animation, Assistant Director, Principle Drawing']]

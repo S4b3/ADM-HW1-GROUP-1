@@ -1,5 +1,5 @@
-animeTitle	b'Yoshinaga-sanchi no Gargoyle'
-animeType	b'TV'
+animeTitle	Yoshinaga-sanchi no Gargoyle
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.79
 animeUsers	1389
 animeRank	
-animePopularity	
-animeDescription	b'When Yoshinaga Futaba wins the first prize in a lottery, the prize turns out to be a stone gargoyle. More surprising yet, the gargoyle turns out to be alive.\n\n(Source: ANN)'
-animeRelated	"[b'Yoshinaga-san Chi no Gargoyle', b""Yoshinaga-san'chi no Gargoyle Specials""]"
-animeCharacters	[b'Yoshinaga, Futaba', b'Yoshinaga, Kazumi', b'Gargoyle', b'Osiris', b'Hamilton, Lily', b'Onodera, Mimori', b'Hisham', b'Hanako', b'Katagiri, Momo', b'Yoshinaga, Mama']
-animeVoices	[b'\nSaitou, Chiwa\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nAsano, Ruri\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nInamura, Yuuna\nJapanese\n', b'\nNakakuni, Takurou\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nFujita, Saki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomiya, Saburou\n\nProducer\n\n', b'\nSuzuki, Iku\n\nDirector\n\n', b'\nYoshioka, Takao\n\nScript, Series Composition\n\n', b'\nSaitou, Chiwa\n\nTheme Song Performance\n\n']
+animePopularity	7283
+animeDescription	"When Yoshinaga Futaba wins the first prize in a lottery, the prize turns out to be a stone gargoyle. More surprising yet, the gargoyle turns out to be alive.
+
+(Source: ANN)"
+animeRelated	"['Yoshinaga-san Chi no Gargoyle', ""Yoshinaga-san'chi no Gargoyle Specials""]"
+animeCharacters	['Yoshinaga, Futaba', 'Yoshinaga, Kazumi', 'Gargoyle', 'Osiris', 'Hamilton, Lily', 'Onodera, Mimori', 'Hisham', 'Hanako', 'Katagiri, Momo', 'Yoshinaga, Mama']
+animeVoices	['Saitou, Chiwa', 'Miyata, Kouki', 'Wakamoto, Norio', 'Asano, Ruri', 'Mizuki, Nana', 'Inamura, Yuuna', 'Nakakuni, Takurou', 'Matsuki, Miyu', 'Fujita, Saki']
+animeStaff	[['Oomiya, Saburou', 'Producer'], ['Suzuki, Iku', 'Director'], ['Yoshioka, Takao', 'Script, Series Composition'], ['Saitou, Chiwa', 'Theme Song Performance']]

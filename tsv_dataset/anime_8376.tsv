@@ -1,5 +1,5 @@
-animeTitle	b'Great Mazinger tai Getter Robo'
-animeType	b'Movie'
+animeTitle	Great Mazinger tai Getter Robo
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.06
 animeUsers	849
 animeRank	
-animePopularity	
-animeDescription	b'Go Nagai crossover movie. '
-animeRelated	[b'Getter Robo', b'Great Mazinger']
-animeCharacters	[b'Nagare, Ryouma', b'Boss', b'Tomoe, Musashi', b'Tsurugi, Tetsuya', b'Jin, Hayato']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nOotake, Hiroshi\nJapanese\n', b'\nNishio, Toku\nJapanese\n', b'\nNoda, Keiichi\nJapanese\n', b'\nYamada, Keaton\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujikawa, Keisuke\n\nScript, Screenplay\n\n', b'\nWatanabe, Chuumei\n\nTheme Song Arrangement, Theme Song Composition, Music\n\n', b'\nNagai, Go\n\nOriginal Creator\n\n', b'\nIshikawa, Ken\n\nOriginal Creator\n\n']
+animePopularity	9397
+animeDescription	Go Nagai crossover movie. 
+animeRelated	['Getter Robo', 'Great Mazinger']
+animeCharacters	['Nagare, Ryouma', 'Boss', 'Tomoe, Musashi', 'Tsurugi, Tetsuya', 'Jin, Hayato']
+animeVoices	['Kamiya, Akira', 'Ootake, Hiroshi', 'Nishio, Toku', 'Noda, Keiichi', 'Yamada, Keaton']
+animeStaff	[['Fujikawa, Keisuke', 'Script, Screenplay'], ['Watanabe, Chuumei', 'Theme Song Arrangement, Theme Song Composition, Music'], ['Nagai, Go', 'Original Creator'], ['Ishikawa, Ken', 'Original Creator']]

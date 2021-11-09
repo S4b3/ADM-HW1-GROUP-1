@@ -1,5 +1,5 @@
-animeTitle	b'Kokoro Connect'
-animeType	b'TV'
+animeTitle	Kokoro Connect
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.79
 animeUsers	362252
 animeRank	
-animePopularity	
-animeDescription	"b'When five students at Yamaboshi Academy realize that there are no clubs where they fit in, they band together to form the Student Cultural Society, or ""StuCS"" for short. The club consists of: Taichi Yaegashi, a hardcore wrestling fan; Iori Nagase, an indecisive optimist; Himeko Inaba, a calm computer genius; Yui Kiriyama, a petite karate practitioner; and Yoshifumi Aoki, the class clown.\n\nOne day, Aoki and Yui experience a strange incident when, without warning, they switch bodies for a short period of time. As this supernatural phenomenon continues to occur randomly amongst the five friends, they begin to realize that it is not just fun and games. Now forced to become closer than ever, they soon discover each other\'s hidden secrets and emotional scars, which could end up tearing the StuCS and their friendship apart.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Kokoro Connect', b'Kokoro Connect: On Air', b'Kokoro Connect: Michi Random']
-animeCharacters	[b'Inaba, Himeko', b'Nagase, Iori', b'Yaegashi, Taichi', b'Kiriyama, Yui', b'Aoki, Yoshifumi', b'Fuusenkazura', b'Yaegashi, Rina', b'Fujishima, Maiko', b'Gotou, Ryuuzen', b'Inaba, Brother']
-animeVoices	[b'\nSawashiro, Miyuki\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nOogame, Asuka\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nOkano, Kousuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamanaka, Takahiro\n\nProducer\n\n', b'\nOonuma, Shin\n\nDirector\n\n', b'\nKawatsura, Shinya\n\nDirector\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n']
+animePopularity	165
+animeDescription	"When five students at Yamaboshi Academy realize that there are no clubs where they fit in, they band together to form the Student Cultural Society, or ""StuCS"" for short. The club consists of: Taichi Yaegashi, a hardcore wrestling fan; Iori Nagase, an indecisive optimist; Himeko Inaba, a calm computer genius; Yui Kiriyama, a petite karate practitioner; and Yoshifumi Aoki, the class clown.
+
+One day, Aoki and Yui experience a strange incident when, without warning, they switch bodies for a short period of time. As this supernatural phenomenon continues to occur randomly amongst the five friends, they begin to realize that it is not just fun and games. Now forced to become closer than ever, they soon discover each other's hidden secrets and emotional scars, which could end up tearing the StuCS and their friendship apart.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kokoro Connect', 'Kokoro Connect: On Air', 'Kokoro Connect: Michi Random']
+animeCharacters	['Inaba, Himeko', 'Nagase, Iori', 'Yaegashi, Taichi', 'Kiriyama, Yui', 'Aoki, Yoshifumi', 'Fuusenkazura', 'Yaegashi, Rina', 'Fujishima, Maiko', 'Gotou, Ryuuzen', 'Inaba, Brother']
+animeVoices	['Sawashiro, Miyuki', 'Toyosaki, Aki', 'Mizushima, Takahiro', 'Kanemoto, Hisako', 'Terashima, Takuma', 'Fujiwara, Keiji', 'Oogame, Asuka', 'Itou, Shizuka', 'Okano, Kousuke']
+animeStaff	[['Yamanaka, Takahiro', 'Producer'], ['Oonuma, Shin', 'Director'], ['Kawatsura, Shinya', 'Director'], ['Kameyama, Toshiki', 'Sound Director']]

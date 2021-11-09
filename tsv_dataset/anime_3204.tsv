@@ -1,5 +1,5 @@
-animeTitle	b'Shakugan no Shana-tan Movie'
-animeType	b'Special'
+animeTitle	Shakugan no Shana-tan Movie
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.13
 animeUsers	10594
 animeRank	
-animePopularity	
-animeDescription	"b""Shana-tan special bundled with the Shakugan no Shana Movie director's cut special collection DVD."""
-animeRelated	[b'Shakugan no Shana Movie']
-animeCharacters	[b'Shana', b'Sakai, Yuuji', b'Yoshida, Kazumi', b'Alastor', b'Friagne', b'Hirai, Yukari', b'Sakai, Chigusa', b'Marianne']
-animeVoices	[b'\nKugimiya, Rie\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nEbara, Masashi\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nAsano, Masumi\nJapanese\n', b'\nSakurai, Tomo\nJapanese\n', b'\nKoyama, Kimiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItou, Noizi\n\nOriginal Character Design\n\n', b'\nOtani, Kow\n\nMusic\n\n', b'\nTakahashi, Yashichiro\n\nOriginal Creator\n\n', b'\nOotsuka, Mai\n\nCharacter Design\n\n']
+animePopularity	3721
+animeDescription	Shana-tan special bundled with the Shakugan no Shana Movie director's cut special collection DVD.
+animeRelated	['Shakugan no Shana Movie']
+animeCharacters	['Shana', 'Sakai, Yuuji', 'Yoshida, Kazumi', 'Alastor', 'Friagne', 'Hirai, Yukari', 'Sakai, Chigusa', 'Marianne']
+animeVoices	['Kugimiya, Rie', 'Hino, Satoshi', 'Kawasumi, Ayako', 'Ebara, Masashi', 'Suwabe, Junichi', 'Asano, Masumi', 'Sakurai, Tomo', 'Koyama, Kimiko']
+animeStaff	[['Itou, Noizi', 'Original Character Design'], ['Otani, Kow', 'Music'], ['Takahashi, Yashichiro', 'Original Creator'], ['Ootsuka, Mai', 'Character Design']]

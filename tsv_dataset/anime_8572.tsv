@@ -1,5 +1,5 @@
-animeTitle	b'Shinya! Tensai Bakabon'
-animeType	b'TV'
+animeTitle	Shinya! Tensai Bakabon
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.02
 animeUsers	869
 animeRank	
-animePopularity	
-animeDescription	"b'The pinnacle of gag manga as well as one of Akatsuka Fujio\'s most renowned works, ""Tensai Bakabon"" returns after 18 years since its last anime with Director Hosokawa Toru\'s new original story!\n\nBakabon and his family, who made the phrase ""This is how it should be"" famous, are back along with the eccentric cast of Mr. Policeman, Rerere no Ojisan and Eel-Dog letting loose in a much more modern setting!\n\nThe new frontier of ""Bakabon"" that\'ll take place in a late-night slot is about to begin, 10 years after Akatsuka Fujio\'s death.\n\n(Source: Crunchyroll)'"
-animeRelated	[b'Shinya! Tensai Bakabon', b'Ganso Tensai Bakabon', b'Shinya! Tensai Bakabon Specials']
-animeCharacters	[b'Bakabon no Papa', b'Hajime-chan', b'Bakabon', b'Bakabon no Mama', b'Kamiya, Hiroshi', b'Rerere no Ojisan', b'Unagi-Inu', b'Omawari-san']
-animeVoices	[b'\nFuruta, Arata\nJapanese\n', b'\nNonaka, Ai\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHosokawa, Tooru\n\nDirector, Script, Storyboard, Series Composition\n\n', b'\nSakurai, Takahiro\n\nTheme Song Performance\n\n', b'\nIshida, Akira\n\nTheme Song Performance\n\n', b'\nMorikawa, Toshiyuki\n\nTheme Song Performance\n\n']
+animePopularity	8368
+animeDescription	"The pinnacle of gag manga as well as one of Akatsuka Fujio's most renowned works, ""Tensai Bakabon"" returns after 18 years since its last anime with Director Hosokawa Toru's new original story!
+
+Bakabon and his family, who made the phrase ""This is how it should be"" famous, are back along with the eccentric cast of Mr. Policeman, Rerere no Ojisan and Eel-Dog letting loose in a much more modern setting!
+
+The new frontier of ""Bakabon"" that'll take place in a late-night slot is about to begin, 10 years after Akatsuka Fujio's death.
+
+(Source: Crunchyroll)"
+animeRelated	['Shinya! Tensai Bakabon', 'Ganso Tensai Bakabon', 'Shinya! Tensai Bakabon Specials']
+animeCharacters	['Bakabon no Papa', 'Hajime-chan', 'Bakabon', 'Bakabon no Mama', 'Kamiya, Hiroshi', 'Rerere no Ojisan', 'Unagi-Inu', 'Omawari-san']
+animeVoices	['Furuta, Arata', 'Nonaka, Ai', 'Irino, Miyu', 'Hidaka, Noriko', 'Sakurai, Takahiro', 'Morikawa, Toshiyuki']
+animeStaff	[['Hosokawa, Tooru', 'Director, Script, Storyboard, Series Composition'], ['Sakurai, Takahiro', 'Theme Song Performance'], ['Ishida, Akira', 'Theme Song Performance'], ['Morikawa, Toshiyuki', 'Theme Song Performance']]

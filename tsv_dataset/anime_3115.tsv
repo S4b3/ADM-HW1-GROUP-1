@@ -1,5 +1,5 @@
-animeTitle	b'Tamayura'
-animeType	b'OVA'
+animeTitle	Tamayura
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.15
 animeUsers	13571
 animeRank	
-animePopularity	
-animeDescription	"b'As a child, Fuu ""Potte"" Sawatari and her late father would often visit his hometown of Takehara and take pictures of the surroundings together. Now, five years since their last visit, Fuu and her family have moved to the town so that she can start attending high school. Although her father has been deceased for some time, Fuu carries on his legacy through her love of photography and the pictures she takes with his old camera.\n\nBelieving that photographs have the power to turn the ordinary into something wonderful, Fuu and her friends grab every opportunity they can to capture the magic of everyday life on film and bring happiness to someone in the world who might need it.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Tamayura', b'Tamayura: Hitotose']
-animeCharacters	[b'Sawatari, Fuu', b'Sakurada, Maon', b'Hanawa, Kaoru', b'Okazaki, Norie', b'Momoneko', b'Hanawa, Sayomi', b'Sawatari, Kou', b'Maestro', b'Tobita, Shimako', b'Hanawa, Mother']
-animeVoices	[b'\nTaketatsu, Ayana\nJapanese\n', b'\nGibu, Yuko\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nFukui, Yukari\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nMiyamoto, Kanako\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nDaimon, Maki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Junichi\n\nDirector, Sound Director, Episode Director, Script, Storyboard, Series Composition, Original Creator\n\n', b'\nYoshida, Reiko\n\nScript\n\n', b'\nSakamoto, Maaya\n\nTheme Song Performance\n\n', b'\nNakajima, Megumi\n\nTheme Song Performance\n\n']
+animePopularity	2859
+animeDescription	"As a child, Fuu ""Potte"" Sawatari and her late father would often visit his hometown of Takehara and take pictures of the surroundings together. Now, five years since their last visit, Fuu and her family have moved to the town so that she can start attending high school. Although her father has been deceased for some time, Fuu carries on his legacy through her love of photography and the pictures she takes with his old camera.
+
+Believing that photographs have the power to turn the ordinary into something wonderful, Fuu and her friends grab every opportunity they can to capture the magic of everyday life on film and bring happiness to someone in the world who might need it.
+
+[Written by MAL Rewrite]"
+animeRelated	['Tamayura', 'Tamayura: Hitotose']
+animeCharacters	['Sawatari, Fuu', 'Sakurada, Maon', 'Hanawa, Kaoru', 'Okazaki, Norie', 'Momoneko', 'Hanawa, Sayomi', 'Sawatari, Kou', 'Maestro', 'Tobita, Shimako', 'Hanawa, Mother']
+animeVoices	['Taketatsu, Ayana', 'Gibu, Yuko', 'Asumi, Kana', 'Iguchi, Yuka', 'Fukui, Yukari', 'Ohara, Sayaka', 'Miyamoto, Kanako', 'Nakata, Jouji', 'Saitou, Chiwa', 'Daimon, Maki']
+animeStaff	[['Satou, Junichi', 'Director, Sound Director, Episode Director, Script, Storyboard, Series Composition, Original Creator'], ['Yoshida, Reiko', 'Script'], ['Sakamoto, Maaya', 'Theme Song Performance'], ['Nakajima, Megumi', 'Theme Song Performance']]

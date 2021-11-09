@@ -1,5 +1,5 @@
-animeTitle	b'Omakase! Miracle Cat-dan'
-animeType	b'TV'
+animeTitle	Omakase! Miracle Cat-dan
+animeType	TV
 animeNumEpisode	32
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'Nakagawa owns 10 cats in real life, and she adores one in particular named Mamitasu, the anime\'s namesake. The anime depicts the slapstick comedy of the idiosyncratic 10 cats and the folks in the unusual ""Nakagawa family."" \n\n(Source: ANN)'"
+animePopularity	13583
+animeDescription	"Nakagawa owns 10 cats in real life, and she adores one in particular named Mamitasu, the anime's namesake. The anime depicts the slapstick comedy of the idiosyncratic 10 cats and the folks in the unusual ""Nakagawa family."" 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Koyama, Kensuke', b'Onigawara Mama']
-animeVoices	[b'\nJizoudou, Takehiro\nJapanese\n', b'\nSatosaki, Mei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakagawa, Shoko\n\nPlanning\n\n', b'\nSonoda, Hideki\n\nSeries Composition\n\n']
+animeCharacters	['Koyama, Kensuke', 'Onigawara Mama']
+animeVoices	['Jizoudou, Takehiro', 'Satosaki, Mei']
+animeStaff	[['Nakagawa, Shoko', 'Planning'], ['Sonoda, Hideki', 'Series Composition']]

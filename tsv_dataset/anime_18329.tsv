@@ -1,5 +1,5 @@
-animeTitle	b'Shin Angel'
-animeType	b'OVA'
+animeTitle	Shin Angel
+animeType	OVA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.24
 animeUsers	853
 animeRank	
-animePopularity	
-animeDescription	"b""Kousuke is a high school student. He just recently found out that his childhood friend Shizuka (whom he has a crush on) is now going to his high school. However, they haven't seen each other since they were five and much has changed. They don't like each other at first but they accept each other's differences and continue their friendship. They go on with their lives until small events start to escalate and they start to show affection for each other. In the meantime, Kousuke's good heart, lechery and luck lead him into the beds of various other young women, in his attempts to solve their problems. \n\n(Source: ANN)"""
-animeRelated	[b'Angel']
-animeCharacters	[b'Himenogi, Shizuka', b'Atami, Kosuke', b'Shinoyama']
+animePopularity	8711
+animeDescription	"Kousuke is a high school student. He just recently found out that his childhood friend Shizuka (whom he has a crush on) is now going to his high school. However, they haven't seen each other since they were five and much has changed. They don't like each other at first but they accept each other's differences and continue their friendship. They go on with their lives until small events start to escalate and they start to show affection for each other. In the meantime, Kousuke's good heart, lechery and luck lead him into the beds of various other young women, in his attempts to solve their problems. 
+
+(Source: ANN)"
+animeRelated	['Angel']
+animeCharacters	['Himenogi, Shizuka', 'Atami, Kosuke', 'Shinoyama']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOota, Hiromitsu\n\nDirector\n\n', b'\nToyooka, Kaoru\n\nDirector, Storyboard\n\n', b'\nAKKO\n\nTheme Song Performance\n\n', b'\nPikabia\n\nTheme Song Composition, Theme Song Performance\n\n']
+animeStaff	[['Oota, Hiromitsu', 'Director'], ['Toyooka, Kaoru', 'Director, Storyboard'], ['AKKO', 'Theme Song Performance'], ['Pikabia', 'Theme Song Composition, Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Okon Joururi'
-animeType	b'Movie'
+animeTitle	Okon Joururi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""The 25 minute film tells the tale of an ailing elderly woman named Itako who encounters a fox named Okon. \n\nThe story opens with Itako lying bedridden, as she has for a long time. Okon enters her home and Itako tells the fox that he is welcome to take anything that he wants, for she has no use for anything anymore. Okon is delighted and in order to return the favour (the act of ongaeshi), Okon performs a magic jy\xc5\x8druri (a ballad with shamisen accompaniment) that heals Itako so that she is fit enough to walk again. Everyone is surprised by Itako's sudden recovery. She then hears of a hunter who has been badly injured and is near death. Itako hides Okon in the back of her shirt and has the fox sing the song while she plays shamisen in order to heal the man. This act of kindness is repeated for others until Itako's good fortune leads some to be suspicious of her.\n\n(Source: Nishikata Film Review)"""
+animePopularity	13821
+animeDescription	"The 25 minute film tells the tale of an ailing elderly woman named Itako who encounters a fox named Okon. 
+
+The story opens with Itako lying bedridden, as she has for a long time. Okon enters her home and Itako tells the fox that he is welcome to take anything that he wants, for she has no use for anything anymore. Okon is delighted and in order to return the favour (the act of ongaeshi), Okon performs a magic jyōruri (a ballad with shamisen accompaniment) that heals Itako so that she is fit enough to walk again. Everyone is surprised by Itako's sudden recovery. She then hears of a hunter who has been badly injured and is near death. Itako hides Okon in the back of her shirt and has the fox sing the song while she plays shamisen in order to heal the man. This act of kindness is repeated for others until Itako's good fortune leads some to be suspicious of her.
+
+(Source: Nishikata Film Review)"
 animeRelated	[]
-animeCharacters	[b'Itako', b'Okon']
+animeCharacters	['Itako', 'Okon']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkamoto, Tadanari\n\nDirector\n\n']
+animeStaff	[['Okamoto, Tadanari', 'Director']]

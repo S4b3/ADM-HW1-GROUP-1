@@ -1,5 +1,5 @@
-animeTitle	b'Ocha-ken: Chokotto Monogatari'
-animeType	b'TV'
+animeTitle	Ocha-ken: Chokotto Monogatari
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.3
 animeUsers	376
 animeRank	
-animePopularity	
-animeDescription	"b""Ocha-ken is a children's program about tea-dogs and tea-cats, each representing a different blend. The episodes are very short and geared to teaching the audience various values. The lesson, or moral of the episode is displayed at the end. \n\n(Source: AniDB)"""
-animeRelated	[b'Ocha-ken: Hotto Monogatari']
-animeCharacters	[b'Ryoku', b'Muha', b'Chai', b'Cafe', b'Ron', b'Hana', b'Aru', b'Sakura', b'Ran', b'Min']
+animePopularity	10980
+animeDescription	"Ocha-ken is a children's program about tea-dogs and tea-cats, each representing a different blend. The episodes are very short and geared to teaching the audience various values. The lesson, or moral of the episode is displayed at the end. 
+
+(Source: AniDB)"
+animeRelated	['Ocha-ken: Hotto Monogatari']
+animeCharacters	['Ryoku', 'Muha', 'Chai', 'Cafe', 'Ron', 'Hana', 'Aru', 'Sakura', 'Ran', 'Min']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuoka, Hiroki\n\nSound Director\n\n', b'\nMori, Chiyoko\n\nTheme Song Lyrics\n\n']
+animeStaff	[['Matsuoka, Hiroki', 'Sound Director'], ['Mori, Chiyoko', 'Theme Song Lyrics']]

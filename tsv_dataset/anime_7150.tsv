@@ -1,5 +1,5 @@
-animeTitle	b'Kuma Miko'
-animeType	b'TV'
+animeTitle	Kuma Miko
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.31
 animeUsers	26695
 animeRank	
-animePopularity	
-animeDescription	"b""What does a bear know about life in the big city? For Machi Amayadori's sake, hopefully a lot! The young shrine maiden has spent her whole life in the rural mountains with Natsu, her talking guardian bear. Now, at fourteen, she wants to take a chance and attend high school in the big city. Can Natsu really prepare her for city life? Or will his wacky trials be too much for even Machi to bear?\n\n(Source: FUNimation)"""
-animeRelated	[b'Kuma Miko', b'Kuma Miko Specials']
-animeCharacters	[b'Amayadori, Machi', b'Kumai, Natsu', b'Amayadori, Yoshio', b'Sakata, Hibiki', b'Policeman', b'Imaginary Boyfriend', b'Kaori', b'Tamotsu', b'Shouta', b'Usui']
-animeVoices	[b'\nHioka, Natsumi\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n', b'\nOkitsu, Kazuyuki\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nTakeuchi, Kousuke\nJapanese\n', b'\nItou, Kentarou\nJapanese\n', b'\nIshigami, Shizuka\nJapanese\n', b'\nSanpei, Yuuko\nJapanese\n', b'\nAsai, Ayaka\nJapanese\n', b'\nNatori, Yukimasa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuda, Kiyoshi\n\nDirector\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nIino, Shinya\n\nEpisode Director, Storyboard\n\n', b'\nKoga, Kazuomi\n\nEpisode Director\n\n']
+animePopularity	2076
+animeDescription	"What does a bear know about life in the big city? For Machi Amayadori's sake, hopefully a lot! The young shrine maiden has spent her whole life in the rural mountains with Natsu, her talking guardian bear. Now, at fourteen, she wants to take a chance and attend high school in the big city. Can Natsu really prepare her for city life? Or will his wacky trials be too much for even Machi to bear?
+
+(Source: FUNimation)"
+animeRelated	['Kuma Miko', 'Kuma Miko Specials']
+animeCharacters	['Amayadori, Machi', 'Kumai, Natsu', 'Amayadori, Yoshio', 'Sakata, Hibiki', 'Policeman', 'Imaginary Boyfriend', 'Kaori', 'Tamotsu', 'Shouta', 'Usui']
+animeVoices	['Hioka, Natsumi', 'Yasumoto, Hiroki', 'Okitsu, Kazuyuki', 'Kitamura, Eri', 'Takeuchi, Kousuke', 'Itou, Kentarou', 'Ishigami, Shizuka', 'Sanpei, Yuuko', 'Asai, Ayaka', 'Natori, Yukimasa']
+animeStaff	[['Matsuda, Kiyoshi', 'Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Iino, Shinya', 'Episode Director, Storyboard'], ['Koga, Kazuomi', 'Episode Director']]

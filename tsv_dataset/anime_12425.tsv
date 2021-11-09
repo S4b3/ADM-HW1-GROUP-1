@@ -1,5 +1,5 @@
-animeTitle	b'Nobara no Julie'
-animeType	b'TV'
+animeTitle	Nobara no Julie
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Eleven-year-old Julie Braun lives in the lush green mountain pastures of Austria's Southern Tyrol. Her parents are killed by Italian soldiers, and she is sent to Vienna to live with her relatives, the Clementes. She befriends cousins Johan and Tanya but has trouble adjusting to life with Uncle Karl and Aunt Klara. As Austria is plunged into World War I, Karl is fired from his job at a glass factory, and Julie's new family is forced into a life of hardship.\n\n(Source: animevice.com)\n"""
+animePopularity	12538
+animeDescription	"Eleven-year-old Julie Braun lives in the lush green mountain pastures of Austria's Southern Tyrol. Her parents are killed by Italian soldiers, and she is sent to Vienna to live with her relatives, the Clementes. She befriends cousins Johan and Tanya but has trouble adjusting to life with Uncle Karl and Aunt Klara. As Austria is plunged into World War I, Karl is fired from his job at a glass factory, and Julie's new family is forced into a life of hardship.
+
+(Source: animevice.com)
+"
 animeRelated	[]
-animeCharacters	[b'Tanya', b'Braun, Julie', b'Oskar', b'Herbie', b'Teresia', b'Narrator', b'Heinrich', b'Johann', b'Karoline', b'Karl']
-animeVoices	[b'\nKawashima, Chiyoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMozart, Wolfgang Amadeus\n\nMusic\n\n', b'\nStrauss II, Johan\n\nMusic\n\n', b'\nTominaga, Sadayoshi\n\nAnimation Director\n\n', b'\nAbe, Masaki\n\nAnimation Director\n\n']
+animeCharacters	['Tanya', 'Braun, Julie', 'Oskar', 'Herbie', 'Teresia', 'Narrator', 'Heinrich', 'Johann', 'Karoline', 'Karl']
+animeVoices	['Kawashima, Chiyoko']
+animeStaff	[['Mozart, Wolfgang Amadeus', 'Music'], ['Strauss II, Johan', 'Music'], ['Tominaga, Sadayoshi', 'Animation Director'], ['Abe, Masaki', 'Animation Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Sunohara-sou no Kanrinin-san'
-animeType	b'TV'
+animeTitle	Sunohara-sou no Kanrinin-san
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.82
 animeUsers	43287
 animeRank	
-animePopularity	
-animeDescription	"b""Shiina Aki is constantly being treated like a girl due to his feminine looks so he decides to move to Tokyo to attend middle school in an attempt to change himself.\n\nHowever, what awaits him in his new home, Sunohara-sou, is the kind-hearted caretaker, Sunohara Ayaka. Along with the three female members of Aki's new middle school's student council, Yukimoto Yuzu, Yamanashi Sumire, and Kazami Yuri.\n\nAnd so begins Aki's new life in Tokyo living with four girls."""
-animeRelated	[b'Sunohara-sou no Kanrinin-san']
-animeCharacters	[b'Sunohara, Ayaka', b'Shiina, Aki', b'Sunohara, Nana', b'Yukimoto, Yuzu', b'Kazami, Yuri', b'Uchifuji, Mea', b'Yamanashi, Sumire', b'Shiina, Matsuri', b'Nishiki, Yatsuho', b'Osonoi, Maiko']
-animeVoices	[b'\nSatou, Rina\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nTakamori, Natsumi\nJapanese\n', b'\nMiyamoto, Yume\nJapanese\n', b'\nNagatsuma, Juri\nJapanese\n', b'\nSeto, Asami\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nNakajima, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOonuma, Shin\n\nDirector\n\n', b'\nMinato, Mirai\n\nDirector\n\n', b'\nShimo, Fumihiko\n\nScript, Series Composition\n\n', b'\nYamada, Yuka\n\nScript\n\n']
+animePopularity	1408
+animeDescription	"Shiina Aki is constantly being treated like a girl due to his feminine looks so he decides to move to Tokyo to attend middle school in an attempt to change himself.
+
+However, what awaits him in his new home, Sunohara-sou, is the kind-hearted caretaker, Sunohara Ayaka. Along with the three female members of Aki's new middle school's student council, Yukimoto Yuzu, Yamanashi Sumire, and Kazami Yuri.
+
+And so begins Aki's new life in Tokyo living with four girls."
+animeRelated	['Sunohara-sou no Kanrinin-san']
+animeCharacters	['Sunohara, Ayaka', 'Shiina, Aki', 'Sunohara, Nana', 'Yukimoto, Yuzu', 'Kazami, Yuri', 'Uchifuji, Mea', 'Yamanashi, Sumire', 'Shiina, Matsuri', 'Nishiki, Yatsuho', 'Osonoi, Maiko']
+animeVoices	['Satou, Rina', 'Kitamura, Eri', 'Sakura, Ayane', 'Takamori, Natsumi', 'Miyamoto, Yume', 'Nagatsuma, Juri', 'Seto, Asami', 'Kayano, Ai', 'Itou, Shizuka', 'Nakajima, Megumi']
+animeStaff	[['Oonuma, Shin', 'Director'], ['Minato, Mirai', 'Director'], ['Shimo, Fumihiko', 'Script, Series Composition'], ['Yamada, Yuka', 'Script']]

@@ -1,5 +1,5 @@
-animeTitle	b'Final Fantasy: The Spirits Within'
-animeType	b'Movie'
+animeTitle	Final Fantasy: The Spirits Within
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.34
 animeUsers	46790
 animeRank	
-animePopularity	
-animeDescription	"b'The year is 2065, and the planet of Earth is far removed from the place that it was in the past. Deadly alien creatures known as Phantoms have appeared all over the planet, and mere contact with these entities is lethal, whether it be an instant death or a prolonged decline. In order to try and salvage what little of the human race is left, large force-field barriers have been constructed around certain cities to repel the Phantoms.\n\nSeeking a more permanent solution to this invasion are scientists Aki Ross and her mentor, Dr. Sid, whose investigations have revealed that there exists a form of spiritual, Gaia energy that can eradicate the Phantom\'s presence from this world. Aki and Sid aren\'t alone in their quest through Final Fantasy: The Spirits Within; the human council and the military squad ""Deep Eyes"" are ready to help. Not everyone is convinced of this plan though.\n\nAki, Sid, Grey, and their allies have to band together against forces both alien and human if they are to have any chance at restoring peace to Earth. An enemy whose mere touch is fatal, the Phantoms appear the more dangerous enemy, but as they will come to find out, their human nemeses are also not to be trifled with.'"
+animePopularity	2100
+animeDescription	"The year is 2065, and the planet of Earth is far removed from the place that it was in the past. Deadly alien creatures known as Phantoms have appeared all over the planet, and mere contact with these entities is lethal, whether it be an instant death or a prolonged decline. In order to try and salvage what little of the human race is left, large force-field barriers have been constructed around certain cities to repel the Phantoms.
+
+Seeking a more permanent solution to this invasion are scientists Aki Ross and her mentor, Dr. Sid, whose investigations have revealed that there exists a form of spiritual, Gaia energy that can eradicate the Phantom's presence from this world. Aki and Sid aren't alone in their quest through Final Fantasy: The Spirits Within; the human council and the military squad ""Deep Eyes"" are ready to help. Not everyone is convinced of this plan though.
+
+Aki, Sid, Grey, and their allies have to band together against forces both alien and human if they are to have any chance at restoring peace to Earth. An enemy whose mere touch is fatal, the Phantoms appear the more dangerous enemy, but as they will come to find out, their human nemeses are also not to be trifled with."
 animeRelated	[]
-animeCharacters	[b'Ross, Aki', b'Edwards, Gray', b'Dr. Sid', b'Whitaker, Ryan', b'Fleming, Neil', b'Hein, Douglas', b'Proudfoot, Jane']
-animeVoices	[b'\nToda, Keiko\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nGotou, Atsushi\nJapanese\n', b'\nIsobe, Tsutomu\nJapanese\n', b'\nKarasawa, Jun\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nSakaguchi, Hironobu\n\nDirector, Script\n\n', b""\nL'Arc~en~Ciel\n\nTheme Song Performance\n\n"", b'\nHyde\n\nTheme Song Composition\n\n', b'\nKanada, Yoshinori\n\nLayout\n\n']"
+animeCharacters	['Ross, Aki', 'Edwards, Gray', 'Dr. Sid', 'Whitaker, Ryan', 'Fleming, Neil', 'Hein, Douglas', 'Proudfoot, Jane']
+animeVoices	['Toda, Keiko', 'Koyama, Rikiya', 'Kobayashi, Kiyoshi', 'Ootsuka, Akio', 'Gotou, Atsushi', 'Isobe, Tsutomu', 'Karasawa, Jun']
+animeStaff	"[['Sakaguchi, Hironobu', 'Director, Script'], [""L'Arc~en~Ciel"", 'Theme Song Performance'], ['Hyde', 'Theme Song Composition'], ['Kanada, Yoshinori', 'Layout']]"

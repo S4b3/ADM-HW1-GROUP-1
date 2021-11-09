@@ -1,5 +1,5 @@
-animeTitle	b'Xiongmao Monogatari TaoTao'
-animeType	b'Movie'
+animeTitle	Xiongmao Monogatari TaoTao
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.02
 animeUsers	113
 animeRank	
-animePopularity	
-animeDescription	b'TaoTao is an anime series about the eponymous Taotao, a small panda. In the stories, Taotao has adventures with his animal friends and listens to the stories of his mother, the mommy panda.\n\n(Source: AniDB)'
-animeRelated	[b'TaoTao Ehonkan Sekai Doubutsu Banashi']
-animeCharacters	[b'Tao Tao']
+animePopularity	14027
+animeDescription	"TaoTao is an anime series about the eponymous Taotao, a small panda. In the stories, Taotao has adventures with his animal friends and listens to the stories of his mother, the mommy panda.
+
+(Source: AniDB)"
+animeRelated	['TaoTao Ehonkan Sekai Doubutsu Banashi']
+animeCharacters	['Tao Tao']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakahara, Shuuichi\n\nArt Director\n\n']
+animeStaff	[['Nakahara, Shuuichi', 'Art Director']]

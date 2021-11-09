@@ -1,5 +1,5 @@
-animeTitle	b'Hong Kil-dong'
-animeType	b'Movie'
+animeTitle	Hong Kil-dong
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A special boy is born on a day when hurricanes and wicked spirits struck medieval Korea. The citizens and family learn that the infant has super human strength and cunning intelligence. As the boy grows up, he makes a vow to his family, the emperor of Korea, and to the high deities to rid Korea of the chaos and disorder caused by the wicked beings.\n\n(Source: IMDB)'
-animeRelated	[b'Uju Jeonsa Hong Gildong', b'Hong Gil Dong 2084']
+animePopularity	14083
+animeDescription	"A special boy is born on a day when hurricanes and wicked spirits struck medieval Korea. The citizens and family learn that the infant has super human strength and cunning intelligence. As the boy grows up, he makes a vow to his family, the emperor of Korea, and to the high deities to rid Korea of the chaos and disorder caused by the wicked beings.
+
+(Source: IMDB)"
+animeRelated	['Uju Jeonsa Hong Gildong', 'Hong Gil Dong 2084']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

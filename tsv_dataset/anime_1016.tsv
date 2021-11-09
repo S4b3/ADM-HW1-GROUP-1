@@ -1,5 +1,5 @@
-animeTitle	"b""Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen"""
-animeType	b'Movie'
+animeTitle	Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.72
 animeUsers	62550
 animeRank	
-animePopularity	
-animeDescription	"b'The first part of a two-part movie. The story is a recap of the TV series.\n\nMirai Kuriyama is the sole survivor of a clan of Spirit World warriors with the power to employ their blood as weapons. As such, Mirai is tasked with hunting down and killing ""youmu""\xe2\x80\x94creatures said to be the manifestation of negative human emotions. One day, while deep in thought on the school roof, Mirai comes across Akihito Kanbara, a rare half-breed of youmu in human form. In a panicked state, she plunges her blood saber into him only to realize that he\'s an immortal being. From then on, the two form an impromptu friendship that revolves around Mirai constantly trying to kill Akihito, in an effort to boost her own wavering confidence as a Spirit World warrior. Eventually, Akihito also manages to convince her to join the Literary Club, which houses two other powerful Spirit World warriors, Hiroomi and Mitsuki Nase.\n\nAs the group\'s bond strengthens, however, so does the tenacity of the youmu around them. Their misadventures will soon turn into a fight for survival as the inevitable release of the most powerful youmu, Beyond the Boundary, approaches.\n\n[Written by MAL Rewrite]'"
-animeRelated	"[b'Kyoukai no Kanata', b""Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen"", b""Kyoukai no Kanata Movie: I'll Be Here - Kako-hen - Yakusoku no Kizuna""]"
-animeCharacters	[b'Kuriyama, Mirai', b'Kanbara, Akihito', b'Nase, Hiroomi', b'Nase, Mitsuki', b'Nase, Izumi', b'Shindou, Ai', b'Shindou, Ayaka', b'Inami, Sakura', b'Ninomiya, Shizuku', b'Kanbara, Yayoi']
-animeVoices	[b'\nTaneda, Risa\nJapanese\n', b'\nKENN\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nChihara, Minori\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nYamaoka, Yuri\nJapanese\n', b'\nShindo, Naomi\nJapanese\n', b'\nToyota, Moe\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nKonno, Hiromi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshidate, Taichi\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nHanada, Jukki\n\nScript\n\n', b'\nItou, Masumi\n\nMusic\n\n']
+animePopularity	1261
+animeDescription	"The first part of a two-part movie. The story is a recap of the TV series.
+
+Mirai Kuriyama is the sole survivor of a clan of Spirit World warriors with the power to employ their blood as weapons. As such, Mirai is tasked with hunting down and killing ""youmu""—creatures said to be the manifestation of negative human emotions. One day, while deep in thought on the school roof, Mirai comes across Akihito Kanbara, a rare half-breed of youmu in human form. In a panicked state, she plunges her blood saber into him only to realize that he's an immortal being. From then on, the two form an impromptu friendship that revolves around Mirai constantly trying to kill Akihito, in an effort to boost her own wavering confidence as a Spirit World warrior. Eventually, Akihito also manages to convince her to join the Literary Club, which houses two other powerful Spirit World warriors, Hiroomi and Mitsuki Nase.
+
+As the group's bond strengthens, however, so does the tenacity of the youmu around them. Their misadventures will soon turn into a fight for survival as the inevitable release of the most powerful youmu, Beyond the Boundary, approaches.
+
+[Written by MAL Rewrite]"
+animeRelated	"['Kyoukai no Kanata', ""Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen"", ""Kyoukai no Kanata Movie: I'll Be Here - Kako-hen - Yakusoku no Kizuna""]"
+animeCharacters	['Kuriyama, Mirai', 'Kanbara, Akihito', 'Nase, Hiroomi', 'Nase, Mitsuki', 'Nase, Izumi', 'Shindou, Ai', 'Shindou, Ayaka', 'Inami, Sakura', 'Ninomiya, Shizuku', 'Kanbara, Yayoi']
+animeVoices	['Taneda, Risa', 'KENN', 'Suzuki, Tatsuhisa', 'Chihara, Minori', 'Kawasumi, Ayako', 'Yamaoka, Yuri', 'Shindo, Naomi', 'Toyota, Moe', 'Watanabe, Akeno', 'Konno, Hiromi']
+animeStaff	[['Ishidate, Taichi', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Hanada, Jukki', 'Script'], ['Itou, Masumi', 'Music']]

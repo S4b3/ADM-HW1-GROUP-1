@@ -1,5 +1,5 @@
-animeTitle	b'Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.'
-animeType	b'OVA'
+animeTitle	Inari, Konkon, Koi Iroha.: Inari, Konkon, Semishigure.
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.88
 animeUsers	12057
 animeRank	
-animePopularity	
-animeDescription	b'Unaired OVA bundled with limited edition eighth volume of the manga.\n\nThe episode centers around the actions of Inari and Kon.'
-animeRelated	[b'Inari, Konkon, Koi Iroha.']
-animeCharacters	[b'Fushimi, Inari', b'Kon', b'Tanbabashi, Kouji', b'Tanbabashi, Shirou', b'Uka-no-Mitama-no-Kami', b'Sumizome, Akemi', b'Oomiyanome-no-kami', b'Sanjou, Keiko', b'Ootoshi-no-kami', b'Marutamachi, Chika']
-animeVoices	[b'\nOozora, Naomi\nJapanese\n', b'\nHara, Sayuri\nJapanese\n', b'\nOkamoto, Hiroshi\nJapanese\n', b'\nTougou, Subaru\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nNomizu, Iori\nJapanese\n', b'\nMikami, Shiori\nJapanese\n', b'\nIkebe, Kumiko\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nSadohara, Kaori\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nTakahashi, Tooru\n\nDirector, Episode Director, Storyboard\n\n', b'\nMachida, Touko\n\nScript\n\n', b'\nSakamoto, Maaya\n\nTheme Song Performance\n\n', b""\nMay'n\n\nTheme Song Performance\n\n""]"
+animePopularity	3720
+animeDescription	"Unaired OVA bundled with limited edition eighth volume of the manga.
+
+The episode centers around the actions of Inari and Kon."
+animeRelated	['Inari, Konkon, Koi Iroha.']
+animeCharacters	['Fushimi, Inari', 'Kon', 'Tanbabashi, Kouji', 'Tanbabashi, Shirou', 'Uka-no-Mitama-no-Kami', 'Sumizome, Akemi', 'Oomiyanome-no-kami', 'Sanjou, Keiko', 'Ootoshi-no-kami', 'Marutamachi, Chika']
+animeVoices	['Oozora, Naomi', 'Hara, Sayuri', 'Okamoto, Hiroshi', 'Tougou, Subaru', 'Kuwashima, Houko', 'Nomizu, Iori', 'Mikami, Shiori', 'Ikebe, Kumiko', 'Koyasu, Takehito', 'Sadohara, Kaori']
+animeStaff	"[['Takahashi, Tooru', 'Director, Episode Director, Storyboard'], ['Machida, Touko', 'Script'], ['Sakamoto, Maaya', 'Theme Song Performance'], [""May'n"", 'Theme Song Performance']]"

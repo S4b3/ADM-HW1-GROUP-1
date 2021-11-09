@@ -1,5 +1,5 @@
-animeTitle	b'Yurumates'
-animeType	b'OVA'
+animeTitle	Yurumates
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.38
 animeUsers	2758
 animeRank	
-animePopularity	
-animeDescription	"b'Yurume, an 18-year old ""ronin"" and recent high school graduate, has high hopes of being accepted and attending Tokyo University. She moves into an apartment complex, the Maison du Wish, located on the outskirts of Tokyo where other ronins living there are studying for upcoming college acceptance exams.'"
-animeRelated	[b'Yurumates', b'Yurumates wa?', b'Yurumates 3D']
-animeCharacters	[b'Aida, Yurume', b'Matsukichi', b'Tanaka, Kumi', b'Kawano, Sae']
-animeVoices	[b'\nMomoi, Haruko\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nKuwatani, Natsuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsukimisato, Tomohiro\n\nDirector, Episode Director\n\n', b'\nMomoi, Haruko\n\nTheme Song Performance\n\n', b'\nsaxyun\n\nOriginal Creator\n\n']
+animePopularity	6474
+animeDescription	"Yurume, an 18-year old ""ronin"" and recent high school graduate, has high hopes of being accepted and attending Tokyo University. She moves into an apartment complex, the Maison du Wish, located on the outskirts of Tokyo where other ronins living there are studying for upcoming college acceptance exams."
+animeRelated	['Yurumates', 'Yurumates wa?', 'Yurumates 3D']
+animeCharacters	['Aida, Yurume', 'Matsukichi', 'Tanaka, Kumi', 'Kawano, Sae']
+animeVoices	['Momoi, Haruko', 'Hino, Satoshi', 'Matsuki, Miyu', 'Kuwatani, Natsuko']
+animeStaff	[['Tsukimisato, Tomohiro', 'Director, Episode Director'], ['Momoi, Haruko', 'Theme Song Performance'], ['saxyun', 'Original Creator']]

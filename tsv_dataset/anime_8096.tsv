@@ -1,5 +1,5 @@
-animeTitle	b'Ozma'
-animeType	b'TV'
+animeTitle	Ozma
+animeType	TV
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.11
 animeUsers	6367
 animeRank	
-animePopularity	
-animeDescription	"b'In the far future, the elevated irradiation from the sun has destroyed the environment of the earth and the birthrate of humans has drastically decreased. The government controls society with an army of cloned soldiers called ""Ideal Children (IC)"". Sam Coyne is a trader in a desert. One day, he saves a beautiful woman Maya, who has been chased by Theseus, a corps of IC. He shelters her in his trade ship, but the destroyers of Theseus surround Sam and Maya.'"
+animePopularity	4591
+animeDescription	"In the far future, the elevated irradiation from the sun has destroyed the environment of the earth and the birthrate of humans has drastically decreased. The government controls society with an army of cloned soldiers called ""Ideal Children (IC)"". Sam Coyne is a trader in a desert. One day, he saves a beautiful woman Maya, who has been chased by Theseus, a corps of IC. He shelters her in his trade ship, but the destroyers of Theseus surround Sam and Maya."
 animeRelated	[]
-animeCharacters	[b'Mimei', b'Maya', b'Coyne, Sam', b'Bainas', b'Coyne, Dick', b'Gaira, Gido', b'Tom', b'Noguchi, Luna', b'Rafu, Bokus', b'Gii, Ejiboura']
-animeVoices	[b'\nFujimura, Ayumi\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nHorie, Kazuma\nJapanese\n', b'\nUran, Sakiko\nJapanese\n', b'\nFujinuma, Kento\nJapanese\n', b'\nSakurai, Toshiharu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Ryousuke\n\nDirector\n\n', b'\nIkezoe, Takahiro\n\nDirector, Episode Director, Storyboard\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nTakegami, Junki\n\nScript, Series Composition\n\n']
+animeCharacters	['Mimei', 'Maya', 'Coyne, Sam', 'Bainas', 'Coyne, Dick', 'Gaira, Gido', 'Tom', 'Noguchi, Luna', 'Rafu, Bokus', 'Gii, Ejiboura']
+animeVoices	['Fujimura, Ayumi', 'Tanaka, Rie', 'Kakihara, Tetsuya', 'Tanaka, Atsuko', 'Hayami, Show', 'Horie, Kazuma', 'Uran, Sakiko', 'Fujinuma, Kento', 'Sakurai, Toshiharu']
+animeStaff	[['Takahashi, Ryousuke', 'Director'], ['Ikezoe, Takahiro', 'Director, Episode Director, Storyboard'], ['Kameyama, Toshiki', 'Sound Director'], ['Takegami, Junki', 'Script, Series Composition']]

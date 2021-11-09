@@ -1,5 +1,5 @@
-animeTitle	b'Detective Conan Movie 25'
-animeType	b'Movie'
+animeTitle	Detective Conan Movie 25
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The movie is set to be released during the Golden Week in 2022.\n'
-animeRelated	[b'Detective Conan', b'Meitantei Conan: Keisatsu Gakkou-hen - Wild Police Story']
+animePopularity	8533
+animeDescription	"The movie is set to be released during the Golden Week in 2022.
+"
+animeRelated	['Detective Conan', 'Meitantei Conan: Keisatsu Gakkou-hen - Wild Police Story']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

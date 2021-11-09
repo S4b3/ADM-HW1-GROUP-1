@@ -1,5 +1,5 @@
-animeTitle	b'Taimanin Asagi Special'
-animeType	b'Special'
+animeTitle	Taimanin Asagi Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.36
 animeUsers	2155
 animeRank	
-animePopularity	
-animeDescription	b'Side story of Taimanin Asagi.'
-animeRelated	[b'Taimanin Asagi']
-animeCharacters	[b'Igawa, Asagi', b'Igawa, Sakura']
+animePopularity	6822
+animeDescription	Side story of Taimanin Asagi.
+animeRelated	['Taimanin Asagi']
+animeCharacters	['Igawa, Asagi', 'Igawa, Sakura']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurakami, Teruaki\n\nDirector\n\n', b'\nLilith Soft\n\nOriginal Creator\n\n']
+animeStaff	[['Murakami, Teruaki', 'Director'], ['Lilith Soft', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'ARMS'
-animeType	b'Special'
+animeTitle	ARMS
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'ARMS television commercial for Shounen Sunday magazine.'
-animeRelated	[b'Arms', b'Project ARMS']
+animePopularity	15251
+animeDescription	ARMS television commercial for Shounen Sunday magazine.
+animeRelated	['Arms', 'Project ARMS']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

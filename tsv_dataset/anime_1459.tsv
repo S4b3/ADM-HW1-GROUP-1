@@ -1,5 +1,5 @@
-animeTitle	b'Tamayura: More Aggressive'
-animeType	b'TV'
+animeTitle	Tamayura: More Aggressive
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.55
 animeUsers	6353
 animeRank	
-animePopularity	
-animeDescription	"b""The second season of Tamayura: Hitotose.\n\nIt's the beginning of a new school year for Fuu and friends. With a new year comes new challenges as Fuu tries to open a photography club at her school.\n\n(Source: ANN)"""
-animeRelated	[b'Tamayura: Hitotose', b'Tamayura: More Aggressive - Tsuitachi dake no Shuugakuryokou, Nanode', b'Tamayura: More Aggressive Picture Drama', b'Tamayura: Sotsugyou Shashin Part 1 - Kizashi']
-animeCharacters	[b'Sawatari, Fuu', b'Sakurada, Maon', b'Hanawa, Kaoru', b'Mitani, Kanae', b'Okazaki, Norie', b'Momoneko', b'Hanawa, Sayomi', b'Miyoshi, Chihiro', b'Sakurada, Mother', b'Natsume, Nozomu']
-animeVoices	[b'\nTaketatsu, Ayana\nJapanese\n', b'\nGibu, Yuko\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nFukui, Yukari\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nKotobuki, Minako\nJapanese\n', b'\nHirano, Fumi\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Junichi\n\nDirector, Sound Director, Script, Storyboard, Original Creator, Series Composition\n\n', b'\nYoshida, Reiko\n\nScript\n\n', b'\nYamada, Yuka\n\nScript\n\n', b'\nSakamoto, Maaya\n\nTheme Song Performance\n\n']
+animePopularity	4175
+animeDescription	"The second season of Tamayura: Hitotose.
+
+It's the beginning of a new school year for Fuu and friends. With a new year comes new challenges as Fuu tries to open a photography club at her school.
+
+(Source: ANN)"
+animeRelated	['Tamayura: Hitotose', 'Tamayura: More Aggressive - Tsuitachi dake no Shuugakuryokou, Nanode', 'Tamayura: More Aggressive Picture Drama', 'Tamayura: Sotsugyou Shashin Part 1 - Kizashi']
+animeCharacters	['Sawatari, Fuu', 'Sakurada, Maon', 'Hanawa, Kaoru', 'Mitani, Kanae', 'Okazaki, Norie', 'Momoneko', 'Hanawa, Sayomi', 'Miyoshi, Chihiro', 'Sakurada, Mother', 'Natsume, Nozomu']
+animeVoices	['Taketatsu, Ayana', 'Gibu, Yuko', 'Asumi, Kana', 'Kayano, Ai', 'Iguchi, Yuka', 'Fukui, Yukari', 'Ohara, Sayaka', 'Kotobuki, Minako', 'Hirano, Fumi', 'Midorikawa, Hikaru']
+animeStaff	[['Satou, Junichi', 'Director, Sound Director, Script, Storyboard, Original Creator, Series Composition'], ['Yoshida, Reiko', 'Script'], ['Yamada, Yuka', 'Script'], ['Sakamoto, Maaya', 'Theme Song Performance']]

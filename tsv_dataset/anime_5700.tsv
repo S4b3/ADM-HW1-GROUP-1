@@ -1,5 +1,5 @@
-animeTitle	b'Ginga Tetsudou 999: Eternal Fantasy'
-animeType	b'Movie'
+animeTitle	Ginga Tetsudou 999: Eternal Fantasy
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.58
 animeUsers	1426
 animeRank	
-animePopularity	
-animeDescription	b'Based on the story by manga master Leiji Matsumoto (The Cockpit, Queen Emeraldas), the 55 minute featurette picks up one year after the events of Galaxy Express 999 in which a young boy named Tetsuro and his motherly companion Maetel worked to rid the universe on the Mechanized Empire who had taken over Earth.\n\n(Source: AniDB)'
-animeRelated	[b'Ginga Tetsudou 999 (1996)', b'Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki']
-animeCharacters	"[b'Maetel', b'Hoshino, Tetsurou', b'Captain Herlock', b'The Conductor', b'Claire', b'Helmazaria', b""Iselle's father"", b'Kanon', b'Iselle']"
-animeVoices	[b'\nIkeda, Masako\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n', b'\nTatekabe, Kazuya\nJapanese\n', b'\nToda, Keiko\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUda, Kounosuke\n\nDirector\n\n', b'\nTakegami, Junki\n\nScript\n\n', b'\nTHE ALFEE\n\nTheme Song Performance\n\n', b'\nHosoda, Mamoru\n\nKey Animation\n\n']
+animePopularity	7663
+animeDescription	"Based on the story by manga master Leiji Matsumoto (The Cockpit, Queen Emeraldas), the 55 minute featurette picks up one year after the events of Galaxy Express 999 in which a young boy named Tetsuro and his motherly companion Maetel worked to rid the universe on the Mechanized Empire who had taken over Earth.
+
+(Source: AniDB)"
+animeRelated	['Ginga Tetsudou 999 (1996)', 'Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki']
+animeCharacters	"['Maetel', 'Hoshino, Tetsurou', 'Captain Herlock', 'The Conductor', 'Claire', 'Helmazaria', ""Iselle's father"", 'Kanon', 'Iselle']"
+animeVoices	['Ikeda, Masako', 'Nozawa, Masako', 'Yamadera, Kouichi', 'Kimotsuki, Kaneta', 'Minaguchi, Yuko', 'Sakakibara, Yoshiko', 'Tatekabe, Kazuya', 'Toda, Keiko', 'Hidaka, Noriko']
+animeStaff	[['Uda, Kounosuke', 'Director'], ['Takegami, Junki', 'Script'], ['THE ALFEE', 'Theme Song Performance'], ['Hosoda, Mamoru', 'Key Animation']]

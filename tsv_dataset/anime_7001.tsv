@@ -1,5 +1,5 @@
-animeTitle	b'Walkure Romanze'
-animeType	b'TV'
+animeTitle	Walkure Romanze
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.34
 animeUsers	45498
 animeRank	
-animePopularity	
-animeDescription	"b""Taking place at Winford Academy located in an old town called Helen's Hill, the story is all about knights and the sport of jousting. At this school, students learn how to become knights, ride horses and joust properly. The main character is a young man named Takahiro Mizuno who was training to become a knight and jouster but after suffering an injury he dropped out of the knight program and joined the begleiter (assistant) program instead. Due to his animal handling skills and former experience as a jouster, this makes him a hot commodity. Multiple beautiful girls in the school want him to become their personal begleiter, though Takahiro always refuses their offers.\n\nOne day a bizarre accident causes his friend, Mio Kisaski, to be challenged to a jousting duel despite her not actually being a knight. Takahiro agrees to become her temporary begleiter, but that ends up only being the beginning of their partnership as she enrolls in the annual tournament. """
-animeRelated	[b'Walkure Romanze: Shoujo Kishi Monogatari', b'Walkure Romanze']
-animeCharacters	[b'Aintree, Celia Cumani', b'Ryuuzouji, Akane', b'Eostre, Lisa', b'Ascot, Noel Marres', b'Kisaki, Mio', b'Mizuno, Takahiro', b'Althusser, Bertille', b'Hiiragi, Ayako', b'Beckford, Fiona', b'Avery, Reina F. ']
-animeVoices	[b'\nMizusawa, Kei\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nTaguchi, Hiroko\nJapanese\n', b'\nNakamura, Eriko\nJapanese\n', b'\nShimizu, Ai\nJapanese\n', b'\nYamashita, Seiichirou\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nChiba, Chiemi\nJapanese\n', b'\nImai, Asami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Yuusuke\n\nDirector\n\n', b'\nShioya, Yoku\n\nSound Director\n\n', b'\nHoshino, Makoto\n\nEpisode Director, Storyboard\n\n', b'\nAbe, Noriyuki\n\nStoryboard\n\n']
+animePopularity	1399
+animeDescription	"Taking place at Winford Academy located in an old town called Helen's Hill, the story is all about knights and the sport of jousting. At this school, students learn how to become knights, ride horses and joust properly. The main character is a young man named Takahiro Mizuno who was training to become a knight and jouster but after suffering an injury he dropped out of the knight program and joined the begleiter (assistant) program instead. Due to his animal handling skills and former experience as a jouster, this makes him a hot commodity. Multiple beautiful girls in the school want him to become their personal begleiter, though Takahiro always refuses their offers.
+
+One day a bizarre accident causes his friend, Mio Kisaski, to be challenged to a jousting duel despite her not actually being a knight. Takahiro agrees to become her temporary begleiter, but that ends up only being the beginning of their partnership as she enrolls in the annual tournament. "
+animeRelated	['Walkure Romanze: Shoujo Kishi Monogatari', 'Walkure Romanze']
+animeCharacters	['Aintree, Celia Cumani', 'Ryuuzouji, Akane', 'Eostre, Lisa', 'Ascot, Noel Marres', 'Kisaki, Mio', 'Mizuno, Takahiro', 'Althusser, Bertille', 'Hiiragi, Ayako', 'Beckford, Fiona', 'Avery, Reina F. ']
+animeVoices	['Mizusawa, Kei', 'Nabatame, Hitomi', 'Taguchi, Hiroko', 'Nakamura, Eriko', 'Shimizu, Ai', 'Yamashita, Seiichirou', 'Yuzuki, Ryouka', 'Mizuhashi, Kaori', 'Chiba, Chiemi', 'Imai, Asami']
+animeStaff	[['Yamamoto, Yuusuke', 'Director'], ['Shioya, Yoku', 'Sound Director'], ['Hoshino, Makoto', 'Episode Director, Storyboard'], ['Abe, Noriyuki', 'Storyboard']]

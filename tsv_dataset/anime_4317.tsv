@@ -1,5 +1,5 @@
-animeTitle	b'Zetman'
-animeType	b'TV'
+animeTitle	Zetman
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.87
 animeUsers	54312
 animeRank	
-animePopularity	
-animeDescription	b'The story starts off with a face-off between two rival heroes, ZET and ALPHAS, and then traces their origins - Jin Kanzaki, a young man with the ability to transform into a superhuman being known as ZET, and Kouga Amagi, a young man with a strong sense of justice who uses technology to fight as ALPHAS.\n\nThe fates of these two men and those around them intertwine as they fight to protect mankind and destroy monstrous abominations known as Players.\n\n(Source: ytv ENGLISH)'
-animeRelated	[b'Zetman']
-animeCharacters	[b'Kanzaki, Jin', b'Tanaka, Hanako', b'Amagi, Kouga', b'Amagi, Konoha', b'Haitani, Seiji', b'Kawakami, Akemi', b'Hayami', b'Hashimoto, Mayu', b'Mamoru, Kabe', b'Amagi, Youko']
-animeVoices	[b'\nPark, Romi\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nHayamizu, Risa\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nKusumi, Naomi\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNabeshima, Osamu\n\nDirector, Episode Director, Storyboard\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n', b'\nHarada, Nana\n\nEpisode Director\n\n', b'\nSakaguchi, Ryuutarou\n\nEpisode Director, Storyboard, Key Animation\n\n']
+animePopularity	1410
+animeDescription	"The story starts off with a face-off between two rival heroes, ZET and ALPHAS, and then traces their origins - Jin Kanzaki, a young man with the ability to transform into a superhuman being known as ZET, and Kouga Amagi, a young man with a strong sense of justice who uses technology to fight as ALPHAS.
+
+The fates of these two men and those around them intertwine as they fight to protect mankind and destroy monstrous abominations known as Players.
+
+(Source: ytv ENGLISH)"
+animeRelated	['Zetman']
+animeCharacters	['Kanzaki, Jin', 'Tanaka, Hanako', 'Amagi, Kouga', 'Amagi, Konoha', 'Haitani, Seiji', 'Kawakami, Akemi', 'Hayami', 'Hashimoto, Mayu', 'Mamoru, Kabe', 'Amagi, Youko']
+animeVoices	['Park, Romi', 'Ise, Mariya', 'Miyano, Mamoru', 'Hanazawa, Kana', 'Yusa, Kouji', 'Hayamizu, Risa', 'Suzumura, Kenichi', 'Fujimura, Ayumi', 'Kusumi, Naomi', 'Hisakawa, Aya']
+animeStaff	[['Nabeshima, Osamu', 'Director, Episode Director, Storyboard'], ['Takadera, Takeshi', 'Sound Director'], ['Harada, Nana', 'Episode Director'], ['Sakaguchi, Ryuutarou', 'Episode Director, Storyboard, Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Tenjou Tenge: The Past Chapter'
-animeType	b'Movie'
+animeTitle	Tenjou Tenge: The Past Chapter
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.06
 animeUsers	9458
 animeRank	
-animePopularity	
-animeDescription	"b""Mitsuomi Takayanagi and Maya Natsume both want to become stronger. On there way to becoming the best they learn that there are many things going on behind the scenes, and Shin, Maya's brother, may be the cause of all of it. Mitsuomi feels that he is the only one that can stop him. A retelling of what happened in the past of tenjou tenge, in movie form. \n\n(Source: ANN)"""
-animeRelated	[b'Tenjou Tenge']
-animeCharacters	[b'Natsume, Maya', b'Tawara, Bunshichi', b'Natsume, Shin', b'Takayanagi, Mitsuomi', b'Sugano, Kagesada']
-animeVoices	[b'\nHisakawa, Aya\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nIkeda, Shuuichi\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOh! Great\n\nOriginal Creator\n\n']
+animePopularity	3926
+animeDescription	"Mitsuomi Takayanagi and Maya Natsume both want to become stronger. On there way to becoming the best they learn that there are many things going on behind the scenes, and Shin, Maya's brother, may be the cause of all of it. Mitsuomi feels that he is the only one that can stop him. A retelling of what happened in the past of tenjou tenge, in movie form. 
+
+(Source: ANN)"
+animeRelated	['Tenjou Tenge']
+animeCharacters	['Natsume, Maya', 'Tawara, Bunshichi', 'Natsume, Shin', 'Takayanagi, Mitsuomi', 'Sugano, Kagesada']
+animeVoices	['Hisakawa, Aya', 'Yao, Kazuki', 'Ikeda, Shuuichi', 'Morikawa, Toshiyuki']
+animeStaff	[['Oh! Great', 'Original Creator']]

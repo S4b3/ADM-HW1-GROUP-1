@@ -1,5 +1,5 @@
-animeTitle	b'Ojamajo Doremi'
-animeType	b'TV'
+animeTitle	Ojamajo Doremi
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.23
 animeUsers	18722
 animeRank	
-animePopularity	
-animeDescription	"b""Harukaze Doremi considers herself to be the unluckiest girl in the world. Her parents are always fighting, her little sister makes fun of her, and her crush pines after another girl. If only Doremi could just wave a magic wand, she would have a much better life\xe2\x80\x94or so she used to think.\n\nAfter a mishap with a real witch, Doremi becomes an apprentice witch herself, and it turns out she's pretty horrible at that, too.\n\nNow she and her two friends must study to become better at magic so they can become good witches. That is, if they can focus on their magic studies!\n\nThe three apprentices will need all the luck they can get if they want to pass the witch exams and become full-fledged witches. Only then will Doremi's debt to the witch Majorika be repaid. Until then, Doremi will remain a useless little witch girl! """
-animeRelated	[b'Ojamajo Doremi', b'Ojamajo Doremi Sharp', b'Majo Minarai wo Sagashite', b'Ojamajo Doremi: Owarai Gekijou']
-animeCharacters	[b'Harukaze, Doremi', b'Senoo, Aiko', b'Fujiwara, Hazuki', b'Majorika', b'Harukaze, Pop', b'Segawa, Onpu', b'Tamaki, Reika', b'Oyajide, Alexander T.', b'Yada, Masaru', b'Dela']
-animeVoices	[b'\nChiba, Chiemi\nJapanese\n', b'\nMatsuoka, Yuki\nJapanese\n', b'\nAkiya, Tomoko\nJapanese\n', b'\nNagasawa, Nao\nJapanese\n', b'\nIshige, Sawa\nJapanese\n', b'\nShishido, Rumi\nJapanese\n', b'\nNagano, Ai\nJapanese\n', b'\nMatsuo, Ginzou\nJapanese\n', b'\nMiyahara, Nami\nJapanese\n', b'\nSakurai, Chihiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Junichi\n\nDirector, Episode Director, Storyboard\n\n', b'\nIgarashi, Takuya\n\nDirector\n\n', b'\nYamauchi, Shigeyasu\n\nEpisode Director, Storyboard\n\n', b'\nItou, Naoyuki\n\nEpisode Director\n\n']
+animePopularity	2653
+animeDescription	"Harukaze Doremi considers herself to be the unluckiest girl in the world. Her parents are always fighting, her little sister makes fun of her, and her crush pines after another girl. If only Doremi could just wave a magic wand, she would have a much better life—or so she used to think.
+
+After a mishap with a real witch, Doremi becomes an apprentice witch herself, and it turns out she's pretty horrible at that, too.
+
+Now she and her two friends must study to become better at magic so they can become good witches. That is, if they can focus on their magic studies!
+
+The three apprentices will need all the luck they can get if they want to pass the witch exams and become full-fledged witches. Only then will Doremi's debt to the witch Majorika be repaid. Until then, Doremi will remain a useless little witch girl! "
+animeRelated	['Ojamajo Doremi', 'Ojamajo Doremi Sharp', 'Majo Minarai wo Sagashite', 'Ojamajo Doremi: Owarai Gekijou']
+animeCharacters	['Harukaze, Doremi', 'Senoo, Aiko', 'Fujiwara, Hazuki', 'Majorika', 'Harukaze, Pop', 'Segawa, Onpu', 'Tamaki, Reika', 'Oyajide, Alexander T.', 'Yada, Masaru', 'Dela']
+animeVoices	['Chiba, Chiemi', 'Matsuoka, Yuki', 'Akiya, Tomoko', 'Nagasawa, Nao', 'Ishige, Sawa', 'Shishido, Rumi', 'Nagano, Ai', 'Matsuo, Ginzou', 'Miyahara, Nami', 'Sakurai, Chihiro']
+animeStaff	[['Satou, Junichi', 'Director, Episode Director, Storyboard'], ['Igarashi, Takuya', 'Director'], ['Yamauchi, Shigeyasu', 'Episode Director, Storyboard'], ['Itou, Naoyuki', 'Episode Director']]

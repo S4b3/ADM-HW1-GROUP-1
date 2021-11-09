@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon Ranger: Hikari no Kiseki'
-animeType	b'Special'
+animeTitle	Pokemon Ranger: Hikari no Kiseki
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.42
 animeUsers	3470
 animeRank	
-animePopularity	
-animeDescription	b'Two five minute specials based on homonym games. Natsuya receives a mission from Professor Hastings to protect Pok\xc3\xa9mon and destroy the Pok\xc3\xa9mon Nappers, who poach and control wild Pok\xc3\xa9mon.'
-animeRelated	[b'Pokemon Diamond & Pearl']
-animeCharacters	[b'Natsuya']
-animeVoices	[b'\nHasome, Tatsuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n', b'\nSugimori, Ken\n\nOriginal Character Design\n\n']
+animePopularity	5626
+animeDescription	Two five minute specials based on homonym games. Natsuya receives a mission from Professor Hastings to protect Pokémon and destroy the Pokémon Nappers, who poach and control wild Pokémon.
+animeRelated	['Pokemon Diamond & Pearl']
+animeCharacters	['Natsuya']
+animeVoices	['Hasome, Tatsuya']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design']]

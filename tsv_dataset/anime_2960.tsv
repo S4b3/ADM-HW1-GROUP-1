@@ -1,5 +1,5 @@
-animeTitle	b'Harukanaru Toki no Naka de: Maihitoyo'
-animeType	b'Movie'
+animeTitle	Harukanaru Toki no Naka de: Maihitoyo
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.18
 animeUsers	1659
 animeRank	
-animePopularity	
-animeDescription	b'One rainy day, Akane crosses path with a kind young man who tacitly offers to her his coat. On their second encounter, he confesses that he has no recollection of who he is, his name or his past, but feels contented by just being with her. Besotted, Akane sets out to find his name, and to unravel his enigmatic connection with a famous cursed dance rumoured to kill anyone who attempts to perform it.\n\n(Source: ANN)'
-animeRelated	[b'Harukanaru Toki no Naka de: Hachiyou Shou', b'Harukanaru Toki no Naka de: Hachiyou Shou Recap']
-animeCharacters	[b'Ono, Suefumi', b'Motomiya, Akane', b'Abe no, Yasuaki', b'Minamoto no, Yorihisa', b'Morimura, Tenma', b'Eisen', b'Tachibana no, Tomomasa', b'Fujiwara no, Takamichi', b'Inori', b'Nagareyama, Shimon']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nNakahara, Shigeru\nJapanese\n', b'\nTakahashi, Naozumi\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinohara, Toshiya\n\nDirector\n\n', b'\nYamada, Yuka\n\nScript\n\n', b'\nHirano, Yoshihisa\n\nMusic\n\n', b'\nBan, Yukiko\n\nAnimation Director\n\n']
+animePopularity	6764
+animeDescription	"One rainy day, Akane crosses path with a kind young man who tacitly offers to her his coat. On their second encounter, he confesses that he has no recollection of who he is, his name or his past, but feels contented by just being with her. Besotted, Akane sets out to find his name, and to unravel his enigmatic connection with a famous cursed dance rumoured to kill anyone who attempts to perform it.
+
+(Source: ANN)"
+animeRelated	['Harukanaru Toki no Naka de: Hachiyou Shou', 'Harukanaru Toki no Naka de: Hachiyou Shou Recap']
+animeCharacters	['Ono, Suefumi', 'Motomiya, Akane', 'Abe no, Yasuaki', 'Minamoto no, Yorihisa', 'Morimura, Tenma', 'Eisen', 'Tachibana no, Tomomasa', 'Fujiwara no, Takamichi', 'Inori', 'Nagareyama, Shimon']
+animeVoices	['Sakurai, Takahiro', 'Kawakami, Tomoko', 'Ishida, Akira', 'Miki, Shinichiro', 'Seki, Tomokazu', 'Hoshi, Souichirou', 'Inoue, Kazuhiko', 'Nakahara, Shigeru', 'Takahashi, Naozumi', 'Miyata, Kouki']
+animeStaff	[['Shinohara, Toshiya', 'Director'], ['Yamada, Yuka', 'Script'], ['Hirano, Yoshihisa', 'Music'], ['Ban, Yukiko', 'Animation Director']]

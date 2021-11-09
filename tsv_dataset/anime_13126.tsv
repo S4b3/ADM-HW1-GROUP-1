@@ -1,5 +1,5 @@
-animeTitle	b'Seito Shokun! Kokoro ni Midori no Neckerchief wo'
-animeType	b'Special'
+animeTitle	Seito Shokun! Kokoro ni Midori no Neckerchief wo
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'Based on a shoujo manga ""Seito Shokun!"" by Shouji Youko, serialized in Kodansha\'s Shoujo Friend.\n\nStudents who do not trust teachers, teachers who give up faith in education, parents who blame schools for their children\'s misbehavior...\n\nNaoko was at a loss when she was assigned as a new high school teacher. Times have changed and students are no longer easy to control, but she chose not to look away. Instead, Naoko reaches out to try and discover the various issues hidden in the modern education system. \n\n(Source: AniDB)'"
-animeRelated	[b'Seito Shokun!']
-animeCharacters	[b'Kitashirou, Naoko', b'Iwasaki, Hajime', b'Konishi, Hatsune']
-animeVoices	[b'\nHarada, Tomoyo\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nTsuchiya, Kaori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimizu, Katsunori\n\nSound Director\n\n', b'\nFunayama, Motoki\n\nTheme Song Arrangement\n\n', b'\nTsuchiya, Kaori\n\nTheme Song Performance\n\n', b'\nWatanabe, Toshiyuki\n\nMusic\n\n']
+animePopularity	13844
+animeDescription	"Based on a shoujo manga ""Seito Shokun!"" by Shouji Youko, serialized in Kodansha's Shoujo Friend.
+
+Students who do not trust teachers, teachers who give up faith in education, parents who blame schools for their children's misbehavior...
+
+Naoko was at a loss when she was assigned as a new high school teacher. Times have changed and students are no longer easy to control, but she chose not to look away. Instead, Naoko reaches out to try and discover the various issues hidden in the modern education system. 
+
+(Source: AniDB)"
+animeRelated	['Seito Shokun!']
+animeCharacters	['Kitashirou, Naoko', 'Iwasaki, Hajime', 'Konishi, Hatsune']
+animeVoices	['Harada, Tomoyo', 'Furuya, Toru', 'Tsuchiya, Kaori']
+animeStaff	[['Shimizu, Katsunori', 'Sound Director'], ['Funayama, Motoki', 'Theme Song Arrangement'], ['Tsuchiya, Kaori', 'Theme Song Performance'], ['Watanabe, Toshiyuki', 'Music']]

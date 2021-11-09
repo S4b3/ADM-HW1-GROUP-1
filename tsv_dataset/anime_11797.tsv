@@ -1,5 +1,5 @@
-animeTitle	b'JK Meshi!'
-animeType	b'TV'
+animeTitle	JK Meshi!
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.61
 animeUsers	3268
 animeRank	
-animePopularity	
-animeDescription	b'Three high school girls have mastered the art of cooking simple, B-class dishes called JK meshi. The three girls \xe2\x80\x94 Reina, Ryouka, and Ruriko \xe2\x80\x94 are all classmates in their second year of high school. They often get distracted when studying for tests, and when they do, they cook JK meshi.\n\n(Source: ANN)'
+animePopularity	5197
+animeDescription	"Three high school girls have mastered the art of cooking simple, B-class dishes called JK meshi. The three girls — Reina, Ryouka, and Ruriko — are all classmates in their second year of high school. They often get distracted when studying for tests, and when they do, they cook JK meshi.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Igarashi, Ruriko', b'Asahina, Ryouka', b'Saeki, Reina', b'Ono-chan']
-animeVoices	[b'\nTokui, Sora\nJapanese\n', b'\nFujita, Nao\nJapanese\n', b'\nHara, Natsuko\nJapanese\n', b'\nKuwayama, Kotone\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMitani, Yasumichi\n\nDirector\n\n', b'\nHino, Tommy\n\nDirector\n\n', b'\nHosoi, Takafumi\n\nSound Effects, Music\n\n', b'\nMatsumoto, Michiko\n\nAnimation Director\n\n']
+animeCharacters	['Igarashi, Ruriko', 'Asahina, Ryouka', 'Saeki, Reina', 'Ono-chan']
+animeVoices	['Tokui, Sora', 'Fujita, Nao', 'Hara, Natsuko', 'Kuwayama, Kotone']
+animeStaff	[['Mitani, Yasumichi', 'Director'], ['Hino, Tommy', 'Director'], ['Hosoi, Takafumi', 'Sound Effects, Music'], ['Matsumoto, Michiko', 'Animation Director']]

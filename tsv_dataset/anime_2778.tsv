@@ -1,5 +1,5 @@
-animeTitle	b'Higurashi no Naku Koro ni Gou'
-animeType	b'TV'
+animeTitle	Higurashi no Naku Koro ni Gou
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.22
 animeUsers	55888
 animeRank	
-animePopularity	
-animeDescription	"b""Rika Furude and her group of friends live in the small mountain village of Hinamizawa; in June 1983, they welcome transfer student Keiichi Maebara into their ranks, making him the only boy in their group. After school, they have fun playing games and spending each day living their lives to the fullest. Despite this seemingly normal routine, Keiichi begins noticing strange behavior from his friends, who seem to be hiding the town's dark secrets from him.\n\nElsewhere, a certain person watches these increasingly unsettling events unfold and remembers all the times that this, and other similar stories, have played out. Using that knowledge, this person decides to fix these broken worlds. However, when certain variables change, the individual is faced with a horrifying realization: they have no idea what to expect or how to stop the impending tragedy.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Higurashi no Naku Koro ni Gou', b'Higurashi no Naku Koro ni Rei', b'Higurashi no Naku Koro ni Sotsu']
-animeCharacters	[b'Furude, Rika', b'Ryuuguu, Rena', b'Sonozaki, Shion', b'Sonozaki, Mion', b'Maebara, Keiichi', b'Houjou, Satoko', b'Hanyuu', b'Takano, Miyo', b'Ooishi, Kuraudo', b'Houjou, Satoshi']
-animeVoices	[b'\nTamura, Yukari\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nKanai, Mika\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nItou, Miki\nJapanese\n', b'\nChafurin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawaguchi, Keiichirou\n\nDirector\n\n', b'\nMorishita, Hiroto\n\nSound Director\n\n', b'\nMajima, Takahiro\n\nEpisode Director\n\n', b'\nTakahashi, Takeo\n\nStoryboard\n\n']
+animePopularity	835
+animeDescription	"Rika Furude and her group of friends live in the small mountain village of Hinamizawa; in June 1983, they welcome transfer student Keiichi Maebara into their ranks, making him the only boy in their group. After school, they have fun playing games and spending each day living their lives to the fullest. Despite this seemingly normal routine, Keiichi begins noticing strange behavior from his friends, who seem to be hiding the town's dark secrets from him.
+
+Elsewhere, a certain person watches these increasingly unsettling events unfold and remembers all the times that this, and other similar stories, have played out. Using that knowledge, this person decides to fix these broken worlds. However, when certain variables change, the individual is faced with a horrifying realization: they have no idea what to expect or how to stop the impending tragedy.
+
+[Written by MAL Rewrite]"
+animeRelated	['Higurashi no Naku Koro ni Gou', 'Higurashi no Naku Koro ni Rei', 'Higurashi no Naku Koro ni Sotsu']
+animeCharacters	['Furude, Rika', 'Ryuuguu, Rena', 'Sonozaki, Shion', 'Sonozaki, Mion', 'Maebara, Keiichi', 'Houjou, Satoko', 'Hanyuu', 'Takano, Miyo', 'Ooishi, Kuraudo', 'Houjou, Satoshi']
+animeVoices	['Tamura, Yukari', 'Nakahara, Mai', 'Yukino, Satsuki', 'Hoshi, Souichirou', 'Kanai, Mika', 'Horie, Yui', 'Itou, Miki', 'Chafurin']
+animeStaff	[['Kawaguchi, Keiichirou', 'Director'], ['Morishita, Hiroto', 'Sound Director'], ['Majima, Takahiro', 'Episode Director'], ['Takahashi, Takeo', 'Storyboard']]

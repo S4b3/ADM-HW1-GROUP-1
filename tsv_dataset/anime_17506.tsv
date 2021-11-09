@@ -1,5 +1,5 @@
-animeTitle	b'Baraou no Souretsu'
-animeType	b'TV'
+animeTitle	Baraou no Souretsu
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""The crown of England has been hotly contested throughout history, and in the Middle Ages, a series of great civil wars became known as the War of the Roses. Claiming a right to the throne, the Duke of York seeks to unseat King Henry VI and his heir in order to become king himself.\n\nOn a dark day filled with many ill omens, the Duke gains a son: Richard Plantagenet, third of his name. Neither male nor female, but instead possessing characteristics of both sexes, Richard III is immediately reviled by his mother. Her hatred defines his childhood, leading to a deep disgust toward his own body and an adverse reaction to being called a demon.\n\nRichard grows up troubled by visions of England's former foe, Joan of Arc, who taunts that he will bring ruin to all who know him. He believes that he can attain salvation by helping his father achieve his destiny of becoming the king. However, cursed by the expectations of both his mother and Joan, will Richard's actions instead drag his family down into darkness? \n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Baraou no Souretsu']
-animeCharacters	[b'Richard', b'Henry VI', b'Edward of Lancaster', b'Catesby, William', b'Edward of York', b'Narrator', b'Duke of York, Richard', b'Margaret', b'Warwick', b'George']
-animeVoices	[b'\nSaiga, Mitsuki\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nAmasaki, Kouhei\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nMikami, Satoshi\nJapanese\n', b'\nTakumi, Yasuaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Kentarou\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nUchida, Hiroki\n\nScript, Series Composition\n\n', b'\nOtani, Kow\n\nMusic\n\n']
+animePopularity	4604
+animeDescription	"The crown of England has been hotly contested throughout history, and in the Middle Ages, a series of great civil wars became known as the War of the Roses. Claiming a right to the throne, the Duke of York seeks to unseat King Henry VI and his heir in order to become king himself.
+
+On a dark day filled with many ill omens, the Duke gains a son: Richard Plantagenet, third of his name. Neither male nor female, but instead possessing characteristics of both sexes, Richard III is immediately reviled by his mother. Her hatred defines his childhood, leading to a deep disgust toward his own body and an adverse reaction to being called a demon.
+
+Richard grows up troubled by visions of England's former foe, Joan of Arc, who taunts that he will bring ruin to all who know him. He believes that he can attain salvation by helping his father achieve his destiny of becoming the king. However, cursed by the expectations of both his mother and Joan, will Richard's actions instead drag his family down into darkness? 
+
+[Written by MAL Rewrite]"
+animeRelated	['Baraou no Souretsu']
+animeCharacters	['Richard', 'Henry VI', 'Edward of Lancaster', 'Catesby, William', 'Edward of York', 'Narrator', 'Duke of York, Richard', 'Margaret', 'Warwick', 'George']
+animeVoices	['Saiga, Mitsuki', 'Midorikawa, Hikaru', 'Amasaki, Kouhei', 'Hino, Satoshi', 'Toriumi, Kousuke', 'Ootsuka, Houchuu', 'Hayami, Show', 'Ohara, Sayaka', 'Mikami, Satoshi', 'Takumi, Yasuaki']
+animeStaff	[['Suzuki, Kentarou', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Uchida, Hiroki', 'Script, Series Composition'], ['Otani, Kow', 'Music']]

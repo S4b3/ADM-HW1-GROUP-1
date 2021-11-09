@@ -1,5 +1,5 @@
-animeTitle	b'Hiatari Ryoukou! Yume no Naka ni Kimi ga Ita'
-animeType	b'Movie'
+animeTitle	Hiatari Ryoukou! Yume no Naka ni Kimi ga Ita
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.24
 animeUsers	284
 animeRank	
-animePopularity	
-animeDescription	"b""The movie starts out with Katsuhiko going to the US, with Kasumi and Yusaku seeing him off at Narita.\n\nTwo years later, Katsuhiko is a professional racer, and comes back to Japan to race (and to marry Kasumi). Yusaku's hobby is photography.\n\n(Source: AniDB)"""
-animeRelated	[b'Hiatari Ryoukou!']
-animeCharacters	[b'Takasugi, Yusaku', b'Kishimoto, Kasumi', b'Mikimoto, Shin', b'Muraki, Katsuhiko', b'Seki, Keiko', b'Mizusawa, Chigusa']
-animeVoices	[b'\nMorio, Yumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugii, Gisaburou\n\nProducer, Script\n\n', b'\nAdachi, Mitsuru\n\nOriginal Creator\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n', b'\nMaeda, Minoru\n\nAnimation Director, Character Design\n\n']
+animePopularity	11181
+animeDescription	"The movie starts out with Katsuhiko going to the US, with Kasumi and Yusaku seeing him off at Narita.
+
+Two years later, Katsuhiko is a professional racer, and comes back to Japan to race (and to marry Kasumi). Yusaku's hobby is photography.
+
+(Source: AniDB)"
+animeRelated	['Hiatari Ryoukou!']
+animeCharacters	['Takasugi, Yusaku', 'Kishimoto, Kasumi', 'Mikimoto, Shin', 'Muraki, Katsuhiko', 'Seki, Keiko', 'Mizusawa, Chigusa']
+animeVoices	['Morio, Yumi']
+animeStaff	[['Sugii, Gisaburou', 'Producer, Script'], ['Adachi, Mitsuru', 'Original Creator'], ['Tanaka, Kouhei', 'Music'], ['Maeda, Minoru', 'Animation Director, Character Design']]

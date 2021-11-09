@@ -1,5 +1,5 @@
-animeTitle	b'Nodame Cantabile'
-animeType	b'TV'
+animeTitle	Nodame Cantabile
+animeType	TV
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.3
 animeUsers	114886
 animeRank	
-animePopularity	
-animeDescription	"b""Shinichi Chiaki is a first class musician whose dream is to play among the elites in Europe. Coming from a distinguished family, he is an infamous perfectionist\xe2\x80\x94not only is he highly critical of himself, but of others as well. The only thing stopping Shinichi from leaving for Europe is his fear of flying. As a result, he's grounded in Japan.\n\nDuring his fourth year at Japan's top music university, Shinichi happens to meet Megumi Noda or, as she refers to herself, Nodame. On the surface, she seems to be an unkempt girl with no direction in life. However, when Shinichi hears Nodame play the piano for the first time, he is in awe of the kind of music she creates. Nevertheless, Shinichi is dismayed to discover that Nodame is his neighbor, and worse, she ends up falling head over heels in love with him.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Nodame Cantabile', b'Nodame Cantabile: Nodame to Chiaki no Umi Monogatari', b'Nodame Cantabile: Paris-hen', b'PuriGorota: Uchuu no Yuujou Daibouken', b'Channel 5.5 3rd Season']
-animeCharacters	[b'Noda, Megumi', b'Chiaki, Shinichi', b'von Stresemann, Franz', b'Kuroki, Yasunori', b'Mine, Ryuutarou', b'Okuyama, Masumi', b'Miki, Kiyora', b'Saku, Sakura', b'Etou, Kouzou', b'Auclair, Charles']
-animeVoices	[b'\nKawasumi, Ayako\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nOgawa, Shinji\nJapanese\n', b'\nMatsukaze, Masaya\nJapanese\n', b'\nKawada, Shinji\nJapanese\n', b'\nFujita, Yoshinori\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nKiyokawa, Motomu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Kouji\n\nProducer\n\n', b'\nKasai, Kenichi\n\nDirector, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nIkuhara, Kunihiko\n\nEpisode Director, Storyboard\n\n']
+animePopularity	612
+animeDescription	"Shinichi Chiaki is a first class musician whose dream is to play among the elites in Europe. Coming from a distinguished family, he is an infamous perfectionist—not only is he highly critical of himself, but of others as well. The only thing stopping Shinichi from leaving for Europe is his fear of flying. As a result, he's grounded in Japan.
+
+During his fourth year at Japan's top music university, Shinichi happens to meet Megumi Noda or, as she refers to herself, Nodame. On the surface, she seems to be an unkempt girl with no direction in life. However, when Shinichi hears Nodame play the piano for the first time, he is in awe of the kind of music she creates. Nevertheless, Shinichi is dismayed to discover that Nodame is his neighbor, and worse, she ends up falling head over heels in love with him.
+
+[Written by MAL Rewrite]"
+animeRelated	['Nodame Cantabile', 'Nodame Cantabile: Nodame to Chiaki no Umi Monogatari', 'Nodame Cantabile: Paris-hen', 'PuriGorota: Uchuu no Yuujou Daibouken', 'Channel 5.5 3rd Season']
+animeCharacters	['Noda, Megumi', 'Chiaki, Shinichi', 'von Stresemann, Franz', 'Kuroki, Yasunori', 'Mine, Ryuutarou', 'Okuyama, Masumi', 'Miki, Kiyora', 'Saku, Sakura', 'Etou, Kouzou', 'Auclair, Charles']
+animeVoices	['Kawasumi, Ayako', 'Seki, Tomokazu', 'Ogawa, Shinji', 'Matsukaze, Masaya', 'Kawada, Shinji', 'Fujita, Yoshinori', 'Kobayashi, Sanae', 'Noto, Mamiko', 'Nakai, Kazuya', 'Kiyokawa, Motomu']
+animeStaff	[['Yamamoto, Kouji', 'Producer'], ['Kasai, Kenichi', 'Director, Storyboard'], ['Aketagawa, Jin', 'Sound Director'], ['Ikuhara, Kunihiko', 'Episode Director, Storyboard']]

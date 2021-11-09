@@ -1,5 +1,5 @@
-animeTitle	b'Romeo x Juliet'
-animeType	b'TV'
+animeTitle	Romeo x Juliet
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.62
 animeUsers	65371
 animeRank	
-animePopularity	
-animeDescription	"b""On the floating continent of Neo Verona, the Montague family slaughters the entire Capulet family and seizes control of the kingdom. The true heir to the throne, Juliet Fiammata Asto Capulet, manages to escape the onslaught and is hidden away by loyalists for 14 years with hope that she may one day overthrow the cruel Montague regime. \n\nDespite having forgotten the murder of her entire family, Juliet now secretly protects the oppressed citizens of Neo Verona as a vigilante called the Red Whirlwind. During one of her escapades she meets Romeo Candorebanto Montague, the kind and selfless son of the tyrannical Prince Laertes Montague, and without knowledge of each other's background, they both fall in love at first sight. \n\nUnfortunately, however, their destiny is a cursed one: not only does each of the two families wish to obliterate the other, but an ancient secret hidden beneath Neo Verona also threatens their undying love for each other. Will they be able to defy the stars, or is this truly a love that can never be?\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Romeo x Juliet']
-animeCharacters	[b'Capulet, Juliet Fiammata Asto', b'Montague, Romeo Candorebanto', b'Tybalt', b'Francisco', b'Curio', b'William', b'de Frescobaldi, Benvolio', b'Cordelia', b'Antonio', b'Emilia']
-animeVoices	[b'\nMizusawa, Fumie\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nNojima, Hirofumi\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nTachibana, Shinnosuke\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nOizaki, Fumitoshi\n\nDirector, Storyboard\n\n', b'\nSatou, Junichi\n\nSound Director, Storyboard\n\n', b'\nYoshida, Tomohiro\n\nSound Director\n\n']
+animePopularity	1051
+animeDescription	"On the floating continent of Neo Verona, the Montague family slaughters the entire Capulet family and seizes control of the kingdom. The true heir to the throne, Juliet Fiammata Asto Capulet, manages to escape the onslaught and is hidden away by loyalists for 14 years with hope that she may one day overthrow the cruel Montague regime. 
+
+Despite having forgotten the murder of her entire family, Juliet now secretly protects the oppressed citizens of Neo Verona as a vigilante called the Red Whirlwind. During one of her escapades she meets Romeo Candorebanto Montague, the kind and selfless son of the tyrannical Prince Laertes Montague, and without knowledge of each other's background, they both fall in love at first sight. 
+
+Unfortunately, however, their destiny is a cursed one: not only does each of the two families wish to obliterate the other, but an ancient secret hidden beneath Neo Verona also threatens their undying love for each other. Will they be able to defy the stars, or is this truly a love that can never be?
+
+[Written by MAL Rewrite]"
+animeRelated	['Romeo x Juliet']
+animeCharacters	['Capulet, Juliet Fiammata Asto', 'Montague, Romeo Candorebanto', 'Tybalt', 'Francisco', 'Curio', 'William', 'de Frescobaldi, Benvolio', 'Cordelia', 'Antonio', 'Emilia']
+animeVoices	['Mizusawa, Fumie', 'Mizushima, Takahiro', 'Okiayu, Ryoutarou', 'Nojima, Hirofumi', 'Toriumi, Kousuke', 'Inoue, Kazuhiko', 'Tachibana, Shinnosuke', 'Matsuki, Miyu', 'Hirohashi, Ryou', 'Kawasumi, Ayako']
+animeStaff	[['Cook, Justin', 'Producer'], ['Oizaki, Fumitoshi', 'Director, Storyboard'], ['Satou, Junichi', 'Sound Director, Storyboard'], ['Yoshida, Tomohiro', 'Sound Director']]

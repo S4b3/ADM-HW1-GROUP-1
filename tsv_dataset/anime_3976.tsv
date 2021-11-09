@@ -1,5 +1,5 @@
-animeTitle	b'Aikatsu on Parade!'
-animeType	b'TV'
+animeTitle	Aikatsu on Parade!
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.95
 animeUsers	1191
 animeRank	
-animePopularity	
-animeDescription	b'Raki Kiseki is a second-year middle school student who transfers to Star Harmony Academy to become an idol. However, when she uses an Aikatsu Pass she received from her big sister (an Aikatsu engineer), something mysterious happens. Lots of doors appeared before her, and when she opens them, she meets Aikatsu idols she never knew before, such as Yume Nijino (Aikatsu Stars!). Raki vows to design her own premium dress and perform in it on stage. \n\n(Source: Anime News Network)'
-animeRelated	[b'Aikatsu!', b'Aikatsu Stars!', b'Aikatsu Friends!: Kagayaki no Jewel', b'Aikatsu on Parade! (ONA)', b'Aikatsu Planet!']
-animeCharacters	[b'Hoshimiya, Ichigo', b'Oozora, Akari', b'Nijino, Yume', b'Yuuki, Aine', b'Minato, Mio', b'Kurebayashi, Juri', b'Asuka, Mirai', b'Kiseki, Raki', b'Tenshou, Hibiki', b'Arisugawa, Otome']
-animeVoices	[b'\nMorohoshi, Sumire\nJapanese\n', b'\nShimoji, Shino\nJapanese\n', b'\nTomita, Miyu\nJapanese\n', b'\nMatsunaga, Akane\nJapanese\n', b'\nKido, Ibuki\nJapanese\n', b'\nAira, Rin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIgarashi, Shishou\n\nDirector\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nHasui, Takahiro\n\nEpisode Director, Storyboard\n\n', b'\nMONACA\n\nMusic\n\n']
+animePopularity	7369
+animeDescription	"Raki Kiseki is a second-year middle school student who transfers to Star Harmony Academy to become an idol. However, when she uses an Aikatsu Pass she received from her big sister (an Aikatsu engineer), something mysterious happens. Lots of doors appeared before her, and when she opens them, she meets Aikatsu idols she never knew before, such as Yume Nijino (Aikatsu Stars!). Raki vows to design her own premium dress and perform in it on stage. 
+
+(Source: Anime News Network)"
+animeRelated	['Aikatsu!', 'Aikatsu Stars!', 'Aikatsu Friends!: Kagayaki no Jewel', 'Aikatsu on Parade! (ONA)', 'Aikatsu Planet!']
+animeCharacters	['Hoshimiya, Ichigo', 'Oozora, Akari', 'Nijino, Yume', 'Yuuki, Aine', 'Minato, Mio', 'Kurebayashi, Juri', 'Asuka, Mirai', 'Kiseki, Raki', 'Tenshou, Hibiki', 'Arisugawa, Otome']
+animeVoices	['Morohoshi, Sumire', 'Shimoji, Shino', 'Tomita, Miyu', 'Matsunaga, Akane', 'Kido, Ibuki', 'Aira, Rin']
+animeStaff	[['Igarashi, Shishou', 'Director'], ['Kikuta, Hiromi', 'Sound Director'], ['Hasui, Takahiro', 'Episode Director, Storyboard'], ['MONACA', 'Music']]

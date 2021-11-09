@@ -1,5 +1,5 @@
-animeTitle	b'Kyokou Suiri Mini Anime'
-animeType	b'ONA'
+animeTitle	Kyokou Suiri Mini Anime
+animeType	ONA
 animeNumEpisode	38
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.81
 animeUsers	718
 animeRank	
-animePopularity	
-animeDescription	b'Short episodes with super-deformed characters posted on the official Twitter account. Includes the extra episode commemorating the BD/DVD releases.'
-animeRelated	[b'Kyokou Suiri']
-animeCharacters	[b'Iwanaga, Kotoko', b'Sakuragawa, Kurou']
-animeVoices	[b'\nKitou, Akari\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwasa, Takahiro\n\nScript\n\n', b'\nShirodaira, Kyou\n\nOriginal Creator\n\n', b'\nYoshitomo\n\nCharacter Design\n\n']
+animePopularity	6916
+animeDescription	Short episodes with super-deformed characters posted on the official Twitter account. Includes the extra episode commemorating the BD/DVD releases.
+animeRelated	['Kyokou Suiri']
+animeCharacters	['Iwanaga, Kotoko', 'Sakuragawa, Kurou']
+animeVoices	['Kitou, Akari', 'Miyano, Mamoru']
+animeStaff	[['Iwasa, Takahiro', 'Script'], ['Shirodaira, Kyou', 'Original Creator'], ['Yoshitomo', 'Character Design']]

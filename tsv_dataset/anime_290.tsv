@@ -1,5 +1,5 @@
-animeTitle	"b""Fate/stay night Movie: Heaven's Feel - I. Presage Flower"""
-animeType	b'Movie'
+animeTitle	Fate/stay night Movie: Heaven's Feel - I. Presage Flower
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.22
 animeUsers	179023
 animeRank	
-animePopularity	
-animeDescription	"b""The Holy Grail War: a violent battle between mages in which seven masters and their summoned servants fight for the Holy Grail, a magical artifact that can grant the victor any wish. Nearly 10 years ago, the final battle of the Fourth Holy Grail War wreaked havoc on Fuyuki City and took over 500 lives, leaving the city devastated. \n\nShirou Emiya, a survivor of this tragedy, aspires to become a hero of justice like his rescuer and adoptive father, Kiritsugu Emiya. Despite only being a student, Shirou is thrown into the Fifth Holy Grail War when he accidentally sees a battle between servants at school and summons his own servant, Saber. \n\nWhen a mysterious shadow begins a murderous spree in Fuyuki City, Shirou aligns himself with Rin Toosaka, a fellow participant in the Holy Grail War, in order to stop the deaths of countless people. However, Shirou's feelings for his close friend Sakura Matou lead him deeper into the dark secrets surrounding the war and the feuding families involved.\n\n[Written by MAL Rewrite]"""
-animeRelated	"[b""Fate/stay night: Heaven's Feel"", b'Fate/stay night', b'Fate/stay night Movie: Unlimited Blade Works', b'Fate/stay night: Unlimited Blade Works', b'Fate/Zero 2nd Season', b""Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly""]"
-animeCharacters	[b'Saber', b'Toosaka, Rin', b'Emiya, Shirou', b'Matou, Sakura', b'Emiya, Kiritsugu', b'Gilgamesh', b'Archer', b'von Einzbern, Illyasviel', b'Kotomine, Kirei', b'Lancer']
-animeVoices	[b'\nKawasumi, Ayako\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nShitaya, Noriko\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKondou, Hikaru\n\nProducer, Sound Director\n\n', b'\nSudou, Tomonori\n\nDirector, Storyboard, Chief Animation Director, Character Design\n\n', b'\nMiura, Takahiro\n\nEpisode Director, Storyboard\n\n', b'\nHiyama, Akira\n\nScript\n\n']
+animePopularity	487
+animeDescription	"The Holy Grail War: a violent battle between mages in which seven masters and their summoned servants fight for the Holy Grail, a magical artifact that can grant the victor any wish. Nearly 10 years ago, the final battle of the Fourth Holy Grail War wreaked havoc on Fuyuki City and took over 500 lives, leaving the city devastated. 
+
+Shirou Emiya, a survivor of this tragedy, aspires to become a hero of justice like his rescuer and adoptive father, Kiritsugu Emiya. Despite only being a student, Shirou is thrown into the Fifth Holy Grail War when he accidentally sees a battle between servants at school and summons his own servant, Saber. 
+
+When a mysterious shadow begins a murderous spree in Fuyuki City, Shirou aligns himself with Rin Toosaka, a fellow participant in the Holy Grail War, in order to stop the deaths of countless people. However, Shirou's feelings for his close friend Sakura Matou lead him deeper into the dark secrets surrounding the war and the feuding families involved.
+
+[Written by MAL Rewrite]"
+animeRelated	"[""Fate/stay night: Heaven's Feel"", 'Fate/stay night', 'Fate/stay night Movie: Unlimited Blade Works', 'Fate/stay night: Unlimited Blade Works', 'Fate/Zero 2nd Season', ""Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly""]"
+animeCharacters	['Saber', 'Toosaka, Rin', 'Emiya, Shirou', 'Matou, Sakura', 'Emiya, Kiritsugu', 'Gilgamesh', 'Archer', 'von Einzbern, Illyasviel', 'Kotomine, Kirei', 'Lancer']
+animeVoices	['Kawasumi, Ayako', 'Ueda, Kana', 'Sugiyama, Noriaki', 'Shitaya, Noriko', 'Koyama, Rikiya', 'Seki, Tomokazu', 'Suwabe, Junichi', 'Kadowaki, Mai', 'Nakata, Jouji', 'Canna, Nobutoshi']
+animeStaff	[['Kondou, Hikaru', 'Producer, Sound Director'], ['Sudou, Tomonori', 'Director, Storyboard, Chief Animation Director, Character Design'], ['Miura, Takahiro', 'Episode Director, Storyboard'], ['Hiyama, Akira', 'Script']]

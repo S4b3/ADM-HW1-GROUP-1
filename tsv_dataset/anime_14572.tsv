@@ -1,5 +1,5 @@
-animeTitle	b'Yuuyake Dandan'
-animeType	b'Movie'
+animeTitle	Yuuyake Dandan
+animeType	Movie
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Short films screened at 109 Cinemas during previews. '
+animePopularity	11116
+animeDescription	Short films screened at 109 Cinemas during previews. 
 animeRelated	[]
-animeCharacters	[b'Nanami', b'Kotobuki']
-animeVoices	[b'\nShiba, Akane\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWEST GROUND\n\nProducer\n\n', b'\nNimura, Hideki\n\nDirector\n\n', b'\nNozaki, Keiichi\n\nSound Director\n\n', b'\nFujisawa, Bunoh\n\nScript\n\n']
+animeCharacters	['Nanami', 'Kotobuki']
+animeVoices	['Shiba, Akane', 'Yamadera, Kouichi']
+animeStaff	[['WEST GROUND', 'Producer'], ['Nimura, Hideki', 'Director'], ['Nozaki, Keiichi', 'Sound Director'], ['Fujisawa, Bunoh', 'Script']]

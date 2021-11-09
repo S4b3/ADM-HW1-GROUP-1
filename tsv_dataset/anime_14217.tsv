@@ -1,5 +1,5 @@
-animeTitle	b'Wrestler Gundan Seisenshi Robin Jr.'
-animeType	b'TV'
+animeTitle	Wrestler Gundan Seisenshi Robin Jr.
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Robin Jr. and his friends fight to save the solar system.'
+animePopularity	14069
+animeDescription	Robin Jr. and his friends fight to save the solar system.
 animeRelated	[]
-animeCharacters	[b'Robin Jr.']
-animeVoices	[b'\nHibino, Akari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkuwaki, Masaharu\n\nDirector\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n', b'\nIshiodori, Hiroshi\n\nEpisode Director, Storyboard\n\n', b'\nSonoda, Hideki\n\nScript, Series Composition\n\n']
+animeCharacters	['Robin Jr.']
+animeVoices	['Hibino, Akari']
+animeStaff	[['Okuwaki, Masaharu', 'Director'], ['Honda, Yasunori', 'Sound Director'], ['Ishiodori, Hiroshi', 'Episode Director, Storyboard'], ['Sonoda, Hideki', 'Script, Series Composition']]

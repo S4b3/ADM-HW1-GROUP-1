@@ -1,5 +1,5 @@
-animeTitle	b'Touma Kishinden Oni'
-animeType	b'TV'
+animeTitle	Touma Kishinden Oni
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Shuramaru is hated and feared by the villagers for his unusual powers. He thinks he is human, but... is he?\n\n(Source: AniDB)'
+animePopularity	11604
+animeDescription	"Shuramaru is hated and feared by the villagers for his unusual powers. He thinks he is human, but... is he?
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Musashi', b'Ayahito', b'Misao', b'Moegi', b'Shuramaru']
-animeVoices	[b'\nOokawa, Tooru\nJapanese\n', b'\nKase, Yasuyuki\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nHikami, Kyouko\nJapanese\n', b'\nIshida, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Iku\n\nDirector\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nHayakawa, Natsuko\n\nScript, Original Creator\n\n']
+animeCharacters	['Musashi', 'Ayahito', 'Misao', 'Moegi', 'Shuramaru']
+animeVoices	['Ookawa, Tooru', 'Kase, Yasuyuki', 'Okamura, Akemi', 'Hikami, Kyouko', 'Ishida, Akira']
+animeStaff	[['Suzuki, Iku', 'Director'], ['Kikuta, Hiromi', 'Sound Director'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Hayakawa, Natsuko', 'Script, Original Creator']]

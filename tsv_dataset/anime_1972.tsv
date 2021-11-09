@@ -1,5 +1,5 @@
-animeTitle	b'Karas'
-animeType	b'OVA'
+animeTitle	Karas
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.4
 animeUsers	25965
 animeRank	
-animePopularity	
-animeDescription	"b'The world of the humans and the world of the demons (youkai) have overlapped one another, leaving humans to walk the streets of life as they normally would, while demons walk, hidden from the naked eye, down the very same streets. A seemingly young woman named Yurine and her servant, the Karas (from the Japanese word for ""Crow""), have long maintained order and balance between the overlapped worlds, ultimately keeping the demons from interrupting the lives of humans. However, humans have come to forget and jest at the existence of demons, and no longer understand the privilege it is to live without fear. Disgusted by this arrogance, an old Karas turns his back on the laws he had once upheld, and in his human form, named Eko, he creates an army of Mikura, or mechanized demons, to ready an attack on the human race.\n\nA young man named Otoha inherits the powers of the Karas and takes his place at the side of Yurine, who claims that his soul called out for her while he lived the life of a human. They live in the world of the demons. It is now up to Otoha to prove himself as a Karas, and restore the balance that Eko threatens to upset.\n\nMeanwhile, a superstitious police officer named Sagisaka and his rational new recruit, Kure, follow the trail of the murders dealt by Eko\'s Mikura, as well as the trail of a rogue Mikura named Nue. The prophecy unfolds from here into a grave revelation for all in the city.\n\n(Source: Wikipedia)'"
+animePopularity	2248
+animeDescription	"The world of the humans and the world of the demons (youkai) have overlapped one another, leaving humans to walk the streets of life as they normally would, while demons walk, hidden from the naked eye, down the very same streets. A seemingly young woman named Yurine and her servant, the Karas (from the Japanese word for ""Crow""), have long maintained order and balance between the overlapped worlds, ultimately keeping the demons from interrupting the lives of humans. However, humans have come to forget and jest at the existence of demons, and no longer understand the privilege it is to live without fear. Disgusted by this arrogance, an old Karas turns his back on the laws he had once upheld, and in his human form, named Eko, he creates an army of Mikura, or mechanized demons, to ready an attack on the human race.
+
+A young man named Otoha inherits the powers of the Karas and takes his place at the side of Yurine, who claims that his soul called out for her while he lived the life of a human. They live in the world of the demons. It is now up to Otoha to prove himself as a Karas, and restore the balance that Eko threatens to upset.
+
+Meanwhile, a superstitious police officer named Sagisaka and his rational new recruit, Kure, follow the trail of the murders dealt by Eko's Mikura, as well as the trail of a rogue Mikura named Nue. The prophecy unfolds from here into a grave revelation for all in the city.
+
+(Source: Wikipedia)"
 animeRelated	[]
-animeCharacters	[b'Yurine', b'Otoha, Yousuke', b'Ichinose, Chizuru', b'Nue', b'Amefurikozou', b'Hoshunin, Eko', b'Wanyuudou', b'Reiji', b'Kure, Narumi', b'Hinaru']
-animeVoices	[b'\nSuzuki, Kasumi\nJapanese\n', b'\nWada, Toshihiro\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nKozakura, Etsuko\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n', b'\nTorihata, Hiroto\nJapanese\n', b'\nShibuya, Asuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Keiichi\n\nDirector, Original Creator\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nNakamura, Kenji\n\nEpisode Director, Storyboard\n\n', b'\nSuzuki, Kaoru\n\nEpisode Director\n\n']
+animeCharacters	['Yurine', 'Otoha, Yousuke', 'Ichinose, Chizuru', 'Nue', 'Amefurikozou', 'Hoshunin, Eko', 'Wanyuudou', 'Reiji', 'Kure, Narumi', 'Hinaru']
+animeVoices	['Suzuki, Kasumi', 'Wada, Toshihiro', 'Nakahara, Mai', 'Fujiwara, Keiji', 'Kozakura, Etsuko', 'Sakurai, Takahiro', 'Ookawa, Tooru', 'Torihata, Hiroto', 'Shibuya, Asuka']
+animeStaff	[['Satou, Keiichi', 'Director, Original Creator'], ['Aketagawa, Jin', 'Sound Director'], ['Nakamura, Kenji', 'Episode Director, Storyboard'], ['Suzuki, Kaoru', 'Episode Director']]

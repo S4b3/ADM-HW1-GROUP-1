@@ -1,5 +1,5 @@
-animeTitle	b'Angelique: Shiroi Tsubasa no Memoire'
-animeType	b'OVA'
+animeTitle	Angelique: Shiroi Tsubasa no Memoire
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	5.88
 animeUsers	900
 animeRank	
-animePopularity	
-animeDescription	"b""Angelique...\n...started as a dating simulation game for girls back in 1994 on the Super Famicom. The player took on the role of Angelique Limoges, an ordinary schoolgirl summoned to the Sanctuary of the Queen of the Cosmos. She had been chosen to compete in a contest to determine the next Queen. Angelique was clumsy and foolish in comparison to her rival, Rosalia de Cartagena, a refined girl who had been training since birth to compete in the Queen Examination.\n\nWhat was this Examination, anyway? The girls had to use the powers, or Sacrea, of the Queen's nine Guardians to cultivate a barren continent. The girl whose population reached the center island connecting the two continents would become the next Queen. But with the nine handsome Guardians around, it was hard to decide between power or love...\n\nMade up of 4 OVAs, each of which has multiple parts.\n\n(Source: Neo-Romance)"""
-animeRelated	[b'Koisuru Tenshi Angelique: Kokoro no Mezameru Toki', b'Angelique', b'Angelique: Seichi yori Ai wo Komete', b'Angelique: Twin Collection']
-animeCharacters	[b'Collet, Angelique', b'Arios', b'Clavis', b'Olivie', b'Oscar', b'Zephel', b'Randy', b'Julious', b'Luva', b'Lumiale']
-animeVoices	[b'\nAsada, Yoko\nJapanese\n', b'\nNarita, Ken\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHotei, Tomoyasu\n\nTheme Song Arrangement\n\n', b'\nYura, Kairi\n\nOriginal Character Design\n\n']
+animePopularity	8414
+animeDescription	"Angelique...
+...started as a dating simulation game for girls back in 1994 on the Super Famicom. The player took on the role of Angelique Limoges, an ordinary schoolgirl summoned to the Sanctuary of the Queen of the Cosmos. She had been chosen to compete in a contest to determine the next Queen. Angelique was clumsy and foolish in comparison to her rival, Rosalia de Cartagena, a refined girl who had been training since birth to compete in the Queen Examination.
+
+What was this Examination, anyway? The girls had to use the powers, or Sacrea, of the Queen's nine Guardians to cultivate a barren continent. The girl whose population reached the center island connecting the two continents would become the next Queen. But with the nine handsome Guardians around, it was hard to decide between power or love...
+
+Made up of 4 OVAs, each of which has multiple parts.
+
+(Source: Neo-Romance)"
+animeRelated	['Koisuru Tenshi Angelique: Kokoro no Mezameru Toki', 'Angelique', 'Angelique: Seichi yori Ai wo Komete', 'Angelique: Twin Collection']
+animeCharacters	['Collet, Angelique', 'Arios', 'Clavis', 'Olivie', 'Oscar', 'Zephel', 'Randy', 'Julious', 'Luva', 'Lumiale']
+animeVoices	['Asada, Yoko', 'Narita, Ken', 'Shiozawa, Kaneto', 'Koyasu, Takehito', 'Horiuchi, Kenyuu', 'Iwata, Mitsuo', 'Canna, Nobutoshi', 'Hayami, Show', 'Seki, Toshihiko', 'Tobita, Nobuo']
+animeStaff	[['Hotei, Tomoyasu', 'Theme Song Arrangement'], ['Yura, Kairi', 'Original Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Kiki to Lala no Aoi Tori'
-animeType	b'Movie'
+animeTitle	Kiki to Lala no Aoi Tori
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Adventures of Kiki and Lala in search of happiness.'
-animeRelated	[b'Hello Kitty no Cinderella', b'My Melody no Akazukin', b'Kiki to Lala no Hansel to Gretel', b'Kiki to Lala no Ohimesama ni Naritai', b'Kiki to Lala no Hakuchouza no Ohimesama', b'Kiki to Lala no Papa to Mama ni Aitai', b'Kiki to Lala no Hoshi no Dance Shoes', b'Kiki to Lala no Habatake! Pegasus', b'Kiki to Lala no Mamatte Suteki!']
-animeCharacters	[b'Lala', b'Kiki']
+animePopularity	13779
+animeDescription	Adventures of Kiki and Lala in search of happiness.
+animeRelated	['Hello Kitty no Cinderella', 'My Melody no Akazukin', 'Kiki to Lala no Hansel to Gretel', 'Kiki to Lala no Ohimesama ni Naritai', 'Kiki to Lala no Hakuchouza no Ohimesama', 'Kiki to Lala no Papa to Mama ni Aitai', 'Kiki to Lala no Hoshi no Dance Shoes', 'Kiki to Lala no Habatake! Pegasus', 'Kiki to Lala no Mamatte Suteki!']
+animeCharacters	['Lala', 'Kiki']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHata, Masami\n\nDirector, Chief Animation Director\n\n', b'\nTerada, Kenji\n\nScript\n\n', b'\nSatou, Masahiko\n\nTheme Song Composition\n\n', b'\nMiwa, Katsue\n\nInserted Song Performance\n\n']
+animeStaff	[['Hata, Masami', 'Director, Chief Animation Director'], ['Terada, Kenji', 'Script'], ['Satou, Masahiko', 'Theme Song Composition'], ['Miwa, Katsue', 'Inserted Song Performance']]

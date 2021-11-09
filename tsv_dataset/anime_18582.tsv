@@ -1,5 +1,5 @@
-animeTitle	b'Dark Blue'
-animeType	b'OVA'
+animeTitle	Dark Blue
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.89
 animeUsers	2924
 animeRank	
-animePopularity	
-animeDescription	b'A group of people go to a summer house for a vacation, unaware of the perils they will undergo during their stay. A school doctor who accompanies them plans on blackmailing one of the women in the group as he got hold of her diary. Relationships are blurry and chaos starts when one of them dies. Escaped convicts have entered the vicinity and have destroyed the main bridge, rendering these people unable to escape. Now trapped and scared, what are they going to do?\n\n(Source: HentaiTake)'
-animeRelated	[b'True Blue', b'True Blue: Gaiden', b'Innocent Blue', b'Triangle Blue', b'White Blue']
-animeCharacters	[b'Kuonji, Otoha', b'Aizawa, Suzuka', b'Inou, Reiya', b'Aizawa, Yukito', b'Aizawa, Kotomi', b'Takamine, Gorou', b'Honoka']
-animeVoices	[b'\nTaguchi, Hiroko\nJapanese\n', b'\nKawaragi, Shiho\nJapanese\n', b'\nHarada, Tomotaka\nJapanese\n', b'\nNarumi, Erika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNobidome, Youta\n\nDirector\n\n', b'\nKinohara, Hikaru\n\nCharacter Design\n\n', b'\nLiLiM\n\nOriginal Creator\n\n']
+animePopularity	5848
+animeDescription	"A group of people go to a summer house for a vacation, unaware of the perils they will undergo during their stay. A school doctor who accompanies them plans on blackmailing one of the women in the group as he got hold of her diary. Relationships are blurry and chaos starts when one of them dies. Escaped convicts have entered the vicinity and have destroyed the main bridge, rendering these people unable to escape. Now trapped and scared, what are they going to do?
+
+(Source: HentaiTake)"
+animeRelated	['True Blue', 'True Blue: Gaiden', 'Innocent Blue', 'Triangle Blue', 'White Blue']
+animeCharacters	['Kuonji, Otoha', 'Aizawa, Suzuka', 'Inou, Reiya', 'Aizawa, Yukito', 'Aizawa, Kotomi', 'Takamine, Gorou', 'Honoka']
+animeVoices	['Taguchi, Hiroko', 'Kawaragi, Shiho', 'Harada, Tomotaka', 'Narumi, Erika']
+animeStaff	[['Nobidome, Youta', 'Director'], ['Kinohara, Hikaru', 'Character Design'], ['LiLiM', 'Original Creator']]

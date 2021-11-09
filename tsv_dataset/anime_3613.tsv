@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou'
-animeType	b'Movie'
+animeTitle	Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.04
 animeUsers	78034
 animeRank	
-animePopularity	
-animeDescription	"b""Gokuu Son and his friends are out camping when three mysterious enemies ambush them. After a quick fight, a fourth enemy named Cooler joins the fray. Seeking retribution for his younger brother Frieza after he was defeated, Cooler attacks Gokuu; however, the latter manages to escape with Gohan Son and goes into hiding. Unsatisfied and infuriated with the outcome, Cooler and his men begin the hunt to uncover Gokuu's location and kill him to carry out their plans of exacting revenge.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Dragon Ball Z', b'Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi']
-animeCharacters	[b'Son, Gokuu', b'Son, Gohan', b'Cooler', b'Piccolo', b'Freeza', b'Muten-Roushi', b'Kuririn', b'Bardock', b'Chi-Chi', b'Yajirobe']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nMiyauchi, Kouhei\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nWatanabe, Naoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nHashimoto, Mitsuo\n\nDirector\n\n', b'\nKoyama, Takao\n\nScript\n\n', b'\nKageyama, Hironobu\n\nTheme Song Performance\n\n']
+animePopularity	1377
+animeDescription	"Gokuu Son and his friends are out camping when three mysterious enemies ambush them. After a quick fight, a fourth enemy named Cooler joins the fray. Seeking retribution for his younger brother Frieza after he was defeated, Cooler attacks Gokuu; however, the latter manages to escape with Gohan Son and goes into hiding. Unsatisfied and infuriated with the outcome, Cooler and his men begin the hunt to uncover Gokuu's location and kill him to carry out their plans of exacting revenge.
+
+[Written by MAL Rewrite]"
+animeRelated	['Dragon Ball Z', 'Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi']
+animeCharacters	['Son, Gokuu', 'Son, Gohan', 'Cooler', 'Piccolo', 'Freeza', 'Muten-Roushi', 'Kuririn', 'Bardock', 'Chi-Chi', 'Yajirobe']
+animeVoices	['Nozawa, Masako', 'Nakao, Ryusei', 'Furukawa, Toshio', 'Miyauchi, Kouhei', 'Tanaka, Mayumi', 'Watanabe, Naoko']
+animeStaff	[['Watson, Barry', 'Producer'], ['Hashimoto, Mitsuo', 'Director'], ['Koyama, Takao', 'Script'], ['Kageyama, Hironobu', 'Theme Song Performance']]

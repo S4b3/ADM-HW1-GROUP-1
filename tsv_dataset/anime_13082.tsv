@@ -1,5 +1,5 @@
-animeTitle	b'Santa Company: Christmas no Himitsu'
-animeType	b'Movie'
+animeTitle	Santa Company: Christmas no Himitsu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A feature-length version of the short anime film Santa Company.'
-animeRelated	[b'Santa Company', b'Santa Company: Manatsu no Merry Christmas']
-animeCharacters	[b'Rondo, Mint', b'Dou, Thomas', b'Crystal, Bell', b'White, Noel', b'Rondo, Pedro']
-animeVoices	[b'\nTomatsu, Haruka\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItoso, Kenji\n\nDirector, Script\n\n', b'\nChihara, Minori\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nHidari\n\nCharacter Design\n\n']
+animePopularity	11098
+animeDescription	A feature-length version of the short anime film Santa Company.
+animeRelated	['Santa Company', 'Santa Company: Manatsu no Merry Christmas']
+animeCharacters	['Rondo, Mint', 'Dou, Thomas', 'Crystal, Bell', 'White, Noel', 'Rondo, Pedro']
+animeVoices	['Tomatsu, Haruka', 'Kugimiya, Rie', 'Kaji, Yuki', 'Sakurai, Takahiro']
+animeStaff	[['Itoso, Kenji', 'Director, Script'], ['Chihara, Minori', 'Theme Song Performance, Inserted Song Performance'], ['Hidari', 'Character Design']]

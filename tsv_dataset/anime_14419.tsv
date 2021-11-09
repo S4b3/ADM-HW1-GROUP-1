@@ -1,5 +1,5 @@
-animeTitle	b'Yankee Reppuu-tai'
-animeType	b'OVA'
+animeTitle	Yankee Reppuu-tai
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'Impossibly tough and hairsprayed biker boys and girls fight turf wars in the streets, with much revving of motors and ""you killed my buddy, prepare to die"" dialogue. Based on the Shonen Magazine manga by Masahide Hashimoto, whose hero was so tough that he transferred schools 20 times. Only a Japanese tough guy would continue to go at all!\n\n(Source: The Anime Encyclopedia)'"
+animePopularity	13487
+animeDescription	"Impossibly tough and hairsprayed biker boys and girls fight turf wars in the streets, with much revving of motors and ""you killed my buddy, prepare to die"" dialogue. Based on the Shonen Magazine manga by Masahide Hashimoto, whose hero was so tough that he transferred schools 20 times. Only a Japanese tough guy would continue to go at all!
+
+(Source: The Anime Encyclopedia)"
 animeRelated	[]
-animeCharacters	[b'Hanaoka, Ryuuji', b'Kadota, Monnojyo', b'Koinuma, Mari', b'Tajima, Tetsu', b'Morita, Ishimatsu', b'Kitahara, Mitsuo']
-animeVoices	[b'\nHorikawa, Ryo\nJapanese\n', b'\nNanba, Keiichi\nJapanese\n', b'\nShou, Mayumi\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nAono, Takeshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImazawa, Tetsuo\n\nDirector\n\n', b'\nHamasu, Hideki\n\nKey Animation\n\n', b'\nFukuda, Michio\n\nKey Animation\n\n', b'\nAoyama, Mitsuru\n\nKey Animation\n\n']
+animeCharacters	['Hanaoka, Ryuuji', 'Kadota, Monnojyo', 'Koinuma, Mari', 'Tajima, Tetsu', 'Morita, Ishimatsu', 'Kitahara, Mitsuo']
+animeVoices	['Horikawa, Ryo', 'Nanba, Keiichi', 'Shou, Mayumi', 'Chiba, Shigeru', 'Seki, Toshihiko', 'Aono, Takeshi']
+animeStaff	[['Imazawa, Tetsuo', 'Director'], ['Hamasu, Hideki', 'Key Animation'], ['Fukuda, Michio', 'Key Animation'], ['Aoyama, Mitsuru', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Yuu\xe2\x98\x86Yuu\xe2\x98\x86Hakusho: Eizou Hakusho - Ankoku Bujutsukai no Shou'
-animeType	b'OVA'
+animeTitle	Yuu☆Yuu☆Hakusho: Eizou Hakusho - Ankoku Bujutsukai no Shou
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,17 @@ animeNumMembers
 animeScore	7.25
 animeUsers	4473
 animeRank	
-animePopularity	
-animeDescription	"b""These are two recap specials that focus on Team Urameshi's matches in the Dark Tournament, with a few character songs playing in the background. \n\nThere are also two shorts at the end of each episode, both of which are about 1:20 long.\n\nEizou Hakusho Series: Ankoku Bujutsukai no Shou - Gekan\n-Group Photo\n\nEizou Hakusho Series: Ankoku Bujutsukai no Shou - Joukan\n-Koto's Interview"""
-animeRelated	[b'Yuu\xe2\x98\x86Yuu\xe2\x98\x86Hakusho', b'Yuu\xe2\x98\x86Yuu\xe2\x98\x86Hakusho: Eizou Hakusho II', b'Yuu\xe2\x98\x86Yuu\xe2\x98\x86Hakusho: Eizou Hakusho - Opening Ending Encyclopedia']
-animeCharacters	[b'Urameshi, Yuusuke', b'Hiei', b'Kurama', b'Kuwabara, Kazuma', b'Botan', b'Toguro, Younger', b'Genkai', b'Koenma', b'Jin', b'Yukimura, Keiko']
-animeVoices	[b'\nSasaki, Nozomu\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nMiyuki, Sanae\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTogashi, Yoshihiro\n\nOriginal Creator\n\n', b'\nCook, Justin\n\nADR Director\n\n', b'\nFukunaga, Gen\n\nExecutive Producer\n\n']
+animePopularity	5028
+animeDescription	"These are two recap specials that focus on Team Urameshi's matches in the Dark Tournament, with a few character songs playing in the background. 
+
+There are also two shorts at the end of each episode, both of which are about 1:20 long.
+
+Eizou Hakusho Series: Ankoku Bujutsukai no Shou - Gekan
+-Group Photo
+
+Eizou Hakusho Series: Ankoku Bujutsukai no Shou - Joukan
+-Koto's Interview"
+animeRelated	['Yuu☆Yuu☆Hakusho', 'Yuu☆Yuu☆Hakusho: Eizou Hakusho II', 'Yuu☆Yuu☆Hakusho: Eizou Hakusho - Opening Ending Encyclopedia']
+animeCharacters	['Urameshi, Yuusuke', 'Hiei', 'Kurama', 'Kuwabara, Kazuma', 'Botan', 'Toguro, Younger', 'Genkai', 'Koenma', 'Jin', 'Yukimura, Keiko']
+animeVoices	['Sasaki, Nozomu', 'Hiyama, Nobuyuki', 'Ogata, Megumi', 'Chiba, Shigeru', 'Miyuki, Sanae', 'Genda, Tesshou', 'Hayashibara, Megumi', 'Yamaguchi, Kappei']
+animeStaff	[['Togashi, Yoshihiro', 'Original Creator'], ['Cook, Justin', 'ADR Director'], ['Fukunaga, Gen', 'Executive Producer']]

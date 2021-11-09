@@ -1,5 +1,5 @@
-animeTitle	b'Strait Jacket'
-animeType	b'OVA'
+animeTitle	Strait Jacket
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.83
 animeUsers	11951
 animeRank	
-animePopularity	
-animeDescription	"b'It is the world where magic and science coexist. Rayotte Steinberg, a lone wolf ""tactical sorcerist"", fights against monsters. They used to be human beings, but they had overused forbidden power, ""magic"", to turn into monsters. What he wears is ""mold"", the straight jacket that keeps him being a human. What he holds on his hand is ""staff"", a magical wand that explodes everything. If he casts magic, he moves one step to be a monster. If he doesn\'t, he will be killed. Among the harsh battles, he will face a sin he had committed in the past. \n\n(Source: AnimeNfo)'"
-animeRelated	[b'Strait Jacket']
-animeCharacters	[b'Steinberg, Reiott', b'Fernandes, Kapeltetha', b'Simmons, Mary', b'Gray', b'Reegs', b'Roland, Jack', b'Hammond, Isaac', b'Minea', b'Thomson, George', b'Fahgo']
-animeVoices	[b'\nMiki, Shinichiro\nJapanese\n', b'\nShindou, Kei\nJapanese\n', b'\nMaeda, Ai\nJapanese\n', b'\nNomura, Kenji\nJapanese\n', b'\nKobashi, Tatsuya\nJapanese\n', b'\nSasanuma, Akira\nJapanese\n', b'\nDomon, Jin\nJapanese\n', b'\nNagano, Yoshikazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUshiro, Shinji\n\nDirector\n\n', b'\nSakaki, Ichirou\n\nScript, Original Creator\n\n', b'\nSeyama, Takeshi\n\nEditing\n\n', b'\nDavid, Alex Von\n\nADR Director\n\n']
+animePopularity	3652
+animeDescription	"It is the world where magic and science coexist. Rayotte Steinberg, a lone wolf ""tactical sorcerist"", fights against monsters. They used to be human beings, but they had overused forbidden power, ""magic"", to turn into monsters. What he wears is ""mold"", the straight jacket that keeps him being a human. What he holds on his hand is ""staff"", a magical wand that explodes everything. If he casts magic, he moves one step to be a monster. If he doesn't, he will be killed. Among the harsh battles, he will face a sin he had committed in the past. 
+
+(Source: AnimeNfo)"
+animeRelated	['Strait Jacket']
+animeCharacters	['Steinberg, Reiott', 'Fernandes, Kapeltetha', 'Simmons, Mary', 'Gray', 'Reegs', 'Roland, Jack', 'Hammond, Isaac', 'Minea', 'Thomson, George', 'Fahgo']
+animeVoices	['Miki, Shinichiro', 'Shindou, Kei', 'Maeda, Ai', 'Nomura, Kenji', 'Kobashi, Tatsuya', 'Sasanuma, Akira', 'Domon, Jin', 'Nagano, Yoshikazu']
+animeStaff	[['Ushiro, Shinji', 'Director'], ['Sakaki, Ichirou', 'Script, Original Creator'], ['Seyama, Takeshi', 'Editing'], ['David, Alex Von', 'ADR Director']]

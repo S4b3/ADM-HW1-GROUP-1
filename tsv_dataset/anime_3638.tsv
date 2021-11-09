@@ -1,5 +1,5 @@
-animeTitle	b'ViVid Strike!'
-animeType	b'TV'
+animeTitle	ViVid Strike!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.04
 animeUsers	18308
 animeRank	
-animePopularity	
-animeDescription	"b""Raised up in the same orphanage, Fuuka and Rinne were once close friends but parted company after a quarrel ended up with Rinne overwhelmed Fuuka with her martial art skills. Fuuka has a life in poverty after leaving the orphanage. An accidental encounter with renowned martial arts champion Einhald Stratos discovered Fuuka's hidden talent in fighting; Einhald offered Fuuka a job and coaching, encouraging her to meet up with Rinne again\xe2\x80\x94in a ring.\n\n(Source: ANN)"""
-animeRelated	[b'Mahou Shoujo Lyrical Nanoha ViVid', b'ViVid Strike! Specials']
-animeCharacters	[b'Vivio', b'Berlinetta, Rinne', b'Stratos, Einhald', b'Reventon, Fuuka', b'Jeremiah, Sieglinde', b'Alpine, Lutecia', b'Nove', b'Wezley, Rio', b'Timil, Corona', b'Chevelle, Micaiah']
-animeVoices	[b'\nMizuhashi, Kaori\nJapanese\n', b'\nOgura, Yui\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nNakatsu, Mari\nJapanese\n', b'\nKuwatani, Natsuko\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nFukuen, Misato\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishimura, Junji\n\nDirector\n\n', b'\nYokota, Chikako\n\nSound Director\n\n', b'\nTanemura, Ayataka\n\nEpisode Director\n\n', b'\nTsuzuki, Masaki\n\nScript, Original Creator\n\n']
+animePopularity	2051
+animeDescription	"Raised up in the same orphanage, Fuuka and Rinne were once close friends but parted company after a quarrel ended up with Rinne overwhelmed Fuuka with her martial art skills. Fuuka has a life in poverty after leaving the orphanage. An accidental encounter with renowned martial arts champion Einhald Stratos discovered Fuuka's hidden talent in fighting; Einhald offered Fuuka a job and coaching, encouraging her to meet up with Rinne again—in a ring.
+
+(Source: ANN)"
+animeRelated	['Mahou Shoujo Lyrical Nanoha ViVid', 'ViVid Strike! Specials']
+animeCharacters	['Vivio', 'Berlinetta, Rinne', 'Stratos, Einhald', 'Reventon, Fuuka', 'Jeremiah, Sieglinde', 'Alpine, Lutecia', 'Nove', 'Wezley, Rio', 'Timil, Corona', 'Chevelle, Micaiah']
+animeVoices	['Mizuhashi, Kaori', 'Ogura, Yui', 'Noto, Mamiko', 'Minase, Inori', 'Nakatsu, Mari', 'Kuwatani, Natsuko', 'Saitou, Chiwa', 'Kitamura, Eri', 'Fukuen, Misato', 'Asakawa, Yuu']
+animeStaff	[['Nishimura, Junji', 'Director'], ['Yokota, Chikako', 'Sound Director'], ['Tanemura, Ayataka', 'Episode Director'], ['Tsuzuki, Masaki', 'Script, Original Creator']]

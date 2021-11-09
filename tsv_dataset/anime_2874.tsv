@@ -1,5 +1,5 @@
-animeTitle	b'Galaxy Angel 4'
-animeType	b'TV'
+animeTitle	Galaxy Angel 4
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.2
 animeUsers	2803
 animeRank	
-animePopularity	
-animeDescription	b'Starting out with the new Galaxy Angel, Chitose Karasuma, the Angel Troupe continue their search for The Lost Technology while running into different kinds of mishaps.\n\n(Source: ANN)'
-animeRelated	[b'Galaxy Angel 3']
-animeCharacters	"[b'Sakuraba, Milfeulle', b'Blancmanche, Mint', b'H, Vanilla', b'Stollen, Forte', b'Franboise, Ranpha', b'Karasuma, Chitose', b'Normad', b""O'Huey, Volcott"", b'Perot, Cocomo']"
-animeVoices	[b'\nShintani, Ryouko\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKanai, Mika\nJapanese\n', b'\nYamaguchi, Mayumi\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nGotou, Saori\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakayanagi, Shigehito\n\nDirector\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nAraki, Tetsurou\n\nEpisode Director, Storyboard\n\n', b'\nTsuchiya, Hiroyuki\n\nEpisode Director\n\n']
+animePopularity	6066
+animeDescription	"Starting out with the new Galaxy Angel, Chitose Karasuma, the Angel Troupe continue their search for The Lost Technology while running into different kinds of mishaps.
+
+(Source: ANN)"
+animeRelated	['Galaxy Angel 3']
+animeCharacters	"['Sakuraba, Milfeulle', 'Blancmanche, Mint', 'H, Vanilla', 'Stollen, Forte', 'Franboise, Ranpha', 'Karasuma, Chitose', 'Normad', ""O'Huey, Volcott"", 'Perot, Cocomo']"
+animeVoices	['Shintani, Ryouko', 'Sawashiro, Miyuki', 'Kanai, Mika', 'Yamaguchi, Mayumi', 'Tamura, Yukari', 'Gotou, Saori', 'Fujiwara, Keiji']
+animeStaff	[['Takayanagi, Shigehito', 'Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Araki, Tetsurou', 'Episode Director, Storyboard'], ['Tsuchiya, Hiroyuki', 'Episode Director']]

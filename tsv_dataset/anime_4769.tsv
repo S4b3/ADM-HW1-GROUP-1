@@ -1,5 +1,5 @@
-animeTitle	b'Ikkyuu-san'
-animeType	b'TV'
+animeTitle	Ikkyuu-san
+animeType	TV
 animeNumEpisode	296
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.77
 animeUsers	583
 animeRank	
-animePopularity	
-animeDescription	b'Ikkyu is a little boy training to be a monk at Ankokuji Temple. Known for being mischievous and a bit of a troublemaker, but also extremely smart, Ikkyu constantly thinks of new ways to outwit his frustrated teachers, helping others at the same time. '
-animeRelated	[b'Ikkyuu-san to Yancha Hime', b'Ikkyuu-san: Haru Da! Yancha Hime', b'Ikkyuu-san: Ooabare Yancha-hime', b'Congming de Yixiu Zhi Fan Dou Gongzhu']
-animeCharacters	[b'Sayo-chan', b'Ikkyuu', b'Narrator', b'Tessai']
-animeVoices	[b'\nFujita, Toshiko\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYabuki, Kimio\n\nDirector\n\n', b'\nNitta, Yoshikata\n\nDirector\n\n', b'\nImazawa, Tetsuo\n\nEpisode Director\n\n', b'\nNagaki, Bonjin\n\nEpisode Director\n\n']
+animePopularity	9780
+animeDescription	Ikkyu is a little boy training to be a monk at Ankokuji Temple. Known for being mischievous and a bit of a troublemaker, but also extremely smart, Ikkyu constantly thinks of new ways to outwit his frustrated teachers, helping others at the same time. 
+animeRelated	['Ikkyuu-san to Yancha Hime', 'Ikkyuu-san: Haru Da! Yancha Hime', 'Ikkyuu-san: Ooabare Yancha-hime', 'Congming de Yixiu Zhi Fan Dou Gongzhu']
+animeCharacters	['Sayo-chan', 'Ikkyuu', 'Narrator', 'Tessai']
+animeVoices	['Fujita, Toshiko', 'Masuyama, Eiko', 'Inoue, Kazuhiko']
+animeStaff	[['Yabuki, Kimio', 'Director'], ['Nitta, Yoshikata', 'Director'], ['Imazawa, Tetsuo', 'Episode Director'], ['Nagaki, Bonjin', 'Episode Director']]

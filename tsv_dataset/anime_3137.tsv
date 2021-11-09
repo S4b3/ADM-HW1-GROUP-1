@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 23: Nobita to Robot Kingdom'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 23: Nobita to Robot Kingdom
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.15
 animeUsers	4286
 animeRank	
-animePopularity	
-animeDescription	b'Doraemon and friends travels into another world via the time machine; where humans and robots are living together. However they soon find out that the Empress of Robot Kingdom was trying to capture robots there and turn them emotionless. As the situation goes tense, our heroes sets out to stop the Empress and her plan.\n\n(Source: Wikipedia)'
-animeRelated	[b'Daichouhen Doraemon', b'Doraemon (1979)', b'The\xe2\x98\x86Doraemons: Goal! Goal! Goal!!', b'Doraemon: The Day When I Was Born']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi']
-animeVoices	[b'\nOoyama, Nobuyo\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nNomura, Michiko\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nTatekabe, Kazuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShibayama, Tsutomu\n\nDirector\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nIshihara, Tatsuya\n\nStoryboard\n\n', b'\nFujimori, Masaya\n\nStoryboard\n\n']
+animePopularity	6198
+animeDescription	"Doraemon and friends travels into another world via the time machine; where humans and robots are living together. However they soon find out that the Empress of Robot Kingdom was trying to capture robots there and turn them emotionless. As the situation goes tense, our heroes sets out to stop the Empress and her plan.
+
+(Source: Wikipedia)"
+animeRelated	['Daichouhen Doraemon', 'Doraemon (1979)', 'The☆Doraemons: Goal! Goal! Goal!!', 'Doraemon: The Day When I Was Born']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi']
+animeVoices	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Nomura, Michiko', 'Kimotsuki, Kaneta', 'Tatekabe, Kazuya']
+animeStaff	[['Shibayama, Tsutomu', 'Director'], ['Urakami, Yasuo', 'Sound Director'], ['Ishihara, Tatsuya', 'Storyboard'], ['Fujimori, Masaya', 'Storyboard']]

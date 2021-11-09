@@ -1,5 +1,5 @@
-animeTitle	b'Urusei Yatsura Movie 6: Itsudatte My Darling'
-animeType	b'Movie'
+animeTitle	Urusei Yatsura Movie 6: Itsudatte My Darling
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.82
 animeUsers	2034
 animeRank	
-animePopularity	
-animeDescription	"b""Lupica, another one of the legion of space princesses that all seem to have found out about Earth in some tour book, appears and abducts Ataru! \n\nBut Lupica isn't after Ataru for his great looks or charming personality (because he doesn't have either). Lupica's goal is the greatest love potion in the galaxy, which she intends to use to induce her sweetheart to tie the knot. To get it, she needs the possessor of the greatest lust in the universe...\n\n(Source: AniDB)"""
-animeRelated	[b'Urusei Yatsura']
-animeCharacters	[b'Lum', b'Moroboshi, Ataru', b'Mendo, Shutaro', b'Rio', b'Lupica', b'Ran', b'Fujinami, Ryuunosuke', b'Sakuranbou', b'Miyake, Shinobu', b'Satoshi']
-animeVoices	[b'\nHirano, Fumi\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nFurumoto, Shinnosuke\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n', b'\nKomiya, Kazue\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nShimazu, Saeko\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamada, Katsuhisa\n\nDirector\n\n', b'\nTakahashi, Rumiko\n\nOriginal Creator\n\n', b'\nOkamura, Tensai\n\nKey Animation\n\n', b'\nNagahama, Hiroshi\n\nAnimation Check\n\n']
+animePopularity	6667
+animeDescription	"Lupica, another one of the legion of space princesses that all seem to have found out about Earth in some tour book, appears and abducts Ataru! 
+
+But Lupica isn't after Ataru for his great looks or charming personality (because he doesn't have either). Lupica's goal is the greatest love potion in the galaxy, which she intends to use to induce her sweetheart to tie the knot. To get it, she needs the possessor of the greatest lust in the universe...
+
+(Source: AniDB)"
+animeRelated	['Urusei Yatsura']
+animeCharacters	['Lum', 'Moroboshi, Ataru', 'Mendo, Shutaro', 'Rio', 'Lupica', 'Ran', 'Fujinami, Ryuunosuke', 'Sakuranbou', 'Miyake, Shinobu', 'Satoshi']
+animeVoices	['Hirano, Fumi', 'Furukawa, Toshio', 'Kamiya, Akira', 'Furumoto, Shinnosuke', 'Matsui, Naoko', 'Komiya, Kazue', 'Tanaka, Mayumi', 'Nagai, Ichiro', 'Shimazu, Saeko', 'Chiba, Shigeru']
+animeStaff	[['Yamada, Katsuhisa', 'Director'], ['Takahashi, Rumiko', 'Original Creator'], ['Okamura, Tensai', 'Key Animation'], ['Nagahama, Hiroshi', 'Animation Check']]

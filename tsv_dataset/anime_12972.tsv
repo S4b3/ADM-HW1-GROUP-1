@@ -1,5 +1,5 @@
-animeTitle	b'RoboDz'
-animeType	b'TV'
+animeTitle	RoboDz
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Five minute episodes following the adventures of three robot friends: Nejimaru, Sombrenosuke and Drum-Kan-Be, who coexist with humans of the same world. When an alien invasion called Corporation Baddoru arrives, they are forced to join forces against the invaders.'
+animePopularity	14724
+animeDescription	Five minute episodes following the adventures of three robot friends: Nejimaru, Sombrenosuke and Drum-Kan-Be, who coexist with humans of the same world. When an alien invasion called Corporation Baddoru arrives, they are forced to join forces against the invaders.
 animeRelated	[]
-animeCharacters	[b'Nejimaru', b'Captain Baddle']
-animeVoices	[b'\nIkura, Kazue\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishio, Daisuke\n\nDirector\n\n', b'\nItou, Naoyuki\n\nEpisode Director\n\n', b'\nMiyahara, Naoki\n\nCharacter Design\n\n']
+animeCharacters	['Nejimaru', 'Captain Baddle']
+animeVoices	['Ikura, Kazue', 'Koyasu, Takehito']
+animeStaff	[['Nishio, Daisuke', 'Director'], ['Itou, Naoyuki', 'Episode Director'], ['Miyahara, Naoki', 'Character Design']]

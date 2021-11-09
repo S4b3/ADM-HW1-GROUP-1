@@ -1,5 +1,5 @@
-animeTitle	b'BNA'
-animeType	b'TV'
+animeTitle	BNA
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.4
 animeUsers	145414
 animeRank	
-animePopularity	
-animeDescription	"b'Throughout history, humans have been at odds with Beastmen\xe2\x80\x94a species capable of changing shape due to their genetic ""Beast Factor."" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.\n\nDuring a festival celebrating the town\'s 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'BNA']
-animeCharacters	[b'Kagemori, Michiru', b'Ogami, Shirou', b'Hiwatashi, Nazuna', b'Itami, Marie', b'Jackie', b'Sylvasta, Alan', b'Flip, Nina', b'Cliff, Boris', b'Satou', b'Flip, Giuliano']
-animeVoices	[b'\nMorohoshi, Sumire\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nNaganawa, Maria\nJapanese\n', b'\nMurase, Michiyo\nJapanese\n', b'\nHan, Megumi\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nMaeshima, Ami\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImaishi, Hiroyuki\n\nDirector, Storyboard, Key Animation\n\n', b'\nYoshinari, You\n\nDirector, Storyboard, Key Animation\n\n', b'\nOotsuka, Masahiko\n\nSound Director, Episode Director, Storyboard, Executive Producer\n\n', b'\nMiyajima, Yoshihiro\n\nEpisode Director, Storyboard\n\n']
+animePopularity	619
+animeDescription	"Throughout history, humans have been at odds with Beastmen—a species capable of changing shape due to their genetic ""Beast Factor."" Because of this conflict, Beastmen have been forced into hiding. Anima City serves as a safe haven for these oppressed individuals to live free from human interference.
+
+During a festival celebrating the town's 10th anniversary, Michiru Kagemori, a human who suddenly turned into a tanuki, finds that Anima City is a far cry from paradise. After witnessing an explosion in the square, she is confronted by Shirou Ogami, a seemingly indestructible wolf and sworn protector of all Beastmen. As they pursue the criminals behind the bombing, the two discover that Michiru is anything but an ordinary Beastman, and look to investigate her mysterious past and uncanny abilities. Could she turn out to be the missing link between Humans and Beastmen?
+
+[Written by MAL Rewrite]"
+animeRelated	['BNA']
+animeCharacters	['Kagemori, Michiru', 'Ogami, Shirou', 'Hiwatashi, Nazuna', 'Itami, Marie', 'Jackie', 'Sylvasta, Alan', 'Flip, Nina', 'Cliff, Boris', 'Satou', 'Flip, Giuliano']
+animeVoices	['Morohoshi, Sumire', 'Hosoya, Yoshimasa', 'Naganawa, Maria', 'Murase, Michiyo', 'Han, Megumi', 'Ishikawa, Kaito', 'Maeshima, Ami', 'Koyasu, Takehito']
+animeStaff	[['Imaishi, Hiroyuki', 'Director, Storyboard, Key Animation'], ['Yoshinari, You', 'Director, Storyboard, Key Animation'], ['Ootsuka, Masahiko', 'Sound Director, Episode Director, Storyboard, Executive Producer'], ['Miyajima, Yoshihiro', 'Episode Director, Storyboard']]

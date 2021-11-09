@@ -1,5 +1,5 @@
-animeTitle	b'Maesetsu!'
-animeType	b'TV'
+animeTitle	Maesetsu!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.78
 animeUsers	2392
 animeRank	
-animePopularity	
-animeDescription	b'The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.\n\n(Source: MAL News)'
-animeRelated	[b'Maesetsu!']
-animeCharacters	[b'Asougi, Nayuta', b'Kogarashi, Mafuyu', b'Kitakaze, Fubuki', b'Araya, Rin', b'Kusaba, Eru', b'Kogarashi, Manatsu', b'Yamamoto, Masatake', b'Samejima, Hiromi', b'Ubuno, Hatsuna', b'Kanari, Kanae']
-animeVoices	[b'\nNakamura, Sakura\nJapanese\n', b'\nOozora, Naomi\nJapanese\n', b'\nOonishi, Aguri\nJapanese\n', b'\nIgarashi, Hiromi\nJapanese\n', b'\nAida, Asuka\nJapanese\n', b'\nTakada, Yuuki\nJapanese\n', b'\nYamamoto, Masatake\nJapanese\n', b'\nSamejima, Hiromi\nJapanese\n', b'\nUbuno, Hatsuna\nJapanese\n', b'\nFuruki, Nozomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNobuta, Yuu\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nMachida, Touko\n\nScript, Series Composition\n\n', b'\nOozora, Naomi\n\nTheme Song Performance\n\n']
+animePopularity	5374
+animeDescription	"The anime centers on four girls at the full bloom of their youth, working hard to achieve their dreams as they struggle valiantly. In Japanese entertainment, Maesetsu! refers to an introductory talk or explanation addressed to the audience before the broadcast of television programs, usually performed by assistant directors and particularly comedians in variety or comedy shows.
+
+(Source: MAL News)"
+animeRelated	['Maesetsu!']
+animeCharacters	['Asougi, Nayuta', 'Kogarashi, Mafuyu', 'Kitakaze, Fubuki', 'Araya, Rin', 'Kusaba, Eru', 'Kogarashi, Manatsu', 'Yamamoto, Masatake', 'Samejima, Hiromi', 'Ubuno, Hatsuna', 'Kanari, Kanae']
+animeVoices	['Nakamura, Sakura', 'Oozora, Naomi', 'Oonishi, Aguri', 'Igarashi, Hiromi', 'Aida, Asuka', 'Takada, Yuuki', 'Yamamoto, Masatake', 'Samejima, Hiromi', 'Ubuno, Hatsuna', 'Furuki, Nozomi']
+animeStaff	[['Nobuta, Yuu', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Machida, Touko', 'Script, Series Composition'], ['Oozora, Naomi', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	"b""Queen's Blade: Unlimited"""
-animeType	b'OVA'
+animeTitle	Queen's Blade: Unlimited
+animeType	OVA
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.14
 animeUsers	749
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	"[b""Queen's Blade: Rebellion""]"
-animeCharacters	[b'Airi', b'Alleyne', b'Vance, Leina', b'Echidna', b'Nanael', b'Risty', b'Vance, Claudette', b'Vance, Elina', b'Nowa', b'Melpha']
-animeVoices	[b'\nItou, Kanae\nJapanese\n', b'\nKaida, Yuki\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nTakahashi, Mikako\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKisaragi, Mayu\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nKingetsu, Ryuunosuke\n\nScript\n\n', b'\nHobby Japan\n\nOriginal Creator\n\n']
+animePopularity	5400
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	"[""Queen's Blade: Rebellion""]"
+animeCharacters	['Airi', 'Alleyne', 'Vance, Leina', 'Echidna', 'Nanael', 'Risty', 'Vance, Claudette', 'Vance, Elina', 'Nowa', 'Melpha']
+animeVoices	['Itou, Kanae', 'Kaida, Yuki', 'Hirano, Aya', 'Tanaka, Atsuko', 'Mizuhashi, Kaori', 'Takahashi, Mikako', 'Ohara, Sayaka']
+animeStaff	[['Kisaragi, Mayu', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Kingetsu, Ryuunosuke', 'Script'], ['Hobby Japan', 'Original Creator']]

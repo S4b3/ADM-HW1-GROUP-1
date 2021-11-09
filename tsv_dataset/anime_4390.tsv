@@ -1,5 +1,5 @@
-animeTitle	b'Queen Emeraldas'
-animeType	b'OVA'
+animeTitle	Queen Emeraldas
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.85
 animeUsers	2255
 animeRank	
-animePopularity	
-animeDescription	b'The story revolves around a race that seeks to dominate the galaxy. A lone mysterious female warrior, known to others as Emeraldas sails the endless planets of the universe- in her Seas of Star ship- fighting the tyranny of that merciless race. She is tormented by the memory of her lost love.\n\n(Source: ANN)'
-animeRelated	[b'Queen Emeraldas', b'Maetel Legend', b'Waga Seishun no Arcadia', b'Torajima no Miime', b'Zero Seiki Movie 1: Emeraldas']
-animeCharacters	[b'Emeraldas', b'Umino, Hiroshi', b'Captain Herlock', b'Maetel', b'Ooyama, Tochirou', b'Siren', b'Lucille', b'Row, Lou', b'Lameil', b'Vaidas']
-animeVoices	[b'\nTajima, Reiko\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nTakashima, Gara\nJapanese\n', b'\nShimizu, Kaori\nJapanese\n', b'\nYuuki, Hiro\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAsada, Yuuji\n\nDirector\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nMatsumoto, Leiji\n\nOriginal Creator\n\n', b'\nOshima, Michiru\n\nMusic\n\n']
+animePopularity	6349
+animeDescription	"The story revolves around a race that seeks to dominate the galaxy. A lone mysterious female warrior, known to others as Emeraldas sails the endless planets of the universe- in her Seas of Star ship- fighting the tyranny of that merciless race. She is tormented by the memory of her lost love.
+
+(Source: ANN)"
+animeRelated	['Queen Emeraldas', 'Maetel Legend', 'Waga Seishun no Arcadia', 'Torajima no Miime', 'Zero Seiki Movie 1: Emeraldas']
+animeCharacters	['Emeraldas', 'Umino, Hiroshi', 'Captain Herlock', 'Maetel', 'Ooyama, Tochirou', 'Siren', 'Lucille', 'Row, Lou', 'Lameil', 'Vaidas']
+animeVoices	['Tajima, Reiko', 'Hayashibara, Megumi', 'Inoue, Makio', 'Yamadera, Kouichi', 'Takashima, Gara', 'Shimizu, Kaori', 'Yuuki, Hiro', 'Ootsuka, Akio']
+animeStaff	[['Asada, Yuuji', 'Director'], ['Watanabe, Jun', 'Sound Director'], ['Matsumoto, Leiji', 'Original Creator'], ['Oshima, Michiru', 'Music']]

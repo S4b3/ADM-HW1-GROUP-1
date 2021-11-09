@@ -1,5 +1,5 @@
-animeTitle	b'Jigen Sengokushi: Kuro no Shishi - Jinnai-hen'
-animeType	b'OVA'
+animeTitle	Jigen Sengokushi: Kuro no Shishi - Jinnai-hen
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.6
 animeUsers	1607
 animeRank	
-animePopularity	
-animeDescription	"b""The year is 1580. Using an army of soldiers equipped with sophisticated weaponry, Nobunaga Oda is on the verge of ruling Japan with an iron fist. One of his enforcers is Ginnai Doma - a fallen samurai reborn into an indestructible killing machine. As Ginnai continues his killing spree on ninjas and those who oppose Nobunaga's rule, Shishimaru of the Iga Ninja - going against the Koga Ninja's plans - pursues a one-man vendetta to avenge the deaths of his comrades and kill the immortal warrior.\n\n(Source: ANN)"""
-animeRelated	[b'Kuro no Shishi']
-animeCharacters	[b'Doma, Ginnai', b'Hayabusa', b'Tennoh, Shishimaru', b'Saburota', b'Yurimaru', b'Nagatoji', b'Momochi', b'Kojiro', b'Oyu']
-animeVoices	[b'\nYara, Yuusaku\nJapanese\n', b'\nOrikasa, Ai\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nHirose, Masashi\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nFujimoto, Yuzuru\nJapanese\n', b'\nTokumaru, Kan\nJapanese\n', b'\nTsujitani, Kouji\nJapanese\n', b'\nAmano, Yuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Takashi\n\nDirector\n\n', b'\nNagai, Go\n\nOriginal Creator\n\n', b'\nOhata, Koichi\n\nMechanical Design\n\n', b'\nCampbell, Charles\n\nRecording Engineer\n\n']
+animePopularity	7957
+animeDescription	"The year is 1580. Using an army of soldiers equipped with sophisticated weaponry, Nobunaga Oda is on the verge of ruling Japan with an iron fist. One of his enforcers is Ginnai Doma - a fallen samurai reborn into an indestructible killing machine. As Ginnai continues his killing spree on ninjas and those who oppose Nobunaga's rule, Shishimaru of the Iga Ninja - going against the Koga Ninja's plans - pursues a one-man vendetta to avenge the deaths of his comrades and kill the immortal warrior.
+
+(Source: ANN)"
+animeRelated	['Kuro no Shishi']
+animeCharacters	['Doma, Ginnai', 'Hayabusa', 'Tennoh, Shishimaru', 'Saburota', 'Yurimaru', 'Nagatoji', 'Momochi', 'Kojiro', 'Oyu']
+animeVoices	['Yara, Yuusaku', 'Orikasa, Ai', 'Matsumoto, Yasunori', 'Hirose, Masashi', 'Tatsuta, Naoki', 'Fujimoto, Yuzuru', 'Tokumaru, Kan', 'Tsujitani, Kouji', 'Amano, Yuri']
+animeStaff	[['Watanabe, Takashi', 'Director'], ['Nagai, Go', 'Original Creator'], ['Ohata, Koichi', 'Mechanical Design'], ['Campbell, Charles', 'Recording Engineer']]

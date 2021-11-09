@@ -1,5 +1,5 @@
-animeTitle	b'Aikatsu!'
-animeType	b'TV'
+animeTitle	Aikatsu!
+animeType	TV
 animeNumEpisode	178
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.4
 animeUsers	8996
 animeRank	
-animePopularity	
-animeDescription	"b""An idol's brilliance illuminates the dreams of humanity. Starlight Academy, a holy ground for celebrities in training, seeks to realize this belief. Behind its rigorous entrance requirements lie not only the top young stars in the entertainment business, but some of the best memories these students will ever have.\n\nOr so Aoi Kiriya believes. Alongside her best friend Ichigo, Aoi decides to apply for the prestigious private school in hopes of living up to the praise of the biggest idol in the world: Mizuki Kanzaki. As they journey through the numerous laughs, friendships, and heartbreaks that await them, can the two girls light up the lives of others as Mizuki has done for them?\n\nWhether it be chopping down Christmas trees, traversing obstacle courses, or even rock climbing, there's always a playful new adventure to be found in the world of Aikatsu!.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Aikatsu! Movie', b'Aikatsu! Music Award: Minna de Shou wo MoracchaimaShow!', b'Aikatsu!: Dai Starmiya Ichigo Matsuri Zenyasai!!', b'Aikatsu Stars!', b'Aikatsu Friends!', b'Aikatsu on Parade!', b'Aikatsu!: Nerawareta Mahou no Aikatsu! Card', b'Aikatsu Planet!']
-animeCharacters	[b'Hoshimiya, Ichigo', b'Kiriya, Aoi', b'Oozora, Akari', b'Toudou, Yurika', b'Shibuki, Ran', b'Hikami, Sumire', b'Arisugawa, Otome', b'Kanzaki, Mizuki', b'Kurebayashi, Juri', b'Otoshiro, Seira']
-animeVoices	[b'\nMorohoshi, Sumire\nJapanese\n', b'\nTadokoro, Azusa\nJapanese\n', b'\nShimoji, Shino\nJapanese\n', b'\nNumakura, Manami\nJapanese\n', b'\nOhashi, Ayaka\nJapanese\n', b'\nWakui, Yuu\nJapanese\n', b'\nKurosawa, Tomoyo\nJapanese\n', b'\nKotobuki, Minako\nJapanese\n', b'\nSaitou, Aya\nJapanese\n', b'\nIshihara, Kaori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHosoya, Nobuyuki\n\nProducer\n\n', b'\nKimura, Ryuuichi\n\nDirector, Storyboard\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nFukuoka, Motoo\n\nEpisode Director\n\n']
+animePopularity	2963
+animeDescription	"An idol's brilliance illuminates the dreams of humanity. Starlight Academy, a holy ground for celebrities in training, seeks to realize this belief. Behind its rigorous entrance requirements lie not only the top young stars in the entertainment business, but some of the best memories these students will ever have.
+
+Or so Aoi Kiriya believes. Alongside her best friend Ichigo, Aoi decides to apply for the prestigious private school in hopes of living up to the praise of the biggest idol in the world: Mizuki Kanzaki. As they journey through the numerous laughs, friendships, and heartbreaks that await them, can the two girls light up the lives of others as Mizuki has done for them?
+
+Whether it be chopping down Christmas trees, traversing obstacle courses, or even rock climbing, there's always a playful new adventure to be found in the world of Aikatsu!.
+
+[Written by MAL Rewrite]"
+animeRelated	['Aikatsu! Movie', 'Aikatsu! Music Award: Minna de Shou wo MoracchaimaShow!', 'Aikatsu!: Dai Starmiya Ichigo Matsuri Zenyasai!!', 'Aikatsu Stars!', 'Aikatsu Friends!', 'Aikatsu on Parade!', 'Aikatsu!: Nerawareta Mahou no Aikatsu! Card', 'Aikatsu Planet!']
+animeCharacters	['Hoshimiya, Ichigo', 'Kiriya, Aoi', 'Oozora, Akari', 'Toudou, Yurika', 'Shibuki, Ran', 'Hikami, Sumire', 'Arisugawa, Otome', 'Kanzaki, Mizuki', 'Kurebayashi, Juri', 'Otoshiro, Seira']
+animeVoices	['Morohoshi, Sumire', 'Tadokoro, Azusa', 'Shimoji, Shino', 'Numakura, Manami', 'Ohashi, Ayaka', 'Wakui, Yuu', 'Kurosawa, Tomoyo', 'Kotobuki, Minako', 'Saitou, Aya', 'Ishihara, Kaori']
+animeStaff	[['Hosoya, Nobuyuki', 'Producer'], ['Kimura, Ryuuichi', 'Director, Storyboard'], ['Kikuta, Hiromi', 'Sound Director'], ['Fukuoka, Motoo', 'Episode Director']]

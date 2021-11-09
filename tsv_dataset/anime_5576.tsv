@@ -1,5 +1,5 @@
-animeTitle	b'.hack//Liminality'
-animeType	b'OVA'
+animeTitle	.hack//Liminality
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.6
 animeUsers	15430
 animeRank	
-animePopularity	
-animeDescription	"b'While playing the newly released MMORPG ""The World,"" Minase Mai and Tomonari Kasumi collapsed in the real world and were sent to the hospital after hearing a mysterious sound. Only Mai had recovered while her friend Kasumi had slipped into a mysterious coma. Mai is later approached by the creator of ""The World,"" Tokuoka Junichiro, who unveils to her that, just like her friend, six other players across the country had also collapsed while playing ""The World"" and are now in mysterious comas. What exactly is ""The World,"" what is this mysterious sound Mai keeps on hearing, and why are people slipping into comas from this game? Minase, Junichiro and their acquaintances set off to get to the bottom of this problem before any further harm happens.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'.hack//Sign']
-animeCharacters	[b'Minase, Mai', b'Tokuoka, Junichiro', b'Toono, Kyouko', b'Aihara, Yuki', b'Skeith', b'Hoerwick, Harald', b'Sato, Ichiro', b'Kasumi, Tomonari', b'Makino, Masaya', b'Asaba, Kaoru']
-animeVoices	[b'\nKobayashi, Sanae\nJapanese\n', b'\nEbara, Masashi\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nChiba, Saeko\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nTouma, Yumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKajiura, Yuki\n\nProducer, Theme Song Composition, Theme Song Arrangement, Theme Song Lyrics, Recording Engineer, Music\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nSasaki, Shirou\n\nProducer, Music\n\n', b'\nNozaki, Keiichi\n\nProducer\n\n']
+animePopularity	3216
+animeDescription	"While playing the newly released MMORPG ""The World,"" Minase Mai and Tomonari Kasumi collapsed in the real world and were sent to the hospital after hearing a mysterious sound. Only Mai had recovered while her friend Kasumi had slipped into a mysterious coma. Mai is later approached by the creator of ""The World,"" Tokuoka Junichiro, who unveils to her that, just like her friend, six other players across the country had also collapsed while playing ""The World"" and are now in mysterious comas. What exactly is ""The World,"" what is this mysterious sound Mai keeps on hearing, and why are people slipping into comas from this game? Minase, Junichiro and their acquaintances set off to get to the bottom of this problem before any further harm happens.
+
+[Written by MAL Rewrite]"
+animeRelated	['.hack//Sign']
+animeCharacters	['Minase, Mai', 'Tokuoka, Junichiro', 'Toono, Kyouko', 'Aihara, Yuki', 'Skeith', 'Hoerwick, Harald', 'Sato, Ichiro', 'Kasumi, Tomonari', 'Makino, Masaya', 'Asaba, Kaoru']
+animeVoices	['Kobayashi, Sanae', 'Ebara, Masashi', 'Hisakawa, Aya', 'Chiba, Saeko', 'Yamazaki, Takumi', 'Seki, Toshihiko', 'Sakurai, Takahiro', 'Hoshi, Souichirou', 'Touma, Yumi']
+animeStaff	[['Kajiura, Yuki', 'Producer, Theme Song Composition, Theme Song Arrangement, Theme Song Lyrics, Recording Engineer, Music'], ['Maseba, Yutaka', 'Producer'], ['Sasaki, Shirou', 'Producer, Music'], ['Nozaki, Keiichi', 'Producer']]

@@ -1,5 +1,5 @@
-animeTitle	b'Happy ComeCome'
-animeType	b'Movie'
+animeTitle	Happy ComeCome
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.49
 animeUsers	342
 animeRank	
-animePopularity	
-animeDescription	"b""Hiroshi is tired of living alone so he orders a maid robot from a company called Happy ComeCome, but ends up with the robot mom Yoshiko instead. Yoshiko acts more motherly than Hiroshi's real mother, and over time she is able to heal his heart.\n\n(Source: ANN)\n\nProject by SynergySP announced to be part of Anime Mirai 2015. """
-animeRelated	[b'Ongaku Shoujo', b'Aki no Kanade', b'Kumi to Tulip']
+animePopularity	10438
+animeDescription	"Hiroshi is tired of living alone so he orders a maid robot from a company called Happy ComeCome, but ends up with the robot mom Yoshiko instead. Yoshiko acts more motherly than Hiroshi's real mother, and over time she is able to heal his heart.
+
+(Source: ANN)
+
+Project by SynergySP announced to be part of Anime Mirai 2015. "
+animeRelated	['Ongaku Shoujo', 'Aki no Kanade', 'Kumi to Tulip']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

@@ -1,5 +1,5 @@
-animeTitle	b'Getsumen To Heiki Mina'
-animeType	b'TV'
+animeTitle	Getsumen To Heiki Mina
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.28
 animeUsers	1786
 animeRank	
-animePopularity	
-animeDescription	b'An animated spin-off from the Densha Otoko (Trainman) TV drama.\n\nIn the drama, actor Itoh Atsushi plays the otaku Yamada, whose main love in life is the Mina anime, a cutesy busty heroine with floppy rabbit ears and carrots sticking out her rear.\n\nMina itself is a character homage which triggers back to the Daicon Animation done by GAINAX where a similar nameless bunny girl appeared. Densha Otoko futher featured an opening with scenes which were appearing back in the Daicon Animation.\n\n(Source: AniDB)'
-animeRelated	[b'Getsumen to Heiki Miina', b'Getsumen To Heiki Mina Specials']
-animeCharacters	[b'Tsukuda, Mina', b'Koushuu, Suiren', b'Hazemi, Nakoru', b'Haibara, Minamo', b'Onoue, P', b'Takanashi, Yuu', b'D, Katou', b'Hazemi, Kanji', b'Nanashi', b'Kisaragi, Mina']
-animeVoices	[b'\nInoue, Marina\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nKojima, Kazuko\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nAsano, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Kouji\n\nProducer\n\n', b'\nKawaguchi, Keiichirou\n\nDirector, Storyboard\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nKawabata, Erkin\n\nEpisode Director, Key Animation\n\n']
+animePopularity	6037
+animeDescription	"An animated spin-off from the Densha Otoko (Trainman) TV drama.
+
+In the drama, actor Itoh Atsushi plays the otaku Yamada, whose main love in life is the Mina anime, a cutesy busty heroine with floppy rabbit ears and carrots sticking out her rear.
+
+Mina itself is a character homage which triggers back to the Daicon Animation done by GAINAX where a similar nameless bunny girl appeared. Densha Otoko futher featured an opening with scenes which were appearing back in the Daicon Animation.
+
+(Source: AniDB)"
+animeRelated	['Getsumen to Heiki Miina', 'Getsumen To Heiki Mina Specials']
+animeCharacters	['Tsukuda, Mina', 'Koushuu, Suiren', 'Hazemi, Nakoru', 'Haibara, Minamo', 'Onoue, P', 'Takanashi, Yuu', 'D, Katou', 'Hazemi, Kanji', 'Nanashi', 'Kisaragi, Mina']
+animeVoices	['Inoue, Marina', 'Itou, Shizuka', 'Hanazawa, Kana', 'Noto, Mamiko', 'Nakata, Jouji', 'Kojima, Kazuko', 'Iwata, Mitsuo', 'Saiga, Mitsuki', 'Asano, Mayumi']
+animeStaff	[['Yamamoto, Kouji', 'Producer'], ['Kawaguchi, Keiichirou', 'Director, Storyboard'], ['Motoyama, Satoshi', 'Sound Director'], ['Kawabata, Erkin', 'Episode Director, Key Animation']]

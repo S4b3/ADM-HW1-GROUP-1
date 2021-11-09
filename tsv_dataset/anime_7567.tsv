@@ -1,5 +1,5 @@
-animeTitle	b'Me gumi no Daigo: Kajiba no Baka Yarou'
-animeType	b'Movie'
+animeTitle	Me gumi no Daigo: Kajiba no Baka Yarou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.23
 animeUsers	416
 animeRank	
-animePopularity	
-animeDescription	"b""Daigo Asahina is Medaka Gumi #2's/Me Gumi's new rookie firefighter, and already he's done crazy things, like throwing people off of a rooftop to save them from an explosion. He had good intentions, but his deeds are starting to hurt the company's reputation. At Sengoku City's Concert Hall, a fire breaks, and the some Emergency Rescue Squad needs rescuing. Daigo will do all he can to keep his promise: Not to let anyone die on the job.\n\n(Source: ANN)"""
-animeRelated	[b'Me-gumi no Daigo']
-animeCharacters	[b'Asahina, Daigo', b'Gomi, Shunsuke', b'Ochiai, Shizuka', b'Amakasu, Shirou']
-animeVoices	[b'\nTakagi, Wataru\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nIchijo, Kazuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishizawa, Susumu\n\nDirector\n\n', b'\nKitadani, Hiroshi\n\nTheme Song Performance\n\n', b'\nHamaguchi, Shirou\n\nMusic\n\n', b'\nSoda, Masahito\n\nOriginal Creator\n\n']
+animePopularity	10944
+animeDescription	"Daigo Asahina is Medaka Gumi #2's/Me Gumi's new rookie firefighter, and already he's done crazy things, like throwing people off of a rooftop to save them from an explosion. He had good intentions, but his deeds are starting to hurt the company's reputation. At Sengoku City's Concert Hall, a fire breaks, and the some Emergency Rescue Squad needs rescuing. Daigo will do all he can to keep his promise: Not to let anyone die on the job.
+
+(Source: ANN)"
+animeRelated	['Me-gumi no Daigo']
+animeCharacters	['Asahina, Daigo', 'Gomi, Shunsuke', 'Ochiai, Shizuka', 'Amakasu, Shirou']
+animeVoices	['Takagi, Wataru', 'Yara, Yuusaku', 'Inoue, Kikuko', 'Ichijo, Kazuya']
+animeStaff	[['Nishizawa, Susumu', 'Director'], ['Kitadani, Hiroshi', 'Theme Song Performance'], ['Hamaguchi, Shirou', 'Music'], ['Soda, Masahito', 'Original Creator']]

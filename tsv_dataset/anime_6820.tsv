@@ -1,5 +1,5 @@
-animeTitle	b'Sol Bianca: Taiyou no Fune'
-animeType	b'OVA'
+animeTitle	Sol Bianca: Taiyou no Fune
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.37
 animeUsers	1869
 animeRank	
-animePopularity	
-animeDescription	"b""Thousands of years into the future, mankind has colonized other planets across the galaxy and completely forgotten about Earth. On one part of the galaxy, the female space pirates and their colossal starship Sol Bianca get a surprise when a young girl named Mayo stows away on board the ship. The crew then embarks on a journey to Earth to find the whereabouts of Mayo's parents and discover the secrets of the lost planet. \n\n(Source: ANN)"""
-animeRelated	[b'Sol Bianca']
-animeCharacters	[b'Fall, Feb', b'Mann, Janny', b'Bikirk, April', b'Ashel, June', b'Jessica, May', b'Gyunter']
-animeVoices	[b'\nSakakibara, Yoshiko\nJapanese\n', b'\nSaeki, Tomo\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nMiyajima, Eri\nJapanese\n', b'\nKonishi, Hiroko\nJapanese\n', b'\nJo, Haruhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nAkiyama, Katsuhito\n\nDirector\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nSushio\n\nKey Animation\n\n']
+animePopularity	7379
+animeDescription	"Thousands of years into the future, mankind has colonized other planets across the galaxy and completely forgotten about Earth. On one part of the galaxy, the female space pirates and their colossal starship Sol Bianca get a surprise when a young girl named Mayo stows away on board the ship. The crew then embarks on a journey to Earth to find the whereabouts of Mayo's parents and discover the secrets of the lost planet. 
+
+(Source: ANN)"
+animeRelated	['Sol Bianca']
+animeCharacters	['Fall, Feb', 'Mann, Janny', 'Bikirk, April', 'Ashel, June', 'Jessica, May', 'Gyunter']
+animeVoices	['Sakakibara, Yoshiko', 'Saeki, Tomo', 'Matsumoto, Rica', 'Miyajima, Eri', 'Konishi, Hiroko', 'Jo, Haruhiko']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Akiyama, Katsuhito', 'Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Sushio', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Palme no Ki'
-animeType	b'Movie'
+animeTitle	Palme no Ki
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.54
 animeUsers	2360
 animeRank	
-animePopularity	
-animeDescription	b'Palme is a puppet created by a man to care for his sickly wife. After her death Palme becomes paralyzed with sorrow, that is, until a woman being pursed happens to cross paths with Palme and his creator and ask them to deliver something precious to a sacred place called Tama. Palme, mistaking her for his masters late wife, accepts the request. This becomes his first step to becoming more human in order to understand his own feelings. \n\n(Source: ANN)'
+animePopularity	6298
+animeDescription	"Palme is a puppet created by a man to care for his sickly wife. After her death Palme becomes paralyzed with sorrow, that is, until a woman being pursed happens to cross paths with Palme and his creator and ask them to deliver something precious to a sacred place called Tama. Palme, mistaking her for his masters late wife, accepts the request. This becomes his first step to becoming more human in order to understand his own feelings. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Palme', b'Popo', b'Shatta', b'Mu', b'Pu', b'Koram', b'Roualt']
-animeVoices	[b'\nHiramatsu, Akiko\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nKozakura, Etsuko\nJapanese\n', b'\nKanai, Mika\nJapanese\n', b'\nMotoi, Emi\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Takashi\n\nDirector, Script\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nArai, Akino\n\nTheme Song Performance\n\n', b'\nInoue, Toshiyuki\n\nKey Animation, Character Design\n\n']
+animeCharacters	['Palme', 'Popo', 'Shatta', 'Mu', 'Pu', 'Koram', 'Roualt']
+animeVoices	['Hiramatsu, Akiko', 'Toyoguchi, Megumi', 'Sakaguchi, Daisuke', 'Kozakura, Etsuko', 'Kanai, Mika', 'Motoi, Emi', 'Yamaguchi, Kappei']
+animeStaff	[['Nakamura, Takashi', 'Director, Script'], ['Mima, Masafumi', 'Sound Director'], ['Arai, Akino', 'Theme Song Performance'], ['Inoue, Toshiyuki', 'Key Animation, Character Design']]

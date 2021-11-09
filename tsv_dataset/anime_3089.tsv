@@ -1,4 +1,4 @@
-animeTitle	b'Suna no Wakusei feat. Hatsune Miku'
+animeTitle	Suna no Wakusei feat. Hatsune Miku
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.16
 animeUsers	1503
 animeRank	
-animePopularity	
-animeDescription	"b'Music video for Kenshi Yonezu\'s song Suna no Wakusei feat. Hatsune Miku animated by Minakata Laboratory. The video was also included on the ""Hatsune Miku Magical Mirai 2017"" album.'"
+animePopularity	8842
+animeDescription	"Music video for Kenshi Yonezu's song Suna no Wakusei feat. Hatsune Miku animated by Minakata Laboratory. The video was also included on the ""Hatsune Miku Magical Mirai 2017"" album."
 animeRelated	[]
-animeCharacters	[b'Hatsune, Miku']
+animeCharacters	['Hatsune, Miku']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHatsune, Miku\n\nTheme Song Performance\n\n', b'\nYonezu, Kenshi\n\nMusic\n\n']
+animeStaff	[['Hatsune, Miku', 'Theme Song Performance'], ['Yonezu, Kenshi', 'Music']]

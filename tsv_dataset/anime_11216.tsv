@@ -1,5 +1,5 @@
-animeTitle	b'Hyper-Psychic Geo Garaga'
-animeType	b'Movie'
+animeTitle	Hyper-Psychic Geo Garaga
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.15
 animeUsers	591
 animeRank	
-animePopularity	
-animeDescription	"b""The year is 2755. As a result of a system malfunction, the cargo ship XeBeC goes off-course in a warp gate and ends up within the orbit of the distant planet Garaga. After crashing on Garaga's surface, the crew must find ways to survive from hideous monsters, rabid ape soldiers, and a race of mysterious psychics.\n\n(Source: ANN)"""
-animeRelated	[b'Wakusei Garaga']
-animeCharacters	[b'Jay, Jay M.', b'Heran', b'Borgie', b'Paula', b'General Yun', b'Galliego', b'Elder of Ral', b'Gornue, Kromen', b'General Delabreig', b'Rin']
-animeVoices	[b'\nFurukawa, Toshio\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nYamada, Eiko\nJapanese\n', b'\nKobayashi, Osamu\nJapanese\n', b'\nMaruyama, Eiji\nJapanese\n', b'\nFutamata, Issei\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nShioya, Yoku\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b'\nOkiura, Hiroyuki\n\nKey Animation\n\n', b'\nMiyamae, Mitsuharu\n\nArt Director\n\n', b'\nYoshida, Tooru\n\nKey Animation, Mechanical Design\n\n']
+animePopularity	10269
+animeDescription	"The year is 2755. As a result of a system malfunction, the cargo ship XeBeC goes off-course in a warp gate and ends up within the orbit of the distant planet Garaga. After crashing on Garaga's surface, the crew must find ways to survive from hideous monsters, rabid ape soldiers, and a race of mysterious psychics.
+
+(Source: ANN)"
+animeRelated	['Wakusei Garaga']
+animeCharacters	['Jay, Jay M.', 'Heran', 'Borgie', 'Paula', 'General Yun', 'Galliego', 'Elder of Ral', 'Gornue, Kromen', 'General Delabreig', 'Rin']
+animeVoices	['Furukawa, Toshio', 'Tomizawa, Michie', 'Nagai, Ichiro', 'Yamada, Eiko', 'Kobayashi, Osamu', 'Maruyama, Eiji', 'Futamata, Issei', 'Yamadera, Kouichi', 'Utsumi, Kenji', 'Shioya, Yoku']
+animeStaff	[['Matsuura, Noriyoshi', 'Sound Director'], ['Okiura, Hiroyuki', 'Key Animation'], ['Miyamae, Mitsuharu', 'Art Director'], ['Yoshida, Tooru', 'Key Animation, Mechanical Design']]

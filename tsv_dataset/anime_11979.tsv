@@ -1,5 +1,5 @@
-animeTitle	b'Tenshi no Drop'
-animeType	b'Special'
+animeTitle	Tenshi no Drop
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	3.39
 animeUsers	8967
 animeRank	
-animePopularity	
-animeDescription	"b'Botan Ichige has just enrolled in St. Asmaria All-Girl\'s School where angels are said to live. It turns out that angels do indeed live there, and after an accident, an angel named Un offers Botan her halo as a snack. After eating it, Botan discovers it had some bizarre side-effects, causing her to regularly ""give birth"" to colorful mushrooms. Is this the life of an angel!?\n\n(Source: MU)'"
-animeRelated	[b'Tenshi no Drop']
-animeCharacters	[b'Un', b'Itoko, Shinobu', b'Ichige, Botan', b'Momoko', b'Hibachi']
-animeVoices	[b'\nIgarashi, Hiromi\nJapanese\n', b'\nGotou, Mai\nJapanese\n', b'\nMatsuzaki, Rei\nJapanese\n', b'\nMisawa, Sachika\nJapanese\n', b'\nTatsumi, Yuiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItou, Kouji\n\nDirector, Screenplay, Key Animation\n\n', b'\nFujiwara, Keiji\n\nSound Director\n\n', b'\nNakajima, Chizuna\n\nOriginal Creator\n\n', b'\nHibi, Chieko\n\nColor Design\n\n']
+animePopularity	4603
+animeDescription	"Botan Ichige has just enrolled in St. Asmaria All-Girl's School where angels are said to live. It turns out that angels do indeed live there, and after an accident, an angel named Un offers Botan her halo as a snack. After eating it, Botan discovers it had some bizarre side-effects, causing her to regularly ""give birth"" to colorful mushrooms. Is this the life of an angel!?
+
+(Source: MU)"
+animeRelated	['Tenshi no Drop']
+animeCharacters	['Un', 'Itoko, Shinobu', 'Ichige, Botan', 'Momoko', 'Hibachi']
+animeVoices	['Igarashi, Hiromi', 'Gotou, Mai', 'Matsuzaki, Rei', 'Misawa, Sachika', 'Tatsumi, Yuiko']
+animeStaff	[['Itou, Kouji', 'Director, Screenplay, Key Animation'], ['Fujiwara, Keiji', 'Sound Director'], ['Nakajima, Chizuna', 'Original Creator'], ['Hibi, Chieko', 'Color Design']]

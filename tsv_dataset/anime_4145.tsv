@@ -1,5 +1,5 @@
-animeTitle	b'Uchuu Senkan Yamato: Kanketsu-hen'
-animeType	b'Movie'
+animeTitle	Uchuu Senkan Yamato: Kanketsu-hen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.91
 animeUsers	965
 animeRank	
-animePopularity	
-animeDescription	"b""The year is 2203, not long after the Bolar Federation was defeated by Desslok's Galman-Gamilon Empire. A subspace dimensional dislocation has caused a distant Red Galaxy to be relocated in a collision course with the Milky Way. Stars and planets collide, making a wreck of the Galman-Gamilon homeworld. The Star Force is dispatched to investigate. They reach Galmania to find Desslok's palace in ruins.\n\nAs they pay their respects, tossing white roses down to the surface of the planet, a huge red planet crashes into Galmania, forcing to StarForce to escape with an immediate and uncalculated warp.\n\n(Source: AniDB)"""
-animeRelated	[b'Uchuu Senkan Yamato: Kanketsu-hen', b'Uchuu Senkan Yamato III', b'Uchuu Senkan Yamato: Fukkatsu-hen']
-animeCharacters	[b'Okita, Juuzou', b'Kodai, Susumu', b'Desler, Aberdt', b'Mori, Yuki', b'Sanada, Shirou', b'Shima, Daisuke', b'Narrator', b'Analyzer', b'Sado, Sakezou', b'Shima, Jiro']
-animeVoices	[b'\nNaya, Gorou\nJapanese\n', b'\nTomiyama, Kei\nJapanese\n', b'\nIbu, Masatou\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nNakamura, Shuusei\nJapanese\n', b'\nNakadai, Tatsuya\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsumoto, Leiji\n\nDirector, Original Creator\n\n', b'\nKatsumata, Tomoharu\n\nDirector\n\n', b'\nKanada, Yoshinori\n\nAnimation Director\n\n', b'\nHaneda, Kentarou\n\nMusic\n\n']
+animePopularity	7992
+animeDescription	"The year is 2203, not long after the Bolar Federation was defeated by Desslok's Galman-Gamilon Empire. A subspace dimensional dislocation has caused a distant Red Galaxy to be relocated in a collision course with the Milky Way. Stars and planets collide, making a wreck of the Galman-Gamilon homeworld. The Star Force is dispatched to investigate. They reach Galmania to find Desslok's palace in ruins.
+
+As they pay their respects, tossing white roses down to the surface of the planet, a huge red planet crashes into Galmania, forcing to StarForce to escape with an immediate and uncalculated warp.
+
+(Source: AniDB)"
+animeRelated	['Uchuu Senkan Yamato: Kanketsu-hen', 'Uchuu Senkan Yamato III', 'Uchuu Senkan Yamato: Fukkatsu-hen']
+animeCharacters	['Okita, Juuzou', 'Kodai, Susumu', 'Desler, Aberdt', 'Mori, Yuki', 'Sanada, Shirou', 'Shima, Daisuke', 'Narrator', 'Analyzer', 'Sado, Sakezou', 'Shima, Jiro']
+animeVoices	['Naya, Gorou', 'Tomiyama, Kei', 'Ibu, Masatou', 'Ichiryuusai, Harumi', 'Aono, Takeshi', 'Nakamura, Shuusei', 'Nakadai, Tatsuya', 'Ogata, Kenichi', 'Nagai, Ichiro']
+animeStaff	[['Matsumoto, Leiji', 'Director, Original Creator'], ['Katsumata, Tomoharu', 'Director'], ['Kanada, Yoshinori', 'Animation Director'], ['Haneda, Kentarou', 'Music']]

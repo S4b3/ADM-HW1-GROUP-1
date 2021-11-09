@@ -1,5 +1,5 @@
-animeTitle	b'Balthus: Tia no Kagayaki'
-animeType	b'OVA'
+animeTitle	Balthus: Tia no Kagayaki
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.1
 animeUsers	682
 animeRank	
-animePopularity	
-animeDescription	b'In the village of Le-jeute, all is not well. Over shadowed by the mysterious factory city called Balthus, this peaceful little village are lured into life with the promises of pleasure that await them. But when the workers realize this, its too late to forsake the factory. \n\n(Source: ANN) '
+animePopularity	9499
+animeDescription	"In the village of Le-jeute, all is not well. Over shadowed by the mysterious factory city called Balthus, this peaceful little village are lured into life with the promises of pleasure that await them. But when the workers realize this, its too late to forsake the factory. 
+
+(Source: ANN) "
 animeRelated	[]
-animeCharacters	[b'Morlock', b'Eud', b'Tia', b'Alphonse']
-animeVoices	[b'\nGenda, Tesshou\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nTakada, Yumi\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMakino, Yukihiro\n\nDirector, Mechanical Design, 2nd Key Animation\n\n', b'\nEbisawa, Kazuo\n\nBackground Art\n\n']
+animeCharacters	['Morlock', 'Eud', 'Tia', 'Alphonse']
+animeVoices	['Genda, Tesshou', 'Seki, Toshihiko', 'Takada, Yumi', 'Kosugi, Juurouta']
+animeStaff	[['Makino, Yukihiro', 'Director, Mechanical Design, 2nd Key Animation'], ['Ebisawa, Kazuo', 'Background Art']]

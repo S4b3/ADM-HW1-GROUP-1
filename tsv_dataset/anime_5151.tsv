@@ -1,5 +1,5 @@
-animeTitle	b'Crayon Shin-chan Movie 14: Densetsu wo Yobu Odore! Amigo!'
-animeType	b'Movie'
+animeTitle	Crayon Shin-chan Movie 14: Densetsu wo Yobu Odore! Amigo!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.69
 animeUsers	1545
 animeRank	
-animePopularity	
-animeDescription	"b'An action comedy film based on the ""duplicating humans\' invasion"" setting derived from Jack Finney\'s Sci-Fi novel ""The Body Snatchers"", combining Sci-Fi horror-like story and dance (samba). An authority on biotechnology and a developer of ""konjaclone"" technology, Amigo Suzuki carries out ""Transformation Plans for Samba World"", in which he makes human clones using konjac as a material and makes them dance a samba. In Kasukabe city, people switch places with false ones who look just like the real persons. The Nohara family and the members of Kasukabe Defense Forces try to escape from Kasukabe with the help of a mystery beautiful girl Jacqueline Feeney (Jackie). \n\n(Source: Manabu Tsuribe)'"
-animeRelated	[b'Crayon Shin-chan', b'Crayon Shin-chan Movie 15: Arashi wo Yobu Utau Ketsu dake Bakudan!', b'Crayon Shin-chan Movie 13: Densetsu wo Yobu Buriburi 3 Pun Dai Shingeki']
-animeCharacters	[b'Nohara, Shinnosuke', b'Nohara, Hiroshi', b'Nohara, Misae', b'Boo-chan', b'Kazama, Tooru', b'Sakurada, Nene', b'Suotome, Ai', b'Takakura, Bunta', b'Ageo, Masumi', b'Sato, Masao']
-animeVoices	[b'\nYajima, Akiko\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nNarahashi, Miki\nJapanese\n', b'\nSatou, Chie\nJapanese\n', b'\nMashiba, Mari\nJapanese\n', b'\nHayashi, Tamao\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nNaya, Rokurou\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nIchiryuusai, Teiyuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMutou, Yuuji\n\nDirector, Storyboard\n\n', b'\nOokuma, Akira\n\nSound Director\n\n', b'\nKouda, Kumi\n\nTheme Song Lyrics, Theme Song Performance\n\n', b'\nUsui, Yoshito\n\nOriginal Creator\n\n']
+animePopularity	8226
+animeDescription	"An action comedy film based on the ""duplicating humans' invasion"" setting derived from Jack Finney's Sci-Fi novel ""The Body Snatchers"", combining Sci-Fi horror-like story and dance (samba). An authority on biotechnology and a developer of ""konjaclone"" technology, Amigo Suzuki carries out ""Transformation Plans for Samba World"", in which he makes human clones using konjac as a material and makes them dance a samba. In Kasukabe city, people switch places with false ones who look just like the real persons. The Nohara family and the members of Kasukabe Defense Forces try to escape from Kasukabe with the help of a mystery beautiful girl Jacqueline Feeney (Jackie). 
+
+(Source: Manabu Tsuribe)"
+animeRelated	['Crayon Shin-chan', 'Crayon Shin-chan Movie 15: Arashi wo Yobu Utau Ketsu dake Bakudan!', 'Crayon Shin-chan Movie 13: Densetsu wo Yobu Buriburi 3 Pun Dai Shingeki']
+animeCharacters	['Nohara, Shinnosuke', 'Nohara, Hiroshi', 'Nohara, Misae', 'Boo-chan', 'Kazama, Tooru', 'Sakurada, Nene', 'Suotome, Ai', 'Takakura, Bunta', 'Ageo, Masumi', 'Sato, Masao']
+animeVoices	['Yajima, Akiko', 'Fujiwara, Keiji', 'Narahashi, Miki', 'Satou, Chie', 'Mashiba, Mari', 'Hayashi, Tamao', 'Kawasumi, Ayako', 'Naya, Rokurou', 'Mitsuishi, Kotono', 'Ichiryuusai, Teiyuu']
+animeStaff	[['Mutou, Yuuji', 'Director, Storyboard'], ['Ookuma, Akira', 'Sound Director'], ['Kouda, Kumi', 'Theme Song Lyrics, Theme Song Performance'], ['Usui, Yoshito', 'Original Creator']]

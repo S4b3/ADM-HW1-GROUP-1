@@ -1,5 +1,5 @@
-animeTitle	b'Zekkyou Gakkyuu'
-animeType	b'Special'
+animeTitle	Zekkyou Gakkyuu
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.33
 animeUsers	1895
 animeRank	
-animePopularity	
-animeDescription	b'Three episodes aired on TV as part of the Ribon x Oha Suta specials. '
-animeRelated	[b'Zekkyou Gakkyuu', b'Zekkyou Gakkyuu: Tensei']
-animeCharacters	[b'Yomi']
+animePopularity	7476
+animeDescription	Three episodes aired on TV as part of the Ribon x Oha Suta specials. 
+animeRelated	['Zekkyou Gakkyuu', 'Zekkyou Gakkyuu: Tensei']
+animeCharacters	['Yomi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nALI PROJECT\n\nInserted Song Performance\n\n', b'\nIshikawa, Emi\n\nOriginal Creator\n\n']
+animeStaff	[['ALI PROJECT', 'Inserted Song Performance'], ['Ishikawa, Emi', 'Original Creator']]

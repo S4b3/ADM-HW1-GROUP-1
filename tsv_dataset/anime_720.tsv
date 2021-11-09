@@ -1,5 +1,5 @@
-animeTitle	b'Carnival Phantasm'
-animeType	b'OVA'
+animeTitle	Carnival Phantasm
+animeType	OVA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	7.88
 animeUsers	80928
 animeRank	
-animePopularity	
-animeDescription	"b""How do you resolve a conflict between powerful spirits of famous heroes for a prize capable of granting any wish? Wage a war that will cost your blood, sweat, and tears? Too much work\xe2\x80\x94how about a game-show competition instead?\n\nCarnival Phantasm takes a number of characters from Type-Moon's original works, and puts them in a variety of light-hearted scenarios which parody their respective series. Watch Lancer suffering due to his low luck stat, or watch the egotistical King of Heroes gladly kneel to a dominatrix King of Knights. Just remember to leave your sanity at the door.\n"""
-animeRelated	[b'Take Moon', b'Shingetsutan Tsukihime', b'Fate/stay night', b'Kara no Kyoukai 1: Fukan Fuukei', b'Fate/stay night: Unlimited Blade Works', b'Carnival Phantasm EX Season', b'Carnival Phantasm: Illya-jou', b'Carnival Phantasm: HibiChika Special', b'Fate/Grand Carnival']
-animeCharacters	[b'Saber', b'Toosaka, Rin', b'Emiya, Shirou', b'Brunestud, Arcueid', b'Toono, Shiki', b'Toono, Akiha', b'Emiya, Kiritsugu', b'Gilgamesh', b'Archer', b'Ryougi, Shiki']
-animeVoices	[b'\nKawasumi, Ayako\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nHitomi\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiga, Yuuji\n\nProducer\n\n', b'\nKishi, Seiji\n\nDirector\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nIshida, Tooru\n\nEpisode Director\n\n']
+animePopularity	1032
+animeDescription	"How do you resolve a conflict between powerful spirits of famous heroes for a prize capable of granting any wish? Wage a war that will cost your blood, sweat, and tears? Too much work—how about a game-show competition instead?
+
+Carnival Phantasm takes a number of characters from Type-Moon's original works, and puts them in a variety of light-hearted scenarios which parody their respective series. Watch Lancer suffering due to his low luck stat, or watch the egotistical King of Heroes gladly kneel to a dominatrix King of Knights. Just remember to leave your sanity at the door.
+"
+animeRelated	['Take Moon', 'Shingetsutan Tsukihime', 'Fate/stay night', 'Kara no Kyoukai 1: Fukan Fuukei', 'Fate/stay night: Unlimited Blade Works', 'Carnival Phantasm EX Season', 'Carnival Phantasm: Illya-jou', 'Carnival Phantasm: HibiChika Special', 'Fate/Grand Carnival']
+animeCharacters	['Saber', 'Toosaka, Rin', 'Emiya, Shirou', 'Brunestud, Arcueid', 'Toono, Shiki', 'Toono, Akiha', 'Emiya, Kiritsugu', 'Gilgamesh', 'Archer', 'Ryougi, Shiki']
+animeVoices	['Kawasumi, Ayako', 'Ueda, Kana', 'Sugiyama, Noriaki', 'Yuzuki, Ryouka', 'Nojima, Kenji', 'Hitomi', 'Seki, Tomokazu', 'Suwabe, Junichi']
+animeStaff	[['Higa, Yuuji', 'Producer'], ['Kishi, Seiji', 'Director'], ['Iida, Satoki', 'Sound Director'], ['Ishida, Tooru', 'Episode Director']]

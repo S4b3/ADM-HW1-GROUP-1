@@ -1,5 +1,5 @@
-animeTitle	b'Heli-Tako Puu-chan'
-animeType	b'TV'
+animeTitle	Heli-Tako Puu-chan
+animeType	TV
 animeNumEpisode	42
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Based on the manga by Sasaki Takemaru.'
+animePopularity	16149
+animeDescription	Based on the manga by Sasaki Takemaru.
 animeRelated	[]
-animeCharacters	[b'Puu-chan', b'Porori', b'Narrator']
-animeVoices	[b'\nWatanabe, Kumiko\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nMatsuno, Taiki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHashimoto, Mitsuo\n\nDirector\n\n']
+animeCharacters	['Puu-chan', 'Porori', 'Narrator']
+animeVoices	['Watanabe, Kumiko', 'Mitsuishi, Kotono', 'Matsuno, Taiki']
+animeStaff	[['Hashimoto, Mitsuo', 'Director']]

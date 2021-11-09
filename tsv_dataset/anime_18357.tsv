@@ -1,5 +1,5 @@
-animeTitle	b'Diabolus: Kikoku'
-animeType	b'OVA'
+animeTitle	Diabolus: Kikoku
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.21
 animeUsers	2001
 animeRank	
-animePopularity	
-animeDescription	b'A spirit who takes the form of an attractive male is attacking many female students at a school. Two students discover that the only way to free him from his wandering around Earth is to have him fulfill his desire and so they decide to take a hands on approach and make him rest in peace at last.\n\n(Source: ANN)'
+animePopularity	6567
+animeDescription	"A spirit who takes the form of an attractive male is attacking many female students at a school. Two students discover that the only way to free him from his wandering around Earth is to have him fulfill his desire and so they decide to take a hands on approach and make him rest in peace at last.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Komaki, Madoka', b'Asahina, Yuki', b'Sayako']
-animeVoices	[b'\nOno, Ryouko\nJapanese\n', b'\nKawada, Shinji\nJapanese\n', b'\nAsai, Kiyomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUsui, Fumiaki\n\nKey Animation\n\n', b'\nMatsui, Shinya\n\nDirector of Photography\n\n']
+animeCharacters	['Komaki, Madoka', 'Asahina, Yuki', 'Sayako']
+animeVoices	['Ono, Ryouko', 'Kawada, Shinji', 'Asai, Kiyomi']
+animeStaff	[['Usui, Fumiaki', 'Key Animation'], ['Matsui, Shinya', 'Director of Photography']]

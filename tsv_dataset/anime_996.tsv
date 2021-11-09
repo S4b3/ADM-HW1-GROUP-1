@@ -1,5 +1,5 @@
-animeTitle	b'Free! Movie 3: Road to the World - Yume'
-animeType	b'Movie'
+animeTitle	Free! Movie 3: Road to the World - Yume
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.73
 animeUsers	4010
 animeRank	
-animePopularity	
-animeDescription	b'Recap of the Free!: Dive to the Future TV series featuring new scenes.'
-animeRelated	[b'Free!: Dive to the Future']
-animeCharacters	[b'Tachibana, Makoto', b'Hazuki, Nagisa', b'Ryuugazaki, Rei', b'Matsuoka, Rin', b'Nanase, Haruka', b'Yamazaki, Sousuke', b'Matsuoka, Gou', b'Mikoshiba, Momotarou', b'Shigino, Kisumi', b'Nitori, Aiichirou']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyano, Mamoru\n\nTheme Song Performance\n\n', b'\nSuzuki, Tatsuhisa\n\nTheme Song Performance\n\n', b'\nShimazaki, Nobunaga\n\nTheme Song Performance\n\n', b'\nHirakawa, Daisuke\n\nTheme Song Performance\n\n']
+animePopularity	3925
+animeDescription	Recap of the Free!: Dive to the Future TV series featuring new scenes.
+animeRelated	['Free!: Dive to the Future']
+animeCharacters	['Tachibana, Makoto', 'Hazuki, Nagisa', 'Ryuugazaki, Rei', 'Matsuoka, Rin', 'Nanase, Haruka', 'Yamazaki, Sousuke', 'Matsuoka, Gou', 'Mikoshiba, Momotarou', 'Shigino, Kisumi', 'Nitori, Aiichirou']
+animeVoices	['Miyano, Mamoru']
+animeStaff	[['Miyano, Mamoru', 'Theme Song Performance'], ['Suzuki, Tatsuhisa', 'Theme Song Performance'], ['Shimazaki, Nobunaga', 'Theme Song Performance'], ['Hirakawa, Daisuke', 'Theme Song Performance']]

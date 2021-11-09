@@ -1,5 +1,5 @@
-animeTitle	b'Renai Fuyou Gakuha The Animation'
-animeType	b'OVA'
+animeTitle	Renai Fuyou Gakuha The Animation
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.82
 animeUsers	1935
 animeRank	
-animePopularity	
-animeDescription	b'Based on the adult manga by Yasui Riosuke. \n\nA story about a school where a sadistic boy and a masochist girl have lots of sex.\n\n'
-animeRelated	[b'Renai Fuyou Gakuha']
-animeCharacters	[b'Fujishima, Takano', b'Musashino, Futaba', b'Konoe, Chiyomaru']
+animePopularity	6819
+animeDescription	"Based on the adult manga by Yasui Riosuke. 
+
+A story about a school where a sadistic boy and a masochist girl have lots of sex.
+
+"
+animeRelated	['Renai Fuyou Gakuha']
+animeCharacters	['Fujishima, Takano', 'Musashino, Futaba', 'Konoe, Chiyomaru']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nRaika, Ken\n\nDirector\n\n', b'\nSawayama, Shinichiro\n\nScript\n\n', b'\nDoshida, Tomoaki\n\nStoryboard\n\n', b'\nYasui, Riosuke\n\nOriginal Creator\n\n']
+animeStaff	[['Raika, Ken', 'Director'], ['Sawayama, Shinichiro', 'Script'], ['Doshida, Tomoaki', 'Storyboard'], ['Yasui, Riosuke', 'Original Creator']]

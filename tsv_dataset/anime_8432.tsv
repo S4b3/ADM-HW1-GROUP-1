@@ -1,5 +1,5 @@
-animeTitle	b'Yumemiru Topo Gigio'
-animeType	b'TV'
+animeTitle	Yumemiru Topo Gigio
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.05
 animeUsers	375
 animeRank	
-animePopularity	
-animeDescription	b'Created by Maria Perego, Topo Gigio has been a beloved character for more than two decades. This animated TV series features numerous exciting stories and introduces many friends.\n\nTopo Gigio is the first mouse astronaut to travel the Milky Way. Can a mouse become an astronaut? Well, Topo Gigio has come from a year 2,388,400 years ahead in the future. He is friendly and can talk with humans. He makes friends with his neighbors including a girl, her pet mouse, cats, and other mice.\n\n(Source: AniDB)'
-animeRelated	[b'Topo Gigio']
-animeCharacters	[b'Gigio, Topo', b'Alunor', b'Kato', b'Gina', b'Mimi', b'Megaro']
-animeVoices	[b'\nNakao, Ryusei\nJapanese\n', b'\nYada, Minoru\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nYamano, Satoko\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiguro, Noboru\n\nDirector, Storyboard\n\n', b'\nKoshi, Shigeo\n\nDirector, Storyboard\n\n', b'\nWatanabe, Mami\n\nScript\n\n', b'\nNitta, Yoshikata\n\nStoryboard\n\n']
+animePopularity	11622
+animeDescription	"Created by Maria Perego, Topo Gigio has been a beloved character for more than two decades. This animated TV series features numerous exciting stories and introduces many friends.
+
+Topo Gigio is the first mouse astronaut to travel the Milky Way. Can a mouse become an astronaut? Well, Topo Gigio has come from a year 2,388,400 years ahead in the future. He is friendly and can talk with humans. He makes friends with his neighbors including a girl, her pet mouse, cats, and other mice.
+
+(Source: AniDB)"
+animeRelated	['Topo Gigio']
+animeCharacters	['Gigio, Topo', 'Alunor', 'Kato', 'Gina', 'Mimi', 'Megaro']
+animeVoices	['Nakao, Ryusei', 'Yada, Minoru', 'Ogata, Kenichi', 'Yamano, Satoko', 'Mizutani, Yuuko', 'Gouri, Daisuke']
+animeStaff	[['Ishiguro, Noboru', 'Director, Storyboard'], ['Koshi, Shigeo', 'Director, Storyboard'], ['Watanabe, Mami', 'Script'], ['Nitta, Yoshikata', 'Storyboard']]

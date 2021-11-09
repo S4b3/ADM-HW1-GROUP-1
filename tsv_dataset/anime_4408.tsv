@@ -1,5 +1,5 @@
-animeTitle	b'Captain Tsubasa: Saikyou no Teki! Holland Youth'
-animeType	b'OVA'
+animeTitle	Captain Tsubasa: Saikyou no Teki! Holland Youth
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.85
 animeUsers	1959
 animeRank	
-animePopularity	
-animeDescription	b'The last Captain Tsubasa movie is about the match between Japan and Holland. After the Japanese team lost two games against this apparently supreme opponent, their confidence is at its lowest point and even Hyuga, having a hurt leg, is desperate. Thus the management tries everything to convince Wakabayashi (living in Germany) and Tsubasa (living in Brazil) to come to Holland and to help them, but both deny. Only in the second half of the third game Tsubasa appears and joins the team, giving them back their confidence and strength. With Tsubasa Ozora as their captain again, the last game ends 11:1 for Japan.\n\n(Source: ANN)'
-animeRelated	[b'Captain Tsubasa: World Youth Tokubetsu-hen - Saikyou no Teki! Holland Youth', b'Captain Tsubasa', b'Shin Captain Tsubasa']
-animeCharacters	[b'Oozora, Tsubasa', b'Wakabayashi, Genzou', b'Hyuuga, Kojirou', b'Misaki, Tarou', b'Nakazawa, Sanae', b'Matsuyama, Hikaru', b'Jito, Hiroshi']
-animeVoices	[b'\nMiki, Shinichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKogawa, Yoriyasu\n\nDirector, Storyboard, Screenplay\n\n', b'\nTakahashi, Yoichi\n\nOriginal Creator\n\n', b'\nNoguchi, Tooru\n\nSound Effects\n\n', b'\nKajitani, Mitsuharu\n\nKey Animation\n\n']
+animePopularity	7502
+animeDescription	"The last Captain Tsubasa movie is about the match between Japan and Holland. After the Japanese team lost two games against this apparently supreme opponent, their confidence is at its lowest point and even Hyuga, having a hurt leg, is desperate. Thus the management tries everything to convince Wakabayashi (living in Germany) and Tsubasa (living in Brazil) to come to Holland and to help them, but both deny. Only in the second half of the third game Tsubasa appears and joins the team, giving them back their confidence and strength. With Tsubasa Ozora as their captain again, the last game ends 11:1 for Japan.
+
+(Source: ANN)"
+animeRelated	['Captain Tsubasa: World Youth Tokubetsu-hen - Saikyou no Teki! Holland Youth', 'Captain Tsubasa', 'Shin Captain Tsubasa']
+animeCharacters	['Oozora, Tsubasa', 'Wakabayashi, Genzou', 'Hyuuga, Kojirou', 'Misaki, Tarou', 'Nakazawa, Sanae', 'Matsuyama, Hikaru', 'Jito, Hiroshi']
+animeVoices	['Miki, Shinichiro']
+animeStaff	[['Kogawa, Yoriyasu', 'Director, Storyboard, Screenplay'], ['Takahashi, Yoichi', 'Original Creator'], ['Noguchi, Tooru', 'Sound Effects'], ['Kajitani, Mitsuharu', 'Key Animation']]

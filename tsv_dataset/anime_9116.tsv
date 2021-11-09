@@ -1,5 +1,5 @@
-animeTitle	b'Miracle Shoujo Limit-chan'
-animeType	b'TV'
+animeTitle	Miracle Shoujo Limit-chan
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.87
 animeUsers	130
 animeRank	
-animePopularity	
-animeDescription	b'As a result of a traffic accident, Limit-chan is reborn as a cyborg and is given three types of supernatural powers. However, there is a catch: if she uses too much of them, her life will come to an end.\n\n(Source: ANN)'
+animePopularity	12040
+animeDescription	"As a result of a traffic accident, Limit-chan is reborn as a cyborg and is given three types of supernatural powers. However, there is a catch: if she uses too much of them, her life will come to an end.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Nishiyama, Satomi']
+animeCharacters	['Nishiyama, Satomi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOosugi, Kumiko\n\nTheme Song Performance\n\n', b'\nKikuchi, Shunsuke\n\nMusic\n\n', b'\nKomatsubara, Kazuo\n\nCharacter Design, Animation Director\n\n', b'\nYukimuro, Shunichi\n\nScreenplay\n\n']
+animeStaff	[['Oosugi, Kumiko', 'Theme Song Performance'], ['Kikuchi, Shunsuke', 'Music'], ['Komatsubara, Kazuo', 'Character Design, Animation Director'], ['Yukimuro, Shunichi', 'Screenplay']]

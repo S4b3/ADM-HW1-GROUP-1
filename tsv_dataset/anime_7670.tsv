@@ -1,5 +1,5 @@
-animeTitle	b'Ashita no Joe Pilots'
-animeType	b'Special'
+animeTitle	Ashita no Joe Pilots
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.2
 animeUsers	1605
 animeRank	
-animePopularity	
-animeDescription	b'Pilot episodes.'
-animeRelated	[b'Ashita no Joe']
-animeCharacters	[b'Yabuki, Joe', b'Rikiishi, Tooru', b'Tange, Danpei', b'Aoyama, Mamoru']
-animeVoices	[b'\nTomiyama, Kei\nJapanese\n', b'\nFujioka, Juukei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Osamu\n\nDirector, Storyboard\n\n', b'\nWatanabe, Takeshi\n\nBackground Art\n\n']
+animePopularity	7697
+animeDescription	Pilot episodes.
+animeRelated	['Ashita no Joe']
+animeCharacters	['Yabuki, Joe', 'Rikiishi, Tooru', 'Tange, Danpei', 'Aoyama, Mamoru']
+animeVoices	['Tomiyama, Kei', 'Fujioka, Juukei']
+animeStaff	[['Dezaki, Osamu', 'Director, Storyboard'], ['Watanabe, Takeshi', 'Background Art']]

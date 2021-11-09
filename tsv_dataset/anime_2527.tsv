@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam Thunderbolt 2nd Season'
-animeType	b'ONA'
+animeTitle	Mobile Suit Gundam Thunderbolt 2nd Season
+animeType	ONA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.27
 animeUsers	9021
 animeRank	
-animePopularity	
-animeDescription	b'The second season of Mobile Suit Gundam Thunderbolt.'
-animeRelated	[b'Kidou Senshi Gundam Thunderbolt', b'Mobile Suit Gundam Thunderbolt', b'Mobile Suit Gundam Thunderbolt: Bandit Flower']
-animeCharacters	[b'Fleming, Io', b'Lorenz, Daryl', b'Carlyle, Bianca', b'Mitchum, Karla', b'Peer, Claudia', b'Morse, Sebastian', b'Ness, Fisher', b'Hickam, Billy', b'Kaka, Cornelius', b'Pike, Vincent']
-animeVoices	[b'\nNakamura, Yuuichi\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nFurukawa, Yurina\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nYukinari, Toa\nJapanese\n', b'\nUeda, Youji\nJapanese\n', b'\nKoyama, Tsuyoshi\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuo, Kou\n\nDirector, Episode Director, Storyboard\n\n', b'\nYoshizawa, Toshikazu\n\nEpisode Director\n\n', b'\nOotagaki, Yasuo\n\nOriginal Creator\n\n', b'\nTakaya, Hirotoshi\n\nKey Animation, Character Design, Animation Director\n\n']
+animePopularity	4165
+animeDescription	The second season of Mobile Suit Gundam Thunderbolt.
+animeRelated	['Kidou Senshi Gundam Thunderbolt', 'Mobile Suit Gundam Thunderbolt', 'Mobile Suit Gundam Thunderbolt: Bandit Flower']
+animeCharacters	['Fleming, Io', 'Lorenz, Daryl', 'Carlyle, Bianca', 'Mitchum, Karla', 'Peer, Claudia', 'Morse, Sebastian', 'Ness, Fisher', 'Hickam, Billy', 'Kaka, Cornelius', 'Pike, Vincent']
+animeVoices	['Nakamura, Yuuichi', 'Kimura, Ryouhei', 'Furukawa, Yurina', 'Ohara, Sayaka', 'Yukinari, Toa', 'Ueda, Youji', 'Koyama, Tsuyoshi', 'Oosaka, Ryouta', 'Hirakawa, Daisuke', 'Sugita, Tomokazu']
+animeStaff	[['Matsuo, Kou', 'Director, Episode Director, Storyboard'], ['Yoshizawa, Toshikazu', 'Episode Director'], ['Ootagaki, Yasuo', 'Original Creator'], ['Takaya, Hirotoshi', 'Key Animation, Character Design, Animation Director']]

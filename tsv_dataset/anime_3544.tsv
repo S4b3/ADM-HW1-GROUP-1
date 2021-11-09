@@ -1,5 +1,5 @@
-animeTitle	b'Shin Getter Robo tai Neo Getter Robo'
-animeType	b'OVA'
+animeTitle	Shin Getter Robo tai Neo Getter Robo
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.06
 animeUsers	2416
 animeRank	
-animePopularity	
-animeDescription	"b""Years after the defeat of the Reptilian Empire, Getter Team has begun training on a new super robot, Neo Getter Robo. But a surprise attack from the Empire's revived leader forces them to recruit a street fighter named Go Ichimonji as Getter One's pilot. Faced with an enormously powerful foe, the new team's only hope for victory may lie in the resurrection of the lost weapon of humanity, Shin Getter Robo.\n\n(Source: ANN)"""
-animeRelated	[b'Getter Robo', b'Getter Robo Go', b'Dynamic Super Robots Soushingekki']
-animeCharacters	[b'Nagare, Ryouma', b'Jin, Hayato', b'Ichimonji, Go', b'Daido, Gai', b'Tachibana, Sho', b'Tomoe, Musashi', b'Professor Saotome', b'Shikishima', b'Bat', b'King, Jack']
-animeVoices	[b'\nIshikawa, Hideo\nJapanese\n', b'\nUchida, Naoya\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nSakurai, Toshiharu\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n', b'\nTomita, Kousei\nJapanese\n', b'\nYanami, Jouji\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nNishiwaki, Tamotsu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Shigeru\n\nProducer\n\n', b'\nKawagoe, Jun\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nTerahigashi, Katsumi\n\nStoryboard\n\n']
+animePopularity	7061
+animeDescription	"Years after the defeat of the Reptilian Empire, Getter Team has begun training on a new super robot, Neo Getter Robo. But a surprise attack from the Empire's revived leader forces them to recruit a street fighter named Go Ichimonji as Getter One's pilot. Faced with an enormously powerful foe, the new team's only hope for victory may lie in the resurrection of the lost weapon of humanity, Shin Getter Robo.
+
+(Source: ANN)"
+animeRelated	['Getter Robo', 'Getter Robo Go', 'Dynamic Super Robots Soushingekki']
+animeCharacters	['Nagare, Ryouma', 'Jin, Hayato', 'Ichimonji, Go', 'Daido, Gai', 'Tachibana, Sho', 'Tomoe, Musashi', 'Professor Saotome', 'Shikishima', 'Bat', 'King, Jack']
+animeVoices	['Ishikawa, Hideo', 'Uchida, Naoya', 'Sakurai, Takahiro', 'Sakurai, Toshiharu', 'Asakawa, Yuu', 'Tomita, Kousei', 'Yanami, Jouji', 'Wakamoto, Norio', 'Nishiwaki, Tamotsu']
+animeStaff	[['Watanabe, Shigeru', 'Producer'], ['Kawagoe, Jun', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Terahigashi, Katsumi', 'Storyboard']]

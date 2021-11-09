@@ -1,5 +1,5 @@
-animeTitle	b'Seikon no Qwaser Picture Drama'
-animeType	b'Special'
+animeTitle	Seikon no Qwaser Picture Drama
+animeType	Special
 animeNumEpisode	16
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.96
 animeUsers	5137
 animeRank	
-animePopularity	
-animeDescription	b'BD specials.'
-animeRelated	[b'Seikon no Qwaser']
-animeCharacters	[b'Kurae, Ekaterina', b'Oribe, Mafuyu', b'Yamanobe, Tomo', b'Katsuragi, Hana', b'Mitarai, Fumika', b'Tsujidou, Miyuri']
-animeVoices	[b'\nHirano, Aya\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKaneko, Hiraku\n\nDirector\n\n', b'\nYoshino, Hiroyuki\n\nOriginal Creator\n\n', b'\nSatou, Kenetsu\n\nOriginal Character Design\n\n', b'\nYamatani, Naoto\n\nSound Effects\n\n']
+animePopularity	4470
+animeDescription	BD specials.
+animeRelated	['Seikon no Qwaser']
+animeCharacters	['Kurae, Ekaterina', 'Oribe, Mafuyu', 'Yamanobe, Tomo', 'Katsuragi, Hana', 'Mitarai, Fumika', 'Tsujidou, Miyuri']
+animeVoices	['Hirano, Aya', 'Fujimura, Ayumi', 'Toyosaki, Aki', 'Hikasa, Youko', 'Hanazawa, Kana', 'Kawasumi, Ayako']
+animeStaff	[['Kaneko, Hiraku', 'Director'], ['Yoshino, Hiroyuki', 'Original Creator'], ['Satou, Kenetsu', 'Original Character Design'], ['Yamatani, Naoto', 'Sound Effects']]

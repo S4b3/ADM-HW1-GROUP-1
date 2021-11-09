@@ -1,5 +1,5 @@
-animeTitle	b'Magi: The Labyrinth of Magic'
-animeType	b'TV'
+animeTitle	Magi: The Labyrinth of Magic
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.04
 animeUsers	460550
 animeRank	
-animePopularity	
-animeDescription	"b'Dispersed around the world, there are several bizarre labyrinths hiding incredible treasures within them. These mysterious places, known as ""Dungeons,"" are said to be the work of Magi, a class of rare magicians, who also help people build their empires by guiding them to a dungeon. Djinns, supernatural beings that rule over the labyrinths, grant successful conquerors access to their immense power and choose them as potential king candidates to rule the world.\n\nHaving spent life in isolation, Aladdin, a kind and young magician, is eager to explore the world upon finally leaving his home behind. He begins his journey only accompanied by his mentor Ugo\xe2\x80\x94a djinn that Aladdin can summon with his flute. However, Aladdin soon becomes friends with the courageous Alibaba Saluja after causing the destruction of a local merchant\'s supply cart. In order to pay for the damages, Alibaba suggests that they attempt to conquer the nearest dungeon, taking the first step in an epic adventure that will decide the fate of the world itself.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Magi', b'Magi: The Kingdom of Magic', b'Magi: Sinbad no Bouken (TV)']
-animeCharacters	"[b'Morgiana', b'Saluja, Alibaba', b'Aladdin', b'Sinbad', b'Judar', b'Ren, Hakuryuu', b""Ja'far"", b'Ren, Kougyoku', b'Ren, Kouha', b'Ren, Kouen']"
-animeVoices	[b'\nTomatsu, Haruka\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nIshihara, Kaori\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSaitou, Shunsuke\n\nProducer\n\n', b'\nOchikoshi, Tomonori\n\nProducer\n\n', b'\nMasunari, Koji\n\nDirector\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n']
+animePopularity	123
+animeDescription	"Dispersed around the world, there are several bizarre labyrinths hiding incredible treasures within them. These mysterious places, known as ""Dungeons,"" are said to be the work of Magi, a class of rare magicians, who also help people build their empires by guiding them to a dungeon. Djinns, supernatural beings that rule over the labyrinths, grant successful conquerors access to their immense power and choose them as potential king candidates to rule the world.
+
+Having spent life in isolation, Aladdin, a kind and young magician, is eager to explore the world upon finally leaving his home behind. He begins his journey only accompanied by his mentor Ugo—a djinn that Aladdin can summon with his flute. However, Aladdin soon becomes friends with the courageous Alibaba Saluja after causing the destruction of a local merchant's supply cart. In order to pay for the damages, Alibaba suggests that they attempt to conquer the nearest dungeon, taking the first step in an epic adventure that will decide the fate of the world itself.
+
+[Written by MAL Rewrite]"
+animeRelated	['Magi', 'Magi: The Kingdom of Magic', 'Magi: Sinbad no Bouken (TV)']
+animeCharacters	"['Morgiana', 'Saluja, Alibaba', 'Aladdin', 'Sinbad', 'Judar', 'Ren, Hakuryuu', ""Ja'far"", 'Ren, Kougyoku', 'Ren, Kouha', 'Ren, Kouen']"
+animeVoices	['Tomatsu, Haruka', 'Kaji, Yuki', 'Ishihara, Kaori', 'Ono, Daisuke', 'Kimura, Ryouhei', 'Ono, Kensho', 'Sakurai, Takahiro', 'Hanazawa, Kana', 'Nakamura, Yuuichi']
+animeStaff	[['Saitou, Shunsuke', 'Producer'], ['Ochikoshi, Tomonori', 'Producer'], ['Masunari, Koji', 'Director'], ['Kikuta, Hiromi', 'Sound Director']]

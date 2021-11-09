@@ -1,5 +1,5 @@
-animeTitle	b'Hentatsu (TV)'
-animeType	b'TV'
+animeTitle	Hentatsu (TV)
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.15
 animeUsers	1317
 animeRank	
-animePopularity	
-animeDescription	b'Hentatsu follows two girls exploring a seemingly abandoned version of Nakano Broadway, a Tokyo shopping mall known for Mandarake and other shops catering to fans of anime and other forms of pop culture.\n\n(Source: AnimeNewsNetwork)'
-animeRelated	[b'Hentatsu', b'Hentatsu (TV) Recap']
-animeCharacters	[b'Oni', b'Neko']
-animeVoices	[b'\nTakasugi, Kaoru\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTatsuki\n\nDirector\n\n', b'\nIsa, Yoshihisa\n\nKey Animation\n\n']
+animePopularity	7101
+animeDescription	"Hentatsu follows two girls exploring a seemingly abandoned version of Nakano Broadway, a Tokyo shopping mall known for Mandarake and other shops catering to fans of anime and other forms of pop culture.
+
+(Source: AnimeNewsNetwork)"
+animeRelated	['Hentatsu', 'Hentatsu (TV) Recap']
+animeCharacters	['Oni', 'Neko']
+animeVoices	['Takasugi, Kaoru', 'Kadowaki, Mai']
+animeStaff	[['Tatsuki', 'Director'], ['Isa, Yoshihisa', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hoshi no Koe'
-animeType	b'OVA'
+animeTitle	Hoshi no Koe
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.18
 animeUsers	72391
 animeRank	
-animePopularity	
-animeDescription	"b""It is the year 2046, Noboru Terao and Mikako Nagamine are close friends who will soon be graduating junior high school. But after an alien attack on humanity, Mikako is selected for the UN military space expedition set to retaliate against the aliens. Separated, Noboru and Mikako attempt to keep in touch by sending emails to each other with their cell phones. Yet as the expedition journeys farther from Earth, the time it takes for them to transmit and receive each other's messages increases substantially.\n\nHoshi no Koe revolves around the relationship between this couple as they try to stay connected despite the growing distance between them.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Hoshi no Koe', b'Hoshi no Koe: The Voices of a Distant Star']
-animeCharacters	[b'Nagamine, Mikako', b'Terao, Noboru']
-animeVoices	[b'\nMutou, Sumi\nJapanese\n', b'\nSuzuki, Chihiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinkai, Makoto\n\nProducer, Director, Script, Executive Producer, Character Design, Animation Director\n\n', b'\nTenmon\n\nTheme Song Composition, Theme Song Arrangement, Music\n\n', b'\nFoster, Steven\n\nADR Director\n\n']
+animePopularity	1255
+animeDescription	"It is the year 2046, Noboru Terao and Mikako Nagamine are close friends who will soon be graduating junior high school. But after an alien attack on humanity, Mikako is selected for the UN military space expedition set to retaliate against the aliens. Separated, Noboru and Mikako attempt to keep in touch by sending emails to each other with their cell phones. Yet as the expedition journeys farther from Earth, the time it takes for them to transmit and receive each other's messages increases substantially.
+
+Hoshi no Koe revolves around the relationship between this couple as they try to stay connected despite the growing distance between them.
+
+[Written by MAL Rewrite]"
+animeRelated	['Hoshi no Koe', 'Hoshi no Koe: The Voices of a Distant Star']
+animeCharacters	['Nagamine, Mikako', 'Terao, Noboru']
+animeVoices	['Mutou, Sumi', 'Suzuki, Chihiro']
+animeStaff	[['Shinkai, Makoto', 'Producer, Director, Script, Executive Producer, Character Design, Animation Director'], ['Tenmon', 'Theme Song Composition, Theme Song Arrangement, Music'], ['Foster, Steven', 'ADR Director']]

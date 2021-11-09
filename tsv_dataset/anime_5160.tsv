@@ -1,5 +1,5 @@
-animeTitle	b'Kakegurui Picture Drama'
-animeType	b'Special'
+animeTitle	Kakegurui Picture Drama
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.69
 animeUsers	8808
 animeRank	
-animePopularity	
-animeDescription	b'Picture drama episodes included on the DVD/Blu-ray Volumes of Kakegurui.'
-animeRelated	[b'Kakegurui']
-animeCharacters	[b'Jabami, Yumeko', b'Saotome, Mary']
+animePopularity	3607
+animeDescription	Picture drama episodes included on the DVD/Blu-ray Volumes of Kakegurui.
+animeRelated	['Kakegurui']
+animeCharacters	['Jabami, Yumeko', 'Saotome, Mary']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nNaomura, Tooru\n\nOriginal Character Design\n\n', b'\nKawamoto, Homura\n\nOriginal Creator\n\n']
+animeStaff	[['Naomura, Tooru', 'Original Character Design'], ['Kawamoto, Homura', 'Original Creator']]

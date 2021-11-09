@@ -1,5 +1,5 @@
-animeTitle	b'Lovedol: Lovely Idol OVA'
-animeType	b'OVA'
+animeTitle	Lovedol: Lovely Idol OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.09
 animeUsers	493
 animeRank	
-animePopularity	
-animeDescription	"b'This is a special episode of Lovedol. It\'s also called episode 13 of the series.\n\nLovedol, or Lovely Idol, is a girl group consisting of two generations of idols. The 3rd Generation is about to make its debut, but to their surprise, they have been delayed! The vague reason is only that ""they lack something."" The manager, and the 3rd Gen. girls too, must find the answer.\n'"
-animeRelated	[b'Lovedol: Lovely Idol']
-animeCharacters	[b'Sakaki, Mizuki', b'Fujisawa, Ruri', b'Nekoya, Miu', b'Kiryuu, Kotoha', b'Houjou, Hina', b'Nonomiya, Mai', b'Fujisawa, Tomohiro']
+animePopularity	9727
+animeDescription	"This is a special episode of Lovedol. It's also called episode 13 of the series.
+
+Lovedol, or Lovely Idol, is a girl group consisting of two generations of idols. The 3rd Generation is about to make its debut, but to their surprise, they have been delayed! The vague reason is only that ""they lack something."" The manager, and the 3rd Gen. girls too, must find the answer.
+"
+animeRelated	['Lovedol: Lovely Idol']
+animeCharacters	['Sakaki, Mizuki', 'Fujisawa, Ruri', 'Nekoya, Miu', 'Kiryuu, Kotoha', 'Houjou, Hina', 'Nonomiya, Mai', 'Fujisawa, Tomohiro']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nNishimata, Aoi\n\nOriginal Character Design\n\n']
+animeStaff	[['Ebina, Yasunori', 'Sound Director'], ['Nishimata, Aoi', 'Original Character Design']]

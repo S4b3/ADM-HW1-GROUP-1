@@ -1,5 +1,5 @@
-animeTitle	b'Gintama\xc2\xb0: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue'
-animeType	b'Special'
+animeTitle	Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.12
 animeUsers	13598
 animeRank	
-animePopularity	
-animeDescription	"b""The Gintama crew gets together to present a preview for the upcoming arc, the biggest ever in the anime's history, and also discuss the difficulties involved in producing one mid-season. \n\n(Source: Crunchyroll)"""
-animeRelated	[b'Gintama\xc2\xb0']
-animeCharacters	[b'Sakata, Gintoki', b'Kagura', b'Shimura, Shinpachi', b'Katsura, Kotarou', b'Hijikata, Toushirou', b'Okita, Sougo', b'Takasugi, Shinsuke', b'Hasegawa, Taizou', b'Kondou, Isao', b'Sarutobi, Ayame']
-animeVoices	[b'\nSugita, Tomokazu\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nTachiki, Fumihiko\nJapanese\n', b'\nChiba, Susumu\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujita, Youichi\n\nDirector\n\n', b'\nSorachi, Hideaki\n\nOriginal Creator\n\n', b'\nSasaki, Youhei\n\nKey Animation\n\n']
+animePopularity	3370
+animeDescription	"The Gintama crew gets together to present a preview for the upcoming arc, the biggest ever in the anime's history, and also discuss the difficulties involved in producing one mid-season. 
+
+(Source: Crunchyroll)"
+animeRelated	['Gintama°']
+animeCharacters	['Sakata, Gintoki', 'Kagura', 'Shimura, Shinpachi', 'Katsura, Kotarou', 'Hijikata, Toushirou', 'Okita, Sougo', 'Takasugi, Shinsuke', 'Hasegawa, Taizou', 'Kondou, Isao', 'Sarutobi, Ayame']
+animeVoices	['Sugita, Tomokazu', 'Kugimiya, Rie', 'Sakaguchi, Daisuke', 'Nakai, Kazuya', 'Suzumura, Kenichi', 'Koyasu, Takehito', 'Tachiki, Fumihiko', 'Chiba, Susumu', 'Kobayashi, Yuu']
+animeStaff	[['Fujita, Youichi', 'Director'], ['Sorachi, Hideaki', 'Original Creator'], ['Sasaki, Youhei', 'Key Animation']]

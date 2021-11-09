@@ -1,5 +1,5 @@
-animeTitle	b'Area no Kishi'
-animeType	b'TV'
+animeTitle	Area no Kishi
+animeType	TV
 animeNumEpisode	37
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.2
 animeUsers	29401
 animeRank	
-animePopularity	
-animeDescription	"b""Kakeru and Suguru are brothers who both have a flaming passion for soccer. However, while Suguru becomes a rising star in the Japanese youth soccer system, Kakeru decides to take on a managerial role after struggling on the field. But due to a cruel twist of fate, Kakeru ends up reevaluating the role he has chosen.\n\nIn hopes of one day being able to enter the World Cup by becoming a member of the national team, Kakeru trains harder than anyone else. He isn\xe2\x80\x99t alone in this quest for glory, though. Kakeru's childhood friend, Nana, is a soccer prodigy of her own, with the wicked nickname \xe2\x80\x9cLittle Witch\xe2\x80\x9d. She is a top-ranked player and is already playing for Nadeshiko Japan, the Japanese women\xe2\x80\x99s national team. Nana's success gives Kakeru the extra push he needs to reach for his goals.\n\nSoccer and adolescent fervor combine for an epic, emotional ride. Check it out for yourself in Area no Kishi!"""
-animeRelated	[b'Area no Kishi']
-animeCharacters	[b'Aizawa, Kakeru', b'Mishima, Nana', b'Aizawa, Suguru', b'Araki, Ryuuichi', b'Murasaki, Mai', b'Aizawa, Mito', b'Oda, Ryoma', b'Matoba, Kaoru', b'Iwaki, Teppei', b'Silva, Leonardo']
-animeVoices	[b'\nSanpei, Yuuko\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nSudou, Saori\nJapanese\n', b'\nShindou, Kei\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nYonaga, Tsubasa\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nShiratori, Tetsu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOgura, Hirofumi\n\nDirector\n\n', b'\nOokuma, Akira\n\nSound Director\n\n', b'\nIshida, Tooru\n\nEpisode Director\n\n', b'\nSaito, Noriaki\n\nStoryboard\n\n']
+animePopularity	2136
+animeDescription	"Kakeru and Suguru are brothers who both have a flaming passion for soccer. However, while Suguru becomes a rising star in the Japanese youth soccer system, Kakeru decides to take on a managerial role after struggling on the field. But due to a cruel twist of fate, Kakeru ends up reevaluating the role he has chosen.
+
+In hopes of one day being able to enter the World Cup by becoming a member of the national team, Kakeru trains harder than anyone else. He isn’t alone in this quest for glory, though. Kakeru's childhood friend, Nana, is a soccer prodigy of her own, with the wicked nickname “Little Witch”. She is a top-ranked player and is already playing for Nadeshiko Japan, the Japanese women’s national team. Nana's success gives Kakeru the extra push he needs to reach for his goals.
+
+Soccer and adolescent fervor combine for an epic, emotional ride. Check it out for yourself in Area no Kishi!"
+animeRelated	['Area no Kishi']
+animeCharacters	['Aizawa, Kakeru', 'Mishima, Nana', 'Aizawa, Suguru', 'Araki, Ryuuichi', 'Murasaki, Mai', 'Aizawa, Mito', 'Oda, Ryoma', 'Matoba, Kaoru', 'Iwaki, Teppei', 'Silva, Leonardo']
+animeVoices	['Sanpei, Yuuko', 'Itou, Shizuka', 'Fukuyama, Jun', 'Ishida, Akira', 'Sudou, Saori', 'Shindou, Kei', 'Namikawa, Daisuke', 'Yonaga, Tsubasa', 'Miki, Shinichiro', 'Shiratori, Tetsu']
+animeStaff	[['Ogura, Hirofumi', 'Director'], ['Ookuma, Akira', 'Sound Director'], ['Ishida, Tooru', 'Episode Director'], ['Saito, Noriaki', 'Storyboard']]

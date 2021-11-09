@@ -1,5 +1,5 @@
-animeTitle	b'Kero Kero Keroppi no Bikkuri! Obakeyashiki'
-animeType	b'OVA'
+animeTitle	Kero Kero Keroppi no Bikkuri! Obakeyashiki
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Keroppi receives a letter from a friend who is scared of an abandoned house in his new town. He and the gang go and visit him to help him feel more comfortable and overcome his fears. While exploring the house they run into some robbers and an apparition that doesn't seem to be what it is. """
+animePopularity	15569
+animeDescription	Keroppi receives a letter from a friend who is scared of an abandoned house in his new town. He and the gang go and visit him to help him feel more comfortable and overcome his fears. While exploring the house they run into some robbers and an apparition that doesn't seem to be what it is. 
 animeRelated	[]
-animeCharacters	[b'Hasunoue, Keroppi']
-animeVoices	[b'\nMatsuo, Yoshiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHata, Masami\n\nDirector\n\n', b'\nAbe, Yukio\n\nArt Director\n\n', b'\nNishizono, Satoru\n\nScreenplay\n\n', b'\nIke, Takeshi\n\nMusic\n\n']
+animeCharacters	['Hasunoue, Keroppi']
+animeVoices	['Matsuo, Yoshiko']
+animeStaff	[['Hata, Masami', 'Director'], ['Abe, Yukio', 'Art Director'], ['Nishizono, Satoru', 'Screenplay'], ['Ike, Takeshi', 'Music']]

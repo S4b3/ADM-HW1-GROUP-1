@@ -1,5 +1,5 @@
-animeTitle	b'Hashire! Shiroi Ookami'
-animeType	b'Movie'
+animeTitle	Hashire! Shiroi Ookami
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.21
 animeUsers	287
 animeRank	
-animePopularity	
-animeDescription	b'A boy named Lasset who lives on a farm in the rural northern US makes a perilous trek through the wilderness to a sanctuary 300 miles to the north to save the life of a gray wolf that he had raised from a puppy after an incident in which the wolf kills the family dog.'
-animeRelated	[b'Shiroi Kiba White Fang Monogatari']
-animeCharacters	[b'Hanson, Russett', b'Gray', b'Mr Brock']
+animePopularity	10937
+animeDescription	A boy named Lasset who lives on a farm in the rural northern US makes a perilous trek through the wilderness to a sanctuary 300 miles to the north to save the life of a gray wolf that he had raised from a puppy after an incident in which the wolf kills the family dog.
+animeRelated	['Shiroi Kiba White Fang Monogatari']
+animeCharacters	['Hanson, Russett', 'Gray', 'Mr Brock']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nEllis, Mel\n\nOriginal Creator\n\n']
+animeStaff	[['Ellis, Mel', 'Original Creator']]

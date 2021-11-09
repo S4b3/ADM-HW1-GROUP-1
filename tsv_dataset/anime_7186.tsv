@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon: Pikachu no Obake Carnival'
-animeType	b'Special'
+animeTitle	Pokemon: Pikachu no Obake Carnival
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.3
 animeUsers	2260
 animeRank	
-animePopularity	
-animeDescription	b'Pikachu and his friends have a picnic when they discover a Ghost Festival. The walk in to it, and find out that it is haunted by Ghost Pokemon and other Pokemon such as Koffing, Lickitung, Ditto, and Cubone. Meowth also discovers the Ghost Festival and gets scared out of his mind. Pikachu makes friends with the ghosts, and they work together to make Meowth run out of the Festival.\n\n(Source: ANN)'
-animeRelated	[b'Pokemon Advanced Generation']
-animeCharacters	[b'Pikachu', b'Nyarth', b'Soonansu', b'Narrator']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n', b'\nSugimori, Ken\n\nOriginal Character Design\n\n']
+animePopularity	6484
+animeDescription	"Pikachu and his friends have a picnic when they discover a Ghost Festival. The walk in to it, and find out that it is haunted by Ghost Pokemon and other Pokemon such as Koffing, Lickitung, Ditto, and Cubone. Meowth also discovers the Ghost Festival and gets scared out of his mind. Pikachu makes friends with the ghosts, and they work together to make Meowth run out of the Festival.
+
+(Source: ANN)"
+animeRelated	['Pokemon Advanced Generation']
+animeCharacters	['Pikachu', 'Nyarth', 'Soonansu', 'Narrator']
+animeVoices	['Ootani, Ikue', 'Inuyama, Inuko', 'Ueda, Yuuji', 'Horiuchi, Kenyuu']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design']]

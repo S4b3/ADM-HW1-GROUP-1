@@ -1,5 +1,5 @@
-animeTitle	b'Usavich Special'
-animeType	b'Special'
+animeTitle	Usavich Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.41
 animeUsers	1044
 animeRank	
-animePopularity	
-animeDescription	"b'Usavich (\xe3\x82\xa6\xe3\x82\xb5\xe3\x83\x93\xe3\x83\x83\xe3\x83\x81) (from Japanese \xe3\x81\x86\xe3\x81\x95\xe3\x81\x8e ""usagi"", rabbit, with ""vich"" giving it faux Russian flavor) is a series of animated short films being produced for MTV Japan by Kanaban Graphics. It\'s about an odd couple of rabbits imprisoned in a Russian prison. While the first season (1-13 eps) shows the absurd everyday occurrences of the two rabbits\' prison life, the second season (14-26 eps) tells the adventures of their escape and life on the run.\n\n(Source: AnimeDB)'"
-animeRelated	[b'Usavich']
-animeCharacters	[b'Kirenenko', b'Putin']
-animeVoices	[b'\nUeno, Hironori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTomioka, Satoshi\n\nDirector, Script, Storyboard, Original Creator, Screenplay\n\n', b'\nUeno, Hironori\n\nSound Effects, Music\n\n']
+animePopularity	9651
+animeDescription	"Usavich (ウサビッチ) (from Japanese うさぎ ""usagi"", rabbit, with ""vich"" giving it faux Russian flavor) is a series of animated short films being produced for MTV Japan by Kanaban Graphics. It's about an odd couple of rabbits imprisoned in a Russian prison. While the first season (1-13 eps) shows the absurd everyday occurrences of the two rabbits' prison life, the second season (14-26 eps) tells the adventures of their escape and life on the run.
+
+(Source: AnimeDB)"
+animeRelated	['Usavich']
+animeCharacters	['Kirenenko', 'Putin']
+animeVoices	['Ueno, Hironori']
+animeStaff	[['Tomioka, Satoshi', 'Director, Script, Storyboard, Original Creator, Screenplay'], ['Ueno, Hironori', 'Sound Effects, Music']]

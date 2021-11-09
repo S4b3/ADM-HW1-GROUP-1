@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Ball Movie 1: Shen Long no Densetsu'
-animeType	b'Movie'
+animeTitle	Dragon Ball Movie 1: Shen Long no Densetsu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.8
 animeUsers	32058
 animeRank	
-animePopularity	
-animeDescription	"b""A retelling of Dragon Ball's origins, this is a different version of the meeting of Goku, Bulma, Oolong, and Yamucha. They are all looking for the dragon balls for different reasons when they cross paths with an evil king named Gourmeth, who is also looking for the dragon balls. \n\n(Source: ANN)"""
-animeRelated	[b'Dragon Ball', b'Dragon Ball Movie 4: Saikyou e no Michi', b'Dragon Ball Movie 2: Majinjou no Nemurihime']
-animeCharacters	"[b'Son, Gokuu', b'Bulma', b'Oolong', b'Pansy', b'Muten-Roushi', b'Yamcha', b'Shen Long', b""Pu'ar"", b'Umigame', b'Narrator']"
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nSuzuki, Tomiko\nJapanese\n', b'\nMiyauchi, Kouhei\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nWatanabe, Naoko\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nYanami, Jouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nNishio, Daisuke\n\nDirector\n\n', b'\nInoue, Toshiki\n\nScript\n\n', b'\nHashimoto, Ushio\n\nTheme Song Performance\n\n']
+animePopularity	2320
+animeDescription	"A retelling of Dragon Ball's origins, this is a different version of the meeting of Goku, Bulma, Oolong, and Yamucha. They are all looking for the dragon balls for different reasons when they cross paths with an evil king named Gourmeth, who is also looking for the dragon balls. 
+
+(Source: ANN)"
+animeRelated	['Dragon Ball', 'Dragon Ball Movie 4: Saikyou e no Michi', 'Dragon Ball Movie 2: Majinjou no Nemurihime']
+animeCharacters	"['Son, Gokuu', 'Bulma', 'Oolong', 'Pansy', 'Muten-Roushi', 'Yamcha', 'Shen Long', ""Pu'ar"", 'Umigame', 'Narrator']"
+animeVoices	['Nozawa, Masako', 'Tsuru, Hiromi', 'Tatsuta, Naoki', 'Suzuki, Tomiko', 'Miyauchi, Kouhei', 'Furuya, Toru', 'Utsumi, Kenji', 'Watanabe, Naoko', 'Gouri, Daisuke', 'Yanami, Jouji']
+animeStaff	[['Watson, Barry', 'Producer'], ['Nishio, Daisuke', 'Director'], ['Inoue, Toshiki', 'Script'], ['Hashimoto, Ushio', 'Theme Song Performance']]

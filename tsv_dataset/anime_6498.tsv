@@ -1,5 +1,5 @@
-animeTitle	b'Senran Kagura Specials'
-animeType	b'Special'
+animeTitle	Senran Kagura Specials
+animeType	Special
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.43
 animeUsers	6138
 animeRank	
-animePopularity	
-animeDescription	b'Special, unaired, episodes released with the Senran Kagura BD/DVDs.'
-animeRelated	[b'Senran Kagura']
-animeCharacters	[b'Asuka', b'Katsuragi', b'Homura', b'Yagyuu', b'Ikaruga', b'Hibari', b'Kiriya', b'Hanzou']
-animeVoices	[b'\nHarada, Hitomi\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nImai, Asami\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nYamamoto, Kanehira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakaki, Kenichirou\n\nOriginal Creator\n\n', b'\nYaegashi, Nan\n\nOriginal Character Design\n\n', b'\nKawada, Ruka\n\nMusic\n\n', b'\nTakasume, Amami\n\nOriginal Character Design\n\n']
+animePopularity	4388
+animeDescription	Special, unaired, episodes released with the Senran Kagura BD/DVDs.
+animeRelated	['Senran Kagura']
+animeCharacters	['Asuka', 'Katsuragi', 'Homura', 'Yagyuu', 'Ikaruga', 'Hibari', 'Kiriya', 'Hanzou']
+animeVoices	['Harada, Hitomi', 'Kobayashi, Yuu', 'Kitamura, Eri', 'Mizuhashi, Kaori', 'Imai, Asami', 'Iguchi, Yuka', 'Fujiwara, Keiji', 'Yamamoto, Kanehira']
+animeStaff	[['Takaki, Kenichirou', 'Original Creator'], ['Yaegashi, Nan', 'Original Character Design'], ['Kawada, Ruka', 'Music'], ['Takasume, Amami', 'Original Character Design']]

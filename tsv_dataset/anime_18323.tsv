@@ -1,5 +1,5 @@
-animeTitle	b'Chikan no Licence'
-animeType	b'OVA'
+animeTitle	Chikan no Licence
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.24
 animeUsers	2415
 animeRank	
-animePopularity	
-animeDescription	b'This is the Forbidden License! The bearer of this license is able to create a field within which any manner of indecent or immoral acts seem normal. It is the ultimate permit for licentiousness.\n\nWithin the confines of a train car, the girls have nowhere to run. At the moment when their resistance dies, their despair changes to pleasure...\n\nBased on a game by Black Rainbow and C:drive.\n\n(Source: AnimeNfo)'
+animePopularity	6248
+animeDescription	"This is the Forbidden License! The bearer of this license is able to create a field within which any manner of indecent or immoral acts seem normal. It is the ultimate permit for licentiousness.
+
+Within the confines of a train car, the girls have nowhere to run. At the moment when their resistance dies, their despair changes to pleasure...
+
+Based on a game by Black Rainbow and C:drive.
+
+(Source: AnimeNfo)"
 animeRelated	[]
-animeCharacters	[b'Mitsuhashi, Homura', b'Mitsuhashi, Takako', b'Mitsuhashi, Aoi', b'Ishisaki, Otome']
-animeVoices	[b'\nMizusawa, Kei\nJapanese\n', b'\nMaeda, Yukie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOota, Hideta\n\nProducer\n\n', b'\nShinkai, Kouki\n\nEditing\n\n']
+animeCharacters	['Mitsuhashi, Homura', 'Mitsuhashi, Takako', 'Mitsuhashi, Aoi', 'Ishisaki, Otome']
+animeVoices	['Mizusawa, Kei', 'Maeda, Yukie']
+animeStaff	[['Oota, Hideta', 'Producer'], ['Shinkai, Kouki', 'Editing']]

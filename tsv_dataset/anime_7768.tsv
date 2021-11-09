@@ -1,5 +1,5 @@
-animeTitle	b'Gakuen Basara'
-animeType	b'TV'
+animeTitle	Gakuen Basara
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.18
 animeUsers	2857
 animeRank	
-animePopularity	
-animeDescription	"b'A heated battle is once again revving up at Basara Academy between baseball star Masamune Date and soccer ace Yukimura Sanada. What\'s more, ever since student council chairman Hideyoshi Toyotomi received a suspension, leaving the seat up for grabs, a host of class ""warlords"" have become embroiled in a quest for supreme power. Amid Ieyasu Tokugawa\'s appeals to bonds of kinship and Mitsunari Ishida\'s fervor to defeat him, who will wrest ultimate control of the domain in ""troubled"" times?\n\n(Source: TBS Global Business)'"
-animeRelated	[b'Sengoku Basara Series Official Anthology Comic: Gakuen Basara', b'Sengoku Basara']
-animeCharacters	[b'Date, Masamune', b'Sanada, Yukimura', b'Chousokabe, Motochika', b'Katakura, Kojuurou', b'Sarutobi, Sasuke', b'Ishida, Mitsunari', b'Maeda, Keiji', b'Mouri, Motonari', b'Oda, Nobunaga', b'Akechi, Mitsuhide']
-animeVoices	[b'\nNakai, Kazuya\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nIshino, Ryuuzou\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nMorita, Masakazu\nJapanese\n', b'\nNakahara, Shigeru\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOohara, Minoru\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nFear, and Loathing in Las Vegas\n\nTheme Song Performance\n\n', b'\nT.M.Revolution\n\nTheme Song Performance\n\n']
+animePopularity	4397
+animeDescription	"A heated battle is once again revving up at Basara Academy between baseball star Masamune Date and soccer ace Yukimura Sanada. What's more, ever since student council chairman Hideyoshi Toyotomi received a suspension, leaving the seat up for grabs, a host of class ""warlords"" have become embroiled in a quest for supreme power. Amid Ieyasu Tokugawa's appeals to bonds of kinship and Mitsunari Ishida's fervor to defeat him, who will wrest ultimate control of the domain in ""troubled"" times?
+
+(Source: TBS Global Business)"
+animeRelated	['Sengoku Basara Series Official Anthology Comic: Gakuen Basara', 'Sengoku Basara']
+animeCharacters	['Date, Masamune', 'Sanada, Yukimura', 'Chousokabe, Motochika', 'Katakura, Kojuurou', 'Sarutobi, Sasuke', 'Ishida, Mitsunari', 'Maeda, Keiji', 'Mouri, Motonari', 'Oda, Nobunaga', 'Akechi, Mitsuhide']
+animeVoices	['Nakai, Kazuya', 'Hoshi, Souichirou', 'Ishino, Ryuuzou', 'Morikawa, Toshiyuki', 'Koyasu, Takehito', 'Seki, Tomokazu', 'Morita, Masakazu', 'Nakahara, Shigeru', 'Wakamoto, Norio']
+animeStaff	[['Oohara, Minoru', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Fear, and Loathing in Las Vegas', 'Theme Song Performance'], ['T.M.Revolution', 'Theme Song Performance']]

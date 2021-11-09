@@ -1,5 +1,5 @@
-animeTitle	b'Kuroshitsuji: Sono Shitsuji, Kougyou'
-animeType	b'Special'
+animeTitle	Kuroshitsuji: Sono Shitsuji, Kougyou
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.53
 animeUsers	52485
 animeRank	
-animePopularity	
-animeDescription	"b""Earl Ciel Phantomhive's Funtom Corporation is sponsoring a charity performance of Hamlet to be shown to a group of poor children as a celebration of its third anniversary. However, when the theater company hired for the stage play is suddenly delayed and won't make it in time for the scheduled performance, the company is faced with a dilemma. With the promise of plenty of press coverage, Ciel must find a way to rectify the situation and commands his butler, Sebastian Michaelis, to ensure the success of the play.\n\nBut with a haphazard ensemble of amateur actors\xe2\x80\x94including Ciel, his fianc\xc3\xa9e Elizabeth Midford, his servants, and many others\xe2\x80\x94how can they possibly put on the show in time?\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kuroshitsuji']
-animeCharacters	[b'Michaelis, Sebastian', b'Phantomhive, Ciel', b'Sutcliff, Grell', b'Undertaker', b'Finnian', b'Mey-Rin', b'Midford, Elizabeth', b'Spears, William T.', b'Tanaka', b'Asman Kadar, Soma']
-animeVoices	[b'\nOno, Daisuke\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nKatou, Emiri\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nTachibana, Shinnosuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIchimura, Tetsuo\n\nEpisode Director\n\n', b'\nKalafina\n\nTheme Song Performance\n\n', b'\nSID\n\nTheme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement\n\n', b'\nToboso, Yana\n\nOriginal Creator\n\n']
+animePopularity	1589
+animeDescription	"Earl Ciel Phantomhive's Funtom Corporation is sponsoring a charity performance of Hamlet to be shown to a group of poor children as a celebration of its third anniversary. However, when the theater company hired for the stage play is suddenly delayed and won't make it in time for the scheduled performance, the company is faced with a dilemma. With the promise of plenty of press coverage, Ciel must find a way to rectify the situation and commands his butler, Sebastian Michaelis, to ensure the success of the play.
+
+But with a haphazard ensemble of amateur actors—including Ciel, his fiancée Elizabeth Midford, his servants, and many others—how can they possibly put on the show in time?
+
+[Written by MAL Rewrite]"
+animeRelated	['Kuroshitsuji']
+animeCharacters	['Michaelis, Sebastian', 'Phantomhive, Ciel', 'Sutcliff, Grell', 'Undertaker', 'Finnian', 'Mey-Rin', 'Midford, Elizabeth', 'Spears, William T.', 'Tanaka', 'Asman Kadar, Soma']
+animeVoices	['Ono, Daisuke', 'Sakamoto, Maaya', 'Fukuyama, Jun', 'Suwabe, Junichi', 'Kaji, Yuki', 'Katou, Emiri', 'Tamura, Yukari', 'Tachibana, Shinnosuke']
+animeStaff	[['Ichimura, Tetsuo', 'Episode Director'], ['Kalafina', 'Theme Song Performance'], ['SID', 'Theme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement'], ['Toboso, Yana', 'Original Creator']]

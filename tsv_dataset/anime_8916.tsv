@@ -1,4 +1,4 @@
-animeTitle	b'Yodaka no Hoshi (Music)'
+animeTitle	Yodaka no Hoshi (Music)
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.94
 animeUsers	581
 animeRank	
-animePopularity	
-animeDescription	"b'Music video for Sound Horizon\'s song ""Yodaka no Hoshi.""\n\nThe full version of ""Yodaka no Hoshi"" music video was bundled with the limited edition release of their single ""Vanishing Starlight.""'"
+animePopularity	11049
+animeDescription	"Music video for Sound Horizon's song ""Yodaka no Hoshi.""
+
+The full version of ""Yodaka no Hoshi"" music video was bundled with the limited edition release of their single ""Vanishing Starlight."""
 animeRelated	[]
-animeCharacters	[b'No\xc3\xabl', b'Revo']
+animeCharacters	['Noël', 'Revo']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nRevo\n\nTheme Song Lyrics, Theme Song Composition, Theme Song Arrangement\n\n', b'\nSound Horizon\n\nTheme Song Performance\n\n']
+animeStaff	[['Revo', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['Sound Horizon', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Lost Universe'
-animeType	b'TV'
+animeTitle	Lost Universe
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.01
 animeUsers	5662
 animeRank	
-animePopularity	
-animeDescription	"b'Millie Nocturne has one great goal in life: to be the best in the universe - at absolutely everything! But when she tries her hand at being the ""best detective,"" she ends up an unwilling partner with two people who will change her life forever: Kane Blueriver, the psi-blade-wielding master of the starship Swordbreaker, and Canal, the smart-mouthed holographic image of the ship\'s computer.\n\nJoin this unlikely trio on their adventures as they hurtle through space facing off against intergalactic crime lords, rogue starships, and hijackers dressed as chickens... and that\'s just the tip of the asteroid! \n\n(Source: RightStuf)'"
-animeRelated	[b'Lost Universe']
-animeCharacters	[b'Vorfeed, Canal', b'Blueriver, Kane', b'Nocturne, Millie', b'Claymore, Rail', b'Mercury, Nina', b'Spreader of Darkness', b'Kali', b'Rob', b'Concense, Milina', b'Rumy']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nIshimura, Tomoko\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nSuzuki, Masami\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nOhmoto, Makiko\nJapanese\n', b'\nHidaka, Narumi\nJapanese\n', b'\nYoshizawa, Saeko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Noriko\n\nProducer\n\n', b'\nCampbell, Charles\n\nProducer, Script\n\n', b'\nWatanabe, Takashi\n\nDirector\n\n', b'\nTsuchiya, Hiroyuki\n\nEpisode Director\n\n']
+animePopularity	4527
+animeDescription	"Millie Nocturne has one great goal in life: to be the best in the universe - at absolutely everything! But when she tries her hand at being the ""best detective,"" she ends up an unwilling partner with two people who will change her life forever: Kane Blueriver, the psi-blade-wielding master of the starship Swordbreaker, and Canal, the smart-mouthed holographic image of the ship's computer.
+
+Join this unlikely trio on their adventures as they hurtle through space facing off against intergalactic crime lords, rogue starships, and hijackers dressed as chickens... and that's just the tip of the asteroid! 
+
+(Source: RightStuf)"
+animeRelated	['Lost Universe']
+animeCharacters	['Vorfeed, Canal', 'Blueriver, Kane', 'Nocturne, Millie', 'Claymore, Rail', 'Mercury, Nina', 'Spreader of Darkness', 'Kali', 'Rob', 'Concense, Milina', 'Rumy']
+animeVoices	['Hayashibara, Megumi', 'Hoshi, Souichirou', 'Ishimura, Tomoko', 'Midorikawa, Hikaru', 'Suzuki, Masami', 'Matsumoto, Yasunori', 'Neya, Michiko', 'Ohmoto, Makiko', 'Hidaka, Narumi', 'Yoshizawa, Saeko']
+animeStaff	[['Kobayashi, Noriko', 'Producer'], ['Campbell, Charles', 'Producer, Script'], ['Watanabe, Takashi', 'Director'], ['Tsuchiya, Hiroyuki', 'Episode Director']]

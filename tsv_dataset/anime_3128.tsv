@@ -1,5 +1,5 @@
-animeTitle	b'Bleach: Memories in the Rain'
-animeType	b'Special'
+animeTitle	Bleach: Memories in the Rain
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	7.15
 animeUsers	62404
 animeRank	
-animePopularity	
-animeDescription	"b'Kurosaki Ichigo, the temporary Shinigami(Death God) for Kuchiki Rukia, discovers his mother\'s killer as one of the Hollows he has been hunting. He does battle with it in a prideful battle of revenge. This Special is actually a flashback of previous episodes in Bleach. After the ending credits, a short plays showing Shinigami and their Zanpakutos to ""Number One"" from the Bleach Soundtrack. \n'"
-animeRelated	[b'Bleach', b'Bleach: Gotei 13 Omake']
-animeCharacters	[b'Kurosaki, Ichigo', b'Kuchiki, Rukia', b'Inoue, Orihime', b'Kon', b'Ukitake, Juushirou', b'Kurosaki, Isshin', b'Arisawa, Tatsuki', b'Kurosaki, Karin', b'Kurosaki, Yuzu', b'Kurosaki, Masaki']
-animeVoices	[b'\nMorita, Masakazu\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nMatsuoka, Yuki\nJapanese\n', b'\nIshikawa, Hideo\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nNoda, Junko\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nSena, Ayumi\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAbe, Noriyuki\n\nDirector\n\n', b'\nMorita, Masakazu\n\nTheme Song Performance\n\n', b'\nOrikasa, Fumiko\n\nTheme Song Performance\n\n', b'\nKubo, Tite\n\nOriginal Creator\n\n']
+animePopularity	1470
+animeDescription	"Kurosaki Ichigo, the temporary Shinigami(Death God) for Kuchiki Rukia, discovers his mother's killer as one of the Hollows he has been hunting. He does battle with it in a prideful battle of revenge. This Special is actually a flashback of previous episodes in Bleach. After the ending credits, a short plays showing Shinigami and their Zanpakutos to ""Number One"" from the Bleach Soundtrack. 
+"
+animeRelated	['Bleach', 'Bleach: Gotei 13 Omake']
+animeCharacters	['Kurosaki, Ichigo', 'Kuchiki, Rukia', 'Inoue, Orihime', 'Kon', 'Ukitake, Juushirou', 'Kurosaki, Isshin', 'Arisawa, Tatsuki', 'Kurosaki, Karin', 'Kurosaki, Yuzu', 'Kurosaki, Masaki']
+animeVoices	['Morita, Masakazu', 'Orikasa, Fumiko', 'Matsuoka, Yuki', 'Ishikawa, Hideo', 'Morikawa, Toshiyuki', 'Noda, Junko', 'Kugimiya, Rie', 'Sena, Ayumi', 'Ohara, Sayaka']
+animeStaff	[['Abe, Noriyuki', 'Director'], ['Morita, Masakazu', 'Theme Song Performance'], ['Orikasa, Fumiko', 'Theme Song Performance'], ['Kubo, Tite', 'Original Creator']]

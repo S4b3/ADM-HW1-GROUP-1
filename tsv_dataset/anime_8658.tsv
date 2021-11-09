@@ -1,5 +1,5 @@
-animeTitle	b'VitaminX Addiction'
-animeType	b'OVA'
+animeTitle	VitaminX Addiction
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.0
 animeUsers	156
 animeRank	
-animePopularity	
-animeDescription	"b'The story is set at Seitei Gakuen, an elite private academy that teaches every level from kindergarten until college in Tokyo. A new female teacher named Minami Yuuri is starting her second year of teaching here, and she is now moving up from teaching middle school students to the assignment she had sought after: grammar for high school students. Unfortunately, she gets assigned to class 3-E. The class, called ""Class X,"" is an infamous group of seniors who lack study skills; it is said that all of their previous teachers have retired due to ulcers or neurosis. Minami must try to reach out to these students, including the six leaders of the class ""B6"" (Baka 6), and get them into college.\n\n(Source: ANN)'"
+animePopularity	9400
+animeDescription	"The story is set at Seitei Gakuen, an elite private academy that teaches every level from kindergarten until college in Tokyo. A new female teacher named Minami Yuuri is starting her second year of teaching here, and she is now moving up from teaching middle school students to the assignment she had sought after: grammar for high school students. Unfortunately, she gets assigned to class 3-E. The class, called ""Class X,"" is an infamous group of seniors who lack study skills; it is said that all of their previous teachers have retired due to ulcers or neurosis. Minami must try to reach out to these students, including the six leaders of the class ""B6"" (Baka 6), and get them into college.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Makabe, Tsubasa', b'Kusanagi, Hajime', b'Madarame, Mizuki', b'Yuuri, Minami', b'Sendo, Kiyoharu', b'Nanase, Shun', b'Fumonji, Goro', b'Nikaidou, Shou', b'Nagata', b'Ootori, Kouji']
-animeVoices	[b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nSuganuma, Hisayoshi\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nNonaka, Ai\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nOda, Yuusei\nJapanese\n', b'\nMiura, Hiroaki\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawaguchi, Keiichirou\n\nDirector\n\n', b'\nOno, Daisuke\n\nTheme Song Performance\n\n', b'\nSuzuki, Tatsuhisa\n\nTheme Song Performance\n\n', b'\nToriumi, Kousuke\n\nTheme Song Performance, Inserted Song Performance\n\n']
+animeCharacters	['Makabe, Tsubasa', 'Kusanagi, Hajime', 'Madarame, Mizuki', 'Yuuri, Minami', 'Sendo, Kiyoharu', 'Nanase, Shun', 'Fumonji, Goro', 'Nikaidou, Shou', 'Nagata', 'Ootori, Kouji']
+animeVoices	['Suzuki, Tatsuhisa', 'Ono, Daisuke', 'Suganuma, Hisayoshi', 'Nabatame, Hitomi', 'Yoshino, Hiroyuki', 'Nonaka, Ai', 'Kishio, Daisuke', 'Oda, Yuusei', 'Miura, Hiroaki', 'Inoue, Kazuhiko']
+animeStaff	[['Kawaguchi, Keiichirou', 'Director'], ['Ono, Daisuke', 'Theme Song Performance'], ['Suzuki, Tatsuhisa', 'Theme Song Performance'], ['Toriumi, Kousuke', 'Theme Song Performance, Inserted Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Natsume Yuujinchou Go'
-animeType	b'TV'
+animeTitle	Natsume Yuujinchou Go
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	8.58
 animeUsers	59996
 animeRank	
-animePopularity	
-animeDescription	b'Season 5 of Natsume Yuujinchou.'
-animeRelated	[b'Natsume Yuujinchou', b'Natsume Yuujinchou Shi', b'Natsume Yuujinchou Go Specials', b'Natsume Yuujinchou Roku']
-animeCharacters	[b'Natsume, Takashi', b'Madara', b'Natsume, Reiko', b'Tanuma, Kaname', b'Natori, Shuuichi', b'Matoba, Seiji', b'Taki, Tooru', b'Hinoe', b'Fujiwara, Touko', b'Hiiragi']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nHorie, Kazuma\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nItou, Miki\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomori, Takahiro\n\nDirector\n\n', b'\nDeai, Kotomi\n\nDirector\n\n', b'\nOoshiro, Miyuki\n\nEpisode Director, Storyboard, Animation Director\n\n', b'\nAimer\n\nTheme Song Performance\n\n']
+animePopularity	1165
+animeDescription	Season 5 of Natsume Yuujinchou.
+animeRelated	['Natsume Yuujinchou', 'Natsume Yuujinchou Shi', 'Natsume Yuujinchou Go Specials', 'Natsume Yuujinchou Roku']
+animeCharacters	['Natsume, Takashi', 'Madara', 'Natsume, Reiko', 'Tanuma, Kaname', 'Natori, Shuuichi', 'Matoba, Seiji', 'Taki, Tooru', 'Hinoe', 'Fujiwara, Touko', 'Hiiragi']
+animeVoices	['Kamiya, Hiroshi', 'Inoue, Kazuhiko', 'Kobayashi, Sanae', 'Horie, Kazuma', 'Ishida, Akira', 'Suwabe, Junichi', 'Satou, Rina', 'Okamura, Akemi', 'Itou, Miki', 'Yukino, Satsuki']
+animeStaff	[['Oomori, Takahiro', 'Director'], ['Deai, Kotomi', 'Director'], ['Ooshiro, Miyuki', 'Episode Director, Storyboard, Animation Director'], ['Aimer', 'Theme Song Performance']]

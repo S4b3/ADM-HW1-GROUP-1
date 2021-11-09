@@ -1,5 +1,5 @@
-animeTitle	b'Legend of Basara'
-animeType	b'TV'
+animeTitle	Legend of Basara
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.3
 animeUsers	3328
 animeRank	
-animePopularity	
-animeDescription	"b""In a small village, twins are born: a boy, Tatara, and a girl, Sarasa. The prophet Nagi declares that Tatara is the chosen one who will free Japan from the tyrannical rule of the King and his four sons. But when the ruthless Red King slays Tatara, Sarasa must take on her brother's name and responsibilities and embark on a quest to free Japan and deliver vengeance to the Red King. \n\n(Source: ANN)"""
-animeRelated	[b'Basara', b'Legend of Basara: Shinbashi Theater']
-animeCharacters	[b'Sarasa', b'Shuri', b'Ageha', b'Asagi', b'Shinbashi', b'Ginko', b'Hayato', b'Nagi', b'Kakujii', b'Shidou']
-animeVoices	[b'\nKimura, Akiko\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n', b'\nSonozaki, Mie\nJapanese\n', b'\nYuuki, Hiro\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwasaki, Yoshiaki\n\nEpisode Director, Storyboard\n\n', b'\nTamano, Harumi\n\nEpisode Director, Storyboard\n\n', b'\nKoyama, Takao\n\nScript, Series Composition\n\n', b'\nTamura, Yumi\n\nOriginal Creator\n\n']
+animePopularity	5151
+animeDescription	"In a small village, twins are born: a boy, Tatara, and a girl, Sarasa. The prophet Nagi declares that Tatara is the chosen one who will free Japan from the tyrannical rule of the King and his four sons. But when the ruthless Red King slays Tatara, Sarasa must take on her brother's name and responsibilities and embark on a quest to free Japan and deliver vengeance to the Red King. 
+
+(Source: ANN)"
+animeRelated	['Basara', 'Legend of Basara: Shinbashi Theater']
+animeCharacters	['Sarasa', 'Shuri', 'Ageha', 'Asagi', 'Shinbashi', 'Ginko', 'Hayato', 'Nagi', 'Kakujii', 'Shidou']
+animeVoices	['Kimura, Akiko', 'Inoue, Kazuhiko', 'Shiozawa, Kaneto', 'Sasaki, Nozomu', 'Sonozaki, Mie', 'Yuuki, Hiro', 'Hayami, Show', 'Genda, Tesshou', 'Kosugi, Juurouta']
+animeStaff	[['Iwasaki, Yoshiaki', 'Episode Director, Storyboard'], ['Tamano, Harumi', 'Episode Director, Storyboard'], ['Koyama, Takao', 'Script, Series Composition'], ['Tamura, Yumi', 'Original Creator']]

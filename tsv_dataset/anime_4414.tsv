@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin'
-animeType	b'Movie'
+animeTitle	Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.85
 animeUsers	64679
 animeRank	
-animePopularity	
-animeDescription	"b""Dr. Gero's Androids #13, #14, and #15 are awakened by the laboratory computers and immediately head to the mall where Goku is shopping. After Goku, Trunks, and Vegeta defeat #14 and #15, #13 absorbs their inner computers and becomes a super being greater than the original three separately were. Now it is up to Goku to stop him. \n\n(Source: ANN)"""
-animeRelated	[b'Dragon Ball Z', b'Dragon Ball Z: Summer Vacation Special']
-animeCharacters	[b'Son, Gokuu', b'Vegeta', b'Son, Gohan', b'Future Trunks', b'Piccolo', b'Muten-Roushi', b'Kuririn', b'Chi-Chi', b'Oolong', b'Dr. Gero']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nMiyauchi, Kouhei\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nWatanabe, Naoko\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nYada, Kouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nKoyama, Takao\n\nScript\n\n', b'\nKageyama, Hironobu\n\nTheme Song Performance\n\n', b'\nMendelman, Ami\n\nTheme Song Performance\n\n']
+animePopularity	1573
+animeDescription	"Dr. Gero's Androids #13, #14, and #15 are awakened by the laboratory computers and immediately head to the mall where Goku is shopping. After Goku, Trunks, and Vegeta defeat #14 and #15, #13 absorbs their inner computers and becomes a super being greater than the original three separately were. Now it is up to Goku to stop him. 
+
+(Source: ANN)"
+animeRelated	['Dragon Ball Z', 'Dragon Ball Z: Summer Vacation Special']
+animeCharacters	['Son, Gokuu', 'Vegeta', 'Son, Gohan', 'Future Trunks', 'Piccolo', 'Muten-Roushi', 'Kuririn', 'Chi-Chi', 'Oolong', 'Dr. Gero']
+animeVoices	['Nozawa, Masako', 'Horikawa, Ryo', 'Kusao, Takeshi', 'Furukawa, Toshio', 'Miyauchi, Kouhei', 'Tanaka, Mayumi', 'Watanabe, Naoko', 'Tatsuta, Naoki', 'Yada, Kouji']
+animeStaff	[['Watson, Barry', 'Producer'], ['Koyama, Takao', 'Script'], ['Kageyama, Hironobu', 'Theme Song Performance'], ['Mendelman, Ami', 'Theme Song Performance']]

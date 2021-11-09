@@ -1,5 +1,5 @@
-animeTitle	b'Fortune Quest: Yo ni mo Shiawase na Boukensha-tachi'
-animeType	b'OVA'
+animeTitle	Fortune Quest: Yo ni mo Shiawase na Boukensha-tachi
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.13
 animeUsers	284
 animeRank	
-animePopularity	
-animeDescription	"b""Fortune Quest is the tale of a bunch of adventurers. Imagine your classic D&D party\xe2\x80\x94Fighter, Thief, Bard, Mage, Healer ...and Porter? Okay, don't know where the Porter comes from, but Pastel and her group of adventurers are broke and need a job. They can't afford to buy any of the adventure modules from the module seller, so they have to take part-time jobs to pay off their debts. And an innocent job to fetch holy water leads to world-threatening danger ...and a white dragon.\n\n(Source: AnimeNfo.com)"""
-animeRelated	[b'Fortune Quest', b'Fortune Quest L']
-animeCharacters	[b'Shiro', b'S. Anderson, Clay', b'Rumy', b'Knoll', b'Kitton', b'Trapp', b'G. King, Pastel', b'Mage', b'Narrator', b'Pitt']
-animeVoices	[b'\nTouma, Yumi\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n', b'\nNishihara, Kumiko\nJapanese\n', b'\nKawazu, Yasuhiko\nJapanese\n', b'\nOota, Shinichirou\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nKasahara, Rumi\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nShimakata, Junko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuruyama, Osamu\n\nDirector\n\n', b'\nMaruo, Keiko\n\nScript\n\n', b'\nSaitou, Miwako\n\nTheme Song Performance\n\n', b'\nIshihama, Masashi\n\nKey Animation\n\n']
+animePopularity	11066
+animeDescription	"Fortune Quest is the tale of a bunch of adventurers. Imagine your classic D&D party—Fighter, Thief, Bard, Mage, Healer ...and Porter? Okay, don't know where the Porter comes from, but Pastel and her group of adventurers are broke and need a job. They can't afford to buy any of the adventure modules from the module seller, so they have to take part-time jobs to pay off their debts. And an innocent job to fetch holy water leads to world-threatening danger ...and a white dragon.
+
+(Source: AnimeNfo.com)"
+animeRelated	['Fortune Quest', 'Fortune Quest L']
+animeCharacters	['Shiro', 'S. Anderson, Clay', 'Rumy', 'Knoll', 'Kitton', 'Trapp', 'G. King, Pastel', 'Mage', 'Narrator', 'Pitt']
+animeVoices	['Touma, Yumi', 'Canna, Nobutoshi', 'Nishihara, Kumiko', 'Kawazu, Yasuhiko', 'Oota, Shinichirou', 'Furukawa, Toshio', 'Kasahara, Rumi', 'Aono, Takeshi', 'Shimakata, Junko']
+animeStaff	[['Tsuruyama, Osamu', 'Director'], ['Maruo, Keiko', 'Script'], ['Saitou, Miwako', 'Theme Song Performance'], ['Ishihama, Masashi', 'Key Animation']]

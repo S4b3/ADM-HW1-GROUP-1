@@ -1,5 +1,5 @@
-animeTitle	b'Transformers Superlink Special'
-animeType	b'Special'
+animeTitle	Transformers Superlink Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.84
 animeUsers	290
 animeRank	
-animePopularity	
-animeDescription	"b'Episode 43.5, ""Distribution"", is a comedic special show which commemorates 500 episodes of Transformers in Japan (however, since that total includes assorted Japanese series, the west is still some distance away from this number). When aired in Japan, it did not air in the usual timeslot for Superlink, and is not in any sort of chronological order - It features the Autobots playing a video game training simulator, which they certainly do not have time to do between episodes 42 and 44.\n\n(Source: Wikipedia)'"
-animeRelated	[b'Transformers Superlink']
-animeCharacters	[b'Convoy', b'Ironhide']
-animeVoices	[b'\nKonishi, Katsuyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAbe, Munetaka\n\nKey Animation\n\n']
+animePopularity	11643
+animeDescription	"Episode 43.5, ""Distribution"", is a comedic special show which commemorates 500 episodes of Transformers in Japan (however, since that total includes assorted Japanese series, the west is still some distance away from this number). When aired in Japan, it did not air in the usual timeslot for Superlink, and is not in any sort of chronological order - It features the Autobots playing a video game training simulator, which they certainly do not have time to do between episodes 42 and 44.
+
+(Source: Wikipedia)"
+animeRelated	['Transformers Superlink']
+animeCharacters	['Convoy', 'Ironhide']
+animeVoices	['Konishi, Katsuyuki']
+animeStaff	[['Abe, Munetaka', 'Key Animation']]

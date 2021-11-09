@@ -1,5 +1,5 @@
-animeTitle	b'Mario Kirby Meisaku Video'
-animeType	b'OVA'
+animeTitle	Mario Kirby Meisaku Video
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.41
 animeUsers	139
 animeRank	
-animePopularity	
-animeDescription	b'An educational video only released in Japan, and stars Mario and Kirby, both on their own separate adventures. It is aimed at teaching young children Kanji/Chinese characters.\n\n(Source: Kirby Wiki)'
-animeRelated	[b'Hoshi no Kirby', b'Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!']
-animeCharacters	[b'Kirby', b'Mario', b'Wario']
+animePopularity	12678
+animeDescription	"An educational video only released in Japan, and stars Mario and Kirby, both on their own separate adventures. It is aimed at teaching young children Kanji/Chinese characters.
+
+(Source: Kirby Wiki)"
+animeRelated	['Hoshi no Kirby', 'Super Mario Brothers: Peach-hime Kyuushutsu Daisakusen!']
+animeCharacters	['Kirby', 'Mario', 'Wario']
 animeVoices	[]
 animeStaff	[]

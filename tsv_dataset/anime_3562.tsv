@@ -1,5 +1,5 @@
-animeTitle	b'Otome wa Boku ni Koishiteru'
-animeType	b'TV'
+animeTitle	Otome wa Boku ni Koishiteru
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.05
 animeUsers	23976
 animeRank	
-animePopularity	
-animeDescription	"b""Mizuho can't believe his ears when Grandpa's will is read out. Grandpa's final wish is for Mizuho to attend the same academy as Mizuho's mother. The catch is it's an all-girls school. With the help of friend Mariya however, he gets a makeover good enough to fool everyone at the academy. \n\n(Source: ANN)"""
-animeRelated	[b'Otome wa Boku ni Koishiteru', b'Otome wa Boku ni Koishiteru Special', b'Otome wa Boku ni Koishiteru: Futari no Elder The Animation']
-animeCharacters	[b'Miyanokouji, Mizuho', b'Itsukushima, Takako', b'Mikado, Mariya', b'Juujou, Shion', b'Suouin, Kana', b'Takanashi, Kei', b'Kajiura, Hisako', b'Sugawara, Kimie', b'Takane, Michiko', b'Takashima, Ichiko']
-animeVoices	[b'\nHorie, Yui\nJapanese\n', b'\nTakahashi, Chiaki\nJapanese\n', b'\nAsano, Masumi\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nKanda, Akemi\nJapanese\n', b'\nShindou, Kei\nJapanese\n', b'\nSakakibara, Yui\nJapanese\n', b'\nKimura, Madoka\nJapanese\n', b'\nNogawa, Sakura\nJapanese\n', b'\nGotou, Yuuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNawa, Munenori\n\nDirector\n\n', b'\nTokumoto, Yoshinobu\n\nEpisode Director, Storyboard\n\n', b'\nKobayashi, Tomoki\n\nStoryboard\n\n', b'\nMasuda, Kuniaki\n\nStoryboard, Key Animation, Chief Animation Director\n\n']
+animePopularity	2291
+animeDescription	"Mizuho can't believe his ears when Grandpa's will is read out. Grandpa's final wish is for Mizuho to attend the same academy as Mizuho's mother. The catch is it's an all-girls school. With the help of friend Mariya however, he gets a makeover good enough to fool everyone at the academy. 
+
+(Source: ANN)"
+animeRelated	['Otome wa Boku ni Koishiteru', 'Otome wa Boku ni Koishiteru Special', 'Otome wa Boku ni Koishiteru: Futari no Elder The Animation']
+animeCharacters	['Miyanokouji, Mizuho', 'Itsukushima, Takako', 'Mikado, Mariya', 'Juujou, Shion', 'Suouin, Kana', 'Takanashi, Kei', 'Kajiura, Hisako', 'Sugawara, Kimie', 'Takane, Michiko', 'Takashima, Ichiko']
+animeVoices	['Horie, Yui', 'Takahashi, Chiaki', 'Asano, Masumi', 'Matsuki, Miyu', 'Kanda, Akemi', 'Shindou, Kei', 'Sakakibara, Yui', 'Kimura, Madoka', 'Nogawa, Sakura', 'Gotou, Yuuko']
+animeStaff	[['Nawa, Munenori', 'Director'], ['Tokumoto, Yoshinobu', 'Episode Director, Storyboard'], ['Kobayashi, Tomoki', 'Storyboard'], ['Masuda, Kuniaki', 'Storyboard, Key Animation, Chief Animation Director']]

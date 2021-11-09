@@ -1,5 +1,5 @@
-animeTitle	b'Wake Up, Girl Zoo!'
-animeType	b'ONA'
+animeTitle	Wake Up, Girl Zoo!
+animeType	ONA
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.13
 animeUsers	2321
 animeRank	
-animePopularity	
-animeDescription	"b'""Wake Up, Girl Zoo!"" is a small zoo located in the outskirts of Sendai. On the verge of closure, its director Tange and breeding staff Matsuda must set out to find a new animal unit for the zoo. How will they revive the zoo with the seven newly gathered animals?\n\n(Source: Official website)'"
-animeRelated	[b'Wake Up, Girls!', b'Wake Up, Girl Zoo! Miyagi PR de Go!']
-animeCharacters	[b'Shimada, Mayu', b'Okamoto, Miyu', b'Katayama, Minami', b'Nanase, Yoshino', b'Kikuma, Kaya', b'Hisami, Nanami', b'Hayashida, Airi', b'Tange, Junko', b'Matsuda, Kouhei']
-animeVoices	[b'\nYoshioka, Mayu\nJapanese\n', b'\nTakagi, Miyu\nJapanese\n', b'\nTanaka, Minami\nJapanese\n', b'\nAoyama, Yoshino\nJapanese\n', b'\nOkuno, Kaya\nJapanese\n', b'\nYamashita, Nanami\nJapanese\n', b'\nEino, Airi\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nAsanuma, Shintaro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorii, Kenshirou\n\nDirector, Script\n\n', b'\nKinutani, Soushi\n\nEpisode Director, Storyboard\n\n', b'\nSekine, Satoko\n\nScript\n\n', b'\nTateyama, Akiyuki\n\nMusic\n\n']
+animePopularity	6715
+animeDescription	"""Wake Up, Girl Zoo!"" is a small zoo located in the outskirts of Sendai. On the verge of closure, its director Tange and breeding staff Matsuda must set out to find a new animal unit for the zoo. How will they revive the zoo with the seven newly gathered animals?
+
+(Source: Official website)"
+animeRelated	['Wake Up, Girls!', 'Wake Up, Girl Zoo! Miyagi PR de Go!']
+animeCharacters	['Shimada, Mayu', 'Okamoto, Miyu', 'Katayama, Minami', 'Nanase, Yoshino', 'Kikuma, Kaya', 'Hisami, Nanami', 'Hayashida, Airi', 'Tange, Junko', 'Matsuda, Kouhei']
+animeVoices	['Yoshioka, Mayu', 'Takagi, Miyu', 'Tanaka, Minami', 'Aoyama, Yoshino', 'Okuno, Kaya', 'Yamashita, Nanami', 'Eino, Airi', 'Hidaka, Noriko', 'Asanuma, Shintaro']
+animeStaff	[['Morii, Kenshirou', 'Director, Script'], ['Kinutani, Soushi', 'Episode Director, Storyboard'], ['Sekine, Satoko', 'Script'], ['Tateyama, Akiyuki', 'Music']]

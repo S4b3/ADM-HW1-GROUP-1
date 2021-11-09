@@ -1,5 +1,5 @@
-animeTitle	b'Cool Cool Bye'
-animeType	b'OVA'
+animeTitle	Cool Cool Bye
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	4.9
 animeUsers	524
 animeRank	
-animePopularity	
-animeDescription	b'Two brothers are riding around on their hover bikes, when suddenly a giant metal fortress gets in their way. After a brief battle, the duo manages to gravely wound the fortress. It retreats and dumps our heroic pair in a wasteland.\n\nBut this wasteland is inhabited by nomads that indicate that the fortress was hidden inside a mountain. The nomads plead for the duo to finish the job. Two of the natives go with them as guides, and somewhere along the way the gain the help of a fairy that can transform into a mech-warrior woman.\n\n(Source: irreality.org.uk) '
+animePopularity	10801
+animeDescription	"Two brothers are riding around on their hover bikes, when suddenly a giant metal fortress gets in their way. After a brief battle, the duo manages to gravely wound the fortress. It retreats and dumps our heroic pair in a wasteland.
+
+But this wasteland is inhabited by nomads that indicate that the fortress was hidden inside a mountain. The nomads plead for the duo to finish the job. Two of the natives go with them as guides, and somewhere along the way the gain the help of a fairy that can transform into a mech-warrior woman.
+
+(Source: irreality.org.uk) "
 animeRelated	[]
-animeCharacters	[b'Han, Furenee', b'Tangiin', b'Han, Lek']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nMori, Katsuji\nJapanese\n', b'\nNozawa, Masako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKogawa, Tomonori\n\nDirector, Script, Animation Director, Character Design, Creator\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b'\nTerahigashi, Katsumi\n\nKey Animation\n\n', b'\nKubooka, Toshiyuki\n\nKey Animation\n\n']
+animeCharacters	['Han, Furenee', 'Tangiin', 'Han, Lek']
+animeVoices	['Tanaka, Mayumi', 'Mori, Katsuji', 'Nozawa, Masako']
+animeStaff	[['Kogawa, Tomonori', 'Director, Script, Animation Director, Character Design, Creator'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Terahigashi, Katsumi', 'Key Animation'], ['Kubooka, Toshiyuki', 'Key Animation']]

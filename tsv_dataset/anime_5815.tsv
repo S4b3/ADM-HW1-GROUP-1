@@ -1,5 +1,5 @@
-animeTitle	b'Narue no Sekai'
-animeType	b'TV'
+animeTitle	Narue no Sekai
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.56
 animeUsers	6611
 animeRank	
-animePopularity	
-animeDescription	"b""Meet Narue, an adorable schoolgirl with a secret. She's really an alien with powers right out of a sci-fi comic! But growing up is never easy, and sometimes it doesn't help when you're from outer space. Join our spunky heroine as she faces androids, alien invaders, and her first date with the boy next door. It's the sci-fi comedy that's a direct hit to your heart!\n\n(Source: Central Park Media)"""
-animeRelated	[b'Narue no Sekai']
-animeCharacters	[b'Nanase, Narue', b'Iizuka, Kazuto', b'Yagi, Hajime', b'Nanase, Kanaka', b'Otonashi, Rei', b'Bathyscaphe', b'Asakura, Rin', b'Tendo, Ran', b'Nanase, Tadashi', b'Maruo, Masaki']
-animeVoices	[b'\nNoto, Mamiko\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nChiba, Saeko\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nKuwatani, Natsuko\nJapanese\n', b'\nKosuge, Mami\nJapanese\n', b'\nIchimura, Oma\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nSugawara, Junichi\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAshida, Toyoo\n\nDirector, Key Animation\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nChiba, Saeko\n\nTheme Song Performance\n\n', b'\nCooRie\n\nTheme Song Performance\n\n']
+animePopularity	4278
+animeDescription	"Meet Narue, an adorable schoolgirl with a secret. She's really an alien with powers right out of a sci-fi comic! But growing up is never easy, and sometimes it doesn't help when you're from outer space. Join our spunky heroine as she faces androids, alien invaders, and her first date with the boy next door. It's the sci-fi comedy that's a direct hit to your heart!
+
+(Source: Central Park Media)"
+animeRelated	['Narue no Sekai']
+animeCharacters	['Nanase, Narue', 'Iizuka, Kazuto', 'Yagi, Hajime', 'Nanase, Kanaka', 'Otonashi, Rei', 'Bathyscaphe', 'Asakura, Rin', 'Tendo, Ran', 'Nanase, Tadashi', 'Maruo, Masaki']
+animeVoices	['Noto, Mamiko', 'Sakaguchi, Daisuke', 'Chiba, Saeko', 'Minagawa, Junko', 'Kuwatani, Natsuko', 'Kosuge, Mami', 'Ichimura, Oma', 'Kawakami, Tomoko', 'Sugawara, Junichi', 'Fukuyama, Jun']
+animeStaff	[['Ashida, Toyoo', 'Director, Key Animation'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Chiba, Saeko', 'Theme Song Performance'], ['CooRie', 'Theme Song Performance']]

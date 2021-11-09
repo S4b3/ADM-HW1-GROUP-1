@@ -1,4 +1,4 @@
-animeTitle	b'Days'
+animeTitle	Days
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.69
 animeUsers	2968
 animeRank	
-animePopularity	
-animeDescription	b'For longer than she can remember, the monster Azami has been alone. Time passes her by, and she merely watches. Her loneliness finally ends when she gains a family. Yet human lives are fleeting, and Azami may have no choice but to face an unbearable tomorrow where she is alone once again.\n\n[Written by MAL Rewrite]\n'
-animeRelated	[b'Mekakucity Actors', b'Daze']
-animeCharacters	[b'Azami', b'Kozakura, Shion', b'Tsukihiko', b'Enomoto, Takane', b'Tateyama, Ayano']
+animePopularity	6404
+animeDescription	"For longer than she can remember, the monster Azami has been alone. Time passes her by, and she merely watches. Her loneliness finally ends when she gains a family. Yet human lives are fleeting, and Azami may have no choice but to face an unbearable tomorrow where she is alone once again.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Mekakucity Actors', 'Daze']
+animeCharacters	['Azami', 'Kozakura, Shion', 'Tsukihiko', 'Enomoto, Takane', 'Tateyama, Ayano']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nJin\n\nTheme Song Composition, Theme Song Lyrics\n\n', b'\nSidu\n\nAnimation Director\n\n']
+animeStaff	[['Jin', 'Theme Song Composition, Theme Song Lyrics'], ['Sidu', 'Animation Director']]

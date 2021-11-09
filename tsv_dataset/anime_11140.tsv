@@ -1,5 +1,5 @@
-animeTitle	b'Sanjougattai Transformers Go!'
-animeType	b'OVA'
+animeTitle	Sanjougattai Transformers Go!
+animeType	OVA
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.19
 animeUsers	210
 animeRank	
-animePopularity	
-animeDescription	"b""Bundled on DVDs with Shogakukan's Terebi-kun (TV-kun) magazine and Kodansha's TV Magazine.\n\n(Source: ANN)"""
+animePopularity	12109
+animeDescription	"Bundled on DVDs with Shogakukan's Terebi-kun (TV-kun) magazine and Kodansha's TV Magazine.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Fuuma, Tobio', b'Tatewaki, Isami']
-animeVoices	[b'\nTakagaki, Ayahi\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nSakai, Keishi\n\nKey Animation\n\n', b'\nAkai, Fuminao\n\nArt Director\n\n', b'\nNakatake, Manabu\n\nKey Animation, Animation Director, Character Design\n\n']
+animeCharacters	['Fuuma, Tobio', 'Tatewaki, Isami']
+animeVoices	['Takagaki, Ayahi', 'Komatsu, Mikako']
+animeStaff	[['Iwanami, Yoshikazu', 'Sound Director'], ['Sakai, Keishi', 'Key Animation'], ['Akai, Fuminao', 'Art Director'], ['Nakatake, Manabu', 'Key Animation, Animation Director, Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ganbarist! Shun'
-animeType	b'TV'
+animeTitle	Ganbarist! Shun
+animeType	TV
 animeNumEpisode	30
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.2
 animeUsers	851
 animeRank	
-animePopularity	
-animeDescription	b'First-year high school student Fujimaki Shun has a dream of becoming an olympic gold medalist as a gymnast. Having no previous training, Shun trusts his passion, boldly joins the gymnastics club, and sets out to pursue his goal.\n\nAlong the way, he meets his share of entertaining and supportive upper classmen, develops a romantic interest in his classmate, and learns about the happiness involved in devoting yourself to a sport.'
-animeRelated	[b'Ganba! Fly High']
-animeCharacters	[b'Fujimaki, Shun', b'Shindou, Yuuichi', b'Ueno, Yoshio', b'Sanada, Toshihiko', b'Higashi, Denji', b'Sagara, Mariko', b'Uchida, Minoru', b'Tadokoro, Granny', b'Misaki, Eri', b'Orikasa, Reiko']
-animeVoices	[b'\nSakaguchi, Daisuke\nJapanese\n', b'\nMatsumoto, Dai\nJapanese\n', b'\nIkura, Kazue\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nUgaki, Hidenari\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n', b'\nHori, Junko\nJapanese\n', b'\nHonda, Chieko\nJapanese\n', b'\nSakurai, Tomo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKamegaki, Hajime\n\nDirector\n\n', b'\nNishizawa, Susumu\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nSuzuki, Yoshio\n\nEpisode Director, Storyboard\n\n', b'\nIshizaki, Susumu\n\nEpisode Director, Storyboard\n\n']
+animePopularity	8382
+animeDescription	"First-year high school student Fujimaki Shun has a dream of becoming an olympic gold medalist as a gymnast. Having no previous training, Shun trusts his passion, boldly joins the gymnastics club, and sets out to pursue his goal.
+
+Along the way, he meets his share of entertaining and supportive upper classmen, develops a romantic interest in his classmate, and learns about the happiness involved in devoting yourself to a sport."
+animeRelated	['Ganba! Fly High']
+animeCharacters	['Fujimaki, Shun', 'Shindou, Yuuichi', 'Ueno, Yoshio', 'Sanada, Toshihiko', 'Higashi, Denji', 'Sagara, Mariko', 'Uchida, Minoru', 'Tadokoro, Granny', 'Misaki, Eri', 'Orikasa, Reiko']
+animeVoices	['Sakaguchi, Daisuke', 'Matsumoto, Dai', 'Ikura, Kazue', 'Miki, Shinichiro', 'Ugaki, Hidenari', 'Matsumoto, Rica', 'Sasaki, Nozomu', 'Hori, Junko', 'Honda, Chieko', 'Sakurai, Tomo']
+animeStaff	[['Kamegaki, Hajime', 'Director'], ['Nishizawa, Susumu', 'Episode Director, Storyboard, Key Animation'], ['Suzuki, Yoshio', 'Episode Director, Storyboard'], ['Ishizaki, Susumu', 'Episode Director, Storyboard']]

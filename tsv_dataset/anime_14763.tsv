@@ -1,5 +1,5 @@
-animeTitle	b'Akachan Honbuchou'
-animeType	b'TV'
+animeTitle	Akachan Honbuchou
+animeType	TV
 animeNumEpisode	8
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Comedy life of 47-year-old general manager Taketa, whose body became a baby, and his employees.'
+animePopularity	16009
+animeDescription	Comedy life of 47-year-old general manager Taketa, whose body became a baby, and his employees.
 animeRelated	[]
-animeCharacters	[b'Takeda, General Manager', b'Miiko', b'Amano, Manager', b'Tachibana, Manager', b'Sakai, Manager', b'Nishiura']
-animeVoices	[b'\nYasuda, Ken\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nSakaguchi, Tetsuo\nJapanese\n', b'\nSaitou, Souma\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAbe, Marie\n\nDirector\n\n', b'\nTakashima, Tomoya\n\nEpisode Director\n\n', b'\nHyadain\n\nTheme Song Performance, Theme Song Lyrics, Theme Song Composition, Music\n\n', b'\nTakeuchi, Sachiko\n\nOriginal Creator\n\n']
+animeCharacters	['Takeda, General Manager', 'Miiko', 'Amano, Manager', 'Tachibana, Manager', 'Sakai, Manager', 'Nishiura']
+animeVoices	['Yasuda, Ken', 'Sawashiro, Miyuki', 'Morikubo, Shoutarou', 'Ootsuka, Houchuu', 'Sakaguchi, Tetsuo', 'Saitou, Souma']
+animeStaff	[['Abe, Marie', 'Director'], ['Takashima, Tomoya', 'Episode Director'], ['Hyadain', 'Theme Song Performance, Theme Song Lyrics, Theme Song Composition, Music'], ['Takeuchi, Sachiko', 'Original Creator']]

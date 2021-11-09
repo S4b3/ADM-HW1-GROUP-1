@@ -1,5 +1,5 @@
-animeTitle	b'Roots Search: Shokushin Buttai X'
-animeType	b'OVA'
+animeTitle	Roots Search: Shokushin Buttai X
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.17
 animeUsers	1211
 animeRank	
-animePopularity	
-animeDescription	"b'When a research crew in deep space discovers the desolate ship ""Green Planet"" that warps into their area, they encounter Buzz, the commander and sole surivor of the ship. Being too incapacitated to make them aware of the situation of his ship, the research team will soon discover that they have found something far, far worse... \n\n(Source: BakaBT) '"
+animePopularity	8709
+animeDescription	"When a research crew in deep space discovers the desolate ship ""Green Planet"" that warps into their area, they encounter Buzz, the commander and sole surivor of the ship. Being too incapacitated to make them aware of the situation of his ship, the research team will soon discover that they have found something far, far worse... 
+
+(Source: BakaBT) "
 animeRelated	[]
-animeCharacters	[b'Buzz', b'Moira', b'Buttai X', b'Scott', b'Raymond', b'Norman', b'Marcus']
-animeVoices	[b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nHan, Keiko\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nKobayashi, Michitaka\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nKobayashi, Osamu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b'\nEndou, Katsumi\n\nStoryboard\n\n', b'\nKoujina, Hiroshi\n\nKey Animation\n\n', b'\nShimada, Michiru\n\nScreenplay\n\n']
+animeCharacters	['Buzz', 'Moira', 'Buttai X', 'Scott', 'Raymond', 'Norman', 'Marcus']
+animeVoices	['Horiuchi, Kenyuu', 'Han, Keiko', 'Yara, Yuusaku', 'Shiozawa, Kaneto', 'Kobayashi, Michitaka', 'Ginga, Banjou', 'Kobayashi, Osamu']
+animeStaff	[['Matsuura, Noriyoshi', 'Sound Director'], ['Endou, Katsumi', 'Storyboard'], ['Koujina, Hiroshi', 'Key Animation'], ['Shimada, Michiru', 'Screenplay']]

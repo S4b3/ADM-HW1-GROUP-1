@@ -1,5 +1,5 @@
-animeTitle	b'Drifters'
-animeType	b'TV'
+animeTitle	Drifters
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.92
 animeUsers	221303
 animeRank	
-animePopularity	
-animeDescription	"b'At the Battle of Sekigahara in 1600, Toyohisa Shimazu is the rearguard for his retreating troops, and is critically wounded when he suddenly finds himself in a modern, gleaming white hallway. Faced with only a stoic man named Murasaki and hundreds of doors on both sides, Toyohisa is pulled into the nearest door and into a world completely unlike his own.\n\nThe strange land is populated by all manner of fantastical creatures, as well as warriors from different eras of Toyohisa\'s world who were thought to be dead. Quickly befriending the infamous warlord Nobunaga Oda and the ancient archer Yoichi Suketaka Nasu, Toyohisa learns of the political unrest tearing through the continent. Furthermore, they have been summoned as ""Drifters"" to fight against the ""Ends,"" people who are responsible for the creation of the Orte Empire and are trying to annihilate the Drifters. As the Ends grow more powerful, so does the Empire\'s persecution of elves and other demihumans. It is up to Toyohisa and his group of unconventional heroes to battle in a brand-new world war to help the Empire\'s subjects, while protecting the land to claim for themselves and challenging the Ends.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Drifters', b'Drifters: Special Edition', b'Drifters (OVA)', b'Drifters: Kokuou-sama Goranshin', b'Drifters (OVA): Kokuou-sama Goranshin']
-animeCharacters	[b'Shimazu, Toyohisa', b'Oda, Nobunaga', b'Nasu, Yoichi Suketaka', b'Barca, Hannibal', b'Kanno, Naoshi', b'Olminu', b'dArc, Jeanne', b'Gilles de Rais', b'Easy', b'Count Saint-Germi']
-animeVoices	[b'\nNakamura, Yuuichi\nJapanese\n', b'\nUchida, Naoya\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nAoyama, Yutaka\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nKokido, Shiho\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nNomura, Kenji\nJapanese\n', b'\nItou, Kanae\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Yasuyuki\n\nProducer\n\n', b'\nSuzuki, Kenichi\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nYamauchi, Shigeyasu\n\nEpisode Director, Storyboard\n\n']
+animePopularity	351
+animeDescription	"At the Battle of Sekigahara in 1600, Toyohisa Shimazu is the rearguard for his retreating troops, and is critically wounded when he suddenly finds himself in a modern, gleaming white hallway. Faced with only a stoic man named Murasaki and hundreds of doors on both sides, Toyohisa is pulled into the nearest door and into a world completely unlike his own.
+
+The strange land is populated by all manner of fantastical creatures, as well as warriors from different eras of Toyohisa's world who were thought to be dead. Quickly befriending the infamous warlord Nobunaga Oda and the ancient archer Yoichi Suketaka Nasu, Toyohisa learns of the political unrest tearing through the continent. Furthermore, they have been summoned as ""Drifters"" to fight against the ""Ends,"" people who are responsible for the creation of the Orte Empire and are trying to annihilate the Drifters. As the Ends grow more powerful, so does the Empire's persecution of elves and other demihumans. It is up to Toyohisa and his group of unconventional heroes to battle in a brand-new world war to help the Empire's subjects, while protecting the land to claim for themselves and challenging the Ends.
+
+[Written by MAL Rewrite]"
+animeRelated	['Drifters', 'Drifters: Special Edition', 'Drifters (OVA)', 'Drifters: Kokuou-sama Goranshin', 'Drifters (OVA): Kokuou-sama Goranshin']
+animeCharacters	['Shimazu, Toyohisa', 'Oda, Nobunaga', 'Nasu, Yoichi Suketaka', 'Barca, Hannibal', 'Kanno, Naoshi', 'Olminu', 'dArc, Jeanne', 'Gilles de Rais', 'Easy', 'Count Saint-Germi']
+animeVoices	['Nakamura, Yuuichi', 'Uchida, Naoya', 'Saiga, Mitsuki', 'Aoyama, Yutaka', 'Suzuki, Tatsuhisa', 'Kokido, Shiho', 'Minagawa, Junko', 'Nomura, Kenji', 'Itou, Kanae', 'Sugita, Tomokazu']
+animeStaff	[['Ueda, Yasuyuki', 'Producer'], ['Suzuki, Kenichi', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Yamauchi, Shigeyasu', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Kingdom 2nd Season'
-animeType	b'TV'
+animeTitle	Kingdom 2nd Season
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.36
 animeUsers	42341
 animeRank	
-animePopularity	
-animeDescription	"b""A year after the devastating battle against the formidable Zhao, the State of Qin has returned its focus to pursuing King Ying Zheng's ambition of conquering the other six states and unifying China. Their next target is Wei, a smaller state which stands as a geographic stepping stone for the sake of conquest.\n\nLi Xin, now a three hundred man commander of the swiftly rising Fei Xin Unit, continues to seek out lofty achievements in order to garner recognition for himself and his soldiers, motivated by those previously lost in battle. In the preliminary battles ahead of Qin's invasion of Wei, Xin finds competition in other young commanders who are of a higher social status than him. Back in Qin, the royal palace faces turmoil as opposing factions begin to make their move against Ying Zheng's regime.\n\nWith their hands full both abroad and at home, Zheng and Xin must lead the way in this era of unending war, resolved to etch their names in history by creating a unified China.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kingdom', b'Kingdom 3rd Season']
-animeCharacters	[b'Li, Xin', b'Lei, Qiang', b'Ying, Zheng', b'Meng, Tian', b'He Liao, Diao', b'Wang, Ben', b'Wang, Qi', b'Huan, Yi', b'Wang, Jian', b'Gong, Biao']
-animeVoices	[b'\nMorita, Masakazu\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nNojima, Hirofumi\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nItou, Kentarou\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nSaitou, Shirou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwanaga, Akira\n\nDirector\n\n', b'\nNoshitani, Mitsutaka\n\nEpisode Director\n\n', b'\nKidokoro, Seimei\n\nEpisode Director, Storyboard\n\n', b'\nThe Sketchbook\n\nTheme Song Performance\n\n']
+animePopularity	1725
+animeDescription	"A year after the devastating battle against the formidable Zhao, the State of Qin has returned its focus to pursuing King Ying Zheng's ambition of conquering the other six states and unifying China. Their next target is Wei, a smaller state which stands as a geographic stepping stone for the sake of conquest.
+
+Li Xin, now a three hundred man commander of the swiftly rising Fei Xin Unit, continues to seek out lofty achievements in order to garner recognition for himself and his soldiers, motivated by those previously lost in battle. In the preliminary battles ahead of Qin's invasion of Wei, Xin finds competition in other young commanders who are of a higher social status than him. Back in Qin, the royal palace faces turmoil as opposing factions begin to make their move against Ying Zheng's regime.
+
+With their hands full both abroad and at home, Zheng and Xin must lead the way in this era of unending war, resolved to etch their names in history by creating a unified China.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kingdom', 'Kingdom 3rd Season']
+animeCharacters	['Li, Xin', 'Lei, Qiang', 'Ying, Zheng', 'Meng, Tian', 'He Liao, Diao', 'Wang, Ben', 'Wang, Qi', 'Huan, Yi', 'Wang, Jian', 'Gong, Biao']
+animeVoices	['Morita, Masakazu', 'Hikasa, Youko', 'Fukuyama, Jun', 'Nojima, Hirofumi', 'Kugimiya, Rie', 'Hosoya, Yoshimasa', 'Koyama, Rikiya', 'Itou, Kentarou', 'Horiuchi, Kenyuu', 'Saitou, Shirou']
+animeStaff	[['Iwanaga, Akira', 'Director'], ['Noshitani, Mitsutaka', 'Episode Director'], ['Kidokoro, Seimei', 'Episode Director, Storyboard'], ['The Sketchbook', 'Theme Song Performance']]

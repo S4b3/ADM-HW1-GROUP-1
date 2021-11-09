@@ -1,5 +1,5 @@
-animeTitle	b'K: Seven Stories Movie 1 - R:B - Blaze'
-animeType	b'Movie'
+animeTitle	K: Seven Stories Movie 1 - R:B - Blaze
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.4
 animeUsers	7507
 animeRank	
-animePopularity	
-animeDescription	b'Lately, the stress of having to constantly keep his destructive power under control is causing the Red King Mikoto Suoh to become unstable. Meanwhile, Reisi Munakata is chosen by the Dresden Slate to become the new Blue King.\n\n(Source: TubiTV)'
-animeRelated	[b'K: R:B', b'K', b'K: Seven Stories Movie 2 - Side:Blue - Tenrou no Gotoku', b'K: Seven Stories - The Idol K']
-animeCharacters	[b'Suou, Mikoto', b'Munakata, Reishi', b'Yata, Misaki', b'Fushimi, Saruhiko', b'Kushina, Anna', b'Totsuka, Tatara', b'Kusanagi, Izumo', b'Awashima, Seri', b'Kamamoto, Rikio', b'Akiyama, Himori']
-animeVoices	[b'\nTsuda, Kenjirou\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nTakahashi, Kouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Shingo\n\nDirector, Character Design\n\n', b'\nTanaka, Ryou\n\nSound Director\n\n', b'\nGoRA\n\nOriginal Creator\n\n']
+animePopularity	2268
+animeDescription	"Lately, the stress of having to constantly keep his destructive power under control is causing the Red King Mikoto Suoh to become unstable. Meanwhile, Reisi Munakata is chosen by the Dresden Slate to become the new Blue King.
+
+(Source: TubiTV)"
+animeRelated	['K: R:B', 'K', 'K: Seven Stories Movie 2 - Side:Blue - Tenrou no Gotoku', 'K: Seven Stories - The Idol K']
+animeCharacters	['Suou, Mikoto', 'Munakata, Reishi', 'Yata, Misaki', 'Fushimi, Saruhiko', 'Kushina, Anna', 'Totsuka, Tatara', 'Kusanagi, Izumo', 'Awashima, Seri', 'Kamamoto, Rikio', 'Akiyama, Himori']
+animeVoices	['Tsuda, Kenjirou', 'Sugita, Tomokazu', 'Fukuyama, Jun', 'Miyano, Mamoru', 'Horie, Yui', 'Kaji, Yuki', 'Sakurai, Takahiro', 'Sawashiro, Miyuki', 'Nakamura, Yuuichi', 'Takahashi, Kouji']
+animeStaff	[['Suzuki, Shingo', 'Director, Character Design'], ['Tanaka, Ryou', 'Sound Director'], ['GoRA', 'Original Creator']]

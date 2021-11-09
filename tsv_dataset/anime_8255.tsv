@@ -1,5 +1,5 @@
-animeTitle	b'Masou Kishin Cybuster'
-animeType	b'TV'
+animeTitle	Masou Kishin Cybuster
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.09
 animeUsers	745
 animeRank	
-animePopularity	
-animeDescription	b' In an enviromentally wrecked future Tokyo, a young man named Ken Ando joins an organization called DC. Little does he realize that his fate and that of Earth will be linked to a mysterious mecha from another world. \n\n(Source: ANN)'
+animePopularity	8578
+animeDescription	" In an enviromentally wrecked future Tokyo, a young man named Ken Ando joins an organization called DC. Little does he realize that his fate and that of Earth will be linked to a mysterious mecha from another world. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Kamijo, Mizuki', b'Ando, Ken', b'Ozaki, Nanase', b'Kamijo, Itetsu', b'Masaki', b'Frank, Lyune', b'Ando, Sayuri', b'Zoldark, Shu', b'Ando, Ryuzo', b'Grace, Saphine']
-animeVoices	[b'\nMasuda, Yuki\nJapanese\n', b'\nOda, Yuusei\nJapanese\n', b'\nKobayashi, Yumiko\nJapanese\n', b'\nOdaka, Sanryo\nJapanese\n', b'\nMutou, Sumi\nJapanese\n', b'\nNagata, Ryoko\nJapanese\n', b'\nNegishi, Akira\nJapanese\n', b'\nMorita, Junpei\nJapanese\n', b'\nMiura, Naoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Hidehito\n\nDirector, Episode Director, Storyboard\n\n', b'\nTsuchiya, Hiroyuki\n\nEpisode Director\n\n', b'\nOkuda, Seiji\n\nStoryboard\n\n', b'\nEndoh, Masaaki\n\nTheme Song Performance\n\n']
+animeCharacters	['Kamijo, Mizuki', 'Ando, Ken', 'Ozaki, Nanase', 'Kamijo, Itetsu', 'Masaki', 'Frank, Lyune', 'Ando, Sayuri', 'Zoldark, Shu', 'Ando, Ryuzo', 'Grace, Saphine']
+animeVoices	['Masuda, Yuki', 'Oda, Yuusei', 'Kobayashi, Yumiko', 'Odaka, Sanryo', 'Mutou, Sumi', 'Nagata, Ryoko', 'Negishi, Akira', 'Morita, Junpei', 'Miura, Naoko']
+animeStaff	[['Ueda, Hidehito', 'Director, Episode Director, Storyboard'], ['Tsuchiya, Hiroyuki', 'Episode Director'], ['Okuda, Seiji', 'Storyboard'], ['Endoh, Masaaki', 'Theme Song Performance']]

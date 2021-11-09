@@ -1,5 +1,5 @@
-animeTitle	b'Onegai Patron-sama!'
-animeType	b'ONA'
+animeTitle	Onegai Patron-sama!
+animeType	ONA
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'The story centers on hero pair teams named ""Patraisers,"" consisting of ""Sugars"" and their supporter ""Patrons."" The Patraiser teams ""reinvigorate people\'s frozen hearts.""\n\nThe ""main story"" videos will focus on a single Patraiser pair, consisting of the Sugar Asahi Yuga and his Patron Ryouya Nekoyashiki. The ""side story"" videos will focus on their daily lives, as well as the other characters.\n\n(Source: ANN)'"
-animeRelated	[b'Onegai Patron-sama! Episode 0']
-animeCharacters	[b'Nekoyashiki, Ryouya', b'Yuga, Asahi', b'DC', b'Tsugiki, Inari', b'Tsugiki, You', b'Kurumi, Mine', b'Higuma, Touto']
-animeVoices	[b'\nToyoshima, Masato\nJapanese\n', b'\nImamura, Masaya\nJapanese\n', b'\nYamada, Kazuma\nJapanese\n', b'\nSakagami, Shou\nJapanese\n', b'\nAsagiri, Yuuhi\nJapanese\n', b'\nMaeuchi, Takafumi\nJapanese\n', b'\nHoshino, Keigo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNozaki, Keiichi\n\nProducer, Sound Director\n\n', b'\nUrahata, Masaru\n\nSound Effects\n\n', b'\nNatsuko\n\nOriginal Character Design\n\n', b'\nTamura, Masayuki\n\nMusic\n\n']
+animePopularity	13548
+animeDescription	"The story centers on hero pair teams named ""Patraisers,"" consisting of ""Sugars"" and their supporter ""Patrons."" The Patraiser teams ""reinvigorate people's frozen hearts.""
+
+The ""main story"" videos will focus on a single Patraiser pair, consisting of the Sugar Asahi Yuga and his Patron Ryouya Nekoyashiki. The ""side story"" videos will focus on their daily lives, as well as the other characters.
+
+(Source: ANN)"
+animeRelated	['Onegai Patron-sama! Episode 0']
+animeCharacters	['Nekoyashiki, Ryouya', 'Yuga, Asahi', 'DC', 'Tsugiki, Inari', 'Tsugiki, You', 'Kurumi, Mine', 'Higuma, Touto']
+animeVoices	['Toyoshima, Masato', 'Imamura, Masaya', 'Yamada, Kazuma', 'Sakagami, Shou', 'Asagiri, Yuuhi', 'Maeuchi, Takafumi', 'Hoshino, Keigo']
+animeStaff	[['Nozaki, Keiichi', 'Producer, Sound Director'], ['Urahata, Masaru', 'Sound Effects'], ['Natsuko', 'Original Character Design'], ['Tamura, Masayuki', 'Music']]

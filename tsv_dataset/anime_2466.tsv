@@ -1,5 +1,5 @@
-animeTitle	b'Ginga Tetsudou no Yoru'
-animeType	b'Movie'
+animeTitle	Ginga Tetsudou no Yoru
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.29
 animeUsers	6744
 animeRank	
-animePopularity	
-animeDescription	"b""Giovanni is a young boy who lives on the outskirts of a small rustic village. His mother is bedridden and his father has not returned home since leaving to work on a fishing boat. An outcast at school, Giovanni has only one friend: Campanella, the mayor's son. During the town's Festival of Stars, Giovanni starts to daydream atop a hill and looks up to find a steam engine train floating in the air. He boards the train only to find his friend Campanella already there. And so, the two begin their journey through the stars where they come across unusual people and visit many beautiful and haunting places.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Ginga Tetsudou no Yoru', b'Ihatov Gensou: Kenji no Haru', b'Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars']
-animeCharacters	[b'Giovanni', b'Campanella']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugii, Gisaburou\n\nDirector, Storyboard\n\n', b'\nFreeman, Crispin\n\nScript\n\n', b'\nMashimo, Kouichi\n\nStoryboard\n\n', b'\nMizutani, Takaya\n\nStoryboard\n\n']
+animePopularity	4086
+animeDescription	"Giovanni is a young boy who lives on the outskirts of a small rustic village. His mother is bedridden and his father has not returned home since leaving to work on a fishing boat. An outcast at school, Giovanni has only one friend: Campanella, the mayor's son. During the town's Festival of Stars, Giovanni starts to daydream atop a hill and looks up to find a steam engine train floating in the air. He boards the train only to find his friend Campanella already there. And so, the two begin their journey through the stars where they come across unusual people and visit many beautiful and haunting places.
+
+[Written by MAL Rewrite]"
+animeRelated	['Ginga Tetsudou no Yoru', 'Ihatov Gensou: Kenji no Haru', 'Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars']
+animeCharacters	['Giovanni', 'Campanella']
+animeVoices	['Tanaka, Mayumi', 'Sakamoto, Chika']
+animeStaff	[['Sugii, Gisaburou', 'Director, Storyboard'], ['Freeman, Crispin', 'Script'], ['Mashimo, Kouichi', 'Storyboard'], ['Mizutani, Takaya', 'Storyboard']]

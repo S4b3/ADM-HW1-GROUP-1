@@ -1,5 +1,5 @@
-animeTitle	b'Urusei Yatsura Movie 3: Remember My Love'
-animeType	b'Movie'
+animeTitle	Urusei Yatsura Movie 3: Remember My Love
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.96
 animeUsers	2577
 animeRank	
-animePopularity	
-animeDescription	b'It seems that when Lum was born, a postal screwup resulted in a witchy friend of the family not getting an invitation to the celebration. The witch put a curse on Lum, that she would never be happy with her True Love. \n\nIn the present, a new Amusement Park has been built in Tomobiki, and opening day finds the whole gang sampling its pleasures. At a magic show, however, Ataru gets turned into a large pink hippo-potamus, FOR REAL! \n\nWhen Lum attempts to track down the magician that transformed her Darling, things start to get very weird, very fast! \n\n(Source: AniDB)'
-animeRelated	[b'Urusei Yatsura']
-animeCharacters	[b'Lum', b'Moroboshi, Ataru', b'Mendo, Shutaro', b'Ruu', b'Ran', b'Sakuranbou', b'Miyake, Shinobu', b'Satoshi', b'Sakura', b'Ten']
-animeVoices	[b'\nHirano, Fumi\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nKomiya, Kazue\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nShimazu, Saeko\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nWashio, Machiko\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamazaki, Kazuo\n\nDirector\n\n', b'\nAnno, Hideaki\n\nKey Animation\n\n', b'\nTakahashi, Rumiko\n\nOriginal Creator\n\n', b'\nTakada, Akemi\n\nCharacter Design\n\n']
+animePopularity	6493
+animeDescription	"It seems that when Lum was born, a postal screwup resulted in a witchy friend of the family not getting an invitation to the celebration. The witch put a curse on Lum, that she would never be happy with her True Love. 
+
+In the present, a new Amusement Park has been built in Tomobiki, and opening day finds the whole gang sampling its pleasures. At a magic show, however, Ataru gets turned into a large pink hippo-potamus, FOR REAL! 
+
+When Lum attempts to track down the magician that transformed her Darling, things start to get very weird, very fast! 
+
+(Source: AniDB)"
+animeRelated	['Urusei Yatsura']
+animeCharacters	['Lum', 'Moroboshi, Ataru', 'Mendo, Shutaro', 'Ruu', 'Ran', 'Sakuranbou', 'Miyake, Shinobu', 'Satoshi', 'Sakura', 'Ten']
+animeVoices	['Hirano, Fumi', 'Furukawa, Toshio', 'Kamiya, Akira', 'Iwata, Mitsuo', 'Komiya, Kazue', 'Nagai, Ichiro', 'Shimazu, Saeko', 'Chiba, Shigeru', 'Washio, Machiko', 'Sugiyama, Kazuko']
+animeStaff	[['Yamazaki, Kazuo', 'Director'], ['Anno, Hideaki', 'Key Animation'], ['Takahashi, Rumiko', 'Original Creator'], ['Takada, Akemi', 'Character Design']]

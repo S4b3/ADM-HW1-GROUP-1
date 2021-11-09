@@ -1,5 +1,5 @@
-animeTitle	b'Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen'
-animeType	b'OVA'
+animeTitle	Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.99
 animeUsers	42380
 animeRank	
-animePopularity	
-animeDescription	b'Kaoru goes to the harbor every day to see if Kenshin has returned. After a while, she starts looking back at her life with Kenshin and all the things that have happened.\n\n(Source: ANN)'
-animeRelated	[b'Rurouni Kenshin: Meiji Kenkaku Romantan']
-animeCharacters	[b'Himura, Kenshin', b'Sagara, Sanosuke', b'Kamiya, Kaoru', b'Myoujin, Yahiko', b'Saitou, Hajime', b'Shishio, Makoto', b'Hiko, Seijuurou', b'Yukishiro, Enishi', b'Takani, Megumi', b'Himura, Kenji']
-animeVoices	[b'\nSuzukaze, Mayo\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nFujitani, Miki\nJapanese\n', b'\nTominaga, Miina\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nIkeda, Shuuichi\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n', b'\nDoi, Mika\nJapanese\n', b'\nKaida, Yuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCampbell, Charles\n\nProducer, ADR Director, Recording Engineer\n\n', b'\nFuruhashi, Kazuhiro\n\nDirector, Storyboard\n\n', b'\nYoshida, Reiko\n\nScript\n\n', b'\nKasahara, Hiroko\n\nTheme Song Performance\n\n']
+animePopularity	1941
+animeDescription	"Kaoru goes to the harbor every day to see if Kenshin has returned. After a while, she starts looking back at her life with Kenshin and all the things that have happened.
+
+(Source: ANN)"
+animeRelated	['Rurouni Kenshin: Meiji Kenkaku Romantan']
+animeCharacters	['Himura, Kenshin', 'Sagara, Sanosuke', 'Kamiya, Kaoru', 'Myoujin, Yahiko', 'Saitou, Hajime', 'Shishio, Makoto', 'Hiko, Seijuurou', 'Yukishiro, Enishi', 'Takani, Megumi', 'Himura, Kenji']
+animeVoices	['Suzukaze, Mayo', 'Ueda, Yuuji', 'Fujitani, Miki', 'Tominaga, Miina', 'Suzuoki, Hirotaka', 'Ikeda, Shuuichi', 'Sasaki, Nozomu', 'Doi, Mika', 'Kaida, Yuki']
+animeStaff	[['Campbell, Charles', 'Producer, ADR Director, Recording Engineer'], ['Furuhashi, Kazuhiro', 'Director, Storyboard'], ['Yoshida, Reiko', 'Script'], ['Kasahara, Hiroko', 'Theme Song Performance']]

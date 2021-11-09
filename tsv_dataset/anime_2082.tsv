@@ -1,5 +1,5 @@
-animeTitle	b'Urusei Yatsura OVA'
-animeType	b'OVA'
+animeTitle	Urusei Yatsura OVA
+animeType	OVA
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.37
 animeUsers	1906
 animeRank	
-animePopularity	
-animeDescription	"b'The adventures of Lum, Ataru, Ten, and all the gang from Tomobiki continue in an assortment of new \xe2\x80\x93 but no less weird \xe2\x80\x93 stories. \n\nWatch as Lum, Ataru, and Shinobu encounter a rabbit-clad youth, enter the Room of Destiny, and get a glimpse into their futures in ""Inaba the Dreammaker,"" or see Ran\'s plans to use a sherbet cone-producing bird to open a sherbet shop one hot Tokyo summer go terribly awry in \xe2\x80\x9cRaging Sherbet.\xe2\x80\x9d Ataru has yet another bad experience with Lum\'s cooking in ""I Howl at the Moon"".\n\n(Source: ANN)'"
-animeRelated	[b'Urusei Yatsura', b'Urusei Yatsura: The Shougaibutsu Suieitaikai']
-animeCharacters	[b'Lum', b'Moroboshi, Ataru', b'Mendo, Shutaro', b'Miyake, Shinobu', b'Ran', b'Fujinami, Ryuunosuke', b'Sakuranbou', b'Satoshi', b'Sakura', b'Ten']
-animeVoices	[b'\nHirano, Fumi\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nShimazu, Saeko\nJapanese\n', b'\nKomiya, Kazue\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nWashio, Machiko\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamazaki, Kazuo\n\nDirector, Episode Director, Script, Storyboard, Animation Director\n\n', b'\nDezaki, Satoshi\n\nDirector\n\n', b'\nMoriwaki, Makoto\n\nEpisode Director, Storyboard\n\n', b'\nKamimura, Osamu\n\nEpisode Director, Storyboard\n\n']
+animePopularity	6855
+animeDescription	"The adventures of Lum, Ataru, Ten, and all the gang from Tomobiki continue in an assortment of new – but no less weird – stories. 
+
+Watch as Lum, Ataru, and Shinobu encounter a rabbit-clad youth, enter the Room of Destiny, and get a glimpse into their futures in ""Inaba the Dreammaker,"" or see Ran's plans to use a sherbet cone-producing bird to open a sherbet shop one hot Tokyo summer go terribly awry in “Raging Sherbet.” Ataru has yet another bad experience with Lum's cooking in ""I Howl at the Moon"".
+
+(Source: ANN)"
+animeRelated	['Urusei Yatsura', 'Urusei Yatsura: The Shougaibutsu Suieitaikai']
+animeCharacters	['Lum', 'Moroboshi, Ataru', 'Mendo, Shutaro', 'Miyake, Shinobu', 'Ran', 'Fujinami, Ryuunosuke', 'Sakuranbou', 'Satoshi', 'Sakura', 'Ten']
+animeVoices	['Hirano, Fumi', 'Furukawa, Toshio', 'Kamiya, Akira', 'Shimazu, Saeko', 'Komiya, Kazue', 'Tanaka, Mayumi', 'Nagai, Ichiro', 'Chiba, Shigeru', 'Washio, Machiko', 'Sugiyama, Kazuko']
+animeStaff	[['Yamazaki, Kazuo', 'Director, Episode Director, Script, Storyboard, Animation Director'], ['Dezaki, Satoshi', 'Director'], ['Moriwaki, Makoto', 'Episode Director, Storyboard'], ['Kamimura, Osamu', 'Episode Director, Storyboard']]

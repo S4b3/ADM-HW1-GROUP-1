@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon XY&Z Specials'
-animeType	b'Special'
+animeTitle	Pokemon XY&Z Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.04
 animeUsers	4567
 animeRank	
-animePopularity	
-animeDescription	"b""Professor Sycamore and Alexa explore some ruins, where they discover a stone statue of a woman named Aila, and a legend emerges. A collection of Kalos records reveals that Aila's true love, Jan, attempted to vanquish the Destruction Pok\xc3\xa9mon Yveltal. When he failed, the land was drained of all life as Yveltal became a cocoon and turned Aila to stone.\n\nJan continued his quest, seeking out the Life Pok\xc3\xa9mon Xerneas to replenish the barren land\xe2\x80\x94although it couldn't save Aila. When Kalos seemed hopelessly out of balance, the Order Pok\xc3\xa9mon Zygarde appeared to restore it, and Jan remained at Aila\xe2\x80\x99s side as the cycle of life and destruction continued. \n\n(Source: Builbapedia)"""
-animeRelated	[b'Pokemon XY&Z']
-animeCharacters	[b'Citron', b'Dent', b'Eureka', b'Platane, Doctor', b'Pansy', b'Jan', b'Narrator', b'Magica', b'Beoram', b'Aila']
-animeVoices	[b'\nKaji, Yuki\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nTsuchida, Hiroshi\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nOhara, Takashi\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nAkasaki, Chinatsu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKaji, Yuki\n\nTheme Song Performance\n\n', b'\nIse, Mariya\n\nTheme Song Performance\n\n', b'\nMatsumoto, Rica\n\nTheme Song Performance\n\n', b'\nSako, Tomohisa\n\nTheme Song Lyrics, Theme Song Composition\n\n']
+animePopularity	5524
+animeDescription	"Professor Sycamore and Alexa explore some ruins, where they discover a stone statue of a woman named Aila, and a legend emerges. A collection of Kalos records reveals that Aila's true love, Jan, attempted to vanquish the Destruction Pokémon Yveltal. When he failed, the land was drained of all life as Yveltal became a cocoon and turned Aila to stone.
+
+Jan continued his quest, seeking out the Life Pokémon Xerneas to replenish the barren land—although it couldn't save Aila. When Kalos seemed hopelessly out of balance, the Order Pokémon Zygarde appeared to restore it, and Jan remained at Aila’s side as the cycle of life and destruction continued. 
+
+(Source: Builbapedia)"
+animeRelated	['Pokemon XY&Z']
+animeCharacters	['Citron', 'Dent', 'Eureka', 'Platane, Doctor', 'Pansy', 'Jan', 'Narrator', 'Magica', 'Beoram', 'Aila']
+animeVoices	['Kaji, Yuki', 'Miyano, Mamoru', 'Ise, Mariya', 'Tsuchida, Hiroshi', 'Endou, Aya', 'Ohara, Takashi', 'Ishizuka, Unshou', 'Katsuki, Masako', 'Miyake, Kenta', 'Akasaki, Chinatsu']
+animeStaff	[['Kaji, Yuki', 'Theme Song Performance'], ['Ise, Mariya', 'Theme Song Performance'], ['Matsumoto, Rica', 'Theme Song Performance'], ['Sako, Tomohisa', 'Theme Song Lyrics, Theme Song Composition']]

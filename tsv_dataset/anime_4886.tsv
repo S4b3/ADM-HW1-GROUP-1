@@ -1,5 +1,5 @@
-animeTitle	b'Crayon Shin-chan Movie 07: Bakuhatsu! Onsen Wakuwaku Daikessen'
-animeType	b'Movie'
+animeTitle	Crayon Shin-chan Movie 07: Bakuhatsu! Onsen Wakuwaku Daikessen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.74
 animeUsers	1496
 animeRank	
-animePopularity	
-animeDescription	"b'The Nohara family and ""Onsen G-Men"", the secret government agency maintaining all the hot springs in Japan, fight against ""Yuzame"", a bath-hating terrorist organization plotting to wipe out all the hot springs in Japan.\n\n(Source: Manabu Tsuribe)'"
-animeRelated	[b'Crayon Shin-chan', b'Crayon Shin-chan Movie 06: Dengeki! Buta no Hizume Daisakusen', b'Crayon Shin-chan Movie 08: Arashi wo Yobu Jungle']
-animeCharacters	[b'Nohara, Shinnosuke', b'Nohara, Hiroshi', b'Buriburizaemon', b'Nohara, Misae', b'Nohara, Himawari', b'Boo-chan', b'Kazama, Tooru', b'Sakurada, Nene', b'Takakura, Bunta', b'Ageo, Masumi']
-animeVoices	[b'\nYajima, Akiko\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nNarahashi, Miki\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nSatou, Chie\nJapanese\n', b'\nMashiba, Mari\nJapanese\n', b'\nHayashi, Tamao\nJapanese\n', b'\nNaya, Rokurou\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHara, Keiichi\n\nDirector, Script, Storyboard\n\n', b'\nMizushima, Tsutomu\n\nEpisode Director, Storyboard\n\n', b'\nYuasa, Masaaki\n\nKey Animation\n\n', b'\nTakemoto, Yasuhiro\n\nKey Animation\n\n']
+animePopularity	8235
+animeDescription	"The Nohara family and ""Onsen G-Men"", the secret government agency maintaining all the hot springs in Japan, fight against ""Yuzame"", a bath-hating terrorist organization plotting to wipe out all the hot springs in Japan.
+
+(Source: Manabu Tsuribe)"
+animeRelated	['Crayon Shin-chan', 'Crayon Shin-chan Movie 06: Dengeki! Buta no Hizume Daisakusen', 'Crayon Shin-chan Movie 08: Arashi wo Yobu Jungle']
+animeCharacters	['Nohara, Shinnosuke', 'Nohara, Hiroshi', 'Buriburizaemon', 'Nohara, Misae', 'Nohara, Himawari', 'Boo-chan', 'Kazama, Tooru', 'Sakurada, Nene', 'Takakura, Bunta', 'Ageo, Masumi']
+animeVoices	['Yajima, Akiko', 'Fujiwara, Keiji', 'Shiozawa, Kaneto', 'Narahashi, Miki', 'Koorogi, Satomi', 'Satou, Chie', 'Mashiba, Mari', 'Hayashi, Tamao', 'Naya, Rokurou', 'Mitsuishi, Kotono']
+animeStaff	[['Hara, Keiichi', 'Director, Script, Storyboard'], ['Mizushima, Tsutomu', 'Episode Director, Storyboard'], ['Yuasa, Masaaki', 'Key Animation'], ['Takemoto, Yasuhiro', 'Key Animation']]

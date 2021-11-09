@@ -1,5 +1,5 @@
-animeTitle	b'Hal'
-animeType	b'Movie'
+animeTitle	Hal
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.44
 animeUsers	61598
 animeRank	
-animePopularity	
-animeDescription	"b""Kurumi is a beautiful young woman whose beloved boyfriend, Hal, died in a sudden airplane accident. Left heartbroken and gloomy, she isolates herself in a small house. But this soon comes to change when her grandfather requests the help of a humanoid robot named Q01.\n\nTaking on the appearance of Hal, Q01 is sent to Kurumi's house in order to save her from her state of despair. As Hal returns day after day and increases his efforts, Kurumi, despite her initial reluctance, slowly begins to open up to him and break free from her depression. But there is more to Hal than meets the eye, and these two will soon learn an unexpected truth about this relationship between a human and an android.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Hal']
-animeCharacters	[b'Hal', b'Kurumi', b'Ryuu', b'Sadao', b'Tsukiko', b'Aranami', b'Tokio']
-animeVoices	[b'\nHosoya, Yoshimasa\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nMayama, Ako\nJapanese\n', b'\nTsuji, Shinpachi\nJapanese\n', b'\nOoki, Tamio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWada, Jouji\n\nProducer\n\n', b'\nNakatake, Tetsuya\n\nProducer\n\n', b'\nMakihara, Ryoutarou\n\nDirector\n\n', b'\nHata, Shouji\n\nSound Director\n\n']
+animePopularity	1358
+animeDescription	"Kurumi is a beautiful young woman whose beloved boyfriend, Hal, died in a sudden airplane accident. Left heartbroken and gloomy, she isolates herself in a small house. But this soon comes to change when her grandfather requests the help of a humanoid robot named Q01.
+
+Taking on the appearance of Hal, Q01 is sent to Kurumi's house in order to save her from her state of despair. As Hal returns day after day and increases his efforts, Kurumi, despite her initial reluctance, slowly begins to open up to him and break free from her depression. But there is more to Hal than meets the eye, and these two will soon learn an unexpected truth about this relationship between a human and an android.
+
+[Written by MAL Rewrite]"
+animeRelated	['Hal']
+animeCharacters	['Hal', 'Kurumi', 'Ryuu', 'Sadao', 'Tsukiko', 'Aranami', 'Tokio']
+animeVoices	['Hosoya, Yoshimasa', 'Hikasa, Youko', 'Miyano, Mamoru', 'Mayama, Ako', 'Tsuji, Shinpachi', 'Ooki, Tamio']
+animeStaff	[['Wada, Jouji', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Makihara, Ryoutarou', 'Director'], ['Hata, Shouji', 'Sound Director']]

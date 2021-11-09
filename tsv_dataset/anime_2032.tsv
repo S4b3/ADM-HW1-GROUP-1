@@ -1,5 +1,5 @@
-animeTitle	b'Fate/stay night Movie: Unlimited Blade Works'
-animeType	b'Movie'
+animeTitle	Fate/stay night Movie: Unlimited Blade Works
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.38
 animeUsers	104595
 animeRank	
-animePopularity	
-animeDescription	b'This is the adaptation of the second route of the popular visual novel: Fate/stay night. In this route, Rin Toosaka will be the major female character. Revelations about Shirou and his destiny will be made.\n\n(Source: AnimeNfo)'
-animeRelated	"[b'Fate/stay night', b'Fate/stay night: Unlimited Blade Works', b""Fate/stay night Movie: Heaven's Feel - I. Presage Flower"", b'Fate/Zero 2nd Season']"
-animeCharacters	[b'Saber', b'Toosaka, Rin', b'Archer', b'Emiya, Shirou', b'Gilgamesh', b'Matou, Sakura', b'von Einzbern, Illyasviel', b'Kotomine, Kirei', b'Lancer', b'Rider']
-animeVoices	[b'\nKawasumi, Ayako\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nShitaya, Noriko\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamaguchi, Yuuji\n\nDirector, Storyboard\n\n', b'\nYamamoto, Hideyo\n\nStoryboard\n\n', b'\nYanagisawa, Tetsuya\n\nStoryboard\n\n', b'\nTerahigashi, Katsumi\n\nStoryboard\n\n']
+animePopularity	932
+animeDescription	"This is the adaptation of the second route of the popular visual novel: Fate/stay night. In this route, Rin Toosaka will be the major female character. Revelations about Shirou and his destiny will be made.
+
+(Source: AnimeNfo)"
+animeRelated	"['Fate/stay night', 'Fate/stay night: Unlimited Blade Works', ""Fate/stay night Movie: Heaven's Feel - I. Presage Flower"", 'Fate/Zero 2nd Season']"
+animeCharacters	['Saber', 'Toosaka, Rin', 'Archer', 'Emiya, Shirou', 'Gilgamesh', 'Matou, Sakura', 'von Einzbern, Illyasviel', 'Kotomine, Kirei', 'Lancer', 'Rider']
+animeVoices	['Kawasumi, Ayako', 'Ueda, Kana', 'Suwabe, Junichi', 'Sugiyama, Noriaki', 'Seki, Tomokazu', 'Shitaya, Noriko', 'Kadowaki, Mai', 'Nakata, Jouji', 'Canna, Nobutoshi', 'Asakawa, Yuu']
+animeStaff	[['Yamaguchi, Yuuji', 'Director, Storyboard'], ['Yamamoto, Hideyo', 'Storyboard'], ['Yanagisawa, Tetsuya', 'Storyboard'], ['Terahigashi, Katsumi', 'Storyboard']]

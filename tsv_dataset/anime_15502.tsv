@@ -1,5 +1,5 @@
-animeTitle	b'Duel Masters King'
-animeType	b'TV'
+animeTitle	Duel Masters King
+animeType	TV
 animeNumEpisode	47
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Duel Masters!!', b'Duel Masters King!']
-animeCharacters	[b'Kirifuda, Joe', b'Deckie', b'Onifuda, Abaku', b'Conny', b'Cap', b'Uraraka, Momo', b'Kira', b'Bolts']
-animeVoices	[b'\nKobayashi, Yumiko\nJapanese\n', b'\nSatou, Setsuji\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nMurakawa, Rie\nJapanese\n', b'\nIchikawa, Taichi\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nShiraishi, Minoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiodori, Hiroshi\n\nDirector\n\n', b'\nItou, Takumi\n\nSound Director\n\n', b'\nInoue, Akiko\n\nScript\n\n', b'\nMizuki, Nana\n\nTheme Song Performance\n\n']
+animePopularity	12449
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Duel Masters!!', 'Duel Masters King!']
+animeCharacters	['Kirifuda, Joe', 'Deckie', 'Onifuda, Abaku', 'Conny', 'Cap', 'Uraraka, Momo', 'Kira', 'Bolts']
+animeVoices	['Kobayashi, Yumiko', 'Satou, Setsuji', 'Kimura, Ryouhei', 'Murakawa, Rie', 'Ichikawa, Taichi', 'Toyosaki, Aki', 'Toyonaga, Toshiyuki', 'Shiraishi, Minoru']
+animeStaff	[['Ishiodori, Hiroshi', 'Director'], ['Itou, Takumi', 'Sound Director'], ['Inoue, Akiko', 'Script'], ['Mizuki, Nana', 'Theme Song Performance']]

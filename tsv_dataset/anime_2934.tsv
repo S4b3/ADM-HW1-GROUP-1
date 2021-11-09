@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Ball: Episode of Bardock'
-animeType	b'Special'
+animeTitle	Dragon Ball: Episode of Bardock
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.19
 animeUsers	61312
 animeRank	
-animePopularity	
-animeDescription	"b""Shown at Jump Festa 2012, held in December, 2011.\n\nBardock, Goku's father, who was supposed to have died when Freeza's attack hit him along with the Planet Vegeta, was sent way back in time where the planet was inhabited by strange creatures. There, he meets Freeza's ancestor, a space pirate named Chilled, and fights him to protect the planet.\n\n(Source: AniDB)"""
-animeRelated	[b'Dragon Ball: Episode of Bardock', b'Dragon Ball Z', b'Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen']
-animeCharacters	[b'Bardock', b'Chilled', b'Freeza', b'Zarbon', b'Berry', b'Dodoria', b'Narrator', b'Ipana']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nMiura, Hiroaki\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nNagasako, Takashi\nJapanese\n', b'\nYanami, Jouji\nJapanese\n', b'\nEbara, Masashi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Yoshihiro\n\nDirector, Episode Director\n\n', b'\nKoyama, Takao\n\nScript\n\n', b'\nYamamuro, Tadayoshi\n\nCharacter Design\n\n', b'\nOonishi, Ryou\n\nKey Animation\n\n']
+animePopularity	1669
+animeDescription	"Shown at Jump Festa 2012, held in December, 2011.
+
+Bardock, Goku's father, who was supposed to have died when Freeza's attack hit him along with the Planet Vegeta, was sent way back in time where the planet was inhabited by strange creatures. There, he meets Freeza's ancestor, a space pirate named Chilled, and fights him to protect the planet.
+
+(Source: AniDB)"
+animeRelated	['Dragon Ball: Episode of Bardock', 'Dragon Ball Z', 'Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen']
+animeCharacters	['Bardock', 'Chilled', 'Freeza', 'Zarbon', 'Berry', 'Dodoria', 'Narrator', 'Ipana']
+animeVoices	['Nozawa, Masako', 'Nakao, Ryusei', 'Miura, Hiroaki', 'Kuwashima, Houko', 'Nagasako, Takashi', 'Yanami, Jouji', 'Ebara, Masashi']
+animeStaff	[['Ueda, Yoshihiro', 'Director, Episode Director'], ['Koyama, Takao', 'Script'], ['Yamamuro, Tadayoshi', 'Character Design'], ['Oonishi, Ryou', 'Key Animation']]

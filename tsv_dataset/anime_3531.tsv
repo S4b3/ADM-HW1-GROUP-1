@@ -1,5 +1,5 @@
-animeTitle	b'Mikakunin de Shinkoukei: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo.'
-animeType	b'Special'
+animeTitle	Mikakunin de Shinkoukei: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo.
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.06
 animeUsers	21528
 animeRank	
-animePopularity	
-animeDescription	b'Bundled with the first Blu-ray and DVD volume.\n\nHakuya wins tickets to a hot spring.'
-animeRelated	[b'Mikakunin de Shinkoukei']
-animeCharacters	[b'Mitsumine, Mashiro', b'Yonomori, Kobeni', b'Mitsumine, Hakuya', b'Yonomori, Benio', b'Momouchi, Mayura']
-animeVoices	[b'\nYoshida, Yuuri\nJapanese\n', b'\nTerui, Haruka\nJapanese\n', b'\nHatano, Wataru\nJapanese\n', b'\nMatsui, Eriko\nJapanese\n', b'\nTerakawa, Aimi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujiwara, Yoshiyuki\n\nDirector\n\n', b'\nShimo, Fumihiko\n\nSeries Composition\n\n', b'\nArai, Cherry\n\nOriginal Creator\n\n', b'\nKikuchi, Ai\n\nChief Animation Director\n\n']
+animePopularity	2793
+animeDescription	"Bundled with the first Blu-ray and DVD volume.
+
+Hakuya wins tickets to a hot spring."
+animeRelated	['Mikakunin de Shinkoukei']
+animeCharacters	['Mitsumine, Mashiro', 'Yonomori, Kobeni', 'Mitsumine, Hakuya', 'Yonomori, Benio', 'Momouchi, Mayura']
+animeVoices	['Yoshida, Yuuri', 'Terui, Haruka', 'Hatano, Wataru', 'Matsui, Eriko', 'Terakawa, Aimi']
+animeStaff	[['Fujiwara, Yoshiyuki', 'Director'], ['Shimo, Fumihiko', 'Series Composition'], ['Arai, Cherry', 'Original Creator'], ['Kikuchi, Ai', 'Chief Animation Director']]

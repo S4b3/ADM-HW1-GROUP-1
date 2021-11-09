@@ -1,5 +1,5 @@
-animeTitle	b'Komatta Jiisan'
-animeType	b'TV'
+animeTitle	Komatta Jiisan
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.38
 animeUsers	1502
 animeRank	
-animePopularity	
-animeDescription	b'The comedy centers on an old man who pulls stereotypical ikemen (handsome man) actions on similarly old women and makes their hearts flutter. \n\n(Source: ANN)'
-animeRelated	[b'Komatta Jiisan']
-animeCharacters	[b'Jiisan', b'Baa-san', b'Narrator']
-animeVoices	[b'\nHino, Satoshi\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNamiki, Hiroshi\n\nDirector\n\n', b'\nHino, Satoshi\n\nTheme Song Performance\n\n']
+animePopularity	7829
+animeDescription	"The comedy centers on an old man who pulls stereotypical ikemen (handsome man) actions on similarly old women and makes their hearts flutter. 
+
+(Source: ANN)"
+animeRelated	['Komatta Jiisan']
+animeCharacters	['Jiisan', 'Baa-san', 'Narrator']
+animeVoices	['Hino, Satoshi', 'Minase, Inori', 'Morikawa, Toshiyuki']
+animeStaff	[['Namiki, Hiroshi', 'Director'], ['Hino, Satoshi', 'Theme Song Performance']]

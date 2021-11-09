@@ -1,5 +1,5 @@
-animeTitle	b'Digimon Adventure tri. 6: Bokura no Mirai'
-animeType	b'Movie'
+animeTitle	Digimon Adventure tri. 6: Bokura no Mirai
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.2
 animeUsers	19468
 animeRank	
-animePopularity	
-animeDescription	b'Sixth and final Digimon Adventure tri film. '
-animeRelated	[b'Digimon Adventure tri. 5: Kyousei', b'Digimon Adventure: Last Evolution Kizuna', b'Digimon Adventure: 20 Shuunen Memorial Story']
-animeCharacters	[b'Yagami, Taichi', b'Ishida, Yamato', b'Yagami, Hikari', b'Takaishi, Takeru', b'Agumon', b'Tachikawa, Mimi', b'Izumi, Koushirou', b'Tailmon', b'Takenouchi, Sora', b'Patamon']
-animeVoices	[b'\nHanae, Natsuki\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nEnoki, Junya\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n', b'\nYoshida, Hitomi\nJapanese\n', b'\nTamura, Mutsumi\nJapanese\n', b'\nTokumitsu, Yuka\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nMatsumoto, Miwa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nArai, Shuuhei\n\nProducer\n\n', b'\nMotonaga, Keitarou\n\nDirector\n\n', b'\nWada, Koji\n\nTheme Song Performance\n\n', b'\nMaeda, Ai\n\nTheme Song Performance\n\n']
+animePopularity	2868
+animeDescription	Sixth and final Digimon Adventure tri film. 
+animeRelated	['Digimon Adventure tri. 5: Kyousei', 'Digimon Adventure: Last Evolution Kizuna', 'Digimon Adventure: 20 Shuunen Memorial Story']
+animeCharacters	['Yagami, Taichi', 'Ishida, Yamato', 'Yagami, Hikari', 'Takaishi, Takeru', 'Agumon', 'Tachikawa, Mimi', 'Izumi, Koushirou', 'Tailmon', 'Takenouchi, Sora', 'Patamon']
+animeVoices	['Hanae, Natsuki', 'Hosoya, Yoshimasa', 'Ichimichi, Mao', 'Enoki, Junya', 'Sakamoto, Chika', 'Yoshida, Hitomi', 'Tamura, Mutsumi', 'Tokumitsu, Yuka', 'Mimori, Suzuko', 'Matsumoto, Miwa']
+animeStaff	[['Arai, Shuuhei', 'Producer'], ['Motonaga, Keitarou', 'Director'], ['Wada, Koji', 'Theme Song Performance'], ['Maeda, Ai', 'Theme Song Performance']]

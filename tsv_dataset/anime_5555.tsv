@@ -1,5 +1,5 @@
-animeTitle	b'Bari Bari Densetsu (1987)'
-animeType	b'Movie'
+animeTitle	Bari Bari Densetsu (1987)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.61
 animeUsers	619
 animeRank	
-animePopularity	
-animeDescription	b'The film is about 4 high-schoolers who are bike racers and illegally partake in races at night on public roads.\n\n(Source: AniDB)'
-animeRelated	[b'Baribari Densetsu', b'Bari Bari Densetsu']
-animeCharacters	[b'Hijiri, Hideyoshi', b'Koma, Gun', b'Itou, Ai', b'Okita, Hiro', b'Satoru', b'Hijiri, Tomoyo', b'Ichinose, Miyuki', b'Takanezawa', b'Race caller', b'Ichikawa']
-animeVoices	[b'\nNakao, Ryusei\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nOginome, Youko\nJapanese\n', b'\nFutamata, Issei\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nToda, Keiko\nJapanese\n', b'\nSogabe, Kazuyuki\nJapanese\n', b'\nNaya, Rokurou\nJapanese\n', b'\nHori, Katsunosuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNunokawa, Yuuji\n\nProducer\n\n', b'\nKamimura, Osamu\n\nDirector\n\n', b'\nOginome, Youko\n\nTheme Song Performance\n\n', b'\nShigeno, Shuuichi\n\nOriginal Creator\n\n']
+animePopularity	9597
+animeDescription	"The film is about 4 high-schoolers who are bike racers and illegally partake in races at night on public roads.
+
+(Source: AniDB)"
+animeRelated	['Baribari Densetsu', 'Bari Bari Densetsu']
+animeCharacters	['Hijiri, Hideyoshi', 'Koma, Gun', 'Itou, Ai', 'Okita, Hiro', 'Satoru', 'Hijiri, Tomoyo', 'Ichinose, Miyuki', 'Takanezawa', 'Race caller', 'Ichikawa']
+animeVoices	['Nakao, Ryusei', 'Tanaka, Hideyuki', 'Oginome, Youko', 'Futamata, Issei', 'Nakata, Jouji', 'Hiramatsu, Akiko', 'Toda, Keiko', 'Sogabe, Kazuyuki', 'Naya, Rokurou', 'Hori, Katsunosuke']
+animeStaff	[['Nunokawa, Yuuji', 'Producer'], ['Kamimura, Osamu', 'Director'], ['Oginome, Youko', 'Theme Song Performance'], ['Shigeno, Shuuichi', 'Original Creator']]

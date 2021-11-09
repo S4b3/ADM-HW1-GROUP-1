@@ -1,5 +1,5 @@
-animeTitle	b'Gall Force: New Era'
-animeType	b'OVA'
+animeTitle	Gall Force: New Era
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.71
 animeUsers	752
 animeRank	
-animePopularity	
-animeDescription	b'The year is 2291, and the citizens live a peaceful existence after the catastrophic war between the humans and the Yuman. This quiet life is about to be shattered, the leader of the Yuman is not convinced the war is over, and now plans to renew hostilities! \n\n(Source: AniDB)'
-animeRelated	[b'Gall Force: Chikyuu Shou']
-animeCharacters	[b'Catty', b'Ruby', b'Crys', b'Pearl', b'Diamond', b'Gorn', b'Nova Universe']
-animeVoices	[b'\nWatanabe, Naoko\nJapanese\n', b'\nIshioka, Miki\nJapanese\n', b'\nYokoyama, Chisa\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n', b'\nShimamura, Kaoru\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkiyama, Katsuhito\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nKakinuma, Hideki\n\nScript\n\n', b'\nSonoda, Kenichi\n\nCharacter Design, Original Character Design\n\n']
+animePopularity	9473
+animeDescription	"The year is 2291, and the citizens live a peaceful existence after the catastrophic war between the humans and the Yuman. This quiet life is about to be shattered, the leader of the Yuman is not convinced the war is over, and now plans to renew hostilities! 
+
+(Source: AniDB)"
+animeRelated	['Gall Force: Chikyuu Shou']
+animeCharacters	['Catty', 'Ruby', 'Crys', 'Pearl', 'Diamond', 'Gorn', 'Nova Universe']
+animeVoices	['Watanabe, Naoko', 'Ishioka, Miki', 'Yokoyama, Chisa', 'Shiratori, Yuri', 'Shimamura, Kaoru', 'Satou, Masaharu', 'Sasaki, Nozomu']
+animeStaff	[['Akiyama, Katsuhito', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Kakinuma, Hideki', 'Script'], ['Sonoda, Kenichi', 'Character Design, Original Character Design']]

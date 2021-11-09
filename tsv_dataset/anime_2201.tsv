@@ -1,5 +1,5 @@
-animeTitle	b'Kono Danshi, Ningyo Hiroimashita.'
-animeType	b'OVA'
+animeTitle	Kono Danshi, Ningyo Hiroimashita.
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	7.35
 animeUsers	17037
 animeRank	
-animePopularity	
-animeDescription	"b""*The Second OVA of Kono Dan series.\n\nThey say look before you leap and make sure you can swim before you go in the deep water, but when a picture of his late grandfather falls into the ocean, Shima jumps in after it without thinking. Nearly drowning as a result, he is instead saved by a very perfect stranger... one whose strangeness extends to only being human from the waist up!\n\nFor Shima, who's always felt like a fish out of water himself, it's more than just a revelation, and the young man and merman quickly begin to bond in ways neither anticipated. And yet, it's going to be far from easy sailing. After all, Shima and Isaki aren't just from opposite sides of the tracks, they're from entirely divergent species, and swimming in separate gene pools may make maintaining a long term relationship a whole different kettle of fish!\n\n(Source: Sentai Filmworks)\n"""
-animeRelated	[b'Kono Danshi, Uchuujin to Tatakaemasu.', b'Kono Danshi, Sekka ni Nayandemasu.', b'Kono Danshi, Mahou ga Oshigoto Desu.']
-animeCharacters	[b'Isaki', b'Kawauchi, Shima', b'Kusatsu']
-animeVoices	[b'\nMidorikawa, Hikaru\nJapanese\n', b'\nKaji, Yuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Soubi\n\nDirector\n\n', b'\nYamada, Haru\n\nSound Director\n\n', b'\nMidorikawa, Hikaru\n\nTheme Song Performance\n\n', b'\nKawaguchi, Noritaka\n\nExecutive Producer\n\n']
+animePopularity	3086
+animeDescription	"*The Second OVA of Kono Dan series.
+
+They say look before you leap and make sure you can swim before you go in the deep water, but when a picture of his late grandfather falls into the ocean, Shima jumps in after it without thinking. Nearly drowning as a result, he is instead saved by a very perfect stranger... one whose strangeness extends to only being human from the waist up!
+
+For Shima, who's always felt like a fish out of water himself, it's more than just a revelation, and the young man and merman quickly begin to bond in ways neither anticipated. And yet, it's going to be far from easy sailing. After all, Shima and Isaki aren't just from opposite sides of the tracks, they're from entirely divergent species, and swimming in separate gene pools may make maintaining a long term relationship a whole different kettle of fish!
+
+(Source: Sentai Filmworks)
+"
+animeRelated	['Kono Danshi, Uchuujin to Tatakaemasu.', 'Kono Danshi, Sekka ni Nayandemasu.', 'Kono Danshi, Mahou ga Oshigoto Desu.']
+animeCharacters	['Isaki', 'Kawauchi, Shima', 'Kusatsu']
+animeVoices	['Midorikawa, Hikaru', 'Kaji, Yuki']
+animeStaff	[['Yamamoto, Soubi', 'Director'], ['Yamada, Haru', 'Sound Director'], ['Midorikawa, Hikaru', 'Theme Song Performance'], ['Kawaguchi, Noritaka', 'Executive Producer']]

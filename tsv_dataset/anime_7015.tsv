@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon: Pikachu, Kore Nan no Kagi?'
-animeType	b'Movie'
+animeTitle	Pokemon: Pikachu, Kore Nan no Kagi?
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.33
 animeUsers	2132
 animeRank	
-animePopularity	
-animeDescription	b'A thrilling tale in which a group of innocent pokemon get sucked into a world full of keys only to find themselves trapped. Will they ever escape?'
-animeRelated	[b'Pokemon XY', b'Pokemon Movie 17: Hakai no Mayu to Diancie']
-animeCharacters	[b'Pikachu', b'Nyarth', b'Satoshi', b'Serena', b'Citron', b'Eureka', b'Soonansu', b'Narrator']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nMakiguchi, Mayuki\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nWatanabe, Mayu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n', b'\nSugimori, Ken\n\nOriginal Character Design\n\n', b'\nTada, Akifumi\n\nMusic\n\n', b'\nDelhausse, Jean-Marc\n\nADR Director\n\n']
+animePopularity	6851
+animeDescription	A thrilling tale in which a group of innocent pokemon get sucked into a world full of keys only to find themselves trapped. Will they ever escape?
+animeRelated	['Pokemon XY', 'Pokemon Movie 17: Hakai no Mayu to Diancie']
+animeCharacters	['Pikachu', 'Nyarth', 'Satoshi', 'Serena', 'Citron', 'Eureka', 'Soonansu', 'Narrator']
+animeVoices	['Ootani, Ikue', 'Inuyama, Inuko', 'Matsumoto, Rica', 'Makiguchi, Mayuki', 'Kaji, Yuki', 'Ise, Mariya', 'Ueda, Yuuji', 'Watanabe, Mayu']
+animeStaff	[['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design'], ['Tada, Akifumi', 'Music'], ['Delhausse, Jean-Marc', 'ADR Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam III: Encounters in Space'
-animeType	b'Movie'
+animeTitle	Mobile Suit Gundam III: Encounters in Space
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.76
 animeUsers	14908
 animeRank	
-animePopularity	
-animeDescription	"b""The One Year War comes to a close, as the Zeon forces now retreat back into space. Amuro learns much more of his Newtype abilities and tries to use them the best way he can. He's pushed to his limit as he encounters the infamous Char Aznable once again. He also falls in love with a mysterious woman named Lalah Sune, who knows the full potential of the Newtype abilities. \n\nThe greatest battle is about to begin, as many loved ones fall to the power of war. Can the Earth Federation defeat the Principality of Zeon? Or will they fail? Can Char prove that he's the better Newtype than Amuro? They all will be answered now...\n\n(Source: Otakufreakmk2)"""
-animeRelated	[b'Mobile Suit Gundam', b'Mobile Suit Zeta Gundam', b'Mobile Suit Gundam II: Soldiers of Sorrow']
-animeCharacters	[b'Aznable, Char', b'Ray, Amuro', b'Noa, Bright', b'Haro', b'Mass, Sayla', b'Zabi, Mineva Lao', b'Shiden, Kai', b'Sune, Lalah', b'Zabi, Gihren', b'Bow, Fraw']
-animeVoices	[b'\nIkeda, Shuuichi\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nTakagi, Sanae\nJapanese\n', b'\nInoue, You\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nHan, Keiko\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nUkai, Rumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nYatate, Hajime\n\nProducer\n\n', b'\nUeda, Masuo\n\nProducer\n\n', b'\nTomino, Yoshiyuki\n\nDirector, Script, Storyboard, Original Creator\n\n']
+animePopularity	3551
+animeDescription	"The One Year War comes to a close, as the Zeon forces now retreat back into space. Amuro learns much more of his Newtype abilities and tries to use them the best way he can. He's pushed to his limit as he encounters the infamous Char Aznable once again. He also falls in love with a mysterious woman named Lalah Sune, who knows the full potential of the Newtype abilities. 
+
+The greatest battle is about to begin, as many loved ones fall to the power of war. Can the Earth Federation defeat the Principality of Zeon? Or will they fail? Can Char prove that he's the better Newtype than Amuro? They all will be answered now...
+
+(Source: Otakufreakmk2)"
+animeRelated	['Mobile Suit Gundam', 'Mobile Suit Zeta Gundam', 'Mobile Suit Gundam II: Soldiers of Sorrow']
+animeCharacters	['Aznable, Char', 'Ray, Amuro', 'Noa, Bright', 'Haro', 'Mass, Sayla', 'Zabi, Mineva Lao', 'Shiden, Kai', 'Sune, Lalah', 'Zabi, Gihren', 'Bow, Fraw']
+animeVoices	['Ikeda, Shuuichi', 'Furuya, Toru', 'Suzuoki, Hirotaka', 'Takagi, Sanae', 'Inoue, You', 'Furukawa, Toshio', 'Han, Keiko', 'Ginga, Banjou', 'Ukai, Rumiko']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Yatate, Hajime', 'Producer'], ['Ueda, Masuo', 'Producer'], ['Tomino, Yoshiyuki', 'Director, Script, Storyboard, Original Creator']]

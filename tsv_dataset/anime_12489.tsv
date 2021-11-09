@@ -1,5 +1,5 @@
-animeTitle	b'Obake no Q-Tarou: Susume! 1/100 Daisakusen'
-animeType	b'Movie'
+animeTitle	Obake no Q-Tarou: Susume! 1/100 Daisakusen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Note: Screened as a double feature with Doraemon: Nobita to Ryuu no Kishi and with Pro Golfer Saru: Kouga Hikyou! Kage no Ninpou Golfer Sanjou!.\n\n(Source: AniDB)'
-animeRelated	[b'Obake no Q-tarou (1985)']
-animeCharacters	[b'Q-Tarou']
-animeVoices	[b'\nAmachi, Fusako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nAmachi, Fusako\n\nTheme Song Performance\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n', b'\nKikuchi, Shunsuke\n\nMusic\n\n']
+animePopularity	15574
+animeDescription	"Note: Screened as a double feature with Doraemon: Nobita to Ryuu no Kishi and with Pro Golfer Saru: Kouga Hikyou! Kage no Ninpou Golfer Sanjou!.
+
+(Source: AniDB)"
+animeRelated	['Obake no Q-tarou (1985)']
+animeCharacters	['Q-Tarou']
+animeVoices	['Amachi, Fusako']
+animeStaff	[['Sasagawa, Hiroshi', 'Director'], ['Amachi, Fusako', 'Theme Song Performance'], ['Fujiko, Fujio F.', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music']]

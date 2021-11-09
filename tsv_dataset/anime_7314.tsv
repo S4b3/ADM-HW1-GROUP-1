@@ -1,5 +1,5 @@
-animeTitle	b'Oh! Super Milk-chan Special'
-animeType	b'Special'
+animeTitle	Oh! Super Milk-chan Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.27
 animeUsers	125
 animeRank	
-animePopularity	
-animeDescription	b'Bonus episode that only appeared on the Grasshoppa! Vol. 2 DVD.\n\n(Source: Wikipedia)'
-animeRelated	[b'Oh! Super Milk-chan']
-animeCharacters	[b'Milk Chan, Super']
-animeVoices	[b'\nNakamura, Haruka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomori, Takahiro\n\nEpisode Director, Storyboard\n\n', b'\nShida, Tadashi\n\nAnimation Director\n\n']
+animePopularity	12984
+animeDescription	"Bonus episode that only appeared on the Grasshoppa! Vol. 2 DVD.
+
+(Source: Wikipedia)"
+animeRelated	['Oh! Super Milk-chan']
+animeCharacters	['Milk Chan, Super']
+animeVoices	['Nakamura, Haruka']
+animeStaff	[['Oomori, Takahiro', 'Episode Director, Storyboard'], ['Shida, Tadashi', 'Animation Director']]

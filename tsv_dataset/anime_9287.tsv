@@ -1,5 +1,5 @@
-animeTitle	b'Battle Girl High School'
-animeType	b'TV'
+animeTitle	Battle Girl High School
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.82
 animeUsers	4301
 animeRank	
-animePopularity	
-animeDescription	"b'Based on COLOPL\'s school action role-playing game. Set in the year 2045. The world has been contaminated by Irousu (mysterious invaders who suddenly appeared), and humans find themselves restricted and contained. Standing boldly against these invaders are ordinary girls everywhere, without a powerful army or even weapons.\n\nThe Shinjugamine Girls Academy is a school for these ""Hoshimori"" (Star Guardians) destined to fight the Irousu. The player is assigned to this academy to train the girls and take back the contaminated Earth. And so, once again, the chimes echo through the sun-strewn schoolyard to mark the beginning of classes today...\n\n(Source: ANN, edited)'"
+animePopularity	3825
+animeDescription	"Based on COLOPL's school action role-playing game. Set in the year 2045. The world has been contaminated by Irousu (mysterious invaders who suddenly appeared), and humans find themselves restricted and contained. Standing boldly against these invaders are ordinary girls everywhere, without a powerful army or even weapons.
+
+The Shinjugamine Girls Academy is a school for these ""Hoshimori"" (Star Guardians) destined to fight the Irousu. The player is assigned to this academy to train the girls and take back the contaminated Earth. And so, once again, the chimes echo through the sun-strewn schoolyard to mark the beginning of classes today...
+
+(Source: ANN, edited)"
 animeRelated	[]
-animeCharacters	[b'Narumi, Haruka', b'Misaki', b'Wakaba, Subaru', b'Amano, Nozomi', b'Hoshitsuki, Miki', b'Kusunoki, Asuha', b'Tokiwa, Kurumi', b'Tsubuzaki, Anko', b'Sadone', b'Serizawa, Renge']
-animeVoices	[b'\nAmamiya, Sora\nJapanese\n', b'\nTakahashi, Rie\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nTouyama, Nao\nJapanese\n', b'\nSuzaki, Aya\nJapanese\n', b'\nTamura, Mutsumi\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nNanjou, Yoshino\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkitaya, Noriaki\n\nDirector\n\n', b'\nGou, Fumiyuki\n\nSound Director\n\n', b'\nZappa, Gou\n\nScript\n\n', b'\nKimura, Noboru\n\nScript\n\n']
+animeCharacters	['Narumi, Haruka', 'Misaki', 'Wakaba, Subaru', 'Amano, Nozomi', 'Hoshitsuki, Miki', 'Kusunoki, Asuha', 'Tokiwa, Kurumi', 'Tsubuzaki, Anko', 'Sadone', 'Serizawa, Renge']
+animeVoices	['Amamiya, Sora', 'Takahashi, Rie', 'Sakura, Ayane', 'Touyama, Nao', 'Suzaki, Aya', 'Tamura, Mutsumi', 'Hayami, Saori', 'Uchiyama, Yumi', 'Yuuki, Aoi', 'Nanjou, Yoshino']
+animeStaff	[['Akitaya, Noriaki', 'Director'], ['Gou, Fumiyuki', 'Sound Director'], ['Zappa, Gou', 'Script'], ['Kimura, Noboru', 'Script']]

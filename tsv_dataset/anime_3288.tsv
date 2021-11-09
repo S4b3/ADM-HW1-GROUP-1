@@ -1,5 +1,5 @@
-animeTitle	b'Poketoon'
-animeType	b'ONA'
+animeTitle	Poketoon
+animeType	ONA
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,18 @@ animeNumMembers
 animeScore	7.11
 animeUsers	1787
 animeRank	
-animePopularity	
-animeDescription	b'Animations released on Pok\xc3\xa9mon Kids TV Japan YouTube channel.\n\nEpisodes:\n#1: Zuruggu to Mimikkyu - Chase the Beans (\xe3\x82\xba\xe3\x83\xab\xe3\x83\x83\xe3\x82\xb0\xe3\x81\xa8\xe3\x83\x9f\xe3\x83\x9f\xe3\x83\x83\xe3\x82\xad\xe3\x83\xa5), animated by Dandelion Animation Studio, released June 4, 2020.\n#2: Hero ni Naritai Yanchamu (\xe3\x83\x92\xe3\x83\xbc\xe3\x83\xad\xe3\x83\xbc\xe3\x81\xab\xe3\x81\xaa\xe3\x82\x8a\xe3\x81\x9f\xe3\x81\x84\xe3\x83\xa4\xe3\x83\xb3\xe3\x83\x81\xe3\x83\xa3\xe3\x83\xa0), animated by Pancakes, released May 5, 2021.\n#3: Yume no Tsubomi (\xe3\x83\xa6\xe3\x83\xa1\xe3\x83\x8e\xe3\x83\x84\xe3\x83\x9c\xe3\x83\x9f), animated by Studio Colorido, released June 6, 2021.\n#4: Mattete ne! Koiking (\xe3\x81\xbe\xe3\x81\xa3\xe3\x81\xa6\xe3\x81\xa6\xe3\x81\xad\xef\xbc\x81\xe3\x82\xb3\xe3\x82\xa4\xe3\x82\xad\xe3\x83\xb3\xe3\x82\xb0), animated by Studio Colorido, released July 2, 2021.\n#5: Pokapoka Magumaggu House (\xe3\x81\xbd\xe3\x81\x8b\xe3\x81\xbd\xe3\x81\x8b\xe3\x83\x9e\xe3\x82\xb0\xe3\x83\x9e\xe3\x83\x83\xe3\x82\xb0\xe3\x83\x8f\xe3\x82\xa6\xe3\x82\xb9), animated by Studio Colorido, released August 5, 2021.\n#6: Gengar ni Nacchatta!? (\xe3\x82\xb2\xe3\x83\xb3\xe3\x82\xac\xe3\x83\xbc\xe3\x81\xab\xe3\x81\xaa\xe3\x81\xa3\xe3\x81\xa1\xe3\x82\x83\xe3\x81\xa3\xe3\x81\x9f\xef\xbc\x81\xef\xbc\x9f), animated by Studio Colorido, released September 10, 2021.\n#7: Fubuki no Natsu Yasumi (\xe3\x81\xb5\xe3\x81\xb6\xe3\x81\x8d\xe3\x81\xae\xe3\x81\xaa\xe3\x81\xa4\xe3\x82\x84\xe3\x81\xbf), animated by Mimoid, released October 8, 2021.'
-animeRelated	[b'Pokemon (2019)']
-animeCharacters	"[b'Tsubomi', b'Kino', b'Anna', b'Shouko', b'Gengar', b'Riel', b'Cupo', b""Anna's Mother"", b""Anna's Grandfather"", b""Tsubomi's Mother""]"
-animeVoices	[b'\nMinase, Inori\nJapanese\n', b'\nMiura, Chiyuki\nJapanese\n', b'\nOzawa, Miyuu\nJapanese\n', b'\nIshige, Kouki\nJapanese\n', b'\nTerasaki, Yuka\nJapanese\n', b'\nInaba, Minoru\nJapanese\n', b'\nNumakura, Manami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nInoue, Taku\n\nDirector\n\n']
+animePopularity	7528
+animeDescription	"Animations released on Pokémon Kids TV Japan YouTube channel.
+
+Episodes:
+#1: Zuruggu to Mimikkyu - Chase the Beans (ズルッグとミミッキュ), animated by Dandelion Animation Studio, released June 4, 2020.
+#2: Hero ni Naritai Yanchamu (ヒーローになりたいヤンチャム), animated by Pancakes, released May 5, 2021.
+#3: Yume no Tsubomi (ユメノツボミ), animated by Studio Colorido, released June 6, 2021.
+#4: Mattete ne! Koiking (まっててね！コイキング), animated by Studio Colorido, released July 2, 2021.
+#5: Pokapoka Magumaggu House (ぽかぽかマグマッグハウス), animated by Studio Colorido, released August 5, 2021.
+#6: Gengar ni Nacchatta!? (ゲンガーになっちゃった！？), animated by Studio Colorido, released September 10, 2021.
+#7: Fubuki no Natsu Yasumi (ふぶきのなつやみ), animated by Mimoid, released October 8, 2021."
+animeRelated	['Pokemon (2019)']
+animeCharacters	"['Tsubomi', 'Kino', 'Anna', 'Shouko', 'Gengar', 'Riel', 'Cupo', ""Anna's Mother"", ""Anna's Grandfather"", ""Tsubomi's Mother""]"
+animeVoices	['Minase, Inori', 'Miura, Chiyuki', 'Ozawa, Miyuu', 'Ishige, Kouki', 'Terasaki, Yuka', 'Inaba, Minoru', 'Numakura, Manami']
+animeStaff	[['Inoue, Taku', 'Director']]

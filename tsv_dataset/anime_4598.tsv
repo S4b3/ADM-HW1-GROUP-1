@@ -1,5 +1,5 @@
-animeTitle	b'Kamisama ni Natta Hi'
-animeType	b'TV'
+animeTitle	Kamisama ni Natta Hi
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.81
 animeUsers	86132
 animeRank	
-animePopularity	
-animeDescription	"b'Dressed in a conspicuous outfit and armed with an eccentric spirit, Hina Satou goes around insisting that she is the Asgardian god ""Odin."" When she crosses paths with a boy named Youta Narukami, she uses her precognition abilities to warn him about an impending catastrophe threatening the end of the world. But being a teenager preoccupied with his problems, Youta finds it hard to believe such a preposterous claim.\n\nSomehow forced to tag along with her antics, he witnesses the effectiveness of Hina\'s skills with his own eyes and realizes that she truly is capable of divination. Nevertheless, despite her persistence in being a god, Hina is still a child who desires to see and experience the wonders life has to offer. With the world ending in 30 days, Hina, Youta, and their friends venture forward to create lasting memories they will cherish forever.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Kamisama ni Natta Hi']
-animeCharacters	[b'Narukami, Youta', b'Satou, Hina', b'Takajou, Joujirou', b'Izanami, Kyouko', b'Narukami, Sora', b'Suzuki, Hiroto', b'Jinguuji, Hikari', b'Kokuhou, Ashura', b'Tengan, Kako', b'Narukami, Daichi']
-animeVoices	[b'\nHanae, Natsuki\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nIshikawa, Yui\nJapanese\n', b'\nKuwahara, Yuuki\nJapanese\n', b'\nShigematsu, Chiharu\nJapanese\n', b'\nTerui, Haruka\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nShimamura, Yuu\nJapanese\n', b'\nShingaki, Tarusuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAsai, Yoshiyuki\n\nDirector\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nUeno, Takehiro\n\nEpisode Director, Storyboard\n\n', b'\nMaeda, Jun\n\nScript, Theme Song Lyrics, Original Creator, Music\n\n']
+animePopularity	866
+animeDescription	"Dressed in a conspicuous outfit and armed with an eccentric spirit, Hina Satou goes around insisting that she is the Asgardian god ""Odin."" When she crosses paths with a boy named Youta Narukami, she uses her precognition abilities to warn him about an impending catastrophe threatening the end of the world. But being a teenager preoccupied with his problems, Youta finds it hard to believe such a preposterous claim.
+
+Somehow forced to tag along with her antics, he witnesses the effectiveness of Hina's skills with his own eyes and realizes that she truly is capable of divination. Nevertheless, despite her persistence in being a god, Hina is still a child who desires to see and experience the wonders life has to offer. With the world ending in 30 days, Hina, Youta, and their friends venture forward to create lasting memories they will cherish forever.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kamisama ni Natta Hi']
+animeCharacters	['Narukami, Youta', 'Satou, Hina', 'Takajou, Joujirou', 'Izanami, Kyouko', 'Narukami, Sora', 'Suzuki, Hiroto', 'Jinguuji, Hikari', 'Kokuhou, Ashura', 'Tengan, Kako', 'Narukami, Daichi']
+animeVoices	['Hanae, Natsuki', 'Sakura, Ayane', 'Mizushima, Takahiro', 'Ishikawa, Yui', 'Kuwahara, Yuuki', 'Shigematsu, Chiharu', 'Terui, Haruka', 'Kimura, Ryouhei', 'Shimamura, Yuu', 'Shingaki, Tarusuke']
+animeStaff	[['Asai, Yoshiyuki', 'Director'], ['Iida, Satoki', 'Sound Director'], ['Ueno, Takehiro', 'Episode Director, Storyboard'], ['Maeda, Jun', 'Script, Theme Song Lyrics, Original Creator, Music']]

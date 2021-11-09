@@ -1,5 +1,5 @@
-animeTitle	b'Bus Gamer'
-animeType	b'TV'
+animeTitle	Bus Gamer
+animeType	TV
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.52
 animeUsers	14330
 animeRank	
-animePopularity	
-animeDescription	"b'When three complete strangers, Mishiba Toki, Nakajyo Nobuto, and Saitoh Kazuo, are hired by a corporation to compete in the Bus Game, an illegal dog-fight conducted in strict secrecy, they are given the team code of ""Team AAA"" (Triple Anonymous). This group of three who differ entirely from their living environments to their personalities have to work together effectively, but without mutually wiping out their mistrust of each other or prying into each other\'s privacy. They only have one point in common\xe2\x80\x94each of them need a large amount of money for their individual circumstances. To get the money, they must play in the game despite their very own lives being at stake.\n\n(Source: ANN)'"
-animeRelated	[b'Bus Gamer: The Pilot Edition', b'Bus Gamer']
-animeCharacters	[b'Mishiba, Toki', b'Nakajou, Nobuto', b'Saitou, Kazuo', b'Ichinomiya, Keiko']
-animeVoices	[b'\nSuzumura, Kenichi\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nTakahashi, Hiroki\nJapanese\n', b'\nNeya, Michiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuzuya, Naoyuki\n\nDirector, Storyboard\n\n', b'\nHata, Yoshito\n\nEpisode Director\n\n', b'\nSuwabe, Junichi\n\nTheme Song Performance\n\n', b'\nSuzumura, Kenichi\n\nTheme Song Performance\n\n']
+animePopularity	3543
+animeDescription	"When three complete strangers, Mishiba Toki, Nakajyo Nobuto, and Saitoh Kazuo, are hired by a corporation to compete in the Bus Game, an illegal dog-fight conducted in strict secrecy, they are given the team code of ""Team AAA"" (Triple Anonymous). This group of three who differ entirely from their living environments to their personalities have to work together effectively, but without mutually wiping out their mistrust of each other or prying into each other's privacy. They only have one point in common—each of them need a large amount of money for their individual circumstances. To get the money, they must play in the game despite their very own lives being at stake.
+
+(Source: ANN)"
+animeRelated	['Bus Gamer: The Pilot Edition', 'Bus Gamer']
+animeCharacters	['Mishiba, Toki', 'Nakajou, Nobuto', 'Saitou, Kazuo', 'Ichinomiya, Keiko']
+animeVoices	['Suzumura, Kenichi', 'Suwabe, Junichi', 'Takahashi, Hiroki', 'Neya, Michiko']
+animeStaff	[['Kuzuya, Naoyuki', 'Director, Storyboard'], ['Hata, Yoshito', 'Episode Director'], ['Suwabe, Junichi', 'Theme Song Performance'], ['Suzumura, Kenichi', 'Theme Song Performance']]

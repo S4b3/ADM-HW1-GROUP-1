@@ -1,5 +1,5 @@
-animeTitle	b'Ame-iro Cocoa: Side G'
-animeType	b'TV'
+animeTitle	Ame-iro Cocoa: Side G
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.85
 animeUsers	2395
 animeRank	
-animePopularity	
-animeDescription	"b""In the fifth season of the Ame-iro Cocoa series Youko, the daughter of the Rainy Color cafe's owner Kouji Amami, takes over as the acting manager of the cafe.\n\n(Source: ANN)"""
-animeRelated	[b'Ame-iro Cocoa Series: Ame-con!!']
-animeCharacters	[b'Amami, Youko', b'Keito', b'Amami, Kouji']
+animePopularity	5785
+animeDescription	"In the fifth season of the Ame-iro Cocoa series Youko, the daughter of the Rainy Color cafe's owner Kouji Amami, takes over as the acting manager of the cafe.
+
+(Source: ANN)"
+animeRelated	['Ame-iro Cocoa Series: Ame-con!!']
+animeCharacters	['Amami, Youko', 'Keito', 'Amami, Kouji']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshii, Hisashi\n\nDirector\n\n', b'\nTachibana, Rika\n\nTheme Song Performance\n\n']
+animeStaff	[['Ishii, Hisashi', 'Director'], ['Tachibana, Rika', 'Theme Song Performance']]

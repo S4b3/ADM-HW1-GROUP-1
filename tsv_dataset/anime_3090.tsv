@@ -1,5 +1,5 @@
-animeTitle	b'Tales of Symphonia The Animation: Sylvarant-hen'
-animeType	b'OVA'
+animeTitle	Tales of Symphonia The Animation: Sylvarant-hen
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.16
 animeUsers	21496
 animeRank	
-animePopularity	
-animeDescription	"b""Two worlds exist, both unaware of the existance of the other. In order for one world to flourish, the other will have to perish. On the perishing world, a Chosen one is sent on a journey to restore that world's mana by awakening the Spirits and becoming an angel. Colette Brunel, the Chosen of Sylvarant, sets out on her journey accompanied by her best friends Lloyd Irving and Genis Sage. As they travel further they meet more friends and even more enemies, while they learn more and more about the truth behind the World Regeneration. \n\n(Source: ANN) """
-animeRelated	"[b'Tales of Symphonia', b'Tales of Symphonia: Toki no Kagayaki', b'Tales of Symphonia The Animation: Kratos-sensei no Private Lesson', b""Tales of Symphonia The Animation: Tethe'alla-hen"", b'Tales of Gekijou']"
-animeCharacters	[b'Aurion, Kratos', b'Irving, Lloyd', b'Brunel, Colette', b'Sage, Genius', b'Sage, Refill', b'Wilder, Zelos', b'Fujibayashi, Sheena', b'Ka-Fai, Yuan', b'Corrine', b'Forcystus']
-animeVoices	[b'\nTachiki, Fumihiko\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nOrikasa, Ai\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nTateno, Kanako\nJapanese\n', b'\nYoshimizu, Takahiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSotozaki, Haruo\n\nDirector, Episode Director, Storyboard, In-Between Animation, Key Animation\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nMizuki, Nana\n\nTheme Song Performance\n\n', b'\nKawai, Eri\n\nTheme Song Performance\n\n']
+animePopularity	2522
+animeDescription	"Two worlds exist, both unaware of the existance of the other. In order for one world to flourish, the other will have to perish. On the perishing world, a Chosen one is sent on a journey to restore that world's mana by awakening the Spirits and becoming an angel. Colette Brunel, the Chosen of Sylvarant, sets out on her journey accompanied by her best friends Lloyd Irving and Genis Sage. As they travel further they meet more friends and even more enemies, while they learn more and more about the truth behind the World Regeneration. 
+
+(Source: ANN) "
+animeRelated	"['Tales of Symphonia', 'Tales of Symphonia: Toki no Kagayaki', 'Tales of Symphonia The Animation: Kratos-sensei no Private Lesson', ""Tales of Symphonia The Animation: Tethe'alla-hen"", 'Tales of Gekijou']"
+animeCharacters	['Aurion, Kratos', 'Irving, Lloyd', 'Brunel, Colette', 'Sage, Genius', 'Sage, Refill', 'Wilder, Zelos', 'Fujibayashi, Sheena', 'Ka-Fai, Yuan', 'Corrine', 'Forcystus']
+animeVoices	['Tachiki, Fumihiko', 'Konishi, Katsuyuki', 'Mizuki, Nana', 'Orikasa, Ai', 'Touma, Yumi', 'Onosaka, Masaya', 'Okamura, Akemi', 'Morikawa, Toshiyuki', 'Tateno, Kanako', 'Yoshimizu, Takahiro']
+animeStaff	[['Sotozaki, Haruo', 'Director, Episode Director, Storyboard, In-Between Animation, Key Animation'], ['Aketagawa, Jin', 'Sound Director'], ['Mizuki, Nana', 'Theme Song Performance'], ['Kawai, Eri', 'Theme Song Performance']]

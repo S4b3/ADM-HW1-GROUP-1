@@ -1,5 +1,5 @@
-animeTitle	b'Sky Girls Specials'
-animeType	b'Special'
+animeTitle	Sky Girls Specials
+animeType	Special
 animeNumEpisode	9
 releaseDate	
 endDate	
@@ -7,9 +7,19 @@ animeNumMembers
 animeScore	6.54
 animeUsers	1500
 animeRank	
-animePopularity	
-animeDescription	"b""Fishing Maniac Eika-san! Sky Girls Dynamite Fishing!\n\nSpecial #1: Fierce Battle! Trout Fishing Contest.\nSpecial #2: Big Catch! Mudskipper Fishing!\nSpecial #3: Seashore Battle! Blackfish Fishing!\nSpecial #4: Astonishing! Piranha Fishing!\nSpecial #5: Protect the indigenous species! Bass Fishing Contest! Please finish eating the fish that you've caught!\nSpecial #6: Fish the porgy with prawns, Black Porgy Fishing!\nSpecial #7: The porgy's really tough! Getting poorer by the day! Red tai fishing!\nSpecial #8: Tempura, deep-fried food, and sometimes, skates! Pond smelt fishing on top of ice!\nSpecial #9: There's no part that should be thrown away! Great battle with the whale of the great deep!"""
-animeRelated	[b'Sky Girls']
-animeCharacters	[b'Sakurano, Otoha', b'Ichijou, Eika', b'Sonomiya, Karen', b'von Dietrich, Elise', b'Mikogami, Ranko', b'Tougou, Souya', b'Mikogami, Haruko', b'Yuko, Aki']
-animeVoices	[b'\nKawasumi, Ayako\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nGotou, Saori\nJapanese\n', b'\nTsuji, Ayumi\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimada, Humikane\n\nOriginal Character Design\n\n', b'\nMitsumune, Shinkichi\n\nMusic\n\n', b'\nIwakura, Kazunori\n\nCharacter Design\n\n']
+animePopularity	7848
+animeDescription	"Fishing Maniac Eika-san! Sky Girls Dynamite Fishing!
+
+Special #1: Fierce Battle! Trout Fishing Contest.
+Special #2: Big Catch! Mudskipper Fishing!
+Special #3: Seashore Battle! Blackfish Fishing!
+Special #4: Astonishing! Piranha Fishing!
+Special #5: Protect the indigenous species! Bass Fishing Contest! Please finish eating the fish that you've caught!
+Special #6: Fish the porgy with prawns, Black Porgy Fishing!
+Special #7: The porgy's really tough! Getting poorer by the day! Red tai fishing!
+Special #8: Tempura, deep-fried food, and sometimes, skates! Pond smelt fishing on top of ice!
+Special #9: There's no part that should be thrown away! Great battle with the whale of the great deep!"
+animeRelated	['Sky Girls']
+animeCharacters	['Sakurano, Otoha', 'Ichijou, Eika', 'Sonomiya, Karen', 'von Dietrich, Elise', 'Mikogami, Ranko', 'Tougou, Souya', 'Mikogami, Haruko', 'Yuko, Aki']
+animeVoices	['Kawasumi, Ayako', 'Itou, Shizuka', 'Gotou, Saori', 'Tsuji, Ayumi', 'Fujiwara, Keiji', 'Nabatame, Hitomi']
+animeStaff	[['Shimada, Humikane', 'Original Character Design'], ['Mitsumune, Shinkichi', 'Music'], ['Iwakura, Kazunori', 'Character Design']]

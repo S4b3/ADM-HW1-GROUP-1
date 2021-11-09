@@ -1,5 +1,5 @@
-animeTitle	b'Spiral: Suiri no Kizuna'
-animeType	b'TV'
+animeTitle	Spiral: Suiri no Kizuna
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.24
 animeUsers	20436
 animeRank	
-animePopularity	
-animeDescription	"b'Ayumu Narumi has lived all his life in the shadow of his famous detective brother, Kiyotaka. However, Kiyotaka disappeared two years ago, leaving behind his wife Madoka and Ayumu himself, along with a cryptic message about the ""Blade Children.""\n\nOne day, a girl at Ayumu\'s school suddenly dies. What seemed like a suicide at first glance turns out to be a murder, and Ayumu is the prime suspect. While investigating the person responsible for framing him, he discovers that the mysterious Blade Children are involved\xe2\x80\x94and they somehow know Kiyotaka personally. Ayumu soon finds out just how dangerous the Blade Children are and learns that, in reality, he and Kiyotaka are intertwined more closely than he had ever believed.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Spiral: Suiri no Kizuna']
-animeCharacters	[b'Narumi, Ayumu', b'Rutherford, Eyes', b'Yuizaki, Hiyono', b'Takeuchi, Rio', b'Asazuki, Kousuke', b'Hilbert, Kanone', b'Takamachi, Ryoko', b'Narumi, Madoka', b'Shiranagatani, Sayoko', b'Narumi, Kiyotaka']
-animeVoices	[b'\nSuzumura, Kenichi\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nAsano, Masumi\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nKato, Hitomi\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nHosoda, Mamoru\n\nDirector, Storyboard\n\n', b'\nKaneko, Shingo\n\nDirector, Episode Director, Storyboard, Key Animation\n\n']
+animePopularity	2525
+animeDescription	"Ayumu Narumi has lived all his life in the shadow of his famous detective brother, Kiyotaka. However, Kiyotaka disappeared two years ago, leaving behind his wife Madoka and Ayumu himself, along with a cryptic message about the ""Blade Children.""
+
+One day, a girl at Ayumu's school suddenly dies. What seemed like a suicide at first glance turns out to be a murder, and Ayumu is the prime suspect. While investigating the person responsible for framing him, he discovers that the mysterious Blade Children are involved—and they somehow know Kiyotaka personally. Ayumu soon finds out just how dangerous the Blade Children are and learns that, in reality, he and Kiyotaka are intertwined more closely than he had ever believed.
+
+[Written by MAL Rewrite]"
+animeRelated	['Spiral: Suiri no Kizuna']
+animeCharacters	['Narumi, Ayumu', 'Rutherford, Eyes', 'Yuizaki, Hiyono', 'Takeuchi, Rio', 'Asazuki, Kousuke', 'Hilbert, Kanone', 'Takamachi, Ryoko', 'Narumi, Madoka', 'Shiranagatani, Sayoko', 'Narumi, Kiyotaka']
+animeVoices	['Suzumura, Kenichi', 'Ishida, Akira', 'Asano, Masumi', 'Horie, Yui', 'Kusao, Takeshi', 'Nojima, Kenji', 'Kato, Hitomi', 'Mitsuishi, Kotono', 'Nakahara, Mai', 'Inoue, Kazuhiko']
+animeStaff	[['Cook, Justin', 'Producer'], ['Watson, Barry', 'Producer'], ['Hosoda, Mamoru', 'Director, Storyboard'], ['Kaneko, Shingo', 'Director, Episode Director, Storyboard, Key Animation']]

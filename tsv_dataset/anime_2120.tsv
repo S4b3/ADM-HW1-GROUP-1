@@ -1,5 +1,5 @@
-animeTitle	b'Hitorijime My Hero'
-animeType	b'TV'
+animeTitle	Hitorijime My Hero
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.36
 animeUsers	62160
 animeRank	
-animePopularity	
-animeDescription	"b'Masahiro Setagawa is a hopeless teenager who is often used by the neighborhood bullies as an errand boy. Defenseless, Masahiro knows that nobody will ever save him. However, his life drastically changes when he meets Kousuke Ooshiba, a man known as the ""Bear Killer,"" who takes down neighborhood gangs.\n\nA year later, Masahiro and his former friend, Kensuke Ooshiba, attend high school, only to find that Kousuke is their math teacher. While the three grow closer, Masahiro starts to view Kousuke as his ""hero,"" and Kousuke develops an urging desire to protect Masahiro. However, their normal lives take a turn when Kensuke\'s childhood friend, Asaya Hasekura, returns, seeing Kensuke as more than just a friend, much to his surprise. Will the three boys be able to live a regular high school life? Or will forbidden love keep them apart forever?\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Hitorijime Boyfriend', b'Hitorijime My Hero']
-animeCharacters	[b'Ooshiba, Kousuke', b'Setagawa, Masahiro', b'Hasekura, Asaya', b'Ooshiba, Kensuke', b'Fukushige, Mitsuru', b'Yamabe, Tsuyoshi', b'Natsuo', b'Yoshida, Jirou', b'Houjou, Tsunehito']
-animeVoices	[b'\nMaeno, Tomoaki\nJapanese\n', b'\nMasuda, Toshiki\nJapanese\n', b'\nTachibana, Shinnosuke\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nYamashita, Daiki\nJapanese\n', b'\nAdachi, Yuuto\nJapanese\n', b'\nHatano, Wataru\nJapanese\n', b'\nYamashita, Seiichirou\nJapanese\n', b'\nKondou, Takayuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiiro, Yukina\n\nDirector\n\n', b'\nMorishita, Hiroto\n\nSound Director\n\n', b'\nMatsuoka, Yoshitsugu\n\nTheme Song Performance\n\n', b'\nMaeno, Tomoaki\n\nTheme Song Performance\n\n']
+animePopularity	1313
+animeDescription	"Masahiro Setagawa is a hopeless teenager who is often used by the neighborhood bullies as an errand boy. Defenseless, Masahiro knows that nobody will ever save him. However, his life drastically changes when he meets Kousuke Ooshiba, a man known as the ""Bear Killer,"" who takes down neighborhood gangs.
+
+A year later, Masahiro and his former friend, Kensuke Ooshiba, attend high school, only to find that Kousuke is their math teacher. While the three grow closer, Masahiro starts to view Kousuke as his ""hero,"" and Kousuke develops an urging desire to protect Masahiro. However, their normal lives take a turn when Kensuke's childhood friend, Asaya Hasekura, returns, seeing Kensuke as more than just a friend, much to his surprise. Will the three boys be able to live a regular high school life? Or will forbidden love keep them apart forever?
+
+[Written by MAL Rewrite]"
+animeRelated	['Hitorijime Boyfriend', 'Hitorijime My Hero']
+animeCharacters	['Ooshiba, Kousuke', 'Setagawa, Masahiro', 'Hasekura, Asaya', 'Ooshiba, Kensuke', 'Fukushige, Mitsuru', 'Yamabe, Tsuyoshi', 'Natsuo', 'Yoshida, Jirou', 'Houjou, Tsunehito']
+animeVoices	['Maeno, Tomoaki', 'Masuda, Toshiki', 'Tachibana, Shinnosuke', 'Matsuoka, Yoshitsugu', 'Yamashita, Daiki', 'Adachi, Yuuto', 'Hatano, Wataru', 'Yamashita, Seiichirou', 'Kondou, Takayuki']
+animeStaff	[['Hiiro, Yukina', 'Director'], ['Morishita, Hiroto', 'Sound Director'], ['Matsuoka, Yoshitsugu', 'Theme Song Performance'], ['Maeno, Tomoaki', 'Theme Song Performance']]

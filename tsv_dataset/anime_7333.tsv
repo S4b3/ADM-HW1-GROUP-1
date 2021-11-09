@@ -1,5 +1,5 @@
-animeTitle	b'Anne no Nikki: Anne Frank Monogatari'
-animeType	b'Special'
+animeTitle	Anne no Nikki: Anne Frank Monogatari
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.27
 animeUsers	177
 animeRank	
-animePopularity	
-animeDescription	"b'This is the true story of Anne Frank, a Jewish girl living in Amsterdam during WW2. Anne\'s father realizes on time the danger the Jews face and hides his family (his wife Edith and his two daughters Margo (16) and Anne (13), along with four more people, in ""the house behind"". For two years the 8 people live in darkness and whispers, in fear to be discovered and sent to the German crematories. During that time young Anne writes a diary, describing day by day life in the cellar, her complicated realtionship with her mother and the story of her first love - Peter, the young boy in the hiding place. Anne writes down her wishes to run out free and breath the air and flowers, her dreams to be free at last. Then they are discovered and are all sent to death.\n\n(Source: ANN)'"
-animeRelated	[b'Anne no Nikki']
-animeCharacters	[b'Gies, Miep', b'Frank, Margot', b'Edith']
-animeVoices	[b'\nTaichi, Kotoe\nJapanese\n', b'\nUeda, Miyuki\nJapanese\n', b'\nNakamura, Kineko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFrank, Anne\n\nOriginal Creator\n\n', b'\nEndou, Masaharu\n\nKey Animation\n\n', b'\nTominaga, Sadayoshi\n\nKey Animation\n\n']
+animePopularity	11504
+animeDescription	"This is the true story of Anne Frank, a Jewish girl living in Amsterdam during WW2. Anne's father realizes on time the danger the Jews face and hides his family (his wife Edith and his two daughters Margo (16) and Anne (13), along with four more people, in ""the house behind"". For two years the 8 people live in darkness and whispers, in fear to be discovered and sent to the German crematories. During that time young Anne writes a diary, describing day by day life in the cellar, her complicated realtionship with her mother and the story of her first love - Peter, the young boy in the hiding place. Anne writes down her wishes to run out free and breath the air and flowers, her dreams to be free at last. Then they are discovered and are all sent to death.
+
+(Source: ANN)"
+animeRelated	['Anne no Nikki']
+animeCharacters	['Gies, Miep', 'Frank, Margot', 'Edith']
+animeVoices	['Taichi, Kotoe', 'Ueda, Miyuki', 'Nakamura, Kineko']
+animeStaff	[['Frank, Anne', 'Original Creator'], ['Endou, Masaharu', 'Key Animation'], ['Tominaga, Sadayoshi', 'Key Animation']]

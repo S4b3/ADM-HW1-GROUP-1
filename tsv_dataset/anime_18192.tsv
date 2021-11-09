@@ -1,5 +1,5 @@
-animeTitle	b'Darling'
-animeType	b'OVA'
+animeTitle	Darling
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.4
 animeUsers	2393
 animeRank	
-animePopularity	
-animeDescription	"b""Jun is a comic artist who is never afraid to put in a hard day of work. Naturally, he authors pornographic comics. He's been given a monumental deadline, but he has a special power allowing him to work at hyper speed as long as he is aroused. Lucky for him, his assistant Miyuki is also his wife and she's ready to give him a hand with work. \n\n(Source: AniDB)"""
+animePopularity	6371
+animeDescription	"Jun is a comic artist who is never afraid to put in a hard day of work. Naturally, he authors pornographic comics. He's been given a monumental deadline, but he has a special power allowing him to work at hyper speed as long as he is aroused. Lucky for him, his assistant Miyuki is also his wife and she's ready to give him a hand with work. 
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Kitano, Miyuki', b'Kitano, Jun', b'Makoto, Ichirou', b'Irie, Kozue', b'Mifuji, Sonoko']
-animeVoices	[b'\nAsai, Kiyomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKudou, Susumu\n\nDirector\n\n', b'\nIida, Hiroyoshi\n\nKey Animation\n\n', b'\nTanaka, Naoya\n\nRecording Assistant\n\n']
+animeCharacters	['Kitano, Miyuki', 'Kitano, Jun', 'Makoto, Ichirou', 'Irie, Kozue', 'Mifuji, Sonoko']
+animeVoices	['Asai, Kiyomi']
+animeStaff	[['Kudou, Susumu', 'Director'], ['Iida, Hiroyoshi', 'Key Animation'], ['Tanaka, Naoya', 'Recording Assistant']]

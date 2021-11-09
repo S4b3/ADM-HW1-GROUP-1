@@ -1,5 +1,5 @@
-animeTitle	b'100% Pascal-sensei (TV)'
-animeType	b'TV'
+animeTitle	100% Pascal-sensei (TV)
+animeType	TV
 animeNumEpisode	36
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.67
 animeUsers	673
 animeRank	
-animePopularity	
-animeDescription	b'The story centers around an elementary school teacher who is so stupid that he cannot even write his own name. He does whatever he likes in his classroom. Plus, by all appearances, he is not human.\n\n(Source: ANN)'
-animeRelated	[b'100% Pascal-sensei', b'40 Shuunen Da yo!! CoroCoro All-Star Shougakkou']
-animeCharacters	[b'Pascal-sensei', b'Chika', b'Hayakawa, Hayato', b'Tachibana, Hikaru', b'Ijuuin, Kirari', b'Kitano, Yuusuke', b'Iwata', b'Kanamori, Steve']
-animeVoices	[b'\nSatou, Hana\nJapanese\n', b'\nTomioka, Misako\nJapanese\n', b'\nKodaira, Yuuki\nJapanese\n', b'\nMaruyama, Yuka\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nHamazoe, Shinya\nJapanese\n', b'\nTakeda, Kouji\nJapanese\n', b'\nKobayashi, Daiki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Masato\n\nEpisode Director, Storyboard\n\n', b'\nNagai, Yuuji\n\nOriginal Creator\n\n']
+animePopularity	8940
+animeDescription	"The story centers around an elementary school teacher who is so stupid that he cannot even write his own name. He does whatever he likes in his classroom. Plus, by all appearances, he is not human.
+
+(Source: ANN)"
+animeRelated	['100% Pascal-sensei', '40 Shuunen Da yo!! CoroCoro All-Star Shougakkou']
+animeCharacters	['Pascal-sensei', 'Chika', 'Hayakawa, Hayato', 'Tachibana, Hikaru', 'Ijuuin, Kirari', 'Kitano, Yuusuke', 'Iwata', 'Kanamori, Steve']
+animeVoices	['Satou, Hana', 'Tomioka, Misako', 'Kodaira, Yuuki', 'Maruyama, Yuka', 'Mizuhashi, Kaori', 'Hamazoe, Shinya', 'Takeda, Kouji', 'Kobayashi, Daiki']
+animeStaff	[['Satou, Masato', 'Episode Director, Storyboard'], ['Nagai, Yuuji', 'Original Creator']]

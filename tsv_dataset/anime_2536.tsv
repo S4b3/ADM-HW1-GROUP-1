@@ -1,5 +1,5 @@
-animeTitle	b'Saiyuuki Gaiden: Kouga no Shou'
-animeType	b'OVA'
+animeTitle	Saiyuuki Gaiden: Kouga no Shou
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	7.27
 animeUsers	724
 animeRank	
-animePopularity	
-animeDescription	"b""Based on chapters 11-13 of the original manga with additional content written by the manga author. The story will be told from Tenpou's point of view.\n"""
-animeRelated	[b'Saiyuuki Gaiden']
-animeCharacters	[b'Gensui, Tenpou', b'Taishou, Kenren', b'Son, Gokuu', b'Douji, Konzen', b'Goujun', b'Bosatsu, Kanzeon']
-animeVoices	[b'\nIshida, Akira\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n']
+animePopularity	8527
+animeDescription	"Based on chapters 11-13 of the original manga with additional content written by the manga author. The story will be told from Tenpou's point of view.
+"
+animeRelated	['Saiyuuki Gaiden']
+animeCharacters	['Gensui, Tenpou', 'Taishou, Kenren', 'Son, Gokuu', 'Douji, Konzen', 'Goujun', 'Bosatsu, Kanzeon']
+animeVoices	['Ishida, Akira', 'Hirata, Hiroaki']
 animeStaff	[]

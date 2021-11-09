@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon: Pichu to Pikachu'
-animeType	b'Movie'
+animeTitle	Pokemon: Pichu to Pikachu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.69
 animeUsers	21938
 animeRank	
-animePopularity	
-animeDescription	"b""Pikachu meets the Pichu brothers and goes on an adventure through the city with them while trying to get back to the building where the rest of Ash's Pokemon are."""
-animeRelated	[b'Pokemon', b'Pokemon Movie 03: Kesshoutou no Teiou Entei']
-animeCharacters	[b'Pikachu', b'Nyarth', b'Satoshi', b'Takeshi', b'Kasumi', b'Fushigidane', b'Narrator']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nSakai, Noriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nAsada, Yuuji\n\nEpisode Director\n\n', b'\nSonoda, Hideki\n\nScript\n\n']
+animePopularity	2917
+animeDescription	Pikachu meets the Pichu brothers and goes on an adventure through the city with them while trying to get back to the building where the rest of Ash's Pokemon are.
+animeRelated	['Pokemon', 'Pokemon Movie 03: Kesshoutou no Teiou Entei']
+animeCharacters	['Pikachu', 'Nyarth', 'Satoshi', 'Takeshi', 'Kasumi', 'Fushigidane', 'Narrator']
+animeVoices	['Ootani, Ikue', 'Inuyama, Inuko', 'Matsumoto, Rica', 'Ueda, Yuuji', 'Iizuka, Mayumi', 'Hayashibara, Megumi', 'Sakai, Noriko']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Asada, Yuuji', 'Episode Director'], ['Sonoda, Hideki', 'Script']]

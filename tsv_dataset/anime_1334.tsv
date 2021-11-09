@@ -1,5 +1,5 @@
-animeTitle	b'Tales of Vesperia: The First Strike'
-animeType	b'Movie'
+animeTitle	Tales of Vesperia: The First Strike
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,19 @@ animeNumMembers
 animeScore	7.59
 animeUsers	20724
 animeRank	
-animePopularity	
-animeDescription	"b""Ten years after the Great War against the demon-beasts, the empire rules over the world and prosperity relies on the massive use of aer.\n\nYuri Lowell and Flynn Scifo are two young men who have just enrolled the ranks of the prestigious Imperial Knights. One day, they are sent to the town of Ceazontania, where abnormal aer activity has reportedly caused the proliferation of horribly mutated beasts, with serious threat for the whole region.\n\nMeanwhile, the Knights Supreme Commander Alexei Denoia and the naive Princess Estellise are involved in a behind-the-curtains struggle for power in the capital. The situation in Ceazontania deteriorates as the garrison of Imperial Knights finds that they cannot expect any immediate support from the capital.\n\nThen, Niren Fedrok, commander of the Imperial Knights in Ceazontania, takes an unexpected decision that is going to change Yuri and Flynn's destiny forever.\n\nWhat are the secrets behind the extraordinary events that are happening around Yuri and Flynn? Will they be able to defend the innocent people of Ceazontania and stay true to their beliefs?\n\n(Source: Funimation)"""
-animeRelated	[b'Tales of Vesperia', b'Tales of Gekijou', b'Tales of HR']
-animeCharacters	[b'Lowell, Yuri', b'Scifo, Flynn', b'Fedrok, Niren', b'Aiheap, Hisca', b'Aiheap, Chastel', b'Mordio, Rita', b'Raven', b'Sidos Heurassein, Estellise', b'Repede', b'Dinoia, Alexei']
-animeVoices	[b'\nToriumi, Kousuke\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nTaniguchi, Takashi\nJapanese\n', b'\nOgasawara, Arisa\nJapanese\n', b'\nMizusawa, Fumie\nJapanese\n', b'\nMorinaga, Rika\nJapanese\n', b'\nTakemoto, Eiji\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nIshii, Makoto\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKamei, Kanta\n\nDirector\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n', b'\nYoshida, Reiko\n\nScript, Screenplay\n\n', b'\nBonnie Pink\n\nTheme Song Performance\n\n']
+animePopularity	2616
+animeDescription	"Ten years after the Great War against the demon-beasts, the empire rules over the world and prosperity relies on the massive use of aer.
+
+Yuri Lowell and Flynn Scifo are two young men who have just enrolled the ranks of the prestigious Imperial Knights. One day, they are sent to the town of Ceazontania, where abnormal aer activity has reportedly caused the proliferation of horribly mutated beasts, with serious threat for the whole region.
+
+Meanwhile, the Knights Supreme Commander Alexei Denoia and the naive Princess Estellise are involved in a behind-the-curtains struggle for power in the capital. The situation in Ceazontania deteriorates as the garrison of Imperial Knights finds that they cannot expect any immediate support from the capital.
+
+Then, Niren Fedrok, commander of the Imperial Knights in Ceazontania, takes an unexpected decision that is going to change Yuri and Flynn's destiny forever.
+
+What are the secrets behind the extraordinary events that are happening around Yuri and Flynn? Will they be able to defend the innocent people of Ceazontania and stay true to their beliefs?
+
+(Source: Funimation)"
+animeRelated	['Tales of Vesperia', 'Tales of Gekijou', 'Tales of HR']
+animeCharacters	['Lowell, Yuri', 'Scifo, Flynn', 'Fedrok, Niren', 'Aiheap, Hisca', 'Aiheap, Chastel', 'Mordio, Rita', 'Raven', 'Sidos Heurassein, Estellise', 'Repede', 'Dinoia, Alexei']
+animeVoices	['Toriumi, Kousuke', 'Miyano, Mamoru', 'Taniguchi, Takashi', 'Ogasawara, Arisa', 'Mizusawa, Fumie', 'Morinaga, Rika', 'Takemoto, Eiji', 'Nakahara, Mai', 'Ishii, Makoto', 'Kosugi, Juurouta']
+animeStaff	[['Kamei, Kanta', 'Director'], ['Wakabayashi, Kazuhiro', 'Sound Director'], ['Yoshida, Reiko', 'Script, Screenplay'], ['Bonnie Pink', 'Theme Song Performance']]

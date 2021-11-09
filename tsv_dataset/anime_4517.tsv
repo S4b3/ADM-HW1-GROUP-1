@@ -1,5 +1,5 @@
-animeTitle	b'El Hazard: The Alternative World'
-animeType	b'TV'
+animeTitle	El Hazard: The Alternative World
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.82
 animeUsers	4435
 animeRank	
-animePopularity	
-animeDescription	"b""Miz plans to retire as a Great Priestess of Water to married life with her darling Fujisawa and as replacement the young Qawoor Towles arrives to Floristica. Jinnai sees Qawoor's initiation ceremony as a chance to infiltrate Makoto's laboratory but accidentally activates a mysterious thingy that sends them all through the dimensions to a grey industrial city protected by a huge castle in an alternative world.\n\n(Source: ANN)"""
-animeRelated	[b'El Hazard 2: The Magnificent World']
-animeCharacters	[b'Jinnai, Katsuhiko', b'Shayla, Shayla', b'Mizuhara, Makoto', b'Jinnai, Nanami', b'Towles, Qawoor', b'Ifurita', b'Fujisawa, Masamichi', b'Venus, Rune', b'Relryle, Alielle', b'Diva']
-animeVoices	[b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nSakurai, Tomo\nJapanese\n', b'\nIwanaga, Tetsuya\nJapanese\n', b'\nNatsuki, Rio\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nIshii, Kouji\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nKozakura, Etsuko\nJapanese\n', b'\nSoumi, Youko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nInoue, Hiroaki\n\nProducer\n\n', b'\nKikuchi, Yasuhito\n\nDirector\n\n', b'\nAbe, Masashi\n\nEpisode Director, Storyboard\n\n', b'\nSakamoto, Maaya\n\nTheme Song Performance\n\n']
+animePopularity	5265
+animeDescription	"Miz plans to retire as a Great Priestess of Water to married life with her darling Fujisawa and as replacement the young Qawoor Towles arrives to Floristica. Jinnai sees Qawoor's initiation ceremony as a chance to infiltrate Makoto's laboratory but accidentally activates a mysterious thingy that sends them all through the dimensions to a grey industrial city protected by a huge castle in an alternative world.
+
+(Source: ANN)"
+animeRelated	['El Hazard 2: The Magnificent World']
+animeCharacters	['Jinnai, Katsuhiko', 'Shayla, Shayla', 'Mizuhara, Makoto', 'Jinnai, Nanami', 'Towles, Qawoor', 'Ifurita', 'Fujisawa, Masamichi', 'Venus, Rune', 'Relryle, Alielle', 'Diva']
+animeVoices	['Okiayu, Ryoutarou', 'Sakurai, Tomo', 'Iwanaga, Tetsuya', 'Natsuki, Rio', 'Sakamoto, Maaya', 'Ishii, Kouji', 'Inoue, Kikuko', 'Kozakura, Etsuko', 'Soumi, Youko']
+animeStaff	[['Inoue, Hiroaki', 'Producer'], ['Kikuchi, Yasuhito', 'Director'], ['Abe, Masashi', 'Episode Director, Storyboard'], ['Sakamoto, Maaya', 'Theme Song Performance']]

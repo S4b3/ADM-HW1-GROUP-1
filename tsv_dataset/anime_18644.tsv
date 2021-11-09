@@ -1,5 +1,5 @@
-animeTitle	b'Be-yond'
-animeType	b'OVA'
+animeTitle	Be-yond
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.77
 animeUsers	431
 animeRank	
-animePopularity	
-animeDescription	b'Based on an adult game by ELF.\n\nWhen I woke up from the darkness, I learned that I was the legendary Devil of Darkness that was said to have a power to destroy the universe. The beautiful girls make approaches to me one after another. My shout roars in space. When I touch a villain gently, he decomposes into molecules... It seemed that I have the power... But... am I really the Devil?'
+animePopularity	10351
+animeDescription	"Based on an adult game by ELF.
+
+When I woke up from the darkness, I learned that I was the legendary Devil of Darkness that was said to have a power to destroy the universe. The beautiful girls make approaches to me one after another. My shout roars in space. When I touch a villain gently, he decomposes into molecules... It seemed that I have the power... But... am I really the Devil?"
 animeRelated	[]
-animeCharacters	[b'Masaji']
+animeCharacters	['Masaji']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Eiko\n\nProducer\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nYamamoto, Harukichi\n\nTheme Song Arrangement\n\n', b'\nNakayama, Daisuke\n\nKey Animation\n\n']
+animeStaff	[['Tanaka, Eiko', 'Producer'], ['Watanabe, Jun', 'Sound Director'], ['Yamamoto, Harukichi', 'Theme Song Arrangement'], ['Nakayama, Daisuke', 'Key Animation']]

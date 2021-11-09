@@ -1,5 +1,5 @@
-animeTitle	b'Moom'
-animeType	b'Movie'
+animeTitle	Moom
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.32
 animeUsers	103
 animeRank	
-animePopularity	
-animeDescription	b'Every forgotten object has a memory with its previous owner still attached. This is a story of Moom, one of those memories stuck in this world. One day, Moom meets another memory just like him.\n\n(Source: AniDB)'
-animeRelated	[b'Moom: Hajimari no Monogatari']
+animePopularity	13963
+animeDescription	"Every forgotten object has a memory with its previous owner still attached. This is a story of Moom, one of those memories stuck in this world. One day, Moom meets another memory just like him.
+
+(Source: AniDB)"
+animeRelated	['Moom: Hajimari no Monogatari']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

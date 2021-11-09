@@ -1,5 +1,5 @@
-animeTitle	b'Junjou Shoujo Et Cetera'
-animeType	b'OVA'
+animeTitle	Junjou Shoujo Et Cetera
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.65
 animeUsers	2039
 animeRank	
-animePopularity	
-animeDescription	b'Based on the adult manga by Miyabi.'
-animeRelated	[b'Junjou Shoujo Et Cetera', b'Junjou Shoujo Et Cetera Specials']
-animeCharacters	[b'Kuramochi, Konomi', b'Rumi', b'Jounouchi, Yuuto']
-animeVoices	[b'\nIino, Yuu\nJapanese\n', b'\nSanada, Akane\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOota, Hideta\n\nProducer, Director, Episode Director\n\n', b'\nSawayama, Shinichiro\n\nScript\n\n', b'\nMiyabi\n\nOriginal Creator\n\n']
+animePopularity	6641
+animeDescription	Based on the adult manga by Miyabi.
+animeRelated	['Junjou Shoujo Et Cetera', 'Junjou Shoujo Et Cetera Specials']
+animeCharacters	['Kuramochi, Konomi', 'Rumi', 'Jounouchi, Yuuto']
+animeVoices	['Iino, Yuu', 'Sanada, Akane']
+animeStaff	[['Oota, Hideta', 'Producer, Director, Episode Director'], ['Sawayama, Shinichiro', 'Script'], ['Miyabi', 'Original Creator']]

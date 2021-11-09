@@ -1,5 +1,5 @@
-animeTitle	b'Herlock Saga: Nibelung no Yubiwa'
-animeType	b'OVA'
+animeTitle	Herlock Saga: Nibelung no Yubiwa
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.69
 animeUsers	2062
 animeRank	
-animePopularity	
-animeDescription	b'Captain Herlock is drawn into a saga of intergalactic proportions when the son of a deceased comrade unwittingly forges the Ring of the Niebelung. Evil forces gather to wage war against the last remaining superpowers of the galaxy led by a demented outcast. Herlock must counter the amassed armadas that threaten the last gods and recover the ring before Paradise is lost. \n\n(Source: ANN)'
-animeRelated	[b'Nibelung no Yubiwa', b'Uchuu Kaizoku Captain Herlock', b'Maetel Legend']
-animeCharacters	[b'Captain Herlock', b'Ooyama, Tochirou', b'Maetel', b'Emeraldas', b'Miime', b'Daiba, Tadashi', b'Yattaran', b'Fafner', b'Fasolt', b'Fricka']
-animeVoices	[b'\nYamadera, Kouichi\nJapanese\n', b'\nIkeda, Masako\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nYanaga, Kazuko\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nUeda, Miyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakeuchi, Yoshio\n\nDirector, Storyboard\n\n', b'\nOkuwaki, Masaharu\n\nStoryboard\n\n', b'\nOtagi, Nozomi\n\nTheme Song Performance\n\n', b'\nMatsumoto, Leiji\n\nOriginal Creator\n\n']
+animePopularity	6712
+animeDescription	"Captain Herlock is drawn into a saga of intergalactic proportions when the son of a deceased comrade unwittingly forges the Ring of the Niebelung. Evil forces gather to wage war against the last remaining superpowers of the galaxy led by a demented outcast. Herlock must counter the amassed armadas that threaten the last gods and recover the ring before Paradise is lost. 
+
+(Source: ANN)"
+animeRelated	['Nibelung no Yubiwa', 'Uchuu Kaizoku Captain Herlock', 'Maetel Legend']
+animeCharacters	['Captain Herlock', 'Ooyama, Tochirou', 'Maetel', 'Emeraldas', 'Miime', 'Daiba, Tadashi', 'Yattaran', 'Fafner', 'Fasolt', 'Fricka']
+animeVoices	['Yamadera, Kouichi', 'Ikeda, Masako', 'Katsuki, Masako', 'Yanaga, Kazuko', 'Seki, Toshihiko', 'Chiba, Shigeru', 'Miki, Shinichiro', 'Koyasu, Takehito', 'Ueda, Miyuki']
+animeStaff	[['Takeuchi, Yoshio', 'Director, Storyboard'], ['Okuwaki, Masaharu', 'Storyboard'], ['Otagi, Nozomi', 'Theme Song Performance'], ['Matsumoto, Leiji', 'Original Creator']]

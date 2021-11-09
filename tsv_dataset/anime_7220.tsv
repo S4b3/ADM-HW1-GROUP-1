@@ -1,5 +1,5 @@
-animeTitle	b'Strike Witches OVA'
-animeType	b'OVA'
+animeTitle	Strike Witches OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.29
 animeUsers	11047
 animeRank	
-animePopularity	
-animeDescription	"b'In 1939, after the world has been devastated by an invasion of the ""Neuroi""\xe2\x80\x94alien war machines of unknown origin\xe2\x80\x94humanity continues to struggle in an uneven fight. With no conventional arms able to pierce through the aliens\' hardy armor, resistance forces spare no expense in their search for a way to level the playing field.\n\nEventually, the so-called ""Striker Unit"" is designed\xe2\x80\x94a state-of-the-art device utilizing the innate magical powers of young girls and turning them into deadly weapons. The women who are now gathering from all around the world to fight for the survival of the human race are known as ""Witches,"" with the 501st Joint Fighter Wing\xe2\x80\x94the ""Strike Witches""\xe2\x80\x94standing at the forefront of the deadly conflict.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Strike Witches']
-animeCharacters	[b'Miyafuji, Yoshika', b'Sakamoto, Mio', b'Bishop, Lynette', b'Clostermann, Perrine H.', b'Wilcke, Minna-Dietlinde', b'Litvyak, Sanya V.', b'Hartmann, Erica', b'Juutilainen, Eila Ilmatar', b'Lucchini, Francesca', b'Barkhorn, Gertrud']
-animeVoices	[b'\nFukuen, Misato\nJapanese\n', b'\nChiba, Saeko\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nTanaka, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugishima, Kunihisa\n\nDirector, Episode Director, Storyboard, Series Composition\n\n', b'\nYoshida, Tomohiro\n\nSound Director\n\n', b'\nShimada, Humikane\n\nOriginal Character Design\n\n', b'\nAbe, Nozomu\n\nKey Animation\n\n']
+animePopularity	3623
+animeDescription	"In 1939, after the world has been devastated by an invasion of the ""Neuroi""—alien war machines of unknown origin—humanity continues to struggle in an uneven fight. With no conventional arms able to pierce through the aliens' hardy armor, resistance forces spare no expense in their search for a way to level the playing field.
+
+Eventually, the so-called ""Striker Unit"" is designed—a state-of-the-art device utilizing the innate magical powers of young girls and turning them into deadly weapons. The women who are now gathering from all around the world to fight for the survival of the human race are known as ""Witches,"" with the 501st Joint Fighter Wing—the ""Strike Witches""—standing at the forefront of the deadly conflict.
+
+[Written by MAL Rewrite]"
+animeRelated	['Strike Witches']
+animeCharacters	['Miyafuji, Yoshika', 'Sakamoto, Mio', 'Bishop, Lynette', 'Clostermann, Perrine H.', 'Wilcke, Minna-Dietlinde', 'Litvyak, Sanya V.', 'Hartmann, Erica', 'Juutilainen, Eila Ilmatar', 'Lucchini, Francesca', 'Barkhorn, Gertrud']
+animeVoices	['Fukuen, Misato', 'Chiba, Saeko', 'Nazuka, Kaori', 'Sawashiro, Miyuki', 'Tanaka, Rie']
+animeStaff	[['Sugishima, Kunihisa', 'Director, Episode Director, Storyboard, Series Composition'], ['Yoshida, Tomohiro', 'Sound Director'], ['Shimada, Humikane', 'Original Character Design'], ['Abe, Nozomu', 'Key Animation']]

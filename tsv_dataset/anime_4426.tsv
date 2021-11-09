@@ -1,5 +1,5 @@
-animeTitle	b'Honoo no Mirage: Minagiwa no Hangyakusha'
-animeType	b'OVA'
+animeTitle	Honoo no Mirage: Minagiwa no Hangyakusha
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.85
 animeUsers	3726
 animeRank	
-animePopularity	
-animeDescription	b'Takaya was sent to Kyoto to investigate the re-awakening of Ikko sect and Araki Murashige, a member of the Ikko sect who deserted the clan.With the help of his vassal Haruie, Takaya is finally successful in tracing Araki who hunts down a 400-years-old mandala (Buddhist artifact for meditating) that was made of the hair of the deceased Araki clansmen. Unfortunately, by the time they meet, Haruie recognizes Araki as Shintarou, her lover in her past-life. Takaya orders her to eliminate Araki, who is a threat, but will she be able to do it. Furthermore Takaya finally meets Naoe... \n\n(Source: ANN)'
-animeRelated	[b'Honoo no Mirage']
-animeCharacters	[b'Naoe, Nobutsuna', b'Ougi, Takaya', b'Kakizaki, Haruie', b'Narita, Yuzuru', b'Shimozuma, Rairyu', b'Chiaki, Shuuhei']
-animeVoices	[b'\nHayami, Show\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nTamagawa, Sakiko\nJapanese\n', b'\nMatsuno, Taiki\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMuroi, Fumie\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nYonebayashi, Hiromasa\n\nKey Animation\n\n', b'\nKaneko, Hidetoshi\n\nArt Director\n\n']
+animePopularity	5373
+animeDescription	"Takaya was sent to Kyoto to investigate the re-awakening of Ikko sect and Araki Murashige, a member of the Ikko sect who deserted the clan.With the help of his vassal Haruie, Takaya is finally successful in tracing Araki who hunts down a 400-years-old mandala (Buddhist artifact for meditating) that was made of the hair of the deceased Araki clansmen. Unfortunately, by the time they meet, Haruie recognizes Araki as Shintarou, her lover in her past-life. Takaya orders her to eliminate Araki, who is a threat, but will she be able to do it. Furthermore Takaya finally meets Naoe... 
+
+(Source: ANN)"
+animeRelated	['Honoo no Mirage']
+animeCharacters	['Naoe, Nobutsuna', 'Ougi, Takaya', 'Kakizaki, Haruie', 'Narita, Yuzuru', 'Shimozuma, Rairyu', 'Chiaki, Shuuhei']
+animeVoices	['Hayami, Show', 'Seki, Toshihiko', 'Tamagawa, Sakiko', 'Matsuno, Taiki', 'Morikawa, Toshiyuki', 'Matsumoto, Yasunori']
+animeStaff	[['Muroi, Fumie', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Yonebayashi, Hiromasa', 'Key Animation'], ['Kaneko, Hidetoshi', 'Art Director']]

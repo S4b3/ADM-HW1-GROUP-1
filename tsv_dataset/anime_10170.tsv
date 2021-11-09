@@ -1,5 +1,5 @@
-animeTitle	b'Aya to Majo'
-animeType	b'Special'
+animeTitle	Aya to Majo
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.56
 animeUsers	3258
 animeRank	
-animePopularity	
-animeDescription	"b""Not every orphan would love living at St. Morwald's Home for Children, but Earwig does. She gets whatever she wants, whenever she wants it, and it's been that way since she was dropped on the orphanage doorstep as a baby. But all that changes the day Bella Yaga and the Mandrake come to St. Morwald's, disguised as foster parents.\n\nEarwig is whisked off to their mysterious house full of invisible rooms, potions, and spell books, with magic around every corner. Most children would run in terror from a house like that... but not Earwig. Using her own cleverness\xe2\x80\x94with a lot of help from a talking cat\xe2\x80\x94she decides to show the witch who's boss. \n\n(Source: HarperCollins Publishers)"""
+animePopularity	6084
+animeDescription	"Not every orphan would love living at St. Morwald's Home for Children, but Earwig does. She gets whatever she wants, whenever she wants it, and it's been that way since she was dropped on the orphanage doorstep as a baby. But all that changes the day Bella Yaga and the Mandrake come to St. Morwald's, disguised as foster parents.
+
+Earwig is whisked off to their mysterious house full of invisible rooms, potions, and spell books, with magic around every corner. Most children would run in terror from a house like that... but not Earwig. Using her own cleverness—with a lot of help from a talking cat—she decides to show the witch who's boss. 
+
+(Source: HarperCollins Publishers)"
 animeRelated	[]
-animeCharacters	[b'Aya', b'Yaga, Bella', b'Thomas', b'Mandrake']
-animeVoices	[b'\nHirasawa, Kokoro\nJapanese\n', b'\nTerashima, Shinobu\nJapanese\n', b'\nHamada, Gaku\nJapanese\n', b'\nToyokawa, Etsushi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Toshio\n\nProducer\n\n', b'\nMorishita, Kentarou\n\nProducer\n\n', b'\nMiyazaki, Gorou\n\nDirector\n\n', b'\nKasamatsu, Kouji\n\nSound Director\n\n']
+animeCharacters	['Aya', 'Yaga, Bella', 'Thomas', 'Mandrake']
+animeVoices	['Hirasawa, Kokoro', 'Terashima, Shinobu', 'Hamada, Gaku', 'Toyokawa, Etsushi']
+animeStaff	[['Suzuki, Toshio', 'Producer'], ['Morishita, Kentarou', 'Producer'], ['Miyazaki, Gorou', 'Director'], ['Kasamatsu, Kouji', 'Sound Director']]

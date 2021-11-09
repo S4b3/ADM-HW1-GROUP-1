@@ -1,5 +1,5 @@
-animeTitle	b'Zuori Qing Kong'
-animeType	b'Movie'
+animeTitle	Zuori Qing Kong
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.79
 animeUsers	1743
 animeRank	
-animePopularity	
-animeDescription	"b'In the late 90\'s, in China, Tu Xiaoyi, an high school student, takes no interest in marks and prefers to play video games with his friend nicknamed ""Peanut."" One day, he was chosen by his teacher to become the class representative with Yao Zhetian, a very cute girl. He will experience his first love and disappointments.'"
-animeRelated	[b'Zuori Qing Kong', b'Zuori Qing Kong Pilot']
-animeCharacters	[b'Qi, Jingxuan', b'Yao, Zhetian', b'Tu, Xiaoyi', b'Lai, Rong', b'Xu, Zhengkun', b'Chen', b'Hua, Bo']
+animePopularity	5542
+animeDescription	"In the late 90's, in China, Tu Xiaoyi, an high school student, takes no interest in marks and prefers to play video games with his friend nicknamed ""Peanut."" One day, he was chosen by his teacher to become the class representative with Yao Zhetian, a very cute girl. He will experience his first love and disappointments."
+animeRelated	['Zuori Qing Kong', 'Zuori Qing Kong Pilot']
+animeCharacters	['Qi, Jingxuan', 'Yao, Zhetian', 'Tu, Xiaoyi', 'Lai, Rong', 'Xu, Zhengkun', 'Chen', 'Hua, Bo']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nLiu, Min\n\nProducer\n\n', b'\nXi, Chao\n\nDirector\n\n', b'\nPocket Chocolate\n\nOriginal Creator\n\n']
+animeStaff	[['Liu, Min', 'Producer'], ['Xi, Chao', 'Director'], ['Pocket Chocolate', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hajime no Ippo'
-animeType	b'TV'
+animeTitle	Hajime no Ippo
+animeType	TV
 animeNumEpisode	75
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.74
 animeUsers	208748
 animeRank	
-animePopularity	
-animeDescription	"b""Makunouchi Ippo has been bullied his entire life. Constantly running errands and being beaten up by his classmates, Ippo has always dreamed of changing himself, but never has the passion to act upon it. One day, in the midst of yet another bullying, Ippo is saved by Takamura Mamoru, who happens to be a boxer. Ippo faints from his injuries and is brought to the Kamogawa boxing gym to recover. As he regains consciousness, he is awed and amazed at his new surroundings in the gym, though lacks confidence to attempt anything. Takamura places a photo of Ippo's classmate on a punching bag and forces him to punch it. It is only then that Ippo feels something stir inside him and eventually asks Takamura to train him in boxing. Thinking that Ippo does not have what it takes, Takamura gives him a task deemed impossible and gives him a one week time limit. With a sudden desire to get stronger, for himself and his hard working mother, Ippo trains relentlessly to accomplish the task within the time limit. Thus Ippo's journey to the top of the boxing world begins.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Hajime no Ippo', b'Hajime no Ippo: Champion Road', b'Hajime no Ippo: Boxer no Kobushi']
-animeCharacters	[b'Takamura, Mamoru', b'Makunouchi, Ippo', b'Aoki, Masaru', b'Kamogawa, Genji', b'Kimura, Tatsuya', b'Sendo, Takeshi', b'Zangief, Alexander Volg', b'Miyata, Ichirou', b'Mashiba, Ryo', b'Date, Eiji']
-animeVoices	[b'\nKoyama, Rikiya\nJapanese\n', b'\nKiyasu, Kohei\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nTanaka, Masahiko\nJapanese\n', b'\nAizawa, Masaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishimura, Satoshi\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nKojima, Masayuki\n\nEpisode Director, Storyboard\n\n', b'\nNanba, Hitoshi\n\nEpisode Director\n\n']
+animePopularity	364
+animeDescription	"Makunouchi Ippo has been bullied his entire life. Constantly running errands and being beaten up by his classmates, Ippo has always dreamed of changing himself, but never has the passion to act upon it. One day, in the midst of yet another bullying, Ippo is saved by Takamura Mamoru, who happens to be a boxer. Ippo faints from his injuries and is brought to the Kamogawa boxing gym to recover. As he regains consciousness, he is awed and amazed at his new surroundings in the gym, though lacks confidence to attempt anything. Takamura places a photo of Ippo's classmate on a punching bag and forces him to punch it. It is only then that Ippo feels something stir inside him and eventually asks Takamura to train him in boxing. Thinking that Ippo does not have what it takes, Takamura gives him a task deemed impossible and gives him a one week time limit. With a sudden desire to get stronger, for himself and his hard working mother, Ippo trains relentlessly to accomplish the task within the time limit. Thus Ippo's journey to the top of the boxing world begins.
+
+[Written by MAL Rewrite]"
+animeRelated	['Hajime no Ippo', 'Hajime no Ippo: Champion Road', 'Hajime no Ippo: Boxer no Kobushi']
+animeCharacters	['Takamura, Mamoru', 'Makunouchi, Ippo', 'Aoki, Masaru', 'Kamogawa, Genji', 'Kimura, Tatsuya', 'Sendo, Takeshi', 'Zangief, Alexander Volg', 'Miyata, Ichirou', 'Mashiba, Ryo', 'Date, Eiji']
+animeVoices	['Koyama, Rikiya', 'Kiyasu, Kohei', 'Takagi, Wataru', 'Utsumi, Kenji', 'Fujiwara, Keiji', 'Onosaka, Masaya', 'Morikawa, Toshiyuki', 'Seki, Tomokazu', 'Tanaka, Masahiko', 'Aizawa, Masaki']
+animeStaff	[['Nishimura, Satoshi', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Kojima, Masayuki', 'Episode Director, Storyboard'], ['Nanba, Hitoshi', 'Episode Director']]

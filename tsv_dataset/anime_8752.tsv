@@ -1,5 +1,5 @@
-animeTitle	b'Shoka'
-animeType	b'Special'
+animeTitle	Shoka
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.98
 animeUsers	2151
 animeRank	
-animePopularity	
-animeDescription	"b'The story is set during the turbulent years of the shogunate, as dark forces try to undermine the shogun\'s power in Edo-era Tokyo. Shirou Sumiya is the leader of the ""Way of the Paper Drawing"" clan which captures the chaos of the struggles with rapid brush strokes. Sumiya is summoned to Edo, and his disciples, who have extraordinary powers in their secret drawing techniques, become part of the ensuring battles with giant drawn creatures. \n\n(Source: ANN)'"
+animePopularity	7062
+animeDescription	"The story is set during the turbulent years of the shogunate, as dark forces try to undermine the shogun's power in Edo-era Tokyo. Shirou Sumiya is the leader of the ""Way of the Paper Drawing"" clan which captures the chaos of the struggles with rapid brush strokes. Sumiya is summoned to Edo, and his disciples, who have extraordinary powers in their secret drawing techniques, become part of the ensuring battles with giant drawn creatures. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Sumiya, Shirou']
-animeVoices	[b'\nNakao, Akiyoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamada, Makoto\n\nDirector, Storyboard\n\n', b'\nKoizumi, Kisuke\n\nSound Director\n\n', b'\nImaishi, Hiroyuki\n\nKey Animation\n\n', b'\nKawai, Kenji\n\nMusic\n\n']
+animeCharacters	['Sumiya, Shirou']
+animeVoices	['Nakao, Akiyoshi']
+animeStaff	[['Yamada, Makoto', 'Director, Storyboard'], ['Koizumi, Kisuke', 'Sound Director'], ['Imaishi, Hiroyuki', 'Key Animation'], ['Kawai, Kenji', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Kunimatsu-sama no Otoridai'
-animeType	b'TV'
+animeTitle	Kunimatsu-sama no Otoridai
+animeType	TV
 animeNumEpisode	46
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A comedy about a group of kids forming a school baseball team, with the leader being very stubborn and argumentative.\n\n(Source: AniDB)'
-animeRelated	[b'Harisu no Kaze']
-animeCharacters	[b'Gouta']
-animeVoices	[b'\nMasuoka, Hiroshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nBessho, Takaharu\n\nProducer\n\n', b'\nHata, Masami\n\nEpisode Director\n\n', b'\nHirata, Toshio\n\nEpisode Director\n\n', b'\nItou, Tsunehisa\n\nScript\n\n']
+animePopularity	13642
+animeDescription	"A comedy about a group of kids forming a school baseball team, with the leader being very stubborn and argumentative.
+
+(Source: AniDB)"
+animeRelated	['Harisu no Kaze']
+animeCharacters	['Gouta']
+animeVoices	['Masuoka, Hiroshi']
+animeStaff	[['Bessho, Takaharu', 'Producer'], ['Hata, Masami', 'Episode Director'], ['Hirata, Toshio', 'Episode Director'], ['Itou, Tsunehisa', 'Script']]

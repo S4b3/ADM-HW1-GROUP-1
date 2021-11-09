@@ -1,5 +1,5 @@
-animeTitle	b'Mai-Otome Zwei'
-animeType	b'OVA'
+animeTitle	Mai-Otome Zwei
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.26
 animeUsers	9838
 animeRank	
-animePopularity	
-animeDescription	"b""My-Otome Zwei takes place one year after the events of My-Otome. Arika is now a full-fledged Otome (though still under the tutelage of Miss Maria) and Nagi is incarcerated in a prison somewhere in Aries. The various nations are at peace with one another and plan to hold S.O.L.T. (Strategic Otome Limitation Talks) to discuss limiting the numbers of Otome.\n\nA mission to destroy a meteor threatening to collide with Earl sets into motion a chain of events which result in a mysterious shadowy figure attacking Garderobe and several Otome as well as a new, more powerful version of Slave appearing across the planet. To make matters worse, Queen Mashiro disappears following an argument with Arika. The series follows Arika's search for Mashiro as well as Garderobe's attempts to uncover the truth behind the shadowy figure.\n\n(Source: Wikipedia)"""
-animeRelated	[b'My Otome Zwei', b'Mai-Otome', b'Mai-Otome Zwei Special']
-animeCharacters	[b'Viola, Shizuru', b'Kruger, Natsuki', b'Yumemiya, Arika', b'W\xc3\xa1ng, Nina', b'Tokiha, Mai', b'Blan de Windbloom, Mashiro', b'Sayers, Lena', b'Armitage, Haruka', b'Nao Zhang, Juliet', b'Miyu']
-animeVoices	[b'\nShindo, Naomi\nJapanese\n', b'\nChiba, Saeko\nJapanese\n', b'\nKikuchi, Mika\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nYukana\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n', b'\nNanri, Yuuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nObara, Masakazu\n\nDirector, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nHiguchi, Tatsuto\n\nScript\n\n', b'\nKoshimizu, Ami\n\nTheme Song Performance\n\n']
+animePopularity	4181
+animeDescription	"My-Otome Zwei takes place one year after the events of My-Otome. Arika is now a full-fledged Otome (though still under the tutelage of Miss Maria) and Nagi is incarcerated in a prison somewhere in Aries. The various nations are at peace with one another and plan to hold S.O.L.T. (Strategic Otome Limitation Talks) to discuss limiting the numbers of Otome.
+
+A mission to destroy a meteor threatening to collide with Earl sets into motion a chain of events which result in a mysterious shadowy figure attacking Garderobe and several Otome as well as a new, more powerful version of Slave appearing across the planet. To make matters worse, Queen Mashiro disappears following an argument with Arika. The series follows Arika's search for Mashiro as well as Garderobe's attempts to uncover the truth behind the shadowy figure.
+
+(Source: Wikipedia)"
+animeRelated	['My Otome Zwei', 'Mai-Otome', 'Mai-Otome Zwei Special']
+animeCharacters	['Viola, Shizuru', 'Kruger, Natsuki', 'Yumemiya, Arika', 'Wáng, Nina', 'Tokiha, Mai', 'Blan de Windbloom, Mashiro', 'Sayers, Lena', 'Armitage, Haruka', 'Nao Zhang, Juliet', 'Miyu']
+animeVoices	['Shindo, Naomi', 'Chiba, Saeko', 'Kikuchi, Mika', 'Koshimizu, Ami', 'Nakahara, Mai', 'Yukana', 'Yuzuki, Ryouka', 'Nanri, Yuuka']
+animeStaff	[['Obara, Masakazu', 'Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Higuchi, Tatsuto', 'Script'], ['Koshimizu, Ami', 'Theme Song Performance']]

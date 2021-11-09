@@ -1,5 +1,5 @@
-animeTitle	b'Manga Hana no Kakarichou'
-animeType	b'Movie'
+animeTitle	Manga Hana no Kakarichou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Based on the comedy manga by Sonoyama Shunji.'
-animeRelated	[b'Hana no Kakarichou']
-animeCharacters	[b'Mashumaro, Ayanoroji', b'Youko']
-animeVoices	[b'\nTomita, Kousei\nJapanese\n', b'\nMukai, Mariko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiguro, Noboru\n\nEpisode Director\n\n', b'\nOkazaki, Minoru\n\nEpisode Director\n\n', b'\nItou, Tsunehisa\n\nScript\n\n', b'\nKobayashi, Shichiro\n\nArt Director\n\n']
+animePopularity	15657
+animeDescription	Based on the comedy manga by Sonoyama Shunji.
+animeRelated	['Hana no Kakarichou']
+animeCharacters	['Mashumaro, Ayanoroji', 'Youko']
+animeVoices	['Tomita, Kousei', 'Mukai, Mariko']
+animeStaff	[['Ishiguro, Noboru', 'Episode Director'], ['Okazaki, Minoru', 'Episode Director'], ['Itou, Tsunehisa', 'Script'], ['Kobayashi, Shichiro', 'Art Director']]

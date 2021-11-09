@@ -1,5 +1,5 @@
-animeTitle	b'Bungou Stray Dogs Wan!'
-animeType	b'TV'
+animeTitle	Bungou Stray Dogs Wan!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.89
 animeUsers	24690
 animeRank	
-animePopularity	
-animeDescription	"b""Atsushi Nakajima has finally grown accustomed to the crazy lifestyle that comes with being part of the Armed Detective Agency. But even during peaceful periods of time, there is bound to be chaos! As Atsushi, his friends, and the agency's rival group\xe2\x80\x94the Port Mafia\xe2\x80\x94go about their days roaming the streets of Yokohama, there are no limits to the strange situations they are unwillingly thrown into. \n\nA new take on its original work, Bungou Stray Dogs Wan! shows the more mundane yet hilarious aspects of the characters' lives.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Bungou Stray Dogs Wan!', b'Bungou Stray Dogs']
-animeCharacters	[b'Dazai, Osamu', b'Akutagawa, Ryuunosuke', b'Nakajima, Atsushi', b'Nakahara, Chuuya', b'Edogawa, Ranpo', b'Oda, Sakunosuke', b'Izumi, Kyouka', b'Yosano, Akiko', b'Kunikida, Doppo', b'Miyazawa, Kenji']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nUemura, Yuuto\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nMorohoshi, Sumire\nJapanese\n', b'\nShimamura, Yuu\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nKagura, Hiroyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKikuchi, Toshihiro\n\nDirector\n\n', b'\nUemura, Yuuto\n\nTheme Song Performance\n\n', b'\nLuck Life\n\nTheme Song Performance\n\n', b'\nHarukawa35\n\nOriginal Character Design\n\n']
+animePopularity	1987
+animeDescription	"Atsushi Nakajima has finally grown accustomed to the crazy lifestyle that comes with being part of the Armed Detective Agency. But even during peaceful periods of time, there is bound to be chaos! As Atsushi, his friends, and the agency's rival group—the Port Mafia—go about their days roaming the streets of Yokohama, there are no limits to the strange situations they are unwillingly thrown into. 
+
+A new take on its original work, Bungou Stray Dogs Wan! shows the more mundane yet hilarious aspects of the characters' lives.
+
+[Written by MAL Rewrite]"
+animeRelated	['Bungou Stray Dogs Wan!', 'Bungou Stray Dogs']
+animeCharacters	['Dazai, Osamu', 'Akutagawa, Ryuunosuke', 'Nakajima, Atsushi', 'Nakahara, Chuuya', 'Edogawa, Ranpo', 'Oda, Sakunosuke', 'Izumi, Kyouka', 'Yosano, Akiko', 'Kunikida, Doppo', 'Miyazawa, Kenji']
+animeVoices	['Miyano, Mamoru', 'Ono, Kensho', 'Uemura, Yuuto', 'Taniyama, Kishou', 'Morohoshi, Sumire', 'Shimamura, Yuu', 'Hosoya, Yoshimasa', 'Kagura, Hiroyuki']
+animeStaff	[['Kikuchi, Toshihiro', 'Director'], ['Uemura, Yuuto', 'Theme Song Performance'], ['Luck Life', 'Theme Song Performance'], ['Harukawa35', 'Original Character Design']]

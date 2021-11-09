@@ -1,5 +1,5 @@
-animeTitle	b'Kaze no Youjinbou'
-animeType	b'TV'
+animeTitle	Kaze no Youjinbou
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.18
 animeUsers	2357
 animeRank	
-animePopularity	
-animeDescription	"b""In search for Araki Genzo, George Kodama finds himself in the small town of Kimujuku. George quickly realizes that he is unwelcome and is warned to leave as soon as possible. With two rival syndicates roaming the streets and a dark violent past, the town of Kimujuku isn't what it appears to be. George challenges the town of Kimujuku in order to reveal the towns dark hidden past and discover the truth. \n\n(Source: ANN)"""
+animePopularity	4903
+animeDescription	"In search for Araki Genzo, George Kodama finds himself in the small town of Kimujuku. George quickly realizes that he is unwelcome and is warned to leave as soon as possible. With two rival syndicates roaming the streets and a dark violent past, the town of Kimujuku isn't what it appears to be. George challenges the town of Kimujuku in order to reveal the towns dark hidden past and discover the truth. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Kodama, George', b'Araiguma', b'Tanokura, Miyuki', b'Araki, Sanae', b'Maki', b'Shirogane, Fukajiro', b'Shirogane, Rin', b'Shirogane, Samekichi', b'Tanokura, Shusaku']
-animeVoices	[b'\nHirata, Hiroaki\nJapanese\n', b'\nHirota, Kousei\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nSoya, Shigenori\nJapanese\n', b'\nMiyamoto, Mitsuru\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nTsuji, Shinpachi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDate, Hayato\n\nDirector, Episode Director, Storyboard\n\n', b'\nKujou, Rion\n\nDirector, Storyboard\n\n', b'\nYamamoto, Yutaka\n\nEpisode Director, Storyboard\n\n', b'\nTsuru, Toshiyuki\n\nEpisode Director, Storyboard, Key Animation\n\n']
+animeCharacters	['Kodama, George', 'Araiguma', 'Tanokura, Miyuki', 'Araki, Sanae', 'Maki', 'Shirogane, Fukajiro', 'Shirogane, Rin', 'Shirogane, Samekichi', 'Tanokura, Shusaku']
+animeVoices	['Hirata, Hiroaki', 'Hirota, Kousei', 'Kobayashi, Sanae', 'Shinohara, Emi', 'Soya, Shigenori', 'Miyamoto, Mitsuru', 'Ootsuka, Houchuu', 'Tsuji, Shinpachi']
+animeStaff	[['Date, Hayato', 'Director, Episode Director, Storyboard'], ['Kujou, Rion', 'Director, Storyboard'], ['Yamamoto, Yutaka', 'Episode Director, Storyboard'], ['Tsuru, Toshiyuki', 'Episode Director, Storyboard, Key Animation']]

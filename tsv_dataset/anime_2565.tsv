@@ -1,5 +1,5 @@
-animeTitle	b'Fushigi Yuugi: Dai Ni Bu'
-animeType	b'OVA'
+animeTitle	Fushigi Yuugi: Dai Ni Bu
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.27
 animeUsers	9649
 animeRank	
-animePopularity	
-animeDescription	"b""Miaka and Taka (Tamahome's reborn out-of-the-book self) return to the Universe of the Four Gods to try and restore Tamahome's memories to Taka. This is not as easy as it sounds, however, when the evil Tenkou shows up to rain on their parade. He manages to thwart most of their attempts at getting Taka's memories back, and uses his newfound power to summon the Gods outside the book.\n\n(Source: ANN)"""
-animeRelated	[b'Fushigi Yuugi', b'Fushigi Yuugi: Eikouden', b'Fushigi Yuugi OVA']
-animeCharacters	[b'Tamahome', b'Nuriko', b'Tasuki', b'Yuuki, Miaka', b'Hotohori', b'Chichiri', b'Hongo, Yui', b'Mitsukake', b'Chiriko', b'Shigyou, Ren']
-animeVoices	[b'\nMidorikawa, Hikaru\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n', b'\nAraki, Kae\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nIshii, Kouji\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nIshida, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nKamegaki, Hajime\n\nDirector\n\n', b'\nShimizu, Katsunori\n\nSound Director\n\n', b'\nYamanaka, Norimasa\n\nTheme Song Arrangement\n\n']
+animePopularity	4100
+animeDescription	"Miaka and Taka (Tamahome's reborn out-of-the-book self) return to the Universe of the Four Gods to try and restore Tamahome's memories to Taka. This is not as easy as it sounds, however, when the evil Tenkou shows up to rain on their parade. He manages to thwart most of their attempts at getting Taka's memories back, and uses his newfound power to summon the Gods outside the book.
+
+(Source: ANN)"
+animeRelated	['Fushigi Yuugi', 'Fushigi Yuugi: Eikouden', 'Fushigi Yuugi OVA']
+animeCharacters	['Tamahome', 'Nuriko', 'Tasuki', 'Yuuki, Miaka', 'Hotohori', 'Chichiri', 'Hongo, Yui', 'Mitsukake', 'Chiriko', 'Shigyou, Ren']
+animeVoices	['Midorikawa, Hikaru', 'Sakamoto, Chika', 'Canna, Nobutoshi', 'Araki, Kae', 'Koyasu, Takehito', 'Seki, Tomokazu', 'Touma, Yumi', 'Ishii, Kouji', 'Kawakami, Tomoko', 'Ishida, Akira']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Kamegaki, Hajime', 'Director'], ['Shimizu, Katsunori', 'Sound Director'], ['Yamanaka, Norimasa', 'Theme Song Arrangement']]

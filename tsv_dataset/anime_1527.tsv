@@ -1,5 +1,5 @@
-animeTitle	b'Asobi Asobase OVA'
-animeType	b'OVA'
+animeTitle	Asobi Asobase OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.53
 animeUsers	19215
 animeRank	
-animePopularity	
-animeDescription	b'Included with seventh volume of the Asobi Asobase manga. '
-animeRelated	[b'Asobi Asobase']
-animeCharacters	"[b'Honda, Hanako', b'Olivia', b'Nomura, Kasumi', b'Maeda', b""Hijiri's Baby"", b'Higuchi, Chisato', b'Student Council President', b'Hijiri', b'Umeko', b'Student Council Vice-President']"
-animeVoices	[b'\nKino, Hina\nJapanese\n', b'\nNagae, Rika\nJapanese\n', b'\nKohara, Konomi\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nMaekawa, Ryouko\nJapanese\n', b'\nInoue, Honoka\nJapanese\n', b'\nIwami, Manaka\nJapanese\n', b'\nSekine, Akira\nJapanese\n', b'\nKanazawa, Mai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKouda, Masato\n\nMusic\n\n', b'\nSuzukawa, Rin\n\nOriginal Creator\n\n', b'\nKurosawa, Keiko\n\nCharacter Design\n\n']
+animePopularity	2899
+animeDescription	Included with seventh volume of the Asobi Asobase manga. 
+animeRelated	['Asobi Asobase']
+animeCharacters	"['Honda, Hanako', 'Olivia', 'Nomura, Kasumi', 'Maeda', ""Hijiri's Baby"", 'Higuchi, Chisato', 'Student Council President', 'Hijiri', 'Umeko', 'Student Council Vice-President']"
+animeVoices	['Kino, Hina', 'Nagae, Rika', 'Kohara, Konomi', 'Okiayu, Ryoutarou', 'Iwata, Mitsuo', 'Maekawa, Ryouko', 'Inoue, Honoka', 'Iwami, Manaka', 'Sekine, Akira', 'Kanazawa, Mai']
+animeStaff	[['Kouda, Masato', 'Music'], ['Suzukawa, Rin', 'Original Creator'], ['Kurosawa, Keiko', 'Character Design']]

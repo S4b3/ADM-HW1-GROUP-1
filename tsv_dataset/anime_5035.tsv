@@ -1,5 +1,5 @@
-animeTitle	b'Shinzou Ningen Casshern'
-animeType	b'TV'
+animeTitle	Shinzou Ningen Casshern
+animeType	TV
 animeNumEpisode	35
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.71
 animeUsers	1239
 animeRank	
-animePopularity	
-animeDescription	"b""The brilliant Dr. Azuma created many robots to aid humankind. However, during a thunderstorm his lab was struck by lightning, corrupting the programming of one of his robots, BK-1, who renames himself Braiking Boss and declares that instead of serving mankind, mankind will now serve him! He brings other robots together into an overwhelming army bent on enslaving the human race.\n\nTetsuya, Dr. Azuma's son, asks his father to turn him into an indestructible android so that he will have the power to destroy the threat his father inadvertently created. Shortly thereafter, Braiking Boss captures Dr. Azuma and his wife. Tetsuya, now renamed Casshern, sets out to turn the tide of the war and rescue his parents, with the help of his girlfriend, Luna, and robot dog, Friender."""
-animeRelated	[b'Casshern: Robot Hunter', b'Casshern Sins', b'Time Bokan Oudou Fukko']
-animeCharacters	[b'Casshern', b'Friender', b'Braiking Boss', b'Kozuki, Luna', b'Narrator', b'Azuma, Koutaro']
-animeVoices	[b'\nNishikawa, Ikuo\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nTsukada, Emiko\nJapanese\n', b'\nNaya, Gorou\nJapanese\n', b'\nYamanouchi, Masato\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuri, Ippei\n\nProducer\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nTomino, Yoshiyuki\n\nEpisode Director, Storyboard\n\n', b'\nWatanabe, Takashi\n\nEpisode Director\n\n']
+animePopularity	6813
+animeDescription	"The brilliant Dr. Azuma created many robots to aid humankind. However, during a thunderstorm his lab was struck by lightning, corrupting the programming of one of his robots, BK-1, who renames himself Braiking Boss and declares that instead of serving mankind, mankind will now serve him! He brings other robots together into an overwhelming army bent on enslaving the human race.
+
+Tetsuya, Dr. Azuma's son, asks his father to turn him into an indestructible android so that he will have the power to destroy the threat his father inadvertently created. Shortly thereafter, Braiking Boss captures Dr. Azuma and his wife. Tetsuya, now renamed Casshern, sets out to turn the tide of the war and rescue his parents, with the help of his girlfriend, Luna, and robot dog, Friender."
+animeRelated	['Casshern: Robot Hunter', 'Casshern Sins', 'Time Bokan Oudou Fukko']
+animeCharacters	['Casshern', 'Friender', 'Braiking Boss', 'Kozuki, Luna', 'Narrator', 'Azuma, Koutaro']
+animeVoices	['Nishikawa, Ikuo', 'Utsumi, Kenji', 'Tsukada, Emiko', 'Naya, Gorou', 'Yamanouchi, Masato']
+animeStaff	[['Kuri, Ippei', 'Producer'], ['Sasagawa, Hiroshi', 'Director'], ['Tomino, Yoshiyuki', 'Episode Director, Storyboard'], ['Watanabe, Takashi', 'Episode Director']]

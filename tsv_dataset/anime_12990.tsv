@@ -1,5 +1,5 @@
-animeTitle	b'RPG Densetsu Hepoi'
-animeType	b'TV'
+animeTitle	RPG Densetsu Hepoi
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The adventure of Hepoi, a hero of heporis, Ryuuto, the prince of Dragonia, Miiya Miiya a fairy looks like a cat, and Bunzaemon, a merchant, to defeat Dracunes, the King of dark side castles.'
+animePopularity	12821
+animeDescription	The adventure of Hepoi, a hero of heporis, Ryuuto, the prince of Dragonia, Miiya Miiya a fairy looks like a cat, and Bunzaemon, a merchant, to defeat Dracunes, the King of dark side castles.
 animeRelated	[]
-animeCharacters	[b'Miiya Miiya', b'Ryuuto', b'Hepoi', b'Castle Princess', b'Saint Castle', b'Battle Castle', b'Sister Kate']
-animeVoices	[b'\nHisakawa, Aya\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nMasuda, Yuuki\nJapanese\n', b'\nNishihara, Kumiko\nJapanese\n', b'\nSugawara, Junichi\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nKawamura, Maria\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasaki, Shinichi\n\nEpisode Director\n\n', b'\nTsuji, Hatsuki\n\nEpisode Director, Storyboard, Character Design, Chief Animation Director, Animation Director\n\n', b'\nYamada, Takashi\n\nScript, Series Composition\n\n', b'\nYanagawa, Shigeru\n\nScript\n\n']
+animeCharacters	['Miiya Miiya', 'Ryuuto', 'Hepoi', 'Castle Princess', 'Saint Castle', 'Battle Castle', 'Sister Kate']
+animeVoices	['Hisakawa, Aya', 'Kusao, Takeshi', 'Masuda, Yuuki', 'Nishihara, Kumiko', 'Sugawara, Junichi', 'Tanaka, Hideyuki', 'Kawamura, Maria']
+animeStaff	[['Masaki, Shinichi', 'Episode Director'], ['Tsuji, Hatsuki', 'Episode Director, Storyboard, Character Design, Chief Animation Director, Animation Director'], ['Yamada, Takashi', 'Script, Series Composition'], ['Yanagawa, Shigeru', 'Script']]

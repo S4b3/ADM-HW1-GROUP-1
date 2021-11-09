@@ -1,5 +1,5 @@
-animeTitle	b'Memories Off 2nd'
-animeType	b'OVA'
+animeTitle	Memories Off 2nd
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.25
 animeUsers	1398
 animeRank	
-animePopularity	
-animeDescription	"b""Shirakawa Hotaru, a girl who's in love with Inami Ken, finally confesses her love. From there on, they were happy couples, until one summer. Ken met a new friend, Tobise Tomoe, who is Hotaru's best friend. Tomoe seems to have her own charm. Ken, now have two paths to choose from; to be with Shirakawa Hotaru or Tobise Tomoe. Otherwise, he will lose them both. \n\n(Source: ANN)"""
-animeRelated	[b'Memories Off', b'Memories Off 3.5']
-animeCharacters	[b'Shirakawa, Hotaru', b'Tobise, Tomoe', b'Shin, Inaho', b'Minami, Tsubame']
-animeVoices	[b'\nMizuki, Nana\nJapanese\n', b'\nNakanishi, Tamaki\nJapanese\n', b'\nMajima, Junji\nJapanese\n', b'\nIkezawa, Haruna\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHayashi, Naotaka\n\nScript\n\n', b'\nMizuki, Nana\n\nTheme Song Performance\n\n', b'\nShikura, Chiyomaru\n\nTheme Song Composition, Theme Song Lyrics, Music\n\n', b'\nChiba, Saeko\n\nTheme Song Performance\n\n']
+animePopularity	7893
+animeDescription	"Shirakawa Hotaru, a girl who's in love with Inami Ken, finally confesses her love. From there on, they were happy couples, until one summer. Ken met a new friend, Tobise Tomoe, who is Hotaru's best friend. Tomoe seems to have her own charm. Ken, now have two paths to choose from; to be with Shirakawa Hotaru or Tobise Tomoe. Otherwise, he will lose them both. 
+
+(Source: ANN)"
+animeRelated	['Memories Off', 'Memories Off 3.5']
+animeCharacters	['Shirakawa, Hotaru', 'Tobise, Tomoe', 'Shin, Inaho', 'Minami, Tsubame']
+animeVoices	['Mizuki, Nana', 'Nakanishi, Tamaki', 'Majima, Junji', 'Ikezawa, Haruna']
+animeStaff	[['Hayashi, Naotaka', 'Script'], ['Mizuki, Nana', 'Theme Song Performance'], ['Shikura, Chiyomaru', 'Theme Song Composition, Theme Song Lyrics, Music'], ['Chiba, Saeko', 'Theme Song Performance']]

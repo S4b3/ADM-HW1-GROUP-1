@@ -1,5 +1,5 @@
-animeTitle	b'Kamisama no Inai Nichiyoubi: Kioku'
-animeType	b'Special'
+animeTitle	Kamisama no Inai Nichiyoubi: Kioku
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,19 @@ animeNumMembers
 animeScore	6.89
 animeUsers	14062
 animeRank	
-animePopularity	
-animeDescription	b'Episode 13 of Kamisama no Inai Nichiyoubi, included in the final Blu-ray/DVD volume of the series.\n\nThis bonus episode is separated into three parts.\n\nIn the first part, taking place before the characters reach Ostia, Ai and the others visit a hot spring.\n\nIn the second part, Alice remembers the times he killed his classmates and encounters Hampnie Hambart. A battle ensues.\n\nIn the third and final part, Hampnie dreams of when he first met Hana and is then woken up by Ai.\n\n(Source: Wikipedia)'
-animeRelated	[b'Kamisama no Inai Nichiyoubi']
-animeCharacters	[b'Ai', b'Hambart, Hampnie', b'Color, Alice', b'Stratmitos, Dee Ensy', b'Scar', b'Dmitriyevich, Julie Sakuma', b'Hana']
-animeVoices	[b'\nToyosaki, Aki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nSatou, Rina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKumazawa, Yuuji\n\nDirector\n\n', b'\nHooks, Lainee\n\nScript\n\n', b'\nKitamura, Eri\n\nTheme Song Performance\n\n', b'\nKomatsu, Mikako\n\nTheme Song Performance\n\n']
+animePopularity	3465
+animeDescription	"Episode 13 of Kamisama no Inai Nichiyoubi, included in the final Blu-ray/DVD volume of the series.
+
+This bonus episode is separated into three parts.
+
+In the first part, taking place before the characters reach Ostia, Ai and the others visit a hot spring.
+
+In the second part, Alice remembers the times he killed his classmates and encounters Hampnie Hambart. A battle ensues.
+
+In the third and final part, Hampnie dreams of when he first met Hana and is then woken up by Ai.
+
+(Source: Wikipedia)"
+animeRelated	['Kamisama no Inai Nichiyoubi']
+animeCharacters	['Ai', 'Hambart, Hampnie', 'Color, Alice', 'Stratmitos, Dee Ensy', 'Scar', 'Dmitriyevich, Julie Sakuma', 'Hana']
+animeVoices	['Toyosaki, Aki', 'Namikawa, Daisuke', 'Uchiyama, Kouki', 'Kitamura, Eri', 'Noto, Mamiko', 'Fujiwara, Keiji', 'Satou, Rina']
+animeStaff	[['Kumazawa, Yuuji', 'Director'], ['Hooks, Lainee', 'Script'], ['Kitamura, Eri', 'Theme Song Performance'], ['Komatsu, Mikako', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Asura'
-animeType	b'Movie'
+animeTitle	Asura
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.04
 animeUsers	13176
 animeRank	
-animePopularity	
-animeDescription	b'Asura is an unrelentingly dark drama that follows the struggles of a young boy who did whatever it took to survive during a time of war and famine in medieval Japan.'
-animeRelated	[b'Asura']
-animeCharacters	[b'Asura', b'Shichirou', b'Houshi', b'Wakasa', b'Jitou']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nKitaooji, Kinya\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Keiichi\n\nDirector\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nKominami, Yasuha\n\nTheme Song Lyrics, Theme Song Composition, Theme Song Performance\n\n', b'\nWatanabe, Kumiko\n\nBackground Art\n\n']
+animePopularity	3314
+animeDescription	Asura is an unrelentingly dark drama that follows the struggles of a young boy who did whatever it took to survive during a time of war and famine in medieval Japan.
+animeRelated	['Asura']
+animeCharacters	['Asura', 'Shichirou', 'Houshi', 'Wakasa', 'Jitou']
+animeVoices	['Nozawa, Masako', 'Hirata, Hiroaki', 'Kitaooji, Kinya', 'Hayashibara, Megumi', 'Genda, Tesshou']
+animeStaff	[['Satou, Keiichi', 'Director'], ['Nagasaki, Yukio', 'Sound Director'], ['Kominami, Yasuha', 'Theme Song Lyrics, Theme Song Composition, Theme Song Performance'], ['Watanabe, Kumiko', 'Background Art']]

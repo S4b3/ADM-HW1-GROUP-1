@@ -1,5 +1,5 @@
-animeTitle	b'Cinnamon no Parade'
-animeType	b'ONA'
+animeTitle	Cinnamon no Parade
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.82
 animeUsers	155
 animeRank	
-animePopularity	
-animeDescription	"b""In the eight-minute video to celebrate Cinnamoroll's tenth anniversary, the white puppy takes a nap and falls into an abandoned amusement park where he meets the rabbit Chocolat. \n\n(Source: ANN)"""
-animeRelated	[b'Cinnamon the Movie']
-animeCharacters	[b'Cinnamoroll']
+animePopularity	12980
+animeDescription	"In the eight-minute video to celebrate Cinnamoroll's tenth anniversary, the white puppy takes a nap and falls into an abandoned amusement park where he meets the rabbit Chocolat. 
+
+(Source: ANN)"
+animeRelated	['Cinnamon the Movie']
+animeCharacters	['Cinnamoroll']
 animeVoices	[]
 animeStaff	[]

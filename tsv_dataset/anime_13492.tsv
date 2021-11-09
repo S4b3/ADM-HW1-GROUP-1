@@ -1,5 +1,5 @@
-animeTitle	b'Sore Ike! Anpanman: Minna de Teasobi - Anpanman to Itazura Obake'
-animeType	b'Movie'
+animeTitle	Sore Ike! Anpanman: Minna de Teasobi - Anpanman to Itazura Obake
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'This short movie that was screened simultaneously with a Anpanman movie - Sore Ike! Anpanman: Tobase! Kibou no Handkerchief.'
-animeRelated	[b'Sore Ike! Anpanman', b'Sore Ike! Anpanman: Tobase! Kibou no Handkerchief']
-animeCharacters	[b'Anpanman', b'Baikinman', b'Cheese', b'Currypanman', b'Dokin-chan', b'Oji-san, Jam', b'Dororon Obake', b'Zuroron Obake', b'Deroron Obake', b'Batako-san']
-animeVoices	[b'\nToda, Keiko\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nYanagisawa, Michiyo\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nMasuoka, Hiroshi\nJapanese\n', b'\nAnzai, Chika\nJapanese\n', b'\nYasuno, Kiyono\nJapanese\n', b'\nMiyagawa, Miho\nJapanese\n', b'\nSakuma, Rei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Miho\n\nAnimation Director\n\n']
+animePopularity	15128
+animeDescription	This short movie that was screened simultaneously with a Anpanman movie - Sore Ike! Anpanman: Tobase! Kibou no Handkerchief.
+animeRelated	['Sore Ike! Anpanman', 'Sore Ike! Anpanman: Tobase! Kibou no Handkerchief']
+animeCharacters	['Anpanman', 'Baikinman', 'Cheese', 'Currypanman', 'Dokin-chan', 'Oji-san, Jam', 'Dororon Obake', 'Zuroron Obake', 'Deroron Obake', 'Batako-san']
+animeVoices	['Toda, Keiko', 'Nakao, Ryusei', 'Yamadera, Kouichi', 'Yanagisawa, Michiyo', 'Tsuru, Hiromi', 'Masuoka, Hiroshi', 'Anzai, Chika', 'Yasuno, Kiyono', 'Miyagawa, Miho', 'Sakuma, Rei']
+animeStaff	[['Suzuki, Miho', 'Animation Director']]

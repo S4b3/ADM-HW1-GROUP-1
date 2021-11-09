@@ -1,5 +1,5 @@
-animeTitle	b'Hametsu no Mars'
-animeType	b'OVA'
+animeTitle	Hametsu no Mars
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	2.23
 animeUsers	42091
 animeRank	
-animePopularity	
-animeDescription	"b'Several months after a probe returning from Mars burns up during reentry, strange creatures dubbed ""Ancients"" begin to appear throughout Tokyo. Aggressive and dangerous, they cannot be killed with ordinary weapons. As scientists struggle to find the cause of their sudden appearance, the monsters wreak havoc across the world.\n\nHumanity finds hope in the form of the MARS suit\xe2\x80\x94a new weapon developed to take down these enemies. The suit, however, can only be worn by those with specific DNA. Enter Takeru Hinata, an ordinary teen with a troubled past and one of the few capable of piloting the only weapon against the Ancients. With the help of the AAST, a special police force established to defeat the dangerous creatures, the young man battles against demons both personal and global whilst trying to discover the true nature of Earth\'s new aggressors.\n\n[Written by MAL Rewrite]'"
+animePopularity	2276
+animeDescription	"Several months after a probe returning from Mars burns up during reentry, strange creatures dubbed ""Ancients"" begin to appear throughout Tokyo. Aggressive and dangerous, they cannot be killed with ordinary weapons. As scientists struggle to find the cause of their sudden appearance, the monsters wreak havoc across the world.
+
+Humanity finds hope in the form of the MARS suit—a new weapon developed to take down these enemies. The suit, however, can only be worn by those with specific DNA. Enter Takeru Hinata, an ordinary teen with a troubled past and one of the few capable of piloting the only weapon against the Ancients. With the help of the AAST, a special police force established to defeat the dangerous creatures, the young man battles against demons both personal and global whilst trying to discover the true nature of Earth's new aggressors.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Hinata, Takeru', b'Nakahara, Tomoe', b'Unno, Yamabuki', b'Kurita, Aoi', b'Isono, Shizuka', b'Girl from AAST', b'Scientist', b'Kawagoe, Kyouko']
-animeVoices	[b'\nTaiga, Nozomu\nJapanese\n', b'\nNakayama, Erina\nJapanese\n', b'\nAizawa, Asuka\nJapanese\n', b'\nChihara, Minori\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nKawabuchi, Yukari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Yoshiteru\n\nDirector\n\n', b'\nNagamura, Shinji\n\nEpisode Director\n\n', b'\nFujisawa, Tsunekiyo\n\nScript\n\n', b'\nTakeuchi, Kouji\n\nScript\n\n']
+animeCharacters	['Hinata, Takeru', 'Nakahara, Tomoe', 'Unno, Yamabuki', 'Kurita, Aoi', 'Isono, Shizuka', 'Girl from AAST', 'Scientist', 'Kawagoe, Kyouko']
+animeVoices	['Taiga, Nozomu', 'Nakayama, Erina', 'Aizawa, Asuka', 'Chihara, Minori', 'Nazuka, Kaori', 'Kawabuchi, Yukari']
+animeStaff	[['Satou, Yoshiteru', 'Director'], ['Nagamura, Shinji', 'Episode Director'], ['Fujisawa, Tsunekiyo', 'Script'], ['Takeuchi, Kouji', 'Script']]

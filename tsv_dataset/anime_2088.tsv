@@ -1,5 +1,5 @@
-animeTitle	b'AKB0048'
-animeType	b'TV'
+animeTitle	AKB0048
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.37
 animeUsers	25125
 animeRank	
-animePopularity	
-animeDescription	b'After an interplanetary war at the beginning of the 21st century, planet Earth has been left in ruins, with much of its ecosystem completely destroyed. Because it was no longer possible to live a normal life on this planet, the inhabitants are forced to move on to other planets where life will, hopefully, be more comfortable.\n\nThe Deep Galactic Trade Organization, a totalitarian government that affects many of the newly inhabited planets, has somehow come to the conclusion that music is a source of evil, and that it must be banned and destroyed for good. The talent group AKB0048 is soon formed, based on the original AKB48 members that once lived on Earth. Even though their music is now considered universally illegal, they make it their mission to bring their music back to life by travelling from one planet to another and holding as many concerts as they possibly can. They must undergo a whole new set of training methods in order to become the best that they can possibly be, while also avoiding the constant danger of being arrested because of their music. Join interplanetary popstars AKB0048 as they try to save the world\xef\xbc\x8dwith music!'
-animeRelated	[b'AKB0048: Next Stage']
-animeCharacters	[b'Motomiya, Nagisa', b'Sono, Chieri', b'Shinonome, Sonata', b'Shinonome, Kanata', b'Kishida, Mimori', b'Kanzaki, Suzuko', b'Yokomizo, Makoto', b'Aida, Orine', b'Ichijou, Yuuka', b'Kimishima, Hikari']
-animeVoices	[b'\nIwata, Karen\nJapanese\n', b'\nWatanabe, Mayu\nJapanese\n', b'\nYagami, Kumi\nJapanese\n', b'\nIshida, Haruka\nJapanese\n', b'\nSatou, Sumire\nJapanese\n', b'\nHata, Sawako\nJapanese\n', b'\nMita, Mao\nJapanese\n', b'\nNakaya, Sayaka\nJapanese\n', b'\nSatou, Amina\nJapanese\n', b'\nKanda, Akemi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawamori, Shouji\n\nDirector, Storyboard, Original Creator, Mechanical Design\n\n', b'\nHiraike, Yoshimasa\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nTakashima, Daisuke\n\nEpisode Director\n\n']
+animePopularity	2331
+animeDescription	"After an interplanetary war at the beginning of the 21st century, planet Earth has been left in ruins, with much of its ecosystem completely destroyed. Because it was no longer possible to live a normal life on this planet, the inhabitants are forced to move on to other planets where life will, hopefully, be more comfortable.
+
+The Deep Galactic Trade Organization, a totalitarian government that affects many of the newly inhabited planets, has somehow come to the conclusion that music is a source of evil, and that it must be banned and destroyed for good. The talent group AKB0048 is soon formed, based on the original AKB48 members that once lived on Earth. Even though their music is now considered universally illegal, they make it their mission to bring their music back to life by travelling from one planet to another and holding as many concerts as they possibly can. They must undergo a whole new set of training methods in order to become the best that they can possibly be, while also avoiding the constant danger of being arrested because of their music. Join interplanetary popstars AKB0048 as they try to save the world－with music!"
+animeRelated	['AKB0048: Next Stage']
+animeCharacters	['Motomiya, Nagisa', 'Sono, Chieri', 'Shinonome, Sonata', 'Shinonome, Kanata', 'Kishida, Mimori', 'Kanzaki, Suzuko', 'Yokomizo, Makoto', 'Aida, Orine', 'Ichijou, Yuuka', 'Kimishima, Hikari']
+animeVoices	['Iwata, Karen', 'Watanabe, Mayu', 'Yagami, Kumi', 'Ishida, Haruka', 'Satou, Sumire', 'Hata, Sawako', 'Mita, Mao', 'Nakaya, Sayaka', 'Satou, Amina', 'Kanda, Akemi']
+animeStaff	[['Kawamori, Shouji', 'Director, Storyboard, Original Creator, Mechanical Design'], ['Hiraike, Yoshimasa', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Takashima, Daisuke', 'Episode Director']]

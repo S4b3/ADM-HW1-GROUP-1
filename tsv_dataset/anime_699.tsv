@@ -1,5 +1,5 @@
-animeTitle	b'Tiger & Bunny'
-animeType	b'TV'
+animeTitle	Tiger & Bunny
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.9
 animeUsers	76046
 animeRank	
-animePopularity	
-animeDescription	"b'In Stern Bild City, those with special abilities are called ""NEXT,"" and can use their powers for good or bad. A unique organized group of NEXT appear regularly on Hero TV, where they chase down evildoers to bring limelight to their sponsors and earn Hero Points in the hopes of becoming the next ""King of Heroes.""\n\nKotetsu T. Kaburagi, known as ""Wild Tiger,"" is a veteran hero whose performance has been dwindling as of late, partially due to his inability to cooperate with other heroes. After a disappointing season in which most of the other heroes far outperformed Tiger, he is paired up with a brand new hero who identifies himself by his real name\xe2\x80\x94Barnaby Brooks Jr.\n\nBarnaby, nicknamed ""Bunny"" by his frivolous new partner, quickly makes it clear that the two could not be more different. Though they mix as well as oil and water, Tiger and Bunny must learn to work together, both for the sake of their careers and to face the looming threats within Stern Bild.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Tiger & Bunny', b'Tiger & Bunny The Comic', b'Tiger & Bunny Koushiki Anthology', b'Tiger & Bunny Pilot', b'Tiger & Bunny Movie 1: The Beginning', b'Tiger & Bunny Movie 2: The Rising', b'Tiger & Bunny Recaps', b'Tiger & Bunny: Too Many Cooks Spoil the Broth.', b'Double Decker! Doug & Kirill']
-animeCharacters	[b'Kaburagi, Kotetsu T.', b'Brooks Jr., Barnaby', b'Karelin, Ivan', b'Petrov, Yuri', b'Goodman, Keith', b'Lyle, Karina', b'Seymour, Nathan', b'Huang, Pao-Lin', b'Lopez, Antonio', b'Saito']
-animeVoices	[b'\nHirata, Hiroaki\nJapanese\n', b'\nMorita, Masakazu\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nInoue, Gou\nJapanese\n', b'\nKotobuki, Minako\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nKusunoki, Taiten\nJapanese\n', b'\nIwasaki, Hiroshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuura, Hiroaki\n\nProducer\n\n', b'\nSatou, Keiichi\n\nDirector\n\n', b'\nKimura, Eriko\n\nSound Director\n\n', b'\nHashimoto, Hiroyuki\n\nEpisode Director\n\n']
+animePopularity	900
+animeDescription	"In Stern Bild City, those with special abilities are called ""NEXT,"" and can use their powers for good or bad. A unique organized group of NEXT appear regularly on Hero TV, where they chase down evildoers to bring limelight to their sponsors and earn Hero Points in the hopes of becoming the next ""King of Heroes.""
+
+Kotetsu T. Kaburagi, known as ""Wild Tiger,"" is a veteran hero whose performance has been dwindling as of late, partially due to his inability to cooperate with other heroes. After a disappointing season in which most of the other heroes far outperformed Tiger, he is paired up with a brand new hero who identifies himself by his real name—Barnaby Brooks Jr.
+
+Barnaby, nicknamed ""Bunny"" by his frivolous new partner, quickly makes it clear that the two could not be more different. Though they mix as well as oil and water, Tiger and Bunny must learn to work together, both for the sake of their careers and to face the looming threats within Stern Bild.
+
+[Written by MAL Rewrite]"
+animeRelated	['Tiger & Bunny', 'Tiger & Bunny The Comic', 'Tiger & Bunny Koushiki Anthology', 'Tiger & Bunny Pilot', 'Tiger & Bunny Movie 1: The Beginning', 'Tiger & Bunny Movie 2: The Rising', 'Tiger & Bunny Recaps', 'Tiger & Bunny: Too Many Cooks Spoil the Broth.', 'Double Decker! Doug & Kirill']
+animeCharacters	['Kaburagi, Kotetsu T.', 'Brooks Jr., Barnaby', 'Karelin, Ivan', 'Petrov, Yuri', 'Goodman, Keith', 'Lyle, Karina', 'Seymour, Nathan', 'Huang, Pao-Lin', 'Lopez, Antonio', 'Saito']
+animeVoices	['Hirata, Hiroaki', 'Morita, Masakazu', 'Okamoto, Nobuhiko', 'Minagawa, Junko', 'Inoue, Gou', 'Kotobuki, Minako', 'Tsuda, Kenjirou', 'Ise, Mariya', 'Kusunoki, Taiten', 'Iwasaki, Hiroshi']
+animeStaff	[['Matsuura, Hiroaki', 'Producer'], ['Satou, Keiichi', 'Director'], ['Kimura, Eriko', 'Sound Director'], ['Hashimoto, Hiroyuki', 'Episode Director']]

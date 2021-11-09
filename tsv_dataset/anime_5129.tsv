@@ -1,5 +1,5 @@
-animeTitle	b'Redline Pilot'
-animeType	b'Special'
+animeTitle	Redline Pilot
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.69
 animeUsers	3841
 animeRank	
-animePopularity	
-animeDescription	b'Pilot episode for the movie.'
-animeRelated	[b'Redline']
-animeCharacters	[b'JP']
+animePopularity	5647
+animeDescription	Pilot episode for the movie.
+animeRelated	['Redline']
+animeCharacters	['JP']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimoji, James\n\nMusic\n\n']
+animeStaff	[['Shimoji, James', 'Music']]

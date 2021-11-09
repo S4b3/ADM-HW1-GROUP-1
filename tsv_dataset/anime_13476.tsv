@@ -1,5 +1,5 @@
-animeTitle	b'Sore Ike! Anpanman: Inochi no Hoshi no Dolly'
-animeType	b'Movie'
+animeTitle	Sore Ike! Anpanman: Inochi no Hoshi no Dolly
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The annual Star Festival to honor the stars that bring life is drawing nearer. Anpanman finds an abandoned doll who is brought to life by a Star of Life. The doll, now named Dolly, spends all of her time having fun, convinced that enjoying oneself is the meaning of life. However, her Star of Life is starting to disappear, and Baikinman builds a huge robot inspired by memories of his own birth.\n\n(Source: ANN)'
-animeRelated	[b'Sore Ike! Anpanman']
-animeCharacters	[b'Anpanman', b'Baikinman', b'Cheese', b'Currypanman', b'Horrorman', b'Dokin-chan', b'Shokupanman', b'Melonpanna', b'Oji-san, Jam', b'Dolly']
-animeVoices	[b'\nToda, Keiko\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nYanagisawa, Michiyo\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nShimamoto, Sumi\nJapanese\n', b'\nKanai, Mika\nJapanese\n', b'\nMasuoka, Hiroshi\nJapanese\n', b'\nAdachi, Yumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYano, Hiroyuki\n\nDirector\n\n', b'\nOotani, Kazuo\n\nTheme Song Arrangement\n\n', b'\nKonparu, Tomoko\n\nScreenplay\n\n', b'\nMaeda, Minoru\n\nAnimation Director, Character Design\n\n']
+animePopularity	14831
+animeDescription	"The annual Star Festival to honor the stars that bring life is drawing nearer. Anpanman finds an abandoned doll who is brought to life by a Star of Life. The doll, now named Dolly, spends all of her time having fun, convinced that enjoying oneself is the meaning of life. However, her Star of Life is starting to disappear, and Baikinman builds a huge robot inspired by memories of his own birth.
+
+(Source: ANN)"
+animeRelated	['Sore Ike! Anpanman']
+animeCharacters	['Anpanman', 'Baikinman', 'Cheese', 'Currypanman', 'Horrorman', 'Dokin-chan', 'Shokupanman', 'Melonpanna', 'Oji-san, Jam', 'Dolly']
+animeVoices	['Toda, Keiko', 'Nakao, Ryusei', 'Yamadera, Kouichi', 'Yanagisawa, Michiyo', 'Kimotsuki, Kaneta', 'Tsuru, Hiromi', 'Shimamoto, Sumi', 'Kanai, Mika', 'Masuoka, Hiroshi', 'Adachi, Yumi']
+animeStaff	[['Yano, Hiroyuki', 'Director'], ['Ootani, Kazuo', 'Theme Song Arrangement'], ['Konparu, Tomoko', 'Screenplay'], ['Maeda, Minoru', 'Animation Director, Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Wonder Momo'
-animeType	b'ONA'
+animeTitle	Wonder Momo
+animeType	ONA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	3.53
 animeUsers	3167
 animeRank	
-animePopularity	
-animeDescription	"b""One day, a group of aliens planning to take over the Earth invade Tokyo. Momoko, who aspires to be an idol, gets involved in the ensuing fight, albeit in an unexpected manner. Warudemon, king of the alien empire, uses various tactics to hunt down Momoko and the people around her. Momoko decides to stand up against this aggression.\n\nWonder Momo was originally an arcade game released in 1987. A fairly simplistic (by today's standards) side-scrolling beat 'em up game, featuring a transforming, hoop-wielding heroine.\n\n(Source: MAL News)"""
+animePopularity	6462
+animeDescription	"One day, a group of aliens planning to take over the Earth invade Tokyo. Momoko, who aspires to be an idol, gets involved in the ensuing fight, albeit in an unexpected manner. Warudemon, king of the alien empire, uses various tactics to hunt down Momoko and the people around her. Momoko decides to stand up against this aggression.
+
+Wonder Momo was originally an arcade game released in 1987. A fairly simplistic (by today's standards) side-scrolling beat 'em up game, featuring a transforming, hoop-wielding heroine.
+
+(Source: MAL News)"
 animeRelated	[]
-animeCharacters	[b'Kanda, Momoko', b'Matsuo, Akiho', b'Kanda, Momo', b'Glieger', b'Glooder', b'Fujita, Yumi', b'Terashima, Natsuhiko']
-animeVoices	[b'\nFujiwara, Yuka\nJapanese\n', b'\nKomatsu, Misaki\nJapanese\n', b'\nMomoi, Haruko\nJapanese\n', b'\nImaruoka, Atsushi\nJapanese\n', b'\nInami, Anju\nJapanese\n', b'\nTamaru, Atsushi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nPereyda, Robert\n\nProducer\n\n', b'\nKagawa, Yutaka\n\nDirector\n\n', b'\nInabe, Ayumi\n\nScript\n\n', b'\nArea 11\n\nTheme Song Performance\n\n']
+animeCharacters	['Kanda, Momoko', 'Matsuo, Akiho', 'Kanda, Momo', 'Glieger', 'Glooder', 'Fujita, Yumi', 'Terashima, Natsuhiko']
+animeVoices	['Fujiwara, Yuka', 'Komatsu, Misaki', 'Momoi, Haruko', 'Imaruoka, Atsushi', 'Inami, Anju', 'Tamaru, Atsushi']
+animeStaff	[['Pereyda, Robert', 'Producer'], ['Kagawa, Yutaka', 'Director'], ['Inabe, Ayumi', 'Script'], ['Area 11', 'Theme Song Performance']]

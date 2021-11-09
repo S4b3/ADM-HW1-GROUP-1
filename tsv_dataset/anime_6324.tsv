@@ -1,4 +1,4 @@
-animeTitle	b'Kimagure Mercy'
+animeTitle	Kimagure Mercy
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.47
 animeUsers	532
 animeRank	
-animePopularity	
-animeDescription	"b""Animated PV created for the release of Hachioji-P's\xe3\x80\x8cEight -THE BEST OF \xe5\x85\xab\xe7\x8e\x8b\xe5\xad\x90P-\xe3\x80\x8d\n\nIt tells the story of a girl who is sick of dealing with a man who is shallow, and only interested in her when he wants something from her. After listening to his constant excuses, she finally has enough with the disinterest he has in her, and leaves him.\n\n(Source: Vocaloid Wiki)"""
+animePopularity	11478
+animeDescription	"Animated PV created for the release of Hachioji-P's「Eight -THE BEST OF 八王子P-」
+
+It tells the story of a girl who is sick of dealing with a man who is shallow, and only interested in her when he wants something from her. After listening to his constant excuses, she finally has enough with the disinterest he has in her, and leaves him.
+
+(Source: Vocaloid Wiki)"
 animeRelated	[]
-animeCharacters	[b'Hatsune, Miku']
+animeCharacters	['Hatsune, Miku']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHatsune, Miku\n\nTheme Song Performance\n\n']
+animeStaff	[['Hatsune, Miku', 'Theme Song Performance']]

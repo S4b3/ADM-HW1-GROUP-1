@@ -1,5 +1,5 @@
-animeTitle	b'.hack//Quantum: Sore ike! Bokura no Chimuchimu-chan!!'
-animeType	b'Special'
+animeTitle	.hack//Quantum: Sore ike! Bokura no Chimuchimu-chan!!
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.37
 animeUsers	2141
 animeRank	
-animePopularity	
-animeDescription	b'DVD specials for .hack//Quantum. Main girls are being very special creatures and take lessons about the anime.'
-animeRelated	[b'.hack//Quantum']
-animeCharacters	[b'Sakuya', b'Tobias', b'Mary', b'Hermit']
+animePopularity	5943
+animeDescription	DVD specials for .hack//Quantum. Main girls are being very special creatures and take lessons about the anime.
+animeRelated	['.hack//Quantum']
+animeCharacters	['Sakuya', 'Tobias', 'Mary', 'Hermit']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSadamoto, Yoshiyuki\n\nOriginal Character Design\n\n']
+animeStaff	[['Sadamoto, Yoshiyuki', 'Original Character Design']]

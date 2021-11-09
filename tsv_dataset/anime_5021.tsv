@@ -1,5 +1,5 @@
-animeTitle	b'Sword Art Online: Alicization - Recollection'
-animeType	b'Special'
+animeTitle	Sword Art Online: Alicization - Recollection
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.72
 animeUsers	16047
 animeRank	
-animePopularity	
-animeDescription	b'Recap of the first 18 episodes of Sword Art Online: Alicization.'
-animeRelated	[b'Sword Art Online: Alicization']
-animeCharacters	[b'Kirigaya, Kazuto', b'Eugeo', b'Zuberg, Alice', b'Shtolienen, Tiese', b'Arabel, Ronie', b'Woolsburg, Eldrie', b'Zizek, Humbert', b'Antinous, Raios']
-animeVoices	[b'\nShimazaki, Nobunaga\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nReoNa\n\nTheme Song Performance\n\n', b'\nASCA\n\nTheme Song Performance\n\n', b'\nLeblan, Jean-Pierre\n\nADR Director\n\n']
+animePopularity	3044
+animeDescription	Recap of the first 18 episodes of Sword Art Online: Alicization.
+animeRelated	['Sword Art Online: Alicization']
+animeCharacters	['Kirigaya, Kazuto', 'Eugeo', 'Zuberg, Alice', 'Shtolienen, Tiese', 'Arabel, Ronie', 'Woolsburg, Eldrie', 'Zizek, Humbert', 'Antinous, Raios']
+animeVoices	['Shimazaki, Nobunaga']
+animeStaff	[['ReoNa', 'Theme Song Performance'], ['ASCA', 'Theme Song Performance'], ['Leblan, Jean-Pierre', 'ADR Director']]

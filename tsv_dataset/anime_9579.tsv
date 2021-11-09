@@ -1,5 +1,5 @@
-animeTitle	b'Hoshi no Umi no Amuri'
-animeType	b'OVA'
+animeTitle	Hoshi no Umi no Amuri
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.75
 animeUsers	939
 animeRank	
-animePopularity	
-animeDescription	b'The 3D modeled anime is set in Year 019 of the Insonity Progressive Revolution - a future era in which mankind has evolved into a new species called Adapters. Three very young Adapter girls from Japan, China and France set out on a space adventure that will affect the rest of their species. \n\n(Source: animekon)'
-animeRelated	[b'Hoshi no Umi no Amuri: Tsuki no Yami no Plugin']
-animeCharacters	[b'Kakyoin, Amuri', b'La Mer, Perrier', b'Lin, Yunque', b'Sk\xc5\x82odowska Curie, Maria', b'Q9 Tokusen Taichou', b'Allen, Deus', b'Purumo', b'Novum, Femina']
-animeVoices	[b'\nMakino, Yui\nJapanese\n', b'\nSaitou, Momoko\nJapanese\n', b'\nAizawa, Michiru\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nYonetani, Yoshitomo\nJapanese\n', b'\nMatsumoto, Marika\nJapanese\n', b'\nHirano, Aya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYonetani, Yoshitomo\n\nDirector, Episode Director, Storyboard, Original Creator, Series Composition\n\n', b'\nMakino, Yui\n\nTheme Song Performance\n\n', b'\nFujisawa, Hideki\n\nTheme Song Composition, Theme Song Lyrics, Theme Song Arrangement\n\n', b'\nKobayashi, Kiyoshi\n\nInserted Song Performance\n\n']
+animePopularity	8206
+animeDescription	"The 3D modeled anime is set in Year 019 of the Insonity Progressive Revolution - a future era in which mankind has evolved into a new species called Adapters. Three very young Adapter girls from Japan, China and France set out on a space adventure that will affect the rest of their species. 
+
+(Source: animekon)"
+animeRelated	['Hoshi no Umi no Amuri: Tsuki no Yami no Plugin']
+animeCharacters	['Kakyoin, Amuri', 'La Mer, Perrier', 'Lin, Yunque', 'Skłodowska Curie, Maria', 'Q9 Tokusen Taichou', 'Allen, Deus', 'Purumo', 'Novum, Femina']
+animeVoices	['Makino, Yui', 'Saitou, Momoko', 'Aizawa, Michiru', 'Noto, Mamiko', 'Yonetani, Yoshitomo', 'Matsumoto, Marika', 'Hirano, Aya']
+animeStaff	[['Yonetani, Yoshitomo', 'Director, Episode Director, Storyboard, Original Creator, Series Composition'], ['Makino, Yui', 'Theme Song Performance'], ['Fujisawa, Hideki', 'Theme Song Composition, Theme Song Lyrics, Theme Song Arrangement'], ['Kobayashi, Kiyoshi', 'Inserted Song Performance']]

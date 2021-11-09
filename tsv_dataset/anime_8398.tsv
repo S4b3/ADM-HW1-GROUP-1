@@ -1,5 +1,5 @@
-animeTitle	b'Sakura Capusule'
-animeType	b'OVA'
+animeTitle	Sakura Capusule
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.06
 animeUsers	328
 animeRank	
-animePopularity	
-animeDescription	"b'On a small hill in a neighbourhood in the outskirts of Tokyo, there was a little park. There were six close girls who always used to play there together since they were small.\n\nBut when they were fourth-graders, they had to change schools. The six of them made a ""promise to bury a time capsule"", but in the end they were not able to keep this promise and separated eventually. Four years later and grown up, they now live their own lives.\n\nWhile all of them have their own troubles and worries, the days pass and one day, a miracle happens to them.\n\n(Source: AniDB)'"
+animePopularity	10593
+animeDescription	"On a small hill in a neighbourhood in the outskirts of Tokyo, there was a little park. There were six close girls who always used to play there together since they were small.
+
+But when they were fourth-graders, they had to change schools. The six of them made a ""promise to bury a time capsule"", but in the end they were not able to keep this promise and separated eventually. Four years later and grown up, they now live their own lives.
+
+While all of them have their own troubles and worries, the days pass and one day, a miracle happens to them.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Yuuka, Shiroishi', b'Nagisa, Takada', b'Akari, Oosumi', b'Kotone, Oosu', b'Iku, Amakumo', b'Mahiru, Aki']
-animeVoices	[b'\nItou, Kanae\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiga, Yuuji\n\nProducer\n\n', b'\nOohashi, Akiyo\n\nDirector\n\n', b'\nMinobe, Tomoko\n\nDirector of Photography\n\n', b'\nSakamoto, Masaki\n\nEditing\n\n']
+animeCharacters	['Yuuka, Shiroishi', 'Nagisa, Takada', 'Akari, Oosumi', 'Kotone, Oosu', 'Iku, Amakumo', 'Mahiru, Aki']
+animeVoices	['Itou, Kanae']
+animeStaff	[['Higa, Yuuji', 'Producer'], ['Oohashi, Akiyo', 'Director'], ['Minobe, Tomoko', 'Director of Photography'], ['Sakamoto, Masaki', 'Editing']]

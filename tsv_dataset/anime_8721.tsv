@@ -1,5 +1,5 @@
-animeTitle	b'Chivas 1-2-3'
-animeType	b'OVA'
+animeTitle	Chivas 1-2-3
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.98
 animeUsers	1323
 animeRank	
-animePopularity	
-animeDescription	"b""Ruthless sorcerer Chivas Scotch is hired by a count named Cuttlefish to destroy an evil monster attacking a nearby village. But things go awry when Chivas fails to destroy the monster and he's forced to transfer his spirit in the body of his beautiful servant Gin Fizz. \n\n(Source: ANN)"""
-animeRelated	[b'Bakuretsu Hunters']
-animeCharacters	[b'Scotch, Shibas', b'Fizz', b'Count Cuttlefish', b'Narrator', b'Icarus', b'Million', b'Genmi', b'Kiss']
-animeVoices	[b'\nYao, Kazuki\nJapanese\n', b'\nImai, Yuka\nJapanese\n', b'\nHouki, Katsuhisa\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nTakimoto, Fujiko\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n', b'\nNishimura, Chinami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nKawasaki, Hiroyuki\n\nScript\n\n', b'\nAbe, Hisashi\n\nAnimation Director, Character Design\n\n', b'\nKatou, Yasutada\n\nArt Director\n\n']
+animePopularity	8168
+animeDescription	"Ruthless sorcerer Chivas Scotch is hired by a count named Cuttlefish to destroy an evil monster attacking a nearby village. But things go awry when Chivas fails to destroy the monster and he's forced to transfer his spirit in the body of his beautiful servant Gin Fizz. 
+
+(Source: ANN)"
+animeRelated	['Bakuretsu Hunters']
+animeCharacters	['Scotch, Shibas', 'Fizz', 'Count Cuttlefish', 'Narrator', 'Icarus', 'Million', 'Genmi', 'Kiss']
+animeVoices	['Yao, Kazuki', 'Imai, Yuka', 'Houki, Katsuhisa', 'Kosugi, Juurouta', 'Takimoto, Fujiko', 'Canna, Nobutoshi', 'Nishimura, Chinami']
+animeStaff	[['Watanabe, Jun', 'Sound Director'], ['Kawasaki, Hiroyuki', 'Script'], ['Abe, Hisashi', 'Animation Director, Character Design'], ['Katou, Yasutada', 'Art Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Usatalk'
-animeType	b'ONA'
+animeTitle	Usatalk
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.29
 animeUsers	212
 animeRank	
-animePopularity	
-animeDescription	b'Usa greets you.\n\n(Source: Official site)'
-animeRelated	[b'Usalullaby', b'Usawaltz', b'Usa Weather Show']
+animePopularity	13431
+animeDescription	"Usa greets you.
+
+(Source: Official site)"
+animeRelated	['Usalullaby', 'Usawaltz', 'Usa Weather Show']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

@@ -1,5 +1,5 @@
-animeTitle	b'Crush Gear Nitro'
-animeType	b'TV'
+animeTitle	Crush Gear Nitro
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.24
 animeUsers	521
 animeRank	
-animePopularity	
-animeDescription	"b""Story about a young boy name: Mahha Masaru, who dreamt of having a crush gear fight with the others even though he doesn't have his very own crush gear!\n\nOne day,  a sudden chance came to him and he got the legendary crush gear which look similer to the one that was used by Kouya Marino and finally he can go and paticipate in his own crush gear fight with his friends and foe!! """
-animeRelated	[b'Crush Gear N', b'Gekitou! Crush Gear Turbo']
-animeCharacters	[b'Okita, Hidetoshi', b'Masaru, Mahha', b'Kouda, Takeshi', b'M.U', b'J.C', b'Akusawa, Yuu', b'Fujiwara, Ginjirou', b'Leon', b'Field, Ya', b'Mahha, Mai']
-animeVoices	[b'\nIida, Toshinobu\nJapanese\n', b'\nFujimoto, Takayuki\nJapanese\n', b'\nTakahashi, Hiroki\nJapanese\n', b'\nYabe, Masahito\nJapanese\n', b'\nAikawa, Rikako\nJapanese\n', b'\nNeya, Michiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAmino, Tetsuro\n\nDirector\n\n', b'\nOkada, Mari\n\nScript, Screenplay\n\n', b'\nSaitou, Miwako\n\nTheme Song Lyrics\n\n', b'\nYatate, Hajime\n\nOriginal Creator\n\n']
+animePopularity	10274
+animeDescription	"Story about a young boy name: Mahha Masaru, who dreamt of having a crush gear fight with the others even though he doesn't have his very own crush gear!
+
+One day,  a sudden chance came to him and he got the legendary crush gear which look similer to the one that was used by Kouya Marino and finally he can go and paticipate in his own crush gear fight with his friends and foe!! "
+animeRelated	['Crush Gear N', 'Gekitou! Crush Gear Turbo']
+animeCharacters	['Okita, Hidetoshi', 'Masaru, Mahha', 'Kouda, Takeshi', 'M.U', 'J.C', 'Akusawa, Yuu', 'Fujiwara, Ginjirou', 'Leon', 'Field, Ya', 'Mahha, Mai']
+animeVoices	['Iida, Toshinobu', 'Fujimoto, Takayuki', 'Takahashi, Hiroki', 'Yabe, Masahito', 'Aikawa, Rikako', 'Neya, Michiko']
+animeStaff	[['Amino, Tetsuro', 'Director'], ['Okada, Mari', 'Script, Screenplay'], ['Saitou, Miwako', 'Theme Song Lyrics'], ['Yatate, Hajime', 'Original Creator']]

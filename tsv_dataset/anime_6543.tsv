@@ -1,5 +1,5 @@
-animeTitle	b'Live On Cardliver Kakeru'
-animeType	b'TV'
+animeTitle	Live On Cardliver Kakeru
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.43
 animeUsers	167
 animeRank	
-animePopularity	
-animeDescription	b'Kakeru is a big fan of the Live On card game, like so many kids his age. However he loses every time he plays, no matter how hard he tries. Things change when one day Kakeru saves a small dog-like creature chased by weird people. The \xe2\x80\x9cdog\xe2\x80\x9d is in fact a Create Monster and gives Kakeru an unusual Live Change card, which in turn allows Kakeru to protect his newfound friend\xe2\x80\xa6 And gets him involved in something he did not expect\xe2\x80\xa6\n\n(Source: ANN)'
+animePopularity	11088
+animeDescription	"Kakeru is a big fan of the Live On card game, like so many kids his age. However he loses every time he plays, no matter how hard he tries. Things change when one day Kakeru saves a small dog-like creature chased by weird people. The “dog” is in fact a Create Monster and gives Kakeru an unusual Live Change card, which in turn allows Kakeru to protect his newfound friend… And gets him involved in something he did not expect…
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Kozeri, Ai', b'Amao, Kakeru', b'Makari, Tooru', b'Oozora, Suzume', b'Q\xe3\x83\xbbB']
-animeVoices	[b'\nOrikasa, Fumiko\nJapanese\n', b'\nIshikawa, Shizuka\nJapanese\n', b'\nMatsuno, Taiki\nJapanese\n', b'\nKikuchi, Yuumi\nJapanese\n', b'\nIijima, Hajime\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuji, Hatsuki\n\nDirector\n\n', b'\nKanbara, Toshiaki\n\nEpisode Director\n\n', b'\nYoneda, Mitsuhiro\n\nStoryboard, Key Animation\n\n', b'\nHoshino, Makoto\n\nStoryboard\n\n']
+animeCharacters	['Kozeri, Ai', 'Amao, Kakeru', 'Makari, Tooru', 'Oozora, Suzume', 'Q・B']
+animeVoices	['Orikasa, Fumiko', 'Ishikawa, Shizuka', 'Matsuno, Taiki', 'Kikuchi, Yuumi', 'Iijima, Hajime']
+animeStaff	[['Tsuji, Hatsuki', 'Director'], ['Kanbara, Toshiaki', 'Episode Director'], ['Yoneda, Mitsuhiro', 'Storyboard, Key Animation'], ['Hoshino, Makoto', 'Storyboard']]

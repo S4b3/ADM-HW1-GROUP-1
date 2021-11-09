@@ -1,5 +1,5 @@
-animeTitle	b'Tetsuwan Atom: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...'
-animeType	b'Movie'
+animeTitle	Tetsuwan Atom: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.09
 animeUsers	232
 animeRank	
-animePopularity	
-animeDescription	b'Another Tetsuwan Atom Movie that was shown in the Tezuka Osamu World Cinema in Tokyo until it was closed in 2011.\n\n(Source: AniDB)'
-animeRelated	[b'Tetsuwan Atom']
-animeCharacters	[b'Atom', b'Uran']
-animeVoices	[b'\nTsumura, Makoto\nJapanese\n', b'\nMaruyama, Miki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Osamu\n\nDirector, Storyboard\n\n', b'\nTezuka, Osamu\n\nOriginal Creator\n\n', b'\nNishita, Masayoshi\n\nAnimation Director\n\n']
+animePopularity	11265
+animeDescription	"Another Tetsuwan Atom Movie that was shown in the Tezuka Osamu World Cinema in Tokyo until it was closed in 2011.
+
+(Source: AniDB)"
+animeRelated	['Tetsuwan Atom']
+animeCharacters	['Atom', 'Uran']
+animeVoices	['Tsumura, Makoto', 'Maruyama, Miki']
+animeStaff	[['Dezaki, Osamu', 'Director, Storyboard'], ['Tezuka, Osamu', 'Original Creator'], ['Nishita, Masayoshi', 'Animation Director']]

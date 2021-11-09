@@ -1,5 +1,5 @@
-animeTitle	b'AkaKill! Gekijou'
-animeType	b'ONA'
+animeTitle	AkaKill! Gekijou
+animeType	ONA
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.54
 animeUsers	25582
 animeRank	
-animePopularity	
-animeDescription	b'Short specials that aired on the official website.'
-animeRelated	[b'Akame ga Kill!']
-animeCharacters	[b'Akame', b'Mine', b'Tatsumi', b'Lubbock', b'Leone', b'Esdeath', b'Chelsea', b'Bulat', b'Sheele', b'Kurome']
-animeVoices	[b'\nAmamiya, Sora\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n', b'\nAkesaka, Satomi\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nOhashi, Ayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahiro\n\nOriginal Creator\n\n', b'\nTashiro, Tetsuya\n\nOriginal Character Design\n\n', b'\nJones, Kyle\n\nADR Director\n\n', b'\nWatanabe, Asami\n\nAnimation Director, Character Design\n\n']
+animePopularity	2499
+animeDescription	Short specials that aired on the official website.
+animeRelated	['Akame ga Kill!']
+animeCharacters	['Akame', 'Mine', 'Tatsumi', 'Lubbock', 'Leone', 'Esdeath', 'Chelsea', 'Bulat', 'Sheele', 'Kurome']
+animeVoices	['Amamiya, Sora', 'Tamura, Yukari', 'Saitou, Souma', 'Matsuoka, Yoshitsugu', 'Asakawa, Yuu', 'Akesaka, Satomi', 'Nazuka, Kaori', 'Konishi, Katsuyuki', 'Noto, Mamiko', 'Ohashi, Ayaka']
+animeStaff	[['Takahiro', 'Original Creator'], ['Tashiro, Tetsuya', 'Original Character Design'], ['Jones, Kyle', 'ADR Director'], ['Watanabe, Asami', 'Animation Director, Character Design']]

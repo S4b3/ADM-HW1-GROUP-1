@@ -1,5 +1,5 @@
-animeTitle	b'Minami-ke Natsuyasumi'
-animeType	b'OVA'
+animeTitle	Minami-ke Natsuyasumi
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.38
 animeUsers	7959
 animeRank	
-animePopularity	
-animeDescription	b'Second Minami-ke OVA bundled with the 11th volume of the manga.\n\nChiaki, Kana, and Haruka decide how to spend their last few days of summer together.  Kana struggles to finish her homework.'
-animeRelated	[b'Minami-ke', b'Minami-ke Tadaima']
-animeCharacters	[b'Minami, Kana', b'Minami, Chiaki', b'Minami, Haruka', b'Hosaka', b'Makoto', b'Minami, Touma', b'Uchida, Yuka', b'Fujioka', b'Hitomi', b'Minami, Natsuki']
-animeVoices	[b'\nInoue, Marina\nJapanese\n', b'\nChihara, Minori\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nMorinaga, Rika\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawaguchi, Keiichirou\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nInoue, Marina\n\nTheme Song Performance\n\n', b'\nChihara, Minori\n\nTheme Song Performance\n\n']
+animePopularity	4334
+animeDescription	"Second Minami-ke OVA bundled with the 11th volume of the manga.
+
+Chiaki, Kana, and Haruka decide how to spend their last few days of summer together.  Kana struggles to finish her homework."
+animeRelated	['Minami-ke', 'Minami-ke Tadaima']
+animeCharacters	['Minami, Kana', 'Minami, Chiaki', 'Minami, Haruka', 'Hosaka', 'Makoto', 'Minami, Touma', 'Uchida, Yuka', 'Fujioka', 'Hitomi', 'Minami, Natsuki']
+animeVoices	['Inoue, Marina', 'Chihara, Minori', 'Satou, Rina', 'Ono, Daisuke', 'Morinaga, Rika', 'Mizuki, Nana', 'Kitamura, Eri', 'Kakihara, Tetsuya', 'Yoshino, Hiroyuki']
+animeStaff	[['Kawaguchi, Keiichirou', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Inoue, Marina', 'Theme Song Performance'], ['Chihara, Minori', 'Theme Song Performance']]

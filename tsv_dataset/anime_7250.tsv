@@ -1,5 +1,5 @@
-animeTitle	b'Houkago Midnighters'
-animeType	b'Movie'
+animeTitle	Houkago Midnighters
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.29
 animeUsers	503
 animeRank	
-animePopularity	
-animeDescription	"b""Mako, Miko, and Mutsuko are three young girls visiting St. Claire Elementary, a school filled with strange legends. They have an abrupt encounter with Kunstrijk, a human body anatomy model, and Goth, a skeleton model. Both haunt the soon-to-be-demolished science room. Seeking revenge for being vandalized by the three girls, Kunstrijk invites them to the school's midnight party in order to scare them. Together, the five go on a quest to collect three mythical medals that can grant a wish and hopefully save the science room.\n\n(Source: ANN)"""
-animeRelated	[b'Houkago Midnighters: Short Movies Season 2']
-animeCharacters	[b'Mutsuko', b'Miko', b'Mako', b'Goth', b'Kunstlijk, Louis Thomas Jerome', b'Bach, Johann Sebastian', b'Pinia', b'Sonny', b'Hae-kun', b'Shaburi']
-animeVoices	[b'\nKotobuki, Minako\nJapanese\n', b'\nUran, Sakiko\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nHiromasa, Taguchi\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nKuroda, Yuuki\nJapanese\n', b'\nShimozaki, Hiroshi\nJapanese\n', b'\nIizuka, Shouzou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKasamatsu, Kouji\n\nSound Effects\n\n']
+animePopularity	10558
+animeDescription	"Mako, Miko, and Mutsuko are three young girls visiting St. Claire Elementary, a school filled with strange legends. They have an abrupt encounter with Kunstrijk, a human body anatomy model, and Goth, a skeleton model. Both haunt the soon-to-be-demolished science room. Seeking revenge for being vandalized by the three girls, Kunstrijk invites them to the school's midnight party in order to scare them. Together, the five go on a quest to collect three mythical medals that can grant a wish and hopefully save the science room.
+
+(Source: ANN)"
+animeRelated	['Houkago Midnighters: Short Movies Season 2']
+animeCharacters	['Mutsuko', 'Miko', 'Mako', 'Goth', 'Kunstlijk, Louis Thomas Jerome', 'Bach, Johann Sebastian', 'Pinia', 'Sonny', 'Hae-kun', 'Shaburi']
+animeVoices	['Kotobuki, Minako', 'Uran, Sakiko', 'Tomatsu, Haruka', 'Hiromasa, Taguchi', 'Yamadera, Kouichi', 'Chafurin', 'Kosugi, Juurouta', 'Kuroda, Yuuki', 'Shimozaki, Hiroshi', 'Iizuka, Shouzou']
+animeStaff	[['Kasamatsu, Kouji', 'Sound Effects']]

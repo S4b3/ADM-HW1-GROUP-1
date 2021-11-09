@@ -1,5 +1,5 @@
-animeTitle	b'Dirty Pair: The Movie'
-animeType	b'Movie'
+animeTitle	Dirty Pair: The Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.07
 animeUsers	3017
 animeRank	
-animePopularity	
-animeDescription	"b""Agerna is a planet rich in Vizorium, the one mineral necessary to space travel. So when a series of mysterious attacks on mining operations has the governments of the world pointing fingers and blaming each other, the World Welfare & Works Association naturally sends in their top agents to investigate. But are the lovely angels up to the task of stopping a mad scientist bent on taking a long dormant alien race to its final evolutionary form? Throw in a thief who's hunting a bottle of World War II-vintage wine and it's a safe bet that nobody on the planet is safe. It's more chaos, more mayhem and even more destruction than ever before as the Dirty Pair take on their wildest case yet!\n\n(Source: AniDB)"""
-animeRelated	[b'Dirty Pair']
-animeCharacters	[b'Kei', b'Yuri', b'Carson, Carson D.', b'Boss', b'Seisan Iinchou', b'Chief Manager', b'Wattsman', b'Bruno']
-animeVoices	[b'\nTonguu, Kyouko\nJapanese\n', b'\nShimazu, Saeko\nJapanese\n', b'\nMori, Katsuji\nJapanese\n', b'\nIizuka, Shouzou\nJapanese\n', b'\nTerashima, Mikio\nJapanese\n', b'\nKobayashi, Osamu\nJapanese\n', b'\nOtsuka, Chikao\nJapanese\n', b'\nNishio, Toku\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMacek, Carl\n\nProducer, ADR Director\n\n', b'\nMashimo, Kouichi\n\nDirector\n\n', b'\nChiba, Kouichi\n\nSound Director\n\n', b'\nHoshiyama, Hiroyuki\n\nScript\n\n']
+animePopularity	5926
+animeDescription	"Agerna is a planet rich in Vizorium, the one mineral necessary to space travel. So when a series of mysterious attacks on mining operations has the governments of the world pointing fingers and blaming each other, the World Welfare & Works Association naturally sends in their top agents to investigate. But are the lovely angels up to the task of stopping a mad scientist bent on taking a long dormant alien race to its final evolutionary form? Throw in a thief who's hunting a bottle of World War II-vintage wine and it's a safe bet that nobody on the planet is safe. It's more chaos, more mayhem and even more destruction than ever before as the Dirty Pair take on their wildest case yet!
+
+(Source: AniDB)"
+animeRelated	['Dirty Pair']
+animeCharacters	['Kei', 'Yuri', 'Carson, Carson D.', 'Boss', 'Seisan Iinchou', 'Chief Manager', 'Wattsman', 'Bruno']
+animeVoices	['Tonguu, Kyouko', 'Shimazu, Saeko', 'Mori, Katsuji', 'Iizuka, Shouzou', 'Terashima, Mikio', 'Kobayashi, Osamu', 'Otsuka, Chikao', 'Nishio, Toku']
+animeStaff	[['Macek, Carl', 'Producer, ADR Director'], ['Mashimo, Kouichi', 'Director'], ['Chiba, Kouichi', 'Sound Director'], ['Hoshiyama, Hiroyuki', 'Script']]

@@ -1,5 +1,5 @@
-animeTitle	b'No Guns Life 2nd Season'
-animeType	b'TV'
+animeTitle	No Guns Life 2nd Season
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.06
 animeUsers	22492
 animeRank	
-animePopularity	
-animeDescription	b'Second half of No Guns Life.'
-animeRelated	[b'No Guns Life']
-animeCharacters	[b'Inui, Juuzou', b'Steinberg, Mary', b'Arahabaki, Tetsurou', b'Pepper', b'Gosling, Scarlet', b'Tokisada, Mega-armed', b'Dismantler', b'Steinberg, Victor', b'Vandeberme, Olivier', b'von Wolf, Cronen']
-animeVoices	[b'\nSuwabe, Junichi\nJapanese\n', b'\nNumakura, Manami\nJapanese\n', b'\nYamashita, Daiki\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nKouno, Marika\nJapanese\n', b'\nOkitsu, Kazuyuki\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nUchida, Yuuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItou, Naoyuki\n\nDirector\n\n', b'\nSawano, Hiroyuki\n\nTheme Song Arrangement, Theme Song Performance, Theme Song Composition\n\n', b'\nIseki, Daichi\n\nDirector of Photography\n\n']
+animePopularity	2147
+animeDescription	Second half of No Guns Life.
+animeRelated	['No Guns Life']
+animeCharacters	['Inui, Juuzou', 'Steinberg, Mary', 'Arahabaki, Tetsurou', 'Pepper', 'Gosling, Scarlet', 'Tokisada, Mega-armed', 'Dismantler', 'Steinberg, Victor', 'Vandeberme, Olivier', 'von Wolf, Cronen']
+animeVoices	['Suwabe, Junichi', 'Numakura, Manami', 'Yamashita, Daiki', 'Minase, Inori', 'Kouno, Marika', 'Okitsu, Kazuyuki', 'Hikasa, Youko', 'Uchida, Yuuya']
+animeStaff	[['Itou, Naoyuki', 'Director'], ['Sawano, Hiroyuki', 'Theme Song Arrangement, Theme Song Performance, Theme Song Composition'], ['Iseki, Daichi', 'Director of Photography']]

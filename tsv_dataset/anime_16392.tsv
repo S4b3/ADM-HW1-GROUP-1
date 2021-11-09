@@ -1,5 +1,5 @@
-animeTitle	b'Jim Button'
-animeType	b'TV'
+animeTitle	Jim Button
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Jim Button and his best friend Luke live on an island. When Luke has to leave the island Jim decides to go with him. when they leave they don't have a clue about the hidden dangers in the world. while traveling they learn that a young princess name Lisi was captured by pirates whom brought her to Sorrowland. The evil and dangerous dragon miss. Grindtooth rules in that land. Jim and Luke decide to go to Sorrowland to save princess Lisi."""
+animePopularity	13677
+animeDescription	Jim Button and his best friend Luke live on an island. When Luke has to leave the island Jim decides to go with him. when they leave they don't have a clue about the hidden dangers in the world. while traveling they learn that a young princess name Lisi was captured by pirates whom brought her to Sorrowland. The evil and dangerous dragon miss. Grindtooth rules in that land. Jim and Luke decide to go to Sorrowland to save princess Lisi.
 animeRelated	[]
-animeCharacters	[b'Button, Jim', b'Pokko', b'Captain Kid']
-animeVoices	[b'\nOota, Yoshiko\nJapanese\n', b'\nMatsuo, Yoshiko\nJapanese\n', b'\nTakiguchi, Junpei\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nRintaro\n\nEpisode Director\n\n', b'\nTakagaki, Kouzou\n\nEpisode Director\n\n', b'\nHorie, Mitsuko\n\nTheme Song Performance\n\n', b""\nKoorogi '73\n\nTheme Song Performance, Inserted Song Performance\n\n""]"
+animeCharacters	['Button, Jim', 'Pokko', 'Captain Kid']
+animeVoices	['Oota, Yoshiko', 'Matsuo, Yoshiko', 'Takiguchi, Junpei']
+animeStaff	"[['Rintaro', 'Episode Director'], ['Takagaki, Kouzou', 'Episode Director'], ['Horie, Mitsuko', 'Theme Song Performance'], [""Koorogi '73"", 'Theme Song Performance, Inserted Song Performance']]"

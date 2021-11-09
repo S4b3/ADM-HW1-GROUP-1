@@ -1,5 +1,5 @@
-animeTitle	b'Yowamushi Pedal Movie'
-animeType	b'Movie'
+animeTitle	Yowamushi Pedal Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.59
 animeUsers	12852
 animeRank	
-animePopularity	
-animeDescription	b'With the Inter-high over and as the end of summer approaches, Sakamichi trains intensely with Imaizumi Shunsuke and Naruko Shoukichi so he can carry on Team Sohoku\xe2\x80\x99s spirit of supporting each other entrusted to him by Kinjou Shingo, Makishima Yusuke, and Tadokoro Jin, the third years who will be graduating before long. One day, Team Sohoku receives an invitation to the Kumamoto Fire Country Mountain Race, an invitational race for teams that performed well at the Inter-high, and their captain Kinjou decides their core Inter-high team will attend.\n\n(Source: Crunchyroll)'
-animeRelated	[b'Yowamushi Pedal: Grande Road', b'Yowamushi Pedal: New Generation']
-animeCharacters	[b'Onoda, Sakamichi', b'Naruko, Shoukichi', b'Imaizumi, Shunsuke', b'Midousuji, Akira', b'Makishima, Yuusuke', b'Arakita, Yasutomo', b'Manami, Sangaku', b'Toudou, Jinpachi', b'Teshima, Junta', b'Shinkai, Hayato']
-animeVoices	[b'\nYamashita, Daiki\nJapanese\n', b'\nFukushima, Jun\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nYonaga, Tsubasa\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nHino, Satoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNaganuma, Norihiro\n\nDirector\n\n', b'\nNabeshima, Osamu\n\nDirector\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n', b'\nYoshida, Reiko\n\nScript\n\n']
+animePopularity	3538
+animeDescription	"With the Inter-high over and as the end of summer approaches, Sakamichi trains intensely with Imaizumi Shunsuke and Naruko Shoukichi so he can carry on Team Sohoku’s spirit of supporting each other entrusted to him by Kinjou Shingo, Makishima Yusuke, and Tadokoro Jin, the third years who will be graduating before long. One day, Team Sohoku receives an invitation to the Kumamoto Fire Country Mountain Race, an invitational race for teams that performed well at the Inter-high, and their captain Kinjou decides their core Inter-high team will attend.
+
+(Source: Crunchyroll)"
+animeRelated	['Yowamushi Pedal: Grande Road', 'Yowamushi Pedal: New Generation']
+animeCharacters	['Onoda, Sakamichi', 'Naruko, Shoukichi', 'Imaizumi, Shunsuke', 'Midousuji, Akira', 'Makishima, Yuusuke', 'Arakita, Yasutomo', 'Manami, Sangaku', 'Toudou, Jinpachi', 'Teshima, Junta', 'Shinkai, Hayato']
+animeVoices	['Yamashita, Daiki', 'Fukushima, Jun', 'Toriumi, Kousuke', 'Yusa, Kouji', 'Morikubo, Shoutarou', 'Yoshino, Hiroyuki', 'Yonaga, Tsubasa', 'Kakihara, Tetsuya', 'Kishio, Daisuke', 'Hino, Satoshi']
+animeStaff	[['Naganuma, Norihiro', 'Director'], ['Nabeshima, Osamu', 'Director'], ['Takadera, Takeshi', 'Sound Director'], ['Yoshida, Reiko', 'Script']]

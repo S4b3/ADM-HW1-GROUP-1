@@ -1,5 +1,5 @@
-animeTitle	b'Brave Beats'
-animeType	b'TV'
+animeTitle	Brave Beats
+animeType	TV
 animeNumEpisode	22
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.44
 animeUsers	1322
 animeRank	
-animePopularity	
-animeDescription	b'Hibiki Kazaguruma, a sixth grader, meets an amusing little robot named Bureikin while coming home from school one day. Bureikin, a dancer from an alternate-dimension dance world, challenged the dance king for the throne and lost. He has been deprived of Dance Stones (the stones of dance power) and sent to the human world. To restore his power, Bureikin must collect all the Dance Stones scattered around Earth.\n\n(Source: ANN)'
+animePopularity	7531
+animeDescription	"Hibiki Kazaguruma, a sixth grader, meets an amusing little robot named Bureikin while coming home from school one day. Bureikin, a dancer from an alternate-dimension dance world, challenged the dance king for the throne and lost. He has been deprived of Dance Stones (the stones of dance power) and sent to the human world. To restore his power, Bureikin must collect all the Dance Stones scattered around Earth.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Amamiya, Kotone', b'Kamiya, Maito', b'Kazaguruma, Hibiki', b'Adrienne', b'Bureikin', b'Tank', b'Mink', b'Kaneyama, Charlie Tsubasa', b'Choreo', b'Hoshino, Akemi']
-animeVoices	[b'\nKokido, Shiho\nJapanese\n', b'\nSugaya, Yayoi\nJapanese\n', b'\nTakahashi, Meguru\nJapanese\n', b'\nYoshida, Yuuri\nJapanese\n', b'\nSakurai, Tooru\nJapanese\n', b'\nKitamura, Kenji\nJapanese\n', b'\nMikutsu, Yuko\nJapanese\n', b'\nHino, Satoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurano, Yuuta\n\nDirector\n\n', b'\nTomioka, Atsuhiro\n\nScript, Series Composition\n\n', b'\nHisao, Ayumu\n\nScript\n\n', b'\nMiyawaki, Shion\n\nTheme Song Lyrics, Theme Song Performance\n\n']
+animeCharacters	['Amamiya, Kotone', 'Kamiya, Maito', 'Kazaguruma, Hibiki', 'Adrienne', 'Bureikin', 'Tank', 'Mink', 'Kaneyama, Charlie Tsubasa', 'Choreo', 'Hoshino, Akemi']
+animeVoices	['Kokido, Shiho', 'Sugaya, Yayoi', 'Takahashi, Meguru', 'Yoshida, Yuuri', 'Sakurai, Tooru', 'Kitamura, Kenji', 'Mikutsu, Yuko', 'Hino, Satoshi']
+animeStaff	[['Murano, Yuuta', 'Director'], ['Tomioka, Atsuhiro', 'Script, Series Composition'], ['Hisao, Ayumu', 'Script'], ['Miyawaki, Shion', 'Theme Song Lyrics, Theme Song Performance']]

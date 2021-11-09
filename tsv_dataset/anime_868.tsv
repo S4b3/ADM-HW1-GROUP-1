@@ -1,5 +1,5 @@
-animeTitle	b'Shiki Specials'
-animeType	b'Special'
+animeTitle	Shiki Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.79
 animeUsers	35999
 animeRank	
-animePopularity	
-animeDescription	"b'The official website of the Shiki television anime series confirmed on Saturday that the anime\'s eighth and ninth Blu-ray Disc/DVD volumes will each include an unaired episode. The eighth volume will ship with Episode 21 and the unaired episode ""Dai Futat\xc5\x8d to Han wa"" (a wordplay for ""Episode 20.5"") on May 25, 2011, while the ninth volume will ship with Episode 22 and the unaired episode ""Dai Futat\xc5\x8d-ichi to Han wa"" (""Episode 21.5"") on June 22. \n\n(Source: ANN)'"
-animeRelated	[b'Shiki']
-animeCharacters	[b'Shimizu, Megumi', b'Maeda, Motoko', b'Yasumori, Nao', b'Hasegawa', b'Yano, Kanami', b'Ozaki, Toshio', b'Kunihiro, Ritsuko', b'Kurahashi, Yoshie', b'Hirosawa, Takatoshi', b'Hayami']
-animeVoices	[b'\nSakamoto, Satomi\nJapanese\n', b'\nItou, Miki\nJapanese\n', b'\nNakata, Hayato\nJapanese\n', b'\nNohama, Tamako\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nKajikawa, Shohei\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAmino, Tetsuro\n\nDirector\n\n', b'\nWakeshima, Kanon\n\nTheme Song Lyrics\n\n', b'\nBUCK-TICK\n\nTheme Song Performance\n\n', b'\nkanon x kanon\n\nTheme Song Performance\n\n']
+animePopularity	2191
+animeDescription	"The official website of the Shiki television anime series confirmed on Saturday that the anime's eighth and ninth Blu-ray Disc/DVD volumes will each include an unaired episode. The eighth volume will ship with Episode 21 and the unaired episode ""Dai Futatō to Han wa"" (a wordplay for ""Episode 20.5"") on May 25, 2011, while the ninth volume will ship with Episode 22 and the unaired episode ""Dai Futatō-ichi to Han wa"" (""Episode 21.5"") on June 22. 
+
+(Source: ANN)"
+animeRelated	['Shiki']
+animeCharacters	['Shimizu, Megumi', 'Maeda, Motoko', 'Yasumori, Nao', 'Hasegawa', 'Yano, Kanami', 'Ozaki, Toshio', 'Kunihiro, Ritsuko', 'Kurahashi, Yoshie', 'Hirosawa, Takatoshi', 'Hayami']
+animeVoices	['Sakamoto, Satomi', 'Itou, Miki', 'Nakata, Hayato', 'Nohama, Tamako', 'Ookawa, Tooru', 'Kitamura, Eri', 'Kajikawa, Shohei', 'Tobita, Nobuo']
+animeStaff	[['Amino, Tetsuro', 'Director'], ['Wakeshima, Kanon', 'Theme Song Lyrics'], ['BUCK-TICK', 'Theme Song Performance'], ['kanon x kanon', 'Theme Song Performance']]

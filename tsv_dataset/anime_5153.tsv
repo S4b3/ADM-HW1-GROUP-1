@@ -1,5 +1,5 @@
-animeTitle	b'Digimon Xros Wars'
-animeType	b'TV'
+animeTitle	Digimon Xros Wars
+animeType	TV
 animeNumEpisode	30
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.69
 animeUsers	21055
 animeRank	
-animePopularity	
-animeDescription	"b""The Digital World is in a state of war, with the evil Bagra Army attempting to collect fragments of the Code Crown. Whoever manages to collect all 108 fragments will become king of the Digital World. An evil group of Digimon, known as the Bagra Army, are determined to get their hands on the Code Crown.\n\nDigimon Xros Wars features Taiki Kudou, a soccer-loving middle schooler who will always go out of his way to help people in need. When out with his friends Akari Hinomoto and Zenjirou Tsurugi one day, he hears a voice calling out for help. Investigating the situation, he meets a Digimon named Shoutmon who has been severely wounded in a nearby alley. Using the power of a strange device called a Xros Loader, Taiki manages to save Shoutmon's life, but is pulled into the Digital World alongside Akari and Zenjirou.\n\nDetermined not to let the evil Bagra have their way, Taiki and his friends join with Shoutmon and other local Digimon to form their own army known as Xros Heart. Now Xros Heart must fight their way across the Digital World to collect Code Crown fragments and defeat the Bagra Army, but Taiki and his friends are not the only humans caught up in this war of monsters\xe2\x80\xa6"""
-animeRelated	[b'Digimon Xros Wars', b'Digimon Adventure', b'Digimon Savers', b'Digimon Tamers', b'Digimon Frontier', b'Digimon Adventure 02', b'Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku']
-animeCharacters	[b'Kudou, Taiki', b'Shoutmon', b'Amano, Nene', b'Aonuma, Kiriha', b'Hinomoto, Akari', b'Tsurugi, Zenjirou', b'Beelzebumon', b'Omegamon', b'Etemon', b'Lucemon']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nShimada, Bin\nJapanese\n', b'\nMatsuno, Taiki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurada, Hiroyuki\n\nProducer\n\n', b'\nKakudou, Hiroyuki\n\nEpisode Director, Storyboard\n\n', b'\nEndou, Tetsuya\n\nEpisode Director, Series Production Director\n\n', b'\nKaizawa, Yukio\n\nEpisode Director\n\n']
+animePopularity	2707
+animeDescription	"The Digital World is in a state of war, with the evil Bagra Army attempting to collect fragments of the Code Crown. Whoever manages to collect all 108 fragments will become king of the Digital World. An evil group of Digimon, known as the Bagra Army, are determined to get their hands on the Code Crown.
+
+Digimon Xros Wars features Taiki Kudou, a soccer-loving middle schooler who will always go out of his way to help people in need. When out with his friends Akari Hinomoto and Zenjirou Tsurugi one day, he hears a voice calling out for help. Investigating the situation, he meets a Digimon named Shoutmon who has been severely wounded in a nearby alley. Using the power of a strange device called a Xros Loader, Taiki manages to save Shoutmon's life, but is pulled into the Digital World alongside Akari and Zenjirou.
+
+Determined not to let the evil Bagra have their way, Taiki and his friends join with Shoutmon and other local Digimon to form their own army known as Xros Heart. Now Xros Heart must fight their way across the Digital World to collect Code Crown fragments and defeat the Bagra Army, but Taiki and his friends are not the only humans caught up in this war of monsters…"
+animeRelated	['Digimon Xros Wars', 'Digimon Adventure', 'Digimon Savers', 'Digimon Tamers', 'Digimon Frontier', 'Digimon Adventure 02', 'Digimon Xros Wars: Aku no Death General to Nanatsu no Oukoku']
+animeCharacters	['Kudou, Taiki', 'Shoutmon', 'Amano, Nene', 'Aonuma, Kiriha', 'Hinomoto, Akari', 'Tsurugi, Zenjirou', 'Beelzebumon', 'Omegamon', 'Etemon', 'Lucemon']
+animeVoices	['Takayama, Minami', 'Sakamoto, Chika', 'Kuwashima, Houko', 'Kusao, Takeshi', 'Shiraishi, Ryouko', 'Kishio, Daisuke', 'Shimada, Bin', 'Matsuno, Taiki']
+animeStaff	[['Sakurada, Hiroyuki', 'Producer'], ['Kakudou, Hiroyuki', 'Episode Director, Storyboard'], ['Endou, Tetsuya', 'Episode Director, Series Production Director'], ['Kaizawa, Yukio', 'Episode Director']]

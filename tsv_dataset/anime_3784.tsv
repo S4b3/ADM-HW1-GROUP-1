@@ -1,5 +1,5 @@
-animeTitle	b'Hitsugi no Chaika OVA'
-animeType	b'OVA'
+animeTitle	Hitsugi no Chaika OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.01
 animeUsers	18347
 animeRank	
-animePopularity	
-animeDescription	b'Unaired anime-original OVA bundled with 12th volume of the Hitsugi no Chaika novel.'
-animeRelated	[b'Hitsugi no Chaika', b'Hitsugi no Chaika: Avenging Battle']
-animeCharacters	[b'Trabant, Chaika', b'Acura, Akari', b'Acura, Tooru', b'Fredrica', b'Bohdan, Chaika', b'Holopainen, Viivi', b'Gillette, Alb\xc3\xa9ric', b'Stora, Leonardo', b'Callaway, Matth\xc3\xa4us', b'Brusasco, Zita']
-animeVoices	[b'\nAnzai, Chika\nJapanese\n', b'\nHara, Yuuko\nJapanese\n', b'\nMajima, Junji\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nZougou, Saeko\nJapanese\n', b'\nNomizu, Iori\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nYamamoto, Kazutomi\nJapanese\n', b'\nMorishima, Shuuta\nJapanese\n', b'\nKouda, Yumeha\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasui, Souichi\n\nDirector\n\n', b'\nAnzai, Chika\n\nTheme Song Performance\n\n', b'\nNomizu, Iori\n\nTheme Song Performance\n\n', b'\nZougou, Saeko\n\nTheme Song Performance\n\n']
+animePopularity	2904
+animeDescription	Unaired anime-original OVA bundled with 12th volume of the Hitsugi no Chaika novel.
+animeRelated	['Hitsugi no Chaika', 'Hitsugi no Chaika: Avenging Battle']
+animeCharacters	['Trabant, Chaika', 'Acura, Akari', 'Acura, Tooru', 'Fredrica', 'Bohdan, Chaika', 'Holopainen, Viivi', 'Gillette, Albéric', 'Stora, Leonardo', 'Callaway, Matthäus', 'Brusasco, Zita']
+animeVoices	['Anzai, Chika', 'Hara, Yuuko', 'Majima, Junji', 'Saitou, Chiwa', 'Zougou, Saeko', 'Nomizu, Iori', 'Hosoya, Yoshimasa', 'Yamamoto, Kazutomi', 'Morishima, Shuuta', 'Kouda, Yumeha']
+animeStaff	[['Masui, Souichi', 'Director'], ['Anzai, Chika', 'Theme Song Performance'], ['Nomizu, Iori', 'Theme Song Performance'], ['Zougou, Saeko', 'Theme Song Performance']]

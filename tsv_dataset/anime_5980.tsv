@@ -1,5 +1,5 @@
-animeTitle	b'Break Blade: Virgins War'
-animeType	b'Special'
+animeTitle	Break Blade: Virgins War
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.53
 animeUsers	1361
 animeRank	
-animePopularity	
-animeDescription	b'Fight between Nike and Narvi after both lose their Golems.\n\nIncluded in the Blu-ray Box release of the TV series.'
-animeRelated	[b'Break Blade']
-animeCharacters	[b'Stryze, Narvi', b'Nike']
-animeVoices	[b'\nInoue, Marina\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAmino, Tetsuro\n\nDirector\n\n', b'\nHabara, Nobuyoshi\n\nDirector\n\n', b'\nSasaki, Sayaka\n\nTheme Song Performance\n\n', b'\nHirano, Yoshihisa\n\nMusic\n\n']
+animePopularity	7571
+animeDescription	"Fight between Nike and Narvi after both lose their Golems.
+
+Included in the Blu-ray Box release of the TV series."
+animeRelated	['Break Blade']
+animeCharacters	['Stryze, Narvi', 'Nike']
+animeVoices	['Inoue, Marina', 'Shiraishi, Ryouko']
+animeStaff	[['Amino, Tetsuro', 'Director'], ['Habara, Nobuyoshi', 'Director'], ['Sasaki, Sayaka', 'Theme Song Performance'], ['Hirano, Yoshihisa', 'Music']]

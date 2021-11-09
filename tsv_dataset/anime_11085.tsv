@@ -1,5 +1,5 @@
-animeTitle	b'Promised Town'
-animeType	b'ONA'
+animeTitle	Promised Town
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	5.22
 animeUsers	227
 animeRank	
-animePopularity	
-animeDescription	b'Year 20XX \nW.I , Inc. has developed a humanoid weapon with high combat performance and advanced artificial intelligence (Clone-type robot), plotting a world invasion using those robots for war.\n\nLuka, a Clone-type robot, awakens and feels a strong urge to reunite with Kento, who was remodeled as the Clone-type robot Z1.\n\n(Source: Official Site)'
+animePopularity	12080
+animeDescription	"Year 20XX 
+W.I , Inc. has developed a humanoid weapon with high combat performance and advanced artificial intelligence (Clone-type robot), plotting a world invasion using those robots for war.
+
+Luka, a Clone-type robot, awakens and feels a strong urge to reunite with Kento, who was remodeled as the Clone-type robot Z1.
+
+(Source: Official Site)"
 animeRelated	[]
-animeCharacters	[b'Kento', b'Luka']
-animeVoices	[b'\nSatou, Yuugo\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n']
+animeCharacters	['Kento', 'Luka']
+animeVoices	['Satou, Yuugo', 'Ichimichi, Mao']
 animeStaff	[]

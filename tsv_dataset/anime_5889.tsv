@@ -1,5 +1,5 @@
-animeTitle	b'Kimi wa Kanata'
-animeType	b'Movie'
+animeTitle	Kimi wa Kanata
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.55
 animeUsers	418
 animeRank	
-animePopularity	
-animeDescription	"b""Mio has feelings for her childhood friend Arata, but can't convey her feelings. One day, as they continue their delicate relationship, the two fight over something trivial. After letting tensions settle, Mio goes to make up with him in the pouring rain. While on her way, she gets into a traffic accident. When she regains consciousness, a mysterious and unfamiliar world appears before her eyes.\n\n(Source: MAL News)"""
+animePopularity	3573
+animeDescription	"Mio has feelings for her childhood friend Arata, but can't convey her feelings. One day, as they continue their delicate relationship, the two fight over something trivial. After letting tensions settle, Mio goes to make up with him in the pouring rain. While on her way, she gets into a traffic accident. When she regains consciousness, a mysterious and unfamiliar world appears before her eyes.
+
+(Source: MAL News)"
 animeRelated	[]
-animeCharacters	[b'Miyamasu, Mio', b'Kishimo, Arata', b'Kiku-chan', b'Mori', b'Lost Item Attendant', b'Mogari', b'Orika', b'Madoka', b'Gimon', b'Miyamasu, Sachi']
-animeVoices	[b'\nMatsumoto, Honoka\nJapanese\n', b'\nSeto, Toshiki\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nNatsuki, Mari\nJapanese\n', b'\nKimoto, Takehiro\nJapanese\n', b'\nTakenaka, Naoto\nJapanese\n', b'\nTsuchiya, Anna\nJapanese\n', b'\nOgura, Yui\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nSendou, Nobuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSena, Yoshinobu\n\nDirector, Sound Director, Screenplay, Original Creator\n\n', b'\nSaji\n\nTheme Song Performance\n\n', b'\nKatahira, Shinji\n\nArt Director\n\n', b'\nAsami, Takashi\n\nAnimation Director\n\n']
+animeCharacters	['Miyamasu, Mio', 'Kishimo, Arata', 'Kiku-chan', 'Mori', 'Lost Item Attendant', 'Mogari', 'Orika', 'Madoka', 'Gimon', 'Miyamasu, Sachi']
+animeVoices	['Matsumoto, Honoka', 'Seto, Toshiki', 'Hayami, Saori', 'Natsuki, Mari', 'Kimoto, Takehiro', 'Takenaka, Naoto', 'Tsuchiya, Anna', 'Ogura, Yui', 'Yamadera, Kouichi', 'Sendou, Nobuko']
+animeStaff	[['Sena, Yoshinobu', 'Director, Sound Director, Screenplay, Original Creator'], ['Saji', 'Theme Song Performance'], ['Katahira, Shinji', 'Art Director'], ['Asami, Takashi', 'Animation Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Cross Road'
-animeType	b'Special'
+animeTitle	Cross Road
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.36
 animeUsers	32227
 animeRank	
-animePopularity	
-animeDescription	b'As college entrance examinations draw near, two students living completely different lives decide to enroll in Z-Kai, a correspondence education service. Balancing their studies with their daily lives, the two diligently work towards their goal, unaware of how much they share in common. Will their hard work pay off and bring about the success they desire?\n\n[Written by MAL Rewrite]'
+animePopularity	2162
+animeDescription	"As college entrance examinations draw near, two students living completely different lives decide to enroll in Z-Kai, a correspondence education service. Balancing their studies with their daily lives, the two diligently work towards their goal, unaware of how much they share in common. Will their hard work pay off and bring about the success they desire?
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Miho', b'Shouta', b'Z-Kai Teacher']
-animeVoices	[b'\nSakura, Ayane\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nTanaka, Masahiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinkai, Makoto\n\nDirector, Episode Director, Script, Storyboard, Theme Song Lyrics, Editing\n\n', b'\nYamada, Haru\n\nSound Director\n\n', b'\nYanagi, Nagi\n\nTheme Song Performance\n\n', b'\nTada, Akifumi\n\nTheme Song Arrangement\n\n']
+animeCharacters	['Miho', 'Shouta', 'Z-Kai Teacher']
+animeVoices	['Sakura, Ayane', 'Ono, Kensho', 'Tanaka, Masahiko']
+animeStaff	[['Shinkai, Makoto', 'Director, Episode Director, Script, Storyboard, Theme Song Lyrics, Editing'], ['Yamada, Haru', 'Sound Director'], ['Yanagi, Nagi', 'Theme Song Performance'], ['Tada, Akifumi', 'Theme Song Arrangement']]

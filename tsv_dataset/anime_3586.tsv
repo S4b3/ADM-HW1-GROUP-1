@@ -1,5 +1,5 @@
-animeTitle	b'Captain Future'
-animeType	b'TV'
+animeTitle	Captain Future
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.05
 animeUsers	1611
 animeRank	
-animePopularity	
-animeDescription	b'Curtis Newton, aka Captain Future, is an orphan. His parents died in their artificial satellite while he was an infant. His father was a scientist, who has abandoned earth for the satellite to dedicate his life for science along with his aging friend the genius Dr Simon Wright. Wright senses his death, and decides to implant his brain in a mechanical container. They both manufactured a superior robot and an android. Captain future dedicated his life to fight evil along with his three men, the brain, android, and robot. \n\n(Source: ANN)'
-animeRelated	[b'Captain Future: Kareinaru Taiyokei Race']
-animeCharacters	[b'Newton, Curtis', b'Wright, Simon', b'Oak', b'Yiek', b'Otto', b'Grag', b'Scott, Ken', b'Randal, Joan']
-animeVoices	[b'\nHirokawa, Taichirou\nJapanese\n', b'\nKawakubo, Kiyoshi\nJapanese\n', b'\nNoda, Keiichi\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKatsumata, Tomoharu\n\nDirector\n\n', b'\nYamauchi, Shigeyasu\n\nEpisode Director, Storyboard\n\n', b'\nMorishita, Kouzou\n\nEpisode Director\n\n', b'\nOono, Yuuji\n\nMusic\n\n']
+animePopularity	7703
+animeDescription	"Curtis Newton, aka Captain Future, is an orphan. His parents died in their artificial satellite while he was an infant. His father was a scientist, who has abandoned earth for the satellite to dedicate his life for science along with his aging friend the genius Dr Simon Wright. Wright senses his death, and decides to implant his brain in a mechanical container. They both manufactured a superior robot and an android. Captain future dedicated his life to fight evil along with his three men, the brain, android, and robot. 
+
+(Source: ANN)"
+animeRelated	['Captain Future: Kareinaru Taiyokei Race']
+animeCharacters	['Newton, Curtis', 'Wright, Simon', 'Oak', 'Yiek', 'Otto', 'Grag', 'Scott, Ken', 'Randal, Joan']
+animeVoices	['Hirokawa, Taichirou', 'Kawakubo, Kiyoshi', 'Noda, Keiichi', 'Ogata, Kenichi', 'Inoue, Kazuhiko', 'Masuyama, Eiko']
+animeStaff	[['Katsumata, Tomoharu', 'Director'], ['Yamauchi, Shigeyasu', 'Episode Director, Storyboard'], ['Morishita, Kouzou', 'Episode Director'], ['Oono, Yuuji', 'Music']]

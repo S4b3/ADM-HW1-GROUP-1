@@ -1,5 +1,5 @@
-animeTitle	b'Princess Principal'
-animeType	b'TV'
+animeTitle	Princess Principal
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.71
 animeUsers	64356
 animeRank	
-animePopularity	
-animeDescription	"b""In the early 20th century, the discovery of the substance Cavorite allowed the production of advanced military technology and steered the country toward conflict. London is now divided by a wall, and the Kingdom and the Commonwealth of Albion battle a silent war where espionage is the only weapon that can destabilize the enemy. A group of girls from the prestigious Queen's Mayfaire school work as undercover spies for the Commonwealth.  \n\nLed by Dorothy, an experienced driver with a striking personality, their group includes the talents of Ange le Carr\xc3\xa9, a cold-blooded liar and expert sharpshooter; Chise, a proficient samurai; and Beatrice, a voice-mimicking specialist. They use their unique individual skills for the Commonwealth to survive in a dark world filled with conspiracy, mystery, and infiltration. In the shadow of the war, they have only one goal in mind: completing their mission.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Princess Principal: Ange Report', b'Princess Principal Picture Drama', b'Princess Principal: Crown Handler Movie 1']
-animeCharacters	[b'le Carr\xc3\xa9, Ange', b'Dorothy', b'Charlotte', b'Toudou, Chise', b'Beatrice', b'Marilla', b'7', b'Anderson, Amy', b'Gaveston, Lily', b'Julie']
-animeVoices	[b'\nImamura, Ayaka\nJapanese\n', b'\nTaichi, You\nJapanese\n', b'\nSekine, Akira\nJapanese\n', b'\nFuruki, Nozomi\nJapanese\n', b'\nKageyama, Akari\nJapanese\n', b'\nFurukawa, Yurina\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nWatada, Misaki\nJapanese\n', b'\nKitou, Akari\nJapanese\n', b'\nKino, Hina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTachibana, Masaki\n\nDirector, Episode Director, Storyboard, 2nd Key Animation, Key Animation\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nNomura, Kazuya\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nIkehata, Hiroshi\n\nEpisode Director\n\n']
+animePopularity	1009
+animeDescription	"In the early 20th century, the discovery of the substance Cavorite allowed the production of advanced military technology and steered the country toward conflict. London is now divided by a wall, and the Kingdom and the Commonwealth of Albion battle a silent war where espionage is the only weapon that can destabilize the enemy. A group of girls from the prestigious Queen's Mayfaire school work as undercover spies for the Commonwealth.  
+
+Led by Dorothy, an experienced driver with a striking personality, their group includes the talents of Ange le Carré, a cold-blooded liar and expert sharpshooter; Chise, a proficient samurai; and Beatrice, a voice-mimicking specialist. They use their unique individual skills for the Commonwealth to survive in a dark world filled with conspiracy, mystery, and infiltration. In the shadow of the war, they have only one goal in mind: completing their mission.
+
+[Written by MAL Rewrite]"
+animeRelated	['Princess Principal: Ange Report', 'Princess Principal Picture Drama', 'Princess Principal: Crown Handler Movie 1']
+animeCharacters	['le Carré, Ange', 'Dorothy', 'Charlotte', 'Toudou, Chise', 'Beatrice', 'Marilla', '7', 'Anderson, Amy', 'Gaveston, Lily', 'Julie']
+animeVoices	['Imamura, Ayaka', 'Taichi, You', 'Sekine, Akira', 'Furuki, Nozomi', 'Kageyama, Akari', 'Furukawa, Yurina', 'Sawashiro, Miyuki', 'Watada, Misaki', 'Kitou, Akari', 'Kino, Hina']
+animeStaff	[['Tachibana, Masaki', 'Director, Episode Director, Storyboard, 2nd Key Animation, Key Animation'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Nomura, Kazuya', 'Episode Director, Storyboard, Key Animation'], ['Ikehata, Hiroshi', 'Episode Director']]

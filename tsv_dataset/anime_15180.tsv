@@ -1,5 +1,5 @@
-animeTitle	b'Chibikko Kaijuu Yadamon'
-animeType	b'TV'
+animeTitle	Chibikko Kaijuu Yadamon
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A comedy about a spoiled and bratty kid monster. Each episode contains 2 stories.\n\n(Source: AniDB)'
-animeRelated	[b'Yadamon']
-animeCharacters	[b'Chomeko']
-animeVoices	[b'\nIchitani, Nobue\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujikawa, Keisuke\n\nScript, Screenplay\n\n']
+animePopularity	13936
+animeDescription	"A comedy about a spoiled and bratty kid monster. Each episode contains 2 stories.
+
+(Source: AniDB)"
+animeRelated	['Yadamon']
+animeCharacters	['Chomeko']
+animeVoices	['Ichitani, Nobue']
+animeStaff	[['Fujikawa, Keisuke', 'Script, Screenplay']]

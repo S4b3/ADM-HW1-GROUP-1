@@ -1,5 +1,5 @@
-animeTitle	b'Fullmetal Alchemist: The Sacred Star of Milos'
-animeType	b'Movie'
+animeTitle	Fullmetal Alchemist: The Sacred Star of Milos
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.29
 animeUsers	87074
 animeRank	
-animePopularity	
-animeDescription	"b""Chasing a runaway alchemist with strange powers, brothers Edward and Alphonse Elric stumble into the squalid valley of the Milos. The Milosians are an oppressed group that seek to reclaim their holy land from Creta: a militaristic country that forcefully annexed their nation. In the eye of the political storm is a girl named Julia Crichton, who emphatically wishes for the Milos to regain their strength and return to being a nation of peace.\n\nBefriending the girl, Edward and Alphonse find themselves in the midst of a rising resistance that involves the use of the very object they have been seeking all along\xe2\x80\x94the Philosopher's Stone. However, their past experiences with the stone cause them reservation, and the brothers are unwilling to help.\n\nBut as they discover the secrets behind Creta's intentions and questionable history, the brothers are drawn into the battle between the rebellious Milos, who desire their liberty, and the Cretan military, who seek absolute power.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Fullmetal Alchemist: Brotherhood', b'Fullmetal Alchemist: The Sacred Star of Milos Specials']
-animeCharacters	[b'Elric, Edward', b'Elric, Alphonse', b'Crichton, Julia', b'Voyager, Melvin', b'Mustang, Roy', b'Hawkeye, Riza', b'Armstrong, Alex Louis', b'Rockbell, Winry', b'Breda, Heymans', b'Herschel']
-animeVoices	[b'\nPark, Romi\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nTakamoto, Megumi\nJapanese\n', b'\nSato, Biichi\nJapanese\n', b'\nKiuchi, Hidenobu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMinami, Masahiko\n\nProducer, Planning\n\n', b'\nMurata, Kazuya\n\nDirector, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nNatsume, Shingo\n\nEpisode Director, Background Art, Key Animation\n\n']
+animePopularity	1072
+animeDescription	"Chasing a runaway alchemist with strange powers, brothers Edward and Alphonse Elric stumble into the squalid valley of the Milos. The Milosians are an oppressed group that seek to reclaim their holy land from Creta: a militaristic country that forcefully annexed their nation. In the eye of the political storm is a girl named Julia Crichton, who emphatically wishes for the Milos to regain their strength and return to being a nation of peace.
+
+Befriending the girl, Edward and Alphonse find themselves in the midst of a rising resistance that involves the use of the very object they have been seeking all along—the Philosopher's Stone. However, their past experiences with the stone cause them reservation, and the brothers are unwilling to help.
+
+But as they discover the secrets behind Creta's intentions and questionable history, the brothers are drawn into the battle between the rebellious Milos, who desire their liberty, and the Cretan military, who seek absolute power.
+
+[Written by MAL Rewrite]"
+animeRelated	['Fullmetal Alchemist: Brotherhood', 'Fullmetal Alchemist: The Sacred Star of Milos Specials']
+animeCharacters	['Elric, Edward', 'Elric, Alphonse', 'Crichton, Julia', 'Voyager, Melvin', 'Mustang, Roy', 'Hawkeye, Riza', 'Armstrong, Alex Louis', 'Rockbell, Winry', 'Breda, Heymans', 'Herschel']
+animeVoices	['Park, Romi', 'Kugimiya, Rie', 'Sakamoto, Maaya', 'Morikawa, Toshiyuki', 'Miki, Shinichiro', 'Orikasa, Fumiko', 'Utsumi, Kenji', 'Takamoto, Megumi', 'Sato, Biichi', 'Kiuchi, Hidenobu']
+animeStaff	[['Minami, Masahiko', 'Producer, Planning'], ['Murata, Kazuya', 'Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Natsume, Shingo', 'Episode Director, Background Art, Key Animation']]

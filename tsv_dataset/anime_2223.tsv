@@ -1,5 +1,5 @@
-animeTitle	b'Nanbaka'
-animeType	b'TV'
+animeTitle	Nanbaka
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	7.34
 animeUsers	113466
 animeRank	
-animePopularity	
-animeDescription	"b""Nanba is the world's most formidable prison, built to incarcerate criminals who are too slippery to stay in ordinary confinement. The four inmates who occupy Cell 13 are particularly cunning on that behalf, having escaped every other prison with a perfect success rate. There is Juugo, a specialist in locks who has spent the majority of his life in prison; Uno, a gambler with great intuition; Nico, an otaku whose body reacts strangely to drugs; and Rock, a bruiser with a love for food. The daily shenanigans of the four prisoners always cause trouble for the building supervisor, Hajime Sugoroku, who desperately tries to prevent them from breaking out of Nanba.\n\nNanbaka follows the comedic, sparkle-filled exploits of these prisoners and their guards. From three square meals a day to sports festivals, prison life in Nanba isn't actually that bad\xe2\x80\x94and it is the closest these four have to a home.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Nanbaka', b'Nanbaka 2', b'Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!']
-animeCharacters	[b'Juugo', b'Nico', b'Uno', b'Sugoroku, Hajime', b'Rock', b'Hyakushiki, Momoko', b'Gokuu, Samon', b'Hitokoe, Mitsuru', b'Tanabata, Seitarou', b'Tsukumo']
-animeVoices	[b'\nUemura, Yuuto\nJapanese\n', b'\nKobayashi, Daiki\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nShiozaki, Ire\nJapanese\n', b'\nAkesaka, Satomi\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nOkuyama, Keito\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakamatsu, Shinji\n\nDirector\n\n', b'\nDismuke, Aaron\n\nScript, ADR Director\n\n', b'\nTsubota, Fumi\n\nScript\n\n', b'\nSeki, Tomokazu\n\nTheme Song Performance\n\n']
+animePopularity	635
+animeDescription	"Nanba is the world's most formidable prison, built to incarcerate criminals who are too slippery to stay in ordinary confinement. The four inmates who occupy Cell 13 are particularly cunning on that behalf, having escaped every other prison with a perfect success rate. There is Juugo, a specialist in locks who has spent the majority of his life in prison; Uno, a gambler with great intuition; Nico, an otaku whose body reacts strangely to drugs; and Rock, a bruiser with a love for food. The daily shenanigans of the four prisoners always cause trouble for the building supervisor, Hajime Sugoroku, who desperately tries to prevent them from breaking out of Nanba.
+
+Nanbaka follows the comedic, sparkle-filled exploits of these prisoners and their guards. From three square meals a day to sports festivals, prison life in Nanba isn't actually that bad—and it is the closest these four have to a home.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Nanbaka', 'Nanbaka 2', 'Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!']
+animeCharacters	['Juugo', 'Nico', 'Uno', 'Sugoroku, Hajime', 'Rock', 'Hyakushiki, Momoko', 'Gokuu, Samon', 'Hitokoe, Mitsuru', 'Tanabata, Seitarou', 'Tsukumo']
+animeVoices	['Uemura, Yuuto', 'Kobayashi, Daiki', 'Kakihara, Tetsuya', 'Seki, Tomokazu', 'Shiozaki, Ire', 'Akesaka, Satomi', 'Hoshi, Souichirou', 'Tsuda, Kenjirou', 'Okuyama, Keito', 'Toyonaga, Toshiyuki']
+animeStaff	[['Takamatsu, Shinji', 'Director'], ['Dismuke, Aaron', 'Script, ADR Director'], ['Tsubota, Fumi', 'Script'], ['Seki, Tomokazu', 'Theme Song Performance']]

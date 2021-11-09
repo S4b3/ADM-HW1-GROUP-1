@@ -1,5 +1,5 @@
-animeTitle	b'Ikuze! Gen-san'
-animeType	b'ONA'
+animeTitle	Ikuze! Gen-san
+animeType	ONA
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The slapstick comedy centers on Genz\xc5\x8d Tamura, a 19-year-old third-generation construction worker in the working-class neighborhood of Beranme. When the Kuromoku Group urban developers threatens the neighborhood with Chainsaw Mika and Dynamite Dan, Tamura must save his town with his trusty hammer.\n\nSource: ANN'
+animePopularity	14887
+animeDescription	"The slapstick comedy centers on Genzō Tamura, a 19-year-old third-generation construction worker in the working-class neighborhood of Beranme. When the Kuromoku Group urban developers threatens the neighborhood with Chainsaw Mika and Dynamite Dan, Tamura must save his town with his trusty hammer.
+
+Source: ANN"
 animeRelated	[]
-animeCharacters	[b'Kirishima, Kanna', b'Tamura, Genzo']
+animeCharacters	['Kirishima, Kanna', 'Tamura, Genzo']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkumura, Yoshiaki\n\nDirector\n\n', b'\nHayase, Hiroyuki\n\nSound Director\n\n', b'\nHosokawa, Hideki\n\nEpisode Director, Storyboard, Mechanical Design\n\n', b'\nNakanishi, Nobuaki\n\nStoryboard\n\n']
+animeStaff	[['Okumura, Yoshiaki', 'Director'], ['Hayase, Hiroyuki', 'Sound Director'], ['Hosokawa, Hideki', 'Episode Director, Storyboard, Mechanical Design'], ['Nakanishi, Nobuaki', 'Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Tegamibachi'
-animeType	b'TV'
+animeTitle	Tegamibachi
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.64
 animeUsers	38920
 animeRank	
-animePopularity	
-animeDescription	"b""With his mother taken away from him and having lost everything, Lag Seeing is now a letter whose delivery has been assigned to Gauche Suede, a Letter Bee. Despite their troubling start, the two of them become friends, leading Lag to realize what his aim in life is: to deliver people's most important feelings in the form of letters, just as Gauche has done.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Tegamibachi', b'Tegamibachi: Hikari to Ao no Gensou Yawa', b'Tegamibachi Gakuen', b'Tegamibachi Reverse']
-animeCharacters	[b'Seeing, Lag', b'Niche', b'Steak', b'Suede, Gauche', b'Winters, Zazie', b'Pepper, Jiggy', b'Suede, Sylvette', b'Thunderland Jr.', b'Roda', b'Link, Aria']
-animeVoices	[b'\nSawashiro, Miyuki\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nNagasawa, Nao\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nIshikawa, Hideo\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Noriko\n\nProducer\n\n', b'\nIwanaga, Akira\n\nDirector\n\n', b'\nKageyama, Shigenori\n\nDirector, Theme Song Arrangement\n\n', b'\nShimizu, Katsunori\n\nSound Director\n\n']
+animePopularity	1492
+animeDescription	"With his mother taken away from him and having lost everything, Lag Seeing is now a letter whose delivery has been assigned to Gauche Suede, a Letter Bee. Despite their troubling start, the two of them become friends, leading Lag to realize what his aim in life is: to deliver people's most important feelings in the form of letters, just as Gauche has done.
+
+[Written by MAL Rewrite]"
+animeRelated	['Tegamibachi', 'Tegamibachi: Hikari to Ao no Gensou Yawa', 'Tegamibachi Gakuen', 'Tegamibachi Reverse']
+animeCharacters	['Seeing, Lag', 'Niche', 'Steak', 'Suede, Gauche', 'Winters, Zazie', 'Pepper, Jiggy', 'Suede, Sylvette', 'Thunderland Jr.', 'Roda', 'Link, Aria']
+animeVoices	['Sawashiro, Miyuki', 'Fujimura, Ayumi', 'Nagasawa, Nao', 'Fukuyama, Jun', 'Kishio, Daisuke', 'Nakai, Kazuya', 'Mizuki, Nana', 'Ishikawa, Hideo', 'Horie, Yui', 'Koshimizu, Ami']
+animeStaff	[['Kobayashi, Noriko', 'Producer'], ['Iwanaga, Akira', 'Director'], ['Kageyama, Shigenori', 'Director, Theme Song Arrangement'], ['Shimizu, Katsunori', 'Sound Director']]

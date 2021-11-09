@@ -1,5 +1,5 @@
-animeTitle	b'Donkikko'
-animeType	b'TV'
+animeTitle	Donkikko
+animeType	TV
 animeNumEpisode	21
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A comedy about the mischievous adventures of a young boy. Each episode contains 2 stories.\n\n(Source: AniDB)'
+animePopularity	14610
+animeDescription	"A comedy about the mischievous adventures of a young boy. Each episode contains 2 stories.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Donkikko', b'Mister Tousenbou', b'Dondon', b'Ayame', b'Gonbei']
-animeVoices	[b'\nAsou, Mitsuko\nJapanese\n', b'\nWakayama, Genzo\nJapanese\n', b'\nKamiyama, Takuzou\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nAikawa, Kinya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYukimuro, Shunichi\n\nScript\n\n', b'\nAndou, Toyohiro\n\nScript\n\n', b'\nIshinomori, Shoutarou\n\nOriginal Creator\n\n']
+animeCharacters	['Donkikko', 'Mister Tousenbou', 'Dondon', 'Ayame', 'Gonbei']
+animeVoices	['Asou, Mitsuko', 'Wakayama, Genzo', 'Kamiyama, Takuzou', 'Ohara, Noriko', 'Aikawa, Kinya']
+animeStaff	[['Yukimuro, Shunichi', 'Script'], ['Andou, Toyohiro', 'Script'], ['Ishinomori, Shoutarou', 'Original Creator']]

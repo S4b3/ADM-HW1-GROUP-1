@@ -1,5 +1,5 @@
-animeTitle	b'Sumiko'
-animeType	b'Special'
+animeTitle	Sumiko
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Shorts following a young girl's life."""
-animeRelated	[b'Sumiko (TV)', b'Sumiko no Egao']
-animeCharacters	[b'Yoshida, Sumiko']
+animePopularity	16178
+animeDescription	Shorts following a young girl's life.
+animeRelated	['Sumiko (TV)', 'Sumiko no Egao']
+animeCharacters	['Yoshida, Sumiko']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nUrumaDelvi\n\nCharacter Design\n\n']
+animeStaff	[['UrumaDelvi', 'Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Shoujo-tachi wa Kouya wo Mezasu'
-animeType	b'TV'
+animeTitle	Shoujo-tachi wa Kouya wo Mezasu
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.32
 animeUsers	38250
 animeRank	
-animePopularity	
-animeDescription	"b""Shoujo-tachi wa Kouya wo Mezasu is a series all about finding oneself and a direction in life... no matter how far off the beaten path it might be. \n\nBuntarou Hojo is a high school student who has a talent for writing, but no real direction in life or any plans for the future. His classmate, Sayuki Kuroda notices his talent, decides to help him find a way to use it properly by enlisting him in her bishoujo game development group.\n\nWhen Buntarou is cornered in the men's bathroom at school by Sayuki, he is surprised when he is asked out on what he thinks is a date, and even further surprised when he finds out that it's not a date, but a job interview. Reluctantly agreeing, the two start recruiting other members for their team but will they learn more about game creation, or life itself along the way?"""
-animeRelated	[b'Shoujo-tachi wa Kouya wo Mezasu: Tori Naku Uta', b'Shoujo-tachi wa Kouya wo Mezasu: Yukidoke no Oto', b'Shoujo-tachi wa Kouya wo Mezasu: Iubeki Monokashira']
-animeCharacters	[b'Kuroda, Sayuki', b'Kobayakawa, Yuuka', b'Yuuki, Uguisu', b'Andou, Teruha', b'Houjou, Buntarou', b'Kai, Atomu', b'Kikuchi-sensei', b'Mitsuteru, Oogi', b'Kuroda, Iwao', b'Tabe, Sayaka']
-animeVoices	[b'\nChisuga, Haruka\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nAkesaka, Satomi\nJapanese\n', b'\nYamashita, Seiichirou\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nOogame, Asuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakayama, Nobuhiro\n\nProducer\n\n', b'\nSatomi, Tetsurou\n\nProducer\n\n', b'\nSatou, Takuya\n\nDirector\n\n', b'\nYamaguchi, Takayuki\n\nSound Director\n\n']
+animePopularity	1543
+animeDescription	"Shoujo-tachi wa Kouya wo Mezasu is a series all about finding oneself and a direction in life... no matter how far off the beaten path it might be. 
+
+Buntarou Hojo is a high school student who has a talent for writing, but no real direction in life or any plans for the future. His classmate, Sayuki Kuroda notices his talent, decides to help him find a way to use it properly by enlisting him in her bishoujo game development group.
+
+When Buntarou is cornered in the men's bathroom at school by Sayuki, he is surprised when he is asked out on what he thinks is a date, and even further surprised when he finds out that it's not a date, but a job interview. Reluctantly agreeing, the two start recruiting other members for their team but will they learn more about game creation, or life itself along the way?"
+animeRelated	['Shoujo-tachi wa Kouya wo Mezasu: Tori Naku Uta', 'Shoujo-tachi wa Kouya wo Mezasu: Yukidoke no Oto', 'Shoujo-tachi wa Kouya wo Mezasu: Iubeki Monokashira']
+animeCharacters	['Kuroda, Sayuki', 'Kobayakawa, Yuuka', 'Yuuki, Uguisu', 'Andou, Teruha', 'Houjou, Buntarou', 'Kai, Atomu', 'Kikuchi-sensei', 'Mitsuteru, Oogi', 'Kuroda, Iwao', 'Tabe, Sayaka']
+animeVoices	['Chisuga, Haruka', 'Hanazawa, Kana', 'Satou, Satomi', 'Akesaka, Satomi', 'Yamashita, Seiichirou', 'Toyonaga, Toshiyuki', 'Shimazaki, Nobunaga', 'Saitou, Souma', 'Ishida, Akira', 'Oogame, Asuka']
+animeStaff	[['Nakayama, Nobuhiro', 'Producer'], ['Satomi, Tetsurou', 'Producer'], ['Satou, Takuya', 'Director'], ['Yamaguchi, Takayuki', 'Sound Director']]

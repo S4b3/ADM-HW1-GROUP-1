@@ -1,5 +1,5 @@
-animeTitle	b'Shigatsu wa Kimi no Uso: Moments'
-animeType	b'OVA'
+animeTitle	Shigatsu wa Kimi no Uso: Moments
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.69
 animeUsers	53151
 animeRank	
-animePopularity	
-animeDescription	b'OVA bundled with the 11th Shigatsu wa Kimi no Uso manga volume.\n\nThe OVA will focus on Kousei, Emi, and Takeshi when they were younger, showing their troubles during their competitions and the beginning of their rivalry.\n\n(Source: Shigatsu wa Kimi no Uso Wikia)'
-animeRelated	[b'Shigatsu wa Kimi no Uso']
-animeCharacters	[b'Arima, Kousei', b'Igawa, Emi', b'Aiza, Takeshi', b'Miyazono, Kaori', b'Sawabe, Tsubaki', b'Watari, Ryouta', b'Seto, Hiroko', b'Aiza, Nagi', b'Arima, Saki', b'Setsuko']
-animeVoices	[b'\nHanae, Natsuki\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nTaneda, Risa\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n', b'\nSonozaki, Mie\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nTakahashi, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSaitou, Shunsuke\n\nProducer\n\n', b'\nFukushima, Yuuichi\n\nProducer\n\n', b'\nIshiguro, Kyouhei\n\nDirector\n\n', b'\nYoshioka, Takao\n\nScript, Series Composition\n\n']
+animePopularity	1693
+animeDescription	"OVA bundled with the 11th Shigatsu wa Kimi no Uso manga volume.
+
+The OVA will focus on Kousei, Emi, and Takeshi when they were younger, showing their troubles during their competitions and the beginning of their rivalry.
+
+(Source: Shigatsu wa Kimi no Uso Wikia)"
+animeRelated	['Shigatsu wa Kimi no Uso']
+animeCharacters	['Arima, Kousei', 'Igawa, Emi', 'Aiza, Takeshi', 'Miyazono, Kaori', 'Sawabe, Tsubaki', 'Watari, Ryouta', 'Seto, Hiroko', 'Aiza, Nagi', 'Arima, Saki', 'Setsuko']
+animeVoices	['Hanae, Natsuki', 'Hayami, Saori', 'Kaji, Yuki', 'Taneda, Risa', 'Sakura, Ayane', 'Oosaka, Ryouta', 'Sonozaki, Mie', 'Kayano, Ai', 'Noto, Mamiko', 'Takahashi, Rie']
+animeStaff	[['Saitou, Shunsuke', 'Producer'], ['Fukushima, Yuuichi', 'Producer'], ['Ishiguro, Kyouhei', 'Director'], ['Yoshioka, Takao', 'Script, Series Composition']]

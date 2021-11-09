@@ -1,5 +1,5 @@
-animeTitle	b'Tesagure! Bukatsumono'
-animeType	b'TV'
+animeTitle	Tesagure! Bukatsumono
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.73
 animeUsers	2259
 animeRank	
-animePopularity	
-animeDescription	b'The CG anime centers around the extracurricular activities of students.\n\n(Source: AniDB)'
-animeRelated	[b'Tesagure! Bukatsumono Encore', b'Tesagure! Bukatsumono Spin-off Purupurun Sharumu to Asobou']
-animeCharacters	[b'Takahashi, Aoi', b'Tanaka, Koharu', b'Suzuki, Yua', b'Satou, Hina', b'Sonota, Mobuko']
-animeVoices	[b'\nOgino, Karin\nJapanese\n', b'\nOhashi, Ayaka\nJapanese\n', b'\nNishi, Asuka\nJapanese\n', b'\nAkesaka, Satomi\nJapanese\n', b'\nUeda, Reina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshidate, Koutarou\n\nDirector, Script, Series Composition\n\n', b'\nOhashi, Ayaka\n\nTheme Song Performance\n\n', b'\nAkesaka, Satomi\n\nTheme Song Performance\n\n', b'\nNishi, Asuka\n\nTheme Song Performance\n\n']
+animePopularity	5108
+animeDescription	"The CG anime centers around the extracurricular activities of students.
+
+(Source: AniDB)"
+animeRelated	['Tesagure! Bukatsumono Encore', 'Tesagure! Bukatsumono Spin-off Purupurun Sharumu to Asobou']
+animeCharacters	['Takahashi, Aoi', 'Tanaka, Koharu', 'Suzuki, Yua', 'Satou, Hina', 'Sonota, Mobuko']
+animeVoices	['Ogino, Karin', 'Ohashi, Ayaka', 'Nishi, Asuka', 'Akesaka, Satomi', 'Ueda, Reina']
+animeStaff	[['Ishidate, Koutarou', 'Director, Script, Series Composition'], ['Ohashi, Ayaka', 'Theme Song Performance'], ['Akesaka, Satomi', 'Theme Song Performance'], ['Nishi, Asuka', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'High School DxD Hero: Taiikukan-ura no Holy'
-animeType	b'Special'
+animeTitle	High School DxD Hero: Taiikukan-ura no Holy
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	6.9
 animeUsers	36764
 animeRank	
-animePopularity	
-animeDescription	b'Alternative version of final four episodes of High School DxD BorN.\n'
-animeRelated	[b'High School DxD BorN', b'High School DxD Hero']
-animeCharacters	[b'Gremory, Rias', b'Hyoudou, Issei', b'Argento, Asia', b'Himejima, Akeno', b'Toujou, Koneko', b'Quarta, Xenovia', b'Shidou, Irina', b'Azazel', b'Kiba, Yuuto', b'Vladi, Gasper']
-animeVoices	[b'\nHikasa, Youko\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nAsakura, Azumi\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nTaneda, Risa\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nNojima, Kenji\nJapanese\n', b'\nSakura, Ayane\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSueda, Yoshifumi\n\nDirector, Storyboard\n\n', b'\nMatsuo, Shin\n\nEpisode Director\n\n', b'\nMarchi, Jamie\n\nScript\n\n', b'\nSaxton, Jad\n\nADR Director\n\n']
+animePopularity	2019
+animeDescription	"Alternative version of final four episodes of High School DxD BorN.
+"
+animeRelated	['High School DxD BorN', 'High School DxD Hero']
+animeCharacters	['Gremory, Rias', 'Hyoudou, Issei', 'Argento, Asia', 'Himejima, Akeno', 'Toujou, Koneko', 'Quarta, Xenovia', 'Shidou, Irina', 'Azazel', 'Kiba, Yuuto', 'Vladi, Gasper']
+animeVoices	['Hikasa, Youko', 'Kaji, Yuki', 'Asakura, Azumi', 'Itou, Shizuka', 'Taketatsu, Ayana', 'Taneda, Risa', 'Uchida, Maaya', 'Koyama, Rikiya', 'Nojima, Kenji', 'Sakura, Ayane']
+animeStaff	[['Sueda, Yoshifumi', 'Director, Storyboard'], ['Matsuo, Shin', 'Episode Director'], ['Marchi, Jamie', 'Script'], ['Saxton, Jad', 'ADR Director']]

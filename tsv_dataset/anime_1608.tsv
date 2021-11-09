@@ -1,5 +1,5 @@
-animeTitle	b'Hetalia: The Beautiful World Specials'
-animeType	b'Special'
+animeTitle	Hetalia: The Beautiful World Specials
+animeType	Special
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	7.51
 animeUsers	6847
 animeRank	
-animePopularity	
-animeDescription	b'Special episodes released with the Hetalia: The Beautiful World BD/DVDs.\n\nInclude 4 episodes:\n\nExtra 1: Buon San Valentino - First Part\nExtra 2: Buon San Valentino - Last Part\nExtra 3: The Centennial Gift\nExtra 4: Liechtenstein and the Hedgehog Country'
-animeRelated	[b'Hetalia: The Beautiful World']
-animeCharacters	[b'North Italy', b'Germany', b'United Kingdom', b'America', b'France', b'Hungary', b'Austria', b'Switzerland', b'Liechtenstein', b'Seychelles']
-animeVoices	[b'\nNamikawa, Daisuke\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nSasanuma, Akira\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMarchi, Jamie\n\nScript\n\n', b'\nHimaruya, Hidekaz\n\nOriginal Creator\n\n', b'\nFukunaga, Gen\n\nExecutive Producer\n\n', b'\nBevins, Christopher\n\nADR Director\n\n']
+animePopularity	4304
+animeDescription	"Special episodes released with the Hetalia: The Beautiful World BD/DVDs.
+
+Include 4 episodes:
+
+Extra 1: Buon San Valentino - First Part
+Extra 2: Buon San Valentino - Last Part
+Extra 3: The Centennial Gift
+Extra 4: Liechtenstein and the Hedgehog Country"
+animeRelated	['Hetalia: The Beautiful World']
+animeCharacters	['North Italy', 'Germany', 'United Kingdom', 'America', 'France', 'Hungary', 'Austria', 'Switzerland', 'Liechtenstein', 'Seychelles']
+animeVoices	['Namikawa, Daisuke', 'Yasumoto, Hiroki', 'Sugiyama, Noriaki', 'Konishi, Katsuyuki', 'Onosaka, Masaya', 'Neya, Michiko', 'Sasanuma, Akira', 'Park, Romi', 'Kugimiya, Rie']
+animeStaff	[['Marchi, Jamie', 'Script'], ['Himaruya, Hidekaz', 'Original Creator'], ['Fukunaga, Gen', 'Executive Producer'], ['Bevins, Christopher', 'ADR Director']]

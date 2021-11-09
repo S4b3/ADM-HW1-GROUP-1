@@ -1,5 +1,5 @@
-animeTitle	b'Tokyo Juushouden'
-animeType	b'OVA'
+animeTitle	Tokyo Juushouden
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.34
 animeUsers	550
 animeRank	
-animePopularity	
-animeDescription	b'Long ago, in feudal Japan, there was a fierce warrior named the Demon King. He controlled a band of demons, known as the Kyouma. Only the powers of ten warriors sealed the Demon King away and kept the Kyouma under control. But now, Lord Shindigan, a powerful Kyouma is planning to free the Demon King, and the reincarnations of the ten warriors must band together and save the earth. \n\n(Source: ANN)'
-animeRelated	[b'Tokyo Juushouden: Fuuma Gogyou Denshou']
-animeCharacters	[b'Segu, Jutto', b'Kifu, Kokono', b'Ranba, Hagiri', b'Narutaki, Minawa', b'Shirogane, Hajime', b'Kagami, Kyoshiro', b'Kazamatsuri, Jingo', b'Nanao, Farina', b'Amitaka, Futaba', b'Hanawa, Rokumon']
-animeVoices	[b'\nMidorikawa, Hikaru\nJapanese\n', b'\nImai, Yuka\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nYanaka, Hiroshi\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nKimura, Akiko\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOoishi, Tetsuya\n\nScript\n\n', b'\nMiyamae, Mitsuharu\n\nArt Director\n\n', b'\nKoyama, Toshihisa\n\nArt Director\n\n', b'\nAkiyama, Kumi\n\nColor Setting\n\n']
+animePopularity	9738
+animeDescription	"Long ago, in feudal Japan, there was a fierce warrior named the Demon King. He controlled a band of demons, known as the Kyouma. Only the powers of ten warriors sealed the Demon King away and kept the Kyouma under control. But now, Lord Shindigan, a powerful Kyouma is planning to free the Demon King, and the reincarnations of the ten warriors must band together and save the earth. 
+
+(Source: ANN)"
+animeRelated	['Tokyo Juushouden: Fuuma Gogyou Denshou']
+animeCharacters	['Segu, Jutto', 'Kifu, Kokono', 'Ranba, Hagiri', 'Narutaki, Minawa', 'Shirogane, Hajime', 'Kagami, Kyoshiro', 'Kazamatsuri, Jingo', 'Nanao, Farina', 'Amitaka, Futaba', 'Hanawa, Rokumon']
+animeVoices	['Midorikawa, Hikaru', 'Imai, Yuka', 'Mitsuishi, Kotono', 'Yanaka, Hiroshi', 'Horiuchi, Kenyuu', 'Kosugi, Juurouta', 'Okiayu, Ryoutarou', 'Kimura, Akiko', 'Horie, Yui', 'Ootsuka, Houchuu']
+animeStaff	[['Ooishi, Tetsuya', 'Script'], ['Miyamae, Mitsuharu', 'Art Director'], ['Koyama, Toshihisa', 'Art Director'], ['Akiyama, Kumi', 'Color Setting']]

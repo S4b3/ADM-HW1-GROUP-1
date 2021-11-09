@@ -1,5 +1,5 @@
-animeTitle	b'One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna'
-animeType	b'Special'
+animeTitle	One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	8.14
 animeUsers	32055
 animeRank	
-animePopularity	
-animeDescription	b'A retelling of the Arlong Park arc, with new animation.'
-animeRelated	[b'One Piece']
-animeCharacters	[b'Monkey D., Luffy', b'Roronoa, Zoro', b'Sanji', b'Usopp', b'Nami', b'Arlong', b'Bellemere', b'Kuro', b'Jango', b'Hatchan']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTokoro, Katsumi\n\nDirector\n\n', b'\nAAA\n\nTheme Song Performance\n\n', b'\nOda, Eiichiro\n\nOriginal Creator\n\n', b'\nJouno, Masato\n\nPlanning\n\n']
+animePopularity	2314
+animeDescription	A retelling of the Arlong Park arc, with new animation.
+animeRelated	['One Piece']
+animeCharacters	['Monkey D., Luffy', 'Roronoa, Zoro', 'Sanji', 'Usopp', 'Nami', 'Arlong', 'Bellemere', 'Kuro', 'Jango', 'Hatchan']
+animeVoices	['Tanaka, Mayumi', 'Nakai, Kazuya', 'Hirata, Hiroaki', 'Yamaguchi, Kappei', 'Okamura, Akemi', 'Kosugi, Juurouta', 'Hidaka, Noriko', 'Morikawa, Toshiyuki']
+animeStaff	[['Tokoro, Katsumi', 'Director'], ['AAA', 'Theme Song Performance'], ['Oda, Eiichiro', 'Original Creator'], ['Jouno, Masato', 'Planning']]

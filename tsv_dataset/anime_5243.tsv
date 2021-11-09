@@ -1,5 +1,5 @@
-animeTitle	b'Akage no Anne: Green Gables e no Michi'
-animeType	b'Movie'
+animeTitle	Akage no Anne: Green Gables e no Michi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.67
 animeUsers	626
 animeRank	
-animePopularity	
-animeDescription	"b""A recap film of the first 6 episodes of the TV series.\n\nAnne is an orphan full of imagination. When she arrives at her new home she learns that sometimes you have to be a sensible person too; at the same time her unique character changes, or at least attracts, the people around her. The story covers Anne's growth from about eleven to seventeen years old as she makes friends, goes to school and studies. At a difficult point in her life, Anne will have to make a hard choice and perhaps find a new dream. """
-animeRelated	[b'Akage no Anne']
-animeCharacters	[b'Shirley, Anne', b'Cuthbert, Marilla', b'Sloane, Charlie']
-animeVoices	[b'\nYamada, Eiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahata, Isao\n\nDirector\n\n', b'\nKouyama, Seijirou\n\nScript\n\n', b'\nOowada, Ritsuko\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nKondou, Yoshifumi\n\nAnimation Director, Character Design\n\n']
+animePopularity	8716
+animeDescription	"A recap film of the first 6 episodes of the TV series.
+
+Anne is an orphan full of imagination. When she arrives at her new home she learns that sometimes you have to be a sensible person too; at the same time her unique character changes, or at least attracts, the people around her. The story covers Anne's growth from about eleven to seventeen years old as she makes friends, goes to school and studies. At a difficult point in her life, Anne will have to make a hard choice and perhaps find a new dream. "
+animeRelated	['Akage no Anne']
+animeCharacters	['Shirley, Anne', 'Cuthbert, Marilla', 'Sloane, Charlie']
+animeVoices	['Yamada, Eiko']
+animeStaff	[['Takahata, Isao', 'Director'], ['Kouyama, Seijirou', 'Script'], ['Oowada, Ritsuko', 'Theme Song Performance, Inserted Song Performance'], ['Kondou, Yoshifumi', 'Animation Director, Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'KimiKiss Pure Rouge'
-animeType	b'TV'
+animeTitle	KimiKiss Pure Rouge
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.3
 animeUsers	37428
 animeRank	
-animePopularity	
-animeDescription	"b""Kouichi Sanada and Kazuki Aihara's childhood friend Mao Mizusawa has returned after living in France for a couple of years. Kouichi is surprised to learn that, since her parents are remaining overseas for the time being, his mother has agreed to let Mao stay with them. The three friends help each other deal with the ups and downs of high school romance.\n\n(Source: ANN)"""
-animeRelated	[b'KimiKiss: Various Heroines', b'KimiKiss Pure Rouge: Love Fighter']
-animeCharacters	[b'Futami, Eriko', b'Mizusawa, Mao', b'Hoshino, Yuumi', b'Sakino, Asuka', b'Aihara, Kazuki', b'Kai, Eiji', b'Sanada, Kouichi', b'Satonaka, Narumi', b'Aihara, Nana', b'Kawada, Tomoko']
-animeVoices	[b'\nTanaka, Rie\nJapanese\n', b'\nIkezawa, Haruna\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nNogawa, Sakura\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatomi, Tetsurou\n\nProducer\n\n', b'\nKasai, Kenichi\n\nDirector, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nTakashima, Daisuke\n\nEpisode Director\n\n']
+animePopularity	1825
+animeDescription	"Kouichi Sanada and Kazuki Aihara's childhood friend Mao Mizusawa has returned after living in France for a couple of years. Kouichi is surprised to learn that, since her parents are remaining overseas for the time being, his mother has agreed to let Mao stay with them. The three friends help each other deal with the ups and downs of high school romance.
+
+(Source: ANN)"
+animeRelated	['KimiKiss: Various Heroines', 'KimiKiss Pure Rouge: Love Fighter']
+animeCharacters	['Futami, Eriko', 'Mizusawa, Mao', 'Hoshino, Yuumi', 'Sakino, Asuka', 'Aihara, Kazuki', 'Kai, Eiji', 'Sanada, Kouichi', 'Satonaka, Narumi', 'Aihara, Nana', 'Kawada, Tomoko']
+animeVoices	['Tanaka, Rie', 'Ikezawa, Haruna', 'Koshimizu, Ami', 'Hirohashi, Ryou', 'Mizushima, Takahiro', 'Sakurai, Takahiro', 'Hino, Satoshi', 'Mizuhashi, Kaori', 'Nogawa, Sakura', 'Kawasumi, Ayako']
+animeStaff	[['Satomi, Tetsurou', 'Producer'], ['Kasai, Kenichi', 'Director, Storyboard'], ['Aketagawa, Jin', 'Sound Director'], ['Takashima, Daisuke', 'Episode Director']]

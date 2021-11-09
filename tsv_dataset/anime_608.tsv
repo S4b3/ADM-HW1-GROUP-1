@@ -1,5 +1,5 @@
-animeTitle	b'Naruto'
-animeType	b'TV'
+animeTitle	Naruto
+animeType	TV
 animeNumEpisode	220
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.95
 animeUsers	1507822
 animeRank	
-animePopularity	
-animeDescription	"b""Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto.\n\nNow, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Naruto', b'Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!', b'Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!', b'Naruto: Akaki Yotsuba no Clover wo Sagase', b'Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!', b'Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!', b'Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!', b'Naruto: The Cross Roads', b'Naruto: Shippuuden']
-animeCharacters	[b'Uzumaki, Naruto', b'Hatake, Kakashi', b'Uchiha, Sasuke', b'Haruno, Sakura', b'Uchiha, Itachi', b'Nara, Shikamaru', b'Hyuuga, Hinata', b'Gaara', b'Jiraiya', b'Namikaze, Minato']
-animeVoices	[b'\nTakeuchi, Junko\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nNakamura, Chie\nJapanese\n', b'\nIshikawa, Hideo\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Noriko\n\nProducer\n\n', b'\nDate, Hayato\n\nDirector, Episode Director, Storyboard\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nWakabayashi, Atsushi\n\nEpisode Director, Storyboard, Animation Director, Key Animation\n\n']
+animePopularity	8
+animeDescription	"Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto.
+
+Now, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes.
+
+[Written by MAL Rewrite]"
+animeRelated	['Naruto', 'Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!', 'Naruto: Takigakure no Shitou - Ore ga Eiyuu Dattebayo!', 'Naruto: Akaki Yotsuba no Clover wo Sagase', 'Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!', 'Naruto Narutimate Hero 3: Tsuini Gekitotsu! Jounin vs. Genin!! Musabetsu Dairansen Taikai Kaisai!!', 'Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!', 'Naruto: The Cross Roads', 'Naruto: Shippuuden']
+animeCharacters	['Uzumaki, Naruto', 'Hatake, Kakashi', 'Uchiha, Sasuke', 'Haruno, Sakura', 'Uchiha, Itachi', 'Nara, Shikamaru', 'Hyuuga, Hinata', 'Gaara', 'Jiraiya', 'Namikaze, Minato']
+animeVoices	['Takeuchi, Junko', 'Inoue, Kazuhiko', 'Sugiyama, Noriaki', 'Nakamura, Chie', 'Ishikawa, Hideo', 'Canna, Nobutoshi', 'Mizuki, Nana', 'Ishida, Akira', 'Ootsuka, Houchuu', 'Morikawa, Toshiyuki']
+animeStaff	[['Kobayashi, Noriko', 'Producer'], ['Date, Hayato', 'Director, Episode Director, Storyboard'], ['Ebina, Yasunori', 'Sound Director'], ['Wakabayashi, Atsushi', 'Episode Director, Storyboard, Animation Director, Key Animation']]

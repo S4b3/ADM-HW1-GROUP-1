@@ -1,5 +1,5 @@
-animeTitle	b'Haiyore! Nyaruko-san F'
-animeType	b'OVA'
+animeTitle	Haiyore! Nyaruko-san F
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.48
 animeUsers	25084
 animeRank	
-animePopularity	
-animeDescription	b'A new OVA of the light novel Haiyore! Nyaruko-san, titled Haiyore! Nyaruko-san F, has been green-lit.\n\n(Source: MAL News)'
-animeRelated	[b'Haiyore! Nyaruko-san', b'Haiyore! Nyaruko-san W']
-animeCharacters	[b'Nyaruko', b'Cthuko', b'Hasuta', b'Yasaka, Mahiro', b'Atoko', b'Shantak-kun', b'Kurei, Tamao', b'Yasaka, Yoriko', b'Yoichi, Takehiko']
-animeVoices	[b'\nAsumi, Kana\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nYamamoto, Nozomi\nJapanese\n', b'\nArai, Satomi\nJapanese\n', b'\nOotsubo, Yuka\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nHatano, Wataru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagasawa, Tsuyoshi\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nAsumi, Kana\n\nTheme Song Performance\n\n', b'\nMatsuki, Miyu\n\nTheme Song Performance\n\n']
+animePopularity	2480
+animeDescription	"A new OVA of the light novel Haiyore! Nyaruko-san, titled Haiyore! Nyaruko-san F, has been green-lit.
+
+(Source: MAL News)"
+animeRelated	['Haiyore! Nyaruko-san', 'Haiyore! Nyaruko-san W']
+animeCharacters	['Nyaruko', 'Cthuko', 'Hasuta', 'Yasaka, Mahiro', 'Atoko', 'Shantak-kun', 'Kurei, Tamao', 'Yasaka, Yoriko', 'Yoichi, Takehiko']
+animeVoices	['Asumi, Kana', 'Matsuki, Miyu', 'Kugimiya, Rie', 'Kitamura, Eri', 'Yamamoto, Nozomi', 'Arai, Satomi', 'Ootsubo, Yuka', 'Hisakawa, Aya', 'Hatano, Wataru']
+animeStaff	[['Nagasawa, Tsuyoshi', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Asumi, Kana', 'Theme Song Performance'], ['Matsuki, Miyu', 'Theme Song Performance']]

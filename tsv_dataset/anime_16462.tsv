@@ -1,5 +1,5 @@
-animeTitle	b'Juugo Shounen Hyouryuuki: Kaizokujima de! Daibouken'
-animeType	b'Movie'
+animeTitle	Juugo Shounen Hyouryuuki: Kaizokujima de! Daibouken
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'The film is based on the Jules Verne novel ""Adrift in the Pacific: Two Years Holiday"" published in 1888. A group of youngsters find themselves adrift at sea, and after a terrible storm they are cast upon a deserted island, where they must learn to get along with each other in order to survive. \n\nOn this occasion, the human protagonists are replaced by cats.'"
-animeRelated	[b'Juugo Shounen Hyouryuuki', b'Hitomi no Naka no Shounen: Juugo Shounen Hyouryuuki']
-animeCharacters	[b'Lemon', b'Quincy', b'Mangosty', b'Pirate Anion', b'Dorian', b'Cherry']
-animeVoices	[b'\nToyosaki, Aki\nJapanese\n', b'\nNakatsu, Mari\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nMatsukata, Hiroki\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nOno, Karin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Ryuutarou\n\nDirector\n\n', b'\nYanagawa, Shigeru\n\nScript\n\n']
+animePopularity	14410
+animeDescription	"The film is based on the Jules Verne novel ""Adrift in the Pacific: Two Years Holiday"" published in 1888. A group of youngsters find themselves adrift at sea, and after a terrible storm they are cast upon a deserted island, where they must learn to get along with each other in order to survive. 
+
+On this occasion, the human protagonists are replaced by cats."
+animeRelated	['Juugo Shounen Hyouryuuki', 'Hitomi no Naka no Shounen: Juugo Shounen Hyouryuuki']
+animeCharacters	['Lemon', 'Quincy', 'Mangosty', 'Pirate Anion', 'Dorian', 'Cherry']
+animeVoices	['Toyosaki, Aki', 'Nakatsu, Mari', 'Ono, Kensho', 'Matsukata, Hiroki', 'Matsumoto, Rica', 'Ono, Karin']
+animeStaff	[['Nakamura, Ryuutarou', 'Director'], ['Yanagawa, Shigeru', 'Script']]

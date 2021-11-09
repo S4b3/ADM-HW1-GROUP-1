@@ -1,5 +1,5 @@
-animeTitle	b'World Trigger'
-animeType	b'TV'
+animeTitle	World Trigger
+animeType	TV
 animeNumEpisode	73
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.58
 animeUsers	96900
 animeRank	
-animePopularity	
-animeDescription	"b'When a gate to another world suddenly opens on Earth, Mikado City is invaded by strange creatures known as ""Neighbors,"" malicious beings impervious to traditional weaponry. In response to their arrival, an organization called the Border Defense Agency has been established to combat the Neighbor menace through special weapons called ""Triggers."" Even though several years have passed after the gate first opened, Neighbors are still a threat and members of Border remain on guard to ensure the safety of the planet.\n\nDespite this delicate situation, members-in-training, such as Osamu Mikumo, are not permitted to use their Triggers outside of headquarters. But when the mysterious new student in his class is dragged into a forbidden area by bullies, they are attacked by Neighbors, and Osamu has no choice but to do what he believes is right. Much to his surprise, however, the transfer student Yuuma Kuga makes short work of the aliens, revealing that he is a humanoid Neighbor in disguise.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'World Trigger', b'World Trigger 2nd Season']
-animeCharacters	[b'Kuga, Yuuma', b'Jin, Yuuichi', b'Mikumo, Osamu', b'Amatori, Chika', b'Konami, Kirie', b'Hyuse', b'Rindou, Youtarou', b'Kazama, Souya', b'Izumi, Kouhei', b'Replica']
-animeVoices	[b'\nMuranaka, Tomo\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nTamura, Nao\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nUrawa, Megumi\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHongou, Mitsuru\n\nDirector, Episode Director, Storyboard\n\n', b'\nOgawa, Kouji\n\nDirector, Episode Director\n\n', b'\nKakudou, Hiroyuki\n\nEpisode Director, Storyboard\n\n', b'\nKarasawa, Kazuya\n\nEpisode Director\n\n']
+animePopularity	526
+animeDescription	"When a gate to another world suddenly opens on Earth, Mikado City is invaded by strange creatures known as ""Neighbors,"" malicious beings impervious to traditional weaponry. In response to their arrival, an organization called the Border Defense Agency has been established to combat the Neighbor menace through special weapons called ""Triggers."" Even though several years have passed after the gate first opened, Neighbors are still a threat and members of Border remain on guard to ensure the safety of the planet.
+
+Despite this delicate situation, members-in-training, such as Osamu Mikumo, are not permitted to use their Triggers outside of headquarters. But when the mysterious new student in his class is dragged into a forbidden area by bullies, they are attacked by Neighbors, and Osamu has no choice but to do what he believes is right. Much to his surprise, however, the transfer student Yuuma Kuga makes short work of the aliens, revealing that he is a humanoid Neighbor in disguise.
+
+[Written by MAL Rewrite]"
+animeRelated	['World Trigger', 'World Trigger 2nd Season']
+animeCharacters	['Kuga, Yuuma', 'Jin, Yuuichi', 'Mikumo, Osamu', 'Amatori, Chika', 'Konami, Kirie', 'Hyuse', 'Rindou, Youtarou', 'Kazama, Souya', 'Izumi, Kouhei', 'Replica']
+animeVoices	['Muranaka, Tomo', 'Nakamura, Yuuichi', 'Kaji, Yuki', 'Tamura, Nao', 'Kugimiya, Rie', 'Shimazaki, Nobunaga', 'Urawa, Megumi', 'Midorikawa, Hikaru', 'Ishikawa, Kaito', 'Tanaka, Hideyuki']
+animeStaff	[['Hongou, Mitsuru', 'Director, Episode Director, Storyboard'], ['Ogawa, Kouji', 'Director, Episode Director'], ['Kakudou, Hiroyuki', 'Episode Director, Storyboard'], ['Karasawa, Kazuya', 'Episode Director']]

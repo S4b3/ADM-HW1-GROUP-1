@@ -1,5 +1,5 @@
-animeTitle	b'Chikan Juunin-tai The Animation'
-animeType	b'OVA'
+animeTitle	Chikan Juunin-tai The Animation
+animeType	OVA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.94
 animeUsers	785
 animeRank	
-animePopularity	
-animeDescription	"b'There are nine men and a single woman called ""Chikan Juunin-tai"" (the 10 pursuers). They make their client\'s dreams come true, that wish to be ""pursued"" on a train. \n\n(Source: ANN) '"
+animePopularity	8871
+animeDescription	"There are nine men and a single woman called ""Chikan Juunin-tai"" (the 10 pursuers). They make their client's dreams come true, that wish to be ""pursued"" on a train. 
+
+(Source: ANN) "
 animeRelated	[]
-animeCharacters	[b'Takahashi, Akane ', b'Honmei, Lee', b'Miyanomori, Mika']
-animeVoices	[b'\nNarumi, Erika\nJapanese\n', b'\nKodama, Satomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshimoto, Takuji\n\nCharacter Design\n\n']
+animeCharacters	['Takahashi, Akane ', 'Honmei, Lee', 'Miyanomori, Mika']
+animeVoices	['Narumi, Erika', 'Kodama, Satomi']
+animeStaff	[['Yoshimoto, Takuji', 'Character Design']]

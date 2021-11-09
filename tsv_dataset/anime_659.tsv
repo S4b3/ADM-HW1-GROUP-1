@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III (2015)'
-animeType	b'TV'
+animeTitle	Lupin III (2015)
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.92
 animeUsers	17193
 animeRank	
-animePopularity	
-animeDescription	b'Lupin is the main character in this series which takes place in Italy and San Marino.\n\nReflecting its setting, the anime debuted in Italy before it aired in Japan. Lupin III fans will note that the titular thief now dons a blue coat, following his earlier appearances in green (first series and some OVAs), red (the second series as well as most films and television specials) and pink (third series).\n\n(Source: Crunchyroll)'
-animeRelated	[b'Lupin III (2015)', b'Lupin III: Part III', b'Lupin III (2015): Italian Game', b'Lupin III (2015) Specials', b'Lupin III: Part 5']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi', b'Rossellini, Rebecca', b'Nix', b'Da Vinci', b'Livia', b'Luca']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nFujii, Yukiyo\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nNojima, Kenji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTomonaga, Kazuhide\n\nDirector, Episode Director, Storyboard, Key Animation, Character Design\n\n', b'\nYano, Yuuichirou\n\nDirector\n\n', b'\nShimizu, Youji\n\nSound Director\n\n', b'\nKobayashi, Osamu\n\nEpisode Director, Storyboard, Key Animation, Mechanical Design, Background Art\n\n']
+animePopularity	2324
+animeDescription	"Lupin is the main character in this series which takes place in Italy and San Marino.
+
+Reflecting its setting, the anime debuted in Italy before it aired in Japan. Lupin III fans will note that the titular thief now dons a blue coat, following his earlier appearances in green (first series and some OVAs), red (the second series as well as most films and television specials) and pink (third series).
+
+(Source: Crunchyroll)"
+animeRelated	['Lupin III (2015)', 'Lupin III: Part III', 'Lupin III (2015): Italian Game', 'Lupin III (2015) Specials', 'Lupin III: Part 5']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Rossellini, Rebecca', 'Nix', 'Da Vinci', 'Livia', 'Luca']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Sawashiro, Miyuki', 'Namikawa, Daisuke', 'Yamadera, Kouichi', 'Fujii, Yukiyo', 'Sakuya, Shunsuke', 'Inoue, Kazuhiko', 'Ohara, Sayaka', 'Nojima, Kenji']
+animeStaff	[['Tomonaga, Kazuhide', 'Director, Episode Director, Storyboard, Key Animation, Character Design'], ['Yano, Yuuichirou', 'Director'], ['Shimizu, Youji', 'Sound Director'], ['Kobayashi, Osamu', 'Episode Director, Storyboard, Key Animation, Mechanical Design, Background Art']]

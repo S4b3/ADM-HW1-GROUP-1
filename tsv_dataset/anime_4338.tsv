@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Ball: Ossu! Kaettekita Son Gokuu to Nakama-tachi!!'
-animeType	b'Special'
+animeTitle	Dragon Ball: Ossu! Kaettekita Son Gokuu to Nakama-tachi!!
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.86
 animeUsers	26883
 animeRank	
-animePopularity	
-animeDescription	"b""Based on an original concept by the original author Akira Toriyama, the story, set shortly after the defeat of Majin Buu, pits Son Gokuu and his friends against a new, powerful enemy.\n\nThis special introduces four new characters: Abo and Kado red and blue aliens wearing battle fatigues similar to Frieza's army, one tiny yellow alien, and a young Saiyan child who vaguely resembles Vegeta named Tarble. Though very little about the plot has been revealed, Tarble has arrived on Earth, being pursued by Abo and Kado.\n\n(Source: Wikipedia)"""
-animeRelated	[b'Dragon Ball: Ossu! Kaettekita Son Gokuu to Nakama-tachi!!', b'Dragon Ball Z']
-animeCharacters	[b'Son, Gokuu', b'Vegeta', b'Trunks', b'Son, Goten', b'Tarble', b'Son, Gohan', b'Piccolo', b'Bulma', b'Muten-Roushi', b'Kuririn']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nMorita, Masakazu\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nMasuoka, Hiroshi\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Yoshihiro\n\nDirector\n\n', b'\nKoyama, Takao\n\nScript\n\n', b'\nToriyama, Akira\n\nOriginal Creator\n\n', b'\nKikuchi, Shunsuke\n\nMusic\n\n']
+animePopularity	2625
+animeDescription	"Based on an original concept by the original author Akira Toriyama, the story, set shortly after the defeat of Majin Buu, pits Son Gokuu and his friends against a new, powerful enemy.
+
+This special introduces four new characters: Abo and Kado red and blue aliens wearing battle fatigues similar to Frieza's army, one tiny yellow alien, and a young Saiyan child who vaguely resembles Vegeta named Tarble. Though very little about the plot has been revealed, Tarble has arrived on Earth, being pursued by Abo and Kado.
+
+(Source: Wikipedia)"
+animeRelated	['Dragon Ball: Ossu! Kaettekita Son Gokuu to Nakama-tachi!!', 'Dragon Ball Z']
+animeCharacters	['Son, Gokuu', 'Vegeta', 'Trunks', 'Son, Goten', 'Tarble', 'Son, Gohan', 'Piccolo', 'Bulma', 'Muten-Roushi', 'Kuririn']
+animeVoices	['Nozawa, Masako', 'Horikawa, Ryo', 'Kusao, Takeshi', 'Morita, Masakazu', 'Furukawa, Toshio', 'Tsuru, Hiromi', 'Masuoka, Hiroshi', 'Tanaka, Mayumi']
+animeStaff	[['Ueda, Yoshihiro', 'Director'], ['Koyama, Takao', 'Script'], ['Toriyama, Akira', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music']]

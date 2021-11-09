@@ -1,5 +1,5 @@
-animeTitle	b'Touch: Sebangou no Nai Ace'
-animeType	b'Movie'
+animeTitle	Touch: Sebangou no Nai Ace
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.73
 animeUsers	781
 animeRank	
-animePopularity	
-animeDescription	b'Compilation movie of the first year of Touch timeline. Contains plot differences, added scenes and an alternate ending.\n\n(Source: Crunchyroll)'
-animeRelated	[b'Touch', b'Touch 2: Sayonara no Okurimono']
-animeCharacters	[b'Uesugi, Tatsuya', b'Asakura, Minami', b'Uesugi, Kazuya', b'Harada, Shouhei', b'Punch', b'Matsudaira, Koutarou', b'Nishio, Sachiko', b'Master', b'Kuroki, Takeshi', b'Captain of Boxing Team']
-animeVoices	[b'\nMitsuya, Yuuji\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nNanba, Keiichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugii, Gisaburou\n\nDirector, Script\n\n', b'\nAdachi, Mitsuru\n\nOriginal Creator\n\n', b'\nOota, Masahiko\n\nIn-Between Animation\n\n', b'\nSerizawa, Hiroaki\n\nMusic\n\n']
+animePopularity	9330
+animeDescription	"Compilation movie of the first year of Touch timeline. Contains plot differences, added scenes and an alternate ending.
+
+(Source: Crunchyroll)"
+animeRelated	['Touch', 'Touch 2: Sayonara no Okurimono']
+animeCharacters	['Uesugi, Tatsuya', 'Asakura, Minami', 'Uesugi, Kazuya', 'Harada, Shouhei', 'Punch', 'Matsudaira, Koutarou', 'Nishio, Sachiko', 'Master', 'Kuroki, Takeshi', 'Captain of Boxing Team']
+animeVoices	['Mitsuya, Yuuji', 'Hidaka, Noriko', 'Nanba, Keiichi']
+animeStaff	[['Sugii, Gisaburou', 'Director, Script'], ['Adachi, Mitsuru', 'Original Creator'], ['Oota, Masahiko', 'In-Between Animation'], ['Serizawa, Hiroaki', 'Music']]

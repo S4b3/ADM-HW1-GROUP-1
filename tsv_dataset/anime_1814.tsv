@@ -1,5 +1,5 @@
-animeTitle	b'Mahou Shoujo Lyrical Nanoha: Reflection'
-animeType	b'Movie'
+animeTitle	Mahou Shoujo Lyrical Nanoha: Reflection
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.45
 animeUsers	3442
 animeRank	
-animePopularity	
-animeDescription	"b""A pair of researchers stays behind on their dying planet of Eltria with their two daughters, Amitie and Kirie, in hopes of finding a way to revive the planet. But when the husband Granz falls ill it seems their dream of reviving the planet will die. Against her older sister's wishes, Kirie sets off with her childhood friend Iris to seek help from a distant alternate world. They arrive in Japan on Earth to search for the key to their planet's regeneration. There, they meet Nanoha, Fate, and Hayate.\n\n(Source: ANN)"""
-animeRelated	"[b'Mahou Shoujo Lyrical Nanoha: Reflection the Comics', b""Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's"", b'Mahou Shoujo Lyrical Nanoha: Detonation']"
-animeCharacters	[b'Testarossa, Fate', b'Takamachi, Nanoha', b'Yagami, Hayate', b'Florian, Kyrie', b'Iris', b'Florian, Amitie', b'Vita', b'Signum', b'Reinforce II', b'Scrya, Yuuno']
-animeVoices	[b'\nMizuki, Nana\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nSanada, Asami\nJapanese\n', b'\nShimizu, Kaori\nJapanese\n', b'\nYukana\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHamana, Takayuki\n\nDirector\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nTsuzuki, Masaki\n\nScript, Original Creator\n\n', b'\nMizuki, Nana\n\nTheme Song Performance, Inserted Song Performance\n\n']
+animePopularity	4932
+animeDescription	"A pair of researchers stays behind on their dying planet of Eltria with their two daughters, Amitie and Kirie, in hopes of finding a way to revive the planet. But when the husband Granz falls ill it seems their dream of reviving the planet will die. Against her older sister's wishes, Kirie sets off with her childhood friend Iris to seek help from a distant alternate world. They arrive in Japan on Earth to search for the key to their planet's regeneration. There, they meet Nanoha, Fate, and Hayate.
+
+(Source: ANN)"
+animeRelated	"['Mahou Shoujo Lyrical Nanoha: Reflection the Comics', ""Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's"", 'Mahou Shoujo Lyrical Nanoha: Detonation']"
+animeCharacters	['Testarossa, Fate', 'Takamachi, Nanoha', 'Yagami, Hayate', 'Florian, Kyrie', 'Iris', 'Florian, Amitie', 'Vita', 'Signum', 'Reinforce II', 'Scrya, Yuuno']
+animeVoices	['Mizuki, Nana', 'Tamura, Yukari', 'Ueda, Kana', 'Satou, Satomi', 'Hikasa, Youko', 'Tomatsu, Haruka', 'Sanada, Asami', 'Shimizu, Kaori', 'Yukana', 'Mizuhashi, Kaori']
+animeStaff	[['Hamana, Takayuki', 'Director'], ['Kameyama, Toshiki', 'Sound Director'], ['Tsuzuki, Masaki', 'Script, Original Creator'], ['Mizuki, Nana', 'Theme Song Performance, Inserted Song Performance']]

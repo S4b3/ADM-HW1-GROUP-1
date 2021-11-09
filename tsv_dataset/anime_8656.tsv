@@ -1,5 +1,5 @@
-animeTitle	b'Time Bokan 2000: Kaitou Kiramekiman'
-animeType	b'TV'
+animeTitle	Time Bokan 2000: Kaitou Kiramekiman
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.0
 animeUsers	155
 animeRank	
-animePopularity	
-animeDescription	b'More Time Bokan adventures.'
-animeRelated	[b'Time Bokan']
-animeCharacters	[b'Narrator']
-animeVoices	[b'\nTakiguchi, Junpei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nUeda, Hidehito\n\nDirector, Episode Director, Storyboard\n\n', b'\nShimizu, Katsunori\n\nSound Director\n\n', b'\nSokuza, Makoto\n\nEpisode Director\n\n']
+animePopularity	11771
+animeDescription	More Time Bokan adventures.
+animeRelated	['Time Bokan']
+animeCharacters	['Narrator']
+animeVoices	['Takiguchi, Junpei']
+animeStaff	[['Sasagawa, Hiroshi', 'Director'], ['Ueda, Hidehito', 'Director, Episode Director, Storyboard'], ['Shimizu, Katsunori', 'Sound Director'], ['Sokuza, Makoto', 'Episode Director']]

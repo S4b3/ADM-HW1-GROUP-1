@@ -1,5 +1,5 @@
-animeTitle	b'Gundam vs Hello Kitty'
-animeType	b'ONA'
+animeTitle	Gundam vs Hello Kitty
+animeType	ONA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.51
 animeUsers	2047
 animeRank	
-animePopularity	
-animeDescription	b'While preparing for a tea party, Hello Kitty receives a distress signal from Haro. She travels to the Universal Century timeline to help Amuro Ray and the Gundam end the One Year War.\n\nCross-promotion to commemorate the 40th anniversary of Gundam and the 45th anniversary of Hello Kitty.\n\n(Source: ANN)'
-animeRelated	[b'Mobile Suit Gundam', b'Daisuki! Hello Kitty']
-animeCharacters	[b'Ray, Amuro', b'White, Kitty']
+animePopularity	7374
+animeDescription	"While preparing for a tea party, Hello Kitty receives a distress signal from Haro. She travels to the Universal Century timeline to help Amuro Ray and the Gundam end the One Year War.
+
+Cross-promotion to commemorate the 40th anniversary of Gundam and the 45th anniversary of Hello Kitty.
+
+(Source: ANN)"
+animeRelated	['Mobile Suit Gundam', 'Daisuki! Hello Kitty']
+animeCharacters	['Ray, Amuro', 'White, Kitty']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujino, Sadayoshi\n\nSound Director\n\n', b'\nKaneko, Yuuji\n\nArt Director\n\n', b'\nKotobuki, Tsukasa\n\nAnimation Director\n\n', b'\nKawashita, Yuuki\n\nDirector of Photography\n\n']
+animeStaff	[['Fujino, Sadayoshi', 'Sound Director'], ['Kaneko, Yuuji', 'Art Director'], ['Kotobuki, Tsukasa', 'Animation Director'], ['Kawashita, Yuuki', 'Director of Photography']]

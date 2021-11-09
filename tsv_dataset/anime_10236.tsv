@@ -1,5 +1,5 @@
-animeTitle	b'Firestorm'
-animeType	b'TV'
+animeTitle	Firestorm
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.54
 animeUsers	183
 animeRank	
-animePopularity	
-animeDescription	"b'It is the year 2104 AD. The terrible war is over and peace seemed close in the world. However, there is one thing that can bring down this peace. That is the criminal organisation who\'s power and actions are widespread across the world... The Black Orchid.\n\nFrom the main countries of the world, the ""Storm Force"" was formed to take down the Black Orchid. They are also known under the code name ""Fire Storm"".\n\n(Source: AniDB)'"
+animePopularity	10549
+animeDescription	"It is the year 2104 AD. The terrible war is over and peace seemed close in the world. However, there is one thing that can bring down this peace. That is the criminal organisation who's power and actions are widespread across the world... The Black Orchid.
+
+From the main countries of the world, the ""Storm Force"" was formed to take down the Black Orchid. They are also known under the code name ""Fire Storm"".
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Kisaragi, Nagisa', b'Brady, James', b'Hope, Laura', b'MacAllister, Drew', b'Scott, Sam', b'Grant, Wesley', b'Lucy']
-animeVoices	[b'\nTakamori, Yoshino\nJapanese\n', b'\nHorikawa, Jin\nJapanese\n', b'\nSumitomo, Yuuko\nJapanese\n', b'\nWatabe, Takeshi\nJapanese\n', b'\nTakatsuka, Masaya\nJapanese\n', b'\nShimura, Tomoyuki\nJapanese\n', b'\nShioyama, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTerada, Kenji\n\nDirector, Script, Screenplay\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nOgiwara, Rokou\n\nEpisode Director\n\n', b'\nKatsu, Seiji\n\nTheme Song Composition\n\n']
+animeCharacters	['Kisaragi, Nagisa', 'Brady, James', 'Hope, Laura', 'MacAllister, Drew', 'Scott, Sam', 'Grant, Wesley', 'Lucy']
+animeVoices	['Takamori, Yoshino', 'Horikawa, Jin', 'Sumitomo, Yuuko', 'Watabe, Takeshi', 'Takatsuka, Masaya', 'Shimura, Tomoyuki', 'Shioyama, Yuka']
+animeStaff	[['Terada, Kenji', 'Director, Script, Screenplay'], ['Watanabe, Jun', 'Sound Director'], ['Ogiwara, Rokou', 'Episode Director'], ['Katsu, Seiji', 'Theme Song Composition']]

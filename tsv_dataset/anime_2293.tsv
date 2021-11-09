@@ -1,5 +1,5 @@
-animeTitle	b'Detective Conan OVA 02: 16 Suspects'
-animeType	b'OVA'
+animeTitle	Detective Conan OVA 02: 16 Suspects
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.32
 animeUsers	7812
 animeRank	
-animePopularity	
-animeDescription	"b""Conan Edogawa and the rest of the gang are invited to Inspector Ninzaburou Shiratori's villa for a small gathering. The party's highlight is Shiratori's prized wine collection\xe2\x80\x94including his most expensive vintage\xe2\x80\x94and a bottle from it will be served for the evening. However, just as this wine is to be brought out, Shiratori finds the bottle smashed on the floor\xe2\x80\x94and the culprit can only be among the 16 people present in the gathering.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Detective Conan']
-animeCharacters	[b'Edogawa, Conan', b'Hattori, Heiji', b'Haibara, Ai', b'Mouri, Ran', b'Mouri, Kogorou', b'Takagi, Wataru', b'Tooyama, Kazuha', b'Agasa, Hiroshi', b'Suzuki, Sonoko', b'Yoshida, Ayumi']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nMiyamura, Yuko\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n', b'\nIwai, Yukiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Yasuichiro\n\nDirector, Storyboard\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nKuraki, Mai\n\nTheme Song Performance\n\n', b'\nAoyama, Gosho\n\nOriginal Creator\n\n']
+animePopularity	4509
+animeDescription	"Conan Edogawa and the rest of the gang are invited to Inspector Ninzaburou Shiratori's villa for a small gathering. The party's highlight is Shiratori's prized wine collection—including his most expensive vintage—and a bottle from it will be served for the evening. However, just as this wine is to be brought out, Shiratori finds the bottle smashed on the floor—and the culprit can only be among the 16 people present in the gathering.
+
+[Written by MAL Rewrite]"
+animeRelated	['Detective Conan']
+animeCharacters	['Edogawa, Conan', 'Hattori, Heiji', 'Haibara, Ai', 'Mouri, Ran', 'Mouri, Kogorou', 'Takagi, Wataru', 'Tooyama, Kazuha', 'Agasa, Hiroshi', 'Suzuki, Sonoko', 'Yoshida, Ayumi']
+animeVoices	['Takayama, Minami', 'Horikawa, Ryo', 'Hayashibara, Megumi', 'Yamazaki, Wakana', 'Takagi, Wataru', 'Miyamura, Yuko', 'Ogata, Kenichi', 'Matsui, Naoko', 'Iwai, Yukiko']
+animeStaff	[['Yamamoto, Yasuichiro', 'Director, Storyboard'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Kuraki, Mai', 'Theme Song Performance'], ['Aoyama, Gosho', 'Original Creator']]

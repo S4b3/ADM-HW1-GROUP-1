@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon: Pikachu Tankentai'
-animeType	b'Movie'
+animeTitle	Pokemon: Pikachu Tankentai
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.53
 animeUsers	12668
 animeRank	
-animePopularity	
-animeDescription	b'Pikachu and friends must rescue lost Togepi.\n\n(Source: Bulbapedia)'
-animeRelated	[b'Pokemon', b'Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan']
-animeCharacters	[b'Pikachu', b'Nyarth', b'Togepi', b'Fushigidane', b'Elekid', b'Satoshi', b'Kasumi', b'Eevee', b'Kenji', b'Narrator']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nAsada, Yuuji\n\nEpisode Director, Storyboard\n\n', b'\nSonoda, Hideki\n\nScript\n\n']
+animePopularity	3790
+animeDescription	"Pikachu and friends must rescue lost Togepi.
+
+(Source: Bulbapedia)"
+animeRelated	['Pokemon', 'Pokemon Movie 02: Maboroshi no Pokemon Lugia Bakutan']
+animeCharacters	['Pikachu', 'Nyarth', 'Togepi', 'Fushigidane', 'Elekid', 'Satoshi', 'Kasumi', 'Eevee', 'Kenji', 'Narrator']
+animeVoices	['Ootani, Ikue', 'Inuyama, Inuko', 'Koorogi, Satomi', 'Hayashibara, Megumi', 'Nozawa, Masako', 'Matsumoto, Rica', 'Iizuka, Mayumi', 'Touma, Yumi', 'Seki, Tomokazu']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Asada, Yuuji', 'Episode Director, Storyboard'], ['Sonoda, Hideki', 'Script']]

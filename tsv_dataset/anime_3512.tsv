@@ -1,5 +1,5 @@
-animeTitle	b'Happiness Charge PreCure! Movie: Ningyou no Kuni no Ballerina'
-animeType	b'Movie'
+animeTitle	Happiness Charge PreCure! Movie: Ningyou no Kuni no Ballerina
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.06
 animeUsers	1244
 animeRank	
-animePopularity	
-animeDescription	"b""The film's story is set in the Doll Kingdom where dolls reside. Happiness Charge PreCure are asked to help by a women named Tsumugi when the sudden appearance of Saiarks begin wrecking havoc upon the Kingdom. However all is not what it seems with the mysterious man Black Fang dwelling in the shadows.\n\n(Source: ANN)"""
-animeRelated	[b'Happiness Charge Precure!']
-animeCharacters	[b'Shirayuki, Hime', b'Hikawa, Iona ', b'Oomori, Yuuko', b'Aino, Megumi', b'Ribbon', b'Orihara, Tsumugi', b'Glasan', b'Sagara, Seiji', b'Blue', b'Black Fang ']
-animeVoices	[b'\nHan, Megumi\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nKitagawa, Rina\nJapanese\n', b'\nNakajima, Megumi\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nKobori, Miyuki\nJapanese\n', b'\nKanemoto, Ryousuke\nJapanese\n', b'\nYamamoto, Shouma\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTomatsu, Haruka\n\nInserted Song Performance\n\n', b'\nHan, Megumi\n\nInserted Song Performance\n\n', b'\nNakajima, Megumi\n\nInserted Song Performance\n\n', b'\nToudou, Izumi\n\nOriginal Creator\n\n']
+animePopularity	8296
+animeDescription	"The film's story is set in the Doll Kingdom where dolls reside. Happiness Charge PreCure are asked to help by a women named Tsumugi when the sudden appearance of Saiarks begin wrecking havoc upon the Kingdom. However all is not what it seems with the mysterious man Black Fang dwelling in the shadows.
+
+(Source: ANN)"
+animeRelated	['Happiness Charge Precure!']
+animeCharacters	['Shirayuki, Hime', 'Hikawa, Iona ', 'Oomori, Yuuko', 'Aino, Megumi', 'Ribbon', 'Orihara, Tsumugi', 'Glasan', 'Sagara, Seiji', 'Blue', 'Black Fang ']
+animeVoices	['Han, Megumi', 'Tomatsu, Haruka', 'Kitagawa, Rina', 'Nakajima, Megumi', 'Matsui, Naoko', 'Horie, Yui', 'Kobori, Miyuki', 'Kanemoto, Ryousuke', 'Yamamoto, Shouma', 'Morikawa, Toshiyuki']
+animeStaff	[['Tomatsu, Haruka', 'Inserted Song Performance'], ['Han, Megumi', 'Inserted Song Performance'], ['Nakajima, Megumi', 'Inserted Song Performance'], ['Toudou, Izumi', 'Original Creator']]

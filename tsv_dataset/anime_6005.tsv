@@ -1,5 +1,5 @@
-animeTitle	b'Black Jack ONA'
-animeType	b'ONA'
+animeTitle	Black Jack ONA
+animeType	ONA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.52
 animeUsers	553
 animeRank	
-animePopularity	
-animeDescription	b'Black Jack, a mysterious young unlicensed doctor with godlike skills, travels the world performing feats of impossible surgery, charging vast fees for his services, and challenging the corrupt practices of the medical establishment. This selection of stories, each adapted from a single original manga issue, focuses more on interpersonal relationships and back-story than most other Black Jack series. \n\n(Source: ANN)'
-animeRelated	[b'Black Jack', b'Black Jack (TV)']
-animeCharacters	[b'Hazama, Kuroo', b'Pinoko', b'Holmes, Rock', b'Honma, Joutarou']
-animeVoices	[b'\nOotsuka, Akio\nJapanese\n', b'\nUtada, Hikaru\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Osamu\n\nOriginal Creator\n\n', b'\nOohashi, Manabu\n\nBackground Art\n\n']
+animePopularity	8892
+animeDescription	"Black Jack, a mysterious young unlicensed doctor with godlike skills, travels the world performing feats of impossible surgery, charging vast fees for his services, and challenging the corrupt practices of the medical establishment. This selection of stories, each adapted from a single original manga issue, focuses more on interpersonal relationships and back-story than most other Black Jack series. 
+
+(Source: ANN)"
+animeRelated	['Black Jack', 'Black Jack (TV)']
+animeCharacters	['Hazama, Kuroo', 'Pinoko', 'Holmes, Rock', 'Honma, Joutarou']
+animeVoices	['Ootsuka, Akio', 'Utada, Hikaru', 'Canna, Nobutoshi']
+animeStaff	[['Tezuka, Osamu', 'Original Creator'], ['Oohashi, Manabu', 'Background Art']]

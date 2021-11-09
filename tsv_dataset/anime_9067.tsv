@@ -1,5 +1,5 @@
-animeTitle	b'D_Cide Traumerei the Animation'
-animeType	b'TV'
+animeTitle	D_Cide Traumerei the Animation
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	5.89
 animeUsers	3319
 animeRank	
-animePopularity	
-animeDescription	"b'When he was little, Ryuuhei Oda witnessed the death of his caring older brother, along with a mysterious mark that was left near his body. Now a second-year high school student, the outgoing and impulsive young boy spends his days doing what he loves most\xe2\x80\x94kickboxing.\n\nOne night on his way home, a peculiar creature bites Ryuuhei\'s leg and causes him to have a strange dream filled with odd entities. When he is attacked the next day by the same creatures in the real world, Jessica Clayborn and Aruto Fushibe come to his rescue, claiming that Ryuuhei is their new recruit.\n\nFaced with an imminent threat, Jessica urges a confused Ryuuhei to transform into a ""knocker-up,"" a person with the ability to confront the monsters hailing from the dreamscape. Using his talent for kickboxing to his advantage, Ryuuhei awakens his powers to save the city, only to come across a familiar mark\xe2\x80\x94a mark that he could never forget.\n\n[Written by MAL Rewrite]'"
+animePopularity	4013
+animeDescription	"When he was little, Ryuuhei Oda witnessed the death of his caring older brother, along with a mysterious mark that was left near his body. Now a second-year high school student, the outgoing and impulsive young boy spends his days doing what he loves most—kickboxing.
+
+One night on his way home, a peculiar creature bites Ryuuhei's leg and causes him to have a strange dream filled with odd entities. When he is attacked the next day by the same creatures in the real world, Jessica Clayborn and Aruto Fushibe come to his rescue, claiming that Ryuuhei is their new recruit.
+
+Faced with an imminent threat, Jessica urges a confused Ryuuhei to transform into a ""knocker-up,"" a person with the ability to confront the monsters hailing from the dreamscape. Using his talent for kickboxing to his advantage, Ryuuhei awakens his powers to save the city, only to come across a familiar mark—a mark that he could never forget.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Clayborn, Jessica', b'Fushibe, Aruto', b'Oda, Ryuuhei', b'Tris', b'Ibusaki, Eri', b'Mouri, Rena', b'Furukata, Randou', b'Oda, Junpei', b'Amami, Eru', b'Murase, Yoshichika']
-animeVoices	[b'\nYuuki, Aoi\nJapanese\n', b'\nHorie, Shun\nJapanese\n', b'\nAzakami, Youhei\nJapanese\n', b'\nMomono, Haruna\nJapanese\n', b'\nKouno, Marika\nJapanese\n', b'\nItou, Ayasa\nJapanese\n', b'\nSuganuma, Hisayoshi\nJapanese\n', b'\nSuyama, Akio\nJapanese\n', b'\nSakura, Kaoru\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKon, Yoshikazu\n\nDirector\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nShiina, Ringo\n\nTheme Song Lyrics\n\n', b'\nTokyo Jihen\n\nTheme Song Performance, Theme Song Arrangement\n\n']
+animeCharacters	['Clayborn, Jessica', 'Fushibe, Aruto', 'Oda, Ryuuhei', 'Tris', 'Ibusaki, Eri', 'Mouri, Rena', 'Furukata, Randou', 'Oda, Junpei', 'Amami, Eru', 'Murase, Yoshichika']
+animeVoices	['Yuuki, Aoi', 'Horie, Shun', 'Azakami, Youhei', 'Momono, Haruna', 'Kouno, Marika', 'Itou, Ayasa', 'Suganuma, Hisayoshi', 'Suyama, Akio', 'Sakura, Kaoru', 'Matsuoka, Yoshitsugu']
+animeStaff	[['Kon, Yoshikazu', 'Director'], ['Kameyama, Toshiki', 'Sound Director'], ['Shiina, Ringo', 'Theme Song Lyrics'], ['Tokyo Jihen', 'Theme Song Performance, Theme Song Arrangement']]

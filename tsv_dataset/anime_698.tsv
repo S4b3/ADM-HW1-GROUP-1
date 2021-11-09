@@ -1,5 +1,5 @@
-animeTitle	b'Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai'
-animeType	b'Movie'
+animeTitle	Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.9
 animeUsers	27792
 animeRank	
-animePopularity	
-animeDescription	b'Movie adaptation of the Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai BL light novel.'
-animeRelated	[b'Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai', b'Sekaiichi Hatsukoi', b'Sekaiichi Hatsukoi: Valentine-hen', b'Sekaiichi Hatsukoi: Propose-hen']
-animeCharacters	[b'Yokozawa, Takafumi', b'Kirishima, Zen', b'Takano, Masamune', b'Onodera, Ritsu', b'Yukina, Kou', b'Hatori, Yoshiyuki', b'Kirishima, Hiyori']
-animeVoices	[b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nHorie, Yui\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKon, Chiaki\n\nDirector\n\n', b'\nKita, Shuhei\n\nTheme Song Performance\n\n', b'\nClauson, Meis\n\nTheme Song Arrangement, Theme Song Composition\n\n', b'\nNakamura, Shungiku\n\nOriginal Character Design\n\n']
+animePopularity	2321
+animeDescription	Movie adaptation of the Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai BL light novel.
+animeRelated	['Sekaiichi Hatsukoi: Yokozawa Takafumi no Baai', 'Sekaiichi Hatsukoi', 'Sekaiichi Hatsukoi: Valentine-hen', 'Sekaiichi Hatsukoi: Propose-hen']
+animeCharacters	['Yokozawa, Takafumi', 'Kirishima, Zen', 'Takano, Masamune', 'Onodera, Ritsu', 'Yukina, Kou', 'Hatori, Yoshiyuki', 'Kirishima, Hiyori']
+animeVoices	['Horiuchi, Kenyuu', 'Furuya, Toru', 'Konishi, Katsuyuki', 'Nakamura, Yuuichi', 'Horie, Yui']
+animeStaff	[['Kon, Chiaki', 'Director'], ['Kita, Shuhei', 'Theme Song Performance'], ['Clauson, Meis', 'Theme Song Arrangement, Theme Song Composition'], ['Nakamura, Shungiku', 'Original Character Design']]

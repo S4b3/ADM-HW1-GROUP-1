@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon XY SP: Road to Kalos'
-animeType	b'Special'
+animeTitle	Pokemon XY SP: Road to Kalos
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.44
 animeUsers	2997
 animeRank	
-animePopularity	
-animeDescription	b'Prequel special to the Pokemon XY series.'
-animeRelated	[b'Pokemon Best Wishes! Season 2: Decolora Adventure', b'Pokemon XY']
-animeCharacters	[b'Pikachu', b'Satoshi']
+animePopularity	6093
+animeDescription	Prequel special to the Pokemon XY series.
+animeRelated	['Pokemon Best Wishes! Season 2: Decolora Adventure', 'Pokemon XY']
+animeCharacters	['Pikachu', 'Satoshi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n', b'\nSugimori, Ken\n\nOriginal Character Design\n\n']
+animeStaff	[['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design']]

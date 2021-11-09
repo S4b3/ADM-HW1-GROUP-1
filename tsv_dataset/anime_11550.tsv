@@ -1,5 +1,5 @@
-animeTitle	b'PES: Peace Eco Smile - Drive your Heart'
-animeType	b'ONA'
+animeTitle	PES: Peace Eco Smile - Drive your Heart
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	4.92
 animeUsers	457
 animeRank	
-animePopularity	
-animeDescription	"b""Special spin-off episode that aired between episodes three and four of the original PES series. Is also an ad to Toyota's new Vios vehicle."""
-animeRelated	[b'PES: Peace Eco Smile']
-animeCharacters	[b'Kurumi', b'NaSuBi']
+animePopularity	11342
+animeDescription	Special spin-off episode that aired between episodes three and four of the original PES series. Is also an ad to Toyota's new Vios vehicle.
+animeRelated	['PES: Peace Eco Smile']
+animeCharacters	['Kurumi', 'NaSuBi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOhara, Hidekazu\n\nDirector\n\n']
+animeStaff	[['Ohara, Hidekazu', 'Director']]

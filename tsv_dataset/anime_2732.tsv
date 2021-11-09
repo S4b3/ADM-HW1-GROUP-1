@@ -1,5 +1,5 @@
-animeTitle	b'Tom Sawyer no Bouken'
-animeType	b'TV'
+animeTitle	Tom Sawyer no Bouken
+animeType	TV
 animeNumEpisode	49
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.23
 animeUsers	2867
 animeRank	
-animePopularity	
-animeDescription	b'Tom Sawyer is a young boy growing up along the Mississippi River in the mid 1800s. Along with his best friend Huckleberry Finn, he spends his days ditching school, fishing, climbing trees and having adventures.\n\n(Source: ANN)'
-animeRelated	[b'Tom Sawyer no Bouken Specials', b'Shiawase Pasta Story']
-animeCharacters	"[b'Sawyer, Tom', b'Finn, Huckleberry', b'Thatcher, Rebecca', b'Mary', b'Temple, Alfred', b'Mitchell-sensei', b'Rose, Natalie', b'Lisette, Jean', b""O'Connor, Arthur"", b'Potter, Muff']"
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nAoki, Kazuyo\nJapanese\n', b'\nHan, Keiko\nJapanese\n', b'\nOzawa, Kaoru\nJapanese\n', b'\nSugaya, Masako\nJapanese\n', b'\nFutami, Tadao\nJapanese\n', b'\nTaichi, Kotoe\nJapanese\n', b'\nMiwa, Katsue\nJapanese\n', b'\nMori, Katsuji\nJapanese\n', b'\nMine, Eken\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSaitou, Hiroshi\n\nDirector\n\n', b'\nMiyazaki, Akira\n\nScript\n\n', b'\nKouyama, Seijirou\n\nScript\n\n', b'\nKoshi, Shigeo\n\nStoryboard, Assistant Animation Director\n\n']
+animePopularity	6162
+animeDescription	"Tom Sawyer is a young boy growing up along the Mississippi River in the mid 1800s. Along with his best friend Huckleberry Finn, he spends his days ditching school, fishing, climbing trees and having adventures.
+
+(Source: ANN)"
+animeRelated	['Tom Sawyer no Bouken Specials', 'Shiawase Pasta Story']
+animeCharacters	"['Sawyer, Tom', 'Finn, Huckleberry', 'Thatcher, Rebecca', 'Mary', 'Temple, Alfred', 'Mitchell-sensei', 'Rose, Natalie', 'Lisette, Jean', ""O'Connor, Arthur"", 'Potter, Muff']"
+animeVoices	['Nozawa, Masako', 'Aoki, Kazuyo', 'Han, Keiko', 'Ozawa, Kaoru', 'Sugaya, Masako', 'Futami, Tadao', 'Taichi, Kotoe', 'Miwa, Katsue', 'Mori, Katsuji', 'Mine, Eken']
+animeStaff	[['Saitou, Hiroshi', 'Director'], ['Miyazaki, Akira', 'Script'], ['Kouyama, Seijirou', 'Script'], ['Koshi, Shigeo', 'Storyboard, Assistant Animation Director']]

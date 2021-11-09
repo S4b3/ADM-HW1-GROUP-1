@@ -1,5 +1,5 @@
-animeTitle	b'Chrno Crusade'
-animeType	b'TV'
+animeTitle	Chrno Crusade
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.64
 animeUsers	93272
 animeRank	
-animePopularity	
-animeDescription	"b""The 1920s was a decade of great change and upheaval, with monstrous demons appearing across America. To combat this menace, the holy organization known as the Order of Magdalene was established. The organization's New York branch is home to the young and reckless Sister Rosette Christopher, as well as her partner Chrno. Tasked with the extermination of demonic threats, the renowned team is excellent at their job, despite causing extensive collateral damage on their missions.\n\nHowever, both Rosette and Chrno are driven by their dark pasts. Through exterminating demons, Rosette hopes to find her lost brother Joshua who was taken by the sinner and demon, Aion, with whom Chrno also shares a bloody history. The two of them must fight off the increasingly dangerous demonic menace and discover its source, while continuing to search for the truth behind Joshua's disappearance.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Chrno Crusade', b'Chrno Crusade: Az demo Wakaru Chrno Crusade Kouza']
-animeCharacters	[b'Chrno', b'Christopher, Rosette', b'Hendric, Azmaria', b'Harvenheit, Satella', b'Aion', b'Christopher, Joshua', b'Remington, Ewan', b'Magdalene, Mary', b'Shader', b'Duffau, Duke']
-animeVoices	[b'\nIshida, Akira\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nChiba, Saeko\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nSasamoto, Yuuko\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKou, Yuu\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nSayama, Kiyoko\n\nEpisode Director, Storyboard\n\n', b'\nKanbe, Hiroyuki\n\nEpisode Director, Storyboard, Character Design, Animation Director, Assistant Director\n\n']
+animePopularity	853
+animeDescription	"The 1920s was a decade of great change and upheaval, with monstrous demons appearing across America. To combat this menace, the holy organization known as the Order of Magdalene was established. The organization's New York branch is home to the young and reckless Sister Rosette Christopher, as well as her partner Chrno. Tasked with the extermination of demonic threats, the renowned team is excellent at their job, despite causing extensive collateral damage on their missions.
+
+However, both Rosette and Chrno are driven by their dark pasts. Through exterminating demons, Rosette hopes to find her lost brother Joshua who was taken by the sinner and demon, Aion, with whom Chrno also shares a bloody history. The two of them must fight off the increasingly dangerous demonic menace and discover its source, while continuing to search for the truth behind Joshua's disappearance.
+
+[Written by MAL Rewrite]"
+animeRelated	['Chrno Crusade', 'Chrno Crusade: Az demo Wakaru Chrno Crusade Kouza']
+animeCharacters	['Chrno', 'Christopher, Rosette', 'Hendric, Azmaria', 'Harvenheit, Satella', 'Aion', 'Christopher, Joshua', 'Remington, Ewan', 'Magdalene, Mary', 'Shader', 'Duffau, Duke']
+animeVoices	['Ishida, Akira', 'Kawakami, Tomoko', 'Chiba, Saeko', 'Neya, Michiko', 'Inoue, Kazuhiko', 'Minagawa, Junko', 'Hayami, Show', 'Sasamoto, Yuuko', 'Wakamoto, Norio']
+animeStaff	[['Kou, Yuu', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Sayama, Kiyoko', 'Episode Director, Storyboard'], ['Kanbe, Hiroyuki', 'Episode Director, Storyboard, Character Design, Animation Director, Assistant Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ningyo'
-animeType	b'Movie'
+animeTitle	Ningyo
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.37
 animeUsers	1990
 animeRank	
-animePopularity	
-animeDescription	"b'In a fictional place where using the imagination is banned, a boy saves a fish, which surprises everyone by turning into a mermaid. The boy is arrested for imagining this ""nonsense"", and is robbed of his imagination as punishment. \n\n(Source: ANN)'"
+animePopularity	7850
+animeDescription	"In a fictional place where using the imagination is banned, a boy saves a fish, which surprises everyone by turning into a mermaid. The boy is arrested for imagining this ""nonsense"", and is robbed of his imagination as punishment. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Boy', b'Mermaid']
+animeCharacters	['Boy', 'Mermaid']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Osamu\n\nDirector\n\n', b'\nTomita, Isao\n\nMusic\n\n']
+animeStaff	[['Tezuka, Osamu', 'Director'], ['Tomita, Isao', 'Music']]

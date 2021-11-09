@@ -1,5 +1,5 @@
-animeTitle	b'Suzumiya Haruhi-chan no Yuuutsu'
-animeType	b'ONA'
+animeTitle	Suzumiya Haruhi-chan no Yuuutsu
+animeType	ONA
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.48
 animeUsers	46683
 animeRank	
-animePopularity	
-animeDescription	b'A parody series featuring the entire cast of The Melancholy of Haruhi Suzumiya in a smaller form factor.  Among the changes are: Yuki plays eroge, Haruhi is even more obnoxiuous and loud, Mikuru is even more emotional and Koizumi harbors a deep love for Kyon.  Kyon, on the other hand, is generally the same as ever.'
-animeRelated	[b'Suzumiya Haruhi-chan no Yuuutsu', b'Suzumiya Haruhi no Yuuutsu']
-animeCharacters	"[b'Suzumiya, Haruhi', b'Kyon', b'Nagato, Yuki', b'Asahina, Mikuru', b'Koizumi, Itsuki', b'Tsuruya', b'Asakura, Ryouko', b""Kyon's Sister"", b'Kimidori-san', b'Achakura-san']"
-animeVoices	[b'\nHirano, Aya\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nChihara, Minori\nJapanese\n', b'\nGotou, Yuuko\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nMatsuoka, Yuki\nJapanese\n', b'\nAoki, Sayaka\nJapanese\n', b'\nShiraishi, Minoru\nJapanese\n', b'\nKuwatani, Natsuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakemoto, Yasuhiro\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nOno, Daisuke\n\nTheme Song Performance\n\n', b'\nSugita, Tomokazu\n\nTheme Song Performance\n\n']
+animePopularity	1706
+animeDescription	A parody series featuring the entire cast of The Melancholy of Haruhi Suzumiya in a smaller form factor.  Among the changes are: Yuki plays eroge, Haruhi is even more obnoxiuous and loud, Mikuru is even more emotional and Koizumi harbors a deep love for Kyon.  Kyon, on the other hand, is generally the same as ever.
+animeRelated	['Suzumiya Haruhi-chan no Yuuutsu', 'Suzumiya Haruhi no Yuuutsu']
+animeCharacters	"['Suzumiya, Haruhi', 'Kyon', 'Nagato, Yuki', 'Asahina, Mikuru', 'Koizumi, Itsuki', 'Tsuruya', 'Asakura, Ryouko', ""Kyon's Sister"", 'Kimidori-san', 'Achakura-san']"
+animeVoices	['Hirano, Aya', 'Sugita, Tomokazu', 'Chihara, Minori', 'Gotou, Yuuko', 'Ono, Daisuke', 'Matsuoka, Yuki', 'Aoki, Sayaka', 'Shiraishi, Minoru', 'Kuwatani, Natsuko']
+animeStaff	[['Takemoto, Yasuhiro', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Ono, Daisuke', 'Theme Song Performance'], ['Sugita, Tomokazu', 'Theme Song Performance']]

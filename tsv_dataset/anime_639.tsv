@@ -1,5 +1,5 @@
-animeTitle	b'Yuru Yuri San\xe2\x98\x86Hai!'
-animeType	b'TV'
+animeTitle	Yuru Yuri San☆Hai!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.93
 animeUsers	56609
 animeRank	
-animePopularity	
-animeDescription	"b""The members of the Amusement Club are back with more of Kyouko Toshinou's antics, Chinatsu Yoshikawa's schemes, Yui Funami's retorts, and Akari Akaza's small social presence as they strive to make each day as fun as the last! Whether the activity is an arm wrestling contest or making pancakes together, the group of entertainment-seekers are sure to give it their all.\n\nThe club members are often joined by their friends in the Student Council, who know how to have a good time as well. While it can get a little chaotic when all eight girls get together, it sure doesn't stop them from meeting up and having fun!\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Yuru Yuri', b'Yuru Yuri Nachuyachumi!+', b'Yuru Yuri,']
-animeCharacters	[b'Toshinou, Kyouko', b'Akaza, Akari', b'Funami, Yui', b'Yoshikawa, Chinatsu', b'Sugiura, Ayano', b'Oomuro, Sakurako', b'Ikeda, Chitose', b'Furutani, Himawari', b'Matsumoto, Rise', b'Akaza, Akane']
-animeVoices	[b'\nOotsubo, Yuka\nJapanese\n', b'\nMikami, Shiori\nJapanese\n', b'\nTsuda, Minami\nJapanese\n', b'\nOokubo, Rumi\nJapanese\n', b'\nFujita, Saki\nJapanese\n', b'\nKatou, Emiri\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nGotou, Saori\nJapanese\n', b'\nHorie, Yui\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHata, Hiroyuki\n\nDirector, Script, Series Composition\n\n', b'\nHiramaki, Daisuke\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nTakigawa, Renji\n\nScript\n\n', b'\nTachibana, Hideki\n\nStoryboard\n\n']
+animePopularity	1517
+animeDescription	"The members of the Amusement Club are back with more of Kyouko Toshinou's antics, Chinatsu Yoshikawa's schemes, Yui Funami's retorts, and Akari Akaza's small social presence as they strive to make each day as fun as the last! Whether the activity is an arm wrestling contest or making pancakes together, the group of entertainment-seekers are sure to give it their all.
+
+The club members are often joined by their friends in the Student Council, who know how to have a good time as well. While it can get a little chaotic when all eight girls get together, it sure doesn't stop them from meeting up and having fun!
+
+[Written by MAL Rewrite]"
+animeRelated	['Yuru Yuri', 'Yuru Yuri Nachuyachumi!+', 'Yuru Yuri,']
+animeCharacters	['Toshinou, Kyouko', 'Akaza, Akari', 'Funami, Yui', 'Yoshikawa, Chinatsu', 'Sugiura, Ayano', 'Oomuro, Sakurako', 'Ikeda, Chitose', 'Furutani, Himawari', 'Matsumoto, Rise', 'Akaza, Akane']
+animeVoices	['Ootsubo, Yuka', 'Mikami, Shiori', 'Tsuda, Minami', 'Ookubo, Rumi', 'Fujita, Saki', 'Katou, Emiri', 'Toyosaki, Aki', 'Mimori, Suzuko', 'Gotou, Saori', 'Horie, Yui']
+animeStaff	[['Hata, Hiroyuki', 'Director, Script, Series Composition'], ['Hiramaki, Daisuke', 'Episode Director, Storyboard, Key Animation'], ['Takigawa, Renji', 'Script'], ['Tachibana, Hideki', 'Storyboard']]

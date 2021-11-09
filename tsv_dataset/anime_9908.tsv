@@ -1,4 +1,4 @@
-animeTitle	b'Alice in Voodooland'
+animeTitle	Alice in Voodooland
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.65
 animeUsers	441
 animeRank	
-animePopularity	
-animeDescription	b'Music video by Kousuke Sugimoto for the title track Alice In Voodooland by RoughSketch and featuring Aikapin.'
+animePopularity	11672
+animeDescription	Music video by Kousuke Sugimoto for the title track Alice In Voodooland by RoughSketch and featuring Aikapin.
 animeRelated	[]
-animeCharacters	[b'Queen of Hearts', b'Cheshire Cat', b'White Rabbit', b'Alice', b'Caterpillar', b'Dormouse', b'March Hare', b'Mad Hatter']
+animeCharacters	['Queen of Hearts', 'Cheshire Cat', 'White Rabbit', 'Alice', 'Caterpillar', 'Dormouse', 'March Hare', 'Mad Hatter']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugimoto, Kousuke\n\nDirector\n\n', b'\nCarroll, Lewis\n\nOriginal Creator\n\n']
+animeStaff	[['Sugimoto, Kousuke', 'Director'], ['Carroll, Lewis', 'Original Creator']]

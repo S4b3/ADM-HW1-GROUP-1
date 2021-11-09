@@ -1,4 +1,4 @@
-animeTitle	b'Wish'
+animeTitle	Wish
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.56
 animeUsers	3861
 animeRank	
-animePopularity	
-animeDescription	"b'The third of four animated CLAMP music videos, the others being Clover and CLAMP in Wonderland. This one is based on the manga ""Wish.""\n\n""Wish"" is about 28-year-old Shuichiro Kudo, a doctor who stumbles across Kohaku, one of God\'s angels. When he inadvertently saves her life from one of the devil\'s servants, Kohaku decides to grant him a wish to repay him for his kindness. However, upon discovering that Shuichiro has no wish, Kohaku devotes herself to him, vowing to serve him until he has a wish that she can grant. However, both discover that there are some wishes that can\'t be granted by oneself.\n\n(Source: ANN)'"
-animeRelated	[b'Wish']
-animeCharacters	[b'Kohaku', b'Kudou, Shuuichirou', b'Hari', b'Ruri', b'Kouryuu', b'Hisui', b'Kokuyo', b'Ryuuki', b'Toki']
+animePopularity	6086
+animeDescription	"The third of four animated CLAMP music videos, the others being Clover and CLAMP in Wonderland. This one is based on the manga ""Wish.""
+
+""Wish"" is about 28-year-old Shuichiro Kudo, a doctor who stumbles across Kohaku, one of God's angels. When he inadvertently saves her life from one of the devil's servants, Kohaku decides to grant him a wish to repay him for his kindness. However, upon discovering that Shuichiro has no wish, Kohaku devotes herself to him, vowing to serve him until he has a wish that she can grant. However, both discover that there are some wishes that can't be granted by oneself.
+
+(Source: ANN)"
+animeRelated	['Wish']
+animeCharacters	['Kohaku', 'Kudou, Shuuichirou', 'Hari', 'Ruri', 'Kouryuu', 'Hisui', 'Kokuyo', 'Ryuuki', 'Toki']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nRintaro\n\nAssistant Producer\n\n', b'\nEndou, Takuji\n\nDirector, Storyboard\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n', b'\nALI PROJECT\n\nTheme Song Performance\n\n']
+animeStaff	[['Rintaro', 'Assistant Producer'], ['Endou, Takuji', 'Director, Storyboard'], ['Honda, Yasunori', 'Sound Director'], ['ALI PROJECT', 'Theme Song Performance']]

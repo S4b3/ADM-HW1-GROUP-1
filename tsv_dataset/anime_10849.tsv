@@ -1,5 +1,5 @@
-animeTitle	b'Bishoujo Mobage: Mobami-chan'
-animeType	b'ONA'
+animeTitle	Bishoujo Mobage: Mobami-chan
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.33
 animeUsers	1006
 animeRank	
-animePopularity	
-animeDescription	"b'DeNA promotional anime video for its line of mobile game. The mascot character for the line of games is called Mobami (a combination of ""mobile"" and ""beauty."")\n\n(Source: ANN)'"
-animeRelated	[b'Raldessia Chronicles']
-animeCharacters	[b'Mobami']
+animePopularity	9019
+animeDescription	"DeNA promotional anime video for its line of mobile game. The mascot character for the line of games is called Mobami (a combination of ""mobile"" and ""beauty."")
+
+(Source: ANN)"
+animeRelated	['Raldessia Chronicles']
+animeCharacters	['Mobami']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nGeso, Ikuo\n\nDirector, Episode Director, Storyboard, Key Animation, Animation Director, Digital Paint\n\n', b'\nYashima, Sarara\n\nTheme Song Performance\n\n']
+animeStaff	[['Geso, Ikuo', 'Director, Episode Director, Storyboard, Key Animation, Animation Director, Digital Paint'], ['Yashima, Sarara', 'Theme Song Performance']]

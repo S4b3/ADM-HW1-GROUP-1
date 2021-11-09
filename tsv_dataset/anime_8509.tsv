@@ -1,5 +1,5 @@
-animeTitle	b'Saint Luminous Jogakuin'
-animeType	b'TV'
+animeTitle	Saint Luminous Jogakuin
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.03
 animeUsers	695
 animeRank	
-animePopularity	
-animeDescription	b'Kaihei is a rather normal high school student but soon discovers that his deceased grandfather has left him the chairman position of his all-girls high school, St. Luminous Mission High School. Besides being the only male student on campus, he is also now the young chairman in charge of campus rules, happenings and punishments. When Kaihei arrives however, it seems a student has gone missing. Kaihei, along with his closest friends, are now determined to solve this mystery (without getting the local police involved) before graduation. \n\n(Source: ANN)'
-animeRelated	[b'Sei Luminous Jogakuin']
-animeCharacters	[b'Kijima, Kaihei', b'Ford, Lita', b'Deboucoillet, Cathrine', b'Kijima, Noriko', b'Sukavysih, Melina', b'De Pye, Shanon', b'Makuragi, Fumiko', b'Sister Akane', b'Kabe, Shizuku', b'Kouda, Jasmine']
-animeVoices	[b'\nIwanaga, Tetsuya\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n', b'\nSumitomo, Yuuko\nJapanese\n', b'\nTakada, Yumi\nJapanese\n', b'\nTezuka, Chiharu\nJapanese\n', b'\nIshimura, Tomoko\nJapanese\n', b'\nKonishi, Hiroko\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAmino, Tetsuro\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nHoshikawa, Takafumi\n\nEpisode Director, Storyboard, Assistant Director\n\n', b'\nALI PROJECT\n\nTheme Song Performance\n\n']
+animePopularity	8683
+animeDescription	"Kaihei is a rather normal high school student but soon discovers that his deceased grandfather has left him the chairman position of his all-girls high school, St. Luminous Mission High School. Besides being the only male student on campus, he is also now the young chairman in charge of campus rules, happenings and punishments. When Kaihei arrives however, it seems a student has gone missing. Kaihei, along with his closest friends, are now determined to solve this mystery (without getting the local police involved) before graduation. 
+
+(Source: ANN)"
+animeRelated	['Sei Luminous Jogakuin']
+animeCharacters	['Kijima, Kaihei', 'Ford, Lita', 'Deboucoillet, Cathrine', 'Kijima, Noriko', 'Sukavysih, Melina', 'De Pye, Shanon', 'Makuragi, Fumiko', 'Sister Akane', 'Kabe, Shizuku', 'Kouda, Jasmine']
+animeVoices	['Iwanaga, Tetsuya', 'Horie, Yui', 'Asakawa, Yuu', 'Iizuka, Mayumi', 'Sumitomo, Yuuko', 'Takada, Yumi', 'Tezuka, Chiharu', 'Ishimura, Tomoko', 'Konishi, Hiroko', 'Katsuki, Masako']
+animeStaff	[['Amino, Tetsuro', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Hoshikawa, Takafumi', 'Episode Director, Storyboard, Assistant Director'], ['ALI PROJECT', 'Theme Song Performance']]

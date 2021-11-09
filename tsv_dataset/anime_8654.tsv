@@ -1,5 +1,5 @@
-animeTitle	b'Tetsuwan Atom: Ao Kishi no Kan'
-animeType	b'Movie'
+animeTitle	Tetsuwan Atom: Ao Kishi no Kan
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.0
 animeUsers	175
 animeRank	
-animePopularity	
-animeDescription	"b""The film begins with the Phoenix retelling the tales and hopes of Astro Boy. Many of the visual being directly taken from the 1980s TV series as it recaps some of his adventures.\n\nFollowing this recap, Astro Boy confronts Blue Bon and tries to convince him to change his mind about the humans. But Blue Bon misunderstands, assuming that if Astro Boy does not agree then he is an enemy. Blue Bon hates humans because they broke apart his family (Maria and Tonto). A battle begins between the two after Astro Boy fails to convince Blue Bon that they aren't each others' enemy.\n\n(Source: Astro Boy Wiki)"""
-animeRelated	[b'Tetsuwan Atom (1980)', b'Shinsengumi']
-animeCharacters	[b'Atom']
-animeVoices	[b'\nShimizu, Mari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Osamu\n\nOriginal Creator\n\n', b'\nOkada, Kazuo\n\nArt Director\n\n']
+animePopularity	11802
+animeDescription	"The film begins with the Phoenix retelling the tales and hopes of Astro Boy. Many of the visual being directly taken from the 1980s TV series as it recaps some of his adventures.
+
+Following this recap, Astro Boy confronts Blue Bon and tries to convince him to change his mind about the humans. But Blue Bon misunderstands, assuming that if Astro Boy does not agree then he is an enemy. Blue Bon hates humans because they broke apart his family (Maria and Tonto). A battle begins between the two after Astro Boy fails to convince Blue Bon that they aren't each others' enemy.
+
+(Source: Astro Boy Wiki)"
+animeRelated	['Tetsuwan Atom (1980)', 'Shinsengumi']
+animeCharacters	['Atom']
+animeVoices	['Shimizu, Mari']
+animeStaff	[['Tezuka, Osamu', 'Original Creator'], ['Okada, Kazuo', 'Art Director']]

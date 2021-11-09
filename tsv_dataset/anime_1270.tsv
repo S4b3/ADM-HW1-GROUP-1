@@ -1,5 +1,5 @@
-animeTitle	b'Overlord Movie 1: Fushisha no Ou'
-animeType	b'Movie'
+animeTitle	Overlord Movie 1: Fushisha no Ou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.61
 animeUsers	20545
 animeRank	
-animePopularity	
-animeDescription	b'First Overlord recap film.'
-animeRelated	[b'Overlord', b'Overlord Movie 2: Shikkoku no Eiyuu', b'Overlord Movie: Ple Ple Pleiades', b'Overlord Movie: Manner Movie']
-animeCharacters	[b'Momonga', b'Albedo', b'Gamma, Narberal']
+animePopularity	2116
+animeDescription	First Overlord recap film.
+animeRelated	['Overlord', 'Overlord Movie 2: Shikkoku no Eiyuu', 'Overlord Movie: Ple Ple Pleiades', 'Overlord Movie: Manner Movie']
+animeCharacters	['Momonga', 'Albedo', 'Gamma, Narberal']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nGou, Fumiyuki\n\nSound Director\n\n', b'\nMYTH & ROID\n\nTheme Song Performance\n\n', b'\nMaruyama, Kugane\n\nOriginal Creator\n\n', b'\nso-bin\n\nOriginal Character Design\n\n']
+animeStaff	[['Gou, Fumiyuki', 'Sound Director'], ['MYTH & ROID', 'Theme Song Performance'], ['Maruyama, Kugane', 'Original Creator'], ['so-bin', 'Original Character Design']]

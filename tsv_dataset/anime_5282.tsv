@@ -1,5 +1,5 @@
-animeTitle	b'Ginyuu Mokushiroku Meine Liebe Wieder'
-animeType	b'TV'
+animeTitle	Ginyuu Mokushiroku Meine Liebe Wieder
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.66
 animeUsers	2069
 animeRank	
-animePopularity	
-animeDescription	b'The Strahl candidates are enjoying a brief holiday in their various homes. However, many surprises await them when they finally come back to their elite boarding school: Rosenstolz Academy. There is a new headmaster, and his policies are not necessarily to the advantage of the main characters. \n\n(Source: Wikipedia)'
-animeRelated	[b'Meine Liebe: Eien Naru Traumerei', b'Ginyuu Mokushiroku Meine Liebe']
-animeCharacters	[b'Herzog von Mohn Nahe Liechtenstein, Ludwig', b'Pfalzgraf von Silvaner L\xc3\xbcneburg, Camus', b'Ishizuki, Naoji', b'F\xc3\xbcrst von Marmelade Nahe G\xc3\xb6rz, Orpherus', b'Markgraf von Sekt Braunschweig, Eduard', b'Cavendish, Sir Isaac', b'Nicolas', b'Elmunt', b'Gerald', b'Daniel']
-animeVoices	[b'\nSeki, Toshihiko\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nMatsukaze, Masaya\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nMaeda, Takeshi\nJapanese\n', b'\nItou, Kentarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawatsura, Shinya\n\nDirector\n\n', b'\nOmode, Akemi\n\nScript\n\n', b'\nYamashita, Yoshimitsu\n\nStoryboard, Animation Director, Character Design\n\n', b'\nA9\n\nTheme Song Performance\n\n']
+animePopularity	6177
+animeDescription	"The Strahl candidates are enjoying a brief holiday in their various homes. However, many surprises await them when they finally come back to their elite boarding school: Rosenstolz Academy. There is a new headmaster, and his policies are not necessarily to the advantage of the main characters. 
+
+(Source: Wikipedia)"
+animeRelated	['Meine Liebe: Eien Naru Traumerei', 'Ginyuu Mokushiroku Meine Liebe']
+animeCharacters	['Herzog von Mohn Nahe Liechtenstein, Ludwig', 'Pfalzgraf von Silvaner Lüneburg, Camus', 'Ishizuki, Naoji', 'Fürst von Marmelade Nahe Görz, Orpherus', 'Markgraf von Sekt Braunschweig, Eduard', 'Cavendish, Sir Isaac', 'Nicolas', 'Elmunt', 'Gerald', 'Daniel']
+animeVoices	['Seki, Toshihiko', 'Hoshi, Souichirou', 'Ishida, Akira', 'Sakurai, Takahiro', 'Seki, Tomokazu', 'Koyasu, Takehito', 'Matsukaze, Masaya', 'Tsuda, Kenjirou', 'Maeda, Takeshi', 'Itou, Kentarou']
+animeStaff	[['Kawatsura, Shinya', 'Director'], ['Omode, Akemi', 'Script'], ['Yamashita, Yoshimitsu', 'Storyboard, Animation Director, Character Design'], ['A9', 'Theme Song Performance']]

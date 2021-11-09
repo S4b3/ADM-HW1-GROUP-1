@@ -1,5 +1,5 @@
-animeTitle	b'Hoshi Neko Fullhouse'
-animeType	b'OVA'
+animeTitle	Hoshi Neko Fullhouse
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.86
 animeUsers	238
 animeRank	
-animePopularity	
-animeDescription	b'This slapstick comedy is about three pretty girls struggling to earn a living as pilots of the Iron Goblin delivery vessel. The computer answers back, the space pirates are on their tail, and romantic entanglements with their clients cause friction in the trio. The final episode throws the alien Eterna race in to the mix.\n\n(Source: The Anime Encyclopedia)'
+animePopularity	11223
+animeDescription	"This slapstick comedy is about three pretty girls struggling to earn a living as pilots of the Iron Goblin delivery vessel. The computer answers back, the space pirates are on their tail, and romantic entanglements with their clients cause friction in the trio. The final episode throws the alien Eterna race in to the mix.
+
+(Source: The Anime Encyclopedia)"
 animeRelated	[]
-animeCharacters	[b'Yaoi, Seitarou', b'Jojo', b'Meifa', b'Lyla', b'Hoshi Neko', b'Prin-Prin', b'Gannet', b'Chiraku', b'Eterna']
-animeVoices	[b'\nSeki, Toshihiko\nJapanese\n', b'\nMiyuki, Sanae\nJapanese\n', b'\nTakada, Yumi\nJapanese\n', b'\nShou, Mayumi\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nToda, Keiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiguro, Noboru\n\nDirector, Storyboard, Screenplay\n\n', b'\nKitagawa, Masato\n\nDirector\n\n', b'\nKuroishi, Hitomi\n\nTheme Song Arrangement, Theme Song Composition, Theme Song Performance, Inserted Song Performance\n\n', b'\nKaneko, Hidetoshi\n\nArt Director\n\n']
+animeCharacters	['Yaoi, Seitarou', 'Jojo', 'Meifa', 'Lyla', 'Hoshi Neko', 'Prin-Prin', 'Gannet', 'Chiraku', 'Eterna']
+animeVoices	['Seki, Toshihiko', 'Miyuki, Sanae', 'Takada, Yumi', 'Shou, Mayumi', 'Kamiya, Akira', 'Toda, Keiko']
+animeStaff	[['Ishiguro, Noboru', 'Director, Storyboard, Screenplay'], ['Kitagawa, Masato', 'Director'], ['Kuroishi, Hitomi', 'Theme Song Arrangement, Theme Song Composition, Theme Song Performance, Inserted Song Performance'], ['Kaneko, Hidetoshi', 'Art Director']]

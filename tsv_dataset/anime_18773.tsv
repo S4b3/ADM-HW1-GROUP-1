@@ -1,5 +1,5 @@
-animeTitle	b'6 Lovers'
-animeType	b'OVA'
+animeTitle	6 Lovers
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.55
 animeUsers	2468
 animeRank	
-animePopularity	
-animeDescription	"b'The July issue of Dear+ has announced that a series of manga serialized in the magazine will get anime adaptations in celebration of the magazine\'s 20th anniversary. These anime will be collected into an ""in motion"" animation series titled 6 Lovers.'"
-animeRelated	[b'Seitokaichou ni Chuukoku', b'Ze', b'Ameiro Paradox', b'Ten Count', b'Kuroneko Kareshi no Aishikata', b'Renai Ruby no Tadashii Furikata']
-animeCharacters	[b'Kurose, Riku', b'Shirotani, Tadaomi', b'Chiga, Yasuhiro', b'Shingo', b'Onoe, Satoshi', b'Kagami, Keiichi ', b'Kokusai, Yuuzou', b'Kaburagi, Motoharu', b'Washizawa, Natsuo', b'Yashiro, Genma']
-animeVoices	[b'\nMaeno, Tomoaki\nJapanese\n', b'\nTachibana, Shinnosuke\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nIshikawa, Kento\nJapanese\n', b'\nKobayashi, Yuusuke\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nTerashima, Junta\nJapanese\n', b'\nMasuda, Toshiki\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKimura, Hiroshi\n\nDirector\n\n']
+animePopularity	4446
+animeDescription	"The July issue of Dear+ has announced that a series of manga serialized in the magazine will get anime adaptations in celebration of the magazine's 20th anniversary. These anime will be collected into an ""in motion"" animation series titled 6 Lovers."
+animeRelated	['Seitokaichou ni Chuukoku', 'Ze', 'Ameiro Paradox', 'Ten Count', 'Kuroneko Kareshi no Aishikata', 'Renai Ruby no Tadashii Furikata']
+animeCharacters	['Kurose, Riku', 'Shirotani, Tadaomi', 'Chiga, Yasuhiro', 'Shingo', 'Onoe, Satoshi', 'Kagami, Keiichi ', 'Kokusai, Yuuzou', 'Kaburagi, Motoharu', 'Washizawa, Natsuo', 'Yashiro, Genma']
+animeVoices	['Maeno, Tomoaki', 'Tachibana, Shinnosuke', 'Sugita, Tomokazu', 'Ishikawa, Kento', 'Kobayashi, Yuusuke', 'Morikawa, Toshiyuki', 'Toriumi, Kousuke', 'Terashima, Junta', 'Masuda, Toshiki', 'Miyake, Kenta']
+animeStaff	[['Kimura, Hiroshi', 'Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hokuto no Ken: Legend of Heroes'
-animeType	b'Special'
+animeTitle	Hokuto no Ken: Legend of Heroes
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.02
 animeUsers	1405
 animeRank	
-animePopularity	
-animeDescription	b'This short 6 minute 3D CGI film of Kenshiro\xe2\x80\x99s final battle with Raoh was created in 2006 and came out on DVD in 2007. This will most probably remain an exclusively Japanese release.\n\n(Source: Hokuto No Gun)'
-animeRelated	[b'Hokuto no Ken']
-animeCharacters	[b'Kenshirou', b'Raou', b'Yuria']
-animeVoices	[b'\nKawamoto, Kunihiro\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nMatsuo, Midori\nJapanese\n']
+animePopularity	8036
+animeDescription	"This short 6 minute 3D CGI film of Kenshiro’s final battle with Raoh was created in 2006 and came out on DVD in 2007. This will most probably remain an exclusively Japanese release.
+
+(Source: Hokuto No Gun)"
+animeRelated	['Hokuto no Ken']
+animeCharacters	['Kenshirou', 'Raou', 'Yuria']
+animeVoices	['Kawamoto, Kunihiro', 'Genda, Tesshou', 'Matsuo, Midori']
 animeStaff	[]

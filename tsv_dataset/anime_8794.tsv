@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: Ikiteita Majutsushi'
-animeType	b'OVA'
+animeTitle	Lupin III: Ikiteita Majutsushi
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.97
 animeUsers	1975
 animeRank	
-animePopularity	
-animeDescription	"b'Lupin steals an extraordinary gem from a Mediterranean party, only to be interrupted by Pycal, the trickster ""magician"" who had apparently died fighting Lupin early in his career. Pycal, now armed with real magical abilities, is determined to take revenge. \n\n(Source: ANN)'"
-animeRelated	[b'Lupin III']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi', b'Pycal', b'Nazo no Roujin']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nNaya, Gorou\nJapanese\n', b'\nNozawa, Nachi\nJapanese\n', b'\nAono, Takeshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHamatsu, Mamoru\n\nDirector, Storyboard\n\n', b'\nMonkey Punch\n\nOriginal Creator\n\n', b'\nOono, Yuuji\n\nMusic\n\n', b'\nHirayama, Satoshi\n\nCharacter Design\n\n']
+animePopularity	6988
+animeDescription	"Lupin steals an extraordinary gem from a Mediterranean party, only to be interrupted by Pycal, the trickster ""magician"" who had apparently died fighting Lupin early in his career. Pycal, now armed with real magical abilities, is determined to take revenge. 
+
+(Source: ANN)"
+animeRelated	['Lupin III']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Pycal', 'Nazo no Roujin']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou', 'Nozawa, Nachi', 'Aono, Takeshi']
+animeStaff	[['Hamatsu, Mamoru', 'Director, Storyboard'], ['Monkey Punch', 'Original Creator'], ['Oono, Yuuji', 'Music'], ['Hirayama, Satoshi', 'Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Amanatsu'
-animeType	b'Movie'
+animeTitle	Amanatsu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.96
 animeUsers	432
 animeRank	
-animePopularity	
-animeDescription	b'In the near future, a girl yearning for death and a robot who has been near her since she was a child continue moving in eternity.\n\n(Source: Annecy)'
+animePopularity	9142
+animeDescription	"In the near future, a girl yearning for death and a robot who has been near her since she was a child continue moving in eternity.
+
+(Source: Annecy)"
 animeRelated	[]
-animeCharacters	[b'Amanatsu', b'Makimura, Amane', b'Makimura, Souichi']
+animeCharacters	['Amanatsu', 'Makimura, Amane', 'Makimura, Souichi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMizusaki, Junpei\n\nProducer\n\n', b'\nYokoshima, Toshihisa\n\nDirector, Script\n\n', b'\nMONACA\n\nMusic\n\n']
+animeStaff	[['Mizusaki, Junpei', 'Producer'], ['Yokoshima, Toshihisa', 'Director, Script'], ['MONACA', 'Music']]

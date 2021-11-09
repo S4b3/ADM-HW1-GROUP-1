@@ -1,5 +1,5 @@
-animeTitle	b'BanG Dream! Film Live'
-animeType	b'Movie'
+animeTitle	BanG Dream! Film Live
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.7
 animeUsers	2938
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'BanG Dream! 2nd Season', b'BanG Dream! Film Live 2nd Stage']
-animeCharacters	[b'Minato, Yukina', b'Aoba, Moca', b'Tsurumaki, Kokoro', b'Ichigaya, Arisa', b'Imai, Lisa', b'Hikawa, Sayo', b'Mitake, Ran', b'Seta, Kaoru', b'Shirokane, Rinko', b'Yamabuki, Saaya']
-animeVoices	[b'\nAiba, Aina\nJapanese\n', b'\nMisawa, Sachika\nJapanese\n', b'\nShizaki, Kanon\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b""\nPoppin'Party\n\nTheme Song Performance, Inserted Song Performance\n\n"", b'\nMisawa, Sachika\n\nInserted Song Performance\n\n', b'\nAiba, Aina\n\nInserted Song Performance\n\n', b'\nRoselia\n\nInserted Song Performance\n\n']"
+animePopularity	5582
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['BanG Dream! 2nd Season', 'BanG Dream! Film Live 2nd Stage']
+animeCharacters	['Minato, Yukina', 'Aoba, Moca', 'Tsurumaki, Kokoro', 'Ichigaya, Arisa', 'Imai, Lisa', 'Hikawa, Sayo', 'Mitake, Ran', 'Seta, Kaoru', 'Shirokane, Rinko', 'Yamabuki, Saaya']
+animeVoices	['Aiba, Aina', 'Misawa, Sachika', 'Shizaki, Kanon']
+animeStaff	"[[""Poppin'Party"", 'Theme Song Performance, Inserted Song Performance'], ['Misawa, Sachika', 'Inserted Song Performance'], ['Aiba, Aina', 'Inserted Song Performance'], ['Roselia', 'Inserted Song Performance']]"

@@ -1,5 +1,5 @@
-animeTitle	b'Fortune Arterial: Akai Yakusoku'
-animeType	b'TV'
+animeTitle	Fortune Arterial: Akai Yakusoku
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.7
 animeUsers	56731
 animeRank	
-animePopularity	
-animeDescription	"b""Fortune Arterial's story revolves around the male protagonist Kohei Hasekura, who transfers into a prestigious public school in the style of an English six-year school encompassing junior-high and high school students. The school is on an island named Tamatsu Island off-shore from mainland Japan, and the only way to get there is by boat. Soon after transferring, he discovers that one of the student in the class next door to his, Sendo Erika, is in fact a type of vampire. \n\n(Source: Wikipedia)"""
-animeRelated	[b'Fortune Arterial', b'Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho']
-animeCharacters	[b'Sendou, Erika', b'Kuze, Kiriha', b'Hasekura, Kouhei', b'Tougi, Shiro', b'Yuuki, Haruna', b'Yuuki, Kanade', b'Sendou, Iori', b'Hachimandaira, Tsukasa', b'Sendou, Kaya', b'Tougi, Seiichirou']
-animeVoices	[b'\nKanda, Rie\nJapanese\n', b'\nNarumi, Erika\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nMinegishi, Yukari\nJapanese\n', b'\nTaguchi, Hiroko\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nItou, Kentarou\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nTsuboi, Tomohiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNawa, Munenori\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nNitta, Yasunari\n\nEpisode Director, Storyboard, Assistant Director\n\n', b'\nLia\n\nTheme Song Performance\n\n']
+animePopularity	1514
+animeDescription	"Fortune Arterial's story revolves around the male protagonist Kohei Hasekura, who transfers into a prestigious public school in the style of an English six-year school encompassing junior-high and high school students. The school is on an island named Tamatsu Island off-shore from mainland Japan, and the only way to get there is by boat. Soon after transferring, he discovers that one of the student in the class next door to his, Sendo Erika, is in fact a type of vampire. 
+
+(Source: Wikipedia)"
+animeRelated	['Fortune Arterial', 'Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho']
+animeCharacters	['Sendou, Erika', 'Kuze, Kiriha', 'Hasekura, Kouhei', 'Tougi, Shiro', 'Yuuki, Haruna', 'Yuuki, Kanade', 'Sendou, Iori', 'Hachimandaira, Tsukasa', 'Sendou, Kaya', 'Tougi, Seiichirou']
+animeVoices	['Kanda, Rie', 'Narumi, Erika', 'Ono, Daisuke', 'Minegishi, Yukari', 'Taguchi, Hiroko', 'Nabatame, Hitomi', 'Suwabe, Junichi', 'Itou, Kentarou', 'Mizuhashi, Kaori', 'Tsuboi, Tomohiro']
+animeStaff	[['Nawa, Munenori', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Nitta, Yasunari', 'Episode Director, Storyboard, Assistant Director'], ['Lia', 'Theme Song Performance']]

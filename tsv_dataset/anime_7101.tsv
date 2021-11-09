@@ -1,5 +1,5 @@
-animeTitle	b'Taichi Senjimon'
-animeType	b'TV'
+animeTitle	Taichi Senjimon
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.32
 animeUsers	409
 animeRank	
-animePopularity	
-animeDescription	"b""After a strange and devastating attack on his home, a young boy named Rai is shocked to discover he's a secret descendent of the Tigeroids: an ancient race of peaceful beings locked in a struggle with the ruthless and cunning Dragonoids. In a parallel universe called Suhn, the Tigeroids and Dragonoids are battling furiously to recover 500 lost tai chi characters. Whoever retrieves these precious and potent symbols will possess the ultimate power to rule their realm\xe2\x80\xa6and destroy their enemies. As Rai hones his innate tai chi skills to fight the Dragonoids, he must find the lost tai chi and battle to become one of the champion Tai Chi Chasers!\n\n(Source: 4Kids Entertainment)"""
+animePopularity	10394
+animeDescription	"After a strange and devastating attack on his home, a young boy named Rai is shocked to discover he's a secret descendent of the Tigeroids: an ancient race of peaceful beings locked in a struggle with the ruthless and cunning Dragonoids. In a parallel universe called Suhn, the Tigeroids and Dragonoids are battling furiously to recover 500 lost tai chi characters. Whoever retrieves these precious and potent symbols will possess the ultimate power to rule their realm…and destroy their enemies. As Rai hones his innate tai chi skills to fight the Dragonoids, he must find the lost tai chi and battle to become one of the champion Tai Chi Chasers!
+
+(Source: 4Kids Entertainment)"
 animeRelated	[]
-animeCharacters	[b'Rai', b'Sena', b'Finn', b'Donha', b'Tori', b'Hak', b'Luka', b'Jahara', b'Garnia', b'Komorka']
+animeCharacters	['Rai', 'Sena', 'Finn', 'Donha', 'Tori', 'Hak', 'Luka', 'Jahara', 'Garnia', 'Komorka']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nShibata, Hiroki\n\nDirector\n\n', b'\nMitsuka, Masato\n\nStoryboard\n\n', b'\nMorishita, Kouzou\n\nChief Producer\n\n', b'\nTsujita, Kunio\n\nColor Design\n\n']
+animeStaff	[['Shibata, Hiroki', 'Director'], ['Mitsuka, Masato', 'Storyboard'], ['Morishita, Kouzou', 'Chief Producer'], ['Tsujita, Kunio', 'Color Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Gakkatsu!'
-animeType	b'TV'
+animeTitle	Gakkatsu!
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.48
 animeUsers	2190
 animeRank	
-animePopularity	
-animeDescription	"b'In a fictional school, ""Tender Tank"" Rareko is constantly opening absurd yet strangely enthusiastic debates, this way creating a lively classroom life. Bringing up tremendous themes, she and her classmates exchange words like sword-strokes, and here and there even a profound remark is slipped in. \n\nA fun and informative debate comedy, packed into only five minutes each time. \n\n(Source: AniDB) '"
-animeRelated	[b'Gakkatsu! 2nd Season']
-animeCharacters	[b'Takachiho, Chiho', b'Kuriyama', b'Sensei', b'Ngvangida', b'Alpako', b'Saeki', b'Abe', b'Saionji', b'Hokura', b'Tsukahara']
-animeVoices	[b'\nKawasho, Miyuki\nJapanese\n', b'\nNaga, Ami\nJapanese\n', b'\nCR Okamoto, Monogatari\nJapanese\n', b'\nTerui, Haruka\nJapanese\n', b'\nArai, Souta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nRareko\n\nDirector, Screenplay, Music\n\n', b'\nFukihara, Kouta\n\nScreenplay\n\n']
+animePopularity	6170
+animeDescription	"In a fictional school, ""Tender Tank"" Rareko is constantly opening absurd yet strangely enthusiastic debates, this way creating a lively classroom life. Bringing up tremendous themes, she and her classmates exchange words like sword-strokes, and here and there even a profound remark is slipped in. 
+
+A fun and informative debate comedy, packed into only five minutes each time. 
+
+(Source: AniDB) "
+animeRelated	['Gakkatsu! 2nd Season']
+animeCharacters	['Takachiho, Chiho', 'Kuriyama', 'Sensei', 'Ngvangida', 'Alpako', 'Saeki', 'Abe', 'Saionji', 'Hokura', 'Tsukahara']
+animeVoices	['Kawasho, Miyuki', 'Naga, Ami', 'CR Okamoto, Monogatari', 'Terui, Haruka', 'Arai, Souta']
+animeStaff	[['Rareko', 'Director, Screenplay, Music'], ['Fukihara, Kouta', 'Screenplay']]

@@ -1,5 +1,5 @@
-animeTitle	b'Unkai no Meikyuu Zeguy'
-animeType	b'OVA'
+animeTitle	Unkai no Meikyuu Zeguy
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	5.72
 animeUsers	538
 animeRank	
-animePopularity	
-animeDescription	b'Mysterious warriors appear to blast Miki into another dimension! She flees her captors only to find herself trapped in a world of monsters and madmen who plot the downfall of Earth. \nThe only power that can possible save her (and the world) is that of the mysterious Mask of Zeguy. Miki must embark on a life-or-death quest for this talisman, with the villains who kidnapped in hot pursuit! \n\n(Source: AniDB)'
+animePopularity	9902
+animeDescription	"Mysterious warriors appear to blast Miki into another dimension! She flees her captors only to find herself trapped in a world of monsters and madmen who plot the downfall of Earth. 
+The only power that can possible save her (and the world) is that of the mysterious Mask of Zeguy. Miki must embark on a life-or-death quest for this talisman, with the villains who kidnapped in hot pursuit! 
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Miki', b'Hiraga, Gennai', b'Hijikata, Toshizo', b'Himiko', b'Koumei, Shokatsuryou', b'Sayaka', b'Old man', b'da Vinci, Leonardo']
-animeVoices	[b'\nYokoyama, Chisa\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nYamada, Eiko\nJapanese\n', b'\nIkeda, Shuuichi\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKageyama, Shigenori\n\nDirector, Script, Screenplay, Original Creator\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b'\nYokoyama, Chisa\n\nTheme Song Performance\n\n', b'\nOoshiro, Tsutomu\n\nKey Animation\n\n']
+animeCharacters	['Miki', 'Hiraga, Gennai', 'Hijikata, Toshizo', 'Himiko', 'Koumei, Shokatsuryou', 'Sayaka', 'Old man', 'da Vinci, Leonardo']
+animeVoices	['Yokoyama, Chisa', 'Nagai, Ichiro', 'Yamadera, Kouichi', 'Yamada, Eiko', 'Ikeda, Shuuichi', 'Hidaka, Noriko', 'Satou, Masaharu', 'Ogata, Kenichi']
+animeStaff	[['Kageyama, Shigenori', 'Director, Script, Screenplay, Original Creator'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Yokoyama, Chisa', 'Theme Song Performance'], ['Ooshiro, Tsutomu', 'Key Animation']]

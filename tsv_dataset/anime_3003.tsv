@@ -1,5 +1,5 @@
-animeTitle	b'Shinkyoku Soukai Polyphonica Crimson S'
-animeType	b'TV'
+animeTitle	Shinkyoku Soukai Polyphonica Crimson S
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.17
 animeUsers	8115
 animeRank	
-animePopularity	
-animeDescription	"b""The new series will again focus on Corticarte, but it will tie into Ichiro Sakaki and Noboru Kannatsuki's Shinkyoku S\xc5\x8dkai Polyphonica crimson S light novel adaptation, which are set during the Academy years of the storyline. \n\n(Source: ANN)"""
-animeRelated	[b'Shinkyoku Soukai Polyphonica Crimson S', b'Shinkyoku Soukai Polyphonica']
-animeCharacters	[b'Apa Lagranges, Corticarte', b'Tatara, Phoron', b'Yugiri, Prinesca', b'Yugiri, Perserte', b'Shidara, Leitos', b'Mizeldorido', b'Psyche, Renbart', b'Tsuge, Eufinley']
-animeVoices	[b'\nTomatsu, Haruka\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nNonaka, Ai\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatomi, Tetsurou\n\nProducer\n\n', b'\nSuzuki, Toshimasa\n\nDirector, Episode Director, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nUeda, Shigeru\n\nEpisode Director\n\n']
+animePopularity	3746
+animeDescription	"The new series will again focus on Corticarte, but it will tie into Ichiro Sakaki and Noboru Kannatsuki's Shinkyoku Sōkai Polyphonica crimson S light novel adaptation, which are set during the Academy years of the storyline. 
+
+(Source: ANN)"
+animeRelated	['Shinkyoku Soukai Polyphonica Crimson S', 'Shinkyoku Soukai Polyphonica']
+animeCharacters	['Apa Lagranges, Corticarte', 'Tatara, Phoron', 'Yugiri, Prinesca', 'Yugiri, Perserte', 'Shidara, Leitos', 'Mizeldorido', 'Psyche, Renbart', 'Tsuge, Eufinley']
+animeVoices	['Tomatsu, Haruka', 'Kamiya, Hiroshi', 'Satou, Rina', 'Mizuki, Nana', 'Hayami, Show', 'Nonaka, Ai', 'Konishi, Katsuyuki', 'Kawasumi, Ayako']
+animeStaff	[['Satomi, Tetsurou', 'Producer'], ['Suzuki, Toshimasa', 'Director, Episode Director, Storyboard'], ['Aketagawa, Jin', 'Sound Director'], ['Ueda, Shigeru', 'Episode Director']]

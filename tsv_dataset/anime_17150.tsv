@@ -1,5 +1,5 @@
-animeTitle	b'Makkuro na Obentou'
-animeType	b'Movie'
+animeTitle	Makkuro na Obentou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'On the 6th of August, 1945, an atomic bomb was dropped on the city of Hiroshima. A young boy, Shigeru, left home for his job as a building excavator that morning, carrying a bento made by his mother, only to never return home again. Before long, his mother managed to find Shigeru\'s remains, and she noticed the completely black and carbonized bento box next to them. \n\nThis is an anime adaptation of the original book, ""Makkuro na Obentou (The Charred Lunchbox)"" written by Kodama Tatsuharu and illustrated by Kitajima Shinpei. The bento box that becomes the focus of the story is actually on display in the Hiroshima Peace Memorial Museum.\n\n(Source: AniDB)'"
+animePopularity	13915
+animeDescription	"On the 6th of August, 1945, an atomic bomb was dropped on the city of Hiroshima. A young boy, Shigeru, left home for his job as a building excavator that morning, carrying a bento made by his mother, only to never return home again. Before long, his mother managed to find Shigeru's remains, and she noticed the completely black and carbonized bento box next to them. 
+
+This is an anime adaptation of the original book, ""Makkuro na Obentou (The Charred Lunchbox)"" written by Kodama Tatsuharu and illustrated by Kitajima Shinpei. The bento box that becomes the focus of the story is actually on display in the Hiroshima Peace Memorial Museum.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Shigeko', b'Kimie']
-animeVoices	[b'\nSakamoto, Maaya\nJapanese\n', b'\nDoi, Mika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Satoshi\n\nDirector\n\n', b'\nKodama, Tatsuharu\n\nOriginal Creator\n\n']
+animeCharacters	['Shigeko', 'Kimie']
+animeVoices	['Sakamoto, Maaya', 'Doi, Mika']
+animeStaff	[['Dezaki, Satoshi', 'Director'], ['Kodama, Tatsuharu', 'Original Creator']]

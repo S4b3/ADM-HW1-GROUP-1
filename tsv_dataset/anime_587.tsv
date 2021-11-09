@@ -1,5 +1,5 @@
-animeTitle	b'Tekkon Kinkreet'
-animeType	b'Movie'
+animeTitle	Tekkon Kinkreet
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	7.97
 animeUsers	38742
 animeRank	
-animePopularity	
-animeDescription	"b'The streets of Treasure Town are said to belong to ""The Cats."" They know everything that goes on in the city, and no one can stir up trouble without going through them first. In reality, The Cats are a pair of orphan boys called Black and White, who aren\xe2\x80\x99t afraid of anything or anyone. \n\nBut their rule of the streets is challenged when the Yakuza come to town and start making changes. The wild Black and the carefree White have no one to rely on but themselves to get their Treasure Town back to the way it was. But their bond is tested as they quickly realize going back to how things were may no longer be an option.\n\n[Written by MAL Rewrite]\n'"
-animeRelated	[b'Tekkon Kinkreet', b'Tekkon Kinkreet Pilot']
-animeCharacters	[b'Shiro', b'Kuro', b'The Minotaur', b'Suzuki', b'Snake', b'Kimura', b'Jiccha', b'Yakuza Boss', b'Fujimura', b'Sawada']
-animeVoices	[b'\nAoi, Yuu\nJapanese\n', b'\nNinomiya, Kazunari\nJapanese\n', b'\nTanaka, Min\nJapanese\n', b'\nMotoki, Masahiro\nJapanese\n', b'\nIseya, Yusuke\nJapanese\n', b'\nNaya, Rokurou\nJapanese\n', b'\nMugihito\nJapanese\n', b'\nNishimura, Tomomichi\nJapanese\n', b'\nKudou, Kankurou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKamagata, Eiichi\n\nProducer\n\n', b'\nArias, Michael\n\nDirector, Storyboard, Special Effects, Series Composition\n\n', b'\nAndou, Hiroaki\n\nEpisode Director\n\n', b'\nMorimoto, Kouji\n\nStoryboard\n\n']
+animePopularity	1690
+animeDescription	"The streets of Treasure Town are said to belong to ""The Cats."" They know everything that goes on in the city, and no one can stir up trouble without going through them first. In reality, The Cats are a pair of orphan boys called Black and White, who aren’t afraid of anything or anyone. 
+
+But their rule of the streets is challenged when the Yakuza come to town and start making changes. The wild Black and the carefree White have no one to rely on but themselves to get their Treasure Town back to the way it was. But their bond is tested as they quickly realize going back to how things were may no longer be an option.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Tekkon Kinkreet', 'Tekkon Kinkreet Pilot']
+animeCharacters	['Shiro', 'Kuro', 'The Minotaur', 'Suzuki', 'Snake', 'Kimura', 'Jiccha', 'Yakuza Boss', 'Fujimura', 'Sawada']
+animeVoices	['Aoi, Yuu', 'Ninomiya, Kazunari', 'Tanaka, Min', 'Motoki, Masahiro', 'Iseya, Yusuke', 'Naya, Rokurou', 'Mugihito', 'Nishimura, Tomomichi', 'Kudou, Kankurou']
+animeStaff	[['Kamagata, Eiichi', 'Producer'], ['Arias, Michael', 'Director, Storyboard, Special Effects, Series Composition'], ['Andou, Hiroaki', 'Episode Director'], ['Morimoto, Kouji', 'Storyboard']]

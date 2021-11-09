@@ -1,5 +1,5 @@
-animeTitle	b'Chuuchuu Banban'
-animeType	b'Movie'
+animeTitle	Chuuchuu Banban
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
+animePopularity	15606
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
 animeRelated	[]
-animeCharacters	[b'Professor', b'Muller, Buck', b'Doragorou', b'Bun']
-animeVoices	[b'\nMatsushima, Minori\nJapanese\n', b'\nSakamoto, Shinpei\nJapanese\n', b'\nOotake, Hiroshi\nJapanese\n', b'\nTakiguchi, Junpei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYabuki, Kimio\n\nEpisode Director\n\n', b'\nYamayoshi, Yasuo\n\nEpisode Director\n\n', b'\nKubo, Tsuguyuki\n\nAnimation Director\n\n', b'\nKobayashi, Asei\n\nMusic\n\n']
+animeCharacters	['Professor', 'Muller, Buck', 'Doragorou', 'Bun']
+animeVoices	['Matsushima, Minori', 'Sakamoto, Shinpei', 'Ootake, Hiroshi', 'Takiguchi, Junpei']
+animeStaff	[['Yabuki, Kimio', 'Episode Director'], ['Yamayoshi, Yasuo', 'Episode Director'], ['Kubo, Tsuguyuki', 'Animation Director'], ['Kobayashi, Asei', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Uchuu Senkan Yamato III'
-animeType	b'TV'
+animeTitle	Uchuu Senkan Yamato III
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.07
 animeUsers	1498
 animeRank	
-animePopularity	
-animeDescription	b'A stray missile from a confrontation between the Galman empire and the Bolar Federation crashes into the sun, turning it into a time bomb of radiation. The Star Force once again sets off into space, this time on a quest to look for a new world for the human race. \n\n(Source: ANN) '
-animeRelated	[b'Yamato III', b'Yamato yo Towa ni', b'Uchuu Senkan Yamato: Kanketsu-hen']
-animeCharacters	[b'Kodai, Susumu', b'Desler, Aberdt', b'Mori, Yuki', b'Sanada, Shirou', b'Shima, Daisuke', b'Ageha, Takeshi', b'Analyzer', b'Sado, Sakezou', b'Domon, Ryuusuke', b'Talan, Ghader']
-animeVoices	[b'\nTomiyama, Kei\nJapanese\n', b'\nIbu, Masatou\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nNakamura, Shuusei\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nYada, Kouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsumoto, Leiji\n\nDirector, Original Creator\n\n', b'\nYamamoto, Eiichi\n\nDirector, Script\n\n', b'\nSasagawa, Hiroshi\n\nEpisode Director\n\n', b'\nShirato, Takeshi\n\nEpisode Director, Storyboard, Animation Director\n\n']
+animePopularity	6879
+animeDescription	"A stray missile from a confrontation between the Galman empire and the Bolar Federation crashes into the sun, turning it into a time bomb of radiation. The Star Force once again sets off into space, this time on a quest to look for a new world for the human race. 
+
+(Source: ANN) "
+animeRelated	['Yamato III', 'Yamato yo Towa ni', 'Uchuu Senkan Yamato: Kanketsu-hen']
+animeCharacters	['Kodai, Susumu', 'Desler, Aberdt', 'Mori, Yuki', 'Sanada, Shirou', 'Shima, Daisuke', 'Ageha, Takeshi', 'Analyzer', 'Sado, Sakezou', 'Domon, Ryuusuke', 'Talan, Ghader']
+animeVoices	['Tomiyama, Kei', 'Ibu, Masatou', 'Ichiryuusai, Harumi', 'Aono, Takeshi', 'Nakamura, Shuusei', 'Furukawa, Toshio', 'Ogata, Kenichi', 'Nagai, Ichiro', 'Tanaka, Hideyuki', 'Yada, Kouji']
+animeStaff	[['Matsumoto, Leiji', 'Director, Original Creator'], ['Yamamoto, Eiichi', 'Director, Script'], ['Sasagawa, Hiroshi', 'Episode Director'], ['Shirato, Takeshi', 'Episode Director, Storyboard, Animation Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Umigame to Shounen'
-animeType	b'Special'
+animeTitle	Umigame to Shounen
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'The first film in Shin-Ei\'s series of annual WWII themed anime television movies for children ""Sensou Douwa"" (war story).\n\n(Source: AniDB)'"
-animeRelated	[b'Kiku-chan to Ookami', b'Futatsu no Kurumi', b'Aoi Hitomi no Onnanoko no Ohanashi', b'Yakeato no, Okashi no Ki', b'Boku no Boukuugou', b'Tako ni Natta Okaasan', b'Chiisai Sensuikan ni Koi wo Shita Dekasugiru Kujira no Hanashi']
-animeCharacters	"[b""Tetsuo's Grandmother""]"
-animeVoices	[b'\nHisamatsu, Yuuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYasumi, Tetsuo\n\nDirector\n\n', b'\nOokuma, Akira\n\nSound Director\n\n', b'\nSakuraba, Motoi\n\nMusic\n\n', b'\nSeki, Shuuichi\n\nCharacter Design\n\n']
+animePopularity	13388
+animeDescription	"The first film in Shin-Ei's series of annual WWII themed anime television movies for children ""Sensou Douwa"" (war story).
+
+(Source: AniDB)"
+animeRelated	['Kiku-chan to Ookami', 'Futatsu no Kurumi', 'Aoi Hitomi no Onnanoko no Ohanashi', 'Yakeato no, Okashi no Ki', 'Boku no Boukuugou', 'Tako ni Natta Okaasan', 'Chiisai Sensuikan ni Koi wo Shita Dekasugiru Kujira no Hanashi']
+animeCharacters	"[""Tetsuo's Grandmother""]"
+animeVoices	['Hisamatsu, Yuuko']
+animeStaff	[['Yasumi, Tetsuo', 'Director'], ['Ookuma, Akira', 'Sound Director'], ['Sakuraba, Motoi', 'Music'], ['Seki, Shuuichi', 'Character Design']]

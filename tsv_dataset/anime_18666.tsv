@@ -1,5 +1,5 @@
-animeTitle	b'Toushin Toshi II'
-animeType	b'OVA'
+animeTitle	Toushin Toshi II
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.74
 animeUsers	379
 animeRank	
-animePopularity	
-animeDescription	b'Sid enters a tournament. Shortly after he is crowned champion, the fallen Angel Aquross infects him with a hideous disease that requires him to steal the life energy of Angels or be in constant pain. The only relief lies in a drug that kills the pain, but causes sexual urges that cannot be denied. Now, Sid must defeat the evil Aquross.\n\n(Source: ANN)'
+animePopularity	10562
+animeDescription	"Sid enters a tournament. Shortly after he is crowned champion, the fallen Angel Aquross infects him with a hideous disease that requires him to steal the life energy of Angels or be in constant pain. The only relief lies in a drug that kills the pain, but causes sexual urges that cannot be denied. Now, Sid must defeat the evil Aquross.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Selena', b'Sid', b'Mizuhara, Hazuki']
-animeVoices	[b'\nYamaguchi, Yuriko\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nYoshida, Konami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nAliceSoft\n\nOriginal Creator\n\n', b'\nMaru, Kanako\n\nIn-Between Animation\n\n']
+animeCharacters	['Selena', 'Sid', 'Mizuhara, Hazuki']
+animeVoices	['Yamaguchi, Yuriko', 'Ishida, Akira', 'Yoshida, Konami']
+animeStaff	[['Iwanami, Yoshikazu', 'Sound Director'], ['AliceSoft', 'Original Creator'], ['Maru, Kanako', 'In-Between Animation']]

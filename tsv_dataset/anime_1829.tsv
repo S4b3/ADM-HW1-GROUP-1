@@ -1,5 +1,5 @@
-animeTitle	b'Kingsglaive: Final Fantasy XV'
-animeType	b'Movie'
+animeTitle	Kingsglaive: Final Fantasy XV
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.44
 animeUsers	31551
 animeRank	
-animePopularity	
-animeDescription	"b'For years, the Niflheim Empire and the kingdom of Lucis have been at war. The empire, having dominated most of the world of Eos, covets the power of the last known Crystal, which is held in Lucis\' capital city, Insomnia.\n\nIn order to protect his people from these advancing forces, King Regis Lucis Caelum CXIII used the power of the Crystal to surround Insomnia with a magical wall. Along with this barrier, Regis assembled an elite military task force known as the Kingsglaive. By drawing their power from the king, the Kingsglaive protect Lucis\' borders from the onslaught of the empire and other forces that would do them harm.\n\nOne such member of the Kingsglaive is Nyx, a man nicknamed ""The Hero"" by his fellow warriors due to his arrogance and desire to save everyone. However, his pride gets the better of him, causing him to disobey his captain\'s orders, resulting in a demotion. Now, Nyx spends his days guarding the city gates, but things begin to change once word gets out that Regis plans to sign a peace treaty with their sworn enemies.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Brotherhood: Final Fantasy XV', b'Kingsglaive: FFXV Fan Kansha Tokubetsu Movie', b'Final Fantasy XV: Episode Ardyn - Prologue']
-animeCharacters	[b'Ulric, Nyx', b'Nox Fleuret, Lunafreya', b'Lucis Caelum, Regis', b'Lucis Caelum, Noctis', b'Argentum, Prompto', b'Scientia, Ignis', b'Amicitia, Gladiolus', b'Izunia, Ardyn', b'Nox Fleuret, Ravus', b'Altius, Crowe']
-animeVoices	[b'\nAyano, Gou\nJapanese\n', b'\nKutsuna, Shiori\nJapanese\n', b'\nIsobe, Tsutomu\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTabata, Hajime\n\nProducer\n\n', b'\nNozue, Takeshi\n\nDirector\n\n', b'\nHasegawa, Takashi\n\nScript\n\n', b'\nGraham, John\n\nMusic\n\n']
+animePopularity	2449
+animeDescription	"For years, the Niflheim Empire and the kingdom of Lucis have been at war. The empire, having dominated most of the world of Eos, covets the power of the last known Crystal, which is held in Lucis' capital city, Insomnia.
+
+In order to protect his people from these advancing forces, King Regis Lucis Caelum CXIII used the power of the Crystal to surround Insomnia with a magical wall. Along with this barrier, Regis assembled an elite military task force known as the Kingsglaive. By drawing their power from the king, the Kingsglaive protect Lucis' borders from the onslaught of the empire and other forces that would do them harm.
+
+One such member of the Kingsglaive is Nyx, a man nicknamed ""The Hero"" by his fellow warriors due to his arrogance and desire to save everyone. However, his pride gets the better of him, causing him to disobey his captain's orders, resulting in a demotion. Now, Nyx spends his days guarding the city gates, but things begin to change once word gets out that Regis plans to sign a peace treaty with their sworn enemies.
+
+[Written by MAL Rewrite]"
+animeRelated	['Brotherhood: Final Fantasy XV', 'Kingsglaive: FFXV Fan Kansha Tokubetsu Movie', 'Final Fantasy XV: Episode Ardyn - Prologue']
+animeCharacters	['Ulric, Nyx', 'Nox Fleuret, Lunafreya', 'Lucis Caelum, Regis', 'Lucis Caelum, Noctis', 'Argentum, Prompto', 'Scientia, Ignis', 'Amicitia, Gladiolus', 'Izunia, Ardyn', 'Nox Fleuret, Ravus', 'Altius, Crowe']
+animeVoices	['Ayano, Gou', 'Kutsuna, Shiori', 'Isobe, Tsutomu', 'Suzuki, Tatsuhisa', 'Kakihara, Tetsuya', 'Miyano, Mamoru', 'Miyake, Kenta', 'Fujiwara, Keiji', 'Nakamura, Yuuichi', 'Fujimura, Ayumi']
+animeStaff	[['Tabata, Hajime', 'Producer'], ['Nozue, Takeshi', 'Director'], ['Hasegawa, Takashi', 'Script'], ['Graham, John', 'Music']]

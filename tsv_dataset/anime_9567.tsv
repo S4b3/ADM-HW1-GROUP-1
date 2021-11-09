@@ -1,5 +1,5 @@
-animeTitle	b'Digimon Adventure 3D: Digimon Grand Prix!'
-animeType	b'Movie'
+animeTitle	Digimon Adventure 3D: Digimon Grand Prix!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.75
 animeUsers	3348
 animeRank	
-animePopularity	
-animeDescription	b'Digimon special, Mario Kart style racing.'
-animeRelated	[b'Digimon Adventure']
-animeCharacters	[b'Agumon', b'V-mon', b'PicoDevimon', b'Tailmon', b'Patamon', b'Gabumon', b'Gomamon', b'Tentomon', b'Piyomon', b'Palmon']
-animeVoices	[b'\nSakamoto, Chika\nJapanese\n', b'\nNoda, Junko\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nTokumitsu, Yuka\nJapanese\n', b'\nMatsumoto, Miwa\nJapanese\n', b'\nYamaguchi, Mayumi\nJapanese\n', b'\nTakeuchi, Junko\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nShigematsu, Atori\nJapanese\n', b'\nYamada, Kinoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHosoda, Mamoru\n\nEpisode Director\n\n']
+animePopularity	5915
+animeDescription	Digimon special, Mario Kart style racing.
+animeRelated	['Digimon Adventure']
+animeCharacters	['Agumon', 'V-mon', 'PicoDevimon', 'Tailmon', 'Patamon', 'Gabumon', 'Gomamon', 'Tentomon', 'Piyomon', 'Palmon']
+animeVoices	['Sakamoto, Chika', 'Noda, Junko', 'Miyata, Kouki', 'Tokumitsu, Yuka', 'Matsumoto, Miwa', 'Yamaguchi, Mayumi', 'Takeuchi, Junko', 'Sakurai, Takahiro', 'Shigematsu, Atori', 'Yamada, Kinoko']
+animeStaff	[['Hosoda, Mamoru', 'Episode Director']]

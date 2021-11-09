@@ -1,5 +1,5 @@
-animeTitle	b'McDull: Boluo You Wang Zi'
-animeType	b'Movie'
+animeTitle	McDull: Boluo You Wang Zi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'McDull, Prince de la Bun is a 2004 animated Hong Kong film directed by Yuen Toe. Telling the life a the fictional pig McDull, it is a sequel to My Life as McDull (2001) and it was followed by McDull, the Alumni (2006).\n\n(Source: Wikipedia)'
-animeRelated	[b'McDull: Gushi']
-animeCharacters	[b'McBing', b'McDull']
+animePopularity	15086
+animeDescription	"McDull, Prince de la Bun is a 2004 animated Hong Kong film directed by Yuen Toe. Telling the life a the fictional pig McDull, it is a sequel to My Life as McDull (2001) and it was followed by McDull, the Alumni (2006).
+
+(Source: Wikipedia)"
+animeRelated	['McDull: Gushi']
+animeCharacters	['McBing', 'McDull']
 animeVoices	[]
 animeStaff	[]

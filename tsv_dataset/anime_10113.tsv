@@ -1,5 +1,5 @@
-animeTitle	b'Houkago no Tinker Bell'
-animeType	b'OVA'
+animeTitle	Houkago no Tinker Bell
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.59
 animeUsers	214
 animeRank	
-animePopularity	
-animeDescription	"b""Based on a story from the After School Series line of light novels.\n\nKenichi Akizuki and Misako Watanabe work together to solve the mysterious disappearance of their classmate Ryouko Miyazaki.  The only clue left by the kidnapper is signed Koushin Okazaki, her late classmate who'd committed suicide to preserve his youth and become like Peter Pan."""
+animePopularity	11943
+animeDescription	"Based on a story from the After School Series line of light novels.
+
+Kenichi Akizuki and Misako Watanabe work together to solve the mysterious disappearance of their classmate Ryouko Miyazaki.  The only clue left by the kidnapper is signed Koushin Okazaki, her late classmate who'd committed suicide to preserve his youth and become like Peter Pan."
 animeRelated	[]
-animeCharacters	[b'Watanabe, Misako', b'Akizuki, Kenichi', b'Okazaki, Koushin', b'Anamizu-senpai', b'Tano, Keiko', b'Edogawa, Junji', b'Yukino, Hiro', b'Sasamoto, Kazuhiro', b'Miyazaki, Ryoko']
-animeVoices	[b'\nMizutani, Yuuko\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nOno, Kenichi\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n', b'\nIwanaga, Tetsuya\nJapanese\n', b'\nKawamura, Maria\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Hideyuki\n\nSound Director\n\n', b'\nIshizaki, Susumu\n\nEpisode Director\n\n', b'\nShiramine, Mitsuko\n\nTheme Song Lyrics\n\n', b'\nKaneko, Hitoshi\n\nDirector of Photography\n\n']
+animeCharacters	['Watanabe, Misako', 'Akizuki, Kenichi', 'Okazaki, Koushin', 'Anamizu-senpai', 'Tano, Keiko', 'Edogawa, Junji', 'Yukino, Hiro', 'Sasamoto, Kazuhiro', 'Miyazaki, Ryoko']
+animeVoices	['Mizutani, Yuuko', 'Tobita, Nobuo', 'Fujiwara, Keiji', 'Ono, Kenichi', 'Hiramatsu, Akiko', 'Matsumoto, Yasunori', 'Kikuchi, Masami', 'Iwanaga, Tetsuya', 'Kawamura, Maria']
+animeStaff	[['Tanaka, Hideyuki', 'Sound Director'], ['Ishizaki, Susumu', 'Episode Director'], ['Shiramine, Mitsuko', 'Theme Song Lyrics'], ['Kaneko, Hitoshi', 'Director of Photography']]

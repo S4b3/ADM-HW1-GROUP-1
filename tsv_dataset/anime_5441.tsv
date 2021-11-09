@@ -1,5 +1,5 @@
-animeTitle	b'Yesterday wo Utatte: Haishin-ban Episode'
-animeType	b'ONA'
+animeTitle	Yesterday wo Utatte: Haishin-ban Episode
+animeType	ONA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.63
 animeUsers	8110
 animeRank	
-animePopularity	
-animeDescription	b'Special episodes released on AbemaTV.'
-animeRelated	[b'Yesterday wo Utatte']
-animeCharacters	[b'Nonaka, Haru', b'Uozumi, Rikuo', b'Morinome, Shinako', b'Sayama, Kyouko', b'Fukuda, Takanori']
-animeVoices	[b'\nMiyamoto, Yume\nJapanese\n', b'\nKobayashi, Chikahiro\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n']
+animePopularity	4027
+animeDescription	Special episodes released on AbemaTV.
+animeRelated	['Yesterday wo Utatte']
+animeCharacters	['Nonaka, Haru', 'Uozumi, Rikuo', 'Morinome, Shinako', 'Sayama, Kyouko', 'Fukuda, Takanori']
+animeVoices	['Miyamoto, Yume', 'Kobayashi, Chikahiro', 'Hanazawa, Kana', 'Sakamoto, Maaya', 'Terashima, Takuma']
 animeStaff	[]

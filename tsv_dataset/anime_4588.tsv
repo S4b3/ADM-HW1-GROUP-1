@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Quest: Your Story'
-animeType	b'Movie'
+animeTitle	Dragon Quest: Your Story
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.81
 animeUsers	7179
 animeRank	
-animePopularity	
-animeDescription	"b""Following in his father's footsteps, Luca must find the hero who wields the zenithian sword to save his mother from Ladja. Based on Dragon Quest V: Hand of the Heavenly Bride game's story.\n\n(Source: Apple TV)"""
-animeRelated	[b'Dragon Quest: Dai no Daibouken (TV)']
-animeCharacters	[b'Bianca', b'Flora', b'Luka', b'Surarin', b'Briscoletti, Debora', b'Buon', b'Gema', b'Nimzo', b'Martha', b'Papas']
-animeVoices	[b'\nArimura, Kasumi\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nFuruta, Arata\nJapanese\n', b'\nYoshida, Koutarou\nJapanese\n', b'\nYamada, Takayuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamazaki, Takashi\n\nDirector, Script\n\n', b'\nHorii, Yuuji\n\nOriginal Creator\n\n', b'\nSugiyama, Koichi\n\nMusic\n\n']
+animePopularity	4879
+animeDescription	"Following in his father's footsteps, Luca must find the hero who wields the zenithian sword to save his mother from Ladja. Based on Dragon Quest V: Hand of the Heavenly Bride game's story.
+
+(Source: Apple TV)"
+animeRelated	['Dragon Quest: Dai no Daibouken (TV)']
+animeCharacters	['Bianca', 'Flora', 'Luka', 'Surarin', 'Briscoletti, Debora', 'Buon', 'Gema', 'Nimzo', 'Martha', 'Papas']
+animeVoices	['Arimura, Kasumi', 'Yamadera, Kouichi', 'Furuta, Arata', 'Yoshida, Koutarou', 'Yamada, Takayuki']
+animeStaff	[['Yamazaki, Takashi', 'Director, Script'], ['Horii, Yuuji', 'Original Creator'], ['Sugiyama, Koichi', 'Music']]

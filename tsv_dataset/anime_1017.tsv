@@ -1,5 +1,5 @@
-animeTitle	b'Little Busters!: EX'
-animeType	b'Special'
+animeTitle	Little Busters!: EX
+animeType	Special
 animeNumEpisode	8
 releaseDate	
 endDate	
@@ -7,9 +7,17 @@ animeNumMembers
 animeScore	7.72
 animeUsers	22731
 animeRank	
-animePopularity	
-animeDescription	"b'The main additions in ""Little Busters! Ecstasy"" are 3 heroine routes involving the characters Futaki Kanata, Sasasegawa Sasami and Tokido Saya.\n\nThe 3 EX heroines\' routes take place of the following:\n\nSaya\'s route - Before the events of Refrain.\nSasami\'s route - After the events of Refrain.\nKanata\'s route - First half of her story is before Refrain and second half is after Refrain.\n\nThe episodes will be bundled with the BD/DVD releases of Little Busters!: Refrain.'"
-animeRelated	[b'Little Busters! Ecstasy Series', b'Little Busters!: Refrain']
-animeCharacters	[b'Tokido, Saya', b'Naoe, Riki', b'Futaki, Kanata', b'Sasasegawa, Sasami', b'Natsume, Kyousuke', b'Noumi, Kudryavka', b'Natsume, Rin', b'Kurugaya, Yuiko', b'Saigusa, Haruka', b'Kamikita, Komari']
-animeVoices	[b'\nSakurai, Harumi\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nSuzuki, Keiko\nJapanese\n', b'\nTokui, Sora\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nWakabayashi, Naomi\nJapanese\n', b'\nTamiyasu, Tomoe\nJapanese\n', b'\nTanaka, Ryouko\nJapanese\n', b'\nYanase, Natsumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamakawa, Yoshiki\n\nDirector\n\n', b'\nSuzuki, Kentarou\n\nEpisode Director, Storyboard\n\n', b'\nBottom, Kyle\n\nScript\n\n', b'\nFurukawa, Tomohiro\n\nStoryboard\n\n']
+animePopularity	2513
+animeDescription	"The main additions in ""Little Busters! Ecstasy"" are 3 heroine routes involving the characters Futaki Kanata, Sasasegawa Sasami and Tokido Saya.
+
+The 3 EX heroines' routes take place of the following:
+
+Saya's route - Before the events of Refrain.
+Sasami's route - After the events of Refrain.
+Kanata's route - First half of her story is before Refrain and second half is after Refrain.
+
+The episodes will be bundled with the BD/DVD releases of Little Busters!: Refrain."
+animeRelated	['Little Busters! Ecstasy Series', 'Little Busters!: Refrain']
+animeCharacters	['Tokido, Saya', 'Naoe, Riki', 'Futaki, Kanata', 'Sasasegawa, Sasami', 'Natsume, Kyousuke', 'Noumi, Kudryavka', 'Natsume, Rin', 'Kurugaya, Yuiko', 'Saigusa, Haruka', 'Kamikita, Komari']
+animeVoices	['Sakurai, Harumi', 'Horie, Yui', 'Suzuki, Keiko', 'Tokui, Sora', 'Midorikawa, Hikaru', 'Wakabayashi, Naomi', 'Tamiyasu, Tomoe', 'Tanaka, Ryouko', 'Yanase, Natsumi']
+animeStaff	[['Yamakawa, Yoshiki', 'Director'], ['Suzuki, Kentarou', 'Episode Director, Storyboard'], ['Bottom, Kyle', 'Script'], ['Furukawa, Tomohiro', 'Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'R.O.D: Read or Die'
-animeType	b'OVA'
+animeTitle	R.O.D: Read or Die
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.65
 animeUsers	30712
 animeRank	
-animePopularity	
-animeDescription	"b'Yomiko Readman is a lovable, near-sighted bibliomaniac working as a substitute teacher at a Japanese high school. Her real identity, however, is that of a secret agent for the British Library Special Operations Division. Her codename: ""The Paper."" The moniker denotes her supernatural ability to freely manipulate paper into any object she can imagine, including tools and weapons in her fight against the powerful and self-serving IJIN (Great Historical Figure) Army! Along with her partner, the enigmatic ""Ms. Deep,"" Yomiko travels across the world in attempt to solve the mystery behind the reincarnation of historical figures and their attempt to control the world.\n\n(Source: RightStuf)'"
-animeRelated	[b'R.O.D: Read or Die', b'R.O.D: The TV']
-animeCharacters	[b'Readman, Yomiko', b'Makuhari, Nancy', b'Anderson, Drake', b'Sanzo, Genjo', b'Carpenter, Joseph', b'van Beethoven, Ludwig', b'Earhart, Wendy', b'Lilienthal, Otto', b'Hiraga, Gennai', b'Soujun, Ikkyu']
-animeVoices	[b'\nMiura, Rieko\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nIwasaki, Masami\nJapanese\n', b'\nTakahashi, Hiroki\nJapanese\n', b'\nGouda, Hozumi\nJapanese\n', b'\nSakenobe, Mika\nJapanese\n', b'\nKaneko, Harii\nJapanese\n', b'\nOhtani, Ryousuke\nJapanese\n', b'\nKONTA\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasunari, Koji\n\nDirector\n\n', b'\nJaffe, Taliesin\n\nScript\n\n', b'\nKurata, Hideyuki\n\nScript, Original Creator\n\n', b'\nIwasaki, Taku\n\nMusic\n\n']
+animePopularity	2262
+animeDescription	"Yomiko Readman is a lovable, near-sighted bibliomaniac working as a substitute teacher at a Japanese high school. Her real identity, however, is that of a secret agent for the British Library Special Operations Division. Her codename: ""The Paper."" The moniker denotes her supernatural ability to freely manipulate paper into any object she can imagine, including tools and weapons in her fight against the powerful and self-serving IJIN (Great Historical Figure) Army! Along with her partner, the enigmatic ""Ms. Deep,"" Yomiko travels across the world in attempt to solve the mystery behind the reincarnation of historical figures and their attempt to control the world.
+
+(Source: RightStuf)"
+animeRelated	['R.O.D: Read or Die', 'R.O.D: The TV']
+animeCharacters	['Readman, Yomiko', 'Makuhari, Nancy', 'Anderson, Drake', 'Sanzo, Genjo', 'Carpenter, Joseph', 'van Beethoven, Ludwig', 'Earhart, Wendy', 'Lilienthal, Otto', 'Hiraga, Gennai', 'Soujun, Ikkyu']
+animeVoices	['Miura, Rieko', 'Neya, Michiko', 'Iwasaki, Masami', 'Takahashi, Hiroki', 'Gouda, Hozumi', 'Sakenobe, Mika', 'Kaneko, Harii', 'Ohtani, Ryousuke', 'KONTA']
+animeStaff	[['Masunari, Koji', 'Director'], ['Jaffe, Taliesin', 'Script'], ['Kurata, Hideyuki', 'Script, Original Creator'], ['Iwasaki, Taku', 'Music']]

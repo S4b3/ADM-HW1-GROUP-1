@@ -1,5 +1,5 @@
-animeTitle	b'Tsukipro The Animation 2'
-animeType	b'TV'
+animeTitle	Tsukipro The Animation 2
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.11
 animeUsers	301
 animeRank	
-animePopularity	
-animeDescription	"b""For the members of SolidS, Growth, SOARA, and QUELL, the Tsukino Talent Productions' Live 2021 Summer Carnival is coming soon. The two-day event will culminate with a joint live performance featuring all four units. Due to the size and setup of the stage, each unit will need to create new songs and choreographies to accompany them in the riveting second season of Tsukipro The Animation.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Tsukiuta. The Animation', b'Tsukiuta. The Animation 2', b'Vazzrock The Animation', b'Tsukipro The Animation']
-animeCharacters	[b'Fujimura, Mamoru', b'Takamura, Shiki', b'Sera, Rikka', b'Murase, Dai', b'Sakuraba, Ryouta', b'Oohara, Sora', b'Etou, Kouki', b'Okui, Tsubasa', b'Izumi, Shuu', b'Yaegashi, Kensuke']
-animeVoices	[b'\nTerashima, Junta\nJapanese\n', b'\nEguchi, Takuya\nJapanese\n', b'\nHanae, Natsuki\nJapanese\n', b'\nUmehara, Yuuichirou\nJapanese\n', b'\nYamashita, Daiki\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nToki, Shunichi\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nTakeuchi, Shunsuke\nJapanese\n', b'\nYamaya, Yoshitaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKimiya, Shigeru\n\nDirector\n\n', b'\nSekine, Satoko\n\nSeries Composition\n\n', b'\nSatsuki, You\n\nOriginal Character Design\n\n', b'\nShijima, Tohiro\n\nOriginal Character Design\n\n']
+animePopularity	6611
+animeDescription	"For the members of SolidS, Growth, SOARA, and QUELL, the Tsukino Talent Productions' Live 2021 Summer Carnival is coming soon. The two-day event will culminate with a joint live performance featuring all four units. Due to the size and setup of the stage, each unit will need to create new songs and choreographies to accompany them in the riveting second season of Tsukipro The Animation.
+
+[Written by MAL Rewrite]"
+animeRelated	['Tsukiuta. The Animation', 'Tsukiuta. The Animation 2', 'Vazzrock The Animation', 'Tsukipro The Animation']
+animeCharacters	['Fujimura, Mamoru', 'Takamura, Shiki', 'Sera, Rikka', 'Murase, Dai', 'Sakuraba, Ryouta', 'Oohara, Sora', 'Etou, Kouki', 'Okui, Tsubasa', 'Izumi, Shuu', 'Yaegashi, Kensuke']
+animeVoices	['Terashima, Junta', 'Eguchi, Takuya', 'Hanae, Natsuki', 'Umehara, Yuuichirou', 'Yamashita, Daiki', 'Toyonaga, Toshiyuki', 'Toki, Shunichi', 'Saitou, Souma', 'Takeuchi, Shunsuke', 'Yamaya, Yoshitaka']
+animeStaff	[['Kimiya, Shigeru', 'Director'], ['Sekine, Satoko', 'Series Composition'], ['Satsuki, You', 'Original Character Design'], ['Shijima, Tohiro', 'Original Character Design']]

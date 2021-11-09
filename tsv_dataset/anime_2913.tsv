@@ -1,5 +1,5 @@
-animeTitle	b'Neppuu Kairiku Bushi Road'
-animeType	b'Special'
+animeTitle	Neppuu Kairiku Bushi Road
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.19
 animeUsers	16982
 animeRank	
-animePopularity	
-animeDescription	"b'The story takes place in a time when the world is in the pits of despair after being ravaged by a poison called ""shinobi"" that came to earth via an asteroid. The people run away to the place called ""Kairiku,"" a place that used to be the bottom of the ocean. Here, the people try and protect themselves against the effects of the poison. In such a world, there was a single light of hope. The ""Holy Weapon Giga Road"" and the legendary warrior ""Yagyuu"" are needed in order to counter the effects of the poison. In order to save the world, Ame, a princess of a fallen nation, stands up in order to save the world.\n\n(Source: ANN)'"
+animePopularity	2619
+animeDescription	"The story takes place in a time when the world is in the pits of despair after being ravaged by a poison called ""shinobi"" that came to earth via an asteroid. The people run away to the place called ""Kairiku,"" a place that used to be the bottom of the ocean. Here, the people try and protect themselves against the effects of the poison. In such a world, there was a single light of hope. The ""Holy Weapon Giga Road"" and the legendary warrior ""Yagyuu"" are needed in order to counter the effects of the poison. In order to save the world, Ame, a princess of a fallen nation, stands up in order to save the world.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Yagyu, Suou', b'Ame', b'Kazusa, Shin', b'Tsukiyomi', b'Hashiba, Hinata', b'Maeda, Kagato', b'Sanda']
-animeVoices	[b'\nKENN\nJapanese\n', b'\nHan, Megumi\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nMorishima, Shuuta\nJapanese\n', b'\nSaeki, Tomo\nJapanese\n', b'\nSuzuki, Chihiro\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakoi, Masayuki\n\nDirector\n\n', b'\nTakakuwa, Hajime\n\nSound Director\n\n', b'\nIbata, Yoshihide\n\nEpisode Director\n\n', b'\nOno, Masatoshi\n\nTheme Song Performance\n\n']
+animeCharacters	['Yagyu, Suou', 'Ame', 'Kazusa, Shin', 'Tsukiyomi', 'Hashiba, Hinata', 'Maeda, Kagato', 'Sanda']
+animeVoices	['KENN', 'Han, Megumi', 'Toriumi, Kousuke', 'Morishima, Shuuta', 'Saeki, Tomo', 'Suzuki, Chihiro', 'Ootsuka, Akio']
+animeStaff	[['Sakoi, Masayuki', 'Director'], ['Takakuwa, Hajime', 'Sound Director'], ['Ibata, Yoshihide', 'Episode Director'], ['Ono, Masatoshi', 'Theme Song Performance']]

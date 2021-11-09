@@ -1,5 +1,5 @@
-animeTitle	b'Scan2Go'
-animeType	b'TV'
+animeTitle	Scan2Go
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.06
 animeUsers	1142
 animeRank	
-animePopularity	
-animeDescription	"b'Sometime in the near future, in an age in which we have established contact and communications with planets outside our galaxy, Scan2Go has become a huge phenomenon throughout all of outer space. Giant races are held at every locality, with each racer gunning for the title of the universe\'s number one racer!\n\nThe main character in the series, Kazuya, possesses the power of the eagle, performed well with his blazing, innate power commanding his falconine beast spirit. He competes in a tournament, the ""Pro-Racer Exhibition Race."", but was no match for the other teams that had won their way through the competitive Space Preliminaries.\n\nRealizing the difficult obstacles that lie before them, Kazuya and his friends leave the small Earth behind and set off on a universe-wide quest to hone their skills as warriors!'"
+animePopularity	8803
+animeDescription	"Sometime in the near future, in an age in which we have established contact and communications with planets outside our galaxy, Scan2Go has become a huge phenomenon throughout all of outer space. Giant races are held at every locality, with each racer gunning for the title of the universe's number one racer!
+
+The main character in the series, Kazuya, possesses the power of the eagle, performed well with his blazing, innate power commanding his falconine beast spirit. He competes in a tournament, the ""Pro-Racer Exhibition Race."", but was no match for the other teams that had won their way through the competitive Space Preliminaries.
+
+Realizing the difficult obstacles that lie before them, Kazuya and his friends leave the small Earth behind and set off on a universe-wide quest to hone their skills as warriors!"
 animeRelated	[]
-animeCharacters	[b'Shibakusa, Shiro', b'Morishima, Futaba', b'Takayama, Daigo', b'Kaibara, Mitsuki', b'Daidoh, Kazuya']
-animeVoices	[b'\nHoshi, Souichirou\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nSatou, Kouta\nJapanese\n', b'\nMizuhara, Kaoru\nJapanese\n', b'\nHirata, Mana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHashimoto, Mitsuo\n\nDirector\n\n', b'\nNagamori, Yoshihiro\n\nOriginal Character Design\n\n', b'\nWillems, Karl\n\nADR Director\n\n', b'\nVan Ermengem, Marie\n\nADR Director\n\n']
+animeCharacters	['Shibakusa, Shiro', 'Morishima, Futaba', 'Takayama, Daigo', 'Kaibara, Mitsuki', 'Daidoh, Kazuya']
+animeVoices	['Hoshi, Souichirou', 'Nakahara, Mai', 'Satou, Kouta', 'Mizuhara, Kaoru', 'Hirata, Mana']
+animeStaff	[['Hashimoto, Mitsuo', 'Director'], ['Nagamori, Yoshihiro', 'Original Character Design'], ['Willems, Karl', 'ADR Director'], ['Van Ermengem, Marie', 'ADR Director']]

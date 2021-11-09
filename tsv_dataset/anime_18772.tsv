@@ -1,5 +1,5 @@
-animeTitle	b'Yoru ga Kuru!'
-animeType	b'OVA'
+animeTitle	Yoru ga Kuru!
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.55
 animeUsers	619
 animeRank	
-animePopularity	
-animeDescription	b'Blue moon suddenly appeared near the moon, they called it True Moon. After 3 years when True Moon shined blue, a monster appeared in front of Ryo. He ran away from the monster, but finally, the monster cornered him. When he began to accept his death, a red eyed girl, Izumi, appeared. She cut the monster to death, and gone.\n\n(Source: AnimeNfo)'
+animePopularity	8549
+animeDescription	"Blue moon suddenly appeared near the moon, they called it True Moon. After 3 years when True Moon shined blue, a monster appeared in front of Ryo. He ran away from the monster, but finally, the monster cornered him. When he began to accept his death, a red eyed girl, Izumi, appeared. She cut the monster to death, and gone.
+
+(Source: AnimeNfo)"
 animeRelated	[]
-animeCharacters	[b'Izumi']
+animeCharacters	['Izumi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujimoto, Jirou\n\nScript\n\n', b'\nAliceSoft\n\nOriginal Creator\n\n', b'\nSekiya, Yoshihiro\n\nDirector of Photography\n\n', b'\nMori, Hisashi\n\nKey Animation\n\n']
+animeStaff	[['Fujimoto, Jirou', 'Script'], ['AliceSoft', 'Original Creator'], ['Sekiya, Yoshihiro', 'Director of Photography'], ['Mori, Hisashi', 'Key Animation']]

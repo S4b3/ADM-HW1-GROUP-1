@@ -1,5 +1,5 @@
-animeTitle	b'Nougyou Musume!'
-animeType	b'Special'
+animeTitle	Nougyou Musume!
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	5.13
 animeUsers	811
 animeRank	
-animePopularity	
-animeDescription	b'A 3 minute promotional episode of Nougyou Musume, titled Episode 0.\n\nThe story centers around Hikari and Hikaru Koshino, two sisters who take care of the paddy they inherited from their parents.\n\nTogether, the sisters grow rice and hang out with their friends in the local area.\n\n(Source: Neregate)'
+animePopularity	10172
+animeDescription	"A 3 minute promotional episode of Nougyou Musume, titled Episode 0.
+
+The story centers around Hikari and Hikaru Koshino, two sisters who take care of the paddy they inherited from their parents.
+
+Together, the sisters grow rice and hang out with their friends in the local area.
+
+(Source: Neregate)"
 animeRelated	[]
-animeCharacters	[b'Hanabata, Kirari', b'Miyagi, Komachi', b'Kuroba, Michiru', b'Koshino, Hikaru', b'Koshino, Hikari', b'Fuji, Natsume', b'Kure, Ayumi']
-animeVoices	[b'\nTakaoka, Kaori\nJapanese\n', b'\nHirota, Shion\nJapanese\n', b'\nShindou, Kei\nJapanese\n', b'\nTsuji, Ayumi\nJapanese\n', b'\nMikami, Shiori\nJapanese\n', b'\nMizuhara, Kaoru\nJapanese\n', b'\nHatanaka, Saki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMoriyama, Yoshihide\n\nProducer\n\n', b'\nYoshihara, Tatsuya\n\nKey Animation\n\n', b'\nFunta\n\nMusic\n\n', b'\nSunagawa, Masakazu\n\nKey Animation, Character Design, Animation Director\n\n']
+animeCharacters	['Hanabata, Kirari', 'Miyagi, Komachi', 'Kuroba, Michiru', 'Koshino, Hikaru', 'Koshino, Hikari', 'Fuji, Natsume', 'Kure, Ayumi']
+animeVoices	['Takaoka, Kaori', 'Hirota, Shion', 'Shindou, Kei', 'Tsuji, Ayumi', 'Mikami, Shiori', 'Mizuhara, Kaoru', 'Hatanaka, Saki']
+animeStaff	[['Moriyama, Yoshihide', 'Producer'], ['Yoshihara, Tatsuya', 'Key Animation'], ['Funta', 'Music'], ['Sunagawa, Masakazu', 'Key Animation, Character Design, Animation Director']]

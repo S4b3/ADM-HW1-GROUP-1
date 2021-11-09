@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon'
-animeType	b'TV'
+animeTitle	Doraemon
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,19 @@ animeNumMembers
 animeScore	7.37
 animeUsers	9474
 animeRank	
-animePopularity	
-animeDescription	"b""Nobita Nobi is so hapless that his 22nd century decendants are still impoverished as a result of his 20th century bumbling. In a bid to raise their social status, their servant, a robotic cat named Doraemon, decides to travel back in time and guide Nobita on the proper path to fortune. Unfortunately Doraemon, a dysfunctional robot that the familly acquired by accident (but chose to keep nonetheless), isn't much better off than Nobita. The robot leads Nobita on many adventures, and while Nobita's life certainly is more exciting with the robot cat from the future, it is questionable if it is in fact better in the way that Doraemon planned.\n\n(Source: AniDB)\n\nNote: The series has been poorly preserved, and never released on any format, nor has it ever been re-aired. \n\nNearly all the footage within the series (except for the opening and closing credits) was destroyed in an accidental fire sometime after the series was cancelled.\n\nSurviving reels from the show are occasionally shown at Doraemon fan conventions in Japan. In addition, the audio of several episodes still survives. Still images from episodes 1 and 24 exists.\n\n(Source: Wikipedia)"""
-animeRelated	[b'Doraemon', b'Doraemon (1979)', b'Doraemon: 2112-nen Doraemon Tanjou']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi', b'Nobi, Nobisuke', b'Nobi, Tamako', b'Sensei', b'Gouda, Sasuke', b'Minamoto, Michiko']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nOota, Yoshiko\nJapanese\n', b'\nEbisu, Masako\nJapanese\n', b'\nYashiro, Shun\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nMurakoshi, Ichirou\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nKatou, Osamu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoshi, Shigeo\n\nStoryboard\n\n', b'\nOkuda, Seiji\n\nStoryboard\n\n', b'\nKoshibe, Nobuyoshi\n\nTheme Song Composition, Theme Song Arrangement, Music\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n']
+animePopularity	4125
+animeDescription	"Nobita Nobi is so hapless that his 22nd century decendants are still impoverished as a result of his 20th century bumbling. In a bid to raise their social status, their servant, a robotic cat named Doraemon, decides to travel back in time and guide Nobita on the proper path to fortune. Unfortunately Doraemon, a dysfunctional robot that the familly acquired by accident (but chose to keep nonetheless), isn't much better off than Nobita. The robot leads Nobita on many adventures, and while Nobita's life certainly is more exciting with the robot cat from the future, it is questionable if it is in fact better in the way that Doraemon planned.
+
+(Source: AniDB)
+
+Note: The series has been poorly preserved, and never released on any format, nor has it ever been re-aired. 
+
+Nearly all the footage within the series (except for the opening and closing credits) was destroyed in an accidental fire sometime after the series was cancelled.
+
+Surviving reels from the show are occasionally shown at Doraemon fan conventions in Japan. In addition, the audio of several episodes still survives. Still images from episodes 1 and 24 exists.
+
+(Source: Wikipedia)"
+animeRelated	['Doraemon', 'Doraemon (1979)', 'Doraemon: 2112-nen Doraemon Tanjou']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Nobi, Nobisuke', 'Nobi, Tamako', 'Sensei', 'Gouda, Sasuke', 'Minamoto, Michiko']
+animeVoices	['Nozawa, Masako', 'Oota, Yoshiko', 'Ebisu, Masako', 'Yashiro, Shun', 'Kimotsuki, Kaneta', 'Murakoshi, Ichirou', 'Ohara, Noriko', 'Katou, Osamu']
+animeStaff	[['Koshi, Shigeo', 'Storyboard'], ['Okuda, Seiji', 'Storyboard'], ['Koshibe, Nobuyoshi', 'Theme Song Composition, Theme Song Arrangement, Music'], ['Fujiko, Fujio F.', 'Original Creator']]

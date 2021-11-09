@@ -1,5 +1,5 @@
-animeTitle	b'Aria the Natural'
-animeType	b'TV'
+animeTitle	Aria the Natural
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.18
 animeUsers	25031
 animeRank	
-animePopularity	
-animeDescription	b'Akari Mizunashi continues her training to become a Prima Undine (a professional tour guide gondolier) along with her friends Aika and Alice in the peaceful city of Neo Venezia. Despite the fact that these three girls are from competing companies, they are constantly together, learning more about how to become better tour guides and more about the mysteries of Neo Venezia.\n\nAs the group continues to meet interesting and unforgettable people through their daily routines, they will also come closer to the secrets that make the enigmatic and ever beautiful city of Neo Venezia so warm and alive.\n\nWelcome back to Neo Venezia: the city where miracles can be created by hand.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Aria', b'Aria the Animation', b'Aria the OVA: Arietta', b'Aria the Natural: Sono Futatabi Deaeru Kiseki ni...']
-animeCharacters	[b'Mizunashi, Akari', b'Carroll, Alice', b'Florence, Alicia', b'Granzchesta, Aika S.', b'Pokoteng, Aria', b'Glory, Athena', b'Ferrari, Akira E.', b'Cat Sith', b'Aino, Ai', b'Maa']
-animeVoices	[b'\nHazuki, Erino\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nNishimura, Chinami\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Junichi\n\nDirector, Sound Director, Storyboard\n\n', b'\nAsai, Yoshiyuki\n\nEpisode Director\n\n', b'\nSayama, Kiyoko\n\nEpisode Director, Storyboard\n\n', b'\nAndou, Ken\n\nEpisode Director\n\n']
+animePopularity	2056
+animeDescription	"Akari Mizunashi continues her training to become a Prima Undine (a professional tour guide gondolier) along with her friends Aika and Alice in the peaceful city of Neo Venezia. Despite the fact that these three girls are from competing companies, they are constantly together, learning more about how to become better tour guides and more about the mysteries of Neo Venezia.
+
+As the group continues to meet interesting and unforgettable people through their daily routines, they will also come closer to the secrets that make the enigmatic and ever beautiful city of Neo Venezia so warm and alive.
+
+Welcome back to Neo Venezia: the city where miracles can be created by hand.
+
+[Written by MAL Rewrite]"
+animeRelated	['Aria', 'Aria the Animation', 'Aria the OVA: Arietta', 'Aria the Natural: Sono Futatabi Deaeru Kiseki ni...']
+animeCharacters	['Mizunashi, Akari', 'Carroll, Alice', 'Florence, Alicia', 'Granzchesta, Aika S.', 'Pokoteng, Aria', 'Glory, Athena', 'Ferrari, Akira E.', 'Cat Sith', 'Aino, Ai', 'Maa']
+animeVoices	['Hazuki, Erino', 'Hirohashi, Ryou', 'Ohara, Sayaka', 'Saitou, Chiwa', 'Nishimura, Chinami', 'Kawakami, Tomoko', 'Minagawa, Junko', 'Mizuhashi, Kaori', 'Watanabe, Akeno']
+animeStaff	[['Satou, Junichi', 'Director, Sound Director, Storyboard'], ['Asai, Yoshiyuki', 'Episode Director'], ['Sayama, Kiyoko', 'Episode Director, Storyboard'], ['Andou, Ken', 'Episode Director']]

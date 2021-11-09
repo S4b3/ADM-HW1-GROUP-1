@@ -1,5 +1,5 @@
-animeTitle	b'Two Down Full Base'
-animeType	b'Special'
+animeTitle	Two Down Full Base
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'Based on the children\'s book by Sunada Hiroshi.\n\nMusuke ""Shorty"" Sato is a shortstop for the local junior baseball team, the Eggs, who is asked by his mother to look after some money for her. He foolishly lends it to Tower and Dump, the school bad-boys, and must enlist the help of the pitcher\'s pretty little sister.\n\n(Source: The Anime Encyclopedia)'"
+animePopularity	15813
+animeDescription	"Based on the children's book by Sunada Hiroshi.
+
+Musuke ""Shorty"" Sato is a shortstop for the local junior baseball team, the Eggs, who is asked by his mother to look after some money for her. He foolishly lends it to Tower and Dump, the school bad-boys, and must enlist the help of the pitcher's pretty little sister.
+
+(Source: The Anime Encyclopedia)"
 animeRelated	[]
-animeCharacters	[b'Satou, Musuke', b'Kuma-san', b'Morita, Shinichi', b'Yamakawa, Takeo', b'Yamakawa, Tomoyo']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nOtsuka, Chikao\nJapanese\n', b'\nMaruyama, Hiroko\nJapanese\n', b'\nYamamoto, Keiko\nJapanese\n', b'\nIshikawa, Hitomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamano, Satoko\n\nTheme Song Performance\n\n', b'\nHisaishi, Joe\n\nMusic\n\n']
+animeCharacters	['Satou, Musuke', 'Kuma-san', 'Morita, Shinichi', 'Yamakawa, Takeo', 'Yamakawa, Tomoyo']
+animeVoices	['Tanaka, Mayumi', 'Otsuka, Chikao', 'Maruyama, Hiroko', 'Yamamoto, Keiko', 'Ishikawa, Hitomi']
+animeStaff	[['Yamano, Satoko', 'Theme Song Performance'], ['Hisaishi, Joe', 'Music']]

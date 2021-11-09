@@ -1,5 +1,5 @@
-animeTitle	b'Hiatari Ryoukou!'
-animeType	b'TV'
+animeTitle	Hiatari Ryoukou!
+animeType	TV
 animeNumEpisode	48
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.06
 animeUsers	744
 animeRank	
-animePopularity	
-animeDescription	"b""Kishimoto Kasumi, a 15-year-old girl, was supposed to live at her auntie's house in order to go to high school since April. However, when she moved to the house she was surprised with the fact that there were already four new male students living in the same house. To make the matter worse, that day while she was taking a bath, Takasugi Yusaku, one of those boys, came into the bath and saw her naked. This is how Kasumi's troublesome high school days started. \n\n(Source: AniDB)"""
-animeRelated	[b'Hiatari Ryoukou!', b'Hiatari Ryoukou! Yume no Naka ni Kimi ga Ita']
-animeCharacters	[b'Kishimoto, Kasumi', b'Takasugi, Yusaku', b'Ariyama, Takashi', b'Mikimoto, Shin', b'Kodama', b'Muraki, Katsuhiko', b'Enomoto, Kyoko', b'Seki, Keiko', b'Mizusawa, Chigusa', b'Aido, Makoto']
-animeVoices	[b'\nMorio, Yumi\nJapanese\n', b'\nMitsuya, Yuuji\nJapanese\n', b'\nHayashiya, Shouzou\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nNanba, Keiichi\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nShimazu, Saeko\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nKomiya, Kazue\nJapanese\n', b'\nNanba, Katsuhiro\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nSugii, Gisaburou\n\nDirector, Episode Director, Storyboard\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nKonparu, Tomoko\n\nScript\n\n', b""\nD'Avena, Cristina\n\nTheme Song Performance\n\n""]"
+animePopularity	7559
+animeDescription	"Kishimoto Kasumi, a 15-year-old girl, was supposed to live at her auntie's house in order to go to high school since April. However, when she moved to the house she was surprised with the fact that there were already four new male students living in the same house. To make the matter worse, that day while she was taking a bath, Takasugi Yusaku, one of those boys, came into the bath and saw her naked. This is how Kasumi's troublesome high school days started. 
+
+(Source: AniDB)"
+animeRelated	['Hiatari Ryoukou!', 'Hiatari Ryoukou! Yume no Naka ni Kimi ga Ita']
+animeCharacters	['Kishimoto, Kasumi', 'Takasugi, Yusaku', 'Ariyama, Takashi', 'Mikimoto, Shin', 'Kodama', 'Muraki, Katsuhiko', 'Enomoto, Kyoko', 'Seki, Keiko', 'Mizusawa, Chigusa', 'Aido, Makoto']
+animeVoices	['Morio, Yumi', 'Mitsuya, Yuuji', 'Hayashiya, Shouzou', 'Shiozawa, Kaneto', 'Nanba, Keiichi', 'Inoue, Kazuhiko', 'Shimazu, Saeko', 'Tsuru, Hiromi', 'Komiya, Kazue', 'Nanba, Katsuhiro']
+animeStaff	"[['Sugii, Gisaburou', 'Director, Episode Director, Storyboard'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Konparu, Tomoko', 'Script'], [""D'Avena, Cristina"", 'Theme Song Performance']]"

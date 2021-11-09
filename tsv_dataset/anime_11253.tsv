@@ -1,5 +1,5 @@
-animeTitle	b'Anima'
-animeType	b'Movie'
+animeTitle	Anima
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,8 +7,10 @@ animeNumMembers
 animeScore	5.12
 animeUsers	947
 animeRank	
-animePopularity	
-animeDescription	"b'ANIMA is a dance animation movie representing a human ""life.""\n\n(Source: Official Website)'"
+animePopularity	9518
+animeDescription	"ANIMA is a dance animation movie representing a human ""life.""
+
+(Source: Official Website)"
 animeRelated	[]
 animeCharacters	[]
 animeVoices	[]

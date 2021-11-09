@@ -1,5 +1,5 @@
-animeTitle	b'Uchuu Nanchara Kotetsu-kun'
-animeType	b'TV'
+animeTitle	Uchuu Nanchara Kotetsu-kun
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'It follows the daily life of Kotetsu-kun, who aspires to be an astronaut, and friends at the Animal Space Academy as they all pursue their dreams.\n\n(Source: ANN)'
+animePopularity	12937
+animeDescription	"It follows the daily life of Kotetsu-kun, who aspires to be an astronaut, and friends at the Animal Space Academy as they all pursue their dreams.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Kotetsu', b'DAXA-kun', b'Lou', b'Narrator', b'Jii-chan', b'Otama', b'Hikaru', b'Niko']
-animeVoices	[b'\nFujiwara, Natsumi\nJapanese\n', b'\nMuro, Tsuyoshi\nJapanese\n', b'\nTamaki, Masashi\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nYamaguchi, Akane\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nEnoki, Junya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakuta, Hazumu\n\nDirector\n\n', b'\nKatou, Youichi\n\nSeries Composition\n\n', b'\nNishimura, Yuuji\n\nOriginal Creator\n\n']
+animeCharacters	['Kotetsu', 'DAXA-kun', 'Lou', 'Narrator', 'Jii-chan', 'Otama', 'Hikaru', 'Niko']
+animeVoices	['Fujiwara, Natsumi', 'Muro, Tsuyoshi', 'Tamaki, Masashi', 'Yamaguchi, Kappei', 'Yamaguchi, Akane', 'Taketatsu, Ayana', 'Enoki, Junya']
+animeStaff	[['Sakuta, Hazumu', 'Director'], ['Katou, Youichi', 'Series Composition'], ['Nishimura, Yuuji', 'Original Creator']]

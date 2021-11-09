@@ -1,5 +1,5 @@
-animeTitle	b'Yurumates 3D Plus'
-animeType	b'TV'
+animeTitle	Yurumates 3D Plus
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.42
 animeUsers	2425
 animeRank	
-animePopularity	
-animeDescription	b'The continuation of Yurumates 3D right after the first season.'
-animeRelated	[b'Yurumates', b'Yurumates 3D', b'Yurumates 3D Plus: Natsuyasumi Maison du Wish Report']
-animeCharacters	"[b'Aida, Yurume', b'Matsukichi', b'Tanaka, Kumi', b'Kawano, Sae', b""Sae's Sister""]"
-animeVoices	[b'\nMomoi, Haruko\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nKuwatani, Natsuko\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsukimisato, Tomohiro\n\nDirector\n\n', b'\nYuuzumi, Yoshihide\n\nDirector\n\n', b'\nMomoi, Haruko\n\nTheme Song Composition, Theme Song Lyrics, Theme Song Performance\n\n', b'\nShiraishi, Yuika\n\nSound Effects\n\n']
+animePopularity	7262
+animeDescription	The continuation of Yurumates 3D right after the first season.
+animeRelated	['Yurumates', 'Yurumates 3D', 'Yurumates 3D Plus: Natsuyasumi Maison du Wish Report']
+animeCharacters	"['Aida, Yurume', 'Matsukichi', 'Tanaka, Kumi', 'Kawano, Sae', ""Sae's Sister""]"
+animeVoices	['Momoi, Haruko', 'Hino, Satoshi', 'Matsuki, Miyu', 'Kuwatani, Natsuko', 'Taketatsu, Ayana']
+animeStaff	[['Tsukimisato, Tomohiro', 'Director'], ['Yuuzumi, Yoshihide', 'Director'], ['Momoi, Haruko', 'Theme Song Composition, Theme Song Lyrics, Theme Song Performance'], ['Shiraishi, Yuika', 'Sound Effects']]

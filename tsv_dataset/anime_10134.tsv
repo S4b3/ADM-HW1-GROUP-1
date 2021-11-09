@@ -1,5 +1,5 @@
-animeTitle	b'Mirai Koushi Harima SACLA'
-animeType	b'ONA'
+animeTitle	Mirai Koushi Harima SACLA
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.58
 animeUsers	569
 animeRank	
-animePopularity	
-animeDescription	"b'The Japanese research lab SACLA has released a short anime titled ""Future Photon Harima Sakura"" to promote their X-ray Free Electron Laser (X-FEL), the brightest x-ray source in the world.\n\nAs described on her official webpage, the feature character Harima Sakura is a G4-type Picodroid, a living entity with self-learning and evolutionary capability. She can shrink down and dive into the world of atoms, invisible to the human eye, known as the ""Pico Universe."" Her athletic ability is very high. In cooperation with a variety of researchers and scientists, she explores the world inside atoms with a strong sense of justice.\n\n(Source: MAL)'"
-animeRelated	[b'Wasure-boshi', b'Picotopia', b'Mirai Koushi Harima SACLA NEX RAY']
-animeCharacters	[b'Harima, Sakura']
-animeVoices	[b'\nNoto, Mamiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nfripSide\n\nTheme Song Performance\n\n']
+animePopularity	10695
+animeDescription	"The Japanese research lab SACLA has released a short anime titled ""Future Photon Harima Sakura"" to promote their X-ray Free Electron Laser (X-FEL), the brightest x-ray source in the world.
+
+As described on her official webpage, the feature character Harima Sakura is a G4-type Picodroid, a living entity with self-learning and evolutionary capability. She can shrink down and dive into the world of atoms, invisible to the human eye, known as the ""Pico Universe."" Her athletic ability is very high. In cooperation with a variety of researchers and scientists, she explores the world inside atoms with a strong sense of justice.
+
+(Source: MAL)"
+animeRelated	['Wasure-boshi', 'Picotopia', 'Mirai Koushi Harima SACLA NEX RAY']
+animeCharacters	['Harima, Sakura']
+animeVoices	['Noto, Mamiko']
+animeStaff	[['fripSide', 'Theme Song Performance']]

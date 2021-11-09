@@ -1,5 +1,5 @@
-animeTitle	b'Hello Kitty: Mahou no Mori no Ohimesama'
-animeType	b'Movie'
+animeTitle	Hello Kitty: Mahou no Mori no Ohimesama
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.05
 animeUsers	145
 animeRank	
-animePopularity	
-animeDescription	b'Kitty and Mimmy have to save a kingdom and break a magical spell on a sleeping princess.'
-animeRelated	[b'Taabou no Ryuuguusei Daitanken', b'Kero Kero Keroppi no Sanjuushi']
-animeCharacters	[b'White, Kitty', b'White, Mimmy']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nTominaga, Miina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHata, Masami\n\nScreenplay, Chief Animation Director\n\n', b'\nAbe, Yukio\n\nBackground Art\n\n', b'\nMatsuda, Akihiko\n\nSound Effects\n\n', b'\nTsuji, Shintarou\n\nExecutive Producer\n\n']
+animePopularity	13218
+animeDescription	Kitty and Mimmy have to save a kingdom and break a magical spell on a sleeping princess.
+animeRelated	['Taabou no Ryuuguusei Daitanken', 'Kero Kero Keroppi no Sanjuushi']
+animeCharacters	['White, Kitty', 'White, Mimmy']
+animeVoices	['Hayashibara, Megumi', 'Tominaga, Miina']
+animeStaff	[['Hata, Masami', 'Screenplay, Chief Animation Director'], ['Abe, Yukio', 'Background Art'], ['Matsuda, Akihiko', 'Sound Effects'], ['Tsuji, Shintarou', 'Executive Producer']]

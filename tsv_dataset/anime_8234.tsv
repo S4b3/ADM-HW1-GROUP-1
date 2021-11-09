@@ -1,5 +1,5 @@
-animeTitle	b'Document Taiyou no Kiba Dagram'
-animeType	b'Movie'
+animeTitle	Document Taiyou no Kiba Dagram
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.09
 animeUsers	196
 animeRank	
-animePopularity	
-animeDescription	"b""In the planet Deloyer, a colony of the Earth federation, Colonel Von Stein stages a coup d'etat on behalf of the Federation chairman Donan Cashim."""
-animeRelated	[b'Taiyou no Kiba Dagram']
-animeCharacters	[b'Cashim, Crinn', b'Destin, Call', b'Cashim, Fina', b'Garcia, Vuldoran']
-animeVoices	[b'\nYamaguchi, Nana\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Ryousuke\n\nDirector, Original Creator\n\n', b'\nHoshiyama, Hiroyuki\n\nScript, Original Creator\n\n', b'\nTomita, Sukehiro\n\nScript\n\n', b'\nYatate, Hajime\n\nOriginal Creator\n\n']
+animePopularity	11870
+animeDescription	In the planet Deloyer, a colony of the Earth federation, Colonel Von Stein stages a coup d'etat on behalf of the Federation chairman Donan Cashim.
+animeRelated	['Taiyou no Kiba Dagram']
+animeCharacters	['Cashim, Crinn', 'Destin, Call', 'Cashim, Fina', 'Garcia, Vuldoran']
+animeVoices	['Yamaguchi, Nana', 'Genda, Tesshou']
+animeStaff	[['Takahashi, Ryousuke', 'Director, Original Creator'], ['Hoshiyama, Hiroyuki', 'Script, Original Creator'], ['Tomita, Sukehiro', 'Script'], ['Yatate, Hajime', 'Original Creator']]

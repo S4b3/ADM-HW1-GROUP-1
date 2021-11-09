@@ -1,5 +1,5 @@
-animeTitle	b'Idol Project'
-animeType	b'OVA'
+animeTitle	Idol Project
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.66
 animeUsers	590
 animeRank	
-animePopularity	
-animeDescription	b'Mimu Emilton is a cute fourteen-year-old who has come to the annual Starland Festival to become an idol, just like her role model, Yuri. It is the most celebrated event on a united Earth, and Yuri, now the President of Earth, has encouraged people to join the ranks of Excellent Idols. Unfortunately for Mimu, she can never seem to make it to her audition on time, as misadventure after misadventure lands her in situations (usually involving undergarment exposure, I might add) that she escapes with the help of the current Excellent Idols, whom she befriends. Just as she makes her place on the stage and begins her audition, though, an unknown group of aliens kidnaps her and the Excellent Idols. It is only the beginning of a wild interdimensional goose-chase that places Mimu in the position to save the world, if only she can believe in herself.\n\n(Source: AnimeNfo)'
+animePopularity	9636
+animeDescription	"Mimu Emilton is a cute fourteen-year-old who has come to the annual Starland Festival to become an idol, just like her role model, Yuri. It is the most celebrated event on a united Earth, and Yuri, now the President of Earth, has encouraged people to join the ranks of Excellent Idols. Unfortunately for Mimu, she can never seem to make it to her audition on time, as misadventure after misadventure lands her in situations (usually involving undergarment exposure, I might add) that she escapes with the help of the current Excellent Idols, whom she befriends. Just as she makes her place on the stage and begins her audition, though, an unknown group of aliens kidnaps her and the Excellent Idols. It is only the beginning of a wild interdimensional goose-chase that places Mimu in the position to save the world, if only she can believe in herself.
+
+(Source: AnimeNfo)"
 animeRelated	[]
-animeCharacters	[b'Ranrang, Palpu', b'Hiyards, Corvette', b'Essenpolka, Ruka', b'Suzukaze, Shion', b'Emilton, Mimu', b'Simmons, Layla B.', b'Kaidou, Extra']
-animeVoices	[b'\nYoshino, Hinako\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nIwatsubo, Rie\nJapanese\n', b'\nKouda, Mariko\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nKanai, Mika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagaoka, Yasuchika\n\nDirector\n\n', b'\nMatsuoka, Hiroki\n\nSound Director\n\n', b'\nKaneko, Shingo\n\nStoryboard\n\n', b'\nInoue, Kikuko\n\nTheme Song Performance\n\n']
+animeCharacters	['Ranrang, Palpu', 'Hiyards, Corvette', 'Essenpolka, Ruka', 'Suzukaze, Shion', 'Emilton, Mimu', 'Simmons, Layla B.', 'Kaidou, Extra']
+animeVoices	['Yoshino, Hinako', 'Inoue, Kikuko', 'Koorogi, Satomi', 'Iwatsubo, Rie', 'Kouda, Mariko', 'Hisakawa, Aya', 'Kanai, Mika']
+animeStaff	[['Nagaoka, Yasuchika', 'Director'], ['Matsuoka, Hiroki', 'Sound Director'], ['Kaneko, Shingo', 'Storyboard'], ['Inoue, Kikuko', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Honey Tokyo'
-animeType	b'ONA'
+animeTitle	Honey Tokyo
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.71
 animeUsers	935
 animeRank	
-animePopularity	
-animeDescription	b'Small short to advertise the Tokyo Metropolitan area.'
+animePopularity	9434
+animeDescription	Small short to advertise the Tokyo Metropolitan area.
 animeRelated	[]
-animeCharacters	[b'Honey', b'Takeru', b'Chibi UFO']
-animeVoices	[b'\nNoto, Mamiko\nJapanese\n', b'\nShigematsu, Tomo\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Eiko\n\nProducer, Script\n\n', b'\nAoki, Yasuhiro\n\nDirector, Storyboard, Character Design\n\n', b'\nKanno, Toshiyuki\n\nStoryboard, Character Design\n\n', b'\nKanai, Jirou\n\nStoryboard, Assistant Director, Character Design\n\n']
+animeCharacters	['Honey', 'Takeru', 'Chibi UFO']
+animeVoices	['Noto, Mamiko', 'Shigematsu, Tomo', 'Iguchi, Yuka']
+animeStaff	[['Tanaka, Eiko', 'Producer, Script'], ['Aoki, Yasuhiro', 'Director, Storyboard, Character Design'], ['Kanno, Toshiyuki', 'Storyboard, Character Design'], ['Kanai, Jirou', 'Storyboard, Assistant Director, Character Design']]

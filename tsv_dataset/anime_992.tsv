@@ -1,5 +1,5 @@
-animeTitle	b'Break Blade 2: Ketsubetsu no Michi'
-animeType	b'Movie'
+animeTitle	Break Blade 2: Ketsubetsu no Michi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.73
 animeUsers	36374
 animeRank	
-animePopularity	
-animeDescription	b'Second Break Blade movie.'
-animeRelated	[b'Break Blade', b'Break Blade 1: Kakusei no Toki', b'Break Blade 3: Kyoujin no Ato']
-animeCharacters	[b'Arrow, Rygart', b'Erster, Sigyn', b'Zess', b'Hodr', b'Zaubraff, Cleo', b'Stryze, Narvi', b'True', b'Baldr', b'Sakura', b'Lee']
-animeVoices	[b'\nHoshi, Souichirou\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nSugawara, Masashi\nJapanese\n', b'\nKatsuragi, Nanaho\nJapanese\n', b'\nKaida, Yuuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirasawa, Nao\n\nProducer\n\n', b'\nHabara, Nobuyoshi\n\nDirector, Storyboard\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nFoster, Steven\n\nScript, ADR Director\n\n']
+animePopularity	2275
+animeDescription	Second Break Blade movie.
+animeRelated	['Break Blade', 'Break Blade 1: Kakusei no Toki', 'Break Blade 3: Kyoujin no Ato']
+animeCharacters	['Arrow, Rygart', 'Erster, Sigyn', 'Zess', 'Hodr', 'Zaubraff, Cleo', 'Stryze, Narvi', 'True', 'Baldr', 'Sakura', 'Lee']
+animeVoices	['Hoshi, Souichirou', 'Saitou, Chiwa', 'Kamiya, Hiroshi', 'Nakamura, Yuuichi', 'Hanazawa, Kana', 'Inoue, Marina', 'Ogata, Kenichi', 'Sugawara, Masashi', 'Katsuragi, Nanaho', 'Kaida, Yuuko']
+animeStaff	[['Hirasawa, Nao', 'Producer'], ['Habara, Nobuyoshi', 'Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director'], ['Foster, Steven', 'Script, ADR Director']]

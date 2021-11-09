@@ -1,5 +1,5 @@
-animeTitle	b'Kyojin no Hoshi: Ike Ike Hyuuma'
-animeType	b'Movie'
+animeTitle	Kyojin no Hoshi: Ike Ike Hyuuma
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Second Kyojin no Hoshi movie.'
-animeRelated	[b'Kyojin no Hoshi']
-animeCharacters	[b'Hoshi, Hyuuma', b'Hoshi, Akiko', b'Hoshi, Ittetsu', b'Hanagata, Mitsuru', b'Ban, Chuuta']
-animeVoices	[b'\nShiraishi, Fuyumi\nJapanese\n', b'\nKatou, Seizou\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nYanami, Jouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagahama, Tadao\n\nEpisode Director\n\n', b'\nTsuji, Masaki\n\nScript, Screenplay\n\n', b'\nKajiwara, Ikki\n\nOriginal Creator\n\n', b'\nWatanabe, Takeo\n\nMusic\n\n']
+animePopularity	13913
+animeDescription	Second Kyojin no Hoshi movie.
+animeRelated	['Kyojin no Hoshi']
+animeCharacters	['Hoshi, Hyuuma', 'Hoshi, Akiko', 'Hoshi, Ittetsu', 'Hanagata, Mitsuru', 'Ban, Chuuta']
+animeVoices	['Shiraishi, Fuyumi', 'Katou, Seizou', 'Inoue, Makio', 'Yanami, Jouji']
+animeStaff	[['Nagahama, Tadao', 'Episode Director'], ['Tsuji, Masaki', 'Script, Screenplay'], ['Kajiwara, Ikki', 'Original Creator'], ['Watanabe, Takeo', 'Music']]

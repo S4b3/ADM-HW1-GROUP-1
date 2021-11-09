@@ -1,5 +1,5 @@
-animeTitle	b'Hello WeGo!'
-animeType	b'Movie'
+animeTitle	Hello WeGo!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Toe! Space Attendant Aoi', b'Chuck Shimezou', b'Captain Bal']
+animePopularity	13149
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Toe! Space Attendant Aoi', 'Chuck Shimezou', 'Captain Bal']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

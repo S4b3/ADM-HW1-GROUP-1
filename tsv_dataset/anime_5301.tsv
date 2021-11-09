@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon Best Wishes! Season 2: Episode N'
-animeType	b'TV'
+animeTitle	Pokemon Best Wishes! Season 2: Episode N
+animeType	TV
 animeNumEpisode	14
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.66
 animeUsers	20287
 animeRank	
-animePopularity	
-animeDescription	"b'In this new series, Satoshi, Pikachu and friends start a new journey towards the ""White Ruins."" There, they meet the young ""N"", who can hear the voices from Pok\xc3\xa9mon\'s hearts... The door of truth leading to an Utopia for Pok\xc3\xa9mon and humans now lies open!\n\n(Source: AniDB)'"
-animeRelated	[b'Pokemon Best Wishes! Season 2', b'Pokemon Best Wishes! Season 2: Decolora Adventure']
-animeCharacters	[b'Pikachu', b'Satoshi', b'N', b'Dent', b'Iris', b'Kojirou', b'Takeshi', b'Kasumi', b'Musashi', b'Nyarth']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nUeda, Shigeru\n\nEpisode Director\n\n', b'\nShudou, Takeshi\n\nTheme Song Lyrics\n\n', b'\nShiritsu Ebisu Chuugaku\n\nTheme Song Performance\n\n']
+animePopularity	2939
+animeDescription	"In this new series, Satoshi, Pikachu and friends start a new journey towards the ""White Ruins."" There, they meet the young ""N"", who can hear the voices from Pokémon's hearts... The door of truth leading to an Utopia for Pokémon and humans now lies open!
+
+(Source: AniDB)"
+animeRelated	['Pokemon Best Wishes! Season 2', 'Pokemon Best Wishes! Season 2: Decolora Adventure']
+animeCharacters	['Pikachu', 'Satoshi', 'N', 'Dent', 'Iris', 'Kojirou', 'Takeshi', 'Kasumi', 'Musashi', 'Nyarth']
+animeVoices	['Ootani, Ikue', 'Matsumoto, Rica', 'Nakamura, Yuuichi', 'Miyano, Mamoru', 'Yuuki, Aoi', 'Miki, Shinichiro', 'Ueda, Yuuji', 'Iizuka, Mayumi', 'Hayashibara, Megumi', 'Inuyama, Inuko']
+animeStaff	[['Mima, Masafumi', 'Sound Director'], ['Ueda, Shigeru', 'Episode Director'], ['Shudou, Takeshi', 'Theme Song Lyrics'], ['Shiritsu Ebisu Chuugaku', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Steins;Gate 0'
-animeType	b'TV'
+animeTitle	Steins;Gate 0
+animeType	TV
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.51
 animeUsers	311758
 animeRank	
-animePopularity	
-animeDescription	"b""The eccentric, self-proclaimed mad scientist Rintarou Okabe has become a shell of his former self. Depressed and traumatized after failing to rescue his friend Makise Kurisu, he has decided to forsake his mad scientist alter ego and live as an ordinary college student. Surrounded by friends who know little of his time travel experiences, Okabe spends his days trying to forget the horrors of his adventures alone. \n\nWhile working as a receptionist at a college technology forum, Okabe meets the short, spunky Maho Hiyajo, who \nlater turns out to be the interpreter at the forum's presentation, conducted by Professor Alexis Leskinen. In front of a stunned crowd, Alexis and Maho unveil Amadeus\xe2\x80\x94a revolutionary AI capable of storing a person's memories and creating a perfect simulation of that person complete with their personality and quirks. Meeting with Maho and Alexis after the presentation, Okabe learns that the two were Kurisu's colleagues in university, and that they have simulated her in Amadeus. Hired by Alexis to research the simulation's behavior, Okabe is given the chance to interact with the shadow of a long-lost dear friend. Dangerously tangled in the past, Okabe must face the harsh reality and carefully maneuver around the disastrous consequences that come with disturbing the natural flow of time.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Steins;Gate 0', b'Robotics;Notes', b'Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero', b'Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio']
-animeCharacters	[b'Okabe, Rintarou', b'Makise, Kurisu', b'Shiina, Mayuri', b'Amane, Suzuha', b'Hashida, Itaru', b'Hiyajou, Maho', b'Urushibara, Ruka', b'Akiha, Rumiho', b'Kiryuu, Moeka', b'Tennouji, Yuugo']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n', b'\nImai, Asami\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nMomoi, Haruko\nJapanese\n', b'\nGotou, Saori\nJapanese\n', b'\nTerasoma, Masaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawamura, Kenichi\n\nDirector, Episode Director\n\n', b'\nYamaguchi, Takayuki\n\nSound Director\n\n', b'\nTsuchiya, Hiroyuki\n\nEpisode Director\n\n', b'\nKoga, Kazuomi\n\nEpisode Director\n\n']
+animePopularity	188
+animeDescription	"The eccentric, self-proclaimed mad scientist Rintarou Okabe has become a shell of his former self. Depressed and traumatized after failing to rescue his friend Makise Kurisu, he has decided to forsake his mad scientist alter ego and live as an ordinary college student. Surrounded by friends who know little of his time travel experiences, Okabe spends his days trying to forget the horrors of his adventures alone. 
+
+While working as a receptionist at a college technology forum, Okabe meets the short, spunky Maho Hiyajo, who 
+later turns out to be the interpreter at the forum's presentation, conducted by Professor Alexis Leskinen. In front of a stunned crowd, Alexis and Maho unveil Amadeus—a revolutionary AI capable of storing a person's memories and creating a perfect simulation of that person complete with their personality and quirks. Meeting with Maho and Alexis after the presentation, Okabe learns that the two were Kurisu's colleagues in university, and that they have simulated her in Amadeus. Hired by Alexis to research the simulation's behavior, Okabe is given the chance to interact with the shadow of a long-lost dear friend. Dangerously tangled in the past, Okabe must face the harsh reality and carefully maneuver around the disastrous consequences that come with disturbing the natural flow of time.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Steins;Gate 0', 'Robotics;Notes', 'Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero', 'Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio']
+animeCharacters	['Okabe, Rintarou', 'Makise, Kurisu', 'Shiina, Mayuri', 'Amane, Suzuha', 'Hashida, Itaru', 'Hiyajou, Maho', 'Urushibara, Ruka', 'Akiha, Rumiho', 'Kiryuu, Moeka', 'Tennouji, Yuugo']
+animeVoices	['Miyano, Mamoru', 'Imai, Asami', 'Hanazawa, Kana', 'Tamura, Yukari', 'Seki, Tomokazu', 'Yahagi, Sayuri', 'Kobayashi, Yuu', 'Momoi, Haruko', 'Gotou, Saori', 'Terasoma, Masaki']
+animeStaff	[['Kawamura, Kenichi', 'Director, Episode Director'], ['Yamaguchi, Takayuki', 'Sound Director'], ['Tsuchiya, Hiroyuki', 'Episode Director'], ['Koga, Kazuomi', 'Episode Director']]

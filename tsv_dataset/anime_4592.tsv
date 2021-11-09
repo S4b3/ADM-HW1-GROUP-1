@@ -1,5 +1,5 @@
-animeTitle	b'Hoshi no Kirby'
-animeType	b'TV'
+animeTitle	Hoshi no Kirby
+animeType	TV
 animeNumEpisode	100
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.81
 animeUsers	11829
 animeRank	
-animePopularity	
-animeDescription	"b'A diminutive pink creature orbiting in space called ""Kirby"" crash lands into Dream Land. Once getting acquainted with the citizens who live there in Cappy Town, he begins to defend the town from the monsters that King Dedede, the self-proclaimed ruler of Cappy Town, orders from the evil Nightmare Enterprises.\n\n(Source: ANN) '"
-animeRelated	[b'Hoshi no Kirby: Pilot', b'Hoshi no Kirby:  Taose!! Koukaku Majuu Ebizou', b'Mario Kirby Meisaku Video']
-animeCharacters	[b'Kirby', b'King Dedede', b'Fumu', b'Bun', b'Meta Knight', b'Chef Kawasaki', b'Escargon', b'Customer Service', b'Rick', b'Tokkori']
-animeVoices	[b'\nOhmoto, Makiko\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nYoshida, Sayuri\nJapanese\n', b'\nKomatsu, Rika\nJapanese\n', b'\nKisaichi, Atsushi\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nTakimoto, Fujiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshikawa, Souji\n\nDirector, Series Composition\n\n', b'\nHarada, Hiroshi\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nAsakawa, Hiroko\n\nTheme Song Performance\n\n', b'\nSaitou, Miwako\n\nTheme Song Lyrics\n\n']
+animePopularity	3526
+animeDescription	"A diminutive pink creature orbiting in space called ""Kirby"" crash lands into Dream Land. Once getting acquainted with the citizens who live there in Cappy Town, he begins to defend the town from the monsters that King Dedede, the self-proclaimed ruler of Cappy Town, orders from the evil Nightmare Enterprises.
+
+(Source: ANN) "
+animeRelated	['Hoshi no Kirby: Pilot', 'Hoshi no Kirby:  Taose!! Koukaku Majuu Ebizou', 'Mario Kirby Meisaku Video']
+animeCharacters	['Kirby', 'King Dedede', 'Fumu', 'Bun', 'Meta Knight', 'Chef Kawasaki', 'Escargon', 'Customer Service', 'Rick', 'Tokkori']
+animeVoices	['Ohmoto, Makiko', 'Ogata, Kenichi', 'Yoshida, Sayuri', 'Komatsu, Rika', 'Kisaichi, Atsushi', 'Tobita, Nobuo', 'Tatsuta, Naoki', 'Ginga, Banjou', 'Takimoto, Fujiko']
+animeStaff	[['Yoshikawa, Souji', 'Director, Series Composition'], ['Harada, Hiroshi', 'Episode Director, Storyboard, Key Animation'], ['Asakawa, Hiroko', 'Theme Song Performance'], ['Saitou, Miwako', 'Theme Song Lyrics']]

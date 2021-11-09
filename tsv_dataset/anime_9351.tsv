@@ -1,5 +1,5 @@
-animeTitle	b'Kikou Sennyo Rouran'
-animeType	b'TV'
+animeTitle	Kikou Sennyo Rouran
+animeType	TV
 animeNumEpisode	28
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.81
 animeUsers	309
 animeRank	
-animePopularity	
-animeDescription	"b'When the secret occult society, Shiromorishuua, sends a huge monster to attack Tokyo, ASY, a peace-keeping organization in Japan, retaliates with a Gousen (metal faery). ASY\'s Gousen annihilates the creature after driving it into open ocean. Although successful, a surprise attack follows. A girl, floating in midair and glowing with radiance, strikes with a beam of light. This girl is ""Rouran."" She knows neither her identity, her origins, nor why whenever she senses the Gousen or Kyoushi (reanimated corpses) she transforms into an avenging angel. As Rouran worries about her mysterious existence, Tetsuya kindly watches over her in Tokyo Arcadia, a settlement of expatriates and dissidents. \n\n(Source: AniDB)'"
+animePopularity	9731
+animeDescription	"When the secret occult society, Shiromorishuua, sends a huge monster to attack Tokyo, ASY, a peace-keeping organization in Japan, retaliates with a Gousen (metal faery). ASY's Gousen annihilates the creature after driving it into open ocean. Although successful, a surprise attack follows. A girl, floating in midair and glowing with radiance, strikes with a beam of light. This girl is ""Rouran."" She knows neither her identity, her origins, nor why whenever she senses the Gousen or Kyoushi (reanimated corpses) she transforms into an avenging angel. As Rouran worries about her mysterious existence, Tetsuya kindly watches over her in Tokyo Arcadia, a settlement of expatriates and dissidents. 
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Takeshi, Tetsuya', b'Rouran', b'Nakahara, Genkai', b'Itezuki', b'Kagerou', b'Ryuu, Reika', b'Sennyo, Shikai', b'Onimaru', b'Ryuutarou, Souma', b'Jimushi']
-animeVoices	[b'\nMiki, Shinichiro\nJapanese\n', b'\nKonno, Hiromi\nJapanese\n', b'\nIwasaki, Masami\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nKyouda, Hisako\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nSakuma, Rei\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n', b'\nIshino, Ryuuzou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirano, Toshiki\n\nDirector\n\n', b'\nKoizumi, Kisuke\n\nSound Director\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nAbe, Masashi\n\nEpisode Director\n\n']
+animeCharacters	['Takeshi, Tetsuya', 'Rouran', 'Nakahara, Genkai', 'Itezuki', 'Kagerou', 'Ryuu, Reika', 'Sennyo, Shikai', 'Onimaru', 'Ryuutarou, Souma', 'Jimushi']
+animeVoices	['Miki, Shinichiro', 'Konno, Hiromi', 'Iwasaki, Masami', 'Ootani, Ikue', 'Kyouda, Hisako', 'Ogata, Megumi', 'Sakuma, Rei', 'Morikawa, Toshiyuki', 'Yamazaki, Takumi', 'Ishino, Ryuuzou']
+animeStaff	[['Hirano, Toshiki', 'Director'], ['Koizumi, Kisuke', 'Sound Director'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Abe, Masashi', 'Episode Director']]

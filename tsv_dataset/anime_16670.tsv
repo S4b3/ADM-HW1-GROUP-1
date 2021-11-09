@@ -1,5 +1,5 @@
-animeTitle	b'Kenji no Trunk'
-animeType	b'Movie'
+animeTitle	Kenji no Trunk
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'An omnibus movie consisting of three stories by Miyazawa Kenji. '
+animePopularity	13940
+animeDescription	An omnibus movie consisting of three stories by Miyazawa Kenji. 
 animeRelated	[]
-animeCharacters	[b'Sailor']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Ryuutarou\n\nDirector\n\n', b'\nMiyazawa, Kenji\n\nOriginal Creator\n\n', b'\nYanagawa, Shigeru\n\nScreenplay\n\n']
+animeCharacters	['Sailor']
+animeVoices	['Hayashibara, Megumi']
+animeStaff	[['Nakamura, Ryuutarou', 'Director'], ['Miyazawa, Kenji', 'Original Creator'], ['Yanagawa, Shigeru', 'Screenplay']]

@@ -1,5 +1,5 @@
-animeTitle	b'Toki no Daichi: Hana no Oukoku no Majo'
-animeType	b'OVA'
+animeTitle	Toki no Daichi: Hana no Oukoku no Majo
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b' Based on the manga by Yama Miyuki.'
+animePopularity	14204
+animeDescription	 Based on the manga by Yama Miyuki.
 animeRelated	[]
-animeCharacters	[b'Kai']
+animeCharacters	['Kai']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimizu, Keizou\n\nDirector, Storyboard\n\n', b'\nSuenaga, Mitsuyo\n\nScript\n\n', b'\nOonuki, Kenichi\n\nCharacter Design\n\n', b'\nNagao, Hitoshi\n\nArt Director\n\n']
+animeStaff	[['Shimizu, Keizou', 'Director, Storyboard'], ['Suenaga, Mitsuyo', 'Script'], ['Oonuki, Kenichi', 'Character Design'], ['Nagao, Hitoshi', 'Art Director']]

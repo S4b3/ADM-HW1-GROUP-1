@@ -1,5 +1,5 @@
-animeTitle	b'Shounen Maid'
-animeType	b'TV'
+animeTitle	Shounen Maid
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.29
 animeUsers	30119
 animeRank	
-animePopularity	
-animeDescription	"b""After the sudden death of his mother, elementary school student Chihiro Komiya is left with no home and no family. But this changes when he encounters a rich and frivolous stranger who turns out to be his long-lost uncle, Madoka Takatori. Madoka offers to take Chihiro in, but upon arriving at his uncle's high-class mansion, the young boy is greeted by a plethora of dust and garbage. As Chihiro's neatfreak instincts kick in, he sets about cleaning the entire residence.\n\nShounen Maid is a lighthearted comedy that follows Chihiro as he finds himself dressed in a frilly uniform (handmade by his uncle), receiving a salary, and working as maid of the house.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Shounen Maid', b'Shounen Maid: Onna wa Dokyou, Otoko wa Aikyou?']
-animeCharacters	[b'Komiya, Chihiro', b'Takatori, Madoka', b'Hino, Yuuji', b'Ootori, Miyako', b'Shinozaki, Keiichirou', b'Ryuuji', b'Hayato', b'Takatori, Kazusa', b'Hino, Mother', b'Hino, Father']
-animeVoices	[b'\nFujiwara, Natsumi\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nMakino, Yui\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nHanae, Natsuki\nJapanese\n', b'\nYashiro, Taku\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nTakeuchi, Eiji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Yuusuke\n\nDirector, Episode Director, Storyboard\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nHiramaki, Daisuke\n\nEpisode Director, Storyboard\n\n', b'\nMcGuire, Kristen\n\nScript\n\n']
+animePopularity	1997
+animeDescription	"After the sudden death of his mother, elementary school student Chihiro Komiya is left with no home and no family. But this changes when he encounters a rich and frivolous stranger who turns out to be his long-lost uncle, Madoka Takatori. Madoka offers to take Chihiro in, but upon arriving at his uncle's high-class mansion, the young boy is greeted by a plethora of dust and garbage. As Chihiro's neatfreak instincts kick in, he sets about cleaning the entire residence.
+
+Shounen Maid is a lighthearted comedy that follows Chihiro as he finds himself dressed in a frilly uniform (handmade by his uncle), receiving a salary, and working as maid of the house.
+
+[Written by MAL Rewrite]"
+animeRelated	['Shounen Maid', 'Shounen Maid: Onna wa Dokyou, Otoko wa Aikyou?']
+animeCharacters	['Komiya, Chihiro', 'Takatori, Madoka', 'Hino, Yuuji', 'Ootori, Miyako', 'Shinozaki, Keiichirou', 'Ryuuji', 'Hayato', 'Takatori, Kazusa', 'Hino, Mother', 'Hino, Father']
+animeVoices	['Fujiwara, Natsumi', 'Shimazaki, Nobunaga', 'Saiga, Mitsuki', 'Makino, Yui', 'Maeno, Tomoaki', 'Hanae, Natsuki', 'Yashiro, Taku', 'Sakakibara, Yoshiko', 'Ueda, Kana', 'Takeuchi, Eiji']
+animeStaff	[['Yamamoto, Yuusuke', 'Director, Episode Director, Storyboard'], ['Motoyama, Satoshi', 'Sound Director'], ['Hiramaki, Daisuke', 'Episode Director, Storyboard'], ['McGuire, Kristen', 'Script']]

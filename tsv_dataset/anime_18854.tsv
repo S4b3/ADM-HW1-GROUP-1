@@ -1,5 +1,5 @@
-animeTitle	b'Shitai wo Arau The Animation'
-animeType	b'OVA'
+animeTitle	Shitai wo Arau The Animation
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.42
 animeUsers	883
 animeRank	
-animePopularity	
-animeDescription	"b""The dream of Seiji Yasaka, a ronin, is to become a doctor, something which he wants so badly to fulfill that he joins a hospital as a part-time corpse washer. He falls in love with Nurse Yuuki Midou, but Chigusa Tsuyusaki, the hospital's deputy director, wants him for her own. Everything goes well until suddenly he realizes that all of the nurses are in fact dead bodies\xe2\x80\x94part of a project to bring them back to life\xe2\x80\x94and then he finds out that he is also already one of the walking dead. With the walking dead, the body isn't a problem, but the mind on the other hand gets corrupted easily\xe2\x80\xa6\n\n(Source: ANN)"""
+animePopularity	8847
+animeDescription	"The dream of Seiji Yasaka, a ronin, is to become a doctor, something which he wants so badly to fulfill that he joins a hospital as a part-time corpse washer. He falls in love with Nurse Yuuki Midou, but Chigusa Tsuyusaki, the hospital's deputy director, wants him for her own. Everything goes well until suddenly he realizes that all of the nurses are in fact dead bodies—part of a project to bring them back to life—and then he finds out that he is also already one of the walking dead. With the walking dead, the body isn't a problem, but the mind on the other hand gets corrupted easily…
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Yasaka, Seiji', b'Sanada, Sawako', b'Saeki, Mao', b'Tsuyusaki, Chigusa', b'Midou, Yuuki']
-animeVoices	[b'\nMiki, Shinichiro\nJapanese\n', b'\nIchimura, Oma\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAraki, Hideki\n\nDirector, Storyboard, Character Design, Animation Director\n\n', b'\nMomoi, Osamu\n\nScript\n\n', b'\nYamada, Kazuhiro\n\nDirector of Photography\n\n']
+animeCharacters	['Yasaka, Seiji', 'Sanada, Sawako', 'Saeki, Mao', 'Tsuyusaki, Chigusa', 'Midou, Yuuki']
+animeVoices	['Miki, Shinichiro', 'Ichimura, Oma']
+animeStaff	[['Araki, Hideki', 'Director, Storyboard, Character Design, Animation Director'], ['Momoi, Osamu', 'Script'], ['Yamada, Kazuhiro', 'Director of Photography']]

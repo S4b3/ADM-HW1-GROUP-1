@@ -1,5 +1,5 @@
-animeTitle	b'Attack No.1: Namida no Fushichou'
-animeType	b'Movie'
+animeTitle	Attack No.1: Namida no Fushichou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.96
 animeUsers	188
 animeRank	
-animePopularity	
-animeDescription	b'The fourth and final recap film of Attack No.1. Now set in high school the team competes at inter-high but tragedy strikes. '
-animeRelated	[b'Attack No.1']
-animeCharacters	[b'Ayuhara, Kozue']
-animeVoices	[b'\nKobato, Kurumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Takeo\n\nMusic\n\n']
+animePopularity	12017
+animeDescription	The fourth and final recap film of Attack No.1. Now set in high school the team competes at inter-high but tragedy strikes. 
+animeRelated	['Attack No.1']
+animeCharacters	['Ayuhara, Kozue']
+animeVoices	['Kobato, Kurumi']
+animeStaff	[['Watanabe, Takeo', 'Music']]

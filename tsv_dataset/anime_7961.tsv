@@ -1,5 +1,5 @@
-animeTitle	b'Bakumatsu Gijinden Roman'
-animeType	b'TV'
+animeTitle	Bakumatsu Gijinden Roman
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.14
 animeUsers	3671
 animeRank	
-animePopularity	
-animeDescription	"b'The stage is the close of the Edo period, an age when, not unlike our own time, both natural and man-made disasters left chaos in their wake. Manjiro makes a living helping the people of the troubled capital city, but behind the scenes, he also works in secret to take back precious belongings stolen from the people by unjust political powers and conspiratorial menaces. The people call him ""Get-backer Roman.""\n\n(Source: Crunchyroll)'"
+animePopularity	5247
+animeDescription	"The stage is the close of the Edo period, an age when, not unlike our own time, both natural and man-made disasters left chaos in their wake. Manjiro makes a living helping the people of the troubled capital city, but behind the scenes, he also works in secret to take back precious belongings stolen from the people by unjust political powers and conspiratorial menaces. The people call him ""Get-backer Roman.""
+
+(Source: Crunchyroll)"
 animeRelated	[]
-animeCharacters	[b'Koharu', b'Roman', b'Banya, Kanade', b'Perry, Matthew', b'Kobayakawa', b'Masuda', b'Irie', b'Nagai', b'Abe, Chikara', b'Seibei']
-animeVoices	[b'\nKitamura, Eri\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nSudou, Saori\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n', b'\nToochika, Kouichi\nJapanese\n', b'\nTokumoto, Yukitoshi\nJapanese\n', b'\nHishiba, Tomoyasu\nJapanese\n', b'\nIchijo, Kazuya\nJapanese\n', b'\nTajiri, Hiroaki\nJapanese\n', b'\nInada, Tetsu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOgura, Hirofumi\n\nDirector\n\n', b'\nKawazoe, Kengo\n\nSound Director\n\n', b'\nEgami, Kiyoshi\n\nEpisode Director, Storyboard\n\n', b'\nHarada, Nana\n\nEpisode Director\n\n']
+animeCharacters	['Koharu', 'Roman', 'Banya, Kanade', 'Perry, Matthew', 'Kobayakawa', 'Masuda', 'Irie', 'Nagai', 'Abe, Chikara', 'Seibei']
+animeVoices	['Kitamura, Eri', 'Nakai, Kazuya', 'Sudou, Saori', 'Yasumoto, Hiroki', 'Toochika, Kouichi', 'Tokumoto, Yukitoshi', 'Hishiba, Tomoyasu', 'Ichijo, Kazuya', 'Tajiri, Hiroaki', 'Inada, Tetsu']
+animeStaff	[['Ogura, Hirofumi', 'Director'], ['Kawazoe, Kengo', 'Sound Director'], ['Egami, Kiyoshi', 'Episode Director, Storyboard'], ['Harada, Nana', 'Episode Director']]

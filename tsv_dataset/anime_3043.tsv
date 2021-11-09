@@ -1,5 +1,5 @@
-animeTitle	b'Biohazard: Damnation'
-animeType	b'Movie'
+animeTitle	Biohazard: Damnation
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.16
 animeUsers	14152
 animeRank	
-animePopularity	
-animeDescription	b'United States Special Agent Leon S. Kennedy sneaks into a small Eastern European country to verify rumors that Bio Organic Weapons (B.O.W.s) are being used in war. Right after his infiltration, the U.S. government orders him to leave immediately. Determined to uncover the truth, Leon ignores the order and enters the battlefield to end the chain of tragedies caused by the B.O.W.s.\n\n(Source: IMDB)'
-animeRelated	[b'Biohazard: Degeneration', b'Biohazard: Vendetta']
-animeCharacters	[b'Kennedy, Leon Scott', b'Kozachenko, Alexander', b'Wong, Ada', b'JD', b'Belikova, Svetlana']
-animeVoices	[b'\nHiyama, Nobuyuki\nJapanese\n', b'\nKawasaki, Eriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n', b'\nTsuchiya, Anna\n\nTheme Song Performance\n\n', b'\nDupac, Benoit\n\nADR Director\n\n', b'\nSuga, Shoutarou\n\nScreenplay\n\n']
+animePopularity	3788
+animeDescription	"United States Special Agent Leon S. Kennedy sneaks into a small Eastern European country to verify rumors that Bio Organic Weapons (B.O.W.s) are being used in war. Right after his infiltration, the U.S. government orders him to leave immediately. Determined to uncover the truth, Leon ignores the order and enters the battlefield to end the chain of tragedies caused by the B.O.W.s.
+
+(Source: IMDB)"
+animeRelated	['Biohazard: Degeneration', 'Biohazard: Vendetta']
+animeCharacters	['Kennedy, Leon Scott', 'Kozachenko, Alexander', 'Wong, Ada', 'JD', 'Belikova, Svetlana']
+animeVoices	['Hiyama, Nobuyuki', 'Kawasaki, Eriko']
+animeStaff	[['Takadera, Takeshi', 'Sound Director'], ['Tsuchiya, Anna', 'Theme Song Performance'], ['Dupac, Benoit', 'ADR Director'], ['Suga, Shoutarou', 'Screenplay']]

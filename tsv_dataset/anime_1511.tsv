@@ -1,4 +1,4 @@
-animeTitle	b'The Perfect World'
+animeTitle	The Perfect World
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	7.54
 animeUsers	4347
 animeRank	
-animePopularity	
-animeDescription	"b""Official music video for B: The Beginning's ending theme song The Perfect World. Performed by Marty Friedman feat. Jean-Ken Johnny, KenKen. The music video was released on the music producer Avex's official YouTube channel and it promotes the anime's image album soundtrack going on sale March 7, 2018--only 5 days after the anime is released. \n"""
-animeRelated	[b'B: The Beginning']
-animeCharacters	[b'Kazama Flick, Keith']
+animePopularity	5490
+animeDescription	"Official music video for B: The Beginning's ending theme song The Perfect World. Performed by Marty Friedman feat. Jean-Ken Johnny, KenKen. The music video was released on the music producer Avex's official YouTube channel and it promotes the anime's image album soundtrack going on sale March 7, 2018--only 5 days after the anime is released. 
+"
+animeRelated	['B: The Beginning']
+animeCharacters	['Kazama Flick, Keith']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nFriedman, Marty\n\nTheme Song Arrangement\n\n', b'\nKenKen\n\nTheme Song Arrangement\n\n']
+animeStaff	[['Friedman, Marty', 'Theme Song Arrangement'], ['KenKen', 'Theme Song Arrangement']]

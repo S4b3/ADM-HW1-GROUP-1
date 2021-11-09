@@ -1,5 +1,5 @@
-animeTitle	"b""Dog Days'"""
-animeType	b'TV'
+animeTitle	Dog Days'
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.05
 animeUsers	48856
 animeRank	
-animePopularity	
-animeDescription	"b""Cinque returns to the land of Flonyard in Dog Days' to resume his duties as the hero of the Biscotti Republic and it's as though he never left!\n\nThe difference this time is that he's brought two friends with him who become heroes in their own right: childhood best friend Rebecca Anderson, who becomes the hero for the Principality of Pastillage at the urging of their leader Princess Couvert Eschenbach Pastillage, and his cousin Nanami Takatsuki, who becomes the hero for the Galette Lion Dominion.\n\nAs with the first season though, with so many secrets to be uncovered and mysteries to be solved, will there even be time for the athletic events that these three hyper and athletic teenagers love to participate in so much?"""
-animeRelated	"[b'Dog Days', b""Dog Days''"", b""Dog Days' Specials"", b'Dog Days Recap']"
-animeCharacters	[b'Firianno Biscotti, Millhiore', b'Martinozzi, \xc3\x89clair', b'Galette des Rois, Leonmitchelli', b'Izumi, Cinque', b'Anderson, Rebecca', b'Eschenbach Pastillage, Couvert', b'Takatsuki, Nanami', b'Panettone, Yukikaze', b'Elmar, Ricotta', b'd\xe2\x80\x99Arquien, Brioche']
-animeVoices	[b'\nHorie, Yui\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nTakahashi, Mikako\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nHikasa, Youko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSaitou, Shunsuke\n\nProducer\n\n', b'\nMatsuura, Hiroaki\n\nProducer\n\n', b'\nNishimura, Junji\n\nDirector\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n']
+animePopularity	1697
+animeDescription	"Cinque returns to the land of Flonyard in Dog Days' to resume his duties as the hero of the Biscotti Republic and it's as though he never left!
+
+The difference this time is that he's brought two friends with him who become heroes in their own right: childhood best friend Rebecca Anderson, who becomes the hero for the Principality of Pastillage at the urging of their leader Princess Couvert Eschenbach Pastillage, and his cousin Nanami Takatsuki, who becomes the hero for the Galette Lion Dominion.
+
+As with the first season though, with so many secrets to be uncovered and mysteries to be solved, will there even be time for the athletic events that these three hyper and athletic teenagers love to participate in so much?"
+animeRelated	"['Dog Days', ""Dog Days''"", ""Dog Days' Specials"", 'Dog Days Recap']"
+animeCharacters	['Firianno Biscotti, Millhiore', 'Martinozzi, Éclair', 'Galette des Rois, Leonmitchelli', 'Izumi, Cinque', 'Anderson, Rebecca', 'Eschenbach Pastillage, Couvert', 'Takatsuki, Nanami', 'Panettone, Yukikaze', 'Elmar, Ricotta', 'd’Arquien, Brioche']
+animeVoices	['Horie, Yui', 'Taketatsu, Ayana', 'Koshimizu, Ami', 'Miyano, Mamoru', 'Takahashi, Mikako', 'Yuuki, Aoi', 'Mizuki, Nana', 'Asumi, Kana', 'Hikasa, Youko']
+animeStaff	[['Saitou, Shunsuke', 'Producer'], ['Matsuura, Hiroaki', 'Producer'], ['Nishimura, Junji', 'Director'], ['Kameyama, Toshiki', 'Sound Director']]

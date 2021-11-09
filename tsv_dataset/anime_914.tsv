@@ -1,5 +1,5 @@
-animeTitle	b'Digimon Adventure'
-animeType	b'TV'
+animeTitle	Digimon Adventure
+animeType	TV
 animeNumEpisode	54
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.77
 animeUsers	224719
 animeRank	
-animePopularity	
-animeDescription	"b'When a group of seven children go to summer camp, the last thing that they expect is snow falling in July. In the confusion that follows this phenomenon, they each receive an odd device that transports them to another world. As soon as they wake up in this new world, they encounter strange creatures who call themselves ""Digimon."" The Digimon tell them that they\'ve landed in the ""Digital World,"" far from home.\n\nWith only the Digimon and the ""Digivices"" as protection, the seven children set off to find their way home and learn the reason why they were brought here. Led by the impulsive Taichi Yagami and his hungry Digimon partner Agumon, this group will have to fight unknown evils as they discover more about this outlandish Digital World.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Digimon Adventure', b'Digimon Savers', b'Digimon Tamers', b'Digimon Frontier', b'Digimon X-Evolution', b'Digimon Xros Wars', b'Digimon Adventure: Bokura no War Game!', b'Digimon Adventure Movie', b'Digimon Adventure 3D: Digimon Grand Prix!', b'Digimon Universe: Appli Monsters', b'Digimon Adventure: Last Evolution Kizuna', b'Digimon Survive: Prologue Movie', b'Digimon Ghost Game', b'Digimon Adventure:']
-animeCharacters	[b'Yagami, Taichi', b'Ishida, Yamato', b'Yagami, Hikari', b'Takaishi, Takeru', b'Agumon', b'Tachikawa, Mimi', b'Izumi, Koushirou', b'Tailmon', b'Takenouchi, Sora', b'Patamon']
-animeVoices	[b'\nFujita, Toshiko\nJapanese\n', b'\nKazama, Yuuto\nJapanese\n', b'\nAraki, Kae\nJapanese\n', b'\nKonishi, Hiroko\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n', b'\nMaeda, Ai\nJapanese\n', b'\nTenjin, Umi\nJapanese\n', b'\nTokumitsu, Yuka\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nMatsumoto, Miwa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSeki, Hiromi\n\nProducer\n\n', b'\nKimura, Kyotaro\n\nProducer\n\n', b'\nKakudou, Hiroyuki\n\nDirector, Episode Director\n\n', b'\nHosoda, Mamoru\n\nEpisode Director, Storyboard\n\n']
+animePopularity	474
+animeDescription	"When a group of seven children go to summer camp, the last thing that they expect is snow falling in July. In the confusion that follows this phenomenon, they each receive an odd device that transports them to another world. As soon as they wake up in this new world, they encounter strange creatures who call themselves ""Digimon."" The Digimon tell them that they've landed in the ""Digital World,"" far from home.
+
+With only the Digimon and the ""Digivices"" as protection, the seven children set off to find their way home and learn the reason why they were brought here. Led by the impulsive Taichi Yagami and his hungry Digimon partner Agumon, this group will have to fight unknown evils as they discover more about this outlandish Digital World.
+
+[Written by MAL Rewrite]"
+animeRelated	['Digimon Adventure', 'Digimon Savers', 'Digimon Tamers', 'Digimon Frontier', 'Digimon X-Evolution', 'Digimon Xros Wars', 'Digimon Adventure: Bokura no War Game!', 'Digimon Adventure Movie', 'Digimon Adventure 3D: Digimon Grand Prix!', 'Digimon Universe: Appli Monsters', 'Digimon Adventure: Last Evolution Kizuna', 'Digimon Survive: Prologue Movie', 'Digimon Ghost Game', 'Digimon Adventure:']
+animeCharacters	['Yagami, Taichi', 'Ishida, Yamato', 'Yagami, Hikari', 'Takaishi, Takeru', 'Agumon', 'Tachikawa, Mimi', 'Izumi, Koushirou', 'Tailmon', 'Takenouchi, Sora', 'Patamon']
+animeVoices	['Fujita, Toshiko', 'Kazama, Yuuto', 'Araki, Kae', 'Konishi, Hiroko', 'Sakamoto, Chika', 'Maeda, Ai', 'Tenjin, Umi', 'Tokumitsu, Yuka', 'Mizutani, Yuuko', 'Matsumoto, Miwa']
+animeStaff	[['Seki, Hiromi', 'Producer'], ['Kimura, Kyotaro', 'Producer'], ['Kakudou, Hiroyuki', 'Director, Episode Director'], ['Hosoda, Mamoru', 'Episode Director, Storyboard']]

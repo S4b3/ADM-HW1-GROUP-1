@@ -1,5 +1,5 @@
-animeTitle	b'Kokuhaku'
-animeType	b'ONA'
+animeTitle	Kokuhaku
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	2.28
 animeUsers	3747
 animeRank	
-animePopularity	
-animeDescription	b'Beside a certain building, a girl appears to meet an important person. She is shy and carefully prepares herself before delivering what she has come to convey. Reaching behind her back, she lets her feelings come forth... But is it a confession of love, or something else entirely?\n\n[Written by MAL Rewrite]'
+animePopularity	6930
+animeDescription	"Beside a certain building, a girl appears to meet an important person. She is shy and carefully prepares herself before delivering what she has come to convey. Reaching behind her back, she lets her feelings come forth... But is it a confession of love, or something else entirely?
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Girl']
+animeCharacters	['Girl']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakena, Nagao\n\nDirector\n\n']
+animeStaff	[['Takena, Nagao', 'Director']]

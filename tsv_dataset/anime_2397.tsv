@@ -1,5 +1,5 @@
-animeTitle	b'Hikaru no Go: New Year Special'
-animeType	b'Special'
+animeTitle	Hikaru no Go: New Year Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.3
 animeUsers	4582
 animeRank	
-animePopularity	
-animeDescription	b'New year special. Summary recap. This episode should be seen between episodes 12 and 13.'
-animeRelated	[b'Hikaru no Go']
-animeCharacters	[b'Fujiwara no, Sai', b'Shindou, Hikaru', b'Touya, Akira', b'Fujisaki, Akari', b'Touya, Kouyou', b'Tsutsui, Kimihiro', b'Kishimoto, Kaoru']
-animeVoices	[b'\nChiba, Susumu\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n', b'\nTsuda, Eizou\nJapanese\n', b'\nTsumura, Makoto\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Hideo\n\nSound Director\n\n', b'\nYokote, Michiko\n\nScript\n\n', b'\nObata, Takeshi\n\nOriginal Character Design\n\n', b'\nHotta, Yumi\n\nOriginal Creator\n\n']
+animePopularity	5511
+animeDescription	New year special. Summary recap. This episode should be seen between episodes 12 and 13.
+animeRelated	['Hikaru no Go']
+animeCharacters	['Fujiwara no, Sai', 'Shindou, Hikaru', 'Touya, Akira', 'Fujisaki, Akari', 'Touya, Kouyou', 'Tsutsui, Kimihiro', 'Kishimoto, Kaoru']
+animeVoices	['Chiba, Susumu', 'Kawakami, Tomoko', 'Kobayashi, Sanae', 'Kakazu, Yumi', 'Tsuda, Eizou', 'Tsumura, Makoto', 'Sakurai, Takahiro']
+animeStaff	[['Takahashi, Hideo', 'Sound Director'], ['Yokote, Michiko', 'Script'], ['Obata, Takeshi', 'Original Character Design'], ['Hotta, Yumi', 'Original Creator']]

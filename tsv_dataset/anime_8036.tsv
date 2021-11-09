@@ -1,5 +1,5 @@
-animeTitle	b'Gegege no Kitarou: Youkai Daisensou'
-animeType	b'Movie'
+animeTitle	Gegege no Kitarou: Youkai Daisensou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.13
 animeUsers	156
 animeRank	
-animePopularity	
-animeDescription	b'Movie based on the 1985 TV anime with an original plot.'
-animeRelated	[b'Gegege no Kitarou (1985)']
-animeCharacters	[b'Kitarou', b'Medama Oyaji', b'Nezumi Otoko']
+animePopularity	11982
+animeDescription	Movie based on the 1985 TV anime with an original plot.
+animeRelated	['Gegege no Kitarou (1985)']
+animeCharacters	['Kitarou', 'Medama Oyaji', 'Nezumi Otoko']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKasai, Osamu\n\nDirector\n\n', b'\nKanemori, Yoshinori\n\nAnimation Director\n\n', b'\nTsuchida, Isamu\n\nArt Director\n\n']
+animeStaff	[['Kasai, Osamu', 'Director'], ['Kanemori, Yoshinori', 'Animation Director'], ['Tsuchida, Isamu', 'Art Director']]

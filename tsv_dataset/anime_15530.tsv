@@ -1,5 +1,5 @@
-animeTitle	b'Eiga! Tamagotchi Uchuu Ichi Happy na Monogatari!?'
-animeType	b'Movie'
+animeTitle	Eiga! Tamagotchi Uchuu Ichi Happy na Monogatari!?
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Eiga de Toujou! Tamagotchi Dokidoki! Uchuu no Maigotchi!?']
-animeCharacters	[b'Mametchi', b'Memetchi', b'Kuchipatchi', b'KuroMametchi']
+animePopularity	13627
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Eiga de Toujou! Tamagotchi Dokidoki! Uchuu no Maigotchi!?']
+animeCharacters	['Mametchi', 'Memetchi', 'Kuchipatchi', 'KuroMametchi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimura, Jouji\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nTakahashi, Naohito\n\nStoryboard\n\n', b'\nIwata, Keiko\n\nIn-Between Animation\n\n']
+animeStaff	[['Shimura, Jouji', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Takahashi, Naohito', 'Storyboard'], ['Iwata, Keiko', 'In-Between Animation']]

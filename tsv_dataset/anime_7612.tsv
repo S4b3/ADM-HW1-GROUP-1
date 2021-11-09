@@ -1,5 +1,5 @@
-animeTitle	b'Tono to Issho: Ippunkan Gekijou'
-animeType	b'TV'
+animeTitle	Tono to Issho: Ippunkan Gekijou
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.22
 animeUsers	1312
 animeRank	
-animePopularity	
-animeDescription	b'Comedy parodying famous samurai generals and historical events.'
-animeRelated	[b'Tono to Issho', b'Tono to Issho: Gantai no Yabou']
-animeCharacters	[b'Uesugi, Kenshin', b'Date, Masamune', b'Azai, Nagamasa', b'Inahime', b'Oda, Nobunaga', b'Chousokabe, Motochika', b'Naoe, Kanetsugu', b'Sanada, Nobuyuki', b'Takeda, Shingen', b'Asakura, Yoshikage']
-animeVoices	[b'\nGACKT\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nTachibana, Shinnosuke\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nKuroda, Takaya\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nNagasako, Takashi\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMankyuu\n\nDirector\n\n']
+animePopularity	8268
+animeDescription	Comedy parodying famous samurai generals and historical events.
+animeRelated	['Tono to Issho', 'Tono to Issho: Gantai no Yabou']
+animeCharacters	['Uesugi, Kenshin', 'Date, Masamune', 'Azai, Nagamasa', 'Inahime', 'Oda, Nobunaga', 'Chousokabe, Motochika', 'Naoe, Kanetsugu', 'Sanada, Nobuyuki', 'Takeda, Shingen', 'Asakura, Yoshikage']
+animeVoices	['GACKT', 'Suzuki, Tatsuhisa', 'Tachibana, Shinnosuke', 'Kobayashi, Yuu', 'Kuroda, Takaya', 'Noto, Mamiko', 'Kishio, Daisuke', 'Nagasako, Takashi', 'Miyano, Mamoru']
+animeStaff	[['Mankyuu', 'Director']]

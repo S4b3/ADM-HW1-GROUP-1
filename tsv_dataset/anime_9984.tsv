@@ -1,5 +1,5 @@
-animeTitle	b'Fujiko Fujio A no Mumako'
-animeType	b'Special'
+animeTitle	Fujiko Fujio A no Mumako
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.63
 animeUsers	133
 animeRank	
-animePopularity	
-animeDescription	b'Based on the horror novel by Fujio (A) Fujiko.'
+animePopularity	13235
+animeDescription	Based on the horror novel by Fujio (A) Fujiko.
 animeRelated	[]
-animeCharacters	[b'Mumako']
-animeVoices	[b'\nKawamura, Maria\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanami, Yasuo\n\nScript\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n', b'\nFujiko, Fujio (A)\n\nOriginal Creator\n\n', b'\nKoga, Tooru\n\nArt Director\n\n']
+animeCharacters	['Mumako']
+animeVoices	['Kawamura, Maria']
+animeStaff	[['Tanami, Yasuo', 'Script'], ['Tanaka, Kouhei', 'Music'], ['Fujiko, Fujio (A)', 'Original Creator'], ['Koga, Tooru', 'Art Director']]

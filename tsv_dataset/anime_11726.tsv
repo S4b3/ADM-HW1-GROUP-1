@@ -1,5 +1,5 @@
-animeTitle	b'Ame-iro Cocoa'
-animeType	b'TV'
+animeTitle	Ame-iro Cocoa
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.71
 animeUsers	10172
 animeRank	
-animePopularity	
-animeDescription	b'Aoi Tokura is a server at Rainy Color, a cozy and diverse cafe known for its hot cocoa. Along with barista Shion Koga, Aoi serves a small crowd of regulars who are attracted by his girlish good looks. When two handsome college students start frequenting the cafe as well, Aoi cannot help but be drawn into their lives.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Ame-iro Cocoa: Rainy Color e Youkoso!']
-animeCharacters	[b'Sakuragi, Ryouta', b'Iwase, Keiichi', b'Tokura, Aoi', b'Koga, Shion', b'Tokura, Nozomu', b'Amami, Kouji']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nSatou, Yuugo\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMochizuki, Tomomi\n\nDirector, Sound Director\n\n', b'\nShimono, Hiro\n\nTheme Song Performance\n\n', b'\nIzumo, Noriko\n\nSound Effects\n\n', b'\nTakahashi, Atsuko\n\nCharacter Design\n\n']
+animePopularity	3613
+animeDescription	"Aoi Tokura is a server at Rainy Color, a cozy and diverse cafe known for its hot cocoa. Along with barista Shion Koga, Aoi serves a small crowd of regulars who are attracted by his girlish good looks. When two handsome college students start frequenting the cafe as well, Aoi cannot help but be drawn into their lives.
+
+[Written by MAL Rewrite]"
+animeRelated	['Ame-iro Cocoa: Rainy Color e Youkoso!']
+animeCharacters	['Sakuragi, Ryouta', 'Iwase, Keiichi', 'Tokura, Aoi', 'Koga, Shion', 'Tokura, Nozomu', 'Amami, Kouji']
+animeVoices	['Miyano, Mamoru', 'Midorikawa, Hikaru', 'Shimono, Hiro', 'Hirakawa, Daisuke', 'Satou, Yuugo', 'Horikawa, Ryo']
+animeStaff	[['Mochizuki, Tomomi', 'Director, Sound Director'], ['Shimono, Hiro', 'Theme Song Performance'], ['Izumo, Noriko', 'Sound Effects'], ['Takahashi, Atsuko', 'Character Design']]

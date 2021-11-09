@@ -1,5 +1,5 @@
-animeTitle	b'Hana no Zundamaru'
-animeType	b'ONA'
+animeTitle	Hana no Zundamaru
+animeType	ONA
 animeNumEpisode	8
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.78
 animeUsers	115
 animeRank	
-animePopularity	
-animeDescription	b'Based on the Ninja Awate-maru comedy manga by Jirou Tsunoda.'
-animeRelated	[b'Pyun Pyun Maru', b'Hana no Zundamaru: Junk']
-animeCharacters	[b'Zundamaru', b'Sayuri', b'Kemeko', b'Kouchou', b'Kashira']
-animeVoices	[b'\nMimori, Suzuko\nJapanese\n', b'\nYamamoto, Maria\nJapanese\n', b'\nKamiya, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDaichi, Akitarou\n\nDirector, Script\n\n', b'\nAbe, Jun\n\nMusic\n\n', b'\nTsunoda, Jirou\n\nOriginal Creator\n\n']
+animePopularity	14020
+animeDescription	Based on the Ninja Awate-maru comedy manga by Jirou Tsunoda.
+animeRelated	['Pyun Pyun Maru', 'Hana no Zundamaru: Junk']
+animeCharacters	['Zundamaru', 'Sayuri', 'Kemeko', 'Kouchou', 'Kashira']
+animeVoices	['Mimori, Suzuko', 'Yamamoto, Maria', 'Kamiya, Akira']
+animeStaff	[['Daichi, Akitarou', 'Director, Script'], ['Abe, Jun', 'Music'], ['Tsunoda, Jirou', 'Original Creator']]

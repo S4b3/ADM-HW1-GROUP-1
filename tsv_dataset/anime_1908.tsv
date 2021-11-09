@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon Black and White 2: Introduction Movie'
-animeType	b'ONA'
+animeTitle	Pokemon Black and White 2: Introduction Movie
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.42
 animeUsers	8807
 animeRank	
-animePopularity	
-animeDescription	b'Promotional short for Pokemon Black and White 2.'
-animeRelated	[b'Pokemon Best Wishes!']
-animeCharacters	[b'Mei', b'Kyouhei', b'N', b'Kamitsure', b'Bel', b'Achroma', b'Cheren', b'Hue']
-animeVoices	[b'\nToyosaki, Aki\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n', b'\nSugimori, Ken\n\nOriginal Character Design\n\n', b'\nWayland, Tom\n\nADR Director\n\n']
+animePopularity	4417
+animeDescription	Promotional short for Pokemon Black and White 2.
+animeRelated	['Pokemon Best Wishes!']
+animeCharacters	['Mei', 'Kyouhei', 'N', 'Kamitsure', 'Bel', 'Achroma', 'Cheren', 'Hue']
+animeVoices	['Toyosaki, Aki', 'Irino, Miyu', 'Kamiya, Hiroshi', 'Sawashiro, Miyuki', 'Taketatsu, Ayana', 'Suwabe, Junichi', 'Kimura, Ryouhei', 'Minagawa, Junko']
+animeStaff	[['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design'], ['Wayland, Tom', 'ADR Director']]

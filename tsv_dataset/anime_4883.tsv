@@ -1,5 +1,5 @@
-animeTitle	b'Black Fox'
-animeType	b'Movie'
+animeTitle	Black Fox
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.74
 animeUsers	28277
 animeRank	
-animePopularity	
-animeDescription	"b""Rikka Isurugi has spent her life training in the way of the ninja with her grandfather Hyoe while following in the footsteps of her father, the esteemed researcher Allen. His work has culminated in a set of cutting- edge drones equipped with artificial intelligence and incredible technical capabilities; although Allen plans to develop these drones for civilian use, there are others who have more sinister ideas in mind.\n\nOn Rikka's 16th birthday, things are forever changed when a paramilitary group raids the Isurugi house in search of the drone technology, killing Allen and Hyoe while Rikka manages to escape with the drones. Months pass, and Rikka is now an ordinary girl working as a private detective while sharing an apartment with another girl, Melissa. But when night falls, she dons her grandfather's fox mask and mercilessly hunts down those responsible for the attack. With the anger she felt that day driving her forward, Rikka will not rest until her family's killers receive the justice that they deserve.\n\n[Written by MAL Rewrite]"""
+animePopularity	2046
+animeDescription	"Rikka Isurugi has spent her life training in the way of the ninja with her grandfather Hyoe while following in the footsteps of her father, the esteemed researcher Allen. His work has culminated in a set of cutting- edge drones equipped with artificial intelligence and incredible technical capabilities; although Allen plans to develop these drones for civilian use, there are others who have more sinister ideas in mind.
+
+On Rikka's 16th birthday, things are forever changed when a paramilitary group raids the Isurugi house in search of the drone technology, killing Allen and Hyoe while Rikka manages to escape with the drones. Months pass, and Rikka is now an ordinary girl working as a private detective while sharing an apartment with another girl, Melissa. But when night falls, she dons her grandfather's fox mask and mercilessly hunts down those responsible for the attack. With the anger she felt that day driving her forward, Rikka will not rest until her family's killers receive the justice that they deserve.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Isurugi, Rikka', b'Mia', b'The Girl in the Fox Mask', b'Melissa']
-animeVoices	[b'\nNanase, Ayaka\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nTaichi, You\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNomura, Kazuya\n\nDirector, Storyboard\n\n', b'\nShinohara, Keisuke\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nIino, Shinya\n\nEpisode Director, Storyboard\n\n']
+animeCharacters	['Isurugi, Rikka', 'Mia', 'The Girl in the Fox Mask', 'Melissa']
+animeVoices	['Nanase, Ayaka', 'Tomatsu, Haruka', 'Taichi, You']
+animeStaff	[['Nomura, Kazuya', 'Director, Storyboard'], ['Shinohara, Keisuke', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Iino, Shinya', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Gyakusatsu Kikan'
-animeType	b'Movie'
+animeTitle	Gyakusatsu Kikan
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.16
 animeUsers	10055
 animeRank	
-animePopularity	
-animeDescription	"b""The war on terror exploded, literally, the day Sarajevo was destroyed by a homemade nuclear device. The leading democracies transformed into total surveillance states, and the developing world has drowned under a wave of genocides. The mysterious American John Paul seems to be behind the collapse of the world system, and it's up to intelligence agent Clavis Shepherd to track John Paul across the wreckage of civilizations and to find the true heart of darkness\xe2\x80\x94a genocidal organ.\n\n(Source: Viz Media)"""
-animeRelated	[b'Gyakusatsu Kikan']
-animeCharacters	[b'Shepherd, Clavis', b'Paul, John', b'Realand', b'Williams', b'Alex', b'Kouchoukai Gichou', b'\xc5\xa0kroupov\xc3\xa1, Lucia', b'Rockwell', b'Ishi', b'Counselor']
-animeVoices	[b'\nNakamura, Yuuichi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nMikami, Satoshi\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nFukami, Rica\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nSasa, Kenta\nJapanese\n', b'\nGotou, Hiroki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurase, Shukou\n\nDirector, Script, Storyboard, Key Animation, Character Design, Chief Animation Director\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nEGOIST\n\nTheme Song Performance\n\n', b'\nChapin, Clifford\n\nADR Director\n\n']
+animePopularity	2808
+animeDescription	"The war on terror exploded, literally, the day Sarajevo was destroyed by a homemade nuclear device. The leading democracies transformed into total surveillance states, and the developing world has drowned under a wave of genocides. The mysterious American John Paul seems to be behind the collapse of the world system, and it's up to intelligence agent Clavis Shepherd to track John Paul across the wreckage of civilizations and to find the true heart of darkness—a genocidal organ.
+
+(Source: Viz Media)"
+animeRelated	['Gyakusatsu Kikan']
+animeCharacters	['Shepherd, Clavis', 'Paul, John', 'Realand', 'Williams', 'Alex', 'Kouchoukai Gichou', 'Škroupová, Lucia', 'Rockwell', 'Ishi', 'Counselor']
+animeVoices	['Nakamura, Yuuichi', 'Sakurai, Takahiro', 'Ishikawa, Kaito', 'Mikami, Satoshi', 'Kaji, Yuki', 'Fukami, Rica', 'Kobayashi, Sanae', 'Ootsuka, Akio', 'Sasa, Kenta', 'Gotou, Hiroki']
+animeStaff	[['Murase, Shukou', 'Director, Script, Storyboard, Key Animation, Character Design, Chief Animation Director'], ['Nagasaki, Yukio', 'Sound Director'], ['EGOIST', 'Theme Song Performance'], ['Chapin, Clifford', 'ADR Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Caramel Honey'
-animeType	b'ONA'
+animeTitle	Caramel Honey
+animeType	ONA
 animeNumEpisode	30
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.79
 animeUsers	3202
 animeRank	
-animePopularity	
-animeDescription	"b""Ayato transfers into a new school hoping for a fresh start.\nSadly for him, the school turns up to be filled with delinquents, and the most feared of them all has his eye set on him.\nAnd it doesn't help, that whenever Ayato accidentally takes off his glasses, everyone around him suddenly becomes completely smitten by him.\n\n(Source: MU)\n"""
-animeRelated	[b'Caramel Honey']
-animeCharacters	[b'Horiguchi, Yuusei', b'Nakasone, Ayato', b'Horiguchi, Masato', b'Fumisawa, Mamoru']
+animePopularity	5058
+animeDescription	"Ayato transfers into a new school hoping for a fresh start.
+Sadly for him, the school turns up to be filled with delinquents, and the most feared of them all has his eye set on him.
+And it doesn't help, that whenever Ayato accidentally takes off his glasses, everyone around him suddenly becomes completely smitten by him.
+
+(Source: MU)
+"
+animeRelated	['Caramel Honey']
+animeCharacters	['Horiguchi, Yuusei', 'Nakasone, Ayato', 'Horiguchi, Masato', 'Fumisawa, Mamoru']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakuhei\n\nOriginal Creator\n\n', b'\nChaen, Ichirou\n\nEditing\n\n']
+animeStaff	[['Takuhei', 'Original Creator'], ['Chaen, Ichirou', 'Editing']]

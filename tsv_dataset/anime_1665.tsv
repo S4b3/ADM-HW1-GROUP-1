@@ -1,5 +1,5 @@
-animeTitle	b'Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai'
-animeType	b'Movie'
+animeTitle	Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.49
 animeUsers	5632
 animeRank	
-animePopularity	
-animeDescription	"b'The story follows Benio ""Haikara-san"" Hanamura, who lost her mother when she was very young and has been raised by her father, a high-ranking official in the Japanese army. As a result, she has grown into a tomboy\xe2\x80\x94contrary to traditional Japanese notions of femininity, she studies kendo, drinks sake, dresses in often outlandish-looking Western fashions instead of the traditional kimono, and is not as interested in housework as she is in literature. She also rejects the idea of arranged marriages and believes in a woman\'s right to a career and to marry for love.\n\n(Source: ANN)'"
-animeRelated	[b'Haikara-san ga Tooru', b'Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman']
-animeCharacters	[b'Hanamura, Benio', b'Ijuuin, Shinobu', b'Aoe, Tousei', b'Fujieda, Ranmaru', b'Ushigorou', b'Onijima, Shingo', b'Kichiji', b'Kitakouji, Tamaki', b'Baaya', b'Hanamura']
-animeVoices	[b'\nHayami, Saori\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nSeto, Asami\nJapanese\n', b'\nSuzuki, Reiko\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFuruhashi, Kazuhiro\n\nDirector, Screenplay\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n', b'\nHayami, Saori\n\nTheme Song Performance\n\n', b'\nTakeuchi, Mariya\n\nTheme Song Lyrics, Theme Song Composition\n\n']
+animePopularity	3998
+animeDescription	"The story follows Benio ""Haikara-san"" Hanamura, who lost her mother when she was very young and has been raised by her father, a high-ranking official in the Japanese army. As a result, she has grown into a tomboy—contrary to traditional Japanese notions of femininity, she studies kendo, drinks sake, dresses in often outlandish-looking Western fashions instead of the traditional kimono, and is not as interested in housework as she is in literature. She also rejects the idea of arranged marriages and believes in a woman's right to a career and to marry for love.
+
+(Source: ANN)"
+animeRelated	['Haikara-san ga Tooru', 'Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman']
+animeCharacters	['Hanamura, Benio', 'Ijuuin, Shinobu', 'Aoe, Tousei', 'Fujieda, Ranmaru', 'Ushigorou', 'Onijima, Shingo', 'Kichiji', 'Kitakouji, Tamaki', 'Baaya', 'Hanamura']
+animeVoices	['Hayami, Saori', 'Miyano, Mamoru', 'Sakurai, Takahiro', 'Kaji, Yuki', 'Miyake, Kenta', 'Nakai, Kazuya', 'Itou, Shizuka', 'Seto, Asami', 'Suzuki, Reiko', 'Ishizuka, Unshou']
+animeStaff	[['Furuhashi, Kazuhiro', 'Director, Screenplay'], ['Wakabayashi, Kazuhiro', 'Sound Director'], ['Hayami, Saori', 'Theme Song Performance'], ['Takeuchi, Mariya', 'Theme Song Lyrics, Theme Song Composition']]

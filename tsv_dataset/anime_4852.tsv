@@ -1,5 +1,5 @@
-animeTitle	b'Sora no Otoshimono Final: Eternal My Master'
-animeType	b'Movie'
+animeTitle	Sora no Otoshimono Final: Eternal My Master
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.75
 animeUsers	37107
 animeRank	
-animePopularity	
-animeDescription	b'The second movie of Sora no Otoshimono that concludes the anime series.'
-animeRelated	[b'Sora no Otoshimono', b'Sora no Otoshimono: Tokeijikake no Angeloid']
-animeCharacters	[b'Ikaros', b'Sakurai, Tomoki', b'Nymph', b'Astraea', b'Sugata, Eishirou', b'Satsukitane, Mikako', b'Mitsuki, Sohara', b'Kazane, Hiyori', b'Chaos', b'Sakurai, Tomozo']
-animeVoices	[b'\nHayami, Saori\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nNomizu, Iori\nJapanese\n', b'\nFukuhara, Kaori\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n', b'\nMina\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nIwasaki, Hiroshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSaitou, Hisashi\n\nDirector\n\n', b'\nTakahashi, Tsuyoshi\n\nSound Director\n\n', b'\nUtsunomiya, Masamitsu\n\nEpisode Director\n\n', b'\nBlue Drops\n\nTheme Song Performance\n\n']
+animePopularity	1807
+animeDescription	The second movie of Sora no Otoshimono that concludes the anime series.
+animeRelated	['Sora no Otoshimono', 'Sora no Otoshimono: Tokeijikake no Angeloid']
+animeCharacters	['Ikaros', 'Sakurai, Tomoki', 'Nymph', 'Astraea', 'Sugata, Eishirou', 'Satsukitane, Mikako', 'Mitsuki, Sohara', 'Kazane, Hiyori', 'Chaos', 'Sakurai, Tomozo']
+animeVoices	['Hayami, Saori', 'Hoshi, Souichirou', 'Nomizu, Iori', 'Fukuhara, Kaori', 'Suzuki, Tatsuhisa', 'Takagaki, Ayahi', 'Mina', 'Hikasa, Youko', 'Toyosaki, Aki', 'Iwasaki, Hiroshi']
+animeStaff	[['Saitou, Hisashi', 'Director'], ['Takahashi, Tsuyoshi', 'Sound Director'], ['Utsunomiya, Masamitsu', 'Episode Director'], ['Blue Drops', 'Theme Song Performance']]

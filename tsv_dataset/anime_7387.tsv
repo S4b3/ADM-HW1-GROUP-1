@@ -1,5 +1,5 @@
-animeTitle	b'Kyoukai no Rinne'
-animeType	b'Special'
+animeTitle	Kyoukai no Rinne
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.26
 animeUsers	1566
 animeRank	
-animePopularity	
-animeDescription	b'Kyoukai no Rinne commercial aired during Inuyasha Kanketsu-hen with different voice actors than in the TV Series.'
-animeRelated	[b'Kyoukai no Rinne', b'Kyoukai no Rinne (TV)']
-animeCharacters	[b'Rokudou, Rinne', b'Mamiya, Sakura', b'Rokumon']
-animeVoices	[b'\nUchiyama, Kouki\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Rumiko\n\nOriginal Creator\n\n']
+animePopularity	6905
+animeDescription	Kyoukai no Rinne commercial aired during Inuyasha Kanketsu-hen with different voice actors than in the TV Series.
+animeRelated	['Kyoukai no Rinne', 'Kyoukai no Rinne (TV)']
+animeCharacters	['Rokudou, Rinne', 'Mamiya, Sakura', 'Rokumon']
+animeVoices	['Uchiyama, Kouki', 'Ise, Mariya', 'Kugimiya, Rie']
+animeStaff	[['Takahashi, Rumiko', 'Original Creator']]

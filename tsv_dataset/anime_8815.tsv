@@ -1,5 +1,5 @@
-animeTitle	b'Donyatsu'
-animeType	b'Movie'
+animeTitle	Donyatsu
+animeType	Movie
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.96
 animeUsers	2053
 animeRank	
-animePopularity	
-animeDescription	"b'The ""loosely science-fiction adventure"" is set in the summer sometime in the 21st century. Tokyo\'s Shinjuku ward has become a wasteland, void of all humans due to an unexplained catastrophe. What remains are these strange creatures such as ""Donyatsu,"" the half-cat, half-doughnut hybrid, and ""Begaru,"" a feline bagel composite.\n\n(Source: ANN)'"
-animeRelated	[b'Dounyatsu', b'Donyatsu Specials']
-animeCharacters	[b'Dounyatsu', b'Kumacaron', b'Baumcougar', b'Bagel', b'Ronya', b'Menchihuahua', b'Wedge', b'Robosaki', b'Machan', b'Croken']
-animeVoices	[b'\nTamura, Yukari\nJapanese\n', b'\nHayashi, Saori\nJapanese\n', b'\nMajima, Junji\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nShiina, Hikari\nJapanese\n', b'\nKozaki, Yuusuke\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nMatsuyama, Takashi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMankyuu\n\nDirector\n\n', b'\nStylipS\n\nTheme Song Performance\n\n', b'\nShiina, Hikari\n\nTheme Song Performance\n\n', b'\nKozaki, Yuusuke\n\nOriginal Creator\n\n']
+animePopularity	7361
+animeDescription	"The ""loosely science-fiction adventure"" is set in the summer sometime in the 21st century. Tokyo's Shinjuku ward has become a wasteland, void of all humans due to an unexplained catastrophe. What remains are these strange creatures such as ""Donyatsu,"" the half-cat, half-doughnut hybrid, and ""Begaru,"" a feline bagel composite.
+
+(Source: ANN)"
+animeRelated	['Dounyatsu', 'Donyatsu Specials']
+animeCharacters	['Dounyatsu', 'Kumacaron', 'Baumcougar', 'Bagel', 'Ronya', 'Menchihuahua', 'Wedge', 'Robosaki', 'Machan', 'Croken']
+animeVoices	['Tamura, Yukari', 'Hayashi, Saori', 'Majima, Junji', 'Fujiwara, Keiji', 'Shiina, Hikari', 'Kozaki, Yuusuke', 'Shimazaki, Nobunaga', 'Fukuyama, Jun', 'Suzuki, Tatsuhisa', 'Matsuyama, Takashi']
+animeStaff	[['Mankyuu', 'Director'], ['StylipS', 'Theme Song Performance'], ['Shiina, Hikari', 'Theme Song Performance'], ['Kozaki, Yuusuke', 'Original Creator']]

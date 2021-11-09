@@ -1,5 +1,5 @@
-animeTitle	b'Tales of the Abyss'
-animeType	b'TV'
+animeTitle	Tales of the Abyss
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.3
 animeUsers	44765
 animeRank	
-animePopularity	
-animeDescription	"b""The world of Auldrant is bound by the Score, a series of prophecies from centuries past that dictate the world's future. It is considered an absolute fate that everyone lives by\xe2\x80\x94even people whose actions lead to bloodshed and tears. Using magical abilities known as the Fonic Arts, a war between the nation of Kimlasca-Lanvaldear and the Malkuth Empire is waged in hopes of bringing the Score's foreseen utopia to life.\n\nTales of the Abyss follows Luke von Fabre, who spends his days locked away in his manor after being kidnapped and losing memories as a child. One day, while honing his swordsmanship, a woman named Tear attempts to assassinate his master. Luke defends him, but the clash results in the two being teleported to a distant land. Luke and Tear\xe2\x80\x99s journey back quickly escalates into a quest that will either free the world from the Score's chains or destroy it completely."""
-animeRelated	[b'Tales of the Abyss', b'Tales of the Abyss Special Fan Disc', b'Tales of Gekijou']
-animeCharacters	[b'Fon Fabre, Luke', b'Curtiss, Jade', b'Grants, Tear', b'Asch', b'Cecil, Guy', b'Ion', b'Tatlin, Anise', b'Luzu Kimlasca Lanvaldear, Natalia', b'Sync', b'Arietta']
-animeVoices	[b'\nSuzuki, Chihiro\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nYukana\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nKobayashi, Yumiko\nJapanese\n', b'\nMomoi, Haruko\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKodama, Kenji\n\nDirector\n\n', b'\nKimura, Eriko\n\nSound Director\n\n', b'\nOgura, Hirofumi\n\nEpisode Director, Storyboard\n\n', b'\nSatou, Teruo\n\nEpisode Director, Storyboard, Assistant Director\n\n']
+animePopularity	1447
+animeDescription	"The world of Auldrant is bound by the Score, a series of prophecies from centuries past that dictate the world's future. It is considered an absolute fate that everyone lives by—even people whose actions lead to bloodshed and tears. Using magical abilities known as the Fonic Arts, a war between the nation of Kimlasca-Lanvaldear and the Malkuth Empire is waged in hopes of bringing the Score's foreseen utopia to life.
+
+Tales of the Abyss follows Luke von Fabre, who spends his days locked away in his manor after being kidnapped and losing memories as a child. One day, while honing his swordsmanship, a woman named Tear attempts to assassinate his master. Luke defends him, but the clash results in the two being teleported to a distant land. Luke and Tear’s journey back quickly escalates into a quest that will either free the world from the Score's chains or destroy it completely."
+animeRelated	['Tales of the Abyss', 'Tales of the Abyss Special Fan Disc', 'Tales of Gekijou']
+animeCharacters	['Fon Fabre, Luke', 'Curtiss, Jade', 'Grants, Tear', 'Asch', 'Cecil, Guy', 'Ion', 'Tatlin, Anise', 'Luzu Kimlasca Lanvaldear, Natalia', 'Sync', 'Arietta']
+animeVoices	['Suzuki, Chihiro', 'Koyasu, Takehito', 'Yukana', 'Matsumoto, Yasunori', 'Kobayashi, Yumiko', 'Momoi, Haruko', 'Neya, Michiko', 'Yukino, Satsuki']
+animeStaff	[['Kodama, Kenji', 'Director'], ['Kimura, Eriko', 'Sound Director'], ['Ogura, Hirofumi', 'Episode Director, Storyboard'], ['Satou, Teruo', 'Episode Director, Storyboard, Assistant Director']]

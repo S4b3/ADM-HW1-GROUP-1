@@ -1,5 +1,5 @@
-animeTitle	b'Super Lovers OVA'
-animeType	b'OVA'
+animeTitle	Super Lovers OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.36
 animeUsers	9008
 animeRank	
-animePopularity	
-animeDescription	"b""Bundled with manga's tenth and eleventh volume."""
-animeRelated	[b'Super Lovers']
-animeCharacters	[b'Kaidou, Ren', b'Kaidou, Haru', b'Kaidou, Aki', b'Kaidou, Shima', b'Sasaki, Ikuyoshi']
-animeVoices	[b'\nMinagawa, Junko\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nMurase, Ayumu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuoka, Yoshitsugu\n\nTheme Song Performance\n\n', b'\nMaeno, Tomoaki\n\nTheme Song Performance\n\n', b'\nMinagawa, Junko\n\nTheme Song Performance\n\n', b'\nTerashima, Takuma\n\nTheme Song Performance\n\n']
+animePopularity	3511
+animeDescription	Bundled with manga's tenth and eleventh volume.
+animeRelated	['Super Lovers']
+animeCharacters	['Kaidou, Ren', 'Kaidou, Haru', 'Kaidou, Aki', 'Kaidou, Shima', 'Sasaki, Ikuyoshi']
+animeVoices	['Minagawa, Junko', 'Maeno, Tomoaki', 'Matsuoka, Yoshitsugu', 'Terashima, Takuma', 'Murase, Ayumu']
+animeStaff	[['Matsuoka, Yoshitsugu', 'Theme Song Performance'], ['Maeno, Tomoaki', 'Theme Song Performance'], ['Minagawa, Junko', 'Theme Song Performance'], ['Terashima, Takuma', 'Theme Song Performance']]

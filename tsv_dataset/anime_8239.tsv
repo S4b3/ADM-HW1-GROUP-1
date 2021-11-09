@@ -1,5 +1,5 @@
-animeTitle	b'Gorillaman'
-animeType	b'OVA'
+animeTitle	Gorillaman
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.09
 animeUsers	159
 animeRank	
-animePopularity	
-animeDescription	"b'A school comedy about a mute transfer student, Tadashi  Iketo, who is constant\xc2\xadly shuffled from school to school for his  ""violent nature,"" though he really is a mild-mannered boy constantly taunt\xc2\xaded into fights over his simian appearance. \n\nBased on a 1989 manga in  Young Magazine by Harold Sakuishi. \n\n(Source: The Anime Encyclopedia)'"
-animeRelated	[b'Gorilla-Man']
-animeCharacters	"[b'Nakajima', b'Ikedo, Sadaharu', b""Fujimoto's Mother"", b'Nimura', b'Vice-Principal', b'Tsuruta, Seisuke', b'Kitamura, Kaori', b'Fujimoto, Shuuji']"
-animeVoices	[b'\nFujiwara, Keiji\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nTakizawa, Kumiko\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nNaka, Hiroshi\nJapanese\n', b'\nAnzai, Masahiro\nJapanese\n', b'\nYokoyama, Chisa\nJapanese\n', b'\nNakata, Kazuhiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Hideyuki\n\nSound Director\n\n', b'\nSakuishi, Harold\n\nOriginal Creator\n\n', b'\nKajitani, Mitsuharu\n\nCharacter Design\n\n', b'\nJizoumoto, Takuji\n\nArt Director\n\n']
+animePopularity	12343
+animeDescription	"A school comedy about a mute transfer student, Tadashi  Iketo, who is constant­ly shuffled from school to school for his  ""violent nature,"" though he really is a mild-mannered boy constantly taunt­ed into fights over his simian appearance. 
+
+Based on a 1989 manga in  Young Magazine by Harold Sakuishi. 
+
+(Source: The Anime Encyclopedia)"
+animeRelated	['Gorilla-Man']
+animeCharacters	"['Nakajima', 'Ikedo, Sadaharu', ""Fujimoto's Mother"", 'Nimura', 'Vice-Principal', 'Tsuruta, Seisuke', 'Kitamura, Kaori', 'Fujimoto, Shuuji']"
+animeVoices	['Fujiwara, Keiji', 'Gouri, Daisuke', 'Takizawa, Kumiko', 'Morikawa, Toshiyuki', 'Naka, Hiroshi', 'Anzai, Masahiro', 'Yokoyama, Chisa', 'Nakata, Kazuhiro']
+animeStaff	[['Tanaka, Hideyuki', 'Sound Director'], ['Sakuishi, Harold', 'Original Creator'], ['Kajitani, Mitsuharu', 'Character Design'], ['Jizoumoto, Takuji', 'Art Director']]

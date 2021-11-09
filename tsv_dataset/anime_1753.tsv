@@ -1,5 +1,5 @@
-animeTitle	b'Mahouka Koukou no Rettousei'
-animeType	b'TV'
+animeTitle	Mahouka Koukou no Rettousei
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.46
 animeUsers	473202
 animeRank	
-animePopularity	
-animeDescription	"b'In the dawn of the 21st century, magic, long thought to be folklore and fairy tales, has become a systematized technology and is taught as a technical skill. In First High School, the institution for magicians, students are segregated into two groups based on their entrance exam scores: ""Blooms,"" those who receive high scores, are assigned to the First Course, while ""Weeds"" are reserve students assigned to the Second Course.\n\nMahouka Koukou no Rettousei follows the siblings, Tatsuya and Miyuki Shiba, who are enrolled in First High School. Upon taking the exam, the prodigious Miyuki is placed in the First Course, while Tatsuya is relegated to the Second Course. Though his practical test scores and status as a ""Weed"" show him to be magically inept, he possesses extraordinary technical knowledge, physical combat capabilities, and unique magic techniques\xe2\x80\x94making Tatsuya the irregular at a magical high school.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Mahouka Koukou no Rettousei', b'Yoku Wakaru Mahouka!', b'Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo', b'Mahouka Koukou no Rettousei: Raihousha-hen', b'Mahouka Koukou no Yuutousei', b'Mahouka Koukou no Rettousei: Tsuioku-hen']
-animeCharacters	[b'Shiba, Tatsuya', b'Shiba, Miyuki', b'Saegusa, Mayumi', b'Chiba, Erika', b'Kitayama, Shizuku', b'Mitsui, Honoka', b'Ichijou, Masaki', b'Shibata, Mizuki', b'Watanabe, Mari', b'Saijou, Leonhart']
-animeVoices	[b'\nNakamura, Yuuichi\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nTatsumi, Yuiko\nJapanese\n', b'\nAmamiya, Sora\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOno, Manabu\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nShiraishi, Michita\n\nEpisode Director\n\n', b'\nKizawa, Yukito\n\nScript\n\n']
+animePopularity	124
+animeDescription	"In the dawn of the 21st century, magic, long thought to be folklore and fairy tales, has become a systematized technology and is taught as a technical skill. In First High School, the institution for magicians, students are segregated into two groups based on their entrance exam scores: ""Blooms,"" those who receive high scores, are assigned to the First Course, while ""Weeds"" are reserve students assigned to the Second Course.
+
+Mahouka Koukou no Rettousei follows the siblings, Tatsuya and Miyuki Shiba, who are enrolled in First High School. Upon taking the exam, the prodigious Miyuki is placed in the First Course, while Tatsuya is relegated to the Second Course. Though his practical test scores and status as a ""Weed"" show him to be magically inept, he possesses extraordinary technical knowledge, physical combat capabilities, and unique magic techniques—making Tatsuya the irregular at a magical high school.
+
+[Written by MAL Rewrite]"
+animeRelated	['Mahouka Koukou no Rettousei', 'Yoku Wakaru Mahouka!', 'Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo', 'Mahouka Koukou no Rettousei: Raihousha-hen', 'Mahouka Koukou no Yuutousei', 'Mahouka Koukou no Rettousei: Tsuioku-hen']
+animeCharacters	['Shiba, Tatsuya', 'Shiba, Miyuki', 'Saegusa, Mayumi', 'Chiba, Erika', 'Kitayama, Shizuku', 'Mitsui, Honoka', 'Ichijou, Masaki', 'Shibata, Mizuki', 'Watanabe, Mari', 'Saijou, Leonhart']
+animeVoices	['Nakamura, Yuuichi', 'Hayami, Saori', 'Hanazawa, Kana', 'Uchiyama, Yumi', 'Tatsumi, Yuiko', 'Amamiya, Sora', 'Matsuoka, Yoshitsugu', 'Satou, Satomi', 'Inoue, Marina', 'Terashima, Takuma']
+animeStaff	[['Ono, Manabu', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Shiraishi, Michita', 'Episode Director'], ['Kizawa, Yukito', 'Script']]

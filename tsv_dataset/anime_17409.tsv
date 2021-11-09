@@ -1,5 +1,5 @@
-animeTitle	b'Ten Count'
-animeType	b'TV'
+animeTitle	Ten Count
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Corporate secretary Shirotani suffers from obsessive-compulsive disorder. One day he meets Kurose, a therapist who offers to take him through a ten-step program to cure him of his compulsion. As the two go through each of the ten steps, Shirotani 's attraction to his counselor grows. \n\n(Source: SuBLime)"""
-animeRelated	[b'Ten Count', b'6 Lovers']
-animeCharacters	[b'Kurose, Riku', b'Shirotani, Tadaomi']
+animePopularity	3440
+animeDescription	"Corporate secretary Shirotani suffers from obsessive-compulsive disorder. One day he meets Kurose, a therapist who offers to take him through a ten-step program to cure him of his compulsion. As the two go through each of the ten steps, Shirotani 's attraction to his counselor grows. 
+
+(Source: SuBLime)"
+animeRelated	['Ten Count', '6 Lovers']
+animeCharacters	['Kurose, Riku', 'Shirotani, Tadaomi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakarai, Rihito\n\nOriginal Creator\n\n']
+animeStaff	[['Takarai, Rihito', 'Original Creator']]

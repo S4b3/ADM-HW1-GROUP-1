@@ -1,5 +1,5 @@
-animeTitle	"b'""Parade"" de Satie'"
-animeType	b'Movie'
+animeTitle	"""Parade"" de Satie"
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,8 +7,10 @@ animeNumMembers
 animeScore	5.39
 animeUsers	423
 animeRank	
-animePopularity	
-animeDescription	b'A Parade for three managers and four performers. \n\n(Source: Yamamura Animation)'
+animePopularity	11501
+animeDescription	"A Parade for three managers and four performers. 
+
+(Source: Yamamura Animation)"
 animeRelated	[]
 animeCharacters	[]
 animeVoices	[]

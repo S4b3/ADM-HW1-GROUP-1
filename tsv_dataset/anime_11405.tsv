@@ -1,5 +1,5 @@
-animeTitle	b'Megumi to Taiyou: Kajuu Gummi Tweet Love Story'
-animeType	b'Special'
+animeTitle	Megumi to Taiyou: Kajuu Gummi Tweet Love Story
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.04
 animeUsers	416
 animeRank	
-animePopularity	
-animeDescription	"b'The ""Megumi and Taiyou"" commercial depicts the reunion of a girl named Megumi (Ai Hashimoto), who was raised near a grape orchard, and her childhood friend Taiyou (Sakuma Kazuyuki).\n\n(Source: ANN)'"
-animeRelated	[b'Megumi to Taiyou II: Kajuu Gummi Tweet Mystery - Kieta Sapphire Roman no Nazo', b'Choco Kyouju no Oheya']
-animeCharacters	[b'Taiyou', b'Megumi']
-animeVoices	[b'\nHashimoto, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Yusuke\n\nCharacter Design\n\n', b'\nRintaro\n\nAnimation Director\n\n']
+animePopularity	10368
+animeDescription	"The ""Megumi and Taiyou"" commercial depicts the reunion of a girl named Megumi (Ai Hashimoto), who was raised near a grape orchard, and her childhood friend Taiyou (Sakuma Kazuyuki).
+
+(Source: ANN)"
+animeRelated	['Megumi to Taiyou II: Kajuu Gummi Tweet Mystery - Kieta Sapphire Roman no Nazo', 'Choco Kyouju no Oheya']
+animeCharacters	['Taiyou', 'Megumi']
+animeVoices	['Hashimoto, Ai']
+animeStaff	[['Nakamura, Yusuke', 'Character Design'], ['Rintaro', 'Animation Director']]

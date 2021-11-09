@@ -1,5 +1,5 @@
-animeTitle	b'God Eater Reso Nantoka Gekijou: Nagerareta Shokupan'
-animeType	b'Special'
+animeTitle	God Eater Reso Nantoka Gekijou: Nagerareta Shokupan
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.78
 animeUsers	781
 animeRank	
-animePopularity	
-animeDescription	"b'Short anime inspired by the iOS and Android mobile game God Eater Resonant Ops.\n\nIntroduces the characters through their first day of school. Resonant Ops continues the story of God Eater 2 Rage Burst, which in turn is a sequel to God Eater Burst, and is set 4 years after the latter\'s story, moving the setting ""at long last"" toward the Fenrir Headquarters in the year 2078.'"
-animeRelated	[b'God Eater Reso Nantoka Gekijou', b'God Eater Resonant Ops', b'God Eater 3']
-animeCharacters	[b'der Vogelweid, Erina', b'Vita Lin Toe, Tiona', b'Kisaragi, Sera', b'Martin, Alek', b'Kamiki, Leo', b'Kamiki, Rio', b'Ogretail-kun']
-animeVoices	[b'\nAsumi, Kana\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nYamashita, Daiki\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nOozora, Naomi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinohara, Parako\n\nDirector, Script, Storyboard, Series Composition\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nAsari, Fujiaki\n\nEpisode Director\n\n', b'\nTan, Ayako\n\nEditing\n\n']
+animePopularity	6767
+animeDescription	"Short anime inspired by the iOS and Android mobile game God Eater Resonant Ops.
+
+Introduces the characters through their first day of school. Resonant Ops continues the story of God Eater 2 Rage Burst, which in turn is a sequel to God Eater Burst, and is set 4 years after the latter's story, moving the setting ""at long last"" toward the Fenrir Headquarters in the year 2078."
+animeRelated	['God Eater Reso Nantoka Gekijou', 'God Eater Resonant Ops', 'God Eater 3']
+animeCharacters	['der Vogelweid, Erina', 'Vita Lin Toe, Tiona', 'Kisaragi, Sera', 'Martin, Alek', 'Kamiki, Leo', 'Kamiki, Rio', 'Ogretail-kun']
+animeVoices	['Asumi, Kana', 'Uchida, Maaya', 'Kobayashi, Yuu', 'Yamashita, Daiki', 'Shimono, Hiro', 'Oozora, Naomi', 'Nakai, Kazuya']
+animeStaff	[['Shinohara, Parako', 'Director, Script, Storyboard, Series Composition'], ['Nagasaki, Yukio', 'Sound Director'], ['Asari, Fujiaki', 'Episode Director'], ['Tan, Ayako', 'Editing']]

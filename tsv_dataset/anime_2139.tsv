@@ -1,5 +1,5 @@
-animeTitle	b'Poputepipikku TV Special'
-animeType	b'Special'
+animeTitle	Poputepipikku TV Special
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.36
 animeUsers	7291
 animeRank	
-animePopularity	
-animeDescription	b'Episode 13 and 14 of Poputepipikku. The special has four versions shown on four different broadcasters: Tokyo MX (Blue Dragon ver.), Nico Nico Douga (Vermilion Bird ver.), Abema TV Anilive (White Tiger ver.) and Abema TV Pop Team Epic Channel (Black Tortoise ver.). Each version has a unique combination of seiyuus.\n\n(Source: AniDB)'
-animeRelated	[b'Poputepipikku']
-animeCharacters	[b'Popuko', b'Pipimi']
+animePopularity	3890
+animeDescription	"Episode 13 and 14 of Poputepipikku. The special has four versions shown on four different broadcasters: Tokyo MX (Blue Dragon ver.), Nico Nico Douga (Vermilion Bird ver.), Abema TV Anilive (White Tiger ver.) and Abema TV Pop Team Epic Channel (Black Tortoise ver.). Each version has a unique combination of seiyuus.
+
+(Source: AniDB)"
+animeRelated	['Poputepipikku']
+animeCharacters	['Popuko', 'Pipimi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nAoki, Jun\n\nProducer, Director, Episode Director, Storyboard, Special Effects, Series Composition, Setting, Editing, Character Design, Key Animation, In-Between Animation\n\n', b'\nOokawa, bkub\n\nOriginal Creator\n\n', b'\nKotobuki, Tsukasa\n\nKey Animation, Animation Director\n\n']
+animeStaff	[['Aoki, Jun', 'Producer, Director, Episode Director, Storyboard, Special Effects, Series Composition, Setting, Editing, Character Design, Key Animation, In-Between Animation'], ['Ookawa, bkub', 'Original Creator'], ['Kotobuki, Tsukasa', 'Key Animation, Animation Director']]

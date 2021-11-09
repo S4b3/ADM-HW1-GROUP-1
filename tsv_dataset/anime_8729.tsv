@@ -1,5 +1,5 @@
-animeTitle	b'Hello Kitty no Fushigi no Kuni no Alice'
-animeType	b'OVA'
+animeTitle	Hello Kitty no Fushigi no Kuni no Alice
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.98
 animeUsers	227
 animeRank	
-animePopularity	
-animeDescription	"b""Adaption of Lewis Caroll's Alice in Wonderland with the famous cat as the heroine. """
+animePopularity	12262
+animeDescription	Adaption of Lewis Caroll's Alice in Wonderland with the famous cat as the heroine. 
 animeRelated	[]
-animeCharacters	[b'White, Kitty']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshikawa, Yasuo\n\nDirector\n\n', b'\nCarroll, Lewis\n\nOriginal Creator\n\n', b'\nHoshiyama, Hiroyuki\n\nScreenplay\n\n', b'\nAbe, Yukio\n\nArt Director\n\n']
+animeCharacters	['White, Kitty']
+animeVoices	['Hayashibara, Megumi']
+animeStaff	[['Ishikawa, Yasuo', 'Director'], ['Carroll, Lewis', 'Original Creator'], ['Hoshiyama, Hiroyuki', 'Screenplay'], ['Abe, Yukio', 'Art Director']]

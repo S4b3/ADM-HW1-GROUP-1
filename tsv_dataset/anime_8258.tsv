@@ -1,5 +1,5 @@
-animeTitle	b'Abarenbou Rikishi!! Matsutarou'
-animeType	b'TV'
+animeTitle	Abarenbou Rikishi!! Matsutarou
+animeType	TV
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.08
 animeUsers	3062
 animeRank	
-animePopularity	
-animeDescription	"b'Matsutarou Sakaguchi is a giant roughneck man with strength far beyond ordinary people. He never uttered words like ""work hard,"" ""strive,"" and ""dream"" like the typical shounen manga protagonist. However, he is stronger than anyone and peerless in sumo wrestling. His greatest weakness is his own carefree personality. He grows into a full-fledged sumo wrestler.\n\n(Source: ANN)'"
-animeRelated	[b'Notari Matsutarou']
-animeCharacters	[b'Sakaguchi, Matsutarou', b'Minami, Reiko', b'Umeo', b'Ei', b'Shachou', b'Raijin', b'Inokawa-zeki', b'Tanaka, Shin', b'Kiku', b'Nishio']
-animeVoices	[b'\nMatsudaira, Ken\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nChiba, Chiemi\nJapanese\n', b'\nSaito, Kimiko\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n', b'\nAomori, Shin\nJapanese\n', b'\nInada, Tetsu\nJapanese\n', b'\nShioya, Kouzou\nJapanese\n', b'\nMima, Rieko\nJapanese\n', b'\nShimada, Bin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nBogdan, Gyarmath\n\nProducer\n\n', b'\nKaizawa, Yukio\n\nDirector, Episode Director, Storyboard\n\n', b'\nNakanishi, Nobuaki\n\nEpisode Director, Storyboard\n\n', b'\nChiba, Tetsuya\n\nOriginal Creator\n\n']
+animePopularity	5687
+animeDescription	"Matsutarou Sakaguchi is a giant roughneck man with strength far beyond ordinary people. He never uttered words like ""work hard,"" ""strive,"" and ""dream"" like the typical shounen manga protagonist. However, he is stronger than anyone and peerless in sumo wrestling. His greatest weakness is his own carefree personality. He grows into a full-fledged sumo wrestler.
+
+(Source: ANN)"
+animeRelated	['Notari Matsutarou']
+animeCharacters	['Sakaguchi, Matsutarou', 'Minami, Reiko', 'Umeo', 'Ei', 'Shachou', 'Raijin', 'Inokawa-zeki', 'Tanaka, Shin', 'Kiku', 'Nishio']
+animeVoices	['Matsudaira, Ken', 'Mizutani, Yuuko', 'Chiba, Chiemi', 'Saito, Kimiko', 'Satou, Masaharu', 'Aomori, Shin', 'Inada, Tetsu', 'Shioya, Kouzou', 'Mima, Rieko', 'Shimada, Bin']
+animeStaff	[['Bogdan, Gyarmath', 'Producer'], ['Kaizawa, Yukio', 'Director, Episode Director, Storyboard'], ['Nakanishi, Nobuaki', 'Episode Director, Storyboard'], ['Chiba, Tetsuya', 'Original Creator']]

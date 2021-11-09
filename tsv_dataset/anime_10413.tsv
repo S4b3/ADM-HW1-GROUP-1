@@ -1,5 +1,5 @@
-animeTitle	b'Good Morning Althea'
-animeType	b'OVA'
+animeTitle	Good Morning Althea
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	5.49
 animeUsers	647
 animeRank	
-animePopularity	
-animeDescription	"b""The story revolves around Nikolai, apparently a part-cyborg; Galory, a young boy who apparently is part human/part Crest person, and Althea, who is entirely a Crest person. Seems the Earth and the Crest people were at war for 300 years so there's still a lot of bad feelings present. \n\nThe ship Galory, Nikolai and others are on is ambushed and almost everyone killed by some kind of automated attack ships from a huge Crest ship that has been taken over by an automaton. \n\nGalory, Nikolai and Althea go to the ship to try and see if there are any survivors of an advanced party from Galory's ship that can be saved, and to see if they can destroy the Type 38 automaton in the ship's core. \n\n(Source: AniDB)"""
+animePopularity	9947
+animeDescription	"The story revolves around Nikolai, apparently a part-cyborg; Galory, a young boy who apparently is part human/part Crest person, and Althea, who is entirely a Crest person. Seems the Earth and the Crest people were at war for 300 years so there's still a lot of bad feelings present. 
+
+The ship Galory, Nikolai and others are on is ambushed and almost everyone killed by some kind of automated attack ships from a huge Crest ship that has been taken over by an automaton. 
+
+Galory, Nikolai and Althea go to the ship to try and see if there are any survivors of an advanced party from Galory's ship that can be saved, and to see if they can destroy the Type 38 automaton in the ship's core. 
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Althea', b'Cherrowick, Galory', b'Nikolai']
-animeVoices	[b'\nArakawa, Minako\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTonokatsu, Hideki\n\nDirector\n\n', b'\nAsamiya, Kia\n\nCharacter Design\n\n', b'\nItou, Takehiko\n\nOriginal Creator\n\n', b'\nIijima, Yukiko\n\nArt Director\n\n']
+animeCharacters	['Althea', 'Cherrowick, Galory', 'Nikolai']
+animeVoices	['Arakawa, Minako', 'Horikawa, Ryo', 'Genda, Tesshou']
+animeStaff	[['Tonokatsu, Hideki', 'Director'], ['Asamiya, Kia', 'Character Design'], ['Itou, Takehiko', 'Original Creator'], ['Iijima, Yukiko', 'Art Director']]

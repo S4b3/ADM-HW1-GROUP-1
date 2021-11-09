@@ -1,5 +1,5 @@
-animeTitle	b'Tatakae!! Ramenman'
-animeType	b'TV'
+animeTitle	Tatakae!! Ramenman
+animeType	TV
 animeNumEpisode	35
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.3
 animeUsers	222
 animeRank	
-animePopularity	
-animeDescription	b'Set in a land where several martial arts styles collide, including (but not limited to) Chinese Kung Fu, Japanese Karate, and South Korean Taekwondo. Yet amongst these Shaolin-trained fighters and men powerful enough to cut the face of a mountain, Victory Ramenman is said to be the strongest of them all. At a young age, he witnessed his father Somenman being murdered by members of the Cobra Gang (who are still running rampant to this day). Found and taken in by the wise old Chen Sou-Mei, Ramenman trains for 12 years under his master and learns the great Essential Battle Dragon (\xe9\x97\x98\xe9\xbe\x8d\xe6\xa5\xb5\xe6\x84\x8f\xe6\x9b\xb8, To Ryuu Gokui Sho) style of Choujin Martial arts. Now, with his young sidekick Shao-Mai, Ramenman travels the land seeking vengeance for his father, fighting several villains along the way.\n\n(Source: Wikipedia)'
-animeRelated	[b'Tatakae!! Ramenman', b'Kinnikuman', b'Tatakae!! Ramenman (Movie)']
-animeCharacters	[b'Ramenman, Victory', b'Shumai', b'Dokuroken Gadam', b'Ryuuseiken Hogan', b'Quan-cao', b'Mercury Charsiuman', b'Mapo', b'Lu Laobing', b'Takenoko', b'Somenman']
-animeVoices	[b'\nMori, Katsuji\nJapanese\n', b'\nMatsushima, Minori\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nAkimoto, Yousuke\nJapanese\n', b'\nHashi, Takaya\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n', b'\nEmori, Hiroko\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nOgawa, Shinji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamayoshi, Yasuo\n\nEpisode Director\n\n', b'\nShirato, Takeshi\n\nEpisode Director\n\n', b'\nSasaki, Katsutoshi\n\nEpisode Director\n\n', b'\nTerada, Kenji\n\nScript\n\n']
+animePopularity	10738
+animeDescription	"Set in a land where several martial arts styles collide, including (but not limited to) Chinese Kung Fu, Japanese Karate, and South Korean Taekwondo. Yet amongst these Shaolin-trained fighters and men powerful enough to cut the face of a mountain, Victory Ramenman is said to be the strongest of them all. At a young age, he witnessed his father Somenman being murdered by members of the Cobra Gang (who are still running rampant to this day). Found and taken in by the wise old Chen Sou-Mei, Ramenman trains for 12 years under his master and learns the great Essential Battle Dragon (闘龍極意書, To Ryuu Gokui Sho) style of Choujin Martial arts. Now, with his young sidekick Shao-Mai, Ramenman travels the land seeking vengeance for his father, fighting several villains along the way.
+
+(Source: Wikipedia)"
+animeRelated	['Tatakae!! Ramenman', 'Kinnikuman', 'Tatakae!! Ramenman (Movie)']
+animeCharacters	['Ramenman, Victory', 'Shumai', 'Dokuroken Gadam', 'Ryuuseiken Hogan', 'Quan-cao', 'Mercury Charsiuman', 'Mapo', 'Lu Laobing', 'Takenoko', 'Somenman']
+animeVoices	['Mori, Katsuji', 'Matsushima, Minori', 'Yara, Yuusaku', 'Ginga, Banjou', 'Akimoto, Yousuke', 'Hashi, Takaya', 'Sugiyama, Kazuko', 'Emori, Hiroko', 'Tomizawa, Michie', 'Ogawa, Shinji']
+animeStaff	[['Yamayoshi, Yasuo', 'Episode Director'], ['Shirato, Takeshi', 'Episode Director'], ['Sasaki, Katsutoshi', 'Episode Director'], ['Terada, Kenji', 'Script']]

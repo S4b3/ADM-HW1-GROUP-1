@@ -1,5 +1,5 @@
-animeTitle	b'Plawres Sanshirou'
-animeType	b'TV'
+animeTitle	Plawres Sanshirou
+animeType	TV
 animeNumEpisode	37
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.36
 animeUsers	1017
 animeRank	
-animePopularity	
-animeDescription	b'Plawres is a wrestling game that the players make their robots, which are about 30 cm tall, fight in the ring. The main character, Sugata Sanshiro, is a plawres player. Using his plawrestler, Juohmaru, he beats strong rivals.\n\n(Source: ANN)'
+animePopularity	8197
+animeDescription	"Plawres is a wrestling game that the players make their robots, which are about 30 cm tall, fight in the ring. The main character, Sugata Sanshiro, is a plawres player. Using his plawrestler, Juohmaru, he beats strong rivals.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Sugata, Sanshirou', b'Fubuki, Kyouko', b'Misty, Sheila', b'Sugata, Kaoru', b'Murao, Shinji', b'Hasegawa, Tetsuya', b'Sasamoto, Satoru', b'Narita, Shinogu', b'Sugata, Machiko', b'Sugata, Kennosuke']
-animeVoices	[b'\nMajima, Satomi\nJapanese\n', b'\nAndou, Arisa\nJapanese\n', b'\nInoue, You\nJapanese\n', b'\nInose, Akiko\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nMori, Katsuji\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nHonda, Chieko\nJapanese\n', b'\nShibata, Hidekatsu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector, Episode Director, Storyboard\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b'\nFujikawa, Keisuke\n\nScript, Screenplay, Series Composition\n\n', b'\nTerada, Kenji\n\nScript\n\n']
+animeCharacters	['Sugata, Sanshirou', 'Fubuki, Kyouko', 'Misty, Sheila', 'Sugata, Kaoru', 'Murao, Shinji', 'Hasegawa, Tetsuya', 'Sasamoto, Satoru', 'Narita, Shinogu', 'Sugata, Machiko', 'Sugata, Kennosuke']
+animeVoices	['Majima, Satomi', 'Andou, Arisa', 'Inoue, You', 'Inose, Akiko', 'Shiozawa, Kaneto', 'Tatsuta, Naoki', 'Mori, Katsuji', 'Furuya, Toru', 'Honda, Chieko', 'Shibata, Hidekatsu']
+animeStaff	[['Yuyama, Kunihiko', 'Director, Episode Director, Storyboard'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Fujikawa, Keisuke', 'Script, Screenplay, Series Composition'], ['Terada, Kenji', 'Script']]

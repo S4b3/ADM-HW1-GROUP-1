@@ -1,5 +1,5 @@
-animeTitle	b'Karrimor Mountain Club'
-animeType	b'ONA'
+animeTitle	Karrimor Mountain Club
+animeType	ONA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A series of animated commercials produced by Karrimor Japan to promote their Mountain Club line of hiking rucksacks and explain their various features.'
-animeRelated	[b'Karrimor Mountain Club 2']
-animeCharacters	[b'Camilo', b'Dr. Bird']
-animeVoices	[b'\nShingaki, Tarusuke\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKatayama, Takuto\n\nKey Animation, Character Design\n\n']
+animePopularity	15726
+animeDescription	A series of animated commercials produced by Karrimor Japan to promote their Mountain Club line of hiking rucksacks and explain their various features.
+animeRelated	['Karrimor Mountain Club 2']
+animeCharacters	['Camilo', 'Dr. Bird']
+animeVoices	['Shingaki, Tarusuke', 'Ootsuka, Akio']
+animeStaff	[['Katayama, Takuto', 'Key Animation, Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Berserk: Ougon Jidai-hen II - Doldrey Kouryaku'
-animeType	b'Movie'
+animeTitle	Berserk: Ougon Jidai-hen II - Doldrey Kouryaku
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.89
 animeUsers	111526
 animeRank	
-animePopularity	
-animeDescription	"b""The Band of the Hawk and their enigmatic leader Griffith continue winning battle after battle as their prestige throughout the kingdom of Midland grows. But their latest task is one that has seen failure from everyone who has attempted it: the subjugation of the impenetrable fortress of Doldrey. \n\nBut with members like Guts\xe2\x80\x94the captain of the Hawks' raiders who can easily fell 100 men with his gigantic sword\xe2\x80\x94such tasks prove to be trivial. However, in the aftermath of the battle, Guts decides to leave the Hawks in order to pursue his own dream and bids farewell to his companions, despite Griffith's attempts to make him stay. This single event causes Griffith to lose his composure, and leads him to make a decision that will alter his and the Hawks' fates forever.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Berserk', b'Berserk: Ougon Jidai-hen I - Haou no Tamago', b'Berserk: Ougon Jidai-hen III - Kourin']
-animeCharacters	[b'Guts', b'Griffith', b'Casca', b'The Skull Knight', b'Judeau', b'Puck', b'Serpico', b'de Vandimion, Farnese', b'Rickert', b'Pippin']
-animeVoices	[b'\nIwanaga, Hiroaki\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nYukinari, Toa\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nKotobuki, Minako\nJapanese\n', b'\nFujiwara, Takahiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKubooka, Toshiyuki\n\nDirector, Storyboard\n\n', b'\nHori, Motonobu\n\nStoryboard\n\n', b'\nIwataki, Satoshi\n\nStoryboard, Key Animation, Animation Director\n\n', b'\nKanai, Jirou\n\nStoryboard, Animation Director, Key Animation\n\n']
+animePopularity	1022
+animeDescription	"The Band of the Hawk and their enigmatic leader Griffith continue winning battle after battle as their prestige throughout the kingdom of Midland grows. But their latest task is one that has seen failure from everyone who has attempted it: the subjugation of the impenetrable fortress of Doldrey. 
+
+But with members like Guts—the captain of the Hawks' raiders who can easily fell 100 men with his gigantic sword—such tasks prove to be trivial. However, in the aftermath of the battle, Guts decides to leave the Hawks in order to pursue his own dream and bids farewell to his companions, despite Griffith's attempts to make him stay. This single event causes Griffith to lose his composure, and leads him to make a decision that will alter his and the Hawks' fates forever.
+
+[Written by MAL Rewrite]"
+animeRelated	['Berserk', 'Berserk: Ougon Jidai-hen I - Haou no Tamago', 'Berserk: Ougon Jidai-hen III - Kourin']
+animeCharacters	['Guts', 'Griffith', 'Casca', 'The Skull Knight', 'Judeau', 'Puck', 'Serpico', 'de Vandimion, Farnese', 'Rickert', 'Pippin']
+animeVoices	['Iwanaga, Hiroaki', 'Sakurai, Takahiro', 'Yukinari, Toa', 'Kaji, Yuki', 'Kotobuki, Minako', 'Fujiwara, Takahiro']
+animeStaff	[['Kubooka, Toshiyuki', 'Director, Storyboard'], ['Hori, Motonobu', 'Storyboard'], ['Iwataki, Satoshi', 'Storyboard, Key Animation, Animation Director'], ['Kanai, Jirou', 'Storyboard, Animation Director, Key Animation']]

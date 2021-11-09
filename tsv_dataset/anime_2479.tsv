@@ -1,5 +1,5 @@
-animeTitle	b'Mainichi Kaasan'
-animeType	b'TV'
+animeTitle	Mainichi Kaasan
+animeType	TV
 animeNumEpisode	142
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.29
 animeUsers	558
 animeRank	
-animePopularity	
-animeDescription	"b""Based on Rieko Saibara's humorous semi-autobiographical manga about her life raising her two children."""
+animePopularity	8585
+animeDescription	Based on Rieko Saibara's humorous semi-autobiographical manga about her life raising her two children.
 animeRelated	[]
-animeCharacters	[b'Kamohara, Jou', b'Kamohara, Rieko', b'Kamohara, Bunji', b'Kamohara, Fumi', b'Early Education, The Spirit of']
-animeVoices	[b'\nHiromasa, Taguchi\nJapanese\n', b'\nMori, Kumiko\nJapanese\n', b'\nSonozaki, Mie\nJapanese\n', b'\nFujii, Yuna\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHongou, Mitsuru\n\nDirector\n\n', b'\nMatsuoka, Hiroki\n\nSound Director\n\n', b'\nKasai, Kenichi\n\nEpisode Director\n\n', b'\nMori, Chiyoko\n\nTheme Song Lyrics\n\n']
+animeCharacters	['Kamohara, Jou', 'Kamohara, Rieko', 'Kamohara, Bunji', 'Kamohara, Fumi', 'Early Education, The Spirit of']
+animeVoices	['Hiromasa, Taguchi', 'Mori, Kumiko', 'Sonozaki, Mie', 'Fujii, Yuna']
+animeStaff	[['Hongou, Mitsuru', 'Director'], ['Matsuoka, Hiroki', 'Sound Director'], ['Kasai, Kenichi', 'Episode Director'], ['Mori, Chiyoko', 'Theme Song Lyrics']]

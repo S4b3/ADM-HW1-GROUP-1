@@ -1,5 +1,5 @@
-animeTitle	b'Kyou kara Maou! R'
-animeType	b'OVA'
+animeTitle	Kyou kara Maou! R
+animeType	OVA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.44
 animeUsers	9581
 animeRank	
-animePopularity	
-animeDescription	"b'Life has returned to some form of normalcy after the end of the series, and so His Majesty Yuuri Shibuya travels to oversee how things are going. While doing so, he runs into the king of Small Shimeron--Sararegi. But it seems there may be something more to him than the friendly king he presents himself as. Yuuri go back to Shimaron to relax and meet some friends, when the ""king"" of Little Shimaron suddenly joins the group and wants the Maou to come to his country. The Original king sends a message to Yuuri\'s brother and his friend that Yuuri is in trouble.\n\n(Source: ANN)'"
-animeRelated	[b'Ma Series', b'Kyou kara Maou!', b'Kyou kara Maou! 3rd Series']
-animeCharacters	[b'von Bielefeld, Wolfram', b'Shibuya, Yuuri', b'Weller, Conrad', b'von Christ, G\xc3\xbcnter', b'von Voltaire, Gwendal', b'Murata, Ken', b'Saralegui', b'von Spitzberg, Cecilie', b'Gurrier, Josak', b'Shinou']
-animeVoices	[b'\nSaiga, Mitsuki\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nTakeda, Masanori\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishimura, Junji\n\nDirector\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n', b'\nMatsumoto, Temari\n\nOriginal Character Design\n\n', b'\nTakabayashi, Tomo\n\nOriginal Creator\n\n']
+animePopularity	3858
+animeDescription	"Life has returned to some form of normalcy after the end of the series, and so His Majesty Yuuri Shibuya travels to oversee how things are going. While doing so, he runs into the king of Small Shimeron--Sararegi. But it seems there may be something more to him than the friendly king he presents himself as. Yuuri go back to Shimaron to relax and meet some friends, when the ""king"" of Little Shimaron suddenly joins the group and wants the Maou to come to his country. The Original king sends a message to Yuuri's brother and his friend that Yuuri is in trouble.
+
+(Source: ANN)"
+animeRelated	['Ma Series', 'Kyou kara Maou!', 'Kyou kara Maou! 3rd Series']
+animeCharacters	['von Bielefeld, Wolfram', 'Shibuya, Yuuri', 'Weller, Conrad', 'von Christ, Günter', 'von Voltaire, Gwendal', 'Murata, Ken', 'Saralegui', 'von Spitzberg, Cecilie', 'Gurrier, Josak', 'Shinou']
+animeVoices	['Saiga, Mitsuki', 'Sakurai, Takahiro', 'Morikawa, Toshiyuki', 'Inoue, Kazuhiko', 'Ootsuka, Akio', 'Miyata, Kouki', 'Ishida, Akira', 'Katsuki, Masako', 'Takeda, Masanori', 'Miki, Shinichiro']
+animeStaff	[['Nishimura, Junji', 'Director'], ['Takadera, Takeshi', 'Sound Director'], ['Matsumoto, Temari', 'Original Character Design'], ['Takabayashi, Tomo', 'Original Creator']]

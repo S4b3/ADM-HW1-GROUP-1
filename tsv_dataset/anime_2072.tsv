@@ -1,5 +1,5 @@
-animeTitle	b's.CRY.ed'
-animeType	b'TV'
+animeTitle	s.CRY.ed
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.37
 animeUsers	34729
 animeRank	
-animePopularity	
-animeDescription	b'A strange environmental phenomenon 22 years ago in the Kanazawa prefecture caused the land to split and protrude upwards reaching unprecedented heights, creating the secluded area known as The Lost Ground. Kazuma is a young mercenary who lives in the Lost Ground, looking for any work he can find to sustain his livelihood within the harsh environment. He is one of the few people that are gifted with the Alter ability, which allows him to plaster his right arm and torso with a metallic alloy. When this mercenary encounters HOLY, an order whose purpose is to suppress and capture what they call Native Alter Users, and one of the elite members of HOLY, Ryuho, an epic rivalry begins.\n\n(Source: ANN)'
-animeRelated	[b's.CRY.ed', b's.CRY.ed After', b's.CRY.ed Alteration I: Tao', b's.CRY.ed Alteration II: Quan']
-animeCharacters	[b'Kazuma', b'Ryu, Ryuhou', b'Yuta, Kanami', b'Kiryu, Mimori', b'Cougar, Straight', b'Adjani, Scheris', b'Tachibana, Asuka', b'Kimishima, Kunihiko', b'Biff', b'Zigmar, Elian']
-animeVoices	[b'\nHoshi, Souichirou\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nNagashima, Yuuko\nJapanese\n', b'\nTsukui, Kyousei\nJapanese\n', b'\nKurata, Masayo\nJapanese\n', b'\nIwanaga, Tetsuya\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n', b'\nShimada, Bin\nJapanese\n', b'\nInoue, Takayuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKouchiyama, Takashi\n\nProducer\n\n', b'\nTaniguchi, Gorou\n\nDirector, Storyboard\n\n', b'\nKujou, Rion\n\nDirector, Storyboard\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n']
+animePopularity	1946
+animeDescription	"A strange environmental phenomenon 22 years ago in the Kanazawa prefecture caused the land to split and protrude upwards reaching unprecedented heights, creating the secluded area known as The Lost Ground. Kazuma is a young mercenary who lives in the Lost Ground, looking for any work he can find to sustain his livelihood within the harsh environment. He is one of the few people that are gifted with the Alter ability, which allows him to plaster his right arm and torso with a metallic alloy. When this mercenary encounters HOLY, an order whose purpose is to suppress and capture what they call Native Alter Users, and one of the elite members of HOLY, Ryuho, an epic rivalry begins.
+
+(Source: ANN)"
+animeRelated	['s.CRY.ed', 's.CRY.ed After', 's.CRY.ed Alteration I: Tao', 's.CRY.ed Alteration II: Quan']
+animeCharacters	['Kazuma', 'Ryu, Ryuhou', 'Yuta, Kanami', 'Kiryu, Mimori', 'Cougar, Straight', 'Adjani, Scheris', 'Tachibana, Asuka', 'Kimishima, Kunihiko', 'Biff', 'Zigmar, Elian']
+animeVoices	['Hoshi, Souichirou', 'Midorikawa, Hikaru', 'Tamura, Yukari', 'Nagashima, Yuuko', 'Tsukui, Kyousei', 'Kurata, Masayo', 'Iwanaga, Tetsuya', 'Yamazaki, Takumi', 'Shimada, Bin', 'Inoue, Takayuki']
+animeStaff	[['Kouchiyama, Takashi', 'Producer'], ['Taniguchi, Gorou', 'Director, Storyboard'], ['Kujou, Rion', 'Director, Storyboard'], ['Urakami, Yasuo', 'Sound Director']]

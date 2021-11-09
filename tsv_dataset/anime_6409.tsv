@@ -1,5 +1,5 @@
-animeTitle	b'Cross Fight B-Daman'
-animeType	b'TV'
+animeTitle	Cross Fight B-Daman
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.45
 animeUsers	3338
 animeRank	
-animePopularity	
-animeDescription	"b'A rumor has spread amongst the children worldwide regarding the popular B-Daman matches: A select group will be allowed to participate in an upcoming secret competition, known as ""Cross Fight""! \n\n(Source: translated and adapted from official site by Cranston) '"
-animeRelated	[b'Cross Fight B-Daman', b'Bakukyuu Hit! Crash B-Daman', b'Cross Fight B-Daman eS']
-animeCharacters	[b'Ryugasaki, Kakeru', b'Shirogane, Subaru', b'Samejima, Kaito', b'Dravise', b'Dracyan', b'Tsukiwa, Goichiro', b'Katsumiya, Shumon', b'Washimura, Yukihide', b'Homura, Naoya', b'Inaba, Natsumi']
-animeVoices	[b'\nOohara, Momoko\nJapanese\n', b'\nKokuryu, Sachi\nJapanese\n', b'\nTakahashi, Meguru\nJapanese\n', b'\nTakeuchi, Ryouta\nJapanese\n', b'\nItou, Kentarou\nJapanese\n', b'\nSuyama, Akio\nJapanese\n', b'\nAizawa, Mai\nJapanese\n', b'\nOkamoto, Hiroshi\nJapanese\n', b'\nSuzuki, Chihiro\nJapanese\n', b'\nTakamoto, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOdaka, Yoshinori\n\nDirector\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n', b'\nIwata, Kazuya\n\nEpisode Director\n\n', b'\nInotsume, Shinichi\n\nScript, Series Composition\n\n']
+animePopularity	6305
+animeDescription	"A rumor has spread amongst the children worldwide regarding the popular B-Daman matches: A select group will be allowed to participate in an upcoming secret competition, known as ""Cross Fight""! 
+
+(Source: translated and adapted from official site by Cranston) "
+animeRelated	['Cross Fight B-Daman', 'Bakukyuu Hit! Crash B-Daman', 'Cross Fight B-Daman eS']
+animeCharacters	['Ryugasaki, Kakeru', 'Shirogane, Subaru', 'Samejima, Kaito', 'Dravise', 'Dracyan', 'Tsukiwa, Goichiro', 'Katsumiya, Shumon', 'Washimura, Yukihide', 'Homura, Naoya', 'Inaba, Natsumi']
+animeVoices	['Oohara, Momoko', 'Kokuryu, Sachi', 'Takahashi, Meguru', 'Takeuchi, Ryouta', 'Itou, Kentarou', 'Suyama, Akio', 'Aizawa, Mai', 'Okamoto, Hiroshi', 'Suzuki, Chihiro', 'Takamoto, Megumi']
+animeStaff	[['Odaka, Yoshinori', 'Director'], ['Takadera, Takeshi', 'Sound Director'], ['Iwata, Kazuya', 'Episode Director'], ['Inotsume, Shinichi', 'Script, Series Composition']]

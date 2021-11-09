@@ -1,5 +1,5 @@
-animeTitle	b'Gibiate'
-animeType	b'TV'
+animeTitle	Gibiate
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	3.81
 animeUsers	13934
 animeRank	
-animePopularity	
-animeDescription	"b'The story takes place in Japan. The year is 2030 and Earth has been completely overrun by a viral disease named ""Gibia"" that turns infected people into various different monsters, based on their age, sex, and race.\n\nA samurai and a ninja from the early Edo period travel together through time and arrive in a ruined Japan to aid a professor working on a cure for the virus.\n\nTogether, they fight countless Gibia monsters, outlaws, and other fierce foes on their journey to save mankind.'"
+animePopularity	2273
+animeDescription	"The story takes place in Japan. The year is 2030 and Earth has been completely overrun by a viral disease named ""Gibia"" that turns infected people into various different monsters, based on their age, sex, and race.
+
+A samurai and a ninja from the early Edo period travel together through time and arrive in a ruined Japan to aid a professor working on a cure for the virus.
+
+Together, they fight countless Gibia monsters, outlaws, and other fierce foes on their journey to save mankind."
 animeRelated	[]
-animeCharacters	[b'Kanzaki, Sensui', b'Funada, Kathleen', b'Onikura, Yukinojou', b'Sanada, Kenroku', b'Dr. Yoshinaga', b'Sakuma, Hidenori', b'Soshigaya, Guren', b'Hatonami, Ayame', b'Funada, Yurika', b'Mikimoto, Isao']
-animeVoices	[b'\nKakihara, Tetsuya\nJapanese\n', b'\nFujii, Yukiyo\nJapanese\n', b'\nHazama, Michio\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n', b'\nIkeda, Shuuichi\nJapanese\n', b'\nOchiai, Fukushi\nJapanese\n', b'\nGouda, Hozumi\nJapanese\n', b'\nNanami, Hiroki\nJapanese\n', b'\nItou, Emi\nJapanese\n', b'\nSakimoto, Hiromi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAoki, Ryo\n\nProducer\n\n', b'\nKomino, Masahiko\n\nDirector\n\n', b'\nYoshida Brothers\n\nTheme Song Performance\n\n', b'\nOhguro, Maki\n\nTheme Song Performance\n\n']
+animeCharacters	['Kanzaki, Sensui', 'Funada, Kathleen', 'Onikura, Yukinojou', 'Sanada, Kenroku', 'Dr. Yoshinaga', 'Sakuma, Hidenori', 'Soshigaya, Guren', 'Hatonami, Ayame', 'Funada, Yurika', 'Mikimoto, Isao']
+animeVoices	['Kakihara, Tetsuya', 'Fujii, Yukiyo', 'Hazama, Michio', 'Touchi, Hiroki', 'Ikeda, Shuuichi', 'Ochiai, Fukushi', 'Gouda, Hozumi', 'Nanami, Hiroki', 'Itou, Emi', 'Sakimoto, Hiromi']
+animeStaff	[['Aoki, Ryo', 'Producer'], ['Komino, Masahiko', 'Director'], ['Yoshida Brothers', 'Theme Song Performance'], ['Ohguro, Maki', 'Theme Song Performance']]

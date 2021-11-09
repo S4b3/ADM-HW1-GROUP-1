@@ -1,5 +1,5 @@
-animeTitle	b'Trouble Chocolate'
-animeType	b'TV'
+animeTitle	Trouble Chocolate
+animeType	TV
 animeNumEpisode	20
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.53
 animeUsers	1593
 animeRank	
-animePopularity	
-animeDescription	"b""Cacao, a student at Micro Grand Academy, wakes up one morning to find a girl made of wood sleeping in bed with him. She is Hinano, a tree spirit who possessed the body of a wooden puppet after Cacao messed up his magic teacher's spell. Having taken an instant liking to Cacao, Hinano enrolls in his school. Between Hinano, monsters, two strange twins and their four-eyed cat master, a demon boy, odd teachers and students, and the fact that he may have the potential to be one of the greatest magic users of all time, Cacao's life seems to have taken several turns for the worse...and the weird. \n\n(Source: ANN)"""
-animeRelated	[b'Trouble Chocolate: The Comic']
-animeCharacters	[b'Melhei ne-Wienan, Hinano Ish-Finelle', b'Cacao', b'Truffle', b'Papaya', b'Ham-Ham', b'Almond', b'Sardine', b'Bang, Big', b'Mint', b'Deborah']
-animeVoices	[b'\nTange, Sakura\nJapanese\n', b'\nYanagi, Naoki\nJapanese\n', b'\nKase, Yasuyuki\nJapanese\n', b'\nNakahara, Shigeru\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nHonda, Takako\nJapanese\n', b'\nUgaki, Hidenari\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nHikami, Kyouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKondou, Hikaru\n\nProducer\n\n', b'\nTominaga, Tsuneo\n\nDirector\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nOoba, Hideaki\n\nEpisode Director\n\n']
+animePopularity	7081
+animeDescription	"Cacao, a student at Micro Grand Academy, wakes up one morning to find a girl made of wood sleeping in bed with him. She is Hinano, a tree spirit who possessed the body of a wooden puppet after Cacao messed up his magic teacher's spell. Having taken an instant liking to Cacao, Hinano enrolls in his school. Between Hinano, monsters, two strange twins and their four-eyed cat master, a demon boy, odd teachers and students, and the fact that he may have the potential to be one of the greatest magic users of all time, Cacao's life seems to have taken several turns for the worse...and the weird. 
+
+(Source: ANN)"
+animeRelated	['Trouble Chocolate: The Comic']
+animeCharacters	['Melhei ne-Wienan, Hinano Ish-Finelle', 'Cacao', 'Truffle', 'Papaya', 'Ham-Ham', 'Almond', 'Sardine', 'Bang, Big', 'Mint', 'Deborah']
+animeVoices	['Tange, Sakura', 'Yanagi, Naoki', 'Kase, Yasuyuki', 'Nakahara, Shigeru', 'Ueda, Yuuji', 'Ootani, Ikue', 'Honda, Takako', 'Ugaki, Hidenari', 'Horie, Yui', 'Hikami, Kyouko']
+animeStaff	[['Kondou, Hikaru', 'Producer'], ['Tominaga, Tsuneo', 'Director'], ['Kikuta, Hiromi', 'Sound Director'], ['Ooba, Hideaki', 'Episode Director']]

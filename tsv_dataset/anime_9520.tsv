@@ -1,5 +1,5 @@
-animeTitle	b'Mahou Shoujo Taisen'
-animeType	b'TV'
+animeTitle	Mahou Shoujo Taisen
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.76
 animeUsers	4839
 animeRank	
-animePopularity	
-animeDescription	"b'""Mahou Shoujo Taisen"" is a project created from a variety show for the Otaku ""2.5 Chigen TV"" (2.5 Dimension TV). The characters are the mahou shoujo that represent each local town in Japan. The characters that won from the second illustration competitions that were held on pixiv will appear in the anime.\n\n(Source: MAL News)'"
+animePopularity	4413
+animeDescription	"""Mahou Shoujo Taisen"" is a project created from a variety show for the Otaku ""2.5 Chigen TV"" (2.5 Dimension TV). The characters are the mahou shoujo that represent each local town in Japan. The characters that won from the second illustration competitions that were held on pixiv will appear in the anime.
+
+(Source: MAL News)"
 animeRelated	[]
-animeCharacters	[b'Kobari, Rin', b'Ariake, Renka', b'Sengen, Matsuri', b'Konoe, Mebuki', b'Kamiki, Rinka', b'Aoba, Naruko', b'Inuwashi, Yuri']
-animeVoices	[b'\nMurakawa, Rie\nJapanese\n', b'\nTerasaki, Yuka\nJapanese\n', b'\nNanjou, Yoshino\nJapanese\n', b'\nKoiwai, Kotori\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nArakawa, Miho\nJapanese\n', b'\nShintani, Ryouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoizumi, Kisuke\n\nSound Director\n\n', b'\nHyoudou, Kazuho\n\nScript\n\n', b'\nkz\n\nTheme Song Arrangement, Theme Song Lyrics, Theme Song Composition\n\n', b'\nYano, Anna\n\nTheme Song Performance\n\n']
+animeCharacters	['Kobari, Rin', 'Ariake, Renka', 'Sengen, Matsuri', 'Konoe, Mebuki', 'Kamiki, Rinka', 'Aoba, Naruko', 'Inuwashi, Yuri']
+animeVoices	['Murakawa, Rie', 'Terasaki, Yuka', 'Nanjou, Yoshino', 'Koiwai, Kotori', 'Komatsu, Mikako', 'Arakawa, Miho', 'Shintani, Ryouko']
+animeStaff	[['Koizumi, Kisuke', 'Sound Director'], ['Hyoudou, Kazuho', 'Script'], ['kz', 'Theme Song Arrangement, Theme Song Lyrics, Theme Song Composition'], ['Yano, Anna', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Rainbow Sentai Robin'
-animeType	b'TV'
+animeTitle	Rainbow Sentai Robin
+animeType	TV
 animeNumEpisode	48
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.02
 animeUsers	110
 animeRank	
-animePopularity	
-animeDescription	b'A squadron of robots defends the planet against alien invaders. \n\n(Source: AniDB)'
+animePopularity	12166
+animeDescription	"A squadron of robots defends the planet against alien invaders. 
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Bell', b'Wolf']
-animeVoices	[b'\nNakamura, Keiko\nJapanese\n', b'\nSakurai, Eiichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHattori, Kouichi\n\nTheme Song Composition, Theme Song Arrangement, Music\n\n', b'\nMiyazaki, Hayao\n\nKey Animation\n\n', b'\nIshinomori, Shoutarou\n\nOriginal Creator\n\n', b'\nIoka, Masahiro\n\nBackground Art\n\n']
+animeCharacters	['Bell', 'Wolf']
+animeVoices	['Nakamura, Keiko', 'Sakurai, Eiichi']
+animeStaff	[['Hattori, Kouichi', 'Theme Song Composition, Theme Song Arrangement, Music'], ['Miyazaki, Hayao', 'Key Animation'], ['Ishinomori, Shoutarou', 'Original Creator'], ['Ioka, Masahiro', 'Background Art']]

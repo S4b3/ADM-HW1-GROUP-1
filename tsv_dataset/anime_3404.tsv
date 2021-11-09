@@ -1,5 +1,5 @@
-animeTitle	b'Giniro no Kami no Agito'
-animeType	b'Movie'
+animeTitle	Giniro no Kami no Agito
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.09
 animeUsers	33281
 animeRank	
-animePopularity	
-animeDescription	"b""Three hundred years ago, a genetic experiment gone wrong caused the mutation of all forests on Earth. Armed with consciousness, the vegetation sought to destroy all of humankind, and the war that ensued turned the planet into a hellish dystopia.\n\nIn the present day, Agito, a young boy, lives with his father in Neutral City\xe2\x80\x94a village maintaining an uneasy truce with the neighboring forest. One day, Agito, on his way to collect water, becomes separated from his friend and stumbles upon a relic of the past: a girl sleeping in a mysterious machine.\n\nAgito awakens the girl, Toola Cm Sacl, and introduces her to the village. But outside forces have ulterior motives for the girl, who holds the key to restore the Earth. Misguided by Shunack, a soldier from the old world hellbent on destroying the forest, Toola follows him despite Agito's warning. Determined to save Toola and unify humankind with the forest, Agito borrows the power of the forest and pursues her.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Giniro no Kami no Agito Pilot']
-animeCharacters	[b'Agito', b'Cm Sacl, Toola', b'Shunack', b'Hajan', b'Agashi', b'Minka', b'Cain', b'Yolda', b'Agohige', b'Kuchihige']
-animeVoices	[b'\nKatsuji, Ryou\nJapanese\n', b'\nMiyazaki, Aoi\nJapanese\n', b'\nEndou, Kenichi\nJapanese\n', b'\nFukawa, Toshikazu\nJapanese\n', b'\nOosugi, Ren\nJapanese\n', b'\nMinami, Omi\nJapanese\n', b'\nHamaguchi, Masaru\nJapanese\n', b'\nKotegawa, Yuuko\nJapanese\n', b'\nHouki, Katsuhisa\nJapanese\n', b'\nKoyama, Takehiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugiyama, Keiichi\n\nDirector, Storyboard\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n', b'\nShimizu, Kenichi\n\nEpisode Director\n\n', b'\nSuzuki, Kaoru\n\nEpisode Director\n\n']
+animePopularity	2124
+animeDescription	"Three hundred years ago, a genetic experiment gone wrong caused the mutation of all forests on Earth. Armed with consciousness, the vegetation sought to destroy all of humankind, and the war that ensued turned the planet into a hellish dystopia.
+
+In the present day, Agito, a young boy, lives with his father in Neutral City—a village maintaining an uneasy truce with the neighboring forest. One day, Agito, on his way to collect water, becomes separated from his friend and stumbles upon a relic of the past: a girl sleeping in a mysterious machine.
+
+Agito awakens the girl, Toola Cm Sacl, and introduces her to the village. But outside forces have ulterior motives for the girl, who holds the key to restore the Earth. Misguided by Shunack, a soldier from the old world hellbent on destroying the forest, Toola follows him despite Agito's warning. Determined to save Toola and unify humankind with the forest, Agito borrows the power of the forest and pursues her.
+
+[Written by MAL Rewrite]"
+animeRelated	['Giniro no Kami no Agito Pilot']
+animeCharacters	['Agito', 'Cm Sacl, Toola', 'Shunack', 'Hajan', 'Agashi', 'Minka', 'Cain', 'Yolda', 'Agohige', 'Kuchihige']
+animeVoices	['Katsuji, Ryou', 'Miyazaki, Aoi', 'Endou, Kenichi', 'Fukawa, Toshikazu', 'Oosugi, Ren', 'Minami, Omi', 'Hamaguchi, Masaru', 'Kotegawa, Yuuko', 'Houki, Katsuhisa', 'Koyama, Takehiro']
+animeStaff	[['Sugiyama, Keiichi', 'Director, Storyboard'], ['Wakabayashi, Kazuhiro', 'Sound Director'], ['Shimizu, Kenichi', 'Episode Director'], ['Suzuki, Kaoru', 'Episode Director']]

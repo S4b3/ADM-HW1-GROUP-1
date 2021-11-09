@@ -1,5 +1,5 @@
-animeTitle	b'Naniwa Kinyuu Den: Minami no Teiou'
-animeType	b'OVA'
+animeTitle	Naniwa Kinyuu Den: Minami no Teiou
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""The story centers around Ginjirou Manda, a loan shark who charges toichi \xe2\x80\x94 10% more interest every 10 days, or 365% every year. Thanks to his unrelenting money-collecting tactics, he is feared as Minami no Oni or the Demon of Osaka's Minami business district.\n\n(Source: ANN)"""
-animeRelated	[b'Minami no Teiou']
-animeCharacters	[b'Manda, Ginjirou', b'Hongou', b'Yanagida', b'Makiko', b'Oden-Shop Keeper', b'Jouji', b'Kobun', b'Kyosan', b'Hyoudou', b'Shuuzou']
-animeVoices	[b'\nYasuhara, Yoshito\nJapanese\n', b'\nSenda, Mitsuo\nJapanese\n', b'\nKitamura, Kouichi\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n', b'\nSugawara, Junichi\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nYanada, Kiyoyuki\nJapanese\n', b'\nIizuka, Shouzou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujimoto, Yoshitaka\n\nDirector\n\n', b'\nOoshiro, Tsutomu\n\nKey Animation\n\n', b'\nWatanabe, Mayumi\n\nCharacter Design\n\n', b'\nTennouji, Dai\n\nOriginal Creator\n\n']
+animePopularity	14593
+animeDescription	"The story centers around Ginjirou Manda, a loan shark who charges toichi — 10% more interest every 10 days, or 365% every year. Thanks to his unrelenting money-collecting tactics, he is feared as Minami no Oni or the Demon of Osaka's Minami business district.
+
+(Source: ANN)"
+animeRelated	['Minami no Teiou']
+animeCharacters	['Manda, Ginjirou', 'Hongou', 'Yanagida', 'Makiko', 'Oden-Shop Keeper', 'Jouji', 'Kobun', 'Kyosan', 'Hyoudou', 'Shuuzou']
+animeVoices	['Yasuhara, Yoshito', 'Senda, Mitsuo', 'Kitamura, Kouichi', 'Sakakibara, Yoshiko', 'Sugawara, Junichi', 'Ootsuka, Houchuu', 'Ishida, Akira', 'Gouri, Daisuke', 'Yanada, Kiyoyuki', 'Iizuka, Shouzou']
+animeStaff	[['Fujimoto, Yoshitaka', 'Director'], ['Ooshiro, Tsutomu', 'Key Animation'], ['Watanabe, Mayumi', 'Character Design'], ['Tennouji, Dai', 'Original Creator']]

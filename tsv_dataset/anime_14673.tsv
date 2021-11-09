@@ -1,5 +1,5 @@
-animeTitle	b'Zoids Wild Senki'
-animeType	b'ONA'
+animeTitle	Zoids Wild Senki
+animeType	ONA
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Battle CG anime based on the Zoids Wild franchise.\n\n(Source: ANN)'
-animeRelated	[b'Zoids Wild', b'Zoids Wild Zero']
+animePopularity	14165
+animeDescription	"Battle CG anime based on the Zoids Wild franchise.
+
+(Source: ANN)"
+animeRelated	['Zoids Wild', 'Zoids Wild Zero']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

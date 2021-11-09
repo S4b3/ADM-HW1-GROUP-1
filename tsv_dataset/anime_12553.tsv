@@ -1,5 +1,5 @@
-animeTitle	b'Omakase Scrappers'
-animeType	b'TV'
+animeTitle	Omakase Scrappers
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Adventures of the Scrappers Rescue Team.'
+animePopularity	14851
+animeDescription	Adventures of the Scrappers Rescue Team.
 animeRelated	[]
-animeCharacters	[b'Chuuta, Chuusuke']
+animeCharacters	['Chuuta, Chuusuke']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOoba, Hideaki\n\nDirector, Episode Director, Script, Storyboard\n\n', b'\nWatanabe, Shinichi\n\nEpisode Director\n\n', b'\nOkuda, Seiji\n\nEpisode Director\n\n', b'\nYoshimura, Fumihiro\n\nEpisode Director, Storyboard\n\n']
+animeStaff	[['Ooba, Hideaki', 'Director, Episode Director, Script, Storyboard'], ['Watanabe, Shinichi', 'Episode Director'], ['Okuda, Seiji', 'Episode Director'], ['Yoshimura, Fumihiro', 'Episode Director, Storyboard']]

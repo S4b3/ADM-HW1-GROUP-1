@@ -1,5 +1,5 @@
-animeTitle	b'Vinland Saga Season 2'
-animeType	b'TV'
+animeTitle	Vinland Saga Season 2
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Second season of Vinland Saga.'
-animeRelated	[b'Vinland Saga']
-animeCharacters	[b'Thorfinn']
+animePopularity	2600
+animeDescription	Second season of Vinland Saga.
+animeRelated	['Vinland Saga']
+animeCharacters	['Thorfinn']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYabuta, Shuuhei\n\nDirector\n\n', b'\nYukimura, Makoto\n\nOriginal Creator\n\n', b'\nAbiru, Takahiko\n\nCharacter Design\n\n']
+animeStaff	[['Yabuta, Shuuhei', 'Director'], ['Yukimura, Makoto', 'Original Creator'], ['Abiru, Takahiko', 'Character Design']]

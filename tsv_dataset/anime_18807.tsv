@@ -1,5 +1,5 @@
-animeTitle	b'Injuu Seisen XX'
-animeType	b'OVA'
+animeTitle	Injuu Seisen XX
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.5
 animeUsers	292
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Injuu Seisen: Twin Angels']
-animeCharacters	[b'Amatsu, Ai', b'Amatsu, Mai']
+animePopularity	10901
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Injuu Seisen: Twin Angels']
+animeCharacters	['Amatsu, Ai', 'Amatsu, Mai']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nRinshin\n\nCharacter Design\n\n', b'\nOoshiro, Tsutomu\n\nKey Animation\n\n']
+animeStaff	[['Rinshin', 'Character Design'], ['Ooshiro, Tsutomu', 'Key Animation']]

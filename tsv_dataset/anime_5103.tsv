@@ -1,5 +1,5 @@
-animeTitle	b'Nobunaga no Shinobi: Nobunaga to Minarai Shinobi'
-animeType	b'Special'
+animeTitle	Nobunaga no Shinobi: Nobunaga to Minarai Shinobi
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.7
 animeUsers	2284
 animeRank	
-animePopularity	
-animeDescription	"b""Oda Nobunaga saves a girl from drowning one day. She clumsily tells him that she's a shinobi. Instead of attempting to kill him, she swears to serve him one day after hearing his plans to unify Japan.\n\n(Source: Crunchyroll)"""
-animeRelated	[b'Nobunaga no Shinobi']
-animeCharacters	[b'Chidori', b'Oda, Nobunaga', b'Narration']
-animeVoices	[b'\nMinase, Inori\nJapanese\n', b'\nHatano, Wataru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasuda, Toshio\n\nMusic\n\n', b'\nShigeno, Naoki\n\nOriginal Creator\n\n']
+animePopularity	7544
+animeDescription	"Oda Nobunaga saves a girl from drowning one day. She clumsily tells him that she's a shinobi. Instead of attempting to kill him, she swears to serve him one day after hearing his plans to unify Japan.
+
+(Source: Crunchyroll)"
+animeRelated	['Nobunaga no Shinobi']
+animeCharacters	['Chidori', 'Oda, Nobunaga', 'Narration']
+animeVoices	['Minase, Inori', 'Hatano, Wataru']
+animeStaff	[['Masuda, Toshio', 'Music'], ['Shigeno, Naoki', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Grander Musashi RV'
-animeType	b'TV'
+animeTitle	Grander Musashi RV
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.02
 animeUsers	835
 animeRank	
-animePopularity	
-animeDescription	"b'Sequel to Grander Musashi. A young but experienced fisherman named Musashi Kazama and his two friends travel around the world in search of seven mysterious objects of fantastic power called ""Legenders"", each one in the form of a fish. Legenders are said to grant anyone who catches them the power to change the world. Unfortunately, Musashi ends up competing with several other fishermen who share his ambition of capturing a Legender. \n\n(Source: ANN)'"
-animeRelated	[b'Super Fishing Grander Musashi']
-animeCharacters	[b'Kazama, Musashi']
+animePopularity	9334
+animeDescription	"Sequel to Grander Musashi. A young but experienced fisherman named Musashi Kazama and his two friends travel around the world in search of seven mysterious objects of fantastic power called ""Legenders"", each one in the form of a fish. Legenders are said to grant anyone who catches them the power to change the world. Unfortunately, Musashi ends up competing with several other fishermen who share his ambition of capturing a Legender. 
+
+(Source: ANN)"
+animeRelated	['Super Fishing Grander Musashi']
+animeCharacters	['Kazama, Musashi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoshi, Shigeo\n\nStoryboard\n\n', b'\nTsuda, Yoshizou\n\nStoryboard\n\n', b'\nHosoda, Masahiro\n\nStoryboard\n\n', b'\nWatanabe, Cheru\n\nTheme Song Arrangement\n\n']
+animeStaff	[['Koshi, Shigeo', 'Storyboard'], ['Tsuda, Yoshizou', 'Storyboard'], ['Hosoda, Masahiro', 'Storyboard'], ['Watanabe, Cheru', 'Theme Song Arrangement']]

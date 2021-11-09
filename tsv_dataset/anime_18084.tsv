@@ -1,5 +1,5 @@
-animeTitle	b'Harukoi Otome'
-animeType	b'OVA'
+animeTitle	Harukoi Otome
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.54
 animeUsers	1925
 animeRank	
-animePopularity	
-animeDescription	b'Based on the eroge visual novel Harukoi Otome ~En de Gokigenyou~ by BaseSon.'
+animePopularity	6562
+animeDescription	Based on the eroge visual novel Harukoi Otome ~En de Gokigenyou~ by BaseSon.
 animeRelated	[]
-animeCharacters	[b'Hayasaka, Akihito', b'Hayasaka, Umi', b'Fuyurugi, Kisaya', b'Matsubara, Reika', b'Orito, Riru', b'Kusuhara, Ayaka', b'Kiryuu, Sonya', b'Serizawa, Yuika']
-animeVoices	[b'\nMizushima, Takahiro\nJapanese\n', b'\nSakakibara, Yui\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nHyo-sei\nJapanese\n', b'\nTomonaga, Akane\nJapanese\n', b'\nKurokawa, Nami\nJapanese\n', b'\nHinata, Yura\nJapanese\n', b'\nTaguchi, Hiroko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakagawa, Tatsuto\n\nSound Director\n\n', b'\nKawabata, Takashi\n\nEpisode Director\n\n', b'\nMakino, Yukihiro\n\nEpisode Director, Storyboard\n\n', b'\nRita\n\nTheme Song Performance\n\n']
+animeCharacters	['Hayasaka, Akihito', 'Hayasaka, Umi', 'Fuyurugi, Kisaya', 'Matsubara, Reika', 'Orito, Riru', 'Kusuhara, Ayaka', 'Kiryuu, Sonya', 'Serizawa, Yuika']
+animeVoices	['Mizushima, Takahiro', 'Sakakibara, Yui', 'Nabatame, Hitomi', 'Hyo-sei', 'Tomonaga, Akane', 'Kurokawa, Nami', 'Hinata, Yura', 'Taguchi, Hiroko']
+animeStaff	[['Nakagawa, Tatsuto', 'Sound Director'], ['Kawabata, Takashi', 'Episode Director'], ['Makino, Yukihiro', 'Episode Director, Storyboard'], ['Rita', 'Theme Song Performance']]

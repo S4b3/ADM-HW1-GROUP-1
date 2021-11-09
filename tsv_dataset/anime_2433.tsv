@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam SEED Special Edition'
-animeType	b'Special'
+animeTitle	Mobile Suit Gundam SEED Special Edition
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,19 @@ animeNumMembers
 animeScore	7.29
 animeUsers	4135
 animeRank	
-animePopularity	
-animeDescription	b'Three TV movies complied from Kidou Senshi Gundam SEED series.\n\n1. The Empty Battlefield (Kokuu no Senjou)\n2. The Far-Away Dawn (Harukanaru Akatsuki)\n3. The Rumbling Sky (Meidou no Sora)\n\nMuch like the Kidou Senshi Gundam theatrical movies, the Gundam Seed: Special Edition movies are intended to be an override of the story from the TV series.\n\nThese episodes are in fact a complete recap of all 50 episodes of the TV series and were first shown on television in Japan. The special edition episodes feature some new scenes and tweaks to previously animated scenes. The first special, The Empty Battlefield, which compiled episodes 1\xe2\x80\x9321 of the series, was aired in two parts on Japanese TV in March 2004, followed by the next special, The Far-Away Dawn, which was episodes 22\xe2\x80\x9340, in July 2004. The final special, The Rumbling Sky, which was episodes 41\xe2\x80\x9350. While the story is overall unchanged, there are a few minor changes. In addition, several scenes are re-animated and re-dubbed.\n\n(Source: Wikipedia)'
-animeRelated	[b'Mobile Suit Gundam SEED']
-animeCharacters	[b'Yamato, Kira', b'Clyne, Lacus', b'Zala, Athrun', b'Athha, Cagalli Yula', b'La Flaga, Mu', b'Haro', b'Le Creuset, Rau', b'Allster, Flay', b'Joule, Yzak', b'Ramius, Murrue']
-animeVoices	[b'\nHoshi, Souichirou\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nShindo, Naomi\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Hajime\n\nProducer\n\n', b'\nFukuda, Mitsuo\n\nDirector\n\n', b'\nSee-Saw\n\nTheme Song Performance\n\n', b'\nTomino, Yoshiyuki\n\nOriginal Creator\n\n']
+animePopularity	5349
+animeDescription	"Three TV movies complied from Kidou Senshi Gundam SEED series.
+
+1. The Empty Battlefield (Kokuu no Senjou)
+2. The Far-Away Dawn (Harukanaru Akatsuki)
+3. The Rumbling Sky (Meidou no Sora)
+
+Much like the Kidou Senshi Gundam theatrical movies, the Gundam Seed: Special Edition movies are intended to be an override of the story from the TV series.
+
+These episodes are in fact a complete recap of all 50 episodes of the TV series and were first shown on television in Japan. The special edition episodes feature some new scenes and tweaks to previously animated scenes. The first special, The Empty Battlefield, which compiled episodes 1–21 of the series, was aired in two parts on Japanese TV in March 2004, followed by the next special, The Far-Away Dawn, which was episodes 22–40, in July 2004. The final special, The Rumbling Sky, which was episodes 41–50. While the story is overall unchanged, there are a few minor changes. In addition, several scenes are re-animated and re-dubbed.
+
+(Source: Wikipedia)"
+animeRelated	['Mobile Suit Gundam SEED']
+animeCharacters	['Yamato, Kira', 'Clyne, Lacus', 'Zala, Athrun', 'Athha, Cagalli Yula', 'La Flaga, Mu', 'Haro', 'Le Creuset, Rau', 'Allster, Flay', 'Joule, Yzak', 'Ramius, Murrue']
+animeVoices	['Hoshi, Souichirou', 'Tanaka, Rie', 'Ishida, Akira', 'Shindo, Naomi', 'Koyasu, Takehito', 'Seki, Toshihiko', 'Kuwashima, Houko', 'Seki, Tomokazu', 'Mitsuishi, Kotono']
+animeStaff	[['Yatate, Hajime', 'Producer'], ['Fukuda, Mitsuo', 'Director'], ['See-Saw', 'Theme Song Performance'], ['Tomino, Yoshiyuki', 'Original Creator']]

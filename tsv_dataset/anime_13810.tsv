@@ -1,5 +1,5 @@
-animeTitle	b'The Peak'
-animeType	b'ONA'
+animeTitle	The Peak
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""THE PEAK is Marza Animation Planet's second short film created entirely using the Unity game engine.\n\nIn the sequel to the short film THE GIFT, Sarah goes off on another adventure with her new pal, Steven. This is story based on familiar childhood memories of being scared to go to the bathroom in the middle of the night. Sarah has to venture through mysterious woods as she avoids various obstacles such as dancing toys and flood waters. Can she and Steven make it to the bathroom before she has an accident?\n\n(Source: YouTube)"""
-animeRelated	[b'The Gift']
+animePopularity	17336
+animeDescription	"THE PEAK is Marza Animation Planet's second short film created entirely using the Unity game engine.
+
+In the sequel to the short film THE GIFT, Sarah goes off on another adventure with her new pal, Steven. This is story based on familiar childhood memories of being scared to go to the bathroom in the middle of the night. Sarah has to venture through mysterious woods as she avoids various obstacles such as dancing toys and flood waters. Can she and Steven make it to the bathroom before she has an accident?
+
+(Source: YouTube)"
+animeRelated	['The Gift']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

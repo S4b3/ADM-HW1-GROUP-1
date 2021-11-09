@@ -1,5 +1,5 @@
-animeTitle	b'Elfen Lied'
-animeType	b'TV'
+animeTitle	Elfen Lied
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.52
 animeUsers	759880
 animeRank	
-animePopularity	
-animeDescription	"b'Lucy is a special breed of human referred to as ""Diclonius,"" born with a short pair of horns and invisible telekinetic hands that lands her as a victim of inhumane scientific experimentation by the government. However, once circumstances present her an opportunity to escape, Lucy, corrupted by the confinement and torture, unleashes a torrent of bloodshed as she escapes her captors.\n\nDuring her breakout, she receives a crippling head injury that leaves her with a split personality: someone with the mentality of a harmless child possessing limited speech capacity. In this state of instability, she stumbles upon two college students, Kouta and his cousin Yuka, who unknowingly take an injured fugitive into their care, unaware of her murderous tendencies. This act of kindness will change their lives, as they soon find themselves dragged into the shadowy world of government secrecy and conspiracy.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Elfen Lied', b'Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer']
-animeCharacters	[b'Lucy', b'Nana', b'Kouta', b'Mayu', b'Yuka', b'Kurama, Mariko', b'Bando', b'Kurama', b'Number 3', b'Kanae']
-animeVoices	[b'\nKobayashi, Sanae\nJapanese\n', b'\nMatsuoka, Yuki\nJapanese\n', b'\nSuzuki, Chihiro\nJapanese\n', b'\nHagiwara, Emiko\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nHosoi, Osamu\nJapanese\n', b'\nTakahashi, Mikako\nJapanese\n', b'\nYamamoto, Maria\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTamura, Manabu\n\nProducer\n\n', b'\nKanbe, Mamoru\n\nDirector, Episode Director, Storyboard\n\n', b'\nShimizu, Katsunori\n\nSound Director\n\n', b'\nSadohara, Takeyuki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	58
+animeDescription	"Lucy is a special breed of human referred to as ""Diclonius,"" born with a short pair of horns and invisible telekinetic hands that lands her as a victim of inhumane scientific experimentation by the government. However, once circumstances present her an opportunity to escape, Lucy, corrupted by the confinement and torture, unleashes a torrent of bloodshed as she escapes her captors.
+
+During her breakout, she receives a crippling head injury that leaves her with a split personality: someone with the mentality of a harmless child possessing limited speech capacity. In this state of instability, she stumbles upon two college students, Kouta and his cousin Yuka, who unknowingly take an injured fugitive into their care, unaware of her murderous tendencies. This act of kindness will change their lives, as they soon find themselves dragged into the shadowy world of government secrecy and conspiracy.
+
+[Written by MAL Rewrite]"
+animeRelated	['Elfen Lied', 'Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer']
+animeCharacters	['Lucy', 'Nana', 'Kouta', 'Mayu', 'Yuka', 'Kurama, Mariko', 'Bando', 'Kurama', 'Number 3', 'Kanae']
+animeVoices	['Kobayashi, Sanae', 'Matsuoka, Yuki', 'Suzuki, Chihiro', 'Hagiwara, Emiko', 'Noto, Mamiko', 'Kawakami, Tomoko', 'Nakata, Jouji', 'Hosoi, Osamu', 'Takahashi, Mikako', 'Yamamoto, Maria']
+animeStaff	[['Tamura, Manabu', 'Producer'], ['Kanbe, Mamoru', 'Director, Episode Director, Storyboard'], ['Shimizu, Katsunori', 'Sound Director'], ['Sadohara, Takeyuki', 'Episode Director, Storyboard']]

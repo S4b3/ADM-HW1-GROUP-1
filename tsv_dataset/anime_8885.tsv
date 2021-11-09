@@ -1,5 +1,5 @@
-animeTitle	b'Giant Robo'
-animeType	b'Special'
+animeTitle	Giant Robo
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.94
 animeUsers	210
 animeRank	
-animePopularity	
-animeDescription	b'The pilot for GR: Giant Robo. However, there were significant changes between the pilot and the actual show, including a different writer and a different director. Thus, the special is less a promo for the series than an alternate version of how the series might have looked.\n\n(Source: Orphan)'
-animeRelated	[b'GR: Giant Robo']
+animePopularity	11673
+animeDescription	"The pilot for GR: Giant Robo. However, there were significant changes between the pilot and the actual show, including a different writer and a different director. Thus, the special is less a promo for the series than an alternate version of how the series might have looked.
+
+(Source: Orphan)"
+animeRelated	['GR: Giant Robo']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

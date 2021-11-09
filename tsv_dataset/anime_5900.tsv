@@ -1,5 +1,5 @@
-animeTitle	b'Baby Baachan'
-animeType	b'TV'
+animeTitle	Baby Baachan
+animeType	TV
 animeNumEpisode	53
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.54
 animeUsers	208
 animeRank	
-animePopularity	
-animeDescription	"b""Amika is a elementary school student who dreams of becoming an idol. Her grandmother is a harsh yet wealthy woman who lives on a remote island that she owns. When her grandmother passed away, Amika's life begins to appear subtle changes. Not long after the passing of her grandmother, Amika's mother gave birth to a baby girl. Ironically, Amika's little sister looks and behaves exactly like her grandmother.\n\n(Source: ANN)"""
+animePopularity	11816
+animeDescription	"Amika is a elementary school student who dreams of becoming an idol. Her grandmother is a harsh yet wealthy woman who lives on a remote island that she owns. When her grandmother passed away, Amika's life begins to appear subtle changes. Not long after the passing of her grandmother, Amika's mother gave birth to a baby girl. Ironically, Amika's little sister looks and behaves exactly like her grandmother.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Jinguuji, Koume', b'Jinguuji, Ume', b'Jinguuji, Amika', b'Takahashi, Minatsu', b'Hamasaki, Junya', b'Hazama, Aki', b'Jinguuji, Atsuko', b'Jinguuji, Eiki']
-animeVoices	[b'\nYamamoto, Keiko\nJapanese\n', b'\nFujino, Honoka\nJapanese\n', b'\nOkajima, Tae\nJapanese\n', b'\nSuganuma, Hisayoshi\nJapanese\n', b'\nHikida, Yukari\nJapanese\n', b'\nSumitomo, Nanae\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujino, Honoka\n\nTheme Song Performance\n\n']
+animeCharacters	['Jinguuji, Koume', 'Jinguuji, Ume', 'Jinguuji, Amika', 'Takahashi, Minatsu', 'Hamasaki, Junya', 'Hazama, Aki', 'Jinguuji, Atsuko', 'Jinguuji, Eiki']
+animeVoices	['Yamamoto, Keiko', 'Fujino, Honoka', 'Okajima, Tae', 'Suganuma, Hisayoshi', 'Hikida, Yukari', 'Sumitomo, Nanae', 'Kamiya, Hiroshi']
+animeStaff	[['Fujino, Honoka', 'Theme Song Performance']]

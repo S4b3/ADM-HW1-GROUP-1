@@ -1,5 +1,5 @@
-animeTitle	b'Breakers'
-animeType	b'TV'
+animeTitle	Breakers
+animeType	TV
 animeNumEpisode	16
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.35
 animeUsers	2298
 animeRank	
-animePopularity	
-animeDescription	b'The anime will center on para-athletes who all meet an outcast sports scientist named Ren Narita. The anime will have four stories about four different sports: wheelchair basketball, track and high jump, goalball, and paralympic swimming.\n\n(Source: ANN)'
+animePopularity	5488
+animeDescription	"The anime will center on para-athletes who all meet an outcast sports scientist named Ren Narita. The anime will have four stories about four different sports: wheelchair basketball, track and high jump, goalball, and paralympic swimming.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Tama', b'Narita, Ren', b'Kai', b'Hayato', b'Narita, Shin', b'Narita, Ken', b'Itou', b'Narrator', b'Coach', b'Youko']
-animeVoices	[b'\nTamagawa, Sakiko\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nOkada, Yui\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nOkano, Yuu\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nMiyagi, Kazuki\nJapanese\n', b'\nHori, Soushirou\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHakamada, Etsuko\n\nProducer\n\n', b'\nInagaki, Ryousuke\n\nProducer\n\n', b'\nNishikawa, Masataka\n\nDirector\n\n', b'\nKumamoto, Hiromu\n\nScript\n\n']
+animeCharacters	['Tama', 'Narita, Ren', 'Kai', 'Hayato', 'Narita, Shin', 'Narita, Ken', 'Itou', 'Narrator', 'Coach', 'Youko']
+animeVoices	['Tamagawa, Sakiko', 'Miki, Shinichiro', 'Okada, Yui', 'Fukuyama, Jun', 'Okano, Yuu', 'Miyake, Kenta', 'Miyagi, Kazuki', 'Hori, Soushirou', 'Yuzuki, Ryouka']
+animeStaff	[['Hakamada, Etsuko', 'Producer'], ['Inagaki, Ryousuke', 'Producer'], ['Nishikawa, Masataka', 'Director'], ['Kumamoto, Hiromu', 'Script']]

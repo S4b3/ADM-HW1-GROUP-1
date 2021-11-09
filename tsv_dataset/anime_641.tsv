@@ -1,5 +1,5 @@
-animeTitle	b'Bishoujo Senshi Sailor Moon: Sailor Stars'
-animeType	b'TV'
+animeTitle	Bishoujo Senshi Sailor Moon: Sailor Stars
+animeType	TV
 animeNumEpisode	34
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.93
 animeUsers	48270
 animeRank	
-animePopularity	
-animeDescription	"b""Like the R Season, Sailor Stars is divided into two arcs:\n\nThe first arc (also filler) solves some conflicts from the SuperS season, and also sees the return of the Outer Senshi, Haruka, Michiru, Setsuna, and Hotaru (now reborn as a child).\n\nThe second arc is the actual plot from the manga. Usagi bids farewell to Mamoru, who is going to America to study abroad. In his place comes the Three Lights, an idol trio consisting of three boys, Seiya, Taiki, and Yaten. The new enemy is Galaxia, a woman who desires to rule the entire galaxy by collecting the Star Seeds of humans. Three new Senshi appear, the Sailor Starlights, who also intend to stop Galaxia without Sailor Moon's help."""
-animeRelated	[b'Bishoujo Senshi Sailor Moon', b'Bishoujo Senshi Sailor Moon SuperS', b'Bishoujo Senshi Sailor Moon Memorial', b'Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club']
-animeCharacters	[b'Tsukino, Usagi', b'Hino, Rei', b'Tomoe, Hotaru', b'Kino, Makoto', b'Aino, Minako', b'Tenou, Haruka', b'Mizuno, Ami', b'Kaiou, Michiru', b'Meiou, Setsuna', b'Seiya, Kou']
-animeVoices	[b'\nMitsuishi, Kotono\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nFukami, Rica\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nKawashima, Chiyoko\nJapanese\n', b'\nNiiyama, Shiho\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Akira\n\nProducer\n\n', b'\nIgarashi, Takuya\n\nDirector, Episode Director\n\n', b'\nEndou, Yuuji\n\nSound Director, Episode Director, Storyboard\n\n', b'\nShibata, Hiroki\n\nSound Director, Episode Director, Storyboard\n\n']
+animePopularity	1678
+animeDescription	"Like the R Season, Sailor Stars is divided into two arcs:
+
+The first arc (also filler) solves some conflicts from the SuperS season, and also sees the return of the Outer Senshi, Haruka, Michiru, Setsuna, and Hotaru (now reborn as a child).
+
+The second arc is the actual plot from the manga. Usagi bids farewell to Mamoru, who is going to America to study abroad. In his place comes the Three Lights, an idol trio consisting of three boys, Seiya, Taiki, and Yaten. The new enemy is Galaxia, a woman who desires to rule the entire galaxy by collecting the Star Seeds of humans. Three new Senshi appear, the Sailor Starlights, who also intend to stop Galaxia without Sailor Moon's help."
+animeRelated	['Bishoujo Senshi Sailor Moon', 'Bishoujo Senshi Sailor Moon SuperS', 'Bishoujo Senshi Sailor Moon Memorial', 'Bishoujo Senshi Sailor Moon: Sailor Stars - Hero Club']
+animeCharacters	['Tsukino, Usagi', 'Hino, Rei', 'Tomoe, Hotaru', 'Kino, Makoto', 'Aino, Minako', 'Tenou, Haruka', 'Mizuno, Ami', 'Kaiou, Michiru', 'Meiou, Setsuna', 'Seiya, Kou']
+animeVoices	['Mitsuishi, Kotono', 'Tomizawa, Michie', 'Minaguchi, Yuko', 'Shinohara, Emi', 'Fukami, Rica', 'Ogata, Megumi', 'Hisakawa, Aya', 'Katsuki, Masako', 'Kawashima, Chiyoko', 'Niiyama, Shiho']
+animeStaff	[['Takahashi, Akira', 'Producer'], ['Igarashi, Takuya', 'Director, Episode Director'], ['Endou, Yuuji', 'Sound Director, Episode Director, Storyboard'], ['Shibata, Hiroki', 'Sound Director, Episode Director, Storyboard']]

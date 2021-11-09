@@ -1,5 +1,5 @@
-animeTitle	b'Lovely Movie: Itoshi no Muco'
-animeType	b'TV'
+animeTitle	Lovely Movie: Itoshi no Muco
+animeType	TV
 animeNumEpisode	20
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.39
 animeUsers	249
 animeRank	
-animePopularity	
-animeDescription	b'The happy daily life of Muco, a not-too-bright Akita dog, and its owner Komatsu-san the glass-blower.\n\n(Source: MU)'
-animeRelated	[b'Itoshi no Muco', b'Lovely Movie: Itoshi no Muco Specials', b'Lovely Movie: Itoshi no Muco Season 2']
-animeCharacters	[b'Muco', b'Komatsu, Seiji', b'Shinohara', b'Bouda, Rena', b'Bouda', b'Ushijima, Kouhei']
-animeVoices	[b'\nYoshida, Hitomi\nJapanese\n', b'\nTanioka, Shinichi\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nKurata, Taisei\nJapanese\n', b'\nSano, Mizuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMihara, Takenori\n\nDirector\n\n', b'\nTaniguchi, Junichirou\n\nCharacter Design\n\n', b'\nMizushina, Takayuki\n\nOriginal Creator\n\n']
+animePopularity	10580
+animeDescription	"The happy daily life of Muco, a not-too-bright Akita dog, and its owner Komatsu-san the glass-blower.
+
+(Source: MU)"
+animeRelated	['Itoshi no Muco', 'Lovely Movie: Itoshi no Muco Specials', 'Lovely Movie: Itoshi no Muco Season 2']
+animeCharacters	['Muco', 'Komatsu, Seiji', 'Shinohara', 'Bouda, Rena', 'Bouda', 'Ushijima, Kouhei']
+animeVoices	['Yoshida, Hitomi', 'Tanioka, Shinichi', 'Nazuka, Kaori', 'Uesaka, Sumire', 'Kurata, Taisei', 'Sano, Mizuki']
+animeStaff	[['Mihara, Takenori', 'Director'], ['Taniguchi, Junichirou', 'Character Design'], ['Mizushina, Takayuki', 'Original Creator']]

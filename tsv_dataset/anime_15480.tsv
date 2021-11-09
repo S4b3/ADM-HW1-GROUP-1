@@ -1,5 +1,5 @@
-animeTitle	b'Doubutsu Kankyou Kaigi'
-animeType	b'TV'
+animeTitle	Doubutsu Kankyou Kaigi
+animeType	TV
 animeNumEpisode	20
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
+animePopularity	14032
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
 animeRelated	[]
-animeCharacters	[b'Jean the Chicken']
-animeVoices	[b'\nSasaki, Nozomu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHigashi, Junichi\n\nArt Director\n\n', b'\nTetsuhito, Saito\n\nCharacter Design\n\n']
+animeCharacters	['Jean the Chicken']
+animeVoices	['Sasaki, Nozomu']
+animeStaff	[['Higashi, Junichi', 'Art Director'], ['Tetsuhito, Saito', 'Character Design']]

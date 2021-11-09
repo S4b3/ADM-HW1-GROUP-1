@@ -1,5 +1,5 @@
-animeTitle	b'Majokko Megu-chan'
-animeType	b'TV'
+animeTitle	Majokko Megu-chan
+animeType	TV
 animeNumEpisode	72
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.65
 animeUsers	553
 animeRank	
-animePopularity	
-animeDescription	"b""Megu is sent to Earth in her early teens, she is adopted by Mammi Kanzaki, a former witch who gave up her royal ambitions to wed a mortal. Mammi bewitches her husband and their two children, Rabi and Apo, into believing that Megu has always been the eldest child of the family. Under Mammi's tutelage, Megu learns to control both her abilities and impulses in order to prove her worthiness for the crown. This Rite-of-Passage subtext is continued throughout the series.\n\n(Source: ANN)"""
+animePopularity	8680
+animeDescription	"Megu is sent to Earth in her early teens, she is adopted by Mammi Kanzaki, a former witch who gave up her royal ambitions to wed a mortal. Mammi bewitches her husband and their two children, Rabi and Apo, into believing that Megu has always been the eldest child of the family. Under Mammi's tutelage, Megu learns to control both her abilities and impulses in order to prove her worthiness for the crown. This Rite-of-Passage subtext is continued throughout the series.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Gou, Non', b'Kanzaki, Megu', b'Roko', b'Saturn', b'Kanzaki, Apo', b'Kanzaki, Mammi', b'Furu-Furu', b'Crow', b'Kanzaki, Rabi', b'Kanzaki, Papa']
-animeVoices	[b'\nTsukase, Noriko\nJapanese\n', b'\nYoshida, Rihoko\nJapanese\n', b'\nMaruyama, Hiroko\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nChijimatsu, Sachiko\nJapanese\n', b'\nYamaguchi, Nana\nJapanese\n', b'\nOotake, Hiroshi\nJapanese\n', b'\nYamamoto, Keiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishizawa, Nobutaka\n\nEpisode Director\n\n', b'\nOkazaki, Minoru\n\nEpisode Director\n\n', b'\nEndou, Yuuji\n\nEpisode Director\n\n', b'\nSakaguchi, Hisashi\n\nEpisode Director, Animation Director\n\n']
+animeCharacters	['Gou, Non', 'Kanzaki, Megu', 'Roko', 'Saturn', 'Kanzaki, Apo', 'Kanzaki, Mammi', 'Furu-Furu', 'Crow', 'Kanzaki, Rabi', 'Kanzaki, Papa']
+animeVoices	['Tsukase, Noriko', 'Yoshida, Rihoko', 'Maruyama, Hiroko', 'Nozawa, Masako', 'Chijimatsu, Sachiko', 'Yamaguchi, Nana', 'Ootake, Hiroshi', 'Yamamoto, Keiko']
+animeStaff	[['Nishizawa, Nobutaka', 'Episode Director'], ['Okazaki, Minoru', 'Episode Director'], ['Endou, Yuuji', 'Episode Director'], ['Sakaguchi, Hisashi', 'Episode Director, Animation Director']]

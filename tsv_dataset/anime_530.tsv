@@ -1,5 +1,5 @@
-animeTitle	b'Slayers Next'
-animeType	b'TV'
+animeTitle	Slayers Next
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.02
 animeUsers	33954
 animeRank	
-animePopularity	
-animeDescription	"b""In the kingdom of Xoana, Lina Inverse and Gourry Gabriev unexpectedly come across their old companions, Zelgadis Graywords and Princess Ameilia Wil Tesla Saillune. Upon their reunion, the friends end up easily foiling the King of Xoana and his daughter's dastardly plans of world conquest.\n\nSoon after, it is revealed that Zelgadis is in search of the world's most valuable magical tome, the Claire Bible, hoping to discover a method to recover his human body among the many secrets sheltered within it. Despite his protests, the rest of the group decides to join in the quest after hearing of his mission. However, just when they were wondering where to start looking for the legendary book, they stumble upon a mysterious priest by the name of Xellos, who claims that he may be of some help in their pursuit.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Slayers', b'Slayers Premium', b'Slayers Try', b'Otome no Inori']
-animeCharacters	[b'Inverse, Lina', b'Graywords, Zelgadis', b'Gabriev, Gourry', b'Saillune, Amelia Wil Tesla', b'Xellos', b'Nels Laada, Sylphiel', b'Lord of Nightmares', b'Phibrizo', b'Navratilova, Martina Zoana Mel', b'El Di Saillune, Philionel']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nSuzuki, Masami\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nIkura, Kazue\nJapanese\n', b'\nIshimura, Tomoko\nJapanese\n', b'\nAnzai, Masahiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Noriko\n\nProducer\n\n', b'\nMizushima, Seiji\n\nDirector\n\n', b'\nWatanabe, Takashi\n\nDirector\n\n', b'\nYoshida, Shunji\n\nDirector\n\n']
+animePopularity	2198
+animeDescription	"In the kingdom of Xoana, Lina Inverse and Gourry Gabriev unexpectedly come across their old companions, Zelgadis Graywords and Princess Ameilia Wil Tesla Saillune. Upon their reunion, the friends end up easily foiling the King of Xoana and his daughter's dastardly plans of world conquest.
+
+Soon after, it is revealed that Zelgadis is in search of the world's most valuable magical tome, the Claire Bible, hoping to discover a method to recover his human body among the many secrets sheltered within it. Despite his protests, the rest of the group decides to join in the quest after hearing of his mission. However, just when they were wondering where to start looking for the legendary book, they stumble upon a mysterious priest by the name of Xellos, who claims that he may be of some help in their pursuit.
+
+[Written by MAL Rewrite]"
+animeRelated	['Slayers', 'Slayers Premium', 'Slayers Try', 'Otome no Inori']
+animeCharacters	['Inverse, Lina', 'Graywords, Zelgadis', 'Gabriev, Gourry', 'Saillune, Amelia Wil Tesla', 'Xellos', 'Nels Laada, Sylphiel', 'Lord of Nightmares', 'Phibrizo', 'Navratilova, Martina Zoana Mel', 'El Di Saillune, Philionel']
+animeVoices	['Hayashibara, Megumi', 'Midorikawa, Hikaru', 'Matsumoto, Yasunori', 'Suzuki, Masami', 'Ishida, Akira', 'Touma, Yumi', 'Ikura, Kazue', 'Ishimura, Tomoko', 'Anzai, Masahiro']
+animeStaff	[['Kobayashi, Noriko', 'Producer'], ['Mizushima, Seiji', 'Director'], ['Watanabe, Takashi', 'Director'], ['Yoshida, Shunji', 'Director']]

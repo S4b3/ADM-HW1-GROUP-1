@@ -1,5 +1,5 @@
-animeTitle	b'Kyoto Animation: Megane-hen'
-animeType	b'Special'
+animeTitle	Kyoto Animation: Megane-hen
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.32
 animeUsers	5220
 animeRank	
-animePopularity	
-animeDescription	b'Kyoto Animation commercial for the light novel series Kyoukai no Kanata.'
-animeRelated	[b'Kyoto Animation: Ajisai-hen', b'Kyoto Animation: Hoshi-hen', b'Kyoto Animation: Hana-hen', b'Kyoto Animation: Sora-hen', b'Kyoto Animation: Ikitaku Naru Omise-hen', b'Kyoto Animation: Hassou-hen', b'Kyoto Animation: Kasa-hen', b'Kyoto Animation: Suiei-hen', b'Kyoto Animation: Meiji-hen', b'Kyoto Animation: Souzou-hen', b'Kyoukai no Kanata']
-animeCharacters	[b'Kuriyama, Mirai', b'Kanbara, Akihito', b'Nase, Hiroomi', b'Nase, Mitsuki']
+animePopularity	5033
+animeDescription	Kyoto Animation commercial for the light novel series Kyoukai no Kanata.
+animeRelated	['Kyoto Animation: Ajisai-hen', 'Kyoto Animation: Hoshi-hen', 'Kyoto Animation: Hana-hen', 'Kyoto Animation: Sora-hen', 'Kyoto Animation: Ikitaku Naru Omise-hen', 'Kyoto Animation: Hassou-hen', 'Kyoto Animation: Kasa-hen', 'Kyoto Animation: Suiei-hen', 'Kyoto Animation: Meiji-hen', 'Kyoto Animation: Souzou-hen', 'Kyoukai no Kanata']
+animeCharacters	['Kuriyama, Mirai', 'Kanbara, Akihito', 'Nase, Hiroomi', 'Nase, Mitsuki']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshidate, Taichi\n\nEpisode Director, Storyboard\n\n', b'\nKamoi, Tomoyo\n\nAnimation Director, Original Character Design, Character Design\n\n']
+animeStaff	[['Ishidate, Taichi', 'Episode Director, Storyboard'], ['Kamoi, Tomoyo', 'Animation Director, Original Character Design, Character Design']]

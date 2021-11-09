@@ -1,5 +1,5 @@
-animeTitle	b'Koori no Kuni no Misuke'
-animeType	b'Movie'
+animeTitle	Koori no Kuni no Misuke
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A puppy, Poko, jumps out of a refrigerator and takes a boy, Misuke, to an ice world full of adventure through the refrigerator. In the ice world, there is a girl called Nally who wants warm food. So they try to find some warm food for her, but everything freezes so quickly in the ice world...\n\nNote: Short animated piece designed to attract new students for Yamaha electric organ classes.\n\n(Source: tezukaosamu.net)'
+animePopularity	14478
+animeDescription	"A puppy, Poko, jumps out of a refrigerator and takes a boy, Misuke, to an ice world full of adventure through the refrigerator. In the ice world, there is a girl called Nally who wants warm food. So they try to find some warm food for her, but everything freezes so quickly in the ice world...
+
+Note: Short animated piece designed to attract new students for Yamaha electric organ classes.
+
+(Source: tezukaosamu.net)"
 animeRelated	[]
-animeCharacters	[b'Poko', b'Misuke']
+animeCharacters	['Poko', 'Misuke']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Osamu\n\nProducer, Storyboard, Planning\n\n', b'\nSugii, Gisaburou\n\nAnimation Director\n\n']
+animeStaff	[['Tezuka, Osamu', 'Producer, Storyboard, Planning'], ['Sugii, Gisaburou', 'Animation Director']]

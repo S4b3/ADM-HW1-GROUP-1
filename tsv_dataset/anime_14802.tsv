@@ -1,5 +1,5 @@
-animeTitle	b'Animal 1'
-animeType	b'TV'
+animeTitle	Animal 1
+animeType	TV
 animeNumEpisode	27
 releaseDate	
 endDate	
@@ -7,8 +7,10 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Ichirou Azuma, a young amateur wrestler, wants to participate in the Olympics Games in Mexico.\n\n(Source: ANN)'
+animePopularity	12856
+animeDescription	"Ichirou Azuma, a young amateur wrestler, wants to participate in the Olympics Games in Mexico.
+
+(Source: ANN)"
 animeRelated	[]
 animeCharacters	[]
 animeVoices	[]

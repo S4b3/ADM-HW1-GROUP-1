@@ -1,5 +1,5 @@
-animeTitle	b'Kyoushoku Soukou Guyver'
-animeType	b'Movie'
+animeTitle	Kyoushoku Soukou Guyver
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.24
 animeUsers	2487
 animeRank	
-animePopularity	
-animeDescription	"b'The plot of this OVA is a rough adaptation of the first four chapters of the Guyver manga. It covers the same basic elements of these chapters; Genesis of the guyver, Fight with Vamore, Fight with Guyver 2 and the introduction of Guyver 3. Main differences are the exclusion of Tetsuro and his replacement by Mizuki, The replacement of Lisker with a female Agent ""Valcuria"", and thus a female Guyver 2. There is also a look at Sho\'s psychology of how he deals with his situation including a very harsh moment where his friends are assassinated in cold blood.\n\nOne night, high school student Sho Fukamachi discovers a mysterious metal object. Then in a blinding flash of light, Sho finds that he has accidentally fused with the Guyver, a mecha of mysterious alien design.\n\nNow, to save his girlfriend, Mizuki Segawa, along with the entire world, Sho must become the Guyver to fight the Chronos Corporation and their biocreatures, called Zoanoids, who are hell-bent on world domination.\n\n(Source: Wikipedia)'"
-animeRelated	[b'Kyoushoku Soukou Guyver', b'Kyoushoku Soukou Guyver II', b'Kyoushoku Soukou Guyver (2005)', b'Kyoushoku Soukou Guyver (1989)']
-animeCharacters	[b'Fukamachi, Shou', b'Valcuria', b'Makishima, Agito', b'Truck driver', b'Segawa, Mizuki', b'Marmot', b'Makishima, Genzo', b'Chief Ishiwatari']
-animeVoices	[b'\nMizushima, Yuu\nJapanese\n', b'\nToda, Keiko\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nTanaka, Yasuo\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nKobayashi, Michitaka\nJapanese\n', b'\nHazumi, Jun\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nWatanabe, Hiroshi\n\nDirector, Key Animation\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b'\nWatanabe, Jun\n\nSound Effects\n\n']
+animePopularity	6653
+animeDescription	"The plot of this OVA is a rough adaptation of the first four chapters of the Guyver manga. It covers the same basic elements of these chapters; Genesis of the guyver, Fight with Vamore, Fight with Guyver 2 and the introduction of Guyver 3. Main differences are the exclusion of Tetsuro and his replacement by Mizuki, The replacement of Lisker with a female Agent ""Valcuria"", and thus a female Guyver 2. There is also a look at Sho's psychology of how he deals with his situation including a very harsh moment where his friends are assassinated in cold blood.
+
+One night, high school student Sho Fukamachi discovers a mysterious metal object. Then in a blinding flash of light, Sho finds that he has accidentally fused with the Guyver, a mecha of mysterious alien design.
+
+Now, to save his girlfriend, Mizuki Segawa, along with the entire world, Sho must become the Guyver to fight the Chronos Corporation and their biocreatures, called Zoanoids, who are hell-bent on world domination.
+
+(Source: Wikipedia)"
+animeRelated	['Kyoushoku Soukou Guyver', 'Kyoushoku Soukou Guyver II', 'Kyoushoku Soukou Guyver (2005)', 'Kyoushoku Soukou Guyver (1989)']
+animeCharacters	['Fukamachi, Shou', 'Valcuria', 'Makishima, Agito', 'Truck driver', 'Segawa, Mizuki', 'Marmot', 'Makishima, Genzo', 'Chief Ishiwatari']
+animeVoices	['Mizushima, Yuu', 'Toda, Keiko', 'Kosugi, Juurouta', 'Tanaka, Yasuo', 'Tomizawa, Michie', 'Kobayashi, Michitaka', 'Hazumi, Jun', 'Wakamoto, Norio']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Watanabe, Hiroshi', 'Director, Key Animation'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Watanabe, Jun', 'Sound Effects']]

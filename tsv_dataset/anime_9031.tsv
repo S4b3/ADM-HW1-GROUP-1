@@ -1,5 +1,5 @@
-animeTitle	b'Nanairo Kakumei'
-animeType	b'Special'
+animeTitle	Nanairo Kakumei
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.9
 animeUsers	557
 animeRank	
-animePopularity	
-animeDescription	b'Ever since primary school, Nana has never been able to refuse the wishes of her friend, Yuyu, even if they were unpleasant things like matching outfits and hairstyles... She wanted to change herself!\n\nA story about real friendship and sympathy.\n\n(Source: MU)'
-animeRelated	[b'Nana-iro Kakumei']
-animeCharacters	[b'Shioka, Nozomu', b'Kojima, Yuyu', b'Kuriyama, Nana']
-animeVoices	[b'\nYamashita, Daiki\nJapanese\n', b'\nIshigami, Shizuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuzuhara, Mizuka\n\nOriginal Creator\n\n']
+animePopularity	10509
+animeDescription	"Ever since primary school, Nana has never been able to refuse the wishes of her friend, Yuyu, even if they were unpleasant things like matching outfits and hairstyles... She wanted to change herself!
+
+A story about real friendship and sympathy.
+
+(Source: MU)"
+animeRelated	['Nana-iro Kakumei']
+animeCharacters	['Shioka, Nozomu', 'Kojima, Yuyu', 'Kuriyama, Nana']
+animeVoices	['Yamashita, Daiki', 'Ishigami, Shizuka']
+animeStaff	[['Yuzuhara, Mizuka', 'Original Creator']]

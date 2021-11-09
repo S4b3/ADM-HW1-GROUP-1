@@ -1,5 +1,5 @@
-animeTitle	b'One Piece Movie 5: Norowareta Seiken'
-animeType	b'Movie'
+animeTitle	One Piece Movie 5: Norowareta Seiken
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.18
 animeUsers	36738
 animeRank	
-animePopularity	
-animeDescription	b'Luffy and crew go to an island searching for a legendary sword, said to be the most expensive in the world. Soon attacking marines and beautiful maidens split the crew. Zoro betrays the crew to help an old friend, Luffy and Usopp wander through a cave, and the rest help a village fight marines. When Zoro defeats Sanji he takes the sacred pearls that are the only defense against the evil sword that will plunge the world into darkness. \n\n(Source: ANN)'
-animeRelated	[b'One Piece', b'One Piece: Mezase! Kaizoku Yakyuu Ou']
-animeCharacters	[b'Monkey D., Luffy', b'Roronoa, Zoro', b'Sanji', b'Nico, Robin', b'Tony Tony, Chopper', b'Usopp', b'Nami', b'Maya', b'Saga', b'Izaya']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nYamaguchi, Yuriko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n', b'\nNakamura, Shidou\nJapanese\n', b'\nHisamoto, Masami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakenouchi, Kazuhisa\n\nDirector\n\n', b'\nSuga, Yoshiyuki\n\nScript\n\n', b'\nOda, Eiichiro\n\nOriginal Creator\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n']
+animePopularity	2168
+animeDescription	"Luffy and crew go to an island searching for a legendary sword, said to be the most expensive in the world. Soon attacking marines and beautiful maidens split the crew. Zoro betrays the crew to help an old friend, Luffy and Usopp wander through a cave, and the rest help a village fight marines. When Zoro defeats Sanji he takes the sacred pearls that are the only defense against the evil sword that will plunge the world into darkness. 
+
+(Source: ANN)"
+animeRelated	['One Piece', 'One Piece: Mezase! Kaizoku Yakyuu Ou']
+animeCharacters	['Monkey D., Luffy', 'Roronoa, Zoro', 'Sanji', 'Nico, Robin', 'Tony Tony, Chopper', 'Usopp', 'Nami', 'Maya', 'Saga', 'Izaya']
+animeVoices	['Tanaka, Mayumi', 'Nakai, Kazuya', 'Hirata, Hiroaki', 'Yamaguchi, Yuriko', 'Ootani, Ikue', 'Yamaguchi, Kappei', 'Okamura, Akemi', 'Yuzuki, Ryouka', 'Nakamura, Shidou', 'Hisamoto, Masami']
+animeStaff	[['Takenouchi, Kazuhisa', 'Director'], ['Suga, Yoshiyuki', 'Script'], ['Oda, Eiichiro', 'Original Creator'], ['Tanaka, Kouhei', 'Music']]

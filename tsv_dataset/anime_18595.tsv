@@ -1,5 +1,5 @@
-animeTitle	b'Kyuuketsuki'
-animeType	b'OVA'
+animeTitle	Kyuuketsuki
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.87
 animeUsers	2514
 animeRank	
-animePopularity	
-animeDescription	"b""The vampire. A legendary creature that lives in the shadows and preys on humanity.\n\nOnohara Mikage is an unfortunate girl who sold herself to a clan of vampires to pay off her parents' debt. What has the clan head, Claude, prepared for her? Will she be able to pay herself off and obtain her freedom?"""
+animePopularity	5989
+animeDescription	"The vampire. A legendary creature that lives in the shadows and preys on humanity.
+
+Onohara Mikage is an unfortunate girl who sold herself to a clan of vampires to pay off her parents' debt. What has the clan head, Claude, prepared for her? Will she be able to pay herself off and obtain her freedom?"
 animeRelated	[]
-animeCharacters	[b'Onohara, Mikage', b'Himeno', b'Claude']
-animeVoices	[b'\nAsai, Kiyomi\nJapanese\n', b'\nAsai, Harumi\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinkai, Kouki\n\nEditing\n\n', b'\nNishi, Shigenari\n\nEditing\n\n']
+animeCharacters	['Onohara, Mikage', 'Himeno', 'Claude']
+animeVoices	['Asai, Kiyomi', 'Asai, Harumi', 'Suzuki, Tatsuhisa']
+animeStaff	[['Shinkai, Kouki', 'Editing'], ['Nishi, Shigenari', 'Editing']]

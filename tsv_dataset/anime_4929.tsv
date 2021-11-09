@@ -1,5 +1,5 @@
-animeTitle	b'Youjo Shenki'
-animeType	b'ONA'
+animeTitle	Youjo Shenki
+animeType	ONA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.74
 animeUsers	9778
 animeRank	
-animePopularity	
-animeDescription	b'A chibi parody of Youjo Senki. '
-animeRelated	[b'Youjo Senki', b'Youjo Shenki Episode 0']
-animeCharacters	[b'Degurechaff, Tanya', b'Serebryakova, Viktoriya Ivanovna', b'Weiss, Matheus Johann', b'Grantz, Warren', b'Koenig, Wilibald', b'Neumann, Rhiner']
-animeVoices	[b'\nYuuki, Aoi\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nHamano, Daiki\nJapanese\n', b'\nKobayashi, Yuusuke\nJapanese\n', b'\nKasama, Jun\nJapanese\n', b'\nHayashi, Daichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAshina, Minoru\n\nProducer, Director, Script\n\n']
+animePopularity	3870
+animeDescription	A chibi parody of Youjo Senki. 
+animeRelated	['Youjo Senki', 'Youjo Shenki Episode 0']
+animeCharacters	['Degurechaff, Tanya', 'Serebryakova, Viktoriya Ivanovna', 'Weiss, Matheus Johann', 'Grantz, Warren', 'Koenig, Wilibald', 'Neumann, Rhiner']
+animeVoices	['Yuuki, Aoi', 'Hayami, Saori', 'Hamano, Daiki', 'Kobayashi, Yuusuke', 'Kasama, Jun', 'Hayashi, Daichi']
+animeStaff	[['Ashina, Minoru', 'Producer, Director, Script']]

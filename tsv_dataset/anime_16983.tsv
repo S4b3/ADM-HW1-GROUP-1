@@ -1,5 +1,5 @@
-animeTitle	b'Kyou mo Tsuno ga Aru'
-animeType	b'TV'
+animeTitle	Kyou mo Tsuno ga Aru
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'An everyday life of yellow frog with horn.  Based on the web manga of the same title.'
+animePopularity	13306
+animeDescription	An everyday life of yellow frog with horn.  Based on the web manga of the same title.
 animeRelated	[]
-animeCharacters	[b'Gyojin', b'Fried Shrimp', b'Mokozarashi', b'Nessie', b'Tsunogaeru']
-animeVoices	[b'\nAoi, Shouta\nJapanese\n', b'\nUchida, Yuuma\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nYashiro, Taku\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOnaka, Takeshi\n\nDirector\n\n', b'\nSaitou, Yuu\n\nSound Director\n\n', b'\nKuroda, Kenichi\n\nMusic\n\n']
+animeCharacters	['Gyojin', 'Fried Shrimp', 'Mokozarashi', 'Nessie', 'Tsunogaeru']
+animeVoices	['Aoi, Shouta', 'Uchida, Yuuma', 'Ishikawa, Kaito', 'Saitou, Souma', 'Yashiro, Taku']
+animeStaff	[['Onaka, Takeshi', 'Director'], ['Saitou, Yuu', 'Sound Director'], ['Kuroda, Kenichi', 'Music']]

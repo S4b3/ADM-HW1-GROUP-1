@@ -1,5 +1,5 @@
-animeTitle	b'Durarara!!'
-animeType	b'TV'
+animeTitle	Durarara!!
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	8.14
 animeUsers	570585
 animeRank	
-animePopularity	
-animeDescription	"b'In Tokyo\'s downtown district of Ikebukuro, amidst many strange rumors and warnings of anonymous gangs and dangerous occupants, one urban legend stands out above the rest\xe2\x80\x94the existence of a headless ""Black Rider"" who is said to be seen driving a jet-black motorcycle through the city streets.\n\nMikado Ryuugamine has always longed for the excitement of the city life, and an invitation from a childhood friend convinces him to move to Tokyo. Witnessing the Black Rider on his first day in the city, his wishes already seem to have been granted. But as supernatural events begin to occur, ordinary citizens like himself, along with Ikebukuro\'s most colorful inhabitants, are mixed up in the commotion breaking out in their city.\n\n[Written by MAL Rewrite]\n'"
-animeRelated	[b'Durarara!!', b'Durarara!! Specials', b'Durarara!!x2 Shou']
-animeCharacters	[b'Orihara, Izaya', b'Heiwajima, Shizuo', b'Sturluson, Celty', b'Kida, Masaomi', b'Ryuugamine, Mikado', b'Sonohara, Anri', b'Dian, Isaac', b'Harvent, Miria', b'Kishitani, Shinra', b'Brezhnev, Semyon']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nAoki, Sayaka\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nKuroda, Takaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsumoto, Miho\n\nAssistant Producer\n\n', b'\nOomori, Takahiro\n\nDirector, Sound Director, Episode Director, Storyboard, Sound Supervisor\n\n', b'\nKawatsura, Shinya\n\nEpisode Director, Storyboard, Assistant Director\n\n', b'\nYamazaki, Mitsue\n\nEpisode Director\n\n']
+animePopularity	73
+animeDescription	"In Tokyo's downtown district of Ikebukuro, amidst many strange rumors and warnings of anonymous gangs and dangerous occupants, one urban legend stands out above the rest—the existence of a headless ""Black Rider"" who is said to be seen driving a jet-black motorcycle through the city streets.
+
+Mikado Ryuugamine has always longed for the excitement of the city life, and an invitation from a childhood friend convinces him to move to Tokyo. Witnessing the Black Rider on his first day in the city, his wishes already seem to have been granted. But as supernatural events begin to occur, ordinary citizens like himself, along with Ikebukuro's most colorful inhabitants, are mixed up in the commotion breaking out in their city.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Durarara!!', 'Durarara!! Specials', 'Durarara!!x2 Shou']
+animeCharacters	['Orihara, Izaya', 'Heiwajima, Shizuo', 'Sturluson, Celty', 'Kida, Masaomi', 'Ryuugamine, Mikado', 'Sonohara, Anri', 'Dian, Isaac', 'Harvent, Miria', 'Kishitani, Shinra', 'Brezhnev, Semyon']
+animeVoices	['Kamiya, Hiroshi', 'Ono, Daisuke', 'Sawashiro, Miyuki', 'Miyano, Mamoru', 'Toyonaga, Toshiyuki', 'Hanazawa, Kana', 'Onosaka, Masaya', 'Aoki, Sayaka', 'Fukuyama, Jun', 'Kuroda, Takaya']
+animeStaff	[['Matsumoto, Miho', 'Assistant Producer'], ['Oomori, Takahiro', 'Director, Sound Director, Episode Director, Storyboard, Sound Supervisor'], ['Kawatsura, Shinya', 'Episode Director, Storyboard, Assistant Director'], ['Yamazaki, Mitsue', 'Episode Director']]

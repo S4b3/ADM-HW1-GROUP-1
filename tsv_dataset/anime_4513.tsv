@@ -1,5 +1,5 @@
-animeTitle	b'Dear Boys'
-animeType	b'TV'
+animeTitle	Dear Boys
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.82
 animeUsers	8885
 animeRank	
-animePopularity	
-animeDescription	"b""Aikawa Kazuhiko was the captain of Tendoji high school prestigious basketball team. He moves into a new town to attend Mizuho high school and joins its basketball team. However, Mizuho high's basketball team is far from being prestigious, in fact, it's now defunct. Nevertheless to say, Kazuhiko's persistence, passion and basketball skills inspired other team members of the dysfunctional basketball team to gear up and start practicing again.\n\nThe goal is to play in the national tournaments where all young basketball players meet their opponents to compete with them. The tale of youth of the five protagonists: Fujiwara Takumi, Ishii Tsutomu, Dobashi Kenji, Miura Ranmaru and Aikawa Kazuhiko have just began along with the live of Mizuho high school basketball team.\n\n(Source: AnimeNfo)"""
-animeRelated	[b'Dear Boys']
-animeCharacters	[b'Aikawa, Kazuhiko', b'Fujiwara, Takumi', b'Anzaki, Satomi', b'Ishii, Tsutomu', b'Dobashi, Kenji', b'Miura, Ranmaru', b'Himuro, Kyoko', b'Moritaka, Mai', b'Takashina, Touya', b'Nozomi']
-animeVoices	[b'\nKiyasu, Kohei\nJapanese\n', b'\nMatsukaze, Masaya\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nTakeuchi, Ken\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nKawase, Akiko\nJapanese\n', b'\nKondou, Takashi\nJapanese\n', b'\nNidekawa, Yuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKudou, Susumu\n\nDirector\n\n', b'\nYoshioka, Takao\n\nScript\n\n', b'\nRollo, Alfredo\n\nADR Director\n\n', b'\nSeyama, Takeshi\n\nEditing\n\n']
+animePopularity	3988
+animeDescription	"Aikawa Kazuhiko was the captain of Tendoji high school prestigious basketball team. He moves into a new town to attend Mizuho high school and joins its basketball team. However, Mizuho high's basketball team is far from being prestigious, in fact, it's now defunct. Nevertheless to say, Kazuhiko's persistence, passion and basketball skills inspired other team members of the dysfunctional basketball team to gear up and start practicing again.
+
+The goal is to play in the national tournaments where all young basketball players meet their opponents to compete with them. The tale of youth of the five protagonists: Fujiwara Takumi, Ishii Tsutomu, Dobashi Kenji, Miura Ranmaru and Aikawa Kazuhiko have just began along with the live of Mizuho high school basketball team.
+
+(Source: AnimeNfo)"
+animeRelated	['Dear Boys']
+animeCharacters	['Aikawa, Kazuhiko', 'Fujiwara, Takumi', 'Anzaki, Satomi', 'Ishii, Tsutomu', 'Dobashi, Kenji', 'Miura, Ranmaru', 'Himuro, Kyoko', 'Moritaka, Mai', 'Takashina, Touya', 'Nozomi']
+animeVoices	['Kiyasu, Kohei', 'Matsukaze, Masaya', 'Noto, Mamiko', 'Suzuki, Tatsuhisa', 'Konishi, Katsuyuki', 'Takeuchi, Ken', 'Tanaka, Atsuko', 'Kawase, Akiko', 'Kondou, Takashi', 'Nidekawa, Yuki']
+animeStaff	[['Kudou, Susumu', 'Director'], ['Yoshioka, Takao', 'Script'], ['Rollo, Alfredo', 'ADR Director'], ['Seyama, Takeshi', 'Editing']]

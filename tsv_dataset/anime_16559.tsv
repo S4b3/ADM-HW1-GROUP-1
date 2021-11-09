@@ -1,5 +1,5 @@
-animeTitle	b'Kaminari Boy Pikkari\xe2\x98\x85bee'
-animeType	b'TV'
+animeTitle	Kaminari Boy Pikkari★bee
+animeType	TV
 animeNumEpisode	53
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A comedy about a mischievous boy. Each episode contains 2 stories.\n\nBased on a manga by Murotani Tsunezou.\n\n(Source: AniDB)'
-animeRelated	[b'Kaminari Boy Pikatta-kun no Koutsu Anzen', b'Kaminari Boy Pikatta-kun no Jitensha Kyoushitsu']
-animeCharacters	[b'Pikkaribee']
-animeVoices	[b'\nChiaki, Chiaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMitsunobu, Hiroyoshi\n\nEpisode Director\n\n', b'\nAmachi, Fusako\n\nTheme Song Performance\n\n']
+animePopularity	15284
+animeDescription	"A comedy about a mischievous boy. Each episode contains 2 stories.
+
+Based on a manga by Murotani Tsunezou.
+
+(Source: AniDB)"
+animeRelated	['Kaminari Boy Pikatta-kun no Koutsu Anzen', 'Kaminari Boy Pikatta-kun no Jitensha Kyoushitsu']
+animeCharacters	['Pikkaribee']
+animeVoices	['Chiaki, Chiaki']
+animeStaff	[['Mitsunobu, Hiroyoshi', 'Episode Director'], ['Amachi, Fusako', 'Theme Song Performance']]

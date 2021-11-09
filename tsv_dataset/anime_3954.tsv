@@ -1,5 +1,5 @@
-animeTitle	b'Shin Hokuto no Ken'
-animeType	b'OVA'
+animeTitle	Shin Hokuto no Ken
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.96
 animeUsers	5257
 animeRank	
-animePopularity	
-animeDescription	"b""In a post-apocalyptic Earth, the water has become entirely toxic, except for some kept safe in a reservoir. A fortified zone has been created by a man named Sanga, he calls it The Lastland. A group of villagers have discovered safe water, and Sanga wants it. He and his band of killers go to kill everyone and steal it. As they do a mysterious man appears out of nowhere, instantly killing some of Sanga's men. His name is Kenshiro, and he can beat any man with his martial art, Hokuto Shin Ken. Sanga will do anything for the water, and Kenshiro will do anything to try and stop him.\n\n(Source: ANN)"""
-animeRelated	[b'Hokuto no Ken: Jubaku no Machi', b'Hokuto no Ken 2']
-animeCharacters	[b'Kenshirou', b'Toki', b'Seiji', b'Sanga']
-animeVoices	[b'\nKoyasu, Takehito\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nGACKT\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Takashi\n\nDirector, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nGACKT\n\nTheme Song Performance\n\n', b'\nTakanashi, Yasuharu\n\nMusic\n\n']
+animePopularity	4819
+animeDescription	"In a post-apocalyptic Earth, the water has become entirely toxic, except for some kept safe in a reservoir. A fortified zone has been created by a man named Sanga, he calls it The Lastland. A group of villagers have discovered safe water, and Sanga wants it. He and his band of killers go to kill everyone and steal it. As they do a mysterious man appears out of nowhere, instantly killing some of Sanga's men. His name is Kenshiro, and he can beat any man with his martial art, Hokuto Shin Ken. Sanga will do anything for the water, and Kenshiro will do anything to try and stop him.
+
+(Source: ANN)"
+animeRelated	['Hokuto no Ken: Jubaku no Machi', 'Hokuto no Ken 2']
+animeCharacters	['Kenshirou', 'Toki', 'Seiji', 'Sanga']
+animeVoices	['Koyasu, Takehito', 'Tanaka, Hideyuki', 'GACKT', 'Ishizuka, Unshou']
+animeStaff	[['Watanabe, Takashi', 'Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['GACKT', 'Theme Song Performance'], ['Takanashi, Yasuharu', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Don Chuck Monogatari'
-animeType	b'TV'
+animeTitle	Don Chuck Monogatari
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.8
 animeUsers	382
 animeRank	
-animePopularity	
-animeDescription	"b""Young beaver Chuck's adventure with his little friends. When thy are in trouble, Chuck often asks his father to help them out.\n\n(Source: ANN)"""
-animeRelated	[b'Shin Don Chuck Monogatari']
-animeCharacters	[b'Don Chuck', b'Mr. Mee']
-animeVoices	[b'\nSawada, Kazuko\nJapanese\n', b'\nKatsuta, Hisashi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakagaki, Kouzou\n\nEpisode Director\n\n', b'\nOosugi, Kumiko\n\nTheme Song Performance\n\n', b'\nTanaka, Eiji\n\nAnimation Director, Character Design\n\n', b'\nKoizumi, Shizuo\n\nOriginal Creator\n\n']
+animePopularity	11425
+animeDescription	"Young beaver Chuck's adventure with his little friends. When thy are in trouble, Chuck often asks his father to help them out.
+
+(Source: ANN)"
+animeRelated	['Shin Don Chuck Monogatari']
+animeCharacters	['Don Chuck', 'Mr. Mee']
+animeVoices	['Sawada, Kazuko', 'Katsuta, Hisashi']
+animeStaff	[['Takagaki, Kouzou', 'Episode Director'], ['Oosugi, Kumiko', 'Theme Song Performance'], ['Tanaka, Eiji', 'Animation Director, Character Design'], ['Koizumi, Shizuo', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon Movie 14 Black: Victini to Shiroki Eiyuu Reshiram'
-animeType	b'Movie'
+animeTitle	Pokemon Movie 14 Black: Victini to Shiroki Eiyuu Reshiram
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.6
 animeUsers	22825
 animeRank	
-animePopularity	
-animeDescription	"b""In ages past, the Kingdom of the Vale, a mighty and flourishing realm, fell into turmoil. The ruler's two sons turned against each other, unleashing the powers of their Legendary familiars\xe2\x80\x94Reshiram and Zekrom\xe2\x80\x94and disturbing the Dragon Force that supplied the kingdom with energy. With the help of the Mythical Pok\xc3\xa9mon Victini, balance was restored and the Dragon Force was bound by the Sword of the Vale. Should the Sword be moved, devastation will loom again.\n\nDamon, a descendant of the now scattered People of the Vale, is attempting to restore his people's kingdom to its former glory. He manages to summon Legendary Pok\xc3\xa9mon Zekrom, with the aim of lifting the Sword of the Vale and harnessing the power of the Dragon Force himself.\n\nMeanwhile, Satoshi and his companions visit Eindoak Town, located at the foot of the Sword of the Vale. Confronted with Damon\xe2\x80\x99s scheme, they lend a hand to Victini, guardian of the Vale, in stopping the plan from coming to fruition and preventing a repeat of the tragedy that occurred a millennium ago.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Pokemon Best Wishes!', b'Pokemon Movie 14 White: Victini to Kuroki Eiyuu Zekrom']
-animeCharacters	[b'Pikachu', b'Satoshi', b'Dent', b'Iris', b'Victini', b'Zekrom', b'Reshiram', b'Grangil, Dred', b'Karita', b'Kojirou']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nTakahashi, Hideki\nJapanese\n', b'\nTanihara, Shosuke\nJapanese\n', b'\nTakahashi, Chiaki\nJapanese\n', b'\nIshihara, Satomi\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAnami, Rei\n\nAssistant Producer\n\n', b'\nYuyama, Kunihiko\n\nDirector, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nValencia, Amparo\n\nScript, ADR Director\n\n']
+animePopularity	2852
+animeDescription	"In ages past, the Kingdom of the Vale, a mighty and flourishing realm, fell into turmoil. The ruler's two sons turned against each other, unleashing the powers of their Legendary familiars—Reshiram and Zekrom—and disturbing the Dragon Force that supplied the kingdom with energy. With the help of the Mythical Pokémon Victini, balance was restored and the Dragon Force was bound by the Sword of the Vale. Should the Sword be moved, devastation will loom again.
+
+Damon, a descendant of the now scattered People of the Vale, is attempting to restore his people's kingdom to its former glory. He manages to summon Legendary Pokémon Zekrom, with the aim of lifting the Sword of the Vale and harnessing the power of the Dragon Force himself.
+
+Meanwhile, Satoshi and his companions visit Eindoak Town, located at the foot of the Sword of the Vale. Confronted with Damon’s scheme, they lend a hand to Victini, guardian of the Vale, in stopping the plan from coming to fruition and preventing a repeat of the tragedy that occurred a millennium ago.
+
+[Written by MAL Rewrite]"
+animeRelated	['Pokemon Best Wishes!', 'Pokemon Movie 14 White: Victini to Kuroki Eiyuu Zekrom']
+animeCharacters	['Pikachu', 'Satoshi', 'Dent', 'Iris', 'Victini', 'Zekrom', 'Reshiram', 'Grangil, Dred', 'Karita', 'Kojirou']
+animeVoices	['Ootani, Ikue', 'Matsumoto, Rica', 'Miyano, Mamoru', 'Yuuki, Aoi', 'Mizuki, Nana', 'Takahashi, Hideki', 'Tanihara, Shosuke', 'Takahashi, Chiaki', 'Ishihara, Satomi', 'Miki, Shinichiro']
+animeStaff	[['Anami, Rei', 'Assistant Producer'], ['Yuyama, Kunihiko', 'Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Valencia, Amparo', 'Script, ADR Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Tobe! Pegasus Kokoro no Goal ni Shoot'
-animeType	b'Movie'
+animeTitle	Tobe! Pegasus Kokoro no Goal ni Shoot
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The movie is about the soccer team Pegasus created from the visually impaired children studying in the Chiba Prefectural School for the Blind.\n\n(Source: allcinema)'
+animePopularity	15670
+animeDescription	"The movie is about the soccer team Pegasus created from the visually impaired children studying in the Chiba Prefectural School for the Blind.
+
+(Source: allcinema)"
 animeRelated	[]
-animeCharacters	[b'Shinoda', b'Tsubasa', b'Ramos', b'Masashi', b'Naoki', b'Hideo', b'Kazuhiro']
-animeVoices	[b'\nHori, Hideyuki\nJapanese\n', b'\nHibino, Akari\nJapanese\n', b'\nHirano, Masato\nJapanese\n', b'\nTakano, Urara\nJapanese\n', b'\nIshimura, Tomoko\nJapanese\n', b'\nIwatsubo, Rie\nJapanese\n', b'\nOkano, Kousuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkuda, Seiji\n\nDirector\n\n', b'\nSokuza, Makoto\n\nEpisode Director\n\n', b'\nKodama, Kenji\n\nStoryboard\n\n', b'\nMiyamae, Mitsuharu\n\nArt Director\n\n']
+animeCharacters	['Shinoda', 'Tsubasa', 'Ramos', 'Masashi', 'Naoki', 'Hideo', 'Kazuhiro']
+animeVoices	['Hori, Hideyuki', 'Hibino, Akari', 'Hirano, Masato', 'Takano, Urara', 'Ishimura, Tomoko', 'Iwatsubo, Rie', 'Okano, Kousuke']
+animeStaff	[['Okuda, Seiji', 'Director'], ['Sokuza, Makoto', 'Episode Director'], ['Kodama, Kenji', 'Storyboard'], ['Miyamae, Mitsuharu', 'Art Director']]

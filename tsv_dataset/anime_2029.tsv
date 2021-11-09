@@ -1,5 +1,5 @@
-animeTitle	b'Crayon Shin-chan Movie 10: Arashi wo Yobu Appare! Sengoku Daikassen'
-animeType	b'Movie'
+animeTitle	Crayon Shin-chan Movie 10: Arashi wo Yobu Appare! Sengoku Daikassen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.38
 animeUsers	2019
 animeRank	
-animePopularity	
-animeDescription	b'A full-scale historical drama set in the last days (the year 1574) of the Sengoku Era of feudal Japan. It is the story of the Nohara family, who has been transferred into the Sengoku Era by time warp, and a tragic love between a princess Ren Kasuga (a daughter of the feudal lord Kasuga at the Province of Musashi) and a samurai warrior Matabei Ijiri (a retainer of the Lord Kasuga).\n\n(Source: Manabu Tsuribe)'
-animeRelated	[b'Crayon Shin-chan', b'Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu', b'Crayon Shin-chan Movie 11: Arashi wo Yobu Eikou no Yakiniku Road']
-animeCharacters	[b'Nohara, Shinnosuke', b'Nohara, Hiroshi', b'Nohara, Misae', b'Nohara, Himawari', b'Kasuga, Ren', b'Boo-chan', b'Kazama, Tooru', b'Sakurada, Nene', b'Sato, Masao']
-animeVoices	[b'\nYajima, Akiko\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nNarahashi, Miki\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nKobayashi, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHara, Keiichi\n\nDirector, Script, Storyboard\n\n', b'\nMizushima, Tsutomu\n\nEpisode Director\n\n', b'\nFujisawa, Hideki\n\nTheme Song Composition, Theme Song Performance\n\n', b'\nYuasa, Masaaki\n\nKey Animation\n\n']
+animePopularity	7642
+animeDescription	"A full-scale historical drama set in the last days (the year 1574) of the Sengoku Era of feudal Japan. It is the story of the Nohara family, who has been transferred into the Sengoku Era by time warp, and a tragic love between a princess Ren Kasuga (a daughter of the feudal lord Kasuga at the Province of Musashi) and a samurai warrior Matabei Ijiri (a retainer of the Lord Kasuga).
+
+(Source: Manabu Tsuribe)"
+animeRelated	['Crayon Shin-chan', 'Crayon Shin-chan Movie 09: Arashi wo Yobu Mouretsu! Otona Teikoku no Gyakushuu', 'Crayon Shin-chan Movie 11: Arashi wo Yobu Eikou no Yakiniku Road']
+animeCharacters	['Nohara, Shinnosuke', 'Nohara, Hiroshi', 'Nohara, Misae', 'Nohara, Himawari', 'Kasuga, Ren', 'Boo-chan', 'Kazama, Tooru', 'Sakurada, Nene', 'Sato, Masao']
+animeVoices	['Yajima, Akiko', 'Fujiwara, Keiji', 'Narahashi, Miki', 'Koorogi, Satomi', 'Kobayashi, Ai']
+animeStaff	[['Hara, Keiichi', 'Director, Script, Storyboard'], ['Mizushima, Tsutomu', 'Episode Director'], ['Fujisawa, Hideki', 'Theme Song Composition, Theme Song Performance'], ['Yuasa, Masaaki', 'Key Animation']]

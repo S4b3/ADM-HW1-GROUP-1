@@ -1,5 +1,5 @@
-animeTitle	b'Robotica*Robotics'
-animeType	b'OVA'
+animeTitle	Robotica*Robotics
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.84
 animeUsers	6192
 animeRank	
-animePopularity	
-animeDescription	b'Haru and Natsu are not human. They do not know what it means to be anything but a robot.\n\nAbandoned by their previous owner, Haru and Natsu are taken in by a scientist named Masa. Haru wants to feel, wants to understand how to act human, and wants to know what it means to love. Natsu is just afraid that they will be abandoned again. With Haru striving for positivity, his companion is left alone to drown in his own negative thoughts. Over and over, they ask the same question: what is love?\n\n[Written by MAL Rewrite]\n'
+animePopularity	4707
+animeDescription	"Haru and Natsu are not human. They do not know what it means to be anything but a robot.
+
+Abandoned by their previous owner, Haru and Natsu are taken in by a scientist named Masa. Haru wants to feel, wants to understand how to act human, and wants to know what it means to love. Natsu is just afraid that they will be abandoned again. With Haru striving for positivity, his companion is left alone to drown in his own negative thoughts. Over and over, they ask the same question: what is love?
+
+[Written by MAL Rewrite]
+"
 animeRelated	[]
-animeCharacters	[b'Haru', b'Natsu', b'Masa']
-animeVoices	[b'\nSaeki, Yuya\nJapanese\n', b'\nHige, Taro\nJapanese\n', b'\nHigurashi, Souzai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Soubi\n\nDirector\n\n', b'\nLedford, John\n\nExecutive Producer\n\n', b'\nWilliams, Janice\n\nADR Director\n\n']
+animeCharacters	['Haru', 'Natsu', 'Masa']
+animeVoices	['Saeki, Yuya', 'Hige, Taro', 'Higurashi, Souzai']
+animeStaff	[['Yamamoto, Soubi', 'Director'], ['Ledford, John', 'Executive Producer'], ['Williams, Janice', 'ADR Director']]

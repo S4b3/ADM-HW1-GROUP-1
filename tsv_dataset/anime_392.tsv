@@ -1,5 +1,5 @@
-animeTitle	b'Detective Conan Movie 14: The Lost Ship in the Sky'
-animeType	b'Movie'
+animeTitle	Detective Conan Movie 14: The Lost Ship in the Sky
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.13
 animeUsers	27585
 animeRank	
-animePopularity	
-animeDescription	"b'One night, the Tokyo National Institute of Microorganisms is attacked by a mysterious organization calling themselves the ""Red Siamese Cats."" The group causes the explosion of a high-security lab storing a virus\xe2\x80\x94said to have a mortality rate of 80% with no known cure. This act of terror dominates the headlines, overshadowing the unveiling of the world\'s biggest airship developed under Jirokichi Suzuki. Peculiarly, the unveiling has a note attached for Kaito ""Kaitou Kid"" Kuroba, challenging him to steal the jewel on display\xe2\x80\x94the illustrious Lady Sky.\n\nConan Edogawa is permitted to board the airship along with Kogorou Mouri, Ran Mouri, Sonoko Suzuki, Professor Agasa, and the Detective Boys. However, their fun comes to a halt when an unknown caller contacts Jirokichi and declares that they have released a certain virus in the smoking room. Soon after, symptoms begin to appear among the passengers and chaos ensues. Seizing the opportunity, the Red Siamese Cats suddenly appear and hijack the airship! \n\nTo stop the assailants, Conan and Kaitou Kid, along with their allies, must work together to decipher the clues and discover the Red Siamese Cats\' real objective before time runs out.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Detective Conan: The Lost Ship in the Sky', b'Detective Conan', b'Detective Conan Magic File 4: Osaka Okonomiyaki Odyssey']
-animeCharacters	[b'Edogawa, Conan', b'Kuroba, Kaito', b'Mouri, Ran', b'Haibara, Ai', b'Hattori, Heiji', b'Mouri, Kogorou', b'Takagi, Wataru', b'Tooyama, Kazuha', b'Agasa, Hiroshi', b'Suzuki, Sonoko']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nMiyamura, Yuko\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuwa, Michihiko\n\nProducer\n\n', b'\nYamamoto, Yasuichiro\n\nDirector\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nOkuwaki, Masaharu\n\nStoryboard\n\n']
+animePopularity	2561
+animeDescription	"One night, the Tokyo National Institute of Microorganisms is attacked by a mysterious organization calling themselves the ""Red Siamese Cats."" The group causes the explosion of a high-security lab storing a virus—said to have a mortality rate of 80% with no known cure. This act of terror dominates the headlines, overshadowing the unveiling of the world's biggest airship developed under Jirokichi Suzuki. Peculiarly, the unveiling has a note attached for Kaito ""Kaitou Kid"" Kuroba, challenging him to steal the jewel on display—the illustrious Lady Sky.
+
+Conan Edogawa is permitted to board the airship along with Kogorou Mouri, Ran Mouri, Sonoko Suzuki, Professor Agasa, and the Detective Boys. However, their fun comes to a halt when an unknown caller contacts Jirokichi and declares that they have released a certain virus in the smoking room. Soon after, symptoms begin to appear among the passengers and chaos ensues. Seizing the opportunity, the Red Siamese Cats suddenly appear and hijack the airship! 
+
+To stop the assailants, Conan and Kaitou Kid, along with their allies, must work together to decipher the clues and discover the Red Siamese Cats' real objective before time runs out.
+
+[Written by MAL Rewrite]"
+animeRelated	['Detective Conan: The Lost Ship in the Sky', 'Detective Conan', 'Detective Conan Magic File 4: Osaka Okonomiyaki Odyssey']
+animeCharacters	['Edogawa, Conan', 'Kuroba, Kaito', 'Mouri, Ran', 'Haibara, Ai', 'Hattori, Heiji', 'Mouri, Kogorou', 'Takagi, Wataru', 'Tooyama, Kazuha', 'Agasa, Hiroshi', 'Suzuki, Sonoko']
+animeVoices	['Takayama, Minami', 'Yamaguchi, Kappei', 'Yamazaki, Wakana', 'Hayashibara, Megumi', 'Horikawa, Ryo', 'Koyama, Rikiya', 'Takagi, Wataru', 'Miyamura, Yuko', 'Ogata, Kenichi', 'Matsui, Naoko']
+animeStaff	[['Suwa, Michihiko', 'Producer'], ['Yamamoto, Yasuichiro', 'Director'], ['Urakami, Yasuo', 'Sound Director'], ['Okuwaki, Masaharu', 'Storyboard']]

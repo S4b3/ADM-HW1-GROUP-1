@@ -1,5 +1,5 @@
-animeTitle	b'Ulysses 31 Pilot'
-animeType	b'Special'
+animeTitle	Ulysses 31 Pilot
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.82
 animeUsers	203
 animeRank	
-animePopularity	
-animeDescription	b'Unaired pilot episode for the TV series.'
-animeRelated	[b'Uchuu Densetsu Ulysses 31']
-animeCharacters	[b'Ulysses', b'Themis', b'Telemachus', b'Nono', b'Noumayos']
+animePopularity	12581
+animeDescription	Unaired pilot episode for the TV series.
+animeRelated	['Uchuu Densetsu Ulysses 31']
+animeCharacters	['Ulysses', 'Themis', 'Telemachus', 'Nono', 'Noumayos']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nChalopin, Jean\n\nCo-Producer\n\n', b'\nYamamoto, Nizou\n\nBackground Art\n\n']
+animeStaff	[['Chalopin, Jean', 'Co-Producer'], ['Yamamoto, Nizou', 'Background Art']]

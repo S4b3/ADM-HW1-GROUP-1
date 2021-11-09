@@ -1,5 +1,5 @@
-animeTitle	b'Gou-chan.: Moko to Chinjuu no Mori no Nakama-tachi'
-animeType	b'Movie'
+animeTitle	Gou-chan.: Moko to Chinjuu no Mori no Nakama-tachi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Gou-chan arrives on earth in search of the heart plasma that will restore peace to his home planet EX Panda. He meets a human girl named Moko, who lives on a farm with her grandfather, and several strange animals called Chinjuumin. They pass their days enjoyably, but trouble begins when humans invade the forest home of the Chinjuumin looking to capture them. Meanwhile, Moko's family life gets complicated when her grandmother arrives from the city.\n\n(Source: ANN)"""
-animeRelated	[b'Go-chan.: Moko to Koori no Ue no Yakusoku']
-animeCharacters	[b'Gou-chan']
+animePopularity	14237
+animeDescription	"Gou-chan arrives on earth in search of the heart plasma that will restore peace to his home planet EX Panda. He meets a human girl named Moko, who lives on a farm with her grandfather, and several strange animals called Chinjuumin. They pass their days enjoyably, but trouble begins when humans invade the forest home of the Chinjuumin looking to capture them. Meanwhile, Moko's family life gets complicated when her grandmother arrives from the city.
+
+(Source: ANN)"
+animeRelated	['Go-chan.: Moko to Koori no Ue no Yakusoku']
+animeCharacters	['Gou-chan']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYasumi, Tetsuo\n\nDirector, Storyboard\n\n', b'\nOokuma, Akira\n\nSound Director\n\n', b'\nHirai, Minetarou\n\nEpisode Director\n\n', b'\nShinpo, Yuuichi\n\nScript\n\n']
+animeStaff	[['Yasumi, Tetsuo', 'Director, Storyboard'], ['Ookuma, Akira', 'Sound Director'], ['Hirai, Minetarou', 'Episode Director'], ['Shinpo, Yuuichi', 'Script']]

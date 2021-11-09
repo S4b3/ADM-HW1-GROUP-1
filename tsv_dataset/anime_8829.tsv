@@ -1,5 +1,5 @@
-animeTitle	b'Makyou Densetsu Acrobunch'
-animeType	b'TV'
+animeTitle	Makyou Densetsu Acrobunch
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.96
 animeUsers	197
 animeRank	
-animePopularity	
-animeDescription	b'Led by scientist Tatsuya Randou, the Randou family undertakes a journey around the globe in order to search out ancient ruins to uncover the legend of Quetzalcoatl, which unlocks the key to a fabulous treasure. However, tailing the Randou family is Gopurin, an evil organisation that covets the legendary treasure for itself. The Randou family has the secret weapon of super robot Acrobunch. It becomes a race around the world of who finds the treasure first. \n\n(Source: Wikipedia) '
+animePopularity	11104
+animeDescription	"Led by scientist Tatsuya Randou, the Randou family undertakes a journey around the globe in order to search out ancient ruins to uncover the legend of Quetzalcoatl, which unlocks the key to a fabulous treasure. However, tailing the Randou family is Gopurin, an evil organisation that covets the legendary treasure for itself. The Randou family has the secret weapon of super robot Acrobunch. It becomes a race around the world of who finds the treasure first. 
+
+(Source: Wikipedia) "
 animeRelated	[]
-animeCharacters	[b'Randou, Ryou', b'Randou, Miki', b'Randou, Hiro', b'Randou, Reika', b'Randou, Tatsuya', b'Randou, Jun', b'Sheila', b'Bullzome']
-animeVoices	[b'\nTanaka, Hideyuki\nJapanese\n', b'\nMiwa, Katsue\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n', b'\nShibata, Hidekatsu\nJapanese\n', b'\nNakahara, Shigeru\nJapanese\n', b'\nYanaga, Kazuko\nJapanese\n', b'\nOobayashi, Ryuusuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b'\nShudou, Takeshi\n\nScript\n\n', b'\nYamagata, Yukio\n\nTheme Song Performance\n\n', b'\nTaira, Isao\n\nTheme Song Performance\n\n']
+animeCharacters	['Randou, Ryou', 'Randou, Miki', 'Randou, Hiro', 'Randou, Reika', 'Randou, Tatsuya', 'Randou, Jun', 'Sheila', 'Bullzome']
+animeVoices	['Tanaka, Hideyuki', 'Miwa, Katsue', 'Wakamoto, Norio', 'Sugiyama, Kazuko', 'Shibata, Hidekatsu', 'Nakahara, Shigeru', 'Yanaga, Kazuko', 'Oobayashi, Ryuusuke']
+animeStaff	[['Matsuura, Noriyoshi', 'Sound Director'], ['Shudou, Takeshi', 'Script'], ['Yamagata, Yukio', 'Theme Song Performance'], ['Taira, Isao', 'Theme Song Performance']]

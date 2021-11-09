@@ -1,5 +1,5 @@
-animeTitle	b'Ojamajo Doremi Sharp Movie'
-animeType	b'Movie'
+animeTitle	Ojamajo Doremi Sharp Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	7.16
 animeUsers	1831
 animeRank	
-animePopularity	
-animeDescription	"b""One day Pop was out scavenging with Hana, and found a beautiful rose inside the Queen's garden. Curious, she picked the rose and brought it home. Unwittingly, that rose can cause all wishes to become true, whether good or bad. Good wishes will turn the rose white and bloom, while bad wishes will turn the rose black and wither. After a heated argument with her sister Doremi, Pop wishes that Doremi loses all her magic and be turned into a mouse. Hilarity ensues, as Doremi and the others try to put everything back to normal.\n\n(Source: ANN)\n"""
-animeRelated	[b'Ojamajo Doremi Sharp']
-animeCharacters	[b'Harukaze, Doremi', b'Segawa, Onpu', b'Senoo, Aiko', b'Makihatayama, Hana', b'Fujiwara, Hazuki', b'Majorika', b'Harukaze, Pop', b'Tamaki, Reika', b'Roro', b'Dodo']
-animeVoices	[b'\nChiba, Chiemi\nJapanese\n', b'\nShishido, Rumi\nJapanese\n', b'\nMatsuoka, Yuki\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nAkiya, Tomoko\nJapanese\n', b'\nNagasawa, Nao\nJapanese\n', b'\nIshige, Sawa\nJapanese\n', b'\nNagano, Ai\nJapanese\n', b'\nTokumitsu, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIgarashi, Takuya\n\nDirector\n\n', b'\nYamauchi, Shigeyasu\n\nDirector\n\n', b'\nSushio\n\nKey Animation\n\n', b'\nToudou, Izumi\n\nOriginal Creator\n\n']
+animePopularity	7409
+animeDescription	"One day Pop was out scavenging with Hana, and found a beautiful rose inside the Queen's garden. Curious, she picked the rose and brought it home. Unwittingly, that rose can cause all wishes to become true, whether good or bad. Good wishes will turn the rose white and bloom, while bad wishes will turn the rose black and wither. After a heated argument with her sister Doremi, Pop wishes that Doremi loses all her magic and be turned into a mouse. Hilarity ensues, as Doremi and the others try to put everything back to normal.
+
+(Source: ANN)
+"
+animeRelated	['Ojamajo Doremi Sharp']
+animeCharacters	['Harukaze, Doremi', 'Segawa, Onpu', 'Senoo, Aiko', 'Makihatayama, Hana', 'Fujiwara, Hazuki', 'Majorika', 'Harukaze, Pop', 'Tamaki, Reika', 'Roro', 'Dodo']
+animeVoices	['Chiba, Chiemi', 'Shishido, Rumi', 'Matsuoka, Yuki', 'Ootani, Ikue', 'Akiya, Tomoko', 'Nagasawa, Nao', 'Ishige, Sawa', 'Nagano, Ai', 'Tokumitsu, Yuka']
+animeStaff	[['Igarashi, Takuya', 'Director'], ['Yamauchi, Shigeyasu', 'Director'], ['Sushio', 'Key Animation'], ['Toudou, Izumi', 'Original Creator']]

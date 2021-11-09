@@ -1,5 +1,5 @@
-animeTitle	b'Kaidan Restaurant'
-animeType	b'TV'
+animeTitle	Kaidan Restaurant
+animeType	TV
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.27
 animeUsers	4147
 animeRank	
-animePopularity	
-animeDescription	"b'TV Asahi announced a new kids anime ""Kaidan Restaurant (Thriller Restaurant)"" based on a picture book. Each episode will consist of three stories or ""dishes"": the appetizer, the main dish, and dessert. The first two ""dishes"" will deal with an ordinary sixth-grade schoolgirl named Ako Ozara and the bizarre occurrences that befall her classmates. The third ""dish"" will be a standalone short ghost story told by Ako and her friends.'"
+animePopularity	4554
+animeDescription	"TV Asahi announced a new kids anime ""Kaidan Restaurant (Thriller Restaurant)"" based on a picture book. Each episode will consist of three stories or ""dishes"": the appetizer, the main dish, and dessert. The first two ""dishes"" will deal with an ordinary sixth-grade schoolgirl named Ako Ozara and the bizarre occurrences that befall her classmates. The third ""dish"" will be a standalone short ghost story told by Ako and her friends."
 animeRelated	[]
-animeCharacters	"[b'Koumoto, Shou', b'Oozora, Ako', b'Sakuma, Reiko', b'Garcon, Ghastly', b'Shinichi', b'Misakubo, Yuuma', b'Hinotama Boy', b'Baku', b""Junko's father"", b""Junko's mother""]"
-animeVoices	[b'\nYuuki, Hiro\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nAsano, Masumi\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nMorita, Masakazu\nJapanese\n', b'\nKawahara, Yoshihisa\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nFujimoto, Takahiro\nJapanese\n', b'\nSaito, Kimiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIkeda, Youko\n\nDirector, Episode Director, Storyboard\n\n', b'\nKakudou, Hiroyuki\n\nEpisode Director, Storyboard\n\n', b'\nNakamura, Ryouta\n\nEpisode Director\n\n', b'\nHatano, Morio\n\nEpisode Director\n\n']
+animeCharacters	"['Koumoto, Shou', 'Oozora, Ako', 'Sakuma, Reiko', 'Garcon, Ghastly', 'Shinichi', 'Misakubo, Yuuma', 'Hinotama Boy', 'Baku', ""Junko's father"", ""Junko's mother""]"
+animeVoices	['Yuuki, Hiro', 'Shiraishi, Ryouko', 'Asano, Masumi', 'Hirata, Hiroaki', 'Morita, Masakazu', 'Kawahara, Yoshihisa', 'Seki, Tomokazu', 'Yamaguchi, Kappei', 'Fujimoto, Takahiro', 'Saito, Kimiko']
+animeStaff	[['Ikeda, Youko', 'Director, Episode Director, Storyboard'], ['Kakudou, Hiroyuki', 'Episode Director, Storyboard'], ['Nakamura, Ryouta', 'Episode Director'], ['Hatano, Morio', 'Episode Director']]

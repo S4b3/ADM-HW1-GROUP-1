@@ -1,5 +1,5 @@
-animeTitle	"b""It's My Life"""
-animeType	b'OVA'
+animeTitle	It's My Life
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.74
 animeUsers	1738
 animeRank	
-animePopularity	
-animeDescription	b'Based on a fantasy manga by Narita Imomushi.\n\nAstra Ludger Doomsday, former captain of the royal knights has finally achieved his dearest wish: To retire and use his savings to get his very own house. But not long after finally arriving at his sanctuary, a young girl crash-lands into his house. The girl is an apprentice witch and seems to mistake Astra for someone else.\n\n(Source: M-U)'
-animeRelated	"[b""It's My Life""]"
-animeCharacters	[b'Doomsday, Astra Ludger', b'O Antikythira, Noah']
-animeVoices	[b'\nInada, Tetsu\nJapanese\n', b'\nIgarashi, Hiromi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirasawa, Hisayoshi\n\nDirector, Sound Director\n\n', b'\nNarita, Imomushi\n\nOriginal Creator\n\n', b'\nHayashi, Kouji\n\nDirector of Photography\n\n', b'\nAoyama, Ouwa\n\nArt Director\n\n']
+animePopularity	6054
+animeDescription	"Based on a fantasy manga by Narita Imomushi.
+
+Astra Ludger Doomsday, former captain of the royal knights has finally achieved his dearest wish: To retire and use his savings to get his very own house. But not long after finally arriving at his sanctuary, a young girl crash-lands into his house. The girl is an apprentice witch and seems to mistake Astra for someone else.
+
+(Source: M-U)"
+animeRelated	"[""It's My Life""]"
+animeCharacters	['Doomsday, Astra Ludger', 'O Antikythira, Noah']
+animeVoices	['Inada, Tetsu', 'Igarashi, Hiromi']
+animeStaff	[['Hirasawa, Hisayoshi', 'Director, Sound Director'], ['Narita, Imomushi', 'Original Creator'], ['Hayashi, Kouji', 'Director of Photography'], ['Aoyama, Ouwa', 'Art Director']]

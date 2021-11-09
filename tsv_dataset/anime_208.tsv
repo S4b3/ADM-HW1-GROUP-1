@@ -1,5 +1,5 @@
-animeTitle	b'Hotarubi no Mori e'
-animeType	b'Movie'
+animeTitle	Hotarubi no Mori e
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.33
 animeUsers	376853
 animeRank	
-animePopularity	
-animeDescription	"b""Intrigued by the tale of a mountain god, six-year-old Hotaru Takegawa loses her way in the ancient forest while visiting her uncle. Exhausted and desperate for help, Hotaru is thrilled to find a masked forest spirit named Gin. She learns the hard way that she should not touch the boy, or he would disappear. In spite of this, Gin leads Hotaru out of the forest and warns her never to return when she promises to come again with a gift.\n\nPaying no heed to his cautionary words, and despite being separated by both distance and planes of existence, Hotaru and Gin become close friends as she visits him every summer. However, their relationship and resolve are put to the test, when romantic feelings conflict with the one and only rule.\n\nBased on Yuki Midorikawa's manga of the same name, Hotarubi no Mori e is a tale of friendship and compromise of two people who should never have crossed paths, as their lives become hopelessly intertwined.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Hotarubi no Mori e']
-animeCharacters	[b'Gin', b'Takegawa, Hotaru', b'Mother Takegawa', b'Ryouta', b'Grandfather Takegawa']
-animeVoices	[b'\nUchiyama, Kouki\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nSawada, Izumi\nJapanese\n', b'\nTaya, Hayato\nJapanese\n', b'\nTsuji, Shinpachi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyake, Masanori\n\nProducer\n\n', b'\nOomori, Takahiro\n\nDirector, Script, Screenplay\n\n', b'\nOotaka, Shizuru\n\nTheme Song Performance\n\n', b'\nMidorikawa, Yuki\n\nOriginal Creator\n\n']
+animePopularity	202
+animeDescription	"Intrigued by the tale of a mountain god, six-year-old Hotaru Takegawa loses her way in the ancient forest while visiting her uncle. Exhausted and desperate for help, Hotaru is thrilled to find a masked forest spirit named Gin. She learns the hard way that she should not touch the boy, or he would disappear. In spite of this, Gin leads Hotaru out of the forest and warns her never to return when she promises to come again with a gift.
+
+Paying no heed to his cautionary words, and despite being separated by both distance and planes of existence, Hotaru and Gin become close friends as she visits him every summer. However, their relationship and resolve are put to the test, when romantic feelings conflict with the one and only rule.
+
+Based on Yuki Midorikawa's manga of the same name, Hotarubi no Mori e is a tale of friendship and compromise of two people who should never have crossed paths, as their lives become hopelessly intertwined.
+
+[Written by MAL Rewrite]"
+animeRelated	['Hotarubi no Mori e']
+animeCharacters	['Gin', 'Takegawa, Hotaru', 'Mother Takegawa', 'Ryouta', 'Grandfather Takegawa']
+animeVoices	['Uchiyama, Kouki', 'Sakura, Ayane', 'Sawada, Izumi', 'Taya, Hayato', 'Tsuji, Shinpachi']
+animeStaff	[['Miyake, Masanori', 'Producer'], ['Oomori, Takahiro', 'Director, Script, Screenplay'], ['Ootaka, Shizuru', 'Theme Song Performance'], ['Midorikawa, Yuki', 'Original Creator']]

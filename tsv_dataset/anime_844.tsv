@@ -1,5 +1,5 @@
-animeTitle	b'Grisaia no Rakuen'
-animeType	b'TV'
+animeTitle	Grisaia no Rakuen
+animeType	TV
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.81
 animeUsers	190288
 animeRank	
-animePopularity	
-animeDescription	"b""Grisaia no Rakuen begins right at the end of the previous installment, Grisaia no Meikyuu. Kazami Yuuji is arrested under suspicion for terrorism. A video showing apparently concrete proof that Yuuji committed these acts, and he is held in custody by Ichigaya.\n\nIchigaya knows full well that Yuuji didn't commit the crimes he has been accused of. But he did fail to assassinate Heath Oslo, who is the leader of the terrorist organization with an extremely devastating weapon in their possession. In fact, Ichigaya have their own plans for Yuuji... \n\nBut all may not be lost for Yuuji. The girls of the Mihama Academy are not about to let Yuuji be used for political gain, and neither may the mysterious new figure which appears before them."""
-animeRelated	[b'Grisaia no Rakuen: Sanctuary Fellows', b'Grisaia no Meikyuu: Caprice no Mayu 0', b'Grisaia no Rakuen Specials', b'Grisaia: Phantom Trigger The Animation']
-animeCharacters	[b'Kazami, Yuuji', b'Matsushima, Michiru', b'Sakaki, Yumiko', b'Suou, Amane', b'Komine, Sachi', b'Irisu, Makina', b'Kazami, Kazuki', b'Kusakabe, Asako', b'Harudera, Yuria', b'Tachibana, Chizuru']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nTanaka, Ryouko\nJapanese\n', b'\nTaguchi, Hiroko\nJapanese\n', b'\nShimizu, Ai\nJapanese\n', b'\nTamiyasu, Tomoe\nJapanese\n', b'\nTomonaga, Akane\nJapanese\n', b'\nMizusawa, Kei\nJapanese\n', b'\nNarumi, Erika\nJapanese\n', b'\nYanase, Natsumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Motoki\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nMajima, Takahiro\n\nEpisode Director\n\n', b'\nKanbara, Toshiaki\n\nEpisode Director\n\n']
+animePopularity	480
+animeDescription	"Grisaia no Rakuen begins right at the end of the previous installment, Grisaia no Meikyuu. Kazami Yuuji is arrested under suspicion for terrorism. A video showing apparently concrete proof that Yuuji committed these acts, and he is held in custody by Ichigaya.
+
+Ichigaya knows full well that Yuuji didn't commit the crimes he has been accused of. But he did fail to assassinate Heath Oslo, who is the leader of the terrorist organization with an extremely devastating weapon in their possession. In fact, Ichigaya have their own plans for Yuuji... 
+
+But all may not be lost for Yuuji. The girls of the Mihama Academy are not about to let Yuuji be used for political gain, and neither may the mysterious new figure which appears before them."
+animeRelated	['Grisaia no Rakuen: Sanctuary Fellows', 'Grisaia no Meikyuu: Caprice no Mayu 0', 'Grisaia no Rakuen Specials', 'Grisaia: Phantom Trigger The Animation']
+animeCharacters	['Kazami, Yuuji', 'Matsushima, Michiru', 'Sakaki, Yumiko', 'Suou, Amane', 'Komine, Sachi', 'Irisu, Makina', 'Kazami, Kazuki', 'Kusakabe, Asako', 'Harudera, Yuria', 'Tachibana, Chizuru']
+animeVoices	['Sakurai, Takahiro', 'Mizuhashi, Kaori', 'Tanaka, Ryouko', 'Taguchi, Hiroko', 'Shimizu, Ai', 'Tamiyasu, Tomoe', 'Tomonaga, Akane', 'Mizusawa, Kei', 'Narumi, Erika', 'Yanase, Natsumi']
+animeStaff	[['Tanaka, Motoki', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Majima, Takahiro', 'Episode Director'], ['Kanbara, Toshiaki', 'Episode Director']]

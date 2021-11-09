@@ -1,5 +1,5 @@
-animeTitle	b'gdMen'
-animeType	b'TV'
+animeTitle	gdMen
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.87
 animeUsers	752
 animeRank	
-animePopularity	
-animeDescription	"b""In the series, Light and Yomi are spending their daily lives happily playing video games. One night when everyone else is asleep, Light receives an invitation from Alpha, a messenger for someone named King. Light and Yomi are then sucked into another world, where they must undertake a quest to rescue Princess Melody from the demon lord. Light thinks this must be his destiny, while Yomi thinks it's kind of annoying. They form a party with Alpha to start their quest. Alpha as it turns out is an AI robot, and he has a program that allows them to raise their levels while slowly continuing their adventure.\n\n(Source: ANN)"""
-animeRelated	[b'gdgd Fairies 2', b'Mousou Teikoku Chikuonki']
-animeCharacters	[b'Alpha', b'Light', b'Melody', b'Yomi']
-animeVoices	[b'\nKobayashi, Yuusuke\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nHara, Natsuko\nJapanese\n', b'\nYamamoto, Kazutomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugahara, Souta\n\nDirector\n\n', b'\nKubo, Souichirou\n\nSound Director\n\n', b'\nMori, Ryouichi\n\nScript\n\n', b'\nKitamura, Eri\n\nTheme Song Performance\n\n']
+animePopularity	8759
+animeDescription	"In the series, Light and Yomi are spending their daily lives happily playing video games. One night when everyone else is asleep, Light receives an invitation from Alpha, a messenger for someone named King. Light and Yomi are then sucked into another world, where they must undertake a quest to rescue Princess Melody from the demon lord. Light thinks this must be his destiny, while Yomi thinks it's kind of annoying. They form a party with Alpha to start their quest. Alpha as it turns out is an AI robot, and he has a program that allows them to raise their levels while slowly continuing their adventure.
+
+(Source: ANN)"
+animeRelated	['gdgd Fairies 2', 'Mousou Teikoku Chikuonki']
+animeCharacters	['Alpha', 'Light', 'Melody', 'Yomi']
+animeVoices	['Kobayashi, Yuusuke', 'Matsuoka, Yoshitsugu', 'Hara, Natsuko', 'Yamamoto, Kazutomi']
+animeStaff	[['Sugahara, Souta', 'Director'], ['Kubo, Souichirou', 'Sound Director'], ['Mori, Ryouichi', 'Script'], ['Kitamura, Eri', 'Theme Song Performance']]

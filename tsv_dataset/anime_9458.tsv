@@ -1,5 +1,5 @@
-animeTitle	b'Rebirth'
-animeType	b'TV'
+animeTitle	Rebirth
+animeType	TV
 animeNumEpisode	48
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.77
 animeUsers	399
 animeRank	
-animePopularity	
-animeDescription	b'The series revolve around a team of 12 high school students who love to play the trading card game Rebirth For You.\n\n(Source: ANN)'
-animeRelated	[b'Rebirth Special']
-animeCharacters	[b'Higashiyama, Yuu', b'Toudou, Kei']
-animeVoices	[b'\nNishio, Yuuka\nJapanese\n', b'\nKoyama, Momoyo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshioka, Shinobu\n\nDirector\n\n', b'\nKidani, Takaaki\n\nExecutive Producer\n\n', b'\nTakada, Youko\n\nCharacter Design\n\n']
+animePopularity	7836
+animeDescription	"The series revolve around a team of 12 high school students who love to play the trading card game Rebirth For You.
+
+(Source: ANN)"
+animeRelated	['Rebirth Special']
+animeCharacters	['Higashiyama, Yuu', 'Toudou, Kei']
+animeVoices	['Nishio, Yuuka', 'Koyama, Momoyo']
+animeStaff	[['Yoshioka, Shinobu', 'Director'], ['Kidani, Takaaki', 'Executive Producer'], ['Takada, Youko', 'Character Design']]

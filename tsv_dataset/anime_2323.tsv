@@ -1,5 +1,5 @@
-animeTitle	b'Slayers Excellent'
-animeType	b'OVA'
+animeTitle	Slayers Excellent
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.32
 animeUsers	9178
 animeRank	
-animePopularity	
-animeDescription	"b""In these earlier adventures of Lina Inverse and Naga the Serpent, learn how the two rivals first met. In their first adventure, the two rivals meet and run into a vampire during a rescue mission. Next, Lina is hired to be the bodyguard of a rich man's daughter, Sirene. Lina is at first very enthusiastic about it at first, as she is being paid very well, but Sirene keeps spending all of Lina's first half of pay. (She gets the other half later) She puts together a fake kidnapping to teach Sirene a lesson, but when she really gets kidnapped, she must team up with Naga to save her. In the final episode, Lina and Naga find themselves on seperate sides in a fashion war. \n\n(Source: ANN)"""
-animeRelated	[b'Slayers Special']
-animeCharacters	[b'Inverse, Lina', b'Saillune, Gracia Ul Naga', b'Fitzmeier, Sirene', b'Steindorf', b'Alphonse', b'Dayward, Tatjana', b'Lenford, Marty']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nKawamura, Maria\nJapanese\n', b'\nWatanabe, Kumiko\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Hiroshi\n\nDirector\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nIwasaki, Yoshiaki\n\nEpisode Director, Storyboard\n\n', b'\nHayashibara, Megumi\n\nTheme Song Performance\n\n']
+animePopularity	4122
+animeDescription	"In these earlier adventures of Lina Inverse and Naga the Serpent, learn how the two rivals first met. In their first adventure, the two rivals meet and run into a vampire during a rescue mission. Next, Lina is hired to be the bodyguard of a rich man's daughter, Sirene. Lina is at first very enthusiastic about it at first, as she is being paid very well, but Sirene keeps spending all of Lina's first half of pay. (She gets the other half later) She puts together a fake kidnapping to teach Sirene a lesson, but when she really gets kidnapped, she must team up with Naga to save her. In the final episode, Lina and Naga find themselves on seperate sides in a fashion war. 
+
+(Source: ANN)"
+animeRelated	['Slayers Special']
+animeCharacters	['Inverse, Lina', 'Saillune, Gracia Ul Naga', 'Fitzmeier, Sirene', 'Steindorf', 'Alphonse', 'Dayward, Tatjana', 'Lenford, Marty']
+animeVoices	['Hayashibara, Megumi', 'Kawamura, Maria', 'Watanabe, Kumiko', 'Hayami, Show', 'Miki, Shinichiro', 'Hisakawa, Aya', 'Iizuka, Mayumi']
+animeStaff	[['Watanabe, Hiroshi', 'Director'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Iwasaki, Yoshiaki', 'Episode Director, Storyboard'], ['Hayashibara, Megumi', 'Theme Song Performance']]

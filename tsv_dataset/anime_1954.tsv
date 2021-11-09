@@ -1,5 +1,5 @@
-animeTitle	b'Majimoji Rurumo: Kanketsu-hen'
-animeType	b'OVA'
+animeTitle	Majimoji Rurumo: Kanketsu-hen
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.41
 animeUsers	3261
 animeRank	
-animePopularity	
-animeDescription	b'Bundled with the with the ninth limited edition volume of the Majimoji Rurumo: Houkago no Mahou Chuugakusei manga.'
-animeRelated	[b'Majimoji Rurumo', b'Majimoji Rurumo: Makai-hen']
-animeCharacters	[b'Maji Mojiruka, Rurumo', b'Shibaki, Kouta', b'Chiro', b'Warura, Haruriri', b'Kujirai, Tanako', b'Senpai', b'Shibaki, Seitarou', b'Shibaki, Mother', b'Inoue, Sumiko', b'Izumi, Kyouko']
-animeVoices	[b'\nMimori, Suzuko\nJapanese\n', b'\nTakahashi, Makoto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurai, Chikara\n\nDirector\n\n', b'\nMinakami, Seishi\n\nScript\n\n', b'\nWatanabe, Wataru\n\nOriginal Creator\n\n', b'\nIwakura, Kazunori\n\nCharacter Design\n\n']
+animePopularity	5950
+animeDescription	Bundled with the with the ninth limited edition volume of the Majimoji Rurumo: Houkago no Mahou Chuugakusei manga.
+animeRelated	['Majimoji Rurumo', 'Majimoji Rurumo: Makai-hen']
+animeCharacters	['Maji Mojiruka, Rurumo', 'Shibaki, Kouta', 'Chiro', 'Warura, Haruriri', 'Kujirai, Tanako', 'Senpai', 'Shibaki, Seitarou', 'Shibaki, Mother', 'Inoue, Sumiko', 'Izumi, Kyouko']
+animeVoices	['Mimori, Suzuko', 'Takahashi, Makoto']
+animeStaff	[['Sakurai, Chikara', 'Director'], ['Minakami, Seishi', 'Script'], ['Watanabe, Wataru', 'Original Creator'], ['Iwakura, Kazunori', 'Character Design']]

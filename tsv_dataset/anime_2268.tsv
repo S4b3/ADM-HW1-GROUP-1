@@ -1,5 +1,5 @@
-animeTitle	b'Dogs: Bullets & Carnage'
-animeType	b'OVA'
+animeTitle	Dogs: Bullets & Carnage
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.33
 animeUsers	27632
 animeRank	
-animePopularity	
-animeDescription	b'It is sometime in the future, where a certain European city extends far underground, even secret, dark levels that have the key to the past. Ex-assassin Mihai has returned and is living with Kiri, who now runs a restaurant. Sword-wielding Naoto, Haine (white hair), a mysterious product of genetic engineering and his sometime partner Badou (eyepatch).\n\n(Source: ANN)'
-animeRelated	[b'Dogs: Bullets & Carnage', b'Dogs: Stray Dogs Howling in the Dark']
-animeCharacters	[b'Nails, Badou', b'Rammsteiner, Haine', b'Fuyumine, Naoto', b'Mihaeroff, Mihai', b'Nill', b'Rammsteiner, Giovanni', b'Rammsteiner, Ernst', b'Fuyumine, Magato', b'Mimi', b'Kiri']
-animeVoices	[b'\nIshida, Akira\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nNakahara, Shigeru\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nMiwa, Shirow\n\nOriginal Creator\n\n', b'\nIkeda, Shigemi\n\nArt Director\n\n', b'\nIshii, Kumi\n\nCharacter Design\n\n']
+animePopularity	2310
+animeDescription	"It is sometime in the future, where a certain European city extends far underground, even secret, dark levels that have the key to the past. Ex-assassin Mihai has returned and is living with Kiri, who now runs a restaurant. Sword-wielding Naoto, Haine (white hair), a mysterious product of genetic engineering and his sometime partner Badou (eyepatch).
+
+(Source: ANN)"
+animeRelated	['Dogs: Bullets & Carnage', 'Dogs: Stray Dogs Howling in the Dark']
+animeCharacters	['Nails, Badou', 'Rammsteiner, Haine', 'Fuyumine, Naoto', 'Mihaeroff, Mihai', 'Nill', 'Rammsteiner, Giovanni', 'Rammsteiner, Ernst', 'Fuyumine, Magato', 'Mimi', 'Kiri']
+animeVoices	['Ishida, Akira', 'Sakurai, Takahiro', 'Itou, Shizuka', 'Ootsuka, Akio', 'Noto, Mamiko', 'Nakahara, Shigeru', 'Seki, Toshihiko', 'Kusao, Takeshi', 'Shiraishi, Ryouko', 'Ohara, Sayaka']
+animeStaff	[['Motoyama, Satoshi', 'Sound Director'], ['Miwa, Shirow', 'Original Creator'], ['Ikeda, Shigemi', 'Art Director'], ['Ishii, Kumi', 'Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Kaginado'
-animeType	b'TV'
+animeTitle	Kaginado
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.17
 animeUsers	1334
 animeRank	
-animePopularity	
-animeDescription	b'A crossover television anime featuring chibi renditions of characters from Kanon, Air, Clannad, Little Busters!, Rewrite, and additional Key franchises to be revealed at a later date.\n\n(Source: MAL News)'
-animeRelated	[b'Air', b'Kanon', b'Kanon (2006)', b'Clannad', b'Little Busters!', b'Rewrite', b'Planetarian: Hoshi no Hito']
-animeCharacters	[b'Okazaki, Tomoya', b'Furukawa, Nagisa', b'Sakagami, Tomoyo', b'Fujibayashi, Kyou', b'Ibuki, Fuuko', b'Ichinose, Kotomi', b'Tsukimiya, Ayu', b'Kamio, Misuzu', b'Natsume, Kyousuke', b'Kawasumi, Mai']
-animeVoices	[b'\nNakamura, Yuuichi\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n', b'\nNonaka, Ai\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nSanada, Asami\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nTamura, Yukari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakamoto, Kazuya\n\nDirector\n\n', b'\nMaeda, Akane\n\nSound Director\n\n', b'\nAoshima, Takashi\n\nScript, Series Composition\n\n', b'\nOkano, Touya\n\nScript\n\n']
+animePopularity	4342
+animeDescription	"A crossover television anime featuring chibi renditions of characters from Kanon, Air, Clannad, Little Busters!, Rewrite, and additional Key franchises to be revealed at a later date.
+
+(Source: MAL News)"
+animeRelated	['Air', 'Kanon', 'Kanon (2006)', 'Clannad', 'Little Busters!', 'Rewrite', 'Planetarian: Hoshi no Hito']
+animeCharacters	['Okazaki, Tomoya', 'Furukawa, Nagisa', 'Sakagami, Tomoyo', 'Fujibayashi, Kyou', 'Ibuki, Fuuko', 'Ichinose, Kotomi', 'Tsukimiya, Ayu', 'Kamio, Misuzu', 'Natsume, Kyousuke', 'Kawasumi, Mai']
+animeVoices	['Nakamura, Yuuichi', 'Nakahara, Mai', 'Kuwashima, Houko', 'Hirohashi, Ryou', 'Nonaka, Ai', 'Noto, Mamiko', 'Horie, Yui', 'Sanada, Asami', 'Midorikawa, Hikaru', 'Tamura, Yukari']
+animeStaff	[['Sakamoto, Kazuya', 'Director'], ['Maeda, Akane', 'Sound Director'], ['Aoshima, Takashi', 'Script, Series Composition'], ['Okano, Touya', 'Script']]

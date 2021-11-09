@@ -1,5 +1,5 @@
-animeTitle	b'RahXephon: Kansoukyoku/Kanojo to Kanojo Jishin to - Thatness and Thereness'
-animeType	b'OVA'
+animeTitle	RahXephon: Kansoukyoku/Kanojo to Kanojo Jishin to - Thatness and Thereness
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.31
 animeUsers	2783
 animeRank	
-animePopularity	
-animeDescription	"b'Quon Kisaragi was surprised when she saw an illusion of herself floating in midair. This other ""self"" of her claimed that she is a fragment of Quon. Thus an existentialistic dialogue began between the two.\n\n(Source: ANN)'"
-animeRelated	[b'RahXephon']
-animeCharacters	[b'Kisaragi, Quon', b'Kisaragi, Itsuki']
-animeVoices	[b'\nKuwashima, Houko\nJapanese\n', b'\nMiyamoto, Mitsuru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMinami, Masahiko\n\nProducer\n\n', b'\nSasaki, Shirou\n\nProducer\n\n', b'\nKyouda, Tomoki\n\nDirector, Script\n\n', b'\nSakamoto, Maaya\n\nTheme Song Performance\n\n']
+animePopularity	6180
+animeDescription	"Quon Kisaragi was surprised when she saw an illusion of herself floating in midair. This other ""self"" of her claimed that she is a fragment of Quon. Thus an existentialistic dialogue began between the two.
+
+(Source: ANN)"
+animeRelated	['RahXephon']
+animeCharacters	['Kisaragi, Quon', 'Kisaragi, Itsuki']
+animeVoices	['Kuwashima, Houko', 'Miyamoto, Mitsuru']
+animeStaff	[['Minami, Masahiko', 'Producer'], ['Sasaki, Shirou', 'Producer'], ['Kyouda, Tomoki', 'Director, Script'], ['Sakamoto, Maaya', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Endless Serenade'
-animeType	b'OVA'
+animeTitle	Endless Serenade
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.51
 animeUsers	637
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the visual novel by DISKDREAM. \n\nYuji can't deny it \xe2\x80\x94he's infatuated with Satsuki. She's the center of his every waking thought, the star of his every wet dream\xe2\x80\xa6 There's just one major problem. Satsuki is his late brother's fiance. Now, a year after his brother's death, Yuji is hoping the day has finally come to make his move, but a steamy night with Miki, the shy red-headed girl at work, could change everything. Should he be with the girl he's always wanted, or the girl who's always wanted him? """
+animePopularity	9580
+animeDescription	"Based on the visual novel by DISKDREAM. 
+
+Yuji can't deny it —he's infatuated with Satsuki. She's the center of his every waking thought, the star of his every wet dream… There's just one major problem. Satsuki is his late brother's fiance. Now, a year after his brother's death, Yuji is hoping the day has finally come to make his move, but a steamy night with Miki, the shy red-headed girl at work, could change everything. Should he be with the girl he's always wanted, or the girl who's always wanted him? "
 animeRelated	[]
-animeCharacters	[b'Satsuki']
-animeVoices	[b'\nSango, Minako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOmata, Shinichi\n\nProducer\n\n', b'\nMurakami, Teruaki\n\nDirector, Storyboard, Key Animation, Animation Director, Character Design\n\n', b'\nYoshida, Tomohiro\n\nSound Director\n\n', b'\nIida, Hiroyoshi\n\nKey Animation\n\n']
+animeCharacters	['Satsuki']
+animeVoices	['Sango, Minako']
+animeStaff	[['Omata, Shinichi', 'Producer'], ['Murakami, Teruaki', 'Director, Storyboard, Key Animation, Animation Director, Character Design'], ['Yoshida, Tomohiro', 'Sound Director'], ['Iida, Hiroyoshi', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Tomie'
-animeType	b'Special'
+animeTitle	Tomie
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.05
 animeUsers	9507
 animeRank	
-animePopularity	
-animeDescription	"b""Memories, both good and bad, suffuse the high school experience. Whether it's hanging out with friends or cramming for tests, everyone has something they will remember from that time in their lives. At a certain high school, one class is faced with an event that can cause people to look back on their high school days in sadness: the death of a student.\n\nThe deceased is not just any student\xe2\x80\x94she's Tomie Kawakami, a popular girl with an almost otherworldly beauty. Her death was particularly gruesome: her body was dismembered and the pieces scattered. As the class tries to make sense of the situation, they are shocked when a familiar voice calls out to them from the doorway, apologizing for being late.\n\nWith raven hair and a beauty mark under her left eye, this girl is the spitting image of their murdered classmate. But she can't actually be Tomie, right?\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Tomie', b'Itou Junji: Collection']
-animeCharacters	[b'Tomie', b'Takagi', b'Tadashi, Kitayama', b'Yukiko, Mio', b'Yamamoto', b'Reiko']
+animePopularity	3647
+animeDescription	"Memories, both good and bad, suffuse the high school experience. Whether it's hanging out with friends or cramming for tests, everyone has something they will remember from that time in their lives. At a certain high school, one class is faced with an event that can cause people to look back on their high school days in sadness: the death of a student.
+
+The deceased is not just any student—she's Tomie Kawakami, a popular girl with an almost otherworldly beauty. Her death was particularly gruesome: her body was dismembered and the pieces scattered. As the class tries to make sense of the situation, they are shocked when a familiar voice calls out to them from the doorway, apologizing for being late.
+
+With raven hair and a beauty mark under her left eye, this girl is the spitting image of their murdered classmate. But she can't actually be Tomie, right?
+
+[Written by MAL Rewrite]"
+animeRelated	['Tomie', 'Itou Junji: Collection']
+animeCharacters	['Tomie', 'Takagi', 'Tadashi, Kitayama', 'Yukiko, Mio', 'Yamamoto', 'Reiko']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nIto, Junji\n\nOriginal Creator\n\n']
+animeStaff	[['Ito, Junji', 'Original Creator']]

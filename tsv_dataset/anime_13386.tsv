@@ -1,5 +1,5 @@
-animeTitle	b'Shuukan Shimakou Special'
-animeType	b'ONA'
+animeTitle	Shuukan Shimakou Special
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Preview episode aired online.'
-animeRelated	[b'Kachou Shima Kousaku', b'Shuukan Shimakou']
-animeCharacters	[b'Shima, Kousaku']
-animeVoices	[b'\nFROGMAN\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirokane, Kenshi\n\nOriginal Creator\n\n']
+animePopularity	15098
+animeDescription	Preview episode aired online.
+animeRelated	['Kachou Shima Kousaku', 'Shuukan Shimakou']
+animeCharacters	['Shima, Kousaku']
+animeVoices	['FROGMAN']
+animeStaff	[['Hirokane, Kenshi', 'Original Creator']]

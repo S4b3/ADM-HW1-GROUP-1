@@ -1,5 +1,5 @@
-animeTitle	b'Kikou Ryohei Mellowlink'
-animeType	b'OVA'
+animeTitle	Kikou Ryohei Mellowlink
+animeType	OVA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.13
 animeUsers	2281
 animeRank	
-animePopularity	
-animeDescription	b'As the sole survivor from a squad that was sacrificed and hung out as scapegoats for embezzlement of military resources at the end of the 100 years war, Mellowlink Arity is out for revenge.\n\nCarrying the dogtags of his deceased comrades and armed with a dated anti AT rifle, he swears to hunt down and exact revenge on the corrupt officers that betrayed his squad, and maybe even uncover the truth behind the plot as well.'
-animeRelated	[b'Soukou Kihei Votoms']
-animeCharacters	[b'Arity, Mellowlink', b'Carradine, Keak', b'Ramon, Lulucy', b'Boil, Major', b'Dockmaan', b'Snook', b'von Helmechion, Oscar', b'Numerikov', b'Bolf', b'Fox, Galvin']
-animeVoices	[b'\nMatsumoto, Yasunori\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nTamagawa, Sakiko\nJapanese\n', b'\nKanemoto, Shingo\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nKatou, Seizou\nJapanese\n', b'\nSaka, Osamu\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nNaya, Rokurou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKanda, Takeyuki\n\nDirector, Storyboard\n\n', b'\nWatanabe, Shinichiro\n\nEpisode Director\n\n', b'\nTakamatsu, Shinji\n\nEpisode Director, Storyboard\n\n', b'\nImanishi, Takashi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	5813
+animeDescription	"As the sole survivor from a squad that was sacrificed and hung out as scapegoats for embezzlement of military resources at the end of the 100 years war, Mellowlink Arity is out for revenge.
+
+Carrying the dogtags of his deceased comrades and armed with a dated anti AT rifle, he swears to hunt down and exact revenge on the corrupt officers that betrayed his squad, and maybe even uncover the truth behind the plot as well."
+animeRelated	['Soukou Kihei Votoms']
+animeCharacters	['Arity, Mellowlink', 'Carradine, Keak', 'Ramon, Lulucy', 'Boil, Major', 'Dockmaan', 'Snook', 'von Helmechion, Oscar', 'Numerikov', 'Bolf', 'Fox, Galvin']
+animeVoices	['Matsumoto, Yasunori', 'Ootsuka, Akio', 'Tamagawa, Sakiko', 'Kanemoto, Shingo', 'Nagai, Ichiro', 'Katou, Seizou', 'Saka, Osamu', 'Yamadera, Kouichi', 'Naya, Rokurou']
+animeStaff	[['Kanda, Takeyuki', 'Director, Storyboard'], ['Watanabe, Shinichiro', 'Episode Director'], ['Takamatsu, Shinji', 'Episode Director, Storyboard'], ['Imanishi, Takashi', 'Episode Director, Storyboard']]

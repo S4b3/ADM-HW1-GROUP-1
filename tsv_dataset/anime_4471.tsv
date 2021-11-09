@@ -1,5 +1,5 @@
-animeTitle	b'Nagagutsu wo Haita Neko: 80 Nichikan Sekai Isshuu'
-animeType	b'Movie'
+animeTitle	Nagagutsu wo Haita Neko: 80 Nichikan Sekai Isshuu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.83
 animeUsers	865
 animeRank	
-animePopularity	
-animeDescription	b'Brave cat Pero once had a bet with treacherous multimillionarie Grumon that he can travel around the world in 80 days. The stake is high, in case of success Grumon will give all of his fortune to Pero, but in case of failure Pero becomes slave of Grumon for the rest of his life. Pero departs together with his faithful friends behemoth Kato and brave Small Mouse. Grumon tries everything to prevent their arrival to the finish. \n\n(Source: AniDB)'
-animeRelated	[b'Nagagutsu wo Haita Neko', b'Nagagutsu Sanjuushi']
-animeCharacters	[b'Pero']
+animePopularity	10026
+animeDescription	"Brave cat Pero once had a bet with treacherous multimillionarie Grumon that he can travel around the world in 80 days. The stake is high, in case of success Grumon will give all of his fortune to Pero, but in case of failure Pero becomes slave of Grumon for the rest of his life. Pero departs together with his faithful friends behemoth Kato and brave Small Mouse. Grumon tries everything to prevent their arrival to the finish. 
+
+(Source: AniDB)"
+animeRelated	['Nagagutsu wo Haita Neko', 'Nagagutsu Sanjuushi']
+animeCharacters	['Pero']
 animeVoices	[]
-animeStaff	"[b'\n\n\n\n\n\n', b""\nKoorogi '73\n\nTheme Song Performance, Inserted Song Performance\n\n"", b'\nPerrault, Charles\n\nOriginal Creator\n\n', b'\nOkuyama, Reiko\n\nKey Animation\n\n', b'\nTsuchida, Isamu\n\nArt Director\n\n']"
+animeStaff	"[[""Koorogi '73"", 'Theme Song Performance, Inserted Song Performance'], ['Perrault, Charles', 'Original Creator'], ['Okuyama, Reiko', 'Key Animation'], ['Tsuchida, Isamu', 'Art Director']]"

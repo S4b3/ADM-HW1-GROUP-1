@@ -1,5 +1,5 @@
-animeTitle	b'Deimos no Hanayome: Ran no Kumikyoku'
-animeType	b'OVA'
+animeTitle	Deimos no Hanayome: Ran no Kumikyoku
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.67
 animeUsers	1751
 animeRank	
-animePopularity	
-animeDescription	"b""Two siblings were happy on Mt. Olympus, until they fell in love. Deimo's sister Venus got imprisoned in the Swamp of Death. To save Venus's life, he must find a human reincarnation so that they can continue their love.\n\n(Source: ANN)"""
-animeRelated	[b'Deimos no Hanayome']
-animeCharacters	[b'Deimos', b'Ifu, Minako', b'Ooba, Kaname', b'Venus', b'Hisamatsu', b'Ooba, Touko']
-animeVoices	[b'\nNozawa, Nachi\nJapanese\n', b'\nShou, Mayumi\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nMutou, Reiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nRintaro\n\nDirector\n\n', b'\nHamasaki, Hiroshi\n\nCharacter Design, Key Animation, Animation Director\n\n', b'\nOga, Kazuo\n\nBackground Art\n\n', b'\nNakura, Yasuhiro\n\nKey Animation\n\n']
+animePopularity	7280
+animeDescription	"Two siblings were happy on Mt. Olympus, until they fell in love. Deimo's sister Venus got imprisoned in the Swamp of Death. To save Venus's life, he must find a human reincarnation so that they can continue their love.
+
+(Source: ANN)"
+animeRelated	['Deimos no Hanayome']
+animeCharacters	['Deimos', 'Ifu, Minako', 'Ooba, Kaname', 'Venus', 'Hisamatsu', 'Ooba, Touko']
+animeVoices	['Nozawa, Nachi', 'Shou, Mayumi', 'Shiozawa, Kaneto', 'Fujita, Toshiko', 'Kusao, Takeshi', 'Mutou, Reiko']
+animeStaff	[['Rintaro', 'Director'], ['Hamasaki, Hiroshi', 'Character Design, Key Animation, Animation Director'], ['Oga, Kazuo', 'Background Art'], ['Nakura, Yasuhiro', 'Key Animation']]

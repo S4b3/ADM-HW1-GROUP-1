@@ -1,5 +1,5 @@
-animeTitle	b'Pretty Rhythm: All Star Selection'
-animeType	b'TV'
+animeTitle	Pretty Rhythm: All Star Selection
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.46
 animeUsers	595
 animeRank	
-animePopularity	
-animeDescription	"b""This is the fourth anime series of Pretty Rhythm. The story features a girl named Laala Manaka, who desires to become an Idol. To further her debut the best, the three main protagonists from the previous Pretty Rhythm series Aira, Mia, and Naru give her lessons about how to be the best Idol. In addition to the lessons she's learning, the series also retells the events of the previous Pretty Rhythm series.\n\n(Source: Pretty Rhythm Wiki)"""
-animeRelated	[b'Pretty Rhythm: Aurora Dream', b'Pretty Rhythm: Dear My Future', b'Pretty Rhythm: Rainbow Live', b'Pretty Rhythm Movie: All Star Selection - Prism Show\xe2\x98\x86Best Ten', b'PriPara']
-animeCharacters	[b'Manaka, Laala', b'Harune, Aira', b'Ayase, Naru', b'Ageha, Mia', b'Amamiya, Rizumu', b'Takamine, Mion', b'Ibara, Rinne', b'Renjouji, Bell', b'Morizono, Wakana', b'Hayami, Hiro']
-animeVoices	[b'\nAkaneya, Himika\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nKatou, Emiri\nJapanese\n', b'\nOokubo, Rumi\nJapanese\n', b'\nHara, Sayuri\nJapanese\n', b'\nEnoki, Azusa\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHishida, Masakazu\n\nDirector\n\n', b'\nAsumi, Kana\n\nTheme Song Performance\n\n', b'\nHara, Sayuri\n\nTheme Song Performance\n\n', b'\nEnoki, Azusa\n\nTheme Song Performance\n\n']
+animePopularity	8570
+animeDescription	"This is the fourth anime series of Pretty Rhythm. The story features a girl named Laala Manaka, who desires to become an Idol. To further her debut the best, the three main protagonists from the previous Pretty Rhythm series Aira, Mia, and Naru give her lessons about how to be the best Idol. In addition to the lessons she's learning, the series also retells the events of the previous Pretty Rhythm series.
+
+(Source: Pretty Rhythm Wiki)"
+animeRelated	['Pretty Rhythm: Aurora Dream', 'Pretty Rhythm: Dear My Future', 'Pretty Rhythm: Rainbow Live', 'Pretty Rhythm Movie: All Star Selection - Prism Show☆Best Ten', 'PriPara']
+animeCharacters	['Manaka, Laala', 'Harune, Aira', 'Ayase, Naru', 'Ageha, Mia', 'Amamiya, Rizumu', 'Takamine, Mion', 'Ibara, Rinne', 'Renjouji, Bell', 'Morizono, Wakana', 'Hayami, Hiro']
+animeVoices	['Akaneya, Himika', 'Asumi, Kana', 'Katou, Emiri', 'Ookubo, Rumi', 'Hara, Sayuri', 'Enoki, Azusa', 'Sakura, Ayane', 'Tomatsu, Haruka', 'Uchida, Maaya', 'Maeno, Tomoaki']
+animeStaff	[['Hishida, Masakazu', 'Director'], ['Asumi, Kana', 'Theme Song Performance'], ['Hara, Sayuri', 'Theme Song Performance'], ['Enoki, Azusa', 'Theme Song Performance']]

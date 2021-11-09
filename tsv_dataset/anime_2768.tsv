@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 38: Nobita no Takarajima'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 38: Nobita no Takarajima
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.22
 animeUsers	2288
 animeRank	
-animePopularity	
-animeDescription	b'Doraemon: Nobita no Takarajima takes the well-known characters to the Caribbean Sea; Nobita is the captain of a ship and fights against his enemies. Shizuka is kidnapped and a storm prevents her persecution. When the adventurers finally find the mysterious Treasure Island, where they have taken Shizuka, they discover that it is something more than a common island.\n\n(Source: Official Website)'
-animeRelated	[b'Doraemon (2005)']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi', b'Fiona', b'Quiz', b'Captain Silver', b'Gaga', b'Vivi']
-animeVoices	[b'\nMizuta, Wasabi\nJapanese\n', b'\nOohara, Megumi\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nKimura, Subaru\nJapanese\n', b'\nOizumi, Yo\nJapanese\n', b'\nHayami, Saori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImai, Kazuaki\n\nDirector, Storyboard\n\n', b'\nTanaka, Akiyoshi\n\nSound Director\n\n', b'\nHatta, Yousuke\n\nEpisode Director\n\n', b'\nKawamura, Genki\n\nScript\n\n']
+animePopularity	7577
+animeDescription	"Doraemon: Nobita no Takarajima takes the well-known characters to the Caribbean Sea; Nobita is the captain of a ship and fights against his enemies. Shizuka is kidnapped and a storm prevents her persecution. When the adventurers finally find the mysterious Treasure Island, where they have taken Shizuka, they discover that it is something more than a common island.
+
+(Source: Official Website)"
+animeRelated	['Doraemon (2005)']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Fiona', 'Quiz', 'Captain Silver', 'Gaga', 'Vivi']
+animeVoices	['Mizuta, Wasabi', 'Oohara, Megumi', 'Kakazu, Yumi', 'Seki, Tomokazu', 'Kimura, Subaru', 'Oizumi, Yo', 'Hayami, Saori']
+animeStaff	[['Imai, Kazuaki', 'Director, Storyboard'], ['Tanaka, Akiyoshi', 'Sound Director'], ['Hatta, Yousuke', 'Episode Director'], ['Kawamura, Genki', 'Script']]

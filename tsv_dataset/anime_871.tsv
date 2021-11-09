@@ -1,4 +1,4 @@
-animeTitle	b'The Everlasting Guilty Crown'
+animeTitle	The Everlasting Guilty Crown
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.79
 animeUsers	15355
 animeRank	
-animePopularity	
-animeDescription	"b'""The Everlasting Guilty Crown"" is the second single by the music group EGOIST and is used as the second opening theme song of Guilty Crown. The limited edition release includes a DVD with a music video of the song\'s TV edit, animated in 3D CGI.'"
-animeRelated	[b'Guilty Crown']
-animeCharacters	[b'Yuzuriha, Inori']
+animePopularity	3203
+animeDescription	"""The Everlasting Guilty Crown"" is the second single by the music group EGOIST and is used as the second opening theme song of Guilty Crown. The limited edition release includes a DVD with a music video of the song's TV edit, animated in 3D CGI."
+animeRelated	['Guilty Crown']
+animeCharacters	['Yuzuriha, Inori']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Kouji\n\nProducer\n\n', b'\nKimura, Makoto\n\nProducer\n\n', b'\nEGOIST\n\nTheme Song Performance\n\n', b'\nryo\n\nTheme Song Lyrics, Theme Song Composition, Theme Song Arrangement\n\n']
+animeStaff	[['Yamamoto, Kouji', 'Producer'], ['Kimura, Makoto', 'Producer'], ['EGOIST', 'Theme Song Performance'], ['ryo', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement']]

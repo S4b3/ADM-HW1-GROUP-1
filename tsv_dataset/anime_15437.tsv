@@ -1,5 +1,5 @@
-animeTitle	b'Dokachin'
-animeType	b'TV'
+animeTitle	Dokachin
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'When a time machine explodes, the primitive Dokachin family appears, causing mischief in the neighborhood. Each episode contains 2 stories. \n\n(Source: AniDB)'
+animePopularity	14927
+animeDescription	"When a time machine explodes, the primitive Dokachin family appears, causing mischief in the neighborhood. Each episode contains 2 stories. 
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Dokachin']
+animeCharacters	['Dokachin']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshida, Tatsuo\n\nProducer, Original Creator, Planning\n\n', b'\nSasagawa, Hiroshi\n\nDirector, Episode Director\n\n', b'\nToriumi, Jinzou\n\nSeries Composition, Screenplay\n\n']
+animeStaff	[['Yoshida, Tatsuo', 'Producer, Original Creator, Planning'], ['Sasagawa, Hiroshi', 'Director, Episode Director'], ['Toriumi, Jinzou', 'Series Composition, Screenplay']]

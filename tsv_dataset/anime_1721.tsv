@@ -1,5 +1,5 @@
-animeTitle	b'Be-Bop Highschool'
-animeType	b'OVA'
+animeTitle	Be-Bop Highschool
+animeType	OVA
 animeNumEpisode	7
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.47
 animeUsers	1304
 animeRank	
-animePopularity	
-animeDescription	b'For the invincible and basically happy punk lads Hiroshi and Toru, what they care about every day is to get a lot of attention from girls and to win the fights against the lads from other schools. Whenever provoked, they just go out fighting and settle the situation no matter what it costs.\n\n(Source: AniDB)'
-animeRelated	[b'Be-Bop-Highschool', b'Be-Bop Kaizokuban']
-animeCharacters	[b'Nakama, Tooru', b'Katou, Hiroshi', b'Miharayama, Junko']
-animeVoices	[b'\nTachiki, Fumihiko\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKakudou, Hiroyuki\n\nDirector\n\n', b'\nHayama, Junichi\n\nAnimation Director\n\n', b'\nHigashi, Junichi\n\nArt Director\n\n', b'\nHamasu, Hideki\n\nAssistant Animation Director, Key Animation\n\n']
+animePopularity	6512
+animeDescription	"For the invincible and basically happy punk lads Hiroshi and Toru, what they care about every day is to get a lot of attention from girls and to win the fights against the lads from other schools. Whenever provoked, they just go out fighting and settle the situation no matter what it costs.
+
+(Source: AniDB)"
+animeRelated	['Be-Bop-Highschool', 'Be-Bop Kaizokuban']
+animeCharacters	['Nakama, Tooru', 'Katou, Hiroshi', 'Miharayama, Junko']
+animeVoices	['Tachiki, Fumihiko', 'Onosaka, Masaya']
+animeStaff	[['Kakudou, Hiroyuki', 'Director'], ['Hayama, Junichi', 'Animation Director'], ['Higashi, Junichi', 'Art Director'], ['Hamasu, Hideki', 'Assistant Animation Director, Key Animation']]

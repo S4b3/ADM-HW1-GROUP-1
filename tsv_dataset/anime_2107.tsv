@@ -1,5 +1,5 @@
-animeTitle	b'Afro Samurai'
-animeType	b'TV'
+animeTitle	Afro Samurai
+animeType	TV
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.36
 animeUsers	169964
 animeRank	
-animePopularity	
-animeDescription	"b""When he was a young boy, Afro witnessed his father be cut down in a duel at the hands of a man known only as Justice. After taking the life of Afro's father, Justice cast aside his Number Two headband and took the Number One to claim its godly powers as his own.\n\nYears later, having obtained the Number Two headband which grants him the right to challenge the Number One, Afro moves forward in his hunt for revenge on the man who murdered his father. There is just one thing that stands in his way\xe2\x80\x94everyone else in the world! Though the Number One can only be challenged by the Number Two, the Number Two can be challenged by anyone. As his enemies gather to try and take the title of Number Two, Afro must fight through a myriad of foes and obstacles if he hopes to reach the Number One and claim vengeance once and for all.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Afro Samurai', b'Afro Samurai: Resurrection', b'Afro Samurai Movie', b'Afro Samurai Pilot']
-animeCharacters	[b'Samurai, Afro', b'Ninja Ninja', b'Jinno', b'Justice', b'Otsuru', b'Sasuke', b'Brother One', b'Rukotaro', b'Sword Master', b'Yashichi']
+animePopularity	544
+animeDescription	"When he was a young boy, Afro witnessed his father be cut down in a duel at the hands of a man known only as Justice. After taking the life of Afro's father, Justice cast aside his Number Two headband and took the Number One to claim its godly powers as his own.
+
+Years later, having obtained the Number Two headband which grants him the right to challenge the Number One, Afro moves forward in his hunt for revenge on the man who murdered his father. There is just one thing that stands in his way—everyone else in the world! Though the Number One can only be challenged by the Number Two, the Number Two can be challenged by anyone. As his enemies gather to try and take the title of Number Two, Afro must fight through a myriad of foes and obstacles if he hopes to reach the Number One and claim vengeance once and for all.
+
+[Written by MAL Rewrite]"
+animeRelated	['Afro Samurai', 'Afro Samurai: Resurrection', 'Afro Samurai Movie', 'Afro Samurai Pilot']
+animeCharacters	['Samurai, Afro', 'Ninja Ninja', 'Jinno', 'Justice', 'Otsuru', 'Sasuke', 'Brother One', 'Rukotaro', 'Sword Master', 'Yashichi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKizaki, Fuminori\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nYamashita, Tomohiro\n\nScript\n\n', b'\nRZA\n\nTheme Song Performance, Music\n\n']
+animeStaff	[['Kizaki, Fuminori', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Yamashita, Tomohiro', 'Script'], ['RZA', 'Theme Song Performance, Music']]

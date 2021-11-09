@@ -1,4 +1,4 @@
-animeTitle	b'Pluto'
+animeTitle	Pluto
 animeType	Unknown
 animeNumEpisode	Unknown
 releaseDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Based off of a story arc from Osamu Tezuka's Tetsuwan Atom, Pluto follows the Europol detective Gesicht as he tries to uncover the mystery behind a string of robot and human deaths. The case becomes much more puzzling when evidence leans toward the murders being the work of a robot, which is something that hasn't happened for 8 years.\n\n(Source: ANN)"""
-animeRelated	[b'Pluto']
-animeCharacters	[b'Gesicht', b'Atom']
+animePopularity	5790
+animeDescription	"Based off of a story arc from Osamu Tezuka's Tetsuwan Atom, Pluto follows the Europol detective Gesicht as he tries to uncover the mystery behind a string of robot and human deaths. The case becomes much more puzzling when evidence leans toward the murders being the work of a robot, which is something that hasn't happened for 8 years.
+
+(Source: ANN)"
+animeRelated	['Pluto']
+animeCharacters	['Gesicht', 'Atom']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaruyama, Masao\n\nProducer\n\n', b'\nUrasawa, Naoki\n\nOriginal Creator\n\n', b'\nTezuka, Osamu\n\nOriginal Creator\n\n']
+animeStaff	[['Maruyama, Masao', 'Producer'], ['Urasawa, Naoki', 'Original Creator'], ['Tezuka, Osamu', 'Original Creator']]

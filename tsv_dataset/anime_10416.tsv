@@ -1,5 +1,5 @@
-animeTitle	b'Kanojo ga Kanji wo Suki na Riyuu.'
-animeType	b'ONA'
+animeTitle	Kanojo ga Kanji wo Suki na Riyuu.
+animeType	ONA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.49
 animeUsers	667
 animeRank	
-animePopularity	
-animeDescription	b'Anime shorts created by Studio 4\xe2\x84\x83 as a collaboration with the Japan Kanji Aptitude Test.'
+animePopularity	9743
+animeDescription	Anime shorts created by Studio 4℃ as a collaboration with the Japan Kanji Aptitude Test.
 animeRelated	[]
-animeCharacters	[b'Sagara, Yuusuke', b'Hatano, Natsumi', b'Hirai, Haruka']
-animeVoices	[b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nIida, Yuuko\nJapanese\n', b'\nSuzaki, Aya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSaitou, Akiko\n\nDirector\n\n', b'\nKubooka, Toshiyuki\n\nCharacter Design\n\n', b'\nFutamatsu, Mari\n\nAnimation Director\n\n', b'\nItou, Hiroyuki\n\nArt Director\n\n']
+animeCharacters	['Sagara, Yuusuke', 'Hatano, Natsumi', 'Hirai, Haruka']
+animeVoices	['Matsuoka, Yoshitsugu', 'Iida, Yuuko', 'Suzaki, Aya']
+animeStaff	[['Saitou, Akiko', 'Director'], ['Kubooka, Toshiyuki', 'Character Design'], ['Futamatsu, Mari', 'Animation Director'], ['Itou, Hiroyuki', 'Art Director']]

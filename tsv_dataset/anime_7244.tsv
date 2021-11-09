@@ -1,5 +1,5 @@
-animeTitle	b'Get Ride! AMDriver'
-animeType	b'TV'
+animeTitle	Get Ride! AMDriver
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.29
 animeUsers	249
 animeRank	
-animePopularity	
-animeDescription	"b'In the future, human beings are attacked by beings called the Bug-chine, which appeared a few years back. No normal human weapon can defeat the Bug-chine, but there is hope. It is the AMDrivers that will save the earth. They are solders using the latest ""AM Technology"". With overwhelming power, they will beat the Bug-chine one after another and become heroes, as well as capture the hearts of their fans.\n\n(Source: ANN)'"
+animePopularity	9730
+animeDescription	"In the future, human beings are attacked by beings called the Bug-chine, which appeared a few years back. No normal human weapon can defeat the Bug-chine, but there is hope. It is the AMDrivers that will save the earth. They are solders using the latest ""AM Technology"". With overwhelming power, they will beat the Bug-chine one after another and become heroes, as well as capture the hearts of their fans.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Mei, Sera', b'Dira, Jenus', b'Lawrelia, Ragna', b'Frum, June', b'Wilcott', b'Krema, Taft', b'Diglahze', b'Honjo, Jack', b'Shasha', b'Nyrguise']
-animeVoices	[b'\nMizuno, Risa\nJapanese\n', b'\nKujirai, Kousuke\nJapanese\n', b'\nMatsukaze, Masaya\nJapanese\n', b'\nKobayashi, Akiko\nJapanese\n', b'\nHayashi, Kazuo\nJapanese\n', b'\nChiba, Isshin\nJapanese\n', b'\nIwasaki, Masami\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nMyco\nJapanese\n', b'\nKojima, Kazunari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyake, Masanori\n\nProducer\n\n', b'\nYamakawa, Norio\n\nProducer\n\n', b'\nShiraishi, Michita\n\nEpisode Director\n\n', b'\nSokuza, Makoto\n\nEpisode Director\n\n']
+animeCharacters	['Mei, Sera', 'Dira, Jenus', 'Lawrelia, Ragna', 'Frum, June', 'Wilcott', 'Krema, Taft', 'Diglahze', 'Honjo, Jack', 'Shasha', 'Nyrguise']
+animeVoices	['Mizuno, Risa', 'Kujirai, Kousuke', 'Matsukaze, Masaya', 'Kobayashi, Akiko', 'Hayashi, Kazuo', 'Chiba, Isshin', 'Iwasaki, Masami', 'Toriumi, Kousuke', 'Myco', 'Kojima, Kazunari']
+animeStaff	[['Miyake, Masanori', 'Producer'], ['Yamakawa, Norio', 'Producer'], ['Shiraishi, Michita', 'Episode Director'], ['Sokuza, Makoto', 'Episode Director']]

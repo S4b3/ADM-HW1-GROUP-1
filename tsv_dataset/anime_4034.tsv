@@ -1,5 +1,5 @@
-animeTitle	b'Servamp Specials'
-animeType	b'Special'
+animeTitle	Servamp Specials
+animeType	Special
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.94
 animeUsers	3105
 animeRank	
-animePopularity	
-animeDescription	b'Specials bundled in 3rd to 6th Volumes of Servamp.'
-animeRelated	[b'Servamp']
-animeCharacters	[b'Hugh the Dark Algernon III']
+animePopularity	4367
+animeDescription	Specials bundled in 3rd to 6th Volumes of Servamp.
+animeRelated	['Servamp']
+animeCharacters	['Hugh the Dark Algernon III']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Strike\n\nOriginal Creator\n\n']
+animeStaff	[['Tanaka, Strike', 'Original Creator']]

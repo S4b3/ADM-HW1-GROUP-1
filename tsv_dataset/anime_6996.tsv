@@ -1,5 +1,5 @@
-animeTitle	b'Stratos 4: Logbook'
-animeType	b'Special'
+animeTitle	Stratos 4: Logbook
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.34
 animeUsers	543
 animeRank	
-animePopularity	
-animeDescription	b'Stratos 4 Recap episode - For everything which happened before Stratos 4 Advance started.'
-animeRelated	[b'Stratos 4', b'Stratos 4 OVA']
-animeCharacters	[b'Honjou, Mikaze', b'Kikuhara, Karin', b'Doi, Shizuha', b'Nakamura, Ayamo', b'Kisaragi, Sayaka', b'Miyazaki, Tsubasa', b'Kubo, Chizuru', b'Mikuriya, Alice', b'Mukai, Touko', b'Boozeman, Betty']
-animeVoices	[b'\nOhara, Sayaka\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMelocure\n\nTheme Song Performance\n\n']
+animePopularity	10125
+animeDescription	Stratos 4 Recap episode - For everything which happened before Stratos 4 Advance started.
+animeRelated	['Stratos 4', 'Stratos 4 OVA']
+animeCharacters	['Honjou, Mikaze', 'Kikuhara, Karin', 'Doi, Shizuha', 'Nakamura, Ayamo', 'Kisaragi, Sayaka', 'Miyazaki, Tsubasa', 'Kubo, Chizuru', 'Mikuriya, Alice', 'Mukai, Touko', 'Boozeman, Betty']
+animeVoices	['Ohara, Sayaka', 'Hiramatsu, Akiko', 'Yukino, Satsuki']
+animeStaff	[['Melocure', 'Theme Song Performance']]

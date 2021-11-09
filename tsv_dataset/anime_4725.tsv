@@ -1,5 +1,5 @@
-animeTitle	"b""Working'!! Announcement Specials"""
-animeType	b'ONA'
+animeTitle	Working'!! Announcement Specials
+animeType	ONA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.78
 animeUsers	5310
 animeRank	
-animePopularity	
-animeDescription	b'Several characters announce the new season.\n\nEpisode 1 - April Fool Announcement (Hana and Daisuke)\nEpisode 2 - True Announcement (Aoi, Popura, and Souta)'
-animeRelated	"[b""Working'!!"", b'WWW.Working!!']"
-animeCharacters	[b'Yamada, Aoi', b'Taneshima, Popura', b'Takanashi, Souta', b'Miyakoshi, Hana', b'Higashida, Daisuke']
-animeVoices	[b'\nHirohashi, Ryou\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakatsu, Karino\n\nOriginal Creator\n\n', b'\nSakamoto, Izumi\n\nColor Design\n\n']
+animePopularity	4691
+animeDescription	"Several characters announce the new season.
+
+Episode 1 - April Fool Announcement (Hana and Daisuke)
+Episode 2 - True Announcement (Aoi, Popura, and Souta)"
+animeRelated	"[""Working'!!"", 'WWW.Working!!']"
+animeCharacters	['Yamada, Aoi', 'Taneshima, Popura', 'Takanashi, Souta', 'Miyakoshi, Hana', 'Higashida, Daisuke']
+animeVoices	['Hirohashi, Ryou', 'Asumi, Kana', 'Fukuyama, Jun', 'Tomatsu, Haruka', 'Nakamura, Yuuichi']
+animeStaff	[['Takatsu, Karino', 'Original Creator'], ['Sakamoto, Izumi', 'Color Design']]

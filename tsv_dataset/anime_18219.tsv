@@ -1,5 +1,5 @@
-animeTitle	b'Zetsuai 1989'
-animeType	b'OVA'
+animeTitle	Zetsuai 1989
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.37
 animeUsers	5852
 animeRank	
-animePopularity	
-animeDescription	"b""Koji Nanjo, a young rock star, falls in love with soccer player Takuto Izumi. Koji eventually learns that Izumi's mother killed his father out of severe and intense love. Izumi took all the guilt for his father's murder and refuses to go pro because of fear that his past will be discovered by the media. Izumi detests Koji's company and encouragement and severely dislikes the attention from the press, but Koji cannot stay away for he soon realizes that his love for Izumi is very similar to the love that Izumi's mother felt for his father. \n\n(Source: ANN)"""
-animeRelated	[b'Zetsuai 1989', b'Bronze: Zetsuai Since 1989', b'Bronze: Kouji Nanjo Cathexis']
-animeCharacters	[b'Nanjou, Kouji', b'Izumi, Takuto', b'Shibuya, Katsumi', b'Horiuchi, Serika']
-animeVoices	[b'\nHayami, Show\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nNishihara, Kumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaruyama, Masao\n\nProducer\n\n', b'\nEndou, Takuji\n\nDirector\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n', b'\nUrahata, Tatsuhiko\n\nScript\n\n']
+animePopularity	5040
+animeDescription	"Koji Nanjo, a young rock star, falls in love with soccer player Takuto Izumi. Koji eventually learns that Izumi's mother killed his father out of severe and intense love. Izumi took all the guilt for his father's murder and refuses to go pro because of fear that his past will be discovered by the media. Izumi detests Koji's company and encouragement and severely dislikes the attention from the press, but Koji cannot stay away for he soon realizes that his love for Izumi is very similar to the love that Izumi's mother felt for his father. 
+
+(Source: ANN)"
+animeRelated	['Zetsuai 1989', 'Bronze: Zetsuai Since 1989', 'Bronze: Kouji Nanjo Cathexis']
+animeCharacters	['Nanjou, Kouji', 'Izumi, Takuto', 'Shibuya, Katsumi', 'Horiuchi, Serika']
+animeVoices	['Hayami, Show', 'Koyasu, Takehito', 'Yamaguchi, Kappei', 'Nishihara, Kumiko']
+animeStaff	[['Maruyama, Masao', 'Producer'], ['Endou, Takuji', 'Director'], ['Honda, Yasunori', 'Sound Director'], ['Urahata, Tatsuhiko', 'Script']]

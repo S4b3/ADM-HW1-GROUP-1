@@ -1,5 +1,5 @@
-animeTitle	b'009-1: R&B'
-animeType	b'Special'
+animeTitle	009-1: R&B
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.3
 animeUsers	1896
 animeRank	
-animePopularity	
-animeDescription	"b'Mylene Hoffman, also known by the code name ""009-1"" is a beautiful cyborg spy. Instructed by her superior ""Number Zero,"" she is assigned to eliminate a Jazz musician who is suspected to be a double agent. However, as she gets closer to the musician, she begins to slowly loses suspicions. Can she complete the mission before she falls in love?\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'009-1']
-animeCharacters	[b'Hoffman, Mylene', b'Number Zero', b'Sam']
-animeVoices	[b'\nShaku, Yumiko\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwasaki, Taku\n\nMusic\n\n', b'\nIshinomori, Shoutarou\n\nOriginal Creator\n\n', b'\nCampbell, Charles\n\nADR Director\n\n', b'\nLedford, John\n\nExecutive Producer\n\n']
+animePopularity	7181
+animeDescription	"Mylene Hoffman, also known by the code name ""009-1"" is a beautiful cyborg spy. Instructed by her superior ""Number Zero,"" she is assigned to eliminate a Jazz musician who is suspected to be a double agent. However, as she gets closer to the musician, she begins to slowly loses suspicions. Can she complete the mission before she falls in love?
+
+[Written by MAL Rewrite]"
+animeRelated	['009-1']
+animeCharacters	['Hoffman, Mylene', 'Number Zero', 'Sam']
+animeVoices	['Shaku, Yumiko', 'Ootsuka, Houchuu', 'Koyama, Rikiya']
+animeStaff	[['Iwasaki, Taku', 'Music'], ['Ishinomori, Shoutarou', 'Original Creator'], ['Campbell, Charles', 'ADR Director'], ['Ledford, John', 'Executive Producer']]

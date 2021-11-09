@@ -1,5 +1,5 @@
-animeTitle	b'Heisei Tensai Bakabon'
-animeType	b'TV'
+animeTitle	Heisei Tensai Bakabon
+animeType	TV
 animeNumEpisode	46
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.07
 animeUsers	126
 animeRank	
-animePopularity	
-animeDescription	b'A comedy about a former genius who has now become very eccentric and senile. His family deals with all the crazy problems he and his old friends cause around the neighborhood.\n\n(Source: AniDB)'
-animeRelated	[b'Tensai Bakabon', b'Rerere no Tensai Bakabon', b'Ganso Tensai Bakabon']
-animeCharacters	[b'Bakabon no Papa', b'Hajime-chan', b'Bakabon', b'Bakabon no Mama', b'Omawari-san']
-animeVoices	[b'\nTomita, Kousei\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nMizumoto, Kan\n\nSound Director\n\n', b'\nAkatsuka, Fujio\n\nOriginal Creator\n\n', b'\nHonma, Yusuke\n\nMusic\n\n']
+animePopularity	12476
+animeDescription	"A comedy about a former genius who has now become very eccentric and senile. His family deals with all the crazy problems he and his old friends cause around the neighborhood.
+
+(Source: AniDB)"
+animeRelated	['Tensai Bakabon', 'Rerere no Tensai Bakabon', 'Ganso Tensai Bakabon']
+animeCharacters	['Bakabon no Papa', 'Hajime-chan', 'Bakabon', 'Bakabon no Mama', 'Omawari-san']
+animeVoices	['Tomita, Kousei', 'Sakamoto, Chika', 'Hayashibara, Megumi', 'Masuyama, Eiko']
+animeStaff	[['Sasagawa, Hiroshi', 'Director'], ['Mizumoto, Kan', 'Sound Director'], ['Akatsuka, Fujio', 'Original Creator'], ['Honma, Yusuke', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Fight Da!! Pyuta'
-animeType	b'TV'
+animeTitle	Fight Da!! Pyuta
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A young boy uses his scientific skills to fight enemies.\n\n(Source: AniDB)'
+animePopularity	13684
+animeDescription	"A young boy uses his scientific skills to fight enemies.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Pyuta']
+animeCharacters	['Pyuta']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMitsunobu, Hiroyoshi\n\nEpisode Director, Series Composition\n\n']
+animeStaff	[['Mitsunobu, Hiroyoshi', 'Episode Director, Series Composition']]

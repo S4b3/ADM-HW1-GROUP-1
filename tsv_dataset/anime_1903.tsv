@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam SEED: SEED Supernova - Tanekyara Gekijou'
-animeType	b'Special'
+animeTitle	Mobile Suit Gundam SEED: SEED Supernova - Tanekyara Gekijou
+animeType	Special
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.42
 animeUsers	3378
 animeRank	
-animePopularity	
-animeDescription	b'The first two shorts feature the original SEED cast and deal with an attempt by Yzak Joule to reclaim his his honor from Athrun Zala after having been one-upped at seemingly every contest with him since his childhood. The last two shorts feature the Minerva crew sent back in time on comical missions from Gil in an attempt to disrupt key events of the Seed era with disastrous yet hilarious effect.\n\n(Source: ANN)'
-animeRelated	[b'Mobile Suit Gundam SEED']
-animeCharacters	[b'Yamato, Kira', b'Clyne, Lacus', b'Zala, Athrun', b'Athha, Cagalli Yula', b'Asuka, Shinn', b'Hawke, Lunamaria', b'Joule, Yzak', b'Za Burrel, Rey', b'Elsman, Dearka', b'Haro']
-animeVoices	[b'\nHoshi, Souichirou\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nShindo, Naomi\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nSasanuma, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Hajime\n\nProducer\n\n', b'\nTanaka, Rie\n\nTheme Song Performance\n\n']
+animePopularity	5951
+animeDescription	"The first two shorts feature the original SEED cast and deal with an attempt by Yzak Joule to reclaim his his honor from Athrun Zala after having been one-upped at seemingly every contest with him since his childhood. The last two shorts feature the Minerva crew sent back in time on comical missions from Gil in an attempt to disrupt key events of the Seed era with disastrous yet hilarious effect.
+
+(Source: ANN)"
+animeRelated	['Mobile Suit Gundam SEED']
+animeCharacters	['Yamato, Kira', 'Clyne, Lacus', 'Zala, Athrun', 'Athha, Cagalli Yula', 'Asuka, Shinn', 'Hawke, Lunamaria', 'Joule, Yzak', 'Za Burrel, Rey', 'Elsman, Dearka', 'Haro']
+animeVoices	['Hoshi, Souichirou', 'Tanaka, Rie', 'Ishida, Akira', 'Shindo, Naomi', 'Suzumura, Kenichi', 'Sakamoto, Maaya', 'Seki, Tomokazu', 'Seki, Toshihiko', 'Sasanuma, Akira']
+animeStaff	[['Yatate, Hajime', 'Producer'], ['Tanaka, Rie', 'Theme Song Performance']]

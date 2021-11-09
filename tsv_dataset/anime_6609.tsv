@@ -1,5 +1,5 @@
-animeTitle	b'Shingeki no Kyotou'
-animeType	b'Special'
+animeTitle	Shingeki no Kyotou
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.41
 animeUsers	5371
 animeRank	
-animePopularity	
-animeDescription	b'A special anime featuring a battle against the Colossal Titan screened at the Tokyo Skytree.\n\nIn the short, the characters from Shingeki no Kyojin are part of the Sky Survey Corps, protecting the Wall Skytree, a section of the walled city that contains the Skytree. The Sky Survey Corps find that the Wall Skytree is under attack by an army of titans, including a giant 350 meter-class titan that has suddenly appeared next to the Skytree and remains motionless.\n\n(Source: Anime Now!)'
-animeRelated	[b'Shingeki no Kyojin']
-animeCharacters	[b'Ackerman, Mikasa', b'Yeager, Eren', b'Arlert, Armin', b'Levi', b'Blouse, Sasha', b'Braun, Reiner', b'Kirstein, Jean', b'Hoover, Bertolt', b'Springer, Connie']
-animeVoices	[b'\nIshikawa, Yui\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nShimono, Hiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIsayama, Hajime\n\nOriginal Creator\n\n']
+animePopularity	3856
+animeDescription	"A special anime featuring a battle against the Colossal Titan screened at the Tokyo Skytree.
+
+In the short, the characters from Shingeki no Kyojin are part of the Sky Survey Corps, protecting the Wall Skytree, a section of the walled city that contains the Skytree. The Sky Survey Corps find that the Wall Skytree is under attack by an army of titans, including a giant 350 meter-class titan that has suddenly appeared next to the Skytree and remains motionless.
+
+(Source: Anime Now!)"
+animeRelated	['Shingeki no Kyojin']
+animeCharacters	['Ackerman, Mikasa', 'Yeager, Eren', 'Arlert, Armin', 'Levi', 'Blouse, Sasha', 'Braun, Reiner', 'Kirstein, Jean', 'Hoover, Bertolt', 'Springer, Connie']
+animeVoices	['Ishikawa, Yui', 'Kaji, Yuki', 'Inoue, Marina', 'Kamiya, Hiroshi', 'Kobayashi, Yuu', 'Hosoya, Yoshimasa', 'Taniyama, Kishou', 'Shimono, Hiro']
+animeStaff	[['Isayama, Hajime', 'Original Creator']]

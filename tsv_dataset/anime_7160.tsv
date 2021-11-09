@@ -1,5 +1,5 @@
-animeTitle	b'Back Arrow'
-animeType	b'TV'
+animeTitle	Back Arrow
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.3
 animeUsers	7321
 animeRank	
-animePopularity	
-animeDescription	"b'The world of Lingalind is surrounded by a mystical wall with seemingly nothing beyond its confines. Worshipped as the mother of the land, the wall delivers celestial gift capsules called ""Rakuho\'\' to locations across the continent. Arriving once a month, the capsules contain metallic armbands that allow the wearer to transform into a mechanical being known as a ""Briheight."" As a result, Lingalind is thrown into constant turmoil by its warring nations, all hoping to strengthen their military prowess by procuring the offerings for themselves.\n\nOne day, a Rakuho crash-lands in the countryside with an unexpected inhabitant\xe2\x80\x94a mysterious black-haired man. All eyes are set on this strange newcomer, who calls himself ""Back Arrow,"" when he claims to have hailed from a place beyond the wall\xe2\x80\x94a revelation that can potentially unravel Lingalind\'s entire dogmatic foundation.\n\n[Written by MAL Rewrite]'"
+animePopularity	3182
+animeDescription	"The world of Lingalind is surrounded by a mystical wall with seemingly nothing beyond its confines. Worshipped as the mother of the land, the wall delivers celestial gift capsules called ""Rakuho'' to locations across the continent. Arriving once a month, the capsules contain metallic armbands that allow the wearer to transform into a mechanical being known as a ""Briheight."" As a result, Lingalind is thrown into constant turmoil by its warring nations, all hoping to strengthen their military prowess by procuring the offerings for themselves.
+
+One day, a Rakuho crash-lands in the countryside with an unexpected inhabitant—a mysterious black-haired man. All eyes are set on this strange newcomer, who calls himself ""Back Arrow,"" when he claims to have hailed from a place beyond the wall—a revelation that can potentially unravel Lingalind's entire dogmatic foundation.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Bi, Shuu', b'Back Arrow', b'Lean, Elsha', b'Namital, Bit', b'Ariel, Atlee', b'Daidan, Zetsu', b'Fort\xc3\xa9, Fine', b'Rhodan, Kai', b'Conrad, Prax', b'Sin, Ren']
-animeVoices	[b'\nSugita, Tomokazu\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nOzawa, Ari\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nSuzaki, Aya\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nHan, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTaniguchi, Gorou\n\nDirector, Original Creator\n\n', b'\nNakashima, Kazuki\n\nScript, Original Creator, Series Composition\n\n', b'\nLiSA\n\nTheme Song Performance\n\n', b'\nFLOW\n\nTheme Song Performance\n\n']
+animeCharacters	['Bi, Shuu', 'Back Arrow', 'Lean, Elsha', 'Namital, Bit', 'Ariel, Atlee', 'Daidan, Zetsu', 'Forté, Fine', 'Rhodan, Kai', 'Conrad, Prax', 'Sin, Ren']
+animeVoices	['Sugita, Tomokazu', 'Kaji, Yuki', 'Ozawa, Ari', 'Ono, Kensho', 'Suzaki, Aya', 'Horiuchi, Kenyuu', 'Koshimizu, Ami', 'Okiayu, Ryoutarou', 'Komatsu, Mikako', 'Han, Megumi']
+animeStaff	[['Taniguchi, Gorou', 'Director, Original Creator'], ['Nakashima, Kazuki', 'Script, Original Creator, Series Composition'], ['LiSA', 'Theme Song Performance'], ['FLOW', 'Theme Song Performance']]

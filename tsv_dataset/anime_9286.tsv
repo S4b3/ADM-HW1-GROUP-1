@@ -1,5 +1,5 @@
-animeTitle	b'Ayane-chan High Kick!'
-animeType	b'OVA'
+animeTitle	Ayane-chan High Kick!
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.82
 animeUsers	2152
 animeRank	
-animePopularity	
-animeDescription	b'Ayane is a high school student focused on one thing, becoming a pro wrestler. A trainer tricks her into becoming a Kick Boxer, the sport she hates. She keeps with it though once she finds out.\n\n(Source: ANN)'
+animePopularity	7204
+animeDescription	"Ayane is a high school student focused on one thing, becoming a pro wrestler. A trainer tricks her into becoming a Kick Boxer, the sport she hates. She keeps with it though once she finds out.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Mitsui, Ayane', b'Miyagawa, Sakurako', b'Nakajima, Kayoko', b'Tange, Kunimitsu', b'Principal', b'Inagaki, Kappei']
-animeVoices	[b'\nMiyamura, Yuko\nJapanese\n', b'\nKawamura, Maria\nJapanese\n', b'\nNishihara, Kumiko\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyamura, Yuko\n\nTheme Song Performance\n\n', b'\nhide\n\nTheme Song Performance, Theme Song Lyrics\n\n', b'\nTHE STREET BEATS\n\nTheme Song Performance, Theme Song Arrangement\n\n', b'\nMiyamae, Mitsuharu\n\nArt Director\n\n']
+animeCharacters	['Mitsui, Ayane', 'Miyagawa, Sakurako', 'Nakajima, Kayoko', 'Tange, Kunimitsu', 'Principal', 'Inagaki, Kappei']
+animeVoices	['Miyamura, Yuko', 'Kawamura, Maria', 'Nishihara, Kumiko', 'Ootsuka, Akio', 'Chafurin', 'Yamaguchi, Kappei']
+animeStaff	[['Miyamura, Yuko', 'Theme Song Performance'], ['hide', 'Theme Song Performance, Theme Song Lyrics'], ['THE STREET BEATS', 'Theme Song Performance, Theme Song Arrangement'], ['Miyamae, Mitsuharu', 'Art Director']]

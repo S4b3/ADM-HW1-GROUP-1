@@ -1,5 +1,5 @@
-animeTitle	b'Acchi Kocchi (TV): Place=Princess'
-animeType	b'Special'
+animeTitle	Acchi Kocchi (TV): Place=Princess
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.48
 animeUsers	29729
 animeRank	
-animePopularity	
-animeDescription	b'Episode 13 of Acchi Kocchi that was included in Vol.6. '
-animeRelated	[b'Acchi Kocchi (TV)']
-animeCharacters	[b'Miniwa, Tsumiki', b'Otonashi, Io', b'Katase, Mayoi', b'Haruno, Hime', b'Inui, Sakaki', b'Sakimori, Saki', b'Saibara, Kyouya', b'Miyama, Kana']
-animeVoices	[b'\nOokubo, Rumi\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nFukuhara, Kaori\nJapanese\n', b'\nAsanuma, Shintaro\nJapanese\n', b'\nTakamori, Natsumi\nJapanese\n', b'\nYonaga, Tsubasa\nJapanese\n', b'\nKonno, Hiromi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTenkawa, Nobuhiko\n\nScript, Series Composition\n\n', b'\nIshiki\n\nOriginal Creator\n\n', b'\nKusama, Hideoki\n\nKey Animation, Animation Director\n\n']
+animePopularity	2402
+animeDescription	Episode 13 of Acchi Kocchi that was included in Vol.6. 
+animeRelated	['Acchi Kocchi (TV)']
+animeCharacters	['Miniwa, Tsumiki', 'Otonashi, Io', 'Katase, Mayoi', 'Haruno, Hime', 'Inui, Sakaki', 'Sakimori, Saki', 'Saibara, Kyouya', 'Miyama, Kana']
+animeVoices	['Ookubo, Rumi', 'Okamoto, Nobuhiko', 'Nabatame, Hitomi', 'Fukuhara, Kaori', 'Asanuma, Shintaro', 'Takamori, Natsumi', 'Yonaga, Tsubasa', 'Konno, Hiromi']
+animeStaff	[['Tenkawa, Nobuhiko', 'Script, Series Composition'], ['Ishiki', 'Original Creator'], ['Kusama, Hideoki', 'Key Animation, Animation Director']]

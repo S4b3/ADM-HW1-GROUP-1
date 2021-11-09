@@ -1,5 +1,5 @@
-animeTitle	b'Dark'
-animeType	b'OVA'
+animeTitle	Dark
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	5.5
 animeUsers	716
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the game by Grand Blue.\n\nShinji Yagami had always heard the rumors about female students being raped on campus - everyone did. Of course he never believed them until the day he stumbled across a website showing detailed pictures of female students being assaulted in the classrooms. Shocked to find himself turned on by what he sees, Shinji begins his descent into a world of voyeurism, S&M, and rape guided by fellow sadist Satoshi Kojima.\n\nWhen Shinji's childhood friend Miku Iino begins to suspect that he may be involved with the string of campus rapes, she decides to confront him. Torn between his own dark desires and the horror of his crimes, will Shinji continue to hide his secret from Miku, or will she become the next target of his vicious desires?\n\n(Source: AniDB)"""
+animePopularity	8966
+animeDescription	"Based on the game by Grand Blue.
+
+Shinji Yagami had always heard the rumors about female students being raped on campus - everyone did. Of course he never believed them until the day he stumbled across a website showing detailed pictures of female students being assaulted in the classrooms. Shocked to find himself turned on by what he sees, Shinji begins his descent into a world of voyeurism, S&M, and rape guided by fellow sadist Satoshi Kojima.
+
+When Shinji's childhood friend Miku Iino begins to suspect that he may be involved with the string of campus rapes, she decides to confront him. Torn between his own dark desires and the horror of his crimes, will Shinji continue to hide his secret from Miku, or will she become the next target of his vicious desires?
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Yagami, Shinji', b'Iino, Miku', b'Himenogi, Sakura', b'Kamimura, Megumi', b'Houzouin, Nana', b'Kojima, Satoshi', b'Chika']
+animeCharacters	['Yagami, Shinji', 'Iino, Miku', 'Himenogi, Sakura', 'Kamimura, Megumi', 'Houzouin, Nana', 'Kojima, Satoshi', 'Chika']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOmata, Shinichi\n\nProducer\n\n', b'\nNagahama, Norihiko\n\nDirector\n\n', b'\nYoshida, Tomohiro\n\nSound Director\n\n', b'\nRaika, Ken\n\nCharacter Design, Key Animation, Animation Director\n\n']
+animeStaff	[['Omata, Shinichi', 'Producer'], ['Nagahama, Norihiko', 'Director'], ['Yoshida, Tomohiro', 'Sound Director'], ['Raika, Ken', 'Character Design, Key Animation, Animation Director']]

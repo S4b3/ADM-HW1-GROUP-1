@@ -1,5 +1,5 @@
-animeTitle	b'Neko Neko Nihonshi'
-animeType	b'TV'
+animeTitle	Neko Neko Nihonshi
+animeType	TV
 animeNumEpisode	32
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.3
 animeUsers	272
 animeRank	
-animePopularity	
-animeDescription	b'The story imagines if Japanese historical figures such as Queen Himiko, the warlord Oda Nobunaga, and samurai Sakamoto Ryouma were cats.\n\n(Source: ANN)'
-animeRelated	[b'Neko Neko Nihonshi', b'Neko Neko Nihonshi 2nd Season']
-animeCharacters	[b'Sakamoto, Ryouma', b'Oda, Nobunaga', b'Himiko']
-animeVoices	[b'\nKobayashi, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawamura, Tomohiro\n\nDirector\n\n', b'\nTakada, Ryou\n\nScript, Series Composition\n\n', b'\nShimizu, Tadashi\n\nScript\n\n', b'\nSonishi, Kenji\n\nOriginal Creator\n\n']
+animePopularity	8929
+animeDescription	"The story imagines if Japanese historical figures such as Queen Himiko, the warlord Oda Nobunaga, and samurai Sakamoto Ryouma were cats.
+
+(Source: ANN)"
+animeRelated	['Neko Neko Nihonshi', 'Neko Neko Nihonshi 2nd Season']
+animeCharacters	['Sakamoto, Ryouma', 'Oda, Nobunaga', 'Himiko']
+animeVoices	['Kobayashi, Yuu']
+animeStaff	[['Kawamura, Tomohiro', 'Director'], ['Takada, Ryou', 'Script, Series Composition'], ['Shimizu, Tadashi', 'Script'], ['Sonishi, Kenji', 'Original Creator']]

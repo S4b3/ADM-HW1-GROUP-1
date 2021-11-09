@@ -1,5 +1,5 @@
-animeTitle	b'Garakuta-doori no Stain'
-animeType	b'TV'
+animeTitle	Garakuta-doori no Stain
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.5
 animeUsers	472
 animeRank	
-animePopularity	
-animeDescription	b'Mr. Stain, an artist/inventor, and his cat friend, Palvan, have numerous adventures concerning art supplies and junk found in Junk Alley. \n\n(Source: ANN)'
-animeRelated	[b'Garakuta-doori no Stain: Epilogue']
-animeCharacters	[b'Stain, Mr.', b'Palvan']
-animeVoices	[b'\nUsui, Takayasu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasuda, Ryuuji\n\nDirector\n\n', b'\nHALCALI\n\nTheme Song Performance\n\n']
+animePopularity	10693
+animeDescription	"Mr. Stain, an artist/inventor, and his cat friend, Palvan, have numerous adventures concerning art supplies and junk found in Junk Alley. 
+
+(Source: ANN)"
+animeRelated	['Garakuta-doori no Stain: Epilogue']
+animeCharacters	['Stain, Mr.', 'Palvan']
+animeVoices	['Usui, Takayasu']
+animeStaff	[['Masuda, Ryuuji', 'Director'], ['HALCALI', 'Theme Song Performance']]

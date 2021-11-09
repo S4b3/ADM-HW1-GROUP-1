@@ -1,5 +1,5 @@
-animeTitle	b'Gokujou!! Mecha Mote Iinchou'
-animeType	b'TV'
+animeTitle	Gokujou!! Mecha Mote Iinchou
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.34
 animeUsers	1503
 animeRank	
-animePopularity	
-animeDescription	b'Mimi Kitagami is a kind, level-headed girl who aims to be the best, coolest student council president of her high school class. However, three trouble-making boys are always causing her grief \xe2\x80\x94 and she has a one-sided crush on one of the boys, Ushio Toujou.\n\n(Source: ANN)'
-animeRelated	[b'Gokujou!! Mecha Mote Iinchou', b'Gokujou!! Mecha Mote Iinchou Second Collection']
-animeCharacters	[b'Kitagami, Mimi', b'Toujou, Ushio', b'Nishizaki, Ao', b'Nagumo, Namito', b'Temotemo', b'Himeno, Karen', b'Hoshino, Himeka', b'Yukishita, Arisa', b'Toda, Nanoka', b'Toono, Yuusaku']
-animeVoices	[b'\nOgawa, Mana\nJapanese\n', b'\nOshima, Ryo\nJapanese\n', b'\nAbe, Ryutaro\nJapanese\n', b'\nWatanabe, Tomohiro\nJapanese\n', b'\nChiba, Chiemi\nJapanese\n', b'\nEnomoto, Atsuko\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n', b'\nYamamoto, Maria\nJapanese\n', b'\nTakanohashi, Tsubasa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKosaka, Harume\n\nDirector\n\n', b'\nAsami, Matsuo\n\nEpisode Director\n\n', b'\nTamagawa, Makoto\n\nEpisode Director, Storyboard\n\n', b'\nTsubota, Fumi\n\nScript\n\n']
+animePopularity	6073
+animeDescription	"Mimi Kitagami is a kind, level-headed girl who aims to be the best, coolest student council president of her high school class. However, three trouble-making boys are always causing her grief — and she has a one-sided crush on one of the boys, Ushio Toujou.
+
+(Source: ANN)"
+animeRelated	['Gokujou!! Mecha Mote Iinchou', 'Gokujou!! Mecha Mote Iinchou Second Collection']
+animeCharacters	['Kitagami, Mimi', 'Toujou, Ushio', 'Nishizaki, Ao', 'Nagumo, Namito', 'Temotemo', 'Himeno, Karen', 'Hoshino, Himeka', 'Yukishita, Arisa', 'Toda, Nanoka', 'Toono, Yuusaku']
+animeVoices	['Ogawa, Mana', 'Oshima, Ryo', 'Abe, Ryutaro', 'Watanabe, Tomohiro', 'Chiba, Chiemi', 'Enomoto, Atsuko', 'Shiratori, Yuri', 'Yuzuki, Ryouka', 'Yamamoto, Maria', 'Takanohashi, Tsubasa']
+animeStaff	[['Kosaka, Harume', 'Director'], ['Asami, Matsuo', 'Episode Director'], ['Tamagawa, Makoto', 'Episode Director, Storyboard'], ['Tsubota, Fumi', 'Script']]

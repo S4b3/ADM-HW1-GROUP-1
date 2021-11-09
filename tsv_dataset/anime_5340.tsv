@@ -1,5 +1,5 @@
-animeTitle	b'Amaenaide yo!!: Yasumanaide yo!!'
-animeType	b'Special'
+animeTitle	Amaenaide yo!!: Yasumanaide yo!!
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.65
 animeUsers	7265
 animeRank	
-animePopularity	
-animeDescription	b'Ikko and the girls of Saienji Buddhist Temple are participating in a game show competition and happen to win a trip to a secluded inn. At the inn, Ikko is presented with the challenge of not awakening while all of the girls are sleepwalking.'
-animeRelated	[b'Amaenaide yo!!']
-animeCharacters	[b'Nanbu, Chitose', b'Satonaka, Ikkou', b'Sugai, Hinata', b'Amanogawa, Haruka', b'Atouda, Yuuko', b'Ikuina, Sumi', b'Amanogawa, Miyako', b'Sugai, Sakura', b'Kawahara, Joutoku']
-animeVoices	[b'\nNakahara, Mai\nJapanese\n', b'\nSuzuki, Chihiro\nJapanese\n', b'\nShintani, Ryouko\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nHiguchi, Chieko\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nNanao, Haruhi\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMotonaga, Keitarou\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n']
+animePopularity	4654
+animeDescription	Ikko and the girls of Saienji Buddhist Temple are participating in a game show competition and happen to win a trip to a secluded inn. At the inn, Ikko is presented with the challenge of not awakening while all of the girls are sleepwalking.
+animeRelated	['Amaenaide yo!!']
+animeCharacters	['Nanbu, Chitose', 'Satonaka, Ikkou', 'Sugai, Hinata', 'Amanogawa, Haruka', 'Atouda, Yuuko', 'Ikuina, Sumi', 'Amanogawa, Miyako', 'Sugai, Sakura', 'Kawahara, Joutoku']
+animeVoices	['Nakahara, Mai', 'Suzuki, Chihiro', 'Shintani, Ryouko', 'Watanabe, Akeno', 'Higuchi, Chieko', 'Kawakami, Tomoko', 'Mitsuishi, Kotono', 'Nanao, Haruhi', 'Sugiyama, Kazuko']
+animeStaff	[['Motonaga, Keitarou', 'Director'], ['Ebina, Yasunori', 'Sound Director']]

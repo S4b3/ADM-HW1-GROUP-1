@@ -1,5 +1,5 @@
-animeTitle	b'Paul no Miracle Daisakusen'
-animeType	b'TV'
+animeTitle	Paul no Miracle Daisakusen
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.43
 animeUsers	255
 animeRank	
-animePopularity	
-animeDescription	"b""Paul is a young boy whose friend Nina is kidnapped by Belt Satan, the demonic ruler of another world. He daringly goes on a mission to rescue his friend. Pakkun, a plush doll with magic powers, aids him as they plunge into Belt Satan's dimension of living toys. Paul's journey is beset by many difficulties, but he also encounters a variety of delightful wonders.\n\n(Source: ANN)\n"""
+animePopularity	11751
+animeDescription	"Paul is a young boy whose friend Nina is kidnapped by Belt Satan, the demonic ruler of another world. He daringly goes on a mission to rescue his friend. Pakkun, a plush doll with magic powers, aids him as they plunge into Belt Satan's dimension of living toys. Paul's journey is beset by many difficulties, but he also encounters a variety of delightful wonders.
+
+(Source: ANN)
+"
 animeRelated	[]
-animeCharacters	[b'Paul', b'Nina', b'Belt Satan', b'Pakkun', b'Doppe', b'Akunaita', b'Narrator']
-animeVoices	[b'\nShirakawa, Sumiko\nJapanese\n', b'\nYokozawa, Keiko\nJapanese\n', b'\nOohira, Tooru\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nTanonaka, Isamu\nJapanese\n', b'\nTerashima, Mikio\nJapanese\n', b'\nKonoshima, Aiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nNishikubo, Mizuho\n\nEpisode Director\n\n', b'\nUeda, Hidehito\n\nEpisode Director\n\n', b'\nNunokawa, Yuuji\n\nEpisode Director\n\n']
+animeCharacters	['Paul', 'Nina', 'Belt Satan', 'Pakkun', 'Doppe', 'Akunaita', 'Narrator']
+animeVoices	['Shirakawa, Sumiko', 'Yokozawa, Keiko', 'Oohira, Tooru', 'Ichiryuusai, Harumi', 'Tanonaka, Isamu', 'Terashima, Mikio', 'Konoshima, Aiko']
+animeStaff	[['Sasagawa, Hiroshi', 'Director'], ['Nishikubo, Mizuho', 'Episode Director'], ['Ueda, Hidehito', 'Episode Director'], ['Nunokawa, Yuuji', 'Episode Director']]

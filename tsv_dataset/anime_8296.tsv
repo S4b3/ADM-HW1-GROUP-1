@@ -1,5 +1,5 @@
-animeTitle	b'Revisions'
-animeType	b'TV'
+animeTitle	Revisions
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.08
 animeUsers	14849
 animeRank	
-animePopularity	
-animeDescription	"b'""This is a prophecy for you, where five people will meet huge adversaries, and only you can protect everyone."" Daisuke Toujima is a second-year high school student who was abducted when he was young. He was involved in a special phenomenon\xe2\x80\x94Shibuya Drift\xe2\x80\x94with his childhood friends Gai, Ru, Marimari, and Keisaku. They were transferred to the center of Shibuya over 300 years into the future. What\'s waiting for them is endless wilderness and forest, Interspersed ruin, future citizens, and ""Revisions"" which are huge mechanical monsters. Trampled by the monsters without understanding the situation, a girl who has the same name as the person who saved Daisuke when he was abducted, Miro, provided a mobile suit ""String Puppet"" and told them to save Shibuya. With separated paths, adversaries, destined prophecies, the boys, and girls are on their journey to return to their original time.\n\n(Source: MAL News)'"
-animeRelated	[b'Revisions']
-animeCharacters	[b'Milo', b'Asano, Keisaku', b'Doujima, Daisuke', b'Steiner, Chang Gai', b'Steiner, Chang Lu', b'Temari, Marin', b'Sato, Nicholas', b'Isurugi, Chiharu', b'Isurugi, Mukyu']
-animeVoices	[b'\nKomatsu, Mikako\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nTakahashi, Rie\nJapanese\n', b'\nIwami, Manaka\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nTamura, Yukari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTaniguchi, Gorou\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nTHE ORAL CIGARETTES\n\nTheme Song Performance\n\n', b'\nWEAVER\n\nTheme Song Lyrics, Theme Song Performance\n\n']
+animePopularity	2382
+animeDescription	"""This is a prophecy for you, where five people will meet huge adversaries, and only you can protect everyone."" Daisuke Toujima is a second-year high school student who was abducted when he was young. He was involved in a special phenomenon—Shibuya Drift—with his childhood friends Gai, Ru, Marimari, and Keisaku. They were transferred to the center of Shibuya over 300 years into the future. What's waiting for them is endless wilderness and forest, Interspersed ruin, future citizens, and ""Revisions"" which are huge mechanical monsters. Trampled by the monsters without understanding the situation, a girl who has the same name as the person who saved Daisuke when he was abducted, Miro, provided a mobile suit ""String Puppet"" and told them to save Shibuya. With separated paths, adversaries, destined prophecies, the boys, and girls are on their journey to return to their original time.
+
+(Source: MAL News)"
+animeRelated	['Revisions']
+animeCharacters	['Milo', 'Asano, Keisaku', 'Doujima, Daisuke', 'Steiner, Chang Gai', 'Steiner, Chang Lu', 'Temari, Marin', 'Sato, Nicholas', 'Isurugi, Chiharu', 'Isurugi, Mukyu']
+animeVoices	['Komatsu, Mikako', 'Saitou, Souma', 'Uchiyama, Kouki', 'Shimazaki, Nobunaga', 'Takahashi, Rie', 'Iwami, Manaka', 'Ootsuka, Houchuu', 'Hikasa, Youko', 'Tamura, Yukari']
+animeStaff	[['Taniguchi, Gorou', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['THE ORAL CIGARETTES', 'Theme Song Performance'], ['WEAVER', 'Theme Song Lyrics, Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Mama wa Poyopoyo Saurus ga Osuki'
-animeType	b'TV'
+animeTitle	Mama wa Poyopoyo Saurus ga Osuki
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.52
 animeUsers	134
 animeRank	
-animePopularity	
-animeDescription	"b""This is the story of a young couple who struggle with their children.\n\nMiki is the mother of two kids, Hyoga and Jura. Hyoga is a 4-year-old boy and Jura is a 2-year-old girl. Miki writes children's books at home. Miki wants to be a gentle and kind mother, but it is difficult to be patient with the kids. Her husband Gendai tries to be as cooperative as he can and helps her to attend to the kids. But sometimes he only makes her even angrier.\n\n(Source: animenfo)\n\n"""
-animeRelated	[b'Mama Loves the Poyo Poyo Zaurus']
-animeCharacters	[b'Poyota, Jura', b'Poyota, Hyouga', b'Mama Mirai', b'Futoshi', b'Papa Mirai', b'Mother Gendai', b'Mama Hanazono', b'Mama Kunitachi', b'Poyota, Gendai', b'Hanazono, Saaya']
-animeVoices	[b'\nKoorogi, Satomi\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n', b'\nNakazawa, Midori\nJapanese\n', b'\nWatanabe, Kumiko\nJapanese\n', b'\nShimaka, Yuu\nJapanese\n', b'\nWatanabe, Misa\nJapanese\n', b'\nMinami, Kyoko\nJapanese\n', b'\nKuroda, Yumi\nJapanese\n', b'\nCho\nJapanese\n', b'\nMotoi, Emi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKasai, Kenichi\n\nDirector, Assistant Director\n\n', b'\nHayase, Hiroyuki\n\nSound Director\n\n', b'\nIkeda, Mamiko\n\nScript\n\n', b'\nShirato, Takeshi\n\nStoryboard\n\n']
+animePopularity	12297
+animeDescription	"This is the story of a young couple who struggle with their children.
+
+Miki is the mother of two kids, Hyoga and Jura. Hyoga is a 4-year-old boy and Jura is a 2-year-old girl. Miki writes children's books at home. Miki wants to be a gentle and kind mother, but it is difficult to be patient with the kids. Her husband Gendai tries to be as cooperative as he can and helps her to attend to the kids. But sometimes he only makes her even angrier.
+
+(Source: animenfo)
+
+"
+animeRelated	['Mama Loves the Poyo Poyo Zaurus']
+animeCharacters	['Poyota, Jura', 'Poyota, Hyouga', 'Mama Mirai', 'Futoshi', 'Papa Mirai', 'Mother Gendai', 'Mama Hanazono', 'Mama Kunitachi', 'Poyota, Gendai', 'Hanazono, Saaya']
+animeVoices	['Koorogi, Satomi', 'Shiratori, Yuri', 'Nakazawa, Midori', 'Watanabe, Kumiko', 'Shimaka, Yuu', 'Watanabe, Misa', 'Minami, Kyoko', 'Kuroda, Yumi', 'Cho', 'Motoi, Emi']
+animeStaff	[['Kasai, Kenichi', 'Director, Assistant Director'], ['Hayase, Hiroyuki', 'Sound Director'], ['Ikeda, Mamiko', 'Script'], ['Shirato, Takeshi', 'Storyboard']]

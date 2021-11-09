@@ -1,5 +1,5 @@
-animeTitle	b'Kuro no Kyoushitsu'
-animeType	b'OVA'
+animeTitle	Kuro no Kyoushitsu
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.5
 animeUsers	2301
 animeRank	
-animePopularity	
-animeDescription	b'Based on the adult game by Bishop. '
-animeRelated	[b'Kuro no Kyoushitsu']
-animeCharacters	[b'Narukawa, Mahiru', b'Daisuke, Uehara', b'Kusunoki, Kazuha', b'Nomiya, Nanako', b'Arisugawa, Saeka']
+animePopularity	6188
+animeDescription	Based on the adult game by Bishop. 
+animeRelated	['Kuro no Kyoushitsu']
+animeCharacters	['Narukawa, Mahiru', 'Daisuke, Uehara', 'Kusunoki, Kazuha', 'Nomiya, Nanako', 'Arisugawa, Saeka']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nBishop\n\nOriginal Creator\n\n', b'\nNobidome, Youta\n\nKey Animation\n\n']
+animeStaff	[['Bishop', 'Original Creator'], ['Nobidome, Youta', 'Key Animation']]

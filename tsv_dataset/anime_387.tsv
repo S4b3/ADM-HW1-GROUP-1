@@ -1,5 +1,5 @@
-animeTitle	b'Tonikaku Kawaii: SNS'
-animeType	b'OVA'
+animeTitle	Tonikaku Kawaii: SNS
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.14
 animeUsers	37099
 animeRank	
-animePopularity	
-animeDescription	b'When Nasa is called in to work suddenly, Tsukasa faces her first night alone since they married.  Struck with loneliness, she takes ahold of the smartphone that Nasa gave her as a gift. Even when apart, they remain connected at the heart. \n\n(Source: Crunchyroll)'
-animeRelated	[b'Tonikaku Kawaii']
-animeCharacters	[b'Yuzaki, Tsukasa', b'Yuzaki, Nasa', b'Arisugawa, Kaname', b'Arisugawa, Aya', b'Kaginoji, Chitose']
-animeVoices	[b'\nKitou, Akari\nJapanese\n', b'\nEnoki, Junya\nJapanese\n', b'\nSerizawa, Yuu\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nKohara, Konomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIkehata, Hiroshi\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nHata, Kenjirou\n\nOriginal Creator\n\n', b'\nShibutani, Yukihiro\n\nBackground Art, Art Director\n\n']
+animePopularity	1827
+animeDescription	"When Nasa is called in to work suddenly, Tsukasa faces her first night alone since they married.  Struck with loneliness, she takes ahold of the smartphone that Nasa gave her as a gift. Even when apart, they remain connected at the heart. 
+
+(Source: Crunchyroll)"
+animeRelated	['Tonikaku Kawaii']
+animeCharacters	['Yuzaki, Tsukasa', 'Yuzaki, Nasa', 'Arisugawa, Kaname', 'Arisugawa, Aya', 'Kaginoji, Chitose']
+animeVoices	['Kitou, Akari', 'Enoki, Junya', 'Serizawa, Yuu', 'Uesaka, Sumire', 'Kohara, Konomi']
+animeStaff	[['Ikehata, Hiroshi', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Hata, Kenjirou', 'Original Creator'], ['Shibutani, Yukihiro', 'Background Art, Art Director']]

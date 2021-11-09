@@ -1,5 +1,5 @@
-animeTitle	b'Yawara!'
-animeType	b'TV'
+animeTitle	Yawara!
+animeType	TV
 animeNumEpisode	124
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	7.48
 animeUsers	2776
 animeRank	
-animePopularity	
-animeDescription	"b""High school student Yawara Inokuma lives a completely happy and ordinary life. She aspires to an average lifestyle as a delicate young lady with a handsome boyfriend in the near future.\n\nUnfortunately for Yawara, she has an undesirable prodigious talent in Judo, a modern martial art that is neither feminine nor fashionable. Moreover, Yawara is the only granddaughter of the seventh dan Judo master Jigorou Inokuma, who expects her to become a Japanese Judoka superstar of the '90s.\n\nYawara cautiously hides her strength from everyone to maintain a normal reputation but is often pushed to situations when she must exercise her Judo skills. Observing Yawara's immense potential from the shadows, Kousaku Matsuda, a sports reporter from a substandard paper, is willing to do everything he can to bring her into the limelight.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Yawara!', b'Yawara!: Sore Yuke Koshinuke Kids!!', b'Yawara!: Zutto Kimi no Koto ga...']
-animeCharacters	[b'Inokuma, Yawara', b'Inokuma, Jigorou', b'Matsuda, Kousaku', b'Itou, Fujiko', b'Yugoslavian Taxi Driver', b'Honami, Sayaka', b'Polnareff', b'Hikage, Kyoko', b'Hanazono, Kaoru', b'Kamoda']
-animeVoices	[b'\nMinaguchi, Yuko\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nKawashima, Chiyoko\nJapanese\n', b'\nMatsuo, Ginzou\nJapanese\n', b'\nTakamori, Yoshino\nJapanese\n', b'\nUeda, Toshiya\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nSugawara, Masashi\nJapanese\n', b'\nChafurin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTokita, Hiroko\n\nDirector\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nOkamura, Tensai\n\nEpisode Director, Storyboard\n\n', b'\nMoriwaki, Makoto\n\nEpisode Director, Storyboard\n\n']
+animePopularity	4310
+animeDescription	"High school student Yawara Inokuma lives a completely happy and ordinary life. She aspires to an average lifestyle as a delicate young lady with a handsome boyfriend in the near future.
+
+Unfortunately for Yawara, she has an undesirable prodigious talent in Judo, a modern martial art that is neither feminine nor fashionable. Moreover, Yawara is the only granddaughter of the seventh dan Judo master Jigorou Inokuma, who expects her to become a Japanese Judoka superstar of the '90s.
+
+Yawara cautiously hides her strength from everyone to maintain a normal reputation but is often pushed to situations when she must exercise her Judo skills. Observing Yawara's immense potential from the shadows, Kousaku Matsuda, a sports reporter from a substandard paper, is willing to do everything he can to bring her into the limelight.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Yawara!', 'Yawara!: Sore Yuke Koshinuke Kids!!', 'Yawara!: Zutto Kimi no Koto ga...']
+animeCharacters	['Inokuma, Yawara', 'Inokuma, Jigorou', 'Matsuda, Kousaku', 'Itou, Fujiko', 'Yugoslavian Taxi Driver', 'Honami, Sayaka', 'Polnareff', 'Hikage, Kyoko', 'Hanazono, Kaoru', 'Kamoda']
+animeVoices	['Minaguchi, Yuko', 'Nagai, Ichiro', 'Seki, Toshihiko', 'Kawashima, Chiyoko', 'Matsuo, Ginzou', 'Takamori, Yoshino', 'Ueda, Toshiya', 'Touma, Yumi', 'Sugawara, Masashi', 'Chafurin']
+animeStaff	[['Tokita, Hiroko', 'Director'], ['Urakami, Yasuo', 'Sound Director'], ['Okamura, Tensai', 'Episode Director, Storyboard'], ['Moriwaki, Makoto', 'Episode Director, Storyboard']]

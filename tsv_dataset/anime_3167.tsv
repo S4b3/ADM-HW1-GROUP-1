@@ -1,5 +1,5 @@
-animeTitle	b'Happy Birthday: Inochi Kagayaku Toki'
-animeType	b'Movie'
+animeTitle	Happy Birthday: Inochi Kagayaku Toki
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.14
 animeUsers	1166
 animeRank	
-animePopularity	
-animeDescription	b'After being abused by her mother physically and mentally Asuka gets taken in by her grandparents. Slowly she learns her own worth as a human being and overcomes many obstacles. '
+animePopularity	8146
+animeDescription	After being abused by her mother physically and mentally Asuka gets taken in by her grandparents. Slowly she learns her own worth as a human being and overcomes many obstacles. 
 animeRelated	[]
-animeCharacters	[b'Fujiwara, Asuka', b'Shuzo', b'Kanazawa, Junko', b'Mr. Sanada', b'Hamamoto, Akiko', b'Masako', b'Kobayashi, Daisuke', b'Fujiwara, Naoto', b'Fujiwara, Shizuyo', b'Hanamura, Megumi']
-animeVoices	[b'\nSakuma, Nobuko\nJapanese\n', b'\nKojima, Toshihiko\nJapanese\n', b'\nKawata, Taeko\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nTani, Ikuko\nJapanese\n', b'\nSakurai, Toshiharu\nJapanese\n', b'\nOkano, Kousuke\nJapanese\n', b'\nTajima, Reiko\nJapanese\n', b'\nMasuda, Yuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Satoshi\n\nDirector\n\n', b'\nSuzuki, Mitsuru\n\nKey Animation\n\n', b'\nTakahashi, Atsuko\n\nIn-Between Animation\n\n', b'\nNakajima, Yuuki\n\nMusic\n\n']
+animeCharacters	['Fujiwara, Asuka', 'Shuzo', 'Kanazawa, Junko', 'Mr. Sanada', 'Hamamoto, Akiko', 'Masako', 'Kobayashi, Daisuke', 'Fujiwara, Naoto', 'Fujiwara, Shizuyo', 'Hanamura, Megumi']
+animeVoices	['Sakuma, Nobuko', 'Kojima, Toshihiko', 'Kawata, Taeko', 'Kawakami, Tomoko', 'Tani, Ikuko', 'Sakurai, Toshiharu', 'Okano, Kousuke', 'Tajima, Reiko', 'Masuda, Yuki']
+animeStaff	[['Dezaki, Satoshi', 'Director'], ['Suzuki, Mitsuru', 'Key Animation'], ['Takahashi, Atsuko', 'In-Between Animation'], ['Nakajima, Yuuki', 'Music']]

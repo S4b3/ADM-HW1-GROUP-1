@@ -1,5 +1,5 @@
-animeTitle	b'Magikano'
-animeType	b'TV'
+animeTitle	Magikano
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.35
 animeUsers	14339
 animeRank	
-animePopularity	
-animeDescription	"b""Ayumi Mamiya is a witch cursed to lose her powers and only one boy can break the spell. Haruo Yoshikawa thinks he is a normal boy but unknown to him his three sisters have magical powers and keep him protected and ignorant about the existence of magic. Now Ayumi must wake up Haruo's latent powers to save herself but his sisters will have none of that.\n\n(Source: ANN)"""
-animeRelated	[b'Magikano']
-animeCharacters	[b'Mamiya, Ayumi', b'Yoshikawa, Maika', b'Yoshikawa, Fuyuno', b'Yoshikawa, Chiaki', b'Mamiya, Michiru', b'Anju, Rika', b'Hongou, Tetsuko', b'Yoshikawa, Haruo', b'Nijihara, Marin', b'Kurosu, Yuri']
-animeVoices	[b'\nNogawa, Sakura\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nKaneda, Tomoko\nJapanese\n', b'\nSakai, Kanako\nJapanese\n', b'\nKuwatani, Natsuko\nJapanese\n', b'\nInoue, Nana\nJapanese\n', b'\nRikimaru, Noriko\nJapanese\n', b'\nIchiki, Mitsuhiro\nJapanese\n', b'\nMomoi, Haruko\nJapanese\n', b'\nNamiki, Noriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKishi, Seiji\n\nDirector\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nKinoshita, Yuuki\n\nEpisode Director, Storyboard\n\n', b'\nTokairin, Shinichi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3177
+animeDescription	"Ayumi Mamiya is a witch cursed to lose her powers and only one boy can break the spell. Haruo Yoshikawa thinks he is a normal boy but unknown to him his three sisters have magical powers and keep him protected and ignorant about the existence of magic. Now Ayumi must wake up Haruo's latent powers to save herself but his sisters will have none of that.
+
+(Source: ANN)"
+animeRelated	['Magikano']
+animeCharacters	['Mamiya, Ayumi', 'Yoshikawa, Maika', 'Yoshikawa, Fuyuno', 'Yoshikawa, Chiaki', 'Mamiya, Michiru', 'Anju, Rika', 'Hongou, Tetsuko', 'Yoshikawa, Haruo', 'Nijihara, Marin', 'Kurosu, Yuri']
+animeVoices	['Nogawa, Sakura', 'Nakahara, Mai', 'Kaneda, Tomoko', 'Sakai, Kanako', 'Kuwatani, Natsuko', 'Inoue, Nana', 'Rikimaru, Noriko', 'Ichiki, Mitsuhiro', 'Momoi, Haruko', 'Namiki, Noriko']
+animeStaff	[['Kishi, Seiji', 'Director'], ['Iida, Satoki', 'Sound Director'], ['Kinoshita, Yuuki', 'Episode Director, Storyboard'], ['Tokairin, Shinichi', 'Episode Director, Storyboard']]

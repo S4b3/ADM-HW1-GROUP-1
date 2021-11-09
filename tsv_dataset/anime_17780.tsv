@@ -1,5 +1,5 @@
-animeTitle	b'Peace Hame!'
-animeType	b'OVA'
+animeTitle	Peace Hame!
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.08
 animeUsers	3722
 animeRank	
-animePopularity	
-animeDescription	b'A second year high school student and a Kendo club member, Tamao Tsukamu, admires his senpai, the club captain, Kiritani Konome.\n\nOne fateful day, she asks him for a favor involving making special kinds of photos for the student graduation album.'
-animeRelated	[b'Peace Hame!']
-animeCharacters	[b'Konome, Kiritani', b'Tsukamu, Tamao', b'Caldina, Kizaki', b'Miyanagi, Sena', b'Madoka, Michisato', b'Mogami, Haru', b'Kunitake, Sasugaki', b'Sayama, Saya']
-animeVoices	[b'\nTakashiro, Mitsu\nJapanese\n', b'\nKurusugawa, Isamu\nJapanese\n', b'\nIino, Yuu\nJapanese\n', b'\nTakaguchi, Yukiko\nJapanese\n', b'\nSanada, Akane\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShiwasu no Okina\n\nOriginal Creator\n\n', b'\nKasumi, Kyouka\n\nDirector of Photography\n\n']
+animePopularity	5313
+animeDescription	"A second year high school student and a Kendo club member, Tamao Tsukamu, admires his senpai, the club captain, Kiritani Konome.
+
+One fateful day, she asks him for a favor involving making special kinds of photos for the student graduation album."
+animeRelated	['Peace Hame!']
+animeCharacters	['Konome, Kiritani', 'Tsukamu, Tamao', 'Caldina, Kizaki', 'Miyanagi, Sena', 'Madoka, Michisato', 'Mogami, Haru', 'Kunitake, Sasugaki', 'Sayama, Saya']
+animeVoices	['Takashiro, Mitsu', 'Kurusugawa, Isamu', 'Iino, Yuu', 'Takaguchi, Yukiko', 'Sanada, Akane']
+animeStaff	[['Shiwasu no Okina', 'Original Creator'], ['Kasumi, Kyouka', 'Director of Photography']]

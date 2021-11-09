@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam: The Origin'
-animeType	b'OVA'
+animeTitle	Mobile Suit Gundam: The Origin
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	8.34
 animeUsers	21286
 animeRank	
-animePopularity	
-animeDescription	"b'In the year 0068 of the Universal Century, Casval Rem Deikun\'s life is thrown into chaotic disarray after the assassination of his father, a prolific figure in the crusade towards civil rights for people who live away from the Earth\'s surface. Casval and his sister Artesia receive aid from soldiers who were loyal to their father, and the siblings are whisked away from their home, separated, and thrown into a twisted fate that sees them come into their own as soldiers and adults.\n\nYears before stealing the name Char Aznable or his ""Red Comet"" moniker, Casval must contend with the rise of a militarized version of his father\'s ideology and his own vengeful nature as intergalactic war molds him into a legendary mobile suit pilot.\n\n[Written by MAL Rewrite]\n'"
-animeRelated	[b'Kidou Senshi Gundam: The Origin', b'Mobile Suit Gundam', b'Mobile Suit Gundam: The Origin - Advent of the Red Comet']
-animeCharacters	[b'Aznable, Char', b'Mass, Sayla', b'Ray, Amuro', b'Noa, Bright', b'Haro', b'Ral, Ramba', b'Zabi, Mineva Lao', b'Shiden, Kai', b'Zabi, Garma', b'Sune, Lalah']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nHan, Megumi\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nNarita, Ken\nJapanese\n', b'\nArai, Satomi\nJapanese\n', b'\nKiyama, Shigeo\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nHayami, Saori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYasuhiko, Yoshikazu\n\nDirector, Storyboard, Original Creator, Character Design\n\n', b'\nImanishi, Takashi\n\nDirector, Storyboard\n\n', b'\nFujino, Sadayoshi\n\nSound Director\n\n', b'\nItano, Ichirou\n\nEpisode Director, Storyboard, Key Animation\n\n']
+animePopularity	2281
+animeDescription	"In the year 0068 of the Universal Century, Casval Rem Deikun's life is thrown into chaotic disarray after the assassination of his father, a prolific figure in the crusade towards civil rights for people who live away from the Earth's surface. Casval and his sister Artesia receive aid from soldiers who were loyal to their father, and the siblings are whisked away from their home, separated, and thrown into a twisted fate that sees them come into their own as soldiers and adults.
+
+Years before stealing the name Char Aznable or his ""Red Comet"" moniker, Casval must contend with the rise of a militarized version of his father's ideology and his own vengeful nature as intergalactic war molds him into a legendary mobile suit pilot.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Kidou Senshi Gundam: The Origin', 'Mobile Suit Gundam', 'Mobile Suit Gundam: The Origin - Advent of the Red Comet']
+animeCharacters	['Aznable, Char', 'Mass, Sayla', 'Ray, Amuro', 'Noa, Bright', 'Haro', 'Ral, Ramba', 'Zabi, Mineva Lao', 'Shiden, Kai', 'Zabi, Garma', 'Sune, Lalah']
+animeVoices	['Tanaka, Mayumi', 'Han, Megumi', 'Furuya, Toru', 'Narita, Ken', 'Arai, Satomi', 'Kiyama, Shigeo', 'Furukawa, Toshio', 'Kakihara, Tetsuya', 'Hayami, Saori']
+animeStaff	[['Yasuhiko, Yoshikazu', 'Director, Storyboard, Original Creator, Character Design'], ['Imanishi, Takashi', 'Director, Storyboard'], ['Fujino, Sadayoshi', 'Sound Director'], ['Itano, Ichirou', 'Episode Director, Storyboard, Key Animation']]

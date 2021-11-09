@@ -1,4 +1,4 @@
-animeTitle	b'CLAMP in Wonderland 2'
+animeTitle	CLAMP in Wonderland 2
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.46
 animeUsers	10559
 animeRank	
-animePopularity	
-animeDescription	b'A short animation which features clips from all of CLAMPs works between 1995 and 2006.'
-animeRelated	[b'CLAMP in Wonderland']
-animeCharacters	[b'Modoki, Mokona', b'Kinomoto, Sakura', b'Ichihara, Yuuko', b'Chii', b'Flourite, Fai D.', b'Watanuki, Kimihiro', b'Li, Shaoran', b'Daidouji, Tomoyo', b'Syaoran']
+animePopularity	4094
+animeDescription	A short animation which features clips from all of CLAMPs works between 1995 and 2006.
+animeRelated	['CLAMP in Wonderland']
+animeCharacters	['Modoki, Mokona', 'Kinomoto, Sakura', 'Ichihara, Yuuko', 'Chii', 'Flourite, Fai D.', 'Watanuki, Kimihiro', 'Li, Shaoran', 'Daidouji, Tomoyo', 'Syaoran']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasuhara, Mitsuyuki\n\nEpisode Director\n\n', b'\nSakamoto, Maaya\n\nTheme Song Performance\n\n', b'\nRound Table featuring Nino\n\nTheme Song Performance\n\n', b'\nKitagawa, Katsutoshi\n\nTheme Song Composition\n\n']
+animeStaff	[['Masuhara, Mitsuyuki', 'Episode Director'], ['Sakamoto, Maaya', 'Theme Song Performance'], ['Round Table featuring Nino', 'Theme Song Performance'], ['Kitagawa, Katsutoshi', 'Theme Song Composition']]

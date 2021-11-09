@@ -1,5 +1,5 @@
-animeTitle	b'School'
-animeType	b'OVA'
+animeTitle	School
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.72
 animeUsers	2064
 animeRank	
-animePopularity	
-animeDescription	"b'Kouta is the school\'s idol loved by all\xe2\x80\x94his teacher and his fellow students. Well, at least the one teacher and three students we see\xe2\x80\x94who are all girls. Actually, they don\'t actually ""love"" him all that much; they just want to screw his brain out. \n\n(Source: AniDB) '"
+animePopularity	6240
+animeDescription	"Kouta is the school's idol loved by all—his teacher and his fellow students. Well, at least the one teacher and three students we see—who are all girls. Actually, they don't actually ""love"" him all that much; they just want to screw his brain out. 
+
+(Source: AniDB) "
 animeRelated	[]
-animeCharacters	[b'Hitomi', b'Aiko', b'Hikaru', b'Rui', b'Kanzaki, Kouta']
-animeVoices	[b'\nKajita, Yuuki\nJapanese\n', b'\nMisonoo, Mei\nJapanese\n', b'\nOokubo, Aiko\nJapanese\n', b'\nNatsumura, Isuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAwai, Shigeki\n\nDirector\n\n', b'\nTominaga, Tsuneo\n\nEpisode Director, Storyboard\n\n', b'\nMiyazaki, Maya\n\nOriginal Creator\n\n', b'\nIshihara, Keiji\n\nCharacter Design, Chief Animation Director\n\n']
+animeCharacters	['Hitomi', 'Aiko', 'Hikaru', 'Rui', 'Kanzaki, Kouta']
+animeVoices	['Kajita, Yuuki', 'Misonoo, Mei', 'Ookubo, Aiko', 'Natsumura, Isuke']
+animeStaff	[['Awai, Shigeki', 'Director'], ['Tominaga, Tsuneo', 'Episode Director, Storyboard'], ['Miyazaki, Maya', 'Original Creator'], ['Ishihara, Keiji', 'Character Design, Chief Animation Director']]

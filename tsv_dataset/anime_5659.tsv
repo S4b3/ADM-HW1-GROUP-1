@@ -1,5 +1,5 @@
-animeTitle	b'D.C.S.S: Da Capo Second Season Omake'
-animeType	b'Special'
+animeTitle	D.C.S.S: Da Capo Second Season Omake
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.59
 animeUsers	1846
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the D.C.S.G. game/manga.\n\nThe story takes place 2 years after the happenings in the first series. A new, mysterious girl appears and attaches herself to Jun'ichi. Who is this new girl and which connection does she have to the Sakura on Hatsune Island."""
-animeRelated	[b'D.C.S.S: Da Capo Second Season']
-animeCharacters	[b'Aisia']
+animePopularity	6329
+animeDescription	"Based on the D.C.S.G. game/manga.
+
+The story takes place 2 years after the happenings in the first series. A new, mysterious girl appears and attaches herself to Jun'ichi. Who is this new girl and which connection does she have to the Sakura on Hatsune Island."
+animeRelated	['D.C.S.S: Da Capo Second Season']
+animeCharacters	['Aisia']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKimura, Shinichiro\n\nStoryboard\n\n', b'\nNanao, Naru\n\nOriginal Character Design\n\n', b'\nCircus\n\nOriginal Creator\n\n']
+animeStaff	[['Kimura, Shinichiro', 'Storyboard'], ['Nanao, Naru', 'Original Character Design'], ['Circus', 'Original Creator']]

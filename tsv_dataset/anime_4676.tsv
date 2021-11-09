@@ -1,5 +1,5 @@
-animeTitle	b'Golgo 13'
-animeType	b'Movie'
+animeTitle	Golgo 13
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.79
 animeUsers	6299
 animeRank	
-animePopularity	
-animeDescription	b'After assassinating the son of business tycoon Leonard Dawson, Golgo 13 finds himself prey to the CIA and the U.S. Army, whom Dawson has personally hired to kill the assassin. As days pass by, Dawson slowly loses his sanity as he continues to plot every attempt to kill Golgo 13 even without caring about who hired the assassin to kill his son.\n\n(Source: ANN)'
-animeRelated	[b'Golgo 13', b'Golgo 13: Queen Bee', b'Golgo 13 (TV)']
-animeCharacters	[b'Togo, Duke', b'Dawson, Leonard', b'Pablo', b'Albert', b'Snake', b'Paco', b'Bragan, Lt. Bob ', b'Dawson, Laura', b'Rita', b'Gold']
-animeVoices	[b'\nSagawa, Tetsurou\nJapanese\n', b'\nNaya, Gorou\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nKitamura, Kouichi\nJapanese\n', b'\nSenda, Mitsuo\nJapanese\n', b'\nShima, Shunsuke\nJapanese\n', b'\nTomita, Kousei\nJapanese\n', b'\nMutou, Reiko\nJapanese\n', b'\nTakizawa, Kumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMacek, Carl\n\nProducer, ADR Director\n\n', b'\nDezaki, Osamu\n\nDirector, Storyboard\n\n', b'\nAki, Youko\n\nTheme Song Lyrics\n\n', b'\nTsuno, Gouji\n\nTheme Song Composition\n\n']
+animePopularity	4524
+animeDescription	"After assassinating the son of business tycoon Leonard Dawson, Golgo 13 finds himself prey to the CIA and the U.S. Army, whom Dawson has personally hired to kill the assassin. As days pass by, Dawson slowly loses his sanity as he continues to plot every attempt to kill Golgo 13 even without caring about who hired the assassin to kill his son.
+
+(Source: ANN)"
+animeRelated	['Golgo 13', 'Golgo 13: Queen Bee', 'Golgo 13 (TV)']
+animeCharacters	['Togo, Duke', 'Dawson, Leonard', 'Pablo', 'Albert', 'Snake', 'Paco', 'Bragan, Lt. Bob ', 'Dawson, Laura', 'Rita', 'Gold']
+animeVoices	['Sagawa, Tetsurou', 'Naya, Gorou', 'Aono, Takeshi', 'Kitamura, Kouichi', 'Senda, Mitsuo', 'Shima, Shunsuke', 'Tomita, Kousei', 'Mutou, Reiko', 'Takizawa, Kumiko']
+animeStaff	[['Macek, Carl', 'Producer, ADR Director'], ['Dezaki, Osamu', 'Director, Storyboard'], ['Aki, Youko', 'Theme Song Lyrics'], ['Tsuno, Gouji', 'Theme Song Composition']]

@@ -1,5 +1,5 @@
-animeTitle	b'Maki-chan to Now.'
-animeType	b'OVA'
+animeTitle	Maki-chan to Now.
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.38
 animeUsers	10121
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the visual novel by Waffle.\n\nSanjou Maki is the girl living next door to Sakonji Seiichi. She appears to be well-bred, gifted with both beauty and brains. However, one night, Seiichi sees her masturbating on the veranda...\n\nMaki easily admits that she's a dirty girl and jokingly suggests to Seiichi that she should be blackmailed into being his sex-slave.\n\n(Source: Collaboration Works)"""
+animePopularity	3594
+animeDescription	"Based on the visual novel by Waffle.
+
+Sanjou Maki is the girl living next door to Sakonji Seiichi. She appears to be well-bred, gifted with both beauty and brains. However, one night, Seiichi sees her masturbating on the veranda...
+
+Maki easily admits that she's a dirty girl and jokingly suggests to Seiichi that she should be blackmailed into being his sex-slave.
+
+(Source: Collaboration Works)"
 animeRelated	[]
-animeCharacters	[b'Sanjou, Maki', b'Misono, Yuki', b'Sakonji, Seiichi']
-animeVoices	[b'\nSakata, Yuki\nJapanese\n', b'\nSanada, Akane\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatano, Ryuuzou\n\nDirector\n\n', b'\nHakudaku, Ouji\n\nEpisode Director\n\n', b'\nKimuro, Takashi\n\nScript\n\n', b'\nWaffle\n\nOriginal Creator\n\n']
+animeCharacters	['Sanjou, Maki', 'Misono, Yuki', 'Sakonji, Seiichi']
+animeVoices	['Sakata, Yuki', 'Sanada, Akane']
+animeStaff	[['Matano, Ryuuzou', 'Director'], ['Hakudaku, Ouji', 'Episode Director'], ['Kimuro, Takashi', 'Script'], ['Waffle', 'Original Creator']]

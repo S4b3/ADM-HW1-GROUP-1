@@ -1,5 +1,5 @@
-animeTitle	b'Waanabi.jk'
-animeType	b'Special'
+animeTitle	Waanabi.jk
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.02
 animeUsers	444
 animeRank	
-animePopularity	
-animeDescription	"b'Promotion videos for Kenichi Kuroi\'s web manga ""Waanabi.jk"", commissioned by Studio DEEN.'"
+animePopularity	10664
+animeDescription	"Promotion videos for Kenichi Kuroi's web manga ""Waanabi.jk"", commissioned by Studio DEEN."
 animeRelated	[]
-animeCharacters	[b'Sasanaka, Mutsu', b'Torii, Yumi', b'Takatsuki, Morao', b'Yanagisawa, Ami']
-animeVoices	[b'\nKusuda, Aina\nJapanese\n', b'\nTerui, Haruka\nJapanese\n', b'\nMikami, Shiori\nJapanese\n', b'\nTokui, Sora\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakeuchi, Tetsuya\n\nCharacter Design\n\n']
+animeCharacters	['Sasanaka, Mutsu', 'Torii, Yumi', 'Takatsuki, Morao', 'Yanagisawa, Ami']
+animeVoices	['Kusuda, Aina', 'Terui, Haruka', 'Mikami, Shiori', 'Tokui, Sora']
+animeStaff	[['Takeuchi, Tetsuya', 'Character Design']]

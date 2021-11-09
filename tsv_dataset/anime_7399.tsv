@@ -1,5 +1,5 @@
-animeTitle	b'Saint Seiya Omega'
-animeType	b'TV'
+animeTitle	Saint Seiya Omega
+animeType	TV
 animeNumEpisode	97
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.26
 animeUsers	17272
 animeRank	
-animePopularity	
-animeDescription	"b""The god of war and guardian of his namesake planet, Mars, was once sealed away by Seiya, but time has passed and his revival is at hand. Meanwhile, Saori Kido (Athena) is raising the boy Kouga, whose life Seiya saved, and he's been training every day to become a Saint in order to prepare for the coming crisis... \n\nUnaware of his destiny, when Kouga awakens to the power of his Cosmo hidden inside him, the curtain will rise upon the legend of a new Saint.\n\n(Source: ANN)"""
-animeRelated	[b'Saint Seiya Omega: New Cross Tanjou-hen', b'Saint Seiya: Tenkai-hen Josou - Overture']
-animeCharacters	[b'Pegasus, Kouga', b'Aquila, Yuna', b'Dragon, Ryuuhou', b'Orion, Eden', b'Lionet, Souma', b'Wolf, Haruto', b'Equuleus, Subaru', b'Phoenix, Ikki', b'Dragon, Shiryuu', b'Pegasus, Seiya']
-animeVoices	[b'\nYukino, Satsuki\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nMizuhara, Kaoru\nJapanese\n', b'\nMizushima, Yuu\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nNarita, Ken\nJapanese\n', b'\nFuruya, Toru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUmezawa, Atsutoshi\n\nProducer\n\n', b'\nNagamine, Tatsuya\n\nDirector, Episode Director, Storyboard\n\n', b'\nHatano, Morio\n\nDirector\n\n', b'\nKureta, Kouhei\n\nDirector\n\n']
+animePopularity	2682
+animeDescription	"The god of war and guardian of his namesake planet, Mars, was once sealed away by Seiya, but time has passed and his revival is at hand. Meanwhile, Saori Kido (Athena) is raising the boy Kouga, whose life Seiya saved, and he's been training every day to become a Saint in order to prepare for the coming crisis... 
+
+Unaware of his destiny, when Kouga awakens to the power of his Cosmo hidden inside him, the curtain will rise upon the legend of a new Saint.
+
+(Source: ANN)"
+animeRelated	['Saint Seiya Omega: New Cross Tanjou-hen', 'Saint Seiya: Tenkai-hen Josou - Overture']
+animeCharacters	['Pegasus, Kouga', 'Aquila, Yuna', 'Dragon, Ryuuhou', 'Orion, Eden', 'Lionet, Souma', 'Wolf, Haruto', 'Equuleus, Subaru', 'Phoenix, Ikki', 'Dragon, Shiryuu', 'Pegasus, Seiya']
+animeVoices	['Yukino, Satsuki', 'Kakihara, Tetsuya', 'Suwabe, Junichi', 'Konishi, Katsuyuki', 'Mizuhara, Kaoru', 'Mizushima, Yuu', 'Sugita, Tomokazu', 'Narita, Ken', 'Furuya, Toru']
+animeStaff	[['Umezawa, Atsutoshi', 'Producer'], ['Nagamine, Tatsuya', 'Director, Episode Director, Storyboard'], ['Hatano, Morio', 'Director'], ['Kureta, Kouhei', 'Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai'
-animeType	b'Movie'
+animeTitle	Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.4
 animeUsers	1373
 animeRank	
-animePopularity	
-animeDescription	"b'One year has passed after the great battle against the ""Orochi"" (gigantic snake). Tenka had been paralyzed from the final battle and he took part of the government\'s human experiment before the battle. Tenka withdrew himself from society, but his younger brothers, Soramaru and Chuutaro, find out the secret past about their older brother.\n\n(Source: Amazon Prime Video)'"
-animeRelated	[b'Donten ni Warau Gaiden', b'Donten ni Warau', b'Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma']
-animeCharacters	[b'Kumou, Tenka', b'Kumou, Soramaru', b'Kumou, Chuutarou', b'Kinjou, Shirasu', b'Nishiki', b'Abeno, Hirari', b'Abeno, Sousei', b'Sasaki, Kiiko', b'Ashiya, Mutsuki', b'Botan']
+animePopularity	4861
+animeDescription	"One year has passed after the great battle against the ""Orochi"" (gigantic snake). Tenka had been paralyzed from the final battle and he took part of the government's human experiment before the battle. Tenka withdrew himself from society, but his younger brothers, Soramaru and Chuutaro, find out the secret past about their older brother.
+
+(Source: Amazon Prime Video)"
+animeRelated	['Donten ni Warau Gaiden', 'Donten ni Warau', 'Donten ni Warau Gaiden: Shukumei, Soutou no Fuuma']
+animeCharacters	['Kumou, Tenka', 'Kumou, Soramaru', 'Kumou, Chuutarou', 'Kinjou, Shirasu', 'Nishiki', 'Abeno, Hirari', 'Abeno, Sousei', 'Sasaki, Kiiko', 'Ashiya, Mutsuki', 'Botan']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Youko\n\nProducer\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nYamada, Yutaka\n\nMusic\n\n', b'\nKarakara, Kemuri\n\nOriginal Creator\n\n']
+animeStaff	[['Ueda, Youko', 'Producer'], ['Hata, Shouji', 'Sound Director'], ['Yamada, Yutaka', 'Music'], ['Karakara, Kemuri', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Honobono Log'
-animeType	b'TV'
+animeTitle	Honobono Log
+animeType	TV
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.36
 animeUsers	27878
 animeRank	
-animePopularity	
-animeDescription	b'Some of us are fortunate enough to have a partner to confide in on our bad days. In even the most devastating times, we can depend on our comrades for support. Others are incredibly lucky to have a special someone that they can just randomly embrace. No matter the situation, there always tends to be a close ally to help us get by.\n\nHonobono Log showcases the best and worst of couples and families, enticing romantic-comedy lovers with various relatable situations.\n\n[Written by MAL Rewrite]'
+animePopularity	2186
+animeDescription	"Some of us are fortunate enough to have a partner to confide in on our bad days. In even the most devastating times, we can depend on our comrades for support. Others are incredibly lucky to have a special someone that they can just randomly embrace. No matter the situation, there always tends to be a close ally to help us get by.
+
+Honobono Log showcases the best and worst of couples and families, enticing romantic-comedy lovers with various relatable situations.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Eita', b'Chiharu']
-animeVoices	[b'\nIrino, Miyu\nJapanese\n', b'\nSeto, Asami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsui, Kumi\n\nDirector\n\n', b'\nRareko\n\nEpisode Director, Storyboard\n\n', b'\nAme no Parade\n\nTheme Song Performance\n\n', b'\nFukamachi, Naka\n\nOriginal Creator\n\n']
+animeCharacters	['Eita', 'Chiharu']
+animeVoices	['Irino, Miyu', 'Seto, Asami']
+animeStaff	[['Matsui, Kumi', 'Director'], ['Rareko', 'Episode Director, Storyboard'], ['Ame no Parade', 'Theme Song Performance'], ['Fukamachi, Naka', 'Original Creator']]

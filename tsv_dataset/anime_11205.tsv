@@ -1,5 +1,5 @@
-animeTitle	b'Ai wa KAT-TUN'
-animeType	b'ONA'
+animeTitle	Ai wa KAT-TUN
+animeType	ONA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.15
 animeUsers	1037
 animeRank	
-animePopularity	
-animeDescription	b'The mobile content developer MTI released a series of mobile phone anime shorts inspired by the all-male musical group KAT-TUN. Animated versions of the singers Kamenashi Kazuya, Taguchi Junnosuke, Tanaka Kouki, Ueda Tatsuya, and Nakamaru Yuuichi appear in unintentionally romantic situations with their younger sister. Each of the mobile anime series five 50-second episodes highlights one KAT-TUN performer.\n\n(Source: ANN)'
+animePopularity	8969
+animeDescription	"The mobile content developer MTI released a series of mobile phone anime shorts inspired by the all-male musical group KAT-TUN. Animated versions of the singers Kamenashi Kazuya, Taguchi Junnosuke, Tanaka Kouki, Ueda Tatsuya, and Nakamaru Yuuichi appear in unintentionally romantic situations with their younger sister. Each of the mobile anime series five 50-second episodes highlights one KAT-TUN performer.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Kamenashi, Kazuya', b'Taguchi, Junnosuke', b'Ueda, Tatsuya', b'Tanaka, Koki', b'Nakamaru, Yuichi']
+animeCharacters	['Kamenashi, Kazuya', 'Taguchi, Junnosuke', 'Ueda, Tatsuya', 'Tanaka, Koki', 'Nakamaru, Yuichi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKAT-TUN\n\nTheme Song Performance\n\n']
+animeStaff	[['KAT-TUN', 'Theme Song Performance']]

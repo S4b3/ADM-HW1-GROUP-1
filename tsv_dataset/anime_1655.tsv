@@ -1,5 +1,5 @@
-animeTitle	b'Saint\xe2\x98\x86Oniisan'
-animeType	b'OVA'
+animeTitle	Saint☆Oniisan
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.49
 animeUsers	36419
 animeRank	
-animePopularity	
-animeDescription	"b""Jesus Christ and Gautama Buddha, the founders of Christianity and Buddhism, are living together as roommates in a Tokyo apartment while taking a vacation on Earth. The comedy often involves jokes about Christianity, Buddhism, and all things related, as well as the main characters' attempts to hide their identities and understand modern society in Japan.\n\n"""
-animeRelated	[b'Saint\xe2\x98\x86Oniisan', b'Saint\xe2\x98\x86Oniisan (Movie)']
-animeCharacters	"[b'Jesus', b'Buddha', b'Matsuda, Sachiyo', b'Narrator', b""Kouhei's Mother"", b'Conveni Tenin', b""Ryouta's Mother"", b'Kouhei', b'Daisuke', b'Ryouta']"
-animeVoices	[b'\nMoriyama, Mirai\nJapanese\n', b'\nHoshino, Gen\nJapanese\n', b'\nSuzuki, Reiko\nJapanese\n', b'\nKinomiya, Ryouko\nJapanese\n', b'\nSaito, Kimiko\nJapanese\n', b'\nNishihara, Kumiko\nJapanese\n', b'\nHibi, Aiko\nJapanese\n', b'\nKumai, Motoko\nJapanese\n', b'\nNagasawa, Nao\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakao, Noriko\n\nDirector, Episode Director, Storyboard\n\n', b'\nNezu, Rika\n\nScript\n\n', b'\nNakamura, Hikaru\n\nOriginal Creator\n\n', b'\nMoriyasu, Yasunao\n\nBackground Art\n\n']
+animePopularity	1840
+animeDescription	"Jesus Christ and Gautama Buddha, the founders of Christianity and Buddhism, are living together as roommates in a Tokyo apartment while taking a vacation on Earth. The comedy often involves jokes about Christianity, Buddhism, and all things related, as well as the main characters' attempts to hide their identities and understand modern society in Japan.
+
+"
+animeRelated	['Saint☆Oniisan', 'Saint☆Oniisan (Movie)']
+animeCharacters	"['Jesus', 'Buddha', 'Matsuda, Sachiyo', 'Narrator', ""Kouhei's Mother"", 'Conveni Tenin', ""Ryouta's Mother"", 'Kouhei', 'Daisuke', 'Ryouta']"
+animeVoices	['Moriyama, Mirai', 'Hoshino, Gen', 'Suzuki, Reiko', 'Kinomiya, Ryouko', 'Saito, Kimiko', 'Nishihara, Kumiko', 'Hibi, Aiko', 'Kumai, Motoko', 'Nagasawa, Nao']
+animeStaff	[['Takao, Noriko', 'Director, Episode Director, Storyboard'], ['Nezu, Rika', 'Script'], ['Nakamura, Hikaru', 'Original Creator'], ['Moriyasu, Yasunao', 'Background Art']]

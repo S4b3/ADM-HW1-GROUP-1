@@ -1,5 +1,5 @@
-animeTitle	b'Rakuen Tsuihou'
-animeType	b'Movie'
+animeTitle	Rakuen Tsuihou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.34
 animeUsers	40397
 animeRank	
-animePopularity	
-animeDescription	"b""In a future where a massive disaster has devastated Earth, most of humanity has abandoned their physical bodies and relocated in digital form to DEVA, an advanced space station orbiting the ravaged planet. Free from the limitations of traditional existence, such as death and hunger, the inhabitants of this virtual reality reside in relative peace until Frontier Setter, a skilled hacker, infiltrates the system and spreads subversive messages to the populace.\n\nLabeled a threat to security by authorities, Frontier Setter is pursued by Angela Balzac, a dedicated member of DEVA's law enforcement. When the hacker's signal is traced to Earth, Angela takes on physical form, transferring her consciousness to a clone body and traveling to the world below in order to deal with the menace. On Earth, she is assisted by Dingo, a charismatic agent, and during her journey to uncover the mystery behind Frontier Setter, she gradually discovers startling realities about the wasteland some of humanity still refers to as home, as well as the paradise above.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Rakuen Tsuihou: Mission.0']
-animeCharacters	[b'Balzac, Angela', b'Frontier Setter', b'Kajiwara, Zarik', b'Yzak', b'Gillum, Christine', b'Arhan', b'Koukan B', b'Koukan C', b'Koukan A', b'Lazro']
-animeVoices	[b'\nKugimiya, Rie\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nAnzai, Chika\nJapanese\n', b'\nEgawa, Hisao\nJapanese\n', b'\nUemura, Noriko\nJapanese\n', b'\nInaba, Minoru\nJapanese\n', b'\nEndou, Daichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNoguchi, Kouichi\n\nProducer\n\n', b'\nMizushima, Seiji\n\nDirector, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nKyouda, Tomoki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	1784
+animeDescription	"In a future where a massive disaster has devastated Earth, most of humanity has abandoned their physical bodies and relocated in digital form to DEVA, an advanced space station orbiting the ravaged planet. Free from the limitations of traditional existence, such as death and hunger, the inhabitants of this virtual reality reside in relative peace until Frontier Setter, a skilled hacker, infiltrates the system and spreads subversive messages to the populace.
+
+Labeled a threat to security by authorities, Frontier Setter is pursued by Angela Balzac, a dedicated member of DEVA's law enforcement. When the hacker's signal is traced to Earth, Angela takes on physical form, transferring her consciousness to a clone body and traveling to the world below in order to deal with the menace. On Earth, she is assisted by Dingo, a charismatic agent, and during her journey to uncover the mystery behind Frontier Setter, she gradually discovers startling realities about the wasteland some of humanity still refers to as home, as well as the paradise above.
+
+[Written by MAL Rewrite]"
+animeRelated	['Rakuen Tsuihou: Mission.0']
+animeCharacters	['Balzac, Angela', 'Frontier Setter', 'Kajiwara, Zarik', 'Yzak', 'Gillum, Christine', 'Arhan', 'Koukan B', 'Koukan C', 'Koukan A', 'Lazro']
+animeVoices	['Kugimiya, Rie', 'Kamiya, Hiroshi', 'Miki, Shinichiro', 'Miyake, Kenta', 'Hayashibara, Megumi', 'Anzai, Chika', 'Egawa, Hisao', 'Uemura, Noriko', 'Inaba, Minoru', 'Endou, Daichi']
+animeStaff	[['Noguchi, Kouichi', 'Producer'], ['Mizushima, Seiji', 'Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Kyouda, Tomoki', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Teekyuu 9'
-animeType	b'TV'
+animeTitle	Teekyuu 9
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.56
 animeUsers	5499
 animeRank	
-animePopularity	
-animeDescription	b'Ninth season of the Teekyuu anime series.'
-animeRelated	[b'Teekyuu', b'Teekyuu 8']
-animeCharacters	[b'Bandou, Marimo', b'Shinjou, Kanae', b'Takamiya, Nasuno', b'Oshimoto, Yuri', b'Michael', b'Tomalin', b'Yucatan', b'Kondou, Udonko', b'Oshimoto, Youta', b'Saleswoman']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nNarumi, Kyoko\nJapanese\n', b'\nWatanabe, Yui\nJapanese\n', b'\nOgura, Yui\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItagaki, Shin\n\nDirector, Sound Director, Storyboard, Character Design, Screenplay\n\n', b'\nWatanabe, Yui\n\nTheme Song Performance\n\n', b'\nEarth Star Dream\n\nTheme Song Performance\n\n', b'\nPiyo\n\nOriginal Creator\n\n']
+animePopularity	4961
+animeDescription	Ninth season of the Teekyuu anime series.
+animeRelated	['Teekyuu', 'Teekyuu 8']
+animeCharacters	['Bandou, Marimo', 'Shinjou, Kanae', 'Takamiya, Nasuno', 'Oshimoto, Yuri', 'Michael', 'Tomalin', 'Yucatan', 'Kondou, Udonko', 'Oshimoto, Youta', 'Saleswoman']
+animeVoices	['Hanazawa, Kana', 'Mimori, Suzuko', 'Narumi, Kyoko', 'Watanabe, Yui', 'Ogura, Yui', 'Oosaka, Ryouta']
+animeStaff	[['Itagaki, Shin', 'Director, Sound Director, Storyboard, Character Design, Screenplay'], ['Watanabe, Yui', 'Theme Song Performance'], ['Earth Star Dream', 'Theme Song Performance'], ['Piyo', 'Original Creator']]

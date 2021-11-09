@@ -1,5 +1,5 @@
-animeTitle	b'Little El Cid no Bouken'
-animeType	b'TV'
+animeTitle	Little El Cid no Bouken
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.33
 animeUsers	182
 animeRank	
-animePopularity	
-animeDescription	b'A boy named Rui Diaz De Vivar wants to become a knight. To do so he must travel the king of Castilla.'
+animePopularity	12422
+animeDescription	A boy named Rui Diaz De Vivar wants to become a knight. To do so he must travel the king of Castilla.
 animeRelated	[]
-animeCharacters	[b'Diaz De Vivar, Rui', b'Louis', b'Reines', b'Jeremias', b'King Fernando', b'Teresa']
-animeVoices	[b'\nWatanabe, Naoko\nJapanese\n', b'\nShibata, Hidekatsu\nJapanese\n', b'\nYanami, Jouji\nJapanese\n', b'\nAzusa, Kinpei\nJapanese\n', b'\nTsuboi, Akiko\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nKurokawa, Fumio\n\nDirector\n\n', b""\nD'Avena, Cristina\n\nTheme Song Performance\n\n"", b'\nSeki, Shuuichi\n\nAnimation Director, Character Design\n\n', b'\nOkuda, Seiji\n\nScreenplay\n\n']"
+animeCharacters	['Diaz De Vivar, Rui', 'Louis', 'Reines', 'Jeremias', 'King Fernando', 'Teresa']
+animeVoices	['Watanabe, Naoko', 'Shibata, Hidekatsu', 'Yanami, Jouji', 'Azusa, Kinpei', 'Tsuboi, Akiko']
+animeStaff	"[['Kurokawa, Fumio', 'Director'], [""D'Avena, Cristina"", 'Theme Song Performance'], ['Seki, Shuuichi', 'Animation Director, Character Design'], ['Okuda, Seiji', 'Screenplay']]"

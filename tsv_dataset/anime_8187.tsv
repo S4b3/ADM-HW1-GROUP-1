@@ -1,5 +1,5 @@
-animeTitle	b'Softenni Specials'
-animeType	b'Special'
+animeTitle	Softenni Specials
+animeType	Special
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.1
 animeUsers	1817
 animeRank	
-animePopularity	
-animeDescription	b'Special episodes from the Blu-rays and DVDs.'
-animeRelated	[b'Softenni']
-animeCharacters	[b'Fuyukawa, Kurusu', b'Harukaze, Asuna', b'Akiyama, Chitose', b'Hiragishi, Yayoi', b'Warren, Elizabeth', b'Sawanatsu, Kotone']
-animeVoices	[b'\nAkesaka, Satomi\nJapanese\n', b'\nItou, Kanae\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nKitamura, Eri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuda, Akito\n\nMusic\n\n', b'\nOka, Yuuichi\n\nCharacter Design\n\n', b'\nAzuchi, Ryo\n\nOriginal Creator\n\n']
+animePopularity	7558
+animeDescription	Special episodes from the Blu-rays and DVDs.
+animeRelated	['Softenni']
+animeCharacters	['Fuyukawa, Kurusu', 'Harukaze, Asuna', 'Akiyama, Chitose', 'Hiragishi, Yayoi', 'Warren, Elizabeth', 'Sawanatsu, Kotone']
+animeVoices	['Akesaka, Satomi', 'Itou, Kanae', 'Itou, Shizuka', 'Tomatsu, Haruka', 'Yahagi, Sayuri', 'Kitamura, Eri']
+animeStaff	[['Matsuda, Akito', 'Music'], ['Oka, Yuuichi', 'Character Design'], ['Azuchi, Ryo', 'Original Creator']]

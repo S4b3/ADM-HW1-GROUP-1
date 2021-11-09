@@ -1,5 +1,5 @@
-animeTitle	b'Maria-sama ga Miteru: Haru'
-animeType	b'TV'
+animeTitle	Maria-sama ga Miteru: Haru
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.65
 animeUsers	11234
 animeRank	
-animePopularity	
-animeDescription	"b""The spring term is beginning for the students at Lillian Girls' Academy. Friends are reunited, but for the Yamayuri Council, it's a bittersweet time. Yoko, Eriko, and Sei are busy preparing to depart Lillian while Sachiko, Rei, and Shimako are doing their best to ensure that their dear sisters receive a memorable commencement.\n\nSei's departure will leave a sizable hole in the White Roses, and filling it won't be easy. But is there anyone who could appeal to Shimako enough to become the next Rosa Gigantea en bouton?\n\n(Source: RightStuf)"""
-animeRelated	[b'Maria-sama ga Miteru', b'Maria-sama ga Miteru 3rd', b'Maria-sama ga Miteru: Haru Specials']
-animeCharacters	[b'Satou, Sei', b'Ogasawara, Sachiko', b'Fukuzawa, Yumi', b'Toudou, Shimako', b'Matsudaira, Touko', b'Shimazu, Yoshino', b'Mizuno, Youko', b'Hasekura, Rei', b'Nijou, Noriko', b'Torii, Eriko']
-animeVoices	[b'\nToyoguchi, Megumi\nJapanese\n', b'\nItou, Miki\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nIkezawa, Haruna\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nShimizu, Kaori\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsushita, Yukihiro\n\nDirector, Episode Director, Storyboard\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nFuruhashi, Kazuhiro\n\nEpisode Director, Storyboard\n\n', b'\nYoshida, Shunji\n\nEpisode Director\n\n']
+animePopularity	3663
+animeDescription	"The spring term is beginning for the students at Lillian Girls' Academy. Friends are reunited, but for the Yamayuri Council, it's a bittersweet time. Yoko, Eriko, and Sei are busy preparing to depart Lillian while Sachiko, Rei, and Shimako are doing their best to ensure that their dear sisters receive a memorable commencement.
+
+Sei's departure will leave a sizable hole in the White Roses, and filling it won't be easy. But is there anyone who could appeal to Shimako enough to become the next Rosa Gigantea en bouton?
+
+(Source: RightStuf)"
+animeRelated	['Maria-sama ga Miteru', 'Maria-sama ga Miteru 3rd', 'Maria-sama ga Miteru: Haru Specials']
+animeCharacters	['Satou, Sei', 'Ogasawara, Sachiko', 'Fukuzawa, Yumi', 'Toudou, Shimako', 'Matsudaira, Touko', 'Shimazu, Yoshino', 'Mizuno, Youko', 'Hasekura, Rei', 'Nijou, Noriko', 'Torii, Eriko']
+animeVoices	['Toyoguchi, Megumi', 'Itou, Miki', 'Ueda, Kana', 'Noto, Mamiko', 'Kugimiya, Rie', 'Ikezawa, Haruna', 'Shinohara, Emi', 'Itou, Shizuka', 'Shimizu, Kaori', 'Nabatame, Hitomi']
+animeStaff	[['Matsushita, Yukihiro', 'Director, Episode Director, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Furuhashi, Kazuhiro', 'Episode Director, Storyboard'], ['Yoshida, Shunji', 'Episode Director']]

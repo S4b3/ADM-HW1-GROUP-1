@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 31: Shin Nobita to Tetsujin Heidan - Habatake Tenshi-tachi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.01
 animeUsers	5875
 animeRank	
-animePopularity	
-animeDescription	"b""Jealous of Suneo's new robot toy, Nobita asks Doraemon to build him an even better one. Doraemon initially refuses, until Nobita accidentally discovers pieces of a mysterious robot that falls from the sky. After gathering all the robot parts and assembled them together, the giant robot, Zanda Claus, is soon completed. The duo soon learn that the robot is not a mere toy, but a powerful weapon in the fight against the coming Robot Army that is going to attack Earth and enslave the human inhabitants of it. An invasion is near, as a mysterious girl Riruru (\xe3\x83\xaa\xe3\x83\xab\xe3\x83\xab, Alternative spelling: Lilulu, Lillele [Doko Demo Doa Scanlations]) shows up, looking for the robot.\n\n(Source: Wikipedia)"""
-animeRelated	[b'Doraemon Movie 07: Nobita to Tetsujin Heidan', b'Doraemon (2005)']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi', b'Riruru', b'Pippo', b'Dorami', b'Nobi, Nobisuke', b'Fukuyama, Masaaki']
-animeVoices	[b'\nMizuta, Wasabi\nJapanese\n', b'\nOohara, Megumi\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nKimura, Subaru\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKobayashi, Yumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTeramoto, Yukiyo\n\nDirector, Storyboard\n\n', b'\nKoshi, Shigeo\n\nStoryboard\n\n', b'\nYajima, Tetsuo\n\nStoryboard\n\n', b'\nBUMP OF CHICKEN\n\nTheme Song Composition, Theme Song Lyrics, Theme Song Performance, Theme Song Arrangement\n\n']
+animePopularity	5588
+animeDescription	"Jealous of Suneo's new robot toy, Nobita asks Doraemon to build him an even better one. Doraemon initially refuses, until Nobita accidentally discovers pieces of a mysterious robot that falls from the sky. After gathering all the robot parts and assembled them together, the giant robot, Zanda Claus, is soon completed. The duo soon learn that the robot is not a mere toy, but a powerful weapon in the fight against the coming Robot Army that is going to attack Earth and enslave the human inhabitants of it. An invasion is near, as a mysterious girl Riruru (リルル, Alternative spelling: Lilulu, Lillele [Doko Demo Doa Scanlations]) shows up, looking for the robot.
+
+(Source: Wikipedia)"
+animeRelated	['Doraemon Movie 07: Nobita to Tetsujin Heidan', 'Doraemon (2005)']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Riruru', 'Pippo', 'Dorami', 'Nobi, Nobisuke', 'Fukuyama, Masaaki']
+animeVoices	['Mizuta, Wasabi', 'Oohara, Megumi', 'Kakazu, Yumi', 'Seki, Tomokazu', 'Kimura, Subaru', 'Sawashiro, Miyuki', 'Kobayashi, Yumiko']
+animeStaff	[['Teramoto, Yukiyo', 'Director, Storyboard'], ['Koshi, Shigeo', 'Storyboard'], ['Yajima, Tetsuo', 'Storyboard'], ['BUMP OF CHICKEN', 'Theme Song Composition, Theme Song Lyrics, Theme Song Performance, Theme Song Arrangement']]

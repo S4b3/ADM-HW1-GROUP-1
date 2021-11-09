@@ -1,5 +1,5 @@
-animeTitle	b'Skull Man'
-animeType	b'TV'
+animeTitle	Skull Man
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.63
 animeUsers	7484
 animeRank	
-animePopularity	
-animeDescription	"b""Otomo City: where freedom and justice have atrophied to the bone; where conspiracy rules the day and death stalks the night... Death in the form of the Skull Man, a literal Grim Reaper whose skeletal grin presages grisly mayhem and murder, even to the monstrous mutants that haunt the city's underworlds! \n\nTo investigate a bizarre slaying, journalist Minagami Hayato and photographer Kiriko Mamiya must stalk this ultimate predator, through a festering cadaver of a city where the corruption flows in rivers as deep and foul as the sins of the reigning elite, and unearth a secret so shocking that an entire city has been turned into a tomb to contain! In a nightmarish necropolis where nothing is as it seems, vengeance comes in the form of a living Death's-Head! \n\n(Source: Sentai Filmworks) """
-animeRelated	[b'Kaiki Romanesque Gekiga: Skull Man']
-animeCharacters	[b'SkullMan', b'Kanzaki, Yoshio', b'Mamiya, Kiriko', b'Mikogami, Hayato', b'Tachigi, Kyouichirou', b'Akira, Usami', b'Shingyouji, Reina', b'Kisaragi, Nami ', b'Kuroshio, Maya', b'Shinjou, Tsuyoshi']
-animeVoices	[b'\nTsuchida, Hiroshi\nJapanese\n', b'\nKatou, Masayuki\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nYasumura, Makoto\nJapanese\n', b'\nHori, Katsunosuke\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Kouji\n\nProducer\n\n', b'\nMori, Takeshi\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nKyouda, Tomoki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3433
+animeDescription	"Otomo City: where freedom and justice have atrophied to the bone; where conspiracy rules the day and death stalks the night... Death in the form of the Skull Man, a literal Grim Reaper whose skeletal grin presages grisly mayhem and murder, even to the monstrous mutants that haunt the city's underworlds! 
+
+To investigate a bizarre slaying, journalist Minagami Hayato and photographer Kiriko Mamiya must stalk this ultimate predator, through a festering cadaver of a city where the corruption flows in rivers as deep and foul as the sins of the reigning elite, and unearth a secret so shocking that an entire city has been turned into a tomb to contain! In a nightmarish necropolis where nothing is as it seems, vengeance comes in the form of a living Death's-Head! 
+
+(Source: Sentai Filmworks) "
+animeRelated	['Kaiki Romanesque Gekiga: Skull Man']
+animeCharacters	['SkullMan', 'Kanzaki, Yoshio', 'Mamiya, Kiriko', 'Mikogami, Hayato', 'Tachigi, Kyouichirou', 'Akira, Usami', 'Shingyouji, Reina', 'Kisaragi, Nami ', 'Kuroshio, Maya', 'Shinjou, Tsuyoshi']
+animeVoices	['Tsuchida, Hiroshi', 'Katou, Masayuki', 'Kawasumi, Ayako', 'Yasumura, Makoto', 'Hori, Katsunosuke', 'Yoshino, Hiroyuki', 'Neya, Michiko', 'Inoue, Kikuko', 'Orikasa, Fumiko', 'Seki, Tomokazu']
+animeStaff	[['Yamamoto, Kouji', 'Producer'], ['Mori, Takeshi', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Kyouda, Tomoki', 'Episode Director, Storyboard']]

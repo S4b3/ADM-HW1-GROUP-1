@@ -1,5 +1,5 @@
-animeTitle	b'Grancrest Senki Tsuisou'
-animeType	b'Special'
+animeTitle	Grancrest Senki Tsuisou
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.55
 animeUsers	3932
 animeRank	
-animePopularity	
-animeDescription	b'A recap of major events and notable characters from the first 11 episode of Grancrest Senki.'
-animeRelated	[b'Grancrest Senki']
-animeCharacters	[b'Cornaro, Theo']
+animePopularity	5251
+animeDescription	A recap of major events and notable characters from the first 11 episode of Grancrest Senki.
+animeRelated	['Grancrest Senki']
+animeCharacters	['Cornaro, Theo']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMizuno, Ryou\n\nOriginal Creator\n\n', b'\nMiyuu\n\nOriginal Character Design\n\n']
+animeStaff	[['Mizuno, Ryou', 'Original Creator'], ['Miyuu', 'Original Character Design']]

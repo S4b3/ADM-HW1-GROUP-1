@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 13: Nobita to Kumo no Oukoku'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 13: Nobita to Kumo no Oukoku
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.11
 animeUsers	3540
 animeRank	
-animePopularity	
-animeDescription	b'During class, Nobita questions the teacher where heaven is located when he was being taught about clouds. Being laughed at, Nobita looks for proof that a heavenly place exists on the clouds, but was explained by Doraemon that it cannot exist scientifically. Disappointed, he was eventually helped by Doraemon to create their own kingdom of clouds. Little did they know that there are creatures who have been living on clouds for a long time. \n\n(Source: ANN) '
-animeRelated	[b'Daichouhen Doraemon', b'Doraemon (1979)']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi', b'Nobi, Nobisuke', b'Kibo']
-animeVoices	[b'\nOoyama, Nobuyo\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nNomura, Michiko\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nTatekabe, Kazuya\nJapanese\n', b'\nKatou, Masayuki\nJapanese\n', b'\nMaruyama, Eiji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nTakeda, Tetsuya\n\nTheme Song Lyrics, Theme Song Performance\n\n', b'\nYamanaka, Norimasa\n\nTheme Song Arrangement\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n']
+animePopularity	6659
+animeDescription	"During class, Nobita questions the teacher where heaven is located when he was being taught about clouds. Being laughed at, Nobita looks for proof that a heavenly place exists on the clouds, but was explained by Doraemon that it cannot exist scientifically. Disappointed, he was eventually helped by Doraemon to create their own kingdom of clouds. Little did they know that there are creatures who have been living on clouds for a long time. 
+
+(Source: ANN) "
+animeRelated	['Daichouhen Doraemon', 'Doraemon (1979)']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Nobi, Nobisuke', 'Kibo']
+animeVoices	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Nomura, Michiko', 'Kimotsuki, Kaneta', 'Tatekabe, Kazuya', 'Katou, Masayuki', 'Maruyama, Eiji']
+animeStaff	[['Urakami, Yasuo', 'Sound Director'], ['Takeda, Tetsuya', 'Theme Song Lyrics, Theme Song Performance'], ['Yamanaka, Norimasa', 'Theme Song Arrangement'], ['Fujiko, Fujio F.', 'Original Creator']]

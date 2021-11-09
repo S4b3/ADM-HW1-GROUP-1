@@ -1,5 +1,5 @@
-animeTitle	b'Larva'
-animeType	b'TV'
+animeTitle	Larva
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.88
 animeUsers	820
 animeRank	
-animePopularity	
-animeDescription	b'Daily live of two larvae.'
-animeRelated	[b'Larva 2nd Season']
-animeCharacters	[b'Red', b'Yellow', b'Pink', b'Blue', b'Rainbow', b'Black', b'Brown', b'Violet']
+animePopularity	10237
+animeDescription	Daily live of two larvae.
+animeRelated	['Larva 2nd Season']
+animeCharacters	['Red', 'Yellow', 'Pink', 'Blue', 'Rainbow', 'Black', 'Brown', 'Violet']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTchaikovsky, Pyotr Ilyich\n\nMusic\n\n']
+animeStaff	[['Tchaikovsky, Pyotr Ilyich', 'Music']]

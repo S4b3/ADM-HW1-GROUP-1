@@ -1,5 +1,5 @@
-animeTitle	b'Bible Black Only Version'
-animeType	b'OVA'
+animeTitle	Bible Black Only Version
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.77
 animeUsers	8389
 animeRank	
-animePopularity	
-animeDescription	b'Bible Black Only explores the sexual misadventures of the supporting cast from the main Bible Black series. Miss Takashiro reminisces on her demonic capture, Itoh reveals her sadistic side, and Saeki is stalked by her classmates. Bible Black Only is a series of stand-alone episodes that do not affect the continuity of the main Bible Black series, and it contains footage that was previously only available on the R2 Bible Black Perfect Collection DVD.\n\n(Source: ANN)'
-animeRelated	[b'Bible Black']
-animeCharacters	[b'Takashiro, Hiroko', b'Saeki, Kaori', b'Minase, Yukiko', b'Itou, Mika']
-animeVoices	[b'\nKanbayashi, Haruna\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurakami, Kotaro\n\nProducer\n\n', b'\nSei Shoujo\n\nOriginal Character Design, Original Creator\n\n', b'\nYoshiten\n\nAnimation Director, Character Design\n\n', b'\nActive\n\nOriginal Creator\n\n']
+animePopularity	4279
+animeDescription	"Bible Black Only explores the sexual misadventures of the supporting cast from the main Bible Black series. Miss Takashiro reminisces on her demonic capture, Itoh reveals her sadistic side, and Saeki is stalked by her classmates. Bible Black Only is a series of stand-alone episodes that do not affect the continuity of the main Bible Black series, and it contains footage that was previously only available on the R2 Bible Black Perfect Collection DVD.
+
+(Source: ANN)"
+animeRelated	['Bible Black']
+animeCharacters	['Takashiro, Hiroko', 'Saeki, Kaori', 'Minase, Yukiko', 'Itou, Mika']
+animeVoices	['Kanbayashi, Haruna']
+animeStaff	[['Murakami, Kotaro', 'Producer'], ['Sei Shoujo', 'Original Character Design, Original Creator'], ['Yoshiten', 'Animation Director, Character Design'], ['Active', 'Original Creator']]

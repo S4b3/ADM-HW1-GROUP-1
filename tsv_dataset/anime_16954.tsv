@@ -1,5 +1,5 @@
-animeTitle	b'Kuroneko Monroe'
-animeType	b'TV'
+animeTitle	Kuroneko Monroe
+animeType	TV
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'The series follows the black cat Monroe and the human Yoppy and their ""normal and special everyday lives.""\n\n(Source: ANN)'"
-animeRelated	[b'Kuroneko Monroe']
+animePopularity	12866
+animeDescription	"The series follows the black cat Monroe and the human Yoppy and their ""normal and special everyday lives.""
+
+(Source: ANN)"
+animeRelated	['Kuroneko Monroe']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

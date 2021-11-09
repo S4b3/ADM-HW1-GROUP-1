@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: Part II'
-animeType	b'TV'
+animeTitle	Lupin III: Part II
+animeType	TV
 animeNumEpisode	155
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.8
 animeUsers	8468
 animeRank	
-animePopularity	
-animeDescription	"b""Lupin III chronicles the adventures of Arsene Lupin III, the world's greatest thief, and his partners in crime: master marksman Daisuke Jigen, beautiful and scheming Fujiko Mine and stoic samurai Goemon Ishikawa XIII. Lupin and his gang travel around the globe in search of the world's greatest treasures and riches and always keeping one step ahead of the tireless Inspector Zenigata, who has vowed to bring Lupin to justice. \n\n(Source: ANN)"""
-animeRelated	[b'Lupin III', b'Lupin III: Part III']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi', b'Oscar', b'Fake Lupin', b'Drill, Conan', b'Arantes do Nascimento, Edson', b'Oyamada, Maki']
-animeVoices	[b'\nYamada, Yasuo\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nNaya, Gorou\nJapanese\n', b'\nNiki, Terumi\nJapanese\n', b'\nHiura, Ben\nJapanese\n', b'\nKitamura, Kouichi\nJapanese\n', b'\nShimamoto, Sumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiguro, Noboru\n\nCo-Director\n\n', b'\nMiyazaki, Hayao\n\nDirector, Storyboard, Screenplay\n\n', b'\nSuzuki, Seijun\n\nDirector\n\n', b'\nKaneko, Yutaka\n\nScript\n\n']
+animePopularity	3362
+animeDescription	"Lupin III chronicles the adventures of Arsene Lupin III, the world's greatest thief, and his partners in crime: master marksman Daisuke Jigen, beautiful and scheming Fujiko Mine and stoic samurai Goemon Ishikawa XIII. Lupin and his gang travel around the globe in search of the world's greatest treasures and riches and always keeping one step ahead of the tireless Inspector Zenigata, who has vowed to bring Lupin to justice. 
+
+(Source: ANN)"
+animeRelated	['Lupin III', 'Lupin III: Part III']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Oscar', 'Fake Lupin', 'Drill, Conan', 'Arantes do Nascimento, Edson', 'Oyamada, Maki']
+animeVoices	['Yamada, Yasuo', 'Kobayashi, Kiyoshi', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou', 'Niki, Terumi', 'Hiura, Ben', 'Kitamura, Kouichi', 'Shimamoto, Sumi']
+animeStaff	[['Ishiguro, Noboru', 'Co-Director'], ['Miyazaki, Hayao', 'Director, Storyboard, Screenplay'], ['Suzuki, Seijun', 'Director'], ['Kaneko, Yutaka', 'Script']]

@@ -1,5 +1,5 @@
-animeTitle	b'Bungou Stray Dogs: Hitori Ayumu'
-animeType	b'OVA'
+animeTitle	Bungou Stray Dogs: Hitori Ayumu
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.66
 animeUsers	64114
 animeRank	
-animePopularity	
-animeDescription	b'Armed Detective Agency members discuss the most suitable candidate for the second-in-command. Doppo Kunikida is carrying out official errands as planned in his diary as usual. Unexpectedly, a bomb-related incident occurs, challenging the ideals he has always upheld. When weighing one life over hundreds, how will he proceed?\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Bungou Stray Dogs', b'Bungou Stray Dogs 2nd Season']
-animeCharacters	[b'Kunikida, Doppo', b'Kouda, Aya', b'Dazai, Osamu', b'Nakahara, Chuuya', b'Edogawa, Ranpo', b'Nakajima, Atsushi', b'Yosano, Akiko', b'Miyazawa, Kenji', b'Tanizaki, Junichirou', b'Fukuzawa, Yukichi']
-animeVoices	[b'\nHosoya, Yoshimasa\nJapanese\n', b'\nKotobuki, Minako\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nUemura, Yuuto\nJapanese\n', b'\nShimamura, Yuu\nJapanese\n', b'\nKagura, Hiroyuki\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIgarashi, Takuya\n\nDirector\n\n', b'\nIwasaki, Taku\n\nMusic\n\n', b'\nAsagiri, Kafka\n\nOriginal Creator\n\n', b'\nLima, Wellington\n\nADR Director\n\n']
+animePopularity	1354
+animeDescription	"Armed Detective Agency members discuss the most suitable candidate for the second-in-command. Doppo Kunikida is carrying out official errands as planned in his diary as usual. Unexpectedly, a bomb-related incident occurs, challenging the ideals he has always upheld. When weighing one life over hundreds, how will he proceed?
+
+[Written by MAL Rewrite]"
+animeRelated	['Bungou Stray Dogs', 'Bungou Stray Dogs 2nd Season']
+animeCharacters	['Kunikida, Doppo', 'Kouda, Aya', 'Dazai, Osamu', 'Nakahara, Chuuya', 'Edogawa, Ranpo', 'Nakajima, Atsushi', 'Yosano, Akiko', 'Miyazawa, Kenji', 'Tanizaki, Junichirou', 'Fukuzawa, Yukichi']
+animeVoices	['Hosoya, Yoshimasa', 'Kotobuki, Minako', 'Miyano, Mamoru', 'Taniyama, Kishou', 'Kamiya, Hiroshi', 'Uemura, Yuuto', 'Shimamura, Yuu', 'Kagura, Hiroyuki', 'Toyonaga, Toshiyuki', 'Koyama, Rikiya']
+animeStaff	[['Igarashi, Takuya', 'Director'], ['Iwasaki, Taku', 'Music'], ['Asagiri, Kafka', 'Original Creator'], ['Lima, Wellington', 'ADR Director']]

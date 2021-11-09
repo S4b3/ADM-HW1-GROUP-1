@@ -1,5 +1,5 @@
-animeTitle	b'WXIII Kidou Keisatsu Patlabor'
-animeType	b'Movie'
+animeTitle	WXIII Kidou Keisatsu Patlabor
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.72
 animeUsers	4831
 animeRank	
-animePopularity	
-animeDescription	b'When the level of Labor accidents begin to escalate around Tokyo Bay, police detectives Kusumi and Hata are assigned to investigate. What they discover leads to a series of government cover-ups, conspiracy concerning a new biological weapon entitled WXIII-Wasted Thirteen and a tragic, personal connection to Hata. The only hope to stop this threat is to cooperate with the military and lead WXIII into a showdown with the Labors of Special Vehicle Division 2. \n\n(Source: ANN)'
-animeRelated	[b'Kidou Keisatsu Patlabor 2 the Movie', b'Kidou Keisatsu Patlabor: Reboot']
-animeCharacters	[b'Kusumi, Takeshi', b'Hata, Shinichiro', b'Gotou, Kiichi', b'Izumi, Noa', b'Shinohara, Asuma', b'Yamazaki, Hiromi', b'Oota, Isao', b'Shinshi, Mikiyasu', b'Kaiho', b'Ishihara, Goro']
-animeVoices	[b'\nWatabiki, Katsuhiko\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nOobayashi, Ryuusuke\nJapanese\n', b'\nTominaga, Miina\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nIkemizu, Michihiro\nJapanese\n', b'\nFutamata, Issei\nJapanese\n', b'\nKojima, Toshihiko\nJapanese\n', b'\nMorita, Junpei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakayama, Fumihiko\n\nDirector, Storyboard\n\n', b'\nEndou, Takuji\n\nDirector\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nEpcar, Richard\n\nScript, ADR Director\n\n']
+animePopularity	5259
+animeDescription	"When the level of Labor accidents begin to escalate around Tokyo Bay, police detectives Kusumi and Hata are assigned to investigate. What they discover leads to a series of government cover-ups, conspiracy concerning a new biological weapon entitled WXIII-Wasted Thirteen and a tragic, personal connection to Hata. The only hope to stop this threat is to cooperate with the military and lead WXIII into a showdown with the Labors of Special Vehicle Division 2. 
+
+(Source: ANN)"
+animeRelated	['Kidou Keisatsu Patlabor 2 the Movie', 'Kidou Keisatsu Patlabor: Reboot']
+animeCharacters	['Kusumi, Takeshi', 'Hata, Shinichiro', 'Gotou, Kiichi', 'Izumi, Noa', 'Shinohara, Asuma', 'Yamazaki, Hiromi', 'Oota, Isao', 'Shinshi, Mikiyasu', 'Kaiho', 'Ishihara, Goro']
+animeVoices	['Watabiki, Katsuhiko', 'Hirata, Hiroaki', 'Oobayashi, Ryuusuke', 'Tominaga, Miina', 'Furukawa, Toshio', 'Gouri, Daisuke', 'Ikemizu, Michihiro', 'Futamata, Issei', 'Kojima, Toshihiko', 'Morita, Junpei']
+animeStaff	[['Takayama, Fumihiko', 'Director, Storyboard'], ['Endou, Takuji', 'Director'], ['Kameyama, Toshiki', 'Sound Director'], ['Epcar, Richard', 'Script, ADR Director']]

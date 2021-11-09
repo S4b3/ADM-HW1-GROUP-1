@@ -1,5 +1,5 @@
-animeTitle	b'Monster Extra: Hottan'
-animeType	b'Special'
+animeTitle	Monster Extra: Hottan
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.63
 animeUsers	3956
 animeRank	
-animePopularity	
-animeDescription	b'Recap of the first 17 episodes of Monster, airing between episodes 24 and 25 of the TV series.'
-animeRelated	[b'Monster']
-animeCharacters	[b'Liebert, Johan', b'Tenma, Kenzou', b'Lunge, Heinrich', b'Liebert, Anna', b'Heinemann, Eva', b'Dieter']
-animeVoices	[b'\nSasaki, Nozomu\nJapanese\n', b'\nKiuchi, Hidenobu\nJapanese\n', b'\nIsobe, Tsutomu\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nKoyama, Mami\nJapanese\n', b'\nTakeuchi, Junko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUrasawa, Naoki\n\nOriginal Creator\n\n']
+animePopularity	5383
+animeDescription	Recap of the first 17 episodes of Monster, airing between episodes 24 and 25 of the TV series.
+animeRelated	['Monster']
+animeCharacters	['Liebert, Johan', 'Tenma, Kenzou', 'Lunge, Heinrich', 'Liebert, Anna', 'Heinemann, Eva', 'Dieter']
+animeVoices	['Sasaki, Nozomu', 'Kiuchi, Hidenobu', 'Isobe, Tsutomu', 'Noto, Mamiko', 'Koyama, Mami', 'Takeuchi, Junko']
+animeStaff	[['Urasawa, Naoki', 'Original Creator']]

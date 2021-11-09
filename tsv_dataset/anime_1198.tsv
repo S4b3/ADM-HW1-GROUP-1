@@ -1,5 +1,5 @@
-animeTitle	b'AKB0048: Next Stage'
-animeType	b'TV'
+animeTitle	AKB0048: Next Stage
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.64
 animeUsers	17988
 animeRank	
-animePopularity	
-animeDescription	"b""In the year since the 77th generation understudies joined AKB0048, the Deep Galactic Trade Organization [DGTO] and DES have stepped up their attacks on entertainment. In response, AKB0048 brings back the general elections and the center nova position. The understudies are now thrusted into a new competition directly against the successors. But as AKB0048 brings back policies not seen since Acchan's disappearance, a new more powerful enemy is quietly moving behind the scenes.\n\n(Source: ANN)"""
-animeRelated	[b'AKB0048']
-animeCharacters	[b'Motomiya, Nagisa', b'Sono, Chieri', b'Kimishima, Hikari', b'Shinonome, Sonata', b'Shinonome, Kanata', b'Kishida, Mimori', b'Kanzaki, Suzuko', b'Yokomizo, Makoto', b'Aida, Orine', b'Ichijou, Yuuka']
-animeVoices	[b'\nIwata, Karen\nJapanese\n', b'\nWatanabe, Mayu\nJapanese\n', b'\nKanda, Akemi\nJapanese\n', b'\nYagami, Kumi\nJapanese\n', b'\nIshida, Haruka\nJapanese\n', b'\nSatou, Sumire\nJapanese\n', b'\nHata, Sawako\nJapanese\n', b'\nMita, Mao\nJapanese\n', b'\nNakaya, Sayaka\nJapanese\n', b'\nSatou, Amina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawamori, Shouji\n\nDirector, Storyboard, Original Creator\n\n', b'\nHiraike, Yoshimasa\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nTakashima, Daisuke\n\nEpisode Director\n\n']
+animePopularity	3099
+animeDescription	"In the year since the 77th generation understudies joined AKB0048, the Deep Galactic Trade Organization [DGTO] and DES have stepped up their attacks on entertainment. In response, AKB0048 brings back the general elections and the center nova position. The understudies are now thrusted into a new competition directly against the successors. But as AKB0048 brings back policies not seen since Acchan's disappearance, a new more powerful enemy is quietly moving behind the scenes.
+
+(Source: ANN)"
+animeRelated	['AKB0048']
+animeCharacters	['Motomiya, Nagisa', 'Sono, Chieri', 'Kimishima, Hikari', 'Shinonome, Sonata', 'Shinonome, Kanata', 'Kishida, Mimori', 'Kanzaki, Suzuko', 'Yokomizo, Makoto', 'Aida, Orine', 'Ichijou, Yuuka']
+animeVoices	['Iwata, Karen', 'Watanabe, Mayu', 'Kanda, Akemi', 'Yagami, Kumi', 'Ishida, Haruka', 'Satou, Sumire', 'Hata, Sawako', 'Mita, Mao', 'Nakaya, Sayaka', 'Satou, Amina']
+animeStaff	[['Kawamori, Shouji', 'Director, Storyboard, Original Creator'], ['Hiraike, Yoshimasa', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Takashima, Daisuke', 'Episode Director']]

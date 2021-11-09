@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: Princess of the Breeze - Kakusareta Kuuchuu Toshi'
-animeType	b'Special'
+animeTitle	Lupin III: Princess of the Breeze - Kakusareta Kuuchuu Toshi
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.84
 animeUsers	1880
 animeRank	
-animePopularity	
-animeDescription	b'The story is set in Shahalta, a tiny European city-state floating in the air with practically no contact with the outside world for years. The government is transitioning from a monarchy to a republic, and to celebrate the occasion, a national treasure exhibition is being held. Lupin infiltrates the exhibition for the secret royal treasures, but not before sky pirates snatch them first.\n\n(Source: ANN) '
-animeRelated	[b'Lupin III']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Yutika', b'Zenigata, Kouichi', b'Viccolobute, Shion Adel', b'Bernard', b'Mister G', b'Ziva']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nIshikawa, Yui\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nSugou, Takayuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHarada, Nana\n\nEpisode Director\n\n', b'\nMonkey Punch\n\nOriginal Creator\n\n', b'\nKurahashi, Shizuo\n\nSound Effects\n\n', b'\nAono, Atsushi\n\nAnimation Director\n\n']
+animePopularity	7146
+animeDescription	"The story is set in Shahalta, a tiny European city-state floating in the air with practically no contact with the outside world for years. The government is transitioning from a monarchy to a republic, and to celebrate the occasion, a national treasure exhibition is being held. Lupin infiltrates the exhibition for the secret royal treasures, but not before sky pirates snatch them first.
+
+(Source: ANN) "
+animeRelated	['Lupin III']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Yutika', 'Zenigata, Kouichi', 'Viccolobute, Shion Adel', 'Bernard', 'Mister G', 'Ziva']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Sawashiro, Miyuki', 'Namikawa, Daisuke', 'Ishikawa, Yui', 'Yamadera, Kouichi', 'Kamiya, Hiroshi', 'Suwabe, Junichi', 'Chiba, Shigeru', 'Sugou, Takayuki']
+animeStaff	[['Harada, Nana', 'Episode Director'], ['Monkey Punch', 'Original Creator'], ['Kurahashi, Shizuo', 'Sound Effects'], ['Aono, Atsushi', 'Animation Director']]

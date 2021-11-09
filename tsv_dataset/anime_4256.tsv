@@ -1,5 +1,5 @@
-animeTitle	b'Hotori: Tada Saiwai wo Koinegau'
-animeType	b'Special'
+animeTitle	Hotori: Tada Saiwai wo Koinegau
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.89
 animeUsers	1932
 animeRank	
-animePopularity	
-animeDescription	b'At the Personality Plant, robots are being built and slowly outfitted with the artificial memories of real people. Suzu is one such robot, being made to replace the young boy a family has lost. By chance, he meets Hotori, a young girl suffering from progressive memory loss. The two children become friends and attempt to define themselves in the light of their changing memories.\n\n(Source: ANN)'
+animePopularity	6647
+animeDescription	"At the Personality Plant, robots are being built and slowly outfitted with the artificial memories of real people. Suzu is one such robot, being made to replace the young boy a family has lost. By chance, he meets Hotori, a young girl suffering from progressive memory loss. The two children become friends and attempt to define themselves in the light of their changing memories.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Ogura, Ryou', b'Shimizu, Hotori', b'Usui', b'Professor Shimizu', b'Ogura, Mayu', b'Ogura, Jun', b'Shimizu, Tatsuki']
-animeVoices	[b'\nShiraishi, Ryouko\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nDoi, Mika\nJapanese\n', b'\nIzumi, Hisashi\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Ryousuke\n\nProducer\n\n', b'\nAnnou, Takashi\n\nDirector, Episode Director, Storyboard\n\n', b'\nMiyoshi, Keiichirou\n\nSound Director\n\n', b'\nKonparu, Tomoko\n\nScript\n\n']
+animeCharacters	['Ogura, Ryou', 'Shimizu, Hotori', 'Usui', 'Professor Shimizu', 'Ogura, Mayu', 'Ogura, Jun', 'Shimizu, Tatsuki']
+animeVoices	['Shiraishi, Ryouko', 'Kawasumi, Ayako', 'Kuwashima, Houko', 'Inoue, Kazuhiko', 'Doi, Mika', 'Izumi, Hisashi', 'Namikawa, Daisuke']
+animeStaff	[['Takahashi, Ryousuke', 'Producer'], ['Annou, Takashi', 'Director, Episode Director, Storyboard'], ['Miyoshi, Keiichirou', 'Sound Director'], ['Konparu, Tomoko', 'Script']]

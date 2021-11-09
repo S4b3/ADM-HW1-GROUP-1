@@ -1,5 +1,5 @@
-animeTitle	b'Uchuu Kazoku Carlvinson'
-animeType	b'OVA'
+animeTitle	Uchuu Kazoku Carlvinson
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.47
 animeUsers	841
 animeRank	
-animePopularity	
-animeDescription	"b""When a motley band of traveling performers has a deep-space collision with another spacecraft, they find that the sole survivor of the other craft is a humanoid infant. They decide to raise the child as their own on the nearest planet as they wait for other members of the girl's race to come and find her.\n\n(Source: AniDB)"""
-animeRelated	[b'Uchuu Kazoku Carlvinson']
-animeCharacters	[b'Father', b'Mother', b'Corona', b'Beruka', b'Jisso', b'Andy', b'Ken', b'Jun-kun', b'Teacher', b'Sho-chan']
-animeVoices	[b'\nGenda, Tesshou\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n', b'\nShou, Mayumi\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nKashiwakura, Tsutomu\nJapanese\n', b'\nMitsuya, Yuuji\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nNakahara, Shigeru\nJapanese\n', b'\nTakamori, Yoshino\nJapanese\n', b'\nKitazawa, You\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiguro, Megumu\n\nProducer\n\n', b'\nYabuki, Kimio\n\nDirector\n\n', b'\nSaitou, Miwako\n\nTheme Song Performance, Theme Song Lyrics\n\n', b'\nWatanabe, Hiroya\n\nTheme Song Arrangement\n\n']
+animePopularity	9217
+animeDescription	"When a motley band of traveling performers has a deep-space collision with another spacecraft, they find that the sole survivor of the other craft is a humanoid infant. They decide to raise the child as their own on the nearest planet as they wait for other members of the girl's race to come and find her.
+
+(Source: AniDB)"
+animeRelated	['Uchuu Kazoku Carlvinson']
+animeCharacters	['Father', 'Mother', 'Corona', 'Beruka', 'Jisso', 'Andy', 'Ken', 'Jun-kun', 'Teacher', 'Sho-chan']
+animeVoices	['Genda, Tesshou', 'Fujita, Toshiko', 'Shou, Mayumi', 'Mizutani, Yuuko', 'Kashiwakura, Tsutomu', 'Mitsuya, Yuuji', 'Wakamoto, Norio', 'Nakahara, Shigeru', 'Takamori, Yoshino', 'Kitazawa, You']
+animeStaff	[['Ishiguro, Megumu', 'Producer'], ['Yabuki, Kimio', 'Director'], ['Saitou, Miwako', 'Theme Song Performance, Theme Song Lyrics'], ['Watanabe, Hiroya', 'Theme Song Arrangement']]

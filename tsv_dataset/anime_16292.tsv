@@ -1,5 +1,5 @@
-animeTitle	b'Ikkyuu-san to Yancha Hime'
-animeType	b'Movie'
+animeTitle	Ikkyuu-san to Yancha Hime
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Ikkyuu must talk a tomboy into behaving in a more lady-like manner before her habit of calling herself by the boy's name Tsuyumaru and attacking shogun Yoshimitsu Ashikaga with a wooden sword gets her into trouble.\n\n(Source: AniDB)"""
-animeRelated	[b'Ikkyuu-san']
-animeCharacters	[b'Ikkyuu']
-animeVoices	[b'\nFujita, Toshiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYabuki, Kimio\n\nDirector\n\n', b'\nTsuji, Masaki\n\nScreenplay\n\n', b'\nShirato, Takeshi\n\nAnimation Director\n\n', b'\nKageyama, Isamu\n\nArt Director\n\n']
+animePopularity	14586
+animeDescription	"Ikkyuu must talk a tomboy into behaving in a more lady-like manner before her habit of calling herself by the boy's name Tsuyumaru and attacking shogun Yoshimitsu Ashikaga with a wooden sword gets her into trouble.
+
+(Source: AniDB)"
+animeRelated	['Ikkyuu-san']
+animeCharacters	['Ikkyuu']
+animeVoices	['Fujita, Toshiko']
+animeStaff	[['Yabuki, Kimio', 'Director'], ['Tsuji, Masaki', 'Screenplay'], ['Shirato, Takeshi', 'Animation Director'], ['Kageyama, Isamu', 'Art Director']]

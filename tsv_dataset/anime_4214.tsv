@@ -1,5 +1,5 @@
-animeTitle	b'Vandread: Gekitou-hen'
-animeType	b'OVA'
+animeTitle	Vandread: Gekitou-hen
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.9
 animeUsers	2632
 animeRank	
-animePopularity	
-animeDescription	b'Vandread Gekitouhen (Vandread Turbulence), similiar to Vandread Taidouhen, is an OVA summary of Vandread the Second Stage plus several extra scenes\n\n(Source: AniDB)'
-animeRelated	[b'Vandread: The Second Stage']
-animeCharacters	[b'Elden, Jura Basil', b'Balblair, Parfet']
+animePopularity	6135
+animeDescription	"Vandread Gekitouhen (Vandread Turbulence), similiar to Vandread Taidouhen, is an OVA summary of Vandread the Second Stage plus several extra scenes
+
+(Source: AniDB)"
+animeRelated	['Vandread: The Second Stage']
+animeCharacters	['Elden, Jura Basil', 'Balblair, Parfet']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiguchi, Shinji\n\nDirector\n\n', b'\nKuroda, Kazuya\n\nCharacter Design\n\n', b'\nHigashi, Junichi\n\nArt Director\n\n', b'\nMiyao, Yoshikazu\n\nMechanical Design\n\n']
+animeStaff	[['Higuchi, Shinji', 'Director'], ['Kuroda, Kazuya', 'Character Design'], ['Higashi, Junichi', 'Art Director'], ['Miyao, Yoshikazu', 'Mechanical Design']]

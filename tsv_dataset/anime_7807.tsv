@@ -1,5 +1,5 @@
-animeTitle	b'Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki'
-animeType	b'Movie'
+animeTitle	Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.17
 animeUsers	165
 animeRank	
-animePopularity	
-animeDescription	b'Screened as a triple feature with Doraemon: Nobita no Kaitei Kiganjou and Paman - Birdman ga Yattekita.\n\n(Source: AniDB)'
-animeRelated	[b'Doraemon Movie 04: Nobita no Kaitei Kiganjou', b'Perman: Birdman ga Yatte Kita!!', b'Ninja Hattori-kun']
-animeCharacters	[b'Hattori, Kanzou', b'Hattori, Shinzou', b'Kemumaki, Kemuzou', b'Mitsuba, Kenichi', b'Kawai, Yumeko']
-animeVoices	[b'\nHori, Junko\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nFujiwara, Ryouji\n\nDirector\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n', b'\nKikuchi, Shunsuke\n\nMusic\n\n']
+animePopularity	13078
+animeDescription	"Screened as a triple feature with Doraemon: Nobita no Kaitei Kiganjou and Paman - Birdman ga Yattekita.
+
+(Source: AniDB)"
+animeRelated	['Doraemon Movie 04: Nobita no Kaitei Kiganjou', 'Perman: Birdman ga Yatte Kita!!', 'Ninja Hattori-kun']
+animeCharacters	['Hattori, Kanzou', 'Hattori, Shinzou', 'Kemumaki, Kemuzou', 'Mitsuba, Kenichi', 'Kawai, Yumeko']
+animeVoices	['Hori, Junko', 'Kimotsuki, Kaneta']
+animeStaff	[['Sasagawa, Hiroshi', 'Director'], ['Fujiwara, Ryouji', 'Director'], ['Fujiko, Fujio F.', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music']]

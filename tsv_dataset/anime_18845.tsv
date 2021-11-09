@@ -1,5 +1,5 @@
-animeTitle	b'Angel'
-animeType	b'OVA'
+animeTitle	Angel
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.43
 animeUsers	687
 animeRank	
-animePopularity	
-animeDescription	b'When Shizuka comes back after 13 years, the courageous Kosuke that she hopes to find has grown into a perverted total coward. But then again, she had changed a lot too, growing into a true brawling queen.\n\n(Source: JanKenPon Scanlations)'
-animeRelated	[b'Angel', b'Angel: Kaette Kita Tenshi', b'Shin Angel']
-animeCharacters	[b'Himenogi, Shizuka', b'Atami, Kosuke', b'Kikuchi, Kanji', b'Arihashi']
+animePopularity	9314
+animeDescription	"When Shizuka comes back after 13 years, the courageous Kosuke that she hopes to find has grown into a perverted total coward. But then again, she had changed a lot too, growing into a true brawling queen.
+
+(Source: JanKenPon Scanlations)"
+animeRelated	['Angel', 'Angel: Kaette Kita Tenshi', 'Shin Angel']
+animeCharacters	['Himenogi, Shizuka', 'Atami, Kosuke', 'Kikuchi, Kanji', 'Arihashi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nU-jin\n\nOriginal Creator\n\n', b'\nYamakawa, Susumu\n\nDirector of Photography\n\n']
+animeStaff	[['U-jin', 'Original Creator'], ['Yamakawa, Susumu', 'Director of Photography']]

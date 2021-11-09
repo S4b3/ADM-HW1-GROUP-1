@@ -1,5 +1,5 @@
-animeTitle	b'Sonny Boy'
-animeType	b'TV'
+animeTitle	Sonny Boy
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.68
 animeUsers	41811
 animeRank	
-animePopularity	
-animeDescription	"b""Thirty-six students find themselves and their school building suddenly adrift in a void-like dimension. When supernatural powers awaken in some of them, a sense of detachment begins to divide the group. Despite the student council's attempts to impose order, they clash with the students possessing special abilities, who rebel against their strict control.\n\nThis conflict leads them to discover that this world has its own set of rules\xe2\x80\x94and following them is necessary for survival. After one of the students decides to take a leap of faith, the school switches dimensions once again. While they deal with the unique challenges and circumstances that each world presents, the students must unravel the mysterious phenomenon and find a way back home.\n\n[Written by MAL Rewrite]"""
+animePopularity	1041
+animeDescription	"Thirty-six students find themselves and their school building suddenly adrift in a void-like dimension. When supernatural powers awaken in some of them, a sense of detachment begins to divide the group. Despite the student council's attempts to impose order, they clash with the students possessing special abilities, who rebel against their strict control.
+
+This conflict leads them to discover that this world has its own set of rules—and following them is necessary for survival. After one of the students decides to take a leap of faith, the school switches dimensions once again. While they deal with the unique challenges and circumstances that each world presents, the students must unravel the mysterious phenomenon and find a way back home.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Mizuho', b'Nagara', b'Nozomi', b'Asakaze', b'Rajdhani', b'Yamabiko', b'Hoshi', b'Kodama', b'Cap', b'War']
-animeVoices	[b'\nYuuki, Aoi\nJapanese\n', b'\nIchikawa, Aoi\nJapanese\n', b'\nOonishi, Saori\nJapanese\n', b'\nKobayashi, Chiaki\nJapanese\n', b'\nGotou, Hiroki\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nNaitou, Ami\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nUeda, Youji\nJapanese\n', b'\nYusa, Kouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNatsume, Shingo\n\nDirector, Script\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nGING NANG BOYZ\n\nTheme Song Performance\n\n', b'\nEguchi, Hisashi\n\nOriginal Character Design\n\n']
+animeCharacters	['Mizuho', 'Nagara', 'Nozomi', 'Asakaze', 'Rajdhani', 'Yamabiko', 'Hoshi', 'Kodama', 'Cap', 'War']
+animeVoices	['Yuuki, Aoi', 'Ichikawa, Aoi', 'Oonishi, Saori', 'Kobayashi, Chiaki', 'Gotou, Hiroki', 'Tsuda, Kenjirou', 'Naitou, Ami', 'Taketatsu, Ayana', 'Ueda, Youji', 'Yusa, Kouji']
+animeStaff	[['Natsume, Shingo', 'Director, Script'], ['Hata, Shouji', 'Sound Director'], ['GING NANG BOYZ', 'Theme Song Performance'], ['Eguchi, Hisashi', 'Original Character Design']]

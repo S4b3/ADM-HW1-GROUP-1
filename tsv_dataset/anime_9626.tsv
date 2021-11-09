@@ -1,5 +1,5 @@
-animeTitle	b'Neo Faust'
-animeType	b'Special'
+animeTitle	Neo Faust
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.73
 animeUsers	147
 animeRank	
-animePopularity	
-animeDescription	"b'Tezuka Osamu planned to make an animated version, but the project was always called off. This work was to make his dream come true at last, but he was unfortunately struck by an illness and died when he was working on the synopsis. This was one of his unfinished works. It was aired during NHK\'s ""Tezuka Osamu, Seikimatsu e no Message"" (\xe6\x89\x8b\xe5\xa1\x9a\xe6\xb2\xbb\xe8\x99\xab\xe3\x83\xbb\xe4\xb8\x96\xe7\xb4\x80\xe6\x9c\xab\xe3\x81\xb8\xe3\x81\xae\xe3\x83\xa1\xe3\x83\x83\xe3\x82\xbb\xe3\x83\xbc\xe3\x82\xb8) program.\n\n(Source: AniDB)'"
-animeRelated	[b'Neo Faust']
-animeCharacters	[b'Mephisto', b'Faust']
+animePopularity	13153
+animeDescription	"Tezuka Osamu planned to make an animated version, but the project was always called off. This work was to make his dream come true at last, but he was unfortunately struck by an illness and died when he was working on the synopsis. This was one of his unfinished works. It was aired during NHK's ""Tezuka Osamu, Seikimatsu e no Message"" (手塚治虫・世紀末へのメッセージ) program.
+
+(Source: AniDB)"
+animeRelated	['Neo Faust']
+animeCharacters	['Mephisto', 'Faust']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Osamu\n\nOriginal Creator\n\n']
+animeStaff	[['Tezuka, Osamu', 'Original Creator']]

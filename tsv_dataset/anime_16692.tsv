@@ -1,5 +1,5 @@
-animeTitle	b'Kero Kero Keroppi no Sanjuushi'
-animeType	b'Movie'
+animeTitle	Kero Kero Keroppi no Sanjuushi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Keroppi version of The Three Musketeers.'
-animeRelated	[b'Hello Kitty: Mahou no Mori no Ohimesama', b'Taabou no Ryuuguusei Daitanken']
-animeCharacters	[b'Hasunoue, Keroppi']
-animeVoices	[b'\nMatsuo, Yoshiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHata, Masami\n\nDirector, Screenplay\n\n', b'\nAbe, Yukio\n\nArt Director\n\n', b'\nTsuji, Shintarou\n\nExecutive Producer\n\n', b'\nMatsuyama, Maya\n\nAnimation Director\n\n']
+animePopularity	15653
+animeDescription	Keroppi version of The Three Musketeers.
+animeRelated	['Hello Kitty: Mahou no Mori no Ohimesama', 'Taabou no Ryuuguusei Daitanken']
+animeCharacters	['Hasunoue, Keroppi']
+animeVoices	['Matsuo, Yoshiko']
+animeStaff	[['Hata, Masami', 'Director, Screenplay'], ['Abe, Yukio', 'Art Director'], ['Tsuji, Shintarou', 'Executive Producer'], ['Matsuyama, Maya', 'Animation Director']]

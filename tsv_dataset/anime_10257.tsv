@@ -1,5 +1,5 @@
-animeTitle	b'Obake no Dokurou'
-animeType	b'ONA'
+animeTitle	Obake no Dokurou
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.54
 animeUsers	524
 animeRank	
-animePopularity	
-animeDescription	"b'Back alley of candy shop which everybody has called it ""Alley of ghosts."" Gacharico the Ghost lives there, but it\'s a secret that only little Miku, from the family candy shop, knows. The content of the capsules appear to be ordinary toys, but inside Gacharico the Ghost, live an abundant of other ghosts, each with their own personality. Even today, the ghosts are using all their powers to try to inspire awe and feelings in the children around them.\n\n(Source: Official website)'"
+animePopularity	10725
+animeDescription	"Back alley of candy shop which everybody has called it ""Alley of ghosts."" Gacharico the Ghost lives there, but it's a secret that only little Miku, from the family candy shop, knows. The content of the capsules appear to be ordinary toys, but inside Gacharico the Ghost, live an abundant of other ghosts, each with their own personality. Even today, the ghosts are using all their powers to try to inspire awe and feelings in the children around them.
+
+(Source: Official website)"
 animeRelated	[]
-animeCharacters	[b'Miku', b'Dokurou']
-animeVoices	[b'\nSasaki, Rio\nJapanese\n', b'\nHiraga, Sachie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKatou, Michiya\n\nDirector, Original Creator\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nFujiki, Mitsuhiko\n\nScript\n\n', b'\nNagata, Miyuki\n\nIn-Between Animation\n\n']
+animeCharacters	['Miku', 'Dokurou']
+animeVoices	['Sasaki, Rio', 'Hiraga, Sachie']
+animeStaff	[['Katou, Michiya', 'Director, Original Creator'], ['Hata, Shouji', 'Sound Director'], ['Fujiki, Mitsuhiko', 'Script'], ['Nagata, Miyuki', 'In-Between Animation']]

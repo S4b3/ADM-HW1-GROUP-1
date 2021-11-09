@@ -1,5 +1,5 @@
-animeTitle	b'Outlanders'
-animeType	b'OVA'
+animeTitle	Outlanders
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.87
 animeUsers	2898
 animeRank	
-animePopularity	
-animeDescription	"b""In the midst of a violent invasion of Earth by unknown alien forces, photojournalist Wakatsuki Tetsuya comes across a scantily-clad alien woman, cutting a swath of death through the Terran ranks with her sword. After a chaotic struggle, Tetsuya is knocked unconscious, only to awaken aboard her starship. To his surprise, she turns out to be Kahm, the invaders' princess - and she has picked Tetsuya for a starring role in her upcoming wedding. As the groom...\n\n(Source: ANN)"""
-animeRelated	[b'Outlanders']
-animeCharacters	[b'Kahm', b'Wakatsuki, Tetsuya', b'Geobaldi', b'Nao', b'Emperor', b'Momo', b'Battia', b'Progress']
-animeVoices	[b'\nHirano, Fumi\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nToyama, Takashi\nJapanese\n', b'\nDoi, Mika\nJapanese\n', b'\nYokoo, Mari\nJapanese\n', b'\nTerashima, Mikio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTomita, Sukehiro\n\nDirector\n\n', b'\nYamada, Katsuhisa\n\nDirector\n\n', b'\nTerada, Kenji\n\nScript\n\n', b'\nHamasaki, Hiroshi\n\nCharacter Design, Animation Director\n\n']
+animePopularity	6263
+animeDescription	"In the midst of a violent invasion of Earth by unknown alien forces, photojournalist Wakatsuki Tetsuya comes across a scantily-clad alien woman, cutting a swath of death through the Terran ranks with her sword. After a chaotic struggle, Tetsuya is knocked unconscious, only to awaken aboard her starship. To his surprise, she turns out to be Kahm, the invaders' princess - and she has picked Tetsuya for a starring role in her upcoming wedding. As the groom...
+
+(Source: ANN)"
+animeRelated	['Outlanders']
+animeCharacters	['Kahm', 'Wakatsuki, Tetsuya', 'Geobaldi', 'Nao', 'Emperor', 'Momo', 'Battia', 'Progress']
+animeVoices	['Hirano, Fumi', 'Iwata, Mitsuo', 'Utsumi, Kenji', 'Kamiya, Akira', 'Toyama, Takashi', 'Doi, Mika', 'Yokoo, Mari', 'Terashima, Mikio']
+animeStaff	[['Tomita, Sukehiro', 'Director'], ['Yamada, Katsuhisa', 'Director'], ['Terada, Kenji', 'Script'], ['Hamasaki, Hiroshi', 'Character Design, Animation Director']]

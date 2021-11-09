@@ -1,5 +1,5 @@
-animeTitle	b'Ravex in Tezuka World'
-animeType	b'OVA'
+animeTitle	Ravex in Tezuka World
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.54
 animeUsers	475
 animeRank	
-animePopularity	
-animeDescription	"b'As ""another story"" set after the end of the original manga, this what-if ""Return"" plot depicts what happens to the title character after his final act to save Earth. After drifting in space, the robot boy is rescued by the three members of ravex, and he is miraculously revived \xe2\x80\x94 not by Tezuka\'s Black Jack surgeon character, but by ""Space Jack."" The newly evolved robot boy will be named ""Ratom."" The Princess Knight and other Tezuka characters will appear in this all-new story. Musical artists BoA, Maki Goto, Anna Tsuchiya, Tohoshinki, and TRF are contributing to the album, and an event is planned at Tokyo\'s National Museum of Emerging Science and Innovation on April 10. The album marks Avex\'s 20th anniversary and what would have been Tezuka\'s 80th birthday. \n\n(Source: ANN)'"
-animeRelated	[b'Astro Boy: Tetsuwan Atom']
-animeCharacters	[b'Atom', b'Holmes, Rock', b'Osawa, Shinichi', b'Ratom', b'Takahashi, Taku', b'Tanaka, Tomoyuki', b'Hazama, Kuroo', b'Pinoko', b'Unico', b'Sapphire']
+animePopularity	10699
+animeDescription	"As ""another story"" set after the end of the original manga, this what-if ""Return"" plot depicts what happens to the title character after his final act to save Earth. After drifting in space, the robot boy is rescued by the three members of ravex, and he is miraculously revived — not by Tezuka's Black Jack surgeon character, but by ""Space Jack."" The newly evolved robot boy will be named ""Ratom."" The Princess Knight and other Tezuka characters will appear in this all-new story. Musical artists BoA, Maki Goto, Anna Tsuchiya, Tohoshinki, and TRF are contributing to the album, and an event is planned at Tokyo's National Museum of Emerging Science and Innovation on April 10. The album marks Avex's 20th anniversary and what would have been Tezuka's 80th birthday. 
+
+(Source: ANN)"
+animeRelated	['Astro Boy: Tetsuwan Atom']
+animeCharacters	['Atom', 'Holmes, Rock', 'Osawa, Shinichi', 'Ratom', 'Takahashi, Taku', 'Tanaka, Tomoyuki', 'Hazama, Kuroo', 'Pinoko', 'Unico', 'Sapphire']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Osamu\n\nOriginal Character Design\n\n', b'\nravex\n\nMusic\n\n']
+animeStaff	[['Tezuka, Osamu', 'Original Character Design'], ['ravex', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hourou Musuko Specials'
-animeType	b'Special'
+animeTitle	Hourou Musuko Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.61
 animeUsers	3619
 animeRank	
-animePopularity	
-animeDescription	b'The full versions of episodes 10 and 11 that were previously edited together into episode 10 of the TV series.'
-animeRelated	[b'Hourou Musuko']
-animeCharacters	[b'Nitori, Shuuichi', b'Takatsuki, Yoshino', b'Chiba, Saori', b'Suehiro, Anna', b'Yoshida, Hiroyuki', b'Ariga, Makoto', b'Nitori, Maho', b'Doi, Shinpei', b'Kaneda, Kentaro', b'Shirai, Momoko']
+animePopularity	5561
+animeDescription	The full versions of episodes 10 and 11 that were previously edited together into episode 10 of the TV series.
+animeRelated	['Hourou Musuko']
+animeCharacters	['Nitori, Shuuichi', 'Takatsuki, Yoshino', 'Chiba, Saori', 'Suehiro, Anna', 'Yoshida, Hiroyuki', 'Ariga, Makoto', 'Nitori, Maho', 'Doi, Shinpei', 'Kaneda, Kentaro', 'Shirai, Momoko']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nShimura, Takako\n\nOriginal Creator\n\n', b'\nHibi, Chieko\n\nDigital Paint\n\n']
+animeStaff	[['Aketagawa, Jin', 'Sound Director'], ['Shimura, Takako', 'Original Creator'], ['Hibi, Chieko', 'Digital Paint']]

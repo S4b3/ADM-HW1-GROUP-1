@@ -1,5 +1,5 @@
-animeTitle	b'Tamako Love Story'
-animeType	b'Movie'
+animeTitle	Tamako Love Story
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.96
 animeUsers	140735
 animeRank	
-animePopularity	
-animeDescription	"b""As she edges toward the end of her high school life, the energetic but generally clueless third-year Tamako Kitashirakawa has only one major concern: pulling off a stunning baton performance at the Usagiyama Marching Festival. But all too soon, she is confronted by the reality that all her friends have big plans for their futures; she, on the other hand, just operates with the moderate goal of continuing to work at her family's restaurant.\n\nUnder the same brilliant sky, Mochizou Ooji intends to study at a university in Tokyo, leaving behind his family, friends, and most importantly, his first and only love Tamako. Unfortunately, the shy admirer cannot bring himself to declare his love, and Tamako is yet unaware that she is the source of such anguish. With time quickly running out, Mochizou must confess his feelings to Tamako soon, or his dream of romance will never be fulfilled.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Tamako Love Story', b'Tamako Market', b'Minami no Shima no Dera-chan']
-animeCharacters	[b'Kitashirakawa, Tamako', b'Ooji, Mochizou', b'Makino, Kanna', b'Asagiri, Shiori', b'Tokiwa, Midori', b'Mochimazzi, Dera', b'Kitashirakawa, Anko', b'Mochimazzi, Choi', b'Hanase, Kaoru', b'Kitashirakawa, Mamedai']
-animeVoices	[b'\nSuzaki, Aya\nJapanese\n', b'\nTamaru, Atsushi\nJapanese\n', b'\nNagatsuma, Juri\nJapanese\n', b'\nYamashita, Yurie\nJapanese\n', b'\nKaneko, Yuuki\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n', b'\nHidaka, Rina\nJapanese\n', b'\nYamaoka, Yuri\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Shinichi\n\nProducer\n\n', b'\nSenami, Riri\n\nProducer\n\n', b'\nYamada, Naoko\n\nDirector, Storyboard\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n']
+animePopularity	558
+animeDescription	"As she edges toward the end of her high school life, the energetic but generally clueless third-year Tamako Kitashirakawa has only one major concern: pulling off a stunning baton performance at the Usagiyama Marching Festival. But all too soon, she is confronted by the reality that all her friends have big plans for their futures; she, on the other hand, just operates with the moderate goal of continuing to work at her family's restaurant.
+
+Under the same brilliant sky, Mochizou Ooji intends to study at a university in Tokyo, leaving behind his family, friends, and most importantly, his first and only love Tamako. Unfortunately, the shy admirer cannot bring himself to declare his love, and Tamako is yet unaware that she is the source of such anguish. With time quickly running out, Mochizou must confess his feelings to Tamako soon, or his dream of romance will never be fulfilled.
+
+[Written by MAL Rewrite]"
+animeRelated	['Tamako Love Story', 'Tamako Market', 'Minami no Shima no Dera-chan']
+animeCharacters	['Kitashirakawa, Tamako', 'Ooji, Mochizou', 'Makino, Kanna', 'Asagiri, Shiori', 'Tokiwa, Midori', 'Mochimazzi, Dera', 'Kitashirakawa, Anko', 'Mochimazzi, Choi', 'Hanase, Kaoru', 'Kitashirakawa, Mamedai']
+animeVoices	['Suzaki, Aya', 'Tamaru, Atsushi', 'Nagatsuma, Juri', 'Yamashita, Yurie', 'Kaneko, Yuuki', 'Yamazaki, Takumi', 'Hidaka, Rina', 'Yamaoka, Yuri', 'Ono, Daisuke', 'Fujiwara, Keiji']
+animeStaff	[['Nakamura, Shinichi', 'Producer'], ['Senami, Riri', 'Producer'], ['Yamada, Naoko', 'Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Air Gear'
-animeType	b'TV'
+animeTitle	Air Gear
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.51
 animeUsers	160199
 animeRank	
-animePopularity	
-animeDescription	"b'Air Trecks, also known as AT, are motorized and futuristic inline skates that are the new craze taking the nation by storm. Although each AT comes with a speed limiter, a community of daredevils known as the ""Storm Riders"" are brave enough to tamper with the device. Utilizing AT\'s in underground battles, individual teams wager valuable AT parts or team emblems\xe2\x80\x94their symbol of pride\xe2\x80\x94to dominate the streets.\n\nLiving in this era is Itsuki Minami, a middle school student notorious for engaging in street fights. Always wanting to reach heights no one else is able to, the reckless punk will break through any obstacle that stands in his way, alongside his best friends Kazuma Mikura and Onigiri. However, it is when he discovers a pair of Air Trecks in his house that the path to his true desire finally opens: to rule the skies.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Air Gear', b'Air Gear Special', b'Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky']
-animeCharacters	[b'Minami, Itsuki', b'Mikura, Kazuma', b'Noyamano, Ringo', b'Onigiri', b'Wanijima, Agito', b'Simca', b'Spitfire', b'Takeuchi, Sora', b'Yoshitsune', b'Mihotoke, Issha']
-animeVoices	[b'\nKamakari, Kenta\nJapanese\n', b'\nKENN\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n', b'\nKikuchi, Kokoro\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nMiyamoto, Mitsuru\nJapanese\n', b'\nMadono, Mitsuaki\nJapanese\n', b'\nBifu, Hitoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChung, Jin Ho\n\nProducer\n\n', b'\nKamegaki, Hajime\n\nDirector, Episode Director\n\n', b'\nShiraishi, Michita\n\nEpisode Director\n\n', b'\nAndou, Ken\n\nEpisode Director\n\n']
+animePopularity	534
+animeDescription	"Air Trecks, also known as AT, are motorized and futuristic inline skates that are the new craze taking the nation by storm. Although each AT comes with a speed limiter, a community of daredevils known as the ""Storm Riders"" are brave enough to tamper with the device. Utilizing AT's in underground battles, individual teams wager valuable AT parts or team emblems—their symbol of pride—to dominate the streets.
+
+Living in this era is Itsuki Minami, a middle school student notorious for engaging in street fights. Always wanting to reach heights no one else is able to, the reckless punk will break through any obstacle that stands in his way, alongside his best friends Kazuma Mikura and Onigiri. However, it is when he discovers a pair of Air Trecks in his house that the path to his true desire finally opens: to rule the skies.
+
+[Written by MAL Rewrite]"
+animeRelated	['Air Gear', 'Air Gear Special', 'Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky']
+animeCharacters	['Minami, Itsuki', 'Mikura, Kazuma', 'Noyamano, Ringo', 'Onigiri', 'Wanijima, Agito', 'Simca', 'Spitfire', 'Takeuchi, Sora', 'Yoshitsune', 'Mihotoke, Issha']
+animeVoices	['Kamakari, Kenta', 'KENN', 'Ise, Mariya', 'Kikuchi, Masami', 'Kikuchi, Kokoro', 'Tanaka, Rie', 'Tsuda, Kenjirou', 'Miyamoto, Mitsuru', 'Madono, Mitsuaki', 'Bifu, Hitoshi']
+animeStaff	[['Chung, Jin Ho', 'Producer'], ['Kamegaki, Hajime', 'Director, Episode Director'], ['Shiraishi, Michita', 'Episode Director'], ['Andou, Ken', 'Episode Director']]

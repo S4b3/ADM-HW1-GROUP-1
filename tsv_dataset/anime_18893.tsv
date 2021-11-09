@@ -1,5 +1,5 @@
-animeTitle	b'Tsuki Kagerou'
-animeType	b'OVA'
+animeTitle	Tsuki Kagerou
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.35
 animeUsers	540
 animeRank	
-animePopularity	
-animeDescription	b'Based on the game by Studio Miris.'
-animeRelated	[b'Tsuki Kagerou']
-animeCharacters	[b'Kagami, Yuushirou', b'Arima, Yuzu', b'Arima, Mizuki', b'Yukino, Futaba', b'Arima, Hagiri', b'Arima, Suzuka']
+animePopularity	9384
+animeDescription	Based on the game by Studio Miris.
+animeRelated	['Tsuki Kagerou']
+animeCharacters	['Kagami, Yuushirou', 'Arima, Yuzu', 'Arima, Mizuki', 'Yukino, Futaba', 'Arima, Hagiri', 'Arima, Suzuka']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nStudio Miris\n\nOriginal Creator\n\n']
+animeStaff	[['Studio Miris', 'Original Creator']]

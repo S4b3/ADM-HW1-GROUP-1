@@ -1,5 +1,5 @@
-animeTitle	b'Minky Momo in Yume ni Kakeru Hashi'
-animeType	b'OVA'
+animeTitle	Minky Momo in Yume ni Kakeru Hashi
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.05
 animeUsers	806
 animeRank	
-animePopularity	
-animeDescription	"b""A bridge's legend tells that when two people meet on it, they will surely meet again. Momo meets a boy who doesn't believe the legend, and promises that she will meet him again to prove it. As the year passes, she comes every day to wait for him, and becomes a small part of many people's lives.\n\n(Source: ANN)"""
-animeRelated	[b'Mahou no Princess Minky Momo', b'Minky Momo in Tabidachi no Eki']
-animeCharacters	[b'Momo', b'Flower Girl', b'Pilot', b'Beauty', b'Model', b'Boy']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nArakawa, Tarou\nJapanese\n', b'\nDoi, Mika\nJapanese\n', b'\nHikita, Yumi\nJapanese\n', b'\nKamei, Yoshiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHoriuchi, Osamu\n\nProducer, Character Design, Animation Director\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nFujimoto, Yoshitaka\n\nDirector\n\n', b'\nShudou, Takeshi\n\nScript, Series Composition, Original Creator\n\n']
+animePopularity	9275
+animeDescription	"A bridge's legend tells that when two people meet on it, they will surely meet again. Momo meets a boy who doesn't believe the legend, and promises that she will meet him again to prove it. As the year passes, she comes every day to wait for him, and becomes a small part of many people's lives.
+
+(Source: ANN)"
+animeRelated	['Mahou no Princess Minky Momo', 'Minky Momo in Tabidachi no Eki']
+animeCharacters	['Momo', 'Flower Girl', 'Pilot', 'Beauty', 'Model', 'Boy']
+animeVoices	['Hayashibara, Megumi', 'Mizutani, Yuuko', 'Arakawa, Tarou', 'Doi, Mika', 'Hikita, Yumi', 'Kamei, Yoshiko']
+animeStaff	[['Horiuchi, Osamu', 'Producer, Character Design, Animation Director'], ['Yuyama, Kunihiko', 'Director'], ['Fujimoto, Yoshitaka', 'Director'], ['Shudou, Takeshi', 'Script, Series Composition, Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Yondemasu yo, Azazel-san.'
-animeType	b'OVA'
+animeTitle	Yondemasu yo, Azazel-san.
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.59
 animeUsers	11722
 animeRank	
-animePopularity	
-animeDescription	b'The great detective Akutabe has an assistant, Rinko Sakuma, who is trying to learn to summon demons. This is the story of her misadventure when she actually manages to summon 2 demons unexpectedly. \n\n(Source: ANN) '
-animeRelated	[b'Yondemasu yo, Azazel-san.', b'Yondemasu yo, Azazel-san. (TV)']
-animeCharacters	[b'Azazel', b'Sakuma, Rinko', b'Douchin, Koutarou', b'Akutabe', b'Beelzebub', b'Moloch', b'Lucifer', b'Senba, Tomiko', b'Seiya', b'Osanai, Osamu']
-animeVoices	[b'\nOnosaka, Masaya\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMizushima, Tsutomu\n\nDirector, Episode Director, Storyboard\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n', b'\nMitsunaka, Susumu\n\nEpisode Director, Storyboard, 2nd Key Animation\n\n', b'\nIwasaki, Tarou\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3355
+animeDescription	"The great detective Akutabe has an assistant, Rinko Sakuma, who is trying to learn to summon demons. This is the story of her misadventure when she actually manages to summon 2 demons unexpectedly. 
+
+(Source: ANN) "
+animeRelated	['Yondemasu yo, Azazel-san.', 'Yondemasu yo, Azazel-san. (TV)']
+animeCharacters	['Azazel', 'Sakuma, Rinko', 'Douchin, Koutarou', 'Akutabe', 'Beelzebub', 'Moloch', 'Lucifer', 'Senba, Tomiko', 'Seiya', 'Osanai, Osamu']
+animeVoices	['Onosaka, Masaya', 'Satou, Rina', 'Shiraishi, Ryouko', 'Namikawa, Daisuke', 'Kamiya, Hiroshi', 'Genda, Tesshou', 'Koyasu, Takehito', 'Mitsuishi, Kotono', 'Iwata, Mitsuo', 'Kimura, Ryouhei']
+animeStaff	[['Mizushima, Tsutomu', 'Director, Episode Director, Storyboard'], ['Wakabayashi, Kazuhiro', 'Sound Director'], ['Mitsunaka, Susumu', 'Episode Director, Storyboard, 2nd Key Animation'], ['Iwasaki, Tarou', 'Episode Director, Storyboard']]

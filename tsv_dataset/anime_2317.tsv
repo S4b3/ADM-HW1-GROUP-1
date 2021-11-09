@@ -1,5 +1,5 @@
-animeTitle	b'Persona 4 the Animation: The Factor of Hope'
-animeType	b'Movie'
+animeTitle	Persona 4 the Animation: The Factor of Hope
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.32
 animeUsers	4188
 animeRank	
-animePopularity	
-animeDescription	"b'Recap of the entire 25-episode television anime series with new cuts and also the unaired ""True End Episode"" that was included in the 10th Blu-ray Disc/DVD volume.'"
-animeRelated	[b'Persona 4', b'Persona 4 the Animation']
-animeCharacters	[b'Narukami, Yuu', b'Kuma', b'Adachi, Tooru']
-animeVoices	[b'\nNamikawa, Daisuke\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nMadono, Mitsuaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nTaguchi, Tomohisa\n\nEpisode Director, Storyboard\n\n', b'\nKuzuya, Naoyuki\n\nEpisode Director\n\n', b'\nMasaki, Shinichi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	4271
+animeDescription	"Recap of the entire 25-episode television anime series with new cuts and also the unaired ""True End Episode"" that was included in the 10th Blu-ray Disc/DVD volume."
+animeRelated	['Persona 4', 'Persona 4 the Animation']
+animeCharacters	['Narukami, Yuu', 'Kuma', 'Adachi, Tooru']
+animeVoices	['Namikawa, Daisuke', 'Yamaguchi, Kappei', 'Madono, Mitsuaki']
+animeStaff	[['Iida, Satoki', 'Sound Director'], ['Taguchi, Tomohisa', 'Episode Director, Storyboard'], ['Kuzuya, Naoyuki', 'Episode Director'], ['Masaki, Shinichi', 'Episode Director, Storyboard']]

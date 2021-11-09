@@ -1,5 +1,5 @@
-animeTitle	b'Fairy Tail (2014)'
-animeType	b'TV'
+animeTitle	Fairy Tail (2014)
+animeType	TV
 animeNumEpisode	102
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.67
 animeUsers	420260
 animeRank	
-animePopularity	
-animeDescription	"b""The Grand Magic Games reaches its climax following Natsu Dragneel and Gajeel Redfox's stunning victory over Sting Eucliffe and Rogue Cheney of the Sabertooth guild. This success pushes the Fairy Tail guild closer to being crowned the overall champions, but obtaining victory isn't the only challenge they face. A mystery still surrounds a hooded stranger and the ominous Eclipse Gate, leaving more questions than answers.\n\nMore crazy adventures are on the horizon for Fairy Tail as their destructive antics and joyful rowdiness continue unabated. Their greatest trial is quickly approaching, but united as a family, the guild will always be ready to face any threat that comes their way.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Fairy Tail', b'Fairy Tail Zer\xc3\xb8', b'Fairy Tail Movie 2: Dragon Cry', b'Fairy Tail OVA (2016)', b'Fairy Tail: Final Series']
-animeCharacters	[b'Dragneel, Natsu', b'Scarlet, Erza', b'Fullbuster, Gray', b'Heartfilia, Lucy', b'Happy', b'Marvell, Wendy', b'Charl\xc3\xa9s', b'Lockser, Juvia', b'Fernandes, Jellal', b'Redfox, Gajeel']
-animeVoices	[b'\nKakihara, Tetsuya\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nHatano, Wataru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshihira, Shinji\n\nDirector\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nFukuoka, Motoo\n\nEpisode Director\n\n', b'\nShimada, Souichi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	140
+animeDescription	"The Grand Magic Games reaches its climax following Natsu Dragneel and Gajeel Redfox's stunning victory over Sting Eucliffe and Rogue Cheney of the Sabertooth guild. This success pushes the Fairy Tail guild closer to being crowned the overall champions, but obtaining victory isn't the only challenge they face. A mystery still surrounds a hooded stranger and the ominous Eclipse Gate, leaving more questions than answers.
+
+More crazy adventures are on the horizon for Fairy Tail as their destructive antics and joyful rowdiness continue unabated. Their greatest trial is quickly approaching, but united as a family, the guild will always be ready to face any threat that comes their way.
+
+[Written by MAL Rewrite]"
+animeRelated	['Fairy Tail', 'Fairy Tail Zerø', 'Fairy Tail Movie 2: Dragon Cry', 'Fairy Tail OVA (2016)', 'Fairy Tail: Final Series']
+animeCharacters	['Dragneel, Natsu', 'Scarlet, Erza', 'Fullbuster, Gray', 'Heartfilia, Lucy', 'Happy', 'Marvell, Wendy', 'Charlés', 'Lockser, Juvia', 'Fernandes, Jellal', 'Redfox, Gajeel']
+animeVoices	['Kakihara, Tetsuya', 'Ohara, Sayaka', 'Nakamura, Yuuichi', 'Hirano, Aya', 'Kugimiya, Rie', 'Satou, Satomi', 'Horie, Yui', 'Nakahara, Mai', 'Namikawa, Daisuke', 'Hatano, Wataru']
+animeStaff	[['Ishihira, Shinji', 'Director'], ['Hata, Shouji', 'Sound Director'], ['Fukuoka, Motoo', 'Episode Director'], ['Shimada, Souichi', 'Episode Director, Storyboard']]

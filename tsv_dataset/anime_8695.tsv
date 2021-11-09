@@ -1,5 +1,5 @@
-animeTitle	b'Green Green OVA'
-animeType	b'OVA'
+animeTitle	Green Green OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	5.99
 animeUsers	15536
 animeRank	
-animePopularity	
-animeDescription	"b""Hanaoka high school is an all girls' school, and the girls were pretty excited when they heard that boys were admitted into their high school. Smart and elegant boys, that's in their fantasy. However, in reality, the boys who were actually admitted are from the countryside and not smart at all, leave alone being elegant. And in fact, two of them are dirty perverts...\n"""
-animeRelated	[b'Green Green']
-animeCharacters	[b'Chitose, Midori', b'Takasaki, Yusuke', b'Ijuuin, Tadatomo', b'Tenjin, Taizo', b'Kutsuki, Wakaba', b'Ichiban-Boshi, Hikaru', b'Minami, Sanae', b'Dokugasu, Wayasu', b'Morimura, Reika', b'Iino, Chigusa']
-animeVoices	[b'\nNakayama, Sara\nJapanese\n', b'\nKisaichi, Atsushi\nJapanese\n', b'\nTanaka, Kazunari\nJapanese\n', b'\nHamada, Kenji\nJapanese\n', b'\nMannaka, Yukiko\nJapanese\n', b'\nDomon, Jin\nJapanese\n', b'\nSugimoto, Saori\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nSuzuki, Mariko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMutou, Yuuji\n\nDirector\n\n', b'\nmilktub\n\nTheme Song Composition\n\n', b'\nMitsumune, Shinkichi\n\nMusic\n\n']
+animePopularity	3512
+animeDescription	"Hanaoka high school is an all girls' school, and the girls were pretty excited when they heard that boys were admitted into their high school. Smart and elegant boys, that's in their fantasy. However, in reality, the boys who were actually admitted are from the countryside and not smart at all, leave alone being elegant. And in fact, two of them are dirty perverts...
+"
+animeRelated	['Green Green']
+animeCharacters	['Chitose, Midori', 'Takasaki, Yusuke', 'Ijuuin, Tadatomo', 'Tenjin, Taizo', 'Kutsuki, Wakaba', 'Ichiban-Boshi, Hikaru', 'Minami, Sanae', 'Dokugasu, Wayasu', 'Morimura, Reika', 'Iino, Chigusa']
+animeVoices	['Nakayama, Sara', 'Kisaichi, Atsushi', 'Tanaka, Kazunari', 'Hamada, Kenji', 'Mannaka, Yukiko', 'Domon, Jin', 'Sugimoto, Saori', 'Ueda, Kana', 'Suzuki, Mariko']
+animeStaff	[['Mutou, Yuuji', 'Director'], ['milktub', 'Theme Song Composition'], ['Mitsumune, Shinkichi', 'Music']]

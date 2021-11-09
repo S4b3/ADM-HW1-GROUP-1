@@ -1,5 +1,5 @@
-animeTitle	b'Urusei Yatsura 2: Beautiful Dreamer'
-animeType	b'Movie'
+animeTitle	Urusei Yatsura 2: Beautiful Dreamer
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.83
 animeUsers	6491
 animeRank	
-animePopularity	
-animeDescription	b'Not all is normal in Tomobiki, even by its standards. The students have been preparing feverishly for the first day of the student fair, which is scheduled to go on the next day. However, problems arise when some begin to notice that the next day simply will not come. As the students begin to try to find the reason for the problem, their beliefs about reality and the world of dreams are challenged.\n\n(Source: ANN)'
-animeRelated	[b'Urusei Yatsura']
-animeCharacters	[b'Lum', b'Moroboshi, Ataru', b'Mendo, Shutaro', b'Mujaki', b'Fujinami, Ryuunosuke', b'Sakuranbou', b'Miyake, Shinobu', b'Satoshi', b'Sakura', b'Ten']
-animeVoices	[b'\nHirano, Fumi\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nFujioka, Takuya\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nShimazu, Saeko\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nWashio, Machiko\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOshii, Mamoru\n\nDirector\n\n', b'\nMatsutani, Yuuko\n\nTheme Song Performance\n\n', b'\nTakahashi, Rumiko\n\nOriginal Creator\n\n', b'\nKobayashi, Shichiro\n\nArt Director\n\n']
+animePopularity	4569
+animeDescription	"Not all is normal in Tomobiki, even by its standards. The students have been preparing feverishly for the first day of the student fair, which is scheduled to go on the next day. However, problems arise when some begin to notice that the next day simply will not come. As the students begin to try to find the reason for the problem, their beliefs about reality and the world of dreams are challenged.
+
+(Source: ANN)"
+animeRelated	['Urusei Yatsura']
+animeCharacters	['Lum', 'Moroboshi, Ataru', 'Mendo, Shutaro', 'Mujaki', 'Fujinami, Ryuunosuke', 'Sakuranbou', 'Miyake, Shinobu', 'Satoshi', 'Sakura', 'Ten']
+animeVoices	['Hirano, Fumi', 'Furukawa, Toshio', 'Kamiya, Akira', 'Fujioka, Takuya', 'Tanaka, Mayumi', 'Nagai, Ichiro', 'Shimazu, Saeko', 'Chiba, Shigeru', 'Washio, Machiko', 'Sugiyama, Kazuko']
+animeStaff	[['Oshii, Mamoru', 'Director'], ['Matsutani, Yuuko', 'Theme Song Performance'], ['Takahashi, Rumiko', 'Original Creator'], ['Kobayashi, Shichiro', 'Art Director']]

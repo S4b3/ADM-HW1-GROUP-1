@@ -1,5 +1,5 @@
-animeTitle	b'Kakegurui'
-animeType	b'TV'
+animeTitle	Kakegurui
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.29
 animeUsers	674696
 animeRank	
-animePopularity	
-animeDescription	"b""Unlike many schools, attending Hyakkaou Private Academy prepares students for their time in the real world. Since many of the students are the children of the richest people in the world, the academy has its quirks that separate it from all the others. By day, it is a normal school, educating its pupils in history, languages, and the like. But at night, it turns into a gambling den, educating them in the art of dealing with money and manipulating people. Money is power; those who come out on top in the games stand at the top of the school.\n\nYumeko Jabami, a seemingly naive and beautiful transfer student, is ready to try her hand at Hyakkaou's special curriculum. Unlike the rest, she doesn't play to win, but for the thrill of the gamble, and her borderline insane way of gambling might just bring too many new cards to the table.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kakegurui', b'Kakegurui\xc3\x97\xc3\x97', b'Kakegurui Picture Drama']
-animeCharacters	[b'Jabami, Yumeko', b'Saotome, Mary', b'Suzui, Ryouta', b'Ikishima, Midari', b'Momobami, Kirari', b'Yomozuki, Runa', b'Momobami, Ririka', b'Yumemite, Yumemi', b'Sumeragi, Itsuki', b'Manyuda, Kaede']
-animeVoices	[b'\nHayami, Saori\nJapanese\n', b'\nTanaka, Minami\nJapanese\n', b'\nTokutake, Tatsuya\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nUdono, Mayu\nJapanese\n', b'\nSerizawa, Yuu\nJapanese\n', b'\nWakai, Yuuki\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHayashi, Yuuichirou\n\nDirector, Storyboard\n\n', b'\nFujita, Akiko\n\nSound Director\n\n', b'\nYamamoto, Sayo\n\nEpisode Director, Storyboard\n\n', b'\nArai, Nobuyoshi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	83
+animeDescription	"Unlike many schools, attending Hyakkaou Private Academy prepares students for their time in the real world. Since many of the students are the children of the richest people in the world, the academy has its quirks that separate it from all the others. By day, it is a normal school, educating its pupils in history, languages, and the like. But at night, it turns into a gambling den, educating them in the art of dealing with money and manipulating people. Money is power; those who come out on top in the games stand at the top of the school.
+
+Yumeko Jabami, a seemingly naive and beautiful transfer student, is ready to try her hand at Hyakkaou's special curriculum. Unlike the rest, she doesn't play to win, but for the thrill of the gamble, and her borderline insane way of gambling might just bring too many new cards to the table.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kakegurui', 'Kakegurui××', 'Kakegurui Picture Drama']
+animeCharacters	['Jabami, Yumeko', 'Saotome, Mary', 'Suzui, Ryouta', 'Ikishima, Midari', 'Momobami, Kirari', 'Yomozuki, Runa', 'Momobami, Ririka', 'Yumemite, Yumemi', 'Sumeragi, Itsuki', 'Manyuda, Kaede']
+animeVoices	['Hayami, Saori', 'Tanaka, Minami', 'Tokutake, Tatsuya', 'Ise, Mariya', 'Sawashiro, Miyuki', 'Udono, Mayu', 'Serizawa, Yuu', 'Wakai, Yuuki', 'Sugita, Tomokazu']
+animeStaff	[['Hayashi, Yuuichirou', 'Director, Storyboard'], ['Fujita, Akiko', 'Sound Director'], ['Yamamoto, Sayo', 'Episode Director, Storyboard'], ['Arai, Nobuyoshi', 'Episode Director, Storyboard']]

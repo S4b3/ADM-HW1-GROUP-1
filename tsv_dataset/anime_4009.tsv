@@ -1,5 +1,5 @@
-animeTitle	b'Binchou-tan'
-animeType	b'TV'
+animeTitle	Binchou-tan
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.94
 animeUsers	3684
 animeRank	
-animePopularity	
-animeDescription	"b""This is a story about a little girl who lives in an old house in the mountains. Her name is Bincho-tan. Each episode depicts a day in the life of Bincho-tan as she prepares her breakfast in the morning, goes to the forest to gather vegetables, does her household chores and rests at night after a day's work. She is surrounded by a group of close friends who add color to her ordinary yet simple life. """
-animeRelated	[b'Binchou-tan', b'Jishu Seisaku Movie Binchou-tan']
-animeCharacters	[b'Binchou-tan', b'Ren-tan', b'Aroe', b'Chiku-rin', b'Kunugi-tan', b'Yurio', b'Pukashuu', b'Chiku-tan', b'Narrator', b'Madake']
-animeVoices	[b'\nNonaka, Ai\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nSaitou, Momoko\nJapanese\n', b'\nFukuen, Misato\nJapanese\n', b'\nNogawa, Sakura\nJapanese\n', b'\nFujiki, Seiko\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFuruhashi, Kazuhiro\n\nDirector, Episode Director, Storyboard\n\n', b'\nHiramitsu, Takuya\n\nSound Director\n\n', b'\nIshihama, Masashi\n\nEpisode Director, Animation Director\n\n', b'\nUeda, Shigeru\n\nEpisode Director\n\n']
+animePopularity	5323
+animeDescription	This is a story about a little girl who lives in an old house in the mountains. Her name is Bincho-tan. Each episode depicts a day in the life of Bincho-tan as she prepares her breakfast in the morning, goes to the forest to gather vegetables, does her household chores and rests at night after a day's work. She is surrounded by a group of close friends who add color to her ordinary yet simple life. 
+animeRelated	['Binchou-tan', 'Jishu Seisaku Movie Binchou-tan']
+animeCharacters	['Binchou-tan', 'Ren-tan', 'Aroe', 'Chiku-rin', 'Kunugi-tan', 'Yurio', 'Pukashuu', 'Chiku-tan', 'Narrator', 'Madake']
+animeVoices	['Nonaka, Ai', 'Satou, Rina', 'Saitou, Momoko', 'Fukuen, Misato', 'Nogawa, Sakura', 'Fujiki, Seiko', 'Matsuki, Miyu', 'Kadowaki, Mai', 'Inoue, Kikuko', 'Ogata, Kenichi']
+animeStaff	[['Furuhashi, Kazuhiro', 'Director, Episode Director, Storyboard'], ['Hiramitsu, Takuya', 'Sound Director'], ['Ishihama, Masashi', 'Episode Director, Animation Director'], ['Ueda, Shigeru', 'Episode Director']]

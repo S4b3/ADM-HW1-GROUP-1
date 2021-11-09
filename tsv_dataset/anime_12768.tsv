@@ -1,5 +1,5 @@
-animeTitle	b'Pikachin-Kit'
-animeType	b'TV'
+animeTitle	Pikachin-Kit
+animeType	TV
 animeNumEpisode	115
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'A fifth-year elementary student named Eiji Toomatsu, and his ""inspiration"" buddy, a dog named Pochirou. One day Eiji finds a mysterious book called the ""Pikachin Research Book,"" and learns about the seven tools that make up the Pikachin Kit. Eiji presses a button inside the research book, and immediately a ""Future Amazon"" delivery arrives at his door with the kit. Eiji uses the blueprints included in the box to assemble the kit, but it seems as though 1% part of the kit is still missing. \n\nIn the franchise, the word ""Pikachin"" means the flash of inspiration or insight one gets about a new project, similar to the visual of a lightbulb turning on above one\'s head when someone has an idea. The concept of the franchise is ""invention is 99% plastic models, 1% inspiration."" \n\n(Source: ANN)'"
-animeRelated	[b'Pochitto Hatsumei: Pikachin-Kit']
-animeCharacters	[b'Pochirou', b'Toomatsu, Eiji', b'Patty', b'Jet Wolf', b'Spy Crow James', b'Giba', b'Gatai', b'Ataru', b'Hina']
+animePopularity	13881
+animeDescription	"A fifth-year elementary student named Eiji Toomatsu, and his ""inspiration"" buddy, a dog named Pochirou. One day Eiji finds a mysterious book called the ""Pikachin Research Book,"" and learns about the seven tools that make up the Pikachin Kit. Eiji presses a button inside the research book, and immediately a ""Future Amazon"" delivery arrives at his door with the kit. Eiji uses the blueprints included in the box to assemble the kit, but it seems as though 1% part of the kit is still missing. 
+
+In the franchise, the word ""Pikachin"" means the flash of inspiration or insight one gets about a new project, similar to the visual of a lightbulb turning on above one's head when someone has an idea. The concept of the franchise is ""invention is 99% plastic models, 1% inspiration."" 
+
+(Source: ANN)"
+animeRelated	['Pochitto Hatsumei: Pikachin-Kit']
+animeCharacters	['Pochirou', 'Toomatsu, Eiji', 'Patty', 'Jet Wolf', 'Spy Crow James', 'Giba', 'Gatai', 'Ataru', 'Hina']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKimura, Ryuuichi\n\nDirector\n\n', b'\nOtsuka, Ai\n\nTheme Song Performance\n\n', b'\nMiyawaki, Shion\n\nTheme Song Performance\n\n', b'\nHanae, Natsuki\n\nInserted Song Performance\n\n']
+animeStaff	[['Kimura, Ryuuichi', 'Director'], ['Otsuka, Ai', 'Theme Song Performance'], ['Miyawaki, Shion', 'Theme Song Performance'], ['Hanae, Natsuki', 'Inserted Song Performance']]

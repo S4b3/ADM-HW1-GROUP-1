@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 30: Nobita no Ningyo Daikaisen'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 30: Nobita no Ningyo Daikaisen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.15
 animeUsers	2733
 animeRank	
-animePopularity	
-animeDescription	"b""Nobita asks Doraemon to take him somewhere they can dive and as a result the robot-cat uses several gadgets to make it possible for both to able to swim on an imaginary ocean above sea level. Inadvertently a mermaid ends up on Nobita's backyard when they turn off the illusion. Her name is Sophia and she is a princess of an ancient underwater civilization. Doraemon, Nobita, Shizuka, Jyaian, and Suneo quickly become her friends and are invited to visit her homeland. While heading towards the underwater kingdom they find themselves amid a conflict between the mermaids and an opposing tribe that has driven them away from their home planet thousands of years ago. Doraemon, Nobita, and their friends must then aid Sophia find a legendary sword that might bring peace once again to the seas. \n\n(Source: ANN) """
-animeRelated	[b'Doraemon (2005)']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi', b'Sophia', b'Nobi, Nobisuke']
-animeVoices	[b'\nMizuta, Wasabi\nJapanese\n', b'\nOohara, Megumi\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nKimura, Subaru\nJapanese\n', b'\nTanaka, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKusuba, Kouzou\n\nDirector, Storyboard\n\n', b'\nKimura, Nobukage\n\nEpisode Director\n\n', b'\nmao\n\nTheme Song Performance\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n']
+animePopularity	7249
+animeDescription	"Nobita asks Doraemon to take him somewhere they can dive and as a result the robot-cat uses several gadgets to make it possible for both to able to swim on an imaginary ocean above sea level. Inadvertently a mermaid ends up on Nobita's backyard when they turn off the illusion. Her name is Sophia and she is a princess of an ancient underwater civilization. Doraemon, Nobita, Shizuka, Jyaian, and Suneo quickly become her friends and are invited to visit her homeland. While heading towards the underwater kingdom they find themselves amid a conflict between the mermaids and an opposing tribe that has driven them away from their home planet thousands of years ago. Doraemon, Nobita, and their friends must then aid Sophia find a legendary sword that might bring peace once again to the seas. 
+
+(Source: ANN) "
+animeRelated	['Doraemon (2005)']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Sophia', 'Nobi, Nobisuke']
+animeVoices	['Mizuta, Wasabi', 'Oohara, Megumi', 'Kakazu, Yumi', 'Seki, Tomokazu', 'Kimura, Subaru', 'Tanaka, Rie']
+animeStaff	[['Kusuba, Kouzou', 'Director, Storyboard'], ['Kimura, Nobukage', 'Episode Director'], ['mao', 'Theme Song Performance'], ['Fujiko, Fujio F.', 'Original Creator']]

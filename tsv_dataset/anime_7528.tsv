@@ -1,5 +1,5 @@
-animeTitle	b'Space Fantasia 2001 Nights'
-animeType	b'OVA'
+animeTitle	Space Fantasia 2001 Nights
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.23
 animeUsers	976
 animeRank	
-animePopularity	
-animeDescription	"b'Based on Yukinobu Hoshino\'s 1984 manga in ""Action Comics; shot in ""Super Perspective Technique"".\nIt is the 21st century, and two young people were chosen. Adam was sent off into a space ship and was sent off into outer space...\n\n(Source: ANN, AniDB)'"
-animeRelated	[b'2001-ya Monogatari', b'TO']
-animeCharacters	[b'Robinson Jr., Adam', b'Toby', b'Adam', b'Leo', b'Karen', b'Chris', b'Clerk', b'Hannah', b'Narrator']
-animeVoices	[b'\nNaya, Gorou\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nOoki, Tamio\nJapanese\n', b'\nMurata, Hiromi\nJapanese\n', b'\nFuchizaki, Yuriko\nJapanese\n', b'\nNoda, Keiichi\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nNakanishi, Taeko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakeuchi, Yoshio\n\nDirector, Storyboard\n\n', b'\nAketagawa, Susumu\n\nSound Director\n\n', b'\nKanada, Yoshinori\n\nStoryboard, Key Animation\n\n', b'\nNabeshima, Osamu\n\nStoryboard, Key Animation\n\n']
+animePopularity	8703
+animeDescription	"Based on Yukinobu Hoshino's 1984 manga in ""Action Comics; shot in ""Super Perspective Technique"".
+It is the 21st century, and two young people were chosen. Adam was sent off into a space ship and was sent off into outer space...
+
+(Source: ANN, AniDB)"
+animeRelated	['2001-ya Monogatari', 'TO']
+animeCharacters	['Robinson Jr., Adam', 'Toby', 'Adam', 'Leo', 'Karen', 'Chris', 'Clerk', 'Hannah', 'Narrator']
+animeVoices	['Naya, Gorou', 'Horikawa, Ryo', 'Furukawa, Toshio', 'Ooki, Tamio', 'Murata, Hiromi', 'Fuchizaki, Yuriko', 'Noda, Keiichi', 'Tsuru, Hiromi', 'Nakanishi, Taeko']
+animeStaff	[['Takeuchi, Yoshio', 'Director, Storyboard'], ['Aketagawa, Susumu', 'Sound Director'], ['Kanada, Yoshinori', 'Storyboard, Key Animation'], ['Nabeshima, Osamu', 'Storyboard, Key Animation']]

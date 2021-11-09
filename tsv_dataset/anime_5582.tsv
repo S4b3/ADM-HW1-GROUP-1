@@ -1,5 +1,5 @@
-animeTitle	b'Cardfight!! Vanguard G: Next'
-animeType	b'TV'
+animeTitle	Cardfight!! Vanguard G: Next
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.6
 animeUsers	3282
 animeRank	
-animePopularity	
-animeDescription	b'Third season of Cardfight!! Vanguard G series.'
-animeRelated	[b'Cardfight!! Vanguard G: Stride Gate-hen', b'Cardfight!! Vanguard G: Z']
-animeCharacters	[b'Shindou, Chrono', b'Shouji, Kazuma', b'Asukawa, Taiyou', b'Kanzaki, Yuuichirou', b'Sendou, Aichi', b'Kai, Toshiki', b'Tokura, Misaki', b'Ibuki, Kouji', b'Anjou, Tokoha', b'Sendou, Emi']
-animeVoices	[b'\nIshii, Mark\nJapanese\n', b'\nBatori, Shougo\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nYonaga, Tsubasa\nJapanese\n', b'\nSatou, Takuya\nJapanese\n', b'\nKitta, Izumi\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nAiba, Aina\nJapanese\n', b'\nEnomoto, Atsuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawasaki, Itsurou\n\nDirector\n\n', b'\nImaizumi, Yuuichi\n\nSound Director\n\n', b'\nHisao, Ayumu\n\nScript\n\n', b'\nUmemoto, Yui\n\nStoryboard\n\n']
+animePopularity	5699
+animeDescription	Third season of Cardfight!! Vanguard G series.
+animeRelated	['Cardfight!! Vanguard G: Stride Gate-hen', 'Cardfight!! Vanguard G: Z']
+animeCharacters	['Shindou, Chrono', 'Shouji, Kazuma', 'Asukawa, Taiyou', 'Kanzaki, Yuuichirou', 'Sendou, Aichi', 'Kai, Toshiki', 'Tokura, Misaki', 'Ibuki, Kouji', 'Anjou, Tokoha', 'Sendou, Emi']
+animeVoices	['Ishii, Mark', 'Batori, Shougo', 'Kuwashima, Houko', 'Yonaga, Tsubasa', 'Satou, Takuya', 'Kitta, Izumi', 'Miyano, Mamoru', 'Aiba, Aina', 'Enomoto, Atsuko']
+animeStaff	[['Kawasaki, Itsurou', 'Director'], ['Imaizumi, Yuuichi', 'Sound Director'], ['Hisao, Ayumu', 'Script'], ['Umemoto, Yui', 'Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Shin Kaitei Gunkan'
-animeType	b'OVA'
+animeTitle	Shin Kaitei Gunkan
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.1
 animeUsers	564
 animeRank	
-animePopularity	
-animeDescription	b'Moments after an atomic bomb falls over Hiroshima, a secret Japanese submarine sails into battle against its American counterpart, and both are lost to history. Some fifty years later, a special UN task force sent to investigate unusual phenomena in Antarctica is threatened by a mysterious black cylinder.\n\n(Source: ANN)'
+animePopularity	9828
+animeDescription	"Moments after an atomic bomb falls over Hiroshima, a secret Japanese submarine sails into battle against its American counterpart, and both are lost to history. Some fifty years later, a special UN task force sent to investigate unusual phenomena in Antarctica is threatened by a mysterious black cylinder.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Avatar', b'Annette', b'Arisaka, Go', b'Nishimura, Koutarou', b'Kageyama, Mitsugu', b'Hyuga, Magane']
-animeVoices	[b'\nInoue, Kikuko\nJapanese\n', b'\nIwao, Junko\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nChikaishi, Shinsuke\nJapanese\n', b'\nSagawa, Tetsurou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKatayama, Kazuyoshi\n\nDirector, Storyboard\n\n', b'\nYasuhiko, Yoshikazu\n\nCharacter Design\n\n', b'\nAraki, Hideki\n\nKey Animation\n\n', b'\nSaitou, Hisashi\n\nKey Animation\n\n']
+animeCharacters	['Avatar', 'Annette', 'Arisaka, Go', 'Nishimura, Koutarou', 'Kageyama, Mitsugu', 'Hyuga, Magane']
+animeVoices	['Inoue, Kikuko', 'Iwao, Junko', 'Seki, Tomokazu', 'Chikaishi, Shinsuke', 'Sagawa, Tetsurou']
+animeStaff	[['Katayama, Kazuyoshi', 'Director, Storyboard'], ['Yasuhiko, Yoshikazu', 'Character Design'], ['Araki, Hideki', 'Key Animation'], ['Saitou, Hisashi', 'Key Animation']]

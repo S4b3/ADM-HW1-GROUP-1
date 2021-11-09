@@ -1,5 +1,5 @@
-animeTitle	b'Galaxy Angel S'
-animeType	b'OVA'
+animeTitle	Galaxy Angel S
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.86
 animeUsers	764
 animeRank	
-animePopularity	
-animeDescription	b'Galaxy Angel 3 TV special that contains 2 stories.'
-animeRelated	[b'Galaxy Angel 3']
-animeCharacters	[b'Sakuraba, Milfeulle', b'Blancmanche, Mint', b'H, Vanilla', b'Stollen, Forte', b'Franboise, Ranpha']
+animePopularity	9257
+animeDescription	Galaxy Angel 3 TV special that contains 2 stories.
+animeRelated	['Galaxy Angel 3']
+animeCharacters	['Sakuraba, Milfeulle', 'Blancmanche, Mint', 'H, Vanilla', 'Stollen, Forte', 'Franboise, Ranpha']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakayanagi, Shigehito\n\nDirector\n\n', b'\nSatou, Shouichi\n\nScript\n\n', b'\nAraki, Tetsurou\n\nStoryboard\n\n']
+animeStaff	[['Takayanagi, Shigehito', 'Director'], ['Satou, Shouichi', 'Script'], ['Araki, Tetsurou', 'Storyboard']]

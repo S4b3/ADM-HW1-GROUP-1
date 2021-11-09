@@ -1,5 +1,5 @@
-animeTitle	b'Minami no Niji no Lucy'
-animeType	b'TV'
+animeTitle	Minami no Niji no Lucy
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.9
 animeUsers	500
 animeRank	
-animePopularity	
-animeDescription	"b""Lucy's family moves from England to Australia planning to run a big farm. Starting a new life proves to be full of frustrations. Their agonizing days of despair continue until they finally obtain their farmland. However, Lucy and her sisters enjoy a range of new experiences such as discovering exotic animals and meeting with aborigines and other new people.\n\n(Source: AnimeNfo)"""
-animeRelated	[b'Minami no Niji no Lucy Specials']
-animeCharacters	[b'Mr. Petiwell']
-animeVoices	[b'\nTakiguchi, Junpei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSaitou, Hiroshi\n\nDirector\n\n', b'\nMiyazaki, Akira\n\nScript\n\n', b'\nKusuba, Kouzou\n\nStoryboard\n\n', b'\nKoshi, Shigeo\n\nStoryboard, Assistant Animation Director\n\n']
+animePopularity	9577
+animeDescription	"Lucy's family moves from England to Australia planning to run a big farm. Starting a new life proves to be full of frustrations. Their agonizing days of despair continue until they finally obtain their farmland. However, Lucy and her sisters enjoy a range of new experiences such as discovering exotic animals and meeting with aborigines and other new people.
+
+(Source: AnimeNfo)"
+animeRelated	['Minami no Niji no Lucy Specials']
+animeCharacters	['Mr. Petiwell']
+animeVoices	['Takiguchi, Junpei']
+animeStaff	[['Saitou, Hiroshi', 'Director'], ['Miyazaki, Akira', 'Script'], ['Kusuba, Kouzou', 'Storyboard'], ['Koshi, Shigeo', 'Storyboard, Assistant Animation Director']]

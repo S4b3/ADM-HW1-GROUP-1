@@ -1,5 +1,5 @@
-animeTitle	b'Cardfight!! Vanguard'
-animeType	b'TV'
+animeTitle	Cardfight!! Vanguard
+animeType	TV
 animeNumEpisode	65
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.02
 animeUsers	21115
 animeRank	
-animePopularity	
-animeDescription	"b'Cardfight!! Vanguard features a world where the game Cardfight!! Vanguard is becoming the latest craze among trading card games, becoming a part of everyday life for people all over the world. The game is not limited to Earth alone; battles between the creatures used by the players take place on another planet called Cray.\n\nThe story begins with Aichi Sendou, a timid middle schooler whose meek attitude often leaves him a target for bullies. Aichi was given a very rare card, ""Blaster Blade"", when he was very young. It\'s his one treasure that gives him hope. That is, until it gets taken from him. Although Aichi has never played Cardfight!! Vanguard before, he challenges the thief to a game in order to win the ""Blaster Blade"" back. This high-stakes game quickly draws Aichi into the world of Vanguard battles, which will test and change his worth as both a player and a person. '"
-animeRelated	[b'Cardfight!! Vanguard', b'Cardfight!! Vanguard: Asia Circuit-hen', b'Mini Van', b'Cardfight!! Vanguard Movie: Neon Messiah', b'Mini Van 2nd Season', b'Cardfight!! Vanguard (2018)', b'Bermuda Triangle: Colorful Pastrale', b'Cardfight!! Vanguard Gaiden: If']
-animeCharacters	[b'Sendou, Aichi', b'Kai, Toshiki', b'Tokura, Misaki', b'Katsuragi, Kamui', b'Suzugamori, Ren', b'Miwa, Taishi', b'Tatsunagi, Kourin', b'Sendou, Emi', b'Mitsusada, Kenji', b'Morikawa, Katsumi']
-animeVoices	[b'\nYonaga, Tsubasa\nJapanese\n', b'\nSatou, Takuya\nJapanese\n', b'\nKitta, Izumi\nJapanese\n', b'\nIshikawa, Shizuka\nJapanese\n', b'\nAbe, Atsushi\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nEnomoto, Atsuko\nJapanese\n', b'\nAkabane, Kenji\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuji, Hatsuki\n\nDirector, Storyboard\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n', b'\nTokumoto, Yoshinobu\n\nEpisode Director\n\n', b'\nUmemoto, Yui\n\nEpisode Director, Storyboard\n\n']
+animePopularity	2565
+animeDescription	"Cardfight!! Vanguard features a world where the game Cardfight!! Vanguard is becoming the latest craze among trading card games, becoming a part of everyday life for people all over the world. The game is not limited to Earth alone; battles between the creatures used by the players take place on another planet called Cray.
+
+The story begins with Aichi Sendou, a timid middle schooler whose meek attitude often leaves him a target for bullies. Aichi was given a very rare card, ""Blaster Blade"", when he was very young. It's his one treasure that gives him hope. That is, until it gets taken from him. Although Aichi has never played Cardfight!! Vanguard before, he challenges the thief to a game in order to win the ""Blaster Blade"" back. This high-stakes game quickly draws Aichi into the world of Vanguard battles, which will test and change his worth as both a player and a person. "
+animeRelated	['Cardfight!! Vanguard', 'Cardfight!! Vanguard: Asia Circuit-hen', 'Mini Van', 'Cardfight!! Vanguard Movie: Neon Messiah', 'Mini Van 2nd Season', 'Cardfight!! Vanguard (2018)', 'Bermuda Triangle: Colorful Pastrale', 'Cardfight!! Vanguard Gaiden: If']
+animeCharacters	['Sendou, Aichi', 'Kai, Toshiki', 'Tokura, Misaki', 'Katsuragi, Kamui', 'Suzugamori, Ren', 'Miwa, Taishi', 'Tatsunagi, Kourin', 'Sendou, Emi', 'Mitsusada, Kenji', 'Morikawa, Katsumi']
+animeVoices	['Yonaga, Tsubasa', 'Satou, Takuya', 'Kitta, Izumi', 'Ishikawa, Shizuka', 'Abe, Atsushi', 'Morikubo, Shoutarou', 'Mimori, Suzuko', 'Enomoto, Atsuko', 'Akabane, Kenji', 'Sugiyama, Noriaki']
+animeStaff	[['Tsuji, Hatsuki', 'Director, Storyboard'], ['Takadera, Takeshi', 'Sound Director'], ['Tokumoto, Yoshinobu', 'Episode Director'], ['Umemoto, Yui', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation'
-animeType	b'TV'
+animeTitle	Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.25
 animeUsers	454788
 animeRank	
-animePopularity	
-animeDescription	"b'Hope\'s Peak Academy is an elite high school that accepts only the most talented students. Individuals who successfully enroll receive their own unique titles, suitably reflective of their skills and traits. Of the fifteen candidates admitted to the peculiar school that year, Makoto Naegi is a completely ordinary individual who has been accepted by sheer chance, with the title of ""Super High School-Level Luck.""\n\nNaegi and his fellow classmates are initially ecstatic to be chosen to study at this prestigious institution, but these feelings of happiness are short-lived. They are soon confronted by Monokuma, the principal and resident bear, who traps them inside the school. The pupils\' hopes of escape and graduation hinge on one of them successfully murdering one of their peers without being discovered. However, if the killer is caught, he or she will be executed, and the remaining survivors will be left to continue the deathmatch until only a single victor remains.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei', b'Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation', b'Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen', b'Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen']
-animeCharacters	[b'Kirigiri, Kyouko', b'Monokuma', b'Naegi, Makoto', b'Enoshima, Junko', b'Ludenberg, Celestia', b'Fukawa, Touko', b'Togami, Byakuya', b'Fujisaki, Chihiro', b'Ishimaru, Kiyotaka', b'Asahina, Aoi']
-animeVoices	[b'\nHikasa, Youko\nJapanese\n', b'\nOoyama, Nobuyo\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nShiina, Hekiru\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKishi, Seiji\n\nDirector\n\n', b'\nTatum, John Michael\n\nScript\n\n', b'\nUezu, Makoto\n\nScript, Series Composition\n\n', b'\nSekine, Satoko\n\nScript\n\n']
+animePopularity	148
+animeDescription	"Hope's Peak Academy is an elite high school that accepts only the most talented students. Individuals who successfully enroll receive their own unique titles, suitably reflective of their skills and traits. Of the fifteen candidates admitted to the peculiar school that year, Makoto Naegi is a completely ordinary individual who has been accepted by sheer chance, with the title of ""Super High School-Level Luck.""
+
+Naegi and his fellow classmates are initially ecstatic to be chosen to study at this prestigious institution, but these feelings of happiness are short-lived. They are soon confronted by Monokuma, the principal and resident bear, who traps them inside the school. The pupils' hopes of escape and graduation hinge on one of them successfully murdering one of their peers without being discovered. However, if the killer is caught, he or she will be executed, and the remaining survivors will be left to continue the deathmatch until only a single victor remains.
+
+[Written by MAL Rewrite]"
+animeRelated	['Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei', 'Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation', 'Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen', 'Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen']
+animeCharacters	['Kirigiri, Kyouko', 'Monokuma', 'Naegi, Makoto', 'Enoshima, Junko', 'Ludenberg, Celestia', 'Fukawa, Touko', 'Togami, Byakuya', 'Fujisaki, Chihiro', 'Ishimaru, Kiyotaka', 'Asahina, Aoi']
+animeVoices	['Hikasa, Youko', 'Ooyama, Nobuyo', 'Ogata, Megumi', 'Toyoguchi, Megumi', 'Shiina, Hekiru', 'Sawashiro, Miyuki', 'Ishida, Akira', 'Miyata, Kouki', 'Toriumi, Kousuke', 'Saitou, Chiwa']
+animeStaff	[['Kishi, Seiji', 'Director'], ['Tatum, John Michael', 'Script'], ['Uezu, Makoto', 'Script, Series Composition'], ['Sekine, Satoko', 'Script']]

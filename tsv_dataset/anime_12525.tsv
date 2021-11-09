@@ -1,5 +1,5 @@
-animeTitle	b'Ojarumaru: Mangetsu Road Kiki Ippatsu - Tama ni wa Maro mo Daibouken'
-animeType	b'Special'
+animeTitle	Ojarumaru: Mangetsu Road Kiki Ippatsu - Tama ni wa Maro mo Daibouken
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A special of the Ojarumaru series. '
-animeRelated	[b'Ojarumaru']
-animeCharacters	[b'Sakanoue, Ojarumaru']
-animeVoices	[b'\nNishimura, Chinami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDaichi, Akitarou\n\nDirector\n\n', b'\nIkeda, Mamiko\n\nScreenplay\n\n', b'\nNishikawa, Junichiro\n\nArt Director\n\n', b'\nYamamoto, Harukichi\n\nMusic\n\n']
+animePopularity	15518
+animeDescription	A special of the Ojarumaru series. 
+animeRelated	['Ojarumaru']
+animeCharacters	['Sakanoue, Ojarumaru']
+animeVoices	['Nishimura, Chinami']
+animeStaff	[['Daichi, Akitarou', 'Director'], ['Ikeda, Mamiko', 'Screenplay'], ['Nishikawa, Junichiro', 'Art Director'], ['Yamamoto, Harukichi', 'Music']]

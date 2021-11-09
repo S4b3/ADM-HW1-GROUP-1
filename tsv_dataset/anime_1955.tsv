@@ -1,5 +1,5 @@
-animeTitle	b'Majokko Shimai no Yoyo to Nene'
-animeType	b'Movie'
+animeTitle	Majokko Shimai no Yoyo to Nene
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.41
 animeUsers	5523
 animeRank	
-animePopularity	
-animeDescription	"b'Based on a manga ""Noroiya Shimai"" written by Hirarin and serialized in Monthly Comic Ryuu. \n\nIt is a story about a pair of sisters who work as ""noroiya"" (cursers) using magic in a fantasy world. One day a big tree suddenly appears in a forest, and tall buildings that look like they are from our world can be seen entangled in it. The two sisters go there to investigate and get ported to our world. They then encounter two children who are startled by the sisters\' sudden appearance and rush back home but at home they see their parents turned into monsters...\n\n(Source: MAL News)'"
-animeRelated	[b'Noroi-ya Shimai', b'Majokko Shimai no Yoyo to Nene Movie Extra: Hatsukoi - Mikako Komatsu']
-animeCharacters	[b'Yoyo', b'Nene', b'Aki', b'Bihaku', b'Nils', b'Oyomi', b'Oyone', b'Kirouchou', b'Takeo', b'Takahiro']
-animeVoices	[b'\nMorohoshi, Sumire\nJapanese\n', b'\nKakuma, Ai\nJapanese\n', b'\nSasaki, Rio\nJapanese\n', b'\nNakagawa, Shoko\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nHikami, Kyouko\nJapanese\n', b'\nHonda, Takako\nJapanese\n', b'\nChou, Katsumi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuo, Ryouichirou\n\nProducer\n\n', b'\nKurosaki, Shizuka\n\nAssistant Producer\n\n', b'\nHirao, Takayuki\n\nDirector, Sound Director, Episode Director, Script, Storyboard, Theme Song Lyrics\n\n', b'\nSatou, Kazuharu\n\nScript\n\n']
+animePopularity	4458
+animeDescription	"Based on a manga ""Noroiya Shimai"" written by Hirarin and serialized in Monthly Comic Ryuu. 
+
+It is a story about a pair of sisters who work as ""noroiya"" (cursers) using magic in a fantasy world. One day a big tree suddenly appears in a forest, and tall buildings that look like they are from our world can be seen entangled in it. The two sisters go there to investigate and get ported to our world. They then encounter two children who are startled by the sisters' sudden appearance and rush back home but at home they see their parents turned into monsters...
+
+(Source: MAL News)"
+animeRelated	['Noroi-ya Shimai', 'Majokko Shimai no Yoyo to Nene Movie Extra: Hatsukoi - Mikako Komatsu']
+animeCharacters	['Yoyo', 'Nene', 'Aki', 'Bihaku', 'Nils', 'Oyomi', 'Oyone', 'Kirouchou', 'Takeo', 'Takahiro']
+animeVoices	['Morohoshi, Sumire', 'Kakuma, Ai', 'Sasaki, Rio', 'Nakagawa, Shoko', 'Koyasu, Takehito', 'Hikami, Kyouko', 'Honda, Takako', 'Chou, Katsumi', 'Sakurai, Takahiro', 'Sawashiro, Miyuki']
+animeStaff	[['Matsuo, Ryouichirou', 'Producer'], ['Kurosaki, Shizuka', 'Assistant Producer'], ['Hirao, Takayuki', 'Director, Sound Director, Episode Director, Script, Storyboard, Theme Song Lyrics'], ['Satou, Kazuharu', 'Script']]

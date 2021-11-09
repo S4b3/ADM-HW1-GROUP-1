@@ -1,5 +1,5 @@
-animeTitle	"b""Eat-Man '98"""
-animeType	b'TV'
+animeTitle	Eat-Man '98
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.7
 animeUsers	1926
 animeRank	
-animePopularity	
-animeDescription	"b""The continuing adventures of Bolt Crank, the World's Greatest Mercenary, who has the ability to eat any object, mostly metal and weapons. When the time comes, Bolt can then reproduce those weapons and items in his right hand.\n\n(Source: ANN)"""
-animeRelated	[b'Eat-Man']
-animeCharacters	"[b'Crank, Bolt', b'Raffin', b'Naomi', b'Alex', b'Dustin', b'Jonathan', b'Robert', b""O'Neil, Tetto"", b'King Sergei', b'Rene']"
-animeVoices	[b'\nEbara, Masashi\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nNagata, Ryoko\nJapanese\n', b'\nKatou, Nanae\nJapanese\n', b'\nMiura, Naoko\nJapanese\n', b'\nIwata, Yasuo\nJapanese\n', b'\nNishimura, Tomomichi\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nNakagi, Ryuuji\nJapanese\n', b'\nMadono, Mitsuaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawase, Toshifumi\n\nDirector, Storyboard\n\n', b'\nYoshitomi, Akihito\n\nOriginal Creator\n\n', b'\nSotozaki, Haruo\n\nAnimation Director\n\n', b'\nMurata, Masahiko\n\nAnimation Director\n\n']
+animePopularity	6936
+animeDescription	"The continuing adventures of Bolt Crank, the World's Greatest Mercenary, who has the ability to eat any object, mostly metal and weapons. When the time comes, Bolt can then reproduce those weapons and items in his right hand.
+
+(Source: ANN)"
+animeRelated	['Eat-Man']
+animeCharacters	"['Crank, Bolt', 'Raffin', 'Naomi', 'Alex', 'Dustin', 'Jonathan', 'Robert', ""O'Neil, Tetto"", 'King Sergei', 'Rene']"
+animeVoices	['Ebara, Masashi', 'Neya, Michiko', 'Nagata, Ryoko', 'Katou, Nanae', 'Miura, Naoko', 'Iwata, Yasuo', 'Nishimura, Tomomichi', 'Nagai, Ichiro', 'Nakagi, Ryuuji', 'Madono, Mitsuaki']
+animeStaff	[['Kawase, Toshifumi', 'Director, Storyboard'], ['Yoshitomi, Akihito', 'Original Creator'], ['Sotozaki, Haruo', 'Animation Director'], ['Murata, Masahiko', 'Animation Director']]

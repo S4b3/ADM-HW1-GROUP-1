@@ -1,5 +1,5 @@
-animeTitle	b'Hakata Mentai! Pirikarako-chan'
-animeType	b'TV'
+animeTitle	Hakata Mentai! Pirikarako-chan
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.11
 animeUsers	965
 animeRank	
-animePopularity	
-animeDescription	"b'A daily eating life happening at a street that seems like Hakata but not Hakata!?  Fairy of Mentaiko ""Pirikarako-chan"" goes around the street to solve (?)!'"
+animePopularity	8776
+animeDescription	"A daily eating life happening at a street that seems like Hakata but not Hakata!?  Fairy of Mentaiko ""Pirikarako-chan"" goes around the street to solve (?)!"
 animeRelated	[]
-animeCharacters	[b'Pirikarako-chan', b'Baran-kun', b'Sousuke-ojisan', b'Maya', b'Koharu-obaachan', b'Shitsuji', b'Motsunabe-oyaji', b'Caviar-kun']
-animeVoices	[b'\nKouno, Hiyori\nJapanese\n', b'\nHorie, Shun\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nOi, Marie\nJapanese\n', b'\nMiyata, Hironori\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nFujiwara, Natsumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshikawa, Taketomo\n\nDirector, Character Design\n\n', b'\nYamazaki, Shiori\n\nSound Director\n\n', b'\nIrie, Shingo\n\nScript\n\n', b'\nfumika\n\nTheme Song Performance\n\n']
+animeCharacters	['Pirikarako-chan', 'Baran-kun', 'Sousuke-ojisan', 'Maya', 'Koharu-obaachan', 'Shitsuji', 'Motsunabe-oyaji', 'Caviar-kun']
+animeVoices	['Kouno, Hiyori', 'Horie, Shun', 'Ogata, Kenichi', 'Uchida, Maaya', 'Oi, Marie', 'Miyata, Hironori', 'Chafurin', 'Fujiwara, Natsumi']
+animeStaff	[['Ishikawa, Taketomo', 'Director, Character Design'], ['Yamazaki, Shiori', 'Sound Director'], ['Irie, Shingo', 'Script'], ['fumika', 'Theme Song Performance']]

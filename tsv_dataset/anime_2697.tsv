@@ -1,5 +1,5 @@
-animeTitle	b'Mahoutsukai no Yome Recap'
-animeType	b'Special'
+animeTitle	Mahoutsukai no Yome Recap
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.24
 animeUsers	3677
 animeRank	
-animePopularity	
-animeDescription	b'Recap of the first 12 episodes of Mahoutsukai no Yome.'
-animeRelated	[b'Mahoutsukai no Yome']
-animeCharacters	[b'Hatori, Chise', b'Ainsworth, Elias']
+animePopularity	4829
+animeDescription	Recap of the first 12 episodes of Mahoutsukai no Yome.
+animeRelated	['Mahoutsukai no Yome']
+animeCharacters	['Hatori, Chise', 'Ainsworth, Elias']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nWada, Jouji\n\nProducer, Planning\n\n', b'\nYamazaki, Kore\n\nOriginal Creator\n\n']
+animeStaff	[['Wada, Jouji', 'Producer, Planning'], ['Yamazaki, Kore', 'Original Creator']]

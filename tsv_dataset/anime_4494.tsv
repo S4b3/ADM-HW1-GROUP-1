@@ -1,5 +1,5 @@
-animeTitle	b'Dokidoki! Precure Movie: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress'
-animeType	b'Movie'
+animeTitle	Dokidoki! Precure Movie: Mana Kekkon!!? Mirai ni Tsunagu Kibou no Dress
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.83
 animeUsers	1581
 animeRank	
-animePopularity	
-animeDescription	"b""Mana is given a wedding dress which was worn by her mother and grandmother.\nAll of sudden a mysterious man named Matthew appears and takes her to the past world.\nMana is so glad to meet her grandmother and her beloved dog Maro that she had a long time ago, but she can't find two of her best friends Rikka and Alice. It looks her precious memories have been changed somehow.\nIf things continue as is, the future will be ruined, too.\nThe Precure girls have to fight to protect their memories and future!!\n\n(Source: Crunchyroll)"""
-animeRelated	[b'Dokidoki! Precure']
-animeCharacters	[b'Aida, Mana', b'Hishikawa, Rikka', b'Yotsuba, Alice', b'Kenzaki, Makoto', b'Madoka, Aguri', b'Marsh', b'Marie Ange', b'Yashima, Chihiro', b'Momota, Tsubasa', b'Nikaidou, Takuya']
-animeVoices	[b'\nNabatame, Hitomi\nJapanese\n', b'\nKotobuki, Minako\nJapanese\n', b'\nFuchigami, Mai\nJapanese\n', b'\nMiyamoto, Kanako\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nTanihara, Shosuke\nJapanese\n', b'\nImai, Yuka\nJapanese\n', b'\nIkki, Chihiro\nJapanese\n', b'\nSakurai, Tsubasa\nJapanese\n', b'\nSatou, Takuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItou, Naoyuki\n\nDirector\n\n', b'\nShida, Naotoshi\n\nKey Animation\n\n', b'\nShinomiya, Yoshitoshi\n\nBackground Art\n\n', b'\nToudou, Izumi\n\nOriginal Creator\n\n']
+animePopularity	7783
+animeDescription	"Mana is given a wedding dress which was worn by her mother and grandmother.
+All of sudden a mysterious man named Matthew appears and takes her to the past world.
+Mana is so glad to meet her grandmother and her beloved dog Maro that she had a long time ago, but she can't find two of her best friends Rikka and Alice. It looks her precious memories have been changed somehow.
+If things continue as is, the future will be ruined, too.
+The Precure girls have to fight to protect their memories and future!!
+
+(Source: Crunchyroll)"
+animeRelated	['Dokidoki! Precure']
+animeCharacters	['Aida, Mana', 'Hishikawa, Rikka', 'Yotsuba, Alice', 'Kenzaki, Makoto', 'Madoka, Aguri', 'Marsh', 'Marie Ange', 'Yashima, Chihiro', 'Momota, Tsubasa', 'Nikaidou, Takuya']
+animeVoices	['Nabatame, Hitomi', 'Kotobuki, Minako', 'Fuchigami, Mai', 'Miyamoto, Kanako', 'Kugimiya, Rie', 'Tanihara, Shosuke', 'Imai, Yuka', 'Ikki, Chihiro', 'Sakurai, Tsubasa', 'Satou, Takuya']
+animeStaff	[['Itou, Naoyuki', 'Director'], ['Shida, Naotoshi', 'Key Animation'], ['Shinomiya, Yoshitoshi', 'Background Art'], ['Toudou, Izumi', 'Original Creator']]

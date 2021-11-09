@@ -1,5 +1,5 @@
-animeTitle	b'Chibi Maruko-chan Movie: Italia kara Kita Shounen'
-animeType	b'Movie'
+animeTitle	Chibi Maruko-chan Movie: Italia kara Kita Shounen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.67
 animeUsers	237
 animeRank	
-animePopularity	
-animeDescription	"b""When six international students descend on Shimizu for a homestay, an Italian boy takes an unusual liking to Maruko, who isn't too impressed by the situation. Can she put aside her annoyance in order to help him connect to the memory of one of his closest family members? Join the expansive cast of Chibi Maruko-chan as they embark on their first cinematic adventure in 23 years!\n\n(Source: MaruChanSubs)"""
-animeRelated	[b'Chibi Maruko-chan: Kimi wo Wasurenai yo', b'Chibi Maruko-chan (1995)']
-animeCharacters	[b'Sakura, Momoko', b'Sakura, Sakiko', b'Sakura, Tomozou', b'Yamada, Shouta', b'Yamane, Tsuyoshi', b'Hanawa, Kazuhiko', b'Oono, Kenichi', b'Nagasawa, Kimio', b'Sugiyama, Satoshi', b'Fujiki, Shigeru']
-animeVoices	[b'\nTarako\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nShimada, Bin\nJapanese\n', b'\nYamamoto, Keiko\nJapanese\n', b'\nSuyama, Akio\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n', b'\nNumata, Yusuke\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nMayama, Ako\nJapanese\n', b'\nNaka, Tomoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOhara, Sakurako\n\nTheme Song Performance\n\n']
+animePopularity	12077
+animeDescription	"When six international students descend on Shimizu for a homestay, an Italian boy takes an unusual liking to Maruko, who isn't too impressed by the situation. Can she put aside her annoyance in order to help him connect to the memory of one of his closest family members? Join the expansive cast of Chibi Maruko-chan as they embark on their first cinematic adventure in 23 years!
+
+(Source: MaruChanSubs)"
+animeRelated	['Chibi Maruko-chan: Kimi wo Wasurenai yo', 'Chibi Maruko-chan (1995)']
+animeCharacters	['Sakura, Momoko', 'Sakura, Sakiko', 'Sakura, Tomozou', 'Yamada, Shouta', 'Yamane, Tsuyoshi', 'Hanawa, Kazuhiko', 'Oono, Kenichi', 'Nagasawa, Kimio', 'Sugiyama, Satoshi', 'Fujiki, Shigeru']
+animeVoices	['Tarako', 'Mizutani, Yuuko', 'Shimada, Bin', 'Yamamoto, Keiko', 'Suyama, Akio', 'Kikuchi, Masami', 'Numata, Yusuke', 'Chafurin', 'Mayama, Ako', 'Naka, Tomoko']
+animeStaff	[['Ohara, Sakurako', 'Theme Song Performance']]

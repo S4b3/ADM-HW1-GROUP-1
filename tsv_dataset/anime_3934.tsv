@@ -1,5 +1,5 @@
-animeTitle	b'Iriya no Sora, UFO no Natsu'
-animeType	b'OVA'
+animeTitle	Iriya no Sora, UFO no Natsu
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.96
 animeUsers	10044
 animeRank	
-animePopularity	
-animeDescription	"b""Asaba Naoyuki is an ordinary high school student. As a member of his school's press club, he's just spent the summer camping outside the local military base, in hopes of seeing the UFOs that are secretly kept there, according to local legend. Returning to school, he meets a strange girl, Iriya Kana, and gradually comes to realize that she is more than merely strange - and that a dark secret lies beneath the world that he knows.\n\n(Source: ANN)"""
-animeRelated	[b'Iriya no Sora, UFO no Natsu']
-animeCharacters	[b'Iriya, Kana', b'Asaba, Naoyuki', b'Suizenji, Kunihiro', b'Shiina, Mayumi', b'Asaba, Yuuko', b'Kawaguchi, Taizou', b'Enomoto', b'Sudou, Akiho']
-animeVoices	[b'\nNonaka, Ai\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nTakano, Naoko\nJapanese\n', b'\nTakatsuka, Masaya\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nChiba, Saeko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShibata, Hiroaki\n\nProducer\n\n', b'\nItou, Naoyuki\n\nDirector, Episode Director, Storyboard, Key Animation\n\n', b'\nNakamura, Kenji\n\nEpisode Director, Storyboard\n\n', b'\nYokote, Michiko\n\nScript\n\n']
+animePopularity	3681
+animeDescription	"Asaba Naoyuki is an ordinary high school student. As a member of his school's press club, he's just spent the summer camping outside the local military base, in hopes of seeing the UFOs that are secretly kept there, according to local legend. Returning to school, he meets a strange girl, Iriya Kana, and gradually comes to realize that she is more than merely strange - and that a dark secret lies beneath the world that he knows.
+
+(Source: ANN)"
+animeRelated	['Iriya no Sora, UFO no Natsu']
+animeCharacters	['Iriya, Kana', 'Asaba, Naoyuki', 'Suizenji, Kunihiro', 'Shiina, Mayumi', 'Asaba, Yuuko', 'Kawaguchi, Taizou', 'Enomoto', 'Sudou, Akiho']
+animeVoices	['Nonaka, Ai', 'Namikawa, Daisuke', 'Kamiya, Hiroshi', 'Kuwashima, Houko', 'Takano, Naoko', 'Takatsuka, Masaya', 'Inoue, Kazuhiko', 'Chiba, Saeko']
+animeStaff	[['Shibata, Hiroaki', 'Producer'], ['Itou, Naoyuki', 'Director, Episode Director, Storyboard, Key Animation'], ['Nakamura, Kenji', 'Episode Director, Storyboard'], ['Yokote, Michiko', 'Script']]

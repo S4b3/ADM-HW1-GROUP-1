@@ -1,5 +1,5 @@
-animeTitle	b'Drifters (OVA)'
-animeType	b'OVA'
+animeTitle	Drifters (OVA)
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.55
 animeUsers	21121
 animeRank	
-animePopularity	
-animeDescription	"b""Despite the Ends\xe2\x80\x99 attack on Verlina being successfully repelled, the war has not yet ended. With the monster armies regrouping, the Black King tightens his grasp on the already conquered territory. New conflicts erupt all across Orte, as its remaining forces struggle to retain control over long-oppressed demi-human races.\n\nWhile Ends grow more potent each day, Toyohisa Shimazu remains unconscious after heavy injuries suffered during the Battle of Verlina. Facing enemies on every side, humanity\xe2\x80\x99s fate is still on a knife's edge.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Drifters', b'Drifters: Kokuou-sama Goranshin', b'Drifters (OVA): Kokuou-sama Goranshin', b'Drifters: The Outlandish Knight']
-animeCharacters	[b'Shimazu, Toyohisa', b'Oda, Nobunaga', b'Nasu, Yoichi Suketaka', b'Barca, Hannibal', b'Kanno, Naoshi', b'Olminu', b'Easy', b'Count Saint-Germi', b'Cassidy, Butch', b'Abe no, Haruakira']
-animeVoices	[b'\nNakamura, Yuuichi\nJapanese\n', b'\nUchida, Naoya\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nAoyama, Yutaka\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nKokido, Shiho\nJapanese\n', b'\nItou, Kanae\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirano, Kouta\n\nOriginal Creator\n\n', b'\nNagai, Masaru\n\nExecutive Producer\n\n']
+animePopularity	2114
+animeDescription	"Despite the Ends’ attack on Verlina being successfully repelled, the war has not yet ended. With the monster armies regrouping, the Black King tightens his grasp on the already conquered territory. New conflicts erupt all across Orte, as its remaining forces struggle to retain control over long-oppressed demi-human races.
+
+While Ends grow more potent each day, Toyohisa Shimazu remains unconscious after heavy injuries suffered during the Battle of Verlina. Facing enemies on every side, humanity’s fate is still on a knife's edge.
+
+[Written by MAL Rewrite]"
+animeRelated	['Drifters', 'Drifters: Kokuou-sama Goranshin', 'Drifters (OVA): Kokuou-sama Goranshin', 'Drifters: The Outlandish Knight']
+animeCharacters	['Shimazu, Toyohisa', 'Oda, Nobunaga', 'Nasu, Yoichi Suketaka', 'Barca, Hannibal', 'Kanno, Naoshi', 'Olminu', 'Easy', 'Count Saint-Germi', 'Cassidy, Butch', 'Abe no, Haruakira']
+animeVoices	['Nakamura, Yuuichi', 'Uchida, Naoya', 'Saiga, Mitsuki', 'Aoyama, Yutaka', 'Suzuki, Tatsuhisa', 'Kokido, Shiho', 'Itou, Kanae', 'Sugita, Tomokazu', 'Ono, Daisuke', 'Sakurai, Takahiro']
+animeStaff	[['Hirano, Kouta', 'Original Creator'], ['Nagai, Masaru', 'Executive Producer']]

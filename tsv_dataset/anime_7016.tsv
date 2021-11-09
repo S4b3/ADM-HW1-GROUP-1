@@ -1,5 +1,5 @@
-animeTitle	"b""Queen's Blade OVA"""
-animeType	b'OVA'
+animeTitle	Queen's Blade OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.33
 animeUsers	5033
 animeRank	
-animePopularity	
-animeDescription	"b""OVAs bundled with the Queen's Blade Premium Visual Book and the Queen's Blade Rebellion Premium Visual Book. Both of the episodes will be based on Queen's Blade Rebellion, a sequel to Queen's Blade: Utsukushiki Toushitachi."""
-animeRelated	"[b""Queen's Blade: Utsukushiki Toushi-tachi"", b""Queen's Blade: Rebellion"", b""Queen's Blade OVA Specials""]"
-animeCharacters	[b'Alleyne', b'Kreuz, Annelotte', b'Sigui', b'Ymir']
-animeVoices	[b'\nKitamura, Eri\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nSaitou, Ayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKageyama, Shigenori\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nItou, Michiko\n\nScript\n\n', b'\nShirane, Hideki\n\nScript, Screenplay\n\n']
+animePopularity	4494
+animeDescription	OVAs bundled with the Queen's Blade Premium Visual Book and the Queen's Blade Rebellion Premium Visual Book. Both of the episodes will be based on Queen's Blade Rebellion, a sequel to Queen's Blade: Utsukushiki Toushitachi.
+animeRelated	"[""Queen's Blade: Utsukushiki Toushi-tachi"", ""Queen's Blade: Rebellion"", ""Queen's Blade OVA Specials""]"
+animeCharacters	['Alleyne', 'Kreuz, Annelotte', 'Sigui', 'Ymir']
+animeVoices	['Kitamura, Eri', 'Endou, Aya', 'Kobayashi, Yuu', 'Saitou, Ayaka']
+animeStaff	[['Kageyama, Shigenori', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Itou, Michiko', 'Script'], ['Shirane, Hideki', 'Script, Screenplay']]

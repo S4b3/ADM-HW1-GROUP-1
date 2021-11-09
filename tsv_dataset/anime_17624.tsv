@@ -1,5 +1,5 @@
-animeTitle	b'Kami-tachi ni Hirowareta Otoko 2nd Season'
-animeType	b'TV'
+animeTitle	Kami-tachi ni Hirowareta Otoko 2nd Season
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Second season of Kami-tachi ni Hirowareta Otoko.'
-animeRelated	[b'Kami-tachi ni Hirowareta Otoko']
-animeCharacters	[b'Takebayashi, Ryouma']
+animePopularity	3786
+animeDescription	Second season of Kami-tachi ni Hirowareta Otoko.
+animeRelated	['Kami-tachi ni Hirowareta Otoko']
+animeCharacters	['Takebayashi, Ryouma']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nRoy\n\nOriginal Creator\n\n', b'\nRirinra\n\nOriginal Character Design\n\n']
+animeStaff	[['Roy', 'Original Creator'], ['Ririnra', 'Original Character Design']]

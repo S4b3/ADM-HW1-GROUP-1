@@ -1,5 +1,5 @@
-animeTitle	b'Tengen Toppa Gurren Lagann: Mitee Mono wa Miteen da!!'
-animeType	b'Special'
+animeTitle	Tengen Toppa Gurren Lagann: Mitee Mono wa Miteen da!!
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.36
 animeUsers	17729
 animeRank	
-animePopularity	
-animeDescription	"b""An uncut version of episode six, involving Kamina's hopes of seeing Yoko and The Black Siblings naked, even at the risk of his friends' safety. \n\n(Source: Wikipedia)"""
-animeRelated	[b'Tengen Toppa Gurren Lagann']
-animeCharacters	[b'Kamina', b'Simon', b'Littner, Yoko', b'Boota', b'Littner, Leeron', b'Adai, Rossiu', b'Adai, Darry', b'Bachika, Kiyal', b'Adai, Gimmy', b'Bachika, Kinon']
-animeVoices	[b'\nKonishi, Katsuyuki\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nHonda, Takako\nJapanese\n', b'\nUeda, Kana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwasaki, Taku\n\nMusic\n\n']
+animePopularity	2819
+animeDescription	"An uncut version of episode six, involving Kamina's hopes of seeing Yoko and The Black Siblings naked, even at the risk of his friends' safety. 
+
+(Source: Wikipedia)"
+animeRelated	['Tengen Toppa Gurren Lagann']
+animeCharacters	['Kamina', 'Simon', 'Littner, Yoko', 'Boota', 'Littner, Leeron', 'Adai, Rossiu', 'Adai, Darry', 'Bachika, Kiyal', 'Adai, Gimmy', 'Bachika, Kinon']
+animeVoices	['Konishi, Katsuyuki', 'Kakihara, Tetsuya', 'Inoue, Marina', 'Itou, Shizuka', 'Onosaka, Masaya', 'Saiga, Mitsuki', 'Asumi, Kana', 'Honda, Takako', 'Ueda, Kana']
+animeStaff	[['Iwasaki, Taku', 'Music']]

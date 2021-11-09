@@ -1,5 +1,5 @@
-animeTitle	b'Yamato 2520'
-animeType	b'OVA'
+animeTitle	Yamato 2520
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.76
 animeUsers	452
 animeRank	
-animePopularity	
-animeDescription	"b""Set hundreds of years after the original, Yamato 2520 chronicles the adventures of the eighteenth starship to bear the name, and its battle against the Seiren Federation. \n\nOn a planet harshly ruled by the Serien Federation, a group of earth teenagers discover the ancient hulk of the Earth Federation Battleship Yamato. By stealing it's data disk the teens are able to use the Serien's own automated ship yards to construct a new Yamato. \n\n(Source: Wikipedia) """
-animeRelated	[b'Uchuu Senkan Yamato']
-animeCharacters	[b'Emperor Br\xc3\xb4ne', b'Amethis', b'Aga', b'Shima', b'Ricardo', b'Maki', b'Marcie']
-animeVoices	[b'\nIbu, Masatou\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nSakurai, Tomo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKageyama, Shigenori\n\nDirector, Storyboard\n\n', b'\nShirato, Takeshi\n\nDirector, Storyboard\n\n', b'\nMaeda, Mahiro\n\nStoryboard, Animation Director, Layout\n\n', b'\nTakeda, Yuusuke\n\nArt Director\n\n']
+animePopularity	9913
+animeDescription	"Set hundreds of years after the original, Yamato 2520 chronicles the adventures of the eighteenth starship to bear the name, and its battle against the Seiren Federation. 
+
+On a planet harshly ruled by the Serien Federation, a group of earth teenagers discover the ancient hulk of the Earth Federation Battleship Yamato. By stealing it's data disk the teens are able to use the Serien's own automated ship yards to construct a new Yamato. 
+
+(Source: Wikipedia) "
+animeRelated	['Uchuu Senkan Yamato']
+animeCharacters	['Emperor Brône', 'Amethis', 'Aga', 'Shima', 'Ricardo', 'Maki', 'Marcie']
+animeVoices	['Ibu, Masatou', 'Ichiryuusai, Harumi', 'Matsumoto, Yasunori', 'Nagai, Ichiro', 'Kamiya, Akira', 'Mitsuishi, Kotono', 'Sakurai, Tomo']
+animeStaff	[['Kageyama, Shigenori', 'Director, Storyboard'], ['Shirato, Takeshi', 'Director, Storyboard'], ['Maeda, Mahiro', 'Storyboard, Animation Director, Layout'], ['Takeda, Yuusuke', 'Art Director']]

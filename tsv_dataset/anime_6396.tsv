@@ -1,5 +1,5 @@
-animeTitle	b'Yoku Wakaru Gendai Mahou'
-animeType	b'TV'
+animeTitle	Yoku Wakaru Gendai Mahou
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.45
 animeUsers	7803
 animeRank	
-animePopularity	
-animeDescription	"b""Life hasn't been fair to Koyomi Morishita. Even though she's in high school, she's so short that everyone assumes she's still in grade school. The boys and girls in her school tease her mercilessly, and she's not exactly graceful either. On the other hand, she's still better off than Yumiko, who has a magician trying to kill her. Or at least Koyomi was until their paths crossed!\n\nFortunately, salvation arrives in the form of master mage and graduate student Misa Anehara, who agrees to take Koyomi under her wing in learning the new style of magic, which breaks enchantment down into sequences of code. That'll be quite a task, given that so far Koyomi's talent seems to consist of making washbasins randomly fall out of the sky. But if it was easy, it wouldn't be magic, would it?\n\n(Source: Sentai Filmworks)"""
-animeRelated	[b'Yoku Wakaru Gendai Mahou', b'Yoku Wakaru Gendai Mahou: Cruncha Cruncha Cruncha']
-animeCharacters	[b'Ichinose, Yumiko Cristina', b'Morishita, Koyomi', b'Sakazaki, Kaho', b'Anehara, Misa', b'Jini', b'Jinzai, Tsukumo', b'Katamari', b'Kisaragi, Mio', b'Christobald, Carl', b'Anehara, Mayuri']
-animeVoices	[b'\nTomatsu, Haruka\nJapanese\n', b'\nNonaka, Ai\nJapanese\n', b'\nKotobuki, Minako\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nOusaka, Chikara\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nOkitsu, Kazuyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawase, Kouhei\n\nProducer\n\n', b'\nNakayama, Nobuhiro\n\nProducer\n\n', b'\nSatomi, Tetsurou\n\nProducer\n\n', b'\nKuroda, Yasuhiro\n\nDirector\n\n']
+animePopularity	3712
+animeDescription	"Life hasn't been fair to Koyomi Morishita. Even though she's in high school, she's so short that everyone assumes she's still in grade school. The boys and girls in her school tease her mercilessly, and she's not exactly graceful either. On the other hand, she's still better off than Yumiko, who has a magician trying to kill her. Or at least Koyomi was until their paths crossed!
+
+Fortunately, salvation arrives in the form of master mage and graduate student Misa Anehara, who agrees to take Koyomi under her wing in learning the new style of magic, which breaks enchantment down into sequences of code. That'll be quite a task, given that so far Koyomi's talent seems to consist of making washbasins randomly fall out of the sky. But if it was easy, it wouldn't be magic, would it?
+
+(Source: Sentai Filmworks)"
+animeRelated	['Yoku Wakaru Gendai Mahou', 'Yoku Wakaru Gendai Mahou: Cruncha Cruncha Cruncha']
+animeCharacters	['Ichinose, Yumiko Cristina', 'Morishita, Koyomi', 'Sakazaki, Kaho', 'Anehara, Misa', 'Jini', 'Jinzai, Tsukumo', 'Katamari', 'Kisaragi, Mio', 'Christobald, Carl', 'Anehara, Mayuri']
+animeVoices	['Tomatsu, Haruka', 'Nonaka, Ai', 'Kotobuki, Minako', 'Nabatame, Hitomi', 'Satou, Satomi', 'Ousaka, Chikara', 'Fujimura, Ayumi', 'Hikasa, Youko', 'Okitsu, Kazuyuki']
+animeStaff	[['Kawase, Kouhei', 'Producer'], ['Nakayama, Nobuhiro', 'Producer'], ['Satomi, Tetsurou', 'Producer'], ['Kuroda, Yasuhiro', 'Director']]

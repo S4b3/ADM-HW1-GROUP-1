@@ -1,5 +1,5 @@
-animeTitle	b'Naruto: Akaki Yotsuba no Clover wo Sagase'
-animeType	b'Special'
+animeTitle	Naruto: Akaki Yotsuba no Clover wo Sagase
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.54
 animeUsers	41546
 animeRank	
-animePopularity	
-animeDescription	"b""When Konohamaru Sarutobi asks Naruto Uzumaki for help, the latter readily accepts to join his young friend on a special mission\xe2\x80\x94the retrieval of the legendary crimson four-leaf clover, rumored to have the ability to grant any wish. The miraculous plant is seemingly Konohamaru's only hope to prevent the departure of his sweetheart Kaede Yoshino, who must leave Konohagakure on account of her father's job. Despite the unique clover being located in a forbidden area, there is nothing stopping the two from bravely embarking on a perilous adventure to achieve their goal.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Naruto']
-animeCharacters	[b'Uzumaki, Naruto', b'Hatake, Kakashi', b'Uchiha, Sasuke', b'Haruno, Sakura', b'Sarutobi, Konohamaru', b'Yoshino, Kaede']
-animeVoices	[b'\nTakeuchi, Junko\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nNakamura, Chie\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nKawata, Taeko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDate, Hayato\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nKishimoto, Masashi\n\nOriginal Creator\n\n', b'\nMasuda, Toshio\n\nMusic\n\n']
+animePopularity	1944
+animeDescription	"When Konohamaru Sarutobi asks Naruto Uzumaki for help, the latter readily accepts to join his young friend on a special mission—the retrieval of the legendary crimson four-leaf clover, rumored to have the ability to grant any wish. The miraculous plant is seemingly Konohamaru's only hope to prevent the departure of his sweetheart Kaede Yoshino, who must leave Konohagakure on account of her father's job. Despite the unique clover being located in a forbidden area, there is nothing stopping the two from bravely embarking on a perilous adventure to achieve their goal.
+
+[Written by MAL Rewrite]"
+animeRelated	['Naruto']
+animeCharacters	['Uzumaki, Naruto', 'Hatake, Kakashi', 'Uchiha, Sasuke', 'Haruno, Sakura', 'Sarutobi, Konohamaru', 'Yoshino, Kaede']
+animeVoices	['Takeuchi, Junko', 'Inoue, Kazuhiko', 'Sugiyama, Noriaki', 'Nakamura, Chie', 'Ootani, Ikue', 'Kawata, Taeko']
+animeStaff	[['Date, Hayato', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Kishimoto, Masashi', 'Original Creator'], ['Masuda, Toshio', 'Music']]

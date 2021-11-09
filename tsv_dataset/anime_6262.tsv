@@ -1,5 +1,5 @@
-animeTitle	b'Monkey Turn V'
-animeType	b'TV'
+animeTitle	Monkey Turn V
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.47
 animeUsers	135
 animeRank	
-animePopularity	
-animeDescription	b'Sequel to Monkey Turn.'
-animeRelated	[b'Monkey Turn']
-animeCharacters	[b'Ubukata, Sumi', b'Hatano, Kenji', b'Pedro']
-animeVoices	[b'\nNoda, Junko\nJapanese\n', b'\nKawashima, Tokuyoshi\nJapanese\n', b'\nChafurin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkiyama, Katsuhito\n\nDirector\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nHanyuu, Naoyasu\n\nEpisode Director\n\n', b'\nIshiodori, Hiroshi\n\nEpisode Director\n\n']
+animePopularity	12152
+animeDescription	Sequel to Monkey Turn.
+animeRelated	['Monkey Turn']
+animeCharacters	['Ubukata, Sumi', 'Hatano, Kenji', 'Pedro']
+animeVoices	['Noda, Junko', 'Kawashima, Tokuyoshi', 'Chafurin']
+animeStaff	[['Akiyama, Katsuhito', 'Director'], ['Watanabe, Jun', 'Sound Director'], ['Hanyuu, Naoyasu', 'Episode Director'], ['Ishiodori, Hiroshi', 'Episode Director']]

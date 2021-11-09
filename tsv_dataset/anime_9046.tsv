@@ -1,5 +1,5 @@
-animeTitle	b'School Days ONA'
-animeType	b'ONA'
+animeTitle	School Days ONA
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.89
 animeUsers	15957
 animeRank	
-animePopularity	
-animeDescription	b'The story is about a love triangle between the male protagonist Makoto, and the two heroines Kotonoha and Sekai. Makoto develops a love interest in Kotonoha, a girl in the same year but different class. Although they both take the same train to school, she is unaware of his existence. His classmate, Sekai, manages to put the two together despite holding strong feelings towards Makoto.\n\n(Source: ANN)'
-animeRelated	[b'School Days']
-animeCharacters	[b'Katsura, Kotonoha', b'Itou, Makoto', b'Saionji, Sekai', b'Kiyoura, Setsuna', b'Katsura, Kokoro', b'Kato, Otome', b'Sawanaga, Taisuke', b'Kanroji, Nanami', b'Obuchi, Minami', b'Kuroda, Hikari']
-animeVoices	[b'\nOkajima, Tae\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nKawaragi, Shiho\nJapanese\n', b'\nImoto, Kei\nJapanese\n', b'\nAshiro, Megu\nJapanese\n', b'\nNagami, Haruka\nJapanese\n', b'\nMatsumoto, Yoshirou\nJapanese\n', b'\nTakahashi, Chiaki\nJapanese\n', b'\nKuribayashi, Minami\nJapanese\n', b'\nTanaka, Ryouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuribayashi, Minami\n\nTheme Song Performance\n\n', b'\nGotou, Junji\n\nChief Animation Director, Character Design\n\n', b'\n0verflow\n\nOriginal Creator\n\n', b'\nYakou, Hiroshi\n\nKey Animation\n\n']
+animePopularity	3116
+animeDescription	"The story is about a love triangle between the male protagonist Makoto, and the two heroines Kotonoha and Sekai. Makoto develops a love interest in Kotonoha, a girl in the same year but different class. Although they both take the same train to school, she is unaware of his existence. His classmate, Sekai, manages to put the two together despite holding strong feelings towards Makoto.
+
+(Source: ANN)"
+animeRelated	['School Days']
+animeCharacters	['Katsura, Kotonoha', 'Itou, Makoto', 'Saionji, Sekai', 'Kiyoura, Setsuna', 'Katsura, Kokoro', 'Kato, Otome', 'Sawanaga, Taisuke', 'Kanroji, Nanami', 'Obuchi, Minami', 'Kuroda, Hikari']
+animeVoices	['Okajima, Tae', 'Hirakawa, Daisuke', 'Kawaragi, Shiho', 'Imoto, Kei', 'Ashiro, Megu', 'Nagami, Haruka', 'Matsumoto, Yoshirou', 'Takahashi, Chiaki', 'Kuribayashi, Minami', 'Tanaka, Ryouko']
+animeStaff	[['Kuribayashi, Minami', 'Theme Song Performance'], ['Gotou, Junji', 'Chief Animation Director, Character Design'], ['0verflow', 'Original Creator'], ['Yakou, Hiroshi', 'Key Animation']]

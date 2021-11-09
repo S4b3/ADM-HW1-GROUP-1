@@ -1,5 +1,5 @@
-animeTitle	b'Psycho Diver: Mashou Bosatsu'
-animeType	b'OVA'
+animeTitle	Psycho Diver: Mashou Bosatsu
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.67
 animeUsers	1604
 animeRank	
-animePopularity	
-animeDescription	"b'Yuki Kano has it all: fame, wealth, the world at her feet. There\'s also something very wrong with her... from time to time, she\'s totally unable to sing (which, for a pop star, is not good). Enter Bosujima, a ""psycho diver"" with the capability to enter people\'s heads and straighten out what\'s wrong with them. Well, most of the time, anyway.\n\n(Source: ANN)'"
+animePopularity	7302
+animeDescription	"Yuki Kano has it all: fame, wealth, the world at her feet. There's also something very wrong with her... from time to time, she's totally unable to sing (which, for a pop star, is not good). Enter Bosujima, a ""psycho diver"" with the capability to enter people's heads and straighten out what's wrong with them. Well, most of the time, anyway.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Kano, Yuki', b'Busujima', b'Kunimitsu', b'Aihara, Kyoko']
-animeVoices	[b'\nIwao, Junko\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKanbe, Mamoru\n\nDirector, Storyboard\n\n', b'\nIwao, Junko\n\nTheme Song Performance\n\n', b'\nGARDEN\n\nTheme Song Arrangement, Theme Song Composition\n\n', b'\nYamakawa, Yoshiki\n\nKey Animation\n\n']
+animeCharacters	['Kano, Yuki', 'Busujima', 'Kunimitsu', 'Aihara, Kyoko']
+animeVoices	['Iwao, Junko', 'Nakata, Jouji', 'Fujita, Toshiko']
+animeStaff	[['Kanbe, Mamoru', 'Director, Storyboard'], ['Iwao, Junko', 'Theme Song Performance'], ['GARDEN', 'Theme Song Arrangement, Theme Song Composition'], ['Yamakawa, Yoshiki', 'Key Animation']]

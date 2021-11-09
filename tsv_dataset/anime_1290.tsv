@@ -1,5 +1,5 @@
-animeTitle	b'Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky'
-animeType	b'OVA'
+animeTitle	Air Gear: Kuro no Hane to Nemuri no Mori - Break on the Sky
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.6
 animeUsers	30343
 animeRank	
-animePopularity	
-animeDescription	b'First episode is based on the 16th volume of the manga. Features Ikki vs. Ringo.\n\nSecond episode is based on the 23rd/24th volume of the manga. Features Kogarasumaru vs. Sleeping Forest inside Inorganic Net.'
-animeRelated	[b'Air Gear']
-animeCharacters	[b'Minami, Itsuki', b'Wanijima, Agito', b'Simca', b'Mikura, Kazuma', b'Noyamano, Ringo', b'Sumeragi, Kururu', b'Spitfire', b'Takeuchi, Sora', b'Mihotoke, Issha', b'Sano, Yasuyoshi']
-animeVoices	[b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nFukui, Yukari\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshihira, Shinji\n\nDirector, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nYamato, Naomichi\n\nEpisode Director\n\n', b'\nMaekawa, Atsushi\n\nScript\n\n']
+animePopularity	2239
+animeDescription	"First episode is based on the 16th volume of the manga. Features Ikki vs. Ringo.
+
+Second episode is based on the 23rd/24th volume of the manga. Features Kogarasumaru vs. Sleeping Forest inside Inorganic Net."
+animeRelated	['Air Gear']
+animeCharacters	['Minami, Itsuki', 'Wanijima, Agito', 'Simca', 'Mikura, Kazuma', 'Noyamano, Ringo', 'Sumeragi, Kururu', 'Spitfire', 'Takeuchi, Sora', 'Mihotoke, Issha', 'Sano, Yasuyoshi']
+animeVoices	['Okamoto, Nobuhiko', 'Shiraishi, Ryouko', 'Kawasumi, Ayako', 'Irino, Miyu', 'Tomatsu, Haruka', 'Fukui, Yukari', 'Seki, Tomokazu', 'Suzumura, Kenichi', 'Miyake, Kenta', 'Sugita, Tomokazu']
+animeStaff	[['Ishihira, Shinji', 'Director, Storyboard'], ['Aketagawa, Jin', 'Sound Director'], ['Yamato, Naomichi', 'Episode Director'], ['Maekawa, Atsushi', 'Script']]

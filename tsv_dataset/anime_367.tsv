@@ -1,5 +1,5 @@
-animeTitle	b'Given Movie'
-animeType	b'Movie'
+animeTitle	Given Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.15
 animeUsers	73802
 animeRank	
-animePopularity	
-animeDescription	"b'The band ""given""\xe2\x80\x94comprised of Ritsuka Uenoyama, Mafuyu Satou, Haruki Nakayama, and Akihiko Kaji\xe2\x80\x94has advanced to the final screening of the Countdown-fes Amateur Contest, in which they will be judged on their live act. Although enthusiastic, they worry about having only one original song to perform.\n\nMafuyu embraces the idea of learning more about music in order to create new, emotionally resonant songs. In this regard, he unexpectedly receives help from Ugetsu Murata, Akihiko\'s on-again, off-again lover. Ugetsu has unsuccessfully tried to let go of Akihiko, who himself is torn between lingering feelings for his past and an uncertain resolve for the future.\n\nAs the competition draws near, Haruki uncharacteristically begins to doubt his place in the band and the trust he shares with Akihiko. It is a given that not all attachments last forever, but it remains to be seen what can be salvaged from the ruins of heartbreak\xe2\x80\x94or if only regrets will endure.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Given', b'Given: Uragawa no Sonzai']
-animeCharacters	[b'Satou, Mafuyu', b'Uenoyama, Ritsuka', b'Nakayama, Haruki', b'Kaji, Akihiko', b'Murata, Ugetsu', b'Kashima, Hiiragi', b'Yagi, Shizusumi', b'Yatake, Kouji']
-animeVoices	[b'\nYano, Shougo\nJapanese\n', b'\nUchida, Yuuma\nJapanese\n', b'\nNakazawa, Masatomo\nJapanese\n', b'\nEguchi, Takuya\nJapanese\n', b'\nAsanuma, Shintaro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamaguchi, Hikaru\n\nDirector\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nCentimillimental\n\nTheme Song Lyrics, Theme Song Arrangement, Theme Song Performance, Theme Song Composition\n\n', b'\nKizu, Natsuki\n\nOriginal Creator\n\n']
+animePopularity	1183
+animeDescription	"The band ""given""—comprised of Ritsuka Uenoyama, Mafuyu Satou, Haruki Nakayama, and Akihiko Kaji—has advanced to the final screening of the Countdown-fes Amateur Contest, in which they will be judged on their live act. Although enthusiastic, they worry about having only one original song to perform.
+
+Mafuyu embraces the idea of learning more about music in order to create new, emotionally resonant songs. In this regard, he unexpectedly receives help from Ugetsu Murata, Akihiko's on-again, off-again lover. Ugetsu has unsuccessfully tried to let go of Akihiko, who himself is torn between lingering feelings for his past and an uncertain resolve for the future.
+
+As the competition draws near, Haruki uncharacteristically begins to doubt his place in the band and the trust he shares with Akihiko. It is a given that not all attachments last forever, but it remains to be seen what can be salvaged from the ruins of heartbreak—or if only regrets will endure.
+
+[Written by MAL Rewrite]"
+animeRelated	['Given', 'Given: Uragawa no Sonzai']
+animeCharacters	['Satou, Mafuyu', 'Uenoyama, Ritsuka', 'Nakayama, Haruki', 'Kaji, Akihiko', 'Murata, Ugetsu', 'Kashima, Hiiragi', 'Yagi, Shizusumi', 'Yatake, Kouji']
+animeVoices	['Yano, Shougo', 'Uchida, Yuuma', 'Nakazawa, Masatomo', 'Eguchi, Takuya', 'Asanuma, Shintaro']
+animeStaff	[['Yamaguchi, Hikaru', 'Director'], ['Kikuta, Hiromi', 'Sound Director'], ['Centimillimental', 'Theme Song Lyrics, Theme Song Arrangement, Theme Song Performance, Theme Song Composition'], ['Kizu, Natsuki', 'Original Creator']]

@@ -1,4 +1,4 @@
-animeTitle	b'Gotcha!'
+animeTitle	Gotcha!
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	8.38
 animeUsers	14888
 animeRank	
-animePopularity	
-animeDescription	"b'Pok\xc3\xa9mon-themed music video for the song ""Acacia"" by BUMP OF CHICKEN.'"
-animeRelated	[b'Pokemon']
-animeCharacters	[b'White', b'Whi-Two', b'Bede', b'Lack-Two']
+animePopularity	3859
+animeDescription	"Pokémon-themed music video for the song ""Acacia"" by BUMP OF CHICKEN."
+animeRelated	['Pokemon']
+animeCharacters	['White', 'Whi-Two', 'Bede', 'Lack-Two']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawamura, Genki\n\nProducer, Planning\n\n', b'\nHatanaka, Masami\n\nProducer, Planning\n\n', b'\nMatsumoto, Rie\n\nDirector\n\n', b'\nBUMP OF CHICKEN\n\nTheme Song Arrangement, Theme Song Performance\n\n']
+animeStaff	[['Kawamura, Genki', 'Producer, Planning'], ['Hatanaka, Masami', 'Producer, Planning'], ['Matsumoto, Rie', 'Director'], ['BUMP OF CHICKEN', 'Theme Song Arrangement, Theme Song Performance']]

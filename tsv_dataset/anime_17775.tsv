@@ -1,5 +1,5 @@
-animeTitle	b'Ai no Kusabi'
-animeType	b'OVA'
+animeTitle	Ai no Kusabi
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	7.09
 animeUsers	17879
 animeRank	
-animePopularity	
-animeDescription	"b'On the planet Amoi, a person\'s status is primarily dictated by the color of their hair. This society is run by the AI supercomputer known as Jupiter and its governing board of perfect blondes, referred to as Blondies, living in the capital city of Tanagura. However, the darker-haired humans live out their lives in the golden ""pleasure city"" of Midas and its outlying slum Ceres. They are known as ""mongrels,"" and most cannot progress out of the slums.\n\nThree years ago, a boy named Riki disappeared from the slums of Ceres. Once the revered leader of the gang Bison, a sudden encounter with an elite Blondie, Iason Mink, forced Riki to abandon everything he had cultivated. The boy was snatched from his home and forced to become Iason\'s pet. Riki has spent the past three years enduring numerous blows to his pride, his time in Tanagura nothing but a form of torture.\n\nNow that Riki has returned, Bison once again rallies behind him. The risk he finds himself in, however, is much greater than ever before\xe2\x80\x94there is always someone ready to sell him out.\n\n[Written by MAL Rewrite]\n'"
-animeRelated	[b'Ai no Kusabi', b'Ai no Kusabi (2012)']
-animeCharacters	[b'Mink, Iason', b'Riki', b'Katze', b'Am, Raoul', b'Kirie', b'Daryl', b'Sid', b'Gai', b'Jupiter', b'Kyal']
-animeVoices	[b'\nShiozawa, Kaneto\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nNakahara, Shigeru\nJapanese\n', b'\nHori, Hideyuki\nJapanese\n', b'\nTsujitani, Kouji\nJapanese\n', b'\nKashiwakura, Tsutomu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkiyama, Katsuhito\n\nDirector\n\n', b'\nNishimori, Akira\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nHasegawa, Nahoko\n\nScript\n\n']
+animePopularity	3093
+animeDescription	"On the planet Amoi, a person's status is primarily dictated by the color of their hair. This society is run by the AI supercomputer known as Jupiter and its governing board of perfect blondes, referred to as Blondies, living in the capital city of Tanagura. However, the darker-haired humans live out their lives in the golden ""pleasure city"" of Midas and its outlying slum Ceres. They are known as ""mongrels,"" and most cannot progress out of the slums.
+
+Three years ago, a boy named Riki disappeared from the slums of Ceres. Once the revered leader of the gang Bison, a sudden encounter with an elite Blondie, Iason Mink, forced Riki to abandon everything he had cultivated. The boy was snatched from his home and forced to become Iason's pet. Riki has spent the past three years enduring numerous blows to his pride, his time in Tanagura nothing but a form of torture.
+
+Now that Riki has returned, Bison once again rallies behind him. The risk he finds himself in, however, is much greater than ever before—there is always someone ready to sell him out.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Ai no Kusabi', 'Ai no Kusabi (2012)']
+animeCharacters	['Mink, Iason', 'Riki', 'Katze', 'Am, Raoul', 'Kirie', 'Daryl', 'Sid', 'Gai', 'Jupiter', 'Kyal']
+animeVoices	['Shiozawa, Kaneto', 'Seki, Toshihiko', 'Tanaka, Hideyuki', 'Hayami, Show', 'Nakahara, Shigeru', 'Hori, Hideyuki', 'Tsujitani, Kouji', 'Kashiwakura, Tsutomu']
+animeStaff	[['Akiyama, Katsuhito', 'Director'], ['Nishimori, Akira', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Hasegawa, Nahoko', 'Script']]

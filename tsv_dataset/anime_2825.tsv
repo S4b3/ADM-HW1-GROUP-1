@@ -1,5 +1,5 @@
-animeTitle	b'The iDOLM@STER Shiny Festa'
-animeType	b'OVA'
+animeTitle	The iDOLM@STER Shiny Festa
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.21
 animeUsers	7487
 animeRank	
-animePopularity	
-animeDescription	b'New anime episodes released with each of the three iDOLM@STER Shiny Festa PSP games (Honey Sound, Funky Note, and Groovy Tune).'
-animeRelated	[b'The iDOLM@STER: 765 Pro to Iu Monogatari', b'The iDOLM@STER Movie: Kagayaki no Mukougawa e!']
-animeCharacters	[b'Kisaragi, Chihaya', b'Hoshii, Miki', b'Kikuchi, Makoto', b'Shijou, Takane', b'Amami, Haruka', b'Minase, Iori', b'Ganaha, Hibiki', b'Takatsuki, Yayoi', b'Hagiwara, Yukiho', b'Miura, Azusa']
-animeVoices	[b'\nImai, Asami\nJapanese\n', b'\nHasegawa, Akiko\nJapanese\n', b'\nHirata, Hiromi\nJapanese\n', b'\nHara, Yumi\nJapanese\n', b'\nNakamura, Eriko\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nNumakura, Manami\nJapanese\n', b'\nNigo, Mayako\nJapanese\n', b'\nAsakura, Azumi\nJapanese\n', b'\nTakahashi, Chiaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishigori, Atsushi\n\nDirector, Storyboard\n\n', b'\nTakahashi, Masanori\n\nEpisode Director\n\n', b'\nKugimiya, Rie\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nImai, Asami\n\nTheme Song Performance, Inserted Song Performance\n\n']
+animePopularity	4349
+animeDescription	New anime episodes released with each of the three iDOLM@STER Shiny Festa PSP games (Honey Sound, Funky Note, and Groovy Tune).
+animeRelated	['The iDOLM@STER: 765 Pro to Iu Monogatari', 'The iDOLM@STER Movie: Kagayaki no Mukougawa e!']
+animeCharacters	['Kisaragi, Chihaya', 'Hoshii, Miki', 'Kikuchi, Makoto', 'Shijou, Takane', 'Amami, Haruka', 'Minase, Iori', 'Ganaha, Hibiki', 'Takatsuki, Yayoi', 'Hagiwara, Yukiho', 'Miura, Azusa']
+animeVoices	['Imai, Asami', 'Hasegawa, Akiko', 'Hirata, Hiromi', 'Hara, Yumi', 'Nakamura, Eriko', 'Kugimiya, Rie', 'Numakura, Manami', 'Nigo, Mayako', 'Asakura, Azumi', 'Takahashi, Chiaki']
+animeStaff	[['Nishigori, Atsushi', 'Director, Storyboard'], ['Takahashi, Masanori', 'Episode Director'], ['Kugimiya, Rie', 'Theme Song Performance, Inserted Song Performance'], ['Imai, Asami', 'Theme Song Performance, Inserted Song Performance']]

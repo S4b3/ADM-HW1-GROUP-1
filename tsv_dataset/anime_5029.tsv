@@ -1,4 +1,4 @@
-animeTitle	b'MONSTER GENERATiON'
+animeTitle	MONSTER GENERATiON
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.71
 animeUsers	1112
 animeRank	
-animePopularity	
-animeDescription	"b""Official music video for IDOLiSH7's MONSTER GENERATiON album."""
-animeRelated	[b'MEMORiES MELODiES', b'RESTART POiNTER', b'Nanatsu-iro REALiZE', b'WiSH VOYAGE', b'IDOLiSH7']
-animeCharacters	[b'Nanase, Riku', b'Ousaka, Sougo', b'Yotsuba, Tamaki', b'Izumi, Iori', b'Izumi, Mitsuki', b'Rokuya, Nagi', b'Nikaidou, Yamato']
+animePopularity	8970
+animeDescription	Official music video for IDOLiSH7's MONSTER GENERATiON album.
+animeRelated	['MEMORiES MELODiES', 'RESTART POiNTER', 'Nanatsu-iro REALiZE', 'WiSH VOYAGE', 'IDOLiSH7']
+animeCharacters	['Nanase, Riku', 'Ousaka, Sougo', 'Yotsuba, Tamaki', 'Izumi, Iori', 'Izumi, Mitsuki', 'Rokuya, Nagi', 'Nikaidou, Yamato']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanemura, Arina\n\nOriginal Character Design\n\n', b'\nTatamitani, Tetsuya\n\nAnimation Director\n\n']
+animeStaff	[['Tanemura, Arina', 'Original Character Design'], ['Tatamitani, Tetsuya', 'Animation Director']]

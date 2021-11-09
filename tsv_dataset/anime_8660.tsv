@@ -1,5 +1,5 @@
-animeTitle	b'Yuki'
-animeType	b'Movie'
+animeTitle	Yuki
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.0
 animeUsers	172
 animeRank	
-animePopularity	
-animeDescription	b'Up in Heaven, Yuki\xe2\x80\x99s grandparents decide that, having turned thirteen years old, she must go down to Earth to a village that is torn by bandits and intervene to save its people. However, if she does not succeed within one year, she will become as insubstantial as the wind. Down in the village, Yuki is befriended by a group of orphans whose parents have been killed by the bandits and who now subsist by begging. Yuki amazes them by taming the wild horse Blizzard. She is instrumental in getting the orphans and farmers to stand up to first the warring bandits and then Goemon, the greedy lord that owns the region. Yuki must then face her greatest challenge when the displeased Demon God that lives in the volcano emerges to destroy those who live beneath.\n\n(Source: moria.co.nz/fantasy/yuki-snowfairy.htm) '
+animePopularity	10873
+animeDescription	"Up in Heaven, Yuki’s grandparents decide that, having turned thirteen years old, she must go down to Earth to a village that is torn by bandits and intervene to save its people. However, if she does not succeed within one year, she will become as insubstantial as the wind. Down in the village, Yuki is befriended by a group of orphans whose parents have been killed by the bandits and who now subsist by begging. Yuki amazes them by taming the wild horse Blizzard. She is instrumental in getting the orphans and farmers to stand up to first the warring bandits and then Goemon, the greedy lord that owns the region. Yuki must then face her greatest challenge when the displeased Demon God that lives in the volcano emerges to destroy those who live beneath.
+
+(Source: moria.co.nz/fantasy/yuki-snowfairy.htm) "
 animeRelated	[]
-animeCharacters	[b'Yuki']
+animeCharacters	['Yuki']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nImai, Tadashi\n\nDirector\n\n', b'\nMiyazaki, Akira\n\nScreenplay\n\n', b'\nSaitou, Ryuusuke\n\nOriginal Creator\n\n']
+animeStaff	[['Imai, Tadashi', 'Director'], ['Miyazaki, Akira', 'Screenplay'], ['Saitou, Ryuusuke', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Lamune'
-animeType	b'TV'
+animeTitle	Lamune
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.81
 animeUsers	16526
 animeRank	
-animePopularity	
-animeDescription	"b""Lamune tells the story of a boy named Kenji and his childhood friend Nanami. Although, everyone seems to know that they have a relationship, neither are determined to push it anymore than close friends. The story goes through flashbacks, explaining why they are such close friends and any action doesn't seem to push them apart, but draw them closer.\n\n(Source: ANN)"""
+animePopularity	2860
+animeDescription	"Lamune tells the story of a boy named Kenji and his childhood friend Nanami. Although, everyone seems to know that they have a relationship, neither are determined to push it anymore than close friends. The story goes through flashbacks, explaining why they are such close friends and any action doesn't seem to push them apart, but draw them closer.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Konoe, Nanami', b'Tomosaka, Kenji', b'Hatano', b'Nakazato, Hikari', b'Ayukawa, Misora', b'Konoe, Kagami', b'Tomosaka, Suzuka', b'Sakura, Hiromi', b'Isawa, Tae', b'Schoolboy A']
-animeVoices	[b'\nGotou, Yuuko\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nOohata, Shintarou\nJapanese\n', b'\nTomonaga, Akane\nJapanese\n', b'\nShintani, Ryouko\nJapanese\n', b'\nNarumi, Erika\nJapanese\n', b'\nSato, Mikako\nJapanese\n', b'\nTaguchi, Hiroko\nJapanese\n', b'\nYanase, Natsumi\nJapanese\n', b'\nTachibana, Shinnosuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomiya, Saburou\n\nProducer\n\n', b'\nTakada, Jun\n\nDirector, Episode Director, Storyboard\n\n', b'\nEndou, Tetsuya\n\nEpisode Director, Storyboard\n\n', b'\nYamamoto, Takashi\n\nEpisode Director\n\n']
+animeCharacters	['Konoe, Nanami', 'Tomosaka, Kenji', 'Hatano', 'Nakazato, Hikari', 'Ayukawa, Misora', 'Konoe, Kagami', 'Tomosaka, Suzuka', 'Sakura, Hiromi', 'Isawa, Tae', 'Schoolboy A']
+animeVoices	['Gotou, Yuuko', 'Taniyama, Kishou', 'Oohata, Shintarou', 'Tomonaga, Akane', 'Shintani, Ryouko', 'Narumi, Erika', 'Sato, Mikako', 'Taguchi, Hiroko', 'Yanase, Natsumi', 'Tachibana, Shinnosuke']
+animeStaff	[['Oomiya, Saburou', 'Producer'], ['Takada, Jun', 'Director, Episode Director, Storyboard'], ['Endou, Tetsuya', 'Episode Director, Storyboard'], ['Yamamoto, Takashi', 'Episode Director']]

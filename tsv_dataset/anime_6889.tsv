@@ -1,5 +1,5 @@
-animeTitle	b'Sanctuary'
-animeType	b'OVA'
+animeTitle	Sanctuary
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.36
 animeUsers	1301
 animeRank	
-animePopularity	
-animeDescription	"b""Two Japanese survivors of the Khmer Rouge massacres in Cambodia vow to find a sanctuary, even if they have to build it themselves. Returning to Japan, they take seemingly opposite paths: one becomes a politician, the other a gangster.\n\nAs Asami and Houjou work through the linked worlds of politics and crime in modern Japan, they don't hesitate to do anything necessary to secure their own positions and stay true to their vow. Loyal to no one else, they find their friendship increasingly tested as they rise in their chosen fields.\n\n(Source: ANN)"""
-animeRelated	[b'Sanctuary']
-animeCharacters	[b'Houjou, Akira', b'Asami, Chiaki', b'Tokai', b'Isaoka, Norimoto', b'Ishihara, Kyoko', b'Sakura, Shuichi', b'Ozaki', b'Don Sagara', b'Tashiro, Reiji', b'Murata']
-animeVoices	[b'\nHayami, Show\nJapanese\n', b'\nNakata, Kazuhiro\nJapanese\n', b'\nHashi, Takaya\nJapanese\n', b'\nWatabe, Takeshi\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nOkabe, Masaaki\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nSasaoka, Shigezou\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Takashi\n\nDirector\n\n', b'\nTerada, Kenji\n\nScript\n\n', b'\nBuronson\n\nOriginal Creator\n\n', b'\nIkegami, Ryoichi\n\nOriginal Character Design\n\n']
+animePopularity	7712
+animeDescription	"Two Japanese survivors of the Khmer Rouge massacres in Cambodia vow to find a sanctuary, even if they have to build it themselves. Returning to Japan, they take seemingly opposite paths: one becomes a politician, the other a gangster.
+
+As Asami and Houjou work through the linked worlds of politics and crime in modern Japan, they don't hesitate to do anything necessary to secure their own positions and stay true to their vow. Loyal to no one else, they find their friendship increasingly tested as they rise in their chosen fields.
+
+(Source: ANN)"
+animeRelated	['Sanctuary']
+animeCharacters	['Houjou, Akira', 'Asami, Chiaki', 'Tokai', 'Isaoka, Norimoto', 'Ishihara, Kyoko', 'Sakura, Shuichi', 'Ozaki', 'Don Sagara', 'Tashiro, Reiji', 'Murata']
+animeVoices	['Hayami, Show', 'Nakata, Kazuhiro', 'Hashi, Takaya', 'Watabe, Takeshi', 'Tsuru, Hiromi', 'Okabe, Masaaki', 'Ishizuka, Unshou', 'Sasaoka, Shigezou', 'Seki, Tomokazu', 'Satou, Masaharu']
+animeStaff	[['Watanabe, Takashi', 'Director'], ['Terada, Kenji', 'Script'], ['Buronson', 'Original Creator'], ['Ikegami, Ryoichi', 'Original Character Design']]

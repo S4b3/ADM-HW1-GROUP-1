@@ -1,5 +1,5 @@
-animeTitle	b'Jinki:Extend - Sorekara'
-animeType	b'OVA'
+animeTitle	Jinki:Extend - Sorekara
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	6.17
 animeUsers	1074
 animeRank	
-animePopularity	
-animeDescription	b'Aoba is a young girl who loves to build models of robots. She lived alone with her grandmother until her grandmother passes away. Shortly after she is kidnapped and brought to a secret base where she discovers a huge robot. The piloted robots fight against Ancient-Jinki in The Grand Savanna, but the true meaning behind the fights is hidden. Aoba works hard at the base so one day she can pilot one of the robots and discover these secrets.\n'
-animeRelated	[b'Jinki:Extend']
-animeCharacters	[b'Tsuzaki, Aoba', b'Ogawara, Ryouhei', b'Kousaka, Rui', b'Kousaka, Minami']
-animeVoices	[b'\nOrikasa, Fumiko\nJapanese\n', b'\nTakewaka, Takuma\nJapanese\n', b'\nTakamori, Yoshino\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChung, Jin Ho\n\nProducer\n\n', b'\nHosoda, Naoto\n\nCharacter Design\n\n']
+animePopularity	8667
+animeDescription	"Aoba is a young girl who loves to build models of robots. She lived alone with her grandmother until her grandmother passes away. Shortly after she is kidnapped and brought to a secret base where she discovers a huge robot. The piloted robots fight against Ancient-Jinki in The Grand Savanna, but the true meaning behind the fights is hidden. Aoba works hard at the base so one day she can pilot one of the robots and discover these secrets.
+"
+animeRelated	['Jinki:Extend']
+animeCharacters	['Tsuzaki, Aoba', 'Ogawara, Ryouhei', 'Kousaka, Rui', 'Kousaka, Minami']
+animeVoices	['Orikasa, Fumiko', 'Takewaka, Takuma', 'Takamori, Yoshino']
+animeStaff	[['Chung, Jin Ho', 'Producer'], ['Hosoda, Naoto', 'Character Design']]

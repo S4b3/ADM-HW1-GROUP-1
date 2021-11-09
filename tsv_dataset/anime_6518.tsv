@@ -1,5 +1,5 @@
-animeTitle	b'Cardfight!! Vanguard Gaiden: If'
-animeType	b'TV'
+animeTitle	Cardfight!! Vanguard Gaiden: If
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.43
 animeUsers	683
 animeRank	
-animePopularity	
-animeDescription	b'The series will explore an alternate universe to the main series, and will focus on Kouji Ibuki, an antagonist in the Cardfight!! Vanguard Movie: Neon Messiah, and Suiko Tatsunagi.\n\n(Source: ANN, edited)'
-animeRelated	[b'Cardfight!! Vanguard']
-animeCharacters	[b'Ibuki, Kouji', b'Sendou, Emi', b'Shuka', b'Sendou, Aichi', b'Suzugamori, Ren', b'Morikawa, Katsumi', b'Tatsunagi, Rekka', b'Tatsunagi, Suiko']
-animeVoices	[b'\nYoshida, Yuuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nArgonavis\n\nTheme Song Performance\n\n', b'\nKidani, Takaaki\n\nExecutive Producer, Original Creator\n\n']
+animePopularity	8675
+animeDescription	"The series will explore an alternate universe to the main series, and will focus on Kouji Ibuki, an antagonist in the Cardfight!! Vanguard Movie: Neon Messiah, and Suiko Tatsunagi.
+
+(Source: ANN, edited)"
+animeRelated	['Cardfight!! Vanguard']
+animeCharacters	['Ibuki, Kouji', 'Sendou, Emi', 'Shuka', 'Sendou, Aichi', 'Suzugamori, Ren', 'Morikawa, Katsumi', 'Tatsunagi, Rekka', 'Tatsunagi, Suiko']
+animeVoices	['Yoshida, Yuuri']
+animeStaff	[['Argonavis', 'Theme Song Performance'], ['Kidani, Takaaki', 'Executive Producer, Original Creator']]

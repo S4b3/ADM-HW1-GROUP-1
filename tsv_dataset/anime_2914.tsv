@@ -1,5 +1,5 @@
-animeTitle	b'Nogizaka Haruka no Himitsu: Purezza'
-animeType	b'TV'
+animeTitle	Nogizaka Haruka no Himitsu: Purezza
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.19
 animeUsers	37096
 animeRank	
-animePopularity	
-animeDescription	"b""Haruka's manga and anime hobby is still concealed by her dear friend Yuuto, but Yuuto's other female friend starts to feel affection and attraction towards him, so a feelings war begins among their circle of friends. Meanwhile Yuuto tries to make Haruka happy doing what she likes the most: drawing manga, watching anime, and attending special anime events.\n\n(Source: ANN)"""
-animeRelated	[b'Nogizaka Haruka no Himitsu', b'Nogizaka Haruka no Himitsu: Finale']
-animeCharacters	[b'Nogizaka, Haruka', b'Ayase, Yuuto', b'Nogizaka, Mika', b'Amamiya, Shiina', b'Nogizaka, Gentou', b'Rein, Alistia', b'Sakurazaka, Hazuki', b'Asakura, Nobunaga', b'Nogizaka, Akiho', b'Ayase, Ruko']
-animeVoices	[b'\nNoto, Mamiko\nJapanese\n', b'\nHatano, Wataru\nJapanese\n', b'\nGotou, Mai\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nTachiki, Fumihiko\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nShimizu, Kaori\nJapanese\n', b'\nTakagi, Reiko\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakayama, Nobuhiro\n\nProducer\n\n', b'\nSatomi, Tetsurou\n\nProducer\n\n', b'\nNawa, Munenori\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n']
+animePopularity	2119
+animeDescription	"Haruka's manga and anime hobby is still concealed by her dear friend Yuuto, but Yuuto's other female friend starts to feel affection and attraction towards him, so a feelings war begins among their circle of friends. Meanwhile Yuuto tries to make Haruka happy doing what she likes the most: drawing manga, watching anime, and attending special anime events.
+
+(Source: ANN)"
+animeRelated	['Nogizaka Haruka no Himitsu', 'Nogizaka Haruka no Himitsu: Finale']
+animeCharacters	['Nogizaka, Haruka', 'Ayase, Yuuto', 'Nogizaka, Mika', 'Amamiya, Shiina', 'Nogizaka, Gentou', 'Rein, Alistia', 'Sakurazaka, Hazuki', 'Asakura, Nobunaga', 'Nogizaka, Akiho', 'Ayase, Ruko']
+animeVoices	['Noto, Mamiko', 'Hatano, Wataru', 'Gotou, Mai', 'Satou, Rina', 'Tachiki, Fumihiko', 'Kugimiya, Rie', 'Shimizu, Kaori', 'Takagi, Reiko', 'Hisakawa, Aya', 'Nabatame, Hitomi']
+animeStaff	[['Nakayama, Nobuhiro', 'Producer'], ['Satomi, Tetsurou', 'Producer'], ['Nawa, Munenori', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director']]

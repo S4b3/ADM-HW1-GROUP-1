@@ -1,5 +1,5 @@
-animeTitle	b'Gatapishi'
-animeType	b'TV'
+animeTitle	Gatapishi
+animeType	TV
 animeNumEpisode	199
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Based on the comedy yonkoma manga by Sonoyama Shunji.'
+animePopularity	14197
+animeDescription	Based on the comedy yonkoma manga by Sonoyama Shunji.
 animeRelated	[]
-animeCharacters	[b'Heino, Pesuke', b'Gatapishi', b'Heino, Hiroko', b'Heino, Heita']
-animeVoices	[b'\nKimotsuki, Kaneta\nJapanese\n', b'\nYokozawa, Keiko\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nIshihara, Shinji\n\nTheme Song Arrangement\n\n', b'\nMinami, Rambow\n\nTheme Song Lyrics, Theme Song Composition\n\n', b'\nArisawa, Takanori\n\nMusic\n\n']
+animeCharacters	['Heino, Pesuke', 'Gatapishi', 'Heino, Hiroko', 'Heino, Heita']
+animeVoices	['Kimotsuki, Kaneta', 'Yokozawa, Keiko', 'Tanaka, Mayumi']
+animeStaff	[['Sasagawa, Hiroshi', 'Director'], ['Ishihara, Shinji', 'Theme Song Arrangement'], ['Minami, Rambow', 'Theme Song Lyrics, Theme Song Composition'], ['Arisawa, Takanori', 'Music']]

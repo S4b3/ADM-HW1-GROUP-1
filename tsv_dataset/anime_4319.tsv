@@ -1,5 +1,5 @@
-animeTitle	b'Cyborg 009 (TV)'
-animeType	b'TV'
+animeTitle	Cyborg 009 (TV)
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.87
 animeUsers	1635
 animeRank	
-animePopularity	
-animeDescription	"b""They fight against evil, they help those in need, they're the Cyborg fighters! Together with the scientist Dr. Gilmore, this team of nine cyborgs use their special body modifications to fight against a seemingly endless barrage of enemies, including robotic crabs, aliens, and fellow cyborgs.\n\nEach cyborg has his own special power, which they use in their fight against evil. Titular character 009 (aka Hurricane Joe, the famous race car driver) leads the team with his superhuman strength, resistance to bullets, and ability to accelerate through time. His teammates fight by his side to save humanity from falling into evil hands.\n\nThe team in Cyborg 009 faces many enemies and stops countless threats to their hometown, and even to Earth. No matter what, justice will be served.\n"""
-animeRelated	[b'Cyborg 009', b'Cyborg 009: The Cyborg Soldier', b'Cyborg 009 (1979)', b'009 Re:Cyborg', b'Cyborg 009: Call of Justice 1', b'Cyborg 009: Call of Justice 2', b'Cyborg 009: Call of Justice 3', b'Cyborg 009: The Reopening', b'Cyborg 009 VS Devilman']
-animeCharacters	[b'Shimamura, Joe', b'Heinrich, Albert', b'Link, Jet', b'Arnoul, Fran\xc3\xa7oise', b'Great Britain', b'Whisky, Ivan', b'Changku, Chang', b'Pyunma', b'Geronimo Jr.', b'Gilmore, Isaac']
-animeVoices	[b'\nMori, Katsuji\nJapanese\n', b'\nOotake, Hiroshi\nJapanese\n', b'\nSuzuki, Hiroko\nJapanese\n', b'\nSoga, Machiko\nJapanese\n', b'\nShiraishi, Fuyumi\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nNoda, Keiichi\nJapanese\n', b'\nMasuoka, Hiroshi\nJapanese\n', b'\nYanami, Jouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuji, Masaki\n\nScript\n\n', b'\nIshinomori, Shoutarou\n\nOriginal Creator\n\n', b'\nKimura, Keiichiro\n\nAnimation Director\n\n', b'\nKosugi, Taichirou\n\nMusic\n\n']
+animePopularity	6680
+animeDescription	"They fight against evil, they help those in need, they're the Cyborg fighters! Together with the scientist Dr. Gilmore, this team of nine cyborgs use their special body modifications to fight against a seemingly endless barrage of enemies, including robotic crabs, aliens, and fellow cyborgs.
+
+Each cyborg has his own special power, which they use in their fight against evil. Titular character 009 (aka Hurricane Joe, the famous race car driver) leads the team with his superhuman strength, resistance to bullets, and ability to accelerate through time. His teammates fight by his side to save humanity from falling into evil hands.
+
+The team in Cyborg 009 faces many enemies and stops countless threats to their hometown, and even to Earth. No matter what, justice will be served.
+"
+animeRelated	['Cyborg 009', 'Cyborg 009: The Cyborg Soldier', 'Cyborg 009 (1979)', '009 Re:Cyborg', 'Cyborg 009: Call of Justice 1', 'Cyborg 009: Call of Justice 2', 'Cyborg 009: Call of Justice 3', 'Cyborg 009: The Reopening', 'Cyborg 009 VS Devilman']
+animeCharacters	['Shimamura, Joe', 'Heinrich, Albert', 'Link, Jet', 'Arnoul, Françoise', 'Great Britain', 'Whisky, Ivan', 'Changku, Chang', 'Pyunma', 'Geronimo Jr.', 'Gilmore, Isaac']
+animeVoices	['Mori, Katsuji', 'Ootake, Hiroshi', 'Suzuki, Hiroko', 'Soga, Machiko', 'Shiraishi, Fuyumi', 'Nagai, Ichiro', 'Noda, Keiichi', 'Masuoka, Hiroshi', 'Yanami, Jouji']
+animeStaff	[['Tsuji, Masaki', 'Script'], ['Ishinomori, Shoutarou', 'Original Creator'], ['Kimura, Keiichiro', 'Animation Director'], ['Kosugi, Taichirou', 'Music']]

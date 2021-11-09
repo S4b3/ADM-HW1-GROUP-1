@@ -1,5 +1,5 @@
-animeTitle	b'Meitantei Gordon'
-animeType	b'ONA'
+animeTitle	Meitantei Gordon
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	4.57
 animeUsers	411
 animeRank	
-animePopularity	
-animeDescription	b'Gordon is a famous detective from England providing input on a murder during a dinner party. '
+animePopularity	12156
+animeDescription	Gordon is a famous detective from England providing input on a murder during a dinner party. 
 animeRelated	[]
-animeCharacters	[b'Gordon']
+animeCharacters	['Gordon']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTaniguchi, Takashi\n\nDirector\n\n']
+animeStaff	[['Taniguchi, Takashi', 'Director']]

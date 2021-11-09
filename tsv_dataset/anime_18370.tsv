@@ -1,5 +1,5 @@
-animeTitle	b'Momiji'
-animeType	b'OVA'
+animeTitle	Momiji
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.2
 animeUsers	889
 animeRank	
-animePopularity	
-animeDescription	"b""Story begins as Momiji's chastity is taken by Kazuto. We learn that Momiji is a girl without a will of her own, while Kazuto is the son of a wealthy and influential family. Kazuto took an interest in Momiji when he saw her at school, and he went out of his way to get her to come live in his house as a maid.\n\n(Source: ANN)"""
-animeRelated	"[b'Momiji: ""Watashi... Ningyou ja Arimasen...""']"
-animeCharacters	[b'Kazuto', b'Momiji', b'Ayane', b'Mari', b'Shizuru']
-animeVoices	[b'\nAsano, Youji\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKanbara, Toshiaki\n\nDirector, Storyboard\n\n', b'\nLune\n\nOriginal Creator\n\n', b'\nKawai, Masaki\n\nOriginal Character Design\n\n']
+animePopularity	8824
+animeDescription	"Story begins as Momiji's chastity is taken by Kazuto. We learn that Momiji is a girl without a will of her own, while Kazuto is the son of a wealthy and influential family. Kazuto took an interest in Momiji when he saw her at school, and he went out of his way to get her to come live in his house as a maid.
+
+(Source: ANN)"
+animeRelated	"['Momiji: ""Watashi... Ningyou ja Arimasen...""']"
+animeCharacters	['Kazuto', 'Momiji', 'Ayane', 'Mari', 'Shizuru']
+animeVoices	['Asano, Youji', 'Koorogi, Satomi']
+animeStaff	[['Kanbara, Toshiaki', 'Director, Storyboard'], ['Lune', 'Original Creator'], ['Kawai, Masaki', 'Original Character Design']]

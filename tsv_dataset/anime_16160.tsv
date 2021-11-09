@@ -1,5 +1,5 @@
-animeTitle	b'Hoshi no Shima no Nyanko'
-animeType	b'TV'
+animeTitle	Hoshi no Shima no Nyanko
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'The story centers on the cats Hopi, Toto, and Mao, who set out on the ocean in search of a place to establish a new town. The three friends plan to find the mysterious ""Island of Stars."" When they happen to chance upon it, they immediately get to work developing the island, but encounter many difficulties in their task. \n\n(Source: ANN)'"
+animePopularity	13876
+animeDescription	"The story centers on the cats Hopi, Toto, and Mao, who set out on the ocean in search of a place to establish a new town. The three friends plan to find the mysterious ""Island of Stars."" When they happen to chance upon it, they immediately get to work developing the island, but encounter many difficulties in their task. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Mao', b'Toto', b'Hopi', b'Kotetsu']
-animeVoices	[b'\nHino, Mari\nJapanese\n', b'\nIkeda, Tomoko\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaruyama, Tomomi\n\nDirector\n\n', b'\nHayakawa, Youichi\n\nSound Director\n\n', b'\nKunisawa, Mariko\n\nSeries Composition\n\n', b'\nKamekawa, Hiromi\n\nMusic\n\n']
+animeCharacters	['Mao', 'Toto', 'Hopi', 'Kotetsu']
+animeVoices	['Hino, Mari', 'Ikeda, Tomoko', 'Fujimura, Ayumi', 'Sakaguchi, Daisuke']
+animeStaff	[['Maruyama, Tomomi', 'Director'], ['Hayakawa, Youichi', 'Sound Director'], ['Kunisawa, Mariko', 'Series Composition'], ['Kamekawa, Hiromi', 'Music']]

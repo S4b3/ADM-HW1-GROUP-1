@@ -1,5 +1,5 @@
-animeTitle	b'Bleach Movie 4: Jigoku-hen'
-animeType	b'Movie'
+animeTitle	Bleach Movie 4: Jigoku-hen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.6
 animeUsers	102391
 animeRank	
-animePopularity	
-animeDescription	"b'""Hell"" is the place where a person is sent to who committed violent crimes when they were alive. Shinigami are forbidden to go there. One day, prisoners revolt and make their escape to Karakura\xe2\x80\x94the real world\xe2\x80\x94where Ichigo and his friends live in. Ichigo and his friends are defeated one after the other by prisoners with overwhelming power. A mysterious man appears who comes to their rescue. With Kokutou leading the way, Ichigo, Rukia, Uryuu, and Renji marche into Hell to save the world.\n\nNote: Episode 299 of Bleach serves as a prologue to this movie.\n\n(Source: AniDB, edited)'"
-animeRelated	[b'Bleach: The Unforgivens', b'Bleach']
-animeCharacters	[b'Kurosaki, Ichigo', b'Kuchiki, Rukia', b'Abarai, Renji', b'Ishida, Uryuu', b'Kokuto', b'Hitsugaya, Toushirou', b'Cifer, Ulquiorra', b'Kuchiki, Byakuya', b'Inoue, Orihime', b'Matsumoto, Rangiku']
-animeVoices	[b'\nMorita, Masakazu\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nItou, Kentarou\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nMatsuoka, Yuki\nJapanese\n', b'\nMatsutani, Kaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Noriko\n\nProducer\n\n', b'\nAbe, Noriyuki\n\nDirector, Storyboard\n\n', b'\nTachikawa, Yuzuru\n\nEpisode Director, Storyboard\n\n', b'\nSueda, Yoshifumi\n\nEpisode Director\n\n']
+animePopularity	1001
+animeDescription	"""Hell"" is the place where a person is sent to who committed violent crimes when they were alive. Shinigami are forbidden to go there. One day, prisoners revolt and make their escape to Karakura—the real world—where Ichigo and his friends live in. Ichigo and his friends are defeated one after the other by prisoners with overwhelming power. A mysterious man appears who comes to their rescue. With Kokutou leading the way, Ichigo, Rukia, Uryuu, and Renji marche into Hell to save the world.
+
+Note: Episode 299 of Bleach serves as a prologue to this movie.
+
+(Source: AniDB, edited)"
+animeRelated	['Bleach: The Unforgivens', 'Bleach']
+animeCharacters	['Kurosaki, Ichigo', 'Kuchiki, Rukia', 'Abarai, Renji', 'Ishida, Uryuu', 'Kokuto', 'Hitsugaya, Toushirou', 'Cifer, Ulquiorra', 'Kuchiki, Byakuya', 'Inoue, Orihime', 'Matsumoto, Rangiku']
+animeVoices	['Morita, Masakazu', 'Orikasa, Fumiko', 'Itou, Kentarou', 'Sugiyama, Noriaki', 'Nakai, Kazuya', 'Park, Romi', 'Okiayu, Ryoutarou', 'Matsuoka, Yuki', 'Matsutani, Kaya']
+animeStaff	[['Kobayashi, Noriko', 'Producer'], ['Abe, Noriyuki', 'Director, Storyboard'], ['Tachikawa, Yuzuru', 'Episode Director, Storyboard'], ['Sueda, Yoshifumi', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Shamanic Princess'
-animeType	b'OVA'
+animeTitle	Shamanic Princess
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.63
 animeUsers	3910
 animeRank	
-animePopularity	
-animeDescription	b'From the Guardian World, home of mages, Tiara has been sent on a mission: recover the stolen Throne of Yord, the most powerful magic artifact of all. But Tiara finds herself in a dilemma\xe2\x80\x94the Throne has been taken by her former lover, and there is more to the situation than meets the eye... \n\n(Source: ANN)'
-animeRelated	[b'Mahoutsukai Tai! vs. Shamanic Princess']
-animeCharacters	[b'Tiara', b'Lena', b'Graham', b'Japolo', b'Sara', b'Leon', b'Kagetsu']
-animeVoices	[b'\nSayuri\nJapanese\n', b'\nYayoi, Mitsuki\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nSakurai, Tomo\nJapanese\n', b'\nYuuki, Hiro\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHongou, Mitsuru\n\nProducer, Director, Script, Storyboard, Original Creator\n\n', b'\nNishimura, Hiroyuki\n\nDirector, Script, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nSuo, Yoshikazu\n\nTheme Song Arrangement, Theme Song Composition, Music\n\n']
+animePopularity	5167
+animeDescription	"From the Guardian World, home of mages, Tiara has been sent on a mission: recover the stolen Throne of Yord, the most powerful magic artifact of all. But Tiara finds herself in a dilemma—the Throne has been taken by her former lover, and there is more to the situation than meets the eye... 
+
+(Source: ANN)"
+animeRelated	['Mahoutsukai Tai! vs. Shamanic Princess']
+animeCharacters	['Tiara', 'Lena', 'Graham', 'Japolo', 'Sara', 'Leon', 'Kagetsu']
+animeVoices	['Sayuri', 'Yayoi, Mitsuki', 'Matsumoto, Rica', 'Sakurai, Tomo', 'Yuuki, Hiro', 'Yamadera, Kouichi']
+animeStaff	[['Hongou, Mitsuru', 'Producer, Director, Script, Storyboard, Original Creator'], ['Nishimura, Hiroyuki', 'Director, Script, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Suo, Yoshikazu', 'Theme Song Arrangement, Theme Song Composition, Music']]

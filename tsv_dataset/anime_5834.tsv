@@ -1,5 +1,5 @@
-animeTitle	b'Tokkou'
-animeType	b'TV'
+animeTitle	Tokkou
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.56
 animeUsers	19585
 animeRank	
-animePopularity	
-animeDescription	"b'""Shindou Ranmaru has just graduated from police academy and assigned to Tokko: Special Mobile Investigation Force. On the day of his graduation, he meets the half-naked girl he has been seeing in his dreams. Her name is Rokujo Sakura and she works for a secret group within Tokki, known as Tokko: Special Public Safety Task Force. Shindou ends up joining Tokko to avenge his parents\' death, and solve the mysterious mass murder of residents in his hometown of Machida. Meanwhile, bottomless pits begin appearing around Japan, and mysterious creatures emerge from them. Could these events be linked to Machida Massacre?""\n\n(Source: DVD Complete Series Back Cover)'"
-animeRelated	[b'Tokkou']
-animeCharacters	[b'Suzuka, Kureha', b'Shindo, Ranmaru', b'Rokujo, Sakura', b'Kunikida, Kaoru', b'Shindo, Saya', b'Taishi', b'Araragi, Itto', b'Shiraishi, Dr.', b'Suzuka, Akito', b'Ajiro']
-animeVoices	[b'\nUeda, Kana\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nKanda, Akemi\nJapanese\n', b'\nMizuno, Ryuji\nJapanese\n', b'\nMatsubayashi, Daiki\nJapanese\n', b'\nTerasoma, Masaki\nJapanese\n', b'\nKouno, Yutaka\nJapanese\n', b'\nMasuda, Yuuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakakuwa, Hajime\n\nSound Director\n\n', b'\nAbe, Masashi\n\nEpisode Director, Storyboard, 2nd Key Animation\n\n', b'\nIshihira, Shinji\n\nStoryboard\n\n', b'\nHayashi, Hiroki\n\nStoryboard, Key Animation\n\n']
+animePopularity	2730
+animeDescription	"""Shindou Ranmaru has just graduated from police academy and assigned to Tokko: Special Mobile Investigation Force. On the day of his graduation, he meets the half-naked girl he has been seeing in his dreams. Her name is Rokujo Sakura and she works for a secret group within Tokki, known as Tokko: Special Public Safety Task Force. Shindou ends up joining Tokko to avenge his parents' death, and solve the mysterious mass murder of residents in his hometown of Machida. Meanwhile, bottomless pits begin appearing around Japan, and mysterious creatures emerge from them. Could these events be linked to Machida Massacre?""
+
+(Source: DVD Complete Series Back Cover)"
+animeRelated	['Tokkou']
+animeCharacters	['Suzuka, Kureha', 'Shindo, Ranmaru', 'Rokujo, Sakura', 'Kunikida, Kaoru', 'Shindo, Saya', 'Taishi', 'Araragi, Itto', 'Shiraishi, Dr.', 'Suzuka, Akito', 'Ajiro']
+animeVoices	['Ueda, Kana', 'Suzumura, Kenichi', 'Orikasa, Fumiko', 'Takagi, Wataru', 'Kanda, Akemi', 'Mizuno, Ryuji', 'Matsubayashi, Daiki', 'Terasoma, Masaki', 'Kouno, Yutaka', 'Masuda, Yuuki']
+animeStaff	[['Takakuwa, Hajime', 'Sound Director'], ['Abe, Masashi', 'Episode Director, Storyboard, 2nd Key Animation'], ['Ishihira, Shinji', 'Storyboard'], ['Hayashi, Hiroki', 'Storyboard, Key Animation']]

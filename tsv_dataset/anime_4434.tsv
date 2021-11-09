@@ -1,4 +1,4 @@
-animeTitle	b'Korekuraide Utau'
+animeTitle	Korekuraide Utau
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.85
 animeUsers	1461
 animeRank	
-animePopularity	
-animeDescription	"b'Award-nominated independent artist, Kousuke Sugimoto, animates Handsome Kenya\'s song ""Korekuraide Utau"" in HD.'"
+animePopularity	8960
+animeDescription	"Award-nominated independent artist, Kousuke Sugimoto, animates Handsome Kenya's song ""Korekuraide Utau"" in HD."
 animeRelated	[]
-animeCharacters	[b'Kenya']
+animeCharacters	['Kenya']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugimoto, Kousuke\n\nDirector\n\n', b'\nHandsome Kenya\n\nMusic\n\n']
+animeStaff	[['Sugimoto, Kousuke', 'Director'], ['Handsome Kenya', 'Music']]

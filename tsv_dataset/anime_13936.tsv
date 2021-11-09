@@ -1,5 +1,5 @@
-animeTitle	b'Train Heroes Movie'
-animeType	b'Movie'
+animeTitle	Train Heroes Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The mystery that was left untold in the TV series will be revealed in the movie.'
-animeRelated	[b'Train Heroes']
-animeCharacters	[b'Eight', b'Sam', b'Arl', b'Gou', b'Instructor Neel', b'Ann', b'Narrator']
-animeVoices	[b'\nTanaka, Hideki\nJapanese\n', b'\nOkitsu, Kazuyuki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nUrayama, Jin\nJapanese\n', b'\nTogashi, Misuzu\nJapanese\n', b'\nOchiai, Kouji\nJapanese\n']
+animePopularity	16457
+animeDescription	The mystery that was left untold in the TV series will be revealed in the movie.
+animeRelated	['Train Heroes']
+animeCharacters	['Eight', 'Sam', 'Arl', 'Gou', 'Instructor Neel', 'Ann', 'Narrator']
+animeVoices	['Tanaka, Hideki', 'Okitsu, Kazuyuki', 'Namikawa, Daisuke', 'Ono, Daisuke', 'Urayama, Jin', 'Togashi, Misuzu', 'Ochiai, Kouji']
 animeStaff	[]

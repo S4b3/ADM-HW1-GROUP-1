@@ -1,5 +1,5 @@
-animeTitle	b'Geragera Boes Monogatari'
-animeType	b'TV'
+animeTitle	Geragera Boes Monogatari
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.01
 animeUsers	728
 animeRank	
-animePopularity	
-animeDescription	b'Farm life has never been this wacky. Where else could you find a turtle with a built in TV under his shell, a bald lion, an elephant whose trunk doubles as a garden hose and an inflatable octopus. All run by a good-natured ox named Olly.\n\n(Source: ANN)'
+animePopularity	10176
+animeDescription	"Farm life has never been this wacky. Where else could you find a turtle with a built in TV under his shell, a bald lion, an elephant whose trunk doubles as a garden hose and an inflatable octopus. All run by a good-natured ox named Olly.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Boes', b'Turtleson, Jack', b'Igor', b'Sammy', b'Edward']
+animeCharacters	['Boes', 'Turtleson, Jack', 'Igor', 'Sammy', 'Edward']
 animeVoices	[]
-animeStaff	"[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nWyner, Tom\n\nScript\n\n', b""\nKoorogi '73\n\nTheme Song Performance\n\n""]"
+animeStaff	"[['Sasagawa, Hiroshi', 'Director'], ['Watanabe, Jun', 'Sound Director'], ['Wyner, Tom', 'Script'], [""Koorogi '73"", 'Theme Song Performance']]"

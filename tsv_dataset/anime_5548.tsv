@@ -1,5 +1,5 @@
-animeTitle	b'Tetsujin 28-gou (1980)'
-animeType	b'TV'
+animeTitle	Tetsujin 28-gou (1980)
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.61
 animeUsers	532
 animeRank	
-animePopularity	
-animeDescription	b'Shotaro had become an Interpol agent, working with Branch Robo, the antirobot crime unit of that organization. He still employs Tetsujin.\n\n(Source: AniDB)'
-animeRelated	[b'Tetsujin 28-gou']
-animeCharacters	[b'Kaneda, Shoutarou']
-animeVoices	[b'\nYamada, Eiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoshi, Shigeo\n\nEpisode Director\n\n', b'\nSekita, Osamu\n\nEpisode Director, Storyboard\n\n', b'\nYamayoshi, Yasuo\n\nEpisode Director\n\n', b'\nTomisawa, Nobuo\n\nEpisode Director, Storyboard\n\n']
+animePopularity	9838
+animeDescription	"Shotaro had become an Interpol agent, working with Branch Robo, the antirobot crime unit of that organization. He still employs Tetsujin.
+
+(Source: AniDB)"
+animeRelated	['Tetsujin 28-gou']
+animeCharacters	['Kaneda, Shoutarou']
+animeVoices	['Yamada, Eiko']
+animeStaff	[['Koshi, Shigeo', 'Episode Director'], ['Sekita, Osamu', 'Episode Director, Storyboard'], ['Yamayoshi, Yasuo', 'Episode Director'], ['Tomisawa, Nobuo', 'Episode Director, Storyboard']]

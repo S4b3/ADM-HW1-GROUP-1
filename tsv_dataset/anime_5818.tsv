@@ -1,5 +1,5 @@
-animeTitle	b'Piyoko ni Omakase pyo!'
-animeType	b'OVA'
+animeTitle	Piyoko ni Omakase pyo!
+animeType	OVA
 animeNumEpisode	8
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.56
 animeUsers	860
 animeRank	
-animePopularity	
-animeDescription	b'Leave it to Piyoko! Move over, Di Gi Charat! \n\nPiyoko and the Black Gema Gema Gang star in this new OVA series. From the Planet Analogue to Earth, the Black Gema Gema Gang try to kidnap Dejiko and hold her ransom to find their dream of a prosperous home! \n\n(Source: AniDB) '
-animeRelated	[b'Di Gi Charat']
-animeCharacters	[b'Analogue III, Pyocola', b'Schweitzer, Ky', b'Erhard, Coo', b'Heisenberg, Rik', b'Di Gi Charat', b'Petit Charat', b'Usada, Hikaru', b'Gema']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nSuzuki, Chihiro\nJapanese\n', b'\nSaeki, Tomo\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurai, Hiroaki\n\nDirector, Storyboard\n\n', b'\nIkeda, Mamiko\n\nScript\n\n', b'\nMasuda, Toshio\n\nMusic\n\n', b'\nNagahama, Hiroshi\n\nScreenplay\n\n']
+animePopularity	8968
+animeDescription	"Leave it to Piyoko! Move over, Di Gi Charat! 
+
+Piyoko and the Black Gema Gema Gang star in this new OVA series. From the Planet Analogue to Earth, the Black Gema Gema Gang try to kidnap Dejiko and hold her ransom to find their dream of a prosperous home! 
+
+(Source: AniDB) "
+animeRelated	['Di Gi Charat']
+animeCharacters	['Analogue III, Pyocola', 'Schweitzer, Ky', 'Erhard, Coo', 'Heisenberg, Rik', 'Di Gi Charat', 'Petit Charat', 'Usada, Hikaru', 'Gema']
+animeVoices	['Hayashibara, Megumi', 'Suzuki, Chihiro', 'Saeki, Tomo', 'Toriumi, Kousuke', 'Sawashiro, Miyuki']
+animeStaff	[['Sakurai, Hiroaki', 'Director, Storyboard'], ['Ikeda, Mamiko', 'Script'], ['Masuda, Toshio', 'Music'], ['Nagahama, Hiroshi', 'Screenplay']]

@@ -1,5 +1,5 @@
-animeTitle	b'K'
-animeType	b'TV'
+animeTitle	K
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.47
 animeUsers	331769
 animeRank	
-animePopularity	
-animeDescription	"b'""Kings"" are individuals who have been bestowed with incredible supernatural powers and granted the ability to recruit others into their clans. Protecting the lives and honor of their clansmen is an integral part of the Kings\' duties. After a video depicting the heinous murder of a Red Clansman spreads virally, the unassuming student Yashiro Isana is accused of homicide. Now, a manhunt is underway for his head, bringing him into contact with the infamous ""Black Dog"" Kurou Yatogami\xe2\x80\x94a skilled swordsman and martial artist determined to follow the wishes of his late master, the Seventh King.\n\nMeanwhile, the current Red King, Mikoto Suou, faces his own imminent demise as the search for Yashiro narrows. But during Yashiro\'s struggle to prove his innocence, a greater conspiracy is unraveling behind the scenes; clouds begin to appear in his memory, and close friends start to question his very existence. What began as a simple murder is now leading towards a full blown war between Kings with the very fate of the world at stake. \n\n[Written by MAL Rewrite]'"
-animeRelated	[b'K: Memory of Red', b'K: Stray Dog Story', b'K Side:Blue', b'K Side:Red', b'K Side:Black & White', b'K: Days of Blue', b'K: The First', b'Gakuen K', b'K: Lost Small World', b'K: R:B', b'K: Missing Kings', b'K: Seven Stories Movie 1 - R:B - Blaze']
-animeCharacters	[b'Suou, Mikoto', b'Isana, Yashiro', b'Neko', b'Yatogami, Kurou', b'Munakata, Reishi', b'Yata, Misaki', b'Fushimi, Saruhiko', b'Kushina, Anna', b'Totsuka, Tatara', b'Kusanagi, Izumo']
-animeVoices	[b'\nTsuda, Kenjirou\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakanishi, Go\n\nProducer\n\n', b'\nSuzuki, Shingo\n\nDirector, Episode Director, Storyboard, Layout, Character Design, Animation Director, Key Animation\n\n', b'\nKanazawa, Hiromichi\n\nDirector\n\n', b'\nKudou, Susumu\n\nDirector, Episode Director\n\n']
+animePopularity	212
+animeDescription	"""Kings"" are individuals who have been bestowed with incredible supernatural powers and granted the ability to recruit others into their clans. Protecting the lives and honor of their clansmen is an integral part of the Kings' duties. After a video depicting the heinous murder of a Red Clansman spreads virally, the unassuming student Yashiro Isana is accused of homicide. Now, a manhunt is underway for his head, bringing him into contact with the infamous ""Black Dog"" Kurou Yatogami—a skilled swordsman and martial artist determined to follow the wishes of his late master, the Seventh King.
+
+Meanwhile, the current Red King, Mikoto Suou, faces his own imminent demise as the search for Yashiro narrows. But during Yashiro's struggle to prove his innocence, a greater conspiracy is unraveling behind the scenes; clouds begin to appear in his memory, and close friends start to question his very existence. What began as a simple murder is now leading towards a full blown war between Kings with the very fate of the world at stake. 
+
+[Written by MAL Rewrite]"
+animeRelated	['K: Memory of Red', 'K: Stray Dog Story', 'K Side:Blue', 'K Side:Red', 'K Side:Black & White', 'K: Days of Blue', 'K: The First', 'Gakuen K', 'K: Lost Small World', 'K: R:B', 'K: Missing Kings', 'K: Seven Stories Movie 1 - R:B - Blaze']
+animeCharacters	['Suou, Mikoto', 'Isana, Yashiro', 'Neko', 'Yatogami, Kurou', 'Munakata, Reishi', 'Yata, Misaki', 'Fushimi, Saruhiko', 'Kushina, Anna', 'Totsuka, Tatara', 'Kusanagi, Izumo']
+animeVoices	['Tsuda, Kenjirou', 'Namikawa, Daisuke', 'Komatsu, Mikako', 'Ono, Daisuke', 'Sugita, Tomokazu', 'Fukuyama, Jun', 'Miyano, Mamoru', 'Horie, Yui', 'Kaji, Yuki', 'Sakurai, Takahiro']
+animeStaff	[['Nakanishi, Go', 'Producer'], ['Suzuki, Shingo', 'Director, Episode Director, Storyboard, Layout, Character Design, Animation Director, Key Animation'], ['Kanazawa, Hiromichi', 'Director'], ['Kudou, Susumu', 'Director, Episode Director']]

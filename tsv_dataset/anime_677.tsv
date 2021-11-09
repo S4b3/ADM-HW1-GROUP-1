@@ -1,5 +1,5 @@
-animeTitle	b'Sekaiichi Hatsukoi OVA'
-animeType	b'OVA'
+animeTitle	Sekaiichi Hatsukoi OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.91
 animeUsers	33733
 animeRank	
-animePopularity	
-animeDescription	"b""Two OVA episodes featuring additional stories. \n\nEpisode 0: Ritsu and Takano used to date back in high school, but broke up due to a misunderstanding. This is that story. \n\nEpisode 12.5: Hatori and Chiaki go to visit the latter's family. It's really awkward in many, many ways. """
-animeRelated	[b'Sekaiichi Hatsukoi: Onodera Ritsu no Baai', b'Sekaiichi Hatsukoi']
-animeCharacters	[b'Takano, Masamune', b'Onodera, Ritsu', b'Hatori, Yoshiyuki', b'Yoshino, Chiaki', b'Mino, Kanade', b'Yoshino, Chinatsu', b'Yoshino, Yoriko']
-animeVoices	[b'\nKonishi, Katsuyuki\nJapanese\n', b'\nKondou, Takashi\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nTachibana, Shinnosuke\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nKatsuragi, Nanaho\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKon, Chiaki\n\nDirector\n\n', b'\nNakamura, Shungiku\n\nOriginal Creator\n\n', b'\nKikuchi, Youko\n\nCharacter Design, Animation Director\n\n']
+animePopularity	2180
+animeDescription	"Two OVA episodes featuring additional stories. 
+
+Episode 0: Ritsu and Takano used to date back in high school, but broke up due to a misunderstanding. This is that story. 
+
+Episode 12.5: Hatori and Chiaki go to visit the latter's family. It's really awkward in many, many ways. "
+animeRelated	['Sekaiichi Hatsukoi: Onodera Ritsu no Baai', 'Sekaiichi Hatsukoi']
+animeCharacters	['Takano, Masamune', 'Onodera, Ritsu', 'Hatori, Yoshiyuki', 'Yoshino, Chiaki', 'Mino, Kanade', 'Yoshino, Chinatsu', 'Yoshino, Yoriko']
+animeVoices	['Konishi, Katsuyuki', 'Kondou, Takashi', 'Nakamura, Yuuichi', 'Tachibana, Shinnosuke', 'Midorikawa, Hikaru', 'Endou, Aya', 'Katsuragi, Nanaho']
+animeStaff	[['Kon, Chiaki', 'Director'], ['Nakamura, Shungiku', 'Original Creator'], ['Kikuchi, Youko', 'Character Design, Animation Director']]

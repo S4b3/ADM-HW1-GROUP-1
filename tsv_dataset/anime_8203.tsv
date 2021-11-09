@@ -1,5 +1,5 @@
-animeTitle	b'Sougen no Ko Tenguri'
-animeType	b'Movie'
+animeTitle	Sougen no Ko Tenguri
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.09
 animeUsers	437
 animeRank	
-animePopularity	
-animeDescription	b'The story surrounds a boy and a cow who have always lived their lives together. One winter, a famine strikes their village. The villagers resolve to the cow, but the boy secretly helped the cow escape. A few years ago, the boy (now grown-up) and the cow meet again...\n\n(Source: AniDB)'
+animePopularity	11229
+animeDescription	"The story surrounds a boy and a cow who have always lived their lives together. One winter, a famine strikes their village. The villagers resolve to the cow, but the boy secretly helped the cow escape. A few years ago, the boy (now grown-up) and the cow meet again...
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Taru-Taru', b'Tenguri']
+animeCharacters	['Taru-Taru', 'Tenguri']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOotsuka, Yasuo\n\nDirector\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nMiyazaki, Hayao\n\nLayout\n\n', b'\nMamiya, Michio\n\nMusic\n\n']
+animeStaff	[['Ootsuka, Yasuo', 'Director'], ['Urakami, Yasuo', 'Sound Director'], ['Miyazaki, Hayao', 'Layout'], ['Mamiya, Michio', 'Music']]

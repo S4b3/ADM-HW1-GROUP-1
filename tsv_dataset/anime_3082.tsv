@@ -1,5 +1,5 @@
-animeTitle	b'Princess Nine: Kisaragi Joshikou Yakyuubu'
-animeType	b'TV'
+animeTitle	Princess Nine: Kisaragi Joshikou Yakyuubu
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.16
 animeUsers	3225
 animeRank	
-animePopularity	
-animeDescription	b'Keiko Himuro, Chairman of the Kisuragi School, puts together an all-girl baseball team led by Ryo Hayakawa, daughter of a legendary pitcher, in hopes of proving that girls can compete just as well as boys. Their goal: Koshien Stadium, where only the best teams get the opportunity to play. \n\n(Source: ANN)'
-animeRelated	[b'Princess Nine: Kisaragi Joshikou Yakyuubu']
-animeCharacters	[b'Himuro, Izumi', b'Hayakawa, Ryou', b'Morimura, Seira', b'Hotta, Koharu', b'Mita, Kanako', b'Daidouji, Mao', b'Mouri, Nene', b'Azuma, Yuki', b'Yoshimoto, Hikaru', b'Tokashiki, Youko']
-animeVoices	[b'\nKingetsu, Mami\nJapanese\n', b'\nNagasawa, Miki\nJapanese\n', b'\nHikami, Kyouko\nJapanese\n', b'\nYajima, Akiko\nJapanese\n', b'\nKasahara, Rumi\nJapanese\n', b'\nShindou, Kokoro\nJapanese\n', b'\nKawata, Taeko\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nNagasawa, Nao\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOmata, Shinichi\n\nProducer\n\n', b'\nGreenfield, Matt\n\nProducer, ADR Director\n\n', b'\nMochizuki, Tomomi\n\nDirector\n\n', b'\nHara, Hiroshi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	5217
+animeDescription	"Keiko Himuro, Chairman of the Kisuragi School, puts together an all-girl baseball team led by Ryo Hayakawa, daughter of a legendary pitcher, in hopes of proving that girls can compete just as well as boys. Their goal: Koshien Stadium, where only the best teams get the opportunity to play. 
+
+(Source: ANN)"
+animeRelated	['Princess Nine: Kisaragi Joshikou Yakyuubu']
+animeCharacters	['Himuro, Izumi', 'Hayakawa, Ryou', 'Morimura, Seira', 'Hotta, Koharu', 'Mita, Kanako', 'Daidouji, Mao', 'Mouri, Nene', 'Azuma, Yuki', 'Yoshimoto, Hikaru', 'Tokashiki, Youko']
+animeVoices	['Kingetsu, Mami', 'Nagasawa, Miki', 'Hikami, Kyouko', 'Yajima, Akiko', 'Kasahara, Rumi', 'Shindou, Kokoro', 'Kawata, Taeko', 'Kawasumi, Ayako', 'Nagasawa, Nao', 'Iizuka, Mayumi']
+animeStaff	[['Omata, Shinichi', 'Producer'], ['Greenfield, Matt', 'Producer, ADR Director'], ['Mochizuki, Tomomi', 'Director'], ['Hara, Hiroshi', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Chihayafuru 2'
-animeType	b'TV'
+animeTitle	Chihayafuru 2
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.41
 animeUsers	110565
 animeRank	
-animePopularity	
-animeDescription	"b""Chihaya Ayase is obsessed with developing her school's competitive karuta club, nursing daunting ambitions like winning the national team championship at the Omi Jingu and becoming the Queen, the best female karuta player in Japan\xe2\x80\x94and in extension, the world. As their second year of high school rolls around, Chihaya and her fellow teammates must recruit new members, train their minds and bodies alike, and battle the formidable opponents that stand in their way to the championship title. Meanwhile, Chihaya's childhood friend, Arata Wataya, the prodigy who introduced her to karuta, rediscovers his lost love for the old card game.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Chihayafuru', b'Chihayafuru 2: Waga Miyo ni Furu Nagame Shima ni']
-animeCharacters	[b'Ayase, Chihaya', b'Mashima, Taichi', b'Wataya, Arata', b'Wakamiya, Shinobu', b'Ooe, Kanade', b'Suou, Hisashi', b'Harada, Hideo', b'Sudou, Akito', b'Komano, Tsutomu', b'Sakurazawa, Midori']
-animeVoices	[b'\nSeto, Asami\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nTerasaki, Yuka\nJapanese\n', b'\nNakamichi, Mihoko\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nOhara, Takashi\nJapanese\n', b'\nYonaga, Tsubasa\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAsaka, Morio\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nWatanabe, Kotono\n\nEpisode Director, Storyboard\n\n', b'\nMinamikawa, Tatsuma\n\nEpisode Director\n\n']
+animePopularity	880
+animeDescription	"Chihaya Ayase is obsessed with developing her school's competitive karuta club, nursing daunting ambitions like winning the national team championship at the Omi Jingu and becoming the Queen, the best female karuta player in Japan—and in extension, the world. As their second year of high school rolls around, Chihaya and her fellow teammates must recruit new members, train their minds and bodies alike, and battle the formidable opponents that stand in their way to the championship title. Meanwhile, Chihaya's childhood friend, Arata Wataya, the prodigy who introduced her to karuta, rediscovers his lost love for the old card game.
+
+[Written by MAL Rewrite]"
+animeRelated	['Chihayafuru', 'Chihayafuru 2: Waga Miyo ni Furu Nagame Shima ni']
+animeCharacters	['Ayase, Chihaya', 'Mashima, Taichi', 'Wataya, Arata', 'Wakamiya, Shinobu', 'Ooe, Kanade', 'Suou, Hisashi', 'Harada, Hideo', 'Sudou, Akito', 'Komano, Tsutomu', 'Sakurazawa, Midori']
+animeVoices	['Seto, Asami', 'Miyano, Mamoru', 'Terasaki, Yuka', 'Nakamichi, Mihoko', 'Kayano, Ai', 'Touchi, Hiroki', 'Ishizuka, Unshou', 'Ohara, Takashi', 'Yonaga, Tsubasa', 'Hayashibara, Megumi']
+animeStaff	[['Asaka, Morio', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Watanabe, Kotono', 'Episode Director, Storyboard'], ['Minamikawa, Tatsuma', 'Episode Director']]

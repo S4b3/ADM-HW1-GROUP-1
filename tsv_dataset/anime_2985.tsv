@@ -1,5 +1,5 @@
-animeTitle	b'Shin Hakkenden'
-animeType	b'TV'
+animeTitle	Shin Hakkenden
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,17 @@ animeNumMembers
 animeScore	7.18
 animeUsers	1926
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the long cherished, classic Japanese novel Nanso Satomi Hakkenden by Bakin Kyokutei Takizawa (1767), a modified version of it was made into animation.\n\nTaking place in the future, during this time wars were occuring in heaven, mostly for possession between the eight moons created by the savior Fuse that surrounded God's land. When the war ended, there was only one ruling family - that of the Oowaris, and the remaining son gained control of all the moons of heaven, except for one. Meiten, the moon of the pope, where people refrained from war and were therefore out of it's terms.\n\nEight people. Each from one of the eight moons. Each possessing one of the jewels - the elements that compose Earth. They are those who are destined to become saviors of humanity. All of them have sacrificed for these jewels, and are determined to complete their duty to Queen Fuse who entrusted these to them. When the mad emperor Kai threatens to revive a ghost who wants to prevent the restoration of Earth, these eight must battle using the powers given by their jewels in order to create Earth and defeat those who want to prevent it.\n\nSo they all go to Kusanagi, the ship in the center of God's land. They must gather the jewels in the key called Yatsufusa at Kusanagi's center, in order to create Earth.\n\n(Source: AniDB)"""
+animePopularity	6746
+animeDescription	"Based on the long cherished, classic Japanese novel Nanso Satomi Hakkenden by Bakin Kyokutei Takizawa (1767), a modified version of it was made into animation.
+
+Taking place in the future, during this time wars were occuring in heaven, mostly for possession between the eight moons created by the savior Fuse that surrounded God's land. When the war ended, there was only one ruling family - that of the Oowaris, and the remaining son gained control of all the moons of heaven, except for one. Meiten, the moon of the pope, where people refrained from war and were therefore out of it's terms.
+
+Eight people. Each from one of the eight moons. Each possessing one of the jewels - the elements that compose Earth. They are those who are destined to become saviors of humanity. All of them have sacrificed for these jewels, and are determined to complete their duty to Queen Fuse who entrusted these to them. When the mad emperor Kai threatens to revive a ghost who wants to prevent the restoration of Earth, these eight must battle using the powers given by their jewels in order to create Earth and defeat those who want to prevent it.
+
+So they all go to Kusanagi, the ship in the center of God's land. They must gather the jewels in the key called Yatsufusa at Kusanagi's center, in order to create Earth.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Yagami, Kou', b'Rei', b'Jinrai', b'Chuji', b'Gyo', b'Noburu', b'Ruty', b'Tomoka', b'Maro', b'Kai']
-animeVoices	[b'\nSuzuki, Masami\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nNishimura, Tomohiro\nJapanese\n', b'\nKomatsu, Rika\nJapanese\n', b'\nKikuchi, Shiho\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Hideo\n\nSound Director\n\n', b'\nInokawa, Shintarou\n\nEpisode Director\n\n', b'\nEndou, Tetsuya\n\nStoryboard\n\n', b'\nOokura, Masahiko\n\nStoryboard, Animation Director, Mechanical Design\n\n']
+animeCharacters	['Yagami, Kou', 'Rei', 'Jinrai', 'Chuji', 'Gyo', 'Noburu', 'Ruty', 'Tomoka', 'Maro', 'Kai']
+animeVoices	['Suzuki, Masami', 'Asakawa, Yuu', 'Morikawa, Toshiyuki', 'Tatsuta, Naoki', 'Nishimura, Tomohiro', 'Komatsu, Rika', 'Kikuchi, Shiho', 'Okiayu, Ryoutarou', 'Nakai, Kazuya', 'Koyasu, Takehito']
+animeStaff	[['Takahashi, Hideo', 'Sound Director'], ['Inokawa, Shintarou', 'Episode Director'], ['Endou, Tetsuya', 'Storyboard'], ['Ookura, Masahiko', 'Storyboard, Animation Director, Mechanical Design']]

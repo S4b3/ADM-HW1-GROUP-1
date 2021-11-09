@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: The First'
-animeType	b'Movie'
+animeTitle	Lupin III: The First
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.83
 animeUsers	10601
 animeRank	
-animePopularity	
-animeDescription	"b'The iconic ""gentleman thief"" Lupin III returns in an action-packed, continent-spanning adventure, as Lupin III and his colorful underworld companions race to uncover the secrets of the mysterious Bresson Diary, before it falls into the hands of a dark cabal that will stop at nothing to resurrect the Third Reich. The gang undertakes trap-filled tombs, aerial escapades, and daring prison escapes with the trademark wit and visual finesse that have made Lupin the 3rd one of the most storied animation franchises in the world, in a thrilling new caper that is sure to delight fans old and new.\n\n(Source: GKIDS, edited)'"
-animeRelated	[b'Lupin III']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi', b'Laetitia', b'Mr. Bresson', b'Mrs. Bresson', b'Lambert', b'Gerald']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nHirose, Suzu\nJapanese\n', b'\nYoshida, Koutarou\nJapanese\n', b'\nFujiwara, Tatsuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamazaki, Takashi\n\nDirector, Script\n\n', b'\nInaizumi, Lyn\n\nTheme Song Performance\n\n', b'\nMonkey Punch\n\nOriginal Creator\n\n', b'\nOono, Yuuji\n\nMusic\n\n']
+animePopularity	3836
+animeDescription	"The iconic ""gentleman thief"" Lupin III returns in an action-packed, continent-spanning adventure, as Lupin III and his colorful underworld companions race to uncover the secrets of the mysterious Bresson Diary, before it falls into the hands of a dark cabal that will stop at nothing to resurrect the Third Reich. The gang undertakes trap-filled tombs, aerial escapades, and daring prison escapes with the trademark wit and visual finesse that have made Lupin the 3rd one of the most storied animation franchises in the world, in a thrilling new caper that is sure to delight fans old and new.
+
+(Source: GKIDS, edited)"
+animeRelated	['Lupin III']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Laetitia', 'Mr. Bresson', 'Mrs. Bresson', 'Lambert', 'Gerald']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Sawashiro, Miyuki', 'Namikawa, Daisuke', 'Yamadera, Kouichi', 'Hirose, Suzu', 'Yoshida, Koutarou', 'Fujiwara, Tatsuya']
+animeStaff	[['Yamazaki, Takashi', 'Director, Script'], ['Inaizumi, Lyn', 'Theme Song Performance'], ['Monkey Punch', 'Original Creator'], ['Oono, Yuuji', 'Music']]

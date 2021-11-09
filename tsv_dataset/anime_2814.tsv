@@ -1,5 +1,5 @@
-animeTitle	b'Saiyuuki Reload Blast'
-animeType	b'TV'
+animeTitle	Saiyuuki Reload Blast
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.21
 animeUsers	9907
 animeRank	
-animePopularity	
-animeDescription	"b""At last, the Sanzou Party has arrived in India. In this foreign land, where the anomaly's influence runs rampant, their battles only heighten in their violence.\n\nAnd also awaiting them is their tragic fate from 500 years ago\xe2\x80\x94\n\nWhat will they find at the end of their long and treacherous journey?"""
-animeRelated	[b'Saiyuuki Reload Blast', b'Saiyuuki Reload Gunlock', b'Saiyuuki Reload: Zeroin']
-animeCharacters	[b'Genjou, Sanzou', b'Son, Gokuu', b'Cho, Hakkai', b'Sha, Gojou', b'Kougaiji', b'Gensui, Tenpou', b'Douji, Konzen', b'Taishou, Kenren', b'Jeep', b'Taishi, Nataku']
-animeVoices	[b'\nSeki, Toshihiko\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nKouda, Kaho\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakano, Hideaki\n\nDirector\n\n', b'\nTakakuwa, Hajime\n\nSound Director\n\n', b'\nTokumoto, Yoshinobu\n\nEpisode Director, Storyboard\n\n', b'\nGRANRODEO\n\nTheme Song Performance, Theme Song Composition, Theme Song Lyrics, Theme Song Arrangement\n\n']
+animePopularity	3011
+animeDescription	"At last, the Sanzou Party has arrived in India. In this foreign land, where the anomaly's influence runs rampant, their battles only heighten in their violence.
+
+And also awaiting them is their tragic fate from 500 years ago—
+
+What will they find at the end of their long and treacherous journey?"
+animeRelated	['Saiyuuki Reload Blast', 'Saiyuuki Reload Gunlock', 'Saiyuuki Reload: Zeroin']
+animeCharacters	['Genjou, Sanzou', 'Son, Gokuu', 'Cho, Hakkai', 'Sha, Gojou', 'Kougaiji', 'Gensui, Tenpou', 'Douji, Konzen', 'Taishou, Kenren', 'Jeep', 'Taishi, Nataku']
+animeVoices	['Seki, Toshihiko', 'Hoshi, Souichirou', 'Ishida, Akira', 'Hirata, Hiroaki', 'Kusao, Takeshi', 'Kouda, Kaho']
+animeStaff	[['Nakano, Hideaki', 'Director'], ['Takakuwa, Hajime', 'Sound Director'], ['Tokumoto, Yoshinobu', 'Episode Director, Storyboard'], ['GRANRODEO', 'Theme Song Performance, Theme Song Composition, Theme Song Lyrics, Theme Song Arrangement']]

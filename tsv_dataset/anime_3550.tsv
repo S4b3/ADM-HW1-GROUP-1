@@ -1,5 +1,5 @@
-animeTitle	b'The God of High School'
-animeType	b'TV'
+animeTitle	The God of High School
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.06
 animeUsers	358161
 animeRank	
-animePopularity	
-animeDescription	"b'The ""God of High School"" tournament has begun, seeking out the greatest fighter among Korean high school students! All martial arts styles, weapons, means, and methods of attaining victory are permitted. The prize? One wish for anything desired by the winner.\n\nTaekwondo expert Jin Mo-Ri is invited to participate in the competition. There he befriends karate specialist Han Dae-Wi and swordswoman Yu Mi-Ra, who both have entered for their own personal reasons. Mo-Ri knows that no opponent will be the same and that the matches will be the most ruthless he has ever fought in his life. But instead of being worried, this prospect excites him beyond belief.\n\nA secret lies beneath the facade of a transparent test of combat prowess the tournament claims to be\xe2\x80\x94one that has Korean political candidate Park Mu-Jin watching every fight with expectant, hungry eyes. Mo-Ri, Dae-Wi, and Mi-Ra are about to discover what it really means to become the God of High School.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'The God of High School', b'The God of Highschool']
-animeCharacters	[b'Jin, Mo-Ri', b'Han, Dae-Wi', b'Yu, Mi-Ra', b'Commissioner Q', b'Park, Il-Pyo', b'Park, Mu-Jin', b'Commissioner R', b'Commissioner O', b'Jegal, Taek', b'Jin, Tae-Jin']
-animeVoices	[b'\nTachibana, Tatsumaru\nJapanese\n', b'\nKumagai, Kentarou\nJapanese\n', b'\nOhashi, Ayaka\nJapanese\n', b'\nHamada, Kenji\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nKobayashi, Chikahiro\nJapanese\n', b'\nKaida, Yuki\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nPark, Seong-Hu\n\nDirector, Episode Director, Storyboard, Animation Director, Key Animation\n\n', b'\nKoizumi, Kisuke\n\nSound Director\n\n', b'\nCIX\n\nTheme Song Performance\n\n', b'\nKSUKE\n\nTheme Song Performance\n\n']
+animePopularity	214
+animeDescription	"The ""God of High School"" tournament has begun, seeking out the greatest fighter among Korean high school students! All martial arts styles, weapons, means, and methods of attaining victory are permitted. The prize? One wish for anything desired by the winner.
+
+Taekwondo expert Jin Mo-Ri is invited to participate in the competition. There he befriends karate specialist Han Dae-Wi and swordswoman Yu Mi-Ra, who both have entered for their own personal reasons. Mo-Ri knows that no opponent will be the same and that the matches will be the most ruthless he has ever fought in his life. But instead of being worried, this prospect excites him beyond belief.
+
+A secret lies beneath the facade of a transparent test of combat prowess the tournament claims to be—one that has Korean political candidate Park Mu-Jin watching every fight with expectant, hungry eyes. Mo-Ri, Dae-Wi, and Mi-Ra are about to discover what it really means to become the God of High School.
+
+[Written by MAL Rewrite]"
+animeRelated	['The God of High School', 'The God of Highschool']
+animeCharacters	['Jin, Mo-Ri', 'Han, Dae-Wi', 'Yu, Mi-Ra', 'Commissioner Q', 'Park, Il-Pyo', 'Park, Mu-Jin', 'Commissioner R', 'Commissioner O', 'Jegal, Taek', 'Jin, Tae-Jin']
+animeVoices	['Tachibana, Tatsumaru', 'Kumagai, Kentarou', 'Ohashi, Ayaka', 'Hamada, Kenji', 'Uchiyama, Kouki', 'Namikawa, Daisuke', 'Kobayashi, Chikahiro', 'Kaida, Yuki', 'Tsuda, Kenjirou']
+animeStaff	[['Park, Seong-Hu', 'Director, Episode Director, Storyboard, Animation Director, Key Animation'], ['Koizumi, Kisuke', 'Sound Director'], ['CIX', 'Theme Song Performance'], ['KSUKE', 'Theme Song Performance']]

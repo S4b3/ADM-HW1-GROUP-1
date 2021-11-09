@@ -1,5 +1,5 @@
-animeTitle	b'Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 2 - Tamashii'
-animeType	b'Movie'
+animeTitle	Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 2 - Tamashii
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.82
 animeUsers	4417
 animeRank	
-animePopularity	
-animeDescription	b'The second movie in the Washio Sumi no Shou trilogy.\n\n'
-animeRelated	[b'Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou', b'Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 1 - Tomodachi', b'Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 3 - Yakusoku', b'Yuuki Yuuna wa Yuushabu Shozoku 2']
-animeCharacters	[b'Tougou, Mimori', b'Nogi, Sonoko', b'Minowa, Gin', b'Aki']
-animeVoices	[b'\nMimori, Suzuko\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nHanamori, Yumiri\nJapanese\n', b'\nSatou, Rina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHanamori, Yumiri\n\nTheme Song Performance\n\n', b'\nBUNBUN\n\nOriginal Character Design\n\n', b'\nMONACA\n\nMusic\n\n']
+animePopularity	4868
+animeDescription	"The second movie in the Washio Sumi no Shou trilogy.
+
+"
+animeRelated	['Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou', 'Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 1 - Tomodachi', 'Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 3 - Yakusoku', 'Yuuki Yuuna wa Yuushabu Shozoku 2']
+animeCharacters	['Tougou, Mimori', 'Nogi, Sonoko', 'Minowa, Gin', 'Aki']
+animeVoices	['Mimori, Suzuko', 'Hanazawa, Kana', 'Hanamori, Yumiri', 'Satou, Rina']
+animeStaff	[['Hanamori, Yumiri', 'Theme Song Performance'], ['BUNBUN', 'Original Character Design'], ['MONACA', 'Music']]

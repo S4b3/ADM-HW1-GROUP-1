@@ -1,5 +1,5 @@
-animeTitle	b'BAR Kiraware Yasai'
-animeType	b'TV'
+animeTitle	BAR Kiraware Yasai
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.01
 animeUsers	812
 animeRank	
-animePopularity	
-animeDescription	"b""The anime adapts artist Daisuke Kimura's four-panel manga of the same name, the story centers on vegetables that children hate, everyone hesitates to eat, and are smelly. The series follows these vegetables as they visit a bar to share drinks together while they talk about their worries.\n\n(Source: ANN)"""
+animePopularity	8878
+animeDescription	"The anime adapts artist Daisuke Kimura's four-panel manga of the same name, the story centers on vegetables that children hate, everyone hesitates to eat, and are smelly. The series follows these vegetables as they visit a bar to share drinks together while they talk about their worries.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Bitter Gourd', b'Celery', b'Eggplant', b'Parsley', b'Tomato', b'Kimurabi', b'Master']
-animeVoices	[b'\nMurakami, Yuya\nJapanese\n', b'\nTanaka, Masato\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nMichii, Haruka\nJapanese\n', b'\nMaeda, Rena\nJapanese\n', b'\nTomishiro, Madoka\nJapanese\n', b'\nKondou, Takayuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMankyuu\n\nDirector, Script, Series Composition\n\n', b'\nFujiwara, Keiji\n\nSound Director\n\n', b'\nMaeda, Rena\n\nTheme Song Performance\n\n', b'\nSuzumu\n\nTheme Song Composition, Music\n\n']
+animeCharacters	['Bitter Gourd', 'Celery', 'Eggplant', 'Parsley', 'Tomato', 'Kimurabi', 'Master']
+animeVoices	['Murakami, Yuya', 'Tanaka, Masato', 'Fujiwara, Keiji', 'Michii, Haruka', 'Maeda, Rena', 'Tomishiro, Madoka', 'Kondou, Takayuki']
+animeStaff	[['Mankyuu', 'Director, Script, Series Composition'], ['Fujiwara, Keiji', 'Sound Director'], ['Maeda, Rena', 'Theme Song Performance'], ['Suzumu', 'Theme Song Composition, Music']]

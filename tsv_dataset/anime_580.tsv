@@ -1,5 +1,5 @@
-animeTitle	b'Osomatsu-san'
-animeType	b'TV'
+animeTitle	Osomatsu-san
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.98
 animeUsers	54254
 animeRank	
-animePopularity	
-animeDescription	"b""The majority of the Matsuno household is comprised of six identical siblings: self-centered leader Osomatsu, manly Karamatsu, voice of reason Choromatsu, cynical Ichimatsu, hyperactive Juushimatsu, and lovable Todomatsu. Despite each one of them being over the age of 20, they are incredibly lazy and have absolutely no motivation to get a job, choosing to live as NEETs instead. In the rare occurrence that they try to look for employment and are somehow able to land an interview, their unique personalities generally lead to their swift rejection.\n\nFrom trying to pick up girlfriends to finding the perfect job, the daily activities of the Matsuno brothers are never dull as they go on all sorts of crazy, and often downright bizarre, adventures. Though they desperately search for a way to improve their social standing, it won't be possible if they can't survive the various challenges that come with being sextuplets!\n\n[Written by MAL Rewrite]"""
-animeRelated	"[b'Osomatsu-san', b'Osomatsu-kun (1988)', b'Osomatsu-san Special', b'Osomatsu-san Short Film Series', b'Osomatsu-san: Haru no Zenkoku Dai Senbatsu Jouei-sai - Sentou Quiz 2', b'All-Free kono Natsu Ichioshi Monogatari Campaign Kokuchi Douga', b'Osomatsu-san: Ouma de Kobanashi', b'Mutsugo to Ouma no Monogatari', b'Matsumotokiyoshi x Osomatsu-san', b'Hashire! Osomatsu-san', b""Chocomatsu-san: Valentine's Day-hen"", b'Chocomatsu-san: White Day-hen', b'Osomatsu-san Movie 2', b'Osomatsu-san Movie 3', b'Osomatsu-san 2nd Season']"
-animeCharacters	[b'Matsuno, Ichimatsu', b'Matsuno, Karamatsu', b'Matsuno, Juushimatsu', b'Matsuno, Osomatsu', b'Matsuno, Choromatsu', b'Matsuno, Todomatsu', b'Iyami', b'Yowai, Totoko', b'Chibita', b'Dayon']
-animeVoices	[b'\nFukuyama, Jun\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nKokuryu, Sachi\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujita, Youichi\n\nDirector\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nInokawa, Shintarou\n\nEpisode Director\n\n', b'\nYamaguchi, Hikaru\n\nEpisode Director, Storyboard\n\n']
+animePopularity	1164
+animeDescription	"The majority of the Matsuno household is comprised of six identical siblings: self-centered leader Osomatsu, manly Karamatsu, voice of reason Choromatsu, cynical Ichimatsu, hyperactive Juushimatsu, and lovable Todomatsu. Despite each one of them being over the age of 20, they are incredibly lazy and have absolutely no motivation to get a job, choosing to live as NEETs instead. In the rare occurrence that they try to look for employment and are somehow able to land an interview, their unique personalities generally lead to their swift rejection.
+
+From trying to pick up girlfriends to finding the perfect job, the daily activities of the Matsuno brothers are never dull as they go on all sorts of crazy, and often downright bizarre, adventures. Though they desperately search for a way to improve their social standing, it won't be possible if they can't survive the various challenges that come with being sextuplets!
+
+[Written by MAL Rewrite]"
+animeRelated	"['Osomatsu-san', 'Osomatsu-kun (1988)', 'Osomatsu-san Special', 'Osomatsu-san Short Film Series', 'Osomatsu-san: Haru no Zenkoku Dai Senbatsu Jouei-sai - Sentou Quiz 2', 'All-Free kono Natsu Ichioshi Monogatari Campaign Kokuchi Douga', 'Osomatsu-san: Ouma de Kobanashi', 'Mutsugo to Ouma no Monogatari', 'Matsumotokiyoshi x Osomatsu-san', 'Hashire! Osomatsu-san', ""Chocomatsu-san: Valentine's Day-hen"", 'Chocomatsu-san: White Day-hen', 'Osomatsu-san Movie 2', 'Osomatsu-san Movie 3', 'Osomatsu-san 2nd Season']"
+animeCharacters	['Matsuno, Ichimatsu', 'Matsuno, Karamatsu', 'Matsuno, Juushimatsu', 'Matsuno, Osomatsu', 'Matsuno, Choromatsu', 'Matsuno, Todomatsu', 'Iyami', 'Yowai, Totoko', 'Chibita', 'Dayon']
+animeVoices	['Fukuyama, Jun', 'Nakamura, Yuuichi', 'Ono, Daisuke', 'Sakurai, Takahiro', 'Kamiya, Hiroshi', 'Irino, Miyu', 'Suzumura, Kenichi', 'Endou, Aya', 'Kokuryu, Sachi', 'Tobita, Nobuo']
+animeStaff	[['Fujita, Youichi', 'Director'], ['Kikuta, Hiromi', 'Sound Director'], ['Inokawa, Shintarou', 'Episode Director'], ['Yamaguchi, Hikaru', 'Episode Director, Storyboard']]

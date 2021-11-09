@@ -1,5 +1,5 @@
-animeTitle	b'Toradora!: Bentou no Gokui'
-animeType	b'Special'
+animeTitle	Toradora!: Bentou no Gokui
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.44
 animeUsers	87648
 animeRank	
-animePopularity	
-animeDescription	b'An unaired episode included in the Blu-ray box set.\n\nYuusaku brings an extravagant bento box to share with the class, which makes Ryuuji feel inferior about his own bento making skills. Desperate to beat his bentos, Ryuuji obsessively tries to compete against them to the point where he even brings a rice cooker to school. After Taiga brings him some salty onigiri, Ryuuji realises that the true meaning of bentos is not the taste, but the feelings that are put into it.\n\n(Source: Wikipedia)'
-animeRelated	[b'Toradora!']
-animeCharacters	[b'Aisaka, Taiga', b'Takasu, Ryuuji', b'Kushieda, Minori', b'Kawashima, Ami', b'Kitamura, Yuusaku', b'Inko', b'Takasu, Yasuko', b'Haruta, Kouji', b'Koigakubo, Yuri', b'Noto, Hisamitsu']
-animeVoices	[b'\nKugimiya, Rie\nJapanese\n', b'\nMajima, Junji\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nNojima, Hirofumi\nJapanese\n', b'\nGotou, Saori\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nOkitsu, Kazuyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nOkada, Mari\n\nScript\n\n', b'\nNagai, Tatsuyuki\n\nStoryboard\n\n', b'\nKugimiya, Rie\n\nTheme Song Performance\n\n']
+animePopularity	1139
+animeDescription	"An unaired episode included in the Blu-ray box set.
+
+Yuusaku brings an extravagant bento box to share with the class, which makes Ryuuji feel inferior about his own bento making skills. Desperate to beat his bentos, Ryuuji obsessively tries to compete against them to the point where he even brings a rice cooker to school. After Taiga brings him some salty onigiri, Ryuuji realises that the true meaning of bentos is not the taste, but the feelings that are put into it.
+
+(Source: Wikipedia)"
+animeRelated	['Toradora!']
+animeCharacters	['Aisaka, Taiga', 'Takasu, Ryuuji', 'Kushieda, Minori', 'Kawashima, Ami', 'Kitamura, Yuusaku', 'Inko', 'Takasu, Yasuko', 'Haruta, Kouji', 'Koigakubo, Yuri', 'Noto, Hisamitsu']
+animeVoices	['Kugimiya, Rie', 'Majima, Junji', 'Horie, Yui', 'Kitamura, Eri', 'Nojima, Hirofumi', 'Gotou, Saori', 'Ohara, Sayaka', 'Yoshino, Hiroyuki', 'Tanaka, Rie', 'Okitsu, Kazuyuki']
+animeStaff	[['Aketagawa, Jin', 'Sound Director'], ['Okada, Mari', 'Script'], ['Nagai, Tatsuyuki', 'Storyboard'], ['Kugimiya, Rie', 'Theme Song Performance']]

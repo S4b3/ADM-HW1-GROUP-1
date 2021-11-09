@@ -1,5 +1,5 @@
-animeTitle	b'Shingeki no Kyojin Picture Drama'
-animeType	b'Special'
+animeTitle	Shingeki no Kyojin Picture Drama
+animeType	Special
 animeNumEpisode	9
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	6.63
 animeUsers	23110
 animeRank	
-animePopularity	
-animeDescription	b'Shingeki no Kyojin Picture Drama  is a series of Flash animated gag shorts included with the Blu-ray Disc/DVD releases, featuring the characters in chibi form. Consisting of nine episodes, this series takes a light hearted and comedic take on the the SNK series with many memorable scenes and dialogues from the original series presented in humorous way. Each episodes depicts 2-3 days in the training of the 104th Trainee Corps as they train to become the hope for mankind in the war against the Titans.\n'
-animeRelated	[b'Shingeki no Kyojin']
-animeCharacters	[b'Ackerman, Mikasa', b'Yeager, Eren', b'Arlert, Armin', b'Levi', b'Smith, Erwin', b'Zo\xc3\xab, Hange', b'Blouse, Sasha', b'Braun, Reiner', b'Kirstein, Jean', b'Leonhart, Annie']
-animeVoices	[b'\nIshikawa, Yui\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nShimamura, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorii, Kenshirou\n\nDirector, Script\n\n', b'\nSawano, Hiroyuki\n\nMusic\n\n', b'\nIsayama, Hajime\n\nOriginal Creator\n\n']
+animePopularity	2528
+animeDescription	"Shingeki no Kyojin Picture Drama  is a series of Flash animated gag shorts included with the Blu-ray Disc/DVD releases, featuring the characters in chibi form. Consisting of nine episodes, this series takes a light hearted and comedic take on the the SNK series with many memorable scenes and dialogues from the original series presented in humorous way. Each episodes depicts 2-3 days in the training of the 104th Trainee Corps as they train to become the hope for mankind in the war against the Titans.
+"
+animeRelated	['Shingeki no Kyojin']
+animeCharacters	['Ackerman, Mikasa', 'Yeager, Eren', 'Arlert, Armin', 'Levi', 'Smith, Erwin', 'Zoë, Hange', 'Blouse, Sasha', 'Braun, Reiner', 'Kirstein, Jean', 'Leonhart, Annie']
+animeVoices	['Ishikawa, Yui', 'Kaji, Yuki', 'Inoue, Marina', 'Kamiya, Hiroshi', 'Ono, Daisuke', 'Park, Romi', 'Kobayashi, Yuu', 'Hosoya, Yoshimasa', 'Taniyama, Kishou', 'Shimamura, Yuu']
+animeStaff	[['Morii, Kenshirou', 'Director, Script'], ['Sawano, Hiroyuki', 'Music'], ['Isayama, Hajime', 'Original Creator']]

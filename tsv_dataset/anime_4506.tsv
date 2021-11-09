@@ -1,5 +1,5 @@
-animeTitle	b'Mahoujin Guru Guru Movie'
-animeType	b'Movie'
+animeTitle	Mahoujin Guru Guru Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.83
 animeUsers	612
 animeRank	
-animePopularity	
-animeDescription	"b'The hero Nike and magic user Kukuri learn of the ""Pickle of Happiness"", an item that will grant a wish to the one who eats it. With the help of old friends, they must beat the monsters to the Pickle and convince its guardian dragon to give it to them. \n\n(Source: ANN)'"
-animeRelated	[b'Mahoujin Guruguru']
-animeCharacters	[b'Kukuri', b'Nike', b'Eldol, Udberg', b'Shunamur, Jujuku', b'Gipple']
-animeVoices	[b'\nOgata, Kenichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakanishi, Nobuaki\n\nDirector\n\n', b'\nKase, Masahiro\n\nAnimation Director, Character Design\n\n', b'\nChiba, Midori\n\nArt Director\n\n', b'\nSasaki, Masakatsu\n\nKey Animation\n\n']
+animePopularity	9723
+animeDescription	"The hero Nike and magic user Kukuri learn of the ""Pickle of Happiness"", an item that will grant a wish to the one who eats it. With the help of old friends, they must beat the monsters to the Pickle and convince its guardian dragon to give it to them. 
+
+(Source: ANN)"
+animeRelated	['Mahoujin Guruguru']
+animeCharacters	['Kukuri', 'Nike', 'Eldol, Udberg', 'Shunamur, Jujuku', 'Gipple']
+animeVoices	['Ogata, Kenichi']
+animeStaff	[['Nakanishi, Nobuaki', 'Director'], ['Kase, Masahiro', 'Animation Director, Character Design'], ['Chiba, Midori', 'Art Director'], ['Sasaki, Masakatsu', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Darkside Blues'
-animeType	b'Movie'
+animeTitle	Darkside Blues
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.07
 animeUsers	3747
 animeRank	
-animePopularity	
-animeDescription	"b'The Persona Century Corporation has purchased nearly every parcel of land on earth. Dissension is not tolerated within the corporation\'s borders and those who oppose Persona are dealt with swiftly. Of those few places not yet under Persona\'s control is the free town of Kabuki-cho, also known as ""The Dark Side of Tokyo"". Within the town, under the leadership of a woman named Mai, is a small resistance group called Messiah. Into this world steps a man who takes the sobriquet of Kabuki-cho: Darkside. Sealed up in another dimension eighteen years ago by Persona Century, Darkside now returns to aid Messiah using his unique mystic power of renewal. \n\n(Source: ANN)'"
-animeRelated	[b'Darkside Blues']
-animeCharacters	[b'Darkside', b'Mai', b'Kenzo', b'Katari', b'Tatsuya', b'Jingo', b'Old Woman', b'Hozuki, Tamaki', b'Enji', b'Delirium']
-animeVoices	[b'\nOu, Natsuki\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nYanaka, Hiroshi\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nHoriuchi, Keizo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKogawa, Yoriyasu\n\nDirector\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nSekijima, Mayori\n\nScript\n\n', b'\nOu, Natsuki\n\nTheme Song Performance\n\n']
+animePopularity	5611
+animeDescription	"The Persona Century Corporation has purchased nearly every parcel of land on earth. Dissension is not tolerated within the corporation's borders and those who oppose Persona are dealt with swiftly. Of those few places not yet under Persona's control is the free town of Kabuki-cho, also known as ""The Dark Side of Tokyo"". Within the town, under the leadership of a woman named Mai, is a small resistance group called Messiah. Into this world steps a man who takes the sobriquet of Kabuki-cho: Darkside. Sealed up in another dimension eighteen years ago by Persona Century, Darkside now returns to aid Messiah using his unique mystic power of renewal. 
+
+(Source: ANN)"
+animeRelated	['Darkside Blues']
+animeCharacters	['Darkside', 'Mai', 'Kenzo', 'Katari', 'Tatsuya', 'Jingo', 'Old Woman', 'Hozuki, Tamaki', 'Enji', 'Delirium']
+animeVoices	['Ou, Natsuki', 'Mitsuishi, Kotono', 'Ootsuka, Akio', 'Sasaki, Nozomu', 'Matsumoto, Yasunori', 'Yanaka, Hiroshi', 'Katsuki, Masako', 'Yamadera, Kouichi', 'Horiuchi, Keizo']
+animeStaff	[['Kogawa, Yoriyasu', 'Director'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Sekijima, Mayori', 'Script'], ['Ou, Natsuki', 'Theme Song Performance']]

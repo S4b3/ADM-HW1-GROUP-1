@@ -1,5 +1,5 @@
-animeTitle	b'Karasu Tengu Kabuto: Ougon no Me no Kemono'
-animeType	b'OVA'
+animeTitle	Karasu Tengu Kabuto: Ougon no Me no Kemono
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.73
 animeUsers	480
 animeRank	
-animePopularity	
-animeDescription	b'Kabuto is a tengu who has to save a princess from fortress which is full of monster-mecha hybrids in an alternate reality of feudal Japan. \n\n(Source: ANN)'
-animeRelated	[b'Karasu Tengu Kabuto']
-animeCharacters	[b'Kabuto']
+animePopularity	10572
+animeDescription	"Kabuto is a tengu who has to save a princess from fortress which is full of monster-mecha hybrids in an alternate reality of feudal Japan. 
+
+(Source: ANN)"
+animeRelated	['Karasu Tengu Kabuto']
+animeCharacters	['Kabuto']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirai, Hisashi\n\nAnimation Director\n\n', b'\nTerasawa, Buichi\n\nOriginal Creator\n\n', b'\nFukazawa, Manabu\n\nIn-Between Animation\n\n', b'\nSeymour, Kevin\n\nADR Director\n\n']
+animeStaff	[['Hirai, Hisashi', 'Animation Director'], ['Terasawa, Buichi', 'Original Creator'], ['Fukazawa, Manabu', 'In-Between Animation'], ['Seymour, Kevin', 'ADR Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Serial Experiments Lain'
-animeType	b'TV'
+animeTitle	Serial Experiments Lain
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.06
 animeUsers	215354
 animeRank	
-animePopularity	
-animeDescription	"b""Lain Iwakura, an awkward and introverted fourteen-year-old, is one of the many girls from her school to receive a disturbing email from her classmate Chisa Yomoda\xe2\x80\x94the very same Chisa who recently committed suicide. Lain has neither the desire nor the experience to handle even basic technology; yet, when the technophobe opens the email, it leads her straight into the Wired, a virtual world of communication networks similar to what we know as the internet. Lain's life is turned upside down as she begins to encounter cryptic mysteries one after another. Strange men called the Men in Black begin to appear wherever she goes, asking her questions and somehow knowing more about her than even she herself knows. With the boundaries between reality and cyberspace rapidly blurring, Lain is plunged into more surreal and bizarre events where identity, consciousness, and perception are concepts that take on new meanings.\n\nWritten by Chiaki J. Konaka, whose other works include Texhnolyze, Serial Experiments Lain is a psychological avant-garde mystery series that follows Lain as she makes crucial choices that will affect both the real world and the Wired. In closing one world and opening another, only Lain will realize the significance of their presence.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Serial Experiments Lain: The Nightmare of Fabrication']
-animeCharacters	[b'Iwakura, Lain', b'Mizuki, Arisu', b'Eiri, Masami', b'Iwakura, Yasuo', b'Karl', b'Yomoda, Chisa', b'Iwakura, Mika', b'Taro', b'Sui-Xi, Lin', b'J.J']
-animeVoices	[b'\nShimizu, Kaori\nJapanese\n', b'\nAsada, Yoko\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nOobayashi, Ryuusuke\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nMutou, Sumi\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nTakimoto, Keito\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n', b'\nChikada, Wasei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Yasuyuki\n\nProducer, Original Creator, Planning\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nNakamura, Ryuutarou\n\nDirector, Episode Director, Storyboard\n\n', b'\nMurata, Masahiko\n\nDirector\n\n']
+animePopularity	255
+animeDescription	"Lain Iwakura, an awkward and introverted fourteen-year-old, is one of the many girls from her school to receive a disturbing email from her classmate Chisa Yomoda—the very same Chisa who recently committed suicide. Lain has neither the desire nor the experience to handle even basic technology; yet, when the technophobe opens the email, it leads her straight into the Wired, a virtual world of communication networks similar to what we know as the internet. Lain's life is turned upside down as she begins to encounter cryptic mysteries one after another. Strange men called the Men in Black begin to appear wherever she goes, asking her questions and somehow knowing more about her than even she herself knows. With the boundaries between reality and cyberspace rapidly blurring, Lain is plunged into more surreal and bizarre events where identity, consciousness, and perception are concepts that take on new meanings.
+
+Written by Chiaki J. Konaka, whose other works include Texhnolyze, Serial Experiments Lain is a psychological avant-garde mystery series that follows Lain as she makes crucial choices that will affect both the real world and the Wired. In closing one world and opening another, only Lain will realize the significance of their presence.
+
+[Written by MAL Rewrite]"
+animeRelated	['Serial Experiments Lain: The Nightmare of Fabrication']
+animeCharacters	['Iwakura, Lain', 'Mizuki, Arisu', 'Eiri, Masami', 'Iwakura, Yasuo', 'Karl', 'Yomoda, Chisa', 'Iwakura, Mika', 'Taro', 'Sui-Xi, Lin', 'J.J']
+animeVoices	['Shimizu, Kaori', 'Asada, Yoko', 'Hayami, Show', 'Oobayashi, Ryuusuke', 'Nakata, Jouji', 'Mutou, Sumi', 'Kawasumi, Ayako', 'Takimoto, Keito', 'Yamazaki, Takumi', 'Chikada, Wasei']
+animeStaff	[['Ueda, Yasuyuki', 'Producer, Original Creator, Planning'], ['Maseba, Yutaka', 'Producer'], ['Nakamura, Ryuutarou', 'Director, Episode Director, Storyboard'], ['Murata, Masahiko', 'Director']]

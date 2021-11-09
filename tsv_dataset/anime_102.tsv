@@ -1,5 +1,5 @@
-animeTitle	b'Gintama Movie 1: Shinyaku Benizakura-hen'
-animeType	b'Movie'
+animeTitle	Gintama Movie 1: Shinyaku Benizakura-hen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.52
 animeUsers	77242
 animeRank	
-animePopularity	
-animeDescription	"b""Gintoki and his Yorozuya friends (or rather, employees suffering under labor violations), Shinpachi and Kagura, continue to scrape by in the futuristic, alien-infested city of Edo. They take on whatever work they can find while trying not to get involved in anything too dangerous. But when Katsura, the leader of the Joui rebels and Gintoki's long-time acquaintance, disappears after being brutally attacked by an unknown assassin, Shinpachi and Kagura begin an investigation into his whereabouts and the identity of the assailant. Meanwhile, Gintoki takes on a seemingly unrelated job: the blacksmith Tetsuya requests that Gin recover a strange and powerful sword called the Benizakura which was recently stolen.\n\nAs the two investigations gradually intersect, the Yorozuya crew find themselves in the midst of a major conspiracy that hinges on the sinister nature of the Benizakura sword. Gintoki resolves to take the fight directly to the enemy headquarters, and together with a few unexpected allies, sets out on one of his most perilous jobs yet.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Gintama', b'Gintama: Shinyaku Benizakura-hen']
-animeCharacters	[b'Sakata, Gintoki', b'Kagura', b'Katsura, Kotarou', b'Shimura, Shinpachi', b'Elizabeth', b'Hijikata, Toushirou', b'Okita, Sougo', b'Takasugi, Shinsuke', b'Hasegawa, Taizou', b'Kamui']
-animeVoices	[b'\nSugita, Tomokazu\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nTakamatsu, Shinji\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nHino, Satoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAzuma, Fukashi\n\nProducer\n\n', b'\nTakamatsu, Shinji\n\nDirector\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nYoshimura, Ai\n\nEpisode Director\n\n']
+animePopularity	1296
+animeDescription	"Gintoki and his Yorozuya friends (or rather, employees suffering under labor violations), Shinpachi and Kagura, continue to scrape by in the futuristic, alien-infested city of Edo. They take on whatever work they can find while trying not to get involved in anything too dangerous. But when Katsura, the leader of the Joui rebels and Gintoki's long-time acquaintance, disappears after being brutally attacked by an unknown assassin, Shinpachi and Kagura begin an investigation into his whereabouts and the identity of the assailant. Meanwhile, Gintoki takes on a seemingly unrelated job: the blacksmith Tetsuya requests that Gin recover a strange and powerful sword called the Benizakura which was recently stolen.
+
+As the two investigations gradually intersect, the Yorozuya crew find themselves in the midst of a major conspiracy that hinges on the sinister nature of the Benizakura sword. Gintoki resolves to take the fight directly to the enemy headquarters, and together with a few unexpected allies, sets out on one of his most perilous jobs yet.
+
+[Written by MAL Rewrite]"
+animeRelated	['Gintama', 'Gintama: Shinyaku Benizakura-hen']
+animeCharacters	['Sakata, Gintoki', 'Kagura', 'Katsura, Kotarou', 'Shimura, Shinpachi', 'Elizabeth', 'Hijikata, Toushirou', 'Okita, Sougo', 'Takasugi, Shinsuke', 'Hasegawa, Taizou', 'Kamui']
+animeVoices	['Sugita, Tomokazu', 'Kugimiya, Rie', 'Ishida, Akira', 'Sakaguchi, Daisuke', 'Takamatsu, Shinji', 'Nakai, Kazuya', 'Suzumura, Kenichi', 'Koyasu, Takehito', 'Hino, Satoshi']
+animeStaff	[['Azuma, Fukashi', 'Producer'], ['Takamatsu, Shinji', 'Director'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Yoshimura, Ai', 'Episode Director']]

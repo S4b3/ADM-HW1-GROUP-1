@@ -1,5 +1,5 @@
-animeTitle	b'Monster Farm: Legend e no Michi'
-animeType	b'TV'
+animeTitle	Monster Farm: Legend e no Michi
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.75
 animeUsers	7203
 animeRank	
-animePopularity	
-animeDescription	"b""Genki is a boy who loves playing video games. One day he's zapped into the world of Monster Rancher and meets the girl Holly and the monsters Mochi, Suezo, Golem, Tiger and Hare.\n\nContinuing from where the original story left off, Genki and friends journey to conquer the legend cup in hopes of freeing Holly's father from the mystery disc.\n\n(Source: AniDB)"""
-animeRelated	[b'Monster Farm: Enbanseki no Himitsu']
-animeCharacters	[b'Rygar', b'Sakura, Genki', b'Suezo', b'Mocchi', b'Holly', b'Golem', b'Ham', b'Gingi Rygar', b'Allan']
-animeVoices	[b'\nYao, Kazuki\nJapanese\n', b'\nYokoyama, Chisa\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n', b'\nKouda, Mariko\nJapanese\n', b'\nUchida, Naoya\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n', b'\nNakamura, Daiki\nJapanese\n', b'\nNaitou, Ryou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYano, Hiroyuki\n\nDirector\n\n', b'\nKuriyama, Yoshihide\n\nEpisode Director\n\n', b'\nIshida, Tooru\n\nEpisode Director\n\n', b'\nKomura, Toshiaki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	4564
+animeDescription	"Genki is a boy who loves playing video games. One day he's zapped into the world of Monster Rancher and meets the girl Holly and the monsters Mochi, Suezo, Golem, Tiger and Hare.
+
+Continuing from where the original story left off, Genki and friends journey to conquer the legend cup in hopes of freeing Holly's father from the mystery disc.
+
+(Source: AniDB)"
+animeRelated	['Monster Farm: Enbanseki no Himitsu']
+animeCharacters	['Rygar', 'Sakura, Genki', 'Suezo', 'Mocchi', 'Holly', 'Golem', 'Ham', 'Gingi Rygar', 'Allan']
+animeVoices	['Yao, Kazuki', 'Yokoyama, Chisa', 'Takagi, Wataru', 'Shiratori, Yuri', 'Kouda, Mariko', 'Uchida, Naoya', 'Sasaki, Nozomu', 'Nakamura, Daiki', 'Naitou, Ryou']
+animeStaff	[['Yano, Hiroyuki', 'Director'], ['Kuriyama, Yoshihide', 'Episode Director'], ['Ishida, Tooru', 'Episode Director'], ['Komura, Toshiaki', 'Episode Director, Storyboard']]

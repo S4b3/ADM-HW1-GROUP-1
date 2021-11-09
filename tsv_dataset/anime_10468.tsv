@@ -1,5 +1,5 @@
-animeTitle	b'Chou Kousoku Gran Doll'
-animeType	b'OVA'
+animeTitle	Chou Kousoku Gran Doll
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.47
 animeUsers	611
 animeRank	
-animePopularity	
-animeDescription	b'Hikaru has always believed herself to be just a normal high school girl...well, as normal as a teenager with a genius mad scientist for a father. She spends her time with her best friend, day dreaming about the boy she loves and watching her favoite super hero show. One day, the past that she has knows nothing about comes back to haunt her. She is shocked to learn that she is the last surviving member of royal line from a far away planet. Even more, she finds out that she has been protecting the ultimate armour and that it can decide the fate of the entire galaxy. \n\n(Source: ANN)'
+animePopularity	9740
+animeDescription	"Hikaru has always believed herself to be just a normal high school girl...well, as normal as a teenager with a genius mad scientist for a father. She spends her time with her best friend, day dreaming about the boy she loves and watching her favoite super hero show. One day, the past that she has knows nothing about comes back to haunt her. She is shocked to learn that she is the last surviving member of royal line from a far away planet. Even more, she finds out that she has been protecting the ultimate armour and that it can decide the fate of the entire galaxy. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Sigil', b'Amagi, Hikaru', b'Narasaki-senpai', b'Peos', b'Garbiggi', b'Gran Knight', b'Friedshalf', b'Amagi, Miki', b'Saotome, Haruna', b'Amagi, Koichi']
-animeVoices	[b'\nMiyamura, Yuko\nJapanese\n', b'\nIwao, Junko\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nUgaki, Hidenari\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nIkezawa, Haruna\nJapanese\n', b'\nYasui, Kunihiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTonokatsu, Hideki\n\nDirector\n\n', b'\nTanaka, Hideyuki\n\nSound Director\n\n', b'\nIwao, Junko\n\nTheme Song Performance\n\n', b'\nWatanabe, Shigeru\n\nPlanning\n\n']
+animeCharacters	['Sigil', 'Amagi, Hikaru', 'Narasaki-senpai', 'Peos', 'Garbiggi', 'Gran Knight', 'Friedshalf', 'Amagi, Miki', 'Saotome, Haruna', 'Amagi, Koichi']
+animeVoices	['Miyamura, Yuko', 'Iwao, Junko', 'Morikawa, Toshiyuki', 'Ootsuka, Akio', 'Ugaki, Hidenari', 'Midorikawa, Hikaru', 'Mizutani, Yuuko', 'Ikezawa, Haruna', 'Yasui, Kunihiko']
+animeStaff	[['Tonokatsu, Hideki', 'Director'], ['Tanaka, Hideyuki', 'Sound Director'], ['Iwao, Junko', 'Theme Song Performance'], ['Watanabe, Shigeru', 'Planning']]

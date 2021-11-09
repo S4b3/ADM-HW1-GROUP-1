@@ -1,5 +1,5 @@
-animeTitle	b'Sora no Otoshimono: Tokeijikake no Angeloid'
-animeType	b'Movie'
+animeTitle	Sora no Otoshimono: Tokeijikake no Angeloid
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.59
 animeUsers	65369
 animeRank	
-animePopularity	
-animeDescription	"b""Movie adaptation of the Sora no Otoshimono manga, based on Kazane Hiyori's arc."""
-animeRelated	[b'Sora no Otoshimono', b'Sora no Otoshimono: Forte', b'Sora no Otoshimono Final: Eternal My Master']
-animeCharacters	[b'Ikaros', b'Sakurai, Tomoki', b'Nymph', b'Astraea', b'Sugata, Eishirou', b'Kazane, Hiyori', b'Satsukitane, Mikako', b'Mitsuki, Sohara', b'Chaos', b'Daedalus']
-animeVoices	[b'\nHayami, Saori\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nNomizu, Iori\nJapanese\n', b'\nFukuhara, Kaori\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n', b'\nMina\nJapanese\n', b'\nOogame, Asuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYanagisawa, Tetsuya\n\nDirector\n\n', b'\nSaitou, Hisashi\n\nDirector\n\n', b'\nTakahashi, Tsuyoshi\n\nSound Director\n\n', b'\nTakashima, Daisuke\n\nEpisode Director\n\n']
+animePopularity	1386
+animeDescription	Movie adaptation of the Sora no Otoshimono manga, based on Kazane Hiyori's arc.
+animeRelated	['Sora no Otoshimono', 'Sora no Otoshimono: Forte', 'Sora no Otoshimono Final: Eternal My Master']
+animeCharacters	['Ikaros', 'Sakurai, Tomoki', 'Nymph', 'Astraea', 'Sugata, Eishirou', 'Kazane, Hiyori', 'Satsukitane, Mikako', 'Mitsuki, Sohara', 'Chaos', 'Daedalus']
+animeVoices	['Hayami, Saori', 'Hoshi, Souichirou', 'Nomizu, Iori', 'Fukuhara, Kaori', 'Suzuki, Tatsuhisa', 'Hikasa, Youko', 'Takagaki, Ayahi', 'Mina', 'Oogame, Asuka']
+animeStaff	[['Yanagisawa, Tetsuya', 'Director'], ['Saitou, Hisashi', 'Director'], ['Takahashi, Tsuyoshi', 'Sound Director'], ['Takashima, Daisuke', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'K: Missing Kings'
-animeType	b'Movie'
+animeTitle	K: Missing Kings
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.67
 animeUsers	109582
 animeRank	
-animePopularity	
-animeDescription	"b""It's been a year since the disappearance of Shiro, the Silver King; Kurou Yatogami and Neko have been diligent in their search, but to no end. Their investigation leads to a run-in with members of the now disbanded Red Clan HOMRA\xe2\x80\x94Rikio Kamamoto and Anna Kushina\xe2\x80\x94being pursued by the Green Clan, who desire Anna's powers for their own ends.\n\nNow, the members of Scepter 4 are called upon alongside Kurou and Neko in order to rescue Anna, the mascot, and only female member of the ruined Red Clan, from the enemy's clutches and hopefully find Shiro using the young girl's powers. Amidst crisis, the group is forced into a power struggle when the Green Clan threatens to overtake the Gold King's domain.\n\nThe second step in the K Project series, K: Missing Kings, continues the story of a young boy caught up in a psychic war between seven kings, and showcases each character's struggles after the losses of their respective Kings.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'K: Missing Kings', b'K', b'K: Return of Kings', b'K: Missing Kings - Manner Movie']
-animeCharacters	[b'Neko', b'Yatogami, Kurou', b'Kushina, Anna', b'Suou, Mikoto', b'Yata, Misaki', b'Fushimi, Saruhiko', b'Isana, Yashiro', b'Munakata, Reishi', b'Totsuka, Tatara', b'Kusanagi, Izumo']
-animeVoices	[b'\nKomatsu, Mikako\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakanishi, Go\n\nProducer\n\n', b'\nSuzuki, Shingo\n\nDirector, Storyboard, Character Design\n\n', b'\nKanazawa, Hiromichi\n\nDirector, Storyboard\n\n', b'\nTanaka, Ryou\n\nSound Director\n\n']
+animePopularity	783
+animeDescription	"It's been a year since the disappearance of Shiro, the Silver King; Kurou Yatogami and Neko have been diligent in their search, but to no end. Their investigation leads to a run-in with members of the now disbanded Red Clan HOMRA—Rikio Kamamoto and Anna Kushina—being pursued by the Green Clan, who desire Anna's powers for their own ends.
+
+Now, the members of Scepter 4 are called upon alongside Kurou and Neko in order to rescue Anna, the mascot, and only female member of the ruined Red Clan, from the enemy's clutches and hopefully find Shiro using the young girl's powers. Amidst crisis, the group is forced into a power struggle when the Green Clan threatens to overtake the Gold King's domain.
+
+The second step in the K Project series, K: Missing Kings, continues the story of a young boy caught up in a psychic war between seven kings, and showcases each character's struggles after the losses of their respective Kings.
+
+[Written by MAL Rewrite]"
+animeRelated	['K: Missing Kings', 'K', 'K: Return of Kings', 'K: Missing Kings - Manner Movie']
+animeCharacters	['Neko', 'Yatogami, Kurou', 'Kushina, Anna', 'Suou, Mikoto', 'Yata, Misaki', 'Fushimi, Saruhiko', 'Isana, Yashiro', 'Munakata, Reishi', 'Totsuka, Tatara', 'Kusanagi, Izumo']
+animeVoices	['Komatsu, Mikako', 'Ono, Daisuke', 'Horie, Yui', 'Tsuda, Kenjirou', 'Fukuyama, Jun', 'Miyano, Mamoru', 'Namikawa, Daisuke', 'Sugita, Tomokazu', 'Kaji, Yuki', 'Sakurai, Takahiro']
+animeStaff	[['Nakanishi, Go', 'Producer'], ['Suzuki, Shingo', 'Director, Storyboard, Character Design'], ['Kanazawa, Hiromichi', 'Director, Storyboard'], ['Tanaka, Ryou', 'Sound Director']]

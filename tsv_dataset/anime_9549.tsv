@@ -1,5 +1,5 @@
-animeTitle	b'Sword Gai The Animation Part II'
-animeType	b'ONA'
+animeTitle	Sword Gai The Animation Part II
+animeType	ONA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.75
 animeUsers	11701
 animeRank	
-animePopularity	
-animeDescription	b'Part II of Sword Gai: The Animation.'
-animeRelated	[b'Sword Gai', b'Sword Gai The Animation']
-animeCharacters	[b'Ogata, Gai', b'Himiko', b'Matoba, Shin', b'Ogata, Sayaka', b'Ichijou, Seiya', b'Ariga, Issei', b'Kazumo', b'Kagami, Kyouka', b'Tanaka, Yasuko', b'Kiyomi']
-animeVoices	[b'\nUemura, Yuuto\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nAisaka, Yuuka\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nTakano, Urara\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIkezoe, Takahiro\n\nDirector\n\n', b'\nTomohito, Naka\n\nDirector\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nUemura, Yuuto\n\nTheme Song Performance\n\n']
+animePopularity	3796
+animeDescription	Part II of Sword Gai: The Animation.
+animeRelated	['Sword Gai', 'Sword Gai The Animation']
+animeCharacters	['Ogata, Gai', 'Himiko', 'Matoba, Shin', 'Ogata, Sayaka', 'Ichijou, Seiya', 'Ariga, Issei', 'Kazumo', 'Kagami, Kyouka', 'Tanaka, Yasuko', 'Kiyomi']
+animeVoices	['Uemura, Yuuto', 'Uchida, Maaya', 'Shimazaki, Nobunaga', 'Aisaka, Yuuka', 'Satou, Rina', 'Takano, Urara']
+animeStaff	[['Ikezoe, Takahiro', 'Director'], ['Tomohito, Naka', 'Director'], ['Kameyama, Toshiki', 'Sound Director'], ['Uemura, Yuuto', 'Theme Song Performance']]

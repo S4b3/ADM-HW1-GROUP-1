@@ -1,5 +1,5 @@
-animeTitle	b'Hakuouki Sekkaroku'
-animeType	b'OVA'
+animeTitle	Hakuouki Sekkaroku
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.62
 animeUsers	10376
 animeRank	
-animePopularity	
-animeDescription	"b""This OVA takes place in between episodes 8 and 9 of the first season of Hakuouki.\n\nYukimura Chizuru goes on a reconnaissance mission in Shimabara as a geiko for the Shinsengumi. Each episode unfolds the events of the days leading up to, during, and after the operation. It intermittently reveals each captain's involvement as well as that of a few demons in the affair. Each individual episode primarily focuses from the third person perspectives of: Okita Souji, Saito Hajime, Harada Sanosuke, Toudou Heisuke, Hijikata Toshizo, and Kazama Chikage."""
-animeRelated	[b'Hakuouki Sekkaroku', b'Hakuouki']
-animeCharacters	[b'Saitou, Hajime', b'Okita, Souji', b'Hijikata, Toshizou', b'Harada, Sanosuke', b'Toudou, Heisuke', b'Yukimura, Chizuru', b'Kazama, Chikage', b'Nagakura, Shinpachi', b'Sannan, Keisuke', b'Yamazaki, Susumu']
-animeVoices	[b'\nToriumi, Kousuke\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nTsuboi, Tomohiro\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nSuzuki, Takayuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamasaki, Osamu\n\nDirector, Storyboard\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nOobari, Masami\n\nEpisode Director, Storyboard\n\n', b'\nTakamura, Yuuta\n\nEpisode Director\n\n']
+animePopularity	3577
+animeDescription	"This OVA takes place in between episodes 8 and 9 of the first season of Hakuouki.
+
+Yukimura Chizuru goes on a reconnaissance mission in Shimabara as a geiko for the Shinsengumi. Each episode unfolds the events of the days leading up to, during, and after the operation. It intermittently reveals each captain's involvement as well as that of a few demons in the affair. Each individual episode primarily focuses from the third person perspectives of: Okita Souji, Saito Hajime, Harada Sanosuke, Toudou Heisuke, Hijikata Toshizo, and Kazama Chikage."
+animeRelated	['Hakuouki Sekkaroku', 'Hakuouki']
+animeCharacters	['Saitou, Hajime', 'Okita, Souji', 'Hijikata, Toshizou', 'Harada, Sanosuke', 'Toudou, Heisuke', 'Yukimura, Chizuru', 'Kazama, Chikage', 'Nagakura, Shinpachi', 'Sannan, Keisuke', 'Yamazaki, Susumu']
+animeVoices	['Toriumi, Kousuke', 'Morikubo, Shoutarou', 'Miki, Shinichiro', 'Yusa, Kouji', 'Yoshino, Hiroyuki', 'Kuwashima, Houko', 'Tsuda, Kenjirou', 'Tsuboi, Tomohiro', 'Tobita, Nobuo', 'Suzuki, Takayuki']
+animeStaff	[['Yamasaki, Osamu', 'Director, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Oobari, Masami', 'Episode Director, Storyboard'], ['Takamura, Yuuta', 'Episode Director']]

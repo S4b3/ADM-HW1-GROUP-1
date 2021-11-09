@@ -1,5 +1,5 @@
-animeTitle	b'Mazinger Z Movie: Infinity'
-animeType	b'Movie'
+animeTitle	Mazinger Z Movie: Infinity
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.86
 animeUsers	2833
 animeRank	
-animePopularity	
-animeDescription	"b'Ten years ago, the villainous scientist Dr. Hell led his wicked followers, known as the Underground Empire, in a struggle to destroy all of humanity. It was against these forces that the young hero Kouji Kabuto fought, piloting the legendary super robot ""Mazinger Z."" Kouji\'s victory stopped Dr. Hell\'s evil plan and returned peace to the Earth.\n\nNow Kouji has left the pilot seat behind and become a scientist in his own right, following in his father\'s and grandfather\'s footsteps. Yet an unexpected encounter deep under Mt. Fuji triggers an even greater threat to mankind than ever before and alters Kouji\'s destiny forever. With humanity\'s fate in their hands, Kouji and Mazinger Z face a choice between good... and evil.\n\n(Source: VIZ Media)'"
-animeRelated	[b'Mazinger Z', b'Great Mazinger']
-animeCharacters	[b'Kabuto, Kouji', b'Yumi, Sayaka', b'Baron Ashura', b'Boss', b'Tsurugi, Tetsuya', b'Count Broken', b'Dr. Hell', b'Honoo, Jun', b'LISA', b'Kabuto, Shiro']
-animeVoices	[b'\nMorikubo, Shoutarou\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nHanae, Natsuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimizu, Junji\n\nDirector\n\n', b'\nOzawa, Takahiro\n\nScript\n\n', b'\nMizuki, Ichirou\n\nTheme Song Performance\n\n', b'\nKikkawa, Koji\n\nTheme Song Performance\n\n']
+animePopularity	6196
+animeDescription	"Ten years ago, the villainous scientist Dr. Hell led his wicked followers, known as the Underground Empire, in a struggle to destroy all of humanity. It was against these forces that the young hero Kouji Kabuto fought, piloting the legendary super robot ""Mazinger Z."" Kouji's victory stopped Dr. Hell's evil plan and returned peace to the Earth.
+
+Now Kouji has left the pilot seat behind and become a scientist in his own right, following in his father's and grandfather's footsteps. Yet an unexpected encounter deep under Mt. Fuji triggers an even greater threat to mankind than ever before and alters Kouji's destiny forever. With humanity's fate in their hands, Kouji and Mazinger Z face a choice between good... and evil.
+
+(Source: VIZ Media)"
+animeRelated	['Mazinger Z', 'Great Mazinger']
+animeCharacters	['Kabuto, Kouji', 'Yumi, Sayaka', 'Baron Ashura', 'Boss', 'Tsurugi, Tetsuya', 'Count Broken', 'Dr. Hell', 'Honoo, Jun', 'LISA', 'Kabuto, Shiro']
+animeVoices	['Morikubo, Shoutarou', 'Kayano, Ai', 'Park, Romi', 'Takagi, Wataru', 'Seki, Toshihiko', 'Fujiwara, Keiji', 'Ishizuka, Unshou', 'Koshimizu, Ami', 'Uesaka, Sumire', 'Hanae, Natsuki']
+animeStaff	[['Shimizu, Junji', 'Director'], ['Ozawa, Takahiro', 'Script'], ['Mizuki, Ichirou', 'Theme Song Performance'], ['Kikkawa, Koji', 'Theme Song Performance']]

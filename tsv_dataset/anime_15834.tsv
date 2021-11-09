@@ -1,5 +1,5 @@
-animeTitle	b'Gu-Gu Ganmo (Movie)'
-animeType	b'Movie'
+animeTitle	Gu-Gu Ganmo (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Movie version that lampooned several Japanese Folklore Tales, including that of Princess Kaguya.\n\nBased on a manga by Hosono Fujihiko, serialised in Weekly Shounen Sunday.\n\n(Source: AniDB)'
-animeRelated	[b'Gu-Gu Ganmo']
-animeCharacters	[b'Ganmo', b'Tsukuda, Hanpeita', b'Skylark, Linda']
-animeVoices	[b'\nSugiyama, Kazuko\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nMita, Yuuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagaoka, Akinori\n\nDirector\n\n', b'\nTsuchiya, Tokio\n\nScript\n\n', b'\nInoue, Toshiyuki\n\nAnimation Director, Character Design\n\n', b'\nMasayuki\n\nKey Animation\n\n']
+animePopularity	14916
+animeDescription	"Movie version that lampooned several Japanese Folklore Tales, including that of Princess Kaguya.
+
+Based on a manga by Hosono Fujihiko, serialised in Weekly Shounen Sunday.
+
+(Source: AniDB)"
+animeRelated	['Gu-Gu Ganmo']
+animeCharacters	['Ganmo', 'Tsukuda, Hanpeita', 'Skylark, Linda']
+animeVoices	['Sugiyama, Kazuko', 'Tanaka, Mayumi', 'Mita, Yuuko']
+animeStaff	[['Nagaoka, Akinori', 'Director'], ['Tsuchiya, Tokio', 'Script'], ['Inoue, Toshiyuki', 'Animation Director, Character Design'], ['Masayuki', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Blue Seed 2'
-animeType	b'OVA'
+animeTitle	Blue Seed 2
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.44
 animeUsers	2419
 animeRank	
-animePopularity	
-animeDescription	b'A renegade scientist in San Francisco has found a way to create a new creature called a Neo-Aragami without the power of Susanoo. When these monsters start to terrorize California, the U.S. turns to the old members of the Terrestrial Administration Center (TAC) for help. \n\n(Source: ANN)\n'
-animeRelated	[b'Blue Seed']
-animeCharacters	[b'Kusanagi, Mamoru', b'Fujimiya, Momiji', b'Sawaguchi, Koume', b'Takeuchi, Ryoko', b'Tachibana, Valencia', b'Kunikida, Daitetsu', b'Yamazaki, Sakura', b'Yaegashi, Yoshiki', b'Matsudaira, Azusa', b'Sugishita, Shunichi']
-animeVoices	[b'\nInoue, Kazuhiko\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nOrikasa, Ai\nJapanese\n', b'\nIwao, Junko\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nTamagawa, Sakiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurayama, Kiyoshi\n\nDirector\n\n', b'\nKamiya, Jun\n\nDirector\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n', b'\nKawai, Kenji\n\nMusic\n\n']
+animePopularity	6569
+animeDescription	"A renegade scientist in San Francisco has found a way to create a new creature called a Neo-Aragami without the power of Susanoo. When these monsters start to terrorize California, the U.S. turns to the old members of the Terrestrial Administration Center (TAC) for help. 
+
+(Source: ANN)
+"
+animeRelated	['Blue Seed']
+animeCharacters	['Kusanagi, Mamoru', 'Fujimiya, Momiji', 'Sawaguchi, Koume', 'Takeuchi, Ryoko', 'Tachibana, Valencia', 'Kunikida, Daitetsu', 'Yamazaki, Sakura', 'Yaegashi, Yoshiki', 'Matsudaira, Azusa', 'Sugishita, Shunichi']
+animeVoices	['Inoue, Kazuhiko', 'Hayashibara, Megumi', 'Mitsuishi, Kotono', 'Orikasa, Ai', 'Iwao, Junko', 'Ootsuka, Akio', 'Tamagawa, Sakiko']
+animeStaff	[['Murayama, Kiyoshi', 'Director'], ['Kamiya, Jun', 'Director'], ['Wakabayashi, Kazuhiro', 'Sound Director'], ['Kawai, Kenji', 'Music']]

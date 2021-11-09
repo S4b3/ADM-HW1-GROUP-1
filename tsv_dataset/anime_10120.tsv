@@ -1,5 +1,5 @@
-animeTitle	b'Mahou Yuugi 3D'
-animeType	b'OVA'
+animeTitle	Mahou Yuugi 3D
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.59
 animeUsers	791
 animeRank	
-animePopularity	
-animeDescription	"b""Padudu is a 12-year-old apprentice witch, chosen to represent her town in the coliseum. Donning her magical fish costume, which keeps her warm and fed, she sets off on her journey. But on the way she's swept away by a river to Dance Valley. Mayor Koffy captures her and throws her into the dungeon, hoping to eliminate the competition for Dance Valley's own coliseum candidate. Luckily for Padudu, this dungeon holds the mysterious witch Nonononn. They join together in a magical fight for survival. At the end of Blue Gender Trailer, the Magical witchland word came out!\n\n(Source: AniDB)"""
-animeRelated	[b'Mahou Yuugi 2D']
-animeCharacters	[b'Padudu', b'Cofy', b'Nonononn', b'Mustard', b'Ketchup', b'Uokichi', b'Purilun']
-animeVoices	[b'\nTokunaga, Ai\nJapanese\n', b'\nIchijou, Miyuki\nJapanese\n', b'\nSaeki, Tomo\nJapanese\n', b'\nKatou, Nanae\nJapanese\n', b'\nNagata, Ryoko\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakanishi, Go\n\nAssistant Producer\n\n', b'\nHayashi, Hiroki\n\nDirector\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nKurata, Hideyuki\n\nScript, Screenplay\n\n']
+animePopularity	9694
+animeDescription	"Padudu is a 12-year-old apprentice witch, chosen to represent her town in the coliseum. Donning her magical fish costume, which keeps her warm and fed, she sets off on her journey. But on the way she's swept away by a river to Dance Valley. Mayor Koffy captures her and throws her into the dungeon, hoping to eliminate the competition for Dance Valley's own coliseum candidate. Luckily for Padudu, this dungeon holds the mysterious witch Nonononn. They join together in a magical fight for survival. At the end of Blue Gender Trailer, the Magical witchland word came out!
+
+(Source: AniDB)"
+animeRelated	['Mahou Yuugi 2D']
+animeCharacters	['Padudu', 'Cofy', 'Nonononn', 'Mustard', 'Ketchup', 'Uokichi', 'Purilun']
+animeVoices	['Tokunaga, Ai', 'Ichijou, Miyuki', 'Saeki, Tomo', 'Katou, Nanae', 'Nagata, Ryoko', 'Minaguchi, Yuko']
+animeStaff	[['Nakanishi, Go', 'Assistant Producer'], ['Hayashi, Hiroki', 'Director'], ['Kameyama, Toshiki', 'Sound Director'], ['Kurata, Hideyuki', 'Script, Screenplay']]

@@ -1,5 +1,5 @@
-animeTitle	b'Jungle Kurobee'
-animeType	b'TV'
+animeTitle	Jungle Kurobee
+animeType	TV
 animeNumEpisode	31
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Urobe was a son of the great chief of Pyrimi, Africa. One day he hung on an airplane and came to Japan. Because of the cold and hunger, he fell on to the yard of Shishio\xe2\x80\x99s house, and Shishio nursed him. Kurobe was very thankful for him and began to repay for his kindness. Kurobe dug a big hole in the yard.Every time he returns the favor, he threw a stone into the hole until stones would fill the hole.\n\n(Source: ANN)'
-animeRelated	[b'Fujiko F Fujio Daizenshu Jungle Kurobee']
-animeCharacters	[b'Kurobee', b'Takane']
-animeVoices	[b'\nKimotsuki, Kaneta\nJapanese\n', b'\nEbisu, Masako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Osamu\n\nEpisode Director, Storyboard\n\n', b'\nTakayashiki, Hideo\n\nEpisode Director\n\n', b'\nTakeuchi, Yoshio\n\nEpisode Director\n\n', b'\nKaneko, Yutaka\n\nScript\n\n']
+animePopularity	13515
+animeDescription	"Urobe was a son of the great chief of Pyrimi, Africa. One day he hung on an airplane and came to Japan. Because of the cold and hunger, he fell on to the yard of Shishio’s house, and Shishio nursed him. Kurobe was very thankful for him and began to repay for his kindness. Kurobe dug a big hole in the yard.Every time he returns the favor, he threw a stone into the hole until stones would fill the hole.
+
+(Source: ANN)"
+animeRelated	['Fujiko F Fujio Daizenshu Jungle Kurobee']
+animeCharacters	['Kurobee', 'Takane']
+animeVoices	['Kimotsuki, Kaneta', 'Ebisu, Masako']
+animeStaff	[['Dezaki, Osamu', 'Episode Director, Storyboard'], ['Takayashiki, Hideo', 'Episode Director'], ['Takeuchi, Yoshio', 'Episode Director'], ['Kaneko, Yutaka', 'Script']]

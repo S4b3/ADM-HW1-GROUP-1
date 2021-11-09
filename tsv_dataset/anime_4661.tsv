@@ -1,5 +1,5 @@
-animeTitle	b'22/7'
-animeType	b'TV'
+animeTitle	22/7
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	6.79
 animeUsers	12145
 animeRank	
-animePopularity	
-animeDescription	"b'Miu Takigawa views the world from behind the safety of her bangs, content with peacefully passing unnoticed through life. Reserved and timid, Miu struggles to converse with or even smile at customers when at her part time job, but she works tirelessly to support her mother and precious little sister, Haru. It is a shock when a letter arrives from the entertainment company GIP, announcing that she has been chosen as a candidate for their new project. \n\nMiu decides to accept the invitation and heads to the meeting spot where the eccentric ensemble of other candidates filter in, all summoned by their own letters. Not long after, the girls are escorted by a manager to a luxurious secret facility, where it is explained that they must follow the mysterious directions of ""The Wall,"" whose orders are absolute. \n\nThe 24th of December, 2016, will see the birth of idols like no other; on that day, the group 22/7 will debut, whether or not Miu and the other members are ready to take the stage.\n\n[Written by MAL Rewrite]\n'"
-animeRelated	[b'Boku wa Sonzai Shiteinakatta', b'Shampoo no Nioi ga Shita', b'Rikaisha', b'Ano Hi no Kanojo-tachi', b'22/7: 8\xef\xbc\x8b3=?']
-animeCharacters	[b'Takigawa, Miu', b'Toda, Jun', b'Fujima, Sakura', b'Maruyama, Akane', b'Tachikawa, Ayaka', b'Satou, Reika', b'Saitou, Nicole', b'Kouno, Miyako', b'Takigawa, Sayuki', b'Takigawa, Haru']
-animeVoices	[b'\nSaijou, Nagomi\nJapanese\n', b'\nUmino, Ruri\nJapanese\n', b'\nAmaki, Sally\nJapanese\n', b'\nShirosawa, Kanae\nJapanese\n', b'\nMiyase, Reina\nJapanese\n', b'\nChiharu\nJapanese\n', b'\nKawase, Uta\nJapanese\n', b'\nKuraoka, Mizuha\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nAmano, Kokoa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAbo, Takao\n\nDirector\n\n', b'\nFujita, Akiko\n\nSound Director\n\n', b'\nMukai, Masahiro\n\nStoryboard\n\n', b'\nKaneko, Shingo\n\nStoryboard\n\n']
+animePopularity	2970
+animeDescription	"Miu Takigawa views the world from behind the safety of her bangs, content with peacefully passing unnoticed through life. Reserved and timid, Miu struggles to converse with or even smile at customers when at her part time job, but she works tirelessly to support her mother and precious little sister, Haru. It is a shock when a letter arrives from the entertainment company GIP, announcing that she has been chosen as a candidate for their new project. 
+
+Miu decides to accept the invitation and heads to the meeting spot where the eccentric ensemble of other candidates filter in, all summoned by their own letters. Not long after, the girls are escorted by a manager to a luxurious secret facility, where it is explained that they must follow the mysterious directions of ""The Wall,"" whose orders are absolute. 
+
+The 24th of December, 2016, will see the birth of idols like no other; on that day, the group 22/7 will debut, whether or not Miu and the other members are ready to take the stage.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Boku wa Sonzai Shiteinakatta', 'Shampoo no Nioi ga Shita', 'Rikaisha', 'Ano Hi no Kanojo-tachi', '22/7: 8＋3=?']
+animeCharacters	['Takigawa, Miu', 'Toda, Jun', 'Fujima, Sakura', 'Maruyama, Akane', 'Tachikawa, Ayaka', 'Satou, Reika', 'Saitou, Nicole', 'Kouno, Miyako', 'Takigawa, Sayuki', 'Takigawa, Haru']
+animeVoices	['Saijou, Nagomi', 'Umino, Ruri', 'Amaki, Sally', 'Shirosawa, Kanae', 'Miyase, Reina', 'Chiharu', 'Kawase, Uta', 'Kuraoka, Mizuha', 'Hisakawa, Aya', 'Amano, Kokoa']
+animeStaff	[['Abo, Takao', 'Director'], ['Fujita, Akiko', 'Sound Director'], ['Mukai, Masahiro', 'Storyboard'], ['Kaneko, Shingo', 'Storyboard']]

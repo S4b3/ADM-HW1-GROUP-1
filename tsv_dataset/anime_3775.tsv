@@ -1,5 +1,5 @@
-animeTitle	b'Crayon Shin-chan Movie 24: Bakusui! Yumemi World Dai Totsugeki'
-animeType	b'Movie'
+animeTitle	Crayon Shin-chan Movie 24: Bakusui! Yumemi World Dai Totsugeki
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.01
 animeUsers	1059
 animeRank	
-animePopularity	
-animeDescription	b'A story set in the dream world, depicting the Kasukabe Defense Forces and the Nohara Family fighting against a nightmare trouble. One day the people in Kasukabe come to be able to have dreams they want in their sleep, after having a strange dream in which a giant fish swallows them. The people enjoy having their own distinctive dream in the dream world, but the world gradually changes into a nightmare world. Shinnosuke Nohara and Kasukabe Defense Forces members let Saki Nubatama, a girl who moves in Kasukabe, join the group, and they go into the dream world to explore the cause of the nightmare.\n\n(Source: Manabu Tsuribe)'
-animeRelated	[b'Crayon Shin-chan', b'Crayon Shin-chan Movie 23: Ora no Hikkoshi Monogatari - Saboten Daisuugeki', b'Crayon Shin-chan Movie 25: Shin-chan Shuurai! Uchuujin Shiriri']
-animeCharacters	[b'Nohara, Shinnosuke', b'Nohara, Hiroshi', b'Nohara, Misae', b'Nohara, Himawari', b'Nubatama, Saki', b'Shiro', b'Boo-chan', b'Kazama, Tooru', b'Matsuzaka, Ume', b'Sakurada, Nene']
-animeVoices	[b'\nYajima, Akiko\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nNarahashi, Miki\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nKawata, Taeko\nJapanese\n', b'\nMashiba, Mari\nJapanese\n', b'\nSatou, Chie\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nHayashi, Tamao\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOokuma, Akira\n\nSound Director\n\n', b'\nMihara, Michio\n\nStoryboard, Art Director\n\n', b'\nKyary Pamyu Pamyu\n\nTheme Song Performance\n\n', b'\nNakata, Yasutaka\n\nTheme Song Lyrics, Theme Song Arrangement, Theme Song Composition\n\n']
+animePopularity	9072
+animeDescription	"A story set in the dream world, depicting the Kasukabe Defense Forces and the Nohara Family fighting against a nightmare trouble. One day the people in Kasukabe come to be able to have dreams they want in their sleep, after having a strange dream in which a giant fish swallows them. The people enjoy having their own distinctive dream in the dream world, but the world gradually changes into a nightmare world. Shinnosuke Nohara and Kasukabe Defense Forces members let Saki Nubatama, a girl who moves in Kasukabe, join the group, and they go into the dream world to explore the cause of the nightmare.
+
+(Source: Manabu Tsuribe)"
+animeRelated	['Crayon Shin-chan', 'Crayon Shin-chan Movie 23: Ora no Hikkoshi Monogatari - Saboten Daisuugeki', 'Crayon Shin-chan Movie 25: Shin-chan Shuurai! Uchuujin Shiriri']
+animeCharacters	['Nohara, Shinnosuke', 'Nohara, Hiroshi', 'Nohara, Misae', 'Nohara, Himawari', 'Nubatama, Saki', 'Shiro', 'Boo-chan', 'Kazama, Tooru', 'Matsuzaka, Ume', 'Sakurada, Nene']
+animeVoices	['Yajima, Akiko', 'Fujiwara, Keiji', 'Narahashi, Miki', 'Koorogi, Satomi', 'Kawata, Taeko', 'Mashiba, Mari', 'Satou, Chie', 'Tomizawa, Michie', 'Hayashi, Tamao']
+animeStaff	[['Ookuma, Akira', 'Sound Director'], ['Mihara, Michio', 'Storyboard, Art Director'], ['Kyary Pamyu Pamyu', 'Theme Song Performance'], ['Nakata, Yasutaka', 'Theme Song Lyrics, Theme Song Arrangement, Theme Song Composition']]

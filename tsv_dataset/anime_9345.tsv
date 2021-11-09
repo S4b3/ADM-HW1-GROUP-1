@@ -1,5 +1,5 @@
-animeTitle	b'Gregory Horror Show: The Bloody Karte'
-animeType	b'Special'
+animeTitle	Gregory Horror Show: The Bloody Karte
+animeType	Special
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.81
 animeUsers	441
 animeRank	
-animePopularity	
-animeDescription	b'The fourth series, The Bloody Karte (presented as a side series on the DVDs) is a set of 12 stories about Catherine working in a mysterious hospital.  \n\n(Source: AniDB)'
-animeRelated	[b'Gregory Horror Show']
-animeCharacters	[b'Judgement Boy', b'Gregory']
-animeVoices	[b'\nChafurin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwata, Naomi\n\nOriginal Creator\n\n']
+animePopularity	11096
+animeDescription	"The fourth series, The Bloody Karte (presented as a side series on the DVDs) is a set of 12 stories about Catherine working in a mysterious hospital.  
+
+(Source: AniDB)"
+animeRelated	['Gregory Horror Show']
+animeCharacters	['Judgement Boy', 'Gregory']
+animeVoices	['Chafurin']
+animeStaff	[['Iwata, Naomi', 'Original Creator']]

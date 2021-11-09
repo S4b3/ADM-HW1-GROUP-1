@@ -1,5 +1,5 @@
-animeTitle	b'Kosuke-sama Rikimaru-sama: Konpeitou no Ryuu'
-animeType	b'OVA'
+animeTitle	Kosuke-sama Rikimaru-sama: Konpeitou no Ryuu
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	5.99
 animeUsers	423
 animeRank	
-animePopularity	
-animeDescription	"b""Kosukesama Rikimarusama: Konpeito no Ryu was a 45 minute long anime TV special produced by J.C. Staff and broadcast on Japanese television in 1988. Similar to Dragon Ball, it was a martial arts adventure story featuring villains that could have stepped out of the Red Ribbon Army, typical Toriyama mecha, and a clone of Son Gohan's Haiya Dragon.\n(Source: animenation.net)"""
+animePopularity	11041
+animeDescription	"Kosukesama Rikimarusama: Konpeito no Ryu was a 45 minute long anime TV special produced by J.C. Staff and broadcast on Japanese television in 1988. Similar to Dragon Ball, it was a martial arts adventure story featuring villains that could have stepped out of the Red Ribbon Army, typical Toriyama mecha, and a clone of Son Gohan's Haiya Dragon.
+(Source: animenation.net)"
 animeRelated	[]
-animeCharacters	[b'Kosuke', b'Rikimaru', b'Yamada, Hachiro', b'Commando, Michael', b'Sanpei', b'Tanukikouji, Sakurako']
-animeVoices	[b'\nMatsuoka, Youko\nJapanese\n', b'\nOota, Takako\nJapanese\n', b'\nOtsuka, Chikao\nJapanese\n', b'\nKoseki, Hajime\nJapanese\n', b'\nOikawa, Hiroo\nJapanese\n', b'\nNishihara, Kumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nAshida, Toyoo\n\nScript, Screenplay, Animation Director\n\n', b'\nHagita, Mitsuo\n\nTheme Song Arrangement\n\n', b'\nToriyama, Akira\n\nCharacter Design\n\n']
+animeCharacters	['Kosuke', 'Rikimaru', 'Yamada, Hachiro', 'Commando, Michael', 'Sanpei', 'Tanukikouji, Sakurako']
+animeVoices	['Matsuoka, Youko', 'Oota, Takako', 'Otsuka, Chikao', 'Koseki, Hajime', 'Oikawa, Hiroo', 'Nishihara, Kumiko']
+animeStaff	[['Fujiyama, Fusanobu', 'Sound Director'], ['Ashida, Toyoo', 'Script, Screenplay, Animation Director'], ['Hagita, Mitsuo', 'Theme Song Arrangement'], ['Toriyama, Akira', 'Character Design']]

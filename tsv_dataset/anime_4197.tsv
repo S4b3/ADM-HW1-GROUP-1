@@ -1,5 +1,5 @@
-animeTitle	b'Moshidora'
-animeType	b'TV'
+animeTitle	Moshidora
+animeType	TV
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.9
 animeUsers	8197
 animeRank	
-animePopularity	
-animeDescription	"b'Minami joins her High School baseball team as a team manager after finding out that her best friend Yuuki is in the hospital and can\'t be a team manager any more.  In order to try to fill in for Yuuki and to help out the team the best she can, she goes out to find a book on how to manage a baseball team.  \n\nUnfortunately, she accidentally buys Peter Drucker\'s book called ""Management: Tasks, Responsibilities, Practices"" which is actually about how to properly manage a business.  Because she couldn\'t return the book, she decides to read it anyway and to try to apply the business management concepts to the baseball team so that way they can go on and win the Nationals.'"
-animeRelated	"[b'Moshi Koukou Yakyuu no Joshi Manager ga Drucker no ""Management"" wo Yondara', b'Moshidora Recap']"
-animeCharacters	[b'Miyata, Yuuki', b'Kawashima, Minami', b'Asano, Keiichirou', b'Miyata, Yasuyo', b'Kachi, Makoto', b'Chin, Hanae', b'Sakurai, Yuunosuke', b'Hoshide, Jun', b'Nikai, Masayoshi', b'Kashiwagi, Jirou']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nHirata, Eriko\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nMonden, Yukiko\nJapanese\n', b'\nNakanishi, Hideki\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nAsanuma, Shintaro\nJapanese\n', b'\nSuyama, Akio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOogami, Yuuma\n\nProducer\n\n', b'\nHamana, Takayuki\n\nDirector\n\n', b'\nHiramitsu, Takuya\n\nSound Director\n\n', b'\nAndou, Takashi\n\nEpisode Director\n\n']
+animePopularity	3960
+animeDescription	"Minami joins her High School baseball team as a team manager after finding out that her best friend Yuuki is in the hospital and can't be a team manager any more.  In order to try to fill in for Yuuki and to help out the team the best she can, she goes out to find a book on how to manage a baseball team.  
+
+Unfortunately, she accidentally buys Peter Drucker's book called ""Management: Tasks, Responsibilities, Practices"" which is actually about how to properly manage a business.  Because she couldn't return the book, she decides to read it anyway and to try to apply the business management concepts to the baseball team so that way they can go on and win the Nationals."
+animeRelated	"['Moshi Koukou Yakyuu no Joshi Manager ga Drucker no ""Management"" wo Yondara', 'Moshidora Recap']"
+animeCharacters	['Miyata, Yuuki', 'Kawashima, Minami', 'Asano, Keiichirou', 'Miyata, Yasuyo', 'Kachi, Makoto', 'Chin, Hanae', 'Sakurai, Yuunosuke', 'Hoshide, Jun', 'Nikai, Masayoshi', 'Kashiwagi, Jirou']
+animeVoices	['Hanazawa, Kana', 'Hikasa, Youko', 'Kakihara, Tetsuya', 'Hirata, Eriko', 'Tsuda, Kenjirou', 'Monden, Yukiko', 'Nakanishi, Hideki', 'Hosoya, Yoshimasa', 'Asanuma, Shintaro', 'Suyama, Akio']
+animeStaff	[['Oogami, Yuuma', 'Producer'], ['Hamana, Takayuki', 'Director'], ['Hiramitsu, Takuya', 'Sound Director'], ['Andou, Takashi', 'Episode Director']]

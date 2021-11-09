@@ -1,5 +1,5 @@
-animeTitle	b'Jigoku Sensei Nube (Movie)'
-animeType	b'Movie'
+animeTitle	Jigoku Sensei Nube (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.65
 animeUsers	820
 animeRank	
-animePopularity	
-animeDescription	"b'Kumiko Ijima who is one of Nube\'s students recognizes that a man in a local park is really a criminal wanted for murder when she remembers drawing his face from the wanted photos posted by the police. Kumiko warns her classmate Kyoko while at the same time the man discovers the drawing with the name initials ""K.I."" written on Kumiko\'s drawing portfolio and briefly sees that Kumiko wears a red ribbon in her hair. The cops chase the criminal who crashes his car into a seal where a demon takes control over his soul. The demon is now on a killing rampage to find any girl that wears a red ribbon whose name initials are ""K.I."". \n\n(Source: ANN)'"
-animeRelated	[b'Jigoku Sensei Nube']
-animeCharacters	[b'Nueno, Meisuke', b'Inaba, Kyouko', b'Ijima, Kumiko', b'Yukime', b'Takahashi, Ritsuko', b'Hosokawa, Miki', b'Kimura, Katsuya', b'Kurita, Makoto', b'Tateno, Hiroshi', b'Shirato, Shuichi']
-animeVoices	[b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nKasahara, Rumi\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nTominaga, Miina\nJapanese\n', b'\nTanaka, Kazunari\nJapanese\n', b'\nUrawa, Megumi\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n', b'\nKanemaru, Junichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurada, Hiroyuki\n\nProducer\n\n', b'\nShimizu, Junji\n\nDirector\n\n', b'\nTomita, Sukehiro\n\nScript\n\n', b'\nYanagisawa, Tetsuya\n\nKey Animation\n\n']
+animePopularity	9013
+animeDescription	"Kumiko Ijima who is one of Nube's students recognizes that a man in a local park is really a criminal wanted for murder when she remembers drawing his face from the wanted photos posted by the police. Kumiko warns her classmate Kyoko while at the same time the man discovers the drawing with the name initials ""K.I."" written on Kumiko's drawing portfolio and briefly sees that Kumiko wears a red ribbon in her hair. The cops chase the criminal who crashes his car into a seal where a demon takes control over his soul. The demon is now on a killing rampage to find any girl that wears a red ribbon whose name initials are ""K.I."". 
+
+(Source: ANN)"
+animeRelated	['Jigoku Sensei Nube']
+animeCharacters	['Nueno, Meisuke', 'Inaba, Kyouko', 'Ijima, Kumiko', 'Yukime', 'Takahashi, Ritsuko', 'Hosokawa, Miki', 'Kimura, Katsuya', 'Kurita, Makoto', 'Tateno, Hiroshi', 'Shirato, Shuichi']
+animeVoices	['Okiayu, Ryoutarou', 'Kasahara, Rumi', 'Ogata, Megumi', 'Shiratori, Yuri', 'Neya, Michiko', 'Tominaga, Miina', 'Tanaka, Kazunari', 'Urawa, Megumi', 'Fujita, Toshiko', 'Kanemaru, Junichi']
+animeStaff	[['Sakurada, Hiroyuki', 'Producer'], ['Shimizu, Junji', 'Director'], ['Tomita, Sukehiro', 'Script'], ['Yanagisawa, Tetsuya', 'Key Animation']]

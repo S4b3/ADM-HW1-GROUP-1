@@ -1,5 +1,5 @@
-animeTitle	b'Nihon Animator Mihonichi'
-animeType	b'ONA'
+animeTitle	Nihon Animator Mihonichi
+animeType	ONA
 animeNumEpisode	35
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.37
 animeUsers	8940
 animeRank	
-animePopularity	
-animeDescription	b'Nihon Animator Mihonichi is a collaborative series of standalone anime shorts with the support of various directors and studios. Aiming to expose new animators to a worldwide audience, these small works offer a glimpse into the future of the industry, featuring rising talents, cutting-edge techniques, and experimental aesthetic designs.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Bikachou Shinshi Kaikoroku', b'Ochibi-san', b'Neon Genesis Evangelion', b'Mobile Suit Gundam', b'The\xe2\x98\x86Ultraman', b'Evangelion: 3.0 You Can (Not) Redo', b'Uchuu Patrol Luluco', b'Ryuu no Haisha', b'Evangelion: Another Impact (VR)']
-animeCharacters	[b'Kishii, Nonoko', b'Hana-chan', b'Obake-chan', b'Shuu-chan', b'Godou, Yotoshio', b'Secchan', b'Machspeed', b'Girl', b'Hinako', b'Yuuri']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshiura, Yasuhiro\n\nProducer, Director, Script, Storyboard, Editing, Director of Photography, Layout, Original Creator\n\n', b'\nItano, Ichirou\n\nProducer, Key Animation\n\n', b'\nAramaki, Shinji\n\nProducer, Director\n\n', b'\nImaishi, Hiroyuki\n\nDirector, Script, Storyboard, Key Animation, Original Creator\n\n']
+animePopularity	3074
+animeDescription	"Nihon Animator Mihonichi is a collaborative series of standalone anime shorts with the support of various directors and studios. Aiming to expose new animators to a worldwide audience, these small works offer a glimpse into the future of the industry, featuring rising talents, cutting-edge techniques, and experimental aesthetic designs.
+
+[Written by MAL Rewrite]"
+animeRelated	['Bikachou Shinshi Kaikoroku', 'Ochibi-san', 'Neon Genesis Evangelion', 'Mobile Suit Gundam', 'The☆Ultraman', 'Evangelion: 3.0 You Can (Not) Redo', 'Uchuu Patrol Luluco', 'Ryuu no Haisha', 'Evangelion: Another Impact (VR)']
+animeCharacters	['Kishii, Nonoko', 'Hana-chan', 'Obake-chan', 'Shuu-chan', 'Godou, Yotoshio', 'Secchan', 'Machspeed', 'Girl', 'Hinako', 'Yuuri']
+animeVoices	['Hayashibara, Megumi', 'Yamadera, Kouichi']
+animeStaff	[['Yoshiura, Yasuhiro', 'Producer, Director, Script, Storyboard, Editing, Director of Photography, Layout, Original Creator'], ['Itano, Ichirou', 'Producer, Key Animation'], ['Aramaki, Shinji', 'Producer, Director'], ['Imaishi, Hiroyuki', 'Director, Script, Storyboard, Key Animation, Original Creator']]

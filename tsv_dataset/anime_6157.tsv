@@ -1,5 +1,5 @@
-animeTitle	b'Teekyuu 3 Specials'
-animeType	b'Special'
+animeTitle	Teekyuu 3 Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.5
 animeUsers	4718
 animeRank	
-animePopularity	
-animeDescription	b'Short specials included in the BD release.'
-animeRelated	[b'Teekyuu 3']
-animeCharacters	[b'Bandou, Marimo', b'Tomalin', b'Bandou, Mariko', b'Bolician']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nOgura, Yui\nJapanese\n', b'\nYuuki, Chisa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItagaki, Shin\n\nDirector, Character Design\n\n', b'\nPiyo\n\nOriginal Character Design\n\n', b'\nTerada, Tsugeo\n\nOriginal Creator\n\n']
+animePopularity	5652
+animeDescription	Short specials included in the BD release.
+animeRelated	['Teekyuu 3']
+animeCharacters	['Bandou, Marimo', 'Tomalin', 'Bandou, Mariko', 'Bolician']
+animeVoices	['Hanazawa, Kana', 'Ogura, Yui', 'Yuuki, Chisa']
+animeStaff	[['Itagaki, Shin', 'Director, Character Design'], ['Piyo', 'Original Character Design'], ['Terada, Tsugeo', 'Original Creator']]

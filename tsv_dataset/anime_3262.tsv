@@ -1,5 +1,5 @@
-animeTitle	"b""Jashin-chan Dropkick': Chitose-hen"""
-animeType	b'Special'
+animeTitle	Jashin-chan Dropkick': Chitose-hen
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.12
 animeUsers	3838
 animeRank	
-animePopularity	
-animeDescription	"b""The episode will be funded through Chitose's Hometown tax program, a system that allows taxpayers who live in urban areas to contribute to taxes that apply to rural residents. Taxpayers who contribute over 2,000 yen are then awarded in credit to reduce their income tax and residence tax. The Hometown tax program will also be the episode's focus. \n\n(Source: MAL News)"""
-animeRelated	"[b""Jashin-chan Dropkick'""]"
-animeCharacters	[b'Hanazono, Yurine']
+animePopularity	5781
+animeDescription	"The episode will be funded through Chitose's Hometown tax program, a system that allows taxpayers who live in urban areas to contribute to taxes that apply to rural residents. Taxpayers who contribute over 2,000 yen are then awarded in credit to reduce their income tax and residence tax. The Hometown tax program will also be the episode's focus. 
+
+(Source: MAL News)"
+animeRelated	"[""Jashin-chan Dropkick'""]"
+animeCharacters	['Hanazono, Yurine']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamada, Taku\n\nEpisode Director\n\n', b'\nSuzuki, Aina\n\nTheme Song Performance\n\n', b'\nHanai, Miharu\n\nTheme Song Performance\n\n', b'\nNatsume, Kouichirou\n\nExecutive Producer\n\n']
+animeStaff	[['Yamada, Taku', 'Episode Director'], ['Suzuki, Aina', 'Theme Song Performance'], ['Hanai, Miharu', 'Theme Song Performance'], ['Natsume, Kouichirou', 'Executive Producer']]

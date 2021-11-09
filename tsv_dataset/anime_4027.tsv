@@ -1,5 +1,5 @@
-animeTitle	b'Mizuiro Jidai'
-animeType	b'TV'
+animeTitle	Mizuiro Jidai
+animeType	TV
 animeNumEpisode	47
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.94
 animeUsers	770
 animeRank	
-animePopularity	
-animeDescription	b'Yuuko is a shy middle school girl who has feelings for her childhood friend, the boy next door. When she finds out that her best friend also likes him, she is unsure what to do. The story explores the relationships between these three characters as they confront everyday junior high problems.\n\n(Source: ANN)'
-animeRelated	[b'Mizuiro Jidai']
-animeCharacters	[b'Kawai, Yuuko', b'Takahata, Takako', b'Naganumo, Hiroshi', b'Kawai, Yasuo', b'Kawai, Toshiko', b'Katakura, Ryouko', b'Hirayama, Rumiko', b'Daitabashi-sensei']
-animeVoices	[b'\nSuzuki, Masami\nJapanese\n', b'\nHiguchi, Chieko\nJapanese\n', b'\nAkiyama, Jun\nJapanese\n', b'\nNakao, Yuki\nJapanese\n', b'\nNamiki, Noriko\nJapanese\n', b'\nMatsuura, Yukiko\nJapanese\n', b'\nAkado, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTokita, Hiroko\n\nDirector\n\n', b'\nIshiodori, Hiroshi\n\nEpisode Director, Storyboard\n\n', b'\nKuzuya, Naoyuki\n\nEpisode Director, Storyboard\n\n', b'\nKuwahara, Satoshi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	7792
+animeDescription	"Yuuko is a shy middle school girl who has feelings for her childhood friend, the boy next door. When she finds out that her best friend also likes him, she is unsure what to do. The story explores the relationships between these three characters as they confront everyday junior high problems.
+
+(Source: ANN)"
+animeRelated	['Mizuiro Jidai']
+animeCharacters	['Kawai, Yuuko', 'Takahata, Takako', 'Naganumo, Hiroshi', 'Kawai, Yasuo', 'Kawai, Toshiko', 'Katakura, Ryouko', 'Hirayama, Rumiko', 'Daitabashi-sensei']
+animeVoices	['Suzuki, Masami', 'Higuchi, Chieko', 'Akiyama, Jun', 'Nakao, Yuki', 'Namiki, Noriko', 'Matsuura, Yukiko', 'Akado, Mayumi']
+animeStaff	[['Tokita, Hiroko', 'Director'], ['Ishiodori, Hiroshi', 'Episode Director, Storyboard'], ['Kuzuya, Naoyuki', 'Episode Director, Storyboard'], ['Kuwahara, Satoshi', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Kill la Kill Specials'
-animeType	b'Special'
+animeTitle	Kill la Kill Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.7
 animeUsers	101565
 animeRank	
-animePopularity	
-animeDescription	b'Two specials released September 3rd, 2014, in the final volume of the Blu-ray/DVD releases.\n\nOne of them is a recap of the whole Kill la Kill anime which is 8:43 minutes long, while the other is a sequel to the anime which is 27:18 minutes long.'
-animeRelated	[b'Kill la Kill']
-animeCharacters	[b'Matoi, Ryuuko', b'Kiryuuin, Satsuki', b'Mankanshoku, Mako', b'Hououmaru, Rei', b'Jakuzure, Nonon', b'Senketsu', b'Gamagoori, Ira', b'Mikisugi, Aikurou', b'Sanageyama, Uzu', b'Kiryuuin, Ragyou']
-animeVoices	[b'\nKoshimizu, Ami\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n', b'\nSuzaki, Aya\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nShintani, Mayumi\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nInada, Tetsu\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nPark, Romi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImaishi, Hiroyuki\n\nDirector, 2nd Key Animation, Key Animation\n\n', b'\nAoi, Eir\n\nTheme Song Performance\n\n', b'\nGARNiDELiA\n\nTheme Song Arrangement, Theme Song Composition, Theme Song Performance\n\n', b'\nHinata, Megumi\n\nTheme Song Lyrics\n\n']
+animePopularity	985
+animeDescription	"Two specials released September 3rd, 2014, in the final volume of the Blu-ray/DVD releases.
+
+One of them is a recap of the whole Kill la Kill anime which is 8:43 minutes long, while the other is a sequel to the anime which is 27:18 minutes long."
+animeRelated	['Kill la Kill']
+animeCharacters	['Matoi, Ryuuko', 'Kiryuuin, Satsuki', 'Mankanshoku, Mako', 'Hououmaru, Rei', 'Jakuzure, Nonon', 'Senketsu', 'Gamagoori, Ira', 'Mikisugi, Aikurou', 'Sanageyama, Uzu', 'Kiryuuin, Ragyou']
+animeVoices	['Koshimizu, Ami', 'Yuzuki, Ryouka', 'Suzaki, Aya', 'Fujimura, Ayumi', 'Shintani, Mayumi', 'Seki, Toshihiko', 'Inada, Tetsu', 'Miki, Shinichiro', 'Hiyama, Nobuyuki', 'Park, Romi']
+animeStaff	[['Imaishi, Hiroyuki', 'Director, 2nd Key Animation, Key Animation'], ['Aoi, Eir', 'Theme Song Performance'], ['GARNiDELiA', 'Theme Song Arrangement, Theme Song Composition, Theme Song Performance'], ['Hinata, Megumi', 'Theme Song Lyrics']]

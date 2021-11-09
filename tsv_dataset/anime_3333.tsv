@@ -1,5 +1,5 @@
-animeTitle	b'Anime Sanjuushi'
-animeType	b'TV'
+animeTitle	Anime Sanjuushi
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.1
 animeUsers	1351
 animeRank	
-animePopularity	
-animeDescription	"b""In 1625, the young D'Artagnan leaves his village in Gascony to embark for Paris with his grandparents' blessings, taking only his father's sword and a letter of introduction. Seeking audience with Tr\xc3\xa9ville, Captain of the Musketeers of the Guard and his late father's comrade, the poor nobleman aims to become a great hero in the service of King Louis XIII.\n\nThe young adventurer is astonished by the massive size of Paris, but also overwhelmed. He wanders the city streets, befriending a young orphan named Jean. However, he also ends up offending three of the Musketeers of the Guard: Porthos, Aramis, and Athos. Confronted by the Parisian guards over their illegal dueling, D'Artagnan and the Musketeers fend off five of Cardinal Richelieu's soldiers, and the four of them quickly become friends.\n\nThe four new comrades set off to stop the Cardinal from starting war between England and France, and protect the image of Queen Anne d'Autriche, the wife of Louis XIII. But what will be the cost of their efforts?\n\n[Written by MAL Rewrite]"""
-animeRelated	"[b'Anime Sanjuushi', b'Anime Sanjuushi: Aramis no Bouken', b'Tekkamen wo Oe: ""d\'Artagnan Monogatari"" yori']"
-animeCharacters	"[b'Aramis', b""D'Artagnan"", b'Athos', b'Jean', b'Porthos', b'Bonacieux, Constance', b'Iron Mask', b'Milady', b'Louis XIII', b'George, Villiers']"
-animeVoices	[b'\nYamada, Eiko\nJapanese\n', b'\nMatsuda, Tatsuya\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nSatou, Masamichi\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nSasaoka, Shigezou\nJapanese\n', b'\nHirano, Fumi\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector, Episode Director\n\n', b'\nTanami, Yasuo\n\nScript\n\n', b""\nD'Avena, Cristina\n\nTheme Song Performance\n\n"", b'\nSakai, Noriko\n\nTheme Song Performance\n\n']"
+animePopularity	7480
+animeDescription	"In 1625, the young D'Artagnan leaves his village in Gascony to embark for Paris with his grandparents' blessings, taking only his father's sword and a letter of introduction. Seeking audience with Tréville, Captain of the Musketeers of the Guard and his late father's comrade, the poor nobleman aims to become a great hero in the service of King Louis XIII.
+
+The young adventurer is astonished by the massive size of Paris, but also overwhelmed. He wanders the city streets, befriending a young orphan named Jean. However, he also ends up offending three of the Musketeers of the Guard: Porthos, Aramis, and Athos. Confronted by the Parisian guards over their illegal dueling, D'Artagnan and the Musketeers fend off five of Cardinal Richelieu's soldiers, and the four of them quickly become friends.
+
+The four new comrades set off to stop the Cardinal from starting war between England and France, and protect the image of Queen Anne d'Autriche, the wife of Louis XIII. But what will be the cost of their efforts?
+
+[Written by MAL Rewrite]"
+animeRelated	"['Anime Sanjuushi', 'Anime Sanjuushi: Aramis no Bouken', 'Tekkamen wo Oe: ""d\'Artagnan Monogatari"" yori']"
+animeCharacters	"['Aramis', ""D'Artagnan"", 'Athos', 'Jean', 'Porthos', 'Bonacieux, Constance', 'Iron Mask', 'Milady', 'Louis XIII', 'George, Villiers']"
+animeVoices	['Yamada, Eiko', 'Matsuda, Tatsuya', 'Kamiya, Akira', 'Tanaka, Mayumi', 'Satou, Masamichi', 'Hidaka, Noriko', 'Sasaoka, Shigezou', 'Hirano, Fumi', 'Tanaka, Hideyuki']
+animeStaff	"[['Yuyama, Kunihiko', 'Director, Episode Director'], ['Tanami, Yasuo', 'Script'], [""D'Avena, Cristina"", 'Theme Song Performance'], ['Sakai, Noriko', 'Theme Song Performance']]"

@@ -1,5 +1,5 @@
-animeTitle	b'Black Jack: Futari no Kuroi Isha'
-animeType	b'Movie'
+animeTitle	Black Jack: Futari no Kuroi Isha
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.18
 animeUsers	1688
 animeRank	
-animePopularity	
-animeDescription	"b""The mega-corporate Daedalus Group is under attack by a small group of activists known as the Ghost of Icarus. While taking care of some of the victims of the bombing, Black Jack encounters Dr. Kiriko, also known as Death Incarnate, who just like him, asks his patients huge sums of money but instead of saving them, he offers them a painless death. When the activist group requests both doctors\xe2\x80\x99 collaboration, Black Jack finds himself caught in a spiral of life, death and treason while trying to save his patients' lives and avoid the breaking of a biological war that could destroy humanity.\n\n(Source: ANN)"""
-animeRelated	[b'Black Jack', b'Black Jack (TV)', b'Black Jack: Dr. Pinoko no Mori no Bouken', b'Black Jack: Futari no Kuroi Isha - Manner Movie']
-animeCharacters	[b'Hazama, Kuroo', b'Holmes, Rock', b'Doctor Kiriko', b'Biwamaru', b'Pinoko', b'Midori', b'Honma, Kumiko', b'Largo']
-animeVoices	[b'\nOotsuka, Akio\nJapanese\n', b'\nKaga, Takeshi\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nHirayama, Aya\nJapanese\n', b'\nKawase, Akiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Makoto\n\nDirector, Storyboard\n\n', b'\nTakeuchi, Yoshio\n\nEpisode Director, Storyboard\n\n', b'\nKuwahara, Satoshi\n\nStoryboard\n\n', b'\nTezuka, Osamu\n\nOriginal Creator\n\n']
+animePopularity	7421
+animeDescription	"The mega-corporate Daedalus Group is under attack by a small group of activists known as the Ghost of Icarus. While taking care of some of the victims of the bombing, Black Jack encounters Dr. Kiriko, also known as Death Incarnate, who just like him, asks his patients huge sums of money but instead of saving them, he offers them a painless death. When the activist group requests both doctors’ collaboration, Black Jack finds himself caught in a spiral of life, death and treason while trying to save his patients' lives and avoid the breaking of a biological war that could destroy humanity.
+
+(Source: ANN)"
+animeRelated	['Black Jack', 'Black Jack (TV)', 'Black Jack: Dr. Pinoko no Mori no Bouken', 'Black Jack: Futari no Kuroi Isha - Manner Movie']
+animeCharacters	['Hazama, Kuroo', 'Holmes, Rock', 'Doctor Kiriko', 'Biwamaru', 'Pinoko', 'Midori', 'Honma, Kumiko', 'Largo']
+animeVoices	['Ootsuka, Akio', 'Kaga, Takeshi', 'Mizutani, Yuuko', 'Hirayama, Aya', 'Kawase, Akiko']
+animeStaff	[['Tezuka, Makoto', 'Director, Storyboard'], ['Takeuchi, Yoshio', 'Episode Director, Storyboard'], ['Kuwahara, Satoshi', 'Storyboard'], ['Tezuka, Osamu', 'Original Creator']]

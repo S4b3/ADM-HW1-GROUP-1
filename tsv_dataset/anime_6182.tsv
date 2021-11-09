@@ -1,5 +1,5 @@
-animeTitle	b'Youkai Watch'
-animeType	b'TV'
+animeTitle	Youkai Watch
+animeType	TV
 animeNumEpisode	214
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.49
 animeUsers	6367
 animeRank	
-animePopularity	
-animeDescription	"b""Primary school student Keita Amano's curiosity is as innocent as any other child's his age. But when one day he decides to venture deeper into the forest, he encounters a small and mysterious capsule. Out from its depths comes Whisper. After 190 years of imprisonment, this ghost-like creature is glad that someone has been kind enough to set him free. He decides to reward Keita by becoming his guardian against supernatural forces. Whisper is one of many Youkai that exist in the world, and provides Keita with a special Youkai Watch, which enables him to see and interact with all the other Youkai.\n\nYoukai Watch follows Keita, Whisper and the cat spirit Jibanyan as they encounter Youkai, befriend them, fix all the trouble that they so often cause, and, with the help of the watch, use the powers of previously encountered Youkai to aid them. Young Keita may have been just an ordinary primary school student when he first encountered the Youkai, but the many adventures that follow his discovery provide him with invaluable experiences and precious life lessons that help him grow."""
-animeRelated	[b'Youkai Watch', b'Youkai Watch Movie 1: Tanjou no Himitsu da Nyan!', b'Youkai Watch Movie 2: Enma Daiou to Itsutsu no Monogatari da Nyan!', b'Youkai Watch Movie 3: Soratobu Kujira to Double Sekai no Daibouken da Nyan!', b'Youkai Watch: Best 10', b'40 Shuunen Da yo!! CoroCoro All-Star Shougakkou', b'Youkai Watch Movie 5: Forever Friends', b'Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu', b'Youkai Watch!']
-animeCharacters	[b'Jibanyan', b'Komasan', b'Whisper', b'Amano, Keita', b'Misora, Inaho', b'USApyon', b'Kyuubi', b'Imada, Kanchi', b'Kodama, Fumika', b'Komajirou']
-animeVoices	[b'\nKozakura, Etsuko\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nShigemoto, Kotori\nJapanese\n', b'\nNagata, Ryoko\nJapanese\n', b'\nSatou, Chie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUshiro, Shinji\n\nDirector, Episode Director, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nKing Cream Soda.\n\nTheme Song Performance\n\n', b'\nDream5\n\nTheme Song Performance\n\n']
+animePopularity	3664
+animeDescription	"Primary school student Keita Amano's curiosity is as innocent as any other child's his age. But when one day he decides to venture deeper into the forest, he encounters a small and mysterious capsule. Out from its depths comes Whisper. After 190 years of imprisonment, this ghost-like creature is glad that someone has been kind enough to set him free. He decides to reward Keita by becoming his guardian against supernatural forces. Whisper is one of many Youkai that exist in the world, and provides Keita with a special Youkai Watch, which enables him to see and interact with all the other Youkai.
+
+Youkai Watch follows Keita, Whisper and the cat spirit Jibanyan as they encounter Youkai, befriend them, fix all the trouble that they so often cause, and, with the help of the watch, use the powers of previously encountered Youkai to aid them. Young Keita may have been just an ordinary primary school student when he first encountered the Youkai, but the many adventures that follow his discovery provide him with invaluable experiences and precious life lessons that help him grow."
+animeRelated	['Youkai Watch', 'Youkai Watch Movie 1: Tanjou no Himitsu da Nyan!', 'Youkai Watch Movie 2: Enma Daiou to Itsutsu no Monogatari da Nyan!', 'Youkai Watch Movie 3: Soratobu Kujira to Double Sekai no Daibouken da Nyan!', 'Youkai Watch: Best 10', '40 Shuunen Da yo!! CoroCoro All-Star Shougakkou', 'Youkai Watch Movie 5: Forever Friends', 'Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu', 'Youkai Watch!']
+animeCharacters	['Jibanyan', 'Komasan', 'Whisper', 'Amano, Keita', 'Misora, Inaho', 'USApyon', 'Kyuubi', 'Imada, Kanchi', 'Kodama, Fumika', 'Komajirou']
+animeVoices	['Kozakura, Etsuko', 'Endou, Aya', 'Seki, Tomokazu', 'Tomatsu, Haruka', 'Yuuki, Aoi', 'Shigemoto, Kotori', 'Nagata, Ryoko', 'Satou, Chie']
+animeStaff	[['Ushiro, Shinji', 'Director, Episode Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['King Cream Soda.', 'Theme Song Performance'], ['Dream5', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 06: Nobita no Little Star Wars'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 06: Nobita no Little Star Wars
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.95
 animeUsers	2880
 animeRank	
-animePopularity	
-animeDescription	"b""Papi, the tiny president of a faraway planet, escapes to Earth to avoid being captured by the military forces that took over. Despite being welcomed by Doraemon, Nobita and their friends, the little alien notices that his enemies have also reached this world and doesn't want to get his human friends involved in this war. Doraemon, Nobita, Gian, Suneo, and Shizuka start a big adventure as they try to hide and protect Papi.\n\n(Source: ANN)"""
-animeRelated	[b'Daichouhen Doraemon', b'Doraemon (1979)', b'Doraemon Movie 41: Nobita no Little Star Wars']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi', b'Dekisugi, Hidetoshi']
-animeVoices	[b'\nOoyama, Nobuyo\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nNomura, Michiko\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nTatekabe, Kazuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShibayama, Tsutomu\n\nDirector\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nTakeda, Tetsuya\n\nTheme Song Lyrics, Theme Song Performance\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n']
+animePopularity	7258
+animeDescription	"Papi, the tiny president of a faraway planet, escapes to Earth to avoid being captured by the military forces that took over. Despite being welcomed by Doraemon, Nobita and their friends, the little alien notices that his enemies have also reached this world and doesn't want to get his human friends involved in this war. Doraemon, Nobita, Gian, Suneo, and Shizuka start a big adventure as they try to hide and protect Papi.
+
+(Source: ANN)"
+animeRelated	['Daichouhen Doraemon', 'Doraemon (1979)', 'Doraemon Movie 41: Nobita no Little Star Wars']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Dekisugi, Hidetoshi']
+animeVoices	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Nomura, Michiko', 'Kimotsuki, Kaneta', 'Tatekabe, Kazuya']
+animeStaff	[['Shibayama, Tsutomu', 'Director'], ['Urakami, Yasuo', 'Sound Director'], ['Takeda, Tetsuya', 'Theme Song Lyrics, Theme Song Performance'], ['Fujiko, Fujio F.', 'Original Creator']]

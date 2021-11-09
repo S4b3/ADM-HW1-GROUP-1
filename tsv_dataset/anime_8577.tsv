@@ -1,5 +1,5 @@
-animeTitle	b'True Love Story'
-animeType	b'OVA'
+animeTitle	True Love Story
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.02
 animeUsers	1460
 animeRank	
-animePopularity	
-animeDescription	"b""When Morisaki Yuuta ran into a girl in the school hallway that day, he had no idea his life would change forever. As a member of the photography club and a fledgling to the world of women, Yuuta's life has been turned upside down by the entrance of not one, but several women into his life! From old friends to new acquaintances, it will be tough figuring out who to choose!\n\n It is based on the latest installment of the True Love Story series of dating sims."""
+animePopularity	7310
+animeDescription	"When Morisaki Yuuta ran into a girl in the school hallway that day, he had no idea his life would change forever. As a member of the photography club and a fledgling to the world of women, Yuuta's life has been turned upside down by the entrance of not one, but several women into his life! From old friends to new acquaintances, it will be tough figuring out who to choose!
+
+ It is based on the latest installment of the True Love Story series of dating sims."
 animeRelated	[]
-animeCharacters	[b'Kusunose, Hina', b'Morisaki, Yuuta', b'Kiriya, Satomi', b'Morisaki, Ruri']
-animeVoices	[b'\nKuwatani, Natsuko\nJapanese\n', b'\nArai, Takayuki\nJapanese\n', b'\nSasajima, Kaoru\nJapanese\n', b'\nMorota, Kaoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Hidehito\n\nDirector, Storyboard\n\n', b'\nHayashi, Naotaka\n\nScript\n\n', b'\nKuwatani, Natsuko\n\nTheme Song Performance\n\n', b'\nKatahira, Shinji\n\nArt Director\n\n']
+animeCharacters	['Kusunose, Hina', 'Morisaki, Yuuta', 'Kiriya, Satomi', 'Morisaki, Ruri']
+animeVoices	['Kuwatani, Natsuko', 'Arai, Takayuki', 'Sasajima, Kaoru', 'Morota, Kaoru']
+animeStaff	[['Ueda, Hidehito', 'Director, Storyboard'], ['Hayashi, Naotaka', 'Script'], ['Kuwatani, Natsuko', 'Theme Song Performance'], ['Katahira, Shinji', 'Art Director']]

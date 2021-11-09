@@ -1,5 +1,5 @@
-animeTitle	b'Sora no Otoshimono'
-animeType	b'TV'
+animeTitle	Sora no Otoshimono
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.31
 animeUsers	219070
 animeRank	
-animePopularity	
-animeDescription	"b""Ever since he was a child, Tomoki Sakurai has always woke up with tears after a dream of an angel. His childhood friend Sohara Mitsuki worries about this and decides to seek the help of Eishirou Sugata, an eccentric sky maniac. He concludes that Tomoki's dream is undoubtedly connected to what is known as the New World, a floating anomaly that scientists have failed to understand.\n\nRecruiting the New World Discovery Club's first members, Eishirou schedules a time to meet up in order to observe the mystery in the sky. That day, Tomoki's peaceful life is changed forever when a strange girl falls from the sky and begins to call him master.\n\nSora no Otoshimono follows the daily activities of the New World Discovery Club as they begin to learn more about the Angeloids that have arrived on Earth.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Sora no Otoshimono', b'Sora no Otoshimono: Project Pink']
-animeCharacters	[b'Ikaros', b'Sakurai, Tomoki', b'Nymph', b'Sugata, Eishirou', b'Satsukitane, Mikako', b'Mitsuki, Sohara', b'Sakurai, Tomozo', b'Man of Judas', b'Daedalus', b'Minos']
-animeVoices	[b'\nHayami, Saori\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nNomizu, Iori\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n', b'\nMina\nJapanese\n', b'\nIwasaki, Hiroshi\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nOogame, Asuka\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuura, Hiroaki\n\nProducer\n\n', b'\nSaitou, Hisashi\n\nDirector\n\n', b'\nTakahashi, Tsuyoshi\n\nSound Director\n\n', b'\nHashimoto, Hiroyuki\n\nEpisode Director\n\n']
+animePopularity	384
+animeDescription	"Ever since he was a child, Tomoki Sakurai has always woke up with tears after a dream of an angel. His childhood friend Sohara Mitsuki worries about this and decides to seek the help of Eishirou Sugata, an eccentric sky maniac. He concludes that Tomoki's dream is undoubtedly connected to what is known as the New World, a floating anomaly that scientists have failed to understand.
+
+Recruiting the New World Discovery Club's first members, Eishirou schedules a time to meet up in order to observe the mystery in the sky. That day, Tomoki's peaceful life is changed forever when a strange girl falls from the sky and begins to call him master.
+
+Sora no Otoshimono follows the daily activities of the New World Discovery Club as they begin to learn more about the Angeloids that have arrived on Earth.
+
+[Written by MAL Rewrite]"
+animeRelated	['Sora no Otoshimono', 'Sora no Otoshimono: Project Pink']
+animeCharacters	['Ikaros', 'Sakurai, Tomoki', 'Nymph', 'Sugata, Eishirou', 'Satsukitane, Mikako', 'Mitsuki, Sohara', 'Sakurai, Tomozo', 'Man of Judas', 'Daedalus', 'Minos']
+animeVoices	['Hayami, Saori', 'Hoshi, Souichirou', 'Nomizu, Iori', 'Suzuki, Tatsuhisa', 'Takagaki, Ayahi', 'Mina', 'Iwasaki, Hiroshi', 'Kosugi, Juurouta', 'Oogame, Asuka', 'Miki, Shinichiro']
+animeStaff	[['Matsuura, Hiroaki', 'Producer'], ['Saitou, Hisashi', 'Director'], ['Takahashi, Tsuyoshi', 'Sound Director'], ['Hashimoto, Hiroyuki', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'With You: Mitsumeteitai'
-animeType	b'OVA'
+animeTitle	With You: Mitsumeteitai
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.38
 animeUsers	334
 animeRank	
-animePopularity	
-animeDescription	b'Based on a H-game with the same title released by Cocktail Soft in 1998, With You: Mitsumeteitai focuses on love triangle between the main characters who were childhood friends. They were separated because one of them had to move to Myanmar (an Asian country formerly known as Burma). After six years, they are re-united again and the story begins...\n\n(Source: AniDB)'
+animePopularity	10790
+animeDescription	"Based on a H-game with the same title released by Cocktail Soft in 1998, With You: Mitsumeteitai focuses on love triangle between the main characters who were childhood friends. They were separated because one of them had to move to Myanmar (an Asian country formerly known as Burma). After six years, they are re-united again and the story begins...
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Naruse, Manami', b'Saeko, Tanaka', b'Hikawa, Naori', b'Cyamna Fon', b'Itou, Noemi', b'Takuya, Shibasaki', b'Masashi, Hashimoto', b'Shigaraki, Miako']
-animeVoices	[b'\nOikawa, Hitomi\nJapanese\n', b'\nAoyama, Touko\nJapanese\n', b'\nNarahashi, Miki\nJapanese\n', b'\nNagasaki, Minami\nJapanese\n', b'\nFujisaki, Kaori\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nKouzuki, Miwa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKageyama, Shigenori\n\nDirector, Storyboard\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n', b'\nTokiwa, Shouji\n\nArt Director\n\n']
+animeCharacters	['Naruse, Manami', 'Saeko, Tanaka', 'Hikawa, Naori', 'Cyamna Fon', 'Itou, Noemi', 'Takuya, Shibasaki', 'Masashi, Hashimoto', 'Shigaraki, Miako']
+animeVoices	['Oikawa, Hitomi', 'Aoyama, Touko', 'Narahashi, Miki', 'Nagasaki, Minami', 'Fujisaki, Kaori', 'Tobita, Nobuo', 'Kouzuki, Miwa']
+animeStaff	[['Kageyama, Shigenori', 'Director, Storyboard'], ['Honda, Yasunori', 'Sound Director'], ['Tokiwa, Shouji', 'Art Director']]

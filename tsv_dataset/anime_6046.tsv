@@ -1,5 +1,5 @@
-animeTitle	b'RobiHachi'
-animeType	b'TV'
+animeTitle	RobiHachi
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.52
 animeUsers	8137
 animeRank	
-animePopularity	
-animeDescription	"b""Ever since they encountered aliens on the moon, humanity's technology has developed by leaps and bounds. Half a century later, even though most have it easy, Robby Yaji and Hacchi Kita cannot seem to catch a break in this advanced society. Robby\xe2\x80\x94a man perpetually struck by misfortune\xe2\x80\x94owes large sums of money to debt collectors due to his poor investments in shady get-rich-quick schemes, and Hacchi finds it difficult to get over the boredom of his mundane life.\n\nThe two end up on an adventure of a lifetime when loan shark boss Yang sends Hacchi to collect the money Robby owes. Rather than pay up, Robby blasts off into space and heads to Isekandar, a planet that supposedly brings happiness to anyone who visits. Seeing a chance for some much needed excitement, Hacchi tags along with Robby on this journey filled with alien encounters, giant robot battles, and all sorts of troublemaking\xe2\x80\x94all the while avoiding Yang and his cronies who are desperately combing the universe to find them.\n\n[Written by MAL Rewrite]"""
+animePopularity	3322
+animeDescription	"Ever since they encountered aliens on the moon, humanity's technology has developed by leaps and bounds. Half a century later, even though most have it easy, Robby Yaji and Hacchi Kita cannot seem to catch a break in this advanced society. Robby—a man perpetually struck by misfortune—owes large sums of money to debt collectors due to his poor investments in shady get-rich-quick schemes, and Hacchi finds it difficult to get over the boredom of his mundane life.
+
+The two end up on an adventure of a lifetime when loan shark boss Yang sends Hacchi to collect the money Robby owes. Rather than pay up, Robby blasts off into space and heads to Isekandar, a planet that supposedly brings happiness to anyone who visits. Seeing a chance for some much needed excitement, Hacchi tags along with Robby on this journey filled with alien encounters, giant robot battles, and all sorts of troublemaking—all the while avoiding Yang and his cronies who are desperately combing the universe to find them.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Kita, Hatchi', b'Yarge, Robby', b'JPS-19', b'Yang', b'Gras', b'Allo']
-animeVoices	[b'\nKoumoto, Keisuke\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nTokudome, Shinnosuke\nJapanese\n', b'\nKimura, Subaru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakamatsu, Shinji\n\nDirector\n\n', b'\nSatou, Masafumi\n\nEpisode Director, Storyboard\n\n', b'\nKanesugi, Hiroko\n\nScript, Series Composition\n\n', b'\nMoriwaki, Makoto\n\nStoryboard\n\n']
+animeCharacters	['Kita, Hatchi', 'Yarge, Robby', 'JPS-19', 'Yang', 'Gras', 'Allo']
+animeVoices	['Koumoto, Keisuke', 'Nakai, Kazuya', 'Sakaguchi, Daisuke', 'Sugita, Tomokazu', 'Tokudome, Shinnosuke', 'Kimura, Subaru']
+animeStaff	[['Takamatsu, Shinji', 'Director'], ['Satou, Masafumi', 'Episode Director, Storyboard'], ['Kanesugi, Hiroko', 'Script, Series Composition'], ['Moriwaki, Makoto', 'Storyboard']]

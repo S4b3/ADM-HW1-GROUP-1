@@ -1,5 +1,5 @@
-animeTitle	b'Choujin Densetsu Urotsukidouji Movie'
-animeType	b'Movie'
+animeTitle	Choujin Densetsu Urotsukidouji Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.12
 animeUsers	2449
 animeRank	
-animePopularity	
-animeDescription	b'Summary of Choujin Densetsu Urotsukidouji.'
-animeRelated	[b'Urotsukidouji', b'Choujin Densetsu Urotsukidouji']
-animeCharacters	"[b'Amanojaku', b'Amano, Megumi', b'Nagumo, Tatsuo', b'Kuroko', b'Itou, Akemi', b'Niki, Yuichi', b""Yuichi's Dad"", b'Suikakujyu', b'Ozaki, Yoriichi', b'Tsugane, Shuji']"
-animeVoices	[b'\nNishimura, Tomohiro\nJapanese\n', b'\nOkamoto, Maya\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishizaki, Yoshinobu\n\nProducer\n\n', b'\nYamaki, Yasuhito\n\nProducer\n\n', b'\nTakayama, Hideki\n\nDirector\n\n', b'\nAikawa, Shou\n\nScript\n\n']
+animePopularity	6807
+animeDescription	Summary of Choujin Densetsu Urotsukidouji.
+animeRelated	['Urotsukidouji', 'Choujin Densetsu Urotsukidouji']
+animeCharacters	"['Amanojaku', 'Amano, Megumi', 'Nagumo, Tatsuo', 'Kuroko', 'Itou, Akemi', 'Niki, Yuichi', ""Yuichi's Dad"", 'Suikakujyu', 'Ozaki, Yoriichi', 'Tsugane, Shuji']"
+animeVoices	['Nishimura, Tomohiro', 'Okamoto, Maya', 'Ichiryuusai, Harumi', 'Yamadera, Kouichi', 'Wakamoto, Norio']
+animeStaff	[['Nishizaki, Yoshinobu', 'Producer'], ['Yamaki, Yasuhito', 'Producer'], ['Takayama, Hideki', 'Director'], ['Aikawa, Shou', 'Script']]

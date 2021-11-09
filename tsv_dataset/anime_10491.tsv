@@ -1,5 +1,5 @@
-animeTitle	b'Geori-eui Mubeopja'
-animeType	b'Movie'
+animeTitle	Geori-eui Mubeopja
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.46
 animeUsers	124
 animeRank	
-animePopularity	
-animeDescription	"b""In the year 2010, after World War III, the world is devastated and most of the world's population does not survive. Soryong and Saeng spend their days playing Street Fighter II and fighting each other at the arcades, until one day Chun Li appears before them in real life and reveals that the two friends are the only ones that can stop Bison from taking over the world.\n\n(Source: Wikipedia)"""
-animeRelated	[b'Street Fighter II V']
-animeCharacters	[b'Blanka']
+animePopularity	12971
+animeDescription	"In the year 2010, after World War III, the world is devastated and most of the world's population does not survive. Soryong and Saeng spend their days playing Street Fighter II and fighting each other at the arcades, until one day Chun Li appears before them in real life and reveals that the two friends are the only ones that can stop Bison from taking over the world.
+
+(Source: Wikipedia)"
+animeRelated	['Street Fighter II V']
+animeCharacters	['Blanka']
 animeVoices	[]
 animeStaff	[]

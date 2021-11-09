@@ -1,5 +1,5 @@
-animeTitle	b'Nurarihyon no Mago'
-animeType	b'TV'
+animeTitle	Nurarihyon no Mago
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	7.63
 animeUsers	103036
 animeRank	
-animePopularity	
-animeDescription	"b""Rikuo Nura, a part-youkai and part-human boy, grew up as the young master of the Nura Clan. Comprising youkai of all shapes and sizes, Rikuo treated the clan like family, however, he learned that he was the only one among his classmates who saw them in this light. To most, they were terrifying creatures of folklore who ate children and relished in bloodshed. Taking this to heart, he swore to live his life as a normal human.\n\nNormalcy, however, is hard to come by for young Rikuo. Complicating his goal are his youkai attendant, who under the name Tsurara Oikawa, goes to school alongside him; the young onmyouji Yura Keikain; and his close friend Kiyotsugu, who idolizes youkai and hopes to prove their existence. To make matters worse, rival youkai and other entities threaten to harm those Rikuo holds dear.\n\nIf he wants to protect what's important to him, Rikuo must acknowledge his ancestry\xe2\x80\x94that he is the grandson of the legendary Nurarihyon\xe2\x80\x94and transform at night into a youkai, becoming worthy of being the next leader of the Nura Clan.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Nurarihyon no Mago', b'Nurarihyon no Mago Recaps', b'Nurarihyon no Mago: Sennen Makyou', b'Nurarihyon no Mago: Gekitou Dai Futsal Taikai! Nuragumi W Cup!!']
-animeCharacters	[b'Nura, Rikuo', b'Oikawa, Tsurara', b'Keikain, Yura', b'Ienaga, Kana', b'Nurarihyon', b'Kubinashi', b'Kappa', b'Kurotabou', b'Zen', b'Shouei']
-animeVoices	[b'\nFukuyama, Jun\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nMaeda, Ai\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nYabe, Masahito\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nHoshino, Takanori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishimura, Junji\n\nDirector, Script\n\n', b'\nGouda, Hozumi\n\nSound Director\n\n', b'\nYoshida, Shunji\n\nEpisode Director\n\n', b'\nFukuda, Michio\n\nEpisode Director, Storyboard, Key Animation\n\n']
+animePopularity	738
+animeDescription	"Rikuo Nura, a part-youkai and part-human boy, grew up as the young master of the Nura Clan. Comprising youkai of all shapes and sizes, Rikuo treated the clan like family, however, he learned that he was the only one among his classmates who saw them in this light. To most, they were terrifying creatures of folklore who ate children and relished in bloodshed. Taking this to heart, he swore to live his life as a normal human.
+
+Normalcy, however, is hard to come by for young Rikuo. Complicating his goal are his youkai attendant, who under the name Tsurara Oikawa, goes to school alongside him; the young onmyouji Yura Keikain; and his close friend Kiyotsugu, who idolizes youkai and hopes to prove their existence. To make matters worse, rival youkai and other entities threaten to harm those Rikuo holds dear.
+
+If he wants to protect what's important to him, Rikuo must acknowledge his ancestry—that he is the grandson of the legendary Nurarihyon—and transform at night into a youkai, becoming worthy of being the next leader of the Nura Clan.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Nurarihyon no Mago', 'Nurarihyon no Mago Recaps', 'Nurarihyon no Mago: Sennen Makyou', 'Nurarihyon no Mago: Gekitou Dai Futsal Taikai! Nuragumi W Cup!!']
+animeCharacters	['Nura, Rikuo', 'Oikawa, Tsurara', 'Keikain, Yura', 'Ienaga, Kana', 'Nurarihyon', 'Kubinashi', 'Kappa', 'Kurotabou', 'Zen', 'Shouei']
+animeVoices	['Fukuyama, Jun', 'Horie, Yui', 'Maeda, Ai', 'Hirano, Aya', 'Yusa, Kouji', 'Sakurai, Takahiro', 'Yabe, Masahito', 'Toriumi, Kousuke', 'Sugita, Tomokazu', 'Hoshino, Takanori']
+animeStaff	[['Nishimura, Junji', 'Director, Script'], ['Gouda, Hozumi', 'Sound Director'], ['Yoshida, Shunji', 'Episode Director'], ['Fukuda, Michio', 'Episode Director, Storyboard, Key Animation']]

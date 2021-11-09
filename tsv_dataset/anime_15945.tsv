@@ -1,5 +1,5 @@
-animeTitle	b'Hare Tokidoki Buta'
-animeType	b'Movie'
+animeTitle	Hare Tokidoki Buta
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Noriyasu seems like an average third-grader, but his life goes haywire after he catches his mother reading his private daily journal. In an effort to astonish her, he begins writing outlandish lies about a giant snake in the bathroom, cooking pencils for dinner, and a rain of pigs, but Noriyasu is the one who's shocked when his writings play out in reality and everyone else treats the events as normal. Things become even more chaotic when he takes several stabs at being a newspaperman, producing \xe2\x80\x9cfake news\xe2\x80\x9d that become the talk of the town and one resulting in an apocalyptic porcine holiday.\n\n(Source: ANN)"""
-animeRelated	[b'Hare Tokidoki Buta (TV)']
-animeCharacters	[b'Hatakeyama, Noriyasu', b'Tama-chan', b'Mama', b'Ms. Kazuko', b'Papa', b'Harebuta']
-animeVoices	[b'\nNamikawa, Daisuke\nJapanese\n', b'\nSakuma, Rei\nJapanese\n', b'\nYoshida, Rihoko\nJapanese\n', b'\nTakada, Yumi\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirata, Toshio\n\nDirector\n\n', b'\nYamada, Etsuji\n\nSound Director\n\n', b'\nTakayashiki, Hideo\n\nScreenplay\n\n', b'\nKomatsubara, Kazuo\n\nAnimation Director\n\n']
+animePopularity	14238
+animeDescription	"Noriyasu seems like an average third-grader, but his life goes haywire after he catches his mother reading his private daily journal. In an effort to astonish her, he begins writing outlandish lies about a giant snake in the bathroom, cooking pencils for dinner, and a rain of pigs, but Noriyasu is the one who's shocked when his writings play out in reality and everyone else treats the events as normal. Things become even more chaotic when he takes several stabs at being a newspaperman, producing “fake news” that become the talk of the town and one resulting in an apocalyptic porcine holiday.
+
+(Source: ANN)"
+animeRelated	['Hare Tokidoki Buta (TV)']
+animeCharacters	['Hatakeyama, Noriyasu', 'Tama-chan', 'Mama', 'Ms. Kazuko', 'Papa', 'Harebuta']
+animeVoices	['Namikawa, Daisuke', 'Sakuma, Rei', 'Yoshida, Rihoko', 'Takada, Yumi', 'Genda, Tesshou']
+animeStaff	[['Hirata, Toshio', 'Director'], ['Yamada, Etsuji', 'Sound Director'], ['Takayashiki, Hideo', 'Screenplay'], ['Komatsubara, Kazuo', 'Animation Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Tanjou: Debut'
-animeType	b'OVA'
+animeTitle	Tanjou: Debut
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.08
 animeUsers	325
 animeRank	
-animePopularity	
-animeDescription	b'Aki Itou is a normal highschool girl doing normal things: reading books, feeding stray cats, eating at restaurants with her friend Kumi, dreaming of being an adult, and admiring the boy she likes. However, reality is not always kind to girls with dreams, as she finds out.\n\n(Source: ANN)'
+animePopularity	11257
+animeDescription	"Aki Itou is a normal highschool girl doing normal things: reading books, feeding stray cats, eating at restaurants with her friend Kumi, dreaming of being an adult, and admiring the boy she likes. However, reality is not always kind to girls with dreams, as she finds out.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Fujimura, Saori', b'Tanaka, Kumi', b'Itou, Aki']
-animeVoices	[b'\nKasahara, Hiroko\nJapanese\n', b'\nKanai, Mika\nJapanese\n', b'\nTominaga, Miina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMochizuki, Tomomi\n\nDirector\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n', b'\nKaneko, Hidetoshi\n\nArt Director\n\n', b'\nWatanabe, Jun\n\nIn-Between Animation\n\n']
+animeCharacters	['Fujimura, Saori', 'Tanaka, Kumi', 'Itou, Aki']
+animeVoices	['Kasahara, Hiroko', 'Kanai, Mika', 'Tominaga, Miina']
+animeStaff	[['Mochizuki, Tomomi', 'Director'], ['Honda, Yasunori', 'Sound Director'], ['Kaneko, Hidetoshi', 'Art Director'], ['Watanabe, Jun', 'In-Between Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Groizer X'
-animeType	b'TV'
+animeTitle	Groizer X
+animeType	TV
 animeNumEpisode	36
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.08
 animeUsers	198
 animeRank	
-animePopularity	
-animeDescription	b'The Gaira aliens, hidden in the Arctic, plan to conquer Earth. Captured and forced to work for the aliens, Dr. Yan creates the ultimate weapon, a transformable aerial robot called Groizer X. Entrusted to his daughter Rita, Groizer X escapes the clutches of the Gaira and lands in Japan, where pilot Jo Kaisaka meets a wounded Rita. Taking up the controls of Groizer X, Jo and Rita fight against the Gaira invasion. '
+animePopularity	11756
+animeDescription	The Gaira aliens, hidden in the Arctic, plan to conquer Earth. Captured and forced to work for the aliens, Dr. Yan creates the ultimate weapon, a transformable aerial robot called Groizer X. Entrusted to his daughter Rita, Groizer X escapes the clutches of the Gaira and lands in Japan, where pilot Jo Kaisaka meets a wounded Rita. Taking up the controls of Groizer X, Jo and Rita fight against the Gaira invasion. 
 animeRelated	[]
-animeCharacters	[b'Yan, Rita', b'Kaisaka, Joe', b'Asuka, Hideki']
-animeVoices	[b'\nFuruya, Toru\nJapanese\n', b'\nKatsuta, Hisashi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakagaki, Kouzou\n\nEpisode Director\n\n', b'\nSakurai, Masaaki\n\nScript\n\n', b'\nItou, Tsunehisa\n\nScript\n\n', b'\nTanaka, Eiji\n\nAnimation Director\n\n']
+animeCharacters	['Yan, Rita', 'Kaisaka, Joe', 'Asuka, Hideki']
+animeVoices	['Furuya, Toru', 'Katsuta, Hisashi']
+animeStaff	[['Takagaki, Kouzou', 'Episode Director'], ['Sakurai, Masaaki', 'Script'], ['Itou, Tsunehisa', 'Script'], ['Tanaka, Eiji', 'Animation Director']]

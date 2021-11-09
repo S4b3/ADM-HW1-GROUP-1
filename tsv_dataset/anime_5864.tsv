@@ -1,5 +1,5 @@
-animeTitle	b'Yami to Boushi to Hon no Tabibito'
-animeType	b'TV'
+animeTitle	Yami to Boushi to Hon no Tabibito
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.55
 animeUsers	9183
 animeRank	
-animePopularity	
-animeDescription	"b'Hatsuki is a highschool student living with her sister, Hatsumi, who she has a huge crush on. On Hatsumi\'s 16th birthday, she is suddenly surrounded by a green light and disappears in front of Hatsuki. She manages to follow Hatsumi with the help of a being resembling a fat baby chick (literally), ending up in a place called ""The Great Library"", which is full of different worlds stored in books. Hatsumi wasn\'t there, though, so the search for Hatsuki\'s great love begins and involves traveling from book to book.\n\n(Source: AniDB) '"
-animeRelated	[b'Yami to Boushi to Hon no Tabibito: Romance', b'Touka Gettan']
-animeCharacters	[b'Azuma, Hazuki', b'Lilith', b'Azuma, Hatsumi', b'Ken', b'Sumeragi, Youko', b'no Mae, Tamamo', b'Kogechibi', b'Arya', b'Gargantua', b'Meirin']
-animeVoices	[b'\nNoto, Mamiko\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nShimizu, Ai\nJapanese\n', b'\nTakagi, Reiko\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nHikami, Kyouko\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamaguchi, Yuuji\n\nDirector\n\n', b'\nMinami, Yasuhiro\n\nEpisode Director, Storyboard\n\n', b'\nMochizuki, Tomomi\n\nScript, Series Composition\n\n', b'\nKawase, Toshifumi\n\nScript\n\n']
+animePopularity	3472
+animeDescription	"Hatsuki is a highschool student living with her sister, Hatsumi, who she has a huge crush on. On Hatsumi's 16th birthday, she is suddenly surrounded by a green light and disappears in front of Hatsuki. She manages to follow Hatsumi with the help of a being resembling a fat baby chick (literally), ending up in a place called ""The Great Library"", which is full of different worlds stored in books. Hatsumi wasn't there, though, so the search for Hatsuki's great love begins and involves traveling from book to book.
+
+(Source: AniDB) "
+animeRelated	['Yami to Boushi to Hon no Tabibito: Romance', 'Touka Gettan']
+animeCharacters	['Azuma, Hazuki', 'Lilith', 'Azuma, Hatsumi', 'Ken', 'Sumeragi, Youko', 'no Mae, Tamamo', 'Kogechibi', 'Arya', 'Gargantua', 'Meirin']
+animeVoices	['Noto, Mamiko', 'Kobayashi, Sanae', 'Shimizu, Ai', 'Takagi, Reiko', 'Ohara, Sayaka', 'Hikami, Kyouko', 'Fukuyama, Jun', 'Miki, Shinichiro']
+animeStaff	[['Yamaguchi, Yuuji', 'Director'], ['Minami, Yasuhiro', 'Episode Director, Storyboard'], ['Mochizuki, Tomomi', 'Script, Series Composition'], ['Kawase, Toshifumi', 'Script']]

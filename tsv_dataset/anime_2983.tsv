@@ -1,5 +1,5 @@
-animeTitle	b'Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!'
-animeType	b'Special'
+animeTitle	Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.18
 animeUsers	5564
 animeRank	
-animePopularity	
-animeDescription	b'Maeda Toshiie and Matsu visit Chousokabe Motochika, who governs Shikoku. They tell Motochika unreasonable demands from Nobunaga. Motochika rejects them and urges Maeda to betray Nobunaga. Meanwhile Keiji tries to convince Mouri Motonari to join the fight against Nobunaga, and is imprisoned as a result. Motochika and Motonari move against each other.'
-animeRelated	[b'Sengoku Basara']
-animeCharacters	[b'Chousokabe, Motochika', b'Mouri, Motonari', b'Maeda, Keiji', b'Kasuga', b'Maeda, Matsu', b'Maeda, Toshiie']
-animeVoices	[b'\nIshino, Ryuuzou\nJapanese\n', b'\nNakahara, Shigeru\nJapanese\n', b'\nMorita, Masakazu\nJapanese\n', b'\nKuwatani, Natsuko\nJapanese\n', b'\nKaida, Yuuko\nJapanese\n', b'\nTsuboi, Tomohiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWada, Jouji\n\nProducer\n\n', b'\nItagaki, Shin\n\nDirector\n\n', b'\nSawano, Hiroyuki\n\nMusic\n\n', b'\nFukunaga, Gen\n\nExecutive Producer\n\n']
+animePopularity	4918
+animeDescription	Maeda Toshiie and Matsu visit Chousokabe Motochika, who governs Shikoku. They tell Motochika unreasonable demands from Nobunaga. Motochika rejects them and urges Maeda to betray Nobunaga. Meanwhile Keiji tries to convince Mouri Motonari to join the fight against Nobunaga, and is imprisoned as a result. Motochika and Motonari move against each other.
+animeRelated	['Sengoku Basara']
+animeCharacters	['Chousokabe, Motochika', 'Mouri, Motonari', 'Maeda, Keiji', 'Kasuga', 'Maeda, Matsu', 'Maeda, Toshiie']
+animeVoices	['Ishino, Ryuuzou', 'Nakahara, Shigeru', 'Morita, Masakazu', 'Kuwatani, Natsuko', 'Kaida, Yuuko', 'Tsuboi, Tomohiro']
+animeStaff	[['Wada, Jouji', 'Producer'], ['Itagaki, Shin', 'Director'], ['Sawano, Hiroyuki', 'Music'], ['Fukunaga, Gen', 'Executive Producer']]

@@ -1,5 +1,5 @@
-animeTitle	b'Bucchigiri'
-animeType	b'OVA'
+animeTitle	Bucchigiri
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""To all his schoolmates, Jin comes across as a hot-headed class clown from typically barging in late and sleeping the whole way through to always responding to any situation with reckless stupidity. The fact that he used to be the charismatic leader of a legendary biker gang has turned into an urban legend; however, after starting a rivalry with the captain of the school baseball team, he and two former members, become their star players. But it's not long before his past catches up to him...\n\n(Source: ANN)"""
-animeRelated	[b'Bucchigiri']
-animeCharacters	[b'Nakamori, Rui']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatabe, Katsuyoshi\n\nDirector\n\n', b'\nMiyamae, Mitsuharu\n\nArt Director\n\n', b'\nTahara, Yuuko\n\nArt Director\n\n', b'\nNakahara, Yuu\n\nOriginal Creator\n\n']
+animePopularity	12586
+animeDescription	"To all his schoolmates, Jin comes across as a hot-headed class clown from typically barging in late and sleeping the whole way through to always responding to any situation with reckless stupidity. The fact that he used to be the charismatic leader of a legendary biker gang has turned into an urban legend; however, after starting a rivalry with the captain of the school baseball team, he and two former members, become their star players. But it's not long before his past catches up to him...
+
+(Source: ANN)"
+animeRelated	['Bucchigiri']
+animeCharacters	['Nakamori, Rui']
+animeVoices	['Hayashibara, Megumi']
+animeStaff	[['Yatabe, Katsuyoshi', 'Director'], ['Miyamae, Mitsuharu', 'Art Director'], ['Tahara, Yuuko', 'Art Director'], ['Nakahara, Yuu', 'Original Creator']]

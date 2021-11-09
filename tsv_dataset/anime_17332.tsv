@@ -1,5 +1,5 @@
-animeTitle	b'Osomatsu-san Movie 2'
-animeType	b'Movie'
+animeTitle	Osomatsu-san Movie 2
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""First of two new anime installments commemorating the anime's sixth anniversary.\n\n(Source: MAL News)"""
-animeRelated	[b'Osomatsu-san', b'Osomatsu-san Movie 3']
+animePopularity	13688
+animeDescription	"First of two new anime installments commemorating the anime's sixth anniversary.
+
+(Source: MAL News)"
+animeRelated	['Osomatsu-san', 'Osomatsu-san Movie 3']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

@@ -1,5 +1,5 @@
-animeTitle	b'Aikatsu Stars! Movie'
-animeType	b'Movie'
+animeTitle	Aikatsu Stars! Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.38
 animeUsers	1716
 animeRank	
-animePopularity	
-animeDescription	"b""The film's plot is set in a southern island, where a Legendary Dress Audition is taking place. Nijino Yume and the others must find secret dresses said to be hidden somewhere in the island.\n\n(Source: ANN)"""
-animeRelated	[b'Aikatsu Stars!', b'Aikatsu!: Nerawareta Mahou no Aikatsu! Card']
-animeCharacters	[b'Nijino, Yume', b'Sakuraba, Rola', b'Kasumi, Yozora', b'Shiratori, Hime', b'Nanakura, Koharu', b'Kisaragi, Tsubasa', b'Kasumi, Asahi', b'Moroboshi, Hikaru']
-animeVoices	[b'\nHorikoshi, Sena\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshizawa, Toshikazu\n\nEpisode Director, Storyboard\n\n', b'\nKikuta, Kouichi\n\nKey Animation\n\n', b'\nShibata, Jun\n\nKey Animation\n\n', b'\nWatanabe, Satomi\n\nPrinciple Drawing\n\n']
+animePopularity	7279
+animeDescription	"The film's plot is set in a southern island, where a Legendary Dress Audition is taking place. Nijino Yume and the others must find secret dresses said to be hidden somewhere in the island.
+
+(Source: ANN)"
+animeRelated	['Aikatsu Stars!', 'Aikatsu!: Nerawareta Mahou no Aikatsu! Card']
+animeCharacters	['Nijino, Yume', 'Sakuraba, Rola', 'Kasumi, Yozora', 'Shiratori, Hime', 'Nanakura, Koharu', 'Kisaragi, Tsubasa', 'Kasumi, Asahi', 'Moroboshi, Hikaru']
+animeVoices	['Horikoshi, Sena']
+animeStaff	[['Yoshizawa, Toshikazu', 'Episode Director, Storyboard'], ['Kikuta, Kouichi', 'Key Animation'], ['Shibata, Jun', 'Key Animation'], ['Watanabe, Satomi', 'Principle Drawing']]

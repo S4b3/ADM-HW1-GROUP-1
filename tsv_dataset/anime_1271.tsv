@@ -1,5 +1,5 @@
-animeTitle	b'Persona 3 the Movie 3: Falling Down'
-animeType	b'Movie'
+animeTitle	Persona 3 the Movie 3: Falling Down
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	7.61
 animeUsers	29072
 animeRank	
-animePopularity	
-animeDescription	"b""As the fall season nears its end, Chidori Yoshino, a member of Strega, abducts Junpei Iori. Meanwhile, Makoto Yuuki and the Specialized Extracurricular Execution Squad (SEES) annihilate the Arcana Hanged Man. Soon after, a mysterious playboy named Ryouji Mochizuki transfers into Gekkoukan High School's Class 2-F.\n\nSupposedly having achieved their goal, the members of SEES believe they are free from the battle that has ruthlessly stolen away the lives of their loved ones. And yet, Tartarus and the Dark Hour continue to exist, undeterred by the extermination of the twelfth Shadow. Distraught by their apparent failure, SEES must cope with their personal struggles and discover whose sake they fight for. As Makoto and Junpei's journeys of self-discovery progress, Ryouji's identity and the reason behind Aegis's hate for him become clear.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	"[b""Persona 3 the Movie 2: Midsummer Knight's Dream"", b'Persona 3 the Movie 4: Winter of Rebirth']"
-animeCharacters	[b'Yuuki, Makoto', b'Aegis', b'Kirijou, Mitsuru', b'Sanada, Akihiko', b'Takeba, Yukari', b'Iori, Junpei', b'Yamagishi, Fuuka', b'Mochizuki, Ryouji', b'Koromaru', b'Amada, Ken']
-animeVoices	[b'\nIshida, Akira\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nOgata, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMotonaga, Keitarou\n\nDirector\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nKumagai, Jun\n\nScript\n\n', b'\nIwahata, Gouichi\n\nStoryboard\n\n']
+animePopularity	2238
+animeDescription	"As the fall season nears its end, Chidori Yoshino, a member of Strega, abducts Junpei Iori. Meanwhile, Makoto Yuuki and the Specialized Extracurricular Execution Squad (SEES) annihilate the Arcana Hanged Man. Soon after, a mysterious playboy named Ryouji Mochizuki transfers into Gekkoukan High School's Class 2-F.
+
+Supposedly having achieved their goal, the members of SEES believe they are free from the battle that has ruthlessly stolen away the lives of their loved ones. And yet, Tartarus and the Dark Hour continue to exist, undeterred by the extermination of the twelfth Shadow. Distraught by their apparent failure, SEES must cope with their personal struggles and discover whose sake they fight for. As Makoto and Junpei's journeys of self-discovery progress, Ryouji's identity and the reason behind Aegis's hate for him become clear.
+
+[Written by MAL Rewrite]
+"
+animeRelated	"[""Persona 3 the Movie 2: Midsummer Knight's Dream"", 'Persona 3 the Movie 4: Winter of Rebirth']"
+animeCharacters	['Yuuki, Makoto', 'Aegis', 'Kirijou, Mitsuru', 'Sanada, Akihiko', 'Takeba, Yukari', 'Iori, Junpei', 'Yamagishi, Fuuka', 'Mochizuki, Ryouji', 'Koromaru', 'Amada, Ken']
+animeVoices	['Ishida, Akira', 'Sakamoto, Maaya', 'Tanaka, Rie', 'Midorikawa, Hikaru', 'Toyoguchi, Megumi', 'Toriumi, Kousuke', 'Noto, Mamiko', 'Ogata, Megumi']
+animeStaff	[['Motonaga, Keitarou', 'Director'], ['Iida, Satoki', 'Sound Director'], ['Kumagai, Jun', 'Script'], ['Iwahata, Gouichi', 'Storyboard']]

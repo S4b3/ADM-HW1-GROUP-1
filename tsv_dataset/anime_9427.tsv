@@ -1,5 +1,5 @@
-animeTitle	b'Joshikausei'
-animeType	b'TV'
+animeTitle	Joshikausei
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	5.78
 animeUsers	18980
 animeRank	
-animePopularity	
-animeDescription	b'Momoko Futo is an average high-school girl going about her everyday life. Though laid-back and cheerful, her life is anything but mundane as her eccentricity and clumsiness never fail to spice up her days. Her two best friends are always with her: the cute and innocent Mayumi Furui, and the calm and cool Shibumi Shibusawa. Without any spoken dialogue or narration, Joshikausei aims to recount the comedic shenanigans these girls get up to through the expressive sounds and gestures that they make.\n\n[Written by MAL Rewrite]\n'
-animeRelated	[b'Joshikausei']
-animeCharacters	[b'Futo, Momoko', b'Furui, Mayumi', b'Shibusawa, Shibumi']
-animeVoices	[b'\nTachibana, Rika\nJapanese\n', b'\nKubo, Yurika\nJapanese\n', b'\nMineuchi, Tomomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasaki, Tokihiro\n\nDirector, Series Composition\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nHorikawa, Kazuto\n\nEditing, Director of Photography\n\n', b'\nWakai, Ken\n\nOriginal Creator\n\n']
+animePopularity	2492
+animeDescription	"Momoko Futo is an average high-school girl going about her everyday life. Though laid-back and cheerful, her life is anything but mundane as her eccentricity and clumsiness never fail to spice up her days. Her two best friends are always with her: the cute and innocent Mayumi Furui, and the calm and cool Shibumi Shibusawa. Without any spoken dialogue or narration, Joshikausei aims to recount the comedic shenanigans these girls get up to through the expressive sounds and gestures that they make.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Joshikausei']
+animeCharacters	['Futo, Momoko', 'Furui, Mayumi', 'Shibusawa, Shibumi']
+animeVoices	['Tachibana, Rika', 'Kubo, Yurika', 'Mineuchi, Tomomi']
+animeStaff	[['Sasaki, Tokihiro', 'Director, Series Composition'], ['Nagasaki, Yukio', 'Sound Director'], ['Horikawa, Kazuto', 'Editing, Director of Photography'], ['Wakai, Ken', 'Original Creator']]

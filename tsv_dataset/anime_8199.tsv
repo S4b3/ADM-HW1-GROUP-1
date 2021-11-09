@@ -1,5 +1,5 @@
-animeTitle	b'Personal Computer Travel Tanteidan'
-animeType	b'TV'
+animeTitle	Personal Computer Travel Tanteidan
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.09
 animeUsers	322
 animeRank	
-animePopularity	
-animeDescription	"b""The book fell onto a computer keyboard, giving anybody the ability to see into the past from Sho's home via the monitor. Ruffles, Chris' dog, managed to get lost in time, prompting Zenmaijikake and Sho's cousin Hisashi to search for her. Sho and Azusa kept watch and control of the computer from the present. The older children also had a hard time trying to keep what happened a secret from Sho's parents.\n\n(Source: Wikipedia)"""
-animeRelated	[b'Anime Oyako Gekijou']
-animeCharacters	[b'Zenmaijikake', b'Azuka, Sho', b'Yamato, Azusa']
-animeVoices	[b'\nMasuoka, Hiroshi\nJapanese\n', b'\nMukaidono, Asami\nJapanese\n', b'\nTakizawa, Kumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuda, Yoshizou\n\nEpisode Director, Storyboard\n\n', b'\nInoue, Osamu\n\nEpisode Director, Storyboard\n\n', b'\nHiguchi, Masakazu\n\nEpisode Director, Script, Storyboard, Chief Animation Director\n\n', b'\nKoyama, Takao\n\nScript\n\n']
+animePopularity	11091
+animeDescription	"The book fell onto a computer keyboard, giving anybody the ability to see into the past from Sho's home via the monitor. Ruffles, Chris' dog, managed to get lost in time, prompting Zenmaijikake and Sho's cousin Hisashi to search for her. Sho and Azusa kept watch and control of the computer from the present. The older children also had a hard time trying to keep what happened a secret from Sho's parents.
+
+(Source: Wikipedia)"
+animeRelated	['Anime Oyako Gekijou']
+animeCharacters	['Zenmaijikake', 'Azuka, Sho', 'Yamato, Azusa']
+animeVoices	['Masuoka, Hiroshi', 'Mukaidono, Asami', 'Takizawa, Kumiko']
+animeStaff	[['Tsuda, Yoshizou', 'Episode Director, Storyboard'], ['Inoue, Osamu', 'Episode Director, Storyboard'], ['Higuchi, Masakazu', 'Episode Director, Script, Storyboard, Chief Animation Director'], ['Koyama, Takao', 'Script']]

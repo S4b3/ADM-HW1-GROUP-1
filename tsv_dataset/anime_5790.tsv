@@ -1,5 +1,5 @@
-animeTitle	b'Digimon Savers the Movie: Kyuukyoku Power! Burst Mode Hatsudou!!'
-animeType	b'Movie'
+animeTitle	Digimon Savers the Movie: Kyuukyoku Power! Burst Mode Hatsudou!!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.56
 animeUsers	5626
 animeRank	
-animePopularity	
-animeDescription	"b""The human world has been attacked by an unknown force. Using poisoned thorns, it has put all humans to sleep. Agumon, Gaomon and Lalamon are the only ones left to defeat this enemy. Guided by Rhythm, a young girl they saved, they learn that their enemy is called Argomon. But what can the three digimon do, when they can't even evolve.\n\n(Source: ANN)"""
-animeRelated	[b'Digimon Savers']
-animeCharacters	[b'Agumon', b'Gaomon', b'Lalamon', b'Rhythm', b'Daimon, Masaru', b'Norstein, Touma', b'Fujieda, Yoshino', b'Satsuma, Rentarou', b'Argomon']
-animeVoices	[b'\nMatsuno, Taiki\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nYukana\nJapanese\n', b'\nYajima, Akiko\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nHanawa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagamine, Tatsuya\n\nDirector, Storyboard\n\n', b'\nRyota, Yamaguchi\n\nScript, Screenplay\n\n', b'\nWada, Koji\n\nTheme Song Performance\n\n', b'\nHongou, Akiyoshi\n\nOriginal Creator\n\n']
+animePopularity	4892
+animeDescription	"The human world has been attacked by an unknown force. Using poisoned thorns, it has put all humans to sleep. Agumon, Gaomon and Lalamon are the only ones left to defeat this enemy. Guided by Rhythm, a young girl they saved, they learn that their enemy is called Argomon. But what can the three digimon do, when they can't even evolve.
+
+(Source: ANN)"
+animeRelated	['Digimon Savers']
+animeCharacters	['Agumon', 'Gaomon', 'Lalamon', 'Rhythm', 'Daimon, Masaru', 'Norstein, Touma', 'Fujieda, Yoshino', 'Satsuma, Rentarou', 'Argomon']
+animeVoices	['Matsuno, Taiki', 'Nakai, Kazuya', 'Yukana', 'Yajima, Akiko', 'Hoshi, Souichirou', 'Hanawa']
+animeStaff	[['Nagamine, Tatsuya', 'Director, Storyboard'], ['Ryota, Yamaguchi', 'Script, Screenplay'], ['Wada, Koji', 'Theme Song Performance'], ['Hongou, Akiyoshi', 'Original Creator']]

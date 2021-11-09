@@ -1,5 +1,5 @@
-animeTitle	b'Yama ni Kagayaku: Guide-ken Heiji Gou'
-animeType	b'Special'
+animeTitle	Yama ni Kagayaku: Guide-ken Heiji Gou
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A short story about a mountain guide dog Heiji.'
+animePopularity	15836
+animeDescription	A short story about a mountain guide dog Heiji.
 animeRelated	[]
-animeCharacters	[b'Narrator']
-animeVoices	[b'\nFujita, Toshiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuni, Kawachi\n\nMusic\n\n']
+animeCharacters	['Narrator']
+animeVoices	['Fujita, Toshiko']
+animeStaff	[['Kuni, Kawachi', 'Music']]

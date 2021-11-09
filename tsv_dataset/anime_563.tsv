@@ -1,5 +1,5 @@
-animeTitle	b'xxxHOLiC'
-animeType	b'TV'
+animeTitle	xxxHOLiC
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.0
 animeUsers	101677
 animeRank	
-animePopularity	
-animeDescription	"b'Kimihiro Watanuki can see spirits and other assorted supernatural creatures, which is quite a bothersome ability he strongly dislikes. On the way home one day, while plagued by some spirits, he is inexplicably compelled to enter a strange house. There, he encounters Yuuko, a mysterious woman who claims to be able to rid him of the ability to see and attract the troublesome creatures\xe2\x80\x94for a price. She demands that he work at her ""store"" that grants wishes to people, and thus begins Watanuki\'s adventures through weird and wonderful events.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'xxxHOLiC', b'xxxHOLiC: AnotherHOLiC', b'Tsubasa Chronicle', b'xxxHOLiC Movie: Manatsu no Yoru no Yume', b'xxxHOLiC Kei']
-animeCharacters	[b'Ichihara, Yuuko', b'Watanuki, Kimihiro', b'Doumeki, Shizuka', b'Kunogi, Himawari', b'Modoki, Mokona', b'Zashiki-warashi', b'Mugetsu', b'Maru', b'Ame-warashi']
-animeVoices	[b'\nOhara, Sayaka\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nKikuchi, Mika\nJapanese\n', b'\nMutou, Sumi\nJapanese\n', b'\nKojima, Kazuko\nJapanese\n', b'\nYajima, Akiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nMorishita, Katsuji\n\nProducer\n\n', b'\nMizushima, Tsutomu\n\nDirector, Episode Director, Storyboard, Screenplay\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n']
+animePopularity	627
+animeDescription	"Kimihiro Watanuki can see spirits and other assorted supernatural creatures, which is quite a bothersome ability he strongly dislikes. On the way home one day, while plagued by some spirits, he is inexplicably compelled to enter a strange house. There, he encounters Yuuko, a mysterious woman who claims to be able to rid him of the ability to see and attract the troublesome creatures—for a price. She demands that he work at her ""store"" that grants wishes to people, and thus begins Watanuki's adventures through weird and wonderful events.
+
+[Written by MAL Rewrite]"
+animeRelated	['xxxHOLiC', 'xxxHOLiC: AnotherHOLiC', 'Tsubasa Chronicle', 'xxxHOLiC Movie: Manatsu no Yoru no Yume', 'xxxHOLiC Kei']
+animeCharacters	['Ichihara, Yuuko', 'Watanuki, Kimihiro', 'Doumeki, Shizuka', 'Kunogi, Himawari', 'Modoki, Mokona', 'Zashiki-warashi', 'Mugetsu', 'Maru', 'Ame-warashi']
+animeVoices	['Ohara, Sayaka', 'Fukuyama, Jun', 'Nakai, Kazuya', 'Itou, Shizuka', 'Kikuchi, Mika', 'Mutou, Sumi', 'Kojima, Kazuko', 'Yajima, Akiko']
+animeStaff	[['Cook, Justin', 'Producer'], ['Morishita, Katsuji', 'Producer'], ['Mizushima, Tsutomu', 'Director, Episode Director, Storyboard, Screenplay'], ['Wakabayashi, Kazuhiro', 'Sound Director']]

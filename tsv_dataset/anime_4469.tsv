@@ -1,5 +1,5 @@
-animeTitle	b'Toaru Majutsu no Index 10th Anniversary PV'
-animeType	b'Special'
+animeTitle	Toaru Majutsu no Index 10th Anniversary PV
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.84
 animeUsers	4354
 animeRank	
-animePopularity	
-animeDescription	"b""To celebrate the ten years of Kazuma Kamachi's professional career as a writer, Dengeki released a video showing the main cast of Kamachi's works as they gather for the 10th anniversary event.\n\n(Source: Toaru Majutsu no Index Wiki)"""
-animeRelated	[b'Toaru Majutsu no Index', b'Toaru Kagaku no Railgun', b'Heavy Object']
-animeCharacters	[b'Kamijou, Touma', b'Index Librorum Prohibitorum', b'Misaka, Mikoto', b'Accelerator', b'Shirai, Kuroko', b'Saten, Ruiko', b'Shokuhou, Misaki', b'Kanzaki, Kaori', b'Uiharu, Kazari', b'Othinus']
-animeVoices	[b'\nAbe, Atsushi\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawada, Mami\n\nTheme Song Lyrics, Theme Song Performance\n\n', b'\nIuchi, Maiko\n\nTheme Song Composition\n\n', b'\nKamachi, Kazuma\n\nOriginal Creator\n\n']
+animePopularity	4854
+animeDescription	"To celebrate the ten years of Kazuma Kamachi's professional career as a writer, Dengeki released a video showing the main cast of Kamachi's works as they gather for the 10th anniversary event.
+
+(Source: Toaru Majutsu no Index Wiki)"
+animeRelated	['Toaru Majutsu no Index', 'Toaru Kagaku no Railgun', 'Heavy Object']
+animeCharacters	['Kamijou, Touma', 'Index Librorum Prohibitorum', 'Misaka, Mikoto', 'Accelerator', 'Shirai, Kuroko', 'Saten, Ruiko', 'Shokuhou, Misaki', 'Kanzaki, Kaori', 'Uiharu, Kazari', 'Othinus']
+animeVoices	['Abe, Atsushi', 'Iguchi, Yuka', 'Satou, Rina', 'Okamoto, Nobuhiko']
+animeStaff	[['Kawada, Mami', 'Theme Song Lyrics, Theme Song Performance'], ['Iuchi, Maiko', 'Theme Song Composition'], ['Kamachi, Kazuma', 'Original Creator']]

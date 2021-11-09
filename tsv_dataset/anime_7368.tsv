@@ -1,5 +1,5 @@
-animeTitle	b'AD Police'
-animeType	b'OVA'
+animeTitle	AD Police
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.26
 animeUsers	5369
 animeRank	
-animePopularity	
-animeDescription	b'The year is 2027 in MegaTokyo, six years before the Knight Sabers will make their debut. Boomers (artificial humans) are still a relatively new advancement, and the implementation and integration of boomers into society is still a bit buggy -- sometimes fatally so. Whenever a boomer incident occurs, though, there is the Advanced Police, a special force trained to deal with boomer crimes.\n\nLeon McNichol is a rookie in the AD Police, and is just starting to become exposed to the horrors and tragedies one finds every day in MegaTokyo. He and his veteran partner, Gina Marceau, slowly learn about the ever-fading line that separates man from machine. '
-animeRelated	[b'AD. Police: Shuuen Toshi', b'Bubblegum Crisis', b'A.D. Police (TV)']
-animeCharacters	[b'McNichol, Leon', b'Marceau, Gina', b'Lady, Phantom', b'Fanword, Billy', b'Cara, Iris']
-animeVoices	[b'\nFurukawa, Toshio\nJapanese\n', b'\nMatsuoka, Youko\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nTominaga, Miina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishimori, Akira\n\nDirector, Storyboard\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nFurukawa, Toshio\n\nTheme Song Performance\n\n', b'\nBonnevie, Lou\n\nTheme Song Performance\n\n']
+animePopularity	4600
+animeDescription	"The year is 2027 in MegaTokyo, six years before the Knight Sabers will make their debut. Boomers (artificial humans) are still a relatively new advancement, and the implementation and integration of boomers into society is still a bit buggy -- sometimes fatally so. Whenever a boomer incident occurs, though, there is the Advanced Police, a special force trained to deal with boomer crimes.
+
+Leon McNichol is a rookie in the AD Police, and is just starting to become exposed to the horrors and tragedies one finds every day in MegaTokyo. He and his veteran partner, Gina Marceau, slowly learn about the ever-fading line that separates man from machine. "
+animeRelated	['AD. Police: Shuuen Toshi', 'Bubblegum Crisis', 'A.D. Police (TV)']
+animeCharacters	['McNichol, Leon', 'Marceau, Gina', 'Lady, Phantom', 'Fanword, Billy', 'Cara, Iris']
+animeVoices	['Furukawa, Toshio', 'Matsuoka, Youko', 'Ichiryuusai, Harumi', 'Wakamoto, Norio', 'Tominaga, Miina']
+animeStaff	[['Nishimori, Akira', 'Director, Storyboard'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Furukawa, Toshio', 'Theme Song Performance'], ['Bonnevie, Lou', 'Theme Song Performance']]

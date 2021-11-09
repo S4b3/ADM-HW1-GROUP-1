@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku'
-animeType	b'OVA'
+animeTitle	Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.76
 animeUsers	23428
 animeRank	
-animePopularity	
-animeDescription	b'Dr. Raichii is the only Tsufurujin (the race eradicated by the Saiyajin many years ago) thought to have survived. He now is going to take revenge on the only surviving Saiyajin still alive, Goku and Vegeta. He uses machines that emit destron, a gas that will destroy all life on Earth. Now the the Z warriors only have 72 hours to find and destroy Dr. Raichii.\n\n(Source: ANN)'
-animeRelated	[b'Dragon Ball Z', b'Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku']
-animeCharacters	[b'Son, Gokuu', b'Vegeta', b'Son, Gohan', b'Piccolo', b'Future Trunks', b'Freeza', b'Bulma', b'Mr. Popo', b'Chi-Chi', b'Cooler']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nNishio, Toku\nJapanese\n', b'\nWatanabe, Naoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamauchi, Shigeyasu\n\nDirector\n\n', b'\nKoyama, Takao\n\nScript\n\n', b'\nToriyama, Akira\n\nOriginal Creator\n\n', b'\nTate, Naoki\n\nKey Animation\n\n']
+animePopularity	2683
+animeDescription	"Dr. Raichii is the only Tsufurujin (the race eradicated by the Saiyajin many years ago) thought to have survived. He now is going to take revenge on the only surviving Saiyajin still alive, Goku and Vegeta. He uses machines that emit destron, a gas that will destroy all life on Earth. Now the the Z warriors only have 72 hours to find and destroy Dr. Raichii.
+
+(Source: ANN)"
+animeRelated	['Dragon Ball Z', 'Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku']
+animeCharacters	['Son, Gokuu', 'Vegeta', 'Son, Gohan', 'Piccolo', 'Future Trunks', 'Freeza', 'Bulma', 'Mr. Popo', 'Chi-Chi', 'Cooler']
+animeVoices	['Nozawa, Masako', 'Horikawa, Ryo', 'Furukawa, Toshio', 'Kusao, Takeshi', 'Nakao, Ryusei', 'Tsuru, Hiromi', 'Nishio, Toku', 'Watanabe, Naoko']
+animeStaff	[['Yamauchi, Shigeyasu', 'Director'], ['Koyama, Takao', 'Script'], ['Toriyama, Akira', 'Original Creator'], ['Tate, Naoki', 'Key Animation']]

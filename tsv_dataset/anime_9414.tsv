@@ -1,5 +1,5 @@
-animeTitle	b'Ankoku Cat'
-animeType	b'ONA'
+animeTitle	Ankoku Cat
+animeType	ONA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.78
 animeUsers	1049
 animeRank	
-animePopularity	
-animeDescription	"b'Dark Side Cat, a mysterious stray cat, dashes throughout the night city in punk clothing and plays pranks on humans he dislikes. He plays a game of cat and mouse with the city council, known as the ""Stray Cat Hunt.""'"
-animeRelated	[b'Ankoku Cat VS']
-animeCharacters	[b'Dark Side Cat', b'Kiki']
+animePopularity	9018
+animeDescription	"Dark Side Cat, a mysterious stray cat, dashes throughout the night city in punk clothing and plays pranks on humans he dislikes. He plays a game of cat and mouse with the city council, known as the ""Stray Cat Hunt."""
+animeRelated	['Ankoku Cat VS']
+animeCharacters	['Dark Side Cat', 'Kiki']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n']
+animeStaff	[['Tsuruoka, Youta', 'Sound Director']]

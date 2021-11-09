@@ -1,5 +1,5 @@
-animeTitle	b'Inazuma Eleven Go: Kyuukyoku no Kizuna Gryphon'
-animeType	b'Movie'
+animeTitle	Inazuma Eleven Go: Kyuukyoku no Kizuna Gryphon
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.38
 animeUsers	7443
 animeRank	
-animePopularity	
-animeDescription	"b""The Raimon team has been invited by Fifth Sector strangely to a soccer camp. When they agree, things go out of hand since it was revealed that Fifth Sector wants to eliminate them once and for all on the island called God Eden. Now, the Raimon team needs to train harder to be able to show that they have the strength to fight back and prove Fifth Sector's doings wrong.\n\n(Source: Inazuma Eleven Wiki)"""
-animeRelated	[b'Inazuma Eleven Go']
-animeCharacters	[b'Endou, Mamoru', b'Tsurugi, Kyousuke', b'Matsukaze, Tenma', b'Shindou, Takuto', b'Hakuryuu', b'Shuu', b'Fubuki, Shirou', b'Gouenji, Shuuya', b'Kidou, Yuuto', b'Kazemaru, Ichirouta']
-animeVoices	[b'\nTakeuchi, Junko\nJapanese\n', b'\nOhara, Takashi\nJapanese\n', b'\nTerasaki, Yuka\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nNojima, Hirofumi\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nNishigaki, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyao, Yoshikazu\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nT-Pistonz+KMC\n\nTheme Song Composition, Theme Song Lyrics, Theme Song Performance\n\n', b'\nHino, Akihiro\n\nOriginal Creator\n\n']
+animePopularity	4695
+animeDescription	"The Raimon team has been invited by Fifth Sector strangely to a soccer camp. When they agree, things go out of hand since it was revealed that Fifth Sector wants to eliminate them once and for all on the island called God Eden. Now, the Raimon team needs to train harder to be able to show that they have the strength to fight back and prove Fifth Sector's doings wrong.
+
+(Source: Inazuma Eleven Wiki)"
+animeRelated	['Inazuma Eleven Go']
+animeCharacters	['Endou, Mamoru', 'Tsurugi, Kyousuke', 'Matsukaze, Tenma', 'Shindou, Takuto', 'Hakuryuu', 'Shuu', 'Fubuki, Shirou', 'Gouenji, Shuuya', 'Kidou, Yuuto', 'Kazemaru, Ichirouta']
+animeVoices	['Takeuchi, Junko', 'Ohara, Takashi', 'Terasaki, Yuka', 'Saiga, Mitsuki', 'Fukuyama, Jun', 'Sawashiro, Miyuki', 'Miyano, Mamoru', 'Nojima, Hirofumi', 'Yoshino, Hiroyuki', 'Nishigaki, Yuka']
+animeStaff	[['Miyao, Yoshikazu', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['T-Pistonz+KMC', 'Theme Song Composition, Theme Song Lyrics, Theme Song Performance'], ['Hino, Akihiro', 'Original Creator']]

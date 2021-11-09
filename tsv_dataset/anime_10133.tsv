@@ -1,5 +1,5 @@
-animeTitle	b'Marvel Future Avengers'
-animeType	b'TV'
+animeTitle	Marvel Future Avengers
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.58
 animeUsers	510
 animeRank	
-animePopularity	
-animeDescription	"b'The anime follows Makoto, a young boy who gains superpowers due to an evil gene manipulation experiment. Makoto and other youths join the Avengers as apprentices named ""Future Avengers."" The anime will show Makoto and others as they train, fight villains and grow, under Avengers members Iron Man, Captain America, Hulk, Thor, and Wasp. \n\n(Source: ANN)'"
-animeRelated	"[b""Marvel's Future Avengers"", b'Marvel Disk Wars: The Avengers', b'Avengers Confidential: Black Widow to Punisher', b'Marvel Future Avengers 2nd Season']"
-animeCharacters	[b'Stark, Anthony', b'Rogers, Steve', b'Banner, Bruce', b'Odinson, Thor', b'Chloe', b'van Dyne, Janet', b'Ady', b'Makoto', b'Winston Wilson, Wade', b'Loki']
-animeVoices	[b'\nTamaru, Atsushi\nJapanese\n', b'\nKanada, Aki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Yuuzou\n\nDirector\n\n', b'\nTsubota, Fumi\n\nScript\n\n', b'\nKawajiri, Yoshiaki\n\nStoryboard\n\n', b'\nUmehara, Takahiro\n\nCharacter Design\n\n']
+animePopularity	7922
+animeDescription	"The anime follows Makoto, a young boy who gains superpowers due to an evil gene manipulation experiment. Makoto and other youths join the Avengers as apprentices named ""Future Avengers."" The anime will show Makoto and others as they train, fight villains and grow, under Avengers members Iron Man, Captain America, Hulk, Thor, and Wasp. 
+
+(Source: ANN)"
+animeRelated	"[""Marvel's Future Avengers"", 'Marvel Disk Wars: The Avengers', 'Avengers Confidential: Black Widow to Punisher', 'Marvel Future Avengers 2nd Season']"
+animeCharacters	['Stark, Anthony', 'Rogers, Steve', 'Banner, Bruce', 'Odinson, Thor', 'Chloe', 'van Dyne, Janet', 'Ady', 'Makoto', 'Winston Wilson, Wade', 'Loki']
+animeVoices	['Tamaru, Atsushi', 'Kanada, Aki']
+animeStaff	[['Satou, Yuuzou', 'Director'], ['Tsubota, Fumi', 'Script'], ['Kawajiri, Yoshiaki', 'Storyboard'], ['Umehara, Takahiro', 'Character Design']]

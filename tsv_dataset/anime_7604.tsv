@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon Diamond & Pearl: Clip Show'
-animeType	b'Special'
+animeTitle	Pokemon Diamond & Pearl: Clip Show
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.22
 animeUsers	1026
 animeRank	
-animePopularity	
-animeDescription	"b""A compilation of old clips from Satoshi's journeys. It was aired during the episode 1-3 special on Japanese TV, between episode 2 and 3.\n\n(Source: AniDB, edited)"""
-animeRelated	[b'Pokemon', b'Pokemon Advanced Generation', b'Pokemon Diamond & Pearl']
+animePopularity	8280
+animeDescription	"A compilation of old clips from Satoshi's journeys. It was aired during the episode 1-3 special on Japanese TV, between episode 2 and 3.
+
+(Source: AniDB, edited)"
+animeRelated	['Pokemon', 'Pokemon Advanced Generation', 'Pokemon Diamond & Pearl']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

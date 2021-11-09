@@ -1,5 +1,5 @@
-animeTitle	b'Buzzer Beater 2nd Season'
-animeType	b'TV'
+animeTitle	Buzzer Beater 2nd Season
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.82
 animeUsers	3593
 animeRank	
-animePopularity	
-animeDescription	"b""After being drafted into the Earth Team, a basketball team comprised solely of humans, street-punk-turned-pro Hideyoshi couldn't be more cocky. The team is still up against the Gorons, a physically superior race of aliens who have dominated the game for some time. New challenges and problems stand in their way. Hideyoshi is unhappy with the team and the Gorons have new tricks up their sleeves.\n\n(Source: ANN)"""
-animeRelated	[b'Buzzer Beater']
-animeCharacters	[b'Hideyoshi', b'Ivan', b'Cha-Che', b'DT', b'Han', b'Maru', b'Mo', b'Rose', b'Lazuli', b'Murdoch, Liz']
-animeVoices	[b'\nTakimoto, Fujiko\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiya, Shigeyuki\n\nDirector, Chief Animation Director, Character Design\n\n', b'\nKonuta, Kenji\n\nScript\n\n', b'\nOkawa, Toshimichi\n\nScript\n\n', b'\nNamura, Hidetoshi\n\nStoryboard\n\n']
+animePopularity	5823
+animeDescription	"After being drafted into the Earth Team, a basketball team comprised solely of humans, street-punk-turned-pro Hideyoshi couldn't be more cocky. The team is still up against the Gorons, a physically superior race of aliens who have dominated the game for some time. New challenges and problems stand in their way. Hideyoshi is unhappy with the team and the Gorons have new tricks up their sleeves.
+
+(Source: ANN)"
+animeRelated	['Buzzer Beater']
+animeCharacters	['Hideyoshi', 'Ivan', 'Cha-Che', 'DT', 'Han', 'Maru', 'Mo', 'Rose', 'Lazuli', 'Murdoch, Liz']
+animeVoices	['Takimoto, Fujiko', 'Kobayashi, Sanae', 'Ueda, Yuuji', 'Nakao, Ryusei', 'Nakata, Jouji', 'Asakawa, Yuu', 'Katsuki, Masako']
+animeStaff	[['Miya, Shigeyuki', 'Director, Chief Animation Director, Character Design'], ['Konuta, Kenji', 'Script'], ['Okawa, Toshimichi', 'Script'], ['Namura, Hidetoshi', 'Storyboard']]

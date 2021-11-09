@@ -1,5 +1,5 @@
-animeTitle	b'Mushrambo (2008)'
-animeType	b'OVA'
+animeTitle	Mushrambo (2008)
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.43
 animeUsers	395
 animeRank	
-animePopularity	
-animeDescription	"b""Kokoro wo Chikara ni: The story follows the human girl Yakumo, who awakens from cryogenic sleep in a devastated world destroyed by genetically engineered lifeforms, Enterrans. With the help of a few friendly Enterrans, she goes on a journey to find more human survivors and bring peace between the two factions.\n\nOwaranai Chikyuu: After restoring the world to order, one threat remains for Yakumo and her friends. The cause of the war itself, hidden deep inside a meteorite that crashed at the start of the war, a cause that's about to resurface."""
-animeRelated	[b'Mushrambo']
-animeCharacters	[b'Mashura', b'Sago', b'Mashuranbo', b'Shindou, Yakumo', b'Kutal', b'Lucifen']
+animePopularity	10112
+animeDescription	"Kokoro wo Chikara ni: The story follows the human girl Yakumo, who awakens from cryogenic sleep in a devastated world destroyed by genetically engineered lifeforms, Enterrans. With the help of a few friendly Enterrans, she goes on a journey to find more human survivors and bring peace between the two factions.
+
+Owaranai Chikyuu: After restoring the world to order, one threat remains for Yakumo and her friends. The cause of the war itself, hidden deep inside a meteorite that crashed at the start of the war, a cause that's about to resurface."
+animeRelated	['Mushrambo']
+animeCharacters	['Mashura', 'Sago', 'Mashuranbo', 'Shindou, Yakumo', 'Kutal', 'Lucifen']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorishita, Kouzou\n\nProducer\n\n', b'\nImazawa, Tetsuo\n\nDirector\n\n', b'\nToudou, Izumi\n\nOriginal Creator\n\n']
+animeStaff	[['Morishita, Kouzou', 'Producer'], ['Imazawa, Tetsuo', 'Director'], ['Toudou, Izumi', 'Original Creator']]

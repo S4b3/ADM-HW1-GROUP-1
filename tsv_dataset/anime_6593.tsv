@@ -1,5 +1,5 @@
-animeTitle	b'Mini Van Special'
-animeType	b'Special'
+animeTitle	Mini Van Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.41
 animeUsers	284
 animeRank	
-animePopularity	
-animeDescription	b'A special episode released with the first DVD volume of Mini Vanguard.'
-animeRelated	[b'Mini Van']
-animeCharacters	[b'Kai, Toshiki', b'Sendou, Emi', b'Sendou, Aichi', b'Katsuragi, Kamui', b'Morikawa, Katsumi']
-animeVoices	[b'\nSatou, Takuya\nJapanese\n', b'\nEnomoto, Atsuko\nJapanese\n', b'\nYonaga, Tsubasa\nJapanese\n', b'\nIshikawa, Shizuka\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n']
+animePopularity	11631
+animeDescription	A special episode released with the first DVD volume of Mini Vanguard.
+animeRelated	['Mini Van']
+animeCharacters	['Kai, Toshiki', 'Sendou, Emi', 'Sendou, Aichi', 'Katsuragi, Kamui', 'Morikawa, Katsumi']
+animeVoices	['Satou, Takuya', 'Enomoto, Atsuko', 'Yonaga, Tsubasa', 'Ishikawa, Shizuka', 'Sugiyama, Noriaki']
 animeStaff	[]

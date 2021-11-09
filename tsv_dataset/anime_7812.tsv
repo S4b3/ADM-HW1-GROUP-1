@@ -1,5 +1,5 @@
-animeTitle	"b""Queen's Blade: Grimoire"""
-animeType	b'OVA'
+animeTitle	Queen's Blade: Grimoire
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.17
 animeUsers	2417
 animeRank	
-animePopularity	
-animeDescription	"b""The story takes place after the wandering warrior Leina's championship has ended. The royal court's magician Alicia uses black magic and opens a doorway to another dimension. From that door, a rabbit lures Alicia into another dimension called Melfairland. Melfairland is holding a tournament of its own to award out a Queen's Blade, and Alicia enters the tournament in order to find a way to return to her own world.\n\n(Source: ANN)"""
-animeRelated	"[b""Queen's Blade: Rurou no Senshi""]"
-animeCharacters	[b'Alicia', b'Snow White', b'Seiten', b'Airi', b'Vance, Leina', b'Liliana', b'Sigui', b'Shitateya', b'Kusuriya', b'Zara no Sobo']
-animeVoices	[b'\nOonishi, Saori\nJapanese\n', b'\nKimura, Juri\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nItou, Kanae\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nKawahara, Yoshihisa\nJapanese\n', b'\nAsano, Mayumi\nJapanese\n', b'\nIchijou, Miyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshimoto, Kinji\n\nDirector, Series Composition\n\n', b'\nYuuzumi, Yoshihide\n\nDirector\n\n', b'\nSuzuki, Masashi\n\nScript\n\n', b'\nUrushihara, Satoshi\n\nCharacter Design\n\n']
+animePopularity	5331
+animeDescription	"The story takes place after the wandering warrior Leina's championship has ended. The royal court's magician Alicia uses black magic and opens a doorway to another dimension. From that door, a rabbit lures Alicia into another dimension called Melfairland. Melfairland is holding a tournament of its own to award out a Queen's Blade, and Alicia enters the tournament in order to find a way to return to her own world.
+
+(Source: ANN)"
+animeRelated	"[""Queen's Blade: Rurou no Senshi""]"
+animeCharacters	['Alicia', 'Snow White', 'Seiten', 'Airi', 'Vance, Leina', 'Liliana', 'Sigui', 'Shitateya', 'Kusuriya', 'Zara no Sobo']
+animeVoices	['Oonishi, Saori', 'Kimura, Juri', 'Hikasa, Youko', 'Itou, Kanae', 'Kawasumi, Ayako', 'Itou, Shizuka', 'Kobayashi, Yuu', 'Kawahara, Yoshihisa', 'Asano, Mayumi', 'Ichijou, Miyuki']
+animeStaff	[['Yoshimoto, Kinji', 'Director, Series Composition'], ['Yuuzumi, Yoshihide', 'Director'], ['Suzuki, Masashi', 'Script'], ['Urushihara, Satoshi', 'Character Design']]

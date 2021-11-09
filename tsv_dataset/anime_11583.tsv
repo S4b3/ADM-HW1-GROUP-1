@@ -1,5 +1,5 @@
-animeTitle	b'Legend of Duo'
-animeType	b'TV'
+animeTitle	Legend of Duo
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	4.89
 animeUsers	4256
 animeRank	
-animePopularity	
-animeDescription	"b""It is the early 21st century, and mankind is doomed. Due to a mysterious virus that steals the essence of human life, humanity has been pushed to the brink of extinction with only one hope for salvation: the blood of a vampire. Vampires have closely guarded the key to curing the virus for several years, which has led to an immense rift between them and humans and the world's descension into chaos.\n\nA vampire named Duo, having leaked the secret to saving humanity, is now considered a traitor to his race, and the powerful vampire Zieg is on his trail. However, due to Zieg's sense of duty, his heart is torn: should he kill the man who betrayed his people, or will his personal history with Duo sway him to have a change of heart?\n\n[Written by MAL Rewrite]"""
+animePopularity	5145
+animeDescription	"It is the early 21st century, and mankind is doomed. Due to a mysterious virus that steals the essence of human life, humanity has been pushed to the brink of extinction with only one hope for salvation: the blood of a vampire. Vampires have closely guarded the key to curing the virus for several years, which has led to an immense rift between them and humans and the world's descension into chaos.
+
+A vampire named Duo, having leaked the secret to saving humanity, is now considered a traitor to his race, and the powerful vampire Zieg is on his trail. However, due to Zieg's sense of duty, his heart is torn: should he kill the man who betrayed his people, or will his personal history with Duo sway him to have a change of heart?
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Zeig', b'Duo', b'Stefan']
-animeVoices	[b'\nSugita, Tomokazu\nJapanese\n', b'\nNakamoto, Nobuhisa\nJapanese\n', b'\nAmano, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNegishi, Hiroshi\n\nDirector\n\n', b'\nInoue, Toshiki\n\nScript\n\n', b'\nIshibashi, Daisuke\n\nScript\n\n', b'\nKikuchi, Kouichi\n\nPlanning Producer\n\n']
+animeCharacters	['Zeig', 'Duo', 'Stefan']
+animeVoices	['Sugita, Tomokazu', 'Nakamoto, Nobuhisa', 'Amano, Yuu']
+animeStaff	[['Negishi, Hiroshi', 'Director'], ['Inoue, Toshiki', 'Script'], ['Ishibashi, Daisuke', 'Script'], ['Kikuchi, Kouichi', 'Planning Producer']]

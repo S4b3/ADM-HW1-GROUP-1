@@ -1,5 +1,5 @@
-animeTitle	b'Shin Getter Robo'
-animeType	b'OVA'
+animeTitle	Shin Getter Robo
+animeType	OVA
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.36
 animeUsers	3467
 animeRank	
-animePopularity	
-animeDescription	b'Humanity is under attack by demonic creatures called Oni. Unable to fight back by any other means, the scientist Dr. Saotome creates a series of giant robots that harness the mysterious power of Getter Rays, giving them the strength necessary to fight the Oni. The strongest of these is Getter Robo, and Saotome must enlist three very different men to pilot it - martial artist Ryoma Nagare, criminal leader Hayato Jin, and monk Benkei Musashibou. Together, the Getter Team fights to end the Oni menace forever.\n\n(Source: ANN)'
-animeRelated	[b'Getter Robo']
-animeCharacters	[b'Nagare, Ryouma', b'Jin, Hayato', b'Musashibo, Benkei', b'Professor Saotome', b'Abe, Seimei', b'Saotome, Michiru']
-animeVoices	[b'\nIshikawa, Hideo\nJapanese\n', b'\nUchida, Naoya\nJapanese\n', b'\nYanada, Kiyoyuki\nJapanese\n', b'\nArimoto, Kinryuu\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nHonda, Takako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawagoe, Jun\n\nDirector, Storyboard\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nOonishi, Shinsuke\n\nScript\n\n', b'\nSano, Takashi\n\nStoryboard\n\n']
+animePopularity	5572
+animeDescription	"Humanity is under attack by demonic creatures called Oni. Unable to fight back by any other means, the scientist Dr. Saotome creates a series of giant robots that harness the mysterious power of Getter Rays, giving them the strength necessary to fight the Oni. The strongest of these is Getter Robo, and Saotome must enlist three very different men to pilot it - martial artist Ryoma Nagare, criminal leader Hayato Jin, and monk Benkei Musashibou. Together, the Getter Team fights to end the Oni menace forever.
+
+(Source: ANN)"
+animeRelated	['Getter Robo']
+animeCharacters	['Nagare, Ryouma', 'Jin, Hayato', 'Musashibo, Benkei', 'Professor Saotome', 'Abe, Seimei', 'Saotome, Michiru']
+animeVoices	['Ishikawa, Hideo', 'Uchida, Naoya', 'Yanada, Kiyoyuki', 'Arimoto, Kinryuu', 'Koyasu, Takehito', 'Honda, Takako']
+animeStaff	[['Kawagoe, Jun', 'Director, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Oonishi, Shinsuke', 'Script'], ['Sano, Takashi', 'Storyboard']]

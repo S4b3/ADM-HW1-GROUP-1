@@ -1,5 +1,5 @@
-animeTitle	b'Bungou Stray Dogs: Dead Apple'
-animeType	b'Movie'
+animeTitle	Bungou Stray Dogs: Dead Apple
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.89
 animeUsers	102118
 animeRank	
-animePopularity	
-animeDescription	"b'A large scale catastrophe is occurring across the planet. Ability users are discovered after the appearance of a mysterious fog, apparently having committed suicide, so the Armed Detective Agency sets out to investigate these mysterious deaths. The case seems to involve an unknown ability user referred to as ""Collector,"" a man who could be the mastermind behind the incident.\n\nTrust and courage are put to the test in order to save the city of Yokohama and ability users across the world from the grip of Collector where the Armed Detective Agency forms an unlikely partnership with the dangerous Port Mafia. \n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Bungou Stray Dogs: Dead Apple', b'Bungou Stray Dogs 2nd Season']
-animeCharacters	[b'Dazai, Osamu', b'Nakahara, Chuuya', b'Akutagawa, Ryuunosuke', b'Nakajima, Atsushi', b'Edogawa, Ranpo', b'Oda, Sakunosuke', b'Izumi, Kyouka', b'Yosano, Akiko', b'Dostoyevsky, Fyodor', b'Kunikida, Doppo']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nUemura, Yuuto\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nMorohoshi, Sumire\nJapanese\n', b'\nShimamura, Yuu\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIgarashi, Takuya\n\nDirector\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n', b'\nEnokido, Youji\n\nScript\n\n', b'\nGRANRODEO\n\nTheme Song Performance\n\n']
+animePopularity	960
+animeDescription	"A large scale catastrophe is occurring across the planet. Ability users are discovered after the appearance of a mysterious fog, apparently having committed suicide, so the Armed Detective Agency sets out to investigate these mysterious deaths. The case seems to involve an unknown ability user referred to as ""Collector,"" a man who could be the mastermind behind the incident.
+
+Trust and courage are put to the test in order to save the city of Yokohama and ability users across the world from the grip of Collector where the Armed Detective Agency forms an unlikely partnership with the dangerous Port Mafia. 
+
+[Written by MAL Rewrite]"
+animeRelated	['Bungou Stray Dogs: Dead Apple', 'Bungou Stray Dogs 2nd Season']
+animeCharacters	['Dazai, Osamu', 'Nakahara, Chuuya', 'Akutagawa, Ryuunosuke', 'Nakajima, Atsushi', 'Edogawa, Ranpo', 'Oda, Sakunosuke', 'Izumi, Kyouka', 'Yosano, Akiko', 'Dostoyevsky, Fyodor', 'Kunikida, Doppo']
+animeVoices	['Miyano, Mamoru', 'Taniyama, Kishou', 'Ono, Kensho', 'Uemura, Yuuto', 'Kamiya, Hiroshi', 'Suwabe, Junichi', 'Morohoshi, Sumire', 'Shimamura, Yuu', 'Ishida, Akira', 'Hosoya, Yoshimasa']
+animeStaff	[['Igarashi, Takuya', 'Director'], ['Wakabayashi, Kazuhiro', 'Sound Director'], ['Enokido, Youji', 'Script'], ['GRANRODEO', 'Theme Song Performance']]

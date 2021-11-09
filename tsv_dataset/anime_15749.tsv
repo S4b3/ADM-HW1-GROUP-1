@@ -1,5 +1,5 @@
-animeTitle	b'Gerotan'
-animeType	b'ONA'
+animeTitle	Gerotan
+animeType	ONA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A flash-animated anime series following the strange character Gerotan.'
+animePopularity	16999
+animeDescription	A flash-animated anime series following the strange character Gerotan.
 animeRelated	[]
-animeCharacters	[b'Gerotan']
-animeVoices	[b'\nSaitou, Ayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurai, Hiroaki\n\nDirector\n\n']
+animeCharacters	['Gerotan']
+animeVoices	['Saitou, Ayaka']
+animeStaff	[['Sakurai, Hiroaki', 'Director']]

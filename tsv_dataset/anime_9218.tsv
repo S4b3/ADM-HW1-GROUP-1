@@ -1,5 +1,5 @@
-animeTitle	b'Kyouryuu Tankentai Born Free'
-animeType	b'TV'
+animeTitle	Kyouryuu Tankentai Born Free
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.85
 animeUsers	164
 animeRank	
-animePopularity	
-animeDescription	"b""When a meteor crashes to Earth, it briefly changes the climate and dinosaurs once again roam the planet. It's up to a newly formed expedition team to relocate the dinosaurs to a safe environment.\n\n(Source: AniDB)"""
-animeRelated	[b'Kyouryuu Daisensou Izenborg']
-animeCharacters	[b'Kitayama, Joji', b'Maki, Reiko', b'Koyama, Saburou', b'Masaki, Masao', b'Gonda, Akira', b'Narrator', b'King Butler']
-animeVoices	[b'\nMori, Katsuji\nJapanese\n', b'\nKuri, Youko\nJapanese\n', b'\nKami, Kyounosuke\nJapanese\n', b'\nTakahashi, Kazue\nJapanese\n', b'\nKanemoto, Shingo\nJapanese\n', b'\nNakae, Shinji\nJapanese\n', b'\nTakiguchi, Junpei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nColumbia Yurikago Kai\n\nTheme Song Performance\n\n', b'\nShimon, Masato\n\nTheme Song Performance\n\n']
+animePopularity	11763
+animeDescription	"When a meteor crashes to Earth, it briefly changes the climate and dinosaurs once again roam the planet. It's up to a newly formed expedition team to relocate the dinosaurs to a safe environment.
+
+(Source: AniDB)"
+animeRelated	['Kyouryuu Daisensou Izenborg']
+animeCharacters	['Kitayama, Joji', 'Maki, Reiko', 'Koyama, Saburou', 'Masaki, Masao', 'Gonda, Akira', 'Narrator', 'King Butler']
+animeVoices	['Mori, Katsuji', 'Kuri, Youko', 'Kami, Kyounosuke', 'Takahashi, Kazue', 'Kanemoto, Shingo', 'Nakae, Shinji', 'Takiguchi, Junpei']
+animeStaff	[['Columbia Yurikago Kai', 'Theme Song Performance'], ['Shimon, Masato', 'Theme Song Performance']]

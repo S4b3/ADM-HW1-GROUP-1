@@ -1,5 +1,5 @@
-animeTitle	b'Konchuu Monogatari Minashigo Hutch (1989)'
-animeType	b'TV'
+animeTitle	Konchuu Monogatari Minashigo Hutch (1989)
+animeType	TV
 animeNumEpisode	55
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.51
 animeUsers	463
 animeRank	
-animePopularity	
-animeDescription	"b""A remake of the 1970's version."""
-animeRelated	[b'Konchuu Monogatari Minashigo Hutch', b'Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody']
-animeCharacters	[b'Hutch']
-animeVoices	[b'\nIshikawa, Hitomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuda, Yoshizou\n\nEpisode Director\n\n', b'\nToriumi, Jinzou\n\nScript\n\n', b'\nTakagi, Shinji\n\nScript\n\n', b'\nIshikawa, Hitomi\n\nTheme Song Performance\n\n']
+animePopularity	10840
+animeDescription	A remake of the 1970's version.
+animeRelated	['Konchuu Monogatari Minashigo Hutch', 'Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody']
+animeCharacters	['Hutch']
+animeVoices	['Ishikawa, Hitomi']
+animeStaff	[['Tsuda, Yoshizou', 'Episode Director'], ['Toriumi, Jinzou', 'Script'], ['Takagi, Shinji', 'Script'], ['Ishikawa, Hitomi', 'Theme Song Performance']]

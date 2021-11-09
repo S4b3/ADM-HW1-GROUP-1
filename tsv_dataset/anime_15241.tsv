@@ -1,5 +1,5 @@
-animeTitle	b'Chou Zenmairobo: Patrasche'
-animeType	b'TV'
+animeTitle	Chou Zenmairobo: Patrasche
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A parody of Flanders no Inu that has Parasche being a key-activated mecha robot who fights the antagonists. '
-animeRelated	[b'Flanders no Inu']
-animeCharacters	[b'Alois', b'Nello', b'Ameya', b'Bacchi', b'Jehan', b'Narrator']
-animeVoices	[b'\nKinoshita, Suzuna\nJapanese\n', b'\nHoriuchi, Hayato\nJapanese\n', b'\nKikuchi, Kokoro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Yuuzou\n\nDirector\n\n', b'\nKasugamori, Haruki\n\nScreenplay\n\n', b'\nKoguma\n\nMusic\n\n']
+animePopularity	13263
+animeDescription	A parody of Flanders no Inu that has Parasche being a key-activated mecha robot who fights the antagonists. 
+animeRelated	['Flanders no Inu']
+animeCharacters	['Alois', 'Nello', 'Ameya', 'Bacchi', 'Jehan', 'Narrator']
+animeVoices	['Kinoshita, Suzuna', 'Horiuchi, Hayato', 'Kikuchi, Kokoro']
+animeStaff	[['Yamamoto, Yuuzou', 'Director'], ['Kasugamori, Haruki', 'Screenplay'], ['Koguma', 'Music']]

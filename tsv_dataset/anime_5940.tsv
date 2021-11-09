@@ -1,5 +1,5 @@
-animeTitle	b'Sengoku Majin Goushougun'
-animeType	b'TV'
+animeTitle	Sengoku Majin Goushougun
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.54
 animeUsers	478
 animeRank	
-animePopularity	
-animeDescription	"b""A meteor strikes the Earth and is found to emanate a powerful new energy called Beamler, which is used to power a battle robot, GoShogun, and a teleporting fortress, Good Thunder. The Docougar Crime Syndicate, lead by crime lord Neo Neros, try to steal the secret of the energy from the inventor of GoShogun, but he kills himself rather than let them acquire it. His son is targeted by Neo Neros next, but he is taken in by the crew aboard Good Thunder, who travel the world fighting NeoNeros's forces with GoShogun. \n\n(Source: Wikipedia) """
-animeRelated	[b'Sengoku Majin Goushougun: Toki no Etranger', b'Sengoku Majin Goushougun (Movie)']
-animeCharacters	[b'Shimada, Remy', b'Bundle, Leonardo Medici', b'Gagler, Killy', b'Hojoh, Shingo', b'Cuttnal, Suegni', b'Commander Kernagul', b'Sanada, Kenta', b'Cronkite, Isabelle', b'Tekomu', b'Narrator']
-animeVoices	[b'\nKoyama, Mami\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nKihara, Shoujirou\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nMatsuoka, Youko\nJapanese\n', b'\nMatsuo, Yoshiko\nJapanese\n', b'\nShioya, Yoku\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector, Episode Director, Storyboard, Screenplay\n\n', b'\nMatsuura, Noriyoshi\n\nSound Director\n\n', b'\nShudou, Takeshi\n\nScript, Original Creator, Series Composition\n\n', b'\nOchiai, Masamune\n\nStoryboard, Key Animation, Animation Director\n\n']
+animePopularity	8961
+animeDescription	"A meteor strikes the Earth and is found to emanate a powerful new energy called Beamler, which is used to power a battle robot, GoShogun, and a teleporting fortress, Good Thunder. The Docougar Crime Syndicate, lead by crime lord Neo Neros, try to steal the secret of the energy from the inventor of GoShogun, but he kills himself rather than let them acquire it. His son is targeted by Neo Neros next, but he is taken in by the crew aboard Good Thunder, who travel the world fighting NeoNeros's forces with GoShogun. 
+
+(Source: Wikipedia) "
+animeRelated	['Sengoku Majin Goushougun: Toki no Etranger', 'Sengoku Majin Goushougun (Movie)']
+animeCharacters	['Shimada, Remy', 'Bundle, Leonardo Medici', 'Gagler, Killy', 'Hojoh, Shingo', 'Cuttnal, Suegni', 'Commander Kernagul', 'Sanada, Kenta', 'Cronkite, Isabelle', 'Tekomu', 'Narrator']
+animeVoices	['Koyama, Mami', 'Shiozawa, Kaneto', 'Tanaka, Hideyuki', 'Suzuoki, Hirotaka', 'Kihara, Shoujirou', 'Gouri, Daisuke', 'Matsuoka, Youko', 'Matsuo, Yoshiko', 'Shioya, Yoku', 'Genda, Tesshou']
+animeStaff	[['Yuyama, Kunihiko', 'Director, Episode Director, Storyboard, Screenplay'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Shudou, Takeshi', 'Script, Original Creator, Series Composition'], ['Ochiai, Masamune', 'Storyboard, Key Animation, Animation Director']]

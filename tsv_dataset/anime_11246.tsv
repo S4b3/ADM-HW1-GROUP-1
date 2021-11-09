@@ -1,5 +1,5 @@
-animeTitle	b'Bikini Warriors'
-animeType	b'TV'
+animeTitle	Bikini Warriors
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.13
 animeUsers	33064
 animeRank	
-animePopularity	
-animeDescription	"b""When darkness threatens the world, four heroines hold the only hope for salvation\xe2\x80\x94if they can even manage to get out of the first town, that is. Bikini Warriors follows a party of beautiful adventurers in revealing armor: courageous Fighter, airheaded Paladin, timid Mage, and alluring Darkelf. But can you really be an adventurer if you don't get going on an adventure?\n\nOur heroines are eternally broke, insufferably vain, and frequently outmatched by the dangers of their world. Between fleeing dungeons and robbing peasants, the unlikely heroes will have to learn to live with each other before they can survive a battle with ultimate evil!"""
-animeRelated	[b'Bikini Warriors', b'Bikini Warriors Special']
-animeCharacters	[b'Mage', b'Paladin', b'Fighter', b'Dark Elf', b'Deathgeld', b'Valkyrie', b'Hunter']
-animeVoices	[b'\nKakuma, Ai\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nTakahashi, Chiaki\nJapanese\n', b'\nTakeuchi, Shunsuke\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nNumakura, Manami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuzuya, Naoyuki\n\nDirector\n\n', b'\nEnomoto, Takahiro\n\nSound Director\n\n', b'\nTamai, Tsuyoshi\n\nScript, Series Composition\n\n', b'\nTaka, Tony\n\nOriginal Character Design\n\n']
+animePopularity	1955
+animeDescription	"When darkness threatens the world, four heroines hold the only hope for salvation—if they can even manage to get out of the first town, that is. Bikini Warriors follows a party of beautiful adventurers in revealing armor: courageous Fighter, airheaded Paladin, timid Mage, and alluring Darkelf. But can you really be an adventurer if you don't get going on an adventure?
+
+Our heroines are eternally broke, insufferably vain, and frequently outmatched by the dangers of their world. Between fleeing dungeons and robbing peasants, the unlikely heroes will have to learn to live with each other before they can survive a battle with ultimate evil!"
+animeRelated	['Bikini Warriors', 'Bikini Warriors Special']
+animeCharacters	['Mage', 'Paladin', 'Fighter', 'Dark Elf', 'Deathgeld', 'Valkyrie', 'Hunter']
+animeVoices	['Kakuma, Ai', 'Ueda, Kana', 'Hikasa, Youko', 'Takahashi, Chiaki', 'Takeuchi, Shunsuke', 'Itou, Shizuka', 'Numakura, Manami']
+animeStaff	[['Kuzuya, Naoyuki', 'Director'], ['Enomoto, Takahiro', 'Sound Director'], ['Tamai, Tsuyoshi', 'Script, Series Composition'], ['Taka, Tony', 'Original Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Kobato.: Hajimete no Kobato.'
-animeType	b'Special'
+animeTitle	Kobato.: Hajimete no Kobato.
+animeType	Special
 animeNumEpisode	8
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.82
 animeUsers	3138
 animeRank	
-animePopularity	
-animeDescription	b'Mini Flash anime from the limited-edition DVDs volumes (episodes 1-6) and Blu-ray Box (episodes 1-8, of which 7 and 8 were new additions to the Blu-ray box).'
-animeRelated	[b'Kobato.']
-animeCharacters	[b'Hanato, Kobato', b'Ioryogi']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nInada, Tetsu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCLAMP\n\nStoryboard\n\n']
+animePopularity	5500
+animeDescription	Mini Flash anime from the limited-edition DVDs volumes (episodes 1-6) and Blu-ray Box (episodes 1-8, of which 7 and 8 were new additions to the Blu-ray box).
+animeRelated	['Kobato.']
+animeCharacters	['Hanato, Kobato', 'Ioryogi']
+animeVoices	['Hanazawa, Kana', 'Inada, Tetsu']
+animeStaff	[['CLAMP', 'Storyboard']]

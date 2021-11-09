@@ -1,5 +1,5 @@
-animeTitle	b'Onikirimaru'
-animeType	b'OVA'
+animeTitle	Onikirimaru
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.24
 animeUsers	810
 animeRank	
-animePopularity	
-animeDescription	"b'There was once an ogre (oni) mother who gave birth to a human looking child. Instead of an ogre\'s horn, this child was born with a sword in hand called the ""Onikirimaru"" or Ogre Slayer. He has no name and is only referred to by the name of his sword. Though he appears human, he is pure ogre. Believing that he will become human once all of his kind have vanished from the world of humans, he sets out on his destiny to slay all of his kind. Even now, in the mother world of Japan, he is still out there slaying ogres.\n\n(Source: ANN)'"
-animeRelated	[b'Onikirimaru']
-animeCharacters	[b'Onikirimaru', b'Moeko']
-animeVoices	[b'\nKusao, Takeshi\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKato, Takao\n\nDirector, Episode Director, Storyboard\n\n', b'\nTerada, Kenji\n\nScript\n\n', b'\nKusao, Takeshi\n\nTheme Song Performance\n\n', b'\nKusunoki, Kei\n\nOriginal Creator\n\n']
+animePopularity	8756
+animeDescription	"There was once an ogre (oni) mother who gave birth to a human looking child. Instead of an ogre's horn, this child was born with a sword in hand called the ""Onikirimaru"" or Ogre Slayer. He has no name and is only referred to by the name of his sword. Though he appears human, he is pure ogre. Believing that he will become human once all of his kind have vanished from the world of humans, he sets out on his destiny to slay all of his kind. Even now, in the mother world of Japan, he is still out there slaying ogres.
+
+(Source: ANN)"
+animeRelated	['Onikirimaru']
+animeCharacters	['Onikirimaru', 'Moeko']
+animeVoices	['Kusao, Takeshi', 'Hisakawa, Aya']
+animeStaff	[['Kato, Takao', 'Director, Episode Director, Storyboard'], ['Terada, Kenji', 'Script'], ['Kusao, Takeshi', 'Theme Song Performance'], ['Kusunoki, Kei', 'Original Creator']]

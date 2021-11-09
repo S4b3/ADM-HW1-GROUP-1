@@ -1,5 +1,5 @@
-animeTitle	b'Love Colon'
-animeType	b'OVA'
+animeTitle	Love Colon
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.52
 animeUsers	1580
 animeRank	
-animePopularity	
-animeDescription	b'Based on the adult manga by emily.'
-animeRelated	[b'Love Colon']
-animeCharacters	[b'Sister']
-animeVoices	[b'\nIchimura, Oma\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nemily\n\nOriginal Creator\n\n', b'\nKasumi, Kyouka\n\nDirector of Photography\n\n']
+animePopularity	7070
+animeDescription	Based on the adult manga by emily.
+animeRelated	['Love Colon']
+animeCharacters	['Sister']
+animeVoices	['Ichimura, Oma']
+animeStaff	[['emily', 'Original Creator'], ['Kasumi, Kyouka', 'Director of Photography']]

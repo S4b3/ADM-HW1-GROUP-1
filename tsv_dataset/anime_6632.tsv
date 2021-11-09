@@ -1,5 +1,5 @@
-animeTitle	b'Chou Seimeitai Transformers Beast Wars Neo'
-animeType	b'TV'
+animeTitle	Chou Seimeitai Transformers Beast Wars Neo
+animeType	TV
 animeNumEpisode	35
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.41
 animeUsers	782
 animeRank	
-animePopularity	
-animeDescription	"b""Beast Wars Neo was a television series that aired in Japan in 1999, in support of the toyline of the same name. It directly follows Beast Wars II.\n\nThe show follows the adventures of a crew of Maximals, commanded by Big Convoy, as they compete with Magmatron's evil Predacons to collect the Angolmois energy capsules, scattered at the end of Beast Wars II. """
-animeRelated	[b'Beast Wars Second Chou Seimeitai Transformers']
-animeCharacters	[b'Ratchet', b'Magmatron', b'Convoy, Big', b'Unicron']
-animeVoices	[b'\nRyuzanji, Show\nJapanese\n', b'\nInoue, Junichi\nJapanese\n', b'\nKomura, Tetsuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nHayashi, Yuzo\n\nMusic\n\n', b'\nSekita, Osamu\n\nSeries Production Director\n\n', b'\nTakegami, Junki\n\nSeries Composition\n\n']
+animePopularity	9106
+animeDescription	"Beast Wars Neo was a television series that aired in Japan in 1999, in support of the toyline of the same name. It directly follows Beast Wars II.
+
+The show follows the adventures of a crew of Maximals, commanded by Big Convoy, as they compete with Magmatron's evil Predacons to collect the Angolmois energy capsules, scattered at the end of Beast Wars II. "
+animeRelated	['Beast Wars Second Chou Seimeitai Transformers']
+animeCharacters	['Ratchet', 'Magmatron', 'Convoy, Big', 'Unicron']
+animeVoices	['Ryuzanji, Show', 'Inoue, Junichi', 'Komura, Tetsuo']
+animeStaff	[['Tanaka, Kazuya', 'Sound Director'], ['Hayashi, Yuzo', 'Music'], ['Sekita, Osamu', 'Series Production Director'], ['Takegami, Junki', 'Series Composition']]

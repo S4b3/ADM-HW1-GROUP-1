@@ -1,5 +1,5 @@
-animeTitle	b'Nanatsu no Umi no Tico'
-animeType	b'TV'
+animeTitle	Nanatsu no Umi no Tico
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.38
 animeUsers	1657
 animeRank	
-animePopularity	
-animeDescription	b'Nanami Simpson is a young girl. Her mother dies when she is young, and she goes to live with her father, Scott Simpson, on board a marine research vessel, the Peperonchino. Her father is a marine biologist, and he is in search of a creature known as the glowing whale. When he finds the bones of one of these, he is saddened, and resolves to change his mission toward preserving and caring for the creatures. Nanami befriends an Orca which she names Tico, and she goes swimming with it every day. Eventually, she learns to breathe underwater which astounds her father. Nanami nearly drowns one day, and one of the glowing whales saves her from certain death and returns her to the vessel, where her father finally gets to see it.\n\n(Source: ANN)'
-animeRelated	[b'Nanatsu no Umi no Tico Specials', b'Shiawase Pasta Story']
-animeCharacters	[b'Simpson, Nanami', b'Simpson, Scott', b'Nagisa', b'Al', b'Cheryl', b'Le Conte', b'Rosalind', b'Youko', b'Benex', b'James']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nIkeda, Shuuichi\nJapanese\n', b'\nOkamoto, Maya\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nNaya, Rokurou\nJapanese\n', b'\nKyouda, Hisako\nJapanese\n', b'\nFujii, Kayoko\nJapanese\n', b'\nKawashima, Chiyoko\nJapanese\n', b'\nMasuoka, Hiroshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakagi, Jun\n\nDirector, Episode Director, Storyboard\n\n', b'\nFujino, Sadayoshi\n\nSound Director\n\n', b'\nKusuba, Kouzou\n\nEpisode Director, Storyboard\n\n', b'\nTomobuki, Ami\n\nEpisode Director, Storyboard\n\n']
+animePopularity	7055
+animeDescription	"Nanami Simpson is a young girl. Her mother dies when she is young, and she goes to live with her father, Scott Simpson, on board a marine research vessel, the Peperonchino. Her father is a marine biologist, and he is in search of a creature known as the glowing whale. When he finds the bones of one of these, he is saddened, and resolves to change his mission toward preserving and caring for the creatures. Nanami befriends an Orca which she names Tico, and she goes swimming with it every day. Eventually, she learns to breathe underwater which astounds her father. Nanami nearly drowns one day, and one of the glowing whales saves her from certain death and returns her to the vessel, where her father finally gets to see it.
+
+(Source: ANN)"
+animeRelated	['Nanatsu no Umi no Tico Specials', 'Shiawase Pasta Story']
+animeCharacters	['Simpson, Nanami', 'Simpson, Scott', 'Nagisa', 'Al', 'Cheryl', 'Le Conte', 'Rosalind', 'Youko', 'Benex', 'James']
+animeVoices	['Hayashibara, Megumi', 'Ikeda, Shuuichi', 'Okamoto, Maya', 'Ogata, Kenichi', 'Mizutani, Yuuko', 'Naya, Rokurou', 'Kyouda, Hisako', 'Fujii, Kayoko', 'Kawashima, Chiyoko', 'Masuoka, Hiroshi']
+animeStaff	[['Takagi, Jun', 'Director, Episode Director, Storyboard'], ['Fujino, Sadayoshi', 'Sound Director'], ['Kusuba, Kouzou', 'Episode Director, Storyboard'], ['Tomobuki, Ami', 'Episode Director, Storyboard']]

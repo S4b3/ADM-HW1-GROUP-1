@@ -1,5 +1,5 @@
-animeTitle	b'Shuffle! Prologue'
-animeType	b'OVA'
+animeTitle	Shuffle! Prologue
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.7
 animeUsers	6514
 animeRank	
-animePopularity	
-animeDescription	b'Shuffle! Prologue is a short OVA teaser for the Shuffle! anime series based on the visual novel of the same name. While some of the animation was reused for the first episode of the anime series, most of Shuffle! Prologue is unique animation not repeated in the series, although the story itself is retold. \n\n(Source: Wikipedia)'
-animeRelated	[b'Shuffle!']
-animeCharacters	[b'Shigure, Asa', b'Fuyou, Kaede', b'Primula', b'Eustoma, Lisianthus', b'Nerine', b'Tsuchimi, Rin', b'Thyme, Mayumi', b'Eustoma', b'Benibara, Nadeshiko', b'Midoriba, Itsuki']
-animeVoices	[b'\nItou, Miki\nJapanese\n', b'\nGotou, Yuuko\nJapanese\n', b'\nHitomi\nJapanese\n', b'\nAoki, Sayaka\nJapanese\n', b'\nNagami, Haruka\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nInoue, Miki\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nOda, Mari\nJapanese\n', b'\nOgihara, Hideki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuria\n\nTheme Song Performance\n\n', b'\nSuzuhira, Hiro\n\nOriginal Character Design\n\n', b'\nNishimata, Aoi\n\nOriginal Character Design\n\n', b'\nNavel\n\nOriginal Creator\n\n']
+animePopularity	4333
+animeDescription	"Shuffle! Prologue is a short OVA teaser for the Shuffle! anime series based on the visual novel of the same name. While some of the animation was reused for the first episode of the anime series, most of Shuffle! Prologue is unique animation not repeated in the series, although the story itself is retold. 
+
+(Source: Wikipedia)"
+animeRelated	['Shuffle!']
+animeCharacters	['Shigure, Asa', 'Fuyou, Kaede', 'Primula', 'Eustoma, Lisianthus', 'Nerine', 'Tsuchimi, Rin', 'Thyme, Mayumi', 'Eustoma', 'Benibara, Nadeshiko', 'Midoriba, Itsuki']
+animeVoices	['Itou, Miki', 'Gotou, Yuuko', 'Hitomi', 'Aoki, Sayaka', 'Nagami, Haruka', 'Sugita, Tomokazu', 'Inoue, Miki', 'Kosugi, Juurouta', 'Oda, Mari', 'Ogihara, Hideki']
+animeStaff	[['Yuria', 'Theme Song Performance'], ['Suzuhira, Hiro', 'Original Character Design'], ['Nishimata, Aoi', 'Original Character Design'], ['Navel', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ranpou'
-animeType	b'TV'
+animeTitle	Ranpou
+animeType	TV
 animeNumEpisode	21
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'TV anime adaptation of Masatoshi Uchizaki\'s gag comedy manga ""Ranpou"".\n\nMild-mannered Japanese kid Rampou is kidnapped by aliens whose UFO-based experiments turn him into a warp boy who truly believes that he can do anything.\n\n(Source: The Anime Encyclopedia)'"
+animePopularity	14402
+animeDescription	"TV anime adaptation of Masatoshi Uchizaki's gag comedy manga ""Ranpou"".
+
+Mild-mannered Japanese kid Rampou is kidnapped by aliens whose UFO-based experiments turn him into a warp boy who truly believes that he can do anything.
+
+(Source: The Anime Encyclopedia)"
 animeRelated	[]
-animeCharacters	[b'Ranpou', b'Chuutarou', b'Wappen', b'Chika', b'Yasuotto', b'Haruo', b'Torako', b'Karatarou', b'Hulk', b'Aoba, Hana']
-animeVoices	[b'\nSakamoto, Chika\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nFutamata, Issei\nJapanese\n', b'\nTsushima, Mizuho\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n', b'\nAoki, Kazuyo\nJapanese\n', b'\nKameyama, Sukekiyo\nJapanese\n', b'\nSawaki, Ikuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSonoda, Hideki\n\nScript\n\n', b'\nTerada, Kenji\n\nScript\n\n', b'\nMaruo, Keiko\n\nScript\n\n', b'\nYuyama, Kunihiko\n\nStoryboard\n\n']
+animeCharacters	['Ranpou', 'Chuutarou', 'Wappen', 'Chika', 'Yasuotto', 'Haruo', 'Torako', 'Karatarou', 'Hulk', 'Aoba, Hana']
+animeVoices	['Sakamoto, Chika', 'Tanaka, Mayumi', 'Futamata, Issei', 'Tsushima, Mizuho', 'Shiozawa, Kaneto', 'Satou, Masaharu', 'Aoki, Kazuyo', 'Kameyama, Sukekiyo', 'Sawaki, Ikuya']
+animeStaff	[['Sonoda, Hideki', 'Script'], ['Terada, Kenji', 'Script'], ['Maruo, Keiko', 'Script'], ['Yuyama, Kunihiko', 'Storyboard']]

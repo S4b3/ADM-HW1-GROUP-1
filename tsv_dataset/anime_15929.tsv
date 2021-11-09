@@ -1,5 +1,5 @@
-animeTitle	b'Hanitarou Desu.'
-animeType	b'TV'
+animeTitle	Hanitarou Desu.
+animeType	TV
 animeNumEpisode	70
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Shown daily during the Super J Channel news programme.'
+animePopularity	16251
+animeDescription	Shown daily during the Super J Channel news programme.
 animeRelated	[]
-animeCharacters	"[b'Hanitarou', b""Yoshio's Mother"", b'Hirayama, Miki', b'Narrator']"
-animeVoices	[b'\nNishimori, Mizue\nJapanese\n', b'\nMayama, Ako\nJapanese\n', b'\nKurata, Masayo\nJapanese\n', b'\nKanemitsu, Nobuaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishizawa, Nobutaka\n\nProducer\n\n', b'\nKaizawa, Yukio\n\nDirector\n\n', b'\nMochida, Maki\n\nTheme Song Performance\n\n', b'\nOonishi, Youichi\n\nAnimation Director\n\n']
+animeCharacters	"['Hanitarou', ""Yoshio's Mother"", 'Hirayama, Miki', 'Narrator']"
+animeVoices	['Nishimori, Mizue', 'Mayama, Ako', 'Kurata, Masayo', 'Kanemitsu, Nobuaki']
+animeStaff	[['Nishizawa, Nobutaka', 'Producer'], ['Kaizawa, Yukio', 'Director'], ['Mochida, Maki', 'Theme Song Performance'], ['Oonishi, Youichi', 'Animation Director']]

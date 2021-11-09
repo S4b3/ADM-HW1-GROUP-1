@@ -1,5 +1,5 @@
-animeTitle	b'Akuei to Gacchinpo: Tenkomori'
-animeType	b'TV'
+animeTitle	Akuei to Gacchinpo: Tenkomori
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A sequel of Akuei to Gacchinpo series.'
-animeRelated	[b'Akuei to Gacchinpo', b'Akuei to Gacchinpo: Tenkomori - Maboroshi no Omake Episode']
-animeCharacters	[b'Akuei']
-animeVoices	[b'\nShibahara, Chiyako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Masuo\n\nProducer\n\n', b'\nTada, Akifumi\n\nMusic\n\n', b'\nTakeuchi, Shigekazu\n\nPlanning\n\n']
+animePopularity	15090
+animeDescription	A sequel of Akuei to Gacchinpo series.
+animeRelated	['Akuei to Gacchinpo', 'Akuei to Gacchinpo: Tenkomori - Maboroshi no Omake Episode']
+animeCharacters	['Akuei']
+animeVoices	['Shibahara, Chiyako']
+animeStaff	[['Ueda, Masuo', 'Producer'], ['Tada, Akifumi', 'Music'], ['Takeuchi, Shigekazu', 'Planning']]

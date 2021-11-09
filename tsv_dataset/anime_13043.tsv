@@ -1,4 +1,4 @@
-animeTitle	b'Saikai'
+animeTitle	Saikai
 animeType	Music
 animeNumEpisode	2
 releaseDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'There is two versions of this music video.\n\nBoth videos feature the same song, but one is sung by Hatsune Miku on Niconico, and the other is a self-cover from the author himself, Harumaki Gohan on Youtube.\n\nBoth versions focus on separate characters.'
-animeRelated	[b'Yakusoku (2019)']
+animePopularity	17591
+animeDescription	"There is two versions of this music video.
+
+Both videos feature the same song, but one is sung by Hatsune Miku on Niconico, and the other is a self-cover from the author himself, Harumaki Gohan on Youtube.
+
+Both versions focus on separate characters."
+animeRelated	['Yakusoku (2019)']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

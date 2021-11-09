@@ -1,5 +1,5 @@
-animeTitle	b'Doubutsu Mura Monogatari'
-animeType	b'TV'
+animeTitle	Doubutsu Mura Monogatari
+animeType	TV
 animeNumEpisode	100
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A short kids series featuring cute animal stories.\n\n(Source: AniDB)'
-animeRelated	[b'Goman-hiki']
-animeCharacters	[b'Narrator']
-animeVoices	[b'\nShiraishi, Fuyumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYokoyama, Ryuuichi\n\nEpisode Director, Script, Animation Director, Original Creator, Character Design\n\n']
+animePopularity	14353
+animeDescription	"A short kids series featuring cute animal stories.
+
+(Source: AniDB)"
+animeRelated	['Goman-hiki']
+animeCharacters	['Narrator']
+animeVoices	['Shiraishi, Fuyumi']
+animeStaff	[['Yokoyama, Ryuuichi', 'Episode Director, Script, Animation Director, Original Creator, Character Design']]

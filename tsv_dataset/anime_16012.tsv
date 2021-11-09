@@ -1,5 +1,5 @@
-animeTitle	b'Hello Kitty no Minna no Mori wo Mamore!'
-animeType	b'OVA'
+animeTitle	Hello Kitty no Minna no Mori wo Mamore!
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'One day, Kitty notices a part of the forest she plays in almost every day has died. Insects come and ask Kitty to help fight a witch who is causing it.'
+animePopularity	14358
+animeDescription	One day, Kitty notices a part of the forest she plays in almost every day has died. Insects come and ask Kitty to help fight a witch who is causing it.
 animeRelated	[]
-animeCharacters	[b'White, Kitty']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHata, Masami\n\nDirector\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nTotsuka, Osamu\n\nMusic\n\n', b'\nIsaka, Junko\n\nAnimation Director\n\n']
+animeCharacters	['White, Kitty']
+animeVoices	['Hayashibara, Megumi']
+animeStaff	[['Hata, Masami', 'Director'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Totsuka, Osamu', 'Music'], ['Isaka, Junko', 'Animation Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Koi\xe2\x98\x86Sento'
-animeType	b'OVA'
+animeTitle	Koi☆Sento
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.38
 animeUsers	3803
 animeRank	
-animePopularity	
-animeDescription	"b""It's a quick time jump to the 26th century where a school trip to a rebuilt 21st century city turns into a wild adventure for teenaged Shinichi. While chasing a talking deer that steals his bag, he runs into a strange girl trying to elude even stranger pursuers, and then things get really wild. It's a mad dash through a city of the past as two young people discover a chance at a new future.\n\n(Source: The Anime Network)"""
+animePopularity	5976
+animeDescription	"It's a quick time jump to the 26th century where a school trip to a rebuilt 21st century city turns into a wild adventure for teenaged Shinichi. While chasing a talking deer that steals his bag, he runs into a strange girl trying to elude even stranger pursuers, and then things get really wild. It's a mad dash through a city of the past as two young people discover a chance at a new future.
+
+(Source: The Anime Network)"
 animeRelated	[]
-animeCharacters	[b'Toto', b'Shiroi Shika', b'Shinichi', b'Otouto', b'Aniki', b'Shachou']
-animeVoices	[b'\nKotobuki, Minako\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nInada, Tetsu\nJapanese\n', b'\nIsobe, Masako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUchida, Kenji\n\nProducer\n\n', b'\nMorita, Shuuhei\n\nDirector, Series Composition\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nKotobuki, Minako\n\nTheme Song Performance\n\n']
+animeCharacters	['Toto', 'Shiroi Shika', 'Shinichi', 'Otouto', 'Aniki', 'Shachou']
+animeVoices	['Kotobuki, Minako', 'Yamaguchi, Kappei', 'Ono, Kensho', 'Koyasu, Takehito', 'Inada, Tetsu', 'Isobe, Masako']
+animeStaff	[['Uchida, Kenji', 'Producer'], ['Morita, Shuuhei', 'Director, Series Composition'], ['Tsuruoka, Youta', 'Sound Director'], ['Kotobuki, Minako', 'Theme Song Performance']]

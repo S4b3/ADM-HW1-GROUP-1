@@ -1,5 +1,5 @@
-animeTitle	b'Super Real Mahjong: Mahjong Battle Scramble - Konran-teki Sento Mahjong'
-animeType	b'OVA'
+animeTitle	Super Real Mahjong: Mahjong Battle Scramble - Konran-teki Sento Mahjong
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Sequel of Super Real Mahjong.\n\nMahjong-playing sisters Kasumi, Miki, and Shouko are sent to a world where mahjong tiles are currency. In order to return to their world, they must defeat a mahjong-playing rabbit who rules the land.'
-animeRelated	[b'Super Real Mahjong: Kasumi Miki Shouko no Hajimemashite']
-animeCharacters	[b'Shouko', b'Miki', b'Kasumi']
-animeVoices	[b'\nYamamoto, Yuriko\nJapanese\n', b'\nShou, Mayumi\nJapanese\n', b'\nShibata, Yumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Shinichi\n\nDirector\n\n']
+animePopularity	13110
+animeDescription	"Sequel of Super Real Mahjong.
+
+Mahjong-playing sisters Kasumi, Miki, and Shouko are sent to a world where mahjong tiles are currency. In order to return to their world, they must defeat a mahjong-playing rabbit who rules the land."
+animeRelated	['Super Real Mahjong: Kasumi Miki Shouko no Hajimemashite']
+animeCharacters	['Shouko', 'Miki', 'Kasumi']
+animeVoices	['Yamamoto, Yuriko', 'Shou, Mayumi', 'Shibata, Yumiko']
+animeStaff	[['Watanabe, Shinichi', 'Director']]

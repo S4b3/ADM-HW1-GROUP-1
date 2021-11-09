@@ -1,5 +1,5 @@
-animeTitle	b'Mahou no Chocolate'
-animeType	b'OVA'
+animeTitle	Mahou no Chocolate
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.23
 animeUsers	1797
 animeRank	
-animePopularity	
-animeDescription	"b""Mami-chan has a crush on her school's soccer club star, Ishida-senpai, and tries against hope to work up the courage to give him chocolate for Valentine's Day. She learns from her friend Koko-chan of the mysterious Magical Chocolate. Will the magic make Mami's dream come true?\n\n(Source: AnimeNfo)"""
+animePopularity	8261
+animeDescription	"Mami-chan has a crush on her school's soccer club star, Ishida-senpai, and tries against hope to work up the courage to give him chocolate for Valentine's Day. She learns from her friend Koko-chan of the mysterious Magical Chocolate. Will the magic make Mami's dream come true?
+
+(Source: AnimeNfo)"
 animeRelated	[]
-animeCharacters	"[b'Ishida-senpai', b'Koko-chan', b'Mami-chan', b""Mami-chan's Mother"", b""Mami-chan's Father"", b'Kazuki-kun']"
-animeVoices	[b'\nAkasaki, Yuuki\nJapanese\n', b'\nHirai, Riko\nJapanese\n', b'\nTakemoto, Kaori\nJapanese\n', b'\nInoue, Junna\nJapanese\n', b'\nIshikawa, Naoya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshikawa, Naoya\n\nDirector\n\n', b'\nMorita, Shunsuke\n\nTheme Song Performance, Theme Song Composition\n\n']
+animeCharacters	"['Ishida-senpai', 'Koko-chan', 'Mami-chan', ""Mami-chan's Mother"", ""Mami-chan's Father"", 'Kazuki-kun']"
+animeVoices	['Akasaki, Yuuki', 'Hirai, Riko', 'Takemoto, Kaori', 'Inoue, Junna', 'Ishikawa, Naoya']
+animeStaff	[['Ishikawa, Naoya', 'Director'], ['Morita, Shunsuke', 'Theme Song Performance, Theme Song Composition']]

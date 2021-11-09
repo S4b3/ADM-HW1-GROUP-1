@@ -1,5 +1,5 @@
-animeTitle	b'Hellsing'
-animeType	b'TV'
+animeTitle	Hellsing
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.49
 animeUsers	313342
 animeRank	
-animePopularity	
-animeDescription	b'Hellsing, an organization specializing in dealing with supernatural threats, is called in to eliminate a vampire that is turning the villagers of Cheddar into ghouls. To put an end to this, the leader of the organization, Sir Integra Fairbrook Wingates Hellsing, dispatches her most formidable asset: a powerful vampire known as Alucard.\n\nArmed with only a single handgun, Alucard wreaks havoc on the monsters plaguing Cheddar. However, a young police officer, Seras Victoria, gets caught up in the chaos and becomes mortally wounded as a result. Taking pity on the girl, Alucard gives her a choice: die as a human or live on as a vampire. Seras accepts his offer and begins a new life as a member of Hellsing.\n\nThough it was her decision, Seras struggles with the fact that she is no longer human. Nevertheless, she must embrace being a creature of the night soon if she wants to survive on the front lines in the fight between humans and the supernatural.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Hellsing', b'Hellsing Ultimate', b'Hellsing: Psalm of the Darkness']
-animeCharacters	[b'Alucard', b'Victoria, Seras', b'Fairbrook Wingates Hellsing, Integra', b'Anderson, Alexander', b'Dornez, Walter C.', b'Valentine, Jan', b'Maxwell, Enrico', b'Valentine, Luke', b'Helena', b'Incognito']
-animeVoices	[b'\nNakata, Jouji\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n', b'\nNozawa, Nachi\nJapanese\n', b'\nKiyokawa, Motomu\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIida, Umanosuke\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nKamitsubo, Ryouki\n\nEpisode Director, Storyboard\n\n', b'\nKonaka, Chiaki\n\nScript, Series Composition\n\n']
+animePopularity	235
+animeDescription	"Hellsing, an organization specializing in dealing with supernatural threats, is called in to eliminate a vampire that is turning the villagers of Cheddar into ghouls. To put an end to this, the leader of the organization, Sir Integra Fairbrook Wingates Hellsing, dispatches her most formidable asset: a powerful vampire known as Alucard.
+
+Armed with only a single handgun, Alucard wreaks havoc on the monsters plaguing Cheddar. However, a young police officer, Seras Victoria, gets caught up in the chaos and becomes mortally wounded as a result. Taking pity on the girl, Alucard gives her a choice: die as a human or live on as a vampire. Seras accepts his offer and begins a new life as a member of Hellsing.
+
+Though it was her decision, Seras struggles with the fact that she is no longer human. Nevertheless, she must embrace being a creature of the night soon if she wants to survive on the front lines in the fight between humans and the supernatural.
+
+[Written by MAL Rewrite]"
+animeRelated	['Hellsing', 'Hellsing Ultimate', 'Hellsing: Psalm of the Darkness']
+animeCharacters	['Alucard', 'Victoria, Seras', 'Fairbrook Wingates Hellsing, Integra', 'Anderson, Alexander', 'Dornez, Walter C.', 'Valentine, Jan', 'Maxwell, Enrico', 'Valentine, Luke', 'Helena', 'Incognito']
+animeVoices	['Nakata, Jouji', 'Orikasa, Fumiko', 'Sakakibara, Yoshiko', 'Nozawa, Nachi', 'Kiyokawa, Motomu', 'Nakai, Kazuya', 'Tanaka, Hideyuki', 'Koyasu, Takehito', 'Hiramatsu, Akiko', 'Yamazaki, Takumi']
+animeStaff	[['Iida, Umanosuke', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Kamitsubo, Ryouki', 'Episode Director, Storyboard'], ['Konaka, Chiaki', 'Script, Series Composition']]

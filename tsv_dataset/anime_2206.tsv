@@ -1,5 +1,5 @@
-animeTitle	b'Boku wa Tomodachi ga Sukunai Next'
-animeType	b'TV'
+animeTitle	Boku wa Tomodachi ga Sukunai Next
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,17 @@ animeNumMembers
 animeScore	7.34
 animeUsers	284840
 animeRank	
-animePopularity	
-animeDescription	"b'The Neighbor\'s Club\xe2\x80\x94a club founded for the purpose of making friends, where misfortunate boys and girls with few friends live out their regrettable lives.\n\nAlthough Yozora Mikazuki faced a certain incident at the end of summer, the daily life of the Neighbor\'s Club goes on as usual. A strange nun, members of the student council and other new faces make an appearance, causing Kodaka Hasegawa\'s life to grow even busier.\n\nWhile they all enjoy going to the amusement park, playing games, celebrating birthdays, and challenging the ""school festival""\xe2\x80\x94a symbol of the school life normal people live\xe2\x80\x94the relations amongst the members slowly begins to change...\n\nLet the next stage begin, on this unfortunate coming-of-age love comedy!!\n\n(Source: ANN)'"
-animeRelated	[b'Boku wa Tomodachi ga Sukunai']
-animeCharacters	[b'Kashiwazaki, Sena', b'Mikazuki, Yozora', b'Shiguma, Rika', b'Hasegawa, Kodaka', b'Hasegawa, Kobato', b'Takayama, Maria', b'Kusunoki, Yukimura', b'Takayama, Kate', b'Yusa, Aoi', b'Kashiwazaki, Pegasus']
-animeVoices	[b'\nItou, Kanae\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nFukuen, Misato\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nYamamoto, Nozomi\nJapanese\n', b'\nKatou, Emiri\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKitahata, Tooru\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nMarchi, Jamie\n\nScript\n\n', b'\nUrahata, Tatsuhiko\n\nScript, Series Composition\n\n']
+animePopularity	344
+animeDescription	"The Neighbor's Club—a club founded for the purpose of making friends, where misfortunate boys and girls with few friends live out their regrettable lives.
+
+Although Yozora Mikazuki faced a certain incident at the end of summer, the daily life of the Neighbor's Club goes on as usual. A strange nun, members of the student council and other new faces make an appearance, causing Kodaka Hasegawa's life to grow even busier.
+
+While they all enjoy going to the amusement park, playing games, celebrating birthdays, and challenging the ""school festival""—a symbol of the school life normal people live—the relations amongst the members slowly begins to change...
+
+Let the next stage begin, on this unfortunate coming-of-age love comedy!!
+
+(Source: ANN)"
+animeRelated	['Boku wa Tomodachi ga Sukunai']
+animeCharacters	['Kashiwazaki, Sena', 'Mikazuki, Yozora', 'Shiguma, Rika', 'Hasegawa, Kodaka', 'Hasegawa, Kobato', 'Takayama, Maria', 'Kusunoki, Yukimura', 'Takayama, Kate', 'Yusa, Aoi', 'Kashiwazaki, Pegasus']
+animeVoices	['Itou, Kanae', 'Inoue, Marina', 'Fukuen, Misato', 'Kimura, Ryouhei', 'Hanazawa, Kana', 'Iguchi, Yuka', 'Yamamoto, Nozomi', 'Katou, Emiri', 'Ise, Mariya', 'Okiayu, Ryoutarou']
+animeStaff	[['Kitahata, Tooru', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Marchi, Jamie', 'Script'], ['Urahata, Tatsuhiko', 'Script, Series Composition']]

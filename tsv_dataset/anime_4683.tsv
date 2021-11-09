@@ -1,5 +1,5 @@
-animeTitle	b'Kumo no You ni Kaze no You ni'
-animeType	b'Special'
+animeTitle	Kumo no You ni Kaze no You ni
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.79
 animeUsers	2920
 animeRank	
-animePopularity	
-animeDescription	b'Ginga, a small town girl sets out to become the Emperors Seihi, highest ranked wife, undaunted by the many other women who seek the same title. Her energetic and eccentric ways aid in her in meeting new people, training to be a Lady of the Emperor and dealing with the drama that ensues. \n\n(Source: ANN) '
+animePopularity	6197
+animeDescription	"Ginga, a small town girl sets out to become the Emperors Seihi, highest ranked wife, undaunted by the many other women who seek the same title. Her energetic and eccentric ways aid in her in meeting new people, training to be a Lady of the Emperor and dealing with the drama that ensues. 
+
+(Source: ANN) "
 animeRelated	[]
-animeCharacters	[b'Ginga', b'Koryuun', b'Empress Kin', b'Ino', b'Taruto-baba', b'Kikkyou', b'Narrator', b'Mano', b'Konton', b'Kouyou']
-animeVoices	[b'\nSano, Ryouko\nJapanese\n', b'\nTani, Ikuko\nJapanese\n', b'\nAkimoto, Yousuke\nJapanese\n', b'\nKyouda, Hisako\nJapanese\n', b'\nMitsuya, Yuuji\nJapanese\n', b'\nNakazawa, Midori\nJapanese\n', b'\nKitamura, Kouichi\nJapanese\n', b'\nKobayashi, Akiji\nJapanese\n', b'\nInoue, You\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nToriumi, Hisayuki\n\nDirector\n\n', b'\nMizumoto, Kan\n\nSound Director\n\n', b'\nSano, Ryouko\n\nTheme Song Performance\n\n', b'\nTsurumaki, Kazuya\n\nKey Animation\n\n']
+animeCharacters	['Ginga', 'Koryuun', 'Empress Kin', 'Ino', 'Taruto-baba', 'Kikkyou', 'Narrator', 'Mano', 'Konton', 'Kouyou']
+animeVoices	['Sano, Ryouko', 'Tani, Ikuko', 'Akimoto, Yousuke', 'Kyouda, Hisako', 'Mitsuya, Yuuji', 'Nakazawa, Midori', 'Kitamura, Kouichi', 'Kobayashi, Akiji', 'Inoue, You']
+animeStaff	[['Toriumi, Hisayuki', 'Director'], ['Mizumoto, Kan', 'Sound Director'], ['Sano, Ryouko', 'Theme Song Performance'], ['Tsurumaki, Kazuya', 'Key Animation']]

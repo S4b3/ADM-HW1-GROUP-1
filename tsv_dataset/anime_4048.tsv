@@ -1,5 +1,5 @@
-animeTitle	b'One Piece Movie 3: Chinjuu-jima no Chopper Oukoku'
-animeType	b'Movie'
+animeTitle	One Piece Movie 3: Chinjuu-jima no Chopper Oukoku
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.93
 animeUsers	38643
 animeRank	
-animePopularity	
-animeDescription	b'The crew comes upon Crown Island where the animals can talk and they makes Chopper their new king. But there are human hunters there also looking for the legendary horns that will give the person who consumes it immense power. Luffy and friends must stop them from destroying this animal kingdom.\n\n(Source: ANN)'
-animeRelated	[b'One Piece', b'One Piece: Yume no Soccer Ou!']
-animeCharacters	[b'Monkey D., Luffy', b'Roronoa, Zoro', b'Sanji', b'Tony Tony, Chopper', b'Usopp', b'Nami', b'Hiluluk', b'Karasuke', b'Bald Parrot', b'Count Butler']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nEbara, Masashi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimizu, Junji\n\nDirector, Storyboard\n\n', b'\nOda, Eiichiro\n\nOriginal Creator\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n', b'\nItou, Ikuko\n\nKey Animation\n\n']
+animePopularity	2102
+animeDescription	"The crew comes upon Crown Island where the animals can talk and they makes Chopper their new king. But there are human hunters there also looking for the legendary horns that will give the person who consumes it immense power. Luffy and friends must stop them from destroying this animal kingdom.
+
+(Source: ANN)"
+animeRelated	['One Piece', 'One Piece: Yume no Soccer Ou!']
+animeCharacters	['Monkey D., Luffy', 'Roronoa, Zoro', 'Sanji', 'Tony Tony, Chopper', 'Usopp', 'Nami', 'Hiluluk', 'Karasuke', 'Bald Parrot', 'Count Butler']
+animeVoices	['Tanaka, Mayumi', 'Nakai, Kazuya', 'Hirata, Hiroaki', 'Ootani, Ikue', 'Yamaguchi, Kappei', 'Okamura, Akemi', 'Fujita, Toshiko', 'Aono, Takeshi', 'Ebara, Masashi']
+animeStaff	[['Shimizu, Junji', 'Director, Storyboard'], ['Oda, Eiichiro', 'Original Creator'], ['Tanaka, Kouhei', 'Music'], ['Itou, Ikuko', 'Key Animation']]

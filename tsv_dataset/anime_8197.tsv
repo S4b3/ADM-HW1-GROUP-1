@@ -1,5 +1,5 @@
-animeTitle	b'Ninja Batman'
-animeType	b'Movie'
+animeTitle	Ninja Batman
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.09
 animeUsers	25120
 animeRank	
-animePopularity	
-animeDescription	"b""At Arkham Asylum, Batman clashes with Gorilla Grodd while trying to destroy Grodd's newest invention: the Quake Engine. Amidst the chaos, the engine activates, and the entire asylum suddenly vanishes into thin air\xe2\x80\x94Batman along with it. Once the dust settles, Batman finds himself standing in the middle of an unfamiliar road. He soon realizes that he is no longer in Gotham City\xe2\x80\x94but instead in Feudal Japan!\n\nThe amazement quickly fades as samurai descend upon him, seeking to take his life. Later on, Batman's investigation leads him to discover that the one responsible for the kill order is none other than his archnemesis, the Joker. Following an encounter with Catwoman, he learns that the asylum's criminals had teleported there two years earlier\xe2\x80\x94each ruling over a piece of Japan with Joker being the dominant warlord.\n\nIn order to return home, Batman must reactivate the Quake Engine, situated in the remnants of the asylum, now known as Arkham Castle. However, there is one problem: aside from his gadget belt, the arsenal that was once at his fingertips is all but gone. Ninja Batman follows the Dark Knight as he traverses a strange new environment, facing off against familiar foes in a bid to return to Gotham in one piece.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Ninja Batman', b'Batman: Gotham Knight', b'Ninja Batman x Poputepipikku Kindan no Collab CM']
-animeCharacters	[b'Wayne, Bruce', b'Joker', b'Quinn, Harley', b'Grayson, Richard', b'Kyle, Selina', b'Isley, Pamela', b'Todd, Jason', b'Pennyworth, Alfred', b'Gorilla Grodd', b'Wayne, Damian']
-animeVoices	[b'\nYamadera, Kouichi\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nKakuma, Ai\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nKaji, Yuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatomi, Tetsurou\n\nProducer\n\n', b'\nMizusaki, Junpei\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nNakashima, Kazuki\n\nScript\n\n']
+animePopularity	2607
+animeDescription	"At Arkham Asylum, Batman clashes with Gorilla Grodd while trying to destroy Grodd's newest invention: the Quake Engine. Amidst the chaos, the engine activates, and the entire asylum suddenly vanishes into thin air—Batman along with it. Once the dust settles, Batman finds himself standing in the middle of an unfamiliar road. He soon realizes that he is no longer in Gotham City—but instead in Feudal Japan!
+
+The amazement quickly fades as samurai descend upon him, seeking to take his life. Later on, Batman's investigation leads him to discover that the one responsible for the kill order is none other than his archnemesis, the Joker. Following an encounter with Catwoman, he learns that the asylum's criminals had teleported there two years earlier—each ruling over a piece of Japan with Joker being the dominant warlord.
+
+In order to return home, Batman must reactivate the Quake Engine, situated in the remnants of the asylum, now known as Arkham Castle. However, there is one problem: aside from his gadget belt, the arsenal that was once at his fingertips is all but gone. Ninja Batman follows the Dark Knight as he traverses a strange new environment, facing off against familiar foes in a bid to return to Gotham in one piece.
+
+[Written by MAL Rewrite]"
+animeRelated	['Ninja Batman', 'Batman: Gotham Knight', 'Ninja Batman x Poputepipikku Kindan no Collab CM']
+animeCharacters	['Wayne, Bruce', 'Joker', 'Quinn, Harley', 'Grayson, Richard', 'Kyle, Selina', 'Isley, Pamela', 'Todd, Jason', 'Pennyworth, Alfred', 'Gorilla Grodd', 'Wayne, Damian']
+animeVoices	['Yamadera, Kouichi', 'Takagi, Wataru', 'Kugimiya, Rie', 'Ono, Daisuke', 'Kakuma, Ai', 'Tanaka, Atsuko', 'Ishida, Akira', 'Ootsuka, Houchuu', 'Koyasu, Takehito', 'Kaji, Yuki']
+animeStaff	[['Satomi, Tetsurou', 'Producer'], ['Mizusaki, Junpei', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Nakashima, Kazuki', 'Script']]

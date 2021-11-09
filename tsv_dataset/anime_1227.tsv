@@ -1,5 +1,5 @@
-animeTitle	"b""Persona 3 the Movie 2: Midsummer Knight's Dream"""
-animeType	b'Movie'
+animeTitle	Persona 3 the Movie 2: Midsummer Knight's Dream
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.63
 animeUsers	38031
 animeRank	
-animePopularity	
-animeDescription	"b""As the season changes from spring to summer, Makoto Yuuki remains alongside the Specialized Extracurricular Execution Squad (SEES). The team continues to defeat Shadows large and small, but they now clash with a new enemy: Strega, a group of rogue Persona users who wish to keep the Dark Hour to their advantage\xe2\x80\x94it seems that Strega may hold a clue to the Dark Hour's true nature.\n\nWhile SEES enjoys summer vacation in Yakushima, they are joined by Aegis, an amnesiac android designed to destroy Shadows. While she proves herself to be a powerful ally, she is inexplicably drawn to Makoto and constantly remains at his side. As they delve deeper into the mysteries of the Dark Hour, the nature of the mysterious connection that binds these two together is slowly unveiled.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Persona 3 the Movie 1: Spring of Birth', b'Persona 3 the Movie 3: Falling Down']
-animeCharacters	[b'Yuuki, Makoto', b'Aegis', b'Kirijou, Mitsuru', b'Sanada, Akihiko', b'Takeba, Yukari', b'Aragaki, Shinjirou', b'Iori, Junpei', b'Yamagishi, Fuuka', b'Koromaru', b'Amada, Ken']
-animeVoices	[b'\nIshida, Akira\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nOgata, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTaguchi, Tomohisa\n\nDirector\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nKumagai, Jun\n\nScript, Screenplay\n\n', b'\nLotus Juice\n\nTheme Song Performance\n\n']
+animePopularity	2010
+animeDescription	"As the season changes from spring to summer, Makoto Yuuki remains alongside the Specialized Extracurricular Execution Squad (SEES). The team continues to defeat Shadows large and small, but they now clash with a new enemy: Strega, a group of rogue Persona users who wish to keep the Dark Hour to their advantage—it seems that Strega may hold a clue to the Dark Hour's true nature.
+
+While SEES enjoys summer vacation in Yakushima, they are joined by Aegis, an amnesiac android designed to destroy Shadows. While she proves herself to be a powerful ally, she is inexplicably drawn to Makoto and constantly remains at his side. As they delve deeper into the mysteries of the Dark Hour, the nature of the mysterious connection that binds these two together is slowly unveiled.
+
+[Written by MAL Rewrite]"
+animeRelated	['Persona 3 the Movie 1: Spring of Birth', 'Persona 3 the Movie 3: Falling Down']
+animeCharacters	['Yuuki, Makoto', 'Aegis', 'Kirijou, Mitsuru', 'Sanada, Akihiko', 'Takeba, Yukari', 'Aragaki, Shinjirou', 'Iori, Junpei', 'Yamagishi, Fuuka', 'Koromaru', 'Amada, Ken']
+animeVoices	['Ishida, Akira', 'Sakamoto, Maaya', 'Tanaka, Rie', 'Midorikawa, Hikaru', 'Toyoguchi, Megumi', 'Nakai, Kazuya', 'Toriumi, Kousuke', 'Noto, Mamiko', 'Ogata, Megumi']
+animeStaff	[['Taguchi, Tomohisa', 'Director'], ['Iida, Satoki', 'Sound Director'], ['Kumagai, Jun', 'Script, Screenplay'], ['Lotus Juice', 'Theme Song Performance']]

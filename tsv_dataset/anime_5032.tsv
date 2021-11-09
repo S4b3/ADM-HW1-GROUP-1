@@ -1,5 +1,5 @@
-animeTitle	b'Oz no Mahoutsukai (1986)'
-animeType	b'TV'
+animeTitle	Oz no Mahoutsukai (1986)
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.71
 animeUsers	762
 animeRank	
-animePopularity	
-animeDescription	b'Based on The Wonderful Wizard of Oz (1900), The Marvelous Land of Oz, Ozma of Oz, and The Emerald City of Oz (1900-1920) by L. Frank Baum (1856-1919).\n\n(Source: AniDB)'
-animeRelated	[b'Oz no Mahoutsukai']
-animeCharacters	[b'Scarecrow', b'Dorothy', b'Tin Woodman', b'Cowardly Lion', b'Queen of the Field Mice', b'Old Winkie', b'Miss Cuttenclip', b'Wicked Witch of the East', b'General Guph', b'Fuddle']
-animeVoices	[b'\nYasuhara, Yoshito\nJapanese\n', b'\nShimamoto, Sumi\nJapanese\n', b'\nKamiyama, Takuzou\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nHirano, Fumi\nJapanese\n', b'\nYada, Minoru\nJapanese\n', b'\nIchijou, Miyuki\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nYanami, Jouji\nJapanese\n', b'\nTakagi, Hitoshi\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nSaitou, Hiroshi\n\nDirector, Script\n\n', b'\nMiyazaki, Akira\n\nScript, Storyboard, Screenplay\n\n', b""\nD'Avena, Cristina\n\nTheme Song Performance\n\n"", b'\nOosugi, Kumiko\n\nTheme Song Performance\n\n']"
+animePopularity	9289
+animeDescription	"Based on The Wonderful Wizard of Oz (1900), The Marvelous Land of Oz, Ozma of Oz, and The Emerald City of Oz (1900-1920) by L. Frank Baum (1856-1919).
+
+(Source: AniDB)"
+animeRelated	['Oz no Mahoutsukai']
+animeCharacters	['Scarecrow', 'Dorothy', 'Tin Woodman', 'Cowardly Lion', 'Queen of the Field Mice', 'Old Winkie', 'Miss Cuttenclip', 'Wicked Witch of the East', 'General Guph', 'Fuddle']
+animeVoices	['Yasuhara, Yoshito', 'Shimamoto, Sumi', 'Kamiyama, Takuzou', 'Nagai, Ichiro', 'Hirano, Fumi', 'Yada, Minoru', 'Ichijou, Miyuki', 'Nozawa, Masako', 'Yanami, Jouji', 'Takagi, Hitoshi']
+animeStaff	"[['Saitou, Hiroshi', 'Director, Script'], ['Miyazaki, Akira', 'Script, Storyboard, Screenplay'], [""D'Avena, Cristina"", 'Theme Song Performance'], ['Oosugi, Kumiko', 'Theme Song Performance']]"

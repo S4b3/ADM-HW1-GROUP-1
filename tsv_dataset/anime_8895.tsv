@@ -1,5 +1,5 @@
-animeTitle	b'Kikou Kai Galient OVA'
-animeType	b'OVA'
+animeTitle	Kikou Kai Galient OVA
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.94
 animeUsers	287
 animeRank	
-animePopularity	
-animeDescription	b'The first two episodes are summaries of the TV series, the third one (Crest of Iron) takes place in an alternate universe.'
-animeRelated	[b'Kikou Kai Galient']
-animeCharacters	[b'Vorder, Jordy', b'Chururu', b'Hilmuka']
-animeVoices	[b'\nHirano, Fumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOhira, Shinya\n\nKey Animation\n\n', b'\nOkiura, Hiroyuki\n\nKey Animation\n\n', b'\nYatate, Hajime\n\nOriginal Creator\n\n', b'\nOokawara, Kunio\n\nMechanical Design\n\n']
+animePopularity	11555
+animeDescription	The first two episodes are summaries of the TV series, the third one (Crest of Iron) takes place in an alternate universe.
+animeRelated	['Kikou Kai Galient']
+animeCharacters	['Vorder, Jordy', 'Chururu', 'Hilmuka']
+animeVoices	['Hirano, Fumi']
+animeStaff	[['Ohira, Shinya', 'Key Animation'], ['Okiura, Hiroyuki', 'Key Animation'], ['Yatate, Hajime', 'Original Creator'], ['Ookawara, Kunio', 'Mechanical Design']]

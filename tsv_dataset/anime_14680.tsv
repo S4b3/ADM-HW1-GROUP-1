@@ -1,5 +1,5 @@
-animeTitle	b'Zoobles!'
-animeType	b'TV'
+animeTitle	Zoobles!
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The Candy Factory is a place where all Zoobles are born. Beyond that factory is a world called Candy Land, where all Zoobles live. The story revolves around the three main Zoobles: Chevy, a Cat Zooble with an Orange Flavour; Coron, a Rabbit Zooble with a Strawberry Milk Flavour; and Panky, a Panda Zooble with a Blueberry Yogurt Flavour. The three of them live in Candy Town, and they get into serious misadventures as they try to get in (and out of) trouble.\n\n(Source: AniDB)'
+animePopularity	14781
+animeDescription	"The Candy Factory is a place where all Zoobles are born. Beyond that factory is a world called Candy Land, where all Zoobles live. The story revolves around the three main Zoobles: Chevy, a Cat Zooble with an Orange Flavour; Coron, a Rabbit Zooble with a Strawberry Milk Flavour; and Panky, a Panda Zooble with a Blueberry Yogurt Flavour. The three of them live in Candy Town, and they get into serious misadventures as they try to get in (and out of) trouble.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Cooper', b'Ninya']
-animeVoices	[b'\nKiyohara, Mari\nJapanese\n', b'\nFujisaki, Hijiri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYasumi, Tetsuo\n\nSeries Composition\n\n']
+animeCharacters	['Cooper', 'Ninya']
+animeVoices	['Kiyohara, Mari', 'Fujisaki, Hijiri']
+animeStaff	[['Yasumi, Tetsuo', 'Series Composition']]

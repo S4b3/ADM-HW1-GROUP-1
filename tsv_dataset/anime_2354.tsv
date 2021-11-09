@@ -1,5 +1,5 @@
-animeTitle	b'Top Secret: The Revelation'
-animeType	b'TV'
+animeTitle	Top Secret: The Revelation
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.31
 animeUsers	3339
 animeRank	
-animePopularity	
-animeDescription	"b""A newly developed method allows to display the memories of dead people. It is used to solve difficult murder cases. But at what cost? What of the dead's privacy as strangers poke about in their most private memories? What about the effects the imageries may have on the persons whose jobs require going through psychotic murderers' minds and experience whatever emotions and feelings these murderers felt as they skin and disembowel their victims?\n\n(Source: Adapted from manga description)"""
-animeRelated	[b'Top Secret']
-animeCharacters	[b'Maki, Tsuyoshi', b'Aoki, Ikkou', b'Okabe, Yasufumi', b'Amaichi, Nanako', b'Harvey, Matthew', b'Soga, Takashi', b'Miyoshi, Yukiko', b'Onokida, Satoshi', b'Satonaka, Kyouko', b'Sendou, Michiru']
-animeVoices	[b'\nSeki, Tomokazu\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nMeguro, Kousuke\nJapanese\n', b'\nNonaka, Ai\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n', b'\nHamada, Kenji\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nMadono, Mitsuaki\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nSendai, Eri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAoyama, Hiroshi\n\nDirector\n\n', b'\nIshizuka, Atsuko\n\nEpisode Director, Storyboard\n\n', b'\nWatanabe, Kotono\n\nEpisode Director\n\n', b'\nHatta, Yousuke\n\nEpisode Director\n\n']
+animePopularity	4242
+animeDescription	"A newly developed method allows to display the memories of dead people. It is used to solve difficult murder cases. But at what cost? What of the dead's privacy as strangers poke about in their most private memories? What about the effects the imageries may have on the persons whose jobs require going through psychotic murderers' minds and experience whatever emotions and feelings these murderers felt as they skin and disembowel their victims?
+
+(Source: Adapted from manga description)"
+animeRelated	['Top Secret']
+animeCharacters	['Maki, Tsuyoshi', 'Aoki, Ikkou', 'Okabe, Yasufumi', 'Amaichi, Nanako', 'Harvey, Matthew', 'Soga, Takashi', 'Miyoshi, Yukiko', 'Onokida, Satoshi', 'Satonaka, Kyouko', 'Sendou, Michiru']
+animeVoices	['Seki, Tomokazu', 'Namikawa, Daisuke', 'Meguro, Kousuke', 'Nonaka, Ai', 'Sasaki, Nozomu', 'Hamada, Kenji', 'Shinohara, Emi', 'Madono, Mitsuaki', 'Noto, Mamiko', 'Sendai, Eri']
+animeStaff	[['Aoyama, Hiroshi', 'Director'], ['Ishizuka, Atsuko', 'Episode Director, Storyboard'], ['Watanabe, Kotono', 'Episode Director'], ['Hatta, Yousuke', 'Episode Director']]

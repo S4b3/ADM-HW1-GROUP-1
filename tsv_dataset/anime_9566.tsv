@@ -1,5 +1,5 @@
-animeTitle	b'Diabolik Lovers OVA'
-animeType	b'OVA'
+animeTitle	Diabolik Lovers OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.75
 animeUsers	15591
 animeRank	
-animePopularity	
-animeDescription	b'OVA of Diabolik Lovers included with the upcoming game Diabolik Lovers DARK FATE.'
-animeRelated	[b'Diabolik Lovers']
-animeCharacters	[b'Sakamaki, Ayato', b'Sakamaki, Kanato', b'Sakamaki, Laito', b'Sakamaki, Shuu', b'Sakamaki, Subaru', b'Sakamaki, Reiji', b'Mukami, Azusa', b'Mukami, Kou', b'Mukami, Ruki', b'Komori, Yui']
-animeVoices	[b'\nMidorikawa, Hikaru\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nKondou, Takashi\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nSuegara, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshida, Risako\n\nDirector\n\n', b'\nKanesugi, Hiroko\n\nScript\n\n', b'\nRejet\n\nOriginal Creator\n\n', b'\nSatoi\n\nOriginal Character Design\n\n']
+animePopularity	3087
+animeDescription	OVA of Diabolik Lovers included with the upcoming game Diabolik Lovers DARK FATE.
+animeRelated	['Diabolik Lovers']
+animeCharacters	['Sakamaki, Ayato', 'Sakamaki, Kanato', 'Sakamaki, Laito', 'Sakamaki, Shuu', 'Sakamaki, Subaru', 'Sakamaki, Reiji', 'Mukami, Azusa', 'Mukami, Kou', 'Mukami, Ruki', 'Komori, Yui']
+animeVoices	['Midorikawa, Hikaru', 'Kaji, Yuki', 'Hirakawa, Daisuke', 'Toriumi, Kousuke', 'Kondou, Takashi', 'Konishi, Katsuyuki', 'Kishio, Daisuke', 'Kimura, Ryouhei', 'Sakurai, Takahiro', 'Suegara, Rie']
+animeStaff	[['Yoshida, Risako', 'Director'], ['Kanesugi, Hiroko', 'Script'], ['Rejet', 'Original Creator'], ['Satoi', 'Original Character Design']]

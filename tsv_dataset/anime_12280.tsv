@@ -1,5 +1,5 @@
-animeTitle	b'Naniwa Yuukyouden'
-animeType	b'OVA'
+animeTitle	Naniwa Yuukyouden
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Taido Kaimon is the leader of the Kinshu Group ganster syndicate in Kansai region. His gang is a cluster of wisecracking madmen, eternally running into trouble with the law, each other, and the local girls who give as good as they get.\n\n(Source: The Anime Encyclopedia)'
-animeRelated	[b'Zoku Naniwa Yuukyouden']
-animeCharacters	[b'Jinzou, Kintaro', b'Kaimon, Akimichi', b'Amachi, Ken', b'Kinoshita, Fujiyoshi', b'Narita, Michio']
-animeVoices	[b'\nYasuoka, Rikiya\nJapanese\n', b'\nKawachiya, Kikusuimaru\nJapanese\n', b'\nFukuda, Nobuaki\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOchiai, Masamune\n\nDirector\n\n', b'\nKogure, Teruo\n\nAnimation Director\n\n']
+animePopularity	14663
+animeDescription	"Taido Kaimon is the leader of the Kinshu Group ganster syndicate in Kansai region. His gang is a cluster of wisecracking madmen, eternally running into trouble with the law, each other, and the local girls who give as good as they get.
+
+(Source: The Anime Encyclopedia)"
+animeRelated	['Zoku Naniwa Yuukyouden']
+animeCharacters	['Jinzou, Kintaro', 'Kaimon, Akimichi', 'Amachi, Ken', 'Kinoshita, Fujiyoshi', 'Narita, Michio']
+animeVoices	['Yasuoka, Rikiya', 'Kawachiya, Kikusuimaru', 'Fukuda, Nobuaki', 'Ogata, Kenichi']
+animeStaff	[['Ochiai, Masamune', 'Director'], ['Kogure, Teruo', 'Animation Director']]

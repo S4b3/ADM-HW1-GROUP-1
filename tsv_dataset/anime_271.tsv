@@ -1,5 +1,5 @@
-animeTitle	b'Initial D Final Stage'
-animeType	b'TV'
+animeTitle	Initial D Final Stage
+animeType	TV
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.25
 animeUsers	53367
 animeRank	
-animePopularity	
-animeDescription	"b""In the final match against the Kanagawa street racing team Sidewinder, Project D street racer Takumi Fujiwara is faced with a surprising challenger: Shinji Inui, a 17-year-old high school student. Beginning to drive at a very young age, Shinji is not only familiar with the mountain pass where the race is taking place, but he also drives a Toyota AE86\xe2\x80\x94the same car model Takumi uses.\n\nInitially reluctant to participate due to a lack of enthusiasm, Shinji becomes motivated after witnessing the fiery battle between Keisuke Takahashi and Gou Houjou. Undefeated in his home course known as the Tsubaki Line, Shinji might prove to be Takumi's most formidable opponent yet.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Initial D', b'Initial D Fifth Stage', b'Initial D Battle Stage 3']
-animeCharacters	[b'Fujiwara, Takumi', b'Takahashi, Ryousuke', b'Takahashi, Keisuke', b'Inui, Shinji', b'Fujiwara, Bunta', b'Takeuchi, Itsuki', b'Satou, Mako', b'Nakazato, Takeshi', b'Shouji, Shingo', b'Iketani, Kouichirou']
-animeVoices	[b'\nMiki, Shinichiro\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nAbe, Atsushi\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nYao, Kazuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHashimoto, Mitsuo\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nm.o.v.e\n\nTheme Song Performance\n\n', b'\nShigeno, Shuuichi\n\nOriginal Creator\n\n']
+animePopularity	1568
+animeDescription	"In the final match against the Kanagawa street racing team Sidewinder, Project D street racer Takumi Fujiwara is faced with a surprising challenger: Shinji Inui, a 17-year-old high school student. Beginning to drive at a very young age, Shinji is not only familiar with the mountain pass where the race is taking place, but he also drives a Toyota AE86—the same car model Takumi uses.
+
+Initially reluctant to participate due to a lack of enthusiasm, Shinji becomes motivated after witnessing the fiery battle between Keisuke Takahashi and Gou Houjou. Undefeated in his home course known as the Tsubaki Line, Shinji might prove to be Takumi's most formidable opponent yet.
+
+[Written by MAL Rewrite]"
+animeRelated	['Initial D', 'Initial D Fifth Stage', 'Initial D Battle Stage 3']
+animeCharacters	['Fujiwara, Takumi', 'Takahashi, Ryousuke', 'Takahashi, Keisuke', 'Inui, Shinji', 'Fujiwara, Bunta', 'Takeuchi, Itsuki', 'Satou, Mako', 'Nakazato, Takeshi', 'Shouji, Shingo', 'Iketani, Kouichirou']
+animeVoices	['Miki, Shinichiro', 'Koyasu, Takehito', 'Seki, Tomokazu', 'Abe, Atsushi', 'Ishizuka, Unshou', 'Iwata, Mitsuo', 'Neya, Michiko', 'Hiyama, Nobuyuki', 'Fujiwara, Keiji', 'Yao, Kazuki']
+animeStaff	[['Hashimoto, Mitsuo', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['m.o.v.e', 'Theme Song Performance'], ['Shigeno, Shuuichi', 'Original Creator']]

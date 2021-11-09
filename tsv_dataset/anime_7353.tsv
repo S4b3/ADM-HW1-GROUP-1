@@ -1,5 +1,5 @@
-animeTitle	b'Hareluya II Boy'
-animeType	b'TV'
+animeTitle	Hareluya II Boy
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.27
 animeUsers	177
 animeRank	
-animePopularity	
-animeDescription	"b""Hibino Hareluya is a delinquent teenager who is tough and loves to pack a punch. His father is none other than the almighty God who does not approve very well of his son's rebellious acts. Disappointed in Hareluya's lack of responsibility, his father sends him to Earth as a normal high school student, stripped of his powers. Posing as a local priest, God keeps an eye on his son's adventures as Haleluya rights wrongs around the school with two-fisted justice, Love tattooed across the knuckles of each hand. \n\n(Source: ANN)"""
-animeRelated	[b'Hareluya II: Boy']
-animeCharacters	[b'Hibino, Hareluya', b'Ichijou, Makoto', b'Yamana, Michiru', b'Okamoto, Kiyoshirou', b'Ibu, Reiko']
-animeVoices	[b'\nMiki, Shinichiro\nJapanese\n', b'\nOda, Yuusei\nJapanese\n', b'\nMiura, Naoko\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nEgami, Kiyoshi\n\nDirector\n\n', b'\nSuzuki, Toshimasa\n\nEpisode Director, Storyboard\n\n', b'\nMatsuura, Johei\n\nEpisode Director, Storyboard\n\n', b'\nFukushima, Hiroyuki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	10226
+animeDescription	"Hibino Hareluya is a delinquent teenager who is tough and loves to pack a punch. His father is none other than the almighty God who does not approve very well of his son's rebellious acts. Disappointed in Hareluya's lack of responsibility, his father sends him to Earth as a normal high school student, stripped of his powers. Posing as a local priest, God keeps an eye on his son's adventures as Haleluya rights wrongs around the school with two-fisted justice, Love tattooed across the knuckles of each hand. 
+
+(Source: ANN)"
+animeRelated	['Hareluya II: Boy']
+animeCharacters	['Hibino, Hareluya', 'Ichijou, Makoto', 'Yamana, Michiru', 'Okamoto, Kiyoshirou', 'Ibu, Reiko']
+animeVoices	['Miki, Shinichiro', 'Oda, Yuusei', 'Miura, Naoko', 'Ueda, Yuuji', 'Tsuru, Hiromi']
+animeStaff	[['Egami, Kiyoshi', 'Director'], ['Suzuki, Toshimasa', 'Episode Director, Storyboard'], ['Matsuura, Johei', 'Episode Director, Storyboard'], ['Fukushima, Hiroyuki', 'Episode Director, Storyboard']]

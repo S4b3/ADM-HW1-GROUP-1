@@ -1,5 +1,5 @@
-animeTitle	b'Chibi Maruko-chan'
-animeType	b'TV'
+animeTitle	Chibi Maruko-chan
+animeType	TV
 animeNumEpisode	142
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.62
 animeUsers	3906
 animeRank	
-animePopularity	
-animeDescription	"b'Momoko Sakura is an elementary school student who likes popular idol Momoe Yamaguchi and mangas. She is often called ""Chibi Maruko-chan"" due to her young age and small size. She lives together with her parents, her grandparents and her elder sister in a little town. In school, she has many friends with whom she studies and plays together everyday, including her close pal, Tama-chan; the student committee members, Maruo-kun and Migiwa-san; and the B-class trio: \'little master\' Hanawa-kun, Hamaji-Bu Taro and Sekiguchi-kun. This is a fun-loving and enjoyable anime that portrays the simple things in life. \n\n(Source: ANN)'"
-animeRelated	[b'Chibi Maruko-chan', b'Chibi Maruko-chan Movie', b'Chibi Maruko-chan (1995)', b'Chibi Maruko-chan: Watashi no Suki na Uta', b'Planetarium Chibi Maruko-chan, Hoshi ni Negai wo', b'Chibi Maruko-chan Movie: Italia kara Kita Shounen']
-animeCharacters	[b'Sakura, Momoko', b'Honami, Tamae', b'Sakura, Sakiko', b'Yamada, Shouta', b'Sakura, Tomozou', b'Hanawa, Kazuhiko', b'Fujiki, Shigeru', b'Nagasawa, Kimio', b'Makimura, Maki', b'Uesugi, Mari']
-animeVoices	[b'\nTarako\nJapanese\n', b'\nWatanabe, Naoko\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nYamamoto, Keiko\nJapanese\n', b'\nTomiyama, Kei\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n', b'\nNaka, Tomoko\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nUrawa, Megumi\nJapanese\n', b'\nOrikasa, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuda, Yumiko\n\nDirector\n\n', b'\nTakamatsu, Shinji\n\nEpisode Director, Storyboard\n\n', b'\nKatabuchi, Sunao\n\nEpisode Director, Storyboard\n\n', b'\nTomobuki, Ami\n\nEpisode Director, Storyboard\n\n']
+animePopularity	5252
+animeDescription	"Momoko Sakura is an elementary school student who likes popular idol Momoe Yamaguchi and mangas. She is often called ""Chibi Maruko-chan"" due to her young age and small size. She lives together with her parents, her grandparents and her elder sister in a little town. In school, she has many friends with whom she studies and plays together everyday, including her close pal, Tama-chan; the student committee members, Maruo-kun and Migiwa-san; and the B-class trio: 'little master' Hanawa-kun, Hamaji-Bu Taro and Sekiguchi-kun. This is a fun-loving and enjoyable anime that portrays the simple things in life. 
+
+(Source: ANN)"
+animeRelated	['Chibi Maruko-chan', 'Chibi Maruko-chan Movie', 'Chibi Maruko-chan (1995)', 'Chibi Maruko-chan: Watashi no Suki na Uta', 'Planetarium Chibi Maruko-chan, Hoshi ni Negai wo', 'Chibi Maruko-chan Movie: Italia kara Kita Shounen']
+animeCharacters	['Sakura, Momoko', 'Honami, Tamae', 'Sakura, Sakiko', 'Yamada, Shouta', 'Sakura, Tomozou', 'Hanawa, Kazuhiko', 'Fujiki, Shigeru', 'Nagasawa, Kimio', 'Makimura, Maki', 'Uesugi, Mari']
+animeVoices	['Tarako', 'Watanabe, Naoko', 'Mizutani, Yuuko', 'Yamamoto, Keiko', 'Tomiyama, Kei', 'Kikuchi, Masami', 'Naka, Tomoko', 'Chafurin', 'Urawa, Megumi', 'Orikasa, Ai']
+animeStaff	[['Suda, Yumiko', 'Director'], ['Takamatsu, Shinji', 'Episode Director, Storyboard'], ['Katabuchi, Sunao', 'Episode Director, Storyboard'], ['Tomobuki, Ami', 'Episode Director, Storyboard']]

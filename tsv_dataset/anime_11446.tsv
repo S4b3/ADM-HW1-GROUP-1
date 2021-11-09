@@ -1,5 +1,5 @@
-animeTitle	b'Ousama Game The Animation'
-animeType	b'TV'
+animeTitle	Ousama Game The Animation
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.01
 animeUsers	96094
 animeRank	
-animePopularity	
-animeDescription	"b'It can be rough transferring to a new school\xe2\x80\x94even more so if you don\'t want to make any friends, like Nobuaki Kanazawa. But the reason for his antisocial behavior soon becomes clear when his class receives a text from someone called ""The King."" Included are instructions for the ""King\'s Game,"" and all class members must participate. Those who refuse to play, quit halfway, or don\'t follow an order in the allotted time of 24 hours will receive a deadly punishment.\n\nHaving played the game before and watched as those around him died, Nobuaki tries to warn his clueless classmates. Unfortunately, they only believe him after the King\'s Game claims its first casualties. Stuck in a horrific situation with no chance of escape, Nobuaki has a choice: put his own survival above those around him, or do what he couldn\'t before and save his classmates.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Ousama Game', b'Ousama Game: Shuukyoku']
-animeCharacters	[b'Kanazawa, Nobuaki', b'Honda, Natsuko', b'Honda, Chiemi', b'Hashimoto, Naoya', b'Matsumoto, Riona', b'Iwamura, Ria', b'Sugisawa, Ryou', b'Nagata, Teruaki', b'Akamatsu, Kenta', b'Hirano, Nami']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nTachibana, Shinnosuke\nJapanese\n', b'\nUehara, Akari\nJapanese\n', b'\nPile\nJapanese\n', b'\nKagura, Hiroyuki\nJapanese\n', b'\nSuzuki, Ryouta\nJapanese\n', b'\nSasaki, Yuusuke\nJapanese\n', b'\nSuzuki, Minori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasaki, Tokihiro\n\nDirector\n\n', b'\nOomuro, Masakatsu\n\nSound Director\n\n', b'\nOgawa, Yuuki\n\nStoryboard\n\n', b'\nTatsuwa, Naoyuki\n\nStoryboard\n\n']
+animePopularity	888
+animeDescription	"It can be rough transferring to a new school—even more so if you don't want to make any friends, like Nobuaki Kanazawa. But the reason for his antisocial behavior soon becomes clear when his class receives a text from someone called ""The King."" Included are instructions for the ""King's Game,"" and all class members must participate. Those who refuse to play, quit halfway, or don't follow an order in the allotted time of 24 hours will receive a deadly punishment.
+
+Having played the game before and watched as those around him died, Nobuaki tries to warn his clueless classmates. Unfortunately, they only believe him after the King's Game claims its first casualties. Stuck in a horrific situation with no chance of escape, Nobuaki has a choice: put his own survival above those around him, or do what he couldn't before and save his classmates.
+
+[Written by MAL Rewrite]"
+animeRelated	['Ousama Game', 'Ousama Game: Shuukyoku']
+animeCharacters	['Kanazawa, Nobuaki', 'Honda, Natsuko', 'Honda, Chiemi', 'Hashimoto, Naoya', 'Matsumoto, Riona', 'Iwamura, Ria', 'Sugisawa, Ryou', 'Nagata, Teruaki', 'Akamatsu, Kenta', 'Hirano, Nami']
+animeVoices	['Miyano, Mamoru', 'Horie, Yui', 'Ichimichi, Mao', 'Tachibana, Shinnosuke', 'Uehara, Akari', 'Pile', 'Kagura, Hiroyuki', 'Suzuki, Ryouta', 'Sasaki, Yuusuke', 'Suzuki, Minori']
+animeStaff	[['Sasaki, Tokihiro', 'Director'], ['Oomuro, Masakatsu', 'Sound Director'], ['Ogawa, Yuuki', 'Storyboard'], ['Tatsuwa, Naoyuki', 'Storyboard']]

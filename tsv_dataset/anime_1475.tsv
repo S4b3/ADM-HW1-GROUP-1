@@ -1,5 +1,5 @@
-animeTitle	b'Hoshi wo Ou Kodomo'
-animeType	b'Movie'
+animeTitle	Hoshi wo Ou Kodomo
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.55
 animeUsers	82678
 animeRank	
-animePopularity	
-animeDescription	"b""If you could turn all your memories into a song, what would it resemble?\n\nBetween being an exceptional student and taking care of the house alone during her mother's absence, Asuna Watase's only distraction is listening to her old crystal radio in her secret mountain hideout. One day, she accidentally tunes to a mysterious and melancholic melody, different from anything she has ever heard before. Soon after, an enigmatic boy named Shun saves her from a dangerous creature, unknowingly dragging Asuna on a long journey to a long lost land bound to surpass her very imagination, turning her once melodic life into an intricate requiem.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Hoshi wo Ou Kodomo', b'Hoshi wo Ou Kodomo: Agartha no Shounen']
-animeCharacters	[b'Watase, Asuna', b'Canaan Praeses, Shin', b'Morisaki, Ryuuji', b'Mimi', b'Shun', b'Mana', b'Risa', b'Soldier', b'Watase, Father', b'Seri']
-animeVoices	[b'\nKanemoto, Hisako\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nTakeuchi, Junko\nJapanese\n', b'\nHidaka, Rina\nJapanese\n', b'\nShimamoto, Sumi\nJapanese\n', b'\nHamada, Kenji\nJapanese\n', b'\nMaeda, Takeshi\nJapanese\n', b'\nItou, Kanae\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinkai, Makoto\n\nDirector, Director of Photography, Editing, Creator, Screenplay, Color Design\n\n', b'\nKumaki, Anri\n\nTheme Song Performance, Theme Song Composition, Theme Song Lyrics\n\n', b'\nTenmon\n\nMusic\n\n', b'\nDupac, Benoit\n\nADR Director\n\n']
+animePopularity	977
+animeDescription	"If you could turn all your memories into a song, what would it resemble?
+
+Between being an exceptional student and taking care of the house alone during her mother's absence, Asuna Watase's only distraction is listening to her old crystal radio in her secret mountain hideout. One day, she accidentally tunes to a mysterious and melancholic melody, different from anything she has ever heard before. Soon after, an enigmatic boy named Shun saves her from a dangerous creature, unknowingly dragging Asuna on a long journey to a long lost land bound to surpass her very imagination, turning her once melodic life into an intricate requiem.
+
+[Written by MAL Rewrite]"
+animeRelated	['Hoshi wo Ou Kodomo', 'Hoshi wo Ou Kodomo: Agartha no Shounen']
+animeCharacters	['Watase, Asuna', 'Canaan Praeses, Shin', 'Morisaki, Ryuuji', 'Mimi', 'Shun', 'Mana', 'Risa', 'Soldier', 'Watase, Father', 'Seri']
+animeVoices	['Kanemoto, Hisako', 'Irino, Miyu', 'Inoue, Kazuhiko', 'Takeuchi, Junko', 'Hidaka, Rina', 'Shimamoto, Sumi', 'Hamada, Kenji', 'Maeda, Takeshi', 'Itou, Kanae']
+animeStaff	[['Shinkai, Makoto', 'Director, Director of Photography, Editing, Creator, Screenplay, Color Design'], ['Kumaki, Anri', 'Theme Song Performance, Theme Song Composition, Theme Song Lyrics'], ['Tenmon', 'Music'], ['Dupac, Benoit', 'ADR Director']]

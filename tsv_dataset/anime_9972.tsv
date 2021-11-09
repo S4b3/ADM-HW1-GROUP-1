@@ -1,5 +1,5 @@
-animeTitle	b'Uchuu Enban Dai-Sensou'
-animeType	b'Movie'
+animeTitle	Uchuu Enban Dai-Sensou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.63
 animeUsers	503
 animeRank	
-animePopularity	
-animeDescription	b'The pilot movie of Grendizer. It is about Duke Fleed, a fugitive of the planet fleed, who was kicked out of his planet by the Armies of Vega. Fleed and the daughter of the king of Vega were in love before the war between their planets. The armies of Vega continue their fight with Duke Fleed. \n\n(Source: ANN)'
-animeRelated	[b'UFO Robo Grendizer']
-animeCharacters	[b'Fleed, Duke']
-animeVoices	[b'\nSasaki, Isao\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b""\nKoorogi '73\n\nTheme Song Performance\n\n"", b'\nNagai, Go\n\nOriginal Creator\n\n', b'\nKoizumi, Kenzou\n\nKey Animation\n\n', b'\nOkuyama, Reiko\n\nKey Animation\n\n']"
+animePopularity	10621
+animeDescription	"The pilot movie of Grendizer. It is about Duke Fleed, a fugitive of the planet fleed, who was kicked out of his planet by the Armies of Vega. Fleed and the daughter of the king of Vega were in love before the war between their planets. The armies of Vega continue their fight with Duke Fleed. 
+
+(Source: ANN)"
+animeRelated	['UFO Robo Grendizer']
+animeCharacters	['Fleed, Duke']
+animeVoices	['Sasaki, Isao']
+animeStaff	"[[""Koorogi '73"", 'Theme Song Performance'], ['Nagai, Go', 'Original Creator'], ['Koizumi, Kenzou', 'Key Animation'], ['Okuyama, Reiko', 'Key Animation']]"

@@ -1,5 +1,5 @@
-animeTitle	b'Allison to Lillia'
-animeType	b'TV'
+animeTitle	Allison to Lillia
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.35
 animeUsers	13133
 animeRank	
-animePopularity	
-animeDescription	"b'Set in a continent divided into two commonwealths that have been engaged in war for hundreds of years, Allison and Will go on a mission to search ""the treasure that will put an end to the war"". Their hope is inherited to their daughter Lillia, who strives to thaw the torn nations into a united country. This anime encourages young generations to believe in a world without hatred or war regardless of nationalities and beliefs.\n\n(Source: Anime Network)'"
-animeRelated	[b'Allison', b'Lillia to Treize']
-animeCharacters	[b'Whittington, Allison', b'Schultz, Wilhelm', b'Whittington-Schultz, Lillianne Aicasia Coraz\xc3\xb3n', b'Bain, Treize', b'Benedict, Carr', b'Fiona', b'Strauski, Megmica', b'Whittington, Oscar', b'Carlo', b'Ian, Thomas']
-animeVoices	[b'\nKuwashima, Houko\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nFukuen, Misato\nJapanese\n', b'\nSasaki, Seiji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishita, Masayoshi\n\nDirector, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nIshiodori, Hiroshi\n\nEpisode Director\n\n', b'\nYoshimura, Fumihiro\n\nEpisode Director\n\n']
+animePopularity	2816
+animeDescription	"Set in a continent divided into two commonwealths that have been engaged in war for hundreds of years, Allison and Will go on a mission to search ""the treasure that will put an end to the war"". Their hope is inherited to their daughter Lillia, who strives to thaw the torn nations into a united country. This anime encourages young generations to believe in a world without hatred or war regardless of nationalities and beliefs.
+
+(Source: Anime Network)"
+animeRelated	['Allison', 'Lillia to Treize']
+animeCharacters	['Whittington, Allison', 'Schultz, Wilhelm', 'Whittington-Schultz, Lillianne Aicasia Corazón', 'Bain, Treize', 'Benedict, Carr', 'Fiona', 'Strauski, Megmica', 'Whittington, Oscar', 'Carlo', 'Ian, Thomas']
+animeVoices	['Kuwashima, Houko', 'Morikawa, Toshiyuki', 'Mizuki, Nana', 'Yoshino, Hiroyuki', 'Yamadera, Kouichi', 'Noto, Mamiko', 'Takagaki, Ayahi', 'Tanaka, Hideyuki', 'Fukuen, Misato', 'Sasaki, Seiji']
+animeStaff	[['Nishita, Masayoshi', 'Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Ishiodori, Hiroshi', 'Episode Director'], ['Yoshimura, Fumihiro', 'Episode Director']]

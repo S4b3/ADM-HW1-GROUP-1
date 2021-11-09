@@ -1,5 +1,5 @@
-animeTitle	b'Cardfight!! Vanguard: Shinemon-hen'
-animeType	b'TV'
+animeTitle	Cardfight!! Vanguard: Shinemon-hen
+animeType	TV
 animeNumEpisode	31
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.6
 animeUsers	1102
 animeRank	
-animePopularity	
-animeDescription	"b'This is the story of ""Shinemon Nitta"", the future manager of Card Capital.\n\n10 years before the reunion of Aichi Sendou and Toshiki Kai, the card shop run by the Tokura family ""Card Capital"" was going out of business. Then came the attempt to take over the store by Esuka Hibino, the owner of a major card shop.\n\nIn order to protect Card Capital, Shinemon Nitta stands up as the ""Self-proclaimed Manager!""\n\n(Source: Cardfight!! Vanguard Wiki)'"
-animeRelated	[b'Cardfight!! Vanguard: Zoku Koukousei-hen']
-animeCharacters	[b'Tokura, Misaki', b'Nitta, Shin', b'Tachibana, Tatsuya', b'Shindou, Mikuru', b'Shindou, Chrono']
-animeVoices	[b'\nMaeda, Seiji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAikawa, Shou\n\nScript\n\n', b'\nAkahoshi, Masanao\n\nScript\n\n', b'\nTerasawa, Kazuaki\n\nStoryboard\n\n', b'\nAiba, Aina\n\nTheme Song Performance\n\n']
+animePopularity	8262
+animeDescription	"This is the story of ""Shinemon Nitta"", the future manager of Card Capital.
+
+10 years before the reunion of Aichi Sendou and Toshiki Kai, the card shop run by the Tokura family ""Card Capital"" was going out of business. Then came the attempt to take over the store by Esuka Hibino, the owner of a major card shop.
+
+In order to protect Card Capital, Shinemon Nitta stands up as the ""Self-proclaimed Manager!""
+
+(Source: Cardfight!! Vanguard Wiki)"
+animeRelated	['Cardfight!! Vanguard: Zoku Koukousei-hen']
+animeCharacters	['Tokura, Misaki', 'Nitta, Shin', 'Tachibana, Tatsuya', 'Shindou, Mikuru', 'Shindou, Chrono']
+animeVoices	['Maeda, Seiji']
+animeStaff	[['Aikawa, Shou', 'Script'], ['Akahoshi, Masanao', 'Script'], ['Terasawa, Kazuaki', 'Storyboard'], ['Aiba, Aina', 'Theme Song Performance']]

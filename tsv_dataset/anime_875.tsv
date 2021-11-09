@@ -1,5 +1,5 @@
-animeTitle	b'Gochuumon wa Usagi Desu ka??: Dear My Sister'
-animeType	b'Movie'
+animeTitle	Gochuumon wa Usagi Desu ka??: Dear My Sister
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.79
 animeUsers	13292
 animeRank	
-animePopularity	
-animeDescription	"b""Cocoa visits her family, in the mountains, after quite some time again after her sister Mocha wrote her, through a letter, to come back soon. Her friends will have to spend a week in the town without her, while Cocoa has time with her family that she hasn't seen for a long time. But Chino, Cocoa's self proclaimed little sister, wants to go watch, with Cocoa and all her friends, the fireworks in the fireworks festival, which is coming up in less than a week. Cocoa decides to return early as she misses them all, but will she arrive in time for the climax of the festival?\n\n(Source: TMDB)"""
-animeRelated	[b'Gochuumon wa Usagi desu ka?', b'Gochuumon wa Usagi Desu ka??', b'Gochuumon wa Usagi Desu ka??: Sing for You', b'Gochuumon wa Usagi Desu ka? Bloom']
-animeCharacters	[b'Kafuu, Chino', b'Hoto, Kokoa', b'Tedeza, Rize', b'Kirima, Sharo', b'Ujimatsu, Chiya', b'Tippy', b'Hoto, Moka', b'Hoto, Mother', b'Jouga, Maya', b'Aoyama, Midori']
-animeVoices	[b'\nMinase, Inori\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nTaneda, Risa\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nKiyokawa, Motomu\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nTokui, Sora\nJapanese\n', b'\nHayami, Saori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHashimoto, Hiroyuki\n\nDirector, Script\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nKoi\n\nScript, Original Creator\n\n', b'\nUchida, Maaya\n\nTheme Song Performance\n\n']
+animePopularity	3083
+animeDescription	"Cocoa visits her family, in the mountains, after quite some time again after her sister Mocha wrote her, through a letter, to come back soon. Her friends will have to spend a week in the town without her, while Cocoa has time with her family that she hasn't seen for a long time. But Chino, Cocoa's self proclaimed little sister, wants to go watch, with Cocoa and all her friends, the fireworks in the fireworks festival, which is coming up in less than a week. Cocoa decides to return early as she misses them all, but will she arrive in time for the climax of the festival?
+
+(Source: TMDB)"
+animeRelated	['Gochuumon wa Usagi desu ka?', 'Gochuumon wa Usagi Desu ka??', 'Gochuumon wa Usagi Desu ka??: Sing for You', 'Gochuumon wa Usagi Desu ka? Bloom']
+animeCharacters	['Kafuu, Chino', 'Hoto, Kokoa', 'Tedeza, Rize', 'Kirima, Sharo', 'Ujimatsu, Chiya', 'Tippy', 'Hoto, Moka', 'Hoto, Mother', 'Jouga, Maya', 'Aoyama, Midori']
+animeVoices	['Minase, Inori', 'Sakura, Ayane', 'Taneda, Risa', 'Uchida, Maaya', 'Satou, Satomi', 'Kiyokawa, Motomu', 'Kayano, Ai', 'Tokui, Sora', 'Hayami, Saori']
+animeStaff	[['Hashimoto, Hiroyuki', 'Director, Script'], ['Aketagawa, Jin', 'Sound Director'], ['Koi', 'Script, Original Creator'], ['Uchida, Maaya', 'Theme Song Performance']]

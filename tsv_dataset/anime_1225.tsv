@@ -1,5 +1,5 @@
-animeTitle	b'One Piece: Episode of Luffy - Hand Island no Bouken'
-animeType	b'Special'
+animeTitle	One Piece: Episode of Luffy - Hand Island no Bouken
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.63
 animeUsers	22621
 animeRank	
-animePopularity	
-animeDescription	"b'The story of the Hand Island no Bouken special is set a little before the events of One Piece Film Z and depicts a major ""Hand Island"" incident during the New World storyline. The story is set at ""Cannon Town"" where a parent and a child work as craftspeople. The incident revolves around them and a commodore of a marine base. The special will also have a flashback scene to the story in the first chapter of the manga, but with new animation. \n\n(Source: ANN) '"
-animeRelated	[b'One Piece', b'One Piece Film: Z']
-animeCharacters	[b'Monkey D., Luffy', b'Roronoa, Zoro', b'Sanji', b'Nico, Robin', b'Tony Tony, Chopper', b'Usopp', b'Nami', b'Brook', b'Franky', b'Shanks']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nYamaguchi, Yuriko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nCho\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nIkeda, Shuuichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorita, Hiroyuki\n\nCo-Director, Storyboard\n\n', b'\nHongou, Mitsuru\n\nCo-Director\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nOda, Eiichiro\n\nOriginal Creator\n\n']
+animePopularity	2712
+animeDescription	"The story of the Hand Island no Bouken special is set a little before the events of One Piece Film Z and depicts a major ""Hand Island"" incident during the New World storyline. The story is set at ""Cannon Town"" where a parent and a child work as craftspeople. The incident revolves around them and a commodore of a marine base. The special will also have a flashback scene to the story in the first chapter of the manga, but with new animation. 
+
+(Source: ANN) "
+animeRelated	['One Piece', 'One Piece Film: Z']
+animeCharacters	['Monkey D., Luffy', 'Roronoa, Zoro', 'Sanji', 'Nico, Robin', 'Tony Tony, Chopper', 'Usopp', 'Nami', 'Brook', 'Franky', 'Shanks']
+animeVoices	['Tanaka, Mayumi', 'Nakai, Kazuya', 'Hirata, Hiroaki', 'Yamaguchi, Yuriko', 'Ootani, Ikue', 'Yamaguchi, Kappei', 'Okamura, Akemi', 'Cho', 'Yao, Kazuki', 'Ikeda, Shuuichi']
+animeStaff	[['Morita, Hiroyuki', 'Co-Director, Storyboard'], ['Hongou, Mitsuru', 'Co-Director'], ['Nagasaki, Yukio', 'Sound Director'], ['Oda, Eiichiro', 'Original Creator']]

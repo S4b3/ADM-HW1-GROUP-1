@@ -1,5 +1,5 @@
-animeTitle	b'Strike Witches Movie'
-animeType	b'Movie'
+animeTitle	Strike Witches Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	7.59
 animeUsers	17229
 animeRank	
-animePopularity	
-animeDescription	"b""After fending off the threat of a Neuroi invasion of Romagna and destroying the enemy's nest over Venezia, Yoshika Miyafuji goes back to her home town in the Empire of Fusou. Despite the loss of her magical and healing abilities, the former officer of the 501st Joint Fighter Wing wants to continue studying medicine. This is in order to help those in need, both civilians and those on the front lines alike. She receives an invitation from a prestigious school in Europe and decides to accept the offer, embarking on a journey back to the war-torn continent.\n\nHowever, a new danger arises, as more and more Neuroi manage to break through human defense lines, appearing unnoticed in supposedly safe areas and disturbing the balance of power in Europe. Yoshiki's sense of duty collides with her inability to pilot a Striker Unit, but with her friends in peril, it seems that there is only one thing she can do.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Strike Witches Gekijouban: Kaeritai Basho', b'Strike Witches Gekijouban: 501 Butai Hasshin shimasu!', b'Strike Witches: Operation Victory Arrow', b'Strike Witches: Road to Berlin']
-animeCharacters	[b'Miyafuji, Yoshika', b'Hattori, Shizuka', b'Litvyak, Sanya V.', b'Hartmann, Erica', b'Juutilainen, Eila Ilmatar', b'Lucchini, Francesca', b'Sakamoto, Mio', b'Barkhorn, Gertrud', b'Bishop, Lynette', b'Clostermann, Perrine H.']
-animeVoices	[b'\nFukuen, Misato\nJapanese\n', b'\nUchida, Aya\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nNogawa, Sakura\nJapanese\n', b'\nOhashi, Ayuru\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nSeto, Saori\nJapanese\n', b'\nSonozaki, Mie\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakamura, Kazuhiro\n\nDirector\n\n', b'\nKanbe, Hiroyuki\n\nEpisode Director, Storyboard\n\n', b'\nTakahashi, Masanori\n\nEpisode Director, Storyboard\n\n', b'\nMarchi, Jamie\n\nScript\n\n']
+animePopularity	2891
+animeDescription	"After fending off the threat of a Neuroi invasion of Romagna and destroying the enemy's nest over Venezia, Yoshika Miyafuji goes back to her home town in the Empire of Fusou. Despite the loss of her magical and healing abilities, the former officer of the 501st Joint Fighter Wing wants to continue studying medicine. This is in order to help those in need, both civilians and those on the front lines alike. She receives an invitation from a prestigious school in Europe and decides to accept the offer, embarking on a journey back to the war-torn continent.
+
+However, a new danger arises, as more and more Neuroi manage to break through human defense lines, appearing unnoticed in supposedly safe areas and disturbing the balance of power in Europe. Yoshiki's sense of duty collides with her inability to pilot a Striker Unit, but with her friends in peril, it seems that there is only one thing she can do.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Strike Witches Gekijouban: Kaeritai Basho', 'Strike Witches Gekijouban: 501 Butai Hasshin shimasu!', 'Strike Witches: Operation Victory Arrow', 'Strike Witches: Road to Berlin']
+animeCharacters	['Miyafuji, Yoshika', 'Hattori, Shizuka', 'Litvyak, Sanya V.', 'Hartmann, Erica', 'Juutilainen, Eila Ilmatar', 'Lucchini, Francesca', 'Sakamoto, Mio', 'Barkhorn, Gertrud', 'Bishop, Lynette', 'Clostermann, Perrine H.']
+animeVoices	['Fukuen, Misato', 'Uchida, Aya', 'Kadowaki, Mai', 'Nogawa, Sakura', 'Ohashi, Ayuru', 'Saitou, Chiwa', 'Seto, Saori', 'Sonozaki, Mie', 'Nazuka, Kaori', 'Sawashiro, Miyuki']
+animeStaff	[['Takamura, Kazuhiro', 'Director'], ['Kanbe, Hiroyuki', 'Episode Director, Storyboard'], ['Takahashi, Masanori', 'Episode Director, Storyboard'], ['Marchi, Jamie', 'Script']]

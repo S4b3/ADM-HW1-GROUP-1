@@ -1,5 +1,5 @@
-animeTitle	b'Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki'
-animeType	b'OVA'
+animeTitle	Overlord: Ple Ple Pleiades - Nazarick Saidai no Kiki
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.92
 animeUsers	22528
 animeRank	
-animePopularity	
-animeDescription	"b""Bundled with novel series' 11th volume.\n\nThe new anime will feature the appearance of the Pleiades combat maids, as well as the rest of the Floor Guardians.\n\n(Source: ANN)"""
-animeRelated	[b'Overlord', b'Overlord: Ple Ple Pleiades']
-animeCharacters	"[b'Momonga', b'Albedo', b'Bloodfallen, Shalltear', b'Gamma, Narberal', b'Sebas Tian', b'Demiurge', b""Pandora's Actor"", b'Zeta, Entoma Vasilissa', b'Shizu Delta', b'Beta, Lupusregina']"
-animeVoices	[b'\nHino, Satoshi\nJapanese\n', b'\nHara, Yumi\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nNumakura, Manami\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nKatou, Masayuki\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nShindou, Kei\nJapanese\n', b'\nSeto, Asami\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAshina, Minoru\n\nDirector, Episode Director, Script, Storyboard\n\n', b'\nGou, Fumiyuki\n\nSound Director\n\n']
+animePopularity	2469
+animeDescription	"Bundled with novel series' 11th volume.
+
+The new anime will feature the appearance of the Pleiades combat maids, as well as the rest of the Floor Guardians.
+
+(Source: ANN)"
+animeRelated	['Overlord', 'Overlord: Ple Ple Pleiades']
+animeCharacters	"['Momonga', 'Albedo', 'Bloodfallen, Shalltear', 'Gamma, Narberal', 'Sebas Tian', 'Demiurge', ""Pandora's Actor"", 'Zeta, Entoma Vasilissa', 'Shizu Delta', 'Beta, Lupusregina']"
+animeVoices	['Hino, Satoshi', 'Hara, Yumi', 'Uesaka, Sumire', 'Numakura, Manami', 'Chiba, Shigeru', 'Katou, Masayuki', 'Miyano, Mamoru', 'Shindou, Kei', 'Seto, Asami', 'Komatsu, Mikako']
+animeStaff	[['Ashina, Minoru', 'Director, Episode Director, Script, Storyboard'], ['Gou, Fumiyuki', 'Sound Director']]

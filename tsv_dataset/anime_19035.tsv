@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Knight Gaiden'
-animeType	b'OVA'
+animeTitle	Dragon Knight Gaiden
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.97
 animeUsers	446
 animeRank	
-animePopularity	
-animeDescription	b'Takeru meets the boy Jodis which is in trouble for theft. Takeru saves him shares the night with him, finding out that Jodis is a girl. Later she is been kidnapped and Takeru goes to rescue her. \n\n(Source: AniDB)'
-animeRelated	[b'Dragon Knight']
-animeCharacters	[b'Yamato, Takeru', b'Jodis', b'Shade', b'Yurius']
+animePopularity	10242
+animeDescription	"Takeru meets the boy Jodis which is in trouble for theft. Takeru saves him shares the night with him, finding out that Jodis is a girl. Later she is been kidnapped and Takeru goes to rescue her. 
+
+(Source: AniDB)"
+animeRelated	['Dragon Knight']
+animeCharacters	['Yamato, Takeru', 'Jodis', 'Shade', 'Yurius']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nToyooka, Kaoru\n\nDirector\n\n', b'\nKano, Akira\n\nCharacter Design\n\n']
+animeStaff	[['Toyooka, Kaoru', 'Director'], ['Kano, Akira', 'Character Design']]

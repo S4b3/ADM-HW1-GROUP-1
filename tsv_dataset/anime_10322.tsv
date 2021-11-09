@@ -1,5 +1,5 @@
-animeTitle	b'Landlock'
-animeType	b'OVA'
+animeTitle	Landlock
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.52
 animeUsers	873
 animeRank	
-animePopularity	
-animeDescription	"b""The land of Zer\xe2\x80\x99lue is in turmoil, ravaged by the technological might of Chairman Sana'ku and his evil, militaristic Zul\xe2\x80\x99earth forces. In a rapidly unfolding story of treachery, deceit and betrayal, only one boy holds the power to defeat such overwhelming odds... a boy named Lue'der, who possesses a mysterious red eye and the ability to control the power of the wind itself. With the fate of the world at stake, Lue'der must learn to unlock his legendary power and battle against the evil which threatens to engulf his planet.\n\n(Source: ANN)"""
+animePopularity	9422
+animeDescription	"The land of Zer’lue is in turmoil, ravaged by the technological might of Chairman Sana'ku and his evil, militaristic Zul’earth forces. In a rapidly unfolding story of treachery, deceit and betrayal, only one boy holds the power to defeat such overwhelming odds... a boy named Lue'der, who possesses a mysterious red eye and the ability to control the power of the wind itself. With the fate of the world at stake, Lue'der must learn to unlock his legendary power and battle against the evil which threatens to engulf his planet.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Ansa', b'Agahari', b'Ruda', b'Bork', b'Zanak', b'Nosaku']
-animeVoices	[b'\nAmano, Yuri\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nKashiwakura, Tsutomu\nJapanese\n', b'\nCho\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nShimada, Bin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShirow, Masamune\n\nOriginal Character Design\n\n', b'\nNakazawa, Kazuto\n\nAnimation Director, Character Design\n\n', b'\nMatsuo, Hayato\n\nMusic\n\n', b'\nWaki, Takeshi\n\nArt Director\n\n']
+animeCharacters	['Ansa', 'Agahari', 'Ruda', 'Bork', 'Zanak', 'Nosaku']
+animeVoices	['Amano, Yuri', 'Ogata, Megumi', 'Kashiwakura, Tsutomu', 'Cho', 'Gouri, Daisuke', 'Shimada, Bin']
+animeStaff	[['Shirow, Masamune', 'Original Character Design'], ['Nakazawa, Kazuto', 'Animation Director, Character Design'], ['Matsuo, Hayato', 'Music'], ['Waki, Takeshi', 'Art Director']]

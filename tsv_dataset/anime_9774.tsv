@@ -1,5 +1,5 @@
-animeTitle	b'Bara no Hana to Joe'
-animeType	b'Movie'
+animeTitle	Bara no Hana to Joe
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.69
 animeUsers	409
 animeRank	
-animePopularity	
-animeDescription	"b""It's a Sanrio picture that feels partly like an anime art film and partly like a Warner Bros. cartoon. The film features some very creative imagery, a groovy 70's jazz score, and very little spoken dialogue. It's a story about a dog named Joe that falls in love with a rose and protects it from a mean spirited crow. There's some energetic Fritz Freeling style action. There's also some unexpectedly grim tragedy, not including the anticipated outcome, which does occur as expected.\n\n(Source: animenation.net)"""
+animePopularity	11462
+animeDescription	"It's a Sanrio picture that feels partly like an anime art film and partly like a Warner Bros. cartoon. The film features some very creative imagery, a groovy 70's jazz score, and very little spoken dialogue. It's a story about a dog named Joe that falls in love with a rose and protects it from a mean spirited crow. There's some energetic Fritz Freeling style action. There's also some unexpectedly grim tragedy, not including the anticipated outcome, which does occur as expected.
+
+(Source: animenation.net)"
 animeRelated	[]
-animeCharacters	[b'Crow', b'Rose', b'Joe']
+animeCharacters	['Crow', 'Rose', 'Joe']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYanase, Takashi\n\nDirector, Theme Song Lyrics, Art Director, Series Composition, Original Creator\n\n', b'\nSeri, Youko\n\nTheme Song Performance\n\n', b'\nIshikawa, Yamako\n\nBackground Art\n\n']
+animeStaff	[['Yanase, Takashi', 'Director, Theme Song Lyrics, Art Director, Series Composition, Original Creator'], ['Seri, Youko', 'Theme Song Performance'], ['Ishikawa, Yamako', 'Background Art']]

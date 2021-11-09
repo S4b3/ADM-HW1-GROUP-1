@@ -1,5 +1,5 @@
-animeTitle	b'Kitsutsuki Tanteidokoro'
-animeType	b'TV'
+animeTitle	Kitsutsuki Tanteidokoro
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.06
 animeUsers	5653
 animeRank	
-animePopularity	
-animeDescription	b'A ghost was seen on the 12th floor of the Asakusa Juunikai building. A newspaper article featuring the sighting brought together Takuboku Ishikawa, who runs a private detective agency to support his family, and his assistant Kyosuke Kindaichi to solve the case.\n\n(Source: MAL News)'
-animeRelated	[b'Kitsutsuki Tanteidokoro']
-animeCharacters	[b'Ishikawa, Takuboku', b'Kindaichi, Kyousuke', b'Akutagawa, Ryuunosuke', b'Wakayama, Bokusui', b'Hagiwara, Sakutarou', b'Hirai, Tarou', b'Nomura, Kodou', b'Yoshii, Isamu']
-animeVoices	[b'\nAsanuma, Shintaro\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nHayashi, Yukiya\nJapanese\n', b'\nFurukawa, Makoto\nJapanese\n', b'\nUmehara, Yuuichirou\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nSaitou, Souma\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nEzaki, Shinpei\n\nDirector\n\n', b'\nMakino, Tomoe\n\nDirector\n\n', b'\nFurukawa, Makoto\n\nTheme Song Performance\n\n', b'\nNOW ON AIR\n\nTheme Song Performance\n\n']
+animePopularity	3743
+animeDescription	"A ghost was seen on the 12th floor of the Asakusa Juunikai building. A newspaper article featuring the sighting brought together Takuboku Ishikawa, who runs a private detective agency to support his family, and his assistant Kyosuke Kindaichi to solve the case.
+
+(Source: MAL News)"
+animeRelated	['Kitsutsuki Tanteidokoro']
+animeCharacters	['Ishikawa, Takuboku', 'Kindaichi, Kyousuke', 'Akutagawa, Ryuunosuke', 'Wakayama, Bokusui', 'Hagiwara, Sakutarou', 'Hirai, Tarou', 'Nomura, Kodou', 'Yoshii, Isamu']
+animeVoices	['Asanuma, Shintaro', 'Sakurai, Takahiro', 'Hayashi, Yukiya', 'Furukawa, Makoto', 'Umehara, Yuuichirou', 'Ono, Kensho', 'Tsuda, Kenjirou', 'Saitou, Souma']
+animeStaff	[['Ezaki, Shinpei', 'Director'], ['Makino, Tomoe', 'Director'], ['Furukawa, Makoto', 'Theme Song Performance'], ['NOW ON AIR', 'Theme Song Performance']]

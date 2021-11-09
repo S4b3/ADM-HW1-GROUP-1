@@ -1,5 +1,5 @@
-animeTitle	b'Oyako Club'
-animeType	b'TV'
+animeTitle	Oyako Club
+animeType	TV
 animeNumEpisode	1818
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.45
 animeUsers	318
 animeRank	
-animePopularity	
-animeDescription	b'This anime was running almost 20 years and has over 1800 episodes.'
+animePopularity	11498
+animeDescription	This anime was running almost 20 years and has over 1800 episodes.
 animeRelated	[]
-animeCharacters	[b'Obaa-chan']
-animeVoices	[b'\nHisamatsu, Yuuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKubota, Shouzou\n\nKey Animation, In-Between Animation\n\n', b'\nWakabayashi, Tadao\n\nKey Animation, Animation Director, Character Design\n\n']
+animeCharacters	['Obaa-chan']
+animeVoices	['Hisamatsu, Yuuko']
+animeStaff	[['Kubota, Shouzou', 'Key Animation, In-Between Animation'], ['Wakabayashi, Tadao', 'Key Animation, Animation Director, Character Design']]

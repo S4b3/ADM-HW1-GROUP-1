@@ -1,5 +1,5 @@
-animeTitle	b'Re-Kan!'
-animeType	b'TV'
+animeTitle	Re-Kan!
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.76
 animeUsers	20625
 animeRank	
-animePopularity	
-animeDescription	"b""Hibiki Amami would be a regular high school girl if it weren't for one thing: a sixth sense that allows her to see ghosts. Rather than being scared, Amami is more interested in befriending and helping the apparitions. This often leads to her human friends witnessing paranormal activity as the ghosts try to help Amami with everyday tasks. \n\nThe majority of Amami's friends accept that she has a sixth sense, but Narumi Inoue\xe2\x80\x94a girl who is terrified of the supernatural\xe2\x80\x94refuses to acknowledge that ghosts are real. Though she is scared and stubborn, Inoue goes along with the rest of her friends, who decide to take up Amami's mission of helping ghosts however they can.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Re-Kan!']
-animeCharacters	"[b'Amami, Hibiki', b'Inoue, Narumi', b'Uehara, Kana', b'Esumi, Kyouko', b'Ogawa, Makoto', b'Ero-neko', b""Ko-gal Spirit's Mother"", b'Daihen-zamurai', b""Inoue, Yuuki's Mother"", b'Aizawa-san']"
-animeVoices	[b'\nKido, Ibuki\nJapanese\n', b'\nItou, Miku\nJapanese\n', b'\nIida, Riho\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nYamazaki, Erii\nJapanese\n', b'\nKujira\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nKawahara, Yoshihisa\nJapanese\n', b'\nShintani, Ryouko\nJapanese\n', b'\nGotou, Saori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKudou, Masashi\n\nDirector\n\n', b'\nKosaka, Harume\n\nEpisode Director\n\n', b'\nNoshitani, Mitsutaka\n\nEpisode Director\n\n', b'\nAoshima, Takashi\n\nScript, Series Composition\n\n']
+animePopularity	2373
+animeDescription	"Hibiki Amami would be a regular high school girl if it weren't for one thing: a sixth sense that allows her to see ghosts. Rather than being scared, Amami is more interested in befriending and helping the apparitions. This often leads to her human friends witnessing paranormal activity as the ghosts try to help Amami with everyday tasks. 
+
+The majority of Amami's friends accept that she has a sixth sense, but Narumi Inoue—a girl who is terrified of the supernatural—refuses to acknowledge that ghosts are real. Though she is scared and stubborn, Inoue goes along with the rest of her friends, who decide to take up Amami's mission of helping ghosts however they can.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Re-Kan!']
+animeCharacters	"['Amami, Hibiki', 'Inoue, Narumi', 'Uehara, Kana', 'Esumi, Kyouko', 'Ogawa, Makoto', 'Ero-neko', ""Ko-gal Spirit's Mother"", 'Daihen-zamurai', ""Inoue, Yuuki's Mother"", 'Aizawa-san']"
+animeVoices	['Kido, Ibuki', 'Itou, Miku', 'Iida, Riho', 'Ichimichi, Mao', 'Yamazaki, Erii', 'Kujira', 'Inoue, Kikuko', 'Kawahara, Yoshihisa', 'Shintani, Ryouko', 'Gotou, Saori']
+animeStaff	[['Kudou, Masashi', 'Director'], ['Kosaka, Harume', 'Episode Director'], ['Noshitani, Mitsutaka', 'Episode Director'], ['Aoshima, Takashi', 'Script, Series Composition']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ginsoukikou Ordian'
-animeType	b'TV'
+animeTitle	Ginsoukikou Ordian
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.69
 animeUsers	484
 animeRank	
-animePopularity	
-animeDescription	b'Kananase Yu is just an ordinary high-school student. Since he has mysterious inside knowledge about piloting a mecha, he is recruited by the International Military Organization as a potential test pilot for a new mobile armor. However, apparently there are other young recruits around his age, including one of his classmates, were recruited as test pilot as well. Now Kananase Yu must prove that he is the best to be the test pilot. \n\n(Source: ANN)'
+animePopularity	8797
+animeDescription	"Kananase Yu is just an ordinary high-school student. Since he has mysterious inside knowledge about piloting a mecha, he is recruited by the International Military Organization as a potential test pilot for a new mobile armor. However, apparently there are other young recruits around his age, including one of his classmates, were recruited as test pilot as well. Now Kananase Yu must prove that he is the best to be the test pilot. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Maqmahausen, Nell', b'Kananase, Yuu', b'Aihara, Nanna', b'Erikmeyer, Wolf']
-animeVoices	[b'\nIkezawa, Haruna\nJapanese\n', b'\nKawada, Shinji\nJapanese\n', b'\nEnomoto, Atsuko\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagai, Masaru\n\nProducer\n\n', b'\nOobari, Masami\n\nDirector, Episode Director, Script, Storyboard, Character Design, Animation Director, Mechanical Design, Key Animation\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nNakazawa, Kazuto\n\nEpisode Director, Storyboard, Key Animation\n\n']
+animeCharacters	['Maqmahausen, Nell', 'Kananase, Yuu', 'Aihara, Nanna', 'Erikmeyer, Wolf']
+animeVoices	['Ikezawa, Haruna', 'Kawada, Shinji', 'Enomoto, Atsuko', 'Miki, Shinichiro']
+animeStaff	[['Nagai, Masaru', 'Producer'], ['Oobari, Masami', 'Director, Episode Director, Script, Storyboard, Character Design, Animation Director, Mechanical Design, Key Animation'], ['Watanabe, Jun', 'Sound Director'], ['Nakazawa, Kazuto', 'Episode Director, Storyboard, Key Animation']]

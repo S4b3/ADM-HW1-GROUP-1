@@ -1,5 +1,5 @@
-animeTitle	b'Musashi no Ken'
-animeType	b'TV'
+animeTitle	Musashi no Ken
+animeType	TV
 animeNumEpisode	72
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.12
 animeUsers	365
 animeRank	
-animePopularity	
-animeDescription	b'Musashi no Ken is the story of a boy named Musashi who aims to be the Kendo champion.  Part of the anime is him as a child, and part is of him as an adult.'
-animeRelated	[b'Musashi no Ken']
-animeCharacters	[b'Natsuki, Musashi', b'Todoroki, Ranko', b'Kazato, Mina', b'Takahashi', b'Akutsu', b'Fukazawa', b'Tagusari', b'Oomura', b'Sugawara', b'Shibuya']
-animeVoices	[b'\nHorikawa, Ryo\nJapanese\n', b'\nIkura, Kazue\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nKondou, Reiko\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nTsunoda, Narumi\nJapanese\n', b'\nKitou, Satoko\nJapanese\n', b'\nNarahashi, Miki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsunoda, Toshitaka\n\nDirector\n\n', b'\nKinoshita, Yuuki\n\nEpisode Director, Animation Director\n\n', b'\nTonokatsu, Hideki\n\nEpisode Director\n\n', b'\nAsada, Yuuji\n\nEpisode Director\n\n']
+animePopularity	9302
+animeDescription	Musashi no Ken is the story of a boy named Musashi who aims to be the Kendo champion.  Part of the anime is him as a child, and part is of him as an adult.
+animeRelated	['Musashi no Ken']
+animeCharacters	['Natsuki, Musashi', 'Todoroki, Ranko', 'Kazato, Mina', 'Takahashi', 'Akutsu', 'Fukazawa', 'Tagusari', 'Oomura', 'Sugawara', 'Shibuya']
+animeVoices	['Horikawa, Ryo', 'Ikura, Kazue', 'Tomizawa, Michie', 'Kondou, Reiko', 'Tobita, Nobuo', 'Tsunoda, Narumi', 'Kitou, Satoko', 'Narahashi, Miki']
+animeStaff	[['Tsunoda, Toshitaka', 'Director'], ['Kinoshita, Yuuki', 'Episode Director, Animation Director'], ['Tonokatsu, Hideki', 'Episode Director'], ['Asada, Yuuji', 'Episode Director']]

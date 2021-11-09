@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon: Pikachu Koori no Daibouken'
-animeType	b'Special'
+animeTitle	Pokemon: Pikachu Koori no Daibouken
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.34
 animeUsers	2172
 animeRank	
-animePopularity	
-animeDescription	"b""While playing in the ocean near a tropical resort, Pikachu & Co. get in a scuffle with Team Rocket's Pok\xc3\xa9mon. This scuffle causes the Pok\xc3\xa9mon to wind up miles away in an Ice-covered Paradise. However, when they get there, they are seperated soon find that certain Pok\xc3\xa9mon in the area require their assistance. Will they be able to reunite with their friends and help these Pok\xc3\xa9mon out?\n\n(Source: Serebii)"""
-animeRelated	[b'Pokemon Diamond & Pearl']
-animeCharacters	[b'Pikachu', b'Nyarth', b'Soonansu', b'Narrator']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nAsada, Yuuji\n\nEpisode Director, Storyboard, Special Effects\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n', b'\nSugimori, Ken\n\nOriginal Character Design\n\n']
+animePopularity	6566
+animeDescription	"While playing in the ocean near a tropical resort, Pikachu & Co. get in a scuffle with Team Rocket's Pokémon. This scuffle causes the Pokémon to wind up miles away in an Ice-covered Paradise. However, when they get there, they are seperated soon find that certain Pokémon in the area require their assistance. Will they be able to reunite with their friends and help these Pokémon out?
+
+(Source: Serebii)"
+animeRelated	['Pokemon Diamond & Pearl']
+animeCharacters	['Pikachu', 'Nyarth', 'Soonansu', 'Narrator']
+animeVoices	['Ootani, Ikue', 'Inuyama, Inuko', 'Ueda, Yuuji', 'Horiuchi, Kenyuu']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Asada, Yuuji', 'Episode Director, Storyboard, Special Effects'], ['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design']]

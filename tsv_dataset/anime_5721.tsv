@@ -1,5 +1,5 @@
-animeTitle	b'Sengoku Musou SP: Sanada no Shou'
-animeType	b'Special'
+animeTitle	Sengoku Musou SP: Sanada no Shou
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.58
 animeUsers	2319
 animeRank	
-animePopularity	
-animeDescription	b'The story of the special revolves around the Sanada brothers in their youth. Nobuyuki and Yukimura swear to each other to protect the influential Sanada clan. However, thinking of how to best continue the Sanada clan, Yukimura makes a decision, and meets with Mitsunari Ishida and Naoe Kanetsugu at the location he arrived at. On the other hand, his elder brother Nobuyuki must worry about the selfish demands made by the Tokugawa clan.\n\n(Source: ANN)'
-animeRelated	[b'Sengoku Musou']
-animeCharacters	[b'Sanada, Yukimura', b'Sanada, Nobuyuki', b'Ishida, Mitsunari', b'Oda, Nobunaga', b'Kunoichi', b'Toyotomi, Hideyoshi', b'Naoe, Kanetsugu', b'Takeda, Shingen', b'Narrator', b'Akechi, Mitsuhide']
-animeVoices	[b'\nKusao, Takeshi\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nTakemoto, Eiji\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nNagashima, Yuuko\nJapanese\n', b'\nTakatsuka, Masaya\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHosoya, Nobuyuki\n\nProducer\n\n', b'\nOchi, Koujin\n\nDirector, Storyboard\n\n', b'\nKoizumi, Kisuke\n\nSound Director\n\n', b'\nYamada, Yuka\n\nScript\n\n']
+animePopularity	6762
+animeDescription	"The story of the special revolves around the Sanada brothers in their youth. Nobuyuki and Yukimura swear to each other to protect the influential Sanada clan. However, thinking of how to best continue the Sanada clan, Yukimura makes a decision, and meets with Mitsunari Ishida and Naoe Kanetsugu at the location he arrived at. On the other hand, his elder brother Nobuyuki must worry about the selfish demands made by the Tokugawa clan.
+
+(Source: ANN)"
+animeRelated	['Sengoku Musou']
+animeCharacters	['Sanada, Yukimura', 'Sanada, Nobuyuki', 'Ishida, Mitsunari', 'Oda, Nobunaga', 'Kunoichi', 'Toyotomi, Hideyoshi', 'Naoe, Kanetsugu', 'Takeda, Shingen', 'Narrator', 'Akechi, Mitsuhide']
+animeVoices	['Kusao, Takeshi', 'Ono, Daisuke', 'Takemoto, Eiji', 'Kosugi, Juurouta', 'Nagashima, Yuuko', 'Takatsuka, Masaya', 'Ishizuka, Unshou']
+animeStaff	[['Hosoya, Nobuyuki', 'Producer'], ['Ochi, Koujin', 'Director, Storyboard'], ['Koizumi, Kisuke', 'Sound Director'], ['Yamada, Yuka', 'Script']]

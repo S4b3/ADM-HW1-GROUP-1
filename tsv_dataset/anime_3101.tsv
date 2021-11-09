@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam SEED C.E.73: Stargazer'
-animeType	b'ONA'
+animeTitle	Mobile Suit Gundam SEED C.E.73: Stargazer
+animeType	ONA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.15
 animeUsers	11400
 animeRank	
-animePopularity	
-animeDescription	"b""In C.E. 73, tensions between Naturals and Coordinators continue to persist, eventually leading to another war between the Earth Alliance and PLANT. Sven Cal Bayan is a Natural pilot of the elite EA squad, the Phantom Pain, and carries out his squad's various anti-Coordinator missions without fail. Selene McGriff is a Coordinator researcher at the neutral Deep Space Survey and Development Organization (DSSD) and a developer of the GSX-401FW Stargazer space exploration mobile suit. Though their backgrounds are completely different, the expanding war will nevertheless force their paths to collide.\n\n(Source: ANN)"""
-animeRelated	[b'Kidou Senshi Gundam SEED C.E.73 Stargazer', b'Mobile Suit Gundam SEED Destiny']
-animeCharacters	[b'Cal Bayan, Sven', b'Couza, Shams', b'McGriff, Selene', b'Holcroft, Mudie', b'La Flaga, Mu', b'Loussier, Stella', b'Durandal, Gilbert', b'Azrael, Muruta', b'Oakley, Sting', b'Duclos, Edmon']
-animeVoices	[b'\nOno, Daisuke\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nIkeda, Shuuichi\nJapanese\n', b'\nNakata, Jouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Hajime\n\nProducer\n\n', b'\nNishizawa, Susumu\n\nDirector\n\n', b'\nFujino, Sadayoshi\n\nSound Director\n\n', b'\nTsukasa, Sunaga\n\nStoryboard\n\n']
+animePopularity	3909
+animeDescription	"In C.E. 73, tensions between Naturals and Coordinators continue to persist, eventually leading to another war between the Earth Alliance and PLANT. Sven Cal Bayan is a Natural pilot of the elite EA squad, the Phantom Pain, and carries out his squad's various anti-Coordinator missions without fail. Selene McGriff is a Coordinator researcher at the neutral Deep Space Survey and Development Organization (DSSD) and a developer of the GSX-401FW Stargazer space exploration mobile suit. Though their backgrounds are completely different, the expanding war will nevertheless force their paths to collide.
+
+(Source: ANN)"
+animeRelated	['Kidou Senshi Gundam SEED C.E.73 Stargazer', 'Mobile Suit Gundam SEED Destiny']
+animeCharacters	['Cal Bayan, Sven', 'Couza, Shams', 'McGriff, Selene', 'Holcroft, Mudie', 'La Flaga, Mu', 'Loussier, Stella', 'Durandal, Gilbert', 'Azrael, Muruta', 'Oakley, Sting', 'Duclos, Edmon']
+animeVoices	['Ono, Daisuke', 'Miyano, Mamoru', 'Ohara, Sayaka', 'Satou, Rina', 'Ikeda, Shuuichi', 'Nakata, Jouji']
+animeStaff	[['Yatate, Hajime', 'Producer'], ['Nishizawa, Susumu', 'Director'], ['Fujino, Sadayoshi', 'Sound Director'], ['Tsukasa, Sunaga', 'Storyboard']]

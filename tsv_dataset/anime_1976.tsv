@@ -1,5 +1,5 @@
-animeTitle	b'Naruto x UT'
-animeType	b'OVA'
+animeTitle	Naruto x UT
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.4
 animeUsers	22392
 animeRank	
-animePopularity	
-animeDescription	"b""All-new animation offered throughout UNIQLO clothing stores in Japan on January 1, 2011. The DVD contains an exclusive version of Mayonaka Orchestra, by the Japanese rock band Aqua Timez. A limited number of the DVDs was offered as presents to people who bought UNIQLO's Naruto graphic T-shirts online or in their stores.\n\n(Source: ANN, edited)"""
-animeRelated	[b'Naruto: Shippuuden']
-animeCharacters	[b'Uzumaki, Naruto', b'Hatake, Kakashi', b'Uchiha, Sasuke', b'Haruno, Sakura', b'Uchiha, Itachi', b'Gaara', b'Pain', b'Hyuuga, Neji', b'Orochimaru', b'Tobi']
+animePopularity	2622
+animeDescription	"All-new animation offered throughout UNIQLO clothing stores in Japan on January 1, 2011. The DVD contains an exclusive version of Mayonaka Orchestra, by the Japanese rock band Aqua Timez. A limited number of the DVDs was offered as presents to people who bought UNIQLO's Naruto graphic T-shirts online or in their stores.
+
+(Source: ANN, edited)"
+animeRelated	['Naruto: Shippuuden']
+animeCharacters	['Uzumaki, Naruto', 'Hatake, Kakashi', 'Uchiha, Sasuke', 'Haruno, Sakura', 'Uchiha, Itachi', 'Gaara', 'Pain', 'Hyuuga, Neji', 'Orochimaru', 'Tobi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuru, Toshiyuki\n\nDirector\n\n', b'\nKishimoto, Masashi\n\nOriginal Creator\n\n', b'\nAqua Timez\n\nMusic\n\n', b'\nMatsumoto, Norio\n\nKey Animation\n\n']
+animeStaff	[['Tsuru, Toshiyuki', 'Director'], ['Kishimoto, Masashi', 'Original Creator'], ['Aqua Timez', 'Music'], ['Matsumoto, Norio', 'Key Animation']]

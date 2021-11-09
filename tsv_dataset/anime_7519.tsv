@@ -1,5 +1,5 @@
-animeTitle	b'Persona 3 the Movie Meets \xe2\x80\x9cWalkman\xe2\x80\x9d'
-animeType	b'ONA'
+animeTitle	Persona 3 the Movie Meets “Walkman”
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.23
 animeUsers	1576
 animeRank	
-animePopularity	
-animeDescription	b'A short commercial featuring Makoto Yuuki, the protagonist of the Persona 3 film series, wearing a set of Sony headphones and using a Walkman.'
-animeRelated	[b'Persona 3 the Movie 4: Winter of Rebirth']
-animeCharacters	[b'Yuuki, Makoto']
+animePopularity	6809
+animeDescription	A short commercial featuring Makoto Yuuki, the protagonist of the Persona 3 film series, wearing a set of Sony headphones and using a Walkman.
+animeRelated	['Persona 3 the Movie 4: Winter of Rebirth']
+animeCharacters	['Yuuki, Makoto']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTaguchi, Tomohisa\n\nDirector, Storyboard\n\n', b'\nSoejima, Shigenori\n\nOriginal Character Design\n\n']
+animeStaff	[['Taguchi, Tomohisa', 'Director, Storyboard'], ['Soejima, Shigenori', 'Original Character Design']]

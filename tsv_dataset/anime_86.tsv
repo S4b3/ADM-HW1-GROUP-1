@@ -1,5 +1,5 @@
-animeTitle	b'Zoku Natsume Yuujinchou'
-animeType	b'TV'
+animeTitle	Zoku Natsume Yuujinchou
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.56
 animeUsers	109243
 animeRank	
-animePopularity	
-animeDescription	"b'As with its prequel, Zoku Natsume Yuujinchou is about Takashi Natsume, a boy who has had the ability to see youkai since he was young, and his bodyguard youkai Madara, nicknamed Nyanko-sensei. Natsume attempts to return names written in his ""Book of Friends"" (which he inherited from his grandmother Reiko) to youkai in his village. Throughout these adventures, he meets some youkai that are friendly, some that want to steal the Book, and some that want to kill him, as Natsume learns about himself and his relationship with these mysterious beings along the way.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Natsume Yuujinchou', b'Natsume Yuujinchou San', b'Zoku Natsume Yuujinchou: 3D Nyanko-sensei Gekijou']
-animeCharacters	[b'Natsume, Takashi', b'Madara', b'Natsume, Reiko', b'Tanuma, Kaname', b'Natori, Shuuichi', b'Taki, Tooru', b'Hinoe', b'Fujiwara, Touko', b'Hiiragi', b'Gen']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nHorie, Kazuma\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nItou, Miki\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyake, Masanori\n\nProducer\n\n', b'\nOomori, Takahiro\n\nDirector, Sound Director, Episode Director, Storyboard, Key Animation\n\n', b'\nNakano, Hideaki\n\nEpisode Director\n\n', b'\nUmemoto, Yui\n\nEpisode Director\n\n']
+animePopularity	814
+animeDescription	"As with its prequel, Zoku Natsume Yuujinchou is about Takashi Natsume, a boy who has had the ability to see youkai since he was young, and his bodyguard youkai Madara, nicknamed Nyanko-sensei. Natsume attempts to return names written in his ""Book of Friends"" (which he inherited from his grandmother Reiko) to youkai in his village. Throughout these adventures, he meets some youkai that are friendly, some that want to steal the Book, and some that want to kill him, as Natsume learns about himself and his relationship with these mysterious beings along the way.
+
+[Written by MAL Rewrite]"
+animeRelated	['Natsume Yuujinchou', 'Natsume Yuujinchou San', 'Zoku Natsume Yuujinchou: 3D Nyanko-sensei Gekijou']
+animeCharacters	['Natsume, Takashi', 'Madara', 'Natsume, Reiko', 'Tanuma, Kaname', 'Natori, Shuuichi', 'Taki, Tooru', 'Hinoe', 'Fujiwara, Touko', 'Hiiragi', 'Gen']
+animeVoices	['Kamiya, Hiroshi', 'Inoue, Kazuhiko', 'Kobayashi, Sanae', 'Horie, Kazuma', 'Ishida, Akira', 'Satou, Rina', 'Okamura, Akemi', 'Itou, Miki', 'Yukino, Satsuki', 'Yoshino, Hiroyuki']
+animeStaff	[['Miyake, Masanori', 'Producer'], ['Oomori, Takahiro', 'Director, Sound Director, Episode Director, Storyboard, Key Animation'], ['Nakano, Hideaki', 'Episode Director'], ['Umemoto, Yui', 'Episode Director']]

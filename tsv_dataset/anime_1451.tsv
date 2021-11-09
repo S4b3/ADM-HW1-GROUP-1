@@ -1,5 +1,5 @@
-animeTitle	b'Yama no Susume: Third Season'
-animeType	b'TV'
+animeTitle	Yama no Susume: Third Season
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.56
 animeUsers	6907
 animeRank	
-animePopularity	
-animeDescription	b'Aoi and Hinata are childhood friends. Aoi prefers staying indoors and is afraid of heights, whereas Hinata is outgoing and loves mountaineering. They both decide to climb a mountain in order to see a sunrise they saw together when they were younger.\n\nIn the coming third season, they enjoy hiking beautiful mountains with colored leaves and the story gets even more colorful when they become friends with local school girls!!\n\n(Source: Yomiuri TV Enterprise)'
-animeRelated	[b'Yama no Susume', b'Yama no Susume: Omoide Present', b'Yama no Susume: Next Summit']
-animeCharacters	[b'Yukimura, Aoi', b'Kuraue, Hinata', b'Aoba, Kokona', b'Saitou, Kaede', b'Kurosaki, Honoka', b'Yukimura, Megumi', b'Aoba, Mai', b'Mio', b'Yuri', b'Kasumi']
-animeVoices	[b'\nIguchi, Yuka\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nOgura, Yui\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nTouyama, Nao\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nHayamizu, Risa\nJapanese\n', b'\nTakao, Kanon\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Yuusuke\n\nDirector, Sound Director, Episode Director, Script, Storyboard, Series Composition\n\n', b'\nAiura, Kazuya\n\nEpisode Director, 2nd Key Animation\n\n', b'\nFudeyasu, Kazuyuki\n\nScript\n\n', b'\nChina\n\nStoryboard, Key Animation\n\n']
+animePopularity	4123
+animeDescription	"Aoi and Hinata are childhood friends. Aoi prefers staying indoors and is afraid of heights, whereas Hinata is outgoing and loves mountaineering. They both decide to climb a mountain in order to see a sunrise they saw together when they were younger.
+
+In the coming third season, they enjoy hiking beautiful mountains with colored leaves and the story gets even more colorful when they become friends with local school girls!!
+
+(Source: Yomiuri TV Enterprise)"
+animeRelated	['Yama no Susume', 'Yama no Susume: Omoide Present', 'Yama no Susume: Next Summit']
+animeCharacters	['Yukimura, Aoi', 'Kuraue, Hinata', 'Aoba, Kokona', 'Saitou, Kaede', 'Kurosaki, Honoka', 'Yukimura, Megumi', 'Aoba, Mai', 'Mio', 'Yuri', 'Kasumi']
+animeVoices	['Iguchi, Yuka', 'Asumi, Kana', 'Ogura, Yui', 'Hikasa, Youko', 'Touyama, Nao', 'Hisakawa, Aya', 'Hayamizu, Risa', 'Takao, Kanon']
+animeStaff	[['Yamamoto, Yuusuke', 'Director, Sound Director, Episode Director, Script, Storyboard, Series Composition'], ['Aiura, Kazuya', 'Episode Director, 2nd Key Animation'], ['Fudeyasu, Kazuyuki', 'Script'], ['China', 'Storyboard, Key Animation']]

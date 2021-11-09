@@ -1,5 +1,5 @@
-animeTitle	b'Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha'
-animeType	b'Special'
+animeTitle	Mob Psycho 100: Reigen - Shirarezaru Kiseki no Reinouryokusha
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.3
 animeUsers	32343
 animeRank	
-animePopularity	
-animeDescription	b'A summary episode of Mob Psycho 100 which features commentary from Reigen Arataka.'
-animeRelated	[b'Mob Psycho 100']
-animeCharacters	[b'Reigen, Arataka', b'Kageyama, Shigeo', b'Ekubo', b'Hanazawa, Teruki', b'Kageyama, Ritsu', b'Kurata, Tome', b'Mezato, Ichi', b'Koyama, Megumu', b'Sakurai, Yuusuke', b'Matsuo']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nItou, Setsuo\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nONE\n\nOriginal Creator\n\n', b'\nKameda, Yoshimichi\n\nCharacter Design\n\n']
+animePopularity	2028
+animeDescription	A summary episode of Mob Psycho 100 which features commentary from Reigen Arataka.
+animeRelated	['Mob Psycho 100']
+animeCharacters	['Reigen, Arataka', 'Kageyama, Shigeo', 'Ekubo', 'Hanazawa, Teruki', 'Kageyama, Ritsu', 'Kurata, Tome', 'Mezato, Ichi', 'Koyama, Megumu', 'Sakurai, Yuusuke', 'Matsuo']
+animeVoices	['Sakurai, Takahiro', 'Itou, Setsuo', 'Ootsuka, Akio', 'Matsuoka, Yoshitsugu']
+animeStaff	[['ONE', 'Original Creator'], ['Kameda, Yoshimichi', 'Character Design']]

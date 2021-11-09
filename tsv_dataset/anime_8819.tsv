@@ -1,5 +1,5 @@
-animeTitle	b'Fantasista Stella'
-animeType	b'OVA'
+animeTitle	Fantasista Stella
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.96
 animeUsers	446
 animeRank	
-animePopularity	
-animeDescription	b'Teppei and teammate Keisuke Honda aim for the FIFA World Cup 2014 in Brazil.'
-animeRelated	[b'Fantasista Stella']
-animeCharacters	[b'Honda, Keisuke', b'Sakamoto, Teppei', b'Okita, Kaoru', b'Ookubo, Rui', b'Morikawa, Ryuuji', b'Kondou, Atsushi']
-animeVoices	[b'\nIshikawa, Hideo\nJapanese\n', b'\nYanagita, Junichi\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nKawabe, Shunsuke\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nMiyashita, Eiji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Hideya\n\nDirector\n\n', b'\nUrakari, Hiroki\n\nSound Director\n\n', b'\nYamashita, Tomohiro\n\nScript\n\n', b'\nKusaba, Michiteru\n\nOriginal Creator, Original Character Design\n\n']
+animePopularity	10418
+animeDescription	Teppei and teammate Keisuke Honda aim for the FIFA World Cup 2014 in Brazil.
+animeRelated	['Fantasista Stella']
+animeCharacters	['Honda, Keisuke', 'Sakamoto, Teppei', 'Okita, Kaoru', 'Ookubo, Rui', 'Morikawa, Ryuuji', 'Kondou, Atsushi']
+animeVoices	['Ishikawa, Hideo', 'Yanagita, Junichi', 'Uchiyama, Kouki', 'Kawabe, Shunsuke', 'Ishikawa, Kaito', 'Miyashita, Eiji']
+animeStaff	[['Takahashi, Hideya', 'Director'], ['Urakari, Hiroki', 'Sound Director'], ['Yamashita, Tomohiro', 'Script'], ['Kusaba, Michiteru', 'Original Creator, Original Character Design']]

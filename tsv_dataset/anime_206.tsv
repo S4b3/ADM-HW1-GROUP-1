@@ -1,5 +1,5 @@
-animeTitle	b'Evangelion: 2.0 You Can (Not) Advance'
-animeType	b'Movie'
+animeTitle	Evangelion: 2.0 You Can (Not) Advance
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.33
 animeUsers	255511
 animeRank	
-animePopularity	
-animeDescription	"b""When the threat of the Angel menace escalates, mankind's defense force is pushed to its limits, with NERV at the forefront of the struggle. Shinji Ikari and his partner Rei Ayanami are assisted by two new pilots: the fiery Asuka Langley Shikinami and the mysterious Mari Illustrious Makinami.\n\nWith the aid of their mechanized Evangelion units, equipped with weapons perfect for engaging their monstrous opponents, the four young souls fight desperately to protect their loved ones and prevent an impending apocalypse. But when startling secrets are brought to light, will the heroes' greatest challenge prove to be the monsters...or humanity itself?\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Neon Genesis Evangelion', b'Evangelion: 1.0 You Are (Not) Alone', b'Evangelion: 3.0 You Can (Not) Redo', b'Beautiful World']
-animeCharacters	[b'Ikari, Shinji', b'Ayanami, Rei', b'Katsuragi, Misato', b'Souryuu, Asuka Langley', b'Nagisa, Kaworu', b'Pen Pen', b'Ikari, Gendou', b'Makinami, Mari Illustrious', b'Kaji, Ryouji', b'Akagi, Ritsuko']
-animeVoices	[b'\nOgata, Megumi\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nMiyamura, Yuko\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nTachiki, Fumihiko\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nYamaguchi, Yuriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAnno, Hideaki\n\nDirector, Script, Storyboard, Key Animation, Executive Producer, Creator\n\n', b'\nTsurumaki, Kazuya\n\nDirector, Storyboard, Key Animation\n\n', b'\nMasayuki\n\nDirector, Storyboard, Key Animation\n\n', b'\nKobayashi, Hiroyasu\n\nDirector\n\n']
+animePopularity	381
+animeDescription	"When the threat of the Angel menace escalates, mankind's defense force is pushed to its limits, with NERV at the forefront of the struggle. Shinji Ikari and his partner Rei Ayanami are assisted by two new pilots: the fiery Asuka Langley Shikinami and the mysterious Mari Illustrious Makinami.
+
+With the aid of their mechanized Evangelion units, equipped with weapons perfect for engaging their monstrous opponents, the four young souls fight desperately to protect their loved ones and prevent an impending apocalypse. But when startling secrets are brought to light, will the heroes' greatest challenge prove to be the monsters...or humanity itself?
+
+[Written by MAL Rewrite]"
+animeRelated	['Neon Genesis Evangelion', 'Evangelion: 1.0 You Are (Not) Alone', 'Evangelion: 3.0 You Can (Not) Redo', 'Beautiful World']
+animeCharacters	['Ikari, Shinji', 'Ayanami, Rei', 'Katsuragi, Misato', 'Souryuu, Asuka Langley', 'Nagisa, Kaworu', 'Pen Pen', 'Ikari, Gendou', 'Makinami, Mari Illustrious', 'Kaji, Ryouji', 'Akagi, Ritsuko']
+animeVoices	['Ogata, Megumi', 'Hayashibara, Megumi', 'Mitsuishi, Kotono', 'Miyamura, Yuko', 'Ishida, Akira', 'Tachiki, Fumihiko', 'Sakamoto, Maaya', 'Yamadera, Kouichi', 'Yamaguchi, Yuriko']
+animeStaff	[['Anno, Hideaki', 'Director, Script, Storyboard, Key Animation, Executive Producer, Creator'], ['Tsurumaki, Kazuya', 'Director, Storyboard, Key Animation'], ['Masayuki', 'Director, Storyboard, Key Animation'], ['Kobayashi, Hiroyasu', 'Director']]

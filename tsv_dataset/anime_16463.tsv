@@ -1,5 +1,5 @@
-animeTitle	b'Juuippiki no Neko to Ahoudori'
-animeType	b'Movie'
+animeTitle	Juuippiki no Neko to Ahoudori
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Eleven naughty cats on the run from the neighborhood police chief hear that a giant fish is nearby for the taking. They go on a hazardous quest find it, learning that they must work as a team to reach their goal.\n\n(Source: The Anime Encyclopedia)'
-animeRelated	[b'Juuippiki no Neko']
-animeCharacters	[b'Toraneko Taishou', b'Jumbo Albatross', b'Albatross', b'Yamaneko B', b'Cat A', b'Yamaneko D', b'Cat D', b'Cat E', b'Cat J']
-animeVoices	[b'\nFuruya, Toru\nJapanese\n', b'\nTakagi, Hitoshi\nJapanese\n', b'\nKumakura, Kazuo\nJapanese\n', b'\nSaikachi, Ryuuji\nJapanese\n', b'\nMaruyama, Hiroko\nJapanese\n', b'\nMine, Eken\nJapanese\n', b'\nShimada, Bin\nJapanese\n', b'\nSogabe, Kazuyuki\nJapanese\n', b'\nYamazaki, Tetsuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nBaba, Noboru\n\nOriginal Creator\n\n']
+animePopularity	13077
+animeDescription	"Eleven naughty cats on the run from the neighborhood police chief hear that a giant fish is nearby for the taking. They go on a hazardous quest find it, learning that they must work as a team to reach their goal.
+
+(Source: The Anime Encyclopedia)"
+animeRelated	['Juuippiki no Neko']
+animeCharacters	['Toraneko Taishou', 'Jumbo Albatross', 'Albatross', 'Yamaneko B', 'Cat A', 'Yamaneko D', 'Cat D', 'Cat E', 'Cat J']
+animeVoices	['Furuya, Toru', 'Takagi, Hitoshi', 'Kumakura, Kazuo', 'Saikachi, Ryuuji', 'Maruyama, Hiroko', 'Mine, Eken', 'Shimada, Bin', 'Sogabe, Kazuyuki', 'Yamazaki, Tetsuya']
+animeStaff	[['Baba, Noboru', 'Original Creator']]

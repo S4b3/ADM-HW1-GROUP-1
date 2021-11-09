@@ -1,5 +1,5 @@
-animeTitle	b'Andes Shounen Pepero no Bouken'
-animeType	b'TV'
+animeTitle	Andes Shounen Pepero no Bouken
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.58
 animeUsers	300
 animeRank	
-animePopularity	
-animeDescription	b'This is the quest of Pepero and his friends in search of the Golden Condor or el Dorado. \n\n(Source: ANN)'
+animePopularity	11260
+animeDescription	"This is the quest of Pepero and his friends in search of the Golden Condor or el Dorado. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Pepero', b'Titicaca', b'Lady Amazon', b'Innes', b'Anita', b'Aztec', b'Kui', b'Kayna', b'Chutchu']
-animeVoices	[b'\nSuzuki, Hiroko\nJapanese\n', b'\nUeda, Toshiya\nJapanese\n', b'\nAzuma, Mie\nJapanese\n', b'\nAomori, Shin\nJapanese\n', b'\nMatsuo, Yoshiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUdagawa, Kazuhiko\n\nDirector\n\n', b'\nOkuda, Seiji\n\nEpisode Director\n\n', b'\nHorie, Mitsuko\n\nTheme Song Performance\n\n', b'\nYamashita, Takeo\n\nTheme Song Composition, Music\n\n']
+animeCharacters	['Pepero', 'Titicaca', 'Lady Amazon', 'Innes', 'Anita', 'Aztec', 'Kui', 'Kayna', 'Chutchu']
+animeVoices	['Suzuki, Hiroko', 'Ueda, Toshiya', 'Azuma, Mie', 'Aomori, Shin', 'Matsuo, Yoshiko']
+animeStaff	[['Udagawa, Kazuhiko', 'Director'], ['Okuda, Seiji', 'Episode Director'], ['Horie, Mitsuko', 'Theme Song Performance'], ['Yamashita, Takeo', 'Theme Song Composition, Music']]

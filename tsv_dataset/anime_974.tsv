@@ -1,5 +1,5 @@
-animeTitle	b'Noragami OVA'
-animeType	b'OVA'
+animeTitle	Noragami OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.74
 animeUsers	163194
 animeRank	
-animePopularity	
-animeDescription	"b'Hiyori Iki is excited to start high school alongside her two middle school friends, but ""Delivery God"" Yato seems to have other plans for the day. Will Hiyori be able to make a good impression on her first day? Or will Yato cost her a happy high school life?\n\nOn another day, Hiyori decides to take advantage of the beautiful weather and invites a number of people to gaze at the cherry blossoms, including the fearsome combat god, Bishamon. But how long will their blissful day last when Yato and his old rival Bishamon start to drink together? \n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Noragami', b'Noragami: Shuuishuu', b'Noragami Aragoto OVA']
-animeCharacters	[b'Yato', b'Yukine', b'Iki, Hiyori', b'Bishamon', b'Kofuku', b'Kazuma', b'Daikoku', b'Kuraha', b'Aiha', b'Tsuyu']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nHayami, Saori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTamura, Koutarou\n\nDirector\n\n', b'\nYamada, Minoru\n\nSound Director\n\n', b'\nIwasaki, Taku\n\nMusic\n\n', b'\nAdachitoka\n\nOriginal Creator\n\n']
+animePopularity	605
+animeDescription	"Hiyori Iki is excited to start high school alongside her two middle school friends, but ""Delivery God"" Yato seems to have other plans for the day. Will Hiyori be able to make a good impression on her first day? Or will Yato cost her a happy high school life?
+
+On another day, Hiyori decides to take advantage of the beautiful weather and invites a number of people to gaze at the cherry blossoms, including the fearsome combat god, Bishamon. But how long will their blissful day last when Yato and his old rival Bishamon start to drink together? 
+
+[Written by MAL Rewrite]"
+animeRelated	['Noragami', 'Noragami: Shuuishuu', 'Noragami Aragoto OVA']
+animeCharacters	['Yato', 'Yukine', 'Iki, Hiyori', 'Bishamon', 'Kofuku', 'Kazuma', 'Daikoku', 'Kuraha', 'Aiha', 'Tsuyu']
+animeVoices	['Kamiya, Hiroshi', 'Kaji, Yuki', 'Uchida, Maaya', 'Sawashiro, Miyuki', 'Toyosaki, Aki', 'Fukuyama, Jun', 'Ono, Daisuke', 'Inoue, Kazuhiko', 'Hayami, Saori']
+animeStaff	[['Tamura, Koutarou', 'Director'], ['Yamada, Minoru', 'Sound Director'], ['Iwasaki, Taku', 'Music'], ['Adachitoka', 'Original Creator']]

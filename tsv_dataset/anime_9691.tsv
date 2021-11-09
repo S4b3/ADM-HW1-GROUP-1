@@ -1,5 +1,5 @@
-animeTitle	b'Sprite: Between Two Worlds'
-animeType	b'OVA'
+animeTitle	Sprite: Between Two Worlds
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.72
 animeUsers	722
 animeRank	
-animePopularity	
-animeDescription	b'Lately, shy Manami has been flirting outrageously and sparking vicious cat-fights! Afterwards, she remembers nothing. Can it be that another personality seethes beneath her own? A wild woman who\xe2\x80\x99ll do anything to find trouble?\n\n(Source: AniDB)'
-animeRelated	[b'Sprite']
-animeCharacters	"[b'Sakumoto, Manami', b'Takamura, Tooru', b""Manami's Mother"", b'Masaya', b'Ogata, Chiaki']"
-animeVoices	[b'\nSugimoto, Yuu\nJapanese\n', b'\nIwanaga, Tetsuya\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nOkamoto, Maya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Hideo\n\nSound Director\n\n', b'\nHirose, Yoshinori\n\nArt Director\n\n', b'\nArimura, Shinobu\n\nOriginal Creator\n\n']
+animePopularity	9272
+animeDescription	"Lately, shy Manami has been flirting outrageously and sparking vicious cat-fights! Afterwards, she remembers nothing. Can it be that another personality seethes beneath her own? A wild woman who’ll do anything to find trouble?
+
+(Source: AniDB)"
+animeRelated	['Sprite']
+animeCharacters	"['Sakumoto, Manami', 'Takamura, Tooru', ""Manami's Mother"", 'Masaya', 'Ogata, Chiaki']"
+animeVoices	['Sugimoto, Yuu', 'Iwanaga, Tetsuya', 'Miki, Shinichiro', 'Okamoto, Maya']
+animeStaff	[['Takahashi, Hideo', 'Sound Director'], ['Hirose, Yoshinori', 'Art Director'], ['Arimura, Shinobu', 'Original Creator']]

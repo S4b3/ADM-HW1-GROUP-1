@@ -1,5 +1,5 @@
-animeTitle	b'Genki Bakuhatsu Ganbaruger'
-animeType	b'TV'
+animeTitle	Genki Bakuhatsu Ganbaruger
+animeType	TV
 animeNumEpisode	47
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.91
 animeUsers	269
 animeRank	
-animePopularity	
-animeDescription	"b""Koutarou's father is trying to train his son in the art of the ninja, but a mis-hit bomb accidently damages a shrine and releases a great demon that Eldoran had been keeping contained. Eldoran manages to contain him, but one of his servants manages to escape as well, and now attempts to free his master. To stop him, Eldoran grants the three mecha Gotiger, King Elephan, and Mach Eagle to Koutarou and his two friends, as well as suits that grant each of them a special power. Miracle Ninja Ganbare Team is born!\n\n(Source: starfox.net)"""
-animeRelated	[b'Zettai Muteki Raijin-Oh', b'Nekketsu Saikyou Go-Saurer', b'Genki Bakuhatsu Ganbaruger: Hyakka']
-animeCharacters	[b'Kirigakure, Koutarou', b'Yaminorius III', b'Kirigakure, Toubei', b'Ryuzaki, Rikiya', b'Kazamatsuri, Yousuke', b'Eldran', b'Araki, Jun', b'Takeda, Secretary', b'Araki, Genzo', b'Seiyark']
-animeVoices	[b'\nOrikasa, Ai\nJapanese\n', b'\nSogabe, Kazuyuki\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nShimada, Bin\nJapanese\n', b'\nMinami, Omi\nJapanese\n', b'\nYamaguchi, Ken\nJapanese\n', b'\nNishimura, Tomomichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawase, Toshifumi\n\nDirector, Storyboard\n\n', b'\nYatate, Hajime\n\nOriginal Creator\n\n', b'\nHasegawa, Tomoki\n\nMusic\n\n', b'\nKise, Kazuchika\n\nAnimation Director\n\n']
+animePopularity	11125
+animeDescription	"Koutarou's father is trying to train his son in the art of the ninja, but a mis-hit bomb accidently damages a shrine and releases a great demon that Eldoran had been keeping contained. Eldoran manages to contain him, but one of his servants manages to escape as well, and now attempts to free his master. To stop him, Eldoran grants the three mecha Gotiger, King Elephan, and Mach Eagle to Koutarou and his two friends, as well as suits that grant each of them a special power. Miracle Ninja Ganbare Team is born!
+
+(Source: starfox.net)"
+animeRelated	['Zettai Muteki Raijin-Oh', 'Nekketsu Saikyou Go-Saurer', 'Genki Bakuhatsu Ganbaruger: Hyakka']
+animeCharacters	['Kirigakure, Koutarou', 'Yaminorius III', 'Kirigakure, Toubei', 'Ryuzaki, Rikiya', 'Kazamatsuri, Yousuke', 'Eldran', 'Araki, Jun', 'Takeda, Secretary', 'Araki, Genzo', 'Seiyark']
+animeVoices	['Orikasa, Ai', 'Sogabe, Kazuyuki', 'Ogata, Kenichi', 'Shimada, Bin', 'Minami, Omi', 'Yamaguchi, Ken', 'Nishimura, Tomomichi']
+animeStaff	[['Kawase, Toshifumi', 'Director, Storyboard'], ['Yatate, Hajime', 'Original Creator'], ['Hasegawa, Tomoki', 'Music'], ['Kise, Kazuchika', 'Animation Director']]

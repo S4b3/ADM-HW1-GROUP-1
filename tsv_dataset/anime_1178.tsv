@@ -1,5 +1,5 @@
-animeTitle	b'Akudama Drive'
-animeType	b'TV'
+animeTitle	Akudama Drive
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.65
 animeUsers	134340
 animeRank	
-animePopularity	
-animeDescription	"b'The bustling metropolis of Kansai, where cybernetic screens litter the neon landscape, may seem like a technological utopia at first glance. But in the dark alleys around the brightly-lit buildings, an unforgiving criminal underbelly still exists in the form of fugitives known as ""Akudama."" \n\nNo stranger to these individuals, Kansai police begin the countdown to the public execution of an infamous Akudama ""Cutthroat,"" guilty of killing 999 people. However, a mysterious message is sent to several elite Akudama, enlisting them to free Cutthroat for a substantial amount of money. An invisible hand seeks to gather these dangerous personas in one place, ensuring that the execution is well underway to becoming a full-blown bloodbath.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Akudama Drive']
-animeCharacters	[b'Cutthroat', b'Ordinary Person', b'Courier', b'Hacker', b'Brawler', b'Doctor', b'Hoodlum', b'Execution Division Master', b'Execution Division Apprentice', b'Black Cat']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nKurosawa, Tomoyo\nJapanese\n', b'\nUmehara, Yuuichirou\nJapanese\n', b'\nHorie, Shun\nJapanese\n', b'\nTakeuchi, Shunsuke\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nKimura, Subaru\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nHanamori, Yumiri\nJapanese\n', b'\nUchida, Maaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTaguchi, Tomohisa\n\nDirector\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nUrashimasakatasen\n\nTheme Song Performance\n\n', b'\nSPARK!!SOUND!!SHOW!!\n\nTheme Song Performance\n\n']
+animePopularity	566
+animeDescription	"The bustling metropolis of Kansai, where cybernetic screens litter the neon landscape, may seem like a technological utopia at first glance. But in the dark alleys around the brightly-lit buildings, an unforgiving criminal underbelly still exists in the form of fugitives known as ""Akudama."" 
+
+No stranger to these individuals, Kansai police begin the countdown to the public execution of an infamous Akudama ""Cutthroat,"" guilty of killing 999 people. However, a mysterious message is sent to several elite Akudama, enlisting them to free Cutthroat for a substantial amount of money. An invisible hand seeks to gather these dangerous personas in one place, ensuring that the execution is well underway to becoming a full-blown bloodbath.
+
+[Written by MAL Rewrite]"
+animeRelated	['Akudama Drive']
+animeCharacters	['Cutthroat', 'Ordinary Person', 'Courier', 'Hacker', 'Brawler', 'Doctor', 'Hoodlum', 'Execution Division Master', 'Execution Division Apprentice', 'Black Cat']
+animeVoices	['Sakurai, Takahiro', 'Kurosawa, Tomoyo', 'Umehara, Yuuichirou', 'Horie, Shun', 'Takeuchi, Shunsuke', 'Ogata, Megumi', 'Kimura, Subaru', 'Ootsuka, Akio', 'Hanamori, Yumiri', 'Uchida, Maaya']
+animeStaff	[['Taguchi, Tomohisa', 'Director'], ['Nagasaki, Yukio', 'Sound Director'], ['Urashimasakatasen', 'Theme Song Performance'], ['SPARK!!SOUND!!SHOW!!', 'Theme Song Performance']]

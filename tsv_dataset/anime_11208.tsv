@@ -1,5 +1,5 @@
-animeTitle	b'Barom One'
-animeType	b'TV'
+animeTitle	Barom One
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.15
 animeUsers	487
 animeRank	
-animePopularity	
-animeDescription	b'Takeshi Kido and Kentaro Shiratori are a pair of friends who have been together for almost their entire life. One night, a strange being comes out from the lake and starts attacking them. When Takeshi and Kentaro are almost eliminated, a strange being named Kopu calls them and tells them that they are the chosen ones to inherit the power to protect the world from an evil being named Goumon. Now, they join their hands to transform into Barom One, a being with superior skills, who will fight to protect the city.\n\n(Source: ANN)'
-animeRelated	[b'Barom 1']
-animeCharacters	[b'Kido, Takeshi', b'Shiratori, Kentarou']
-animeVoices	[b'\nYoshino, Hiroyuki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTominaga, Tsuneo\n\nDirector\n\n', b'\nTakahashi, Hideo\n\nSound Director\n\n', b'\nSaitou, Takao\n\nOriginal Creator\n\n', b'\nNakahara, Eitou\n\nArt Director\n\n']
+animePopularity	9615
+animeDescription	"Takeshi Kido and Kentaro Shiratori are a pair of friends who have been together for almost their entire life. One night, a strange being comes out from the lake and starts attacking them. When Takeshi and Kentaro are almost eliminated, a strange being named Kopu calls them and tells them that they are the chosen ones to inherit the power to protect the world from an evil being named Goumon. Now, they join their hands to transform into Barom One, a being with superior skills, who will fight to protect the city.
+
+(Source: ANN)"
+animeRelated	['Barom 1']
+animeCharacters	['Kido, Takeshi', 'Shiratori, Kentarou']
+animeVoices	['Yoshino, Hiroyuki', 'Namikawa, Daisuke']
+animeStaff	[['Tominaga, Tsuneo', 'Director'], ['Takahashi, Hideo', 'Sound Director'], ['Saitou, Takao', 'Original Creator'], ['Nakahara, Eitou', 'Art Director']]

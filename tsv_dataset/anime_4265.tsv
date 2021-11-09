@@ -1,5 +1,5 @@
-animeTitle	b'Koutetsushin Jeeg'
-animeType	b'TV'
+animeTitle	Koutetsushin Jeeg
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.89
 animeUsers	2069
 animeRank	
-animePopularity	
-animeDescription	"b'Kotetsushin Jeeg takes place fifty years after the original and features a new cast of characters\xe2\x80\x94primarily the new main character Kenji Kusanagi, a high school student who becomes Kotetsushin Jeeg to fight the sudden reappearance of ""Haniwa Genjin"" (""Haniwa Phantom Gods"", or clay robots) from the Jamada Empire ruled by Queen Himika. Other characters include Tsubaki Tamashiro (grandaughter of Miwa Uzuki); and Kyou Misumi. Other main characters from the original series also appear.'"
-animeRelated	[b'Koutetsu Jeeg']
-animeCharacters	[b'Kusanagi, Kenji', b'Tamashiro, Tsubaki', b'Misumi, Kyo', b'Shiba, Hiroshi', b'Saotome, Monko', b'Yagyuu, Mitsuko', b'Queen Himika', b'Uzuki, Miwa', b'Mido, Tatsuko']
-animeVoices	[b'\nOno, Daisuke\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nChiba, Susumu\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nMori, Natsuki\nJapanese\n', b'\nNoda, Junko\nJapanese\n', b'\nKimura, Akiko\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawagoe, Jun\n\nDirector, Episode Director, Storyboard\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nKawamura, Tomoyuki\n\nEpisode Director, Storyboard, Assistant Director\n\n', b'\nIgarashi, Shishou\n\nEpisode Director\n\n']
+animePopularity	6594
+animeDescription	"Kotetsushin Jeeg takes place fifty years after the original and features a new cast of characters—primarily the new main character Kenji Kusanagi, a high school student who becomes Kotetsushin Jeeg to fight the sudden reappearance of ""Haniwa Genjin"" (""Haniwa Phantom Gods"", or clay robots) from the Jamada Empire ruled by Queen Himika. Other characters include Tsubaki Tamashiro (grandaughter of Miwa Uzuki); and Kyou Misumi. Other main characters from the original series also appear."
+animeRelated	['Koutetsu Jeeg']
+animeCharacters	['Kusanagi, Kenji', 'Tamashiro, Tsubaki', 'Misumi, Kyo', 'Shiba, Hiroshi', 'Saotome, Monko', 'Yagyuu, Mitsuko', 'Queen Himika', 'Uzuki, Miwa', 'Mido, Tatsuko']
+animeVoices	['Ono, Daisuke', 'Ueda, Kana', 'Chiba, Susumu', 'Suwabe, Junichi', 'Mori, Natsuki', 'Noda, Junko', 'Kimura, Akiko', 'Okamura, Akemi']
+animeStaff	[['Kawagoe, Jun', 'Director, Episode Director, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Kawamura, Tomoyuki', 'Episode Director, Storyboard, Assistant Director'], ['Igarashi, Shishou', 'Episode Director']]

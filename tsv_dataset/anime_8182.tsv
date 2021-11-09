@@ -1,5 +1,5 @@
-animeTitle	b'Sanrio Anime Sekai Meisaku Gekijou'
-animeType	b'TV'
+animeTitle	Sanrio Anime Sekai Meisaku Gekijou
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.1
 animeUsers	456
 animeRank	
-animePopularity	
-animeDescription	b'Hello Kitty and other Sanrio characters star in adaptations of various spoof famous stories. Each episode contains two stories. The series presents itself as a stage plays. And the characters are actors in the story (eg. Cat Wars is a spoof of the Star Wars story). You, the viewer, is meant to be as one of the people in the audience.'
+animePopularity	10376
+animeDescription	Hello Kitty and other Sanrio characters star in adaptations of various spoof famous stories. Each episode contains two stories. The series presents itself as a stage plays. And the characters are actors in the story (eg. Cat Wars is a spoof of the Star Wars story). You, the viewer, is meant to be as one of the people in the audience.
 animeRelated	[]
-animeCharacters	[b'My Melody', b'White, Kitty', b'Hasunoue, Keroppi', b'Badtz-Maru', b'Pochacco', b'Daniel, Dear', b'Cinnamoangels', b'Cinnamoroll', b'White, Mimmy', b'Hangyodon']
-animeVoices	[b'\nSakuma, Rei\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nMatsuo, Yoshiko\nJapanese\n', b'\nTakimoto, Fujiko\nJapanese\n', b'\nTominaga, Miina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nGrant, Tiffany\n\nScript\n\n']
+animeCharacters	['My Melody', 'White, Kitty', 'Hasunoue, Keroppi', 'Badtz-Maru', 'Pochacco', 'Daniel, Dear', 'Cinnamoangels', 'Cinnamoroll', 'White, Mimmy', 'Hangyodon']
+animeVoices	['Sakuma, Rei', 'Hayashibara, Megumi', 'Matsuo, Yoshiko', 'Takimoto, Fujiko', 'Tominaga, Miina']
+animeStaff	[['Grant, Tiffany', 'Script']]

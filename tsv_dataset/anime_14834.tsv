@@ -1,5 +1,5 @@
-animeTitle	b'Aoi Kioku: Manmou Kaitaku to Shounen-tachi'
-animeType	b'Movie'
+animeTitle	Aoi Kioku: Manmou Kaitaku to Shounen-tachi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A class of Japanese youths volunteer for the war effort during WWII, but then get stranded in Manchuria.'
+animePopularity	13146
+animeDescription	A class of Japanese youths volunteer for the war effort during WWII, but then get stranded in Manchuria.
 animeRelated	[]
-animeCharacters	[b'Suzuki, Kyouta']
-animeVoices	[b'\nYamaguchi, Kappei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Satoshi\n\nProducer, Director\n\n', b'\nShibuichi, Setsuko\n\nStoryboard, Character Design\n\n', b'\nShiratori, Emiko\n\nTheme Song Performance\n\n', b'\nSatou, Hachiko\n\nTheme Song Lyrics\n\n']
+animeCharacters	['Suzuki, Kyouta']
+animeVoices	['Yamaguchi, Kappei']
+animeStaff	[['Dezaki, Satoshi', 'Producer, Director'], ['Shibuichi, Setsuko', 'Storyboard, Character Design'], ['Shiratori, Emiko', 'Theme Song Performance'], ['Satou, Hachiko', 'Theme Song Lyrics']]

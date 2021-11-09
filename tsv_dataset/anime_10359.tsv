@@ -1,5 +1,5 @@
-animeTitle	b'Ice Movie'
-animeType	b'Movie'
+animeTitle	Ice Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.51
 animeUsers	413
 animeRank	
-animePopularity	
-animeDescription	b'Compilation movie of the previously released OVA.'
-animeRelated	[b'Ice']
-animeCharacters	[b'Landsknecht, Hitomi', b'Kisaragi', b'Ice-T, Yuki', b'Aida, Makoto', b'Julia', b'Mint', b'Satsuki']
+animePopularity	10458
+animeDescription	Compilation movie of the previously released OVA.
+animeRelated	['Ice']
+animeCharacters	['Landsknecht, Hitomi', 'Kisaragi', 'Ice-T, Yuki', 'Aida, Makoto', 'Julia', 'Mint', 'Satsuki']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nInoue, Hiroaki\n\nProducer\n\n']
+animeStaff	[['Inoue, Hiroaki', 'Producer']]

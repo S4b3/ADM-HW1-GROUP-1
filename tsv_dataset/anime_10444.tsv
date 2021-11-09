@@ -1,5 +1,5 @@
-animeTitle	b'Peter Grill to Kenja no Jikan'
-animeType	b'TV'
+animeTitle	Peter Grill to Kenja no Jikan
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.48
 animeUsers	55931
 animeRank	
-animePopularity	
-animeDescription	"b""After gaining the title of the strongest warrior in the world, Peter Grill has finally proven his worth and is ready to take the hand of his beloved senior, the beautiful and innocent Luvelia Sanctos. Peter expects to have a healthy relationship with her, despite some objections from her father.\n\nUnfortunately, this dream quickly breaks apart as news of his grand victory spreads among the womenfolk of other races\xe2\x80\x94ogres, orcs, elves, and others\xe2\x80\x94some of them even vying for his seed to produce offspring blessed with his might. To avoid betraying the trust of his cherished Luvelia and causing a scandal, Peter strives to avoid other women's salacious advances. However, accomplishing such a feat with so many alluring women on his trail is easier said than done.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Peter Grill to Kenja no Jikan']
-animeCharacters	[b'Sanctos, Luvelia', b'Grill, Peter', b'Alpacas, Lisa', b'Alpacas, Mimi', b'Pancetta, Piglette', b'Eldriel, Vegan', b'Robinson, Tim', b'Sanctos, Albatross']
-animeVoices	[b'\nNinomiya, Yui\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nYamamura, Hibiku\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nSenbongi, Sayaka\nJapanese\n', b'\nUehara, Akari\nJapanese\n', b'\nAsami, Kentarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTatsumi\n\nDirector\n\n', b'\nMouri, Nora\n\nScript\n\n', b'\nTom-H@ck\n\nTheme Song Composition, Theme Song Arrangement\n\n', b'\nNinomiya, Yui\n\nTheme Song Performance\n\n']
+animePopularity	1226
+animeDescription	"After gaining the title of the strongest warrior in the world, Peter Grill has finally proven his worth and is ready to take the hand of his beloved senior, the beautiful and innocent Luvelia Sanctos. Peter expects to have a healthy relationship with her, despite some objections from her father.
+
+Unfortunately, this dream quickly breaks apart as news of his grand victory spreads among the womenfolk of other races—ogres, orcs, elves, and others—some of them even vying for his seed to produce offspring blessed with his might. To avoid betraying the trust of his cherished Luvelia and causing a scandal, Peter strives to avoid other women's salacious advances. However, accomplishing such a feat with so many alluring women on his trail is easier said than done.
+
+[Written by MAL Rewrite]"
+animeRelated	['Peter Grill to Kenja no Jikan']
+animeCharacters	['Sanctos, Luvelia', 'Grill, Peter', 'Alpacas, Lisa', 'Alpacas, Mimi', 'Pancetta, Piglette', 'Eldriel, Vegan', 'Robinson, Tim', 'Sanctos, Albatross']
+animeVoices	['Ninomiya, Yui', 'Shimono, Hiro', 'Yamamura, Hibiku', 'Taketatsu, Ayana', 'Senbongi, Sayaka', 'Uehara, Akari', 'Asami, Kentarou']
+animeStaff	[['Tatsumi', 'Director'], ['Mouri, Nora', 'Script'], ['Tom-H@ck', 'Theme Song Composition, Theme Song Arrangement'], ['Ninomiya, Yui', 'Theme Song Performance']]

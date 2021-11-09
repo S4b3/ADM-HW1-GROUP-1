@@ -1,5 +1,5 @@
-animeTitle	b'Maken-Ki!'
-animeType	b'TV'
+animeTitle	Maken-Ki!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.36
 animeUsers	112633
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the manga series by Hiromitsu Takeda, this romantic comedy is about Takeru Ohyama, a typical perverted teenage boy. His new school doesn't require entrance exams, and it just turned co-ed! Unfortunately, his dreams of a happy high school life are dashed when he finds out the school is much more than it seems. All of the students wield a special item\xe2\x80\x94a Maken\xe2\x80\x94to unleash their magical abilities in duels! Can Takeru find a Maken that works for him? Even while trying to fit in at a new school and dealing with all kinds of girl problems?\n\n(Source: FUNimation)"""
-animeRelated	[b'Maken-Ki!', b'Maken-Ki! OVA', b'Maken-Ki! Specials']
-animeCharacters	[b'Himegami, Kodama', b'Amaya, Haruko', b'Kushiya, Inaho', b'Ooyama, Takeru', b'Nijou, Aki', b'Shinatsu, Azuki', b'Ootsuka, Celia', b'Rokujou, Minori', b'Satou, Kimi', b'Akaza, Chacha']
-animeVoices	[b'\nYahagi, Sayuri\nJapanese\n', b'\nShitaya, Noriko\nJapanese\n', b'\nNomizu, Iori\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nHarada, Hitomi\nJapanese\n', b'\nTogashi, Misuzu\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nMina\nJapanese\n', b'\nMisato\nJapanese\n', b'\nZougou, Saeko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHasegawa, Yasuo\n\nProducer\n\n', b'\nOhata, Koichi\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nKosaka, Harume\n\nEpisode Director, Storyboard, Assistant Director\n\n']
+animePopularity	724
+animeDescription	"Based on the manga series by Hiromitsu Takeda, this romantic comedy is about Takeru Ohyama, a typical perverted teenage boy. His new school doesn't require entrance exams, and it just turned co-ed! Unfortunately, his dreams of a happy high school life are dashed when he finds out the school is much more than it seems. All of the students wield a special item—a Maken—to unleash their magical abilities in duels! Can Takeru find a Maken that works for him? Even while trying to fit in at a new school and dealing with all kinds of girl problems?
+
+(Source: FUNimation)"
+animeRelated	['Maken-Ki!', 'Maken-Ki! OVA', 'Maken-Ki! Specials']
+animeCharacters	['Himegami, Kodama', 'Amaya, Haruko', 'Kushiya, Inaho', 'Ooyama, Takeru', 'Nijou, Aki', 'Shinatsu, Azuki', 'Ootsuka, Celia', 'Rokujou, Minori', 'Satou, Kimi', 'Akaza, Chacha']
+animeVoices	['Yahagi, Sayuri', 'Shitaya, Noriko', 'Nomizu, Iori', 'Maeno, Tomoaki', 'Harada, Hitomi', 'Togashi, Misuzu', 'Ise, Mariya', 'Mina', 'Misato', 'Zougou, Saeko']
+animeStaff	[['Hasegawa, Yasuo', 'Producer'], ['Ohata, Koichi', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Kosaka, Harume', 'Episode Director, Storyboard, Assistant Director']]

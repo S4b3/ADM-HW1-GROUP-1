@@ -1,5 +1,5 @@
-animeTitle	b'Fuku-chan'
-animeType	b'TV'
+animeTitle	Fuku-chan
+animeType	TV
 animeNumEpisode	71
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'Childish goings-on for Fukuo Fuchida (also known as Fuku-chan) a small boy who attends nursery school with his ""girlfriend"" Kumi and hangs out with his playmates Namiko (whose parents own a china shop), her younger brother, Kiyo, naughty twins Doshako and Garako and school bully Ganchan.\n\n(Source: Anime Encyclopedia)'"
-animeRelated	[b'Fuku-chan no Sensuikan', b'Fuku-chan no Kishuu', b'Fuku-chan no Zousan Butai']
-animeCharacters	[b'Fuchida, Fukuo', b'Ganta', b'Kiyo-chan', b'Kumi-chan', b'Arakuma-san']
-animeVoices	[b'\nSakamoto, Chika\nJapanese\n', b'\nAoki, Kazuyo\nJapanese\n', b'\nKatsura, Reiko\nJapanese\n', b'\nKuri, Youko\nJapanese\n', b'\nGinga, Banjou\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nFuji, Mineo\n\nDirector\n\n', b'\nSakamoto, Chika\n\nTheme Song Performance\n\n', b'\nColumbia Yurikago Kai\n\nTheme Song Performance\n\n', b""\nKoorogi '73\n\nTheme Song Performance\n\n""]"
+animePopularity	15151
+animeDescription	"Childish goings-on for Fukuo Fuchida (also known as Fuku-chan) a small boy who attends nursery school with his ""girlfriend"" Kumi and hangs out with his playmates Namiko (whose parents own a china shop), her younger brother, Kiyo, naughty twins Doshako and Garako and school bully Ganchan.
+
+(Source: Anime Encyclopedia)"
+animeRelated	['Fuku-chan no Sensuikan', 'Fuku-chan no Kishuu', 'Fuku-chan no Zousan Butai']
+animeCharacters	['Fuchida, Fukuo', 'Ganta', 'Kiyo-chan', 'Kumi-chan', 'Arakuma-san']
+animeVoices	['Sakamoto, Chika', 'Aoki, Kazuyo', 'Katsura, Reiko', 'Kuri, Youko', 'Ginga, Banjou']
+animeStaff	"[['Fuji, Mineo', 'Director'], ['Sakamoto, Chika', 'Theme Song Performance'], ['Columbia Yurikago Kai', 'Theme Song Performance'], [""Koorogi '73"", 'Theme Song Performance']]"

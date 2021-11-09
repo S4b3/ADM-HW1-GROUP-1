@@ -1,5 +1,5 @@
-animeTitle	b'Sore Ike! Anpanman: Otanjoubi Series'
-animeType	b'OVA'
+animeTitle	Sore Ike! Anpanman: Otanjoubi Series
+animeType	OVA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
+animePopularity	15742
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
 animeRelated	[]
-animeCharacters	[b'Anpanman']
-animeVoices	[b'\nToda, Keiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOoga, Shunji\n\nDirector\n\n', b'\nToda, Keiko\n\nTheme Song Performance\n\n', b'\nMaeda, Minoru\n\nChief Animation Director\n\n', b'\nYanase, Takashi\n\nOriginal Creator\n\n']
+animeCharacters	['Anpanman']
+animeVoices	['Toda, Keiko']
+animeStaff	[['Ooga, Shunji', 'Director'], ['Toda, Keiko', 'Theme Song Performance'], ['Maeda, Minoru', 'Chief Animation Director'], ['Yanase, Takashi', 'Original Creator']]

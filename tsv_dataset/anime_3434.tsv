@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon Movie 03: Kesshoutou no Teiou Entei'
-animeType	b'Movie'
+animeTitle	Pokemon Movie 03: Kesshoutou no Teiou Entei
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	7.08
 animeUsers	100428
 animeRank	
-animePopularity	
-animeDescription	"b""Mii Snowdon is left on her own after her father disappears while investigating the mysterious letter-shaped pokemon called the Unown. The only clue to her father's disappearance is a box containing several tiles. While playing with these tiles, Mii makes a wish to see her father again, and this wish awakens the Unown\xe2\x80\x94who summon the lion-like, legendary pokemon Entei to act as her father.\n\nMeanwhile, Satoshi heads to Greenfield with his faithful pokemon companion, Pikachu, to meet with his friends, Kasumi and Takeshi. When they reach the area, they are shocked to find the place crystallized. They quickly learn that the Unown are responsible for this, and that they will need to be defeated in order to restore Greenfield to its former beauty.\n\nThe situation becomes personal when Satoshi's mother is kidnapped by Entei. To discover why his mother was taken away, Satoshi, along with his friends and pokemon, must travel the crystallized landscape to confront Entei and the Unown. \n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Gekijouban Pocket Monsters: Kesshoutou no Teiou Entei', b'Pokemon', b'Pokemon: Pichu to Pikachu']
-animeCharacters	[b'Pikachu', b'Satoshi', b'Takeshi', b'Kasumi', b'Entei', b'Snowdon, Mii', b'Kojirou', b'Musashi', b'Nyarth', b'Togepi']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n', b'\nTakenaka, Naoto\nJapanese\n', b'\nYajima, Akiko\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nAsada, Yuuji\n\nEpisode Director\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n']
+animePopularity	1153
+animeDescription	"Mii Snowdon is left on her own after her father disappears while investigating the mysterious letter-shaped pokemon called the Unown. The only clue to her father's disappearance is a box containing several tiles. While playing with these tiles, Mii makes a wish to see her father again, and this wish awakens the Unown—who summon the lion-like, legendary pokemon Entei to act as her father.
+
+Meanwhile, Satoshi heads to Greenfield with his faithful pokemon companion, Pikachu, to meet with his friends, Kasumi and Takeshi. When they reach the area, they are shocked to find the place crystallized. They quickly learn that the Unown are responsible for this, and that they will need to be defeated in order to restore Greenfield to its former beauty.
+
+The situation becomes personal when Satoshi's mother is kidnapped by Entei. To discover why his mother was taken away, Satoshi, along with his friends and pokemon, must travel the crystallized landscape to confront Entei and the Unown. 
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Gekijouban Pocket Monsters: Kesshoutou no Teiou Entei', 'Pokemon', 'Pokemon: Pichu to Pikachu']
+animeCharacters	['Pikachu', 'Satoshi', 'Takeshi', 'Kasumi', 'Entei', 'Snowdon, Mii', 'Kojirou', 'Musashi', 'Nyarth', 'Togepi']
+animeVoices	['Ootani, Ikue', 'Matsumoto, Rica', 'Ueda, Yuuji', 'Iizuka, Mayumi', 'Takenaka, Naoto', 'Yajima, Akiko', 'Miki, Shinichiro', 'Hayashibara, Megumi', 'Inuyama, Inuko', 'Koorogi, Satomi']
+animeStaff	[['Yuyama, Kunihiko', 'Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Asada, Yuuji', 'Episode Director'], ['Tajiri, Satoshi', 'Original Creator']]

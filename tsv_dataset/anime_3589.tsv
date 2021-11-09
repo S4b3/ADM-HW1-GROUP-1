@@ -1,5 +1,5 @@
-animeTitle	b'Danball Senki W'
-animeType	b'TV'
+animeTitle	Danball Senki W
+animeType	TV
 animeNumEpisode	58
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.05
 animeUsers	2354
 animeRank	
-animePopularity	
-animeDescription	b'One year after the fight with the Innovators, a new terrorist organization called the Detectors threatens the world using LBXs. Ban joins up with new and old friends to stop the Detectors.\n\n(Source: ANN)'
-animeRelated	[b'Danball Senki', b'Inazuma Eleven Go vs. Danball Senki W Movie', b'Soukou Musume Senki', b'Danball Senki Wars']
-animeCharacters	[b'Kaidou, Jin', b'Oozora, Hiro', b'Yamano, Ban', b'Haibara, Yuuya', b'Hanasaki, Ran', b'Kaios, Jessica', b'Aoshima, Kazuya', b'Gouda, Hanzou', b'Sendou, Daiki', b'Kawamura, Ami']
-animeVoices	[b'\nOda, Hisafumi\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nKubota, Megumi\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nKatsu, Anri\nJapanese\n', b'\nInoue, Marina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHino, Akihiro\n\nProducer, Original Creator, Planning\n\n', b'\nTakahashi, Naohito\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nKonuta, Kenji\n\nScript\n\n']
+animePopularity	6857
+animeDescription	"One year after the fight with the Innovators, a new terrorist organization called the Detectors threatens the world using LBXs. Ban joins up with new and old friends to stop the Detectors.
+
+(Source: ANN)"
+animeRelated	['Danball Senki', 'Inazuma Eleven Go vs. Danball Senki W Movie', 'Soukou Musume Senki', 'Danball Senki Wars']
+animeCharacters	['Kaidou, Jin', 'Oozora, Hiro', 'Yamano, Ban', 'Haibara, Yuuya', 'Hanasaki, Ran', 'Kaios, Jessica', 'Aoshima, Kazuya', 'Gouda, Hanzou', 'Sendou, Daiki', 'Kawamura, Ami']
+animeVoices	['Oda, Hisafumi', 'Shimono, Hiro', 'Kubota, Megumi', 'Kaji, Yuki', 'Hanazawa, Kana', 'Kitamura, Eri', 'Namikawa, Daisuke', 'Katsu, Anri', 'Inoue, Marina']
+animeStaff	[['Hino, Akihiro', 'Producer, Original Creator, Planning'], ['Takahashi, Naohito', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Konuta, Kenji', 'Script']]

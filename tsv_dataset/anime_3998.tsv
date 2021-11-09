@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: Lupin wa Ima mo Moete Iru ka?'
-animeType	b'OVA'
+animeTitle	Lupin III: Lupin wa Ima mo Moete Iru ka?
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.95
 animeUsers	1493
 animeRank	
-animePopularity	
-animeDescription	b'A 50th anniversary project.'
-animeRelated	[b'Lupin III']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi', b'Pycal', b'Mamou, Kyosuke', b'Stoneman', b'Mister X', b'Momochi, Sandayuu']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nYanaka, Hiroshi\nJapanese\n', b'\nMuraji, Manabu\nJapanese\n', b'\nChafurin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMonkey Punch\n\nDirector, Original Creator\n\n', b'\nKawagoe, Jun\n\nDirector\n\n', b'\nOono, Yuuji\n\nMusic\n\n', b'\nHirayama, Satoshi\n\nCharacter Design\n\n']
+animePopularity	7717
+animeDescription	A 50th anniversary project.
+animeRelated	['Lupin III']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Pycal', 'Mamou, Kyosuke', 'Stoneman', 'Mister X', 'Momochi, Sandayuu']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Sawashiro, Miyuki', 'Namikawa, Daisuke', 'Yamadera, Kouichi', 'Yanaka, Hiroshi', 'Muraji, Manabu', 'Chafurin']
+animeStaff	[['Monkey Punch', 'Director, Original Creator'], ['Kawagoe, Jun', 'Director'], ['Oono, Yuuji', 'Music'], ['Hirayama, Satoshi', 'Character Design']]

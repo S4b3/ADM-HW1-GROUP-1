@@ -1,5 +1,5 @@
-animeTitle	b'Yowamushi Pedal: Re:ROAD'
-animeType	b'Movie'
+animeTitle	Yowamushi Pedal: Re:ROAD
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.42
 animeUsers	3432
 animeRank	
-animePopularity	
-animeDescription	b'The movie will compile the episodes from the second season of the anime, and will also have new cuts of animation.\n\n(Source: ANN)'
-animeRelated	[b'Yowamushi Pedal: Grande Road', b'Yowamushi Pedal: Re:RIDE']
-animeCharacters	[b'Onoda, Sakamichi', b'Naruko, Shoukichi', b'Imaizumi, Shunsuke', b'Midousuji, Akira', b'Makishima, Yuusuke', b'Arakita, Yasutomo', b'Manami, Sangaku', b'Toudou, Jinpachi', b'Teshima, Junta', b'Shinkai, Hayato']
-animeVoices	[b'\nYamashita, Daiki\nJapanese\n', b'\nFukushima, Jun\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nYonaga, Tsubasa\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nHino, Satoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNabeshima, Osamu\n\nDirector\n\n', b'\nHisao, Ayumu\n\nScript\n\n', b'\nLASTGASP\n\nTheme Song Performance\n\n', b'\nYoshida, Reiko\n\nSeries Composition\n\n']
+animePopularity	5558
+animeDescription	"The movie will compile the episodes from the second season of the anime, and will also have new cuts of animation.
+
+(Source: ANN)"
+animeRelated	['Yowamushi Pedal: Grande Road', 'Yowamushi Pedal: Re:RIDE']
+animeCharacters	['Onoda, Sakamichi', 'Naruko, Shoukichi', 'Imaizumi, Shunsuke', 'Midousuji, Akira', 'Makishima, Yuusuke', 'Arakita, Yasutomo', 'Manami, Sangaku', 'Toudou, Jinpachi', 'Teshima, Junta', 'Shinkai, Hayato']
+animeVoices	['Yamashita, Daiki', 'Fukushima, Jun', 'Toriumi, Kousuke', 'Yusa, Kouji', 'Morikubo, Shoutarou', 'Yoshino, Hiroyuki', 'Yonaga, Tsubasa', 'Kakihara, Tetsuya', 'Hino, Satoshi']
+animeStaff	[['Nabeshima, Osamu', 'Director'], ['Hisao, Ayumu', 'Script'], ['LASTGASP', 'Theme Song Performance'], ['Yoshida, Reiko', 'Series Composition']]

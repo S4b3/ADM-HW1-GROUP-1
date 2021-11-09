@@ -1,5 +1,5 @@
-animeTitle	b'Shin Sakura Taisen the Animation'
-animeType	b'TV'
+animeTitle	Shin Sakura Taisen the Animation
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.8
 animeUsers	2934
 animeRank	
-animePopularity	
-animeDescription	"b'In 1930, two years after the events of So Long, My Love, the Great Demon War results in the annihilation of the Imperial, Paris and New York Combat Revues\' Flower Divisions. With Earth at peace and the revues\' actions becoming public, the World Combat Revue Organization is formed with several international divisions; a biennial international Combat Revue tournament has been organized.\n\nTen years later in 1940, Imperial Japanese Navy captain Seijuurou Kamiyama is assigned as the captain of the new Imperial Combat Revue\'s Flower Division in Tokyo, which consists of: Sakura Amamiya, a swordswoman and new recruit; Hatsuho Shinonome, a shrine maiden and the most popular actress; Anastasia Palma, a newly-transferred Greek actress; Azami Mochizuki, a ninja prodigy from the Mochizuki clan; and Clarissa ""Clarise"" Snowflake, a Luxembourgian noblewoman. The division once again faces a new demon invasion and participates in the upcoming tournament\xe2\x80\x94while trying to keep their home at the Imperial Theater open.\n\n(Source: Wikipedia, edited)'"
-animeRelated	[b'Shin Sakura Taisen the Comic', b'Sakura Taisen']
-animeCharacters	[b'Amamiya, Sakura', b'Palma, Anastasia', b'Shinonome, Hatsuho', b'Snowflake, Clarissa', b'Kamiyama, Seijuurou', b'Mochizuki, Azami', b'Kanzaki, Sumire', b'Ruzhkova, Layla', b'Kaminsky, Valery', b'Ruzhkova, Clara']
-animeVoices	[b'\nSakura, Ayane\nJapanese\n', b'\nFukuhara, Ayaka\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nAzakami, Youhei\nJapanese\n', b'\nYamamura, Hibiku\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nShiraishi, Haruka\nJapanese\n', b'\nAkabane, Kenji\nJapanese\n', b'\nWatada, Misaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOno, Manabu\n\nDirector, Series Composition\n\n', b'\nShimizu, Katsunori\n\nSound Director\n\n', b'\nTakahashi, Takeo\n\nStoryboard\n\n', b'\nKubo, Tite\n\nOriginal Character Design\n\n']
+animePopularity	4441
+animeDescription	"In 1930, two years after the events of So Long, My Love, the Great Demon War results in the annihilation of the Imperial, Paris and New York Combat Revues' Flower Divisions. With Earth at peace and the revues' actions becoming public, the World Combat Revue Organization is formed with several international divisions; a biennial international Combat Revue tournament has been organized.
+
+Ten years later in 1940, Imperial Japanese Navy captain Seijuurou Kamiyama is assigned as the captain of the new Imperial Combat Revue's Flower Division in Tokyo, which consists of: Sakura Amamiya, a swordswoman and new recruit; Hatsuho Shinonome, a shrine maiden and the most popular actress; Anastasia Palma, a newly-transferred Greek actress; Azami Mochizuki, a ninja prodigy from the Mochizuki clan; and Clarissa ""Clarise"" Snowflake, a Luxembourgian noblewoman. The division once again faces a new demon invasion and participates in the upcoming tournament—while trying to keep their home at the Imperial Theater open.
+
+(Source: Wikipedia, edited)"
+animeRelated	['Shin Sakura Taisen the Comic', 'Sakura Taisen']
+animeCharacters	['Amamiya, Sakura', 'Palma, Anastasia', 'Shinonome, Hatsuho', 'Snowflake, Clarissa', 'Kamiyama, Seijuurou', 'Mochizuki, Azami', 'Kanzaki, Sumire', 'Ruzhkova, Layla', 'Kaminsky, Valery', 'Ruzhkova, Clara']
+animeVoices	['Sakura, Ayane', 'Fukuhara, Ayaka', 'Uchida, Maaya', 'Hayami, Saori', 'Azakami, Youhei', 'Yamamura, Hibiku', 'Tomizawa, Michie', 'Shiraishi, Haruka', 'Akabane, Kenji', 'Watada, Misaki']
+animeStaff	[['Ono, Manabu', 'Director, Series Composition'], ['Shimizu, Katsunori', 'Sound Director'], ['Takahashi, Takeo', 'Storyboard'], ['Kubo, Tite', 'Original Character Design']]

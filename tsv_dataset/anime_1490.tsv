@@ -1,5 +1,5 @@
-animeTitle	b'Fullmetal Alchemist: The Conqueror of Shamballa'
-animeType	b'Movie'
+animeTitle	Fullmetal Alchemist: The Conqueror of Shamballa
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.54
 animeUsers	189012
 animeRank	
-animePopularity	
-animeDescription	"b""In desperation, Edward Elric sacrificed his body and soul to rescue his brother Alphonse, and is now displaced in the heart of Munich, Germany. He struggles to adapt to a world completely foreign to him in the wake of the economic crisis that followed the end of World War I. Isolated and unable to return home with his alchemy skills, Edward continues to research other methods of escaping the prison alongside colleagues who bear striking resemblances to many of the people he left behind. As dissent brews among the German citizenry, its neighbors also feel the unrest of the humiliated nation.\n\nMeanwhile, Alphonse continues to investigate Edward's disappearance, delving into the science of alchemy in the hopes of finally reuniting with his older brother. \n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Fullmetal Alchemist', b'Fullmetal Alchemist: Premium Collection']
-animeCharacters	[b'Elric, Edward', b'Elric, Alphonse', b'Heiderich, Alfons', b'Noah', b'Mustang, Roy', b'Hughes, Maes', b'Hawkeye, Riza', b'Armstrong, Alex Louis', b'Rockbell, Winry', b'Envy']
-animeVoices	[b'\nPark, Romi\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nOguri, Shun\nJapanese\n', b'\nSawai, Miyuu\nJapanese\n', b'\nWillingham, Travis\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nMinami, Masahiko\n\nProducer, Planning\n\n', b'\nHarp, Clarine\n\nProducer, Production Assistant\n\n', b'\nMizushima, Seiji\n\nDirector, Storyboard\n\n']
+animePopularity	570
+animeDescription	"In desperation, Edward Elric sacrificed his body and soul to rescue his brother Alphonse, and is now displaced in the heart of Munich, Germany. He struggles to adapt to a world completely foreign to him in the wake of the economic crisis that followed the end of World War I. Isolated and unable to return home with his alchemy skills, Edward continues to research other methods of escaping the prison alongside colleagues who bear striking resemblances to many of the people he left behind. As dissent brews among the German citizenry, its neighbors also feel the unrest of the humiliated nation.
+
+Meanwhile, Alphonse continues to investigate Edward's disappearance, delving into the science of alchemy in the hopes of finally reuniting with his older brother. 
+
+[Written by MAL Rewrite]"
+animeRelated	['Fullmetal Alchemist', 'Fullmetal Alchemist: Premium Collection']
+animeCharacters	['Elric, Edward', 'Elric, Alphonse', 'Heiderich, Alfons', 'Noah', 'Mustang, Roy', 'Hughes, Maes', 'Hawkeye, Riza', 'Armstrong, Alex Louis', 'Rockbell, Winry', 'Envy']
+animeVoices	['Park, Romi', 'Kugimiya, Rie', 'Oguri, Shun', 'Sawai, Miyuu', 'Willingham, Travis', 'Fujiwara, Keiji', 'Neya, Michiko', 'Toyoguchi, Megumi']
+animeStaff	[['Cook, Justin', 'Producer'], ['Minami, Masahiko', 'Producer, Planning'], ['Harp, Clarine', 'Producer, Production Assistant'], ['Mizushima, Seiji', 'Director, Storyboard']]

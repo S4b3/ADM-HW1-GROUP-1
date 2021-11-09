@@ -1,5 +1,5 @@
-animeTitle	b'Potemayo Specials'
-animeType	b'Special'
+animeTitle	Potemayo Specials
+animeType	Special
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.3
 animeUsers	1900
 animeRank	
-animePopularity	
-animeDescription	b'Potemayo DVD specials.'
-animeRelated	[b'Potemayo']
-animeCharacters	[b'Guchuko', b'Potemayo', b'Natsu, Mikan', b'Takamimori, Kyou', b'Moriyama, Sunao', b'Kasugano, Nene', b'Kirihara, Mudou', b'Narrator', b'Natsu, Yasumi', b'Seki, Tomari']
-animeVoices	[b'\nTsuji, Ayumi\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nKaida, Yuuko\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nTokita, Hikaru\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMOSAIC.WAV\n\nTheme Song Performance\n\n']
+animePopularity	7896
+animeDescription	Potemayo DVD specials.
+animeRelated	['Potemayo']
+animeCharacters	['Guchuko', 'Potemayo', 'Natsu, Mikan', 'Takamimori, Kyou', 'Moriyama, Sunao', 'Kasugano, Nene', 'Kirihara, Mudou', 'Narrator', 'Natsu, Yasumi', 'Seki, Tomari']
+animeVoices	['Tsuji, Ayumi', 'Hanazawa, Kana', 'Kawasumi, Ayako', 'Kaida, Yuuko', 'Kitamura, Eri', 'Kugimiya, Rie', 'Tokita, Hikaru', 'Inoue, Kikuko', 'Okamoto, Nobuhiko']
+animeStaff	[['MOSAIC.WAV', 'Theme Song Performance']]

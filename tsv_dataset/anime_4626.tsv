@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: Touhou Kenbunroku - Another Page'
-animeType	b'Special'
+animeTitle	Lupin III: Touhou Kenbunroku - Another Page
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.8
 animeUsers	1486
 animeRank	
-animePopularity	
-animeDescription	"b""Lupin has become a suspect in the murder of a professor named Theo Argent. The professor had just discovered the missing page of Marco Polo's Record of Observations of the East travel journal. As Lupin is being pursued by the police, he ends up getting unlikely help from the granddaughter of Theo Argent, Lisa. \n\n(Source: ANN) """
-animeRelated	[b'Lupin III']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Argent, Lisa', b'Zenigata, Kouichi', b'Hiromi', b'Rumi', b'Berardi, Claudio', b'Ami']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nTerasaki, Yuka\nJapanese\n', b'\nTsuchida, Hiroshi\nJapanese\n', b'\nTokui, Sora\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKamegaki, Hajime\n\nDirector\n\n', b'\nShimizu, Youji\n\nSound Director\n\n', b'\nOkuwaki, Masaharu\n\nStoryboard\n\n', b'\nYamamoto, Yasuichiro\n\nStoryboard, Key Animation\n\n']
+animePopularity	7509
+animeDescription	"Lupin has become a suspect in the murder of a professor named Theo Argent. The professor had just discovered the missing page of Marco Polo's Record of Observations of the East travel journal. As Lupin is being pursued by the police, he ends up getting unlikely help from the granddaughter of Theo Argent, Lisa. 
+
+(Source: ANN) "
+animeRelated	['Lupin III']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Argent, Lisa', 'Zenigata, Kouichi', 'Hiromi', 'Rumi', 'Berardi, Claudio', 'Ami']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Sawashiro, Miyuki', 'Namikawa, Daisuke', 'Inoue, Marina', 'Yamadera, Kouichi', 'Park, Romi', 'Terasaki, Yuka', 'Tsuchida, Hiroshi', 'Tokui, Sora']
+animeStaff	[['Kamegaki, Hajime', 'Director'], ['Shimizu, Youji', 'Sound Director'], ['Okuwaki, Masaharu', 'Storyboard'], ['Yamamoto, Yasuichiro', 'Storyboard, Key Animation']]

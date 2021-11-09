@@ -1,5 +1,5 @@
-animeTitle	b'Gekidol: Actidol Project'
-animeType	b'TV'
+animeTitle	Gekidol: Actidol Project
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	5.54
 animeUsers	3182
 animeRank	
-animePopularity	
-animeDescription	"b'Five years ago, a mysterious phenomenon known as the Global Synchronic Urban Disappearance caused a large chunk of Ikebukuro to disappear overnight. Following the catastrophe, the inhabitants found themselves thrown into a state of disorder, and unexplained electromagnetic anomalies called ""Auroras"" began to be sighted.\n\nAwed by the performance of idol Izumi Hinazaki at a play utilizing the ""Super Material Theater,"" a stage designed to revitalize Ikebukuro through hologram-enhanced plays, high school student Seria Morino is inspired to become an idol. Shortly afterward, she is scouted by a young woman named Kaoru Sakakibara, who turns out to be the director of Alice in Theater\xe2\x80\x94the troupe that Izumi used to be a part of.\n\nAiming to pursue her dreams, Seria decides to follow Kaoru and joins Alice in Theater. Upon arriving at their establishment, she is cordially welcomed by a group of young and friendly girls who are all very passionate about acting. However, something seems to be amiss\xe2\x80\xa6\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Alice in Deadly School']
-animeCharacters	[b'Kagami, Airi', b'Sakakibara, Kaoru', b'Asagi, Akira', b'Higuchi, Makoto', b'Morino, Seria', b'Nakamura, Mayuri', b'Takezaki, Hirokazu', b'Hinata, Tomoko', b'Yamamoto, Kazuharu', b'Doll']
-animeVoices	[b'\nMochida, Chihira\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nYamamoto, Nozomi\nJapanese\n', b'\nYashima, Sarara\nJapanese\n', b'\nAkao, Hikaru\nJapanese\n', b'\nSatou, Amina\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nAkiyoshi, Aya\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Shigeru\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nYamamoto, Nozomi\n\nTheme Song Performance\n\n', b'\nAkao, Hikaru\n\nTheme Song Performance\n\n']
+animePopularity	4949
+animeDescription	"Five years ago, a mysterious phenomenon known as the Global Synchronic Urban Disappearance caused a large chunk of Ikebukuro to disappear overnight. Following the catastrophe, the inhabitants found themselves thrown into a state of disorder, and unexplained electromagnetic anomalies called ""Auroras"" began to be sighted.
+
+Awed by the performance of idol Izumi Hinazaki at a play utilizing the ""Super Material Theater,"" a stage designed to revitalize Ikebukuro through hologram-enhanced plays, high school student Seria Morino is inspired to become an idol. Shortly afterward, she is scouted by a young woman named Kaoru Sakakibara, who turns out to be the director of Alice in Theater—the troupe that Izumi used to be a part of.
+
+Aiming to pursue her dreams, Seria decides to follow Kaoru and joins Alice in Theater. Upon arriving at their establishment, she is cordially welcomed by a group of young and friendly girls who are all very passionate about acting. However, something seems to be amiss…
+
+[Written by MAL Rewrite]"
+animeRelated	['Alice in Deadly School']
+animeCharacters	['Kagami, Airi', 'Sakakibara, Kaoru', 'Asagi, Akira', 'Higuchi, Makoto', 'Morino, Seria', 'Nakamura, Mayuri', 'Takezaki, Hirokazu', 'Hinata, Tomoko', 'Yamamoto, Kazuharu', 'Doll']
+animeVoices	['Mochida, Chihira', 'Hanazawa, Kana', 'Yamamoto, Nozomi', 'Yashima, Sarara', 'Akao, Hikaru', 'Satou, Amina', 'Toriumi, Kousuke', 'Mizuhashi, Kaori', 'Akiyoshi, Aya', 'Ichimichi, Mao']
+animeStaff	[['Ueda, Shigeru', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Yamamoto, Nozomi', 'Theme Song Performance'], ['Akao, Hikaru', 'Theme Song Performance']]

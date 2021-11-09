@@ -1,4 +1,4 @@
-animeTitle	b'Sakura Taisen: Kanadegumi'
+animeTitle	Sakura Taisen: Kanadegumi
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.62
 animeUsers	653
 animeRank	
-animePopularity	
-animeDescription	"b""Sakura Taisen: Kanadegumi follows a girl named Miyabi Neko and her interactions with five attractive young men. The story takes place in Tokyo and centers on an imperial opera company named Kanadegumi. \n\nBundled with a limited first edition of Shimada Chie's Sakura Taisen: Kanadegumi manga. \n\n(Source: ANN) """
-animeRelated	[b'Sakura Taisen: Kanadegumi', b'Sakura Taisen']
-animeCharacters	[b'Astorga, Francisco Lewes', b'Touhou, Genji', b'Bach, G.O.', b'Julliard, Hugo', b'Touhou, Genzaburou', b'Miyabi, Neko', b'Seiryuuin, Syou']
-animeVoices	[b'\nTachibana, Shinnosuke\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nTanaka, Manami\nJapanese\n', b'\nShindo, Naomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKaji, Yuki\n\nTheme Song Performance\n\n', b'\nMatsuoka, Yoshitsugu\n\nTheme Song Performance\n\n', b'\nHosoya, Yoshimasa\n\nTheme Song Performance\n\n', b'\nHino, Satoshi\n\nTheme Song Performance\n\n']
+animePopularity	8707
+animeDescription	"Sakura Taisen: Kanadegumi follows a girl named Miyabi Neko and her interactions with five attractive young men. The story takes place in Tokyo and centers on an imperial opera company named Kanadegumi. 
+
+Bundled with a limited first edition of Shimada Chie's Sakura Taisen: Kanadegumi manga. 
+
+(Source: ANN) "
+animeRelated	['Sakura Taisen: Kanadegumi', 'Sakura Taisen']
+animeCharacters	['Astorga, Francisco Lewes', 'Touhou, Genji', 'Bach, G.O.', 'Julliard, Hugo', 'Touhou, Genzaburou', 'Miyabi, Neko', 'Seiryuuin, Syou']
+animeVoices	['Tachibana, Shinnosuke', 'Matsuoka, Yoshitsugu', 'Hino, Satoshi', 'Hosoya, Yoshimasa', 'Kaji, Yuki', 'Tanaka, Manami', 'Shindo, Naomi']
+animeStaff	[['Kaji, Yuki', 'Theme Song Performance'], ['Matsuoka, Yoshitsugu', 'Theme Song Performance'], ['Hosoya, Yoshimasa', 'Theme Song Performance'], ['Hino, Satoshi', 'Theme Song Performance']]

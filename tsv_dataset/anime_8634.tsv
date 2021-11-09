@@ -1,5 +1,5 @@
-animeTitle	b'Kouryuu Densetsu Villgust'
-animeType	b'OVA'
+animeTitle	Kouryuu Densetsu Villgust
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.0
 animeUsers	727
 animeRank	
-animePopularity	
-animeDescription	"b""Villgust is a peaceful world that exists parallel to ours. However, now an evil deity has been revived and has sent evil creatures to destroy many countries, which left darkness and terror to rule the world. The peoples' prayers and cries has reached out to the goddess Windina and in order to free the world from darkness she chose eight brave warriors to defeat the evil deity. Although blessed, these warriors are unaware at the path chosen for them, thus the two groups of Kui, Chris, Fanna, and Youta must meet up with Murobo, Remi, Ryuquir, and Bostov before they can follow the path chosen for them and defeat the evil deity. \n\n(Source: ANN)"""
-animeRelated	[b'Kouryuu Densetsu Villgust PV']
-animeCharacters	[b'Ryuquir', b'Remi', b'Murobo', b'Kui', b'Youta', b'Chris', b'Fanna', b'Bostov', b'Gavady', b'Guilda']
-animeVoices	[b'\nYokoyama, Chisa\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nOkamoto, Maya\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nTakiguchi, Junpei\nJapanese\n', b'\nKameyama, Sukekiyo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishijima, Katsuhiko\n\nDirector, Animation Director, Character Design\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n', b'\nNakaza, Youji\n\nArt Director\n\n']
+animePopularity	9623
+animeDescription	"Villgust is a peaceful world that exists parallel to ours. However, now an evil deity has been revived and has sent evil creatures to destroy many countries, which left darkness and terror to rule the world. The peoples' prayers and cries has reached out to the goddess Windina and in order to free the world from darkness she chose eight brave warriors to defeat the evil deity. Although blessed, these warriors are unaware at the path chosen for them, thus the two groups of Kui, Chris, Fanna, and Youta must meet up with Murobo, Remi, Ryuquir, and Bostov before they can follow the path chosen for them and defeat the evil deity. 
+
+(Source: ANN)"
+animeRelated	['Kouryuu Densetsu Villgust PV']
+animeCharacters	['Ryuquir', 'Remi', 'Murobo', 'Kui', 'Youta', 'Chris', 'Fanna', 'Bostov', 'Gavady', 'Guilda']
+animeVoices	['Yokoyama, Chisa', 'Shiratori, Yuri', 'Ootsuka, Akio', 'Morikawa, Toshiyuki', 'Midorikawa, Hikaru', 'Hisakawa, Aya', 'Okamoto, Maya', 'Yamaguchi, Kappei', 'Takiguchi, Junpei', 'Kameyama, Sukekiyo']
+animeStaff	[['Nishijima, Katsuhiko', 'Director, Animation Director, Character Design'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Tanaka, Kouhei', 'Music'], ['Nakaza, Youji', 'Art Director']]

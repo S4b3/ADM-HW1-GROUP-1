@@ -1,5 +1,5 @@
-animeTitle	b'Yonimo Osoroshii Nihon Mukashibanashi'
-animeType	b'OVA'
+animeTitle	Yonimo Osoroshii Nihon Mukashibanashi
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.78
 animeUsers	143
 animeRank	
-animePopularity	
-animeDescription	"b'The horrible truths behind Japanese Fairy Tales from the ancient times are finally revealed! This title includes three episodes: ""The Monkey and the Crab"", ""Click-Crack Mountain"" and ""Urashima and the Kingdom beneath the Sea"".\n\n(Source: Official Website)'"
-animeRelated	[b'Yonimo Osoroshii Grimm Douwa']
-animeCharacters	[b'Wander Monkey']
+animePopularity	10692
+animeDescription	"The horrible truths behind Japanese Fairy Tales from the ancient times are finally revealed! This title includes three episodes: ""The Monkey and the Crab"", ""Click-Crack Mountain"" and ""Urashima and the Kingdom beneath the Sea"".
+
+(Source: Official Website)"
+animeRelated	['Yonimo Osoroshii Grimm Douwa']
+animeCharacters	['Wander Monkey']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakaya, Hirotoshi\n\nAnimation Director, Character Design\n\n']
+animeStaff	[['Takaya, Hirotoshi', 'Animation Director, Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Detective Conan Movie 22: Zero the Enforcer'
-animeType	b'Movie'
+animeTitle	Detective Conan Movie 22: Zero the Enforcer
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.83
 animeUsers	11785
 animeRank	
-animePopularity	
-animeDescription	"b'In the film\'s story, there is a sudden explosion at Tokyo Summit\'s giant Edge of Ocean facility. The shadow of Tooru Amuro, who works for the National Police Agency Security Bureau as Zero, appears at the site. In addition, the ""triple-face"" character is known as Rei Furuya as a detective and Kogorou Mouri\'s apprentice, and he is also known as Bourbon as a Black Organization member. Kogorou is arrested as a suspect in the case of the explosion. Conan conducts an investigation to prove Kogorou\'s innocence, but Amuro gets in his way.\n\n(Source: ANN)'"
-animeRelated	[b'Detective Conan: Zero the Enforcer', b'Detective Conan', b'Detective Conan Movie 20: The Darkest Nightmare', b'Detective Conan: Amuro Secret Call']
-animeCharacters	[b'Edogawa, Conan', b'Mouri, Ran', b'Mouri, Kogorou', b'Amuro, Tooru', b'Haibara, Ai', b'Takagi, Wataru', b'Agasa, Hiroshi', b'Yoshida, Ayumi', b'Satou, Miwako', b'Tsuburaya, Mitsuhiko']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nIwai, Yukiko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTachikawa, Yuzuru\n\nDirector, Episode Director, Storyboard\n\n', b'\nUrakami, Keiko\n\nSound Director\n\n', b'\nUrakami, Yasuyuki\n\nSound Director\n\n', b'\nKamanaka, Nobuharu\n\nEpisode Director\n\n']
+animePopularity	3794
+animeDescription	"In the film's story, there is a sudden explosion at Tokyo Summit's giant Edge of Ocean facility. The shadow of Tooru Amuro, who works for the National Police Agency Security Bureau as Zero, appears at the site. In addition, the ""triple-face"" character is known as Rei Furuya as a detective and Kogorou Mouri's apprentice, and he is also known as Bourbon as a Black Organization member. Kogorou is arrested as a suspect in the case of the explosion. Conan conducts an investigation to prove Kogorou's innocence, but Amuro gets in his way.
+
+(Source: ANN)"
+animeRelated	['Detective Conan: Zero the Enforcer', 'Detective Conan', 'Detective Conan Movie 20: The Darkest Nightmare', 'Detective Conan: Amuro Secret Call']
+animeCharacters	['Edogawa, Conan', 'Mouri, Ran', 'Mouri, Kogorou', 'Amuro, Tooru', 'Haibara, Ai', 'Takagi, Wataru', 'Agasa, Hiroshi', 'Yoshida, Ayumi', 'Satou, Miwako', 'Tsuburaya, Mitsuhiko']
+animeVoices	['Takayama, Minami', 'Yamazaki, Wakana', 'Koyama, Rikiya', 'Furuya, Toru', 'Hayashibara, Megumi', 'Takagi, Wataru', 'Ogata, Kenichi', 'Iwai, Yukiko', 'Ootani, Ikue']
+animeStaff	[['Tachikawa, Yuzuru', 'Director, Episode Director, Storyboard'], ['Urakami, Keiko', 'Sound Director'], ['Urakami, Yasuyuki', 'Sound Director'], ['Kamanaka, Nobuharu', 'Episode Director']]

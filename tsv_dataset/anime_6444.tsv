@@ -1,5 +1,5 @@
-animeTitle	b'Fushigi no Kuni no Alice'
-animeType	b'TV'
+animeTitle	Fushigi no Kuni no Alice
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.44
 animeUsers	1094
 animeRank	
-animePopularity	
-animeDescription	"b""A retelling of Lewis Carroll's classic tale of the young girl Alice, who follows a white rabbit into a hole, only to find herself in Wonderland, where she meets many interesting characters, both the mysterious Cheshire Cat and the terrible Queen of Hearts.\n\n(Source: ANN)"""
-animeRelated	[b'Fushigi no Kuni no Alice Specials']
-animeCharacters	"[b'Benny Bunny', b'Alice', b'Queen of Hearts', b'Mock Turtle', b'Celia', b'Caterpillar', b""Duchess's Maid"", b'Humpty Dumpty', b'Dormouse', b'Eaglet']"
-animeVoices	[b'\nNozawa, Masako\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nKoshi, Shigeo\n\nDirector, Series Production Director, Production Manager\n\n', b""\nD'Avena, Cristina\n\nTheme Song Performance\n\n"", b'\nCarroll, Lewis\n\nOriginal Creator\n\n', b'\nMori, Yasuji\n\nLayout\n\n']"
+animePopularity	8576
+animeDescription	"A retelling of Lewis Carroll's classic tale of the young girl Alice, who follows a white rabbit into a hole, only to find herself in Wonderland, where she meets many interesting characters, both the mysterious Cheshire Cat and the terrible Queen of Hearts.
+
+(Source: ANN)"
+animeRelated	['Fushigi no Kuni no Alice Specials']
+animeCharacters	"['Benny Bunny', 'Alice', 'Queen of Hearts', 'Mock Turtle', 'Celia', 'Caterpillar', ""Duchess's Maid"", 'Humpty Dumpty', 'Dormouse', 'Eaglet']"
+animeVoices	['Nozawa, Masako']
+animeStaff	"[['Koshi, Shigeo', 'Director, Series Production Director, Production Manager'], [""D'Avena, Cristina"", 'Theme Song Performance'], ['Carroll, Lewis', 'Original Creator'], ['Mori, Yasuji', 'Layout']]"

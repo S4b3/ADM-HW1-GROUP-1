@@ -1,5 +1,5 @@
-animeTitle	b'Sanrio Danshi'
-animeType	b'TV'
+animeTitle	Sanrio Danshi
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.66
 animeUsers	15289
 animeRank	
-animePopularity	
-animeDescription	b'Kouta Hasegawa is a completely normal high school student who likes his Pompompurin stuffed animal, a Sanrio character modelled after a Golden Retriever, which his grandmother gave him when he was young. However, an incident in which other kids accused him of being girly for liking Sanrio characters made him ashamed of his attachment to Pompompurin. \n\nThrough a series of unexpected events, Kouta ends up meeting others at school who also like Sanrio characters\xe2\x80\x94Yuu Mizuno, a flashy boy who is popular with girls; Shunsuke Yoshino, a member of the soccer team; Ryou Nishimiya, an underclassman who is a library assistant; and Seiichirou Minamoto, the student council president.\n\nThrough his new friends, Kouta learns that there is no need to be embarrassed for liking Sanrio characters; and together, they aim to create a play for the cultural festival in order to transform his normal school life into a sparkly one.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Sanrio Danshi']
-animeCharacters	"[b'Mizuno, Yuu', b'Yoshino, Shunsuke', b'Hasegawa, Kouta', b'Nishimiya, Ryou', b'Minamoto, Seiichirou', b'Tsuchiya, Tadashi', b""Kouta's Mother"", b'Matsuo, Tomo', b'Sugami, Naoki', b'Machida, Yamato']"
-animeVoices	[b'\nSaitou, Souma\nJapanese\n', b'\nOosuka, Jun\nJapanese\n', b'\nEguchi, Takuya\nJapanese\n', b'\nKagura, Hiroyuki\nJapanese\n', b'\nUchida, Yuuma\nJapanese\n', b'\nSuzuki, Chihiro\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nFurukawa, Makoto\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKudou, Masashi\n\nDirector\n\n', b'\nEguchi, Takuya\n\nTheme Song Performance\n\n', b'\nUchida, Yuuma\n\nTheme Song Performance\n\n', b'\nSaitou, Souma\n\nTheme Song Performance\n\n']
+animePopularity	2532
+animeDescription	"Kouta Hasegawa is a completely normal high school student who likes his Pompompurin stuffed animal, a Sanrio character modelled after a Golden Retriever, which his grandmother gave him when he was young. However, an incident in which other kids accused him of being girly for liking Sanrio characters made him ashamed of his attachment to Pompompurin. 
+
+Through a series of unexpected events, Kouta ends up meeting others at school who also like Sanrio characters—Yuu Mizuno, a flashy boy who is popular with girls; Shunsuke Yoshino, a member of the soccer team; Ryou Nishimiya, an underclassman who is a library assistant; and Seiichirou Minamoto, the student council president.
+
+Through his new friends, Kouta learns that there is no need to be embarrassed for liking Sanrio characters; and together, they aim to create a play for the cultural festival in order to transform his normal school life into a sparkly one.
+
+[Written by MAL Rewrite]"
+animeRelated	['Sanrio Danshi']
+animeCharacters	"['Mizuno, Yuu', 'Yoshino, Shunsuke', 'Hasegawa, Kouta', 'Nishimiya, Ryou', 'Minamoto, Seiichirou', 'Tsuchiya, Tadashi', ""Kouta's Mother"", 'Matsuo, Tomo', 'Sugami, Naoki', 'Machida, Yamato']"
+animeVoices	['Saitou, Souma', 'Oosuka, Jun', 'Eguchi, Takuya', 'Kagura, Hiroyuki', 'Uchida, Yuuma', 'Suzuki, Chihiro', 'Inoue, Kikuko', 'Furukawa, Makoto', 'Kishio, Daisuke']
+animeStaff	[['Kudou, Masashi', 'Director'], ['Eguchi, Takuya', 'Theme Song Performance'], ['Uchida, Yuuma', 'Theme Song Performance'], ['Saitou, Souma', 'Theme Song Performance']]

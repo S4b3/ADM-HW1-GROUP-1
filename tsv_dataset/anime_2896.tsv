@@ -1,5 +1,5 @@
-animeTitle	b'Rockman.EXE Movie: Hikari to Yami no Program'
-animeType	b'Movie'
+animeTitle	Rockman.EXE Movie: Hikari to Yami no Program
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.2
 animeUsers	1769
 animeRank	
-animePopularity	
-animeDescription	"b""Deep in the dark recesses of the UnderNet, Forte sleeps as he drifts aimlessly. In this cybernetic graveyard, a pulsating power re-awakens Forte, alerting him to a dangerous being shortly ahead. A haunting face appears amidst a massive bright purple blob, laughing directly at Forte. Cursing him, Forte finds himself powerless as the blob takes form, and captures him within its grasp!\nNearing the time of sunset, a peaceful city and its people go about their everyday business. Curious bystanders on a sidewalk glimpse a shimmering purple light, which suddenly expands into tall pillar that reaches up to the sky. Screams erupt from the people as the pillar of light takes flight, absorbing everything in its destructive path. A tower clock dings the hour of 4 o'clock as the pillar desintigrates, leaving behind a trail of cybernetic residue and utter emptyness. \n'The Program of Light and Dark'\n\n(Source: Official Site)"""
-animeRelated	[b'Rockman.EXE Stream']
-animeCharacters	[b'Rockman.EXE', b'Forte.EXE', b'Hikari, Netto', b'Ijuuin, Enzan', b'Blues.EXE', b'Laika', b'Ozono, Mariko', b'Sakurai, Meiru', b'Roll.EXE', b'Searchman.EXE']
-animeVoices	[b'\nKimura, Akiko\nJapanese\n', b'\nNemoto, Keiko\nJapanese\n', b'\nHiga, Kumiko\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nMatsukaze, Masaya\nJapanese\n', b'\nYuuki, Hiro\nJapanese\n', b'\nJou, Masako\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKato, Takao\n\nDirector, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nOshiyama, Kiyotaka\n\nKey Animation\n\n', b'\nCapcom\n\nOriginal Creator\n\n']
+animePopularity	7675
+animeDescription	"Deep in the dark recesses of the UnderNet, Forte sleeps as he drifts aimlessly. In this cybernetic graveyard, a pulsating power re-awakens Forte, alerting him to a dangerous being shortly ahead. A haunting face appears amidst a massive bright purple blob, laughing directly at Forte. Cursing him, Forte finds himself powerless as the blob takes form, and captures him within its grasp!
+Nearing the time of sunset, a peaceful city and its people go about their everyday business. Curious bystanders on a sidewalk glimpse a shimmering purple light, which suddenly expands into tall pillar that reaches up to the sky. Screams erupt from the people as the pillar of light takes flight, absorbing everything in its destructive path. A tower clock dings the hour of 4 o'clock as the pillar desintigrates, leaving behind a trail of cybernetic residue and utter emptyness. 
+'The Program of Light and Dark'
+
+(Source: Official Site)"
+animeRelated	['Rockman.EXE Stream']
+animeCharacters	['Rockman.EXE', 'Forte.EXE', 'Hikari, Netto', 'Ijuuin, Enzan', 'Blues.EXE', 'Laika', 'Ozono, Mariko', 'Sakurai, Meiru', 'Roll.EXE', 'Searchman.EXE']
+animeVoices	['Kimura, Akiko', 'Nemoto, Keiko', 'Higa, Kumiko', 'Saiga, Mitsuki', 'Matsukaze, Masaya', 'Yuuki, Hiro', 'Jou, Masako', 'Fukuyama, Jun']
+animeStaff	[['Kato, Takao', 'Director, Storyboard'], ['Aketagawa, Jin', 'Sound Director'], ['Oshiyama, Kiyotaka', 'Key Animation'], ['Capcom', 'Original Creator']]

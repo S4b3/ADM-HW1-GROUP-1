@@ -1,5 +1,5 @@
-animeTitle	b'D.I.C.E.'
-animeType	b'TV'
+animeTitle	D.I.C.E.
+animeType	TV
 animeNumEpisode	40
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.33
 animeUsers	1963
 animeRank	
-animePopularity	
-animeDescription	b'DICE (DNA Integrated Cybernetic Enterprises) is a large organization established to deal with problems in the Sarbylion galaxy. DICE F-99 is the only unit comprised entirely of children.\n\nWhen a problem arises, DICE is called to the rescue. And when their special training and skills aren`t enough, they rely on their Dinobreakers, which can transform from Vehicle Mode to Dino Mode, to help get the job done!\n\nAlways on call, always on alert - DICE is ready for action! \n\n(Source: AniDB)'
+animePopularity	7422
+animeDescription	"DICE (DNA Integrated Cybernetic Enterprises) is a large organization established to deal with problems in the Sarbylion galaxy. DICE F-99 is the only unit comprised entirely of children.
+
+When a problem arises, DICE is called to the rescue. And when their special training and skills aren`t enough, they rely on their Dinobreakers, which can transform from Vehicle Mode to Dino Mode, to help get the job done!
+
+Always on call, always on alert - DICE is ready for action! 
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	"[b'Siegel, Jet', b'Lee, Chao', b'Rizarov, Marsha', b'Angel, Puffy', b'Clapice, Robert', b'Carter, Tak', b'Rocca, Marco', b""n'Dool, Sam"", b'Siegel, Zack', b'Thomson, Jane']"
-animeVoices	[b'\nSakaguchi, Daisuke\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nChiba, Susumu\nJapanese\n', b'\nKawada, Shinji\nJapanese\n', b'\nMatsumoto, Megumi\nJapanese\n', b'\nKawahara, Yoshihisa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Hiroyasu\n\nDirector\n\n', b'\nKamiya, Jun\n\nDirector, Script, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nOota, Masahiko\n\nStoryboard\n\n']
+animeCharacters	"['Siegel, Jet', 'Lee, Chao', 'Rizarov, Marsha', 'Angel, Puffy', 'Clapice, Robert', 'Carter, Tak', 'Rocca, Marco', ""n'Dool, Sam"", 'Siegel, Zack', 'Thomson, Jane']"
+animeVoices	['Sakaguchi, Daisuke', 'Miyake, Kenta', 'Kakazu, Yumi', 'Watanabe, Akeno', 'Sugiyama, Noriaki', 'Chiba, Susumu', 'Kawada, Shinji', 'Matsumoto, Megumi', 'Kawahara, Yoshihisa']
+animeStaff	[['Kobayashi, Hiroyasu', 'Director'], ['Kamiya, Jun', 'Director, Script, Storyboard'], ['Aketagawa, Jin', 'Sound Director'], ['Oota, Masahiko', 'Storyboard']]

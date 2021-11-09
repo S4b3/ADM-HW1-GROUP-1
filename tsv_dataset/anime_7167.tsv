@@ -1,5 +1,5 @@
-animeTitle	b'Ganso Tensai Bakabon'
-animeType	b'TV'
+animeTitle	Ganso Tensai Bakabon
+animeType	TV
 animeNumEpisode	103
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.3
 animeUsers	212
 animeRank	
-animePopularity	
-animeDescription	b'A comedy about a former genius who has now become very eccentric and senile. His family deals with all the crazy problems he and his old friends cause around the neighborhood.\n\n(Source: AniDB)'
-animeRelated	[b'Tensai Bakabon', b'Heisei Tensai Bakabon', b'Bakabon Osomatsu no Karee wo Tazunete Sansenri', b'Nyuru Nyuru!! Kakusen-kun 2nd Season', b'Shinya! Tensai Bakabon']
-animeCharacters	[b'Bakabon no Papa', b'Rerere no Ojisan', b'Bakabon', b'Hajime-chan', b'Bakabon no Mama', b'Unagi-Inu', b'Omawari-san']
-animeVoices	[b'\nAmenomori, Masashi\nJapanese\n', b'\nSaikachi, Ryuuji\nJapanese\n', b'\nYamamoto, Keiko\nJapanese\n', b'\nSasuga, Takako\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nDezaki, Osamu\n\nEpisode Director, Script\n\n', b'\nTakayashiki, Hideo\n\nEpisode Director\n\n', b'\nKaneko, Yutaka\n\nScript\n\n', b""\nKoorogi '73\n\nTheme Song Performance, Inserted Song Performance\n\n""]"
+animePopularity	11405
+animeDescription	"A comedy about a former genius who has now become very eccentric and senile. His family deals with all the crazy problems he and his old friends cause around the neighborhood.
+
+(Source: AniDB)"
+animeRelated	['Tensai Bakabon', 'Heisei Tensai Bakabon', 'Bakabon Osomatsu no Karee wo Tazunete Sansenri', 'Nyuru Nyuru!! Kakusen-kun 2nd Season', 'Shinya! Tensai Bakabon']
+animeCharacters	['Bakabon no Papa', 'Rerere no Ojisan', 'Bakabon', 'Hajime-chan', 'Bakabon no Mama', 'Unagi-Inu', 'Omawari-san']
+animeVoices	['Amenomori, Masashi', 'Saikachi, Ryuuji', 'Yamamoto, Keiko', 'Sasuga, Takako', 'Masuyama, Eiko', 'Kimotsuki, Kaneta']
+animeStaff	"[['Dezaki, Osamu', 'Episode Director, Script'], ['Takayashiki, Hideo', 'Episode Director'], ['Kaneko, Yutaka', 'Script'], [""Koorogi '73"", 'Theme Song Performance, Inserted Song Performance']]"

@@ -1,5 +1,5 @@
-animeTitle	b'Zero Seiki Movie 2: Herlock'
-animeType	b'Movie'
+animeTitle	Zero Seiki Movie 2: Herlock
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'An anime movie that was announced at Japan Expo which will air in 2023.'
-animeRelated	[b'Uchuu Kaizoku Captain Herlock', b'Zero Seiki Movie 1: Emeraldas', b'Zero Seiki Movie 3: Maetel']
-animeCharacters	[b'Captain Herlock']
+animePopularity	10256
+animeDescription	An anime movie that was announced at Japan Expo which will air in 2023.
+animeRelated	['Uchuu Kaizoku Captain Herlock', 'Zero Seiki Movie 1: Emeraldas', 'Zero Seiki Movie 3: Maetel']
+animeCharacters	['Captain Herlock']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamaga, Hiroyuki\n\nDirector\n\n', b'\nWachi, Masaki\n\nScript\n\n', b'\nSadamoto, Yoshiyuki\n\nCharacter Design\n\n', b'\nMatsumoto, Leiji\n\nOriginal Creator\n\n']
+animeStaff	[['Yamaga, Hiroyuki', 'Director'], ['Wachi, Masaki', 'Script'], ['Sadamoto, Yoshiyuki', 'Character Design'], ['Matsumoto, Leiji', 'Original Creator']]

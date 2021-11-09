@@ -1,5 +1,5 @@
-animeTitle	b'Bonobono'
-animeType	b'Movie'
+animeTitle	Bonobono
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.05
 animeUsers	127
 animeRank	
-animePopularity	
-animeDescription	b'The first theatrical Bonobono movie.'
-animeRelated	[b'Bonobono', b'Bonobono (TV)', b'Bonobono: Kumomo no Ki no Koto']
-animeCharacters	[b'Bonobono', b'Shimarisu', b'Araiguma', b'Sunadorineko', b'Araiguma-kun no Otousan']
-animeVoices	[b'\nFujita, Toshiko\nJapanese\n', b'\nBaba, Sumie\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nOtsuka, Chikao\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAsami, Takashi\n\nEpisode Director, Storyboard\n\n', b'\nGontiti\n\nMusic\n\n', b'\nMutou, Yuuji\n\nChief Animation Director\n\n', b'\nIgarashi, Mikio\n\nOriginal Creator\n\n']
+animePopularity	13075
+animeDescription	The first theatrical Bonobono movie.
+animeRelated	['Bonobono', 'Bonobono (TV)', 'Bonobono: Kumomo no Ki no Koto']
+animeCharacters	['Bonobono', 'Shimarisu', 'Araiguma', 'Sunadorineko', 'Araiguma-kun no Otousan']
+animeVoices	['Fujita, Toshiko', 'Baba, Sumie', 'Yara, Yuusaku', 'Ootsuka, Houchuu', 'Otsuka, Chikao']
+animeStaff	[['Asami, Takashi', 'Episode Director, Storyboard'], ['Gontiti', 'Music'], ['Mutou, Yuuji', 'Chief Animation Director'], ['Igarashi, Mikio', 'Original Creator']]

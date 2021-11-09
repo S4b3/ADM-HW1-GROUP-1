@@ -1,5 +1,5 @@
-animeTitle	b'Gingitsune'
-animeType	b'TV'
+animeTitle	Gingitsune
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.17
 animeUsers	21016
 animeRank	
-animePopularity	
-animeDescription	"b""Gintarou is a fox spirit that has been protecting the small Inari temple since the Edo era. Saeki Makoto's family possesses the power to see the gods' agent, but the ability is limited to one living relative at a time. When Makoto's mother passed away while she was still young, Makoto inherited the ability as the sole remaining family member. With the help of fox spirit's power, Makoto and Gintarou help the people of their community, in spite of their many differences.\n\n(Source: MangaHelpers, edited)"""
-animeRelated	[b'Gingitsune']
-animeCharacters	[b'Gintarou', b'Saeki, Makoto', b'Kamio, Satoru', b'Haru', b'Kame', b'Toyokura, Etsuko ', b'Saeki, Tatsuo', b'Yoshizumi, Shinichi', b'Funabashi, Hiwako', b'Ikeda, Yuuya']
-animeVoices	[b'\nMiki, Shinichiro\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nYamamoto, Kanehira\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nNojima, Hirofumi\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nKawai, Sakiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMisawa, Shin\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nTakamura, Yuuta\n\nEpisode Director\n\n', b'\nAndou, Ken\n\nEpisode Director\n\n']
+animePopularity	2451
+animeDescription	"Gintarou is a fox spirit that has been protecting the small Inari temple since the Edo era. Saeki Makoto's family possesses the power to see the gods' agent, but the ability is limited to one living relative at a time. When Makoto's mother passed away while she was still young, Makoto inherited the ability as the sole remaining family member. With the help of fox spirit's power, Makoto and Gintarou help the people of their community, in spite of their many differences.
+
+(Source: MangaHelpers, edited)"
+animeRelated	['Gingitsune']
+animeCharacters	['Gintarou', 'Saeki, Makoto', 'Kamio, Satoru', 'Haru', 'Kame', 'Toyokura, Etsuko ', 'Saeki, Tatsuo', 'Yoshizumi, Shinichi', 'Funabashi, Hiwako', 'Ikeda, Yuuya']
+animeVoices	['Miki, Shinichiro', 'Kanemoto, Hisako', 'Ono, Kensho', 'Fujimura, Ayumi', 'Yamamoto, Kanehira', 'Tanaka, Atsuko', 'Seki, Toshihiko', 'Nojima, Hirofumi', 'Koshimizu, Ami', 'Kawai, Sakiko']
+animeStaff	[['Misawa, Shin', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Takamura, Yuuta', 'Episode Director'], ['Andou, Ken', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Nitaboh'
-animeType	b'Movie'
+animeTitle	Nitaboh
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.33
 animeUsers	2994
 animeRank	
-animePopularity	
-animeDescription	b'At a young age, Nitaroh is stricken with an illness that leaves him blind. He inherits the shamisen once used by his mother and is taught its basics by a blind traveling shamisen player. In time, with the help of friends old and new, he walks the paths that leads to his ultimate fate\xe2\x80\x94that of founder of the Tsugaru style of shamisen playing.\n\n(Source: ANN)'
+animePopularity	5691
+animeDescription	"At a young age, Nitaroh is stricken with an illness that leaves him blind. He inherits the shamisen once used by his mother and is taught its basics by a blind traveling shamisen player. In time, with the help of friends old and new, he walks the paths that leads to his ultimate fate—that of founder of the Tsugaru style of shamisen playing.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Nitaro', b'Kikunosuke', b'Tamana', b'Tomekichi', b'Yuki']
-animeVoices	[b'\nHino, Satoshi\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nHanamura, Sayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishizawa, Akio\n\nDirector, Screenplay\n\n', b'\nKobayashi, Toshimitsu\n\nAnimation Director\n\n', b'\nMurakami, Masahiro\n\nExecutive Producer\n\n']
+animeCharacters	['Nitaro', 'Kikunosuke', 'Tamana', 'Tomekichi', 'Yuki']
+animeVoices	['Hino, Satoshi', 'Katsuki, Masako', 'Hirata, Hiroaki', 'Hanamura, Sayaka']
+animeStaff	[['Nishizawa, Akio', 'Director, Screenplay'], ['Kobayashi, Toshimitsu', 'Animation Director'], ['Murakami, Masahiro', 'Executive Producer']]

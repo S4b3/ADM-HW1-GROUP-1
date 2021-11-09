@@ -1,5 +1,5 @@
-animeTitle	b'Arslan Senki'
-animeType	b'OVA'
+animeTitle	Arslan Senki
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.91
 animeUsers	5316
 animeRank	
-animePopularity	
-animeDescription	"b""In the medieval kingdom of Pars, young Prince Arslan confronts the hostility of his father and the disinterest of his mother, and yearns to learn more about the world. Despite being surrounded by poverty and slavery, Arslan persists in seeing the possibility of a nobler world. Everything changes when the neighboring nation of Lusitania invades Pars, and Arslan is forced to grow up in an instant.\n\nArslan Senki follows Prince Arslan to war, where he struggles to save his nation and family with the help of a small but devoted circle of advisers. Along the way the young prince finds secrets around every corner and faces enemies who hate him because of what he is, but also finds friends where he least expects them. The story of nations at war, Arslan Senki is also the story of one boy's quest to stay himself in the most trying of circumstances."""
-animeRelated	[b'Arslan Senki', b'Arslan Senki (TV)']
-animeCharacters	[b'Arslan', b'Daryun', b'Narsus', b'Gieve', b'Falangies', b'Silver Mask', b'Etoile', b'Elam', b'Andragoras III', b'Alfreed']
-animeVoices	[b'\nYamaguchi, Kappei\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nIkeda, Shuuichi\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nWatanabe, Kumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAmino, Tetsuro\n\nDirector\n\n', b'\nHamatsu, Mamoru\n\nDirector\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nNogami, Kazuo\n\nEpisode Director\n\n']
+animePopularity	4052
+animeDescription	"In the medieval kingdom of Pars, young Prince Arslan confronts the hostility of his father and the disinterest of his mother, and yearns to learn more about the world. Despite being surrounded by poverty and slavery, Arslan persists in seeing the possibility of a nobler world. Everything changes when the neighboring nation of Lusitania invades Pars, and Arslan is forced to grow up in an instant.
+
+Arslan Senki follows Prince Arslan to war, where he struggles to save his nation and family with the help of a small but devoted circle of advisers. Along the way the young prince finds secrets around every corner and faces enemies who hate him because of what he is, but also finds friends where he least expects them. The story of nations at war, Arslan Senki is also the story of one boy's quest to stay himself in the most trying of circumstances."
+animeRelated	['Arslan Senki', 'Arslan Senki (TV)']
+animeCharacters	['Arslan', 'Daryun', 'Narsus', 'Gieve', 'Falangies', 'Silver Mask', 'Etoile', 'Elam', 'Andragoras III', 'Alfreed']
+animeVoices	['Yamaguchi, Kappei', 'Inoue, Kazuhiko', 'Shiozawa, Kaneto', 'Yao, Kazuki', 'Katsuki, Masako', 'Ikeda, Shuuichi', 'Mitsuishi, Kotono', 'Sasaki, Nozomu', 'Ootsuka, Akio', 'Watanabe, Kumiko']
+animeStaff	[['Amino, Tetsuro', 'Director'], ['Hamatsu, Mamoru', 'Director'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Nogami, Kazuo', 'Episode Director']]

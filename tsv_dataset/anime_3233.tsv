@@ -1,5 +1,5 @@
-animeTitle	b'Junkers Come Here'
-animeType	b'Movie'
+animeTitle	Junkers Come Here
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.13
 animeUsers	1913
 animeRank	
-animePopularity	
-animeDescription	b'This heartwarming and unexpectedly mature story concerns a young girl named Hiromi Nozawa and her dog, Junkers (pronounced Yoon-kers). Hiromi walks us through her childhood troubles of love, schooling, and family bonds. Her companion Junkers accompanies her on this adventure; however, Junkers is no ordinary dog\xe2\x80\x94he can talk and grant 3 wishes. '
-animeRelated	[b'Junkers Come Here: Memories of You', b'Junkers Come Here Pilot Film']
-animeCharacters	[b'Junkers', b'Nozawa, Hiromi', b'Kazuko', b'Harada, Chie', b'Morita, Fumie', b'Inoue, Yoko', b'Nozawa, Suzuko', b'Kimura, Keisuke', b'Nozawa, Shintaro']
-animeVoices	[b'\nFurumoto, Shinnosuke\nJapanese\n', b'\nOshitani, Mei\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n', b'\nIshi, Momoko\nJapanese\n', b'\nNakajima, Keiko\nJapanese\n', b'\nTamagawa, Sakiko\nJapanese\n', b'\nKonno, Misako\nJapanese\n', b'\nMineno, Katsunari\nJapanese\n', b'\nKine, Naoto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYokoyama, Kazuo\n\nProducer\n\n', b'\nSatou, Junichi\n\nDirector\n\n', b'\nIso, Mitsuo\n\nKey Animation\n\n', b'\nOhira, Shinya\n\nKey Animation, Original Character Design\n\n']
+animePopularity	6723
+animeDescription	This heartwarming and unexpectedly mature story concerns a young girl named Hiromi Nozawa and her dog, Junkers (pronounced Yoon-kers). Hiromi walks us through her childhood troubles of love, schooling, and family bonds. Her companion Junkers accompanies her on this adventure; however, Junkers is no ordinary dog—he can talk and grant 3 wishes. 
+animeRelated	['Junkers Come Here: Memories of You', 'Junkers Come Here Pilot Film']
+animeCharacters	['Junkers', 'Nozawa, Hiromi', 'Kazuko', 'Harada, Chie', 'Morita, Fumie', 'Inoue, Yoko', 'Nozawa, Suzuko', 'Kimura, Keisuke', 'Nozawa, Shintaro']
+animeVoices	['Furumoto, Shinnosuke', 'Oshitani, Mei', 'Iizuka, Mayumi', 'Ishi, Momoko', 'Nakajima, Keiko', 'Tamagawa, Sakiko', 'Konno, Misako', 'Mineno, Katsunari', 'Kine, Naoto']
+animeStaff	[['Yokoyama, Kazuo', 'Producer'], ['Satou, Junichi', 'Director'], ['Iso, Mitsuo', 'Key Animation'], ['Ohira, Shinya', 'Key Animation, Original Character Design']]

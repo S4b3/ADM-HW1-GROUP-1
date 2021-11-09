@@ -1,5 +1,5 @@
-animeTitle	b'Nanatsu no Taizai OVA'
-animeType	b'OVA'
+animeTitle	Nanatsu no Taizai OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.54
 animeUsers	88074
 animeRank	
-animePopularity	
-animeDescription	b'OVA bundled with the 15th and 16th volume of the manga.\n\n15th volume DVD will feature the sin of greed as the central character.\n\n16th volume DVD will feature side stories of the main characters in omnibus format.\n\n(Source: MAL News)'
-animeRelated	[b'Nanatsu no Taizai']
-animeCharacters	[b'Ban', b'Meliodas', b'King', b'Hawk', b'Gowther', b'Diane', b'Liones, Elizabeth', b'Merlin', b'Elaine', b'Gilthunder']
-animeVoices	[b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nKuno, Misaki\nJapanese\n', b'\nTakagi, Yuuhei\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nAmamiya, Sora\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nKoiwai, Kotori\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFLOW\n\nTheme Song Performance, Theme Song Composition, Theme Song Lyrics, Theme Song Arrangement\n\n', b'\nMAN WITH A MISSION\n\nTheme Song Composition, Theme Song Lyrics, Theme Song Performance, Theme Song Arrangement\n\n', b'\nGRANRODEO\n\nTheme Song Performance, Theme Song Arrangement, Theme Song Lyrics\n\n', b'\nTakigawa, Alisa\n\nTheme Song Performance, Theme Song Lyrics, Theme Song Composition\n\n']
+animePopularity	1078
+animeDescription	"OVA bundled with the 15th and 16th volume of the manga.
+
+15th volume DVD will feature the sin of greed as the central character.
+
+16th volume DVD will feature side stories of the main characters in omnibus format.
+
+(Source: MAL News)"
+animeRelated	['Nanatsu no Taizai']
+animeCharacters	['Ban', 'Meliodas', 'King', 'Hawk', 'Gowther', 'Diane', 'Liones, Elizabeth', 'Merlin', 'Elaine', 'Gilthunder']
+animeVoices	['Suzuki, Tatsuhisa', 'Kaji, Yuki', 'Fukuyama, Jun', 'Kuno, Misaki', 'Takagi, Yuuhei', 'Yuuki, Aoi', 'Amamiya, Sora', 'Sakamoto, Maaya', 'Koiwai, Kotori', 'Miyano, Mamoru']
+animeStaff	[['FLOW', 'Theme Song Performance, Theme Song Composition, Theme Song Lyrics, Theme Song Arrangement'], ['MAN WITH A MISSION', 'Theme Song Composition, Theme Song Lyrics, Theme Song Performance, Theme Song Arrangement'], ['GRANRODEO', 'Theme Song Performance, Theme Song Arrangement, Theme Song Lyrics'], ['Takigawa, Alisa', 'Theme Song Performance, Theme Song Lyrics, Theme Song Composition']]

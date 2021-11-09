@@ -1,5 +1,5 @@
-animeTitle	b'Motto! Ojamajo Doremi'
-animeType	b'TV'
+animeTitle	Motto! Ojamajo Doremi
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.36
 animeUsers	8180
 animeRank	
-animePopularity	
-animeDescription	b'After the losing of magical ability to become witches, they once again become them. But, now they have to go through tests from the Witches of the Witch World. They also meet a new member, from New York, U.S. comes Momoko (the yellow Ojamajo). \n\n(Source: ANN)'
-animeRelated	[b'Ojamajo Doremi Sharp', b'Ojamajo Doremi Dokkaan!', b'Ojamajo Doremi Na-i-sho', b'Motto! Ojamajo Doremi: Kaeru Ishi no Himitsu', b'Ojamajo Doremi OVA']
-animeCharacters	[b'Harukaze, Doremi', b'Segawa, Onpu', b'Asuka, Momoko', b'Senoo, Aiko', b'Makihatayama, Hana', b'Fujiwara, Hazuki', b'Majorika', b'Harukaze, Pop', b'Tamaki, Reika', b'Yada, Masaru']
-animeVoices	[b'\nChiba, Chiemi\nJapanese\n', b'\nShishido, Rumi\nJapanese\n', b'\nMiyahara, Nami\nJapanese\n', b'\nMatsuoka, Yuki\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nAkiya, Tomoko\nJapanese\n', b'\nNagasawa, Nao\nJapanese\n', b'\nIshige, Sawa\nJapanese\n', b'\nNagano, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShibata, Hiroaki\n\nAssistant Producer\n\n', b'\nIgarashi, Takuya\n\nDirector\n\n', b'\nSatou, Junichi\n\nEpisode Director, Storyboard\n\n', b'\nYamauchi, Shigeyasu\n\nEpisode Director, Storyboard\n\n']
+animePopularity	4208
+animeDescription	"After the losing of magical ability to become witches, they once again become them. But, now they have to go through tests from the Witches of the Witch World. They also meet a new member, from New York, U.S. comes Momoko (the yellow Ojamajo). 
+
+(Source: ANN)"
+animeRelated	['Ojamajo Doremi Sharp', 'Ojamajo Doremi Dokkaan!', 'Ojamajo Doremi Na-i-sho', 'Motto! Ojamajo Doremi: Kaeru Ishi no Himitsu', 'Ojamajo Doremi OVA']
+animeCharacters	['Harukaze, Doremi', 'Segawa, Onpu', 'Asuka, Momoko', 'Senoo, Aiko', 'Makihatayama, Hana', 'Fujiwara, Hazuki', 'Majorika', 'Harukaze, Pop', 'Tamaki, Reika', 'Yada, Masaru']
+animeVoices	['Chiba, Chiemi', 'Shishido, Rumi', 'Miyahara, Nami', 'Matsuoka, Yuki', 'Ootani, Ikue', 'Akiya, Tomoko', 'Nagasawa, Nao', 'Ishige, Sawa', 'Nagano, Ai']
+animeStaff	[['Shibata, Hiroaki', 'Assistant Producer'], ['Igarashi, Takuya', 'Director'], ['Satou, Junichi', 'Episode Director, Storyboard'], ['Yamauchi, Shigeyasu', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Idol Densetsu Eriko'
-animeType	b'TV'
+animeTitle	Idol Densetsu Eriko
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.85
 animeUsers	1247
 animeRank	
-animePopularity	
-animeDescription	"b""Eriko Tamura is Kousuke Tamura, the chairman of Tamura Productions (reknown music company) and Minako Tamura's (former famous idol singer) only daughter. Having talent for singing since birth, she has always loved her parent's media world. Then one day tragedy strikes when her parents get into a horrible car accident, which kills her father and leaves her mother in coma. She is left in her father's best friend, Mr. Uchida's care. Now Eriko must take the path of singing, a path her parents did not want her to pursue. Then her uncle is out to destroy her career. But in spite of all the hardship, she becomes an idol and wins hearts all over Japan.\n\n(Source: ANN)"""
+animePopularity	7269
+animeDescription	"Eriko Tamura is Kousuke Tamura, the chairman of Tamura Productions (reknown music company) and Minako Tamura's (former famous idol singer) only daughter. Having talent for singing since birth, she has always loved her parent's media world. Then one day tragedy strikes when her parents get into a horrible car accident, which kills her father and leaves her mother in coma. She is left in her father's best friend, Mr. Uchida's care. Now Eriko must take the path of singing, a path her parents did not want her to pursue. Then her uncle is out to destroy her career. But in spite of all the hardship, she becomes an idol and wins hearts all over Japan.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Asagiri, Rei', b'Tamura, Eriko', b'Agi, Shougo', b'Tamura, Minako', b'Tamura, Yuusuke']
-animeVoices	[b'\nMatsui, Naoko\nJapanese\n', b'\nYajima, Akiko\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAmino, Tetsuro\n\nDirector\n\n', b'\nTanaka, Hideyuki\n\nSound Director\n\n', b'\nYonetani, Yoshitomo\n\nEpisode Director, Storyboard\n\n', b'\nInoue, Osamu\n\nEpisode Director\n\n']
+animeCharacters	['Asagiri, Rei', 'Tamura, Eriko', 'Agi, Shougo', 'Tamura, Minako', 'Tamura, Yuusuke']
+animeVoices	['Matsui, Naoko', 'Yajima, Akiko', 'Matsumoto, Yasunori']
+animeStaff	[['Amino, Tetsuro', 'Director'], ['Tanaka, Hideyuki', 'Sound Director'], ['Yonetani, Yoshitomo', 'Episode Director, Storyboard'], ['Inoue, Osamu', 'Episode Director']]

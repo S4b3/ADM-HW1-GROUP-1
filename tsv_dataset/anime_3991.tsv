@@ -1,5 +1,5 @@
-animeTitle	b'Hyper Police'
-animeType	b'TV'
+animeTitle	Hyper Police
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.95
 animeUsers	2416
 animeRank	
-animePopularity	
-animeDescription	b'Sasahara Natsuki is a poor bounty hunter in a world where monsters and humans live together. Most of her cases involve monsters infringing upon the rights of humans, who are protected by law from their generally more powerful neighbors. Being half-human and half cat-beast, Natsuki straddles the two societies and tries to understand and respect both while enforcing the law. She is assisted by a werewolf named Batanen who is afraid to admit he loves her; another werewolf named Tommy; and a Kyubi fox demon named Sakura who has her own plans--which include eating Natsuki to complete her her nine tails and thereby her magical powers. \n\n(Source: ANN)'
-animeRelated	[b'Hyper Police']
-animeCharacters	[b'Sasahara, Natsuki', b'Bokuseiinmonzeninari, Sakura', b'Fujioka, Batanen', b'Bob', b'Fujioka, Tommy', b'Walkure, Fonne', b'Tachibana, Ayami', b'Chikura, Sakunoshin', b'Kasumi']
-animeVoices	[b'\nMiyamura, Yuko\nJapanese\n', b'\nShibahara, Chiyako\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nToochika, Kouichi\nJapanese\n', b'\nIshino, Ryuuzou\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Noriko\n\nProducer\n\n', b'\nOomori, Takahiro\n\nDirector, Series Production Director\n\n', b'\nIshihara, Tatsuya\n\nEpisode Director, Storyboard\n\n', b'\nSadamitsu, Shinya\n\nEpisode Director\n\n']
+animePopularity	5510
+animeDescription	"Sasahara Natsuki is a poor bounty hunter in a world where monsters and humans live together. Most of her cases involve monsters infringing upon the rights of humans, who are protected by law from their generally more powerful neighbors. Being half-human and half cat-beast, Natsuki straddles the two societies and tries to understand and respect both while enforcing the law. She is assisted by a werewolf named Batanen who is afraid to admit he loves her; another werewolf named Tommy; and a Kyubi fox demon named Sakura who has her own plans--which include eating Natsuki to complete her her nine tails and thereby her magical powers. 
+
+(Source: ANN)"
+animeRelated	['Hyper Police']
+animeCharacters	['Sasahara, Natsuki', 'Bokuseiinmonzeninari, Sakura', 'Fujioka, Batanen', 'Bob', 'Fujioka, Tommy', 'Walkure, Fonne', 'Tachibana, Ayami', 'Chikura, Sakunoshin', 'Kasumi']
+animeVoices	['Miyamura, Yuko', 'Shibahara, Chiyako', 'Ootsuka, Akio', 'Toochika, Kouichi', 'Ishino, Ryuuzou', 'Mitsuishi, Kotono', 'Yamazaki, Wakana', 'Seki, Toshihiko']
+animeStaff	[['Kobayashi, Noriko', 'Producer'], ['Oomori, Takahiro', 'Director, Series Production Director'], ['Ishihara, Tatsuya', 'Episode Director, Storyboard'], ['Sadamitsu, Shinya', 'Episode Director']]

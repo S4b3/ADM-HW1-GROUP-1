@@ -1,5 +1,5 @@
-animeTitle	b'Great Mazinger'
-animeType	b'TV'
+animeTitle	Great Mazinger
+animeType	TV
 animeNumEpisode	56
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.06
 animeUsers	1696
 animeRank	
-animePopularity	
-animeDescription	b'A manga comic book and anime television series by manga artist Go Nagai, made as a direct continuation of the successful Mazinger Z series. It was aired on Japan in 1974, immediately following the end of the first Mazinger series.'
-animeRelated	[b'Great Mazinger', b'Mazinger Z', b'Great Mazinger tai Getter Robo', b'Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu', b'God Mazinger', b'Mazinger Z Movie: Infinity']
-animeCharacters	[b'Tsurugi, Tetsuya', b'Honoo, Jun', b'Kabuto, Kouji', b'Boss', b'Yumi, Sayaka', b'Archduke Gorgon', b'Kabuto, Shiro', b'Kabuto, Kenzo', b'Marquis Janus', b'Mucha']
-animeVoices	[b'\nNoda, Keiichi\nJapanese\n', b'\nNakatani, Yumi\nJapanese\n', b'\nIshimaru, Hiroya\nJapanese\n', b'\nOotake, Hiroshi\nJapanese\n', b'\nTaichi, Kotoe\nJapanese\n', b'\nKatou, Osamu\nJapanese\n', b'\nSawada, Kazuko\nJapanese\n', b'\nShibata, Hidekatsu\nJapanese\n', b'\nKitahama, Haruko\nJapanese\n', b'\nTanonaka, Isamu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKatsumata, Tomoharu\n\nEpisode Director\n\n', b'\nYamayoshi, Yasuo\n\nEpisode Director\n\n', b'\nFujikawa, Keisuke\n\nScript, Theme Song Lyrics, Screenplay\n\n', b'\nMizuki, Ichirou\n\nTheme Song Performance\n\n']
+animePopularity	7106
+animeDescription	A manga comic book and anime television series by manga artist Go Nagai, made as a direct continuation of the successful Mazinger Z series. It was aired on Japan in 1974, immediately following the end of the first Mazinger series.
+animeRelated	['Great Mazinger', 'Mazinger Z', 'Great Mazinger tai Getter Robo', 'Great Mazinger tai Getter Robo G: Kuuchuu Daigekitotsu', 'God Mazinger', 'Mazinger Z Movie: Infinity']
+animeCharacters	['Tsurugi, Tetsuya', 'Honoo, Jun', 'Kabuto, Kouji', 'Boss', 'Yumi, Sayaka', 'Archduke Gorgon', 'Kabuto, Shiro', 'Kabuto, Kenzo', 'Marquis Janus', 'Mucha']
+animeVoices	['Noda, Keiichi', 'Nakatani, Yumi', 'Ishimaru, Hiroya', 'Ootake, Hiroshi', 'Taichi, Kotoe', 'Katou, Osamu', 'Sawada, Kazuko', 'Shibata, Hidekatsu', 'Kitahama, Haruko', 'Tanonaka, Isamu']
+animeStaff	[['Katsumata, Tomoharu', 'Episode Director'], ['Yamayoshi, Yasuo', 'Episode Director'], ['Fujikawa, Keisuke', 'Script, Theme Song Lyrics, Screenplay'], ['Mizuki, Ichirou', 'Theme Song Performance']]

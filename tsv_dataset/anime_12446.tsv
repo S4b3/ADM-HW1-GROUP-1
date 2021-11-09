@@ -1,5 +1,5 @@
-animeTitle	b'Noramimi'
-animeType	b'TV'
+animeTitle	Noramimi
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""The anime is based on Kazuo Hara's comedy manga in which mascot characters live and work among humans. Agencies have been set up to train mascots to babysit children and then to place the mascots within families. Noramimi is one such mascot at the Hello Kids branch office #59. Unfortunately, no family wants to adopt a mascot born from a demon (oni) family, so he is stuck living at the agency.\n\nSource: ANN, Moon Phase"""
-animeRelated	[b'Noramimi', b'Noramimi 2']
-animeCharacters	[b'Noramimi', b'Handa, Toshio', b'Narrator', b'Cinnamon', b'Kapayuki', b'Smith', b'Asunaro', b'Torimi', b'BBBBBBBBB', b'Chii Pappa']
-animeVoices	[b'\nKatou, Nanae\nJapanese\n', b'\nShiraishi, Minoru\nJapanese\n', b'\nTomizawa, Kazato\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nSanada, Asami\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nItou, Miyako\nJapanese\n', b'\nKojima, Kazuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoyama, Yoshitaka\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nHata, Aki\n\nTheme Song Lyrics\n\n', b'\nKagami, Seira\n\nTheme Song Performance\n\n']
+animePopularity	11341
+animeDescription	"The anime is based on Kazuo Hara's comedy manga in which mascot characters live and work among humans. Agencies have been set up to train mascots to babysit children and then to place the mascots within families. Noramimi is one such mascot at the Hello Kids branch office #59. Unfortunately, no family wants to adopt a mascot born from a demon (oni) family, so he is stuck living at the agency.
+
+Source: ANN, Moon Phase"
+animeRelated	['Noramimi', 'Noramimi 2']
+animeCharacters	['Noramimi', 'Handa, Toshio', 'Narrator', 'Cinnamon', 'Kapayuki', 'Smith', 'Asunaro', 'Torimi', 'BBBBBBBBB', 'Chii Pappa']
+animeVoices	['Katou, Nanae', 'Shiraishi, Minoru', 'Tomizawa, Kazato', 'Kitamura, Eri', 'Okamoto, Nobuhiko', 'Sanada, Asami', 'Mizushima, Takahiro', 'Tanaka, Atsuko', 'Itou, Miyako', 'Kojima, Kazuko']
+animeStaff	[['Koyama, Yoshitaka', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Hata, Aki', 'Theme Song Lyrics'], ['Kagami, Seira', 'Theme Song Performance']]

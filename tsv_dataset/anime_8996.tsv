@@ -1,5 +1,5 @@
-animeTitle	b'Toshi Densetsu Monogatari Hikiko'
-animeType	b'OVA'
+animeTitle	Toshi Densetsu Monogatari Hikiko
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.91
 animeUsers	1616
 animeRank	
-animePopularity	
-animeDescription	"b""Story: 3D CG-animated movie about Hikiko, who is a character of a Japanese urban legend. She was violently treated all the time by her parents and classmates at the elementary school and she's extremely ugly due to the constant violence. To revenge, she caught students from elementary school and drag them on the floor until they're badly mutilated.\n\nWhen Revsersing Hikiko's full name \xe6\xa3\xae\xe5\xa6\x83\xe5\xa7\xab\xe5\xad\x90(Mori Hikiko) gives \xe5\xbc\x95\xe3\x81\x8d\xe7\xb1\xa0\xe3\x82\x82\xe3\x82\x8a(hikikomori), which means Social Withdrawal."""
+animePopularity	7030
+animeDescription	"Story: 3D CG-animated movie about Hikiko, who is a character of a Japanese urban legend. She was violently treated all the time by her parents and classmates at the elementary school and she's extremely ugly due to the constant violence. To revenge, she caught students from elementary school and drag them on the floor until they're badly mutilated.
+
+When Revsersing Hikiko's full name 森妃姫子(Mori Hikiko) gives 引き籠もり(hikikomori), which means Social Withdrawal."
 animeRelated	[]
-animeCharacters	[b'Mori, Hikiko']
+animeCharacters	['Mori, Hikiko']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nChida, Kazuhiro\n\nProducer, Sound Director, Music\n\n', b'\nKishi, Kaisei\n\nDirector, Script, Creator\n\n']
+animeStaff	[['Chida, Kazuhiro', 'Producer, Sound Director, Music'], ['Kishi, Kaisei', 'Director, Script, Creator']]

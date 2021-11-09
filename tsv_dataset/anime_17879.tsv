@@ -1,5 +1,5 @@
-animeTitle	b'Shoujo x Shoujo x Shoujo The Animation'
-animeType	b'OVA'
+animeTitle	Shoujo x Shoujo x Shoujo The Animation
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.83
 animeUsers	2754
 animeRank	
-animePopularity	
-animeDescription	"b""After running away from his eccentric and cruel father and cutting all ties with his family, Kengo receives a desperate plea for help from the daughters of his father's concubines seven years later. He decides to return home to help them and face his past.\n\n(Source: ANN)"""
-animeRelated	[b'Shoujo x Shoujo x Shoujo']
-animeCharacters	[b'Tenjou, Kengo', b'Matsuriko', b'Aya', b'Yotsuba', b'Futaba', b'Mitsuba']
+animePopularity	6168
+animeDescription	"After running away from his eccentric and cruel father and cutting all ties with his family, Kengo receives a desperate plea for help from the daughters of his father's concubines seven years later. He decides to return home to help them and face his past.
+
+(Source: ANN)"
+animeRelated	['Shoujo x Shoujo x Shoujo']
+animeCharacters	['Tenjou, Kengo', 'Matsuriko', 'Aya', 'Yotsuba', 'Futaba', 'Mitsuba']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nAraki, Hideki\n\nDirector, Character Design\n\n', b'\nAkatsuki, Myuuto\n\nOriginal Creator\n\n']
+animeStaff	[['Araki, Hideki', 'Director, Character Design'], ['Akatsuki, Myuuto', 'Original Creator']]

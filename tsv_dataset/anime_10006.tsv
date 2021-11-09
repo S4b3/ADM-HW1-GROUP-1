@@ -1,5 +1,5 @@
-animeTitle	b'Moegaku\xe2\x98\x855'
-animeType	b'TV'
+animeTitle	Moegaku★5
+animeType	TV
 animeNumEpisode	40
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	5.62
 animeUsers	120
 animeRank	
-animePopularity	
-animeDescription	b'A Tokyo school girl named Tukishima Moe obtains the ability of becoming a magical girl with the help of Lulue. Her duty is to protect Akihabara, the source of moe energy, from falling into the evil hands.\n\nNote: This is a hybrid anime/live-action television series based on the Moegaku language-learning software.\n\nThe series further the original concept by expanded language study to include English, Korean, Spanish, Chinese, and French.\n\n(Source: Wikipedia)'
+animePopularity	11155
+animeDescription	"A Tokyo school girl named Tukishima Moe obtains the ability of becoming a magical girl with the help of Lulue. Her duty is to protect Akihabara, the source of moe energy, from falling into the evil hands.
+
+Note: This is a hybrid anime/live-action television series based on the Moegaku language-learning software.
+
+The series further the original concept by expanded language study to include English, Korean, Spanish, Chinese, and French.
+
+(Source: Wikipedia)"
 animeRelated	[]
-animeCharacters	[b'Tsukishima, Moe', b'Emily', b'Kyoka, Kaori', b'Senna, Mayu', b'Lulue', b'Mush', b'Megami', b'American Otaku', b'Korean Otaku', b'French Otaku']
-animeVoices	[b'\nYoshimura, Reina\nJapanese\n', b'\nHirano, Aya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakamoto, Norihiro\n\nDirector\n\n', b'\nYamada, Yuukei\n\nIn-Between Animation\n\n', b'\nGeshi, Yuuya\n\nIn-Between Animation\n\n', b'\nWatanabe, Kouji\n\nCharacter Design\n\n']
+animeCharacters	['Tsukishima, Moe', 'Emily', 'Kyoka, Kaori', 'Senna, Mayu', 'Lulue', 'Mush', 'Megami', 'American Otaku', 'Korean Otaku', 'French Otaku']
+animeVoices	['Yoshimura, Reina', 'Hirano, Aya']
+animeStaff	[['Takamoto, Norihiro', 'Director'], ['Yamada, Yuukei', 'In-Between Animation'], ['Geshi, Yuuya', 'In-Between Animation'], ['Watanabe, Kouji', 'Character Design']]

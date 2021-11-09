@@ -1,5 +1,5 @@
-animeTitle	b'Hyakuren no Haou to Seiyaku no Valkyria'
-animeType	b'TV'
+animeTitle	Hyakuren no Haou to Seiyaku no Valkyria
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.71
 animeUsers	65559
 animeRank	
-animePopularity	
-animeDescription	"b""Some urban legends are best left untested! Yuuto Suou gets more than he bargained for when he joins his childhood friend Mitsuki Shimoya in testing out an urban legend. When he uses his phone to take a picture of himself with the local shrine's divine mirror, he is whisked off into another world\xe2\x80\x94one heavily steeped in the lore of the old Norse myths.\n\nUsing his knowledge gained from school and from his solar-powered smartphone, he has the chance to bring the Wolf Clan, the same people who cared for him, to prominence, all while earning the adoration of a group of magic-wielding warrior maidens known as the Einherjar.\n\n(Source: J-Novel Club)"""
-animeRelated	[b'Hyakuren no Haou to Seiyaku no Valkyria']
-animeCharacters	[b'Suou, Yuuto', b'Siegrune', b'Felicia', b'Ingrid', b'Linnea', b'Shimoya, Mizuki', b'Christina', b'Albertina', b'Loptr']
-animeVoices	[b'\nSakai, Koudai\nJapanese\n', b'\nDate, Arisa\nJapanese\n', b'\nSuegara, Rie\nJapanese\n', b'\nKawase, Maki\nJapanese\n', b'\nTakao, Kanon\nJapanese\n', b'\nUchida, Aya\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nYusa, Kouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Kousuke\n\nDirector\n\n', b'\nMorishita, Hiroto\n\nSound Director\n\n', b'\nFujimoto, Saeka\n\nScript\n\n', b'\nUchida, Aya\n\nTheme Song Performance\n\n']
+animePopularity	1178
+animeDescription	"Some urban legends are best left untested! Yuuto Suou gets more than he bargained for when he joins his childhood friend Mitsuki Shimoya in testing out an urban legend. When he uses his phone to take a picture of himself with the local shrine's divine mirror, he is whisked off into another world—one heavily steeped in the lore of the old Norse myths.
+
+Using his knowledge gained from school and from his solar-powered smartphone, he has the chance to bring the Wolf Clan, the same people who cared for him, to prominence, all while earning the adoration of a group of magic-wielding warrior maidens known as the Einherjar.
+
+(Source: J-Novel Club)"
+animeRelated	['Hyakuren no Haou to Seiyaku no Valkyria']
+animeCharacters	['Suou, Yuuto', 'Siegrune', 'Felicia', 'Ingrid', 'Linnea', 'Shimoya, Mizuki', 'Christina', 'Albertina', 'Loptr']
+animeVoices	['Sakai, Koudai', 'Date, Arisa', 'Suegara, Rie', 'Kawase, Maki', 'Takao, Kanon', 'Uchida, Aya', 'Taketatsu, Ayana', 'Yuuki, Aoi', 'Yusa, Kouji']
+animeStaff	[['Kobayashi, Kousuke', 'Director'], ['Morishita, Hiroto', 'Sound Director'], ['Fujimoto, Saeka', 'Script'], ['Uchida, Aya', 'Theme Song Performance']]

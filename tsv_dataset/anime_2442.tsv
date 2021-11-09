@@ -1,5 +1,5 @@
-animeTitle	b'Shinryaku! Ika Musume Specials'
-animeType	b'Special'
+animeTitle	Shinryaku! Ika Musume Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.29
 animeUsers	11203
 animeRank	
-animePopularity	
-animeDescription	"b'""Mini Ika-Musume"" side-story episodes.'"
-animeRelated	[b'Shinryaku! Ika Musume']
-animeCharacters	[b'Ika Musume', b'Aizawa, Chizuru', b'Nagatsuki, Sanae', b'Aizawa, Eiko', b'Saitou, Nagisa', b'Aizawa, Takeru', b'Matsumoto, Yuuta']
-animeVoices	[b'\nKanemoto, Hisako\nJapanese\n', b'\nItou, Kanae\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAnbe, Masahiro\n\nOriginal Creator\n\n', b'\nKikuya, Tomoki\n\nMusic\n\n', b'\nSakamoto, Izumi\n\nColor Design\n\n']
+animePopularity	3883
+animeDescription	"""Mini Ika-Musume"" side-story episodes."
+animeRelated	['Shinryaku! Ika Musume']
+animeCharacters	['Ika Musume', 'Aizawa, Chizuru', 'Nagatsuki, Sanae', 'Aizawa, Eiko', 'Saitou, Nagisa', 'Aizawa, Takeru', 'Matsumoto, Yuuta']
+animeVoices	['Kanemoto, Hisako', 'Itou, Kanae']
+animeStaff	[['Anbe, Masahiro', 'Original Creator'], ['Kikuya, Tomoki', 'Music'], ['Sakamoto, Izumi', 'Color Design']]

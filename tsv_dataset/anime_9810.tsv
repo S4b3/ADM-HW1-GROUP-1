@@ -1,5 +1,5 @@
-animeTitle	b'Hello Kitty no Kaguya-hime'
-animeType	b'OVA'
+animeTitle	Hello Kitty no Kaguya-hime
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.68
 animeUsers	233
 animeRank	
-animePopularity	
-animeDescription	b'Kitty and friends recreate the story of The Tale of the Bamboo Cutter.'
-animeRelated	[b'Hello Kitty no Kaguya-hime (2001)']
-animeCharacters	[b'White, Kitty']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshikawa, Yasuo\n\nDirector\n\n', b'\nHoshiyama, Hiroyuki\n\nScript\n\n', b'\nNagashima, Youko\n\nArt Director\n\n', b'\nIsaka, Junko\n\nAnimation Director\n\n']
+animePopularity	12150
+animeDescription	Kitty and friends recreate the story of The Tale of the Bamboo Cutter.
+animeRelated	['Hello Kitty no Kaguya-hime (2001)']
+animeCharacters	['White, Kitty']
+animeVoices	['Hayashibara, Megumi']
+animeStaff	[['Ishikawa, Yasuo', 'Director'], ['Hoshiyama, Hiroyuki', 'Script'], ['Nagashima, Youko', 'Art Director'], ['Isaka, Junko', 'Animation Director']]

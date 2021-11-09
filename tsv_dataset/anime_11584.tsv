@@ -1,5 +1,5 @@
-animeTitle	b'Majo demo Steady'
-animeType	b'OVA'
+animeTitle	Majo demo Steady
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.89
 animeUsers	491
 animeRank	
-animePopularity	
-animeDescription	"b""Hisashi Seki, ordinary working guy, wakes up one morning to find a naked, and very amorous, girl in his bed. He's happy to take advantage of the situation, to their mutual satisfaction. However, the girl's appearance leads to all sorts of increasingly strange phenomenon. The cause lies, sort of, in Jungian psychology. The girl, whom he has named Asami, is from a parallel dimension where people's ideal partners - the anima to their animus, or vice versa - reside. Asami's longing has allowed her to cross dimensions to be with Seki, but her presence in his world upsets the natural order. She goes back, and Seki must venture to her world to save her. The lovers are reunited. However, matters don't turn out quite as they hoped.\n\n(Source: Orphan fansubs)"""
+animePopularity	10551
+animeDescription	"Hisashi Seki, ordinary working guy, wakes up one morning to find a naked, and very amorous, girl in his bed. He's happy to take advantage of the situation, to their mutual satisfaction. However, the girl's appearance leads to all sorts of increasingly strange phenomenon. The cause lies, sort of, in Jungian psychology. The girl, whom he has named Asami, is from a parallel dimension where people's ideal partners - the anima to their animus, or vice versa - reside. Asami's longing has allowed her to cross dimensions to be with Seki, but her presence in his world upsets the natural order. She goes back, and Seki must venture to her world to save her. The lovers are reunited. However, matters don't turn out quite as they hoped.
+
+(Source: Orphan fansubs)"
 animeRelated	[]
-animeCharacters	[b'Asami', b'Hisashi, Seki', b'Sugiyama, Ryoutarou']
-animeVoices	[b'\nTakahashi, Miki\nJapanese\n', b'\nMitsuya, Yuuji\nJapanese\n', b'\nKokontei, Shinsuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakata, Reiko\n\nScript\n\n', b'\nOgasawara, Hiroshi\n\nTheme Song Composition, Theme Song Arrangement, Music\n\n', b'\nTakahashi, Miki\n\nTheme Song Performance\n\n', b'\nShimokawa, Tadami\n\nArt Director\n\n']
+animeCharacters	['Asami', 'Hisashi, Seki', 'Sugiyama, Ryoutarou']
+animeVoices	['Takahashi, Miki', 'Mitsuya, Yuuji', 'Kokontei, Shinsuke']
+animeStaff	[['Nakata, Reiko', 'Script'], ['Ogasawara, Hiroshi', 'Theme Song Composition, Theme Song Arrangement, Music'], ['Takahashi, Miki', 'Theme Song Performance'], ['Shimokawa, Tadami', 'Art Director']]

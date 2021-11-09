@@ -1,5 +1,5 @@
-animeTitle	b'Fullmetal Alchemist: Brotherhood'
-animeType	b'TV'
+animeTitle	Fullmetal Alchemist: Brotherhood
+animeType	TV
 animeNumEpisode	64
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	9.16
 animeUsers	1622384
 animeRank	
-animePopularity	
-animeDescription	"b'After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse\'s body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonse\'s soul in the physical realm by binding it to a hulking suit of armor.\n\nThe brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing ""automail,"" a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosopher\'s Stone\xe2\x80\x94a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange.\n\nAs Edward becomes an infamous alchemist and gains the nickname ""Fullmetal,"" the boys\' journey embroils them in a growing conspiracy that threatens the fate of the world.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Fullmetal Alchemist', b'Fullmetal Alchemist: Brotherhood Specials', b'Fullmetal Alchemist: The Sacred Star of Milos', b'Fullmetal Alchemist: Brotherhood - 4-Koma Theater']
-animeCharacters	[b'Elric, Edward', b'Elric, Alphonse', b'Mustang, Roy', b'Hughes, Maes', b'Greed', b'Hawkeye, Riza', b'Yao, Ling', b'Armstrong, Alex Louis', b'Rockbell, Winry', b'Armstrong, Olivier Mira']
-animeVoices	[b'\nPark, Romi\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nTakamoto, Megumi\nJapanese\n', b'\nSoumi, Youko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nYonai, Noritomo\n\nProducer\n\n', b'\nIrie, Yasuhiro\n\nDirector, Episode Director, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n']
+animePopularity	3
+animeDescription	"After a horrific alchemy experiment goes wrong in the Elric household, brothers Edward and Alphonse are left in a catastrophic new reality. Ignoring the alchemical principle banning human transmutation, the boys attempted to bring their recently deceased mother back to life. Instead, they suffered brutal personal loss: Alphonse's body disintegrated while Edward lost a leg and then sacrificed an arm to keep Alphonse's soul in the physical realm by binding it to a hulking suit of armor.
+
+The brothers are rescued by their neighbor Pinako Rockbell and her granddaughter Winry. Known as a bio-mechanical engineering prodigy, Winry creates prosthetic limbs for Edward by utilizing ""automail,"" a tough, versatile metal used in robots and combat armor. After years of training, the Elric brothers set off on a quest to restore their bodies by locating the Philosopher's Stone—a powerful gem that allows an alchemist to defy the traditional laws of Equivalent Exchange.
+
+As Edward becomes an infamous alchemist and gains the nickname ""Fullmetal,"" the boys' journey embroils them in a growing conspiracy that threatens the fate of the world.
+
+[Written by MAL Rewrite]"
+animeRelated	['Fullmetal Alchemist', 'Fullmetal Alchemist: Brotherhood Specials', 'Fullmetal Alchemist: The Sacred Star of Milos', 'Fullmetal Alchemist: Brotherhood - 4-Koma Theater']
+animeCharacters	['Elric, Edward', 'Elric, Alphonse', 'Mustang, Roy', 'Hughes, Maes', 'Greed', 'Hawkeye, Riza', 'Yao, Ling', 'Armstrong, Alex Louis', 'Rockbell, Winry', 'Armstrong, Olivier Mira']
+animeVoices	['Park, Romi', 'Kugimiya, Rie', 'Miki, Shinichiro', 'Fujiwara, Keiji', 'Nakamura, Yuuichi', 'Orikasa, Fumiko', 'Miyano, Mamoru', 'Utsumi, Kenji', 'Takamoto, Megumi', 'Soumi, Youko']
+animeStaff	[['Cook, Justin', 'Producer'], ['Yonai, Noritomo', 'Producer'], ['Irie, Yasuhiro', 'Director, Episode Director, Storyboard'], ['Mima, Masafumi', 'Sound Director']]

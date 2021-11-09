@@ -1,5 +1,5 @@
-animeTitle	b'Dotto Koni-chan'
-animeType	b'TV'
+animeTitle	Dotto Koni-chan
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.28
 animeUsers	1306
 animeRank	
-animePopularity	
-animeDescription	"b'Koni (whose character is based on the famous Sumo-wrestler) and his gang have lots of crazy and incoherent adventures in their town. From fighting with their ""Lovely-Teacher"" and dealing with Samurai fish, to confirming if ""The Armored-Guy\'s"" wife has an affair and saving the world, Koni, High, Moro, Nari and Afro, the Afro-dog, do the craziest and funniest things to have fun.\n\n(Source: ANN)'"
+animePopularity	8086
+animeDescription	"Koni (whose character is based on the famous Sumo-wrestler) and his gang have lots of crazy and incoherent adventures in their town. From fighting with their ""Lovely-Teacher"" and dealing with Samurai fish, to confirming if ""The Armored-Guy's"" wife has an affair and saving the world, Koni, High, Moro, Nari and Afro, the Afro-dog, do the craziest and funniest things to have fun.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Moro', b'Koni', b'Nari', b'High', b'AfroDog']
-animeVoices	[b'\nTamura, Yukari\nJapanese\n', b'\nKujira\nJapanese\n', b'\nMinami, Omi\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nWatanabe, Shinichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKubota, Mitsutoshi\n\nProducer\n\n', b'\nWatanabe, Shinichi\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nInokawa, Shintarou\n\nEpisode Director, Storyboard, Assistant Director\n\n']
+animeCharacters	['Moro', 'Koni', 'Nari', 'High', 'AfroDog']
+animeVoices	['Tamura, Yukari', 'Kujira', 'Minami, Omi', 'Morikubo, Shoutarou', 'Watanabe, Shinichi']
+animeStaff	[['Kubota, Mitsutoshi', 'Producer'], ['Watanabe, Shinichi', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Inokawa, Shintarou', 'Episode Director, Storyboard, Assistant Director']]

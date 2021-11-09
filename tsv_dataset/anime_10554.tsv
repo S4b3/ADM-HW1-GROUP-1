@@ -1,5 +1,5 @@
-animeTitle	b'Mugen Shinshi: Bouken Katsugeki-hen'
-animeType	b'OVA'
+animeTitle	Mugen Shinshi: Bouken Katsugeki-hen
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.44
 animeUsers	375
 animeRank	
-animePopularity	
-animeDescription	b'When a strange group of men attempt to kidnap Atsuko Fukune, a dancer at a club, she seeks the help of Mamiya Mugen, a famous detective - who also happens to be a child. When it turns out that other girls have gone missing, Mamiya, with the help of his butler Alucard, springs into action to solve the mystery.\n\n(Source: ANN)'
-animeRelated	[b'Mugen Shinshi']
-animeCharacters	[b'Old Doctor', b'Fukune, Atsuko', b'Mugen, Mamiya', b'Inspector Edogawa', b'Alucard', b'Waitress', b'Japanese Captain', b'Satomi, Sakura', b'Dr. Tomino']
-animeVoices	[b'\nYanami, Jouji\nJapanese\n', b'\nEmori, Hiroko\nJapanese\n', b'\nToda, Keiko\nJapanese\n', b'\nTakiguchi, Junpei\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nKatou, Noriko\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n', b'\nAoba, Miyoko\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuji, Hatsuki\n\nDirector, Character Design, Animation Director\n\n', b'\nHashimoto, Izou\n\nScript\n\n', b'\nTakahashi, Yousuke\n\nOriginal Creator\n\n', b'\nKurahashi, Shizuo\n\nSound Effects\n\n']
+animePopularity	10762
+animeDescription	"When a strange group of men attempt to kidnap Atsuko Fukune, a dancer at a club, she seeks the help of Mamiya Mugen, a famous detective - who also happens to be a child. When it turns out that other girls have gone missing, Mamiya, with the help of his butler Alucard, springs into action to solve the mystery.
+
+(Source: ANN)"
+animeRelated	['Mugen Shinshi']
+animeCharacters	['Old Doctor', 'Fukune, Atsuko', 'Mugen, Mamiya', 'Inspector Edogawa', 'Alucard', 'Waitress', 'Japanese Captain', 'Satomi, Sakura', 'Dr. Tomino']
+animeVoices	['Yanami, Jouji', 'Emori, Hiroko', 'Toda, Keiko', 'Takiguchi, Junpei', 'Ginga, Banjou', 'Katou, Noriko', 'Satou, Masaharu', 'Aoba, Miyoko', 'Nagai, Ichiro']
+animeStaff	[['Tsuji, Hatsuki', 'Director, Character Design, Animation Director'], ['Hashimoto, Izou', 'Script'], ['Takahashi, Yousuke', 'Original Creator'], ['Kurahashi, Shizuo', 'Sound Effects']]

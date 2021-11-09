@@ -1,5 +1,5 @@
-animeTitle	b'Vassalord.'
-animeType	b'OVA'
+animeTitle	Vassalord.
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.81
 animeUsers	14730
 animeRank	
-animePopularity	
-animeDescription	"b""Charley, a cyborg vampire who does the Vatican's dirty work, is the thrall of the local vampire playboy Johnny Rayflo. As the two fight crime\xe2\x80\x94and each other\xe2\x80\x94hilarity, violence and sacrilege ensue! But can Charley resist his own desperate cravings for blood? Find out as the devilish duo go up against a childlike vampire princess, a mysterious branch of the Unitarian Church...and one another. \n\n(Source: Tokyopop) """
-animeRelated	[b'Vassalord.']
-animeCharacters	[b'Rayflo, Johnny', b'Chrishunds, Charles', b'Marie', b'Minea', b'Famille']
-animeVoices	[b'\nFujiwara, Keiji\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nKobayashi, Misa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuroki, Rui\n\nProducer\n\n', b'\nNakazawa, Kazuto\n\nDirector, Key Animation, Chief Animation Director\n\n', b'\nChrono, Nanae\n\nOriginal Creator\n\n', b'\nHonda, Takeshi\n\nKey Animation\n\n']
+animePopularity	3260
+animeDescription	"Charley, a cyborg vampire who does the Vatican's dirty work, is the thrall of the local vampire playboy Johnny Rayflo. As the two fight crime—and each other—hilarity, violence and sacrilege ensue! But can Charley resist his own desperate cravings for blood? Find out as the devilish duo go up against a childlike vampire princess, a mysterious branch of the Unitarian Church...and one another. 
+
+(Source: Tokyopop) "
+animeRelated	['Vassalord.']
+animeCharacters	['Rayflo, Johnny', 'Chrishunds, Charles', 'Marie', 'Minea', 'Famille']
+animeVoices	['Fujiwara, Keiji', 'Okiayu, Ryoutarou', 'Kadowaki, Mai', 'Satou, Rina', 'Kobayashi, Misa']
+animeStaff	[['Kuroki, Rui', 'Producer'], ['Nakazawa, Kazuto', 'Director, Key Animation, Chief Animation Director'], ['Chrono, Nanae', 'Original Creator'], ['Honda, Takeshi', 'Key Animation']]

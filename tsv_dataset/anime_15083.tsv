@@ -1,5 +1,5 @@
-animeTitle	b'Bunna yo Ki kara Orite Koi'
-animeType	b'Movie'
+animeTitle	Bunna yo Ki kara Orite Koi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Animated children's story about a nonconformist but brave frog. Bunna wants to challenge his community's status quo by learning about the world outside.\n\n(Source: AniDB)"""
+animePopularity	16390
+animeDescription	"Animated children's story about a nonconformist but brave frog. Bunna wants to challenge his community's status quo by learning about the world outside.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Bunna']
-animeVoices	[b'\nSakakibara, Ikue\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Mitsuru\n\nAnimation Director\n\n', b'\nKabashima, Yoshio\n\nAnimation Director\n\n']
+animeCharacters	['Bunna']
+animeVoices	['Sakakibara, Ikue']
+animeStaff	[['Suzuki, Mitsuru', 'Animation Director'], ['Kabashima, Yoshio', 'Animation Director']]

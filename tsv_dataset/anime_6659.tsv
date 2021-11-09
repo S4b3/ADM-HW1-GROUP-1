@@ -1,5 +1,5 @@
-animeTitle	b'Kuusou Kagaku Sekai Gulliver Boy'
-animeType	b'TV'
+animeTitle	Kuusou Kagaku Sekai Gulliver Boy
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.41
 animeUsers	259
 animeRank	
-animePopularity	
-animeDescription	"b""Gulliver, a boy born with the ability to use magic was forced against his will to attend a magician school to improve his abilities to protect his city. He manages to escape just to find out that his home town was destroyed by the evil Judau's army. Judau personally kills his father and oaths to kill Gulliver as well. Meanwhile Gulliver and his friend Eddison rescue a girl named Misty who is running away from Judau. Along with a fairy named Phoebe, a lone wolf ninja named Gecko and an ancient ship; Gulliver and his friends set out on an adventure to defeat Judau and to discover the secrets of Atlantis.\n\n(Source: ANN)"""
+animePopularity	10616
+animeDescription	"Gulliver, a boy born with the ability to use magic was forced against his will to attend a magician school to improve his abilities to protect his city. He manages to escape just to find out that his home town was destroyed by the evil Judau's army. Judau personally kills his father and oaths to kill Gulliver as well. Meanwhile Gulliver and his friend Eddison rescue a girl named Misty who is running away from Judau. Along with a fairy named Phoebe, a lone wolf ninja named Gecko and an ancient ship; Gulliver and his friends set out on an adventure to defeat Judau and to discover the secrets of Atlantis.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Phoebe', b'Judau', b'Edison', b'Misty', b'Toscanni, Gulliver', b'Full Moon Baron', b'Lawrence', b'Lee 10 Bai', b'Budo Muscle', b'Toscanni, Papa']
-animeVoices	[b'\nYamazaki, Wakana\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nYokoyama, Chisa\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nShimada, Bin\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nAono, Takeshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMutou, Yuuji\n\nEpisode Director, Storyboard\n\n', b'\nOoba, Hideaki\n\nEpisode Director, Storyboard\n\n', b'\nKaizawa, Yukio\n\nEpisode Director\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n']
+animeCharacters	['Phoebe', 'Judau', 'Edison', 'Misty', 'Toscanni, Gulliver', 'Full Moon Baron', 'Lawrence', 'Lee 10 Bai', 'Budo Muscle', 'Toscanni, Papa']
+animeVoices	['Yamazaki, Wakana', 'Shiozawa, Kaneto', 'Ootani, Ikue', 'Yokoyama, Chisa', 'Yamaguchi, Kappei', 'Shimada, Bin', 'Morikawa, Toshiyuki', 'Chafurin', 'Takagi, Wataru', 'Aono, Takeshi']
+animeStaff	[['Mutou, Yuuji', 'Episode Director, Storyboard'], ['Ooba, Hideaki', 'Episode Director, Storyboard'], ['Kaizawa, Yukio', 'Episode Director'], ['Tanaka, Kouhei', 'Music']]

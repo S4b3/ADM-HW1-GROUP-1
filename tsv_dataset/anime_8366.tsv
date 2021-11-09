@@ -1,5 +1,5 @@
-animeTitle	b'Burning Blood'
-animeType	b'OVA'
+animeTitle	Burning Blood
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.06
 animeUsers	149
 animeRank	
-animePopularity	
-animeDescription	b'One night after leaving a club where he was playing trumpet, Ryou Takagi is jumped by a motorcycle gang. The scuffle spills out into the streets and causes a traffic accident. Because of this, Ryou is arrested and forced to do time. Upon his release, he has developed into a skilled boxer but trouble continues to find him.\n\n(Source: Wikipedia)'
-animeRelated	[b'B.B']
-animeCharacters	[b'Takagi, Ryou', b'Otobe, Makoto', b'Katou, Minoru', b'Suu-chan', b'Takagi, Gentarou', b'Wakabayashi, Kouichi', b'Moriyama, Jin', b'Kitsunebi no Atama', b'Matsubara, Koyuki ']
-animeVoices	[b'\nInoue, Kazuhiko\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nIkeda, Masaru\nJapanese\n', b'\nHori, Hideyuki\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Osamu\n\nDirector, Storyboard\n\n', b'\nHanyuu, Naoyasu\n\nEpisode Director\n\n', b'\nMizutani, Takaya\n\nEpisode Director\n\n', b'\nYuuki, Risa\n\nTheme Song Performance\n\n']
+animePopularity	11247
+animeDescription	"One night after leaving a club where he was playing trumpet, Ryou Takagi is jumped by a motorcycle gang. The scuffle spills out into the streets and causes a traffic accident. Because of this, Ryou is arrested and forced to do time. Upon his release, he has developed into a skilled boxer but trouble continues to find him.
+
+(Source: Wikipedia)"
+animeRelated	['B.B']
+animeCharacters	['Takagi, Ryou', 'Otobe, Makoto', 'Katou, Minoru', 'Suu-chan', 'Takagi, Gentarou', 'Wakabayashi, Kouichi', 'Moriyama, Jin', 'Kitsunebi no Atama', 'Matsubara, Koyuki ']
+animeVoices	['Inoue, Kazuhiko', 'Genda, Tesshou', 'Seki, Toshihiko', 'Mizutani, Yuuko', 'Ikeda, Masaru', 'Hori, Hideyuki', 'Hayami, Show', 'Ootsuka, Akio', 'Hidaka, Noriko']
+animeStaff	[['Dezaki, Osamu', 'Director, Storyboard'], ['Hanyuu, Naoyasu', 'Episode Director'], ['Mizutani, Takaya', 'Episode Director'], ['Yuuki, Risa', 'Theme Song Performance']]

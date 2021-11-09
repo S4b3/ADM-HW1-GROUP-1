@@ -1,5 +1,5 @@
-animeTitle	b'Chou Kidou Densetsu DinaGiga'
-animeType	b'OVA'
+animeTitle	Chou Kidou Densetsu DinaGiga
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.88
 animeUsers	432
 animeRank	
-animePopularity	
-animeDescription	"b'Touno Hikari is learning to pilot robots at a training facility. While she cannot do anything right, her instructors are interested in her for some reason. As the students learn to pilot the robots, they become suspicious of the goal of the training facility. Marie Vlaanderen transfers into the facility, and her instructor says that Marie has been training for all of her life and has the best chance of awakening ""it"".\n\n(Source: ANN)'"
+animePopularity	10480
+animeDescription	"Touno Hikari is learning to pilot robots at a training facility. While she cannot do anything right, her instructors are interested in her for some reason. As the students learn to pilot the robots, they become suspicious of the goal of the training facility. Marie Vlaanderen transfers into the facility, and her instructor says that Marie has been training for all of her life and has the best chance of awakening ""it"".
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Touno, Hikari', b'Vlaanderen, Marie', b'Izumizaki, Nana', b'Mutsu, Toshihiro', b'Kuji, Ayaka', b'Tanakura, Masao', b'Inamura, Airi', b'Unazuki, Nao']
-animeVoices	[b'\nOmimura, Mayuko\nJapanese\n', b'\nMiyamura, Yuko\nJapanese\n', b'\nIkezawa, Haruna\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nSakuma, Rei\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nMutou, Sumi\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshinaga, Naoyuki\n\nDirector, Storyboard\n\n', b'\nYoshinari, Kou\n\nStoryboard\n\n', b'\nYoshinari, You\n\nKey Animation\n\n', b'\nMatsumoto, Norio\n\nKey Animation\n\n']
+animeCharacters	['Touno, Hikari', 'Vlaanderen, Marie', 'Izumizaki, Nana', 'Mutsu, Toshihiro', 'Kuji, Ayaka', 'Tanakura, Masao', 'Inamura, Airi', 'Unazuki, Nao']
+animeVoices	['Omimura, Mayuko', 'Miyamura, Yuko', 'Ikezawa, Haruna', 'Onosaka, Masaya', 'Sakuma, Rei', 'Tobita, Nobuo', 'Mutou, Sumi', 'Iizuka, Mayumi']
+animeStaff	[['Yoshinaga, Naoyuki', 'Director, Storyboard'], ['Yoshinari, Kou', 'Storyboard'], ['Yoshinari, You', 'Key Animation'], ['Matsumoto, Norio', 'Key Animation']]

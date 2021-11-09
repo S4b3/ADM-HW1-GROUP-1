@@ -1,5 +1,5 @@
-animeTitle	b'Mahoutsukai Sally 2'
-animeType	b'TV'
+animeTitle	Mahoutsukai Sally 2
+animeType	TV
 animeNumEpisode	88
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.49
 animeUsers	431
 animeRank	
-animePopularity	
-animeDescription	"b""During Sally's coronation ceremony in the magic world, she hears her human friends back on Earth are in trouble. Despite the warnings from her parents, she escapes to Earth to help her friends. Because she was caught using magic in front of humans, she had to erase her friends' memories. Now Sally will remain on Earth so she can regain Sumire and Yoshiko's friendship while helping other humans in trouble.\n\nThis is a sequel and reboot of the original series."""
-animeRelated	[b'Mahoutsukai Sally', b'Mahoutsukai Sally (Movie)', b'Mahoutsukai Sally Specials']
-animeCharacters	[b'Yumeno, Sally', b'Kasugano, Sumire', b'Poron', b'Hanamura, Yoshiko']
-animeVoices	[b'\nYamamoto, Yuriko\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nIchiryuusai, Teiyuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKasai, Osamu\n\nDirector\n\n', b'\nAsakawa, Hiroko\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nTchaikovsky, Pyotr Ilyich\n\nMusic\n\n', b'\nYokoyama, Mitsuteru\n\nOriginal Creator\n\n']
+animePopularity	10482
+animeDescription	"During Sally's coronation ceremony in the magic world, she hears her human friends back on Earth are in trouble. Despite the warnings from her parents, she escapes to Earth to help her friends. Because she was caught using magic in front of humans, she had to erase her friends' memories. Now Sally will remain on Earth so she can regain Sumire and Yoshiko's friendship while helping other humans in trouble.
+
+This is a sequel and reboot of the original series."
+animeRelated	['Mahoutsukai Sally', 'Mahoutsukai Sally (Movie)', 'Mahoutsukai Sally Specials']
+animeCharacters	['Yumeno, Sally', 'Kasugano, Sumire', 'Poron', 'Hanamura, Yoshiko']
+animeVoices	['Yamamoto, Yuriko', 'Hisakawa, Aya', 'Ichiryuusai, Teiyuu']
+animeStaff	[['Kasai, Osamu', 'Director'], ['Asakawa, Hiroko', 'Theme Song Performance, Inserted Song Performance'], ['Tchaikovsky, Pyotr Ilyich', 'Music'], ['Yokoyama, Mitsuteru', 'Original Creator']]

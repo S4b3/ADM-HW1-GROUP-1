@@ -1,5 +1,5 @@
-animeTitle	b'Poputepipikku Kinen'
-animeType	b'ONA'
+animeTitle	Poputepipikku Kinen
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,25 @@ animeNumMembers
 animeScore	6.29
 animeUsers	1609
 animeRank	
-animePopularity	
-animeDescription	"b""This is a 2:15 (4:30 including the rerun) short created to promote the (JRA) Japan Racing Association's Umabi service.\n\nThe short is interactive originally, insofar as you can create your own character who will then appear in the audience at given points in the short. This video uses the default character provided.\n\nVAs used in the short:\n\nFirst half:\nPopuko: Mikako Komatsu\nPipimi: Sumire Uesaka\n\nSecond half:\nPopuko: Ryuusei Nakao\nPipimi: Norio Wakamoto\n\nThis is the same combination of VAs that was used for episode 3 of the TV series.\n\n(Source: MyaaSubs)"""
-animeRelated	[b'Poputepipikku']
-animeCharacters	[b'Popuko', b'Pipimi']
+animePopularity	7042
+animeDescription	"This is a 2:15 (4:30 including the rerun) short created to promote the (JRA) Japan Racing Association's Umabi service.
+
+The short is interactive originally, insofar as you can create your own character who will then appear in the audience at given points in the short. This video uses the default character provided.
+
+VAs used in the short:
+
+First half:
+Popuko: Mikako Komatsu
+Pipimi: Sumire Uesaka
+
+Second half:
+Popuko: Ryuusei Nakao
+Pipimi: Norio Wakamoto
+
+This is the same combination of VAs that was used for episode 3 of the TV series.
+
+(Source: MyaaSubs)"
+animeRelated	['Poputepipikku']
+animeCharacters	['Popuko', 'Pipimi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nAoki, Jun\n\nDirector, Episode Director, Storyboard, Setting, Layout, Key Animation, Director of Photography, Character Design, Editing\n\n']
+animeStaff	[['Aoki, Jun', 'Director, Episode Director, Storyboard, Setting, Layout, Key Animation, Director of Photography, Character Design, Editing']]

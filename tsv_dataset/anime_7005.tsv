@@ -1,5 +1,5 @@
-animeTitle	b'Yotsunoha'
-animeType	b'OVA'
+animeTitle	Yotsunoha
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.34
 animeUsers	5141
 animeRank	
-animePopularity	
-animeDescription	b'Based on the game by Haikuo-Soft.\n\nA story about the reunion of 4 childhood friends, Yuzuki, Matsuri, Nono and Makoto, in their deserted old school campus, Mochitsuki Academy. 3 years ago, they buried a time capsule under a tree inside the school and made a promise. A promise to meet again after exactly 3 years from that day. And the day of promise has finally arrived.\n\n(Source: AniDB)'
-animeRelated	[b'Yotsunoha']
-animeCharacters	[b'Nekomiya, Nono', b'Yuuki, Makoto', b'Iori, Yuzuki', b'Amachi, Matsuri', b'Ru', b'Yuki, Arisa', b'Shiba, Daisuke']
-animeVoices	[b'\nSakakibara, Yui\nJapanese\n', b'\nTasaka, Hideki\nJapanese\n', b'\nGotou, Yuuko\nJapanese\n', b'\nGotou, Mai\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nMiyashita, Eiji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishikiori, Hiroshi\n\nDirector, Screenplay\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nSakakibara, Yui\n\nTheme Song Performance\n\n', b'\nChata\n\nTheme Song Performance\n\n']
+animePopularity	5122
+animeDescription	"Based on the game by Haikuo-Soft.
+
+A story about the reunion of 4 childhood friends, Yuzuki, Matsuri, Nono and Makoto, in their deserted old school campus, Mochitsuki Academy. 3 years ago, they buried a time capsule under a tree inside the school and made a promise. A promise to meet again after exactly 3 years from that day. And the day of promise has finally arrived.
+
+(Source: AniDB)"
+animeRelated	['Yotsunoha']
+animeCharacters	['Nekomiya, Nono', 'Yuuki, Makoto', 'Iori, Yuzuki', 'Amachi, Matsuri', 'Ru', 'Yuki, Arisa', 'Shiba, Daisuke']
+animeVoices	['Sakakibara, Yui', 'Tasaka, Hideki', 'Gotou, Yuuko', 'Gotou, Mai', 'Iguchi, Yuka', 'Yahagi, Sayuri', 'Miyashita, Eiji']
+animeStaff	[['Nishikiori, Hiroshi', 'Director, Screenplay'], ['Tsuruoka, Youta', 'Sound Director'], ['Sakakibara, Yui', 'Theme Song Performance'], ['Chata', 'Theme Song Performance']]

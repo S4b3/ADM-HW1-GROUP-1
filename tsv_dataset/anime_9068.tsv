@@ -1,5 +1,5 @@
-animeTitle	b'Early Reins'
-animeType	b'OVA'
+animeTitle	Early Reins
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.89
 animeUsers	1406
 animeRank	
-animePopularity	
-animeDescription	b'Early Reins features six beautiful women on a train en route to Sunshine Hill in the early 1800s. When the train is highjacked by robbers and the soldiers on board are caught unawares, another surprise is in store: these lovely ladies can fight! The heroine emerges as Margarette, a young woman determined to become a sheriff although she is somewhat lacking in experience. She gains plenty on this trip, however, and the ragtag team of Western warriors joins forces with another passenger, Spencer, to fight some nefarious bandits and guide the train to safety. \n\n(Source: AniDB)'
+animePopularity	8250
+animeDescription	"Early Reins features six beautiful women on a train en route to Sunshine Hill in the early 1800s. When the train is highjacked by robbers and the soldiers on board are caught unawares, another surprise is in store: these lovely ladies can fight! The heroine emerges as Margarette, a young woman determined to become a sheriff although she is somewhat lacking in experience. She gains plenty on this trip, however, and the ragtag team of Western warriors joins forces with another passenger, Spencer, to fight some nefarious bandits and guide the train to safety. 
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Willman, Helen', b'Dawson, Alice', b'Fellmondo, Lola', b'Hart, Margaret', b'Miller, Janet', b'White, Caroline', b'Butler', b'Spencer', b'Engineer', b'Jack']
-animeVoices	[b'\nMizutani, Yuuko\nJapanese\n', b'\nOosawa, Chiaki\nJapanese\n', b'\nYanagihara, Aiko\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nSasaki, Youko\nJapanese\n', b'\nTakeuchi, Junko\nJapanese\n', b'\nOgata, Mitsuru\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAsada, Yuuji\n\nDirector\n\n', b'\nTanaka, Eiko\n\nAnimation Check\n\n', b'\nSirabella, John\n\nExecutive Producer\n\n']
+animeCharacters	['Willman, Helen', 'Dawson, Alice', 'Fellmondo, Lola', 'Hart, Margaret', 'Miller, Janet', 'White, Caroline', 'Butler', 'Spencer', 'Engineer', 'Jack']
+animeVoices	['Mizutani, Yuuko', 'Oosawa, Chiaki', 'Yanagihara, Aiko', 'Kawakami, Tomoko', 'Sasaki, Youko', 'Takeuchi, Junko', 'Ogata, Mitsuru', 'Ishizuka, Unshou', 'Ogata, Kenichi', 'Morikawa, Toshiyuki']
+animeStaff	[['Asada, Yuuji', 'Director'], ['Tanaka, Eiko', 'Animation Check'], ['Sirabella, John', 'Executive Producer']]

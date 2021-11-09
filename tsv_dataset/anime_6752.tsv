@@ -1,5 +1,5 @@
-animeTitle	b'Joou Heika no Petite Angie'
-animeType	b'TV'
+animeTitle	Joou Heika no Petite Angie
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.39
 animeUsers	256
 animeRank	
-animePopularity	
-animeDescription	b'19th century London. Angie is a 12-year-old girl, descended from nobility. She once helped to solve the Queen\xe2\x80\x99s jewel robbery case and since then, the Queen has appointed her to work on particularly difficult cases. Her brilliance and courage overwhelm many grownups. She is assisted by other children and Detective Michael of Scotland Yard.\n\nThis series is full of fun, suspense and pathos, showing how Angie uses her wits to solve case after case.\n\n(Source: Nippon Animation)'
+animePopularity	10750
+animeDescription	"19th century London. Angie is a 12-year-old girl, descended from nobility. She once helped to solve the Queen’s jewel robbery case and since then, the Queen has appointed her to work on particularly difficult cases. Her brilliance and courage overwhelm many grownups. She is assisted by other children and Detective Michael of Scotland Yard.
+
+This series is full of fun, suspense and pathos, showing how Angie uses her wits to solve case after case.
+
+(Source: Nippon Animation)"
 animeRelated	[]
-animeCharacters	[b'Irington, Angie', b'Michael', b'Benjamin']
-animeVoices	[b'\nHan, Keiko\nJapanese\n', b'\nSogabe, Kazuyuki\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKurokawa, Fumio\n\nDirector\n\n', b'\nNitta, Yoshikata\n\nDirector, Episode Director, Storyboard\n\n', b'\nAnnou, Takashi\n\nEpisode Director\n\n', b'\nSenke, Kazuya\n\nTheme Song Lyrics\n\n']
+animeCharacters	['Irington, Angie', 'Michael', 'Benjamin']
+animeVoices	['Han, Keiko', 'Sogabe, Kazuyuki', 'Kimotsuki, Kaneta']
+animeStaff	[['Kurokawa, Fumio', 'Director'], ['Nitta, Yoshikata', 'Director, Episode Director, Storyboard'], ['Annou, Takashi', 'Episode Director'], ['Senke, Kazuya', 'Theme Song Lyrics']]

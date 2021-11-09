@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Fist'
-animeType	b'OVA'
+animeTitle	Dragon Fist
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	4.42
 animeUsers	503
 animeRank	
-animePopularity	
-animeDescription	b'The story follows Ling Fei-long, a Chinese transfer student living in Japan. Ling is the son of the leader of the White Dragon clan, one of four clans who live in the mountains of China and are descended from mythical beasts. After killing an ordinary human, Ling is banished to Japan so that he might learn about humanity and how to control his powers around them.'
-animeRelated	[b'Dragon Fist']
-animeCharacters	[b'Fei-long, Ling', b'Kaga, Naoki', b'Henchman B', b'Henchman C', b'Henchman A', b'Sugiura', b'Katano, Fuyuka']
-animeVoices	[b'\nSasaki, Nozomu\nJapanese\n', b'\nHashimoto, Kouichi\nJapanese\n', b'\nNakahara, Shigeru\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nYamaguchi, Ken\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nNishihara, Kumiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamauchi, Shigeyasu\n\nDirector\n\n', b'\nHashimoto, Maiko\n\nTheme Song Performance\n\n', b'\nKawai, Kenji\n\nMusic\n\n', b'\nAraki, Shingo\n\nAnimation Director, Character Design\n\n']
+animePopularity	10452
+animeDescription	The story follows Ling Fei-long, a Chinese transfer student living in Japan. Ling is the son of the leader of the White Dragon clan, one of four clans who live in the mountains of China and are descended from mythical beasts. After killing an ordinary human, Ling is banished to Japan so that he might learn about humanity and how to control his powers around them.
+animeRelated	['Dragon Fist']
+animeCharacters	['Fei-long, Ling', 'Kaga, Naoki', 'Henchman B', 'Henchman C', 'Henchman A', 'Sugiura', 'Katano, Fuyuka']
+animeVoices	['Sasaki, Nozomu', 'Hashimoto, Kouichi', 'Nakahara, Shigeru', 'Koyasu, Takehito', 'Yamaguchi, Ken', 'Matsumoto, Yasunori', 'Nishihara, Kumiko']
+animeStaff	[['Yamauchi, Shigeyasu', 'Director'], ['Hashimoto, Maiko', 'Theme Song Performance'], ['Kawai, Kenji', 'Music'], ['Araki, Shingo', 'Animation Director, Character Design']]

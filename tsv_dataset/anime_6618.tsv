@@ -1,5 +1,5 @@
-animeTitle	b'Video Senshi Lezarion'
-animeType	b'TV'
+animeTitle	Video Senshi Lezarion
+animeType	TV
 animeNumEpisode	45
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.41
 animeUsers	179
 animeRank	
-animePopularity	
-animeDescription	"b""Takashi Katori is a big fan of online games, and so is his American friend Sarah. However, one of their RPGs goes too far, as their virtual world and the Lezarion robot that Takashi created for the game somehow mix with reality. Takashi is caught, but later the Earth Governement discovers that an evil scientist from the Moon (now a sort of abandoned colony with restricted access) is hacking into virtual worlds and security, so they force Takashi to pilot the Lezarion and, with Sarah's help, fight evil and protect the Earth.\n\n(Source: ANN)"""
+animePopularity	11255
+animeDescription	"Takashi Katori is a big fan of online games, and so is his American friend Sarah. However, one of their RPGs goes too far, as their virtual world and the Lezarion robot that Takashi created for the game somehow mix with reality. Takashi is caught, but later the Earth Governement discovers that an evil scientist from the Moon (now a sort of abandoned colony with restricted access) is hacking into virtual worlds and security, so they force Takashi to pilot the Lezarion and, with Sarah's help, fight evil and protect the Earth.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Katori, Takashi', b'Olivia', b'Katori, Kensuke', b'Monroe', b'Blue, Heim', b'Debit', b'Katori, Kei', b'Katori, Youko', b'Sarah', b'Sylvester']
-animeVoices	[b'\nHironaka, Masashi\nJapanese\n', b'\nHan, Keiko\nJapanese\n', b'\nKanie, Eiji\nJapanese\n', b'\nKawanami, Yoko\nJapanese\n', b'\nTaki, Masaya\nJapanese\n', b'\nShioya, Yoku\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nYamada, Eiko\nJapanese\n', b'\nNoda, Keiichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorishita, Kouzou\n\nDirector, Episode Director, Storyboard\n\n', b'\nYamauchi, Shigeyasu\n\nEpisode Director, Storyboard\n\n', b'\nYamayoshi, Yasuo\n\nEpisode Director, Storyboard\n\n', b'\nOchi, Kazuhiro\n\nStoryboard, Animation Director\n\n']
+animeCharacters	['Katori, Takashi', 'Olivia', 'Katori, Kensuke', 'Monroe', 'Blue, Heim', 'Debit', 'Katori, Kei', 'Katori, Youko', 'Sarah', 'Sylvester']
+animeVoices	['Hironaka, Masashi', 'Han, Keiko', 'Kanie, Eiji', 'Kawanami, Yoko', 'Taki, Masaya', 'Shioya, Yoku', 'Furuya, Toru', 'Yamada, Eiko', 'Noda, Keiichi']
+animeStaff	[['Morishita, Kouzou', 'Director, Episode Director, Storyboard'], ['Yamauchi, Shigeyasu', 'Episode Director, Storyboard'], ['Yamayoshi, Yasuo', 'Episode Director, Storyboard'], ['Ochi, Kazuhiro', 'Storyboard, Animation Director']]

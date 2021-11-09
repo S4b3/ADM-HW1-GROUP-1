@@ -1,5 +1,5 @@
-animeTitle	b'Futakoi'
-animeType	b'TV'
+animeTitle	Futakoi
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.47
 animeUsers	14668
 animeRank	
-animePopularity	
-animeDescription	b'With his mother dead and his father working abroad, Futami Nozomu returns to the town where he lived as a child, to attend high school and work part-time at a local shrine. He soon finds himself caught up in a local legend of twin girls loving the same man. And there are many twin girls in this town....\n\n(Source: ANN)'
-animeRelated	[b'Futakoi Alternative']
-animeCharacters	[b'Sakurazuki, Kira', b'Sakurazuki, Yura', b'Ichijou, Kaoruko', b'Ichijou, Sumireko', b'Futami, Nozomu', b'Shirogane, Sara', b'Shirogane, Souju', b'Hinagiku, Lulu', b'Hinagiku, Lala', b'Momoi, Mai']
-animeVoices	[b'\nItsuki, Yui\nJapanese\n', b'\nTsunakake, Hiromi\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nTakagi, Motoki\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nHasegawa, Shizuka\nJapanese\n', b'\nHase, Yurina\nJapanese\n', b'\nSango, Minako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTomisawa, Nobuo\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\neufonius\n\nTheme Song Performance\n\n', b'\nYokotani, Masahiro\n\nScreenplay\n\n']
+animePopularity	3148
+animeDescription	"With his mother dead and his father working abroad, Futami Nozomu returns to the town where he lived as a child, to attend high school and work part-time at a local shrine. He soon finds himself caught up in a local legend of twin girls loving the same man. And there are many twin girls in this town....
+
+(Source: ANN)"
+animeRelated	['Futakoi Alternative']
+animeCharacters	['Sakurazuki, Kira', 'Sakurazuki, Yura', 'Ichijou, Kaoruko', 'Ichijou, Sumireko', 'Futami, Nozomu', 'Shirogane, Sara', 'Shirogane, Souju', 'Hinagiku, Lulu', 'Hinagiku, Lala', 'Momoi, Mai']
+animeVoices	['Itsuki, Yui', 'Tsunakake, Hiromi', 'Horie, Yui', 'Koshimizu, Ami', 'Takagi, Motoki', 'Mizuhashi, Kaori', 'Kadowaki, Mai', 'Hasegawa, Shizuka', 'Hase, Yurina', 'Sango, Minako']
+animeStaff	[['Tomisawa, Nobuo', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['eufonius', 'Theme Song Performance'], ['Yokotani, Masahiro', 'Screenplay']]

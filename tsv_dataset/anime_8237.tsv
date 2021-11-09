@@ -1,5 +1,5 @@
-animeTitle	b'Dr. Slump Movie 05: Arale-chan Hoyoyo! Yume no Miyako Mechapolis'
-animeType	b'Movie'
+animeTitle	Dr. Slump Movie 05: Arale-chan Hoyoyo! Yume no Miyako Mechapolis
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.09
 animeUsers	364
 animeRank	
-animePopularity	
-animeDescription	b'Arale and her friends from Penguin Village, after watching a movie that mentions Mechapolis, a mecha city, express a desire that it was real. That same night all the children get abducted and end up in the real Mechapolis! They learn that for that night every wish they have will be granted. What could possibly go wrong...\n\n(Source: M74)'
-animeRelated	[b'Dr. Slump: Arale-chan']
-animeCharacters	[b'Norimaki, Arale', b'Norimaki, Senbei', b'Suppaman', b'Norimaki, Gajira', b'Kimidori, Akane', b'Sarada, Kinoko', b'Obotchaman', b'Yamabuki, Midori', b'Tsun, Tsururin', b'Tsun, Tsukutsun']
-animeVoices	[b'\nKoyama, Mami\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n', b'\nHorie, Mitsuko\nJapanese\n', b'\nMukai, Mariko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAshida, Toyoo\n\nDirector\n\n', b'\nToriyama, Akira\n\nOriginal Creator\n\n', b'\nKikuchi, Shunsuke\n\nMusic\n\n', b'\nSuda, Masami\n\nKey Animation\n\n']
+animePopularity	10716
+animeDescription	"Arale and her friends from Penguin Village, after watching a movie that mentions Mechapolis, a mecha city, express a desire that it was real. That same night all the children get abducted and end up in the real Mechapolis! They learn that for that night every wish they have will be granted. What could possibly go wrong...
+
+(Source: M74)"
+animeRelated	['Dr. Slump: Arale-chan']
+animeCharacters	['Norimaki, Arale', 'Norimaki, Senbei', 'Suppaman', 'Norimaki, Gajira', 'Kimidori, Akane', 'Sarada, Kinoko', 'Obotchaman', 'Yamabuki, Midori', 'Tsun, Tsururin', 'Tsun, Tsukutsun']
+animeVoices	['Koyama, Mami', 'Utsumi, Kenji', 'Genda, Tesshou', 'Sugiyama, Kazuko', 'Horie, Mitsuko', 'Mukai, Mariko']
+animeStaff	[['Ashida, Toyoo', 'Director'], ['Toriyama, Akira', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music'], ['Suda, Masami', 'Key Animation']]

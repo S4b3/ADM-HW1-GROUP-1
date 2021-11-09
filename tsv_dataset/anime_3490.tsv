@@ -1,5 +1,5 @@
-animeTitle	b'Kindaichi Shounen no Jikenbo Movie 1: Operazakan - Aratanaru Satsujin'
-animeType	b'Movie'
+animeTitle	Kindaichi Shounen no Jikenbo Movie 1: Operazakan - Aratanaru Satsujin
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.07
 animeUsers	1063
 animeRank	
-animePopularity	
-animeDescription	"b'Invited for a anniversary celebration, Kindaichi, Miyuki and inspector Kenmochi re-visit the Opera House. There they discover that a play of ""The Phantom of the Opera"" is being rehearsed again. However, it doesn\'t take long when members of the acting troupe are killed by the ""Phantom"". Kindaichi will once again have to solve a murder series in the Opera House. \n\n(Source: ANN)'"
-animeRelated	[b'Kindaichi Shounen no Jikenbo', b'Kindaichi Shounen no Jikenbo Specials']
-animeCharacters	[b'Kindaichi, Hajime', b'Nanase, Miyuki', b'Kenmochi, Isamu', b'Shinjouji, Seiko', b'Makube, Seiji', b'Saeki, Ryouko', b'Eguchi, Rokurou', b'Kurosawa, Mika', b'Midorikawa, Yukio', b'Noujou, Kousaburou']
-animeVoices	[b'\nYamaguchi, Kappei\nJapanese\n', b'\nNakagawa, Akiko\nJapanese\n', b'\nNatsuyagi, Isao\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nOhba, Mahito\nJapanese\n', b'\nYoshida, Rihoko\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n', b'\nTsuburaya, Yuuko\nJapanese\n', b'\nChiba, Isshin\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuwa, Michihiko\n\nProducer\n\n', b'\nNishio, Daisuke\n\nDirector\n\n', b'\nKomuro, Tetsuya\n\nTheme Song Composition, Theme Song Arrangement\n\n', b'\nTsuburaya, Yuuko\n\nTheme Song Performance\n\n']
+animePopularity	8389
+animeDescription	"Invited for a anniversary celebration, Kindaichi, Miyuki and inspector Kenmochi re-visit the Opera House. There they discover that a play of ""The Phantom of the Opera"" is being rehearsed again. However, it doesn't take long when members of the acting troupe are killed by the ""Phantom"". Kindaichi will once again have to solve a murder series in the Opera House. 
+
+(Source: ANN)"
+animeRelated	['Kindaichi Shounen no Jikenbo', 'Kindaichi Shounen no Jikenbo Specials']
+animeCharacters	['Kindaichi, Hajime', 'Nanase, Miyuki', 'Kenmochi, Isamu', 'Shinjouji, Seiko', 'Makube, Seiji', 'Saeki, Ryouko', 'Eguchi, Rokurou', 'Kurosawa, Mika', 'Midorikawa, Yukio', 'Noujou, Kousaburou']
+animeVoices	['Yamaguchi, Kappei', 'Nakagawa, Akiko', 'Natsuyagi, Isao', 'Katsuki, Masako', 'Ohba, Mahito', 'Yoshida, Rihoko', 'Kikuchi, Masami', 'Tsuburaya, Yuuko', 'Chiba, Isshin', 'Hirata, Hiroaki']
+animeStaff	[['Suwa, Michihiko', 'Producer'], ['Nishio, Daisuke', 'Director'], ['Komuro, Tetsuya', 'Theme Song Composition, Theme Song Arrangement'], ['Tsuburaya, Yuuko', 'Theme Song Performance']]

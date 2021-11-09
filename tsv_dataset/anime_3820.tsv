@@ -1,5 +1,5 @@
-animeTitle	b'Yuki no Joou (TV)'
-animeType	b'TV'
+animeTitle	Yuki no Joou (TV)
+animeType	TV
 animeNumEpisode	36
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.0
 animeUsers	662
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the children's story by Hans Christian Andersen. \n\nGerda and Kai have been neighbors and best friends since childhood. Gerda is eleven, Kai twelve. They were happy children who worked and played as they should. All that changed when the Snow Queen's mirror broke. The shards spread all through the world, each containing evil. If a shard went inside your eye, it would turn your heart to ice. A shard went into Kai's eye. After that, he grew cold to those he loved. \n\nOne night, the Snow Queen came in her carriage and took Kai back to her ice castle at the farthest north point of the world. Everyone in Kai and Gerda's village didn't know where he went and believed he died from drowning in the frozen-over lake. Gerda doesn't believe this, for she dreamed of seeing Kai enter the carriage. When a drunk man admits that he also saw this, Gerda starts realizing that maybe what she saw wasn't a dream. She packs her things and goes on a journey to save Kai and bring him back home. \n\n(Source: Wikipedia)"""
-animeRelated	[b'Yuki no Joou']
-animeCharacters	[b'Gerda', b'Kai', b'Snow Queen', b'Peter', b'Ragi', b'Witch', b'Casper', b'Avatar of the Wind', b'Yohanna', b'Holger']
-animeVoices	[b'\nKawasumi, Ayako\nJapanese\n', b'\nNatsuki, Rio\nJapanese\n', b'\nSuzukaze, Mayo\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nNakamura, Tooru\nJapanese\n', b'\nIkeuchi, Junko\nJapanese\n', b'\nInoue, Jun\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nJou, Masako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Osamu\n\nDirector, Storyboard\n\n', b'\nShimada, Michiru\n\nScript\n\n', b'\nNakamura, Makoto\n\nScript\n\n', b'\nShimada, Shimada\n\nScript\n\n']
+animePopularity	7759
+animeDescription	"Based on the children's story by Hans Christian Andersen. 
+
+Gerda and Kai have been neighbors and best friends since childhood. Gerda is eleven, Kai twelve. They were happy children who worked and played as they should. All that changed when the Snow Queen's mirror broke. The shards spread all through the world, each containing evil. If a shard went inside your eye, it would turn your heart to ice. A shard went into Kai's eye. After that, he grew cold to those he loved. 
+
+One night, the Snow Queen came in her carriage and took Kai back to her ice castle at the farthest north point of the world. Everyone in Kai and Gerda's village didn't know where he went and believed he died from drowning in the frozen-over lake. Gerda doesn't believe this, for she dreamed of seeing Kai enter the carriage. When a drunk man admits that he also saw this, Gerda starts realizing that maybe what she saw wasn't a dream. She packs her things and goes on a journey to save Kai and bring him back home. 
+
+(Source: Wikipedia)"
+animeRelated	['Yuki no Joou']
+animeCharacters	['Gerda', 'Kai', 'Snow Queen', 'Peter', 'Ragi', 'Witch', 'Casper', 'Avatar of the Wind', 'Yohanna', 'Holger']
+animeVoices	['Kawasumi, Ayako', 'Natsuki, Rio', 'Suzukaze, Mayo', 'Yamaguchi, Kappei', 'Nakamura, Tooru', 'Ikeuchi, Junko', 'Inoue, Jun', 'Ootsuka, Akio', 'Jou, Masako']
+animeStaff	[['Dezaki, Osamu', 'Director, Storyboard'], ['Shimada, Michiru', 'Script'], ['Nakamura, Makoto', 'Script'], ['Shimada, Shimada', 'Script']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ikkitousen: Xtreme Xecutor'
-animeType	b'TV'
+animeTitle	Ikkitousen: Xtreme Xecutor
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.76
 animeUsers	17746
 animeRank	
-animePopularity	
-animeDescription	"b""Life gets crazy for Hakufu when she takes on a pupil that acts just like her! A tournament between the school heads start, but due to Hakufu's negligence, her pupil ends up taking her place. The tournament isn't what it seems, and the girls find themselves in the middle of a plot to take over the clans.\n\n(Source: FUNimation)"""
-animeRelated	[b'Ikkitousen: Great Guardians', b'Ikkitousen: Xtreme Xecutor Specials', b'Ikkitousen: Shuugaku Toushi Keppuuroku']
-animeCharacters	"[b""Kan'u, Unchou"", b'Ryomou, Shimei', b'Sonsaku, Hakufu', b'Mouki, Bachou', b'Shuuyu, Koukin', b'Ryuubi, Gentoku', b'Sousou, Moutoku', b'Chouhi, Ekitoku', b'Ryofu, Housen', b""Chou'un, Shiryuu""]"
-animeVoices	[b'\nNabatame, Hitomi\nJapanese\n', b'\nKaida, Yuuko\nJapanese\n', b'\nAsano, Masumi\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nShindou, Kei\nJapanese\n', b'\nAkagi, Susumu\nJapanese\n', b'\nChihara, Minori\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOhata, Koichi\n\nDirector, Series Composition\n\n', b'\nShimizu, Katsunori\n\nSound Director\n\n', b'\nYoshida, Shunji\n\nEpisode Director\n\n', b'\nHarada, Hiroshi\n\nStoryboard\n\n']
+animePopularity	2660
+animeDescription	"Life gets crazy for Hakufu when she takes on a pupil that acts just like her! A tournament between the school heads start, but due to Hakufu's negligence, her pupil ends up taking her place. The tournament isn't what it seems, and the girls find themselves in the middle of a plot to take over the clans.
+
+(Source: FUNimation)"
+animeRelated	['Ikkitousen: Great Guardians', 'Ikkitousen: Xtreme Xecutor Specials', 'Ikkitousen: Shuugaku Toushi Keppuuroku']
+animeCharacters	"[""Kan'u, Unchou"", 'Ryomou, Shimei', 'Sonsaku, Hakufu', 'Mouki, Bachou', 'Shuuyu, Koukin', 'Ryuubi, Gentoku', 'Sousou, Moutoku', 'Chouhi, Ekitoku', 'Ryofu, Housen', ""Chou'un, Shiryuu""]"
+animeVoices	['Nabatame, Hitomi', 'Kaida, Yuuko', 'Asano, Masumi', 'Endou, Aya', 'Hino, Satoshi', 'Shindou, Kei', 'Akagi, Susumu', 'Chihara, Minori', 'Watanabe, Akeno', 'Asakawa, Yuu']
+animeStaff	[['Ohata, Koichi', 'Director, Series Composition'], ['Shimizu, Katsunori', 'Sound Director'], ['Yoshida, Shunji', 'Episode Director'], ['Harada, Hiroshi', 'Storyboard']]

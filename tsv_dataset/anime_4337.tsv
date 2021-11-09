@@ -1,5 +1,5 @@
-animeTitle	b'Digimon Frontier: Ornismon Fukkatsu!!'
-animeType	b'Movie'
+animeTitle	Digimon Frontier: Ornismon Fukkatsu!!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.86
 animeUsers	9073
 animeRank	
-animePopularity	
-animeDescription	b'The five digi-destined children stumble upon an ancient island inhabited by two different types of digimon; The Beast types, and the Human types. When they see two young digimon-a beast and humanoid-have become friends, they decide something must be done about the feud.\n\n(Source: ANN)'
-animeRelated	[b'Digimon Frontier']
-animeCharacters	[b'Minamoto, Kouji', b'Kanbara, Takuya', b'Orimoto, Izumi', b'Shibayama, Junpei', b'Himi, Tomoki', b'Agnimon', b'Kimura, Kouichi', b'Neemon', b'Bokomon', b'Darcmon']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nTakeuchi, Junko\nJapanese\n', b'\nIshige, Sawa\nJapanese\n', b'\nShitanda, Michael\nJapanese\n', b'\nWatanabe, Kumiko\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n', b'\nUehara, Takako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImamura, Takahiro\n\nDirector\n\n', b'\nWada, Koji\n\nTheme Song Performance\n\n', b'\nMcGlynn, Mary Elizabeth\n\nADR Director\n\n', b'\nHongou, Akiyoshi\n\nOriginal Creator\n\n']
+animePopularity	4107
+animeDescription	"The five digi-destined children stumble upon an ancient island inhabited by two different types of digimon; The Beast types, and the Human types. When they see two young digimon-a beast and humanoid-have become friends, they decide something must be done about the feud.
+
+(Source: ANN)"
+animeRelated	['Digimon Frontier']
+animeCharacters	['Minamoto, Kouji', 'Kanbara, Takuya', 'Orimoto, Izumi', 'Shibayama, Junpei', 'Himi, Tomoki', 'Agnimon', 'Kimura, Kouichi', 'Neemon', 'Bokomon', 'Darcmon']
+animeVoices	['Kamiya, Hiroshi', 'Takeuchi, Junko', 'Ishige, Sawa', 'Shitanda, Michael', 'Watanabe, Kumiko', 'Suzumura, Kenichi', 'Kikuchi, Masami', 'Sugiyama, Kazuko', 'Uehara, Takako']
+animeStaff	[['Imamura, Takahiro', 'Director'], ['Wada, Koji', 'Theme Song Performance'], ['McGlynn, Mary Elizabeth', 'ADR Director'], ['Hongou, Akiyoshi', 'Original Creator']]

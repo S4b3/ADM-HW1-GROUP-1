@@ -1,5 +1,5 @@
-animeTitle	b'Shadowverse (TV)'
-animeType	b'TV'
+animeTitle	Shadowverse (TV)
+animeType	TV
 animeNumEpisode	48
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.68
 animeUsers	1935
 animeRank	
-animePopularity	
-animeDescription	"b'The hottest battle is about to begin! While attending Tensei Academy, Hiro Ryugasaki ends up acquiring a mysterious smartphone. It comes installed with the popular card game, Shadowverse! Meeting new rivals, facing major tournaments, forging bonds with friends... Shadowverse leads Hiro to all sorts of new experiences, all that serve to ""evolve"" him.\n\n(Source: Crunchyroll)'"
-animeRelated	[b'Shadowverse: Arisa Duelverse', b'Shadowverse', b'Shadowverse Flame', b'Shadowverse (TV) Recaps']
-animeCharacters	[b'Kurobane, Alice', b'Aberaldo, Maura', b'Ryuugasaki, Hiiro', b'Amamiya, Mimori', b'Shindou, Kazuki', b'Yonazuki, Lucia', b'Ijuuin, Kai', b'Yonazuki, Shiori', b'Shindou, Nii', b'Zaizenji, Miyabi']
-animeVoices	[b'\nOgura, Yui\nJapanese\n', b'\nIguchi, Yuuichi\nJapanese\n', b'\nKajiwara, Gakuto\nJapanese\n', b'\nHondo, Kaede\nJapanese\n', b'\nTaya, Hayato\nJapanese\n', b'\nEnoki, Junya\nJapanese\n', b'\nTanezaki, Atsumi\nJapanese\n', b'\nToyota, Moe\nJapanese\n', b'\nHasegawa, Ikumi\nJapanese\n', b'\nMatsuzaki, Rei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawaguchi, Keiichirou\n\nDirector\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nFLOW\n\nTheme Song Arrangement, Theme Song Performance\n\n', b'\nOgura, Yui\n\nTheme Song Performance\n\n']
+animePopularity	4954
+animeDescription	"The hottest battle is about to begin! While attending Tensei Academy, Hiro Ryugasaki ends up acquiring a mysterious smartphone. It comes installed with the popular card game, Shadowverse! Meeting new rivals, facing major tournaments, forging bonds with friends... Shadowverse leads Hiro to all sorts of new experiences, all that serve to ""evolve"" him.
+
+(Source: Crunchyroll)"
+animeRelated	['Shadowverse: Arisa Duelverse', 'Shadowverse', 'Shadowverse Flame', 'Shadowverse (TV) Recaps']
+animeCharacters	['Kurobane, Alice', 'Aberaldo, Maura', 'Ryuugasaki, Hiiro', 'Amamiya, Mimori', 'Shindou, Kazuki', 'Yonazuki, Lucia', 'Ijuuin, Kai', 'Yonazuki, Shiori', 'Shindou, Nii', 'Zaizenji, Miyabi']
+animeVoices	['Ogura, Yui', 'Iguchi, Yuuichi', 'Kajiwara, Gakuto', 'Hondo, Kaede', 'Taya, Hayato', 'Enoki, Junya', 'Tanezaki, Atsumi', 'Toyota, Moe', 'Hasegawa, Ikumi', 'Matsuzaki, Rei']
+animeStaff	[['Kawaguchi, Keiichirou', 'Director'], ['Iida, Satoki', 'Sound Director'], ['FLOW', 'Theme Song Arrangement, Theme Song Performance'], ['Ogura, Yui', 'Theme Song Performance']]

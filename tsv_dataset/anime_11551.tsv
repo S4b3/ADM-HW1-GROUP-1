@@ -1,5 +1,5 @@
-animeTitle	b'Tokyo Daigaku Monogatari'
-animeType	b'OVA'
+animeTitle	Tokyo Daigaku Monogatari
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.92
 animeUsers	1159
 animeRank	
-animePopularity	
-animeDescription	b'Based on long running manga by Tatsuya Egawa (Golden Boy). It tells the tale of final-year high-schooler, Murakami Naoki who falls for Mizuno Haruka as they make university entrance exams preparations. \n\n(Source: AniDB)'
-animeRelated	[b'Tokyo Daigaku Monogatari']
-animeCharacters	[b'Mizuno, Haruka']
+animePopularity	8326
+animeDescription	"Based on long running manga by Tatsuya Egawa (Golden Boy). It tells the tale of final-year high-schooler, Murakami Naoki who falls for Mizuno Haruka as they make university entrance exams preparations. 
+
+(Source: AniDB)"
+animeRelated	['Tokyo Daigaku Monogatari']
+animeCharacters	['Mizuno, Haruka']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujimoto, Jirou\n\nDirector, Episode Director, Script, Storyboard, Screenplay\n\n', b'\nEgawa, Tatsuya\n\nOriginal Creator\n\n', b'\nSekiya, Yoshihiro\n\nDirector of Photography\n\n', b'\nArai, Kazuhiro\n\nArt Director\n\n']
+animeStaff	[['Fujimoto, Jirou', 'Director, Episode Director, Script, Storyboard, Screenplay'], ['Egawa, Tatsuya', 'Original Creator'], ['Sekiya, Yoshihiro', 'Director of Photography'], ['Arai, Kazuhiro', 'Art Director']]

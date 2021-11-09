@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito'
-animeType	b'Movie'
+animeTitle	Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	6.49
 animeUsers	559
 animeRank	
-animePopularity	
-animeDescription	b'The second Dragon Quest Dai no Daibouken movie. The story takes place between episode 18 and 19 of the TV series.\n'
-animeRelated	[b'Dragon Quest: Dai no Daibouken (TV)', b'Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun']
-animeCharacters	[b'Popp', b'Dai', b'Maam', b'De Zinuar III, Avan', b'Hadlar', b'Gome']
-animeVoices	[b'\nNanba, Keiichi\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n', b'\nTominaga, Miina\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nTouma, Yumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShibata, Hiroki\n\nDirector\n\n', b'\nHayama, Kenji\n\nKey Animation\n\n']
+animePopularity	9533
+animeDescription	"The second Dragon Quest Dai no Daibouken movie. The story takes place between episode 18 and 19 of the TV series.
+"
+animeRelated	['Dragon Quest: Dai no Daibouken (TV)', 'Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun']
+animeCharacters	['Popp', 'Dai', 'Maam', 'De Zinuar III, Avan', 'Hadlar', 'Gome']
+animeVoices	['Nanba, Keiichi', 'Fujita, Toshiko', 'Tominaga, Miina', 'Tanaka, Hideyuki', 'Aono, Takeshi', 'Touma, Yumi']
+animeStaff	[['Shibata, Hiroki', 'Director'], ['Hayama, Kenji', 'Key Animation']]

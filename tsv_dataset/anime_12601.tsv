@@ -1,5 +1,5 @@
-animeTitle	b'Oraa Guzura Dado'
-animeType	b'TV'
+animeTitle	Oraa Guzura Dado
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A comedy about a kind but slow-witted dragon who appears from a nearby volcanic eruption. People find Guzura quite charming and interesting as he can consume metal and change it into useful devices.\n\n(Source: AniDB)'
-animeRelated	[b'Oraa Guzura Dado (1987)', b'Pandora to Akubi']
-animeCharacters	[b'Guzura', b'Bonta', b'Narrator']
-animeVoices	[b'\nOohira, Tooru\nJapanese\n', b'\nAzuma, Mie\nJapanese\n', b'\nFutamata, Issei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector, Episode Director, Original Creator\n\n', b'\nKinoshita, Renzo\n\nEpisode Director\n\n', b'\nToriumi, Jinzou\n\nScript, Planning\n\n', b'\nColumbia Yurikago Kai\n\nTheme Song Performance\n\n']
+animePopularity	14045
+animeDescription	"A comedy about a kind but slow-witted dragon who appears from a nearby volcanic eruption. People find Guzura quite charming and interesting as he can consume metal and change it into useful devices.
+
+(Source: AniDB)"
+animeRelated	['Oraa Guzura Dado (1987)', 'Pandora to Akubi']
+animeCharacters	['Guzura', 'Bonta', 'Narrator']
+animeVoices	['Oohira, Tooru', 'Azuma, Mie', 'Futamata, Issei']
+animeStaff	[['Sasagawa, Hiroshi', 'Director, Episode Director, Original Creator'], ['Kinoshita, Renzo', 'Episode Director'], ['Toriumi, Jinzou', 'Script, Planning'], ['Columbia Yurikago Kai', 'Theme Song Performance']]

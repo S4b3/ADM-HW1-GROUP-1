@@ -1,5 +1,5 @@
-animeTitle	b'Appleseed (Movie)'
-animeType	b'Movie'
+animeTitle	Appleseed (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	7.08
 animeUsers	39271
 animeRank	
-animePopularity	
-animeDescription	b'Growing out of the chaos of a global war, the city of Utopia is populated by humans and bioroids (artificial humans). On the surface, everything is harmonious, but tensions lurk. Into this seemingly perfect society comes a survivor of the wars, Deunan Knute, who carries a legacy that will turn out to be of critical importance to the future of humanity. \n\n(Source: ANN)\n'
-animeRelated	[b'Appleseed', b'Appleseed Alpha', b'Appleseed Saga Ex Machina']
-animeCharacters	[b'Knute, Deunan', b'Briareos', b'Areios, Athena', b'Hitomi', b'Uranus III, General Edward', b'Laius', b'Hestia', b'Nike', b'Glaucus', b'Deucalion']
-animeVoices	[b'\nKobayashi, Ai\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nKoyama, Mami\nJapanese\n', b'\nMatsuoka, Yuki\nJapanese\n', b'\nFujimoto, Yuzuru\nJapanese\n', b'\nKoyama, Takehiro\nJapanese\n', b'\nNishikawa, Ikuo\nJapanese\n', b'\nYamada, Miho\nJapanese\n', b'\nKaneko, Yoshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nSori, Fumihiko\n\nProducer\n\n', b'\nAramaki, Shinji\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n']
+animePopularity	2085
+animeDescription	"Growing out of the chaos of a global war, the city of Utopia is populated by humans and bioroids (artificial humans). On the surface, everything is harmonious, but tensions lurk. Into this seemingly perfect society comes a survivor of the wars, Deunan Knute, who carries a legacy that will turn out to be of critical importance to the future of humanity. 
+
+(Source: ANN)
+"
+animeRelated	['Appleseed', 'Appleseed Alpha', 'Appleseed Saga Ex Machina']
+animeCharacters	['Knute, Deunan', 'Briareos', 'Areios, Athena', 'Hitomi', 'Uranus III, General Edward', 'Laius', 'Hestia', 'Nike', 'Glaucus', 'Deucalion']
+animeVoices	['Kobayashi, Ai', 'Kosugi, Juurouta', 'Koyama, Mami', 'Matsuoka, Yuki', 'Fujimoto, Yuzuru', 'Koyama, Takehiro', 'Nishikawa, Ikuo', 'Yamada, Miho', 'Kaneko, Yoshiyuki']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Sori, Fumihiko', 'Producer'], ['Aramaki, Shinji', 'Director'], ['Tsuruoka, Youta', 'Sound Director']]

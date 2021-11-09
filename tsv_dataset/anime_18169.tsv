@@ -1,5 +1,5 @@
-animeTitle	b'Enbi'
-animeType	b'OVA'
+animeTitle	Enbi
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.43
 animeUsers	1712
 animeRank	
-animePopularity	
-animeDescription	"b""It's time for the local summer festival and Kentarou is accompanying Shizue, who has come to visit after being away for a few years. During the festival Kentarou leaves Shizue alone for a bit, and when he finds her again he sees a shocking scene...\n\nLater, Shizue goes to a local photo studio to pick up some photos from the summer festival, and decides to do a bit of modeling while there. Before long Kentarou also joins...\n\n(Source: AniDB)"""
-animeRelated	[b'Enbi']
-animeCharacters	[b'Shizue', b'Kentarou', b'Rumi']
-animeVoices	[b'\nAkimoto, Nerine\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurakami, Kotaro\n\nProducer, Planning\n\n', b'\nAwai, Shigeki\n\nDirector, Character Design\n\n', b'\nMiyabi, Tsuzuru\n\nOriginal Creator\n\n']
+animePopularity	7578
+animeDescription	"It's time for the local summer festival and Kentarou is accompanying Shizue, who has come to visit after being away for a few years. During the festival Kentarou leaves Shizue alone for a bit, and when he finds her again he sees a shocking scene...
+
+Later, Shizue goes to a local photo studio to pick up some photos from the summer festival, and decides to do a bit of modeling while there. Before long Kentarou also joins...
+
+(Source: AniDB)"
+animeRelated	['Enbi']
+animeCharacters	['Shizue', 'Kentarou', 'Rumi']
+animeVoices	['Akimoto, Nerine']
+animeStaff	[['Murakami, Kotaro', 'Producer, Planning'], ['Awai, Shigeki', 'Director, Character Design'], ['Miyabi, Tsuzuru', 'Original Creator']]

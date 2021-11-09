@@ -1,5 +1,5 @@
-animeTitle	b'Pyun Pyun Maru'
-animeType	b'TV'
+animeTitle	Pyun Pyun Maru
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The Ninja Pyun Pyun-Maru and his brother Chibi-Maru are working at an office that accepts anything. They solve unexpected happenings caused by other Ninjas. \n\n(Source: TOEI Animation Europe catalog)'
-animeRelated	[b'Hana no Zundamaru']
-animeCharacters	[b'Maru, Pyun Pyun', b'Chibimaru', b'Director', b'Sayuri', b'Kemeko']
-animeVoices	[b'\nTagami, Kazue\nJapanese\n', b'\nKatou, Midori\nJapanese\n', b'\nYanami, Jouji\nJapanese\n', b'\nShiraishi, Fuyumi\nJapanese\n', b'\nSoga, Machiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamaguchi, Yasuo\n\nEpisode Director\n\n', b'\nTsunoda, Jirou\n\nTheme Song Lyrics, Original Creator\n\n', b'\nNoda, Takuo\n\nKey Animation\n\n']
+animePopularity	14012
+animeDescription	"The Ninja Pyun Pyun-Maru and his brother Chibi-Maru are working at an office that accepts anything. They solve unexpected happenings caused by other Ninjas. 
+
+(Source: TOEI Animation Europe catalog)"
+animeRelated	['Hana no Zundamaru']
+animeCharacters	['Maru, Pyun Pyun', 'Chibimaru', 'Director', 'Sayuri', 'Kemeko']
+animeVoices	['Tagami, Kazue', 'Katou, Midori', 'Yanami, Jouji', 'Shiraishi, Fuyumi', 'Soga, Machiko']
+animeStaff	[['Yamaguchi, Yasuo', 'Episode Director'], ['Tsunoda, Jirou', 'Theme Song Lyrics, Original Creator'], ['Noda, Takuo', 'Key Animation']]

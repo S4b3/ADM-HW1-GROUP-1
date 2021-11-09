@@ -1,5 +1,5 @@
-animeTitle	b'Dorami-chan: Wow, The Kid Gang of Bandits'
-animeType	b'Movie'
+animeTitle	Dorami-chan: Wow, The Kid Gang of Bandits
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.02
 animeUsers	111
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis has been added for this series yet.\n\nClick here to update this information.'
+animePopularity	13753
+animeDescription	"No synopsis has been added for this series yet.
+
+Click here to update this information."
 animeRelated	[]
-animeCharacters	[b'Dorami']
+animeCharacters	['Dorami']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n', b'\nMizushima, Tsutomu\n\nProduction Assistant\n\n', b'\nMatsuda, Akihiko\n\nSound Effects\n\n', b'\nHayashi, Shizuka\n\nKey Animation\n\n']
+animeStaff	[['Fujiko, Fujio F.', 'Original Creator'], ['Mizushima, Tsutomu', 'Production Assistant'], ['Matsuda, Akihiko', 'Sound Effects'], ['Hayashi, Shizuka', 'Key Animation']]

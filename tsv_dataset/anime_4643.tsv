@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon Movie 09: Pokemon Ranger to Umi no Ouji Manaphy'
-animeType	b'Movie'
+animeTitle	Pokemon Movie 09: Pokemon Ranger to Umi no Ouji Manaphy
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.79
 animeUsers	45144
 animeRank	
-animePopularity	
-animeDescription	"b'Satoshi and his friends get lost in an unknown wasteland.  They eventually come across a ""Water Pokemon Show"" performed by the star of the Mariner Troupe, Hiromi.  Hiromi is a descendant of the troupe of Water People able to communicate with water pokemon, and she tells our heroes the legend that\'s been passed down by her people for generations.   According to legend, a temple the Water People built called ""The Water Temple Akuusha"" rests somewhere in the ocean, and a treasure called ""The Water Crown"" is hidden there.  It\'s said that no one has ever seen this treasure, but that changes when a Pokemon Ranger named Jack Walker (aka Jackie) appears to chase aftert it.\n\nJackie is on a top secret mission that has him protecting the egg of the leader of the water pokemon, Manaphy. This pokemon, called the ""Prince of the Sea,"" needs to be taken to the Water Temple Akuusha, so Satoshi-tachi and Hiromi decide to help him.  Along the way, a pirate named Phantom attacks our heroes from his great submarine.  Phantom plans to use the Water Crown\'s power to help him conquer the world, but he\'ll have to solve the mystery of Manaphy\'s egg first.  When the Rocket-Dan get into the mix, Jackie uses his Capture Styler to borrow the power of a nearby pokemon to stand up to them.  Satoshi and Pikachu enter the fray, but they still have to contend with the attacks of Phantom\'s powerful high tech mecha!  Suddenly, the egg starts to shine with a vivid light, and Manpahy is born!  \n\nWhat is the mystery of the legendary treasure?  What mysterious powers does Manaphy have?  Can Satoshi-tachi and Jackie complete their top secret mission?  The journey to reach the Water Temple Akuusha has begun!'"
-animeRelated	[b'Pokemon Ranger to Umi no Ouji Manaphy', b'Pokemon Advanced Generation']
-animeCharacters	[b'Pikachu', b'Satoshi', b'Takeshi', b'Haruka', b'Masato', b'Manaphy', b'Walker, Jack', b'The Phantom', b'Kojirou', b'Musashi']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nKawana, Midori\nJapanese\n', b'\nYamada, Fushigi\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nFujioka, Hiroshi\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nSonoda, Hideki\n\nScript\n\n', b'\nValencia, Amparo\n\nScript, ADR Director\n\n']
+animePopularity	1970
+animeDescription	"Satoshi and his friends get lost in an unknown wasteland.  They eventually come across a ""Water Pokemon Show"" performed by the star of the Mariner Troupe, Hiromi.  Hiromi is a descendant of the troupe of Water People able to communicate with water pokemon, and she tells our heroes the legend that's been passed down by her people for generations.   According to legend, a temple the Water People built called ""The Water Temple Akuusha"" rests somewhere in the ocean, and a treasure called ""The Water Crown"" is hidden there.  It's said that no one has ever seen this treasure, but that changes when a Pokemon Ranger named Jack Walker (aka Jackie) appears to chase aftert it.
+
+Jackie is on a top secret mission that has him protecting the egg of the leader of the water pokemon, Manaphy. This pokemon, called the ""Prince of the Sea,"" needs to be taken to the Water Temple Akuusha, so Satoshi-tachi and Hiromi decide to help him.  Along the way, a pirate named Phantom attacks our heroes from his great submarine.  Phantom plans to use the Water Crown's power to help him conquer the world, but he'll have to solve the mystery of Manaphy's egg first.  When the Rocket-Dan get into the mix, Jackie uses his Capture Styler to borrow the power of a nearby pokemon to stand up to them.  Satoshi and Pikachu enter the fray, but they still have to contend with the attacks of Phantom's powerful high tech mecha!  Suddenly, the egg starts to shine with a vivid light, and Manpahy is born!  
+
+What is the mystery of the legendary treasure?  What mysterious powers does Manaphy have?  Can Satoshi-tachi and Jackie complete their top secret mission?  The journey to reach the Water Temple Akuusha has begun!"
+animeRelated	['Pokemon Ranger to Umi no Ouji Manaphy', 'Pokemon Advanced Generation']
+animeCharacters	['Pikachu', 'Satoshi', 'Takeshi', 'Haruka', 'Masato', 'Manaphy', 'Walker, Jack', 'The Phantom', 'Kojirou', 'Musashi']
+animeVoices	['Ootani, Ikue', 'Matsumoto, Rica', 'Ueda, Yuuji', 'Kawana, Midori', 'Yamada, Fushigi', 'Shiratori, Yuri', 'Yamadera, Kouichi', 'Fujioka, Hiroshi', 'Miki, Shinichiro', 'Hayashibara, Megumi']
+animeStaff	[['Yuyama, Kunihiko', 'Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Sonoda, Hideki', 'Script'], ['Valencia, Amparo', 'Script, ADR Director']]

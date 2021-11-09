@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon: Pikachu no Fuyuyasumi (2000)'
-animeType	b'OVA'
+animeTitle	Pokemon: Pikachu no Fuyuyasumi (2000)
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.42
 animeUsers	3859
 animeRank	
-animePopularity	
-animeDescription	"b""Pikachu's Winter Vacations are three series of videos, each composed of several Pikachu shorts. All shorts deal with winter and Christmas. This is the second series and contains Winter Games & Stantler's Little Helpers."""
-animeRelated	[b'Pokemon', b'Pokemon: Pikachu no Fuyuyasumi', b'Pokemon: Pikachu no Fuyuyasumi (2001)']
-animeCharacters	[b'Pikachu', b'Satoshi', b'Takeshi', b'Kasumi', b'Nyarth', b'Togepi', b'Fushigidane', b'Narrator', b'Santa Claus']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nKoyama, Mami\nJapanese\n', b'\nIshimori, Takkou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n', b'\nSugimori, Ken\n\nOriginal Character Design\n\n']
+animePopularity	5671
+animeDescription	Pikachu's Winter Vacations are three series of videos, each composed of several Pikachu shorts. All shorts deal with winter and Christmas. This is the second series and contains Winter Games & Stantler's Little Helpers.
+animeRelated	['Pokemon', 'Pokemon: Pikachu no Fuyuyasumi', 'Pokemon: Pikachu no Fuyuyasumi (2001)']
+animeCharacters	['Pikachu', 'Satoshi', 'Takeshi', 'Kasumi', 'Nyarth', 'Togepi', 'Fushigidane', 'Narrator', 'Santa Claus']
+animeVoices	['Ootani, Ikue', 'Matsumoto, Rica', 'Ueda, Yuuji', 'Iizuka, Mayumi', 'Inuyama, Inuko', 'Koorogi, Satomi', 'Hayashibara, Megumi', 'Koyama, Mami', 'Ishimori, Takkou']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design']]

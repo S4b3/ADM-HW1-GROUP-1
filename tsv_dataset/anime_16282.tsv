@@ -1,5 +1,5 @@
-animeTitle	b'Ijiwaru Baasan'
-animeType	b'TV'
+animeTitle	Ijiwaru Baasan
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Based on a 1966 manga by Sazae-san creator Hasegawa Machiko.\n\nThis is another slice-of-everyday-life tale, centered around a spiteful old woman who causes trouble for neighbours with her constant bumbling and grumbling.\n\n(Source: ANN)'
-animeRelated	[b'Ijiwaru Baasan', b'Ijiwaru Baasan (1996)']
-animeCharacters	[b'Ishi']
+animePopularity	13983
+animeDescription	"Based on a 1966 manga by Sazae-san creator Hasegawa Machiko.
+
+This is another slice-of-everyday-life tale, centered around a spiteful old woman who causes trouble for neighbours with her constant bumbling and grumbling.
+
+(Source: ANN)"
+animeRelated	['Ijiwaru Baasan', 'Ijiwaru Baasan (1996)']
+animeCharacters	['Ishi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHasegawa, Machiko\n\nOriginal Creator\n\n', b'\nKawamoto, Shouhei\n\nArt Director\n\n']
+animeStaff	[['Hasegawa, Machiko', 'Original Creator'], ['Kawamoto, Shouhei', 'Art Director']]

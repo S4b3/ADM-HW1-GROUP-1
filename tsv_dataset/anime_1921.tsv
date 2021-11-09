@@ -1,5 +1,5 @@
-animeTitle	b'Minami-ke Omatase'
-animeType	b'OVA'
+animeTitle	Minami-ke Omatase
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.41
 animeUsers	11348
 animeRank	
-animePopularity	
-animeDescription	b'Minami-ke OVA bundled with the 10th volume of the manga.'
-animeRelated	[b'Minami-ke', b'Minami-ke Okaeri', b'Minami-ke Tadaima']
-animeCharacters	[b'Minami, Kana', b'Minami, Chiaki', b'Minami, Haruka', b'Hosaka', b'Makoto', b'Minami, Touma', b'Uchida, Yuka', b'Fujioka', b'Hitomi', b'Minami, Natsuki']
-animeVoices	[b'\nInoue, Marina\nJapanese\n', b'\nChihara, Minori\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nMorinaga, Rika\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nSaitou, Ayaka\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamanaka, Takahiro\n\nProducer\n\n', b'\nKawaguchi, Keiichirou\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nInoue, Marina\n\nTheme Song Performance\n\n']
+animePopularity	3742
+animeDescription	Minami-ke OVA bundled with the 10th volume of the manga.
+animeRelated	['Minami-ke', 'Minami-ke Okaeri', 'Minami-ke Tadaima']
+animeCharacters	['Minami, Kana', 'Minami, Chiaki', 'Minami, Haruka', 'Hosaka', 'Makoto', 'Minami, Touma', 'Uchida, Yuka', 'Fujioka', 'Hitomi', 'Minami, Natsuki']
+animeVoices	['Inoue, Marina', 'Chihara, Minori', 'Satou, Rina', 'Ono, Daisuke', 'Morinaga, Rika', 'Mizuki, Nana', 'Kitamura, Eri', 'Kakihara, Tetsuya', 'Saitou, Ayaka', 'Yoshino, Hiroyuki']
+animeStaff	[['Yamanaka, Takahiro', 'Producer'], ['Kawaguchi, Keiichirou', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Inoue, Marina', 'Theme Song Performance']]

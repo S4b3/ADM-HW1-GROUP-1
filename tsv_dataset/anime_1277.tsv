@@ -1,5 +1,5 @@
-animeTitle	b'Tsurune: Kazemai Koukou Kyuudoubu'
-animeType	b'TV'
+animeTitle	Tsurune: Kazemai Koukou Kyuudoubu
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.61
 animeUsers	41630
 animeRank	
-animePopularity	
-animeDescription	"b'""Tsurune""\xe2\x80\x94It\'s the sound made by the bowstring when an arrow is released, and the sound that inspired Minato Narumiya to learn Kyuudo, a modern Japanese martial art focusing on archery. However, an incident during his last middle school tournament caused him to quit the sport.\n\nBut soon, many factors conspire to make Minato take up the bow once again: the start of a new Kyuudo club in his high school, a chance encounter with a mysterious archer, and the support of his childhood friends, Seiya Takehaya and Ryouhei Yamanouchi. Together with his childhood friends and his new teammates, Kaito Onogi and Nanao Kisaragi, Minato rekindles his love for Kyuudo and works with his team toward their aim of winning the prefectural tournament.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Tsurune: Kazemai Koukou Kyuudoubu', b'Tsurune: Kazemai Koukou Kyuudoubu - Yabai', b'Tsurune: Kazemai Koukou Kyuudoubu Movie']
-animeCharacters	"[b'Takehaya, Seiya', b'Takigawa, Masaki', b'Narumiya, Minato', b'Kisaragi, Nanao', b'Onogi, Kaito', b'Yamanouchi, Ryouhei', b'Fujiwara, Shuu', b'Motomura, Hiroki', b'Sugawara, Senichi', b""Minato's Father""]"
-animeVoices	[b'\nIchikawa, Aoi\nJapanese\n', b'\nAsanuma, Shintaro\nJapanese\n', b'\nUemura, Yuuto\nJapanese\n', b'\nYano, Shougo\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nSuzuki, Ryouta\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nKobayashi, Yuusuke\nJapanese\n', b'\nMurozono, Takehiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakemoto, Yasuhiro\n\nProducer, Episode Director, Storyboard, Series Composition\n\n', b'\nYamamura, Takuya\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nYamada, Naoko\n\nEpisode Director, Storyboard\n\n']
+animePopularity	1487
+animeDescription	"""Tsurune""—It's the sound made by the bowstring when an arrow is released, and the sound that inspired Minato Narumiya to learn Kyuudo, a modern Japanese martial art focusing on archery. However, an incident during his last middle school tournament caused him to quit the sport.
+
+But soon, many factors conspire to make Minato take up the bow once again: the start of a new Kyuudo club in his high school, a chance encounter with a mysterious archer, and the support of his childhood friends, Seiya Takehaya and Ryouhei Yamanouchi. Together with his childhood friends and his new teammates, Kaito Onogi and Nanao Kisaragi, Minato rekindles his love for Kyuudo and works with his team toward their aim of winning the prefectural tournament.
+
+[Written by MAL Rewrite]"
+animeRelated	['Tsurune: Kazemai Koukou Kyuudoubu', 'Tsurune: Kazemai Koukou Kyuudoubu - Yabai', 'Tsurune: Kazemai Koukou Kyuudoubu Movie']
+animeCharacters	"['Takehaya, Seiya', 'Takigawa, Masaki', 'Narumiya, Minato', 'Kisaragi, Nanao', 'Onogi, Kaito', 'Yamanouchi, Ryouhei', 'Fujiwara, Shuu', 'Motomura, Hiroki', 'Sugawara, Senichi', ""Minato's Father""]"
+animeVoices	['Ichikawa, Aoi', 'Asanuma, Shintaro', 'Uemura, Yuuto', 'Yano, Shougo', 'Ishikawa, Kaito', 'Suzuki, Ryouta', 'Ono, Kensho', 'Terashima, Takuma', 'Kobayashi, Yuusuke', 'Murozono, Takehiro']
+animeStaff	[['Takemoto, Yasuhiro', 'Producer, Episode Director, Storyboard, Series Composition'], ['Yamamura, Takuya', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Yamada, Naoko', 'Episode Director, Storyboard']]

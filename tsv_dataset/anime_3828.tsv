@@ -1,5 +1,5 @@
-animeTitle	b'Starmyu in Halloween'
-animeType	b'OVA'
+animeTitle	Starmyu in Halloween
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.99
 animeUsers	609
 animeRank	
-animePopularity	
-animeDescription	"b'The new OVA will tell a story about Hoshitani and friends on Halloween. The OVA will feature a music video for the song ""Storytellers."" \n\n(Source: ANN)'"
-animeRelated	[b'Starmyu 2nd Season']
-animeCharacters	[b'Hoshitani, Yuuta', b'Tsukigami, Kaito', b'Kuga, Shuu', b'Nayuki, Tooru', b'Tengenji, Kakeru', b'Tatsumi, Rui', b'Toraishi, Izumi', b'Ageha, Riku', b'Kitahara, Ren', b'Ugawa, Akira']
-animeVoices	[b'\nHanae, Natsuki\nJapanese\n', b'\nLounsbery, Arthur\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nKENN\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nUmehara, Yuuichirou\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n']
+animePopularity	8232
+animeDescription	"The new OVA will tell a story about Hoshitani and friends on Halloween. The OVA will feature a music video for the song ""Storytellers."" 
+
+(Source: ANN)"
+animeRelated	['Starmyu 2nd Season']
+animeCharacters	['Hoshitani, Yuuta', 'Tsukigami, Kaito', 'Kuga, Shuu', 'Nayuki, Tooru', 'Tengenji, Kakeru', 'Tatsumi, Rui', 'Toraishi, Izumi', 'Ageha, Riku', 'Kitahara, Ren', 'Ugawa, Akira']
+animeVoices	['Hanae, Natsuki', 'Lounsbery, Arthur', 'Maeno, Tomoaki', 'Ono, Kensho', 'Hosoya, Yoshimasa', 'Okamoto, Nobuhiko', 'KENN', 'Shimazaki, Nobunaga', 'Umehara, Yuuichirou', 'Matsuoka, Yoshitsugu']
 animeStaff	[]

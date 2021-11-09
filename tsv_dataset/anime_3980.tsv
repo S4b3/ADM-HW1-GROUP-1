@@ -1,5 +1,5 @@
-animeTitle	b'Crayon Shin-chan Movie 02: Buriburi Oukoku no Hihou'
-animeType	b'Movie'
+animeTitle	Crayon Shin-chan Movie 02: Buriburi Oukoku no Hihou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.95
 animeUsers	4097
 animeRank	
-animePopularity	
-animeDescription	"b'An action adventure film set in a imaginary southern island in the Indian Ocean. The evil secret society, ""White Snake"" abducted Shinnosuke and Prince Sunnokeshi of the Buri Buri Kingdom, who looks very much like Shinnosuke, in order to get the kingdom\'s hidden treasure in the golden palace underground. Shinnosuke\'s parents, Hiroshi and Misae fight with Lulu, the major of the palace guard of the kingdom, against White Snake, trying to recapture Shinnosuke and the prince. \n\n(Source: Manabu Tsuribe)'"
-animeRelated	[b'Crayon Shin-chan', b'Crayon Shin-chan Movie 03: Unkokusai no Yabou', b'Crayon Shin-chan Movie 01: Action Kamen vs. Haigure Maou']
-animeCharacters	[b'Nohara, Shinnosuke', b'Nohara, Hiroshi', b'Buriburizaemon', b'Nohara, Misae', b'Lululu, Lulu Lu', b'Prince Sunnokeshi', b'Boo-chan', b'Kazama, Tooru', b'Sakurada, Nene', b'Sato, Masao']
-animeVoices	[b'\nYajima, Akiko\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nKatou, Seizou\nJapanese\n', b'\nNarahashi, Miki\nJapanese\n', b'\nSayuri\nJapanese\n', b'\nKawata, Taeko\nJapanese\n', b'\nSatou, Chie\nJapanese\n', b'\nMashiba, Mari\nJapanese\n', b'\nHayashi, Tamao\nJapanese\n', b'\nIchiryuusai, Teiyuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHara, Keiichi\n\nProducer, Episode Director, Script, Storyboard, Theme Song Lyrics\n\n', b'\nHongou, Mitsuru\n\nDirector, Script, Storyboard\n\n', b'\nYuasa, Masaaki\n\nSetting\n\n', b'\nTakemoto, Yasuhiro\n\nIn-Between Animation\n\n']
+animePopularity	6238
+animeDescription	"An action adventure film set in a imaginary southern island in the Indian Ocean. The evil secret society, ""White Snake"" abducted Shinnosuke and Prince Sunnokeshi of the Buri Buri Kingdom, who looks very much like Shinnosuke, in order to get the kingdom's hidden treasure in the golden palace underground. Shinnosuke's parents, Hiroshi and Misae fight with Lulu, the major of the palace guard of the kingdom, against White Snake, trying to recapture Shinnosuke and the prince. 
+
+(Source: Manabu Tsuribe)"
+animeRelated	['Crayon Shin-chan', 'Crayon Shin-chan Movie 03: Unkokusai no Yabou', 'Crayon Shin-chan Movie 01: Action Kamen vs. Haigure Maou']
+animeCharacters	['Nohara, Shinnosuke', 'Nohara, Hiroshi', 'Buriburizaemon', 'Nohara, Misae', 'Lululu, Lulu Lu', 'Prince Sunnokeshi', 'Boo-chan', 'Kazama, Tooru', 'Sakurada, Nene', 'Sato, Masao']
+animeVoices	['Yajima, Akiko', 'Fujiwara, Keiji', 'Katou, Seizou', 'Narahashi, Miki', 'Sayuri', 'Kawata, Taeko', 'Satou, Chie', 'Mashiba, Mari', 'Hayashi, Tamao', 'Ichiryuusai, Teiyuu']
+animeStaff	[['Hara, Keiichi', 'Producer, Episode Director, Script, Storyboard, Theme Song Lyrics'], ['Hongou, Mitsuru', 'Director, Script, Storyboard'], ['Yuasa, Masaaki', 'Setting'], ['Takemoto, Yasuhiro', 'In-Between Animation']]

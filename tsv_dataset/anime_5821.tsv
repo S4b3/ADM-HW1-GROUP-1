@@ -1,5 +1,5 @@
-animeTitle	b'Pucca 2'
-animeType	b'TV'
+animeTitle	Pucca 2
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.56
 animeUsers	3586
 animeRank	
-animePopularity	
-animeDescription	b'The second series of Pucca.  The episode numbers continue from 27.'
-animeRelated	[b'Pucca', b'Pucca 3']
-animeCharacters	[b'Pucca', b'Garu', b'Abyo', b'Tobe']
+animePopularity	6194
+animeDescription	The second series of Pucca.  The episode numbers continue from 27.
+animeRelated	['Pucca', 'Pucca 3']
+animeCharacters	['Pucca', 'Garu', 'Abyo', 'Tobe']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nDemory, Bernard\n\nADR Director\n\n']
+animeStaff	[['Demory, Bernard', 'ADR Director']]

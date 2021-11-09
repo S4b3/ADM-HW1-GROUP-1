@@ -1,5 +1,5 @@
-animeTitle	b'Shin Hurricane Polymar'
-animeType	b'OVA'
+animeTitle	Shin Hurricane Polymar
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.82
 animeUsers	654
 animeRank	
-animePopularity	
-animeDescription	b'Remake of old superhero show of the same name.'
-animeRelated	[b'Hurricane Polymar']
-animeCharacters	[b'Yoroi, Takeshi', b'Kuruma, Joe', b'Nanba, Teru', b'Nina', b'Nova', b'Dr. Orega', b'Nishida, Ryoko', b'Pulsar']
-animeVoices	[b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nMiyamura, Yuko\nJapanese\n', b'\nOrikasa, Ai\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nOotomo, Ryuuzaburou\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinbou, Akiyuki\n\nDirector\n\n', b'\nTanaka, Hideyuki\n\nSound Director\n\n', b'\nKakinuma, Hideki\n\nScript\n\n', b'\nUmetsu, Yasuomi\n\nStoryboard, Animation Director, Key Animation, Character Design\n\n']
+animePopularity	9632
+animeDescription	Remake of old superhero show of the same name.
+animeRelated	['Hurricane Polymar']
+animeCharacters	['Yoroi, Takeshi', 'Kuruma, Joe', 'Nanba, Teru', 'Nina', 'Nova', 'Dr. Orega', 'Nishida, Ryoko', 'Pulsar']
+animeVoices	['Okiayu, Ryoutarou', 'Aono, Takeshi', 'Miyamura, Yuko', 'Orikasa, Ai', 'Genda, Tesshou', 'Ootomo, Ryuuzaburou', 'Neya, Michiko', 'Koyasu, Takehito']
+animeStaff	[['Shinbou, Akiyuki', 'Director'], ['Tanaka, Hideyuki', 'Sound Director'], ['Kakinuma, Hideki', 'Script'], ['Umetsu, Yasuomi', 'Storyboard, Animation Director, Key Animation, Character Design']]

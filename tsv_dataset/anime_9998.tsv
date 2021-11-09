@@ -1,5 +1,5 @@
-animeTitle	b'Fire Emblem'
-animeType	b'OVA'
+animeTitle	Fire Emblem
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	5.62
 animeUsers	5500
 animeRank	
-animePopularity	
-animeDescription	"b""The Kingdoms of Dolhr, Grust, and Gra band together to wage war on the rest of the continent Archanea and defeat the Kingdom of Altea. King Cornelius is slain in battle but his son Prince Marth is able to escape the invasion thanks to the sacrifice of his older sister Elice. He and a small group of retainers find refuge on the island nation of Talys, where they spend the next three years in hiding under the royal family's protection. \n\nMarth lives a peaceful life in Talys, enjoying the beauty of the island and the friendship of its pegasus-riding princess, Caeda. But he is uneasy, knowing soon the day will come that he must take up arms. That day arrives when Caeda comes to Marth and his retainers in a panic, telling him that the castle town has been attacked. After some close calls, they manage to defeat the assailants and save the city.\n\nRealizing that his presence may bring further danger to his new home, Marth decides that now is the time to set off. He journeys to raise an army with which to reclaim his kingdom.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Fire Emblem: Ankokuryuu to Hikari no Tsurugi']
-animeCharacters	[b'Marth', b'Sheeda', b'Gordon', b'Lena', b'Paola', b'Doga', b'Narrator', b'Jeigan', b'Cain', b'Julian']
-animeVoices	[b'\nMidorikawa, Hikaru\nJapanese\n', b'\nTange, Sakura\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nKawazu, Yasuhiko\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nKatou, Seizou\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMisawa, Shin\n\nDirector, Storyboard\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nKuroda, Yousuke\n\nScreenplay\n\n', b'\nGreenfield, Matt\n\nADR Director\n\n']
+animePopularity	4986
+animeDescription	"The Kingdoms of Dolhr, Grust, and Gra band together to wage war on the rest of the continent Archanea and defeat the Kingdom of Altea. King Cornelius is slain in battle but his son Prince Marth is able to escape the invasion thanks to the sacrifice of his older sister Elice. He and a small group of retainers find refuge on the island nation of Talys, where they spend the next three years in hiding under the royal family's protection. 
+
+Marth lives a peaceful life in Talys, enjoying the beauty of the island and the friendship of its pegasus-riding princess, Caeda. But he is uneasy, knowing soon the day will come that he must take up arms. That day arrives when Caeda comes to Marth and his retainers in a panic, telling him that the castle town has been attacked. After some close calls, they manage to defeat the assailants and save the city.
+
+Realizing that his presence may bring further danger to his new home, Marth decides that now is the time to set off. He journeys to raise an army with which to reclaim his kingdom.
+
+[Written by MAL Rewrite]"
+animeRelated	['Fire Emblem: Ankokuryuu to Hikari no Tsurugi']
+animeCharacters	['Marth', 'Sheeda', 'Gordon', 'Lena', 'Paola', 'Doga', 'Narrator', 'Jeigan', 'Cain', 'Julian']
+animeVoices	['Midorikawa, Hikaru', 'Tange, Sakura', 'Ishida, Akira', 'Neya, Michiko', 'Kawazu, Yasuhiko', 'Ootsuka, Akio', 'Katou, Seizou', 'Hiyama, Nobuyuki', 'Yamaguchi, Kappei']
+animeStaff	[['Misawa, Shin', 'Director, Storyboard'], ['Tanaka, Kazuya', 'Sound Director'], ['Kuroda, Yousuke', 'Screenplay'], ['Greenfield, Matt', 'ADR Director']]

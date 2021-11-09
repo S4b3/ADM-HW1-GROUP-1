@@ -1,5 +1,5 @@
-animeTitle	b'Di Gi Charat Summer Special 2000'
-animeType	b'Special'
+animeTitle	Di Gi Charat Summer Special 2000
+animeType	Special
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	6.48
 animeUsers	1299
 animeRank	
-animePopularity	
-animeDescription	"b""The Di Gi Charat Summer Special was a four episode series that aired over two days, August 22, 2000 to August 23, 2000. This was the first series that Piyoko appeared in and the plot involves her attempting to hold Dejiko hostage for ransom.\n\n\xe2\x80\xa2 Summer Special 2000 Episode 1 - Here comes Pyoko-nyo!\n\xe2\x80\xa2 Summer Special 2000 Episode 2 - It's the Black Gamers-nyo\n\xe2\x80\xa2 Summer Special 2000 Episode 3 - The Return of Abarenbou\n\xe2\x80\xa2 Summer Special 2000 Episode 4 - Summer Bug  \n\n(Source: AniDB & Wikipedia)"""
-animeRelated	[b'Di Gi Charat']
-animeCharacters	[b'Di Gi Charat', b'Petit Charat', b'Usada, Hikaru', b'Analogue III, Pyocola', b'Gema', b'Abarenbou', b'Kimura, Takuro']
-animeVoices	[b'\nOkiayu, Ryoutarou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurai, Hiroaki\n\nDirector\n\n', b'\nSawashiro, Miyuki\n\nTheme Song Performance\n\n', b'\nSanada, Asami\n\nTheme Song Performance\n\n', b'\nOkui, Masami\n\nTheme Song Performance\n\n']
+animePopularity	8550
+animeDescription	"The Di Gi Charat Summer Special was a four episode series that aired over two days, August 22, 2000 to August 23, 2000. This was the first series that Piyoko appeared in and the plot involves her attempting to hold Dejiko hostage for ransom.
+
+• Summer Special 2000 Episode 1 - Here comes Pyoko-nyo!
+• Summer Special 2000 Episode 2 - It's the Black Gamers-nyo
+• Summer Special 2000 Episode 3 - The Return of Abarenbou
+• Summer Special 2000 Episode 4 - Summer Bug  
+
+(Source: AniDB & Wikipedia)"
+animeRelated	['Di Gi Charat']
+animeCharacters	['Di Gi Charat', 'Petit Charat', 'Usada, Hikaru', 'Analogue III, Pyocola', 'Gema', 'Abarenbou', 'Kimura, Takuro']
+animeVoices	['Okiayu, Ryoutarou']
+animeStaff	[['Sakurai, Hiroaki', 'Director'], ['Sawashiro, Miyuki', 'Theme Song Performance'], ['Sanada, Asami', 'Theme Song Performance'], ['Okui, Masami', 'Theme Song Performance']]

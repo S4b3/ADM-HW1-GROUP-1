@@ -1,5 +1,5 @@
-animeTitle	b'Paulette no Isu'
-animeType	b'ONA'
+animeTitle	Paulette no Isu
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.01
 animeUsers	5772
 animeRank	
-animePopularity	
-animeDescription	"b""noitaminA's 10th anniversary commemoration short special."""
+animePopularity	5479
+animeDescription	noitaminA's 10th anniversary commemoration short special.
 animeRelated	[]
-animeCharacters	[b'Poulette']
+animeCharacters	['Poulette']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshida, Hiroyasu\n\nDirector\n\n', b'\nHamauzu, Masashi\n\nMusic\n\n', b'\nArai, Youjirou\n\nKey Animation, Animation Director, Character Design\n\n', b'\nMasaki, Kei\n\nKey Animation, In-Between Animation\n\n']
+animeStaff	[['Ishida, Hiroyasu', 'Director'], ['Hamauzu, Masashi', 'Music'], ['Arai, Youjirou', 'Key Animation, Animation Director, Character Design'], ['Masaki, Kei', 'Key Animation, In-Between Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Blood+'
-animeType	b'TV'
+animeTitle	Blood+
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.64
 animeUsers	135332
 animeRank	
-animePopularity	
-animeDescription	"b""Saya Otonashi is a seemingly ordinary girl living a mundane life with her adoptive family in Okinawa City. In fact, her only peculiarities are suffering from anemia and being unable to remember any of her life beyond the previous year.\n\nHowever, Saya's forgotten past quickly comes back to haunt her\xe2\x80\x94one night, she is attacked at school by a creature that feeds on human blood. Just when all hope seems lost, a mysterious man named Haji appears and fends off the creature temporarily. But when her rescuer forces her to drink his blood, Saya suddenly enters a trance and slays the monster with ease, using her own blood as a catalyst. \n\nSaya then learns of an organization named Red Shield, founded for the sole purpose of defeating the hellish beasts. Now Saya and Haji must work together with Red Shield to fight these fearsome monsters and unlock the secrets to the girl's past.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Blood+', b'Blood: The Last Vampire', b'Blood-C', b'Blood-C: The Last Dark']
-animeCharacters	[b'Haji', b'Otonashi, Saya', b'Miyagusuku, Kai', b'Diva', b'Goldsmith, Solomon', b'Moses', b'Miyagusuku, Riku', b'David', b'Mahler, Nathan', b'Fei-Ong, Karl']
-animeVoices	[b'\nKonishi, Katsuyuki\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nYajima, Akiko\nJapanese\n', b'\nTsujitani, Kouji\nJapanese\n', b'\nYanagi, Naoki\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOchikoshi, Tomonori\n\nProducer\n\n', b'\nMorishita, Katsuji\n\nProducer\n\n', b'\nShiotani, Naoyoshi\n\nDirector, Storyboard, Animation Director, Key Animation\n\n', b'\nFujisaku, Junichi\n\nDirector, Episode Director, Script, Series Composition\n\n']
+animePopularity	491
+animeDescription	"Saya Otonashi is a seemingly ordinary girl living a mundane life with her adoptive family in Okinawa City. In fact, her only peculiarities are suffering from anemia and being unable to remember any of her life beyond the previous year.
+
+However, Saya's forgotten past quickly comes back to haunt her—one night, she is attacked at school by a creature that feeds on human blood. Just when all hope seems lost, a mysterious man named Haji appears and fends off the creature temporarily. But when her rescuer forces her to drink his blood, Saya suddenly enters a trance and slays the monster with ease, using her own blood as a catalyst. 
+
+Saya then learns of an organization named Red Shield, founded for the sole purpose of defeating the hellish beasts. Now Saya and Haji must work together with Red Shield to fight these fearsome monsters and unlock the secrets to the girl's past.
+
+[Written by MAL Rewrite]"
+animeRelated	['Blood+', 'Blood: The Last Vampire', 'Blood-C', 'Blood-C: The Last Dark']
+animeCharacters	['Haji', 'Otonashi, Saya', 'Miyagusuku, Kai', 'Diva', 'Goldsmith, Solomon', 'Moses', 'Miyagusuku, Riku', 'David', 'Mahler, Nathan', 'Fei-Ong, Karl']
+animeVoices	['Konishi, Katsuyuki', 'Kitamura, Eri', 'Yoshino, Hiroyuki', 'Yajima, Akiko', 'Tsujitani, Kouji', 'Yanagi, Naoki', 'Kosugi, Juurouta', 'Fujiwara, Keiji', 'Sasaki, Nozomu']
+animeStaff	[['Ochikoshi, Tomonori', 'Producer'], ['Morishita, Katsuji', 'Producer'], ['Shiotani, Naoyoshi', 'Director, Storyboard, Animation Director, Key Animation'], ['Fujisaku, Junichi', 'Director, Episode Director, Script, Series Composition']]

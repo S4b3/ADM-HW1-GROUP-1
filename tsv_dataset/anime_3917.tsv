@@ -1,5 +1,5 @@
-animeTitle	b'Mai-Otome Specials'
-animeType	b'Special'
+animeTitle	Mai-Otome Specials
+animeType	Special
 animeNumEpisode	9
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.97
 animeUsers	2618
 animeRank	
-animePopularity	
-animeDescription	b'Specials that followed on the Mai-Otome DVD.'
-animeRelated	[b'Mai-Otome']
-animeCharacters	[b'Kruger, Natsuki', b'Yumemiya, Arika', b'W\xc3\xa1ng, Nina', b'Tokiha, Mai', b'Blan de Windbloom, Mashiro', b'Viola, Shizuru', b'Sayers, Lena', b'Armitage, Haruka', b'Nao Zhang, Juliet', b'Miyu']
-animeVoices	[b'\nChiba, Saeko\nJapanese\n', b'\nKikuchi, Mika\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nYukana\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakuno, Seiki\n\nEpisode Director\n\n', b'\nHisayuki, Hirokazu\n\nCharacter Design\n\n']
+animePopularity	6606
+animeDescription	Specials that followed on the Mai-Otome DVD.
+animeRelated	['Mai-Otome']
+animeCharacters	['Kruger, Natsuki', 'Yumemiya, Arika', 'Wáng, Nina', 'Tokiha, Mai', 'Blan de Windbloom, Mashiro', 'Viola, Shizuru', 'Sayers, Lena', 'Armitage, Haruka', 'Nao Zhang, Juliet', 'Miyu']
+animeVoices	['Chiba, Saeko', 'Kikuchi, Mika', 'Koshimizu, Ami', 'Nakahara, Mai', 'Yukana', 'Yuzuki, Ryouka']
+animeStaff	[['Takuno, Seiki', 'Episode Director'], ['Hisayuki, Hirokazu', 'Character Design']]

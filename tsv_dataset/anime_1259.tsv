@@ -1,5 +1,5 @@
-animeTitle	b'Ojamajo Doremi Dokkaan!'
-animeType	b'TV'
+animeTitle	Ojamajo Doremi Dokkaan!
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.62
 animeUsers	5727
 animeRank	
-animePopularity	
-animeDescription	"b""Hana now becomes a peer of the Ojamajo. When Majotourbillon's spirit revives, the witches now have to break her curse. From the help from Pao-chan, Doremi, Hana, and the other witches are able to defeat the curses. \n\n(Source: ANN)"""
-animeRelated	[b'Motto! Ojamajo Doremi']
-animeCharacters	[b'Harukaze, Doremi', b'Segawa, Onpu', b'Asuka, Momoko', b'Senoo, Aiko', b'Makihatayama, Hana', b'Fujiwara, Hazuki', b'Majorika', b'Harukaze, Pop', b'Tamaki, Reika', b'Oyajide, Alexander T.']
-animeVoices	[b'\nChiba, Chiemi\nJapanese\n', b'\nShishido, Rumi\nJapanese\n', b'\nMiyahara, Nami\nJapanese\n', b'\nMatsuoka, Yuki\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nAkiya, Tomoko\nJapanese\n', b'\nNagasawa, Nao\nJapanese\n', b'\nIshige, Sawa\nJapanese\n', b'\nNagano, Ai\nJapanese\n', b'\nKanemitsu, Nobuaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSeki, Hiromi\n\nProducer\n\n', b'\nShibata, Hiroaki\n\nAssistant Producer\n\n', b'\nIgarashi, Takuya\n\nDirector\n\n', b'\nHosoda, Mamoru\n\nEpisode Director, Storyboard\n\n']
+animePopularity	4677
+animeDescription	"Hana now becomes a peer of the Ojamajo. When Majotourbillon's spirit revives, the witches now have to break her curse. From the help from Pao-chan, Doremi, Hana, and the other witches are able to defeat the curses. 
+
+(Source: ANN)"
+animeRelated	['Motto! Ojamajo Doremi']
+animeCharacters	['Harukaze, Doremi', 'Segawa, Onpu', 'Asuka, Momoko', 'Senoo, Aiko', 'Makihatayama, Hana', 'Fujiwara, Hazuki', 'Majorika', 'Harukaze, Pop', 'Tamaki, Reika', 'Oyajide, Alexander T.']
+animeVoices	['Chiba, Chiemi', 'Shishido, Rumi', 'Miyahara, Nami', 'Matsuoka, Yuki', 'Ootani, Ikue', 'Akiya, Tomoko', 'Nagasawa, Nao', 'Ishige, Sawa', 'Nagano, Ai', 'Kanemitsu, Nobuaki']
+animeStaff	[['Seki, Hiromi', 'Producer'], ['Shibata, Hiroaki', 'Assistant Producer'], ['Igarashi, Takuya', 'Director'], ['Hosoda, Mamoru', 'Episode Director, Storyboard']]

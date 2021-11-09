@@ -1,5 +1,5 @@
-animeTitle	b'Aneimo'
-animeType	b'OVA'
+animeTitle	Aneimo
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.92
 animeUsers	5124
 animeRank	
-animePopularity	
-animeDescription	"b""Takumi lives next to Mizuki and Satsuki's house. They have been good friends since they were kids, going shopping and skiing together. One day, Kazuyoshi, Takumi's father, brings two girls, Saori and Yui, back to their house, and accepts them as new family members. At first, he is confused, but gradually becomes closer to them..."""
+animePopularity	4828
+animeDescription	Takumi lives next to Mizuki and Satsuki's house. They have been good friends since they were kids, going shopping and skiing together. One day, Kazuyoshi, Takumi's father, brings two girls, Saori and Yui, back to their house, and accepts them as new family members. At first, he is confused, but gradually becomes closer to them...
 animeRelated	[]
-animeCharacters	[b'Shirakawa, Saori', b'Kirishima, Mizuki', b'Onodera, Takumi', b'Kirishima, Satsuki', b'Shirakawa, Yui']
-animeVoices	[b'\nTanaka, Ryouko\nJapanese\n', b'\nInokuchi, Yuka\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n', b'\nNagami, Haruka\nJapanese\n', b'\nNakata, Junko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinonome, Kazuhiko\n\nOriginal Character Design\n\n', b'\nBoot Up!\n\nOriginal Creator\n\n']
+animeCharacters	['Shirakawa, Saori', 'Kirishima, Mizuki', 'Onodera, Takumi', 'Kirishima, Satsuki', 'Shirakawa, Yui']
+animeVoices	['Tanaka, Ryouko', 'Inokuchi, Yuka', 'Ookawa, Tooru', 'Nagami, Haruka', 'Nakata, Junko']
+animeStaff	[['Shinonome, Kazuhiko', 'Original Character Design'], ['Boot Up!', 'Original Creator']]

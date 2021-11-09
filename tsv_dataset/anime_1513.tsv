@@ -1,5 +1,5 @@
-animeTitle	b'Yoru no Kuni'
-animeType	b'ONA'
+animeTitle	Yoru no Kuni
+animeType	ONA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.54
 animeUsers	2400
 animeRank	
-animePopularity	
-animeDescription	"b'Singer Aimer and Director Ryo-timo\'s original short anime project Night World (Yoru no Kuni) which is a companion animation series to Aimer\'s album ""Walpurgis.""  The first episode is themed by the song ""Trill"" from the album.\n\nWelcome to the Night World. Anxiety, scary and sad things that make you think in the dark. Then more you can\'t sleep, the more you feel suffering. All right. You can\'t sleep because you\'re trying to find something. The night is the perfect place to find it. Let\'s take a break tonight. It\'s a dark place, but please explore it freely. You see, the night goes on.'"
+animePopularity	5931
+animeDescription	"Singer Aimer and Director Ryo-timo's original short anime project Night World (Yoru no Kuni) which is a companion animation series to Aimer's album ""Walpurgis.""  The first episode is themed by the song ""Trill"" from the album.
+
+Welcome to the Night World. Anxiety, scary and sad things that make you think in the dark. Then more you can't sleep, the more you feel suffering. All right. You can't sleep because you're trying to find something. The night is the perfect place to find it. Let's take a break tonight. It's a dark place, but please explore it freely. You see, the night goes on."
 animeRelated	[]
-animeCharacters	[b'Yoru', b'Chiya']
-animeVoices	[b'\nSuwabe, Junichi\nJapanese\n', b'\nKuno, Misaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nryo-timo\n\nDirector, Storyboard\n\n', b'\nAimer\n\nInserted Song Performance\n\n', b'\nAoi, Takashi\n\nArt Director\n\n']
+animeCharacters	['Yoru', 'Chiya']
+animeVoices	['Suwabe, Junichi', 'Kuno, Misaki']
+animeStaff	[['ryo-timo', 'Director, Storyboard'], ['Aimer', 'Inserted Song Performance'], ['Aoi, Takashi', 'Art Director']]

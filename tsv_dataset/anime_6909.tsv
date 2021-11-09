@@ -1,5 +1,5 @@
-animeTitle	b'Seikon no Qwaser II'
-animeType	b'TV'
+animeTitle	Seikon no Qwaser II
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.35
 animeUsers	54186
 animeRank	
-animePopularity	
-animeDescription	b'Sasha is partnered with Hana as his new Maria. They infiltrate an all-girls academy, forcing Sasha to crossdress, in search of a Qwaser-related artifact called the Magdalena of Thunder which has appeared in one of the students. However, they have some competition in their search of it.\n\n(Source: ANN)'
-animeRelated	[b'Seikon no Qwaser', b'Seikon no Qwaser II Picture Drama']
-animeCharacters	[b'Hell, Alexander Nikolaevich', b'Kurae, Ekaterina', b'Oribe, Mafuyu', b'Yamanobe, Tomo', b'Katsuragi, Hana', b'Beria, Teresa', b'Mitarai, Fumika', b'Oikawa, Urara', b'Elizabeth', b'Tsujidou, Miyuri']
-animeVoices	[b'\nSanpei, Yuuko\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nChihara, Minori\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKaneko, Hiraku\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nNamura, Hidetoshi\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nUeda, Shigeru\n\nEpisode Director\n\n']
+animePopularity	1387
+animeDescription	"Sasha is partnered with Hana as his new Maria. They infiltrate an all-girls academy, forcing Sasha to crossdress, in search of a Qwaser-related artifact called the Magdalena of Thunder which has appeared in one of the students. However, they have some competition in their search of it.
+
+(Source: ANN)"
+animeRelated	['Seikon no Qwaser', 'Seikon no Qwaser II Picture Drama']
+animeCharacters	['Hell, Alexander Nikolaevich', 'Kurae, Ekaterina', 'Oribe, Mafuyu', 'Yamanobe, Tomo', 'Katsuragi, Hana', 'Beria, Teresa', 'Mitarai, Fumika', 'Oikawa, Urara', 'Elizabeth', 'Tsujidou, Miyuri']
+animeVoices	['Sanpei, Yuuko', 'Hirano, Aya', 'Fujimura, Ayumi', 'Toyosaki, Aki', 'Hikasa, Youko', 'Chihara, Minori', 'Hanazawa, Kana', 'Ohara, Sayaka', 'Kawasumi, Ayako']
+animeStaff	[['Kaneko, Hiraku', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Namura, Hidetoshi', 'Episode Director, Storyboard, Key Animation'], ['Ueda, Shigeru', 'Episode Director']]

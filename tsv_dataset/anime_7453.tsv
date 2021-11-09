@@ -1,5 +1,5 @@
-animeTitle	b'Akikan!: Kan Ippatsu!? Onsen Panic'
-animeType	b'OVA'
+animeTitle	Akikan!: Kan Ippatsu!? Onsen Panic
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.24
 animeUsers	12695
 animeRank	
-animePopularity	
-animeDescription	"b'The story revolves around a typical high school boy named Kakeru Daichi and the can of melon juice soda that he bought from a vending machine. The can suddenly transforms into a beautiful but standoffish girl that Kakeru nicknames ""Melon"", and more ""Akikan"" (""empty can"") girls appear. However, Akikan girls need to be infused with carbon dioxide in order to turn into a human.\n\n(Source: ANN, edited)'"
-animeRelated	[b'Akikan!']
-animeCharacters	[b'Melon', b'Daichi, Kakeru', b'Yell', b'Tenkuuji, Najimi', b'Miku', b'Budoko', b'Otoya, Hidehiko', b'Kochikaze, Yurika', b'Kizaki, Airin', b'Amaji, Gorou']
-animeVoices	[b'\nNarita, Sayaka\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nNakajima, Megumi\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nOokubo, Aiko\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n', b'\nHata, Aki\n\nTheme Song Lyrics\n\n', b'\nCharmmy Queen\n\nTheme Song Performance\n\n', b'\nMatsuda, Akito\n\nMusic\n\n']
+animePopularity	3666
+animeDescription	"The story revolves around a typical high school boy named Kakeru Daichi and the can of melon juice soda that he bought from a vending machine. The can suddenly transforms into a beautiful but standoffish girl that Kakeru nicknames ""Melon"", and more ""Akikan"" (""empty can"") girls appear. However, Akikan girls need to be infused with carbon dioxide in order to turn into a human.
+
+(Source: ANN, edited)"
+animeRelated	['Akikan!']
+animeCharacters	['Melon', 'Daichi, Kakeru', 'Yell', 'Tenkuuji, Najimi', 'Miku', 'Budoko', 'Otoya, Hidehiko', 'Kochikaze, Yurika', 'Kizaki, Airin', 'Amaji, Gorou']
+animeVoices	['Narita, Sayaka', 'Fukuyama, Jun', 'Noto, Mamiko', 'Toyosaki, Aki', 'Nakajima, Megumi', 'Yuuki, Aoi', 'Okiayu, Ryoutarou', 'Ookubo, Aiko', 'Toyoguchi, Megumi', 'Okamoto, Nobuhiko']
+animeStaff	[['Takadera, Takeshi', 'Sound Director'], ['Hata, Aki', 'Theme Song Lyrics'], ['Charmmy Queen', 'Theme Song Performance'], ['Matsuda, Akito', 'Music']]

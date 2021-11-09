@@ -1,5 +1,5 @@
-animeTitle	b'Sue Cat'
-animeType	b'TV'
+animeTitle	Sue Cat
+animeType	TV
 animeNumEpisode	40
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""After an accident, the amnesiac Sue was taken in to live with Torao's family. She always had the urge to become a singer, but didn't know why. As it turns out, Sue is actually part of a band formed with her two twin sisters. But Sue's climb to the top of the charts is a long and hard way.\n\n(Source: AniDB)"""
+animePopularity	13349
+animeDescription	"After an accident, the amnesiac Sue was taken in to live with Torao's family. She always had the urge to become a singer, but didn't know why. As it turns out, Sue is actually part of a band formed with her two twin sisters. But Sue's climb to the top of the charts is a long and hard way.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Sue', b'Torao', b'Relative', b'Billy', b'Narrator', b'Akai', b'Maria']
-animeVoices	[b'\nTsuruoka, Yayoi\nJapanese\n', b'\nHashimoto, Kouichi\nJapanese\n', b'\nMasuoka, Hiroshi\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nAomori, Shin\nJapanese\n', b'\nOnoda, Eiichi\nJapanese\n', b'\nYokozawa, Keiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTerada, Kenji\n\nEpisode Director\n\n', b'\nYotsuji, Takao\n\nEpisode Director, Chief Animation Director\n\n', b'\nYoshida, Hiroshi\n\nEpisode Director\n\n', b'\nPierpont, James Lord\n\nTheme Song Composition\n\n']
+animeCharacters	['Sue', 'Torao', 'Relative', 'Billy', 'Narrator', 'Akai', 'Maria']
+animeVoices	['Tsuruoka, Yayoi', 'Hashimoto, Kouichi', 'Masuoka, Hiroshi', 'Tatsuta, Naoki', 'Aomori, Shin', 'Onoda, Eiichi', 'Yokozawa, Keiko']
+animeStaff	[['Terada, Kenji', 'Episode Director'], ['Yotsuji, Takao', 'Episode Director, Chief Animation Director'], ['Yoshida, Hiroshi', 'Episode Director'], ['Pierpont, James Lord', 'Theme Song Composition']]

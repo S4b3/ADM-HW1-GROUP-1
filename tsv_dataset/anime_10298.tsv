@@ -1,4 +1,4 @@
-animeTitle	b'EDEN'
+animeTitle	EDEN
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.53
 animeUsers	1236
 animeRank	
-animePopularity	
-animeDescription	b'Music video for the track EDEN by ATOLS from the album MUSIC OF SCIENCE.'
+animePopularity	9336
+animeDescription	Music video for the track EDEN by ATOLS from the album MUSIC OF SCIENCE.
 animeRelated	[]
-animeCharacters	[b'Hatsune, Miku']
+animeCharacters	['Hatsune, Miku']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHatsune, Miku\n\nTheme Song Performance\n\n']
+animeStaff	[['Hatsune, Miku', 'Theme Song Performance']]

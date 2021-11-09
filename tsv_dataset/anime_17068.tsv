@@ -1,5 +1,5 @@
-animeTitle	b'Little Charo: Touhoku-hen'
-animeType	b'TV'
+animeTitle	Little Charo: Touhoku-hen
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Charo venture around Tono, Iwate, a city in Japan's Tohoku (Northeast) region, attempting to find the Eight-Starred Note in order to prevent the reappearance of the Tenaga-Ashinaga monster of local legend.\n\n(Source: ANN)"""
-animeRelated	[b'Little Charo', b'Little Charo 2']
-animeCharacters	[b'Charo']
+animePopularity	15142
+animeDescription	"Charo venture around Tono, Iwate, a city in Japan's Tohoku (Northeast) region, attempting to find the Eight-Starred Note in order to prevent the reappearance of the Tenaga-Ashinaga monster of local legend.
+
+(Source: ANN)"
+animeRelated	['Little Charo', 'Little Charo 2']
+animeCharacters	['Charo']
 animeVoices	[]
 animeStaff	[]

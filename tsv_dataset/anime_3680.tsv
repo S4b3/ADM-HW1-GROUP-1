@@ -1,5 +1,5 @@
-animeTitle	b'Fw:Hamatora'
-animeType	b'Movie'
+animeTitle	Fw:Hamatora
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.03
 animeUsers	1275
 animeRank	
-animePopularity	
-animeDescription	b'Summary movie of Hamatora The Animation and Re:\xe2\x90\xa3Hamatora.'
-animeRelated	[b'Hamatora The Animation', b'Re:\xe2\x90\xa3Hamatora', b'Mini Hama: Minimum Hamatora Movies']
-animeCharacters	[b'Nice', b'Murasaki']
-animeVoices	[b'\nOosaka, Ryouta\nJapanese\n', b'\nHatano, Wataru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiga, Yuuji\n\nProducer\n\n', b'\nKishi, Seiji\n\nDirector\n\n', b'\nKumagai, Jun\n\nScript, Series Composition\n\n', b'\nNakanishi, Yasuhiro\n\nScript, Series Composition\n\n']
+animePopularity	5751
+animeDescription	Summary movie of Hamatora The Animation and Re:␣Hamatora.
+animeRelated	['Hamatora The Animation', 'Re:␣Hamatora', 'Mini Hama: Minimum Hamatora Movies']
+animeCharacters	['Nice', 'Murasaki']
+animeVoices	['Oosaka, Ryouta', 'Hatano, Wataru']
+animeStaff	[['Higa, Yuuji', 'Producer'], ['Kishi, Seiji', 'Director'], ['Kumagai, Jun', 'Script, Series Composition'], ['Nakanishi, Yasuhiro', 'Script, Series Composition']]

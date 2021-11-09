@@ -1,5 +1,5 @@
-animeTitle	b'Kyouryuu Boukenki Jura Tripper'
-animeType	b'TV'
+animeTitle	Kyouryuu Boukenki Jura Tripper
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.66
 animeUsers	426
 animeRank	
-animePopularity	
-animeDescription	b'On a school yachting trip, fifteen children of various ages are mysteriously transported to another world where dinosaurs still roam. While attempting to return home, they encounter talking dinosaurs, revolutionaries, pirates, a princess and primitive scientists. These unlikely allies help them escape from soldiers, bandits, vicious dinosaurs, and fanatical priests. Aggression between the two oldest boys leads to a split in ranks, and a sneaky double cross plot. Unlikely romances bloom in this tense atmosphere, and the group learns that each has strengths that can help them get home, if they work together. Losely based on the book Deux ans De Vacances, by Jules Verne from 1888.\n\n(Source: ANN)'
+animePopularity	10082
+animeDescription	"On a school yachting trip, fifteen children of various ages are mysteriously transported to another world where dinosaurs still roam. While attempting to return home, they encounter talking dinosaurs, revolutionaries, pirates, a princess and primitive scientists. These unlikely allies help them escape from soldiers, bandits, vicious dinosaurs, and fanatical priests. Aggression between the two oldest boys leads to a split in ranks, and a sneaky double cross plot. Unlikely romances bloom in this tense atmosphere, and the group learns that each has strengths that can help them get home, if they work together. Losely based on the book Deux ans De Vacances, by Jules Verne from 1888.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'God', b'Tiger', b'Shachou', b'Hime', b'Kashira', b'Hakase', b'Jueru', b'Ajari', b'Mosar', b'Danmari']
-animeVoices	[b'\nIshino, Ryuuzou\nJapanese\n', b'\nAmano, Yuri\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nMizutani, Yuuko\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nOrikasa, Ai\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nTakemasa, Hiroko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector, Episode Director, Script, Storyboard\n\n', b'\nTanaka, Hideyuki\n\nSound Director\n\n', b'\nKomura, Toshiaki\n\nEpisode Director\n\n', b'\nYatabe, Katsuyoshi\n\nScript, Screenplay\n\n']
+animeCharacters	['God', 'Tiger', 'Shachou', 'Hime', 'Kashira', 'Hakase', 'Jueru', 'Ajari', 'Mosar', 'Danmari']
+animeVoices	['Ishino, Ryuuzou', 'Amano, Yuri', 'Miki, Shinichiro', 'Mizutani, Yuuko', 'Kikuchi, Masami', 'Neya, Michiko', 'Hayashibara, Megumi', 'Orikasa, Ai', 'Matsumoto, Yasunori', 'Takemasa, Hiroko']
+animeStaff	[['Yuyama, Kunihiko', 'Director, Episode Director, Script, Storyboard'], ['Tanaka, Hideyuki', 'Sound Director'], ['Komura, Toshiaki', 'Episode Director'], ['Yatabe, Katsuyoshi', 'Script, Screenplay']]

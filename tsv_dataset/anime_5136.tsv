@@ -1,5 +1,5 @@
-animeTitle	b'Starship Troopers: Invasion'
-animeType	b'Movie'
+animeTitle	Starship Troopers: Invasion
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.69
 animeUsers	2736
 animeRank	
-animePopularity	
-animeDescription	b'A distant Federation outpost Fort Casey comes under attack by bugs. The team on the fast attack ship Alesia is assigned to help the Starship John A. Warden stationed in Fort Casey evacuate along with the survivors and bring military intelligence safely back to Earth. Carl Jenkins, now head of the Ministry of Paranormal Warfare, takes the starship on a clandestine mission before its rendezvous with the Alesia and goes missing in the nebula. Now, the battle-hardened troopers are charged with a rescue mission that may lead to a much more sinister consequence than they ever could have imagined... \n\n(Source: Amazon) '
-animeRelated	[b'Uchuu no Senshi', b'Starship Troopers: Red Planet']
-animeCharacters	[b'Varro, Henry', b'Rico, Johnny', b'Ibanez, Carmencita', b'Holy Man', b'Cho, Joseph', b'Durer, Tia', b'Cunningham, Guy', b'Gunfodder', b'Jonah', b'Shock Jock']
-animeVoices	[b'\nFuji, Shinshuu\nJapanese\n', b'\nKuroda, Takaya\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nHasegawa, Yoshiaki\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChou, Joseph\n\nProducer, Storyboard\n\n', b'\nAramaki, Shinji\n\nDirector\n\n', b'\nBoom Boom Satellites\n\nTheme Song Performance, Theme Song Lyrics, Theme Song Arrangement, Theme Song Composition\n\n', b'\nFoster, Steven\n\nADR Director\n\n']
+animePopularity	6925
+animeDescription	"A distant Federation outpost Fort Casey comes under attack by bugs. The team on the fast attack ship Alesia is assigned to help the Starship John A. Warden stationed in Fort Casey evacuate along with the survivors and bring military intelligence safely back to Earth. Carl Jenkins, now head of the Ministry of Paranormal Warfare, takes the starship on a clandestine mission before its rendezvous with the Alesia and goes missing in the nebula. Now, the battle-hardened troopers are charged with a rescue mission that may lead to a much more sinister consequence than they ever could have imagined... 
+
+(Source: Amazon) "
+animeRelated	['Uchuu no Senshi', 'Starship Troopers: Red Planet']
+animeCharacters	['Varro, Henry', 'Rico, Johnny', 'Ibanez, Carmencita', 'Holy Man', 'Cho, Joseph', 'Durer, Tia', 'Cunningham, Guy', 'Gunfodder', 'Jonah', 'Shock Jock']
+animeVoices	['Fuji, Shinshuu', 'Kuroda, Takaya', 'Kobayashi, Sanae', 'Hasegawa, Yoshiaki', 'Hirano, Aya', 'Miyake, Kenta']
+animeStaff	[['Chou, Joseph', 'Producer, Storyboard'], ['Aramaki, Shinji', 'Director'], ['Boom Boom Satellites', 'Theme Song Performance, Theme Song Lyrics, Theme Song Arrangement, Theme Song Composition'], ['Foster, Steven', 'ADR Director']]

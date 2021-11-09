@@ -1,5 +1,5 @@
-animeTitle	b'Future GPX Cyber Formula Saga'
-animeType	b'OVA'
+animeTitle	Future GPX Cyber Formula Saga
+animeType	OVA
 animeNumEpisode	8
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.34
 animeUsers	830
 animeRank	
-animePopularity	
-animeDescription	"b""After his disappointing loss in the last round of the 14th Cyber Formula World Grand Prix, which causes him the championship, Hayato Kazami decides that he needs a change and switches over to the Sugo Garland SF-03 for the 15th Cyber Formula World Grand Prix while he waits for the newest Asurada design. However, his hope to make up for the past year's letdown is made difficult when Aoi ZIP Formula undergoes a major restructuring and brings in Kyoshiro Nagumo as the new president of the team. The new car that he brought to the team, driven by newcomer Phil Fritz, is seemingly unbeatable...\n\n(Source: ANN)"""
-animeRelated	[b'Future GPX Cyber Formula Zero', b'Future GPX Cyber Formula Sin']
-animeCharacters	[b'Kazami, Hayato', b'Sugo, Asuka', b'Asurada', b'Nagumo, Kyoshiro', b'Kaga, Joutarou', b'Sugo, Osamu', b'Bootsvorz, Edelhi', b'Jounouchi, Miki', b'Randoll, Karl Lichter von', b'Shinjyo, Naoki']
-animeVoices	[b'\nKanemaru, Junichi\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nOno, Kenichi\nJapanese\n', b'\nIkeda, Shuuichi\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nAdachi, Shinobu\nJapanese\n', b'\nMatsuoka, Youko\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawamori, Shouji\n\nMechanical Design\n\n', b'\nYatate, Hajime\n\nOriginal Creator\n\n', b'\nSahashi, Toshihiko\n\nMusic\n\n', b'\nFukuda, Mitsuo\n\nOriginal Creator\n\n']
+animePopularity	9247
+animeDescription	"After his disappointing loss in the last round of the 14th Cyber Formula World Grand Prix, which causes him the championship, Hayato Kazami decides that he needs a change and switches over to the Sugo Garland SF-03 for the 15th Cyber Formula World Grand Prix while he waits for the newest Asurada design. However, his hope to make up for the past year's letdown is made difficult when Aoi ZIP Formula undergoes a major restructuring and brings in Kyoshiro Nagumo as the new president of the team. The new car that he brought to the team, driven by newcomer Phil Fritz, is seemingly unbeatable...
+
+(Source: ANN)"
+animeRelated	['Future GPX Cyber Formula Zero', 'Future GPX Cyber Formula Sin']
+animeCharacters	['Kazami, Hayato', 'Sugo, Asuka', 'Asurada', 'Nagumo, Kyoshiro', 'Kaga, Joutarou', 'Sugo, Osamu', 'Bootsvorz, Edelhi', 'Jounouchi, Miki', 'Randoll, Karl Lichter von', 'Shinjyo, Naoki']
+animeVoices	['Kanemaru, Junichi', 'Mitsuishi, Kotono', 'Ono, Kenichi', 'Ikeda, Shuuichi', 'Seki, Toshihiko', 'Hayami, Show', 'Tatsuta, Naoki', 'Adachi, Shinobu', 'Matsuoka, Youko', 'Midorikawa, Hikaru']
+animeStaff	[['Kawamori, Shouji', 'Mechanical Design'], ['Yatate, Hajime', 'Original Creator'], ['Sahashi, Toshihiko', 'Music'], ['Fukuda, Mitsuo', 'Original Creator']]

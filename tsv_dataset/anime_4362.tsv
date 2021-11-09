@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon Movie 13: Genei no Hasha Zoroark'
-animeType	b'Movie'
+animeTitle	Pokemon Movie 13: Genei no Hasha Zoroark
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.86
 animeUsers	36646
 animeRank	
-animePopularity	
-animeDescription	"b""The shapeshifting Pok\xc3\xa9mon Zorua and Zoroark are captured by a mysterious group intent on using their illusory powers for their own gain. They unleash Zoroark on Crown City, forcing her beforehand to take the form of Suicune, Entei, and Raikou, the guardians of the town.\n\nAs Satoshi and his companions visit Crown City to watch the much-anticipated Pok\xc3\xa9mon Baccer World Cup, they encounter Zorua, who managed to escape captivity. At the same time, Zoroark goes on a rampage, unaware of Zorua's breakout. Disguised as the Legendary Beast Trio, she starts destroying the city and terrorizing its inhabitants.\n\nWill Satoshi manage to stop the deranged Pok\xc3\xa9mon before Crown City perishes? Will the sudden arrival of long-unseen Celebi change the outcome of the seemingly inevitable clash between Zoroark and the impersonated Legendary Beasts?\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Gekijouban Pocket Monster Diamond & Pearl: Genei no Hasha Zoroark', b'Pokemon Diamond & Pearl']
-animeCharacters	[b'Pikachu', b'Satoshi', b'Takeshi', b'Hikari', b'Zorua', b'Zoroark', b'Kodai', b'Kojirou', b'Musashi', b'Hibiki']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nMamiya, Kurumi\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nSonoda, Hideki\n\nScript\n\n', b'\nValencia, Amparo\n\nScript, ADR Director\n\n']
+animePopularity	2242
+animeDescription	"The shapeshifting Pokémon Zorua and Zoroark are captured by a mysterious group intent on using their illusory powers for their own gain. They unleash Zoroark on Crown City, forcing her beforehand to take the form of Suicune, Entei, and Raikou, the guardians of the town.
+
+As Satoshi and his companions visit Crown City to watch the much-anticipated Pokémon Baccer World Cup, they encounter Zorua, who managed to escape captivity. At the same time, Zoroark goes on a rampage, unaware of Zorua's breakout. Disguised as the Legendary Beast Trio, she starts destroying the city and terrorizing its inhabitants.
+
+Will Satoshi manage to stop the deranged Pokémon before Crown City perishes? Will the sudden arrival of long-unseen Celebi change the outcome of the seemingly inevitable clash between Zoroark and the impersonated Legendary Beasts?
+
+[Written by MAL Rewrite]"
+animeRelated	['Gekijouban Pocket Monster Diamond & Pearl: Genei no Hasha Zoroark', 'Pokemon Diamond & Pearl']
+animeCharacters	['Pikachu', 'Satoshi', 'Takeshi', 'Hikari', 'Zorua', 'Zoroark', 'Kodai', 'Kojirou', 'Musashi', 'Hibiki']
+animeVoices	['Ootani, Ikue', 'Matsumoto, Rica', 'Ueda, Yuuji', 'Toyoguchi, Megumi', 'Mamiya, Kurumi', 'Park, Romi', 'Miki, Shinichiro', 'Hayashibara, Megumi']
+animeStaff	[['Yuyama, Kunihiko', 'Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Sonoda, Hideki', 'Script'], ['Valencia, Amparo', 'Script, ADR Director']]

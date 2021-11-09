@@ -1,5 +1,5 @@
-animeTitle	b'Be Blues! Ao ni Nare'
-animeType	b'ONA'
+animeTitle	Be Blues! Ao ni Nare
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.43
 animeUsers	243
 animeRank	
-animePopularity	
-animeDescription	"b'A CM promoting the ""Be Blues! Ao ni Nare"" manga.'"
-animeRelated	[b'Be Blues! Ao ni Nare']
-animeCharacters	[b'Ichijou, Ryuu']
+animePopularity	12717
+animeDescription	"A CM promoting the ""Be Blues! Ao ni Nare"" manga."
+animeRelated	['Be Blues! Ao ni Nare']
+animeCharacters	['Ichijou, Ryuu']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nEbata, Ryouma\n\nKey Animation\n\n', b'\nTanaka, Motoyuki\n\nOriginal Creator\n\n']
+animeStaff	[['Ebata, Ryouma', 'Key Animation'], ['Tanaka, Motoyuki', 'Original Creator']]

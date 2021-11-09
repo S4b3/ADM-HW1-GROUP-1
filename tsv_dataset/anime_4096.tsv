@@ -1,5 +1,5 @@
-animeTitle	b'Itsuka Tenma no Kuro Usagi: Kokoro Utsuri no Toukoubi - School Attendance Day'
-animeType	b'OVA'
+animeTitle	Itsuka Tenma no Kuro Usagi: Kokoro Utsuri no Toukoubi - School Attendance Day
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.92
 animeUsers	9242
 animeRank	
-animePopularity	
-animeDescription	"b""Episode bundled with the ninth volume of the Itsuka Tenma no Kuro Usagi novel.\n\nIncludes Mirai's chibi-style dream, body-swapping and a crossover with Densetsu no Yuusha no Densetsu."""
-animeRelated	[b'Densetsu no Yuusha no Densetsu', b'Itsuka Tenma no Kuro Usagi']
-animeCharacters	[b'Saito, Himea', b'Andou, Mirai', b'Kurogane, Taito', b'Kurenai, Gekkou', b'Shigure, Haruka', b'Lute, Ryner', b'Eris, Ferris', b'Kurenai, Hinata', b'Aomi, Izumi', b'Cross Philier, Yuuichi']
-animeVoices	[b'\nTakamoto, Megumi\nJapanese\n', b'\nNomizu, Iori\nJapanese\n', b'\nTachibana, Shinnosuke\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nMina\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n', b'\nHorikawa, Chika\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshikawa, Mei\n\nProducer\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nKomori, Shigeo\n\nTheme Song Arrangement, Music\n\n', b'\nKagami, Takaya\n\nOriginal Creator\n\n']
+animePopularity	4054
+animeDescription	"Episode bundled with the ninth volume of the Itsuka Tenma no Kuro Usagi novel.
+
+Includes Mirai's chibi-style dream, body-swapping and a crossover with Densetsu no Yuusha no Densetsu."
+animeRelated	['Densetsu no Yuusha no Densetsu', 'Itsuka Tenma no Kuro Usagi']
+animeCharacters	['Saito, Himea', 'Andou, Mirai', 'Kurogane, Taito', 'Kurenai, Gekkou', 'Shigure, Haruka', 'Lute, Ryner', 'Eris, Ferris', 'Kurenai, Hinata', 'Aomi, Izumi', 'Cross Philier, Yuuichi']
+animeVoices	['Takamoto, Megumi', 'Nomizu, Iori', 'Tachibana, Shinnosuke', 'Nakamura, Yuuichi', 'Mina', 'Fukuyama, Jun', 'Takagaki, Ayahi', 'Horikawa, Chika', 'Suwabe, Junichi']
+animeStaff	[['Yoshikawa, Mei', 'Producer'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Komori, Shigeo', 'Theme Song Arrangement, Music'], ['Kagami, Takaya', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Kasumin 3rd Season'
-animeType	b'TV'
+animeTitle	Kasumin 3rd Season
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'Kasumi Haruno is a fourth grade student. She came to Kasumi Town to see off her zoologist parents on their trip to Africa to do research. In the center of the town, surrounded by forest, is the large mansion belonging to the Kasumi family where Kasumi will be staying from now on.\n\nKasumi passes through the mansion\'s gate right away, but a strange atmosphere emanates from somewhere in the Kasumi Forest. When he finally makes it to the mansion, there are talking appliances! It would seem that members of the Kasumi family were youkai called ""Henamon"". Kasumi never dreamed she would end up living with a family of Henamon. She is very busy doing the cooking, laundry, and cleaning in exchange for living there. Surrounded by mysterious companions, what will become of Kasumi\'s new life?\n\n(Source: AniDB)'"
-animeRelated	[b'Kasumin 2nd Season']
-animeCharacters	[b'Haruno, Kasumi', b'Kasumi, Ranko', b'Haniwa-fujin', b'Fuujin', b'Kirino, Kirihiko', b'Tsuchimikado, Shikao', b'Yamada, Koala', b'Raijin', b'Corn', b'Don-chan']
-animeVoices	[b'\nMizuhashi, Kaori\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nTachibana, Yuuko\nJapanese\n', b'\nNakamura, Daiki\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nNarahashi, Miki\nJapanese\n', b'\nUmezu, Hideyuki\nJapanese\n', b'\nIkeda, Chigusa\nJapanese\n', b'\nSakuma, Rei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHongou, Mitsuru\n\nDirector, Episode Director, Storyboard\n\n', b'\nYoshida, Reiko\n\nScript\n\n', b'\nIkeda, Mamiko\n\nScript\n\n', b'\nNanba, Hitoshi\n\nStoryboard\n\n']
+animePopularity	13027
+animeDescription	"Kasumi Haruno is a fourth grade student. She came to Kasumi Town to see off her zoologist parents on their trip to Africa to do research. In the center of the town, surrounded by forest, is the large mansion belonging to the Kasumi family where Kasumi will be staying from now on.
+
+Kasumi passes through the mansion's gate right away, but a strange atmosphere emanates from somewhere in the Kasumi Forest. When he finally makes it to the mansion, there are talking appliances! It would seem that members of the Kasumi family were youkai called ""Henamon"". Kasumi never dreamed she would end up living with a family of Henamon. She is very busy doing the cooking, laundry, and cleaning in exchange for living there. Surrounded by mysterious companions, what will become of Kasumi's new life?
+
+(Source: AniDB)"
+animeRelated	['Kasumin 2nd Season']
+animeCharacters	['Haruno, Kasumi', 'Kasumi, Ranko', 'Haniwa-fujin', 'Fuujin', 'Kirino, Kirihiko', 'Tsuchimikado, Shikao', 'Yamada, Koala', 'Raijin', 'Corn', 'Don-chan']
+animeVoices	['Mizuhashi, Kaori', 'Neya, Michiko', 'Tachibana, Yuuko', 'Nakamura, Daiki', 'Saiga, Mitsuki', 'Narahashi, Miki', 'Umezu, Hideyuki', 'Ikeda, Chigusa', 'Sakuma, Rei']
+animeStaff	[['Hongou, Mitsuru', 'Director, Episode Director, Storyboard'], ['Yoshida, Reiko', 'Script'], ['Ikeda, Mamiko', 'Script'], ['Nanba, Hitoshi', 'Storyboard']]

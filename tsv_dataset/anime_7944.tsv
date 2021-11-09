@@ -1,5 +1,5 @@
-animeTitle	b'Itsuka Tenma no Kuro Usagi Picture Drama'
-animeType	b'Special'
+animeTitle	Itsuka Tenma no Kuro Usagi Picture Drama
+animeType	Special
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,17 @@ animeNumMembers
 animeScore	6.15
 animeUsers	1735
 animeRank	
-animePopularity	
-animeDescription	"b""Picture Dramas from the Blu-ray disks.\n\nEpisodes:\n1 - Let's Just Do It Radio!\n2 - Each One's Breakfast \n3 - Himea's Guitar Lesson\n4 - Each One's Bath Time\n5 - Traditional Feeling\n6 - Izumi-chan's What If Series"""
-animeRelated	[b'Itsuka Tenma no Kuro Usagi']
-animeCharacters	[b'Saito, Himea', b'Andou, Mirai', b'Kurogane, Taito', b'Kurenai, Gekkou', b'Kurenai, Hinata', b'Shigure, Haruka', b'Aomi, Izumi', b'Kurogane, Yuika']
-animeVoices	[b'\nTakamoto, Megumi\nJapanese\n', b'\nNomizu, Iori\nJapanese\n', b'\nTachibana, Shinnosuke\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nMina\nJapanese\n', b'\nHorikawa, Chika\nJapanese\n', b'\nTakamori, Natsumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIsono, Satoshi\n\nCharacter Design\n\n']
+animePopularity	6346
+animeDescription	"Picture Dramas from the Blu-ray disks.
+
+Episodes:
+1 - Let's Just Do It Radio!
+2 - Each One's Breakfast 
+3 - Himea's Guitar Lesson
+4 - Each One's Bath Time
+5 - Traditional Feeling
+6 - Izumi-chan's What If Series"
+animeRelated	['Itsuka Tenma no Kuro Usagi']
+animeCharacters	['Saito, Himea', 'Andou, Mirai', 'Kurogane, Taito', 'Kurenai, Gekkou', 'Kurenai, Hinata', 'Shigure, Haruka', 'Aomi, Izumi', 'Kurogane, Yuika']
+animeVoices	['Takamoto, Megumi', 'Nomizu, Iori', 'Tachibana, Shinnosuke', 'Nakamura, Yuuichi', 'Fukuyama, Jun', 'Mina', 'Horikawa, Chika', 'Takamori, Natsumi']
+animeStaff	[['Isono, Satoshi', 'Character Design']]

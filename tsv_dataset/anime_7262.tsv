@@ -1,5 +1,5 @@
-animeTitle	b'Bubuki Buranki'
-animeType	b'TV'
+animeTitle	Bubuki Buranki
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.28
 animeUsers	24011
 animeRank	
-animePopularity	
-animeDescription	"b'Away from home for 10 years, Azuma Kazuki had no idea what was awaiting him upon his return. He certainly did not expect to be attacked by dozens of heavily armed people and taken as their prisoner. Fortunately, Azuma\'s stay in captivity is short. Wielding a strange sentient weapon\xe2\x80\x94known as ""Bubuki""\xe2\x80\x94upon her right arm, his childhood friend, Kogane Asabuki, rescues him.\n\nAfter escaping, Azuma learns that he too has the power to control Bubuki. Together with his new companions, he must revive the Buranki titan named Oubu, that sleeps somewhere deep underground. With this knowledge and purpose, a new path to unearth the truths behind the Buranki opens before Azuma.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Bubuki Buranki: Hoshi no Kyojin']
-animeCharacters	[b'Taneomi, Shizuru', b'Ougi, Kinoa', b'Asabuki, Kogane', b'Kazuki, Azuma', b'Nono, Hiiragi', b'Banryuu, Reoko', b'Kazuki, Kaoruko', b'Matobai, Shuusaku', b'Homeless', b'Arsenyevich Balakirev, Maxim']
-animeVoices	[b'\nKomatsu, Mikako\nJapanese\n', b'\nIshigami, Shizuka\nJapanese\n', b'\nOzawa, Ari\nJapanese\n', b'\nKobayashi, Yuusuke\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nHan, Megumi\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nNishimura, Taisuke\nJapanese\n', b'\nKawanishi, Kengo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirasawa, Nao\n\nProducer\n\n', b'\nKomatsuda, Daizen\n\nDirector, Episode Director, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nKitajima, Yukinori\n\nScript, Series Composition\n\n']
+animePopularity	2060
+animeDescription	"Away from home for 10 years, Azuma Kazuki had no idea what was awaiting him upon his return. He certainly did not expect to be attacked by dozens of heavily armed people and taken as their prisoner. Fortunately, Azuma's stay in captivity is short. Wielding a strange sentient weapon—known as ""Bubuki""—upon her right arm, his childhood friend, Kogane Asabuki, rescues him.
+
+After escaping, Azuma learns that he too has the power to control Bubuki. Together with his new companions, he must revive the Buranki titan named Oubu, that sleeps somewhere deep underground. With this knowledge and purpose, a new path to unearth the truths behind the Buranki opens before Azuma.
+
+[Written by MAL Rewrite]"
+animeRelated	['Bubuki Buranki: Hoshi no Kyojin']
+animeCharacters	['Taneomi, Shizuru', 'Ougi, Kinoa', 'Asabuki, Kogane', 'Kazuki, Azuma', 'Nono, Hiiragi', 'Banryuu, Reoko', 'Kazuki, Kaoruko', 'Matobai, Shuusaku', 'Homeless', 'Arsenyevich Balakirev, Maxim']
+animeVoices	['Komatsu, Mikako', 'Ishigami, Shizuka', 'Ozawa, Ari', 'Kobayashi, Yuusuke', 'Saitou, Souma', 'Han, Megumi', 'Kanemoto, Hisako', 'Tsuda, Kenjirou', 'Nishimura, Taisuke', 'Kawanishi, Kengo']
+animeStaff	[['Hirasawa, Nao', 'Producer'], ['Komatsuda, Daizen', 'Director, Episode Director, Storyboard'], ['Aketagawa, Jin', 'Sound Director'], ['Kitajima, Yukinori', 'Script, Series Composition']]

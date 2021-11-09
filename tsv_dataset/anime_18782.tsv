@@ -1,5 +1,5 @@
-animeTitle	b'Reiju Gakuen'
-animeType	b'OVA'
+animeTitle	Reiju Gakuen
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.54
 animeUsers	634
 animeRank	
-animePopularity	
-animeDescription	b'When the new instructor arrives, her lesson plan is filled with debased acts and sinful examinations. And the only way to get some extra credit is to volunteer for some hands-on learning!'
+animePopularity	8977
+animeDescription	When the new instructor arrives, her lesson plan is filled with debased acts and sinful examinations. And the only way to get some extra credit is to volunteer for some hands-on learning!
 animeRelated	[]
-animeCharacters	[b'Hara, Miyuki', b'Kou', b'Itou, Keiko']
-animeVoices	[b'\nHoujou, Asuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshida, Tooru\n\nDirector\n\n', b'\nSano, Hiroaki\n\nMusic\n\n', b'\nKatou, Hiroto\n\nCharacter Design\n\n']
+animeCharacters	['Hara, Miyuki', 'Kou', 'Itou, Keiko']
+animeVoices	['Houjou, Asuka']
+animeStaff	[['Ishida, Tooru', 'Director'], ['Sano, Hiroaki', 'Music'], ['Katou, Hiroto', 'Character Design']]

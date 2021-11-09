@@ -1,5 +1,5 @@
-animeTitle	b'Kakutou Ryouri Densetsu Bistro Recipe'
-animeType	b'TV'
+animeTitle	Kakutou Ryouri Densetsu Bistro Recipe
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.04
 animeUsers	1651
 animeRank	
-animePopularity	
-animeDescription	"b'An 11-year old boy named Zen bands together with his younger sister, Karen, and a young boy who has a large appetite, Pitan, to battle an evil empire by using their ""Foodons""; strange monsters that are created from various foods.\n\n(Source: ANN)'"
+animePopularity	7402
+animeDescription	"An 11-year old boy named Zen bands together with his younger sister, Karen, and a young boy who has a large appetite, Pitan, to battle an evil empire by using their ""Foodons""; strange monsters that are created from various foods.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Makunouchi, Zen', b'Miamia', b'Pi-tan', b'Haoji', b'Makunouchi, Tsukiji', b'Makunouchi, Karin']
-animeVoices	[b'\nSakamoto, Chika\nJapanese\n', b'\nHayashi, Tamao\nJapanese\n', b'\nMita, Yuuko\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nIwasaki, Masami\nJapanese\n', b'\nNasu, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYasumi, Tetsuo\n\nDirector, Series Composition\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nYamazaki, Yuuta\n\nTheme Song Performance\n\n', b'\nFujita, Tsutomu\n\nArt Director\n\n']
+animeCharacters	['Makunouchi, Zen', 'Miamia', 'Pi-tan', 'Haoji', 'Makunouchi, Tsukiji', 'Makunouchi, Karin']
+animeVoices	['Sakamoto, Chika', 'Hayashi, Tamao', 'Mita, Yuuko', 'Takagi, Wataru', 'Iwasaki, Masami', 'Nasu, Megumi']
+animeStaff	[['Yasumi, Tetsuo', 'Director, Series Composition'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Yamazaki, Yuuta', 'Theme Song Performance'], ['Fujita, Tsutomu', 'Art Director']]

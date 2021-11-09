@@ -1,5 +1,5 @@
-animeTitle	b'Bannou Bunka Neko-Musume Specials'
-animeType	b'Special'
+animeTitle	Bannou Bunka Neko-Musume Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.36
 animeUsers	599
 animeRank	
-animePopularity	
-animeDescription	b'Special episodes that take place between episodes 10 & 11 of the TV series.'
-animeRelated	[b'Bannou Bunka Neko-Musume (1998)']
-animeCharacters	[b'Nuku Nuku', b'Natsume, Ryuunosuke', b'Natsume, Kyusaku', b'Shibata, Rie', b'Shimizaki, Rintarou', b'Oizumi, Yakumo', b'Yamagata, Mr.', b'Kaihara, Futaba', b'Natsume, Akiko', b'Shirakaba, Chieko']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakada, Yuuzo\n\nOriginal Creator\n\n']
+animePopularity	10000
+animeDescription	Special episodes that take place between episodes 10 & 11 of the TV series.
+animeRelated	['Bannou Bunka Neko-Musume (1998)']
+animeCharacters	['Nuku Nuku', 'Natsume, Ryuunosuke', 'Natsume, Kyusaku', 'Shibata, Rie', 'Shimizaki, Rintarou', 'Oizumi, Yakumo', 'Yamagata, Mr.', 'Kaihara, Futaba', 'Natsume, Akiko', 'Shirakaba, Chieko']
+animeVoices	['Hayashibara, Megumi']
+animeStaff	[['Takada, Yuuzo', 'Original Creator']]

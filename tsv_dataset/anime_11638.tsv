@@ -1,5 +1,5 @@
-animeTitle	b'Felix no Meitantei'
-animeType	b'Movie'
+animeTitle	Felix no Meitantei
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	4.83
 animeUsers	196
 animeRank	
-animePopularity	
-animeDescription	"b""Looking for Hanako's stolen shoes, black cat detective Felix starts to move.\n"""
-animeRelated	[b'Baby Felix']
+animePopularity	13553
+animeDescription	"Looking for Hanako's stolen shoes, black cat detective Felix starts to move.
+"
+animeRelated	['Baby Felix']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

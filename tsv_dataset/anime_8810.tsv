@@ -1,5 +1,5 @@
-animeTitle	b'Choujin Locke: Shinsekai Sentai'
-animeType	b'OVA'
+animeTitle	Choujin Locke: Shinsekai Sentai
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,17 @@ animeNumMembers
 animeScore	5.96
 animeUsers	316
 animeRank	
-animePopularity	
-animeDescription	"b""Azalea has been residing on the Colony-Planet of Dinahl, and she can't recall anything about herself until she hears a voice calling her name.\n\nThen there is another voice summoning her to go to a park on top of a skyscraper. Once she arrives there, she meets up with other people who also have no recollection of who they are or what they were doing before arriving at this destination as instructed by the voice.\n\nAll the people assembled there possess superhuman powers, such as Eno's psychic power, Umoth's x-ray vision, Neia's teleportation powers, Azalea's telepathy, and Locke's electrical wizardry.\n\nWho has summoned them, and what will the five super-psychics confront?\n\n(Source: Official Site)"""
-animeRelated	[b'Choujin Locke', b'Choujin Locke: Lord Leon', b'Choujin Locke: Mirror Ring']
-animeCharacters	[b'Locke', b'Lan', b'Elana']
-animeVoices	[b'\nTobita, Nobuo\nJapanese\n', b'\nHonda, Chieko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHayase, Hiroyuki\n\nSound Director\n\n', b'\nMoriyama, Yuuji\n\nAnimation Director\n\n', b'\nMatsuda, Akihiko\n\nSound Effects\n\n', b'\nShigeta, Atsushi\n\n2nd Key Animation, Animation Director\n\n']
+animePopularity	10866
+animeDescription	"Azalea has been residing on the Colony-Planet of Dinahl, and she can't recall anything about herself until she hears a voice calling her name.
+
+Then there is another voice summoning her to go to a park on top of a skyscraper. Once she arrives there, she meets up with other people who also have no recollection of who they are or what they were doing before arriving at this destination as instructed by the voice.
+
+All the people assembled there possess superhuman powers, such as Eno's psychic power, Umoth's x-ray vision, Neia's teleportation powers, Azalea's telepathy, and Locke's electrical wizardry.
+
+Who has summoned them, and what will the five super-psychics confront?
+
+(Source: Official Site)"
+animeRelated	['Choujin Locke', 'Choujin Locke: Lord Leon', 'Choujin Locke: Mirror Ring']
+animeCharacters	['Locke', 'Lan', 'Elana']
+animeVoices	['Tobita, Nobuo', 'Honda, Chieko']
+animeStaff	[['Hayase, Hiroyuki', 'Sound Director'], ['Moriyama, Yuuji', 'Animation Director'], ['Matsuda, Akihiko', 'Sound Effects'], ['Shigeta, Atsushi', '2nd Key Animation, Animation Director']]

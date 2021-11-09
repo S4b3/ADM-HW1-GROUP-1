@@ -1,5 +1,5 @@
-animeTitle	b'Seikai no Danshou: Tanjou'
-animeType	b'Special'
+animeTitle	Seikai no Danshou: Tanjou
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.1
 animeUsers	3720
 animeRank	
-animePopularity	
-animeDescription	"b""This is the story about how Dubus, Lafiel's father, and Plakia after an adventure on a mysterious, abandoned spaceship decided to have a daughter together and why Dubus gave her the name Lafiel. \n\n(Source: ANN)"""
-animeRelated	[b'Seikai no Danshou', b'Seikai no Monshou']
-animeCharacters	[b'Lexshue, Plakia', b'Debrusc, Abriel', b'Abriel, Lafiel', b'Narrator']
-animeVoices	[b'\nTakashima, Gara\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nJo, Haruhiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNabeshima, Osamu\n\nDirector, Storyboard\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nUeda, Masuo\n\nPlanning\n\n', b'\nMorioka, Hiroyuki\n\nOriginal Creator\n\n']
+animePopularity	5835
+animeDescription	"This is the story about how Dubus, Lafiel's father, and Plakia after an adventure on a mysterious, abandoned spaceship decided to have a daughter together and why Dubus gave her the name Lafiel. 
+
+(Source: ANN)"
+animeRelated	['Seikai no Danshou', 'Seikai no Monshou']
+animeCharacters	['Lexshue, Plakia', 'Debrusc, Abriel', 'Abriel, Lafiel', 'Narrator']
+animeVoices	['Takashima, Gara', 'Kawasumi, Ayako', 'Jo, Haruhiko']
+animeStaff	[['Nabeshima, Osamu', 'Director, Storyboard'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Ueda, Masuo', 'Planning'], ['Morioka, Hiroyuki', 'Original Creator']]

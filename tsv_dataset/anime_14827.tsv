@@ -1,5 +1,5 @@
-animeTitle	b'Anpanman to Hajime yo! Iro, Kazu, Katachi Wakarukana Iro, Katachi'
-animeType	b'Special'
+animeTitle	Anpanman to Hajime yo! Iro, Kazu, Katachi Wakarukana Iro, Katachi
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'Part of the ""Let\'s start with Anpanman"" series of educational animation for kindergarten children featuring characters from Anpanman.'"
-animeRelated	[b'Sore Ike! Anpanman']
-animeCharacters	[b'Anpanman', b'Baikinman', b'Dokin-chan', b'Creampanda']
-animeVoices	[b'\nToda, Keiko\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nNagasawa, Miki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOoga, Shunji\n\nDirector\n\n', b'\nYanase, Takashi\n\nOriginal Creator\n\n']
+animePopularity	14072
+animeDescription	"Part of the ""Let's start with Anpanman"" series of educational animation for kindergarten children featuring characters from Anpanman."
+animeRelated	['Sore Ike! Anpanman']
+animeCharacters	['Anpanman', 'Baikinman', 'Dokin-chan', 'Creampanda']
+animeVoices	['Toda, Keiko', 'Nakao, Ryusei', 'Tsuru, Hiromi', 'Nagasawa, Miki']
+animeStaff	[['Ooga, Shunji', 'Director'], ['Yanase, Takashi', 'Original Creator']]

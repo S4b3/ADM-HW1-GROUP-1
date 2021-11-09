@@ -1,5 +1,5 @@
-animeTitle	b'Captain Future: Kareinaru Taiyokei Race'
-animeType	b'Special'
+animeTitle	Captain Future: Kareinaru Taiyokei Race
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.01
 animeUsers	292
 animeRank	
-animePopularity	
-animeDescription	b'Sequel of Captain Future.'
-animeRelated	[b'Captain Future']
-animeCharacters	[b'Newton, Curtis']
+animePopularity	11607
+animeDescription	Sequel of Captain Future.
+animeRelated	['Captain Future']
+animeCharacters	['Newton, Curtis']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOono, Yuuji\n\nMusic\n\n', b'\nNoda, Takuo\n\nKey Animation, Animation Director, Character Design\n\n', b'\nTsuji, Tadanao\n\nArt Director\n\n']
+animeStaff	[['Oono, Yuuji', 'Music'], ['Noda, Takuo', 'Key Animation, Animation Director, Character Design'], ['Tsuji, Tadanao', 'Art Director']]

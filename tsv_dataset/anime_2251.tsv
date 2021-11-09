@@ -1,5 +1,5 @@
-animeTitle	b'Slayers Great'
-animeType	b'Movie'
+animeTitle	Slayers Great
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.33
 animeUsers	8803
 animeRank	
-animePopularity	
-animeDescription	b'Laia Einburg wants for her father Galia, who is a talented golom maker, and her equally ambitious brother Huey to end a long running feud. But her luck changes for the worse when Lina Inverse and Naga the Serpent save Laia from a rampaging golem. \n\n(Source: ANN)'
-animeRelated	[b'Slayers Original Movie Screenplay Book', b'Slayers Gorgeous', b'Slayers Return']
-animeCharacters	"[b'Inverse, Lina', b'Saillune, Gracia Ul Naga', b""Granion's Aid"", b'Sorcerer', b'Einburg, Galia', b'Lord Haizen', b'Einburg, Huey', b'Lord Granion', b'Einburg, Laia']"
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nKawamura, Maria\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nKatou, Seizou\nJapanese\n', b'\nKawakubo, Kiyoshi\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector, Storyboard\n\n', b'\nWatanabe, Hiroshi\n\nDirector\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nHayashibara, Megumi\n\nTheme Song Performance\n\n']
+animePopularity	4222
+animeDescription	"Laia Einburg wants for her father Galia, who is a talented golom maker, and her equally ambitious brother Huey to end a long running feud. But her luck changes for the worse when Lina Inverse and Naga the Serpent save Laia from a rampaging golem. 
+
+(Source: ANN)"
+animeRelated	['Slayers Original Movie Screenplay Book', 'Slayers Gorgeous', 'Slayers Return']
+animeCharacters	"['Inverse, Lina', 'Saillune, Gracia Ul Naga', ""Granion's Aid"", 'Sorcerer', 'Einburg, Galia', 'Lord Haizen', 'Einburg, Huey', 'Lord Granion', 'Einburg, Laia']"
+animeVoices	['Hayashibara, Megumi', 'Kawamura, Maria', 'Shiozawa, Kaneto', 'Katou, Seizou', 'Kawakubo, Kiyoshi', 'Koyasu, Takehito', 'Wakamoto, Norio', 'Inoue, Kikuko']
+animeStaff	[['Yuyama, Kunihiko', 'Director, Storyboard'], ['Watanabe, Hiroshi', 'Director'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Hayashibara, Megumi', 'Theme Song Performance']]

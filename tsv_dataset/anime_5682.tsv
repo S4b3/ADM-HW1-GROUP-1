@@ -1,5 +1,5 @@
-animeTitle	b'Anime de Wakaru Shinryounaika'
-animeType	b'ONA'
+animeTitle	Anime de Wakaru Shinryounaika
+animeType	ONA
 animeNumEpisode	20
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.58
 animeUsers	14935
 animeRank	
-animePopularity	
-animeDescription	b'The psychologist Ryou and his cheerful nurse Asuna explain many aspects of mental illness to the reader. They cover topics such as the validity, prevalence, and origins of mental disorders, in addition to addressing specific disorders. The information is imparted in a cheerful and comic manner, with various jokes, puns, and pop culture references.\n\n(Source: MU)'
-animeRelated	[b'Manga de Wakaru Shinryounaika']
-animeCharacters	[b'Kangoshi, Asuna', b'Shinnai, Ryou', b'Kangoshi, Himeru', b'Kangoshi, Iyashi', b'Kangoshi, Sukizou', b'Sudou, Kazuki']
-animeVoices	[b'\nEndou, Yurika\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nSudou, Saori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOgura, Hirofumi\n\nDirector\n\n', b'\nOokuma, Akira\n\nSound Director\n\n', b'\nUchida, Maaya\n\nTheme Song Performance\n\n', b'\nKurosu, Katsuhiko\n\nTheme Song Arrangement\n\n']
+animePopularity	2855
+animeDescription	"The psychologist Ryou and his cheerful nurse Asuna explain many aspects of mental illness to the reader. They cover topics such as the validity, prevalence, and origins of mental disorders, in addition to addressing specific disorders. The information is imparted in a cheerful and comic manner, with various jokes, puns, and pop culture references.
+
+(Source: MU)"
+animeRelated	['Manga de Wakaru Shinryounaika']
+animeCharacters	['Kangoshi, Asuna', 'Shinnai, Ryou', 'Kangoshi, Himeru', 'Kangoshi, Iyashi', 'Kangoshi, Sukizou', 'Sudou, Kazuki']
+animeVoices	['Endou, Yurika', 'Miki, Shinichiro', 'Uchida, Maaya', 'Hikasa, Youko', 'Ogata, Kenichi', 'Sudou, Saori']
+animeStaff	[['Ogura, Hirofumi', 'Director'], ['Ookuma, Akira', 'Sound Director'], ['Uchida, Maaya', 'Theme Song Performance'], ['Kurosu, Katsuhiko', 'Theme Song Arrangement']]

@@ -1,5 +1,5 @@
-animeTitle	b'Eikoku Koi Monogatari Emma: Molders-hen'
-animeType	b'TV'
+animeTitle	Eikoku Koi Monogatari Emma: Molders-hen
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.84
 animeUsers	10613
 animeRank	
-animePopularity	
-animeDescription	"b""In the faraway village of Haworth, a new chapter in Emma's life has begun. Now employed by the wealthy Molders family, Emma has resolved to put the past behind her. She'll have to adjust to a new house, a charming (but eccentric) new mistress, and a host of fellow servants, some with buried pasts of their own.\n\nMeanwhile, back in London, William is doing his best to uphold his father's wishes as the Jones family heir, but try as he might, he can't forget Emma. Yet, whenever he feels at his worst, Eleanor is always there to comfort him with a warm, shy smile. Could the answer to his broken heart be right before his eyes?\n\n(Source: RightStuf)"""
-animeRelated	[b'Emma', b'Eikoku Koi Monogatari Emma']
-animeCharacters	[b'Emma', b'Jones, William', b'Atawari, Hakim', b'Molders, Dorothea', b'Hans', b'Stownar, Kelly', b'Jones, Collin', b'Campbell, Eleanor', b'Ad\xc3\xa8le', b'Jones, Aurelia']
-animeVoices	[b'\nTouma, Yumi\nJapanese\n', b'\nKawashima, Tokuyoshi\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nTakashima, Gara\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n', b'\nShitaya, Noriko\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nShimamoto, Sumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Tsuneo\n\nDirector\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nYoshida, Reiko\n\nScript\n\n', b'\nKojima, Tadashi\n\nStoryboard\n\n']
+animePopularity	3757
+animeDescription	"In the faraway village of Haworth, a new chapter in Emma's life has begun. Now employed by the wealthy Molders family, Emma has resolved to put the past behind her. She'll have to adjust to a new house, a charming (but eccentric) new mistress, and a host of fellow servants, some with buried pasts of their own.
+
+Meanwhile, back in London, William is doing his best to uphold his father's wishes as the Jones family heir, but try as he might, he can't forget Emma. Yet, whenever he feels at his worst, Eleanor is always there to comfort him with a warm, shy smile. Could the answer to his broken heart be right before his eyes?
+
+(Source: RightStuf)"
+animeRelated	['Emma', 'Eikoku Koi Monogatari Emma']
+animeCharacters	['Emma', 'Jones, William', 'Atawari, Hakim', 'Molders, Dorothea', 'Hans', 'Stownar, Kelly', 'Jones, Collin', 'Campbell, Eleanor', 'Adèle', 'Jones, Aurelia']
+animeVoices	['Touma, Yumi', 'Kawashima, Tokuyoshi', 'Ueda, Yuuji', 'Takashima, Gara', 'Touchi, Hiroki', 'Shitaya, Noriko', 'Kobayashi, Sanae', 'Saiga, Mitsuki', 'Shimamoto, Sumi']
+animeStaff	[['Kobayashi, Tsuneo', 'Director'], ['Kikuta, Hiromi', 'Sound Director'], ['Yoshida, Reiko', 'Script'], ['Kojima, Tadashi', 'Storyboard']]

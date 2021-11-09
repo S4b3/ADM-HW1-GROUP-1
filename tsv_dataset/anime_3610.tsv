@@ -1,5 +1,5 @@
-animeTitle	b'Deltora Quest'
-animeType	b'TV'
+animeTitle	Deltora Quest
+animeType	TV
 animeNumEpisode	65
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.04
 animeUsers	9416
 animeRank	
-animePopularity	
-animeDescription	"b""Long ago, the blacksmith Adin forged a belt of seven powerful gems, one from each of the seven tribes of Deltora. Wielding the belt's unparalleled power, he repelled the Shadow Lord's attempt to overthrow the kingdom. Adin was crowned king of Deltora, but he never forgot that the enemy remained unbeaten. \n\nCenturies later, memory of the Shadow Lord has become faded and almost forgotten, and the people of Deltora see their monarchy as detached and uncaring. Much to their dismay, the Shadow Lord strikes once more, breaking the Belt of Deltora by scattering the seven gems across the continent. Jarred, a close friend of the young king Endon, assists him and his wife in escaping from the castle as the Shadow Lord takes over, and they part ways to go into hiding.\n\nThe Shadow Lord now reigns over Deltora and many years pass under his tyrannical rule. However, there is a glimmer of hope in Jarred's son Lief, whom he has lovingly raised and trained to find the scattered gemstones and reassemble the Belt of Deltora. Along with his companions Barda and Jasmine, Lief must face devious enemies and dangerous beasts to oust the Shadow Lord and return peace to Deltora.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Deltora Quest']
-animeCharacters	[b'Jasmine', b'Lief', b'Barda', b'Dain', b'Doom', b'Gorl', b'Thaegan ', b'Glock', b'Jin', b'Golden-eyed Giant']
-animeVoices	[b'\nTakagaki, Ayahi\nJapanese\n', b'\nSakamaki, Ryosuke\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nMorita, Junpei\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n', b'\nTachiki, Fumihiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHongou, Mitsuru\n\nDirector\n\n', b'\nTsuchiya, Hiroyuki\n\nEpisode Director\n\n', b'\nYoshida, Reiko\n\nScript\n\n', b'\nYokotani, Masahiro\n\nScript\n\n']
+animePopularity	3587
+animeDescription	"Long ago, the blacksmith Adin forged a belt of seven powerful gems, one from each of the seven tribes of Deltora. Wielding the belt's unparalleled power, he repelled the Shadow Lord's attempt to overthrow the kingdom. Adin was crowned king of Deltora, but he never forgot that the enemy remained unbeaten. 
+
+Centuries later, memory of the Shadow Lord has become faded and almost forgotten, and the people of Deltora see their monarchy as detached and uncaring. Much to their dismay, the Shadow Lord strikes once more, breaking the Belt of Deltora by scattering the seven gems across the continent. Jarred, a close friend of the young king Endon, assists him and his wife in escaping from the castle as the Shadow Lord takes over, and they part ways to go into hiding.
+
+The Shadow Lord now reigns over Deltora and many years pass under his tyrannical rule. However, there is a glimmer of hope in Jarred's son Lief, whom he has lovingly raised and trained to find the scattered gemstones and reassemble the Belt of Deltora. Along with his companions Barda and Jasmine, Lief must face devious enemies and dangerous beasts to oust the Shadow Lord and return peace to Deltora.
+
+[Written by MAL Rewrite]"
+animeRelated	['Deltora Quest']
+animeCharacters	['Jasmine', 'Lief', 'Barda', 'Dain', 'Doom', 'Gorl', 'Thaegan ', 'Glock', 'Jin', 'Golden-eyed Giant']
+animeVoices	['Takagaki, Ayahi', 'Sakamaki, Ryosuke', 'Yara, Yuusaku', 'Saiga, Mitsuki', 'Morita, Junpei', 'Fujita, Toshiko', 'Tachiki, Fumihiko']
+animeStaff	[['Hongou, Mitsuru', 'Director'], ['Tsuchiya, Hiroyuki', 'Episode Director'], ['Yoshida, Reiko', 'Script'], ['Yokotani, Masahiro', 'Script']]

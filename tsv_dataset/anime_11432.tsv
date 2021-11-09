@@ -1,5 +1,5 @@
-animeTitle	b'MD Geist II: Death Force'
-animeType	b'OVA'
+animeTitle	MD Geist II: Death Force
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.02
 animeUsers	4138
 animeRank	
-animePopularity	
-animeDescription	b'After unleashing the Death Force machines all over the planet Jerra, Geist has kept himself busy by dismantling them one by one. But now he faces a formidable opponent in the form of Krauser, another M.D.S. (Most Dangerous Soldier) who has aligned himself as the only savior of mankind.\n\n(Source: ANN)'
-animeRelated	[b'Soukihei MD Geist']
-animeCharacters	[b'Geist', b'Krauser', b'Vaiya', b'Eagle', b'Dr. Breston']
-animeVoices	[b'\nNakata, Kazuhiro\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nTsuji, Shinpachi\nJapanese\n', b'\nNaya, Rokurou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOhata, Koichi\n\nDirector, Script, Mechanical Design, Creator\n\n', b'\nKishi, Masayuki\n\nTheme Song Composition\n\n', b'\nOoshiro, Tsutomu\n\nKey Animation\n\n', b'\nKozuma, Shinsaku\n\nKey Animation\n\n']
+animePopularity	6078
+animeDescription	"After unleashing the Death Force machines all over the planet Jerra, Geist has kept himself busy by dismantling them one by one. But now he faces a formidable opponent in the form of Krauser, another M.D.S. (Most Dangerous Soldier) who has aligned himself as the only savior of mankind.
+
+(Source: ANN)"
+animeRelated	['Soukihei MD Geist']
+animeCharacters	['Geist', 'Krauser', 'Vaiya', 'Eagle', 'Dr. Breston']
+animeVoices	['Nakata, Kazuhiro', 'Shiozawa, Kaneto', 'Matsumoto, Rica', 'Tsuji, Shinpachi', 'Naya, Rokurou']
+animeStaff	[['Ohata, Koichi', 'Director, Script, Mechanical Design, Creator'], ['Kishi, Masayuki', 'Theme Song Composition'], ['Ooshiro, Tsutomu', 'Key Animation'], ['Kozuma, Shinsaku', 'Key Animation']]

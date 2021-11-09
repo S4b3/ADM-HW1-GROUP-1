@@ -1,5 +1,5 @@
-animeTitle	b'Metal Fight Beyblade Zero G Specials'
-animeType	b'Special'
+animeTitle	Metal Fight Beyblade Zero G Specials
+animeType	Special
 animeNumEpisode	7
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.03
 animeUsers	1137
 animeRank	
-animePopularity	
-animeDescription	"b'The last seven unaired episodes of ""Metal Fight Beyblade Zero G"" released on DVD volumes 6 and 7 of the series.'"
-animeRelated	[b'Metal Fight Beyblade Zero G']
-animeCharacters	[b'Kurogane, Zero', b'Hiryuin, Shinobu', b'Kurenai, Ren', b'Unabara, Eight', b'Unabara, Kite', b'Hagane, Ginga', b'Ootori, Tsubasa', b'Yumiya, Kenta', b'Amano, Madoka', b'Kurayami, Sakyo']
-animeVoices	[b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nOki, Kanae\nJapanese\n', b'\nKodaira, Yuuki\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nKanada, Aki\nJapanese\n', b'\nIrino, Miyu\nJapanese\n', b'\nShindou, Kei\nJapanese\n', b'\nYamamoto, Shouma\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsui, Hitoyuki\n\nStoryboard\n\n', b'\nNagamori, Yoshihiro\n\nCharacter Design\n\n']
+animePopularity	8270
+animeDescription	"The last seven unaired episodes of ""Metal Fight Beyblade Zero G"" released on DVD volumes 6 and 7 of the series."
+animeRelated	['Metal Fight Beyblade Zero G']
+animeCharacters	['Kurogane, Zero', 'Hiryuin, Shinobu', 'Kurenai, Ren', 'Unabara, Eight', 'Unabara, Kite', 'Hagane, Ginga', 'Ootori, Tsubasa', 'Yumiya, Kenta', 'Amano, Madoka', 'Kurayami, Sakyo']
+animeVoices	['Okamoto, Nobuhiko', 'Uchiyama, Kouki', 'Oki, Kanae', 'Kodaira, Yuuki', 'Terashima, Takuma', 'Kanada, Aki', 'Irino, Miyu', 'Shindou, Kei', 'Yamamoto, Shouma']
+animeStaff	[['Matsui, Hitoyuki', 'Storyboard'], ['Nagamori, Yoshihiro', 'Character Design']]

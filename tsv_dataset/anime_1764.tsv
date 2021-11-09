@@ -1,5 +1,5 @@
-animeTitle	b'Sugar Sugar Rune'
-animeType	b'TV'
+animeTitle	Sugar Sugar Rune
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.46
 animeUsers	13835
 animeRank	
-animePopularity	
-animeDescription	"b'Chocolat Meilleure and Vanilla Mieux are two witches who are pitched in a contest to see who will become the new Queen of the Witch World. They must travel to the Human World and collect the hearts of humans. Whoever collects the most ""human hearts"" wins. Even though they\'re rivals, the two are still best friends. Join them on this adventure!'"
-animeRelated	[b'Sugar Sugar Rune']
-animeCharacters	[b'Meilleure, Chocolat', b'Temp\xc3\xaate de Neige, Pierre', b'Mieux, Vanilla', b'Saule', b'Rockin, Robin', b'Duke', b'Houx', b'Yurika', b'Sugiyama, Taiji', b'Joe']
-animeVoices	[b'\nMatsumoto, Marika\nJapanese\n', b'\nKonishi, Ryousei\nJapanese\n', b'\nIhata, Juri\nJapanese\n', b'\nIwahashi, Naoya\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nYasoda, Yuuichi\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nHiguchi, Chieko\nJapanese\n', b'\nKokuryu, Sachi\nJapanese\n', b'\nKiuchi, Hidenobu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOhata, Koichi\n\nProducer, Script\n\n', b'\nKobayashi, Noriko\n\nProducer\n\n', b'\nMatsushita, Yukihiro\n\nDirector, Episode Director, Storyboard\n\n', b'\nHiramitsu, Takuya\n\nSound Director\n\n']
+animePopularity	3061
+animeDescription	"Chocolat Meilleure and Vanilla Mieux are two witches who are pitched in a contest to see who will become the new Queen of the Witch World. They must travel to the Human World and collect the hearts of humans. Whoever collects the most ""human hearts"" wins. Even though they're rivals, the two are still best friends. Join them on this adventure!"
+animeRelated	['Sugar Sugar Rune']
+animeCharacters	['Meilleure, Chocolat', 'Tempête de Neige, Pierre', 'Mieux, Vanilla', 'Saule', 'Rockin, Robin', 'Duke', 'Houx', 'Yurika', 'Sugiyama, Taiji', 'Joe']
+animeVoices	['Matsumoto, Marika', 'Konishi, Ryousei', 'Ihata, Juri', 'Iwahashi, Naoya', 'Tsuda, Kenjirou', 'Yasoda, Yuuichi', 'Kimura, Ryouhei', 'Higuchi, Chieko', 'Kokuryu, Sachi', 'Kiuchi, Hidenobu']
+animeStaff	[['Ohata, Koichi', 'Producer, Script'], ['Kobayashi, Noriko', 'Producer'], ['Matsushita, Yukihiro', 'Director, Episode Director, Storyboard'], ['Hiramitsu, Takuya', 'Sound Director']]

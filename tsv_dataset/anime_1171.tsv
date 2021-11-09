@@ -1,5 +1,5 @@
-animeTitle	b'Rilakkuma to Kaoru-san'
-animeType	b'ONA'
+animeTitle	Rilakkuma to Kaoru-san
+animeType	ONA
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.65
 animeUsers	6220
 animeRank	
-animePopularity	
-animeDescription	b'Her life might be a little mundane, but Kaoru gets to go home to Rilakkuma, her endearingly lazy roommate who happens to be a fuzzy toy bear.\n\n(Source: Netflix)'
-animeRelated	[b'Rilakkuma to Yuuenchi']
-animeCharacters	[b'Rilakkuma', b'Korilakkuma', b'Kiiroitori', b'Kaoru', b'Sayu']
-animeVoices	[b'\nTabe, Mikako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Masahito\n\nDirector\n\n', b'\nOgawa, Iku\n\nAssistant Director, Character Design\n\n']
+animePopularity	4959
+animeDescription	"Her life might be a little mundane, but Kaoru gets to go home to Rilakkuma, her endearingly lazy roommate who happens to be a fuzzy toy bear.
+
+(Source: Netflix)"
+animeRelated	['Rilakkuma to Yuuenchi']
+animeCharacters	['Rilakkuma', 'Korilakkuma', 'Kiiroitori', 'Kaoru', 'Sayu']
+animeVoices	['Tabe, Mikako']
+animeStaff	[['Kobayashi, Masahito', 'Director'], ['Ogawa, Iku', 'Assistant Director, Character Design']]

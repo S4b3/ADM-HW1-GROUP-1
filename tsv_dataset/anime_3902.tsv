@@ -1,5 +1,5 @@
-animeTitle	b'D.C.S.S: Da Capo Second Season'
-animeType	b'TV'
+animeTitle	D.C.S.S: Da Capo Second Season
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.97
 animeUsers	14621
 animeRank	
-animePopularity	
-animeDescription	"b""Hatsune-Jima was once well-known for its cherry trees, which would bloom no matter what time of year it was. Two years ago, the island's cherry trees lost this ability and all became ordinary cherry trees that bloom only in the spring. Jun'ichi Asakura is now a graduating senior at Kazami Academy, and is surrounded by many close friends, old and new alike. On a stormy summer day, a mysterious young girl, Aisia, arrives at Jun'ichi's door. She is looking for Sakura's grandmother to study magic, ultimately hoping to bring happiness to everyone. When she discovers that grandmother Yoshino had long since passed away, she joyfully assumes (thanks to his error in judgment) that Jun'ichi is able to teach her. Even though she finally understands that the only magic he's capable of is conjuring Japanese confections, Aisia continues her search for magic on Hatsune-Jima. Amid the chaos of her search, Kazami Academy hires new medical staff.\n\n(Source: ANN)"""
-animeRelated	[b'D.C.S.G.: Da Capo - Second Graduation', b'D.C.: Da Capo', b'D.C.II: Da Capo II', b'D.C.S.S: Da Capo Second Season Omake']
-animeCharacters	[b'Shirakawa, Kotori', b'Asakura, Nemu', b'Yoshino, Sakura', b'Asakura, Junichi', b'Aisia', b'Utamaru', b'Suginami', b'Mizukoshi, Moe', b'Sagisawa, Misaki', b'Amakase, Miharu']
-animeVoices	[b'\nHorie, Yui\nJapanese\n', b'\nNogawa, Sakura\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nTai, Yuuki\nJapanese\n', b'\nMiyazaki, Ui\nJapanese\n', b'\nMomoi, Haruko\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nItsuki, Yui\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nKanda, Akemi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNawa, Munenori\n\nDirector\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nKamanaka, Nobuharu\n\nEpisode Director, Storyboard\n\n', b'\nAbe, Masashi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3204
+animeDescription	"Hatsune-Jima was once well-known for its cherry trees, which would bloom no matter what time of year it was. Two years ago, the island's cherry trees lost this ability and all became ordinary cherry trees that bloom only in the spring. Jun'ichi Asakura is now a graduating senior at Kazami Academy, and is surrounded by many close friends, old and new alike. On a stormy summer day, a mysterious young girl, Aisia, arrives at Jun'ichi's door. She is looking for Sakura's grandmother to study magic, ultimately hoping to bring happiness to everyone. When she discovers that grandmother Yoshino had long since passed away, she joyfully assumes (thanks to his error in judgment) that Jun'ichi is able to teach her. Even though she finally understands that the only magic he's capable of is conjuring Japanese confections, Aisia continues her search for magic on Hatsune-Jima. Amid the chaos of her search, Kazami Academy hires new medical staff.
+
+(Source: ANN)"
+animeRelated	['D.C.S.G.: Da Capo - Second Graduation', 'D.C.: Da Capo', 'D.C.II: Da Capo II', 'D.C.S.S: Da Capo Second Season Omake']
+animeCharacters	['Shirakawa, Kotori', 'Asakura, Nemu', 'Yoshino, Sakura', 'Asakura, Junichi', 'Aisia', 'Utamaru', 'Suginami', 'Mizukoshi, Moe', 'Sagisawa, Misaki', 'Amakase, Miharu']
+animeVoices	['Horie, Yui', 'Nogawa, Sakura', 'Tamura, Yukari', 'Tai, Yuuki', 'Miyazaki, Ui', 'Momoi, Haruko', 'Kishio, Daisuke', 'Itsuki, Yui', 'Matsuki, Miyu', 'Kanda, Akemi']
+animeStaff	[['Nawa, Munenori', 'Director'], ['Kikuta, Hiromi', 'Sound Director'], ['Kamanaka, Nobuharu', 'Episode Director, Storyboard'], ['Abe, Masashi', 'Episode Director, Storyboard']]

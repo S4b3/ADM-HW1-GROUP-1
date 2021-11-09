@@ -1,5 +1,5 @@
-animeTitle	b'Vatican Kiseki Chousakan'
-animeType	b'TV'
+animeTitle	Vatican Kiseki Chousakan
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.39
 animeUsers	13865
 animeRank	
-animePopularity	
-animeDescription	"b'Vatican City\xe2\x80\x94Holy Land of the Catholics. Amidst the land, there is an organization that conducts rigorous investigations on ""claims of miracles"" from all over the world to ascertain their credibility. The organization is referred to as ""Seito no Za"" (Assembly of Saints) and the priests that belong there are called miracle investigators. Robert Nicholas, an ancient archive and cryptanalysis expert is partnered and good friends with Hiraga Josef Kou, a genius scientist. Together, the brilliant duo investigates the ""miracles"" and uncovers the incidents and conspiracies hidden behind them.\n\n(Source: MAL News)'"
-animeRelated	[b'Vatican Kiseki Chousakan', b'Vatican Kiseki Chousakan: Majo no Soup']
-animeCharacters	[b'Hiraga, Josef Kou', b'Nicholas, Roberto', b'Di Luca, Lauren', b'Michael Borge, Julia', b'Hiraga, Ryouta', b'Presenter', b'Oriola', b'Lotte, Mario', b'Franklin, Sebastian', b'Simeon, Thomas']
-animeVoices	[b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nYonaga, Tsubasa\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYonetani, Yoshitomo\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nTakeda, Yuuichirou\n\nScript\n\n', b'\nMinakami, Seishi\n\nScript, Series Composition\n\n']
+animePopularity	2702
+animeDescription	"Vatican City—Holy Land of the Catholics. Amidst the land, there is an organization that conducts rigorous investigations on ""claims of miracles"" from all over the world to ascertain their credibility. The organization is referred to as ""Seito no Za"" (Assembly of Saints) and the priests that belong there are called miracle investigators. Robert Nicholas, an ancient archive and cryptanalysis expert is partnered and good friends with Hiraga Josef Kou, a genius scientist. Together, the brilliant duo investigates the ""miracles"" and uncovers the incidents and conspiracies hidden behind them.
+
+(Source: MAL News)"
+animeRelated	['Vatican Kiseki Chousakan', 'Vatican Kiseki Chousakan: Majo no Soup']
+animeCharacters	['Hiraga, Josef Kou', 'Nicholas, Roberto', 'Di Luca, Lauren', 'Michael Borge, Julia', 'Hiraga, Ryouta', 'Presenter', 'Oriola', 'Lotte, Mario', 'Franklin, Sebastian', 'Simeon, Thomas']
+animeVoices	['Okamoto, Nobuhiko', 'Suwabe, Junichi', 'Saitou, Souma', 'Yusa, Kouji', 'Yonaga, Tsubasa', 'Shimazaki, Nobunaga']
+animeStaff	[['Yonetani, Yoshitomo', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Takeda, Yuuichirou', 'Script'], ['Minakami, Seishi', 'Script, Series Composition']]

@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam 00 Special Edition'
-animeType	b'OVA'
+animeTitle	Mobile Suit Gundam 00 Special Edition
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.58
 animeUsers	3673
 animeRank	
-animePopularity	
-animeDescription	b'Condensed version of both the first and second seasons of Gundam 00 featuring some new animated sequences and some partially re-recorded dialogue. '
-animeRelated	[b'Mobile Suit Gundam 00', b'Mobile Suit Gundam 00 Second Season']
-animeCharacters	[b'Seiei, Setsuna F.', b'Stratos, Lockon', b'Erde, Tieria', b'Haptism, Allelujah', b'Aker, Graham', b'Haro', b'Grace, Feldt', b'Lee Noriega, Sumeragi', b'Al-Saachez, Ali']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nOgasawara, Arisa\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n', b'\nHonna, Youko\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNatori, Takahiro\n\nEpisode Director\n\n', b'\nYatate, Hajime\n\nOriginal Creator\n\n', b'\nKuroda, Yousuke\n\nScreenplay\n\n', b'\nAbe, Misao\n\nKey Animation\n\n']
+animePopularity	5137
+animeDescription	Condensed version of both the first and second seasons of Gundam 00 featuring some new animated sequences and some partially re-recorded dialogue. 
+animeRelated	['Mobile Suit Gundam 00', 'Mobile Suit Gundam 00 Second Season']
+animeCharacters	['Seiei, Setsuna F.', 'Stratos, Lockon', 'Erde, Tieria', 'Haptism, Allelujah', 'Aker, Graham', 'Haro', 'Grace, Feldt', 'Lee Noriega, Sumeragi', 'Al-Saachez, Ali']
+animeVoices	['Miyano, Mamoru', 'Miki, Shinichiro', 'Kamiya, Hiroshi', 'Yoshino, Hiroyuki', 'Nakamura, Yuuichi', 'Ogasawara, Arisa', 'Takagaki, Ayahi', 'Honna, Youko', 'Fujiwara, Keiji']
+animeStaff	[['Natori, Takahiro', 'Episode Director'], ['Yatate, Hajime', 'Original Creator'], ['Kuroda, Yousuke', 'Screenplay'], ['Abe, Misao', 'Key Animation']]

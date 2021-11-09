@@ -1,5 +1,5 @@
-animeTitle	b'KanColle Movie'
-animeType	b'Movie'
+animeTitle	KanColle Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.51
 animeUsers	14226
 animeRank	
-animePopularity	
-animeDescription	"b'The movie starts off after the events of Episode 3, when Kisaragi had sunk. The Mikawa Fleet (Furutaka, Aoba, Kako, Kinugasa and Tenryuu) are in the middle of Night Battle. Choukai uses Searchlight and gets medium damage, but they win in the end. A New Fleet Girl gets ""dropped"", emerging from the sea. It is Kisaragi. Kisaragi is brought back to the temporary base in Solomon Islands, but she is suffering from PTSD and has amnesia, unable to remember anyone from back in the anime, excluding Mutsuki...\n\n(Source: Wikipedia)'"
-animeRelated	[b'Kantai Collection: KanColle']
-animeCharacters	[b'Kaga', b'Fubuki', b'Akagi', b'Mutsuki', b'Kisaragi', b'Kongou', b'Shimakaze', b'Hibiki', b'Yuudachi', b'Haruna']
-animeVoices	[b'\nIguchi, Yuka\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nFujita, Saki\nJapanese\n', b'\nHidaka, Rina\nJapanese\n', b'\nTouyama, Nao\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nSuzaki, Aya\nJapanese\n', b'\nTanibe, Yumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWEST GROUND\n\nProducer, Theme Song Arrangement, Theme Song Composition\n\n', b'\nKusakawa, Keizou\n\nDirector\n\n', b'\nNishizawa, Shiena\n\nTheme Song Performance\n\n', b'\nTanaka, Kensuke\n\nOriginal Creator\n\n']
+animePopularity	3004
+animeDescription	"The movie starts off after the events of Episode 3, when Kisaragi had sunk. The Mikawa Fleet (Furutaka, Aoba, Kako, Kinugasa and Tenryuu) are in the middle of Night Battle. Choukai uses Searchlight and gets medium damage, but they win in the end. A New Fleet Girl gets ""dropped"", emerging from the sea. It is Kisaragi. Kisaragi is brought back to the temporary base in Solomon Islands, but she is suffering from PTSD and has amnesia, unable to remember anyone from back in the anime, excluding Mutsuki...
+
+(Source: Wikipedia)"
+animeRelated	['Kantai Collection: KanColle']
+animeCharacters	['Kaga', 'Fubuki', 'Akagi', 'Mutsuki', 'Kisaragi', 'Kongou', 'Shimakaze', 'Hibiki', 'Yuudachi', 'Haruna']
+animeVoices	['Iguchi, Yuka', 'Uesaka, Sumire', 'Fujita, Saki', 'Hidaka, Rina', 'Touyama, Nao', 'Sakura, Ayane', 'Suzaki, Aya', 'Tanibe, Yumi']
+animeStaff	[['WEST GROUND', 'Producer, Theme Song Arrangement, Theme Song Composition'], ['Kusakawa, Keizou', 'Director'], ['Nishizawa, Shiena', 'Theme Song Performance'], ['Tanaka, Kensuke', 'Original Creator']]

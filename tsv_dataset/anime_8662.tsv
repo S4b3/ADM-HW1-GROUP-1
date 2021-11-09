@@ -1,5 +1,5 @@
-animeTitle	b'Najica Dengeki Sakusen'
-animeType	b'TV'
+animeTitle	Najica Dengeki Sakusen
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.99
 animeUsers	5696
 animeRank	
-animePopularity	
-animeDescription	b'Najica Hiiragi, perfumer and secret agent, is sent out on a number of recovery missions to round up rogue humaritts, androids with combat abilities. Najica is assigned a humaritt partner, Lila, whom Najica is to groom as an agent and receive assistance from along the way. As Najica grows to accept Lila, each new mission they embark on reveals more and more about the capabilities and mysterious origins of the humaritts.\n\n(Source: ANN)'
-animeRelated	[b'Najica Dengeki Sakusen']
-animeCharacters	[b'Hiiragi, Najika', b'Lila', b'XXX', b'Majima, Jin', b'Athena', b'Ren, Rinka', b'Daniela', b'Chinatsu, Mika', b'Ellis', b'Fuyuki']
-animeVoices	[b'\nTouma, Yumi\nJapanese\n', b'\nIhata, Juri\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nKayumi, Iemasa\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nSakuma, Rei\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nKobayashi, Yuko\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n', b'\nKurata, Masayo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishijima, Katsuhiko\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nIshiodori, Hiroshi\n\nEpisode Director\n\n', b'\nSuzuki, Kaoru\n\nEpisode Director\n\n']
+animePopularity	4700
+animeDescription	"Najica Hiiragi, perfumer and secret agent, is sent out on a number of recovery missions to round up rogue humaritts, androids with combat abilities. Najica is assigned a humaritt partner, Lila, whom Najica is to groom as an agent and receive assistance from along the way. As Najica grows to accept Lila, each new mission they embark on reveals more and more about the capabilities and mysterious origins of the humaritts.
+
+(Source: ANN)"
+animeRelated	['Najica Dengeki Sakusen']
+animeCharacters	['Hiiragi, Najika', 'Lila', 'XXX', 'Majima, Jin', 'Athena', 'Ren, Rinka', 'Daniela', 'Chinatsu, Mika', 'Ellis', 'Fuyuki']
+animeVoices	['Touma, Yumi', 'Ihata, Juri', 'Shinohara, Emi', 'Kayumi, Iemasa', 'Neya, Michiko', 'Sakuma, Rei', 'Inoue, Kikuko', 'Kobayashi, Yuko', 'Shiratori, Yuri', 'Kurata, Masayo']
+animeStaff	[['Nishijima, Katsuhiko', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Ishiodori, Hiroshi', 'Episode Director'], ['Suzuki, Kaoru', 'Episode Director']]

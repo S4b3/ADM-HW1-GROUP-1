@@ -1,5 +1,5 @@
-animeTitle	b'Violet Evergarden'
-animeType	b'TV'
+animeTitle	Violet Evergarden
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.66
 animeUsers	692742
 animeRank	
-animePopularity	
-animeDescription	"b'The Great War finally came to an end after four long years of conflict; fractured in two, the continent of Telesis slowly began to flourish once again. Caught up in the bloodshed was Violet Evergarden, a young girl raised for the sole purpose of decimating enemy lines. Hospitalized and maimed in a bloody skirmish during the War\'s final leg, she was left with only words from the person she held dearest, but with no understanding of their meaning.\n\nRecovering from her wounds, Violet starts a new life working at CH Postal Services after a falling out with her new intended guardian family. There, she witnesses by pure chance the work of an ""Auto Memory Doll,"" amanuenses that transcribe people\'s thoughts and feelings into words on paper. Moved by the notion, Violet begins work as an Auto Memory Doll, a trade that will take her on an adventure, one that will reshape the lives of her clients and hopefully lead to self-discovery.\n\n[Written by MAL Rewrite]'"
-animeRelated	"[b'Violet Evergarden', b'Violet Evergarden: Kitto ""Ai"" wo Shiru Hi ga Kuru no Darou', b'Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou', b'Violet Evergarden Movie', b'Violet Evergarden CM', b'5-fun de Wakaru: Violet Evergarden']"
-animeCharacters	[b'Evergarden, Violet', b'Bougainvillea, Gilbert', b'Blue, Benedict', b'Baudelaire, Cattleya', b'Hodgins, Claudia', b'Marlborough, Luculia', b'Stephanotis, Leon', b'Bougainvillea, Dietfried', b'Abelfreyja Drossel, Charlotte', b'Cannary, Iris']
-animeVoices	[b'\nIshikawa, Yui\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nTadokoro, Azusa\nJapanese\n', b'\nUemura, Yuuto\nJapanese\n', b'\nKiuchi, Hidenobu\nJapanese\n', b'\nNakajima, Megumi\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshidate, Taichi\n\nDirector, Episode Director, Storyboard, Key Animation\n\n', b'\nFujita, Haruka\n\nDirector, Episode Director, Storyboard, Series Production Director, Key Animation\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nTakemoto, Yasuhiro\n\nEpisode Director, Storyboard\n\n']
+animePopularity	56
+animeDescription	"The Great War finally came to an end after four long years of conflict; fractured in two, the continent of Telesis slowly began to flourish once again. Caught up in the bloodshed was Violet Evergarden, a young girl raised for the sole purpose of decimating enemy lines. Hospitalized and maimed in a bloody skirmish during the War's final leg, she was left with only words from the person she held dearest, but with no understanding of their meaning.
+
+Recovering from her wounds, Violet starts a new life working at CH Postal Services after a falling out with her new intended guardian family. There, she witnesses by pure chance the work of an ""Auto Memory Doll,"" amanuenses that transcribe people's thoughts and feelings into words on paper. Moved by the notion, Violet begins work as an Auto Memory Doll, a trade that will take her on an adventure, one that will reshape the lives of her clients and hopefully lead to self-discovery.
+
+[Written by MAL Rewrite]"
+animeRelated	"['Violet Evergarden', 'Violet Evergarden: Kitto ""Ai"" wo Shiru Hi ga Kuru no Darou', 'Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou', 'Violet Evergarden Movie', 'Violet Evergarden CM', '5-fun de Wakaru: Violet Evergarden']"
+animeCharacters	['Evergarden, Violet', 'Bougainvillea, Gilbert', 'Blue, Benedict', 'Baudelaire, Cattleya', 'Hodgins, Claudia', 'Marlborough, Luculia', 'Stephanotis, Leon', 'Bougainvillea, Dietfried', 'Abelfreyja Drossel, Charlotte', 'Cannary, Iris']
+animeVoices	['Ishikawa, Yui', 'Namikawa, Daisuke', 'Uchiyama, Kouki', 'Endou, Aya', 'Koyasu, Takehito', 'Tadokoro, Azusa', 'Uemura, Yuuto', 'Kiuchi, Hidenobu', 'Nakajima, Megumi', 'Tomatsu, Haruka']
+animeStaff	[['Ishidate, Taichi', 'Director, Episode Director, Storyboard, Key Animation'], ['Fujita, Haruka', 'Director, Episode Director, Storyboard, Series Production Director, Key Animation'], ['Tsuruoka, Youta', 'Sound Director'], ['Takemoto, Yasuhiro', 'Episode Director, Storyboard']]

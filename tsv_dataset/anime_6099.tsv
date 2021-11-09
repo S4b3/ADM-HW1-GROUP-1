@@ -1,5 +1,5 @@
-animeTitle	b'HenSemi'
-animeType	b'OVA'
+animeTitle	HenSemi
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.51
 animeUsers	10444
 animeRank	
-animePopularity	
-animeDescription	b'Matsutaka Nanako is a normal university student, who happened to enroll in an Abnormal Physiology seminar. She tries to keep her mental state sound, but other abnormal classmates start to influence her personality...\n\n(Source: MU)'
-animeRelated	[b'HenSemi', b'HenSemi (TV)']
-animeCharacters	[b'Musashi, Komugi', b'Matsutaka, Nanako', b'Meshiya, Kenji', b'Gregory, Makiko', b'Mizukoshi, Miwako', b'Ichikawa, Hishiyasu', b'Katou, Anna', b'Yesterday, Taguchi']
-animeVoices	[b'\nIshida, Akira\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nMatsuyama, Takashi\nJapanese\n', b'\nKawaragi, Shiho\nJapanese\n', b'\nTakaguchi, Yukiko\nJapanese\n', b'\nMori, Norihisa\nJapanese\n', b'\nShintani, Ryouko\nJapanese\n', b'\nShiraishi, Minoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKamitsubo, Ryouki\n\nDirector\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nSuzuki, Toshimasa\n\nEpisode Director, Storyboard\n\n', b'\nHaneoka, Kei\n\nMusic\n\n']
+animePopularity	3502
+animeDescription	"Matsutaka Nanako is a normal university student, who happened to enroll in an Abnormal Physiology seminar. She tries to keep her mental state sound, but other abnormal classmates start to influence her personality...
+
+(Source: MU)"
+animeRelated	['HenSemi', 'HenSemi (TV)']
+animeCharacters	['Musashi, Komugi', 'Matsutaka, Nanako', 'Meshiya, Kenji', 'Gregory, Makiko', 'Mizukoshi, Miwako', 'Ichikawa, Hishiyasu', 'Katou, Anna', 'Yesterday, Taguchi']
+animeVoices	['Ishida, Akira', 'Hanazawa, Kana', 'Matsuyama, Takashi', 'Kawaragi, Shiho', 'Takaguchi, Yukiko', 'Mori, Norihisa', 'Shintani, Ryouko', 'Shiraishi, Minoru']
+animeStaff	[['Kamitsubo, Ryouki', 'Director'], ['Kameyama, Toshiki', 'Sound Director'], ['Suzuki, Toshimasa', 'Episode Director, Storyboard'], ['Haneoka, Kei', 'Music']]

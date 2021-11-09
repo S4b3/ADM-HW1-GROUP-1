@@ -1,5 +1,5 @@
-animeTitle	b'Fumikiri Jikan'
-animeType	b'TV'
+animeTitle	Fumikiri Jikan
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.39
 animeUsers	16294
 animeRank	
-animePopularity	
-animeDescription	"b""Every day, all kinds of different people stop at railroad crossings on their way to work or school, resulting in all sorts of different conversations. Friends, enemies, acquaintances, and complete strangers\xe2\x80\x94there's always a new encounter to be had.\n\nFumikiri Jikan documents the discussions that take place at these locations. Whether these are funny or depressing, expected or completely unexpected, they certainly have the potential to be quite interesting.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Fumikiri Jikan']
-animeCharacters	[b'Tomo', b'Ai', b'Komaba, Misaki', b'Saito', b'Utako', b'Yukiko', b'Hassaku Ojisan', b'Saeki', b'Akemi', b'Kurobe']
-animeVoices	[b'\nOgura, Yui\nJapanese\n', b'\nSenbongi, Sayaka\nJapanese\n', b'\nKinoshita, Suzuna\nJapanese\n', b'\nAyase, Yuu\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nNarita, Ken\nJapanese\n', b'\nAranami, Kazusa\nJapanese\n', b'\nHonda, Mariko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Yoshio\n\nDirector\n\n', b'\nAbe, Nobuyuki\n\nSound Director\n\n', b'\nChiba, Misuzu\n\nScript, Series Composition\n\n', b'\nKomagata, Yuri\n\nTheme Song Performance\n\n']
+animePopularity	2968
+animeDescription	"Every day, all kinds of different people stop at railroad crossings on their way to work or school, resulting in all sorts of different conversations. Friends, enemies, acquaintances, and complete strangers—there's always a new encounter to be had.
+
+Fumikiri Jikan documents the discussions that take place at these locations. Whether these are funny or depressing, expected or completely unexpected, they certainly have the potential to be quite interesting.
+
+[Written by MAL Rewrite]"
+animeRelated	['Fumikiri Jikan']
+animeCharacters	['Tomo', 'Ai', 'Komaba, Misaki', 'Saito', 'Utako', 'Yukiko', 'Hassaku Ojisan', 'Saeki', 'Akemi', 'Kurobe']
+animeVoices	['Ogura, Yui', 'Senbongi, Sayaka', 'Kinoshita, Suzuna', 'Ayase, Yuu', 'Tamura, Yukari', 'Wakamoto, Norio', 'Narita, Ken', 'Aranami, Kazusa', 'Honda, Mariko']
+animeStaff	[['Suzuki, Yoshio', 'Director'], ['Abe, Nobuyuki', 'Sound Director'], ['Chiba, Misuzu', 'Script, Series Composition'], ['Komagata, Yuri', 'Theme Song Performance']]

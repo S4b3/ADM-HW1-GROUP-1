@@ -1,5 +1,5 @@
-animeTitle	b'Shichisei no Subaru'
-animeType	b'TV'
+animeTitle	Shichisei no Subaru
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.11
 animeUsers	40663
 animeRank	
-animePopularity	
-animeDescription	"b""Asahi's life in reality ended simultaneously when she died playing Union, a world-renowned online RPG. The members of Subaru went separate ways when Union shut down due to Asahi's death. Six years later, Haruto logs onto a renewed version of Re'Union and reunites with Asahi who had died. Is it really her or just an electronic ghost? The former team members reunite and enter the mysterious and deadly online game to find out.\n\n(Source: TBS Global Business)"""
-animeRelated	[b'Shichisei no Subaru']
-animeCharacters	[b'Usui, Satsuki', b'Kuga, Asahi', b'Amou, Haruto', b'Vivali, Clive', b'Mikado, Takanori', b'Kusaka, Nozomi', b'Elicia', b'Amou, Haruna']
-animeVoices	[b'\nKitou, Akari\nJapanese\n', b'\nOomori, Nichika\nJapanese\n', b'\nTakanashi, Kengo\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nHanamori, Yumiri\nJapanese\n', b'\nAnzai, Chika\nJapanese\n', b'\nAkao, Hikaru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishouji, Yoshihito\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nYoshioka, Takao\n\nScript, Series Composition\n\n', b'\nYamazaki, Erii\n\nTheme Song Performance\n\n']
+animePopularity	1463
+animeDescription	"Asahi's life in reality ended simultaneously when she died playing Union, a world-renowned online RPG. The members of Subaru went separate ways when Union shut down due to Asahi's death. Six years later, Haruto logs onto a renewed version of Re'Union and reunites with Asahi who had died. Is it really her or just an electronic ghost? The former team members reunite and enter the mysterious and deadly online game to find out.
+
+(Source: TBS Global Business)"
+animeRelated	['Shichisei no Subaru']
+animeCharacters	['Usui, Satsuki', 'Kuga, Asahi', 'Amou, Haruto', 'Vivali, Clive', 'Mikado, Takanori', 'Kusaka, Nozomi', 'Elicia', 'Amou, Haruna']
+animeVoices	['Kitou, Akari', 'Oomori, Nichika', 'Takanashi, Kengo', 'Terashima, Takuma', 'Ishikawa, Kaito', 'Hanamori, Yumiri', 'Anzai, Chika', 'Akao, Hikaru']
+animeStaff	[['Nishouji, Yoshihito', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Yoshioka, Takao', 'Script, Series Composition'], ['Yamazaki, Erii', 'Theme Song Performance']]

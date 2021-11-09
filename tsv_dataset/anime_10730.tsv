@@ -1,5 +1,5 @@
-animeTitle	b'Suzakinishi The Animation'
-animeType	b'TV'
+animeTitle	Suzakinishi The Animation
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.38
 animeUsers	1154
 animeRank	
-animePopularity	
-animeDescription	b'Voice actresses Aya Suzaki and Asuka Nishi announced at an event in Tokyo on Sunday that their Suzakinishi radio program will get a television anime adaptation starting in July. The Suzakinishi The AanimationN anime will air on Tokyo MX TV, TV Kanazawa, and Sun TV.\n\n(Source: ANN)'
+animePopularity	7164
+animeDescription	"Voice actresses Aya Suzaki and Asuka Nishi announced at an event in Tokyo on Sunday that their Suzakinishi radio program will get a television anime adaptation starting in July. The Suzakinishi The AanimationN anime will air on Tokyo MX TV, TV Kanazawa, and Sun TV.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Suzaki, Aya', b'Nishi, Asuka']
-animeVoices	[b'\nSuzaki, Aya\nJapanese\n', b'\nNishi, Asuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiramine, Yoshihiro\n\nDirector, Series Composition\n\n', b'\nYamamoto, Kouji\n\nSound Director\n\n', b'\nSuzaki, Aya\n\nTheme Song Performance\n\n', b'\nNishi, Asuka\n\nTheme Song Performance\n\n']
+animeCharacters	['Suzaki, Aya', 'Nishi, Asuka']
+animeVoices	['Suzaki, Aya', 'Nishi, Asuka']
+animeStaff	[['Hiramine, Yoshihiro', 'Director, Series Composition'], ['Yamamoto, Kouji', 'Sound Director'], ['Suzaki, Aya', 'Theme Song Performance'], ['Nishi, Asuka', 'Theme Song Performance']]

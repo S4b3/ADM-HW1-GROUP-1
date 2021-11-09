@@ -1,5 +1,5 @@
-animeTitle	b'Mini Van'
-animeType	b'TV'
+animeTitle	Mini Van
+animeType	TV
 animeNumEpisode	37
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.84
 animeUsers	657
 animeRank	
-animePopularity	
-animeDescription	b'An animated flash series of the manga Mini Vanguard.'
-animeRelated	[b'Mini Van', b'Cardfight!! Vanguard', b'Mini Van Large', b'Mini Van Special', b'Mini Van 2nd Season']
-animeCharacters	[b'Sendou, Aichi', b'Kai, Toshiki', b'Tokura, Misaki', b'Katsuragi, Kamui', b'Suzugamori, Ren', b'Miwa, Taishi', b'Tatsunagi, Kourin', b'Sendou, Emi', b'Morikawa, Katsumi', b'Nitta, Shin']
-animeVoices	[b'\nYonaga, Tsubasa\nJapanese\n', b'\nSatou, Takuya\nJapanese\n', b'\nKitta, Izumi\nJapanese\n', b'\nIshikawa, Shizuka\nJapanese\n', b'\nAbe, Atsushi\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nEnomoto, Atsuko\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nMorishima, Shuuta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTani, Azuma\n\nDirector\n\n', b'\nFujitsuka\n\nKey Animation\n\n']
+animePopularity	9687
+animeDescription	An animated flash series of the manga Mini Vanguard.
+animeRelated	['Mini Van', 'Cardfight!! Vanguard', 'Mini Van Large', 'Mini Van Special', 'Mini Van 2nd Season']
+animeCharacters	['Sendou, Aichi', 'Kai, Toshiki', 'Tokura, Misaki', 'Katsuragi, Kamui', 'Suzugamori, Ren', 'Miwa, Taishi', 'Tatsunagi, Kourin', 'Sendou, Emi', 'Morikawa, Katsumi', 'Nitta, Shin']
+animeVoices	['Yonaga, Tsubasa', 'Satou, Takuya', 'Kitta, Izumi', 'Ishikawa, Shizuka', 'Abe, Atsushi', 'Morikubo, Shoutarou', 'Enomoto, Atsuko', 'Sugiyama, Noriaki', 'Morishima, Shuuta']
+animeStaff	[['Tani, Azuma', 'Director'], ['Fujitsuka', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Stratos 4 Advance Kanketsu-hen'
-animeType	b'OVA'
+animeTitle	Stratos 4 Advance Kanketsu-hen
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.92
 animeUsers	1035
 animeRank	
-animePopularity	
-animeDescription	"b'Crisis befalls the main characters and the Earth as well! How do they deal with the conspiracies that they have uncovered, while protecting the Earth too? (And what happens to the cliffhanger at the end of the previous episode?)\n\nIn these final two episodes of Stratos 4 Advance are the exciting conclusion to the whole Stratos 4 series. The main characters will have to draw on all the resources they have, their friends and allies and their own sheer force of will, to ""bring tomorrow to Earth,"" as one of the characters puts it.'"
-animeRelated	[b'Stratos 4 Advance']
-animeCharacters	[b'Honjou, Mikaze', b'Kikuhara, Karin', b'Doi, Shizuha', b'Nakamura, Ayamo', b'Kisaragi, Sayaka', b'Oozora, Miharu', b'Kubo, Chizuru', b'Boozeman, Betty', b'Earhart, Diane', b'Miyazaki, Tsubasa']
-animeVoices	[b'\nKakazu, Yumi\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nShimizu, Kaori\nJapanese\n', b'\nKikuchi, Shiho\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nHinata, Megumi\n\nTheme Song Performance\n\n', b'\nMelocure\n\nTheme Song Performance\n\n', b'\nYamauchi, Noriyasu\n\nChief Animation Director\n\n']
+animePopularity	8737
+animeDescription	"Crisis befalls the main characters and the Earth as well! How do they deal with the conspiracies that they have uncovered, while protecting the Earth too? (And what happens to the cliffhanger at the end of the previous episode?)
+
+In these final two episodes of Stratos 4 Advance are the exciting conclusion to the whole Stratos 4 series. The main characters will have to draw on all the resources they have, their friends and allies and their own sheer force of will, to ""bring tomorrow to Earth,"" as one of the characters puts it."
+animeRelated	['Stratos 4 Advance']
+animeCharacters	['Honjou, Mikaze', 'Kikuhara, Karin', 'Doi, Shizuha', 'Nakamura, Ayamo', 'Kisaragi, Sayaka', 'Oozora, Miharu', 'Kubo, Chizuru', 'Boozeman, Betty', 'Earhart, Diane', 'Miyazaki, Tsubasa']
+animeVoices	['Kakazu, Yumi', 'Orikasa, Fumiko', 'Shimizu, Kaori', 'Kikuchi, Shiho', 'Ohara, Sayaka', 'Hiramatsu, Akiko', 'Yukino, Satsuki']
+animeStaff	[['Tsuruoka, Youta', 'Sound Director'], ['Hinata, Megumi', 'Theme Song Performance'], ['Melocure', 'Theme Song Performance'], ['Yamauchi, Noriyasu', 'Chief Animation Director']]

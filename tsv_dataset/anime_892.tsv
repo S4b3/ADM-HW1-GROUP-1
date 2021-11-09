@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III vs. Detective Conan'
-animeType	b'Special'
+animeTitle	Lupin III vs. Detective Conan
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	7.78
 animeUsers	15962
 animeRank	
-animePopularity	
-animeDescription	"b""In a country called Vesparand, a new mineral with super stealth properties has been discovered which attracts Lupin's attention. At the same time the untimely deaths of Queen Sakura and her son, Prince Gill, leave Princess Mira next in succession to the throne. During a trip to Japan, Princess Mira finds her double in Ran and takes the opportunity to trade places, which ends with Ran being spirited away to Vesparand with Conan, Zenigata, Kogoro Mouri, Lupin and Fujiko in tow. There they meet a waiting Jigen and solve the mystery of the deaths of the Queen and Prince.\n\n(Source: ANN) \n"""
-animeRelated	[b'Lupin III vs. Meitantei Conan', b'Detective Conan', b'Lupin III', b'Lupin III vs. Detective Conan: The Movie']
-animeCharacters	[b'Edogawa, Conan', b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mouri, Ran', b'Mouri, Kogorou', b'Stinger, Keith Dan', b'Vespaland, Mira Julietta', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nNaya, Gorou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakatani, Toshio\n\nProducer\n\n', b'\nSuwa, Michihiko\n\nProducer\n\n', b'\nKamegaki, Hajime\n\nDirector, Storyboard, Mechanical Design\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n']
+animePopularity	3298
+animeDescription	"In a country called Vesparand, a new mineral with super stealth properties has been discovered which attracts Lupin's attention. At the same time the untimely deaths of Queen Sakura and her son, Prince Gill, leave Princess Mira next in succession to the throne. During a trip to Japan, Princess Mira finds her double in Ran and takes the opportunity to trade places, which ends with Ran being spirited away to Vesparand with Conan, Zenigata, Kogoro Mouri, Lupin and Fujiko in tow. There they meet a waiting Jigen and solve the mystery of the deaths of the Queen and Prince.
+
+(Source: ANN) 
+"
+animeRelated	['Lupin III vs. Meitantei Conan', 'Detective Conan', 'Lupin III', 'Lupin III vs. Detective Conan: The Movie']
+animeCharacters	['Edogawa, Conan', 'Lupin III, Arsene', 'Jigen, Daisuke', 'Mouri, Ran', 'Mouri, Kogorou', 'Stinger, Keith Dan', 'Vespaland, Mira Julietta', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi']
+animeVoices	['Takayama, Minami', 'Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Yamazaki, Wakana', 'Kamiya, Akira', 'Midorikawa, Hikaru', 'Horie, Yui', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou']
+animeStaff	[['Nakatani, Toshio', 'Producer'], ['Suwa, Michihiko', 'Producer'], ['Kamegaki, Hajime', 'Director, Storyboard, Mechanical Design'], ['Urakami, Yasuo', 'Sound Director']]

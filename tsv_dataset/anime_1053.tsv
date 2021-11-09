@@ -1,5 +1,5 @@
-animeTitle	b'Ichigo Mashimaro OVA'
-animeType	b'OVA'
+animeTitle	Ichigo Mashimaro OVA
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.7
 animeUsers	12176
 animeRank	
-animePopularity	
-animeDescription	"b'Based on Barasui\'s manga series, Ichigo Mashimaro follows the life of Nobue Itou, her younger sister Chika, and her friends. The basic premise of the show can be summed up in ""cute girls do cute things in cute ways"", be it trying to quit smoking, going outside to play, celebrating a holiday, or doing school work. This OVA picks up where the series left off, continuing the adventures of your everyday life, only cuter. \n\n(Source: AniDB)'"
-animeRelated	[b'Ichigo Mashimaro', b'Ichigo Mashimaro Encore']
-animeCharacters	[b'Matsuoka, Miu', b'Itou, Nobue', b'Itou, Chika', b'Sakuragi, Matsuri', b'Coppola, Ana']
-animeVoices	[b'\nOrikasa, Fumiko\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nChiba, Saeko\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakayama, Nobuhiro\n\nAssistant Producer\n\n', b'\nSatou, Takuya\n\nDirector, Series Composition, Screenplay\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nOhata, Kiyotaka\n\nStoryboard\n\n']
+animePopularity	3824
+animeDescription	"Based on Barasui's manga series, Ichigo Mashimaro follows the life of Nobue Itou, her younger sister Chika, and her friends. The basic premise of the show can be summed up in ""cute girls do cute things in cute ways"", be it trying to quit smoking, going outside to play, celebrating a holiday, or doing school work. This OVA picks up where the series left off, continuing the adventures of your everyday life, only cuter. 
+
+(Source: AniDB)"
+animeRelated	['Ichigo Mashimaro', 'Ichigo Mashimaro Encore']
+animeCharacters	['Matsuoka, Miu', 'Itou, Nobue', 'Itou, Chika', 'Sakuragi, Matsuri', 'Coppola, Ana']
+animeVoices	['Orikasa, Fumiko', 'Nabatame, Hitomi', 'Chiba, Saeko', 'Kawasumi, Ayako', 'Noto, Mamiko']
+animeStaff	[['Nakayama, Nobuhiro', 'Assistant Producer'], ['Satou, Takuya', 'Director, Series Composition, Screenplay'], ['Aketagawa, Jin', 'Sound Director'], ['Ohata, Kiyotaka', 'Storyboard']]

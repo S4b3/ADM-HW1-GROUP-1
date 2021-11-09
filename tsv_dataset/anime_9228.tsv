@@ -1,5 +1,5 @@
-animeTitle	b'G-9'
-animeType	b'OVA'
+animeTitle	G-9
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.84
 animeUsers	1268
 animeRank	
-animePopularity	
-animeDescription	"b'This is the story of wicked creatures, ""Yokoshima Ryu Zama"", the destroyers and demon practioner of the unknown. In an uninhabited town, the only person, a little girl, wakes up. Demon Woman of the unknown, Buddhist priest Agarerura. Her memory of reality keeps coming and going, Agarerura fights with what kind of person she should be. Now her consciousness\' battle with a parasite life-form will begin.\n\n(Source: AnimeNfo)'"
+animePopularity	8861
+animeDescription	"This is the story of wicked creatures, ""Yokoshima Ryu Zama"", the destroyers and demon practioner of the unknown. In an uninhabited town, the only person, a little girl, wakes up. Demon Woman of the unknown, Buddhist priest Agarerura. Her memory of reality keeps coming and going, Agarerura fights with what kind of person she should be. Now her consciousness' battle with a parasite life-form will begin.
+
+(Source: AnimeNfo)"
 animeRelated	[]
-animeCharacters	[b'Agarta', b'3-5-10', b'G-9']
-animeVoices	[b'\nHijii, Mika\nJapanese\n', b'\nKonishi, Ryousei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAmemiya, Keita\n\nDirector, Original Creator\n\n', b'\nDUSTZ\n\nTheme Song Performance\n\n']
+animeCharacters	['Agarta', '3-5-10', 'G-9']
+animeVoices	['Hijii, Mika', 'Konishi, Ryousei']
+animeStaff	[['Amemiya, Keita', 'Director, Original Creator'], ['DUSTZ', 'Theme Song Performance']]

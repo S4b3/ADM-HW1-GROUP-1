@@ -1,5 +1,5 @@
-animeTitle	b'Full Metal Panic!'
-animeType	b'TV'
+animeTitle	Full Metal Panic!
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.63
 animeUsers	215932
 animeRank	
-animePopularity	
-animeDescription	"b'Equipped with cutting-edge weaponry and specialized troops, a private military organization named Mithril strives to extinguish the world\'s terrorism and all threats to peace on earth. The organization is powered by the ""Whispered,"" individuals who possess intuitive knowledge and the remarkable ability to create powerful devices and machinery.\n\nSeventeen-year-old Sousuke Sagara, a sergeant working for Mithril, has been assigned to protect Kaname Chidori, a Whispered candidate. He is ordered to join her high school class and be as close to her as possible to prevent her from falling into enemy hands\xe2\x80\x94that is, if he can safely blend in with their fellow classmates without revealing his true identity.\n\nSousuke, who was raised on a battlefield and has very little knowledge of an average high school student\'s lifestyle, must adapt to a normal school life to safeguard Kaname. However, enemy forces have already begun making their move, and Sousuke is about to find out that the adversary coming for the Whispered girl may be a lot more familiar than he expects.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Full Metal Panic!', b'Full Metal Panic! Tanpenshuu', b'Full Metal Panic? Fumoffu', b'Full Metal Panic! The Second Raid', b'Full Metal Panic! Movie 1: Boy Meets Girl', b'Full Metal Panic! Movie 2: One Night Stand', b'Full Metal Panic! Movie 3: Into the Blue']
-animeCharacters	[b'Sagara, Sousuke', b'Chidori, Kaname', b'Testarossa, Teletha', b'Mao, Melissa', b'Weber, Kurz', b'Gauron', b'Kalinin, Andrei Sergeivich', b'Tokiwa, Kyouko', b'AL', b'Kazama, Shinji']
-animeVoices	[b'\nSeki, Tomokazu\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nYukana\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nTanaka, Masahiko\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nKimura, Ikue\nJapanese\n', b'\nMurozono, Takehiro\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChigira, Kouichi\n\nDirector, Episode Director, Script, Storyboard, Screenplay\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nKanbe, Hiroyuki\n\nEpisode Director, Animation Director\n\n', b'\nTsuchiya, Hiroyuki\n\nEpisode Director\n\n']
+animePopularity	366
+animeDescription	"Equipped with cutting-edge weaponry and specialized troops, a private military organization named Mithril strives to extinguish the world's terrorism and all threats to peace on earth. The organization is powered by the ""Whispered,"" individuals who possess intuitive knowledge and the remarkable ability to create powerful devices and machinery.
+
+Seventeen-year-old Sousuke Sagara, a sergeant working for Mithril, has been assigned to protect Kaname Chidori, a Whispered candidate. He is ordered to join her high school class and be as close to her as possible to prevent her from falling into enemy hands—that is, if he can safely blend in with their fellow classmates without revealing his true identity.
+
+Sousuke, who was raised on a battlefield and has very little knowledge of an average high school student's lifestyle, must adapt to a normal school life to safeguard Kaname. However, enemy forces have already begun making their move, and Sousuke is about to find out that the adversary coming for the Whispered girl may be a lot more familiar than he expects.
+
+[Written by MAL Rewrite]"
+animeRelated	['Full Metal Panic!', 'Full Metal Panic! Tanpenshuu', 'Full Metal Panic? Fumoffu', 'Full Metal Panic! The Second Raid', 'Full Metal Panic! Movie 1: Boy Meets Girl', 'Full Metal Panic! Movie 2: One Night Stand', 'Full Metal Panic! Movie 3: Into the Blue']
+animeCharacters	['Sagara, Sousuke', 'Chidori, Kaname', 'Testarossa, Teletha', 'Mao, Melissa', 'Weber, Kurz', 'Gauron', 'Kalinin, Andrei Sergeivich', 'Tokiwa, Kyouko', 'AL', 'Kazama, Shinji']
+animeVoices	['Seki, Tomokazu', 'Yukino, Satsuki', 'Yukana', 'Neya, Michiko', 'Miki, Shinichiro', 'Tanaka, Masahiko', 'Ootsuka, Akio', 'Kimura, Ikue', 'Murozono, Takehiro', 'Noto, Mamiko']
+animeStaff	[['Chigira, Kouichi', 'Director, Episode Director, Script, Storyboard, Screenplay'], ['Tsuruoka, Youta', 'Sound Director'], ['Kanbe, Hiroyuki', 'Episode Director, Animation Director'], ['Tsuchiya, Hiroyuki', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Catblue: Dynamite'
-animeType	b'ONA'
+animeTitle	Catblue: Dynamite
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.03
 animeUsers	681
 animeRank	
-animePopularity	
-animeDescription	"b""It is the end of 70s. Blue \xe2\x80\x93 a woman with cat ears and tail \xe2\x80\x93 has solved many incidents and troubles with her special ability to see a ghost and her technique to handle three guns at one using her tail.\n\nOne day, two couriers, Bill and Robert are assaulted by mysterious masked men. They don't know why they were assaulted. Blue asks a dead masked man their purpose. It is incredible. What they are aiming at is the cassette tape of Sinatra that Bill owns. Over the cassette tape, a long day begins...\n\n(Source: AniDB)"""
+animePopularity	9676
+animeDescription	"It is the end of 70s. Blue – a woman with cat ears and tail – has solved many incidents and troubles with her special ability to see a ghost and her technique to handle three guns at one using her tail.
+
+One day, two couriers, Bill and Robert are assaulted by mysterious masked men. They don't know why they were assaulted. Blue asks a dead masked man their purpose. It is incredible. What they are aiming at is the cassette tape of Sinatra that Bill owns. Over the cassette tape, a long day begins...
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Blue']
+animeCharacters	['Blue']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiga, Romanov\n\nDirector, Script, Character Design, Special Effects\n\n', b'\nChida, Kazuhiro\n\nSound Director\n\n']
+animeStaff	[['Higa, Romanov', 'Director, Script, Character Design, Special Effects'], ['Chida, Kazuhiro', 'Sound Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Sangokushi (1985)'
-animeType	b'Special'
+animeTitle	Sangokushi (1985)
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.31
 animeUsers	232
 animeRank	
-animePopularity	
-animeDescription	b'An anime special based on the Romance of the Three Kingdoms novel. Aired on NTV. '
-animeRelated	[b'Sangokushi II: Amakakeru Otoko-tachi']
-animeCharacters	"[b""Kan'u, Unchou"", b'Narrator']"
-animeVoices	[b'\nSagawa, Tetsurou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImazawa, Tetsuo\n\nDirector\n\n', b'\nKigami, Yoshiji\n\nLayout\n\n', b'\nWatanabe, Takeo\n\nMusic\n\n', b'\nAoyama, Mitsuru\n\nKey Animation\n\n']
+animePopularity	11700
+animeDescription	An anime special based on the Romance of the Three Kingdoms novel. Aired on NTV. 
+animeRelated	['Sangokushi II: Amakakeru Otoko-tachi']
+animeCharacters	"[""Kan'u, Unchou"", 'Narrator']"
+animeVoices	['Sagawa, Tetsurou']
+animeStaff	[['Imazawa, Tetsuo', 'Director'], ['Kigami, Yoshiji', 'Layout'], ['Watanabe, Takeo', 'Music'], ['Aoyama, Mitsuru', 'Key Animation']]

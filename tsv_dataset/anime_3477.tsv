@@ -1,5 +1,5 @@
-animeTitle	b'Doubutsu no Mori'
-animeType	b'Movie'
+animeTitle	Doubutsu no Mori
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.07
 animeUsers	11637
 animeRank	
-animePopularity	
-animeDescription	b'Ai is a self-reliant girl that moves to Animal Village. She makes friends with the various villagers as she settles into the village. One night as she walked along the beach, she finds a message in the bottle. It sets her off on a quest of planting pine trees around the village to fulfill a miracle on the eve of the Winter Festival.\n\n(Source: ANN)'
+animePopularity	3763
+animeDescription	"Ai is a self-reliant girl that moves to Animal Village. She makes friends with the various villagers as she settles into the village. One night as she walked along the beach, she finds a message in the bottle. It sets her off on a quest of planting pine trees around the village to fulfill a miracle on the eve of the Winter Festival.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Bouquet', b'Ai', b'Yuu', b'Bianca', b'Sally', b'Alfonso', b'Nook, Tom', b'Totakeke', b'Mr. Resetti', b'Apollo']
-animeVoices	[b'\nFukuen, Misato\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nHino, Yurika\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nOguri, Shun\nJapanese\n', b'\nTerasoma, Masaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomura, Makoto\n\nProducer\n\n', b'\nShimura, Jouji\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nAsada, Yuuji\n\nEpisode Director\n\n']
+animeCharacters	['Bouquet', 'Ai', 'Yuu', 'Bianca', 'Sally', 'Alfonso', 'Nook, Tom', 'Totakeke', 'Mr. Resetti', 'Apollo']
+animeVoices	['Fukuen, Misato', 'Horie, Yui', 'Kobayashi, Yuu', 'Hino, Yurika', 'Orikasa, Fumiko', 'Tatsuta, Naoki', 'Oguri, Shun', 'Terasoma, Masaki']
+animeStaff	[['Oomura, Makoto', 'Producer'], ['Shimura, Jouji', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Asada, Yuuji', 'Episode Director']]

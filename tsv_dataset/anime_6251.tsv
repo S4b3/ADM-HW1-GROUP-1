@@ -1,5 +1,5 @@
-animeTitle	b'Sonic X'
-animeType	b'TV'
+animeTitle	Sonic X
+animeType	TV
 animeNumEpisode	78
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.48
 animeUsers	36552
 animeRank	
-animePopularity	
-animeDescription	"b""Back on Sonic's home planet, Eggman has collected all 7 of the Chaos Emeralds, and is about to have absolute power when Sonic interferes, causing an explosion that sends everyone from their world to Earth. Sonic and his friends team up with 12 year old Christopher Thorndyke to collect all the Chaos Emeralds and defeat the evil Dr. Eggman.\n\n(Source: ANN)"""
-animeRelated	[b'Sonic\xe2\x98\x85the\xe2\x98\x85Hedgehog', b'Sonic: Night of the WereHog', b'Sonic X Pilot']
-animeCharacters	[b'Sonic the Hedgehog', b'Prower, Miles', b'The Echidna, Knuckles', b'Robotnik, Ivo', b'Rose, Amy', b'The Rabbit, Cream', b'Thorndyke, Christopher', b'Shadow the Hedgehog', b'The Bat, Rouge', b'Cosmo']
-animeVoices	[b'\nKanemaru, Junichi\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n', b'\nOtsuka, Chikao\nJapanese\n', b'\nKawata, Taeko\nJapanese\n', b'\nAoki, Sayaka\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nOchiai, Rumi\nJapanese\n', b'\nKozakura, Etsuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKamegaki, Hajime\n\nDirector\n\n', b'\nMoriwaki, Makoto\n\nEpisode Director, Storyboard\n\n', b'\nTomonaga, Kazuhide\n\nEpisode Director\n\n', b'\nKuzuya, Naoyuki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	2175
+animeDescription	"Back on Sonic's home planet, Eggman has collected all 7 of the Chaos Emeralds, and is about to have absolute power when Sonic interferes, causing an explosion that sends everyone from their world to Earth. Sonic and his friends team up with 12 year old Christopher Thorndyke to collect all the Chaos Emeralds and defeat the evil Dr. Eggman.
+
+(Source: ANN)"
+animeRelated	['Sonic★the★Hedgehog', 'Sonic: Night of the WereHog', 'Sonic X Pilot']
+animeCharacters	['Sonic the Hedgehog', 'Prower, Miles', 'The Echidna, Knuckles', 'Robotnik, Ivo', 'Rose, Amy', 'The Rabbit, Cream', 'Thorndyke, Christopher', 'Shadow the Hedgehog', 'The Bat, Rouge', 'Cosmo']
+animeVoices	['Kanemaru, Junichi', 'Hirohashi, Ryou', 'Canna, Nobutoshi', 'Otsuka, Chikao', 'Kawata, Taeko', 'Aoki, Sayaka', 'Kobayashi, Sanae', 'Yusa, Kouji', 'Ochiai, Rumi', 'Kozakura, Etsuko']
+animeStaff	[['Kamegaki, Hajime', 'Director'], ['Moriwaki, Makoto', 'Episode Director, Storyboard'], ['Tomonaga, Kazuhide', 'Episode Director'], ['Kuzuya, Naoyuki', 'Episode Director, Storyboard']]

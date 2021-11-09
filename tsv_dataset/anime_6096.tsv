@@ -1,5 +1,5 @@
-animeTitle	b'Go! Go! Itsutsugo Land'
-animeType	b'TV'
+animeTitle	Go! Go! Itsutsugo Land
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.51
 animeUsers	299
 animeRank	
-animePopularity	
-animeDescription	b'The series is about five quintuplets, Kabuto, Hinoki, Arashi, Kinoko and Kodama Morino, who have all kinds of adventures together. Each has their own talent and personality. '
+animePopularity	11636
+animeDescription	The series is about five quintuplets, Kabuto, Hinoki, Arashi, Kinoko and Kodama Morino, who have all kinds of adventures together. Each has their own talent and personality. 
 animeRelated	[]
-animeCharacters	[b'Morino, Kinoko', b'Morino, Kodama', b'Morino, Hinoki', b'Morino, Kabuto', b'Morino, Arashi']
-animeVoices	[b'\nMizutani, Yuuko\nJapanese\n', b'\nAraki, Kae\nJapanese\n', b'\nYuuki, Hiro\nJapanese\n', b'\nTakimoto, Fujiko\nJapanese\n', b'\nKoujiro, Chie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuenaga, Mitsuyo\n\nScript\n\n', b'\nIwasaki, Taku\n\nMusic\n\n', b'\nKobayashi, Yukari\n\nChief Animation Director\n\n']
+animeCharacters	['Morino, Kinoko', 'Morino, Kodama', 'Morino, Hinoki', 'Morino, Kabuto', 'Morino, Arashi']
+animeVoices	['Mizutani, Yuuko', 'Araki, Kae', 'Yuuki, Hiro', 'Takimoto, Fujiko', 'Koujiro, Chie']
+animeStaff	[['Suenaga, Mitsuyo', 'Script'], ['Iwasaki, Taku', 'Music'], ['Kobayashi, Yukari', 'Chief Animation Director']]

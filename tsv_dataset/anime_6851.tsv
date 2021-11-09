@@ -1,5 +1,5 @@
-animeTitle	b'Appleseed XIII Remix Movie 1: Yuigon'
-animeType	b'Movie'
+animeTitle	Appleseed XIII Remix Movie 1: Yuigon
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.36
 animeUsers	952
 animeRank	
-animePopularity	
-animeDescription	b'This is a remix, theatrical release of the first half of the Appleseed XIII series.'
-animeRelated	[b'Appleseed XIII', b'Appleseed XIII Remix Movie 2: Yogen']
-animeCharacters	[b'Knute, Deunan', b'Briareos', b'Areios, Athena', b'Hitomi', b'Chades, Deia', b'Nike', b'Yoshitsune', b'Lance']
-animeVoices	[b'\nSakamoto, Maaya\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nTakahashi, Mikako\nJapanese\n', b'\nUchida, Naoya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUmehara, Eiji\n\nScript\n\n', b'\nSakurai, Yoshiki\n\nScript\n\n', b'\nClinkenbeard, Colleen\n\nADR Director\n\n', b'\nShirow, Masamune\n\nOriginal Creator\n\n']
+animePopularity	7683
+animeDescription	This is a remix, theatrical release of the first half of the Appleseed XIII series.
+animeRelated	['Appleseed XIII', 'Appleseed XIII Remix Movie 2: Yogen']
+animeCharacters	['Knute, Deunan', 'Briareos', 'Areios, Athena', 'Hitomi', 'Chades, Deia', 'Nike', 'Yoshitsune', 'Lance']
+animeVoices	['Sakamoto, Maaya', 'Yamadera, Kouichi', 'Takahashi, Mikako', 'Uchida, Naoya']
+animeStaff	[['Umehara, Eiji', 'Script'], ['Sakurai, Yoshiki', 'Script'], ['Clinkenbeard, Colleen', 'ADR Director'], ['Shirow, Masamune', 'Original Creator']]

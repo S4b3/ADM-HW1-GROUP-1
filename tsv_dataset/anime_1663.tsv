@@ -1,5 +1,5 @@
-animeTitle	b'Bobobo-bo Bo-bobo'
-animeType	b'TV'
+animeTitle	Bobobo-bo Bo-bobo
+animeType	TV
 animeNumEpisode	76
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.49
 animeUsers	27921
 animeRank	
-animePopularity	
-animeDescription	"b""In a futuristic world, the Maruhage Empire is a militant organization out to steal everyone's hair, and thus their freedom. But a brave man with an afro of gold and nose hairs of steel stands up against their tyranny. Bobobo-bo Bo-bobo, trained in the ways of hair, rescues a teenager named Beauty from the grunts of the Maruhage Empire. Together, they start on a journey to defeat Emperor Tsuru Tsurulina IV. As Bo-bobo meets new friends and battles foes along the way, so too does he begin his quest to save all the hairs of the world!\n\nLight-hearted and comical, Bobobo-bo Bo-bobo details a wacky adventure in which Bo-bobo and his companions fight all sorts of villains and deviants within the Maruhage Empire, all the while having a fun and exciting adventure.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Bobobo-bo Bo-bobo', b'Bobobo-bo Bo-bobo Recap']
-animeCharacters	[b'Bobobo-bo Bo-bobo', b'Don Patch', b'Tokoro, Tennosuke', b'Softon', b'Dengakuman', b'Heppokomaru', b'Beauty', b'Pickle', b'Service-man', b'Gyorai Girl']
-animeVoices	[b'\nKoyasu, Takehito\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nSonobe, Keiichi\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nKaneda, Tomoko\nJapanese\n', b'\nShindo, Naomi\nJapanese\n', b'\nNonaka, Ai\nJapanese\n', b'\nSaito, Kimiko\nJapanese\n', b'\nOota, Shinichirou\nJapanese\n', b'\nNishikawa, Hiromi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUmezawa, Atsutoshi\n\nProducer\n\n', b'\nShibata, Hiroki\n\nDirector\n\n', b'\nBuchholz, Bob\n\nScript\n\n', b'\nYoshimura, Genki\n\nScript\n\n']
+animePopularity	1880
+animeDescription	"In a futuristic world, the Maruhage Empire is a militant organization out to steal everyone's hair, and thus their freedom. But a brave man with an afro of gold and nose hairs of steel stands up against their tyranny. Bobobo-bo Bo-bobo, trained in the ways of hair, rescues a teenager named Beauty from the grunts of the Maruhage Empire. Together, they start on a journey to defeat Emperor Tsuru Tsurulina IV. As Bo-bobo meets new friends and battles foes along the way, so too does he begin his quest to save all the hairs of the world!
+
+Light-hearted and comical, Bobobo-bo Bo-bobo details a wacky adventure in which Bo-bobo and his companions fight all sorts of villains and deviants within the Maruhage Empire, all the while having a fun and exciting adventure.
+
+[Written by MAL Rewrite]"
+animeRelated	['Bobobo-bo Bo-bobo', 'Bobobo-bo Bo-bobo Recap']
+animeCharacters	['Bobobo-bo Bo-bobo', 'Don Patch', 'Tokoro, Tennosuke', 'Softon', 'Dengakuman', 'Heppokomaru', 'Beauty', 'Pickle', 'Service-man', 'Gyorai Girl']
+animeVoices	['Koyasu, Takehito', 'Onosaka, Masaya', 'Sonobe, Keiichi', 'Midorikawa, Hikaru', 'Kaneda, Tomoko', 'Shindo, Naomi', 'Nonaka, Ai', 'Saito, Kimiko', 'Oota, Shinichirou', 'Nishikawa, Hiromi']
+animeStaff	[['Umezawa, Atsutoshi', 'Producer'], ['Shibata, Hiroki', 'Director'], ['Buchholz, Bob', 'Script'], ['Yoshimura, Genki', 'Script']]

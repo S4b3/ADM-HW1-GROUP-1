@@ -1,5 +1,5 @@
-animeTitle	b'Rockman.EXE'
-animeType	b'TV'
+animeTitle	Rockman.EXE
+animeType	TV
 animeNumEpisode	56
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.92
 animeUsers	16405
 animeRank	
-animePopularity	
-animeDescription	"b'In the year of 20XX, a young boy by the name of Netto Hikari receives a very special gift as he enters the 5th grade. His very own customized net navi, Rockman! Despite Rockman\'s small size and far more responsible personality, the two boys quickly become the best of friends. A net navi is designed to guide his operator from the inside of his or her PErsonal Terminal, or simply PET for short. Children and adults alike enjoy friendly ""Net Battles"", where they spar their navis against each other to prove their worth. \n\n(Source: Official Site)'"
-animeRelated	[b'Rockman.EXE', b'Battle Story Rockman.EXE', b'Rockman Hoshi ni Negai wo', b'Irregular Hunter X: The Day of Sigma', b'Rockman.EXE Axess']
-animeCharacters	[b'Rockman.EXE', b'Hikari, Netto', b'Ijuuin, Enzan', b'Blues.EXE', b'Sakurai, Meiru', b'Roll.EXE', b'Kuroi, Miyuki', b'Ozono, Mariko', b'Iceman.EXE', b'Saloma']
-animeVoices	[b'\nKimura, Akiko\nJapanese\n', b'\nHiga, Kumiko\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nMatsukaze, Masaya\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nJou, Masako\nJapanese\n', b'\nHyo-sei\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nNoda, Junko\nJapanese\n', b'\nMinami, Omi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Noriko\n\nProducer\n\n', b'\nKato, Takao\n\nDirector, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nBlum, Steven\n\nScript\n\n']
+animePopularity	3084
+animeDescription	"In the year of 20XX, a young boy by the name of Netto Hikari receives a very special gift as he enters the 5th grade. His very own customized net navi, Rockman! Despite Rockman's small size and far more responsible personality, the two boys quickly become the best of friends. A net navi is designed to guide his operator from the inside of his or her PErsonal Terminal, or simply PET for short. Children and adults alike enjoy friendly ""Net Battles"", where they spar their navis against each other to prove their worth. 
+
+(Source: Official Site)"
+animeRelated	['Rockman.EXE', 'Battle Story Rockman.EXE', 'Rockman Hoshi ni Negai wo', 'Irregular Hunter X: The Day of Sigma', 'Rockman.EXE Axess']
+animeCharacters	['Rockman.EXE', 'Hikari, Netto', 'Ijuuin, Enzan', 'Blues.EXE', 'Sakurai, Meiru', 'Roll.EXE', 'Kuroi, Miyuki', 'Ozono, Mariko', 'Iceman.EXE', 'Saloma']
+animeVoices	['Kimura, Akiko', 'Higa, Kumiko', 'Saiga, Mitsuki', 'Matsukaze, Masaya', 'Mizuhashi, Kaori', 'Jou, Masako', 'Hyo-sei', 'Hidaka, Noriko', 'Noda, Junko', 'Minami, Omi']
+animeStaff	[['Kobayashi, Noriko', 'Producer'], ['Kato, Takao', 'Director, Storyboard'], ['Aketagawa, Jin', 'Sound Director'], ['Blum, Steven', 'Script']]

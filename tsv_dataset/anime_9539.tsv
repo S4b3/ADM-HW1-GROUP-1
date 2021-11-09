@@ -1,5 +1,5 @@
-animeTitle	b'Oval x Over'
-animeType	b'Movie'
+animeTitle	Oval x Over
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.75
 animeUsers	734
 animeRank	
-animePopularity	
-animeDescription	b'A promotional video for the Indy Racing League Bridgestone Indy Japan 300.\n\nA thrilling race. Three drivers with their own stories. A narrow line between victory and defeat. Who will be the champion? '
+animePopularity	9863
+animeDescription	"A promotional video for the Indy Racing League Bridgestone Indy Japan 300.
+
+A thrilling race. Three drivers with their own stories. A narrow line between victory and defeat. Who will be the champion? "
 animeRelated	[]
-animeCharacters	[b'Arth', b'Bern', b'Glavis']
-animeVoices	[b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImaishi, Hiroyuki\n\nDirector, Storyboard, Animation Director\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nIke, Yoshihiro\n\nMusic\n\n', b'\nNishio, Tetsuya\n\nKey Animation\n\n']
+animeCharacters	['Arth', 'Bern', 'Glavis']
+animeVoices	['Morikawa, Toshiyuki', 'Iwata, Mitsuo', 'Inoue, Kikuko']
+animeStaff	[['Imaishi, Hiroyuki', 'Director, Storyboard, Animation Director'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Ike, Yoshihiro', 'Music'], ['Nishio, Tetsuya', 'Key Animation']]

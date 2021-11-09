@@ -1,5 +1,5 @@
-animeTitle	"b""Fate/stay night Movie: Heaven's Feel - III. Spring Song"""
-animeType	b'Movie'
+animeTitle	Fate/stay night Movie: Heaven's Feel - III. Spring Song
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.75
 animeUsers	102485
 animeRank	
-animePopularity	
-animeDescription	b'The Fifth Holy Grail War in Fuyuki City has reached a turning point in which the lives of all participants are threatened as the hidden enemy finally reveals itself. As Shirou Emiya, Rin Toosaka, and Illyasviel von Einzbern discover the true, corruptive nature of the shadow that has been rampaging throughout the city, they realize just how dire the situation is. In order to protect their beloved ones, the group must hold their own against the seemingly insurmountable enemy force\xe2\x80\x94even if some of those foes were once their allies, or perhaps, something more intimate.\n\nAs the final act of this chaotic war commences, the ideals Shirou believes will soon be challenged by an excruciating dilemma: is it really possible to save a world where everything seems to have gone wrong?\n\n[Written by MAL Rewrite]'
-animeRelated	"[b""Fate/stay night: Heaven's Feel"", b""Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly""]"
-animeCharacters	[b'Toosaka, Rin', b'Emiya, Shirou', b'Matou, Sakura', b'von Einzbern, Illyasviel', b'Kotomine, Kirei', b'Rider', b'Saber', b'Archer', b'Aozaki, Touko', b'Berserker']
-animeVoices	[b'\nUeda, Kana\nJapanese\n', b'\nSugiyama, Noriaki\nJapanese\n', b'\nShitaya, Noriko\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAimer\n\nTheme Song Performance\n\n', b'\nKajiura, Yuki\n\nMusic\n\n', b'\nNasu, Kinoko\n\nOriginal Creator\n\n', b'\nType-Moon\n\nOriginal Creator\n\n']
+animePopularity	789
+animeDescription	"The Fifth Holy Grail War in Fuyuki City has reached a turning point in which the lives of all participants are threatened as the hidden enemy finally reveals itself. As Shirou Emiya, Rin Toosaka, and Illyasviel von Einzbern discover the true, corruptive nature of the shadow that has been rampaging throughout the city, they realize just how dire the situation is. In order to protect their beloved ones, the group must hold their own against the seemingly insurmountable enemy force—even if some of those foes were once their allies, or perhaps, something more intimate.
+
+As the final act of this chaotic war commences, the ideals Shirou believes will soon be challenged by an excruciating dilemma: is it really possible to save a world where everything seems to have gone wrong?
+
+[Written by MAL Rewrite]"
+animeRelated	"[""Fate/stay night: Heaven's Feel"", ""Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly""]"
+animeCharacters	['Toosaka, Rin', 'Emiya, Shirou', 'Matou, Sakura', 'von Einzbern, Illyasviel', 'Kotomine, Kirei', 'Rider', 'Saber', 'Archer', 'Aozaki, Touko', 'Berserker']
+animeVoices	['Ueda, Kana', 'Sugiyama, Noriaki', 'Shitaya, Noriko', 'Kadowaki, Mai', 'Nakata, Jouji', 'Kawasumi, Ayako']
+animeStaff	[['Aimer', 'Theme Song Performance'], ['Kajiura, Yuki', 'Music'], ['Nasu, Kinoko', 'Original Creator'], ['Type-Moon', 'Original Creator']]

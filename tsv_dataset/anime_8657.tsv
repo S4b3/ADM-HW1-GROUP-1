@@ -1,5 +1,5 @@
-animeTitle	b'Usaru-san'
-animeType	b'Special'
+animeTitle	Usaru-san
+animeType	Special
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.0
 animeUsers	680
 animeRank	
-animePopularity	
-animeDescription	b'The Media Factory mascot character franchise revolves around a male rabbit that transforms into Usaru-san by wearing a monkey costume and eating bananas. The title \xe2\x80\x9cUsaru-san\xe2\x80\x9d is a portmanteau of \xe2\x80\x9cusagi\xe2\x80\x9d (rabbit) and \xe2\x80\x9csaru\xe2\x80\x9d (monkey).\n\n(Source: AniDB)'
+animePopularity	10740
+animeDescription	"The Media Factory mascot character franchise revolves around a male rabbit that transforms into Usaru-san by wearing a monkey costume and eating bananas. The title “Usaru-san” is a portmanteau of “usagi” (rabbit) and “saru” (monkey).
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Usa']
-animeVoices	[b'\nShouji, Yui\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nBaba, Toshiko\n\nCharacter Design, Key Animation, Animation Director\n\n', b'\nOoseki, Tatsue\n\nColor Design\n\n', b'\nIkeda, Shinsuke\n\nDirector of Photography\n\n']
+animeCharacters	['Usa']
+animeVoices	['Shouji, Yui']
+animeStaff	[['Baba, Toshiko', 'Character Design, Key Animation, Animation Director'], ['Ooseki, Tatsue', 'Color Design'], ['Ikeda, Shinsuke', 'Director of Photography']]

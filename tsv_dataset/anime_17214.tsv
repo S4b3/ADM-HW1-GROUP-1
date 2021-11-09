@@ -1,5 +1,5 @@
-animeTitle	b'Marude Dameo'
-animeType	b'TV'
+animeTitle	Marude Dameo
+animeType	TV
 animeNumEpisode	47
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The series stars an elementary school boy named Dameo Marude, who has little success with anything he tries, and a robot named Borot, which is good with housekeeping.\n\n(Source: Wiki)'
+animePopularity	14442
+animeDescription	"The series stars an elementary school boy named Dameo Marude, who has little success with anything he tries, and a robot named Borot, which is good with housekeeping.
+
+(Source: Wiki)"
 animeRelated	[]
-animeCharacters	[b'Dameo', b'Borotto', b'Hennya']
-animeVoices	[b'\nTeppouzuka, Yoko\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShigino, Akira\n\nDirector\n\n', b'\nShinbou, Akiyuki\n\nEpisode Director\n\n', b'\nUeda, Shigeru\n\nEpisode Director\n\n', b'\nUrasawa, Yoshio\n\nScript, Series Composition\n\n']
+animeCharacters	['Dameo', 'Borotto', 'Hennya']
+animeVoices	['Teppouzuka, Yoko', 'Tanaka, Mayumi', 'Ogata, Kenichi']
+animeStaff	[['Shigino, Akira', 'Director'], ['Shinbou, Akiyuki', 'Episode Director'], ['Ueda, Shigeru', 'Episode Director'], ['Urasawa, Yoshio', 'Script, Series Composition']]

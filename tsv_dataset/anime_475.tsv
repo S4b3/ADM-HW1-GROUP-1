@@ -1,5 +1,5 @@
-animeTitle	b'City Hunter 2'
-animeType	b'TV'
+animeTitle	City Hunter 2
+animeType	TV
 animeNumEpisode	63
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.06
 animeUsers	9006
 animeRank	
-animePopularity	
-animeDescription	"b'Ryo Saeba is a ""sweeper"" know as the City Hunter. He and his sidekick Kaori Makimura are hired to solve problems that the police can\'t (or won\'t) handle. When he\'s not keeping the streets of Tokyo clean, Ryo is chasing the ladies, and Kaori chases after him with a giant anti-ecchi hammer. \n\n(Source: ANN)'"
-animeRelated	[b'City Hunter', b'City Hunter 3', b'City Hunter: Ai to Shukumei no Magnum']
-animeCharacters	[b'Saeba, Ryou', b'Makimura, Kaori', b'Nogami, Saeko', b'Ijuuin, Hayato', b'Makimura, Hideyuki', b'Asou, Kasumi', b'Fuyuno, Youko', b'Nogami, Reika', b'Little Girl', b'Miki']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nIkura, Kazue\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nTominaga, Miina\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nTakamori, Yoshino\nJapanese\n', b'\nSugimoto, Saori\nJapanese\n', b'\nKoyama, Mami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKodama, Kenji\n\nDirector\n\n', b'\nKase, Mitsuko\n\nEpisode Director, Script, Storyboard\n\n', b'\nEgami, Kiyoshi\n\nEpisode Director\n\n', b'\nImanishi, Takashi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3861
+animeDescription	"Ryo Saeba is a ""sweeper"" know as the City Hunter. He and his sidekick Kaori Makimura are hired to solve problems that the police can't (or won't) handle. When he's not keeping the streets of Tokyo clean, Ryo is chasing the ladies, and Kaori chases after him with a giant anti-ecchi hammer. 
+
+(Source: ANN)"
+animeRelated	['City Hunter', 'City Hunter 3', 'City Hunter: Ai to Shukumei no Magnum']
+animeCharacters	['Saeba, Ryou', 'Makimura, Kaori', 'Nogami, Saeko', 'Ijuuin, Hayato', 'Makimura, Hideyuki', 'Asou, Kasumi', 'Fuyuno, Youko', 'Nogami, Reika', 'Little Girl', 'Miki']
+animeVoices	['Kamiya, Akira', 'Ikura, Kazue', 'Ichiryuusai, Harumi', 'Genda, Tesshou', 'Tanaka, Hideyuki', 'Tominaga, Miina', 'Shinohara, Emi', 'Takamori, Yoshino', 'Sugimoto, Saori', 'Koyama, Mami']
+animeStaff	[['Kodama, Kenji', 'Director'], ['Kase, Mitsuko', 'Episode Director, Script, Storyboard'], ['Egami, Kiyoshi', 'Episode Director'], ['Imanishi, Takashi', 'Episode Director, Storyboard']]

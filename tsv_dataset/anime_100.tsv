@@ -1,5 +1,5 @@
-animeTitle	b'Shingeki no Kyojin'
-animeType	b'TV'
+animeTitle	Shingeki no Kyojin
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.52
 animeUsers	2179387
 animeRank	
-animePopularity	
-animeDescription	"b""Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Based on Hajime Isayama's award-winning manga, Shingeki no Kyojin follows Eren, along with his adopted sister Mikasa Ackerman and his childhood friend Armin Arlert, as they join the brutal war against the titans and race to discover a way of defeating them before the last walls are breached.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Shingeki no Kyojin', b'Shingeki no Kyojin OVA', b'Shingeki no Kyojin: Ano Hi Kara', b'Shingeki no Kyojin: Chronicle', b'Shingeki no Kyojin Picture Drama', b'Shingeki no Kyotou', b'Snickers x Shingeki no Kyojin', b'Shingeki no Kyojin Movie 1: Guren no Yumiya', b'Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa', b'Shingeki no Kyojin Season 2', b'Shingeki no Kyojin: Kuinaki Sentaku', b'Shingeki! Kyojin Chuugakkou', b'Shingeki no Kyojin: Lost Girls']
-animeCharacters	[b'Ackerman, Mikasa', b'Yeager, Eren', b'Arlert, Armin', b'Levi', b'Smith, Erwin', b'Zo\xc3\xab, Hange', b'Blouse, Sasha', b'Braun, Reiner', b'Kirstein, Jean', b'Leonhart, Annie']
-animeVoices	[b'\nIshikawa, Yui\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nShimamura, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWada, Jouji\n\nProducer\n\n', b'\nNakatake, Tetsuya\n\nProducer\n\n', b'\nAraki, Tetsurou\n\nDirector, Episode Director, Storyboard\n\n', b'\nYabuta, Shuuhei\n\nDirector\n\n']
+animePopularity	2
+animeDescription	"Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.
+
+After witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Based on Hajime Isayama's award-winning manga, Shingeki no Kyojin follows Eren, along with his adopted sister Mikasa Ackerman and his childhood friend Armin Arlert, as they join the brutal war against the titans and race to discover a way of defeating them before the last walls are breached.
+
+[Written by MAL Rewrite]"
+animeRelated	['Shingeki no Kyojin', 'Shingeki no Kyojin OVA', 'Shingeki no Kyojin: Ano Hi Kara', 'Shingeki no Kyojin: Chronicle', 'Shingeki no Kyojin Picture Drama', 'Shingeki no Kyotou', 'Snickers x Shingeki no Kyojin', 'Shingeki no Kyojin Movie 1: Guren no Yumiya', 'Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa', 'Shingeki no Kyojin Season 2', 'Shingeki no Kyojin: Kuinaki Sentaku', 'Shingeki! Kyojin Chuugakkou', 'Shingeki no Kyojin: Lost Girls']
+animeCharacters	['Ackerman, Mikasa', 'Yeager, Eren', 'Arlert, Armin', 'Levi', 'Smith, Erwin', 'Zoë, Hange', 'Blouse, Sasha', 'Braun, Reiner', 'Kirstein, Jean', 'Leonhart, Annie']
+animeVoices	['Ishikawa, Yui', 'Kaji, Yuki', 'Inoue, Marina', 'Kamiya, Hiroshi', 'Ono, Daisuke', 'Park, Romi', 'Kobayashi, Yuu', 'Hosoya, Yoshimasa', 'Taniyama, Kishou', 'Shimamura, Yuu']
+animeStaff	[['Wada, Jouji', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Araki, Tetsurou', 'Director, Episode Director, Storyboard'], ['Yabuta, Shuuhei', 'Director']]

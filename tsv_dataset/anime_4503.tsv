@@ -1,5 +1,5 @@
-animeTitle	b'Kure-nai OVA'
-animeType	b'OVA'
+animeTitle	Kure-nai OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.83
 animeUsers	6276
 animeRank	
-animePopularity	
-animeDescription	b'A Kure-nai OVA featuring new character designs closer to the novel/manga.'
-animeRelated	[b'Kure-nai']
-animeCharacters	[b'Kuhouin, Murasaki', b'Kurenai, Shinkurou', b'Murakami, Ginko', b'Houzuki, Yuuno', b'Kirishima, Kirihiko', b'Yamie', b'Mutou, Tamaki', b'May, Lucy', b'Cheng Shin, Lin']
-animeVoices	[b'\nYuuki, Aoi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nMasu, Nozomi\nJapanese\n', b'\nShintani, Ryouko\nJapanese\n', b'\nTakahashi, Mikako\nJapanese\n', b'\nKimura, Haruka\nJapanese\n', b'\nSanada, Asami\nJapanese\n', b'\nTomisaka, Akira\nJapanese\n', b'\nUeda, Kana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuo, Kou\n\nDirector, Sound Director, Episode Director, Script, Storyboard\n\n', b'\nShibata, Katsunori\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nYamamoto, Yamato\n\nOriginal Character Design\n\n', b'\nMuramatsu, Ken\n\nMusic\n\n']
+animePopularity	4830
+animeDescription	A Kure-nai OVA featuring new character designs closer to the novel/manga.
+animeRelated	['Kure-nai']
+animeCharacters	['Kuhouin, Murasaki', 'Kurenai, Shinkurou', 'Murakami, Ginko', 'Houzuki, Yuuno', 'Kirishima, Kirihiko', 'Yamie', 'Mutou, Tamaki', 'May, Lucy', 'Cheng Shin, Lin']
+animeVoices	['Yuuki, Aoi', 'Sawashiro, Miyuki', 'Masu, Nozomi', 'Shintani, Ryouko', 'Takahashi, Mikako', 'Kimura, Haruka', 'Sanada, Asami', 'Tomisaka, Akira', 'Ueda, Kana']
+animeStaff	[['Matsuo, Kou', 'Director, Sound Director, Episode Director, Script, Storyboard'], ['Shibata, Katsunori', 'Episode Director, Storyboard, Key Animation'], ['Yamamoto, Yamato', 'Original Character Design'], ['Muramatsu, Ken', 'Music']]

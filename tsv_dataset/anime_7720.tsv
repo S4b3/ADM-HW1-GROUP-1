@@ -1,5 +1,5 @@
-animeTitle	b'Oishinbo: Nichibei Kome Sensou'
-animeType	b'Movie'
+animeTitle	Oishinbo: Nichibei Kome Sensou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.19
 animeUsers	178
 animeRank	
-animePopularity	
-animeDescription	b'The Oishinbo gang takes time off from the normal culinary wars to get involved with a political dispute about American rice imports. The economic conflict between a pushy US Senator from California and a nationalistic Japanese politician is further complicated by concerns about the cumulative effect of pesticide use in both American and Japanese agriculture.'
-animeRelated	[b'Oishinbo: Kyuukyoku tai Shikou, Chouju Ryouri Taiketsu!!']
-animeCharacters	[b'Yamaoka, Shirou', b'Kurita, Yuuko', b'Kaibara, Yuuzan', b'Chairman Oohara', b'Tomii, Osamu', b'Chief Tanimura', b'Hanamura, Noriko', b'Tabata, Kinue']
-animeVoices	[b'\nInoue, Kazuhiko\nJapanese\n', b'\nShou, Mayumi\nJapanese\n', b'\nOtsuka, Chikao\nJapanese\n', b'\nSaka, Osamu\nJapanese\n', b'\nAomori, Shin\nJapanese\n', b'\nShima, Shunsuke\nJapanese\n', b'\nSakuma, Rei\nJapanese\n', b'\nMayama, Ako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakeuchi, Yoshio\n\nDirector\n\n', b'\nNakamura, Yuma\n\nTheme Song Performance\n\n', b'\nMatsumoto, Toshiaki\n\nTheme Song Composition\n\n', b'\nMIKA\n\nTheme Song Performance\n\n']
+animePopularity	12489
+animeDescription	The Oishinbo gang takes time off from the normal culinary wars to get involved with a political dispute about American rice imports. The economic conflict between a pushy US Senator from California and a nationalistic Japanese politician is further complicated by concerns about the cumulative effect of pesticide use in both American and Japanese agriculture.
+animeRelated	['Oishinbo: Kyuukyoku tai Shikou, Chouju Ryouri Taiketsu!!']
+animeCharacters	['Yamaoka, Shirou', 'Kurita, Yuuko', 'Kaibara, Yuuzan', 'Chairman Oohara', 'Tomii, Osamu', 'Chief Tanimura', 'Hanamura, Noriko', 'Tabata, Kinue']
+animeVoices	['Inoue, Kazuhiko', 'Shou, Mayumi', 'Otsuka, Chikao', 'Saka, Osamu', 'Aomori, Shin', 'Shima, Shunsuke', 'Sakuma, Rei', 'Mayama, Ako']
+animeStaff	[['Takeuchi, Yoshio', 'Director'], ['Nakamura, Yuma', 'Theme Song Performance'], ['Matsumoto, Toshiaki', 'Theme Song Composition'], ['MIKA', 'Theme Song Performance']]

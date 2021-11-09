@@ -1,5 +1,5 @@
-animeTitle	b'11eyes'
-animeType	b'TV'
+animeTitle	11eyes
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.11
 animeUsers	114396
 animeRank	
-animePopularity	
-animeDescription	"b'When the Sky turns Red, the Moon turns Black, and monsters begin roaming the streets, Satsuki Kakeru is at a loss for what to do. Along with his best friend Yuka, they try to decipher why they have been sent to this strange world, which is seemingly empty aside from themselves.\n\nHowever, when the ""Red Night"" ends, Kakeru and Yuka believed it was all a dream, until it happens again and they are left in a dangerous situation. They meet four others in the same predicament: Kusakabe Misuzu, an expert swordswoman, Tachibana Kukuri, a strange mute girl who looks uncannily like Kakeru\'s deceased sister, Hirohara Yukiko, a lively young girl whose personality reverts to that of a cold killer when her glasses are removed, and Tajima Takahisa, a young pyrokineticist.\n\nAs the six of them band together to survive and discover what this mysterious world is, things take a turn for the worse as six shadows appear before them...\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'11eyes: Tsumi to Batsu to Aganai no Shoujo', b'11eyes: Momoiro Genmutan', b'11eyes Picture Drama']
-animeCharacters	[b'Kusakabe, Misuzu', b'Hirohara, Yukiko', b'Satsuki, Kakeru', b'Minase, Yuka', b'Tajima, Takahisa', b'Tachibana, Kukuri', b'Weltall, Lisette', b'Momono, Shiori', b'Akamine, Saiko', b'Superbia']
-animeVoices	[b'\nAsakawa, Yuu\nJapanese\n', b'\nIchimura, Oma\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nGotou, Mai\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nRikimaru, Noriko\nJapanese\n', b'\nNiina, Ayano\nJapanese\n', b'\nHagiwara, Emiko\nJapanese\n', b'\nTakahashi, Chiaki\nJapanese\n', b'\nHyo-sei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimoda, Masami\n\nDirector, Episode Director\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nTakamura, Yuuta\n\nEpisode Director, Storyboard, 2nd Key Animation\n\n', b'\nKawabata, Takashi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	813
+animeDescription	"When the Sky turns Red, the Moon turns Black, and monsters begin roaming the streets, Satsuki Kakeru is at a loss for what to do. Along with his best friend Yuka, they try to decipher why they have been sent to this strange world, which is seemingly empty aside from themselves.
+
+However, when the ""Red Night"" ends, Kakeru and Yuka believed it was all a dream, until it happens again and they are left in a dangerous situation. They meet four others in the same predicament: Kusakabe Misuzu, an expert swordswoman, Tachibana Kukuri, a strange mute girl who looks uncannily like Kakeru's deceased sister, Hirohara Yukiko, a lively young girl whose personality reverts to that of a cold killer when her glasses are removed, and Tajima Takahisa, a young pyrokineticist.
+
+As the six of them band together to survive and discover what this mysterious world is, things take a turn for the worse as six shadows appear before them...
+
+[Written by MAL Rewrite]"
+animeRelated	['11eyes: Tsumi to Batsu to Aganai no Shoujo', '11eyes: Momoiro Genmutan', '11eyes Picture Drama']
+animeCharacters	['Kusakabe, Misuzu', 'Hirohara, Yukiko', 'Satsuki, Kakeru', 'Minase, Yuka', 'Tajima, Takahisa', 'Tachibana, Kukuri', 'Weltall, Lisette', 'Momono, Shiori', 'Akamine, Saiko', 'Superbia']
+animeVoices	['Asakawa, Yuu', 'Ichimura, Oma', 'Ono, Daisuke', 'Gotou, Mai', 'Morikubo, Shoutarou', 'Rikimaru, Noriko', 'Niina, Ayano', 'Hagiwara, Emiko', 'Takahashi, Chiaki', 'Hyo-sei']
+animeStaff	[['Shimoda, Masami', 'Director, Episode Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Takamura, Yuuta', 'Episode Director, Storyboard, 2nd Key Animation'], ['Kawabata, Takashi', 'Episode Director, Storyboard']]

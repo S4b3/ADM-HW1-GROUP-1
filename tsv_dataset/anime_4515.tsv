@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Quest: Yuusha Abel Densetsu'
-animeType	b'TV'
+animeTitle	Dragon Quest: Yuusha Abel Densetsu
+animeType	TV
 animeNumEpisode	43
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.82
 animeUsers	1088
 animeRank	
-animePopularity	
-animeDescription	b'Dragon Quest is loosely based on Dragon Quest III. The names and some of the characters are familar, but the world map is smaller and a very different shape. The two main characters are Abel and Tialah. Tialah receives the legendary Red Stone from the Aliahan Village sage Master Yogi. Soon after, Tialah is kidnapped by the evil Baramos who wants to use the Red Stone to resurrect The Great Dragon and be granted eternal life. Abel swore to rescue Tialah and he is given the Blue Stone, which can only seal the Dragon once it has been released. \n\n(Source: AniDB)'
-animeRelated	[b'Dragon Quest: Dai no Daibouken (TV)']
-animeCharacters	[b'Daisy', b'Abel', b'Mokomoko', b'Tiara', b'Baramos']
-animeVoices	[b'\nMita, Yuuko\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nSakurai, Toshiharu\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nWatabe, Takeshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKanda, Takeyuki\n\nDirector\n\n', b'\nYamada, Katsuhisa\n\nDirector\n\n', b'\nIshiodori, Hiroshi\n\nEpisode Director, Storyboard\n\n', b'\nKatayama, Kazuyoshi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	6910
+animeDescription	"Dragon Quest is loosely based on Dragon Quest III. The names and some of the characters are familar, but the world map is smaller and a very different shape. The two main characters are Abel and Tialah. Tialah receives the legendary Red Stone from the Aliahan Village sage Master Yogi. Soon after, Tialah is kidnapped by the evil Baramos who wants to use the Red Stone to resurrect The Great Dragon and be granted eternal life. Abel swore to rescue Tialah and he is given the Blue Stone, which can only seal the Dragon once it has been released. 
+
+(Source: AniDB)"
+animeRelated	['Dragon Quest: Dai no Daibouken (TV)']
+animeCharacters	['Daisy', 'Abel', 'Mokomoko', 'Tiara', 'Baramos']
+animeVoices	['Mita, Yuuko', 'Furuya, Toru', 'Sakurai, Toshiharu', 'Katsuki, Masako', 'Watabe, Takeshi']
+animeStaff	[['Kanda, Takeyuki', 'Director'], ['Yamada, Katsuhisa', 'Director'], ['Ishiodori, Hiroshi', 'Episode Director, Storyboard'], ['Katayama, Kazuyoshi', 'Episode Director, Storyboard']]

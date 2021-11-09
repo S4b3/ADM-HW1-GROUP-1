@@ -1,5 +1,5 @@
-animeTitle	b'Blue Thermal'
-animeType	b'Movie'
+animeTitle	Blue Thermal
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Tamaki Tsuru, a freshman at Aonagi University, was overzealous about volleyball when she was in high school. Following a romantic rejection due to being an athletic girl, she joined the tennis club in college to be less athletic. One day, she accidentally hits Daisuke with a tennis ball as he was transporting a glider, causing damage to it. Tamaki was charged with a repair cost of two million yen, but as she couldn't pay the amount, she joins the sports association aviation club as a helper.\n\n(Source: MAL News)"""
-animeRelated	[b'Blue Thermal: Aonagi Daigaku Taiikukai Koukuu-bu']
-animeCharacters	[b'Soraichi, Daisuke', b'Kuramochi, Jun', b'Tsuru, Tamaki']
-animeVoices	[b'\nEnoki, Junya\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nHotta, Mayu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTachibana, Masaki\n\nDirector, Screenplay\n\n', b'\nTakahashi, Natsuko\n\nScreenplay\n\n']
+animePopularity	9627
+animeDescription	"Tamaki Tsuru, a freshman at Aonagi University, was overzealous about volleyball when she was in high school. Following a romantic rejection due to being an athletic girl, she joined the tennis club in college to be less athletic. One day, she accidentally hits Daisuke with a tennis ball as he was transporting a glider, causing damage to it. Tamaki was charged with a repair cost of two million yen, but as she couldn't pay the amount, she joins the sports association aviation club as a helper.
+
+(Source: MAL News)"
+animeRelated	['Blue Thermal: Aonagi Daigaku Taiikukai Koukuu-bu']
+animeCharacters	['Soraichi, Daisuke', 'Kuramochi, Jun', 'Tsuru, Tamaki']
+animeVoices	['Enoki, Junya', 'Shimazaki, Nobunaga', 'Hotta, Mayu']
+animeStaff	[['Tachibana, Masaki', 'Director, Screenplay'], ['Takahashi, Natsuko', 'Screenplay']]

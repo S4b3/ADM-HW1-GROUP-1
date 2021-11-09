@@ -1,5 +1,5 @@
-animeTitle	b'Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OVA'
-animeType	b'OVA'
+animeTitle	Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.42
 animeUsers	13280
 animeRank	
-animePopularity	
-animeDescription	"b""This OVA is divided into two parts. First one is about Torii Shoutarou following his younger sister on a date. Second one is about Christmas Eve, which Mitsuki, Yuuya and their friends spend at Kanzaki's house.\n\nBundled with the limited-edition volume 7 of the manga.\n\n(Source: AniDB)"""
-animeRelated	[b'Saikin, Imouto no Yousu ga Chotto Okashiinda ga.']
-animeCharacters	[b'Kanzaki, Mitsuki', b'Kotobuki, Hiyori', b'Kanzaki, Yuuya', b'Torii, Moa', b'Torii, Shoutarou', b'Kiritani, Yukina', b'Neko', b'Tachibana, Ayaka', b'Mei', b'Kanzaki, Kyouko']
-animeVoices	[b'\nHashimoto, Chinami\nJapanese\n', b'\nOgura, Yui\nJapanese\n', b'\nMajima, Junji\nJapanese\n', b'\nTerakawa, Aimi\nJapanese\n', b'\nTakumi, Yasuaki\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n', b'\nSasaki, Mikoi\nJapanese\n', b'\nTanaka, Manami\nJapanese\n', b'\nToyota, Moe\nJapanese\n', b'\nItou, Miki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakanishi, Ryousuke\n\nMusic\n\n', b'\nMatsuzawa, Mari\n\nOriginal Creator\n\n']
+animePopularity	3510
+animeDescription	"This OVA is divided into two parts. First one is about Torii Shoutarou following his younger sister on a date. Second one is about Christmas Eve, which Mitsuki, Yuuya and their friends spend at Kanzaki's house.
+
+Bundled with the limited-edition volume 7 of the manga.
+
+(Source: AniDB)"
+animeRelated	['Saikin, Imouto no Yousu ga Chotto Okashiinda ga.']
+animeCharacters	['Kanzaki, Mitsuki', 'Kotobuki, Hiyori', 'Kanzaki, Yuuya', 'Torii, Moa', 'Torii, Shoutarou', 'Kiritani, Yukina', 'Neko', 'Tachibana, Ayaka', 'Mei', 'Kanzaki, Kyouko']
+animeVoices	['Hashimoto, Chinami', 'Ogura, Yui', 'Majima, Junji', 'Terakawa, Aimi', 'Takumi, Yasuaki', 'Kanemoto, Hisako', 'Sasaki, Mikoi', 'Tanaka, Manami', 'Toyota, Moe', 'Itou, Miki']
+animeStaff	[['Nakanishi, Ryousuke', 'Music'], ['Matsuzawa, Mari', 'Original Creator']]

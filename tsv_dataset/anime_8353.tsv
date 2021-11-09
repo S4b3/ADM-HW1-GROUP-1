@@ -1,5 +1,5 @@
-animeTitle	b'Iron Man'
-animeType	b'TV'
+animeTitle	Iron Man
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.07
 animeUsers	11183
 animeRank	
-animePopularity	
-animeDescription	b'Tony Stark, CEO of a large weapons manufacturer, physicist, engineer, and brilliant inventor, is wounded by shrapnel from one of his own weapons. While held captive by terrorists, he develops the Iron Man Suit  and escapes. From that day on, he vows not to waste his second chance at life and to change the world for the better. For that purpose, he comes to Japan.\n\nIn Lab 23 in Japan, great strides have been taken to develop, and build, a unique power station which does not run on fossil fuels, the Arc Station. Stark intends to join this project, and, for that, he is ready to announce his retirement as Iron Man. At the same time, he will also announce the Mass-produced Iron Men, to which he will pass on his duties. However, during the ceremonies, Stark is suddenly attacked by combat mecha belonging to an organization known as Zodiac.'
-animeRelated	[b'Wolverine', b'Iron Man: Rise of Technovore']
-animeCharacters	[b'Stark, Anthony', b'Tanaka, Chika', b'Ota, Nanami', b'Howlett, James', b'Sakurai, Nagato', b'Shou', b'Masuda, Ichiro', b'Righella', b'Nomura', b'Sandra']
-animeVoices	[b'\nFujiwara, Keiji\nJapanese\n', b'\nHonda, Takako\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nYamanoi, Jin\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nShimura, Tomoyuki\nJapanese\n', b'\nFukumatsu, Shinya\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoike, Takeshi\n\nDirector, Mechanical Design\n\n', b'\nSatou, Yuuzou\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nItou, Naoyuki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3531
+animeDescription	"Tony Stark, CEO of a large weapons manufacturer, physicist, engineer, and brilliant inventor, is wounded by shrapnel from one of his own weapons. While held captive by terrorists, he develops the Iron Man Suit  and escapes. From that day on, he vows not to waste his second chance at life and to change the world for the better. For that purpose, he comes to Japan.
+
+In Lab 23 in Japan, great strides have been taken to develop, and build, a unique power station which does not run on fossil fuels, the Arc Station. Stark intends to join this project, and, for that, he is ready to announce his retirement as Iron Man. At the same time, he will also announce the Mass-produced Iron Men, to which he will pass on his duties. However, during the ceremonies, Stark is suddenly attacked by combat mecha belonging to an organization known as Zodiac."
+animeRelated	['Wolverine', 'Iron Man: Rise of Technovore']
+animeCharacters	['Stark, Anthony', 'Tanaka, Chika', 'Ota, Nanami', 'Howlett, James', 'Sakurai, Nagato', 'Shou', 'Masuda, Ichiro', 'Righella', 'Nomura', 'Sandra']
+animeVoices	['Fujiwara, Keiji', 'Honda, Takako', 'Itou, Shizuka', 'Koyama, Rikiya', 'Yamanoi, Jin', 'Suzumura, Kenichi', 'Shimura, Tomoyuki', 'Fukumatsu, Shinya', 'Yuzuki, Ryouka']
+animeStaff	[['Koike, Takeshi', 'Director, Mechanical Design'], ['Satou, Yuuzou', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Itou, Naoyuki', 'Episode Director, Storyboard']]

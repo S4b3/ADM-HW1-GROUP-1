@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon: Pikachu to Pokemon Ongakutai'
-animeType	b'Movie'
+animeTitle	Pokemon: Pikachu to Pokemon Ongakutai
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.2
 animeUsers	1758
 animeRank	
-animePopularity	
-animeDescription	"b""Pikachu and the rest of the group practice singing and dancing, as well as rehearsing their segments, until they realize Luchabull (Hawlucha) can't sing! Now it's up to Pikachu and everybody else to encourage Luchabull into getting back on cue before they have to do the show for real! Will they succeed?"""
-animeRelated	[b'Pokemon XY', b'Pokemon Movie 18: Ring no Choumajin Hoopa']
-animeCharacters	[b'Pikachu', b'Nyarth', b'Soonansu', b'Narrator']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nYamamoto, Mizuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nSonoda, Hideki\n\nScript\n\n', b'\nLittle Glee Monster\n\nTheme Song Performance\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n']
+animePopularity	7127
+animeDescription	Pikachu and the rest of the group practice singing and dancing, as well as rehearsing their segments, until they realize Luchabull (Hawlucha) can't sing! Now it's up to Pikachu and everybody else to encourage Luchabull into getting back on cue before they have to do the show for real! Will they succeed?
+animeRelated	['Pokemon XY', 'Pokemon Movie 18: Ring no Choumajin Hoopa']
+animeCharacters	['Pikachu', 'Nyarth', 'Soonansu', 'Narrator']
+animeVoices	['Ootani, Ikue', 'Inuyama, Inuko', 'Ueda, Yuuji', 'Yamamoto, Mizuki']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Sonoda, Hideki', 'Script'], ['Little Glee Monster', 'Theme Song Performance'], ['Tajiri, Satoshi', 'Original Creator']]

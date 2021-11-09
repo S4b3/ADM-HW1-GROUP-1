@@ -1,5 +1,5 @@
-animeTitle	b'Mitsudomoe Zouryouchuu!'
-animeType	b'TV'
+animeTitle	Mitsudomoe Zouryouchuu!
+animeType	TV
 animeNumEpisode	8
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.69
 animeUsers	23796
 animeRank	
-animePopularity	
-animeDescription	b'Second season of Mitsudomoe.'
-animeRelated	[b'Mitsudomoe']
-animeCharacters	[b'Marui, Hitoha', b'Marui, Mitsuba', b'Marui, Futaba', b'Yabe, Satoshi', b'Marui, Soujirou', b'Yoshioka, Yuki', b'Chiba, Yuudai', b'Miyashita', b'Matsuoka, Sakiko', b'Sugisaki, Marina']
-animeVoices	[b'\nTomatsu, Haruka\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n', b'\nAkesaka, Satomi\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nAmada, Masuo\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nYamamoto, Kazutomi\nJapanese\n', b'\nOohara, Momoko\nJapanese\n', b'\nHayama, Ikumi\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOota, Masahiko\n\nDirector, Episode Director, Script, Storyboard\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nOokubo, Masao\n\nEpisode Director, Storyboard\n\n', b'\nAoba, Jou\n\nEpisode Director, Storyboard\n\n']
+animePopularity	2733
+animeDescription	Second season of Mitsudomoe.
+animeRelated	['Mitsudomoe']
+animeCharacters	['Marui, Hitoha', 'Marui, Mitsuba', 'Marui, Futaba', 'Yabe, Satoshi', 'Marui, Soujirou', 'Yoshioka, Yuki', 'Chiba, Yuudai', 'Miyashita', 'Matsuoka, Sakiko', 'Sugisaki, Marina']
+animeVoices	['Tomatsu, Haruka', 'Takagaki, Ayahi', 'Akesaka, Satomi', 'Shimono, Hiro', 'Amada, Masuo', 'Toyosaki, Aki', 'Yamamoto, Kazutomi', 'Oohara, Momoko', 'Hayama, Ikumi', 'Inoue, Kikuko']
+animeStaff	[['Oota, Masahiko', 'Director, Episode Director, Script, Storyboard'], ['Ebina, Yasunori', 'Sound Director'], ['Ookubo, Masao', 'Episode Director, Storyboard'], ['Aoba, Jou', 'Episode Director, Storyboard']]

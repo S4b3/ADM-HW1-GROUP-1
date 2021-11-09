@@ -1,5 +1,5 @@
-animeTitle	b'Ojarumaru: Wasureta Mori no Hinata'
-animeType	b'Special'
+animeTitle	Ojarumaru: Wasureta Mori no Hinata
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A special of the Ojarumaru series. '
-animeRelated	[b'Ojarumaru']
-animeCharacters	[b'Sakanoue, Ojarumaru']
-animeVoices	[b'\nNishimura, Chinami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDaichi, Akitarou\n\nDirector\n\n', b'\nKouyama, Shuuichi\n\nScript\n\n']
+animePopularity	16239
+animeDescription	A special of the Ojarumaru series. 
+animeRelated	['Ojarumaru']
+animeCharacters	['Sakanoue, Ojarumaru']
+animeVoices	['Nishimura, Chinami']
+animeStaff	[['Daichi, Akitarou', 'Director'], ['Kouyama, Shuuichi', 'Script']]

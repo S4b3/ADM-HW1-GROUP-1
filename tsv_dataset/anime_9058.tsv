@@ -1,5 +1,5 @@
-animeTitle	b'Avenger'
-animeType	b'TV'
+animeTitle	Avenger
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.89
 animeUsers	6045
 animeRank	
-animePopularity	
-animeDescription	"b'Mars has been colonized and is a world where children have been replaced by robot servants known as ""dolls."" Layla is a skilled fighter with a tragic past who travels about the world. Her companions are Nei, a strange and unique doll with some unknown ties to Layla, and Speedy, who is a doll breeder. The founders of Mars see the trio as a threat to their world, and each time they attack Layla and Nei a bit more of their mysterious past and future is revealed.'"
+animePopularity	4368
+animeDescription	"Mars has been colonized and is a world where children have been replaced by robot servants known as ""dolls."" Layla is a skilled fighter with a tragic past who travels about the world. Her companions are Nei, a strange and unique doll with some unknown ties to Layla, and Speedy, who is a doll breeder. The founders of Mars see the trio as a threat to their world, and each time they attack Layla and Nei a bit more of their mysterious past and future is revealed."
 animeRelated	[]
-animeCharacters	[b'Ashley, Layla', b'Nei', b'Speedy', b'Jupiter', b'Volk', b'Westa', b'Gantz', b'Teo', b'Garcia', b'Cecil']
-animeVoices	[b'\nToyoguchi, Megumi\nJapanese\n', b'\nKanai, Mika\nJapanese\n', b'\nOota, Shinichirou\nJapanese\n', b'\nNakata, Kazuhiro\nJapanese\n', b'\nYanaka, Hiroshi\nJapanese\n', b'\nShimamoto, Sumi\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nHan, Keiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatomi, Tetsurou\n\nProducer\n\n', b'\nMorimoto, Kouji\n\nProducer\n\n', b'\nMashimo, Kouichi\n\nDirector, Storyboard\n\n', b'\nMorioka, Hiroshi\n\nDirector\n\n']
+animeCharacters	['Ashley, Layla', 'Nei', 'Speedy', 'Jupiter', 'Volk', 'Westa', 'Gantz', 'Teo', 'Garcia', 'Cecil']
+animeVoices	['Toyoguchi, Megumi', 'Kanai, Mika', 'Oota, Shinichirou', 'Nakata, Kazuhiro', 'Yanaka, Hiroshi', 'Shimamoto, Sumi', 'Suzumura, Kenichi', 'Konishi, Katsuyuki', 'Han, Keiko']
+animeStaff	[['Satomi, Tetsurou', 'Producer'], ['Morimoto, Kouji', 'Producer'], ['Mashimo, Kouichi', 'Director, Storyboard'], ['Morioka, Hiroshi', 'Director']]

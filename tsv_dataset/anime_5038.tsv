@@ -1,5 +1,5 @@
-animeTitle	b'Tennis no Ouji-sama: Message in a Bottle'
-animeType	b'Special'
+animeTitle	Tennis no Ouji-sama: Message in a Bottle
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.71
 animeUsers	561
 animeRank	
-animePopularity	
-animeDescription	b'Picture drama episode included with Prince of Tennis official DVD fandisc.\n\nAtobe, sneakily, throws a message in a bottle in the river, which winds up next to the Rikkai and the Seigaku regulars.\n\n(Source: Prince of Tennnis Wiki)'
-animeRelated	[b'Tennis no Ouji-sama']
-animeCharacters	[b'Echizen, Ryouma', b'Fuji, Shuusuke', b'Atobe, Keigo', b'Kikumaru, Eiji', b'Kirihara, Akaya', b'Sanada, Genichirou', b'Momoshiro, Takeshi', b'Oishi, Shuichiro', b'Yanagi, Renji', b'Oshitari, Yuushi']
-animeVoices	[b'\nMinagawa, Junko\nJapanese\n', b'\nKaida, Yuki\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nTakahashi, Hiroki\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nKusunoki, Taiten\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nKondou, Takayuki\nJapanese\n', b'\nTakemoto, Eiji\nJapanese\n', b'\nKiuchi, Hidenobu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKonomi, Takeshi\n\nOriginal Creator\n\n']
+animePopularity	9266
+animeDescription	"Picture drama episode included with Prince of Tennis official DVD fandisc.
+
+Atobe, sneakily, throws a message in a bottle in the river, which winds up next to the Rikkai and the Seigaku regulars.
+
+(Source: Prince of Tennnis Wiki)"
+animeRelated	['Tennis no Ouji-sama']
+animeCharacters	['Echizen, Ryouma', 'Fuji, Shuusuke', 'Atobe, Keigo', 'Kikumaru, Eiji', 'Kirihara, Akaya', 'Sanada, Genichirou', 'Momoshiro, Takeshi', 'Oishi, Shuichiro', 'Yanagi, Renji', 'Oshitari, Yuushi']
+animeVoices	['Minagawa, Junko', 'Kaida, Yuki', 'Suwabe, Junichi', 'Takahashi, Hiroki', 'Morikubo, Shoutarou', 'Kusunoki, Taiten', 'Onosaka, Masaya', 'Kondou, Takayuki', 'Takemoto, Eiji', 'Kiuchi, Hidenobu']
+animeStaff	[['Konomi, Takeshi', 'Original Creator']]

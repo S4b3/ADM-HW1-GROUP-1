@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 17: Nobita to Ginga Express'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 17: Nobita to Ginga Express
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.16
 animeUsers	3492
 animeRank	
-animePopularity	
-animeDescription	b'The kids go on a space Mystery Train bound for a space theme park, when a race of alien virus strikes, wanting to take them as host bodies.'
-animeRelated	"[b'Daichouhen Doraemon', b'Doraemon (1979)', b""Dorami & Doraemons: Robot School's Seven Mysteries""]"
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi']
-animeVoices	[b'\nOoyama, Nobuyo\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nNomura, Michiko\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nTatekabe, Kazuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nTakeda, Tetsuya\n\nTheme Song Lyrics\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n', b'\nKikuchi, Shunsuke\n\nMusic\n\n']
+animePopularity	6660
+animeDescription	The kids go on a space Mystery Train bound for a space theme park, when a race of alien virus strikes, wanting to take them as host bodies.
+animeRelated	"['Daichouhen Doraemon', 'Doraemon (1979)', ""Dorami & Doraemons: Robot School's Seven Mysteries""]"
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi']
+animeVoices	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Nomura, Michiko', 'Kimotsuki, Kaneta', 'Tatekabe, Kazuya']
+animeStaff	[['Urakami, Yasuo', 'Sound Director'], ['Takeda, Tetsuya', 'Theme Song Lyrics'], ['Fujiko, Fujio F.', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music']]

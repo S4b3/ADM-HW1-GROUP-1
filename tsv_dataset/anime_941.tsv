@@ -1,5 +1,5 @@
-animeTitle	b'Neko no Ongaeshi'
-animeType	b'Movie'
+animeTitle	Neko no Ongaeshi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.75
 animeUsers	136599
 animeRank	
-animePopularity	
-animeDescription	"b'High school student Haru Yoshioka is bored with the monotony of life. One day, she saves Prince Lune of the Cat Kingdom from being run over by a truck. As a token of gratitude, the Cat King sends her ""presents"" and invites her to the Cat Kingdom to become Lune\'s wife. Haru\'s inability to properly communicate with the cats leads to the misunderstanding that she has accepted the proposal.\n\nAs Haru ponders on ways to escape the predicament, a mysterious voice instructs her to search for the Cat Bureau. However, not long after she finally arrives at the bureau, a horde of cats swarms in and forcibly takes her to the Cat Kingdom, along with a member of the Cat Bureau. Concerned for their safety, owner of the Cat Bureau, Baron Humbert von Gikkingen, follows close behind.\n\nThe more Haru immerses herself in the activities of the Cat Kingdom, the more cat-like she becomes. To her dismay, she soon learns that, unless she can find her true self, she may become a cat permanently. Haru\'s adventures in the world of cats lead her down a path to self-discovery, allowing her to return as a more confident person.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Baron: Neko no Danshaku', b'Mimi wo Sumaseba']
-animeCharacters	[b'Baron Humbert von Gikkingen', b'Yoshioka, Haru', b'Moon, Renaldo', b'Yuki', b'Natoru', b'Prince Lune', b'Cat King', b'Toto', b'Hiromi', b'Machida']
-animeVoices	[b'\nHakamada, Yoshihiko\nJapanese\n', b'\nIkewaki, Chizuru\nJapanese\n', b'\nWatanabe, Tetsu\nJapanese\n', b'\nMaeda, Aki\nJapanese\n', b'\nHamada, Mari\nJapanese\n', b'\nYamada, Takayuki\nJapanese\n', b'\nTanba, Tetsurou\nJapanese\n', b'\nSatou, Hitomi\nJapanese\n', b'\nYasuda, Ken\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Toshio\n\nProducer\n\n', b'\nMorita, Hiroyuki\n\nDirector, Storyboard\n\n', b'\nYoshida, Reiko\n\nScript\n\n', b'\nMiyazaki, Hayao\n\nExecutive Producer\n\n']
+animePopularity	817
+animeDescription	"High school student Haru Yoshioka is bored with the monotony of life. One day, she saves Prince Lune of the Cat Kingdom from being run over by a truck. As a token of gratitude, the Cat King sends her ""presents"" and invites her to the Cat Kingdom to become Lune's wife. Haru's inability to properly communicate with the cats leads to the misunderstanding that she has accepted the proposal.
+
+As Haru ponders on ways to escape the predicament, a mysterious voice instructs her to search for the Cat Bureau. However, not long after she finally arrives at the bureau, a horde of cats swarms in and forcibly takes her to the Cat Kingdom, along with a member of the Cat Bureau. Concerned for their safety, owner of the Cat Bureau, Baron Humbert von Gikkingen, follows close behind.
+
+The more Haru immerses herself in the activities of the Cat Kingdom, the more cat-like she becomes. To her dismay, she soon learns that, unless she can find her true self, she may become a cat permanently. Haru's adventures in the world of cats lead her down a path to self-discovery, allowing her to return as a more confident person.
+
+[Written by MAL Rewrite]"
+animeRelated	['Baron: Neko no Danshaku', 'Mimi wo Sumaseba']
+animeCharacters	['Baron Humbert von Gikkingen', 'Yoshioka, Haru', 'Moon, Renaldo', 'Yuki', 'Natoru', 'Prince Lune', 'Cat King', 'Toto', 'Hiromi', 'Machida']
+animeVoices	['Hakamada, Yoshihiko', 'Ikewaki, Chizuru', 'Watanabe, Tetsu', 'Maeda, Aki', 'Hamada, Mari', 'Yamada, Takayuki', 'Tanba, Tetsurou', 'Satou, Hitomi', 'Yasuda, Ken']
+animeStaff	[['Suzuki, Toshio', 'Producer'], ['Morita, Hiroyuki', 'Director, Storyboard'], ['Yoshida, Reiko', 'Script'], ['Miyazaki, Hayao', 'Executive Producer']]

@@ -1,5 +1,5 @@
-animeTitle	b'Hello Kitty no Yume Dorobou'
-animeType	b'OVA'
+animeTitle	Hello Kitty no Yume Dorobou
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""A mysterious black creature is stealing dreams and causing Mimmy and Kitty to be sleep deprived. It's up to Kitty to catch the thief."""
+animePopularity	14102
+animeDescription	A mysterious black creature is stealing dreams and causing Mimmy and Kitty to be sleep deprived. It's up to Kitty to catch the thief.
 animeRelated	[]
-animeCharacters	[b'White, Kitty', b'White, Mimmy']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nTominaga, Miina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHata, Masami\n\nDirector\n\n', b'\nHoshiyama, Hiroyuki\n\nScript, Original Creator\n\n', b'\nNagashima, Youko\n\nArt Director\n\n', b'\nIsaka, Junko\n\nAnimation Director\n\n']
+animeCharacters	['White, Kitty', 'White, Mimmy']
+animeVoices	['Hayashibara, Megumi', 'Tominaga, Miina']
+animeStaff	[['Hata, Masami', 'Director'], ['Hoshiyama, Hiroyuki', 'Script, Original Creator'], ['Nagashima, Youko', 'Art Director'], ['Isaka, Junko', 'Animation Director']]

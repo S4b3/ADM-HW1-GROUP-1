@@ -1,5 +1,5 @@
-animeTitle	b'Chiruran: Nibun no Ichi'
-animeType	b'TV'
+animeTitle	Chiruran: Nibun no Ichi
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.65
 animeUsers	2816
 animeRank	
-animePopularity	
-animeDescription	"b""Strong, intense, and cute! The most laid-back Shinsengumi in history arrives!! An official spinoff series by Hashimoto Eiji (manga) and Umemura Shinya (story) of Chiruran Shinsengumi Requiem. Here's the laid-back everyday life of the Shinsengumi warriors.\n\n(Source: Crunchyroll)"""
-animeRelated	[b'Chiruran: Shinsengumi Requiem', b'Chiruran: Nibun no Ichi Special']
-animeCharacters	[b'Okita, Souji', b'Saitou, Hajime', b'Harada, Sanosuke', b'Hijikata, Toshizou', b'Kondou, Isami', b'Nagakura, Shinpachi', b'Toudou, Heisuke', b'Narration', b'Serizawa, Kamo', b'Shimada, Kai']
-animeVoices	[b'\nYonaga, Tsubasa\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nAoi, Shouta\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nUmehara, Yuuichirou\nJapanese\n', b'\nFurukawa, Makoto\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nOchiai, Fukushi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMuroi, Fumie\n\nDirector\n\n', b'\nKamisama, Boku wa Kizuite Shimatta\n\nTheme Song Performance\n\n', b'\nHirano, Yoshihisa\n\nMusic\n\n', b'\nMatsumoto, Norio\n\nKey Animation\n\n']
+animePopularity	6098
+animeDescription	"Strong, intense, and cute! The most laid-back Shinsengumi in history arrives!! An official spinoff series by Hashimoto Eiji (manga) and Umemura Shinya (story) of Chiruran Shinsengumi Requiem. Here's the laid-back everyday life of the Shinsengumi warriors.
+
+(Source: Crunchyroll)"
+animeRelated	['Chiruran: Shinsengumi Requiem', 'Chiruran: Nibun no Ichi Special']
+animeCharacters	['Okita, Souji', 'Saitou, Hajime', 'Harada, Sanosuke', 'Hijikata, Toshizou', 'Kondou, Isami', 'Nagakura, Shinpachi', 'Toudou, Heisuke', 'Narration', 'Serizawa, Kamo', 'Shimada, Kai']
+animeVoices	['Yonaga, Tsubasa', 'Kimura, Ryouhei', 'Aoi, Shouta', 'Suzuki, Tatsuhisa', 'Takagi, Wataru', 'Umehara, Yuuichirou', 'Furukawa, Makoto', 'Konishi, Katsuyuki', 'Ochiai, Fukushi']
+animeStaff	[['Muroi, Fumie', 'Director'], ['Kamisama, Boku wa Kizuite Shimatta', 'Theme Song Performance'], ['Hirano, Yoshihisa', 'Music'], ['Matsumoto, Norio', 'Key Animation']]

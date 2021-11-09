@@ -1,5 +1,5 @@
-animeTitle	b'Trinity Seven'
-animeType	b'TV'
+animeTitle	Trinity Seven
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.11
 animeUsers	383807
 animeRank	
-animePopularity	
-animeDescription	"b'One day, the bright red sun stopped shining, causing the ""Breakdown Phenomenon""\xe2\x80\x94the destruction of Arata Kasuga\'s town and the disappearance of the people inhabiting it. All, however, is not yet lost; by utilizing the magical grimoire given to him by his childhood friend and cousin Hijiri Kasuga, Arata\'s world gets artificially reconstructed.\n\nIn order to investigate the phenomenon, Lilith Asami appears before Arata, whose artificial world suddenly disintegrates. He is given two choices: hand over the book, or die. However, Arata chooses the third option\xe2\x80\x94enrolling in the top-secret magic school Royal Biblia Academy, where six other magical users await him. Together with Lilith, these six form the Trinity Seven, the elite of the school who each bolster their own power and skill.\n\nWith the ambition to save Hijiri and the help of his newfound friends, Arata stops at nothing to prevent the destruction of his beloved hometown and to bring his best friend back.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Trinity Seven: 7-nin no Mashotsukai', b'Trinity Seven: Nanatsu no Taizai to Nana Madoushi', b'Trinity Seven Movie 1: Eternity Library to Alchemic Girl']
-animeCharacters	[b'Kasuga, Arata', b'Kazama, Levi', b'Asami, Lilith', b'Sherlock, Lieselotte', b'Kurata, Yui', b'Kannazuki, Arin', b'Yamana, Mira', b'Fudou, Akio', b'Sora', b'Biblia Gakuenchou']
-animeVoices	[b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nHara, Yumi\nJapanese\n', b'\nTouyama, Nao\nJapanese\n', b'\nMurakawa, Rie\nJapanese\n', b'\nUchida, Aya\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishikiori, Hiroshi\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nSaitou, Kenji\n\nScript, Original Creator\n\n', b'\nYasukawa, Shougo\n\nScript\n\n']
+animePopularity	184
+animeDescription	"One day, the bright red sun stopped shining, causing the ""Breakdown Phenomenon""—the destruction of Arata Kasuga's town and the disappearance of the people inhabiting it. All, however, is not yet lost; by utilizing the magical grimoire given to him by his childhood friend and cousin Hijiri Kasuga, Arata's world gets artificially reconstructed.
+
+In order to investigate the phenomenon, Lilith Asami appears before Arata, whose artificial world suddenly disintegrates. He is given two choices: hand over the book, or die. However, Arata chooses the third option—enrolling in the top-secret magic school Royal Biblia Academy, where six other magical users await him. Together with Lilith, these six form the Trinity Seven, the elite of the school who each bolster their own power and skill.
+
+With the ambition to save Hijiri and the help of his newfound friends, Arata stops at nothing to prevent the destruction of his beloved hometown and to bring his best friend back.
+
+[Written by MAL Rewrite]"
+animeRelated	['Trinity Seven: 7-nin no Mashotsukai', 'Trinity Seven: Nanatsu no Taizai to Nana Madoushi', 'Trinity Seven Movie 1: Eternity Library to Alchemic Girl']
+animeCharacters	['Kasuga, Arata', 'Kazama, Levi', 'Asami, Lilith', 'Sherlock, Lieselotte', 'Kurata, Yui', 'Kannazuki, Arin', 'Yamana, Mira', 'Fudou, Akio', 'Sora', 'Biblia Gakuenchou']
+animeVoices	['Matsuoka, Yoshitsugu', 'Sakura, Ayane', 'Hara, Yumi', 'Touyama, Nao', 'Murakawa, Rie', 'Uchida, Aya', 'Hikasa, Youko', 'Yuzuki, Ryouka', 'Kugimiya, Rie', 'Miki, Shinichiro']
+animeStaff	[['Nishikiori, Hiroshi', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Saitou, Kenji', 'Script, Original Creator'], ['Yasukawa, Shougo', 'Script']]

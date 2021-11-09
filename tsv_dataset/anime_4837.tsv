@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Victory Gundam'
-animeType	b'TV'
+animeTitle	Mobile Suit Victory Gundam
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	6.75
 animeUsers	8383
 animeRank	
-animePopularity	
-animeDescription	"b""In the year 153 of the Universal Century, the tyrannical Zanscare Empire has taken hostile control over Side 2, a space colony outside of Earth's orbit. Following in the footsteps of the long expired Principality of Zeon and the more recent Crossbone Vanguard, Zanscare rules over its subjects with cruelty, routinely using a large guillotine for public executions.\n\nLiving in Central Europe, space immigrant \xc3\x9cso Ewin joins the League Militaire, a militia made up of civilians frustrated with the Earth Federation's inability to combat the Zanscare Empire. \xc3\x9cso's latent abilities as a psychic Newtype awaken and allow him to pilot the Victory Gundam, the only mobile suit capable of holding off the elite BESPA forces of the Zanscare Empire.\n\nHoping to protect his best friend Shakti Kareen and locate his parents within the ranks of the Federation, \xc3\x9cso fights on with the Victory, striving to bring an end to the empire's reign.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Mobile Suit Victory Gundam', b'Mobile Suit Gundam F91', b'Turn A Gundam', b'Gundam: G no Reconguista', b'Mobile Suit Gundam: Hikaru Inochi Chronicle U.C.']
-animeCharacters	[b'Ewin, \xc3\x9cso', b'Loos, Katejina', b'Kareen, Shakti', b'Asher, Chronicle', b'Haro', b'Cineau, Lupe', b'Gomez, Roberto', b'Fingerhat, Marvet', b'Merril, Mahalia', b'Henrik, Odelo']
-animeVoices	[b'\nSakaguchi, Daisuke\nJapanese\n', b'\nWatanabe, Kumiko\nJapanese\n', b'\nKuroda, Yumi\nJapanese\n', b'\nDan, Tomoyuki\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nItou, Miki\nJapanese\n', b'\nKatou, Osamu\nJapanese\n', b'\nShiraishi, Ayako\nJapanese\n', b'\nMaruta, Mari\nJapanese\n', b'\nNakata, Masayuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Hajime\n\nProducer, Original Creator\n\n', b'\nUeda, Masuo\n\nProducer\n\n', b'\nTomino, Yoshiyuki\n\nDirector, Original Creator\n\n', b'\nSekita, Osamu\n\nDirector\n\n']
+animePopularity	3766
+animeDescription	"In the year 153 of the Universal Century, the tyrannical Zanscare Empire has taken hostile control over Side 2, a space colony outside of Earth's orbit. Following in the footsteps of the long expired Principality of Zeon and the more recent Crossbone Vanguard, Zanscare rules over its subjects with cruelty, routinely using a large guillotine for public executions.
+
+Living in Central Europe, space immigrant Üso Ewin joins the League Militaire, a militia made up of civilians frustrated with the Earth Federation's inability to combat the Zanscare Empire. Üso's latent abilities as a psychic Newtype awaken and allow him to pilot the Victory Gundam, the only mobile suit capable of holding off the elite BESPA forces of the Zanscare Empire.
+
+Hoping to protect his best friend Shakti Kareen and locate his parents within the ranks of the Federation, Üso fights on with the Victory, striving to bring an end to the empire's reign.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Mobile Suit Victory Gundam', 'Mobile Suit Gundam F91', 'Turn A Gundam', 'Gundam: G no Reconguista', 'Mobile Suit Gundam: Hikaru Inochi Chronicle U.C.']
+animeCharacters	['Ewin, Üso', 'Loos, Katejina', 'Kareen, Shakti', 'Asher, Chronicle', 'Haro', 'Cineau, Lupe', 'Gomez, Roberto', 'Fingerhat, Marvet', 'Merril, Mahalia', 'Henrik, Odelo']
+animeVoices	['Sakaguchi, Daisuke', 'Watanabe, Kumiko', 'Kuroda, Yumi', 'Dan, Tomoyuki', 'Matsumoto, Rica', 'Itou, Miki', 'Katou, Osamu', 'Shiraishi, Ayako', 'Maruta, Mari', 'Nakata, Masayuki']
+animeStaff	[['Yatate, Hajime', 'Producer, Original Creator'], ['Ueda, Masuo', 'Producer'], ['Tomino, Yoshiyuki', 'Director, Original Creator'], ['Sekita, Osamu', 'Director']]

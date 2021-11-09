@@ -1,5 +1,5 @@
-animeTitle	"b""Ningen Shikkaku: Director's Cut-ban"""
-animeType	b'Movie'
+animeTitle	Ningen Shikkaku: Director's Cut-ban
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.5
 animeUsers	1736
 animeRank	
-animePopularity	
-animeDescription	"b'A theatrical film version of Madhouse\'s Aoi Bungaku Series anime. The film will re-edit the four episodes based on Osamu Dazai\'s No Longer Human (Ningen Shikkaku) novel, which have character designs inspired by manga artist and novel illustrator Takeshi Obata. This ""director\'s cut"" will include new ""navigation"" footage which is being created specifically for the film with narrator Masato Sakai.'"
-animeRelated	[b'Aoi Bungaku Series', b'Human Lost: Ningen Shikkaku']
-animeCharacters	[b'Ooba, Youzou']
+animePopularity	5459
+animeDescription	"A theatrical film version of Madhouse's Aoi Bungaku Series anime. The film will re-edit the four episodes based on Osamu Dazai's No Longer Human (Ningen Shikkaku) novel, which have character designs inspired by manga artist and novel illustrator Takeshi Obata. This ""director's cut"" will include new ""navigation"" footage which is being created specifically for the film with narrator Masato Sakai."
+animeRelated	['Aoi Bungaku Series', 'Human Lost: Ningen Shikkaku']
+animeCharacters	['Ooba, Youzou']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nObata, Takeshi\n\nOriginal Character Design\n\n', b'\nDazai, Osamu\n\nOriginal Creator\n\n', b'\nShino, Masanori\n\nCharacter Design\n\n']
+animeStaff	[['Obata, Takeshi', 'Original Character Design'], ['Dazai, Osamu', 'Original Creator'], ['Shino, Masanori', 'Character Design']]

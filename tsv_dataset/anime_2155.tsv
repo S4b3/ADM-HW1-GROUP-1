@@ -1,5 +1,5 @@
-animeTitle	b'Yokoyama Mitsuteru Sangokushi'
-animeType	b'TV'
+animeTitle	Yokoyama Mitsuteru Sangokushi
+animeType	TV
 animeNumEpisode	47
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.36
 animeUsers	1805
 animeRank	
-animePopularity	
-animeDescription	b'Around 1800 years ago in China, the ruling power of the Han dynasty became weakened and the flames of war spread throughout the land. \n\nLiu Bei was a young, poor straw-mat seller from the countryside of Hebai Hsing. After pledging eternal brotherhood with the two heroes, Guan Yu and Zhang Fei, Liu began building his idea of a righteous kingdom that would aid citizens who suffered from persecution. \n\n(Source: AniDB)'
-animeRelated	[b'Sangokushi']
-animeCharacters	[b'Zhuge, Liang', b'Cao, Cao', b'Guan, Yu', b'Zhang, Fei', b'Liu, Bei', b'Dong, Zhuo', b'Narrator', b'Diao, Chan']
-animeVoices	[b'\nMasanori, Ishii\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nTsuji, Shinpachi\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nNakamura, Daiki\nJapanese\n', b'\nOotomo, Ryuuzaburou\nJapanese\n', b'\nOobayashi, Ryuusuke\nJapanese\n', b'\nOrikasa, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYano, Hiroyuki\n\nProducer\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n', b'\nToriumi, Jinzou\n\nScript\n\n', b'\nOkuda, Seiji\n\nStoryboard, Chief Animation Director\n\n']
+animePopularity	6834
+animeDescription	"Around 1800 years ago in China, the ruling power of the Han dynasty became weakened and the flames of war spread throughout the land. 
+
+Liu Bei was a young, poor straw-mat seller from the countryside of Hebai Hsing. After pledging eternal brotherhood with the two heroes, Guan Yu and Zhang Fei, Liu began building his idea of a righteous kingdom that would aid citizens who suffered from persecution. 
+
+(Source: AniDB)"
+animeRelated	['Sangokushi']
+animeCharacters	['Zhuge, Liang', 'Cao, Cao', 'Guan, Yu', 'Zhang, Fei', 'Liu, Bei', 'Dong, Zhuo', 'Narrator', 'Diao, Chan']
+animeVoices	['Masanori, Ishii', 'Matsumoto, Yasunori', 'Tsuji, Shinpachi', 'Fujiwara, Keiji', 'Nakamura, Daiki', 'Ootomo, Ryuuzaburou', 'Oobayashi, Ryuusuke', 'Orikasa, Ai']
+animeStaff	[['Yano, Hiroyuki', 'Producer'], ['Honda, Yasunori', 'Sound Director'], ['Toriumi, Jinzou', 'Script'], ['Okuda, Seiji', 'Storyboard, Chief Animation Director']]

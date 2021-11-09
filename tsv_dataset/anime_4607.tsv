@@ -1,5 +1,5 @@
-animeTitle	b'Anne no Nikki'
-animeType	b'Movie'
+animeTitle	Anne no Nikki
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.8
 animeUsers	2068
 animeRank	
-animePopularity	
-animeDescription	"b'Amsterdam, June 12, 1942. Anne celebrates her 13th birthday and begins her diary, which she calls ""Kitty"". Hiding for two years from the German threat, the young girl writes about her idealistic views on the world, her ambitions, her fears and her first love, Peter.'"
-animeRelated	[b'Anne no Nikki: Anne Frank Monogatari']
-animeCharacters	[b'Frank, Anne', b'Frank, Otto', b'Frank, Margot']
-animeVoices	[b'\nTakahashi, Reina\nJapanese\n', b'\nKatou, Gou\nJapanese\n', b'\nTano, Seiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinohara, Toshiya\n\nCo-Director\n\n', b'\nNagaoka, Akinori\n\nDirector\n\n', b'\nNakanishi, Ryuuzou\n\nScript\n\n', b'\nAsaka, Morio\n\nStoryboard\n\n']
+animePopularity	6160
+animeDescription	"Amsterdam, June 12, 1942. Anne celebrates her 13th birthday and begins her diary, which she calls ""Kitty"". Hiding for two years from the German threat, the young girl writes about her idealistic views on the world, her ambitions, her fears and her first love, Peter."
+animeRelated	['Anne no Nikki: Anne Frank Monogatari']
+animeCharacters	['Frank, Anne', 'Frank, Otto', 'Frank, Margot']
+animeVoices	['Takahashi, Reina', 'Katou, Gou', 'Tano, Seiko']
+animeStaff	[['Shinohara, Toshiya', 'Co-Director'], ['Nagaoka, Akinori', 'Director'], ['Nakanishi, Ryuuzou', 'Script'], ['Asaka, Morio', 'Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Monchhichiisu'
-animeType	b'TV'
+animeTitle	Monchhichiisu
+animeType	TV
 animeNumEpisode	20
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""The CG anime series is based on Sekiguchi Corporation's line of stuffed toy monkeys. Ashi Productions previously produced the Monchichi, the Twins television anime series that aired in 1980. An American-produced animated series titled Monchhichis also aired in the 1980s.\n\n(Source: ANN)"""
-animeRelated	[b'Futago no Monchhichi']
+animePopularity	16552
+animeDescription	"The CG anime series is based on Sekiguchi Corporation's line of stuffed toy monkeys. Ashi Productions previously produced the Monchichi, the Twins television anime series that aired in 1980. An American-produced animated series titled Monchhichis also aired in the 1980s.
+
+(Source: ANN)"
+animeRelated	['Futago no Monchhichi']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

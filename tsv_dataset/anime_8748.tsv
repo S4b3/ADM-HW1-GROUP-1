@@ -1,5 +1,5 @@
-animeTitle	b'Samurai Gun'
-animeType	b'TV'
+animeTitle	Samurai Gun
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.98
 animeUsers	2395
 animeRank	
-animePopularity	
-animeDescription	b'It is the beginning of the industrial revolution, and feudal Japan is in turmoil. The ruling Shogun are wielding their abusive powers to instill fear and dominance over their oppressed subjects. Beatings, imprisonment, rape and even murder are the adopted tactics chosen to maintain their reign. The bloodshed must end. A group of Samurai have banded together, and, with the development of new weapons and new technology, they have both the will and the hardware to stand up and fight. Ichimatsu is one of these fighters. By day, he works incognito at a local tavern, in the evenings he frequents the brothels, and by the dark of night, he doles out some big-time, gun-barrel justice. He is here to help. He is Samurai Gun. \n\n(Source: ANN)'
-animeRelated	[b'Samurai Gun', b'Samurai Gun Special']
-animeCharacters	[b'Kurenai', b'Ichimatsu', b'Ohana', b'Daimon', b'Watou, Mitsumune', b'Sutekichi', b'Gouta', b'Matsuzaki, Shunkai']
-animeVoices	[b'\nHikami, Kyouko\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nChihara, Minori\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nTakahashi, Hiroki\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nSonoda, Hideki\n\nScript, Series Composition\n\n', b'\nEgami, Kiyoshi\n\nStoryboard\n\n', b'\nChihara, Minori\n\nTheme Song Performance\n\n']
+animePopularity	5703
+animeDescription	"It is the beginning of the industrial revolution, and feudal Japan is in turmoil. The ruling Shogun are wielding their abusive powers to instill fear and dominance over their oppressed subjects. Beatings, imprisonment, rape and even murder are the adopted tactics chosen to maintain their reign. The bloodshed must end. A group of Samurai have banded together, and, with the development of new weapons and new technology, they have both the will and the hardware to stand up and fight. Ichimatsu is one of these fighters. By day, he works incognito at a local tavern, in the evenings he frequents the brothels, and by the dark of night, he doles out some big-time, gun-barrel justice. He is here to help. He is Samurai Gun. 
+
+(Source: ANN)"
+animeRelated	['Samurai Gun', 'Samurai Gun Special']
+animeCharacters	['Kurenai', 'Ichimatsu', 'Ohana', 'Daimon', 'Watou, Mitsumune', 'Sutekichi', 'Gouta', 'Matsuzaki, Shunkai']
+animeVoices	['Hikami, Kyouko', 'Morikubo, Shoutarou', 'Chihara, Minori', 'Konishi, Katsuyuki', 'Sugita, Tomokazu', 'Takahashi, Hiroki', 'Koyasu, Takehito', 'Nakai, Kazuya']
+animeStaff	[['Kobayashi, Katsuyoshi', 'Sound Director'], ['Sonoda, Hideki', 'Script, Series Composition'], ['Egami, Kiyoshi', 'Storyboard'], ['Chihara, Minori', 'Theme Song Performance']]

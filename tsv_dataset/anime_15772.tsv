@@ -1,5 +1,5 @@
-animeTitle	b'Ginga Tetsudou 999: Niji no Michishirube'
-animeType	b'Movie'
+animeTitle	Ginga Tetsudou 999: Niji no Michishirube
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Short movie screened at the 2001 Kitakyushu Expo-Festival held in Kitakyushu City, Fukuoka Prefecture, Japan.'
-animeRelated	[b'Ginga Tetsudou 999']
-animeCharacters	[b'Maetel', b'Hoshino, Tetsurou', b'The Conductor', b'Mirai', b'Narrator']
-animeVoices	[b'\nIkeda, Masako\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nHorie, Mitsuko\nJapanese\n', b'\nTakagi, Hitoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Yoshihiro\n\nDirector\n\n', b'\nHorie, Mitsuko\n\nTheme Song Performance\n\n', b'\nMatsumoto, Leiji\n\nOriginal Creator\n\n', b'\nAoki, Nozomi\n\nMusic\n\n']
+animePopularity	12253
+animeDescription	Short movie screened at the 2001 Kitakyushu Expo-Festival held in Kitakyushu City, Fukuoka Prefecture, Japan.
+animeRelated	['Ginga Tetsudou 999']
+animeCharacters	['Maetel', 'Hoshino, Tetsurou', 'The Conductor', 'Mirai', 'Narrator']
+animeVoices	['Ikeda, Masako', 'Nozawa, Masako', 'Kimotsuki, Kaneta', 'Horie, Mitsuko', 'Takagi, Hitoshi']
+animeStaff	[['Ueda, Yoshihiro', 'Director'], ['Horie, Mitsuko', 'Theme Song Performance'], ['Matsumoto, Leiji', 'Original Creator'], ['Aoki, Nozomi', 'Music']]

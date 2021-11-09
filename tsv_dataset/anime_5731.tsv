@@ -1,5 +1,5 @@
-animeTitle	b'Yoroiden Samurai Troopers Gaiden'
-animeType	b'OVA'
+animeTitle	Yoroiden Samurai Troopers Gaiden
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.58
 animeUsers	1026
 animeRank	
-animePopularity	
-animeDescription	"b""Although Talpa has been defeated, the Warriors don't get much of a break. As they celebrate Ryo's birthday party, the news tells them of a strange killer in samurai armor wreaking havoc in New York. And the armor looks very familiar. Now, they will have to battle the ancient sorcerer Shikaisen for Sage's life!\n\n(Source: AniDB)"""
-animeRelated	[b'Yoroiden Samurai Troopers', b'Yoroiden Samurai Troopers Kikoutei Densetsu']
-animeCharacters	[b'Hashiba, Touma', b'Date, Seiji', b'Sanada, Ryo', b'Rei Fuan, Shu', b'Mouri, Shin', b'Yagyu, Nasuti']
-animeVoices	[b'\nTakemura, Hiroshi\nJapanese\n', b'\nNakamura, Daiki\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nKusakabe, Kaori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHamatsu, Mamoru\n\nDirector, Storyboard\n\n', b'\nMoriguchi, Hiroko\n\nTheme Song Performance\n\n', b'\nKarashima, Midori\n\nTheme Song Lyrics, Theme Song Composition\n\n', b'\nMurase, Shukou\n\nCharacter Design\n\n']
+animePopularity	8741
+animeDescription	"Although Talpa has been defeated, the Warriors don't get much of a break. As they celebrate Ryo's birthday party, the news tells them of a strange killer in samurai armor wreaking havoc in New York. And the armor looks very familiar. Now, they will have to battle the ancient sorcerer Shikaisen for Sage's life!
+
+(Source: AniDB)"
+animeRelated	['Yoroiden Samurai Troopers', 'Yoroiden Samurai Troopers Kikoutei Densetsu']
+animeCharacters	['Hashiba, Touma', 'Date, Seiji', 'Sanada, Ryo', 'Rei Fuan, Shu', 'Mouri, Shin', 'Yagyu, Nasuti']
+animeVoices	['Takemura, Hiroshi', 'Nakamura, Daiki', 'Kusao, Takeshi', 'Kusakabe, Kaori']
+animeStaff	[['Hamatsu, Mamoru', 'Director, Storyboard'], ['Moriguchi, Hiroko', 'Theme Song Performance'], ['Karashima, Midori', 'Theme Song Lyrics, Theme Song Composition'], ['Murase, Shukou', 'Character Design']]

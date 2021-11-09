@@ -1,5 +1,5 @@
-animeTitle	b'Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun'
-animeType	b'ONA'
+animeTitle	Dixia Cheng Yu Yongshi: Nizhuan Zhi Lun
+animeType	ONA
 animeNumEpisode	16
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Sequel to Arad: Suming Zhi Men.\n\nThe Japanese broadcast premiered on July 4, 2020 at 1:53 a.m. on TV Tokyo.'
-animeRelated	[b'Arad: Suming Zhi Men']
-animeCharacters	[b'Yi, Lucas', b'Xilan', b'Milia', b'Iris', b'Meimei', b'Mo, Xiaofang', b'Wang, Tiancai', b'Daba']
-animeVoices	[b'\nUchiyama, Kouki\nJapanese\n', b'\nKondou, Takayuki\nJapanese\n', b'\nHanamori, Yumiri\nJapanese\n', b'\nIshikawa, Yui\nJapanese\n', b'\nTakahashi, Rie\nJapanese\n', b'\nUchida, Shuu\nJapanese\n', b'\nOno, Yuuki\nJapanese\n', b'\nSuzuki, Ryouta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAbe, Noriyuki\n\nDirector\n\n', b'\nTakada, Masatoyo\n\nEpisode Director\n\n', b'\nSekijima, Mayori\n\nScript, Series Composition\n\n', b'\nAkashiro, Aoi\n\nScript\n\n']
+animePopularity	10830
+animeDescription	"Sequel to Arad: Suming Zhi Men.
+
+The Japanese broadcast premiered on July 4, 2020 at 1:53 a.m. on TV Tokyo."
+animeRelated	['Arad: Suming Zhi Men']
+animeCharacters	['Yi, Lucas', 'Xilan', 'Milia', 'Iris', 'Meimei', 'Mo, Xiaofang', 'Wang, Tiancai', 'Daba']
+animeVoices	['Uchiyama, Kouki', 'Kondou, Takayuki', 'Hanamori, Yumiri', 'Ishikawa, Yui', 'Takahashi, Rie', 'Uchida, Shuu', 'Ono, Yuuki', 'Suzuki, Ryouta']
+animeStaff	[['Abe, Noriyuki', 'Director'], ['Takada, Masatoyo', 'Episode Director'], ['Sekijima, Mayori', 'Script, Series Composition'], ['Akashiro, Aoi', 'Script']]

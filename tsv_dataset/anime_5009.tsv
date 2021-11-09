@@ -1,5 +1,5 @@
-animeTitle	b'Maji de Watashi ni Koi Shinasai!'
-animeType	b'TV'
+animeTitle	Maji de Watashi ni Koi Shinasai!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.72
 animeUsers	109637
 animeRank	
-animePopularity	
-animeDescription	"b'The samurai are a very important part of Japan\'s history, and to be related to them in any way is probably one of the most inspiring things that a young high school student could hope for.\n\nKawakami City is well-known for having many samurai ancestors among its citizens, and is generally surrounded by an atmosphere of fighting spirit, loyalty, and dedication to work. In Maji de Watashi ni Koi Shinasai!, the students of Kawakami Academy use this knowledge on a daily basis, whether they are studying for exams, competing in sports competitions, or making sure that they take very good care of their traditions. Yamato Naoe is one such student, and his six closest friends (three boys and three girls) make up the perfect team for friendship, rivalry, and motivation. However, even samurai have weaknesses.\n\nAlthough the balance and long friendship of their group has been undisturbed for a long time, when two new girls enter the group, things start to get a lot more interesting. Not only must they maintain what they think is the samurai tradition, but they must now also do it with a lot of ""distractions.""'"
-animeRelated	[b'Maji de Watashi ni Koi Shinasai!', b'Kimi ga Aruji de Shitsuji ga Ore de']
-animeCharacters	[b'Kawakami, Momoyo', b'Shiina, Miyako', b'Naoe, Yamato', b'Kawakami, Kazuko', b'Mayuzumi, Yukie', b'Friedrich, Christiane', b'Matsunaga, Tsubame', b'Eberbach, Margit', b'Fushikawa, Kokoro', b'Kuki, Ageha']
-animeVoices	[b'\nAsakawa, Yuu\nJapanese\n', b'\nHyo-sei\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nTomonaga, Akane\nJapanese\n', b'\nGotou, Yuuko\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nNagatsuma, Juri\nJapanese\n', b'\nMizusawa, Kei\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMotonaga, Keitarou\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nKobayashi, Kouji\n\nEpisode Director\n\n', b'\nSokuza, Makoto\n\nEpisode Director, Storyboard\n\n']
+animePopularity	685
+animeDescription	"The samurai are a very important part of Japan's history, and to be related to them in any way is probably one of the most inspiring things that a young high school student could hope for.
+
+Kawakami City is well-known for having many samurai ancestors among its citizens, and is generally surrounded by an atmosphere of fighting spirit, loyalty, and dedication to work. In Maji de Watashi ni Koi Shinasai!, the students of Kawakami Academy use this knowledge on a daily basis, whether they are studying for exams, competing in sports competitions, or making sure that they take very good care of their traditions. Yamato Naoe is one such student, and his six closest friends (three boys and three girls) make up the perfect team for friendship, rivalry, and motivation. However, even samurai have weaknesses.
+
+Although the balance and long friendship of their group has been undisturbed for a long time, when two new girls enter the group, things start to get a lot more interesting. Not only must they maintain what they think is the samurai tradition, but they must now also do it with a lot of ""distractions."""
+animeRelated	['Maji de Watashi ni Koi Shinasai!', 'Kimi ga Aruji de Shitsuji ga Ore de']
+animeCharacters	['Kawakami, Momoyo', 'Shiina, Miyako', 'Naoe, Yamato', 'Kawakami, Kazuko', 'Mayuzumi, Yukie', 'Friedrich, Christiane', 'Matsunaga, Tsubame', 'Eberbach, Margit', 'Fushikawa, Kokoro', 'Kuki, Ageha']
+animeVoices	['Asakawa, Yuu', 'Hyo-sei', 'Kamiya, Hiroshi', 'Tomonaga, Akane', 'Gotou, Yuuko', 'Itou, Shizuka', 'Nagatsuma, Juri', 'Mizusawa, Kei', 'Mizuhashi, Kaori', 'Matsui, Naoko']
+animeStaff	[['Motonaga, Keitarou', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Kobayashi, Kouji', 'Episode Director'], ['Sokuza, Makoto', 'Episode Director, Storyboard']]

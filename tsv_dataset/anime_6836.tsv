@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun'
-animeType	b'Movie'
+animeTitle	Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.37
 animeUsers	567
 animeRank	
-animePopularity	
-animeDescription	"b""The third Dragon Quest Dai no Daibouken movie. The story takes place between episode 35 and 36 of the TV series.\n\nAfter yet again defeating some of Hadlar's (the leader of the Great Demon King's Army) warriors and saving the princess, Dai and his fellow adventurers are relaxing and helping with rebuilding the island village. Unbeknownst to them Hadlar was usurped by a new demon lord called Galbus, who immediately sets forth to once and for all destroy Dai, using his own sextet of champions. During the initial surprise attack Dai's friend Maam's soul is taken and in order to get it back Dai and his friends must attack Galbus on his chosen batlleground. Will Dai survive this?\n\n(Source: Macros74)"""
-animeRelated	[b'Dragon Quest: Dai no Daibouken (TV)', b'Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito']
-animeCharacters	[b'Popp', b'Dai', b'Maam', b'Leona', b'Hyunckel', b'Crocodine', b'Hadlar', b'Gome', b'Matoriv']
-animeVoices	[b'\nNanba, Keiichi\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n', b'\nTominaga, Miina\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nHori, Hideyuki\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nAomori, Shin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishizawa, Nobutaka\n\nDirector\n\n', b'\nSugiyama, Koichi\n\nMusic\n\n']
+animePopularity	9516
+animeDescription	"The third Dragon Quest Dai no Daibouken movie. The story takes place between episode 35 and 36 of the TV series.
+
+After yet again defeating some of Hadlar's (the leader of the Great Demon King's Army) warriors and saving the princess, Dai and his fellow adventurers are relaxing and helping with rebuilding the island village. Unbeknownst to them Hadlar was usurped by a new demon lord called Galbus, who immediately sets forth to once and for all destroy Dai, using his own sextet of champions. During the initial surprise attack Dai's friend Maam's soul is taken and in order to get it back Dai and his friends must attack Galbus on his chosen batlleground. Will Dai survive this?
+
+(Source: Macros74)"
+animeRelated	['Dragon Quest: Dai no Daibouken (TV)', 'Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito']
+animeCharacters	['Popp', 'Dai', 'Maam', 'Leona', 'Hyunckel', 'Crocodine', 'Hadlar', 'Gome', 'Matoriv']
+animeVoices	['Nanba, Keiichi', 'Fujita, Toshiko', 'Tominaga, Miina', 'Hisakawa, Aya', 'Hori, Hideyuki', 'Ginga, Banjou', 'Aono, Takeshi', 'Touma, Yumi', 'Aomori, Shin']
+animeStaff	[['Nishizawa, Nobutaka', 'Director'], ['Sugiyama, Koichi', 'Music']]

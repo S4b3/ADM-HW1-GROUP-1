@@ -1,5 +1,5 @@
-animeTitle	b'Kimi no Iru Machi OVA'
-animeType	b'OVA'
+animeTitle	Kimi no Iru Machi OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.06
 animeUsers	8146
 animeRank	
-animePopularity	
-animeDescription	"b'The limited-edition of the 26th manga volume will include an anime adaptation of the popular special flashback chapter ""Uchi ga Kita Machi"" (The Town Where I Arrived). The story reveals how Haruto, Akari, and Takashi first met during childhood, and serves as a prologue to the TV anime.\n\nThe 27th limited-edition manga volume will include a special anime episode produced in full cooperation with Seo Kouji. This OVA will be the animation of the end of the manga. (Volume 27 is the final volume of the long-running series.)'"
-animeRelated	[b'Kimi no Iru Machi']
-animeCharacters	[b'Eba, Yuzuki', b'Kirishima, Haruto', b'Eba, Rin', b'Kaga, Akari', b'Yura, Takashi', b'Akitsuki, Fuuka', b'Asahina, Suzuka', b'Kanzaki, Nanami', b'Kitajima', b'Kirishima, Ms']
-animeVoices	[b'\nNakajima, Megumi\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nFujita, Saki\nJapanese\n', b'\nKouno, Nana\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nShimizu, Ayaka\nJapanese\n', b'\nTakao, Yuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamauchi, Shigeyasu\n\nDirector\n\n', b'\nNakajima, Megumi\n\nTheme Song Performance\n\n', b'\nMimimemeMIMI\n\nTheme Song Performance\n\n', b'\nSeo, Kouji\n\nOriginal Creator\n\n']
+animePopularity	4239
+animeDescription	"The limited-edition of the 26th manga volume will include an anime adaptation of the popular special flashback chapter ""Uchi ga Kita Machi"" (The Town Where I Arrived). The story reveals how Haruto, Akari, and Takashi first met during childhood, and serves as a prologue to the TV anime.
+
+The 27th limited-edition manga volume will include a special anime episode produced in full cooperation with Seo Kouji. This OVA will be the animation of the end of the manga. (Volume 27 is the final volume of the long-running series.)"
+animeRelated	['Kimi no Iru Machi']
+animeCharacters	['Eba, Yuzuki', 'Kirishima, Haruto', 'Eba, Rin', 'Kaga, Akari', 'Yura, Takashi', 'Akitsuki, Fuuka', 'Asahina, Suzuka', 'Kanzaki, Nanami', 'Kitajima', 'Kirishima, Ms']
+animeVoices	['Nakajima, Megumi', 'Hosoya, Yoshimasa', 'Fujita, Saki', 'Kouno, Nana', 'Yahagi, Sayuri', 'Shimizu, Ayaka', 'Takao, Yuki']
+animeStaff	[['Yamauchi, Shigeyasu', 'Director'], ['Nakajima, Megumi', 'Theme Song Performance'], ['MimimemeMIMI', 'Theme Song Performance'], ['Seo, Kouji', 'Original Creator']]

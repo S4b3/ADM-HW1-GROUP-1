@@ -1,5 +1,5 @@
-animeTitle	b'Kimetsu no Yaiba Movie: Mugen Ressha-hen'
-animeType	b'Movie'
+animeTitle	Kimetsu no Yaiba Movie: Mugen Ressha-hen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.71
 animeUsers	504037
 animeRank	
-animePopularity	
-animeDescription	"b""After a string of mysterious disappearances begin to plague a train, the Demon Slayer Corps' multiple attempts to remedy the problem prove fruitless. To prevent further casualties, the flame pillar, Kyoujurou Rengoku, takes it upon himself to eliminate the threat. Accompanying him are some of the Corps' most promising new blood: Tanjirou Kamado, Zenitsu Agatsuma, and Inosuke Hashibira, who all hope to witness the fiery feats of this model demon slayer firsthand.\n\nUnbeknownst to them, the demonic forces responsible for the disappearances have already put their sinister plan in motion. Under this demonic presence, the group must muster every ounce of their willpower and draw their swords to save all two hundred passengers onboard. Kimetsu no Yaiba Movie: Mugen Ressha-hen delves into the deepest corners of Tanjirou's mind, putting his resolve and commitment to duty to the test.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kimetsu no Yaiba', b'Kimetsu no Yaiba: Yuukaku-hen', b'Kimetsu no Yaiba: Mugen Ressha-hen']
-animeCharacters	[b'Kamado, Tanjirou', b'Agatsuma, Zenitsu', b'Kamado, Nezuko', b'Hashibira, Inosuke', b'Rengoku, Kyoujurou', b'Kochou, Shinobu', b'Tomioka, Giyuu', b'Kanroji, Mitsuri', b'Tokitou, Muichirou', b'Akaza']
-animeVoices	[b'\nHanae, Natsuki\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nKitou, Akari\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nIshida, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSotozaki, Haruo\n\nDirector\n\n', b'\nZeiger, Christian\n\nScript, ADR Director\n\n', b'\nLiSA\n\nTheme Song Lyrics, Theme Song Performance\n\n', b'\nKajiura, Yuki\n\nTheme Song Lyrics, Theme Song Arrangement, Theme Song Composition, Music\n\n']
+animePopularity	126
+animeDescription	"After a string of mysterious disappearances begin to plague a train, the Demon Slayer Corps' multiple attempts to remedy the problem prove fruitless. To prevent further casualties, the flame pillar, Kyoujurou Rengoku, takes it upon himself to eliminate the threat. Accompanying him are some of the Corps' most promising new blood: Tanjirou Kamado, Zenitsu Agatsuma, and Inosuke Hashibira, who all hope to witness the fiery feats of this model demon slayer firsthand.
+
+Unbeknownst to them, the demonic forces responsible for the disappearances have already put their sinister plan in motion. Under this demonic presence, the group must muster every ounce of their willpower and draw their swords to save all two hundred passengers onboard. Kimetsu no Yaiba Movie: Mugen Ressha-hen delves into the deepest corners of Tanjirou's mind, putting his resolve and commitment to duty to the test.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kimetsu no Yaiba', 'Kimetsu no Yaiba: Yuukaku-hen', 'Kimetsu no Yaiba: Mugen Ressha-hen']
+animeCharacters	['Kamado, Tanjirou', 'Agatsuma, Zenitsu', 'Kamado, Nezuko', 'Hashibira, Inosuke', 'Rengoku, Kyoujurou', 'Kochou, Shinobu', 'Tomioka, Giyuu', 'Kanroji, Mitsuri', 'Tokitou, Muichirou', 'Akaza']
+animeVoices	['Hanae, Natsuki', 'Shimono, Hiro', 'Kitou, Akari', 'Matsuoka, Yoshitsugu', 'Hino, Satoshi', 'Hayami, Saori', 'Sakurai, Takahiro', 'Ishida, Akira']
+animeStaff	[['Sotozaki, Haruo', 'Director'], ['Zeiger, Christian', 'Script, ADR Director'], ['LiSA', 'Theme Song Lyrics, Theme Song Performance'], ['Kajiura, Yuki', 'Theme Song Lyrics, Theme Song Arrangement, Theme Song Composition, Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Wakaokami wa Shougakusei! Movie'
-animeType	b'Movie'
+animeTitle	Wakaokami wa Shougakusei! Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.51
 animeUsers	6116
 animeRank	
-animePopularity	
-animeDescription	"b""After losing her parents in a car accident, Okko goes to live in the countryside with her grandmother, who runs a traditional Japanese inn built on top of an ancient spring said to have healing waters. While she goes about her chores and prepares to become the inn's next caretaker, Okko discovers there are ghosts who live there that only she can see \xe2\x80\x93 not scary ghosts, but playful child ghosts who keep her company and help her feel less lonely. A sign outside says the spring welcomes all and will reject none, and this is soon put to the test as a string of new guests challenge Okko's ability to be a gracious host. But ultimately Okko discovers that dedicating herself to the happiness of others becomes the key to taking care of herself.\n\n(Source: Animation is Film Festival)"""
-animeRelated	[b'Wakaokami wa Shougakusei!']
-animeCharacters	[b'Seki, Oriko', b'Tateuri, Makoto', b'Akino, Miyo', b'Suzuki', b'Akino, Matsuki', b'Suiryou, Seiko', b'Seki, Mineko', b'Kise, Bunta', b'Kise, Torako', b'Kise, Shouta']
-animeVoices	[b'\nKobayashi, Seiran\nJapanese\n', b'\nMatsuda, Satsumi\nJapanese\n', b'\nEndou, Rina\nJapanese\n', b'\nKozakura, Etsuko\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nHoran, Chiaki\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nTanaka, Masato\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKousaka, Kitarou\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nYoshida, Reiko\n\nScript\n\n', b'\nFujiwara, Sakura\n\nTheme Song Performance\n\n']
+animePopularity	4692
+animeDescription	"After losing her parents in a car accident, Okko goes to live in the countryside with her grandmother, who runs a traditional Japanese inn built on top of an ancient spring said to have healing waters. While she goes about her chores and prepares to become the inn's next caretaker, Okko discovers there are ghosts who live there that only she can see – not scary ghosts, but playful child ghosts who keep her company and help her feel less lonely. A sign outside says the spring welcomes all and will reject none, and this is soon put to the test as a string of new guests challenge Okko's ability to be a gracious host. But ultimately Okko discovers that dedicating herself to the happiness of others becomes the key to taking care of herself.
+
+(Source: Animation is Film Festival)"
+animeRelated	['Wakaokami wa Shougakusei!']
+animeCharacters	['Seki, Oriko', 'Tateuri, Makoto', 'Akino, Miyo', 'Suzuki', 'Akino, Matsuki', 'Suiryou, Seiko', 'Seki, Mineko', 'Kise, Bunta', 'Kise, Torako', 'Kise, Shouta']
+animeVoices	['Kobayashi, Seiran', 'Matsuda, Satsumi', 'Endou, Rina', 'Kozakura, Etsuko', 'Mizuki, Nana', 'Horan, Chiaki', 'Ichiryuusai, Harumi', 'Yamadera, Kouichi', 'Orikasa, Fumiko', 'Tanaka, Masato']
+animeStaff	[['Kousaka, Kitarou', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Yoshida, Reiko', 'Script'], ['Fujiwara, Sakura', 'Theme Song Performance']]

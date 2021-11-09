@@ -1,5 +1,5 @@
-animeTitle	b'Ao no Exorcist: Kyoto Fujouou-hen OVA'
-animeType	b'OVA'
+animeTitle	Ao no Exorcist: Kyoto Fujouou-hen OVA
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.13
 animeUsers	21314
 animeRank	
-animePopularity	
-animeDescription	b'Bundled with the 19th and 20th volumes of the Ao no Exorcist manga.\n\nThe first episode is based on the second chapter of the second Ao no Exorcist novel Home Sweet Home.\n\nThe second episode is based on the title chapter from the Ao no Exorcist: Spy Game novel.'
-animeRelated	[b'Ao no Exorcist', b'Ao no Exorcist: Kyoto Fujouou-hen']
-animeCharacters	[b'Shima, Renzou', b'Houjou, Mamushi', b'Shima, Juuzou', b'Okumura, Rin', b'Pheles, Mephisto', b'Okumura, Yukio', b'Amaimon', b'Moriyama, Shiemi', b'Suguro, Ryuuji', b'Kamiki, Izumo']
-animeVoices	[b'\nYusa, Kouji\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nKitamura, Eri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUVERworld\n\nTheme Song Arrangement, Theme Song Lyrics, Theme Song Performance, Theme Song Composition\n\n', b'\nAkatsuki, Rin\n\nTheme Song Performance\n\n', b'\nKanetaka, Rika\n\nKey Animation\n\n', b'\nYokoyama, Honoka\n\nIn-Between Animation\n\n']
+animePopularity	2233
+animeDescription	"Bundled with the 19th and 20th volumes of the Ao no Exorcist manga.
+
+The first episode is based on the second chapter of the second Ao no Exorcist novel Home Sweet Home.
+
+The second episode is based on the title chapter from the Ao no Exorcist: Spy Game novel."
+animeRelated	['Ao no Exorcist', 'Ao no Exorcist: Kyoto Fujouou-hen']
+animeCharacters	['Shima, Renzou', 'Houjou, Mamushi', 'Shima, Juuzou', 'Okumura, Rin', 'Pheles, Mephisto', 'Okumura, Yukio', 'Amaimon', 'Moriyama, Shiemi', 'Suguro, Ryuuji', 'Kamiki, Izumo']
+animeVoices	['Yusa, Kouji', 'Ichimichi, Mao', 'Konishi, Katsuyuki', 'Okamoto, Nobuhiko', 'Kamiya, Hiroshi', 'Fukuyama, Jun', 'Kakihara, Tetsuya', 'Hanazawa, Kana', 'Nakai, Kazuya', 'Kitamura, Eri']
+animeStaff	[['UVERworld', 'Theme Song Arrangement, Theme Song Lyrics, Theme Song Performance, Theme Song Composition'], ['Akatsuki, Rin', 'Theme Song Performance'], ['Kanetaka, Rika', 'Key Animation'], ['Yokoyama, Honoka', 'In-Between Animation']]

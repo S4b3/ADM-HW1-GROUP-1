@@ -1,5 +1,5 @@
-animeTitle	b'Pale Cocoon'
-animeType	b'OVA'
+animeTitle	Pale Cocoon
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.33
 animeUsers	32208
 animeRank	
-animePopularity	
-animeDescription	b'A future where the continuity of history has broken off, a world of enormous ruins that continues endlessly. Oceans and continents have vanished, existing only within the archives brought up from the remains. Ura works in the Archive Excavation Department, which restores and analyzes the data left behind. One day, he finds a disturbing visual record... \n\n(Source: ANN)'
+animePopularity	2179
+animeDescription	"A future where the continuity of history has broken off, a world of enormous ruins that continues endlessly. Oceans and continents have vanished, existing only within the archives brought up from the remains. Ura works in the Archive Excavation Department, which restores and analyzes the data left behind. One day, he finds a disturbing visual record... 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Ura', b'Riko', b'Yamaguchi, Yoko']
-animeVoices	[b'\nNakao, Michio\nJapanese\n', b'\nKawashima, Minako\nJapanese\n', b'\nKoyama, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshiura, Yasuhiro\n\nDirector, Script\n\n', b'\nOkada, Tooru\n\nMusic\n\n']
+animeCharacters	['Ura', 'Riko', 'Yamaguchi, Yoko']
+animeVoices	['Nakao, Michio', 'Kawashima, Minako', 'Koyama, Yuka']
+animeStaff	[['Yoshiura, Yasuhiro', 'Director, Script'], ['Okada, Tooru', 'Music']]

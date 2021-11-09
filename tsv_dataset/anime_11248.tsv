@@ -1,5 +1,5 @@
-animeTitle	b'Deep Insanity: The Lost Child'
-animeType	b'TV'
+animeTitle	Deep Insanity: The Lost Child
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	5.13
 animeUsers	3040
 animeRank	
-animePopularity	
-animeDescription	b'Madness and unawakening sleep, Randolph syndrome.\n\nThis new illness is slowly but steadily approaching humanity, caused by the huge underground world Asylum that appeared in Antarctica. There are strange creatures different from the earth, and unknown resources. People bet their lives on the depths of the mysterious new world to get huge wealth, organizational plots, or their own ambitions.\n\nAnd here alone, a young man with a wish in his heart is trying to challenge the front line of Asylum.\n\n(Source: MAL News)'
+animePopularity	3405
+animeDescription	"Madness and unawakening sleep, Randolph syndrome.
+
+This new illness is slowly but steadily approaching humanity, caused by the huge underground world Asylum that appeared in Antarctica. There are strange creatures different from the earth, and unknown resources. People bet their lives on the depths of the mysterious new world to get huge wealth, organizational plots, or their own ambitions.
+
+And here alone, a young man with a wish in his heart is trying to challenge the front line of Asylum.
+
+(Source: MAL News)"
 animeRelated	[]
-animeCharacters	[b'Shigure Daniel Kai', b'Kobato, Reika', b'Blanc, Leslie', b'Sveien Grosse Bea, Solvy', b'Chan, James', b'Kruger, Nicolas', b'Mochinoki, Sumire', b'Jackson, Lawrence Larry', b'Rustamova, Vera', b'Elsie']
-animeVoices	[b'\nShimono, Hiro\nJapanese\n', b'\nNoguchi, Ruriko\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nHondo, Kaede\nJapanese\n', b'\nHirose, Yuuya\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nTanaka, Takako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOonuma, Shin\n\nDirector\n\n', b'\nGou, Fumiyuki\n\nSound Director\n\n', b'\nShimoyama, Kento\n\nScript, Series Composition\n\n', b'\nSuzuki, Konomi\n\nTheme Song Performance\n\n']
+animeCharacters	['Shigure Daniel Kai', 'Kobato, Reika', 'Blanc, Leslie', 'Sveien Grosse Bea, Solvy', 'Chan, James', 'Kruger, Nicolas', 'Mochinoki, Sumire', 'Jackson, Lawrence Larry', 'Rustamova, Vera', 'Elsie']
+animeVoices	['Shimono, Hiro', 'Noguchi, Ruriko', 'Toriumi, Kousuke', 'Hondo, Kaede', 'Hirose, Yuuya', 'Koshimizu, Ami', 'Tanaka, Takako']
+animeStaff	[['Oonuma, Shin', 'Director'], ['Gou, Fumiyuki', 'Sound Director'], ['Shimoyama, Kento', 'Script, Series Composition'], ['Suzuki, Konomi', 'Theme Song Performance']]

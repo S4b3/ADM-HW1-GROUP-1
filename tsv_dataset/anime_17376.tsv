@@ -1,5 +1,5 @@
-animeTitle	b'Shine Post'
-animeType	b'TV'
+animeTitle	Shine Post
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Shine Post Nee shitteta? Watashi o Zettai Aidoru ni Suru Tame no, Goku Futsuude Atarimaena, to Bikkiri no Mahou']
-animeCharacters	[b'Itou, Momiji', b'Gionji, Yukine', b'Seibu, Rio', b'Tamaki, Kyouka', b'Nabatame, Haru']
-animeVoices	[b'\nNakagawa, Rika\nJapanese\n', b'\nHasegawa, Rimo\nJapanese\n', b'\nNatsuyoshi, Yuuko\nJapanese\n', b'\nKanisawa, Moeko\nJapanese\n', b'\nSuzushiro, Sayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKisara, Youhei\n\nProducer\n\n', b'\nOikawa, Kei\n\nDirector\n\n', b'\nRakuda\n\nScript, Original Creator\n\n', b'\nHiguchi, Tatsuto\n\nScript\n\n']
+animePopularity	19103
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Shine Post Nee shitteta? Watashi o Zettai Aidoru ni Suru Tame no, Goku Futsuude Atarimaena, to Bikkiri no Mahou']
+animeCharacters	['Itou, Momiji', 'Gionji, Yukine', 'Seibu, Rio', 'Tamaki, Kyouka', 'Nabatame, Haru']
+animeVoices	['Nakagawa, Rika', 'Hasegawa, Rimo', 'Natsuyoshi, Yuuko', 'Kanisawa, Moeko', 'Suzushiro, Sayumi']
+animeStaff	[['Kisara, Youhei', 'Producer'], ['Oikawa, Kei', 'Director'], ['Rakuda', 'Script, Original Creator'], ['Higuchi, Tatsuto', 'Script']]

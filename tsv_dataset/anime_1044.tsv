@@ -1,5 +1,5 @@
-animeTitle	b'Akage no Anne'
-animeType	b'TV'
+animeTitle	Akage no Anne
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.7
 animeUsers	7220
 animeRank	
-animePopularity	
-animeDescription	"b""Life isn't easy for Anne Shirley, an 11-year-old orphan with a vast imagination and a short temper. In a twist of fate, she gets taken into the Cuthbert house in Avonlea. The elderly occupants Marilla and Matthew Cuthbert were looking for a young boy to help in the fields, but they're in for quite a shock when they realize Anne is a girl.\n\nAdapted from the acclaimed classic by L. M. Montgomery, Akage no Anne portrays Anne's upbringing from 11 to 17 years of age and her encounters and separations with various people. Only time will tell what major decision Anne has to make that will change her life forever.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Akage no Anne', b'Konnichiwa Anne: Before Green Gables', b'Akage no Anne: Green Gables e no Michi', b'Akage no Anne Specials', b'Shiawase Pasta Story']
-animeCharacters	[b'Shirley, Anne', b'Cuthbert, Matthew', b'Cuthbert, Marilla', b'Barry, Diana', b'Blythe, Gilbert', b'Gillis, Ruby', b'Pye, Josie', b'Andrews, Minnie', b'Stacy, Muriel', b'Sloane, Charlie']
-animeVoices	[b'\nYamada, Eiko\nJapanese\n', b'\nSaikachi, Ryuuji\nJapanese\n', b'\nKitahara, Fumie\nJapanese\n', b'\nTakashima, Gara\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nKoyama, Mami\nJapanese\n', b'\nHori, Junko\nJapanese\n', b'\nSuzuki, Hiroko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahata, Isao\n\nDirector\n\n', b'\nKoshi, Shigeo\n\nDirector, Storyboard\n\n', b'\nKouyama, Seijirou\n\nScript\n\n', b'\nTomino, Yoshiyuki\n\nStoryboard\n\n']
+animePopularity	3576
+animeDescription	"Life isn't easy for Anne Shirley, an 11-year-old orphan with a vast imagination and a short temper. In a twist of fate, she gets taken into the Cuthbert house in Avonlea. The elderly occupants Marilla and Matthew Cuthbert were looking for a young boy to help in the fields, but they're in for quite a shock when they realize Anne is a girl.
+
+Adapted from the acclaimed classic by L. M. Montgomery, Akage no Anne portrays Anne's upbringing from 11 to 17 years of age and her encounters and separations with various people. Only time will tell what major decision Anne has to make that will change her life forever.
+
+[Written by MAL Rewrite]"
+animeRelated	['Akage no Anne', 'Konnichiwa Anne: Before Green Gables', 'Akage no Anne: Green Gables e no Michi', 'Akage no Anne Specials', 'Shiawase Pasta Story']
+animeCharacters	['Shirley, Anne', 'Cuthbert, Matthew', 'Cuthbert, Marilla', 'Barry, Diana', 'Blythe, Gilbert', 'Gillis, Ruby', 'Pye, Josie', 'Andrews, Minnie', 'Stacy, Muriel', 'Sloane, Charlie']
+animeVoices	['Yamada, Eiko', 'Saikachi, Ryuuji', 'Kitahara, Fumie', 'Takashima, Gara', 'Inoue, Kazuhiko', 'Koyama, Mami', 'Hori, Junko', 'Suzuki, Hiroko']
+animeStaff	[['Takahata, Isao', 'Director'], ['Koshi, Shigeo', 'Director, Storyboard'], ['Kouyama, Seijirou', 'Script'], ['Tomino, Yoshiyuki', 'Storyboard']]

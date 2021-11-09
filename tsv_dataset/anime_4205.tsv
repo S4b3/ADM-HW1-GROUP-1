@@ -1,5 +1,5 @@
-animeTitle	b'Promare: Galo-hen'
-animeType	b'ONA'
+animeTitle	Promare: Galo-hen
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.9
 animeUsers	11072
 animeRank	
-animePopularity	
-animeDescription	b'A prequel set one day before the events of the Promare film.'
-animeRelated	[b'Promare', b'Promare: Lio-hen']
-animeCharacters	[b'Thymos, Galo', b'Foresight, Kray', b'Truss, Varys']
+animePopularity	3915
+animeDescription	A prequel set one day before the events of the Promare film.
+animeRelated	['Promare', 'Promare: Lio-hen']
+animeCharacters	['Thymos, Galo', 'Foresight, Kray', 'Truss, Varys']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nImaishi, Hiroyuki\n\nDirector\n\n', b'\nTatemoto, Itsuki\n\nScript, Publicity\n\n']
+animeStaff	[['Imaishi, Hiroyuki', 'Director'], ['Tatemoto, Itsuki', 'Script, Publicity']]

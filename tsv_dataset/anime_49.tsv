@@ -1,5 +1,5 @@
-animeTitle	b'Evangelion: 3.0+1.0 Thrice Upon a Time'
-animeType	b'Movie'
+animeTitle	Evangelion: 3.0+1.0 Thrice Upon a Time
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.69
 animeUsers	65586
 animeRank	
-animePopularity	
-animeDescription	b'Shinji Ikari is still adrift after losing his will to live, but the place he arrives at teaches him what it means to hope. Finally, the Instrumentality Project is set in motion and Wille make one last grueling stand to prevent the Final Impact.\n\n(Source: IMDB)'
-animeRelated	[b'Neon Genesis Evangelion', b'Evangelion: 3.0 You Can (Not) Redo', b'Evangelion Shito, Hakata Shuurai']
-animeCharacters	[b'Souryuu, Asuka Langley', b'Ikari, Shinji', b'Ayanami (tentative), Rei', b'Katsuragi, Misato', b'Nagisa, Kaworu', b'Ikari, Gendou', b'Makinami, Mari Illustrious', b'Kaji, Ryouji', b'Akagi, Ritsuko', b'Suzuhara, Touji']
-animeVoices	[b'\nMiyamura, Yuko\nJapanese\n', b'\nOgata, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAnno, Hideaki\n\nDirector, Planning, Creator, Key Animation\n\n', b'\nTsurumaki, Kazuya\n\nDirector\n\n', b'\nNakayama, Katsuichi\n\nDirector\n\n', b'\nUtada, Hikaru\n\nTheme Song Performance\n\n']
+animePopularity	734
+animeDescription	"Shinji Ikari is still adrift after losing his will to live, but the place he arrives at teaches him what it means to hope. Finally, the Instrumentality Project is set in motion and Wille make one last grueling stand to prevent the Final Impact.
+
+(Source: IMDB)"
+animeRelated	['Neon Genesis Evangelion', 'Evangelion: 3.0 You Can (Not) Redo', 'Evangelion Shito, Hakata Shuurai']
+animeCharacters	['Souryuu, Asuka Langley', 'Ikari, Shinji', 'Ayanami (tentative), Rei', 'Katsuragi, Misato', 'Nagisa, Kaworu', 'Ikari, Gendou', 'Makinami, Mari Illustrious', 'Kaji, Ryouji', 'Akagi, Ritsuko', 'Suzuhara, Touji']
+animeVoices	['Miyamura, Yuko', 'Ogata, Megumi']
+animeStaff	[['Anno, Hideaki', 'Director, Planning, Creator, Key Animation'], ['Tsurumaki, Kazuya', 'Director'], ['Nakayama, Katsuichi', 'Director'], ['Utada, Hikaru', 'Theme Song Performance']]

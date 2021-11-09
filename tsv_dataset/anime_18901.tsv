@@ -1,5 +1,5 @@
-animeTitle	b'Seisai'
-animeType	b'OVA'
+animeTitle	Seisai
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.33
 animeUsers	1050
 animeRank	
-animePopularity	
-animeDescription	"b""A horrible murder has been committed on the grounds of Nankai Academy. Professor Yuko, one of the school's most popular teachers, died when she was pushed off of the roof of one of the school's buildings. Her death has left her students with feelings of confusion, pain, and above all else... anger. Four of her male students, Masayoshi, Daisuke, Mitsuru and Shinya, are determined to uncover the truth. They soon discover an important clue: Professor Yuko's planner had been marked on the very night she was killed... marked with the names of seven girls. \n\nWith this evidence, the boys begin their investigations... and they'll use any method required in order to find the murderer. Through rape, manipulation and torture, they uncover important details, but piecing the puzzle together won't be easy. And the longer their search draws on, the more they feel themselves being overtaken by their own dark desires... Will they ever find out the truth behind Yuko's death?\n\n(Source: ANN)"""
-animeRelated	[b'Seisai: Hakudaku no Misogi']
-animeCharacters	[b'Negishi, Masayoshi', b'Ichijyou, Sae', b'Shinya', b'Nagihara, Hikaru', b'Sakura, Shiori', b'Itou, Nozomi', b'Coach', b'Enjyoji, Kiyoka', b'Sudou, Nami', b'Yoko']
+animePopularity	7955
+animeDescription	"A horrible murder has been committed on the grounds of Nankai Academy. Professor Yuko, one of the school's most popular teachers, died when she was pushed off of the roof of one of the school's buildings. Her death has left her students with feelings of confusion, pain, and above all else... anger. Four of her male students, Masayoshi, Daisuke, Mitsuru and Shinya, are determined to uncover the truth. They soon discover an important clue: Professor Yuko's planner had been marked on the very night she was killed... marked with the names of seven girls. 
+
+With this evidence, the boys begin their investigations... and they'll use any method required in order to find the murderer. Through rape, manipulation and torture, they uncover important details, but piecing the puzzle together won't be easy. And the longer their search draws on, the more they feel themselves being overtaken by their own dark desires... Will they ever find out the truth behind Yuko's death?
+
+(Source: ANN)"
+animeRelated	['Seisai: Hakudaku no Misogi']
+animeCharacters	['Negishi, Masayoshi', 'Ichijyou, Sae', 'Shinya', 'Nagihara, Hikaru', 'Sakura, Shiori', 'Itou, Nozomi', 'Coach', 'Enjyoji, Kiyoka', 'Sudou, Nami', 'Yoko']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshida, Tomohiro\n\nSound Director\n\n', b'\nBlue Gale\n\nOriginal Creator\n\n', b'\nKibata, Minoru\n\nKey Animation\n\n']
+animeStaff	[['Yoshida, Tomohiro', 'Sound Director'], ['Blue Gale', 'Original Creator'], ['Kibata, Minoru', 'Key Animation']]

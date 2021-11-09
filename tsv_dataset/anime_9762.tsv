@@ -1,5 +1,5 @@
-animeTitle	b'Ninja Mono'
-animeType	b'OVA'
+animeTitle	Ninja Mono
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.69
 animeUsers	1176
 animeRank	
-animePopularity	
-animeDescription	"b""During Japan's feudal era, there was a war between two ninja clans: the Byakuro and the Kabusu. One night, the Kabusu staged a fierce attack on the Byakuro castle in hopes of kidnapping the clan's infant princess. Their mission was foiled when a loyal ninja of the Byakuro flees the attack with the princess and disappears, eventually raising her to be a ninja. Several years later, six ninja trainees are given a mission to infiltrate the Kabusu-occupied Byakuro castle and retrieve a sacred scroll to complete their training. But their skills are put to the test when they encounter three members of the Kabusu, who use dark sorcery in an attempt to once again capture the princess - who happens to be one of the trainees. \n\n(Source: ANN)"""
-animeRelated	[b'Ninja Mono']
-animeCharacters	[b'Sakura', b'Pochi', b'Matsuri', b'Hayashi', b'Kaoru', b'Yume', b'Inaba', b'Nikko', b'Jame', b'Matsuzaka']
-animeVoices	[b'\nKonishi, Hiroko\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nNakajima, Mami\nJapanese\n', b'\nIshizuka, Katashi\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nMiyajima, Hitomi\nJapanese\n', b'\nAsada, Yoko\nJapanese\n', b'\nSugawara, Junichi\nJapanese\n', b'\nKawamura, Maria\nJapanese\n', b'\nFutamata, Issei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuganuma, Eiji\n\nDirector, Screenplay, Character Design, Animation Director, Original Creator\n\n', b'\nKishida, Takahiro\n\nScript, Key Animation\n\n', b'\nMiyajima, Hitomi\n\nTheme Song Performance\n\n', b'\nSuzuki, Hirofumi\n\nKey Animation\n\n']
+animePopularity	8617
+animeDescription	"During Japan's feudal era, there was a war between two ninja clans: the Byakuro and the Kabusu. One night, the Kabusu staged a fierce attack on the Byakuro castle in hopes of kidnapping the clan's infant princess. Their mission was foiled when a loyal ninja of the Byakuro flees the attack with the princess and disappears, eventually raising her to be a ninja. Several years later, six ninja trainees are given a mission to infiltrate the Kabusu-occupied Byakuro castle and retrieve a sacred scroll to complete their training. But their skills are put to the test when they encounter three members of the Kabusu, who use dark sorcery in an attempt to once again capture the princess - who happens to be one of the trainees. 
+
+(Source: ANN)"
+animeRelated	['Ninja Mono']
+animeCharacters	['Sakura', 'Pochi', 'Matsuri', 'Hayashi', 'Kaoru', 'Yume', 'Inaba', 'Nikko', 'Jame', 'Matsuzaka']
+animeVoices	['Konishi, Hiroko', 'Miyata, Kouki', 'Nakajima, Mami', 'Ishizuka, Katashi', 'Suzumura, Kenichi', 'Miyajima, Hitomi', 'Asada, Yoko', 'Sugawara, Junichi', 'Kawamura, Maria', 'Futamata, Issei']
+animeStaff	[['Suganuma, Eiji', 'Director, Screenplay, Character Design, Animation Director, Original Creator'], ['Kishida, Takahiro', 'Script, Key Animation'], ['Miyajima, Hitomi', 'Theme Song Performance'], ['Suzuki, Hirofumi', 'Key Animation']]

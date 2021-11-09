@@ -1,5 +1,5 @@
-animeTitle	b'Onyankopon'
-animeType	b'ONA'
+animeTitle	Onyankopon
+animeType	ONA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.52
 animeUsers	522
 animeRank	
-animePopularity	
-animeDescription	b'Onyankopon watched over people long ago, but one day an old woman accidentally hit Onyankopon in the head with a mallet while mashing yams. Since then, Onyankopon has been nervous about greeting people directly, and so sends subordinates to speak to them and solve their problems. He will use Afrobeat and dance to help Japanese high school girls with problems such as dieting, love, and cramming for exams.\n\n(Source: ANN)'
+animePopularity	10282
+animeDescription	"Onyankopon watched over people long ago, but one day an old woman accidentally hit Onyankopon in the head with a mallet while mashing yams. Since then, Onyankopon has been nervous about greeting people directly, and so sends subordinates to speak to them and solve their problems. He will use Afrobeat and dance to help Japanese high school girls with problems such as dieting, love, and cramming for exams.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Onyankopon', b'Otter', b'Chuumaru', b'Ryuujirou', b'Tamago', b'Rabbit', b'Axolotl', b'Seri', b'Moko', b'Rinna']
-animeVoices	[b'\nUchida, Maaya\nJapanese\n', b'\nTsukino, Moa\nJapanese\n', b'\nMurakita, Saori\nJapanese\n', b'\nOzawa, Ari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugahara, Souta\n\nEpisode Director\n\n', b'\nOotsuki, Sou\n\nEpisode Director\n\n', b'\nOnaka, Takeshi\n\nScript, Series Composition\n\n', b'\nSilent Siren\n\nTheme Song Performance\n\n']
+animeCharacters	['Onyankopon', 'Otter', 'Chuumaru', 'Ryuujirou', 'Tamago', 'Rabbit', 'Axolotl', 'Seri', 'Moko', 'Rinna']
+animeVoices	['Uchida, Maaya', 'Tsukino, Moa', 'Murakita, Saori', 'Ozawa, Ari']
+animeStaff	[['Sugahara, Souta', 'Episode Director'], ['Ootsuki, Sou', 'Episode Director'], ['Onaka, Takeshi', 'Script, Series Composition'], ['Silent Siren', 'Theme Song Performance']]

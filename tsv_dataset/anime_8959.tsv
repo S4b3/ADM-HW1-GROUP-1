@@ -1,5 +1,5 @@
-animeTitle	b'Malice@Doll'
-animeType	b'OVA'
+animeTitle	Malice@Doll
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.93
 animeUsers	1487
 animeRank	
-animePopularity	
-animeDescription	b'Malice, a sex robot living in an abandoned human city, is assaulted and violated by a mysterious creature. Upon awakening, Malice finds out that she has become human and can pass on her humanity to her fellow machines. However, her gift soon becomes a curse when her fellow robots rage out of control after being exposed to the pleasures of life.\n\n(Source: ANN)'
+animePopularity	7376
+animeDescription	"Malice, a sex robot living in an abandoned human city, is assaulted and violated by a mysterious creature. Upon awakening, Malice finds out that she has become human and can pass on her humanity to her fellow machines. However, her gift soon becomes a curse when her fellow robots rage out of control after being exposed to the pleasures of life.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Malice@Doll', b'Joe@Admin', b'Freddy@Licker', b'Doris@Doll', b'Elza@Doll', b'Amanda@Doll', b'Devo@Leukocyte', b'Heather@Doll']
-animeVoices	[b'\nYamada, Yukie\nJapanese\n', b'\nNakamura, Daiki\nJapanese\n', b'\nKondou, Takashi\nJapanese\n', b'\nNatsuki, Rio\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n', b'\nSoumi, Youko\nJapanese\n', b'\nOotomo, Ryuuzaburou\nJapanese\n', b'\nShima, Ryouka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMotonaga, Keitarou\n\nDirector\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n', b'\nKonaka, Chiaki\n\nScript, Original Creator\n\n']
+animeCharacters	['Malice@Doll', 'Joe@Admin', 'Freddy@Licker', 'Doris@Doll', 'Elza@Doll', 'Amanda@Doll', 'Devo@Leukocyte', 'Heather@Doll']
+animeVoices	['Yamada, Yukie', 'Nakamura, Daiki', 'Kondou, Takashi', 'Natsuki, Rio', 'Yuzuki, Ryouka', 'Soumi, Youko', 'Ootomo, Ryuuzaburou', 'Shima, Ryouka']
+animeStaff	[['Motonaga, Keitarou', 'Director'], ['Honda, Yasunori', 'Sound Director'], ['Konaka, Chiaki', 'Script, Original Creator']]

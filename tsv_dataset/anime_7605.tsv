@@ -1,5 +1,5 @@
-animeTitle	b'Pop in Q'
-animeType	b'Movie'
+animeTitle	Pop in Q
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.22
 animeUsers	1569
 animeRank	
-animePopularity	
-animeDescription	b'The story begins the day before the graduation ceremony. Five middle school girls each are preoccupied with their real everyday lives. These girls meet each other in a fantasy world after being sent there through a sudden occurrence. There, they learn about the impending crisis that this world is facing. The way to avert this crisis is for the five to collaborate and bring their five hearts together as one through dance.\n\nHowever, the five cannot come to love the world, and cannot tell their true feelings to one another, so their hearts are unable to unite. The time limit is fast approaching. Can the dance of the five girls save the world? And will they be able to graduate?\n\n(Source: ANN)'
-animeRelated	[b'Pop in Q Reverse', b'Pop in Q Dance MV']
-animeCharacters	[b'Oomichi, Asahi', b'Hioka, Aoi', b'Kominato, Isumi', b'Tsukui, Saki', b'Tomodate, Konatsu', b'Reno', b'Remy', b'Fukamachi, Miharu', b'Mihashi, Nana', b'Ramtamras']
-animeVoices	[b'\nOzawa, Ari\nJapanese\n', b'\nIzawa, Shiori\nJapanese\n', b'\nSeto, Asami\nJapanese\n', b'\nKurosawa, Tomoyo\nJapanese\n', b'\nTanezaki, Atsumi\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nYamazaki, Erii\nJapanese\n', b'\nTadokoro, Azusa\nJapanese\n', b'\nToda, Megumi\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyahara, Naoki\n\nDirector\n\n', b'\nArai, Shuuko\n\nScript\n\n', b'\nTanezaki, Atsumi\n\nTheme Song Performance\n\n', b'\nP.IDL\n\nTheme Song Performance\n\n']
+animePopularity	5276
+animeDescription	"The story begins the day before the graduation ceremony. Five middle school girls each are preoccupied with their real everyday lives. These girls meet each other in a fantasy world after being sent there through a sudden occurrence. There, they learn about the impending crisis that this world is facing. The way to avert this crisis is for the five to collaborate and bring their five hearts together as one through dance.
+
+However, the five cannot come to love the world, and cannot tell their true feelings to one another, so their hearts are unable to unite. The time limit is fast approaching. Can the dance of the five girls save the world? And will they be able to graduate?
+
+(Source: ANN)"
+animeRelated	['Pop in Q Reverse', 'Pop in Q Dance MV']
+animeCharacters	['Oomichi, Asahi', 'Hioka, Aoi', 'Kominato, Isumi', 'Tsukui, Saki', 'Tomodate, Konatsu', 'Reno', 'Remy', 'Fukamachi, Miharu', 'Mihashi, Nana', 'Ramtamras']
+animeVoices	['Ozawa, Ari', 'Izawa, Shiori', 'Seto, Asami', 'Kurosawa, Tomoyo', 'Tanezaki, Atsumi', 'Uchiyama, Kouki', 'Yamazaki, Erii', 'Tadokoro, Azusa', 'Toda, Megumi', 'Ishizuka, Unshou']
+animeStaff	[['Miyahara, Naoki', 'Director'], ['Arai, Shuuko', 'Script'], ['Tanezaki, Atsumi', 'Theme Song Performance'], ['P.IDL', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Bit the Cupid'
-animeType	b'TV'
+animeTitle	Bit the Cupid
+animeType	TV
 animeNumEpisode	48
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Comedy about a character who shoots arrows that cause pairs of people to fall madly in love and float about in an ecstasy of emotion.\n\n(Source: AniDB)'
+animePopularity	14514
+animeDescription	"Comedy about a character who shoots arrows that cause pairs of people to fall madly in love and float about in an ecstasy of emotion.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Bit', b'Iris', b'Athena', b'Perseus', b'Artemis', b'Demeter', b'Hephaestus', b'Twinka', b'Hera', b'Hermes']
-animeVoices	[b'\nFuchizaki, Yuriko\nJapanese\n', b'\nNakajima, Chisato\nJapanese\n', b'\nKawasaki, Eriko\nJapanese\n', b'\nSato, Yuki\nJapanese\n', b'\nAraki, Kae\nJapanese\n', b'\nMine, Atsuko\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nNishimura, Chinami\nJapanese\n', b'\nYokoo, Mari\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurai, Takashi\n\nProducer\n\n', b'\nIshiyama, Takaaki\n\nEpisode Director, Storyboard\n\n', b'\nKagawa, Yutaka\n\nEpisode Director, Storyboard\n\n', b'\nBaba, Toshiko\n\nAnimation Director\n\n']
+animeCharacters	['Bit', 'Iris', 'Athena', 'Perseus', 'Artemis', 'Demeter', 'Hephaestus', 'Twinka', 'Hera', 'Hermes']
+animeVoices	['Fuchizaki, Yuriko', 'Nakajima, Chisato', 'Kawasaki, Eriko', 'Sato, Yuki', 'Araki, Kae', 'Mine, Atsuko', 'Tatsuta, Naoki', 'Nishimura, Chinami', 'Yokoo, Mari', 'Ueda, Yuuji']
+animeStaff	[['Sakurai, Takashi', 'Producer'], ['Ishiyama, Takaaki', 'Episode Director, Storyboard'], ['Kagawa, Yutaka', 'Episode Director, Storyboard'], ['Baba, Toshiko', 'Animation Director']]

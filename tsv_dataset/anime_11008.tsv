@@ -1,5 +1,5 @@
-animeTitle	b'Seijuuki Cyguard'
-animeType	b'OVA'
+animeTitle	Seijuuki Cyguard
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.25
 animeUsers	1577
 animeRank	
-animePopularity	
-animeDescription	b'A freak accident unleashes a demonic spirit within researcher John Stalker - transforming him into Saldo, a mythical cyber-beast fueled by hate and evil.\n\n(Source: ANN)'
+animePopularity	7841
+animeDescription	"A freak accident unleashes a demonic spirit within researcher John Stalker - transforming him into Saldo, a mythical cyber-beast fueled by hate and evil.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Einstein, Adler', b'Rozetta, Leyla', b'Stalker, John', b'Detective Gordon', b'Captain Jack', b'Priest', b'Dr. Volkes', b'Randol']
-animeVoices	[b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nIizuka, Shouzou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOhata, Koichi\n\nDirector, Creator\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nYamane, Masahiro\n\nKey Animation\n\n', b'\nArai, Kazuhiro\n\nArt Director\n\n']
+animeCharacters	['Einstein, Adler', 'Rozetta, Leyla', 'Stalker, John', 'Detective Gordon', 'Captain Jack', 'Priest', 'Dr. Volkes', 'Randol']
+animeVoices	['Suzuoki, Hirotaka', 'Tsuru, Hiromi', 'Kusao, Takeshi', 'Yara, Yuusaku', 'Iizuka, Shouzou']
+animeStaff	[['Ohata, Koichi', 'Director, Creator'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Yamane, Masahiro', 'Key Animation'], ['Arai, Kazuhiro', 'Art Director']]

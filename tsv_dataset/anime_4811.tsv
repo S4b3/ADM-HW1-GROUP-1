@@ -1,5 +1,5 @@
-animeTitle	b'Koukyoushihen Eureka Seven Hi-Evolution 2: Anemone'
-animeType	b'Movie'
+animeTitle	Koukyoushihen Eureka Seven Hi-Evolution 2: Anemone
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.76
 animeUsers	1234
 animeRank	
-animePopularity	
-animeDescription	b'Second in a trilogy of films that take place after the original Eureka Seven but before Eureka Seven AO.'
-animeRelated	[b'Koukyoushihen Eureka Seven', b'Koukyoushihen Eureka Seven Hi-Evolution 1', b'Koukyoushihen Eureka Seven Hi-Evolution 3: Eureka']
-animeCharacters	[b'Eureka', b'Anemone', b'Thurston, Renton', b'Sorel, Dominic', b'Novak, Dewey', b'Egan, Greg', b'Wakabayashi, Sonia', b'Stravinskaya, Mischa', b'Shibata', b'Zimmer, Ramon']
-animeVoices	[b'\nNazuka, Kaori\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nSanpei, Yuuko\nJapanese\n', b'\nYamazaki, Shigenori\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nYamaguchi, Yuriko\nJapanese\n', b'\nSoumi, Youko\nJapanese\n', b'\nHara, Yuuko\nJapanese\n', b'\nOnozuka, Takashi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKyouda, Tomoki\n\nDirector\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n', b'\nSatou, Dai\n\nScript\n\n', b'\nRUANN\n\nTheme Song Performance\n\n']
+animePopularity	5182
+animeDescription	Second in a trilogy of films that take place after the original Eureka Seven but before Eureka Seven AO.
+animeRelated	['Koukyoushihen Eureka Seven', 'Koukyoushihen Eureka Seven Hi-Evolution 1', 'Koukyoushihen Eureka Seven Hi-Evolution 3: Eureka']
+animeCharacters	['Eureka', 'Anemone', 'Thurston, Renton', 'Sorel, Dominic', 'Novak, Dewey', 'Egan, Greg', 'Wakabayashi, Sonia', 'Stravinskaya, Mischa', 'Shibata', 'Zimmer, Ramon']
+animeVoices	['Nazuka, Kaori', 'Koshimizu, Ami', 'Sanpei, Yuuko', 'Yamazaki, Shigenori', 'Fujiwara, Keiji', 'Ginga, Banjou', 'Yamaguchi, Yuriko', 'Soumi, Youko', 'Hara, Yuuko', 'Onozuka, Takashi']
+animeStaff	[['Kyouda, Tomoki', 'Director'], ['Wakabayashi, Kazuhiro', 'Sound Director'], ['Satou, Dai', 'Script'], ['RUANN', 'Theme Song Performance']]

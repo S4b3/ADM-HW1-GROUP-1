@@ -1,5 +1,5 @@
-animeTitle	b'Rayearth'
-animeType	b'OVA'
+animeTitle	Rayearth
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.89
 animeUsers	6428
 animeRank	
-animePopularity	
-animeDescription	"b""The Earth lies darkened and deserted. Despite the best efforts of the film's heroine, Hikaru, the evil-filled castle of Cephiro has taken over the world and stands in the center of a lifeless Tokyo. Before the ice-witch Alcyone can take her revenge on Hikaru, she is rescued by Lantis, a young man who seals her into a magical maze where she is challenged to prove her powers while her friends are hunted down by Cephiro's warlocks. \n\nFleeing through the silent city, Umi and Fuu must seek out the sleeping Mashin; godlike creatures that will fuse with them to form giant warriors of awesome destructive power. But the Magic Knights are afraid, untrained and alone... will even the Mashin be enough to save them from the evil acts of Cephiro?\n\n(Source: AniDB)"""
-animeRelated	[b'Magic Knight Rayearth']
-animeCharacters	[b'Shidou, Hikaru', b'Ryuuzaki, Umi', b'Hououji, Fuu', b'Mokona', b'Lantis', b'Vision, Eagle', b'Ferio', b'Clef', b'Zagato', b'Emeraude']
-animeVoices	[b'\nShiina, Hekiru\nJapanese\n', b'\nYoshida, Konami\nJapanese\n', b'\nKasahara, Hiroko\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nYamazaki, Takumi\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMotonaga, Keitarou\n\nDirector\n\n', b'\nHirano, Toshiki\n\nDirector, Storyboard\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n']
+animePopularity	4647
+animeDescription	"The Earth lies darkened and deserted. Despite the best efforts of the film's heroine, Hikaru, the evil-filled castle of Cephiro has taken over the world and stands in the center of a lifeless Tokyo. Before the ice-witch Alcyone can take her revenge on Hikaru, she is rescued by Lantis, a young man who seals her into a magical maze where she is challenged to prove her powers while her friends are hunted down by Cephiro's warlocks. 
+
+Fleeing through the silent city, Umi and Fuu must seek out the sleeping Mashin; godlike creatures that will fuse with them to form giant warriors of awesome destructive power. But the Magic Knights are afraid, untrained and alone... will even the Mashin be enough to save them from the evil acts of Cephiro?
+
+(Source: AniDB)"
+animeRelated	['Magic Knight Rayearth']
+animeCharacters	['Shidou, Hikaru', 'Ryuuzaki, Umi', 'Hououji, Fuu', 'Mokona', 'Lantis', 'Vision, Eagle', 'Ferio', 'Clef', 'Zagato', 'Emeraude']
+animeVoices	['Shiina, Hekiru', 'Yoshida, Konami', 'Kasahara, Hiroko', 'Shiratori, Yuri', 'Kosugi, Juurouta', 'Ogata, Megumi', 'Yamazaki, Takumi', 'Sasaki, Nozomu']
+animeStaff	[['Motonaga, Keitarou', 'Director'], ['Hirano, Toshiki', 'Director, Storyboard'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Urakami, Yasuo', 'Sound Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Chikyuu SOS Sore Ike Kororin'
-animeType	b'TV'
+animeTitle	Chikyuu SOS Sore Ike Kororin
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Jiang came to the old family cherry blossom viewing venue. But the surrounding area was full of garbage. He sits there to eat lunch reluctantly when a strange creature falls from the sky!\n\nKororin is his name. He comes from the Star Oasis and is here to teach the importance of environmental consciousness with his ESP.\n\nJiang, his sister, and Kororin must battle Syndrome, the evil alien plotting the destruction of the Earth. The attempted destruction is usually through some environmental issue such as tearing a hole in the ozone, or changing the weather, or overuse of electricity, etc.'
+animePopularity	15080
+animeDescription	"Jiang came to the old family cherry blossom viewing venue. But the surrounding area was full of garbage. He sits there to eat lunch reluctantly when a strange creature falls from the sky!
+
+Kororin is his name. He comes from the Star Oasis and is here to teach the importance of environmental consciousness with his ESP.
+
+Jiang, his sister, and Kororin must battle Syndrome, the evil alien plotting the destruction of the Earth. The attempted destruction is usually through some environmental issue such as tearing a hole in the ozone, or changing the weather, or overuse of electricity, etc."
 animeRelated	[]
-animeCharacters	[b'Kororin', b'Eko, Midoriko', b'Gomi, Tarou', b'Freon', b'Eko, Saisei', b'Syndrome', b'Eko, Ozone']
-animeVoices	[b'\nKoyama, Mami\nJapanese\n', b'\nNarahashi, Miki\nJapanese\n', b'\nKawai, Yoshio\nJapanese\n', b'\nNeya, Michiko\nJapanese\n', b'\nBando, Naoki\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nAraki, Kae\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurai, Hiroaki\n\nStoryboard\n\n']
+animeCharacters	['Kororin', 'Eko, Midoriko', 'Gomi, Tarou', 'Freon', 'Eko, Saisei', 'Syndrome', 'Eko, Ozone']
+animeVoices	['Koyama, Mami', 'Narahashi, Miki', 'Kawai, Yoshio', 'Neya, Michiko', 'Bando, Naoki', 'Hiyama, Nobuyuki', 'Araki, Kae']
+animeStaff	[['Sakurai, Hiroaki', 'Storyboard']]

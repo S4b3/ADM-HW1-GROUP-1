@@ -1,5 +1,5 @@
-animeTitle	b'Super Street Fighter IV'
-animeType	b'OVA'
+animeTitle	Super Street Fighter IV
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.35
 animeUsers	3442
 animeRank	
-animePopularity	
-animeDescription	"b""This OVA will reveal the truth about Juri's evil eye and feature plenty of Cammy and the Dolls.\n\n(Source: Capcom)"""
-animeRelated	[b'Street Fighter II: Yomigaeru Fujiwara-Kyou - Toki wo Kaketa Fighter-tachi']
-animeCharacters	[b'Chun-Li', b'Han, Juri', b'White, Cammy', b'Guile', b'Seth', b'Viper, Crimson']
-animeVoices	[b'\nOrikasa, Fumiko\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKizaki, Fuminori\n\nDirector\n\n', b'\nFukasawa, Hideyuki\n\nMusic\n\n', b'\nCapcom\n\nOriginal Creator\n\n', b'\nKanehira, Kazushige\n\nBackground Art\n\n']
+animePopularity	6314
+animeDescription	"This OVA will reveal the truth about Juri's evil eye and feature plenty of Cammy and the Dolls.
+
+(Source: Capcom)"
+animeRelated	['Street Fighter II: Yomigaeru Fujiwara-Kyou - Toki wo Kaketa Fighter-tachi']
+animeCharacters	['Chun-Li', 'Han, Juri', 'White, Cammy', 'Guile', 'Seth', 'Viper, Crimson']
+animeVoices	['Orikasa, Fumiko', 'Kitamura, Eri', 'Sawashiro, Miyuki', 'Yasumoto, Hiroki', 'Ootsuka, Akio']
+animeStaff	[['Kizaki, Fuminori', 'Director'], ['Fukasawa, Hideyuki', 'Music'], ['Capcom', 'Original Creator'], ['Kanehira, Kazushige', 'Background Art']]

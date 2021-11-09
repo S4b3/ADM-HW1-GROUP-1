@@ -1,5 +1,5 @@
-animeTitle	b'Steins;Gate: Oukoubakko no Poriomania'
-animeType	b'Special'
+animeTitle	Steins;Gate: Oukoubakko no Poriomania
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.31
 animeUsers	239045
 animeRank	
-animePopularity	
-animeDescription	b'A few months after the events of Steins;Gate, Rintarou Okabe and his group of friends are invited to tag along with their acquaintance Faris NyanNyan, who is participating in a Rai-Net battle event in the United States. There, they meet up with an old colleague: Kurisu Makise, who has been recalling fragmented memories of events that happened in the other world lines in the form of dreams. She confronts Okabe, questioning him as to whether these events\xe2\x80\x94particularly the incidents between the two of them\xe2\x80\x94did indeed happen.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Steins;Gate', b'Steins;Gate Movie: Fuka Ryouiki no D\xc3\xa9j\xc3\xa0 vu']
-animeCharacters	[b'Okabe, Rintarou', b'Makise, Kurisu', b'Shiina, Mayuri', b'Hashida, Itaru', b'Urushibara, Ruka', b'Akiha, Rumiho', b'Kiryuu, Moeka', b'Tennouji, Yuugo', b'Tennouji, Nae', b'Street Vendor']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n', b'\nImai, Asami\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nMomoi, Haruko\nJapanese\n', b'\nGotou, Saori\nJapanese\n', b'\nTerasoma, Masaki\nJapanese\n', b'\nYamamoto, Ayano\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwasa, Gaku\n\nProducer\n\n', b'\nHamasaki, Hiroshi\n\nDirector\n\n', b'\nSatou, Takuya\n\nDirector\n\n', b'\nKobayashi, Tomoki\n\nDirector, Episode Director, Storyboard\n\n']
+animePopularity	438
+animeDescription	"A few months after the events of Steins;Gate, Rintarou Okabe and his group of friends are invited to tag along with their acquaintance Faris NyanNyan, who is participating in a Rai-Net battle event in the United States. There, they meet up with an old colleague: Kurisu Makise, who has been recalling fragmented memories of events that happened in the other world lines in the form of dreams. She confronts Okabe, questioning him as to whether these events—particularly the incidents between the two of them—did indeed happen.
+
+[Written by MAL Rewrite]"
+animeRelated	['Steins;Gate', 'Steins;Gate Movie: Fuka Ryouiki no Déjà vu']
+animeCharacters	['Okabe, Rintarou', 'Makise, Kurisu', 'Shiina, Mayuri', 'Hashida, Itaru', 'Urushibara, Ruka', 'Akiha, Rumiho', 'Kiryuu, Moeka', 'Tennouji, Yuugo', 'Tennouji, Nae', 'Street Vendor']
+animeVoices	['Miyano, Mamoru', 'Imai, Asami', 'Hanazawa, Kana', 'Seki, Tomokazu', 'Kobayashi, Yuu', 'Momoi, Haruko', 'Gotou, Saori', 'Terasoma, Masaki', 'Yamamoto, Ayano']
+animeStaff	[['Iwasa, Gaku', 'Producer'], ['Hamasaki, Hiroshi', 'Director'], ['Satou, Takuya', 'Director'], ['Kobayashi, Tomoki', 'Director, Episode Director, Storyboard']]

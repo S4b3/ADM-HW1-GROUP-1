@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon Crystal: Raikou Ikazuchi no Densetsu'
-animeType	b'Special'
+animeTitle	Pokemon Crystal: Raikou Ikazuchi no Densetsu
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.86
 animeUsers	11853
 animeRank	
-animePopularity	
-animeDescription	b'Kenta, a Pokemon master in the making, meets up with his childhood friend, Marina, at a Pokemon Center, to see how their skills have developed. Their battle is interrupted by a thunderstorm and the arrival of Bashou and Buson, two Roketto-Dan members using the Crystal System (which attracts Electric-type Pokemon). Their ultimate goal is to, under the guidance of Shiranui-hakase, bring Pokemon back to Sakaki. Kenta and Marina stumble upon this plan, and they try to stop it, but things get more difficult when the legendary Pokemon Raikou is captured.\n\n(Source: ANN)'
-animeRelated	[b'Pokemon']
-animeCharacters	[b'Kenta', b'Raikou', b'Bashou', b'Buson', b'Joy', b'Junsa', b'Narrator', b'Professor Utsugi', b'Marina', b'Minaki']
-animeVoices	[b'\nNojima, Kenji\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nShiraishi, Ayako\nJapanese\n', b'\nNishimura, Chinami\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nMurai, Kazusa\nJapanese\n', b'\nKawada, Shinji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nValencia, Amparo\n\nScript, ADR Director\n\n', b'\nTsuji, Hatsuki\n\nStoryboard, Key Animation\n\n']
+animePopularity	3851
+animeDescription	"Kenta, a Pokemon master in the making, meets up with his childhood friend, Marina, at a Pokemon Center, to see how their skills have developed. Their battle is interrupted by a thunderstorm and the arrival of Bashou and Buson, two Roketto-Dan members using the Crystal System (which attracts Electric-type Pokemon). Their ultimate goal is to, under the guidance of Shiranui-hakase, bring Pokemon back to Sakaki. Kenta and Marina stumble upon this plan, and they try to stop it, but things get more difficult when the legendary Pokemon Raikou is captured.
+
+(Source: ANN)"
+animeRelated	['Pokemon']
+animeCharacters	['Kenta', 'Raikou', 'Bashou', 'Buson', 'Joy', 'Junsa', 'Narrator', 'Professor Utsugi', 'Marina', 'Minaki']
+animeVoices	['Nojima, Kenji', 'Konishi, Katsuyuki', 'Morikawa, Toshiyuki', 'Hiyama, Nobuyuki', 'Shiraishi, Ayako', 'Nishimura, Chinami', 'Ishizuka, Unshou', 'Inoue, Kazuhiko', 'Murai, Kazusa', 'Kawada, Shinji']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Valencia, Amparo', 'Script, ADR Director'], ['Tsuji, Hatsuki', 'Storyboard, Key Animation']]

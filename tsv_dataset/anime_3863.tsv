@@ -1,5 +1,5 @@
-animeTitle	b'Kill Me Baby: Butsuzou Kegatte Nise Halloween'
-animeType	b'OVA'
+animeTitle	Kill Me Baby: Butsuzou Kegatte Nise Halloween
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.98
 animeUsers	6224
 animeRank	
-animePopularity	
-animeDescription	"b""Bundled with the franchise's Kill Me Baby Super Best Album CD (\xe3\x82\xad\xe3\x83\xab\xe3\x83\x9f\xe3\x83\xbc\xe3\x83\x99\xe3\x82\xa4\xe3\x83\x99\xe3\x83\xbc\xe3\x83\xbb\xe3\x82\xb9\xe3\x83\xbc\xe3\x83\x91\xe3\x83\xbc). OAD adapted eight previously unanimated story episodes from Kazuho's original manga.\n\n(Source: ANN)"""
-animeRelated	[b'Kill Me Baby']
-animeCharacters	[b'Goshiki, Agiri', b'Oribe, Yasuna', b'Sonya', b'Extra Girls']
-animeVoices	[b'\nTakabe, Ai\nJapanese\n', b'\nAkasaki, Chinatsu\nJapanese\n', b'\nTamura, Mutsumi\nJapanese\n', b'\nArai, Satomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamakawa, Yoshiki\n\nDirector\n\n', b'\nKazuho\n\nOriginal Creator\n\n', b'\nHasegawa, Shinya\n\nCharacter Design\n\n', b'\nEXPO\n\nMusic\n\n']
+animePopularity	4781
+animeDescription	"Bundled with the franchise's Kill Me Baby Super Best Album CD (キルミーベイベー・スーパー). OAD adapted eight previously unanimated story episodes from Kazuho's original manga.
+
+(Source: ANN)"
+animeRelated	['Kill Me Baby']
+animeCharacters	['Goshiki, Agiri', 'Oribe, Yasuna', 'Sonya', 'Extra Girls']
+animeVoices	['Takabe, Ai', 'Akasaki, Chinatsu', 'Tamura, Mutsumi', 'Arai, Satomi']
+animeStaff	[['Yamakawa, Yoshiki', 'Director'], ['Kazuho', 'Original Creator'], ['Hasegawa, Shinya', 'Character Design'], ['EXPO', 'Music']]

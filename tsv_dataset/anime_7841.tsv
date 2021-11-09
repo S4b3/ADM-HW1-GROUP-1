@@ -1,5 +1,5 @@
-animeTitle	b'Hijikata Toshizou: Shiro no Kiseki'
-animeType	b'OVA'
+animeTitle	Hijikata Toshizou: Shiro no Kiseki
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.17
 animeUsers	1062
 animeRank	
-animePopularity	
-animeDescription	b'A biographical sketch of the life and ideals of Hijikata Toshizou, Vice Commander of the Shinsengumi, fighting to uphold the Shogunate during the Meiji revolution. \n\n(Source: ANN)'
+animePopularity	8429
+animeDescription	"A biographical sketch of the life and ideals of Hijikata Toshizou, Vice Commander of the Shinsengumi, fighting to uphold the Shogunate during the Meiji revolution. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Hijikata, Toshizou']
-animeVoices	[b'\nImamura, Naoki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUratani, Chie\n\nDirector, Storyboard, Animation Director, Character Design\n\n', b'\nNomura, Kazuya\n\nKey Animation\n\n', b'\nItou, Nobutake\n\nKey Animation\n\n', b'\nHori, Motonobu\n\nKey Animation\n\n']
+animeCharacters	['Hijikata, Toshizou']
+animeVoices	['Imamura, Naoki']
+animeStaff	[['Uratani, Chie', 'Director, Storyboard, Animation Director, Character Design'], ['Nomura, Kazuya', 'Key Animation'], ['Itou, Nobutake', 'Key Animation'], ['Hori, Motonobu', 'Key Animation']]

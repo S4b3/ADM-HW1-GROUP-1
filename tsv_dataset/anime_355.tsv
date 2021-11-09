@@ -1,5 +1,5 @@
-animeTitle	b'Kaiba'
-animeType	b'TV'
+animeTitle	Kaiba
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.16
 animeUsers	36368
 animeRank	
-animePopularity	
-animeDescription	b'In a world where memories exist in memory chips separate from the body, death of the body no longer means death of the soul. It is possible for memories to be viewed, altered, and transferred between bodies. These memory chips are used by the rich to obtain eternal lives in carefully selected bodies, while for the poor, selling their own bodies and conserving their souls in the chips often become the only way to earn a living. An electrolytic cloud in the sky serves as a barrier between the heavens of the fortunate and the underworld of the destitute, making this social division impregnable. \n\nOne day, a man named Kaiba wakes up in an empty room with no memories, a mysterious hole in his chest, and a locket holding the picture of an unknown woman. After escaping an attack and stumbling upon a decrepit village of underworld residents, he begins his adventure across the different planets of this strange universe to find out more about his own identity and the woman he once knew.\n\nThrough a journey of self-discovery and acceptance, Kaiba weaves together tales of souls and spirits and explores the importance of memories.\n\n[Written by MAL Rewrite]'
+animePopularity	1342
+animeDescription	"In a world where memories exist in memory chips separate from the body, death of the body no longer means death of the soul. It is possible for memories to be viewed, altered, and transferred between bodies. These memory chips are used by the rich to obtain eternal lives in carefully selected bodies, while for the poor, selling their own bodies and conserving their souls in the chips often become the only way to earn a living. An electrolytic cloud in the sky serves as a barrier between the heavens of the fortunate and the underworld of the destitute, making this social division impregnable. 
+
+One day, a man named Kaiba wakes up in an empty room with no memories, a mysterious hole in his chest, and a locket holding the picture of an unknown woman. After escaping an attack and stumbling upon a decrepit village of underworld residents, he begins his adventure across the different planets of this strange universe to find out more about his own identity and the woman he once knew.
+
+Through a journey of self-discovery and acceptance, Kaiba weaves together tales of souls and spirits and explores the importance of memories.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Kaiba', b'Neiro', b'Popo', b'Chroniko', b'Vanilla', b'Hyo-hyo', b'Patch', b'Quilt', b'Cheki', b'Kichi']
-animeVoices	[b'\nKuwashima, Houko\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nEgawa, Hisao\nJapanese\n', b'\nMizuta, Wasabi\nJapanese\n', b'\nCho\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nIwanaga, Tetsuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuasa, Masaaki\n\nDirector, Episode Director, Script, Storyboard, Series Composition, Original Creator\n\n', b'\nChoi, Eun-Young\n\nEpisode Director, Script, Storyboard, Key Animation, Animation Director, 2nd Key Animation\n\n', b'\nMihara, Michio\n\nEpisode Director, Storyboard, Animation Director, Key Animation, In-Between Animation\n\n', b'\nYokoyama, Akitoshi\n\nEpisode Director, Storyboard, Screenplay, Key Animation\n\n']
+animeCharacters	['Kaiba', 'Neiro', 'Popo', 'Chroniko', 'Vanilla', 'Hyo-hyo', 'Patch', 'Quilt', 'Cheki', 'Kichi']
+animeVoices	['Kuwashima, Houko', 'Noto, Mamiko', 'Park, Romi', 'Saitou, Chiwa', 'Egawa, Hisao', 'Mizuta, Wasabi', 'Cho', 'Fujimura, Ayumi', 'Iwanaga, Tetsuya']
+animeStaff	[['Yuasa, Masaaki', 'Director, Episode Director, Script, Storyboard, Series Composition, Original Creator'], ['Choi, Eun-Young', 'Episode Director, Script, Storyboard, Key Animation, Animation Director, 2nd Key Animation'], ['Mihara, Michio', 'Episode Director, Storyboard, Animation Director, Key Animation, In-Between Animation'], ['Yokoyama, Akitoshi', 'Episode Director, Storyboard, Screenplay, Key Animation']]

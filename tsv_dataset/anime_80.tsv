@@ -1,5 +1,5 @@
-animeTitle	b'Fruits Basket 2nd Season'
-animeType	b'TV'
+animeTitle	Fruits Basket 2nd Season
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.58
 animeUsers	147911
 animeRank	
-animePopularity	
-animeDescription	"b""A year has passed since Tooru Honda began living in the Souma residence, and she has since created stronger relationships with its inhabitants Shigure, Kyou, and Yuki. She has also grown closer to the rest of the Souma family and has become familiar with their ancestral secret, having helped them with many of their personal issues. The closer Tooru gets, however, the more she begins to realize that their secret holds a darker truth than she first presumed.\n\nSummer is approaching and Tooru is invited to spend her days with the Soumas, mainly Kyou and Yuki. Tooru wishes for an easy-going vacation, but her close relationships with the two boys and the rest of the Soumas may prove to cause trouble. As they grow more intimate, their carefree time together is hindered by older hardships and feelings from the past that begin to resurface. The Eternal Banquet also dawns on the members of the zodiac, and they must tend to their duties alongside the unnerving head of the family, Akito Souma.\n\nWith the banquet approaching and a plethora of feelings to be solved, will Tooru's life with the Soumas remain peaceful, or will she find herself in a situation from which she cannot escape?\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Fruits Basket', b'Fruits Basket 1st Season', b'Fruits Basket: The Final', b'Kyouko to Katsuya no Monogatari']
-animeCharacters	[b'Souma, Kyou', b'Honda, Tooru', b'Souma, Yuki', b'Souma, Hatsuharu', b'Souma, Momiji', b'Souma, Shigure', b'Souma, Ayame', b'Souma, Hatori', b'Hanajima, Saki', b'Souma, Isuzu']
-animeVoices	[b'\nUchida, Yuuma\nJapanese\n', b'\nIwami, Manaka\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nFurukawa, Makoto\nJapanese\n', b'\nHan, Megumi\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nOkitsu, Kazuyuki\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIbata, Yoshihide\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nMONKEY MAJIK\n\nTheme Song Performance\n\n', b'\nMiyuna\n\nTheme Song Performance\n\n']
+animePopularity	506
+animeDescription	"A year has passed since Tooru Honda began living in the Souma residence, and she has since created stronger relationships with its inhabitants Shigure, Kyou, and Yuki. She has also grown closer to the rest of the Souma family and has become familiar with their ancestral secret, having helped them with many of their personal issues. The closer Tooru gets, however, the more she begins to realize that their secret holds a darker truth than she first presumed.
+
+Summer is approaching and Tooru is invited to spend her days with the Soumas, mainly Kyou and Yuki. Tooru wishes for an easy-going vacation, but her close relationships with the two boys and the rest of the Soumas may prove to cause trouble. As they grow more intimate, their carefree time together is hindered by older hardships and feelings from the past that begin to resurface. The Eternal Banquet also dawns on the members of the zodiac, and they must tend to their duties alongside the unnerving head of the family, Akito Souma.
+
+With the banquet approaching and a plethora of feelings to be solved, will Tooru's life with the Soumas remain peaceful, or will she find herself in a situation from which she cannot escape?
+
+[Written by MAL Rewrite]"
+animeRelated	['Fruits Basket', 'Fruits Basket 1st Season', 'Fruits Basket: The Final', 'Kyouko to Katsuya no Monogatari']
+animeCharacters	['Souma, Kyou', 'Honda, Tooru', 'Souma, Yuki', 'Souma, Hatsuharu', 'Souma, Momiji', 'Souma, Shigure', 'Souma, Ayame', 'Souma, Hatori', 'Hanajima, Saki', 'Souma, Isuzu']
+animeVoices	['Uchida, Yuuma', 'Iwami, Manaka', 'Shimazaki, Nobunaga', 'Furukawa, Makoto', 'Han, Megumi', 'Nakamura, Yuuichi', 'Sakurai, Takahiro', 'Okitsu, Kazuyuki', 'Satou, Satomi', 'Toyosaki, Aki']
+animeStaff	[['Ibata, Yoshihide', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['MONKEY MAJIK', 'Theme Song Performance'], ['Miyuna', 'Theme Song Performance']]

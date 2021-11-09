@@ -1,5 +1,5 @@
-animeTitle	b'Yakata Jukujo'
-animeType	b'OVA'
+animeTitle	Yakata Jukujo
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.06
 animeUsers	1772
 animeRank	
-animePopularity	
-animeDescription	"b""Ryo and his stepmother Madoka lived happily together, lusting after each other but content to just watch each other from a distance without doing anything about it. Until one day Ryo discovered that his stepmom was indebted to the Yotsuya family. In order to help her he offered to sell himself and work for Akie Yotsuya, the head of the family. But he had no idea what awaited him in the mansion... At first it was just Ryo, Akie, and Fumi, the maid. But soon two more people moved in: Reiko, Akie\xe2\x80\x99s sister... and Madoka, Ryo's mother. And as time passed Ryo discovered that the four women he was sharing the mansion with are connected in more ways than one... \n\n(Source: ANN) """
+animePopularity	7347
+animeDescription	"Ryo and his stepmother Madoka lived happily together, lusting after each other but content to just watch each other from a distance without doing anything about it. Until one day Ryo discovered that his stepmom was indebted to the Yotsuya family. In order to help her he offered to sell himself and work for Akie Yotsuya, the head of the family. But he had no idea what awaited him in the mansion... At first it was just Ryo, Akie, and Fumi, the maid. But soon two more people moved in: Reiko, Akie’s sister... and Madoka, Ryo's mother. And as time passed Ryo discovered that the four women he was sharing the mansion with are connected in more ways than one... 
+
+(Source: ANN) "
 animeRelated	[]
-animeCharacters	[b'Hayasaka, Reiko', b'Yotsuya, Akie', b'Ooki, Fumi', b'Tatsumi, Madoka', b'Tatsumi, Ryou']
-animeVoices	[b'\nYoshida, Airi\nJapanese\n', b'\nTanaka, Ryouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKusatsu, Terunyo\n\nOriginal Character Design\n\n', b'\nTsubone, Kentarou\n\nEditing\n\n', b'\nGuilty\n\nOriginal Creator\n\n']
+animeCharacters	['Hayasaka, Reiko', 'Yotsuya, Akie', 'Ooki, Fumi', 'Tatsumi, Madoka', 'Tatsumi, Ryou']
+animeVoices	['Yoshida, Airi', 'Tanaka, Ryouko']
+animeStaff	[['Kusatsu, Terunyo', 'Original Character Design'], ['Tsubone, Kentarou', 'Editing'], ['Guilty', 'Original Creator']]

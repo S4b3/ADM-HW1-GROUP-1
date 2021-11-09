@@ -1,5 +1,5 @@
-animeTitle	b'Esper Mami'
-animeType	b'TV'
+animeTitle	Esper Mami
+animeType	TV
 animeNumEpisode	119
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.52
 animeUsers	282
 animeRank	
-animePopularity	
-animeDescription	"b'Mami Sakura used to be a normal junior high school student, but she happened to acquire supernatural powers. Using her powers and with the help of her best friend, Mr. Takahata, she solves mysterious occurrences. When she senses someone needs help, she uses the ""Teleportation Gun"" and transports herself there. She then saves the world in trouble with her psychic powers, such as telekinesis and telepathy.\n\n(Source: Wikipedia)'"
-animeRelated	[b'Esper Mami', b'Esper Mami: Hoshizora no Dancing Doll', b'Esper Mami Special: My Angel Mami-chan']
-animeCharacters	[b'Sakura, Mami', b'Takahata, Kazuo', b'Takenaga, Satoru', b'Tomiyama, Takashi', b'Mamiya, Sachiko', b'Momoi, Noriko']
-animeVoices	[b'\nYokozawa, Keiko\nJapanese\n', b'\nShibamoto, Hiroyuki\nJapanese\n', b'\nSasaki, Nozomu\nJapanese\n', b'\nHirano, Yoshikazu\nJapanese\n', b'\nEmori, Hiroko\nJapanese\n', b'\nFuchizaki, Yuriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHara, Keiichi\n\nDirector\n\n', b'\nMochizuki, Tomomi\n\nEpisode Director, Storyboard\n\n', b'\nHongou, Mitsuru\n\nEpisode Director, Script, Storyboard\n\n', b'\nTomita, Sukehiro\n\nScript\n\n']
+animePopularity	9810
+animeDescription	"Mami Sakura used to be a normal junior high school student, but she happened to acquire supernatural powers. Using her powers and with the help of her best friend, Mr. Takahata, she solves mysterious occurrences. When she senses someone needs help, she uses the ""Teleportation Gun"" and transports herself there. She then saves the world in trouble with her psychic powers, such as telekinesis and telepathy.
+
+(Source: Wikipedia)"
+animeRelated	['Esper Mami', 'Esper Mami: Hoshizora no Dancing Doll', 'Esper Mami Special: My Angel Mami-chan']
+animeCharacters	['Sakura, Mami', 'Takahata, Kazuo', 'Takenaga, Satoru', 'Tomiyama, Takashi', 'Mamiya, Sachiko', 'Momoi, Noriko']
+animeVoices	['Yokozawa, Keiko', 'Shibamoto, Hiroyuki', 'Sasaki, Nozomu', 'Hirano, Yoshikazu', 'Emori, Hiroko', 'Fuchizaki, Yuriko']
+animeStaff	[['Hara, Keiichi', 'Director'], ['Mochizuki, Tomomi', 'Episode Director, Storyboard'], ['Hongou, Mitsuru', 'Episode Director, Script, Storyboard'], ['Tomita, Sukehiro', 'Script']]

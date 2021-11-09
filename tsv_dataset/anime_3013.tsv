@@ -1,5 +1,5 @@
-animeTitle	b'ACCA: 13-ku Kansatsu-ka - Regards'
-animeType	b'OVA'
+animeTitle	ACCA: 13-ku Kansatsu-ka - Regards
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.17
 animeUsers	4715
 animeRank	
-animePopularity	
-animeDescription	b'Set in the capital city of Badon one year after the events of the TV anime, Jean and the rest of the ACCA department are preparing for the one-year anniversary of the establishment of the new order. For the characters \xe2\x80\x94 caught between rumors of unrest, unchanging days, new crossroads, gazes remembered in memories, and days of new beginnings \xe2\x80\x94 time once again begins to move forward.\n\n(Source: ANN)'
-animeRelated	[b'ACCA: 13-ku Kansatsu-ka']
-animeCharacters	[b'Otus, Jean', b'Niino', b'Mauve', b'Otus, Lotta', b'Lilium', b'Groshular', b'Pine', b'Oulu', b'Pastice', b'Parrot']
-animeVoices	[b'\nShimono, Hiro\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n', b'\nUeda, Youji\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nKobayashi, Chiaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNatsume, Shingo\n\nDirector\n\n', b'\nSaitou, Keiichirou\n\nDirector\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nSuzuki, Tomohiro\n\nScript\n\n']
+animePopularity	4756
+animeDescription	"Set in the capital city of Badon one year after the events of the TV anime, Jean and the rest of the ACCA department are preparing for the one-year anniversary of the establishment of the new order. For the characters — caught between rumors of unrest, unchanging days, new crossroads, gazes remembered in memories, and days of new beginnings — time once again begins to move forward.
+
+(Source: ANN)"
+animeRelated	['ACCA: 13-ku Kansatsu-ka']
+animeCharacters	['Otus, Jean', 'Niino', 'Mauve', 'Otus, Lotta', 'Lilium', 'Groshular', 'Pine', 'Oulu', 'Pastice', 'Parrot']
+animeVoices	['Shimono, Hiro', 'Tsuda, Kenjirou', 'Tanaka, Atsuko', 'Yuuki, Aoi', 'Yusa, Kouji', 'Suwabe, Junichi', 'Yasumoto, Hiroki', 'Ueda, Youji', 'Midorikawa, Hikaru', 'Kobayashi, Chiaki']
+animeStaff	[['Natsume, Shingo', 'Director'], ['Saitou, Keiichirou', 'Director'], ['Hata, Shouji', 'Sound Director'], ['Suzuki, Tomohiro', 'Script']]

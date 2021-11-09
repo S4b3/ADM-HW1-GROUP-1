@@ -1,5 +1,5 @@
-animeTitle	b'Cinderella Monogatari'
-animeType	b'TV'
+animeTitle	Cinderella Monogatari
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.32
 animeUsers	3008
 animeRank	
-animePopularity	
-animeDescription	"b""Cinderella is the daughter of a wealthy duke who has remarried to provide her with a mother and sisters. When the Duke travels abroad, Cinderella discovers that her new family is anything but a family. With spoiled stepsisters and a harsh stepmother, Cindrella is forced to cook, clean and manage the household. Yet she remains cheerful, gentle and kind to her family, to her animal friends and to a mysterious boy, named Charles, who seems to have a connection with the prince of Emerald Castle. A whole new story on a classic fairytale.\n\nWhen Cinderella's cruel stepmother prevents her from attending the Royal Ball, she gets some unexpected help from the lovable mice Gus and Jaq, and from her Fairy Godmother.\n\n(Source: ANN)"""
+animePopularity	6219
+animeDescription	"Cinderella is the daughter of a wealthy duke who has remarried to provide her with a mother and sisters. When the Duke travels abroad, Cinderella discovers that her new family is anything but a family. With spoiled stepsisters and a harsh stepmother, Cindrella is forced to cook, clean and manage the household. Yet she remains cheerful, gentle and kind to her family, to her animal friends and to a mysterious boy, named Charles, who seems to have a connection with the prince of Emerald Castle. A whole new story on a classic fairytale.
+
+When Cinderella's cruel stepmother prevents her from attending the Royal Ball, she gets some unexpected help from the lovable mice Gus and Jaq, and from her Fairy Godmother.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Cinderella', b'Charles', b'Pappy', b'Bingo', b'Wanda', b'Chuchu', b'Miss Palette', b'Jeanne', b'Ian', b'Marcel']
-animeVoices	[b'\nKawamura, Maria\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n', b'\nMatsushita, Aki\nJapanese\n', b'\nTsuboi, Tomohiro\nJapanese\n', b'\nTsuji, Tsutomu\nJapanese\n', b'\nNakazawa, Yayoi\nJapanese\n', b'\nMita, Yuuko\nJapanese\n', b'\nMatsukuma, Tsurumatsu\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nToriumi, Katsumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nMatsukawa, Riku\n\nSound Director\n\n', b'\nIshiyama, Takaaki\n\nEpisode Director, Storyboard\n\n', b'\nAsada, Yuuji\n\nEpisode Director\n\n']
+animeCharacters	['Cinderella', 'Charles', 'Pappy', 'Bingo', 'Wanda', 'Chuchu', 'Miss Palette', 'Jeanne', 'Ian', 'Marcel']
+animeVoices	['Kawamura, Maria', 'Kikuchi, Masami', 'Matsushita, Aki', 'Tsuboi, Tomohiro', 'Tsuji, Tsutomu', 'Nakazawa, Yayoi', 'Mita, Yuuko', 'Matsukuma, Tsurumatsu', 'Takagi, Wataru', 'Toriumi, Katsumi']
+animeStaff	[['Sasagawa, Hiroshi', 'Director'], ['Matsukawa, Riku', 'Sound Director'], ['Ishiyama, Takaaki', 'Episode Director, Storyboard'], ['Asada, Yuuji', 'Episode Director']]

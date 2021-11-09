@@ -1,5 +1,5 @@
-animeTitle	b'Waga Seishun no Arcadia'
-animeType	b'Movie'
+animeTitle	Waga Seishun no Arcadia
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.49
 animeUsers	3630
 animeRank	
-animePopularity	
-animeDescription	b'Earth has been conquered by the evil Illumidus Empire, with parallels drawn to the U.S. post World War II occupation of Japan. Captain Harlock with a group that will become his life long friends begin their fight against this tyranny visited upon the planet Earth, with no regard to the costs the struggle will have on them, caring only for the ideal of restoring freedom to the people of Earth.\n\n(Source: ANN)'
-animeRelated	[b'Senjou Manga Series', b'Uchuu Kaizoku Captain Herlock', b'Queen Emeraldas', b'Waga Seishun no Arcadia: Mugen Kidou SSX']
-animeCharacters	[b'Captain Herlock', b'Emeraldas', b'Ooyama, Tochirou', b'Maya', b'Harlock I, Phantom F. ', b'Harlock II, Phantom F.', b'Zoll', b'Ooyama, Tochiro', b'General Zeda', b'Muriguson']
-animeVoices	[b'\nInoue, Makio\nJapanese\n', b'\nTajima, Reiko\nJapanese\n', b'\nTomiyama, Kei\nJapanese\n', b'\nMutou, Reiko\nJapanese\n', b'\nIshihara, Yujiro\nJapanese\n', b'\nIkeda, Shuuichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKatsumata, Tomoharu\n\nDirector\n\n', b'\nMatsumoto, Leiji\n\nPlanning, Original Creator\n\n', b'\nTanaka, Kouhei\n\nMusic\n\n', b'\nKanada, Yoshinori\n\nKey Animation\n\n']
+animePopularity	5584
+animeDescription	"Earth has been conquered by the evil Illumidus Empire, with parallels drawn to the U.S. post World War II occupation of Japan. Captain Harlock with a group that will become his life long friends begin their fight against this tyranny visited upon the planet Earth, with no regard to the costs the struggle will have on them, caring only for the ideal of restoring freedom to the people of Earth.
+
+(Source: ANN)"
+animeRelated	['Senjou Manga Series', 'Uchuu Kaizoku Captain Herlock', 'Queen Emeraldas', 'Waga Seishun no Arcadia: Mugen Kidou SSX']
+animeCharacters	['Captain Herlock', 'Emeraldas', 'Ooyama, Tochirou', 'Maya', 'Harlock I, Phantom F. ', 'Harlock II, Phantom F.', 'Zoll', 'Ooyama, Tochiro', 'General Zeda', 'Muriguson']
+animeVoices	['Inoue, Makio', 'Tajima, Reiko', 'Tomiyama, Kei', 'Mutou, Reiko', 'Ishihara, Yujiro', 'Ikeda, Shuuichi']
+animeStaff	[['Katsumata, Tomoharu', 'Director'], ['Matsumoto, Leiji', 'Planning, Original Creator'], ['Tanaka, Kouhei', 'Music'], ['Kanada, Yoshinori', 'Key Animation']]

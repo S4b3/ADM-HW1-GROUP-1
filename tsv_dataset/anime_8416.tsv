@@ -1,5 +1,5 @@
-animeTitle	b'Saga-ken wo Meguru Animation'
-animeType	b'Movie'
+animeTitle	Saga-ken wo Meguru Animation
+animeType	Movie
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.05
 animeUsers	410
 animeRank	
-animePopularity	
-animeDescription	"b'Both shorts will be set in Saga prefecture, and will highlight the prefecture\'s culture. \n\n""Yakusoku no Utsuwa - Arita no Hatsukoi"" will be set in the town of Arita, and will be a youth story highlighting the scenery of Arita.\n\n""Fuyu no Chikai, Natsu no Matsuri - Takeoshi no Dai-Kusunoki"" is set in the city of Takeoshi, and will center on two characters, a boy and a girl, who grow up watched over by a large camphor tree that endures the time and seasons.\n\n(Source: ANN)'"
+animePopularity	9721
+animeDescription	"Both shorts will be set in Saga prefecture, and will highlight the prefecture's culture. 
+
+""Yakusoku no Utsuwa - Arita no Hatsukoi"" will be set in the town of Arita, and will be a youth story highlighting the scenery of Arita.
+
+""Fuyu no Chikai, Natsu no Matsuri - Takeoshi no Dai-Kusunoki"" is set in the city of Takeoshi, and will center on two characters, a boy and a girl, who grow up watched over by a large camphor tree that endures the time and seasons.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Souta', b'Uchiyama, Jun', b'Yamaguchi, Rinko', b'Akino, Nao']
+animeCharacters	['Souta', 'Uchiyama, Jun', 'Yamaguchi, Rinko', 'Akino, Nao']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishimura, Junji\n\nDirector\n\n', b'\nYoshikawa, Youichirou\n\nMusic\n\n', b'\nSeki, Kazuhiko\n\nEditing\n\n']
+animeStaff	[['Nishimura, Junji', 'Director'], ['Yoshikawa, Youichirou', 'Music'], ['Seki, Kazuhiko', 'Editing']]

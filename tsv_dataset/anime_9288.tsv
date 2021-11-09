@@ -1,5 +1,5 @@
-animeTitle	b'Blue: Line Step Brush'
-animeType	b'ONA'
+animeTitle	Blue: Line Step Brush
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.82
 animeUsers	299
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
+animePopularity	11014
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
 animeRelated	[]
-animeCharacters	[b'Aoi', b'Tatsuya', b'Tsubasa']
-animeVoices	[b'\nKuroki, Honoka\nJapanese\n', b'\nToki, Shunichi\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakatake, Tetsuya\n\nProducer\n\n', b'\nSaitou, Kengo\n\nDirector, Animation Director\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nKishimoto, Taku\n\nScript\n\n']
+animeCharacters	['Aoi', 'Tatsuya', 'Tsubasa']
+animeVoices	['Kuroki, Honoka', 'Toki, Shunichi', 'Kakihara, Tetsuya']
+animeStaff	[['Nakatake, Tetsuya', 'Producer'], ['Saitou, Kengo', 'Director, Animation Director'], ['Hata, Shouji', 'Sound Director'], ['Kishimoto, Taku', 'Script']]

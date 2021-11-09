@@ -1,5 +1,5 @@
-animeTitle	b'Beast Saga'
-animeType	b'TV'
+animeTitle	Beast Saga
+animeType	TV
 animeNumEpisode	38
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.6
 animeUsers	285
 animeRank	
-animePopularity	
-animeDescription	b'Beast Saga takes place on a distant planet in our galaxy called Beast where three beast tribes, the Sea Tribe, the Land Tribe, and the Sky Tribe, fight for their honor. Each of the tribes protect an infinite elemental power source called Godlot.\n\n(Source: ANN)'
+animePopularity	10283
+animeDescription	"Beast Saga takes place on a distant planet in our galaxy called Beast where three beast tribes, the Sea Tribe, the Land Tribe, and the Sky Tribe, fight for their honor. Each of the tribes protect an infinite elemental power source called Godlot.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Liogre', b'Repamint', b'Bigserou']
+animeCharacters	['Liogre', 'Repamint', 'Bigserou']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOno, Katsumi\n\nDirector\n\n', b'\nMatsuoka, Hiroki\n\nSound Director\n\n', b'\nTanimoto, Takayoshi\n\nTheme Song Performance\n\n', b'\nTsuchiya, Michihiro\n\nSeries Composition\n\n']
+animeStaff	[['Ono, Katsumi', 'Director'], ['Matsuoka, Hiroki', 'Sound Director'], ['Tanimoto, Takayoshi', 'Theme Song Performance'], ['Tsuchiya, Michihiro', 'Series Composition']]

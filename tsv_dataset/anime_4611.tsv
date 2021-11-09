@@ -1,5 +1,5 @@
-animeTitle	b'Cardfight!! Vanguard: Asia Circuit-hen'
-animeType	b'TV'
+animeTitle	Cardfight!! Vanguard: Asia Circuit-hen
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.8
 animeUsers	11863
 animeRank	
-animePopularity	
-animeDescription	"b""Aichi and his friends have won the National Tournament and decide to go their own ways until a mysterious boy named Takuto Tatsunagi appears. He reveals that the Royal Paladins, Dark Paladins, and Kagero leaders have been captured, and the only way to free Cray is for the Vanguard fighters to use a new power- Limit Break. Because the Royal Paladins lose the ability to fight, Aichi's deck is changed to be a Gold Paladin deck. Aichi and his friends must now win the Vanguard VF Circuit if they are to learn more about the occurrences on Cray and free their old friends. \n\n(Source: ANN) """
-animeRelated	[b'Cardfight!! Vanguard', b'Cardfight!! Vanguard: Link Joker-hen', b'Cardfight!! Vanguard Movie: Neon Messiah']
-animeCharacters	[b'Sendou, Aichi', b'Kai, Toshiki', b'Tokura, Misaki', b'Katsuragi, Kamui', b'Tatsunagi, Takuto', b'Suzugamori, Ren', b'Miwa, Taishi', b'Tatsunagi, Kourin', b'Sendou, Emi', b'Mitsusada, Kenji']
-animeVoices	[b'\nYonaga, Tsubasa\nJapanese\n', b'\nSatou, Takuya\nJapanese\n', b'\nKitta, Izumi\nJapanese\n', b'\nIshikawa, Shizuka\nJapanese\n', b'\nTakagaki, Ayahi\nJapanese\n', b'\nAbe, Atsushi\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nEnomoto, Atsuko\nJapanese\n', b'\nAkabane, Kenji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuji, Hatsuki\n\nDirector, Storyboard\n\n', b'\nTakadera, Takeshi\n\nSound Director\n\n', b'\nUmemoto, Yui\n\nEpisode Director, Storyboard\n\n', b'\nSunayama, Kurasumi\n\nScript\n\n']
+animePopularity	3853
+animeDescription	"Aichi and his friends have won the National Tournament and decide to go their own ways until a mysterious boy named Takuto Tatsunagi appears. He reveals that the Royal Paladins, Dark Paladins, and Kagero leaders have been captured, and the only way to free Cray is for the Vanguard fighters to use a new power- Limit Break. Because the Royal Paladins lose the ability to fight, Aichi's deck is changed to be a Gold Paladin deck. Aichi and his friends must now win the Vanguard VF Circuit if they are to learn more about the occurrences on Cray and free their old friends. 
+
+(Source: ANN) "
+animeRelated	['Cardfight!! Vanguard', 'Cardfight!! Vanguard: Link Joker-hen', 'Cardfight!! Vanguard Movie: Neon Messiah']
+animeCharacters	['Sendou, Aichi', 'Kai, Toshiki', 'Tokura, Misaki', 'Katsuragi, Kamui', 'Tatsunagi, Takuto', 'Suzugamori, Ren', 'Miwa, Taishi', 'Tatsunagi, Kourin', 'Sendou, Emi', 'Mitsusada, Kenji']
+animeVoices	['Yonaga, Tsubasa', 'Satou, Takuya', 'Kitta, Izumi', 'Ishikawa, Shizuka', 'Takagaki, Ayahi', 'Abe, Atsushi', 'Morikubo, Shoutarou', 'Mimori, Suzuko', 'Enomoto, Atsuko', 'Akabane, Kenji']
+animeStaff	[['Tsuji, Hatsuki', 'Director, Storyboard'], ['Takadera, Takeshi', 'Sound Director'], ['Umemoto, Yui', 'Episode Director, Storyboard'], ['Sunayama, Kurasumi', 'Script']]

@@ -1,5 +1,5 @@
-animeTitle	b'One Piece Movie 8: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi'
-animeType	b'Movie'
+animeTitle	One Piece Movie 8: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.34
 animeUsers	30593
 animeRank	
-animePopularity	
-animeDescription	b'A retelling of the Alabasta arc.'
-animeRelated	[b'One Piece', b'One Piece: Episode of Alabasta - Prologue']
-animeCharacters	[b'Monkey D., Luffy', b'Roronoa, Zoro', b'Sanji', b'Tony Tony, Chopper', b'Usopp', b'Nami', b'Crocodile', b'Nefertari, Vivi', b'Nico, Robin', b'Bentham']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nOotomo, Ryuuzaburou\nJapanese\n', b'\nWatanabe, Misa\nJapanese\n', b'\nYamaguchi, Yuriko\nJapanese\n', b'\nYao, Kazuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nImamura, Takahiro\n\nDirector\n\n', b'\nVale, Eric\n\nScript\n\n', b'\nKawashima, Ai\n\nTheme Song Performance\n\n']
+animePopularity	2371
+animeDescription	A retelling of the Alabasta arc.
+animeRelated	['One Piece', 'One Piece: Episode of Alabasta - Prologue']
+animeCharacters	['Monkey D., Luffy', 'Roronoa, Zoro', 'Sanji', 'Tony Tony, Chopper', 'Usopp', 'Nami', 'Crocodile', 'Nefertari, Vivi', 'Nico, Robin', 'Bentham']
+animeVoices	['Tanaka, Mayumi', 'Nakai, Kazuya', 'Hirata, Hiroaki', 'Ootani, Ikue', 'Yamaguchi, Kappei', 'Okamura, Akemi', 'Ootomo, Ryuuzaburou', 'Watanabe, Misa', 'Yamaguchi, Yuriko', 'Yao, Kazuki']
+animeStaff	[['Cook, Justin', 'Producer'], ['Imamura, Takahiro', 'Director'], ['Vale, Eric', 'Script'], ['Kawashima, Ai', 'Theme Song Performance']]

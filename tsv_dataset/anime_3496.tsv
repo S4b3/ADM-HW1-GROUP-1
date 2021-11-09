@@ -1,5 +1,5 @@
-animeTitle	b'11-nin Iru!'
-animeType	b'Movie'
+animeTitle	11-nin Iru!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.06
 animeUsers	3947
 animeRank	
-animePopularity	
-animeDescription	b'After the Interstellar Alliance established peace among most of the planets in the universe, they created the Cosmo Academy. The academy is renowned as the most elite school in existence, with its graduates guaranteed virtually any job they desire. However, one can only become a student if they pass the entrance examinations held every three years, making the competition for admission extremely fierce.\n\nLane Tadatos is a Terran who has managed to reach the final stage of examinations. Placed in a group of 10, he is sent to the Esperanza\xe2\x80\x94a ship stranded in orbit. Their final test is to survive 53 days on the ship, without any means of communication with the outside other than an emergency forfeit button. But a serious problem emerges for the examinees when they perform a headcount. There are 11 people aboard the Esperanza, meaning that one of them is an impostor.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'11-nin Iru!']
-animeCharacters	[b'Frolbericheri, Frol', b'Tadatos, Lane', b'Baceska, King Mayan', b'Ni, Toto', b'Kacka, Chako', b'Narrator', b'Soldam IV, Doricas', b'Groff, Glenn', b'Carnais, Amazon', b'Tasta, Dolph']
-animeVoices	[b'\nKawai, Michiko\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nTarako\nJapanese\n', b'\nKashiwakura, Tsutomu\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nIkemizu, Michihiro\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nShioya, Kouzou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTominaga, Tsuneo\n\nDirector, Storyboard\n\n', b'\nDezaki, Satoshi\n\nDirector\n\n', b'\nNakamura, Ryuutarou\n\nStoryboard\n\n', b'\nHagio, Moto\n\nOriginal Creator\n\n']
+animePopularity	5417
+animeDescription	"After the Interstellar Alliance established peace among most of the planets in the universe, they created the Cosmo Academy. The academy is renowned as the most elite school in existence, with its graduates guaranteed virtually any job they desire. However, one can only become a student if they pass the entrance examinations held every three years, making the competition for admission extremely fierce.
+
+Lane Tadatos is a Terran who has managed to reach the final stage of examinations. Placed in a group of 10, he is sent to the Esperanza—a ship stranded in orbit. Their final test is to survive 53 days on the ship, without any means of communication with the outside other than an emergency forfeit button. But a serious problem emerges for the examinees when they perform a headcount. There are 11 people aboard the Esperanza, meaning that one of them is an impostor.
+
+[Written by MAL Rewrite]"
+animeRelated	['11-nin Iru!']
+animeCharacters	['Frolbericheri, Frol', 'Tadatos, Lane', 'Baceska, King Mayan', 'Ni, Toto', 'Kacka, Chako', 'Narrator', 'Soldam IV, Doricas', 'Groff, Glenn', 'Carnais, Amazon', 'Tasta, Dolph']
+animeVoices	['Kawai, Michiko', 'Kamiya, Akira', 'Tanaka, Hideyuki', 'Tarako', 'Kashiwakura, Tsutomu', 'Furukawa, Toshio', 'Ikemizu, Michihiro', 'Suzuoki, Hirotaka', 'Shioya, Kouzou']
+animeStaff	[['Tominaga, Tsuneo', 'Director, Storyboard'], ['Dezaki, Satoshi', 'Director'], ['Nakamura, Ryuutarou', 'Storyboard'], ['Hagio, Moto', 'Original Creator']]

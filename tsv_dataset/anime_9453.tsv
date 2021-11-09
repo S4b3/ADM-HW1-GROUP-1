@@ -1,5 +1,5 @@
-animeTitle	b'Youchien Senshi: Hanamaru Girls'
-animeType	b'Special'
+animeTitle	Youchien Senshi: Hanamaru Girls
+animeType	Special
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.78
 animeUsers	829
 animeRank	
-animePopularity	
-animeDescription	"b'BD specials styled as ""previews"" in an alternative magical-girl setting.'"
-animeRelated	[b'Hanamaru Youchien']
-animeCharacters	[b'Anzu']
+animePopularity	9119
+animeDescription	"BD specials styled as ""previews"" in an alternative magical-girl setting."
+animeRelated	['Hanamaru Youchien']
+animeCharacters	['Anzu']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuuto\n\nOriginal Creator\n\n']
+animeStaff	[['Yuuto', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Din Dong'
-animeType	b'ONA'
+animeTitle	Din Dong
+animeType	ONA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A parody of Doraemon.\n\nDin Dong, a common cat which pretends to be magical, accompanies his useless masters and his friends in Hong Kong.'
-animeRelated	"[b'Din Dong Specials', b""Cancerfund x Din Dong CM's""]"
+animePopularity	15585
+animeDescription	"A parody of Doraemon.
+
+Din Dong, a common cat which pretends to be magical, accompanies his useless masters and his friends in Hong Kong."
+animeRelated	"['Din Dong Specials', ""Cancerfund x Din Dong CM's""]"
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

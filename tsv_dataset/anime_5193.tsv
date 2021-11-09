@@ -1,5 +1,5 @@
-animeTitle	b'Kikou Senki Dragonar'
-animeType	b'TV'
+animeTitle	Kikou Senki Dragonar
+animeType	TV
 animeNumEpisode	48
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	6.68
 animeUsers	716
 animeRank	
-animePopularity	
-animeDescription	"b' A.D. 2087 - the United Lunar Empire Giganos wages war on the Earth Federation Military to take control of the planet and establish a ""rebirth"" of the human race. During an invasion of a colony by Giganos\' forces, three civilian men stumble upon a trio of top-secret Metal Armor units called ""Dragonars"" and pilot them to combat the enemy forces. \n'"
+animePopularity	7271
+animeDescription	" A.D. 2087 - the United Lunar Empire Giganos wages war on the Earth Federation Military to take control of the planet and establish a ""rebirth"" of the human race. During an invasion of a colony by Giganos' forces, three civilian men stumble upon a trio of top-secret Metal Armor units called ""Dragonars"" and pilot them to combat the enemy forces. 
+"
 animeRelated	[]
-animeCharacters	[b'Oceano, Tapp', b'Wakaba, Kaine', b'Newman, Light', b'Plato, Meio', b'Min, Lee Sue', b'Plato, Lang', b'Plato, Linda', b'Rooney, Ben', b'Lance, Diane', b'Pattenton, Rose']
-animeVoices	[b'\nOotsuka, Houchuu\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nShimazu, Saeko\nJapanese\n', b'\nChiba, Kouichi\nJapanese\n', b'\nFujii, Kayoko\nJapanese\n', b'\nShimaka, Yuu\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKanda, Takeyuki\n\nDirector, Storyboard\n\n', b'\nFukuda, Mitsuo\n\nEpisode Director, Storyboard\n\n', b'\nHoshiyama, Hiroyuki\n\nScript\n\n', b'\nMatsuzaki, Kenichi\n\nScript, Screenplay\n\n']
+animeCharacters	['Oceano, Tapp', 'Wakaba, Kaine', 'Newman, Light', 'Plato, Meio', 'Min, Lee Sue', 'Plato, Lang', 'Plato, Linda', 'Rooney, Ben', 'Lance, Diane', 'Pattenton, Rose']
+animeVoices	['Ootsuka, Houchuu', 'Kikuchi, Masami', 'Horiuchi, Kenyuu', 'Kosugi, Juurouta', 'Shimazu, Saeko', 'Chiba, Kouichi', 'Fujii, Kayoko', 'Shimaka, Yuu', 'Katsuki, Masako', 'Hiramatsu, Akiko']
+animeStaff	[['Kanda, Takeyuki', 'Director, Storyboard'], ['Fukuda, Mitsuo', 'Episode Director, Storyboard'], ['Hoshiyama, Hiroyuki', 'Script'], ['Matsuzaki, Kenichi', 'Script, Screenplay']]

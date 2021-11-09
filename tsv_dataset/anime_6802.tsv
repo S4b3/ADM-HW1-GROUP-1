@@ -1,5 +1,5 @@
-animeTitle	b'Tensai Bakabon'
-animeType	b'TV'
+animeTitle	Tensai Bakabon
+animeType	TV
 animeNumEpisode	40
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.38
 animeUsers	245
 animeRank	
-animePopularity	
-animeDescription	"b'Tensai Bakabon is the tale of a child prodigy and his ""philosophical"" father. Bakabon\xe2\x80\x98s father has his own philosophy and he leaves no stone unturned in his quest for answers. Despite his ability to trouble Trouble, for some reason, Papa Bakabon is regarded as ""The Great Philosopher,"" and is sought after for advice, which of course ends up in disastrous results. Tensai Bakabon joins his father in his philosophical quests which drives the people in their town crazy.\n\n(Source: Animation Xpress)'"
-animeRelated	[b'Tensai Bakabon', b'Ganso Tensai Bakabon']
-animeCharacters	[b'Bakabon no Papa', b'Rerere no Ojisan', b'Bakabon', b'Hajime-chan', b'Bakabon no Mama', b'Unagi-Inu', b'Omawari-san']
-animeVoices	[b'\nAmenomori, Masashi\nJapanese\n', b'\nSaikachi, Ryuuji\nJapanese\n', b'\nYamamoto, Keiko\nJapanese\n', b'\nSasuga, Takako\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nTanonaka, Isamu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSaitou, Hiroshi\n\nDirector\n\n', b'\nHoshiyama, Hiroyuki\n\nScript\n\n', b'\nTsuji, Masaki\n\nScript\n\n', b'\nMatsuyama, Yuushi\n\nTheme Song Arrangement\n\n']
+animePopularity	11212
+animeDescription	"Tensai Bakabon is the tale of a child prodigy and his ""philosophical"" father. Bakabon‘s father has his own philosophy and he leaves no stone unturned in his quest for answers. Despite his ability to trouble Trouble, for some reason, Papa Bakabon is regarded as ""The Great Philosopher,"" and is sought after for advice, which of course ends up in disastrous results. Tensai Bakabon joins his father in his philosophical quests which drives the people in their town crazy.
+
+(Source: Animation Xpress)"
+animeRelated	['Tensai Bakabon', 'Ganso Tensai Bakabon']
+animeCharacters	['Bakabon no Papa', 'Rerere no Ojisan', 'Bakabon', 'Hajime-chan', 'Bakabon no Mama', 'Unagi-Inu', 'Omawari-san']
+animeVoices	['Amenomori, Masashi', 'Saikachi, Ryuuji', 'Yamamoto, Keiko', 'Sasuga, Takako', 'Masuyama, Eiko', 'Tanonaka, Isamu']
+animeStaff	[['Saitou, Hiroshi', 'Director'], ['Hoshiyama, Hiroyuki', 'Script'], ['Tsuji, Masaki', 'Script'], ['Matsuyama, Yuushi', 'Theme Song Arrangement']]

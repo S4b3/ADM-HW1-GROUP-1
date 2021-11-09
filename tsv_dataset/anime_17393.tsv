@@ -1,5 +1,5 @@
-animeTitle	b'Spriggan (ONA)'
-animeType	b'ONA'
+animeTitle	Spriggan (ONA)
+animeType	ONA
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Deep in the Ararat Mountains of Turkey, a secret organization known as ARCAM has found what is believed to be Noah's Ark. However, the U.S. Machine Corps., a rogue organization of the Pentagon, wants to take over the Ark as a means of global supremacy. Only a special ARCAM operative known as a Spriggan stands in their way. Japanese Spriggan Yu Ominae teams up with French Spriggan Jean-Jacques Mondo to combat members of the U.S. Machine Corps. led by Col. MacDougall\xe2\x80\x94a genetically-enhanced boy with deadly psionic powers. However, they must act fast and stop MacDougall before he uses the Ark for his own agenda.\n\n(Source: ANN)"""
-animeRelated	[b'Spriggan']
-animeCharacters	[b'Ominae, Yuu', b'Jacquemondo, Jean', b'Director Yamamoto', b'Somei, Yoshino', b'Moroha, Kouichi', b'Colonel MacDougal']
-animeVoices	[b'\nKobayashi, Chiaki\nJapanese\n', b'\nAzakami, Youhei\nJapanese\n', b'\nHamada, Kenji\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nNarita, Ken\nJapanese\n', b'\nMurase, Ayumu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Hiroshi\n\nDirector\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nSeko, Hiroshi\n\nScript, Series Composition\n\n', b'\nKaneko, Yuuji\n\nArt Director\n\n']
+animePopularity	6682
+animeDescription	"Deep in the Ararat Mountains of Turkey, a secret organization known as ARCAM has found what is believed to be Noah's Ark. However, the U.S. Machine Corps., a rogue organization of the Pentagon, wants to take over the Ark as a means of global supremacy. Only a special ARCAM operative known as a Spriggan stands in their way. Japanese Spriggan Yu Ominae teams up with French Spriggan Jean-Jacques Mondo to combat members of the U.S. Machine Corps. led by Col. MacDougall—a genetically-enhanced boy with deadly psionic powers. However, they must act fast and stop MacDougall before he uses the Ark for his own agenda.
+
+(Source: ANN)"
+animeRelated	['Spriggan']
+animeCharacters	['Ominae, Yuu', 'Jacquemondo, Jean', 'Director Yamamoto', 'Somei, Yoshino', 'Moroha, Kouichi', 'Colonel MacDougal']
+animeVoices	['Kobayashi, Chiaki', 'Azakami, Youhei', 'Hamada, Kenji', 'Ise, Mariya', 'Narita, Ken', 'Murase, Ayumu']
+animeStaff	[['Kobayashi, Hiroshi', 'Director'], ['Nagasaki, Yukio', 'Sound Director'], ['Seko, Hiroshi', 'Script, Series Composition'], ['Kaneko, Yuuji', 'Art Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Mardock Scramble: The Third Exhaust'
-animeType	b'Movie'
+animeTitle	Mardock Scramble: The Third Exhaust
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.43
 animeUsers	16198
 animeRank	
-animePopularity	
-animeDescription	"b'The final plans to finish Shell off in court have been made by Easter, Balot, and Oeufcoque. But in order to execute those plans, they must set foot into Shell\'s domain: the BlueEgg Casino in the center of Mardock City, and find the chip where his memories lie. If they can\'t find the chip, their case will be dismissed in court, and their ""usefulness"" will be gone \xe2\x80\x93 resulting in all of their deaths. Will Balot find the chip in time, while still dodging Boiled and his now mad search for her and Oeufcoque?\n\n(Source: the witch of theatregoing)'"
-animeRelated	[b'Mardock Scramble', b'Mardock Scramble: The Second Combustion']
-animeCharacters	[b'Balot, Rune', b'Penteano, \xc5\x92ufcoque', b'Boiled, Dimsdale', b'Septinos, Shell', b'Dr. Easter', b'Harvest, Ashley', b'Wing, Bell', b'Fever, Marlowe John']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nYashima, Norito\nJapanese\n', b'\nIsobe, Tsutomu\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n', b'\nOno, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakanishi, Go\n\nProducer\n\n', b'\nKudou, Susumu\n\nDirector, Episode Director, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nHayashibara, Megumi\n\nTheme Song Performance\n\n']
+animePopularity	3160
+animeDescription	"The final plans to finish Shell off in court have been made by Easter, Balot, and Oeufcoque. But in order to execute those plans, they must set foot into Shell's domain: the BlueEgg Casino in the center of Mardock City, and find the chip where his memories lie. If they can't find the chip, their case will be dismissed in court, and their ""usefulness"" will be gone – resulting in all of their deaths. Will Balot find the chip in time, while still dodging Boiled and his now mad search for her and Oeufcoque?
+
+(Source: the witch of theatregoing)"
+animeRelated	['Mardock Scramble', 'Mardock Scramble: The Second Combustion']
+animeCharacters	['Balot, Rune', 'Penteano, Œufcoque', 'Boiled, Dimsdale', 'Septinos, Shell', 'Dr. Easter', 'Harvest, Ashley', 'Wing, Bell', 'Fever, Marlowe John']
+animeVoices	['Hayashibara, Megumi', 'Yashima, Norito', 'Isobe, Tsutomu', 'Nakai, Kazuya', 'Touchi, Hiroki', 'Fujita, Toshiko', 'Ono, Daisuke']
+animeStaff	[['Nakanishi, Go', 'Producer'], ['Kudou, Susumu', 'Director, Episode Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Hayashibara, Megumi', 'Theme Song Performance']]

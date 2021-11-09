@@ -1,5 +1,5 @@
-animeTitle	b'Gangsta.'
-animeType	b'TV'
+animeTitle	Gangsta.
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.4
 animeUsers	232640
 animeRank	
-animePopularity	
-animeDescription	"b'Nicholas Brown and Worick Arcangelo, known in the city of Ergastalum as the ""Handymen,"" are mercenaries for hire who take on jobs no one else can handle. Contracted by powerful mob syndicates and police alike, the Handymen have to be ready and willing for anything. After completing the order of killing a local pimp, the Handymen add Alex Benedetto\xe2\x80\x94a prostitute also designated for elimination\xe2\x80\x94to their ranks to protect her from forces that want her gone from the decrepit hellhole of a city she has come to call home. However, this criminal\xe2\x80\x99s paradise is undergoing a profound period of change that threatens to corrode the delicate balance of power.\n\nErgastalum was once a safe haven for ""Twilights,"" super-human beings born as the result of a special drug but are now being hunted down by a fierce underground organization. This new threat is rising up to challenge everything the city stands for, and the Handymen will not be able to avoid this coming war.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Gangsta.', b'Gangsta. Recap']
-animeCharacters	[b'Brown, Nicolas', b'Arcangelo, Worick', b'Benedetto, Alex', b'Doug', b'Cristiano Amodio, Loretta', b'Ginger', b'Adriano, Marco', b'Delico', b'Nina', b'Paulklee, Gina']
-animeVoices	[b'\nTsuda, Kenjirou\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nHashizume, Tomohisa\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurase, Shukou\n\nDirector, Storyboard\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nFukuoka, Motoo\n\nEpisode Director\n\n', b'\nNagai, Shinpei\n\nEpisode Director\n\n']
+animePopularity	335
+animeDescription	"Nicholas Brown and Worick Arcangelo, known in the city of Ergastalum as the ""Handymen,"" are mercenaries for hire who take on jobs no one else can handle. Contracted by powerful mob syndicates and police alike, the Handymen have to be ready and willing for anything. After completing the order of killing a local pimp, the Handymen add Alex Benedetto—a prostitute also designated for elimination—to their ranks to protect her from forces that want her gone from the decrepit hellhole of a city she has come to call home. However, this criminal’s paradise is undergoing a profound period of change that threatens to corrode the delicate balance of power.
+
+Ergastalum was once a safe haven for ""Twilights,"" super-human beings born as the result of a special drug but are now being hunted down by a fierce underground organization. This new threat is rising up to challenge everything the city stands for, and the Handymen will not be able to avoid this coming war.
+
+[Written by MAL Rewrite]"
+animeRelated	['Gangsta.', 'Gangsta. Recap']
+animeCharacters	['Brown, Nicolas', 'Arcangelo, Worick', 'Benedetto, Alex', 'Doug', 'Cristiano Amodio, Loretta', 'Ginger', 'Adriano, Marco', 'Delico', 'Nina', 'Paulklee, Gina']
+animeVoices	['Tsuda, Kenjirou', 'Suwabe, Junichi', 'Noto, Mamiko', 'Yoshino, Hiroyuki', 'Ueda, Kana', 'Komatsu, Mikako', 'Sakurai, Takahiro', 'Hashizume, Tomohisa', 'Yuuki, Aoi', 'Sakakibara, Yoshiko']
+animeStaff	[['Murase, Shukou', 'Director, Storyboard'], ['Nagasaki, Yukio', 'Sound Director'], ['Fukuoka, Motoo', 'Episode Director'], ['Nagai, Shinpei', 'Episode Director']]

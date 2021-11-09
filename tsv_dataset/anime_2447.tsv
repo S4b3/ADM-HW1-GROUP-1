@@ -1,5 +1,5 @@
-animeTitle	b'Tiger Mask Nisei'
-animeType	b'TV'
+animeTitle	Tiger Mask Nisei
+animeType	TV
 animeNumEpisode	33
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.29
 animeUsers	2429
 animeRank	
-animePopularity	
-animeDescription	b'Second season to the original Tiger Mask, with a different cast of characters.'
-animeRelated	[b'Tiger Mask', b'Tiger Mask W']
-animeCharacters	[b'Aku, Tetsuo', b'Ariyoshi, Midori', b'Tachibana, Junko', b'Hassan, Armor', b'Rita', b'Girado', b'Reporter Ishimatsu', b'Uchuu Kamen SF', b'Reporter Saiga', b'Saiga, Mina']
-animeVoices	[b'\nHori, Hideyuki\nJapanese\n', b'\nKawashima, Chiyoko\nJapanese\n', b'\nKoyama, Mami\nJapanese\n', b'\nOtsuka, Chikao\nJapanese\n', b'\nNakatani, Yumi\nJapanese\n', b'\nTanaka, Yasuo\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nKishino, Kazuhiko\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nNakajima, Chisato\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorishita, Kouzou\n\nDirector\n\n', b'\nYamauchi, Shigeyasu\n\nEpisode Director, Storyboard\n\n', b'\nYamazaki, Kazuo\n\nEpisode Director\n\n', b'\nSekita, Osamu\n\nEpisode Director\n\n']
+animePopularity	6818
+animeDescription	Second season to the original Tiger Mask, with a different cast of characters.
+animeRelated	['Tiger Mask', 'Tiger Mask W']
+animeCharacters	['Aku, Tetsuo', 'Ariyoshi, Midori', 'Tachibana, Junko', 'Hassan, Armor', 'Rita', 'Girado', 'Reporter Ishimatsu', 'Uchuu Kamen SF', 'Reporter Saiga', 'Saiga, Mina']
+animeVoices	['Hori, Hideyuki', 'Kawashima, Chiyoko', 'Koyama, Mami', 'Otsuka, Chikao', 'Nakatani, Yumi', 'Tanaka, Yasuo', 'Shiozawa, Kaneto', 'Kishino, Kazuhiko', 'Tanaka, Hideyuki', 'Nakajima, Chisato']
+animeStaff	[['Morishita, Kouzou', 'Director'], ['Yamauchi, Shigeyasu', 'Episode Director, Storyboard'], ['Yamazaki, Kazuo', 'Episode Director'], ['Sekita, Osamu', 'Episode Director']]

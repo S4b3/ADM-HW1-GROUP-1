@@ -1,5 +1,5 @@
-animeTitle	b'Seitokai Yakuindomo* OVA'
-animeType	b'OVA'
+animeTitle	Seitokai Yakuindomo* OVA
+animeType	OVA
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.88
 animeUsers	25882
 animeRank	
-animePopularity	
-animeDescription	b'OVAs of Seitokai Yakuindomo* which were either bundled with the limited editions of the manga volumes or as standalone OVAs.'
-animeRelated	[b'Seitokai Yakuindomo', b'Seitokai Yakuindomo*', b'Seitokai Yakuindomo Movie']
-animeCharacters	[b'Amakusa, Shino', b'Hagimura, Suzu', b'Tsuda, Takatoshi', b'Shichijou, Aria', b'Hata, Ranko', b'Uomi, Chihiro', b'Mitsuba, Mutsumi', b'Yokoshima, Naruko', b'Tsuda, Kotomi', b'Dejima, Sayaka']
-animeVoices	[b'\nHikasa, Youko\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nAsanuma, Shintaro\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nArai, Satomi\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nOmigawa, Chiaki\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nShimoda, Asami\nJapanese\n', b'\nTamura, Mutsumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKanazawa, Hiromichi\n\nDirector, Series Composition\n\n', b'\nTanaka, Ryou\n\nSound Director\n\n', b'\nSatou, Satomi\n\nTheme Song Performance\n\n', b'\nTriple Booking\n\nTheme Song Performance\n\n']
+animePopularity	2067
+animeDescription	OVAs of Seitokai Yakuindomo* which were either bundled with the limited editions of the manga volumes or as standalone OVAs.
+animeRelated	['Seitokai Yakuindomo', 'Seitokai Yakuindomo*', 'Seitokai Yakuindomo Movie']
+animeCharacters	['Amakusa, Shino', 'Hagimura, Suzu', 'Tsuda, Takatoshi', 'Shichijou, Aria', 'Hata, Ranko', 'Uomi, Chihiro', 'Mitsuba, Mutsumi', 'Yokoshima, Naruko', 'Tsuda, Kotomi', 'Dejima, Sayaka']
+animeVoices	['Hikasa, Youko', 'Yahagi, Sayuri', 'Asanuma, Shintaro', 'Satou, Satomi', 'Arai, Satomi', 'Saitou, Chiwa', 'Omigawa, Chiaki', 'Kobayashi, Yuu', 'Shimoda, Asami', 'Tamura, Mutsumi']
+animeStaff	[['Kanazawa, Hiromichi', 'Director, Series Composition'], ['Tanaka, Ryou', 'Sound Director'], ['Satou, Satomi', 'Theme Song Performance'], ['Triple Booking', 'Theme Song Performance']]

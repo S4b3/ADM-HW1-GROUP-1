@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Ball GT'
-animeType	b'TV'
+animeTitle	Dragon Ball GT
+animeType	TV
 animeNumEpisode	64
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.46
 animeUsers	355519
 animeRank	
-animePopularity	
-animeDescription	"b""Emperor Pilaf finally has his hands on the Black Star Dragon Balls after years of searching, which are said to be twice as powerful as Earth's normal ones. Pilaf is about to make his wish for world domination when he is interrupted by Gokuu Son. As a result, Pilaf flubs his wish and accidentally turns Gokuu back into a child.\n\nAfter the wish is granted, the Black Star Dragon Balls scatter across the galaxy. However, Gokuu discovers that they will cause the Earth to explode unless they are all brought back within a year. Uniting with his granddaughter Pan and a young adult Trunks, Gokuu sets off on an adventure through the universe to find the Black Star Dragon Balls and save his planet from destruction.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Dragon Ball Z', b'Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu', b'Super Dragon Ball Heroes']
-animeCharacters	[b'Son, Gokuu', b'Trunks', b'Pan', b'Giru', b'Vegeta', b'Son, Gohan', b'Piccolo', b'Freeza', b'Bulma', b'Muten-Roushi']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n', b'\nSatouchi, Shinobu\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nMasuoka, Hiroshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatson, Barry\n\nProducer, ADR Director\n\n', b'\nYamamuro, Tadayoshi\n\nDirector\n\n', b'\nKasai, Osamu\n\nDirector, Episode Director, Storyboard\n\n', b'\nYamauchi, Shigeyasu\n\nEpisode Director, Storyboard\n\n']
+animePopularity	291
+animeDescription	"Emperor Pilaf finally has his hands on the Black Star Dragon Balls after years of searching, which are said to be twice as powerful as Earth's normal ones. Pilaf is about to make his wish for world domination when he is interrupted by Gokuu Son. As a result, Pilaf flubs his wish and accidentally turns Gokuu back into a child.
+
+After the wish is granted, the Black Star Dragon Balls scatter across the galaxy. However, Gokuu discovers that they will cause the Earth to explode unless they are all brought back within a year. Uniting with his granddaughter Pan and a young adult Trunks, Gokuu sets off on an adventure through the universe to find the Black Star Dragon Balls and save his planet from destruction.
+
+[Written by MAL Rewrite]"
+animeRelated	['Dragon Ball Z', 'Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu', 'Super Dragon Ball Heroes']
+animeCharacters	['Son, Gokuu', 'Trunks', 'Pan', 'Giru', 'Vegeta', 'Son, Gohan', 'Piccolo', 'Freeza', 'Bulma', 'Muten-Roushi']
+animeVoices	['Nozawa, Masako', 'Kusao, Takeshi', 'Minaguchi, Yuko', 'Satouchi, Shinobu', 'Horikawa, Ryo', 'Furukawa, Toshio', 'Nakao, Ryusei', 'Tsuru, Hiromi', 'Masuoka, Hiroshi']
+animeStaff	[['Watson, Barry', 'Producer, ADR Director'], ['Yamamuro, Tadayoshi', 'Director'], ['Kasai, Osamu', 'Director, Episode Director, Storyboard'], ['Yamauchi, Shigeyasu', 'Episode Director, Storyboard']]

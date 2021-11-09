@@ -1,5 +1,5 @@
-animeTitle	b'Igano Kabamaru'
-animeType	b'TV'
+animeTitle	Igano Kabamaru
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.84
 animeUsers	3517
 animeRank	
-animePopularity	
-animeDescription	"b""After the death of Saizou, Kabamaru's horribly strict grandfather and Iga ninja teacher (sensei), an old lady, Ran Ookubo, claims that she received a letter from him asking her to take care of his grandson. So Kabamaru runs off with Lady Ookubo to the big city Tokyo to gorge on yakisoba, ramen, chow mein, and attend a regular school\xe2\x80\x94which turns out to have weird quirks of its own. \n\n(Source: ANN) """
-animeRelated	[b'Igano Kabamaru']
-animeCharacters	[b'Igano, Kagemaru', b'Mejiro, Shizune', b'Ookubo, Mai', b'Kirino, Hayate', b'Suu, Matsuno', b'Ookubo, Ran', b'Igano, Saizou', b'Futaba, Mejiro', b'Nonokusa, Kaoru']
-animeVoices	[b'\nNakao, Ryusei\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nTachihara, Mai\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nNozawa, Masako\nJapanese\n', b'\nYamada, Eiko\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nIshimaru, Kenjirou\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHayakawa, Keiji\n\nDirector, Storyboard\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nNagaoka, Akinori\n\nEpisode Director, Storyboard\n\n', b'\nTsuchiya, Tokio\n\nScript, Series Composition\n\n']
+animePopularity	5431
+animeDescription	"After the death of Saizou, Kabamaru's horribly strict grandfather and Iga ninja teacher (sensei), an old lady, Ran Ookubo, claims that she received a letter from him asking her to take care of his grandson. So Kabamaru runs off with Lady Ookubo to the big city Tokyo to gorge on yakisoba, ramen, chow mein, and attend a regular school—which turns out to have weird quirks of its own. 
+
+(Source: ANN) "
+animeRelated	['Igano Kabamaru']
+animeCharacters	['Igano, Kagemaru', 'Mejiro, Shizune', 'Ookubo, Mai', 'Kirino, Hayate', 'Suu, Matsuno', 'Ookubo, Ran', 'Igano, Saizou', 'Futaba, Mejiro', 'Nonokusa, Kaoru']
+animeVoices	['Nakao, Ryusei', 'Kamiya, Akira', 'Tachihara, Mai', 'Tanaka, Hideyuki', 'Nozawa, Masako', 'Yamada, Eiko', 'Ogata, Kenichi', 'Ishimaru, Kenjirou', 'Ichiryuusai, Harumi']
+animeStaff	[['Hayakawa, Keiji', 'Director, Storyboard'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Nagaoka, Akinori', 'Episode Director, Storyboard'], ['Tsuchiya, Tokio', 'Script, Series Composition']]

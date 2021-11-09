@@ -1,5 +1,5 @@
-animeTitle	b'Shiranpuri (Movie)'
-animeType	b'Movie'
+animeTitle	Shiranpuri (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.29
 animeUsers	2233
 animeRank	
-animePopularity	
-animeDescription	"b""When a young boy witnesses Yaragase and his gang bully his classmate Don, he becomes incredibly uncomfortable. Unable to intervene out of fear of becoming their next target, the young boy decides to mind his own business. As Yaragase's tormenting becomes increasingly worse, the boy's sense of guilt continues to grow. After he talks to an oden stand owner who believes that people who watch and do nothing are just as bad as those bullying, will the young boy be able to end his classmate's misery?\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Buta', b'Wasurenagumo', b'Puka Puka Juju']
-animeCharacters	[b'Me', b'Marimo', b'Yaragase', b'Don']
-animeVoices	[b'\nUchiyama, Yumi\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nYajima, Akiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyashita, Shinpei\n\nDirector\n\n', b'\nSuezawa, Kei\n\nKey Animation\n\n', b'\nDouge, Shintarou\n\nAssistant Animation Director\n\n', b'\nHiguchi, Satomi\n\nKey Animation\n\n']
+animePopularity	7357
+animeDescription	"When a young boy witnesses Yaragase and his gang bully his classmate Don, he becomes incredibly uncomfortable. Unable to intervene out of fear of becoming their next target, the young boy decides to mind his own business. As Yaragase's tormenting becomes increasingly worse, the boy's sense of guilt continues to grow. After he talks to an oden stand owner who believes that people who watch and do nothing are just as bad as those bullying, will the young boy be able to end his classmate's misery?
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Buta', 'Wasurenagumo', 'Puka Puka Juju']
+animeCharacters	['Me', 'Marimo', 'Yaragase', 'Don']
+animeVoices	['Uchiyama, Yumi', 'Koshimizu, Ami', 'Yajima, Akiko']
+animeStaff	[['Miyashita, Shinpei', 'Director'], ['Suezawa, Kei', 'Key Animation'], ['Douge, Shintarou', 'Assistant Animation Director'], ['Higuchi, Satomi', 'Key Animation']]

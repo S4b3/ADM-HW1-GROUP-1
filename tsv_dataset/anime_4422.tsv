@@ -1,5 +1,5 @@
-animeTitle	b'Gi(a)rlish Number'
-animeType	b'TV'
+animeTitle	Gi(a)rlish Number
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.85
 animeUsers	32106
 animeRank	
-animePopularity	
-animeDescription	"b'College student Chitose Karasuma is determined not to do boring things as she enters the adult world. To this end, this bad-mannered beauty barges into a facility that trains would-be voice actors and actresses, somehow landing a job at ""Number One Produce,"" a seiyuu agency managed by her older brother, Gojou. In Chitose\'s mind, she\'s poised for greatness, but finds herself at a loss when she continues to only get minor roles. As she clashes with other girls in the agency, including a cunning airhead and a girl with a Kansai accent, Chitose is about to learn that there\'s more to succeeding in this competitive industry than she imagined.\n\n(Source: ANN)'"
-animeRelated	[b'Gi(a)rlish Number']
-animeCharacters	[b'Karasuma, Chitose', b'Katakura, Koto', b'Shibasaki, Kazuha', b'Sonou, Momoka', b'Kugayama, Yae', b'Kuzu-P', b'Karasuma, Gojou', b'Shibasaki, Mother', b'Matsuoka, Juuzou', b'Sakuragaoka, Nanami']
-animeVoices	[b'\nSenbongi, Sayaka\nJapanese\n', b'\nIshikawa, Yui\nJapanese\n', b'\nOonishi, Saori\nJapanese\n', b'\nSuzuki, Eri\nJapanese\n', b'\nHondo, Kaede\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nUmehara, Yuuichirou\nJapanese\n', b'\nTamura, Seiko\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nSatou, Amina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIbata, Shouta\n\nDirector\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nSugawara, Yukie\n\nScript\n\n', b'\nSagara, Sou\n\nScript\n\n']
+animePopularity	1699
+animeDescription	"College student Chitose Karasuma is determined not to do boring things as she enters the adult world. To this end, this bad-mannered beauty barges into a facility that trains would-be voice actors and actresses, somehow landing a job at ""Number One Produce,"" a seiyuu agency managed by her older brother, Gojou. In Chitose's mind, she's poised for greatness, but finds herself at a loss when she continues to only get minor roles. As she clashes with other girls in the agency, including a cunning airhead and a girl with a Kansai accent, Chitose is about to learn that there's more to succeeding in this competitive industry than she imagined.
+
+(Source: ANN)"
+animeRelated	['Gi(a)rlish Number']
+animeCharacters	['Karasuma, Chitose', 'Katakura, Koto', 'Shibasaki, Kazuha', 'Sonou, Momoka', 'Kugayama, Yae', 'Kuzu-P', 'Karasuma, Gojou', 'Shibasaki, Mother', 'Matsuoka, Juuzou', 'Sakuragaoka, Nanami']
+animeVoices	['Senbongi, Sayaka', 'Ishikawa, Yui', 'Oonishi, Saori', 'Suzuki, Eri', 'Hondo, Kaede', 'Nakai, Kazuya', 'Umehara, Yuuichirou', 'Tamura, Seiko', 'Matsuoka, Yoshitsugu', 'Satou, Amina']
+animeStaff	[['Ibata, Shouta', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Sugawara, Yukie', 'Script'], ['Sagara, Sou', 'Script']]

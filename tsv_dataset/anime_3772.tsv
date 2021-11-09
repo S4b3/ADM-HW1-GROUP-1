@@ -1,5 +1,5 @@
-animeTitle	b'Biohazard: Vendetta'
-animeType	b'Movie'
+animeTitle	Biohazard: Vendetta
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.01
 animeUsers	9866
 animeRank	
-animePopularity	
-animeDescription	b'Chris Redfield enlists the help of Leon S. Kennedy and Rebecca Chambers to stop a death merchant, with a vengeance, from spreading a deadly virus in New York.\n\n(Source: IMDB)'
-animeRelated	[b'Biohazard: Damnation']
-animeCharacters	[b'Kennedy, Leon Scott', b'Redfield, Chris', b'Chambers, Rebecca', b'Arias, Glenn', b'Nadia', b'Gomez, Maria', b'Patricio', b'Aaron', b'D.C.', b'Gomez, Diego']
-animeVoices	[b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nKirimoto, Takuya\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nOotomo, Ryuuzaburou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsujimoto, Takanori\n\nDirector\n\n', b'\nFukami, Makoto\n\nScript\n\n', b'\nKawai, Kenji\n\nMusic\n\n', b'\nShimizu, Takashi\n\nExecutive Producer\n\n']
+animePopularity	4197
+animeDescription	"Chris Redfield enlists the help of Leon S. Kennedy and Rebecca Chambers to stop a death merchant, with a vengeance, from spreading a deadly virus in New York.
+
+(Source: IMDB)"
+animeRelated	['Biohazard: Damnation']
+animeCharacters	['Kennedy, Leon Scott', 'Redfield, Chris', 'Chambers, Rebecca', 'Arias, Glenn', 'Nadia', 'Gomez, Maria', 'Patricio', 'Aaron', 'D.C.', 'Gomez, Diego']
+animeVoices	['Morikawa, Toshiyuki', 'Touchi, Hiroki', 'Koshimizu, Ami', 'Kirimoto, Takuya', 'Tomatsu, Haruka', 'Ohara, Sayaka', 'Ootomo, Ryuuzaburou']
+animeStaff	[['Tsujimoto, Takanori', 'Director'], ['Fukami, Makoto', 'Script'], ['Kawai, Kenji', 'Music'], ['Shimizu, Takashi', 'Executive Producer']]

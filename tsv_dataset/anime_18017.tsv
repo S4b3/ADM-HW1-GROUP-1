@@ -1,5 +1,5 @@
-animeTitle	b'Kirepapa.'
-animeType	b'OVA'
+animeTitle	Kirepapa.
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	6.64
 animeUsers	28515
 animeRank	
-animePopularity	
-animeDescription	"b'Chisato Takatsukasa, a 35-year-old author, has such a youthful appearance that anyone would think him to be in his early twenties. His work is inspired by his idol\xe2\x80\x94the best-selling mystery author Saki Shunka, who is as much of an enigma herself as the plots of the books she writes.\n\nChisato is also the extremely overprotective father of 15-year old Riju, convinced that the ""friends"" his son constantly brings over are nothing but predators waiting for the perfect opportunity to defile his precious boy. As a result, Chisato will stop at nothing to ensure they never come over again, resorting to the most extreme of methods.\n\nThere is not a man he hates more, however, than Riju\'s rather persistent best friend Shunsuke Sakaki, who just won\'t go away regardless of what Chisato tries to do. But the motivations of these characters lie as secrets bubbling just below the surface. Why is Chisato so wary of Riju\'s friends, and what exactly does Shunsuke know about the mysterious author his friend\'s father idolizes?\n\n[Written by MAL Rewrite]\n'"
-animeRelated	[b'Kirepapa']
-animeCharacters	[b'Sakaki, Shunsuke', b'Takatsukasa, Chisato', b'Takatsukasa, Riju', b'Takatsukasa, Chihiro', b'Nijou, Kakeru', b'Funaba, Shin', b'Takatsukasa, Chidori', b'Takatsukasa, Chitose']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nHatano, Wataru\nJapanese\n', b'\nKawashima, Tokuyoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakoi, Masayuki\n\nStoryboard\n\n', b'\nTakagi, Ryo\n\nOriginal Creator\n\n', b'\nNishi, Shigenari\n\nEditing\n\n', b'\nKatsuragi, Imari\n\nColor Setting, Digital Paint\n\n']
+animePopularity	2508
+animeDescription	"Chisato Takatsukasa, a 35-year-old author, has such a youthful appearance that anyone would think him to be in his early twenties. His work is inspired by his idol—the best-selling mystery author Saki Shunka, who is as much of an enigma herself as the plots of the books she writes.
+
+Chisato is also the extremely overprotective father of 15-year old Riju, convinced that the ""friends"" his son constantly brings over are nothing but predators waiting for the perfect opportunity to defile his precious boy. As a result, Chisato will stop at nothing to ensure they never come over again, resorting to the most extreme of methods.
+
+There is not a man he hates more, however, than Riju's rather persistent best friend Shunsuke Sakaki, who just won't go away regardless of what Chisato tries to do. But the motivations of these characters lie as secrets bubbling just below the surface. Why is Chisato so wary of Riju's friends, and what exactly does Shunsuke know about the mysterious author his friend's father idolizes?
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Kirepapa']
+animeCharacters	['Sakaki, Shunsuke', 'Takatsukasa, Chisato', 'Takatsukasa, Riju', 'Takatsukasa, Chihiro', 'Nijou, Kakeru', 'Funaba, Shin', 'Takatsukasa, Chidori', 'Takatsukasa, Chitose']
+animeVoices	['Sakurai, Takahiro', 'Midorikawa, Hikaru', 'Miyata, Kouki', 'Morikawa, Toshiyuki', 'Suwabe, Junichi', 'Sugita, Tomokazu', 'Hatano, Wataru', 'Kawashima, Tokuyoshi']
+animeStaff	[['Sakoi, Masayuki', 'Storyboard'], ['Takagi, Ryo', 'Original Creator'], ['Nishi, Shigenari', 'Editing'], ['Katsuragi, Imari', 'Color Setting, Digital Paint']]

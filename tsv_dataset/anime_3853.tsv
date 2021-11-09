@@ -1,5 +1,5 @@
-animeTitle	b'Bleach: The Sealed Sword Frenzy'
-animeType	b'Special'
+animeTitle	Bleach: The Sealed Sword Frenzy
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.98
 animeUsers	57314
 animeRank	
-animePopularity	
-animeDescription	b'A Shinigami named Baishin who was sealed by Soul Society long ago is set free on Earth. On a fateful day Ichigo encounters him and has roughly half of his reiatsu drained. Its now up to Ichigo and the Soul Society to finally put a stop to Baishin and his destruction.'
-animeRelated	[b'Bleach']
-animeCharacters	[b'Kurosaki, Ichigo', b'Kuchiki, Rukia', b'Baishin', b'Zaraki, Kenpachi', b'Urahara, Kisuke', b'Hitsugaya, Toushirou', b'Aizen, Sousuke', b'Kuchiki, Byakuya', b'Shihouin, Yoruichi', b'Ichimaru, Gin']
-animeVoices	[b'\nMorita, Masakazu\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nTachiki, Fumihiko\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nYusa, Kouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAbe, Noriyuki\n\nDirector\n\n', b'\nKubo, Tite\n\nOriginal Creator\n\n', b'\nSagisu, Shirou\n\nMusic\n\n', b'\nKudou, Masashi\n\nCharacter Design\n\n']
+animePopularity	1574
+animeDescription	A Shinigami named Baishin who was sealed by Soul Society long ago is set free on Earth. On a fateful day Ichigo encounters him and has roughly half of his reiatsu drained. Its now up to Ichigo and the Soul Society to finally put a stop to Baishin and his destruction.
+animeRelated	['Bleach']
+animeCharacters	['Kurosaki, Ichigo', 'Kuchiki, Rukia', 'Baishin', 'Zaraki, Kenpachi', 'Urahara, Kisuke', 'Hitsugaya, Toushirou', 'Aizen, Sousuke', 'Kuchiki, Byakuya', 'Shihouin, Yoruichi', 'Ichimaru, Gin']
+animeVoices	['Morita, Masakazu', 'Orikasa, Fumiko', 'Nakata, Jouji', 'Tachiki, Fumihiko', 'Miki, Shinichiro', 'Park, Romi', 'Hayami, Show', 'Okiayu, Ryoutarou', 'Yukino, Satsuki', 'Yusa, Kouji']
+animeStaff	[['Abe, Noriyuki', 'Director'], ['Kubo, Tite', 'Original Creator'], ['Sagisu, Shirou', 'Music'], ['Kudou, Masashi', 'Character Design']]

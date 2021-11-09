@@ -1,5 +1,5 @@
-animeTitle	b'Kaiketsu Tamagon'
-animeType	b'TV'
+animeTitle	Kaiketsu Tamagon
+animeType	TV
 animeNumEpisode	195
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Tamagon is a cute monster who is fond of eggs. He acts as a counselor to those in trouble, asking only eggs in payment. He goes to work as soon as he has eaten his fee. However, despite his schemes, his service usually ends in total failure and he winds up being chased by his irate clients. Short as it is, this program is full of laughs and lively humour. \n\n(Source: AniDB)'
+animePopularity	14270
+animeDescription	"Tamagon is a cute monster who is fond of eggs. He acts as a counselor to those in trouble, asking only eggs in payment. He goes to work as soon as he has eaten his fee. However, despite his schemes, his service usually ends in total failure and he winds up being chased by his irate clients. Short as it is, this program is full of laughs and lively humour. 
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Tamagon', b'Narrator']
-animeVoices	[b'\nOohira, Tooru\nJapanese\n', b'\nOotake, Hiroshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector, Episode Director\n\n', b'\nKoyama, Takao\n\nScript\n\n', b'\nYoshida, Tatsuo\n\nOriginal Creator\n\n', b'\nNunokawa, Yuuji\n\nChief Animation Director\n\n']
+animeCharacters	['Tamagon', 'Narrator']
+animeVoices	['Oohira, Tooru', 'Ootake, Hiroshi']
+animeStaff	[['Sasagawa, Hiroshi', 'Director, Episode Director'], ['Koyama, Takao', 'Script'], ['Yoshida, Tatsuo', 'Original Creator'], ['Nunokawa, Yuuji', 'Chief Animation Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Toriko Movie: Bishokushin no Special Menu'
-animeType	b'Movie'
+animeTitle	Toriko Movie: Bishokushin no Special Menu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.12
 animeUsers	2537
 animeRank	
-animePopularity	
-animeDescription	b'The new Toriko movie, planned for Summer 2013.'
-animeRelated	[b'Toriko']
-animeCharacters	[b'Toriko', b'Zebra', b'Coco', b'Komatsu', b'Sunny', b'Jirou', b'Ichiryuu', b'Terry Cloth', b'Starjun', b'Teppei']
-animeVoices	[b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nMatsuda, Kenji\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nZako, Akifumi\n\nDirector\n\n', b'\nMurayama, Isao\n\nScript\n\n', b'\nF.T. Island\n\nTheme Song Performance\n\n', b'\nShimabukuro, Mitsutoshi\n\nOriginal Creator\n\n']
+animePopularity	6480
+animeDescription	The new Toriko movie, planned for Summer 2013.
+animeRelated	['Toriko']
+animeCharacters	['Toriko', 'Zebra', 'Coco', 'Komatsu', 'Sunny', 'Jirou', 'Ichiryuu', 'Terry Cloth', 'Starjun', 'Teppei']
+animeVoices	['Okiayu, Ryoutarou', 'Matsuda, Kenji', 'Sakurai, Takahiro', 'Park, Romi', 'Iwata, Mitsuo', 'Morikawa, Toshiyuki', 'Horiuchi, Kenyuu', 'Miki, Shinichiro', 'Onosaka, Masaya']
+animeStaff	[['Zako, Akifumi', 'Director'], ['Murayama, Isao', 'Script'], ['F.T. Island', 'Theme Song Performance'], ['Shimabukuro, Mitsutoshi', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Shin Angyo Onshi'
-animeType	b'Movie'
+animeTitle	Shin Angyo Onshi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.86
 animeUsers	8682
 animeRank	
-animePopularity	
-animeDescription	"b""After wandering through the desert for days, a bitter warrior named Munsu is lost and unable to continue. His life is unexpectedly saved by Mon-ryon, a young man who dreams of becoming a secret agent for Jushin, a once-great country that was recently destroyed. Mon-ryon's goal is to save his girlfriend, Chunhyan, a born fighter who is held captive by the evil Lord Byonand. Then, from out of nowhere, blood begins trickling from his chest. He has been fatally wounded by the Sarinjas, a cannibalistic breed of desert goblin. The quick-thinking Munsu convinces these beasts to spare his life, in exchange for the peaceful handover of Mon-ryon's appetizing corpse. Although skeptical of Mon-ryon's motives, Munsu sets out to continue the mission that the young idealist described. Accompanied by an army of ghost troops, unleashed using the powers of Angyo Onshi, Munsu liberates Chunhyan. After visiting her boyfriend's final resting place, she declares herself Munsu's bodyguard and, together, they set out on a mission to punish those who stripped Jushin of its original glory. \n\n(Source: AniDB)"""
-animeRelated	[b'Shin Angyo Onshi']
-animeCharacters	[b'Munsu', b'Hyang, Chun', b'Jyun', b'Ryong, Mong', b'Haku Dou, Byun', b'Yuite', b'Mari']
-animeVoices	[b'\nFujiwara, Keiji\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nFukushima, Jun\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nMiyamoto, Mitsuru\nJapanese\n', b'\nPark, Romi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChung, Jin Ho\n\nProducer\n\n', b'\nShimura, Jouji\n\nDirector, Screenplay\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nBoA\n\nTheme Song Performance, Inserted Song Performance\n\n']
+animePopularity	4277
+animeDescription	"After wandering through the desert for days, a bitter warrior named Munsu is lost and unable to continue. His life is unexpectedly saved by Mon-ryon, a young man who dreams of becoming a secret agent for Jushin, a once-great country that was recently destroyed. Mon-ryon's goal is to save his girlfriend, Chunhyan, a born fighter who is held captive by the evil Lord Byonand. Then, from out of nowhere, blood begins trickling from his chest. He has been fatally wounded by the Sarinjas, a cannibalistic breed of desert goblin. The quick-thinking Munsu convinces these beasts to spare his life, in exchange for the peaceful handover of Mon-ryon's appetizing corpse. Although skeptical of Mon-ryon's motives, Munsu sets out to continue the mission that the young idealist described. Accompanied by an army of ghost troops, unleashed using the powers of Angyo Onshi, Munsu liberates Chunhyan. After visiting her boyfriend's final resting place, she declares herself Munsu's bodyguard and, together, they set out on a mission to punish those who stripped Jushin of its original glory. 
+
+(Source: AniDB)"
+animeRelated	['Shin Angyo Onshi']
+animeCharacters	['Munsu', 'Hyang, Chun', 'Jyun', 'Ryong, Mong', 'Haku Dou, Byun', 'Yuite', 'Mari']
+animeVoices	['Fujiwara, Keiji', 'Kobayashi, Sanae', 'Fukushima, Jun', 'Kishio, Daisuke', 'Nakao, Ryusei', 'Miyamoto, Mitsuru', 'Park, Romi']
+animeStaff	[['Chung, Jin Ho', 'Producer'], ['Shimura, Jouji', 'Director, Screenplay'], ['Mima, Masafumi', 'Sound Director'], ['BoA', 'Theme Song Performance, Inserted Song Performance']]

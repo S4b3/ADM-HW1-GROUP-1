@@ -1,5 +1,5 @@
-animeTitle	b'Space Cobra Pilot'
-animeType	b'Special'
+animeTitle	Space Cobra Pilot
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.44
 animeUsers	806
 animeRank	
-animePopularity	
-animeDescription	b'Pilot episode for the TV series.'
-animeRelated	[b'Space Cobra']
-animeCharacters	[b'Cobra']
+animePopularity	9619
+animeDescription	Pilot episode for the TV series.
+animeRelated	['Space Cobra']
+animeCharacters	['Cobra']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Osamu\n\nDirector\n\n', b'\nOohashi, Manabu\n\nKey Animation\n\n']
+animeStaff	[['Dezaki, Osamu', 'Director'], ['Oohashi, Manabu', 'Key Animation']]

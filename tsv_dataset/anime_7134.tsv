@@ -1,5 +1,5 @@
-animeTitle	b'Cinderella Boy'
-animeType	b'TV'
+animeTitle	Cinderella Boy
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.31
 animeUsers	2344
 animeRank	
-animePopularity	
-animeDescription	b'Ranma and his partner Rera run a detective agency in Giraffe City. An arranged accident leaves Rera and Ranma in an unfortunate state where the two detectives swap bodies at the stroke of midnight. With Ranma dissapearing and the beautiful Rera appearing. \n\n(Source: ANN)'
-animeRelated	[b'Cinderella Boy']
-animeCharacters	[b'Hinamatsuri, Ranma', b'Shirayuki, Rella Cindy', b'Alice', b'Son, Tai Jin', b'Dorothy']
-animeVoices	[b'\nKoyasu, Takehito\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nHori, Junko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTominaga, Tsuneo\n\nDirector\n\n', b'\nTakahashi, Hideo\n\nSound Director\n\n', b'\nTsuchiya, Michihiro\n\nScript\n\n', b'\nSuenaga, Mitsuyo\n\nScript\n\n']
+animePopularity	6351
+animeDescription	"Ranma and his partner Rera run a detective agency in Giraffe City. An arranged accident leaves Rera and Ranma in an unfortunate state where the two detectives swap bodies at the stroke of midnight. With Ranma dissapearing and the beautiful Rera appearing. 
+
+(Source: ANN)"
+animeRelated	['Cinderella Boy']
+animeCharacters	['Hinamatsuri, Ranma', 'Shirayuki, Rella Cindy', 'Alice', 'Son, Tai Jin', 'Dorothy']
+animeVoices	['Koyasu, Takehito', 'Touma, Yumi', 'Inoue, Kikuko', 'Chafurin', 'Hori, Junko']
+animeStaff	[['Tominaga, Tsuneo', 'Director'], ['Takahashi, Hideo', 'Sound Director'], ['Tsuchiya, Michihiro', 'Script'], ['Suenaga, Mitsuyo', 'Script']]

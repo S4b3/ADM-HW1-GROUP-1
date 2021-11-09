@@ -1,5 +1,5 @@
-animeTitle	b'Death Parade'
-animeType	b'TV'
+animeTitle	Death Parade
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.18
 animeUsers	807275
 animeRank	
-animePopularity	
-animeDescription	"b""After death, there is no heaven or hell, only a bar that stands between reincarnation and oblivion. There the attendant will, one after another, challenge pairs of the recently deceased to a random game in which their fate of either ascending into reincarnation or falling into the void will be wagered. Whether it's bowling, darts, air hockey, or anything in between, each person's true nature will be revealed in a ghastly parade of death and memories, dancing to the whims of the bar's master. Welcome to Quindecim, where Decim, arbiter of the afterlife, awaits!\n\nDeath Parade expands upon the original one-shot intended to train young animators. It follows yet more people receiving judgment\xe2\x80\x94until a strange, black-haired guest causes Decim to begin questioning his own rulings.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Death Billiards']
-animeCharacters	[b'Decim', b'Kurokami no Onna', b'Nona', b'Clavis', b'Ginti', b'Arita, Mayu', b'Quin', b'Tatsumi', b'Castra', b'Oculus']
-animeVoices	[b'\nMaeno, Tomoaki\nJapanese\n', b'\nSeto, Asami\nJapanese\n', b'\nOokubo, Rumi\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nTanezaki, Atsumi\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTachikawa, Yuzuru\n\nDirector, Episode Director, Storyboard, Original Creator, Series Composition\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nWatanabe, Shinichiro\n\nEpisode Director\n\n', b'\nUshijima, Shinichirou\n\nEpisode Director\n\n']
+animePopularity	48
+animeDescription	"After death, there is no heaven or hell, only a bar that stands between reincarnation and oblivion. There the attendant will, one after another, challenge pairs of the recently deceased to a random game in which their fate of either ascending into reincarnation or falling into the void will be wagered. Whether it's bowling, darts, air hockey, or anything in between, each person's true nature will be revealed in a ghastly parade of death and memories, dancing to the whims of the bar's master. Welcome to Quindecim, where Decim, arbiter of the afterlife, awaits!
+
+Death Parade expands upon the original one-shot intended to train young animators. It follows yet more people receiving judgment—until a strange, black-haired guest causes Decim to begin questioning his own rulings.
+
+[Written by MAL Rewrite]"
+animeRelated	['Death Billiards']
+animeCharacters	['Decim', 'Kurokami no Onna', 'Nona', 'Clavis', 'Ginti', 'Arita, Mayu', 'Quin', 'Tatsumi', 'Castra', 'Oculus']
+animeVoices	['Maeno, Tomoaki', 'Seto, Asami', 'Ookubo, Rumi', 'Uchiyama, Kouki', 'Hosoya, Yoshimasa', 'Tanezaki, Atsumi', 'Shiraishi, Ryouko', 'Fujiwara, Keiji', 'Yuzuki, Ryouka', 'Genda, Tesshou']
+animeStaff	[['Tachikawa, Yuzuru', 'Director, Episode Director, Storyboard, Original Creator, Series Composition'], ['Motoyama, Satoshi', 'Sound Director'], ['Watanabe, Shinichiro', 'Episode Director'], ['Ushijima, Shinichirou', 'Episode Director']]

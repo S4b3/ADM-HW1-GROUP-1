@@ -1,5 +1,5 @@
-animeTitle	b'Komachi to Dangorou'
-animeType	b'ONA'
+animeTitle	Komachi to Dangorou
+animeType	ONA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.23
 animeUsers	236
 animeRank	
-animePopularity	
-animeDescription	"b""Niigata city's publicity mascot characters, Komachi Hanano and Dangorou Sasa, search for the mysterious stone that was stolen after it had fallen from the skies."""
+animePopularity	12535
+animeDescription	Niigata city's publicity mascot characters, Komachi Hanano and Dangorou Sasa, search for the mysterious stone that was stolen after it had fallen from the skies.
 animeRelated	[]
-animeCharacters	[b'Sasa, Dangorou', b'Hanano, Komachi', b'Ryuuto', b'Lip']
-animeVoices	[b'\nNomizu, Iori\nJapanese\n', b'\nNanri, Yuuka\nJapanese\n', b'\nSasakura, Yutaka\nJapanese\n', b'\nNanase, Ami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaruyama, Masao\n\nProducer\n\n', b'\nAbe, Hisashi\n\nDirector, Character Design\n\n', b'\nIshida, Yoko\n\nTheme Song Lyrics, Theme Song Performance\n\n']
+animeCharacters	['Sasa, Dangorou', 'Hanano, Komachi', 'Ryuuto', 'Lip']
+animeVoices	['Nomizu, Iori', 'Nanri, Yuuka', 'Sasakura, Yutaka', 'Nanase, Ami']
+animeStaff	[['Maruyama, Masao', 'Producer'], ['Abe, Hisashi', 'Director, Character Design'], ['Ishida, Yoko', 'Theme Song Lyrics, Theme Song Performance']]

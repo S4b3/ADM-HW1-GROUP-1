@@ -1,5 +1,5 @@
-animeTitle	b'Yume kara, Samenai'
-animeType	b'OVA'
+animeTitle	Yume kara, Samenai
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.59
 animeUsers	483
 animeRank	
-animePopularity	
-animeDescription	b'Student Takao is inexorably drawn toward Sao despite class rumors that she has appeared in a porno movie.\n\n(Source: AniDB)'
+animePopularity	10478
+animeDescription	"Student Takao is inexorably drawn toward Sao despite class rumors that she has appeared in a porno movie.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Fujii, Takao', b'Kawamura', b'Teacher', b'Kawahara, Sunao', b'Amagase, Koyuki']
-animeVoices	[b'\nSasaki, Nozomu\nJapanese\n', b'\nYamazaki, Tetsuya\nJapanese\n', b'\nOotaki, Shinya\nJapanese\n', b'\nSano, Ryouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nInoue, Osamu\n\nDirector, Episode Director, Storyboard\n\n', b'\nSano, Ryouko\n\nTheme Song Performance\n\n']
+animeCharacters	['Fujii, Takao', 'Kawamura', 'Teacher', 'Kawahara, Sunao', 'Amagase, Koyuki']
+animeVoices	['Sasaki, Nozomu', 'Yamazaki, Tetsuya', 'Ootaki, Shinya', 'Sano, Ryouko']
+animeStaff	[['Inoue, Osamu', 'Director, Episode Director, Storyboard'], ['Sano, Ryouko', 'Theme Song Performance']]

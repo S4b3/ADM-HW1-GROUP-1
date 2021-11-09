@@ -1,5 +1,5 @@
-animeTitle	b'Stitch!'
-animeType	b'TV'
+animeTitle	Stitch!
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.09
 animeUsers	1868
 animeRank	
-animePopularity	
-animeDescription	"b""A spin-off series of Disney's Lilo & Stitch. \n\nIn the new story, the alien creature Stitch is running off on the mad scientist Jumba's space scooter when he gets caught in a space storm and has to make an emergency landing at Izayoi Island, the southermost tip of Japan. There, he meets Yuuna, a spirited fourth-grade girl who happens to know karate. Yuuna tells Stitch about the Stone of Chitama, a mysterious object that can make any wish come true. However, he has to perform 43 good deeds to receive his wish. \n\n(Source: ANN)"""
-animeRelated	[b'Stitch!: Piko Kara no Chousenjou', b'Disney Tsum Tsum', b'An Ling Yu Shi Di Qi']
-animeCharacters	[b'Stitch', b'Yuuna', b'Jookiba, Jumba', b'Angel', b'Hamsterviel, Jacques von', b'Pelekai, Lilo ', b'Kijimuna', b'Pleakley', b'Obaa']
-animeVoices	[b'\nYamadera, Kouichi\nJapanese\n', b'\nKumai, Motoko\nJapanese\n', b'\nIizuka, Shouzou\nJapanese\n', b'\nTakeda, Madoka\nJapanese\n', b'\nYanaka, Hiroshi\nJapanese\n', b'\nMitsuya, Yuuji\nJapanese\n', b'\nKyouda, Hisako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHata, Masami\n\nDirector\n\n', b'\nShimizu, Youji\n\nSound Director\n\n', b'\nEndou, Takuji\n\nEpisode Director, Assistant Director\n\n', b'\nMachida, Touko\n\nScript\n\n']
+animePopularity	6829
+animeDescription	"A spin-off series of Disney's Lilo & Stitch. 
+
+In the new story, the alien creature Stitch is running off on the mad scientist Jumba's space scooter when he gets caught in a space storm and has to make an emergency landing at Izayoi Island, the southermost tip of Japan. There, he meets Yuuna, a spirited fourth-grade girl who happens to know karate. Yuuna tells Stitch about the Stone of Chitama, a mysterious object that can make any wish come true. However, he has to perform 43 good deeds to receive his wish. 
+
+(Source: ANN)"
+animeRelated	['Stitch!: Piko Kara no Chousenjou', 'Disney Tsum Tsum', 'An Ling Yu Shi Di Qi']
+animeCharacters	['Stitch', 'Yuuna', 'Jookiba, Jumba', 'Angel', 'Hamsterviel, Jacques von', 'Pelekai, Lilo ', 'Kijimuna', 'Pleakley', 'Obaa']
+animeVoices	['Yamadera, Kouichi', 'Kumai, Motoko', 'Iizuka, Shouzou', 'Takeda, Madoka', 'Yanaka, Hiroshi', 'Mitsuya, Yuuji', 'Kyouda, Hisako']
+animeStaff	[['Hata, Masami', 'Director'], ['Shimizu, Youji', 'Sound Director'], ['Endou, Takuji', 'Episode Director, Assistant Director'], ['Machida, Touko', 'Script']]

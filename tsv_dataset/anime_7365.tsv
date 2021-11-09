@@ -1,5 +1,5 @@
-animeTitle	b'12-sai.'
-animeType	b'OVA'
+animeTitle	12-sai.
+animeType	OVA
 animeNumEpisode	8
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.26
 animeUsers	4066
 animeRank	
-animePopularity	
-animeDescription	"b""The story begins with Hanabi, a sixth-grade girl who is neither an adult nor a child. She deals with issues such as accidentally witnessing her homeroom teacher kissing, and worrying about experiencing physiological changes before her friends. The manga depicts a 12-year-old girl's innocent worries and first love.\n\n(Source: ANN) """
-animeRelated	[b'12-sai.', b'12-sai. 2nd Season', b'12-sai.: Chicchana Mune no Tokimeki']
-animeCharacters	[b'Hiyama, Kazuma', b'Ayase, Hanabi', b'Takao, Yuuto', b'Aoi, Yui', b'Tsutsumi, Ayumu', b'Ogura, Marin', b'Hamana, Kokoa', b'Mikami, Inaba', b'Eikou']
-animeVoices	[b'\nIguchi, Yuuichi\nJapanese\n', b'\nKakuma, Ai\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nHaruno, Nanami\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nMakiguchi, Mayuki\nJapanese\n', b'\nHara, Sayuri\nJapanese\n', b'\nTamaru, Atsushi\nJapanese\n', b'\nWatanabe, Takumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkuwaki, Masaharu\n\nDirector\n\n', b'\nMaita, Nao\n\nOriginal Creator\n\n', b'\nOono, Kayoko\n\nColor Design\n\n', b'\nTsubouchi, Hiroki\n\nDirector of Photography\n\n']
+animePopularity	4846
+animeDescription	"The story begins with Hanabi, a sixth-grade girl who is neither an adult nor a child. She deals with issues such as accidentally witnessing her homeroom teacher kissing, and worrying about experiencing physiological changes before her friends. The manga depicts a 12-year-old girl's innocent worries and first love.
+
+(Source: ANN) "
+animeRelated	['12-sai.', '12-sai. 2nd Season', '12-sai.: Chicchana Mune no Tokimeki']
+animeCharacters	['Hiyama, Kazuma', 'Ayase, Hanabi', 'Takao, Yuuto', 'Aoi, Yui', 'Tsutsumi, Ayumu', 'Ogura, Marin', 'Hamana, Kokoa', 'Mikami, Inaba', 'Eikou']
+animeVoices	['Iguchi, Yuuichi', 'Kakuma, Ai', 'Saitou, Souma', 'Haruno, Nanami', 'Kakihara, Tetsuya', 'Makiguchi, Mayuki', 'Hara, Sayuri', 'Tamaru, Atsushi', 'Watanabe, Takumi']
+animeStaff	[['Okuwaki, Masaharu', 'Director'], ['Maita, Nao', 'Original Creator'], ['Oono, Kayoko', 'Color Design'], ['Tsubouchi, Hiroki', 'Director of Photography']]

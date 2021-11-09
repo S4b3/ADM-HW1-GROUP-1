@@ -1,5 +1,5 @@
-animeTitle	b'Slayers Revolution'
-animeType	b'TV'
+animeTitle	Slayers Revolution
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.27
 animeUsers	16640
 animeRank	
-animePopularity	
-animeDescription	"b""Having lost the Sword of Light in the previous battle, Lina and Gourry continue their journey in search of a replacement weapon. On the way, the two of them meet up with Amelia and Zelgadis in the kingdom of Luvinagard while taunting some pirates. Lina is happy to reunite with her old friends, but appearing before her is Luvinagard's Inspector of the Special Investigative Unit; a man called Wizer. However, Lina is amazed at his unusual behavior... \n\n(Source: ANN)"""
-animeRelated	[b'Slayers Revolution', b'Slayers Try', b'Slayers Evolution-R']
-animeCharacters	[b'Inverse, Lina', b'Graywords, Zelgadis', b'Gabriev, Gourry', b'Saillune, Amelia Wil Tesla', b'Pokota', b'Xellos', b'Nels Laada, Sylphiel', b'Rezo', b'El Di Saillune, Philionel', b'Ozzel']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nSuzuki, Masami\nJapanese\n', b'\nKobayashi, Yumiko\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nInaba, Minoru\nJapanese\n', b'\nKimura, Haruka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Takashi\n\nDirector, Storyboard\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nTakashima, Daisuke\n\nEpisode Director\n\n', b'\nShiraishi, Michita\n\nEpisode Director\n\n']
+animePopularity	3070
+animeDescription	"Having lost the Sword of Light in the previous battle, Lina and Gourry continue their journey in search of a replacement weapon. On the way, the two of them meet up with Amelia and Zelgadis in the kingdom of Luvinagard while taunting some pirates. Lina is happy to reunite with her old friends, but appearing before her is Luvinagard's Inspector of the Special Investigative Unit; a man called Wizer. However, Lina is amazed at his unusual behavior... 
+
+(Source: ANN)"
+animeRelated	['Slayers Revolution', 'Slayers Try', 'Slayers Evolution-R']
+animeCharacters	['Inverse, Lina', 'Graywords, Zelgadis', 'Gabriev, Gourry', 'Saillune, Amelia Wil Tesla', 'Pokota', 'Xellos', 'Nels Laada, Sylphiel', 'Rezo', 'El Di Saillune, Philionel', 'Ozzel']
+animeVoices	['Hayashibara, Megumi', 'Midorikawa, Hikaru', 'Matsumoto, Yasunori', 'Suzuki, Masami', 'Kobayashi, Yumiko', 'Ishida, Akira', 'Touma, Yumi', 'Koyasu, Takehito', 'Inaba, Minoru', 'Kimura, Haruka']
+animeStaff	[['Watanabe, Takashi', 'Director, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Takashima, Daisuke', 'Episode Director'], ['Shiraishi, Michita', 'Episode Director']]

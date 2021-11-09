@@ -1,5 +1,5 @@
-animeTitle	b'Totsukuni no Shoujo OVA'
-animeType	b'OVA'
+animeTitle	Totsukuni no Shoujo OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""OVA bundled with the special edition of the manga's side story."""
-animeRelated	[b'Totsukuni no Shoujo']
-animeCharacters	[b'Sensei', b'Shiva']
-animeVoices	[b'\nFukuyama, Jun\nJapanese\n', b'\nTakahashi, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKubo, Yuutarou\n\nDirector, Script, Character Design\n\n', b'\nMaiya, Satomi\n\nDirector, Script, Character Design\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nNagabe\n\nOriginal Creator\n\n']
+animePopularity	5697
+animeDescription	OVA bundled with the special edition of the manga's side story.
+animeRelated	['Totsukuni no Shoujo']
+animeCharacters	['Sensei', 'Shiva']
+animeVoices	['Fukuyama, Jun', 'Takahashi, Rie']
+animeStaff	[['Kubo, Yuutarou', 'Director, Script, Character Design'], ['Maiya, Satomi', 'Director, Script, Character Design'], ['Hata, Shouji', 'Sound Director'], ['Nagabe', 'Original Creator']]

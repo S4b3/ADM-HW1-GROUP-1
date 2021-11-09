@@ -1,5 +1,5 @@
-animeTitle	b'Aldnoah.Zero'
-animeType	b'TV'
+animeTitle	Aldnoah.Zero
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.41
 animeUsers	254445
 animeRank	
-animePopularity	
-animeDescription	"b'The discovery of a hypergate on the Moon once allowed the human race to teleport to Mars. Those who chose to settle there unearthed a technology far more advanced than that of their home planet, which they named ""Aldnoah."" This discovery led to the founding of the Vers Empire of Mars and a declaration of war against the ""Terrans,"" those who stayed behind on Earth. However, a battle on the moon\xe2\x80\x94later called ""Heaven\'s Fall""\xe2\x80\x94caused the hypergate to explode, destroying the moon and leading the two planets to establish an uneasy ceasefire.\n\nTheir peace was a fragile one, however. Fifteen years later, high school student Inaho Kaizuka witnesses the plotted assassination of the Vers Empire\'s Princess Asseylum Vers Allusia, who had come to Earth in hopes of repairing the relationship between the empire and its homeland. The ceasefire is shattered, and the Martians declare war on the Terrans once again. In the face of this insurmountable enemy, Inaho and his friends must now fight against the Vers Empire to settle the war once and for all.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Aldnoah.Zero', b'Aldnoah.Zero 2nd Season', b'Aldnoah.Zero Extra Archives']
-animeCharacters	[b'Kaizuka, Inaho', b'Troyard, Slaine', b'Vers Allusia, Asseylum', b'Amifumi, Inko', b'Kaizuka, Yuki', b'Areash, Rayet', b'Marito, Kouichirou', b'Magbaredge, Darzana', b'Saazbaum', b'Cruhteo']
-animeVoices	[b'\nHanae, Natsuki\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nAmamiya, Sora\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nMisawa, Sachika\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n', b'\nHayami, Show\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKurosaki, Shizuka\n\nProducer\n\n', b'\nAoki, Ei\n\nDirector, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nKatou, Makoto\n\nEpisode Director, Storyboard\n\n']
+animePopularity	349
+animeDescription	"The discovery of a hypergate on the Moon once allowed the human race to teleport to Mars. Those who chose to settle there unearthed a technology far more advanced than that of their home planet, which they named ""Aldnoah."" This discovery led to the founding of the Vers Empire of Mars and a declaration of war against the ""Terrans,"" those who stayed behind on Earth. However, a battle on the moon—later called ""Heaven's Fall""—caused the hypergate to explode, destroying the moon and leading the two planets to establish an uneasy ceasefire.
+
+Their peace was a fragile one, however. Fifteen years later, high school student Inaho Kaizuka witnesses the plotted assassination of the Vers Empire's Princess Asseylum Vers Allusia, who had come to Earth in hopes of repairing the relationship between the empire and its homeland. The ceasefire is shattered, and the Martians declare war on the Terrans once again. In the face of this insurmountable enemy, Inaho and his friends must now fight against the Vers Empire to settle the war once and for all.
+
+[Written by MAL Rewrite]"
+animeRelated	['Aldnoah.Zero', 'Aldnoah.Zero 2nd Season', 'Aldnoah.Zero Extra Archives']
+animeCharacters	['Kaizuka, Inaho', 'Troyard, Slaine', 'Vers Allusia, Asseylum', 'Amifumi, Inko', 'Kaizuka, Yuki', 'Areash, Rayet', 'Marito, Kouichirou', 'Magbaredge, Darzana', 'Saazbaum', 'Cruhteo']
+animeVoices	['Hanae, Natsuki', 'Ono, Kensho', 'Amamiya, Sora', 'Komatsu, Mikako', 'Ohara, Sayaka', 'Misawa, Sachika', 'Nakai, Kazuya', 'Kayano, Ai', 'Ookawa, Tooru', 'Hayami, Show']
+animeStaff	[['Kurosaki, Shizuka', 'Producer'], ['Aoki, Ei', 'Director, Storyboard'], ['Aketagawa, Jin', 'Sound Director'], ['Katou, Makoto', 'Episode Director, Storyboard']]

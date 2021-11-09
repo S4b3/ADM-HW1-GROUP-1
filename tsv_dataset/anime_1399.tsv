@@ -1,5 +1,5 @@
-animeTitle	b'Wakakusa Monogatari: Nan to Jo-sensei'
-animeType	b'TV'
+animeTitle	Wakakusa Monogatari: Nan to Jo-sensei
+animeType	TV
 animeNumEpisode	40
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.57
 animeUsers	2193
 animeRank	
-animePopularity	
-animeDescription	"b""Nan Harding is the new student at Mr. and Mrs. Bhaer's school. Everyone thinks that she is a pain in the head, but not Mrs. Jo. Together with the other kids, they all embark on their personal adventures and misfortunes while learning in school. \n\n(Source: ANN)"""
-animeRelated	[b'Ai no Wakakusa Monogatari', b'Wakakusa Monogatari: Nan to Jo-sensei Specials']
-animeCharacters	[b'March, Josephine', b'Harding, Annie', b'Kean, Dan', b'Bangs, Tommy', b'Laurence, Theodore ', b'Brooke, John', b'Silas', b'Bhaer, Robb', b'Hoffman, Emil', b'Page']
-animeVoices	[b'\nYamada, Eiko\nJapanese\n', b'\nMatsukura, Hazuru\nJapanese\n', b'\nCanna, Nobutoshi\nJapanese\n', b'\nTakayama, Minami\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nKojima, Toshihiko\nJapanese\n', b'\nSaikachi, Ryuuji\nJapanese\n', b'\nFuchizaki, Yuriko\nJapanese\n', b'\nYuuki, Hiro\nJapanese\n', b'\nIshimori, Takkou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKusuba, Kouzou\n\nDirector\n\n', b'\nSokuza, Makoto\n\nEpisode Director, Storyboard\n\n', b'\nNakanishi, Nobuaki\n\nEpisode Director, Storyboard\n\n', b'\nKaga, Tsuyoshi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	6734
+animeDescription	"Nan Harding is the new student at Mr. and Mrs. Bhaer's school. Everyone thinks that she is a pain in the head, but not Mrs. Jo. Together with the other kids, they all embark on their personal adventures and misfortunes while learning in school. 
+
+(Source: ANN)"
+animeRelated	['Ai no Wakakusa Monogatari', 'Wakakusa Monogatari: Nan to Jo-sensei Specials']
+animeCharacters	['March, Josephine', 'Harding, Annie', 'Kean, Dan', 'Bangs, Tommy', 'Laurence, Theodore ', 'Brooke, John', 'Silas', 'Bhaer, Robb', 'Hoffman, Emil', 'Page']
+animeVoices	['Yamada, Eiko', 'Matsukura, Hazuru', 'Canna, Nobutoshi', 'Takayama, Minami', 'Tobita, Nobuo', 'Kojima, Toshihiko', 'Saikachi, Ryuuji', 'Fuchizaki, Yuriko', 'Yuuki, Hiro', 'Ishimori, Takkou']
+animeStaff	[['Kusuba, Kouzou', 'Director'], ['Sokuza, Makoto', 'Episode Director, Storyboard'], ['Nakanishi, Nobuaki', 'Episode Director, Storyboard'], ['Kaga, Tsuyoshi', 'Episode Director, Storyboard']]

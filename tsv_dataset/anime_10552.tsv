@@ -1,5 +1,5 @@
-animeTitle	b'Mini Moni the TV'
-animeType	b'TV'
+animeTitle	Mini Moni the TV
+animeType	TV
 animeNumEpisode	15
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.44
 animeUsers	219
 animeRank	
-animePopularity	
-animeDescription	b'The J-pop group Mini Moni has opened a cheerful little cake shop. Leader Mika-chan struggles to keep Aibon and Nono from causing trouble, all the while teaching new member Ai-chan the ropes. Regular customers include lively flower shop owner Yaguchi-san, and her flight attendant friend Gocchin, who is constantly trying to impress everyone with her non-existent knowledge of the places she claims her job has taken her.\n\n(Source: ANN)'
-animeRelated	[b'Mini Moni Yaru no da Pyon!']
-animeCharacters	[b'Tsuji, Nozomi', b'Mika-chan', b'Ai-chan', b'Aibon', b'Yaguchi, Mari', b'Gocchin']
-animeVoices	[b'\nTsuji, Nozomi\nJapanese\n', b'\nTodd, Mika\nJapanese\n', b'\nTakahashi, Ai\nJapanese\n', b'\nKago, Ai\nJapanese\n', b'\nYaguchi, Mari\nJapanese\n']
+animePopularity	12654
+animeDescription	"The J-pop group Mini Moni has opened a cheerful little cake shop. Leader Mika-chan struggles to keep Aibon and Nono from causing trouble, all the while teaching new member Ai-chan the ropes. Regular customers include lively flower shop owner Yaguchi-san, and her flight attendant friend Gocchin, who is constantly trying to impress everyone with her non-existent knowledge of the places she claims her job has taken her.
+
+(Source: ANN)"
+animeRelated	['Mini Moni Yaru no da Pyon!']
+animeCharacters	['Tsuji, Nozomi', 'Mika-chan', 'Ai-chan', 'Aibon', 'Yaguchi, Mari', 'Gocchin']
+animeVoices	['Tsuji, Nozomi', 'Todd, Mika', 'Takahashi, Ai', 'Kago, Ai', 'Yaguchi, Mari']
 animeStaff	[]

@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam MS IGLOO: The Hidden One Year War'
-animeType	b'OVA'
+animeTitle	Mobile Suit Gundam MS IGLOO: The Hidden One Year War
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.64
 animeUsers	6787
 animeRank	
-animePopularity	
-animeDescription	b'The year is Universal Century 0079. Oliver May is a technical officer in the Zeon 603rd Technical Evaluation Unit , in charge of testing new military technology. Stationed in the Jotunheim, a civilian transport ship that was converted into military use, Oliver must head into battle and experience the One Year War, only this time from the perspective of a weapon tester who struggles to make an impact on an evolving war during changing times. \n\n(Source: ANN)'
-animeRelated	[b'Mobile Suit Gundam', b'Mobile Suit Gundam MS IGLOO: Apocalypse 0079']
-animeCharacters	[b'Kruger, Ehrlich', b'May, Oliver', b'Cadillac, Monique', b'Hemme, Aleksandro', b'Washiya, Hideto', b'Prochnow, Martin', b'Aznable, Char', b'Schacht, Albert', b'Luc Duvall, Jean', b'Sonnen, Demeziere']
-animeVoices	[b'\nIshikawa, Hideo\nJapanese\n', b'\nNagasawa, Miki\nJapanese\n', b'\nHouki, Katsuhisa\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nIizuka, Shouzou\nJapanese\n', b'\nOoki, Tamio\nJapanese\n', b'\nHashi, Takaya\nJapanese\n', b'\nAmada, Masuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Hajime\n\nProducer\n\n', b'\nImanishi, Takashi\n\nProducer, Director, Script\n\n', b'\nFujino, Sadayoshi\n\nSound Director\n\n', b'\nTaja\n\nTheme Song Performance\n\n']
+animePopularity	4675
+animeDescription	"The year is Universal Century 0079. Oliver May is a technical officer in the Zeon 603rd Technical Evaluation Unit , in charge of testing new military technology. Stationed in the Jotunheim, a civilian transport ship that was converted into military use, Oliver must head into battle and experience the One Year War, only this time from the perspective of a weapon tester who struggles to make an impact on an evolving war during changing times. 
+
+(Source: ANN)"
+animeRelated	['Mobile Suit Gundam', 'Mobile Suit Gundam MS IGLOO: Apocalypse 0079']
+animeCharacters	['Kruger, Ehrlich', 'May, Oliver', 'Cadillac, Monique', 'Hemme, Aleksandro', 'Washiya, Hideto', 'Prochnow, Martin', 'Aznable, Char', 'Schacht, Albert', 'Luc Duvall, Jean', 'Sonnen, Demeziere']
+animeVoices	['Ishikawa, Hideo', 'Nagasawa, Miki', 'Houki, Katsuhisa', 'Fukuyama, Jun', 'Iizuka, Shouzou', 'Ooki, Tamio', 'Hashi, Takaya', 'Amada, Masuo']
+animeStaff	[['Yatate, Hajime', 'Producer'], ['Imanishi, Takashi', 'Producer, Director, Script'], ['Fujino, Sadayoshi', 'Sound Director'], ['Taja', 'Theme Song Performance']]

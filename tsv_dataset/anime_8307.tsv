@@ -1,5 +1,5 @@
-animeTitle	b'Tokimeki Memorial 4 OVA'
-animeType	b'OVA'
+animeTitle	Tokimeki Memorial 4 OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.08
 animeUsers	622
 animeRank	
-animePopularity	
-animeDescription	b'OVA added to new PSP game Tokimeki Memorial 4.'
+animePopularity	9487
+animeDescription	OVA added to new PSP game Tokimeki Memorial 4.
 animeRelated	[]
-animeCharacters	[b'Kobayashi, Manabu', b'Yanagi, Fumiko', b'Godou, Tsugumi', b'Nanakawa, Tadashi', b'Ryuukouji, Kai', b'Naruse, Elisa Dolittle', b'Ookura, Miyako', b'Kyouno, Rhythmy', b'Hoshikawa, Maki', b'Nanakawa, Rui']
-animeVoices	[b'\nSakaguchi, Daisuke\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nMatsuura, Chie\nJapanese\n', b'\nTateno, Kanako\nJapanese\n', b'\nFukuen, Misato\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nOogame, Asuka\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHanyuu, Naoyasu\n\nDirector\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nHayakawa, Naomi\n\nAssistant Animation Director\n\n', b'\nNomura, Masanobu\n\nArt Director\n\n']
+animeCharacters	['Kobayashi, Manabu', 'Yanagi, Fumiko', 'Godou, Tsugumi', 'Nanakawa, Tadashi', 'Ryuukouji, Kai', 'Naruse, Elisa Dolittle', 'Ookura, Miyako', 'Kyouno, Rhythmy', 'Hoshikawa, Maki', 'Nanakawa, Rui']
+animeVoices	['Sakaguchi, Daisuke', 'Iguchi, Yuka', 'Yahagi, Sayuri', 'Nakamura, Yuuichi', 'Matsuura, Chie', 'Tateno, Kanako', 'Fukuen, Misato', 'Hanazawa, Kana', 'Oogame, Asuka', 'Mizuhashi, Kaori']
+animeStaff	[['Hanyuu, Naoyasu', 'Director'], ['Iida, Satoki', 'Sound Director'], ['Hayakawa, Naomi', 'Assistant Animation Director'], ['Nomura, Masanobu', 'Art Director']]

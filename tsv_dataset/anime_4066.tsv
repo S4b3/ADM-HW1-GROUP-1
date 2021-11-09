@@ -1,5 +1,5 @@
-animeTitle	b'Andersen Douwa: Ningyohime'
-animeType	b'Movie'
+animeTitle	Andersen Douwa: Ningyohime
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.93
 animeUsers	2173
 animeRank	
-animePopularity	
-animeDescription	b'Marina, the most beautiful mermaid in the royal Merman family, is curious about the human world. One day, she sees a handsome prince on a boat. Suddenly, a storm comes up, throwing him into the sea. Marina saves her handsome prince and guides him to the shore. Marina falls deeply in love and desperately wants to become a human. Despite the hazards, she is willing to risk it all for love.\n\n(Source: ANN) '
+animePopularity	7180
+animeDescription	"Marina, the most beautiful mermaid in the royal Merman family, is curious about the human world. One day, she sees a handsome prince on a boat. Suddenly, a storm comes up, throwing him into the sea. Marina saves her handsome prince and guides him to the shore. Marina falls deeply in love and desperately wants to become a human. Despite the hazards, she is willing to risk it all for love.
+
+(Source: ANN) "
 animeRelated	[]
-animeCharacters	[b'Marina', b'Fritz', b'Fjord', b'Queen Mother of the Seas', b'King of the Seas', b'Princess of Suomi', b'Witch']
-animeVoices	[b'\nKashiyama, Fumie\nJapanese\n', b'\nMiyagi, Mariko\nJapanese\n', b'\nShigaki, Taro\nJapanese\n', b'\nAsou, Miyoko\nJapanese\n', b'\nShibata, Hidekatsu\nJapanese\n', b'\nYoshida, Rihoko\nJapanese\n', b'\nKitahama, Haruko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKatsumata, Tomoharu\n\nDirector\n\n', b'\nOosugi, Kumiko\n\nTheme Song Performance\n\n', b'\nAraki, Shingo\n\nKey Animation, Character Design\n\n', b'\nAndersen, Hans Christian\n\nOriginal Creator\n\n']
+animeCharacters	['Marina', 'Fritz', 'Fjord', 'Queen Mother of the Seas', 'King of the Seas', 'Princess of Suomi', 'Witch']
+animeVoices	['Kashiyama, Fumie', 'Miyagi, Mariko', 'Shigaki, Taro', 'Asou, Miyoko', 'Shibata, Hidekatsu', 'Yoshida, Rihoko', 'Kitahama, Haruko']
+animeStaff	[['Katsumata, Tomoharu', 'Director'], ['Oosugi, Kumiko', 'Theme Song Performance'], ['Araki, Shingo', 'Key Animation, Character Design'], ['Andersen, Hans Christian', 'Original Creator']]

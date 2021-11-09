@@ -1,5 +1,5 @@
-animeTitle	b'Anime Tenchou Movie'
-animeType	b'Special'
+animeTitle	Anime Tenchou Movie
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.61
 animeUsers	695
 animeRank	
-animePopularity	
-animeDescription	b'A project made to celebrate the 10th anniversary of the Animate mascot character Anime Tenchou, screened at the Animate Ichioshi Bishoujo Matsuri event in Tokyo.\n\n(Source: AniDB)'
-animeRelated	[b'Anime Tenchou', b'Anime Tenchou x Touhou Project']
-animeCharacters	[b'Anizawa, Meito']
+animePopularity	9038
+animeDescription	"A project made to celebrate the 10th anniversary of the Animate mascot character Anime Tenchou, screened at the Animate Ichioshi Bishoujo Matsuri event in Tokyo.
+
+(Source: AniDB)"
+animeRelated	['Anime Tenchou', 'Anime Tenchou x Touhou Project']
+animeCharacters	['Anizawa, Meito']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimamoto, Kazuhiko\n\nOriginal Creator\n\n']
+animeStaff	[['Shimamoto, Kazuhiko', 'Original Creator']]

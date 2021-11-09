@@ -1,5 +1,5 @@
-animeTitle	b'Digimon Adventure: Bokura no War Game!'
-animeType	b'Movie'
+animeTitle	Digimon Adventure: Bokura no War Game!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.77
 animeUsers	42386
 animeRank	
-animePopularity	
-animeDescription	"b""This movie takes place after the Adventure series ends. It begins when a new Digimon Egg is found on the internet, and manages to penetrate into almost every computer system in Japan. When the egg hatches, it's identified as a new kind of Digimon, a Virus-type. It sustains itself by eating data from various system, and starts wreaking havok in Japan. As it consumes more and more data, it continues to evolve. And Taichi and Koushiro decide it's time to stop it.\n\nThey're off, sending Agumon and Tentomon through the internet to fight off this new enemy. But, with the Virus controlling systems like the American military, all too soon, this digital menace may become all too real. Calling in the help of Yamato and Takeru, they hope that they can stop what's already begun, and maybe save this world a second time.\n\n(Source: AniDB)"""
-animeRelated	[b'Digimon Adventure', b'Digimon Adventure 02']
-animeCharacters	[b'Yagami, Taichi', b'Ishida, Yamato', b'Agumon', b'Izumi, Koushirou', b'Gabumon', b'Omegamon', b'Tentomon', b'Yagami, Hikari', b'Takaishi, Takeru', b'Tachikawa, Mimi']
-animeVoices	[b'\nFujita, Toshiko\nJapanese\n', b'\nKazama, Yuuto\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n', b'\nTenjin, Umi\nJapanese\n', b'\nYamaguchi, Mayumi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nAraki, Kae\nJapanese\n', b'\nKonishi, Hiroko\nJapanese\n', b'\nMaeda, Ai\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSeki, Hiromi\n\nProducer\n\n', b'\nHosoda, Mamoru\n\nDirector\n\n', b'\nYoshida, Reiko\n\nScript, Screenplay\n\n', b'\nWada, Koji\n\nTheme Song Performance\n\n']
+animePopularity	2082
+animeDescription	"This movie takes place after the Adventure series ends. It begins when a new Digimon Egg is found on the internet, and manages to penetrate into almost every computer system in Japan. When the egg hatches, it's identified as a new kind of Digimon, a Virus-type. It sustains itself by eating data from various system, and starts wreaking havok in Japan. As it consumes more and more data, it continues to evolve. And Taichi and Koushiro decide it's time to stop it.
+
+They're off, sending Agumon and Tentomon through the internet to fight off this new enemy. But, with the Virus controlling systems like the American military, all too soon, this digital menace may become all too real. Calling in the help of Yamato and Takeru, they hope that they can stop what's already begun, and maybe save this world a second time.
+
+(Source: AniDB)"
+animeRelated	['Digimon Adventure', 'Digimon Adventure 02']
+animeCharacters	['Yagami, Taichi', 'Ishida, Yamato', 'Agumon', 'Izumi, Koushirou', 'Gabumon', 'Omegamon', 'Tentomon', 'Yagami, Hikari', 'Takaishi, Takeru', 'Tachikawa, Mimi']
+animeVoices	['Fujita, Toshiko', 'Kazama, Yuuto', 'Sakamoto, Chika', 'Tenjin, Umi', 'Yamaguchi, Mayumi', 'Sakurai, Takahiro', 'Araki, Kae', 'Konishi, Hiroko', 'Maeda, Ai']
+animeStaff	[['Seki, Hiromi', 'Producer'], ['Hosoda, Mamoru', 'Director'], ['Yoshida, Reiko', 'Script, Screenplay'], ['Wada, Koji', 'Theme Song Performance']]

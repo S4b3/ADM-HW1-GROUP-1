@@ -1,5 +1,5 @@
-animeTitle	b'Nana Toshi Monogatari: Hokkyokukai Sensen'
-animeType	b'OVA'
+animeTitle	Nana Toshi Monogatari: Hokkyokukai Sensen
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.24
 animeUsers	771
 animeRank	
-animePopularity	
-animeDescription	"b""In 2099, Earth has shifted off its axis and begins to rotate at an angle of 90% to the 20th-century equator. Three years of natural disasters follows, and when things settle down, Earth's ten billion population has died and only two million moon colonists remain.\n\nSome return to begin the repopulation of the world in seven new cities and the remaining colonists of the moon fear that their former neighbors might pose a threat and construct a ring of defensive satellites to trap them on the newly repopulated homeworld.\n\n(Source: AniDB)"""
-animeRelated	[b'Nana Toshi Monogatari']
-animeCharacters	[b'Guilford, Kenneth', b'Aswaer, Almarick', b'Long, Shang', b'Chamberlain', b'Bloom, Nicholas', b'Morbridge Jr., Charles Corrin', b'Marine', b'Wei, Liu']
-animeVoices	[b'\nOotsuka, Akio\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nUmezu, Hideyuki\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKanbe, Mamoru\n\nDirector\n\n', b'\nYamada, Etsuji\n\nSound Director\n\n', b'\nTanaka, Yoshiki\n\nOriginal Creator\n\n', b'\nMiyazawa, Yasunori\n\nLayout, Key Animation\n\n']
+animePopularity	9233
+animeDescription	"In 2099, Earth has shifted off its axis and begins to rotate at an angle of 90% to the 20th-century equator. Three years of natural disasters follows, and when things settle down, Earth's ten billion population has died and only two million moon colonists remain.
+
+Some return to begin the repopulation of the world in seven new cities and the remaining colonists of the moon fear that their former neighbors might pose a threat and construct a ring of defensive satellites to trap them on the newly repopulated homeworld.
+
+(Source: AniDB)"
+animeRelated	['Nana Toshi Monogatari']
+animeCharacters	['Guilford, Kenneth', 'Aswaer, Almarick', 'Long, Shang', 'Chamberlain', 'Bloom, Nicholas', 'Morbridge Jr., Charles Corrin', 'Marine', 'Wei, Liu']
+animeVoices	['Ootsuka, Akio', 'Yamadera, Kouichi', 'Umezu, Hideyuki', 'Inoue, Kikuko', 'Okiayu, Ryoutarou', 'Yao, Kazuki', 'Hisakawa, Aya', 'Horikawa, Ryo']
+animeStaff	[['Kanbe, Mamoru', 'Director'], ['Yamada, Etsuji', 'Sound Director'], ['Tanaka, Yoshiki', 'Original Creator'], ['Miyazawa, Yasunori', 'Layout, Key Animation']]

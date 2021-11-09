@@ -1,5 +1,5 @@
-animeTitle	b'Chijoku Shinsatsushitsu'
-animeType	b'OVA'
+animeTitle	Chijoku Shinsatsushitsu
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.22
 animeUsers	1801
 animeRank	
-animePopularity	
-animeDescription	"b'Dr. Shinji Ishida is a doctor working at a hospital on the brink of ruin. People have heard that this doctor has brought many hospitals back from financial ruin, however his methods are what you might say ""unorthodox."" After his sessions the patients can\'t seem to get enough of being treated by him which naturally causes the hospital to be full of money again.\n\n(Source: ANN)'"
-animeRelated	[b'Chijoku Shinsatsushitsu']
-animeCharacters	[b'Shirakawa, Kyouko', b'Nagatsuka, Honoka']
-animeVoices	[b'\nHonma, Yukari\nJapanese\n', b'\nRikimaru, Noriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAtelier Kaguya\n\nOriginal Creator\n\n', b'\nChoco-Chip\n\nOriginal Character Design\n\n', b'\nTayama, Mamito\n\nKey Animation\n\n']
+animePopularity	6973
+animeDescription	"Dr. Shinji Ishida is a doctor working at a hospital on the brink of ruin. People have heard that this doctor has brought many hospitals back from financial ruin, however his methods are what you might say ""unorthodox."" After his sessions the patients can't seem to get enough of being treated by him which naturally causes the hospital to be full of money again.
+
+(Source: ANN)"
+animeRelated	['Chijoku Shinsatsushitsu']
+animeCharacters	['Shirakawa, Kyouko', 'Nagatsuka, Honoka']
+animeVoices	['Honma, Yukari', 'Rikimaru, Noriko']
+animeStaff	[['Atelier Kaguya', 'Original Creator'], ['Choco-Chip', 'Original Character Design'], ['Tayama, Mamito', 'Key Animation']]

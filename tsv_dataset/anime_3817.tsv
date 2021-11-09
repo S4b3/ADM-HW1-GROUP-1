@@ -1,5 +1,5 @@
-animeTitle	b'Supernatural The Animation'
-animeType	b'OVA'
+animeTitle	Supernatural The Animation
+animeType	OVA
 animeNumEpisode	22
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	7.0
 animeUsers	8023
 animeRank	
-animePopularity	
-animeDescription	"b""Monsters walk the earth. While some may refute their existence as myths or urban legends, the Winchester brothers\xe2\x80\x94Sam and Dean\xe2\x80\x94know all too well what dangers lurk out there in the dark. Driving around in their 1967 Chevrolet Impala, these brothers have made it their life's mission to destroy anything supernatural that would threaten human lives.\n\nFrom shapeshifters to werewolves, vampires, ghosts, and even demons, the Winchesters track down and kill every evil being they can find, while also searching for the creature that caused them so much personal tragedy.\n\n[Written by MAL Rewrite]\n"""
+animePopularity	3337
+animeDescription	"Monsters walk the earth. While some may refute their existence as myths or urban legends, the Winchester brothers—Sam and Dean—know all too well what dangers lurk out there in the dark. Driving around in their 1967 Chevrolet Impala, these brothers have made it their life's mission to destroy anything supernatural that would threaten human lives.
+
+From shapeshifters to werewolves, vampires, ghosts, and even demons, the Winchesters track down and kill every evil being they can find, while also searching for the creature that caused them so much personal tragedy.
+
+[Written by MAL Rewrite]
+"
 animeRelated	[]
-animeCharacters	[b'Winchester, Dean', b'Winchester, Sam', b'Winchester, John', b'Singer, Bobby', b'Ryan', b'Gallagher, Andrew', b'Azazel', b'Miler, Max', b'Masters, Meg', b'Talley, Jake']
-animeVoices	[b'\nTouchi, Hiroki\nJapanese\n', b'\nTsumura, Makoto\nJapanese\n', b'\nHashi, Takaya\nJapanese\n', b'\nTaniguchi, Takashi\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nGACKT\nJapanese\n', b'\nUchida, Naoya\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshizuka, Atsuko\n\nDirector, Episode Director, Storyboard\n\n', b'\nMiya, Shigeyuki\n\nDirector\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n', b'\nWatanabe, Kotono\n\nEpisode Director, Storyboard\n\n']
+animeCharacters	['Winchester, Dean', 'Winchester, Sam', 'Winchester, John', 'Singer, Bobby', 'Ryan', 'Gallagher, Andrew', 'Azazel', 'Miler, Max', 'Masters, Meg', 'Talley, Jake']
+animeVoices	['Touchi, Hiroki', 'Tsumura, Makoto', 'Hashi, Takaya', 'Taniguchi, Takashi', 'Namikawa, Daisuke', 'GACKT', 'Uchida, Naoya', 'Yoshino, Hiroyuki', 'Mizuki, Nana', 'Miki, Shinichiro']
+animeStaff	[['Ishizuka, Atsuko', 'Director, Episode Director, Storyboard'], ['Miya, Shigeyuki', 'Director'], ['Honda, Yasunori', 'Sound Director'], ['Watanabe, Kotono', 'Episode Director, Storyboard']]

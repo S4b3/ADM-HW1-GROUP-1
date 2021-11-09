@@ -1,5 +1,5 @@
-animeTitle	b'Nobunagun'
-animeType	b'TV'
+animeTitle	Nobunagun
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.69
 animeUsers	27204
 animeRank	
-animePopularity	
-animeDescription	"b'Shio Ogura is a Japanese high school student, who is visiting Taiwan on a school trip when she is suddenly attacked by monsters. Agents known as ""E-Gene Holders"" from the government agency DOGOO also arrive, who wield weapons infused with the spirits of historical figures. Shio is revealed to also be an E-Gene Holder when the soul of Oda Nobunaga awakens after she tries to rescue a friend.\n\n(Source: Wikipedia)'"
-animeRelated	[b'Nobunagun']
-animeCharacters	[b'Ogura, Shio', b'Muirhead, Adam', b'Beckham, Jess', b'Mirza, Mahesh', b'Dogoo', b'Oda, Nobunaga', b'Saint-Germain', b'Gaud\xc3\xad, Antoni', b'Anush', b'Galilei, Galileo']
-animeVoices	[b'\nMutou, Shiori\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nMurase, Ayumu\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKondou, Nobuhiro\n\nDirector, Storyboard\n\n', b'\nTsuchiya, Masaki\n\nSound Director\n\n', b'\nUesaka, Sumire\n\nTheme Song Performance\n\n', b'\nAsakawa, Yuu\n\nTheme Song Performance\n\n']
+animePopularity	2227
+animeDescription	"Shio Ogura is a Japanese high school student, who is visiting Taiwan on a school trip when she is suddenly attacked by monsters. Agents known as ""E-Gene Holders"" from the government agency DOGOO also arrive, who wield weapons infused with the spirits of historical figures. Shio is revealed to also be an E-Gene Holder when the soul of Oda Nobunaga awakens after she tries to rescue a friend.
+
+(Source: Wikipedia)"
+animeRelated	['Nobunagun']
+animeCharacters	['Ogura, Shio', 'Muirhead, Adam', 'Beckham, Jess', 'Mirza, Mahesh', 'Dogoo', 'Oda, Nobunaga', 'Saint-Germain', 'Gaudí, Antoni', 'Anush', 'Galilei, Galileo']
+animeVoices	['Mutou, Shiori', 'Suzuki, Tatsuhisa', 'Asakawa, Yuu', 'Shimazaki, Nobunaga', 'Watanabe, Akeno', 'Tobita, Nobuo', 'Yusa, Kouji', 'Murase, Ayumu', 'Tsuda, Kenjirou', 'Uesaka, Sumire']
+animeStaff	[['Kondou, Nobuhiro', 'Director, Storyboard'], ['Tsuchiya, Masaki', 'Sound Director'], ['Uesaka, Sumire', 'Theme Song Performance'], ['Asakawa, Yuu', 'Theme Song Performance']]

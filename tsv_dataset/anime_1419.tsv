@@ -1,5 +1,5 @@
-animeTitle	b'Giant Killing'
-animeType	b'TV'
+animeTitle	Giant Killing
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.56
 animeUsers	30670
 animeRank	
-animePopularity	
-animeDescription	"b""East Tokyo United (ETU) has been struggling in Japan's top soccer league for the past few years. It has taken everything they have just to avoid relegation. To make matters even worse, the team has lost five matches in a row, leading to abysmal team morale. Even the fans are beginning to abandon them, and rumors hint that the home ground municipality is going to withdraw their support. With countless coaches fired and poor financial choices in hiring players, it is a downward spiral for ETU.\n\nThe board of directors, under pressure from general manager Kousei Gotou, takes a gamble and hires a new coach\xe2\x80\x94the slightly eccentric Takeshi Tatsumi. Though considered a great soccer player when he was younger, Tatsumi abandoned ETU years ago. However, since then, he has proven himself successful as the manager of one of England's lower division amateur teams.\n\nTatsumi's task won't be easy; ETU fans call him a traitor, and the team is pitted against others with larger budgets and better players. Yet even the underdog can take down a goliath, and Tatsumi claims he is an expert at giant killing.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Giant Killing']
-animeCharacters	[b'Tatsumi, Takeshi', b'Yoshida, Luigi', b'Tsubaki, Daisuke', b'Murakoshi, Shigeyuki', b'Sera, Kyouhei', b'Kuroda, Kazuki', b'Akasaki, Ryou', b'Sugie, Yusaku', b'Midorikawa, Hiroshi', b'Nagata, Yuri']
-animeVoices	[b'\nSeki, Tomokazu\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nKawano, Taketoshi\nJapanese\n', b'\nItou, Kentarou\nJapanese\n', b'\nMutou, Tadashi\nJapanese\n', b'\nKirii, Daisuke\nJapanese\n', b'\nFuji, Shinshuu\nJapanese\n', b'\nAsano, Masumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKou, Yuu\n\nDirector\n\n', b'\nTsuchiya, Hiroyuki\n\nEpisode Director\n\n', b'\nKimura, Hiroshi\n\nEpisode Director\n\n', b'\nFuruta, Jouji\n\nEpisode Director, Storyboard\n\n']
+animePopularity	2212
+animeDescription	"East Tokyo United (ETU) has been struggling in Japan's top soccer league for the past few years. It has taken everything they have just to avoid relegation. To make matters even worse, the team has lost five matches in a row, leading to abysmal team morale. Even the fans are beginning to abandon them, and rumors hint that the home ground municipality is going to withdraw their support. With countless coaches fired and poor financial choices in hiring players, it is a downward spiral for ETU.
+
+The board of directors, under pressure from general manager Kousei Gotou, takes a gamble and hires a new coach—the slightly eccentric Takeshi Tatsumi. Though considered a great soccer player when he was younger, Tatsumi abandoned ETU years ago. However, since then, he has proven himself successful as the manager of one of England's lower division amateur teams.
+
+Tatsumi's task won't be easy; ETU fans call him a traitor, and the team is pitted against others with larger budgets and better players. Yet even the underdog can take down a goliath, and Tatsumi claims he is an expert at giant killing.
+
+[Written by MAL Rewrite]"
+animeRelated	['Giant Killing']
+animeCharacters	['Tatsumi, Takeshi', 'Yoshida, Luigi', 'Tsubaki, Daisuke', 'Murakoshi, Shigeyuki', 'Sera, Kyouhei', 'Kuroda, Kazuki', 'Akasaki, Ryou', 'Sugie, Yusaku', 'Midorikawa, Hiroshi', 'Nagata, Yuri']
+animeVoices	['Seki, Tomokazu', 'Ono, Daisuke', 'Mizushima, Takahiro', 'Okiayu, Ryoutarou', 'Kawano, Taketoshi', 'Itou, Kentarou', 'Mutou, Tadashi', 'Kirii, Daisuke', 'Fuji, Shinshuu', 'Asano, Masumi']
+animeStaff	[['Kou, Yuu', 'Director'], ['Tsuchiya, Hiroyuki', 'Episode Director'], ['Kimura, Hiroshi', 'Episode Director'], ['Furuta, Jouji', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Bakemonogatari'
-animeType	b'TV'
+animeTitle	Bakemonogatari
+animeType	TV
 animeNumEpisode	15
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.35
 animeUsers	621917
 animeRank	
-animePopularity	
-animeDescription	"b""Koyomi Araragi, a third-year high school student, manages to survive a vampire attack with the help of Meme Oshino, a strange man residing in an abandoned building. Though being saved from vampirism and now a human again, several side effects such as superhuman healing abilities and enhanced vision still remain. Regardless, Araragi tries to live the life of a normal student, with the help of his friend and the class president, Tsubasa Hanekawa.\n\nWhen fellow classmate Hitagi Senjougahara falls down the stairs and is caught by Araragi, the boy realizes that the girl is unnaturally weightless. Despite Senjougahara's protests, Araragi insists he help her, deciding to enlist the aid of Oshino, the very man who had once helped him with his own predicament.\n\nThrough several tales involving demons and gods, Bakemonogatari follows Araragi as he attempts to help those who suffer from supernatural maladies.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Monogatari Series: First Season', b'Bakemonogatari Recap', b'Nisemonogatari', b'Nekomonogatari: Kuro', b'Nisekoimonogatari', b'Koyomimonogatari']
-animeCharacters	[b'Senjougahara, Hitagi', b'Araragi, Koyomi', b'Hanekawa, Tsubasa', b'Hachikuji, Mayoi', b'Kanbaru, Suruga', b'Sengoku, Nadeko', b'Oshino, Shinobu', b'Oshino, Meme', b'Araragi, Karen', b'Araragi, Tsukihi']
-animeVoices	[b'\nSaitou, Chiwa\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nKatou, Emiri\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwakami, Atsuhiro\n\nProducer\n\n', b'\nKubota, Mitsutoshi\n\nProducer\n\n', b'\nOoshima, Miku\n\nAssistant Producer\n\n', b'\nShinbou, Akiyuki\n\nDirector, Animation Check\n\n']
+animePopularity	76
+animeDescription	"Koyomi Araragi, a third-year high school student, manages to survive a vampire attack with the help of Meme Oshino, a strange man residing in an abandoned building. Though being saved from vampirism and now a human again, several side effects such as superhuman healing abilities and enhanced vision still remain. Regardless, Araragi tries to live the life of a normal student, with the help of his friend and the class president, Tsubasa Hanekawa.
+
+When fellow classmate Hitagi Senjougahara falls down the stairs and is caught by Araragi, the boy realizes that the girl is unnaturally weightless. Despite Senjougahara's protests, Araragi insists he help her, deciding to enlist the aid of Oshino, the very man who had once helped him with his own predicament.
+
+Through several tales involving demons and gods, Bakemonogatari follows Araragi as he attempts to help those who suffer from supernatural maladies.
+
+[Written by MAL Rewrite]"
+animeRelated	['Monogatari Series: First Season', 'Bakemonogatari Recap', 'Nisemonogatari', 'Nekomonogatari: Kuro', 'Nisekoimonogatari', 'Koyomimonogatari']
+animeCharacters	['Senjougahara, Hitagi', 'Araragi, Koyomi', 'Hanekawa, Tsubasa', 'Hachikuji, Mayoi', 'Kanbaru, Suruga', 'Sengoku, Nadeko', 'Oshino, Shinobu', 'Oshino, Meme', 'Araragi, Karen', 'Araragi, Tsukihi']
+animeVoices	['Saitou, Chiwa', 'Kamiya, Hiroshi', 'Horie, Yui', 'Katou, Emiri', 'Sawashiro, Miyuki', 'Hanazawa, Kana', 'Sakurai, Takahiro', 'Kitamura, Eri', 'Iguchi, Yuka']
+animeStaff	[['Iwakami, Atsuhiro', 'Producer'], ['Kubota, Mitsutoshi', 'Producer'], ['Ooshima, Miku', 'Assistant Producer'], ['Shinbou, Akiyuki', 'Director, Animation Check']]

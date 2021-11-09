@@ -1,5 +1,5 @@
-animeTitle	b'Zankyou no Terror'
-animeType	b'TV'
+animeTitle	Zankyou no Terror
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.11
 animeUsers	505150
 animeRank	
-animePopularity	
-animeDescription	"b'Painted in red, the word ""VON"" is all that is left behind after a terrorist attack on a nuclear facility in Japan. The government is shattered by their inability to act, and the police are left frantically searching for ways to crack down the perpetrators. The public are clueless\xe2\x80\x94until, six months later, a strange video makes its way onto the internet. In it, two teenage boys who identify themselves only as ""Sphinx"" directly challenge the police, threatening to cause destruction and mayhem across Tokyo. Unable to stop the mass panic quickly spreading through the city and desperate for any leads in their investigation, the police struggle to act effectively against these terrorists, with Detective Kenjirou Shibazaki caught in the middle of it all.\n\nZankyou no Terror tells the story of Nine and Twelve, the two boys behind the masked figures of Sphinx. They should not exist, yet they stand strong in a world of deception and secrets while they make the city fall around them, all in the hopes of burying their own tragic truth.\n\n[Written by MAL Rewrite]'"
+animePopularity	109
+animeDescription	"Painted in red, the word ""VON"" is all that is left behind after a terrorist attack on a nuclear facility in Japan. The government is shattered by their inability to act, and the police are left frantically searching for ways to crack down the perpetrators. The public are clueless—until, six months later, a strange video makes its way onto the internet. In it, two teenage boys who identify themselves only as ""Sphinx"" directly challenge the police, threatening to cause destruction and mayhem across Tokyo. Unable to stop the mass panic quickly spreading through the city and desperate for any leads in their investigation, the police struggle to act effectively against these terrorists, with Detective Kenjirou Shibazaki caught in the middle of it all.
+
+Zankyou no Terror tells the story of Nine and Twelve, the two boys behind the masked figures of Sphinx. They should not exist, yet they stand strong in a world of deception and secrets while they make the city fall around them, all in the hopes of burying their own tragic truth.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Twelve', b'Nine', b'Shibazaki, Kenjirou', b'Mishima, Lisa', b'Five', b'Mob-ko', b'Mukasa', b'Hamura', b'Wakamoto', b'Kurahashi']
-animeVoices	[b'\nSaitou, Souma\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n', b'\nTanezaki, Atsumi\nJapanese\n', b'\nHan, Megumi\nJapanese\n', b'\nSatake, Uki\nJapanese\n', b'\nKanuka, Mitsuaki\nJapanese\n', b'\nAigasa, Keisuke\nJapanese\n', b'\nNagao, Aki\nJapanese\n', b'\nTezuka, Hideaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Masuo\n\nProducer\n\n', b'\nKimura, Makoto\n\nProducer\n\n', b'\nWatanabe, Shinichiro\n\nDirector, Episode Director, Storyboard, Original Creator\n\n', b'\nTachikawa, Yuzuru\n\nEpisode Director, Storyboard, Assistant Director\n\n']
+animeCharacters	['Twelve', 'Nine', 'Shibazaki, Kenjirou', 'Mishima, Lisa', 'Five', 'Mob-ko', 'Mukasa', 'Hamura', 'Wakamoto', 'Kurahashi']
+animeVoices	['Saitou, Souma', 'Ishikawa, Kaito', 'Sakuya, Shunsuke', 'Tanezaki, Atsumi', 'Han, Megumi', 'Satake, Uki', 'Kanuka, Mitsuaki', 'Aigasa, Keisuke', 'Nagao, Aki', 'Tezuka, Hideaki']
+animeStaff	[['Ueda, Masuo', 'Producer'], ['Kimura, Makoto', 'Producer'], ['Watanabe, Shinichiro', 'Director, Episode Director, Storyboard, Original Creator'], ['Tachikawa, Yuzuru', 'Episode Director, Storyboard, Assistant Director']]

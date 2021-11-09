@@ -1,5 +1,5 @@
-animeTitle	b'Penguin no Mondai Movie'
-animeType	b'Movie'
+animeTitle	Penguin no Mondai Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Penguin no Mondai Movie.'
-animeRelated	[b'Penguin no Mondai']
-animeCharacters	[b'Kinoshita, Bekkamu']
-animeVoices	[b'\nItou, Miyako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFudeyasu, Kazuyuki\n\nScreenplay\n\n']
+animePopularity	15666
+animeDescription	Penguin no Mondai Movie.
+animeRelated	['Penguin no Mondai']
+animeCharacters	['Kinoshita, Bekkamu']
+animeVoices	['Itou, Miyako']
+animeStaff	[['Fudeyasu, Kazuyuki', 'Screenplay']]

@@ -1,5 +1,5 @@
-animeTitle	b'Break Blade 4: Sanka no Chi'
-animeType	b'Movie'
+animeTitle	Break Blade 4: Sanka no Chi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.85
 animeUsers	33325
 animeRank	
-animePopularity	
-animeDescription	b'Fourth Break Blade Movie.'
-animeRelated	[b'Break Blade', b'Break Blade 3: Kyoujin no Ato', b'Break Blade 5: Shisen no Hate']
-animeCharacters	[b'Arrow, Rygart', b'Erster, Sigyn', b'Girge', b'Zess', b'Zaubraff, Cleo', b'Stryze, Narvi', b'Borcuse', b'Hodr', b'True', b'Baldr']
-animeVoices	[b'\nHoshi, Souichirou\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nToriumi, Kousuke\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nSugawara, Masashi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirasawa, Nao\n\nProducer\n\n', b'\nHabara, Nobuyoshi\n\nDirector, Storyboard\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nFoster, Steven\n\nScript, ADR Director\n\n']
+animePopularity	2380
+animeDescription	Fourth Break Blade Movie.
+animeRelated	['Break Blade', 'Break Blade 3: Kyoujin no Ato', 'Break Blade 5: Shisen no Hate']
+animeCharacters	['Arrow, Rygart', 'Erster, Sigyn', 'Girge', 'Zess', 'Zaubraff, Cleo', 'Stryze, Narvi', 'Borcuse', 'Hodr', 'True', 'Baldr']
+animeVoices	['Hoshi, Souichirou', 'Saitou, Chiwa', 'Toriumi, Kousuke', 'Kamiya, Hiroshi', 'Hanazawa, Kana', 'Inoue, Marina', 'Nakai, Kazuya', 'Nakamura, Yuuichi', 'Ogata, Kenichi', 'Sugawara, Masashi']
+animeStaff	[['Hirasawa, Nao', 'Producer'], ['Habara, Nobuyoshi', 'Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director'], ['Foster, Steven', 'Script, ADR Director']]

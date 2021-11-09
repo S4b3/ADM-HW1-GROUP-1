@@ -1,5 +1,5 @@
-animeTitle	b'Ashita no Eleven-tachi'
-animeType	b'Special'
+animeTitle	Ashita no Eleven-tachi
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.79
 animeUsers	109
 animeRank	
-animePopularity	
-animeDescription	"b""A boy from the farm with amazing running speed is asked to join a newly formed national soccer team and discovers a natural talent for the game. The movie is inspired by Japan's hosting of the world soccer championships that year.\n\n(Source: AniDB)"""
+animePopularity	13417
+animeDescription	"A boy from the farm with amazing running speed is asked to join a newly formed national soccer team and discovers a natural talent for the game. The movie is inspired by Japan's hosting of the world soccer championships that year.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Narrator']
-animeVoices	[b'\nKaneuchi, Yoshio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorishita, Kouzou\n\nDirector\n\n', b'\nYoshida, Hiroshi\n\nStoryboard\n\n', b'\nShiraume, Susumu\n\nAnimation Director\n\n', b'\nKamezaki, Keishi\n\nSetting\n\n']
+animeCharacters	['Narrator']
+animeVoices	['Kaneuchi, Yoshio']
+animeStaff	[['Morishita, Kouzou', 'Director'], ['Yoshida, Hiroshi', 'Storyboard'], ['Shiraume, Susumu', 'Animation Director'], ['Kamezaki, Keishi', 'Setting']]

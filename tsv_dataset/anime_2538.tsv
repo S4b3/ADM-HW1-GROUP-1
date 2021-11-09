@@ -1,5 +1,5 @@
-animeTitle	b'Shaman King Specials'
-animeType	b'Special'
+animeTitle	Shaman King Specials
+animeType	Special
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.27
 animeUsers	7136
 animeRank	
-animePopularity	
-animeDescription	"b""Throughout the broadcast of Shaman King, many shorts (usually referred to as Shaman King omake and TV specials) were made on special days of the year related to spirits and the like. The omake were short stories that were made for humorous effect. Apparently, all of the omake fit into the story before the Shaman Fight 2nd round. Documents of the Shaman Fight was shown with a New Year's omake as well. The TV Specials were aired after specific points of the story as well as on holidays. The specials were never dubbed in English, and, most likely, never will be. \n\n(Source: Wikipedia)"""
-animeRelated	[b'Shaman King']
-animeCharacters	[b'Asakura, You', b'Kyouyama, Anna', b'Tao, Ren', b'Amidamaru', b'Oyamada, Manta', b'Asakura, Hao', b'Usui, Horokeu', b'Umemiya, Ryuunosuke', b'Diethel, Lyserg', b'Tamamura, Tamao']
-animeVoices	[b'\nSatou, Yuuko\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nTakayama, Minami\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nTanaka, Masahiko\nJapanese\n', b'\nSoumi, Youko\nJapanese\n', b'\nMizuki, Nana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakei, Hiroyuki\n\nOriginal Creator\n\n', b'\nTakami, Akio\n\nCharacter Design\n\n', b'\nOomori, Toshiyuki\n\nMusic\n\n', b'\nKoyama, Toshihisa\n\nArt Director\n\n']
+animePopularity	4121
+animeDescription	"Throughout the broadcast of Shaman King, many shorts (usually referred to as Shaman King omake and TV specials) were made on special days of the year related to spirits and the like. The omake were short stories that were made for humorous effect. Apparently, all of the omake fit into the story before the Shaman Fight 2nd round. Documents of the Shaman Fight was shown with a New Year's omake as well. The TV Specials were aired after specific points of the story as well as on holidays. The specials were never dubbed in English, and, most likely, never will be. 
+
+(Source: Wikipedia)"
+animeRelated	['Shaman King']
+animeCharacters	['Asakura, You', 'Kyouyama, Anna', 'Tao, Ren', 'Amidamaru', 'Oyamada, Manta', 'Asakura, Hao', 'Usui, Horokeu', 'Umemiya, Ryuunosuke', 'Diethel, Lyserg', 'Tamamura, Tamao']
+animeVoices	['Satou, Yuuko', 'Hayashibara, Megumi', 'Park, Romi', 'Inuyama, Inuko', 'Takayama, Minami', 'Ueda, Yuuji', 'Tanaka, Masahiko', 'Soumi, Youko', 'Mizuki, Nana']
+animeStaff	[['Takei, Hiroyuki', 'Original Creator'], ['Takami, Akio', 'Character Design'], ['Oomori, Toshiyuki', 'Music'], ['Koyama, Toshihisa', 'Art Director']]

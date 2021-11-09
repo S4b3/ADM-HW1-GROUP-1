@@ -1,5 +1,5 @@
-animeTitle	b'Cobra The Animation'
-animeType	b'TV'
+animeTitle	Cobra The Animation
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.1
 animeUsers	2891
 animeRank	
-animePopularity	
-animeDescription	b'This Cobra adaptation features short arcs of Cobra saving the world, his friends or himself.'
-animeRelated	[b'Cobra', b'Cobra: The Psychogun', b'Cobra The Animation: Time Drive']
-animeCharacters	[b'Cobra', b'Armaroid, Lady', b'Lee, Pamela', b'Mohammed', b'Bonny', b'Father Sebastian', b'Windsor, Linda', b'Secret', b'Old Man', b'Announcer']
-animeVoices	[b'\nUchida, Naoya\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n', b'\nHonda, Takako\nJapanese\n', b'\nTanzawa, Teruyuki\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nItou, Kazuaki\nJapanese\n', b'\nIgarashi, Rei\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nYamaguchi, Noboru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimizu, Keizou\n\nDirector, Character Design\n\n', b'\nYamada, Chiaki\n\nSound Director\n\n', b'\nNoshitani, Mitsutaka\n\nEpisode Director\n\n', b'\nUeda, Kouji\n\nEpisode Director\n\n']
+animePopularity	5867
+animeDescription	This Cobra adaptation features short arcs of Cobra saving the world, his friends or himself.
+animeRelated	['Cobra', 'Cobra: The Psychogun', 'Cobra The Animation: Time Drive']
+animeCharacters	['Cobra', 'Armaroid, Lady', 'Lee, Pamela', 'Mohammed', 'Bonny', 'Father Sebastian', 'Windsor, Linda', 'Secret', 'Old Man', 'Announcer']
+animeVoices	['Uchida, Naoya', 'Sakakibara, Yoshiko', 'Honda, Takako', 'Tanzawa, Teruyuki', 'Shiraishi, Ryouko', 'Itou, Kazuaki', 'Igarashi, Rei', 'Sakamoto, Maaya', 'Chafurin', 'Yamaguchi, Noboru']
+animeStaff	[['Shimizu, Keizou', 'Director, Character Design'], ['Yamada, Chiaki', 'Sound Director'], ['Noshitani, Mitsutaka', 'Episode Director'], ['Ueda, Kouji', 'Episode Director']]

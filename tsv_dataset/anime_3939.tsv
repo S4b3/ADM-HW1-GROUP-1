@@ -1,5 +1,5 @@
-animeTitle	b'Macross 7 Encore'
-animeType	b'OVA'
+animeTitle	Macross 7 Encore
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.96
 animeUsers	3815
 animeRank	
-animePopularity	
-animeDescription	"b'Three unbroadcasted episodes of the Macross 7 series. In ""Fleet of the Strongest Women,"" the Macross 7 fleet encounters a rogue Meltrandi fleet led by an old rival of Millia. ""On Stage"" focuses on Ray\'s past as a fighter pilot, how he first met Basara, and how they formed Fire Bomber. In ""Which One Do You Love,"" when Millia falls ill, she feels her life expectancy is running short and attempts to have Mylene engaged to Basara.\n\n(Source: ANN)'"
-animeRelated	[b'Macross 7']
-animeCharacters	[b'Nekki, Basara', b'Jenius, Mylene Flare', b'Jenius, Maximilian', b'Fallyna, Milia', b'Flower Girl', b'Feaze, Veffidas', b'Chlore', b'Miho, Miho', b'Folmo, Exsedol', b'Lovelock, Ray']
-animeVoices	[b'\nCanna, Nobutoshi\nJapanese\n', b'\nSakurai, Tomo\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nTakeda, Eri\nJapanese\n', b'\nNakagawa, Akiko\nJapanese\n', b'\nTakano, Urara\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nNatsuki, Rio\nJapanese\n', b'\nOobayashi, Ryuusuke\nJapanese\n', b'\nSugawara, Masashi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAmino, Tetsuro\n\nDirector\n\n', b'\nFukuyama, Yoshiki\n\nTheme Song Performance\n\n', b'\nKajiura, Chie\n\nTheme Song Performance, Theme Song Lyrics\n\n', b'\nFire Bomber\n\nTheme Song Performance, Inserted Song Performance\n\n']
+animePopularity	5748
+animeDescription	"Three unbroadcasted episodes of the Macross 7 series. In ""Fleet of the Strongest Women,"" the Macross 7 fleet encounters a rogue Meltrandi fleet led by an old rival of Millia. ""On Stage"" focuses on Ray's past as a fighter pilot, how he first met Basara, and how they formed Fire Bomber. In ""Which One Do You Love,"" when Millia falls ill, she feels her life expectancy is running short and attempts to have Mylene engaged to Basara.
+
+(Source: ANN)"
+animeRelated	['Macross 7']
+animeCharacters	['Nekki, Basara', 'Jenius, Mylene Flare', 'Jenius, Maximilian', 'Fallyna, Milia', 'Flower Girl', 'Feaze, Veffidas', 'Chlore', 'Miho, Miho', 'Folmo, Exsedol', 'Lovelock, Ray']
+animeVoices	['Canna, Nobutoshi', 'Sakurai, Tomo', 'Hayami, Show', 'Takeda, Eri', 'Nakagawa, Akiko', 'Takano, Urara', 'Mitsuishi, Kotono', 'Natsuki, Rio', 'Oobayashi, Ryuusuke', 'Sugawara, Masashi']
+animeStaff	[['Amino, Tetsuro', 'Director'], ['Fukuyama, Yoshiki', 'Theme Song Performance'], ['Kajiura, Chie', 'Theme Song Performance, Theme Song Lyrics'], ['Fire Bomber', 'Theme Song Performance, Inserted Song Performance']]

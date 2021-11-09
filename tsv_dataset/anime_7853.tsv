@@ -1,5 +1,5 @@
-animeTitle	b'Amefuri Kozou'
-animeType	b'OVA'
+animeTitle	Amefuri Kozou
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.16
 animeUsers	753
 animeRank	
-animePopularity	
-animeDescription	"b'This is the second story of ""The Lion Books"" series. A boy meets a lonely little umbrella ghost wearing Geta. He promises the ghost that he will give it a pair of rain boots in exchange for three wishes. The boy, however, grows up completely forgetting the promise. One day, when he happens to remember the ghost, he rushes back to that bridge in his hometown, to the Rain Boy...This is a moving, sweet hometown fantasy about a gentle ghost and a forgotten promise. \n\n(Source: AniDB)'"
-animeRelated	[b'Lion Books', b'Adachi-ga Hara', b'Yamatarou Kaeru', b'Midori no Neko', b'Akuemon', b'Lunn wa Kaze no Naka']
-animeCharacters	[b'Rain Boy']
-animeVoices	[b'\nHori, Junko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Osamu\n\nDirector\n\n', b'\nKoroku, Reijirou\n\nMusic\n\n', b'\nMaekawa, Takashi\n\nSpecial Effects\n\n', b'\nSeya, Shinji\n\nAnimation Check, Key Animation\n\n']
+animePopularity	10114
+animeDescription	"This is the second story of ""The Lion Books"" series. A boy meets a lonely little umbrella ghost wearing Geta. He promises the ghost that he will give it a pair of rain boots in exchange for three wishes. The boy, however, grows up completely forgetting the promise. One day, when he happens to remember the ghost, he rushes back to that bridge in his hometown, to the Rain Boy...This is a moving, sweet hometown fantasy about a gentle ghost and a forgotten promise. 
+
+(Source: AniDB)"
+animeRelated	['Lion Books', 'Adachi-ga Hara', 'Yamatarou Kaeru', 'Midori no Neko', 'Akuemon', 'Lunn wa Kaze no Naka']
+animeCharacters	['Rain Boy']
+animeVoices	['Hori, Junko']
+animeStaff	[['Tezuka, Osamu', 'Director'], ['Koroku, Reijirou', 'Music'], ['Maekawa, Takashi', 'Special Effects'], ['Seya, Shinji', 'Animation Check, Key Animation']]

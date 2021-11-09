@@ -1,5 +1,5 @@
-animeTitle	b'Tegamibachi Gakuen'
-animeType	b'Special'
+animeTitle	Tegamibachi Gakuen
+animeType	Special
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.26
 animeUsers	2417
 animeRank	
-animePopularity	
-animeDescription	b'Tegamibachi specials.'
-animeRelated	[b'Tegamibachi']
-animeCharacters	[b'Suede, Gauche', b'Seeing, Lag', b'Winters, Zazie', b'Thunderland Jr.', b'Kluff, Connor', b'Niche', b'Pepper, Jiggy', b'Steak', b'Suede, Sylvette', b'Roda']
-animeVoices	[b'\nFukuyama, Jun\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nIshikawa, Hideo\nJapanese\n', b'\nSuganuma, Hisayoshi\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nNagasawa, Nao\nJapanese\n', b'\nMizuki, Nana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAsada, Hiroyuki\n\nOriginal Creator\n\n']
+animePopularity	5404
+animeDescription	Tegamibachi specials.
+animeRelated	['Tegamibachi']
+animeCharacters	['Suede, Gauche', 'Seeing, Lag', 'Winters, Zazie', 'Thunderland Jr.', 'Kluff, Connor', 'Niche', 'Pepper, Jiggy', 'Steak', 'Suede, Sylvette', 'Roda']
+animeVoices	['Fukuyama, Jun', 'Sawashiro, Miyuki', 'Kishio, Daisuke', 'Ishikawa, Hideo', 'Suganuma, Hisayoshi', 'Fujimura, Ayumi', 'Nakai, Kazuya', 'Nagasawa, Nao', 'Mizuki, Nana']
+animeStaff	[['Asada, Hiroyuki', 'Original Creator']]

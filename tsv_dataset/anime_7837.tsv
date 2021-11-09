@@ -1,5 +1,5 @@
-animeTitle	b'Gegege no Kitarou: Obake Nighter'
-animeType	b'Movie'
+animeTitle	Gegege no Kitarou: Obake Nighter
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.17
 animeUsers	180
 animeRank	
-animePopularity	
-animeDescription	b'Like the other 1990s Kitaro mini-movies, this is a remake of a story that\xe2\x80\x99s already been done in the anime, but like every Kitaro remake this is a very different take on the story. In this case it\xe2\x80\x99s a remake of the baseball story that was featured in the very first episode of the original series from 1968.\n\n(Source: TSHS)\n'
-animeRelated	[b'Gegege no Kitarou (1968)', b'Gegege no Kitarou (1996)']
-animeCharacters	[b'Kitarou', b'Medama Oyaji', b'Neko Musume', b'Nezumi Otoko', b'Babaa, Sunakake']
-animeVoices	[b'\nMatsuoka, Youko\nJapanese\n', b'\nTanonaka, Isamu\nJapanese\n', b'\nNishimura, Chinami\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nYamamoto, Keiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Junichi\n\nDirector\n\n', b'\nIzumi, Taku\n\nTheme Song Composition\n\n', b'\nWada, Kaoru\n\nMusic\n\n', b'\nShimada, Michiru\n\nScreenplay\n\n']
+animePopularity	11789
+animeDescription	"Like the other 1990s Kitaro mini-movies, this is a remake of a story that’s already been done in the anime, but like every Kitaro remake this is a very different take on the story. In this case it’s a remake of the baseball story that was featured in the very first episode of the original series from 1968.
+
+(Source: TSHS)
+"
+animeRelated	['Gegege no Kitarou (1968)', 'Gegege no Kitarou (1996)']
+animeCharacters	['Kitarou', 'Medama Oyaji', 'Neko Musume', 'Nezumi Otoko', 'Babaa, Sunakake']
+animeVoices	['Matsuoka, Youko', 'Tanonaka, Isamu', 'Nishimura, Chinami', 'Chiba, Shigeru', 'Yamamoto, Keiko']
+animeStaff	[['Satou, Junichi', 'Director'], ['Izumi, Taku', 'Theme Song Composition'], ['Wada, Kaoru', 'Music'], ['Shimada, Michiru', 'Screenplay']]

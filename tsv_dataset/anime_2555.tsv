@@ -1,5 +1,5 @@
-animeTitle	"b""Atashin'chi"""
-animeType	b'TV'
+animeTitle	Atashin'chi
+animeType	TV
 animeNumEpisode	330
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.27
 animeUsers	1366
 animeRank	
-animePopularity	
-animeDescription	"b""Outrageous misadventures of an almost normal family with a housewife, her husband, and their two kids Yuusuke and Mikan. Wacky humor about this weird family's daily life.\n\n(Source: AniDB)"""
-animeRelated	"[b""Atashin'chi"", b""Atashin'chi Movie"", b""Atashin'chi 3D Movie: Jounetsu no Chou Chounouryoku Haha Dai Bousou"", b""Atashin'chi Specials"", b""Shin Atashin'chi""]"
-animeCharacters	[b'Tachibana, Mother', b'Tachibana, Yuzuhiko', b'Tachibana, Mikan', b'Tachibana, Father', b'Yoshioka', b'Iwaki', b'Toyama', b'Mizushima', b'Shimizu', b'Fujino']
-animeVoices	[b'\nWatanabe, Kumiko\nJapanese\n', b'\nInokuchi, Yuka\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDaichi, Akitarou\n\nDirector\n\n', b'\nYasumi, Tetsuo\n\nDirector\n\n', b'\nIshihara, Tatsuya\n\nEpisode Director, Storyboard\n\n', b'\nYamamoto, Yutaka\n\nEpisode Director, Storyboard\n\n']
+animePopularity	7587
+animeDescription	"Outrageous misadventures of an almost normal family with a housewife, her husband, and their two kids Yuusuke and Mikan. Wacky humor about this weird family's daily life.
+
+(Source: AniDB)"
+animeRelated	"[""Atashin'chi"", ""Atashin'chi Movie"", ""Atashin'chi 3D Movie: Jounetsu no Chou Chounouryoku Haha Dai Bousou"", ""Atashin'chi Specials"", ""Shin Atashin'chi""]"
+animeCharacters	['Tachibana, Mother', 'Tachibana, Yuzuhiko', 'Tachibana, Mikan', 'Tachibana, Father', 'Yoshioka', 'Iwaki', 'Toyama', 'Mizushima', 'Shimizu', 'Fujino']
+animeVoices	['Watanabe, Kumiko', 'Inokuchi, Yuka', 'Orikasa, Fumiko', 'Yamaguchi, Kappei']
+animeStaff	[['Daichi, Akitarou', 'Director'], ['Yasumi, Tetsuo', 'Director'], ['Ishihara, Tatsuya', 'Episode Director, Storyboard'], ['Yamamoto, Yutaka', 'Episode Director, Storyboard']]

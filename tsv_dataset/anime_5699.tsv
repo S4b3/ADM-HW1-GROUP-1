@@ -1,5 +1,5 @@
-animeTitle	b'Freezing Specials'
-animeType	b'Special'
+animeTitle	Freezing Specials
+animeType	Special
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.58
 animeUsers	22498
 animeRank	
-animePopularity	
-animeDescription	"b""These episodes focus on ecchi and comedy and don't have anything to do with the main story of Freezing. """
-animeRelated	[b'Freezing']
-animeCharacters	[b'el Bridget, Satellizer', b'Linchen, Rana', b'Aoi, Kazuya', b'Roland, Ganessa', b'Fairchild, Chiffon', b'Mably, Elizabeth', b'McMillian, Arnett', b'Bernstein, Ingrid', b'Simmons, Attia', b'Blunt, Cleo']
-animeVoices	[b'\nNoto, Mamiko\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nIchiki, Mitsuhiro\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nKaida, Yuuko\nJapanese\n', b'\nAsakawa, Yuu\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nKitta, Izumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nBickham, Clint\n\nScript\n\n', b'\nMcDonald, Joel\n\nADR Director\n\n', b'\nFukunaga, Gen\n\nExecutive Producer\n\n', b'\nKim, Kwang Hyun\n\nOriginal Character Design\n\n']
+animePopularity	2727
+animeDescription	These episodes focus on ecchi and comedy and don't have anything to do with the main story of Freezing. 
+animeRelated	['Freezing']
+animeCharacters	['el Bridget, Satellizer', 'Linchen, Rana', 'Aoi, Kazuya', 'Roland, Ganessa', 'Fairchild, Chiffon', 'Mably, Elizabeth', 'McMillian, Arnett', 'Bernstein, Ingrid', 'Simmons, Attia', 'Blunt, Cleo']
+animeVoices	['Noto, Mamiko', 'Hanazawa, Kana', 'Ichiki, Mitsuhiro', 'Kitamura, Eri', 'Inoue, Marina', 'Kaida, Yuuko', 'Asakawa, Yuu', 'Koshimizu, Ami', 'Ueda, Kana', 'Kitta, Izumi']
+animeStaff	[['Bickham, Clint', 'Script'], ['McDonald, Joel', 'ADR Director'], ['Fukunaga, Gen', 'Executive Producer'], ['Kim, Kwang Hyun', 'Original Character Design']]

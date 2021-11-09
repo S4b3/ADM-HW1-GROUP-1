@@ -1,5 +1,5 @@
-animeTitle	b'Jewelpet Movie: Sweets Dance Princess'
-animeType	b'Movie'
+animeTitle	Jewelpet Movie: Sweets Dance Princess
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.09
 animeUsers	243
 animeRank	
-animePopularity	
-animeDescription	b'The story of the new film is set in Sweetsland, a country next to Jewelland. Ruby and the other Jewelpets are celebrating the birthday of the princess with dancing. However, during the preparations for the birthday party, a mysterious object appears from the skies. In the object is a Sweetspet boy, whose identity is unknown. \n\n(Source: ANN) '
-animeRelated	[b'Jewelpet', b'Onegai My Melody: Yuu & Ai']
-animeCharacters	[b'Ruby', b'Sapphie', b'Garnet', b'Princess Mana', b'Sango', b'Gumimin', b'Labra', b'Angela', b'Dian', b'Peridot']
-animeVoices	[b'\nSaitou, Ayaka\nJapanese\n', b'\nSasaki, Nozomi\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nAshida, Mana\nJapanese\n', b'\nShimizu, Ai\nJapanese\n', b'\nKobayashi, Yumiko\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nKaida, Yuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurai, Hiroaki\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nYamada, Takashi\n\nScript\n\n', b'\nAshida, Mana\n\nTheme Song Performance\n\n']
+animePopularity	10598
+animeDescription	"The story of the new film is set in Sweetsland, a country next to Jewelland. Ruby and the other Jewelpets are celebrating the birthday of the princess with dancing. However, during the preparations for the birthday party, a mysterious object appears from the skies. In the object is a Sweetspet boy, whose identity is unknown. 
+
+(Source: ANN) "
+animeRelated	['Jewelpet', 'Onegai My Melody: Yuu & Ai']
+animeCharacters	['Ruby', 'Sapphie', 'Garnet', 'Princess Mana', 'Sango', 'Gumimin', 'Labra', 'Angela', 'Dian', 'Peridot']
+animeVoices	['Saitou, Ayaka', 'Sasaki, Nozomi', 'Hirano, Aya', 'Ashida, Mana', 'Shimizu, Ai', 'Kobayashi, Yumiko', 'Sawashiro, Miyuki', 'Toyosaki, Aki', 'Fukuyama, Jun', 'Kaida, Yuki']
+animeStaff	[['Sakurai, Hiroaki', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Yamada, Takashi', 'Script'], ['Ashida, Mana', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Overlord Movie: Ple Ple Pleiades'
-animeType	b'Movie'
+animeTitle	Overlord Movie: Ple Ple Pleiades
+animeType	Movie
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.87
 animeUsers	6545
 animeRank	
-animePopularity	
-animeDescription	b'Initially aired in theaters. Later released as specials bundled with the Blu-ray and DVD volumes of Overlord Movies 1 and 2.'
-animeRelated	[b'Overlord', b'Overlord: Ple Ple Pleiades', b'Overlord Movie 1: Fushisha no Ou', b'Overlord Movie 2: Shikkoku no Eiyuu']
-animeCharacters	"[b'Momonga', b""Pandora's Actor"", b'Hamusuke', b'Albedo', b'Gamma, Narberal', b'Zeta, Entoma Vasilissa', b'Shizu Delta', b'Beta, Lupusregina', b'Epsilon, Solution', b'Alpha, Yuri']"
-animeVoices	[b'\nHino, Satoshi\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nHara, Yumi\nJapanese\n', b'\nNumakura, Manami\nJapanese\n', b'\nShindou, Kei\nJapanese\n', b'\nSeto, Asami\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nIgarashi, Hiromi\nJapanese\n']
+animePopularity	4315
+animeDescription	Initially aired in theaters. Later released as specials bundled with the Blu-ray and DVD volumes of Overlord Movies 1 and 2.
+animeRelated	['Overlord', 'Overlord: Ple Ple Pleiades', 'Overlord Movie 1: Fushisha no Ou', 'Overlord Movie 2: Shikkoku no Eiyuu']
+animeCharacters	"['Momonga', ""Pandora's Actor"", 'Hamusuke', 'Albedo', 'Gamma, Narberal', 'Zeta, Entoma Vasilissa', 'Shizu Delta', 'Beta, Lupusregina', 'Epsilon, Solution', 'Alpha, Yuri']"
+animeVoices	['Hino, Satoshi', 'Miyano, Mamoru', 'Watanabe, Akeno', 'Hara, Yumi', 'Numakura, Manami', 'Shindou, Kei', 'Seto, Asami', 'Komatsu, Mikako', 'Sakura, Ayane', 'Igarashi, Hiromi']
 animeStaff	[]

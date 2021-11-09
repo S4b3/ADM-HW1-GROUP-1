@@ -1,5 +1,5 @@
-animeTitle	b'Grick no Bouken'
-animeType	b'Movie'
+animeTitle	Grick no Bouken
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.02
 animeUsers	162
 animeRank	
-animePopularity	
-animeDescription	b'Grick is a young chipmunk living in the city with his sister. But after hearing from a carrier pigeon of the Chipmunk homeland, the Great Forest, he leaves home alone. Grick meets both friends and enemies along his adventure to find the place where he truly belongs. '
+animePopularity	13037
+animeDescription	Grick is a young chipmunk living in the city with his sister. But after hearing from a carrier pigeon of the Chipmunk homeland, the Great Forest, he leaves home alone. Grick meets both friends and enemies along his adventure to find the place where he truly belongs. 
 animeRelated	[]
-animeCharacters	[b'Gamba', b'Grick', b'Furakku', b'Non Non', b'Pippo']
-animeVoices	[b'\nAono, Takeshi\nJapanese\n', b'\nMizushima, Yuu\nJapanese\n', b'\nYoshida, Rihoko\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nTomita, Kousei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishimaki, Hideo\n\nDirector\n\n', b'\nFuji, Mineo\n\nEpisode Director\n\n', b'\nKoroku, Reijirou\n\nMusic\n\n', b'\nSaitou, Atsuo\n\nOriginal Creator\n\n']
+animeCharacters	['Gamba', 'Grick', 'Furakku', 'Non Non', 'Pippo']
+animeVoices	['Aono, Takeshi', 'Mizushima, Yuu', 'Yoshida, Rihoko', 'Ichiryuusai, Harumi', 'Tomita, Kousei']
+animeStaff	[['Nishimaki, Hideo', 'Director'], ['Fuji, Mineo', 'Episode Director'], ['Koroku, Reijirou', 'Music'], ['Saitou, Atsuo', 'Original Creator']]

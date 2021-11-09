@@ -1,5 +1,5 @@
-animeTitle	b'Tales of Gekijou'
-animeType	b'Special'
+animeTitle	Tales of Gekijou
+animeType	Special
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.58
 animeUsers	1558
 animeRank	
-animePopularity	
-animeDescription	"b""Tales of Gekijou is the pre-order bonus for Tales of the Heroes: Twin Brave. It is a series of five short animations produced by Sunrise. \n\nEpisodes 1 and 2 were aired in BS-TBS's New Year Special. The other 3 episodes will be available in the pre-order bonus via a download code along with the first two."""
-animeRelated	[b'Tales of Eternia The Animation', b'Tales of Symphonia The Animation: Sylvarant-hen', b'Tales of the Abyss', b'Tales of Vesperia: The First Strike']
-animeCharacters	[b'Lowell, Yuri', b'Fon Fabre, Luke', b'Wilder, Zelos', b'Cecil, Guy', b'Magnus, Lion', b'Lhant, Asbel', b'Hershel, Reid', b'Barnes, Cheria']
-animeVoices	[b'\nToriumi, Kousuke\nJapanese\n', b'\nSuzuki, Chihiro\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nKawaragi, Shiho\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatou, Hiroyuki\n\nProducer\n\n', b'\nKonno, Yasuyuki\n\nSound Effects\n\n', b'\nYoshitake, Masato\n\nEditing\n\n', b'\nOogami, Youichi\n\nDirector of Photography\n\n']
+animePopularity	7474
+animeDescription	"Tales of Gekijou is the pre-order bonus for Tales of the Heroes: Twin Brave. It is a series of five short animations produced by Sunrise. 
+
+Episodes 1 and 2 were aired in BS-TBS's New Year Special. The other 3 episodes will be available in the pre-order bonus via a download code along with the first two."
+animeRelated	['Tales of Eternia The Animation', 'Tales of Symphonia The Animation: Sylvarant-hen', 'Tales of the Abyss', 'Tales of Vesperia: The First Strike']
+animeCharacters	['Lowell, Yuri', 'Fon Fabre, Luke', 'Wilder, Zelos', 'Cecil, Guy', 'Magnus, Lion', 'Lhant, Asbel', 'Hershel, Reid', 'Barnes, Cheria']
+animeVoices	['Toriumi, Kousuke', 'Suzuki, Chihiro', 'Onosaka, Masaya', 'Matsumoto, Yasunori', 'Midorikawa, Hikaru', 'Sakurai, Takahiro', 'Ishida, Akira', 'Kawaragi, Shiho']
+animeStaff	[['Satou, Hiroyuki', 'Producer'], ['Konno, Yasuyuki', 'Sound Effects'], ['Yoshitake, Masato', 'Editing'], ['Oogami, Youichi', 'Director of Photography']]

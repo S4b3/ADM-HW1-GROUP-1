@@ -1,5 +1,5 @@
-animeTitle	b'City Hunter Movie: Shinjuku Private Eyes'
-animeType	b'Movie'
+animeTitle	City Hunter Movie: Shinjuku Private Eyes
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.44
 animeUsers	2579
 animeRank	
-animePopularity	
-animeDescription	"b'Ryo Saeba is the top ""City Hunter"" around and he takes on cases with his partner Kaori. A model named Ai Shindo has been attacked and hires him to be her bodyguard. Shinji Mikuni, the president of an IT company that has hired Ai for its ad campaign, turns out to be an old friend of Kaori, and they become involved. Meanwhile, mercenaries are gathering in Shinjuku... and a major arms dealer arrives in Japan with a new weapon, but with Mikuni in the picture, Ryo and Kaori are growing apart...\n\n(Source: Official Website)'"
-animeRelated	[b'City Hunter']
-animeCharacters	[b'Saeba, Ryou', b'Makimura, Kaori', b'Nogami, Saeko', b'Ijuuin, Hayato', b'Kisugi, Hitomi', b'Kisugi, Rui', b'Kisugi, Ai', b'Shindou, Ai', b'Miki', b'Mikuni, Shinji']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nIkura, Kazue\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nToda, Keiko\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n', b'\nIitoyo, Marie\nJapanese\n', b'\nKoyama, Mami\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKodama, Kenji\n\nDirector\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nKyougoku, Takahiko\n\nEpisode Director\n\n', b'\nSatou, Teruo\n\nEpisode Director\n\n']
+animePopularity	5468
+animeDescription	"Ryo Saeba is the top ""City Hunter"" around and he takes on cases with his partner Kaori. A model named Ai Shindo has been attacked and hires him to be her bodyguard. Shinji Mikuni, the president of an IT company that has hired Ai for its ad campaign, turns out to be an old friend of Kaori, and they become involved. Meanwhile, mercenaries are gathering in Shinjuku... and a major arms dealer arrives in Japan with a new weapon, but with Mikuni in the picture, Ryo and Kaori are growing apart...
+
+(Source: Official Website)"
+animeRelated	['City Hunter']
+animeCharacters	['Saeba, Ryou', 'Makimura, Kaori', 'Nogami, Saeko', 'Ijuuin, Hayato', 'Kisugi, Hitomi', 'Kisugi, Rui', 'Kisugi, Ai', 'Shindou, Ai', 'Miki', 'Mikuni, Shinji']
+animeVoices	['Kamiya, Akira', 'Ikura, Kazue', 'Ichiryuusai, Harumi', 'Genda, Tesshou', 'Toda, Keiko', 'Sakamoto, Chika', 'Iitoyo, Marie', 'Koyama, Mami', 'Yamadera, Kouichi']
+animeStaff	[['Kodama, Kenji', 'Director'], ['Nagasaki, Yukio', 'Sound Director'], ['Kyougoku, Takahiko', 'Episode Director'], ['Satou, Teruo', 'Episode Director']]

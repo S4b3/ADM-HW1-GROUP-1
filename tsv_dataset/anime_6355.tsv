@@ -1,5 +1,5 @@
-animeTitle	b'Otogi Juushi Akazukin OVA'
-animeType	b'OVA'
+animeTitle	Otogi Juushi Akazukin OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.46
 animeUsers	590
 animeRank	
-animePopularity	
-animeDescription	"b""Long, long time ago there where both science and magic in the human world. But God became afraid of the Human's unlimited potential, so he divided the world into two and sealed them apart. One world with magic and the other one with science.\n\nSuzukaze Souta is a normal boy except that he has the Key in his body to break the Seal. The evil witch Cendrillon want that power and tries to take it. Akazukin and Val, a silver wolf, came from the magic-world to prevent her from that.\n\nA grand story of a boy who will lead a checkered life and girls in fairly lands has just begun.\n\n(Source: AniDB)"""
-animeRelated	[b'Otogi Juushi Akazukin']
-animeCharacters	[b'Akazukin', b'Suzukaze, Souta', b'Val', b'Hansel', b'Kinoshita, Ringo', b'Cendrillon', b'Shirayuki-hime']
-animeVoices	[b'\nTamura, Yukari\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nShimizu, Kaori\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nTateno, Kanako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAraki, Tetsurou\n\nDirector, Episode Director, Storyboard\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nTamura, Yukari\n\nTheme Song Performance\n\n', b'\nMasuda, Toshio\n\nMusic\n\n']
+animePopularity	9988
+animeDescription	"Long, long time ago there where both science and magic in the human world. But God became afraid of the Human's unlimited potential, so he divided the world into two and sealed them apart. One world with magic and the other one with science.
+
+Suzukaze Souta is a normal boy except that he has the Key in his body to break the Seal. The evil witch Cendrillon want that power and tries to take it. Akazukin and Val, a silver wolf, came from the magic-world to prevent her from that.
+
+A grand story of a boy who will lead a checkered life and girls in fairly lands has just begun.
+
+(Source: AniDB)"
+animeRelated	['Otogi Juushi Akazukin']
+animeCharacters	['Akazukin', 'Suzukaze, Souta', 'Val', 'Hansel', 'Kinoshita, Ringo', 'Cendrillon', 'Shirayuki-hime']
+animeVoices	['Tamura, Yukari', 'Hiyama, Nobuyuki', 'Shimizu, Kaori', 'Kugimiya, Rie', 'Tateno, Kanako']
+animeStaff	[['Araki, Tetsurou', 'Director, Episode Director, Storyboard'], ['Tanaka, Kazuya', 'Sound Director'], ['Tamura, Yukari', 'Theme Song Performance'], ['Masuda, Toshio', 'Music']]

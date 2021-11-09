@@ -1,5 +1,5 @@
-animeTitle	b'Genshiken OVA'
-animeType	b'OVA'
+animeTitle	Genshiken OVA
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.65
 animeUsers	27805
 animeRank	
-animePopularity	
-animeDescription	"b'It\'s the start of a new year for the Genshiken crew, and that means recruiting new members. Always a dreaded task, The Society for the Study of Modern Visual Culture manages to get Chika Ogiue pushed onto them from the Manga Club. With her introduction of ""I\'m Ogiue and I hate otaku,"" this year certainly will be anything but boring.\n\n(Source: ANN)'"
-animeRelated	[b'Genshiken', b'Genshiken 2']
-animeCharacters	[b'Madarame, Harunobu', b'Ogiue, Chika', b'Kasukabe, Saki', b'Sasahara, Kanji', b'Kousaka, Makoto', b'Oono, Kanako', b'Tanaka, Souichiro', b'Shodai Kaichou', b'Kuchiki, Manabu', b'Kugayama, Mitsunori']
-animeVoices	[b'\nHiyama, Nobuyuki\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nOoyama, Takanori\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nNomura, Kenji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMizushima, Tsutomu\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nmanzo\n\nTheme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement\n\n', b'\nYokote, Michiko\n\nScreenplay, Series Composition\n\n']
+animePopularity	2581
+animeDescription	"It's the start of a new year for the Genshiken crew, and that means recruiting new members. Always a dreaded task, The Society for the Study of Modern Visual Culture manages to get Chika Ogiue pushed onto them from the Manga Club. With her introduction of ""I'm Ogiue and I hate otaku,"" this year certainly will be anything but boring.
+
+(Source: ANN)"
+animeRelated	['Genshiken', 'Genshiken 2']
+animeCharacters	['Madarame, Harunobu', 'Ogiue, Chika', 'Kasukabe, Saki', 'Sasahara, Kanji', 'Kousaka, Makoto', 'Oono, Kanako', 'Tanaka, Souichiro', 'Shodai Kaichou', 'Kuchiki, Manabu', 'Kugayama, Mitsunori']
+animeVoices	['Hiyama, Nobuyuki', 'Mizuhashi, Kaori', 'Yukino, Satsuki', 'Ooyama, Takanori', 'Saiga, Mitsuki', 'Kawasumi, Ayako', 'Seki, Tomokazu', 'Ishida, Akira', 'Nomura, Kenji']
+animeStaff	[['Mizushima, Tsutomu', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['manzo', 'Theme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement'], ['Yokote, Michiko', 'Screenplay, Series Composition']]

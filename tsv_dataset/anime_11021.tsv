@@ -1,5 +1,5 @@
-animeTitle	b'Kaitei Daisensou: Ai no 20,000 Miles'
-animeType	b'Special'
+animeTitle	Kaitei Daisensou: Ai no 20,000 Miles
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.25
 animeUsers	147
 animeRank	
-animePopularity	
-animeDescription	b'All the nations of Earth are crumbling before the might of Darius, ruler of the Gabia Empire. Meanwhile, childhood friends Ben and Ricky are sailing on the oceans is search of the lost city of Atlantis. When their ship is sunk they are saved by Captain Nemo in his submarine Nautilus.\n\n(Source: ANN)'
+animePopularity	12946
+animeDescription	"All the nations of Earth are crumbling before the might of Darius, ruler of the Gabia Empire. Meanwhile, childhood friends Ben and Ricky are sailing on the oceans is search of the lost city of Atlantis. When their ship is sunk they are saved by Captain Nemo in his submarine Nautilus.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Ben', b'Captain Nemo', b'Sofia', b'Rick', b'Emperor Darius', b'Dr Johnson', b'Jim', b'Dr Smith']
-animeVoices	[b'\nIbu, Masatou\nJapanese\n', b'\nKurosawa, Ryo\nJapanese\n', b'\nInoue, Junichi\nJapanese\n', b'\nKatou, Seizou\nJapanese\n', b'\nNishikawa, Ikuo\nJapanese\n', b'\nNishio, Toku\nJapanese\n', b'\nMiyauchi, Kouhei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuri, Ippei\n\nDirector\n\n', b'\nMashimo, Kouichi\n\nEpisode Director\n\n', b'\nOokawara, Kunio\n\nMechanical Design\n\n', b'\nVerne, Jules\n\nOriginal Creator\n\n']
+animeCharacters	['Ben', 'Captain Nemo', 'Sofia', 'Rick', 'Emperor Darius', 'Dr Johnson', 'Jim', 'Dr Smith']
+animeVoices	['Ibu, Masatou', 'Kurosawa, Ryo', 'Inoue, Junichi', 'Katou, Seizou', 'Nishikawa, Ikuo', 'Nishio, Toku', 'Miyauchi, Kouhei']
+animeStaff	[['Kuri, Ippei', 'Director'], ['Mashimo, Kouichi', 'Episode Director'], ['Ookawara, Kunio', 'Mechanical Design'], ['Verne, Jules', 'Original Creator']]

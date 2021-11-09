@@ -1,5 +1,5 @@
-animeTitle	b'Hyokkori Hyoutan Shima'
-animeType	b'Movie'
+animeTitle	Hyokkori Hyoutan Shima
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A group of kids are stranded on a volcanic deserted island.\n\n(Source: AniDB)'
+animePopularity	15616
+animeDescription	"A group of kids are stranded on a volcanic deserted island.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Detective Dax', b'Don Gabacho', b'Nora', b'Kaizoku Torahige', b'Hakase', b'Sunday-sensei', b'Teke', b'Kid Boy', b'Lion']
-animeVoices	[b'\nAmenomori, Masashi\nJapanese\n', b'\nFujimura, Arihiro\nJapanese\n', b'\nWakui, Setsuo\nJapanese\n', b'\nKumakura, Kazuo\nJapanese\n', b'\nNakayama, Chinatsu\nJapanese\n', b'\nKusunoki, Toshie\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nFujita, Toshiko\nJapanese\n', b'\nTakiguchi, Junpei\nJapanese\n']
+animeCharacters	['Detective Dax', 'Don Gabacho', 'Nora', 'Kaizoku Torahige', 'Hakase', 'Sunday-sensei', 'Teke', 'Kid Boy', 'Lion']
+animeVoices	['Amenomori, Masashi', 'Fujimura, Arihiro', 'Wakui, Setsuo', 'Kumakura, Kazuo', 'Nakayama, Chinatsu', 'Kusunoki, Toshie', 'Masuyama, Eiko', 'Fujita, Toshiko', 'Takiguchi, Junpei']
 animeStaff	[]

@@ -1,5 +1,5 @@
-animeTitle	b'Manga Kotowaja Jiten'
-animeType	b'TV'
+animeTitle	Manga Kotowaja Jiten
+animeType	TV
 animeNumEpisode	88
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'An educational anime, each episode contains three short stories.\n\n(Source: AniDB)'
+animePopularity	15320
+animeDescription	"An educational anime, each episode contains three short stories.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Tsugumi ', b'Fukurou ', b'Kamosaburou', b'Kakko', b'Toki', b'Takao', b'Chidori', b'Hakushi, Nanja']
-animeVoices	[b'\nMasuyama, Eiko\nJapanese\n', b'\nYanami, Jouji\nJapanese\n', b'\nHase, Sanji\nJapanese\n', b'\nNakano, Seiko\nJapanese\n', b'\nNomura, Michiko\nJapanese\n', b'\nNoda, Keiichi\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n', b'\nMiyauchi, Kouhei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKondou, Eisuke\n\nDirector\n\n', b'\nSugiyama, Koichi\n\nTheme Song Composition, Music\n\n', b'\nShimon, Masato\n\nTheme Song Performance\n\n', b'\nTakada, Hiroshi\n\nTheme Song Arrangement, Music\n\n']
+animeCharacters	['Tsugumi ', 'Fukurou ', 'Kamosaburou', 'Kakko', 'Toki', 'Takao', 'Chidori', 'Hakushi, Nanja']
+animeVoices	['Masuyama, Eiko', 'Yanami, Jouji', 'Hase, Sanji', 'Nakano, Seiko', 'Nomura, Michiko', 'Noda, Keiichi', 'Sugiyama, Kazuko', 'Miyauchi, Kouhei']
+animeStaff	[['Kondou, Eisuke', 'Director'], ['Sugiyama, Koichi', 'Theme Song Composition, Music'], ['Shimon, Masato', 'Theme Song Performance'], ['Takada, Hiroshi', 'Theme Song Arrangement, Music']]

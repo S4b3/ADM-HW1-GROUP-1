@@ -1,5 +1,5 @@
-animeTitle	b'Final Fantasy VII: Advent Children Complete'
-animeType	b'OVA'
+animeTitle	Final Fantasy VII: Advent Children Complete
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.94
 animeUsers	76255
 animeRank	
-animePopularity	
-animeDescription	b'Two years after saving the world from a cataclysmic event, the members of the activist organization Avalanche have gone their separate ways. Tifa Lockhart opens a new bar, and her childhood friend Cloud Strife starts up a motorcycle-based courier service. Although most of their former allies have fallen out of touch, Cloud and Tifa live in fragile peace with their two young wards Marlene and Denzel.\n\nTheir life together begins to crumble as a contagious plague and overwhelming grief pull Cloud away from his newfound family. While distancing himself through his work, Cloud is attacked by three silver-haired figures in black uniforms who bear a passing resemblance to his bitter rival, Sephiroth. As the antagonistic trio stalks Cloud and brings harm to his loved ones, the former mercenary struggles against his own demons while fighting to protect his family and prevent the will of Sephiroth from returning to the planet.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Final Fantasy VII: Advent Children', b'Final Fantasy VII: On the Way to a Smile - Episode: Denzel']
-animeCharacters	[b'Strife, Cloud', b'Sephiroth', b'Lockhart, Tifa', b'Kadaj', b'Fair, Zack', b'Valentine, Vincent', b'Reno', b'Gainsborough, Aerith', b'Kisaragi, Yuffie', b'Yazoo']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nIto, Ayumi\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nSuzuki, Shougo\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n', b'\nKishi, Yuuji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNozue, Takeshi\n\nCo-Director\n\n', b'\nWay, Gerard\n\nTheme Song Lyrics, Theme Song Performance, Theme Song Composition\n\n', b'\nUematsu, Nobuo\n\nMusic\n\n', b'\nNomura, Tetsuya\n\nOriginal Character Design, Animation Director\n\n']
+animePopularity	1388
+animeDescription	"Two years after saving the world from a cataclysmic event, the members of the activist organization Avalanche have gone their separate ways. Tifa Lockhart opens a new bar, and her childhood friend Cloud Strife starts up a motorcycle-based courier service. Although most of their former allies have fallen out of touch, Cloud and Tifa live in fragile peace with their two young wards Marlene and Denzel.
+
+Their life together begins to crumble as a contagious plague and overwhelming grief pull Cloud away from his newfound family. While distancing himself through his work, Cloud is attacked by three silver-haired figures in black uniforms who bear a passing resemblance to his bitter rival, Sephiroth. As the antagonistic trio stalks Cloud and brings harm to his loved ones, the former mercenary struggles against his own demons while fighting to protect his family and prevent the will of Sephiroth from returning to the planet.
+
+[Written by MAL Rewrite]"
+animeRelated	['Final Fantasy VII: Advent Children', 'Final Fantasy VII: On the Way to a Smile - Episode: Denzel']
+animeCharacters	['Strife, Cloud', 'Sephiroth', 'Lockhart, Tifa', 'Kadaj', 'Fair, Zack', 'Valentine, Vincent', 'Reno', 'Gainsborough, Aerith', 'Kisaragi, Yuffie', 'Yazoo']
+animeVoices	['Sakurai, Takahiro', 'Morikawa, Toshiyuki', 'Ito, Ayumi', 'Morikubo, Shoutarou', 'Suzumura, Kenichi', 'Suzuki, Shougo', 'Fujiwara, Keiji', 'Sakamoto, Maaya', 'Kakazu, Yumi', 'Kishi, Yuuji']
+animeStaff	[['Nozue, Takeshi', 'Co-Director'], ['Way, Gerard', 'Theme Song Lyrics, Theme Song Performance, Theme Song Composition'], ['Uematsu, Nobuo', 'Music'], ['Nomura, Tetsuya', 'Original Character Design, Animation Director']]

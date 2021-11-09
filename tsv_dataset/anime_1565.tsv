@@ -1,5 +1,5 @@
-animeTitle	b'Kappa no Coo to Natsuyasumi'
-animeType	b'Movie'
+animeTitle	Kappa no Coo to Natsuyasumi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.52
 animeUsers	6387
 animeRank	
-animePopularity	
-animeDescription	"b'Kouichi Uehara is a fourth grade student living in the suburb of Tokyo. One day, he picks up a large stone which turns out to be a fossil of a baby ""Kappa"" who has been sleeping underground for the past 300 years, and names it ""Coo."" They become good friends and Coo starts living with Kouichi\'s family. However, Coo has a hard time adjusting to life among humans and misses his kind.'"
+animePopularity	4568
+animeDescription	"Kouichi Uehara is a fourth grade student living in the suburb of Tokyo. One day, he picks up a large stone which turns out to be a fossil of a baby ""Kappa"" who has been sleeping underground for the past 300 years, and names it ""Coo."" They become good friends and Coo starts living with Kouichi's family. However, Coo has a hard time adjusting to life among humans and misses his kind."
 animeRelated	[]
-animeCharacters	[b'Coo', b'Uehara, Kouichi', b'Ossan', b'Kikuchi, Sayoko', b'Classmate 3', b'Husband', b'Toshio', b'Diner Lady', b'Shimizu, Sumio', b'Wife']
-animeVoices	[b'\nTomizawa, Kazato\nJapanese\n', b'\nYokokawa, Takahiro\nJapanese\n', b'\nYasuhara, Yoshito\nJapanese\n', b'\nInaba, Minoru\nJapanese\n', b'\nTomita, Kousei\nJapanese\n', b'\nIchijou, Miyuki\nJapanese\n', b'\nHazama, Michio\nJapanese\n', b'\nSadaoka, Sayuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSano, Hiroaki\n\nProducer\n\n', b'\nHara, Keiichi\n\nDirector\n\n', b'\nOokuma, Akira\n\nSound Director\n\n', b'\nSuzuki, Kenichi\n\nProduction Manager\n\n']
+animeCharacters	['Coo', 'Uehara, Kouichi', 'Ossan', 'Kikuchi, Sayoko', 'Classmate 3', 'Husband', 'Toshio', 'Diner Lady', 'Shimizu, Sumio', 'Wife']
+animeVoices	['Tomizawa, Kazato', 'Yokokawa, Takahiro', 'Yasuhara, Yoshito', 'Inaba, Minoru', 'Tomita, Kousei', 'Ichijou, Miyuki', 'Hazama, Michio', 'Sadaoka, Sayuri']
+animeStaff	[['Sano, Hiroaki', 'Producer'], ['Hara, Keiichi', 'Director'], ['Ookuma, Akira', 'Sound Director'], ['Suzuki, Kenichi', 'Production Manager']]

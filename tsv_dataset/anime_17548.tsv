@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 41: Nobita no Little Star Wars'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 41: Nobita no Little Star Wars
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Doraemon Movie 06: Nobita no Little Star Wars', b'Doraemon (2005)']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi']
-animeVoices	[b'\nKimura, Subaru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamaguchi, Susumu\n\nDirector\n\n', b'\nOfficial HIGE DANdism\n\nTheme Song Performance\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n', b'\nSatou, Dai\n\nScreenplay\n\n']
+animePopularity	10951
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Doraemon Movie 06: Nobita no Little Star Wars', 'Doraemon (2005)']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi']
+animeVoices	['Kimura, Subaru']
+animeStaff	[['Yamaguchi, Susumu', 'Director'], ['Official HIGE DANdism', 'Theme Song Performance'], ['Fujiko, Fujio F.', 'Original Creator'], ['Satou, Dai', 'Screenplay']]

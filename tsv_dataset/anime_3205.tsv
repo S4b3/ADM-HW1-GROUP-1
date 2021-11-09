@@ -1,5 +1,5 @@
-animeTitle	b'Shikioriori'
-animeType	b'Movie'
+animeTitle	Shikioriori
+animeType	Movie
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	7.13
 animeUsers	72455
 animeRank	
-animePopularity	
-animeDescription	"b""The rigorous city life of China, while bustling and unforgiving, contains the everlasting memories of days past. Three stories told in three different cities, Shikioriori follows the loss of youth and the daunting realization of adulthood. \n\nThough reality may seem ever changing, unchangeable are the short-lived moments of one's childhood days. A plentiful bowl of noodles, the beauty of family and the trials of first love endure the inevitable flow of time, as three different characters explore the strength of bonds and the warmth of cherished memories. Within the disorder of the present world, witness these quaint stories recognize the comfort of the past, and attempt to revive the neglected flavors of youth. \n\n[Written by MAL Rewrite]\n"""
+animePopularity	1302
+animeDescription	"The rigorous city life of China, while bustling and unforgiving, contains the everlasting memories of days past. Three stories told in three different cities, Shikioriori follows the loss of youth and the daunting realization of adulthood. 
+
+Though reality may seem ever changing, unchangeable are the short-lived moments of one's childhood days. A plentiful bowl of noodles, the beauty of family and the trials of first love endure the inevitable flow of time, as three different characters explore the strength of bonds and the warmth of cherished memories. Within the disorder of the present world, witness these quaint stories recognize the comfort of the past, and attempt to revive the neglected flavors of youth. 
+
+[Written by MAL Rewrite]
+"
 animeRelated	[]
-animeCharacters	[b'Limo', b'Yi Lin', b'Ming, Xiao', b'Xiao Yu', b'Lulu', b'Steve']
-animeVoices	[b'\nKotobuki, Minako\nJapanese\n', b'\nBan, Taito\nJapanese\n', b'\nHasegawa, Ikumi\nJapanese\n', b'\nShiraishi, Haruka\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTang, Yunkang\n\nProducer\n\n', b'\nHori, Yuuta\n\nProducer, Script\n\n', b'\nInagaki, Yasutaka\n\nProducer, Script\n\n', b'\nLi, Haoling\n\nDirector, Script, Storyboard, Planning, Original Creator\n\n']
+animeCharacters	['Limo', 'Yi Lin', 'Ming, Xiao', 'Xiao Yu', 'Lulu', 'Steve']
+animeVoices	['Kotobuki, Minako', 'Ban, Taito', 'Hasegawa, Ikumi', 'Shiraishi, Haruka', 'Yasumoto, Hiroki']
+animeStaff	[['Tang, Yunkang', 'Producer'], ['Hori, Yuuta', 'Producer, Script'], ['Inagaki, Yasutaka', 'Producer, Script'], ['Li, Haoling', 'Director, Script, Storyboard, Planning, Original Creator']]

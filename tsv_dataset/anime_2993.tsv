@@ -1,5 +1,5 @@
-animeTitle	b'Moonlight Mile 1st Season: Lift Off'
-animeType	b'TV'
+animeTitle	Moonlight Mile 1st Season: Lift Off
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.17
 animeUsers	2847
 animeRank	
-animePopularity	
-animeDescription	"b'After scaling Mt. Everest, mountain climbing partners Saruwatari Gorou and ""Lostman"" Jack F. Woodbridge see the ISA Space Station, and each vows to make the trek into outerspace. When Helium 3, a new energy source, is discovered on the moon, NASA forms a new project named ""Nexus"" to harness that energy for use on earth. This is the story of the two and the paths they take to see their dream become a reality in the quest to harness the next-generation energy source.\n\n(Source: ANN)'"
-animeRelated	[b'Moonlight Mile', b'Moonlight Mile 2nd Season: Touch Down']
-animeCharacters	[b'Saruwatari, Gorou', b'Woodbridge, Jack F.', b'Ikeuchi, Riyoko', b'Tarkovsky', b'Rachel', b'Jacob', b'Takeuchi', b'Maria', b'Pandani, Roberto', b'Soderbergh']
-animeVoices	[b'\nInoue, Kazuhiko\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nAsou, Tomohisa\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nTsuchiya, Toshihide\nJapanese\n', b'\nNarita, Ken\nJapanese\n', b'\nKouda, Kaho\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n', b'\nHazumi, Jun\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Iku\n\nDirector\n\n', b'\nAsami, Matsuo\n\nEpisode Director\n\n', b'\nGrelle, Josh\n\nScript\n\n', b'\nAuten, Christine\n\nScript, ADR Director\n\n']
+animePopularity	5330
+animeDescription	"After scaling Mt. Everest, mountain climbing partners Saruwatari Gorou and ""Lostman"" Jack F. Woodbridge see the ISA Space Station, and each vows to make the trek into outerspace. When Helium 3, a new energy source, is discovered on the moon, NASA forms a new project named ""Nexus"" to harness that energy for use on earth. This is the story of the two and the paths they take to see their dream become a reality in the quest to harness the next-generation energy source.
+
+(Source: ANN)"
+animeRelated	['Moonlight Mile', 'Moonlight Mile 2nd Season: Touch Down']
+animeCharacters	['Saruwatari, Gorou', 'Woodbridge, Jack F.', 'Ikeuchi, Riyoko', 'Tarkovsky', 'Rachel', 'Jacob', 'Takeuchi', 'Maria', 'Pandani, Roberto', 'Soderbergh']
+animeVoices	['Inoue, Kazuhiko', 'Hirata, Hiroaki', 'Tanaka, Rie', 'Asou, Tomohisa', 'Kadowaki, Mai', 'Tsuchiya, Toshihide', 'Narita, Ken', 'Kouda, Kaho', 'Ookawa, Tooru', 'Hazumi, Jun']
+animeStaff	[['Suzuki, Iku', 'Director'], ['Asami, Matsuo', 'Episode Director'], ['Grelle, Josh', 'Script'], ['Auten, Christine', 'Script, ADR Director']]

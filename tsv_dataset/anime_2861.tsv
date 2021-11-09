@@ -1,5 +1,5 @@
-animeTitle	b'Kimi ga Nozomu Eien'
-animeType	b'TV'
+animeTitle	Kimi ga Nozomu Eien
+animeType	TV
 animeNumEpisode	14
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.21
 animeUsers	62705
 animeRank	
-animePopularity	
-animeDescription	"b""In the warmth of a golden sun, timid high school student Haruka Suzumiya confesses to Takayuki Narumi, the boy she admires. Takayuki accepts Haruka's confession and the two become a couple, supported by their mutual friends Mitsuki Hayase and Shinji Taira. All is well for these friends\xe2\x80\x94until tragedy strikes. \n\nOne of them is sent to an unenviable fate, lying dormant in a coma. Three years later, they awaken, but their sudden reappearance in everyone's lives threatens to test the limits of these friends' bonds.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Akane Maniax', b'Kimi ga Nozomu Eien: Ayu Mayu Gekijou', b'Kimi ga Nozomu Eien: Gundam Parody', b'Kimi ga Nozomu Eien: Next Season']
-animeCharacters	[b'Hayase, Mitsuki', b'Suzumiya, Haruka', b'Narumi, Takayuki', b'Suzumiya, Akane', b'Daikuuji, Ayu', b'Kouzuki, Motoko', b'Tamano, Mayu', b'Sakiyama, Kenzou', b'Ishida, Azusa', b'Hoshino, Fumio']
-animeVoices	[b'\nTakahashi, Chiaki\nJapanese\n', b'\nKuribayashi, Minami\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nAsai, Kiyomi\nJapanese\n', b'\nKosuge, Mami\nJapanese\n', b'\nYoshizumi, Kozue\nJapanese\n', b'\nOka, Kazuo\nJapanese\n', b'\nItou, Miki\nJapanese\n', b'\nHitomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nWatanabe, Tetsuya\n\nDirector, Episode Director, Storyboard\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nTakayanagi, Shigehito\n\nEpisode Director, Storyboard\n\n']
+animePopularity	1318
+animeDescription	"In the warmth of a golden sun, timid high school student Haruka Suzumiya confesses to Takayuki Narumi, the boy she admires. Takayuki accepts Haruka's confession and the two become a couple, supported by their mutual friends Mitsuki Hayase and Shinji Taira. All is well for these friends—until tragedy strikes. 
+
+One of them is sent to an unenviable fate, lying dormant in a coma. Three years later, they awaken, but their sudden reappearance in everyone's lives threatens to test the limits of these friends' bonds.
+
+[Written by MAL Rewrite]"
+animeRelated	['Akane Maniax', 'Kimi ga Nozomu Eien: Ayu Mayu Gekijou', 'Kimi ga Nozomu Eien: Gundam Parody', 'Kimi ga Nozomu Eien: Next Season']
+animeCharacters	['Hayase, Mitsuki', 'Suzumiya, Haruka', 'Narumi, Takayuki', 'Suzumiya, Akane', 'Daikuuji, Ayu', 'Kouzuki, Motoko', 'Tamano, Mayu', 'Sakiyama, Kenzou', 'Ishida, Azusa', 'Hoshino, Fumio']
+animeVoices	['Takahashi, Chiaki', 'Kuribayashi, Minami', 'Taniyama, Kishou', 'Mizuhashi, Kaori', 'Asai, Kiyomi', 'Kosuge, Mami', 'Yoshizumi, Kozue', 'Oka, Kazuo', 'Itou, Miki', 'Hitomi']
+animeStaff	[['Cook, Justin', 'Producer'], ['Watanabe, Tetsuya', 'Director, Episode Director, Storyboard'], ['Kikuta, Hiromi', 'Sound Director'], ['Takayanagi, Shigehito', 'Episode Director, Storyboard']]

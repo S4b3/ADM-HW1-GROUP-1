@@ -1,5 +1,5 @@
-animeTitle	b'Kiddy Grade: Ignition'
-animeType	b'Movie'
+animeTitle	Kiddy Grade: Ignition
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.98
 animeUsers	1299
 animeRank	
-animePopularity	
-animeDescription	"b""A recap of the original anime's first quarter."""
-animeRelated	[b'Kiddy Grade', b'Kiddy Grade: Maelstrom']
-animeCharacters	[b'\xc3\x89clair', b'Lumi\xc3\xa8re', b'Sinistra', b'Tweedledee', b'Jenever, Alv', b'Tweedledum', b'Un-ou', b'Mercredi', b'Armbrust', b'Dextera']
-animeVoices	[b'\nNagata, Ryoko\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nIshida, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKikuchi, Tsuyoshi\n\nAssistant Producer\n\n', b'\nGotou, Keiji\n\nDirector\n\n', b'\nKimura, Hidefumi\n\nScript\n\n', b'\nHamaguchi, Shirou\n\nMusic\n\n']
+animePopularity	7277
+animeDescription	A recap of the original anime's first quarter.
+animeRelated	['Kiddy Grade', 'Kiddy Grade: Maelstrom']
+animeCharacters	['Éclair', 'Lumière', 'Sinistra', 'Tweedledee', 'Jenever, Alv', 'Tweedledum', 'Un-ou', 'Mercredi', 'Armbrust', 'Dextera']
+animeVoices	['Nagata, Ryoko', 'Hirano, Aya', 'Ishida, Akira']
+animeStaff	[['Kikuchi, Tsuyoshi', 'Assistant Producer'], ['Gotou, Keiji', 'Director'], ['Kimura, Hidefumi', 'Script'], ['Hamaguchi, Shirou', 'Music']]

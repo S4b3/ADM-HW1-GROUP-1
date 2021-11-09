@@ -1,5 +1,5 @@
-animeTitle	b'Wizard Barristers: Benmashi Cecil'
-animeType	b'TV'
+animeTitle	Wizard Barristers: Benmashi Cecil
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.18
 animeUsers	20470
 animeRank	
-animePopularity	
-animeDescription	"b'The story takes place in Tokyo in 2018, where normal humans and those who can use magic coexist. As a result, there are laws against using magic, and a ""magic courtroom"" exists to preside over lawsuits regarding magic use. In these cases, ""Benmashi"" or wizard barristers defend those who use magic. The anime follows Cecil, the youngest Benmashi in history, and her associates as they defend clients in these cases.\n\n(Source: ANN)'"
+animePopularity	2405
+animeDescription	"The story takes place in Tokyo in 2018, where normal humans and those who can use magic coexist. As a result, there are laws against using magic, and a ""magic courtroom"" exists to preside over lawsuits regarding magic use. In these cases, ""Benmashi"" or wizard barristers defend those who use magic. The anime follows Cecil, the youngest Benmashi in history, and her associates as they defend clients in these cases.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Sudou, Cecil', b'Tento, Moyo', b'Erari, Quinn', b'Sasori, Koromo', b'Hachiya, Mitsuhisa', b'Chouno, Ageha', b'Kamakiri, Tobirou', b'Nana Djinni', b'Kaede', b'Otoo, Shigeyuki']
-animeVoices	[b'\nTanabe, Rui\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nOokubo, Rumi\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n', b'\nTsunematsu, Ayumi\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nMikami, Shiori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Shinichi\n\nProducer\n\n', b'\nUmetsu, Yasuomi\n\nDirector, Episode Director, Storyboard, Key Animation, Original Creator, Series Composition, Chief Animation Director, Animation Director, Character Design\n\n', b'\nSanpei, Hijiri\n\nEpisode Director\n\n', b'\nBarr, Katelyn\n\nScript\n\n']
+animeCharacters	['Sudou, Cecil', 'Tento, Moyo', 'Erari, Quinn', 'Sasori, Koromo', 'Hachiya, Mitsuhisa', 'Chouno, Ageha', 'Kamakiri, Tobirou', 'Nana Djinni', 'Kaede', 'Otoo, Shigeyuki']
+animeVoices	['Tanabe, Rui', 'Taketatsu, Ayana', 'Inoue, Marina', 'Ookubo, Rumi', 'Touchi, Hiroki', 'Tsunematsu, Ayumi', 'Chafurin', 'Wakamoto, Norio', 'Mikami, Shiori']
+animeStaff	[['Nakamura, Shinichi', 'Producer'], ['Umetsu, Yasuomi', 'Director, Episode Director, Storyboard, Key Animation, Original Creator, Series Composition, Chief Animation Director, Animation Director, Character Design'], ['Sanpei, Hijiri', 'Episode Director'], ['Barr, Katelyn', 'Script']]

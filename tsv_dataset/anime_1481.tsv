@@ -1,5 +1,5 @@
-animeTitle	b'Afro Samurai Movie'
-animeType	b'Movie'
+animeTitle	Afro Samurai Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.54
 animeUsers	29672
 animeRank	
-animePopularity	
-animeDescription	b'A movie adaptation of the TV series.'
-animeRelated	[b'Afro Samurai', b'Afro Samurai: Resurrection']
-animeCharacters	[b'Samurai, Afro', b'Ninja Ninja', b'Jinno', b'Justice', b'Otsuru', b'Sasuke', b'Brother One', b'Rukotaro', b'Sword Master', b'Yashichi']
+animePopularity	2329
+animeDescription	A movie adaptation of the TV series.
+animeRelated	['Afro Samurai', 'Afro Samurai: Resurrection']
+animeCharacters	['Samurai, Afro', 'Ninja Ninja', 'Jinno', 'Justice', 'Otsuru', 'Sasuke', 'Brother One', 'Rukotaro', 'Sword Master', 'Yashichi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkazaki, Takashi\n\nOriginal Creator\n\n']
+animeStaff	[['Okazaki, Takashi', 'Original Creator']]

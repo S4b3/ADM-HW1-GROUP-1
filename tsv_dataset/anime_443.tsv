@@ -1,5 +1,5 @@
-animeTitle	b'Haikyuu!! Movie 3: Sainou to Sense'
-animeType	b'Movie'
+animeTitle	Haikyuu!! Movie 3: Sainou to Sense
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.09
 animeUsers	20433
 animeRank	
-animePopularity	
-animeDescription	b'Recap film that will cover the match against Aobajosai High School that took place in the second season.\n\n(Source: MAL News)'
-animeRelated	[b'Haikyuu!!', b'Haikyuu!! Second Season', b'Haikyuu!! Movie 2: Shousha to Haisha', b'Haikyuu!! Movie 4: Concept no Tatakai']
-animeCharacters	[b'Hinata, Shouyou', b'Kageyama, Tobio', b'Iwaizumi, Hajime', b'Nishinoya, Yuu', b'Tsukishima, Kei', b'Sugawara, Koushi', b'Tanaka, Ryuunosuke', b'Yamaguchi, Tadashi', b'Azumane, Asahi', b'Sawamura, Daichi']
+animePopularity	2334
+animeDescription	"Recap film that will cover the match against Aobajosai High School that took place in the second season.
+
+(Source: MAL News)"
+animeRelated	['Haikyuu!!', 'Haikyuu!! Second Season', 'Haikyuu!! Movie 2: Shousha to Haisha', 'Haikyuu!! Movie 4: Concept no Tatakai']
+animeCharacters	['Hinata, Shouyou', 'Kageyama, Tobio', 'Iwaizumi, Hajime', 'Nishinoya, Yuu', 'Tsukishima, Kei', 'Sugawara, Koushi', 'Tanaka, Ryuunosuke', 'Yamaguchi, Tadashi', 'Azumane, Asahi', 'Sawamura, Daichi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorihiro, Fumi\n\nProducer\n\n', b'\nMatsushita, Keiko\n\nProducer\n\n', b'\nSPYAIR\n\nTheme Song Performance\n\n', b'\nFurudate, Haruichi\n\nOriginal Creator\n\n']
+animeStaff	[['Morihiro, Fumi', 'Producer'], ['Matsushita, Keiko', 'Producer'], ['SPYAIR', 'Theme Song Performance'], ['Furudate, Haruichi', 'Original Creator']]

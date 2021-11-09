@@ -1,5 +1,5 @@
-animeTitle	b'Net Ghost Pipopa'
-animeType	b'TV'
+animeTitle	Net Ghost Pipopa
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.76
 animeUsers	540
 animeRank	
-animePopularity	
-animeDescription	"b""About a young boy named Akigawa Yuta who gets sucked into a virtual world through his cell phone. He meets three strange creatures that travel with him on Yuta's adventure in this strange new world."""
+animePopularity	9652
+animeDescription	About a young boy named Akigawa Yuta who gets sucked into a virtual world through his cell phone. He meets three strange creatures that travel with him on Yuta's adventure in this strange new world.
 animeRelated	[]
-animeCharacters	[b'Pat', b'Akikawa, Yuuta', b'Sobue, Hikaru', b'Pot', b'Pit', b'Shindou, Mamoru', b'Matsushita, Shuuzou', b'Theodore', b'Akiyama, Kenta', b'Bat']
-animeVoices	[b'\nYabe, Masahito\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nArai, Satomi\nJapanese\n', b'\nShiraishi, Ryouko\nJapanese\n', b'\nSasajima, Kaoru\nJapanese\n', b'\nYonaga, Tsubasa\nJapanese\n', b'\nOokawa, Tooru\nJapanese\n', b'\nShimura, Tomoyuki\nJapanese\n', b'\nGibu, Yuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamakawa, Norio\n\nProducer\n\n', b'\nKimura, Shinichiro\n\nDirector\n\n', b'\nSuzuki, Iku\n\nEpisode Director, Storyboard\n\n', b'\nTamagawa, Makoto\n\nEpisode Director, Storyboard\n\n']
+animeCharacters	['Pat', 'Akikawa, Yuuta', 'Sobue, Hikaru', 'Pot', 'Pit', 'Shindou, Mamoru', 'Matsushita, Shuuzou', 'Theodore', 'Akiyama, Kenta', 'Bat']
+animeVoices	['Yabe, Masahito', 'Satou, Rina', 'Yahagi, Sayuri', 'Arai, Satomi', 'Shiraishi, Ryouko', 'Sasajima, Kaoru', 'Yonaga, Tsubasa', 'Ookawa, Tooru', 'Shimura, Tomoyuki', 'Gibu, Yuko']
+animeStaff	[['Yamakawa, Norio', 'Producer'], ['Kimura, Shinichiro', 'Director'], ['Suzuki, Iku', 'Episode Director, Storyboard'], ['Tamagawa, Makoto', 'Episode Director, Storyboard']]

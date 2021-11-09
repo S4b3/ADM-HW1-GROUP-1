@@ -1,5 +1,5 @@
-animeTitle	b'GS Mikami: Gokuraku Daisakusen!!'
-animeType	b'Movie'
+animeTitle	GS Mikami: Gokuraku Daisakusen!!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.58
 animeUsers	1002
 animeRank	
-animePopularity	
-animeDescription	"b""Her name is Mikami and she is a Ghost Sweeper by profession. She's also the sexiest exorcist/bounty hunter you will ever meet! When an evil vampire sorcerer returns to Tokyo after a 100-year absence, Mikami is hired to track him and his menacing assistant down before they take over the city."""
-animeRelated	[b'GS Mikami']
-animeCharacters	[b'Mikami, Reiko', b'Yokoshima, Tadao', b'Nosferatu', b'Himuro, Kinu', b'Mori, Ranmaru', b'Yakuchin', b'de Bloodeau, Pietro', b'Karasu, Kazuhiro']
-animeVoices	[b'\nTsuru, Hiromi\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nNaya, Gorou\nJapanese\n', b'\nKouda, Mariko\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nChafurin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUmezawa, Atsutoshi\n\nDirector\n\n', b'\nOkui, Masami\n\nTheme Song Performance\n\n', b'\nHosoda, Mamoru\n\nKey Animation\n\n', b'\nKagami, Takahiro\n\nKey Animation\n\n']
+animePopularity	8663
+animeDescription	Her name is Mikami and she is a Ghost Sweeper by profession. She's also the sexiest exorcist/bounty hunter you will ever meet! When an evil vampire sorcerer returns to Tokyo after a 100-year absence, Mikami is hired to track him and his menacing assistant down before they take over the city.
+animeRelated	['GS Mikami']
+animeCharacters	['Mikami, Reiko', 'Yokoshima, Tadao', 'Nosferatu', 'Himuro, Kinu', 'Mori, Ranmaru', 'Yakuchin', 'de Bloodeau, Pietro', 'Karasu, Kazuhiro']
+animeVoices	['Tsuru, Hiromi', 'Horikawa, Ryo', 'Naya, Gorou', 'Kouda, Mariko', 'Furukawa, Toshio', 'Chafurin']
+animeStaff	[['Umezawa, Atsutoshi', 'Director'], ['Okui, Masami', 'Theme Song Performance'], ['Hosoda, Mamoru', 'Key Animation'], ['Kagami, Takahiro', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Sonic\xe2\x98\x85the\xe2\x98\x85Hedgehog'
-animeType	b'OVA'
+animeTitle	Sonic★the★Hedgehog
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.83
 animeUsers	10265
 animeRank	
-animePopularity	
-animeDescription	"b""When Dr. Eggman (Robotnik in the US version) holds the president and his daughter hostage, Sonic must comply to the evil scientist's demand of going to Eggmanland to stop Black Eggman and deactivate the city's generator before it reaches critical mass. Little does Sonic know that it's a trap to activate Hyper Metal Sonic, a robot counterpart built by Eggman to destroy our hero.\n\n(Source: ANN)"""
-animeRelated	[b'Sonic X', b'Sonic: Night of the WereHog']
-animeCharacters	[b'Sonic the Hedgehog', b'The Echidna, Knuckles', b'Robotnik, Ivo', b'Metal Sonic', b'Prower, Miles', b'Sara']
-animeVoices	[b'\nKikuchi, Masami\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nTakiguchi, Junpei\nJapanese\n', b'\nShiina, Hekiru\nJapanese\n', b'\nKanai, Mika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nCampbell, Charles\n\nADR Director, Recording Engineer\n\n', b'\nNaka, Yuuji\n\nProduction Assistant\n\n', b'\nMuroi, Fumie\n\nAssistant Animation Director, Key Animation\n\n']
+animePopularity	4423
+animeDescription	"When Dr. Eggman (Robotnik in the US version) holds the president and his daughter hostage, Sonic must comply to the evil scientist's demand of going to Eggmanland to stop Black Eggman and deactivate the city's generator before it reaches critical mass. Little does Sonic know that it's a trap to activate Hyper Metal Sonic, a robot counterpart built by Eggman to destroy our hero.
+
+(Source: ANN)"
+animeRelated	['Sonic X', 'Sonic: Night of the WereHog']
+animeCharacters	['Sonic the Hedgehog', 'The Echidna, Knuckles', 'Robotnik, Ivo', 'Metal Sonic', 'Prower, Miles', 'Sara']
+animeVoices	['Kikuchi, Masami', 'Matsumoto, Yasunori', 'Takiguchi, Junpei', 'Shiina, Hekiru', 'Kanai, Mika']
+animeStaff	[['Fujiyama, Fusanobu', 'Sound Director'], ['Campbell, Charles', 'ADR Director, Recording Engineer'], ['Naka, Yuuji', 'Production Assistant'], ['Muroi, Fumie', 'Assistant Animation Director, Key Animation']]

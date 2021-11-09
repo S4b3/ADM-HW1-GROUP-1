@@ -1,5 +1,5 @@
-animeTitle	b'Final Fantasy'
-animeType	b'OVA'
+animeTitle	Final Fantasy
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.1
 animeUsers	5663
 animeRank	
-animePopularity	
-animeDescription	b'A continuation of the events from Final Fantasy V. 200 years after Bartz and his friends saved two worlds from the threat of ExDeath, a threat arises and seeks to take the Crystals for itself. Linaly, a descendant of Bartz, and her friend/protector Prettz journey to the Temple Of Wind to seek the source of this new danger. \n\n(Source: ANN)'
+animePopularity	4645
+animeDescription	"A continuation of the events from Final Fantasy V. 200 years after Bartz and his friends saved two worlds from the threat of ExDeath, a threat arises and seeks to take the Crystals for itself. Linaly, a descendant of Bartz, and her friend/protector Prettz journey to the Temple Of Wind to seek the source of this new danger. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Klauser, Linaly', b'Prettz', b'Ra Devil', b'Valkus', b'Rouge', b'Hassam', b'Mid', b'Queen Lenna']
-animeVoices	[b'\nMinaguchi, Yuko\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nHirano, Fumi\nJapanese\n', b'\nTomiyama, Kei\nJapanese\n', b'\nKozakura, Etsuko\nJapanese\n', b'\nKasahara, Hiroko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nRintaro\n\nDirector\n\n', b'\nOokubo, Tomihiko\n\nDirector, Key Animation\n\n', b'\nSekijima, Mayori\n\nScript\n\n', b'\nIso, Mitsuo\n\nSpecial Effects, Key Animation\n\n']
+animeCharacters	['Klauser, Linaly', 'Prettz', 'Ra Devil', 'Valkus', 'Rouge', 'Hassam', 'Mid', 'Queen Lenna']
+animeVoices	['Minaguchi, Yuko', 'Matsumoto, Rica', 'Ogata, Kenichi', 'Chiba, Shigeru', 'Hirano, Fumi', 'Tomiyama, Kei', 'Kozakura, Etsuko', 'Kasahara, Hiroko']
+animeStaff	[['Rintaro', 'Director'], ['Ookubo, Tomihiko', 'Director, Key Animation'], ['Sekijima, Mayori', 'Script'], ['Iso, Mitsuo', 'Special Effects, Key Animation']]

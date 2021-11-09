@@ -1,5 +1,5 @@
-animeTitle	b'Panyo Panyo Di Gi Charat'
-animeType	b'TV'
+animeTitle	Panyo Panyo Di Gi Charat
+animeType	TV
 animeNumEpisode	48
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.68
 animeUsers	1488
 animeRank	
-animePopularity	
-animeDescription	b'Deijiko is the princess of the planet of Di Gi Charat. After reading a book, she is influenced to want to help everyone be happy. She leaves the castle and pretends to be a normal girl. She tries to make everyone happy by taking various jobs around the town and thereby making all sorts of new friends and inevitably, enemies.\n\n(Source: ANN)'
-animeRelated	[b'Di Gi Charat']
-animeCharacters	[b'Di Gi Charat', b'Petit Charat', b'Gema', b'Rinna Charat', b'Charat, MeeK', b'Analogue III, Pyocola', b'Mermaid Princess', b'Deji Devil']
-animeVoices	[b'\nSanada, Asami\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKamei, Yoshiko\nJapanese\n', b'\nEnomoto, Atsuko\nJapanese\n', b'\nKozakura, Etsuko\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakayanagi, Shigehito\n\nDirector, Episode Director, Storyboard\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nAraki, Tetsurou\n\nEpisode Director, Storyboard\n\n', b'\nKon, Chiaki\n\nEpisode Director, Storyboard\n\n']
+animePopularity	7051
+animeDescription	"Deijiko is the princess of the planet of Di Gi Charat. After reading a book, she is influenced to want to help everyone be happy. She leaves the castle and pretends to be a normal girl. She tries to make everyone happy by taking various jobs around the town and thereby making all sorts of new friends and inevitably, enemies.
+
+(Source: ANN)"
+animeRelated	['Di Gi Charat']
+animeCharacters	['Di Gi Charat', 'Petit Charat', 'Gema', 'Rinna Charat', 'Charat, MeeK', 'Analogue III, Pyocola', 'Mermaid Princess', 'Deji Devil']
+animeVoices	['Sanada, Asami', 'Sawashiro, Miyuki', 'Kamei, Yoshiko', 'Enomoto, Atsuko', 'Kozakura, Etsuko', 'Hayashibara, Megumi', 'Saitou, Chiwa', 'Ueda, Yuuji']
+animeStaff	[['Takayanagi, Shigehito', 'Director, Episode Director, Storyboard'], ['Tanaka, Kazuya', 'Sound Director'], ['Araki, Tetsurou', 'Episode Director, Storyboard'], ['Kon, Chiaki', 'Episode Director, Storyboard']]

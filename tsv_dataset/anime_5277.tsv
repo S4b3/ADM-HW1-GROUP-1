@@ -1,5 +1,5 @@
-animeTitle	b'Fate/Zero: Onegai! Einzbern Soudanshitsu'
-animeType	b'Special'
+animeTitle	Fate/Zero: Onegai! Einzbern Soudanshitsu
+animeType	Special
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.66
 animeUsers	14632
 animeRank	
-animePopularity	
-animeDescription	b'Written by Kinoko Nasu, these specials are included in the BD box sets I & II.\n\nJoin Irisviel as she helps Disciple No. Zero understand more details and history relating to the Holy Grail War.'
-animeRelated	[b'Fate/Zero', b'Fate/Zero 2nd Season']
-animeCharacters	[b'von Einzbern, Irisviel', b'Fujimura, Taiga', b'Lancer', b'Berserker', b'Caster', b'Assassin']
-animeVoices	[b'\nOhara, Sayaka\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nTsuruoka, Satoshi\nJapanese\n', b'\nKawamura, Takuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNasu, Kinoko\n\nScreenplay\n\n', b'\nType-Moon\n\nOriginal Creator\n\n', b'\nTakeuchi, Takashi\n\nCharacter Design\n\n']
+animePopularity	3098
+animeDescription	"Written by Kinoko Nasu, these specials are included in the BD box sets I & II.
+
+Join Irisviel as she helps Disciple No. Zero understand more details and history relating to the Holy Grail War."
+animeRelated	['Fate/Zero', 'Fate/Zero 2nd Season']
+animeCharacters	['von Einzbern, Irisviel', 'Fujimura, Taiga', 'Lancer', 'Berserker', 'Caster', 'Assassin']
+animeVoices	['Ohara, Sayaka', 'Kanemoto, Hisako', 'Midorikawa, Hikaru', 'Okiayu, Ryoutarou', 'Tsuruoka, Satoshi', 'Kawamura, Takuo']
+animeStaff	[['Nasu, Kinoko', 'Screenplay'], ['Type-Moon', 'Original Creator'], ['Takeuchi, Takashi', 'Character Design']]

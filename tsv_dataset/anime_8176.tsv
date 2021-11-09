@@ -1,5 +1,5 @@
-animeTitle	b'Parappa the Rapper'
-animeType	b'TV'
+animeTitle	Parappa the Rapper
+animeType	TV
 animeNumEpisode	30
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.1
 animeUsers	769
 animeRank	
-animePopularity	
-animeDescription	"b""Parappa is just your ordinary talking dog; he enjoys spending time with his friends, listening to music, and going on adventures. Together with his friends, Parappa gets into many strange situations, all the while learning to navigate through life, get along with his friends, and pine for the girl of his dreams, Sunny Funny.\n\nBased on an equally quirky rhythm game, Parappa the Rapper boasts a unique flat style, blasts of color, and a string of strange but charming characters. Among Parappa\xe2\x80\x99s friends are an anthropomorphized blue cat, lamb, and even a flower.\n\nParappa's adventures range from the ordinary to the bizarre. He crosses paths with mischievous baddies, helps resolve questions of friendship and love, and even goes on trips through time itself. Nothing can change Parappa's positive outlook on life."""
-animeRelated	[b'PJ Berri no Mogumogu Munyamunya']
-animeCharacters	[b'PaRappa', b'Kat, Katy', b'Matt', b'Funny, Sunny', b'Berri, P. J.', b'Fox, Paula', b'Gaster']
-animeVoices	[b'\nIrino, Miyu\nJapanese\n', b'\nNakayama, Rina\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nKanai, Mika\nJapanese\n', b'\nKikuchi, Masami\nJapanese\n', b'\nKobayashi, Akiko\nJapanese\n', b'\nNaitou, Ryou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsurumaki, Kazuya\n\nDirector, Storyboard\n\n', b'\nSakurai, Hiroaki\n\nDirector, Storyboard\n\n', b'\nNagasaki, Yukio\n\nSound Director\n\n', b'\nImaishi, Hiroyuki\n\nEpisode Director, Storyboard, Key Animation\n\n']
+animePopularity	8201
+animeDescription	"Parappa is just your ordinary talking dog; he enjoys spending time with his friends, listening to music, and going on adventures. Together with his friends, Parappa gets into many strange situations, all the while learning to navigate through life, get along with his friends, and pine for the girl of his dreams, Sunny Funny.
+
+Based on an equally quirky rhythm game, Parappa the Rapper boasts a unique flat style, blasts of color, and a string of strange but charming characters. Among Parappa’s friends are an anthropomorphized blue cat, lamb, and even a flower.
+
+Parappa's adventures range from the ordinary to the bizarre. He crosses paths with mischievous baddies, helps resolve questions of friendship and love, and even goes on trips through time itself. Nothing can change Parappa's positive outlook on life."
+animeRelated	['PJ Berri no Mogumogu Munyamunya']
+animeCharacters	['PaRappa', 'Kat, Katy', 'Matt', 'Funny, Sunny', 'Berri, P. J.', 'Fox, Paula', 'Gaster']
+animeVoices	['Irino, Miyu', 'Nakayama, Rina', 'Suzumura, Kenichi', 'Kanai, Mika', 'Kikuchi, Masami', 'Kobayashi, Akiko', 'Naitou, Ryou']
+animeStaff	[['Tsurumaki, Kazuya', 'Director, Storyboard'], ['Sakurai, Hiroaki', 'Director, Storyboard'], ['Nagasaki, Yukio', 'Sound Director'], ['Imaishi, Hiroyuki', 'Episode Director, Storyboard, Key Animation']]

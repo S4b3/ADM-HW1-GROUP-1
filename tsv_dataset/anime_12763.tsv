@@ -1,5 +1,5 @@
-animeTitle	b'Pic-lele'
-animeType	b'TV'
+animeTitle	Pic-lele
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'Five anthropomorphic animal friends bond over their ukulele training. Aired as part of TOKYO MX\'s ""Everybody! Nico Rich"" show.'"
+animePopularity	16482
+animeDescription	"Five anthropomorphic animal friends bond over their ukulele training. Aired as part of TOKYO MX's ""Everybody! Nico Rich"" show."
 animeRelated	[]
-animeCharacters	[b'Ufufu', b'Ain', b'Piyo', b'Rinrin', b'Nohohon']
-animeVoices	[b'\nNakaya, Sayaka\nJapanese\n', b'\nTsukui, Ayami\nJapanese\n', b'\nIwasaki, Miyuki\nJapanese\n', b'\nUihara, Chie\nJapanese\n', b'\nKahara, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNamiki, Hiroshi\n\nDirector\n\n']
+animeCharacters	['Ufufu', 'Ain', 'Piyo', 'Rinrin', 'Nohohon']
+animeVoices	['Nakaya, Sayaka', 'Tsukui, Ayami', 'Iwasaki, Miyuki', 'Uihara, Chie', 'Kahara, Yuu']
+animeStaff	[['Namiki, Hiroshi', 'Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Muteking the Dancing Hero'
-animeType	b'TV'
+animeTitle	Muteking the Dancing Hero
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.5
 animeUsers	748
 animeRank	
-animePopularity	
-animeDescription	b'Set in a city modeled after San Francisco in the 1980s, the protagonist has transformed into the hero Muteking and is fighting against evil aliens for some reason. Such a cheerful hero will return in 2020! Sci-fi hero love comedy Muteking the Dancing Hero, singing and dancing with pop music.\n\n(Source: Official Website)'
-animeRelated	[b'Tondemo Senshi Muteking']
-animeCharacters	[b'Muteki', b'Ceo', b'DJ', b'Aurora', b'Aida', b'Naomi', b'Tommy', b'Matt', b'Suteking', b'George']
-animeVoices	[b'\nMashiro, Kentarou\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nEguchi, Takuya\nJapanese\n', b'\nTakahashi, Rie\nJapanese\n', b'\nTadokoro, Azusa\nJapanese\n', b'\nMatsuyama, Takashi\nJapanese\n', b'\nAoyama, Yutaka\nJapanese\n', b'\nKENN\nJapanese\n', b'\nHatano, Wataru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Ryousuke\n\nDirector\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nSatou, Yuuzou\n\nDirector\n\n', b'\nItou, Takumi\n\nSound Director\n\n']
+animePopularity	7733
+animeDescription	"Set in a city modeled after San Francisco in the 1980s, the protagonist has transformed into the hero Muteking and is fighting against evil aliens for some reason. Such a cheerful hero will return in 2020! Sci-fi hero love comedy Muteking the Dancing Hero, singing and dancing with pop music.
+
+(Source: Official Website)"
+animeRelated	['Tondemo Senshi Muteking']
+animeCharacters	['Muteki', 'Ceo', 'DJ', 'Aurora', 'Aida', 'Naomi', 'Tommy', 'Matt', 'Suteking', 'George']
+animeVoices	['Mashiro, Kentarou', 'Hino, Satoshi', 'Eguchi, Takuya', 'Takahashi, Rie', 'Tadokoro, Azusa', 'Matsuyama, Takashi', 'Aoyama, Yutaka', 'KENN', 'Hatano, Wataru']
+animeStaff	[['Takahashi, Ryousuke', 'Director'], ['Sasagawa, Hiroshi', 'Director'], ['Satou, Yuuzou', 'Director'], ['Itou, Takumi', 'Sound Director']]

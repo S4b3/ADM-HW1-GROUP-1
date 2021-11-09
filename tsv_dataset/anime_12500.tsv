@@ -1,5 +1,5 @@
-animeTitle	b'Odoru Mowai-kun'
-animeType	b'TV'
+animeTitle	Odoru Mowai-kun
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'The anime centers on a Moai statue named Mowai-kun who is gloomy every day because it lives a dull life where it just watches the beach and the sun from atop a hill on an island. But one day Mowai-kun grows arms, and starts to dance. The anime will air within the Oha-Suta program\'s ""Kyara-Suta"" corner.\n\n(Source: ANN)'"
+animePopularity	12891
+animeDescription	"The anime centers on a Moai statue named Mowai-kun who is gloomy every day because it lives a dull life where it just watches the beach and the sun from atop a hill on an island. But one day Mowai-kun grows arms, and starts to dance. The anime will air within the Oha-Suta program's ""Kyara-Suta"" corner.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Mowai-kun', b'Molly']
-animeVoices	[b'\nMori, Katsuji\nJapanese\n', b'\nPicciolina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYusa, Kazushige\n\nDirector, Storyboard, Series Composition\n\n', b'\nKoguma\n\nSound Director, Music\n\n', b'\nPaisley Parks\n\nTheme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement\n\n']
+animeCharacters	['Mowai-kun', 'Molly']
+animeVoices	['Mori, Katsuji', 'Picciolina']
+animeStaff	[['Yusa, Kazushige', 'Director, Storyboard, Series Composition'], ['Koguma', 'Sound Director, Music'], ['Paisley Parks', 'Theme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement']]

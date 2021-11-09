@@ -1,5 +1,5 @@
-animeTitle	b'Ark IX'
-animeType	b'OVA'
+animeTitle	Ark IX
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.09
 animeUsers	3458
 animeRank	
-animePopularity	
-animeDescription	"b'The world has been divided into two halves by a giant wall to prevent the epidemic of ""Dark mist"". In order to shelter the refugees, artificial cities called ""Arks"" were built. Shido Enishi is a private detective, who works at the ninth Ark. One day, he is asked to capture a burglar. The seemingly simple case leads him to a great conspiracy.'"
-animeRelated	[b'Ark IX']
-animeCharacters	[b'Ross, Rebecca', b'Shido, Enishi']
-animeVoices	[b'\nKanemoto, Hisako\nJapanese\n', b'\nOno, Yuuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagai, Masaru\n\nProducer\n\n', b'\nItagaki, Shin\n\nDirector, Script, Storyboard\n\n', b'\nnano\n\nTheme Song Performance\n\n', b'\nOgata, Kouji\n\nOriginal Character Design\n\n']
+animePopularity	5801
+animeDescription	"The world has been divided into two halves by a giant wall to prevent the epidemic of ""Dark mist"". In order to shelter the refugees, artificial cities called ""Arks"" were built. Shido Enishi is a private detective, who works at the ninth Ark. One day, he is asked to capture a burglar. The seemingly simple case leads him to a great conspiracy."
+animeRelated	['Ark IX']
+animeCharacters	['Ross, Rebecca', 'Shido, Enishi']
+animeVoices	['Kanemoto, Hisako', 'Ono, Yuuki']
+animeStaff	[['Nagai, Masaru', 'Producer'], ['Itagaki, Shin', 'Director, Script, Storyboard'], ['nano', 'Theme Song Performance'], ['Ogata, Kouji', 'Original Character Design']]

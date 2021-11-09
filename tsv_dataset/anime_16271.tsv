@@ -1,5 +1,5 @@
-animeTitle	b'Id:Indeed'
-animeType	b'ONA'
+animeTitle	Id:Indeed
+animeType	ONA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'It is a comedic spin-off of Id:Invaded, depicting ""chibi"" style versions of characters in a series of fourth-wall breaking skits.\n\n(Source: Id:Invaded Wiki)'"
-animeRelated	[b'Id:Invaded']
+animePopularity	14334
+animeDescription	"It is a comedic spin-off of Id:Invaded, depicting ""chibi"" style versions of characters in a series of fourth-wall breaking skits.
+
+(Source: Id:Invaded Wiki)"
+animeRelated	['Id:Invaded']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

@@ -1,5 +1,5 @@
-animeTitle	b'Ganbare Gonbe'
-animeType	b'TV'
+animeTitle	Ganbare Gonbe
+animeType	TV
 animeNumEpisode	77
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Based on the long running (1958 to 1992) gag manga by Sonoyama Shuji.\n\n(Source: AniDB)'
+animePopularity	15637
+animeDescription	"Based on the long running (1958 to 1992) gag manga by Sonoyama Shuji.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Gonbe', b'Santarou', b'Monko', b'Benkei', b'Fuko']
-animeVoices	[b'\nYamamoto, Keiko\nJapanese\n', b'\nTsukase, Noriko\nJapanese\n', b'\nKawanami, Yoko\nJapanese\n', b'\nSawada, Kazuko\nJapanese\n', b'\nMita, Yuuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKondou, Eisuke\n\nDirector, Storyboard\n\n', b'\nMitsunobu, Hiroyoshi\n\nDirector, Storyboard, Chief Animation Director\n\n', b'\nIshiguro, Noboru\n\nStoryboard\n\n', b'\nIshizaki, Susumu\n\nStoryboard\n\n']
+animeCharacters	['Gonbe', 'Santarou', 'Monko', 'Benkei', 'Fuko']
+animeVoices	['Yamamoto, Keiko', 'Tsukase, Noriko', 'Kawanami, Yoko', 'Sawada, Kazuko', 'Mita, Yuuko']
+animeStaff	[['Kondou, Eisuke', 'Director, Storyboard'], ['Mitsunobu, Hiroyoshi', 'Director, Storyboard, Chief Animation Director'], ['Ishiguro, Noboru', 'Storyboard'], ['Ishizaki, Susumu', 'Storyboard']]

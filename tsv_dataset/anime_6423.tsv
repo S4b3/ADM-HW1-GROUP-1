@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III (2015): Italian Game'
-animeType	b'Special'
+animeTitle	Lupin III (2015): Italian Game
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.45
 animeUsers	1512
 animeRank	
-animePopularity	
-animeDescription	"b'The special\'s story centers on the kidnapping of Rebecca Rossellini, a beautiful business owner who is a featured character in the new Lupin III TV anime series that is currently airing. Upon hearing of her kidnapping, Lupin rushes to her rescue. Additionally, Lupin receives a written challenge from a mysterious person named ""The Masked Count"" suggesting a contest: who can obtain the ""inheritance of Count Cagliostro"" first.\n\n(Source: ANN)'"
-animeRelated	[b'Lupin III (2015)']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi', b'Rossellini, Rebecca', b'Nix', b'Zuccoli, Robson']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nFujii, Yukiyo\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n', b'\nYamanoi, Jin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTomonaga, Kazuhide\n\nDirector, Storyboard, Key Animation\n\n', b'\nYano, Yuuichirou\n\nDirector, Storyboard\n\n', b'\nMorimoto, Kouji\n\nEpisode Director, Storyboard, Background Art, Key Animation\n\n', b'\nTakahashi, Yuuya\n\nScript, Series Composition\n\n']
+animePopularity	7265
+animeDescription	"The special's story centers on the kidnapping of Rebecca Rossellini, a beautiful business owner who is a featured character in the new Lupin III TV anime series that is currently airing. Upon hearing of her kidnapping, Lupin rushes to her rescue. Additionally, Lupin receives a written challenge from a mysterious person named ""The Masked Count"" suggesting a contest: who can obtain the ""inheritance of Count Cagliostro"" first.
+
+(Source: ANN)"
+animeRelated	['Lupin III (2015)']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Rossellini, Rebecca', 'Nix', 'Zuccoli, Robson']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Sawashiro, Miyuki', 'Namikawa, Daisuke', 'Yamadera, Kouichi', 'Fujii, Yukiyo', 'Sakuya, Shunsuke', 'Yamanoi, Jin']
+animeStaff	[['Tomonaga, Kazuhide', 'Director, Storyboard, Key Animation'], ['Yano, Yuuichirou', 'Director, Storyboard'], ['Morimoto, Kouji', 'Episode Director, Storyboard, Background Art, Key Animation'], ['Takahashi, Yuuya', 'Script, Series Composition']]

@@ -1,5 +1,5 @@
-animeTitle	b'Godzilla: S.P'
-animeType	b'TV'
+animeTitle	Godzilla: S.P
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.7
 animeUsers	17014
 animeRank	
-animePopularity	
-animeDescription	b'This series features an original story, which depicts the young geniuses Mei Kamino, a female researcher, and Yun Arikawa, a male engineer, as they take on an unprecedented threat with their companions. When danger comes up from the depths, only young geniuses Mei, Yun, and their team can face the threat in Godzilla Singular Point! \n\n(Source: Netflix)'
+animePopularity	2474
+animeDescription	"This series features an original story, which depicts the young geniuses Mei Kamino, a female researcher, and Yun Arikawa, a male engineer, as they take on an unprecedented threat with their companions. When danger comes up from the depths, only young geniuses Mei, Yun, and their team can face the threat in Godzilla Singular Point! 
+
+(Source: Netflix)"
 animeRelated	[]
-animeCharacters	[b'Kamino, Mei', b'Arikawa, Yun', b'Godzilla', b'Pelops II', b'Rodan', b'Kanahara, Satomi', b'Satou, Shunya', b'Katou, Haberu', b'Byrne, Lina', b'Yung']
-animeVoices	[b'\nMiyamoto, Yume\nJapanese\n', b'\nIshige, Shouya\nJapanese\n', b'\nKuno, Misaki\nJapanese\n', b'\nTakeuchi, Ayako\nJapanese\n', b'\nAzakami, Youhei\nJapanese\n', b'\nKiuchi, Tarou\nJapanese\n', b'\nOnodera, Runa\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Atsushi\n\nDirector\n\n', b'\nWakabayashi, Kazuhiro\n\nSound Director\n\n', b'\nEnJoe, Toh\n\nScript, Series Composition\n\n', b'\nPOLKADOT STINGRAY\n\nTheme Song Performance\n\n']
+animeCharacters	['Kamino, Mei', 'Arikawa, Yun', 'Godzilla', 'Pelops II', 'Rodan', 'Kanahara, Satomi', 'Satou, Shunya', 'Katou, Haberu', 'Byrne, Lina', 'Yung']
+animeVoices	['Miyamoto, Yume', 'Ishige, Shouya', 'Kuno, Misaki', 'Takeuchi, Ayako', 'Azakami, Youhei', 'Kiuchi, Tarou', 'Onodera, Runa', 'Kugimiya, Rie']
+animeStaff	[['Takahashi, Atsushi', 'Director'], ['Wakabayashi, Kazuhiro', 'Sound Director'], ['EnJoe, Toh', 'Script, Series Composition'], ['POLKADOT STINGRAY', 'Theme Song Performance']]

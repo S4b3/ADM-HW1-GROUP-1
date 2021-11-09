@@ -1,5 +1,5 @@
-animeTitle	b'Cardfight!! Vanguard G'
-animeType	b'TV'
+animeTitle	Cardfight!! Vanguard G
+animeType	TV
 animeNumEpisode	48
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.5
 animeUsers	6202
 animeRank	
-animePopularity	
-animeDescription	"b'Taking place after a three-year time skip, the series will follow Shindou Kurono, Kiba Shion, and Anjou Tokoha as the new protagonists of G.\n\nKurono uses the never-before-seen clan Gear Chronicle, which brings together the destinies of these three toward an ""impossible future, an impossible self signifying \'Generation.\'""\n\n(Source: vanguardus.blogspot.com, edited)'"
-animeRelated	[b'Cardfight!! Vanguard G: Stride Generation', b'Cardfight!! Vanguard: Legion Mate-hen', b'Cardfight!! Vanguard G: GIRS Crisis-hen', b'Bermuda Triangle: Colorful Pastrale']
-animeCharacters	[b'Shindou, Chrono', b'Anjou, Tokoha', b'Kiba, Shion', b'Tokura, Misaki', b'Ibuki, Kouji', b'Katsuragi, Kamui', b'Mitsusada, Kenji', b'Asukawa, Taiyou', b'Nitta, Shin', b'Shinonome, Shouma']
-animeVoices	[b'\nIshii, Mark\nJapanese\n', b'\nNitta, Emi\nJapanese\n', b'\nEnoki, Junya\nJapanese\n', b'\nKitta, Izumi\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nIshikawa, Shizuka\nJapanese\n', b'\nAkabane, Kenji\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nMorishima, Shuuta\nJapanese\n', b'\nIshida, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHosoya, Nobuyuki\n\nProducer\n\n', b'\nUmemoto, Yui\n\nDirector, Sound Director, Storyboard\n\n', b'\nYoshimura, Kiyoko\n\nScript, Series Composition\n\n', b'\nHisao, Ayumu\n\nScript\n\n']
+animePopularity	4696
+animeDescription	"Taking place after a three-year time skip, the series will follow Shindou Kurono, Kiba Shion, and Anjou Tokoha as the new protagonists of G.
+
+Kurono uses the never-before-seen clan Gear Chronicle, which brings together the destinies of these three toward an ""impossible future, an impossible self signifying 'Generation.'""
+
+(Source: vanguardus.blogspot.com, edited)"
+animeRelated	['Cardfight!! Vanguard G: Stride Generation', 'Cardfight!! Vanguard: Legion Mate-hen', 'Cardfight!! Vanguard G: GIRS Crisis-hen', 'Bermuda Triangle: Colorful Pastrale']
+animeCharacters	['Shindou, Chrono', 'Anjou, Tokoha', 'Kiba, Shion', 'Tokura, Misaki', 'Ibuki, Kouji', 'Katsuragi, Kamui', 'Mitsusada, Kenji', 'Asukawa, Taiyou', 'Nitta, Shin', 'Shinonome, Shouma']
+animeVoices	['Ishii, Mark', 'Nitta, Emi', 'Enoki, Junya', 'Kitta, Izumi', 'Miyano, Mamoru', 'Ishikawa, Shizuka', 'Akabane, Kenji', 'Kuwashima, Houko', 'Morishima, Shuuta', 'Ishida, Akira']
+animeStaff	[['Hosoya, Nobuyuki', 'Producer'], ['Umemoto, Yui', 'Director, Sound Director, Storyboard'], ['Yoshimura, Kiyoko', 'Script, Series Composition'], ['Hisao, Ayumu', 'Script']]

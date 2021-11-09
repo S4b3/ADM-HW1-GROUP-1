@@ -1,5 +1,5 @@
-animeTitle	b'Maison Ikkoku: Kanketsu-hen'
-animeType	b'Movie'
+animeTitle	Maison Ikkoku: Kanketsu-hen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.21
 animeUsers	2741
 animeRank	
-animePopularity	
-animeDescription	b'The Maison Ikkoku tennants throw a party to celebrate the marriage of Yuusaku and Kyouko. However, during the party Yuusaku hears that Kyouko is waiting for a letter. He becomes jealous and begins to doubt Kyouko, worrying that she still loves someone else. When the morning arrives, the answer to his worries is revealed...\n\n(Source: AniDB)'
-animeRelated	[b'Maison Ikkoku']
-animeCharacters	[b'Otonashi, Kyouko', b'Godai, Yuusaku', b'Yotsuya', b'Roppongi, Akemi', b'Ichinose, Hanae', b'Mitaka, Shun', b'Souichirou', b'Yagami, Ibuki', b'Kujou, Asuna', b'Nikaido, Nozomu']
-animeVoices	[b'\nShimamoto, Sumi\nJapanese\n', b'\nFutamata, Issei\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nMita, Yuuko\nJapanese\n', b'\nAoki, Kazuyo\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nFuchizaki, Yuriko\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMochizuki, Tomomi\n\nDirector, Script\n\n', b'\nShimada, Michiru\n\nScript\n\n', b'\nHagita, Mitsuo\n\nTheme Song Arrangement\n\n', b'\nTakahashi, Rumiko\n\nOriginal Creator\n\n']
+animePopularity	6475
+animeDescription	"The Maison Ikkoku tennants throw a party to celebrate the marriage of Yuusaku and Kyouko. However, during the party Yuusaku hears that Kyouko is waiting for a letter. He becomes jealous and begins to doubt Kyouko, worrying that she still loves someone else. When the morning arrives, the answer to his worries is revealed...
+
+(Source: AniDB)"
+animeRelated	['Maison Ikkoku']
+animeCharacters	['Otonashi, Kyouko', 'Godai, Yuusaku', 'Yotsuya', 'Roppongi, Akemi', 'Ichinose, Hanae', 'Mitaka, Shun', 'Souichirou', 'Yagami, Ibuki', 'Kujou, Asuna', 'Nikaido, Nozomu']
+animeVoices	['Shimamoto, Sumi', 'Futamata, Issei', 'Chiba, Shigeru', 'Mita, Yuuko', 'Aoki, Kazuyo', 'Kamiya, Akira', 'Fuchizaki, Yuriko', 'Tsuru, Hiromi', 'Horikawa, Ryo']
+animeStaff	[['Mochizuki, Tomomi', 'Director, Script'], ['Shimada, Michiru', 'Script'], ['Hagita, Mitsuo', 'Theme Song Arrangement'], ['Takahashi, Rumiko', 'Original Creator']]

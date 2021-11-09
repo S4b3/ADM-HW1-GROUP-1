@@ -1,5 +1,5 @@
-animeTitle	b'The King of Fighters: Destiny'
-animeType	b'ONA'
+animeTitle	The King of Fighters: Destiny
+animeType	ONA
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.57
 animeUsers	1403
 animeRank	
-animePopularity	
-animeDescription	b'CG anime adaptation of The King of Fighters fighting game franchise.'
-animeRelated	[b'Fatal Fury: The Motion Picture', b'Battle Spirits: Ryuuko no Ken', b'Fatal Fury: Legend of the Hungry Wolf', b'Fatal Fury 2: The New Battle', b'King of Fighters: Another Day', b'The King of Fighters XV', b'']
-animeCharacters	[b'Bogard, Terry', b'Kusanagi, Kyou', b'Daimon, Goro', b'Nikaido, Benimaru', b'Yagami, Iori', b'Shiranui, Mai', b'Asamiya, Athena', b'Howard, Geese', b'Bogard, Andy', b'Higashi, Joe']
-animeVoices	[b'\nKondou, Takashi\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nFujiwara, Takahiro\nJapanese\n', b'\nMaezuka, Atsushi\nJapanese\n', b'\nHoshino, Takanori\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nIkezawa, Haruna\nJapanese\n', b'\nKong, Kuwata\nJapanese\n', b'\nOkamoto, Hiroshi\nJapanese\n', b'\nMito, Kouzou\nJapanese\n']
+animePopularity	7680
+animeDescription	CG anime adaptation of The King of Fighters fighting game franchise.
+animeRelated	['Fatal Fury: The Motion Picture', 'Battle Spirits: Ryuuko no Ken', 'Fatal Fury: Legend of the Hungry Wolf', 'Fatal Fury 2: The New Battle', 'King of Fighters: Another Day', 'The King of Fighters XV', '']
+animeCharacters	['Bogard, Terry', 'Kusanagi, Kyou', 'Daimon, Goro', 'Nikaido, Benimaru', 'Yagami, Iori', 'Shiranui, Mai', 'Asamiya, Athena', 'Howard, Geese', 'Bogard, Andy', 'Higashi, Joe']
+animeVoices	['Kondou, Takashi', 'Maeno, Tomoaki', 'Fujiwara, Takahiro', 'Maezuka, Atsushi', 'Hoshino, Takanori', 'Koshimizu, Ami', 'Ikezawa, Haruna', 'Kong, Kuwata', 'Okamoto, Hiroshi', 'Mito, Kouzou']
 animeStaff	[]

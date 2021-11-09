@@ -1,5 +1,5 @@
-animeTitle	b'Holy Knight Light'
-animeType	b'ONA'
+animeTitle	Holy Knight Light
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.07
 animeUsers	1086
 animeRank	
-animePopularity	
-animeDescription	"b""An animated short for the Arknights smartphone game's 1-year anniversary.\n\n(Source: ANN)"""
-animeRelated	[b'Arknights']
-animeCharacters	"[b'Texas', b'Exusiai', b""Ch'en"", b'Hoshiguma', b'Jessica', b'Nearl', b'Sora', b'Croissant']"
+animePopularity	9693
+animeDescription	"An animated short for the Arknights smartphone game's 1-year anniversary.
+
+(Source: ANN)"
+animeRelated	['Arknights']
+animeCharacters	"['Texas', 'Exusiai', ""Ch'en"", 'Hoshiguma', 'Jessica', 'Nearl', 'Sora', 'Croissant']"
 animeVoices	[]
 animeStaff	[]

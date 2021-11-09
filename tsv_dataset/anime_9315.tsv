@@ -1,5 +1,5 @@
-animeTitle	b'The Epic Of ZektBach'
-animeType	b'OVA'
+animeTitle	The Epic Of ZektBach
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.82
 animeUsers	1961
 animeRank	
-animePopularity	
-animeDescription	"b""The story begins when the kingdom of Noigllado suddenly invades the small country of Azuelgatt and brings it to the brink of destruction. General Adnowell leads Noigllado's troops against Azuelgatt's final, remaining line of defense: the fortress Doroah, led by a skilled female warrior named Shamshir.\n\n(Source: ANN)"""
+animePopularity	7775
+animeDescription	"The story begins when the kingdom of Noigllado suddenly invades the small country of Azuelgatt and brings it to the brink of destruction. General Adnowell leads Noigllado's troops against Azuelgatt's final, remaining line of defense: the fortress Doroah, led by a skilled female warrior named Shamshir.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Zamouk, Shamshir Zamouk']
+animeCharacters	['Zamouk, Shamshir Zamouk']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishikubo, Mizuho\n\nDirector\n\n', b'\nMaeda, Minoru\n\nArt Director\n\n', b'\nShimura, Takeshi\n\nDirector of Photography\n\n', b'\nFurukawa, Hideki\n\nCharacter Design\n\n']
+animeStaff	[['Nishikubo, Mizuho', 'Director'], ['Maeda, Minoru', 'Art Director'], ['Shimura, Takeshi', 'Director of Photography'], ['Furukawa, Hideki', 'Character Design']]

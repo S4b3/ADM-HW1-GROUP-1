@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu'
-animeType	b'Movie'
+animeTitle	Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.62
 animeUsers	59970
 animeRank	
-animePopularity	
-animeDescription	"b'In his laboratory, biotechnology expert Dr. Kochin gathers the dragon balls intending to free his master Dr. Uirou, a mad scientist hellbent on ruling the world, forever frozen in the never-melting ice of the Tsurumai-Tsuburi Mountains. Attempting to locate the dragon balls, Gohan Son and Oolong arrive at the scene and are ambushed by several creatures known as ""Bio-Men."" Training nearby, Piccolo attempts to save them but is then attacked by three mysterious warriors. When the ice beneath them breaks, it cuts their altercation short, burying Gohan and Oolong within.\n\nAfter regaining consciousness, they return home to Kame House only to encounter Bio-Men, demanding Muten-Roushi to follow them. Refusing, he easily defeats the creatures, piquing Dr. Kochin\'s interest. Under the impression of Muten-Roushi being the strongest man in the world, Dr. Kochin takes Bulma hostage, forcing Roushi\'s agreement to accompany him in mysterious plans involving his master. Who are Dr. Kochin and Dr. Uirou? What even is their purpose?\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Dragon Ball Z']
-animeCharacters	[b'Son, Gokuu', b'Son, Gohan', b'Piccolo', b'Bulma', b'Muten-Roushi', b'Kuririn', b'Chi-Chi', b'Shen Long', b'Oolong', b'Umigame']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nMiyauchi, Kouhei\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nShou, Mayumi\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nTatsuta, Naoki\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nNishio, Daisuke\n\nDirector\n\n', b'\nVale, Eric\n\nScript\n\n', b'\nKoyama, Takao\n\nScript\n\n']
+animePopularity	1657
+animeDescription	"In his laboratory, biotechnology expert Dr. Kochin gathers the dragon balls intending to free his master Dr. Uirou, a mad scientist hellbent on ruling the world, forever frozen in the never-melting ice of the Tsurumai-Tsuburi Mountains. Attempting to locate the dragon balls, Gohan Son and Oolong arrive at the scene and are ambushed by several creatures known as ""Bio-Men."" Training nearby, Piccolo attempts to save them but is then attacked by three mysterious warriors. When the ice beneath them breaks, it cuts their altercation short, burying Gohan and Oolong within.
+
+After regaining consciousness, they return home to Kame House only to encounter Bio-Men, demanding Muten-Roushi to follow them. Refusing, he easily defeats the creatures, piquing Dr. Kochin's interest. Under the impression of Muten-Roushi being the strongest man in the world, Dr. Kochin takes Bulma hostage, forcing Roushi's agreement to accompany him in mysterious plans involving his master. Who are Dr. Kochin and Dr. Uirou? What even is their purpose?
+
+[Written by MAL Rewrite]"
+animeRelated	['Dragon Ball Z']
+animeCharacters	['Son, Gokuu', 'Son, Gohan', 'Piccolo', 'Bulma', 'Muten-Roushi', 'Kuririn', 'Chi-Chi', 'Shen Long', 'Oolong', 'Umigame']
+animeVoices	['Nozawa, Masako', 'Furukawa, Toshio', 'Tsuru, Hiromi', 'Miyauchi, Kouhei', 'Tanaka, Mayumi', 'Shou, Mayumi', 'Utsumi, Kenji', 'Tatsuta, Naoki', 'Gouri, Daisuke']
+animeStaff	[['Watson, Barry', 'Producer'], ['Nishio, Daisuke', 'Director'], ['Vale, Eric', 'Script'], ['Koyama, Takao', 'Script']]

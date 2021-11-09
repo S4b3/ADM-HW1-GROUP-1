@@ -1,5 +1,5 @@
-animeTitle	b'Hanaukyou Maid-tai'
-animeType	b'TV'
+animeTitle	Hanaukyou Maid-tai
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.59
 animeUsers	12219
 animeRank	
-animePopularity	
-animeDescription	"b""After losing his mother, 14-year-old Taro journeys to Tokyo to live with his grandfather. But he gets the biggest surprise when he discovers that his grandfather's home is a huge mansion with hundreds of beautiful maids ready to serve him. Making matters worse (at least for Taro, but not for our viewing) is that not only does he inherit the Hanaukyo mansion, he gets the services of all of the maids 24 hours a day, 7 days a week.\n\n(Source: ANN)"""
-animeRelated	[b'Hanaukyou Maid-tai', b'Hanaukyou Maid-tai: La Verite', b'Hanaukyou Maid-tai OVA']
-animeCharacters	[b'Mariel', b'Hanaukyou, Tarou', b'Ichigo, Sango and Ringo', b'Tsurugi, Konoe', b'Landlavizar, Cynthia', b'Suzuki, Ikuyo', b'Jihiyou, Ryuuka', b'Grace']
-animeVoices	[b'\nTanaka, Rie\nJapanese\n', b'\nKaida, Yuki\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nKaneda, Tomoko\nJapanese\n', b'\nArishima, Moyu\nJapanese\n', b'\nTakahashi, Rieko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIde, Yasunori\n\nDirector, Series Composition\n\n', b'\nMatsuoka, Hiroki\n\nSound Director\n\n', b'\nKuzuya, Naoyuki\n\nEpisode Director\n\n', b'\nNonaka, Takuya\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3361
+animeDescription	"After losing his mother, 14-year-old Taro journeys to Tokyo to live with his grandfather. But he gets the biggest surprise when he discovers that his grandfather's home is a huge mansion with hundreds of beautiful maids ready to serve him. Making matters worse (at least for Taro, but not for our viewing) is that not only does he inherit the Hanaukyo mansion, he gets the services of all of the maids 24 hours a day, 7 days a week.
+
+(Source: ANN)"
+animeRelated	['Hanaukyou Maid-tai', 'Hanaukyou Maid-tai: La Verite', 'Hanaukyou Maid-tai OVA']
+animeCharacters	['Mariel', 'Hanaukyou, Tarou', 'Ichigo, Sango and Ringo', 'Tsurugi, Konoe', 'Landlavizar, Cynthia', 'Suzuki, Ikuyo', 'Jihiyou, Ryuuka', 'Grace']
+animeVoices	['Tanaka, Rie', 'Kaida, Yuki', 'Hiramatsu, Akiko', 'Kaneda, Tomoko', 'Arishima, Moyu', 'Takahashi, Rieko']
+animeStaff	[['Ide, Yasunori', 'Director, Series Composition'], ['Matsuoka, Hiroki', 'Sound Director'], ['Kuzuya, Naoyuki', 'Episode Director'], ['Nonaka, Takuya', 'Episode Director, Storyboard']]

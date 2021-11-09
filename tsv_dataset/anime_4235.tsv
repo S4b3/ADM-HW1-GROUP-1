@@ -1,5 +1,5 @@
-animeTitle	b'Youkai Watch Movie 1: Tanjou no Himitsu da Nyan!'
-animeType	b'Movie'
+animeTitle	Youkai Watch Movie 1: Tanjou no Himitsu da Nyan!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.89
 animeUsers	2654
 animeRank	
-animePopularity	
-animeDescription	b'The movie will feature special guests such as popular familiar characters from the TV anime series and the latest Youkai from the upcoming Youkai Watch 2 sequel games.'
-animeRelated	[b'Youkai Watch', b'Youkai Watch Movie 2: Enma Daiou to Itsutsu no Monogatari da Nyan!']
-animeCharacters	[b'Jibanyan', b'Whisper', b'Amano, Keita', b'Fuyunyan', b'Keizou', b'Komasan', b'Kyuubi', b'Imada, Kanchi', b'Kodama, Fumika', b'Jimenken']
-animeVoices	[b'\nKozakura, Etsuko\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nSatou, Chie\nJapanese\n', b'\nBando, Naoki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHino, Akihiro\n\nProducer, Planning, Original Creator\n\n', b'\nTakahashi, Shigeharu\n\nDirector, Episode Director, Storyboard\n\n', b'\nUshiro, Shinji\n\nDirector\n\n', b'\nKing Cream Soda.\n\nTheme Song Performance\n\n']
+animePopularity	7237
+animeDescription	The movie will feature special guests such as popular familiar characters from the TV anime series and the latest Youkai from the upcoming Youkai Watch 2 sequel games.
+animeRelated	['Youkai Watch', 'Youkai Watch Movie 2: Enma Daiou to Itsutsu no Monogatari da Nyan!']
+animeCharacters	['Jibanyan', 'Whisper', 'Amano, Keita', 'Fuyunyan', 'Keizou', 'Komasan', 'Kyuubi', 'Imada, Kanchi', 'Kodama, Fumika', 'Jimenken']
+animeVoices	['Kozakura, Etsuko', 'Seki, Tomokazu', 'Tomatsu, Haruka', 'Kaji, Yuki', 'Park, Romi', 'Endou, Aya', 'Satou, Chie', 'Bando, Naoki']
+animeStaff	[['Hino, Akihiro', 'Producer, Planning, Original Creator'], ['Takahashi, Shigeharu', 'Director, Episode Director, Storyboard'], ['Ushiro, Shinji', 'Director'], ['King Cream Soda.', 'Theme Song Performance']]

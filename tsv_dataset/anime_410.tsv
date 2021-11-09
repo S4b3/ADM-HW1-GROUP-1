@@ -1,5 +1,5 @@
-animeTitle	b'World Trigger 3rd Season'
-animeType	b'TV'
+animeTitle	World Trigger 3rd Season
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.12
 animeUsers	3276
 animeRank	
-animePopularity	
-animeDescription	b'Third season of World Trigger.\n\n'
-animeRelated	[b'World Trigger', b'World Trigger 2nd Season']
-animeCharacters	[b'Kuga, Yuuma', b'Jin, Yuuichi', b'Mikumo, Osamu', b'Hyuse', b'Amatori, Chika', b'Ikoma, Tatsuhito', b'Kageura, Masato', b'Murakami, Kou', b'Azuma, Haruaki', b'Ninomiya, Masataka']
-animeVoices	[b'\nMuranaka, Tomo\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nTamura, Nao\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nNojima, Hirofumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHatano, Morio\n\nDirector\n\n', b'\nKami wa Saikoro wo Furanai\n\nTheme Song Performance\n\n', b'\nKawai, Kenji\n\nMusic\n\n', b'\nAshihara, Daisuke\n\nOriginal Creator\n\n']
+animePopularity	2591
+animeDescription	"Third season of World Trigger.
+
+"
+animeRelated	['World Trigger', 'World Trigger 2nd Season']
+animeCharacters	['Kuga, Yuuma', 'Jin, Yuuichi', 'Mikumo, Osamu', 'Hyuse', 'Amatori, Chika', 'Ikoma, Tatsuhito', 'Kageura, Masato', 'Murakami, Kou', 'Azuma, Haruaki', 'Ninomiya, Masataka']
+animeVoices	['Muranaka, Tomo', 'Nakamura, Yuuichi', 'Kaji, Yuki', 'Shimazaki, Nobunaga', 'Tamura, Nao', 'Sugita, Tomokazu', 'Nojima, Hirofumi']
+animeStaff	[['Hatano, Morio', 'Director'], ['Kami wa Saikoro wo Furanai', 'Theme Song Performance'], ['Kawai, Kenji', 'Music'], ['Ashihara, Daisuke', 'Original Creator']]

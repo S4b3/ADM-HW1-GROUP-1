@@ -1,5 +1,5 @@
-animeTitle	b'Kero Kero Keroppi no Sora wo Tobetara'
-animeType	b'OVA'
+animeTitle	Kero Kero Keroppi no Sora wo Tobetara
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'While playing with a kite, a bird is injured during its migration. The gang seeks help from a local pilot to help the bird make its journey.'
+animePopularity	15793
+animeDescription	While playing with a kite, a bird is injured during its migration. The gang seeks help from a local pilot to help the bird make its journey.
 animeRelated	[]
-animeCharacters	[b'Hasunoue, Keroppi']
-animeVoices	[b'\nMatsuo, Yoshiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHata, Masami\n\nDirector\n\n']
+animeCharacters	['Hasunoue, Keroppi']
+animeVoices	['Matsuo, Yoshiko']
+animeStaff	[['Hata, Masami', 'Director']]

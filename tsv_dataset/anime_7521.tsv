@@ -1,5 +1,5 @@
-animeTitle	b'Pure-tou no Nakama-tachi'
-animeType	b'TV'
+animeTitle	Pure-tou no Nakama-tachi
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.23
 animeUsers	214
 animeRank	
-animePopularity	
-animeDescription	b'Kona is a boy who has a friend: a pink dragon named Serendipity with a kind nature. They want to stop the evil captain who tries steal gold from their peaceful island. '
+animePopularity	11972
+animeDescription	Kona is a boy who has a friend: a pink dragon named Serendipity with a kind nature. They want to stop the evil captain who tries steal gold from their peaceful island. 
 animeRelated	[]
-animeCharacters	[b'Serendipity', b'Laura']
-animeVoices	[b'\nOkamoto, Mari\nJapanese\n', b'\nNashiwa, Yuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTerada, Kenji\n\nScript\n\n', b'\nMatsuyama, Yuushi\n\nTheme Song Arrangement\n\n', b'\nGotou, Takayuki\n\nKey Animation\n\n', b'\nYonekawa, Koushin\n\nKey Animation\n\n']
+animeCharacters	['Serendipity', 'Laura']
+animeVoices	['Okamoto, Mari', 'Nashiwa, Yuri']
+animeStaff	[['Terada, Kenji', 'Script'], ['Matsuyama, Yuushi', 'Theme Song Arrangement'], ['Gotou, Takayuki', 'Key Animation'], ['Yonekawa, Koushin', 'Key Animation']]

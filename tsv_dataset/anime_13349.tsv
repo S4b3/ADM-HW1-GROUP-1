@@ -1,5 +1,5 @@
-animeTitle	b'Shounen Santa no Daibouken!'
-animeType	b'TV'
+animeTitle	Shounen Santa no Daibouken!
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Based on L. Frank Baum' novel: The Life and Adventures of Santa Claus."""
+animePopularity	14279
+animeDescription	Based on L. Frank Baum' novel: The Life and Adventures of Santa Claus.
 animeRelated	[]
-animeCharacters	[b'Marie']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMutou, Yuuji\n\nDirector, Storyboard\n\n', b'\nSokuza, Makoto\n\nEpisode Director, Storyboard\n\n', b'\nKoyama, Takao\n\nScript, Series Composition\n\n', b'\nIuchi, Shuji\n\nStoryboard\n\n']
+animeCharacters	['Marie']
+animeVoices	['Hayashibara, Megumi']
+animeStaff	[['Mutou, Yuuji', 'Director, Storyboard'], ['Sokuza, Makoto', 'Episode Director, Storyboard'], ['Koyama, Takao', 'Script, Series Composition'], ['Iuchi, Shuji', 'Storyboard']]

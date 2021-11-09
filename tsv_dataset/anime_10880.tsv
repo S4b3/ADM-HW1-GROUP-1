@@ -1,5 +1,5 @@
-animeTitle	b'Soukihei MD Geist'
-animeType	b'OVA'
+animeTitle	Soukihei MD Geist
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.31
 animeUsers	6728
 animeRank	
-animePopularity	
-animeDescription	"b""In the distant future, mankind has colonized other planets in the universe. While many planets lived in peace, the planet Jerra has been ravaged by decades of war. Geist is an M.D.S. (Most Dangerous Soldier), an enhanced human with unsurpassed combat capabilities and an insatiable lust for battle. Because of his uncontrollable nature, Geist is cryogenically frozen and locked in a satellite. Several years later, the satellite crashes and Geist wakes up from his sleep to engage in another war. This time, to help the army stop the planet's central computer from activating a doomsday device that will lead to total annihilation of all life on Jerra. \n\n(Source: ANN)"""
-animeRelated	[b'MD Geist II: Death Force']
-animeCharacters	[b'Geist', b'Vaiya', b'Sakamoto', b'Hans', b'Mash', b'Golem', b'Kurtz']
-animeVoices	[b'\nWakamoto, Norio\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nChiba, Isshin\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nEgawa, Hisao\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOhata, Koichi\n\nDirector, Creator, Mechanical Design\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nKageyama, Hironobu\n\nTheme Song Performance\n\n', b'\nKishi, Masayuki\n\nTheme Song Composition\n\n']
+animePopularity	4642
+animeDescription	"In the distant future, mankind has colonized other planets in the universe. While many planets lived in peace, the planet Jerra has been ravaged by decades of war. Geist is an M.D.S. (Most Dangerous Soldier), an enhanced human with unsurpassed combat capabilities and an insatiable lust for battle. Because of his uncontrollable nature, Geist is cryogenically frozen and locked in a satellite. Several years later, the satellite crashes and Geist wakes up from his sleep to engage in another war. This time, to help the army stop the planet's central computer from activating a doomsday device that will lead to total annihilation of all life on Jerra. 
+
+(Source: ANN)"
+animeRelated	['MD Geist II: Death Force']
+animeCharacters	['Geist', 'Vaiya', 'Sakamoto', 'Hans', 'Mash', 'Golem', 'Kurtz']
+animeVoices	['Wakamoto, Norio', 'Matsumoto, Rica', 'Chiba, Isshin', 'Fujiwara, Keiji', 'Seki, Tomokazu', 'Egawa, Hisao', 'Ishizuka, Unshou']
+animeStaff	[['Ohata, Koichi', 'Director, Creator, Mechanical Design'], ['Mima, Masafumi', 'Sound Director'], ['Kageyama, Hironobu', 'Theme Song Performance'], ['Kishi, Masayuki', 'Theme Song Composition']]

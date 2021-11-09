@@ -1,5 +1,5 @@
-animeTitle	b'Hana no Kakarichou'
-animeType	b'TV'
+animeTitle	Hana no Kakarichou
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A wacky comedy about a man from a noble ancestry of long ago, but who in modern times is just a lowly salary man that is constantly being humiliated by his family and co-workers.\n\n(Source: AniDB)'
-animeRelated	[b'Manga Hana no Kakarichou']
-animeCharacters	[b'Mashumaro, Ayanoroji', b'Youko']
-animeVoices	[b'\nTomita, Kousei\nJapanese\n', b'\nMukai, Mariko\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nOkazaki, Minoru\n\nEpisode Director\n\n', b'\nItou, Tsunehisa\n\nScript\n\n', b""\nKoorogi '73\n\nTheme Song Performance\n\n"", b'\nKobayashi, Shichiro\n\nArt Director\n\n']"
+animePopularity	14223
+animeDescription	"A wacky comedy about a man from a noble ancestry of long ago, but who in modern times is just a lowly salary man that is constantly being humiliated by his family and co-workers.
+
+(Source: AniDB)"
+animeRelated	['Manga Hana no Kakarichou']
+animeCharacters	['Mashumaro, Ayanoroji', 'Youko']
+animeVoices	['Tomita, Kousei', 'Mukai, Mariko']
+animeStaff	"[['Okazaki, Minoru', 'Episode Director'], ['Itou, Tsunehisa', 'Script'], [""Koorogi '73"", 'Theme Song Performance'], ['Kobayashi, Shichiro', 'Art Director']]"

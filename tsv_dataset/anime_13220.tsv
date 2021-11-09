@@ -1,5 +1,5 @@
-animeTitle	b'Shichigahama de Mitsuketa'
-animeType	b'ONA'
+animeTitle	Shichigahama de Mitsuketa
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A short anime with the theme of earthquake disaster and reconstruction released by Shichigahama, a town in Miyagi Prefecture.\n\n(Source: AniDB)'
+animePopularity	14090
+animeDescription	"A short anime with the theme of earthquake disaster and reconstruction released by Shichigahama, a town in Miyagi Prefecture.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Yayoi']
+animeCharacters	['Yayoi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshikawa, Naoya\n\nScript, Storyboard, Key Animation\n\n', b'\nMorita, Shunsuke\n\nMusic\n\n']
+animeStaff	[['Ishikawa, Naoya', 'Script, Storyboard, Key Animation'], ['Morita, Shunsuke', 'Music']]

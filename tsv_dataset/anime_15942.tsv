@@ -1,5 +1,5 @@
-animeTitle	b'Happy\xe2\x98\x86Lucky Bikkuriman'
-animeType	b'TV'
+animeTitle	Happy☆Lucky Bikkuriman
+animeType	TV
 animeNumEpisode	46
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Continuation of the Bikkuriman Series.\n\nGenki Seihikari and his friends join the adventure in order to save seven gods of the White Galaxy.'
-animeRelated	[b'Bikkuriman 2000']
-animeCharacters	[b'Tenshi, Juujika', b'Prince Yamato', b'Seitaishi, Jello', b'Seihikari, Genki', b'Zeus, Super', b'Emperor Jack', b'Shinko, Peter', b'Narrator']
-animeVoices	[b'\nIkezawa, Haruna\nJapanese\n', b'\nKusao, Takeshi\nJapanese\n', b'\nSonozaki, Mie\nJapanese\n', b'\nKiuchi, Reiko\nJapanese\n', b'\nYanami, Jouji\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoga, Gou\n\nDirector\n\n', b'\nTanaka, Mayumi\n\nTheme Song Performance\n\n', b'\nYanami, Jouji\n\nTheme Song Performance\n\n', b'\nInomata, Yoshichika\n\nTheme Song Arrangement, Theme Song Composition, Music\n\n']
+animePopularity	13657
+animeDescription	"Continuation of the Bikkuriman Series.
+
+Genki Seihikari and his friends join the adventure in order to save seven gods of the White Galaxy."
+animeRelated	['Bikkuriman 2000']
+animeCharacters	['Tenshi, Juujika', 'Prince Yamato', 'Seitaishi, Jello', 'Seihikari, Genki', 'Zeus, Super', 'Emperor Jack', 'Shinko, Peter', 'Narrator']
+animeVoices	['Ikezawa, Haruna', 'Kusao, Takeshi', 'Sonozaki, Mie', 'Kiuchi, Reiko', 'Yanami, Jouji', 'Tanaka, Mayumi', 'Yukino, Satsuki']
+animeStaff	[['Koga, Gou', 'Director'], ['Tanaka, Mayumi', 'Theme Song Performance'], ['Yanami, Jouji', 'Theme Song Performance'], ['Inomata, Yoshichika', 'Theme Song Arrangement, Theme Song Composition, Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Anime Tenchou'
-animeType	b'OVA'
+animeTitle	Anime Tenchou
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	6.03
 animeUsers	5063
 animeRank	
-animePopularity	
-animeDescription	"b""This is the Animation Store Manager!!\n\nAnime Tenchou is a CM character for Animate, one of Japan's biggest retailer of anime, games, and manga. The character series was created by Shimamoto Kazuhiko for publicity purposes. Later adapted into a manga, a weekly radio drama and this OVA animated by GAINAX and directed by Anno Hideaki.\n\nAnizawa Meito is the blazing store manager. He is a fireball who loves animation merchandise at heart. He takes over the dying wish of the former store manager, though still alive, who was attacked by the rival store and becomes a \xe2\x80\x9cstore manager\xe2\x80\x9d of newly opened animation goods specialty store, Animate. The scarlet, \xe2\x80\x9cstore manager visor\xe2\x80\x9d is his trademark.\n\n(Source: AniDB)"""
-animeRelated	[b'Anime Tenchou', b'Lucky\xe2\x98\x86Star', b'Anime Tenchou x Touhou Project', b'Anime Tenchou Movie']
-animeCharacters	[b'Anizawa, Meito']
-animeVoices	[b'\nSeki, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAnno, Hideaki\n\nDirector\n\n', b'\nSeki, Tomokazu\n\nTheme Song Performance\n\n', b'\nHoshi, Souichirou\n\nTheme Song Performance\n\n', b'\nYoshinari, You\n\nKey Animation\n\n']
+animePopularity	5314
+animeDescription	"This is the Animation Store Manager!!
+
+Anime Tenchou is a CM character for Animate, one of Japan's biggest retailer of anime, games, and manga. The character series was created by Shimamoto Kazuhiko for publicity purposes. Later adapted into a manga, a weekly radio drama and this OVA animated by GAINAX and directed by Anno Hideaki.
+
+Anizawa Meito is the blazing store manager. He is a fireball who loves animation merchandise at heart. He takes over the dying wish of the former store manager, though still alive, who was attacked by the rival store and becomes a “store manager” of newly opened animation goods specialty store, Animate. The scarlet, “store manager visor” is his trademark.
+
+(Source: AniDB)"
+animeRelated	['Anime Tenchou', 'Lucky☆Star', 'Anime Tenchou x Touhou Project', 'Anime Tenchou Movie']
+animeCharacters	['Anizawa, Meito']
+animeVoices	['Seki, Tomokazu']
+animeStaff	[['Anno, Hideaki', 'Director'], ['Seki, Tomokazu', 'Theme Song Performance'], ['Hoshi, Souichirou', 'Theme Song Performance'], ['Yoshinari, You', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Funny Pets'
-animeType	b'TV'
+animeTitle	Funny Pets
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	4.95
 animeUsers	354
 animeRank	
-animePopularity	
-animeDescription	b'One day an armada of Unidentified Flying Objects (UFO) came out of nowhere under the full moon.\n\nOne of them mistakenly fell to the Earth.\n\nThe two Extra-Terrestrials, Crescent and Corona, who were on board the falling UFO, happened to be saved and picked up by an Earth girl Funny. In reality Crescent and Corona were forced to live as pet with that selfish and moody girl Funny...\n\n(Source: AniDB)'
-animeRelated	[b'Funny Pets 2nd Season']
-animeCharacters	[b'Funny', b'Corona', b'Crescent', b'Horley']
+animePopularity	11244
+animeDescription	"One day an armada of Unidentified Flying Objects (UFO) came out of nowhere under the full moon.
+
+One of them mistakenly fell to the Earth.
+
+The two Extra-Terrestrials, Crescent and Corona, who were on board the falling UFO, happened to be saved and picked up by an Earth girl Funny. In reality Crescent and Corona were forced to live as pet with that selfish and moody girl Funny...
+
+(Source: AniDB)"
+animeRelated	['Funny Pets 2nd Season']
+animeCharacters	['Funny', 'Corona', 'Crescent', 'Horley']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMasuda, Ryuuji\n\nDirector\n\n', b'\nKurahashi, Shizuo\n\nSound Effects\n\n']
+animeStaff	[['Masuda, Ryuuji', 'Director'], ['Kurahashi, Shizuo', 'Sound Effects']]

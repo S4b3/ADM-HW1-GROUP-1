@@ -1,5 +1,5 @@
-animeTitle	b'Dondon Dommel to Ron'
-animeType	b'TV'
+animeTitle	Dondon Dommel to Ron
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.66
 animeUsers	390
 animeRank	
-animePopularity	
-animeDescription	b'Dommel is a lazy dog who does nothing more than eating and sleeping. His owner, Semafoor, is an inventor of the strangest things you could imagine. Together this becomes a mix for some funny events.\n\n(Source: ANN)'
+animePopularity	11339
+animeDescription	"Dommel is a lazy dog who does nothing more than eating and sleeping. His owner, Semafoor, is an inventor of the strangest things you could imagine. Together this becomes a mix for some funny events.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Ron', b'Dommel', b'Police', b'Blacky', b'Bob', b'Beatrice', b'Cherry']
-animeVoices	[b'\nKimotsuki, Kaneta\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nTarako\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n', b'\nTominaga, Miina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasagawa, Hiroshi\n\nDirector\n\n', b'\nKramer, Steve\n\nScript\n\n', b'\nArisawa, Takanori\n\nMusic\n\n']
+animeCharacters	['Ron', 'Dommel', 'Police', 'Blacky', 'Bob', 'Beatrice', 'Cherry']
+animeVoices	['Kimotsuki, Kaneta', 'Yamadera, Kouichi', 'Matsumoto, Rica', 'Tarako', 'Sugiyama, Kazuko', 'Tominaga, Miina']
+animeStaff	[['Sasagawa, Hiroshi', 'Director'], ['Kramer, Steve', 'Script'], ['Arisawa, Takanori', 'Music']]

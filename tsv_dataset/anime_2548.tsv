@@ -1,5 +1,5 @@
-animeTitle	b'Tales of Zestiria the Cross'
-animeType	b'TV'
+animeTitle	Tales of Zestiria the Cross
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.27
 animeUsers	124200
 animeRank	
-animePopularity	
-animeDescription	"b'The Celestial Records speak of the existence of the ""Seraphim,"" a race of divine beings who give blessings to humanity and are offered prayers by them in return. Those who are anointed with the ability to interact with these spirits are known as ""Shepherds."" Hailed as heroes for their prompt appearances in times of crisis, while also being feared for their power, the Shepherds are imprinted in common folklore along with the Seraphim.\n\nSorey is a young human who has spent his entire life living in harmony alongside the Seraphim in the village of Elysia. Fascinated by the myths of the Celestial Records, he explores some nearby ruins with Mikleo\xe2\x80\x94his childhood Seraphim companion\xe2\x80\x94hoping to enlighten himself about the Seraphims\' history with mankind.\n\nUnfortunately, they become trapped in the depths of the historical site during their investigation. While searching for an exit, they come across a mysterious girl who desperately seeks the help of a Shepherd to save the world, which is on the brink of being consumed by darkness. Despite Mikleo\'s warning about making contact with other humans, Sorey decides to help the stranger, which unknowingly leads him closer to the dream of peaceful coexistence between man and Seraphim.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Tales of Zestiria: Michibiki no Toki', b'Tales of Zestiria: Doushi no Yoake', b'Tales of Zestiria the Cross: Saiyaku no Jidai', b'Tales of Zestiria the Cross 2nd Season', b'Tales of HR']
-animeCharacters	[b'Mikleo', b'Sorey', b'Edna', b'Diphda, Alisha', b'Lailah', b'Crowe, Velvet', b'Magilou', b'Rose', b'Eizen', b'Zaveid']
-animeVoices	[b'\nOosaka, Ryouta\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nFukuen, Misato\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nShitaya, Noriko\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nSatou, Satomi\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKondou, Hikaru\n\nProducer, Sound Director, Storyboard, Planning\n\n', b'\nKisara, Youhei\n\nProducer\n\n', b'\nSotozaki, Haruo\n\nDirector, Episode Director, Storyboard, 2nd Key Animation, Animation Director\n\n', b'\nShirai, Toshiyuki\n\nEpisode Director, Storyboard, Animation Director, Assistant Animation Director, Key Animation\n\n']
+animePopularity	591
+animeDescription	"The Celestial Records speak of the existence of the ""Seraphim,"" a race of divine beings who give blessings to humanity and are offered prayers by them in return. Those who are anointed with the ability to interact with these spirits are known as ""Shepherds."" Hailed as heroes for their prompt appearances in times of crisis, while also being feared for their power, the Shepherds are imprinted in common folklore along with the Seraphim.
+
+Sorey is a young human who has spent his entire life living in harmony alongside the Seraphim in the village of Elysia. Fascinated by the myths of the Celestial Records, he explores some nearby ruins with Mikleo—his childhood Seraphim companion—hoping to enlighten himself about the Seraphims' history with mankind.
+
+Unfortunately, they become trapped in the depths of the historical site during their investigation. While searching for an exit, they come across a mysterious girl who desperately seeks the help of a Shepherd to save the world, which is on the brink of being consumed by darkness. Despite Mikleo's warning about making contact with other humans, Sorey decides to help the stranger, which unknowingly leads him closer to the dream of peaceful coexistence between man and Seraphim.
+
+[Written by MAL Rewrite]"
+animeRelated	['Tales of Zestiria: Michibiki no Toki', 'Tales of Zestiria: Doushi no Yoake', 'Tales of Zestiria the Cross: Saiyaku no Jidai', 'Tales of Zestiria the Cross 2nd Season', 'Tales of HR']
+animeCharacters	['Mikleo', 'Sorey', 'Edna', 'Diphda, Alisha', 'Lailah', 'Crowe, Velvet', 'Magilou', 'Rose', 'Eizen', 'Zaveid']
+animeVoices	['Oosaka, Ryouta', 'Kimura, Ryouhei', 'Fukuen, Misato', 'Kayano, Ai', 'Shitaya, Noriko', 'Satou, Rina', 'Satou, Satomi', 'Komatsu, Mikako', 'Tsuda, Kenjirou']
+animeStaff	[['Kondou, Hikaru', 'Producer, Sound Director, Storyboard, Planning'], ['Kisara, Youhei', 'Producer'], ['Sotozaki, Haruo', 'Director, Episode Director, Storyboard, 2nd Key Animation, Animation Director'], ['Shirai, Toshiyuki', 'Episode Director, Storyboard, Animation Director, Assistant Animation Director, Key Animation']]

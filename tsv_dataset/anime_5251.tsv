@@ -1,5 +1,5 @@
-animeTitle	b'Dan Doh!!'
-animeType	b'TV'
+animeTitle	Dan Doh!!
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.67
 animeUsers	1425
 animeRank	
-animePopularity	
-animeDescription	"b""Dandoh was playing a baseball game with friends Yuka and Kohei and hits a wild fly ball which crashes into the principal's potted plants. Rather than getting mad, the principal admires Dandoh's swing and introduces him to the world of golf. It's now an adventure in golf as Dandoh is under the watchful eye of a former pro-golfer. They enter a tournament together and play for a shot at the national championships.\n\n(Source: ANN)"""
-animeRelated	[b'Dan Doh!!']
-animeCharacters	[b'Aoba, Tadamichi', b'Sunada, Yuka', b'Akano, Takuya', b'Mikiyasu, Shinjo', b'Ooike, Kouhei', b'Kazama, Ryuuji', b'Aoba, Kyoko']
-animeVoices	[b'\nKobayashi, Yuu\nJapanese\n', b'\nHirayama, Aya\nJapanese\n', b'\nInada, Tetsu\nJapanese\n', b'\nNakahara, Shigeru\nJapanese\n', b'\nIchita, Rie\nJapanese\n', b'\nNoda, Junko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShizuno, Koubun\n\nCo-Director\n\n', b'\nOomori, Hidetoshi\n\nDirector, Storyboard, Animation Director, Character Design\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nShimomura, Yoko\n\nMusic\n\n']
+animePopularity	7832
+animeDescription	"Dandoh was playing a baseball game with friends Yuka and Kohei and hits a wild fly ball which crashes into the principal's potted plants. Rather than getting mad, the principal admires Dandoh's swing and introduces him to the world of golf. It's now an adventure in golf as Dandoh is under the watchful eye of a former pro-golfer. They enter a tournament together and play for a shot at the national championships.
+
+(Source: ANN)"
+animeRelated	['Dan Doh!!']
+animeCharacters	['Aoba, Tadamichi', 'Sunada, Yuka', 'Akano, Takuya', 'Mikiyasu, Shinjo', 'Ooike, Kouhei', 'Kazama, Ryuuji', 'Aoba, Kyoko']
+animeVoices	['Kobayashi, Yuu', 'Hirayama, Aya', 'Inada, Tetsu', 'Nakahara, Shigeru', 'Ichita, Rie', 'Noda, Junko']
+animeStaff	[['Shizuno, Koubun', 'Co-Director'], ['Oomori, Hidetoshi', 'Director, Storyboard, Animation Director, Character Design'], ['Watanabe, Jun', 'Sound Director'], ['Shimomura, Yoko', 'Music']]

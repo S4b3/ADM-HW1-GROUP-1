@@ -1,5 +1,5 @@
-animeTitle	b'Bem Movie: Become Human'
-animeType	b'Movie'
+animeTitle	Bem Movie: Become Human
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.83
 animeUsers	1751
 animeRank	
-animePopularity	
-animeDescription	"b""Take place 2 years after the last episode of the TV series.\n\nDetective Sonia Summers are tracking Bem and the others. She reunited with Belo, who is fighting a dark organization alone. He brought her to Bem, but Bem doesn't remember anything and living in the city as an ordinary employee... or that is what he thought he was."""
-animeRelated	[b'Youkai Ningen Bem', b'Youkai Ningen Bem (2006)', b'Bem']
-animeCharacters	[b'Belo', b'Bela', b'Bem', b'Summers, Sonia', b'Dr. Recycle', b'Greta', b'Draco', b'Emma', b'Burgess', b'Woods, Joel']
-animeVoices	[b'\nOno, Kensho\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nMiyata, Toshiya\nJapanese\n', b'\nNomura, Kenji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuroki, Rui\n\nProducer\n\n', b'\nIkehata, Hiroshi\n\nDirector, Episode Director\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nWatanabe, Tetsuaki\n\nEpisode Director\n\n']
+animePopularity	5922
+animeDescription	"Take place 2 years after the last episode of the TV series.
+
+Detective Sonia Summers are tracking Bem and the others. She reunited with Belo, who is fighting a dark organization alone. He brought her to Bem, but Bem doesn't remember anything and living in the city as an ordinary employee... or that is what he thought he was."
+animeRelated	['Youkai Ningen Bem', 'Youkai Ningen Bem (2006)', 'Bem']
+animeCharacters	['Belo', 'Bela', 'Bem', 'Summers, Sonia', 'Dr. Recycle', 'Greta', 'Draco', 'Emma', 'Burgess', 'Woods, Joel']
+animeVoices	['Ono, Kensho', 'Ichimichi, Mao', 'Konishi, Katsuyuki', 'Uchida, Maaya', 'Suwabe, Junichi', 'Itou, Shizuka', 'Takagi, Wataru', 'Mizuki, Nana', 'Miyata, Toshiya', 'Nomura, Kenji']
+animeStaff	[['Kuroki, Rui', 'Producer'], ['Ikehata, Hiroshi', 'Director, Episode Director'], ['Kameyama, Toshiki', 'Sound Director'], ['Watanabe, Tetsuaki', 'Episode Director']]

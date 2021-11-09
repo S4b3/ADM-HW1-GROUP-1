@@ -1,5 +1,5 @@
-animeTitle	b'Himawari!!'
-animeType	b'TV'
+animeTitle	Himawari!!
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.47
 animeUsers	3237
 animeRank	
-animePopularity	
-animeDescription	"b""Himawari is back in all her comical ninja mischief. The sequel to Himawari continues with the many odd and hilarious adventures of Himawari, Hayato and her ninja classmates. Season two delves into Himawari and Hayato's past. Will new secrets be revealed? Will Himawari finally find out about her past and the mysterious ninja that saved her when she was little?\n\n(Source: ANN)"""
-animeRelated	[b'Himawari Den!', b'Himawari!']
-animeCharacters	[b'Hinata, Himawari', b'Marikoji, Hayato', b'Shikimi', b'Azami', b'Tsukiyohime', b'Himeji', b'Ichimonji, Komurasaki', b'Okashira', b'Kazama, Tsubaki', b'Nanafushi']
-animeVoices	[b'\nMatsumoto, Kana\nJapanese\n', b'\nToochika, Kouichi\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nYoshida, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKageyama, Shigenori\n\nDirector, Storyboard\n\n', b'\nYokotani, Masahiro\n\nScript\n\n', b'\nYamada, Yuka\n\nScript\n\n', b'\nSasano, Megumu\n\nScript\n\n']
+animePopularity	5245
+animeDescription	"Himawari is back in all her comical ninja mischief. The sequel to Himawari continues with the many odd and hilarious adventures of Himawari, Hayato and her ninja classmates. Season two delves into Himawari and Hayato's past. Will new secrets be revealed? Will Himawari finally find out about her past and the mysterious ninja that saved her when she was little?
+
+(Source: ANN)"
+animeRelated	['Himawari Den!', 'Himawari!']
+animeCharacters	['Hinata, Himawari', 'Marikoji, Hayato', 'Shikimi', 'Azami', 'Tsukiyohime', 'Himeji', 'Ichimonji, Komurasaki', 'Okashira', 'Kazama, Tsubaki', 'Nanafushi']
+animeVoices	['Matsumoto, Kana', 'Toochika, Kouichi', 'Hirano, Aya', 'Yoshida, Mayumi']
+animeStaff	[['Kageyama, Shigenori', 'Director, Storyboard'], ['Yokotani, Masahiro', 'Script'], ['Yamada, Yuka', 'Script'], ['Sasano, Megumu', 'Script']]

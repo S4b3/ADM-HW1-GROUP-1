@@ -1,5 +1,5 @@
-animeTitle	b'Eiga Daisuki Pompo-san (Movie)'
-animeType	b'Movie'
+animeTitle	Eiga Daisuki Pompo-san (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.23
 animeUsers	126
 animeRank	
-animePopularity	
-animeDescription	"b'The series centers on Joelle Davidovich Pomponette (Pompo-san), a talented film producer at the movie capital ""Nyallywood."" Despite her prowess to see through to the potential of actors and staff and bring out their talent to the fullest, she has only been producing B-class action and erotic films. One day, Pompo\'s ""film-worm"" assistant Gene, who has been doubtful of her choices of film genres, is given the task to direct a film based on a script written by her. Will Gene be able to bring Pompo\'s ""masterpiece"" to fruition?\n\n(Source: MAL News)'"
-animeRelated	[b'Eiga Daisuki Pompo-san']
-animeCharacters	[b'Fini, Gene', b'Pomponette, Joelle Davidovich', b'Mystia', b'Braddock, Martin', b'Woodward, Nathalie']
-animeVoices	[b'\nShimizu, Hiroya\nJapanese\n', b'\nKohara, Konomi\nJapanese\n', b'\nKakuma, Ai\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nOotani, Rinka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirao, Takayuki\n\nDirector, Screenplay\n\n', b'\nImura, Kenji\n\nAssistant Director\n\n', b'\nAdachi, Shingo\n\nCharacter Design\n\n', b'\nChiba, Emi\n\nColor Design\n\n']
+animePopularity	6844
+animeDescription	"The series centers on Joelle Davidovich Pomponette (Pompo-san), a talented film producer at the movie capital ""Nyallywood."" Despite her prowess to see through to the potential of actors and staff and bring out their talent to the fullest, she has only been producing B-class action and erotic films. One day, Pompo's ""film-worm"" assistant Gene, who has been doubtful of her choices of film genres, is given the task to direct a film based on a script written by her. Will Gene be able to bring Pompo's ""masterpiece"" to fruition?
+
+(Source: MAL News)"
+animeRelated	['Eiga Daisuki Pompo-san']
+animeCharacters	['Fini, Gene', 'Pomponette, Joelle Davidovich', 'Mystia', 'Braddock, Martin', 'Woodward, Nathalie']
+animeVoices	['Shimizu, Hiroya', 'Kohara, Konomi', 'Kakuma, Ai', 'Ootsuka, Akio', 'Ootani, Rinka']
+animeStaff	[['Hirao, Takayuki', 'Director, Screenplay'], ['Imura, Kenji', 'Assistant Director'], ['Adachi, Shingo', 'Character Design'], ['Chiba, Emi', 'Color Design']]

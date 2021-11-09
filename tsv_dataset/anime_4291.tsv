@@ -1,5 +1,5 @@
-animeTitle	b'Nakanohito Genome [Jikkyouchuu]'
-animeType	b'TV'
+animeTitle	Nakanohito Genome [Jikkyouchuu]
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.88
 animeUsers	40683
 animeRank	
-animePopularity	
-animeDescription	"b""Iride Akatsuki has unlocked hidden content in the game he's playing, 'Nakanohito Genome,' and it turns out that this content is a real-life game!\nHe soon wakes up to find that he has been kidnapped and taken to a strange place, along with a number of other teammates. Each of them specializes in a certain sort of game, like cultivation games, fighting games, puzzle games, etc.\nA llama-headed 'teacher' gathers them after level 1 is cleared to explain how the game will proceed.\nWill this group of gamers succeed, and make it back to their real lives?\n\n(Source: MangaHelpers)"""
-animeRelated	[b'Nakanohito Genome [Jikkyouchuu]', b'Nakanohito Genome [Jikkyouchuu]: Knots of Memories']
-animeCharacters	[b'Iride, Akatsuki', b'Oshigiri, Zakuro', b'Sarayashiki, Karin', b'Roromori, Yuzu', b'Aikawa, Makino', b'Onigasaki, Kaikoku', b'Kudou, Anya', b'Inaba, Himiko', b'Paca', b'Omejima, Nanami']
-animeVoices	[b'\nYamashita, Daiki\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nKitou, Akari\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nSatou, Takuya\nJapanese\n', b'\nHatanaka, Tasuku\nJapanese\n', b'\nIwami, Manaka\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOonuma, Shin\n\nDirector\n\n', b'\nInoue, Akiko\n\nScript\n\n', b'\nHatanaka, Tasuku\n\nTheme Song Performance\n\n', b'\nfh\xc3\xa1na\n\nTheme Song Performance\n\n']
+animePopularity	1563
+animeDescription	"Iride Akatsuki has unlocked hidden content in the game he's playing, 'Nakanohito Genome,' and it turns out that this content is a real-life game!
+He soon wakes up to find that he has been kidnapped and taken to a strange place, along with a number of other teammates. Each of them specializes in a certain sort of game, like cultivation games, fighting games, puzzle games, etc.
+A llama-headed 'teacher' gathers them after level 1 is cleared to explain how the game will proceed.
+Will this group of gamers succeed, and make it back to their real lives?
+
+(Source: MangaHelpers)"
+animeRelated	['Nakanohito Genome [Jikkyouchuu]', 'Nakanohito Genome [Jikkyouchuu]: Knots of Memories']
+animeCharacters	['Iride, Akatsuki', 'Oshigiri, Zakuro', 'Sarayashiki, Karin', 'Roromori, Yuzu', 'Aikawa, Makino', 'Onigasaki, Kaikoku', 'Kudou, Anya', 'Inaba, Himiko', 'Paca', 'Omejima, Nanami']
+animeVoices	['Yamashita, Daiki', 'Uchiyama, Kouki', 'Kitou, Akari', 'Nazuka, Kaori', 'Terashima, Takuma', 'Satou, Takuya', 'Hatanaka, Tasuku', 'Iwami, Manaka', 'Tsuda, Kenjirou', 'Hirakawa, Daisuke']
+animeStaff	[['Oonuma, Shin', 'Director'], ['Inoue, Akiko', 'Script'], ['Hatanaka, Tasuku', 'Theme Song Performance'], ['fhána', 'Theme Song Performance']]

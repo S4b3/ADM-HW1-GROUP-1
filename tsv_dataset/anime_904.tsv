@@ -1,5 +1,5 @@
-animeTitle	b'New Initial D Movie: Legend 1 - Kakusei'
-animeType	b'Movie'
+animeTitle	New Initial D Movie: Legend 1 - Kakusei
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.77
 animeUsers	13865
 animeRank	
-animePopularity	
-animeDescription	b'The first movie in a trilogy, focusing on the battle against the Takahashi brothers.'
-animeRelated	[b'Initial D', b'Initial D First Stage', b'New Initial D Movie: Legend 2 - Tousou']
-animeCharacters	[b'Fujiwara, Takumi', b'Fujiwara, Bunta', b'Takahashi, Ryousuke', b'Takahashi, Keisuke', b'Takeuchi, Itsuki', b'Nakazato, Takeshi', b'Iketani, Kouichirou', b'Mogi, Natsuki', b'Tachibana, Yuuichi', b'Kenji']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n', b'\nShiraishi, Minoru\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nTsuchida, Hiroshi\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nShimura, Tomoyuki\nJapanese\n', b'\nKatsu, Anri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHidaka, Masamitsu\n\nDirector\n\n', b'\nSekijima, Mayori\n\nScript\n\n', b'\nKawamura, Ryuuichi\n\nTheme Song Composition, Theme Song Performance, Theme Song Lyrics\n\n', b'\nShigeno, Shuuichi\n\nOriginal Creator\n\n']
+animePopularity	3392
+animeDescription	The first movie in a trilogy, focusing on the battle against the Takahashi brothers.
+animeRelated	['Initial D', 'Initial D First Stage', 'New Initial D Movie: Legend 2 - Tousou']
+animeCharacters	['Fujiwara, Takumi', 'Fujiwara, Bunta', 'Takahashi, Ryousuke', 'Takahashi, Keisuke', 'Takeuchi, Itsuki', 'Nakazato, Takeshi', 'Iketani, Kouichirou', 'Mogi, Natsuki', 'Tachibana, Yuuichi', 'Kenji']
+animeVoices	['Miyano, Mamoru', 'Hirata, Hiroaki', 'Ono, Daisuke', 'Nakamura, Yuuichi', 'Shiraishi, Minoru', 'Suwabe, Junichi', 'Tsuchida, Hiroshi', 'Uchida, Maaya', 'Shimura, Tomoyuki', 'Katsu, Anri']
+animeStaff	[['Hidaka, Masamitsu', 'Director'], ['Sekijima, Mayori', 'Script'], ['Kawamura, Ryuuichi', 'Theme Song Composition, Theme Song Performance, Theme Song Lyrics'], ['Shigeno, Shuuichi', 'Original Creator']]

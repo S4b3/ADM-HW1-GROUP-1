@@ -1,5 +1,5 @@
-animeTitle	b'Akuu Daisakusen Srungle'
-animeType	b'TV'
+animeTitle	Akuu Daisakusen Srungle
+animeType	TV
 animeNumEpisode	53
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.11
 animeUsers	199
 animeRank	
-animePopularity	
-animeDescription	b'In the year 2545, an experiment gone wrong puts test pilot David Jance through the center of the galaxy and into another universe, which ends up in the middle of life and death struggle against the armies of GRIP, led by Dark Star. \n\n(Source: ANN)'
+animePopularity	10600
+animeDescription	"In the year 2545, an experiment gone wrong puts test pilot David Jance through the center of the galaxy and into another universe, which ends up in the middle of life and death struggle against the armies of GRIP, led by Dark Star. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Captain Jance', b'Sexy', b'Ankreerah', b'Baud Lion', b'Idoll', b'Magician', b'General Tab', b'Zashinsasu', b'Luna Elize', b'Archduchess']
-animeVoices	[b'\nNojima, Akio\nJapanese\n', b'\nHirano, Fumi\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nOnoda, Eiichi\nJapanese\n', b'\nTonguu, Kyouko\nJapanese\n', b'\nMasuoka, Hiroshi\nJapanese\n', b'\nAomori, Shin\nJapanese\n', b'\nTsuda, Eizou\nJapanese\n', b'\nKurosu, Kaoru\nJapanese\n', b'\nSugita, Ikuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuriyama, Yoshihide\n\nEpisode Director, Storyboard\n\n', b'\nAikawa, Shou\n\nScript\n\n', b'\nNitta, Ichirou\n\nTheme Song Composition, Theme Song Arrangement\n\n', b'\nAmano, Yoshitaka\n\nCharacter Design\n\n']
+animeCharacters	['Captain Jance', 'Sexy', 'Ankreerah', 'Baud Lion', 'Idoll', 'Magician', 'General Tab', 'Zashinsasu', 'Luna Elize', 'Archduchess']
+animeVoices	['Nojima, Akio', 'Hirano, Fumi', 'Gouri, Daisuke', 'Onoda, Eiichi', 'Tonguu, Kyouko', 'Masuoka, Hiroshi', 'Aomori, Shin', 'Tsuda, Eizou', 'Kurosu, Kaoru', 'Sugita, Ikuko']
+animeStaff	[['Kuriyama, Yoshihide', 'Episode Director, Storyboard'], ['Aikawa, Shou', 'Script'], ['Nitta, Ichirou', 'Theme Song Composition, Theme Song Arrangement'], ['Amano, Yoshitaka', 'Character Design']]

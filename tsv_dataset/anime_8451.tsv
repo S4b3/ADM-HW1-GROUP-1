@@ -1,5 +1,5 @@
-animeTitle	b'Honoo no Alpenrose'
-animeType	b'OVA'
+animeTitle	Honoo no Alpenrose
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.05
 animeUsers	177
 animeRank	
-animePopularity	
-animeDescription	b'Two-part OVA that summarises the entire Honoo no Alpenrose TV series featuring a new dubbing and reworked scenes.\n\n(Source: AniDB)'
-animeRelated	[b'Alpen Rose', b'Honoo no Alpenrose: Judy & Randy', b'Honoo no Alpenrose: Sweet Memory Ongaku-hen', b'Honoo no Alpenrose: Ai no Symphony Ongaku-hen']
-animeCharacters	[b'Brendel, Alicia', b'Courtot, Lundi']
+animePopularity	12122
+animeDescription	"Two-part OVA that summarises the entire Honoo no Alpenrose TV series featuring a new dubbing and reworked scenes.
+
+(Source: AniDB)"
+animeRelated	['Alpen Rose', 'Honoo no Alpenrose: Judy & Randy', 'Honoo no Alpenrose: Sweet Memory Ongaku-hen', 'Honoo no Alpenrose: Ai no Symphony Ongaku-hen']
+animeCharacters	['Brendel, Alicia', 'Courtot, Lundi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkaishi, Michiyo\n\nOriginal Creator\n\n']
+animeStaff	[['Akaishi, Michiyo', 'Original Creator']]

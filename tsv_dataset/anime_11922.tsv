@@ -1,5 +1,5 @@
-animeTitle	b'KochinPa!'
-animeType	b'TV'
+animeTitle	KochinPa!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	4.19
 animeUsers	870
 animeRank	
-animePopularity	
-animeDescription	"b'Anime adaptation of pachinko and slot machine parlor Island\'s ""Aira Project"" commercials. It follows three mascot characters: Aira, Hana, and Shima.'"
-animeRelated	[b'KochinPa! Dainiki']
-animeCharacters	[b'Aira', b'Hana', b'Shima']
-animeVoices	[b'\nPile\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSugahara, Souta\n\nDirector, Script\n\n', b'\nwogura\n\nCharacter Design\n\n']
+animePopularity	9509
+animeDescription	"Anime adaptation of pachinko and slot machine parlor Island's ""Aira Project"" commercials. It follows three mascot characters: Aira, Hana, and Shima."
+animeRelated	['KochinPa! Dainiki']
+animeCharacters	['Aira', 'Hana', 'Shima']
+animeVoices	['Pile', 'Hanazawa, Kana', 'Iguchi, Yuka']
+animeStaff	[['Sugahara, Souta', 'Director, Script'], ['wogura', 'Character Design']]

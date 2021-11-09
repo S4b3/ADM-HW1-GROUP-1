@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu'
-animeType	b'Special'
+animeTitle	Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.53
 animeUsers	38824
 animeRank	
-animePopularity	
-animeDescription	"b""Years after the end of the Dragonball GT, the story continues in this special with Son Goku's now eldery granddaughter Pan, and a new generation of super saiyajins, the great-great-grandsons of Goku and Vegeta\n100 years after the end of DBGT, all the heroes of Earth have died...except for Pan, the granddaughter of Son Goku. Pan has a grandchild named Goku Jr. However, he does not have the bravery of his great-great-grandfather. Pan suffurs a heart attack, and Goku Jr. believes that he might be able to save her with the power of the 4 star Dragon Ball. Along with the school bully, he tries to find the ball...and unleashes his hidden bravery and power.\n\n(Source: ANN)"""
-animeRelated	[b'Dragon Ball GT']
-animeCharacters	[b'Son, Gokuu Jr.', b'Son, Gokuu', b'Pan', b'Manba', b'Puck', b'Yomao', b'Getto', b'Rakkaru']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n', b'\nItou, Miki\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nOotomo, Ryuuzaburou\nJapanese\n', b'\nAomori, Shin\nJapanese\n', b'\nSogabe, Kazuyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nMorgenstern, Tommy\n\nTheme Song Performance\n\n', b'\nSabat, Christopher\n\nADR Director\n\n', b'\nFukunaga, Gen\n\nExecutive Producer\n\n']
+animePopularity	2176
+animeDescription	"Years after the end of the Dragonball GT, the story continues in this special with Son Goku's now eldery granddaughter Pan, and a new generation of super saiyajins, the great-great-grandsons of Goku and Vegeta
+100 years after the end of DBGT, all the heroes of Earth have died...except for Pan, the granddaughter of Son Goku. Pan has a grandchild named Goku Jr. However, he does not have the bravery of his great-great-grandfather. Pan suffurs a heart attack, and Goku Jr. believes that he might be able to save her with the power of the 4 star Dragon Ball. Along with the school bully, he tries to find the ball...and unleashes his hidden bravery and power.
+
+(Source: ANN)"
+animeRelated	['Dragon Ball GT']
+animeCharacters	['Son, Gokuu Jr.', 'Son, Gokuu', 'Pan', 'Manba', 'Puck', 'Yomao', 'Getto', 'Rakkaru']
+animeVoices	['Nozawa, Masako', 'Minaguchi, Yuko', 'Itou, Miki', 'Furuya, Toru', 'Ootomo, Ryuuzaburou', 'Aomori, Shin', 'Sogabe, Kazuyuki']
+animeStaff	[['Watson, Barry', 'Producer'], ['Morgenstern, Tommy', 'Theme Song Performance'], ['Sabat, Christopher', 'ADR Director'], ['Fukunaga, Gen', 'Executive Producer']]

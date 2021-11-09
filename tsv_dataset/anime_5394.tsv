@@ -1,5 +1,5 @@
-animeTitle	b'Nissan Serena x One Piece 3D: Mugiwara Chase - Sennyuu!! Sauzando Sanii-gou'
-animeType	b'Special'
+animeTitle	Nissan Serena x One Piece 3D: Mugiwara Chase - Sennyuu!! Sauzando Sanii-gou
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.64
 animeUsers	3940
 animeRank	
-animePopularity	
-animeDescription	"b""Brook introduces the Thousand Sunny's while Luffy searches for his straw hat.\n\nThis was a special included in a limited edition DVD that was released in Nissan stores across Japan. The DVD also included the making of One Piece 3D: Straw Hat Chase."""
-animeRelated	[b'One Piece', b'One Piece 3D: Mugiwara Chase']
-animeCharacters	[b'Monkey D., Luffy', b'Roronoa, Zoro', b'Sanji', b'Nico, Robin', b'Tony Tony, Chopper', b'Usopp', b'Nami', b'Brook', b'Franky']
-animeVoices	[b'\nTanaka, Mayumi\nJapanese\n', b'\nNakai, Kazuya\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n', b'\nYamaguchi, Yuriko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nCho\nJapanese\n', b'\nYao, Kazuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOda, Eiichiro\n\nOriginal Creator\n\n']
+animePopularity	5452
+animeDescription	"Brook introduces the Thousand Sunny's while Luffy searches for his straw hat.
+
+This was a special included in a limited edition DVD that was released in Nissan stores across Japan. The DVD also included the making of One Piece 3D: Straw Hat Chase."
+animeRelated	['One Piece', 'One Piece 3D: Mugiwara Chase']
+animeCharacters	['Monkey D., Luffy', 'Roronoa, Zoro', 'Sanji', 'Nico, Robin', 'Tony Tony, Chopper', 'Usopp', 'Nami', 'Brook', 'Franky']
+animeVoices	['Tanaka, Mayumi', 'Nakai, Kazuya', 'Hirata, Hiroaki', 'Yamaguchi, Yuriko', 'Ootani, Ikue', 'Yamaguchi, Kappei', 'Okamura, Akemi', 'Cho', 'Yao, Kazuki']
+animeStaff	[['Oda, Eiichiro', 'Original Creator']]

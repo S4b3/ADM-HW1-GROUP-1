@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: Prison of the Past'
-animeType	b'Special'
+animeTitle	Lupin III: Prison of the Past
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.84
 animeUsers	1026
 animeRank	
-animePopularity	
-animeDescription	"b""The episode focuses on Lupin's gang descending upon the Kingdom of Dorrente in order to rescue a famous thief who has been detained. While this takes place, the most notorious thieves from around the world gather in the kingdom.\n\n(Source: MAL News)"""
-animeRelated	[b'Lupin III']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi', b'Yatagarasu, Gorou', b'Dynamite Joe', b'Announcer', b'Scarlthos', b'Berthe']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nWatanabe, Eriko\nJapanese\n', b'\nSakazume, Takayuki\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuji, Hatsuki\n\nDirector\n\n', b'\nNishida, Shatner\n\nScript\n\n', b'\nMonkey Punch\n\nOriginal Creator\n\n', b'\nOono, Yuuji\n\nMusic\n\n']
+animePopularity	8105
+animeDescription	"The episode focuses on Lupin's gang descending upon the Kingdom of Dorrente in order to rescue a famous thief who has been detained. While this takes place, the most notorious thieves from around the world gather in the kingdom.
+
+(Source: MAL News)"
+animeRelated	['Lupin III']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Yatagarasu, Gorou', 'Dynamite Joe', 'Announcer', 'Scarlthos', 'Berthe']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Sawashiro, Miyuki', 'Namikawa, Daisuke', 'Yamadera, Kouichi', 'Shimazaki, Nobunaga', 'Miyake, Kenta', 'Watanabe, Eriko', 'Sakazume, Takayuki', 'Miki, Shinichiro']
+animeStaff	[['Tsuji, Hatsuki', 'Director'], ['Nishida, Shatner', 'Script'], ['Monkey Punch', 'Original Creator'], ['Oono, Yuuji', 'Music']]

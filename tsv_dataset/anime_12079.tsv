@@ -1,5 +1,5 @@
-animeTitle	b'Miracle Psychicer Seizan'
-animeType	b'OVA'
+animeTitle	Miracle Psychicer Seizan
+animeType	OVA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
+animePopularity	14797
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
 animeRelated	[]
-animeCharacters	[b'Mayumi', b'Seizan, Takeru']
-animeVoices	[b'\nShinohara, Emi\nJapanese\n', b'\nYasuhara, Yoshito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAnnou, Masami\n\nDirector\n\n', b'\nAbe, Noriyuki\n\nEpisode Director\n\n', b'\nNinomiya, Tsuneo\n\nAnimation Director\n\n']
+animeCharacters	['Mayumi', 'Seizan, Takeru']
+animeVoices	['Shinohara, Emi', 'Yasuhara, Yoshito']
+animeStaff	[['Annou, Masami', 'Director'], ['Abe, Noriyuki', 'Episode Director'], ['Ninomiya, Tsuneo', 'Animation Director']]

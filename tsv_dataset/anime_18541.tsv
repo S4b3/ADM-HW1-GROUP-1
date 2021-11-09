@@ -1,5 +1,5 @@
-animeTitle	b'Innocent: Shoujo Memoria'
-animeType	b'OVA'
+animeTitle	Innocent: Shoujo Memoria
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.96
 animeUsers	1124
 animeRank	
-animePopularity	
-animeDescription	"b""Includes two short stories:\n\n1. A girl claims to be the reincarnation of an older man's deceased girlfriend in order to have sex with him.\n\n2. A girl decides to pretend to be asleep until her father comes back. Her brother, thinking she really is asleep, decides to take advantage of the opportunity and repeatedly have sex with her."""
-animeRelated	[b'Innocent: Shoujo Memoria']
-animeCharacters	[b'Yasudo, Eriko', b'Tengo']
+animePopularity	8397
+animeDescription	"Includes two short stories:
+
+1. A girl claims to be the reincarnation of an older man's deceased girlfriend in order to have sex with him.
+
+2. A girl decides to pretend to be asleep until her father comes back. Her brother, thinking she really is asleep, decides to take advantage of the opportunity and repeatedly have sex with her."
+animeRelated	['Innocent: Shoujo Memoria']
+animeCharacters	['Yasudo, Eriko', 'Tengo']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkatsuki, Myuuto\n\nOriginal Creator\n\n', b'\nAraki, Hideki\n\nCharacter Design\n\n']
+animeStaff	[['Akatsuki, Myuuto', 'Original Creator'], ['Araki, Hideki', 'Character Design']]

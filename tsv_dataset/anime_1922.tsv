@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam SEED Destiny Final Plus: The Chosen Future'
-animeType	b'OVA'
+animeTitle	Mobile Suit Gundam SEED Destiny Final Plus: The Chosen Future
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	7.41
 animeUsers	11792
 animeRank	
-animePopularity	
-animeDescription	"b""In year 74 of the Cosmic Era, the civil war raging between the earthbound Naturals and space-dwelling Coordinators comes to a close. Suffering a major setback, Kira Yamato pilots the Strike Freedom Gundam and leads the Archangel and its crew in a desperate bid to destroy the Requiem, a super-weapon intended to wipe out most human life in the universe. \n\nAlongside Kira fights his best friend and rival Athrun Zala, an ace pilot who must defend himself against the wrath of his former subordinate Shinn Asuka, pilot of the powerful Destiny Gundam. Shinn believes Athrun to be a traitor, an obstacle in the course of the universe's peaceful future.\n\nAs life-or-death mobile suit brawls are waged for the fate of the galaxy, a sprawling war between humans who are incapable of understanding one another draws to its conclusion.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Mobile Suit Gundam SEED Destiny', b'Mobile Suit Gundam SEED Movie']
-animeCharacters	[b'Yamato, Kira', b'Clyne, Lacus', b'Zala, Athrun', b'Athha, Cagalli Yula', b'Asuka, Shinn', b'Hawke, Lunamaria', b'Za Burrel, Rey', b'La Flaga, Mu', b'Haro', b'Le Creuset, Rau']
-animeVoices	[b'\nHoshi, Souichirou\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nShindo, Naomi\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Hajime\n\nProducer\n\n', b'\nYonetani, Yoshitomo\n\nStoryboard\n\n', b'\nNishizawa, Susumu\n\nStoryboard\n\n', b'\nTanaka, Rie\n\nTheme Song Performance\n\n']
+animePopularity	3871
+animeDescription	"In year 74 of the Cosmic Era, the civil war raging between the earthbound Naturals and space-dwelling Coordinators comes to a close. Suffering a major setback, Kira Yamato pilots the Strike Freedom Gundam and leads the Archangel and its crew in a desperate bid to destroy the Requiem, a super-weapon intended to wipe out most human life in the universe. 
+
+Alongside Kira fights his best friend and rival Athrun Zala, an ace pilot who must defend himself against the wrath of his former subordinate Shinn Asuka, pilot of the powerful Destiny Gundam. Shinn believes Athrun to be a traitor, an obstacle in the course of the universe's peaceful future.
+
+As life-or-death mobile suit brawls are waged for the fate of the galaxy, a sprawling war between humans who are incapable of understanding one another draws to its conclusion.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Mobile Suit Gundam SEED Destiny', 'Mobile Suit Gundam SEED Movie']
+animeCharacters	['Yamato, Kira', 'Clyne, Lacus', 'Zala, Athrun', 'Athha, Cagalli Yula', 'Asuka, Shinn', 'Hawke, Lunamaria', 'Za Burrel, Rey', 'La Flaga, Mu', 'Haro', 'Le Creuset, Rau']
+animeVoices	['Hoshi, Souichirou', 'Tanaka, Rie', 'Ishida, Akira', 'Shindo, Naomi', 'Suzumura, Kenichi', 'Sakamoto, Maaya', 'Seki, Toshihiko', 'Koyasu, Takehito']
+animeStaff	[['Yatate, Hajime', 'Producer'], ['Yonetani, Yoshitomo', 'Storyboard'], ['Nishizawa, Susumu', 'Storyboard'], ['Tanaka, Rie', 'Theme Song Performance']]

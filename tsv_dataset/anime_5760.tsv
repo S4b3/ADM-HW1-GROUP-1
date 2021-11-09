@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon: Ganbare! Gian!!'
-animeType	b'Movie'
+animeTitle	Doraemon: Ganbare! Gian!!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.57
 animeUsers	569
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Doraemon Movie 22: Nobita to Tsubasa no Yuusha-tachi']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Gouda, Takeshi', b'Honekawa, Suneo', b'Nobi, Nobisuke', b'Gouda, Jaiko', b'Gouda, Mother']
-animeVoices	[b'\nOoyama, Nobuyo\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nNomura, Michiko\nJapanese\n', b'\nTatekabe, Kazuya\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nNaka, Yousuke\nJapanese\n', b'\nAoki, Kazuyo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n', b'\nKikuchi, Shunsuke\n\nMusic\n\n', b'\nHashi, Katsuhiro\n\nBackground Art\n\n', b'\nYokoyama, Masakazu\n\nSound Effects\n\n']
+animePopularity	10204
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Doraemon Movie 22: Nobita to Tsubasa no Yuusha-tachi']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Gouda, Takeshi', 'Honekawa, Suneo', 'Nobi, Nobisuke', 'Gouda, Jaiko', 'Gouda, Mother']
+animeVoices	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Nomura, Michiko', 'Tatekabe, Kazuya', 'Kimotsuki, Kaneta', 'Naka, Yousuke', 'Aoki, Kazuyo']
+animeStaff	[['Fujiko, Fujio F.', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music'], ['Hashi, Katsuhiro', 'Background Art'], ['Yokoyama, Masakazu', 'Sound Effects']]

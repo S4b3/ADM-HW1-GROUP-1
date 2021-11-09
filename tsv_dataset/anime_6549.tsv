@@ -1,5 +1,5 @@
-animeTitle	b'Code-E'
-animeType	b'TV'
+animeTitle	Code-E
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.42
 animeUsers	6766
 animeRank	
-animePopularity	
-animeDescription	"b'Chinami Ebihara is girl with a strange ability to generate electromagnetic waves when her emotions run high. However, since this ""ability"" affects anything electrical, it resulted in her having to transfer from school to school when she was younger. As Chinami, now 18 years of age, transfers to a new school, she once again affects the electronic devices in the school, but this time, when another student, Kotaro Kannagi, sees her do this, he becomes obsessed in studying her ""TYPE-E"" ability.\n\n(Source: ANN)'"
-animeRelated	[b'Code-Ex', b'Code-E: Harukanaru Sasayaki', b'Mission-E']
-animeCharacters	[b'Ebihara, Chinami', b'Kannagi, Koutarou', b'Saihashi, Yuma', b'Brinberg, Adol', b'Kimizuka, Maori', b'Fujiwara', b'Brinberg, Mils', b'Hiiragi, Tokio', b'Kujou, Sonomi', b'Komatsuna, Keiko']
-animeVoices	[b'\nHashimoto, Mai\nJapanese\n', b'\nNomura, Katsuhito\nJapanese\n', b'\nMizuno, Risa\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nKanada, Aki\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nMomoi, Haruko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Atsushi\n\nProducer\n\n', b'\nKato, Toshiyuki\n\nDirector, Episode Director, Storyboard\n\n', b'\nGouda, Hozumi\n\nSound Director\n\n', b'\nYoshida, Shunji\n\nEpisode Director\n\n']
+animePopularity	4299
+animeDescription	"Chinami Ebihara is girl with a strange ability to generate electromagnetic waves when her emotions run high. However, since this ""ability"" affects anything electrical, it resulted in her having to transfer from school to school when she was younger. As Chinami, now 18 years of age, transfers to a new school, she once again affects the electronic devices in the school, but this time, when another student, Kotaro Kannagi, sees her do this, he becomes obsessed in studying her ""TYPE-E"" ability.
+
+(Source: ANN)"
+animeRelated	['Code-Ex', 'Code-E: Harukanaru Sasayaki', 'Mission-E']
+animeCharacters	['Ebihara, Chinami', 'Kannagi, Koutarou', 'Saihashi, Yuma', 'Brinberg, Adol', 'Kimizuka, Maori', 'Fujiwara', 'Brinberg, Mils', 'Hiiragi, Tokio', 'Kujou, Sonomi', 'Komatsuna, Keiko']
+animeVoices	['Hashimoto, Mai', 'Nomura, Katsuhito', 'Mizuno, Risa', 'Kamiya, Hiroshi', 'Kanada, Aki', 'Toyoguchi, Megumi', 'Yao, Kazuki', 'Nazuka, Kaori', 'Momoi, Haruko']
+animeStaff	[['Suzuki, Atsushi', 'Producer'], ['Kato, Toshiyuki', 'Director, Episode Director, Storyboard'], ['Gouda, Hozumi', 'Sound Director'], ['Yoshida, Shunji', 'Episode Director']]

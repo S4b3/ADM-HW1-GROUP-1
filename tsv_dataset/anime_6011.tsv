@@ -1,5 +1,5 @@
-animeTitle	b'Danchigai'
-animeType	b'TV'
+animeTitle	Danchigai
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.52
 animeUsers	47991
 animeRank	
-animePopularity	
-animeDescription	"b""Haruki Nakano lives an average high school life, except for the fact that his mother is overseas and he shares an apartment with his four sisters. There's the oldest, Mutsuki, who has a bad habit of falling asleep in his bed, the junior high school student Yayoi, who hits him whenever something happens, and then the grade school twins, Uzuki and Satsuki, who love to play pranks on their older brother.\n\nStuck in a house with four girls, Haruki has to deal with all sorts of trials. From going grocery shopping, watching scary movies, to kissing practice, life is never boring in Danchigai!"""
-animeRelated	[b'Danchigai', b'Danchigai: Juusan Goutou Sentou Ikitai!!']
-animeCharacters	[b'Nakano, Mutsuki', b'Nakano, Yayoi', b'Nakano, Satsuki', b'Nakano, Haruki', b'Nakano, Uzuki']
-animeVoices	[b'\nAkesaka, Satomi\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nHorino, Sayaka\nJapanese\n', b'\nAbe, Atsushi\nJapanese\n', b'\nTokui, Sora\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirasawa, Hisayoshi\n\nProducer\n\n', b'\nKimura, Hiroshi\n\nDirector\n\n', b'\nOomuro, Masakatsu\n\nSound Director\n\n', b'\nKomatsu, Mikako\n\nTheme Song Performance\n\n']
+animePopularity	1594
+animeDescription	"Haruki Nakano lives an average high school life, except for the fact that his mother is overseas and he shares an apartment with his four sisters. There's the oldest, Mutsuki, who has a bad habit of falling asleep in his bed, the junior high school student Yayoi, who hits him whenever something happens, and then the grade school twins, Uzuki and Satsuki, who love to play pranks on their older brother.
+
+Stuck in a house with four girls, Haruki has to deal with all sorts of trials. From going grocery shopping, watching scary movies, to kissing practice, life is never boring in Danchigai!"
+animeRelated	['Danchigai', 'Danchigai: Juusan Goutou Sentou Ikitai!!']
+animeCharacters	['Nakano, Mutsuki', 'Nakano, Yayoi', 'Nakano, Satsuki', 'Nakano, Haruki', 'Nakano, Uzuki']
+animeVoices	['Akesaka, Satomi', 'Komatsu, Mikako', 'Horino, Sayaka', 'Abe, Atsushi', 'Tokui, Sora']
+animeStaff	[['Hirasawa, Hisayoshi', 'Producer'], ['Kimura, Hiroshi', 'Director'], ['Oomuro, Masakatsu', 'Sound Director'], ['Komatsu, Mikako', 'Theme Song Performance']]

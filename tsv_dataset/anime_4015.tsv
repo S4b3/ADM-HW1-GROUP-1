@@ -1,5 +1,5 @@
-animeTitle	b'Fractale'
-animeType	b'TV'
+animeTitle	Fractale
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.94
 animeUsers	32014
 animeRank	
-animePopularity	
-animeDescription	"b'The story takes place on an island, where a ""Fractale System"" is beginning to collapse. One day, Clain finds an injured girl called Phryne under a cliff. She disappears leaving a pendant. Clain sets out for a journey with the girl-shaped avatar Nessa to look for Phryne and discovers the secret of the Fractale System.'"
-animeRelated	[b'Fractale']
-animeCharacters	[b'Nessa', b'Phryne', b'Necran, Clain', b'Granitz, Enri', b'Granitz, Sunda', b'Dias', b'Moeran', b'Collin', b'Gale', b'Meegan']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nTsuda, Minami\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nAsanuma, Shintaro\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nShimamoto, Sumi\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nJuku, Ikkyuu\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Masuo\n\nProducer\n\n', b'\nOchikoshi, Tomonori\n\nProducer\n\n', b'\nYamamoto, Yutaka\n\nDirector, Episode Director, Storyboard\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n']
+animePopularity	1927
+animeDescription	"The story takes place on an island, where a ""Fractale System"" is beginning to collapse. One day, Clain finds an injured girl called Phryne under a cliff. She disappears leaving a pendant. Clain sets out for a journey with the girl-shaped avatar Nessa to look for Phryne and discovers the secret of the Fractale System."
+animeRelated	['Fractale']
+animeCharacters	['Nessa', 'Phryne', 'Necran, Clain', 'Granitz, Enri', 'Granitz, Sunda', 'Dias', 'Moeran', 'Collin', 'Gale', 'Meegan']
+animeVoices	['Hanazawa, Kana', 'Tsuda, Minami', 'Kobayashi, Yuu', 'Iguchi, Yuka', 'Asanuma, Shintaro', 'Maeno, Tomoaki', 'Shimamoto, Sumi', 'Kamiya, Hiroshi', 'Juku, Ikkyuu', 'Toyosaki, Aki']
+animeStaff	[['Ueda, Masuo', 'Producer'], ['Ochikoshi, Tomonori', 'Producer'], ['Yamamoto, Yutaka', 'Director, Episode Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director']]

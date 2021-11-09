@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 37: Nobita no Nankyoku Kachikochi Daibouken
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.38
 animeUsers	1884
 animeRank	
-animePopularity	
-animeDescription	b'About 700 million years ago, the Earth was covered in ice, becoming a white planet \xe2\x80\x93 a snowball Earth. It is said that this continued for millions of years... This time, Doraemon and his friends set off to an icy, wintry, freezing journey to find a hotter, crazier, and more exciting adventure than ever before!\n\n(Source: Toho)'
-animeRelated	[b'Doraemon (2005)']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi', b'Kaara']
-animeVoices	[b'\nMizuta, Wasabi\nJapanese\n', b'\nOohara, Megumi\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nKimura, Subaru\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Atsushi\n\nDirector, Script\n\n', b'\nKameda, Seiji\n\nTheme Song Arrangement\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n', b'\nSuehiro, Takashi\n\nDirector of Photography\n\n']
+animePopularity	7988
+animeDescription	"About 700 million years ago, the Earth was covered in ice, becoming a white planet – a snowball Earth. It is said that this continued for millions of years... This time, Doraemon and his friends set off to an icy, wintry, freezing journey to find a hotter, crazier, and more exciting adventure than ever before!
+
+(Source: Toho)"
+animeRelated	['Doraemon (2005)']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Kaara']
+animeVoices	['Mizuta, Wasabi', 'Oohara, Megumi', 'Kakazu, Yumi', 'Seki, Tomokazu', 'Kimura, Subaru', 'Kugimiya, Rie']
+animeStaff	[['Takahashi, Atsushi', 'Director, Script'], ['Kameda, Seiji', 'Theme Song Arrangement'], ['Fujiko, Fujio F.', 'Original Creator'], ['Suehiro, Takashi', 'Director of Photography']]

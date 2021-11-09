@@ -1,5 +1,5 @@
-animeTitle	b'Tenjou Tenge: The Ultimate Fight'
-animeType	b'OVA'
+animeTitle	Tenjou Tenge: The Ultimate Fight
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.05
 animeUsers	21817
 animeRank	
-animePopularity	
-animeDescription	b'Continues from where the original series left off. The characters try to settle their conflicts with each other in this 2 episode OAV. Aya confronts her sister Maya about Nagi, while Nagi receives a challenge from Mitsuomi to fight to the death. Meanwhile, Bob trains as hard as he can for the tournament. \n\n(Source: ANN)'
-animeRelated	[b'Tenjou Tenge']
-animeCharacters	[b'Natsume, Maya', b'Takayanagi, Masataka', b'Nagi, Souichirou', b'Natsume, Aya', b'Makihara, Bob', b'Tawara, Bunshichi', b'Natsume, Shin', b'Takayanagi, Mitsuomi', b'Isuzu, Emi', b'Nagi, Makiko']
-animeVoices	[b'\nHisakawa, Aya\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nChihara, Minori\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nNanao, Haruhi\nJapanese\n', b'\nAmano, Yuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawase, Toshifumi\n\nDirector, Storyboard\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n', b'\nKawamura, Kenichi\n\nEpisode Director, Assistant Director\n\n', b'\nOh! Great\n\nOriginal Creator\n\n']
+animePopularity	2834
+animeDescription	"Continues from where the original series left off. The characters try to settle their conflicts with each other in this 2 episode OAV. Aya confronts her sister Maya about Nagi, while Nagi receives a challenge from Mitsuomi to fight to the death. Meanwhile, Bob trains as hard as he can for the tournament. 
+
+(Source: ANN)"
+animeRelated	['Tenjou Tenge']
+animeCharacters	['Natsume, Maya', 'Takayanagi, Masataka', 'Nagi, Souichirou', 'Natsume, Aya', 'Makihara, Bob', 'Tawara, Bunshichi', 'Natsume, Shin', 'Takayanagi, Mitsuomi', 'Isuzu, Emi', 'Nagi, Makiko']
+animeVoices	['Hisakawa, Aya', 'Seki, Tomokazu', 'Hoshi, Souichirou', 'Chihara, Minori', 'Miki, Shinichiro', 'Yao, Kazuki', 'Morikawa, Toshiyuki', 'Nanao, Haruhi', 'Amano, Yuri']
+animeStaff	[['Kawase, Toshifumi', 'Director, Storyboard'], ['Honda, Yasunori', 'Sound Director'], ['Kawamura, Kenichi', 'Episode Director, Assistant Director'], ['Oh! Great', 'Original Creator']]

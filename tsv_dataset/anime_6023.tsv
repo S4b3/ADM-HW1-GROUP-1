@@ -1,5 +1,5 @@
-animeTitle	b'Kochira Katsushikaku Kameari Kouenmae Hashutsujo: The Final - Ryoutsu Kankichi Saigo no Hi'
-animeType	b'Special'
+animeTitle	Kochira Katsushikaku Kameari Kouenmae Hashutsujo: The Final - Ryoutsu Kankichi Saigo no Hi
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.52
 animeUsers	148
 animeRank	
-animePopularity	
-animeDescription	"b""The typical Kochikame plot involves Ryo-san coming up with a money-making scheme by inventing a new gadget or capitalizing on a fad, achieving great success, calling on Nakagawa's help as things turn sour, and finally losing it all as the fad runs out of steam or out of control. While the plots are gag-driven, much of the humor comes from the juxtaposition of mundane characters with the bizarrely incongruous (Nakagawa's wealth, Maria's appeal, everyone's lack of actual police work), most of which is never explained or rationalized in the slightest. \n\n(Source: Wikipedia)"""
-animeRelated	[b'Kochira Katsushikaku Kameari Kouenmae Hashutsujo']
-animeCharacters	[b'Ryoutsu, Kankichi', b'Akimoto, Reiko Katherine', b'Nakagawa, Keiichi', b'Ohara, Daijirou', b'Giboshi, Matoi', b'Honda, Hayato', b'Higurashi, Neruo', b'Tonda, Gomesu']
-animeVoices	[b'\nIshii, LaSalle\nJapanese\n', b'\nMorio, Yumi\nJapanese\n', b'\nMiyamoto, Mitsuru\nJapanese\n', b'\nSayama, Haruki\nJapanese\n', b'\nDoi, Yuko\nJapanese\n', b'\nYanaka, Hiroshi\nJapanese\n', b'\nImai, Atsushi\nJapanese\n', b'\nNishimura, Jin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamada, Takashi\n\nScript\n\n', b'\nSahashi, Toshihiko\n\nTheme Song Arrangement, Theme Song Composition, Music\n\n', b'\nIshii, LaSalle\n\nTheme Song Performance, Theme Song Lyrics\n\n', b'\nAkimoto, Osamu\n\nOriginal Creator\n\n']
+animePopularity	11762
+animeDescription	"The typical Kochikame plot involves Ryo-san coming up with a money-making scheme by inventing a new gadget or capitalizing on a fad, achieving great success, calling on Nakagawa's help as things turn sour, and finally losing it all as the fad runs out of steam or out of control. While the plots are gag-driven, much of the humor comes from the juxtaposition of mundane characters with the bizarrely incongruous (Nakagawa's wealth, Maria's appeal, everyone's lack of actual police work), most of which is never explained or rationalized in the slightest. 
+
+(Source: Wikipedia)"
+animeRelated	['Kochira Katsushikaku Kameari Kouenmae Hashutsujo']
+animeCharacters	['Ryoutsu, Kankichi', 'Akimoto, Reiko Katherine', 'Nakagawa, Keiichi', 'Ohara, Daijirou', 'Giboshi, Matoi', 'Honda, Hayato', 'Higurashi, Neruo', 'Tonda, Gomesu']
+animeVoices	['Ishii, LaSalle', 'Morio, Yumi', 'Miyamoto, Mitsuru', 'Sayama, Haruki', 'Doi, Yuko', 'Yanaka, Hiroshi', 'Imai, Atsushi', 'Nishimura, Jin']
+animeStaff	[['Yamada, Takashi', 'Script'], ['Sahashi, Toshihiko', 'Theme Song Arrangement, Theme Song Composition, Music'], ['Ishii, LaSalle', 'Theme Song Performance, Theme Song Lyrics'], ['Akimoto, Osamu', 'Original Creator']]

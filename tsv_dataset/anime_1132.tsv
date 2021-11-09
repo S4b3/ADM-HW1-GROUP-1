@@ -1,5 +1,5 @@
-animeTitle	b'5-toubun no Hanayome'
-animeType	b'TV'
+animeTitle	5-toubun no Hanayome
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.67
 animeUsers	424139
 animeRank	
-animePopularity	
-animeDescription	"b'Fuutarou Uesugi is an ace high school student, but leads an otherwise tough life. His standoffish personality and reclusive nature have left him friendless, and his father is debt-ridden, forcing his family to scrape by.\n\nOne day during his lunch break, Uesugi argues with a female transfer student who has claimed ""his seat,"" leading both of them to dislike each other. That same day, he is presented with a golden opportunity to clear his family\'s debt: a private tutoring gig for a wealthy family\'s daughter, with a wage of five times the market price. He accepts the proposal, but is horrified to discover that the client, Itsuki Nakano, is the girl he confronted earlier! \n\nAfter unsuccessfully trying to get back on Itsuki\'s good side, Uesugi finds out that his problems don\'t end there: Itsuki is actually a quintuplet, so in addition to her, he must also tutor her sisters\xe2\x80\x94Miku, Yotsuba, Nino, and Ichika\xe2\x80\x94who, despite the very real threat of flunking, want nothing to do with a tutor. However, his family\'s livelihood is on the line so Uesugi pushes on, adamant in his resolve to rid the sisters of their detest for studying and successfully lead them to graduation.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'5-toubun no Hanayome', b'5-toubun no Hanayome \xe2\x88\xac']
-animeCharacters	[b'Nakano, Miku', b'Nakano, Itsuki', b'Nakano, Nino', b'Nakano, Yotsuba', b'Nakano, Ichika', b'Uesugi, Fuutarou', b'Uesugi, Raiha', b'Uesugi, Isanari', b'Nakano, Maruo', b'Matsui']
-animeVoices	[b'\nItou, Miku\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nTakamori, Natsumi\nJapanese\n', b'\nHino, Satoshi\nJapanese\n', b'\nKuroda, Takaya\nJapanese\n', b'\nUchida, Aya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKuwahara, Satoshi\n\nDirector, Episode Director, Storyboard\n\n', b'\nHiramitsu, Takuya\n\nSound Director\n\n', b'\nYoshizawa, Midori\n\nEpisode Director\n\n', b'\nYoshimura, Fumihiro\n\nEpisode Director\n\n']
+animePopularity	204
+animeDescription	"Fuutarou Uesugi is an ace high school student, but leads an otherwise tough life. His standoffish personality and reclusive nature have left him friendless, and his father is debt-ridden, forcing his family to scrape by.
+
+One day during his lunch break, Uesugi argues with a female transfer student who has claimed ""his seat,"" leading both of them to dislike each other. That same day, he is presented with a golden opportunity to clear his family's debt: a private tutoring gig for a wealthy family's daughter, with a wage of five times the market price. He accepts the proposal, but is horrified to discover that the client, Itsuki Nakano, is the girl he confronted earlier! 
+
+After unsuccessfully trying to get back on Itsuki's good side, Uesugi finds out that his problems don't end there: Itsuki is actually a quintuplet, so in addition to her, he must also tutor her sisters—Miku, Yotsuba, Nino, and Ichika—who, despite the very real threat of flunking, want nothing to do with a tutor. However, his family's livelihood is on the line so Uesugi pushes on, adamant in his resolve to rid the sisters of their detest for studying and successfully lead them to graduation.
+
+[Written by MAL Rewrite]"
+animeRelated	['5-toubun no Hanayome', '5-toubun no Hanayome ∬']
+animeCharacters	['Nakano, Miku', 'Nakano, Itsuki', 'Nakano, Nino', 'Nakano, Yotsuba', 'Nakano, Ichika', 'Uesugi, Fuutarou', 'Uesugi, Raiha', 'Uesugi, Isanari', 'Nakano, Maruo', 'Matsui']
+animeVoices	['Itou, Miku', 'Minase, Inori', 'Taketatsu, Ayana', 'Sakura, Ayane', 'Hanazawa, Kana', 'Matsuoka, Yoshitsugu', 'Takamori, Natsumi', 'Hino, Satoshi', 'Kuroda, Takaya', 'Uchida, Aya']
+animeStaff	[['Kuwahara, Satoshi', 'Director, Episode Director, Storyboard'], ['Hiramitsu, Takuya', 'Sound Director'], ['Yoshizawa, Midori', 'Episode Director'], ['Yoshimura, Fumihiro', 'Episode Director']]

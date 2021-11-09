@@ -1,5 +1,5 @@
-animeTitle	b'Usagi to Kame'
-animeType	b'Movie'
+animeTitle	Usagi to Kame
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.32
 animeUsers	615
 animeRank	
-animePopularity	
-animeDescription	b'A retelling of the classic Aesop Fable, The Tortoise and the Hare.\n\n(Source: AniDB)'
-animeRelated	[b'Pom Pom Purin no Usagi to Kame', b'Usagi to Kame (Music)']
-animeCharacters	[b'Kame', b'Usagi']
+animePopularity	11007
+animeDescription	"A retelling of the classic Aesop Fable, The Tortoise and the Hare.
+
+(Source: AniDB)"
+animeRelated	['Pom Pom Purin no Usagi to Kame', 'Usagi to Kame (Music)']
+animeCharacters	['Kame', 'Usagi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamamoto, Zenjirou\n\nEpisode Director, Key Animation\n\n']
+animeStaff	[['Yamamoto, Zenjirou', 'Episode Director, Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Aki no Kanade'
-animeType	b'Movie'
+animeTitle	Aki no Kanade
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.99
 animeUsers	9559
 animeRank	
-animePopularity	
-animeDescription	"b""Aki Miyagawa moved to Tokyo to pursue her dream to be a taiko drummer, but had a hard time balancing her strict training regimen with her part-time job. Now, after 15 years, she's returning to coach others for a taiko festival.\n\n(Source: ANN)\n\nProject by J.C.Staff announced to be part of Anime Mirai 2015."""
-animeRelated	[b'Ongaku Shoujo', b'Happy ComeCome', b'Kumi to Tulip']
-animeCharacters	[b'Miyagawa, Aki', b'Yoshioka, Michio', b'Matsumoto, Akane', b'Okumura, Megumi']
-animeVoices	[b'\nSatou, Rina\nJapanese\n', b'\nHamada, Kenji\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Youhei\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nIshida, Miyuki\n\nEpisode Director, Storyboard\n\n', b'\nYaegashi, Youhei\n\nAnimation Director, Character Design\n\n']
+animePopularity	3983
+animeDescription	"Aki Miyagawa moved to Tokyo to pursue her dream to be a taiko drummer, but had a hard time balancing her strict training regimen with her part-time job. Now, after 15 years, she's returning to coach others for a taiko festival.
+
+(Source: ANN)
+
+Project by J.C.Staff announced to be part of Anime Mirai 2015."
+animeRelated	['Ongaku Shoujo', 'Happy ComeCome', 'Kumi to Tulip']
+animeCharacters	['Miyagawa, Aki', 'Yoshioka, Michio', 'Matsumoto, Akane', 'Okumura, Megumi']
+animeVoices	['Satou, Rina', 'Hamada, Kenji', 'Nakahara, Mai', 'Kugimiya, Rie']
+animeStaff	[['Suzuki, Youhei', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Ishida, Miyuki', 'Episode Director, Storyboard'], ['Yaegashi, Youhei', 'Animation Director, Character Design']]

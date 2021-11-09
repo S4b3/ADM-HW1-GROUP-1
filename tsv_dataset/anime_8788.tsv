@@ -1,5 +1,5 @@
-animeTitle	"b""I''s"""
-animeType	b'OVA'
+animeTitle	I''s
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	5.97
 animeUsers	4221
 animeRank	
-animePopularity	
-animeDescription	b'Aiming to become a modeling artist, Itsuki, a childhood friend of Ichitaka who went to America has come back to Japan. Iori who refused the idol path and started to pursue her ambition to become an actress instead. Ichitaka, wandering on his bicycle alone, tries to decide his choice between the two persons.\n\n(Source: AnimeNfo) \n'
-animeRelated	"[b""I''s"", b""I''s Pure""]"
-animeCharacters	[b'Yoshizuki, Iori', b'Seto, Ichitaka', b'Akiba, Itsuki', b'Teratani, Yasumasa', b'Koshinae, Jun', b'Tachiba, Nami']
-animeVoices	[b'\nSakuma, Kumi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nNakanishi, Tamaki\nJapanese\n', b'\nKisaichi, Atsushi\nJapanese\n', b'\nIshida, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKageyama, Shigenori\n\nDirector, Script, Storyboard, Screenplay\n\n', b'\nKatsura, Masakazu\n\nOriginal Creator\n\n', b'\nShiotani, Naoyoshi\n\nKey Animation\n\n', b'\nRinshin\n\nCharacter Design\n\n']
+animePopularity	5483
+animeDescription	"Aiming to become a modeling artist, Itsuki, a childhood friend of Ichitaka who went to America has come back to Japan. Iori who refused the idol path and started to pursue her ambition to become an actress instead. Ichitaka, wandering on his bicycle alone, tries to decide his choice between the two persons.
+
+(Source: AnimeNfo) 
+"
+animeRelated	"[""I''s"", ""I''s Pure""]"
+animeCharacters	['Yoshizuki, Iori', 'Seto, Ichitaka', 'Akiba, Itsuki', 'Teratani, Yasumasa', 'Koshinae, Jun', 'Tachiba, Nami']
+animeVoices	['Sakuma, Kumi', 'Sakurai, Takahiro', 'Nakanishi, Tamaki', 'Kisaichi, Atsushi', 'Ishida, Akira']
+animeStaff	[['Kageyama, Shigenori', 'Director, Script, Storyboard, Screenplay'], ['Katsura, Masakazu', 'Original Creator'], ['Shiotani, Naoyoshi', 'Key Animation'], ['Rinshin', 'Character Design']]

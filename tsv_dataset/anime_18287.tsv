@@ -1,5 +1,5 @@
-animeTitle	b'Waisetsu Missile The Animation'
-animeType	b'OVA'
+animeTitle	Waisetsu Missile The Animation
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.29
 animeUsers	2502
 animeRank	
-animePopularity	
-animeDescription	b'Based on the adult manga by Taropun.'
-animeRelated	[b'Waisetsu Missile']
-animeCharacters	[b'Maki', b'Ushi']
+animePopularity	6485
+animeDescription	Based on the adult manga by Taropun.
+animeRelated	['Waisetsu Missile']
+animeCharacters	['Maki', 'Ushi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nAraki, Hideki\n\nCharacter Design, Animation Director\n\n', b'\nTaropun\n\nOriginal Creator\n\n']
+animeStaff	[['Araki, Hideki', 'Character Design, Animation Director'], ['Taropun', 'Original Creator']]

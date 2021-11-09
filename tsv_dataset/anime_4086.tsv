@@ -1,5 +1,5 @@
-animeTitle	b'Animation Seisaku Shinkou Kuromi-chan'
-animeType	b'OVA'
+animeTitle	Animation Seisaku Shinkou Kuromi-chan
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.92
 animeUsers	4335
 animeRank	
-animePopularity	
-animeDescription	"b'After being inspired by the fictional anime, ""Luis Monde III"", Mikiko ""Kuromi"" Oguro goes to animation school and and finally lands the job of her dreams at Studio Petit. Upon arriving, she meets the head of production. Unfortunately for her, he dies soon after meeting her and passes his position unto her. Now that she\'s head of production of ""Time Journeys"", it\'s up to her to rally up the lazy animator\'s and finish the second episode in a week.\n\n(Source: ANN)'"
-animeRelated	[b'Animation Seisaku Shinkou Kuromi-chan 2']
-animeCharacters	[b'Oguro, Mikiko', b'Battobi', b'Hozumi, Hassaku', b'Fukami, Aoi', b'Shihonmatsu, Hamako', b'Tanonaka, Mizuho']
-animeVoices	[b'\nAsou, Kaori\nJapanese\n', b'\nMatsumoto, Yoshirou\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nYasuhara, Reiko\nJapanese\n', b'\nItou, Eiji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDaichi, Akitarou\n\nDirector, Storyboard\n\n', b'\nTamano, Harumi\n\nEpisode Director\n\n', b'\nMasuda, Toshio\n\nMusic\n\n', b'\nEbina, Yasunori\n\nRecording\n\n']
+animePopularity	5593
+animeDescription	"After being inspired by the fictional anime, ""Luis Monde III"", Mikiko ""Kuromi"" Oguro goes to animation school and and finally lands the job of her dreams at Studio Petit. Upon arriving, she meets the head of production. Unfortunately for her, he dies soon after meeting her and passes his position unto her. Now that she's head of production of ""Time Journeys"", it's up to her to rally up the lazy animator's and finish the second episode in a week.
+
+(Source: ANN)"
+animeRelated	['Animation Seisaku Shinkou Kuromi-chan 2']
+animeCharacters	['Oguro, Mikiko', 'Battobi', 'Hozumi, Hassaku', 'Fukami, Aoi', 'Shihonmatsu, Hamako', 'Tanonaka, Mizuho']
+animeVoices	['Asou, Kaori', 'Matsumoto, Yoshirou', 'Okamura, Akemi', 'Yasuhara, Reiko', 'Itou, Eiji']
+animeStaff	[['Daichi, Akitarou', 'Director, Storyboard'], ['Tamano, Harumi', 'Episode Director'], ['Masuda, Toshio', 'Music'], ['Ebina, Yasunori', 'Recording']]

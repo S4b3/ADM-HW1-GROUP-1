@@ -1,5 +1,5 @@
-animeTitle	b'Area 88 Movie'
-animeType	b'Movie'
+animeTitle	Area 88 Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.46
 animeUsers	321
 animeRank	
-animePopularity	
-animeDescription	b'Kazama Shin, tricked and forced into fighting for the remote country of Arslan, can only escape the hell of war by earning money for shooting down enemy planes or die trying. As the war rages on, Shin has to deal with the consequences of killing and friends dying around him as he tries to keep his mind on freeing himself from this nightmare.\n\n(Source: ANN)'
-animeRelated	[b'Area 88']
+animePopularity	10399
+animeDescription	"Kazama Shin, tricked and forced into fighting for the remote country of Arslan, can only escape the hell of war by earning money for shooting down enemy planes or die trying. As the war rages on, Shin has to deal with the consequences of killing and friends dying around him as he tries to keep his mind on freeing himself from this nightmare.
+
+(Source: ANN)"
+animeRelated	['Area 88']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

@@ -1,5 +1,5 @@
-animeTitle	b'Bikini Warriors Special'
-animeType	b'Special'
+animeTitle	Bikini Warriors Special
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.37
 animeUsers	7661
 animeRank	
-animePopularity	
-animeDescription	b'According to the official Hobby Japan website, an unaired episode of Bikini Warriors will be bundled with the Blu-ray volume to be released on December 9th, 2015. \n\n(Source: Hobby Japan)'
-animeRelated	[b'Bikini Warriors', b'Bikini Warriors OVA']
-animeCharacters	[b'Mage', b'Paladin', b'Fighter', b'Dark Elf']
-animeVoices	[b'\nKakuma, Ai\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nTakahashi, Chiaki\nJapanese\n']
+animePopularity	4501
+animeDescription	"According to the official Hobby Japan website, an unaired episode of Bikini Warriors will be bundled with the Blu-ray volume to be released on December 9th, 2015. 
+
+(Source: Hobby Japan)"
+animeRelated	['Bikini Warriors', 'Bikini Warriors OVA']
+animeCharacters	['Mage', 'Paladin', 'Fighter', 'Dark Elf']
+animeVoices	['Kakuma, Ai', 'Ueda, Kana', 'Hikasa, Youko', 'Takahashi, Chiaki']
 animeStaff	[]

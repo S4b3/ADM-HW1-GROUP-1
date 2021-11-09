@@ -1,5 +1,5 @@
-animeTitle	b'Jikuu Bouken Nuumamonjaa'
-animeType	b'OVA'
+animeTitle	Jikuu Bouken Nuumamonjaa
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.28
 animeUsers	3754
 animeRank	
-animePopularity	
-animeDescription	"b""It's the night before the fair celebrating the Kingdom of Guardia's one thousand year anniversary. When the humans have gone to sleep for the night, excited about the next day's celebration, the monsters come out to play.\n\nNuu and Mamo are two little monsters itching to have their own adventure in time and space, and their adventure group Nuumamonjaa is recruiting new members. Since neither is particularly strong in the brains department, their adventure turns into a disaster as they get into one mishap after another.\n\nA fast drinking competition, a close encounter with a robotic cat, and a high-speed car chase\xe2\x80\x94this might be more adventure than the tiny duo bargained for!"""
+animePopularity	6318
+animeDescription	"It's the night before the fair celebrating the Kingdom of Guardia's one thousand year anniversary. When the humans have gone to sleep for the night, excited about the next day's celebration, the monsters come out to play.
+
+Nuu and Mamo are two little monsters itching to have their own adventure in time and space, and their adventure group Nuumamonjaa is recruiting new members. Since neither is particularly strong in the brains department, their adventure turns into a disaster as they get into one mishap after another.
+
+A fast drinking competition, a close encounter with a robotic cat, and a high-speed car chase—this might be more adventure than the tiny duo bargained for!"
 animeRelated	[]
-animeCharacters	[b'Nu', b'Gato']
-animeVoices	[b'\nChafurin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawasaki, Itsurou\n\nDirector\n\n', b'\nMitsuda, Yasunori\n\nMusic\n\n', b'\nAsano, Kyouji\n\nIn-Between Animation\n\n', b'\nKoyama, Masahiro\n\nKey Animation\n\n']
+animeCharacters	['Nu', 'Gato']
+animeVoices	['Chafurin']
+animeStaff	[['Kawasaki, Itsurou', 'Director'], ['Mitsuda, Yasunori', 'Music'], ['Asano, Kyouji', 'In-Between Animation'], ['Koyama, Masahiro', 'Key Animation']]

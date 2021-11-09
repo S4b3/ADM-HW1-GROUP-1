@@ -1,5 +1,5 @@
-animeTitle	b'Yuusha, Yamemasu'
-animeType	b'TV'
+animeTitle	Yuusha, Yamemasu
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""After saving the world, the strongest hero Leo became someone who is not wanted in the peaceful human world. He was too strong. Exiled, he seeks a job at the Demon King's Army, which he had defeated and needs to be rebuilt.\n\nThe Army had many problems: too much work, financial troubles, etc. Leo starts to make things better using his power. Leo encounters Echidna again, and asks her why she invaded the human world. There was an unexpected story...! \n\n(Source: Kadokawa)"""
-animeRelated	[b'Yuusha, Yamemasu: Tsugi no Shokuba wa Maoujou']
-animeCharacters	[b'Echidna', b'Demonheart, Leon', b'Lili', b'Steina', b'Edwald', b'Melnes']
-animeVoices	[b'\nHondo, Kaede\nJapanese\n', b'\nOno, Kensho\nJapanese\n', b'\nOowada, Hitomi\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nInada, Tetsu\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNobuta, Yuu\n\nDirector\n\n', b'\nIshii, Hisashi\n\nDirector\n\n', b'\nMurakoshi, Shigeru\n\nSeries Composition\n\n', b'\nNakano, Yuki\n\nCharacter Design\n\n']
+animePopularity	19109
+animeDescription	"After saving the world, the strongest hero Leo became someone who is not wanted in the peaceful human world. He was too strong. Exiled, he seeks a job at the Demon King's Army, which he had defeated and needs to be rebuilt.
+
+The Army had many problems: too much work, financial troubles, etc. Leo starts to make things better using his power. Leo encounters Echidna again, and asks her why she invaded the human world. There was an unexpected story...! 
+
+(Source: Kadokawa)"
+animeRelated	['Yuusha, Yamemasu: Tsugi no Shokuba wa Maoujou']
+animeCharacters	['Echidna', 'Demonheart, Leon', 'Lili', 'Steina', 'Edwald', 'Melnes']
+animeVoices	['Hondo, Kaede', 'Ono, Kensho', 'Oowada, Hitomi', 'Itou, Shizuka', 'Inada, Tetsu', 'Uchiyama, Yumi']
+animeStaff	[['Nobuta, Yuu', 'Director'], ['Ishii, Hisashi', 'Director'], ['Murakoshi, Shigeru', 'Series Composition'], ['Nakano, Yuki', 'Character Design']]

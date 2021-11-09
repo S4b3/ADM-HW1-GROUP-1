@@ -1,5 +1,5 @@
-animeTitle	b'Fuuun Ishin Dai\xe2\x98\x86Shogun'
-animeType	b'TV'
+animeTitle	Fuuun Ishin Dai☆Shogun
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.71
 animeUsers	7578
 animeRank	
-animePopularity	
-animeDescription	"b'In the late Edo period, Japan had experienced an unprecedented crisis by Kurofune (Black Ships), the ships from foreign countries. But a giant robot called Onigami, which has existed since ancient time, dispelled the Kurofune ships and the exclusion of foreigners was accomplished. The story begins in Japan where Meiji restoration in 1868 didn\'t happen. The tagline says, ""I can be the greatest man in the world, because I am a virgin!!""\n\n(Source: Crunchyroll)'"
+animePopularity	3673
+animeDescription	"In the late Edo period, Japan had experienced an unprecedented crisis by Kurofune (Black Ships), the ships from foreign countries. But a giant robot called Onigami, which has existed since ancient time, dispelled the Kurofune ships and the exclusion of foreigners was accomplished. The story begins in Japan where Meiji restoration in 1868 didn't happen. The tagline says, ""I can be the greatest man in the world, because I am a virgin!!""
+
+(Source: Crunchyroll)"
 animeRelated	[]
-animeCharacters	[b'Tokugawa, Keiichirou', b'Hattori, Kiriko', b'Chiharu', b'Houkouin', b'Yurihara, Maika', b'Otomi', b'Ii', b'Asai, Hyougo', b'Hyakusuke']
-animeVoices	[b'\nKakihara, Tetsuya\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nYokoo, Mari\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nOgihara, Hideki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuura, Hiroaki\n\nProducer\n\n', b'\nWatanabe, Takashi\n\nDirector\n\n', b'\nHatano, Kouhei\n\nEpisode Director, Storyboard, Assistant Director\n\n', b'\nIshida, Tooru\n\nEpisode Director, Storyboard\n\n']
+animeCharacters	['Tokugawa, Keiichirou', 'Hattori, Kiriko', 'Chiharu', 'Houkouin', 'Yurihara, Maika', 'Otomi', 'Ii', 'Asai, Hyougo', 'Hyakusuke']
+animeVoices	['Kakihara, Tetsuya', 'Kawasumi, Ayako', 'Tamura, Yukari', 'Sawashiro, Miyuki', 'Kobayashi, Yuu', 'Yokoo, Mari', 'Chafurin', 'Hikasa, Youko', 'Ogihara, Hideki']
+animeStaff	[['Matsuura, Hiroaki', 'Producer'], ['Watanabe, Takashi', 'Director'], ['Hatano, Kouhei', 'Episode Director, Storyboard, Assistant Director'], ['Ishida, Tooru', 'Episode Director, Storyboard']]

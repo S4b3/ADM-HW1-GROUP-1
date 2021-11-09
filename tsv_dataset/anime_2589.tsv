@@ -1,5 +1,5 @@
-animeTitle	b'Ajin Part 3: Shougeki'
-animeType	b'Movie'
+animeTitle	Ajin Part 3: Shougeki
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.26
 animeUsers	4197
 animeRank	
-animePopularity	
-animeDescription	"b""For high schooler Kei\xe2\x80\x94and for at least forty-six others\xe2\x80\x94immortality comes as the nastiest surprise ever.\n\nSadly for Kei, such a feat doesn't make him a superhero. In the eyes of both the general public and governments, he's a rare specimen who needs to be hunted down and handed over to scientists to be experimented on for life\xe2\x80\x94a demi-human who must die a thousand deaths for the benefit of humanity.\n\n(Source: Vertical)"""
-animeRelated	[b'Ajin', b'Ajin Part 2: Shoutotsu', b'Ajin 2nd Season']
-animeCharacters	[b'Nagai, Kei', b'Satou', b'Tosaki, Yuu']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n', b'\nOotsuka, Houchuu\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSeshita, Hiroyuki\n\nDirector\n\n', b'\nAndou, Hiroaki\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nryo-timo\n\nEpisode Director\n\n']
+animePopularity	3815
+animeDescription	"For high schooler Kei—and for at least forty-six others—immortality comes as the nastiest surprise ever.
+
+Sadly for Kei, such a feat doesn't make him a superhero. In the eyes of both the general public and governments, he's a rare specimen who needs to be hunted down and handed over to scientists to be experimented on for life—a demi-human who must die a thousand deaths for the benefit of humanity.
+
+(Source: Vertical)"
+animeRelated	['Ajin', 'Ajin Part 2: Shoutotsu', 'Ajin 2nd Season']
+animeCharacters	['Nagai, Kei', 'Satou', 'Tosaki, Yuu']
+animeVoices	['Miyano, Mamoru', 'Ootsuka, Houchuu', 'Sakurai, Takahiro']
+animeStaff	[['Seshita, Hiroyuki', 'Director'], ['Andou, Hiroaki', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['ryo-timo', 'Episode Director']]

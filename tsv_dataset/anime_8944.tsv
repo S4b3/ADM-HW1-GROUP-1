@@ -1,5 +1,5 @@
-animeTitle	b'Duel Masters!'
-animeType	b'TV'
+animeTitle	Duel Masters!
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.93
 animeUsers	148
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
-animeRelated	[b'Duel Masters', b'Duel Masters (2017)', b'Duel Masters!!']
-animeCharacters	[b'Kirifuda, Joe', b'Deckie', b'Uraraka, Momo', b'Kira', b'Bolts']
-animeVoices	[b'\nKobayashi, Yumiko\nJapanese\n', b'\nSatou, Setsuji\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nShiraishi, Minoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasaki, Shinobu\n\nDirector\n\n', b'\nItou, Fumio\n\nEpisode Director, Storyboard\n\n', b'\nInoue, Akiko\n\nScript\n\n', b'\nKimura, Hiroshi\n\nStoryboard\n\n']
+animePopularity	10984
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
+animeRelated	['Duel Masters', 'Duel Masters (2017)', 'Duel Masters!!']
+animeCharacters	['Kirifuda, Joe', 'Deckie', 'Uraraka, Momo', 'Kira', 'Bolts']
+animeVoices	['Kobayashi, Yumiko', 'Satou, Setsuji', 'Toyosaki, Aki', 'Toyonaga, Toshiyuki', 'Shiraishi, Minoru']
+animeStaff	[['Sasaki, Shinobu', 'Director'], ['Itou, Fumio', 'Episode Director, Storyboard'], ['Inoue, Akiko', 'Script'], ['Kimura, Hiroshi', 'Storyboard']]

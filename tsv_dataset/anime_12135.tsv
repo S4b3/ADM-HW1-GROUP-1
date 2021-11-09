@@ -1,5 +1,5 @@
-animeTitle	b'Mon Cheri CoCo'
-animeType	b'TV'
+animeTitle	Mon Cheri CoCo
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A young woman aims to become a famous fashion designer.\n\n(Source: AniDB)'
-animeRelated	[b'Mon Cheri CoCo']
-animeCharacters	[b'Coco']
+animePopularity	11959
+animeDescription	"A young woman aims to become a famous fashion designer.
+
+(Source: AniDB)"
+animeRelated	['Mon Cheri CoCo']
+animeCharacters	['Coco']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamato, Waki\n\nOriginal Creator\n\n', b'\nIoka, Masahiro\n\nArt Director\n\n', b'\nSuzuki, Mitsuru\n\nAnimation Director\n\n']
+animeStaff	[['Yamato, Waki', 'Original Creator'], ['Ioka, Masahiro', 'Art Director'], ['Suzuki, Mitsuru', 'Animation Director']]

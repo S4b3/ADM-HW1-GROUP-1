@@ -1,5 +1,5 @@
-animeTitle	b'Bishoujo Senshi Sailor Moon S'
-animeType	b'TV'
+animeTitle	Bishoujo Senshi Sailor Moon S
+animeType	TV
 animeNumEpisode	38
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	7.86
 animeUsers	66332
 animeRank	
-animePopularity	
-animeDescription	"b""The Sailor Guardians and their leader, Sailor Moon, continue their duty of protecting Earth from any who would dare cause it harm. However, Sailor Mars' apocalyptic visions and the appearance of two new guardians\xe2\x80\x94Sailor Neptune and Sailor Uranus\xe2\x80\x94signal that a new battle will soon begin.\n\nThese newcomers seek three Talismans that are inside the Pure Heart Crystals within human beings. Once brought together, these objects form The Holy Grail, a magical relic with extraordinary abilities. They want to use the Grail to save the world, but an evil organization known as the Death Busters seeks its power for their own desires.\n\nThe removal of a Talisman from a person's Heart Crystal will cause their death, something that Uranus and Neptune see as a necessary sacrifice to form the Grail, while Sailor Moon and her group deem it unforgivable. But can any sacrifice be worth the cost if it saves the lives of the entire human race?\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Bishoujo Senshi Sailor Moon', b'Bishoujo Senshi Sailor Moon R', b'Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito', b'Bishoujo Senshi Sailor Moon SuperS', b'Bishoujo Senshi Sailor Moon Memorial', b'Bishoujo Senshi Sailor Moon Crystal Season III']
-animeCharacters	[b'Tsukino, Usagi', b'Hino, Rei', b'Tomoe, Hotaru', b'Kino, Makoto', b'Aino, Minako', b'Tenou, Haruka', b'Mizuno, Ami', b'Chiba, Mamoru', b'Kaiou, Michiru', b'Chibiusa']
-animeVoices	[b'\nMitsuishi, Kotono\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nFukami, Rica\nJapanese\n', b'\nOgata, Megumi\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nKatsuki, Masako\nJapanese\n', b'\nAraki, Kae\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nIkuhara, Kunihiko\n\nDirector, Episode Director, Storyboard\n\n', b'\nEndou, Yuuji\n\nSound Director, Episode Director, Storyboard\n\n', b'\nShibata, Hiroki\n\nSound Director, Episode Director, Storyboard\n\n']
+animePopularity	1350
+animeDescription	"The Sailor Guardians and their leader, Sailor Moon, continue their duty of protecting Earth from any who would dare cause it harm. However, Sailor Mars' apocalyptic visions and the appearance of two new guardians—Sailor Neptune and Sailor Uranus—signal that a new battle will soon begin.
+
+These newcomers seek three Talismans that are inside the Pure Heart Crystals within human beings. Once brought together, these objects form The Holy Grail, a magical relic with extraordinary abilities. They want to use the Grail to save the world, but an evil organization known as the Death Busters seeks its power for their own desires.
+
+The removal of a Talisman from a person's Heart Crystal will cause their death, something that Uranus and Neptune see as a necessary sacrifice to form the Grail, while Sailor Moon and her group deem it unforgivable. But can any sacrifice be worth the cost if it saves the lives of the entire human race?
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Bishoujo Senshi Sailor Moon', 'Bishoujo Senshi Sailor Moon R', 'Bishoujo Senshi Sailor Moon S: Kaguya-hime no Koibito', 'Bishoujo Senshi Sailor Moon SuperS', 'Bishoujo Senshi Sailor Moon Memorial', 'Bishoujo Senshi Sailor Moon Crystal Season III']
+animeCharacters	['Tsukino, Usagi', 'Hino, Rei', 'Tomoe, Hotaru', 'Kino, Makoto', 'Aino, Minako', 'Tenou, Haruka', 'Mizuno, Ami', 'Chiba, Mamoru', 'Kaiou, Michiru', 'Chibiusa']
+animeVoices	['Mitsuishi, Kotono', 'Tomizawa, Michie', 'Minaguchi, Yuko', 'Shinohara, Emi', 'Fukami, Rica', 'Ogata, Megumi', 'Hisakawa, Aya', 'Furuya, Toru', 'Katsuki, Masako', 'Araki, Kae']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Ikuhara, Kunihiko', 'Director, Episode Director, Storyboard'], ['Endou, Yuuji', 'Sound Director, Episode Director, Storyboard'], ['Shibata, Hiroki', 'Sound Director, Episode Director, Storyboard']]

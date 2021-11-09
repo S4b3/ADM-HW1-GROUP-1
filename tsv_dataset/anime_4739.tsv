@@ -1,5 +1,5 @@
-animeTitle	b'Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!'
-animeType	b'OVA'
+animeTitle	Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.77
 animeUsers	14240
 animeRank	
-animePopularity	
-animeDescription	b'A special episode bundled with the Nintendo DS game based on the series. Envious of seeing how Simon keeps his Lagann clean and neat, Kamina asks the mysterious Chitori to clean up his Gurren for him, unaware of her true intentions.\n\n(Source: Wikipedia) '
-animeRelated	[b'Tengen Toppa Gurren Lagann']
-animeCharacters	[b'Kamina', b'Simon', b'Littner, Yoko', b'Boota', b'Littner, Leeron', b'Adai, Rossiu', b'Adai, Darry', b'Adai, Gimmy', b'Chitori', b'Jigitalis']
-animeVoices	[b'\nKonishi, Katsuyuki\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nMiyashita, Eiji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKamagata, Eiichi\n\nProducer\n\n', b'\nYamakawa, Norio\n\nProducer\n\n', b'\nNakashima, Kazuki\n\nScript\n\n', b'\nIwasaki, Taku\n\nMusic\n\n']
+animePopularity	3208
+animeDescription	"A special episode bundled with the Nintendo DS game based on the series. Envious of seeing how Simon keeps his Lagann clean and neat, Kamina asks the mysterious Chitori to clean up his Gurren for him, unaware of her true intentions.
+
+(Source: Wikipedia) "
+animeRelated	['Tengen Toppa Gurren Lagann']
+animeCharacters	['Kamina', 'Simon', 'Littner, Yoko', 'Boota', 'Littner, Leeron', 'Adai, Rossiu', 'Adai, Darry', 'Adai, Gimmy', 'Chitori', 'Jigitalis']
+animeVoices	['Konishi, Katsuyuki', 'Kakihara, Tetsuya', 'Inoue, Marina', 'Itou, Shizuka', 'Saiga, Mitsuki', 'Kadowaki, Mai', 'Miyashita, Eiji']
+animeStaff	[['Kamagata, Eiichi', 'Producer'], ['Yamakawa, Norio', 'Producer'], ['Nakashima, Kazuki', 'Script'], ['Iwasaki, Taku', 'Music']]

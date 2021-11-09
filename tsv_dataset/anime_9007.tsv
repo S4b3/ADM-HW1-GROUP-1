@@ -1,4 +1,4 @@
-animeTitle	b'GAME OVER feat. Hatsune Miku'
+animeTitle	GAME OVER feat. Hatsune Miku
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.91
 animeUsers	1456
 animeRank	
-animePopularity	
-animeDescription	b'Music video for GAME OVER feat. Hatsune Miku by Hachioji-P.\n\nThe song can be found within Hachioji-P\xe2\x80\x99s newest album, Vivid Wave released on the 17th of July 2013.'
+animePopularity	8875
+animeDescription	"Music video for GAME OVER feat. Hatsune Miku by Hachioji-P.
+
+The song can be found within Hachioji-P’s newest album, Vivid Wave released on the 17th of July 2013."
 animeRelated	[]
-animeCharacters	[b'Hatsune, Miku']
+animeCharacters	['Hatsune, Miku']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nwakamuraP\n\nDirector, Editing\n\n', b'\nHatsune, Miku\n\nTheme Song Performance\n\n']
+animeStaff	[['wakamuraP', 'Director, Editing'], ['Hatsune, Miku', 'Theme Song Performance']]

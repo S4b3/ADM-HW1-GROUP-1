@@ -1,5 +1,5 @@
-animeTitle	b'Mahoujin Guruguru'
-animeType	b'TV'
+animeTitle	Mahoujin Guruguru
+animeType	TV
 animeNumEpisode	45
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.62
 animeUsers	2710
 animeRank	
-animePopularity	
-animeDescription	b'There is a small village called Jimuna on the continent of Jamu Jamu. This village is home to a girl named Kukuri. She is the last descendant of the Migu Migu Tribe. She is raised by an old witch who teaches her the secret magic of the tribe, but Kukuri is not a good student.\n\nIn the same village lives a boy named Nike. He has been raised by very strict parents. They discipline their son to become a brave hero of the village. Nike himself does not want to be a hero at all, but he grows up to become a mighty boy.\n\nOne day the king of the village, Kodai, recruits troops to fight against the ruler of the darkness, Giri. Kukuri and Nike are accepted. The two children, the strong but reluctant hero Nike, and the eager but unskilled little witch Kukuri, set out on a wonderful journey full of adventures and friendship.\n\n(Source: Nippon Animation)'
-animeRelated	[b'Mahoujin Guruguru', b'Dokidoki\xe2\x99\xa1Densetsu: Mahoujin Guruguru', b'Mahoujin Guru Guru Movie', b'Mahoujin Guruguru (2017)']
-animeCharacters	[b'Kukuri', b'Nike', b'Eldol, Udberg', b'Shunamur, Jujuku', b'Gipple', b'Reido', b'Wanchin', b'Ena', b'Migu', b'Kaya']
-animeVoices	[b'\nYoshida, Konami\nJapanese\n', b'\nTakimoto, Fujiko\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nAmano, Yuri\nJapanese\n', b'\nTakano, Urara\nJapanese\n', b'\nToriumi, Katsumi\nJapanese\n', b'\nHagiwara, Karin\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakanishi, Nobuaki\n\nDirector, Storyboard\n\n', b'\nFujimoto, Jirou\n\nEpisode Director, Storyboard\n\n', b'\nIshizaki, Susumu\n\nEpisode Director, Storyboard\n\n', b'\nWatanabe, Shinichi\n\nStoryboard\n\n']
+animePopularity	5433
+animeDescription	"There is a small village called Jimuna on the continent of Jamu Jamu. This village is home to a girl named Kukuri. She is the last descendant of the Migu Migu Tribe. She is raised by an old witch who teaches her the secret magic of the tribe, but Kukuri is not a good student.
+
+In the same village lives a boy named Nike. He has been raised by very strict parents. They discipline their son to become a brave hero of the village. Nike himself does not want to be a hero at all, but he grows up to become a mighty boy.
+
+One day the king of the village, Kodai, recruits troops to fight against the ruler of the darkness, Giri. Kukuri and Nike are accepted. The two children, the strong but reluctant hero Nike, and the eager but unskilled little witch Kukuri, set out on a wonderful journey full of adventures and friendship.
+
+(Source: Nippon Animation)"
+animeRelated	['Mahoujin Guruguru', 'Dokidoki♡Densetsu: Mahoujin Guruguru', 'Mahoujin Guru Guru Movie', 'Mahoujin Guruguru (2017)']
+animeCharacters	['Kukuri', 'Nike', 'Eldol, Udberg', 'Shunamur, Jujuku', 'Gipple', 'Reido', 'Wanchin', 'Ena', 'Migu', 'Kaya']
+animeVoices	['Yoshida, Konami', 'Takimoto, Fujiko', 'Ogata, Kenichi', 'Amano, Yuri', 'Takano, Urara', 'Toriumi, Katsumi', 'Hagiwara, Karin', 'Koorogi, Satomi']
+animeStaff	[['Nakanishi, Nobuaki', 'Director, Storyboard'], ['Fujimoto, Jirou', 'Episode Director, Storyboard'], ['Ishizaki, Susumu', 'Episode Director, Storyboard'], ['Watanabe, Shinichi', 'Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Alice to Zouroku'
-animeType	b'TV'
+animeTitle	Alice to Zouroku
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.11
 animeUsers	41032
 animeRank	
-animePopularity	
-animeDescription	"b'Sana is not an ordinary little girl; she possesses a special ability known as ""Alice\'s Dream."" Due to her power, which allows her to create anything from her imagination, all that she knows is the laboratory where she is a test subject. Wishing to experience the outside world, she escapes and meets a stubborn old florist named Zouroku Kashimura in a convenience store. All too soon, her pursuers catch up and Zouroku is roped into Sana\'s troubles.\n\nHowever, far from trying to distance himself, Zouroku extends a hand to help Sana. Following his values and sense of justice, he even gives the pursuers a piece of his mind! Zouroku then offers Sana a place to stay, beginning the daily life and struggles of the unlikely duo.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Alice to Zouroku']
-animeCharacters	[b'Kashimura, Sana', b'Kashimura, Zouroku', b'Kashimura, Sanae', b'Hinagiri, Asahi', b'Ichijou, Shizuku', b'Hinagiri, Yonaga', b'Shikishima, Hatori', b'Miho, Ayumu', b'Yamada, Noriko', b'Nakanishi, Chinatsu']
-animeVoices	[b'\nOowada, Hitomi\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nFujiwara, Natsumi\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nKitou, Akari\nJapanese\n', b'\nUchida, Shuu\nJapanese\n', b'\nTakahashi, Minami\nJapanese\n', b'\nHirose, Yuuki\nJapanese\n', b'\nTakakura, Yuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSakurabi, Katsushi\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nOonogi, Hiroshi\n\nScript\n\n', b'\nAyana, Yuniko\n\nScript\n\n']
+animePopularity	1547
+animeDescription	"Sana is not an ordinary little girl; she possesses a special ability known as ""Alice's Dream."" Due to her power, which allows her to create anything from her imagination, all that she knows is the laboratory where she is a test subject. Wishing to experience the outside world, she escapes and meets a stubborn old florist named Zouroku Kashimura in a convenience store. All too soon, her pursuers catch up and Zouroku is roped into Sana's troubles.
+
+However, far from trying to distance himself, Zouroku extends a hand to help Sana. Following his values and sense of justice, he even gives the pursuers a piece of his mind! Zouroku then offers Sana a place to stay, beginning the daily life and struggles of the unlikely duo.
+
+[Written by MAL Rewrite]"
+animeRelated	['Alice to Zouroku']
+animeCharacters	['Kashimura, Sana', 'Kashimura, Zouroku', 'Kashimura, Sanae', 'Hinagiri, Asahi', 'Ichijou, Shizuku', 'Hinagiri, Yonaga', 'Shikishima, Hatori', 'Miho, Ayumu', 'Yamada, Noriko', 'Nakanishi, Chinatsu']
+animeVoices	['Oowada, Hitomi', 'Ootsuka, Akio', 'Toyosaki, Aki', 'Fujiwara, Natsumi', 'Koshimizu, Ami', 'Kitou, Akari', 'Uchida, Shuu', 'Takahashi, Minami', 'Hirose, Yuuki', 'Takakura, Yuka']
+animeStaff	[['Sakurabi, Katsushi', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Oonogi, Hiroshi', 'Script'], ['Ayana, Yuniko', 'Script']]

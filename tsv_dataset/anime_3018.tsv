@@ -1,5 +1,5 @@
-animeTitle	b'Crayon Shin-chan Movie 04: Henderland no Daibouken'
-animeType	b'Movie'
+animeTitle	Crayon Shin-chan Movie 04: Henderland no Daibouken
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.17
 animeUsers	3505
 animeRank	
-animePopularity	
-animeDescription	"b""A modern horror style fantasy depicting a laughable adventure in Gunma Hender Land, the largest theme park in the north areas around Tokyo. Nohara family fight with Toppema Muppet (a talking doll from Magic World) against two gay 'witch' men Makao and Joma, who came from Another World and try to invade the Real World.\n\n(Source: Manabu Tsuribe)"""
-animeRelated	[b'Crayon Shin-chan', b'Crayon Shin-chan Movie 03: Unkokusai no Yabou', b'Crayon Shin-chan Movie 05: Ankoku Tamatama Daitsuiseki']
-animeCharacters	[b'Nohara, Shinnosuke', b'Nohara, Hiroshi', b'Buriburizaemon', b'Nohara, Misae', b'Gou, Goutarou', b'Kuntam Robo', b'Boo-chan', b'Kazama, Tooru', b'Sakurada, Nene', b'Takakura, Bunta']
-animeVoices	[b'\nYajima, Akiko\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nNarahashi, Miki\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nOotaki, Shinya\nJapanese\n', b'\nSatou, Chie\nJapanese\n', b'\nMashiba, Mari\nJapanese\n', b'\nHayashi, Tamao\nJapanese\n', b'\nNaya, Rokurou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHara, Keiichi\n\nProducer, Script, Storyboard, Theme Song Lyrics\n\n', b'\nHongou, Mitsuru\n\nDirector, Script, Storyboard\n\n', b'\nYuasa, Masaaki\n\nStoryboard, Key Animation, Setting\n\n', b'\nMizushima, Tsutomu\n\nAssistant Director\n\n']
+animePopularity	6576
+animeDescription	"A modern horror style fantasy depicting a laughable adventure in Gunma Hender Land, the largest theme park in the north areas around Tokyo. Nohara family fight with Toppema Muppet (a talking doll from Magic World) against two gay 'witch' men Makao and Joma, who came from Another World and try to invade the Real World.
+
+(Source: Manabu Tsuribe)"
+animeRelated	['Crayon Shin-chan', 'Crayon Shin-chan Movie 03: Unkokusai no Yabou', 'Crayon Shin-chan Movie 05: Ankoku Tamatama Daitsuiseki']
+animeCharacters	['Nohara, Shinnosuke', 'Nohara, Hiroshi', 'Buriburizaemon', 'Nohara, Misae', 'Gou, Goutarou', 'Kuntam Robo', 'Boo-chan', 'Kazama, Tooru', 'Sakurada, Nene', 'Takakura, Bunta']
+animeVoices	['Yajima, Akiko', 'Fujiwara, Keiji', 'Shiozawa, Kaneto', 'Narahashi, Miki', 'Genda, Tesshou', 'Ootaki, Shinya', 'Satou, Chie', 'Mashiba, Mari', 'Hayashi, Tamao', 'Naya, Rokurou']
+animeStaff	[['Hara, Keiichi', 'Producer, Script, Storyboard, Theme Song Lyrics'], ['Hongou, Mitsuru', 'Director, Script, Storyboard'], ['Yuasa, Masaaki', 'Storyboard, Key Animation, Setting'], ['Mizushima, Tsutomu', 'Assistant Director']]

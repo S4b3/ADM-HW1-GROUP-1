@@ -1,5 +1,5 @@
-animeTitle	b'Tetsuwan Atom'
-animeType	b'TV'
+animeTitle	Tetsuwan Atom
+animeType	TV
 animeNumEpisode	193
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.08
 animeUsers	2680
 animeRank	
-animePopularity	
-animeDescription	"b'In the year 2003, Professor Tenma is distraught when his son Tobio is killed in a car accident. He loses himself in his latest project, creating Atom, a robot boy programmed to be forever good.\n\nUpset that his Tobio-substitute can never grow up, Tenma sells Atom to Ham Egg, the cruel ringmaster of a robot circus. Atom meets the kindly Professor Ochanomizu, who adopts him, inspires him to become a crusader against evil, and eventually builds him a robot ""sister,"" Uran.\n\n(Source: The Anime Encyclopedia)'"
-animeRelated	[b'Tetsuwan Atom', b'Astro Boy: Tetsuwan Atom', b'Tetsuwan Atom (1980)', b'Tetsuwan Atom: Atom Tanjou no Himitsu', b'Tetsuwan Atom: Chikyuu Saigo no Hi', b'Tetsuwan Atom: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...', b'Go! Go! Atom', b'Tetsuwan Atom: Uchuu no Yuusha', b'Atom: The Beginning']
-animeCharacters	[b'Atom', b'Dr. Ochanomizu', b'Tenma, Umatarou', b'Pluto', b'Uran', b'Atlas', b'Hige Oyaji', b'Ham Egg', b'Tenma, Tobio', b'Cobalt']
-animeVoices	[b'\nShimizu, Mari\nJapanese\n', b'\nKatsuta, Hisashi\nJapanese\n', b'\nYokomori, Hisashi\nJapanese\n', b'\nMutou, Reiko\nJapanese\n', b'\nYajima, Masaaki\nJapanese\n', b'\nEbata, Takashi\nJapanese\n', b'\nKomiyama, Kiyoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Osamu\n\nDirector, Episode Director, Script, Original Creator\n\n', b'\nTomino, Yoshiyuki\n\nEpisode Director, Script\n\n', b'\nDezaki, Osamu\n\nEpisode Director, Storyboard, In-Between Animation, Key Animation\n\n', b'\nRintaro\n\nEpisode Director\n\n']
+animePopularity	5225
+animeDescription	"In the year 2003, Professor Tenma is distraught when his son Tobio is killed in a car accident. He loses himself in his latest project, creating Atom, a robot boy programmed to be forever good.
+
+Upset that his Tobio-substitute can never grow up, Tenma sells Atom to Ham Egg, the cruel ringmaster of a robot circus. Atom meets the kindly Professor Ochanomizu, who adopts him, inspires him to become a crusader against evil, and eventually builds him a robot ""sister,"" Uran.
+
+(Source: The Anime Encyclopedia)"
+animeRelated	['Tetsuwan Atom', 'Astro Boy: Tetsuwan Atom', 'Tetsuwan Atom (1980)', 'Tetsuwan Atom: Atom Tanjou no Himitsu', 'Tetsuwan Atom: Chikyuu Saigo no Hi', 'Tetsuwan Atom: Kagayakeru Hoshi - Anata wa Aoku, Utsukushii...', 'Go! Go! Atom', 'Tetsuwan Atom: Uchuu no Yuusha', 'Atom: The Beginning']
+animeCharacters	['Atom', 'Dr. Ochanomizu', 'Tenma, Umatarou', 'Pluto', 'Uran', 'Atlas', 'Hige Oyaji', 'Ham Egg', 'Tenma, Tobio', 'Cobalt']
+animeVoices	['Shimizu, Mari', 'Katsuta, Hisashi', 'Yokomori, Hisashi', 'Mutou, Reiko', 'Yajima, Masaaki', 'Ebata, Takashi', 'Komiyama, Kiyoshi']
+animeStaff	[['Tezuka, Osamu', 'Director, Episode Director, Script, Original Creator'], ['Tomino, Yoshiyuki', 'Episode Director, Script'], ['Dezaki, Osamu', 'Episode Director, Storyboard, In-Between Animation, Key Animation'], ['Rintaro', 'Episode Director']]

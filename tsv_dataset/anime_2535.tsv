@@ -1,5 +1,5 @@
-animeTitle	b'Robot Carnival'
-animeType	b'OVA'
+animeTitle	Robot Carnival
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,21 @@ animeNumMembers
 animeScore	7.27
 animeUsers	7017
 animeRank	
-animePopularity	
-animeDescription	"b'9 of Japan\'s leading animators were asked to create a short segment that followed the theme of ""Robots,"" for their inclusion in this film. Essentially, this ""movie"" is 9 short films, all independant of one another. The common element is human interaction with robots, namely the consequences of creating life with one\'s own hands, played in nine very different ways.\n\n(Source: ANN)\n\n1: Opening (Atsuko Fukushima and Katsuhiro Otomo)\n2: Franken\'s Gears (Koji Morimoto)\n3: Deprive (Hidetoshi Omori)\n4: Presence (Yasuomi Umetsu)\n5: Star Light Angel (Hiroyuki Kitazume)\n6: Cloud (Mao Lamdo)\n7: A Tale of Two Robots (Hiroyuki Kitakubo)\n8: Nightmare (Takashi Nakamura)\n9: Ending (Atsuko Fukushima and Katsuhiro Otomo)'"
+animePopularity	4024
+animeDescription	"9 of Japan's leading animators were asked to create a short segment that followed the theme of ""Robots,"" for their inclusion in this film. Essentially, this ""movie"" is 9 short films, all independant of one another. The common element is human interaction with robots, namely the consequences of creating life with one's own hands, played in nine very different ways.
+
+(Source: ANN)
+
+1: Opening (Atsuko Fukushima and Katsuhiro Otomo)
+2: Franken's Gears (Koji Morimoto)
+3: Deprive (Hidetoshi Omori)
+4: Presence (Yasuomi Umetsu)
+5: Star Light Angel (Hiroyuki Kitazume)
+6: Cloud (Mao Lamdo)
+7: A Tale of Two Robots (Hiroyuki Kitakubo)
+8: Nightmare (Takashi Nakamura)
+9: Ending (Atsuko Fukushima and Katsuhiro Otomo)"
 animeRelated	[]
-animeCharacters	[b'Shoujo', b'Shujinkou', b'Sankichi', b'Yayoi', b'Fukusuke', b'Denjirou', b'Walkerson III, Jean-Jacques', b'Daimaru']
-animeVoices	[b'\nMoritsugu, Kouji\nJapanese\n', b'\nTomiyama, Kei\nJapanese\n', b'\nYokoyama, Chisa\nJapanese\n', b'\nMiwa, Katsue\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nNishio, Toku\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorimoto, Kouji\n\nCo-Director, Director, Character Design, Screenplay\n\n', b'\nOtomo, Katsuhiro\n\nDirector\n\n', b'\nUmetsu, Yasuomi\n\nDirector, Character Design, Key Animation, Screenplay\n\n', b'\nKitakubo, Hiroyuki\n\nDirector\n\n']
+animeCharacters	['Shoujo', 'Shujinkou', 'Sankichi', 'Yayoi', 'Fukusuke', 'Denjirou', 'Walkerson III, Jean-Jacques', 'Daimaru']
+animeVoices	['Moritsugu, Kouji', 'Tomiyama, Kei', 'Yokoyama, Chisa', 'Miwa, Katsue', 'Shiozawa, Kaneto', 'Nishio, Toku']
+animeStaff	[['Morimoto, Kouji', 'Co-Director, Director, Character Design, Screenplay'], ['Otomo, Katsuhiro', 'Director'], ['Umetsu, Yasuomi', 'Director, Character Design, Key Animation, Screenplay'], ['Kitakubo, Hiroyuki', 'Director']]

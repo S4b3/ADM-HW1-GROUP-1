@@ -1,5 +1,5 @@
-animeTitle	b'Tobidase! Bacchiri'
-animeType	b'TV'
+animeTitle	Tobidase! Bacchiri
+animeType	TV
 animeNumEpisode	132
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The adventures of jug-eared schoolboy detective Bacchiri, who can solve cases that baffle the police, thanks to his brilliantly ingenious mind. The 10 minutes episodes aired daily, Monday through Saturday.\n\n(Source: The Anime Encyclopedia & AniDB)\n'
+animePopularity	15008
+animeDescription	"The adventures of jug-eared schoolboy detective Bacchiri, who can solve cases that baffle the police, thanks to his brilliantly ingenious mind. The 10 minutes episodes aired daily, Monday through Saturday.
+
+(Source: The Anime Encyclopedia & AniDB)
+"
 animeRelated	[]
-animeCharacters	[b'Bacchiri', b'President Gappori']
-animeVoices	[b'\nShirakawa, Sumiko\nJapanese\n', b'\nYanami, Jouji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkamoto, Mitsuteru\n\nOriginal Creator\n\n']
+animeCharacters	['Bacchiri', 'President Gappori']
+animeVoices	['Shirakawa, Sumiko', 'Yanami, Jouji']
+animeStaff	[['Okamoto, Mitsuteru', 'Original Creator']]

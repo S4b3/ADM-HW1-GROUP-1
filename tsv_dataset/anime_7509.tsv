@@ -1,5 +1,5 @@
-animeTitle	b'Umi no Triton'
-animeType	b'TV'
+animeTitle	Umi no Triton
+animeType	TV
 animeNumEpisode	27
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.24
 animeUsers	490
 animeRank	
-animePopularity	
-animeDescription	b'5000 years ago, the Triton Family was living peacefully in Atlantis until the Poseidon Family destroyed them all. Triton, of the Triton Family line, embarks on an adventurous life in the sea fighting the Poseidon Family.\n\n(Source: AnimeNfo)'
-animeRelated	[b'Umi no Triton', b'Umi no Triton (1979)', b'Aoi Triton']
-animeCharacters	[b'Triton', b'Pipi']
-animeVoices	[b'\nShioya, Yoku\nJapanese\n', b'\nHirokawa, Akemi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTomino, Yoshiyuki\n\nDirector, Script, Storyboard\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nTsuji, Masaki\n\nScript\n\n', b'\nYamayoshi, Yasuo\n\nStoryboard\n\n']
+animePopularity	9891
+animeDescription	"5000 years ago, the Triton Family was living peacefully in Atlantis until the Poseidon Family destroyed them all. Triton, of the Triton Family line, embarks on an adventurous life in the sea fighting the Poseidon Family.
+
+(Source: AnimeNfo)"
+animeRelated	['Umi no Triton', 'Umi no Triton (1979)', 'Aoi Triton']
+animeCharacters	['Triton', 'Pipi']
+animeVoices	['Shioya, Yoku', 'Hirokawa, Akemi']
+animeStaff	[['Tomino, Yoshiyuki', 'Director, Script, Storyboard'], ['Urakami, Yasuo', 'Sound Director'], ['Tsuji, Masaki', 'Script'], ['Yamayoshi, Yasuo', 'Storyboard']]

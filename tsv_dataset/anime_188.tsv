@@ -1,5 +1,5 @@
-animeTitle	b'Given'
-animeType	b'TV'
+animeTitle	Given
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.35
 animeUsers	212472
 animeRank	
-animePopularity	
-animeDescription	"b""Tightly clutching his Gibson guitar, Mafuyu Satou steps out of his dark apartment to begin another day of his high school life. While taking a nap in a quiet spot on the gymnasium staircase, he has a chance encounter with fellow student Ritsuka Uenoyama, who berates him for letting his guitar's strings rust and break. Noticing Uenoyama's knowledge of the instrument, Satou pleads for him to fix it and to teach him how to play. Uenoyama eventually agrees and invites him to sit in on a jam session with his two band mates: bassist Haruki Nakayama and drummer Akihiko Kaji.\n\nSatou's voice is strikingly beautiful, filling Uenoyama with the determination to make Satou the lead singer of the band. Though reticent at first, Satou takes the offer after an emotional meeting with an old friend. With the support of his new friends, Satou must not only learn how to play guitar, but also come to terms with the mysterious circumstances that led him to be its owner.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Given', b'Given Movie']
-animeCharacters	[b'Satou, Mafuyu', b'Uenoyama, Ritsuka', b'Nakayama, Haruki', b'Kaji, Akihiko', b'Murata, Ugetsu', b'Yoshida, Yuki', b'Kashima, Hiiragi', b'Yagi, Shizusumi', b'Yatake, Kouji', b'Uenoyama, Yayoi']
-animeVoices	[b'\nYano, Shougo\nJapanese\n', b'\nUchida, Yuuma\nJapanese\n', b'\nNakazawa, Masatomo\nJapanese\n', b'\nEguchi, Takuya\nJapanese\n', b'\nAsanuma, Shintaro\nJapanese\n', b'\nShin, Yuuki\nJapanese\n', b'\nImai, Fumiya\nJapanese\n', b'\nBan, Taito\nJapanese\n', b'\nTakeuchi, Ryouta\nJapanese\n', b'\nShimamura, Yuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiga, Yuuji\n\nProducer\n\n', b'\nYamaguchi, Hikaru\n\nDirector\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nCentimillimental\n\nTheme Song Composition, Theme Song Performance, Theme Song Lyrics, Theme Song Arrangement\n\n']
+animePopularity	415
+animeDescription	"Tightly clutching his Gibson guitar, Mafuyu Satou steps out of his dark apartment to begin another day of his high school life. While taking a nap in a quiet spot on the gymnasium staircase, he has a chance encounter with fellow student Ritsuka Uenoyama, who berates him for letting his guitar's strings rust and break. Noticing Uenoyama's knowledge of the instrument, Satou pleads for him to fix it and to teach him how to play. Uenoyama eventually agrees and invites him to sit in on a jam session with his two band mates: bassist Haruki Nakayama and drummer Akihiko Kaji.
+
+Satou's voice is strikingly beautiful, filling Uenoyama with the determination to make Satou the lead singer of the band. Though reticent at first, Satou takes the offer after an emotional meeting with an old friend. With the support of his new friends, Satou must not only learn how to play guitar, but also come to terms with the mysterious circumstances that led him to be its owner.
+
+[Written by MAL Rewrite]"
+animeRelated	['Given', 'Given Movie']
+animeCharacters	['Satou, Mafuyu', 'Uenoyama, Ritsuka', 'Nakayama, Haruki', 'Kaji, Akihiko', 'Murata, Ugetsu', 'Yoshida, Yuki', 'Kashima, Hiiragi', 'Yagi, Shizusumi', 'Yatake, Kouji', 'Uenoyama, Yayoi']
+animeVoices	['Yano, Shougo', 'Uchida, Yuuma', 'Nakazawa, Masatomo', 'Eguchi, Takuya', 'Asanuma, Shintaro', 'Shin, Yuuki', 'Imai, Fumiya', 'Ban, Taito', 'Takeuchi, Ryouta', 'Shimamura, Yuu']
+animeStaff	[['Higa, Yuuji', 'Producer'], ['Yamaguchi, Hikaru', 'Director'], ['Kikuta, Hiromi', 'Sound Director'], ['Centimillimental', 'Theme Song Composition, Theme Song Performance, Theme Song Lyrics, Theme Song Arrangement']]

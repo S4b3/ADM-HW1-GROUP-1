@@ -1,5 +1,5 @@
-animeTitle	b'Night Walker: Mayonaka no Tantei'
-animeType	b'TV'
+animeTitle	Night Walker: Mayonaka no Tantei
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.94
 animeUsers	6274
 animeRank	
-animePopularity	
-animeDescription	b'Shido Tatsuhiko is not only a private eye... he is also a vampire with no real memory of his past. Joined by Yayoi Matsunaga, a female government agent, Riho Yamazaki, an orphaned teenage girl working as his girl Friday and Guni, a little green imp, Shido must face demonic creatures known as Nightbreed. Meanwhile, Cain, the vampire who made him what he is now, is seeking him...\n\n(Source: ANN)'
+animePopularity	4236
+animeDescription	"Shido Tatsuhiko is not only a private eye... he is also a vampire with no real memory of his past. Joined by Yayoi Matsunaga, a female government agent, Riho Yamazaki, an orphaned teenage girl working as his girl Friday and Guni, a little green imp, Shido must face demonic creatures known as Nightbreed. Meanwhile, Cain, the vampire who made him what he is now, is seeking him...
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Shidou, Tatsuhiko', b'Yamazaki, Riho', b'Matsunaga, Yayoi', b'Cain', b'Guni', b'Asahina, Yoko', b'Angel', b'Bait', b'Akiba, Koichi', b'Miharu']
-animeVoices	[b'\nYamazaki, Takumi\nJapanese\n', b'\nSakamoto, Maaya\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nKikuchi, Takako\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nSakaguchi, Kouichi\nJapanese\n', b'\nKida, Ayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKagawa, Yutaka\n\nDirector\n\n', b'\nRyota, Yamaguchi\n\nScript, Series Composition\n\n', b'\nSugishima, Kunihisa\n\nStoryboard\n\n', b'\nKondou, Nobuhiro\n\nStoryboard\n\n']
+animeCharacters	['Shidou, Tatsuhiko', 'Yamazaki, Riho', 'Matsunaga, Yayoi', 'Cain', 'Guni', 'Asahina, Yoko', 'Angel', 'Bait', 'Akiba, Koichi', 'Miharu']
+animeVoices	['Yamazaki, Takumi', 'Sakamoto, Maaya', 'Shinohara, Emi', 'Tanaka, Hideyuki', 'Ootani, Ikue', 'Kikuchi, Takako', 'Morikubo, Shoutarou', 'Seki, Toshihiko', 'Sakaguchi, Kouichi', 'Kida, Ayumi']
+animeStaff	[['Kagawa, Yutaka', 'Director'], ['Ryota, Yamaguchi', 'Script, Series Composition'], ['Sugishima, Kunihisa', 'Storyboard'], ['Kondou, Nobuhiro', 'Storyboard']]

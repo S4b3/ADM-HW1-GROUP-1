@@ -1,5 +1,5 @@
-animeTitle	b'Gunjou no Fanfare'
-animeType	b'TV'
+animeTitle	Gunjou no Fanfare
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The story follows three 15-year-old boys who go to a prestigious horse racing academy to become jockeys. The three-year academy is 10 to 20 times harder to enter than most schools, and whoever wishes to enter must pass an academic, physical, and fitness test.\n\nFormerly a member of an idol group winning fans and fame, Yuu Arimura sets out to meet what his heart desires after becoming enamored with horse racing. Having grown up on an island, Shun Kanami has always yearned to ride with horses. Amane Grace was born in England and is lost in the path his parents have set for him, but he still takes on his dream.\n\n(Source: MAL News)'
+animePopularity	10138
+animeDescription	"The story follows three 15-year-old boys who go to a prestigious horse racing academy to become jockeys. The three-year academy is 10 to 20 times harder to enter than most schools, and whoever wishes to enter must pass an academic, physical, and fitness test.
+
+Formerly a member of an idol group winning fans and fame, Yuu Arimura sets out to meet what his heart desires after becoming enamored with horse racing. Having grown up on an island, Shun Kanami has always yearned to ride with horses. Amane Grace was born in England and is lost in the path his parents have set for him, but he still takes on his dream.
+
+(Source: MAL News)"
 animeRelated	[]
-animeCharacters	[b'Grace, Amane', b'Kazanami, Shun', b'Arimura, Yuu']
-animeVoices	[b'\nHanae, Natsuki\nJapanese\n', b'\nTsuchiya, Shinba\nJapanese\n', b'\nYano, Shougo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKatou, Makoto\n\nDirector\n\n', b'\nSawano, Hiroyuki\n\nMusic\n\n', b'\nKanzaki, Hiro\n\nCharacter Design\n\n']
+animeCharacters	['Grace, Amane', 'Kazanami, Shun', 'Arimura, Yuu']
+animeVoices	['Hanae, Natsuki', 'Tsuchiya, Shinba', 'Yano, Shougo']
+animeStaff	[['Katou, Makoto', 'Director'], ['Sawano, Hiroyuki', 'Music'], ['Kanzaki, Hiro', 'Character Design']]

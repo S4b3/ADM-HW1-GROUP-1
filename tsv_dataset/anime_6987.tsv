@@ -1,4 +1,4 @@
-animeTitle	b'Motto ne!'
+animeTitle	Motto ne!
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.34
 animeUsers	196
 animeRank	
-animePopularity	
-animeDescription	"b""Music video released on the Love Live! official YouTube channel for the song Motto ne! that was featured on Kanan Matsuura's first solo album."""
-animeRelated	[b'Love Live! Sunshine!!']
-animeCharacters	[b'Matsuura, Kanan']
+animePopularity	13872
+animeDescription	Music video released on the Love Live! official YouTube channel for the song Motto ne! that was featured on Kanan Matsuura's first solo album.
+animeRelated	['Love Live! Sunshine!!']
+animeCharacters	['Matsuura, Kanan']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuwa, Nanaka\n\nTheme Song Performance\n\n', b'\nHata, Aki\n\nTheme Song Lyrics\n\n']
+animeStaff	[['Suwa, Nanaka', 'Theme Song Performance'], ['Hata, Aki', 'Theme Song Lyrics']]

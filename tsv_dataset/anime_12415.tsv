@@ -1,5 +1,5 @@
-animeTitle	b'Nippon-ichi no Otoko no Tamashii 2'
-animeType	b'TV'
+animeTitle	Nippon-ichi no Otoko no Tamashii 2
+animeType	TV
 animeNumEpisode	16
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Sequel of Nippon-ichi no Otoko no Tamashii.'
-animeRelated	[b'Nippon-ichi no Otoko no Tamashii']
-animeCharacters	[b'Yumi', b'Yoshinaga']
-animeVoices	[b'\nAraki, Kae\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSogo, Masashi\n\nSeries Composition\n\n', b'\nKikuni, Masahiko\n\nOriginal Creator\n\n', b'\nKawanami, Masaaki\n\nCharacter Design\n\n']
+animePopularity	12503
+animeDescription	Sequel of Nippon-ichi no Otoko no Tamashii.
+animeRelated	['Nippon-ichi no Otoko no Tamashii']
+animeCharacters	['Yumi', 'Yoshinaga']
+animeVoices	['Araki, Kae', 'Ueda, Yuuji']
+animeStaff	[['Sogo, Masashi', 'Series Composition'], ['Kikuni, Masahiko', 'Original Creator'], ['Kawanami, Masaaki', 'Character Design']]

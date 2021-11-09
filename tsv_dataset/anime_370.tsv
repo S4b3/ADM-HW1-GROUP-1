@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: Cagliostro no Shiro'
-animeType	b'Movie'
+animeTitle	Lupin III: Cagliostro no Shiro
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	8.15
 animeUsers	60680
 animeRank	
-animePopularity	
-animeDescription	"b'Arsene Lupin III discovers that the spoils from his latest casino robbery are actually ""Gothic Bills,"" legendary counterfeits that are nigh impossible to distinguish from genuine bills. Together with colleague Daisuke Jigen, he heads to the small nation of Cagliostro to investigate the origin of these counterfeits. Upon arrival, they save a girl from a high-speed chase who turns out to be Clarisse d\' Cagliostro, the daughter of the late Duke d\' Cagliostro. She is running from a sinister plot by Count Cagliostro to steal her family\'s treasure through a forced marriage.\n\nNatural flirt Lupin dislikes seeing a girl in distress and seeks to remedy the situation. Goemon Ishikawa XIII, Fujiko Mine, and Kouichi Zenigata also join the fray, each with their own motivations. As everyone converges at Cagliostro Castle, Lupin reminisces about his visit there 10 years ago, and the castle\'s secrets emerge from the depths.\n\n[Written by MAL Rewrite]\n'"
-animeRelated	[b'Lupin III']
-animeCharacters	"[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi', b""d' Cagliostro, Clarisse"", b""d' Cagliostro, Lazare"", b'Jodo', b'Soviet Delegate', b'American Delegate']"
-animeVoices	[b'\nYamada, Yasuo\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nNaya, Gorou\nJapanese\n', b'\nShimamoto, Sumi\nJapanese\n', b'\nIshida, Tarou\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nYarita, Junkichi\nJapanese\n', b'\nMidorikawa, Minoru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nMiyazaki, Hayao\n\nDirector, Script, Storyboard, Character Design\n\n', b'\nMonkey Punch\n\nOriginal Creator\n\n', b'\nKobayashi, Shichiro\n\nArt Director\n\n']
+animePopularity	1682
+animeDescription	"Arsene Lupin III discovers that the spoils from his latest casino robbery are actually ""Gothic Bills,"" legendary counterfeits that are nigh impossible to distinguish from genuine bills. Together with colleague Daisuke Jigen, he heads to the small nation of Cagliostro to investigate the origin of these counterfeits. Upon arrival, they save a girl from a high-speed chase who turns out to be Clarisse d' Cagliostro, the daughter of the late Duke d' Cagliostro. She is running from a sinister plot by Count Cagliostro to steal her family's treasure through a forced marriage.
+
+Natural flirt Lupin dislikes seeing a girl in distress and seeks to remedy the situation. Goemon Ishikawa XIII, Fujiko Mine, and Kouichi Zenigata also join the fray, each with their own motivations. As everyone converges at Cagliostro Castle, Lupin reminisces about his visit there 10 years ago, and the castle's secrets emerge from the depths.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Lupin III']
+animeCharacters	"['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', ""d' Cagliostro, Clarisse"", ""d' Cagliostro, Lazare"", 'Jodo', 'Soviet Delegate', 'American Delegate']"
+animeVoices	['Yamada, Yasuo', 'Kobayashi, Kiyoshi', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou', 'Shimamoto, Sumi', 'Ishida, Tarou', 'Nagai, Ichiro', 'Yarita, Junkichi', 'Midorikawa, Minoru']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Miyazaki, Hayao', 'Director, Script, Storyboard, Character Design'], ['Monkey Punch', 'Original Creator'], ['Kobayashi, Shichiro', 'Art Director']]

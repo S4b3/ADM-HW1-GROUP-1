@@ -1,4 +1,4 @@
-animeTitle	b'MILG\xd0\xafAM'
+animeTitle	MILGЯAM
 animeType	Music
 animeNumEpisode	Unknown
 releaseDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	7.09
 animeUsers	254
 animeRank	
-animePopularity	
-animeDescription	b'Interactive collaborative multimedia music project between DECO*27 and Takuya Yamanaka.\n'
+animePopularity	9964
+animeDescription	"Interactive collaborative multimedia music project between DECO*27 and Takuya Yamanaka.
+"
 animeRelated	[]
-animeCharacters	[b'Kayano, Mikoto', b' Kusunoki, Mu', b'Es', b'Kajiyama, Fuuta', b'Shiina, Mahiru', b'Sakurai, Haruka', b'Yuzuriha, Kotoko', b'Kirisaki, Shidou', b'Momose, Amane', b'Kashiki, Yuno']
+animeCharacters	['Kayano, Mikoto', ' Kusunoki, Mu', 'Es', 'Kajiyama, Fuuta', 'Shiina, Mahiru', 'Sakurai, Haruka', 'Yuzuriha, Kotoko', 'Kirisaki, Shidou', 'Momose, Amane', 'Kashiki, Yuno']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nDECO*27\n\nMusic\n\n']
+animeStaff	[['DECO*27', 'Music']]

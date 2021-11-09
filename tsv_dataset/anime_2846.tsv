@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 12: Nobita no Dorabian Nights'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 12: Nobita no Dorabian Nights
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.21
 animeUsers	5709
 animeRank	
-animePopularity	
-animeDescription	"b""Doraemon and Nobita were using special shoes that allows them to jump into the worlds of the books that they want. Nobita let Shizuka use those shoes to enter the world of the book that she wants. Shizuka got lost in one Nobita's Sinbad Legend of the Seven Seas book. After Nobita's mother burned all of his books, Doraemon and the others must find another way to save Shizuka.\n\n(Source: ANN)"""
-animeRelated	[b'Daichouhen Doraemon', b'Doraemon (1979)']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi', b'Q-Tarou']
-animeVoices	[b'\nOoyama, Nobuyo\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nNomura, Michiko\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nTatekabe, Kazuya\nJapanese\n', b'\nAmachi, Fusako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nShiratori, Emiko\n\nTheme Song Performance\n\n', b'\nTakeda, Tetsuya\n\nTheme Song Lyrics\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n']
+animePopularity	5706
+animeDescription	"Doraemon and Nobita were using special shoes that allows them to jump into the worlds of the books that they want. Nobita let Shizuka use those shoes to enter the world of the book that she wants. Shizuka got lost in one Nobita's Sinbad Legend of the Seven Seas book. After Nobita's mother burned all of his books, Doraemon and the others must find another way to save Shizuka.
+
+(Source: ANN)"
+animeRelated	['Daichouhen Doraemon', 'Doraemon (1979)']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Q-Tarou']
+animeVoices	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Nomura, Michiko', 'Kimotsuki, Kaneta', 'Tatekabe, Kazuya', 'Amachi, Fusako']
+animeStaff	[['Urakami, Yasuo', 'Sound Director'], ['Shiratori, Emiko', 'Theme Song Performance'], ['Takeda, Tetsuya', 'Theme Song Lyrics'], ['Fujiko, Fujio F.', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Jigazou'
-animeType	b'Movie'
+animeTitle	Jigazou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	4.75
 animeUsers	1218
 animeRank	
-animePopularity	
-animeDescription	"b""This extremely brief film was Osamu Tezuka's answer to a challenge presented to the leaders of the international animation community to create animated self-portraits. \n\n(Source: ANN)\n"""
+animePopularity	9325
+animeDescription	"This extremely brief film was Osamu Tezuka's answer to a challenge presented to the leaders of the international animation community to create animated self-portraits. 
+
+(Source: ANN)
+"
 animeRelated	[]
-animeCharacters	[b'Tezuka, Osamu']
+animeCharacters	['Tezuka, Osamu']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Osamu\n\nDirector\n\n']
+animeStaff	[['Tezuka, Osamu', 'Director']]

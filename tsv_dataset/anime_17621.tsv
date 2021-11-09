@@ -1,5 +1,5 @@
-animeTitle	b'Kaijin Kaihatsu-bu no Kuroitsu-san'
-animeType	b'TV'
+animeTitle	Kaijin Kaihatsu-bu no Kuroitsu-san
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Touka Kuroizu is a research assistant who belongs to the Monster Development Department of the evil organization Agastia. However, the enemy she has to fight right now isn't the heroes of justice, but her boss.\n\nSo long justice exists, evil too, will exist. This is the story of those who fight secretly in the shadows of justice and evil's confrontation.\n\n(Source: MAL News)"""
-animeRelated	[b'Kaijin Kaihatsu-bu no Kuroitsu-san']
-animeCharacters	[b'Bate, Wolf', b'Kuroitsu, Touka']
-animeVoices	[b'\nAmano, Satomi\nJapanese\n', b'\nMaeda, Kaori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSaitou, Hisashi\n\nDirector\n\n', b'\nTakayama, Katsuhiko\n\nSeries Composition\n\n', b'\nMorimae, Kazuya\n\nCharacter Design\n\n', b'\nMizusaki, Hiroaki\n\nOriginal Creator\n\n']
+animePopularity	8998
+animeDescription	"Touka Kuroizu is a research assistant who belongs to the Monster Development Department of the evil organization Agastia. However, the enemy she has to fight right now isn't the heroes of justice, but her boss.
+
+So long justice exists, evil too, will exist. This is the story of those who fight secretly in the shadows of justice and evil's confrontation.
+
+(Source: MAL News)"
+animeRelated	['Kaijin Kaihatsu-bu no Kuroitsu-san']
+animeCharacters	['Bate, Wolf', 'Kuroitsu, Touka']
+animeVoices	['Amano, Satomi', 'Maeda, Kaori']
+animeStaff	[['Saitou, Hisashi', 'Director'], ['Takayama, Katsuhiko', 'Series Composition'], ['Morimae, Kazuya', 'Character Design'], ['Mizusaki, Hiroaki', 'Original Creator']]

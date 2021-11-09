@@ -1,5 +1,5 @@
-animeTitle	b'Summer Ghost'
-animeType	b'Movie'
+animeTitle	Summer Ghost
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'Have you heard of Summer Ghosts?"" Tomoya, Aoi, and Ryo are high school students who met through the Internet. The urban legend of the Summer Ghost is that it is a ghost of a young woman who appears when fireworks are lit. Tomoya is unable to step out into the life he wants. Aoi is unable to find her place in the world. Ryo\'s bright future is suddenly closed to him. Each of them has their own reasons for meeting the Summer Ghost. On a summer night when life and death intersect, where will each of their thoughts go to?\n\n(Source: Crunchyroll News)'"
-animeRelated	[b'Ichiban Chikakute Tooi Hoshi']
-animeCharacters	[b'Harukawa, Aoi', b'Kobayashi, Ryou', b'Sugisaki, Tomoya', b'Satou, Ayane']
-animeVoices	[b'\nShimabukuro, Miyuri\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nKobayashi, Chiaki\nJapanese\n', b'\nKawaei, Rina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nloundraw\n\nDirector, Original Character Design, Original Creator\n\n', b'\nOtsuichi\n\nScreenplay\n\n', b'\nKosemura, Akira\n\nMusic\n\n']
+animePopularity	4250
+animeDescription	"Have you heard of Summer Ghosts?"" Tomoya, Aoi, and Ryo are high school students who met through the Internet. The urban legend of the Summer Ghost is that it is a ghost of a young woman who appears when fireworks are lit. Tomoya is unable to step out into the life he wants. Aoi is unable to find her place in the world. Ryo's bright future is suddenly closed to him. Each of them has their own reasons for meeting the Summer Ghost. On a summer night when life and death intersect, where will each of their thoughts go to?
+
+(Source: Crunchyroll News)"
+animeRelated	['Ichiban Chikakute Tooi Hoshi']
+animeCharacters	['Harukawa, Aoi', 'Kobayashi, Ryou', 'Sugisaki, Tomoya', 'Satou, Ayane']
+animeVoices	['Shimabukuro, Miyuri', 'Shimazaki, Nobunaga', 'Kobayashi, Chiaki', 'Kawaei, Rina']
+animeStaff	[['loundraw', 'Director, Original Character Design, Original Creator'], ['Otsuichi', 'Screenplay'], ['Kosemura, Akira', 'Music']]

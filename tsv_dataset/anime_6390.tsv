@@ -1,5 +1,5 @@
-animeTitle	b'Tantei Kageki Milky Holmes TD'
-animeType	b'TV'
+animeTitle	Tantei Kageki Milky Holmes TD
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.45
 animeUsers	2703
 animeRank	
-animePopularity	
-animeDescription	"b'There have been many cases of stolen songs happening among the idols in Yokohama District recently. Even super idol Marine Amagi\'s hit song ""Kiseki no Uta"" was taken away. At the request of Marine, the Milky Holmes team starts investigating the case.\n\n(Source: Crunchyroll)'"
-animeRelated	[b'Futari wa Milky Holmes', b'Tantei Opera Milky Holmes Movie: Gyakushuu no Milky Holmes']
-animeCharacters	[b'Shellingford, Sherlock', b'Burton, Hercule', b'Glauca, Cordelia', b'Yuzurizaki, Nero', b'Amagi, Marine', b'Akechi, Kokoro', b'Myoujingawa, Alice', b'Kobayashi, Opera', b'Tokiwa, Kazumi', b'Gurdy, Anne']
-animeVoices	[b'\nMimori, Suzuko\nJapanese\n', b'\nSasaki, Mikoi\nJapanese\n', b'\nKitta, Izumi\nJapanese\n', b'\nTokui, Sora\nJapanese\n', b'\nNitta, Emi\nJapanese\n', b'\nNanjou, Yoshino\nJapanese\n', b'\nItou, Ayasa\nJapanese\n', b'\nMorishima, Shuuta\nJapanese\n', b'\nTerakawa, Aimi\nJapanese\n', b'\nSeto, Asami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAgematsu, Noriyasu\n\nProducer\n\n', b'\nNishikiori, Hiroshi\n\nDirector\n\n', b'\nHamano, Takatoshi\n\nSound Director\n\n', b'\nYasukawa, Shougo\n\nScript\n\n']
+animePopularity	5754
+animeDescription	"There have been many cases of stolen songs happening among the idols in Yokohama District recently. Even super idol Marine Amagi's hit song ""Kiseki no Uta"" was taken away. At the request of Marine, the Milky Holmes team starts investigating the case.
+
+(Source: Crunchyroll)"
+animeRelated	['Futari wa Milky Holmes', 'Tantei Opera Milky Holmes Movie: Gyakushuu no Milky Holmes']
+animeCharacters	['Shellingford, Sherlock', 'Burton, Hercule', 'Glauca, Cordelia', 'Yuzurizaki, Nero', 'Amagi, Marine', 'Akechi, Kokoro', 'Myoujingawa, Alice', 'Kobayashi, Opera', 'Tokiwa, Kazumi', 'Gurdy, Anne']
+animeVoices	['Mimori, Suzuko', 'Sasaki, Mikoi', 'Kitta, Izumi', 'Tokui, Sora', 'Nitta, Emi', 'Nanjou, Yoshino', 'Itou, Ayasa', 'Morishima, Shuuta', 'Terakawa, Aimi', 'Seto, Asami']
+animeStaff	[['Agematsu, Noriyasu', 'Producer'], ['Nishikiori, Hiroshi', 'Director'], ['Hamano, Takatoshi', 'Sound Director'], ['Yasukawa, Shougo', 'Script']]

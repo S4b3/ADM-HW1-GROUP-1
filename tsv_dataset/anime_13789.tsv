@@ -1,5 +1,5 @@
-animeTitle	b'Tezuka Osamu Monogatari'
-animeType	b'ONA'
+animeTitle	Tezuka Osamu Monogatari
+animeType	ONA
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Flash animation ONA that tells about Tezuka Osamu's life."""
+animePopularity	15686
+animeDescription	Flash animation ONA that tells about Tezuka Osamu's life.
 animeRelated	[]
-animeCharacters	[b'Tezuka, Osamu', b'Narrator']
-animeVoices	[b'\nMatsuoka, Youko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKobayashi, Hirotoshi\n\nScript\n\n', b'\nTezuka, Makoto\n\nPlanning\n\n']
+animeCharacters	['Tezuka, Osamu', 'Narrator']
+animeVoices	['Matsuoka, Youko']
+animeStaff	[['Kobayashi, Hirotoshi', 'Script'], ['Tezuka, Makoto', 'Planning']]

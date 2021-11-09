@@ -1,5 +1,5 @@
-animeTitle	b'Entaku no Kishi Monogatari: Moero Arthur'
-animeType	b'TV'
+animeTitle	Entaku no Kishi Monogatari: Moero Arthur
+animeType	TV
 animeNumEpisode	30
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.31
 animeUsers	362
 animeRank	
-animePopularity	
-animeDescription	b'After his parents are killed by the Evil Lavic, Arthur is a contender to become King of all Britain. Arthur and his brave knights embark on a quest for the Holy Shield \xe2\x80\x93 the only hope to beat Lavic and unify the kingdom.\n\n(Source: Toei Animation)'
-animeRelated	[b'Moero Arthur: Hakuba no Ouji']
-animeCharacters	[b'Arthur, King', b'Lavic', b'Uther', b'Medessa', b'Lancelot', b'Leodegrance', b'Igraine', b'Archbishop', b'Merlin', b'Pellinore']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nShibata, Hidekatsu\nJapanese\n', b'\nYanaga, Kazuko\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nIbu, Masatou\nJapanese\n', b'\nTsuboi, Akiko\nJapanese\n', b'\nMiyauchi, Kouhei\nJapanese\n', b'\nHisamatsu, Yasuo\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nKatsumata, Tomoharu\n\nDirector\n\n', b'\nSasaki, Isao\n\nTheme Song Performance\n\n', b'\nHorie, Mitsuko\n\nTheme Song Performance\n\n', b""\nKoorogi '73\n\nTheme Song Performance\n\n""]"
+animePopularity	10378
+animeDescription	"After his parents are killed by the Evil Lavic, Arthur is a contender to become King of all Britain. Arthur and his brave knights embark on a quest for the Holy Shield – the only hope to beat Lavic and unify the kingdom.
+
+(Source: Toei Animation)"
+animeRelated	['Moero Arthur: Hakuba no Ouji']
+animeCharacters	['Arthur, King', 'Lavic', 'Uther', 'Medessa', 'Lancelot', 'Leodegrance', 'Igraine', 'Archbishop', 'Merlin', 'Pellinore']
+animeVoices	['Kamiya, Akira', 'Utsumi, Kenji', 'Shibata, Hidekatsu', 'Yanaga, Kazuko', 'Genda, Tesshou', 'Ibu, Masatou', 'Tsuboi, Akiko', 'Miyauchi, Kouhei', 'Hisamatsu, Yasuo', 'Furukawa, Toshio']
+animeStaff	"[['Katsumata, Tomoharu', 'Director'], ['Sasaki, Isao', 'Theme Song Performance'], ['Horie, Mitsuko', 'Theme Song Performance'], [""Koorogi '73"", 'Theme Song Performance']]"

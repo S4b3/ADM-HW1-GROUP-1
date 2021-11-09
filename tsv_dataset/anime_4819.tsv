@@ -1,5 +1,5 @@
-animeTitle	b'Night Head Genesis'
-animeType	b'TV'
+animeTitle	Night Head Genesis
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.76
 animeUsers	8577
 animeRank	
-animePopularity	
-animeDescription	"b'It is said that 70% of the human brain capacity is unused. If humans possess incredible power, it is strongly believed to be lying dormant within this region. This unused 70% brain capacity is known as ""Night Head"".\n\nThe famous work \'NIGHT HEAD\' is going to break the silence. They were abandoned by their parents because of the psychic power they possessed. They are the Kirihara brothers, who lived in a laboratory within a barrier-protected forest. They have escaped from the laboratory, and a new wave of \'Revolution\' is about to arise.\n\nA new ""Night Head"" is about to be awakened.'"
-animeRelated	[b'Night Head', b'Night Head Genesis', b'Night Head 2041']
-animeCharacters	[b'Kirihara, Naoto', b'Kirihara, Naoya', b'Futami, Shouko', b'Misaki', b'Mikumo, Gengo', b'Tsukasa, Kamiya', b'Kirihara, Yukihiko', b'Mikuriya, Kyoujirou']
-animeVoices	[b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nUeda, Youji\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nMasutani, Yasunori\nJapanese\n', b'\nNakamura, Hidetoshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakeuchi, Yoshio\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nSano, Takashi\n\nEpisode Director, Storyboard\n\n', b'\nIshikura, Kenichi\n\nEpisode Director\n\n']
+animePopularity	3363
+animeDescription	"It is said that 70% of the human brain capacity is unused. If humans possess incredible power, it is strongly believed to be lying dormant within this region. This unused 70% brain capacity is known as ""Night Head"".
+
+The famous work 'NIGHT HEAD' is going to break the silence. They were abandoned by their parents because of the psychic power they possessed. They are the Kirihara brothers, who lived in a laboratory within a barrier-protected forest. They have escaped from the laboratory, and a new wave of 'Revolution' is about to arise.
+
+A new ""Night Head"" is about to be awakened."
+animeRelated	['Night Head', 'Night Head Genesis', 'Night Head 2041']
+animeCharacters	['Kirihara, Naoto', 'Kirihara, Naoya', 'Futami, Shouko', 'Misaki', 'Mikumo, Gengo', 'Tsukasa, Kamiya', 'Kirihara, Yukihiko', 'Mikuriya, Kyoujirou']
+animeVoices	['Morikawa, Toshiyuki', 'Ishida, Akira', 'Watanabe, Akeno', 'Ueda, Youji', 'Suwabe, Junichi', 'Yusa, Kouji', 'Masutani, Yasunori', 'Nakamura, Hidetoshi']
+animeStaff	[['Takeuchi, Yoshio', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Sano, Takashi', 'Episode Director, Storyboard'], ['Ishikura, Kenichi', 'Episode Director']]

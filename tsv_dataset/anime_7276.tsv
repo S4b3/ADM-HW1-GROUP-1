@@ -1,5 +1,5 @@
-animeTitle	b'Konbini Kareshi'
-animeType	b'TV'
+animeTitle	Konbini Kareshi
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.28
 animeUsers	26777
 animeRank	
-animePopularity	
-animeDescription	"b""Six high school students' lives around the convenience store on their way from school; they talk about their lives and meet girls they end up falling for.\n\n(Source: MAL News) """
+animePopularity	1882
+animeDescription	"Six high school students' lives around the convenience store on their way from school; they talk about their lives and meet girls they end up falling for.
+
+(Source: MAL News) "
 animeRelated	[]
-animeCharacters	[b'Mashiki, Miharu', b'Mihashi, Mami', b'Honda, Towa', b'Mishima, Haruki', b'Sakamoto, Makoto', b'Kisaki, Waka', b'Nakajima, Mikado', b'Minowa, Kokono', b'Asumi, Natsu', b'Itokawa, Nozomi']
-animeVoices	[b'\nKanda, Sayaka\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nTakeuchi, Shunsuke\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nTachibana, Shinnosuke\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDate, Hayato\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nRobinson, Rachel\n\nScript\n\n', b'\nIshii, Hisashi\n\nStoryboard\n\n']
+animeCharacters	['Mashiki, Miharu', 'Mihashi, Mami', 'Honda, Towa', 'Mishima, Haruki', 'Sakamoto, Makoto', 'Kisaki, Waka', 'Nakajima, Mikado', 'Minowa, Kokono', 'Asumi, Natsu', 'Itokawa, Nozomi']
+animeVoices	['Kanda, Sayaka', 'Kugimiya, Rie', 'Suzumura, Kenichi', 'Terashima, Takuma', 'Takeuchi, Shunsuke', 'Tamura, Yukari', 'Tachibana, Shinnosuke', 'Sawashiro, Miyuki', 'Kamiya, Hiroshi', 'Koshimizu, Ami']
+animeStaff	[['Date, Hayato', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Robinson, Rachel', 'Script'], ['Ishii, Hisashi', 'Storyboard']]

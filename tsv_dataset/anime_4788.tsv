@@ -1,5 +1,5 @@
-animeTitle	b'Cardfight!! Vanguard Movie: Neon Messiah'
-animeType	b'Movie'
+animeTitle	Cardfight!! Vanguard Movie: Neon Messiah
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.76
 animeUsers	2342
 animeRank	
-animePopularity	
-animeDescription	"b""A hybrid anime/live-action movie for the series to be released Fall 2014.\n\nAfter the events of Link Joker-hen, Aichi and Kai team up to a confront an enemy that threatens the peace they've just regained. The movie also covers the events leading up to Aichi's disappearance in Legion Mate-hen."""
-animeRelated	[b'Cardfight!! Vanguard', b'Cardfight!! Vanguard: Asia Circuit-hen', b'Cardfight!! Vanguard: Link Joker-hen', b'Cardfight!! Vanguard: Legion Mate-hen']
-animeCharacters	[b'Sendou, Aichi', b'Kai, Toshiki', b'Ibuki, Kouji', b'Tokura, Misaki', b'Suzugamori, Ren', b'Miwa, Taishi', b'Tatsunagi, Kourin', b'Sendou, Emi', b'Katsuragi, Kamui', b'Mitsusada, Kenji']
-animeVoices	[b'\nYonaga, Tsubasa\nJapanese\n', b'\nSatou, Takuya\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nKitta, Izumi\nJapanese\n', b'\nAbe, Atsushi\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nMimori, Suzuko\nJapanese\n', b'\nEnomoto, Atsuko\nJapanese\n', b'\nIshikawa, Shizuka\nJapanese\n', b'\nAkabane, Kenji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItagaki, Shin\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nMimori, Suzuko\n\nTheme Song Performance\n\n', b'\nSatou, Toshiyuki\n\nKey Animation\n\n']
+animePopularity	6750
+animeDescription	"A hybrid anime/live-action movie for the series to be released Fall 2014.
+
+After the events of Link Joker-hen, Aichi and Kai team up to a confront an enemy that threatens the peace they've just regained. The movie also covers the events leading up to Aichi's disappearance in Legion Mate-hen."
+animeRelated	['Cardfight!! Vanguard', 'Cardfight!! Vanguard: Asia Circuit-hen', 'Cardfight!! Vanguard: Link Joker-hen', 'Cardfight!! Vanguard: Legion Mate-hen']
+animeCharacters	['Sendou, Aichi', 'Kai, Toshiki', 'Ibuki, Kouji', 'Tokura, Misaki', 'Suzugamori, Ren', 'Miwa, Taishi', 'Tatsunagi, Kourin', 'Sendou, Emi', 'Katsuragi, Kamui', 'Mitsusada, Kenji']
+animeVoices	['Yonaga, Tsubasa', 'Satou, Takuya', 'Miyano, Mamoru', 'Kitta, Izumi', 'Abe, Atsushi', 'Morikubo, Shoutarou', 'Mimori, Suzuko', 'Enomoto, Atsuko', 'Ishikawa, Shizuka', 'Akabane, Kenji']
+animeStaff	[['Itagaki, Shin', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Mimori, Suzuko', 'Theme Song Performance'], ['Satou, Toshiyuki', 'Key Animation']]

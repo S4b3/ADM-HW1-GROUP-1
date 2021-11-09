@@ -1,5 +1,5 @@
-animeTitle	b'Nameko: Sekai no Tomodachi'
-animeType	b'TV'
+animeTitle	Nameko: Sekai no Tomodachi
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Nameko Forest gathers nameko from all over the world. They form the Nameko Universal Ranger (NUR) to convey the charm of the forest. It's an everyday life of inviting new nameko with unique personalities to the forests. What incident will happen today?"""
-animeRelated	[b'Nameko-ke no Ichizoku']
-animeCharacters	[b'Nameko', b'Robo Nameko', b'Nameko-senpai', b'Love Nameko', b'Pero']
-animeVoices	[b'\nFukuhara, Haruka\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nKawamoto, Kunihiro\nJapanese\n', b'\nTanezaki, Atsumi\nJapanese\n', b'\nIizuka, Mayumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Hiroshi\n\nDirector\n\n', b'\nTakahashi, Natsuko\n\nSeries Composition\n\n', b'\nKawai, Shingo\n\nCharacter Design\n\n']
+animePopularity	13092
+animeDescription	Nameko Forest gathers nameko from all over the world. They form the Nameko Universal Ranger (NUR) to convey the charm of the forest. It's an everyday life of inviting new nameko with unique personalities to the forests. What incident will happen today?
+animeRelated	['Nameko-ke no Ichizoku']
+animeCharacters	['Nameko', 'Robo Nameko', 'Nameko-senpai', 'Love Nameko', 'Pero']
+animeVoices	['Fukuhara, Haruka', 'Miyata, Kouki', 'Kawamoto, Kunihiro', 'Tanezaki, Atsumi', 'Iizuka, Mayumi']
+animeStaff	[['Watanabe, Hiroshi', 'Director'], ['Takahashi, Natsuko', 'Series Composition'], ['Kawai, Shingo', 'Character Design']]

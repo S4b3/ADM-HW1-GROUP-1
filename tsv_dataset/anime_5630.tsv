@@ -1,5 +1,5 @@
-animeTitle	b'Pastel Life'
-animeType	b'TV'
+animeTitle	Pastel Life
+animeType	TV
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.59
 animeUsers	2597
 animeRank	
-animePopularity	
-animeDescription	b'A Nico Live broadcast of BanG Dream! franchise on Monday has announced a spin-off anime featuring one of the units in the franchise, Pastel*Palettes. Titled Pastel Life, the slice-of-life series is yet to announce its type and broadcast details.\n\n(Source: MAL News)'
-animeRelated	[b'BanG Dream!']
-animeCharacters	[b'Maruyama, Aya', b'Hikawa, Hina', b'Shirasagi, Chisato', b'Yamato, Maya', b'Wakamiya, Eve']
-animeVoices	[b'\nMaeshima, Ami\nJapanese\n', b'\nOzawa, Ari\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nNakagami, Ikumi\nJapanese\n', b'\nHata, Sawako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUesaka, Sumire\n\nTheme Song Performance\n\n', b'\nOzawa, Ari\n\nTheme Song Performance\n\n', b'\nMaeshima, Ami\n\nTheme Song Performance\n\n', b'\nNakagami, Ikumi\n\nTheme Song Performance\n\n']
+animePopularity	6911
+animeDescription	"A Nico Live broadcast of BanG Dream! franchise on Monday has announced a spin-off anime featuring one of the units in the franchise, Pastel*Palettes. Titled Pastel Life, the slice-of-life series is yet to announce its type and broadcast details.
+
+(Source: MAL News)"
+animeRelated	['BanG Dream!']
+animeCharacters	['Maruyama, Aya', 'Hikawa, Hina', 'Shirasagi, Chisato', 'Yamato, Maya', 'Wakamiya, Eve']
+animeVoices	['Maeshima, Ami', 'Ozawa, Ari', 'Uesaka, Sumire', 'Nakagami, Ikumi', 'Hata, Sawako']
+animeStaff	[['Uesaka, Sumire', 'Theme Song Performance'], ['Ozawa, Ari', 'Theme Song Performance'], ['Maeshima, Ami', 'Theme Song Performance'], ['Nakagami, Ikumi', 'Theme Song Performance']]

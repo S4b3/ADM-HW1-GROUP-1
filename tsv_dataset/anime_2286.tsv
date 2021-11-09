@@ -1,5 +1,5 @@
-animeTitle	b'Lupin III: Walther P38'
-animeType	b'Special'
+animeTitle	Lupin III: Walther P38
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.33
 animeUsers	2980
 animeRank	
-animePopularity	
-animeDescription	"b""Zenigata arrives at the birthday party of an important politician to investigate a fake Lupin calling card. Lupin shows up as well. Suddenly, masked assassins break in and begin to shoot everything that moves. Zenigata goes after Lupin amidst all the gunfire and corners him in the courtyard of the house. Suddenly, a hand holding a Walther P-38 pops out of a window and shoots Zenigata in the chest. Lupin recognizes the Walther as his own and decides to investigate. The assassins that attacked the party are from a hidden island called the Island of Assassins. The island is kept secret by the help of top government officials from around the world who use the assassins on the island for their own personal gains. There are lots of hidden secrets on the island, however, and Lupin, Goemon, Jigen, and Fujiko find themselves involved in a plot that tears the residents of the island in half. The movie also delves into Lupin's past in his pre-Jigen days. \n\n(Source: ANN)"""
-animeRelated	[b'Lupin III']
-animeCharacters	[b'Lupin III, Arsene', b'Jigen, Daisuke', b'Mine, Fujiko', b'Ishikawa XIII, Goemon', b'Zenigata, Kouichi', b'Ellen', b'Gordeau']
-animeVoices	[b'\nKurita, Kanichi\nJapanese\n', b'\nKobayashi, Kiyoshi\nJapanese\n', b'\nMasuyama, Eiko\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nNaya, Gorou\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nYano, Hiroyuki\n\nDirector\n\n', b'\nYonemura, Shouji\n\nScript\n\n']
+animePopularity	6133
+animeDescription	"Zenigata arrives at the birthday party of an important politician to investigate a fake Lupin calling card. Lupin shows up as well. Suddenly, masked assassins break in and begin to shoot everything that moves. Zenigata goes after Lupin amidst all the gunfire and corners him in the courtyard of the house. Suddenly, a hand holding a Walther P-38 pops out of a window and shoots Zenigata in the chest. Lupin recognizes the Walther as his own and decides to investigate. The assassins that attacked the party are from a hidden island called the Island of Assassins. The island is kept secret by the help of top government officials from around the world who use the assassins on the island for their own personal gains. There are lots of hidden secrets on the island, however, and Lupin, Goemon, Jigen, and Fujiko find themselves involved in a plot that tears the residents of the island in half. The movie also delves into Lupin's past in his pre-Jigen days. 
+
+(Source: ANN)"
+animeRelated	['Lupin III']
+animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Ellen', 'Gordeau']
+animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou', 'Shinohara, Emi', 'Utsumi, Kenji']
+animeStaff	[['Cook, Justin', 'Producer'], ['Watson, Barry', 'Producer'], ['Yano, Hiroyuki', 'Director'], ['Yonemura, Shouji', 'Script']]

@@ -1,5 +1,5 @@
-animeTitle	b'Musashino!'
-animeType	b'TV'
+animeTitle	Musashino!
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Sequel series to Urawa no Usagi-chan.'
-animeRelated	[b'Urawa no Usagi-chan', b'Urawa no Usagi-chan Special']
-animeCharacters	[b'Bessho, Kojika', b'Saido, Midori', b'Mimuro, Misono', b'Numakage, Saiko', b'Ooyaba, Minami', b'Aragami, Azuma ', b'Tajima, Sakura', b'Kamikizaki, Tokiwa', b'Takasago, Usagi', b'Ichinomiya, Shion']
-animeVoices	[b'\nKubota, Miyu\nJapanese\n', b'\nToujou, Hisako\nJapanese\n', b'\nTamura, Nao\nJapanese\n', b'\nOokubo, Rumi\nJapanese\n', b'\nWatanabe, Keiko\nJapanese\n', b'\nTaichi, You\nJapanese\n', b'\nAkesaka, Satomi\nJapanese\n', b'\nSeto, Asami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamaura, Takanori\n\nProducer\n\n', b'\nIshibashi, Mitsuyuki\n\nDirector\n\n', b'\nKubota, Hiroyasu\n\nScript, Series Composition\n\n', b'\nNOB-C\n\nOriginal Character Design\n\n']
+animePopularity	7586
+animeDescription	Sequel series to Urawa no Usagi-chan.
+animeRelated	['Urawa no Usagi-chan', 'Urawa no Usagi-chan Special']
+animeCharacters	['Bessho, Kojika', 'Saido, Midori', 'Mimuro, Misono', 'Numakage, Saiko', 'Ooyaba, Minami', 'Aragami, Azuma ', 'Tajima, Sakura', 'Kamikizaki, Tokiwa', 'Takasago, Usagi', 'Ichinomiya, Shion']
+animeVoices	['Kubota, Miyu', 'Toujou, Hisako', 'Tamura, Nao', 'Ookubo, Rumi', 'Watanabe, Keiko', 'Taichi, You', 'Akesaka, Satomi', 'Seto, Asami']
+animeStaff	[['Yamaura, Takanori', 'Producer'], ['Ishibashi, Mitsuyuki', 'Director'], ['Kubota, Hiroyasu', 'Script, Series Composition'], ['NOB-C', 'Original Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Shigofumi: Sore kara'
-animeType	b'Special'
+animeTitle	Shigofumi: Sore kara
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.34
 animeUsers	9078
 animeRank	
-animePopularity	
-animeDescription	b'The 13th episode of Shigofumi.'
-animeRelated	[b'Shigofumi']
-animeCharacters	[b'Fumika', b'Mikawa, Fumika', b'Chiaki', b'Kanaka', b'Matoma', b'Nojima, Kaname', b'Kasai, Natsuka', b'Shinozaki, Suzune']
-animeVoices	[b'\nUeda, Kana\nJapanese\n', b'\nAsano, Masumi\nJapanese\n', b'\nMatsuoka, Yuki\nJapanese\n', b'\nKatou, Masayuki\nJapanese\n', b'\nTerashima, Takuma\nJapanese\n', b'\nChiba, Saeko\nJapanese\n', b'\nHorie, Yui\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nALI PROJECT\n\nTheme Song Performance\n\n', b'\nMorikawa, Eiko\n\nSound Effects\n\n', b'\nItou, Youko\n\nKey Animation\n\n', b'\nKawakami, Tetsuya\n\nChief Animation Director, Character Design\n\n']
+animePopularity	4412
+animeDescription	The 13th episode of Shigofumi.
+animeRelated	['Shigofumi']
+animeCharacters	['Fumika', 'Mikawa, Fumika', 'Chiaki', 'Kanaka', 'Matoma', 'Nojima, Kaname', 'Kasai, Natsuka', 'Shinozaki, Suzune']
+animeVoices	['Ueda, Kana', 'Asano, Masumi', 'Matsuoka, Yuki', 'Katou, Masayuki', 'Terashima, Takuma', 'Chiba, Saeko', 'Horie, Yui']
+animeStaff	[['ALI PROJECT', 'Theme Song Performance'], ['Morikawa, Eiko', 'Sound Effects'], ['Itou, Youko', 'Key Animation'], ['Kawakami, Tetsuya', 'Chief Animation Director, Character Design']]

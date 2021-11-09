@@ -1,5 +1,5 @@
-animeTitle	b'Yoiko'
-animeType	b'TV'
+animeTitle	Yoiko
+animeType	TV
 animeNumEpisode	20
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.25
 animeUsers	1050
 animeRank	
-animePopularity	
-animeDescription	b'Her name is Esumi Fuuka. Standing tall at 163 cm with a slender bodyline, she must be a university undergraduate; however, in reality, she is only an elementary school student. With a body figure of an adult and the mentality of a small child, she creates many misunderstandings around her.'
-animeRelated	[b'Yoiko']
-animeCharacters	[b'Esumi, Fuuka', b'Ozeki, Akira', b'Principal', b'Kashima, Miki', b'Noguchi, Saeko', b'Esumi, Jiro', b'Kenji']
-animeVoices	[b'\nNagata, Ryoko\nJapanese\n', b'\nIshimura, Tomoko\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nOhno, Sawa\nJapanese\n', b'\nYoshino, Miki\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomori, Takahiro\n\nDirector\n\n', b'\nTomita, Sukehiro\n\nSeries Composition\n\n', b'\nIshikawa, Yuugo\n\nOriginal Creator\n\n', b'\nNagasaki, Hitoshi\n\nArt Director\n\n']
+animePopularity	7344
+animeDescription	Her name is Esumi Fuuka. Standing tall at 163 cm with a slender bodyline, she must be a university undergraduate; however, in reality, she is only an elementary school student. With a body figure of an adult and the mentality of a small child, she creates many misunderstandings around her.
+animeRelated	['Yoiko']
+animeCharacters	['Esumi, Fuuka', 'Ozeki, Akira', 'Principal', 'Kashima, Miki', 'Noguchi, Saeko', 'Esumi, Jiro', 'Kenji']
+animeVoices	['Nagata, Ryoko', 'Ishimura, Tomoko', 'Ogata, Kenichi', 'Ohno, Sawa', 'Yoshino, Miki', 'Hiyama, Nobuyuki', 'Sakaguchi, Daisuke']
+animeStaff	[['Oomori, Takahiro', 'Director'], ['Tomita, Sukehiro', 'Series Composition'], ['Ishikawa, Yuugo', 'Original Creator'], ['Nagasaki, Hitoshi', 'Art Director']]

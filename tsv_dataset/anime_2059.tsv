@@ -1,5 +1,5 @@
-animeTitle	b'Whistle!'
-animeType	b'TV'
+animeTitle	Whistle!
+animeType	TV
 animeNumEpisode	39
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.38
 animeUsers	5825
 animeRank	
-animePopularity	
-animeDescription	"b""Kazamatsuri Shou's dream has always been to become a professional soccer player, but he has one problem: he's not very good at the game. He was accepted to the prestigious Musashi no Mori Junior High, known for its top rate soccer team, but he was never able to rise beyond the rank of third stringer. After transferring to Sakura Jousui Junior High, he can finally play soccer. And, with the support of his new friends and teammates, his strong determination, and lots of hard work, his soccer skills are developing rapidly and setting Shou well on his way to achieving his dream.\n\n(Source: ANN)"""
-animeRelated	[b'Whistle!']
-animeCharacters	[b'Kazamatsuri, Sho', b'Sato, Shigeki', b'Fuwa, Daichi', b'Mizuno, Tatsuya', b'Shiina, Tsubasa', b'Fujishiro, Seiji', b'Shibusawa, Katsuro', b'Sakurai, Miyuki', b'Katori, Yuuko', b'Mikami, Akira']
-animeVoices	[b'\nKomukai, Minako\nJapanese\n', b'\nKiuchi, Hidenobu\nJapanese\n', b'\nKiyasu, Kohei\nJapanese\n', b'\nMaeda, Takeshi\nJapanese\n', b'\nHiguchi, Chieko\nJapanese\n', b'\nKondou, Takayuki\nJapanese\n', b'\nNaitou, Ryou\nJapanese\n', b'\nHasegawa, Shizuka\nJapanese\n', b'\nHaramoto, Miki\nJapanese\n', b'\nKawai, Yoshinori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFukutomi, Hiroshi\n\nDirector\n\n', b'\nYamada, Takashi\n\nScript\n\n', b'\nKomukai, Minako\n\nTheme Song Performance\n\n', b'\nSahashi, Toshihiko\n\nMusic\n\n']
+animePopularity	4779
+animeDescription	"Kazamatsuri Shou's dream has always been to become a professional soccer player, but he has one problem: he's not very good at the game. He was accepted to the prestigious Musashi no Mori Junior High, known for its top rate soccer team, but he was never able to rise beyond the rank of third stringer. After transferring to Sakura Jousui Junior High, he can finally play soccer. And, with the support of his new friends and teammates, his strong determination, and lots of hard work, his soccer skills are developing rapidly and setting Shou well on his way to achieving his dream.
+
+(Source: ANN)"
+animeRelated	['Whistle!']
+animeCharacters	['Kazamatsuri, Sho', 'Sato, Shigeki', 'Fuwa, Daichi', 'Mizuno, Tatsuya', 'Shiina, Tsubasa', 'Fujishiro, Seiji', 'Shibusawa, Katsuro', 'Sakurai, Miyuki', 'Katori, Yuuko', 'Mikami, Akira']
+animeVoices	['Komukai, Minako', 'Kiuchi, Hidenobu', 'Kiyasu, Kohei', 'Maeda, Takeshi', 'Higuchi, Chieko', 'Kondou, Takayuki', 'Naitou, Ryou', 'Hasegawa, Shizuka', 'Haramoto, Miki', 'Kawai, Yoshinori']
+animeStaff	[['Fukutomi, Hiroshi', 'Director'], ['Yamada, Takashi', 'Script'], ['Komukai, Minako', 'Theme Song Performance'], ['Sahashi, Toshihiko', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Umi ga Kikoeru'
-animeType	b'Special'
+animeTitle	Umi ga Kikoeru
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.57
 animeUsers	54717
 animeRank	
-animePopularity	
-animeDescription	"b""In the city of Kouchi, high school student Taku Morisaki is going about his work when his friend Yutaka Matsuno calls and asks him to get to their school as soon as possible. Taku arrives, and Matsuno introduces him to Rikako Muto, a beautiful girl from Tokyo who recently transferred to their school. Although Rikako is academically and athletically gifted, her generally unpleasant attitude leaves her with virtually no friends outside of Matsuno and another girl from her class.\n\nAfter a chance encounter during their class trip, Taku suddenly finds himself more involved in Rikako's personal life, much to Matsuno's dismay. Struggling to balance his friendship with Matsuno and his own budding infatuation for Rikako, Taku must come to terms with his feelings and understand how a girl with a troubled past is having such a massive effect on his life.\n\n[Written by MAL Rewrite]"""
+animePopularity	1643
+animeDescription	"In the city of Kouchi, high school student Taku Morisaki is going about his work when his friend Yutaka Matsuno calls and asks him to get to their school as soon as possible. Taku arrives, and Matsuno introduces him to Rikako Muto, a beautiful girl from Tokyo who recently transferred to their school. Although Rikako is academically and athletically gifted, her generally unpleasant attitude leaves her with virtually no friends outside of Matsuno and another girl from her class.
+
+After a chance encounter during their class trip, Taku suddenly finds himself more involved in Rikako's personal life, much to Matsuno's dismay. Struggling to balance his friendship with Matsuno and his own budding infatuation for Rikako, Taku must come to terms with his feelings and understand how a girl with a troubled past is having such a massive effect on his life.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Morisaki, Taku', b'Muto, Rikako', b'Matsuno, Yutaka', b'Shimizu, Akiko', b'Kohama, Yumi']
-animeVoices	[b'\nTobita, Nobuo\nJapanese\n', b'\nSakamoto, Youko\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nAmano, Yuri\nJapanese\n', b'\nAraki, Kae\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMochizuki, Tomomi\n\nDirector, Theme Song Lyrics, Theme Song Composition\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nNiwa, Keiko\n\nScript\n\n', b'\nSakamoto, Youko\n\nTheme Song Performance\n\n']
+animeCharacters	['Morisaki, Taku', 'Muto, Rikako', 'Matsuno, Yutaka', 'Shimizu, Akiko', 'Kohama, Yumi']
+animeVoices	['Tobita, Nobuo', 'Sakamoto, Youko', 'Seki, Toshihiko', 'Amano, Yuri', 'Araki, Kae']
+animeStaff	[['Mochizuki, Tomomi', 'Director, Theme Song Lyrics, Theme Song Composition'], ['Urakami, Yasuo', 'Sound Director'], ['Niwa, Keiko', 'Script'], ['Sakamoto, Youko', 'Theme Song Performance']]

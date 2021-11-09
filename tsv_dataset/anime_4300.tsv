@@ -1,5 +1,5 @@
-animeTitle	b'Montana Jones'
-animeType	b'TV'
+animeTitle	Montana Jones
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.87
 animeUsers	544
 animeRank	
-animePopularity	
-animeDescription	"b""Boston, 1930: Montana Jones and his cousin professor Alfred Jones travel around the world to search lost treasures in order to bring them to museums. Alfred's mentor professor Gerrit helps them by sending LPs with information. On one trip they meet Melissa, a wealthy reporter, who speaks nearly all languages. She accompanies the two on their trips. Their opponent is Lord Zero, a rich, bizarre art lover and master thief. Lord Zero has two henchmen: Slim and Slam. There is also the inventor Dr. Nitro, who invents strange engines, which to help finding treasures.\n\n(Source: Wikipedia)"""
+animePopularity	10024
+animeDescription	"Boston, 1930: Montana Jones and his cousin professor Alfred Jones travel around the world to search lost treasures in order to bring them to museums. Alfred's mentor professor Gerrit helps them by sending LPs with information. On one trip they meet Melissa, a wealthy reporter, who speaks nearly all languages. She accompanies the two on their trips. Their opponent is Lord Zero, a rich, bizarre art lover and master thief. Lord Zero has two henchmen: Slim and Slam. There is also the inventor Dr. Nitro, who invents strange engines, which to help finding treasures.
+
+(Source: Wikipedia)"
 animeRelated	[]
-animeCharacters	[b'Jones, Montana', b'Jones, Alfred', b'Lord Zero', b'Sone, Melissa', b'Doctor Nitro', b'Slam', b'Slim']
-animeVoices	[b'\nOotsuka, Akio\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nOotomo, Ryuuzaburou\nJapanese\n', b'\nIwao, Junko\nJapanese\n', b'\nTakiguchi, Junpei\nJapanese\n', b'\nCho\nJapanese\n', b'\nSakurai, Toshiharu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImazawa, Tetsuo\n\nDirector\n\n', b'\nShinbou, Akiyuki\n\nEpisode Director\n\n', b'\nSuzuki, Takuo\n\nEpisode Director, Storyboard\n\n', b'\nHashimoto, Naoto\n\nEpisode Director\n\n']
+animeCharacters	['Jones, Montana', 'Jones, Alfred', 'Lord Zero', 'Sone, Melissa', 'Doctor Nitro', 'Slam', 'Slim']
+animeVoices	['Ootsuka, Akio', 'Nakao, Ryusei', 'Ootomo, Ryuuzaburou', 'Iwao, Junko', 'Takiguchi, Junpei', 'Cho', 'Sakurai, Toshiharu']
+animeStaff	[['Imazawa, Tetsuo', 'Director'], ['Shinbou, Akiyuki', 'Episode Director'], ['Suzuki, Takuo', 'Episode Director, Storyboard'], ['Hashimoto, Naoto', 'Episode Director']]

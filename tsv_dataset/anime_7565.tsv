@@ -1,5 +1,5 @@
-animeTitle	"b""Let's Nupu Nupu"""
-animeType	b'TV'
+animeTitle	Let's Nupu Nupu
+animeType	TV
 animeNumEpisode	16
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.23
 animeUsers	1540
 animeRank	
-animePopularity	
-animeDescription	"b""With four-frame comic origins, this animated title preserves the same quick pace by following the regular cast of colorful characters through separate but interwoven story lines in every episode. From Ms. Shitara's relentless but always ineffective sexual pursuit of young Takagi to the adventures of the heroicly stupid but cute Sushi Cat, you will be mystified at the silliness of it all but find yourself laughing for the same reason! \n\n(Source: AniDB)\n"""
-animeRelated	"[b""Let's Nupu Nupu""]"
-animeCharacters	[b'Shitara, Sagara ', b'Sushi Neko', b'Takagi, Fumio', b'Takao-san', b'Oomori, Kazumi', b'Oomori, Ani', b'Kitamura, Kumi']
-animeVoices	[b'\nTomizawa, Michie\nJapanese\n', b'\nTakano, Urara\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nHitomi\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimura, Jouji\n\nEpisode Director\n\n', b'\nAmamizu, Masaru\n\nArt Director\n\n', b'\nIkuno, Yuuko\n\nCharacter Design\n\n', b'\nEndou, Yasuhiro\n\nAnimation Director\n\n']
+animePopularity	7162
+animeDescription	"With four-frame comic origins, this animated title preserves the same quick pace by following the regular cast of colorful characters through separate but interwoven story lines in every episode. From Ms. Shitara's relentless but always ineffective sexual pursuit of young Takagi to the adventures of the heroicly stupid but cute Sushi Cat, you will be mystified at the silliness of it all but find yourself laughing for the same reason! 
+
+(Source: AniDB)
+"
+animeRelated	"[""Let's Nupu Nupu""]"
+animeCharacters	['Shitara, Sagara ', 'Sushi Neko', 'Takagi, Fumio', 'Takao-san', 'Oomori, Kazumi', 'Oomori, Ani', 'Kitamura, Kumi']
+animeVoices	['Tomizawa, Michie', 'Takano, Urara', 'Ueda, Yuuji', 'Okiayu, Ryoutarou', 'Hitomi', 'Ishida, Akira', 'Matsumoto, Rica']
+animeStaff	[['Shimura, Jouji', 'Episode Director'], ['Amamizu, Masaru', 'Art Director'], ['Ikuno, Yuuko', 'Character Design'], ['Endou, Yasuhiro', 'Animation Director']]

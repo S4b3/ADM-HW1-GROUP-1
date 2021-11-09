@@ -1,5 +1,5 @@
-animeTitle	b'Natsume Yuujinchou: Itsuka Yuki no Hi ni'
-animeType	b'OVA'
+animeTitle	Natsume Yuujinchou: Itsuka Yuki no Hi ni
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	8.34
 animeUsers	30699
 animeRank	
-animePopularity	
-animeDescription	"b""During a winter walk, Natsume meets a snowman youkai who is searching for something she's lost and can't seem to recall and decides to help her despite not knowing what exactly she's looking for."""
-animeRelated	[b'Natsume Yuujinchou']
-animeCharacters	[b'Natsume, Takashi', b'Madara', b'Fujiwara, Touko', b'Fujiwara, Shigeru', b'Yukihana']
-animeVoices	[b'\nKamiya, Hiroshi\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nItou, Miki\nJapanese\n', b'\nKatou, Nanae\nJapanese\n', b'\nUran, Sakiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOomori, Takahiro\n\nDirector\n\n', b'\nYoshinaga, Aya\n\nScript\n\n', b'\nMidorikawa, Yuki\n\nOriginal Creator\n\n', b'\nYoshimori, Makoto\n\nMusic\n\n']
+animePopularity	2065
+animeDescription	During a winter walk, Natsume meets a snowman youkai who is searching for something she's lost and can't seem to recall and decides to help her despite not knowing what exactly she's looking for.
+animeRelated	['Natsume Yuujinchou']
+animeCharacters	['Natsume, Takashi', 'Madara', 'Fujiwara, Touko', 'Fujiwara, Shigeru', 'Yukihana']
+animeVoices	['Kamiya, Hiroshi', 'Inoue, Kazuhiko', 'Itou, Miki', 'Katou, Nanae', 'Uran, Sakiko']
+animeStaff	[['Oomori, Takahiro', 'Director'], ['Yoshinaga, Aya', 'Script'], ['Midorikawa, Yuki', 'Original Creator'], ['Yoshimori, Makoto', 'Music']]

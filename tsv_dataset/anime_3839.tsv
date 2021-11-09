@@ -1,5 +1,5 @@
-animeTitle	b'Chobits: Chibits'
-animeType	b'Special'
+animeTitle	Chobits: Chibits
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.99
 animeUsers	25387
 animeRank	
-animePopularity	
-animeDescription	b'When Hideki Motosuwa leaves his apartment and accidentally forgets his wallet, Chii takes the wallet and follows him, leaving Sumomo and Kotoko alone in the apartment. It doesn\xe2\x80\x99t take long time until Sumomo discovers that Chii forgot her panties, so Sumomo and Kotoko sets out on an adventurous trip to return the panties to Chii.\n\n(Source: ANN)'
-animeRelated	[b'Chobits']
-animeCharacters	[b'Sumomo', b'Kotoko', b'Chii', b'Motosuwa, Hideki']
-animeVoices	[b'\nKumai, Motoko\nJapanese\n', b'\nYukana\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAsaka, Morio\n\nDirector, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nCLAMP\n\nOriginal Creator\n\n', b'\nShibata, Chikako\n\nArt Director\n\n']
+animePopularity	2668
+animeDescription	"When Hideki Motosuwa leaves his apartment and accidentally forgets his wallet, Chii takes the wallet and follows him, leaving Sumomo and Kotoko alone in the apartment. It doesn’t take long time until Sumomo discovers that Chii forgot her panties, so Sumomo and Kotoko sets out on an adventurous trip to return the panties to Chii.
+
+(Source: ANN)"
+animeRelated	['Chobits']
+animeCharacters	['Sumomo', 'Kotoko', 'Chii', 'Motosuwa, Hideki']
+animeVoices	['Kumai, Motoko', 'Yukana', 'Tanaka, Rie', 'Sugita, Tomokazu']
+animeStaff	[['Asaka, Morio', 'Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['CLAMP', 'Original Creator'], ['Shibata, Chikako', 'Art Director']]

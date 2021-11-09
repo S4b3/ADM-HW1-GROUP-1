@@ -1,5 +1,5 @@
-animeTitle	b'Ougon Yuusha Goldran'
-animeType	b'TV'
+animeTitle	Ougon Yuusha Goldran
+animeType	TV
 animeNumEpisode	48
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.85
 animeUsers	426
 animeRank	
-animePopularity	
-animeDescription	b'Goldran follows the adventures of three young boys who are tasked with finding alien robot fighters, or Braves, that are sleeping in the form of crystals. Their major antagonist is the flamboyant and thoroughly incompetent Walter, and the villains that follow him are often similarly humorous. \n\n(Source: Wikipedia)'
-animeRelated	[b'Yuusha-Ou GaoGaiGar', b'Densetsu no Yuusha Da Garn', b'Yuusha Exkaiser', b'Yuusha Tokkyuu Might Gaine', b'Yuusha Shirei Dagwon', b'Taiyou no Yuusha Fighbird', b'Yuusha Keisatsu J-Decker']
-animeCharacters	"[b'Walzac, Walter', b'Suganuma, Dai', b'Dran', b'Tokimura, Kazuki', b'Harashima, Takuya', b'Walzac, Serious', b'Michiru-sensei', b""Serious's subordinate"", b'Captain Shark', b'King of Sodora']"
-animeVoices	[b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nOkano, Kousuke\nJapanese\n', b'\nNarita, Ken\nJapanese\n', b'\nMorita, Kiyu\nJapanese\n', b'\nMinami, Omi\nJapanese\n', b'\nSadaoka, Sayuri\nJapanese\n', b'\nAsami, Junko\nJapanese\n', b'\nItou, Kentarou\nJapanese\n', b'\nYamanoi, Jin\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakamatsu, Shinji\n\nDirector, Episode Director, Storyboard\n\n', b'\nChiba, Kouichi\n\nSound Director\n\n', b'\nWatanabe, Shinichi\n\nEpisode Director\n\n', b'\nYamaguchi, Yuuji\n\nEpisode Director, Storyboard\n\n']
+animePopularity	9225
+animeDescription	"Goldran follows the adventures of three young boys who are tasked with finding alien robot fighters, or Braves, that are sleeping in the form of crystals. Their major antagonist is the flamboyant and thoroughly incompetent Walter, and the villains that follow him are often similarly humorous. 
+
+(Source: Wikipedia)"
+animeRelated	['Yuusha-Ou GaoGaiGar', 'Densetsu no Yuusha Da Garn', 'Yuusha Exkaiser', 'Yuusha Tokkyuu Might Gaine', 'Yuusha Shirei Dagwon', 'Taiyou no Yuusha Fighbird', 'Yuusha Keisatsu J-Decker']
+animeCharacters	"['Walzac, Walter', 'Suganuma, Dai', 'Dran', 'Tokimura, Kazuki', 'Harashima, Takuya', 'Walzac, Serious', 'Michiru-sensei', ""Serious's subordinate"", 'Captain Shark', 'King of Sodora']"
+animeVoices	['Morikawa, Toshiyuki', 'Okano, Kousuke', 'Narita, Ken', 'Morita, Kiyu', 'Minami, Omi', 'Sadaoka, Sayuri', 'Asami, Junko', 'Itou, Kentarou', 'Yamanoi, Jin', 'Genda, Tesshou']
+animeStaff	[['Takamatsu, Shinji', 'Director, Episode Director, Storyboard'], ['Chiba, Kouichi', 'Sound Director'], ['Watanabe, Shinichi', 'Episode Director'], ['Yamaguchi, Yuuji', 'Episode Director, Storyboard']]

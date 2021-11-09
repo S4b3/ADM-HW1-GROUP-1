@@ -1,5 +1,5 @@
-animeTitle	b'Stand By Me Doraemon 2'
-animeType	b'Movie'
+animeTitle	Stand By Me Doraemon 2
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.25
 animeUsers	4965
 animeRank	
-animePopularity	
-animeDescription	"b""After reminiscing about his late grandmother, Nobita Nobi wishes to see her again and asks Doraemon to return them to the past. Following the wholesome reunion of the two, Nobita's grandmother confesses that she hopes to meet his future bride. Nobita accepts her request out of filial love and quickly scrambles into the time machine as he and Doraemon journey forward in time.\n\nHowever, when the duo warps to Nobita's wedding day, they discover that the future Nobita is missing from the ceremony! Determined to set things right, Doraemon and Nobita embark on a mission to search for Nobita's future self and encourage him to discover the happiness he deserves.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Stand By Me Doraemon']
-animeCharacters	[b'Nobi, Nobita']
+animePopularity	5218
+animeDescription	"After reminiscing about his late grandmother, Nobita Nobi wishes to see her again and asks Doraemon to return them to the past. Following the wholesome reunion of the two, Nobita's grandmother confesses that she hopes to meet his future bride. Nobita accepts her request out of filial love and quickly scrambles into the time machine as he and Doraemon journey forward in time.
+
+However, when the duo warps to Nobita's wedding day, they discover that the future Nobita is missing from the ceremony! Determined to set things right, Doraemon and Nobita embark on a mission to search for Nobita's future self and encourage him to discover the happiness he deserves.
+
+[Written by MAL Rewrite]"
+animeRelated	['Stand By Me Doraemon']
+animeCharacters	['Nobi, Nobita']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuda, Masaki\n\nTheme Song Performance\n\n']
+animeStaff	[['Suda, Masaki', 'Theme Song Performance']]

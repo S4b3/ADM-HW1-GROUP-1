@@ -1,5 +1,5 @@
-animeTitle	b'Dominion'
-animeType	b'OVA'
+animeTitle	Dominion
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.91
 animeUsers	6353
 animeRank	
-animePopularity	
-animeDescription	"b""Leona Ozaki joins Newport City's infamous Tank Police division. With aid of Al and her newly built mini-tank, Bonaparte, she wages war on Buaku and his cohorts, the Puma Sisters. \n\n(Source: ANN)"""
-animeRelated	[b'Dominion', b'New Dominion Tank Police', b'TANK S.W.A.T. 01']
-animeCharacters	[b'Ozaki, Leona', b'Annapuma', b'Brenten, Charles', b'Unipuma', b'Buaku', b'Chief of Police', b'Mohikan', b'Megane', b'Alc Ad Solte', b'Shinpu']
-animeVoices	[b'\nTsuru, Hiromi\nJapanese\n', b'\nMita, Yuuko\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nYanami, Jouji\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nTotani, Kouji\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nOokura, Masaaki\nJapanese\n', b'\nIshimori, Takkou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMashimo, Kouichi\n\nDirector, Script\n\n', b'\nIshiyama, Takaaki\n\nDirector\n\n', b'\nNakazaki, Hideya\n\nTheme Song Composition, Theme Song Arrangement\n\n', b'\nShirow, Masamune\n\nOriginal Creator\n\n']
+animePopularity	4561
+animeDescription	"Leona Ozaki joins Newport City's infamous Tank Police division. With aid of Al and her newly built mini-tank, Bonaparte, she wages war on Buaku and his cohorts, the Puma Sisters. 
+
+(Source: ANN)"
+animeRelated	['Dominion', 'New Dominion Tank Police', 'TANK S.W.A.T. 01']
+animeCharacters	['Ozaki, Leona', 'Annapuma', 'Brenten, Charles', 'Unipuma', 'Buaku', 'Chief of Police', 'Mohikan', 'Megane', 'Alc Ad Solte', 'Shinpu']
+animeVoices	['Tsuru, Hiromi', 'Mita, Yuuko', 'Yara, Yuusaku', 'Tomizawa, Michie', 'Yanami, Jouji', 'Nagai, Ichiro', 'Totani, Kouji', 'Chiba, Shigeru', 'Ookura, Masaaki', 'Ishimori, Takkou']
+animeStaff	[['Mashimo, Kouichi', 'Director, Script'], ['Ishiyama, Takaaki', 'Director'], ['Nakazaki, Hideya', 'Theme Song Composition, Theme Song Arrangement'], ['Shirow, Masamune', 'Original Creator']]

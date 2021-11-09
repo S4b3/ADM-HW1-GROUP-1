@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon: Pika Pika Hoshizora Camp'
-animeType	b'Movie'
+animeTitle	Pokemon: Pika Pika Hoshizora Camp
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.51
 animeUsers	8787
 animeRank	
-animePopularity	
-animeDescription	b'Pikachu and some of the other pokemon camp out in the woods and help the Pichu brothers get on the train.'
-animeRelated	[b'Pokemon', b'Pokemon Movie 05: Mizu no Miyako no Mamorigami Latias to Latios']
-animeCharacters	[b'Pikachu', b'Nyarth', b'Togepi', b'Soonansu', b'Narrator', b'Waninoko', b'Hinoarashi', b'Yomawaru', b'Usokki', b'Sonnano']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nNishimura, Chinami\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nMomoi, Haruko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n', b'\nSugimori, Ken\n\nOriginal Character Design\n\n', b'\nKahn, Alfred R.\n\nExecutive Producer\n\n']
+animePopularity	4286
+animeDescription	Pikachu and some of the other pokemon camp out in the woods and help the Pichu brothers get on the train.
+animeRelated	['Pokemon', 'Pokemon Movie 05: Mizu no Miyako no Mamorigami Latias to Latios']
+animeCharacters	['Pikachu', 'Nyarth', 'Togepi', 'Soonansu', 'Narrator', 'Waninoko', 'Hinoarashi', 'Yomawaru', 'Usokki', 'Sonnano']
+animeVoices	['Ootani, Ikue', 'Inuyama, Inuko', 'Ueda, Yuuji', 'Nishimura, Chinami', 'Tobita, Nobuo', 'Fujiwara, Keiji', 'Momoi, Haruko']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design'], ['Kahn, Alfred R.', 'Executive Producer']]

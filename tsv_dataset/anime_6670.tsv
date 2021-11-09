@@ -1,5 +1,5 @@
-animeTitle	b'FLCL Progressive'
-animeType	b'Movie'
+animeTitle	FLCL Progressive
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.4
 animeUsers	31210
 animeRank	
-animePopularity	
-animeDescription	"b""Hidomi Hibajiri is a dissilusioned young girl who never takes off her headphones. Her whole life consists of going to school, helping out at her mother's cafe, and listening to music. And with nothing else to break the crippling monotony, she keeps her headphones on at all times. That is, until she is run over by a mysterious guitar-wielding woman.\n\nThat same night, a robot barges into Hidomi\xe2\x80\x99s room along with a boy from her class, Ko Ide, and the kids are chased around town together. They're saved by the guitar-wielding woman from before, but now Hidomi's got a horn growing from her forehead? Who knows where these robots are coming from, what kind of vespa woman this weird guitar woman is warning her about, or what this thing on her forehead is, but it doesn't look like Hidomi is going to be able to ignore all this with headphones!\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'FLCL', b'FLCL Alternative']
-animeCharacters	[b'Haruhara, Haruko', b'Hibajiri, Hidomi', b'Jinyu, Julia', b'Canti', b'Ide, Kou', b'Nogata, Marco', b'Mori, Gorou']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nNakazawa, Masatomo\nJapanese\n', b'\nMuranaka, Tomo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIbata, Yoshihide\n\nCo-Director\n\n', b'\nTerashima-Furuta, Maki\n\nProducer\n\n', b'\nOgawa, Yuuki\n\nDirector\n\n', b'\nIkehata, Hiroshi\n\nDirector, Episode Director, Storyboard\n\n']
+animePopularity	1445
+animeDescription	"Hidomi Hibajiri is a dissilusioned young girl who never takes off her headphones. Her whole life consists of going to school, helping out at her mother's cafe, and listening to music. And with nothing else to break the crippling monotony, she keeps her headphones on at all times. That is, until she is run over by a mysterious guitar-wielding woman.
+
+That same night, a robot barges into Hidomi’s room along with a boy from her class, Ko Ide, and the kids are chased around town together. They're saved by the guitar-wielding woman from before, but now Hidomi's got a horn growing from her forehead? Who knows where these robots are coming from, what kind of vespa woman this weird guitar woman is warning her about, or what this thing on her forehead is, but it doesn't look like Hidomi is going to be able to ignore all this with headphones!
+
+[Written by MAL Rewrite]"
+animeRelated	['FLCL', 'FLCL Alternative']
+animeCharacters	['Haruhara, Haruko', 'Hibajiri, Hidomi', 'Jinyu, Julia', 'Canti', 'Ide, Kou', 'Nogata, Marco', 'Mori, Gorou']
+animeVoices	['Hayashibara, Megumi', 'Minase, Inori', 'Sawashiro, Miyuki', 'Fukuyama, Jun', 'Nakazawa, Masatomo', 'Muranaka, Tomo']
+animeStaff	[['Ibata, Yoshihide', 'Co-Director'], ['Terashima-Furuta, Maki', 'Producer'], ['Ogawa, Yuuki', 'Director'], ['Ikehata, Hiroshi', 'Director, Episode Director, Storyboard']]

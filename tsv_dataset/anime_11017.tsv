@@ -1,4 +1,4 @@
-animeTitle	b'Hello Again, JoJo'
+animeTitle	Hello Again, JoJo
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.25
 animeUsers	156
 animeRank	
-animePopularity	
-animeDescription	"b""Music video for the song Hello Again, JoJo by Ayaka Hirahara that was featured on NHK's Minna no Uta program. The video was animated by Hans Bacher and Polygon Pictures."""
+animePopularity	14440
+animeDescription	Music video for the song Hello Again, JoJo by Ayaka Hirahara that was featured on NHK's Minna no Uta program. The video was animated by Hans Bacher and Polygon Pictures.
 animeRelated	[]
-animeCharacters	[b'JoJo']
+animeCharacters	['JoJo']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirahara, Ayaka\n\nTheme Song Performance\n\n', b'\nSawada, Kan\n\nTheme Song Composition\n\n']
+animeStaff	[['Hirahara, Ayaka', 'Theme Song Performance'], ['Sawada, Kan', 'Theme Song Composition']]

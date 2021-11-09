@@ -1,4 +1,4 @@
-animeTitle	b'CLAMP in Wonderland'
+animeTitle	CLAMP in Wonderland
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.85
 animeUsers	9373
 animeRank	
-animePopularity	
-animeDescription	"b""A short video set to music featuring many of CLAMP's most popular anime and manga characters (at the time of its production). The accompanying song tells of a Wonderland filled with imagination, magic, and dreams.\n\n(Source: ANN)"""
-animeRelated	[b'CLAMP in Wonderland 2']
-animeCharacters	[b'Sumeragi, Subaru', b'Shirou, Kamui', b'Sakurazuka, Seishirou', b'Shidou, Hikaru', b'Arisugawa, Sorata', b'Ryuuzaki, Umi', b'Hououji, Fuu', b'Kishu, Arashi', b'Sumeragi, Hokuto', b'Ashura']
+animePopularity	4372
+animeDescription	"A short video set to music featuring many of CLAMP's most popular anime and manga characters (at the time of its production). The accompanying song tells of a Wonderland filled with imagination, magic, and dreams.
+
+(Source: ANN)"
+animeRelated	['CLAMP in Wonderland 2']
+animeCharacters	['Sumeragi, Subaru', 'Shirou, Kamui', 'Sakurazuka, Seishirou', 'Shidou, Hikaru', 'Arisugawa, Sorata', 'Ryuuzaki, Umi', 'Hououji, Fuu', 'Kishu, Arashi', 'Sumeragi, Hokuto', 'Ashura']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nCLAMP\n\nDirector, Original Creator\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nTakahashi, Kumiko\n\nAnimation Director, Character Design\n\n', b'\nAshino, Yoshiharu\n\nKey Animation\n\n']
+animeStaff	[['CLAMP', 'Director, Original Creator'], ['Tsuruoka, Youta', 'Sound Director'], ['Takahashi, Kumiko', 'Animation Director, Character Design'], ['Ashino, Yoshiharu', 'Key Animation']]

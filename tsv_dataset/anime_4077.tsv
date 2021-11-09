@@ -1,5 +1,5 @@
-animeTitle	b'Hellsing: Psalm of the Darkness'
-animeType	b'Special'
+animeTitle	Hellsing: Psalm of the Darkness
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.93
 animeUsers	9683
 animeRank	
-animePopularity	
-animeDescription	b'Special that can be found on DVD. Contains animation not reused in the TV series.'
-animeRelated	[b'Hellsing']
-animeCharacters	[b'Alucard', b'Victoria, Seras', b'Fairbrook Wingates Hellsing, Integra', b'Anderson, Alexander', b'Dornez, Walter C.', b'Major', b'Shousa', b'Valentine, Jan', b'Maxwell, Enrico', b'Valentine, Luke']
-animeVoices	[b'\nNakata, Jouji\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n', b'\nNozawa, Nachi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHirano, Kouta\n\nOriginal Creator\n\n']
+animePopularity	3386
+animeDescription	Special that can be found on DVD. Contains animation not reused in the TV series.
+animeRelated	['Hellsing']
+animeCharacters	['Alucard', 'Victoria, Seras', 'Fairbrook Wingates Hellsing, Integra', 'Anderson, Alexander', 'Dornez, Walter C.', 'Major', 'Shousa', 'Valentine, Jan', 'Maxwell, Enrico', 'Valentine, Luke']
+animeVoices	['Nakata, Jouji', 'Sakakibara, Yoshiko', 'Nozawa, Nachi']
+animeStaff	[['Hirano, Kouta', 'Original Creator']]

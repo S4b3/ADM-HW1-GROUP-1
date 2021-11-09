@@ -1,5 +1,5 @@
-animeTitle	b'Tatakae! Osper'
-animeType	b'TV'
+animeTitle	Tatakae! Osper
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'On a distant world, people with paranormal powers battle each other.\n\nBased on a story by Yamano Kouichi.\n\n(Source: AniDB)'
+animePopularity	13990
+animeDescription	"On a distant world, people with paranormal powers battle each other.
+
+Based on a story by Yamano Kouichi.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Osper', b'Kaizu, Yumi']
-animeVoices	[b'\nYamamoto, Keiko\nJapanese\n', b'\nTama, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTomino, Yoshiyuki\n\nEpisode Director\n\n', b'\nOkaseko, Nobuhiro\n\nEpisode Director\n\n', b'\nYamano, Kouichi\n\nOriginal Creator, Screenplay\n\n']
+animeCharacters	['Osper', 'Kaizu, Yumi']
+animeVoices	['Yamamoto, Keiko', 'Tama, Megumi']
+animeStaff	[['Tomino, Yoshiyuki', 'Episode Director'], ['Okaseko, Nobuhiro', 'Episode Director'], ['Yamano, Kouichi', 'Original Creator, Screenplay']]

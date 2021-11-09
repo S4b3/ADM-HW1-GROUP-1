@@ -1,5 +1,5 @@
-animeTitle	b'Ice'
-animeType	b'OVA'
+animeTitle	Ice
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,18 @@ animeNumMembers
 animeScore	5.31
 animeUsers	3289
 animeRank	
-animePopularity	
-animeDescription	"b'By A.D. 2010, all men have died off quickly due to a dramatic change in the environment and an unknown contaminant. The population decreased to the lowest number ever seen...until only the women were left alive.\n\nThey live huddled in small corners of a world mostly reclaimed by nature.\nThere are those who accept their inevitable extinction and live a carefree life...\nThere are those who try to continue on the race with the help of science...\nIt is a society of constant conflict over their differences of principles and policies.\n\nThe story takes place in the center of Tokyo. It is one of the places left for them. The conflict over the specimen of ""ICE"" and the chance it may provide to save humanity begins. \n\n(Source: AnimeNfo)'"
-animeRelated	[b'Ice Movie']
-animeCharacters	[b'Landsknecht, Hitomi', b'Kisaragi', b'Ice-T, Yuki', b'Aida, Makoto', b'Julia', b'Mint', b'Satsuki', b'Murasaki']
-animeVoices	[b'\nMinagawa, Junko\nJapanese\n', b'\nOotori, Yoshino\nJapanese\n', b'\nOno, Erena\nJapanese\n', b'\nKoizumi, Yutaka\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nMamiya, Kurumi\nJapanese\n', b'\nSatou, Natsuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nInoue, Hiroaki\n\nProducer\n\n', b'\nKobayashi, Makoto\n\nDirector, Art Director, Background Art\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nHirano, Yasushi\n\nScript\n\n']
+animePopularity	5844
+animeDescription	"By A.D. 2010, all men have died off quickly due to a dramatic change in the environment and an unknown contaminant. The population decreased to the lowest number ever seen...until only the women were left alive.
+
+They live huddled in small corners of a world mostly reclaimed by nature.
+There are those who accept their inevitable extinction and live a carefree life...
+There are those who try to continue on the race with the help of science...
+It is a society of constant conflict over their differences of principles and policies.
+
+The story takes place in the center of Tokyo. It is one of the places left for them. The conflict over the specimen of ""ICE"" and the chance it may provide to save humanity begins. 
+
+(Source: AnimeNfo)"
+animeRelated	['Ice Movie']
+animeCharacters	['Landsknecht, Hitomi', 'Kisaragi', 'Ice-T, Yuki', 'Aida, Makoto', 'Julia', 'Mint', 'Satsuki', 'Murasaki']
+animeVoices	['Minagawa, Junko', 'Ootori, Yoshino', 'Ono, Erena', 'Koizumi, Yutaka', 'Ishida, Akira', 'Kitamura, Eri', 'Mamiya, Kurumi', 'Satou, Natsuki']
+animeStaff	[['Inoue, Hiroaki', 'Producer'], ['Kobayashi, Makoto', 'Director, Art Director, Background Art'], ['Tsuruoka, Youta', 'Sound Director'], ['Hirano, Yasushi', 'Script']]

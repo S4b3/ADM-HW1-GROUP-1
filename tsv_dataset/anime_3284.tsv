@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars'
-animeType	b'Movie'
+animeTitle	Mobile Suit Zeta Gundam: A New Translation III - Love Is the Pulse of the Stars
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.11
 animeUsers	4542
 animeRank	
-animePopularity	
-animeDescription	b'Final of three remastered Zeta Gundam compilation movies.\n\n(Source: AniDB)'
-animeRelated	[b'Mobile Suit Zeta Gundam', b'Mobile Suit Zeta Gundam: A New Translation II - Lovers']
-animeCharacters	[b'Aznable, Char', b'Bidan, Kamille', b'Ray, Amuro', b'Karn, Haman', b'Noa, Bright', b'Mass, Sayla', b'Shiden, Kai', b'Sheen, Emma', b'Yuiry, Fa', b'Scirocco, Paptimus']
-animeVoices	[b'\nIkeda, Shuuichi\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nInoue, You\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nOkamoto, Maya\nJapanese\n', b'\nArai, Satomi\nJapanese\n', b'\nShimada, Bin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatate, Hajime\n\nProducer, Original Creator\n\n', b'\nTomino, Yoshiyuki\n\nDirector, Script, Storyboard, Original Creator\n\n', b'\nGACKT\n\nTheme Song Performance\n\n', b'\nYasuhiko, Yoshikazu\n\nCharacter Design\n\n']
+animePopularity	5345
+animeDescription	"Final of three remastered Zeta Gundam compilation movies.
+
+(Source: AniDB)"
+animeRelated	['Mobile Suit Zeta Gundam', 'Mobile Suit Zeta Gundam: A New Translation II - Lovers']
+animeCharacters	['Aznable, Char', 'Bidan, Kamille', 'Ray, Amuro', 'Karn, Haman', 'Noa, Bright', 'Mass, Sayla', 'Shiden, Kai', 'Sheen, Emma', 'Yuiry, Fa', 'Scirocco, Paptimus']
+animeVoices	['Ikeda, Shuuichi', 'Tobita, Nobuo', 'Furuya, Toru', 'Sakakibara, Yoshiko', 'Suzuoki, Hirotaka', 'Inoue, You', 'Furukawa, Toshio', 'Okamoto, Maya', 'Arai, Satomi', 'Shimada, Bin']
+animeStaff	[['Yatate, Hajime', 'Producer, Original Creator'], ['Tomino, Yoshiyuki', 'Director, Script, Storyboard, Original Creator'], ['GACKT', 'Theme Song Performance'], ['Yasuhiko, Yoshikazu', 'Character Design']]

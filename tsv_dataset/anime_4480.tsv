@@ -1,5 +1,5 @@
-animeTitle	b'X OVA'
-animeType	b'OVA'
+animeTitle	X OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.83
 animeUsers	5641
 animeRank	
-animePopularity	
-animeDescription	"b'In this prequel to the ""X"" TV series, a beautiful, young, bedridden dreamgazer named Kakyou remembers the life and death of a remarkable young woman whom he met in dreams. He also recounts his dreams of a tragic future in which the fate of the Earth will be decided.\n\n(Source: ANN)'"
-animeRelated	[b'X', b'Tokyo Babylon']
-animeCharacters	[b'Shirou, Kamui', b'Monou, Fuuma', b'Sumeragi, Hokuto', b'Kuzuki, Kakyo', b'Sumeragi, Subaru', b'Sakurazuka, Seishirou', b'Arisugawa, Sorata', b'Kishu, Arashi', b'Kasumi, Karen', b'Monou, Kotori']
-animeVoices	[b'\nSuzumura, Kenichi\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nKawano, Otoya\nJapanese\n', b'\nMadono, Mitsuaki\nJapanese\n', b'\nYuzuki, Ryouka\nJapanese\n', b'\nSoumi, Youko\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaruyama, Masao\n\nProducer\n\n', b'\nKawajiri, Yoshiaki\n\nDirector, Script, Storyboard\n\n', b'\nCLAMP\n\nOriginal Creator\n\n', b'\nSatou, Naoki\n\nMusic\n\n']
+animePopularity	4978
+animeDescription	"In this prequel to the ""X"" TV series, a beautiful, young, bedridden dreamgazer named Kakyou remembers the life and death of a remarkable young woman whom he met in dreams. He also recounts his dreams of a tragic future in which the fate of the Earth will be decided.
+
+(Source: ANN)"
+animeRelated	['X', 'Tokyo Babylon']
+animeCharacters	['Shirou, Kamui', 'Monou, Fuuma', 'Sumeragi, Hokuto', 'Kuzuki, Kakyo', 'Sumeragi, Subaru', 'Sakurazuka, Seishirou', 'Arisugawa, Sorata', 'Kishu, Arashi', 'Kasumi, Karen', 'Monou, Kotori']
+animeVoices	['Suzumura, Kenichi', 'Suwabe, Junichi', 'Yukino, Satsuki', 'Ueda, Yuuji', 'Sugita, Tomokazu', 'Kawano, Otoya', 'Madono, Mitsuaki', 'Yuzuki, Ryouka', 'Soumi, Youko', 'Noto, Mamiko']
+animeStaff	[['Maruyama, Masao', 'Producer'], ['Kawajiri, Yoshiaki', 'Director, Script, Storyboard'], ['CLAMP', 'Original Creator'], ['Satou, Naoki', 'Music']]

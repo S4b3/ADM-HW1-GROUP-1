@@ -1,5 +1,5 @@
-animeTitle	b'Kyojin no Hoshi: Dai League Ball'
-animeType	b'Movie'
+animeTitle	Kyojin no Hoshi: Dai League Ball
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Third Kyojin no Hoshi movie.'
-animeRelated	[b'Kyojin no Hoshi']
-animeCharacters	[b'Hoshi, Hyuuma']
+animePopularity	13798
+animeDescription	Third Kyojin no Hoshi movie.
+animeRelated	['Kyojin no Hoshi']
+animeCharacters	['Hoshi, Hyuuma']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagahama, Tadao\n\nEpisode Director\n\n', b'\nTsuji, Masaki\n\nScript, Screenplay\n\n', b'\nKajiwara, Ikki\n\nOriginal Creator\n\n', b'\nWatanabe, Takeo\n\nMusic\n\n']
+animeStaff	[['Nagahama, Tadao', 'Episode Director'], ['Tsuji, Masaki', 'Script, Screenplay'], ['Kajiwara, Ikki', 'Original Creator'], ['Watanabe, Takeo', 'Music']]

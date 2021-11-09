@@ -1,5 +1,5 @@
-animeTitle	b'New Dominion Tank Police'
-animeType	b'OVA'
+animeTitle	New Dominion Tank Police
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.92
 animeUsers	4079
 animeRank	
-animePopularity	
-animeDescription	"b""In the follow up to Shirow's classic anime, Al, Leona and their trusty steed, Bonaparte, continue to fight crime in New Port City, alongside the rest of the Tank Police. But a new threat appears in the form of a series of terrorist attacks, using the latest weapons technology. The Tank Police are out-numbered and out-gunned, but Al and Leona set out to discover who or what is behind these attacks. With massive explosions and high-speed chases, Leona often causes more damage than the criminals she pursues.\n\n(Source: ANN)"""
-animeRelated	[b'Dominion', b'TANK S.W.A.T. 01']
-animeCharacters	[b'Ozaki, Leona', b'Annapuma', b'Brenten, Charles', b'Unipuma', b'M\xc3\xbcller, Vittorio', b'Megane', b'Shinpu', b'Alc Ad Solte']
-animeVoices	[b'\nSakuma, Rei\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nYara, Yuusaku\nJapanese\n', b'\nKumagaya, Nina\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nYanada, Kiyoyuki\nJapanese\n', b'\nShibamoto, Hiroyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFuruse, Noboru\n\nDirector, Character Design\n\n', b'\nYamaguchi, Hiroshi\n\nScript\n\n', b'\nShirow, Masamune\n\nOriginal Creator\n\n', b'\nNakazawa, Kazuto\n\nAnimation Director\n\n']
+animePopularity	5440
+animeDescription	"In the follow up to Shirow's classic anime, Al, Leona and their trusty steed, Bonaparte, continue to fight crime in New Port City, alongside the rest of the Tank Police. But a new threat appears in the form of a series of terrorist attacks, using the latest weapons technology. The Tank Police are out-numbered and out-gunned, but Al and Leona set out to discover who or what is behind these attacks. With massive explosions and high-speed chases, Leona often causes more damage than the criminals she pursues.
+
+(Source: ANN)"
+animeRelated	['Dominion', 'TANK S.W.A.T. 01']
+animeCharacters	['Ozaki, Leona', 'Annapuma', 'Brenten, Charles', 'Unipuma', 'Müller, Vittorio', 'Megane', 'Shinpu', 'Alc Ad Solte']
+animeVoices	['Sakuma, Rei', 'Hisakawa, Aya', 'Yara, Yuusaku', 'Kumagaya, Nina', 'Wakamoto, Norio', 'Chiba, Shigeru', 'Yanada, Kiyoyuki', 'Shibamoto, Hiroyuki']
+animeStaff	[['Furuse, Noboru', 'Director, Character Design'], ['Yamaguchi, Hiroshi', 'Script'], ['Shirow, Masamune', 'Original Creator'], ['Nakazawa, Kazuto', 'Animation Director']]

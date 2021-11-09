@@ -1,5 +1,5 @@
-animeTitle	b'Nekketsu Saikyou Go-Saurer'
-animeType	b'TV'
+animeTitle	Nekketsu Saikyou Go-Saurer
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.89
 animeUsers	227
 animeRank	
-animePopularity	
-animeDescription	"b""The Kikaika (literally mechanization) Empire invades our solar system, and in a matter of moments they take over and convert Neptune, Uranus, Saturn, Jupiter,and Mars, and set their sights on Earth. However, one thing stands in their way. Earth's ancient protector and soldier of light, Eldoran. To fight this menace he gifts a 5th-grade class with 3 huge robotic dinosaurs, with the power to merge and form the giant robot Gosaurer, which they then can pilot and use to stop the Kikaika Empire's advances.\n\n(Source: ANN)"""
-animeRelated	[b'Zettai Muteki Raijin-Oh', b'Genki Bakuhatsu Ganbaruger']
-animeCharacters	[b'Minezaki, Kenichi', b'Asaoka, Shinobu', b'Tachibana, Hiromi', b'Eldran', b'Yamamoto, Harue', b'Tanabe, Kumiko', b'Sato, Akemi', b'Sato, Harumi', b'Nakajima, Tatsuo', b'Ooyama, Ikuyo']
-animeVoices	[b'\nTakano, Urara\nJapanese\n', b'\nAmano, Yuri\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nShimada, Bin\nJapanese\n', b'\nShinohara, Akemi\nJapanese\n', b'\nTachibana, Mihoko\nJapanese\n', b'\nKobayashi, Michitaka\nJapanese\n', b'\nUemura, Noriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawase, Toshifumi\n\nDirector, Script, Storyboard, Series Composition\n\n', b'\nTaniguchi, Gorou\n\nEpisode Director, Storyboard\n\n', b'\nHidaka, Masamitsu\n\nEpisode Director, Storyboard\n\n', b'\nKimura, Shinichiro\n\nEpisode Director, Storyboard\n\n']
+animePopularity	10965
+animeDescription	"The Kikaika (literally mechanization) Empire invades our solar system, and in a matter of moments they take over and convert Neptune, Uranus, Saturn, Jupiter,and Mars, and set their sights on Earth. However, one thing stands in their way. Earth's ancient protector and soldier of light, Eldoran. To fight this menace he gifts a 5th-grade class with 3 huge robotic dinosaurs, with the power to merge and form the giant robot Gosaurer, which they then can pilot and use to stop the Kikaika Empire's advances.
+
+(Source: ANN)"
+animeRelated	['Zettai Muteki Raijin-Oh', 'Genki Bakuhatsu Ganbaruger']
+animeCharacters	['Minezaki, Kenichi', 'Asaoka, Shinobu', 'Tachibana, Hiromi', 'Eldran', 'Yamamoto, Harue', 'Tanabe, Kumiko', 'Sato, Akemi', 'Sato, Harumi', 'Nakajima, Tatsuo', 'Ooyama, Ikuyo']
+animeVoices	['Takano, Urara', 'Amano, Yuri', 'Hayashibara, Megumi', 'Shimada, Bin', 'Shinohara, Akemi', 'Tachibana, Mihoko', 'Kobayashi, Michitaka', 'Uemura, Noriko']
+animeStaff	[['Kawase, Toshifumi', 'Director, Script, Storyboard, Series Composition'], ['Taniguchi, Gorou', 'Episode Director, Storyboard'], ['Hidaka, Masamitsu', 'Episode Director, Storyboard'], ['Kimura, Shinichiro', 'Episode Director, Storyboard']]

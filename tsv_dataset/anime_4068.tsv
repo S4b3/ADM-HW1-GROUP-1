@@ -1,5 +1,5 @@
-animeTitle	b'Bakuten Shoot Beyblade G Revolution'
-animeType	b'TV'
+animeTitle	Bakuten Shoot Beyblade G Revolution
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.93
 animeUsers	26295
 animeRank	
-animePopularity	
-animeDescription	"b""After keeping their BitBeasts out of harm's way, a new world championship tournament is announced, but the defending champions can't all be on the same team. Their friendship will be tested and tried as each Bladebreaker goes on a quest to prove why they are the best Beyblader around. Tyson, Max, Ray, Kai, and newcomer Daichi, must keep up their winning ways...even if they must face each other. But, after the tournament is over, what awaits them is an old foe, Boris, taking over the BBA and transforming it into BEGA, the Beyblade Entertainment Global Association. To save Beybladers of the entire world from BEGA's corruption, the Bladebreakers must reunite once again...\n\n(Source: ANN)"""
-animeRelated	[b'Bakuten Shoot Beyblade 2002']
-animeCharacters	[b'Hiwatari, Kai', b'Kon, Rei', b'Kinomiya, Takao', b'Mizuhara, Max', b'Sumeragi, Daichi', b'Ivanov, Yuriy', b'Chou, Mao', b'Masefield, Brooklyn', b'Kuznetsov, Boris', b'Tachibana, Hiromi']
-animeVoices	[b'\nTakano, Urara\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nKumai, Motoko\nJapanese\n', b'\nOrikasa, Ai\nJapanese\n', b'\nNagasawa, Nao\nJapanese\n', b'\nMorita, Kiyu\nJapanese\n', b'\nKumagaya, Nina\nJapanese\n', b'\nHoshi, Souichirou\nJapanese\n', b'\nMizuta, Wasabi\nJapanese\n', b'\nKikuchi, Shiho\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawase, Toshifumi\n\nDirector\n\n', b'\nHashimoto, Mitsuo\n\nDirector\n\n', b'\nHayase, Hiroyuki\n\nSound Director\n\n', b'\nOdaka, Yoshinori\n\nStoryboard, Animation Director\n\n']
+animePopularity	2700
+animeDescription	"After keeping their BitBeasts out of harm's way, a new world championship tournament is announced, but the defending champions can't all be on the same team. Their friendship will be tested and tried as each Bladebreaker goes on a quest to prove why they are the best Beyblader around. Tyson, Max, Ray, Kai, and newcomer Daichi, must keep up their winning ways...even if they must face each other. But, after the tournament is over, what awaits them is an old foe, Boris, taking over the BBA and transforming it into BEGA, the Beyblade Entertainment Global Association. To save Beybladers of the entire world from BEGA's corruption, the Bladebreakers must reunite once again...
+
+(Source: ANN)"
+animeRelated	['Bakuten Shoot Beyblade 2002']
+animeCharacters	['Hiwatari, Kai', 'Kon, Rei', 'Kinomiya, Takao', 'Mizuhara, Max', 'Sumeragi, Daichi', 'Ivanov, Yuriy', 'Chou, Mao', 'Masefield, Brooklyn', 'Kuznetsov, Boris', 'Tachibana, Hiromi']
+animeVoices	['Takano, Urara', 'Hisakawa, Aya', 'Kumai, Motoko', 'Orikasa, Ai', 'Nagasawa, Nao', 'Morita, Kiyu', 'Kumagaya, Nina', 'Hoshi, Souichirou', 'Mizuta, Wasabi', 'Kikuchi, Shiho']
+animeStaff	[['Kawase, Toshifumi', 'Director'], ['Hashimoto, Mitsuo', 'Director'], ['Hayase, Hiroyuki', 'Sound Director'], ['Odaka, Yoshinori', 'Storyboard, Animation Director']]

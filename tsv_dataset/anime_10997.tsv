@@ -1,5 +1,5 @@
-animeTitle	b'Osu'
-animeType	b'Movie'
+animeTitle	Osu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.26
 animeUsers	1887
 animeRank	
-animePopularity	
-animeDescription	"b""A cat just wants some alone time with his girl, but is interrupted by his stressed owner. Can't those stupid humans just keep things like relationships simple?"""
+animePopularity	8258
+animeDescription	A cat just wants some alone time with his girl, but is interrupted by his stressed owner. Can't those stupid humans just keep things like relationships simple?
 animeRelated	[]
-animeCharacters	[b'Male Cat']
+animeCharacters	['Male Cat']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Osamu\n\nDirector\n\n', b'\nYamamoto, Eiichi\n\nEpisode Director, Original Creator\n\n']
+animeStaff	[['Tezuka, Osamu', 'Director'], ['Yamamoto, Eiichi', 'Episode Director, Original Creator']]

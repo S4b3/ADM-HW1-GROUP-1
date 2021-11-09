@@ -1,5 +1,5 @@
-animeTitle	b'Ultraman'
-animeType	b'ONA'
+animeTitle	Ultraman
+animeType	ONA
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.7
 animeUsers	9596
 animeRank	
-animePopularity	
-animeDescription	"b""Fifty years ago, an extraterrestrial giant of light known as Ultraman saved the earth but vanished. Ultraman's human host, Shin Hayata, was left with no memory of his time as a hero. Hayata's young son, Shinjirou, is found to have been born with a more powerful and durable body than any normal human. The organization who aided Ultraman, the SSSP, reveals Hayata's past to him. His father then dons a power suit again, assuming the role of Ultraman once more.\n\nOne night, Shinjirou is attacked by an alien named Bemular and rescued by his father, who is severely injured in the battle. With dangerous aliens lurking in the city and Hayata out of commission, it falls to Shinjirou to pick up the torch. But in working with the SSSP as the new Ultraman, Shinjirou finds himself wondering how far is he willing to go to help people.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Ultraman', b'The\xe2\x98\x86Ultraman', b'Ultraman Season 2']
-animeCharacters	[b'Hayata, Shinjirou', b'Hayata, Shin', b'Moroboshi, Dan', b'Kurata', b'Jack', b'Adad', b'Endou, Yousuke', b'Ide, Mitsuhiro', b'Shiraishi', b'Bemlar']
-animeVoices	[b'\nKimura, Ryouhei\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nEguchi, Takuya\nJapanese\n', b'\nSekido, Hirokazu\nJapanese\n', b'\nTakeuchi, Ryouta\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nHanawa, Eiji\nJapanese\n', b'\nUo, Ken\nJapanese\n', b'\nShiraishi, Minoru\nJapanese\n', b'\nSoze, Kaiji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKamiyama, Kenji\n\nDirector\n\n', b'\nAramaki, Shinji\n\nDirector, Storyboard\n\n', b'\nSunayama, Kurasumi\n\nScript\n\n', b'\nHigaki, Ryou\n\nScript\n\n']
+animePopularity	3941
+animeDescription	"Fifty years ago, an extraterrestrial giant of light known as Ultraman saved the earth but vanished. Ultraman's human host, Shin Hayata, was left with no memory of his time as a hero. Hayata's young son, Shinjirou, is found to have been born with a more powerful and durable body than any normal human. The organization who aided Ultraman, the SSSP, reveals Hayata's past to him. His father then dons a power suit again, assuming the role of Ultraman once more.
+
+One night, Shinjirou is attacked by an alien named Bemular and rescued by his father, who is severely injured in the battle. With dangerous aliens lurking in the city and Hayata out of commission, it falls to Shinjirou to pick up the torch. But in working with the SSSP as the new Ultraman, Shinjirou finds himself wondering how far is he willing to go to help people.
+
+[Written by MAL Rewrite]"
+animeRelated	['Ultraman', 'The☆Ultraman', 'Ultraman Season 2']
+animeCharacters	['Hayata, Shinjirou', 'Hayata, Shin', 'Moroboshi, Dan', 'Kurata', 'Jack', 'Adad', 'Endou, Yousuke', 'Ide, Mitsuhiro', 'Shiraishi', 'Bemlar']
+animeVoices	['Kimura, Ryouhei', 'Tanaka, Hideyuki', 'Eguchi, Takuya', 'Sekido, Hirokazu', 'Takeuchi, Ryouta', 'Tsuda, Kenjirou', 'Hanawa, Eiji', 'Uo, Ken', 'Shiraishi, Minoru', 'Soze, Kaiji']
+animeStaff	[['Kamiyama, Kenji', 'Director'], ['Aramaki, Shinji', 'Director, Storyboard'], ['Sunayama, Kurasumi', 'Script'], ['Higaki, Ryou', 'Script']]

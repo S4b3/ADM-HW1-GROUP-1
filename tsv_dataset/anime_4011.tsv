@@ -1,5 +1,5 @@
-animeTitle	b'Buki yo Saraba'
-animeType	b'Movie'
+animeTitle	Buki yo Saraba
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.94
 animeUsers	3901
 animeRank	
-animePopularity	
-animeDescription	"b""Based on a story by Otomo (Katsuhiro), it's about a ragtag group of hard-talkin', power suit-wearin' men tasked with disarming automatic tanks in a post-apocalyptic Tokyo.\n\n(Source: Crunchyroll)"""
-animeRelated	[b'Kanojo no Omoide...', b'Hi no Youjin', b'Tsukumo', b'Gambo', b'Short Peace Opening']
+animePopularity	5169
+animeDescription	"Based on a story by Otomo (Katsuhiro), it's about a ragtag group of hard-talkin', power suit-wearin' men tasked with disarming automatic tanks in a post-apocalyptic Tokyo.
+
+(Source: Crunchyroll)"
+animeRelated	['Kanojo no Omoide...', 'Hi no Youjin', 'Tsukumo', 'Gambo', 'Short Peace Opening']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

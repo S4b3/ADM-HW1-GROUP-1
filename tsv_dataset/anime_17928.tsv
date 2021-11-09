@@ -1,5 +1,5 @@
-animeTitle	b'First Love'
-animeType	b'OVA'
+animeTitle	First Love
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,20 @@ animeNumMembers
 animeScore	6.76
 animeUsers	2666
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the manga by Osuzu Akiomi.\n\nEpisode 1:\nThe story is about a brother Ani and his younger sister Kasumi who begin developing feelings towards one another.\n\nEpisode 2:\nIt's a love story of Sahara Satoshi and Aoba Chinatsudo walking to the same school.\n\nEpisode 3:\nIs the story of Makoto and Kouichi.\n\n(Source: AniDB)"""
-animeRelated	[b'First Love']
-animeCharacters	[b'Kasumi']
-animeVoices	[b'\nHitomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOsuzu, Akiomi\n\nOriginal Creator\n\n']
+animePopularity	5830
+animeDescription	"Based on the manga by Osuzu Akiomi.
+
+Episode 1:
+The story is about a brother Ani and his younger sister Kasumi who begin developing feelings towards one another.
+
+Episode 2:
+It's a love story of Sahara Satoshi and Aoba Chinatsudo walking to the same school.
+
+Episode 3:
+Is the story of Makoto and Kouichi.
+
+(Source: AniDB)"
+animeRelated	['First Love']
+animeCharacters	['Kasumi']
+animeVoices	['Hitomi']
+animeStaff	[['Osuzu, Akiomi', 'Original Creator']]

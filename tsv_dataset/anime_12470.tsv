@@ -1,5 +1,5 @@
-animeTitle	b'Nyamen'
-animeType	b'TV'
+animeTitle	Nyamen
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'CGI ramen bowls that look like cats but have the personalities of high school girls talk about every day life things that involve ramen. The opening and ending sequence features them as 2D anime cat-girls with naruto accessories even though they are not represented as such in the actual show.'
-animeRelated	[b'Nyamen: Tenkai Daiichi Joshi Koukou Bunka Matsuri Tokubetsu Eizou']
-animeCharacters	[b'Iekei', b'Niboshi', b'Tonkotsu', b'Shouyu', b'Shio', b'Miso', b'Kappu', b'Chanpon']
-animeVoices	[b'\nAiuchi, Sae\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nMori, Chisato\nJapanese\n', b'\nNomura, Mayuka\nJapanese\n', b'\nMatsuzaki, Rei\nJapanese\n', b'\nKobayashi, Miharu\nJapanese\n', b'\nFuruki, Nozomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTamura, Manabu\n\nProducer\n\n', b'\nUeno, Hiroyuki\n\nProducer\n\n', b'\nKitagawa, Katsutoshi\n\nTheme Song Lyrics, Theme Song Arrangement, Theme Song Composition, Music\n\n']
+animePopularity	10905
+animeDescription	CGI ramen bowls that look like cats but have the personalities of high school girls talk about every day life things that involve ramen. The opening and ending sequence features them as 2D anime cat-girls with naruto accessories even though they are not represented as such in the actual show.
+animeRelated	['Nyamen: Tenkai Daiichi Joshi Koukou Bunka Matsuri Tokubetsu Eizou']
+animeCharacters	['Iekei', 'Niboshi', 'Tonkotsu', 'Shouyu', 'Shio', 'Miso', 'Kappu', 'Chanpon']
+animeVoices	['Aiuchi, Sae', 'Nabatame, Hitomi', 'Mori, Chisato', 'Nomura, Mayuka', 'Matsuzaki, Rei', 'Kobayashi, Miharu', 'Furuki, Nozomi']
+animeStaff	[['Tamura, Manabu', 'Producer'], ['Ueno, Hiroyuki', 'Producer'], ['Kitagawa, Katsutoshi', 'Theme Song Lyrics, Theme Song Arrangement, Theme Song Composition, Music']]

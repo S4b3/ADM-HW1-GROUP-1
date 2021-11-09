@@ -1,5 +1,5 @@
-animeTitle	b'Kanata no Astra'
-animeType	b'TV'
+animeTitle	Kanata no Astra
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.12
 animeUsers	113002
 animeRank	
-animePopularity	
-animeDescription	"b""In the year 2063, space travel is feasible and commercially available. As the cheerful Aries Spring arrives at the spaceport to attend a camp on the distant planet McPa, her purse is suddenly snatched by a reckless thief. Luckily, the athletic Kanata Hoshijima is able to retrieve it for her, and Aries soon discovers that he is among the group of teenagers who will be traveling with her on the excursion as team B-5.\n\nUpon arriving at their campsite, the group's trip takes a turn for the worse when a strange sphere of black light sucks them into the vast reaches of outer space. Stranded with seemingly no hope, they find an abandoned ship nearby that provides them with the means to return home. However, they soon discover that they are not as close to their campsite as they initially thought, but are in fact thousands of light-years away from home.\n\nWith this realization, the nine members must cautiously manage their resources, maintain their strength, and unite as one to conquer the darkness of space together. While the reason behind their trip's sudden obstruction remains unknown, they nevertheless embark on the treacherous voyage back home aboard their new ship, the Astra.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kanata no Astra']
-animeCharacters	[b'Hoshijima, Kanata', b'Spring, Aries', b'Raffaeli, Quitterie', b'Esposito, Luca', b'Lacroix, Charce', b'Zweig, Ulgar', b'Lu, Yunhua', b'Walker, Zack', b'Raffaeli, Funicia', b'Seira']
-animeVoices	[b'\nHosoya, Yoshimasa\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nKurosawa, Tomoyo\nJapanese\n', b'\nMatsuda, Risae\nJapanese\n', b'\nShimazaki, Nobunaga\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nHayami, Saori\nJapanese\n', b'\nTakeuchi, Shunsuke\nJapanese\n', b'\nKino, Hina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHiga, Yuuji\n\nProducer\n\n', b'\nAndou, Masaomi\n\nDirector\n\n', b'\nIwahata, Gouichi\n\nStoryboard\n\n', b'\nnonoc\n\nTheme Song Performance\n\n']
+animePopularity	743
+animeDescription	"In the year 2063, space travel is feasible and commercially available. As the cheerful Aries Spring arrives at the spaceport to attend a camp on the distant planet McPa, her purse is suddenly snatched by a reckless thief. Luckily, the athletic Kanata Hoshijima is able to retrieve it for her, and Aries soon discovers that he is among the group of teenagers who will be traveling with her on the excursion as team B-5.
+
+Upon arriving at their campsite, the group's trip takes a turn for the worse when a strange sphere of black light sucks them into the vast reaches of outer space. Stranded with seemingly no hope, they find an abandoned ship nearby that provides them with the means to return home. However, they soon discover that they are not as close to their campsite as they initially thought, but are in fact thousands of light-years away from home.
+
+With this realization, the nine members must cautiously manage their resources, maintain their strength, and unite as one to conquer the darkness of space together. While the reason behind their trip's sudden obstruction remains unknown, they nevertheless embark on the treacherous voyage back home aboard their new ship, the Astra.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kanata no Astra']
+animeCharacters	['Hoshijima, Kanata', 'Spring, Aries', 'Raffaeli, Quitterie', 'Esposito, Luca', 'Lacroix, Charce', 'Zweig, Ulgar', 'Lu, Yunhua', 'Walker, Zack', 'Raffaeli, Funicia', 'Seira']
+animeVoices	['Hosoya, Yoshimasa', 'Minase, Inori', 'Kurosawa, Tomoyo', 'Matsuda, Risae', 'Shimazaki, Nobunaga', 'Uchiyama, Kouki', 'Hayami, Saori', 'Takeuchi, Shunsuke', 'Kino, Hina']
+animeStaff	[['Higa, Yuuji', 'Producer'], ['Andou, Masaomi', 'Director'], ['Iwahata, Gouichi', 'Storyboard'], ['nonoc', 'Theme Song Performance']]

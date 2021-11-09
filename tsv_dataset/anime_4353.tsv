@@ -1,5 +1,5 @@
-animeTitle	b'Kouya no Kotobuki Hikoutai'
-animeType	b'TV'
+animeTitle	Kouya no Kotobuki Hikoutai
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.86
 animeUsers	8112
 animeRank	
-animePopularity	
-animeDescription	"b""In a barren frontier where people trade goods with each other in order to help each other survive. The Kotobuki Squadron are bodyguards for hire, led by a strict but beautiful squadron leader, an unreliable commanding officer, and a true artisan of a crew chief. Alongside pilots who don't lack for personality, they take to the air in dogfights, letting the engine noise of their Hayabusa fighters ring out in the skies.\n\n(Source: ANN)"""
-animeRelated	[b'Kouya no Kotobuki Hikoutai', b'Kouya no Kotobuki Hikoutai Gaiden: Oozora no Harukaze Hikoutai', b'Kouya no Kotobuki Hikoutai Kanzenban']
-animeCharacters	[b'Kylie', b'Reona', b'Zara', b'Kate', b'Emma', b'Chika', b'Tamiru']
-animeVoices	[b'\nSuzushiro, Sayumi\nJapanese\n', b'\nSeto, Asami\nJapanese\n', b'\nYamamura, Hibiku\nJapanese\n', b'\nNakaya, Sayaka\nJapanese\n', b'\nYukimura, Eri\nJapanese\n', b'\nTomita, Miyu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMizushima, Tsutomu\n\nDirector, Sound Director, Storyboard\n\n', b'\nKanbe, Hiroyuki\n\nEpisode Director, Storyboard, Assistant Director, Animation Director\n\n', b'\nSaotome, Yuusaku\n\nEpisode Director\n\n', b'\nYoshino, Hiroyuki\n\nScript\n\n']
+animePopularity	3344
+animeDescription	"In a barren frontier where people trade goods with each other in order to help each other survive. The Kotobuki Squadron are bodyguards for hire, led by a strict but beautiful squadron leader, an unreliable commanding officer, and a true artisan of a crew chief. Alongside pilots who don't lack for personality, they take to the air in dogfights, letting the engine noise of their Hayabusa fighters ring out in the skies.
+
+(Source: ANN)"
+animeRelated	['Kouya no Kotobuki Hikoutai', 'Kouya no Kotobuki Hikoutai Gaiden: Oozora no Harukaze Hikoutai', 'Kouya no Kotobuki Hikoutai Kanzenban']
+animeCharacters	['Kylie', 'Reona', 'Zara', 'Kate', 'Emma', 'Chika', 'Tamiru']
+animeVoices	['Suzushiro, Sayumi', 'Seto, Asami', 'Yamamura, Hibiku', 'Nakaya, Sayaka', 'Yukimura, Eri', 'Tomita, Miyu']
+animeStaff	[['Mizushima, Tsutomu', 'Director, Sound Director, Storyboard'], ['Kanbe, Hiroyuki', 'Episode Director, Storyboard, Assistant Director, Animation Director'], ['Saotome, Yuusaku', 'Episode Director'], ['Yoshino, Hiroyuki', 'Script']]

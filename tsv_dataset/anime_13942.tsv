@@ -1,5 +1,5 @@
-animeTitle	b'Tropical-Rouge! Precure Movie: Yuki no Princess to Kiseki no Yubiwa!'
-animeType	b'Movie'
+animeTitle	Tropical-Rouge! Precure Movie: Yuki no Princess to Kiseki no Yubiwa!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'The story takes place in the wintry land of Shantia, with Manatsu and the others invited to the land by its princess Sharon. But as they arrive, a mysterious monster attacks Shantia, and it is closed off to outsiders.\n\n(Source: ANN)'
-animeRelated	[b'Tropical-Rouge! Precure']
-animeCharacters	[b'Laura', b'Suzumura, Sango', b'Natsumi, Manatsu', b'Takizawa, Asuka', b'Ichinose, Minori', b'Kurumi, Erika', b'Hanasaki, Tsubomi', b'Tsukikage, Yuri', b'Myoudouin, Itsuki', b'Kururun']
-animeVoices	[b'\nHidaka, Rina\nJapanese\n', b'\nHanamori, Yumiri\nJapanese\n', b'\nFairouz, Ai\nJapanese\n', b'\nSeto, Asami\nJapanese\n', b'\nIshikawa, Yui\nJapanese\n', b'\nMizusawa, Fumie\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nTanaka, Aimi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimizu, Junji\n\nDirector\n\n', b'\nToudou, Izumi\n\nOriginal Creator\n\n', b'\nNarita, Yoshimi\n\nScreenplay\n\n', b'\nTerada, Shiho\n\nMusic\n\n']
+animePopularity	11775
+animeDescription	"The story takes place in the wintry land of Shantia, with Manatsu and the others invited to the land by its princess Sharon. But as they arrive, a mysterious monster attacks Shantia, and it is closed off to outsiders.
+
+(Source: ANN)"
+animeRelated	['Tropical-Rouge! Precure']
+animeCharacters	['Laura', 'Suzumura, Sango', 'Natsumi, Manatsu', 'Takizawa, Asuka', 'Ichinose, Minori', 'Kurumi, Erika', 'Hanasaki, Tsubomi', 'Tsukikage, Yuri', 'Myoudouin, Itsuki', 'Kururun']
+animeVoices	['Hidaka, Rina', 'Hanamori, Yumiri', 'Fairouz, Ai', 'Seto, Asami', 'Ishikawa, Yui', 'Mizusawa, Fumie', 'Mizuki, Nana', 'Hisakawa, Aya', 'Kuwashima, Houko', 'Tanaka, Aimi']
+animeStaff	[['Shimizu, Junji', 'Director'], ['Toudou, Izumi', 'Original Creator'], ['Narita, Yoshimi', 'Screenplay'], ['Terada, Shiho', 'Music']]

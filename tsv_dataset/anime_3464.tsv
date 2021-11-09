@@ -1,5 +1,5 @@
-animeTitle	b'Urusei Yatsura Movie 1: Only You'
-animeType	b'Movie'
+animeTitle	Urusei Yatsura Movie 1: Only You
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	7.07
 animeUsers	3913
 animeRank	
-animePopularity	
-animeDescription	"b'Lum doesn\'t need much assistance going ballistic when everyone in Tomobiki gets an invitation to Ataru\'s wedding -- and she\'s not listed as the bride! It seems that some 11 years ago, Ataru played ""Shadow Tag"" with a young girl named Elle and won. Unfortunately, Elle was yet another Alien Princess; and on her planet, if a boy steps on a girl\'s shadow, they have to marry. \nWhen Elle\'s emissary comes to make arrangements, Lum redefines the term ""the atmosphere was electric,"" but to no avail: a force-field now protects Ataru from her high voltage love-zaps. Lum\'s friend Benten suggests a pre-emptive wedding, and they proceed to abduct Ataru and all of the wedding guests, and the stage is set for the shotgun wedding of all time!\n\n(Source: AniDB)'"
-animeRelated	[b'Urusei Yatsura']
-animeCharacters	[b'Lum', b'Moroboshi, Ataru', b'Mendo, Shutaro', b'de Rosenbach, Elle', b'Ran', b'Sakuranbou', b'Miyake, Shinobu', b'Satoshi', b'Sakura', b'Ten']
-animeVoices	[b'\nHirano, Fumi\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n', b'\nInoue, You\nJapanese\n', b'\nNagai, Ichiro\nJapanese\n', b'\nShimazu, Saeko\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n', b'\nWashio, Machiko\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOshii, Mamoru\n\nDirector\n\n', b'\nAnnou, Takashi\n\nEpisode Director\n\n', b'\nIto, Kazunori\n\nScript\n\n', b'\nTakahashi, Rumiko\n\nOriginal Creator\n\n']
+animePopularity	5716
+animeDescription	"Lum doesn't need much assistance going ballistic when everyone in Tomobiki gets an invitation to Ataru's wedding -- and she's not listed as the bride! It seems that some 11 years ago, Ataru played ""Shadow Tag"" with a young girl named Elle and won. Unfortunately, Elle was yet another Alien Princess; and on her planet, if a boy steps on a girl's shadow, they have to marry. 
+When Elle's emissary comes to make arrangements, Lum redefines the term ""the atmosphere was electric,"" but to no avail: a force-field now protects Ataru from her high voltage love-zaps. Lum's friend Benten suggests a pre-emptive wedding, and they proceed to abduct Ataru and all of the wedding guests, and the stage is set for the shotgun wedding of all time!
+
+(Source: AniDB)"
+animeRelated	['Urusei Yatsura']
+animeCharacters	['Lum', 'Moroboshi, Ataru', 'Mendo, Shutaro', 'de Rosenbach, Elle', 'Ran', 'Sakuranbou', 'Miyake, Shinobu', 'Satoshi', 'Sakura', 'Ten']
+animeVoices	['Hirano, Fumi', 'Furukawa, Toshio', 'Kamiya, Akira', 'Sakakibara, Yoshiko', 'Inoue, You', 'Nagai, Ichiro', 'Shimazu, Saeko', 'Chiba, Shigeru', 'Washio, Machiko', 'Sugiyama, Kazuko']
+animeStaff	[['Oshii, Mamoru', 'Director'], ['Annou, Takashi', 'Episode Director'], ['Ito, Kazunori', 'Script'], ['Takahashi, Rumiko', 'Original Creator']]

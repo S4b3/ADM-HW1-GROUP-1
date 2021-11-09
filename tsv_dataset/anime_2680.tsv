@@ -1,5 +1,5 @@
-animeTitle	b'Clannad Movie'
-animeType	b'Movie'
+animeTitle	Clannad Movie
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.24
 animeUsers	81556
 animeRank	
-animePopularity	
-animeDescription	"b""Tomoya Okazaki is a cynical delinquent who lacks ambition as he apathetically labors through high school. During his childhood, a tragedy had caused his father to seek solace in alcoholism and neglect his son. Yet, meaningful human interaction can be a benediction, as Tomoya learns when he meets the enigmatic Nagisa Furukawa. The odd girl offers a gesture of friendship to Tomoya, but he rejects the request, dismissing it as a trivial incident. However, as he soon realizes that he is encountering Nagisa more and more often during school, Tomoya drops his discompassions and befriends the girl.\n\nWhen he learns that Nagisa's dream is to revive the Drama Club, Tomoya decides to shed his detachment from the ordinary pleasures of life and dedicate himself to helping his new friend achieve her ambition. But what starts as a simple friendship may progress into something far more deep, intimate, and life-changing. As the pair face various hardships and afflictions, Tomoya and Nagisa gradually come to terms with the challenges of life.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Clannad', b'Clannad: After Story']
-animeCharacters	[b'Okazaki, Tomoya', b'Furukawa, Nagisa', b'Okazaki, Ushio', b'Sakagami, Tomoyo', b'Fujibayashi, Kyou', b'Furukawa, Akio', b'Ichinose, Kotomi', b'Sunohara, Youhei', b'Furukawa, Sanae', b'Yoshino, Yusuke']
-animeVoices	[b'\nNojima, Kenji\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nKoorogi, Satomi\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Osamu\n\nDirector, Storyboard\n\n', b'\nYamada, Chiaki\n\nSound Director\n\n', b'\neufonius\n\nTheme Song Performance\n\n', b'\nInomata, Yoshichika\n\nTheme Song Composition, Theme Song Arrangement, Music\n\n']
+animePopularity	1147
+animeDescription	"Tomoya Okazaki is a cynical delinquent who lacks ambition as he apathetically labors through high school. During his childhood, a tragedy had caused his father to seek solace in alcoholism and neglect his son. Yet, meaningful human interaction can be a benediction, as Tomoya learns when he meets the enigmatic Nagisa Furukawa. The odd girl offers a gesture of friendship to Tomoya, but he rejects the request, dismissing it as a trivial incident. However, as he soon realizes that he is encountering Nagisa more and more often during school, Tomoya drops his discompassions and befriends the girl.
+
+When he learns that Nagisa's dream is to revive the Drama Club, Tomoya decides to shed his detachment from the ordinary pleasures of life and dedicate himself to helping his new friend achieve her ambition. But what starts as a simple friendship may progress into something far more deep, intimate, and life-changing. As the pair face various hardships and afflictions, Tomoya and Nagisa gradually come to terms with the challenges of life.
+
+[Written by MAL Rewrite]"
+animeRelated	['Clannad', 'Clannad: After Story']
+animeCharacters	['Okazaki, Tomoya', 'Furukawa, Nagisa', 'Okazaki, Ushio', 'Sakagami, Tomoyo', 'Fujibayashi, Kyou', 'Furukawa, Akio', 'Ichinose, Kotomi', 'Sunohara, Youhei', 'Furukawa, Sanae', 'Yoshino, Yusuke']
+animeVoices	['Nojima, Kenji', 'Nakahara, Mai', 'Koorogi, Satomi', 'Kuwashima, Houko', 'Hirohashi, Ryou', 'Okiayu, Ryoutarou', 'Noto, Mamiko', 'Sakaguchi, Daisuke', 'Inoue, Kikuko', 'Midorikawa, Hikaru']
+animeStaff	[['Dezaki, Osamu', 'Director, Storyboard'], ['Yamada, Chiaki', 'Sound Director'], ['eufonius', 'Theme Song Performance'], ['Inomata, Yoshichika', 'Theme Song Composition, Theme Song Arrangement, Music']]

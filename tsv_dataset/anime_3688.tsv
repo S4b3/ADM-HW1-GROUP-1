@@ -1,5 +1,5 @@
-animeTitle	b'Jahy-sama wa Kujikenai!'
-animeType	b'TV'
+animeTitle	Jahy-sama wa Kujikenai!
+animeType	TV
 animeNumEpisode	20
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.03
 animeUsers	26229
 animeRank	
-animePopularity	
-animeDescription	"b""Once respected as the Demon Realm's second greatest authority, the Demon King's aide, Jahy, ruled her subjects with fear. But when a magical girl attacks and destroys a mystic gem containing massive power, the Demon Realm is destroyed.\n\nAlthough she survives, Jahy has lost almost all of her powers and finds herself stranded in the human world with a childlike appearance. In order to gather more mystic gems so that she can permanently restore both her original form and the Demon Realm, Jahy will have to adjust to her new life and deal with everyday problems that she has never experienced before. From working to pay for living expenses to arguing with her landlord whenever her rent is late, the great Jahy will not be discouraged!\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Jahy-sama wa Kujikenai!']
-animeCharacters	[b'Jahy', b'Store Manager', b'Druj', b'Salwa', b'Maou', b'Jinguu, Kyouko', b'Kokoro', b'Landlady', b'Elementary School Boy']
-animeVoices	[b'\nOozora, Naomi\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nOgura, Yui\nJapanese\n', b'\nHikasa, Youko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMinato, Mirai\n\nDirector\n\n', b'\nUesaka, Sumire\n\nTheme Song Performance\n\n', b'\nOgura, Yui\n\nTheme Song Performance\n\n', b'\nOkasaki, Miho\n\nTheme Song Performance\n\n']
+animePopularity	1093
+animeDescription	"Once respected as the Demon Realm's second greatest authority, the Demon King's aide, Jahy, ruled her subjects with fear. But when a magical girl attacks and destroys a mystic gem containing massive power, the Demon Realm is destroyed.
+
+Although she survives, Jahy has lost almost all of her powers and finds herself stranded in the human world with a childlike appearance. In order to gather more mystic gems so that she can permanently restore both her original form and the Demon Realm, Jahy will have to adjust to her new life and deal with everyday problems that she has never experienced before. From working to pay for living expenses to arguing with her landlord whenever her rent is late, the great Jahy will not be discouraged!
+
+[Written by MAL Rewrite]"
+animeRelated	['Jahy-sama wa Kujikenai!']
+animeCharacters	['Jahy', 'Store Manager', 'Druj', 'Salwa', 'Maou', 'Jinguu, Kyouko', 'Kokoro', 'Landlady', 'Elementary School Boy']
+animeVoices	['Oozora, Naomi', 'Kayano, Ai', 'Hanazawa, Kana', 'Komatsu, Mikako', 'Uesaka, Sumire', 'Ogura, Yui', 'Hikasa, Youko']
+animeStaff	[['Minato, Mirai', 'Director'], ['Uesaka, Sumire', 'Theme Song Performance'], ['Ogura, Yui', 'Theme Song Performance'], ['Okasaki, Miho', 'Theme Song Performance']]

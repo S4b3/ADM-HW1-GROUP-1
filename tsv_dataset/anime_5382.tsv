@@ -1,5 +1,5 @@
-animeTitle	b'Honoo no Tenkousei'
-animeType	b'OVA'
+animeTitle	Honoo no Tenkousei
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.64
 animeUsers	2666
 animeRank	
-animePopularity	
-animeDescription	b'Transfer student Takisawa Noboru quickly learns that all disputes at his new school are settled in the boxing ring. Now he finds himself in a series of showdowns with the local top dog, Ibuki Saburo, for the love and respect of the beautiful Yukari.\n\n(Source: ANN)'
-animeRelated	[b'Honoo no Tenkousei']
-animeCharacters	[b'Takizawa, Noboru', b'Ibuki, Saburo', b'Honoo, Moyuru', b'Jounouchi, Kouichi', b'Takamura, Yukari']
-animeVoices	[b'\nSeki, Toshihiko\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishijima, Katsuhiko\n\nDirector, Animation Director\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nAnno, Hideaki\n\nEpisode Director\n\n', b'\nOkada, Toshio\n\nScript, Screenplay, Planning\n\n']
+animePopularity	6595
+animeDescription	"Transfer student Takisawa Noboru quickly learns that all disputes at his new school are settled in the boxing ring. Now he finds himself in a series of showdowns with the local top dog, Ibuki Saburo, for the love and respect of the beautiful Yukari.
+
+(Source: ANN)"
+animeRelated	['Honoo no Tenkousei']
+animeCharacters	['Takizawa, Noboru', 'Ibuki, Saburo', 'Honoo, Moyuru', 'Jounouchi, Kouichi', 'Takamura, Yukari']
+animeVoices	['Seki, Toshihiko', 'Genda, Tesshou', 'Hayami, Show', 'Hidaka, Noriko']
+animeStaff	[['Nishijima, Katsuhiko', 'Director, Animation Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Anno, Hideaki', 'Episode Director'], ['Okada, Toshio', 'Script, Screenplay, Planning']]

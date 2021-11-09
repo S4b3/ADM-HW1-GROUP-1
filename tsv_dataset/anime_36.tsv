@@ -1,5 +1,5 @@
-animeTitle	b'Mushishi Zoku Shou 2nd Season'
-animeType	b'TV'
+animeTitle	Mushishi Zoku Shou 2nd Season
+animeType	TV
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	8.75
 animeUsers	86019
 animeRank	
-animePopularity	
-animeDescription	"b""Ghostly, primordial beings known as Mushi continue to cause mysterious changes in the lives of humans. The travelling Mushishi, Ginko, persists in trying to set right the strange and unsettling situations he encounters. Time loops, living shadows, and telepathy are among the overt effects of interference from Mushi, but more subtle symptoms that take years to be noticed also rouse Ginko's concern as he passes from village to village.\n\nThrough circumstance, Ginko has become an arbiter, determining which Mushi are blessings and which are curses. But the lines that he seeks to draw are subjective. Some of his patients would rather exercise their new powers until they are utterly consumed by them; others desperately strive to rid themselves of afflictions which are in fact protecting their lives from devastation. Those who cross paths with Mushi must learn to accept seemingly impossible consequences for their actions, and heal wounds they did not know they had. Otherwise, they risk meeting with fates beyond their comprehension.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Mushishi', b'Mushishi Zoku Shou', b'Mushishi Zoku Shou: Odoro no Michi', b'Mushishi Zoku Shou: Suzu no Shizuku']
-animeCharacters	[b'Ginko', b'Narrator', b'Shino', b'Kaoru', b'Akane', b'Izumi', b'Mikage', b'Youkichi', b'Suguro', b'Gen']
-animeVoices	[b'\nNakano, Yuto\nJapanese\n', b'\nDoi, Mika\nJapanese\n', b'\nKobashi, Megumi\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nMatsuura, Ayu\nJapanese\n', b'\nSuzuki, Reiko\nJapanese\n', b'\nNishimura, Tomomichi\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagahama, Hiroshi\n\nDirector, Script, Storyboard\n\n', b'\nRose, Lucy\n\nTheme Song Performance\n\n', b'\nUrushibara, Yuki\n\nOriginal Creator\n\n', b'\nMasuda, Toshio\n\nMusic\n\n']
+animePopularity	796
+animeDescription	"Ghostly, primordial beings known as Mushi continue to cause mysterious changes in the lives of humans. The travelling Mushishi, Ginko, persists in trying to set right the strange and unsettling situations he encounters. Time loops, living shadows, and telepathy are among the overt effects of interference from Mushi, but more subtle symptoms that take years to be noticed also rouse Ginko's concern as he passes from village to village.
+
+Through circumstance, Ginko has become an arbiter, determining which Mushi are blessings and which are curses. But the lines that he seeks to draw are subjective. Some of his patients would rather exercise their new powers until they are utterly consumed by them; others desperately strive to rid themselves of afflictions which are in fact protecting their lives from devastation. Those who cross paths with Mushi must learn to accept seemingly impossible consequences for their actions, and heal wounds they did not know they had. Otherwise, they risk meeting with fates beyond their comprehension.
+
+[Written by MAL Rewrite]"
+animeRelated	['Mushishi', 'Mushishi Zoku Shou', 'Mushishi Zoku Shou: Odoro no Michi', 'Mushishi Zoku Shou: Suzu no Shizuku']
+animeCharacters	['Ginko', 'Narrator', 'Shino', 'Kaoru', 'Akane', 'Izumi', 'Mikage', 'Youkichi', 'Suguro', 'Gen']
+animeVoices	['Nakano, Yuto', 'Doi, Mika', 'Kobashi, Megumi', 'Furukawa, Toshio', 'Matsuura, Ayu', 'Suzuki, Reiko', 'Nishimura, Tomomichi', 'Nakao, Ryusei']
+animeStaff	[['Nagahama, Hiroshi', 'Director, Script, Storyboard'], ['Rose, Lucy', 'Theme Song Performance'], ['Urushibara, Yuki', 'Original Creator'], ['Masuda, Toshio', 'Music']]

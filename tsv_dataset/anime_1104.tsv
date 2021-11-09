@@ -1,5 +1,5 @@
-animeTitle	b'Drifters: Special Edition'
-animeType	b'OVA'
+animeTitle	Drifters: Special Edition
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.68
 animeUsers	14100
 animeRank	
-animePopularity	
-animeDescription	b'Bundled with the fifth manga volume.'
-animeRelated	[b'Drifters']
-animeCharacters	[b'Shimazu, Toyohisa', b'Oda, Nobunaga', b'Nasu, Yoichi Suketaka', b'Olminu', b'Easy', b'Abe no, Haruakira', b'The Black King', b'Murasaki', b'Shara', b'Aram']
+animePopularity	3303
+animeDescription	Bundled with the fifth manga volume.
+animeRelated	['Drifters']
+animeCharacters	['Shimazu, Toyohisa', 'Oda, Nobunaga', 'Nasu, Yoichi Suketaka', 'Olminu', 'Easy', 'Abe no, Haruakira', 'The Black King', 'Murasaki', 'Shara', 'Aram']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nUeda, Yasuyuki\n\nProducer\n\n', b'\nHirano, Kouta\n\nOriginal Creator\n\n', b'\nKawabata, Erkin\n\nKey Animation, In-Between Animation\n\n']
+animeStaff	[['Ueda, Yasuyuki', 'Producer'], ['Hirano, Kouta', 'Original Creator'], ['Kawabata, Erkin', 'Key Animation, In-Between Animation']]

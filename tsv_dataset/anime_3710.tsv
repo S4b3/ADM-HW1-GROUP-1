@@ -1,5 +1,5 @@
-animeTitle	b'Galaxy Angel'
-animeType	b'TV'
+animeTitle	Galaxy Angel
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.02
 animeUsers	9745
 animeRank	
-animePopularity	
-animeDescription	"b""The Angel Brigade, an elite branch of the Transbaal Empire military, are assigned to search for The Lost Technology, mysterious items from the past that hold unknown powers. Led by the soon to retire Colonel Volcott O' Huey, the Angel Brigade travel to different planets using their specially designed Emblem Frame ships to search for Lost Technology. Unfortunately, they usually mess up somehow and end up getting into all kinds of weird and troublesome situations.\n\n(Source: ANN)"""
-animeRelated	[b'Galaxy Angel', b'Galaxy Angel: Haitaishi no Kikan', b'Galaxy Angel Z', b'Galaxy Angel 3', b'Galaxy Angel 4', b'Galaxy Angel 3 Specials', b'Galaxy Angel Music Collection: Shouen to Shien no Cassoulet', b'Galaxy Angel Specials', b'Galaxy Angel Rune']
-animeCharacters	"[b'Sakuraba, Milfeulle', b'Blancmanche, Mint', b'H, Vanilla', b'Stollen, Forte', b'Franboise, Ranpha', b'Normad', b""O'Huey, Volcott"", b'Gasteau', b'Patrick', b'Jonathan']"
-animeVoices	[b'\nShintani, Ryouko\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKanai, Mika\nJapanese\n', b'\nYamaguchi, Mayumi\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nYasumura, Makoto\nJapanese\n', b'\nSuyama, Akio\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSatomi, Tetsurou\n\nProducer\n\n', b'\nAsaka, Morio\n\nDirector, Storyboard\n\n', b'\nOohashi, Yoshimitsu\n\nDirector\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n']
+animePopularity	3566
+animeDescription	"The Angel Brigade, an elite branch of the Transbaal Empire military, are assigned to search for The Lost Technology, mysterious items from the past that hold unknown powers. Led by the soon to retire Colonel Volcott O' Huey, the Angel Brigade travel to different planets using their specially designed Emblem Frame ships to search for Lost Technology. Unfortunately, they usually mess up somehow and end up getting into all kinds of weird and troublesome situations.
+
+(Source: ANN)"
+animeRelated	['Galaxy Angel', 'Galaxy Angel: Haitaishi no Kikan', 'Galaxy Angel Z', 'Galaxy Angel 3', 'Galaxy Angel 4', 'Galaxy Angel 3 Specials', 'Galaxy Angel Music Collection: Shouen to Shien no Cassoulet', 'Galaxy Angel Specials', 'Galaxy Angel Rune']
+animeCharacters	"['Sakuraba, Milfeulle', 'Blancmanche, Mint', 'H, Vanilla', 'Stollen, Forte', 'Franboise, Ranpha', 'Normad', ""O'Huey, Volcott"", 'Gasteau', 'Patrick', 'Jonathan']"
+animeVoices	['Shintani, Ryouko', 'Sawashiro, Miyuki', 'Kanai, Mika', 'Yamaguchi, Mayumi', 'Tamura, Yukari', 'Fujiwara, Keiji', 'Yasumura, Makoto', 'Suyama, Akio', 'Yoshino, Hiroyuki']
+animeStaff	[['Satomi, Tetsurou', 'Producer'], ['Asaka, Morio', 'Director, Storyboard'], ['Oohashi, Yoshimitsu', 'Director'], ['Tanaka, Kazuya', 'Sound Director']]

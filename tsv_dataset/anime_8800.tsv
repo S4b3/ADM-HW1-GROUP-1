@@ -1,5 +1,5 @@
-animeTitle	b'Africa no Salaryman'
-animeType	b'ONA'
+animeTitle	Africa no Salaryman
+animeType	ONA
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.96
 animeUsers	358
 animeRank	
-animePopularity	
-animeDescription	b'The comedy manga follows a lion, toucan, and lizard as they live the lives of office workers in a capitalist society in Japan, while also dealing with their unique situations as animals living beyond the savanna and the food chain. \n\n(Source: ANN)'
-animeRelated	[b'Africa no Salaryman', b'Africa no Salaryman (TV)']
-animeCharacters	[b'Toucan', b'Lizard', b'Lion', b'Deadly Hamster', b'President Turtle']
+animePopularity	9793
+animeDescription	"The comedy manga follows a lion, toucan, and lizard as they live the lives of office workers in a capitalist society in Japan, while also dealing with their unique situations as animals living beyond the savanna and the food chain. 
+
+(Source: ANN)"
+animeRelated	['Africa no Salaryman', 'Africa no Salaryman (TV)']
+animeCharacters	['Toucan', 'Lizard', 'Lion', 'Deadly Hamster', 'President Turtle']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nGum\n\nOriginal Creator\n\n']
+animeStaff	[['Gum', 'Original Creator']]

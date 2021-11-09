@@ -1,5 +1,5 @@
-animeTitle	b'Bakugan: Battle Planet'
-animeType	b'TV'
+animeTitle	Bakugan: Battle Planet
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.48
 animeUsers	1652
 animeRank	
-animePopularity	
-animeDescription	"b'The series follows pre-teens Dan Kouzo, Shun Kazami, Wynton Styles, Lia Venegas, and their dog Lightning. They are known as the ""Awesome Ones"" and make videos on the website ViewTube. Eventually, they stumble across a race of battling biomechanical creatures called Bakugan. They soon befriend the Bakugan and begin to battle each other with them, all while defending their neighborhood from thugs who use the Bakugan for malicious purposes. \n\n(Source: Wikipedia)'"
-animeRelated	[b'Bakugan Battle Brawlers', b'Bakugan: Battle Planet Short Anime', b'Bakugan: Armored Alliance']
-animeCharacters	[b'Kouzo, Dan', b'Kazami, Shun', b'Venegas, Lia', b'Styles, Wynton', b'Black, Magnus', b'Lightning', b'Dusk, Benton', b'Riot, China', b'Kazami, Ichiro', b'Jenkins']
-animeVoices	[b'\nTakahashi, Rie\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nAkasaki, Chinatsu\nJapanese\n', b'\nFukushima, Jun\nJapanese\n', b'\nKajikawa, Shohei\nJapanese\n', b'\nKanada, Aki\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nVolcano Ota\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIchikawa, Kazuya\n\nDirector\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nMatsukawa, Tomohiro\n\nEpisode Director, Storyboard\n\n', b'\nShimizu, Akane\n\nEpisode Director, Storyboard\n\n']
+animePopularity	6871
+animeDescription	"The series follows pre-teens Dan Kouzo, Shun Kazami, Wynton Styles, Lia Venegas, and their dog Lightning. They are known as the ""Awesome Ones"" and make videos on the website ViewTube. Eventually, they stumble across a race of battling biomechanical creatures called Bakugan. They soon befriend the Bakugan and begin to battle each other with them, all while defending their neighborhood from thugs who use the Bakugan for malicious purposes. 
+
+(Source: Wikipedia)"
+animeRelated	['Bakugan Battle Brawlers', 'Bakugan: Battle Planet Short Anime', 'Bakugan: Armored Alliance']
+animeCharacters	['Kouzo, Dan', 'Kazami, Shun', 'Venegas, Lia', 'Styles, Wynton', 'Black, Magnus', 'Lightning', 'Dusk, Benton', 'Riot, China', 'Kazami, Ichiro', 'Jenkins']
+animeVoices	['Takahashi, Rie', 'Uchiyama, Yumi', 'Akasaki, Chinatsu', 'Fukushima, Jun', 'Kajikawa, Shohei', 'Kanada, Aki', 'Miki, Shinichiro', 'Volcano Ota']
+animeStaff	[['Ichikawa, Kazuya', 'Director'], ['Hata, Shouji', 'Sound Director'], ['Matsukawa, Tomohiro', 'Episode Director, Storyboard'], ['Shimizu, Akane', 'Episode Director, Storyboard']]

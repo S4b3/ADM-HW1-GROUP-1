@@ -1,5 +1,5 @@
-animeTitle	b'Teizokurei Daydream'
-animeType	b'OVA'
+animeTitle	Teizokurei Daydream
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.17
 animeUsers	3687
 animeRank	
-animePopularity	
-animeDescription	"b""Saiki Misaki has been able to see ghosts since she was a kid. Now, working at an S&M club, her spare time goes to sending the spirits off to the other world by having to make them realize they're dead and have to leave. This would supposedly be a little bit easier if you didnt have a background of hardship and loneliness... and a perverted employer.\n\n(Source: ANN)"""
-animeRelated	[b'Teizokurei Daydream']
-animeCharacters	[b'Saiki, Misaki', b'Kunugi, Ai', b'Kadotake, Souichiro', b'Ichinose', b'Fujiwara, Mitsuru', b'Shibata', b'Reporter Haruta', b'Otaguro', b'Koga', b'Yamazaki, Detective']
-animeVoices	[b'\nAsano, Masumi\nJapanese\n', b'\nTamura, Yukari\nJapanese\n', b'\nSugita, Tomokazu\nJapanese\n', b'\nIto, Mai\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nOgata, Mitsuru\nJapanese\n', b'\nHoshino, Mitsuaki\nJapanese\n', b'\nHouki, Katsuhisa\nJapanese\n', b'\nFutamata, Issei\nJapanese\n', b'\nKanao, Tetsuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSekita, Osamu\n\nDirector\n\n', b'\nTakahashi, Hideo\n\nSound Director\n\n', b'\nSayama, Kiyoko\n\nEpisode Director, Storyboard\n\n', b'\nNishimoto, Yukio\n\nEpisode Director, Storyboard\n\n']
+animePopularity	5474
+animeDescription	"Saiki Misaki has been able to see ghosts since she was a kid. Now, working at an S&M club, her spare time goes to sending the spirits off to the other world by having to make them realize they're dead and have to leave. This would supposedly be a little bit easier if you didnt have a background of hardship and loneliness... and a perverted employer.
+
+(Source: ANN)"
+animeRelated	['Teizokurei Daydream']
+animeCharacters	['Saiki, Misaki', 'Kunugi, Ai', 'Kadotake, Souichiro', 'Ichinose', 'Fujiwara, Mitsuru', 'Shibata', 'Reporter Haruta', 'Otaguro', 'Koga', 'Yamazaki, Detective']
+animeVoices	['Asano, Masumi', 'Tamura, Yukari', 'Sugita, Tomokazu', 'Ito, Mai', 'Kishio, Daisuke', 'Ogata, Mitsuru', 'Hoshino, Mitsuaki', 'Houki, Katsuhisa', 'Futamata, Issei', 'Kanao, Tetsuo']
+animeStaff	[['Sekita, Osamu', 'Director'], ['Takahashi, Hideo', 'Sound Director'], ['Sayama, Kiyoko', 'Episode Director, Storyboard'], ['Nishimoto, Yukio', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'K: Seven Stories Movie 2 - Side:Blue - Tenrou no Gotoku'
-animeType	b'Movie'
+animeTitle	K: Seven Stories Movie 2 - Side:Blue - Tenrou no Gotoku
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.3
 animeUsers	4997
 animeRank	
-animePopularity	
-animeDescription	b'Gouki Zenjo, former right-hand man to Jin Habari and a survivor of the Kagutsu Incident, returns to work for SCEPTER 4, now under the command of Reisi Munakata, the new Blue King.\n\n(Source: TubiTV)'
-animeRelated	[b'K Side:Blue', b'K: Seven Stories Movie 1 - R:B - Blaze', b'K: Seven Stories Movie 3 - Side:Green - Uwagaki Sekai', b'K: Seven Stories - The Idol K']
-animeCharacters	[b'Munakata, Reishi', b'Zenjou, Gouki', b'Kusuhara, Takeru', b'Fushimi, Saruhiko', b'Awashima, Seri', b'Hisui, Nagare', b'Akiyama, Himori', b'Habari, Jin', b'Hidaka, Akira', b'Domyouji, Andy']
-animeVoices	[b'\nSugita, Tomokazu\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nTsuchiya, Shinba\nJapanese\n', b'\nMiyano, Mamoru\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nOkitsu, Kazuyuki\nJapanese\n', b'\nTakahashi, Kouji\nJapanese\n', b'\nKamiya, Hiroshi\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nOnitsuka, Shingo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Ryou\n\nSound Director\n\n']
+animePopularity	3954
+animeDescription	"Gouki Zenjo, former right-hand man to Jin Habari and a survivor of the Kagutsu Incident, returns to work for SCEPTER 4, now under the command of Reisi Munakata, the new Blue King.
+
+(Source: TubiTV)"
+animeRelated	['K Side:Blue', 'K: Seven Stories Movie 1 - R:B - Blaze', 'K: Seven Stories Movie 3 - Side:Green - Uwagaki Sekai', 'K: Seven Stories - The Idol K']
+animeCharacters	['Munakata, Reishi', 'Zenjou, Gouki', 'Kusuhara, Takeru', 'Fushimi, Saruhiko', 'Awashima, Seri', 'Hisui, Nagare', 'Akiyama, Himori', 'Habari, Jin', 'Hidaka, Akira', 'Domyouji, Andy']
+animeVoices	['Sugita, Tomokazu', 'Tsuda, Kenjirou', 'Tsuchiya, Shinba', 'Miyano, Mamoru', 'Sawashiro, Miyuki', 'Okitsu, Kazuyuki', 'Takahashi, Kouji', 'Kamiya, Hiroshi', 'Ono, Daisuke', 'Onitsuka, Shingo']
+animeStaff	[['Tanaka, Ryou', 'Sound Director']]

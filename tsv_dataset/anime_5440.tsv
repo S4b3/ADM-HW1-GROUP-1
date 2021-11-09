@@ -1,5 +1,5 @@
-animeTitle	b'Wakaokami wa Shougakusei!'
-animeType	b'TV'
+animeTitle	Wakaokami wa Shougakusei!
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.63
 animeUsers	1142
 animeRank	
-animePopularity	
-animeDescription	"b'12-year-old Oriko Seki, who lost her parents in a car accident, ended up living in her grandmother\'s Onsen Ryokan ""Haru no Ya."" With the ghost ""Uribou"" cohabitating with her and all the other odds, she ended up training to be a young female innkeeper. At first, she didn\'t like the training, but gradually felt her admiration for her title and began to train seriously. Thus, the growth of the young warrior Oriko begins.\n\n(Source: MAL News)'"
-animeRelated	[b'Wakaokami wa Shougakusei! Movie']
-animeCharacters	[b'Seki, Oriko', b'Tateuri, Makoto', b'Akino, Miyo', b'Suzuki', b'Akino, Matsuki', b'Suiryou, Seiko', b'Seki, Mineko', b'Lin, Rui-Ling', b'Tateuri, Kengo', b'Fujiwara, Aoi']
-animeVoices	[b'\nKobayashi, Seiran\nJapanese\n', b'\nMatsuda, Satsumi\nJapanese\n', b'\nHidaka, Rina\nJapanese\n', b'\nKozakura, Etsuko\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nHashimoto, Yui\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nSenbongi, Sayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nUmetsu, Satoshi\n\nProducer\n\n', b'\nMasuhara, Mitsuyuki\n\nDirector\n\n', b'\nTani, Azuma\n\nDirector\n\n', b'\nMima, Masafumi\n\nSound Director\n\n']
+animePopularity	6536
+animeDescription	"12-year-old Oriko Seki, who lost her parents in a car accident, ended up living in her grandmother's Onsen Ryokan ""Haru no Ya."" With the ghost ""Uribou"" cohabitating with her and all the other odds, she ended up training to be a young female innkeeper. At first, she didn't like the training, but gradually felt her admiration for her title and began to train seriously. Thus, the growth of the young warrior Oriko begins.
+
+(Source: MAL News)"
+animeRelated	['Wakaokami wa Shougakusei! Movie']
+animeCharacters	['Seki, Oriko', 'Tateuri, Makoto', 'Akino, Miyo', 'Suzuki', 'Akino, Matsuki', 'Suiryou, Seiko', 'Seki, Mineko', 'Lin, Rui-Ling', 'Tateuri, Kengo', 'Fujiwara, Aoi']
+animeVoices	['Kobayashi, Seiran', 'Matsuda, Satsumi', 'Hidaka, Rina', 'Kozakura, Etsuko', 'Mizuki, Nana', 'Hashimoto, Yui', 'Ichiryuusai, Harumi', 'Hidaka, Noriko', 'Kobayashi, Yuu', 'Senbongi, Sayaka']
+animeStaff	[['Umetsu, Satoshi', 'Producer'], ['Masuhara, Mitsuyuki', 'Director'], ['Tani, Azuma', 'Director'], ['Mima, Masafumi', 'Sound Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Cleopatra'
-animeType	b'Movie'
+animeTitle	Cleopatra
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.57
 animeUsers	1697
 animeRank	
-animePopularity	
-animeDescription	"b'In the far future, earthlings come across the foreign planet of Pasatorine. Few things are understood about the planet, but it is clear that earthlings are not welcome there. However, the inhabitants of Pasatorine have initiated something called the ""Cleopatra Plan."" Puzzled why an alien planet would name a plan after a woman from Earth, the military decides to send three soldiers\' minds back to the past to study Cleopatra\'s life.\n\nThe Kingdom of Egypt, led by the drunkard Ptolemy, is threatened by Julius Caesar and the Roman empire. In an attempt to save Egypt, Cleopatra, the younger sister of Ptolemy, chooses to undergo a procedure that makes her body irresistible to Caesar. Caesar is immediately smitten and desires to rule Egypt with Cleopatra at his side\xe2\x80\x94but little does he know that she intends to assassinate him as soon as she can.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Senya Ichiya Monogatari', b'Kanashimi no Belladonna']
-animeCharacters	[b'Caesar, Julius', b'Witcher, Hal', b'Felllow, Maria', b'Calpania']
-animeVoices	[b'\nHana, Hajime\nJapanese\n', b'\nImai, Kazuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Osamu\n\nDirector\n\n', b'\nYamamoto, Eiichi\n\nDirector\n\n', b'\nKawajiri, Yoshiaki\n\nKey Animation\n\n', b'\nSugii, Gisaburou\n\nKey Animation\n\n']
+animePopularity	7177
+animeDescription	"In the far future, earthlings come across the foreign planet of Pasatorine. Few things are understood about the planet, but it is clear that earthlings are not welcome there. However, the inhabitants of Pasatorine have initiated something called the ""Cleopatra Plan."" Puzzled why an alien planet would name a plan after a woman from Earth, the military decides to send three soldiers' minds back to the past to study Cleopatra's life.
+
+The Kingdom of Egypt, led by the drunkard Ptolemy, is threatened by Julius Caesar and the Roman empire. In an attempt to save Egypt, Cleopatra, the younger sister of Ptolemy, chooses to undergo a procedure that makes her body irresistible to Caesar. Caesar is immediately smitten and desires to rule Egypt with Cleopatra at his side—but little does he know that she intends to assassinate him as soon as she can.
+
+[Written by MAL Rewrite]"
+animeRelated	['Senya Ichiya Monogatari', 'Kanashimi no Belladonna']
+animeCharacters	['Caesar, Julius', 'Witcher, Hal', 'Felllow, Maria', 'Calpania']
+animeVoices	['Hana, Hajime', 'Imai, Kazuko']
+animeStaff	[['Tezuka, Osamu', 'Director'], ['Yamamoto, Eiichi', 'Director'], ['Kawajiri, Yoshiaki', 'Key Animation'], ['Sugii, Gisaburou', 'Key Animation']]

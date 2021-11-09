@@ -1,5 +1,5 @@
-animeTitle	b'Mori no Densetsu'
-animeType	b'Movie'
+animeTitle	Mori no Densetsu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.4
 animeUsers	833
 animeRank	
-animePopularity	
-animeDescription	b'A tranquil forest and all of its residents must face the destruction of man. A squirrel, born and raised in the forrest, fights to defend his home and faces trials and adversities along the way.\n\n(Source: ANN)'
-animeRelated	[b'Mori no Densetsu: Dai Ni Gakushou']
-animeCharacters	[b'Flying Squirrel']
+animePopularity	9906
+animeDescription	"A tranquil forest and all of its residents must face the destruction of man. A squirrel, born and raised in the forrest, fights to defend his home and faces trials and adversities along the way.
+
+(Source: ANN)"
+animeRelated	['Mori no Densetsu: Dai Ni Gakushou']
+animeCharacters	['Flying Squirrel']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Osamu\n\nDirector\n\n', b'\nKawajiri, Yoshiaki\n\nKey Animation\n\n', b'\nKurahashi, Shizuo\n\nSound Effects\n\n', b'\nSuzuki, Shinichi\n\nKey Animation\n\n']
+animeStaff	[['Tezuka, Osamu', 'Director'], ['Kawajiri, Yoshiaki', 'Key Animation'], ['Kurahashi, Shizuo', 'Sound Effects'], ['Suzuki, Shinichi', 'Key Animation']]

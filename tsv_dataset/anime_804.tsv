@@ -1,5 +1,5 @@
-animeTitle	b'Detective Conan Movie 23: The Fist of Blue Sapphire'
-animeType	b'Movie'
+animeTitle	Detective Conan Movie 23: The Fist of Blue Sapphire
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.83
 animeUsers	10442
 animeRank	
-animePopularity	
-animeDescription	"b'The world\'s greatest blue sapphire, the ""blue lapis fist"", said to have sunk in a pirate ship in the late 19th century, on the coasts of Singapore. A local millionaire plots to retrieve it, and when it\'s exhibited in an exhibition at the Singaporean Marina Sands hotel, a murder takes place. A bloody Kaitou Kid announcement card is found in the crime scene.\n\nIn the meantime, Ran and Sonoko have come to Singapore to see a karate tournament held there. Conan, who doesn\'t have a passport and can\'t travel overseas, was supposed to stay at home. But Kid, who wants to make use of him, uses a magical trick to forcibly drag him to Singapore. Conan must obey Kid if he wants to get back to Japan, gets his glasses, wristwatch and clothes, amongst others, all stolen from him and he has to disguise himself.\n\nRan, who doesn\'t realize who he is, asks him his name and he improvises the name Arthur Hirai. Kid eventually gets a hold of information about the ""fist"" being stored in a manor\'s underground vault. Just when he was thinking that he\'d made it inside very easily, he finds a dangerous trap awaiting him. Facing him is the strongest karateka with 400 consecutive victories: Makoto Kyogoku.\n\n(Source: Detective Conan World)'"
-animeRelated	[b'Detective Conan']
-animeCharacters	[b'Edogawa, Conan', b'Kuroba, Kaito', b'Mouri, Ran', b'Mouri, Kogorou', b'Kyougoku, Makoto', b'Haibara, Ai', b'Agasa, Hiroshi', b'Suzuki, Sonoko', b'Yoshida, Ayumi', b'Tsuburaya, Mitsuhiko']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n', b'\nIwai, Yukiko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAoyama, Gosho\n\nOriginal Creator\n\n', b'\nOno, Katsuo\n\nMusic\n\n', b'\nOokura, Takahiro\n\nScreenplay\n\n', b'\nYonemoto, Nana\n\nAssistant Animation Director\n\n']
+animePopularity	3957
+animeDescription	"The world's greatest blue sapphire, the ""blue lapis fist"", said to have sunk in a pirate ship in the late 19th century, on the coasts of Singapore. A local millionaire plots to retrieve it, and when it's exhibited in an exhibition at the Singaporean Marina Sands hotel, a murder takes place. A bloody Kaitou Kid announcement card is found in the crime scene.
+
+In the meantime, Ran and Sonoko have come to Singapore to see a karate tournament held there. Conan, who doesn't have a passport and can't travel overseas, was supposed to stay at home. But Kid, who wants to make use of him, uses a magical trick to forcibly drag him to Singapore. Conan must obey Kid if he wants to get back to Japan, gets his glasses, wristwatch and clothes, amongst others, all stolen from him and he has to disguise himself.
+
+Ran, who doesn't realize who he is, asks him his name and he improvises the name Arthur Hirai. Kid eventually gets a hold of information about the ""fist"" being stored in a manor's underground vault. Just when he was thinking that he'd made it inside very easily, he finds a dangerous trap awaiting him. Facing him is the strongest karateka with 400 consecutive victories: Makoto Kyogoku.
+
+(Source: Detective Conan World)"
+animeRelated	['Detective Conan']
+animeCharacters	['Edogawa, Conan', 'Kuroba, Kaito', 'Mouri, Ran', 'Mouri, Kogorou', 'Kyougoku, Makoto', 'Haibara, Ai', 'Agasa, Hiroshi', 'Suzuki, Sonoko', 'Yoshida, Ayumi', 'Tsuburaya, Mitsuhiko']
+animeVoices	['Takayama, Minami', 'Yamaguchi, Kappei', 'Yamazaki, Wakana', 'Koyama, Rikiya', 'Hiyama, Nobuyuki', 'Hayashibara, Megumi', 'Ogata, Kenichi', 'Matsui, Naoko', 'Iwai, Yukiko', 'Ootani, Ikue']
+animeStaff	[['Aoyama, Gosho', 'Original Creator'], ['Ono, Katsuo', 'Music'], ['Ookura, Takahiro', 'Screenplay'], ['Yonemoto, Nana', 'Assistant Animation Director']]

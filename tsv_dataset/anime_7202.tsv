@@ -1,5 +1,5 @@
-animeTitle	b'Zettai Bouei Leviathan'
-animeType	b'TV'
+animeTitle	Zettai Bouei Leviathan
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.3
 animeUsers	9623
 animeRank	
-animePopularity	
-animeDescription	b'The story is set in Aquafall, a fantasy world abound with water and greenery, and populated by dragons and fairies. Meteorites suddenly bring forth evil creatures that threaten all living things on the planet. The fairy Syrup assembles the Aquafall Defense Force, with three girls of the dragon clans as recruits. The story follows Syrup and the dragon girls Leviathan, Bahamut, and J\xc3\xb6rmungandr as they work together to battle enemies and grow up.\n\n(Source: ANN)'
-animeRelated	[b'Zettai Bouei Leviathan: Mini Takibi Gekijou']
-animeCharacters	"[b'Leviathan', b'Bahamut', b'Jormungandr', b'Syrup', b""Leviathan's Brother"", b'Coal Miner #3', b'Coal Miner #5', b'Sphinx', b'Old man', b'Wyvern']"
-animeVoices	[b'\nHayami, Saori\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nTaketatsu, Ayana\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nKondou, Takashi\nJapanese\n', b'\nNagatsuma, Juri\nJapanese\n', b'\nNanase, Ami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatagai, Kenichi\n\nDirector\n\n', b'\nMorita, Yousuke\n\nSound Director\n\n', b'\nNishimoto, Yukio\n\nEpisode Director, Storyboard\n\n', b'\nKanno, Yuki\n\nTheme Song Performance\n\n']
+animePopularity	3528
+animeDescription	"The story is set in Aquafall, a fantasy world abound with water and greenery, and populated by dragons and fairies. Meteorites suddenly bring forth evil creatures that threaten all living things on the planet. The fairy Syrup assembles the Aquafall Defense Force, with three girls of the dragon clans as recruits. The story follows Syrup and the dragon girls Leviathan, Bahamut, and Jörmungandr as they work together to battle enemies and grow up.
+
+(Source: ANN)"
+animeRelated	['Zettai Bouei Leviathan: Mini Takibi Gekijou']
+animeCharacters	"['Leviathan', 'Bahamut', 'Jormungandr', 'Syrup', ""Leviathan's Brother"", 'Coal Miner #3', 'Coal Miner #5', 'Sphinx', 'Old man', 'Wyvern']"
+animeVoices	['Hayami, Saori', 'Kitamura, Eri', 'Taketatsu, Ayana', 'Hanazawa, Kana', 'Kondou, Takashi', 'Nagatsuma, Juri', 'Nanase, Ami']
+animeStaff	[['Yatagai, Kenichi', 'Director'], ['Morita, Yousuke', 'Sound Director'], ['Nishimoto, Yukio', 'Episode Director, Storyboard'], ['Kanno, Yuki', 'Theme Song Performance']]

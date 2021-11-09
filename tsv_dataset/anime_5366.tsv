@@ -1,5 +1,5 @@
-animeTitle	b'Manaria Friends'
-animeType	b'TV'
+animeTitle	Manaria Friends
+animeType	TV
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.65
 animeUsers	26132
 animeRank	
-animePopularity	
-animeDescription	"b""Mysteria Academy is a prestigious magic school that teaches magic without discrimination to the three factions (men, gods, demons), who usually are engaged in battle with each other. Two of the academy's students are Anne, a princess and honor student, and Grea, a princess born from a dragon and a human.\n\n(Source: ANN)"""
-animeRelated	[b'Shingeki no Bahamut: Manaria Friends', b'Shingeki no Bahamut: Genesis']
-animeCharacters	[b'Grea', b'Anne', b'Owen', b'Lou', b'Hanna', b'Miranda', b'Poppy', b'Heinlein', b'William']
-animeVoices	[b'\nFukuhara, Ayaka\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nHatano, Wataru\nJapanese\n', b'\nKoyama, Kimiko\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nLynn\nJapanese\n', b'\nSawashiro, Chiharu\nJapanese\n', b'\nUchida, Yuuma\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkamoto, Hideki\n\nDirector, Episode Director\n\n', b'\nTanaka, Ryou\n\nSound Director\n\n', b'\nTakahashi, Tooru\n\nEpisode Director\n\n', b'\nUchiyama, Mana\n\nEpisode Director\n\n']
+animePopularity	1617
+animeDescription	"Mysteria Academy is a prestigious magic school that teaches magic without discrimination to the three factions (men, gods, demons), who usually are engaged in battle with each other. Two of the academy's students are Anne, a princess and honor student, and Grea, a princess born from a dragon and a human.
+
+(Source: ANN)"
+animeRelated	['Shingeki no Bahamut: Manaria Friends', 'Shingeki no Bahamut: Genesis']
+animeCharacters	['Grea', 'Anne', 'Owen', 'Lou', 'Hanna', 'Miranda', 'Poppy', 'Heinlein', 'William']
+animeVoices	['Fukuhara, Ayaka', 'Hikasa, Youko', 'Hatano, Wataru', 'Koyama, Kimiko', 'Mizuki, Nana', 'Inoue, Kikuko', 'Lynn', 'Sawashiro, Chiharu', 'Uchida, Yuuma']
+animeStaff	[['Okamoto, Hideki', 'Director, Episode Director'], ['Tanaka, Ryou', 'Sound Director'], ['Takahashi, Tooru', 'Episode Director'], ['Uchiyama, Mana', 'Episode Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Kero Kero Chime'
-animeType	b'TV'
+animeTitle	Kero Kero Chime
+animeType	TV
 animeNumEpisode	30
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.46
 animeUsers	235
 animeRank	
-animePopularity	
-animeDescription	"b""Aoi, a regular boy, is cused with a spell that turns him into a frog whenever he gets wet. He is sent to another world with a frog kingdom to find the princess to undo the spell. When he finds out that she doesn't know how to lift the curse, they set out to find the spell that will. Along the way they meet many interesting creatures, come accross many dangers, and make many new friends. \n\n(Source: ANN)"""
-animeRelated	[b'Kero Kero Chime']
-animeCharacters	[b'Mimori', b'Aoi', b'Cereal', b'Niina', b'Shouko', b'Leap', b'Makaeru']
-animeVoices	[b'\nHiguchi, Chieko\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nNamiki, Noriko\nJapanese\n', b'\nSano, Mizuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoyama, Yoshitaka\n\nDirector, Episode Director, Storyboard\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nMoriwaki, Makoto\n\nEpisode Director, Storyboard\n\n', b'\nIshiodori, Hiroshi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	10848
+animeDescription	"Aoi, a regular boy, is cused with a spell that turns him into a frog whenever he gets wet. He is sent to another world with a frog kingdom to find the princess to undo the spell. When he finds out that she doesn't know how to lift the curse, they set out to find the spell that will. Along the way they meet many interesting creatures, come accross many dangers, and make many new friends. 
+
+(Source: ANN)"
+animeRelated	['Kero Kero Chime']
+animeCharacters	['Mimori', 'Aoi', 'Cereal', 'Niina', 'Shouko', 'Leap', 'Makaeru']
+animeVoices	['Higuchi, Chieko', 'Namikawa, Daisuke', 'Namiki, Noriko', 'Sano, Mizuki']
+animeStaff	[['Koyama, Yoshitaka', 'Director, Episode Director, Storyboard'], ['Tanaka, Kazuya', 'Sound Director'], ['Moriwaki, Makoto', 'Episode Director, Storyboard'], ['Ishiodori, Hiroshi', 'Episode Director, Storyboard']]

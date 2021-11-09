@@ -1,5 +1,5 @@
-animeTitle	b'Innocence'
-animeType	b'Movie'
+animeTitle	Innocence
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.81
 animeUsers	78185
 animeRank	
-animePopularity	
-animeDescription	"b'With Major Motoko Kusanagi missing, Section 9\'s Batou is assigned to investigate a string of gruesome murders\xe2\x80\x94seemingly at the hands of faulty gynoids, or sex robots. But when a faulty gynoid leaves Batou a cryptic message, he begins to question the cause of their malfunctions. Suspicions of politically motivated murder and an illegal ""ghost"" quickly crop up, drawing Batou and his partner Togusa into a perilous web of conspiracy.\n\nAs their investigation goes on, the line between man and machine continues to blur, and reality and perception become indistinguishable. Confronting strange and dangerous foes, Batou and Togusa explore a futuristic world filled with machines and living dolls but utterly devoid of humanity.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Koukaku Kidoutai']
-animeCharacters	[b'Batou', b'Togusa', b'Kusanagi, Motoko', b'Aramaki, Daisuke', b'Ishikawa', b'Haraway', b'Crab Man', b'Kim', b'Lin', b'Arm Doctor']
-animeVoices	[b'\nOotsuka, Akio\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nNakano, Yutaka\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n', b'\nTakenaka, Naoto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Toshio\n\nProducer\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nIshikawa, Mitsuhisa\n\nProducer, Planning\n\n', b'\nTerashima-Furuta, Maki\n\nAssistant Producer, Associate Producer\n\n']
+animePopularity	1233
+animeDescription	"With Major Motoko Kusanagi missing, Section 9's Batou is assigned to investigate a string of gruesome murders—seemingly at the hands of faulty gynoids, or sex robots. But when a faulty gynoid leaves Batou a cryptic message, he begins to question the cause of their malfunctions. Suspicions of politically motivated murder and an illegal ""ghost"" quickly crop up, drawing Batou and his partner Togusa into a perilous web of conspiracy.
+
+As their investigation goes on, the line between man and machine continues to blur, and reality and perception become indistinguishable. Confronting strange and dangerous foes, Batou and Togusa explore a futuristic world filled with machines and living dolls but utterly devoid of humanity.
+
+[Written by MAL Rewrite]"
+animeRelated	['Koukaku Kidoutai']
+animeCharacters	['Batou', 'Togusa', 'Kusanagi, Motoko', 'Aramaki, Daisuke', 'Ishikawa', 'Haraway', 'Crab Man', 'Kim', 'Lin', 'Arm Doctor']
+animeVoices	['Ootsuka, Akio', 'Yamadera, Kouichi', 'Tanaka, Atsuko', 'Nakano, Yutaka', 'Sakakibara, Yoshiko', 'Takenaka, Naoto']
+animeStaff	[['Suzuki, Toshio', 'Producer'], ['Maseba, Yutaka', 'Producer'], ['Ishikawa, Mitsuhisa', 'Producer, Planning'], ['Terashima-Furuta, Maki', 'Assistant Producer, Associate Producer']]

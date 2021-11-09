@@ -1,5 +1,5 @@
-animeTitle	b'Mouryou no Hako'
-animeType	b'TV'
+animeTitle	Mouryou no Hako
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.18
 animeUsers	13628
 animeRank	
-animePopularity	
-animeDescription	"b""The story follows a series of bizarre murders of schoolgirls who have been dismembered and stuffed into boxes. The private investigator hired by a missing daughter's mother joins forces with an antique book seller and others to unravel the murder spree.\n\n(Source: ANN)"""
-animeRelated	[b'Mouryou no Hako', b'Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto']
-animeCharacters	[b'Chuuzenji, Akihiko', b'Enokizu, Reijiro', b'Sekiguchi, Tatsumi', b'Kiba, Shutaro', b'Yuzuki, Kanako', b'Yuzuki, Yoko', b'Mysterious Man', b'Kusumoto, Yoriko', b'Policeman Fukumoto', b'Chuuzenji, Chizuko']
-animeVoices	[b'\nHirata, Hiroaki\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n', b'\nKiuchi, Hidenobu\nJapanese\n', b'\nSeki, Takaaki\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nTakahashi, Mikako\nJapanese\n', b'\nUeda, Youji\nJapanese\n', b'\nMinaguchi, Yuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Ryousuke\n\nDirector, Storyboard\n\n', b'\nIshizuka, Atsuko\n\nEpisode Director\n\n', b'\nMurai, Sadayuki\n\nScript, Series Composition\n\n', b'\nFujioka, Yoshinobu\n\nScript\n\n']
+animePopularity	2350
+animeDescription	"The story follows a series of bizarre murders of schoolgirls who have been dismembered and stuffed into boxes. The private investigator hired by a missing daughter's mother joins forces with an antique book seller and others to unravel the murder spree.
+
+(Source: ANN)"
+animeRelated	['Mouryou no Hako', 'Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto']
+animeCharacters	['Chuuzenji, Akihiko', 'Enokizu, Reijiro', 'Sekiguchi, Tatsumi', 'Kiba, Shutaro', 'Yuzuki, Kanako', 'Yuzuki, Yoko', 'Mysterious Man', 'Kusumoto, Yoriko', 'Policeman Fukumoto', 'Chuuzenji, Chizuko']
+animeVoices	['Hirata, Hiroaki', 'Morikawa, Toshiyuki', 'Kiuchi, Hidenobu', 'Seki, Takaaki', 'Tomatsu, Haruka', 'Hisakawa, Aya', 'Furuya, Toru', 'Takahashi, Mikako', 'Ueda, Youji', 'Minaguchi, Yuko']
+animeStaff	[['Nakamura, Ryousuke', 'Director, Storyboard'], ['Ishizuka, Atsuko', 'Episode Director'], ['Murai, Sadayuki', 'Script, Series Composition'], ['Fujioka, Yoshinobu', 'Script']]

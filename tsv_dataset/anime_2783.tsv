@@ -1,5 +1,5 @@
-animeTitle	b'Kakegurui\xc3\x97\xc3\x97'
-animeType	b'TV'
+animeTitle	Kakegurui××
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	7.22
 animeUsers	339628
 animeRank	
-animePopularity	
-animeDescription	"b""As Yumeko Jabami's fame grows and the reputation of the student council dwindles, Kirari Momobami decides to revolutionize the group. To this end, she announces an election for its next president. The rules are simple: each student in the school receives one chip. Whoever has the most chips by the end of thirty days becomes both the new president and the head of the Momobami clan.\n\nUpon receiving news of this development, the Momobami branch families spring into action. Eleven transfer students arrive at Hyakkao Private Academy, each aiming to lead both the school and the Momobami clan. Equipped with unique talents, they will compete to get as many chips as possible\xe2\x80\x94but their chips are not the only things on the line.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Kakegurui']
-animeCharacters	[b'Jabami, Yumeko', b'Saotome, Mary', b'Suzui, Ryouta', b'Ikishima, Midari', b'Momobami, Kirari', b'Yomozuki, Runa', b'Momobami, Ririka', b'Batsubami, Rei', b'Yumemite, Yumemi', b'Sumeragi, Itsuki']
-animeVoices	[b'\nHayami, Saori\nJapanese\n', b'\nTanaka, Minami\nJapanese\n', b'\nTokutake, Tatsuya\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nUdono, Mayu\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nSerizawa, Yuu\nJapanese\n', b'\nWakai, Yuuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuda, Kiyoshi\n\nCo-Director, Director, Episode Director, Storyboard\n\n', b'\nHayashi, Yuuichirou\n\nDirector, Storyboard\n\n', b'\nFujita, Akiko\n\nSound Director\n\n', b'\nIgari, Takashi\n\nEpisode Director\n\n']
+animePopularity	247
+animeDescription	"As Yumeko Jabami's fame grows and the reputation of the student council dwindles, Kirari Momobami decides to revolutionize the group. To this end, she announces an election for its next president. The rules are simple: each student in the school receives one chip. Whoever has the most chips by the end of thirty days becomes both the new president and the head of the Momobami clan.
+
+Upon receiving news of this development, the Momobami branch families spring into action. Eleven transfer students arrive at Hyakkao Private Academy, each aiming to lead both the school and the Momobami clan. Equipped with unique talents, they will compete to get as many chips as possible—but their chips are not the only things on the line.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Kakegurui']
+animeCharacters	['Jabami, Yumeko', 'Saotome, Mary', 'Suzui, Ryouta', 'Ikishima, Midari', 'Momobami, Kirari', 'Yomozuki, Runa', 'Momobami, Ririka', 'Batsubami, Rei', 'Yumemite, Yumemi', 'Sumeragi, Itsuki']
+animeVoices	['Hayami, Saori', 'Tanaka, Minami', 'Tokutake, Tatsuya', 'Ise, Mariya', 'Sawashiro, Miyuki', 'Udono, Mayu', 'Park, Romi', 'Serizawa, Yuu', 'Wakai, Yuuki']
+animeStaff	[['Matsuda, Kiyoshi', 'Co-Director, Director, Episode Director, Storyboard'], ['Hayashi, Yuuichirou', 'Director, Storyboard'], ['Fujita, Akiko', 'Sound Director'], ['Igari, Takashi', 'Episode Director']]

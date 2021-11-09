@@ -1,5 +1,5 @@
-animeTitle	b'Koutetsu Tenshi Kurumi Encore'
-animeType	b'OVA'
+animeTitle	Koutetsu Tenshi Kurumi Encore
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.68
 animeUsers	2956
 animeRank	
-animePopularity	
-animeDescription	"b""Four additional short stories of the Steel Angels: Saki becomes a film actress, Karinka goes on a blind date with Kamihito, Kurumi practices the art of becoming a traditional Japanese woman, and the rest of the Steel Angels engage in a contest to win Nakahito's heart. \n\n(Source: ANN)"""
-animeRelated	[b'Koutetsu Tenshi Kurumi']
-animeCharacters	[b'Kurumi', b'Karinka', b'Saki', b'Kagura, Nakahito', b'Kagura, Kamihito', b'Ayanokouji, Tetsuo', b'Kaga', b'Dr. Brandow']
-animeVoices	[b'\nEnomoto, Atsuko\nJapanese\n', b'\nKurata, Masayo\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nKuwashima, Houko\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nSuzuoki, Hirotaka\nJapanese\n', b'\nTezuka, Chiharu\nJapanese\n', b'\nMorikawa, Toshiyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahashi, Naohito\n\nDirector\n\n', b'\nTanaka, Rie\n\nTheme Song Performance\n\n', b'\nEnomoto, Atsuko\n\nTheme Song Performance\n\n', b'\nKurata, Masayo\n\nTheme Song Performance\n\n']
+animePopularity	6378
+animeDescription	"Four additional short stories of the Steel Angels: Saki becomes a film actress, Karinka goes on a blind date with Kamihito, Kurumi practices the art of becoming a traditional Japanese woman, and the rest of the Steel Angels engage in a contest to win Nakahito's heart. 
+
+(Source: ANN)"
+animeRelated	['Koutetsu Tenshi Kurumi']
+animeCharacters	['Kurumi', 'Karinka', 'Saki', 'Kagura, Nakahito', 'Kagura, Kamihito', 'Ayanokouji, Tetsuo', 'Kaga', 'Dr. Brandow']
+animeVoices	['Enomoto, Atsuko', 'Kurata, Masayo', 'Tanaka, Rie', 'Kuwashima, Houko', 'Matsumoto, Yasunori', 'Suzuoki, Hirotaka', 'Tezuka, Chiharu', 'Morikawa, Toshiyuki']
+animeStaff	[['Takahashi, Naohito', 'Director'], ['Tanaka, Rie', 'Theme Song Performance'], ['Enomoto, Atsuko', 'Theme Song Performance'], ['Kurata, Masayo', 'Theme Song Performance']]

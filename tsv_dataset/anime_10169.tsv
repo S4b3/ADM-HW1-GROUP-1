@@ -1,5 +1,5 @@
-animeTitle	b'ARP Backstage Pass'
-animeType	b'TV'
+animeTitle	ARP Backstage Pass
+animeType	TV
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.56
 animeUsers	1256
 animeRank	
-animePopularity	
-animeDescription	b'ARP: A 4-member dance and vocal group created by the latest AR technology. This popular group got their start with Avex, and are unique for their interactive concerts which combine highly-skilled song and dance routines with a format that changes based on how much the fans are cheering them on.\n\n(Source: Crunchyroll)'
-animeRelated	[b'ARP Backstage Pass: Celebrate Good Time - Short Stories', b'ARP Backstage Pass Special']
-animeCharacters	[b'Hida, Reiji', b'Fujiwara, Leon', b'Koumoto, Daiya', b'Kanou, Shinji', b'Secretary', b'Matsumoto, Haruomi', b'Chairman', b'Kanou, Eiji']
-animeVoices	[b'\nEguchi, Takuya\nJapanese\n', b'\nKomada, Wataru\nJapanese\n', b'\nInoue, Kazuhiko\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nEndou, Tetsuya\n\nDirector\n\n', b'\nKuwa, Yoshihito\n\nDirector of Photography\n\n', b'\nTomonaga, Korie\n\nSeries Composition\n\n']
+animePopularity	6577
+animeDescription	"ARP: A 4-member dance and vocal group created by the latest AR technology. This popular group got their start with Avex, and are unique for their interactive concerts which combine highly-skilled song and dance routines with a format that changes based on how much the fans are cheering them on.
+
+(Source: Crunchyroll)"
+animeRelated	['ARP Backstage Pass: Celebrate Good Time - Short Stories', 'ARP Backstage Pass Special']
+animeCharacters	['Hida, Reiji', 'Fujiwara, Leon', 'Koumoto, Daiya', 'Kanou, Shinji', 'Secretary', 'Matsumoto, Haruomi', 'Chairman', 'Kanou, Eiji']
+animeVoices	['Eguchi, Takuya', 'Komada, Wataru', 'Inoue, Kazuhiko', 'Namikawa, Daisuke']
+animeStaff	[['Endou, Tetsuya', 'Director'], ['Kuwa, Yoshihito', 'Director of Photography'], ['Tomonaga, Korie', 'Series Composition']]

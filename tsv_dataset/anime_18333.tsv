@@ -1,5 +1,5 @@
-animeTitle	b'Seifuku Shojo The Animation'
-animeType	b'OVA'
+animeTitle	Seifuku Shojo The Animation
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.23
 animeUsers	1409
 animeRank	
-animePopularity	
-animeDescription	"b'The anime itself depicts teen-aged (and well endowed) school girls getting raped\xe2\x80\x94by her teachers (the first episode), by some ""businessmen"" who mistake the girl for a hooker (the second episode), by a class mate in mad love with the girl (third episode), and finally two sisters being raped by the school janitor.\n\n(Source: AniDB)'"
+animePopularity	7326
+animeDescription	"The anime itself depicts teen-aged (and well endowed) school girls getting raped—by her teachers (the first episode), by some ""businessmen"" who mistake the girl for a hooker (the second episode), by a class mate in mad love with the girl (third episode), and finally two sisters being raped by the school janitor.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Motoko', b'Miki']
+animeCharacters	['Motoko', 'Miki']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurakami, Teruaki\n\nDirector, Storyboard, Animation Director, Character Design\n\n', b'\nMomoi, Osamu\n\nScript\n\n', b'\nSatou, Hiromu\n\nArt Director\n\n', b'\nKino, Hitoshi\n\nOriginal Creator\n\n']
+animeStaff	[['Murakami, Teruaki', 'Director, Storyboard, Animation Director, Character Design'], ['Momoi, Osamu', 'Script'], ['Satou, Hiromu', 'Art Director'], ['Kino, Hitoshi', 'Original Creator']]

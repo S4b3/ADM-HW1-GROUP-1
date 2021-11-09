@@ -1,5 +1,5 @@
-animeTitle	b'Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!'
-animeType	b'Movie'
+animeTitle	Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.66
 animeUsers	66073
 animeRank	
-animePopularity	
-animeDescription	"b'Piccolo is training at a barren cliff when a handful of mysterious enemies attacks and defeats him. These same enemies then go to Mount Paozu to steal Gohan Son\'s ""Dragon Ball."" Upon arrival, not only do they defeat Gokuu Son\'s spouse and father-in-law\xe2\x80\x94Chi-Chi and Gyumao, respectively\xe2\x80\x94but they also kidnap Gohan in the process.\n\nFeeling something isn\'t right, Gokuu rushes home, only to find Chi-Chi lying on the ground as she explains the situation. He then goes to Kame House and borrows the Dragon Radar in order to locate the Dragon Balls and, with them, the enemies and Gohan.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Dragon Ball Z']
-animeCharacters	[b'Son, Gokuu', b'Son, Gohan', b'Piccolo', b'Garlic Junior', b'Bulma', b'Muten-Roushi', b'Kuririn', b'Chi-Chi', b'Shen Long', b'Kami']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nTsuru, Hiromi\nJapanese\n', b'\nMiyauchi, Kouhei\nJapanese\n', b'\nTanaka, Mayumi\nJapanese\n', b'\nWatanabe, Naoko\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nAono, Takeshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatson, Barry\n\nProducer\n\n', b'\nNishio, Daisuke\n\nDirector\n\n', b'\nVale, Eric\n\nScript\n\n', b'\nKoyama, Takao\n\nScript\n\n']
+animePopularity	1545
+animeDescription	"Piccolo is training at a barren cliff when a handful of mysterious enemies attacks and defeats him. These same enemies then go to Mount Paozu to steal Gohan Son's ""Dragon Ball."" Upon arrival, not only do they defeat Gokuu Son's spouse and father-in-law—Chi-Chi and Gyumao, respectively—but they also kidnap Gohan in the process.
+
+Feeling something isn't right, Gokuu rushes home, only to find Chi-Chi lying on the ground as she explains the situation. He then goes to Kame House and borrows the Dragon Radar in order to locate the Dragon Balls and, with them, the enemies and Gohan.
+
+[Written by MAL Rewrite]"
+animeRelated	['Dragon Ball Z']
+animeCharacters	['Son, Gokuu', 'Son, Gohan', 'Piccolo', 'Garlic Junior', 'Bulma', 'Muten-Roushi', 'Kuririn', 'Chi-Chi', 'Shen Long', 'Kami']
+animeVoices	['Nozawa, Masako', 'Furukawa, Toshio', 'Kamiya, Akira', 'Tsuru, Hiromi', 'Miyauchi, Kouhei', 'Tanaka, Mayumi', 'Watanabe, Naoko', 'Utsumi, Kenji', 'Aono, Takeshi']
+animeStaff	[['Watson, Barry', 'Producer'], ['Nishio, Daisuke', 'Director'], ['Vale, Eric', 'Script'], ['Koyama, Takao', 'Script']]

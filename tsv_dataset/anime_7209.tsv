@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon: Pikachu no Natsumatsuri'
-animeType	b'Special'
+animeTitle	Pokemon: Pikachu no Natsumatsuri
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.29
 animeUsers	2528
 animeRank	
-animePopularity	
-animeDescription	"b""Summer has arrived, and many Pokemon have set up shops for a summer festival on the beach. Soon the gang will be blessed by a special performance from the pop idol Azumarill, but upon her arrival, she's kidnapped by the flying Pokemon Skarmory! Pikachu, along with Plusle, Minun, Meowth, Wobbuffet and a number of other Pokemon must now track down the singing beauty; the show must go on!\n\n(Source: Anime-Planet)"""
-animeRelated	[b'Pokemon Advanced Generation']
-animeCharacters	[b'Pikachu', b'Nyarth', b'Soonansu', b'Narrator']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nTajiri, Satoshi\n\nOriginal Creator\n\n', b'\nSugimori, Ken\n\nOriginal Character Design\n\n']
+animePopularity	6286
+animeDescription	"Summer has arrived, and many Pokemon have set up shops for a summer festival on the beach. Soon the gang will be blessed by a special performance from the pop idol Azumarill, but upon her arrival, she's kidnapped by the flying Pokemon Skarmory! Pikachu, along with Plusle, Minun, Meowth, Wobbuffet and a number of other Pokemon must now track down the singing beauty; the show must go on!
+
+(Source: Anime-Planet)"
+animeRelated	['Pokemon Advanced Generation']
+animeCharacters	['Pikachu', 'Nyarth', 'Soonansu', 'Narrator']
+animeVoices	['Ootani, Ikue', 'Inuyama, Inuko', 'Ueda, Yuuji', 'Horiuchi, Kenyuu']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Demashita! Powerpuff Girls Z'
-animeType	b'TV'
+animeTitle	Demashita! Powerpuff Girls Z
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.38
 animeUsers	10595
 animeRank	
-animePopularity	
-animeDescription	"b'Based on the American cartoon, ""The Powerpuff Girls."" \n\nProfessor Utonium and his son Ken are studying the strange Chemical X. When a mochi cake falls into the formula, it changes into Chemical Z. Ken fires a ray of Chemical Z at a glacier in Tokyo Bay, however that causes strange black and white lights to scatter. The black lights turn its victims into monsters, with emphasis on a black light hitting a zoo monkey and transforming him into Mojo Jojo.\n\nThe white lights, however, aim at three normal girls, Momoko, Miyako, and Kaoru. This gives them the power to transform into superheroes, the Powerpuff Girls Z! '"
-animeRelated	[b'Demashita! Powerpuff Girls Z']
-animeCharacters	[b'Matsubara, Kaoru', b'Akatsutsumi, Momoko', b'Gotokuji, Miyako', b'Mojo Jojo', b'Butch', b'Brick', b'Boomer', b'Kare', b'Shirogane, Himeko', b'Ooedo Chakichaki Musume']
-animeVoices	[b'\nKawana, Machiko\nJapanese\n', b'\nKatou, Emiri\nJapanese\n', b'\nMiyahara, Nami\nJapanese\n', b'\nEbara, Masashi\nJapanese\n', b'\nTamaki, Yuuki\nJapanese\n', b'\nKiuchi, Reiko\nJapanese\n', b'\nAoyama, Touko\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nIkeda, Chigusa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSeki, Hiromi\n\nProducer\n\n', b'\nIshiguro, Megumu\n\nDirector, Storyboard, Key Animation\n\n', b'\nIwai, Takao\n\nEpisode Director\n\n', b'\nShimoyama, Kento\n\nScript\n\n']
+animePopularity	3350
+animeDescription	"Based on the American cartoon, ""The Powerpuff Girls."" 
+
+Professor Utonium and his son Ken are studying the strange Chemical X. When a mochi cake falls into the formula, it changes into Chemical Z. Ken fires a ray of Chemical Z at a glacier in Tokyo Bay, however that causes strange black and white lights to scatter. The black lights turn its victims into monsters, with emphasis on a black light hitting a zoo monkey and transforming him into Mojo Jojo.
+
+The white lights, however, aim at three normal girls, Momoko, Miyako, and Kaoru. This gives them the power to transform into superheroes, the Powerpuff Girls Z! "
+animeRelated	['Demashita! Powerpuff Girls Z']
+animeCharacters	['Matsubara, Kaoru', 'Akatsutsumi, Momoko', 'Gotokuji, Miyako', 'Mojo Jojo', 'Butch', 'Brick', 'Boomer', 'Kare', 'Shirogane, Himeko', 'Ooedo Chakichaki Musume']
+animeVoices	['Kawana, Machiko', 'Katou, Emiri', 'Miyahara, Nami', 'Ebara, Masashi', 'Tamaki, Yuuki', 'Kiuchi, Reiko', 'Aoyama, Touko', 'Nakao, Ryusei', 'Ikeda, Chigusa']
+animeStaff	[['Seki, Hiromi', 'Producer'], ['Ishiguro, Megumu', 'Director, Storyboard, Key Animation'], ['Iwai, Takao', 'Episode Director'], ['Shimoyama, Kento', 'Script']]

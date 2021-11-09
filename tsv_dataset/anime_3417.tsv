@@ -1,5 +1,5 @@
-animeTitle	b'Daisuki! BuBu ChaCha'
-animeType	b'TV'
+animeTitle	Daisuki! BuBu ChaCha
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.08
 animeUsers	677
 animeRank	
-animePopularity	
-animeDescription	b'The anime talks about a little boy, Randy, whose dog, Chacha, died in an accident and was reincarnated into a living toy car. Each episode is told like the chapter of a storybook, where Randy learns a valuable thing in life with his cartoonish and goofy friend Chacha. Randy meets several friends in his neighbourhood, such as Catherine, the tall blonde girl in red long socks who rides a bicycle, or Mary, a little hot-tempered brunette girl dressed as a maid and who carries around a mop.\n\n(Source: ANN)'
-animeRelated	[b'Norimono Oukoku BuBu ChaCha']
-animeCharacters	[b'Rand, Randy', b'Chacha', b'Rand, Forest', b'Catherine', b'Narrator', b'Mary']
-animeVoices	[b'\nSasamoto, Yuuko\nJapanese\n', b'\nCho\nJapanese\n', b'\nSuzuki, Takuma\nJapanese\n', b'\nTakada, Yumi\nJapanese\n', b'\nArimoto, Kinryuu\nJapanese\n', b'\nKawata, Taeko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDate, Hayato\n\nEpisode Director\n\n', b'\nSatou, Takuya\n\nStoryboard\n\n', b'\nAmino, Tetsuro\n\nStoryboard, Original Creator\n\n', b'\nOota, Masahiko\n\nAnimation Director\n\n']
+animePopularity	10182
+animeDescription	"The anime talks about a little boy, Randy, whose dog, Chacha, died in an accident and was reincarnated into a living toy car. Each episode is told like the chapter of a storybook, where Randy learns a valuable thing in life with his cartoonish and goofy friend Chacha. Randy meets several friends in his neighbourhood, such as Catherine, the tall blonde girl in red long socks who rides a bicycle, or Mary, a little hot-tempered brunette girl dressed as a maid and who carries around a mop.
+
+(Source: ANN)"
+animeRelated	['Norimono Oukoku BuBu ChaCha']
+animeCharacters	['Rand, Randy', 'Chacha', 'Rand, Forest', 'Catherine', 'Narrator', 'Mary']
+animeVoices	['Sasamoto, Yuuko', 'Cho', 'Suzuki, Takuma', 'Takada, Yumi', 'Arimoto, Kinryuu', 'Kawata, Taeko']
+animeStaff	[['Date, Hayato', 'Episode Director'], ['Satou, Takuya', 'Storyboard'], ['Amino, Tetsuro', 'Storyboard, Original Creator'], ['Oota, Masahiko', 'Animation Director']]

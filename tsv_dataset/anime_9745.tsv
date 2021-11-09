@@ -1,5 +1,5 @@
-animeTitle	b'Karadasagashi'
-animeType	b'ONA'
+animeTitle	Karadasagashi
+animeType	ONA
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.7
 animeUsers	147
 animeRank	
-animePopularity	
-animeDescription	"b'""Hey, Asuka... search for my body."" \n\nAt school in the middle of the night, Asuka and her friends search for the scattered body-parts. If they don\'t find the entire body, the 9th of November is repeated and the red person will continue to kill them. Who is the red person?\n\n(Source: MU)'"
-animeRelated	[b'Karadasagashi']
-animeCharacters	[b'Ise, Takahiro', b'Morisaki, Asuka', b'Naruto, Rie', b'Uranishi, Shouta', b'Hiiragi, Rumiko', b'Red Person', b'Sugimoto, Kenji', b'Mikami, Haruka']
-animeVoices	[b'\nEguchi, Takuya\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nAsahina, Madoka\nJapanese\n', b'\nNishiyama, Koutarou\nJapanese\n', b'\nAoyama, Reina\nJapanese\n', b'\nTanaka, Aimi\nJapanese\n', b'\nUmehara, Yuuichirou\nJapanese\n', b'\nOrie, Tamaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKoizumi, Kisuke\n\nSound Director\n\n', b'\nMurase, Katsutoshi\n\nOriginal Character Design\n\n', b'\nWelzard\n\nOriginal Creator\n\n']
+animePopularity	7343
+animeDescription	"""Hey, Asuka... search for my body."" 
+
+At school in the middle of the night, Asuka and her friends search for the scattered body-parts. If they don't find the entire body, the 9th of November is repeated and the red person will continue to kill them. Who is the red person?
+
+(Source: MU)"
+animeRelated	['Karadasagashi']
+animeCharacters	['Ise, Takahiro', 'Morisaki, Asuka', 'Naruto, Rie', 'Uranishi, Shouta', 'Hiiragi, Rumiko', 'Red Person', 'Sugimoto, Kenji', 'Mikami, Haruka']
+animeVoices	['Eguchi, Takuya', 'Asumi, Kana', 'Asahina, Madoka', 'Nishiyama, Koutarou', 'Aoyama, Reina', 'Tanaka, Aimi', 'Umehara, Yuuichirou', 'Orie, Tamaki']
+animeStaff	[['Koizumi, Kisuke', 'Sound Director'], ['Murase, Katsutoshi', 'Original Character Design'], ['Welzard', 'Original Creator']]

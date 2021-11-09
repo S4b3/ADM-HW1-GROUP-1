@@ -1,5 +1,5 @@
-animeTitle	b'Detective Conan Movie 01: The Timed Skyscraper'
-animeType	b'Movie'
+animeTitle	Detective Conan Movie 01: The Timed Skyscraper
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.86
 animeUsers	37863
 animeRank	
-animePopularity	
-animeDescription	b'Conan Edogawa is facing a dilemma: Ran Mouri has asked Shinichi Kudou out to the movies and he is unable to provide a convincing excuse not to go. However, when the day of the date arrives, he has more pressing problems to worry about\xe2\x80\x94a great amount of plastic explosives has recently been stolen and the culprit has challenged Shinichi to find and dispose of the bombs he has scattered across the city. Now forced in a race against time, Conan must not only protect the city, but also figure out who the mastermind is and his reason for confronting Shinichi.\n\n[Written by MAL Rewrite]'
-animeRelated	[b'Meitantei Conan: Tokeijikake no Matenrou', b'Detective Conan']
-animeCharacters	[b'Edogawa, Conan', b'Mouri, Ran', b'Mouri, Kogorou', b'Agasa, Hiroshi', b'Suzuki, Sonoko', b'Yoshida, Ayumi', b'Tsuburaya, Mitsuhiko', b'Kojima, Genta', b'Megure, Juuzou', b'Shiratori, Ninzaburou']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nKamiya, Akira\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n', b'\nIwai, Yukiko\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nCook, Justin\n\nProducer\n\n', b'\nKodama, Kenji\n\nDirector, Storyboard, Key Animation\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nAoyama, Gosho\n\nOriginal Creator\n\n']
+animePopularity	2246
+animeDescription	"Conan Edogawa is facing a dilemma: Ran Mouri has asked Shinichi Kudou out to the movies and he is unable to provide a convincing excuse not to go. However, when the day of the date arrives, he has more pressing problems to worry about—a great amount of plastic explosives has recently been stolen and the culprit has challenged Shinichi to find and dispose of the bombs he has scattered across the city. Now forced in a race against time, Conan must not only protect the city, but also figure out who the mastermind is and his reason for confronting Shinichi.
+
+[Written by MAL Rewrite]"
+animeRelated	['Meitantei Conan: Tokeijikake no Matenrou', 'Detective Conan']
+animeCharacters	['Edogawa, Conan', 'Mouri, Ran', 'Mouri, Kogorou', 'Agasa, Hiroshi', 'Suzuki, Sonoko', 'Yoshida, Ayumi', 'Tsuburaya, Mitsuhiko', 'Kojima, Genta', 'Megure, Juuzou', 'Shiratori, Ninzaburou']
+animeVoices	['Takayama, Minami', 'Yamazaki, Wakana', 'Kamiya, Akira', 'Ogata, Kenichi', 'Matsui, Naoko', 'Iwai, Yukiko', 'Ootani, Ikue', 'Takagi, Wataru', 'Chafurin', 'Shiozawa, Kaneto']
+animeStaff	[['Cook, Justin', 'Producer'], ['Kodama, Kenji', 'Director, Storyboard, Key Animation'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Aoyama, Gosho', 'Original Creator']]

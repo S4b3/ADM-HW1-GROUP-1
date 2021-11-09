@@ -1,5 +1,5 @@
-animeTitle	b'Hanaukyou Maid-tai: La Verite'
-animeType	b'TV'
+animeTitle	Hanaukyou Maid-tai: La Verite
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.78
 animeUsers	9742
 animeRank	
-animePopularity	
-animeDescription	"b""After his mother passes away, Taro Hanaukyo is invited to his grandfather's home. There, he meets a beautiful maid named Mariel and finds out that his grandfather has retired to a remote island and has given him ownership of his estate. Taro also discovers that not only is the estate a colossal mansion, it has hundreds of gorgeous maids ready to serve him 24 hours a day, seven days a week. \n\n(Source: ANN)"""
-animeRelated	[b'Hanaukyou Maid-tai']
-animeCharacters	[b'Mariel', b'Hanaukyou, Tarou', b'Suzuki, Ikuyo', b'Ichigo, Sango and Ringo', b'Tsurugi, Konoe', b'Yashima, Sanae', b'Landlavizar, Cynthia', b'Jihiyou, Ryuuka', b'Grace']
-animeVoices	[b'\nTanaka, Rie\nJapanese\n', b'\nKaida, Yuki\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nHiramatsu, Akiko\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nKaneda, Tomoko\nJapanese\n', b'\nTakahashi, Rieko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNonaka, Takuya\n\nDirector, Episode Director, Storyboard, Key Animation\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nYoneda, Mitsuhiro\n\nEpisode Director\n\n', b'\nAoshima, Takashi\n\nScript\n\n']
+animePopularity	3895
+animeDescription	"After his mother passes away, Taro Hanaukyo is invited to his grandfather's home. There, he meets a beautiful maid named Mariel and finds out that his grandfather has retired to a remote island and has given him ownership of his estate. Taro also discovers that not only is the estate a colossal mansion, it has hundreds of gorgeous maids ready to serve him 24 hours a day, seven days a week. 
+
+(Source: ANN)"
+animeRelated	['Hanaukyou Maid-tai']
+animeCharacters	['Mariel', 'Hanaukyou, Tarou', 'Suzuki, Ikuyo', 'Ichigo, Sango and Ringo', 'Tsurugi, Konoe', 'Yashima, Sanae', 'Landlavizar, Cynthia', 'Jihiyou, Ryuuka', 'Grace']
+animeVoices	['Tanaka, Rie', 'Kaida, Yuki', 'Kadowaki, Mai', 'Hiramatsu, Akiko', 'Watanabe, Akeno', 'Kaneda, Tomoko', 'Takahashi, Rieko']
+animeStaff	[['Nonaka, Takuya', 'Director, Episode Director, Storyboard, Key Animation'], ['Kikuta, Hiromi', 'Sound Director'], ['Yoneda, Mitsuhiro', 'Episode Director'], ['Aoshima, Takashi', 'Script']]

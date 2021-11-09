@@ -1,5 +1,5 @@
-animeTitle	b'Keijo!!!!!!!! Specials'
-animeType	b'Special'
+animeTitle	Keijo!!!!!!!! Specials
+animeType	Special
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.47
 animeUsers	6368
 animeRank	
-animePopularity	
-animeDescription	b'Specials bundled with the DVD/BD release of the main series.'
-animeRelated	[b'Keijo!!!!!!!!']
-animeCharacters	[b'Kaminashi, Nozomi', b'Miyata, Sayaka', b'Aoba, Kazane', b'Toyoguchi, Non', b'Kusakai, Mio', b'Kawai, Hanabi', b'Ujibe, Nagisa']
-animeVoices	[b'\nLynn\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nHondo, Kaede\nJapanese\n', b'\nOonishi, Saori\nJapanese\n', b'\nYamamura, Hibiku\nJapanese\n', b'\nMaeda, Rena\nJapanese\n', b'\nAndou, Mabuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSorayomi, Daichi\n\nOriginal Creator\n\n']
+animePopularity	3966
+animeDescription	Specials bundled with the DVD/BD release of the main series.
+animeRelated	['Keijo!!!!!!!!']
+animeCharacters	['Kaminashi, Nozomi', 'Miyata, Sayaka', 'Aoba, Kazane', 'Toyoguchi, Non', 'Kusakai, Mio', 'Kawai, Hanabi', 'Ujibe, Nagisa']
+animeVoices	['Lynn', 'Ichimichi, Mao', 'Hondo, Kaede', 'Oonishi, Saori', 'Yamamura, Hibiku', 'Maeda, Rena', 'Andou, Mabuki']
+animeStaff	[['Sorayomi, Daichi', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Tonari no Tamageta-kun'
-animeType	b'TV'
+animeTitle	Tonari no Tamageta-kun
+animeType	TV
 animeNumEpisode	60
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'The adventures of a witless boy who finds a time machine hidden in a cave near his house. The 5 minutes episodes aired during the morning television show ""Ohayo Kodomo"".\n\n(Source: AniDB)'"
+animePopularity	14485
+animeDescription	"The adventures of a witless boy who finds a time machine hidden in a cave near his house. The 5 minutes episodes aired during the morning television show ""Ohayo Kodomo"".
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Tamageta', b'Kitsune', b'Helmekko']
-animeVoices	[b'\nMatsukane, Yoneko\nJapanese\n', b'\nAono, Takeshi\nJapanese\n', b'\nEbisu, Masako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiguro, Noboru\n\nEpisode Director\n\n', b'\nSuzuki, Shinichi\n\nEpisode Director, Animation Director\n\n', b'\nIshinomori, Shoutarou\n\nScript, Original Creator\n\n']
+animeCharacters	['Tamageta', 'Kitsune', 'Helmekko']
+animeVoices	['Matsukane, Yoneko', 'Aono, Takeshi', 'Ebisu, Masako']
+animeStaff	[['Ishiguro, Noboru', 'Episode Director'], ['Suzuki, Shinichi', 'Episode Director, Animation Director'], ['Ishinomori, Shoutarou', 'Script, Original Creator']]

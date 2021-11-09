@@ -1,5 +1,5 @@
-animeTitle	b'Cannon Busters'
-animeType	b'ONA'
+animeTitle	Cannon Busters
+animeType	ONA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.45
 animeUsers	15552
 animeRank	
-animePopularity	
-animeDescription	"b""Follow the adventures and exploits of S.A.M, a high-end, royal-class friendship droid who's joined by a quirky, discarded maintenance robot and a brash, deadly fugitive. Together, the unlikely trio embarks on an unforgettable journey in a fantastic and dangerous world in search of S.A.M's best friend, the heir to a powerful kingdom under siege.\n\n(Source: Official Website)"""
+animePopularity	3166
+animeDescription	"Follow the adventures and exploits of S.A.M, a high-end, royal-class friendship droid who's joined by a quirky, discarded maintenance robot and a brash, deadly fugitive. Together, the unlikely trio embarks on an unforgettable journey in a fantastic and dangerous world in search of S.A.M's best friend, the heir to a powerful kingdom under siege.
+
+(Source: Official Website)"
 animeRelated	[]
-animeCharacters	[b'Philly the Kid', b'Turnbuckle, Casey', b'S.A.M.', b'Hilda', b'Kelby', b'Odin', b'9ine']
-animeVoices	[b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nIzawa, Shiori\nJapanese\n', b'\nYano, Hinaki\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nMajima, Junji\nJapanese\n', b'\nKuroda, Takaya\nJapanese\n', b'\nAkimoto, Yousuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nThomas, LeSean\n\nDirector, Original Creator\n\n', b'\nNatori, Takahiro\n\nDirector\n\n', b'\nHamano, Takatoshi\n\nSound Director\n\n', b'\nLucindo, F\xc3\xa1bio\n\nADR Director\n\n']
+animeCharacters	['Philly the Kid', 'Turnbuckle, Casey', 'S.A.M.', 'Hilda', 'Kelby', 'Odin', '9ine']
+animeVoices	['Matsuoka, Yoshitsugu', 'Izawa, Shiori', 'Yano, Hinaki', 'Minagawa, Junko', 'Majima, Junji', 'Kuroda, Takaya', 'Akimoto, Yousuke']
+animeStaff	[['Thomas, LeSean', 'Director, Original Creator'], ['Natori, Takahiro', 'Director'], ['Hamano, Takatoshi', 'Sound Director'], ['Lucindo, Fábio', 'ADR Director']]

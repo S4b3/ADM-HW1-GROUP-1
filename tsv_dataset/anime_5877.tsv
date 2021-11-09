@@ -1,5 +1,5 @@
-animeTitle	b'FLCL Alternative'
-animeType	b'Movie'
+animeTitle	FLCL Alternative
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.55
 animeUsers	21133
 animeRank	
-animePopularity	
-animeDescription	"b'Life seems to drift by for Kana Koumoto and her friends in their small Japanese town. Every day is just like the last, and it feels like every new day will be the same. Kana goes to school, hangs out with her friends, and likes to paint her nails and listen to music, but it feels like nothing special is ever going to happen. \n\nAs a change of pace, Kana and her friends decide to design a bottle rocket and launch it into space, even though it might not get there at all. However, just when the rocket is completed, a robot suddenly crashes into and destroys it, shortly followed by a pink-haired woman claiming to be a ""Galactic Investigator."" Kana\'s life quickly becomes more exciting than she ever imagined, dealing with new feelings, changing friends, and even boy troubles. It turns out life can go by in the blink of an eye, fast enough to even miss it, so what\'s with these weird robots that seem to show up at the worst times?!\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'FLCL Progressive']
-animeCharacters	[b'Haruhara, Haruko', b'Koumoto, Kana', b'Nabeta, Tomomi', b'Yajima, Hijiri ', b'Motoyama, Man ']
-animeVoices	[b'\nShintani, Mayumi\nJapanese\n', b'\nMiyama, Karen\nJapanese\n', b'\nYoshida, Yuuri\nJapanese\n', b'\nIida, Riho\nJapanese\n', b'\nTamura, Mutsumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTerashima-Furuta, Maki\n\nProducer\n\n', b'\nUemura, Yutaka\n\nDirector, Episode Director, Storyboard\n\n', b'\nMotohiro, Katsuyuki\n\nDirector\n\n', b'\nSuzuki, Kiyotaka\n\nDirector\n\n']
+animePopularity	1869
+animeDescription	"Life seems to drift by for Kana Koumoto and her friends in their small Japanese town. Every day is just like the last, and it feels like every new day will be the same. Kana goes to school, hangs out with her friends, and likes to paint her nails and listen to music, but it feels like nothing special is ever going to happen. 
+
+As a change of pace, Kana and her friends decide to design a bottle rocket and launch it into space, even though it might not get there at all. However, just when the rocket is completed, a robot suddenly crashes into and destroys it, shortly followed by a pink-haired woman claiming to be a ""Galactic Investigator."" Kana's life quickly becomes more exciting than she ever imagined, dealing with new feelings, changing friends, and even boy troubles. It turns out life can go by in the blink of an eye, fast enough to even miss it, so what's with these weird robots that seem to show up at the worst times?!
+
+[Written by MAL Rewrite]"
+animeRelated	['FLCL Progressive']
+animeCharacters	['Haruhara, Haruko', 'Koumoto, Kana', 'Nabeta, Tomomi', 'Yajima, Hijiri ', 'Motoyama, Man ']
+animeVoices	['Shintani, Mayumi', 'Miyama, Karen', 'Yoshida, Yuuri', 'Iida, Riho', 'Tamura, Mutsumi']
+animeStaff	[['Terashima-Furuta, Maki', 'Producer'], ['Uemura, Yutaka', 'Director, Episode Director, Storyboard'], ['Motohiro, Katsuyuki', 'Director'], ['Suzuki, Kiyotaka', 'Director']]

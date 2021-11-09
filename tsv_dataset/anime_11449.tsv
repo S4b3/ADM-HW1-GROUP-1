@@ -1,5 +1,5 @@
-animeTitle	b'Shiawasette Naani'
-animeType	b'OVA'
+animeTitle	Shiawasette Naani
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.01
 animeUsers	573
 animeRank	
-animePopularity	
-animeDescription	b'Based on a series of books authored by Ryuho Ookawa. Alto is going home from school, when he finds a girl who calls herself an angel. '
+animePopularity	10815
+animeDescription	Based on a series of books authored by Ryuho Ookawa. Alto is going home from school, when he finds a girl who calls herself an angel. 
 animeRelated	[]
-animeCharacters	[b'Tenshi-san']
+animeCharacters	['Tenshi-san']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshihara, Tatsuya\n\nDirector, Animation Director\n\n', b'\nOokawa, Ryuuhou\n\nOriginal Creator\n\n']
+animeStaff	[['Ishihara, Tatsuya', 'Director, Animation Director'], ['Ookawa, Ryuuhou', 'Original Creator']]

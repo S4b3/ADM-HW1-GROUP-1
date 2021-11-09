@@ -1,5 +1,5 @@
-animeTitle	b'Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku'
-animeType	b'Movie'
+animeTitle	Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Deemo is a mystic character lives in solitude, a castle, all by itself. A little girl falls from the sky, not knowing who she is, where she comes from. To help the little girl back to her world, Deemo comes to realize a tree keeps growing tall on top of the piano whenever it plays. What would Deemo do when it gets comfortable with the companionship it never had before? What if the little girl couldn't deal with the truth when her seemingly lost memories regained?! \n\n(Source: Official Site)"""
+animePopularity	7417
+animeDescription	"Deemo is a mystic character lives in solitude, a castle, all by itself. A little girl falls from the sky, not knowing who she is, where she comes from. To help the little girl back to her world, Deemo comes to realize a tree keeps growing tall on top of the piano whenever it plays. What would Deemo do when it gets comfortable with the companionship it never had before? What if the little girl couldn't deal with the truth when her seemingly lost memories regained?! 
+
+(Source: Official Site)"
 animeRelated	[]
-animeCharacters	[b'Alice', b'Deemo', b'Sania', b'Rosalia', b'Hans', b'Masked Lady', b'Nutcracker', b'Fragrant Sachet', b'Mirai']
-animeVoices	[b'\nTaketatsu, Ayana\nJapanese\n', b'\nKitou, Akari\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nNibu, Akari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFujisaku, Junichi\n\nDirector, Screenplay\n\n', b'\nMatsushita, Shuuhei\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nKajiura, Yuki\n\nTheme Song Composition\n\n']
+animeCharacters	['Alice', 'Deemo', 'Sania', 'Rosalia', 'Hans', 'Masked Lady', 'Nutcracker', 'Fragrant Sachet', 'Mirai']
+animeVoices	['Taketatsu, Ayana', 'Kitou, Akari', 'Sakura, Ayane', 'Nibu, Akari']
+animeStaff	[['Fujisaku, Junichi', 'Director, Screenplay'], ['Matsushita, Shuuhei', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Kajiura, Yuki', 'Theme Song Composition']]

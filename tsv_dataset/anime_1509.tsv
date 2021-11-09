@@ -1,5 +1,5 @@
-animeTitle	b'So Ra No Wo To Specials'
-animeType	b'Special'
+animeTitle	So Ra No Wo To Specials
+animeType	Special
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.54
 animeUsers	13933
 animeRank	
-animePopularity	
-animeDescription	"b'Two extra episodes included in the Blu-ray and DVD volumes 4 and 7 of ""Sora no Woto"".\n\nThe first, episode 7.5, takes place during the series. Felicia proposes a mock battle between the maidens after Kanata sees Rio opening the door to the distillery. If Kanata can win, they\'ll tell her the truth about the secret room. However, things get out of hand when alcohol gets involved!\n\nThe second, episode 13, takes place after the series ends. One of the local children asks Kanata what her dream is. Unable to answer, Kanata talks to the other characters about their dreams and goals.'"
-animeRelated	[b'So Ra No Wo To']
-animeCharacters	[b'Kannagi, No\xc3\xabl', b'Sorami, Kanata', b'Kazumiya, Rio', b'Heideman, Filicia', b'Suminoya, Kureha', b'Yumina', b'Shuko', b'Krauss', b'Carl', b'Maria']
-animeVoices	[b'\nYuuki, Aoi\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nKitamura, Eri\nJapanese\n', b'\nFukuen, Misato\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKanbe, Mamoru\n\nDirector\n\n', b'\nShimizu, Katsunori\n\nSound Director\n\n', b'\nYoshino, Hiroyuki\n\nScript, Series Composition\n\n', b'\nKyougoku, Takahiko\n\nStoryboard\n\n']
+animePopularity	3606
+animeDescription	"Two extra episodes included in the Blu-ray and DVD volumes 4 and 7 of ""Sora no Woto"".
+
+The first, episode 7.5, takes place during the series. Felicia proposes a mock battle between the maidens after Kanata sees Rio opening the door to the distillery. If Kanata can win, they'll tell her the truth about the secret room. However, things get out of hand when alcohol gets involved!
+
+The second, episode 13, takes place after the series ends. One of the local children asks Kanata what her dream is. Unable to answer, Kanata talks to the other characters about their dreams and goals."
+animeRelated	['So Ra No Wo To']
+animeCharacters	['Kannagi, Noël', 'Sorami, Kanata', 'Kazumiya, Rio', 'Heideman, Filicia', 'Suminoya, Kureha', 'Yumina', 'Shuko', 'Krauss', 'Carl', 'Maria']
+animeVoices	['Yuuki, Aoi', 'Kanemoto, Hisako', 'Kobayashi, Yuu', 'Endou, Aya', 'Kitamura, Eri', 'Fukuen, Misato', 'Ishizuka, Unshou', 'Tomatsu, Haruka']
+animeStaff	[['Kanbe, Mamoru', 'Director'], ['Shimizu, Katsunori', 'Sound Director'], ['Yoshino, Hiroyuki', 'Script, Series Composition'], ['Kyougoku, Takahiko', 'Storyboard']]

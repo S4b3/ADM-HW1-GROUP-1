@@ -1,5 +1,5 @@
-animeTitle	b'Initial D Extra Stage'
-animeType	b'OVA'
+animeTitle	Initial D Extra Stage
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.31
 animeUsers	23175
 animeRank	
-animePopularity	
-animeDescription	"b'The Lancer EVO-driving group ""Emperor"" have defeated every racing team they\'ve met in the Gunma region. Now they\'re out to challenge the duo of Mako and Sayuki and their SilEighty - the Impact Blue of Usui Mountain. \n\n(Source: ANN)'"
-animeRelated	[b'Initial D Second Stage', b'Initial D Third Stage', b'Initial D Extra Stage 2']
-animeCharacters	[b'Satou, Mako', b'Sayuki', b'Fujiwara, Takumi', b'Takahashi, Ryousuke', b'Takahashi, Keisuke', b'Takeuchi, Itsuki', b'Nakazato, Takeshi', b'Shouji, Shingo', b'Iketani, Kouichirou']
-animeVoices	[b'\nNeya, Michiko\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nYao, Kazuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKubota, Mitsutoshi\n\nProducer\n\n', b'\nVale, Eric\n\nScript\n\n', b'\nNeya, Michiko\n\nTheme Song Performance\n\n', b'\nKakazu, Yumi\n\nTheme Song Performance\n\n']
+animePopularity	2750
+animeDescription	"The Lancer EVO-driving group ""Emperor"" have defeated every racing team they've met in the Gunma region. Now they're out to challenge the duo of Mako and Sayuki and their SilEighty - the Impact Blue of Usui Mountain. 
+
+(Source: ANN)"
+animeRelated	['Initial D Second Stage', 'Initial D Third Stage', 'Initial D Extra Stage 2']
+animeCharacters	['Satou, Mako', 'Sayuki', 'Fujiwara, Takumi', 'Takahashi, Ryousuke', 'Takahashi, Keisuke', 'Takeuchi, Itsuki', 'Nakazato, Takeshi', 'Shouji, Shingo', 'Iketani, Kouichirou']
+animeVoices	['Neya, Michiko', 'Kakazu, Yumi', 'Miki, Shinichiro', 'Koyasu, Takehito', 'Seki, Tomokazu', 'Iwata, Mitsuo', 'Hiyama, Nobuyuki', 'Fujiwara, Keiji', 'Yao, Kazuki']
+animeStaff	[['Kubota, Mitsutoshi', 'Producer'], ['Vale, Eric', 'Script'], ['Neya, Michiko', 'Theme Song Performance'], ['Kakazu, Yumi', 'Theme Song Performance']]

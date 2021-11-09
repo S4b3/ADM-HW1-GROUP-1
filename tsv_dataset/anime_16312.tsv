@@ -1,5 +1,5 @@
-animeTitle	b'Introspection'
-animeType	b'Movie'
+animeTitle	Introspection
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,8 +7,10 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b'""We can understand each other without understanding each language.""\n\n(Source: Maya Yonesho)'"
+animePopularity	16666
+animeDescription	"""We can understand each other without understanding each language.""
+
+(Source: Maya Yonesho)"
 animeRelated	[]
 animeCharacters	[]
 animeVoices	[]

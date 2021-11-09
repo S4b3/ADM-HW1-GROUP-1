@@ -1,5 +1,5 @@
-animeTitle	b'The iDOLM@STER Movie: Kagayaki no Mukougawa e!'
-animeType	b'Movie'
+animeTitle	The iDOLM@STER Movie: Kagayaki no Mukougawa e!
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.6
 animeUsers	10120
 animeRank	
-animePopularity	
-animeDescription	"b""The idols of 765 Production continue on their neverending journey\xe2\x80\x94towards a new stage, towards a bright and shiny future!\n\nThe girls and their producer have gone through thick and thin, and have stood face to face with all kinds of difficulties.\n\nIt's time again for the girls to foster their friendship, and through great discipline, they step forward to their starry future.\n\n(Source: Official website)"""
-animeRelated	[b'The iDOLM@STER Shiny Festa']
-animeCharacters	[b'Kisaragi, Chihaya', b'Hoshii, Miki', b'Kikuchi, Makoto', b'Shijou, Takane', b'Amami, Haruka', b'Minase, Iori', b'Ganaha, Hibiki', b'Takatsuki, Yayoi', b'Hagiwara, Yukiho', b'Miura, Azusa']
-animeVoices	[b'\nImai, Asami\nJapanese\n', b'\nHasegawa, Akiko\nJapanese\n', b'\nHirata, Hiromi\nJapanese\n', b'\nHara, Yumi\nJapanese\n', b'\nNakamura, Eriko\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nNumakura, Manami\nJapanese\n', b'\nNigo, Mayako\nJapanese\n', b'\nAsakura, Azumi\nJapanese\n', b'\nTakahashi, Chiaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nToba, Yousuke\n\nProducer\n\n', b'\nFukushima, Yuuichi\n\nProducer\n\n', b'\nNishigori, Atsushi\n\nDirector, Script, Character Design, Chief Animation Director\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n']
+animePopularity	3860
+animeDescription	"The idols of 765 Production continue on their neverending journey—towards a new stage, towards a bright and shiny future!
+
+The girls and their producer have gone through thick and thin, and have stood face to face with all kinds of difficulties.
+
+It's time again for the girls to foster their friendship, and through great discipline, they step forward to their starry future.
+
+(Source: Official website)"
+animeRelated	['The iDOLM@STER Shiny Festa']
+animeCharacters	['Kisaragi, Chihaya', 'Hoshii, Miki', 'Kikuchi, Makoto', 'Shijou, Takane', 'Amami, Haruka', 'Minase, Iori', 'Ganaha, Hibiki', 'Takatsuki, Yayoi', 'Hagiwara, Yukiho', 'Miura, Azusa']
+animeVoices	['Imai, Asami', 'Hasegawa, Akiko', 'Hirata, Hiromi', 'Hara, Yumi', 'Nakamura, Eriko', 'Kugimiya, Rie', 'Numakura, Manami', 'Nigo, Mayako', 'Asakura, Azumi', 'Takahashi, Chiaki']
+animeStaff	[['Toba, Yousuke', 'Producer'], ['Fukushima, Yuuichi', 'Producer'], ['Nishigori, Atsushi', 'Director, Script, Character Design, Chief Animation Director'], ['Kikuta, Hiromi', 'Sound Director']]

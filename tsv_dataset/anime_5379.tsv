@@ -1,5 +1,5 @@
-animeTitle	b'Happy\xe2\x98\x86Lesson (TV)'
-animeType	b'TV'
+animeTitle	Happy☆Lesson (TV)
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.64
 animeUsers	10842
 animeRank	
-animePopularity	
-animeDescription	"b""Hitotose Chitose was always alone and untrusting of people but when 5 female teachers appear and started living together with him in his family's house as his mothers, things started to change and pick up, together with Hazuki-nee and Minazuki (his 2 sisters) everyday is a lesson. \n\n(Source: ANN)"""
-animeRelated	[b'Happy\xe2\x98\x85Lesson: Mama Sensei wa Saikou!', b'Happy\xe2\x98\x86Lesson', b'Happy\xe2\x98\x86Lesson: Advance', b'Happy\xe2\x98\x86Lesson: Hoka Hoka\xe2\x98\x85Kanna to Futari Kiri']
-animeCharacters	[b'Ninomai, Kisaragi', b'Ichimonji, Mutsuki', b'Hitotose, Chitose', b'Sanzenin, Yayoi', b'Shitenno, Uzuki', b'Gokajou, Satsuki', b'Togakushi, Kanna', b'Rokumatsuri, Minazuki', b'Yazakura, Hazuki', b'Nanakorobi, Fumitsuki']
-animeVoices	[b'\nKimura, Akiko\nJapanese\n', b'\nAsano, Ruri\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nKoyama, Kimiko\nJapanese\n', b'\nSasajima, Kaoru\nJapanese\n', b'\nNakagawa, Akiko\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nSonozaki, Mie\nJapanese\n', b'\nShima, Ryouka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Iku\n\nDirector\n\n', b'\nNakanishi, Nobuaki\n\nEpisode Director, Storyboard\n\n', b'\nYoshioka, Takao\n\nScript\n\n', b'\nYoshinaga, Naoyuki\n\nStoryboard\n\n']
+animePopularity	3593
+animeDescription	"Hitotose Chitose was always alone and untrusting of people but when 5 female teachers appear and started living together with him in his family's house as his mothers, things started to change and pick up, together with Hazuki-nee and Minazuki (his 2 sisters) everyday is a lesson. 
+
+(Source: ANN)"
+animeRelated	['Happy★Lesson: Mama Sensei wa Saikou!', 'Happy☆Lesson', 'Happy☆Lesson: Advance', 'Happy☆Lesson: Hoka Hoka★Kanna to Futari Kiri']
+animeCharacters	['Ninomai, Kisaragi', 'Ichimonji, Mutsuki', 'Hitotose, Chitose', 'Sanzenin, Yayoi', 'Shitenno, Uzuki', 'Gokajou, Satsuki', 'Togakushi, Kanna', 'Rokumatsuri, Minazuki', 'Yazakura, Hazuki', 'Nanakorobi, Fumitsuki']
+animeVoices	['Kimura, Akiko', 'Asano, Ruri', 'Kishio, Daisuke', 'Inoue, Kikuko', 'Koyama, Kimiko', 'Sasajima, Kaoru', 'Nakagawa, Akiko', 'Mizuki, Nana', 'Sonozaki, Mie', 'Shima, Ryouka']
+animeStaff	[['Suzuki, Iku', 'Director'], ['Nakanishi, Nobuaki', 'Episode Director, Storyboard'], ['Yoshioka, Takao', 'Script'], ['Yoshinaga, Naoyuki', 'Storyboard']]

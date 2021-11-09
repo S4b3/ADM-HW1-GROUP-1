@@ -1,5 +1,5 @@
-animeTitle	b'Kimi ni Todoke 2nd Season: Kataomoi'
-animeType	b'Special'
+animeTitle	Kimi ni Todoke 2nd Season: Kataomoi
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.2
 animeUsers	31690
 animeRank	
-animePopularity	
-animeDescription	"b""The Kimi ni Todoke story so far, from Kurumi's point of view. """
-animeRelated	[b'Kimi ni Todoke', b'Kimi ni Todoke 2nd Season']
-animeCharacters	[b'Kuronuma, Sawako', b'Kurumizawa, Ume', b'Kazehaya, Shouta', b'Sanada, Ryuu']
-animeVoices	[b'\nNoto, Mamiko\nJapanese\n', b'\nHirano, Aya\nJapanese\n', b'\nNamikawa, Daisuke\nJapanese\n', b'\nNakamura, Yuuichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWada, Jouji\n\nProducer\n\n', b'\nKaburagi, Hiro\n\nDirector, Script\n\n', b'\nShiina, Karuho\n\nOriginal Creator\n\n', b'\nS.E.N.S.\n\nMusic\n\n']
+animePopularity	2195
+animeDescription	The Kimi ni Todoke story so far, from Kurumi's point of view. 
+animeRelated	['Kimi ni Todoke', 'Kimi ni Todoke 2nd Season']
+animeCharacters	['Kuronuma, Sawako', 'Kurumizawa, Ume', 'Kazehaya, Shouta', 'Sanada, Ryuu']
+animeVoices	['Noto, Mamiko', 'Hirano, Aya', 'Namikawa, Daisuke', 'Nakamura, Yuuichi']
+animeStaff	[['Wada, Jouji', 'Producer'], ['Kaburagi, Hiro', 'Director, Script'], ['Shiina, Karuho', 'Original Creator'], ['S.E.N.S.', 'Music']]

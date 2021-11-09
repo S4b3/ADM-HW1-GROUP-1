@@ -1,5 +1,5 @@
-animeTitle	b'Docchi mo Maid'
-animeType	b'ONA'
+animeTitle	Docchi mo Maid
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	4.12
 animeUsers	841
 animeRank	
-animePopularity	
-animeDescription	"b""Izumi, a 12-year-old schoolgirl, suddenly gets not one but two lovely and rather lewd maids from outer space, who have to defend her city from a monster's invasion."""
+animePopularity	9910
+animeDescription	Izumi, a 12-year-old schoolgirl, suddenly gets not one but two lovely and rather lewd maids from outer space, who have to defend her city from a monster's invasion.
 animeRelated	[]
-animeCharacters	[b'Izumi', b'Ido', b'Mei', b'Frilly', b'Chicchaiko']
-animeVoices	[b'\nOuka, Kasuga\nJapanese\n', b'\nKurage, Kozue\nJapanese\n', b'\nOkajima, Tae\nJapanese\n', b'\nHiiragi, Kagura\nJapanese\n', b'\nMihiro, Matsuri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshikawa, Naoya\n\nDirector, Script, Theme Song Lyrics\n\n', b'\nOkajima, Tae\n\nTheme Song Performance\n\n', b'\nKurage, Kozue\n\nTheme Song Performance\n\n', b'\nMorita, Shunsuke\n\nTheme Song Composition\n\n']
+animeCharacters	['Izumi', 'Ido', 'Mei', 'Frilly', 'Chicchaiko']
+animeVoices	['Ouka, Kasuga', 'Kurage, Kozue', 'Okajima, Tae', 'Hiiragi, Kagura', 'Mihiro, Matsuri']
+animeStaff	[['Ishikawa, Naoya', 'Director, Script, Theme Song Lyrics'], ['Okajima, Tae', 'Theme Song Performance'], ['Kurage, Kozue', 'Theme Song Performance'], ['Morita, Shunsuke', 'Theme Song Composition']]

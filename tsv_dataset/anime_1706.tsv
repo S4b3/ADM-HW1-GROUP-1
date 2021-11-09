@@ -1,5 +1,5 @@
-animeTitle	b'Salaryman Kintarou'
-animeType	b'TV'
+animeTitle	Salaryman Kintarou
+animeType	TV
 animeNumEpisode	20
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.47
 animeUsers	2648
 animeRank	
-animePopularity	
-animeDescription	"b'The story follows Kintaro, former leader of a widely feared and respected biker gang, who decides that its time to ""straighten out"" and become a ""salaryman"" since his wife died and he has to take care of his young son.\n\n(Source: AniDB)'"
-animeRelated	[b'Salaryman Kintarou']
-animeCharacters	"[b'Yajima, Kintarou', b'Suenaga, Misuzu', b'Yamato, Morinosuke', b'Biker Girl', b'Yajima, Ryuuta', b'Nakazawa', b'Murakami', b'Okada', b""Kintarou's Uncle"", b'Okamoto']"
-animeVoices	[b'\nMiyamoto, Taisei\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nKawakubo, Kiyoshi\nJapanese\n', b'\nYuunagi, Kayo\nJapanese\n', b'\nJou, Masako\nJapanese\n', b'\nKumagai, Masayuki\nJapanese\n', b'\nHirano, Toshitaka\nJapanese\n', b'\nChou, Katsumi\nJapanese\n', b'\nTanaka, Kan\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKatsumata, Tomoharu\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nYamayoshi, Yasuo\n\nEpisode Director\n\n', b'\nTomita, Sukehiro\n\nScript\n\n']
+animePopularity	5686
+animeDescription	"The story follows Kintaro, former leader of a widely feared and respected biker gang, who decides that its time to ""straighten out"" and become a ""salaryman"" since his wife died and he has to take care of his young son.
+
+(Source: AniDB)"
+animeRelated	['Salaryman Kintarou']
+animeCharacters	"['Yajima, Kintarou', 'Suenaga, Misuzu', 'Yamato, Morinosuke', 'Biker Girl', 'Yajima, Ryuuta', 'Nakazawa', 'Murakami', 'Okada', ""Kintarou's Uncle"", 'Okamoto']"
+animeVoices	['Miyamoto, Taisei', 'Tanaka, Atsuko', 'Kawakubo, Kiyoshi', 'Yuunagi, Kayo', 'Jou, Masako', 'Kumagai, Masayuki', 'Hirano, Toshitaka', 'Chou, Katsumi', 'Tanaka, Kan']
+animeStaff	[['Katsumata, Tomoharu', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Yamayoshi, Yasuo', 'Episode Director'], ['Tomita, Sukehiro', 'Script']]

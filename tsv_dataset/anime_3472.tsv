@@ -1,5 +1,5 @@
-animeTitle	b'Bishoujo Senshi Sailor Moon R: Make Up! Sailor Senshi'
-animeType	b'Special'
+animeTitle	Bishoujo Senshi Sailor Moon R: Make Up! Sailor Senshi
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.07
 animeUsers	6888
 animeRank	
-animePopularity	
-animeDescription	"b""Usagi and Chibiusa overhear two girls talking about the Sailor Senshi after they see a poster. Humorously, as the girls discuss which is the smartest, most elegant, strongest, and the leader of the Senshi, Usagi claims those titles for herself. Chibiusa shakes her head at Usagi's delusion. Clips are shown from the debut of each Sailor Senshi, and that girl's image song is played in the background. When even Tuxedo Mask is mentioned, and the girls go to leave without having mentioned Sailor Moon, Usagi butts in on their conversation and asks them directly about Sailor Moon. The girls give a series of glowing compliments about Sailor Moon, but unlike they did for the other Senshi, they also list her faults. After the girls leave, Usagi sarcastically apologises for being a clumsy cry-baby and then bursts into tears.\n\n(Source: Wikipedia)"""
-animeRelated	[b'Bishoujo Senshi Sailor Moon R: The Movie']
-animeCharacters	[b'Tsukino, Usagi', b'Hino, Rei', b'Kino, Makoto', b'Aino, Minako', b'Mizuno, Ami', b'Chiba, Mamoru', b'Chibiusa', b'Aya', b'Yui', b'Queen Serenity']
-animeVoices	[b'\nMitsuishi, Kotono\nJapanese\n', b'\nTomizawa, Michie\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nFukami, Rica\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nFuruya, Toru\nJapanese\n', b'\nAraki, Kae\nJapanese\n', b'\nKasahara, Rumi\nJapanese\n', b'\nNanba, Chieko\nJapanese\n', b'\nDoi, Mika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKosaka, Harume\n\nDirector\n\n', b'\nHisakawa, Aya\n\nTheme Song Performance\n\n', b'\nHayashi, Yuzo\n\nTheme Song Arrangement\n\n', b'\nMitsuishi, Kotono\n\nInserted Song Performance\n\n']
+animePopularity	4434
+animeDescription	"Usagi and Chibiusa overhear two girls talking about the Sailor Senshi after they see a poster. Humorously, as the girls discuss which is the smartest, most elegant, strongest, and the leader of the Senshi, Usagi claims those titles for herself. Chibiusa shakes her head at Usagi's delusion. Clips are shown from the debut of each Sailor Senshi, and that girl's image song is played in the background. When even Tuxedo Mask is mentioned, and the girls go to leave without having mentioned Sailor Moon, Usagi butts in on their conversation and asks them directly about Sailor Moon. The girls give a series of glowing compliments about Sailor Moon, but unlike they did for the other Senshi, they also list her faults. After the girls leave, Usagi sarcastically apologises for being a clumsy cry-baby and then bursts into tears.
+
+(Source: Wikipedia)"
+animeRelated	['Bishoujo Senshi Sailor Moon R: The Movie']
+animeCharacters	['Tsukino, Usagi', 'Hino, Rei', 'Kino, Makoto', 'Aino, Minako', 'Mizuno, Ami', 'Chiba, Mamoru', 'Chibiusa', 'Aya', 'Yui', 'Queen Serenity']
+animeVoices	['Mitsuishi, Kotono', 'Tomizawa, Michie', 'Shinohara, Emi', 'Fukami, Rica', 'Hisakawa, Aya', 'Furuya, Toru', 'Araki, Kae', 'Kasahara, Rumi', 'Nanba, Chieko', 'Doi, Mika']
+animeStaff	[['Kosaka, Harume', 'Director'], ['Hisakawa, Aya', 'Theme Song Performance'], ['Hayashi, Yuzo', 'Theme Song Arrangement'], ['Mitsuishi, Kotono', 'Inserted Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Jigoku Youchien'
-animeType	b'ONA'
+animeTitle	Jigoku Youchien
+animeType	ONA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	4.6
 animeUsers	667
 animeRank	
-animePopularity	
-animeDescription	b'Flash anime shorts that center around a school for mischievous demon toddlers.\n\n(Source: AniDB)'
+animePopularity	9986
+animeDescription	"Flash anime shorts that center around a school for mischievous demon toddlers.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Kiichi-kun', b'Levia-chan', b'Yuki-chan', b'Sakyuba-chan', b'Sakura-chan']
-animeVoices	[b'\nOno, Yuuki\nJapanese\n', b'\nHonda, Mariko\nJapanese\n', b'\nOokubo, Rumi\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nIshida, Haruka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAsumi, Kana\n\nTheme Song Performance\n\n', b'\nOno, Yuuki\n\nTheme Song Performance\n\n', b'\nHonda, Mariko\n\nTheme Song Performance\n\n']
+animeCharacters	['Kiichi-kun', 'Levia-chan', 'Yuki-chan', 'Sakyuba-chan', 'Sakura-chan']
+animeVoices	['Ono, Yuuki', 'Honda, Mariko', 'Ookubo, Rumi', 'Asumi, Kana', 'Ishida, Haruka']
+animeStaff	[['Asumi, Kana', 'Theme Song Performance'], ['Ono, Yuuki', 'Theme Song Performance'], ['Honda, Mariko', 'Theme Song Performance']]

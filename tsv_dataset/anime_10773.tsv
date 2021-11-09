@@ -1,5 +1,5 @@
-animeTitle	b'Oshiri Kajiri Mushi (TV) 2nd Season'
-animeType	b'TV'
+animeTitle	Oshiri Kajiri Mushi (TV) 2nd Season
+animeType	TV
 animeNumEpisode	32
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.36
 animeUsers	257
 animeRank	
-animePopularity	
-animeDescription	"b""Continuation of the gag comedy about Oshiri Kajiri Mushi XVIII, a 10-year-old insect who goes to Biting School to inherit his family's Biting Shop business. \n\n(Source: ANN) """
-animeRelated	[b'Oshiri Kajiri Mushi (TV)', b'Oshiri Kajiri Mushi (TV) 3rd Season']
-animeCharacters	[b'Oshiri Kajiri Mushi XVIII']
-animeVoices	[b'\nKaneda, Tomoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKojima, Masayuki\n\nDirector\n\n', b'\nSugiura, Pierre\n\nSeries Composition\n\n', b'\nUrumaDelvi\n\nOriginal Creator, Character Design\n\n']
+animePopularity	12032
+animeDescription	"Continuation of the gag comedy about Oshiri Kajiri Mushi XVIII, a 10-year-old insect who goes to Biting School to inherit his family's Biting Shop business. 
+
+(Source: ANN) "
+animeRelated	['Oshiri Kajiri Mushi (TV)', 'Oshiri Kajiri Mushi (TV) 3rd Season']
+animeCharacters	['Oshiri Kajiri Mushi XVIII']
+animeVoices	['Kaneda, Tomoko']
+animeStaff	[['Kojima, Masayuki', 'Director'], ['Sugiura, Pierre', 'Series Composition'], ['UrumaDelvi', 'Original Creator, Character Design']]

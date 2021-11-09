@@ -1,5 +1,5 @@
-animeTitle	b'Backstage Idol Story'
-animeType	b'TV'
+animeTitle	Backstage Idol Story
+animeType	TV
 animeNumEpisode	8
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'BiS (Brand-new idol society) is a real idol group in Japan that gets animated!\n\nThe anime is composed of two segments. The first one is dressing room talk such as about what to do with rambunctious fans and how annoying it is to have to deal with worn out underwear and menstruation. The second one is composed of an ad-lib talk round-table talk with an invited guest. '
+animePopularity	12265
+animeDescription	"BiS (Brand-new idol society) is a real idol group in Japan that gets animated!
+
+The anime is composed of two segments. The first one is dressing room talk such as about what to do with rambunctious fans and how annoying it is to have to deal with worn out underwear and menstruation. The second one is composed of an ad-lib talk round-table talk with an invited guest. "
 animeRelated	[]
-animeCharacters	[b'Lui 13-sei, Pour', b'Yufu 9-sei, Terashima', b'Rio 5-sei, Michibayashi', b'Yurika 11-sei, Wakisaka', b'Nozomi III-sei, Hirano']
-animeVoices	[b'\nLui, Pour\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshidate, Koutarou\n\nSeries Composition\n\n']
+animeCharacters	['Lui 13-sei, Pour', 'Yufu 9-sei, Terashima', 'Rio 5-sei, Michibayashi', 'Yurika 11-sei, Wakisaka', 'Nozomi III-sei, Hirano']
+animeVoices	['Lui, Pour']
+animeStaff	[['Ishidate, Koutarou', 'Series Composition']]

@@ -1,5 +1,5 @@
-animeTitle	b'Azusa, Otetsudai Shimasu!'
-animeType	b'OVA'
+animeTitle	Azusa, Otetsudai Shimasu!
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.17
 animeUsers	1383
 animeRank	
-animePopularity	
-animeDescription	"b""The Karugamo High School Baseball Team has not been doing well. After losing badly to the Eagles, many of the players leave, and the team now has only eight players, one too few to play a game. \n\nGoing against his principles, the main character Harumaki Shunpei decides to buy a baseball robot. However, since he does not have enough money, he ends up buying the maid robot named Azusa. Even though Azusa has a warm heart and strong determination, it doesn't appear that she stands a chance against her adversaries who were top-of-the-line baseball robots. The team's only hope seems to lie in a secret buried within Azusa's clouded past."""
+animePopularity	8319
+animeDescription	"The Karugamo High School Baseball Team has not been doing well. After losing badly to the Eagles, many of the players leave, and the team now has only eight players, one too few to play a game. 
+
+Going against his principles, the main character Harumaki Shunpei decides to buy a baseball robot. However, since he does not have enough money, he ends up buying the maid robot named Azusa. Even though Azusa has a warm heart and strong determination, it doesn't appear that she stands a chance against her adversaries who were top-of-the-line baseball robots. The team's only hope seems to lie in a secret buried within Azusa's clouded past."
 animeRelated	[]
-animeCharacters	[b'Azusa', b'Harumaki, Senzou', b'Harumaki, Shunpei', b'Yamada, Ichiro', b'Nakasato, Akira', b'Temple Reverend', b'Tanabe', b'Tonomura', b'Mizuho, Yuuki']
-animeVoices	[b'\nNoto, Mamiko\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nTai, Yuuki\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nUeda, Youji\nJapanese\n', b'\nYamano, Fumito\nJapanese\n', b'\nShimowada, Hiroki\nJapanese\n', b'\nItou, Kentarou\nJapanese\n', b'\nKojima, Sachiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKamegaki, Hajime\n\nDirector, Storyboard\n\n', b'\nMiyoshi, Keiichirou\n\nRecording\n\n', b'\nHattori, Noritomo\n\nKey Animation\n\n', b'\nYokoyama, Masakazu\n\nSound Effects\n\n']
+animeCharacters	['Azusa', 'Harumaki, Senzou', 'Harumaki, Shunpei', 'Yamada, Ichiro', 'Nakasato, Akira', 'Temple Reverend', 'Tanabe', 'Tonomura', 'Mizuho, Yuuki']
+animeVoices	['Noto, Mamiko', 'Ogata, Kenichi', 'Tai, Yuuki', 'Yoshino, Hiroyuki', 'Ueda, Youji', 'Yamano, Fumito', 'Shimowada, Hiroki', 'Itou, Kentarou', 'Kojima, Sachiko']
+animeStaff	[['Kamegaki, Hajime', 'Director, Storyboard'], ['Miyoshi, Keiichirou', 'Recording'], ['Hattori, Noritomo', 'Key Animation'], ['Yokoyama, Masakazu', 'Sound Effects']]

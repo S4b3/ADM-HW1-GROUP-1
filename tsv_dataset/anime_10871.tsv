@@ -1,5 +1,5 @@
-animeTitle	b'Tokyo Vice'
-animeType	b'OVA'
+animeTitle	Tokyo Vice
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.32
 animeUsers	680
 animeRank	
-animePopularity	
-animeDescription	b'One night at a rock concert, a mysterious man dies while leaving a floppy disc with a member of the Rutz Detective Agency. Soon they realize the disk contains information about a deadly new weapon under development. The heroes become involved in a game of political subterfuge and military espionage, hot on the trail of the killer!'
+animePopularity	9799
+animeDescription	One night at a rock concert, a mysterious man dies while leaving a floppy disc with a member of the Rutz Detective Agency. Soon they realize the disk contains information about a deadly new weapon under development. The heroes become involved in a game of political subterfuge and military espionage, hot on the trail of the killer!
 animeRelated	[]
-animeCharacters	[b'Yamazaki, Keiko', b'Nagareyama, Akira', b'Touma, Junpei', b'Touma, Kumiko']
-animeVoices	[b'\nHirano, Fumi\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n', b'\nYao, Kazuki\nJapanese\n', b'\nKomori, Manami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYamasaki, Osamu\n\nDirector\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n', b'\nFunayama, Motoki\n\nTheme Song Arrangement\n\n', b'\nOobari, Masami\n\nKey Animation\n\n']
+animeCharacters	['Yamazaki, Keiko', 'Nagareyama, Akira', 'Touma, Junpei', 'Touma, Kumiko']
+animeVoices	['Hirano, Fumi', 'Shiozawa, Kaneto', 'Yao, Kazuki', 'Komori, Manami']
+animeStaff	[['Yamasaki, Osamu', 'Director'], ['Honda, Yasunori', 'Sound Director'], ['Funayama, Motoki', 'Theme Song Arrangement'], ['Oobari, Masami', 'Key Animation']]

@@ -1,5 +1,5 @@
-animeTitle	b'Megami Kouhosei Special Curriculum'
-animeType	b'OVA'
+animeTitle	Megami Kouhosei Special Curriculum
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.28
 animeUsers	2114
 animeRank	
-animePopularity	
-animeDescription	b'A retelling of the TV series from the point of view of one of the Goddess Pilots.\n\n(Source: ANN)'
-animeRelated	[b'Megami Kouhosei']
-animeCharacters	[b'Enna, Rei', b'Towryk, Kizna', b'Elidd, Gareas', b'Gner, Hiead', b'Cuore, Ernest', b'Allecto, Ikhny', b'Fujimura, Leena', b'Croford, Dr. Rill', b'Mimori, Saki', b'Deed, Philphleora']
-animeVoices	[b'\nObi, Yukimasa\nJapanese\n', b'\nNagasawa, Miki\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nChiba, Susumu\nJapanese\n', b'\nKashiwakura, Tsutomu\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nKakazu, Yumi\nJapanese\n', b'\nKoyama, Mami\nJapanese\n', b'\nHanba, Tomoe\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nSugisaki, Yukiru\n\nOriginal Creator\n\n', b'\nKoyama, Toshihisa\n\nArt Director\n\n']
+animePopularity	7359
+animeDescription	"A retelling of the TV series from the point of view of one of the Goddess Pilots.
+
+(Source: ANN)"
+animeRelated	['Megami Kouhosei']
+animeCharacters	['Enna, Rei', 'Towryk, Kizna', 'Elidd, Gareas', 'Gner, Hiead', 'Cuore, Ernest', 'Allecto, Ikhny', 'Fujimura, Leena', 'Croford, Dr. Rill', 'Mimori, Saki', 'Deed, Philphleora']
+animeVoices	['Obi, Yukimasa', 'Nagasawa, Miki', 'Takagi, Wataru', 'Chiba, Susumu', 'Kashiwakura, Tsutomu', 'Kugimiya, Rie', 'Kakazu, Yumi', 'Koyama, Mami', 'Hanba, Tomoe']
+animeStaff	[['Mima, Masafumi', 'Sound Director'], ['Sugisaki, Yukiru', 'Original Creator'], ['Koyama, Toshihisa', 'Art Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Danchi Tomoo'
-animeType	b'TV'
+animeTitle	Danchi Tomoo
+animeType	TV
 animeNumEpisode	78
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""It's a heartwarming and sometimes nonsense comedy about an elementary school boy Tomoo Kinoshita."""
-animeRelated	[b'Danchi Tomoo', b'Danchi Tomoo: Natsuyasumi no Shukudai wa Owatta no ka yo? Tomoo']
-animeCharacters	[b'Kinoshita, Tomoo', b'Yoshida, Yoshinobu', b'Yoshimoto, Masato', b'Nezu, Yukio', b'Kinoshita, Tetsuo', b'Kinoshita, Tetsuko', b'Kamakura, Keiko', b'Kikukawa, Mitsuo', b'Kinoshita, Kimiko', b'Hayama, Yoriko']
-animeVoices	[b'\nSanpei, Yuuko\nJapanese\n', b'\nTakeda, Hana\nJapanese\n', b'\nTamura, Mutsumi\nJapanese\n', b'\nAsako\nJapanese\n', b'\nTone, Kentarou\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n', b'\nFujimura, Ayumi\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nMakino, Yui\nJapanese\n', b'\nHitosugi, Kasumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiguro, Kyouhei\n\nDirector, Episode Director, Storyboard\n\n', b'\nWatanabe, Ayumu\n\nDirector\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n', b'\nTsuchiya, Michihiro\n\nScript\n\n']
+animePopularity	11472
+animeDescription	It's a heartwarming and sometimes nonsense comedy about an elementary school boy Tomoo Kinoshita.
+animeRelated	['Danchi Tomoo', 'Danchi Tomoo: Natsuyasumi no Shukudai wa Owatta no ka yo? Tomoo']
+animeCharacters	['Kinoshita, Tomoo', 'Yoshida, Yoshinobu', 'Yoshimoto, Masato', 'Nezu, Yukio', 'Kinoshita, Tetsuo', 'Kinoshita, Tetsuko', 'Kamakura, Keiko', 'Kikukawa, Mitsuo', 'Kinoshita, Kimiko', 'Hayama, Yoriko']
+animeVoices	['Sanpei, Yuuko', 'Takeda, Hana', 'Tamura, Mutsumi', 'Asako', 'Tone, Kentarou', 'Sakamoto, Chika', 'Fujimura, Ayumi', 'Nabatame, Hitomi', 'Makino, Yui', 'Hitosugi, Kasumi']
+animeStaff	[['Ishiguro, Kyouhei', 'Director, Episode Director, Storyboard'], ['Watanabe, Ayumu', 'Director'], ['Kameyama, Toshiki', 'Sound Director'], ['Tsuchiya, Michihiro', 'Script']]

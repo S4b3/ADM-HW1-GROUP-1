@@ -1,5 +1,5 @@
-animeTitle	b'Wakusei Robo Danguard Ace: Uchuu Daikaisen'
-animeType	b'Movie'
+animeTitle	Wakusei Robo Danguard Ace: Uchuu Daikaisen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.66
 animeUsers	171
 animeRank	
-animePopularity	
-animeDescription	b'Doppler has set up a trap for the Jasdam, and it is up to the Danguard Ace to save it. \n\n(Source: AniDB)'
-animeRelated	[b'Wakusei Robo Danguard Ace']
-animeCharacters	[b'Ichimonji, Takuma', b'Oboshi, Hideto', b'Hechi', b'Harken, Tony', b'Emperor Doppler', b'Arai, Miyoko', b'Tamaga', b'Dr. Oedo', b'Arai, Banta', b'Lisa']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nYanami, Jouji\nJapanese\n', b'\nYamada, Keaton\nJapanese\n', b'\nGinga, Banjou\nJapanese\n', b'\nKikuchi, Hiroko\nJapanese\n', b'\nTomita, Kousei\nJapanese\n', b'\nOotake, Hiroshi\nJapanese\n', b'\nYoshida, Rihoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsumoto, Leiji\n\nOriginal Creator\n\n', b'\nKanemori, Yoshinori\n\nAnimation Director\n\n']
+animePopularity	12618
+animeDescription	"Doppler has set up a trap for the Jasdam, and it is up to the Danguard Ace to save it. 
+
+(Source: AniDB)"
+animeRelated	['Wakusei Robo Danguard Ace']
+animeCharacters	['Ichimonji, Takuma', 'Oboshi, Hideto', 'Hechi', 'Harken, Tony', 'Emperor Doppler', 'Arai, Miyoko', 'Tamaga', 'Dr. Oedo', 'Arai, Banta', 'Lisa']
+animeVoices	['Kamiya, Akira', 'Furukawa, Toshio', 'Yanami, Jouji', 'Yamada, Keaton', 'Ginga, Banjou', 'Kikuchi, Hiroko', 'Tomita, Kousei', 'Ootake, Hiroshi', 'Yoshida, Rihoko']
+animeStaff	[['Matsumoto, Leiji', 'Original Creator'], ['Kanemori, Yoshinori', 'Animation Director']]

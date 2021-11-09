@@ -1,5 +1,5 @@
-animeTitle	b'Kujira no Josephina'
-animeType	b'TV'
+animeTitle	Kujira no Josephina
+animeType	TV
 animeNumEpisode	23
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.08
 animeUsers	112
 animeRank	
-animePopularity	
-animeDescription	b'Santi is a shy Spanish boy who keeps a tiny whale in a bowl, invisible to everyone but him. The whale, named Josephina, is able to alter her size and fly; she takes Santi on many dreamlike adventures and helps him confront the challenges during his childhood; however, things change as Santi starts taking interest in the outside world and gets to know his distant father.\n\nBased on Adios, Josefina (Goodbye, Josephine) by Jose Maria Sanchez-Silva.\n\n(Source: AniDB)'
+animePopularity	13021
+animeDescription	"Santi is a shy Spanish boy who keeps a tiny whale in a bowl, invisible to everyone but him. The whale, named Josephina, is able to alter her size and fly; she takes Santi on many dreamlike adventures and helps him confront the challenges during his childhood; however, things change as Santi starts taking interest in the outside world and gets to know his distant father.
+
+Based on Adios, Josefina (Goodbye, Josephine) by Jose Maria Sanchez-Silva.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Santi', b'Josephina', b'Rosa', b'Benita']
-animeVoices	[b'\nJinbo, Naomi\nJapanese\n', b'\nTakahashi, Kazue\nJapanese\n', b'\nSuzuki, Tomiko\nJapanese\n', b'\nKawashima, Chiyoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector\n\n', b'\nNitta, Yoshikata\n\nDirector\n\n', b'\nKanada, Yoshinori\n\nStoryboard, Key Animation\n\n', b'\nColumbia Yurikago Kai\n\nTheme Song Performance\n\n']
+animeCharacters	['Santi', 'Josephina', 'Rosa', 'Benita']
+animeVoices	['Jinbo, Naomi', 'Takahashi, Kazue', 'Suzuki, Tomiko', 'Kawashima, Chiyoko']
+animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Nitta, Yoshikata', 'Director'], ['Kanada, Yoshinori', 'Storyboard, Key Animation'], ['Columbia Yurikago Kai', 'Theme Song Performance']]

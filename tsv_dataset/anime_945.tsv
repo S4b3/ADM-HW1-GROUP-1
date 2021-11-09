@@ -1,5 +1,5 @@
-animeTitle	b'Sidonia no Kishi: Daikyuu Wakusei Seneki'
-animeType	b'TV'
+animeTitle	Sidonia no Kishi: Daikyuu Wakusei Seneki
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.75
 animeUsers	57397
 animeRank	
-animePopularity	
-animeDescription	b'Having narrowly avoided the collision with the asteroid, the Sidonia sets a course for the Lem system in order to wipe out the Gauna nest.\n\n(Source: Polygon Pictures)'
-animeRelated	[b'Sidonia no Kishi', b'Sidonia no Kishi: Ai Tsumugu Hoshi']
-animeCharacters	[b'Shinatose, Izana', b'Shiraui, Tsumugi', b'Tanikaze, Nagate', b'Killy', b'Benisuzume', b'Kobayashi', b'Hiyama, Lala', b'Midorikawa, Yuhata', b'Ittan, Samari', b'Sasaki']
-animeVoices	[b'\nToyosaki, Aki\nJapanese\n', b'\nSuzaki, Aya\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nArai, Satomi\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nHonda, Takako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSeshita, Hiroyuki\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nMurai, Sadayuki\n\nScript, Series Composition\n\n', b'\nMorita, Hiroyuki\n\nStoryboard\n\n']
+animePopularity	1518
+animeDescription	"Having narrowly avoided the collision with the asteroid, the Sidonia sets a course for the Lem system in order to wipe out the Gauna nest.
+
+(Source: Polygon Pictures)"
+animeRelated	['Sidonia no Kishi', 'Sidonia no Kishi: Ai Tsumugu Hoshi']
+animeCharacters	['Shinatose, Izana', 'Shiraui, Tsumugi', 'Tanikaze, Nagate', 'Killy', 'Benisuzume', 'Kobayashi', 'Hiyama, Lala', 'Midorikawa, Yuhata', 'Ittan, Samari', 'Sasaki']
+animeVoices	['Toyosaki, Aki', 'Suzaki, Aya', 'Oosaka, Ryouta', 'Sakurai, Takahiro', 'Ohara, Sayaka', 'Arai, Satomi', 'Kanemoto, Hisako', 'Tanaka, Atsuko', 'Honda, Takako']
+animeStaff	[['Seshita, Hiroyuki', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Murai, Sadayuki', 'Script, Series Composition'], ['Morita, Hiroyuki', 'Storyboard']]

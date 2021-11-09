@@ -1,5 +1,5 @@
-animeTitle	b'Fantasista Doll'
-animeType	b'TV'
+animeTitle	Fantasista Doll
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.15
 animeUsers	8874
 animeRank	
-animePopularity	
-animeDescription	b'Uzume Uno is a young student and former champion of a trading card game competition. She is trusted with a special device containing five powerful Fantasista Dolls. These dolls are sentient virtual beings who reside in cards which are now controlled by their new master, Uzume.\n\n(Source: ANN)'
-animeRelated	[b'Fantasista Doll']
-animeCharacters	[b'Uno, Uzume', b'Katia', b'Akari', b'Sasara', b'Madeleine', b'Shimeji', b'Kunoichi, Kuu', b'Proto Zero', b'Ponpon', b'Yugake']
-animeVoices	[b'\nOhashi, Ayaka\nJapanese\n', b'\nTokui, Sora\nJapanese\n', b'\nHasegawa, Akiko\nJapanese\n', b'\nTsuda, Minami\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nAkasaki, Chinatsu\nJapanese\n', b'\nOogame, Asuka\nJapanese\n', b'\nKoiwai, Kotori\nJapanese\n', b'\nHarashima, Akari\nJapanese\n', b'\nNagatsuma, Juri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTaniguchi, Gorou\n\nProducer\n\n', b'\nSaitou, Hisashi\n\nDirector\n\n', b'\nKoshida, Tomoaki\n\nEpisode Director, Storyboard\n\n', b'\nKakihara, Yuuko\n\nScript, Series Composition\n\n']
+animePopularity	3583
+animeDescription	"Uzume Uno is a young student and former champion of a trading card game competition. She is trusted with a special device containing five powerful Fantasista Dolls. These dolls are sentient virtual beings who reside in cards which are now controlled by their new master, Uzume.
+
+(Source: ANN)"
+animeRelated	['Fantasista Doll']
+animeCharacters	['Uno, Uzume', 'Katia', 'Akari', 'Sasara', 'Madeleine', 'Shimeji', 'Kunoichi, Kuu', 'Proto Zero', 'Ponpon', 'Yugake']
+animeVoices	['Ohashi, Ayaka', 'Tokui, Sora', 'Hasegawa, Akiko', 'Tsuda, Minami', 'Ohara, Sayaka', 'Akasaki, Chinatsu', 'Oogame, Asuka', 'Koiwai, Kotori', 'Harashima, Akari', 'Nagatsuma, Juri']
+animeStaff	[['Taniguchi, Gorou', 'Producer'], ['Saitou, Hisashi', 'Director'], ['Koshida, Tomoaki', 'Episode Director, Storyboard'], ['Kakihara, Yuuko', 'Script, Series Composition']]

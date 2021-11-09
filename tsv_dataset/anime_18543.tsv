@@ -1,5 +1,5 @@
-animeTitle	b'Magical Twilight'
-animeType	b'OVA'
+animeTitle	Magical Twilight
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	5.96
 animeUsers	704
 animeRank	
-animePopularity	
-animeDescription	"b""Tsukasa Tachibana is taking his final exams for the third time, but little does he know is that he's the test for three witches, and things go from bad to worse!\n\n(Source: Wikipedia)\n"""
+animePopularity	9609
+animeDescription	"Tsukasa Tachibana is taking his final exams for the third time, but little does he know is that he's the test for three witches, and things go from bad to worse!
+
+(Source: Wikipedia)
+"
 animeRelated	[]
-animeCharacters	"[b'Chipple', b'Tachibana, Tsukasa', b'Irene', b'Minori', b""Tachibana's Classmate"", b'Seiichi', b'Principal', b'Liv', b'Ayako']"
-animeVoices	[b'\nChafurin\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKomura, Toshiaki\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n']
+animeCharacters	"['Chipple', 'Tachibana, Tsukasa', 'Irene', 'Minori', ""Tachibana's Classmate"", 'Seiichi', 'Principal', 'Liv', 'Ayako']"
+animeVoices	['Chafurin']
+animeStaff	[['Komura, Toshiaki', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director']]

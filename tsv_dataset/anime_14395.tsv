@@ -1,5 +1,5 @@
-animeTitle	b'Yakusoku (2011)'
-animeType	b'Movie'
+animeTitle	Yakusoku (2011)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'As the leaves turn scarlet, a mother cries in front of her recently deceased child. The body of the boy decays, leaving behind a shadow, which the woman quickly embarrasses and takes home. One day, she receives a visitor asking about a shadow of a child.'
+animePopularity	16496
+animeDescription	As the leaves turn scarlet, a mother cries in front of her recently deceased child. The body of the boy decays, leaving behind a shadow, which the woman quickly embarrasses and takes home. One day, she receives a visitor asking about a shadow of a child.
 animeRelated	[]
-animeCharacters	[b'Narration']
-animeVoices	[b'\nHirokawa, Mitsunori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKouno, Aki\n\nDirector\n\n']
+animeCharacters	['Narration']
+animeVoices	['Hirokawa, Mitsunori']
+animeStaff	[['Kouno, Aki', 'Director']]

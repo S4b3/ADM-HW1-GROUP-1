@@ -1,5 +1,5 @@
-animeTitle	b'Geisters: Fractions of the Earth'
-animeType	b'TV'
+animeTitle	Geisters: Fractions of the Earth
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.74
 animeUsers	185
 animeRank	
-animePopularity	
-animeDescription	"b""At the end of the 21st century, a meteorite collision plunged Earth into apocalypse, and the remnants of humanity went in two different directions to survive. The aristocratic Dobias headed into space, while the earthy Shioru went underground. Centuries later, they returned to Earth's surface and are now fighting for control of the planet\xe2\x80\x94that is, when they're not busy fending off a new species of predators known simply as Creatures. Amidst this conflict, an elite team of five soldiers known as Geisters protects humanity from the Creatures and from each other. Although part of the Dobias, the Geisters have recently accepted a soldier of Shioru descent onto the team, and her take-charge personality leaves the other members unsure about her loyalty and usefulness to the group. With Dobias and Shioru tensions heating up on the political floor, Creatures running rampant, and a dangerous new weapon being developed in secret, the Geisters must maintain peace among themselves and the rest of society.\n\n(Source: Anime Crash)"""
-animeRelated	[b'Geisters Movie: Hikari no Shou', b'Geisters Movie: Inochi no Shou']
-animeCharacters	[b'Honos, Dean', b'Fama, Alkion']
-animeVoices	[b'\nSeki, Tomokazu\nJapanese\n', b'\nToochika, Kouichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItou, Kouji\n\nDirector, Episode Director, Storyboard, Mechanical Design, Animation Director, Key Animation\n\n', b'\nKawai, Kenji\n\nMusic\n\n', b'\nFukazawa, Manabu\n\nKey Animation\n\n', b'\nNemoto, Kuniaki\n\nBackground Art\n\n']
+animePopularity	10331
+animeDescription	"At the end of the 21st century, a meteorite collision plunged Earth into apocalypse, and the remnants of humanity went in two different directions to survive. The aristocratic Dobias headed into space, while the earthy Shioru went underground. Centuries later, they returned to Earth's surface and are now fighting for control of the planet—that is, when they're not busy fending off a new species of predators known simply as Creatures. Amidst this conflict, an elite team of five soldiers known as Geisters protects humanity from the Creatures and from each other. Although part of the Dobias, the Geisters have recently accepted a soldier of Shioru descent onto the team, and her take-charge personality leaves the other members unsure about her loyalty and usefulness to the group. With Dobias and Shioru tensions heating up on the political floor, Creatures running rampant, and a dangerous new weapon being developed in secret, the Geisters must maintain peace among themselves and the rest of society.
+
+(Source: Anime Crash)"
+animeRelated	['Geisters Movie: Hikari no Shou', 'Geisters Movie: Inochi no Shou']
+animeCharacters	['Honos, Dean', 'Fama, Alkion']
+animeVoices	['Seki, Tomokazu', 'Toochika, Kouichi']
+animeStaff	[['Itou, Kouji', 'Director, Episode Director, Storyboard, Mechanical Design, Animation Director, Key Animation'], ['Kawai, Kenji', 'Music'], ['Fukazawa, Manabu', 'Key Animation'], ['Nemoto, Kuniaki', 'Background Art']]

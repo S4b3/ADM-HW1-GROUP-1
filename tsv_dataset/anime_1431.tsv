@@ -1,5 +1,5 @@
-animeTitle	b'Kidou Keisatsu Patlabor: New OVA'
-animeType	b'OVA'
+animeTitle	Kidou Keisatsu Patlabor: New OVA
+animeType	OVA
 animeNumEpisode	16
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.56
 animeUsers	2924
 animeRank	
-animePopularity	
-animeDescription	"b""Special Vehicles Division 2 is back on duty, along with their Ingram Patrol Labor (Patlabor) robots. Using their courage as well as the Ingrams, Captain Goto's motley crew of officers battle crime in Tokyo city. They also deal with their personal lives, as well as the supernatural. \n\n(Source: ANN)"""
-animeRelated	[b'Kidou Keisatsu Patlabor: On Television', b'Kidou Keisatsu Patlabor: Reboot']
-animeCharacters	[b'Izumi, Noa', b'Shinohara, Asuma', b'Oota, Isao', b'Sakaki, Seitarou', b'Shinshi, Mikiyasu', b'Gotou, Kiichi', b'Clancy, Kanuka', b'Nagumo, Shinobu', b'Yamazaki, Hiromi', b'Shiba, Shigeo']
-animeVoices	[b'\nTominaga, Miina\nJapanese\n', b'\nFurukawa, Toshio\nJapanese\n', b'\nIkemizu, Michihiro\nJapanese\n', b'\nSaka, Osamu\nJapanese\n', b'\nFutamata, Issei\nJapanese\n', b'\nOobayashi, Ryuusuke\nJapanese\n', b'\nInoue, You\nJapanese\n', b'\nSakakibara, Yoshiko\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshinaga, Naoyuki\n\nDirector, Storyboard\n\n', b'\nHarada, Nana\n\nEpisode Director\n\n', b'\nOshii, Mamoru\n\nScript, Original Creator\n\n', b'\nYokote, Michiko\n\nScript\n\n']
+animePopularity	5676
+animeDescription	"Special Vehicles Division 2 is back on duty, along with their Ingram Patrol Labor (Patlabor) robots. Using their courage as well as the Ingrams, Captain Goto's motley crew of officers battle crime in Tokyo city. They also deal with their personal lives, as well as the supernatural. 
+
+(Source: ANN)"
+animeRelated	['Kidou Keisatsu Patlabor: On Television', 'Kidou Keisatsu Patlabor: Reboot']
+animeCharacters	['Izumi, Noa', 'Shinohara, Asuma', 'Oota, Isao', 'Sakaki, Seitarou', 'Shinshi, Mikiyasu', 'Gotou, Kiichi', 'Clancy, Kanuka', 'Nagumo, Shinobu', 'Yamazaki, Hiromi', 'Shiba, Shigeo']
+animeVoices	['Tominaga, Miina', 'Furukawa, Toshio', 'Ikemizu, Michihiro', 'Saka, Osamu', 'Futamata, Issei', 'Oobayashi, Ryuusuke', 'Inoue, You', 'Sakakibara, Yoshiko', 'Gouri, Daisuke', 'Chiba, Shigeru']
+animeStaff	[['Yoshinaga, Naoyuki', 'Director, Storyboard'], ['Harada, Nana', 'Episode Director'], ['Oshii, Mamoru', 'Script, Original Creator'], ['Yokote, Michiko', 'Script']]

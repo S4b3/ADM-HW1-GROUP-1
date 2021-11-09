@@ -1,5 +1,5 @@
-animeTitle	b'To Heart 2 OVA'
-animeType	b'OVA'
+animeTitle	To Heart 2 OVA
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.88
 animeUsers	2443
 animeRank	
-animePopularity	
-animeDescription	b'A collection of stories involving the girls of To Heart 2, with each episode focusing on a different character.\n\n(Source: ANN)'
-animeRelated	[b'To Heart 2', b'To Heart 2 AD']
-animeCharacters	[b'Kousaka, Tamaki', b'Kusugawa, Sasara', b'Komaki, Manaka', b'Asagiri, Maako', b'Kouno, Takaaki', b'HMX-17\xce\xb1 Ilfa', b'Misora, Lucy Maria', b'Yuzuhara, Konomi', b'Tonami, Yuma', b'Himeyuri, Sango']
-animeVoices	[b'\nItou, Shizuka\nJapanese\n', b'\nOno, Ryouko\nJapanese\n', b'\nRikimaru, Noriko\nJapanese\n', b'\nKogure, Ema\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nHagiwara, Emiko\nJapanese\n', b'\nNatsuki, Rio\nJapanese\n', b'\nHase, Yurina\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nIshizuka, Sayori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKato, Yasuhisa\n\nDirector, Episode Director, Storyboard, Character Design, Animation Director\n\n', b'\nKatsura, Kenichiro\n\nEpisode Director, Storyboard, Animation Director, Key Animation, Assistant Animation Director, Character Design\n\n', b'\nSuara\n\nTheme Song Performance\n\n', b'\nAquaplus\n\nOriginal Creator\n\n']
+animePopularity	6334
+animeDescription	"A collection of stories involving the girls of To Heart 2, with each episode focusing on a different character.
+
+(Source: ANN)"
+animeRelated	['To Heart 2', 'To Heart 2 AD']
+animeCharacters	['Kousaka, Tamaki', 'Kusugawa, Sasara', 'Komaki, Manaka', 'Asagiri, Maako', 'Kouno, Takaaki', 'HMX-17α Ilfa', 'Misora, Lucy Maria', 'Yuzuhara, Konomi', 'Tonami, Yuma', 'Himeyuri, Sango']
+animeVoices	['Itou, Shizuka', 'Ono, Ryouko', 'Rikimaru, Noriko', 'Kogure, Ema', 'Fukuyama, Jun', 'Hagiwara, Emiko', 'Natsuki, Rio', 'Hase, Yurina', 'Nabatame, Hitomi', 'Ishizuka, Sayori']
+animeStaff	[['Kato, Yasuhisa', 'Director, Episode Director, Storyboard, Character Design, Animation Director'], ['Katsura, Kenichiro', 'Episode Director, Storyboard, Animation Director, Key Animation, Assistant Animation Director, Character Design'], ['Suara', 'Theme Song Performance'], ['Aquaplus', 'Original Creator']]

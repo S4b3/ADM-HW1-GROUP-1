@@ -1,5 +1,5 @@
-animeTitle	b'Toji no Miko'
-animeType	b'TV'
+animeTitle	Toji no Miko
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.81
 animeUsers	17888
 animeRank	
-animePopularity	
-animeDescription	"b'Throughout history, an elite group of shrine maidens known as ""Toji"" have saved the world from ""Aratama,"" strange and malevolent beings bent on destroying humanity. In modern times, these warriors have been assigned to a special police squad to exterminate Aratama. The government has also set up five elite schools across the country to provide young girls the necessary sword fighting skills to eradicate these monsters and eventually join their fellow Toji in protecting the world.\n\nA student of one of those five schools, Kanami Etou is chosen to represent Minoseki Academy in a sword fighting tournament, where she meets the mysterious Hiyori Juujou. Although Kanami and Hiyori rise to the top of the tournament, their battle takes an unexpected turn, throwing the world of the Toji into chaos. Likely that the Toji are facing betrayal from within, the two are forced to flee the tournament, clashing with former comrades on the way.\n\n[Written by MAL Rewrite]'"
-animeRelated	"[b'Toji no Miko', b'Toji no Miko: Kizamishi Issen no Tomoshibi', b'Mini Toji', b'Mini Toji: Kanami-Mihono no ""Toji Miko Taidou-hen"" 205-byou de Shoukai Tokuban!', b'Mini Toji: Yume', b'Toji no Miko: Kizamishi Issen no Tomoshibi OVA', b'Toji no Miko Recap']"
-animeCharacters	[b'Juujou, Hiyori', b'Etou, Kanami', b'Itomi, Sayaka', b'Mashiko, Kaoru', b'Yanase, Mai', b'Kohagura, Eren', b'Tsubakuro, Yume', b'Konohana, Suzuka', b'Origami, Yukari', b'Shidou, Maki']
-animeVoices	[b'\nOonishi, Saori\nJapanese\n', b'\nHondo, Kaede\nJapanese\n', b'\nKino, Hina\nJapanese\n', b'\nMatsuda, Risae\nJapanese\n', b'\nWaki, Azumi\nJapanese\n', b'\nSuzuki, Eri\nJapanese\n', b'\nMinase, Inori\nJapanese\n', b'\nIchimichi, Mao\nJapanese\n', b'\nSeto, Asami\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKakimoto, Koudai\n\nDirector, Episode Director, Storyboard\n\n', b'\nIida, Satoki\n\nSound Director\n\n', b'\nNobuta, Yuu\n\nEpisode Director, Storyboard\n\n', b'\nAoshima, Takashi\n\nScript\n\n']
+animePopularity	2058
+animeDescription	"Throughout history, an elite group of shrine maidens known as ""Toji"" have saved the world from ""Aratama,"" strange and malevolent beings bent on destroying humanity. In modern times, these warriors have been assigned to a special police squad to exterminate Aratama. The government has also set up five elite schools across the country to provide young girls the necessary sword fighting skills to eradicate these monsters and eventually join their fellow Toji in protecting the world.
+
+A student of one of those five schools, Kanami Etou is chosen to represent Minoseki Academy in a sword fighting tournament, where she meets the mysterious Hiyori Juujou. Although Kanami and Hiyori rise to the top of the tournament, their battle takes an unexpected turn, throwing the world of the Toji into chaos. Likely that the Toji are facing betrayal from within, the two are forced to flee the tournament, clashing with former comrades on the way.
+
+[Written by MAL Rewrite]"
+animeRelated	"['Toji no Miko', 'Toji no Miko: Kizamishi Issen no Tomoshibi', 'Mini Toji', 'Mini Toji: Kanami-Mihono no ""Toji Miko Taidou-hen"" 205-byou de Shoukai Tokuban!', 'Mini Toji: Yume', 'Toji no Miko: Kizamishi Issen no Tomoshibi OVA', 'Toji no Miko Recap']"
+animeCharacters	['Juujou, Hiyori', 'Etou, Kanami', 'Itomi, Sayaka', 'Mashiko, Kaoru', 'Yanase, Mai', 'Kohagura, Eren', 'Tsubakuro, Yume', 'Konohana, Suzuka', 'Origami, Yukari', 'Shidou, Maki']
+animeVoices	['Oonishi, Saori', 'Hondo, Kaede', 'Kino, Hina', 'Matsuda, Risae', 'Waki, Azumi', 'Suzuki, Eri', 'Minase, Inori', 'Ichimichi, Mao', 'Seto, Asami', 'Uchiyama, Yumi']
+animeStaff	[['Kakimoto, Koudai', 'Director, Episode Director, Storyboard'], ['Iida, Satoki', 'Sound Director'], ['Nobuta, Yuu', 'Episode Director, Storyboard'], ['Aoshima, Takashi', 'Script']]

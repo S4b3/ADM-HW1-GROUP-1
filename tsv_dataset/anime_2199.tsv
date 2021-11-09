@@ -1,5 +1,5 @@
-animeTitle	b'Free!'
-animeType	b'TV'
+animeTitle	Free!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.35
 animeUsers	369507
 animeRank	
-animePopularity	
-animeDescription	"b""Haruka Nanase has a love for water and a passion for swimming. In elementary school, he competed in and won a relay race with his three friends Rin Matsuoka, Nagisa Hazuki, and Makoto Tachibana. After claiming victory at the tournament, the four friends went their separate ways. Years later, they reunite as high school students; however, Rin couldn't care less about returning to the way things used to be. Not only does he attend a different school, but the sole thing important to him is proving that he is a better swimmer than Haruka.\n\nAfter the bitter reunion, Haruka, Nagisa, and Makoto decide to form the Iwatobi High School Swim Club, but they will need a fourth member if they hope to take part in the upcoming tournament. Enter Rei Ryuugazaki, a former member of the track team whom Nagisa recruits. As the time to compete draws near, the four develop a close bond while training intensely to come out on top and settle things between Haruka and Rin once and for all.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Kyoto Animation: Suiei-hen', b'Free!: FrFr - Short Movie', b'Free!: Eternal Summer', b'High\xe2\x98\x86Speed! Movie: Free! Starting Days', b'Free! Movie 1: Timeless Medley - Kizuna']
-animeCharacters	[b'Matsuoka, Rin', b'Tachibana, Makoto', b'Nanase, Haruka', b'Hazuki, Nagisa', b'Ryuugazaki, Rei', b'Matsuoka, Gou', b'Nitori, Aiichirou', b'Mikoshiba, Seijuurou', b'Sasabe, Gorou', b'Amakata, Miho']
-animeVoices	[b'\nMiyano, Mamoru\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nMatsumoto, Megumi\nJapanese\n', b'\nYonaga, Tsubasa\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nWatanabe, Akeno\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nYanaka, Hiroshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakamura, Shinichi\n\nProducer\n\n', b'\nUtsumi, Hiroko\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nYamada, Naoko\n\nEpisode Director, Storyboard, Key Animation\n\n']
+animePopularity	196
+animeDescription	"Haruka Nanase has a love for water and a passion for swimming. In elementary school, he competed in and won a relay race with his three friends Rin Matsuoka, Nagisa Hazuki, and Makoto Tachibana. After claiming victory at the tournament, the four friends went their separate ways. Years later, they reunite as high school students; however, Rin couldn't care less about returning to the way things used to be. Not only does he attend a different school, but the sole thing important to him is proving that he is a better swimmer than Haruka.
+
+After the bitter reunion, Haruka, Nagisa, and Makoto decide to form the Iwatobi High School Swim Club, but they will need a fourth member if they hope to take part in the upcoming tournament. Enter Rei Ryuugazaki, a former member of the track team whom Nagisa recruits. As the time to compete draws near, the four develop a close bond while training intensely to come out on top and settle things between Haruka and Rin once and for all.
+
+[Written by MAL Rewrite]"
+animeRelated	['Kyoto Animation: Suiei-hen', 'Free!: FrFr - Short Movie', 'Free!: Eternal Summer', 'High☆Speed! Movie: Free! Starting Days', 'Free! Movie 1: Timeless Medley - Kizuna']
+animeCharacters	['Matsuoka, Rin', 'Tachibana, Makoto', 'Nanase, Haruka', 'Hazuki, Nagisa', 'Ryuugazaki, Rei', 'Matsuoka, Gou', 'Nitori, Aiichirou', 'Mikoshiba, Seijuurou', 'Sasabe, Gorou', 'Amakata, Miho']
+animeVoices	['Miyano, Mamoru', 'Yukino, Satsuki', 'Matsumoto, Megumi', 'Yonaga, Tsubasa', 'Hirakawa, Daisuke', 'Watanabe, Akeno', 'Miyata, Kouki', 'Tsuda, Kenjirou', 'Yanaka, Hiroshi']
+animeStaff	[['Nakamura, Shinichi', 'Producer'], ['Utsumi, Hiroko', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Yamada, Naoko', 'Episode Director, Storyboard, Key Animation']]

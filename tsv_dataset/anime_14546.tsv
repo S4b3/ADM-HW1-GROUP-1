@@ -1,5 +1,5 @@
-animeTitle	b'Yume wo Kanaeru Zou'
-animeType	b'TV'
+animeTitle	Yume wo Kanaeru Zou
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,10 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""It's about an ordinary office worker Fumiyama Fumio, who gains self-confidence by the advices of an Indian god, Ganesha.\n"""
+animePopularity	13698
+animeDescription	"It's about an ordinary office worker Fumiyama Fumio, who gains self-confidence by the advices of an Indian god, Ganesha.
+"
 animeRelated	[]
-animeCharacters	[b'Fumiyama, Fumio']
+animeCharacters	['Fumiyama, Fumio']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nDaichi, Akitarou\n\nDirector\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nTagashira, Shinobu\n\nCharacter Design\n\n', b'\nMatsumura, Masahiro\n\nEditing\n\n']
+animeStaff	[['Daichi, Akitarou', 'Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Tagashira, Shinobu', 'Character Design'], ['Matsumura, Masahiro', 'Editing']]

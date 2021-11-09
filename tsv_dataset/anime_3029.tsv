@@ -1,5 +1,5 @@
-animeTitle	b'Genshiken Nidaime OVA'
-animeType	b'OVA'
+animeTitle	Genshiken Nidaime OVA
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.17
 animeUsers	7515
 animeRank	
-animePopularity	
-animeDescription	b'Bundled with the limited edition of the 15th volume of the manga. '
-animeRelated	[b'Genshiken', b'Genshiken 2', b'Genshiken Nidaime']
-animeCharacters	[b'Ogiue, Chika', b'Hopkins, Susanna', b'Madarame, Harunobu', b'Kasukabe, Saki', b'Oono, Kanako', b'Sasahara, Kanji', b'Kousaka, Makoto', b'Tanaka, Souichiro', b'Kuchiki, Manabu', b'Kugayama, Mitsunori']
-animeVoices	[b'\nYamamoto, Nozomi\nJapanese\n', b'\nOozora, Naomi\nJapanese\n', b'\nOkitsu, Kazuyuki\nJapanese\n', b'\nSatou, Rina\nJapanese\n', b'\nYukana\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsushita, Keiko\n\nProducer\n\n', b'\nYamamoto, Nozomi\n\nTheme Song Performance\n\n', b'\nMiyazawa, Yasunori\n\nKey Animation\n\n', b'\nFujii, Nozomu\n\nKey Animation\n\n']
+animePopularity	4400
+animeDescription	Bundled with the limited edition of the 15th volume of the manga. 
+animeRelated	['Genshiken', 'Genshiken 2', 'Genshiken Nidaime']
+animeCharacters	['Ogiue, Chika', 'Hopkins, Susanna', 'Madarame, Harunobu', 'Kasukabe, Saki', 'Oono, Kanako', 'Sasahara, Kanji', 'Kousaka, Makoto', 'Tanaka, Souichiro', 'Kuchiki, Manabu', 'Kugayama, Mitsunori']
+animeVoices	['Yamamoto, Nozomi', 'Oozora, Naomi', 'Okitsu, Kazuyuki', 'Satou, Rina', 'Yukana']
+animeStaff	[['Matsushita, Keiko', 'Producer'], ['Yamamoto, Nozomi', 'Theme Song Performance'], ['Miyazawa, Yasunori', 'Key Animation'], ['Fujii, Nozomu', 'Key Animation']]

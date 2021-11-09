@@ -1,5 +1,5 @@
-animeTitle	b'Utsunomiko'
-animeType	b'Movie'
+animeTitle	Utsunomiko
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""In the chaos of the Jinshin-no-Ran civil war of 762, a child with a small horn in his forehead was born. The child's mother condemned him as an oni and cast him away. An elderly sh\xc5\xabgenja woman claimed the child and named him Utsunomiko, or 'Divine Child of the Heavens', telling Miko that his horn smybolizes the union of heaven and earth. Miko matured in the wilderness learning the ways of Shugend\xc5\x8d, and soon started venturing into villages out of curiosity. He found that the common people of the villages live in poverty and suffering, and began using his spiritual powers to help them. But his anger at the self-serving rulers and their petty power-struggles grew until he came into open conflict with the Imperial Court, setting Miko down a long path as a champion of the oppressed.\n\n(Source: Wikipedia)"""
-animeRelated	[b'Tenjouhen: Utsunomiko', b'Utsunomiko: Heaven Chapter']
-animeCharacters	[b'Kagami', b'Utsunomiko']
-animeVoices	[b'\nYamada, Eiko\nJapanese\n', b'\nFuruya, Toru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshida, Kenji\n\nDirector\n\n', b'\nYamada, Etsuji\n\nSound Director\n\n', b'\nTakegami, Junki\n\nScript\n\n', b'\nTerada, Kenji\n\nScript\n\n']
+animePopularity	11758
+animeDescription	"In the chaos of the Jinshin-no-Ran civil war of 762, a child with a small horn in his forehead was born. The child's mother condemned him as an oni and cast him away. An elderly shūgenja woman claimed the child and named him Utsunomiko, or 'Divine Child of the Heavens', telling Miko that his horn smybolizes the union of heaven and earth. Miko matured in the wilderness learning the ways of Shugendō, and soon started venturing into villages out of curiosity. He found that the common people of the villages live in poverty and suffering, and began using his spiritual powers to help them. But his anger at the self-serving rulers and their petty power-struggles grew until he came into open conflict with the Imperial Court, setting Miko down a long path as a champion of the oppressed.
+
+(Source: Wikipedia)"
+animeRelated	['Tenjouhen: Utsunomiko', 'Utsunomiko: Heaven Chapter']
+animeCharacters	['Kagami', 'Utsunomiko']
+animeVoices	['Yamada, Eiko', 'Furuya, Toru']
+animeStaff	[['Yoshida, Kenji', 'Director'], ['Yamada, Etsuji', 'Sound Director'], ['Takegami, Junki', 'Script'], ['Terada, Kenji', 'Script']]

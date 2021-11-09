@@ -1,5 +1,5 @@
-animeTitle	b'Anju to Zushioumaru'
-animeType	b'Movie'
+animeTitle	Anju to Zushioumaru
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.05
 animeUsers	617
 animeRank	
-animePopularity	
-animeDescription	"b""Anju and Zushioumaru live a peaceful life in rural Japan with their kind and gentle father\xe2\x80\x94the steward of the emperor's hunting grounds who teaches his children to respect nature and protect animals. The local lord frames him for burning the hunting grounds; Anju and Zushioumaru, along with their mother and a few animals, escape to Kyoto to ask the emperor to pardon their father.  \n\nHowever, Anju and Zushioumaru are separated from their mother and sold into slavery after being tricked into boarding the wrong boat. Their cruel master forces them to perform extreme acts of hard labor under the threat of torture. Fortunately, Saburou\xe2\x80\x94their master's son\xe2\x80\x94is sympathetic to their plight. The siblings wield no weapons and constantly fear the punishment for unobedient slaves. Under these unfortunate circumstances, they must desperately work to regain the happiness they once had.\n\n[Written by MAL Rewrite]"""
+animePopularity	9872
+animeDescription	"Anju and Zushioumaru live a peaceful life in rural Japan with their kind and gentle father—the steward of the emperor's hunting grounds who teaches his children to respect nature and protect animals. The local lord frames him for burning the hunting grounds; Anju and Zushioumaru, along with their mother and a few animals, escape to Kyoto to ask the emperor to pardon their father.  
+
+However, Anju and Zushioumaru are separated from their mother and sold into slavery after being tricked into boarding the wrong boat. Their cruel master forces them to perform extreme acts of hard labor under the threat of torture. Fortunately, Saburou—their master's son—is sympathetic to their plight. The siblings wield no weapons and constantly fear the punishment for unobedient slaves. Under these unfortunate circumstances, they must desperately work to regain the happiness they once had.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Zushioumaru', b'Anju', b'Saburou', b'Onikura', b'Iwaki', b'Jijo', b'Gatekeeper', b'Tatsukou', b'Emissary', b'Gonroku']
-animeVoices	[b'\nKazama, Morio\nJapanese\n', b'\nSakuma, Yoshiko\nJapanese\n', b'\nMizuki, Jou\nJapanese\n', b'\nMishima, Masao\nJapanese\n', b'\nUsami, Junya\nJapanese\n', b'\nArai, Shigeko\nJapanese\n', b'\nOda, Masao\nJapanese\n', b'\nUshio, Kenji\nJapanese\n', b'\nMasuda, Junji\nJapanese\n', b'\nTomita, Nakajirou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakahata, Isao\n\nAssistant Director\n\n', b'\nMori, Yasuji\n\nKey Animation\n\n', b'\nYamamoto, Zenjirou\n\nIn-Between Animation\n\n', b'\nOkuyama, Reiko\n\nIn-Between Animation\n\n']
+animeCharacters	['Zushioumaru', 'Anju', 'Saburou', 'Onikura', 'Iwaki', 'Jijo', 'Gatekeeper', 'Tatsukou', 'Emissary', 'Gonroku']
+animeVoices	['Kazama, Morio', 'Sakuma, Yoshiko', 'Mizuki, Jou', 'Mishima, Masao', 'Usami, Junya', 'Arai, Shigeko', 'Oda, Masao', 'Ushio, Kenji', 'Masuda, Junji', 'Tomita, Nakajirou']
+animeStaff	[['Takahata, Isao', 'Assistant Director'], ['Mori, Yasuji', 'Key Animation'], ['Yamamoto, Zenjirou', 'In-Between Animation'], ['Okuyama, Reiko', 'In-Between Animation']]

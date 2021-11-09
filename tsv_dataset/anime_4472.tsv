@@ -1,4 +1,4 @@
-animeTitle	b'Nirvana'
+animeTitle	Nirvana
 animeType	Music
 animeNumEpisode	1
 releaseDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.83
 animeUsers	3245
 animeRank	
-animePopularity	
-animeDescription	b'Music video bundled with the limited edition of the Noragami Aragoto ED single. \n\n(Source: AniDB)'
-animeRelated	[b'Noragami Aragoto', b'Heart Realize']
-animeCharacters	[b'Yato', b'Yukine', b'Iki, Hiyori', b'Bishamon', b'Kofuku', b'Kazuma', b'Nora', b'Daikoku', b'Kuraha', b'Aiha']
+animePopularity	6047
+animeDescription	"Music video bundled with the limited edition of the Noragami Aragoto ED single. 
+
+(Source: AniDB)"
+animeRelated	['Noragami Aragoto', 'Heart Realize']
+animeCharacters	['Yato', 'Yukine', 'Iki, Hiyori', 'Bishamon', 'Kofuku', 'Kazuma', 'Nora', 'Daikoku', 'Kuraha', 'Aiha']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nryo\n\nTheme Song Composition\n\n', b'\nTia\n\nTheme Song Performance\n\n']
+animeStaff	[['ryo', 'Theme Song Composition'], ['Tia', 'Theme Song Performance']]

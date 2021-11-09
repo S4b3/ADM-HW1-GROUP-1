@@ -1,5 +1,5 @@
-animeTitle	b'AIKa'
-animeType	b'OVA'
+animeTitle	AIKa
+animeType	OVA
 animeNumEpisode	7
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.93
 animeUsers	12493
 animeRank	
-animePopularity	
-animeDescription	"b""A catastrophic earthquake has left Tokyo, and most of the Earth for that matter, under the sea. Aika is a salvager who retrieves various remains from the watery ruins. When Aika accepts the dangerous mission of locating and obtaining the mysterious Lagu, she discovers that she's not the only one after it. """
-animeRelated	[b'AIKa: Special Trial', b'AIKa Zero']
-animeCharacters	[b'Sumeragi, Aika', b'Alexymetalia, Maypia', b'Aida, Rion', b'Turbulence, Gust', b'Petoriyacowa, Rie', b'Bandora, B.A.', b'Etsuko, Nina', b'Hagen, Neena', b'Shuntaro, Michikusa', b'Hagen, Rudolf']
-animeVoices	[b'\nSakuma, Rei\nJapanese\n', b'\nTamagawa, Sakiko\nJapanese\n', b'\nKonishi, Hiroko\nJapanese\n', b'\nKosugi, Juurouta\nJapanese\n', b'\nOotani, Ikue\nJapanese\n', b'\nKyouda, Hisako\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nTanaka, Atsuko\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishijima, Katsuhiko\n\nDirector\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nTerahigashi, Katsumi\n\nEpisode Director, Storyboard, Screenplay\n\n', b'\nMink\n\nTheme Song Performance\n\n']
+animePopularity	3336
+animeDescription	A catastrophic earthquake has left Tokyo, and most of the Earth for that matter, under the sea. Aika is a salvager who retrieves various remains from the watery ruins. When Aika accepts the dangerous mission of locating and obtaining the mysterious Lagu, she discovers that she's not the only one after it. 
+animeRelated	['AIKa: Special Trial', 'AIKa Zero']
+animeCharacters	['Sumeragi, Aika', 'Alexymetalia, Maypia', 'Aida, Rion', 'Turbulence, Gust', 'Petoriyacowa, Rie', 'Bandora, B.A.', 'Etsuko, Nina', 'Hagen, Neena', 'Shuntaro, Michikusa', 'Hagen, Rudolf']
+animeVoices	['Sakuma, Rei', 'Tamagawa, Sakiko', 'Konishi, Hiroko', 'Kosugi, Juurouta', 'Ootani, Ikue', 'Kyouda, Hisako', 'Okamura, Akemi', 'Tanaka, Atsuko', 'Onosaka, Masaya', 'Shiozawa, Kaneto']
+animeStaff	[['Nishijima, Katsuhiko', 'Director'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Terahigashi, Katsumi', 'Episode Director, Storyboard, Screenplay'], ['Mink', 'Theme Song Performance']]

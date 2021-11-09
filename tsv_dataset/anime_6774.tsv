@@ -1,5 +1,5 @@
-animeTitle	b'Eden (ONA)'
-animeType	b'ONA'
+animeTitle	Eden (ONA)
+animeType	ONA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.38
 animeUsers	4749
 animeRank	
-animePopularity	
-animeDescription	"b'The sci-fi fantasy series Eden is set thousands of years in the future, where a city known as ""Eden 3"" is inhabited solely by robots whose former masters vanished a long time ago. On a routine assignment, two farming robots accidentally awaken a human baby girl from stasis questioning all they were taught to believe\xe2\x80\x94that humans were nothing more than a forbidden ancient myth. Together, the two robots secretly raise the child in a safe haven outside Eden. \n\n(Source: Netflix, edited)'"
+animePopularity	4772
+animeDescription	"The sci-fi fantasy series Eden is set thousands of years in the future, where a city known as ""Eden 3"" is inhabited solely by robots whose former masters vanished a long time ago. On a routine assignment, two farming robots accidentally awaken a human baby girl from stasis questioning all they were taught to believe—that humans were nothing more than a forbidden ancient myth. Together, the two robots secretly raise the child in a safe haven outside Eden. 
+
+(Source: Netflix, edited)"
 animeRelated	[]
-animeCharacters	[b'Sara', b'E92', b'A37', b'Geneve', b'Zurich', b'S566', b'Zero']
-animeVoices	[b'\nKouno, Marika\nJapanese\n', b'\nItou, Kentarou\nJapanese\n', b'\nHikami, Kyouko\nJapanese\n', b'\nKaida, Yuuko\nJapanese\n', b'\nKuwahara, Yuuki\nJapanese\n', b'\nShingaki, Tarusuke\nJapanese\n', b'\nYamadera, Kouichi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nLeach, Justin\n\nProducer\n\n', b'\nIrie, Yasuhiro\n\nDirector\n\n', b'\nUeno, Kimiko\n\nScript\n\n', b'\nPenkin, Kevin\n\nMusic\n\n']
+animeCharacters	['Sara', 'E92', 'A37', 'Geneve', 'Zurich', 'S566', 'Zero']
+animeVoices	['Kouno, Marika', 'Itou, Kentarou', 'Hikami, Kyouko', 'Kaida, Yuuko', 'Kuwahara, Yuuki', 'Shingaki, Tarusuke', 'Yamadera, Kouichi']
+animeStaff	[['Leach, Justin', 'Producer'], ['Irie, Yasuhiro', 'Director'], ['Ueno, Kimiko', 'Script'], ['Penkin, Kevin', 'Music']]

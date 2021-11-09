@@ -1,5 +1,5 @@
-animeTitle	b'Shounen Tokugawa Ieyasu'
-animeType	b'TV'
+animeTitle	Shounen Tokugawa Ieyasu
+animeType	TV
 animeNumEpisode	20
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A historical tale of the early life of Tokugawa Ieyasu, who would eventually become shogun and establish the Edo Period in Japan.\n\n(Source: AniDB)'
+animePopularity	13480
+animeDescription	"A historical tale of the early life of Tokugawa Ieyasu, who would eventually become shogun and establish the Edo Period in Japan.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Tokugawa, Ieyasu', b'Koi, Kiyoshi', b'Narrator']
-animeVoices	[b'\nKomiyama, Kiyoshi\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYabuki, Kimio\n\nDirector, Episode Director\n\n', b'\nTamiya, Takeshi\n\nDirector, Episode Director\n\n', b'\nKatsumata, Tomoharu\n\nEpisode Director\n\n', b'\nImazawa, Tetsuo\n\nEpisode Director\n\n']
+animeCharacters	['Tokugawa, Ieyasu', 'Koi, Kiyoshi', 'Narrator']
+animeVoices	['Komiyama, Kiyoshi', 'Inoue, Makio', 'Utsumi, Kenji']
+animeStaff	[['Yabuki, Kimio', 'Director, Episode Director'], ['Tamiya, Takeshi', 'Director, Episode Director'], ['Katsumata, Tomoharu', 'Episode Director'], ['Imazawa, Tetsuo', 'Episode Director']]

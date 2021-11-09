@@ -1,5 +1,5 @@
-animeTitle	b'Tokyo Ravens'
-animeType	b'TV'
+animeTitle	Tokyo Ravens
+animeType	TV
 animeNumEpisode	24
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.47
 animeUsers	188188
 animeRank	
-animePopularity	
-animeDescription	"b'Onmyoudou magic was once a powerful technique used by the Japanese during the second World War in order for them to gain the upper hand and establish their nation as a formidable force. But Japan was quickly defeated after the revered onmyouji Yakou Tsuchimikado caused the ""Great Spiritual Disaster,"" an event which plagues Tokyo to this very day. As a result of this mishap, the Onmyou Agency was established in order to exorcise further spiritual disasters and combat the demons that would make their way into the world.\n\nNow, Onmyoudou has become far more modern, simplified, and refined for use in a wide variety of applications such as medicine and technology. However, not everyone is able to utilize the magic, as is the case with Harutora, a member of the Tsuchimikado\'s branch family. Despite an old promise to protect Natsume, the heir of the Tsuchimikado\'s main family and Yakou\'s supposed reincarnation, as her familiar, Harutora has no talent and chooses to live a normal life instead. But when a prominent member of the Onmyou Agency attempts to recreate the same experiment which led to Japan\'s downfall, he decides to make good on his word and fight by Natsume\'s side.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Tokyo Ravens', b'Tokyo Ravens: Kon ga Oshiete Moshi Agemasu! Maru Wakari Tokyo Ravens']
-animeCharacters	[b'Tsuchimikado, Natsume', b'Tsuchimikado, Harutora', b'Ato, Touji', b'Kon', b'Dairenji, Suzuka', b'Ootomo, Jin', b'Hishamaru', b'Hokuto', b'Ashiya, Douman', b'Saotome, Suzu']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nTaneda, Risa\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nToyosaki, Aki\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nKaida, Yuuko\nJapanese\n', b'\nKanemoto, Hisako\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nKitta, Izumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKanasaki, Takaomi\n\nDirector\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nIshihama, Masashi\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nSuzuki, Takaaki\n\nEpisode Director\n\n']
+animePopularity	387
+animeDescription	"Onmyoudou magic was once a powerful technique used by the Japanese during the second World War in order for them to gain the upper hand and establish their nation as a formidable force. But Japan was quickly defeated after the revered onmyouji Yakou Tsuchimikado caused the ""Great Spiritual Disaster,"" an event which plagues Tokyo to this very day. As a result of this mishap, the Onmyou Agency was established in order to exorcise further spiritual disasters and combat the demons that would make their way into the world.
+
+Now, Onmyoudou has become far more modern, simplified, and refined for use in a wide variety of applications such as medicine and technology. However, not everyone is able to utilize the magic, as is the case with Harutora, a member of the Tsuchimikado's branch family. Despite an old promise to protect Natsume, the heir of the Tsuchimikado's main family and Yakou's supposed reincarnation, as her familiar, Harutora has no talent and chooses to live a normal life instead. But when a prominent member of the Onmyou Agency attempts to recreate the same experiment which led to Japan's downfall, he decides to make good on his word and fight by Natsume's side.
+
+[Written by MAL Rewrite]"
+animeRelated	['Tokyo Ravens', 'Tokyo Ravens: Kon ga Oshiete Moshi Agemasu! Maru Wakari Tokyo Ravens']
+animeCharacters	['Tsuchimikado, Natsume', 'Tsuchimikado, Harutora', 'Ato, Touji', 'Kon', 'Dairenji, Suzuka', 'Ootomo, Jin', 'Hishamaru', 'Hokuto', 'Ashiya, Douman', 'Saotome, Suzu']
+animeVoices	['Hanazawa, Kana', 'Taneda, Risa', 'Kimura, Ryouhei', 'Toyosaki, Aki', 'Sakura, Ayane', 'Yusa, Kouji', 'Kaida, Yuuko', 'Kanemoto, Hisako', 'Tobita, Nobuo', 'Kitta, Izumi']
+animeStaff	[['Kanasaki, Takaomi', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Ishihama, Masashi', 'Episode Director, Storyboard, Key Animation'], ['Suzuki, Takaaki', 'Episode Director']]

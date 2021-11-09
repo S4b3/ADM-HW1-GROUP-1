@@ -1,5 +1,5 @@
-animeTitle	b'Chousoku Henkei Gyrozetter'
-animeType	b'TV'
+animeTitle	Chousoku Henkei Gyrozetter
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.44
 animeUsers	981
 animeRank	
-animePopularity	
-animeDescription	"b'In 21st century Japan, cars with artificial intelligence for increased safety, known as ""A.I. cars,"" have revolutionized the car industry. Special schools teaching children driving A.I. cars have been established. One day, Kakeru Todoroki, a fifth grader of Arcadia Academy, was summoned by the school principal and given an A.I. car ""to save the humanity by chosen drivers like you."" The car, however, is not just a car but also a transforming robot known as ""Gyrozetter."" \n\n(Source: ANN) '"
-animeRelated	[b'Chousoku Henkei Gyrozetter']
-animeCharacters	[b'Todoroki, Kakeru', b'Gunji, Souta', b'Inaba, Rinne', b'Hayami, Shunsuke', b'Igara, Rikako', b'Seki, Mic Man', b'Haruka', b'Akana, Rui', b'Suzukawa, Kaede', b'Kiryuu, Ibuki']
-animeVoices	[b'\nInoue, Marina\nJapanese\n', b'\nTamura, Mutsumi\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nMatsuoka, Yoshitsugu\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nFujita, Saki\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nYamaguchi, Kazuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakamatsu, Shinji\n\nDirector, Sound Director, Storyboard\n\n', b'\nKunihiro, Mori\n\nDirector, Episode Director, Storyboard\n\n', b'\nSuzuki, Kenichi\n\nEpisode Director, Storyboard\n\n', b'\nKosaka, Harume\n\nEpisode Director\n\n']
+animePopularity	7049
+animeDescription	"In 21st century Japan, cars with artificial intelligence for increased safety, known as ""A.I. cars,"" have revolutionized the car industry. Special schools teaching children driving A.I. cars have been established. One day, Kakeru Todoroki, a fifth grader of Arcadia Academy, was summoned by the school principal and given an A.I. car ""to save the humanity by chosen drivers like you."" The car, however, is not just a car but also a transforming robot known as ""Gyrozetter."" 
+
+(Source: ANN) "
+animeRelated	['Chousoku Henkei Gyrozetter']
+animeCharacters	['Todoroki, Kakeru', 'Gunji, Souta', 'Inaba, Rinne', 'Hayami, Shunsuke', 'Igara, Rikako', 'Seki, Mic Man', 'Haruka', 'Akana, Rui', 'Suzukawa, Kaede', 'Kiryuu, Ibuki']
+animeVoices	['Inoue, Marina', 'Tamura, Mutsumi', 'Iguchi, Yuka', 'Matsuoka, Yoshitsugu', 'Seki, Tomokazu', 'Fujita, Saki', 'Tanaka, Rie', 'Yamaguchi, Kazuya']
+animeStaff	[['Takamatsu, Shinji', 'Director, Sound Director, Storyboard'], ['Kunihiro, Mori', 'Director, Episode Director, Storyboard'], ['Suzuki, Kenichi', 'Episode Director, Storyboard'], ['Kosaka, Harume', 'Episode Director']]

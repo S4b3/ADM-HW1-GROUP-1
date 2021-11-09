@@ -1,5 +1,5 @@
-animeTitle	b'Kuroko no Basket: Baka ja Katenai no yo!'
-animeType	b'OVA'
+animeTitle	Kuroko no Basket: Baka ja Katenai no yo!
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.56
 animeUsers	24146
 animeRank	
-animePopularity	
-animeDescription	"b""Bundled with the 25th volume of Kuroko no Basket manga. The anime based on the Baka Ja Katenai no yo (\xe3\x83\x90\xe3\x82\xab\xe3\x81\x98\xe3\x82\x83\xe5\x8b\x9d\xe3\x81\xa6\xe3\x81\xaa\xe3\x81\x84\xe3\x81\xae\xe3\x82\x88) story that was featured in the manga's fifth volume.\n\n(Source: ANN)"""
-animeRelated	[b'Kuroko no Basket']
-animeCharacters	[b'Kuroko, Tetsuya', b'Kagami, Taiga', b'Kise, Ryouta', b'Midorima, Shintarou', b'Takao, Kazunari', b'Hyuuga, Junpei', b'Aida, Riko', b'Izuki, Shun', b'Mitobe, Rinnosuke', b'Koganei, Shinji']
-animeVoices	[b'\nOno, Kensho\nJapanese\n', b'\nOno, Yuuki\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nNojima, Hirofumi\nJapanese\n', b'\nEguchi, Takuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMorihiro, Fumi\n\nProducer\n\n', b'\nKuroki, Rui\n\nProducer\n\n', b'\nGRANRODEO\n\nTheme Song Performance, Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement\n\n', b'\nFujimaki, Tadatoshi\n\nOriginal Creator\n\n']
+animePopularity	2595
+animeDescription	"Bundled with the 25th volume of Kuroko no Basket manga. The anime based on the Baka Ja Katenai no yo (バカじゃ勝てないのよ) story that was featured in the manga's fifth volume.
+
+(Source: ANN)"
+animeRelated	['Kuroko no Basket']
+animeCharacters	['Kuroko, Tetsuya', 'Kagami, Taiga', 'Kise, Ryouta', 'Midorima, Shintarou', 'Takao, Kazunari', 'Hyuuga, Junpei', 'Aida, Riko', 'Izuki, Shun', 'Mitobe, Rinnosuke', 'Koganei, Shinji']
+animeVoices	['Ono, Kensho', 'Ono, Yuuki', 'Kimura, Ryouhei', 'Ono, Daisuke', 'Suzuki, Tatsuhisa', 'Hosoya, Yoshimasa', 'Saitou, Chiwa', 'Nojima, Hirofumi', 'Eguchi, Takuya']
+animeStaff	[['Morihiro, Fumi', 'Producer'], ['Kuroki, Rui', 'Producer'], ['GRANRODEO', 'Theme Song Performance, Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['Fujimaki, Tadatoshi', 'Original Creator']]

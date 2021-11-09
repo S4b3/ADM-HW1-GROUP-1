@@ -1,5 +1,5 @@
-animeTitle	b'Chiisana Obake: Acchi, Kocchi, Socchi'
-animeType	b'TV'
+animeTitle	Chiisana Obake: Acchi, Kocchi, Socchi
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.98
 animeUsers	538
 animeRank	
-animePopularity	
-animeDescription	"b""This is a heart-warming story with three little ghost called There, Here and Where. They are not scary like usual ghosts but pretty and mischievous like human children. Of course they sometimes surprise people by disappearing or flying, but they are loved as children's friends. \n\nEach episode consists of two stories."""
+animePopularity	9933
+animeDescription	"This is a heart-warming story with three little ghost called There, Here and Where. They are not scary like usual ghosts but pretty and mischievous like human children. Of course they sometimes surprise people by disappearing or flying, but they are loved as children's friends. 
+
+Each episode consists of two stories."
 animeRelated	[]
-animeCharacters	[b'Kocchi']
-animeVoices	[b'\nYajima, Akiko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasaki, Youko\n\nEpisode Director, Original Creator\n\n', b'\nKimura, Tetsu\n\nEpisode Director, Storyboard\n\n', b'\nKamimura, Osamu\n\nStoryboard\n\n', b'\nSakurai, Masaaki\n\n2nd Key Animation\n\n']
+animeCharacters	['Kocchi']
+animeVoices	['Yajima, Akiko']
+animeStaff	[['Sasaki, Youko', 'Episode Director, Original Creator'], ['Kimura, Tetsu', 'Episode Director, Storyboard'], ['Kamimura, Osamu', 'Storyboard'], ['Sakurai, Masaaki', '2nd Key Animation']]

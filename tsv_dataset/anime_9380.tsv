@@ -1,5 +1,5 @@
-animeTitle	b'Ohayou Ninja-tai Gatchaman'
-animeType	b'TV'
+animeTitle	Ohayou Ninja-tai Gatchaman
+animeType	TV
 animeNumEpisode	475
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.8
 animeUsers	106
 animeRank	
-animePopularity	
-animeDescription	"b""One-minute flash shorts based on Tatsunoko Production's classic science-fiction hero series Science Ninja Team Gatchaman aired during the NTV's Zip! television program on mornings.\n\n(Source: AniDB)"""
-animeRelated	[b'Kagaku Ninja-tai Gatchaman', b'Mazinger ZIP!']
+animePopularity	12275
+animeDescription	"One-minute flash shorts based on Tatsunoko Production's classic science-fiction hero series Science Ninja Team Gatchaman aired during the NTV's Zip! television program on mornings.
+
+(Source: AniDB)"
+animeRelated	['Kagaku Ninja-tai Gatchaman', 'Mazinger ZIP!']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

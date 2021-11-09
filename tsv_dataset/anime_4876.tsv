@@ -1,5 +1,5 @@
-animeTitle	b'Kyoto Teramachi Sanjou no Holmes'
-animeType	b'TV'
+animeTitle	Kyoto Teramachi Sanjou no Holmes
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.75
 animeUsers	18409
 animeRank	
-animePopularity	
-animeDescription	"b'Based on mystery novels written by Mochizuki Mai.\n\nThere is an antique shop in Kyoto\'s Teramachi Sanjou shopping district. High school girl Mashiro Aoi unexpectedly runs into Yagashira Kiyotaka, the son of the shop\'s owner, and ends up working part-time at the shop. Kiyotaka is called the ""Holmes at Teramachi Sanjou,"" and he and Aoi solve odd cases brought to them by various clients.\n\n(Source: ANN)'"
-animeRelated	[b'Kyoto Teramachi Sanjou no Holmes']
-animeCharacters	[b'Yagashira, Kiyotaka', b'Mashiro, Aoi', b'Kajiwara, Akihito', b'Miyashita, Saori', b'Yagashira, Seiji', b'Miyashita, Kaori', b'Takiyama, Rikyuu', b'Enshou', b'Yagashira, Takeshi']
-animeVoices	[b'\nIshikawa, Kaito\nJapanese\n', b'\nTomita, Miyu\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nKinoshita, Suzuna\nJapanese\n', b'\nKobayashi, Sanae\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nUeda, Youji\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasaki, Tokihiro\n\nDirector\n\n', b'\nImazaki, Itsuki\n\nEpisode Director\n\n', b'\nWagakki Band\n\nTheme Song Performance\n\n', b'\nAOP\n\nTheme Song Performance\n\n']
+animePopularity	2458
+animeDescription	"Based on mystery novels written by Mochizuki Mai.
+
+There is an antique shop in Kyoto's Teramachi Sanjou shopping district. High school girl Mashiro Aoi unexpectedly runs into Yagashira Kiyotaka, the son of the shop's owner, and ends up working part-time at the shop. Kiyotaka is called the ""Holmes at Teramachi Sanjou,"" and he and Aoi solve odd cases brought to them by various clients.
+
+(Source: ANN)"
+animeRelated	['Kyoto Teramachi Sanjou no Holmes']
+animeCharacters	['Yagashira, Kiyotaka', 'Mashiro, Aoi', 'Kajiwara, Akihito', 'Miyashita, Saori', 'Yagashira, Seiji', 'Miyashita, Kaori', 'Takiyama, Rikyuu', 'Enshou', 'Yagashira, Takeshi']
+animeVoices	['Ishikawa, Kaito', 'Tomita, Miyu', 'Kimura, Ryouhei', 'Horie, Yui', 'Koyama, Rikiya', 'Kinoshita, Suzuna', 'Kobayashi, Sanae', 'Yusa, Kouji', 'Ueda, Youji']
+animeStaff	[['Sasaki, Tokihiro', 'Director'], ['Imazaki, Itsuki', 'Episode Director'], ['Wagakki Band', 'Theme Song Performance'], ['AOP', 'Theme Song Performance']]

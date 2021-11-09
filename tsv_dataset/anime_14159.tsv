@@ -1,5 +1,5 @@
-animeTitle	b'Wasurerareta Ningyou'
-animeType	b'Movie'
+animeTitle	Wasurerareta Ningyou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'A short film by Okamoto Tadanari, blending puppet and drawn animation.'
+animePopularity	15203
+animeDescription	A short film by Okamoto Tadanari, blending puppet and drawn animation.
 animeRelated	[]
-animeCharacters	[b'Ningyou']
+animeCharacters	['Ningyou']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkamoto, Tadanari\n\nDirector\n\n']
+animeStaff	[['Okamoto, Tadanari', 'Director']]

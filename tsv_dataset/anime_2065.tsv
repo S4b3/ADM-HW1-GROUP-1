@@ -1,5 +1,5 @@
-animeTitle	b'Nisekoi:'
-animeType	b'TV'
+animeTitle	Nisekoi:
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.37
 animeUsers	354694
 animeRank	
-animePopularity	
-animeDescription	"b""Despite having seemingly quelled the war between their respective gangs, Raku Ichijou and Chitoge Kirisaki still carry on with their fake relationship. Eventually, as Chitoge's perception of Raku slowly changes, she even begins to see him as a little charming. \n\nChitoge struggles to come to terms with her newfound feelings for Raku, as a new girl joins the slew of Raku's admirers and the competition among those vying for the yakuza heir's attention grows even fiercer. And amidst all this, Raku's search for his first love and the contents of the mysterious sealed locket continues in Nisekoi:, which picks up where the first season left off.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Nisekoi', b'Magical P\xc3\xa2tissi\xc3\xa8re Kosaki-chan!!', b'Nisekoi OVA', b'Nisekoi: OVA']
-animeCharacters	[b'Kirisaki, Chitoge', b'Onodera, Kosaki', b'Ichijou, Raku', b'Tsugumi, Seishirou', b'Tachibana, Marika', b'Maiko, Shuu', b'Onodera, Haru', b'Miyamoto, Ruri', b'Sasaki, Ryuunosuke', b'Kirisaki, Hana']
-animeVoices	[b'\nTouyama, Nao\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nKomatsu, Mikako\nJapanese\n', b'\nAsumi, Kana\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nHiyama, Nobuyuki\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShinbou, Akiyuki\n\nDirector, Series Composition\n\n', b'\nMiyamoto, Yukihiro\n\nDirector, Episode Director\n\n', b'\nTatsuwa, Naoyuki\n\nDirector\n\n', b'\nKameyama, Toshiki\n\nSound Director\n\n']
+animePopularity	250
+animeDescription	"Despite having seemingly quelled the war between their respective gangs, Raku Ichijou and Chitoge Kirisaki still carry on with their fake relationship. Eventually, as Chitoge's perception of Raku slowly changes, she even begins to see him as a little charming. 
+
+Chitoge struggles to come to terms with her newfound feelings for Raku, as a new girl joins the slew of Raku's admirers and the competition among those vying for the yakuza heir's attention grows even fiercer. And amidst all this, Raku's search for his first love and the contents of the mysterious sealed locket continues in Nisekoi:, which picks up where the first season left off.
+
+[Written by MAL Rewrite]"
+animeRelated	['Nisekoi', 'Magical Pâtissière Kosaki-chan!!', 'Nisekoi OVA', 'Nisekoi: OVA']
+animeCharacters	['Kirisaki, Chitoge', 'Onodera, Kosaki', 'Ichijou, Raku', 'Tsugumi, Seishirou', 'Tachibana, Marika', 'Maiko, Shuu', 'Onodera, Haru', 'Miyamoto, Ruri', 'Sasaki, Ryuunosuke', 'Kirisaki, Hana']
+animeVoices	['Touyama, Nao', 'Hanazawa, Kana', 'Uchiyama, Kouki', 'Komatsu, Mikako', 'Asumi, Kana', 'Kaji, Yuki', 'Sakura, Ayane', 'Uchiyama, Yumi', 'Hiyama, Nobuyuki', 'Toyoguchi, Megumi']
+animeStaff	[['Shinbou, Akiyuki', 'Director, Series Composition'], ['Miyamoto, Yukihiro', 'Director, Episode Director'], ['Tatsuwa, Naoyuki', 'Director'], ['Kameyama, Toshiki', 'Sound Director']]

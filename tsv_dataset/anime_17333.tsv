@@ -1,5 +1,5 @@
-animeTitle	b'Osomatsu-san Movie 3'
-animeType	b'Movie'
+animeTitle	Osomatsu-san Movie 3
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Second of two new anime installments commemorating the anime's sixth anniversary, which will screen in theaters in Japan on a limited basis in 2023.\n\n(Source: MAL News)"""
-animeRelated	[b'Osomatsu-san', b'Osomatsu-san Movie 2']
+animePopularity	13927
+animeDescription	"Second of two new anime installments commemorating the anime's sixth anniversary, which will screen in theaters in Japan on a limited basis in 2023.
+
+(Source: MAL News)"
+animeRelated	['Osomatsu-san', 'Osomatsu-san Movie 2']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

@@ -1,5 +1,5 @@
-animeTitle	b'Nana Maru San Batsu'
-animeType	b'TV'
+animeTitle	Nana Maru San Batsu
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.68
 animeUsers	28338
 animeRank	
-animePopularity	
-animeDescription	b'As soon as he entered high school, the first year student Koshiyama Shiki was invited to the mysterious Quiz Study Group led by his senpai. What will Shiki run into when being dragged along by his class mate Mari into the dazzling world of competitive quizzes?!\n\n(Source: Comic Walker)'
-animeRelated	[b'Nana Maru San Batsu']
-animeCharacters	[b'Koshiyama, Shiki', b'Fukami, Mari', b'Mikuriya, Chisato', b'Sasajima, Gakuto', b'Inoue, Daisuke', b'Sasajima, Jinko', b'Sonohara, Akira', b'Niina, Takumi', b'Sonohara, Chiaki', b'Sasaki, Hajime']
-animeVoices	[b'\nHorie, Shun\nJapanese\n', b'\nKawashima, Umika\nJapanese\n', b'\nIshikawa, Kaito\nJapanese\n', b'\nSatou, Takuya\nJapanese\n', b'\nHatanaka, Tasuku\nJapanese\n', b'\nMatsuda, Satsumi\nJapanese\n', b'\nNagatsuka, Takuma\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nYamaya, Yoshitaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkuwaki, Masaharu\n\nDirector\n\n', b'\nWatanabe, Jun\n\nSound Director\n\n', b'\nKakihara, Yuuko\n\nScript, Series Composition\n\n', b'\nHirota, Mitsutaka\n\nScript\n\n']
+animePopularity	2059
+animeDescription	"As soon as he entered high school, the first year student Koshiyama Shiki was invited to the mysterious Quiz Study Group led by his senpai. What will Shiki run into when being dragged along by his class mate Mari into the dazzling world of competitive quizzes?!
+
+(Source: Comic Walker)"
+animeRelated	['Nana Maru San Batsu']
+animeCharacters	['Koshiyama, Shiki', 'Fukami, Mari', 'Mikuriya, Chisato', 'Sasajima, Gakuto', 'Inoue, Daisuke', 'Sasajima, Jinko', 'Sonohara, Akira', 'Niina, Takumi', 'Sonohara, Chiaki', 'Sasaki, Hajime']
+animeVoices	['Horie, Shun', 'Kawashima, Umika', 'Ishikawa, Kaito', 'Satou, Takuya', 'Hatanaka, Tasuku', 'Matsuda, Satsumi', 'Nagatsuka, Takuma', 'Suzuki, Tatsuhisa', 'Sakura, Ayane', 'Yamaya, Yoshitaka']
+animeStaff	[['Okuwaki, Masaharu', 'Director'], ['Watanabe, Jun', 'Sound Director'], ['Kakihara, Yuuko', 'Script, Series Composition'], ['Hirota, Mitsutaka', 'Script']]

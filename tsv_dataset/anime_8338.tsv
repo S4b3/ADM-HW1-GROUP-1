@@ -1,5 +1,5 @@
-animeTitle	b'Akadou Suzunosuke'
-animeType	b'TV'
+animeTitle	Akadou Suzunosuke
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.07
 animeUsers	111
 animeRank	
-animePopularity	
-animeDescription	b'A young swordsman finds himself involved in a plot to overthrow the shogunate.\n\n(Source: AniDB)'
-animeRelated	[b'Akadou Suzunosuke']
-animeCharacters	[b'Yagyuu, Ichitarou']
-animeVoices	[b'\nInoue, Makio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKaneko, Yutaka\n\nScript\n\n', b'\nMiyazaki, Hayao\n\nStoryboard\n\n', b'\nDezaki, Osamu\n\nStoryboard\n\n', b'\nImazawa, Tetsuo\n\nStoryboard, Animation Director\n\n']
+animePopularity	12255
+animeDescription	"A young swordsman finds himself involved in a plot to overthrow the shogunate.
+
+(Source: AniDB)"
+animeRelated	['Akadou Suzunosuke']
+animeCharacters	['Yagyuu, Ichitarou']
+animeVoices	['Inoue, Makio']
+animeStaff	[['Kaneko, Yutaka', 'Script'], ['Miyazaki, Hayao', 'Storyboard'], ['Dezaki, Osamu', 'Storyboard'], ['Imazawa, Tetsuo', 'Storyboard, Animation Director']]

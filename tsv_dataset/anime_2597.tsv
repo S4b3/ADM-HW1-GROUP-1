@@ -1,5 +1,5 @@
-animeTitle	b'Cyborg 009: The Cyborg Soldier'
-animeType	b'TV'
+animeTitle	Cyborg 009: The Cyborg Soldier
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.26
 animeUsers	9929
 animeRank	
-animePopularity	
-animeDescription	b'Skull, the evil leader of the terrorist organization known as Black Ghost, has nine powerful cyborgs under his control. But Dr. Isaac Gilmore, the Black Ghosts cybernetics scientist, decides to go rogue, helping the cyborgs turn against Skull and his evil organization.\n\nBlack Ghost wishes to start the next major world war by flooding the market with weapons of mass destruction. It seems the nine brave cyborgs have their work cut out for them, as Black Ghost is determined to bring those nine cyborgs down.'
-animeRelated	[b'Cyborg 009', b'Cyborg 009 (1979)', b'Cyborg 009 (TV)', b'009 Re:Cyborg', b'Cyborg 009: Call of Justice 1', b'Cyborg 009: Call of Justice 2', b'Cyborg 009: Call of Justice 3', b'Cyborg 009: Chou Ginga Densetsu', b'Cyborg 009 VS Devilman', b'Cyborg 009: The Cyborg Soldier - Yomi no Gunzou', b'Cyborg 009: The Cyborg Soldier - Kami no Ubugoe']
-animeCharacters	[b'Shimamura, Joe', b'Heinrich, Albert', b'Link, Jet', b'Arnoul, Fran\xc3\xa7oise', b'Great Britain', b'Whisky, Ivan', b'Changku, Chang', b'Pyunma', b'Geronimo Jr.', b'Gilmore, Isaac']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nCho\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nChafurin\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nMugihito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawagoe, Jun\n\nDirector, Episode Director, Storyboard\n\n', b'\nIwanami, Yoshikazu\n\nSound Director\n\n', b'\nOishi, Tatsuya\n\nEpisode Director, Storyboard, Key Animation\n\n', b'\nInokawa, Shintarou\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3343
+animeDescription	"Skull, the evil leader of the terrorist organization known as Black Ghost, has nine powerful cyborgs under his control. But Dr. Isaac Gilmore, the Black Ghosts cybernetics scientist, decides to go rogue, helping the cyborgs turn against Skull and his evil organization.
+
+Black Ghost wishes to start the next major world war by flooding the market with weapons of mass destruction. It seems the nine brave cyborgs have their work cut out for them, as Black Ghost is determined to bring those nine cyborgs down."
+animeRelated	['Cyborg 009', 'Cyborg 009 (1979)', 'Cyborg 009 (TV)', '009 Re:Cyborg', 'Cyborg 009: Call of Justice 1', 'Cyborg 009: Call of Justice 2', 'Cyborg 009: Call of Justice 3', 'Cyborg 009: Chou Ginga Densetsu', 'Cyborg 009 VS Devilman', 'Cyborg 009: The Cyborg Soldier - Yomi no Gunzou', 'Cyborg 009: The Cyborg Soldier - Kami no Ubugoe']
+animeCharacters	['Shimamura, Joe', 'Heinrich, Albert', 'Link, Jet', 'Arnoul, Françoise', 'Great Britain', 'Whisky, Ivan', 'Changku, Chang', 'Pyunma', 'Geronimo Jr.', 'Gilmore, Isaac']
+animeVoices	['Sakurai, Takahiro', 'Tobita, Nobuo', 'Morikubo, Shoutarou', 'Yukino, Satsuki', 'Cho', 'Ueda, Kana', 'Chafurin', 'Iwata, Mitsuo', 'Ootsuka, Akio', 'Mugihito']
+animeStaff	[['Kawagoe, Jun', 'Director, Episode Director, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Oishi, Tatsuya', 'Episode Director, Storyboard, Key Animation'], ['Inokawa, Shintarou', 'Episode Director, Storyboard']]

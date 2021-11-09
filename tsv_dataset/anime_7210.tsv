@@ -1,5 +1,5 @@
-animeTitle	b'Popotan'
-animeType	b'TV'
+animeTitle	Popotan
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.29
 animeUsers	8566
 animeRank	
-animePopularity	
-animeDescription	"b'Beautiful sisters Ai, Mai, Mii, their android maid Mea and slippery pet ferret Unagi make an amazing journey together through time and space without ever leaving their beloved mansion behind! Following the clues of the strange dandelion-like ""Popotan,"" the girls are theoretically seeking the person who has the answers to their most personal questions, but they seem to have more than enough time to take side trips, meet new friends, visit hot springs and occasionally operate the X-mas shop they keep in the house along the way!\n\nYet, the girls\' ultimate destiny holds more than a few surprises of its own, and not every moment is filled with hilarity, as moving through time means having to leave friends behind as well.\n\n(Source: RightStuf)'"
-animeRelated	[b'Popotan']
-animeCharacters	[b'Mii', b'Mea', b'Mai', b'Ai', b'Shizuku', b'Unagi', b'Magical Girl Lilo-Chan', b'Asuka', b'Keith', b'Konami']
-animeVoices	[b'\nMomoi, Haruko\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nAsano, Masumi\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nShishido, Rumi\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nTakada, Yuji\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKubota, Mitsutoshi\n\nProducer\n\n', b'\nOoshima, Miku\n\nAssistant Producer\n\n', b'\nKimura, Shinichiro\n\nDirector, Episode Director, Storyboard\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n']
+animePopularity	3842
+animeDescription	"Beautiful sisters Ai, Mai, Mii, their android maid Mea and slippery pet ferret Unagi make an amazing journey together through time and space without ever leaving their beloved mansion behind! Following the clues of the strange dandelion-like ""Popotan,"" the girls are theoretically seeking the person who has the answers to their most personal questions, but they seem to have more than enough time to take side trips, meet new friends, visit hot springs and occasionally operate the X-mas shop they keep in the house along the way!
+
+Yet, the girls' ultimate destiny holds more than a few surprises of its own, and not every moment is filled with hilarity, as moving through time means having to leave friends behind as well.
+
+(Source: RightStuf)"
+animeRelated	['Popotan']
+animeCharacters	['Mii', 'Mea', 'Mai', 'Ai', 'Shizuku', 'Unagi', 'Magical Girl Lilo-Chan', 'Asuka', 'Keith', 'Konami']
+animeVoices	['Momoi, Haruko', 'Kadowaki, Mai', 'Asano, Masumi', 'Ohara, Sayaka', 'Shishido, Rumi', 'Kawasumi, Ayako', 'Saitou, Chiwa', 'Nakahara, Mai', 'Takada, Yuji', 'Kawakami, Tomoko']
+animeStaff	[['Kubota, Mitsutoshi', 'Producer'], ['Ooshima, Miku', 'Assistant Producer'], ['Kimura, Shinichiro', 'Director, Episode Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director']]

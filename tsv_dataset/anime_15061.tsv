@@ -1,5 +1,5 @@
-animeTitle	b'Bouken-tachi Gamba to Nanbiki no Nakama'
-animeType	b'Movie'
+animeTitle	Bouken-tachi Gamba to Nanbiki no Nakama
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""When a badly injured mouse staggers off a ship in Tokyo Harbor, he tells the local mice that he has escaped from Devil's Island, where Noroi, the evil white weasel, has crushed the mice with his reign of terror. Tough-guy Gamba rashly promises to help depose Noroi.\n\n(Source: The Anime Encyclopedia)"""
-animeRelated	[b'Gamba no Bouken']
-animeCharacters	[b'Gamba']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDezaki, Osamu\n\nDirector\n\n', b'\nYamashita, Takeo\n\nTheme Song Composition, Theme Song Arrangement, Music\n\n', b'\nYamatoya, Atsushi\n\nScreenplay\n\n', b'\nTsurubuchi, Yoshihisa\n\nEditing\n\n']
+animePopularity	13982
+animeDescription	"When a badly injured mouse staggers off a ship in Tokyo Harbor, he tells the local mice that he has escaped from Devil's Island, where Noroi, the evil white weasel, has crushed the mice with his reign of terror. Tough-guy Gamba rashly promises to help depose Noroi.
+
+(Source: The Anime Encyclopedia)"
+animeRelated	['Gamba no Bouken']
+animeCharacters	['Gamba']
+animeVoices	['Nozawa, Masako']
+animeStaff	[['Dezaki, Osamu', 'Director'], ['Yamashita, Takeo', 'Theme Song Composition, Theme Song Arrangement, Music'], ['Yamatoya, Atsushi', 'Screenplay'], ['Tsurubuchi, Yoshihisa', 'Editing']]

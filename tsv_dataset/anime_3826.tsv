@@ -1,5 +1,5 @@
-animeTitle	b'Precure All Stars Movie: Minna de Utau\xe2\x99\xaa - Kiseki no Mahou'
-animeType	b'Movie'
+animeTitle	Precure All Stars Movie: Minna de Utau♪ - Kiseki no Mahou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.99
 animeUsers	1104
 animeRank	
-animePopularity	
-animeDescription	"b'Mirai and Rico come to the human world to play, but are separated when the witch Sorciere and her servant Torauuma suddenly appear. Their aim is to acquire the tears of the 44 Precure girls, using them for her ""Most Evil Magic."" Only the friendship of all 44 Precure girls will allow them to protect the world.\n\n(Source: ANN)'"
-animeRelated	[b'Mahoutsukai Precure!', b'Precure Dream Stars! Movie', b'Precure Super Stars! Movie']
-animeCharacters	[b'Kurumi, Erika', b'Hanasaki, Tsubomi', b'Misumi, Nagisa', b'Haruno, Haruka', b'Yukishiro, Honoka', b'Yumehara, Nozomi', b'Hoshizora, Miyuki', b'Amanogawa, Kirara', b'Shirayuki, Hime', b'Aida, Mana']
-animeVoices	[b'\nMizusawa, Fumie\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nHonna, Youko\nJapanese\n', b'\nShimamura, Yuu\nJapanese\n', b'\nYukana\nJapanese\n', b'\nSanpei, Yuuko\nJapanese\n', b'\nFukuen, Misato\nJapanese\n', b'\nYamamura, Hibiku\nJapanese\n', b'\nHan, Megumi\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuchida, Yutaka\n\nDirector\n\n', b'\nOota, Kazuhiro\n\nKey Animation\n\n', b'\nOgawa, Yukako\n\nArt Director\n\n']
+animePopularity	8476
+animeDescription	"Mirai and Rico come to the human world to play, but are separated when the witch Sorciere and her servant Torauuma suddenly appear. Their aim is to acquire the tears of the 44 Precure girls, using them for her ""Most Evil Magic."" Only the friendship of all 44 Precure girls will allow them to protect the world.
+
+(Source: ANN)"
+animeRelated	['Mahoutsukai Precure!', 'Precure Dream Stars! Movie', 'Precure Super Stars! Movie']
+animeCharacters	['Kurumi, Erika', 'Hanasaki, Tsubomi', 'Misumi, Nagisa', 'Haruno, Haruka', 'Yukishiro, Honoka', 'Yumehara, Nozomi', 'Hoshizora, Miyuki', 'Amanogawa, Kirara', 'Shirayuki, Hime', 'Aida, Mana']
+animeVoices	['Mizusawa, Fumie', 'Mizuki, Nana', 'Honna, Youko', 'Shimamura, Yuu', 'Yukana', 'Sanpei, Yuuko', 'Fukuen, Misato', 'Yamamura, Hibiku', 'Han, Megumi', 'Nabatame, Hitomi']
+animeStaff	[['Tsuchida, Yutaka', 'Director'], ['Oota, Kazuhiro', 'Key Animation'], ['Ogawa, Yukako', 'Art Director']]

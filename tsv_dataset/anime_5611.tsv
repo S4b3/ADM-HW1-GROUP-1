@@ -1,5 +1,5 @@
-animeTitle	b'Soratobu Yuureisen'
-animeType	b'Movie'
+animeTitle	Soratobu Yuureisen
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.6
 animeUsers	2443
 animeRank	
-animePopularity	
-animeDescription	"b""Hayato's city is devastated by a giant robot, his parents are killed in the massacre. The only friend left to him is his dog Jack, the only things left are mom's shoe and a picture of a man and a woman who, as his father tells him on his deathbed, are his real parents. Now Hayato wants revenge on the one who is said to have sent the robot: the terrible Ghost Ship which threatens ships and is rumored to wish to exterminate everything. But then Hayato stumbles on a secret underground factory of Mr. Kurosio, owner of mostly everything in the city - and realizes things are not as Mr. Kurosio has been telling him... Someone terrible lives in a castle under the sea... Hayato is trying to tell people the truth - but his life is now in danger by from the one who does not wish to be known. Then Hayato is saved by no other than the captain of the Ghost Ship... Hayato is about to uncover more than the one secret he has been searching for.\n\n(Source: ANN)"""
-animeRelated	[b'Yuureisen']
-animeCharacters	[b'Hayato', b'Arashiyama, Engineer']
-animeVoices	[b'\nNozawa, Masako\nJapanese\n', b'\nNagoya, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIkeda, Hiroshi\n\nDirector, Script\n\n', b'\nTsuji, Masaki\n\nScript\n\n', b'\nHoney Knights\n\nTheme Song Performance\n\n', b'\nMiyazaki, Hayao\n\nKey Animation\n\n']
+animePopularity	7242
+animeDescription	"Hayato's city is devastated by a giant robot, his parents are killed in the massacre. The only friend left to him is his dog Jack, the only things left are mom's shoe and a picture of a man and a woman who, as his father tells him on his deathbed, are his real parents. Now Hayato wants revenge on the one who is said to have sent the robot: the terrible Ghost Ship which threatens ships and is rumored to wish to exterminate everything. But then Hayato stumbles on a secret underground factory of Mr. Kurosio, owner of mostly everything in the city - and realizes things are not as Mr. Kurosio has been telling him... Someone terrible lives in a castle under the sea... Hayato is trying to tell people the truth - but his life is now in danger by from the one who does not wish to be known. Then Hayato is saved by no other than the captain of the Ghost Ship... Hayato is about to uncover more than the one secret he has been searching for.
+
+(Source: ANN)"
+animeRelated	['Yuureisen']
+animeCharacters	['Hayato', 'Arashiyama, Engineer']
+animeVoices	['Nozawa, Masako', 'Nagoya, Akira']
+animeStaff	[['Ikeda, Hiroshi', 'Director, Script'], ['Tsuji, Masaki', 'Script'], ['Honey Knights', 'Theme Song Performance'], ['Miyazaki, Hayao', 'Key Animation']]

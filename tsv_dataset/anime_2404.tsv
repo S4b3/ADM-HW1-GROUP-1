@@ -1,5 +1,5 @@
-animeTitle	b'Kiba'
-animeType	b'TV'
+animeTitle	Kiba
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.3
 animeUsers	28762
 animeRank	
-animePopularity	
-animeDescription	"b""In a dystopian future, two friends dream of freedom... and gain more than they bargain for! Hothead Zed is on the run from the authorities, while his brainy pal Noah struggles with his own battered body. Both find a magical world that seems to offer escape and power undreamed of. Join Zed and his powerful, rebellious spirit Amir Gaul on their search for the ultimate power. It's a force that can save the world\xe2\x80\x94or destroy life as we know it. This is the world of KIBA! Where you must harness the power within and fight with all you got!\n\n(Source: RightStuf)"""
+animePopularity	2007
+animeDescription	"In a dystopian future, two friends dream of freedom... and gain more than they bargain for! Hothead Zed is on the run from the authorities, while his brainy pal Noah struggles with his own battered body. Both find a magical world that seems to offer escape and power undreamed of. Join Zed and his powerful, rebellious spirit Amir Gaul on their search for the ultimate power. It's a force that can save the world—or destroy life as we know it. This is the world of KIBA! Where you must harness the power within and fight with all you got!
+
+(Source: RightStuf)"
 animeRelated	[]
-animeCharacters	[b'Zed', b'Roya', b'Noa', b'Gaoul, Amil', b'Hugh', b'Kira', b'Sagiri', b'Rebecca', b'Zico, Jiko', b'Mikki']
-animeVoices	[b'\nYoshino, Hiroyuki\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nHorie, Kazuma\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nMatsushita, Komina\nJapanese\n', b'\nEndou, Aya\nJapanese\n', b'\nInoue, Marina\nJapanese\n', b'\nArikawa, Hiroshi\nJapanese\n', b'\nNakamoto, Nobuhisa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKamagata, Eiichi\n\nProducer\n\n', b'\nYamakawa, Norio\n\nProducer\n\n', b'\nKoujina, Hiroshi\n\nDirector\n\n', b'\nTachikawa, Yuzuru\n\nEpisode Director, Setting Manager\n\n']
+animeCharacters	['Zed', 'Roya', 'Noa', 'Gaoul, Amil', 'Hugh', 'Kira', 'Sagiri', 'Rebecca', 'Zico, Jiko', 'Mikki']
+animeVoices	['Yoshino, Hiroyuki', 'Mizuki, Nana', 'Horie, Kazuma', 'Yamaguchi, Kappei', 'Matsushita, Komina', 'Endou, Aya', 'Inoue, Marina', 'Arikawa, Hiroshi', 'Nakamoto, Nobuhisa']
+animeStaff	[['Kamagata, Eiichi', 'Producer'], ['Yamakawa, Norio', 'Producer'], ['Koujina, Hiroshi', 'Director'], ['Tachikawa, Yuzuru', 'Episode Director, Setting Manager']]

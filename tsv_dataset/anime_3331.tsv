@@ -1,5 +1,5 @@
-animeTitle	b'Mazinkaiser: Shitou! Ankoku Dai Shogun'
-animeType	b'OVA'
+animeTitle	Mazinkaiser: Shitou! Ankoku Dai Shogun
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.11
 animeUsers	2029
 animeRank	
-animePopularity	
-animeDescription	b'Koji is on holiday when the 7 generals from Mikene attacks the world, under the leadership of the general of darkness.How will Koji be able to stop them...\n\n(Source: AniDB)'
-animeRelated	[b'Mazinkaiser', b'Mazinger Z tai Ankoku Daishougun']
-animeCharacters	[b'Kabuto, Kouji', b'Yumi, Sayaka', b'Ankoku Daishogun', b'Tsurugi, Tetsuya', b'Honoo, Jun', b'Archduke Gorgon', b'Kabuto, Shiro', b'Abashiri, Naojiro', b'Mucha', b'Azuma, Shun']
-animeVoices	[b'\nIshimaru, Hiroya\nJapanese\n', b'\nUchikawa, Ai\nJapanese\n', b'\nIizuka, Shouzou\nJapanese\n', b'\nYanaka, Hiroshi\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nChou, Katsumi\nJapanese\n', b'\nAida, Sayaka\nJapanese\n', b'\nNagano, Kouichi\nJapanese\n', b'\nNakamura, Daiki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurata, Masahiko\n\nDirector, Storyboard\n\n', b'\nNishimori, Akira\n\nStoryboard\n\n', b'\nJAM Project\n\nTheme Song Performance\n\n', b'\nMizuki, Ichirou\n\nTheme Song Performance\n\n']
+animePopularity	7592
+animeDescription	"Koji is on holiday when the 7 generals from Mikene attacks the world, under the leadership of the general of darkness.How will Koji be able to stop them...
+
+(Source: AniDB)"
+animeRelated	['Mazinkaiser', 'Mazinger Z tai Ankoku Daishougun']
+animeCharacters	['Kabuto, Kouji', 'Yumi, Sayaka', 'Ankoku Daishogun', 'Tsurugi, Tetsuya', 'Honoo, Jun', 'Archduke Gorgon', 'Kabuto, Shiro', 'Abashiri, Naojiro', 'Mucha', 'Azuma, Shun']
+animeVoices	['Ishimaru, Hiroya', 'Uchikawa, Ai', 'Iizuka, Shouzou', 'Yanaka, Hiroshi', 'Saiga, Mitsuki', 'Chou, Katsumi', 'Aida, Sayaka', 'Nagano, Kouichi', 'Nakamura, Daiki']
+animeStaff	[['Murata, Masahiko', 'Director, Storyboard'], ['Nishimori, Akira', 'Storyboard'], ['JAM Project', 'Theme Song Performance'], ['Mizuki, Ichirou', 'Theme Song Performance']]

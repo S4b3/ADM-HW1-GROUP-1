@@ -1,5 +1,5 @@
-animeTitle	b'Candy Candy (Movie)'
-animeType	b'Movie'
+animeTitle	Candy Candy (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.72
 animeUsers	1475
 animeRank	
-animePopularity	
-animeDescription	"b'A young girl named Candice White who was left on the doorstep of the ""Pony Home"", an orphanage, when she was just a baby. The sisters took her first name from a doll she had in her basket, with the name ""Candy"" on it, and her last name from the snowstorm she was rescued from. Life is quiet and happy.. or.. as quiet as life can be with Candy around. She has a penchant for getting into trouble, climbing trees and tussling with the best of them. However, tragedy begins to strike. \n\n(Source: ANN)'"
-animeRelated	[b'Candy Candy', b'Candy Candy: Haru no Yobigoe', b'Candy Candy: Candy no Natsu Yasumi']
-animeCharacters	[b'White Adley, Candice', b'Brown, Anthony', b'Adley, William Albert', b'Cornwell, Alistair', b'Leagan, Eliza', b'Cornwell, Archibald', b'Brighton, Annie', b'Miss Pony', b'Leagan, Neil']
-animeVoices	[b'\nMatsushima, Minori\nJapanese\n', b'\nHorikawa, Ryo\nJapanese\n', b'\nOnosaka, Masaya\nJapanese\n', b'\nYamada, Eiko\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImazawa, Tetsuo\n\nDirector\n\n', b'\nMatsuyama, Yuushi\n\nTheme Song Arrangement\n\n', b'\nIgarashi, Yumiko\n\nOriginal Character Design\n\n', b'\nWatanabe, Takeo\n\nMusic\n\n']
+animePopularity	7980
+animeDescription	"A young girl named Candice White who was left on the doorstep of the ""Pony Home"", an orphanage, when she was just a baby. The sisters took her first name from a doll she had in her basket, with the name ""Candy"" on it, and her last name from the snowstorm she was rescued from. Life is quiet and happy.. or.. as quiet as life can be with Candy around. She has a penchant for getting into trouble, climbing trees and tussling with the best of them. However, tragedy begins to strike. 
+
+(Source: ANN)"
+animeRelated	['Candy Candy', 'Candy Candy: Haru no Yobigoe', 'Candy Candy: Candy no Natsu Yasumi']
+animeCharacters	['White Adley, Candice', 'Brown, Anthony', 'Adley, William Albert', 'Cornwell, Alistair', 'Leagan, Eliza', 'Cornwell, Archibald', 'Brighton, Annie', 'Miss Pony', 'Leagan, Neil']
+animeVoices	['Matsushima, Minori', 'Horikawa, Ryo', 'Onosaka, Masaya', 'Yamada, Eiko', 'Midorikawa, Hikaru', 'Touma, Yumi', 'Nakao, Ryusei']
+animeStaff	[['Imazawa, Tetsuo', 'Director'], ['Matsuyama, Yuushi', 'Theme Song Arrangement'], ['Igarashi, Yumiko', 'Original Character Design'], ['Watanabe, Takeo', 'Music']]

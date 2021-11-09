@@ -1,5 +1,5 @@
-animeTitle	b'Cocolors'
-animeType	b'Movie'
+animeTitle	Cocolors
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.76
 animeUsers	1172
 animeRank	
-animePopularity	
-animeDescription	b'There is a world in which an endless rain of dark ash fills the sky, and covers the earth. Humanity, fearing the ash that burns and melts away human flesh, had no choice but to cover themselves in protective suits, and their faces with gigantic masks. Bundled up in their suits and hidden away behind their masks, the people have fled deep within the underground. This is the story of the children growing up in this fearful world.\n\n(Source: Official site)'
+animePopularity	6547
+animeDescription	"There is a world in which an endless rain of dark ash fills the sky, and covers the earth. Humanity, fearing the ash that burns and melts away human flesh, had no choice but to cover themselves in protective suits, and their faces with gigantic masks. Bundled up in their suits and hidden away behind their masks, the people have fled deep within the underground. This is the story of the children growing up in this fearful world.
+
+(Source: Official site)"
 animeRelated	[]
-animeCharacters	[b'Fuyu', b'Aki', b'Chibo', b'Yakin', b'Gidoku', b'Shuu']
-animeVoices	[b'\nHata, Sawako\nJapanese\n', b'\nTakada, Yuuki\nJapanese\n', b'\nNakazawa, Yayoi\nJapanese\n', b'\nKamei, Yoshiko\nJapanese\n', b'\nTerasoma, Masaki\nJapanese\n', b'\nIwanaka, Mutsuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimizu, Ittatsu\n\nProducer\n\n', b'\nYokoshima, Toshihisa\n\nDirector, Episode Director, Script, Storyboard\n\n', b'\nNaya, Ryousuke\n\nSound Director\n\n', b'\nMizusaki, Junpei\n\nExecutive Producer\n\n']
+animeCharacters	['Fuyu', 'Aki', 'Chibo', 'Yakin', 'Gidoku', 'Shuu']
+animeVoices	['Hata, Sawako', 'Takada, Yuuki', 'Nakazawa, Yayoi', 'Kamei, Yoshiko', 'Terasoma, Masaki', 'Iwanaka, Mutsuki']
+animeStaff	[['Shimizu, Ittatsu', 'Producer'], ['Yokoshima, Toshihisa', 'Director, Episode Director, Script, Storyboard'], ['Naya, Ryousuke', 'Sound Director'], ['Mizusaki, Junpei', 'Executive Producer']]

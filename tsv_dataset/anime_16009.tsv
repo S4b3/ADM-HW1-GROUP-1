@@ -1,5 +1,5 @@
-animeTitle	b'Hello Kitty no Kieta Santa-san no Okurimono'
-animeType	b'OVA'
+animeTitle	Hello Kitty no Kieta Santa-san no Okurimono
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Kitty and Mimmy are preparing for Santa's visit by making him cookies."""
+animePopularity	14690
+animeDescription	Kitty and Mimmy are preparing for Santa's visit by making him cookies.
 animeRelated	[]
-animeCharacters	[b'White, Kitty', b'White, Mimmy']
-animeVoices	[b'\nHayashibara, Megumi\nJapanese\n', b'\nTominaga, Miina\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshikawa, Yasuo\n\nDirector\n\n']
+animeCharacters	['White, Kitty', 'White, Mimmy']
+animeVoices	['Hayashibara, Megumi', 'Tominaga, Miina']
+animeStaff	[['Ishikawa, Yasuo', 'Director']]

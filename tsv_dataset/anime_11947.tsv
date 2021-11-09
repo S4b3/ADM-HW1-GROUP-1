@@ -1,5 +1,5 @@
-animeTitle	b'Armageddon'
-animeType	b'Movie'
+animeTitle	Armageddon
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	3.93
 animeUsers	637
 animeRank	
-animePopularity	
-animeDescription	b'Four billion years ago, in the Andromeda Nebula, an ambitious project was launched. An ancient race of aliens, seeing that there was no other intelligent life in the Universe, set their massive supercomputers the task of seeding more races that could grow to sentience. The project was known as the Omega Program. The human race was the result of this project.\n\nHowever, humans were not the only races to grow from the Omega Program, and lurking in the future is the deadliest threat the human race has ever faced. In time, the products of this Program are destined to clash in violent opposition. Hopelessly outnumbered by the technologically superior enemy, Earth has one last hope\xe2\x80\x94the secret fail-safe of the Omega Program\xe2\x80\x94the Delta Boy, living avatar of the supercomputer that began life on Earth.\n\nHis only problem is staying alive long enough to save his future\xe2\x80\x94and that of all humanity...'
-animeRelated	[b'Armagedon']
+animePopularity	10272
+animeDescription	"Four billion years ago, in the Andromeda Nebula, an ambitious project was launched. An ancient race of aliens, seeing that there was no other intelligent life in the Universe, set their massive supercomputers the task of seeding more races that could grow to sentience. The project was known as the Omega Program. The human race was the result of this project.
+
+However, humans were not the only races to grow from the Omega Program, and lurking in the future is the deadliest threat the human race has ever faced. In time, the products of this Program are destined to clash in violent opposition. Hopelessly outnumbered by the technologically superior enemy, Earth has one last hope—the secret fail-safe of the Omega Program—the Delta Boy, living avatar of the supercomputer that began life on Earth.
+
+His only problem is staying alive long enough to save his future—and that of all humanity..."
+animeRelated	['Armagedon']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

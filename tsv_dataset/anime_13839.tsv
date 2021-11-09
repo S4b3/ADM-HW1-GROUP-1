@@ -1,5 +1,5 @@
-animeTitle	b'Time Ranger Cesar Boy no Bouken: Roma Teikoku-hen'
-animeType	b'OVA'
+animeTitle	Time Ranger Cesar Boy no Bouken: Roma Teikoku-hen
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Based on the original story by Yasumura Ryou.'
+animePopularity	15811
+animeDescription	Based on the original story by Yasumura Ryou.
 animeRelated	[]
-animeCharacters	[b'Cesar Boy', b'Emperor Cesar', b'Glory, Karen', b'Scar Cat']
-animeVoices	[b'\nOokawa, Tooru\nJapanese\n', b'\nHanada, Hikaru\nJapanese\n', b'\nMitsuishi, Kotono\nJapanese\n', b'\nNozawa, Nachi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYasumura, Ryou\n\nDirector, Script, Original Creator\n\n', b'\nTakayama, Hideki\n\nSound Director\n\n', b'\nKobayashi, Makoto\n\nMechanical Design\n\n', b'\nYamanaka, Norimasa\n\nMusic\n\n']
+animeCharacters	['Cesar Boy', 'Emperor Cesar', 'Glory, Karen', 'Scar Cat']
+animeVoices	['Ookawa, Tooru', 'Hanada, Hikaru', 'Mitsuishi, Kotono', 'Nozawa, Nachi']
+animeStaff	[['Yasumura, Ryou', 'Director, Script, Original Creator'], ['Takayama, Hideki', 'Sound Director'], ['Kobayashi, Makoto', 'Mechanical Design'], ['Yamanaka, Norimasa', 'Music']]

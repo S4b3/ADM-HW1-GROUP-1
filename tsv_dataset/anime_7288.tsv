@@ -1,5 +1,5 @@
-animeTitle	b'Pa-Pa-Pa the \xe2\x98\x85 Movie: Perman'
-animeType	b'Movie'
+animeTitle	Pa-Pa-Pa the ★ Movie: Perman
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.28
 animeUsers	217
 animeRank	
-animePopularity	
-animeDescription	b'An origins and highlight film showing how Mitsuo met the alien that gave him the equipment to become a superhero (which for some reason was never explicitly shown in the two main anime, both just start with Mitsuo already having the powers), how he works together with the other Permans, and the rowdy fight with the antagonists.\n\nScreened simultaneously with Doraemon Movie 24: Nobita to Fushigi Kaze Tsukai.'
-animeRelated	[b'Perman', b'Perman (1983)']
-animeCharacters	[b'Suwa, Mitsuo', b'Sabu']
-animeVoices	[b'\nMiwa, Katsue\nJapanese\n', b'\nChiba, Shigeru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nWatanabe, Ayumu\n\nDirector, Screenplay\n\n', b'\nColumbia Yurikago Kai\n\nTheme Song Performance\n\n', b'\nIshikawa, Hitomi\n\nTheme Song Performance\n\n', b'\nFuruta, Yoshiaki\n\nTheme Song Composition\n\n']
+animePopularity	12567
+animeDescription	"An origins and highlight film showing how Mitsuo met the alien that gave him the equipment to become a superhero (which for some reason was never explicitly shown in the two main anime, both just start with Mitsuo already having the powers), how he works together with the other Permans, and the rowdy fight with the antagonists.
+
+Screened simultaneously with Doraemon Movie 24: Nobita to Fushigi Kaze Tsukai."
+animeRelated	['Perman', 'Perman (1983)']
+animeCharacters	['Suwa, Mitsuo', 'Sabu']
+animeVoices	['Miwa, Katsue', 'Chiba, Shigeru']
+animeStaff	[['Watanabe, Ayumu', 'Director, Screenplay'], ['Columbia Yurikago Kai', 'Theme Song Performance'], ['Ishikawa, Hitomi', 'Theme Song Performance'], ['Furuta, Yoshiaki', 'Theme Song Composition']]

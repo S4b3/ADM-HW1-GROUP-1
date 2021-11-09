@@ -1,5 +1,5 @@
-animeTitle	b'Gokusen'
-animeType	b'TV'
+animeTitle	Gokusen
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.41
 animeUsers	18079
 animeRank	
-animePopularity	
-animeDescription	"b""Kumiko Yamaguchi is smart, enthusiastic, and ready to start her dream job as a math teacher at Shirokin Academy. But as her first day opens on atrocious students and cowering teachers, Kumiko realizes that the all-boys high school is a cesspool of delinquents with no intention of improving themselves.\n\nHowever, what her rowdy students don't know is that behind her dorky facade, Kumiko is the acting head of a powerful yakuza clan, and she has the skills to prove it! Capable of overpowering even the strongest of gangsters in seconds, Kumiko must keep her incredible strength and criminal influence a secret in order to keep her job. Unfortunately, with the vice principal constantly trying to get her fired and Shin Sawada, the leader of her class of delinquents, suspecting she's stronger than she lets on, Kumiko has a difficult teaching career ahead of her.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Gokusen']
-animeCharacters	[b'Yamaguchi, Kumiko', b'Sawada, Shin', b'Ooshima, Kyotarou', b'Uchiyama, Haruhiko', b'Noda, Takeshi', b'Fuji', b'Kumai, Teruo', b'Tatsukawa, Minoru', b'Asakura, Tetsu', b'Minami, Youichi']
-animeVoices	[b'\nHayamizu, Risa\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n', b'\nMasukawa, Yoichi\nJapanese\n', b'\nYamagishi, Isao\nJapanese\n', b'\nKatou, Seizou\nJapanese\n', b'\nSugino, Tanuki\nJapanese\n', b'\nYoshida, Hiroaki\nJapanese\n', b'\nHirai, Keiji\nJapanese\n', b'\nNakakuni, Takurou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaruyama, Masao\n\nProducer\n\n', b'\nTamura, Manabu\n\nProducer\n\n', b'\nSatou, Yuuzou\n\nDirector, Episode Director, Storyboard, Key Animation\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n']
+animePopularity	2884
+animeDescription	"Kumiko Yamaguchi is smart, enthusiastic, and ready to start her dream job as a math teacher at Shirokin Academy. But as her first day opens on atrocious students and cowering teachers, Kumiko realizes that the all-boys high school is a cesspool of delinquents with no intention of improving themselves.
+
+However, what her rowdy students don't know is that behind her dorky facade, Kumiko is the acting head of a powerful yakuza clan, and she has the skills to prove it! Capable of overpowering even the strongest of gangsters in seconds, Kumiko must keep her incredible strength and criminal influence a secret in order to keep her job. Unfortunately, with the vice principal constantly trying to get her fired and Shin Sawada, the leader of her class of delinquents, suspecting she's stronger than she lets on, Kumiko has a difficult teaching career ahead of her.
+
+[Written by MAL Rewrite]"
+animeRelated	['Gokusen']
+animeCharacters	['Yamaguchi, Kumiko', 'Sawada, Shin', 'Ooshima, Kyotarou', 'Uchiyama, Haruhiko', 'Noda, Takeshi', 'Fuji', 'Kumai, Teruo', 'Tatsukawa, Minoru', 'Asakura, Tetsu', 'Minami, Youichi']
+animeVoices	['Hayamizu, Risa', 'Suzumura, Kenichi', 'Wakamoto, Norio', 'Masukawa, Yoichi', 'Yamagishi, Isao', 'Katou, Seizou', 'Sugino, Tanuki', 'Yoshida, Hiroaki', 'Hirai, Keiji', 'Nakakuni, Takurou']
+animeStaff	[['Maruyama, Masao', 'Producer'], ['Tamura, Manabu', 'Producer'], ['Satou, Yuuzou', 'Director, Episode Director, Storyboard, Key Animation'], ['Motoyama, Satoshi', 'Sound Director']]

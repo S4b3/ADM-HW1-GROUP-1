@@ -1,5 +1,5 @@
-animeTitle	b'Shichinin no Nana'
-animeType	b'TV'
+animeTitle	Shichinin no Nana
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.75
 animeUsers	1143
 animeRank	
-animePopularity	
-animeDescription	"b""Nana Suzuki winds up being split into seven copies of herself. Besides the original Nana, there's also a smart Nana, a happy Nana, an angry Nana, a sensitive Nana, a sad Nana, and a slow Nana. \n\n(Source: ANN)"""
-animeRelated	[b'Shichinin no Nana', b'Shichinin no Nana: Oshougatsu Da yo! 7 x 7 = 49-nin no Nana?']
-animeCharacters	[b'Nanacchi', b'Suzuki, Nana', b'Nanarin', b'Nanakko', b'Nanappe', b'Nanapon', b'Onodera, Hitomi', b'Nanasama', b'Saburo, Mutsumi', b'Kamichika, Yuuichi']
-animeVoices	[b'\nAsaki, Mai\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nFukui, Yukari\nJapanese\n', b'\nAkita, Madoka\nJapanese\n', b'\nMomomori, Sumomo\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nMatsuki, Miyu\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nIshida, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nImagawa, Yasuhiro\n\nDirector, Episode Director, Script, Storyboard, Original Creator, Series Composition\n\n', b'\nHonda, Yasunori\n\nSound Director\n\n', b'\nNakamura, Ryuutarou\n\nEpisode Director, Storyboard\n\n', b'\nWatanabe, Takashi\n\nEpisode Director, Storyboard\n\n']
+animePopularity	6753
+animeDescription	"Nana Suzuki winds up being split into seven copies of herself. Besides the original Nana, there's also a smart Nana, a happy Nana, an angry Nana, a sensitive Nana, a sad Nana, and a slow Nana. 
+
+(Source: ANN)"
+animeRelated	['Shichinin no Nana', 'Shichinin no Nana: Oshougatsu Da yo! 7 x 7 = 49-nin no Nana?']
+animeCharacters	['Nanacchi', 'Suzuki, Nana', 'Nanarin', 'Nanakko', 'Nanappe', 'Nanapon', 'Onodera, Hitomi', 'Nanasama', 'Saburo, Mutsumi', 'Kamichika, Yuuichi']
+animeVoices	['Asaki, Mai', 'Mizuki, Nana', 'Fukui, Yukari', 'Akita, Madoka', 'Momomori, Sumomo', 'Nazuka, Kaori', 'Matsuki, Miyu', 'Nakahara, Mai', 'Ishida, Akira']
+animeStaff	[['Imagawa, Yasuhiro', 'Director, Episode Director, Script, Storyboard, Original Creator, Series Composition'], ['Honda, Yasunori', 'Sound Director'], ['Nakamura, Ryuutarou', 'Episode Director, Storyboard'], ['Watanabe, Takashi', 'Episode Director, Storyboard']]

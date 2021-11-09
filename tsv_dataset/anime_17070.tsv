@@ -1,5 +1,5 @@
-animeTitle	b'Little Polar Bear: Shirokuma-kun, Doko e?'
-animeType	b'Movie'
+animeTitle	Little Polar Bear: Shirokuma-kun, Doko e?
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""Based on the childrens' book Little Polar Bear by Dutch author Hans de Beer."""
-animeRelated	[b'Little Polar Bear: Shirokuma-kun, Fune ni Noru']
-animeCharacters	[b'Lars']
+animePopularity	13879
+animeDescription	Based on the childrens' book Little Polar Bear by Dutch author Hans de Beer.
+animeRelated	['Little Polar Bear: Shirokuma-kun, Fune ni Noru']
+animeCharacters	['Lars']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nSadamitsu, Shinya\n\nDirector\n\n', b'\nTakagi, Yoshiko\n\nScript\n\n', b'\nGotou, Takayuki\n\nKey Animation\n\n', b'\nKinoshita, Kazuhiro\n\nBackground Art, Art Director\n\n']
+animeStaff	[['Sadamitsu, Shinya', 'Director'], ['Takagi, Yoshiko', 'Script'], ['Gotou, Takayuki', 'Key Animation'], ['Kinoshita, Kazuhiro', 'Background Art, Art Director']]

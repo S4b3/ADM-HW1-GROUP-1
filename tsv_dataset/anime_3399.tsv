@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 01: Nobita no Kyouryuu'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 01: Nobita no Kyouryuu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.09
 animeUsers	4014
 animeRank	
-animePopularity	
-animeDescription	"b""Nobita finds a fossilized dinosaur egg by accident, and with the help of Doraemon's tools, they hatched the egg and began raising the dinosaur. Knowing that they can't keep the dinosaur forever, Nobita was forced to send it back to prehistoric times where a group of hunters from the future threatens to endanger the dinosaurs. Determined to save the dinosaurs from the claws of the hunters, Doraemon and the gang returns to the past and sets out in a prehistoric adventure. \n\n(Source: ANN)"""
-animeRelated	[b'Daichouhen Doraemon', b'Doraemon Movie 26: Nobita no Kyouryuu 2006', b'Doraemon (1979)']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi', b'Piisuke', b'Nobi, Tamako', b'Nobi, Nobisuke', b'Honekawa, Mother', b'Gouda, Mother']
-animeVoices	[b'\nOoyama, Nobuyo\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nNomura, Michiko\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nTatekabe, Kazuya\nJapanese\n', b'\nYokozawa, Keiko\nJapanese\n', b'\nChijimatsu, Sachiko\nJapanese\n', b'\nKatou, Masayuki\nJapanese\n', b'\nOotori, Yoshino\nJapanese\n', b'\nAoki, Kazuyo\nJapanese\n']
-animeStaff	"[b'\n\n\n\n\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nOoyama, Nobuyo\n\nTheme Song Performance\n\n', b""\nKoorogi '73\n\nTheme Song Performance\n\n"", b'\nTakeda, Tetsuya\n\nTheme Song Lyrics\n\n']"
+animePopularity	6328
+animeDescription	"Nobita finds a fossilized dinosaur egg by accident, and with the help of Doraemon's tools, they hatched the egg and began raising the dinosaur. Knowing that they can't keep the dinosaur forever, Nobita was forced to send it back to prehistoric times where a group of hunters from the future threatens to endanger the dinosaurs. Determined to save the dinosaurs from the claws of the hunters, Doraemon and the gang returns to the past and sets out in a prehistoric adventure. 
+
+(Source: ANN)"
+animeRelated	['Daichouhen Doraemon', 'Doraemon Movie 26: Nobita no Kyouryuu 2006', 'Doraemon (1979)']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Piisuke', 'Nobi, Tamako', 'Nobi, Nobisuke', 'Honekawa, Mother', 'Gouda, Mother']
+animeVoices	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Nomura, Michiko', 'Kimotsuki, Kaneta', 'Tatekabe, Kazuya', 'Yokozawa, Keiko', 'Chijimatsu, Sachiko', 'Katou, Masayuki', 'Ootori, Yoshino', 'Aoki, Kazuyo']
+animeStaff	"[['Urakami, Yasuo', 'Sound Director'], ['Ooyama, Nobuyo', 'Theme Song Performance'], [""Koorogi '73"", 'Theme Song Performance'], ['Takeda, Tetsuya', 'Theme Song Lyrics']]"

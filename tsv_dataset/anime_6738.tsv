@@ -1,5 +1,5 @@
-animeTitle	b'Bomberman B-Daman Bakugaiden Victory'
-animeType	b'TV'
+animeTitle	Bomberman B-Daman Bakugaiden Victory
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.39
 animeUsers	628
 animeRank	
-animePopularity	
-animeDescription	b'Based on the Hudson Soft game.'
-animeRelated	[b'Bomberman B-Daman Bakugaiden']
-animeCharacters	[b'Bomber, White', b'Kurobon', b'Midoribon', b'Akabon', b'Aobon', b'Kiirobon']
-animeVoices	[b'\nSeki, Toshihiko\nJapanese\n', b'\nMiyazaki, Issei\nJapanese\n', b'\nSakuma, Rei\nJapanese\n', b'\nKozakura, Etsuko\nJapanese\n', b'\nMadono, Mitsuaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nMinakami, Seishi\n\nScript\n\n', b'\nWatanabe, Cheru\n\nTheme Song Arrangement, Theme Song Composition\n\n', b'\nShiramine, Mitsuko\n\nTheme Song Lyrics\n\n']
+animePopularity	9943
+animeDescription	Based on the Hudson Soft game.
+animeRelated	['Bomberman B-Daman Bakugaiden']
+animeCharacters	['Bomber, White', 'Kurobon', 'Midoribon', 'Akabon', 'Aobon', 'Kiirobon']
+animeVoices	['Seki, Toshihiko', 'Miyazaki, Issei', 'Sakuma, Rei', 'Kozakura, Etsuko', 'Madono, Mitsuaki']
+animeStaff	[['Tsuruoka, Youta', 'Sound Director'], ['Minakami, Seishi', 'Script'], ['Watanabe, Cheru', 'Theme Song Arrangement, Theme Song Composition'], ['Shiramine, Mitsuko', 'Theme Song Lyrics']]

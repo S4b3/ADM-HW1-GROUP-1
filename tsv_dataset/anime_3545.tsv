@@ -1,5 +1,5 @@
-animeTitle	b'Show by Rock!! Stars!!'
-animeType	b'TV'
+animeTitle	Show by Rock!! Stars!!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.06
 animeUsers	1927
 animeRank	
-animePopularity	
-animeDescription	"b'""All stars"" season of Show by Rock!! featuring all the bands from previous seasons.'"
-animeRelated	[b'Show By Rock!! Mashumairesh!!']
-animeCharacters	[b'Hijirikawa, Cyan', b'Retoree', b'Howan', b'Moa', b'Chuchu', b'Mashima, Himeko', b'Delmin', b'Ruhuyu', b'Crow', b'Rom']
-animeVoices	[b'\nInagawa, Eri\nJapanese\n', b'\nNumakura, Manami\nJapanese\n', b'\nToono, Hikaru\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nNatsuyoshi, Yuuko\nJapanese\n', b'\nWatada, Misaki\nJapanese\n', b'\nYamane, Aya\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nHosoya, Yoshimasa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIkezoe, Takahiro\n\nDirector\n\n', b'\nYamagishi, Daigo\n\nDirector\n\n', b'\nGou, Fumiyuki\n\nSound Director\n\n', b'\nMachida, Touko\n\nSeries Composition\n\n']
+animePopularity	5636
+animeDescription	"""All stars"" season of Show by Rock!! featuring all the bands from previous seasons."
+animeRelated	['Show By Rock!! Mashumairesh!!']
+animeCharacters	['Hijirikawa, Cyan', 'Retoree', 'Howan', 'Moa', 'Chuchu', 'Mashima, Himeko', 'Delmin', 'Ruhuyu', 'Crow', 'Rom']
+animeVoices	['Inagawa, Eri', 'Numakura, Manami', 'Toono, Hikaru', 'Sakura, Ayane', 'Uesaka, Sumire', 'Natsuyoshi, Yuuko', 'Watada, Misaki', 'Yamane, Aya', 'Taniyama, Kishou', 'Hosoya, Yoshimasa']
+animeStaff	[['Ikezoe, Takahiro', 'Director'], ['Yamagishi, Daigo', 'Director'], ['Gou, Fumiyuki', 'Sound Director'], ['Machida, Touko', 'Series Composition']]

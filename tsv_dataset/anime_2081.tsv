@@ -1,5 +1,5 @@
-animeTitle	b'Uchuu no Stellvia'
-animeType	b'TV'
+animeTitle	Uchuu no Stellvia
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.37
 animeUsers	8415
 animeRank	
-animePopularity	
-animeDescription	"b'The year is 2356 A.D. - 189 years after a distant supernova caused a global catastrophe that wiped out 99% of the world population. To keep track on all space activities, mankind has built colossal space stations called ""foundations"" all over the Solar System. After passing the Space Academy entrance exams, Shima Katase embarks to the Earth-based foundation Stellvia to fulfill her dream of seeing the galaxy and to prevent another interstellar catastrophe from destroying Earth.\n\n(Source: ANN)'"
-animeRelated	[b'Uchuu no Stellvia']
-animeCharacters	[b'Katase, Shima', b'Glennorth, Arisa', b'Otoyama, Kouta', b'Fujisawa, Yayoi', b'Machida, Ayaka', b'Kazamatsuri, Rinna', b'Barthes, Leila', b'Carlos, Enrique', b'Omaezaki, Tony', b'Mills, Akiko']
-animeVoices	[b'\nNonaka, Ai\nJapanese\n', b'\nMatsuoka, Yuki\nJapanese\n', b'\nMizushima, Takahiro\nJapanese\n', b'\nOrikasa, Fumiko\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nHirohashi, Ryou\nJapanese\n', b'\nShindo, Naomi\nJapanese\n', b'\nKazama, Yuuto\nJapanese\n', b'\nTakahashi, Yugo\nJapanese\n', b'\nTakahashi, Mayuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakanishi, Go\n\nProducer\n\n', b'\nSatou, Tatsuo\n\nDirector, Script, Storyboard, Planning\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nSuzuki, Toshimasa\n\nEpisode Director, Storyboard\n\n']
+animePopularity	3830
+animeDescription	"The year is 2356 A.D. - 189 years after a distant supernova caused a global catastrophe that wiped out 99% of the world population. To keep track on all space activities, mankind has built colossal space stations called ""foundations"" all over the Solar System. After passing the Space Academy entrance exams, Shima Katase embarks to the Earth-based foundation Stellvia to fulfill her dream of seeing the galaxy and to prevent another interstellar catastrophe from destroying Earth.
+
+(Source: ANN)"
+animeRelated	['Uchuu no Stellvia']
+animeCharacters	['Katase, Shima', 'Glennorth, Arisa', 'Otoyama, Kouta', 'Fujisawa, Yayoi', 'Machida, Ayaka', 'Kazamatsuri, Rinna', 'Barthes, Leila', 'Carlos, Enrique', 'Omaezaki, Tony', 'Mills, Akiko']
+animeVoices	['Nonaka, Ai', 'Matsuoka, Yuki', 'Mizushima, Takahiro', 'Orikasa, Fumiko', 'Toyoguchi, Megumi', 'Hirohashi, Ryou', 'Shindo, Naomi', 'Kazama, Yuuto', 'Takahashi, Yugo', 'Takahashi, Mayuko']
+animeStaff	[['Nakanishi, Go', 'Producer'], ['Satou, Tatsuo', 'Director, Script, Storyboard, Planning'], ['Mima, Masafumi', 'Sound Director'], ['Suzuki, Toshimasa', 'Episode Director, Storyboard']]

@@ -1,5 +1,5 @@
-animeTitle	b'Yoza-Quar!'
-animeType	b'Special'
+animeTitle	Yoza-Quar!
+animeType	Special
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.55
 animeUsers	1815
 animeRank	
-animePopularity	
-animeDescription	"b'Each of the six BD/DVDs will include one short. They will feature the characters in a ""slighly risqu\xc3\xa9"" light not seen in the main story.'"
-animeRelated	[b'Yozakura Quartet: Hana no Uta']
-animeCharacters	[b'Nanami, Ao', b'Yarizakura, Hime', b'Isone, Kotoha', b'Hiizumi, Akina', b'Shinatsuhiko, Yae', b'F, V Juli', b'Shinatsuhiko, Yuuhi', b'Kishi, Kyousuke', b'Kishi, Touka', b'Mariabelle']
-animeVoices	[b'\nFujita, Saki\nJapanese\n', b'\nFukuen, Misato\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nKuwatani, Natsuko\nJapanese\n', b'\nOokubo, Aiko\nJapanese\n', b'\nMatsumoto, Sachi\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nTomatsu, Haruka\nJapanese\n', b'\nTanaka, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYasuda, Suzuhito\n\nOriginal Creator\n\n']
+animePopularity	5595
+animeDescription	"Each of the six BD/DVDs will include one short. They will feature the characters in a ""slighly risqué"" light not seen in the main story."
+animeRelated	['Yozakura Quartet: Hana no Uta']
+animeCharacters	['Nanami, Ao', 'Yarizakura, Hime', 'Isone, Kotoha', 'Hiizumi, Akina', 'Shinatsuhiko, Yae', 'F, V Juli', 'Shinatsuhiko, Yuuhi', 'Kishi, Kyousuke', 'Kishi, Touka', 'Mariabelle']
+animeVoices	['Fujita, Saki', 'Fukuen, Misato', 'Sawashiro, Miyuki', 'Kaji, Yuki', 'Kuwatani, Natsuko', 'Ookubo, Aiko', 'Matsumoto, Sachi', 'Ono, Daisuke', 'Tomatsu, Haruka', 'Tanaka, Rie']
+animeStaff	[['Yasuda, Suzuhito', 'Original Creator']]

@@ -1,5 +1,5 @@
-animeTitle	b'Fate/Zero'
-animeType	b'TV'
+animeTitle	Fate/Zero
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.31
 animeUsers	711995
 animeRank	
-animePopularity	
-animeDescription	"b'With the promise of granting any wish, the omnipotent Holy Grail triggered three wars in the past, each too cruel and fierce to leave a victor. In spite of that, the wealthy Einzbern family is confident that the Fourth Holy Grail War will be different; namely, with a vessel of the Holy Grail now in their grasp. Solely for this reason, the much hated ""Magus Killer"" Kiritsugu Emiya is hired by the Einzberns, with marriage to their only daughter Irisviel as binding contract.\n\nKiritsugu now stands at the center of a cutthroat game of survival, facing off against six other participants, each armed with an ancient familiar, and fueled by unique desires and ideals. Accompanied by his own familiar, Saber, the notorious mercenary soon finds his greatest opponent in Kirei Kotomine, a priest who seeks salvation from the emptiness within himself in pursuit of Kiritsugu.\n\nBased on the light novel written by Gen Urobuchi, Fate/Zero depicts the events of the Fourth Holy Grail War\xe2\x80\x9410 years prior to Fate/stay night. Witness a battle royale in which no one is guaranteed to survive.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Fate/Zero', b'Fate/Zero 2nd Season', b'Fate/Zero Remix', b'Fate/Zero: Onegai! Einzbern Soudanshitsu', b'Fate/Zero Cafe', b'Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi', b'Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note']
-animeCharacters	[b'Saber', b'Emiya, Kiritsugu', b'Gilgamesh', b'Kotomine, Kirei', b'von Einzbern, Irisviel', b'Toosaka, Rin', b'Rider', b'Matou, Sakura', b'von Einzbern, Illyasviel', b'Lancer']
-animeVoices	[b'\nKawasumi, Ayako\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nNakata, Jouji\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nShitaya, Noriko\nJapanese\n', b'\nKadowaki, Mai\nJapanese\n', b'\nMidorikawa, Hikaru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwakami, Atsuhiro\n\nProducer\n\n', b'\nKondou, Hikaru\n\nProducer\n\n', b'\nMori, Yasunori\n\nProducer\n\n', b'\nAoki, Ei\n\nDirector, Episode Director, Storyboard\n\n']
+animePopularity	66
+animeDescription	"With the promise of granting any wish, the omnipotent Holy Grail triggered three wars in the past, each too cruel and fierce to leave a victor. In spite of that, the wealthy Einzbern family is confident that the Fourth Holy Grail War will be different; namely, with a vessel of the Holy Grail now in their grasp. Solely for this reason, the much hated ""Magus Killer"" Kiritsugu Emiya is hired by the Einzberns, with marriage to their only daughter Irisviel as binding contract.
+
+Kiritsugu now stands at the center of a cutthroat game of survival, facing off against six other participants, each armed with an ancient familiar, and fueled by unique desires and ideals. Accompanied by his own familiar, Saber, the notorious mercenary soon finds his greatest opponent in Kirei Kotomine, a priest who seeks salvation from the emptiness within himself in pursuit of Kiritsugu.
+
+Based on the light novel written by Gen Urobuchi, Fate/Zero depicts the events of the Fourth Holy Grail War—10 years prior to Fate/stay night. Witness a battle royale in which no one is guaranteed to survive.
+
+[Written by MAL Rewrite]"
+animeRelated	['Fate/Zero', 'Fate/Zero 2nd Season', 'Fate/Zero Remix', 'Fate/Zero: Onegai! Einzbern Soudanshitsu', 'Fate/Zero Cafe', 'Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi', 'Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note']
+animeCharacters	['Saber', 'Emiya, Kiritsugu', 'Gilgamesh', 'Kotomine, Kirei', 'von Einzbern, Irisviel', 'Toosaka, Rin', 'Rider', 'Matou, Sakura', 'von Einzbern, Illyasviel', 'Lancer']
+animeVoices	['Kawasumi, Ayako', 'Koyama, Rikiya', 'Seki, Tomokazu', 'Nakata, Jouji', 'Ohara, Sayaka', 'Ueda, Kana', 'Ootsuka, Akio', 'Shitaya, Noriko', 'Kadowaki, Mai', 'Midorikawa, Hikaru']
+animeStaff	[['Iwakami, Atsuhiro', 'Producer'], ['Kondou, Hikaru', 'Producer'], ['Mori, Yasunori', 'Producer'], ['Aoki, Ei', 'Director, Episode Director, Storyboard']]

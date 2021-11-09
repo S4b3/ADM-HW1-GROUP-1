@@ -1,5 +1,5 @@
-animeTitle	b'Gundress'
-animeType	b'Movie'
+animeTitle	Gundress
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.46
 animeUsers	1326
 animeRank	
-animePopularity	
-animeDescription	"b""In 2100, the newly built Bayside City serves as Japan's premier international port. The Angel Arms Company is established by a former policewoman named Takako, to help wage war on terrorism with armed security suits. When the mayor is assassinated, the women of Angel Arms end up protecting the evil crime-lord Hassan, in hopes that his information will help bring down a global terror ring. Takako's back is to the wall as a band of criminals plot to kill Hassan, and the organization's leader is revealed to be the former lover of Angel Arms' own Alisa.\n\n(Source: ANN)"""
+animePopularity	7998
+animeDescription	"In 2100, the newly built Bayside City serves as Japan's premier international port. The Angel Arms Company is established by a former policewoman named Takako, to help wage war on terrorism with armed security suits. When the mayor is assassinated, the women of Angel Arms end up protecting the evil crime-lord Hassan, in hopes that his information will help bring down a global terror ring. Takako's back is to the wall as a band of criminals plot to kill Hassan, and the organization's leader is revealed to be the former lover of Angel Arms' own Alisa.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Houraiji, Takako', b'Yung, Kei', b'Hassan, Ali Jaheeve', b'Asano, Marcia', b'Iga, Michelle', b'Skinner, Jean Luc', b'Kakihana, Silvia', b'Takakura, Alisa', b'Saeki, Ryou', b'General Kazama']
-animeVoices	[b'\nKatsuki, Masako\nJapanese\n', b'\nWatanabe, Kumiko\nJapanese\n', b'\nInaba, Minoru\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nHoriuchi, Kenyuu\nJapanese\n', b'\nTakagi, Reiko\nJapanese\n', b'\nIshizuka, Rie\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nNaka, Hiroshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYatabe, Katsuyoshi\n\nDirector\n\n', b'\nR-ORANGE\n\nTheme Song Performance\n\n', b'\nShirow, Masamune\n\nCharacter Design\n\n']
+animeCharacters	['Houraiji, Takako', 'Yung, Kei', 'Hassan, Ali Jaheeve', 'Asano, Marcia', 'Iga, Michelle', 'Skinner, Jean Luc', 'Kakihana, Silvia', 'Takakura, Alisa', 'Saeki, Ryou', 'General Kazama']
+animeVoices	['Katsuki, Masako', 'Watanabe, Kumiko', 'Inaba, Minoru', 'Okamura, Akemi', 'Kawakami, Tomoko', 'Horiuchi, Kenyuu', 'Takagi, Reiko', 'Ishizuka, Rie', 'Ishida, Akira', 'Naka, Hiroshi']
+animeStaff	[['Yatabe, Katsuyoshi', 'Director'], ['R-ORANGE', 'Theme Song Performance'], ['Shirow, Masamune', 'Character Design']]

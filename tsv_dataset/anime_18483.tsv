@@ -1,5 +1,5 @@
-animeTitle	b'Reijoku no Yakata'
-animeType	b'OVA'
+animeTitle	Reijoku no Yakata
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.05
 animeUsers	1003
 animeRank	
-animePopularity	
-animeDescription	b'Based on a game by CLOCKUP.'
+animePopularity	8040
+animeDescription	Based on a game by CLOCKUP.
 animeRelated	[]
-animeCharacters	[b'Daichi, Shun', b'Jounouchi, Tsubame', b'Jounouchi, Rei', b'Jounouchi, Shizuru', b'Kagami, Tomoe', b'Jounouchi, Hina', b'Jounouchi, Tsugumi']
+animeCharacters	['Daichi, Shun', 'Jounouchi, Tsubame', 'Jounouchi, Rei', 'Jounouchi, Shizuru', 'Kagami, Tomoe', 'Jounouchi, Hina', 'Jounouchi, Tsugumi']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshida, Tomohiro\n\nSound Director\n\n', b'\nCLOCKUP\n\nOriginal Creator\n\n', b'\nTsubone, Kentarou\n\nEditing\n\n']
+animeStaff	[['Yoshida, Tomohiro', 'Sound Director'], ['CLOCKUP', 'Original Creator'], ['Tsubone, Kentarou', 'Editing']]

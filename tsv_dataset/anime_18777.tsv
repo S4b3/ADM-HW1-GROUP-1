@@ -1,5 +1,5 @@
-animeTitle	b'Gedou Gakuen'
-animeType	b'OVA'
+animeTitle	Gedou Gakuen
+animeType	OVA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.54
 animeUsers	522
 animeRank	
-animePopularity	
-animeDescription	"b""During an archeological expedition to a forbidden Himalayan temple, 19-year-old Masao Sera stumbled upon a bloody, sacrificial rite designed to throw open the Gates of Hell. Meanwhile, a dark force has descend upon Masao's college. Fights, gang violence and rape are the order of the day. But now, some of the gangs have started to develop supernatural powers and unholy appetites. As demonic entities battle for control of the campus, the conflict threatens to grow into armageddon when Masao mysteriously returns with the King of the Underworld bound to his mortal soul. \n\n(Source: ANN)"""
-animeRelated	[b'Gedou Gakuen']
-animeCharacters	[b'Mido, Akira']
-animeVoices	[b'\nMurozono, Takehiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshikawa, Kouji\n\nDirector, Script\n\n', b'\nMaeda, Toshio\n\nOriginal Creator\n\n', b'\nSatou, Keiichi\n\nCharacter Design\n\n', b'\nAmano, Masamichi\n\nMusic\n\n']
+animePopularity	9814
+animeDescription	"During an archeological expedition to a forbidden Himalayan temple, 19-year-old Masao Sera stumbled upon a bloody, sacrificial rite designed to throw open the Gates of Hell. Meanwhile, a dark force has descend upon Masao's college. Fights, gang violence and rape are the order of the day. But now, some of the gangs have started to develop supernatural powers and unholy appetites. As demonic entities battle for control of the campus, the conflict threatens to grow into armageddon when Masao mysteriously returns with the King of the Underworld bound to his mortal soul. 
+
+(Source: ANN)"
+animeRelated	['Gedou Gakuen']
+animeCharacters	['Mido, Akira']
+animeVoices	['Murozono, Takehiro']
+animeStaff	[['Yoshikawa, Kouji', 'Director, Script'], ['Maeda, Toshio', 'Original Creator'], ['Satou, Keiichi', 'Character Design'], ['Amano, Masamichi', 'Music']]

@@ -1,5 +1,5 @@
-animeTitle	b'Kazu & Yasu Hero Tanjou'
-animeType	b'Movie'
+animeTitle	Kazu & Yasu Hero Tanjou
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'Based on the real life events. Biography animation depicting the football careers of Kazuyoshi Miura and his elder brother Yasutoshi.'
+animePopularity	14587
+animeDescription	Based on the real life events. Biography animation depicting the football careers of Kazuyoshi Miura and his elder brother Yasutoshi.
 animeRelated	[]
-animeCharacters	[b'Miura, Yasutoshi', b'Miura, Kazuyoshi']
-animeVoices	[b'\nToochika, Kouichi\nJapanese\n', b'\nTakayama, Minami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkane, Kazuki\n\nDirector\n\n', b'\nOgura, Hiromasa\n\nArt Director\n\n', b'\nKomatsubara, Kazuo\n\nAnimation Director\n\n']
+animeCharacters	['Miura, Yasutoshi', 'Miura, Kazuyoshi']
+animeVoices	['Toochika, Kouichi', 'Takayama, Minami']
+animeStaff	[['Akane, Kazuki', 'Director'], ['Ogura, Hiromasa', 'Art Director'], ['Komatsubara, Kazuo', 'Animation Director']]

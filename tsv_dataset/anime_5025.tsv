@@ -1,5 +1,5 @@
-animeTitle	"b""Viper's Creed"""
-animeType	b'TV'
+animeTitle	Viper's Creed
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.72
 animeUsers	3672
 animeRank	
-animePopularity	
-animeDescription	b'The story revolves around the members of a private military company (PMC), and the uneasy tension between them and the regular military after a war that caused massive environmental destruction.\n\n(Source: Animekon)'
+animePopularity	5420
+animeDescription	"The story revolves around the members of a private military company (PMC), and the uneasy tension between them and the regular military after a war that caused massive environmental destruction.
+
+(Source: Animekon)"
 animeRelated	[]
-animeCharacters	"[b'Cryde, Saiki', b'Kariya, Sakurako', b'Dilah, Ageha', b""N'Guyen, Norma"", b'Doc', b'Shankai, Rudra', b'Chiaki, Ulla', b'Ladd, Chris', b'Meneau, Jill', b'Zaliche']"
-animeVoices	[b'\nKuroda, Takaya\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nAkiyama, Nana\nJapanese\n', b'\nMinagawa, Junko\nJapanese\n', b'\nArimoto, Kinryuu\nJapanese\n', b'\nKawada, Shinji\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nUeda, Kana\nJapanese\n', b'\nKojima, Sachiko\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAramaki, Shinji\n\nDirector\n\n', b'\nNishouji, Yoshihito\n\nEpisode Director\n\n', b'\nHasegawa, Keiichi\n\nScript\n\n', b'\nHayashi, Hiroki\n\nStoryboard\n\n']
+animeCharacters	"['Cryde, Saiki', 'Kariya, Sakurako', 'Dilah, Ageha', ""N'Guyen, Norma"", 'Doc', 'Shankai, Rudra', 'Chiaki, Ulla', 'Ladd, Chris', 'Meneau, Jill', 'Zaliche']"
+animeVoices	['Kuroda, Takaya', 'Toyoguchi, Megumi', 'Akiyama, Nana', 'Minagawa, Junko', 'Arimoto, Kinryuu', 'Kawada, Shinji', 'Sakurai, Takahiro', 'Ueda, Kana', 'Kojima, Sachiko', 'Sakuya, Shunsuke']
+animeStaff	[['Aramaki, Shinji', 'Director'], ['Nishouji, Yoshihito', 'Episode Director'], ['Hasegawa, Keiichi', 'Script'], ['Hayashi, Hiroki', 'Storyboard']]

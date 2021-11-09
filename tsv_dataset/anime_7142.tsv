@@ -1,5 +1,5 @@
-animeTitle	b'Hero Mask'
-animeType	b'ONA'
+animeTitle	Hero Mask
+animeType	ONA
 animeNumEpisode	15
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.31
 animeUsers	8964
 animeRank	
-animePopularity	
-animeDescription	"b""Now there's a mysterious Mask before James Blood, and the man behind it is one that shouldn't exist. What is the mystery surrounding this mask...? So begins an action-packed crime story set in a beautiful city! """
-animeRelated	[b'Hero Mask 2nd Season']
-animeCharacters	[b'Blood, James', b'Chandler, Edmond', b'Sinclair, Sarah', b'Creighton, Harry', b'Gallagher, Lennox', b'Campbell, Monica', b'Grimm', b'Winehouse, Anna', b'Burner, Richard', b'Connor, Geffrey']
-animeVoices	[b'\nKase, Yasuyuki\nJapanese\n', b'\nTakano, Kentarou\nJapanese\n', b'\nKaida, Yuuko\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nMorita, Junpei\nJapanese\n', b'\nShibuya, Haruka\nJapanese\n', b'\nKarasuma, Yuichi\nJapanese\n', b'\nMiyadera, Tomoko\nJapanese\n', b'\nNakano, Yutaka\nJapanese\n', b'\nAoyama, Yutaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAoki, Hiroyasu\n\nDirector, Script, Series Composition\n\n', b'\nKubo, Souichirou\n\nSound Director\n\n', b'\nShimada, Souichi\n\nEpisode Director, Storyboard\n\n', b'\nMonte, Christian La\n\nADR Director\n\n']
+animePopularity	3578
+animeDescription	Now there's a mysterious Mask before James Blood, and the man behind it is one that shouldn't exist. What is the mystery surrounding this mask...? So begins an action-packed crime story set in a beautiful city! 
+animeRelated	['Hero Mask 2nd Season']
+animeCharacters	['Blood, James', 'Chandler, Edmond', 'Sinclair, Sarah', 'Creighton, Harry', 'Gallagher, Lennox', 'Campbell, Monica', 'Grimm', 'Winehouse, Anna', 'Burner, Richard', 'Connor, Geffrey']
+animeVoices	['Kase, Yasuyuki', 'Takano, Kentarou', 'Kaida, Yuuko', 'Uchiyama, Kouki', 'Morita, Junpei', 'Shibuya, Haruka', 'Karasuma, Yuichi', 'Miyadera, Tomoko', 'Nakano, Yutaka', 'Aoyama, Yutaka']
+animeStaff	[['Aoki, Hiroyasu', 'Director, Script, Series Composition'], ['Kubo, Souichirou', 'Sound Director'], ['Shimada, Souichi', 'Episode Director, Storyboard'], ['Monte, Christian La', 'ADR Director']]

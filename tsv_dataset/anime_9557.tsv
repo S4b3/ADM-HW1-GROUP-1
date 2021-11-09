@@ -1,5 +1,5 @@
-animeTitle	b'Andersen Monogatari'
-animeType	b'Movie'
+animeTitle	Andersen Monogatari
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.75
 animeUsers	272
 animeRank	
-animePopularity	
-animeDescription	"b""Hans Christian Andersen is a little boy with a talent for making up stories. With his skill, his friends of all species, and his positive attitude, he helps brighten the lives of the people around him.\n\nThis movie contains elements of many of Andersen's tales, most prominently The Red Shoes and The Little Match Girl."""
-animeRelated	[b'Andersen Monogatari (TV)']
-animeCharacters	[b'Karen', b'Kantokukan']
-animeVoices	[b'\nMasuyama, Eiko\nJapanese\n', b'\nFujimura, Arihiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAndersen, Hans Christian\n\nOriginal Creator\n\n']
+animePopularity	11562
+animeDescription	"Hans Christian Andersen is a little boy with a talent for making up stories. With his skill, his friends of all species, and his positive attitude, he helps brighten the lives of the people around him.
+
+This movie contains elements of many of Andersen's tales, most prominently The Red Shoes and The Little Match Girl."
+animeRelated	['Andersen Monogatari (TV)']
+animeCharacters	['Karen', 'Kantokukan']
+animeVoices	['Masuyama, Eiko', 'Fujimura, Arihiro']
+animeStaff	[['Andersen, Hans Christian', 'Original Creator']]

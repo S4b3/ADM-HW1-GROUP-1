@@ -1,5 +1,5 @@
-animeTitle	b'Ginga Tetsudou 999: Diamond Ring no Kanata e'
-animeType	b'Movie'
+animeTitle	Ginga Tetsudou 999: Diamond Ring no Kanata e
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.51
 animeUsers	236
 animeRank	
-animePopularity	
-animeDescription	"b'July 22, 2009. Galaxy Express 999 made a brief stop at Kagoshima on the day of total solar eclipse. Tetsuro gives a pass for the 999 to a boy named Kakeru dreaming of becoming an astronaut, saying ""It\'s up to you whether you can use this pass or not"".\n\nNow it\'s 2035, another total solar eclipse is expected in Japan, 26 years since the last one. What became of Kakeru...?\n\n(Source: AniDB)'"
-animeRelated	[b'Ginga Tetsudou 999']
-animeCharacters	[b'Maetel']
+animePopularity	10236
+animeDescription	"July 22, 2009. Galaxy Express 999 made a brief stop at Kagoshima on the day of total solar eclipse. Tetsuro gives a pass for the 999 to a boy named Kakeru dreaming of becoming an astronaut, saying ""It's up to you whether you can use this pass or not"".
+
+Now it's 2035, another total solar eclipse is expected in Japan, 26 years since the last one. What became of Kakeru...?
+
+(Source: AniDB)"
+animeRelated	['Ginga Tetsudou 999']
+animeCharacters	['Maetel']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshiguro, Megumu\n\nDirector\n\n', b'\nMatsumoto, Leiji\n\nOriginal Creator\n\n']
+animeStaff	[['Ishiguro, Megumu', 'Director'], ['Matsumoto, Leiji', 'Original Creator']]

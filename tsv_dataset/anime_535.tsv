@@ -1,5 +1,5 @@
-animeTitle	b'Sakasama no Patema'
-animeType	b'Movie'
+animeTitle	Sakasama no Patema
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	8.01
 animeUsers	114495
 animeRank	
-animePopularity	
-animeDescription	"b'Patema is a plucky young girl from an underground civilization boasting an incredible network of tunnels. Inspired by a friend that mysteriously went missing, she is often reprimanded due to her constant excursions of these tunnels due to her royal status. After she enters what is known as the ""forbidden zone,"" she accidentally falls into a giant bottomless pit after being startled by a strange creature.\n\nFinding herself on the surface, a world literally turned upside down, she begins falling towards the sky only to be saved by Age, a discontented student of the totalitarian nation known as Aiga. The people of Aiga are taught to believe that ""Inverts,"" like Patema, are sinners that will be ""swallowed by the sky,"" but Age has resisted this propaganda and decides to protect his new friend. A chance meeting between two curious teenagers leads to an exploration of two unique worlds as they begin working together to unveil the secrets of their origins in Sakasama no Patema, a heart-warming film about overcoming differences in order to coexist.\n\n[Written by MAL Rewrite]\n\nThe film was first premiered at France\'s Annecy, the world\'s largest animation festival, on June 13, 2013.  Screening in Japanese theaters began on November 9, 2013.'"
-animeRelated	[b'Sakasama no Patema: Another Side', b'Sakasama no Patema: Beginning of the Day']
-animeCharacters	[b'Patema', b'Age', b'Porta', b'Jaku', b'Izamura', b'Lagos', b'Kaho', b'Elder']
-animeVoices	[b'\nFujii, Yukiyo\nJapanese\n', b'\nOkamoto, Nobuhiko\nJapanese\n', b'\nOohata, Shintarou\nJapanese\n', b'\nYasumoto, Hiroki\nJapanese\n', b'\nHashi, Takaya\nJapanese\n', b'\nKatou, Masayuki\nJapanese\n', b'\nUchida, Maaya\nJapanese\n', b'\nFukumatsu, Shinya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshiura, Yasuhiro\n\nDirector, Script, Original Creator\n\n', b'\nYamaoka, Akira\n\nSound Director\n\n', b'\nArias, Michael\n\nScript\n\n', b'\nOshima, Michiru\n\nTheme Song Composition, Music\n\n']
+animePopularity	723
+animeDescription	"Patema is a plucky young girl from an underground civilization boasting an incredible network of tunnels. Inspired by a friend that mysteriously went missing, she is often reprimanded due to her constant excursions of these tunnels due to her royal status. After she enters what is known as the ""forbidden zone,"" she accidentally falls into a giant bottomless pit after being startled by a strange creature.
+
+Finding herself on the surface, a world literally turned upside down, she begins falling towards the sky only to be saved by Age, a discontented student of the totalitarian nation known as Aiga. The people of Aiga are taught to believe that ""Inverts,"" like Patema, are sinners that will be ""swallowed by the sky,"" but Age has resisted this propaganda and decides to protect his new friend. A chance meeting between two curious teenagers leads to an exploration of two unique worlds as they begin working together to unveil the secrets of their origins in Sakasama no Patema, a heart-warming film about overcoming differences in order to coexist.
+
+[Written by MAL Rewrite]
+
+The film was first premiered at France's Annecy, the world's largest animation festival, on June 13, 2013.  Screening in Japanese theaters began on November 9, 2013."
+animeRelated	['Sakasama no Patema: Another Side', 'Sakasama no Patema: Beginning of the Day']
+animeCharacters	['Patema', 'Age', 'Porta', 'Jaku', 'Izamura', 'Lagos', 'Kaho', 'Elder']
+animeVoices	['Fujii, Yukiyo', 'Okamoto, Nobuhiko', 'Oohata, Shintarou', 'Yasumoto, Hiroki', 'Hashi, Takaya', 'Katou, Masayuki', 'Uchida, Maaya', 'Fukumatsu, Shinya']
+animeStaff	[['Yoshiura, Yasuhiro', 'Director, Script, Original Creator'], ['Yamaoka, Akira', 'Sound Director'], ['Arias, Michael', 'Script'], ['Oshima, Michiru', 'Theme Song Composition, Music']]

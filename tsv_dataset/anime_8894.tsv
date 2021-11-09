@@ -1,5 +1,5 @@
-animeTitle	b'Kantoku Fuyuki Todoki'
-animeType	b'TV'
+animeTitle	Kantoku Fuyuki Todoki
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.94
 animeUsers	2257
 animeRank	
-animePopularity	
-animeDescription	"b'This is the anime adaptation of Kantoku Fuyuki Todoki (Insufficient Direction), the first essay manga by the ""queen of the manga world,"" Moyoco Anno. The comedic and heartwarming autobiographical story follows her everyday married ""otaku lifestyle"" with Hideaki Anno, ""the founder of the otaku cult.""\n\n(Source: ANN)'"
-animeRelated	[b'Kantoku Fuyuki Todoki', b'Yoiko no Rekishi Anime: Ookina Kabu (Kabu)']
-animeCharacters	[b'Kantoku-kun', b'Rompers']
-animeVoices	[b'\nYamadera, Kouichi\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTani, Azuma\n\nDirector\n\n', b'\nHata, Shouji\n\nSound Director\n\n', b'\nAOP\n\nTheme Song Performance\n\n', b'\nWatanabe, Chuumei\n\nTheme Song Composition\n\n']
+animePopularity	6362
+animeDescription	"This is the anime adaptation of Kantoku Fuyuki Todoki (Insufficient Direction), the first essay manga by the ""queen of the manga world,"" Moyoco Anno. The comedic and heartwarming autobiographical story follows her everyday married ""otaku lifestyle"" with Hideaki Anno, ""the founder of the otaku cult.""
+
+(Source: ANN)"
+animeRelated	['Kantoku Fuyuki Todoki', 'Yoiko no Rekishi Anime: Ookina Kabu (Kabu)']
+animeCharacters	['Kantoku-kun', 'Rompers']
+animeVoices	['Yamadera, Kouichi', 'Hayashibara, Megumi']
+animeStaff	[['Tani, Azuma', 'Director'], ['Hata, Shouji', 'Sound Director'], ['AOP', 'Theme Song Performance'], ['Watanabe, Chuumei', 'Theme Song Composition']]

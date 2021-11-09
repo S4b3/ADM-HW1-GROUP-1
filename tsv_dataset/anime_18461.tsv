@@ -1,5 +1,5 @@
-animeTitle	b'Hotaruko'
-animeType	b'OVA'
+animeTitle	Hotaruko
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.08
 animeUsers	1711
 animeRank	
-animePopularity	
-animeDescription	"b""Lured to a cursed island by a carnal cult, victims are brought to the throes of ecstasy, then brutally sacrificed in a bloody occult ritual. When sexy Ryo visits her late mother's island home, she's in for a terrifying surprise. Can she escape with her life and her virtue intact. \n\n(Source: ANN)"""
+animePopularity	7316
+animeDescription	"Lured to a cursed island by a carnal cult, victims are brought to the throes of ecstasy, then brutally sacrificed in a bloody occult ritual. When sexy Ryo visits her late mother's island home, she's in for a terrifying surprise. Can she escape with her life and her virtue intact. 
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Kizuki, Hotaruko', b'Kiyose, Ruka', b'Inasa, Ryou']
-animeVoices	[b'\nIwai, Yukiko\nJapanese\n', b'\nInokuchi, Yuka\nJapanese\n', b'\nHyo-sei\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOoshiro, Tsutomu\n\nKey Animation\n\n', b'\nShura, Tooru\n\nMusic\n\n']
+animeCharacters	['Kizuki, Hotaruko', 'Kiyose, Ruka', 'Inasa, Ryou']
+animeVoices	['Iwai, Yukiko', 'Inokuchi, Yuka', 'Hyo-sei']
+animeStaff	[['Ooshiro, Tsutomu', 'Key Animation'], ['Shura, Tooru', 'Music']]

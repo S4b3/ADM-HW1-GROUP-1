@@ -1,5 +1,5 @@
-animeTitle	b'Legendz: Yomigaeru Ryuuou Densetsu'
-animeType	b'TV'
+animeTitle	Legendz: Yomigaeru Ryuuou Densetsu
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.3
 animeUsers	779
 animeRank	
-animePopularity	
-animeDescription	"b'When a crafty toy company ""Wiz"" also known in this show as Dark Wiz Company, finds crystals with the faint DNA of monsters known as ""Legendz"" are found and made into a battle game.\n\nA young boy named Shu receives one these crystals known as ""soul figures"" from his father after a baseball game. Legendz rapidly became popular and more and more children played it. Wiz employeys start to track down Shu for his special soul figure, for his soul figure can revive real legendz not just the little kiddy digital images! How will Shu fight his way to victory and claim this soul figure as his own?\n\n(Source: TV.com) '"
-animeRelated	[b'Legendz']
-animeCharacters	[b'Shiron', b'Ranshiin', b'Greedo', b'Sparks, Dino', b'McField, Mike', b'Matsutani, Shuzo', b'Hepburn, Halca', b'Sprinkle, Meg', b'Wolfy the Werewolf', b'Johnson, Jack']
-animeVoices	[b'\nInoue, Kazuhiko\nJapanese\n', b'\nYamaguchi, Yoshiyuki\nJapanese\n', b'\nMinami, Omi\nJapanese\n', b'\nSuzuki, Masami\nJapanese\n', b'\nOkamura, Akemi\nJapanese\n', b'\nFuchizaki, Yuriko\nJapanese\n', b'\nNasu, Megumi\nJapanese\n', b'\nNakano, Yuto\nJapanese\n', b'\nMaeda, Takeshi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nDaichi, Akitarou\n\nDirector\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nYamada, Yuka\n\nScript\n\n', b'\nYamada, Takashi\n\nScript\n\n']
+animePopularity	8751
+animeDescription	"When a crafty toy company ""Wiz"" also known in this show as Dark Wiz Company, finds crystals with the faint DNA of monsters known as ""Legendz"" are found and made into a battle game.
+
+A young boy named Shu receives one these crystals known as ""soul figures"" from his father after a baseball game. Legendz rapidly became popular and more and more children played it. Wiz employeys start to track down Shu for his special soul figure, for his soul figure can revive real legendz not just the little kiddy digital images! How will Shu fight his way to victory and claim this soul figure as his own?
+
+(Source: TV.com) "
+animeRelated	['Legendz']
+animeCharacters	['Shiron', 'Ranshiin', 'Greedo', 'Sparks, Dino', 'McField, Mike', 'Matsutani, Shuzo', 'Hepburn, Halca', 'Sprinkle, Meg', 'Wolfy the Werewolf', 'Johnson, Jack']
+animeVoices	['Inoue, Kazuhiko', 'Yamaguchi, Yoshiyuki', 'Minami, Omi', 'Suzuki, Masami', 'Okamura, Akemi', 'Fuchizaki, Yuriko', 'Nasu, Megumi', 'Nakano, Yuto', 'Maeda, Takeshi']
+animeStaff	[['Daichi, Akitarou', 'Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Yamada, Yuka', 'Script'], ['Yamada, Takashi', 'Script']]

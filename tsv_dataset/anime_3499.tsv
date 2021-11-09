@@ -1,5 +1,5 @@
-animeTitle	b'Azur Lane: Bisoku Zenshin!'
-animeType	b'TV'
+animeTitle	Azur Lane: Bisoku Zenshin!
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.06
 animeUsers	12050
 animeRank	
-animePopularity	
-animeDescription	"b""In a seemingly peaceful time without looming threats of Sirens or war, shipgirls from different nations live together in harmony. Some girls, such as the destroyers Ayanami, Javelin, Laffey, and Z23, attend school. Others immerse themselves into various other activities, including sports, foraging, training, going to formal parties, or even vying for the commander's attention! But one thing is for certain: the girls will continue to deepen their friendship in the pleasant port of Azur Lane!\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Azur Lane: Bisoku Zenshin!', b'Azur Lane', b'Azur Lane: Bisoku Zenshin! Hokorashiki Bokou ni Shukusai wo']
-animeCharacters	[b'Laffey', b'Ayanami', b'Z23', b'Javelin', b'Prinz Eugen', b'Belfast', b'Bismarck', b'Taihou', b'Akashi', b'Formidable']
-animeVoices	[b'\nNaganawa, Maria\nJapanese\n', b'\nTaichi, You\nJapanese\n', b'\nAbe, Rika\nJapanese\n', b'\nYamane, Nozomi\nJapanese\n', b'\nSakura, Ayane\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nJinbo, Masato\n\nDirector\n\n', b'\nTsuchiya, Masaki\n\nSound Director\n\n', b'\nSatou, Yuu\n\nScript\n\n', b'\nNitta, Emi\n\nTheme Song Performance\n\n']
+animePopularity	3068
+animeDescription	"In a seemingly peaceful time without looming threats of Sirens or war, shipgirls from different nations live together in harmony. Some girls, such as the destroyers Ayanami, Javelin, Laffey, and Z23, attend school. Others immerse themselves into various other activities, including sports, foraging, training, going to formal parties, or even vying for the commander's attention! But one thing is for certain: the girls will continue to deepen their friendship in the pleasant port of Azur Lane!
+
+[Written by MAL Rewrite]"
+animeRelated	['Azur Lane: Bisoku Zenshin!', 'Azur Lane', 'Azur Lane: Bisoku Zenshin! Hokorashiki Bokou ni Shukusai wo']
+animeCharacters	['Laffey', 'Ayanami', 'Z23', 'Javelin', 'Prinz Eugen', 'Belfast', 'Bismarck', 'Taihou', 'Akashi', 'Formidable']
+animeVoices	['Naganawa, Maria', 'Taichi, You', 'Abe, Rika', 'Yamane, Nozomi', 'Sakura, Ayane', 'Yuuki, Aoi', 'Uesaka, Sumire', 'Kugimiya, Rie']
+animeStaff	[['Jinbo, Masato', 'Director'], ['Tsuchiya, Masaki', 'Sound Director'], ['Satou, Yuu', 'Script'], ['Nitta, Emi', 'Theme Song Performance']]

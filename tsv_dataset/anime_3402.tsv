@@ -1,5 +1,5 @@
-animeTitle	b'Futari wa Precure: Max Heart Movie 2 - Yukizora no Tomodachi'
-animeType	b'Movie'
+animeTitle	Futari wa Precure: Max Heart Movie 2 - Yukizora no Tomodachi
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.09
 animeUsers	2292
 animeRank	
-animePopularity	
-animeDescription	b'On his way to visit the Queen of the Garden of Light, the Sage of the Garden of Clouds accidentally drops the egg of the Houhou. The egg lands in the Garden of Rainbows, where it is found by Hikari, attracting the attention of a powerful pair of servants of the Dark Lord.\n\n(Source: AniDB)'
-animeRelated	[b'Futari wa Precure: Max Heart']
-animeCharacters	[b'Misumi, Nagisa', b'Yukishiro, Honoka', b'Kujou, Hikari', b'Pollun', b'Mepple', b'Lulun', b'Hinata', b'Kubota, Shiho', b'Mipple', b'Fujimura, Shougo']
-animeVoices	[b'\nHonna, Youko\nJapanese\n', b'\nYukana\nJapanese\n', b'\nTanaka, Rie\nJapanese\n', b'\nIkezawa, Haruna\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nTanii, Asuka\nJapanese\n', b'\nChijimatsu, Sachiko\nJapanese\n', b'\nSendai, Eri\nJapanese\n', b'\nYajima, Akiko\nJapanese\n', b'\nKishio, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShimizu, Junji\n\nDirector\n\n', b'\nBerryz Koubou\n\nTheme Song Performance\n\n', b'\nGojou, Mayumi\n\nTheme Song Performance\n\n', b'\nShida, Naotoshi\n\nKey Animation\n\n']
+animePopularity	6768
+animeDescription	"On his way to visit the Queen of the Garden of Light, the Sage of the Garden of Clouds accidentally drops the egg of the Houhou. The egg lands in the Garden of Rainbows, where it is found by Hikari, attracting the attention of a powerful pair of servants of the Dark Lord.
+
+(Source: AniDB)"
+animeRelated	['Futari wa Precure: Max Heart']
+animeCharacters	['Misumi, Nagisa', 'Yukishiro, Honoka', 'Kujou, Hikari', 'Pollun', 'Mepple', 'Lulun', 'Hinata', 'Kubota, Shiho', 'Mipple', 'Fujimura, Shougo']
+animeVoices	['Honna, Youko', 'Yukana', 'Tanaka, Rie', 'Ikezawa, Haruna', 'Seki, Tomokazu', 'Tanii, Asuka', 'Chijimatsu, Sachiko', 'Sendai, Eri', 'Yajima, Akiko', 'Kishio, Daisuke']
+animeStaff	[['Shimizu, Junji', 'Director'], ['Berryz Koubou', 'Theme Song Performance'], ['Gojou, Mayumi', 'Theme Song Performance'], ['Shida, Naotoshi', 'Key Animation']]

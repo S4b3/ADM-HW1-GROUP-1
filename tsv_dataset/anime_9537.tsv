@@ -1,5 +1,5 @@
-animeTitle	b'Neko Neko Fantasia'
-animeType	b'OVA'
+animeTitle	Neko Neko Fantasia
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.75
 animeUsers	348
 animeRank	
-animePopularity	
-animeDescription	"b'""Shiro"" is a black cat who loves her family very much. She loves them so much she wants to help them out in times of need and trouble\xe2\x80\xa6but it\xe2\x80\x99s difficult to do this if she\xe2\x80\x99s just a cat. So one night, she wishes on the moon to make her able to help, and the next day, she has turned into a human girl.\n\n(Source: AniDB)'"
-animeRelated	[b'Neko Neko Fantasia']
-animeCharacters	[b'Shiro', b'Satoko', b'Kagawa, Takahiro', b'Papa', b'Mama']
-animeVoices	[b'\nWatanabe, Naoko\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nNakahara, Shigeru\nJapanese\n', b'\nNaya, Rokurou\nJapanese\n', b'\nIkeda, Masako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishimori, Akira\n\nDirector\n\n', b'\nFujiyama, Fusanobu\n\nSound Director\n\n', b'\nTerada, Kenji\n\nScript\n\n', b'\nFukuda, Kazuya\n\nArt Director\n\n']
+animePopularity	11556
+animeDescription	"""Shiro"" is a black cat who loves her family very much. She loves them so much she wants to help them out in times of need and trouble…but it’s difficult to do this if she’s just a cat. So one night, she wishes on the moon to make her able to help, and the next day, she has turned into a human girl.
+
+(Source: AniDB)"
+animeRelated	['Neko Neko Fantasia']
+animeCharacters	['Shiro', 'Satoko', 'Kagawa, Takahiro', 'Papa', 'Mama']
+animeVoices	['Watanabe, Naoko', 'Inoue, Kikuko', 'Nakahara, Shigeru', 'Naya, Rokurou', 'Ikeda, Masako']
+animeStaff	[['Nishimori, Akira', 'Director'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Terada, Kenji', 'Script'], ['Fukuda, Kazuya', 'Art Director']]

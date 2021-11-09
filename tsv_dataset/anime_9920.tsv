@@ -1,5 +1,5 @@
-animeTitle	b'Koroshiya 1 The Animation: Episode 0'
-animeType	b'OVA'
+animeTitle	Koroshiya 1 The Animation: Episode 0
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.65
 animeUsers	4384
 animeRank	
-animePopularity	
-animeDescription	b'A masochistic mobster meets his match in the dark streets of Tokyo. His nemesis, Ichi, is a psychopathic killer with an unrelenting thirst for bloodshed. A horrifying secret burns in his mind, and his hands deal death without mercy. At last, the shrouds of mystery are parted to reveal the origin of the monster. The city will know its greatest fear at the unveiling of Ichi the Killer. \n\n(Source: ANN)'
-animeRelated	[b'1']
-animeCharacters	[b'Shiroishi, Hajime', b'Jijii', b'Kakihara, Masao']
-animeVoices	[b'\nSuzuki, Chihiro\nJapanese\n', b'\nTsuji, Shinpachi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshihira, Shinji\n\nDirector\n\n', b'\nMizuno, Kazunori\n\nStoryboard\n\n', b'\nNakayama, Katsuichi\n\nStoryboard\n\n', b'\nYamamoto, Hideo\n\nOriginal Creator\n\n']
+animePopularity	5445
+animeDescription	"A masochistic mobster meets his match in the dark streets of Tokyo. His nemesis, Ichi, is a psychopathic killer with an unrelenting thirst for bloodshed. A horrifying secret burns in his mind, and his hands deal death without mercy. At last, the shrouds of mystery are parted to reveal the origin of the monster. The city will know its greatest fear at the unveiling of Ichi the Killer. 
+
+(Source: ANN)"
+animeRelated	['1']
+animeCharacters	['Shiroishi, Hajime', 'Jijii', 'Kakihara, Masao']
+animeVoices	['Suzuki, Chihiro', 'Tsuji, Shinpachi']
+animeStaff	[['Ishihira, Shinji', 'Director'], ['Mizuno, Kazunori', 'Storyboard'], ['Nakayama, Katsuichi', 'Storyboard'], ['Yamamoto, Hideo', 'Original Creator']]

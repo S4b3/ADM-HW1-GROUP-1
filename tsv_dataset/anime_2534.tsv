@@ -1,5 +1,5 @@
-animeTitle	b'Pokemon Movie 10: Dialga vs. Palkia vs. Darkrai'
-animeType	b'Movie'
+animeTitle	Pokemon Movie 10: Dialga vs. Palkia vs. Darkrai
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.27
 animeUsers	60388
 animeRank	
-animePopularity	
-animeDescription	"b""The beautiful Alamos Town is home to a pair of century-old structures known as the Space-Time Towers, built by the architect Godey to play orchestral music in the area. The towers are also home to the Alamos Town Contest Hall, which is the next destination for Hikari, Satoshi, and Takeshi in their journey through the Sinnoh region. A woman named Alice and her partner Chimchar are happy to guide Satoshi and his friends through the town and its hallmarks.\n\nBut the tour is suddenly interrupted when Alice's friend Tonio notices a wave of dimensional disturbances throughout the town\xe2\x80\x94all of which is blamed on an ominous Pok\xc3\xa9mon named Darkrai. The space-time disturbances continue to intensify as two legendary Pok\xc3\xa9mon, the Temporal Pok\xc3\xa9mon Dialga and the Spatial Pok\xc3\xa9mon Palkia, appear to duel each other, isolating the town and everyone present in it from the world into another dimension!\n\nAs he learns that this event was foreseen long ago, Tonio finds that his great-grandfather left behind a way to stop the dueling Pok\xc3\xa9mon. Will Satoshi and his friends be able to use this last resort to save Alamos Town from vaporizing between the dimensions?\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Gekijouban Pocket Monsters Diamond & Pearl: Dialga vs. Palkia vs. Darkrai', b'Pokemon Diamond & Pearl']
-animeCharacters	[b'Pikachu', b'Satoshi', b'Takeshi', b'Hikari', b'Musashi', b'Darkrai', b'Alice', b'Baron Alberto', b'Kojirou', b'Nyarth']
-animeVoices	[b'\nOotani, Ikue\nJapanese\n', b'\nMatsumoto, Rica\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nToyoguchi, Megumi\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nIshizaka, Kouji\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nInuyama, Inuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYuyama, Kunihiko\n\nDirector, Storyboard\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nSonoda, Hideki\n\nScript\n\n', b'\nValencia, Amparo\n\nScript, ADR Director\n\n']
+animePopularity	1687
+animeDescription	"The beautiful Alamos Town is home to a pair of century-old structures known as the Space-Time Towers, built by the architect Godey to play orchestral music in the area. The towers are also home to the Alamos Town Contest Hall, which is the next destination for Hikari, Satoshi, and Takeshi in their journey through the Sinnoh region. A woman named Alice and her partner Chimchar are happy to guide Satoshi and his friends through the town and its hallmarks.
+
+But the tour is suddenly interrupted when Alice's friend Tonio notices a wave of dimensional disturbances throughout the town—all of which is blamed on an ominous Pokémon named Darkrai. The space-time disturbances continue to intensify as two legendary Pokémon, the Temporal Pokémon Dialga and the Spatial Pokémon Palkia, appear to duel each other, isolating the town and everyone present in it from the world into another dimension!
+
+As he learns that this event was foreseen long ago, Tonio finds that his great-grandfather left behind a way to stop the dueling Pokémon. Will Satoshi and his friends be able to use this last resort to save Alamos Town from vaporizing between the dimensions?
+
+[Written by MAL Rewrite]"
+animeRelated	['Gekijouban Pocket Monsters Diamond & Pearl: Dialga vs. Palkia vs. Darkrai', 'Pokemon Diamond & Pearl']
+animeCharacters	['Pikachu', 'Satoshi', 'Takeshi', 'Hikari', 'Musashi', 'Darkrai', 'Alice', 'Baron Alberto', 'Kojirou', 'Nyarth']
+animeVoices	['Ootani, Ikue', 'Matsumoto, Rica', 'Ueda, Yuuji', 'Toyoguchi, Megumi', 'Hayashibara, Megumi', 'Ishizaka, Kouji', 'Miki, Shinichiro', 'Inuyama, Inuko']
+animeStaff	[['Yuyama, Kunihiko', 'Director, Storyboard'], ['Mima, Masafumi', 'Sound Director'], ['Sonoda, Hideki', 'Script'], ['Valencia, Amparo', 'Script, ADR Director']]

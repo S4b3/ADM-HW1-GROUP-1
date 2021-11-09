@@ -1,5 +1,5 @@
-animeTitle	b'Hello World'
-animeType	b'Movie'
+animeTitle	Hello World
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.55
 animeUsers	71431
 animeRank	
-animePopularity	
-animeDescription	"b""The year is 2027, and the city of Kyoto has undergone tremendous technological advancement. Within the city lives Naomi Katagaki, a socially awkward and introverted boy with a love for books, and Ruri Ichigyou, a girl with a cold personality who is often blunt with people, but shares his love for reading. Despite having similar interests, Naomi is afraid to approach Ruri due to her unfriendly nature.\n\nOne day, as Naomi goes out for a walk, a crimson aurora pierces through the sky for a brief moment before vanishing. Shortly after, he sees a three-legged crow and a mysterious hooded man who reveals himself to be Naomi from 10 years in the future, explaining that he has come to change an imminent tragic event that happens to Ruri shortly after they start dating. Initially taking his words with a grain of salt, present-day Naomi follows his future self's instructions and starts getting closer to Ruri, determined to save her.\n\nHello World focuses on the present Naomi alongside himself from 10 years into the future. With the help of his future self, Naomi begins his preparations to save Ruri. Will he be able to change the future?\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Hello World', b'Another World']
-animeCharacters	[b'Ichigyou, Ruri', b'Katagaki, Naomi', b'Kadenokouji, Misuzu']
-animeVoices	[b'\nHamabe, Minami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nItou, Tomohiko\n\nDirector\n\n', b'\nNozaki, Mado\n\nScript, Screenplay\n\n', b'\nHoriguchi, Yukiko\n\nCharacter Design\n\n']
+animePopularity	1068
+animeDescription	"The year is 2027, and the city of Kyoto has undergone tremendous technological advancement. Within the city lives Naomi Katagaki, a socially awkward and introverted boy with a love for books, and Ruri Ichigyou, a girl with a cold personality who is often blunt with people, but shares his love for reading. Despite having similar interests, Naomi is afraid to approach Ruri due to her unfriendly nature.
+
+One day, as Naomi goes out for a walk, a crimson aurora pierces through the sky for a brief moment before vanishing. Shortly after, he sees a three-legged crow and a mysterious hooded man who reveals himself to be Naomi from 10 years in the future, explaining that he has come to change an imminent tragic event that happens to Ruri shortly after they start dating. Initially taking his words with a grain of salt, present-day Naomi follows his future self's instructions and starts getting closer to Ruri, determined to save her.
+
+Hello World focuses on the present Naomi alongside himself from 10 years into the future. With the help of his future self, Naomi begins his preparations to save Ruri. Will he be able to change the future?
+
+[Written by MAL Rewrite]"
+animeRelated	['Hello World', 'Another World']
+animeCharacters	['Ichigyou, Ruri', 'Katagaki, Naomi', 'Kadenokouji, Misuzu']
+animeVoices	['Hamabe, Minami']
+animeStaff	[['Itou, Tomohiko', 'Director'], ['Nozaki, Mado', 'Script, Screenplay'], ['Horiguchi, Yukiko', 'Character Design']]

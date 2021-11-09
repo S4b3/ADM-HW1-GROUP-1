@@ -1,5 +1,5 @@
-animeTitle	b'Alice SOS'
-animeType	b'TV'
+animeTitle	Alice SOS
+animeType	TV
 animeNumEpisode	28
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.04
 animeUsers	189
 animeRank	
-animePopularity	
-animeDescription	"b'Takashi loves reading books and especially loves ""Alice\'s Adventures in Wonderland"". One day, he buys some used books, and he finds one book thrown in. When Takashi opens the book, ""the God of Math"" M-1 appeared. Takashi is told that Alice is kidnapped, and he\'s asked to rescue her by M-1. And Takashi goes on an adventure in Wonderland to rescue Alice. \n\n(Source: ANN) '"
+animePopularity	9999
+animeDescription	"Takashi loves reading books and especially loves ""Alice's Adventures in Wonderland"". One day, he buys some used books, and he finds one book thrown in. When Takashi opens the book, ""the God of Math"" M-1 appeared. Takashi is told that Alice is kidnapped, and he's asked to rescue her by M-1. And Takashi goes on an adventure in Wonderland to rescue Alice. 
+
+(Source: ANN) "
 animeRelated	[]
-animeCharacters	[b'Ashikawa, Yukari', b'Kazumi, Toshio', b'Sagano, Takashi', b'M1', b'Neko, Namekuji', b'Sugita, Hiromi']
-animeVoices	[b'\nIkezawa, Haruna\nJapanese\n', b'\nTsukui, Kyousei\nJapanese\n', b'\nKumai, Motoko\nJapanese\n', b'\nTakiguchi, Junpei\nJapanese\n', b'\nNishimura, Tomohiro\nJapanese\n', b'\nShiraishi, Ayako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHosoda, Mamoru\n\nDirector, Storyboard\n\n', b'\nKaneko, Shingo\n\nDirector, Storyboard\n\n', b'\nHosoda, Masahiro\n\nEpisode Director, Storyboard\n\n', b'\nOzeki, Masayuki\n\nEpisode Director\n\n']
+animeCharacters	['Ashikawa, Yukari', 'Kazumi, Toshio', 'Sagano, Takashi', 'M1', 'Neko, Namekuji', 'Sugita, Hiromi']
+animeVoices	['Ikezawa, Haruna', 'Tsukui, Kyousei', 'Kumai, Motoko', 'Takiguchi, Junpei', 'Nishimura, Tomohiro', 'Shiraishi, Ayako']
+animeStaff	[['Hosoda, Mamoru', 'Director, Storyboard'], ['Kaneko, Shingo', 'Director, Storyboard'], ['Hosoda, Masahiro', 'Episode Director, Storyboard'], ['Ozeki, Masayuki', 'Episode Director']]

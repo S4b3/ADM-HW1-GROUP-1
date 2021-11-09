@@ -1,5 +1,5 @@
-animeTitle	b'Kashi no Ki Mokku'
-animeType	b'TV'
+animeTitle	Kashi no Ki Mokku
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.89
 animeUsers	636
 animeRank	
-animePopularity	
-animeDescription	b'This version of Pinocchio tells a story of an extremely gullible, naive and morally confused wooden doll brought to life by a mystical blue fairy. Pinocchio (Mokku) is characterized as having many character faults which he must learn to overcome in order to be worthy of being granted humanity. Some of these character faults include selfishness, rudeness, insensitivity, indolence, obstinacy, over- trusting, self-pity, stupidity, disobedience, compulsive lying, arrogance, greed, cowardice, recklessness, cruelty, foolishness and an inability to learn from mistakes.\n\nThroughout the entire series Pinocchio (Mokku), partly due to his own delinquency and repetitive disobedience, must undergo other costly ordeals of hardship and pain in which he is continuously tormented, persecuted, bullied, humiliated, tricked, ridiculed, ostracised, beaten, downtrodden and subjected to degrading and inhumane treatment. Its plain depiction of the austere reality of what it would be like to be literally subhuman growing up in a world of danger and hardship, makes this another good example of traditional Japanese stories, which teach moral observance through tough endurance.\n\n(Source: Wikipedia)'
+animePopularity	10060
+animeDescription	"This version of Pinocchio tells a story of an extremely gullible, naive and morally confused wooden doll brought to life by a mystical blue fairy. Pinocchio (Mokku) is characterized as having many character faults which he must learn to overcome in order to be worthy of being granted humanity. Some of these character faults include selfishness, rudeness, insensitivity, indolence, obstinacy, over- trusting, self-pity, stupidity, disobedience, compulsive lying, arrogance, greed, cowardice, recklessness, cruelty, foolishness and an inability to learn from mistakes.
+
+Throughout the entire series Pinocchio (Mokku), partly due to his own delinquency and repetitive disobedience, must undergo other costly ordeals of hardship and pain in which he is continuously tormented, persecuted, bullied, humiliated, tricked, ridiculed, ostracised, beaten, downtrodden and subjected to degrading and inhumane treatment. Its plain depiction of the austere reality of what it would be like to be literally subhuman growing up in a world of danger and hardship, makes this another good example of traditional Japanese stories, which teach moral observance through tough endurance.
+
+(Source: Wikipedia)"
 animeRelated	[]
-animeCharacters	[b'Mokku', b'Carlo', b'Ojii-san', b'Koorogi', b'Yousei']
-animeVoices	[b'\nMaruyama, Hiroko\nJapanese\n', b'\nNakagi, Ryuuji\nJapanese\n', b'\nYada, Minoru\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nIkeda, Masako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshida, Kenji\n\nProducer\n\n', b'\nKramer, Steve\n\nScript\n\n', b'\nColumbia Yurikago Kai\n\nTheme Song Performance\n\n', b'\nKogawa, Tomonori\n\nKey Animation\n\n']
+animeCharacters	['Mokku', 'Carlo', 'Ojii-san', 'Koorogi', 'Yousei']
+animeVoices	['Maruyama, Hiroko', 'Nakagi, Ryuuji', 'Yada, Minoru', 'Kimotsuki, Kaneta', 'Ikeda, Masako']
+animeStaff	[['Yoshida, Kenji', 'Producer'], ['Kramer, Steve', 'Script'], ['Columbia Yurikago Kai', 'Theme Song Performance'], ['Kogawa, Tomonori', 'Key Animation']]

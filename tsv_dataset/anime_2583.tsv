@@ -1,5 +1,5 @@
-animeTitle	b'Matantei Loki Ragnarok'
-animeType	b'TV'
+animeTitle	Matantei Loki Ragnarok
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	7.27
 animeUsers	14414
 animeRank	
-animePopularity	
-animeDescription	"b""Loki, the Norse god of mischief, has been exiled to the human world for what was apparently a bad joke. Along with being exiled, he's forced to take the form of a child. He's told the only way he can get back to the world of the gods is if he can collect auras of evil that take over human hearts, and so to do this he runs a detective agency. Loki is soon joined by a human girl named Mayura who is a maniac for mysteries, and she soon helps out in her own way. However, soon other Norse gods begin to appear, and most have the intent to assassinate Loki for reasons unclear. \n\n(Source: ANN) \n"""
-animeRelated	[b'Matantei Loki']
-animeCharacters	[b'Loki', b'Daidouji, Mayura', b'Yamino, Ryuusuke', b'Heimdall', b'Narugami', b'Fenrir', b'Ecchan', b'Verdandi', b'Freyr', b'Spica']
-animeVoices	[b'\nSakurai, Takahiro\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nMorikubo, Shoutarou\nJapanese\n', b'\nNojima, Hirofumi\nJapanese\n', b'\nFukuen, Misato\nJapanese\n', b'\nNoto, Mamiko\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChung, Jin Ho\n\nProducer, ADR Director\n\n', b'\nWatanabe, Hiroshi\n\nDirector\n\n', b'\nKikuta, Hiromi\n\nSound Director\n\n', b'\nHashimoto, Masakazu\n\nEpisode Director\n\n']
+animePopularity	3005
+animeDescription	"Loki, the Norse god of mischief, has been exiled to the human world for what was apparently a bad joke. Along with being exiled, he's forced to take the form of a child. He's told the only way he can get back to the world of the gods is if he can collect auras of evil that take over human hearts, and so to do this he runs a detective agency. Loki is soon joined by a human girl named Mayura who is a maniac for mysteries, and she soon helps out in her own way. However, soon other Norse gods begin to appear, and most have the intent to assassinate Loki for reasons unclear. 
+
+(Source: ANN) 
+"
+animeRelated	['Matantei Loki']
+animeCharacters	['Loki', 'Daidouji, Mayura', 'Yamino, Ryuusuke', 'Heimdall', 'Narugami', 'Fenrir', 'Ecchan', 'Verdandi', 'Freyr', 'Spica']
+animeVoices	['Sakurai, Takahiro', 'Horie, Yui', 'Miki, Shinichiro', 'Park, Romi', 'Morikubo, Shoutarou', 'Nojima, Hirofumi', 'Fukuen, Misato', 'Noto, Mamiko', 'Koyasu, Takehito']
+animeStaff	[['Chung, Jin Ho', 'Producer, ADR Director'], ['Watanabe, Hiroshi', 'Director'], ['Kikuta, Hiromi', 'Sound Director'], ['Hashimoto, Masakazu', 'Episode Director']]

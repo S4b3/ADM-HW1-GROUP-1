@@ -1,5 +1,5 @@
-animeTitle	b'Mijikamon'
-animeType	b'ONA'
+animeTitle	Mijikamon
+animeType	ONA
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.8
 animeUsers	14006
 animeRank	
-animePopularity	
-animeDescription	b'2-minute specials for Barakamon featuring chibi characters. These specials were streamed exclusively on YouTube only in Japan after every episode of the main series.'
-animeRelated	[b'Barakamon', b'Mijikamon Episode 0']
-animeCharacters	[b'Kotoishi, Naru', b'Handa, Sei', b'Arai, Tamako', b'Yamamura, Miwa', b'Kawafuji, Takao', b'Kanzaki, Kousuke', b'Shirakawa, Yurie']
-animeVoices	[b'\nHara, Suzuko\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nOokubo, Rumi\nJapanese\n', b'\nFuruki, Nozomi\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nKujira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKawai, Kenji\n\nMusic\n\n', b'\nYoshino, Satsuki\n\nOriginal Creator\n\n', b'\nMorikawa, Eiko\n\nSound Effects\n\n']
+animePopularity	3292
+animeDescription	2-minute specials for Barakamon featuring chibi characters. These specials were streamed exclusively on YouTube only in Japan after every episode of the main series.
+animeRelated	['Barakamon', 'Mijikamon Episode 0']
+animeCharacters	['Kotoishi, Naru', 'Handa, Sei', 'Arai, Tamako', 'Yamamura, Miwa', 'Kawafuji, Takao', 'Kanzaki, Kousuke', 'Shirakawa, Yurie']
+animeVoices	['Hara, Suzuko', 'Ono, Daisuke', 'Ookubo, Rumi', 'Furuki, Nozomi', 'Suwabe, Junichi', 'Kaji, Yuki', 'Kujira']
+animeStaff	[['Kawai, Kenji', 'Music'], ['Yoshino, Satsuki', 'Original Creator'], ['Morikawa, Eiko', 'Sound Effects']]

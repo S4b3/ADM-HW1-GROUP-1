@@ -1,5 +1,5 @@
-animeTitle	b'Cream Lemon'
-animeType	b'OVA'
+animeTitle	Cream Lemon
+animeType	OVA
 animeNumEpisode	38
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.2
 animeUsers	991
 animeRank	
-animePopularity	
-animeDescription	b'A collection of short stories, ranging from soap opera (the Ami series) to fantasy (Rall series) to horror (Cream Lemon Dark) to parody (Pop Chaser). It does deal with a lot of heavy perversions ranging from S&M, male rape (by a bunch of females, that is), bondage, torture, yuri (lesbian love) and incest.\n\n(Source: AniDB)'
-animeRelated	[b'Cream Lemon: Lemon Angel', b'Shinseiki Cream Lemon', b'Cream Lemon: New Generation', b'Tabidachi: Ami Shuushou']
-animeCharacters	[b'Hayakawa, Naomi', b'Komatsuzaki, Rie', b'Midori', b'Caron', b'Kouno, Ryuji', b'Nonomura, Ami', b'Mako', b'School Principal', b'Milk', b'Zack']
-animeVoices	[b'\nTsunoda, Narumi\nJapanese\n', b'\nAndou, Arisa\nJapanese\n', b'\nSasaki, Natsumi\nJapanese\n', b'\nMiyuki, Sanae\nJapanese\n', b'\nHashimoto, Kouichi\nJapanese\n', b'\nOikawa, Hitomi\nJapanese\n', b'\nShou, Mayumi\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nWakamoto, Norio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKitakubo, Hiroyuki\n\nDirector, Episode Director, Script, Storyboard, Key Animation, Original Creator, Character Design\n\n', b'\nIde, Yasunori\n\nDirector\n\n', b'\nAnno, Hideaki\n\nKey Animation\n\n', b'\nBach, Johann Sebastian\n\nMusic\n\n']
+animePopularity	6270
+animeDescription	"A collection of short stories, ranging from soap opera (the Ami series) to fantasy (Rall series) to horror (Cream Lemon Dark) to parody (Pop Chaser). It does deal with a lot of heavy perversions ranging from S&M, male rape (by a bunch of females, that is), bondage, torture, yuri (lesbian love) and incest.
+
+(Source: AniDB)"
+animeRelated	['Cream Lemon: Lemon Angel', 'Shinseiki Cream Lemon', 'Cream Lemon: New Generation', 'Tabidachi: Ami Shuushou']
+animeCharacters	['Hayakawa, Naomi', 'Komatsuzaki, Rie', 'Midori', 'Caron', 'Kouno, Ryuji', 'Nonomura, Ami', 'Mako', 'School Principal', 'Milk', 'Zack']
+animeVoices	['Tsunoda, Narumi', 'Andou, Arisa', 'Sasaki, Natsumi', 'Miyuki, Sanae', 'Hashimoto, Kouichi', 'Oikawa, Hitomi', 'Shou, Mayumi', 'Ogata, Kenichi', 'Wakamoto, Norio']
+animeStaff	[['Kitakubo, Hiroyuki', 'Director, Episode Director, Script, Storyboard, Key Animation, Original Creator, Character Design'], ['Ide, Yasunori', 'Director'], ['Anno, Hideaki', 'Key Animation'], ['Bach, Johann Sebastian', 'Music']]

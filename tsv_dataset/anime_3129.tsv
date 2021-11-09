@@ -1,5 +1,5 @@
-animeTitle	b'Boku no Chikyuu wo Mamotte'
-animeType	b'OVA'
+animeTitle	Boku no Chikyuu wo Mamotte
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.15
 animeUsers	4810
 animeRank	
-animePopularity	
-animeDescription	"b""Alice Sakaguchi once dreamt that she is another person living on the moon. The dream is so strange and so real that Alice can't stop thinking about it. She finds out that some of her classmates are having the same kind of dream. They soon discover that they had been seeing flashes of their past lives as a team of scientists on the moon. Alice and her friends then decide to find the other members and piece together what took place back then. Complications arise when they realize that everything that happened in their previous existence continue to haunt and affect their present lives. \n\n(Source: ANN)"""
-animeRelated	[b'Boku no Chikyuu wo Mamotte', b'Boku no Chikyuu wo Mamotte: Alice kara, Rin-kun e', b'Boku no Chikyuu wo Mamotte: Kiniro no Toki Nagarete']
-animeCharacters	[b'Kobayashi, Rin', b'Shion', b'Mokuren', b'Sakaguchi, Alice', b'Nishikiori, Issei', b'Kazama, Haruhiko', b'Yakushimaru, Mikuro', b'Enju', b'Hiragi', b'Shusuran']
-animeVoices	[b'\nTouma, Yumi\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nShinohara, Emi\nJapanese\n', b'\nShiratori, Yuri\nJapanese\n', b'\nOkiayu, Ryoutarou\nJapanese\n', b'\nYamaguchi, Kappei\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nTakamori, Yoshino\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIshikawa, Mitsuhisa\n\nProducer\n\n', b'\nYamazaki, Kazuo\n\nDirector, Script, Series Composition\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nSEIKA\n\nTheme Song Performance\n\n']
+animePopularity	4431
+animeDescription	"Alice Sakaguchi once dreamt that she is another person living on the moon. The dream is so strange and so real that Alice can't stop thinking about it. She finds out that some of her classmates are having the same kind of dream. They soon discover that they had been seeing flashes of their past lives as a team of scientists on the moon. Alice and her friends then decide to find the other members and piece together what took place back then. Complications arise when they realize that everything that happened in their previous existence continue to haunt and affect their present lives. 
+
+(Source: ANN)"
+animeRelated	['Boku no Chikyuu wo Mamotte', 'Boku no Chikyuu wo Mamotte: Alice kara, Rin-kun e', 'Boku no Chikyuu wo Mamotte: Kiniro no Toki Nagarete']
+animeCharacters	['Kobayashi, Rin', 'Shion', 'Mokuren', 'Sakaguchi, Alice', 'Nishikiori, Issei', 'Kazama, Haruhiko', 'Yakushimaru, Mikuro', 'Enju', 'Hiragi', 'Shusuran']
+animeVoices	['Touma, Yumi', 'Hayami, Show', 'Shinohara, Emi', 'Shiratori, Yuri', 'Okiayu, Ryoutarou', 'Yamaguchi, Kappei', 'Seki, Toshihiko', 'Takamori, Yoshino', 'Tobita, Nobuo', 'Matsui, Naoko']
+animeStaff	[['Ishikawa, Mitsuhisa', 'Producer'], ['Yamazaki, Kazuo', 'Director, Script, Series Composition'], ['Urakami, Yasuo', 'Sound Director'], ['SEIKA', 'Theme Song Performance']]

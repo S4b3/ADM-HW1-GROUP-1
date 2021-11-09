@@ -1,5 +1,5 @@
-animeTitle	b'Genshiken 2'
-animeType	b'TV'
+animeTitle	Genshiken 2
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.76
 animeUsers	41213
 animeRank	
-animePopularity	
-animeDescription	"b""The Society for the Study of Modern Visual Culture, otherwise known as Genshiken, is now under the charge of a more confident Sasahara. Things have changed in between semesters, and the otaku club now has a new otaku-hating member named Ogiue. Sasahara's initial goal of starting a doujin circle and selling those fan-made magazines at the next Comic Festival becomes a reality, but reality is a cruel master... who apparently crossplays. Afterward, the club is abuzz with talk about Tanaka and Ohno's relationship, which takes a hesitant step forward.\n\n(Source: Media Blasters)"""
-animeRelated	[b'Genshiken', b'Genshiken OVA', b'Ramen Tenshi Pretty Menma', b'Genshiken Nidaime OVA']
-animeCharacters	[b'Madarame, Harunobu', b'Ogiue, Chika', b'Kasukabe, Saki', b'Oono, Kanako', b'Sasahara, Kanji', b'Kousaka, Makoto', b'Tanaka, Souichiro', b'Hopkins, Susanna', b'Shodai Kaichou', b'Kuchiki, Manabu']
-animeVoices	[b'\nHiyama, Nobuyuki\nJapanese\n', b'\nMizuhashi, Kaori\nJapanese\n', b'\nYukino, Satsuki\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n', b'\nOoyama, Takanori\nJapanese\n', b'\nSaiga, Mitsuki\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nGotou, Yuuko\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nIshida, Akira\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYoshimoto, Kinji\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nYokote, Michiko\n\nScript, Series Composition\n\n', b'\nHata, Aki\n\nTheme Song Lyrics\n\n']
+animePopularity	1938
+animeDescription	"The Society for the Study of Modern Visual Culture, otherwise known as Genshiken, is now under the charge of a more confident Sasahara. Things have changed in between semesters, and the otaku club now has a new otaku-hating member named Ogiue. Sasahara's initial goal of starting a doujin circle and selling those fan-made magazines at the next Comic Festival becomes a reality, but reality is a cruel master... who apparently crossplays. Afterward, the club is abuzz with talk about Tanaka and Ohno's relationship, which takes a hesitant step forward.
+
+(Source: Media Blasters)"
+animeRelated	['Genshiken', 'Genshiken OVA', 'Ramen Tenshi Pretty Menma', 'Genshiken Nidaime OVA']
+animeCharacters	['Madarame, Harunobu', 'Ogiue, Chika', 'Kasukabe, Saki', 'Oono, Kanako', 'Sasahara, Kanji', 'Kousaka, Makoto', 'Tanaka, Souichiro', 'Hopkins, Susanna', 'Shodai Kaichou', 'Kuchiki, Manabu']
+animeVoices	['Hiyama, Nobuyuki', 'Mizuhashi, Kaori', 'Yukino, Satsuki', 'Kawasumi, Ayako', 'Ooyama, Takanori', 'Saiga, Mitsuki', 'Seki, Tomokazu', 'Gotou, Yuuko', 'Ueda, Yuuji', 'Ishida, Akira']
+animeStaff	[['Yoshimoto, Kinji', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Yokote, Michiko', 'Script, Series Composition'], ['Hata, Aki', 'Theme Song Lyrics']]

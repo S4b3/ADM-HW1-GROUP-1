@@ -1,5 +1,5 @@
-animeTitle	b'Saihate no Paladin'
-animeType	b'TV'
+animeTitle	Saihate no Paladin
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.44
 animeUsers	14586
 animeRank	
-animePopularity	
-animeDescription	"b'In a city of the dead, long since ruined and far from human civilization, lives a single human child. His name is Will, and he\'s being raised by three undead: the hearty skeletal warrior, Blood; the graceful mummified priestess, Mary; and the crotchety spectral sorcerer, Gus. The three pour love into the boy, and teach him all they know.\n\nBut one day, Will starts to wonder: ""Who am I?"" Will must unravel the mysteries of this faraway dead man\'s land, and unearth the secret pasts of the undead. He must learn the love and mercy of the good gods, and the bigotry and madness of the bad. And when he knows it all, the boy will take his first step on the path to becoming a Paladin. \n\n(Source: J-Novel Club)'"
-animeRelated	[b'Saihate no Paladin']
-animeCharacters	[b'Maryblood, William G.', b'Mary', b'Blood', b'Augustus', b'Gracefeel', b'Meneldor', b'Stagnate', b'Antonio', b'Goodfellow, Robina']
-animeVoices	[b'\nKawase, Maki\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nKonishi, Katsuyuki\nJapanese\n', b'\nTobita, Nobuo\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nMurase, Ayumu\nJapanese\n', b'\nTakahashi, Hiroki\nJapanese\n', b'\nYusa, Kouji\nJapanese\n', b'\nSuzuki, Eri\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNobuta, Yuu\n\nDirector\n\n', b'\nYanagi, Nagi\n\nTheme Song Performance\n\n', b'\nH-el-ical//\n\nTheme Song Performance\n\n', b'\nTakahashi, Tatsuya\n\nSeries Composition\n\n']
+animePopularity	1375
+animeDescription	"In a city of the dead, long since ruined and far from human civilization, lives a single human child. His name is Will, and he's being raised by three undead: the hearty skeletal warrior, Blood; the graceful mummified priestess, Mary; and the crotchety spectral sorcerer, Gus. The three pour love into the boy, and teach him all they know.
+
+But one day, Will starts to wonder: ""Who am I?"" Will must unravel the mysteries of this faraway dead man's land, and unearth the secret pasts of the undead. He must learn the love and mercy of the good gods, and the bigotry and madness of the bad. And when he knows it all, the boy will take his first step on the path to becoming a Paladin. 
+
+(Source: J-Novel Club)"
+animeRelated	['Saihate no Paladin']
+animeCharacters	['Maryblood, William G.', 'Mary', 'Blood', 'Augustus', 'Gracefeel', 'Meneldor', 'Stagnate', 'Antonio', 'Goodfellow, Robina']
+animeVoices	['Kawase, Maki', 'Horie, Yui', 'Konishi, Katsuyuki', 'Tobita, Nobuo', 'Yuuki, Aoi', 'Murase, Ayumu', 'Takahashi, Hiroki', 'Yusa, Kouji', 'Suzuki, Eri']
+animeStaff	[['Nobuta, Yuu', 'Director'], ['Yanagi, Nagi', 'Theme Song Performance'], ['H-el-ical//', 'Theme Song Performance'], ['Takahashi, Tatsuya', 'Series Composition']]

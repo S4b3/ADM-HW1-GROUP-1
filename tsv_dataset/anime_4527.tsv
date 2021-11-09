@@ -1,5 +1,5 @@
-animeTitle	b'Keroro Gunsou: KeroZero Shupattsudayo! Zeninshuugou!'
-animeType	b'Special'
+animeTitle	Keroro Gunsou: KeroZero Shupattsudayo! Zeninshuugou!
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.82
 animeUsers	518
 animeRank	
-animePopularity	
-animeDescription	"b""This is episode 0, the prequel to the main Keroro Gunsou anime series. KeroZero was shown in theaters with Keroro Gunsou Movie 4. \n\nOn the day of Keroro battalion's departure from Keron Planet to Planet Earth, an opposing alien species assails the Keron space station, where Giroro and Zeroro (later known as Dororo) are waiting for Keroro to arrive."""
+animePopularity	9985
+animeDescription	"This is episode 0, the prequel to the main Keroro Gunsou anime series. KeroZero was shown in theaters with Keroro Gunsou Movie 4. 
+
+On the day of Keroro battalion's departure from Keron Planet to Planet Earth, an opposing alien species assails the Keron space station, where Giroro and Zeroro (later known as Dororo) are waiting for Keroro to arrive."
 animeRelated	[]
-animeCharacters	[b'Keroro', b'Giroro', b'Kururu', b'Tamama', b'Dororo', b'Garuru']
+animeCharacters	['Keroro', 'Giroro', 'Kururu', 'Tamama', 'Dororo', 'Garuru']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nJAM Project\n\nTheme Song Performance\n\n', b'\nYoshizaki, Mine\n\nOriginal Creator\n\n', b'\nOizaki, Fumitoshi\n\nCharacter Design\n\n', b'\nSuzuki, Saeko\n\nMusic\n\n']
+animeStaff	[['JAM Project', 'Theme Song Performance'], ['Yoshizaki, Mine', 'Original Creator'], ['Oizaki, Fumitoshi', 'Character Design'], ['Suzuki, Saeko', 'Music']]

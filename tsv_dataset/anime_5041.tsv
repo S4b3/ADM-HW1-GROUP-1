@@ -1,5 +1,5 @@
-animeTitle	b'Tonagura!'
-animeType	b'TV'
+animeTitle	Tonagura!
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.71
 animeUsers	20949
 animeRank	
-animePopularity	
-animeDescription	"b""Kazuki has been awaiting 10 years for the day when her neighbours moved back to their old house. She has a crush on Yuuji, whom she considers as her first love but to whom she never managed to express her feelings for him before they moved out. Yuuji often comes over to play with Kazuki, Kazuki's older sister Hatsune and Yuuji's sister Marie when they were kids. Her ideal depiction of Yuuji was soon shattered when he turned out more than she had expected, him acting all ecchi during their reunion. With their parents off in South America, both families must learn to live with each other and rekindle the childhood feelings they shared together. Things get even more crazy as they attend the same school.\n\n(Source: ANN)"""
-animeRelated	[b'Tona-Gura!']
-animeCharacters	[b'Kagura, Yuuji', b'Arisaka, Kazuki', b'Arisaka, Hatsune', b'Kagura, Marie', b'Isokawa, Niina', b'Suzuhara, Chihaya', b'Serizawa, Miu']
-animeVoices	[b'\nSatou, Rina\nJapanese\n', b'\nKanda, Akemi\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nHazuki, Erino\nJapanese\n', b'\nTsuji, Ayumi\nJapanese\n', b'\nSekiyama, Misaki\nJapanese\n', b'\nItou, Shizuka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nOota, Masahiko\n\nStoryboard\n\n', b'\nKikuya, Tomoki\n\nTheme Song Composition, Theme Song Arrangement, Music\n\n', b'\nKodama, Saori\n\nTheme Song Lyrics\n\n']
+animePopularity	2648
+animeDescription	"Kazuki has been awaiting 10 years for the day when her neighbours moved back to their old house. She has a crush on Yuuji, whom she considers as her first love but to whom she never managed to express her feelings for him before they moved out. Yuuji often comes over to play with Kazuki, Kazuki's older sister Hatsune and Yuuji's sister Marie when they were kids. Her ideal depiction of Yuuji was soon shattered when he turned out more than she had expected, him acting all ecchi during their reunion. With their parents off in South America, both families must learn to live with each other and rekindle the childhood feelings they shared together. Things get even more crazy as they attend the same school.
+
+(Source: ANN)"
+animeRelated	['Tona-Gura!']
+animeCharacters	['Kagura, Yuuji', 'Arisaka, Kazuki', 'Arisaka, Hatsune', 'Kagura, Marie', 'Isokawa, Niina', 'Suzuhara, Chihaya', 'Serizawa, Miu']
+animeVoices	['Satou, Rina', 'Kanda, Akemi', 'Ohara, Sayaka', 'Hazuki, Erino', 'Tsuji, Ayumi', 'Sekiyama, Misaki', 'Itou, Shizuka']
+animeStaff	[['Aketagawa, Jin', 'Sound Director'], ['Oota, Masahiko', 'Storyboard'], ['Kikuya, Tomoki', 'Theme Song Composition, Theme Song Arrangement, Music'], ['Kodama, Saori', 'Theme Song Lyrics']]

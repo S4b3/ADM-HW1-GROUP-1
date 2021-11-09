@@ -1,5 +1,5 @@
-animeTitle	b'Exper Zenon'
-animeType	b'OVA'
+animeTitle	Exper Zenon
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	5.48
 animeUsers	573
 animeRank	
-animePopularity	
-animeDescription	"b'Hiroshi Zenno is an average high school student whose only talent lies in arcade games. One day, after setting a new high score of over nine hundred million in his favorite game, he happens upon an advertisement for a new game called ""Expers."" The game promises both amazing gameplay and a chance of winning the affection of the beautiful Princess Atover, so Hiroshi signs up to play.\n\nThe next day, Hiroshi is at school when a mysterious capsule crashes into his classroom, within it containing Princess Atover herself! She gives Hiroshi a powered suit that grants enhanced abilities and tells him that he is the main character of a video game, naming him ""Zenon."" Unfortunately, in order to win, Hiroshi must defeat all of his opponents\xe2\x80\x94other players with a desire to become the ""main character"" of the game. Will Hiroshi be able to survive this deadly game and uncover its true nature?\n\n[Written by MAL Rewrite]'"
+animePopularity	10203
+animeDescription	"Hiroshi Zenno is an average high school student whose only talent lies in arcade games. One day, after setting a new high score of over nine hundred million in his favorite game, he happens upon an advertisement for a new game called ""Expers."" The game promises both amazing gameplay and a chance of winning the affection of the beautiful Princess Atover, so Hiroshi signs up to play.
+
+The next day, Hiroshi is at school when a mysterious capsule crashes into his classroom, within it containing Princess Atover herself! She gives Hiroshi a powered suit that grants enhanced abilities and tells him that he is the main character of a video game, naming him ""Zenon."" Unfortunately, in order to win, Hiroshi must defeat all of his opponents—other players with a desire to become the ""main character"" of the game. Will Hiroshi be able to survive this deadly game and uncover its true nature?
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Princess Atover', b'Zenno, Hiroshi', b'Exper Kain', b'Exper Meramis', b'Exper Daion', b'Exper Jiff', b'Exper Venom']
-animeVoices	[b'\nTakada, Yumi\nJapanese\n', b'\nMatsuno, Taiki\nJapanese\n', b'\nHayami, Show\nJapanese\n', b'\nShiraishi, Ayako\nJapanese\n', b'\nNakamura, Hidetoshi\nJapanese\n', b'\nSasaki, Yuko\nJapanese\n', b'\nYanada, Kiyoyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMoriyama, Yuuji\n\nDirector\n\n', b'\nKawai, Kenji\n\nMusic\n\n', b'\nKishida, Takahiro\n\nKey Animation\n\n', b'\nTanaka, Yuuichi\n\nIn-Between Animation\n\n']
+animeCharacters	['Princess Atover', 'Zenno, Hiroshi', 'Exper Kain', 'Exper Meramis', 'Exper Daion', 'Exper Jiff', 'Exper Venom']
+animeVoices	['Takada, Yumi', 'Matsuno, Taiki', 'Hayami, Show', 'Shiraishi, Ayako', 'Nakamura, Hidetoshi', 'Sasaki, Yuko', 'Yanada, Kiyoyuki']
+animeStaff	[['Moriyama, Yuuji', 'Director'], ['Kawai, Kenji', 'Music'], ['Kishida, Takahiro', 'Key Animation'], ['Tanaka, Yuuichi', 'In-Between Animation']]

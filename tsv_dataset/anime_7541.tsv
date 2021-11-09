@@ -1,5 +1,5 @@
-animeTitle	b'Black Jack: Dr. Pinoko no Mori no Bouken'
-animeType	b'Movie'
+animeTitle	Black Jack: Dr. Pinoko no Mori no Bouken
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.23
 animeUsers	733
 animeRank	
-animePopularity	
-animeDescription	"b'Dr. Black Jack forgot his doctor\'s bag, and his assistant (plus self-claimed ""wife"") Pinoko rushed to deliver the bag but found herself lost in the forest. Guided by a butterfly, she found that many animals in the forest are sick or injured, and Pinoko used her knowledge to help those animals.\n\n(Source: ANN)'"
-animeRelated	[b'Black Jack: Futari no Kuroi Isha', b'Black Jack: Futari no Kuroi Isha - Manner Movie']
-animeCharacters	[b'Pinoko', b'Narrator', b'Hazama, Kuroo', b'Unico', b'Largo']
-animeVoices	[b'\nMizutani, Yuuko\nJapanese\n', b'\nTakeshita, Keiko\nJapanese\n', b'\nOotsuka, Akio\nJapanese\n', b'\nIshii, Makoto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTezuka, Osamu\n\nOriginal Creator\n\n', b'\nSugino, Akio\n\nAnimation Director\n\n', b'\nSeya, Shinji\n\nCharacter Design\n\n']
+animePopularity	9354
+animeDescription	"Dr. Black Jack forgot his doctor's bag, and his assistant (plus self-claimed ""wife"") Pinoko rushed to deliver the bag but found herself lost in the forest. Guided by a butterfly, she found that many animals in the forest are sick or injured, and Pinoko used her knowledge to help those animals.
+
+(Source: ANN)"
+animeRelated	['Black Jack: Futari no Kuroi Isha', 'Black Jack: Futari no Kuroi Isha - Manner Movie']
+animeCharacters	['Pinoko', 'Narrator', 'Hazama, Kuroo', 'Unico', 'Largo']
+animeVoices	['Mizutani, Yuuko', 'Takeshita, Keiko', 'Ootsuka, Akio', 'Ishii, Makoto']
+animeStaff	[['Tezuka, Osamu', 'Original Creator'], ['Sugino, Akio', 'Animation Director'], ['Seya, Shinji', 'Character Design']]

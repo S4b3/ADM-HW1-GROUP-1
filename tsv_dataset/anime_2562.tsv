@@ -1,5 +1,5 @@
-animeTitle	b'Doraemon Movie 21: Nobita no Taiyou Ou Densetsu'
-animeType	b'Movie'
+animeTitle	Doraemon Movie 21: Nobita no Taiyou Ou Densetsu
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.27
 animeUsers	4828
 animeRank	
-animePopularity	
-animeDescription	"b""Doraemon and its friends open a hole in the time and they're travel to the Country of Mayana, a lost Mayan civilization in the jungle. There, Nobita will know its perfect double, prince Thio, heir to the throne. Both will decide to interchange papers to try to save to the Country of Mayana of the claws of the infernal Ledina witch and her evil forces.\n\n(Source: ANN)"""
-animeRelated	[b'Daichouhen Doraemon', b'Doraemon (1979)', b'The\xe2\x98\x86Doraemons: Dokidoki Kikansha Daibakusou!', b'Doraemon: Obaachan no Omoide']
-animeCharacters	[b'Doraemon', b'Nobi, Nobita', b'Minamoto, Shizuka', b'Honekawa, Suneo', b'Gouda, Takeshi']
-animeVoices	[b'\nOoyama, Nobuyo\nJapanese\n', b'\nOhara, Noriko\nJapanese\n', b'\nNomura, Michiko\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nTatekabe, Kazuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShibayama, Tsutomu\n\nDirector\n\n', b'\nUrakami, Yasuo\n\nSound Director\n\n', b'\nKishima, Nobuaki\n\nScript\n\n', b'\nFujiko, Fujio F.\n\nOriginal Creator\n\n']
+animePopularity	5962
+animeDescription	"Doraemon and its friends open a hole in the time and they're travel to the Country of Mayana, a lost Mayan civilization in the jungle. There, Nobita will know its perfect double, prince Thio, heir to the throne. Both will decide to interchange papers to try to save to the Country of Mayana of the claws of the infernal Ledina witch and her evil forces.
+
+(Source: ANN)"
+animeRelated	['Daichouhen Doraemon', 'Doraemon (1979)', 'The☆Doraemons: Dokidoki Kikansha Daibakusou!', 'Doraemon: Obaachan no Omoide']
+animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi']
+animeVoices	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Nomura, Michiko', 'Kimotsuki, Kaneta', 'Tatekabe, Kazuya']
+animeStaff	[['Shibayama, Tsutomu', 'Director'], ['Urakami, Yasuo', 'Sound Director'], ['Kishima, Nobuaki', 'Script'], ['Fujiko, Fujio F.', 'Original Creator']]

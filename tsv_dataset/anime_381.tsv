@@ -1,5 +1,5 @@
-animeTitle	b'Made in Abyss Movie 1: Tabidachi no Yoake'
-animeType	b'Movie'
+animeTitle	Made in Abyss Movie 1: Tabidachi no Yoake
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.14
 animeUsers	23363
 animeRank	
-animePopularity	
-animeDescription	"b""The movie is a compilation of episodes 1-8 of the 2017 television series with new scenes added for the introduction. It covers the period from when Riko descends into the Abyss with her robot companion Reg, reaching the second layer where they meet the White Whistle Ozen who reveals information about Riko's mother.\n\n(Source: Wikipedia)"""
-animeRelated	[b'Made in Abyss', b'Made in Abyss Movie 2: Hourou Suru Tasogare']
-animeCharacters	[b'Reg', b'Riko', b'Ouzen', b'Lyza', b'Marulk', b'Jiruo']
+animePopularity	1907
+animeDescription	"The movie is a compilation of episodes 1-8 of the 2017 television series with new scenes added for the introduction. It covers the period from when Riko descends into the Abyss with her robot companion Reg, reaching the second layer where they meet the White Whistle Ozen who reveals information about Riko's mother.
+
+(Source: Wikipedia)"
+animeRelated	['Made in Abyss', 'Made in Abyss Movie 2: Hourou Suru Tasogare']
+animeCharacters	['Reg', 'Riko', 'Ouzen', 'Lyza', 'Marulk', 'Jiruo']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nKojima, Masayuki\n\nDirector\n\n', b'\nTsukushi, Akihito\n\nOriginal Creator\n\n', b'\nYoshinari, Kou\n\nCharacter Design\n\n', b'\nKise, Kazuchika\n\nCharacter Design\n\n']
+animeStaff	[['Kojima, Masayuki', 'Director'], ['Tsukushi, Akihito', 'Original Creator'], ['Yoshinari, Kou', 'Character Design'], ['Kise, Kazuchika', 'Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'BanG Dream! Movie: Episode of Roselia - I: Yakusoku'
-animeType	b'Movie'
+animeTitle	BanG Dream! Movie: Episode of Roselia - I: Yakusoku
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.58
 animeUsers	728
 animeRank	
-animePopularity	
-animeDescription	"b'To reach the stage of ""FES."", Yukina Minato decides to form a band. Each holding their own convictions, the members of the band come together. The five girls now begin their journey to the top as Roselia... This is the story of their ""promise"" made to each other, from the start of the band to their challenge towards FUTURE WORLD FES!\n\n(Source: Official Site)'"
-animeRelated	[b'BanG Dream!', b'BanG Dream! Movie: Episode of Roselia - II: Song I Am.']
-animeCharacters	[b'Minato, Yukina', b'Imai, Lisa', b'Hikawa, Sayo', b'Shirokane, Rinko', b'Udagawa, Ako']
-animeVoices	[b'\nAiba, Aina\nJapanese\n', b'\nNakashima, Yuki\nJapanese\n', b'\nKudou, Haruka\nJapanese\n', b'\nShizaki, Kanon\nJapanese\n', b'\nSakuragawa, Megu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKakimoto, Koudai\n\nDirector, Screenplay\n\n', b'\nMimura, Atsushi\n\nDirector\n\n', b'\nElements Garden\n\nMusic\n\n', b'\nAyana, Yuniko\n\nSeries Composition\n\n']
+animePopularity	6720
+animeDescription	"To reach the stage of ""FES."", Yukina Minato decides to form a band. Each holding their own convictions, the members of the band come together. The five girls now begin their journey to the top as Roselia... This is the story of their ""promise"" made to each other, from the start of the band to their challenge towards FUTURE WORLD FES!
+
+(Source: Official Site)"
+animeRelated	['BanG Dream!', 'BanG Dream! Movie: Episode of Roselia - II: Song I Am.']
+animeCharacters	['Minato, Yukina', 'Imai, Lisa', 'Hikawa, Sayo', 'Shirokane, Rinko', 'Udagawa, Ako']
+animeVoices	['Aiba, Aina', 'Nakashima, Yuki', 'Kudou, Haruka', 'Shizaki, Kanon', 'Sakuragawa, Megu']
+animeStaff	[['Kakimoto, Koudai', 'Director, Screenplay'], ['Mimura, Atsushi', 'Director'], ['Elements Garden', 'Music'], ['Ayana, Yuniko', 'Series Composition']]

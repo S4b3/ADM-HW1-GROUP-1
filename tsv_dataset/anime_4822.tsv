@@ -1,5 +1,5 @@
-animeTitle	b'Panda Kopanda'
-animeType	b'Movie'
+animeTitle	Panda Kopanda
+animeType	Movie
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.76
 animeUsers	4619
 animeRank	
-animePopularity	
-animeDescription	"b'Panda Kopanda (Panda! Go Panda!) is a 30 minute movie made in 1972. Miyazaki created the original idea, the script, the layouts, and did key animation, and Takahata directed the film. The story is about a little girl, Mimiko, who was left alone while her Grandma was away. A 1973 sequel, Panda Kopanda: Amefuri Saakasu no Maki (Panda! Go Panda! & the Rainy-day Circus), continues the story and was made by the same people who made the first movie. The literal translation of the title Panda Kopanda is ""Panda, Baby Panda"", but it`s been released in North America as Panda Go Panda.\n\n(Source: AniDB)'"
+animePopularity	5534
+animeDescription	"Panda Kopanda (Panda! Go Panda!) is a 30 minute movie made in 1972. Miyazaki created the original idea, the script, the layouts, and did key animation, and Takahata directed the film. The story is about a little girl, Mimiko, who was left alone while her Grandma was away. A 1973 sequel, Panda Kopanda: Amefuri Saakasu no Maki (Panda! Go Panda! & the Rainy-day Circus), continues the story and was made by the same people who made the first movie. The literal translation of the title Panda Kopanda is ""Panda, Baby Panda"", but it`s been released in North America as Panda Go Panda.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Pan-chan', b'Papanda', b'Mimiko', b'Tiny', b'Lackey', b'Friend A ', b'Friend B ', b'Circus Arranger', b'Ringmaster', b'Zookeeper']
-animeVoices	[b'\nOota, Yoshiko\nJapanese\n', b'\nKumakura, Kazuo\nJapanese\n', b'\nSugiyama, Kazuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nTakahata, Isao\n\nDirector\n\n', b'\nMiyazaki, Hayao\n\nScreenplay, Key Animation, Original Character Design\n\n', b'\nKobayashi, Shichiro\n\nArt Director\n\n']
+animeCharacters	['Pan-chan', 'Papanda', 'Mimiko', 'Tiny', 'Lackey', 'Friend A ', 'Friend B ', 'Circus Arranger', 'Ringmaster', 'Zookeeper']
+animeVoices	['Oota, Yoshiko', 'Kumakura, Kazuo', 'Sugiyama, Kazuko']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Takahata, Isao', 'Director'], ['Miyazaki, Hayao', 'Screenplay, Key Animation, Original Character Design'], ['Kobayashi, Shichiro', 'Art Director']]

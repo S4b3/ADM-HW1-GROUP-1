@@ -1,5 +1,5 @@
-animeTitle	b'Casshern: Robot Hunter'
-animeType	b'OVA'
+animeTitle	Casshern: Robot Hunter
+animeType	OVA
 animeNumEpisode	4
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.35
 animeUsers	2928
 animeRank	
-animePopularity	
-animeDescription	"b'In the near future, robot technology has advanced to the point of self-awareness. Under the leadership of the ""Black King,"" machines have decimated the human population and conquered the world. Those who survived the early holocaust have been enslaved for life. But throughout the hardships, a lone hero appears as the savior of mankind. He is Casshan - a fusion of man and machine driven to combat Black King and his forces to the end. \n\n(Source: ANN)'"
-animeRelated	[b'Shinzou Ningen Casshern', b'Casshern Sins', b'Infini-T Force']
-animeCharacters	[b'Casshern', b'Friender', b'Kozuki, Luna', b'Braiking Boss', b'Narrator']
-animeVoices	[b'\nKusao, Takeshi\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nUtsumi, Kenji\nJapanese\n', b'\nSawaki, Ikuya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMacek, Carl\n\nProducer, ADR Director\n\n', b'\nKimura, Hiroshi\n\nProducer\n\n', b'\nWatanabe, Takashi\n\nDirector\n\n', b'\nAbe, Masashi\n\nDirector\n\n']
+animePopularity	5981
+animeDescription	"In the near future, robot technology has advanced to the point of self-awareness. Under the leadership of the ""Black King,"" machines have decimated the human population and conquered the world. Those who survived the early holocaust have been enslaved for life. But throughout the hardships, a lone hero appears as the savior of mankind. He is Casshan - a fusion of man and machine driven to combat Black King and his forces to the end. 
+
+(Source: ANN)"
+animeRelated	['Shinzou Ningen Casshern', 'Casshern Sins', 'Infini-T Force']
+animeCharacters	['Casshern', 'Friender', 'Kozuki, Luna', 'Braiking Boss', 'Narrator']
+animeVoices	['Kusao, Takeshi', 'Touma, Yumi', 'Utsumi, Kenji', 'Sawaki, Ikuya']
+animeStaff	[['Macek, Carl', 'Producer, ADR Director'], ['Kimura, Hiroshi', 'Producer'], ['Watanabe, Takashi', 'Director'], ['Abe, Masashi', 'Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Minori Scramble!'
-animeType	b'OVA'
+animeTitle	Minori Scramble!
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.24
 animeUsers	1461
 animeRank	
-animePopularity	
-animeDescription	"b'Tamaki is an elementary school girl. Her father Dr. Yagiyama loves penguins and his excessive lectures about penguins makes Tamaki hate them. In order to get rid of her hatred of penguins, he engineers the penguin-roid ""Minori"". Tamaki and Minori run about the neighborhood to solve troubles caused by her father.'"
+animePopularity	8255
+animeDescription	"Tamaki is an elementary school girl. Her father Dr. Yagiyama loves penguins and his excessive lectures about penguins makes Tamaki hate them. In order to get rid of her hatred of penguins, he engineers the penguin-roid ""Minori"". Tamaki and Minori run about the neighborhood to solve troubles caused by her father."
 animeRelated	[]
-animeCharacters	[b'Yagiyama, Tamaki', b'Minori', b'Akira', b'Dr. Yagiyama']
-animeVoices	[b'\nIgarashi, Hiromi\nJapanese\n', b'\nAkutsu, Kana\nJapanese\n', b'\nTakai, Maika\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwakami, Atsuhiro\n\nProducer\n\n', b'\nNonaka, Takuya\n\nDirector, Episode Director, Storyboard\n\n', b'\nMotoyama, Satoshi\n\nSound Director\n\n', b'\nHiramatsu, Masaki\n\nScript\n\n']
+animeCharacters	['Yagiyama, Tamaki', 'Minori', 'Akira', 'Dr. Yagiyama']
+animeVoices	['Igarashi, Hiromi', 'Akutsu, Kana', 'Takai, Maika']
+animeStaff	[['Iwakami, Atsuhiro', 'Producer'], ['Nonaka, Takuya', 'Director, Episode Director, Storyboard'], ['Motoyama, Satoshi', 'Sound Director'], ['Hiramatsu, Masaki', 'Script']]

@@ -1,5 +1,5 @@
-animeTitle	b'Kuro no Su: Chronus'
-animeType	b'Movie'
+animeTitle	Kuro no Su: Chronus
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.82
 animeUsers	8688
 animeRank	
-animePopularity	
-animeDescription	"b""For as long as he can remember, Makoto Nakazono has had the power to see grim reapers watching people shortly before their deaths and escorting their souls to heaven. He realized long ago that nobody would believe him if he talked about his ability. Since there is nothing he can do to alter people's fates, he tries his best to pretend that he does not see anything out of the ordinary.\n\nThis all changes when a reaper at Makoto's high school speaks to him and questions him why he never interferes. After learning that the reaper is there for his best friend, Hazuki Horiuchi, Makoto starts to wonder if he can defer her grim fate, even if only for a little while.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Harmonie', b'Ookii 1 Nensei to Chiisana 2 Nensei', b'Parol no Miraijima']
-animeCharacters	[b'Nakazono, Makoto', b'Horiuchi, Hazuki', b'Seno, Akira', b'Horiuchi, Mother', b'Izumi, Kenji', b'Toujou, Shinobu ', b'Shimura, Ichiko']
-animeVoices	[b'\nHanae, Natsuki\nJapanese\n', b'\nTaichi, You\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nKobayashi, Satomi\nJapanese\n', b'\nHosokawa, Yoshihisa\nJapanese\n', b'\nMaeno, Tomoaki\nJapanese\n', b'\nMatsumoto, Yuuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Eiko\n\nProducer\n\n', b'\nOnda, Naoyuki\n\nDirector, Storyboard, Original Character Design\n\n', b'\nKasamatsu, Kouji\n\nSound Director\n\n', b'\nHuang, Chengxi\n\nIn-Between Animation\n\n']
+animePopularity	4230
+animeDescription	"For as long as he can remember, Makoto Nakazono has had the power to see grim reapers watching people shortly before their deaths and escorting their souls to heaven. He realized long ago that nobody would believe him if he talked about his ability. Since there is nothing he can do to alter people's fates, he tries his best to pretend that he does not see anything out of the ordinary.
+
+This all changes when a reaper at Makoto's high school speaks to him and questions him why he never interferes. After learning that the reaper is there for his best friend, Hazuki Horiuchi, Makoto starts to wonder if he can defer her grim fate, even if only for a little while.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Harmonie', 'Ookii 1 Nensei to Chiisana 2 Nensei', 'Parol no Miraijima']
+animeCharacters	['Nakazono, Makoto', 'Horiuchi, Hazuki', 'Seno, Akira', 'Horiuchi, Mother', 'Izumi, Kenji', 'Toujou, Shinobu ', 'Shimura, Ichiko']
+animeVoices	['Hanae, Natsuki', 'Taichi, You', 'Ono, Daisuke', 'Kobayashi, Satomi', 'Hosokawa, Yoshihisa', 'Maeno, Tomoaki', 'Matsumoto, Yuuki']
+animeStaff	[['Tanaka, Eiko', 'Producer'], ['Onda, Naoyuki', 'Director, Storyboard, Original Character Design'], ['Kasamatsu, Kouji', 'Sound Director'], ['Huang, Chengxi', 'In-Between Animation']]

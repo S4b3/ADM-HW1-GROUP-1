@@ -1,5 +1,5 @@
-animeTitle	b'Saki Biyori Animation'
-animeType	b'OVA'
+animeTitle	Saki Biyori Animation
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.64
 animeUsers	1167
 animeRank	
-animePopularity	
-animeDescription	"b""A single episode OVA released with the 14th volume of the Saki manga, consisting of 4-koma gags featuring characters from the first season. The two pros meet up at a family restaurant. The captains of the four teams prepare for a joint training camp. Ikeda keeps her little sisters occupied. The Tsuruga team goes on an unplanned camping trip. Ryuumonbuchi celebrate Koromo's birthday.\n\n(Source: ANN)"""
-animeRelated	[b'Saki-biyori', b'Saki']
-animeCharacters	[b'Miyanaga, Saki', b'Takei, Hisa', b'Amae, Koromo', b'Haramura, Nodoka', b'Fukuji, Mihoko', b'Kataoka, Yuuki', b'Touyoko, Momoko', b'Kanbara, Satomi', b'Kunihiro, Hajime', b'Ryuumonbuchi, Touka']
-animeVoices	[b'\nUeda, Kana\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nFukuhara, Kaori\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nKugimiya, Rie\nJapanese\n', b'\nSaitou, Momoko\nJapanese\n', b'\nKuwatani, Natsuko\nJapanese\n', b'\nShimizu, Ai\nJapanese\n', b'\nChihara, Minori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOno, Manabu\n\nDirector\n\n', b'\nSetou, Kenji\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nChihara, Minori\n\nTheme Song Performance\n\n']
+animePopularity	8120
+animeDescription	"A single episode OVA released with the 14th volume of the Saki manga, consisting of 4-koma gags featuring characters from the first season. The two pros meet up at a family restaurant. The captains of the four teams prepare for a joint training camp. Ikeda keeps her little sisters occupied. The Tsuruga team goes on an unplanned camping trip. Ryuumonbuchi celebrate Koromo's birthday.
+
+(Source: ANN)"
+animeRelated	['Saki-biyori', 'Saki']
+animeCharacters	['Miyanaga, Saki', 'Takei, Hisa', 'Amae, Koromo', 'Haramura, Nodoka', 'Fukuji, Mihoko', 'Kataoka, Yuuki', 'Touyoko, Momoko', 'Kanbara, Satomi', 'Kunihiro, Hajime', 'Ryuumonbuchi, Touka']
+animeVoices	['Ueda, Kana', 'Itou, Shizuka', 'Fukuhara, Kaori', 'Koshimizu, Ami', 'Horie, Yui', 'Kugimiya, Rie', 'Saitou, Momoko', 'Kuwatani, Natsuko', 'Shimizu, Ai', 'Chihara, Minori']
+animeStaff	[['Ono, Manabu', 'Director'], ['Setou, Kenji', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Chihara, Minori', 'Theme Song Performance']]

@@ -1,5 +1,5 @@
-animeTitle	b'Cue!'
-animeType	b'TV'
+animeTitle	Cue!
+animeType	TV
 animeNumEpisode	Unknown
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	b'No synopsis information has been added to this title. Help improve our database by adding a synopsis here.'
+animePopularity	10012
+animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
 animeRelated	[]
-animeCharacters	[b'Takatori, Maika', b'Tsukii, Honoka', b'Tendou, Yuuki', b'Maruyama, Rie', b'Hinakuro, Riko', b'Utsugi, Satori', b'Toomi, Mei', b'Miyaji, Mahoro', b'Myoujin, Rinne', b'Yomine, Miharu']
-animeVoices	[b'\nHieda, Nene\nJapanese\n', b'\nOgata, Yuuna\nJapanese\n', b'\nTakamura, Ayaka\nJapanese\n', b'\nTachibana, Hina\nJapanese\n', b'\nTsuruno, Arisa\nJapanese\n', b'\nKomine, Ami\nJapanese\n', b'\nTsuchiya, Rio\nJapanese\n', b'\nYamaguchi, Megumi\nJapanese\n', b'\nSatou, Mai\nJapanese\n', b'\nAnzai, Yukari\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKatagai, Shin\n\nDirector\n\n', b'\nNakanishi, Ryousuke\n\nMusic\n\n', b'\nUrahata, Tatsuhiko\n\nSeries Composition\n\n', b'\nNishimura, Rie\n\nCharacter Design\n\n']
+animeCharacters	['Takatori, Maika', 'Tsukii, Honoka', 'Tendou, Yuuki', 'Maruyama, Rie', 'Hinakuro, Riko', 'Utsugi, Satori', 'Toomi, Mei', 'Miyaji, Mahoro', 'Myoujin, Rinne', 'Yomine, Miharu']
+animeVoices	['Hieda, Nene', 'Ogata, Yuuna', 'Takamura, Ayaka', 'Tachibana, Hina', 'Tsuruno, Arisa', 'Komine, Ami', 'Tsuchiya, Rio', 'Yamaguchi, Megumi', 'Satou, Mai', 'Anzai, Yukari']
+animeStaff	[['Katagai, Shin', 'Director'], ['Nakanishi, Ryousuke', 'Music'], ['Urahata, Tatsuhiko', 'Series Composition'], ['Nishimura, Rie', 'Character Design']]

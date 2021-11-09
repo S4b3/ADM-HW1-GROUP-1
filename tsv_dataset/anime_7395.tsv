@@ -1,5 +1,5 @@
-animeTitle	b'Neko Hiki no Oruorane'
-animeType	b'OVA'
+animeTitle	Neko Hiki no Oruorane
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.26
 animeUsers	587
 animeRank	
-animePopularity	
-animeDescription	b'During the holiday season, a young man encounters a drunken cat belonging to an old man in an alley. The old man has trained his three cats to sing.\n\n(Source: ANN)'
+animePopularity	10221
+animeDescription	"During the holiday season, a young man encounters a drunken cat belonging to an old man in an alley. The old man has trained his three cats to sing.
+
+(Source: ANN)"
 animeRelated	[]
-animeCharacters	[b'Protagonist', b'Iruinedo', b'Oruorane']
-animeVoices	[b'\nSeki, Toshihiko\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nGinga, Banjou\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNishikubo, Mizuho\n\nDirector\n\n', b'\nTanaka, Hideyuki\n\nSound Director\n\n', b'\nSaitou, Kazuya\n\nAnimation Check\n\n', b'\nMurata, Toshiharu\n\nAnimation Director, Character Design\n\n']
+animeCharacters	['Protagonist', 'Iruinedo', 'Oruorane']
+animeVoices	['Seki, Toshihiko', 'Hayashibara, Megumi', 'Ginga, Banjou']
+animeStaff	[['Nishikubo, Mizuho', 'Director'], ['Tanaka, Hideyuki', 'Sound Director'], ['Saitou, Kazuya', 'Animation Check'], ['Murata, Toshiharu', 'Animation Director, Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Ro-Kyu-Bu! SS'
-animeType	b'TV'
+animeTitle	Ro-Kyu-Bu! SS
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.07
 animeUsers	16368
 animeRank	
-animePopularity	
-animeDescription	"b""After their loss against Suzuridani Academy, the members of the Keishin Academy girls' basketball team\xe2\x80\x94Tomoka Minato, Maho Misawa, Airi Kashii, Hinata Hakamada, and Saki Nagatsuka, along with their coach, Subaru Hasegawa\xe2\x80\x94exert more of their time and effort in improving in the sport day by day. However, this time around, new rivals with strengths possibly exceedings theirs and friends appear on their way to the top.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Ro-Kyu-Bu!', b'Ro-Kyu-Bu!: Tomoka no Ichigo Sundae', b'Ro-Kyu-Bu! SS Recap']
-animeCharacters	[b'Minato, Tomoka', b'Hakamada, Hinata', b'Misawa, Maho', b'Kashii, Airi', b'Nagatsuka, Saki', b'Hasegawa, Subaru', b'Takamura, Mihoshi', b'Ogiyama, Aoi', b'Balguerie, Mimi', b'Fujii, Masami']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nOgura, Yui\nJapanese\n', b'\nIguchi, Yuka\nJapanese\n', b'\nHidaka, Rina\nJapanese\n', b'\nHikasa, Youko\nJapanese\n', b'\nKaji, Yuki\nJapanese\n', b'\nItou, Shizuka\nJapanese\n', b'\nItou, Kanae\nJapanese\n', b'\nKuno, Misaki\nJapanese\n', b'\nTaneda, Risa\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNakayama, Nobuhiro\n\nProducer\n\n', b'\nSatomi, Tetsurou\n\nProducer\n\n', b'\nMatsuura, Hiroaki\n\nProducer\n\n', b'\nKusakawa, Keizou\n\nDirector\n\n']
+animePopularity	3049
+animeDescription	"After their loss against Suzuridani Academy, the members of the Keishin Academy girls' basketball team—Tomoka Minato, Maho Misawa, Airi Kashii, Hinata Hakamada, and Saki Nagatsuka, along with their coach, Subaru Hasegawa—exert more of their time and effort in improving in the sport day by day. However, this time around, new rivals with strengths possibly exceedings theirs and friends appear on their way to the top.
+
+[Written by MAL Rewrite]"
+animeRelated	['Ro-Kyu-Bu!', 'Ro-Kyu-Bu!: Tomoka no Ichigo Sundae', 'Ro-Kyu-Bu! SS Recap']
+animeCharacters	['Minato, Tomoka', 'Hakamada, Hinata', 'Misawa, Maho', 'Kashii, Airi', 'Nagatsuka, Saki', 'Hasegawa, Subaru', 'Takamura, Mihoshi', 'Ogiyama, Aoi', 'Balguerie, Mimi', 'Fujii, Masami']
+animeVoices	['Hanazawa, Kana', 'Ogura, Yui', 'Iguchi, Yuka', 'Hidaka, Rina', 'Hikasa, Youko', 'Kaji, Yuki', 'Itou, Shizuka', 'Itou, Kanae', 'Kuno, Misaki', 'Taneda, Risa']
+animeStaff	[['Nakayama, Nobuhiro', 'Producer'], ['Satomi, Tetsurou', 'Producer'], ['Matsuura, Hiroaki', 'Producer'], ['Kusakawa, Keizou', 'Director']]

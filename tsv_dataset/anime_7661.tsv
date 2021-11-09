@@ -1,5 +1,5 @@
-animeTitle	b'Koutsuu Anzen Da yo Doraemon'
-animeType	b'OVA'
+animeTitle	Koutsuu Anzen Da yo Doraemon
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.21
 animeUsers	130
 animeRank	
-animePopularity	
-animeDescription	b'A traffic safety anime starring the cast of Doraemon. \n\nThe first episode is roughly 16 minutes long and available for loan for Japanese educators from various libraries and city halls. \n\nThe second episode was discovered through an auction website, the seller provided some images and stated that he estimates it to be 10 minutes long but feared the 16mm film would fall apart due to age if he continued handling it.'
-animeRelated	[b'Doraemon', b'Doraemon (1979)']
+animePopularity	13567
+animeDescription	"A traffic safety anime starring the cast of Doraemon. 
+
+The first episode is roughly 16 minutes long and available for loan for Japanese educators from various libraries and city halls. 
+
+The second episode was discovered through an auction website, the seller provided some images and stated that he estimates it to be 10 minutes long but feared the 16mm film would fall apart due to age if he continued handling it."
+animeRelated	['Doraemon', 'Doraemon (1979)']
 animeCharacters	[]
 animeVoices	[]
 animeStaff	[]

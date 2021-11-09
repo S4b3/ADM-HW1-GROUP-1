@@ -1,5 +1,5 @@
-animeTitle	b'Zoids Genesis'
-animeType	b'TV'
+animeTitle	Zoids Genesis
+animeType	TV
 animeNumEpisode	50
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.21
 animeUsers	5668
 animeRank	
-animePopularity	
-animeDescription	b'Natural disasters have devastated planet Zi, killing off almost all life. A thousand years later humans have gradually re-established civilization, salvaging ancient Zoids through diving and mining efforts. In a village whose most previous item is a giant sword which they worship as a holy symbol. A teenage boy discovers an ancient Liger-type Zoid while on a deep water salvage operation. Suddenly the village is attacked by skeletal Bio-Zoids intent on stealing a powerful generator located in the village. Our teenage hero awakens the Liger and discovers that the town`s sacred sword is the Liger`s weapon, together they fight off the mysterious Bio-Zoids. At least for now...\n\n(Source: AniDB)'
-animeRelated	[b'Zoids', b'Zoids Shinseiki/Zero', b'Zoids Fuzors', b'Zoids Wild']
-animeCharacters	[b'Elegance, Kotona', b'Familon, Ruuji', b'Re, Mii', b'Major Zairin', b'Seijuurou', b'Ra, Kan', b'Garaga', b'Mangan, Ron', b'Colonel Felme']
-animeVoices	[b'\nItou, Shizuka\nJapanese\n', b'\nHirata, Hiromi\nJapanese\n', b'\nKoyama, Kimiko\nJapanese\n', b'\nMatsumoto, Yasunori\nJapanese\n', b'\nTsuda, Kenjirou\nJapanese\n', b'\nMatsuyama, Takashi\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nTaniyama, Kishou\nJapanese\n', b'\nHyoudou, Mako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMizuno, Kazunori\n\nDirector, Episode Director, Storyboard\n\n', b'\nMatsuoka, Hiroki\n\nSound Director\n\n', b'\nOomori, Takahiro\n\nEpisode Director\n\n', b'\nJinbo, Masato\n\nEpisode Director, Storyboard\n\n']
+animePopularity	4571
+animeDescription	"Natural disasters have devastated planet Zi, killing off almost all life. A thousand years later humans have gradually re-established civilization, salvaging ancient Zoids through diving and mining efforts. In a village whose most previous item is a giant sword which they worship as a holy symbol. A teenage boy discovers an ancient Liger-type Zoid while on a deep water salvage operation. Suddenly the village is attacked by skeletal Bio-Zoids intent on stealing a powerful generator located in the village. Our teenage hero awakens the Liger and discovers that the town`s sacred sword is the Liger`s weapon, together they fight off the mysterious Bio-Zoids. At least for now...
+
+(Source: AniDB)"
+animeRelated	['Zoids', 'Zoids Shinseiki/Zero', 'Zoids Fuzors', 'Zoids Wild']
+animeCharacters	['Elegance, Kotona', 'Familon, Ruuji', 'Re, Mii', 'Major Zairin', 'Seijuurou', 'Ra, Kan', 'Garaga', 'Mangan, Ron', 'Colonel Felme']
+animeVoices	['Itou, Shizuka', 'Hirata, Hiromi', 'Koyama, Kimiko', 'Matsumoto, Yasunori', 'Tsuda, Kenjirou', 'Matsuyama, Takashi', 'Miyake, Kenta', 'Taniyama, Kishou', 'Hyoudou, Mako']
+animeStaff	[['Mizuno, Kazunori', 'Director, Episode Director, Storyboard'], ['Matsuoka, Hiroki', 'Sound Director'], ['Oomori, Takahiro', 'Episode Director'], ['Jinbo, Masato', 'Episode Director, Storyboard']]

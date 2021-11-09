@@ -1,5 +1,5 @@
-animeTitle	b'Shitsurakuen'
-animeType	b'OVA'
+animeTitle	Shitsurakuen
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.36
 animeUsers	481
 animeRank	
-animePopularity	
-animeDescription	"b""Longtime friends Erika and Akino have a difficult road ahead of them. One minute, they're basking in the warm summer air, and the next, they're sucked into a strange dimension. There, an army of mysterious soldiers declare that the two women are allies of an enemy nation and put them through all manner of perverse torture. But even if they could escape their captors, where could they run when they don't even know where they are? \n\n(Source: Mania.com) """
+animePopularity	10132
+animeDescription	"Longtime friends Erika and Akino have a difficult road ahead of them. One minute, they're basking in the warm summer air, and the next, they're sucked into a strange dimension. There, an army of mysterious soldiers declare that the two women are allies of an enemy nation and put them through all manner of perverse torture. But even if they could escape their captors, where could they run when they don't even know where they are? 
+
+(Source: Mania.com) "
 animeRelated	[]
-animeCharacters	[b'Akino', b'Erika']
+animeCharacters	['Akino', 'Erika']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nTsubone, Kentarou\n\nEditing\n\n', b'\nYoshi.Hoka\n\nMusic\n\n']
+animeStaff	[['Tsubone, Kentarou', 'Editing'], ['Yoshi.Hoka', 'Music']]

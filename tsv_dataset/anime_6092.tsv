@@ -1,5 +1,5 @@
-animeTitle	b'Fushigi no Umi no Nadia Omake Gekijou'
-animeType	b'Special'
+animeTitle	Fushigi no Umi no Nadia Omake Gekijou
+animeType	Special
 animeNumEpisode	10
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.51
 animeUsers	1117
 animeRank	
-animePopularity	
-animeDescription	"b'While Nadia has been licensed by ADV, the Omake ""extra"" episodes were not. These short Omake ""extra"" episodes were included as a bonus on the Japanese LD set. They were never released on any other format.\n\n(Source: AnimeSuki)'"
-animeRelated	[b'Fushigi no Umi no Nadia']
-animeCharacters	[b'la Arwall, Nadia', b'Roque Lartigue, Jean', b'King', b'Carlsberg, Marie en', b'Nemo', b'Gargoyle', b'Electra, Medina La Lugensius', b'Narrator']
-animeVoices	[b'\nTakamori, Yoshino\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nSakurai, Toshiharu\nJapanese\n', b'\nInoue, Kikuko\nJapanese\n', b'\nKiyokawa, Motomu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAnno, Hideaki\n\nDirector, Script\n\n', b'\nSagisu, Shirou\n\nMusic\n\n']
+animePopularity	7798
+animeDescription	"While Nadia has been licensed by ADV, the Omake ""extra"" episodes were not. These short Omake ""extra"" episodes were included as a bonus on the Japanese LD set. They were never released on any other format.
+
+(Source: AnimeSuki)"
+animeRelated	['Fushigi no Umi no Nadia']
+animeCharacters	['la Arwall, Nadia', 'Roque Lartigue, Jean', 'King', 'Carlsberg, Marie en', 'Nemo', 'Gargoyle', 'Electra, Medina La Lugensius', 'Narrator']
+animeVoices	['Takamori, Yoshino', 'Hidaka, Noriko', 'Sakurai, Toshiharu', 'Inoue, Kikuko', 'Kiyokawa, Motomu']
+animeStaff	[['Anno, Hideaki', 'Director, Script'], ['Sagisu, Shirou', 'Music']]

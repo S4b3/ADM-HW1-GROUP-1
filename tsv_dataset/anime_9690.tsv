@@ -1,5 +1,5 @@
-animeTitle	b'Soul Worker: Your Destiny Awaits'
-animeType	b'ONA'
+animeTitle	Soul Worker: Your Destiny Awaits
+animeType	ONA
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.72
 animeUsers	1470
 animeRank	
-animePopularity	
-animeDescription	"b""Lion Games' Korean online role-playing game Soul Worker is inspiring an anime that will be streamed online. The publisher NHN PlayArt made the announcement at a press conference marking the completion of the game. The press conference showed an animatic preview and the storyboards for the anime.\n\n(Source: ANN, edited)"""
+animePopularity	7243
+animeDescription	"Lion Games' Korean online role-playing game Soul Worker is inspiring an anime that will be streamed online. The publisher NHN PlayArt made the announcement at a press conference marking the completion of the game. The press conference showed an animatic preview and the storyboards for the anime.
+
+(Source: ANN, edited)"
 animeRelated	[]
-animeCharacters	[b'Unibell, Stella', b'Estia, Haru', b'Bloommerchen, Lily', b'Arclight, Erwin', b'Poison', b'Edgar', b'Chloe']
-animeVoices	[b'\nTaneda, Risa\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nKido, Ibuki\nJapanese\n', b'\nShimono, Hiro\nJapanese\n', b'\nMuranaka, Tomo\nJapanese\n', b'\nTakumi, Yasuaki\nJapanese\n', b'\nOonishi, Saori\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nBetsuyaku, Hiroyuki\n\nDirector, Script, Series Composition\n\n', b'\nGARNiDELiA\n\nTheme Song Arrangement, Theme Song Performance, Theme Song Lyrics, Theme Song Composition\n\n']
+animeCharacters	['Unibell, Stella', 'Estia, Haru', 'Bloommerchen, Lily', 'Arclight, Erwin', 'Poison', 'Edgar', 'Chloe']
+animeVoices	['Taneda, Risa', 'Kayano, Ai', 'Kido, Ibuki', 'Shimono, Hiro', 'Muranaka, Tomo', 'Takumi, Yasuaki', 'Oonishi, Saori']
+animeStaff	[['Betsuyaku, Hiroyuki', 'Director, Script, Series Composition'], ['GARNiDELiA', 'Theme Song Arrangement, Theme Song Performance, Theme Song Lyrics, Theme Song Composition']]

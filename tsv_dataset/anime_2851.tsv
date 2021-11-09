@@ -1,5 +1,5 @@
-animeTitle	b'Genius Party Beyond'
-animeType	b'Movie'
+animeTitle	Genius Party Beyond
+animeType	Movie
 animeNumEpisode	5
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.21
 animeUsers	7286
 animeRank	
-animePopularity	
-animeDescription	"b""Containing shorts that couldn't be included in the original, Genius Party Beyond weaves stories that are both deep and insightful: the idea all life is relative in size, the consequences of an oppressive government, and how to deal with your darker desires, among others.\n\nFrom the directors and artists of works such as Samurai Champloo, Neon Genesis Evangelion, and Akira, come a multitude of thought-provoking tales, to create a collection equalling the original in storytelling genius.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Genius Party']
-animeCharacters	[b'Kuu']
-animeVoices	[b'\nKanno, Yoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTanaka, Eiko\n\nProducer\n\n', b'\nMorimoto, Kouji\n\nDirector\n\n', b'\nOhira, Shinya\n\nDirector, Storyboard, Key Animation, Background Art, Animation Director, Character Design\n\n', b'\nNakazawa, Kazuto\n\nDirector, Storyboard, Animation Director, Character Design, Key Animation\n\n']
+animePopularity	4245
+animeDescription	"Containing shorts that couldn't be included in the original, Genius Party Beyond weaves stories that are both deep and insightful: the idea all life is relative in size, the consequences of an oppressive government, and how to deal with your darker desires, among others.
+
+From the directors and artists of works such as Samurai Champloo, Neon Genesis Evangelion, and Akira, come a multitude of thought-provoking tales, to create a collection equalling the original in storytelling genius.
+
+[Written by MAL Rewrite]"
+animeRelated	['Genius Party']
+animeCharacters	['Kuu']
+animeVoices	['Kanno, Yoko']
+animeStaff	[['Tanaka, Eiko', 'Producer'], ['Morimoto, Kouji', 'Director'], ['Ohira, Shinya', 'Director, Storyboard, Key Animation, Background Art, Animation Director, Character Design'], ['Nakazawa, Kazuto', 'Director, Storyboard, Animation Director, Character Design, Key Animation']]

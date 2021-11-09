@@ -1,5 +1,5 @@
-animeTitle	b'Getter Robo'
-animeType	b'TV'
+animeTitle	Getter Robo
+animeType	TV
 animeNumEpisode	51
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.74
 animeUsers	1370
 animeRank	
-animePopularity	
-animeDescription	"b""From deep within the Earth's surface, the Dinosaur Kingdom make their move to wipe out mankind and conquer the planet with their mechanical dinosaurs. After a prototype Getter Robo is shot down by a mechanical dinosaur, the Saotome Research Institute decides to use the real Getter Robo, which is combat-capable. Due to a lack of pilots in the institute, Ryo Nagare goes to his college to persuade martial artist Musashi Tomoe and outcast Hayato Jin to join him and pilot the Getter Machines to combat the new threat and protect mankind.\n\n(Source: ANN)"""
-animeRelated	[b'Getter Robo', b'Change!! Getter Robo: Sekai Saigo no Hi', b'Shin Getter Robo', b'Getter Robo Go', b'Getter Robo G', b'Getter Robo Memorial']
-animeCharacters	[b'Nagare, Ryouma', b'Jin, Hayato', b'Tomoe, Musashi', b'Professor Saotome', b'King, Jack', b'Saotome, Michiru', b'Gore, Emperor', b'Princess Gola', b'Saotome, Genki']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nYamada, Keaton\nJapanese\n', b'\nNishio, Toku\nJapanese\n', b'\nTomita, Kousei\nJapanese\n', b'\nInoue, Makio\nJapanese\n', b'\nYoshida, Rihoko\nJapanese\n', b'\nKagawa, Kouko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKatsumata, Tomoharu\n\nEpisode Director\n\n', b'\nSasaki, Isao\n\nTheme Song Performance\n\n', b'\nNagai, Go\n\nOriginal Creator\n\n', b'\nIshikawa, Ken\n\nOriginal Creator\n\n']
+animePopularity	6257
+animeDescription	"From deep within the Earth's surface, the Dinosaur Kingdom make their move to wipe out mankind and conquer the planet with their mechanical dinosaurs. After a prototype Getter Robo is shot down by a mechanical dinosaur, the Saotome Research Institute decides to use the real Getter Robo, which is combat-capable. Due to a lack of pilots in the institute, Ryo Nagare goes to his college to persuade martial artist Musashi Tomoe and outcast Hayato Jin to join him and pilot the Getter Machines to combat the new threat and protect mankind.
+
+(Source: ANN)"
+animeRelated	['Getter Robo', 'Change!! Getter Robo: Sekai Saigo no Hi', 'Shin Getter Robo', 'Getter Robo Go', 'Getter Robo G', 'Getter Robo Memorial']
+animeCharacters	['Nagare, Ryouma', 'Jin, Hayato', 'Tomoe, Musashi', 'Professor Saotome', 'King, Jack', 'Saotome, Michiru', 'Gore, Emperor', 'Princess Gola', 'Saotome, Genki']
+animeVoices	['Kamiya, Akira', 'Yamada, Keaton', 'Nishio, Toku', 'Tomita, Kousei', 'Inoue, Makio', 'Yoshida, Rihoko', 'Kagawa, Kouko']
+animeStaff	[['Katsumata, Tomoharu', 'Episode Director'], ['Sasaki, Isao', 'Theme Song Performance'], ['Nagai, Go', 'Original Creator'], ['Ishikawa, Ken', 'Original Creator']]

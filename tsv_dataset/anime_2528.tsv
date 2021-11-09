@@ -1,5 +1,5 @@
-animeTitle	b'Mobile Suit Gundam Thunderbolt: Bandit Flower'
-animeType	b'Movie'
+animeTitle	Mobile Suit Gundam Thunderbolt: Bandit Flower
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.27
 animeUsers	4468
 animeRank	
-animePopularity	
-animeDescription	b'Compilation film for Mobile Suit Gundam Thunderbolt 2nd Season. '
-animeRelated	[b'Kidou Senshi Gundam Thunderbolt', b'Mobile Suit Gundam Thunderbolt: December Sky', b'Mobile Suit Gundam Thunderbolt 2nd Season']
-animeCharacters	[b'Fleming, Io', b'Lorenz, Daryl', b'Carlyle, Bianca', b'Mitchum, Karla', b'Peer, Claudia', b'Morse, Sebastian', b'Kaufmann, Philippe', b'Ness, Fisher', b'Hickam, Billy', b'Kaka, Cornelius']
-animeVoices	[b'\nNakamura, Yuuichi\nJapanese\n', b'\nKimura, Ryouhei\nJapanese\n', b'\nFurukawa, Yurina\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nYukinari, Toa\nJapanese\n', b'\nUeda, Youji\nJapanese\n', b'\nKuroda, Takaya\nJapanese\n', b'\nKoyama, Tsuyoshi\nJapanese\n', b'\nOosaka, Ryouta\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMatsuo, Kou\n\nDirector, Script\n\n', b'\nKimura, Eriko\n\nSound Director\n\n', b'\nTomino, Yoshiyuki\n\nOriginal Creator\n\n', b'\nYatate, Hajime\n\nOriginal Creator\n\n']
+animePopularity	5380
+animeDescription	Compilation film for Mobile Suit Gundam Thunderbolt 2nd Season. 
+animeRelated	['Kidou Senshi Gundam Thunderbolt', 'Mobile Suit Gundam Thunderbolt: December Sky', 'Mobile Suit Gundam Thunderbolt 2nd Season']
+animeCharacters	['Fleming, Io', 'Lorenz, Daryl', 'Carlyle, Bianca', 'Mitchum, Karla', 'Peer, Claudia', 'Morse, Sebastian', 'Kaufmann, Philippe', 'Ness, Fisher', 'Hickam, Billy', 'Kaka, Cornelius']
+animeVoices	['Nakamura, Yuuichi', 'Kimura, Ryouhei', 'Furukawa, Yurina', 'Ohara, Sayaka', 'Yukinari, Toa', 'Ueda, Youji', 'Kuroda, Takaya', 'Koyama, Tsuyoshi', 'Oosaka, Ryouta', 'Hirakawa, Daisuke']
+animeStaff	[['Matsuo, Kou', 'Director, Script'], ['Kimura, Eriko', 'Sound Director'], ['Tomino, Yoshiyuki', 'Original Creator'], ['Yatate, Hajime', 'Original Creator']]

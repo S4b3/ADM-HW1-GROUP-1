@@ -1,5 +1,5 @@
-animeTitle	b'Detective Conan Movie 24: The Scarlet Bullet'
-animeType	b'Movie'
+animeTitle	Detective Conan Movie 24: The Scarlet Bullet
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.66
 animeUsers	1454
 animeRank	
-animePopularity	
-animeDescription	b'24th Detective Conan Movie.'
-animeRelated	[b'Detective Conan', b'Detective Conan: The Scarlet Alibi']
-animeCharacters	[b'Edogawa, Conan', b'Akai, Shuuichi', b'Mouri, Ran', b'Mouri, Kogorou', b'Sera, Masumi', b'Takagi, Wataru', b'Agasa, Hiroshi', b'Yoshida, Ayumi', b'Suzuki, Sonoko', b'Satou, Miwako']
-animeVoices	[b'\nTakayama, Minami\nJapanese\n', b'\nIkeda, Shuuichi\nJapanese\n', b'\nYamazaki, Wakana\nJapanese\n', b'\nKoyama, Rikiya\nJapanese\n', b'\nHidaka, Noriko\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nOgata, Kenichi\nJapanese\n', b'\nIwai, Yukiko\nJapanese\n', b'\nMatsui, Naoko\nJapanese\n', b'\nYuuya, Atsuko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nShiina, Ringo\n\nTheme Song Lyrics, Theme Song Composition\n\n', b'\nTokyo Jihen\n\nTheme Song Performance\n\n', b'\nAoyama, Gosho\n\nOriginal Creator\n\n']
+animePopularity	5185
+animeDescription	24th Detective Conan Movie.
+animeRelated	['Detective Conan', 'Detective Conan: The Scarlet Alibi']
+animeCharacters	['Edogawa, Conan', 'Akai, Shuuichi', 'Mouri, Ran', 'Mouri, Kogorou', 'Sera, Masumi', 'Takagi, Wataru', 'Agasa, Hiroshi', 'Yoshida, Ayumi', 'Suzuki, Sonoko', 'Satou, Miwako']
+animeVoices	['Takayama, Minami', 'Ikeda, Shuuichi', 'Yamazaki, Wakana', 'Koyama, Rikiya', 'Hidaka, Noriko', 'Takagi, Wataru', 'Ogata, Kenichi', 'Iwai, Yukiko', 'Matsui, Naoko', 'Yuuya, Atsuko']
+animeStaff	[['Shiina, Ringo', 'Theme Song Lyrics, Theme Song Composition'], ['Tokyo Jihen', 'Theme Song Performance'], ['Aoyama, Gosho', 'Original Creator']]

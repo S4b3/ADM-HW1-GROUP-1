@@ -1,5 +1,5 @@
-animeTitle	b'The Reflection'
-animeType	b'TV'
+animeTitle	The Reflection
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	5.13
 animeUsers	5298
 animeRank	
-animePopularity	
-animeDescription	b'After the Reflection, some of the people in all parts of the world are discovered with super powers. Some become heroes, and others villains. How did the Reflection happen? What was the cause of it? With many unsolved mysteries, the world is led into turmoil.'
+animePopularity	3414
+animeDescription	After the Reflection, some of the people in all parts of the world are discovered with super powers. Some become heroes, and others villains. How did the Reflection happen? What was the cause of it? With many unsolved mysteries, the world is led into turmoil.
 animeRelated	[]
-animeCharacters	[b'Exon', b'Izzet, Ian', b'Evans, Eleanor', b'Livingstone, Lisa', b'Mister Mystic', b'Saya', b'Hoden, Michael', b'Horn, Trevor', b'Uki', b'Dulles, Warren']
-animeVoices	[b'\nMiki, Shinichiro\nJapanese\n', b'\nMikami, Satoshi\nJapanese\n', b'\nIse, Mariya\nJapanese\n', b'\nHanamura, Satomi\nJapanese\n', b'\nNishimura, Tomomichi\nJapanese\n', b'\nNishiwaki, Sayaka\nJapanese\n', b'\nSeki, Toshihiko\nJapanese\n', b'\nSatake, Uki\nJapanese\n', b'\nUmezu, Hideyuki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nNagahama, Hiroshi\n\nDirector, Original Character Design, Original Creator\n\n', b'\nSoutome, Kouichirou\n\nDirector, Episode Director\n\n', b'\nTanaka, Kazuya\n\nSound Director\n\n', b'\nAsami, Matsuo\n\nEpisode Director\n\n']
+animeCharacters	['Exon', 'Izzet, Ian', 'Evans, Eleanor', 'Livingstone, Lisa', 'Mister Mystic', 'Saya', 'Hoden, Michael', 'Horn, Trevor', 'Uki', 'Dulles, Warren']
+animeVoices	['Miki, Shinichiro', 'Mikami, Satoshi', 'Ise, Mariya', 'Hanamura, Satomi', 'Nishimura, Tomomichi', 'Nishiwaki, Sayaka', 'Seki, Toshihiko', 'Satake, Uki', 'Umezu, Hideyuki']
+animeStaff	[['Nagahama, Hiroshi', 'Director, Original Character Design, Original Creator'], ['Soutome, Kouichirou', 'Director, Episode Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Asami, Matsuo', 'Episode Director']]

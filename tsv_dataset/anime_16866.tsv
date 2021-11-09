@@ -1,5 +1,5 @@
-animeTitle	b'Kono Sekai no Tanoshimikata: Secret Story Film'
-animeType	b'Movie'
+animeTitle	Kono Sekai no Tanoshimikata: Secret Story Film
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	
 animeUsers	
 animeRank	
-animePopularity	
-animeDescription	"b""An anime movie based on HoneyWorks' LIPxLIP virtual idol unit, commemorating the music circle's 10th anniversary.\n\n(Source: MAL News)"""
-animeRelated	[b'Heroine Tarumono!: Kiraware Heroine to Naisho no Oshigoto']
-animeCharacters	[b'Shibasaki, Aizou', b'Someya, Yuujirou', b'Dai', b'Yui', b'Megu', b'Tamura, Rei', b'Someya, Kouichirou', b'Uchida, Mayu', b'Shibazaki, Yuuko', b'Someya, Tamagorou']
-animeVoices	[b'\nShimazaki, Nobunaga\nJapanese\n', b'\nUchiyama, Kouki\nJapanese\n', b'\nMasuda, Toshiki\nJapanese\n', b'\nSaitou, Souma\nJapanese\n', b'\nKakihara, Tetsuya\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nToki, Shunichi\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nHorie, Yui\nJapanese\n', b'\nHirata, Hiroaki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSaitou, Shunsuke\n\nProducer, Planning\n\n', b'\nMatsuo, Ryouichirou\n\nProducer\n\n', b'\nKoide, Daiki\n\nProducer\n\n', b'\nMuroi, Fumie\n\nDirector\n\n']
+animePopularity	9453
+animeDescription	"An anime movie based on HoneyWorks' LIPxLIP virtual idol unit, commemorating the music circle's 10th anniversary.
+
+(Source: MAL News)"
+animeRelated	['Heroine Tarumono!: Kiraware Heroine to Naisho no Oshigoto']
+animeCharacters	['Shibasaki, Aizou', 'Someya, Yuujirou', 'Dai', 'Yui', 'Megu', 'Tamura, Rei', 'Someya, Kouichirou', 'Uchida, Mayu', 'Shibazaki, Yuuko', 'Someya, Tamagorou']
+animeVoices	['Shimazaki, Nobunaga', 'Uchiyama, Kouki', 'Masuda, Toshiki', 'Saitou, Souma', 'Kakihara, Tetsuya', 'Sawashiro, Miyuki', 'Toki, Shunichi', 'Kayano, Ai', 'Horie, Yui', 'Hirata, Hiroaki']
+animeStaff	[['Saitou, Shunsuke', 'Producer, Planning'], ['Matsuo, Ryouichirou', 'Producer'], ['Koide, Daiki', 'Producer'], ['Muroi, Fumie', 'Director']]

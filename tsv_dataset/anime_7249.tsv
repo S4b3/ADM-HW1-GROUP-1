@@ -1,5 +1,5 @@
-animeTitle	b'Happy Seven: The TV Manga'
-animeType	b'TV'
+animeTitle	Happy Seven: The TV Manga
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.29
 animeUsers	1401
 animeRank	
-animePopularity	
-animeDescription	"b""Amano Sakogami is a girl who has an unnatural amount of bad luck. One day, she stumbles into the clubroom of the Better Fortune Research Organization, which consists of a boy and seven other girls who secretly use the power of the luck deities to fight against the Magatsugami, monsters who can affect a person's luck & well-being. Amano soon becomes the club's manager, and joins the club in their fight against the Magatsugami and their controller, Kukitomoe.\n\n(Source: ANN) \n"""
-animeRelated	[b'Gakuen Happy Seven', b'Happy Seven: The TV Manga - Chibi Chara Moshimo Gekijou']
-animeCharacters	[b'Kuroda, Kuriya', b'Kotobuki, Nami', b'Sakogami, Amano', b'Kotobuki, Mina', b'Kagawa, Kikunosuke', b'Sarasugawa, Kiku', b'Munakata, Miku', b'Oki, Mahiru', b'Kitayama, Tamon', b'Shouda, Shouko']
-animeVoices	[b'\nKuwashima, Houko\nJapanese\n', b'\nMinami, Omi\nJapanese\n', b'\nInamura, Yuuna\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nSumitomo, Yuuko\nJapanese\n', b'\nKobayashi, Yuu\nJapanese\n', b'\nChiba, Chiemi\nJapanese\n', b'\nKaneda, Tomoko\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYabuki, Tsutomu\n\nDirector, Episode Director, Storyboard\n\n', b'\nKoyasu, Hideaki\n\nScript\n\n', b'\nKawasaki, Hiroyuki\n\nScript\n\n', b'\nLittle Non\n\nTheme Song Performance\n\n']
+animePopularity	7080
+animeDescription	"Amano Sakogami is a girl who has an unnatural amount of bad luck. One day, she stumbles into the clubroom of the Better Fortune Research Organization, which consists of a boy and seven other girls who secretly use the power of the luck deities to fight against the Magatsugami, monsters who can affect a person's luck & well-being. Amano soon becomes the club's manager, and joins the club in their fight against the Magatsugami and their controller, Kukitomoe.
+
+(Source: ANN) 
+"
+animeRelated	['Gakuen Happy Seven', 'Happy Seven: The TV Manga - Chibi Chara Moshimo Gekijou']
+animeCharacters	['Kuroda, Kuriya', 'Kotobuki, Nami', 'Sakogami, Amano', 'Kotobuki, Mina', 'Kagawa, Kikunosuke', 'Sarasugawa, Kiku', 'Munakata, Miku', 'Oki, Mahiru', 'Kitayama, Tamon', 'Shouda, Shouko']
+animeVoices	['Kuwashima, Houko', 'Minami, Omi', 'Inamura, Yuuna', 'Fukuyama, Jun', 'Nakahara, Mai', 'Sumitomo, Yuuko', 'Kobayashi, Yuu', 'Chiba, Chiemi', 'Kaneda, Tomoko']
+animeStaff	[['Yabuki, Tsutomu', 'Director, Episode Director, Storyboard'], ['Koyasu, Hideaki', 'Script'], ['Kawasaki, Hiroyuki', 'Script'], ['Little Non', 'Theme Song Performance']]

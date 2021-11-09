@@ -1,5 +1,5 @@
-animeTitle	b'Infini-T Force'
-animeType	b'TV'
+animeTitle	Infini-T Force
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.46
 animeUsers	1695
 animeRank	
-animePopularity	
-animeDescription	"b""Emi is a seventeen-year-old girl living in Shibuya. Her father is always away with work and she's grown listless. Suddenly, a twist of fate involving a certain magical item changes everything. A mysterious pencil, of all things, is linked to the appearance of heroes from another world! Could this be the start to the excitement she's so desperately craving, or is there something more?\n\n(Source: VIZ Media)"""
-animeRelated	[b'Infini-T Force: Mirai no Byousen', b'Uchuu no Kishi Tekkaman', b'Kagaku Ninja-tai Gatchaman', b'Hurricane Polymar', b'Shinzou Ningen Casshern', b'Infini-T Force Movie: Gatchaman - Saraba Tomo yo']
-animeCharacters	[b'Casshern', b'Washio, Ken', b'Yoroi, Takeshi', b'Minami, Johji', b'Kaidou, Emi', b'Friender', b'Lynn, Belle', b'Z', b'Gray, Damian', b'Miyazaki, Risa']
-animeVoices	[b'\nSaitou, Souma\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nSuzumura, Kenichi\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nKayano, Ai\nJapanese\n', b'\nHanazawa, Kana\nJapanese\n', b'\nOno, Atsushi\nJapanese\n', b'\nHirakawa, Daisuke\nJapanese\n', b'\nSenbongi, Sayaka\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSuzuki, Kiyotaka\n\nDirector\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nKimura, Nobukage\n\nEpisode Director, Storyboard\n\n', b'\nflumpool\n\nTheme Song Performance, Theme Song Composition, Theme Song Lyrics\n\n']
+animePopularity	5804
+animeDescription	"Emi is a seventeen-year-old girl living in Shibuya. Her father is always away with work and she's grown listless. Suddenly, a twist of fate involving a certain magical item changes everything. A mysterious pencil, of all things, is linked to the appearance of heroes from another world! Could this be the start to the excitement she's so desperately craving, or is there something more?
+
+(Source: VIZ Media)"
+animeRelated	['Infini-T Force: Mirai no Byousen', 'Uchuu no Kishi Tekkaman', 'Kagaku Ninja-tai Gatchaman', 'Hurricane Polymar', 'Shinzou Ningen Casshern', 'Infini-T Force Movie: Gatchaman - Saraba Tomo yo']
+animeCharacters	['Casshern', 'Washio, Ken', 'Yoroi, Takeshi', 'Minami, Johji', 'Kaidou, Emi', 'Friender', 'Lynn, Belle', 'Z', 'Gray, Damian', 'Miyazaki, Risa']
+animeVoices	['Saitou, Souma', 'Seki, Tomokazu', 'Suzumura, Kenichi', 'Sakurai, Takahiro', 'Kayano, Ai', 'Hanazawa, Kana', 'Ono, Atsushi', 'Hirakawa, Daisuke', 'Senbongi, Sayaka']
+animeStaff	[['Suzuki, Kiyotaka', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Kimura, Nobukage', 'Episode Director, Storyboard'], ['flumpool', 'Theme Song Performance, Theme Song Composition, Theme Song Lyrics']]

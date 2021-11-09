@@ -1,5 +1,5 @@
-animeTitle	b'Jormungand'
-animeType	b'TV'
+animeTitle	Jormungand
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	7.82
 animeUsers	128263
 animeRank	
-animePopularity	
-animeDescription	"b'Brought up in a conflict-ridden environment, child soldier Jonathan ""Jonah"" Mar hates weapons and those who deal them. But when Koko Hekmatyar, an international arms dealer, takes on Jonah as one of her bodyguards, he has little choice but to take up arms. Along with Koko\'s other bodyguards, composed mostly of former special-ops soldiers, Jonah is now tasked with protecting Koko and her overly idealistic goal of world peace from the countless dangers that come from her line of work.\n\nJormungand follows Koko, Jonah, and the rest of crew as they travel the world selling weapons under the international shipping company HCLI. As Koko\'s work is illegal under international law, she is forced to constantly sidestep both local and international authorities while doing business with armies, private militaries, and militias. With the CIA always hot on her trail, and assassins around every corner, Jonah and the crew must guard Koko and her dream of world peace with their lives or die trying.\n\n[Written by MAL Rewrite]'"
-animeRelated	[b'Jormungand', b'Jormungand: Perfect Order', b'Jormungand: Perfect Order Recap']
-animeCharacters	[b'Hekmatyar, Koko', b'Mar, Jonathan', b'Valmer, Sofia', b'Brick, Lehm', b'Chiquita', b'Hekmatyar, Kasper', b'Schokolade', b'Lutz', b'Nelson, William', b'Chinatsu']
-animeVoices	[b'\nItou, Shizuka\nJapanese\n', b'\nTamura, Mutsumi\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nIshizuka, Unshou\nJapanese\n', b'\nTouma, Yumi\nJapanese\n', b'\nMatsukaze, Masaya\nJapanese\n', b'\nKoshimizu, Ami\nJapanese\n', b'\nHatano, Wataru\nJapanese\n', b'\nNomura, Kenji\nJapanese\n', b'\nKanda, Akemi\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nIwasa, Gaku\n\nProducer\n\n', b'\nMotonaga, Keitarou\n\nDirector\n\n', b'\nEbina, Yasunori\n\nSound Director\n\n', b'\nKobayashi, Kouji\n\nEpisode Director\n\n']
+animePopularity	569
+animeDescription	"Brought up in a conflict-ridden environment, child soldier Jonathan ""Jonah"" Mar hates weapons and those who deal them. But when Koko Hekmatyar, an international arms dealer, takes on Jonah as one of her bodyguards, he has little choice but to take up arms. Along with Koko's other bodyguards, composed mostly of former special-ops soldiers, Jonah is now tasked with protecting Koko and her overly idealistic goal of world peace from the countless dangers that come from her line of work.
+
+Jormungand follows Koko, Jonah, and the rest of crew as they travel the world selling weapons under the international shipping company HCLI. As Koko's work is illegal under international law, she is forced to constantly sidestep both local and international authorities while doing business with armies, private militaries, and militias. With the CIA always hot on her trail, and assassins around every corner, Jonah and the crew must guard Koko and her dream of world peace with their lives or die trying.
+
+[Written by MAL Rewrite]"
+animeRelated	['Jormungand', 'Jormungand: Perfect Order', 'Jormungand: Perfect Order Recap']
+animeCharacters	['Hekmatyar, Koko', 'Mar, Jonathan', 'Valmer, Sofia', 'Brick, Lehm', 'Chiquita', 'Hekmatyar, Kasper', 'Schokolade', 'Lutz', 'Nelson, William', 'Chinatsu']
+animeVoices	['Itou, Shizuka', 'Tamura, Mutsumi', 'Ohara, Sayaka', 'Ishizuka, Unshou', 'Touma, Yumi', 'Matsukaze, Masaya', 'Koshimizu, Ami', 'Hatano, Wataru', 'Nomura, Kenji', 'Kanda, Akemi']
+animeStaff	[['Iwasa, Gaku', 'Producer'], ['Motonaga, Keitarou', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Kobayashi, Kouji', 'Episode Director']]

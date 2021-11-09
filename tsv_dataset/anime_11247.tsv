@@ -1,5 +1,5 @@
-animeTitle	b'Choujigen Kakumei Anime: Dimension High School'
-animeType	b'TV'
+animeTitle	Choujigen Kakumei Anime: Dimension High School
+animeType	TV
 animeNumEpisode	11
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.13
 animeUsers	1625
 animeRank	
-animePopularity	
-animeDescription	b'The high school boys transferred to an anime world while they are in cramming school. Since then, they start school life in the anime world they transferred in. \n\n(Source: MAL News)'
+animePopularity	5578
+animeDescription	"The high school boys transferred to an anime world while they are in cramming school. Since then, they start school life in the anime world they transferred in. 
+
+(Source: MAL News)"
 animeRelated	[]
-animeCharacters	[b'Mizukami, Yurio', b'Momoya, Soushi', b'Kikawada, Tsuyoshi', b'Shiroyama, Junpei', b'Midorigaoka, Ryuusei', b'Paramesos, Sphinx', b'Spudio the 22nd', b'Jigen no Shisha']
-animeVoices	[b'\nHashimoto, Shouhei\nJapanese\n', b'\nSomeya, Toshiyuki\nJapanese\n', b'\nZaiki, Takuma\nJapanese\n', b'\nIshii, Takahide\nJapanese\n', b'\nOotsuka, Takeo\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nEguchi, Takuya\nJapanese\n', b'\nAoi, Shouta\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAbe, Yuuichi\n\nDirector, Script\n\n', b'\nOotsuka, Takeo\n\nTheme Song Performance\n\n', b'\nHashimoto, Shouhei\n\nTheme Song Performance\n\n', b'\nZaiki, Takuma\n\nTheme Song Performance\n\n']
+animeCharacters	['Mizukami, Yurio', 'Momoya, Soushi', 'Kikawada, Tsuyoshi', 'Shiroyama, Junpei', 'Midorigaoka, Ryuusei', 'Paramesos, Sphinx', 'Spudio the 22nd', 'Jigen no Shisha']
+animeVoices	['Hashimoto, Shouhei', 'Someya, Toshiyuki', 'Zaiki, Takuma', 'Ishii, Takahide', 'Ootsuka, Takeo', 'Suwabe, Junichi', 'Eguchi, Takuya', 'Aoi, Shouta']
+animeStaff	[['Abe, Yuuichi', 'Director, Script'], ['Ootsuka, Takeo', 'Theme Song Performance'], ['Hashimoto, Shouhei', 'Theme Song Performance'], ['Zaiki, Takuma', 'Theme Song Performance']]

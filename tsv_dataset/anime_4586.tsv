@@ -1,5 +1,5 @@
-animeTitle	b'Chikyuu Shoujo Arjuna'
-animeType	b'TV'
+animeTitle	Chikyuu Shoujo Arjuna
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,14 @@ animeNumMembers
 animeScore	6.81
 animeUsers	9710
 animeRank	
-animePopularity	
-animeDescription	"b""Juna Ariyoshi is an ordinary Japanese schoolgirl, who possesses a childlike curiosity and a strong admiration toward nature. One day, while on a trip with her boyfriend, Tokio Oshima, Juna dies from a motorcycle accident. However, she is given a chance to live by an individual named Chris Hawken. He offers her powers that make her the avatar of time; in exchange, she must fight to protect the Earth from evil forces called raaja, which are born out of the toxic pollution human beings have caused. \n\nShe soon discovers that this is no easy task. While trying to master her newfound powers, she must also seek answers to deep questions about the ways science and technology have taken away humans' primal and instinctive connections with nature. With the help of Chris, his assistant Cindy Klein, and a powerful international organization named SEED, it is up to Juna to overcome her fears and find a way to stop the raaja from destroying everyone and everything she cares for.\n\n[Written by MAL Rewrite]\n"""
+animePopularity	3422
+animeDescription	"Juna Ariyoshi is an ordinary Japanese schoolgirl, who possesses a childlike curiosity and a strong admiration toward nature. One day, while on a trip with her boyfriend, Tokio Oshima, Juna dies from a motorcycle accident. However, she is given a chance to live by an individual named Chris Hawken. He offers her powers that make her the avatar of time; in exchange, she must fight to protect the Earth from evil forces called raaja, which are born out of the toxic pollution human beings have caused. 
+
+She soon discovers that this is no easy task. While trying to master her newfound powers, she must also seek answers to deep questions about the ways science and technology have taken away humans' primal and instinctive connections with nature. With the help of Chris, his assistant Cindy Klein, and a powerful international organization named SEED, it is up to Juna to overcome her fears and find a way to stop the raaja from destroying everyone and everything she cares for.
+
+[Written by MAL Rewrite]
+"
 animeRelated	[]
-animeCharacters	[b'Ariyoshi, Juna', b'Hawken, Chris', b'Klein, Cindy', b'Oshima, Tokio', b'Sakurai-sensei', b'Wong, Teresa', b'Shirakawa, Sayuri']
-animeVoices	[b'\nHigashiyama, Mami\nJapanese\n', b'\nUeda, Yuuji\nJapanese\n', b'\nShintani, Mayumi\nJapanese\n', b'\nSeki, Tomokazu\nJapanese\n', b'\nSoumi, Youko\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nSasaki, Shirou\n\nProducer\n\n', b'\nKawamori, Shouji\n\nDirector, Script, Storyboard, Planning, Series Composition, Original Creator\n\n', b'\nMima, Masafumi\n\nSound Director\n\n', b'\nOomori, Takahiro\n\nEpisode Director\n\n']
+animeCharacters	['Ariyoshi, Juna', 'Hawken, Chris', 'Klein, Cindy', 'Oshima, Tokio', 'Sakurai-sensei', 'Wong, Teresa', 'Shirakawa, Sayuri']
+animeVoices	['Higashiyama, Mami', 'Ueda, Yuuji', 'Shintani, Mayumi', 'Seki, Tomokazu', 'Soumi, Youko', 'Hisakawa, Aya']
+animeStaff	[['Sasaki, Shirou', 'Producer'], ['Kawamori, Shouji', 'Director, Script, Storyboard, Planning, Series Composition, Original Creator'], ['Mima, Masafumi', 'Sound Director'], ['Oomori, Takahiro', 'Episode Director']]

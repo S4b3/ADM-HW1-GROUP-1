@@ -1,5 +1,5 @@
-animeTitle	b'Gekka Bijin'
-animeType	b'OVA'
+animeTitle	Gekka Bijin
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.09
 animeUsers	955
 animeRank	
-animePopularity	
-animeDescription	b'The mistress of a boarding house entertains her new tenant in exciting fashion. Full of naughty games, submission and outrageous sex scenes.\n\n(Source: AniDB)'
+animePopularity	8519
+animeDescription	"The mistress of a boarding house entertains her new tenant in exciting fashion. Full of naughty games, submission and outrageous sex scenes.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Itou, Seiichi', b'Itou, Kiriko', b'Souun, Chinen']
-animeVoices	[b'\nWakamoto, Norio\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOkesawa, Hisashi\n\nDirector\n\n', b'\nMizuno, Kazunori\n\nDirector\n\n', b'\nNozaki, Hiroki\n\nSound Effects\n\n', b'\nYoshiki, Masayuki\n\nKey Animation\n\n']
+animeCharacters	['Itou, Seiichi', 'Itou, Kiriko', 'Souun, Chinen']
+animeVoices	['Wakamoto, Norio']
+animeStaff	[['Okesawa, Hisashi', 'Director'], ['Mizuno, Kazunori', 'Director'], ['Nozaki, Hiroki', 'Sound Effects'], ['Yoshiki, Masayuki', 'Key Animation']]

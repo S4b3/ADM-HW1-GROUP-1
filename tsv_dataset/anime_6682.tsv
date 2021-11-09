@@ -1,5 +1,5 @@
-animeTitle	b'Kick-Heart'
-animeType	b'Movie'
+animeTitle	Kick-Heart
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.4
 animeUsers	9672
 animeRank	
-animePopularity	
-animeDescription	b'By day, Romeo Maki is a respectable man who loves bringing gifts to the local orphanage, and Juliet is a newly employed nun working at said orphanage. However, by night, they are Masked Man M and Lady S, popular professional wrestlers. Kick-Heart tells the story of what happens when this dynamic pair meet in the ring, the only place where they can express their hidden desires.\n\n[Written by MAL Rewrite]'
+animePopularity	4185
+animeDescription	"By day, Romeo Maki is a respectable man who loves bringing gifts to the local orphanage, and Juliet is a newly employed nun working at said orphanage. However, by night, they are Masked Man M and Lady S, popular professional wrestlers. Kick-Heart tells the story of what happens when this dynamic pair meet in the ring, the only place where they can express their hidden desires.
+
+[Written by MAL Rewrite]"
 animeRelated	[]
-animeCharacters	[b'Juliet', b'Maki, Romeo', b'Devil Chicken', b'Vacuum Fat', b'Sister', b'Boss', b'Father']
-animeVoices	[b'\nHonda, Takako\nJapanese\n', b'\nSuzuki, Tatsuhisa\nJapanese\n', b'\nMatsumoto, Shinobu\nJapanese\n', b'\nSatou, Miyuki\nJapanese\n', b'\nNitta, Makiko\nJapanese\n', b'\nKanuka, Mitsuaki\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nOshii, Mamoru\n\nProducer\n\n', b'\nLeach, Justin\n\nProducer\n\n', b'\nYuasa, Masaaki\n\nDirector, Key Animation\n\n', b'\nEpcar, Richard\n\nADR Director\n\n']
+animeCharacters	['Juliet', 'Maki, Romeo', 'Devil Chicken', 'Vacuum Fat', 'Sister', 'Boss', 'Father']
+animeVoices	['Honda, Takako', 'Suzuki, Tatsuhisa', 'Matsumoto, Shinobu', 'Satou, Miyuki', 'Nitta, Makiko', 'Kanuka, Mitsuaki', 'Takagi, Wataru']
+animeStaff	[['Oshii, Mamoru', 'Producer'], ['Leach, Justin', 'Producer'], ['Yuasa, Masaaki', 'Director, Key Animation'], ['Epcar, Richard', 'ADR Director']]

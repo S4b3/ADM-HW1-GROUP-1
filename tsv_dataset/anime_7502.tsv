@@ -1,5 +1,5 @@
-animeTitle	b'Sinbad: Mahou no Lamp to Ugoku Shima'
-animeType	b'Movie'
+animeTitle	Sinbad: Mahou no Lamp to Ugoku Shima
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.24
 animeUsers	371
 animeRank	
-animePopularity	
-animeDescription	b'Sinbad and his friends run afoul of a storm while riding on the ship Bahal. Ali sights an island, which the ship heads toward to make repairs. Sinbad and Sana board a dinghy and land on the island. Sana sees a vision of a magical lamp, and Sinbad and the others set out to find it.\n\n(Source: ANN)'
-animeRelated	[b'Sinbad: Soratobu Hime to Himitsu no Shima', b'Sinbad: Mahiru no Yoru to Fushigi no Mon']
-animeCharacters	[b'Sana', b'Sinbad', b'Dal', b'Galip', b'Najib', b'Razak', b'Ali']
-animeVoices	[b'\nTanabe, Momoko\nJapanese\n', b'\nMuranaka, Tomo\nJapanese\n', b'\nAoyama, Yutaka\nJapanese\n', b'\nIshida, Akira\nJapanese\n', b'\nMiyazawa, Tadashi\nJapanese\n', b'\nKaga, Takeshi\nJapanese\n', b'\nNagasawa, Nao\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMiyashita, Shinpei\n\nDirector\n\n', b'\nHayafune, Kaeko\n\nScript\n\n', b'\nSatou, Yoshiharu\n\nCharacter Design, Chief Animation Director\n\n', b'\nKawasaki, Hiroyuki\n\nSeries Composition\n\n']
+animePopularity	10211
+animeDescription	"Sinbad and his friends run afoul of a storm while riding on the ship Bahal. Ali sights an island, which the ship heads toward to make repairs. Sinbad and Sana board a dinghy and land on the island. Sana sees a vision of a magical lamp, and Sinbad and the others set out to find it.
+
+(Source: ANN)"
+animeRelated	['Sinbad: Soratobu Hime to Himitsu no Shima', 'Sinbad: Mahiru no Yoru to Fushigi no Mon']
+animeCharacters	['Sana', 'Sinbad', 'Dal', 'Galip', 'Najib', 'Razak', 'Ali']
+animeVoices	['Tanabe, Momoko', 'Muranaka, Tomo', 'Aoyama, Yutaka', 'Ishida, Akira', 'Miyazawa, Tadashi', 'Kaga, Takeshi', 'Nagasawa, Nao']
+animeStaff	[['Miyashita, Shinpei', 'Director'], ['Hayafune, Kaeko', 'Script'], ['Satou, Yoshiharu', 'Character Design, Chief Animation Director'], ['Kawasaki, Hiroyuki', 'Series Composition']]

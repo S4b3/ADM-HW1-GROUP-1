@@ -1,5 +1,5 @@
-animeTitle	b'Digimon Universe: Appli Monsters'
-animeType	b'TV'
+animeTitle	Digimon Universe: Appli Monsters
+animeType	TV
 animeNumEpisode	52
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.57
 animeUsers	3770
 animeRank	
-animePopularity	
-animeDescription	"b'Everyone in the world uses smartphone apps. But inside them lurks unknown creatures called ""Appli Monsters,"" or ""Appmon."" The Appmon are AI lifeforms with the ability to think and act, and exist in the boundary between the human world and digital space. In the vast sea of the internet, the ""last boss AI"" Leviathan takes control of the Appmon with a virus and begins hacking every system, thus starting to control the human world from the world of the net. Haru Shinkai is led to acquire the Appli Drive, and uses it to materialize Gatchmon, a search app monster.\n\n(Source: ANN)'"
-animeRelated	[b'Digimon Universe: Appli Monsters', b'Digimon Adventure']
-animeCharacters	[b'Karan, Eri', b'Shinkai, Haru', b'Katsura, Rei', b'Gatchmon', b'Dokamon', b'Asuka, Torajirou', b'Hackmon', b'Musimon', b'Agumon', b'Oozora, Yuujin']
-animeVoices	[b'\nShouji, Umeka\nJapanese\n', b'\nUchiyama, Yumi\nJapanese\n', b'\nToyonaga, Toshiyuki\nJapanese\n', b'\nKikuchi, Kokoro\nJapanese\n', b'\nKumai, Motoko\nJapanese\n', b'\nKokido, Shiho\nJapanese\n', b'\nSakaguchi, Daisuke\nJapanese\n', b'\nTamura, Nao\nJapanese\n', b'\nSakamoto, Chika\nJapanese\n', b'\nFurukawa, Makoto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nYanagawa, Akari\n\nAssistant Producer\n\n', b'\nKoga, Gou\n\nDirector\n\n', b'\nTanaka, Yuuta\n\nEpisode Director, Storyboard\n\n', b'\nIida, Riho\n\nTheme Song Performance\n\n']
+animePopularity	4877
+animeDescription	"Everyone in the world uses smartphone apps. But inside them lurks unknown creatures called ""Appli Monsters,"" or ""Appmon."" The Appmon are AI lifeforms with the ability to think and act, and exist in the boundary between the human world and digital space. In the vast sea of the internet, the ""last boss AI"" Leviathan takes control of the Appmon with a virus and begins hacking every system, thus starting to control the human world from the world of the net. Haru Shinkai is led to acquire the Appli Drive, and uses it to materialize Gatchmon, a search app monster.
+
+(Source: ANN)"
+animeRelated	['Digimon Universe: Appli Monsters', 'Digimon Adventure']
+animeCharacters	['Karan, Eri', 'Shinkai, Haru', 'Katsura, Rei', 'Gatchmon', 'Dokamon', 'Asuka, Torajirou', 'Hackmon', 'Musimon', 'Agumon', 'Oozora, Yuujin']
+animeVoices	['Shouji, Umeka', 'Uchiyama, Yumi', 'Toyonaga, Toshiyuki', 'Kikuchi, Kokoro', 'Kumai, Motoko', 'Kokido, Shiho', 'Sakaguchi, Daisuke', 'Tamura, Nao', 'Sakamoto, Chika', 'Furukawa, Makoto']
+animeStaff	[['Yanagawa, Akari', 'Assistant Producer'], ['Koga, Gou', 'Director'], ['Tanaka, Yuuta', 'Episode Director, Storyboard'], ['Iida, Riho', 'Theme Song Performance']]

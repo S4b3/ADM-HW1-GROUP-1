@@ -1,5 +1,5 @@
-animeTitle	b'City Hunter 3'
-animeType	b'TV'
+animeTitle	City Hunter 3
+animeType	TV
 animeNumEpisode	13
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.81
 animeUsers	7327
 animeRank	
-animePopularity	
-animeDescription	"b'Ryo Saeba is a ""sweeper"" know as the City Hunter. He and his sidekick Kaori Makimura are hired to solve problems that the police can\'t (or won\'t) handle. When he\'s not keeping the streets of Tokyo clean, Ryo is chasing the ladies, and Kaori chases after him with a giant anti-ecchi hammer. \n\n(Source: ANN)'"
-animeRelated	"[b'City Hunter', b'City Hunter 2', b""City Hunter '91"", b'City Hunter: Bay City Wars', b'City Hunter: Hyakuman Dollar no Inbou']"
-animeCharacters	[b'Saeba, Ryou', b'Makimura, Kaori', b'Nogami, Saeko', b'Ijuuin, Hayato', b'Makimura, Hideyuki', b'Asou, Kasumi', b'Sakurai', b'Nogami, Reika', b'Moriwaki, Misuzu', b'Miki']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nIkura, Kazue\nJapanese\n', b'\nIchiryuusai, Harumi\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nTominaga, Miina\nJapanese\n', b'\nTaguchi, Takashi\nJapanese\n', b'\nTakamori, Yoshino\nJapanese\n', b'\nHayashibara, Megumi\nJapanese\n', b'\nKoyama, Mami\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nKodama, Kenji\n\nDirector\n\n', b'\nKobayashi, Katsuyoshi\n\nSound Director\n\n', b'\nEgami, Kiyoshi\n\nEpisode Director, Storyboard\n\n', b'\nImanishi, Takashi\n\nEpisode Director, Script, Storyboard\n\n']
+animePopularity	4275
+animeDescription	"Ryo Saeba is a ""sweeper"" know as the City Hunter. He and his sidekick Kaori Makimura are hired to solve problems that the police can't (or won't) handle. When he's not keeping the streets of Tokyo clean, Ryo is chasing the ladies, and Kaori chases after him with a giant anti-ecchi hammer. 
+
+(Source: ANN)"
+animeRelated	"['City Hunter', 'City Hunter 2', ""City Hunter '91"", 'City Hunter: Bay City Wars', 'City Hunter: Hyakuman Dollar no Inbou']"
+animeCharacters	['Saeba, Ryou', 'Makimura, Kaori', 'Nogami, Saeko', 'Ijuuin, Hayato', 'Makimura, Hideyuki', 'Asou, Kasumi', 'Sakurai', 'Nogami, Reika', 'Moriwaki, Misuzu', 'Miki']
+animeVoices	['Kamiya, Akira', 'Ikura, Kazue', 'Ichiryuusai, Harumi', 'Genda, Tesshou', 'Tominaga, Miina', 'Taguchi, Takashi', 'Takamori, Yoshino', 'Hayashibara, Megumi', 'Koyama, Mami']
+animeStaff	[['Kodama, Kenji', 'Director'], ['Kobayashi, Katsuyoshi', 'Sound Director'], ['Egami, Kiyoshi', 'Episode Director, Storyboard'], ['Imanishi, Takashi', 'Episode Director, Script, Storyboard']]

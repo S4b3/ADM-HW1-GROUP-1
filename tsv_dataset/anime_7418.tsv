@@ -1,5 +1,5 @@
-animeTitle	b'Ozanari Dungeon: Kaze no Tou'
-animeType	b'OVA'
+animeTitle	Ozanari Dungeon: Kaze no Tou
+animeType	OVA
 animeNumEpisode	3
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.25
 animeUsers	530
 animeRank	
-animePopularity	
-animeDescription	"b""The king of the Tower of Wind seeks the power of the legendary Dragon's Head, and employs the fighter Moka, the thief Buruman, and the magic user Kiriman to steal it for him. But the Dragon's Head is sealed in the Temple of Fire, and to capture it Moka will have to face the sect that has protected it generation after generation!\n\n(Source: AniDB)"""
-animeRelated	[b'Ozanari Dungeon']
-animeCharacters	[b'Moka', b'Morrow', b'Buruman', b'Logos', b'Henchman', b'Guard', b'Folon', b'Bina', b'Gazelle', b'Kiriman']
-animeVoices	[b'\nIchiryuusai, Teiyuu\nJapanese\n', b'\nOotaki, Shinya\nJapanese\n', b'\nTonguu, Kyouko\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nOno, Kenichi\nJapanese\n', b'\nTakagi, Wataru\nJapanese\n', b'\nMizutori, Tetsuo\nJapanese\n', b'\nTokumaru, Kan\nJapanese\n', b'\nKoyama, Motoo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAoyama, Hiroshi\n\nDirector, Storyboard\n\n', b'\nSonoda, Hideki\n\nScript\n\n', b'\nShimo, Fumihiko\n\nScreenplay\n\n', b'\nAoyama, Hiroyuki\n\nKey Animation\n\n']
+animePopularity	10022
+animeDescription	"The king of the Tower of Wind seeks the power of the legendary Dragon's Head, and employs the fighter Moka, the thief Buruman, and the magic user Kiriman to steal it for him. But the Dragon's Head is sealed in the Temple of Fire, and to capture it Moka will have to face the sect that has protected it generation after generation!
+
+(Source: AniDB)"
+animeRelated	['Ozanari Dungeon']
+animeCharacters	['Moka', 'Morrow', 'Buruman', 'Logos', 'Henchman', 'Guard', 'Folon', 'Bina', 'Gazelle', 'Kiriman']
+animeVoices	['Ichiryuusai, Teiyuu', 'Ootaki, Shinya', 'Tonguu, Kyouko', 'Gouri, Daisuke', 'Ono, Kenichi', 'Takagi, Wataru', 'Mizutori, Tetsuo', 'Tokumaru, Kan', 'Koyama, Motoo']
+animeStaff	[['Aoyama, Hiroshi', 'Director, Storyboard'], ['Sonoda, Hideki', 'Script'], ['Shimo, Fumihiko', 'Screenplay'], ['Aoyama, Hiroyuki', 'Key Animation']]

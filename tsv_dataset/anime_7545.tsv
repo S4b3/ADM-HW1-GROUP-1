@@ -1,5 +1,5 @@
-animeTitle	b'Boku no Boukuugou'
-animeType	b'Special'
+animeTitle	Boku no Boukuugou
+animeType	Special
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,12 @@ animeNumMembers
 animeScore	6.23
 animeUsers	135
 animeRank	
-animePopularity	
-animeDescription	"b""The fourth film in Shin-Ei's series of annual WWII themed anime television movies for children Sensou Douwa (war story).\n\n(Source: AniDB)\n"""
-animeRelated	[b'Kiku-chan to Ookami', b'Futatsu no Kurumi', b'Aoi Hitomi no Onnanoko no Ohanashi', b'Yakeato no, Okashi no Ki', b'Umigame to Shounen', b'Tako ni Natta Okaasan', b'Chiisai Sensuikan ni Koi wo Shita Dekasugiru Kujira no Hanashi']
-animeCharacters	"[b'Town Chairman', b'Kasamatsu, Tomoko', b""Tomoko's Brother"", b'Grandmother', b'Yuu-chan', b'Radio Announcer', b'Narrator', b'Kasamatsu, Yuusuke']"
-animeVoices	[b'\nKamei, Saburou\nJapanese\n', b'\nHisakawa, Aya\nJapanese\n', b'\nNakamura, Daiki\nJapanese\n', b'\nSatou, Chie\nJapanese\n', b'\nOokubo, Shoutaro\nJapanese\n', b'\nOota, Shinichirou\nJapanese\n', b'\nOrikasa, Ai\nJapanese\n', b'\nKiyokawa, Motomu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTakeuchi, Yoshio\n\nDirector, Storyboard, Screenplay\n\n', b'\nOokuma, Akira\n\nSound Director\n\n', b'\nMasuda, Toshihiko\n\nKey Animation\n\n', b'\nSeki, Shuuichi\n\nCharacter Design\n\n']
+animePopularity	12445
+animeDescription	"The fourth film in Shin-Ei's series of annual WWII themed anime television movies for children Sensou Douwa (war story).
+
+(Source: AniDB)
+"
+animeRelated	['Kiku-chan to Ookami', 'Futatsu no Kurumi', 'Aoi Hitomi no Onnanoko no Ohanashi', 'Yakeato no, Okashi no Ki', 'Umigame to Shounen', 'Tako ni Natta Okaasan', 'Chiisai Sensuikan ni Koi wo Shita Dekasugiru Kujira no Hanashi']
+animeCharacters	"['Town Chairman', 'Kasamatsu, Tomoko', ""Tomoko's Brother"", 'Grandmother', 'Yuu-chan', 'Radio Announcer', 'Narrator', 'Kasamatsu, Yuusuke']"
+animeVoices	['Kamei, Saburou', 'Hisakawa, Aya', 'Nakamura, Daiki', 'Satou, Chie', 'Ookubo, Shoutaro', 'Oota, Shinichirou', 'Orikasa, Ai', 'Kiyokawa, Motomu']
+animeStaff	[['Takeuchi, Yoshio', 'Director, Storyboard, Screenplay'], ['Ookuma, Akira', 'Sound Director'], ['Masuda, Toshihiko', 'Key Animation'], ['Seki, Shuuichi', 'Character Design']]

@@ -1,5 +1,5 @@
-animeTitle	b'Gokujou Seitokai'
-animeType	b'TV'
+animeTitle	Gokujou Seitokai
+animeType	TV
 animeNumEpisode	26
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.93
 animeUsers	5719
 animeRank	
-animePopularity	
-animeDescription	"b""Randou Rino is a young girl with a head full of air and a talking puppet on her hand. She is accepted into the illustrious Gokujou all-girl's school, and is summarily, almost curiously, accepted as part of the even more illustrious Gokujou Student Council, who has more power and business ventures than most large businesses. Now a part of the student council, she befriends the talented members of the Gokujou Student Council, leaving one to wonder how a girl with seemingly no talents or redeeming qualities would get chosen for such a group. \n\n(Source: ANN)"""
-animeRelated	[b'Gokujou Seitokai']
-animeCharacters	[b'Rando, Rino', b'Pu-chan', b'Jinguji, Kanade', b'Ginga, Kuon', b'Kinjo, Nanaho', b'Manabe, Cyndi', b'Izumi, Kaori', b'Katsura, Seina', b'Ichikawa, Mayura', b'Hida, Sayuri']
-animeVoices	[b'\nTamura, Yukari\nJapanese\n', b'\nNabatame, Hitomi\nJapanese\n', b'\nShimizu, Kaori\nJapanese\n', b'\nNoda, Junko\nJapanese\n', b'\nKawakami, Tomoko\nJapanese\n', b'\nSaitou, Chiwa\nJapanese\n', b'\nSakuma, Kumi\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKawasumi, Ayako\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChung, Jin Ho\n\nProducer\n\n', b'\nWatanabe, Kazuya\n\nProducer\n\n', b'\nIwasaki, Yoshiaki\n\nDirector, Storyboard\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n']
+animePopularity	4201
+animeDescription	"Randou Rino is a young girl with a head full of air and a talking puppet on her hand. She is accepted into the illustrious Gokujou all-girl's school, and is summarily, almost curiously, accepted as part of the even more illustrious Gokujou Student Council, who has more power and business ventures than most large businesses. Now a part of the student council, she befriends the talented members of the Gokujou Student Council, leaving one to wonder how a girl with seemingly no talents or redeeming qualities would get chosen for such a group. 
+
+(Source: ANN)"
+animeRelated	['Gokujou Seitokai']
+animeCharacters	['Rando, Rino', 'Pu-chan', 'Jinguji, Kanade', 'Ginga, Kuon', 'Kinjo, Nanaho', 'Manabe, Cyndi', 'Izumi, Kaori', 'Katsura, Seina', 'Ichikawa, Mayura', 'Hida, Sayuri']
+animeVoices	['Tamura, Yukari', 'Nabatame, Hitomi', 'Shimizu, Kaori', 'Noda, Junko', 'Kawakami, Tomoko', 'Saitou, Chiwa', 'Sakuma, Kumi', 'Sawashiro, Miyuki', 'Kawasumi, Ayako']
+animeStaff	[['Chung, Jin Ho', 'Producer'], ['Watanabe, Kazuya', 'Producer'], ['Iwasaki, Yoshiaki', 'Director, Storyboard'], ['Aketagawa, Jin', 'Sound Director']]

@@ -1,5 +1,5 @@
-animeTitle	b'Major: Message'
-animeType	b'OVA'
+animeTitle	Major: Message
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	8.18
 animeUsers	15638
 animeRank	
-animePopularity	
-animeDescription	"b""Thirteen years after achieving major success with the Indiana Hornets, Gorou Honda's career as a pitcher ended abruptly after sustaining a horrible injury. Inspired by his father, who continued playing baseball despite major setbacks, Gorou plans to restart his baseball career and play in a new position. However, his strong dedication to train has puzzled his family, especially his young daughter Izumi, who is frustrated with the absence of her father from her lives. Faced by another tough obstacle, Gorou once again decides to prove his resolve through his beloved sport.\n\n[Written by MAL Rewrite]"""
-animeRelated	[b'Major', b'Major: World Series', b'Major 2nd (TV)']
-animeCharacters	[b'Honda, Gorou', b'Shimizu, Kaoru', b'Shigeno, Daigo', b'Shigeno, Izumi', b'Satou, Toshiya', b'Shimizu, Taiga', b'Honda, Shigeharu', b'Hoshino, Momoko', b'Komori, Daisuke', b'Shigeno, Hideki']
-animeVoices	[b'\nMorikubo, Shoutarou\nJapanese\n', b'\nSasamoto, Yuuko\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nKumai, Motoko\nJapanese\n', b'\nMorita, Masakazu\nJapanese\n', b'\nPark, Romi\nJapanese\n', b'\nKoyasu, Takehito\nJapanese\n', b'\nNoda, Junko\nJapanese\n', b'\nMiyata, Kouki\nJapanese\n', b'\nSakuya, Shunsuke\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nFukushima, Toshinori\n\nDirector, Episode Director, Storyboard\n\n', b'\nMorikubo, Shoutarou\n\nTheme Song Performance\n\n', b'\nMitsuda, Takuya\n\nOriginal Creator\n\n', b'\nOonuki, Kenichi\n\nChief Animation Director, Character Design\n\n']
+animePopularity	3466
+animeDescription	"Thirteen years after achieving major success with the Indiana Hornets, Gorou Honda's career as a pitcher ended abruptly after sustaining a horrible injury. Inspired by his father, who continued playing baseball despite major setbacks, Gorou plans to restart his baseball career and play in a new position. However, his strong dedication to train has puzzled his family, especially his young daughter Izumi, who is frustrated with the absence of her father from her lives. Faced by another tough obstacle, Gorou once again decides to prove his resolve through his beloved sport.
+
+[Written by MAL Rewrite]"
+animeRelated	['Major', 'Major: World Series', 'Major 2nd (TV)']
+animeCharacters	['Honda, Gorou', 'Shimizu, Kaoru', 'Shigeno, Daigo', 'Shigeno, Izumi', 'Satou, Toshiya', 'Shimizu, Taiga', 'Honda, Shigeharu', 'Hoshino, Momoko', 'Komori, Daisuke', 'Shigeno, Hideki']
+animeVoices	['Morikubo, Shoutarou', 'Sasamoto, Yuuko', 'Sawashiro, Miyuki', 'Kumai, Motoko', 'Morita, Masakazu', 'Park, Romi', 'Koyasu, Takehito', 'Noda, Junko', 'Miyata, Kouki', 'Sakuya, Shunsuke']
+animeStaff	[['Fukushima, Toshinori', 'Director, Episode Director, Storyboard'], ['Morikubo, Shoutarou', 'Theme Song Performance'], ['Mitsuda, Takuya', 'Original Creator'], ['Oonuki, Kenichi', 'Chief Animation Director, Character Design']]

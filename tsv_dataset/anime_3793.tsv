@@ -1,5 +1,5 @@
-animeTitle	b'Appleseed Alpha'
-animeType	b'Movie'
+animeTitle	Appleseed Alpha
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,15 @@ animeNumMembers
 animeScore	7.0
 animeUsers	8496
 animeRank	
-animePopularity	
-animeDescription	b'Set in a different series of events, this story does not follow the previous Appleseed movie canon (despite being directed by the same director of the previous movies); it is an alternate story to their beginnings. Briareos is already a cyborg and did not become separated from Deunan to be later reunited in Olympus to join ESWAT.\n\nAppleseed Alpha depicts the early days of Deunan Knute and Briareos in the 22nd century, as they embark on a journey throughout dystopic ruins of New York in search of the city of Olympus. They are hired by Two Horns, the warlord of the ruined city, to eliminate bipedal combat machines. During the fight, they encounter Iris and Olson, both on a mission. Deunan and Briareos befriend them and decide to join their mission.\n\nIris is tasked with preventing the malevolent cyborg Talos from capturing a secret weapon humans were building. Talos uses Iris to activate the gigantic war machine.\n\n(Source: Wikipedia)'
-animeRelated	[b'Appleseed \xce\xb1', b'Appleseed (Movie)', b'Appleseed']
-animeCharacters	[b'Knute, Deunan', b'Briareos', b'Hitomi', b'Two Horns', b'Iris', b'Talos', b'Nyx', b'Matthews', b'Olson']
-animeVoices	[b'\nKomatsu, Yuka\nJapanese\n', b'\nSuwabe, Junichi\nJapanese\n', b'\nGenda, Tesshou\nJapanese\n', b'\nYuuki, Aoi\nJapanese\n', b'\nTouchi, Hiroki\nJapanese\n', b'\nNazuka, Kaori\nJapanese\n', b'\nHori, Katsunosuke\nJapanese\n', b'\nTakahashi, Hiroki\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nChou, Joseph\n\nProducer\n\n', b'\nAramaki, Shinji\n\nDirector\n\n', b'\nKrawczyk, Marianne\n\nScript\n\n', b'\nShirow, Masamune\n\nOriginal Creator\n\n']
+animePopularity	4346
+animeDescription	"Set in a different series of events, this story does not follow the previous Appleseed movie canon (despite being directed by the same director of the previous movies); it is an alternate story to their beginnings. Briareos is already a cyborg and did not become separated from Deunan to be later reunited in Olympus to join ESWAT.
+
+Appleseed Alpha depicts the early days of Deunan Knute and Briareos in the 22nd century, as they embark on a journey throughout dystopic ruins of New York in search of the city of Olympus. They are hired by Two Horns, the warlord of the ruined city, to eliminate bipedal combat machines. During the fight, they encounter Iris and Olson, both on a mission. Deunan and Briareos befriend them and decide to join their mission.
+
+Iris is tasked with preventing the malevolent cyborg Talos from capturing a secret weapon humans were building. Talos uses Iris to activate the gigantic war machine.
+
+(Source: Wikipedia)"
+animeRelated	['Appleseed α', 'Appleseed (Movie)', 'Appleseed']
+animeCharacters	['Knute, Deunan', 'Briareos', 'Hitomi', 'Two Horns', 'Iris', 'Talos', 'Nyx', 'Matthews', 'Olson']
+animeVoices	['Komatsu, Yuka', 'Suwabe, Junichi', 'Genda, Tesshou', 'Yuuki, Aoi', 'Touchi, Hiroki', 'Nazuka, Kaori', 'Hori, Katsunosuke', 'Takahashi, Hiroki']
+animeStaff	[['Chou, Joseph', 'Producer'], ['Aramaki, Shinji', 'Director'], ['Krawczyk, Marianne', 'Script'], ['Shirow, Masamune', 'Original Creator']]

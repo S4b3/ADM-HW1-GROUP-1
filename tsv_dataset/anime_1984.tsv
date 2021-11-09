@@ -1,5 +1,5 @@
-animeTitle	b'Senryuu Shoujo'
-animeType	b'TV'
+animeTitle	Senryuu Shoujo
+animeType	TV
 animeNumEpisode	12
 releaseDate	
 endDate	
@@ -7,9 +7,16 @@ animeNumMembers
 animeScore	7.4
 animeUsers	63135
 animeRank	
-animePopularity	
-animeDescription	"b""To the students of Karai High School, Nanako Yukishiro is a pretty, calm, and cute 16-year-old. However, Nanako is no ordinary girl, as she cannot speak! Instead, Nanako communicates through senryuu\xe2\x80\x9417-syllable-long poems. \n\nSixteen-year-old Eiji Busujima used to be delinquent in his middle school years. However, he has since turned over a new leaf due to his newfound love of senryuu. Despite his menacing looks, Eiji gets along well with Nanako as a fellow member of the Literature Club.\n\nEven though Nanako is mute, the adorable pair have no problem communicating with each other. Senryuu Shoujo is a light and relaxing story of two teenagers' daily lives.\n\n[Written by MAL Rewrite]\n"""
-animeRelated	[b'Senryuu Shoujo']
-animeCharacters	[b'Yukishiro, Nanako', b'Busujima, Eiji', b'Katagiri, Amane', b'Yakobe, Kino', b'Hanakai, Tao', b'Ootsuki, Koto', b'Yukishiro, Yoshihiko', b'Busujima, Akira']
-animeVoices	[b'\nHanazawa, Kana\nJapanese\n', b'\nHatanaka, Tasuku\nJapanese\n', b'\nYahagi, Sayuri\nJapanese\n', b'\nKuno, Misaki\nJapanese\n', b'\nUesaka, Sumire\nJapanese\n', b'\nAida, Rikako\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nJinbo, Masato\n\nDirector, Series Composition\n\n', b'\nTsuchiya, Masaki\n\nSound Director\n\n', b'\nAida, Rikako\n\nTheme Song Performance\n\n', b'\nTateyama, Akiyuki\n\nMusic\n\n']
+animePopularity	1174
+animeDescription	"To the students of Karai High School, Nanako Yukishiro is a pretty, calm, and cute 16-year-old. However, Nanako is no ordinary girl, as she cannot speak! Instead, Nanako communicates through senryuu—17-syllable-long poems. 
+
+Sixteen-year-old Eiji Busujima used to be delinquent in his middle school years. However, he has since turned over a new leaf due to his newfound love of senryuu. Despite his menacing looks, Eiji gets along well with Nanako as a fellow member of the Literature Club.
+
+Even though Nanako is mute, the adorable pair have no problem communicating with each other. Senryuu Shoujo is a light and relaxing story of two teenagers' daily lives.
+
+[Written by MAL Rewrite]
+"
+animeRelated	['Senryuu Shoujo']
+animeCharacters	['Yukishiro, Nanako', 'Busujima, Eiji', 'Katagiri, Amane', 'Yakobe, Kino', 'Hanakai, Tao', 'Ootsuki, Koto', 'Yukishiro, Yoshihiko', 'Busujima, Akira']
+animeVoices	['Hanazawa, Kana', 'Hatanaka, Tasuku', 'Yahagi, Sayuri', 'Kuno, Misaki', 'Uesaka, Sumire', 'Aida, Rikako', 'Iwata, Mitsuo']
+animeStaff	[['Jinbo, Masato', 'Director, Series Composition'], ['Tsuchiya, Masaki', 'Sound Director'], ['Aida, Rikako', 'Theme Song Performance'], ['Tateyama, Akiyuki', 'Music']]

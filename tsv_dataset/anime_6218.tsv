@@ -1,5 +1,5 @@
-animeTitle	b'Chameleon (OVA)'
-animeType	b'OVA'
+animeTitle	Chameleon (OVA)
+animeType	OVA
 animeNumEpisode	6
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.48
 animeUsers	392
 animeRank	
-animePopularity	
-animeDescription	b'The series follows the antics of tenth-grade student Eisaku Yazawa who wants to become a bousouzoku, a motorcycle gang member.'
-animeRelated	[b'Chameleon']
-animeCharacters	[b'Yazawa, Eisaku', b'Kyuu', b'Aizawa, Junna', b'Miyazono, Ranmaru', b'Asaoka, Hikaru', b'Shiina, Yuu', b'Masaaki, Sakamoto', b'Naoki, Aizawa', b'Hisaori, Yoshioka', b'Shiina, Yuuji']
-animeVoices	[b'\nNanba, Keiichi\nJapanese\n', b'\nNakao, Ryusei\nJapanese\n', b'\nHagimori, Junko\nJapanese\n', b'\nKashiwakura, Tsutomu\nJapanese\n', b'\nTominaga, Miina\nJapanese\n', b'\nYamada, Eiko\nJapanese\n', b'\nOota, Shinichirou\nJapanese\n', b'\nOokura, Masaaki\nJapanese\n', b'\nSato, Yuki\nJapanese\n', b'\nShiozawa, Kaneto\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nHashimoto, Mitsuo\n\nDirector, Storyboard\n\n', b'\nMatano, Hiromichi\n\nDirector, Storyboard\n\n', b'\nIshizaki, Susumu\n\nEpisode Director, Storyboard\n\n', b'\nYotsuji, Takao\n\nTheme Song Lyrics\n\n']
+animePopularity	10137
+animeDescription	The series follows the antics of tenth-grade student Eisaku Yazawa who wants to become a bousouzoku, a motorcycle gang member.
+animeRelated	['Chameleon']
+animeCharacters	['Yazawa, Eisaku', 'Kyuu', 'Aizawa, Junna', 'Miyazono, Ranmaru', 'Asaoka, Hikaru', 'Shiina, Yuu', 'Masaaki, Sakamoto', 'Naoki, Aizawa', 'Hisaori, Yoshioka', 'Shiina, Yuuji']
+animeVoices	['Nanba, Keiichi', 'Nakao, Ryusei', 'Hagimori, Junko', 'Kashiwakura, Tsutomu', 'Tominaga, Miina', 'Yamada, Eiko', 'Oota, Shinichirou', 'Ookura, Masaaki', 'Sato, Yuki', 'Shiozawa, Kaneto']
+animeStaff	[['Hashimoto, Mitsuo', 'Director, Storyboard'], ['Matano, Hiromichi', 'Director, Storyboard'], ['Ishizaki, Susumu', 'Episode Director, Storyboard'], ['Yotsuji, Takao', 'Theme Song Lyrics']]

@@ -1,5 +1,5 @@
-animeTitle	b'Gowapper 5 Gordam'
-animeType	b'TV'
+animeTitle	Gowapper 5 Gordam
+animeType	TV
 animeNumEpisode	36
 releaseDate	
 endDate	
@@ -7,9 +7,13 @@ animeNumMembers
 animeScore	6.1
 animeUsers	132
 animeRank	
-animePopularity	
-animeDescription	b'Five youths from Edo City explore a strange rocky island and discover the mecha that Doctor Hoarai had been creating in order to resist the impending attack by a race of subterranean rock people. \n\nDoctor Hoarai was ridiculed by the scientific community for his predictions that such an attack would take place. The youths decide to join the doctor (who was dead but had transferred his mind into a computer) in piloting the vehicles and protecting Earth. The Gowapper 5 Gordam team is born! With the aid of the giant fighting robot Gordam, the Gowapper team under the leadership of Youko Misaki must face the hordes of the inhuman subterranean people.\n\n(Source: AniDB)'
+animePopularity	12369
+animeDescription	"Five youths from Edo City explore a strange rocky island and discover the mecha that Doctor Hoarai had been creating in order to resist the impending attack by a race of subterranean rock people. 
+
+Doctor Hoarai was ridiculed by the scientific community for his predictions that such an attack would take place. The youths decide to join the doctor (who was dead but had transferred his mind into a computer) in piloting the vehicles and protecting Earth. The Gowapper 5 Gordam team is born! With the aid of the giant fighting robot Gordam, the Gowapper team under the leadership of Youko Misaki must face the hordes of the inhuman subterranean people.
+
+(Source: AniDB)"
 animeRelated	[]
-animeCharacters	[b'Tsunami, Gou', b'Misaki, Youko', b'Koishikawa, Goemon', b'Kameyama, Daikichi', b'Kawaguchi, Norisuke', b'Shima, Sentarou', b'Jigokuda, Emperor', b'Arafune', b'Shougun Maguda', b'Father Daikichi']
-animeVoices	[b'\nYasuhara, Yoshito\nJapanese\n', b'\nNiki, Terumi\nJapanese\n', b'\nKomiyama, Kiyoshi\nJapanese\n', b'\nKimotsuki, Kaneta\nJapanese\n', b'\nChijimatsu, Sachiko\nJapanese\n', b'\nSogabe, Kazuyuki\nJapanese\n', b'\nWatabe, Takeshi\nJapanese\n', b'\nKamei, Saburou\nJapanese\n', b'\nTerashima, Mikio\nJapanese\n', b'\nSenda, Mitsuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nToriumi, Hisayuki\n\nDirector, Chief Animation Director\n\n', b'\nWakabayashi, Ichirou\n\nTheme Song Lyrics\n\n', b'\nAmano, Yoshitaka\n\nCharacter Design\n\n', b'\nOokawara, Kunio\n\nMechanical Design\n\n']
+animeCharacters	['Tsunami, Gou', 'Misaki, Youko', 'Koishikawa, Goemon', 'Kameyama, Daikichi', 'Kawaguchi, Norisuke', 'Shima, Sentarou', 'Jigokuda, Emperor', 'Arafune', 'Shougun Maguda', 'Father Daikichi']
+animeVoices	['Yasuhara, Yoshito', 'Niki, Terumi', 'Komiyama, Kiyoshi', 'Kimotsuki, Kaneta', 'Chijimatsu, Sachiko', 'Sogabe, Kazuyuki', 'Watabe, Takeshi', 'Kamei, Saburou', 'Terashima, Mikio', 'Senda, Mitsuo']
+animeStaff	[['Toriumi, Hisayuki', 'Director, Chief Animation Director'], ['Wakabayashi, Ichirou', 'Theme Song Lyrics'], ['Amano, Yoshitaka', 'Character Design'], ['Ookawara, Kunio', 'Mechanical Design']]

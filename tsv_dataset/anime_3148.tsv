@@ -1,5 +1,5 @@
-animeTitle	b'HeatGuy J'
-animeType	b'TV'
+animeTitle	HeatGuy J
+animeType	TV
 animeNumEpisode	25
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	7.15
 animeUsers	5642
 animeRank	
-animePopularity	
-animeDescription	"b'In the city of Judoh, Claire Leonelli has inherited leadership of the Mafia group ""Vampire"" following the death of his father. To keep Claire\'s and other criminal activities in check, the city\'s Bureau of Urban Safety has Special Services Division operative Daisuke Aurora and the super android codenamed ""J"" (whose identity is apparently kept in secrecy, as androids are banned in the city). With both of them around, crime now has little room to breathe in Judoh.\n\n(Source: ANN)'"
-animeRelated	[b'Heat Guy J', b'HeatGuy J Special']
-animeCharacters	[b'Leonelli, Clair', b'Aurora, Daisuke', b'J', b'Milchan, Kyoko', b'Boma', b'Narse, Ian', b'Gabriel, Monica', b'Gallo, Giovanni', b'Edmundo, Ken', b'Aurora, Shun']
-animeVoices	[b'\nSakaguchi, Daisuke\nJapanese\n', b'\nMatsukaze, Masaya\nJapanese\n', b'\nSugou, Takayuki\nJapanese\n', b'\nChiba, Saeko\nJapanese\n', b'\nSakurai, Takahiro\nJapanese\n', b'\nFukuyama, Jun\nJapanese\n', b'\nShimizu, Ai\nJapanese\n', b'\nMiyake, Kenta\nJapanese\n', b'\nFujiwara, Keiji\nJapanese\n', b'\nMiki, Shinichiro\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nAkane, Kazuki\n\nDirector, Original Creator, Series Composition\n\n', b'\nAketagawa, Jin\n\nSound Director\n\n', b'\nKondou, Nobuhiro\n\nStoryboard\n\n', b'\nHara, Hiroshi\n\nStoryboard\n\n']
+animePopularity	4358
+animeDescription	"In the city of Judoh, Claire Leonelli has inherited leadership of the Mafia group ""Vampire"" following the death of his father. To keep Claire's and other criminal activities in check, the city's Bureau of Urban Safety has Special Services Division operative Daisuke Aurora and the super android codenamed ""J"" (whose identity is apparently kept in secrecy, as androids are banned in the city). With both of them around, crime now has little room to breathe in Judoh.
+
+(Source: ANN)"
+animeRelated	['Heat Guy J', 'HeatGuy J Special']
+animeCharacters	['Leonelli, Clair', 'Aurora, Daisuke', 'J', 'Milchan, Kyoko', 'Boma', 'Narse, Ian', 'Gabriel, Monica', 'Gallo, Giovanni', 'Edmundo, Ken', 'Aurora, Shun']
+animeVoices	['Sakaguchi, Daisuke', 'Matsukaze, Masaya', 'Sugou, Takayuki', 'Chiba, Saeko', 'Sakurai, Takahiro', 'Fukuyama, Jun', 'Shimizu, Ai', 'Miyake, Kenta', 'Fujiwara, Keiji', 'Miki, Shinichiro']
+animeStaff	[['Akane, Kazuki', 'Director, Original Creator, Series Composition'], ['Aketagawa, Jin', 'Sound Director'], ['Kondou, Nobuhiro', 'Storyboard'], ['Hara, Hiroshi', 'Storyboard']]

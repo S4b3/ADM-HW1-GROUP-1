@@ -1,5 +1,5 @@
-animeTitle	b'Boin'
-animeType	b'OVA'
+animeTitle	Boin
+animeType	OVA
 animeNumEpisode	2
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	6.58
 animeUsers	4681
 animeRank	
-animePopularity	
-animeDescription	b'Based on a game by Crossnet-Pie.\n\nDaisuke Ichijo is a new teacher at Kisaragi Academy, an all female school, and he is assigned to be a job counselor. To find the appropriate job for students, he role-plays with the girl students who wear various uniforms such as a nurse, a shrine maiden, and so on.'
-animeRelated	[b'Resort Boin']
-animeCharacters	[b'Iihara, Nao', b'Ichijou, Daisuke', b'Tsukushino, Mitsugu', b'Makuhari, Natsuko']
-animeVoices	[b'\nKajita, Yuuki\nJapanese\n', b'\nOno, Daisuke\nJapanese\n', b'\nNaruse, Mia\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMurakami, Kotaro\n\nProducer\n\n', b'\nAwai, Shigeki\n\nDirector\n\n', b'\nHappoubi, Jin\n\nOriginal Character Design\n\n']
+animePopularity	4970
+animeDescription	"Based on a game by Crossnet-Pie.
+
+Daisuke Ichijo is a new teacher at Kisaragi Academy, an all female school, and he is assigned to be a job counselor. To find the appropriate job for students, he role-plays with the girl students who wear various uniforms such as a nurse, a shrine maiden, and so on."
+animeRelated	['Resort Boin']
+animeCharacters	['Iihara, Nao', 'Ichijou, Daisuke', 'Tsukushino, Mitsugu', 'Makuhari, Natsuko']
+animeVoices	['Kajita, Yuuki', 'Ono, Daisuke', 'Naruse, Mia']
+animeStaff	[['Murakami, Kotaro', 'Producer'], ['Awai, Shigeki', 'Director'], ['Happoubi, Jin', 'Original Character Design']]

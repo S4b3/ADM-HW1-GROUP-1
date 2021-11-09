@@ -1,5 +1,5 @@
-animeTitle	b'Sentou Yousei Shoujo Tasukete! Mave-chan'
-animeType	b'OVA'
+animeTitle	Sentou Yousei Shoujo Tasukete! Mave-chan
+animeType	OVA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,11 @@ animeNumMembers
 animeScore	5.33
 animeUsers	1246
 animeRank	
-animePopularity	
-animeDescription	"b""Rei goes to an anime convention and ends up in a world created by the desires of anime fans. Rei doesn't know how to get back and the world starts to collapse because the convention is coming to a close. \n\n(Source: AniDB)"""
-animeRelated	[b'Sentou Yousei Yukikaze']
-animeCharacters	[b'Sylphid', b'Mave', b'Sugiyama, Rei', b'Fern Two', b'Fern One', b'Super Sylph', b'Forgetter']
-animeVoices	[b'\nShimizu, Kaori\nJapanese\n', b'\nMizuki, Nana\nJapanese\n', b'\nYoshino, Hiroyuki\nJapanese\n', b'\nSawashiro, Miyuki\nJapanese\n', b'\nNakahara, Mai\nJapanese\n', b'\nOhara, Sayaka\nJapanese\n', b'\nIwata, Mitsuo\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nMaseba, Yutaka\n\nProducer\n\n', b'\nMori, Takeshi\n\nDirector\n\n', b'\nTsuruoka, Youta\n\nSound Director\n\n', b'\nMoriyama, Yuuji\n\nStoryboard\n\n']
+animePopularity	8185
+animeDescription	"Rei goes to an anime convention and ends up in a world created by the desires of anime fans. Rei doesn't know how to get back and the world starts to collapse because the convention is coming to a close. 
+
+(Source: AniDB)"
+animeRelated	['Sentou Yousei Yukikaze']
+animeCharacters	['Sylphid', 'Mave', 'Sugiyama, Rei', 'Fern Two', 'Fern One', 'Super Sylph', 'Forgetter']
+animeVoices	['Shimizu, Kaori', 'Mizuki, Nana', 'Yoshino, Hiroyuki', 'Sawashiro, Miyuki', 'Nakahara, Mai', 'Ohara, Sayaka', 'Iwata, Mitsuo']
+animeStaff	[['Maseba, Yutaka', 'Producer'], ['Mori, Takeshi', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Moriyama, Yuuji', 'Storyboard']]

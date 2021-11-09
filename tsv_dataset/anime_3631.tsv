@@ -1,5 +1,5 @@
-animeTitle	b'Promare: Lio-hen'
-animeType	b'ONA'
+animeTitle	Promare: Lio-hen
+animeType	ONA
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	7.04
 animeUsers	11065
 animeRank	
-animePopularity	
-animeDescription	b'A direct continuation of Side:Galo set a day before the film. '
-animeRelated	[b'Promare', b'Promare: Galo-hen']
-animeCharacters	[b'Fotia, Lio ', b'Thyma']
+animePopularity	3904
+animeDescription	A direct continuation of Side:Galo set a day before the film. 
+animeRelated	['Promare', 'Promare: Galo-hen']
+animeCharacters	['Fotia, Lio ', 'Thyma']
 animeVoices	[]
-animeStaff	[b'\n\n\n\n\n\n', b'\nImaishi, Hiroyuki\n\nDirector\n\n', b'\nTatemoto, Itsuki\n\nScript, Publicity\n\n']
+animeStaff	[['Imaishi, Hiroyuki', 'Director'], ['Tatemoto, Itsuki', 'Script, Publicity']]

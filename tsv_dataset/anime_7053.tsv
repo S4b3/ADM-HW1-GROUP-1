@@ -1,5 +1,5 @@
-animeTitle	b'Kinnikuman (Movie)'
-animeType	b'Movie'
+animeTitle	Kinnikuman (Movie)
+animeType	Movie
 animeNumEpisode	1
 releaseDate	
 endDate	
@@ -7,9 +7,9 @@ animeNumMembers
 animeScore	6.33
 animeUsers	317
 animeRank	
-animePopularity	
-animeDescription	"b""Mari and Kinnikuman's Championship Belt are stolen by the Octopus Dragon and his minions. Now Kinnikuman and the other Justice Choujins must travel to Planet Metro and compete in a tournament in order to win them back."""
-animeRelated	[b'Kinnikuman', b'Kinnikuman: Ooabare! Seigi Choujin']
-animeCharacters	[b'Kinniku, Suguru', b'Alexandria Meat', b'Robin Mask', b'Ramenman, Victory', b'Warsman', b'Brocken Jr.', b'Terryman', b'Kinkotsuman', b'Iwao', b'Yosaku']
-animeVoices	[b'\nKamiya, Akira\nJapanese\n', b'\nMatsushima, Minori\nJapanese\n', b'\nGouri, Daisuke\nJapanese\n', b'\nKanie, Eiji\nJapanese\n', b'\nHori, Hideyuki\nJapanese\n', b'\nMizutori, Tetsuo\nJapanese\n', b'\nTanaka, Hideyuki\nJapanese\n', b'\nFutamata, Issei\nJapanese\n', b'\nSatou, Masaharu\nJapanese\n']
-animeStaff	[b'\n\n\n\n\n\n', b'\nTamiya, Takeshi\n\nProducer\n\n', b'\nShirato, Takeshi\n\nDirector\n\n', b'\nKamiya, Akira\n\nTheme Song Performance, Inserted Song Performance\n\n', b'\nSerizawa, Hiroaki\n\nTheme Song Composition\n\n']
+animePopularity	10783
+animeDescription	Mari and Kinnikuman's Championship Belt are stolen by the Octopus Dragon and his minions. Now Kinnikuman and the other Justice Choujins must travel to Planet Metro and compete in a tournament in order to win them back.
+animeRelated	['Kinnikuman', 'Kinnikuman: Ooabare! Seigi Choujin']
+animeCharacters	['Kinniku, Suguru', 'Alexandria Meat', 'Robin Mask', 'Ramenman, Victory', 'Warsman', 'Brocken Jr.', 'Terryman', 'Kinkotsuman', 'Iwao', 'Yosaku']
+animeVoices	['Kamiya, Akira', 'Matsushima, Minori', 'Gouri, Daisuke', 'Kanie, Eiji', 'Hori, Hideyuki', 'Mizutori, Tetsuo', 'Tanaka, Hideyuki', 'Futamata, Issei', 'Satou, Masaharu']
+animeStaff	[['Tamiya, Takeshi', 'Producer'], ['Shirato, Takeshi', 'Director'], ['Kamiya, Akira', 'Theme Song Performance, Inserted Song Performance'], ['Serizawa, Hiroaki', 'Theme Song Composition']]
