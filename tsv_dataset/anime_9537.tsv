@@ -1,17 +1,4 @@
-animeTitle	Neko Neko Fantasia
-animeType	OVA
-animeNumEpisode	1
-releaseDate	1991-12-13 00:00:00
-endDate	
-animeNumMembers	852
-animeScore	5.75
-animeUsers	348
-animeRank	9537
-animePopularity	11556
-animeDescription	"""Shiro"" is a black cat who loves her family very much. She loves them so much she wants to help them out in times of need and trouble…but it’s difficult to do this if she’s just a cat. So one night, she wishes on the moon to make her able to help, and the next day, she has turned into a human girl.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Neko Neko Fantasia	OVA	1	1991-12-13 00:00:00		852	5.75	348	9537	11556	"""Shiro"" is a black cat who loves her family very much. She loves them so much she wants to help them out in times of need and trouble…but it’s difficult to do this if she’s just a cat. So one night, she wishes on the moon to make her able to help, and the next day, she has turned into a human girl.
 
-(Source: AniDB)"
-animeRelated	['Neko Neko Fantasia']
-animeCharacters	['Shiro', 'Satoko', 'Kagawa, Takahiro', 'Papa', 'Mama']
-animeVoices	['Watanabe, Naoko', 'Inoue, Kikuko', 'Nakahara, Shigeru', 'Naya, Rokurou', 'Ikeda, Masako']
-animeStaff	[['Nishimori, Akira', 'Director'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Terada, Kenji', 'Script'], ['Fukuda, Kazuya', 'Art Director']]
+(Source: AniDB)"	['Neko Neko Fantasia']	['Shiro', 'Satoko', 'Kagawa, Takahiro', 'Papa', 'Mama']	['Watanabe, Naoko', 'Inoue, Kikuko', 'Nakahara, Shigeru', 'Naya, Rokurou', 'Ikeda, Masako']	[['Nishimori, Akira', 'Director'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Terada, Kenji', 'Script'], ['Fukuda, Kazuya', 'Art Director']]

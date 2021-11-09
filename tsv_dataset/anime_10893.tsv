@@ -1,14 +1,5 @@
-animeTitle	Ice
-animeType	OVA
-animeNumEpisode	3
-releaseDate	2007-05-25 00:00:00
-endDate	2007-09-25 00:00:00
-animeNumMembers	7842
-animeScore	5.31
-animeUsers	3289
-animeRank	10893
-animePopularity	5844
-animeDescription	"By A.D. 2010, all men have died off quickly due to a dramatic change in the environment and an unknown contaminant. The population decreased to the lowest number ever seen...until only the women were left alive.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Ice	OVA	3	2007-05-25 00:00:00	2007-09-25 00:00:00	7842	5.31	3289	10893	5844	"By A.D. 2010, all men have died off quickly due to a dramatic change in the environment and an unknown contaminant. The population decreased to the lowest number ever seen...until only the women were left alive.
 
 They live huddled in small corners of a world mostly reclaimed by nature.
 There are those who accept their inevitable extinction and live a carefree life...
@@ -17,8 +8,4 @@ It is a society of constant conflict over their differences of principles and po
 
 The story takes place in the center of Tokyo. It is one of the places left for them. The conflict over the specimen of ""ICE"" and the chance it may provide to save humanity begins. 
 
-(Source: AnimeNfo)"
-animeRelated	['Ice Movie']
-animeCharacters	['Landsknecht, Hitomi', 'Kisaragi', 'Ice-T, Yuki', 'Aida, Makoto', 'Julia', 'Mint', 'Satsuki', 'Murasaki']
-animeVoices	['Minagawa, Junko', 'Ootori, Yoshino', 'Ono, Erena', 'Koizumi, Yutaka', 'Ishida, Akira', 'Kitamura, Eri', 'Mamiya, Kurumi', 'Satou, Natsuki']
-animeStaff	[['Inoue, Hiroaki', 'Producer'], ['Kobayashi, Makoto', 'Director, Art Director, Background Art'], ['Tsuruoka, Youta', 'Sound Director'], ['Hirano, Yasushi', 'Script']]
+(Source: AnimeNfo)"	['Ice Movie']	['Landsknecht, Hitomi', 'Kisaragi', 'Ice-T, Yuki', 'Aida, Makoto', 'Julia', 'Mint', 'Satsuki', 'Murasaki']	['Minagawa, Junko', 'Ootori, Yoshino', 'Ono, Erena', 'Koizumi, Yutaka', 'Ishida, Akira', 'Kitamura, Eri', 'Mamiya, Kurumi', 'Satou, Natsuki']	[['Inoue, Hiroaki', 'Producer'], ['Kobayashi, Makoto', 'Director, Art Director, Background Art'], ['Tsuruoka, Youta', 'Sound Director'], ['Hirano, Yasushi', 'Script']]

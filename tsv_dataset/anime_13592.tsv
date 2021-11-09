@@ -1,15 +1,2 @@
-animeTitle	Sumiko (TV)
-animeType	TV
-animeNumEpisode	8
-releaseDate	2014-07-04 00:00:00
-endDate	2014-08-22 00:00:00
-animeNumMembers	265
-animeScore	
-animeUsers	
-animeRank	13592
-animePopularity	15032
-animeDescription	Short stories based on the original characters by Uruma Delvi.
-animeRelated	['Sumiko']
-animeCharacters	['Yoshida, Sumiko', 'Yoshida, Sakura', 'Yoshiko', 'Kurumi', 'Yukari', 'Yoshida, Kumagoro ']
-animeVoices	['Kikuchi, Kokoro', 'Takeda, Hana', 'Fukui, Miki', 'Satou, Miyuki', 'Yoshimura, Reina', 'Miki, Shinichiro']
-animeStaff	[['Abe, Nobuyuki', 'Sound Director'], ['Yamaguchi, Suguru', 'Theme Song Composition'], ['UrumaDelvi', 'Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Sumiko (TV)	TV	8	2014-07-04 00:00:00	2014-08-22 00:00:00	265			13592	15032	Short stories based on the original characters by Uruma Delvi.	['Sumiko']	['Yoshida, Sumiko', 'Yoshida, Sakura', 'Yoshiko', 'Kurumi', 'Yukari', 'Yoshida, Kumagoro ']	['Kikuchi, Kokoro', 'Takeda, Hana', 'Fukui, Miki', 'Satou, Miyuki', 'Yoshimura, Reina', 'Miki, Shinichiro']	[['Abe, Nobuyuki', 'Sound Director'], ['Yamaguchi, Suguru', 'Theme Song Composition'], ['UrumaDelvi', 'Character Design']]

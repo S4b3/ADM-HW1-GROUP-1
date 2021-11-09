@@ -1,19 +1,6 @@
-animeTitle	Pet
-animeType	TV
-animeNumEpisode	13
-releaseDate	2020-01-06 00:00:00
-endDate	2020-03-30 00:00:00
-animeNumMembers	82842
-animeScore	6.46
-animeUsers	21620
-animeRank	6357
-animePopularity	1852
-animeDescription	"Despite endless research, the human mind remains a mystery to this day. Unknown to the public, there exist special individuals who are able to dive deep into the minds of people and even manipulate their memories.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Pet	TV	13	2020-01-06 00:00:00	2020-03-30 00:00:00	82842	6.46	21620	6357	1852	"Despite endless research, the human mind remains a mystery to this day. Unknown to the public, there exist special individuals who are able to dive deep into the minds of people and even manipulate their memories.
 
 Gifted with this ability, Hiroki, Tsukasa, and Satoru are among those who use their power to commit crime under the orders of their leader, Katsuragi. The three step into the dangerous territory of the human mind in order to destroy their assigned targets while striving to keep their own minds and memories safe.
 
-[Written by MAL Rewrite]"
-animeRelated	['Pet']
-animeCharacters	['Hiroki', 'Tsukasa', 'Hayashi', 'Satoru', 'Katsuragi', 'President', 'Jin', 'Long']
-animeVoices	['Ueda, Keisuke', 'Taniyama, Kishou', 'Kase, Yasuyuki', 'Ono, Yuuki', 'Sakuya, Shunsuke', 'Tobita, Nobuo', 'Ichimichi, Mao', 'Yusa, Kouji']
-animeStaff	[['Oomori, Takahiro', 'Director'], ['Ooshiro, Miyuki', 'Episode Director, Storyboard, Animation Director'], ['TK from Ling Tosite Sigure', 'Theme Song Arrangement'], ['Memai SIREN', 'Theme Song Composition, Theme Song Performance']]
+[Written by MAL Rewrite]"	['Pet']	['Hiroki', 'Tsukasa', 'Hayashi', 'Satoru', 'Katsuragi', 'President', 'Jin', 'Long']	['Ueda, Keisuke', 'Taniyama, Kishou', 'Kase, Yasuyuki', 'Ono, Yuuki', 'Sakuya, Shunsuke', 'Tobita, Nobuo', 'Ichimichi, Mao', 'Yusa, Kouji']	[['Oomori, Takahiro', 'Director'], ['Ooshiro, Miyuki', 'Episode Director, Storyboard, Animation Director'], ['TK from Ling Tosite Sigure', 'Theme Song Arrangement'], ['Memai SIREN', 'Theme Song Composition, Theme Song Performance']]

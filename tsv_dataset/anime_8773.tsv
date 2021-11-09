@@ -1,17 +1,4 @@
-animeTitle	"""Eiyuu"" Kaitai"
-animeType	OVA
-animeNumEpisode	1
-releaseDate	2016-11-23 00:00:00
-endDate	
-animeNumMembers	4067
-animeScore	5.97
-animeUsers	1656
-animeRank	8773
-animePopularity	7603
-animeDescription	"Uro Yamada works as part of the ""Hero Retirement and Return to Everyday Life Assistance Agency,"" which takes heroes from another world back to Earth and helps them reintegrate into everyday life.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+"""Eiyuu"" Kaitai"	OVA	1	2016-11-23 00:00:00		4067	5.97	1656	8773	7603	"Uro Yamada works as part of the ""Hero Retirement and Return to Everyday Life Assistance Agency,"" which takes heroes from another world back to Earth and helps them reintegrate into everyday life.
 
-(Source: ANN)"
-animeRelated	"['""Eiyuu"" Kaitai']"
-animeCharacters	['Yamada, Uro', 'Tsuranari, Kougyoku', 'Tsuranari, Hakua', 'Yamada, Karon', 'Kurashiki, Airo', 'Alice', 'Kanae, Reca', 'Megane']
-animeVoices	['Umehara, Yuuichirou', 'Komatsu, Mikako', 'Uchiyama, Yumi', 'Seto, Asami', 'Uesaka, Sumire', 'Kitamura, Eri', 'Satou, Satomi', 'Namikawa, Daisuke']
-animeStaff	[['Kuroyanagi, Toshimasa', 'Director, Script'], ['Kameyama, Toshiki', 'Sound Director'], ['Hashimoto, Kazuyuki', 'Art Director'], ['Satou, Naoko', 'Color Design']]
+(Source: ANN)"	"['""Eiyuu"" Kaitai']"	['Yamada, Uro', 'Tsuranari, Kougyoku', 'Tsuranari, Hakua', 'Yamada, Karon', 'Kurashiki, Airo', 'Alice', 'Kanae, Reca', 'Megane']	['Umehara, Yuuichirou', 'Komatsu, Mikako', 'Uchiyama, Yumi', 'Seto, Asami', 'Uesaka, Sumire', 'Kitamura, Eri', 'Satou, Satomi', 'Namikawa, Daisuke']	[['Kuroyanagi, Toshimasa', 'Director, Script'], ['Kameyama, Toshiki', 'Sound Director'], ['Hashimoto, Kazuyuki', 'Art Director'], ['Satou, Naoko', 'Color Design']]

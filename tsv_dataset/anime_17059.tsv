@@ -1,15 +1,2 @@
-animeTitle	Line
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1989-01-01 00:00:00
-endDate	
-animeNumMembers	111
-animeScore	
-animeUsers	
-animeRank	17059
-animePopularity	17647
-animeDescription	The scenery of the stream in the forest and the Kamogawa flowing through the city of Kyoto and the abstract animation inspired by it are juxtaposed.
-animeRelated	[]
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Line	Movie	1	1989-01-01 00:00:00		111			17059	17647	The scenery of the stream in the forest and the Kamogawa flowing through the city of Kyoto and the abstract animation inspired by it are juxtaposed.	[]	[]	[]	[]

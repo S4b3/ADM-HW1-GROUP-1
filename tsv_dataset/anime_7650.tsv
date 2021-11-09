@@ -1,14 +1,5 @@
-animeTitle	Green Green Specials
-animeType	OVA
-animeNumEpisode	3
-releaseDate	2003-11-19 00:00:00
-endDate	2004-01-21 00:00:00
-animeNumMembers	10191
-animeScore	6.21
-animeUsers	4792
-animeRank	7650
-animePopularity	5266
-animeDescription	"These are DVD specials, which include some extra footage and music videos;
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Green Green Specials	OVA	3	2003-11-19 00:00:00	2004-01-21 00:00:00	10191	6.21	4792	7650	5266	"These are DVD specials, which include some extra footage and music videos;
 Character DVD #1 - Midori & Reika
 Character DVD #1 - Midori Music Video 	
 Character DVD #1 - Reika Music Video 	
@@ -17,8 +8,4 @@ Character DVD #2 - Futaba Music Video
 Character DVD #2 - Chigusa Music Video 	
 Character DVD #3 - Sanae & Wakaba
 Character DVD #3 - Sanae Music Video
-Character DVD #3 - Wakaba Music Video"
-animeRelated	['Green Green']
-animeCharacters	['Takasaki, Yusuke', 'Ijuuin, Tadatomo', 'Tenjin, Taizo', 'Kutsuki, Wakaba', 'Ichiban-Boshi, Hikaru', 'Minami, Sanae', 'Morimura, Reika', 'Iino, Chigusa']
-animeVoices	['Tanaka, Kazunari', 'Hamada, Kenji', 'Mannaka, Yukiko', 'Domon, Jin', 'Ueda, Kana', 'Suzuki, Mariko']
-animeStaff	[['Mutou, Yuuji', 'Director']]
+Character DVD #3 - Wakaba Music Video"	['Green Green']	['Takasaki, Yusuke', 'Ijuuin, Tadatomo', 'Tenjin, Taizo', 'Kutsuki, Wakaba', 'Ichiban-Boshi, Hikaru', 'Minami, Sanae', 'Morimura, Reika', 'Iino, Chigusa']	['Tanaka, Kazunari', 'Hamada, Kenji', 'Mannaka, Yukiko', 'Domon, Jin', 'Ueda, Kana', 'Suzuki, Mariko']	[['Mutou, Yuuji', 'Director']]

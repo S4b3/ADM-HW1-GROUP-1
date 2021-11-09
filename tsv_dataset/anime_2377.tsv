@@ -1,17 +1,4 @@
-animeTitle	Lupin III: Part III
-animeType	TV
-animeNumEpisode	50
-releaseDate	1984-03-03 00:00:00
-endDate	1985-12-25 00:00:00
-animeNumMembers	17542
-animeScore	7.31
-animeUsers	4879
-animeRank	2377
-animePopularity	4238
-animeDescription	"Lupin III chronicles the adventures of Arsene Lupin III, the world's greatest thief, and his partners in crime: master marksman Daisuke Jigen, beautiful and scheming Fujiko Mine and stoic samurai Goemon Ishikawa XIII. Lupin and his gang travel around the globe in search of the world's greatest treasures and riches and always keeping one step ahead of the tireless Inspector Zenigata, who has vowed to bring Lupin to justice. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Lupin III: Part III	TV	50	1984-03-03 00:00:00	1985-12-25 00:00:00	17542	7.31	4879	2377	4238	"Lupin III chronicles the adventures of Arsene Lupin III, the world's greatest thief, and his partners in crime: master marksman Daisuke Jigen, beautiful and scheming Fujiko Mine and stoic samurai Goemon Ishikawa XIII. Lupin and his gang travel around the globe in search of the world's greatest treasures and riches and always keeping one step ahead of the tireless Inspector Zenigata, who has vowed to bring Lupin to justice. 
 
-(Source: ANN)"
-animeRelated	['Lupin III: Part II', 'Lupin III (2015)']
-animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Peter', 'Sophie', 'Luckino, Tony', 'Cougar, George']
-animeVoices	['Yamada, Yasuo', 'Kobayashi, Kiyoshi', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou', 'Hayami, Show', 'Tsuru, Hiromi', 'Aono, Takeshi']
-animeStaff	[['Aoki, Yuuzou', 'Director, Character Design'], ['Nabeshima, Osamu', 'Episode Director'], ['Ogiwara, Rokou', 'Episode Director, Storyboard'], ['Yamatoya, Atsushi', 'Script']]
+(Source: ANN)"	['Lupin III: Part II', 'Lupin III (2015)']	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Peter', 'Sophie', 'Luckino, Tony', 'Cougar, George']	['Yamada, Yasuo', 'Kobayashi, Kiyoshi', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou', 'Hayami, Show', 'Tsuru, Hiromi', 'Aono, Takeshi']	[['Aoki, Yuuzou', 'Director, Character Design'], ['Nabeshima, Osamu', 'Episode Director'], ['Ogiwara, Rokou', 'Episode Director, Storyboard'], ['Yamatoya, Atsushi', 'Script']]

@@ -1,15 +1,2 @@
-animeTitle	Hulaing Babies
-animeType	TV
-animeNumEpisode	12
-releaseDate	2019-01-11 00:00:00
-endDate	2019-03-29 00:00:00
-animeNumMembers	3523
-animeScore	5.87
-animeUsers	1121
-animeRank	9148
-animePopularity	7969
-animeDescription	The anime will center on a group of young girls and their struggle as they aim to become Hula Girls.
-animeRelated	['Hulaing Babies Petit', 'Hulaing Babies Aratame: Staying Babies']
-animeCharacters	['Miku', 'Nagisa', 'Mona', 'Moe', 'Shiina', 'Suzu', 'Fumi', 'Migiwa', 'Natsu', 'Ohara-sensei']
-animeVoices	['Itou, Miku', 'Bridcutt, Sarah Emi', 'Mimori, Suzuko', 'Toyota, Moe', 'Yamaguchi, Rikako', 'Yoshimura, Haruka', 'Sasaki, Mikoi', 'Soyama, Momoko', 'Harusaki, Non', 'Kobori, Yurie']
-animeStaff	[['Asao, Yoshinori', 'Director'], ['Koizumi, Kisuke', 'Sound Director'], ['AOP', 'Theme Song Performance'], ['Oominato, Ryouzou', 'Color Design, Character Design, Animation Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Hulaing Babies	TV	12	2019-01-11 00:00:00	2019-03-29 00:00:00	3523	5.87	1121	9148	7969	The anime will center on a group of young girls and their struggle as they aim to become Hula Girls.	['Hulaing Babies Petit', 'Hulaing Babies Aratame: Staying Babies']	['Miku', 'Nagisa', 'Mona', 'Moe', 'Shiina', 'Suzu', 'Fumi', 'Migiwa', 'Natsu', 'Ohara-sensei']	['Itou, Miku', 'Bridcutt, Sarah Emi', 'Mimori, Suzuko', 'Toyota, Moe', 'Yamaguchi, Rikako', 'Yoshimura, Haruka', 'Sasaki, Mikoi', 'Soyama, Momoko', 'Harusaki, Non', 'Kobori, Yurie']	[['Asao, Yoshinori', 'Director'], ['Koizumi, Kisuke', 'Sound Director'], ['AOP', 'Theme Song Performance'], ['Oominato, Ryouzou', 'Color Design, Character Design, Animation Director']]

@@ -1,17 +1,4 @@
-animeTitle	Animal 1
-animeType	TV
-animeNumEpisode	27
-releaseDate	1968-04-01 00:00:00
-endDate	1968-09-30 00:00:00
-animeNumMembers	518
-animeScore	
-animeUsers	
-animeRank	14802
-animePopularity	12856
-animeDescription	"Ichirou Azuma, a young amateur wrestler, wants to participate in the Olympics Games in Mexico.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Animal 1	TV	27	1968-04-01 00:00:00	1968-09-30 00:00:00	518			14802	12856	"Ichirou Azuma, a young amateur wrestler, wants to participate in the Olympics Games in Mexico.
 
-(Source: ANN)"
-animeRelated	[]
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+(Source: ANN)"	[]	[]	[]	[]

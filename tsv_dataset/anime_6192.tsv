@@ -1,15 +1,2 @@
-animeTitle	ClassicaLoid 2nd Season
-animeType	TV
-animeNumEpisode	25
-releaseDate	2017-10-07 00:00:00
-endDate	2018-03-24 00:00:00
-animeNumMembers	6439
-animeScore	6.49
-animeUsers	1549
-animeRank	6192
-animePopularity	6326
-animeDescription	Second season of ClassicaLoid.
-animeRelated	['ClassicaLoid']
-animeCharacters	['Mozart', 'Beethoven', 'Kagura, Sousuke', 'Otowa, Kanae', 'Schubert', 'Chopin', 'Bach', 'Bądarzewska', 'Tchaikovsky', 'Pad-kun']
-animeVoices	['Kaji, Yuki', 'Sugita, Tomokazu', 'Shimazaki, Nobunaga', 'Komatsu, Mikako', 'Maeno, Tomoaki']
-animeStaff	[['Kida, Tsuyoshi', 'Script'], ['Matsuoka, Yoshitsugu', 'Theme Song Performance, Inserted Song Performance'], ['Maeno, Tomoaki', 'Theme Song Performance, Inserted Song Performance'], ['Ishida, Yoko', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+ClassicaLoid 2nd Season	TV	25	2017-10-07 00:00:00	2018-03-24 00:00:00	6439	6.49	1549	6192	6326	Second season of ClassicaLoid.	['ClassicaLoid']	['Mozart', 'Beethoven', 'Kagura, Sousuke', 'Otowa, Kanae', 'Schubert', 'Chopin', 'Bach', 'Bądarzewska', 'Tchaikovsky', 'Pad-kun']	['Kaji, Yuki', 'Sugita, Tomokazu', 'Shimazaki, Nobunaga', 'Komatsu, Mikako', 'Maeno, Tomoaki']	[['Kida, Tsuyoshi', 'Script'], ['Matsuoka, Yoshitsugu', 'Theme Song Performance, Inserted Song Performance'], ['Maeno, Tomoaki', 'Theme Song Performance, Inserted Song Performance'], ['Ishida, Yoko', 'Theme Song Performance']]

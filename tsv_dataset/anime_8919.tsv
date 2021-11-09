@@ -1,18 +1,5 @@
-animeTitle	Mobile Suit SD Gundam Festival
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1993-03-13 00:00:00
-endDate	
-animeNumMembers	1746
-animeScore	5.93
-animeUsers	379
-animeRank	8919
-animePopularity	9797
-animeDescription	"The movie is divided into 3 different parts:
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Mobile Suit SD Gundam Festival	Movie	1	1993-03-13 00:00:00		1746	5.93	379	8919	9797	"The movie is divided into 3 different parts:
 1) The Tale of the SD Warring States: World Peace Chapter
 2) SD Gundam Sidestory: The Legend of the Holy Machine Soldiers
-3) SD Commando War Chronicles: Gundam Force, Super G-Arms, Final Formula VS Noum Gyaza"
-animeRelated	['Mobile Suit SD Gundam Mk I']
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+3) SD Commando War Chronicles: Gundam Force, Super G-Arms, Final Formula VS Noum Gyaza"	['Mobile Suit SD Gundam Mk I']	[]	[]	[]

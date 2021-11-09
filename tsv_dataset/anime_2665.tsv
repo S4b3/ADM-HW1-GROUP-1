@@ -1,15 +1,2 @@
-animeTitle	Hyakko
-animeType	TV
-animeNumEpisode	13
-releaseDate	2008-10-02 00:00:00
-endDate	2008-12-25 00:00:00
-animeNumMembers	41882
-animeScore	7.25
-animeUsers	18039
-animeRank	2665
-animePopularity	2726
-animeDescription	On their first day of high school shy Ayumi Nonomura and taciturn Tatsuki Iizuka become lost on the immense campus of Kamizono Academy. An irresistible force of nature named Torako Kageyama accompanied by her best friend Suzume Saotome appears in front of them. Led, sometimes pushed, by Torako, the girls and their classmates work through problems of school, home and adolescence.
-animeRelated	['Hyakko', 'Hyakko Extra']
-animeCharacters	['Kageyama, Torako', 'Saotome, Suzume', 'Nonomura, Ayumi', 'Iizuka, Tatsuki', 'Andou, Nene', 'Tsubomiya, Inori', 'Kazamatsuri, Touma', 'Ooba, Minato', 'Makunouchi, Ushio', 'Kobayashi, Koma']
-animeVoices	['Orikasa, Fumiko', 'Hase, Yurina', 'Hirano, Aya', 'Neya, Michiko', 'Fujita, Masayo', 'Satou, Satomi', 'Kuwashima, Houko', 'Nakase, Asuka', 'Kaida, Yuuko', 'Igarashi, Hiroko']
-animeStaff	[['Fukuda, Michio', 'Director, Episode Director, Storyboard, Animation Director, Key Animation'], ['Hayase, Hiroyuki', 'Sound Director'], ['Andou, Ken', 'Episode Director'], ['Kamitsubo, Ryouki', 'Episode Director, Storyboard']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Hyakko	TV	13	2008-10-02 00:00:00	2008-12-25 00:00:00	41882	7.25	18039	2665	2726	On their first day of high school shy Ayumi Nonomura and taciturn Tatsuki Iizuka become lost on the immense campus of Kamizono Academy. An irresistible force of nature named Torako Kageyama accompanied by her best friend Suzume Saotome appears in front of them. Led, sometimes pushed, by Torako, the girls and their classmates work through problems of school, home and adolescence.	['Hyakko', 'Hyakko Extra']	['Kageyama, Torako', 'Saotome, Suzume', 'Nonomura, Ayumi', 'Iizuka, Tatsuki', 'Andou, Nene', 'Tsubomiya, Inori', 'Kazamatsuri, Touma', 'Ooba, Minato', 'Makunouchi, Ushio', 'Kobayashi, Koma']	['Orikasa, Fumiko', 'Hase, Yurina', 'Hirano, Aya', 'Neya, Michiko', 'Fujita, Masayo', 'Satou, Satomi', 'Kuwashima, Houko', 'Nakase, Asuka', 'Kaida, Yuuko', 'Igarashi, Hiroko']	[['Fukuda, Michio', 'Director, Episode Director, Storyboard, Animation Director, Key Animation'], ['Hayase, Hiroyuki', 'Sound Director'], ['Andou, Ken', 'Episode Director'], ['Kamitsubo, Ryouki', 'Episode Director, Storyboard']]

@@ -1,14 +1,5 @@
-animeTitle	Triangle Blue
-animeType	OVA
-animeNumEpisode	2
-releaseDate	2009-08-28 00:00:00
-endDate	2010-01-29 00:00:00
-animeNumMembers	6456
-animeScore	6.03
-animeUsers	2520
-animeRank	
-animePopularity	6315
-animeDescription	"""Akane, I love you...""
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Triangle Blue	OVA	2	2009-08-28 00:00:00	2010-01-29 00:00:00	6456	6.03	2520		6315	"""Akane, I love you...""
 ""......I-I...love you too, Asato......""
 
 Our relationship started after that.
@@ -23,8 +14,4 @@ No matter how busy we become we trust each other. We love each other.
 I always thought these days would last forever.
 So, until that guy came...
 
-(Source: VNDB)"
-animeRelated	['True Blue', 'True Blue: Gaiden', 'Innocent Blue', 'Dark Blue', 'White Blue']
-animeCharacters	['Himemiya, Akane', 'Ayumi', 'Kamisaka, Kyousuke', 'Sawamura, Asato']
-animeVoices	[]
-animeStaff	[['Nobidome, Youta', 'Director, Episode Director, Key Animation'], ['Pon', 'Script'], ['Matsui, Shinya', 'Director of Photography']]
+(Source: VNDB)"	['True Blue', 'True Blue: Gaiden', 'Innocent Blue', 'Dark Blue', 'White Blue']	['Himemiya, Akane', 'Ayumi', 'Kamisaka, Kyousuke', 'Sawamura, Asato']	[]	[['Nobidome, Youta', 'Director, Episode Director, Key Animation'], ['Pon', 'Script'], ['Matsui, Shinya', 'Director of Photography']]

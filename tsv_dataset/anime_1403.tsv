@@ -1,17 +1,4 @@
-animeTitle	Gensoumaden Saiyuuki
-animeType	TV
-animeNumEpisode	50
-releaseDate	2000-04-04 00:00:00
-endDate	2001-03-27 00:00:00
-animeNumMembers	48967
-animeScore	7.57
-animeUsers	17917
-animeRank	1403
-animePopularity	2523
-animeDescription	"Many years ago, humans and demons lived in harmony. But that unity ended when demons started attacking humans and plotted a mission to unleash Gyumao—an evil demon imprisoned for thousands of years. Now, Genjo Sanzo, a rogue priest, must team up with three demons—Sha Gojyo, Son Goku, and Cho Hakkai—and embark on a perilous journey to the west to stop these demons from resurrecting Gyumao and restore the balance between humans and demons on Earth.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Gensoumaden Saiyuuki	TV	50	2000-04-04 00:00:00	2001-03-27 00:00:00	48967	7.57	17917	1403	2523	"Many years ago, humans and demons lived in harmony. But that unity ended when demons started attacking humans and plotted a mission to unleash Gyumao—an evil demon imprisoned for thousands of years. Now, Genjo Sanzo, a rogue priest, must team up with three demons—Sha Gojyo, Son Goku, and Cho Hakkai—and embark on a perilous journey to the west to stop these demons from resurrecting Gyumao and restore the balance between humans and demons on Earth.
 
-(Source: ANN)"
-animeRelated	['Saiyuuki', 'Saiyuuki Reload', 'Gensoumaden Saiyuuki Movie: Requiem - Erabarezaru Mono e no Chinkonka', 'Gensoumaden Saiyuuki OVA', 'Gensoumaden Saiyuuki: Kibou no Zaika', 'Saiyuuki Reload: Burial']
-animeCharacters	['Genjou, Sanzou', 'Son, Gokuu', 'Cho, Hakkai', 'Sha, Gojou', 'Kougaiji', 'Jianyi, Ni', 'Gensui, Tenpou', 'Douji, Konzen', 'Toushin, Homura', 'Taishou, Kenren']
-animeVoices	['Seki, Toshihiko', 'Hoshi, Souichirou', 'Ishida, Akira', 'Hirata, Hiroaki', 'Kusao, Takeshi', 'Ootsuka, Houchuu', 'Morikawa, Toshiyuki']
-animeStaff	[['Date, Hayato', 'Director, Storyboard'], ['Yamazaki, Takashi', 'Episode Director, Storyboard, Key Animation'], ['Yokote, Michiko', 'Script'], ['Shimokawa, Mikuni', 'Theme Song Performance']]
+(Source: ANN)"	['Saiyuuki', 'Saiyuuki Reload', 'Gensoumaden Saiyuuki Movie: Requiem - Erabarezaru Mono e no Chinkonka', 'Gensoumaden Saiyuuki OVA', 'Gensoumaden Saiyuuki: Kibou no Zaika', 'Saiyuuki Reload: Burial']	['Genjou, Sanzou', 'Son, Gokuu', 'Cho, Hakkai', 'Sha, Gojou', 'Kougaiji', 'Jianyi, Ni', 'Gensui, Tenpou', 'Douji, Konzen', 'Toushin, Homura', 'Taishou, Kenren']	['Seki, Toshihiko', 'Hoshi, Souichirou', 'Ishida, Akira', 'Hirata, Hiroaki', 'Kusao, Takeshi', 'Ootsuka, Houchuu', 'Morikawa, Toshiyuki']	[['Date, Hayato', 'Director, Storyboard'], ['Yamazaki, Takashi', 'Episode Director, Storyboard, Key Animation'], ['Yokote, Michiko', 'Script'], ['Shimokawa, Mikuni', 'Theme Song Performance']]

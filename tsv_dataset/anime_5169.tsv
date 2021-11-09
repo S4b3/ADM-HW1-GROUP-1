@@ -1,17 +1,4 @@
-animeTitle	Aiura
-animeType	TV
-animeNumEpisode	12
-releaseDate	2013-04-10 00:00:00
-endDate	2013-06-26 00:00:00
-animeNumMembers	77158
-animeScore	6.68
-animeUsers	34669
-animeRank	5169
-animePopularity	1929
-animeDescription	"The story centers around Amaya, Iwasawa, and Uehara—three ""annoying, spirited high school girls with zero motivation""—and their classmates. Their daily life is ""what happens when there is nothing happening.""
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Aiura	TV	12	2013-04-10 00:00:00	2013-06-26 00:00:00	77158	6.68	34669	5169	1929	"The story centers around Amaya, Iwasawa, and Uehara—three ""annoying, spirited high school girls with zero motivation""—and their classmates. Their daily life is ""what happens when there is nothing happening.""
 
-(Source: ANN)"
-animeRelated	['Aiura']
-animeCharacters	['Amaya, Kanaka', 'Iwasawa, Saki', 'Uehara, Ayuko', 'Wakatsuki, Misuzu', 'Yanase, Mei', 'Amaya, Souta', 'Yamashita, Sumiko', 'Matsuno, Shuusaku']
-animeVoices	['Nakajima, Yui', 'Iida, Yuuko', 'Tamura, Nao', 'Tamura, Yukari', 'Sakura, Ayane', 'Hanamori, Yumiri', 'Uchiyama, Yumi', 'Sugita, Tomokazu']
-animeStaff	[['Satomi, Tetsurou', 'Producer'], ['Nakamura, Ryousuke', 'Director, Episode Director, Script, Storyboard, Key Animation'], ['Shimizu, Youji', 'Sound Director'], ['Tamura, Nao', 'Theme Song Performance, Inserted Song Performance']]
+(Source: ANN)"	['Aiura']	['Amaya, Kanaka', 'Iwasawa, Saki', 'Uehara, Ayuko', 'Wakatsuki, Misuzu', 'Yanase, Mei', 'Amaya, Souta', 'Yamashita, Sumiko', 'Matsuno, Shuusaku']	['Nakajima, Yui', 'Iida, Yuuko', 'Tamura, Nao', 'Tamura, Yukari', 'Sakura, Ayane', 'Hanamori, Yumiri', 'Uchiyama, Yumi', 'Sugita, Tomokazu']	[['Satomi, Tetsurou', 'Producer'], ['Nakamura, Ryousuke', 'Director, Episode Director, Script, Storyboard, Key Animation'], ['Shimizu, Youji', 'Sound Director'], ['Tamura, Nao', 'Theme Song Performance, Inserted Song Performance']]

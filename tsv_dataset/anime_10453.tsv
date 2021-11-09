@@ -1,15 +1,2 @@
-animeTitle	Ongeki
-animeType	ONA
-animeNumEpisode	1
-releaseDate	2018-04-27 00:00:00
-endDate	
-animeNumMembers	417
-animeScore	5.47
-animeUsers	141
-animeRank	10453
-animePopularity	13464
-animeDescription	A promotional anime for Ongeki, SEGA's new arcade music rhythm game. The arcade game's debut is set for Summer 2018.
-animeRelated	[]
-animeCharacters	['Hoshizaki, Akari', 'Misumi, Aoi', 'Fujisawa, Yuzu']
-animeVoices	['Akao, Hikaru', 'Haruno, Anzu', 'Kubota, Risa']
-animeStaff	[['Tanabe, Kana', 'Color Design'], ['Sako, Yurika', 'Animation Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Ongeki	ONA	1	2018-04-27 00:00:00		417	5.47	141	10453	13464	A promotional anime for Ongeki, SEGA's new arcade music rhythm game. The arcade game's debut is set for Summer 2018.	[]	['Hoshizaki, Akari', 'Misumi, Aoi', 'Fujisawa, Yuzu']	['Akao, Hikaru', 'Haruno, Anzu', 'Kubota, Risa']	[['Tanabe, Kana', 'Color Design'], ['Sako, Yurika', 'Animation Director']]

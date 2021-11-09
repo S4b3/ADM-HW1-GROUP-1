@@ -1,15 +1,2 @@
-animeTitle	Popee the Performer: Countdown Special
-animeType	Special
-animeNumEpisode	1
-releaseDate	2002-01-01 00:00:00
-endDate	
-animeNumMembers	660
-animeScore	6.06
-animeUsers	342
-animeRank	8396
-animePopularity	12230
-animeDescription	Countdown to New Years 2003.
-animeRelated	['Popee the Performer']
-animeCharacters	['Kedamono', 'Popee', 'Papi']
-animeVoices	[]
-animeStaff	[['Masuda, Ryuuji', 'Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Popee the Performer: Countdown Special	Special	1	2002-01-01 00:00:00		660	6.06	342	8396	12230	Countdown to New Years 2003.	['Popee the Performer']	['Kedamono', 'Popee', 'Papi']	[]	[['Masuda, Ryuuji', 'Director']]

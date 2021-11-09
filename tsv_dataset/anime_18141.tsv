@@ -1,15 +1,2 @@
-animeTitle	Shion
-animeType	OVA
-animeNumEpisode	4
-releaseDate	2008-03-28 00:00:00
-endDate	2010-01-23 00:00:00
-animeNumMembers	4372
-animeScore	6.48
-animeUsers	1520
-animeRank	
-animePopularity	7403
-animeDescription	Based on the game by Lilith Mist. 
-animeRelated	['Shion Special']
-animeCharacters	['Shion', 'Asaki, Hiroki', 'Misuzu, Yukiko', 'Lydia', 'Infinity', 'Geist, Slug', 'Geist, Cat']
-animeVoices	['Ono, Ryouko']
-animeStaff	[['Awai, Shigeki', 'Director, Storyboard'], ['Yoshida, Tomohiro', 'Sound Director'], ['Lilith Soft', 'Original Creator'], ['Iijima, Hiroya', 'Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shion	OVA	4	2008-03-28 00:00:00	2010-01-23 00:00:00	4372	6.48	1520		7403	Based on the game by Lilith Mist. 	['Shion Special']	['Shion', 'Asaki, Hiroki', 'Misuzu, Yukiko', 'Lydia', 'Infinity', 'Geist, Slug', 'Geist, Cat']	['Ono, Ryouko']	[['Awai, Shigeki', 'Director, Storyboard'], ['Yoshida, Tomohiro', 'Sound Director'], ['Lilith Soft', 'Original Creator'], ['Iijima, Hiroya', 'Character Design']]

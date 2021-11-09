@@ -1,15 +1,2 @@
-animeTitle	Nine 2: Koibito Sengen
-animeType	Special
-animeNumEpisode	1
-releaseDate	1983-12-18 00:00:00
-endDate	
-animeNumMembers	656
-animeScore	6.09
-animeUsers	221
-animeRank	8196
-animePopularity	12244
-animeDescription	Second part of the Nine TV movies.
-animeRelated	['Nine', 'Nine: Original-ban', 'Nine: Kanketsu-hen']
-animeCharacters	['Niimi, Katsuya']
-animeVoices	[]
-animeStaff	[['Sugii, Gisaburou', 'Director'], ['Serizawa, Hiroaki', 'Theme Song Arrangement, Theme Song Composition, Inserted Song Performance, Music'], ['Adachi, Mitsuru', 'Original Creator'], ['Maeda, Minoru', 'Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Nine 2: Koibito Sengen	Special	1	1983-12-18 00:00:00		656	6.09	221	8196	12244	Second part of the Nine TV movies.	['Nine', 'Nine: Original-ban', 'Nine: Kanketsu-hen']	['Niimi, Katsuya']	[]	[['Sugii, Gisaburou', 'Director'], ['Serizawa, Hiroaki', 'Theme Song Arrangement, Theme Song Composition, Inserted Song Performance, Music'], ['Adachi, Mitsuru', 'Original Creator'], ['Maeda, Minoru', 'Character Design']]

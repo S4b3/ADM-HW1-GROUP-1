@@ -1,15 +1,2 @@
-animeTitle	Weiß Survive R
-animeType	TV
-animeNumEpisode	12
-releaseDate	2009-12-05 00:00:00
-endDate	2010-03-27 00:00:00
-animeNumMembers	10479
-animeScore	6.06
-animeUsers	4595
-animeRank	8403
-animePopularity	5205
-animeDescription	The second season of Weiß Survive.
-animeRelated	['Weiß Survive']
-animeCharacters	['Michi', 'Takeshi', 'VS-jii-san', 'Operetta', 'Shizuru', 'Coo', 'Cal', 'Shisu']
-animeVoices	['Kitta, Izumi', 'Nakamoto, Nobuhisa', 'Enomoto, Atsuko', 'Suzuki, Yuto', 'Nanjou, Yoshino', 'Miruno, Jun']
-animeStaff	[['Setou, Kenji', 'Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Yoshihara, Tatsuya', 'Animation Director, Key Animation'], ['Fujima, Takuya', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Weiß Survive R	TV	12	2009-12-05 00:00:00	2010-03-27 00:00:00	10479	6.06	4595	8403	5205	The second season of Weiß Survive.	['Weiß Survive']	['Michi', 'Takeshi', 'VS-jii-san', 'Operetta', 'Shizuru', 'Coo', 'Cal', 'Shisu']	['Kitta, Izumi', 'Nakamoto, Nobuhisa', 'Enomoto, Atsuko', 'Suzuki, Yuto', 'Nanjou, Yoshino', 'Miruno, Jun']	[['Setou, Kenji', 'Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Yoshihara, Tatsuya', 'Animation Director, Key Animation'], ['Fujima, Takuya', 'Original Creator']]

@@ -1,15 +1,2 @@
-animeTitle	Lupin III: The Last Job
-animeType	Special
-animeNumEpisode	1
-releaseDate	2010-02-12 00:00:00
-endDate	
-animeNumMembers	6586
-animeScore	6.96
-animeUsers	2296
-animeRank	3938
-animePopularity	6266
-animeDescription	"Lupin III aims to steal a Japanese cultural treasure ""Jigoku Nyorai Zo,"" which is found in the recreation facilities of Nazi Germany. However, this valuable object is also targeted by Morgana, a mysterious figure who leads a ninja thief gang."
-animeRelated	['Lupin III']
-animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Kagurazaka, Asuka']
-animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou', 'Hirano, Aya']
-animeStaff	[['Nakatani, Toshio', 'Producer'], ['Amino, Tetsuro', 'Director, Storyboard'], ['Ooba, Hideaki', 'Episode Director'], ['Okawa, Toshimichi', 'Script']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Lupin III: The Last Job	Special	1	2010-02-12 00:00:00		6586	6.96	2296	3938	6266	"Lupin III aims to steal a Japanese cultural treasure ""Jigoku Nyorai Zo,"" which is found in the recreation facilities of Nazi Germany. However, this valuable object is also targeted by Morgana, a mysterious figure who leads a ninja thief gang."	['Lupin III']	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Kagurazaka, Asuka']	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou', 'Hirano, Aya']	[['Nakatani, Toshio', 'Producer'], ['Amino, Tetsuro', 'Director, Storyboard'], ['Ooba, Hideaki', 'Episode Director'], ['Okawa, Toshimichi', 'Script']]

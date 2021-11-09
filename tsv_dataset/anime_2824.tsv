@@ -1,14 +1,5 @@
-animeTitle	The Cockpit
-animeType	OVA
-animeNumEpisode	3
-releaseDate	1993-10-22 00:00:00
-endDate	1994-01-21 00:00:00
-animeNumMembers	10795
-animeScore	7.21
-animeUsers	4369
-animeRank	2824
-animePopularity	5141
-animeDescription	"1. Slipstream
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+The Cockpit	OVA	3	1993-10-22 00:00:00	1994-01-21 00:00:00	10795	7.21	4369	2824	5141	"1. Slipstream
 About a Luftwaffe pilot who must choose between his duty to his country: to guard a bomber loaded with Germany's final hope of victory... the world's first atomic bomb... or his duty to the world: to let it fall in flames to enemy Spitfires and be a footnote in history. Of course, things are complicated by the plane's other cargo... the woman he loves. 
 
 2. Sonic Boom Squadron
@@ -17,8 +8,4 @@ Near the end of the war, Japan has implemented a new weapon -- a human-piloted r
 3. Knight of the Iron Dragon
 Two soldiers attempt to reach an air base in order to fulfill a promise despite the fact that it might have been rendered moot in the reality of war.
 
-(Source: ANN)"
-animeRelated	['Senjou Manga Series']
-animeCharacters	['Lt. Rheindars', 'Ensign Nogami', 'Soldier Godal', 'Soldier Utsunomiya', 'Melhenna']
-animeVoices	['Horiuchi, Kenyuu', 'Midorikawa, Hikaru', 'Nagai, Ichiro', 'Yamaguchi, Kappei', 'Shinohara, Emi']
-animeStaff	[['Kawajiri, Yoshiaki', 'Director, Storyboard, Screenplay, Animation Director, Key Animation'], ['Takahashi, Ryousuke', 'Director'], ['Imanishi, Takashi', 'Director, Episode Director'], ['Kramer, Steve', 'Script']]
+(Source: ANN)"	['Senjou Manga Series']	['Lt. Rheindars', 'Ensign Nogami', 'Soldier Godal', 'Soldier Utsunomiya', 'Melhenna']	['Horiuchi, Kenyuu', 'Midorikawa, Hikaru', 'Nagai, Ichiro', 'Yamaguchi, Kappei', 'Shinohara, Emi']	[['Kawajiri, Yoshiaki', 'Director, Storyboard, Screenplay, Animation Director, Key Animation'], ['Takahashi, Ryousuke', 'Director'], ['Imanishi, Takashi', 'Director, Episode Director'], ['Kramer, Steve', 'Script']]

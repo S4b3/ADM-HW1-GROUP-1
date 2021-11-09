@@ -1,15 +1,2 @@
-animeTitle	Idolls!
-animeType	TV
-animeNumEpisode	10
-releaseDate	2021-01-08 00:00:00
-endDate	2021-03-12 00:00:00
-animeNumMembers	3934
-animeScore	5.1
-animeUsers	1365
-animeRank	11298
-animePopularity	7691
-animeDescription	An idol group, consisting of four young girls, are at loss as the number of guests coming to their concerts is hilariously low. One day, confronted by a talking wooden carving, they take on a challenge to gather a hundred fans in only ten days in order to fill a proper concert venue.
-animeRelated	[]
-animeCharacters	['Ruka', 'Shiori', 'Ami', 'Aina']
-animeVoices	['Yashiro, Ruka', 'Hanaoka, Shiori', 'Mizuno, Ami', 'Rutou, Aina']
-animeStaff	[['Nakano, Shouta', 'Director'], ['Watarai, Keiji', 'Original Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Idolls!	TV	10	2021-01-08 00:00:00	2021-03-12 00:00:00	3934	5.1	1365	11298	7691	An idol group, consisting of four young girls, are at loss as the number of guests coming to their concerts is hilariously low. One day, confronted by a talking wooden carving, they take on a challenge to gather a hundred fans in only ten days in order to fill a proper concert venue.	[]	['Ruka', 'Shiori', 'Ami', 'Aina']	['Yashiro, Ruka', 'Hanaoka, Shiori', 'Mizuno, Ami', 'Rutou, Aina']	[['Nakano, Shouta', 'Director'], ['Watarai, Keiji', 'Original Character Design']]

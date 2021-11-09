@@ -1,15 +1,2 @@
-animeTitle	Un-Go: Inga-ron
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2011-11-19 00:00:00
-endDate	
-animeNumMembers	34880
-animeScore	7.58
-animeUsers	17739
-animeRank	1382
-animePopularity	3038
-animeDescription	Prequel film of UN-GO telling the encounter of Shinjuurou and Inga.
-animeRelated	['Un-Go: Inga-ron', 'Un-Go']
-animeCharacters	['Inga', 'Yuuki, Shinjuurou', 'Kaishou, Rie', 'Kaishou, Rinroku', 'Koyama, Izumi', 'Bettenou', 'Serada, Makirou', 'Hayami, Seigen', 'Oono, Myoushin', 'Kurata, Yuuko']
-animeVoices	['Toyosaki, Aki', 'Katsuji, Ryou', 'Yamamoto, Nozomi', 'Miki, Shinichiro', 'Honda, Takako', 'Kawashima, Tokuyoshi', 'Irino, Miyu', 'Tomatsu, Haruka']
-animeStaff	[['Mizushima, Seiji', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Kanegae, Tooru', 'Sound Director'], ['Asai, Yoshiyuki', 'Episode Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Un-Go: Inga-ron	Movie	1	2011-11-19 00:00:00		34880	7.58	17739	1382	3038	Prequel film of UN-GO telling the encounter of Shinjuurou and Inga.	['Un-Go: Inga-ron', 'Un-Go']	['Inga', 'Yuuki, Shinjuurou', 'Kaishou, Rie', 'Kaishou, Rinroku', 'Koyama, Izumi', 'Bettenou', 'Serada, Makirou', 'Hayami, Seigen', 'Oono, Myoushin', 'Kurata, Yuuko']	['Toyosaki, Aki', 'Katsuji, Ryou', 'Yamamoto, Nozomi', 'Miki, Shinichiro', 'Honda, Takako', 'Kawashima, Tokuyoshi', 'Irino, Miyu', 'Tomatsu, Haruka']	[['Mizushima, Seiji', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Kanegae, Tooru', 'Sound Director'], ['Asai, Yoshiyuki', 'Episode Director']]

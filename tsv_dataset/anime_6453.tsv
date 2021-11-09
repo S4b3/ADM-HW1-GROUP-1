@@ -1,17 +1,4 @@
-animeTitle	Interlude
-animeType	OVA
-animeNumEpisode	3
-releaseDate	2004-03-25 00:00:00
-endDate	2004-08-27 00:00:00
-animeNumMembers	12478
-animeScore	6.44
-animeUsers	4539
-animeRank	6453
-animePopularity	4850
-animeDescription	"The unnamed main character has been having strange dreams, seeing strange things, and meeting strange people. He investigates these events and finds a strange girl named Aya. With her help, he discovers that his world may not in fact be real and many of the people he thinks he knows may not exist anymore.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Interlude	OVA	3	2004-03-25 00:00:00	2004-08-27 00:00:00	12478	6.44	4539	6453	4850	"The unnamed main character has been having strange dreams, seeing strange things, and meeting strange people. He investigates these events and finds a strange girl named Aya. With her help, he discovers that his world may not in fact be real and many of the people he thinks he knows may not exist anymore.
 
-(Source: FUNimation)"
-animeRelated	[]
-animeCharacters	"['Watsuji, Aya', 'Tamaki, Maiko', 'Saegusa, Mutsuki', 'Fuyuki, Akio', 'Fuyuki, Ikuo', 'Marufuji, Izumi', 'General', 'Buta', ""Aya's Mother"", 'Saegusa, Miyako']"
-animeVoices	['Kuwashima, Houko', 'Tamura, Yukari', 'Ootani, Ikue', 'Morita, Masakazu', 'Gouda, Hozumi', 'Kingetsu, Mami', 'Egawa, Hisao', 'Nagasako, Takashi', 'Ohmoto, Makiko', 'Watanabe, Misa']
-animeStaff	[['Shibata, Hiroaki', 'Producer'], ['Nagamine, Tatsuya', 'Director'], ['Hosoda, Masahiro', 'Director'], ['Omode, Akemi', 'Script']]
+(Source: FUNimation)"	[]	"['Watsuji, Aya', 'Tamaki, Maiko', 'Saegusa, Mutsuki', 'Fuyuki, Akio', 'Fuyuki, Ikuo', 'Marufuji, Izumi', 'General', 'Buta', ""Aya's Mother"", 'Saegusa, Miyako']"	['Kuwashima, Houko', 'Tamura, Yukari', 'Ootani, Ikue', 'Morita, Masakazu', 'Gouda, Hozumi', 'Kingetsu, Mami', 'Egawa, Hisao', 'Nagasako, Takashi', 'Ohmoto, Makiko', 'Watanabe, Misa']	[['Shibata, Hiroaki', 'Producer'], ['Nagamine, Tatsuya', 'Director'], ['Hosoda, Masahiro', 'Director'], ['Omode, Akemi', 'Script']]

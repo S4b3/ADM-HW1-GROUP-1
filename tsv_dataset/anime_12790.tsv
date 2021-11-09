@@ -1,15 +1,2 @@
-animeTitle	Play Ball 2nd
-animeType	TV
-animeNumEpisode	13
-releaseDate	2006-01-10 00:00:00
-endDate	2006-03-28 00:00:00
-animeNumMembers	484
-animeScore	
-animeUsers	
-animeRank	12790
-animePopularity	13029
-animeDescription	A continuation of the Play Ball TV series.
-animeRelated	['Play Ball']
-animeCharacters	['Taniguchi, Takao', 'Oota', 'Nakayama', 'Muramatsu', 'Marui', 'Igarashi']
-animeVoices	[]
-animeStaff	[['Ueda, Kouji', 'Episode Director'], ['Wada, Kaoru', 'Music'], ['Kaizu, Toshiko', 'Art Director'], ['Shimizu, Keizou', 'Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Play Ball 2nd	TV	13	2006-01-10 00:00:00	2006-03-28 00:00:00	484			12790	13029	A continuation of the Play Ball TV series.	['Play Ball']	['Taniguchi, Takao', 'Oota', 'Nakayama', 'Muramatsu', 'Marui', 'Igarashi']	[]	[['Ueda, Kouji', 'Episode Director'], ['Wada, Kaoru', 'Music'], ['Kaizu, Toshiko', 'Art Director'], ['Shimizu, Keizou', 'Character Design']]

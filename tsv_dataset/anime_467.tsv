@@ -1,15 +1,2 @@
-animeTitle	Fate/Grand Carnival
-animeType	OVA
-animeNumEpisode	4
-releaseDate	2020-12-31 00:00:00
-endDate	2021-10-13 00:00:00
-animeNumMembers	33655
-animeScore	8.07
-animeUsers	7485
-animeRank	467
-animePopularity	3100
-animeDescription	"The first episode of ""season"" one was pre-aired on the Fate Project New Year's Eve TV Special 2020 program. "
-animeRelated	['Carnival Phantasm', 'Fate/Grand Order: First Order', 'Fate/Grand Order: Zettai Majuu Sensen Babylonia']
-animeCharacters	['Kyrielight, Mash', 'Jeanne (Alter)', 'Fujimaru, Ritsuka', 'Saber', 'Gilgamesh', 'Lancer', 'Ruler', 'Ishtar', 'Caster']
-animeVoices	['Takahashi, Rie', 'Sakamoto, Maaya', 'Sekine, Akira', 'Kawasumi, Ayako', 'Seki, Tomokazu', 'Canna, Nobutoshi', 'Tange, Sakura', 'Ueda, Kana', 'Saitou, Chiwa']
-animeStaff	[['Higa, Yuuji', 'Producer'], ['Kishi, Seiji', 'Director'], ['Uezu, Makoto', 'Script, Series Composition'], ['Takanashi, Yasuharu', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Fate/Grand Carnival	OVA	4	2020-12-31 00:00:00	2021-10-13 00:00:00	33655	8.07	7485	467	3100	"The first episode of ""season"" one was pre-aired on the Fate Project New Year's Eve TV Special 2020 program. "	['Carnival Phantasm', 'Fate/Grand Order: First Order', 'Fate/Grand Order: Zettai Majuu Sensen Babylonia']	['Kyrielight, Mash', 'Jeanne (Alter)', 'Fujimaru, Ritsuka', 'Saber', 'Gilgamesh', 'Lancer', 'Ruler', 'Ishtar', 'Caster']	['Takahashi, Rie', 'Sakamoto, Maaya', 'Sekine, Akira', 'Kawasumi, Ayako', 'Seki, Tomokazu', 'Canna, Nobutoshi', 'Tange, Sakura', 'Ueda, Kana', 'Saitou, Chiwa']	[['Higa, Yuuji', 'Producer'], ['Kishi, Seiji', 'Director'], ['Uezu, Makoto', 'Script, Series Composition'], ['Takanashi, Yasuharu', 'Music']]

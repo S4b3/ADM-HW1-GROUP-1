@@ -1,15 +1,2 @@
-animeTitle	Kitsutsuki Keikaku
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1966-01-01 00:00:00
-endDate	
-animeNumMembers	427
-animeScore	5.31
-animeUsers	189
-animeRank	10896
-animePopularity	13405
-animeDescription	Puppet animation by Tadanari Okamoto.
-animeRelated	['Fushigi na Kusuri']
-animeCharacters	['Doron']
-animeVoices	[]
-animeStaff	[['Okamoto, Tadanari', 'Director'], ['Hoshi, Shinichi', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kitsutsuki Keikaku	Movie	1	1966-01-01 00:00:00		427	5.31	189	10896	13405	Puppet animation by Tadanari Okamoto.	['Fushigi na Kusuri']	['Doron']	[]	[['Okamoto, Tadanari', 'Director'], ['Hoshi, Shinichi', 'Original Creator']]

@@ -1,17 +1,4 @@
-animeTitle	Kakari
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2004-01-01 00:00:00
-endDate	
-animeNumMembers	470
-animeScore	4.62
-animeUsers	251
-animeRank	11785
-animePopularity	13144
-animeDescription	"A clerk has his own duty. A clerk does his own work. This is what a clerk should do.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kakari	Movie	1	2004-01-01 00:00:00		470	4.62	251	11785	13144	"A clerk has his own duty. A clerk does his own work. This is what a clerk should do.
 
-(Source: Official website)"
-animeRelated	[]
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+(Source: Official website)"	[]	[]	[]	[]

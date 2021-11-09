@@ -1,17 +1,4 @@
-animeTitle	"""Eiji"""
-animeType	OVA
-animeNumEpisode	1
-releaseDate	1990-08-25 00:00:00
-endDate	
-animeNumMembers	2244
-animeScore	5.67
-animeUsers	910
-animeRank	9848
-animePopularity	9129
-animeDescription	"Legendary boxer Keijiro Akagi's second son, Eiji, is a high school dropout and the world's worst rock guitarist. Though his father and elder brother are both boxers, he hates the sport but suddenly takes an interest in it when he meets the local champion's little sister. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+"""Eiji"""	OVA	1	1990-08-25 00:00:00		2244	5.67	910	9848	9129	"Legendary boxer Keijiro Akagi's second son, Eiji, is a high school dropout and the world's worst rock guitarist. Though his father and elder brother are both boxers, he hates the sport but suddenly takes an interest in it when he meets the local champion's little sister. 
 
-(Source: ANN) "
-animeRelated	"['""Eiji""']"
-animeCharacters	['Akagi, Eiji', 'Kusanagi, Aya', 'Akagi, Kimie', 'Akagi, Keijiro']
-animeVoices	['Horikawa, Ryo', 'Orikasa, Ai', 'Yokoo, Mari', 'Hori, Hideyuki']
-animeStaff	[['Nishikubo, Mizuho', 'Director'], ['Eguchi, Hisashi', 'Original Creator'], ['Ishikawa, Mitsuhisa', 'Production Manager'], ['Kise, Kazuchika', 'Key Animation']]
+(Source: ANN) "	"['""Eiji""']"	['Akagi, Eiji', 'Kusanagi, Aya', 'Akagi, Kimie', 'Akagi, Keijiro']	['Horikawa, Ryo', 'Orikasa, Ai', 'Yokoo, Mari', 'Hori, Hideyuki']	[['Nishikubo, Mizuho', 'Director'], ['Eguchi, Hisashi', 'Original Creator'], ['Ishikawa, Mitsuhisa', 'Production Manager'], ['Kise, Kazuchika', 'Key Animation']]

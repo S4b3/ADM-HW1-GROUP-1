@@ -1,15 +1,2 @@
-animeTitle	Rurouni Kenshin Special
-animeType	Special
-animeNumEpisode	1
-releaseDate	1998-12-02 00:00:00
-endDate	
-animeNumMembers	17604
-animeScore	7.33
-animeUsers	7984
-animeRank	2247
-animePopularity	4237
-animeDescription	A VHS only special episode. Also known as Episode 95.
-animeRelated	['Rurouni Kenshin: Meiji Kenkaku Romantan']
-animeCharacters	['Himura, Kenshin', 'Kamiya, Kaoru', 'Sagara, Sanosuke', 'Myoujin, Yahiko', 'Takani, Megumi', 'Sanjou, Tsubame', 'Oguni, Suzume', 'Oguni, Ayame', 'Sekihara, Tae']
-animeVoices	['Suzukaze, Mayo', 'Fujitani, Miki', 'Ueda, Yuuji', 'Tominaga, Miina', 'Doi, Mika', 'Shiratori, Yuri', 'Namiki, Noriko', 'Yuasa, Kaori', 'Shimamoto, Sumi']
-animeStaff	[['Watsuki, Nobuhiro', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Rurouni Kenshin Special	Special	1	1998-12-02 00:00:00		17604	7.33	7984	2247	4237	A VHS only special episode. Also known as Episode 95.	['Rurouni Kenshin: Meiji Kenkaku Romantan']	['Himura, Kenshin', 'Kamiya, Kaoru', 'Sagara, Sanosuke', 'Myoujin, Yahiko', 'Takani, Megumi', 'Sanjou, Tsubame', 'Oguni, Suzume', 'Oguni, Ayame', 'Sekihara, Tae']	['Suzukaze, Mayo', 'Fujitani, Miki', 'Ueda, Yuuji', 'Tominaga, Miina', 'Doi, Mika', 'Shiratori, Yuri', 'Namiki, Noriko', 'Yuasa, Kaori', 'Shimamoto, Sumi']	[['Watsuki, Nobuhiro', 'Original Creator']]

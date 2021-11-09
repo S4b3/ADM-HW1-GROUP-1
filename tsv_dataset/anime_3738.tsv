@@ -1,15 +1,2 @@
-animeTitle	Strike the Blood II
-animeType	OVA
-animeNumEpisode	8
-releaseDate	2016-11-23 00:00:00
-endDate	2017-05-24 00:00:00
-animeNumMembers	164762
-animeScore	7.02
-animeUsers	70518
-animeRank	3738
-animePopularity	1073
-animeDescription	The second season of Strike the Blood which adapts three arcs from the 9th, 11th, and 12th light novel volumes. 
-animeRelated	['Strike the Blood', 'Strike the Blood III']
-animeCharacters	['Himeragi, Yukina', 'Akatsuki, Kojou', 'Aiba, Asagi', 'Rihavein, La Folia', 'Kirasaka, Sayaka', 'Minamiya, Natsuki', 'Kanase, Kanon', 'Astarte', 'Yaze, Motoki', 'Akatsuki, Nagisa']
-animeVoices	['Taneda, Risa', 'Hosoya, Yoshimasa', 'Seto, Asami', 'Oonishi, Saori', 'Hayama, Ikumi', 'Kanemoto, Hisako', 'Itou, Kanae', 'Iguchi, Yuka', 'Oosaka, Ryouta', 'Hidaka, Rina']
-animeStaff	[['Nakayama, Nobuhiro', 'Producer'], ['Yamamoto, Hideyo', 'Director'], ['Taneda, Risa', 'Theme Song Performance'], ['Wakeshima, Kanon', 'Theme Song Lyrics']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Strike the Blood II	OVA	8	2016-11-23 00:00:00	2017-05-24 00:00:00	164762	7.02	70518	3738	1073	The second season of Strike the Blood which adapts three arcs from the 9th, 11th, and 12th light novel volumes. 	['Strike the Blood', 'Strike the Blood III']	['Himeragi, Yukina', 'Akatsuki, Kojou', 'Aiba, Asagi', 'Rihavein, La Folia', 'Kirasaka, Sayaka', 'Minamiya, Natsuki', 'Kanase, Kanon', 'Astarte', 'Yaze, Motoki', 'Akatsuki, Nagisa']	['Taneda, Risa', 'Hosoya, Yoshimasa', 'Seto, Asami', 'Oonishi, Saori', 'Hayama, Ikumi', 'Kanemoto, Hisako', 'Itou, Kanae', 'Iguchi, Yuka', 'Oosaka, Ryouta', 'Hidaka, Rina']	[['Nakayama, Nobuhiro', 'Producer'], ['Yamamoto, Hideyo', 'Director'], ['Taneda, Risa', 'Theme Song Performance'], ['Wakeshima, Kanon', 'Theme Song Lyrics']]

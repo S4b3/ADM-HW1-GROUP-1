@@ -1,15 +1,2 @@
-animeTitle	Mai-HiME Specials
-animeType	Special
-animeNumEpisode	27
-releaseDate	2005-01-28 00:00:00
-endDate	2010-01-27 00:00:00
-animeNumMembers	11240
-animeScore	6.91
-animeUsers	5320
-animeRank	4168
-animePopularity	5065
-animeDescription	"Extra shorts that come after each episode. This entry also includes the Mai Hime vs. Mai Otome - ""Moe""? The Greatest Battle! episode."
-animeRelated	['Mai-HiME']
-animeCharacters	['Kuga, Natsuki', 'Tokiha, Mai', 'Minagi, Mikoto', 'Fujino, Shizuru', 'Yuuki, Nao', 'Okuzaki, Akira', 'Sugiura, Midori', 'Tate, Yuuichi', 'Homura, Nagi', 'Suzushiro, Haruka']
-animeVoices	['Chiba, Saeko', 'Nakahara, Mai', 'Yuzuki, Ryouka']
-animeStaff	[['Hisayuki, Hirokazu', 'Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Mai-HiME Specials	Special	27	2005-01-28 00:00:00	2010-01-27 00:00:00	11240	6.91	5320	4168	5065	"Extra shorts that come after each episode. This entry also includes the Mai Hime vs. Mai Otome - ""Moe""? The Greatest Battle! episode."	['Mai-HiME']	['Kuga, Natsuki', 'Tokiha, Mai', 'Minagi, Mikoto', 'Fujino, Shizuru', 'Yuuki, Nao', 'Okuzaki, Akira', 'Sugiura, Midori', 'Tate, Yuuichi', 'Homura, Nagi', 'Suzushiro, Haruka']	['Chiba, Saeko', 'Nakahara, Mai', 'Yuzuki, Ryouka']	[['Hisayuki, Hirokazu', 'Character Design']]

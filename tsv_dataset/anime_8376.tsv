@@ -1,15 +1,2 @@
-animeTitle	Great Mazinger tai Getter Robo
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1975-03-21 00:00:00
-endDate	
-animeNumMembers	2030
-animeScore	6.06
-animeUsers	849
-animeRank	8376
-animePopularity	9397
-animeDescription	Go Nagai crossover movie. 
-animeRelated	['Getter Robo', 'Great Mazinger']
-animeCharacters	['Nagare, Ryouma', 'Boss', 'Tomoe, Musashi', 'Tsurugi, Tetsuya', 'Jin, Hayato']
-animeVoices	['Kamiya, Akira', 'Ootake, Hiroshi', 'Nishio, Toku', 'Noda, Keiichi', 'Yamada, Keaton']
-animeStaff	[['Fujikawa, Keisuke', 'Script, Screenplay'], ['Watanabe, Chuumei', 'Theme Song Arrangement, Theme Song Composition, Music'], ['Nagai, Go', 'Original Creator'], ['Ishikawa, Ken', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Great Mazinger tai Getter Robo	Movie	1	1975-03-21 00:00:00		2030	6.06	849	8376	9397	Go Nagai crossover movie. 	['Getter Robo', 'Great Mazinger']	['Nagare, Ryouma', 'Boss', 'Tomoe, Musashi', 'Tsurugi, Tetsuya', 'Jin, Hayato']	['Kamiya, Akira', 'Ootake, Hiroshi', 'Nishio, Toku', 'Noda, Keiichi', 'Yamada, Keaton']	[['Fujikawa, Keisuke', 'Script, Screenplay'], ['Watanabe, Chuumei', 'Theme Song Arrangement, Theme Song Composition, Music'], ['Nagai, Go', 'Original Creator'], ['Ishikawa, Ken', 'Original Creator']]

@@ -1,14 +1,5 @@
-animeTitle	RD Sennou Chousashitsu
-animeType	TV
-animeNumEpisode	26
-releaseDate	2008-04-09 00:00:00
-endDate	2008-10-01 00:00:00
-animeNumMembers	23872
-animeScore	7.12
-animeUsers	4859
-animeRank	3272
-animePopularity	3684
-animeDescription	"2061 AD. Fifty years have passed since mankind developed the Network society. It was anticipated that this new infrastructure would realize a utopia where people connected with each other at the level of consciousness. However, new social problems such as personal data leaks and proliferation of manipulated information began to surface. Nevertheless, people still relied on the Network to exchange information, and proved unable to opt to abandon it.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+RD Sennou Chousashitsu	TV	26	2008-04-09 00:00:00	2008-10-01 00:00:00	23872	7.12	4859	3272	3684	"2061 AD. Fifty years have passed since mankind developed the Network society. It was anticipated that this new infrastructure would realize a utopia where people connected with each other at the level of consciousness. However, new social problems such as personal data leaks and proliferation of manipulated information began to surface. Nevertheless, people still relied on the Network to exchange information, and proved unable to opt to abandon it.
 
 In due course, a new Network realm with more effective security measures was developed. This was called Meta Real Network, usually abbreviated as ""the Metal.""
 
@@ -20,8 +11,4 @@ Experts who challenged the deep sea of the Metal to investigate and decipher suc
 
 This is a story of a cyber diver, Masamichi Haru, who investigates the incidents that lie between Reality and the Metal.
 
-(Source: Production I.G)"
-animeRelated	['RD Sennou Chousashitsu', 'RD Sennou Chousashitsu Redeemable Dream']
-animeCharacters	['Aoi, Minamo', 'Haru, Masamichi', 'Itou, Yukino', 'Holon', 'Aoi, Souta', 'Kushima, Eiichirou', 'Fujiwara, Ayumu', 'Takanami, Erica Patricia', 'Ichinose, Kazune', 'Eliza']
-animeVoices	['Oki, Kanae', 'Mori, Katsuji', 'Nonaka, Ai', 'Kawasumi, Ayako', 'Takahashi, Hiroki', 'Fujiwara, Keiji', 'Yao, Kazuki', 'Tsuru, Hiromi', 'Nozawa, Nachi', 'Koorogi, Satomi']
-animeStaff	[['Wada, Jouji', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Furuhashi, Kazuhiro', 'Director'], ['Shiotani, Naoyoshi', 'Episode Director, Key Animation']]
+(Source: Production I.G)"	['RD Sennou Chousashitsu', 'RD Sennou Chousashitsu Redeemable Dream']	['Aoi, Minamo', 'Haru, Masamichi', 'Itou, Yukino', 'Holon', 'Aoi, Souta', 'Kushima, Eiichirou', 'Fujiwara, Ayumu', 'Takanami, Erica Patricia', 'Ichinose, Kazune', 'Eliza']	['Oki, Kanae', 'Mori, Katsuji', 'Nonaka, Ai', 'Kawasumi, Ayako', 'Takahashi, Hiroki', 'Fujiwara, Keiji', 'Yao, Kazuki', 'Tsuru, Hiromi', 'Nozawa, Nachi', 'Koorogi, Satomi']	[['Wada, Jouji', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Furuhashi, Kazuhiro', 'Director'], ['Shiotani, Naoyoshi', 'Episode Director, Key Animation']]

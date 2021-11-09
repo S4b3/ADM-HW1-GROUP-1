@@ -1,17 +1,4 @@
-animeTitle	InuYasha Movie 1: Toki wo Koeru Omoi
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2001-12-22 00:00:00
-endDate	
-animeNumMembers	89195
-animeScore	7.56
-animeUsers	49843
-animeRank	1427
-animePopularity	1766
-animeDescription	"Inu-Yasha has mastered the ultimate attack of the Tetsusaiga and continues his battle for the Shikon Jewel shards with Kagome, Shippo, Sango, and Miroku. Unfortunately, a freak occurance with a jewel shard has brought to life an incarnation of a demonic enemy sealed by Inu-Yashas' father. Inu-Yasha must surpass his father and destroy this demon or every soul in Japan will be consumed.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+InuYasha Movie 1: Toki wo Koeru Omoi	Movie	1	2001-12-22 00:00:00		89195	7.56	49843	1427	1766	"Inu-Yasha has mastered the ultimate attack of the Tetsusaiga and continues his battle for the Shikon Jewel shards with Kagome, Shippo, Sango, and Miroku. Unfortunately, a freak occurance with a jewel shard has brought to life an incarnation of a demonic enemy sealed by Inu-Yashas' father. Inu-Yasha must surpass his father and destroy this demon or every soul in Japan will be consumed.
 
-(Source: ANN)"
-animeRelated	['InuYasha']
-animeCharacters	['Inuyasha', 'Higurashi, Kagome', 'Sesshoumaru', 'Sango', 'Kikyou', 'Miroku', 'Shippou', 'Rin', 'Kirara', 'Jaken']
-animeVoices	['Yamaguchi, Kappei', 'Yukino, Satsuki', 'Narita, Ken', 'Kuwashima, Houko', 'Hidaka, Noriko', 'Tsujitani, Kouji', 'Watanabe, Kumiko', 'Noto, Mamiko', 'Cho']
-animeStaff	[['Ueda, Masuo', 'Producer, Planning'], ['Shinohara, Toshiya', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Hata, Masami', 'Episode Director, Storyboard']]
+(Source: ANN)"	['InuYasha']	['Inuyasha', 'Higurashi, Kagome', 'Sesshoumaru', 'Sango', 'Kikyou', 'Miroku', 'Shippou', 'Rin', 'Kirara', 'Jaken']	['Yamaguchi, Kappei', 'Yukino, Satsuki', 'Narita, Ken', 'Kuwashima, Houko', 'Hidaka, Noriko', 'Tsujitani, Kouji', 'Watanabe, Kumiko', 'Noto, Mamiko', 'Cho']	[['Ueda, Masuo', 'Producer, Planning'], ['Shinohara, Toshiya', 'Director'], ['Tsuruoka, Youta', 'Sound Director'], ['Hata, Masami', 'Episode Director, Storyboard']]

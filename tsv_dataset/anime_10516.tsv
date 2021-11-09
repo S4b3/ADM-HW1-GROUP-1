@@ -1,15 +1,2 @@
-animeTitle	Ozmafia!!
-animeType	TV
-animeNumEpisode	12
-releaseDate	2016-07-07 00:00:00
-endDate	2016-09-22 00:00:00
-animeNumMembers	18769
-animeScore	5.45
-animeUsers	6210
-animeRank	10516
-animePopularity	4106
-animeDescription	The anime will feature an original story from the game on which it is based. 
-animeRelated	['Ozmafia!!', 'Ozmafia!! Special']
-animeCharacters	['Kyrie', 'Scarlet', 'Caramia', 'Axel', 'Caesar', 'Sou', 'Pashet', 'Hameln', 'Alfani', 'Judie']
-animeVoices	['Okitsu, Kazuyuki', 'Ichiki, Mitsuhiro', 'Shingaki, Tarusuke', 'Kakehashi, Atsushi', 'Kirimoto, Takuya', 'Iguchi, Yuuichi', 'Fujii, Kyoko', 'Ono, Yuuki', 'Takahashi, Makoto']
-animeStaff	[['Hirasawa, Hisayoshi', 'Director'], ['Hayashi, Kouji', 'Director of Photography'], ['Shiraishi, Yuika', 'Sound Effects'], ['Natsuno, Hamuto', 'Original Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Ozmafia!!	TV	12	2016-07-07 00:00:00	2016-09-22 00:00:00	18769	5.45	6210	10516	4106	The anime will feature an original story from the game on which it is based. 	['Ozmafia!!', 'Ozmafia!! Special']	['Kyrie', 'Scarlet', 'Caramia', 'Axel', 'Caesar', 'Sou', 'Pashet', 'Hameln', 'Alfani', 'Judie']	['Okitsu, Kazuyuki', 'Ichiki, Mitsuhiro', 'Shingaki, Tarusuke', 'Kakehashi, Atsushi', 'Kirimoto, Takuya', 'Iguchi, Yuuichi', 'Fujii, Kyoko', 'Ono, Yuuki', 'Takahashi, Makoto']	[['Hirasawa, Hisayoshi', 'Director'], ['Hayashi, Kouji', 'Director of Photography'], ['Shiraishi, Yuika', 'Sound Effects'], ['Natsuno, Hamuto', 'Original Character Design']]

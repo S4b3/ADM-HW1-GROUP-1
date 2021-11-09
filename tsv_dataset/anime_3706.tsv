@@ -1,14 +1,5 @@
-animeTitle	Doraemon Movie 04: Nobita no Kaitei Kiganjou
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1983-03-12 00:00:00
-endDate	
-animeNumMembers	4032
-animeScore	7.02
-animeUsers	2237
-animeRank	3706
-animePopularity	7613
-animeDescription	"The plot revolves around a summer vacation of Nobita and his friends under the waters of Pacific Ocean. Jaian and Suneo take Doraemon's underwater vehicle and travel through the Atlantic Ocean, trying to find a treasure ship. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Doraemon Movie 04: Nobita no Kaitei Kiganjou	Movie	1	1983-03-12 00:00:00		4032	7.02	2237	3706	7613	"The plot revolves around a summer vacation of Nobita and his friends under the waters of Pacific Ocean. Jaian and Suneo take Doraemon's underwater vehicle and travel through the Atlantic Ocean, trying to find a treasure ship. 
 
 Along the way, they discover that the environment gun that Doraemon used to protect them is running out of energy leaving them vulnerable to the sea. Fortunately, they are rescued by some marine creatures. 
 
@@ -18,8 +9,4 @@ With the help of a young boy from Mu, Nobita and his friends attempt to stop the
 
 After returning to Mu, Doraemon and his friends are hailed as heroes.
 
-(Source: Wikipedia)"
-animeRelated	['Daichouhen Doraemon', 'Doraemon (1979)', 'Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki', 'Perman: Birdman ga Yatte Kita!!']
-animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Nobi, Nobisuke', 'Gouda, Mother']
-animeVoices	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Nomura, Michiko', 'Kimotsuki, Kaneta', 'Tatekabe, Kazuya']
-animeStaff	[['Urakami, Yasuo', 'Sound Director'], ['Takeda, Tetsuya', 'Theme Song Lyrics'], ['Fujiko, Fujio F.', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music']]
+(Source: Wikipedia)"	['Daichouhen Doraemon', 'Doraemon (1979)', 'Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki', 'Perman: Birdman ga Yatte Kita!!']	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Nobi, Nobisuke', 'Gouda, Mother']	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Nomura, Michiko', 'Kimotsuki, Kaneta', 'Tatekabe, Kazuya']	[['Urakami, Yasuo', 'Sound Director'], ['Takeda, Tetsuya', 'Theme Song Lyrics'], ['Fujiko, Fujio F.', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music']]

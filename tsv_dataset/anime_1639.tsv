@@ -1,15 +1,2 @@
-animeTitle	Nanbaka 2
-animeType	ONA
-animeNumEpisode	12
-releaseDate	2017-01-04 00:00:00
-endDate	2017-03-22 00:00:00
-animeNumMembers	109585
-animeScore	7.5
-animeUsers	53250
-animeRank	1639
-animePopularity	1506
-animeDescription	The second part of Nanbaka. The prisoners and their guards continue their comfortable lives at Nanba Prison. However, from the shadows emerges a new threat: Enki Gokuu, a person from Samon's past, who has mysterious goals of his own.
-animeRelated	['Nanbaka', 'Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!']
-animeCharacters	['Juugo', 'Nico', 'Uno', 'Sugoroku, Hajime', 'Rock', 'Hyakushiki, Momoko', 'Gokuu, Samon', 'Hitokoe, Mitsuru', 'Tanabata, Seitarou', 'Tsukumo']
-animeVoices	['Uemura, Yuuto', 'Kobayashi, Daiki', 'Kakihara, Tetsuya', 'Seki, Tomokazu', 'Shiozaki, Ire', 'Akesaka, Satomi', 'Hoshi, Souichirou', 'Tsuda, Kenjirou', 'Okuyama, Keito', 'Toyonaga, Toshiyuki']
-animeStaff	[['Takamatsu, Shinji', 'Director'], ['Dismuke, Aaron', 'Script, ADR Director'], ['Tsubota, Fumi', 'Script'], ['Seki, Tomokazu', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Nanbaka 2	ONA	12	2017-01-04 00:00:00	2017-03-22 00:00:00	109585	7.5	53250	1639	1506	The second part of Nanbaka. The prisoners and their guards continue their comfortable lives at Nanba Prison. However, from the shadows emerges a new threat: Enki Gokuu, a person from Samon's past, who has mysterious goals of his own.	['Nanbaka', 'Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!']	['Juugo', 'Nico', 'Uno', 'Sugoroku, Hajime', 'Rock', 'Hyakushiki, Momoko', 'Gokuu, Samon', 'Hitokoe, Mitsuru', 'Tanabata, Seitarou', 'Tsukumo']	['Uemura, Yuuto', 'Kobayashi, Daiki', 'Kakihara, Tetsuya', 'Seki, Tomokazu', 'Shiozaki, Ire', 'Akesaka, Satomi', 'Hoshi, Souichirou', 'Tsuda, Kenjirou', 'Okuyama, Keito', 'Toyonaga, Toshiyuki']	[['Takamatsu, Shinji', 'Director'], ['Dismuke, Aaron', 'Script, ADR Director'], ['Tsubota, Fumi', 'Script'], ['Seki, Tomokazu', 'Theme Song Performance']]

@@ -1,19 +1,6 @@
-animeTitle	Pop in Q
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2016-12-23 00:00:00
-endDate	
-animeNumMembers	10181
-animeScore	6.22
-animeUsers	1569
-animeRank	7605
-animePopularity	5276
-animeDescription	"The story begins the day before the graduation ceremony. Five middle school girls each are preoccupied with their real everyday lives. These girls meet each other in a fantasy world after being sent there through a sudden occurrence. There, they learn about the impending crisis that this world is facing. The way to avert this crisis is for the five to collaborate and bring their five hearts together as one through dance.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Pop in Q	Movie	1	2016-12-23 00:00:00		10181	6.22	1569	7605	5276	"The story begins the day before the graduation ceremony. Five middle school girls each are preoccupied with their real everyday lives. These girls meet each other in a fantasy world after being sent there through a sudden occurrence. There, they learn about the impending crisis that this world is facing. The way to avert this crisis is for the five to collaborate and bring their five hearts together as one through dance.
 
 However, the five cannot come to love the world, and cannot tell their true feelings to one another, so their hearts are unable to unite. The time limit is fast approaching. Can the dance of the five girls save the world? And will they be able to graduate?
 
-(Source: ANN)"
-animeRelated	['Pop in Q Reverse', 'Pop in Q Dance MV']
-animeCharacters	['Oomichi, Asahi', 'Hioka, Aoi', 'Kominato, Isumi', 'Tsukui, Saki', 'Tomodate, Konatsu', 'Reno', 'Remy', 'Fukamachi, Miharu', 'Mihashi, Nana', 'Ramtamras']
-animeVoices	['Ozawa, Ari', 'Izawa, Shiori', 'Seto, Asami', 'Kurosawa, Tomoyo', 'Tanezaki, Atsumi', 'Uchiyama, Kouki', 'Yamazaki, Erii', 'Tadokoro, Azusa', 'Toda, Megumi', 'Ishizuka, Unshou']
-animeStaff	[['Miyahara, Naoki', 'Director'], ['Arai, Shuuko', 'Script'], ['Tanezaki, Atsumi', 'Theme Song Performance'], ['P.IDL', 'Theme Song Performance']]
+(Source: ANN)"	['Pop in Q Reverse', 'Pop in Q Dance MV']	['Oomichi, Asahi', 'Hioka, Aoi', 'Kominato, Isumi', 'Tsukui, Saki', 'Tomodate, Konatsu', 'Reno', 'Remy', 'Fukamachi, Miharu', 'Mihashi, Nana', 'Ramtamras']	['Ozawa, Ari', 'Izawa, Shiori', 'Seto, Asami', 'Kurosawa, Tomoyo', 'Tanezaki, Atsumi', 'Uchiyama, Kouki', 'Yamazaki, Erii', 'Tadokoro, Azusa', 'Toda, Megumi', 'Ishizuka, Unshou']	[['Miyahara, Naoki', 'Director'], ['Arai, Shuuko', 'Script'], ['Tanezaki, Atsumi', 'Theme Song Performance'], ['P.IDL', 'Theme Song Performance']]

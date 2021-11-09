@@ -1,15 +1,2 @@
-animeTitle	Wolverine
-animeType	TV
-animeNumEpisode	12
-releaseDate	2011-01-07 00:00:00
-endDate	2011-03-25 00:00:00
-animeNumMembers	23834
-animeScore	6.06
-animeUsers	10644
-animeRank	8405
-animePopularity	3692
-animeDescription	Logan learns that his girlfriend, Mariko Yashida, who disappeared a year ago, has been taken to Tokyo by her father Shingen, who is the head of a Japanese crime syndicate and a supplier of AIM. He then decides to head to Japan to find her and take her back, no matter what.
-animeRelated	['Iron Man', 'X-Men', 'Blade']
-animeCharacters	['Howlett, James', 'Yukio', 'Summers, Scott', 'Mikage, Kikyou', 'Kurohagi, Juo', 'Asano, Tesshin', 'Yashida, Mariko', 'Takagi', 'Machida', 'Tsukino']
-animeVoices	['Koyama, Rikiya', 'Park, Romi', 'Morikawa, Toshiyuki', 'Hagiwara, Masato', 'Hayami, Show', 'Terasoma, Masaki', 'Orikasa, Fumiko', 'Tsuchida, Hiroshi', 'Takaguchi, Kousuke', 'Mizusawa, Fumie']
-animeStaff	[['Aoyama, Hiroshi', 'Director, Storyboard, 2nd Key Animation'], ['Mima, Masafumi', 'Sound Director'], ['Abe, Masashi', 'Episode Director'], ['Ootani, Hajime', 'Episode Director, Storyboard, Assistant Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Wolverine	TV	12	2011-01-07 00:00:00	2011-03-25 00:00:00	23834	6.06	10644	8405	3692	Logan learns that his girlfriend, Mariko Yashida, who disappeared a year ago, has been taken to Tokyo by her father Shingen, who is the head of a Japanese crime syndicate and a supplier of AIM. He then decides to head to Japan to find her and take her back, no matter what.	['Iron Man', 'X-Men', 'Blade']	['Howlett, James', 'Yukio', 'Summers, Scott', 'Mikage, Kikyou', 'Kurohagi, Juo', 'Asano, Tesshin', 'Yashida, Mariko', 'Takagi', 'Machida', 'Tsukino']	['Koyama, Rikiya', 'Park, Romi', 'Morikawa, Toshiyuki', 'Hagiwara, Masato', 'Hayami, Show', 'Terasoma, Masaki', 'Orikasa, Fumiko', 'Tsuchida, Hiroshi', 'Takaguchi, Kousuke', 'Mizusawa, Fumie']	[['Aoyama, Hiroshi', 'Director, Storyboard, 2nd Key Animation'], ['Mima, Masafumi', 'Sound Director'], ['Abe, Masashi', 'Episode Director'], ['Ootani, Hajime', 'Episode Director, Storyboard, Assistant Director']]

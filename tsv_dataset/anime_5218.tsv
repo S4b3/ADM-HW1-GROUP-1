@@ -1,15 +1,2 @@
-animeTitle	Myself ; Yourself Specials
-animeType	Special
-animeNumEpisode	2
-releaseDate	2008-06-27 00:00:00
-endDate	
-animeNumMembers	7104
-animeScore	6.67
-animeUsers	2802
-animeRank	5218
-animePopularity	6109
-animeDescription	DVD specials featuring an animated music video to the full version of the opening song and an alternative animation to the ending song.
-animeRelated	['Myself; Yourself']
-animeCharacters	['Yatsushiro, Nanaka', 'Hidaka, Sana', 'Oribe, Aoi', 'Hoshino, Asami', 'Wakatsuki, Shuri', 'Wakatsuki, Shuusuke', 'Mochida, Hinako', 'Fujimura, Yuzuki']
-animeVoices	[]
-animeStaff	[['Kuroda, Yasuhiro', 'Director'], ['Itou, Kanako', 'Inserted Song Performance'], ['Kawana, Midori', 'Inserted Song Performance'], ['Nakazawa, Takumi', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Myself ; Yourself Specials	Special	2	2008-06-27 00:00:00		7104	6.67	2802	5218	6109	DVD specials featuring an animated music video to the full version of the opening song and an alternative animation to the ending song.	['Myself; Yourself']	['Yatsushiro, Nanaka', 'Hidaka, Sana', 'Oribe, Aoi', 'Hoshino, Asami', 'Wakatsuki, Shuri', 'Wakatsuki, Shuusuke', 'Mochida, Hinako', 'Fujimura, Yuzuki']	[]	[['Kuroda, Yasuhiro', 'Director'], ['Itou, Kanako', 'Inserted Song Performance'], ['Kawana, Midori', 'Inserted Song Performance'], ['Nakazawa, Takumi', 'Original Creator']]

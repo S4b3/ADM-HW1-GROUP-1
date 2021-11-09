@@ -1,15 +1,2 @@
-animeTitle	Kumo to Tulip
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1943-04-15 00:00:00
-endDate	
-animeNumMembers	1930
-animeScore	5.69
-animeUsers	1053
-animeRank	9795
-animePopularity	9534
-animeDescription	A spider attempts to lure a ladybug into his web. When she manages to escape and hide in a tulip, a storm comes that batters the spider, while the ladybug remains safe.
-animeRelated	[]
-animeCharacters	['Spider', 'Ladybug']
-animeVoices	['Murao, Gorou', 'Sugiyama, Yoshiko']
-animeStaff	[['Masaoka, Kenzou', 'Director, Episode Director, Script, Director of Photography'], ['Kumaki, Kiichirou', 'Planning'], ['Kumakawa, Masao', 'In-Between Animation']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kumo to Tulip	Movie	1	1943-04-15 00:00:00		1930	5.69	1053	9795	9534	A spider attempts to lure a ladybug into his web. When she manages to escape and hide in a tulip, a storm comes that batters the spider, while the ladybug remains safe.	[]	['Spider', 'Ladybug']	['Murao, Gorou', 'Sugiyama, Yoshiko']	[['Masaoka, Kenzou', 'Director, Episode Director, Script, Director of Photography'], ['Kumaki, Kiichirou', 'Planning'], ['Kumakawa, Masao', 'In-Between Animation']]

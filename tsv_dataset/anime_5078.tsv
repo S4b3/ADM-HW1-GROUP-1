@@ -1,17 +1,4 @@
-animeTitle	Eat-Man '98
-animeType	TV
-animeNumEpisode	12
-releaseDate	1998-10-08 00:00:00
-endDate	1998-12-23 00:00:00
-animeNumMembers	5097
-animeScore	6.7
-animeUsers	1926
-animeRank	5078
-animePopularity	6936
-animeDescription	"The continuing adventures of Bolt Crank, the World's Greatest Mercenary, who has the ability to eat any object, mostly metal and weapons. When the time comes, Bolt can then reproduce those weapons and items in his right hand.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Eat-Man '98	TV	12	1998-10-08 00:00:00	1998-12-23 00:00:00	5097	6.7	1926	5078	6936	"The continuing adventures of Bolt Crank, the World's Greatest Mercenary, who has the ability to eat any object, mostly metal and weapons. When the time comes, Bolt can then reproduce those weapons and items in his right hand.
 
-(Source: ANN)"
-animeRelated	['Eat-Man']
-animeCharacters	"['Crank, Bolt', 'Raffin', 'Naomi', 'Alex', 'Dustin', 'Jonathan', 'Robert', ""O'Neil, Tetto"", 'King Sergei', 'Rene']"
-animeVoices	['Ebara, Masashi', 'Neya, Michiko', 'Nagata, Ryoko', 'Katou, Nanae', 'Miura, Naoko', 'Iwata, Yasuo', 'Nishimura, Tomomichi', 'Nagai, Ichiro', 'Nakagi, Ryuuji', 'Madono, Mitsuaki']
-animeStaff	[['Kawase, Toshifumi', 'Director, Storyboard'], ['Yoshitomi, Akihito', 'Original Creator'], ['Sotozaki, Haruo', 'Animation Director'], ['Murata, Masahiko', 'Animation Director']]
+(Source: ANN)"	['Eat-Man']	"['Crank, Bolt', 'Raffin', 'Naomi', 'Alex', 'Dustin', 'Jonathan', 'Robert', ""O'Neil, Tetto"", 'King Sergei', 'Rene']"	['Ebara, Masashi', 'Neya, Michiko', 'Nagata, Ryoko', 'Katou, Nanae', 'Miura, Naoko', 'Iwata, Yasuo', 'Nishimura, Tomomichi', 'Nagai, Ichiro', 'Nakagi, Ryuuji', 'Madono, Mitsuaki']	[['Kawase, Toshifumi', 'Director, Storyboard'], ['Yoshitomi, Akihito', 'Original Creator'], ['Sotozaki, Haruo', 'Animation Director'], ['Murata, Masahiko', 'Animation Director']]

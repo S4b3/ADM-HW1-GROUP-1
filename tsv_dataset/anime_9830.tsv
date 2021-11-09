@@ -1,15 +1,2 @@
-animeTitle	Yami Shibai 8
-animeType	TV
-animeNumEpisode	13
-releaseDate	2021-01-11 00:00:00
-endDate	2021-04-05 00:00:00
-animeNumMembers	10709
-animeScore	5.68
-animeUsers	3627
-animeRank	9830
-animePopularity	5192
-animeDescription	Eighth season of Yami Shibai.
-animeRelated	['Yami Shibai 7', 'Yami Shibai 9']
-animeCharacters	['Storyteller']
-animeVoices	['Tsuda, Kanji']
-animeStaff	[['Umetsu, Satoshi', 'Producer'], ['Funada, Akira', 'Producer'], ['Kumamoto, Hiromu', 'Script'], ['Kuniyoshi, Saki', 'Script']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Yami Shibai 8	TV	13	2021-01-11 00:00:00	2021-04-05 00:00:00	10709	5.68	3627	9830	5192	Eighth season of Yami Shibai.	['Yami Shibai 7', 'Yami Shibai 9']	['Storyteller']	['Tsuda, Kanji']	[['Umetsu, Satoshi', 'Producer'], ['Funada, Akira', 'Producer'], ['Kumamoto, Hiromu', 'Script'], ['Kuniyoshi, Saki', 'Script']]

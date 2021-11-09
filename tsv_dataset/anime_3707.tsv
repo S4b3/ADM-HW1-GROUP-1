@@ -1,15 +1,2 @@
-animeTitle	Doraemon: The Day When I Was Born
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2002-03-09 00:00:00
-endDate	
-animeNumMembers	2576
-animeScore	7.02
-animeUsers	1393
-animeRank	3707
-animePopularity	8796
-animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
-animeRelated	['Doraemon Movie 23: Nobita to Robot Kingdom']
-animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Nobi, Nobisuke', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Gouda, Mother']
-animeVoices	[]
-animeStaff	[['Watanabe, Ayumu', 'Director, Animation Director'], ['Fujiko, Fujio F.', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music'], ['Yokoyama, Masakazu', 'Sound Effects']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Doraemon: The Day When I Was Born	Movie	1	2002-03-09 00:00:00		2576	7.02	1393	3707	8796	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.	['Doraemon Movie 23: Nobita to Robot Kingdom']	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Nobi, Nobisuke', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Gouda, Mother']	[]	[['Watanabe, Ayumu', 'Director, Animation Director'], ['Fujiko, Fujio F.', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music'], ['Yokoyama, Masakazu', 'Sound Effects']]

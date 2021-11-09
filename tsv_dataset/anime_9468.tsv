@@ -1,15 +1,2 @@
-animeTitle	Yami Shibai 9
-animeType	TV
-animeNumEpisode	13
-releaseDate	2021-07-12 00:00:00
-endDate	2021-09-30 00:00:00
-animeNumMembers	7332
-animeScore	5.77
-animeUsers	1901
-animeRank	9468
-animePopularity	6020
-animeDescription	Ninth season of Yami Shibai.
-animeRelated	['Yami Shibai 8', 'Yami Shibai: Furuido']
-animeCharacters	['Storyteller']
-animeVoices	['Tsuda, Kanji']
-animeStaff	[['Umetsu, Satoshi', 'Producer'], ['Funada, Akira', 'Producer, Director'], ['Kumamoto, Hiromu', 'Script'], ['Yamakawa, Norio', 'Planning']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Yami Shibai 9	TV	13	2021-07-12 00:00:00	2021-09-30 00:00:00	7332	5.77	1901	9468	6020	Ninth season of Yami Shibai.	['Yami Shibai 8', 'Yami Shibai: Furuido']	['Storyteller']	['Tsuda, Kanji']	[['Umetsu, Satoshi', 'Producer'], ['Funada, Akira', 'Producer, Director'], ['Kumamoto, Hiromu', 'Script'], ['Yamakawa, Norio', 'Planning']]

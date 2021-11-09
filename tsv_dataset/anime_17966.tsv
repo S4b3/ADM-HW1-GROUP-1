@@ -1,15 +1,2 @@
-animeTitle	Kowaremono: Risa Plus The Animation
-animeType	OVA
-animeNumEpisode	1
-releaseDate	2016-10-07 00:00:00
-endDate	
-animeNumMembers	7406
-animeScore	6.7
-animeUsers	3160
-animeRank	
-animePopularity	6007
-animeDescription	Based on the manga by Yoshiron. 
-animeRelated	['Kowaremono:Risa', 'Kowaremono: Risa The Animation']
-animeCharacters	['Risa']
-animeVoices	[]
-animeStaff	[['Oota, Hideta', 'Director, Episode Director'], ['Sawayama, Shinichiro', 'Script'], ['Yoshiron', 'Original Creator'], ['Yamamoto, Sawako', 'Animation Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kowaremono: Risa Plus The Animation	OVA	1	2016-10-07 00:00:00		7406	6.7	3160		6007	Based on the manga by Yoshiron. 	['Kowaremono:Risa', 'Kowaremono: Risa The Animation']	['Risa']	[]	[['Oota, Hideta', 'Director, Episode Director'], ['Sawayama, Shinichiro', 'Script'], ['Yoshiron', 'Original Creator'], ['Yamamoto, Sawako', 'Animation Director']]

@@ -1,17 +1,4 @@
-animeTitle	Oishinbo
-animeType	TV
-animeNumEpisode	136
-releaseDate	1988-10-17 00:00:00
-endDate	1992-03-17 00:00:00
-animeNumMembers	2501
-animeScore	6.68
-animeUsers	260
-animeRank	5201
-animePopularity	8852
-animeDescription	"Oishinbo is a drama about newspaper reporters. The main character is a cynical food critic named Yamaoka. Oishinbo is a popular mainstream comic for adults in Japan. It is even mentioned in an episode of ""Iron Chef.""
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Oishinbo	TV	136	1988-10-17 00:00:00	1992-03-17 00:00:00	2501	6.68	260	5201	8852	"Oishinbo is a drama about newspaper reporters. The main character is a cynical food critic named Yamaoka. Oishinbo is a popular mainstream comic for adults in Japan. It is even mentioned in an episode of ""Iron Chef.""
 
-(Source: AniDB)"
-animeRelated	['Oishinbo', 'Oishinbo: Kyuukyoku tai Shikou, Chouju Ryouri Taiketsu!!', 'Oishinbo Pilot']
-animeCharacters	['Yamaoka, Shirou', 'Kurita, Yuuko', 'Kaibara, Yuuzan', 'Tomii, Osamu', 'Chairman Oohara', 'President Itayama', 'Kinzou', 'Soba Vendor', 'Okaboshi, Seiichi']
-animeVoices	['Inoue, Kazuhiko', 'Shou, Mayumi', 'Otsuka, Chikao', 'Aomori, Shin', 'Saka, Osamu', 'Tsujimura, Mahito', 'Ootsuka, Houchuu', 'Futamata, Issei', 'Wakamoto, Norio']
-animeStaff	[['Takeuchi, Yoshio', 'Director'], ['Urakami, Yasuo', 'Sound Director'], ['Mizushima, Tsutomu', 'Episode Director, Storyboard, Production Manager, Color Setting'], ['Yonetani, Yoshitomo', 'Episode Director, Storyboard']]
+(Source: AniDB)"	['Oishinbo', 'Oishinbo: Kyuukyoku tai Shikou, Chouju Ryouri Taiketsu!!', 'Oishinbo Pilot']	['Yamaoka, Shirou', 'Kurita, Yuuko', 'Kaibara, Yuuzan', 'Tomii, Osamu', 'Chairman Oohara', 'President Itayama', 'Kinzou', 'Soba Vendor', 'Okaboshi, Seiichi']	['Inoue, Kazuhiko', 'Shou, Mayumi', 'Otsuka, Chikao', 'Aomori, Shin', 'Saka, Osamu', 'Tsujimura, Mahito', 'Ootsuka, Houchuu', 'Futamata, Issei', 'Wakamoto, Norio']	[['Takeuchi, Yoshio', 'Director'], ['Urakami, Yasuo', 'Sound Director'], ['Mizushima, Tsutomu', 'Episode Director, Storyboard, Production Manager, Color Setting'], ['Yonetani, Yoshitomo', 'Episode Director, Storyboard']]

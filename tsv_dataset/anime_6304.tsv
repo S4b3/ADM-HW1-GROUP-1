@@ -1,17 +1,4 @@
-animeTitle	Gekiganger 3: The Movie
-animeType	OVA
-animeNumEpisode	1
-releaseDate	1998-02-21 00:00:00
-endDate	
-animeNumMembers	3992
-animeScore	6.47
-animeUsers	1818
-animeRank	6304
-animePopularity	7637
-animeDescription	"Ken, Joe, and Akira, three high school students, must combine their three mecha into Gekiganger III to defeat the evil Prince Akara and Emperor Hyperion. The OAV is a compilation of the scenes from Nadesico, a new ""movie"", and is a parody of many mecha series from the 80s. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Gekiganger 3: The Movie	OVA	1	1998-02-21 00:00:00		3992	6.47	1818	6304	7637	"Ken, Joe, and Akira, three high school students, must combine their three mecha into Gekiganger III to defeat the evil Prince Akara and Emperor Hyperion. The OAV is a compilation of the scenes from Nadesico, a new ""movie"", and is a parody of many mecha series from the 80s. 
 
-(Source: ANN)"
-animeRelated	['Kidou Senkan Nadesico']
-animeCharacters	['Umitsubame, Joe', 'Tenku, Ken', 'Daichi, Akira']
-animeVoices	['Ono, Kenichi', 'Madono, Mitsuaki', 'Tobita, Nobuo']
-animeStaff	[['Sasaki, Isao', 'Theme Song Performance'], ['Nagai, Go', 'Creator'], ['Satou, Tatsuo', 'Original Creator'], ['Gotou, Keiji', 'Animation Director, Character Design']]
+(Source: ANN)"	['Kidou Senkan Nadesico']	['Umitsubame, Joe', 'Tenku, Ken', 'Daichi, Akira']	['Ono, Kenichi', 'Madono, Mitsuaki', 'Tobita, Nobuo']	[['Sasaki, Isao', 'Theme Song Performance'], ['Nagai, Go', 'Creator'], ['Satou, Tatsuo', 'Original Creator'], ['Gotou, Keiji', 'Animation Director, Character Design']]

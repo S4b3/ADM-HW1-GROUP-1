@@ -1,15 +1,2 @@
-animeTitle	Waanabi.jk
-animeType	Special
-animeNumEpisode	2
-releaseDate	2013-07-29 00:00:00
-endDate	2015-09-04 00:00:00
-animeNumMembers	1209
-animeScore	5.02
-animeUsers	444
-animeRank	11442
-animePopularity	10664
-animeDescription	"Promotion videos for Kenichi Kuroi's web manga ""Waanabi.jk"", commissioned by Studio DEEN."
-animeRelated	[]
-animeCharacters	['Sasanaka, Mutsu', 'Torii, Yumi', 'Takatsuki, Morao', 'Yanagisawa, Ami']
-animeVoices	['Kusuda, Aina', 'Terui, Haruka', 'Mikami, Shiori', 'Tokui, Sora']
-animeStaff	[['Takeuchi, Tetsuya', 'Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Waanabi.jk	Special	2	2013-07-29 00:00:00	2015-09-04 00:00:00	1209	5.02	444	11442	10664	"Promotion videos for Kenichi Kuroi's web manga ""Waanabi.jk"", commissioned by Studio DEEN."	[]	['Sasanaka, Mutsu', 'Torii, Yumi', 'Takatsuki, Morao', 'Yanagisawa, Ami']	['Kusuda, Aina', 'Terui, Haruka', 'Mikami, Shiori', 'Tokui, Sora']	[['Takeuchi, Tetsuya', 'Character Design']]

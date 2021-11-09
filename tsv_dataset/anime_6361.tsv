@@ -1,17 +1,4 @@
-animeTitle	R-15
-animeType	TV
-animeNumEpisode	12
-releaseDate	2011-07-10 00:00:00
-endDate	2011-09-25 00:00:00
-animeNumMembers	83949
-animeScore	6.46
-animeUsers	35125
-animeRank	6361
-animePopularity	1829
-animeDescription	"R-15 is about a boy, Taketo Akutagawa, who attends a school for geniuses: Inspiration Academy Private High School. Taketo is a genius novelist and writes erotica. Despite negative perceptions many people have of him, he aims to be at the top of his class and be recognized as the world's greatest writer.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+R-15	TV	12	2011-07-10 00:00:00	2011-09-25 00:00:00	83949	6.46	35125	6361	1829	"R-15 is about a boy, Taketo Akutagawa, who attends a school for geniuses: Inspiration Academy Private High School. Taketo is a genius novelist and writes erotica. Despite negative perceptions many people have of him, he aims to be at the top of his class and be recognized as the world's greatest writer.
 
-(Source: Wikipedia)"
-animeRelated	['R-15', 'R-15: R15 Shounen Hyouryuuki']
-animeCharacters	['Sonokoe, Utae', 'Narukara, Fukune', 'Akutagawa, Taketo', 'Meiki, Raika', 'Musen, Ran', 'Kuroki, Kurumi', 'Kagaku, Tsukuru', 'Enshuu, Ritsu', 'Yoruno, Misa', 'Kurabu, Katsuyo']
-animeVoices	['Kashiyama, Nanami', 'Fukuhara, Yurina', 'Kitaoka, Chiharu', 'Komatsu, Mana', 'Tsumita, Kayoko', 'Ariga, Yui', 'Tsukimiya, Midori', 'Murakami, Madoka', 'Itou, Kumiko', 'Murai, Risako']
-animeStaff	[['Nawa, Munenori', 'Director'], ['Yoshida, Tomohiro', 'Sound Director'], ['Takashima, Daisuke', 'Episode Director'], ['Abe, Masashi', 'Episode Director, Storyboard']]
+(Source: Wikipedia)"	['R-15', 'R-15: R15 Shounen Hyouryuuki']	['Sonokoe, Utae', 'Narukara, Fukune', 'Akutagawa, Taketo', 'Meiki, Raika', 'Musen, Ran', 'Kuroki, Kurumi', 'Kagaku, Tsukuru', 'Enshuu, Ritsu', 'Yoruno, Misa', 'Kurabu, Katsuyo']	['Kashiyama, Nanami', 'Fukuhara, Yurina', 'Kitaoka, Chiharu', 'Komatsu, Mana', 'Tsumita, Kayoko', 'Ariga, Yui', 'Tsukimiya, Midori', 'Murakami, Madoka', 'Itou, Kumiko', 'Murai, Risako']	[['Nawa, Munenori', 'Director'], ['Yoshida, Tomohiro', 'Sound Director'], ['Takashima, Daisuke', 'Episode Director'], ['Abe, Masashi', 'Episode Director, Storyboard']]

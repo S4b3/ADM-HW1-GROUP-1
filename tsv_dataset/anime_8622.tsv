@@ -1,16 +1,3 @@
-animeTitle	Colorful
-animeType	TV
-animeNumEpisode	16
-releaseDate	1999-09-06 00:00:00
-endDate	1999-09-30 00:00:00
-animeNumMembers	22972
-animeScore	6.0
-animeUsers	8023
-animeRank	8622
-animePopularity	3754
-animeDescription	"The adventures (and misadventures) of men staring, peeking, glancing, looking, and glaring at women and their efforts to get that extra eyeful of harmlessly exposed panties, bras, and occasional cleavage. Following at most, a few regular males and the outrageous consequences of their actions.
-(Source: ANN)"
-animeRelated	['Colorful']
-animeCharacters	['Steve', 'Hirokawa', 'Yamamoto, Aki', 'Chino, Shimoi', 'Kariya', 'Itani', 'Pamela', 'Jamie', 'Space Alien', 'Mademoiselle']
-animeVoices	['Cho', 'Canna, Nobutoshi', 'Ohara, Sayaka', 'Kumagaya, Nina', 'Nakamura, Daiki', 'Kawazu, Yasuhiko', 'Takano, Urara', 'Yamada, Miho']
-animeStaff	[['Nakamura, Ryuutarou', 'Director, Episode Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director'], ['Tsuru, Toshiyuki', 'Episode Director, Storyboard, Key Animation'], ['Miyamura, Yuko', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Colorful	TV	16	1999-09-06 00:00:00	1999-09-30 00:00:00	22972	6.0	8023	8622	3754	"The adventures (and misadventures) of men staring, peeking, glancing, looking, and glaring at women and their efforts to get that extra eyeful of harmlessly exposed panties, bras, and occasional cleavage. Following at most, a few regular males and the outrageous consequences of their actions.
+(Source: ANN)"	['Colorful']	['Steve', 'Hirokawa', 'Yamamoto, Aki', 'Chino, Shimoi', 'Kariya', 'Itani', 'Pamela', 'Jamie', 'Space Alien', 'Mademoiselle']	['Cho', 'Canna, Nobutoshi', 'Ohara, Sayaka', 'Kumagaya, Nina', 'Nakamura, Daiki', 'Kawazu, Yasuhiko', 'Takano, Urara', 'Yamada, Miho']	[['Nakamura, Ryuutarou', 'Director, Episode Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director'], ['Tsuru, Toshiyuki', 'Episode Director, Storyboard, Key Animation'], ['Miyamura, Yuko', 'Theme Song Performance']]

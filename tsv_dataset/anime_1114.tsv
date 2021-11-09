@@ -1,15 +1,2 @@
-animeTitle	Shingeki no Kyojin Movie 1: Guren no Yumiya
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2014-11-22 00:00:00
-endDate	
-animeNumMembers	94643
-animeScore	7.68
-animeUsers	38324
-animeRank	1114
-animePopularity	1701
-animeDescription	Recap of episodes 1-13.
-animeRelated	['Shingeki no Kyojin', 'Shingeki no Kyojin: Ano Hi Kara', 'Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa']
-animeCharacters	['Ackerman, Mikasa', 'Yeager, Eren', 'Arlert, Armin', 'Levi', 'Smith, Erwin', 'Zoë, Hange', 'Blouse, Sasha', 'Braun, Reiner', 'Kirstein, Jean', 'Leonhart, Annie']
-animeVoices	['Ishikawa, Yui', 'Kaji, Yuki', 'Inoue, Marina', 'Kamiya, Hiroshi', 'Ono, Daisuke', 'Park, Romi', 'Kobayashi, Yuu', 'Hosoya, Yoshimasa', 'Taniyama, Kishou', 'Shimamura, Yuu']
-animeStaff	[['Wada, Jouji', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Araki, Tetsurou', 'Director'], ['Linked Horizon', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shingeki no Kyojin Movie 1: Guren no Yumiya	Movie	1	2014-11-22 00:00:00		94643	7.68	38324	1114	1701	Recap of episodes 1-13.	['Shingeki no Kyojin', 'Shingeki no Kyojin: Ano Hi Kara', 'Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa']	['Ackerman, Mikasa', 'Yeager, Eren', 'Arlert, Armin', 'Levi', 'Smith, Erwin', 'Zoë, Hange', 'Blouse, Sasha', 'Braun, Reiner', 'Kirstein, Jean', 'Leonhart, Annie']	['Ishikawa, Yui', 'Kaji, Yuki', 'Inoue, Marina', 'Kamiya, Hiroshi', 'Ono, Daisuke', 'Park, Romi', 'Kobayashi, Yuu', 'Hosoya, Yoshimasa', 'Taniyama, Kishou', 'Shimamura, Yuu']	[['Wada, Jouji', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Araki, Tetsurou', 'Director'], ['Linked Horizon', 'Theme Song Performance']]

@@ -1,15 +1,2 @@
-animeTitle	World Calling
-animeType	Music
-animeNumEpisode	1
-releaseDate	2012-11-02 00:00:00
-endDate	
-animeNumMembers	1617
-animeScore	6.08
-animeUsers	897
-animeRank	8312
-animePopularity	10001
-animeDescription	Music video from the IA x JIN project.
-animeRelated	['Nihonbashi Koukashita R Keikaku']
-animeCharacters	['IA']
-animeVoices	[]
-animeStaff	[['Jin', 'Theme Song Arrangement, Theme Song Lyrics, Theme Song Composition'], ['IA', 'Theme Song Performance'], ['Bahi JD', 'Key Animation'], ['Tomioka, Jirou', 'Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+World Calling	Music	1	2012-11-02 00:00:00		1617	6.08	897	8312	10001	Music video from the IA x JIN project.	['Nihonbashi Koukashita R Keikaku']	['IA']	[]	[['Jin', 'Theme Song Arrangement, Theme Song Lyrics, Theme Song Composition'], ['IA', 'Theme Song Performance'], ['Bahi JD', 'Key Animation'], ['Tomioka, Jirou', 'Character Design']]

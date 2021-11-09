@@ -1,15 +1,2 @@
-animeTitle	Pink Mizu Dorobou Ame Dorobou
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1990-07-07 00:00:00
-endDate	
-animeNumMembers	1381
-animeScore	5.55
-animeUsers	496
-animeRank	10203
-animePopularity	10349
-animeDescription	The plot is about a young girl named Pink who is a bandit in the desert who steals water from the Silver Company.
-animeRelated	['Toriyama Akira ○-saku Gekijou', 'Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen', 'Kennosuke-sama']
-animeCharacters	['Cobalt Blue', 'Pink', 'White', 'Black', 'Kaminari, Gorosuke', 'Silver', 'Red', 'Grey', 'Purple Yamamoto', 'Rainbow']
-animeVoices	['Nanba, Keiichi', 'Masuda, Mia', 'Sugiyama, Kazuko', 'Yamamoto, Keiko', 'Miyuki, Sanae', 'Takagi, Hitoshi', 'Yoshino, Hinako', 'Oomori, Akimasa', 'Shibata, Hidekatsu', 'Gouri, Daisuke']
-animeStaff	[['Ashida, Toyoo', 'Director, Animation Director'], ['Matsui, Aya', 'Script'], ['Masuda, Mia', 'Theme Song Performance'], ['Ike, Takeshi', 'Theme Song Composition, Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Pink Mizu Dorobou Ame Dorobou	Movie	1	1990-07-07 00:00:00		1381	5.55	496	10203	10349	The plot is about a young girl named Pink who is a bandit in the desert who steals water from the Silver Company.	['Toriyama Akira ○-saku Gekijou', 'Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen', 'Kennosuke-sama']	['Cobalt Blue', 'Pink', 'White', 'Black', 'Kaminari, Gorosuke', 'Silver', 'Red', 'Grey', 'Purple Yamamoto', 'Rainbow']	['Nanba, Keiichi', 'Masuda, Mia', 'Sugiyama, Kazuko', 'Yamamoto, Keiko', 'Miyuki, Sanae', 'Takagi, Hitoshi', 'Yoshino, Hinako', 'Oomori, Akimasa', 'Shibata, Hidekatsu', 'Gouri, Daisuke']	[['Ashida, Toyoo', 'Director, Animation Director'], ['Matsui, Aya', 'Script'], ['Masuda, Mia', 'Theme Song Performance'], ['Ike, Takeshi', 'Theme Song Composition, Music']]

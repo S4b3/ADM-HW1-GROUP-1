@@ -1,15 +1,2 @@
-animeTitle	Seitokai Yakuindomo* OVA
-animeType	OVA
-animeNumEpisode	10
-releaseDate	2014-05-16 00:00:00
-endDate	2020-09-17 00:00:00
-animeNumMembers	69236
-animeScore	7.88
-animeUsers	25882
-animeRank	729
-animePopularity	2067
-animeDescription	OVAs of Seitokai Yakuindomo* which were either bundled with the limited editions of the manga volumes or as standalone OVAs.
-animeRelated	['Seitokai Yakuindomo', 'Seitokai Yakuindomo*', 'Seitokai Yakuindomo Movie']
-animeCharacters	['Amakusa, Shino', 'Hagimura, Suzu', 'Tsuda, Takatoshi', 'Shichijou, Aria', 'Hata, Ranko', 'Uomi, Chihiro', 'Mitsuba, Mutsumi', 'Yokoshima, Naruko', 'Tsuda, Kotomi', 'Dejima, Sayaka']
-animeVoices	['Hikasa, Youko', 'Yahagi, Sayuri', 'Asanuma, Shintaro', 'Satou, Satomi', 'Arai, Satomi', 'Saitou, Chiwa', 'Omigawa, Chiaki', 'Kobayashi, Yuu', 'Shimoda, Asami', 'Tamura, Mutsumi']
-animeStaff	[['Kanazawa, Hiromichi', 'Director, Series Composition'], ['Tanaka, Ryou', 'Sound Director'], ['Satou, Satomi', 'Theme Song Performance'], ['Triple Booking', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Seitokai Yakuindomo* OVA	OVA	10	2014-05-16 00:00:00	2020-09-17 00:00:00	69236	7.88	25882	729	2067	OVAs of Seitokai Yakuindomo* which were either bundled with the limited editions of the manga volumes or as standalone OVAs.	['Seitokai Yakuindomo', 'Seitokai Yakuindomo*', 'Seitokai Yakuindomo Movie']	['Amakusa, Shino', 'Hagimura, Suzu', 'Tsuda, Takatoshi', 'Shichijou, Aria', 'Hata, Ranko', 'Uomi, Chihiro', 'Mitsuba, Mutsumi', 'Yokoshima, Naruko', 'Tsuda, Kotomi', 'Dejima, Sayaka']	['Hikasa, Youko', 'Yahagi, Sayuri', 'Asanuma, Shintaro', 'Satou, Satomi', 'Arai, Satomi', 'Saitou, Chiwa', 'Omigawa, Chiaki', 'Kobayashi, Yuu', 'Shimoda, Asami', 'Tamura, Mutsumi']	[['Kanazawa, Hiromichi', 'Director, Series Composition'], ['Tanaka, Ryou', 'Sound Director'], ['Satou, Satomi', 'Theme Song Performance'], ['Triple Booking', 'Theme Song Performance']]

@@ -1,14 +1,5 @@
-animeTitle	Kyousou Giga
-animeType	ONA
-animeNumEpisode	1
-releaseDate	2011-12-01 00:00:00
-endDate	
-animeNumMembers	42842
-animeScore	6.93
-animeUsers	17888
-animeRank	4083
-animePopularity	2697
-animeDescription	"It's Kyoto, and yet it is not.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kyousou Giga	ONA	1	2011-12-01 00:00:00		42842	6.93	17888	4083	2697	"It's Kyoto, and yet it is not.
 
 A microcosm of peculiar origins, ""Mirror Kyoto.""
 
@@ -18,8 +9,4 @@ She runs into a mysterious monk, gets chased around by a tech-obsessed girl, and
 
 In this mysterious city where spirits and humans have been thrown together, the festivities are about to begin!
 
-(Source: translated from the official website by lygerzero0zero)"
-animeRelated	['Kyousou Giga', 'Kyousou Giga (2012)', 'Kyousou Giga (TV)', 'Kyousou Giga (TV) Recaps']
-animeCharacters	['Koto', 'Myoue', 'Inari', 'Yase, Douji', 'Shouko', 'Kurama', 'Un', 'A', 'Fushimi']
-animeVoices	['Kugimiya, Rie', 'Suzumura, Kenichi', 'Hisakawa, Aya', 'Ishida, Akira', 'Kitamura, Eri', 'Saitou, Chiwa', 'Nakahara, Shigeru', 'Shiraishi, Ryouko', 'Hidaka, Noriko', 'Takemoto, Eiji']
-animeStaff	[['Matsumoto, Rie', 'Director, Storyboard'], ['Maruo, Miho', 'Script'], ['Tate, Naoki', 'Key Animation'], ['Toudou, Izumi', 'Original Creator']]
+(Source: translated from the official website by lygerzero0zero)"	['Kyousou Giga', 'Kyousou Giga (2012)', 'Kyousou Giga (TV)', 'Kyousou Giga (TV) Recaps']	['Koto', 'Myoue', 'Inari', 'Yase, Douji', 'Shouko', 'Kurama', 'Un', 'A', 'Fushimi']	['Kugimiya, Rie', 'Suzumura, Kenichi', 'Hisakawa, Aya', 'Ishida, Akira', 'Kitamura, Eri', 'Saitou, Chiwa', 'Nakahara, Shigeru', 'Shiraishi, Ryouko', 'Hidaka, Noriko', 'Takemoto, Eiji']	[['Matsumoto, Rie', 'Director, Storyboard'], ['Maruo, Miho', 'Script'], ['Tate, Naoki', 'Key Animation'], ['Toudou, Izumi', 'Original Creator']]

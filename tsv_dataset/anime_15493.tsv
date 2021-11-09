@@ -1,15 +1,2 @@
-animeTitle	Dr. Typhoon
-animeType	OVA
-animeNumEpisode	1
-releaseDate	1991-04-03 00:00:00
-endDate	
-animeNumMembers	297
-animeScore	
-animeUsers	
-animeRank	15493
-animePopularity	14611
-animeDescription	Based on a seinen manga written by Takahashi Michitsuna and illustrated by Kazama Eiji, serialised in Weekly Manga Action.
-animeRelated	[]
-animeCharacters	['Izumi, Typhoon']
-animeVoices	[]
-animeStaff	[['Nishimura, Junji', 'Director, Storyboard'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Sogo, Masashi', 'Script, Screenplay'], ['Motohashi, Hideyuki', 'Character Design, Animation Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Dr. Typhoon	OVA	1	1991-04-03 00:00:00		297			15493	14611	Based on a seinen manga written by Takahashi Michitsuna and illustrated by Kazama Eiji, serialised in Weekly Manga Action.	[]	['Izumi, Typhoon']	[]	[['Nishimura, Junji', 'Director, Storyboard'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Sogo, Masashi', 'Script, Screenplay'], ['Motohashi, Hideyuki', 'Character Design, Animation Director']]

@@ -1,17 +1,4 @@
-animeTitle	Downloader
-animeType	Music
-animeNumEpisode	1
-releaseDate	2011-05-27 00:00:00
-endDate	
-animeNumMembers	5343
-animeScore	5.92
-animeUsers	3159
-animeRank	8967
-animePopularity	6814
-animeDescription	"The bishoujo game music brand Gwave and the anime production company Studio Deen launched a joint project team called Cosmic Record. The Cosmic Record label's first effort is a May 27 CD called Downloader by the musical artist Taishi with the synthesized voice of Crypton Future Media's Hatsune Miku virtual idol character. The limited first edition of the CD bundled a DVD with a 3D animated music video produced by Studio Deen.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Downloader	Music	1	2011-05-27 00:00:00		5343	5.92	3159	8967	6814	"The bishoujo game music brand Gwave and the anime production company Studio Deen launched a joint project team called Cosmic Record. The Cosmic Record label's first effort is a May 27 CD called Downloader by the musical artist Taishi with the synthesized voice of Crypton Future Media's Hatsune Miku virtual idol character. The limited first edition of the CD bundled a DVD with a 3D animated music video produced by Studio Deen.
 
-(Source: ANN)"
-animeRelated	['Chime']
-animeCharacters	['Hatsune, Miku']
-animeVoices	['Hatsune, Miku']
-animeStaff	[['Hatsune, Miku', 'Theme Song Performance'], ['Taishi', 'Music'], ['Koike, Yuuki', 'Editing']]
+(Source: ANN)"	['Chime']	['Hatsune, Miku']	['Hatsune, Miku']	[['Hatsune, Miku', 'Theme Song Performance'], ['Taishi', 'Music'], ['Koike, Yuuki', 'Editing']]

@@ -1,14 +1,5 @@
-animeTitle	Tottoi
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1992-06-01 00:00:00
-endDate	
-animeNumMembers	759
-animeScore	6.18
-animeUsers	233
-animeRank	7801
-animePopularity	11837
-animeDescription	"What a sensation Tottoi felt when he discovered the small creature in the mysterious cave!
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Tottoi	Movie	1	1992-06-01 00:00:00		759	6.18	233	7801	11837	"What a sensation Tottoi felt when he discovered the small creature in the mysterious cave!
 The beauty and pride of wild animals capture the hearts of innocent people who have not lost their passion for nature.
 
 Sardinia is abundant in beautiful beaches and mysterious caves which are known as the habitat of a peculiar kind of seal on the verge of extinction.
@@ -17,8 +8,4 @@ After moving to this island, Tottoi, fascinated by nature, visits different beac
 
 Now the dignity and pride of the wild seal are in danger. No matter how painful for Tottoi to be separated from his small friends, he must fight for the welfare of the wild mammals and let them go free into the sea.
 
-(Source: Official Website)"
-animeRelated	[]
-animeCharacters	['Antonio']
-animeVoices	['Namikawa, Daisuke']
-animeStaff	[['Nakanishi, Ryuuzou', 'Script'], ['Mikimoto, Haruhiko', 'Character Design'], ['Fukuda, Kazuya', 'Background Art'], ['Kaneko, Shuuichi', 'In-Between Animation']]
+(Source: Official Website)"	[]	['Antonio']	['Namikawa, Daisuke']	[['Nakanishi, Ryuuzou', 'Script'], ['Mikimoto, Haruhiko', 'Character Design'], ['Fukuda, Kazuya', 'Background Art'], ['Kaneko, Shuuichi', 'In-Between Animation']]

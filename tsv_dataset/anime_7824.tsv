@@ -1,14 +1,5 @@
-animeTitle	30-sai no Hoken Taiiku Specials
-animeType	Special
-animeNumEpisode	3
-releaseDate	2011-07-22 00:00:00
-endDate	2011-09-23 00:00:00
-animeNumMembers	5863
-animeScore	6.17
-animeUsers	1742
-animeRank	7824
-animePopularity	6564
-animeDescription	"DVD specials.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+30-sai no Hoken Taiiku Specials	Special	3	2011-07-22 00:00:00	2011-09-23 00:00:00	5863	6.17	1742	7824	6564	"DVD specials.
 
 Episode 1 -  朗読少年 (Lecture Shounen): 
 Macaron's special training by Kuu-chan.
@@ -16,8 +7,4 @@ Macaron's special training by Kuu-chan.
 Episode 2 - 朗読兄弟 (Lecture brothers): 
 Macaron's special training by his brother Daigorou.
 
-Episode 3 - もう一つのエンディング~囚われの安藤なつ~ (Another ending ~ Natsu Andou's imprisonment):"
-animeRelated	['30-sai no Hoken Taiiku']
-animeCharacters	['Macaron', 'Daigorou']
-animeVoices	[]
-animeStaff	[['Mankyuu', 'Director']]
+Episode 3 - もう一つのエンディング~囚われの安藤なつ~ (Another ending ~ Natsu Andou's imprisonment):"	['30-sai no Hoken Taiiku']	['Macaron', 'Daigorou']	[]	[['Mankyuu', 'Director']]

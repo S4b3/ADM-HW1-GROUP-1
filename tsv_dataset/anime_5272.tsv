@@ -1,15 +1,2 @@
-animeTitle	Bonobono (TV)
-animeType	TV
-animeNumEpisode	48
-releaseDate	1995-04-20 00:00:00
-endDate	1996-03-28 00:00:00
-animeNumMembers	1288
-animeScore	6.66
-animeUsers	310
-animeRank	5272
-animePopularity	10513
-animeDescription	A sea otter and his friends, a raccoon and squirrel, live and play together in the forest.
-animeRelated	['Bonobono', 'Bonobono: Kumomo no Ki no Koto', 'Bonobono (TV 2016)', 'Bonobono (TV) Specials']
-animeCharacters	['Bonobono', 'Shimarisu', 'Araiguma', 'Sunadorineko', 'Araiguma-kun no Otousan', 'Shimacchau Ojisan']
-animeVoices	['Watanabe, Kumiko', 'Yoshida, Konami', 'Fujiwara, Keiji', 'Kosugi, Juurouta', 'Umezu, Hideyuki', 'Tobita, Nobuo']
-animeStaff	[['Nanba, Hitoshi', 'Director'], ['Yonetani, Yoshitomo', 'Episode Director, Storyboard'], ['Ohata, Kiyotaka', 'Episode Director, Storyboard'], ['Okajima, Kunitoshi', 'Episode Director, Storyboard']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Bonobono (TV)	TV	48	1995-04-20 00:00:00	1996-03-28 00:00:00	1288	6.66	310	5272	10513	A sea otter and his friends, a raccoon and squirrel, live and play together in the forest.	['Bonobono', 'Bonobono: Kumomo no Ki no Koto', 'Bonobono (TV 2016)', 'Bonobono (TV) Specials']	['Bonobono', 'Shimarisu', 'Araiguma', 'Sunadorineko', 'Araiguma-kun no Otousan', 'Shimacchau Ojisan']	['Watanabe, Kumiko', 'Yoshida, Konami', 'Fujiwara, Keiji', 'Kosugi, Juurouta', 'Umezu, Hideyuki', 'Tobita, Nobuo']	[['Nanba, Hitoshi', 'Director'], ['Yonetani, Yoshitomo', 'Episode Director, Storyboard'], ['Ohata, Kiyotaka', 'Episode Director, Storyboard'], ['Okajima, Kunitoshi', 'Episode Director, Storyboard']]

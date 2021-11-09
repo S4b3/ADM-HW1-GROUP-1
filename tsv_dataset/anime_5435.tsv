@@ -1,17 +1,4 @@
-animeTitle	Tekken: Blood Vengeance
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2011-07-26 00:00:00
-endDate	
-animeNumMembers	19831
-animeScore	6.63
-animeUsers	12454
-animeRank	5435
-animePopularity	3997
-animeDescription	"High school student Ling Xiaoyu is recruited by Anna Williams of G Corporation to transfer to Kyoto University and gather information on a student named Shin Kamiya. Meanwhile, Jin Kazama, the current head of the Mishima Zaibatsu, sends Alisa Bosconovitch to the university for the same mission. Though they do not know each other's true motives, Xiaoyu and Alisa become close friends. However, their friendship is put to the test when Shin is captured by an unknown assailant.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Tekken: Blood Vengeance	Movie	1	2011-07-26 00:00:00		19831	6.63	12454	5435	3997	"High school student Ling Xiaoyu is recruited by Anna Williams of G Corporation to transfer to Kyoto University and gather information on a student named Shin Kamiya. Meanwhile, Jin Kazama, the current head of the Mishima Zaibatsu, sends Alisa Bosconovitch to the university for the same mission. Though they do not know each other's true motives, Xiaoyu and Alisa become close friends. However, their friendship is put to the test when Shin is captured by an unknown assailant.
 
-(Source: ANN)"
-animeRelated	['Tekken']
-animeCharacters	['Bosconovitch, Alisa', 'Ling, Xiaoyu', 'Kamiya, Shin', 'Kazama, Jin', 'Mishima, Kazuya', 'Mishima, Heihachi', 'Lee, Chaolan', 'Williams, Nina', 'Williams, Anna', 'Panda']
-animeVoices	['Matsuoka, Yuki', 'Sakamoto, Maaya', 'Miyano, Mamoru', 'Chiba, Isshin', 'Shinohara, Masanori', 'Ishizuka, Unshou', 'Okiayu, Ryoutarou', 'Tanaka, Atsuko', 'Watanabe, Akeno']
-animeStaff	[['Mouri, Youichi', 'Director'], ['Katayama, Kazuyoshi', 'Storyboard'], ['Satou, Dai', 'Screenplay'], ['Sakimoto, Hitoshi', 'Music']]
+(Source: ANN)"	['Tekken']	['Bosconovitch, Alisa', 'Ling, Xiaoyu', 'Kamiya, Shin', 'Kazama, Jin', 'Mishima, Kazuya', 'Mishima, Heihachi', 'Lee, Chaolan', 'Williams, Nina', 'Williams, Anna', 'Panda']	['Matsuoka, Yuki', 'Sakamoto, Maaya', 'Miyano, Mamoru', 'Chiba, Isshin', 'Shinohara, Masanori', 'Ishizuka, Unshou', 'Okiayu, Ryoutarou', 'Tanaka, Atsuko', 'Watanabe, Akeno']	[['Mouri, Youichi', 'Director'], ['Katayama, Kazuyoshi', 'Storyboard'], ['Satou, Dai', 'Screenplay'], ['Sakimoto, Hitoshi', 'Music']]

@@ -1,15 +1,2 @@
-animeTitle	Teekyuu 7
-animeType	TV
-animeNumEpisode	12
-releaseDate	2016-01-12 00:00:00
-endDate	2016-03-29 00:00:00
-animeNumMembers	14209
-animeScore	6.65
-animeUsers	7545
-animeRank	5330
-animePopularity	4615
-animeDescription	Seventh season of the Teekyuu series.
-animeRelated	['Teekyuu', 'Teekyuu 6', 'Teekyuu 7 Specials', 'Teekyuu 8']
-animeCharacters	['Bandou, Marimo', 'Shinjou, Kanae', 'Takamiya, Nasuno', 'Oshimoto, Yuri', 'Tanaka, Kinako', 'Nishiaraidaishi, Nishi', 'Kondou, Udonko', 'Kondou, Annenkov', 'Oshimoto, Youta', 'Saleswoman']
-animeVoices	['Hanazawa, Kana', 'Mimori, Suzuko', 'Narumi, Kyoko', 'Watanabe, Yui', 'Nakashima, Yuki', 'Tanijiri, Maria', 'Ishihara, Kaori', 'Kitamura, Eri', 'Oosaka, Ryouta']
-animeStaff	[['Itagaki, Shin', 'Director, Sound Director, Storyboard, Key Animation, Series Composition, Character Design'], ['Hanazawa, Kana', 'Theme Song Performance'], ['Mimori, Suzuko', 'Theme Song Performance'], ['Watanabe, Yui', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Teekyuu 7	TV	12	2016-01-12 00:00:00	2016-03-29 00:00:00	14209	6.65	7545	5330	4615	Seventh season of the Teekyuu series.	['Teekyuu', 'Teekyuu 6', 'Teekyuu 7 Specials', 'Teekyuu 8']	['Bandou, Marimo', 'Shinjou, Kanae', 'Takamiya, Nasuno', 'Oshimoto, Yuri', 'Tanaka, Kinako', 'Nishiaraidaishi, Nishi', 'Kondou, Udonko', 'Kondou, Annenkov', 'Oshimoto, Youta', 'Saleswoman']	['Hanazawa, Kana', 'Mimori, Suzuko', 'Narumi, Kyoko', 'Watanabe, Yui', 'Nakashima, Yuki', 'Tanijiri, Maria', 'Ishihara, Kaori', 'Kitamura, Eri', 'Oosaka, Ryouta']	[['Itagaki, Shin', 'Director, Sound Director, Storyboard, Key Animation, Series Composition, Character Design'], ['Hanazawa, Kana', 'Theme Song Performance'], ['Mimori, Suzuko', 'Theme Song Performance'], ['Watanabe, Yui', 'Theme Song Performance']]

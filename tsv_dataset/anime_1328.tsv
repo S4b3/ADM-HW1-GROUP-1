@@ -1,15 +1,2 @@
-animeTitle	Radiant 2nd Season
-animeType	TV
-animeNumEpisode	21
-releaseDate	2019-10-02 00:00:00
-endDate	2020-02-26 00:00:00
-animeNumMembers	84230
-animeScore	7.59
-animeUsers	32161
-animeRank	1328
-animePopularity	1835
-animeDescription	Second season of Radiant.
-animeRelated	['Radiant']
-animeCharacters	['Melie', 'Seth', 'Doc', 'Grimm', 'Dragunov, Dart', 'Ocoho', 'Alma', 'Jill', 'Mister Bobley', 'Bagliore, Ulmina']
-animeVoices	['Yuuki, Aoi', 'Hanamori, Yumiri', 'Oohata, Shintarou', 'Koyasu, Takehito', 'Yusa, Kouji', 'Fuchigami, Mai', 'Park, Romi', 'Inoue, Kikuko', 'Koichi, Makoto', 'Hayami, Saori']
-animeStaff	[['Kishi, Seiji', 'Director'], ['Yamada, Taku', 'Episode Director, Storyboard'], ['NakamuraEmi', 'Theme Song Performance'], ['Van Ermengem, Marie', 'ADR Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Radiant 2nd Season	TV	21	2019-10-02 00:00:00	2020-02-26 00:00:00	84230	7.59	32161	1328	1835	Second season of Radiant.	['Radiant']	['Melie', 'Seth', 'Doc', 'Grimm', 'Dragunov, Dart', 'Ocoho', 'Alma', 'Jill', 'Mister Bobley', 'Bagliore, Ulmina']	['Yuuki, Aoi', 'Hanamori, Yumiri', 'Oohata, Shintarou', 'Koyasu, Takehito', 'Yusa, Kouji', 'Fuchigami, Mai', 'Park, Romi', 'Inoue, Kikuko', 'Koichi, Makoto', 'Hayami, Saori']	[['Kishi, Seiji', 'Director'], ['Yamada, Taku', 'Episode Director, Storyboard'], ['NakamuraEmi', 'Theme Song Performance'], ['Van Ermengem, Marie', 'ADR Director']]

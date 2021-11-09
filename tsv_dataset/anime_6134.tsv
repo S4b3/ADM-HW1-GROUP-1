@@ -1,17 +1,4 @@
-animeTitle	Konpeki no Kantai
-animeType	OVA
-animeNumEpisode	32
-releaseDate	1993-12-01 00:00:00
-endDate	2003-08-01 00:00:00
-animeNumMembers	2342
-animeScore	6.5
-animeUsers	230
-animeRank	6134
-animePopularity	9014
-animeDescription	"Konpeki no Kantai is a Japanese alternate-history original video animation series produced by JC Staff. Based on a 1992 novel by Yoshio Aramaki, the series focuses on a technologically advanced Imperial Japanese Navy and a radically different Pacific War that was brought about by Admiral Isoroku Yamamoto's revival in the past due to unexplained circumstances. The series also features real-life 1940s figures whose first names were changed, such as Winston Churchill to Kingston Churchill and Adolf Hitler to Heinrich von Hitler.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Konpeki no Kantai	OVA	32	1993-12-01 00:00:00	2003-08-01 00:00:00	2342	6.5	230	6134	9014	"Konpeki no Kantai is a Japanese alternate-history original video animation series produced by JC Staff. Based on a 1992 novel by Yoshio Aramaki, the series focuses on a technologically advanced Imperial Japanese Navy and a radically different Pacific War that was brought about by Admiral Isoroku Yamamoto's revival in the past due to unexplained circumstances. The series also features real-life 1940s figures whose first names were changed, such as Winston Churchill to Kingston Churchill and Adolf Hitler to Heinrich von Hitler.
 
-(Source: Wikipedia)"
-animeRelated	['Kyokujitsu no Kantai', 'Konpeki no Kantai: Sourai Kaihatsu Monogatari']
-animeCharacters	['Maebara, Issei', 'Takasugi, Eisaku', 'Takano, Isoroku', 'Otaka, Yasaburou', 'Roosevelt, Henry']
-animeVoices	['Tanaka, Hideyuki', 'Ginga, Banjou', 'Yara, Yuusaku', 'Fujimoto, Yuzuru', 'Tokumaru, Kan']
-animeStaff	[['Kanda, Takeyuki', 'Director'], ['Matano, Hiromichi', 'Director'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Takahashi, Ryousuke', 'Script, Series Composition, Screenplay']]
+(Source: Wikipedia)"	['Kyokujitsu no Kantai', 'Konpeki no Kantai: Sourai Kaihatsu Monogatari']	['Maebara, Issei', 'Takasugi, Eisaku', 'Takano, Isoroku', 'Otaka, Yasaburou', 'Roosevelt, Henry']	['Tanaka, Hideyuki', 'Ginga, Banjou', 'Yara, Yuusaku', 'Fujimoto, Yuzuru', 'Tokumaru, Kan']	[['Kanda, Takeyuki', 'Director'], ['Matano, Hiromichi', 'Director'], ['Matsuura, Noriyoshi', 'Sound Director'], ['Takahashi, Ryousuke', 'Script, Series Composition, Screenplay']]

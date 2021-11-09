@@ -1,15 +1,2 @@
-animeTitle	Crash!
-animeType	Special
-animeNumEpisode	3
-releaseDate	2012-11-13 00:00:00
-endDate	2012-11-27 00:00:00
-animeNumMembers	1681
-animeScore	5.44
-animeUsers	541
-animeRank	10543
-animePopularity	9898
-animeDescription	Three episodes aired on TV as part of the Ribon x Oha Suta specials. 
-animeRelated	['Crash!']
-animeCharacters	['Shiraboshi, Hana', 'Shinozuka, Rei', 'Midorikawa, Kazuhiko', 'Aoyagi, Yugo']
-animeVoices	[]
-animeStaff	[['Nomizu, Iori', 'Theme Song Performance'], ['Fujiwara, Yuka', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Crash!	Special	3	2012-11-13 00:00:00	2012-11-27 00:00:00	1681	5.44	541	10543	9898	Three episodes aired on TV as part of the Ribon x Oha Suta specials. 	['Crash!']	['Shiraboshi, Hana', 'Shinozuka, Rei', 'Midorikawa, Kazuhiko', 'Aoyagi, Yugo']	[]	[['Nomizu, Iori', 'Theme Song Performance'], ['Fujiwara, Yuka', 'Original Creator']]

@@ -1,15 +1,2 @@
-animeTitle	Doraemon: Doraemon Comes Back (Movie)
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1998-03-07 00:00:00
-endDate	
-animeNumMembers	2040
-animeScore	6.95
-animeUsers	953
-animeRank	3984
-animePopularity	9386
-animeDescription	Movie version of the Doraemon: Come Back Doraemon Special.
-animeRelated	['Doraemon: Doraemon Comes Back', 'Doraemon Movie 19: Nobita no Nankai Daibouken']
-animeCharacters	['Doraemon', 'Nobi, Nobita', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Nobi, Nobisuke']
-animeVoices	['Ooyama, Nobuyo']
-animeStaff	[['Watanabe, Ayumu', 'Director, Animation Director'], ['Fujiko, Fujio F.', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music'], ['Akashi, Seiko', 'Art Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Doraemon: Doraemon Comes Back (Movie)	Movie	1	1998-03-07 00:00:00		2040	6.95	953	3984	9386	Movie version of the Doraemon: Come Back Doraemon Special.	['Doraemon: Doraemon Comes Back', 'Doraemon Movie 19: Nobita no Nankai Daibouken']	['Doraemon', 'Nobi, Nobita', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Nobi, Nobisuke']	['Ooyama, Nobuyo']	[['Watanabe, Ayumu', 'Director, Animation Director'], ['Fujiko, Fujio F.', 'Original Creator'], ['Kikuchi, Shunsuke', 'Music'], ['Akashi, Seiko', 'Art Director']]

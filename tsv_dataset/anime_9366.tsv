@@ -1,15 +1,2 @@
-animeTitle	Cream Lemon: New Generation
-animeType	OVA
-animeNumEpisode	4
-releaseDate	2006-03-23 00:00:00
-endDate	2006-05-31 00:00:00
-animeNumMembers	1683
-animeScore	5.8
-animeUsers	329
-animeRank	9366
-animePopularity	9893
-animeDescription	A remake of the old Cream Lemon OVA series. 
-animeRelated	['Cream Lemon']
-animeCharacters	['Nonomura, Ami']
-animeVoices	[]
-animeStaff	[['Negishi, Hiroshi', 'Producer'], ['Takahashi, Naruyo', 'Director, Episode Director, Animation Director'], ['Kikuchi, Kouichi', 'Sound Director'], ['Konno, Yasuyuki', 'Sound Effects']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Cream Lemon: New Generation	OVA	4	2006-03-23 00:00:00	2006-05-31 00:00:00	1683	5.8	329	9366	9893	A remake of the old Cream Lemon OVA series. 	['Cream Lemon']	['Nonomura, Ami']	[]	[['Negishi, Hiroshi', 'Producer'], ['Takahashi, Naruyo', 'Director, Episode Director, Animation Director'], ['Kikuchi, Kouichi', 'Sound Director'], ['Konno, Yasuyuki', 'Sound Effects']]

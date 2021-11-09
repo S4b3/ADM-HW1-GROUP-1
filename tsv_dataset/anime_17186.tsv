@@ -1,15 +1,2 @@
-animeTitle	Manga Hana no Kakarichou
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1981-11-28 00:00:00
-endDate	
-animeNumMembers	223
-animeScore	
-animeUsers	
-animeRank	17186
-animePopularity	15657
-animeDescription	Based on the comedy manga by Sonoyama Shunji.
-animeRelated	['Hana no Kakarichou']
-animeCharacters	['Mashumaro, Ayanoroji', 'Youko']
-animeVoices	['Tomita, Kousei', 'Mukai, Mariko']
-animeStaff	[['Ishiguro, Noboru', 'Episode Director'], ['Okazaki, Minoru', 'Episode Director'], ['Itou, Tsunehisa', 'Script'], ['Kobayashi, Shichiro', 'Art Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Manga Hana no Kakarichou	Movie	1	1981-11-28 00:00:00		223			17186	15657	Based on the comedy manga by Sonoyama Shunji.	['Hana no Kakarichou']	['Mashumaro, Ayanoroji', 'Youko']	['Tomita, Kousei', 'Mukai, Mariko']	[['Ishiguro, Noboru', 'Episode Director'], ['Okazaki, Minoru', 'Episode Director'], ['Itou, Tsunehisa', 'Script'], ['Kobayashi, Shichiro', 'Art Director']]

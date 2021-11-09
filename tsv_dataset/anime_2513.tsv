@@ -1,17 +1,4 @@
-animeTitle	RideBack
-animeType	TV
-animeNumEpisode	12
-releaseDate	2009-01-12 00:00:00
-endDate	2009-03-30 00:00:00
-animeNumMembers	44172
-animeScore	7.28
-animeUsers	19207
-animeRank	2513
-animePopularity	2667
-animeDescription	"In the future, an organization called the GGP has taken control of the world. Rin Ogata was a promising up-and-coming ballet dancer, but suffered a serious injury while dancing and decided to quit. Years later in college, she comes across a club building and soon finds herself intrigued by a transforming motorcycle-like robotic vehicle called a ""Rideback"". She soon finds that her unique ballet skills with balance and finesse make her a born natural on a Rideback. However, those same skills also get her into serious trouble with the government.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+RideBack	TV	12	2009-01-12 00:00:00	2009-03-30 00:00:00	44172	7.28	19207	2513	2667	"In the future, an organization called the GGP has taken control of the world. Rin Ogata was a promising up-and-coming ballet dancer, but suffered a serious injury while dancing and decided to quit. Years later in college, she comes across a club building and soon finds herself intrigued by a transforming motorcycle-like robotic vehicle called a ""Rideback"". She soon finds that her unique ballet skills with balance and finesse make her a born natural on a Rideback. However, those same skills also get her into serious trouble with the government.
 
-(Source: Wikipedia)"
-animeRelated	['RideBack']
-animeCharacters	['Ogata, Rin', 'Kataoka, Tamayo', 'Okakura, Tenshirou', 'Kiefer', 'Uchida, Suzuri', 'Yokoyama, Misao', 'Uemura, Shouko', 'Ogata, Yuki', 'Hishida, Haruki', 'Ogata, Kenji']
-animeVoices	['Mizuki, Nana', 'Park, Romi', 'Koyama, Rikiya', 'Morikawa, Toshiyuki', 'Matsumoto, Megumi', 'Hayamizu, Risa', 'Toyoguchi, Megumi', 'Sonozaki, Mie', 'Ueda, Yuuji', 'Horie, Kazuma']
-animeStaff	[['Takahashi, Atsushi', 'Director, Episode Director, Storyboard'], ['Nakajima, Toshihiko', 'Sound Director'], ['Sueda, Yoshifumi', 'Episode Director'], ['Katou, Michiya', 'Episode Director, Storyboard, Director of Photography']]
+(Source: Wikipedia)"	['RideBack']	['Ogata, Rin', 'Kataoka, Tamayo', 'Okakura, Tenshirou', 'Kiefer', 'Uchida, Suzuri', 'Yokoyama, Misao', 'Uemura, Shouko', 'Ogata, Yuki', 'Hishida, Haruki', 'Ogata, Kenji']	['Mizuki, Nana', 'Park, Romi', 'Koyama, Rikiya', 'Morikawa, Toshiyuki', 'Matsumoto, Megumi', 'Hayamizu, Risa', 'Toyoguchi, Megumi', 'Sonozaki, Mie', 'Ueda, Yuuji', 'Horie, Kazuma']	[['Takahashi, Atsushi', 'Director, Episode Director, Storyboard'], ['Nakajima, Toshihiko', 'Sound Director'], ['Sueda, Yoshifumi', 'Episode Director'], ['Katou, Michiya', 'Episode Director, Storyboard, Director of Photography']]

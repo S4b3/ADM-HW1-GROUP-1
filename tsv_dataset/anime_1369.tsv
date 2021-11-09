@@ -1,15 +1,2 @@
-animeTitle	High School Fleet Movie
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2020-01-18 00:00:00
-endDate	
-animeNumMembers	12777
-animeScore	7.58
-animeUsers	3269
-animeRank	1369
-animePopularity	4820
-animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
-animeRelated	['High School Fleet Interval (Movie)', 'High School Fleet OVA']
-animeCharacters	['Misaki, Akeno', 'Munetani, Mashiro', 'Irizaki, Mei', 'Nosa, Kouko', 'Tateishi, Shima', 'Shiretoko, Rin', 'Braunschweig Ingenohl Friedeburg, Wilhelmina', 'China, Moeka', 'Kreutzer, Thea', 'Kaburagi, Minami']
-animeVoices	['Natsukawa, Shiina', 'Lynn', 'Tanezaki, Atsumi', 'Kurose, Yuuko', 'Furuki, Nozomi', 'Kubo, Yurika', 'Igarashi, Hiromi', 'Amamiya, Sora']
-animeStaff	[['Nobuta, Yuu', 'Director, Chief Animation Director'], ['Nakagawa, Jun', 'Director'], ['Morishita, Hiroto', 'Sound Director'], ['Suzuki, Takaaki', 'Script, Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+High School Fleet Movie	Movie	1	2020-01-18 00:00:00		12777	7.58	3269	1369	4820	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.	['High School Fleet Interval (Movie)', 'High School Fleet OVA']	['Misaki, Akeno', 'Munetani, Mashiro', 'Irizaki, Mei', 'Nosa, Kouko', 'Tateishi, Shima', 'Shiretoko, Rin', 'Braunschweig Ingenohl Friedeburg, Wilhelmina', 'China, Moeka', 'Kreutzer, Thea', 'Kaburagi, Minami']	['Natsukawa, Shiina', 'Lynn', 'Tanezaki, Atsumi', 'Kurose, Yuuko', 'Furuki, Nozomi', 'Kubo, Yurika', 'Igarashi, Hiromi', 'Amamiya, Sora']	[['Nobuta, Yuu', 'Director, Chief Animation Director'], ['Nakagawa, Jun', 'Director'], ['Morishita, Hiroto', 'Sound Director'], ['Suzuki, Takaaki', 'Script, Original Creator']]

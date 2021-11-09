@@ -1,15 +1,2 @@
-animeTitle	One Room Second Season
-animeType	TV
-animeNumEpisode	12
-releaseDate	2018-07-10 00:00:00
-endDate	2018-09-24 00:00:00
-animeNumMembers	41444
-animeScore	6.1
-animeUsers	17398
-animeRank	8175
-animePopularity	2761
-animeDescription	Second season of One Room. 
-animeRelated	['One Room', 'One Room Second Season: Hanasaka Yui no Prologue', 'One Room Second Season Special', 'One Room Third Season']
-animeCharacters	['Hanasaka, Yui', 'Amatsuki, Mashiro', 'Nanahashi, Minori']
-animeVoices	['Ichimichi, Mao', 'Minase, Inori', 'Takahashi, Rie']
-animeStaff	[['Suzuki, Ryouhei', 'Producer'], ['Tateishi, Yayoi', 'Sound Director'], ['Shimoi, Aose', 'Script'], ['Sakuma, Takashi', 'Storyboard']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+One Room Second Season	TV	12	2018-07-10 00:00:00	2018-09-24 00:00:00	41444	6.1	17398	8175	2761	Second season of One Room. 	['One Room', 'One Room Second Season: Hanasaka Yui no Prologue', 'One Room Second Season Special', 'One Room Third Season']	['Hanasaka, Yui', 'Amatsuki, Mashiro', 'Nanahashi, Minori']	['Ichimichi, Mao', 'Minase, Inori', 'Takahashi, Rie']	[['Suzuki, Ryouhei', 'Producer'], ['Tateishi, Yayoi', 'Sound Director'], ['Shimoi, Aose', 'Script'], ['Sakuma, Takashi', 'Storyboard']]

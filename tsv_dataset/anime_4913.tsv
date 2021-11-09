@@ -1,14 +1,5 @@
-animeTitle	Pokemon XY: Sora no Hahen
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2014-07-12 00:00:00
-endDate	
-animeNumMembers	6856
-animeScore	6.74
-animeUsers	2159
-animeRank	4913
-animePopularity	6190
-animeDescription	"Pocket Monsters XY: Sora no Hahen, is an anime movie tied to Pokémon XY television anime, that screened in two Tokyo planetariums. Like previous Pokémon planetarium anime, this one was projected onto 360-degree panoramic domes.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Pokemon XY: Sora no Hahen	Movie	1	2014-07-12 00:00:00		6856	6.74	2159	4913	6190	"Pocket Monsters XY: Sora no Hahen, is an anime movie tied to Pokémon XY television anime, that screened in two Tokyo planetariums. Like previous Pokémon planetarium anime, this one was projected onto 360-degree panoramic domes.
 
 The story follows Satoshi and his friends when they visit the Pokémon Aerospace eXploration Agency (a nod to the real-life Japan Aerospace Exploration Agency).
 
@@ -16,8 +7,4 @@ They are thrilled by stories from PAXA's astronauts about the wonders of space a
 
 At that critical moment, trouble develops in a control system for artificial satellites. Large pieces of space debris have collided, causing fears of even more debris.
 
-(Source: ANN)"
-animeRelated	['Pokemon XY']
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+(Source: ANN)"	['Pokemon XY']	[]	[]	[]

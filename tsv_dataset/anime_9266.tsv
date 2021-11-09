@@ -1,14 +1,5 @@
-animeTitle	Animation!
-animeType	OVA
-animeNumEpisode	13
-releaseDate	2006-01-01 00:00:00
-endDate	2009-01-01 00:00:00
-animeNumMembers	676
-animeScore	5.83
-animeUsers	178
-animeRank	9266
-animePopularity	12137
-animeDescription	"A collection of short animations, from the revelations Tomoyoshi Joko and Hiroco Ichinose.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Animation!	OVA	13	2006-01-01 00:00:00	2009-01-01 00:00:00	676	5.83	178	9266	12137	"A collection of short animations, from the revelations Tomoyoshi Joko and Hiroco Ichinose.
 
 By Tomoyoshi Joko
 AFRO - 2006 (1:30)
@@ -27,8 +18,4 @@ YOKOHA-MAMAN -2009 (00:20)
 morning (pilot film) - 2009 (1:30)
 
 Joint
-Buil-Bun - 2006 (1:30)"
-animeRelated	[]
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+Buil-Bun - 2006 (1:30)"	[]	[]	[]	[]

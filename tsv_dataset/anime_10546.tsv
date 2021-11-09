@@ -1,17 +1,4 @@
-animeTitle	Francesca
-animeType	TV
-animeNumEpisode	24
-releaseDate	2014-07-07 00:00:00
-endDate	2014-12-15 00:00:00
-animeNumMembers	9131
-animeScore	5.44
-animeUsers	1299
-animeRank	10546
-animePopularity	5498
-animeDescription	"TV anime adaptation based on the undead idol character Francesca to promote Hokkaido, Japan.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Francesca	TV	24	2014-07-07 00:00:00	2014-12-15 00:00:00	9131	5.44	1299	10546	5498	"TV anime adaptation based on the undead idol character Francesca to promote Hokkaido, Japan.
 
-(Source: MAL News)"
-animeRelated	['Hungry Zombie Francesca!!']
-animeCharacters	['Francesca', 'Exorcist', 'Ishikawa, Takuboku', 'Ichimura, Tetsunosuke', 'Franken', 'Shimada, Kai', 'Minamoto, Yoshitsune', 'Nara, Heikichi', 'Nara, Heitarou', 'Nara, Heiko']
-animeVoices	['Makino, Yui', 'Tano, Asami', 'Sugiyama, Noriaki', 'Naitou, Ami', 'Ikezoe, Tomofumi', 'Miyamoto, Katsuya', 'Hino, Satoshi', 'Kawada, Shinji', 'Oi, Marie']
-animeStaff	[['Yano, Yuuichirou', 'Director, Storyboard'], ['Takeuchi, Toshimitsu', 'Script'], ['Makino, Yui', 'Theme Song Performance'], ['Kawada, Ruka', 'Theme Song Composition']]
+(Source: MAL News)"	['Hungry Zombie Francesca!!']	['Francesca', 'Exorcist', 'Ishikawa, Takuboku', 'Ichimura, Tetsunosuke', 'Franken', 'Shimada, Kai', 'Minamoto, Yoshitsune', 'Nara, Heikichi', 'Nara, Heitarou', 'Nara, Heiko']	['Makino, Yui', 'Tano, Asami', 'Sugiyama, Noriaki', 'Naitou, Ami', 'Ikezoe, Tomofumi', 'Miyamoto, Katsuya', 'Hino, Satoshi', 'Kawada, Shinji', 'Oi, Marie']	[['Yano, Yuuichirou', 'Director, Storyboard'], ['Takeuchi, Toshimitsu', 'Script'], ['Makino, Yui', 'Theme Song Performance'], ['Kawada, Ruka', 'Theme Song Composition']]

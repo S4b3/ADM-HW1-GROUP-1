@@ -1,17 +1,4 @@
-animeTitle	Perman
-animeType	TV
-animeNumEpisode	54
-releaseDate	1967-04-02 00:00:00
-endDate	1968-04-14 00:00:00
-animeNumMembers	2906
-animeScore	6.41
-animeUsers	1588
-animeRank	6599
-animePopularity	8472
-animeDescription	"After Mitsuo receives a mask from a retiring superhero, he becomes Paaman.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Perman	TV	54	1967-04-02 00:00:00	1968-04-14 00:00:00	2906	6.41	1588	6599	8472	"After Mitsuo receives a mask from a retiring superhero, he becomes Paaman.
 
-(Source: AniDB)"
-animeRelated	['Perman', 'Perman (1983)', 'Pa-Pa-Pa the ★ Movie: Perman']
-animeCharacters	['Suwa, Mitsuo', 'Booby', 'Birdman', 'Ouyama, Houzen', 'Paayan', 'Kabao', 'Sawada, Michiko']
-animeVoices	['Miwa, Katsue', 'Kamo, Yoshihisa']
-animeStaff	[['Nagahama, Tadao', 'Episode Director, Script'], ['Oosumi, Masaaki', 'Episode Director'], ['Namie, Shima', 'Script'], ['Araki, Shingo', 'Storyboard']]
+(Source: AniDB)"	['Perman', 'Perman (1983)', 'Pa-Pa-Pa the ★ Movie: Perman']	['Suwa, Mitsuo', 'Booby', 'Birdman', 'Ouyama, Houzen', 'Paayan', 'Kabao', 'Sawada, Michiko']	['Miwa, Katsue', 'Kamo, Yoshihisa']	[['Nagahama, Tadao', 'Episode Director, Script'], ['Oosumi, Masaaki', 'Episode Director'], ['Namie, Shima', 'Script'], ['Araki, Shingo', 'Storyboard']]

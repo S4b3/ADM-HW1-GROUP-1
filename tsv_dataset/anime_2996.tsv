@@ -1,17 +1,4 @@
-animeTitle	Pokemon Evolutions
-animeType	ONA
-animeNumEpisode	8
-releaseDate	2021-09-09 00:00:00
-endDate	2021-12-23 00:00:00
-animeNumMembers	6679
-animeScore	7.17
-animeUsers	1455
-animeRank	2996
-animePopularity	6227
-animeDescription	"An animated series created to celebrate 25 years of the global entertainment franchise. Each episode will take fans on a journey through all the known regions of the Pokémon world.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Pokemon Evolutions	ONA	8	2021-09-09 00:00:00	2021-12-23 00:00:00	6679	7.17	1455	2996	6227	"An animated series created to celebrate 25 years of the global entertainment franchise. Each episode will take fans on a journey through all the known regions of the Pokémon world.
 
-(Source: Anilist)"
-animeRelated	['Pokemon']
-animeCharacters	['Dande']
-animeVoices	[]
-animeStaff	[['Delhausse, Jean-Marc', 'ADR Director']]
+(Source: Anilist)"	['Pokemon']	['Dande']	[]	[['Delhausse, Jean-Marc', 'ADR Director']]

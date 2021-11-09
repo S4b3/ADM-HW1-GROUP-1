@@ -1,15 +1,2 @@
-animeTitle	De:vadasy
-animeType	OVA
-animeNumEpisode	3
-releaseDate	2000-11-25 00:00:00
-endDate	2001-01-25 00:00:00
-animeNumMembers	2600
-animeScore	4.67
-animeUsers	974
-animeRank	11755
-animePopularity	8765
-animeDescription	For young men like Kei, life is still plagued by nothing but homework and girl trouble. When an unknown force besieges Earth with robotic war machines, however, it is Kei who is chosen to defend the human race.
-animeRelated	[]
-animeCharacters	['Anno, Kei', 'Takashina, Misako', 'Matsudo, Naoki', 'Minakushi, Amara']
-animeVoices	['Suzumura, Kenichi', 'Nagata, Ryoko', 'Mitsuishi, Kotono']
-animeStaff	[['Kondou, Nobuhiro', 'Director'], ['Takeuchi, Shinji', 'Animation Director'], ['Sirabella, John', 'Executive Producer']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+De:vadasy	OVA	3	2000-11-25 00:00:00	2001-01-25 00:00:00	2600	4.67	974	11755	8765	For young men like Kei, life is still plagued by nothing but homework and girl trouble. When an unknown force besieges Earth with robotic war machines, however, it is Kei who is chosen to defend the human race.	[]	['Anno, Kei', 'Takashina, Misako', 'Matsudo, Naoki', 'Minakushi, Amara']	['Suzumura, Kenichi', 'Nagata, Ryoko', 'Mitsuishi, Kotono']	[['Kondou, Nobuhiro', 'Director'], ['Takeuchi, Shinji', 'Animation Director'], ['Sirabella, John', 'Executive Producer']]

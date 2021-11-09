@@ -1,17 +1,4 @@
-animeTitle	Ark
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2005-06-02 00:00:00
-endDate	
-animeNumMembers	1119
-animeScore	6.01
-animeUsers	396
-animeRank	8595
-animePopularity	10859
-animeDescription	"Ark takes place on a dying alien world in which a global war between two technologically advanced human civilizations has reduced the planet to a wasteland. The only way to escape the world is by activating the Ark, an ancient giant robot capable of supporting a human city as well as traveling through space.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Ark	Movie	1	2005-06-02 00:00:00		1119	6.01	396	8595	10859	"Ark takes place on a dying alien world in which a global war between two technologically advanced human civilizations has reduced the planet to a wasteland. The only way to escape the world is by activating the Ark, an ancient giant robot capable of supporting a human city as well as traveling through space.
 
-(Source: Wikipedia)"
-animeRelated	[]
-animeCharacters	['Piriel', 'Baramanda', 'Jallak', 'Rogan', 'Amarinth']
-animeVoices	[]
-animeStaff	[]
+(Source: Wikipedia)"	[]	['Piriel', 'Baramanda', 'Jallak', 'Rogan', 'Amarinth']	[]	[]

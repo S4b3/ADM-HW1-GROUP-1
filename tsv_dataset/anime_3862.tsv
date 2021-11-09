@@ -1,15 +1,2 @@
-animeTitle	Kiddy Grade: Ignition
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2007-04-07 00:00:00
-endDate	
-animeNumMembers	4550
-animeScore	6.98
-animeUsers	1299
-animeRank	3862
-animePopularity	7277
-animeDescription	A recap of the original anime's first quarter.
-animeRelated	['Kiddy Grade', 'Kiddy Grade: Maelstrom']
-animeCharacters	['Éclair', 'Lumière', 'Sinistra', 'Tweedledee', 'Jenever, Alv', 'Tweedledum', 'Un-ou', 'Mercredi', 'Armbrust', 'Dextera']
-animeVoices	['Nagata, Ryoko', 'Hirano, Aya', 'Ishida, Akira']
-animeStaff	[['Kikuchi, Tsuyoshi', 'Assistant Producer'], ['Gotou, Keiji', 'Director'], ['Kimura, Hidefumi', 'Script'], ['Hamaguchi, Shirou', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kiddy Grade: Ignition	Movie	1	2007-04-07 00:00:00		4550	6.98	1299	3862	7277	A recap of the original anime's first quarter.	['Kiddy Grade', 'Kiddy Grade: Maelstrom']	['Éclair', 'Lumière', 'Sinistra', 'Tweedledee', 'Jenever, Alv', 'Tweedledum', 'Un-ou', 'Mercredi', 'Armbrust', 'Dextera']	['Nagata, Ryoko', 'Hirano, Aya', 'Ishida, Akira']	[['Kikuchi, Tsuyoshi', 'Assistant Producer'], ['Gotou, Keiji', 'Director'], ['Kimura, Hidefumi', 'Script'], ['Hamaguchi, Shirou', 'Music']]

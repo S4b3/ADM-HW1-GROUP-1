@@ -1,15 +1,2 @@
-animeTitle	Controller of Controller
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2016-05-18 00:00:00
-endDate	
-animeNumMembers	282
-animeScore	5.72
-animeUsers	132
-animeRank	9666
-animePopularity	14842
-animeDescription	A video game character finds a VR headset on the street.
-animeRelated	[]
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Controller of Controller	Movie	1	2016-05-18 00:00:00		282	5.72	132	9666	14842	A video game character finds a VR headset on the street.	[]	[]	[]	[]

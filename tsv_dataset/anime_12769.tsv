@@ -1,15 +1,2 @@
-animeTitle	Pikaia!!
-animeType	TV
-animeNumEpisode	13
-releaseDate	2017-02-26 00:00:00
-endDate	2017-05-27 00:00:00
-animeNumMembers	455
-animeScore	
-animeUsers	
-animeRank	12769
-animePopularity	13187
-animeDescription	Second season of Pikaia!.
-animeRelated	['Pikaia!']
-animeCharacters	['Pikaia', 'Vince', 'Professor Parker', 'Maurice', 'Irma']
-animeVoices	[]
-animeStaff	[['Ibata, Yoshihide', 'Director, Episode Director, Storyboard'], ['Watanabe, Jun', 'Sound Director'], ['Miura, Kazuya', 'Episode Director, Storyboard'], ['Fujisaku, Junichi', 'Script, Series Composition']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Pikaia!!	TV	13	2017-02-26 00:00:00	2017-05-27 00:00:00	455			12769	13187	Second season of Pikaia!.	['Pikaia!']	['Pikaia', 'Vince', 'Professor Parker', 'Maurice', 'Irma']	[]	[['Ibata, Yoshihide', 'Director, Episode Director, Storyboard'], ['Watanabe, Jun', 'Sound Director'], ['Miura, Kazuya', 'Episode Director, Storyboard'], ['Fujisaku, Junichi', 'Script, Series Composition']]

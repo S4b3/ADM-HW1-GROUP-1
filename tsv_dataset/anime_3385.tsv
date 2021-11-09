@@ -1,17 +1,4 @@
-animeTitle	Space Adventure Cobra
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1982-07-03 00:00:00
-endDate	
-animeNumMembers	8454
-animeScore	7.09
-animeUsers	3483
-animeRank	3385
-animePopularity	5677
-animeDescription	"Cobra, a notorious space pirate, is enlisted by bounty hunter Jane to rescue her sister from the strange being known as Crystal Boy, but then finds himself drawn into a complex struggle over the fate of a mysterious wandering planet.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Space Adventure Cobra	Movie	1	1982-07-03 00:00:00		8454	7.09	3483	3385	5677	"Cobra, a notorious space pirate, is enlisted by bounty hunter Jane to rescue her sister from the strange being known as Crystal Boy, but then finds himself drawn into a complex struggle over the fate of a mysterious wandering planet.
 
-(Source: ANN)"
-animeRelated	['Cobra', 'Space Cobra']
-animeCharacters	['Cobra', 'Armaroid, Lady', 'Royal, Jane', 'Crystal Bowie', 'Royal, Dominique', 'Sandra']
-animeVoices	['Matsuzaki, Shigeru', 'Sakakibara, Yoshiko', 'Nakamura, Akiko', 'Mutsumi, Gorou', 'Fubuki, Jun', 'Tajima, Reiko']
-animeStaff	[['Dezaki, Osamu', 'Director, Storyboard'], ['Terasawa, Buichi', 'Script, Original Creator'], ['Matsuzaki, Shigeru', 'Theme Song Performance'], ['Miyazaki, Hayao', 'Key Animation']]
+(Source: ANN)"	['Cobra', 'Space Cobra']	['Cobra', 'Armaroid, Lady', 'Royal, Jane', 'Crystal Bowie', 'Royal, Dominique', 'Sandra']	['Matsuzaki, Shigeru', 'Sakakibara, Yoshiko', 'Nakamura, Akiko', 'Mutsumi, Gorou', 'Fubuki, Jun', 'Tajima, Reiko']	[['Dezaki, Osamu', 'Director, Storyboard'], ['Terasawa, Buichi', 'Script, Original Creator'], ['Matsuzaki, Shigeru', 'Theme Song Performance'], ['Miyazaki, Hayao', 'Key Animation']]

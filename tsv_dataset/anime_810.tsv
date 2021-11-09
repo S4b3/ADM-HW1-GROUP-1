@@ -1,17 +1,4 @@
-animeTitle	Lupin III: The First
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2019-12-06 00:00:00
-endDate	
-animeNumMembers	22329
-animeScore	7.83
-animeUsers	10601
-animeRank	809
-animePopularity	3836
-animeDescription	"The iconic ""gentleman thief"" Lupin III returns in an action-packed, continent-spanning adventure, as Lupin III and his colorful underworld companions race to uncover the secrets of the mysterious Bresson Diary, before it falls into the hands of a dark cabal that will stop at nothing to resurrect the Third Reich. The gang undertakes trap-filled tombs, aerial escapades, and daring prison escapes with the trademark wit and visual finesse that have made Lupin the 3rd one of the most storied animation franchises in the world, in a thrilling new caper that is sure to delight fans old and new.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Lupin III: The First	Movie	1	2019-12-06 00:00:00		22329	7.83	10601	809	3836	"The iconic ""gentleman thief"" Lupin III returns in an action-packed, continent-spanning adventure, as Lupin III and his colorful underworld companions race to uncover the secrets of the mysterious Bresson Diary, before it falls into the hands of a dark cabal that will stop at nothing to resurrect the Third Reich. The gang undertakes trap-filled tombs, aerial escapades, and daring prison escapes with the trademark wit and visual finesse that have made Lupin the 3rd one of the most storied animation franchises in the world, in a thrilling new caper that is sure to delight fans old and new.
 
-(Source: GKIDS, edited)"
-animeRelated	['Lupin III']
-animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Laetitia', 'Mr. Bresson', 'Mrs. Bresson', 'Lambert', 'Gerald']
-animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Sawashiro, Miyuki', 'Namikawa, Daisuke', 'Yamadera, Kouichi', 'Hirose, Suzu', 'Yoshida, Koutarou', 'Fujiwara, Tatsuya']
-animeStaff	[['Yamazaki, Takashi', 'Director, Script'], ['Inaizumi, Lyn', 'Theme Song Performance'], ['Monkey Punch', 'Original Creator'], ['Oono, Yuuji', 'Music']]
+(Source: GKIDS, edited)"	['Lupin III']	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Laetitia', 'Mr. Bresson', 'Mrs. Bresson', 'Lambert', 'Gerald']	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Sawashiro, Miyuki', 'Namikawa, Daisuke', 'Yamadera, Kouichi', 'Hirose, Suzu', 'Yoshida, Koutarou', 'Fujiwara, Tatsuya']	[['Yamazaki, Takashi', 'Director, Script'], ['Inaizumi, Lyn', 'Theme Song Performance'], ['Monkey Punch', 'Original Creator'], ['Oono, Yuuji', 'Music']]

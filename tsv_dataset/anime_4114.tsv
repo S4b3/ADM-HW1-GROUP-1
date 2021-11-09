@@ -1,15 +1,2 @@
-animeTitle	Shouwa Monogatari
-animeType	TV
-animeNumEpisode	13
-releaseDate	2011-04-04 00:00:00
-endDate	2011-06-26 00:00:00
-animeNumMembers	5235
-animeScore	6.92
-animeUsers	1178
-animeRank	4114
-animePopularity	6868
-animeDescription	Dramatic story of the Yamazaki family during the year Showa 39 (1964), the year that Tokyo hosted the Summer Olympics.
-animeRelated	['Shouwa Monogatari (Movie)']
-animeCharacters	['Yamazaki, Taichi', 'Yamazaki, Yuuko', 'Yamazaki, Kouhei', 'Sawatari, Yuusuke', 'Miyamoto, Shinichi', 'Ootani, Setsuko', 'Takeguchi, Hiroko', 'Kasai, Toshiya', 'Takayanagi, Ryou', 'Yamazaki, Kanoko']
-animeVoices	['Aoki, Makoto', 'Fukuen, Misato', 'Chiba, Shouya', 'Yoshino, Hiroyuki', 'Takagi, Wataru', 'Tamagawa, Sakiko']
-animeStaff	[['Takeuchi, Hiroaki', 'Producer'], ['Honda, Yasunori', 'Sound Director'], ['Shiraishi, Michita', 'Episode Director'], ['Ishikura, Kenichi', 'Episode Director, Assistant Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shouwa Monogatari	TV	13	2011-04-04 00:00:00	2011-06-26 00:00:00	5235	6.92	1178	4114	6868	Dramatic story of the Yamazaki family during the year Showa 39 (1964), the year that Tokyo hosted the Summer Olympics.	['Shouwa Monogatari (Movie)']	['Yamazaki, Taichi', 'Yamazaki, Yuuko', 'Yamazaki, Kouhei', 'Sawatari, Yuusuke', 'Miyamoto, Shinichi', 'Ootani, Setsuko', 'Takeguchi, Hiroko', 'Kasai, Toshiya', 'Takayanagi, Ryou', 'Yamazaki, Kanoko']	['Aoki, Makoto', 'Fukuen, Misato', 'Chiba, Shouya', 'Yoshino, Hiroyuki', 'Takagi, Wataru', 'Tamagawa, Sakiko']	[['Takeuchi, Hiroaki', 'Producer'], ['Honda, Yasunori', 'Sound Director'], ['Shiraishi, Michita', 'Episode Director'], ['Ishikura, Kenichi', 'Episode Director, Assistant Director']]

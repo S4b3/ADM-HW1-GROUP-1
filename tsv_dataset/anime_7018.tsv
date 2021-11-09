@@ -1,15 +1,2 @@
-animeTitle	Shin Megami Tensei Devil Children
-animeType	TV
-animeNumEpisode	50
-releaseDate	2000-10-07 00:00:00
-endDate	2001-09-29 00:00:00
-animeNumMembers	2164
-animeScore	6.33
-animeUsers	262
-animeRank	7017
-animePopularity	9227
-animeDescription	A series based off of the Shin Megami Tensei: Devil Children franchise. 
-animeRelated	['Shin Megami Tensei Devil Children', 'Shin Megami Tensei Devil Children: Light & Dark']
-animeCharacters	['Kaname, Mirai', 'Kai, Setsuna']
-animeVoices	['Yukana', 'Morikubo, Shoutarou']
-animeStaff	[['Takeuchi, Yoshio', 'Director'], ['Takayanagi, Shigehito', 'Episode Director'], ['Hashimoto, Mitsuo', 'Episode Director, Storyboard'], ['Suzuki, Yoshio', 'Episode Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shin Megami Tensei Devil Children	TV	50	2000-10-07 00:00:00	2001-09-29 00:00:00	2164	6.33	262	7017	9227	A series based off of the Shin Megami Tensei: Devil Children franchise. 	['Shin Megami Tensei Devil Children', 'Shin Megami Tensei Devil Children: Light & Dark']	['Kaname, Mirai', 'Kai, Setsuna']	['Yukana', 'Morikubo, Shoutarou']	[['Takeuchi, Yoshio', 'Director'], ['Takayanagi, Shigehito', 'Episode Director'], ['Hashimoto, Mitsuo', 'Episode Director, Storyboard'], ['Suzuki, Yoshio', 'Episode Director']]

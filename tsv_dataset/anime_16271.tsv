@@ -1,17 +1,4 @@
-animeTitle	Id:Indeed
-animeType	ONA
-animeNumEpisode	12
-releaseDate	2021-01-08 00:00:00
-endDate	2021-03-26 00:00:00
-animeNumMembers	340
-animeScore	
-animeUsers	
-animeRank	16271
-animePopularity	14334
-animeDescription	"It is a comedic spin-off of Id:Invaded, depicting ""chibi"" style versions of characters in a series of fourth-wall breaking skits.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Id:Indeed	ONA	12	2021-01-08 00:00:00	2021-03-26 00:00:00	340			16271	14334	"It is a comedic spin-off of Id:Invaded, depicting ""chibi"" style versions of characters in a series of fourth-wall breaking skits.
 
-(Source: Id:Invaded Wiki)"
-animeRelated	['Id:Invaded']
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+(Source: Id:Invaded Wiki)"	['Id:Invaded']	[]	[]	[]

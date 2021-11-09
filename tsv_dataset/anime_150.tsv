@@ -1,21 +1,8 @@
-animeTitle	Major S5
-animeType	TV
-animeNumEpisode	25
-releaseDate	2009-01-10 00:00:00
-endDate	2009-06-27 00:00:00
-animeNumMembers	62509
-animeScore	8.42
-animeUsers	36332
-animeRank	150
-animePopularity	2211
-animeDescription	"The Baseball World Cup is nearing, and Gorou Honda is eager to represent his country. However, one small problem stands in his way: the team roster has already been selected, and he is not a part of it. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Major S5	TV	25	2009-01-10 00:00:00	2009-06-27 00:00:00	62509	8.42	36332	150	2211	"The Baseball World Cup is nearing, and Gorou Honda is eager to represent his country. However, one small problem stands in his way: the team roster has already been selected, and he is not a part of it. 
 
 Nonetheless, Gorou remains adamant to join. He becomes a practice pitcher for the Japanese national team, hoping to demonstrate his incredible speed and skills to the team's manager. Fortunately, Gorou is given the chance to prove his worth: he must show an impressive performance in the upcoming practice match involving the veteran Japanese team and the young players who hope to replace them. 
 
 The World Cup will bring together some of the strongest players from around the globe. It will also set the stage for Gorou's long-awaited showdown with his longtime rival, Joe Gibson.
 
-[Written by MAL Rewrite]"
-animeRelated	['Major', 'Major S4', 'Major S6']
-animeCharacters	['Honda, Gorou', 'Satou, Toshiya', 'Shimizu, Kaoru', 'Gibson, Joe', 'Mayumura, Ken', 'Shimizu, Taiga', 'Gibson Jr., Joe', 'Hoshino, Momoko', 'Komori, Daisuke', 'Shigeno, Hideki']
-animeVoices	['Morikubo, Shoutarou', 'Morita, Masakazu', 'Sasamoto, Yuuko', 'Ochiai, Kouji', 'Yasumura, Makoto', 'Park, Romi', 'Namikawa, Daisuke', 'Noda, Junko', 'Miyata, Kouki', 'Sakuya, Shunsuke']
-animeStaff	[['Fukushima, Toshinori', 'Director'], ['Umemoto, Yui', 'Episode Director, Storyboard'], ['Yoshioka, Takao', 'Script'], ['Suenaga, Mitsuyo', 'Script']]
+[Written by MAL Rewrite]"	['Major', 'Major S4', 'Major S6']	['Honda, Gorou', 'Satou, Toshiya', 'Shimizu, Kaoru', 'Gibson, Joe', 'Mayumura, Ken', 'Shimizu, Taiga', 'Gibson Jr., Joe', 'Hoshino, Momoko', 'Komori, Daisuke', 'Shigeno, Hideki']	['Morikubo, Shoutarou', 'Morita, Masakazu', 'Sasamoto, Yuuko', 'Ochiai, Kouji', 'Yasumura, Makoto', 'Park, Romi', 'Namikawa, Daisuke', 'Noda, Junko', 'Miyata, Kouki', 'Sakuya, Shunsuke']	[['Fukushima, Toshinori', 'Director'], ['Umemoto, Yui', 'Episode Director, Storyboard'], ['Yoshioka, Takao', 'Script'], ['Suenaga, Mitsuyo', 'Script']]

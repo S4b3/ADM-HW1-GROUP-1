@@ -1,17 +1,4 @@
-animeTitle	Hakuouki Movie 1: Kyoto Ranbu
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2013-08-24 00:00:00
-endDate	
-animeNumMembers	25511
-animeScore	7.64
-animeUsers	7991
-animeRank	1208
-animePopularity	3563
-animeDescription	"Chizuru Yukimura has come to Kyoto looking for her father, a doctor who has gone missing. While there, she witnesses a fight between an Oni and the Shinsengumi. Taking her into custody, the Shinsengumi debates on what to do with Chizuru, when they discover that she is the daughter of the doctor for whom they are also looking. The Shinsengumi then take Chizuru along on their search after the missing doctor, from adventure to adventure.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Hakuouki Movie 1: Kyoto Ranbu	Movie	1	2013-08-24 00:00:00		25511	7.64	7991	1208	3563	"Chizuru Yukimura has come to Kyoto looking for her father, a doctor who has gone missing. While there, she witnesses a fight between an Oni and the Shinsengumi. Taking her into custody, the Shinsengumi debates on what to do with Chizuru, when they discover that she is the daughter of the doctor for whom they are also looking. The Shinsengumi then take Chizuru along on their search after the missing doctor, from adventure to adventure.
 
-(Source: ANN)"
-animeRelated	['Hakuouki', 'Hakuouki Hekketsuroku Episode 0', 'Hakuouki Movie 2: Shikon Soukyuu']
-animeCharacters	['Saitou, Hajime', 'Okita, Souji', 'Hijikata, Toshizou', 'Harada, Sanosuke', 'Toudou, Heisuke', 'Yukimura, Chizuru', 'Nagakura, Shinpachi', 'Kazama, Chikage', 'Sannan, Keisuke', 'Yamazaki, Susumu']
-animeVoices	['Toriumi, Kousuke', 'Morikubo, Shoutarou', 'Miki, Shinichiro', 'Yusa, Kouji', 'Yoshino, Hiroyuki', 'Kuwashima, Houko', 'Tsuboi, Tomohiro', 'Tsuda, Kenjirou', 'Tobita, Nobuo', 'Suzuki, Takayuki']
-animeStaff	[['Yamasaki, Osamu', 'Director, Script'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Fujisawa, Tsunekiyo', 'Script'], ['Ishihira, Shinji', 'Storyboard']]
+(Source: ANN)"	['Hakuouki', 'Hakuouki Hekketsuroku Episode 0', 'Hakuouki Movie 2: Shikon Soukyuu']	['Saitou, Hajime', 'Okita, Souji', 'Hijikata, Toshizou', 'Harada, Sanosuke', 'Toudou, Heisuke', 'Yukimura, Chizuru', 'Nagakura, Shinpachi', 'Kazama, Chikage', 'Sannan, Keisuke', 'Yamazaki, Susumu']	['Toriumi, Kousuke', 'Morikubo, Shoutarou', 'Miki, Shinichiro', 'Yusa, Kouji', 'Yoshino, Hiroyuki', 'Kuwashima, Houko', 'Tsuboi, Tomohiro', 'Tsuda, Kenjirou', 'Tobita, Nobuo', 'Suzuki, Takayuki']	[['Yamasaki, Osamu', 'Director, Script'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Fujisawa, Tsunekiyo', 'Script'], ['Ishihira, Shinji', 'Storyboard']]

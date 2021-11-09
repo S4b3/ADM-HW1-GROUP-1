@@ -1,15 +1,2 @@
-animeTitle	Guilty Gear X
-animeType	Special
-animeNumEpisode	1
-releaseDate	2003-03-03 00:00:00
-endDate	
-animeNumMembers	855
-animeScore	5.91
-animeUsers	229
-animeRank	9008
-animePopularity	11578
-animeDescription	Animated promotional trailer for the Guilty Gear X, a game for PlayStation 2 and PC. Included in Guilty Gear X2's extras.
-animeRelated	[]
-animeCharacters	['Badguy, Sol', 'Kiske, Ky', 'Dizzy', 'Zanuff, Chipp']
-animeVoices	[]
-animeStaff	[['Tanaka, Hideyuki', 'Sound Director'], ['Shimoda, Masami', 'Storyboard'], ['Ishiwatari, Daisuke', 'Character Design'], ['Hirose, Yoshinori', 'Art Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Guilty Gear X	Special	1	2003-03-03 00:00:00		855	5.91	229	9008	11578	Animated promotional trailer for the Guilty Gear X, a game for PlayStation 2 and PC. Included in Guilty Gear X2's extras.	[]	['Badguy, Sol', 'Kiske, Ky', 'Dizzy', 'Zanuff, Chipp']	[]	[['Tanaka, Hideyuki', 'Sound Director'], ['Shimoda, Masami', 'Storyboard'], ['Ishiwatari, Daisuke', 'Character Design'], ['Hirose, Yoshinori', 'Art Director']]

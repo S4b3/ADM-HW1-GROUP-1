@@ -1,17 +1,4 @@
-animeTitle	Shirobako Movie
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2020-02-29 00:00:00
-endDate	
-animeNumMembers	39807
-animeScore	7.74
-animeUsers	6787
-animeRank	979
-animePopularity	2830
-animeDescription	"The film's story is set four years after the events of the original Shirobako anime. Aoi Miyamori keeps busy dealing with the ordinary troubles in her daily work at Musashino Animation. After a morning meeting, Watanabe talks to Aoi and puts her in charge of a new theatrical anime project for the studio. The project has unexpected problems, and Aoi is unsure if the company can proceed with a theatrical anime with its current state of affairs. While dealing with that anxiety, Aoi meets a new colleague named Kaede Miyai (voiced by Ayane Sakura). She and the MusAni team work together to complete the project.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shirobako Movie	Movie	1	2020-02-29 00:00:00		39807	7.74	6787	979	2830	"The film's story is set four years after the events of the original Shirobako anime. Aoi Miyamori keeps busy dealing with the ordinary troubles in her daily work at Musashino Animation. After a morning meeting, Watanabe talks to Aoi and puts her in charge of a new theatrical anime project for the studio. The project has unexpected problems, and Aoi is unsure if the company can proceed with a theatrical anime with its current state of affairs. While dealing with that anxiety, Aoi meets a new colleague named Kaede Miyai (voiced by Ayane Sakura). She and the MusAni team work together to complete the project.
 
-(Source: ANN)"
-animeRelated	['Shirobako']
-animeCharacters	['Miyamori, Aoi', 'Yasuhara, Ema', 'Sakaki, Shizuka', 'Imai, Midori', 'Toudou, Misa', 'Miyai, Kaede', 'Yano, Erika', 'Ogasawara, Rinko', 'Kinoshita, Seiichi', 'Kunogi, Ai']
-animeVoices	['Kimura, Juri', 'Yoshimura, Haruka', 'Chisuga, Haruka', 'Oowada, Hitomi', 'Takano, Asami', 'Sakura, Ayane', 'Yamaoka, Yuri', 'Kayano, Ai', 'Hiyama, Nobuyuki', 'Izawa, Shiori']
-animeStaff	[['Mizushima, Tsutomu', 'Director'], ['Yokote, Michiko', 'Script'], ['fhána', 'Theme Song Performance'], ['Ponkan⑧', 'Original Character Design']]
+(Source: ANN)"	['Shirobako']	['Miyamori, Aoi', 'Yasuhara, Ema', 'Sakaki, Shizuka', 'Imai, Midori', 'Toudou, Misa', 'Miyai, Kaede', 'Yano, Erika', 'Ogasawara, Rinko', 'Kinoshita, Seiichi', 'Kunogi, Ai']	['Kimura, Juri', 'Yoshimura, Haruka', 'Chisuga, Haruka', 'Oowada, Hitomi', 'Takano, Asami', 'Sakura, Ayane', 'Yamaoka, Yuri', 'Kayano, Ai', 'Hiyama, Nobuyuki', 'Izawa, Shiori']	[['Mizushima, Tsutomu', 'Director'], ['Yokote, Michiko', 'Script'], ['fhána', 'Theme Song Performance'], ['Ponkan⑧', 'Original Character Design']]

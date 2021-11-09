@@ -1,15 +1,2 @@
-animeTitle	Gegege no Kitarou (1971)
-animeType	TV
-animeNumEpisode	45
-releaseDate	1971-10-07 00:00:00
-endDate	1972-09-28 00:00:00
-animeNumMembers	2003
-animeScore	6.45
-animeUsers	355
-animeRank	6413
-animePopularity	9437
-animeDescription	Kitarou, a ghost, spends his afterlife helping humans in need of his skills. He thwarts the plans of evil spirits who live to torment humanity.
-animeRelated	['GeGeGe no Kitarou', 'Gegege no Kitarou (2007)', 'Gegege no Kitarou (1968)', 'Gegege no Kitarou (1985)', 'Gegege no Kitarou (1996)', 'Gegege no Kitarou: Chisougan', 'Hakaba Kitarou', 'Gegege no Kitarou (2018)']
-animeCharacters	['Kitarou', 'Medama Oyaji', 'Neko Musume', 'Nezumi Otoko', 'Ittan Momen', 'Karura', 'Miage-Nyuudou', 'Babaa, Sunakake', 'Konaki Jijii']
-animeVoices	['Nozawa, Masako', 'Tanonaka, Isamu', 'Kogushi, Youko', 'Otsuka, Chikao', 'Shibata, Hidekatsu']
-animeStaff	[['Morishita, Kouzou', 'Episode Director'], ['Yamaguchi, Yasuo', 'Episode Director'], ['Tsuji, Masaki', 'Script'], ['Andou, Toyohiro', 'Script']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Gegege no Kitarou (1971)	TV	45	1971-10-07 00:00:00	1972-09-28 00:00:00	2003	6.45	355	6413	9437	Kitarou, a ghost, spends his afterlife helping humans in need of his skills. He thwarts the plans of evil spirits who live to torment humanity.	['GeGeGe no Kitarou', 'Gegege no Kitarou (2007)', 'Gegege no Kitarou (1968)', 'Gegege no Kitarou (1985)', 'Gegege no Kitarou (1996)', 'Gegege no Kitarou: Chisougan', 'Hakaba Kitarou', 'Gegege no Kitarou (2018)']	['Kitarou', 'Medama Oyaji', 'Neko Musume', 'Nezumi Otoko', 'Ittan Momen', 'Karura', 'Miage-Nyuudou', 'Babaa, Sunakake', 'Konaki Jijii']	['Nozawa, Masako', 'Tanonaka, Isamu', 'Kogushi, Youko', 'Otsuka, Chikao', 'Shibata, Hidekatsu']	[['Morishita, Kouzou', 'Episode Director'], ['Yamaguchi, Yasuo', 'Episode Director'], ['Tsuji, Masaki', 'Script'], ['Andou, Toyohiro', 'Script']]

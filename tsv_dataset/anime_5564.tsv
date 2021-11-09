@@ -1,15 +1,2 @@
-animeTitle	Hakuouki: Otogisoushi
-animeType	TV
-animeNumEpisode	12
-releaseDate	2016-04-05 00:00:00
-endDate	2016-06-28 00:00:00
-animeNumMembers	5728
-animeScore	6.61
-animeUsers	1763
-animeRank	5564
-animePopularity	6640
-animeDescription	"Features the characters from the games in chibi form with a completely new story with the theme: ""A normal everyday that might have existed."""
-animeRelated	['Hakuouki', 'Hakuouki: Otogisoushi Special']
-animeCharacters	['Saitou, Hajime', 'Okita, Souji', 'Hijikata, Toshizou', 'Kazama, Chikage', 'Harada, Sanosuke', 'Toudou, Heisuke', 'Yukimura, Chizuru', 'Nagakura, Shinpachi', 'Sannan, Keisuke', 'Yamazaki, Susumu']
-animeVoices	['Toriumi, Kousuke', 'Morikubo, Shoutarou', 'Miki, Shinichiro', 'Tsuda, Kenjirou', 'Yusa, Kouji', 'Yoshino, Hiroyuki', 'Kuwashima, Houko', 'Tsuboi, Tomohiro', 'Tobita, Nobuo', 'Suzuki, Takayuki']
-animeStaff	[['Oda, Motohiro', 'Producer'], ['Shinohara, Parako', 'Director'], ['Renka', 'Theme Song Lyrics, Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Hakuouki: Otogisoushi	TV	12	2016-04-05 00:00:00	2016-06-28 00:00:00	5728	6.61	1763	5564	6640	"Features the characters from the games in chibi form with a completely new story with the theme: ""A normal everyday that might have existed."""	['Hakuouki', 'Hakuouki: Otogisoushi Special']	['Saitou, Hajime', 'Okita, Souji', 'Hijikata, Toshizou', 'Kazama, Chikage', 'Harada, Sanosuke', 'Toudou, Heisuke', 'Yukimura, Chizuru', 'Nagakura, Shinpachi', 'Sannan, Keisuke', 'Yamazaki, Susumu']	['Toriumi, Kousuke', 'Morikubo, Shoutarou', 'Miki, Shinichiro', 'Tsuda, Kenjirou', 'Yusa, Kouji', 'Yoshino, Hiroyuki', 'Kuwashima, Houko', 'Tsuboi, Tomohiro', 'Tobita, Nobuo', 'Suzuki, Takayuki']	[['Oda, Motohiro', 'Producer'], ['Shinohara, Parako', 'Director'], ['Renka', 'Theme Song Lyrics, Theme Song Performance']]

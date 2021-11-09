@@ -1,15 +1,2 @@
-animeTitle	Senran Kagura Specials
-animeType	Special
-animeNumEpisode	6
-releaseDate	2013-03-27 00:00:00
-endDate	2013-08-28 00:00:00
-animeNumMembers	16215
-animeScore	6.43
-animeUsers	6138
-animeRank	6498
-animePopularity	4388
-animeDescription	Special, unaired, episodes released with the Senran Kagura BD/DVDs.
-animeRelated	['Senran Kagura']
-animeCharacters	['Asuka', 'Katsuragi', 'Homura', 'Yagyuu', 'Ikaruga', 'Hibari', 'Kiriya', 'Hanzou']
-animeVoices	['Harada, Hitomi', 'Kobayashi, Yuu', 'Kitamura, Eri', 'Mizuhashi, Kaori', 'Imai, Asami', 'Iguchi, Yuka', 'Fujiwara, Keiji', 'Yamamoto, Kanehira']
-animeStaff	[['Takaki, Kenichirou', 'Original Creator'], ['Yaegashi, Nan', 'Original Character Design'], ['Kawada, Ruka', 'Music'], ['Takasume, Amami', 'Original Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Senran Kagura Specials	Special	6	2013-03-27 00:00:00	2013-08-28 00:00:00	16215	6.43	6138	6498	4388	Special, unaired, episodes released with the Senran Kagura BD/DVDs.	['Senran Kagura']	['Asuka', 'Katsuragi', 'Homura', 'Yagyuu', 'Ikaruga', 'Hibari', 'Kiriya', 'Hanzou']	['Harada, Hitomi', 'Kobayashi, Yuu', 'Kitamura, Eri', 'Mizuhashi, Kaori', 'Imai, Asami', 'Iguchi, Yuka', 'Fujiwara, Keiji', 'Yamamoto, Kanehira']	[['Takaki, Kenichirou', 'Original Creator'], ['Yaegashi, Nan', 'Original Character Design'], ['Kawada, Ruka', 'Music'], ['Takasume, Amami', 'Original Character Design']]

@@ -1,15 +1,2 @@
-animeTitle	Zombieland Saga: Revenge
-animeType	TV
-animeNumEpisode	12
-releaseDate	2021-04-08 00:00:00
-endDate	2021-06-24 00:00:00
-animeNumMembers	156743
-animeScore	8.05
-animeUsers	48710
-animeRank	488
-animePopularity	1148
-animeDescription	Second season of Zombieland Saga.
-animeRelated	['Zombieland Saga', 'Zombieland Saga Movie']
-animeCharacters	['Tatsumi, Koutarou', 'Nikaidou, Saki', 'Mizuno, Ai', 'Yamada, Tae', 'Minamoto, Sakura', 'Konno, Junko', 'Hoshikawa, Lily', 'Yuugiri', 'Romero', 'Policeman A']
-animeVoices	['Miyano, Mamoru', 'Tano, Asami', 'Taneda, Risa', 'Mitsuishi, Kotono', 'Hondo, Kaede', 'Kawase, Maki', 'Tanaka, Minami', 'Kinugawa, Rika', 'Takato, Yasuhiro']
-animeStaff	[['Sakai, Munehisa', 'Director'], ['Takanashi, Yasuharu', 'Music'], ['Sai, Fumihide', 'Chief Animation Director'], ['Fukagawa, Kasumi', 'Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Zombieland Saga: Revenge	TV	12	2021-04-08 00:00:00	2021-06-24 00:00:00	156743	8.05	48710	488	1148	Second season of Zombieland Saga.	['Zombieland Saga', 'Zombieland Saga Movie']	['Tatsumi, Koutarou', 'Nikaidou, Saki', 'Mizuno, Ai', 'Yamada, Tae', 'Minamoto, Sakura', 'Konno, Junko', 'Hoshikawa, Lily', 'Yuugiri', 'Romero', 'Policeman A']	['Miyano, Mamoru', 'Tano, Asami', 'Taneda, Risa', 'Mitsuishi, Kotono', 'Hondo, Kaede', 'Kawase, Maki', 'Tanaka, Minami', 'Kinugawa, Rika', 'Takato, Yasuhiro']	[['Sakai, Munehisa', 'Director'], ['Takanashi, Yasuharu', 'Music'], ['Sai, Fumihide', 'Chief Animation Director'], ['Fukagawa, Kasumi', 'Character Design']]

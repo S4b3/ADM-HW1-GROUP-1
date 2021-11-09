@@ -1,15 +1,2 @@
-animeTitle	Super Zugan
-animeType	TV
-animeNumEpisode	21
-releaseDate	1992-10-09 00:00:00
-endDate	1993-03-13 00:00:00
-animeNumMembers	529
-animeScore	
-animeUsers	
-animeRank	13612
-animePopularity	12798
-animeDescription	A story about mahjong.
-animeRelated	[]
-animeCharacters	['Toyotomi, Hideyuki', 'Hayami, Akina', 'Tokugawa, Yasubee', 'Akechi, Kouichi', 'Oda, Shintaro', 'Santa']
-animeVoices	['Yamaguchi, Kappei', 'Ohtsubo, Junko', 'Tatsuta, Naoki', 'Nanba, Keiichi', 'Yamadera, Kouichi']
-animeStaff	[['Nishimura, Junji', 'Director'], ['Minami, Haruo', 'Theme Song Performance'], ['Nakajima, Atsuko', 'Character Design'], ['Miura, Satoshi', 'Animation Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Super Zugan	TV	21	1992-10-09 00:00:00	1993-03-13 00:00:00	529			13612	12798	A story about mahjong.	[]	['Toyotomi, Hideyuki', 'Hayami, Akina', 'Tokugawa, Yasubee', 'Akechi, Kouichi', 'Oda, Shintaro', 'Santa']	['Yamaguchi, Kappei', 'Ohtsubo, Junko', 'Tatsuta, Naoki', 'Nanba, Keiichi', 'Yamadera, Kouichi']	[['Nishimura, Junji', 'Director'], ['Minami, Haruo', 'Theme Song Performance'], ['Nakajima, Atsuko', 'Character Design'], ['Miura, Satoshi', 'Animation Director']]

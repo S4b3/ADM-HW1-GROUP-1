@@ -1,17 +1,4 @@
-animeTitle	Mokke
-animeType	TV
-animeNumEpisode	24
-releaseDate	2007-10-03 00:00:00
-endDate	2008-03-16 00:00:00
-animeNumMembers	13586
-animeScore	7.08
-animeUsers	2394
-animeRank	3430
-animePopularity	4683
-animeDescription	"This is a story about two sisters: Shizuru, is a high school student who is able to see ghosts while her younger sister, Mizuki, is haunted by these apparitions. Frustrated by their abilities, their parents decided to entrust the sisters into the care of their grandparents who live in the countryside. As they adapt to life in the countryside, Shizuru and Mizuki begin to learn about the importance of coexisting nature with these apparitions.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Mokke	TV	24	2007-10-03 00:00:00	2008-03-16 00:00:00	13586	7.08	2394	3430	4683	"This is a story about two sisters: Shizuru, is a high school student who is able to see ghosts while her younger sister, Mizuki, is haunted by these apparitions. Frustrated by their abilities, their parents decided to entrust the sisters into the care of their grandparents who live in the countryside. As they adapt to life in the countryside, Shizuru and Mizuki begin to learn about the importance of coexisting nature with these apparitions.
 
-(Source: ANN)"
-animeRelated	['Mokke', 'Mokke Specials']
-animeCharacters	['Hibara, Mizuki', 'Hibara, Shizuru', 'Hibara, Chitose', 'Ojii-chan', 'Takanashi', 'Nagasawa, Reiko', 'Hisako', 'Takatsu', 'Kamaitachi no Kobun', 'Matsunaga, Fumi']
-animeVoices	['Mizuki, Nana', 'Kawasumi, Ayako', 'Mitsuishi, Kotono', 'Hori, Katsunosuke', 'Nakamura, Yuuichi', 'Hirano, Aya', 'Hashimoto, Mai', 'Kugimiya, Rie', 'Yonaga, Tsubasa', 'Ogasawara, Arisa']
-animeStaff	[['Nishita, Masayoshi', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Noshitani, Mitsutaka', 'Episode Director'], ['Yoshimura, Fumihiro', 'Episode Director']]
+(Source: ANN)"	['Mokke', 'Mokke Specials']	['Hibara, Mizuki', 'Hibara, Shizuru', 'Hibara, Chitose', 'Ojii-chan', 'Takanashi', 'Nagasawa, Reiko', 'Hisako', 'Takatsu', 'Kamaitachi no Kobun', 'Matsunaga, Fumi']	['Mizuki, Nana', 'Kawasumi, Ayako', 'Mitsuishi, Kotono', 'Hori, Katsunosuke', 'Nakamura, Yuuichi', 'Hirano, Aya', 'Hashimoto, Mai', 'Kugimiya, Rie', 'Yonaga, Tsubasa', 'Ogasawara, Arisa']	[['Nishita, Masayoshi', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Noshitani, Mitsutaka', 'Episode Director'], ['Yoshimura, Fumihiro', 'Episode Director']]

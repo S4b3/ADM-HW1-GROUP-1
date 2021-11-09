@@ -1,15 +1,2 @@
-animeTitle	Kanokon Specials
-animeType	Special
-animeNumEpisode	12
-releaseDate	2008-06-25 00:00:00
-endDate	2008-11-21 00:00:00
-animeNumMembers	29999
-animeScore	6.42
-animeUsers	13396
-animeRank	6565
-animePopularity	3291
-animeDescription	Uncensored 2-minute DVD Specials of Kanokon.
-animeRelated	['Kanokon']
-animeCharacters	['Minamoto, Chizuru', 'Ezomori, Nozomu', 'Oyamada, Kouta', 'Nanao, Ren', 'Nanao, Ai', 'Yukihana', 'Tamamo', 'Asahina, Akane', 'Sasamori, Yuki', 'Takana, Kiriko']
-animeVoices	['Kawasumi, Ayako', 'Takeuchi, Miyu', 'Noto, Mamiko', 'Kadowaki, Mai', 'Nakanishi, Tamaki', 'Shindo, Naomi', 'Saitou, Chiwa', 'Seto, Saori', 'Miyazaki, Ui']
-animeStaff	[['Takami, Akio', 'Character Design'], ['Koin', 'Original Character Design'], ['Nishino, Katsumi', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kanokon Specials	Special	12	2008-06-25 00:00:00	2008-11-21 00:00:00	29999	6.42	13396	6565	3291	Uncensored 2-minute DVD Specials of Kanokon.	['Kanokon']	['Minamoto, Chizuru', 'Ezomori, Nozomu', 'Oyamada, Kouta', 'Nanao, Ren', 'Nanao, Ai', 'Yukihana', 'Tamamo', 'Asahina, Akane', 'Sasamori, Yuki', 'Takana, Kiriko']	['Kawasumi, Ayako', 'Takeuchi, Miyu', 'Noto, Mamiko', 'Kadowaki, Mai', 'Nakanishi, Tamaki', 'Shindo, Naomi', 'Saitou, Chiwa', 'Seto, Saori', 'Miyazaki, Ui']	[['Takami, Akio', 'Character Design'], ['Koin', 'Original Character Design'], ['Nishino, Katsumi', 'Original Creator']]

@@ -1,15 +1,2 @@
-animeTitle	Cobra The Animation
-animeType	TV
-animeNumEpisode	13
-releaseDate	2010-01-02 00:00:00
-endDate	2010-03-27 00:00:00
-animeNumMembers	7778
-animeScore	7.1
-animeUsers	2891
-animeRank	3335
-animePopularity	5867
-animeDescription	This Cobra adaptation features short arcs of Cobra saving the world, his friends or himself.
-animeRelated	['Cobra', 'Cobra: The Psychogun', 'Cobra The Animation: Time Drive']
-animeCharacters	['Cobra', 'Armaroid, Lady', 'Lee, Pamela', 'Mohammed', 'Bonny', 'Father Sebastian', 'Windsor, Linda', 'Secret', 'Old Man', 'Announcer']
-animeVoices	['Uchida, Naoya', 'Sakakibara, Yoshiko', 'Honda, Takako', 'Tanzawa, Teruyuki', 'Shiraishi, Ryouko', 'Itou, Kazuaki', 'Igarashi, Rei', 'Sakamoto, Maaya', 'Chafurin', 'Yamaguchi, Noboru']
-animeStaff	[['Shimizu, Keizou', 'Director, Character Design'], ['Yamada, Chiaki', 'Sound Director'], ['Noshitani, Mitsutaka', 'Episode Director'], ['Ueda, Kouji', 'Episode Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Cobra The Animation	TV	13	2010-01-02 00:00:00	2010-03-27 00:00:00	7778	7.1	2891	3335	5867	This Cobra adaptation features short arcs of Cobra saving the world, his friends or himself.	['Cobra', 'Cobra: The Psychogun', 'Cobra The Animation: Time Drive']	['Cobra', 'Armaroid, Lady', 'Lee, Pamela', 'Mohammed', 'Bonny', 'Father Sebastian', 'Windsor, Linda', 'Secret', 'Old Man', 'Announcer']	['Uchida, Naoya', 'Sakakibara, Yoshiko', 'Honda, Takako', 'Tanzawa, Teruyuki', 'Shiraishi, Ryouko', 'Itou, Kazuaki', 'Igarashi, Rei', 'Sakamoto, Maaya', 'Chafurin', 'Yamaguchi, Noboru']	[['Shimizu, Keizou', 'Director, Character Design'], ['Yamada, Chiaki', 'Sound Director'], ['Noshitani, Mitsutaka', 'Episode Director'], ['Ueda, Kouji', 'Episode Director']]

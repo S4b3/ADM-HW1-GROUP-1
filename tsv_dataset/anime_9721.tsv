@@ -1,15 +1,2 @@
-animeTitle	Guraburu!
-animeType	TV
-animeNumEpisode	12
-releaseDate	2020-10-08 00:00:00
-endDate	2020-12-24 00:00:00
-animeNumMembers	11425
-animeScore	5.71
-animeUsers	3068
-animeRank	9721
-animePopularity	5050
-animeDescription	Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.
-animeRelated	['Guraburu!', 'Granblue Fantasy The Animation']
-animeCharacters	['Lyria', 'Vyrn', 'Alize, Katalina', 'Narmaya', 'Rosetta', 'Sandalphon', 'Rackam', 'Cagliostro', 'Euclase, Io', 'Zeta']
-animeVoices	['Touyama, Nao', 'Kugimiya, Rie', 'Sawashiro, Miyuki', 'Ichimichi, Mao', 'Tanaka, Rie', 'Suzumura, Kenichi', 'Hirata, Hiroaki', 'Tamura, Yukari', 'Hanazawa, Kana']
-animeStaff	[['Morii, Kenshirou', 'Director, Storyboard'], ['Hamano, Takatoshi', 'Sound Director'], ['Kikuhitomoji', 'Storyboard, Series Composition, Original Creator'], ['Kinutani, Soushi', 'Storyboard, Character Design, Chief Animation Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Guraburu!	TV	12	2020-10-08 00:00:00	2020-12-24 00:00:00	11425	5.71	3068	9721	5050	Anime adaptation of Guraburu!, which is 4-koma manga of Granblue Fantasy.	['Guraburu!', 'Granblue Fantasy The Animation']	['Lyria', 'Vyrn', 'Alize, Katalina', 'Narmaya', 'Rosetta', 'Sandalphon', 'Rackam', 'Cagliostro', 'Euclase, Io', 'Zeta']	['Touyama, Nao', 'Kugimiya, Rie', 'Sawashiro, Miyuki', 'Ichimichi, Mao', 'Tanaka, Rie', 'Suzumura, Kenichi', 'Hirata, Hiroaki', 'Tamura, Yukari', 'Hanazawa, Kana']	[['Morii, Kenshirou', 'Director, Storyboard'], ['Hamano, Takatoshi', 'Sound Director'], ['Kikuhitomoji', 'Storyboard, Series Composition, Original Creator'], ['Kinutani, Soushi', 'Storyboard, Character Design, Chief Animation Director']]

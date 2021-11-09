@@ -1,15 +1,2 @@
-animeTitle	.hack//Quantum
-animeType	OVA
-animeNumEpisode	3
-releaseDate	2011-01-28 00:00:00
-endDate	2011-04-07 00:00:00
-animeNumMembers	38074
-animeScore	7.15
-animeUsers	18533
-animeRank	3125
-animePopularity	2895
-animeDescription	"Tobias, Mary, and Sakuya challenge the impregnable ""The One Sin"", but they lose their way in the maze and unintentionally trap other guild members. A mysterious cat is watching their blunder. Is it another player character or NPC? "
-animeRelated	['.hack//Quantum+', '.hack//Sign', '.hack//Tasogare no Udewa Densetsu', '.hack//Roots', '.hack//Quantum: Sore ike! Bokura no Chimuchimu-chan!!']
-animeCharacters	['Sakuya', 'Hermit', 'Mary', 'Tobias', 'Shamrock', 'Tsukasa', 'Aura', 'Asta', 'IYOTEN', 'Smith']
-animeVoices	['Hanazawa, Kana', 'Ogura, Yui', 'Fujimura, Ayumi', 'Sawashiro, Miyuki', 'Kobayashi, Sanae', 'Honna, Youko', 'Namikawa, Daisuke', 'Iwasaki, Masami']
-animeStaff	[['Nozaki, Keiichi', 'Producer'], ['Tachibana, Masaki', 'Director, Storyboard'], ['Tanaka, Kazuya', 'Sound Director'], ['Kawaguchi, Toshio', 'Episode Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+.hack//Quantum	OVA	3	2011-01-28 00:00:00	2011-04-07 00:00:00	38074	7.15	18533	3125	2895	"Tobias, Mary, and Sakuya challenge the impregnable ""The One Sin"", but they lose their way in the maze and unintentionally trap other guild members. A mysterious cat is watching their blunder. Is it another player character or NPC? "	['.hack//Quantum+', '.hack//Sign', '.hack//Tasogare no Udewa Densetsu', '.hack//Roots', '.hack//Quantum: Sore ike! Bokura no Chimuchimu-chan!!']	['Sakuya', 'Hermit', 'Mary', 'Tobias', 'Shamrock', 'Tsukasa', 'Aura', 'Asta', 'IYOTEN', 'Smith']	['Hanazawa, Kana', 'Ogura, Yui', 'Fujimura, Ayumi', 'Sawashiro, Miyuki', 'Kobayashi, Sanae', 'Honna, Youko', 'Namikawa, Daisuke', 'Iwasaki, Masami']	[['Nozaki, Keiichi', 'Producer'], ['Tachibana, Masaki', 'Director, Storyboard'], ['Tanaka, Kazuya', 'Sound Director'], ['Kawaguchi, Toshio', 'Episode Director']]

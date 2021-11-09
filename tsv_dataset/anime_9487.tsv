@@ -1,15 +1,2 @@
-animeTitle	Fireball Humorous
-animeType	TV
-animeNumEpisode	3
-releaseDate	2017-10-06 00:00:00
-endDate	2017-12-18 00:00:00
-animeNumMembers	2977
-animeScore	5.77
-animeUsers	977
-animeRank	9487
-animePopularity	8405
-animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
-animeRelated	['Fireball', 'Gebäude Bäude']
-animeCharacters	['von Flügel, Drossel', 'Gedächtnis']
-animeVoices	['Kawasho, Miyuki', 'Ookawa, Tooru']
-animeStaff	[['Arakawa, Wataru', 'Producer, Director'], ['Yanase, Takayuki', 'Mechanical Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Fireball Humorous	TV	3	2017-10-06 00:00:00	2017-12-18 00:00:00	2977	5.77	977	9487	8405	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.	['Fireball', 'Gebäude Bäude']	['von Flügel, Drossel', 'Gedächtnis']	['Kawasho, Miyuki', 'Ookawa, Tooru']	[['Arakawa, Wataru', 'Producer, Director'], ['Yanase, Takayuki', 'Mechanical Design']]

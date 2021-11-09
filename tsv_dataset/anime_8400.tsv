@@ -1,15 +1,2 @@
-animeTitle	Shenmue: The Movie
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2001-09-08 00:00:00
-endDate	
-animeNumMembers	1400
-animeScore	6.06
-animeUsers	446
-animeRank	8400
-animePopularity	10321
-animeDescription	Using scenes from the original SEGA Dreamcast game plus some extra made for the movie, Shenmue: the Movie details the events of the first game. After Ryo's father is murdered and a mysterious mirror taken, Ryo sets himself on a quest for revenge.
-animeRelated	['Shenmue: The Animation']
-animeCharacters	['Hazuki, Ryo', 'Harasaki, Nozomi', 'Hazuki, Iwao', 'Di, Lan', 'Johnson, Tom', 'Chen, Guizhang']
-animeVoices	['Matsukaze, Masaya', 'Fujioka, Hiroshi', 'Sakurai, Takahiro']
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shenmue: The Movie	Movie	1	2001-09-08 00:00:00		1400	6.06	446	8400	10321	Using scenes from the original SEGA Dreamcast game plus some extra made for the movie, Shenmue: the Movie details the events of the first game. After Ryo's father is murdered and a mysterious mirror taken, Ryo sets himself on a quest for revenge.	['Shenmue: The Animation']	['Hazuki, Ryo', 'Harasaki, Nozomi', 'Hazuki, Iwao', 'Di, Lan', 'Johnson, Tom', 'Chen, Guizhang']	['Matsukaze, Masaya', 'Fujioka, Hiroshi', 'Sakurai, Takahiro']	[]

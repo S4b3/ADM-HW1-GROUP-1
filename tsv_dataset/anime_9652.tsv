@@ -1,15 +1,2 @@
-animeTitle	K: Seven Stories - The Idol K
-animeType	Movie
-animeNumEpisode	6
-releaseDate	2018-07-07 00:00:00
-endDate	2018-12-01 00:00:00
-animeNumMembers	5450
-animeScore	5.73
-animeUsers	1521
-animeRank	9652
-animePopularity	6773
-animeDescription	Shorts featuring the characters reimagined as idols.
-animeRelated	['K: Seven Stories Movie 1 - R:B - Blaze', 'K: Seven Stories Movie 2 - Side:Blue - Tenrou no Gotoku', 'K: Seven Stories Movie 3 - Side:Green - Uwagaki Sekai', 'K: Seven Stories Movie 4 - Lost Small World - Ori no Mukou ni', 'K: Seven Stories Movie 5 - Memory of Red - Burn', 'K: Seven Stories Movie 6 - Circle Vision - Nameless Song']
-animeCharacters	['Isana, Yashiro', 'Neko', 'Yatogami, Kurou', 'Suou, Mikoto', 'Yata, Misaki', 'Fushimi, Saruhiko', 'Kushina, Anna', 'Munakata, Reishi', 'Kusanagi, Izumo', 'Hisui, Nagare']
-animeVoices	['Komatsu, Mikako', 'Sugita, Tomokazu']
-animeStaff	[['Miyano, Mamoru', 'Theme Song Performance'], ['Ono, Daisuke', 'Theme Song Performance'], ['Fukuyama, Jun', 'Theme Song Performance'], ['Namikawa, Daisuke', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+K: Seven Stories - The Idol K	Movie	6	2018-07-07 00:00:00	2018-12-01 00:00:00	5450	5.73	1521	9652	6773	Shorts featuring the characters reimagined as idols.	['K: Seven Stories Movie 1 - R:B - Blaze', 'K: Seven Stories Movie 2 - Side:Blue - Tenrou no Gotoku', 'K: Seven Stories Movie 3 - Side:Green - Uwagaki Sekai', 'K: Seven Stories Movie 4 - Lost Small World - Ori no Mukou ni', 'K: Seven Stories Movie 5 - Memory of Red - Burn', 'K: Seven Stories Movie 6 - Circle Vision - Nameless Song']	['Isana, Yashiro', 'Neko', 'Yatogami, Kurou', 'Suou, Mikoto', 'Yata, Misaki', 'Fushimi, Saruhiko', 'Kushina, Anna', 'Munakata, Reishi', 'Kusanagi, Izumo', 'Hisui, Nagare']	['Komatsu, Mikako', 'Sugita, Tomokazu']	[['Miyano, Mamoru', 'Theme Song Performance'], ['Ono, Daisuke', 'Theme Song Performance'], ['Fukuyama, Jun', 'Theme Song Performance'], ['Namikawa, Daisuke', 'Theme Song Performance']]

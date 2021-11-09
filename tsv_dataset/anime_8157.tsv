@@ -1,15 +1,2 @@
-animeTitle	Gegege no Kitarou (1985 Movie)
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1985-12-21 00:00:00
-endDate	
-animeNumMembers	872
-animeScore	6.1
-animeUsers	202
-animeRank	8157
-animePopularity	11479
-animeDescription	Movie based on the 1985 TV anime with an original plot.
-animeRelated	['Gegege no Kitarou (1985)']
-animeCharacters	['Kitarou', 'Medama Oyaji', 'Nezumi Otoko']
-animeVoices	[]
-animeStaff	[['Shirato, Takeshi', 'Director'], ['Yamamoto, Kou', 'Special Effects']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Gegege no Kitarou (1985 Movie)	Movie	1	1985-12-21 00:00:00		872	6.1	202	8157	11479	Movie based on the 1985 TV anime with an original plot.	['Gegege no Kitarou (1985)']	['Kitarou', 'Medama Oyaji', 'Nezumi Otoko']	[]	[['Shirato, Takeshi', 'Director'], ['Yamamoto, Kou', 'Special Effects']]

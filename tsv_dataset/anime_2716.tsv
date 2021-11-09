@@ -1,15 +1,2 @@
-animeTitle	Mirai Nikki
-animeType	OVA
-animeNumEpisode	1
-releaseDate	2010-12-09 00:00:00
-endDate	
-animeNumMembers	203155
-animeScore	7.23
-animeUsers	110621
-animeRank	2716
-animePopularity	881
-animeDescription	A short OVA that was bundled with the limited edition of the eleventh volume of the manga.
-animeRelated	['Mirai Nikki', 'Mirai Nikki (TV)']
-animeCharacters	['Gasai, Yuno', 'Amano, Yukiteru', 'Uryuu, Minene', 'Deus Ex Machina', 'Mur Mur', 'Kousaka, Ouji']
-animeVoices	['Murata, Tomosa', 'Togashi, Misuzu', 'Aizawa, Mai', 'Honda, Manami', 'Shiraishi, Minoru']
-animeStaff	[['Hosoda, Naoto', 'Director'], ['Nagura, Yasushi', 'Sound Director'], ['Yousei Teikoku', 'Theme Song Performance'], ['Itsuki, Yui', 'Theme Song Lyrics']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Mirai Nikki	OVA	1	2010-12-09 00:00:00		203155	7.23	110621	2716	881	A short OVA that was bundled with the limited edition of the eleventh volume of the manga.	['Mirai Nikki', 'Mirai Nikki (TV)']	['Gasai, Yuno', 'Amano, Yukiteru', 'Uryuu, Minene', 'Deus Ex Machina', 'Mur Mur', 'Kousaka, Ouji']	['Murata, Tomosa', 'Togashi, Misuzu', 'Aizawa, Mai', 'Honda, Manami', 'Shiraishi, Minoru']	[['Hosoda, Naoto', 'Director'], ['Nagura, Yasushi', 'Sound Director'], ['Yousei Teikoku', 'Theme Song Performance'], ['Itsuki, Yui', 'Theme Song Lyrics']]

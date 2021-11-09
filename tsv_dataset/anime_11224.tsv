@@ -1,14 +1,5 @@
-animeTitle	Genma Taisen
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1983-03-12 00:00:00
-endDate	
-animeNumMembers	4973
-animeScore	5.14
-animeUsers	1672
-animeRank	11224
-animePopularity	7007
-animeDescription	"From the depths of space he is coming...
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Genma Taisen	Movie	1	1983-03-12 00:00:00		4973	5.14	1672	11224	7007	"From the depths of space he is coming...
 
 Ancient beyond understanding, his power is immeasurable. He has destroyed half the universe and is on his way here. He is... Genma.
 
@@ -16,8 +7,4 @@ Only two people are aware of the imminent catastrophe: Princess Luna, a modern d
 
 But will they be able to gather their champions in time? Genma's agents are already on Earth to ensure that their master meets with no opposition!
 
-(Source: AnimeNfo)"
-animeRelated	['Genma Taisen', 'Genma Taisen: Shinwa Zenya no Shou']
-animeCharacters	"['Luna', 'Vega', 'Azuma, Jou', 'Announcer', 'Transylvanian Chamberlain', 'Salamander', 'Genma Daioh', ""Chief O'Reilly"", 'Gangster', 'Yogin']"
-animeVoices	['Koyama, Mami', 'Emori, Toru', 'Furuya, Toru', 'Yada, Kouji', 'Miyauchi, Kouhei', 'Utsumi, Kenji', 'Satou, Masaharu', 'Mugihito', 'Shioya, Yoku', 'Saikachi, Ryuuji']
-animeStaff	[['Rintaro', 'Director'], ['Emerson, Keith', 'Theme Song Arrangement, Theme Song Composition'], ['Otomo, Katsuhiro', 'Character Design'], ['Mozart, Wolfgang Amadeus', 'Music']]
+(Source: AnimeNfo)"	['Genma Taisen', 'Genma Taisen: Shinwa Zenya no Shou']	"['Luna', 'Vega', 'Azuma, Jou', 'Announcer', 'Transylvanian Chamberlain', 'Salamander', 'Genma Daioh', ""Chief O'Reilly"", 'Gangster', 'Yogin']"	['Koyama, Mami', 'Emori, Toru', 'Furuya, Toru', 'Yada, Kouji', 'Miyauchi, Kouhei', 'Utsumi, Kenji', 'Satou, Masaharu', 'Mugihito', 'Shioya, Yoku', 'Saikachi, Ryuuji']	[['Rintaro', 'Director'], ['Emerson, Keith', 'Theme Song Arrangement, Theme Song Composition'], ['Otomo, Katsuhiro', 'Character Design'], ['Mozart, Wolfgang Amadeus', 'Music']]

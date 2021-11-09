@@ -1,17 +1,4 @@
-animeTitle	Pokemon: Pikachu no Natsuyasumi
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1998-07-18 00:00:00
-endDate	
-animeNumMembers	31760
-animeScore	6.81
-animeUsers	18886
-animeRank	4563
-animePopularity	3195
-animeDescription	"Ash and his friends arrive at a Pokémon-only park. They set all their Pokémon loose and, after Ash tells Pikachu to watch over Togepi, they enter for a day of fun and relaxation. Unfortunately, it's not going to turn out the way they had hoped.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Pokemon: Pikachu no Natsuyasumi	Movie	1	1998-07-18 00:00:00		31760	6.81	18886	4563	3195	"Ash and his friends arrive at a Pokémon-only park. They set all their Pokémon loose and, after Ash tells Pikachu to watch over Togepi, they enter for a day of fun and relaxation. Unfortunately, it's not going to turn out the way they had hoped.
 
-(Source: Serebii)"
-animeRelated	['Pokemon', 'Pokemon Movie 01: Mewtwo no Gyakushuu']
-animeCharacters	['Pikachu', 'Nyarth', 'Togepi', 'Fushigidane', 'Satoshi', 'Takeshi', 'Kasumi', 'Narrator']
-animeVoices	['Ootani, Ikue', 'Inuyama, Inuko', 'Koorogi, Satomi', 'Hayashibara, Megumi', 'Matsumoto, Rica', 'Ueda, Yuuji', 'Iizuka, Mayumi', 'Sato, Aiko']
-animeStaff	[['Asada, Yuuji', 'Episode Director'], ['Sonoda, Hideki', 'Script'], ['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design']]
+(Source: Serebii)"	['Pokemon', 'Pokemon Movie 01: Mewtwo no Gyakushuu']	['Pikachu', 'Nyarth', 'Togepi', 'Fushigidane', 'Satoshi', 'Takeshi', 'Kasumi', 'Narrator']	['Ootani, Ikue', 'Inuyama, Inuko', 'Koorogi, Satomi', 'Hayashibara, Megumi', 'Matsumoto, Rica', 'Ueda, Yuuji', 'Iizuka, Mayumi', 'Sato, Aiko']	[['Asada, Yuuji', 'Episode Director'], ['Sonoda, Hideki', 'Script'], ['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design']]

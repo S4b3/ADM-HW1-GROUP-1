@@ -1,15 +1,2 @@
-animeTitle	Digimon Adventure tri. 5: Kyousei
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2017-09-30 00:00:00
-endDate	
-animeNumMembers	43671
-animeScore	7.18
-animeUsers	22356
-animeRank	2954
-animePopularity	2681
-animeDescription	Fifth Digimon Adventure tri film. 
-animeRelated	['Digimon Adventure tri. 4: Soushitsu', 'Digimon Adventure tri. 6: Bokura no Mirai']
-animeCharacters	['Yagami, Taichi', 'Ishida, Yamato', 'Yagami, Hikari', 'Takaishi, Takeru', 'Agumon', 'Tachikawa, Mimi', 'Izumi, Koushirou', 'Tailmon', 'Takenouchi, Sora', 'Patamon']
-animeVoices	['Hanae, Natsuki', 'Hosoya, Yoshimasa', 'Ichimichi, Mao', 'Enoki, Junya', 'Sakamoto, Chika', 'Yoshida, Hitomi', 'Tamura, Mutsumi', 'Tokumitsu, Yuka', 'Mimori, Suzuko', 'Matsumoto, Miwa']
-animeStaff	[['Arai, Shuuhei', 'Producer'], ['Motonaga, Keitarou', 'Director'], ['Iwahata, Gouichi', 'Storyboard'], ['Maeda, Ai', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Digimon Adventure tri. 5: Kyousei	Movie	1	2017-09-30 00:00:00		43671	7.18	22356	2954	2681	Fifth Digimon Adventure tri film. 	['Digimon Adventure tri. 4: Soushitsu', 'Digimon Adventure tri. 6: Bokura no Mirai']	['Yagami, Taichi', 'Ishida, Yamato', 'Yagami, Hikari', 'Takaishi, Takeru', 'Agumon', 'Tachikawa, Mimi', 'Izumi, Koushirou', 'Tailmon', 'Takenouchi, Sora', 'Patamon']	['Hanae, Natsuki', 'Hosoya, Yoshimasa', 'Ichimichi, Mao', 'Enoki, Junya', 'Sakamoto, Chika', 'Yoshida, Hitomi', 'Tamura, Mutsumi', 'Tokumitsu, Yuka', 'Mimori, Suzuko', 'Matsumoto, Miwa']	[['Arai, Shuuhei', 'Producer'], ['Motonaga, Keitarou', 'Director'], ['Iwahata, Gouichi', 'Storyboard'], ['Maeda, Ai', 'Theme Song Performance']]

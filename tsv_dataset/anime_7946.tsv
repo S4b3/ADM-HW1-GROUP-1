@@ -1,15 +1,2 @@
-animeTitle	Jean Valjean Monogatari
-animeType	Special
-animeNumEpisode	1
-releaseDate	1979-09-15 00:00:00
-endDate	
-animeNumMembers	856
-animeScore	6.15
-animeUsers	164
-animeRank	7946
-animePopularity	11523
-animeDescription	"Animated adaptation of Victor Hugo's ""Les Misérables""."
-animeRelated	['Les Misérables: Shoujo Cosette']
-animeCharacters	"['Valjean, Jean', ""Thenardier's Wife""]"
-animeVoices	['Kobayashi, Akiji', 'Nunami, Terue']
-animeStaff	[['Hugo, Victor', 'Original Creator'], ['Yamaguchi, Yasuo', 'Planning'], ['Aoshima, Katsumi', 'Key Animation']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Jean Valjean Monogatari	Special	1	1979-09-15 00:00:00		856	6.15	164	7946	11523	"Animated adaptation of Victor Hugo's ""Les Misérables""."	['Les Misérables: Shoujo Cosette']	"['Valjean, Jean', ""Thenardier's Wife""]"	['Kobayashi, Akiji', 'Nunami, Terue']	[['Hugo, Victor', 'Original Creator'], ['Yamaguchi, Yasuo', 'Planning'], ['Aoshima, Katsumi', 'Key Animation']]

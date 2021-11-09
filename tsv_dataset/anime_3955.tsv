@@ -1,15 +1,2 @@
-animeTitle	Show By Rock!! Mashumairesh!!
-animeType	TV
-animeNumEpisode	12
-releaseDate	2020-01-09 00:00:00
-endDate	2020-03-26 00:00:00
-animeNumMembers	12082
-animeScore	6.96
-animeUsers	3261
-animeRank	3955
-animePopularity	4929
-animeDescription	New Show by Rock!! TV Series featuring the new band Mashumairesh!!.
-animeRelated	['Show By Rock!!', 'Show by Rock!! Stars!!']
-animeCharacters	['Howan', 'Mashima, Himeko', 'Delmin', 'Ruhuyu', 'Crow', 'Rom', 'Aion', 'Yaiba', 'Hacchin', 'Yasu']
-animeVoices	['Toono, Hikaru', 'Natsuyoshi, Yuuko', 'Watada, Misaki', 'Yamane, Aya', 'Komatsu, Shouhei', 'Itou, Kento']
-animeStaff	[['Son, Seung-Hui', 'Director'], ['Gou, Fumiyuki', 'Sound Director'], ['Takanashi, Yasuharu', 'Music'], ['Funta', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Show By Rock!! Mashumairesh!!	TV	12	2020-01-09 00:00:00	2020-03-26 00:00:00	12082	6.96	3261	3955	4929	New Show by Rock!! TV Series featuring the new band Mashumairesh!!.	['Show By Rock!!', 'Show by Rock!! Stars!!']	['Howan', 'Mashima, Himeko', 'Delmin', 'Ruhuyu', 'Crow', 'Rom', 'Aion', 'Yaiba', 'Hacchin', 'Yasu']	['Toono, Hikaru', 'Natsuyoshi, Yuuko', 'Watada, Misaki', 'Yamane, Aya', 'Komatsu, Shouhei', 'Itou, Kento']	[['Son, Seung-Hui', 'Director'], ['Gou, Fumiyuki', 'Sound Director'], ['Takanashi, Yasuharu', 'Music'], ['Funta', 'Music']]

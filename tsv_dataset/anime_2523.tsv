@@ -1,15 +1,2 @@
-animeTitle	Tsuki ga Kirei Special
-animeType	Special
-animeNumEpisode	1
-releaseDate	2017-09-27 00:00:00
-endDate	
-animeNumMembers	27954
-animeScore	7.28
-animeUsers	13824
-animeRank	2523
-animePopularity	3421
-animeDescription	A series of unaired comedic shorts released with Blu-ray and DVD boxes of Tsuki ga Kirei.
-animeRelated	['Tsuki ga Kirei']
-animeCharacters	['Mizuno, Ayane', 'Miyamoto, Aira']
-animeVoices	[]
-animeStaff	[['Kishi, Seiji', 'Director'], ['Iida, Satoki', 'Sound Director'], ['Morita, Kazuaki', 'Character Design'], ['Iga, Takurou', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Tsuki ga Kirei Special	Special	1	2017-09-27 00:00:00		27954	7.28	13824	2523	3421	A series of unaired comedic shorts released with Blu-ray and DVD boxes of Tsuki ga Kirei.	['Tsuki ga Kirei']	['Mizuno, Ayane', 'Miyamoto, Aira']	[]	[['Kishi, Seiji', 'Director'], ['Iida, Satoki', 'Sound Director'], ['Morita, Kazuaki', 'Character Design'], ['Iga, Takurou', 'Music']]

@@ -1,18 +1,5 @@
-animeTitle	Black Jack the Movie
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1996-11-30 00:00:00
-endDate	
-animeNumMembers	10980
-animeScore	7.33
-animeUsers	5711
-animeRank	2263
-animePopularity	5115
-animeDescription	"Joe Carol Brane attempts to hire Dr. Black Jack on a breed of superhumans that have the strength, intellectual, athletic, and artistic skills with great excel in different fields, only to later find out that they start deteriorating after some period of time and causing an untimely death. Joe needs Dr. Black Jack's help on finding a cure. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Black Jack the Movie	Movie	1	1996-11-30 00:00:00		10980	7.33	5711	2263	5115	"Joe Carol Brane attempts to hire Dr. Black Jack on a breed of superhumans that have the strength, intellectual, athletic, and artistic skills with great excel in different fields, only to later find out that they start deteriorating after some period of time and causing an untimely death. Joe needs Dr. Black Jack's help on finding a cure. 
 
 (Source: ANN)
-"
-animeRelated	['Black Jack']
-animeCharacters	['Hazama, Kuroo', 'Brane, Joe Carol', 'Pinoko', 'Doris, Nicholas']
-animeVoices	['Ootsuka, Akio', 'Suzukaze, Mayo', 'Mizutani, Yuuko', 'Wakamoto, Norio']
-animeStaff	[['Dezaki, Osamu', 'Director, Script, Storyboard'], ['Yoshimura, Fumihiro', 'Episode Director'], ['Yamane, Mai', 'Theme Song Performance'], ['Tezuka, Osamu', 'Original Creator']]
+"	['Black Jack']	['Hazama, Kuroo', 'Brane, Joe Carol', 'Pinoko', 'Doris, Nicholas']	['Ootsuka, Akio', 'Suzukaze, Mayo', 'Mizutani, Yuuko', 'Wakamoto, Norio']	[['Dezaki, Osamu', 'Director, Script, Storyboard'], ['Yoshimura, Fumihiro', 'Episode Director'], ['Yamane, Mai', 'Theme Song Performance'], ['Tezuka, Osamu', 'Original Creator']]

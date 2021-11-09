@@ -1,15 +1,2 @@
-animeTitle	Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2015-06-27 00:00:00
-endDate	
-animeNumMembers	97620
-animeScore	7.79
-animeUsers	35750
-animeRank	869
-animePopularity	1673
-animeDescription	Recap of episodes 14-25. 
-animeRelated	['Shingeki no Kyojin', 'Shingeki no Kyojin Movie 1: Guren no Yumiya', 'Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou']
-animeCharacters	['Ackerman, Mikasa', 'Yeager, Eren', 'Arlert, Armin', 'Leonhart, Annie', 'Levi', 'Smith, Erwin', 'Zoë, Hange', 'Blouse, Sasha', 'Braun, Reiner', 'Kirstein, Jean']
-animeVoices	['Ishikawa, Yui', 'Kaji, Yuki', 'Inoue, Marina', 'Shimamura, Yuu', 'Kamiya, Hiroshi', 'Ono, Daisuke', 'Park, Romi', 'Kobayashi, Yuu', 'Hosoya, Yoshimasa', 'Taniyama, Kishou']
-animeStaff	[['Wada, Jouji', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Araki, Tetsurou', 'Director'], ['Linked Horizon', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa	Movie	1	2015-06-27 00:00:00		97620	7.79	35750	869	1673	Recap of episodes 14-25. 	['Shingeki no Kyojin', 'Shingeki no Kyojin Movie 1: Guren no Yumiya', 'Shingeki no Kyojin Season 2 Movie: Kakusei no Houkou']	['Ackerman, Mikasa', 'Yeager, Eren', 'Arlert, Armin', 'Leonhart, Annie', 'Levi', 'Smith, Erwin', 'Zoë, Hange', 'Blouse, Sasha', 'Braun, Reiner', 'Kirstein, Jean']	['Ishikawa, Yui', 'Kaji, Yuki', 'Inoue, Marina', 'Shimamura, Yuu', 'Kamiya, Hiroshi', 'Ono, Daisuke', 'Park, Romi', 'Kobayashi, Yuu', 'Hosoya, Yoshimasa', 'Taniyama, Kishou']	[['Wada, Jouji', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Araki, Tetsurou', 'Director'], ['Linked Horizon', 'Theme Song Performance']]

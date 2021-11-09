@@ -1,17 +1,4 @@
-animeTitle	Yamato yo Towa ni
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1980-08-02 00:00:00
-endDate	
-animeNumMembers	3008
-animeScore	6.6
-animeUsers	982
-animeRank	5621
-animePopularity	8366
-animeDescription	"The Black Nebula Empire attacks Earth and threatens to blow up the planet with a bomb they placed on Earth if counter attacked. Earths hopes rest on the Yamato crew as they go to the Black Nebula Planet and try to find a way to difuse the bomb before it's too late. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Yamato yo Towa ni	Movie	1	1980-08-02 00:00:00		3008	6.6	982	5621	8366	"The Black Nebula Empire attacks Earth and threatens to blow up the planet with a bomb they placed on Earth if counter attacked. Earths hopes rest on the Yamato crew as they go to the Black Nebula Planet and try to find a way to difuse the bomb before it's too late. 
 
-(Source: ANN)"
-animeRelated	['Yamato yo Eien ni', 'Uchuu Senkan Yamato III', 'Uchuu Senkan Yamato: Aratanaru Tabidachi']
-animeCharacters	['Kodai, Susumu', 'Sanada, Shirou', 'Kodai, Sasha', 'Shima, Daisuke', 'Mori, Yuki', 'Analyzer', 'Sado, Sakezou', 'Kodai, Mamoru', 'Starsha', 'Yamanami, Osamu']
-animeVoices	['Tomiyama, Kei', 'Aono, Takeshi', 'Han, Keiko', 'Nakamura, Shuusei', 'Ogata, Kenichi', 'Nagai, Ichiro', 'Hirokawa, Taichirou', 'Ueda, Miyuki', 'Kobayashi, Osamu']
-animeStaff	[['Yoshida, Tooru', 'Producer'], ['Matsumoto, Leiji', 'Director, Original Creator'], ['Katsumata, Tomoharu', 'Director'], ['Masuda, Toshio', 'Script']]
+(Source: ANN)"	['Yamato yo Eien ni', 'Uchuu Senkan Yamato III', 'Uchuu Senkan Yamato: Aratanaru Tabidachi']	['Kodai, Susumu', 'Sanada, Shirou', 'Kodai, Sasha', 'Shima, Daisuke', 'Mori, Yuki', 'Analyzer', 'Sado, Sakezou', 'Kodai, Mamoru', 'Starsha', 'Yamanami, Osamu']	['Tomiyama, Kei', 'Aono, Takeshi', 'Han, Keiko', 'Nakamura, Shuusei', 'Ogata, Kenichi', 'Nagai, Ichiro', 'Hirokawa, Taichirou', 'Ueda, Miyuki', 'Kobayashi, Osamu']	[['Yoshida, Tooru', 'Producer'], ['Matsumoto, Leiji', 'Director, Original Creator'], ['Katsumata, Tomoharu', 'Director'], ['Masuda, Toshio', 'Script']]

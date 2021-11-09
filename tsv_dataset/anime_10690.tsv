@@ -1,15 +1,2 @@
-animeTitle	Urawa no Usagi-chan
-animeType	TV
-animeNumEpisode	12
-releaseDate	2015-04-10 00:00:00
-endDate	2015-06-26 00:00:00
-animeNumMembers	14296
-animeScore	5.39
-animeUsers	4951
-animeRank	10690
-animePopularity	4599
-animeDescription	An original anime advertising Urawa City in Saitama, Japan.
-animeRelated	['Urawa no Usagi-chan Special', 'Musashino!']
-animeCharacters	['Bessho, Kojika', 'Mimuro, Misono', 'Saido, Midori', 'Numakage, Saiko', 'Kamikizaki, Tokiwa', 'Ooyaba, Minami', 'Takasago, Usagi', 'Tajima, Sakura', 'Nakayamamichi, Jirou', 'Takasago, Father']
-animeVoices	['Kubota, Miyu', 'Tamura, Nao', 'Toujou, Hisako', 'Ookubo, Rumi', 'Akesaka, Satomi', 'Watanabe, Keiko', 'Seto, Asami', 'Taichi, You', 'Seki, Kouji']
-animeStaff	[['Yamaura, Takanori', 'Producer'], ['Misawa, Tomotaka', 'Producer, Planning'], ['Ishibashi, Mitsuyuki', 'Director'], ['Gou, Fumiyuki', 'Sound Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Urawa no Usagi-chan	TV	12	2015-04-10 00:00:00	2015-06-26 00:00:00	14296	5.39	4951	10690	4599	An original anime advertising Urawa City in Saitama, Japan.	['Urawa no Usagi-chan Special', 'Musashino!']	['Bessho, Kojika', 'Mimuro, Misono', 'Saido, Midori', 'Numakage, Saiko', 'Kamikizaki, Tokiwa', 'Ooyaba, Minami', 'Takasago, Usagi', 'Tajima, Sakura', 'Nakayamamichi, Jirou', 'Takasago, Father']	['Kubota, Miyu', 'Tamura, Nao', 'Toujou, Hisako', 'Ookubo, Rumi', 'Akesaka, Satomi', 'Watanabe, Keiko', 'Seto, Asami', 'Taichi, You', 'Seki, Kouji']	[['Yamaura, Takanori', 'Producer'], ['Misawa, Tomotaka', 'Producer, Planning'], ['Ishibashi, Mitsuyuki', 'Director'], ['Gou, Fumiyuki', 'Sound Director']]

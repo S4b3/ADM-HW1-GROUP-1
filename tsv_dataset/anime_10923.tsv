@@ -1,15 +1,2 @@
-animeTitle	Scandal
-animeType	ONA
-animeNumEpisode	12
-releaseDate	2009-05-01 00:00:00
-endDate	2009-05-12 00:00:00
-animeNumMembers	1677
-animeScore	5.29
-animeUsers	752
-animeRank	10923
-animePopularity	9899
-animeDescription	Twelve 1-minute fictional shorts about the real-life Japanese band SCANDAL.
-animeRelated	[]
-animeCharacters	['Sasazaki, Mami', 'Ogawa, Tomomi', 'Suzuki, Rina', 'Ono, Haruna']
-animeVoices	['SCANDAL']
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Scandal	ONA	12	2009-05-01 00:00:00	2009-05-12 00:00:00	1677	5.29	752	10923	9899	Twelve 1-minute fictional shorts about the real-life Japanese band SCANDAL.	[]	['Sasazaki, Mami', 'Ogawa, Tomomi', 'Suzuki, Rina', 'Ono, Haruna']	['SCANDAL']	[]

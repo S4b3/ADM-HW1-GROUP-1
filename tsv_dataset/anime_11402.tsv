@@ -1,15 +1,2 @@
-animeTitle	Kaito x Ansa
-animeType	TV
-animeNumEpisode	12
-releaseDate	2017-07-12 00:00:00
-endDate	2017-09-27 00:00:00
-animeNumMembers	3751
-animeScore	5.04
-animeUsers	229
-animeRank	11402
-animePopularity	7816
-animeDescription	Second season of Nazotokine.
-animeRelated	['Nazotokine']
-animeCharacters	['Aen, Kaito', 'Arishin, Ansa', 'Amino, Tokine', 'Takaragawa, Hinata', 'Hacchin', 'Narration', 'Q Buster Head', 'Pukupuku', 'Kuromu, Yuu', 'Tenten']
-animeVoices	['Kato, Kazuki', 'Sakurai, Takahiro', 'Hara, Natsuko', 'Nitta, Emi', 'Tokui, Sora', 'Cho', 'Shimono, Hiro', 'Suwabe, Junichi', 'Ono, Daisuke']
-animeStaff	[['Fukushi, Naoya', 'Director, Script, Original Creator'], ['256', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kaito x Ansa	TV	12	2017-07-12 00:00:00	2017-09-27 00:00:00	3751	5.04	229	11402	7816	Second season of Nazotokine.	['Nazotokine']	['Aen, Kaito', 'Arishin, Ansa', 'Amino, Tokine', 'Takaragawa, Hinata', 'Hacchin', 'Narration', 'Q Buster Head', 'Pukupuku', 'Kuromu, Yuu', 'Tenten']	['Kato, Kazuki', 'Sakurai, Takahiro', 'Hara, Natsuko', 'Nitta, Emi', 'Tokui, Sora', 'Cho', 'Shimono, Hiro', 'Suwabe, Junichi', 'Ono, Daisuke']	[['Fukushi, Naoya', 'Director, Script, Original Creator'], ['256', 'Theme Song Performance']]

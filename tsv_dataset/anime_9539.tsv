@@ -1,17 +1,4 @@
-animeTitle	Oval x Over
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2005-03-23 00:00:00
-endDate	
-animeNumMembers	1700
-animeScore	5.75
-animeUsers	734
-animeRank	9539
-animePopularity	9863
-animeDescription	"A promotional video for the Indy Racing League Bridgestone Indy Japan 300.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Oval x Over	Movie	1	2005-03-23 00:00:00		1700	5.75	734	9539	9863	"A promotional video for the Indy Racing League Bridgestone Indy Japan 300.
 
-A thrilling race. Three drivers with their own stories. A narrow line between victory and defeat. Who will be the champion? "
-animeRelated	[]
-animeCharacters	['Arth', 'Bern', 'Glavis']
-animeVoices	['Morikawa, Toshiyuki', 'Iwata, Mitsuo', 'Inoue, Kikuko']
-animeStaff	[['Imaishi, Hiroyuki', 'Director, Storyboard, Animation Director'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Ike, Yoshihiro', 'Music'], ['Nishio, Tetsuya', 'Key Animation']]
+A thrilling race. Three drivers with their own stories. A narrow line between victory and defeat. Who will be the champion? "	[]	['Arth', 'Bern', 'Glavis']	['Morikawa, Toshiyuki', 'Iwata, Mitsuo', 'Inoue, Kikuko']	[['Imaishi, Hiroyuki', 'Director, Storyboard, Animation Director'], ['Fujiyama, Fusanobu', 'Sound Director'], ['Ike, Yoshihiro', 'Music'], ['Nishio, Tetsuya', 'Key Animation']]

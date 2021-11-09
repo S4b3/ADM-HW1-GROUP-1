@@ -1,15 +1,2 @@
-animeTitle	"""Kinako"" Movie x Mameshiba"
-animeType	Special
-animeNumEpisode	1
-releaseDate	2010-07-06 00:00:00
-endDate	
-animeNumMembers	382
-animeScore	5.45
-animeUsers	118
-animeRank	10523
-animePopularity	13738
-animeDescription	A collaboration between Mameshiba and Kinako, a 2010 Japanese film based on a true story of a dog trainer, meant to promote the latter's release the following month.
-animeRelated	['Mameshiba']
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+"""Kinako"" Movie x Mameshiba"	Special	1	2010-07-06 00:00:00		382	5.45	118	10523	13738	A collaboration between Mameshiba and Kinako, a 2010 Japanese film based on a true story of a dog trainer, meant to promote the latter's release the following month.	['Mameshiba']	[]	[]	[]

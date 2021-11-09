@@ -1,17 +1,4 @@
-animeTitle	Pokemon Housoukyoku
-animeType	TV
-animeNumEpisode	16
-releaseDate	2002-12-03 00:00:00
-endDate	2004-09-28 00:00:00
-animeNumMembers	26403
-animeScore	6.86
-animeUsers	13401
-animeRank	4361
-animePopularity	3506
-animeDescription	"Pokémon Chronicles is a TV series comprised of the English-dubbed versions of a number of Pokémon TV specials. Many of the episodes are from the Weekly Pokémon Broadcasting Station show in Japan, but it also contained The Legend of Thunder! and shorts from the Pikachu's Winter Vacation series. The series, in each episode, basically focuses on the lives of the many of the recurring/main characters Ash Ketchum met on his journey, like Sakura, Misty, her sisters, Casey, and Tracey. Ash only makes two appearances in the series in brief cameos.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Pokemon Housoukyoku	TV	16	2002-12-03 00:00:00	2004-09-28 00:00:00	26403	6.86	13401	4361	3506	"Pokémon Chronicles is a TV series comprised of the English-dubbed versions of a number of Pokémon TV specials. Many of the episodes are from the Weekly Pokémon Broadcasting Station show in Japan, but it also contained The Legend of Thunder! and shorts from the Pikachu's Winter Vacation series. The series, in each episode, basically focuses on the lives of the many of the recurring/main characters Ash Ketchum met on his journey, like Sakura, Misty, her sisters, Casey, and Tracey. Ash only makes two appearances in the series in brief cameos.
 
-(Source: Bulbapedia)"
-animeRelated	['Pokemon', 'Pokemon Advanced Generation']
-animeCharacters	['Takeshi', 'Kasumi', 'Ookido, Shigeru', 'Kenji', 'Kenta', 'Bashou', 'Buson', 'Tsutomu', 'Pikachu', 'Satoshi']
-animeVoices	['Ueda, Yuuji', 'Iizuka, Mayumi', 'Kobayashi, Yuko', 'Seki, Tomokazu', 'Nojima, Kenji', 'Morikawa, Toshiyuki', 'Hiyama, Nobuyuki', 'Sakaguchi, Daisuke', 'Ootani, Ikue', 'Matsumoto, Rica']
-animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Valencia, Amparo', 'Script, ADR Director'], ['Vanni, Giorgio', 'Theme Song Performance'], ['Tajiri, Satoshi', 'Original Creator']]
+(Source: Bulbapedia)"	['Pokemon', 'Pokemon Advanced Generation']	['Takeshi', 'Kasumi', 'Ookido, Shigeru', 'Kenji', 'Kenta', 'Bashou', 'Buson', 'Tsutomu', 'Pikachu', 'Satoshi']	['Ueda, Yuuji', 'Iizuka, Mayumi', 'Kobayashi, Yuko', 'Seki, Tomokazu', 'Nojima, Kenji', 'Morikawa, Toshiyuki', 'Hiyama, Nobuyuki', 'Sakaguchi, Daisuke', 'Ootani, Ikue', 'Matsumoto, Rica']	[['Yuyama, Kunihiko', 'Director'], ['Valencia, Amparo', 'Script, ADR Director'], ['Vanni, Giorgio', 'Theme Song Performance'], ['Tajiri, Satoshi', 'Original Creator']]

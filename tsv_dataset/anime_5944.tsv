@@ -1,14 +1,5 @@
-animeTitle	Sky Girls Specials
-animeType	Special
-animeNumEpisode	9
-releaseDate	2007-11-13 00:00:00
-endDate	2008-06-25 00:00:00
-animeNumMembers	3690
-animeScore	6.54
-animeUsers	1500
-animeRank	5944
-animePopularity	7848
-animeDescription	"Fishing Maniac Eika-san! Sky Girls Dynamite Fishing!
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Sky Girls Specials	Special	9	2007-11-13 00:00:00	2008-06-25 00:00:00	3690	6.54	1500	5944	7848	"Fishing Maniac Eika-san! Sky Girls Dynamite Fishing!
 
 Special #1: Fierce Battle! Trout Fishing Contest.
 Special #2: Big Catch! Mudskipper Fishing!
@@ -18,8 +9,4 @@ Special #5: Protect the indigenous species! Bass Fishing Contest! Please finish 
 Special #6: Fish the porgy with prawns, Black Porgy Fishing!
 Special #7: The porgy's really tough! Getting poorer by the day! Red tai fishing!
 Special #8: Tempura, deep-fried food, and sometimes, skates! Pond smelt fishing on top of ice!
-Special #9: There's no part that should be thrown away! Great battle with the whale of the great deep!"
-animeRelated	['Sky Girls']
-animeCharacters	['Sakurano, Otoha', 'Ichijou, Eika', 'Sonomiya, Karen', 'von Dietrich, Elise', 'Mikogami, Ranko', 'Tougou, Souya', 'Mikogami, Haruko', 'Yuko, Aki']
-animeVoices	['Kawasumi, Ayako', 'Itou, Shizuka', 'Gotou, Saori', 'Tsuji, Ayumi', 'Fujiwara, Keiji', 'Nabatame, Hitomi']
-animeStaff	[['Shimada, Humikane', 'Original Character Design'], ['Mitsumune, Shinkichi', 'Music'], ['Iwakura, Kazunori', 'Character Design']]
+Special #9: There's no part that should be thrown away! Great battle with the whale of the great deep!"	['Sky Girls']	['Sakurano, Otoha', 'Ichijou, Eika', 'Sonomiya, Karen', 'von Dietrich, Elise', 'Mikogami, Ranko', 'Tougou, Souya', 'Mikogami, Haruko', 'Yuko, Aki']	['Kawasumi, Ayako', 'Itou, Shizuka', 'Gotou, Saori', 'Tsuji, Ayumi', 'Fujiwara, Keiji', 'Nabatame, Hitomi']	[['Shimada, Humikane', 'Original Character Design'], ['Mitsumune, Shinkichi', 'Music'], ['Iwakura, Kazunori', 'Character Design']]

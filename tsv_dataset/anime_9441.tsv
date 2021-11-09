@@ -1,19 +1,6 @@
-animeTitle	Santa Company
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2014-10-25 00:00:00
-endDate	
-animeNumMembers	4415
-animeScore	5.78
-animeUsers	1946
-animeRank	9441
-animePopularity	7366
-animeDescription	"As a trainee of Santa Company, Noel White prepares for her test to become an official Tonttu, her assignment being ""To find the most important thing for a Santa Claus.""
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Santa Company	Movie	1	2014-10-25 00:00:00		4415	5.78	1946	9441	7366	"As a trainee of Santa Company, Noel White prepares for her test to become an official Tonttu, her assignment being ""To find the most important thing for a Santa Claus.""
 
 The deadline nears with an answer yet to be found, when a single letter from a child arrives late at the company. As the letter is about to be handled as a defect, Noel and friends set out on an adventure for the present - but will Noel find the answer to her assignment?
 
-Set a year after the events of the novel."
-animeRelated	['Santa Company: Christmas no Himitsu']
-animeCharacters	['Rondo, Mint', 'Dou, Thomas', 'Crystal, Bell', 'White, Noel', 'Rudolph III', 'Santa Claus', 'Nazo no Tenshu', 'White, Nicola', 'Rondo, Pedro']
-animeVoices	['Tomatsu, Haruka', 'Kugimiya, Rie', 'Kaji, Yuki', 'Fujimura, Ayumi', 'Karasuma, Yuichi', 'Kitada, Masamichi', 'Inaba, Minoru', 'Touchi, Hiroki', 'Sakurai, Takahiro']
-animeStaff	[['Itoso, Kenji', 'Producer, Director, Script, Theme Song Lyrics, Planning, Series Composition'], ['Kamakura, Yumi', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Fukushima, Naohiro', 'Script, Series Composition']]
+Set a year after the events of the novel."	['Santa Company: Christmas no Himitsu']	['Rondo, Mint', 'Dou, Thomas', 'Crystal, Bell', 'White, Noel', 'Rudolph III', 'Santa Claus', 'Nazo no Tenshu', 'White, Nicola', 'Rondo, Pedro']	['Tomatsu, Haruka', 'Kugimiya, Rie', 'Kaji, Yuki', 'Fujimura, Ayumi', 'Karasuma, Yuichi', 'Kitada, Masamichi', 'Inaba, Minoru', 'Touchi, Hiroki', 'Sakurai, Takahiro']	[['Itoso, Kenji', 'Producer, Director, Script, Theme Song Lyrics, Planning, Series Composition'], ['Kamakura, Yumi', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Fukushima, Naohiro', 'Script, Series Composition']]

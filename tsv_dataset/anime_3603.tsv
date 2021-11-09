@@ -1,14 +1,5 @@
-animeTitle	Manie-Manie: Meikyuu Monogatari
-animeType	Movie
-animeNumEpisode	3
-releaseDate	1987-09-25 00:00:00
-endDate	
-animeNumMembers	26477
-animeScore	7.05
-animeUsers	9970
-animeRank	3603
-animePopularity	3503
-animeDescription	"Manie-Manie: Meikyuu Monogatari is an anthology film composed of three short films by acclaimed directors Rintaro, Yoshiaki Kawajiri, and Katsuhiro Otomo.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Manie-Manie: Meikyuu Monogatari	Movie	3	1987-09-25 00:00:00		26477	7.05	9970	3603	3503	"Manie-Manie: Meikyuu Monogatari is an anthology film composed of three short films by acclaimed directors Rintaro, Yoshiaki Kawajiri, and Katsuhiro Otomo.
 
 Labyrinth Labyrinthos
 While Sachi is searching for her cat, Cicerone, they both fall through a mirror and become trapped in a mysterious, mind-bending labyrinth. They follow a clown's shadow into the distance, not knowing where it will lead them.
@@ -20,8 +11,4 @@ The Order to Stop Construction
 Salaryman Tsutomo Sugioka is dispatched into the heart of a dangerous jungle in order to halt a construction project after the foreman's mysterious disappearance. There, he discovers the deadly and uncontrollable world created by the automated construction robots. When the chief robot is resistant to his orders, Tsutomo must figure out another way to stop the project before his company's financial losses become too great.
 
 [Written by MAL Rewrite]
-"
-animeRelated	[]
-animeCharacters	['Sugioka, Tsutomu']
-animeVoices	['Mizushima, Yuu']
-animeStaff	[['Otomo, Katsuhiro', 'Director, Character Design'], ['Kawajiri, Yoshiaki', 'Director'], ['Rintaro', 'Director, Script, Screenplay'], ['Morimoto, Kouji', 'Key Animation']]
+"	[]	['Sugioka, Tsutomu']	['Mizushima, Yuu']	[['Otomo, Katsuhiro', 'Director, Character Design'], ['Kawajiri, Yoshiaki', 'Director'], ['Rintaro', 'Director, Script, Screenplay'], ['Morimoto, Kouji', 'Key Animation']]

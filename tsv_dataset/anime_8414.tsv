@@ -1,15 +1,2 @@
-animeTitle	Nine: Original-ban
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1983-09-16 00:00:00
-endDate	
-animeNumMembers	733
-animeScore	6.05
-animeUsers	247
-animeRank	8414
-animePopularity	11937
-animeDescription	Cinema adaption of the manga by Mitsuru Adachi.
-animeRelated	['Nine', 'Nine 2: Koibito Sengen']
-animeCharacters	['Niimi, Katsuya']
-animeVoices	[]
-animeStaff	[['Sugii, Gisaburou', 'Director'], ['Serizawa, Hiroaki', 'Theme Song Arrangement, Theme Song Composition, Inserted Song Performance, Music'], ['Adachi, Mitsuru', 'Original Creator'], ['Maeda, Minoru', 'Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Nine: Original-ban	Movie	1	1983-09-16 00:00:00		733	6.05	247	8414	11937	Cinema adaption of the manga by Mitsuru Adachi.	['Nine', 'Nine 2: Koibito Sengen']	['Niimi, Katsuya']	[]	[['Sugii, Gisaburou', 'Director'], ['Serizawa, Hiroaki', 'Theme Song Arrangement, Theme Song Composition, Inserted Song Performance, Music'], ['Adachi, Mitsuru', 'Original Creator'], ['Maeda, Minoru', 'Character Design']]

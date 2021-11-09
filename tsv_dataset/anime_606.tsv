@@ -1,19 +1,6 @@
-animeTitle	Usagi Drop Specials
-animeType	Special
-animeNumEpisode	4
-releaseDate	2011-10-28 00:00:00
-endDate	2012-01-27 00:00:00
-animeNumMembers	63818
-animeScore	7.96
-animeUsers	37235
-animeRank	606
-animePopularity	2185
-animeDescription	"Four short episodes bundled with DVD/Blu-Ray.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Usagi Drop Specials	Special	4	2011-10-28 00:00:00	2012-01-27 00:00:00	63818	7.96	37235	606	2185	"Four short episodes bundled with DVD/Blu-Ray.
 Vol.1: Episode 2.5 ""Aquarium of Leaves""
 Vol.2: Episode 3.5 ""Dear My Santa Claus""
 Vol.3: Episode 6.5 ""Full Blossom in the Sky""
-Vol.4: Episode 8.5 ""Way Home"""
-animeRelated	['Usagi Drop']
-animeCharacters	['Kaga, Rin', 'Kawachi, Daikichi', 'Nitani, Yukari', 'Nitani, Kouki', 'Maeda, Haruko']
-animeVoices	['Matsuura, Ayu', 'Tsuchida, Hiroshi', 'Ohara, Sayaka', 'Sakai, Noa', 'Ueda, Kana']
-animeStaff	[['Matsushita, Keiko', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Kishimoto, Taku', 'Script, Series Composition'], ['Unita, Yumi', 'Original Creator']]
+Vol.4: Episode 8.5 ""Way Home"""	['Usagi Drop']	['Kaga, Rin', 'Kawachi, Daikichi', 'Nitani, Yukari', 'Nitani, Kouki', 'Maeda, Haruko']	['Matsuura, Ayu', 'Tsuchida, Hiroshi', 'Ohara, Sayaka', 'Sakai, Noa', 'Ueda, Kana']	[['Matsushita, Keiko', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Kishimoto, Taku', 'Script, Series Composition'], ['Unita, Yumi', 'Original Creator']]

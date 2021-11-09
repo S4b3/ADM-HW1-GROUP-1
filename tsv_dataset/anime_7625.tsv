@@ -1,15 +1,2 @@
-animeTitle	Rokudenashi Blues 1993
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1993-07-24 00:00:00
-endDate	
-animeNumMembers	948
-animeScore	6.21
-animeUsers	159
-animeRank	7625
-animePopularity	11264
-animeDescription	Sequel to the Rokudenashi Blues movie.
-animeRelated	['Rokudenashi Blues']
-animeCharacters	['Maeda, Taison', 'Hatanaka, Yuutarou', 'Imai, Kazumi', 'Nanase, Chiaki', 'Yamashita, Katsuji', 'Sawamura, Yoneji']
-animeVoices	['Hirata, Hiroaki']
-animeStaff	[['Kakudou, Hiroyuki', 'Director'], ['Yukimuro, Shunichi', 'Script'], ['Morita, Masanori', 'Original Creator'], ['Suda, Masami', 'Character Design, Animation Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Rokudenashi Blues 1993	Movie	1	1993-07-24 00:00:00		948	6.21	159	7625	11264	Sequel to the Rokudenashi Blues movie.	['Rokudenashi Blues']	['Maeda, Taison', 'Hatanaka, Yuutarou', 'Imai, Kazumi', 'Nanase, Chiaki', 'Yamashita, Katsuji', 'Sawamura, Yoneji']	['Hirata, Hiroaki']	[['Kakudou, Hiroyuki', 'Director'], ['Yukimuro, Shunichi', 'Script'], ['Morita, Masanori', 'Original Creator'], ['Suda, Masami', 'Character Design, Animation Director']]

@@ -1,15 +1,2 @@
-animeTitle	RESTART POiNTER
-animeType	Music
-animeNumEpisode	1
-releaseDate	2016-06-10 00:00:00
-endDate	
-animeNumMembers	2320
-animeScore	7.0
-animeUsers	1138
-animeRank	3810
-animePopularity	9062
-animeDescription	"Official music video for IDOLiSH7's song ""RESTART POiNTER."""
-animeRelated	['MEMORiES MELODiES', 'MONSTER GENERATiON', 'Nanatsu-iro REALiZE', 'WiSH VOYAGE', 'IDOLiSH7']
-animeCharacters	['Nanase, Riku', 'Ousaka, Sougo', 'Yotsuba, Tamaki', 'Izumi, Iori', 'Izumi, Mitsuki', 'Rokuya, Nagi', 'Nikaidou, Yamato']
-animeVoices	[]
-animeStaff	[['Tanemura, Arina', 'Original Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+RESTART POiNTER	Music	1	2016-06-10 00:00:00		2320	7.0	1138	3810	9062	"Official music video for IDOLiSH7's song ""RESTART POiNTER."""	['MEMORiES MELODiES', 'MONSTER GENERATiON', 'Nanatsu-iro REALiZE', 'WiSH VOYAGE', 'IDOLiSH7']	['Nanase, Riku', 'Ousaka, Sougo', 'Yotsuba, Tamaki', 'Izumi, Iori', 'Izumi, Mitsuki', 'Rokuya, Nagi', 'Nikaidou, Yamato']	[]	[['Tanemura, Arina', 'Original Character Design']]

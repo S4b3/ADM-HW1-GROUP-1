@@ -1,17 +1,4 @@
-animeTitle	Soul Link
-animeType	TV
-animeNumEpisode	12
-releaseDate	2006-04-02 00:00:00
-endDate	2006-06-25 00:00:00
-animeNumMembers	20615
-animeScore	6.12
-animeUsers	7369
-animeRank	8082
-animePopularity	3950
-animeDescription	"Aizawa Ryota was in the 3rd grade of the preparatory course of Central Military Academy. AD 2045, he went to a space station, Aries, for the training with his classmates including Nagase Saka and Nittak Kazuhiko. However, the station was attacked by a terrorist group, Hallarax.Now they must find a way back to earth. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Soul Link	TV	12	2006-04-02 00:00:00	2006-06-25 00:00:00	20615	6.12	7369	8082	3950	"Aizawa Ryota was in the 3rd grade of the preparatory course of Central Military Academy. AD 2045, he went to a space station, Aries, for the training with his classmates including Nagase Saka and Nittak Kazuhiko. However, the station was attacked by a terrorist group, Hallarax.Now they must find a way back to earth. 
 
-(Source: ANN)"
-animeRelated	['Soul Link - Signal-Code: 0', 'Soul Link Special', 'Soul Link Picture Drama']
-animeCharacters	['Morisaki, Nao', 'Markelight, Cellaria', 'Aizawa, Shuhei', 'Nagase, Sayaka', 'Aizawa, Ryota', 'Tachibana, Karen', 'Yamanami, Yuu', 'Inatsuki, Nanami', 'Sugimoto, Aya', 'Nitta, Aki']
-animeVoices	['Sakuma, Kumi', 'Tezuka, Chiharu', 'Kobayashi, Yuu', 'Masuda, Yuki', 'Ogihara, Hideki', 'Shouji, Yui', 'Shimakata, Junko', 'Yanase, Natsumi', 'Nanjou, Yoshino', 'Oono, Marina']
-animeStaff	[['Tokoro, Toshikatsu', 'Director, Storyboard, Series Composition'], ['Iida, Satoki', 'Sound Director'], ['Takashima, Daisuke', 'Episode Director'], ['Noshitani, Mitsutaka', 'Episode Director']]
+(Source: ANN)"	['Soul Link - Signal-Code: 0', 'Soul Link Special', 'Soul Link Picture Drama']	['Morisaki, Nao', 'Markelight, Cellaria', 'Aizawa, Shuhei', 'Nagase, Sayaka', 'Aizawa, Ryota', 'Tachibana, Karen', 'Yamanami, Yuu', 'Inatsuki, Nanami', 'Sugimoto, Aya', 'Nitta, Aki']	['Sakuma, Kumi', 'Tezuka, Chiharu', 'Kobayashi, Yuu', 'Masuda, Yuki', 'Ogihara, Hideki', 'Shouji, Yui', 'Shimakata, Junko', 'Yanase, Natsumi', 'Nanjou, Yoshino', 'Oono, Marina']	[['Tokoro, Toshikatsu', 'Director, Storyboard, Series Composition'], ['Iida, Satoki', 'Sound Director'], ['Takashima, Daisuke', 'Episode Director'], ['Noshitani, Mitsutaka', 'Episode Director']]

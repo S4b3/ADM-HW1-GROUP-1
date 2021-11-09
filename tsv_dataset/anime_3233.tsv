@@ -1,15 +1,2 @@
-animeTitle	Junkers Come Here
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1994-07-20 00:00:00
-endDate	
-animeNumMembers	5526
-animeScore	7.13
-animeUsers	1913
-animeRank	3233
-animePopularity	6723
-animeDescription	This heartwarming and unexpectedly mature story concerns a young girl named Hiromi Nozawa and her dog, Junkers (pronounced Yoon-kers). Hiromi walks us through her childhood troubles of love, schooling, and family bonds. Her companion Junkers accompanies her on this adventure; however, Junkers is no ordinary dog—he can talk and grant 3 wishes. 
-animeRelated	['Junkers Come Here: Memories of You', 'Junkers Come Here Pilot Film']
-animeCharacters	['Junkers', 'Nozawa, Hiromi', 'Kazuko', 'Harada, Chie', 'Morita, Fumie', 'Inoue, Yoko', 'Nozawa, Suzuko', 'Kimura, Keisuke', 'Nozawa, Shintaro']
-animeVoices	['Furumoto, Shinnosuke', 'Oshitani, Mei', 'Iizuka, Mayumi', 'Ishi, Momoko', 'Nakajima, Keiko', 'Tamagawa, Sakiko', 'Konno, Misako', 'Mineno, Katsunari', 'Kine, Naoto']
-animeStaff	[['Yokoyama, Kazuo', 'Producer'], ['Satou, Junichi', 'Director'], ['Iso, Mitsuo', 'Key Animation'], ['Ohira, Shinya', 'Key Animation, Original Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Junkers Come Here	Movie	1	1994-07-20 00:00:00		5526	7.13	1913	3233	6723	This heartwarming and unexpectedly mature story concerns a young girl named Hiromi Nozawa and her dog, Junkers (pronounced Yoon-kers). Hiromi walks us through her childhood troubles of love, schooling, and family bonds. Her companion Junkers accompanies her on this adventure; however, Junkers is no ordinary dog—he can talk and grant 3 wishes. 	['Junkers Come Here: Memories of You', 'Junkers Come Here Pilot Film']	['Junkers', 'Nozawa, Hiromi', 'Kazuko', 'Harada, Chie', 'Morita, Fumie', 'Inoue, Yoko', 'Nozawa, Suzuko', 'Kimura, Keisuke', 'Nozawa, Shintaro']	['Furumoto, Shinnosuke', 'Oshitani, Mei', 'Iizuka, Mayumi', 'Ishi, Momoko', 'Nakajima, Keiko', 'Tamagawa, Sakiko', 'Konno, Misako', 'Mineno, Katsunari', 'Kine, Naoto']	[['Yokoyama, Kazuo', 'Producer'], ['Satou, Junichi', 'Director'], ['Iso, Mitsuo', 'Key Animation'], ['Ohira, Shinya', 'Key Animation, Original Character Design']]

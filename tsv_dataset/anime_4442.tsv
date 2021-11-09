@@ -1,15 +1,2 @@
-animeTitle	Dagashi Kashi 2
-animeType	TV
-animeNumEpisode	12
-releaseDate	2018-01-12 00:00:00
-endDate	2018-03-30 00:00:00
-animeNumMembers	135537
-animeScore	6.84
-animeUsers	55489
-animeRank	4442
-animePopularity	1292
-animeDescription	Second season of Dagashi Kashi.
-animeRelated	['Dagashi Kashi']
-animeCharacters	['Shidare, Hotaru', 'Shikada, Kokonotsu', 'Endou, Saya', 'Hajime, Owari', 'Endou, Tou', 'Shikada, You', 'Shidare, Beniyutaka']
-animeVoices	['Taketatsu, Ayana', 'Abe, Atsushi', 'Numakura, Manami', 'Akasaki, Chinatsu', 'Suzuki, Tatsuhisa', 'Fujiwara, Keiji', 'Sugita, Tomokazu']
-animeStaff	[['Kuwahara, Satoshi', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['McGuire, Kristen', 'Script'], ['Taketatsu, Ayana', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Dagashi Kashi 2	TV	12	2018-01-12 00:00:00	2018-03-30 00:00:00	135537	6.84	55489	4442	1292	Second season of Dagashi Kashi.	['Dagashi Kashi']	['Shidare, Hotaru', 'Shikada, Kokonotsu', 'Endou, Saya', 'Hajime, Owari', 'Endou, Tou', 'Shikada, You', 'Shidare, Beniyutaka']	['Taketatsu, Ayana', 'Abe, Atsushi', 'Numakura, Manami', 'Akasaki, Chinatsu', 'Suzuki, Tatsuhisa', 'Fujiwara, Keiji', 'Sugita, Tomokazu']	[['Kuwahara, Satoshi', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['McGuire, Kristen', 'Script'], ['Taketatsu, Ayana', 'Theme Song Performance']]

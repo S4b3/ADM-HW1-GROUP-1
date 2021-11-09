@@ -1,17 +1,4 @@
-animeTitle	Momoiro Sisters
-animeType	TV
-animeNumEpisode	24
-releaseDate	1998-08-25 00:00:00
-endDate	1998-10-05 00:00:00
-animeNumMembers	2347
-animeScore	6.12
-animeUsers	716
-animeRank	8066
-animePopularity	9004
-animeDescription	"Momoko is a high school student, trying to live up to her older sister Sakura. Sakura works in an office along with many other co-workers. The two sisters, and their friends, experience the everyday hardships and situations of being a woman. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Momoiro Sisters	TV	24	1998-08-25 00:00:00	1998-10-05 00:00:00	2347	6.12	716	8066	9004	"Momoko is a high school student, trying to live up to her older sister Sakura. Sakura works in an office along with many other co-workers. The two sisters, and their friends, experience the everyday hardships and situations of being a woman. 
 
-(Source: ANN)"
-animeRelated	['Momoiro Sisters']
-animeCharacters	['Murakami, Momoko', 'Murakami, Sakura', 'Shimizu, Miki', 'Ootani, Yukari', 'Tobari, Akira']
-animeVoices	['Shiratori, Yuri', 'Orikasa, Ai', 'Mizutani, Yuuko', 'Ishida, Akira']
-animeStaff	[['Watanabe, Jun', 'Sound Director'], ['Sokuza, Makoto', 'Episode Director, Storyboard'], ['Kurata, Hideyuki', 'Script'], ['Akahori, Satoru', 'Script']]
+(Source: ANN)"	['Momoiro Sisters']	['Murakami, Momoko', 'Murakami, Sakura', 'Shimizu, Miki', 'Ootani, Yukari', 'Tobari, Akira']	['Shiratori, Yuri', 'Orikasa, Ai', 'Mizutani, Yuuko', 'Ishida, Akira']	[['Watanabe, Jun', 'Sound Director'], ['Sokuza, Makoto', 'Episode Director, Storyboard'], ['Kurata, Hideyuki', 'Script'], ['Akahori, Satoru', 'Script']]

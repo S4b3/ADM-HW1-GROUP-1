@@ -1,17 +1,4 @@
-animeTitle	Kyochuu Rettou Movie
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2020-01-10 00:00:00
-endDate	
-animeNumMembers	16801
-animeScore	4.6
-animeUsers	7693
-animeRank	11802
-animePopularity	4352
-animeDescription	"After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kyochuu Rettou Movie	Movie	1	2020-01-10 00:00:00		16801	4.6	7693	11802	4352	"After an airplane crash during a school trip, Oribe Mutsumi and her classmates were stranded on a seemingly deserted island. Mutsumi found the other survivors, and used her wilderness knowledge to help them. She expects that they will be rescued in about three days, which doesn't seem so long to endure. However, she didn't account for the fact that the island is populated with gigantic killer insects. Her knowledge of butterflies, wasps, and more may be the only thing that will help any of her classmates survive to be rescued!
 
-(Source: MangaHelpers)"
-animeRelated	['Kyochuu Rettou']
-animeCharacters	['Kai, Kazuhiko', 'Inou, Ai', 'Kamijo, Atsushi', 'Oribe, Mutsumi', 'Matsuoka, Ayumi', 'Naruse, Chitose', 'Jinno, Mirei', 'Enoki, Inaho', 'Miura, Mami', 'Tsuge, Hiroshi']
-animeVoices	['Eguchi, Takuya', 'Kubo, Yurika', 'Komada, Wataru', 'Fukuen, Misato', 'Tachibana, Rika', 'Takahashi, Chiaki', 'Inoue, Marina', 'Asakura, Momo']
-animeStaff	[['Toujou, Haruka', 'Theme Song Performance, Theme Song Lyrics'], ['REDICE', 'Original Character Design'], ['Fujimi, Yasutaka', 'Original Creator'], ['Miyamoto, Miu', 'Art Director']]
+(Source: MangaHelpers)"	['Kyochuu Rettou']	['Kai, Kazuhiko', 'Inou, Ai', 'Kamijo, Atsushi', 'Oribe, Mutsumi', 'Matsuoka, Ayumi', 'Naruse, Chitose', 'Jinno, Mirei', 'Enoki, Inaho', 'Miura, Mami', 'Tsuge, Hiroshi']	['Eguchi, Takuya', 'Kubo, Yurika', 'Komada, Wataru', 'Fukuen, Misato', 'Tachibana, Rika', 'Takahashi, Chiaki', 'Inoue, Marina', 'Asakura, Momo']	[['Toujou, Haruka', 'Theme Song Performance, Theme Song Lyrics'], ['REDICE', 'Original Character Design'], ['Fujimi, Yasutaka', 'Original Creator'], ['Miyamoto, Miu', 'Art Director']]

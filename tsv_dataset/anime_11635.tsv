@@ -1,15 +1,2 @@
-animeTitle	Beluga
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2011-01-01 00:00:00
-endDate	
-animeNumMembers	1026
-animeScore	4.83
-animeUsers	505
-animeRank	11635
-animePopularity	11090
-animeDescription	"A horror spin on the classic tale of ""The Little Match Girl""."
-animeRelated	[]
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Beluga	Movie	1	2011-01-01 00:00:00		1026	4.83	505	11635	11090	"A horror spin on the classic tale of ""The Little Match Girl""."	[]	[]	[]	[]

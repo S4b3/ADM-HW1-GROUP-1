@@ -1,15 +1,2 @@
-animeTitle	Moyashimon: Kin Gekijou Deluxe
-animeType	Special
-animeNumEpisode	4
-releaseDate	2007-12-21 00:00:00
-endDate	2008-03-19 00:00:00
-animeNumMembers	5928
-animeScore	6.75
-animeUsers	2851
-animeRank	4839
-animePopularity	6526
-animeDescription	"Five-minute shorts expanding on the ""Microbe Theatre"" segments of Moyashimon released as bonus episodes on the limited-edition packages of Moyashimon's DVD release."
-animeRelated	['Moyashimon']
-animeCharacters	['Aspergillus oryzae', 'Aspergillus niger', 'Saccharomyces cerevisiae', 'Cladosporium trichoides', 'Penicillium chrysogenum', 'Lactobacillus jugurti', 'Aspergillus awamori', 'Lactococcus lactis', 'Aspergillus sojae', 'Trichophyton rubrum']
-animeVoices	['Touma, Yumi', 'Nakamura, Miu']
-animeStaff	[['Kikuta, Hiromi', 'Sound Director'], ['Watanabe, Daisuke', 'Script'], ['Satou, Naoki', 'Music'], ['Morikawa, Eiko', 'Sound Effects']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Moyashimon: Kin Gekijou Deluxe	Special	4	2007-12-21 00:00:00	2008-03-19 00:00:00	5928	6.75	2851	4839	6526	"Five-minute shorts expanding on the ""Microbe Theatre"" segments of Moyashimon released as bonus episodes on the limited-edition packages of Moyashimon's DVD release."	['Moyashimon']	['Aspergillus oryzae', 'Aspergillus niger', 'Saccharomyces cerevisiae', 'Cladosporium trichoides', 'Penicillium chrysogenum', 'Lactobacillus jugurti', 'Aspergillus awamori', 'Lactococcus lactis', 'Aspergillus sojae', 'Trichophyton rubrum']	['Touma, Yumi', 'Nakamura, Miu']	[['Kikuta, Hiromi', 'Sound Director'], ['Watanabe, Daisuke', 'Script'], ['Satou, Naoki', 'Music'], ['Morikawa, Eiko', 'Sound Effects']]

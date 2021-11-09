@@ -1,15 +1,2 @@
-animeTitle	Hello Kitty: Mahou no Mori no Ohimesama
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1991-07-20 00:00:00
-endDate	
-animeNumMembers	453
-animeScore	6.05
-animeUsers	145
-animeRank	8450
-animePopularity	13218
-animeDescription	Kitty and Mimmy have to save a kingdom and break a magical spell on a sleeping princess.
-animeRelated	['Taabou no Ryuuguusei Daitanken', 'Kero Kero Keroppi no Sanjuushi']
-animeCharacters	['White, Kitty', 'White, Mimmy']
-animeVoices	['Hayashibara, Megumi', 'Tominaga, Miina']
-animeStaff	[['Hata, Masami', 'Screenplay, Chief Animation Director'], ['Abe, Yukio', 'Background Art'], ['Matsuda, Akihiko', 'Sound Effects'], ['Tsuji, Shintarou', 'Executive Producer']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Hello Kitty: Mahou no Mori no Ohimesama	Movie	1	1991-07-20 00:00:00		453	6.05	145	8450	13218	Kitty and Mimmy have to save a kingdom and break a magical spell on a sleeping princess.	['Taabou no Ryuuguusei Daitanken', 'Kero Kero Keroppi no Sanjuushi']	['White, Kitty', 'White, Mimmy']	['Hayashibara, Megumi', 'Tominaga, Miina']	[['Hata, Masami', 'Screenplay, Chief Animation Director'], ['Abe, Yukio', 'Background Art'], ['Matsuda, Akihiko', 'Sound Effects'], ['Tsuji, Shintarou', 'Executive Producer']]

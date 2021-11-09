@@ -1,15 +1,2 @@
-animeTitle	Shouwa Monogatari (Movie)
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2011-01-29 00:00:00
-endDate	
-animeNumMembers	1460
-animeScore	6.44
-animeUsers	428
-animeRank	6475
-animePopularity	10231
-animeDescription	Dramatic story of the Yamazaki family during the year Showa 39 (1964), the year that Tokyo hosted the Summer Olympics.
-animeRelated	['Shouwa Monogatari']
-animeCharacters	['Sawatari, Yuusuke']
-animeVoices	[]
-animeStaff	[['Takeuchi, Hiroaki', 'Producer'], ['Honda, Yasunori', 'Sound Director'], ['Maruo, Miho', 'Script'], ['Hirano, Yasushi', 'Screenplay']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shouwa Monogatari (Movie)	Movie	1	2011-01-29 00:00:00		1460	6.44	428	6475	10231	Dramatic story of the Yamazaki family during the year Showa 39 (1964), the year that Tokyo hosted the Summer Olympics.	['Shouwa Monogatari']	['Sawatari, Yuusuke']	[]	[['Takeuchi, Hiroaki', 'Producer'], ['Honda, Yasunori', 'Sound Director'], ['Maruo, Miho', 'Script'], ['Hirano, Yasushi', 'Screenplay']]

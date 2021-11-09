@@ -1,15 +1,2 @@
-animeTitle	Kikou Kai Galient OVA
-animeType	OVA
-animeNumEpisode	3
-releaseDate	1986-01-26 00:00:00
-endDate	1986-08-05 00:00:00
-animeNumMembers	849
-animeScore	5.94
-animeUsers	287
-animeRank	8895
-animePopularity	11555
-animeDescription	The first two episodes are summaries of the TV series, the third one (Crest of Iron) takes place in an alternate universe.
-animeRelated	['Kikou Kai Galient']
-animeCharacters	['Vorder, Jordy', 'Chururu', 'Hilmuka']
-animeVoices	['Hirano, Fumi']
-animeStaff	[['Ohira, Shinya', 'Key Animation'], ['Okiura, Hiroyuki', 'Key Animation'], ['Yatate, Hajime', 'Original Creator'], ['Ookawara, Kunio', 'Mechanical Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kikou Kai Galient OVA	OVA	3	1986-01-26 00:00:00	1986-08-05 00:00:00	849	5.94	287	8895	11555	The first two episodes are summaries of the TV series, the third one (Crest of Iron) takes place in an alternate universe.	['Kikou Kai Galient']	['Vorder, Jordy', 'Chururu', 'Hilmuka']	['Hirano, Fumi']	[['Ohira, Shinya', 'Key Animation'], ['Okiura, Hiroyuki', 'Key Animation'], ['Yatate, Hajime', 'Original Creator'], ['Ookawara, Kunio', 'Mechanical Design']]

@@ -1,16 +1,3 @@
-animeTitle	Tamako Market Specials
-animeType	Special
-animeNumEpisode	6
-releaseDate	2013-03-20 00:00:00
-endDate	2013-08-21 00:00:00
-animeNumMembers	28106
-animeScore	6.4
-animeUsers	10692
-animeRank	6705
-animePopularity	3404
-animeDescription	"Episodes 1-3 focus on Dera welcoming ladies to his bar.
-Episodes 4-6 focus on Choi-chan."
-animeRelated	['Tamako Market']
-animeCharacters	['Kitashirakawa, Tamako', 'Makino, Kanna', 'Mochimazzi, Dera', 'Asagiri, Shiori', 'Tokiwa, Midori', 'Mochimazzi, Choi', 'Kitashirakawa, Anko', 'Mochimazzi, Mecha']
-animeVoices	['Suzaki, Aya', 'Nagatsuma, Juri', 'Yamazaki, Takumi', 'Yamashita, Yurie', 'Kaneko, Yuuki', 'Yamaoka, Yuri', 'Hidaka, Rina']
-animeStaff	[['Suzaki, Aya', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Tamako Market Specials	Special	6	2013-03-20 00:00:00	2013-08-21 00:00:00	28106	6.4	10692	6705	3404	"Episodes 1-3 focus on Dera welcoming ladies to his bar.
+Episodes 4-6 focus on Choi-chan."	['Tamako Market']	['Kitashirakawa, Tamako', 'Makino, Kanna', 'Mochimazzi, Dera', 'Asagiri, Shiori', 'Tokiwa, Midori', 'Mochimazzi, Choi', 'Kitashirakawa, Anko', 'Mochimazzi, Mecha']	['Suzaki, Aya', 'Nagatsuma, Juri', 'Yamazaki, Takumi', 'Yamashita, Yurie', 'Kaneko, Yuuki', 'Yamaoka, Yuri', 'Hidaka, Rina']	[['Suzaki, Aya', 'Theme Song Performance']]

@@ -1,15 +1,2 @@
-animeTitle	Muumin (1972)
-animeType	TV
-animeNumEpisode	52
-releaseDate	1972-01-09 00:00:00
-endDate	1972-12-31 00:00:00
-animeNumMembers	2145
-animeScore	6.52
-animeUsers	656
-animeRank	6037
-animePopularity	9243
-animeDescription	A remake of the 1969-70 Moomin series.  This version is more closely based on the books by the Finnish illustrator and writer Tove Jansson.
-animeRelated	['Tanoshii Muumin Ikka', 'Muumin']
-animeCharacters	['Snufkin', 'Moomintroll', 'Little My', 'Moominpappa', 'Moominmamma', 'Sniff', 'Floren', 'The Groke', 'Stinky', 'Hemulen']
-animeVoices	['Nishimoto, Hiroyuki', 'Kishida, Kyouko', 'Hori, Junko', 'Takagi, Hitoshi', 'Tani, Ikuko', 'Tomita, Kousei', 'Mutou, Reiko', 'Takiguchi, Junpei', 'Otsuka, Chikao', 'Amenomori, Masashi']
-animeStaff	[['Rintaro', 'Episode Director'], ['Higuchi, Masakazu', 'Episode Director'], ['Fujikawa, Keisuke', 'Script, Screenplay'], ['Tashiro, Junji', 'Script']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Muumin (1972)	TV	52	1972-01-09 00:00:00	1972-12-31 00:00:00	2145	6.52	656	6037	9243	A remake of the 1969-70 Moomin series.  This version is more closely based on the books by the Finnish illustrator and writer Tove Jansson.	['Tanoshii Muumin Ikka', 'Muumin']	['Snufkin', 'Moomintroll', 'Little My', 'Moominpappa', 'Moominmamma', 'Sniff', 'Floren', 'The Groke', 'Stinky', 'Hemulen']	['Nishimoto, Hiroyuki', 'Kishida, Kyouko', 'Hori, Junko', 'Takagi, Hitoshi', 'Tani, Ikuko', 'Tomita, Kousei', 'Mutou, Reiko', 'Takiguchi, Junpei', 'Otsuka, Chikao', 'Amenomori, Masashi']	[['Rintaro', 'Episode Director'], ['Higuchi, Masakazu', 'Episode Director'], ['Fujikawa, Keisuke', 'Script, Screenplay'], ['Tashiro, Junji', 'Script']]

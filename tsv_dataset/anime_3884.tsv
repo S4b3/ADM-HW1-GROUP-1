@@ -1,15 +1,2 @@
-animeTitle	Project ARMS
-animeType	TV
-animeNumEpisode	26
-releaseDate	2001-04-07 00:00:00
-endDate	2001-09-29 00:00:00
-animeNumMembers	11894
-animeScore	6.97
-animeUsers	3180
-animeRank	3884
-animePopularity	4953
-animeDescription	A boy gets involved in an accident when in kindergarten, horribly damaging his arm, but the doctors somehow manage to save it. Now, several years later, his arm seems to be becoming the focus of strange events as it turns out to be more than a normal arm. Meanwhile, a secret organizations is out to get hold of him and the power he possess. 
-animeRelated	['Arms', 'Project ARMS: The 2nd Chapter']
-animeCharacters	['Takatsuki, Ryou', 'Kuruma, Kei', 'Shingu, Hayato', 'Akagi, Katsumi', 'Tomoe, Takeshi', 'Gilbert, Yugo', 'Katz, Mary', 'Takatsuki, Misa', 'Silver, Keith', 'Green, Keith']
-animeVoices	['Canna, Nobutoshi', 'Takayama, Minami', 'Miki, Shinichiro', 'Miura, Tomoko', 'Ueda, Yuuji', 'Honma, Yukari', 'Inoue, You', 'Ichijou, Miyuki', 'Kawazu, Yasuhiko']
-animeStaff	[['Kamegaki, Hajime', 'Director'], ['Takaya, Hirotoshi', 'Director, Storyboard, Key Animation'], ['Takaoka, Junichi', 'Director'], ['Urakami, Yasuo', 'Sound Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Project ARMS	TV	26	2001-04-07 00:00:00	2001-09-29 00:00:00	11894	6.97	3180	3884	4953	A boy gets involved in an accident when in kindergarten, horribly damaging his arm, but the doctors somehow manage to save it. Now, several years later, his arm seems to be becoming the focus of strange events as it turns out to be more than a normal arm. Meanwhile, a secret organizations is out to get hold of him and the power he possess. 	['Arms', 'Project ARMS: The 2nd Chapter']	['Takatsuki, Ryou', 'Kuruma, Kei', 'Shingu, Hayato', 'Akagi, Katsumi', 'Tomoe, Takeshi', 'Gilbert, Yugo', 'Katz, Mary', 'Takatsuki, Misa', 'Silver, Keith', 'Green, Keith']	['Canna, Nobutoshi', 'Takayama, Minami', 'Miki, Shinichiro', 'Miura, Tomoko', 'Ueda, Yuuji', 'Honma, Yukari', 'Inoue, You', 'Ichijou, Miyuki', 'Kawazu, Yasuhiko']	[['Kamegaki, Hajime', 'Director'], ['Takaya, Hirotoshi', 'Director, Storyboard, Key Animation'], ['Takaoka, Junichi', 'Director'], ['Urakami, Yasuo', 'Sound Director']]

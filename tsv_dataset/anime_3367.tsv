@@ -1,15 +1,2 @@
-animeTitle	Tottemo! Luckyman
-animeType	TV
-animeNumEpisode	50
-releaseDate	1994-04-06 00:00:00
-endDate	1995-03-23 00:00:00
-animeNumMembers	2190
-animeScore	7.1
-animeUsers	1046
-animeRank	3367
-animePopularity	9194
-animeDescription	This gag comedy series focused on the adventures of a bizarre superhero powered by special cooking and fights against various aliens and other enemies threatening the planet Earth.
-animeRelated	['Tottemo! Luckyman']
-animeCharacters	['Luckyman', 'Superstarman', 'Endeavorman']
-animeVoices	['Tanaka, Mayumi', 'Iwanaga, Tetsuya', 'Chiba, Shigeru']
-animeStaff	[['Kimura, Kyotaro', 'Producer'], ['Nabeshima, Osamu', 'Director, Episode Director, Storyboard'], ['Shimizu, Katsunori', 'Sound Director'], ['Kamegaki, Hajime', 'Episode Director, Storyboard']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Tottemo! Luckyman	TV	50	1994-04-06 00:00:00	1995-03-23 00:00:00	2190	7.1	1046	3367	9194	This gag comedy series focused on the adventures of a bizarre superhero powered by special cooking and fights against various aliens and other enemies threatening the planet Earth.	['Tottemo! Luckyman']	['Luckyman', 'Superstarman', 'Endeavorman']	['Tanaka, Mayumi', 'Iwanaga, Tetsuya', 'Chiba, Shigeru']	[['Kimura, Kyotaro', 'Producer'], ['Nabeshima, Osamu', 'Director, Episode Director, Storyboard'], ['Shimizu, Katsunori', 'Sound Director'], ['Kamegaki, Hajime', 'Episode Director, Storyboard']]

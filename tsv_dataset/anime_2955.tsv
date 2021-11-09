@@ -1,17 +1,4 @@
-animeTitle	Dirty Pair
-animeType	TV
-animeNumEpisode	24
-releaseDate	1985-07-15 00:00:00
-endDate	1985-12-26 00:00:00
-animeNumMembers	24475
-animeScore	7.18
-animeUsers	4915
-animeRank	2955
-animePopularity	3636
-animeDescription	"If you're in a big trouble, call the World Welfare Work Association or WWWA. They will send out a team of highly trained capable agents called Trouble Consultants who can solve your problems. But if the team they send you is the Dirty Pair, there will be a lot of collateral damage aside from solving your problems.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Dirty Pair	TV	24	1985-07-15 00:00:00	1985-12-26 00:00:00	24475	7.18	4915	2955	3636	"If you're in a big trouble, call the World Welfare Work Association or WWWA. They will send out a team of highly trained capable agents called Trouble Consultants who can solve your problems. But if the team they send you is the Dirty Pair, there will be a lot of collateral damage aside from solving your problems.
 
-(Source: AniDB)"
-animeRelated	['Dirty Pair', 'Dirty Pair no Daibouken', 'Dirty Pair no Ooshoubu: Nolandia no Nazo', 'Dirty Pair: The Movie', 'Dirty Pair Flash', 'Dirty Pair: Lovely Angels yori Ai wo Komete']
-animeCharacters	['Kei', 'Yuri', 'Mughi', 'Francis, Gooley Andrew', 'Miralda', 'Giloss', 'Duran Jr.', 'Reamonn, Lore', 'Blues', 'Huey, Bobbitt']
-animeVoices	['Tonguu, Kyouko', 'Shimazu, Saeko', 'Makishima, Naoki', 'Sawaki, Ikuya', 'Ikemoto, Sayuri', 'Ikeda, Masaru', 'Hayami, Show', 'Ataka, Makoto', 'Kobayashi, Kiyoshi', 'Inoue, Kazuhiko']
-animeStaff	[['Takizawa, Toshifumi', 'Director'], ['Chiba, Kouichi', 'Sound Director'], ['Kase, Mitsuko', 'Episode Director, Storyboard'], ['Hamatsu, Mamoru', 'Episode Director, Storyboard']]
+(Source: AniDB)"	['Dirty Pair', 'Dirty Pair no Daibouken', 'Dirty Pair no Ooshoubu: Nolandia no Nazo', 'Dirty Pair: The Movie', 'Dirty Pair Flash', 'Dirty Pair: Lovely Angels yori Ai wo Komete']	['Kei', 'Yuri', 'Mughi', 'Francis, Gooley Andrew', 'Miralda', 'Giloss', 'Duran Jr.', 'Reamonn, Lore', 'Blues', 'Huey, Bobbitt']	['Tonguu, Kyouko', 'Shimazu, Saeko', 'Makishima, Naoki', 'Sawaki, Ikuya', 'Ikemoto, Sayuri', 'Ikeda, Masaru', 'Hayami, Show', 'Ataka, Makoto', 'Kobayashi, Kiyoshi', 'Inoue, Kazuhiko']	[['Takizawa, Toshifumi', 'Director'], ['Chiba, Kouichi', 'Sound Director'], ['Kase, Mitsuko', 'Episode Director, Storyboard'], ['Hamatsu, Mamoru', 'Episode Director, Storyboard']]

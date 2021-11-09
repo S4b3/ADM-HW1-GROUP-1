@@ -1,17 +1,4 @@
-animeTitle	Donkikko
-animeType	TV
-animeNumEpisode	21
-releaseDate	1967-09-07 00:00:00
-endDate	1968-01-25 00:00:00
-animeNumMembers	297
-animeScore	
-animeUsers	
-animeRank	15461
-animePopularity	14610
-animeDescription	"A comedy about the mischievous adventures of a young boy. Each episode contains 2 stories.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Donkikko	TV	21	1967-09-07 00:00:00	1968-01-25 00:00:00	297			15461	14610	"A comedy about the mischievous adventures of a young boy. Each episode contains 2 stories.
 
-(Source: AniDB)"
-animeRelated	[]
-animeCharacters	['Donkikko', 'Mister Tousenbou', 'Dondon', 'Ayame', 'Gonbei']
-animeVoices	['Asou, Mitsuko', 'Wakayama, Genzo', 'Kamiyama, Takuzou', 'Ohara, Noriko', 'Aikawa, Kinya']
-animeStaff	[['Yukimuro, Shunichi', 'Script'], ['Andou, Toyohiro', 'Script'], ['Ishinomori, Shoutarou', 'Original Creator']]
+(Source: AniDB)"	[]	['Donkikko', 'Mister Tousenbou', 'Dondon', 'Ayame', 'Gonbei']	['Asou, Mitsuko', 'Wakayama, Genzo', 'Kamiyama, Takuzou', 'Ohara, Noriko', 'Aikawa, Kinya']	[['Yukimuro, Shunichi', 'Script'], ['Andou, Toyohiro', 'Script'], ['Ishinomori, Shoutarou', 'Original Creator']]

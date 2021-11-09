@@ -1,15 +1,2 @@
-animeTitle	Bean Bandit
-animeType	OVA
-animeNumEpisode	1
-releaseDate	2021-01-19 00:00:00
-endDate	
-animeNumMembers	3662
-animeScore	
-animeUsers	
-animeRank	14970
-animePopularity	7872
-animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
-animeRelated	['Gunsmith Cats', 'Riding Bean']
-animeCharacters	['Vincent, Irene', 'Bandit, Bean', 'Hopkins, May', 'Farrah, Becky']
-animeVoices	['Asai, Ayaka', 'Takahashi, Hidenori', 'Igarashi, Hiromi', 'Kitamura, Eri']
-animeStaff	[['Sonoda, Kenichi', 'Director, Script, Chief Animation Director, Original Creator, Planning'], ['Aoki, Yuu', 'Director'], ['Hirasawa, Hisayoshi', 'Sound Director'], ['Shimizu, Keizou', 'Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Bean Bandit	OVA	1	2021-01-19 00:00:00		3662			14970	7872	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.	['Gunsmith Cats', 'Riding Bean']	['Vincent, Irene', 'Bandit, Bean', 'Hopkins, May', 'Farrah, Becky']	['Asai, Ayaka', 'Takahashi, Hidenori', 'Igarashi, Hiromi', 'Kitamura, Eri']	[['Sonoda, Kenichi', 'Director, Script, Chief Animation Director, Original Creator, Planning'], ['Aoki, Yuu', 'Director'], ['Hirasawa, Hisayoshi', 'Sound Director'], ['Shimizu, Keizou', 'Character Design']]

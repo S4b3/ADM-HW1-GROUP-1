@@ -1,15 +1,2 @@
-animeTitle	Catman Specials
-animeType	Special
-animeNumEpisode	4
-releaseDate	2002-01-01 00:00:00
-endDate	2008-10-31 00:00:00
-animeNumMembers	641
-animeScore	5.87
-animeUsers	282
-animeRank	9136
-animePopularity	12320
-animeDescription	DVD Specials of Catman.
-animeRelated	['Catman Series III', 'Catman Series II', 'Catman']
-animeCharacters	['Catman']
-animeVoices	[]
-animeStaff	[['The Planet Smashers', 'Inserted Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Catman Specials	Special	4	2002-01-01 00:00:00	2008-10-31 00:00:00	641	5.87	282	9136	12320	DVD Specials of Catman.	['Catman Series III', 'Catman Series II', 'Catman']	['Catman']	[]	[['The Planet Smashers', 'Inserted Song Performance']]

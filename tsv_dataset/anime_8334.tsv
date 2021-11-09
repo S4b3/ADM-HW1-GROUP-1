@@ -1,15 +1,2 @@
-animeTitle	Usavich Zero
-animeType	TV
-animeNumEpisode	13
-releaseDate	2015-04-10 00:00:00
-endDate	2015-08-28 00:00:00
-animeNumMembers	1569
-animeScore	6.07
-animeUsers	660
-animeRank	8334
-animePopularity	10089
-animeDescription	Prequel to the first Usavich season.
-animeRelated	['Usavich']
-animeCharacters	['Kirenenko', 'Putin']
-animeVoices	[]
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Usavich Zero	TV	13	2015-04-10 00:00:00	2015-08-28 00:00:00	1569	6.07	660	8334	10089	Prequel to the first Usavich season.	['Usavich']	['Kirenenko', 'Putin']	[]	[]

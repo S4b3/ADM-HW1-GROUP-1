@@ -1,15 +1,2 @@
-animeTitle	Chinpui
-animeType	TV
-animeNumEpisode	56
-releaseDate	1989-02-11 00:00:00
-endDate	1991-04-18 00:00:00
-animeNumMembers	1045
-animeScore	6.08
-animeUsers	374
-animeRank	8265
-animePopularity	11033
-animeDescription	TV anime show based on the manga by F. Fujio Fujiko.
-animeRelated	['Chinpui', 'Chinpui Specials', 'Chinpui: Eri-sama Katsudou Daishashin']
-animeCharacters	['Chinpui', 'Uchiki, Shou', 'Kasuga, Eri', 'Kasuga, Nodoka']
-animeVoices	['Hori, Junko', 'Sasaki, Nozomu', 'Hayashibara, Megumi', 'Tsumura, Takashi']
-animeStaff	[['Hongou, Mitsuru', 'Director, Episode Director, Storyboard'], ['Mochizuki, Tomomi', 'Episode Director, Storyboard'], ['Fujiko, Fujio F.', 'Original Creator'], ['Mizushima, Tsutomu', 'Production Assistant']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Chinpui	TV	56	1989-02-11 00:00:00	1991-04-18 00:00:00	1045	6.08	374	8265	11033	TV anime show based on the manga by F. Fujio Fujiko.	['Chinpui', 'Chinpui Specials', 'Chinpui: Eri-sama Katsudou Daishashin']	['Chinpui', 'Uchiki, Shou', 'Kasuga, Eri', 'Kasuga, Nodoka']	['Hori, Junko', 'Sasaki, Nozomu', 'Hayashibara, Megumi', 'Tsumura, Takashi']	[['Hongou, Mitsuru', 'Director, Episode Director, Storyboard'], ['Mochizuki, Tomomi', 'Episode Director, Storyboard'], ['Fujiko, Fujio F.', 'Original Creator'], ['Mizushima, Tsutomu', 'Production Assistant']]

@@ -1,16 +1,3 @@
-animeTitle	Atama Yama
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2002-01-01 00:00:00
-endDate	
-animeNumMembers	7170
-animeScore	6.41
-animeUsers	4079
-animeRank	6626
-animePopularity	6083
-animeDescription	"After a stingy man eats some cherry seeds, a cherry tree grows on his head and he gets into a lot of trouble. 
-"
-animeRelated	[]
-animeCharacters	['Narrator']
-animeVoices	['Kunimoto, Takeharu']
-animeStaff	[['Yamamura, Koji', 'Director, In-Between Animation, Key Animation, Special Effects, Editing, Background Art, Creator, Animation Director, 2nd Key Animation'], ['Yonemura, Shouji', 'Script'], ['Kunimoto, Takeharu', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Atama Yama	Movie	1	2002-01-01 00:00:00		7170	6.41	4079	6626	6083	"After a stingy man eats some cherry seeds, a cherry tree grows on his head and he gets into a lot of trouble. 
+"	[]	['Narrator']	['Kunimoto, Takeharu']	[['Yamamura, Koji', 'Director, In-Between Animation, Key Animation, Special Effects, Editing, Background Art, Creator, Animation Director, 2nd Key Animation'], ['Yonemura, Shouji', 'Script'], ['Kunimoto, Takeharu', 'Music']]

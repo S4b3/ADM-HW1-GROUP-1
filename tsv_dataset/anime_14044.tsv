@@ -1,15 +1,2 @@
-animeTitle	Umi Da! Funade Da! Nikoniko, Pun
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1990-01-04 00:00:00
-endDate	
-animeNumMembers	235
-animeScore	
-animeUsers	
-animeRank	14044
-animePopularity	15480
-animeDescription	Animation movie by Hirata Toshio. 
-animeRelated	['Nikoniko, Pun']
-animeCharacters	['Kitan']
-animeVoices	['Yamada, Yasuo']
-animeStaff	[['Hirata, Toshio', 'Director'], ['Seyama, Takeshi', 'Editing'], ['Komatsubara, Kazuo', 'Animation Director'], ['Oosumi, Masaaki', 'Screenplay']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Umi Da! Funade Da! Nikoniko, Pun	Movie	1	1990-01-04 00:00:00		235			14044	15480	Animation movie by Hirata Toshio. 	['Nikoniko, Pun']	['Kitan']	['Yamada, Yasuo']	[['Hirata, Toshio', 'Director'], ['Seyama, Takeshi', 'Editing'], ['Komatsubara, Kazuo', 'Animation Director'], ['Oosumi, Masaaki', 'Screenplay']]

@@ -1,15 +1,2 @@
-animeTitle	D4DJ Petit Mix
-animeType	TV
-animeNumEpisode	26
-releaseDate	2021-02-05 00:00:00
-endDate	2021-07-30 00:00:00
-animeNumMembers	3538
-animeScore	6.89
-animeUsers	1190
-animeRank	4244
-animePopularity	7968
-animeDescription	Mini anime aired within the D4DJ variety program D4DJ Photon Maiden TV.
-animeRelated	['D4DJ: First Mix']
-animeCharacters	['Yamate, Kyouko', 'Aimoto, Rinku', 'Oonaruto, Muni', 'Izumo, Saki', 'Togetsu, Rei', 'Inuyose, Shinobu', 'Miyake, Aoi', 'Aoyagi, Tsubaki', 'Fukushima, Noa', 'Hanamaki, Towa']
-animeVoices	['Terakawa, Aimi', 'Nishio, Yuuka', 'Mimura, Haruka', 'Tsumugi, Risa', 'Shizaki, Kanon', 'Takagi, Miyu', 'Tsunko', 'Katou, Rihona', 'Satou, Hinata', 'Iwata, Haruki']
-animeStaff	[['Miyajima, Seiya', 'Director, Series Composition'], ['Kidani, Takaaki', 'Executive Producer, Planning']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+D4DJ Petit Mix	TV	26	2021-02-05 00:00:00	2021-07-30 00:00:00	3538	6.89	1190	4244	7968	Mini anime aired within the D4DJ variety program D4DJ Photon Maiden TV.	['D4DJ: First Mix']	['Yamate, Kyouko', 'Aimoto, Rinku', 'Oonaruto, Muni', 'Izumo, Saki', 'Togetsu, Rei', 'Inuyose, Shinobu', 'Miyake, Aoi', 'Aoyagi, Tsubaki', 'Fukushima, Noa', 'Hanamaki, Towa']	['Terakawa, Aimi', 'Nishio, Yuuka', 'Mimura, Haruka', 'Tsumugi, Risa', 'Shizaki, Kanon', 'Takagi, Miyu', 'Tsunko', 'Katou, Rihona', 'Satou, Hinata', 'Iwata, Haruki']	[['Miyajima, Seiya', 'Director, Series Composition'], ['Kidani, Takaaki', 'Executive Producer, Planning']]

@@ -1,14 +1,5 @@
-animeTitle	iDOLM@STER Xenoglossia Specials
-animeType	Special
-animeNumEpisode	9
-releaseDate	2007-07-27 00:00:00
-endDate	2008-03-25 00:00:00
-animeNumMembers	3433
-animeScore	5.98
-animeUsers	611
-animeRank	8732
-animePopularity	8037
-animeDescription	"Specials bundled with the iDOLM@STER Xenoglossia DVD releases.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+iDOLM@STER Xenoglossia Specials	Special	9	2007-07-27 00:00:00	2008-03-25 00:00:00	3433	5.98	611	8732	8037	"Specials bundled with the iDOLM@STER Xenoglossia DVD releases.
 
 Episodes
 #1: Izayoi-ryou e Youkoso!
@@ -19,8 +10,4 @@ Episodes
 #6: Sekaijuu no Dare yori Kitto
 #7: SWEET MEMORIES
 #8: Itoshisa to Setsunasa to Kokoro Tsuyosa to
-#9: Episode 26 epilogue"
-animeRelated	['iDOLM@STER Xenoglossia']
-animeCharacters	['Kisaragi, Chihaya', 'Kikuchi, Makoto', 'Amami, Haruka', 'Minase, Iori', 'Takatsuki, Yayoi', 'Miura, Azusa', 'Futami, Mami', 'Akizuki, Ritsuko', 'Futami, Ami', 'Hagiwara, Yukiho']
-animeVoices	[]
-animeStaff	[]
+#9: Episode 26 epilogue"	['iDOLM@STER Xenoglossia']	['Kisaragi, Chihaya', 'Kikuchi, Makoto', 'Amami, Haruka', 'Minase, Iori', 'Takatsuki, Yayoi', 'Miura, Azusa', 'Futami, Mami', 'Akizuki, Ritsuko', 'Futami, Ami', 'Hagiwara, Yukiho']	[]	[]

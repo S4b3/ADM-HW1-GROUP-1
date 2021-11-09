@@ -1,15 +1,2 @@
-animeTitle	Ozma
-animeType	TV
-animeNumEpisode	6
-releaseDate	2012-03-17 00:00:00
-endDate	2012-04-21 00:00:00
-animeNumMembers	14320
-animeScore	6.11
-animeUsers	6367
-animeRank	8096
-animePopularity	4591
-animeDescription	"In the far future, the elevated irradiation from the sun has destroyed the environment of the earth and the birthrate of humans has drastically decreased. The government controls society with an army of cloned soldiers called ""Ideal Children (IC)"". Sam Coyne is a trader in a desert. One day, he saves a beautiful woman Maya, who has been chased by Theseus, a corps of IC. He shelters her in his trade ship, but the destroyers of Theseus surround Sam and Maya."
-animeRelated	[]
-animeCharacters	['Mimei', 'Maya', 'Coyne, Sam', 'Bainas', 'Coyne, Dick', 'Gaira, Gido', 'Tom', 'Noguchi, Luna', 'Rafu, Bokus', 'Gii, Ejiboura']
-animeVoices	['Fujimura, Ayumi', 'Tanaka, Rie', 'Kakihara, Tetsuya', 'Tanaka, Atsuko', 'Hayami, Show', 'Horie, Kazuma', 'Uran, Sakiko', 'Fujinuma, Kento', 'Sakurai, Toshiharu']
-animeStaff	[['Takahashi, Ryousuke', 'Director'], ['Ikezoe, Takahiro', 'Director, Episode Director, Storyboard'], ['Kameyama, Toshiki', 'Sound Director'], ['Takegami, Junki', 'Script, Series Composition']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Ozma	TV	6	2012-03-17 00:00:00	2012-04-21 00:00:00	14320	6.11	6367	8096	4591	"In the far future, the elevated irradiation from the sun has destroyed the environment of the earth and the birthrate of humans has drastically decreased. The government controls society with an army of cloned soldiers called ""Ideal Children (IC)"". Sam Coyne is a trader in a desert. One day, he saves a beautiful woman Maya, who has been chased by Theseus, a corps of IC. He shelters her in his trade ship, but the destroyers of Theseus surround Sam and Maya."	[]	['Mimei', 'Maya', 'Coyne, Sam', 'Bainas', 'Coyne, Dick', 'Gaira, Gido', 'Tom', 'Noguchi, Luna', 'Rafu, Bokus', 'Gii, Ejiboura']	['Fujimura, Ayumi', 'Tanaka, Rie', 'Kakihara, Tetsuya', 'Tanaka, Atsuko', 'Hayami, Show', 'Horie, Kazuma', 'Uran, Sakiko', 'Fujinuma, Kento', 'Sakurai, Toshiharu']	[['Takahashi, Ryousuke', 'Director'], ['Ikezoe, Takahiro', 'Director, Episode Director, Storyboard'], ['Kameyama, Toshiki', 'Sound Director'], ['Takegami, Junki', 'Script, Series Composition']]

@@ -1,15 +1,2 @@
-animeTitle	Aoi Blink
-animeType	TV
-animeNumEpisode	39
-releaseDate	1989-04-07 00:00:00
-endDate	1990-03-16 00:00:00
-animeNumMembers	1672
-animeScore	6.76
-animeUsers	603
-animeRank	4785
-animePopularity	9904
-animeDescription	Story of a young boy named Kakeru and his adventures together with a magical blue pony named Blink.
-animeRelated	[]
-animeCharacters	['Blink', 'Tanba', 'Shiki, Kakeru', 'Satch', 'Kirara', 'Nitch']
-animeVoices	['Nozawa, Masako', 'Yoshimura, You', 'Itou, Miki', 'Ogata, Kenichi']
-animeStaff	[['Suzuki, Takuo', 'Storyboard'], ['Takagi, Shinji', 'Storyboard'], ['Asada, Yuuji', 'Storyboard'], ['Ishiguro, Megumu', 'Storyboard, Animation Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Aoi Blink	TV	39	1989-04-07 00:00:00	1990-03-16 00:00:00	1672	6.76	603	4785	9904	Story of a young boy named Kakeru and his adventures together with a magical blue pony named Blink.	[]	['Blink', 'Tanba', 'Shiki, Kakeru', 'Satch', 'Kirara', 'Nitch']	['Nozawa, Masako', 'Yoshimura, You', 'Itou, Miki', 'Ogata, Kenichi']	[['Suzuki, Takuo', 'Storyboard'], ['Takagi, Shinji', 'Storyboard'], ['Asada, Yuuji', 'Storyboard'], ['Ishiguro, Megumu', 'Storyboard, Animation Director']]

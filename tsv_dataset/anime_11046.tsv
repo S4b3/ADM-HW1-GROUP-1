@@ -1,17 +1,4 @@
-animeTitle	Omake
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2003-01-01 00:00:00
-endDate	
-animeNumMembers	642
-animeScore	5.23
-animeUsers	333
-animeRank	11046
-animePopularity	12303
-animeDescription	"Some short pieces of funny animations and penakisticope.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Omake	Movie	1	2003-01-01 00:00:00		642	5.23	333	11046	12303	"Some short pieces of funny animations and penakisticope.
 
-(Source: Yamamura Animation)"
-animeRelated	[]
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+(Source: Yamamura Animation)"	[]	[]	[]	[]

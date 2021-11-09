@@ -1,15 +1,2 @@
-animeTitle	New Initial D Movie: Legend 1 - Kakusei
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2014-08-24 00:00:00
-endDate	
-animeNumMembers	28329
-animeScore	7.77
-animeUsers	13865
-animeRank	904
-animePopularity	3392
-animeDescription	The first movie in a trilogy, focusing on the battle against the Takahashi brothers.
-animeRelated	['Initial D', 'Initial D First Stage', 'New Initial D Movie: Legend 2 - Tousou']
-animeCharacters	['Fujiwara, Takumi', 'Fujiwara, Bunta', 'Takahashi, Ryousuke', 'Takahashi, Keisuke', 'Takeuchi, Itsuki', 'Nakazato, Takeshi', 'Iketani, Kouichirou', 'Mogi, Natsuki', 'Tachibana, Yuuichi', 'Kenji']
-animeVoices	['Miyano, Mamoru', 'Hirata, Hiroaki', 'Ono, Daisuke', 'Nakamura, Yuuichi', 'Shiraishi, Minoru', 'Suwabe, Junichi', 'Tsuchida, Hiroshi', 'Uchida, Maaya', 'Shimura, Tomoyuki', 'Katsu, Anri']
-animeStaff	[['Hidaka, Masamitsu', 'Director'], ['Sekijima, Mayori', 'Script'], ['Kawamura, Ryuuichi', 'Theme Song Composition, Theme Song Performance, Theme Song Lyrics'], ['Shigeno, Shuuichi', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+New Initial D Movie: Legend 1 - Kakusei	Movie	1	2014-08-24 00:00:00		28329	7.77	13865	904	3392	The first movie in a trilogy, focusing on the battle against the Takahashi brothers.	['Initial D', 'Initial D First Stage', 'New Initial D Movie: Legend 2 - Tousou']	['Fujiwara, Takumi', 'Fujiwara, Bunta', 'Takahashi, Ryousuke', 'Takahashi, Keisuke', 'Takeuchi, Itsuki', 'Nakazato, Takeshi', 'Iketani, Kouichirou', 'Mogi, Natsuki', 'Tachibana, Yuuichi', 'Kenji']	['Miyano, Mamoru', 'Hirata, Hiroaki', 'Ono, Daisuke', 'Nakamura, Yuuichi', 'Shiraishi, Minoru', 'Suwabe, Junichi', 'Tsuchida, Hiroshi', 'Uchida, Maaya', 'Shimura, Tomoyuki', 'Katsu, Anri']	[['Hidaka, Masamitsu', 'Director'], ['Sekijima, Mayori', 'Script'], ['Kawamura, Ryuuichi', 'Theme Song Composition, Theme Song Performance, Theme Song Lyrics'], ['Shigeno, Shuuichi', 'Original Creator']]

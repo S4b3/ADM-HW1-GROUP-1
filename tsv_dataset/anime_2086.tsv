@@ -1,15 +1,2 @@
-animeTitle	Yuyushiki
-animeType	TV
-animeNumEpisode	12
-releaseDate	2013-04-10 00:00:00
-endDate	2013-06-26 00:00:00
-animeNumMembers	94933
-animeScore	7.37
-animeUsers	34718
-animeRank	2086
-animePopularity	1691
-animeDescription	The story follows the school life of the three girls, Yuzuko, Yukari, and Yui, who join their high school's Data Processing Club. The odd friendship between the three make for wacky humor in even the most mundane of events.
-animeRelated	['Yuyushiki', 'Yuyushiki: Nyanyashiki', 'Yuyushiki: Komarasetari, Komarasaretari']
-animeCharacters	['Ichii, Yui', 'Nonohara, Yuzuko', 'Hinata, Yukari', 'Aikawa, Chiho', 'Hasegawa, Fumi', 'Matsumoto, Yoriko', 'Okano, Kei', 'Aikawa, Mother', 'Ichii, Mother']
-animeVoices	['Tsuda, Minami', 'Ookubo, Rumi', 'Taneda, Risa', 'Kayano, Ai', 'Shimizu, Mana', 'Horie, Yui', 'Han, Megumi', 'Ueda, Kana', 'Kakazu, Yumi']
-animeStaff	[['Ogura, Mitsutoshi', 'Producer'], ['Kaori', 'Director, Episode Director, Script, Storyboard'], ['Aketagawa, Jin', 'Sound Director'], ['Tachibana, Masaki', 'Episode Director, Storyboard, Key Animation, 2nd Key Animation']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Yuyushiki	TV	12	2013-04-10 00:00:00	2013-06-26 00:00:00	94933	7.37	34718	2086	1691	The story follows the school life of the three girls, Yuzuko, Yukari, and Yui, who join their high school's Data Processing Club. The odd friendship between the three make for wacky humor in even the most mundane of events.	['Yuyushiki', 'Yuyushiki: Nyanyashiki', 'Yuyushiki: Komarasetari, Komarasaretari']	['Ichii, Yui', 'Nonohara, Yuzuko', 'Hinata, Yukari', 'Aikawa, Chiho', 'Hasegawa, Fumi', 'Matsumoto, Yoriko', 'Okano, Kei', 'Aikawa, Mother', 'Ichii, Mother']	['Tsuda, Minami', 'Ookubo, Rumi', 'Taneda, Risa', 'Kayano, Ai', 'Shimizu, Mana', 'Horie, Yui', 'Han, Megumi', 'Ueda, Kana', 'Kakazu, Yumi']	[['Ogura, Mitsutoshi', 'Producer'], ['Kaori', 'Director, Episode Director, Script, Storyboard'], ['Aketagawa, Jin', 'Sound Director'], ['Tachibana, Masaki', 'Episode Director, Storyboard, Key Animation, 2nd Key Animation']]

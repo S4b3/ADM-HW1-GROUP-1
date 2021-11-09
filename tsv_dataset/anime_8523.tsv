@@ -1,15 +1,2 @@
-animeTitle	Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu Specials
-animeType	Special
-animeNumEpisode	5
-releaseDate	2012-11-30 00:00:00
-endDate	2013-03-29 00:00:00
-animeNumMembers	4293
-animeScore	6.03
-animeUsers	1711
-animeRank	8523
-animePopularity	7454
-animeDescription	BD/DVD specials.
-animeRelated	['Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu']
-animeCharacters	['Kanamori, Hakata', 'Todayama, Kyouko', 'Oomori, Shouko', 'Ooba, Hasumi', 'Iseda, Yuka', 'Noya, Itsuki', 'Todayama, Izumiko', 'Hiromatsu, Rikei']
-animeVoices	['Nishi, Asuka', 'Asumi, Kana', 'Nazuka, Kaori', 'Satou, Satomi', 'Tsukimiya, Midori', 'Ise, Mariya', 'Nomizu, Iori', 'Murai, Risako']
-animeStaff	[['SCA-DI', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu Specials	Special	5	2012-11-30 00:00:00	2013-03-29 00:00:00	4293	6.03	1711	8523	7454	BD/DVD specials.	['Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu']	['Kanamori, Hakata', 'Todayama, Kyouko', 'Oomori, Shouko', 'Ooba, Hasumi', 'Iseda, Yuka', 'Noya, Itsuki', 'Todayama, Izumiko', 'Hiromatsu, Rikei']	['Nishi, Asuka', 'Asumi, Kana', 'Nazuka, Kaori', 'Satou, Satomi', 'Tsukimiya, Midori', 'Ise, Mariya', 'Nomizu, Iori', 'Murai, Risako']	[['SCA-DI', 'Original Creator']]

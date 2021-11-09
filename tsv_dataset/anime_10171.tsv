@@ -1,21 +1,8 @@
-animeTitle	Babyshiba
-animeType	Special
-animeNumEpisode	7
-releaseDate	2011-01-01 00:00:00
-endDate	2020-02-20 00:00:00
-animeNumMembers	538
-animeScore	5.56
-animeUsers	233
-animeRank	10171
-animePopularity	12771
-animeDescription	"The Mameshiba family has grown with their infant counterparts.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Babyshiba	Special	7	2011-01-01 00:00:00	2020-02-20 00:00:00	538	5.56	233	10171	12771	"The Mameshiba family has grown with their infant counterparts.
 
 Contains:
 2 Babyshiba Fruits commercials
 2 Babyshiba Sweets commercials
 2 Babyshiba claymation commercials
-1 Babyshiba Fruits claymation commercial"
-animeRelated	['Mameshiba']
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+1 Babyshiba Fruits claymation commercial"	['Mameshiba']	[]	[]	[]

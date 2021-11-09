@@ -1,15 +1,2 @@
-animeTitle	_Summer Specials
-animeType	Special
-animeNumEpisode	2
-releaseDate	2006-10-27 00:00:00
-endDate	2007-01-26 00:00:00
-animeNumMembers	3015
-animeScore	5.35
-animeUsers	1434
-animeRank	10788
-animePopularity	8364
-animeDescription	Short specials involving the characters from the main series.
-animeRelated	['_Summer']
-animeCharacters	['Amano, Chiwa', 'Kaizu, Sana', 'Hatano, Konami', 'Kaizu, Takumi', 'Ebizuka, Shino']
-animeVoices	['Kondou, Takashi']
-animeStaff	[['HOOKSOFT', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+_Summer Specials	Special	2	2006-10-27 00:00:00	2007-01-26 00:00:00	3015	5.35	1434	10788	8364	Short specials involving the characters from the main series.	['_Summer']	['Amano, Chiwa', 'Kaizu, Sana', 'Hatano, Konami', 'Kaizu, Takumi', 'Ebizuka, Shino']	['Kondou, Takashi']	[['HOOKSOFT', 'Original Creator']]

@@ -1,15 +1,2 @@
-animeTitle	Cyborg 009
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1966-07-21 00:00:00
-endDate	
-animeNumMembers	2859
-animeScore	6.06
-animeUsers	962
-animeRank	8370
-animePopularity	8512
-animeDescription	Original Cyborg 009 1966 movie based on the manga. Features 009's origin and an epic battle against Black Ghost and their evil robot forces.
-animeRelated	['Cyborg 009', 'Cyborg 009 (1979)', 'Cyborg 009 (TV)', 'Cyborg 009: Kaijuu Sensou']
-animeCharacters	['Shimamura, Joe', 'Heinrich, Albert', 'Link, Jet', 'Arnoul, Françoise', 'Great Britain', 'Whisky, Ivan', 'Changku, Chang', 'Gilmore, Isaac']
-animeVoices	['Soga, Machiko']
-animeStaff	[['Serikawa, Yuugo', 'Director, Script'], ['Ishinomori, Shoutarou', 'Original Creator'], ['Kosugi, Taichirou', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Cyborg 009	Movie	1	1966-07-21 00:00:00		2859	6.06	962	8370	8512	Original Cyborg 009 1966 movie based on the manga. Features 009's origin and an epic battle against Black Ghost and their evil robot forces.	['Cyborg 009', 'Cyborg 009 (1979)', 'Cyborg 009 (TV)', 'Cyborg 009: Kaijuu Sensou']	['Shimamura, Joe', 'Heinrich, Albert', 'Link, Jet', 'Arnoul, Françoise', 'Great Britain', 'Whisky, Ivan', 'Changku, Chang', 'Gilmore, Isaac']	['Soga, Machiko']	[['Serikawa, Yuugo', 'Director, Script'], ['Ishinomori, Shoutarou', 'Original Creator'], ['Kosugi, Taichirou', 'Music']]

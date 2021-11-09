@@ -1,17 +1,4 @@
-animeTitle	Lupin tai Holmes
-animeType	Special
-animeNumEpisode	1
-releaseDate	1981-05-05 00:00:00
-endDate	
-animeNumMembers	803
-animeScore	5.97
-animeUsers	145
-animeRank	8795
-animePopularity	11712
-animeDescription	"Based on a story by Maurice Leblanc. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Lupin tai Holmes	Special	1	1981-05-05 00:00:00		803	5.97	145	8795	11712	"Based on a story by Maurice Leblanc. 
 
-"
-animeRelated	['Kaitou Lupin: 813 no Nazo']
-animeCharacters	['Holmes, Sherlock']
-animeVoices	['Yamashiro, Shingo']
-animeStaff	[['Leblanc, Maurice', 'Original Creator'], ['Kishi, Yoshiyuki', 'Animation Director, Character Design'], ['Tamaki, Hiroki', 'Music']]
+"	['Kaitou Lupin: 813 no Nazo']	['Holmes, Sherlock']	['Yamashiro, Shingo']	[['Leblanc, Maurice', 'Original Creator'], ['Kishi, Yoshiyuki', 'Animation Director, Character Design'], ['Tamaki, Hiroki', 'Music']]

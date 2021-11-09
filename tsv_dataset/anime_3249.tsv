@@ -1,14 +1,5 @@
-animeTitle	.hack//G.U. Trilogy
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2007-12-22 00:00:00
-endDate	
-animeNumMembers	30314
-animeScore	7.12
-animeUsers	13678
-animeRank	3249
-animePopularity	3264
-animeDescription	"Based on the CyberConnect2 HIT GAME, now will be released in a CG Movie!
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+.hack//G.U. Trilogy	Movie	1	2007-12-22 00:00:00		30314	7.12	13678	3249	3264	"Based on the CyberConnect2 HIT GAME, now will be released in a CG Movie!
 
 The Movie will be placed in the storyline of each .hack//G.U. games trilogy. The story follows Haseo, a player in the online MMORPG called The World:R2 at first depicted as a PKK (Player Killer Killer) known as the ""Terror of Death"", a former member of the disbanded Twilight Brigade guild. Haseo encounters Azure Kite (believing him to be Tri-Edge and blaming him for what happened to Shino) but is hopelessly outmatched. Azure Kite easily defeats Haseo and Data Drains him, reducing his level from 133 to 1 and leaving him without any items, weapons, or member addresses. He is left with a mystery on his hands as to the nature of the Data Drain and why Azure Kite is in possession of such a skill.
 
@@ -16,8 +7,4 @@ Eventually Haseo gains the ""Avatar"" of Skeith. Acquiring the ability to call S
 
 He is seen seeking out a PK (Player Killer) known as Tri-Edge, whose victims supposedly are unable to return to The World after he PKs them. Haseo's friend, Shino, was attacked six months prior to the events of the game by Tri-Edge, and the player herself, Shino Nanao, was left in a coma.
 
-(Source: AniDB)"
-animeRelated	['.hack//Roots', '.hack//G.U. Returner', '.hack//G.U. Trilogy: Parody Mode', 'Daitai 3-pun de Wakaru .hack History']
-animeCharacters	['Haseo', 'Ovan', 'Atoli', 'Shino', 'Azure Kite', 'Yowkow', 'Aura', 'Silabus', 'Kuhn', 'Asta']
-animeVoices	['Sakurai, Takahiro', 'Touchi, Hiroki', 'Kawasumi, Ayako', 'Nazuka, Kaori', 'Aida, Sayaka', 'Asano, Masumi', 'Sakamoto, Maaya', 'Sakaguchi, Daisuke', 'Miki, Shinichiro', 'Honna, Youko']
-animeStaff	[['Morimoto, Kouji', 'Producer'], ['Matsuyama, Hiroshi', 'Director'], ['Sadamoto, Yoshiyuki', 'Original Character Design'], ['Fukuda, Chikayo', 'Music']]
+(Source: AniDB)"	['.hack//Roots', '.hack//G.U. Returner', '.hack//G.U. Trilogy: Parody Mode', 'Daitai 3-pun de Wakaru .hack History']	['Haseo', 'Ovan', 'Atoli', 'Shino', 'Azure Kite', 'Yowkow', 'Aura', 'Silabus', 'Kuhn', 'Asta']	['Sakurai, Takahiro', 'Touchi, Hiroki', 'Kawasumi, Ayako', 'Nazuka, Kaori', 'Aida, Sayaka', 'Asano, Masumi', 'Sakamoto, Maaya', 'Sakaguchi, Daisuke', 'Miki, Shinichiro', 'Honna, Youko']	[['Morimoto, Kouji', 'Producer'], ['Matsuyama, Hiroshi', 'Director'], ['Sadamoto, Yoshiyuki', 'Original Character Design'], ['Fukuda, Chikayo', 'Music']]

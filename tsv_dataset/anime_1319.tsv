@@ -1,17 +1,4 @@
-animeTitle	Sengoku Basara Movie: The Last Party
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2011-06-04 00:00:00
-endDate	
-animeNumMembers	26989
-animeScore	7.6
-animeUsers	12902
-animeRank	1319
-animePopularity	3467
-animeDescription	"The story of the film is set after the conflict instigated by Toyotomi Hideyoshi ended, but not before the Battle of Sekigahara determines who shall be the Shogun of Japan.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Sengoku Basara Movie: The Last Party	Movie	1	2011-06-04 00:00:00		26989	7.6	12902	1319	3467	"The story of the film is set after the conflict instigated by Toyotomi Hideyoshi ended, but not before the Battle of Sekigahara determines who shall be the Shogun of Japan.
 
-(Source: ANN)"
-animeRelated	['Sengoku Basara Ni', 'Sengoku Basara Movie: 4-Koma Gekijou - Another Last Party', 'Sengoku Basara: Judge End']
-animeCharacters	['Date, Masamune', 'Sanada, Yukimura', 'Ishida, Mitsunari', 'Tokugawa, Ieyasu', 'Chousokabe, Motochika', 'Katakura, Kojuurou', 'Sarutobi, Sasuke', 'Mouri, Motonari', 'Maeda, Keiji', 'Oda, Nobunaga']
-animeVoices	['Nakai, Kazuya', 'Hoshi, Souichirou', 'Seki, Tomokazu', 'Ookawa, Tooru', 'Ishino, Ryuuzou', 'Morikawa, Toshiyuki', 'Koyasu, Takehito', 'Nakahara, Shigeru', 'Morita, Masakazu', 'Wakamoto, Norio']
-animeStaff	[['Wada, Jouji', 'Producer'], ['Nozaki, Keiichi', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Kuroki, Rui', 'Assistant Producer, Associate Producer']]
+(Source: ANN)"	['Sengoku Basara Ni', 'Sengoku Basara Movie: 4-Koma Gekijou - Another Last Party', 'Sengoku Basara: Judge End']	['Date, Masamune', 'Sanada, Yukimura', 'Ishida, Mitsunari', 'Tokugawa, Ieyasu', 'Chousokabe, Motochika', 'Katakura, Kojuurou', 'Sarutobi, Sasuke', 'Mouri, Motonari', 'Maeda, Keiji', 'Oda, Nobunaga']	['Nakai, Kazuya', 'Hoshi, Souichirou', 'Seki, Tomokazu', 'Ookawa, Tooru', 'Ishino, Ryuuzou', 'Morikawa, Toshiyuki', 'Koyasu, Takehito', 'Nakahara, Shigeru', 'Morita, Masakazu', 'Wakamoto, Norio']	[['Wada, Jouji', 'Producer'], ['Nozaki, Keiichi', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Kuroki, Rui', 'Assistant Producer, Associate Producer']]

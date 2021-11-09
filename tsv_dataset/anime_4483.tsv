@@ -1,17 +1,4 @@
-animeTitle	Atom: The Beginning
-animeType	TV
-animeNumEpisode	12
-releaseDate	2017-04-15 00:00:00
-endDate	2017-07-08 00:00:00
-animeNumMembers	28326
-animeScore	6.83
-animeUsers	9846
-animeRank	4483
-animePopularity	3390
-animeDescription	"Japan in the near future suffers an unexplained major disaster. Five years later, reconstruction is well underway. Two young researchers at a university are pinning all their hopes on robot development. Now their new interpretation of the eternal hero Astro Boy up until his birth is just about to start!
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Atom: The Beginning	TV	12	2017-04-15 00:00:00	2017-07-08 00:00:00	28326	6.83	9846	4483	3390	"Japan in the near future suffers an unexplained major disaster. Five years later, reconstruction is well underway. Two young researchers at a university are pinning all their hopes on robot development. Now their new interpretation of the eternal hero Astro Boy up until his birth is just about to start!
 
-(Source: Showgate)"
-animeRelated	['Atom: The Beginning', 'Astro Boy: Tetsuwan Atom', 'Tetsuwan Atom', 'Tetsuwan Atom (1980)']
-animeCharacters	['Tenma, Umatarou', 'A106', 'Dr. Ochanomizu', 'Hige Oyaji', 'Honma, Joutarou', 'Ochanomizu, Ran', 'Tsutsumi, Motoko', 'Tsutsumi, Moriya']
-animeVoices	['Nakamura, Yuuichi', 'Inoue, Yuuki', 'Terashima, Takuma', 'Tobita, Nobuo', 'Sakura, Ayane', 'Komatsu, Mikako', 'Sakurai, Takahiro']
-animeStaff	[['Satou, Tatsuo', 'Director'], ['Motohiro, Katsuyuki', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Matsukawa, Tomohiro', 'Episode Director, Storyboard']]
+(Source: Showgate)"	['Atom: The Beginning', 'Astro Boy: Tetsuwan Atom', 'Tetsuwan Atom', 'Tetsuwan Atom (1980)']	['Tenma, Umatarou', 'A106', 'Dr. Ochanomizu', 'Hige Oyaji', 'Honma, Joutarou', 'Ochanomizu, Ran', 'Tsutsumi, Motoko', 'Tsutsumi, Moriya']	['Nakamura, Yuuichi', 'Inoue, Yuuki', 'Terashima, Takuma', 'Tobita, Nobuo', 'Sakura, Ayane', 'Komatsu, Mikako', 'Sakurai, Takahiro']	[['Satou, Tatsuo', 'Director'], ['Motohiro, Katsuyuki', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Matsukawa, Tomohiro', 'Episode Director, Storyboard']]

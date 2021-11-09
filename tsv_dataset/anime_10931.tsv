@@ -1,15 +1,2 @@
-animeTitle	Hoshi no Orpheus
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1979-10-27 00:00:00
-endDate	
-animeNumMembers	793
-animeScore	5.29
-animeUsers	214
-animeRank	10931
-animePopularity	11732
-animeDescription	"A magical blending of old and new, with colorful animation and an exciting disco/rock musical score, ""Winds of Change"" is a re-telling of 5 ancient Greek myths. These delightful cautionary tales are adapted from the classical author, Ovid, with a new character, called Wondermaker added. Wondermaker acts as our guide to each episode's meaning, and transforms himself into each of its heroes. First, he is Perseus cutting off the head of Medusa; then, Actaeon being turned into a deer for spying on the goddess Diana as she bathes; the god Mercury in a tale of envy; Orpheus descending into Hades for his love, Eurydice; and finally, Phaeton wreaking havoc with the sun-god's chariot."
-animeRelated	[]
-animeCharacters	['Narrator']
-animeVoices	['Itami, Juuzou']
-animeStaff	[['Hata, Masami', 'Key Animation'], ['Abe, Yukio', 'Background Art'], ['Tsuji, Shintarou', 'Executive Producer']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Hoshi no Orpheus	Movie	1	1979-10-27 00:00:00		793	5.29	214	10931	11732	"A magical blending of old and new, with colorful animation and an exciting disco/rock musical score, ""Winds of Change"" is a re-telling of 5 ancient Greek myths. These delightful cautionary tales are adapted from the classical author, Ovid, with a new character, called Wondermaker added. Wondermaker acts as our guide to each episode's meaning, and transforms himself into each of its heroes. First, he is Perseus cutting off the head of Medusa; then, Actaeon being turned into a deer for spying on the goddess Diana as she bathes; the god Mercury in a tale of envy; Orpheus descending into Hades for his love, Eurydice; and finally, Phaeton wreaking havoc with the sun-god's chariot."	[]	['Narrator']	['Itami, Juuzou']	[['Hata, Masami', 'Key Animation'], ['Abe, Yukio', 'Background Art'], ['Tsuji, Shintarou', 'Executive Producer']]

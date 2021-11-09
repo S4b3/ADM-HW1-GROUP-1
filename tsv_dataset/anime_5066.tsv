@@ -1,17 +1,4 @@
-animeTitle	.hack//G.U. Returner
-animeType	OVA
-animeNumEpisode	1
-releaseDate	2007-01-18 00:00:00
-endDate	
-animeNumMembers	20270
-animeScore	6.7
-animeUsers	8616
-animeRank	5066
-animePopularity	3967
-animeDescription	"The characters from previous .hack//G.U. Games and .hack//Roots receive an email from Ovan. He is requesting them to go to Hidden Forbidden Festival where is set up a mysterious summer festival. There they find an AIDA Chim Chim who wishes to peacefully co-exist with the other players of The World. It then transforms into the word ""Returner"", so they assume it to mean that Ovan will return to The World.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+.hack//G.U. Returner	OVA	1	2007-01-18 00:00:00		20270	6.7	8616	5066	3967	"The characters from previous .hack//G.U. Games and .hack//Roots receive an email from Ovan. He is requesting them to go to Hidden Forbidden Festival where is set up a mysterious summer festival. There they find an AIDA Chim Chim who wishes to peacefully co-exist with the other players of The World. It then transforms into the word ""Returner"", so they assume it to mean that Ovan will return to The World.
 
-(Source: ANN)"
-animeRelated	['.hack//Sign', '.hack//Roots', '.hack//G.U. Trilogy']
-animeCharacters	['Haseo', 'Ovan', 'Atoli', 'Shino', 'Endrance', 'Tabby', 'Silabus', 'Kuhn', 'Pi', 'Aina']
-animeVoices	['Sakurai, Takahiro', 'Touchi, Hiroki', 'Kawasumi, Ayako', 'Nazuka, Kaori', 'Saiga, Mitsuki', 'Toyoguchi, Megumi', 'Sakaguchi, Daisuke', 'Miki, Shinichiro', 'Kobayashi, Sanae', 'Enomoto, Atsuko']
-animeStaff	[['Morimoto, Kouji', 'Producer'], ['Mashimo, Kouichi', 'Director'], ['Nakano, Tooru', 'Sound Director'], ['Kawasaki, Miu', 'Script, Screenplay']]
+(Source: ANN)"	['.hack//Sign', '.hack//Roots', '.hack//G.U. Trilogy']	['Haseo', 'Ovan', 'Atoli', 'Shino', 'Endrance', 'Tabby', 'Silabus', 'Kuhn', 'Pi', 'Aina']	['Sakurai, Takahiro', 'Touchi, Hiroki', 'Kawasumi, Ayako', 'Nazuka, Kaori', 'Saiga, Mitsuki', 'Toyoguchi, Megumi', 'Sakaguchi, Daisuke', 'Miki, Shinichiro', 'Kobayashi, Sanae', 'Enomoto, Atsuko']	[['Morimoto, Kouji', 'Producer'], ['Mashimo, Kouichi', 'Director'], ['Nakano, Tooru', 'Sound Director'], ['Kawasaki, Miu', 'Script, Screenplay']]

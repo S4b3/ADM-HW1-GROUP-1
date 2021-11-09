@@ -1,15 +1,2 @@
-animeTitle	Maken-Ki! Specials
-animeType	Special
-animeNumEpisode	6
-releaseDate	2011-12-21 00:00:00
-endDate	2012-05-25 00:00:00
-animeNumMembers	28228
-animeScore	6.18
-animeUsers	12196
-animeRank	7784
-animePopularity	3395
-animeDescription	"Each of the six volumes of the Maken-Ki! Blu-rays will carry a 10 minute long short anime ""Doki Doki! Maken-ki! Himitsu no Kunren"". Secret trainings with the main characters will be animated."
-animeRelated	['Maken-Ki!']
-animeCharacters	['Nijou, Aki', 'Himegami, Kodama', 'Amaya, Haruko', 'Kushiya, Inaho', 'Shinatsu, Azuki', 'Ootsuka, Celia']
-animeVoices	['Harada, Hitomi', 'Yahagi, Sayuri', 'Shitaya, Noriko', 'Nomizu, Iori', 'Togashi, Misuzu', 'Ise, Mariya']
-animeStaff	[['Hasegawa, Yasuo', 'Producer'], ['Takeda, Hiromitsu', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Maken-Ki! Specials	Special	6	2011-12-21 00:00:00	2012-05-25 00:00:00	28228	6.18	12196	7784	3395	"Each of the six volumes of the Maken-Ki! Blu-rays will carry a 10 minute long short anime ""Doki Doki! Maken-ki! Himitsu no Kunren"". Secret trainings with the main characters will be animated."	['Maken-Ki!']	['Nijou, Aki', 'Himegami, Kodama', 'Amaya, Haruko', 'Kushiya, Inaho', 'Shinatsu, Azuki', 'Ootsuka, Celia']	['Harada, Hitomi', 'Yahagi, Sayuri', 'Shitaya, Noriko', 'Nomizu, Iori', 'Togashi, Misuzu', 'Ise, Mariya']	[['Hasegawa, Yasuo', 'Producer'], ['Takeda, Hiromitsu', 'Original Creator']]

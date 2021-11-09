@@ -1,15 +1,2 @@
-animeTitle	Panda no Daibouken
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1973-03-17 00:00:00
-endDate	
-animeNumMembers	614
-animeScore	6.03
-animeUsers	223
-animeRank	8505
-animePopularity	12407
-animeDescription	This movie, another from the older production from Toei Animetion for children, follows the adventures from a little panda that leaves his current family and wants to travel.
-animeRelated	[]
-animeCharacters	['Narrator']
-animeVoices	[]
-animeStaff	[['Columbia Yurikago Kai', 'Theme Song Lyrics'], ['Mori, Yasuji', 'Key Animation'], ['Noda, Takuo', 'Key Animation'], ['Yamaura, Hiroyasu', 'Screenplay']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Panda no Daibouken	Movie	1	1973-03-17 00:00:00		614	6.03	223	8505	12407	This movie, another from the older production from Toei Animetion for children, follows the adventures from a little panda that leaves his current family and wants to travel.	[]	['Narrator']	[]	[['Columbia Yurikago Kai', 'Theme Song Lyrics'], ['Mori, Yasuji', 'Key Animation'], ['Noda, Takuo', 'Key Animation'], ['Yamaura, Hiroyasu', 'Screenplay']]

@@ -1,15 +1,2 @@
-animeTitle	Berserk Recap
-animeType	Special
-animeNumEpisode	1
-releaseDate	2017-03-03 00:00:00
-endDate	
-animeNumMembers	11567
-animeScore	6.02
-animeUsers	4923
-animeRank	8541
-animePopularity	5030
-animeDescription	Recap episode of Berserk.
-animeRelated	['Berserk']
-animeCharacters	['Guts', 'Casca', 'Griffith', 'Schierke', 'The Skull Knight', 'Puck', 'Serpico', 'de Vandimion, Farnese', 'Nosferatu, Zodd', 'Isidro']
-animeVoices	['Iwanaga, Hiroaki', 'Yukinari, Toa', 'Saitou, Chiwa', 'Mizuhara, Kaoru', 'Okitsu, Kazuyuki', 'Hikasa, Youko', 'Shimono, Hiro']
-animeStaff	[['9mm Parabellum Bullet', 'Theme Song Lyrics'], ['Miura, Kentarou', 'Original Creator'], ['Hirasawa, Susumu', 'Inserted Song Performance'], ['Sagisu, Shirou', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Berserk Recap	Special	1	2017-03-03 00:00:00		11567	6.02	4923	8541	5030	Recap episode of Berserk.	['Berserk']	['Guts', 'Casca', 'Griffith', 'Schierke', 'The Skull Knight', 'Puck', 'Serpico', 'de Vandimion, Farnese', 'Nosferatu, Zodd', 'Isidro']	['Iwanaga, Hiroaki', 'Yukinari, Toa', 'Saitou, Chiwa', 'Mizuhara, Kaoru', 'Okitsu, Kazuyuki', 'Hikasa, Youko', 'Shimono, Hiro']	[['9mm Parabellum Bullet', 'Theme Song Lyrics'], ['Miura, Kentarou', 'Original Creator'], ['Hirasawa, Susumu', 'Inserted Song Performance'], ['Sagisu, Shirou', 'Music']]

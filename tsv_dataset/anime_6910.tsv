@@ -1,17 +1,4 @@
-animeTitle	Sentimental Journey
-animeType	TV
-animeNumEpisode	12
-releaseDate	1998-04-08 00:00:00
-endDate	1998-07-01 00:00:00
-animeNumMembers	2922
-animeScore	6.35
-animeUsers	674
-animeRank	6910
-animePopularity	8450
-animeDescription	"Sentimental Journey is a collection of twelve short stories about twelve different girls. Though unrelated, there is one common theme that binds the episodes together: each girl's bittersweet experience of first love. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Sentimental Journey	TV	12	1998-04-08 00:00:00	1998-07-01 00:00:00	2922	6.35	674	6910	8450	"Sentimental Journey is a collection of twelve short stories about twelve different girls. Though unrelated, there is one common theme that binds the episodes together: each girl's bittersweet experience of first love. 
 
-(Source: ANN)"
-animeRelated	[]
-animeCharacters	['Endou, Akira', 'Sugihara, Manami', 'Morii, Kaho', 'Adachi, Taeko', 'Sawatari, Honoka', 'Ayasaki, Wakana', 'Hoshino, Asuka', 'Matsuoka, Chie', 'Nanase, Yuu', 'Nagakura, Emiru']
-animeVoices	['Suzuki, Urarako', 'Toyoshima, Machiko', 'Mannaka, Yukiko', 'Okada, Junko', 'Suzuki, Mariko', 'Oda, Michiko', 'Okamoto, Asami', 'Yonemoto, Chizu', 'Nishiguchi, Yuka', 'Maeda, Ai']
-animeStaff	[['Katayama, Kazuyoshi', 'Director'], ['Arakawa, Naruhisa', 'Script'], ['Yoshinaga, Naoyuki', 'Storyboard'], ['Yamane, Masahiro', 'Key Animation']]
+(Source: ANN)"	[]	['Endou, Akira', 'Sugihara, Manami', 'Morii, Kaho', 'Adachi, Taeko', 'Sawatari, Honoka', 'Ayasaki, Wakana', 'Hoshino, Asuka', 'Matsuoka, Chie', 'Nanase, Yuu', 'Nagakura, Emiru']	['Suzuki, Urarako', 'Toyoshima, Machiko', 'Mannaka, Yukiko', 'Okada, Junko', 'Suzuki, Mariko', 'Oda, Michiko', 'Okamoto, Asami', 'Yonemoto, Chizu', 'Nishiguchi, Yuka', 'Maeda, Ai']	[['Katayama, Kazuyoshi', 'Director'], ['Arakawa, Naruhisa', 'Script'], ['Yoshinaga, Naoyuki', 'Storyboard'], ['Yamane, Masahiro', 'Key Animation']]

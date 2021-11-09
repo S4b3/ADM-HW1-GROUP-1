@@ -1,17 +1,4 @@
-animeTitle	.hack//Gift
-animeType	OVA
-animeNumEpisode	1
-releaseDate	2003-11-16 00:00:00
-endDate	
-animeNumMembers	19648
-animeScore	6.13
-animeUsers	9199
-animeRank	8024
-animePopularity	4012
-animeDescription	"As an expression of gratitude for the heroes of both the "".hack//Sign"" and the "".hack"" game series, Helba has prepared a special event for all the characters to find the newly established ""Twilight Hot Springs."" The characters can get their well deserved rest and relaxation by having a soak in the wonderful hot springs, but there is only one problem—the hot springs are hidden and there have been mysterious player murders. With the only clue being the word “GIFT,"" the race has begun to find the culprit and the location of the hot springs.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+.hack//Gift	OVA	1	2003-11-16 00:00:00		19648	6.13	9199	8024	4012	"As an expression of gratitude for the heroes of both the "".hack//Sign"" and the "".hack"" game series, Helba has prepared a special event for all the characters to find the newly established ""Twilight Hot Springs."" The characters can get their well deserved rest and relaxation by having a soak in the wonderful hot springs, but there is only one problem—the hot springs are hidden and there have been mysterious player murders. With the only clue being the word “GIFT,"" the race has begun to find the culprit and the location of the hot springs.
 
-[Written by MAL Rewrite]"
-animeRelated	['.hack//Sign', '.hack//Tasogare no Udewa Densetsu']
-animeCharacters	['Tsukasa', 'Subaru', 'Kite', 'Balmung', 'Sora', 'Mimiru', 'Bear', 'Crim', 'Blackrose', 'Aura']
-animeVoices	['Saiga, Mitsuki', 'Nazuka, Kaori', 'Aida, Sayaka', 'Hiyama, Nobuyuki', 'Yanaka, Hiroshi', 'Toyoguchi, Megumi', 'Nakata, Kazuhiro', 'Miki, Shinichiro', 'Asano, Masumi', 'Sakamoto, Maaya']
-animeStaff	[['Uchiyama, Daisuke', 'Producer'], ['Mashimo, Kouichi', 'Director'], ['Kawatsura, Shinya', 'Director, Storyboard'], ['Kajiura, Yuki', 'Theme Song Arrangement, Theme Song Lyrics, Theme Song Composition, Music']]
+[Written by MAL Rewrite]"	['.hack//Sign', '.hack//Tasogare no Udewa Densetsu']	['Tsukasa', 'Subaru', 'Kite', 'Balmung', 'Sora', 'Mimiru', 'Bear', 'Crim', 'Blackrose', 'Aura']	['Saiga, Mitsuki', 'Nazuka, Kaori', 'Aida, Sayaka', 'Hiyama, Nobuyuki', 'Yanaka, Hiroshi', 'Toyoguchi, Megumi', 'Nakata, Kazuhiro', 'Miki, Shinichiro', 'Asano, Masumi', 'Sakamoto, Maaya']	[['Uchiyama, Daisuke', 'Producer'], ['Mashimo, Kouichi', 'Director'], ['Kawatsura, Shinya', 'Director, Storyboard'], ['Kajiura, Yuki', 'Theme Song Arrangement, Theme Song Lyrics, Theme Song Composition, Music']]

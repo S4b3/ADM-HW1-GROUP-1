@@ -1,15 +1,2 @@
-animeTitle	Genshiken Nidaime Specials
-animeType	Special
-animeNumEpisode	4
-releaseDate	2013-09-04 00:00:00
-endDate	2013-12-11 00:00:00
-animeNumMembers	6835
-animeScore	6.73
-animeUsers	2310
-animeRank	4970
-animePopularity	6181
-animeDescription	Special episodes included in BD.
-animeRelated	['Genshiken', 'Genshiken Nidaime']
-animeCharacters	['Ogiue, Chika', 'Hopkins, Susanna', 'Oono, Kanako', 'Hato, Kenjirou', 'Yoshitake, Rika', 'Yajima, Mirei']
-animeVoices	['Yamamoto, Nozomi', 'Oozora, Naomi', 'Yukana', 'Yamamoto, Kazutomi', 'Uesaka, Sumire', 'Uchiyama, Yumi']
-animeStaff	[['Kio, Shimoku', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Genshiken Nidaime Specials	Special	4	2013-09-04 00:00:00	2013-12-11 00:00:00	6835	6.73	2310	4970	6181	Special episodes included in BD.	['Genshiken', 'Genshiken Nidaime']	['Ogiue, Chika', 'Hopkins, Susanna', 'Oono, Kanako', 'Hato, Kenjirou', 'Yoshitake, Rika', 'Yajima, Mirei']	['Yamamoto, Nozomi', 'Oozora, Naomi', 'Yukana', 'Yamamoto, Kazutomi', 'Uesaka, Sumire', 'Uchiyama, Yumi']	[['Kio, Shimoku', 'Original Creator']]

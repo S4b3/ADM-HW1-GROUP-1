@@ -1,19 +1,6 @@
-animeTitle	Zetman
-animeType	TV
-animeNumEpisode	13
-releaseDate	2012-04-03 00:00:00
-endDate	2012-06-26 00:00:00
-animeNumMembers	119366
-animeScore	6.87
-animeUsers	54312
-animeRank	4317
-animePopularity	1410
-animeDescription	"The story starts off with a face-off between two rival heroes, ZET and ALPHAS, and then traces their origins - Jin Kanzaki, a young man with the ability to transform into a superhuman being known as ZET, and Kouga Amagi, a young man with a strong sense of justice who uses technology to fight as ALPHAS.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Zetman	TV	13	2012-04-03 00:00:00	2012-06-26 00:00:00	119366	6.87	54312	4317	1410	"The story starts off with a face-off between two rival heroes, ZET and ALPHAS, and then traces their origins - Jin Kanzaki, a young man with the ability to transform into a superhuman being known as ZET, and Kouga Amagi, a young man with a strong sense of justice who uses technology to fight as ALPHAS.
 
 The fates of these two men and those around them intertwine as they fight to protect mankind and destroy monstrous abominations known as Players.
 
-(Source: ytv ENGLISH)"
-animeRelated	['Zetman']
-animeCharacters	['Kanzaki, Jin', 'Tanaka, Hanako', 'Amagi, Kouga', 'Amagi, Konoha', 'Haitani, Seiji', 'Kawakami, Akemi', 'Hayami', 'Hashimoto, Mayu', 'Mamoru, Kabe', 'Amagi, Youko']
-animeVoices	['Park, Romi', 'Ise, Mariya', 'Miyano, Mamoru', 'Hanazawa, Kana', 'Yusa, Kouji', 'Hayamizu, Risa', 'Suzumura, Kenichi', 'Fujimura, Ayumi', 'Kusumi, Naomi', 'Hisakawa, Aya']
-animeStaff	[['Nabeshima, Osamu', 'Director, Episode Director, Storyboard'], ['Takadera, Takeshi', 'Sound Director'], ['Harada, Nana', 'Episode Director'], ['Sakaguchi, Ryuutarou', 'Episode Director, Storyboard, Key Animation']]
+(Source: ytv ENGLISH)"	['Zetman']	['Kanzaki, Jin', 'Tanaka, Hanako', 'Amagi, Kouga', 'Amagi, Konoha', 'Haitani, Seiji', 'Kawakami, Akemi', 'Hayami', 'Hashimoto, Mayu', 'Mamoru, Kabe', 'Amagi, Youko']	['Park, Romi', 'Ise, Mariya', 'Miyano, Mamoru', 'Hanazawa, Kana', 'Yusa, Kouji', 'Hayamizu, Risa', 'Suzumura, Kenichi', 'Fujimura, Ayumi', 'Kusumi, Naomi', 'Hisakawa, Aya']	[['Nabeshima, Osamu', 'Director, Episode Director, Storyboard'], ['Takadera, Takeshi', 'Sound Director'], ['Harada, Nana', 'Episode Director'], ['Sakaguchi, Ryuutarou', 'Episode Director, Storyboard, Key Animation']]

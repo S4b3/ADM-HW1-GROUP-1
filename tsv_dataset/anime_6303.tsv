@@ -1,15 +1,2 @@
-animeTitle	Gegege no Kitarou: Nippon Bakuretsu
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2008-12-20 00:00:00
-endDate	
-animeNumMembers	1010
-animeScore	6.47
-animeUsers	302
-animeRank	6303
-animePopularity	11100
-animeDescription	Movie based on the 2007 TV anime with an original plot.
-animeRelated	['Gegege no Kitarou (2007)']
-animeCharacters	['Kitarou', 'Medama Oyaji', 'Neko Musume', 'Nezumi Otoko', 'Babaa, Sunakake']
-animeVoices	['Takayama, Minami', 'Tanonaka, Isamu', 'Konno, Hiromi', 'Takagi, Wataru', 'Yamamoto, Keiko']
-animeStaff	[['Koga, Gou', 'Director'], ['Sanjou, Riku', 'Script, Series Composition'], ['Mizuki, Shigeru', 'Original Creator'], ['Yokoyama, Seiji', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Gegege no Kitarou: Nippon Bakuretsu	Movie	1	2008-12-20 00:00:00		1010	6.47	302	6303	11100	Movie based on the 2007 TV anime with an original plot.	['Gegege no Kitarou (2007)']	['Kitarou', 'Medama Oyaji', 'Neko Musume', 'Nezumi Otoko', 'Babaa, Sunakake']	['Takayama, Minami', 'Tanonaka, Isamu', 'Konno, Hiromi', 'Takagi, Wataru', 'Yamamoto, Keiko']	[['Koga, Gou', 'Director'], ['Sanjou, Riku', 'Script, Series Composition'], ['Mizuki, Shigeru', 'Original Creator'], ['Yokoyama, Seiji', 'Music']]

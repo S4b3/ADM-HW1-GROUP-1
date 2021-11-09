@@ -1,15 +1,2 @@
-animeTitle	Golden Douga Gekijou
-animeType	ONA
-animeNumEpisode	33
-releaseDate	2018-04-16 00:00:00
-endDate	2020-12-21 00:00:00
-animeNumMembers	4686
-animeScore	6.3
-animeUsers	991
-animeRank	7170
-animePopularity	7270
-animeDescription	Short anime series of Golden Kamuy streamed on the official website.
-animeRelated	['Golden Kamuy', 'Golden Kamuy 2nd Season', 'Golden Kamuy 3rd Season']
-animeCharacters	['Shiraishi, Yoshitake', 'Koito, Otonoshin', 'Ienaga, Kano', 'Usami, Tokishige']
-animeVoices	['Itou, Kentarou', 'Konishi, Katsuyuki', 'Matsuoka, Yoshitsugu']
-animeStaff	[['Kinutani, Soushi', 'Episode Director, Key Animation'], ['Noda, Satoru', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Golden Douga Gekijou	ONA	33	2018-04-16 00:00:00	2020-12-21 00:00:00	4686	6.3	991	7170	7270	Short anime series of Golden Kamuy streamed on the official website.	['Golden Kamuy', 'Golden Kamuy 2nd Season', 'Golden Kamuy 3rd Season']	['Shiraishi, Yoshitake', 'Koito, Otonoshin', 'Ienaga, Kano', 'Usami, Tokishige']	['Itou, Kentarou', 'Konishi, Katsuyuki', 'Matsuoka, Yoshitsugu']	[['Kinutani, Soushi', 'Episode Director, Key Animation'], ['Noda, Satoru', 'Original Creator']]

@@ -1,15 +1,2 @@
-animeTitle	Tatsu no Ko Tarou
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1979-03-17 00:00:00
-endDate	
-animeNumMembers	3526
-animeScore	6.81
-animeUsers	1340
-animeRank	4568
-animePopularity	7959
-animeDescription	Patterned after Japanese art and silk screens, Taro, The Dragon Boy is an animated feature about Japanese mythology and cultures, focusing on Taro, a young boy who has to make a voyage to a distant lake to save his mother, who has been turned into a dragon.
-animeRelated	[]
-animeCharacters	['Aya', 'Tatsunoko, Taro', 'Yamanba']
-animeVoices	['Tominaga, Miina', 'Kato, Junya', 'Kiki, Kirin']
-animeStaff	[['Urayama, Kirio', 'Director, Script'], ['Mitsui, Takashi', 'Script'], ['Mizuki, Ichirou', 'Theme Song Performance'], ['Wakabayashi, Ichirou', 'Theme Song Lyrics']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Tatsu no Ko Tarou	Movie	1	1979-03-17 00:00:00		3526	6.81	1340	4568	7959	Patterned after Japanese art and silk screens, Taro, The Dragon Boy is an animated feature about Japanese mythology and cultures, focusing on Taro, a young boy who has to make a voyage to a distant lake to save his mother, who has been turned into a dragon.	[]	['Aya', 'Tatsunoko, Taro', 'Yamanba']	['Tominaga, Miina', 'Kato, Junya', 'Kiki, Kirin']	[['Urayama, Kirio', 'Director, Script'], ['Mitsui, Takashi', 'Script'], ['Mizuki, Ichirou', 'Theme Song Performance'], ['Wakabayashi, Ichirou', 'Theme Song Lyrics']]

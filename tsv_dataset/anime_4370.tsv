@@ -1,14 +1,5 @@
-animeTitle	Shounan Bakusouzoku
-animeType	OVA
-animeNumEpisode	12
-releaseDate	1986-09-10 00:00:00
-endDate	1999-03-12 00:00:00
-animeNumMembers	2145
-animeScore	6.86
-animeUsers	256
-animeRank	4370
-animePopularity	9251
-animeDescription	"In Japan, the country that inspired the slogan ""Born to be Mild,"" the blood of young men still runs hot. In the old days they'd go off into the country and hack each other up with swords, but these days, what with school, that isn't very practical.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shounan Bakusouzoku	OVA	12	1986-09-10 00:00:00	1999-03-12 00:00:00	2145	6.86	256	4370	9251	"In Japan, the country that inspired the slogan ""Born to be Mild,"" the blood of young men still runs hot. In the old days they'd go off into the country and hack each other up with swords, but these days, what with school, that isn't very practical.
 
 So some of them do something very un-Japanese. They strap on a big bike, roar around annoying people, and pound anyone they consider dishonorable.
 
@@ -16,8 +7,4 @@ Now meet Eguchi Yousuke, leader of a high-school Biker gang AND the school's han
 
 And if you think he's weird, wait until you meet the rest of his gang...
 
-(Source: AniDB)"
-animeRelated	['Shonan Bakusouzoku']
-animeCharacters	['Yousuke, Eguchi']
-animeVoices	['Shiozawa, Kaneto']
-animeStaff	[['Nishizawa, Nobutaka', 'Director, Screenplay'], ['Hound Dog', 'Theme Song Composition, Theme Song Performance, Theme Song Arrangement, Theme Song Lyrics'], ['Mr.Children', 'Theme Song Arrangement, Theme Song Performance'], ['Shou', 'Theme Song Performance, Theme Song Lyrics, Theme Song Composition']]
+(Source: AniDB)"	['Shonan Bakusouzoku']	['Yousuke, Eguchi']	['Shiozawa, Kaneto']	[['Nishizawa, Nobutaka', 'Director, Screenplay'], ['Hound Dog', 'Theme Song Composition, Theme Song Performance, Theme Song Arrangement, Theme Song Lyrics'], ['Mr.Children', 'Theme Song Arrangement, Theme Song Performance'], ['Shou', 'Theme Song Performance, Theme Song Lyrics, Theme Song Composition']]

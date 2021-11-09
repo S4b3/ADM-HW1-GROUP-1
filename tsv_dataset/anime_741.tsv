@@ -1,15 +1,2 @@
-animeTitle	Hoozuki no Reitetsu OVA
-animeType	OVA
-animeNumEpisode	4
-releaseDate	2015-02-23 00:00:00
-endDate	2017-03-23 00:00:00
-animeNumMembers	15420
-animeScore	7.87
-animeUsers	6585
-animeRank	741
-animePopularity	4477
-animeDescription	Bundled with the limited editions of 17th, 18th, 19th, and 24th volumes of the Hoozuki no Reitetsu manga.
-animeRelated	['Hoozuki no Reitetsu']
-animeCharacters	['Hoozuki', 'Hakutaku', 'Nasubi', 'Zashiki Warashi Ichiko', 'Zashiki Warashi Niko', 'Peach Maki', 'Enma Daiou', 'Gon', 'Minamoto no Yoshitsune', 'Momotarou']
-animeVoices	['Yasumoto, Hiroki', 'Yusa, Kouji', 'Aoyama, Touko', 'Satou, Satomi', 'Ogura, Yui', 'Uesaka, Sumire', 'Nagasako, Takashi', 'Hosoya, Yoshimasa', 'Kaji, Yuki', 'Hirakawa, Daisuke']
-animeStaff	[['Nakatake, Tetsuya', 'Producer'], ['Kaburagi, Hiro', 'Director'], ['Gotou, Midori', 'Script'], ['Uesaka, Sumire', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Hoozuki no Reitetsu OVA	OVA	4	2015-02-23 00:00:00	2017-03-23 00:00:00	15420	7.87	6585	741	4477	Bundled with the limited editions of 17th, 18th, 19th, and 24th volumes of the Hoozuki no Reitetsu manga.	['Hoozuki no Reitetsu']	['Hoozuki', 'Hakutaku', 'Nasubi', 'Zashiki Warashi Ichiko', 'Zashiki Warashi Niko', 'Peach Maki', 'Enma Daiou', 'Gon', 'Minamoto no Yoshitsune', 'Momotarou']	['Yasumoto, Hiroki', 'Yusa, Kouji', 'Aoyama, Touko', 'Satou, Satomi', 'Ogura, Yui', 'Uesaka, Sumire', 'Nagasako, Takashi', 'Hosoya, Yoshimasa', 'Kaji, Yuki', 'Hirakawa, Daisuke']	[['Nakatake, Tetsuya', 'Producer'], ['Kaburagi, Hiro', 'Director'], ['Gotou, Midori', 'Script'], ['Uesaka, Sumire', 'Theme Song Performance']]

@@ -1,17 +1,4 @@
-animeTitle	Osomatsu-kun
-animeType	TV
-animeNumEpisode	56
-releaseDate	1966-02-05 00:00:00
-endDate	1967-03-25 00:00:00
-animeNumMembers	3141
-animeScore	6.45
-animeUsers	466
-animeRank	6383
-animePopularity	8267
-animeDescription	"A wacky comedy about identical sextuplets causing wild pranks. Each episode features 2 stories. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Osomatsu-kun	TV	56	1966-02-05 00:00:00	1967-03-25 00:00:00	3141	6.45	466	6383	8267	"A wacky comedy about identical sextuplets causing wild pranks. Each episode features 2 stories. 
 
-(Source: AniDB)"
-animeRelated	['Osomatsu-kun', 'Osomatsu-kun (1988)', 'Bakabon Osomatsu no Karee wo Tazunete Sansenri']
-animeCharacters	['Matsuno, Ichimatsu', 'Matsuno, Karamatsu', 'Matsuno, Juushimatsu', 'Matsuno, Osomatsu', 'Matsuno, Choromatsu', 'Matsuno, Todomatsu', 'Iyami', 'Chibita', 'Yowai, Totoko', 'Dayon']
-animeVoices	['Kitahama, Haruko', 'Shiraishi, Fuyumi', 'Azuma, Mie', 'Katou, Midori', 'Yamamoto, Keiko', 'Kobayashi, Kyoji']
-animeStaff	[['Yamamoto, Zenjirou', 'Producer'], ['Suzuki, Shinichi', 'Episode Director, Storyboard, Animation Director, Key Animation'], ['Nagasawa, Makoto', 'Episode Director, Storyboard, Key Animation'], ['Akatsuka, Fujio', 'Original Creator']]
+(Source: AniDB)"	['Osomatsu-kun', 'Osomatsu-kun (1988)', 'Bakabon Osomatsu no Karee wo Tazunete Sansenri']	['Matsuno, Ichimatsu', 'Matsuno, Karamatsu', 'Matsuno, Juushimatsu', 'Matsuno, Osomatsu', 'Matsuno, Choromatsu', 'Matsuno, Todomatsu', 'Iyami', 'Chibita', 'Yowai, Totoko', 'Dayon']	['Kitahama, Haruko', 'Shiraishi, Fuyumi', 'Azuma, Mie', 'Katou, Midori', 'Yamamoto, Keiko', 'Kobayashi, Kyoji']	[['Yamamoto, Zenjirou', 'Producer'], ['Suzuki, Shinichi', 'Episode Director, Storyboard, Animation Director, Key Animation'], ['Nagasawa, Makoto', 'Episode Director, Storyboard, Key Animation'], ['Akatsuka, Fujio', 'Original Creator']]

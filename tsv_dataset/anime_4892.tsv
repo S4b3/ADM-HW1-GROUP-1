@@ -1,17 +1,4 @@
-animeTitle	Getter Robo
-animeType	TV
-animeNumEpisode	51
-releaseDate	1974-04-04 00:00:00
-endDate	1975-05-08 00:00:00
-animeNumMembers	6597
-animeScore	6.74
-animeUsers	1370
-animeRank	4892
-animePopularity	6257
-animeDescription	"From deep within the Earth's surface, the Dinosaur Kingdom make their move to wipe out mankind and conquer the planet with their mechanical dinosaurs. After a prototype Getter Robo is shot down by a mechanical dinosaur, the Saotome Research Institute decides to use the real Getter Robo, which is combat-capable. Due to a lack of pilots in the institute, Ryo Nagare goes to his college to persuade martial artist Musashi Tomoe and outcast Hayato Jin to join him and pilot the Getter Machines to combat the new threat and protect mankind.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Getter Robo	TV	51	1974-04-04 00:00:00	1975-05-08 00:00:00	6597	6.74	1370	4892	6257	"From deep within the Earth's surface, the Dinosaur Kingdom make their move to wipe out mankind and conquer the planet with their mechanical dinosaurs. After a prototype Getter Robo is shot down by a mechanical dinosaur, the Saotome Research Institute decides to use the real Getter Robo, which is combat-capable. Due to a lack of pilots in the institute, Ryo Nagare goes to his college to persuade martial artist Musashi Tomoe and outcast Hayato Jin to join him and pilot the Getter Machines to combat the new threat and protect mankind.
 
-(Source: ANN)"
-animeRelated	['Getter Robo', 'Change!! Getter Robo: Sekai Saigo no Hi', 'Shin Getter Robo', 'Getter Robo Go', 'Getter Robo G', 'Getter Robo Memorial']
-animeCharacters	['Nagare, Ryouma', 'Jin, Hayato', 'Tomoe, Musashi', 'Professor Saotome', 'King, Jack', 'Saotome, Michiru', 'Gore, Emperor', 'Princess Gola', 'Saotome, Genki']
-animeVoices	['Kamiya, Akira', 'Yamada, Keaton', 'Nishio, Toku', 'Tomita, Kousei', 'Inoue, Makio', 'Yoshida, Rihoko', 'Kagawa, Kouko']
-animeStaff	[['Katsumata, Tomoharu', 'Episode Director'], ['Sasaki, Isao', 'Theme Song Performance'], ['Nagai, Go', 'Original Creator'], ['Ishikawa, Ken', 'Original Creator']]
+(Source: ANN)"	['Getter Robo', 'Change!! Getter Robo: Sekai Saigo no Hi', 'Shin Getter Robo', 'Getter Robo Go', 'Getter Robo G', 'Getter Robo Memorial']	['Nagare, Ryouma', 'Jin, Hayato', 'Tomoe, Musashi', 'Professor Saotome', 'King, Jack', 'Saotome, Michiru', 'Gore, Emperor', 'Princess Gola', 'Saotome, Genki']	['Kamiya, Akira', 'Yamada, Keaton', 'Nishio, Toku', 'Tomita, Kousei', 'Inoue, Makio', 'Yoshida, Rihoko', 'Kagawa, Kouko']	[['Katsumata, Tomoharu', 'Episode Director'], ['Sasaki, Isao', 'Theme Song Performance'], ['Nagai, Go', 'Original Creator'], ['Ishikawa, Ken', 'Original Creator']]

@@ -1,14 +1,5 @@
-animeTitle	The Animatrix
-animeType	OVA
-animeNumEpisode	9
-releaseDate	2003-06-03 00:00:00
-endDate	
-animeNumMembers	69896
-animeScore	7.3
-animeUsers	39062
-animeRank	2426
-animePopularity	2042
-animeDescription	"1. Final Flight of the Osiris
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+The Animatrix	OVA	9	2003-06-03 00:00:00		69896	7.3	39062	2426	2042	"1. Final Flight of the Osiris
 The crew of the Osiris discover an army preparing to invade Zion. While one crew member races inside the Matrix to get the message to Zion, the others try desperately to buy her enough time while fighting off an onslaught of Sentinels they can't possibly defeat.
 
 2-3. The Second Renaissance Part 1 and 2
@@ -32,8 +23,4 @@ A detective named Ash is called upon by a mysterious organization to hunt down t
 9. Matriculated
 A group of scientists capture a robot and place it in a surreal fantasy world. When the robot's friends come in and kill most of the scientists; however, the robot and the last scientist remaining face isolation in the computer-generated world. Based on the Matrix trilogy.
 
-(Source: ANN)"
-animeRelated	[]
-animeCharacters	['Yoko', 'Davis, Dan', 'Trinity', 'Ash', 'Jue', 'Popper, Michael Karl', 'Thadeus', 'Cis', 'Duo', 'Neo']
-animeVoices	['Tsuru, Hiromi', 'Tsukayama, Masane', 'Yuuya, Atsuko', 'Midorikawa, Hikaru', 'Ootsuka, Akio', 'Kouda, Kaho', 'Morikawa, Toshiyuki']
-animeStaff	[['Arias, Michael', 'Producer, Special Effects'], ['Tanaka, Eiko', 'Producer'], ['Takeuchi, Hiroaki', 'Producer'], ['Watanabe, Shinichiro', 'Director, Script']]
+(Source: ANN)"	[]	['Yoko', 'Davis, Dan', 'Trinity', 'Ash', 'Jue', 'Popper, Michael Karl', 'Thadeus', 'Cis', 'Duo', 'Neo']	['Tsuru, Hiromi', 'Tsukayama, Masane', 'Yuuya, Atsuko', 'Midorikawa, Hikaru', 'Ootsuka, Akio', 'Kouda, Kaho', 'Morikawa, Toshiyuki']	[['Arias, Michael', 'Producer, Special Effects'], ['Tanaka, Eiko', 'Producer'], ['Takeuchi, Hiroaki', 'Producer'], ['Watanabe, Shinichiro', 'Director, Script']]

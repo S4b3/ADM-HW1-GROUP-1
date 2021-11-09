@@ -1,17 +1,4 @@
-animeTitle	Aikatsu! Movie
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2014-12-13 00:00:00
-endDate	
-animeNumMembers	6788
-animeScore	7.47
-animeUsers	3130
-animeRank	1718
-animePopularity	6195
-animeDescription	"The story of the anime revolves around Ichigo, who was just a normal middle school student until she suddenly got involved in the world of idols. The film will center on Aikatsu!'s greatest ""Super Live"" concert yet, the Dai Star Miya Ichigo Matsuri. Ichigo prepares for the concert with press conferences, last-minute lessons, and more.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Aikatsu! Movie	Movie	1	2014-12-13 00:00:00		6788	7.47	3130	1718	6195	"The story of the anime revolves around Ichigo, who was just a normal middle school student until she suddenly got involved in the world of idols. The film will center on Aikatsu!'s greatest ""Super Live"" concert yet, the Dai Star Miya Ichigo Matsuri. Ichigo prepares for the concert with press conferences, last-minute lessons, and more.
 
-(Source: ANN)"
-animeRelated	['Aikatsu!', 'Aikatsu!: Dai Starmiya Ichigo Matsuri Zenyasai!!']
-animeCharacters	['Hoshimiya, Ichigo', 'Kiriya, Aoi', 'Oozora, Akari', 'Toudou, Yurika', 'Shibuki, Ran', 'Arisugawa, Otome', 'Kanzaki, Mizuki', 'Hikami, Sumire', 'Bepp, Johnny', 'Otoshiro, Seira']
-animeVoices	['Morohoshi, Sumire', 'Tadokoro, Azusa', 'Shimoji, Shino', 'Numakura, Manami', 'Ohashi, Ayaka', 'Kurosawa, Tomoyo', 'Kotobuki, Minako', 'Wakui, Yuu', 'Yasumura, Makoto', 'Ishihara, Kaori']
-animeStaff	[['Kimura, Ryuuichi', 'Director'], ['Katou, Youichi', 'Script'], ['STAR☆ANIS', 'Theme Song Composition, Inserted Song Performance'], ['Ishikawa, Kayoko', 'Character Design']]
+(Source: ANN)"	['Aikatsu!', 'Aikatsu!: Dai Starmiya Ichigo Matsuri Zenyasai!!']	['Hoshimiya, Ichigo', 'Kiriya, Aoi', 'Oozora, Akari', 'Toudou, Yurika', 'Shibuki, Ran', 'Arisugawa, Otome', 'Kanzaki, Mizuki', 'Hikami, Sumire', 'Bepp, Johnny', 'Otoshiro, Seira']	['Morohoshi, Sumire', 'Tadokoro, Azusa', 'Shimoji, Shino', 'Numakura, Manami', 'Ohashi, Ayaka', 'Kurosawa, Tomoyo', 'Kotobuki, Minako', 'Wakui, Yuu', 'Yasumura, Makoto', 'Ishihara, Kaori']	[['Kimura, Ryuuichi', 'Director'], ['Katou, Youichi', 'Script'], ['STAR☆ANIS', 'Theme Song Composition, Inserted Song Performance'], ['Ishikawa, Kayoko', 'Character Design']]

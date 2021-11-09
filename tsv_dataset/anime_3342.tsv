@@ -1,15 +1,2 @@
-animeTitle	Higepiyo
-animeType	TV
-animeNumEpisode	39
-releaseDate	2009-04-03 00:00:00
-endDate	2010-02-19 00:00:00
-animeNumMembers	5609
-animeScore	7.1
-animeUsers	2055
-animeRank	3342
-animePopularity	6679
-animeDescription	Higepiyo is a little chick with a mustache, who is seeking to aquire masculinity with his friend Hiroshi but ends up being entangled with a skin of heated milk.
-animeRelated	[]
-animeCharacters	['Higepiyo', 'Haneda, Hiroshi', 'Kumano, Kazuo', 'Katou', 'Mama', 'Papa']
-animeVoices	['Park, Romi', 'Kobayashi, Yuu', 'Kumai, Motoko', 'Sugita, Tomokazu', 'Arai, Satomi', 'Miyashita, Eiji']
-animeStaff	[['Takeyama, Atsushi', 'Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Kanesugi, Hiroko', 'Script'], ['Kaneko, Shingo', 'Storyboard']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Higepiyo	TV	39	2009-04-03 00:00:00	2010-02-19 00:00:00	5609	7.1	2055	3342	6679	Higepiyo is a little chick with a mustache, who is seeking to aquire masculinity with his friend Hiroshi but ends up being entangled with a skin of heated milk.	[]	['Higepiyo', 'Haneda, Hiroshi', 'Kumano, Kazuo', 'Katou', 'Mama', 'Papa']	['Park, Romi', 'Kobayashi, Yuu', 'Kumai, Motoko', 'Sugita, Tomokazu', 'Arai, Satomi', 'Miyashita, Eiji']	[['Takeyama, Atsushi', 'Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Kanesugi, Hiroko', 'Script'], ['Kaneko, Shingo', 'Storyboard']]

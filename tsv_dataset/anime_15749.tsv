@@ -1,15 +1,2 @@
-animeTitle	Gerotan
-animeType	ONA
-animeNumEpisode	6
-releaseDate	2002-06-16 00:00:00
-endDate	2002-10-13 00:00:00
-animeNumMembers	147
-animeScore	
-animeUsers	
-animeRank	15749
-animePopularity	16999
-animeDescription	A flash-animated anime series following the strange character Gerotan.
-animeRelated	[]
-animeCharacters	['Gerotan']
-animeVoices	['Saitou, Ayaka']
-animeStaff	[['Sakurai, Hiroaki', 'Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Gerotan	ONA	6	2002-06-16 00:00:00	2002-10-13 00:00:00	147			15749	16999	A flash-animated anime series following the strange character Gerotan.	[]	['Gerotan']	['Saitou, Ayaka']	[['Sakurai, Hiroaki', 'Director']]

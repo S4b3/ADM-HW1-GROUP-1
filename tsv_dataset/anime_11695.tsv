@@ -1,15 +1,2 @@
-animeTitle	Room Mate
-animeType	TV
-animeNumEpisode	12
-releaseDate	2017-04-12 00:00:00
-endDate	2017-06-28 00:00:00
-animeNumMembers	23581
-animeScore	4.75
-animeUsers	8175
-animeRank	11695
-animePopularity	3714
-animeDescription	"Another One Room series telling ""another story"" featuring male characters. "
-animeRelated	['One Room']
-animeCharacters	['Nishina, Aoi', 'Miyasaka, Shinya ', 'Ashihara, Takumi']
-animeVoices	['Hanae, Natsuki', 'Toriumi, Kousuke', 'Maeno, Tomoaki']
-animeStaff	[['Tateishi, Yayoi', 'Sound Director'], ['Shimoi, Aose', 'Script'], ['Hanae, Natsuki', 'Theme Song Performance'], ['Maeno, Tomoaki', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Room Mate	TV	12	2017-04-12 00:00:00	2017-06-28 00:00:00	23581	4.75	8175	11695	3714	"Another One Room series telling ""another story"" featuring male characters. "	['One Room']	['Nishina, Aoi', 'Miyasaka, Shinya ', 'Ashihara, Takumi']	['Hanae, Natsuki', 'Toriumi, Kousuke', 'Maeno, Tomoaki']	[['Tateishi, Yayoi', 'Sound Director'], ['Shimoi, Aose', 'Script'], ['Hanae, Natsuki', 'Theme Song Performance'], ['Maeno, Tomoaki', 'Theme Song Performance']]

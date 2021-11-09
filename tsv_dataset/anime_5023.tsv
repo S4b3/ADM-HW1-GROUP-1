@@ -1,15 +1,2 @@
-animeTitle	Teekyuu 2
-animeType	TV
-animeNumEpisode	12
-releaseDate	2013-07-07 00:00:00
-endDate	2013-09-22 00:00:00
-animeNumMembers	27957
-animeScore	6.72
-animeUsers	16193
-animeRank	5023
-animePopularity	3411
-animeDescription	Second season of Teekyu series.
-animeRelated	['Teekyuu', 'Teekyuu 3', 'Teekyuu 2 Specials']
-animeCharacters	['Bandou, Marimo', 'Shinjou, Kanae', 'Takamiya, Nasuno', 'Oshimoto, Yuri', 'Tomalin', 'Yucatan', 'Kondou, Udonko', 'Takamiya, Father', 'Bobby', 'Mika']
-animeVoices	['Hanazawa, Kana', 'Mimori, Suzuko', 'Narumi, Kyoko', 'Watanabe, Yui', 'Ogura, Yui', 'Takahashi, Shinya', 'Ishihara, Kaori', 'Shimozuma, Yoshiyuki', 'Oowada, Hitomi']
-animeStaff	[['Itagaki, Shin', 'Director, Sound Director, Episode Director, Script, Storyboard, Key Animation, Character Design, Animation Director, In-Between Animation'], ['Narumi, Kyoko', 'Theme Song Performance'], ['Yashikin', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['Terada, Tsugeo', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Teekyuu 2	TV	12	2013-07-07 00:00:00	2013-09-22 00:00:00	27957	6.72	16193	5023	3411	Second season of Teekyu series.	['Teekyuu', 'Teekyuu 3', 'Teekyuu 2 Specials']	['Bandou, Marimo', 'Shinjou, Kanae', 'Takamiya, Nasuno', 'Oshimoto, Yuri', 'Tomalin', 'Yucatan', 'Kondou, Udonko', 'Takamiya, Father', 'Bobby', 'Mika']	['Hanazawa, Kana', 'Mimori, Suzuko', 'Narumi, Kyoko', 'Watanabe, Yui', 'Ogura, Yui', 'Takahashi, Shinya', 'Ishihara, Kaori', 'Shimozuma, Yoshiyuki', 'Oowada, Hitomi']	[['Itagaki, Shin', 'Director, Sound Director, Episode Director, Script, Storyboard, Key Animation, Character Design, Animation Director, In-Between Animation'], ['Narumi, Kyoko', 'Theme Song Performance'], ['Yashikin', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['Terada, Tsugeo', 'Original Creator']]

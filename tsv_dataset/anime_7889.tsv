@@ -1,14 +1,5 @@
-animeTitle	W: Wish
-animeType	TV
-animeNumEpisode	13
-releaseDate	2004-10-03 00:00:00
-endDate	2004-12-26 00:00:00
-animeNumMembers	14307
-animeScore	6.16
-animeUsers	4880
-animeRank	7889
-animePopularity	4592
-animeDescription	"Based on a game by Princess Soft
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+W: Wish	TV	13	2004-10-03 00:00:00	2004-12-26 00:00:00	14307	6.16	4880	7889	4592	"Based on a game by Princess Soft
 
 The main character, Junna has a twin sister Senna. He is an ordinal student of an elite school. However, in the past, a traffic accident deprived him of his parents and his memory. Junna survived the accident, and he has lived only with his sister though he has been looked after by his relatives.
 
@@ -17,8 +8,4 @@ The life with Senna in the same high school is so pleasant that he can forget th
 
 However, he begins to recall the memories he lost in the accident. Though he enjoys happy and pleasant days, he is tossed by the past, the present, and the future. What is the truth hidden in his memory?
 
-(Source: AniDB)"
-animeRelated	['W: Wish Omake']
-animeCharacters	['Inohara, Haruhi', 'Touno, Senna', 'Touno, Junna', 'Ootori, Tsubasa', 'Kishida, Tomo', 'Fujie, Sana', 'Kishida, Tomokazu', 'Iida, Akino']
-animeVoices	['Shintani, Ryouko', 'Shimizu, Ai', 'Fukuyama, Jun', 'Chiba, Saeko', 'Matsuki, Miyu', 'Kaneda, Tomoko', 'Fujita, Yoshinori', 'Nanri, Yuuka']
-animeStaff	[['Oomiya, Saburou', 'Producer'], ['Shikura, Chiyomaru', 'Theme Song Lyrics, Theme Song Composition'], ['Chiba, Saeko', 'Theme Song Performance'], ['Ayane', 'Theme Song Performance']]
+(Source: AniDB)"	['W: Wish Omake']	['Inohara, Haruhi', 'Touno, Senna', 'Touno, Junna', 'Ootori, Tsubasa', 'Kishida, Tomo', 'Fujie, Sana', 'Kishida, Tomokazu', 'Iida, Akino']	['Shintani, Ryouko', 'Shimizu, Ai', 'Fukuyama, Jun', 'Chiba, Saeko', 'Matsuki, Miyu', 'Kaneda, Tomoko', 'Fujita, Yoshinori', 'Nanri, Yuuka']	[['Oomiya, Saburou', 'Producer'], ['Shikura, Chiyomaru', 'Theme Song Lyrics, Theme Song Composition'], ['Chiba, Saeko', 'Theme Song Performance'], ['Ayane', 'Theme Song Performance']]

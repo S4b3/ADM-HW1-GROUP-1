@@ -1,15 +1,2 @@
-animeTitle	Keroro
-animeType	TV
-animeNumEpisode	23
-releaseDate	2014-03-22 00:00:00
-endDate	2014-09-06 00:00:00
-animeNumMembers	8051
-animeScore	6.86
-animeUsers	3018
-animeRank	4349
-animePopularity	5796
-animeDescription	Second TV (flash animated) series of Keroro Gunsou.
-animeRelated	['Keroro Gunsou']
-animeCharacters	['Keroro', 'Giroro', 'Kururu', 'Tamama', 'Dororo', 'Hinata, Natsumi', 'Hinata, Fuyuki', 'Azumaya, Koyuki', 'Mois, Angol', 'Hinata, Aki']
-animeVoices	['Watanabe, Kumiko', 'Nakata, Jouji', 'Koyasu, Takehito', 'Kozakura, Etsuko', 'Kusao, Takeshi', 'Saitou, Chiwa', 'Kuwashima, Houko']
-animeStaff	[['Kasugamori, Haruki', 'Director'], ['Gojou, Mayumi', 'Theme Song Performance'], ['Yoshizaki, Mine', 'Original Creator'], ['SuperSweep', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Keroro	TV	23	2014-03-22 00:00:00	2014-09-06 00:00:00	8051	6.86	3018	4349	5796	Second TV (flash animated) series of Keroro Gunsou.	['Keroro Gunsou']	['Keroro', 'Giroro', 'Kururu', 'Tamama', 'Dororo', 'Hinata, Natsumi', 'Hinata, Fuyuki', 'Azumaya, Koyuki', 'Mois, Angol', 'Hinata, Aki']	['Watanabe, Kumiko', 'Nakata, Jouji', 'Koyasu, Takehito', 'Kozakura, Etsuko', 'Kusao, Takeshi', 'Saitou, Chiwa', 'Kuwashima, Houko']	[['Kasugamori, Haruki', 'Director'], ['Gojou, Mayumi', 'Theme Song Performance'], ['Yoshizaki, Mine', 'Original Creator'], ['SuperSweep', 'Music']]

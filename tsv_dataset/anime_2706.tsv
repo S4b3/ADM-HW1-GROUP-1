@@ -1,15 +1,2 @@
-animeTitle	Seikai no Senki Special
-animeType	Special
-animeNumEpisode	1
-releaseDate	2001-07-04 00:00:00
-endDate	
-animeNumMembers	3098
-animeScore	7.24
-animeUsers	1090
-animeRank	2706
-animePopularity	8293
-animeDescription	A compilation of the Seikai no Senki Tokubetsuhens series with additional footage.
-animeRelated	['Seikai no Senki']
-animeCharacters	['Abriel, Lafiel', 'Linn, Jinto', 'Naurh, Ekuryua']
-animeVoices	['Kawasumi, Ayako', 'Imai, Yuka', 'Shimizu, Kaori']
-animeStaff	[['Nagaoka, Yasuchika', 'Director'], ['Yonetani, Yoshitomo', 'Storyboard'], ['Ueda, Masuo', 'Planning'], ['Morioka, Hiroyuki', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Seikai no Senki Special	Special	1	2001-07-04 00:00:00		3098	7.24	1090	2706	8293	A compilation of the Seikai no Senki Tokubetsuhens series with additional footage.	['Seikai no Senki']	['Abriel, Lafiel', 'Linn, Jinto', 'Naurh, Ekuryua']	['Kawasumi, Ayako', 'Imai, Yuka', 'Shimizu, Kaori']	[['Nagaoka, Yasuchika', 'Director'], ['Yonetani, Yoshitomo', 'Storyboard'], ['Ueda, Masuo', 'Planning'], ['Morioka, Hiroyuki', 'Original Creator']]

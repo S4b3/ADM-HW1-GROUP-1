@@ -1,15 +1,2 @@
-animeTitle	Penguin no Mondai
-animeType	TV
-animeNumEpisode	100
-releaseDate	2008-04-05 00:00:00
-endDate	2009-03-20 00:00:00
-animeNumMembers	689
-animeScore	5.83
-animeUsers	148
-animeRank	9252
-animePopularity	12107
-animeDescription	About the daily lives of a boy and his talking penguin.
-animeRelated	['Penguin no Mondai Movie', 'Penguin no Mondai Max']
-animeCharacters	['Kinoshita, Bekkamu']
-animeVoices	['Itou, Miyako']
-animeStaff	[['Kamiya, Jun', 'Director, Script, Storyboard'], ['Watanabe, Jun', 'Sound Director'], ['Arakawa, Naruhisa', 'Script'], ['Enomoto, Akihiro', 'Storyboard']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Penguin no Mondai	TV	100	2008-04-05 00:00:00	2009-03-20 00:00:00	689	5.83	148	9252	12107	About the daily lives of a boy and his talking penguin.	['Penguin no Mondai Movie', 'Penguin no Mondai Max']	['Kinoshita, Bekkamu']	['Itou, Miyako']	[['Kamiya, Jun', 'Director, Script, Storyboard'], ['Watanabe, Jun', 'Sound Director'], ['Arakawa, Naruhisa', 'Script'], ['Enomoto, Akihiro', 'Storyboard']]

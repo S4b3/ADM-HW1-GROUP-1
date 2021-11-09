@@ -1,15 +1,2 @@
-animeTitle	Shingeki no Kyojin: Ano Hi Kara
-animeType	Special
-animeNumEpisode	1
-releaseDate	2013-07-07 00:00:00
-endDate	
-animeNumMembers	118157
-animeScore	7.27
-animeUsers	58103
-animeRank	2539
-animePopularity	1421
-animeDescription	Recap of the events in Shingeki no Kyojin that happened prior to episode 14.
-animeRelated	['Shingeki no Kyojin', 'Shingeki no Kyojin Movie 1: Guren no Yumiya']
-animeCharacters	['Ackerman, Mikasa', 'Yeager, Eren', 'Arlert, Armin', 'Levi', 'Smith, Erwin', 'Blouse, Sasha', 'Springer, Connie', 'Bott, Marco', 'Yeager, Grisha', 'Pixis, Dot']
-animeVoices	['Ishikawa, Yui', 'Kaji, Yuki', 'Inoue, Marina', 'Kamiya, Hiroshi', 'Shimono, Hiro', 'Tsuchida, Hiroshi', 'Tanaka, Masahiko']
-animeStaff	[['Wada, Jouji', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Mima, Masafumi', 'Sound Director'], ['Sawano, Hiroyuki', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shingeki no Kyojin: Ano Hi Kara	Special	1	2013-07-07 00:00:00		118157	7.27	58103	2539	1421	Recap of the events in Shingeki no Kyojin that happened prior to episode 14.	['Shingeki no Kyojin', 'Shingeki no Kyojin Movie 1: Guren no Yumiya']	['Ackerman, Mikasa', 'Yeager, Eren', 'Arlert, Armin', 'Levi', 'Smith, Erwin', 'Blouse, Sasha', 'Springer, Connie', 'Bott, Marco', 'Yeager, Grisha', 'Pixis, Dot']	['Ishikawa, Yui', 'Kaji, Yuki', 'Inoue, Marina', 'Kamiya, Hiroshi', 'Shimono, Hiro', 'Tsuchida, Hiroshi', 'Tanaka, Masahiko']	[['Wada, Jouji', 'Producer'], ['Nakatake, Tetsuya', 'Producer'], ['Mima, Masafumi', 'Sound Director'], ['Sawano, Hiroyuki', 'Music']]

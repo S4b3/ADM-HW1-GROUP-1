@@ -1,15 +1,2 @@
-animeTitle	Shounen Ashibe
-animeType	OVA
-animeNumEpisode	6
-releaseDate	1991-01-21 00:00:00
-endDate	
-animeNumMembers	256
-animeScore	
-animeUsers	
-animeRank	13341
-animePopularity	15191
-animeDescription	After moving to a new town, a young boy comes across a lone baby seal. They become fast friends and enjoy everyday life together.
-animeRelated	['Shounen Ashibe']
-animeCharacters	['Goma-chan', 'Ashiya, Ashibe']
-animeVoices	['Koorogi, Satomi', 'Takayama, Minami']
-animeStaff	[['Ishiguro, Noboru', 'Director'], ['Morishita, Hiromi', 'Original Creator'], ['Arakawa, Toshiyuki', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shounen Ashibe	OVA	6	1991-01-21 00:00:00		256			13341	15191	After moving to a new town, a young boy comes across a lone baby seal. They become fast friends and enjoy everyday life together.	['Shounen Ashibe']	['Goma-chan', 'Ashiya, Ashibe']	['Koorogi, Satomi', 'Takayama, Minami']	[['Ishiguro, Noboru', 'Director'], ['Morishita, Hiromi', 'Original Creator'], ['Arakawa, Toshiyuki', 'Music']]

@@ -1,15 +1,2 @@
-animeTitle	Kakushigoto
-animeType	ONA
-animeNumEpisode	1
-releaseDate	2016-06-16 00:00:00
-endDate	
-animeNumMembers	7386
-animeScore	6.37
-animeUsers	2382
-animeRank	6841
-animePopularity	6023
-animeDescription	A promotional video advertising the release of the first Kakushigoto manga volume.
-animeRelated	['Kakushigoto', 'Kakushigoto (TV)']
-animeCharacters	['Gotou, Kakushi', 'Gotou, Hime']
-animeVoices	['Kamiya, Hiroshi', 'Anzai, Chika']
-animeStaff	[['Miyamoto, Yukihiro', 'Director'], ['Shinbou, Akiyuki', 'Storyboard'], ['Kumeta, Kouji', 'Original Creator'], ['Konno, Taiki', 'Key Animation']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kakushigoto	ONA	1	2016-06-16 00:00:00		7386	6.37	2382	6841	6023	A promotional video advertising the release of the first Kakushigoto manga volume.	['Kakushigoto', 'Kakushigoto (TV)']	['Gotou, Kakushi', 'Gotou, Hime']	['Kamiya, Hiroshi', 'Anzai, Chika']	[['Miyamoto, Yukihiro', 'Director'], ['Shinbou, Akiyuki', 'Storyboard'], ['Kumeta, Kouji', 'Original Creator'], ['Konno, Taiki', 'Key Animation']]

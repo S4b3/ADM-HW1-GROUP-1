@@ -1,17 +1,4 @@
-animeTitle	Barbapapa
-animeType	TV
-animeNumEpisode	45
-releaseDate	1974-10-13 00:00:00
-endDate	1975-09-28 00:00:00
-animeNumMembers	2385
-animeScore	6.21
-animeUsers	1045
-animeRank	7643
-animePopularity	8965
-animeDescription	"Barbapapa and his family can turn into anything they want. Each member of the family has his or her own personality. Very good show for the youngest children as each episode deals with another problem they will recognize in a way that is 'morally correct'.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Barbapapa	TV	45	1974-10-13 00:00:00	1975-09-28 00:00:00	2385	6.21	1045	7643	8965	"Barbapapa and his family can turn into anything they want. Each member of the family has his or her own personality. Very good show for the youngest children as each episode deals with another problem they will recognize in a way that is 'morally correct'.
 
-(Source: ANN)"
-animeRelated	['Barbapapa Sekai wo Mawaru', 'Barbapapa (1977)']
-animeCharacters	['Barbapapa', 'Barbabelle', 'Barbamama', 'Narrator', 'Barbazoo']
-animeVoices	['Chafurin', 'Han, Keiko', 'Matsuoka, Youko']
-animeStaff	[['Yamada, Katsuhisa', 'Episode Director'], ['Yuyama, Kunihiko', 'Storyboard'], ['Schubert, Franz Peter', 'Theme Song Composition'], ['Pierpont, James Lord', 'Theme Song Composition']]
+(Source: ANN)"	['Barbapapa Sekai wo Mawaru', 'Barbapapa (1977)']	['Barbapapa', 'Barbabelle', 'Barbamama', 'Narrator', 'Barbazoo']	['Chafurin', 'Han, Keiko', 'Matsuoka, Youko']	[['Yamada, Katsuhisa', 'Episode Director'], ['Yuyama, Kunihiko', 'Storyboard'], ['Schubert, Franz Peter', 'Theme Song Composition'], ['Pierpont, James Lord', 'Theme Song Composition']]

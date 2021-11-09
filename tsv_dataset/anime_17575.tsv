@@ -1,17 +1,4 @@
-animeTitle	Given: Uragawa no Sonzai
-animeType	OVA
-animeNumEpisode	1
-releaseDate	2021-12-01 00:00:00
-endDate	
-animeNumMembers	38461
-animeScore	
-animeUsers	
-animeRank	
-animePopularity	2876
-animeDescription	"The OVA, bundled with the special edition version of the seventh manga volume, will tell an ""other side"" story centered on Mafuyu Satou and Ritsuka Uenoyama that wasn't featured in the Given movie.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Given: Uragawa no Sonzai	OVA	1	2021-12-01 00:00:00		38461				2876	"The OVA, bundled with the special edition version of the seventh manga volume, will tell an ""other side"" story centered on Mafuyu Satou and Ritsuka Uenoyama that wasn't featured in the Given movie.
 
-(Source: MAL News)"
-animeRelated	['Given', 'Given Movie']
-animeCharacters	['Satou, Mafuyu', 'Uenoyama, Ritsuka', 'Nakayama, Haruki', 'Kaji, Akihiko']
-animeVoices	['Yano, Shougo', 'Uchida, Yuuma', 'Nakazawa, Masatomo', 'Eguchi, Takuya']
-animeStaff	[['Oohashi, Akiyo', 'Director'], ['Ayana, Yuniko', 'Script'], ['Kizu, Natsuki', 'Original Creator']]
+(Source: MAL News)"	['Given', 'Given Movie']	['Satou, Mafuyu', 'Uenoyama, Ritsuka', 'Nakayama, Haruki', 'Kaji, Akihiko']	['Yano, Shougo', 'Uchida, Yuuma', 'Nakazawa, Masatomo', 'Eguchi, Takuya']	[['Oohashi, Akiyo', 'Director'], ['Ayana, Yuniko', 'Script'], ['Kizu, Natsuki', 'Original Creator']]

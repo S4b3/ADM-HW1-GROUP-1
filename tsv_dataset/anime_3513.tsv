@@ -1,17 +1,4 @@
-animeTitle	Hello! Sandybell
-animeType	TV
-animeNumEpisode	47
-releaseDate	1981-03-06 00:00:00
-endDate	1982-02-26 00:00:00
-animeNumMembers	5218
-animeScore	7.06
-animeUsers	2474
-animeRank	3513
-animePopularity	6876
-animeDescription	"Sandybell is a playful girl from Scotland. She is happy even if her mum died when she was little. Past secrets begin to reveal after Sandybell gets a white lily from a rich lady. After a tragic act Sandybell moves to London where she is trying to find clues to her past.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Hello! Sandybell	TV	47	1981-03-06 00:00:00	1982-02-26 00:00:00	5218	7.06	2474	3513	6876	"Sandybell is a playful girl from Scotland. She is happy even if her mum died when she was little. Past secrets begin to reveal after Sandybell gets a white lily from a rich lady. After a tragic act Sandybell moves to London where she is trying to find clues to her past.
 
-(Source: ANN)"
-animeRelated	[]
-animeCharacters	['SandyBell', 'Mark', 'Tambour', 'Kentle, Ricky', 'Peterson, Alec', 'Scherer, Kitty']
-animeVoices	['Yamamoto, Yuriko', 'Matsushima, Minori', 'Mori, Katsuji', 'Koyama, Mami']
-animeStaff	"[['Hisaishi, Joe', 'Theme Song Performance'], ['Horie, Mitsuko', 'Theme Song Performance'], ['Watanabe, Takeo', 'Theme Song Composition, Music'], [""Koorogi '73"", 'Theme Song Performance']]"
+(Source: ANN)"	[]	['SandyBell', 'Mark', 'Tambour', 'Kentle, Ricky', 'Peterson, Alec', 'Scherer, Kitty']	['Yamamoto, Yuriko', 'Matsushima, Minori', 'Mori, Katsuji', 'Koyama, Mami']	"[['Hisaishi, Joe', 'Theme Song Performance'], ['Horie, Mitsuko', 'Theme Song Performance'], ['Watanabe, Takeo', 'Theme Song Composition, Music'], [""Koorogi '73"", 'Theme Song Performance']]"

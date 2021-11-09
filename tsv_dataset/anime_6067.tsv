@@ -1,15 +1,2 @@
-animeTitle	Redial
-animeType	Music
-animeNumEpisode	1
-releaseDate	2013-03-20 00:00:00
-endDate	
-animeNumMembers	2952
-animeScore	6.51
-animeUsers	1787
-animeRank	6067
-animePopularity	8418
-animeDescription	"""Redial"" is the title track of livetune's 2013 compilation album Re:Dial featuring Hatsune Miku. An animated music video of the song was included in a limited edition DVD sold with the album."
-animeRelated	[]
-animeCharacters	['Hatsune, Miku']
-animeVoices	[]
-animeStaff	[['Murakami, Takashi', 'Director'], ['Hatsune, Miku', 'Theme Song Performance'], ['kz', 'Theme Song Composition, Theme Song Lyrics, Theme Song Arrangement'], ['mebae', 'Character Design, Key Animation']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Redial	Music	1	2013-03-20 00:00:00		2952	6.51	1787	6067	8418	"""Redial"" is the title track of livetune's 2013 compilation album Re:Dial featuring Hatsune Miku. An animated music video of the song was included in a limited edition DVD sold with the album."	[]	['Hatsune, Miku']	[]	[['Murakami, Takashi', 'Director'], ['Hatsune, Miku', 'Theme Song Performance'], ['kz', 'Theme Song Composition, Theme Song Lyrics, Theme Song Arrangement'], ['mebae', 'Character Design, Key Animation']]

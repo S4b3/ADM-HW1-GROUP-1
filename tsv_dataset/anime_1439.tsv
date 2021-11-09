@@ -1,14 +1,5 @@
-animeTitle	Over Drive
-animeType	TV
-animeNumEpisode	26
-releaseDate	2007-04-04 00:00:00
-endDate	2007-09-26 00:00:00
-animeNumMembers	41166
-animeScore	7.56
-animeUsers	18659
-animeRank	1439
-animePopularity	2760
-animeDescription	"Tour de France, it is the biggest bicycle race in the world. Now, a new achievement is about to be recorded in the history of Tour de France. The top racer is a Japanese boy named Shinozaki Mikoto.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Over Drive	TV	26	2007-04-04 00:00:00	2007-09-26 00:00:00	41166	7.56	18659	1439	2760	"Tour de France, it is the biggest bicycle race in the world. Now, a new achievement is about to be recorded in the history of Tour de France. The top racer is a Japanese boy named Shinozaki Mikoto.
 
 ""Why don't you join our bicycle club?"" said Fukazawa, Shinozaki Mikoto's secret love.
 
@@ -18,8 +9,4 @@ Unfortunately, despite being a high school student, he doesn't know how to ride 
 
 Experiencing failure with his friends and rivals, he pedals towards becoming the top racer.
 
-(Source: AnimeNfo)"
-animeRelated	['Over Drive']
-animeCharacters	['Shinozaki, Mikoto', 'Yamato, Takeshi', 'Fukazawa, Yousuke', 'Fukazawa, Yuki', 'Terao, Kouichi', 'Hyoudou, Naoto', 'Asahi, Kaho']
-animeVoices	['Kaji, Yuki', 'Taniyama, Kishou', 'Yasumura, Makoto', 'Nazuka, Kaori', 'Nojima, Kenji', 'Okiayu, Ryoutarou', 'Yahagi, Sayuri']
-animeStaff	[['Kato, Takao', 'Director'], ['Takadera, Takeshi', 'Sound Director'], ['Takahashi, Hideya', 'Episode Director'], ['Andou, Takashi', 'Episode Director, Storyboard']]
+(Source: AnimeNfo)"	['Over Drive']	['Shinozaki, Mikoto', 'Yamato, Takeshi', 'Fukazawa, Yousuke', 'Fukazawa, Yuki', 'Terao, Kouichi', 'Hyoudou, Naoto', 'Asahi, Kaho']	['Kaji, Yuki', 'Taniyama, Kishou', 'Yasumura, Makoto', 'Nazuka, Kaori', 'Nojima, Kenji', 'Okiayu, Ryoutarou', 'Yahagi, Sayuri']	[['Kato, Takao', 'Director'], ['Takadera, Takeshi', 'Sound Director'], ['Takahashi, Hideya', 'Episode Director'], ['Andou, Takashi', 'Episode Director, Storyboard']]

@@ -1,15 +1,2 @@
-animeTitle	Kodomo no Jikan: Ni Gakki
-animeType	OVA
-animeNumEpisode	3
-releaseDate	2009-02-20 00:00:00
-endDate	2009-07-24 00:00:00
-animeNumMembers	29713
-animeScore	7.07
-animeUsers	16015
-animeRank	3492
-animePopularity	3305
-animeDescription	The second season of Kodomo no Jikan.
-animeRelated	['Kodomo no Jikan', 'Kodomo no Jikan (TV)']
-animeCharacters	['Kokonoe, Rin', 'Kagami, Kuro', 'Usa, Mimi', 'Aoki, Daisuke', 'Shirai, Sae', 'Kokonoe, Reiji', 'Houin, Kyouko', 'Oyajima, Kenta']
-animeVoices	['Kitamura, Eri', 'Shindou, Kei', 'Kadowaki, Mai', 'Majima, Junji', 'Soumi, Youko', 'Sugita, Tomokazu', 'Tanaka, Ryouko', 'Ishigami, Yuuichi']
-animeStaff	[['Suganuma, Eiji', 'Director, Episode Director, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Okada, Mari', 'Script, Series Composition'], ['Kitamura, Eri', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kodomo no Jikan: Ni Gakki	OVA	3	2009-02-20 00:00:00	2009-07-24 00:00:00	29713	7.07	16015	3492	3305	The second season of Kodomo no Jikan.	['Kodomo no Jikan', 'Kodomo no Jikan (TV)']	['Kokonoe, Rin', 'Kagami, Kuro', 'Usa, Mimi', 'Aoki, Daisuke', 'Shirai, Sae', 'Kokonoe, Reiji', 'Houin, Kyouko', 'Oyajima, Kenta']	['Kitamura, Eri', 'Shindou, Kei', 'Kadowaki, Mai', 'Majima, Junji', 'Soumi, Youko', 'Sugita, Tomokazu', 'Tanaka, Ryouko', 'Ishigami, Yuuichi']	[['Suganuma, Eiji', 'Director, Episode Director, Storyboard'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Okada, Mari', 'Script, Series Composition'], ['Kitamura, Eri', 'Theme Song Performance']]

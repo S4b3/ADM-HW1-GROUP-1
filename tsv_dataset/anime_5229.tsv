@@ -1,17 +1,4 @@
-animeTitle	Spriggan
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1998-09-05 00:00:00
-endDate	
-animeNumMembers	22271
-animeScore	6.67
-animeUsers	11011
-animeRank	5229
-animePopularity	3809
-animeDescription	"Deep in the Ararat Mountains of Turkey, a secret organization known as ARCAM has found what is believed to be Noah's Ark. However, the U.S. Machine Corps., a rogue organization of the Pentagon, wants to take over the Ark as a means of global supremacy. Only a special ARCAM operative known as a Spriggan stands in their way. Japanese Spriggan Yu Ominae teams up with French Spriggan Jean-Jacques Mondo to combat members of the U.S. Machine Corps. led by Col. MacDougall—a genetically-enhanced boy with deadly psionic powers. However, they must act fast and stop MacDougall before he uses the Ark for his own agenda.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Spriggan	Movie	1	1998-09-05 00:00:00		22271	6.67	11011	5229	3809	"Deep in the Ararat Mountains of Turkey, a secret organization known as ARCAM has found what is believed to be Noah's Ark. However, the U.S. Machine Corps., a rogue organization of the Pentagon, wants to take over the Ark as a means of global supremacy. Only a special ARCAM operative known as a Spriggan stands in their way. Japanese Spriggan Yu Ominae teams up with French Spriggan Jean-Jacques Mondo to combat members of the U.S. Machine Corps. led by Col. MacDougall—a genetically-enhanced boy with deadly psionic powers. However, they must act fast and stop MacDougall before he uses the Ark for his own agenda.
 
-(Source: ANN)"
-animeRelated	['Spriggan', 'Spriggan (ONA)']
-animeCharacters	['Ominae, Yuu', 'MacDougall, Colonel', 'Margaret', 'Dr. Meisel', 'Jacquemondo, Jean', 'Director Yamamoto', 'Narrator', 'Little Boy', 'Fat Man', 'Takanaka']
-animeVoices	['Morikubo, Shoutarou', 'Aigase, Ryuji', 'Tamagawa, Sakiko', 'Shiroyama, Ken', 'Koyasu, Takehito', 'Arimoto, Kinryuu', 'Yajima, Masaaki', 'Suzuki, Katsumi', 'Makishima, Naoki']
-animeStaff	[['Otomo, Katsuhiro', 'Producer'], ['Kawasaki, Hirotsugu', 'Director, Storyboard, Screenplay'], ['Tsuruoka, Youta', 'Sound Director'], ['Watanabe, Akio', 'Key Animation']]
+(Source: ANN)"	['Spriggan', 'Spriggan (ONA)']	['Ominae, Yuu', 'MacDougall, Colonel', 'Margaret', 'Dr. Meisel', 'Jacquemondo, Jean', 'Director Yamamoto', 'Narrator', 'Little Boy', 'Fat Man', 'Takanaka']	['Morikubo, Shoutarou', 'Aigase, Ryuji', 'Tamagawa, Sakiko', 'Shiroyama, Ken', 'Koyasu, Takehito', 'Arimoto, Kinryuu', 'Yajima, Masaaki', 'Suzuki, Katsumi', 'Makishima, Naoki']	[['Otomo, Katsuhiro', 'Producer'], ['Kawasaki, Hirotsugu', 'Director, Storyboard, Screenplay'], ['Tsuruoka, Youta', 'Sound Director'], ['Watanabe, Akio', 'Key Animation']]

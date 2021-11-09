@@ -1,16 +1,3 @@
-animeTitle	Mobile Suit SD Gundam Mk I
-animeType	Special
-animeNumEpisode	3
-releaseDate	1988-03-12 00:00:00
-endDate	1988-05-25 00:00:00
-animeNumMembers	3977
-animeScore	6.27
-animeUsers	1687
-animeRank	7311
-animePopularity	7654
-animeDescription	"A collection of short parodies of the Mobile Suit Gundam saga. Episode 1 pokes fun at key events that occurred during the One Year War. In episode 2, Amuro, Kamille and Judau fight over who runs the better pension when Char comes in to crash their party. Episode 3 is the SD Olympics, an array of athletic events pitting man with mobile suit. 
-"
-animeRelated	"['Mobile Suit Gundam', ""Mobile Suit SD Gundam's Counterattack"", 'Mobile Suit SD Gundam Musha, Knight, Commando', 'Mobile Suit SD Gundam Festival', 'Mobile Suit SD Gundam Mk II', 'Many Things SD Gundam']"
-animeCharacters	['Ray, Amuro', 'Bidan, Kamille', 'Ashta, Judau', 'Aznable, Char', 'Karn, Haman', 'Noa, Bright', 'Haro', 'Mass, Sayla', 'Zabi, Mineva Lao', 'Shiden, Kai']
-animeVoices	['Furuya, Toru', 'Tobita, Nobuo', 'Yao, Kazuki', 'Sakakibara, Yoshiko', 'Suzuoki, Hirotaka', 'Takagi, Sanae', 'Inoue, You', 'Itou, Miki', 'Furukawa, Toshio']
-animeStaff	[['Yatate, Hajime', 'Producer'], ['Sekita, Osamu', 'Director'], ['Chiba, Kouichi', 'Sound Director'], ['Tomino, Yoshiyuki', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Mobile Suit SD Gundam Mk I	Special	3	1988-03-12 00:00:00	1988-05-25 00:00:00	3977	6.27	1687	7311	7654	"A collection of short parodies of the Mobile Suit Gundam saga. Episode 1 pokes fun at key events that occurred during the One Year War. In episode 2, Amuro, Kamille and Judau fight over who runs the better pension when Char comes in to crash their party. Episode 3 is the SD Olympics, an array of athletic events pitting man with mobile suit. 
+"	"['Mobile Suit Gundam', ""Mobile Suit SD Gundam's Counterattack"", 'Mobile Suit SD Gundam Musha, Knight, Commando', 'Mobile Suit SD Gundam Festival', 'Mobile Suit SD Gundam Mk II', 'Many Things SD Gundam']"	['Ray, Amuro', 'Bidan, Kamille', 'Ashta, Judau', 'Aznable, Char', 'Karn, Haman', 'Noa, Bright', 'Haro', 'Mass, Sayla', 'Zabi, Mineva Lao', 'Shiden, Kai']	['Furuya, Toru', 'Tobita, Nobuo', 'Yao, Kazuki', 'Sakakibara, Yoshiko', 'Suzuoki, Hirotaka', 'Takagi, Sanae', 'Inoue, You', 'Itou, Miki', 'Furukawa, Toshio']	[['Yatate, Hajime', 'Producer'], ['Sekita, Osamu', 'Director'], ['Chiba, Kouichi', 'Sound Director'], ['Tomino, Yoshiyuki', 'Original Creator']]

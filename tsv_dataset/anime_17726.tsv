@@ -1,14 +1,5 @@
-animeTitle	Ane Yome Quartet
-animeType	OVA
-animeNumEpisode	2
-releaseDate	2015-10-09 00:00:00
-endDate	2016-03-25 00:00:00
-animeNumMembers	16393
-animeScore	7.22
-animeUsers	6612
-animeRank	
-animePopularity	4374
-animeDescription	"Based of the game by Candy Soft. Summary of the game:
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Ane Yome Quartet	OVA	2	2015-10-09 00:00:00	2016-03-25 00:00:00	16393	7.22	6612		4374	"Based of the game by Candy Soft. Summary of the game:
 
 The Hanabishi family and Hidaka family are next door neighbors.
 The fathers of both households could be called best friends, so they all get along like one big happy family. In particular, Hidaka family’s only son Kouki was raised lovingly by the four Hanabishi sisters like he was their own brother. 
@@ -30,8 +21,4 @@ Each of them have their own motives doing anything they can; at times even tempt
 If Kouki ever chooses a bride, who will it be?
 The energetic life with the quartet of sisters is about to begin.
 
-(Source: VNDB)"
-animeRelated	[]
-animeCharacters	['Hanabishi, Saori', 'Hanabishi, Yurina', 'Hanabishi, Momone', 'Hanabishi, Anzu', 'Hanabishi, Koume']
-animeVoices	['Momoya, Minami', 'Misonoo, Mei', 'Suzuya, Maya', 'Takamura, Yuri']
-animeStaff	[['Candy Soft', 'Original Creator']]
+(Source: VNDB)"	[]	['Hanabishi, Saori', 'Hanabishi, Yurina', 'Hanabishi, Momone', 'Hanabishi, Anzu', 'Hanabishi, Koume']	['Momoya, Minami', 'Misonoo, Mei', 'Suzuya, Maya', 'Takamura, Yuri']	[['Candy Soft', 'Original Creator']]

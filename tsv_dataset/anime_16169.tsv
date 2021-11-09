@@ -1,15 +1,2 @@
-animeTitle	Houkago
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2013-01-01 00:00:00
-endDate	
-animeNumMembers	72
-animeScore	
-animeUsers	
-animeRank	16169
-animePopularity	18121
-animeDescription	A film by Kei Oyama about junior high students.
-animeRelated	['Houkago Pilot']
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Houkago	Movie	1	2013-01-01 00:00:00		72			16169	18121	A film by Kei Oyama about junior high students.	['Houkago Pilot']	[]	[]	[]

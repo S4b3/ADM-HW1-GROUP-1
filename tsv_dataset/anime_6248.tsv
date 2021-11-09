@@ -1,14 +1,5 @@
-animeTitle	Saint October
-animeType	TV
-animeNumEpisode	26
-releaseDate	2007-01-05 00:00:00
-endDate	2007-06-29 00:00:00
-animeNumMembers	5726
-animeScore	6.48
-animeUsers	786
-animeRank	6248
-animePopularity	6632
-animeDescription	"Whether it is the future or the past it is the world of fantasy and horror hiding in the shadow of the demon city. In the city, consecutive mysterious incidents that cannot be solved by science have occurred. To solve the incidents, they gather three girl detectives possessing special abilities.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Saint October	TV	26	2007-01-05 00:00:00	2007-06-29 00:00:00	5726	6.48	786	6248	6632	"Whether it is the future or the past it is the world of fantasy and horror hiding in the shadow of the demon city. In the city, consecutive mysterious incidents that cannot be solved by science have occurred. To solve the incidents, they gather three girl detectives possessing special abilities.
 
 Hayama Kotono. She is an orphan living in a convent.
 Shirafuji Natuski. She is Kotono's classmate and a pop idol.
@@ -20,8 +11,4 @@ Which is justice, and which is evil?
 
 When Kotono encounters a boy who lost his memory, the wheel of the story begins to move but slowly. Then, solving the mysteries, the three girls will confront the fate that will influence the existence of the human beings.
 
-(Source: AnimeNfo)"
-animeRelated	['Saint October']
-animeCharacters	['Hijiri, Misaki', 'Shirafuji, Natsuki', 'Hayama, Kotono', 'Kurtz', 'Esmeralda', 'Cecil', 'Sophia', 'Kuroki, Koushirou', 'Artista', 'Ash']
-animeVoices	['Kobayashi, Yuu', 'Fukui, Yukari', 'Enoki, Azusa', 'Tsuda, Kenjirou', 'Erika', 'Iguchi, Yuka', 'Shishido, Rumi', 'Kawamoto, Naru', 'Hosono, Yumiko', 'Koyasu, Takehito']
-animeStaff	[['Satou, Masafumi', 'Director, Episode Director, Storyboard, Digital Paint'], ['Hiramitsu, Takuya', 'Sound Director'], ['Noshitani, Mitsutaka', 'Episode Director'], ['Yamada, Yuka', 'Script']]
+(Source: AnimeNfo)"	['Saint October']	['Hijiri, Misaki', 'Shirafuji, Natsuki', 'Hayama, Kotono', 'Kurtz', 'Esmeralda', 'Cecil', 'Sophia', 'Kuroki, Koushirou', 'Artista', 'Ash']	['Kobayashi, Yuu', 'Fukui, Yukari', 'Enoki, Azusa', 'Tsuda, Kenjirou', 'Erika', 'Iguchi, Yuka', 'Shishido, Rumi', 'Kawamoto, Naru', 'Hosono, Yumiko', 'Koyasu, Takehito']	[['Satou, Masafumi', 'Director, Episode Director, Storyboard, Digital Paint'], ['Hiramitsu, Takuya', 'Sound Director'], ['Noshitani, Mitsutaka', 'Episode Director'], ['Yamada, Yuka', 'Script']]

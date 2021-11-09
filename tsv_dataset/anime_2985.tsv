@@ -1,14 +1,5 @@
-animeTitle	Shin Hakkenden
-animeType	TV
-animeNumEpisode	26
-releaseDate	1999-04-03 00:00:00
-endDate	1999-09-25 00:00:00
-animeNumMembers	5476
-animeScore	7.18
-animeUsers	1926
-animeRank	2985
-animePopularity	6746
-animeDescription	"Based on the long cherished, classic Japanese novel Nanso Satomi Hakkenden by Bakin Kyokutei Takizawa (1767), a modified version of it was made into animation.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shin Hakkenden	TV	26	1999-04-03 00:00:00	1999-09-25 00:00:00	5476	7.18	1926	2985	6746	"Based on the long cherished, classic Japanese novel Nanso Satomi Hakkenden by Bakin Kyokutei Takizawa (1767), a modified version of it was made into animation.
 
 Taking place in the future, during this time wars were occuring in heaven, mostly for possession between the eight moons created by the savior Fuse that surrounded God's land. When the war ended, there was only one ruling family - that of the Oowaris, and the remaining son gained control of all the moons of heaven, except for one. Meiten, the moon of the pope, where people refrained from war and were therefore out of it's terms.
 
@@ -16,8 +7,4 @@ Eight people. Each from one of the eight moons. Each possessing one of the jewel
 
 So they all go to Kusanagi, the ship in the center of God's land. They must gather the jewels in the key called Yatsufusa at Kusanagi's center, in order to create Earth.
 
-(Source: AniDB)"
-animeRelated	[]
-animeCharacters	['Yagami, Kou', 'Rei', 'Jinrai', 'Chuji', 'Gyo', 'Noburu', 'Ruty', 'Tomoka', 'Maro', 'Kai']
-animeVoices	['Suzuki, Masami', 'Asakawa, Yuu', 'Morikawa, Toshiyuki', 'Tatsuta, Naoki', 'Nishimura, Tomohiro', 'Komatsu, Rika', 'Kikuchi, Shiho', 'Okiayu, Ryoutarou', 'Nakai, Kazuya', 'Koyasu, Takehito']
-animeStaff	[['Takahashi, Hideo', 'Sound Director'], ['Inokawa, Shintarou', 'Episode Director'], ['Endou, Tetsuya', 'Storyboard'], ['Ookura, Masahiko', 'Storyboard, Animation Director, Mechanical Design']]
+(Source: AniDB)"	[]	['Yagami, Kou', 'Rei', 'Jinrai', 'Chuji', 'Gyo', 'Noburu', 'Ruty', 'Tomoka', 'Maro', 'Kai']	['Suzuki, Masami', 'Asakawa, Yuu', 'Morikawa, Toshiyuki', 'Tatsuta, Naoki', 'Nishimura, Tomohiro', 'Komatsu, Rika', 'Kikuchi, Shiho', 'Okiayu, Ryoutarou', 'Nakai, Kazuya', 'Koyasu, Takehito']	[['Takahashi, Hideo', 'Sound Director'], ['Inokawa, Shintarou', 'Episode Director'], ['Endou, Tetsuya', 'Storyboard'], ['Ookura, Masahiko', 'Storyboard, Animation Director, Mechanical Design']]

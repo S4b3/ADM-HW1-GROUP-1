@@ -1,15 +1,2 @@
-animeTitle	Norakuro Ittouhei
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1935-01-01 00:00:00
-endDate	
-animeNumMembers	344
-animeScore	5.34
-animeUsers	146
-animeRank	10823
-animePopularity	14096
-animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
-animeRelated	['Norakuro', 'Norakuro Gochou', 'Norakuro Shoui: Nichiyoubi no Kaijiken', 'Norakuro-kun', 'Norakuro Nitouhei']
-animeCharacters	['Norakuro']
-animeVoices	[]
-animeStaff	[['Seo, Mitsuyo', 'Director'], ['Tagawa, Suihou', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Norakuro Ittouhei	Movie	1	1935-01-01 00:00:00		344	5.34	146	10823	14096	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.	['Norakuro', 'Norakuro Gochou', 'Norakuro Shoui: Nichiyoubi no Kaijiken', 'Norakuro-kun', 'Norakuro Nitouhei']	['Norakuro']	[]	[['Seo, Mitsuyo', 'Director'], ['Tagawa, Suihou', 'Original Creator']]

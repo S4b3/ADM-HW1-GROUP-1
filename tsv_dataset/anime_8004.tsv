@@ -1,14 +1,5 @@
-animeTitle	Ninkuu (Movie)
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1995-07-15 00:00:00
-endDate	
-animeNumMembers	1459
-animeScore	6.13
-animeUsers	589
-animeRank	8004
-animePopularity	10233
-animeDescription	"How much humiliation can four people and a penguin take?
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Ninkuu (Movie)	Movie	1	1995-07-15 00:00:00		1459	6.13	589	8004	10233	"How much humiliation can four people and a penguin take?
 
 Hard boiled Aito? Sexy bombshell Rihoko? Choji the red brief? Shining Fuusuke? Cutesy Hooter Hiroyuki? Oh, gimme a break! Who do these guys think they are? The Ninku?
 
@@ -16,8 +7,4 @@ Unfortunately for the real Aito, Choji, Rihoko, and Fuusuke, they do. But little
 
 Fortunately for our phony friends, the real Aito, Choji, and Fuusuke step in, there’s nothing but trouble for the bad guys. Can the Ninku art of magic fighting beat the Heaven & Earth brothers deadly fighting style?
 
-(Source: AniDB)"
-animeRelated	['Ninku', 'Ninkuu']
-animeCharacters	['Fuusuke', 'Rihoko', 'Hiroyuki', 'Aicho', 'Touji']
-animeVoices	['Matsumoto, Rica', 'Madono, Mitsuaki']
-animeStaff	[['Maseba, Yutaka', 'Producer'], ['Abe, Noriyuki', 'Director, Storyboard'], ['Mizuno, Kazunori', 'Episode Director, Storyboard'], ['Ishihama, Masashi', 'Key Animation, Principle Drawing']]
+(Source: AniDB)"	['Ninku', 'Ninkuu']	['Fuusuke', 'Rihoko', 'Hiroyuki', 'Aicho', 'Touji']	['Matsumoto, Rica', 'Madono, Mitsuaki']	[['Maseba, Yutaka', 'Producer'], ['Abe, Noriyuki', 'Director, Storyboard'], ['Mizuno, Kazunori', 'Episode Director, Storyboard'], ['Ishihama, Masashi', 'Key Animation, Principle Drawing']]

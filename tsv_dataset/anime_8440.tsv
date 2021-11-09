@@ -1,15 +1,2 @@
-animeTitle	Bonobono
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1993-11-13 00:00:00
-endDate	
-animeNumMembers	479
-animeScore	6.05
-animeUsers	127
-animeRank	8440
-animePopularity	13075
-animeDescription	The first theatrical Bonobono movie.
-animeRelated	['Bonobono', 'Bonobono (TV)', 'Bonobono: Kumomo no Ki no Koto']
-animeCharacters	['Bonobono', 'Shimarisu', 'Araiguma', 'Sunadorineko', 'Araiguma-kun no Otousan']
-animeVoices	['Fujita, Toshiko', 'Baba, Sumie', 'Yara, Yuusaku', 'Ootsuka, Houchuu', 'Otsuka, Chikao']
-animeStaff	[['Asami, Takashi', 'Episode Director, Storyboard'], ['Gontiti', 'Music'], ['Mutou, Yuuji', 'Chief Animation Director'], ['Igarashi, Mikio', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Bonobono	Movie	1	1993-11-13 00:00:00		479	6.05	127	8440	13075	The first theatrical Bonobono movie.	['Bonobono', 'Bonobono (TV)', 'Bonobono: Kumomo no Ki no Koto']	['Bonobono', 'Shimarisu', 'Araiguma', 'Sunadorineko', 'Araiguma-kun no Otousan']	['Fujita, Toshiko', 'Baba, Sumie', 'Yara, Yuusaku', 'Ootsuka, Houchuu', 'Otsuka, Chikao']	[['Asami, Takashi', 'Episode Director, Storyboard'], ['Gontiti', 'Music'], ['Mutou, Yuuji', 'Chief Animation Director'], ['Igarashi, Mikio', 'Original Creator']]

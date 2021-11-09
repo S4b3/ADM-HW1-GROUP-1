@@ -1,15 +1,2 @@
-animeTitle	Gotou ni Naritai.
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1995-10-10 00:00:00
-endDate	
-animeNumMembers	2362
-animeScore	7.06
-animeUsers	831
-animeRank	3509
-animePopularity	8989
-animeDescription	Story of a girl born with a bad leg. Ritsuko longs to go to school and make lots of friends but it is not so easy. Her mother is very protective of her and at school she is teased by her classmates for her strange way of walking. Will she manage to keep her smile?
-animeRelated	[]
-animeCharacters	['Hanauchi, Ritsuko', 'Ishibashi-sensei', 'Mikiko', 'Oka, Sakiko']
-animeVoices	['Mitarai, Rika', 'Seino, Yumi', 'Nakatake, Kanako']
-animeStaff	[['Oshima, Michiru', 'Music'], ['Jizoumoto, Takuji', 'Art Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Gotou ni Naritai.	Movie	1	1995-10-10 00:00:00		2362	7.06	831	3509	8989	Story of a girl born with a bad leg. Ritsuko longs to go to school and make lots of friends but it is not so easy. Her mother is very protective of her and at school she is teased by her classmates for her strange way of walking. Will she manage to keep her smile?	[]	['Hanauchi, Ritsuko', 'Ishibashi-sensei', 'Mikiko', 'Oka, Sakiko']	['Mitarai, Rika', 'Seino, Yumi', 'Nakatake, Kanako']	[['Oshima, Michiru', 'Music'], ['Jizoumoto, Takuji', 'Art Director']]

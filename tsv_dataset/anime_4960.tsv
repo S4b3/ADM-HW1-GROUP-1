@@ -1,15 +1,2 @@
-animeTitle	Blood-C: Special Edition
-animeType	Special
-animeNumEpisode	2
-releaseDate	2012-05-26 00:00:00
-endDate	2012-05-30 00:00:00
-animeNumMembers	16260
-animeScore	6.73
-animeUsers	3904
-animeRank	4960
-animePopularity	4389
-animeDescription	Two summary episodes of the TV series that are airing prior to Blood-C: The Last Dark.  They will feature secret content that was never aired during the TV series' run.
-animeRelated	['Blood-C', 'Blood-C: The Last Dark']
-animeCharacters	['Kisaragi, Saya', 'Nanahara, Fumito', 'Dog', 'Motoe, Nene', 'Tokizane, Shinichirou', 'Motoe, Nono', 'Amino, Yuuka', 'Kisaragi, Tadayoshi', 'Tomofusa, Itsuki', 'Tsutsutori, Kanako']
-animeVoices	['Mizuki, Nana', 'Nojima, Kenji', 'Fukuyama, Jun', 'Fukuen, Misato', 'Suzuki, Tatsuhisa', 'Asano, Masumi', 'Fujiwara, Keiji', 'Abe, Atsushi', 'Miyagawa, Miho']
-animeStaff	[['CLAMP', 'Original Character Design'], ['Furukawa, Hisaki', 'Key Animation']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Blood-C: Special Edition	Special	2	2012-05-26 00:00:00	2012-05-30 00:00:00	16260	6.73	3904	4960	4389	Two summary episodes of the TV series that are airing prior to Blood-C: The Last Dark.  They will feature secret content that was never aired during the TV series' run.	['Blood-C', 'Blood-C: The Last Dark']	['Kisaragi, Saya', 'Nanahara, Fumito', 'Dog', 'Motoe, Nene', 'Tokizane, Shinichirou', 'Motoe, Nono', 'Amino, Yuuka', 'Kisaragi, Tadayoshi', 'Tomofusa, Itsuki', 'Tsutsutori, Kanako']	['Mizuki, Nana', 'Nojima, Kenji', 'Fukuyama, Jun', 'Fukuen, Misato', 'Suzuki, Tatsuhisa', 'Asano, Masumi', 'Fujiwara, Keiji', 'Abe, Atsushi', 'Miyagawa, Miho']	[['CLAMP', 'Original Character Design'], ['Furukawa, Hisaki', 'Key Animation']]

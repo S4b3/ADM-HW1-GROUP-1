@@ -1,17 +1,4 @@
-animeTitle	Lamune
-animeType	TV
-animeNumEpisode	12
-releaseDate	2005-10-11 00:00:00
-endDate	2005-12-27 00:00:00
-animeNumMembers	38807
-animeScore	6.81
-animeUsers	16526
-animeRank	4602
-animePopularity	2860
-animeDescription	"Lamune tells the story of a boy named Kenji and his childhood friend Nanami. Although, everyone seems to know that they have a relationship, neither are determined to push it anymore than close friends. The story goes through flashbacks, explaining why they are such close friends and any action doesn't seem to push them apart, but draw them closer.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Lamune	TV	12	2005-10-11 00:00:00	2005-12-27 00:00:00	38807	6.81	16526	4602	2860	"Lamune tells the story of a boy named Kenji and his childhood friend Nanami. Although, everyone seems to know that they have a relationship, neither are determined to push it anymore than close friends. The story goes through flashbacks, explaining why they are such close friends and any action doesn't seem to push them apart, but draw them closer.
 
-(Source: ANN)"
-animeRelated	[]
-animeCharacters	['Konoe, Nanami', 'Tomosaka, Kenji', 'Hatano', 'Nakazato, Hikari', 'Ayukawa, Misora', 'Konoe, Kagami', 'Tomosaka, Suzuka', 'Sakura, Hiromi', 'Isawa, Tae', 'Schoolboy A']
-animeVoices	['Gotou, Yuuko', 'Taniyama, Kishou', 'Oohata, Shintarou', 'Tomonaga, Akane', 'Shintani, Ryouko', 'Narumi, Erika', 'Sato, Mikako', 'Taguchi, Hiroko', 'Yanase, Natsumi', 'Tachibana, Shinnosuke']
-animeStaff	[['Oomiya, Saburou', 'Producer'], ['Takada, Jun', 'Director, Episode Director, Storyboard'], ['Endou, Tetsuya', 'Episode Director, Storyboard'], ['Yamamoto, Takashi', 'Episode Director']]
+(Source: ANN)"	[]	['Konoe, Nanami', 'Tomosaka, Kenji', 'Hatano', 'Nakazato, Hikari', 'Ayukawa, Misora', 'Konoe, Kagami', 'Tomosaka, Suzuka', 'Sakura, Hiromi', 'Isawa, Tae', 'Schoolboy A']	['Gotou, Yuuko', 'Taniyama, Kishou', 'Oohata, Shintarou', 'Tomonaga, Akane', 'Shintani, Ryouko', 'Narumi, Erika', 'Sato, Mikako', 'Taguchi, Hiroko', 'Yanase, Natsumi', 'Tachibana, Shinnosuke']	[['Oomiya, Saburou', 'Producer'], ['Takada, Jun', 'Director, Episode Director, Storyboard'], ['Endou, Tetsuya', 'Episode Director, Storyboard'], ['Yamamoto, Takashi', 'Episode Director']]

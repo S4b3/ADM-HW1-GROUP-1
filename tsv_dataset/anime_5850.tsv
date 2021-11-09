@@ -1,14 +1,5 @@
-animeTitle	Plunderer
-animeType	TV
-animeNumEpisode	24
-releaseDate	2020-01-09 00:00:00
-endDate	2020-06-25 00:00:00
-animeNumMembers	292541
-animeScore	6.55
-animeUsers	106728
-animeRank	5850
-animePopularity	592
-animeDescription	"Alcia is a world governed by ""Count"": numbers engraved on a person's body, representing any number related to their life. These Counts determine a person's social status and power in Alcia. If a Count reaches zero, the person is sent to the Abyss, a place rumored to be worse than death.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Plunderer	TV	24	2020-01-09 00:00:00	2020-06-25 00:00:00	292541	6.55	106728	5850	592	"Alcia is a world governed by ""Count"": numbers engraved on a person's body, representing any number related to their life. These Counts determine a person's social status and power in Alcia. If a Count reaches zero, the person is sent to the Abyss, a place rumored to be worse than death.
 
 Hina, a traveler whose Count is based on the distance she traveled, witnessed her mother get dragged down into the Abyss. Determined to fulfill her mother's last wishes, she sets off on a journey in search of the legendary Aces—heroes of the war that happened three hundred years ago, bearing a white star next to their Count.
 
@@ -16,8 +7,4 @@ While wandering around, Hina encounters Licht Bach, a mysterious masked man with
 
 Plunderer follows the journey of Hina and other inhabitants of Alcia as they discover the truth about their world, the Abyss, and the legendary Aces.
 
-[Written by MAL Rewrite]"
-animeRelated	['Plunderer']
-animeCharacters	['Bach, Licht', 'Murdoch, Jail', 'Hina', 'Poporo, Pele', 'Mei, Lyne', 'Nana', 'Bach, Shumerman', 'Sakai, Tokikaze', 'Sonohara, Mizuka', 'Grigorovich, Alexandrov']
-animeVoices	['Nakajima, Yoshiki', 'Umehara, Yuuichirou', 'Honizumi, Rina', 'Ichikawa, Aoi', 'Ozawa, Ari', 'Itou, Shizuka', 'Seki, Toshihiko', 'Ishikawa, Kaito', 'Yuuki, Aoi', 'Touchi, Hiroki']
-animeStaff	[['Kanbe, Hiroyuki', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Suzuki, Masashi', 'Script, Series Composition'], ['Itou, Shizuka', 'Theme Song Performance']]
+[Written by MAL Rewrite]"	['Plunderer']	['Bach, Licht', 'Murdoch, Jail', 'Hina', 'Poporo, Pele', 'Mei, Lyne', 'Nana', 'Bach, Shumerman', 'Sakai, Tokikaze', 'Sonohara, Mizuka', 'Grigorovich, Alexandrov']	['Nakajima, Yoshiki', 'Umehara, Yuuichirou', 'Honizumi, Rina', 'Ichikawa, Aoi', 'Ozawa, Ari', 'Itou, Shizuka', 'Seki, Toshihiko', 'Ishikawa, Kaito', 'Yuuki, Aoi', 'Touchi, Hiroki']	[['Kanbe, Hiroyuki', 'Director'], ['Ebina, Yasunori', 'Sound Director'], ['Suzuki, Masashi', 'Script, Series Composition'], ['Itou, Shizuka', 'Theme Song Performance']]

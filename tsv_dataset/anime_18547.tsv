@@ -1,15 +1,2 @@
-animeTitle	Natural
-animeType	OVA
-animeNumEpisode	2
-releaseDate	1999-02-25 00:00:00
-endDate	1999-05-25 00:00:00
-animeNumMembers	1956
-animeScore	5.95
-animeUsers	682
-animeRank	
-animePopularity	9491
-animeDescription	Rumor's spreading of a hot new couple on campus! A professor is giving the sexy swim star some very special lessons. And this teacher's pet is hot to trot and learning all kinds of new tricks! 
-animeRelated	['Natural: Mi mo Kokoro mo', 'Natural: Another']
-animeCharacters	['Misawa, Chitose', 'Shimotsuki, Haruhiko', 'Dean', 'Tagami, Itsuki', 'President', 'Akagi', 'Kawada, Hotori', 'Misawa, Mariko']
-animeVoices	[]
-animeStaff	[['Kageyama, Shigenori', 'Script, Screenplay'], ['Awai, Shigeki', 'Animation Director'], ['Fairytale', 'Original Creator'], ['Tokiwa, Shouji', 'Art Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Natural	OVA	2	1999-02-25 00:00:00	1999-05-25 00:00:00	1956	5.95	682		9491	Rumor's spreading of a hot new couple on campus! A professor is giving the sexy swim star some very special lessons. And this teacher's pet is hot to trot and learning all kinds of new tricks! 	['Natural: Mi mo Kokoro mo', 'Natural: Another']	['Misawa, Chitose', 'Shimotsuki, Haruhiko', 'Dean', 'Tagami, Itsuki', 'President', 'Akagi', 'Kawada, Hotori', 'Misawa, Mariko']	[]	[['Kageyama, Shigenori', 'Script, Screenplay'], ['Awai, Shigeki', 'Animation Director'], ['Fairytale', 'Original Creator'], ['Tokiwa, Shouji', 'Art Director']]

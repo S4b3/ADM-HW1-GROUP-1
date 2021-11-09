@@ -1,15 +1,2 @@
-animeTitle	Alice in Dreamland
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2015-12-19 00:00:00
-endDate	
-animeNumMembers	1856
-animeScore	5.12
-animeUsers	339
-animeRank	11252
-animePopularity	9665
-animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
-animeRelated	[]
-animeCharacters	['White Rabbit', 'Alice']
-animeVoices	[]
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Alice in Dreamland	Movie	1	2015-12-19 00:00:00		1856	5.12	339	11252	9665	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.	[]	['White Rabbit', 'Alice']	[]	[]

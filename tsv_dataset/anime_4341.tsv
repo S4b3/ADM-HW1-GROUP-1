@@ -1,15 +1,2 @@
-animeTitle	Galaxy Angel S
-animeType	OVA
-animeNumEpisode	1
-releaseDate	2004-04-23 00:00:00
-endDate	
-animeNumMembers	2139
-animeScore	6.86
-animeUsers	764
-animeRank	4341
-animePopularity	9257
-animeDescription	Galaxy Angel 3 TV special that contains 2 stories.
-animeRelated	['Galaxy Angel 3']
-animeCharacters	['Sakuraba, Milfeulle', 'Blancmanche, Mint', 'H, Vanilla', 'Stollen, Forte', 'Franboise, Ranpha']
-animeVoices	[]
-animeStaff	[['Takayanagi, Shigehito', 'Director'], ['Satou, Shouichi', 'Script'], ['Araki, Tetsurou', 'Storyboard']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Galaxy Angel S	OVA	1	2004-04-23 00:00:00		2139	6.86	764	4341	9257	Galaxy Angel 3 TV special that contains 2 stories.	['Galaxy Angel 3']	['Sakuraba, Milfeulle', 'Blancmanche, Mint', 'H, Vanilla', 'Stollen, Forte', 'Franboise, Ranpha']	[]	[['Takayanagi, Shigehito', 'Director'], ['Satou, Shouichi', 'Script'], ['Araki, Tetsurou', 'Storyboard']]

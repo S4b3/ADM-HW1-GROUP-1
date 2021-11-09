@@ -1,15 +1,2 @@
-animeTitle	Peach Command Shin Momotarou Densetsu
-animeType	TV
-animeNumEpisode	24
-releaseDate	1990-10-08 00:00:00
-endDate	1991-04-01 00:00:00
-animeNumMembers	248
-animeScore	
-animeUsers	
-animeRank	12729
-animePopularity	15359
-animeDescription	A continuation of Momotarou Densetsu.
-animeRelated	['Momotarou Densetsu']
-animeCharacters	['Momotarou', 'Yeti', 'Kintarou', 'Tinkle', 'Narrator']
-animeVoices	['Sasaki, Nozomu', 'Chiba, Isshin', 'Watanabe, Kumiko', 'Orikasa, Ai', 'Koujiro, Chie']
-animeStaff	[['Honda, Yasunori', 'Sound Director'], ['Sasaki, Nozomu', 'Theme Song Performance'], ['Orikasa, Ai', 'Theme Song Performance'], ['Nanba, Hiroyuki', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Peach Command Shin Momotarou Densetsu	TV	24	1990-10-08 00:00:00	1991-04-01 00:00:00	248			12729	15359	A continuation of Momotarou Densetsu.	['Momotarou Densetsu']	['Momotarou', 'Yeti', 'Kintarou', 'Tinkle', 'Narrator']	['Sasaki, Nozomu', 'Chiba, Isshin', 'Watanabe, Kumiko', 'Orikasa, Ai', 'Koujiro, Chie']	[['Honda, Yasunori', 'Sound Director'], ['Sasaki, Nozomu', 'Theme Song Performance'], ['Orikasa, Ai', 'Theme Song Performance'], ['Nanba, Hiroyuki', 'Music']]

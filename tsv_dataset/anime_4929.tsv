@@ -1,15 +1,2 @@
-animeTitle	Youjo Shenki
-animeType	ONA
-animeNumEpisode	12
-releaseDate	2017-01-10 00:00:00
-endDate	2017-04-03 00:00:00
-animeNumMembers	21682
-animeScore	6.74
-animeUsers	9778
-animeRank	4929
-animePopularity	3870
-animeDescription	A chibi parody of Youjo Senki. 
-animeRelated	['Youjo Senki', 'Youjo Shenki Episode 0']
-animeCharacters	['Degurechaff, Tanya', 'Serebryakova, Viktoriya Ivanovna', 'Weiss, Matheus Johann', 'Grantz, Warren', 'Koenig, Wilibald', 'Neumann, Rhiner']
-animeVoices	['Yuuki, Aoi', 'Hayami, Saori', 'Hamano, Daiki', 'Kobayashi, Yuusuke', 'Kasama, Jun', 'Hayashi, Daichi']
-animeStaff	[['Ashina, Minoru', 'Producer, Director, Script']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Youjo Shenki	ONA	12	2017-01-10 00:00:00	2017-04-03 00:00:00	21682	6.74	9778	4929	3870	A chibi parody of Youjo Senki. 	['Youjo Senki', 'Youjo Shenki Episode 0']	['Degurechaff, Tanya', 'Serebryakova, Viktoriya Ivanovna', 'Weiss, Matheus Johann', 'Grantz, Warren', 'Koenig, Wilibald', 'Neumann, Rhiner']	['Yuuki, Aoi', 'Hayami, Saori', 'Hamano, Daiki', 'Kobayashi, Yuusuke', 'Kasama, Jun', 'Hayashi, Daichi']	[['Ashina, Minoru', 'Producer, Director, Script']]

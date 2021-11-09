@@ -1,15 +1,2 @@
-animeTitle	Natsume Yuujinchou Go
-animeType	TV
-animeNumEpisode	11
-releaseDate	2016-10-05 00:00:00
-endDate	2016-12-21 00:00:00
-animeNumMembers	153419
-animeScore	8.58
-animeUsers	59996
-animeRank	76
-animePopularity	1165
-animeDescription	Season 5 of Natsume Yuujinchou.
-animeRelated	['Natsume Yuujinchou', 'Natsume Yuujinchou Shi', 'Natsume Yuujinchou Go Specials', 'Natsume Yuujinchou Roku']
-animeCharacters	['Natsume, Takashi', 'Madara', 'Natsume, Reiko', 'Tanuma, Kaname', 'Natori, Shuuichi', 'Matoba, Seiji', 'Taki, Tooru', 'Hinoe', 'Fujiwara, Touko', 'Hiiragi']
-animeVoices	['Kamiya, Hiroshi', 'Inoue, Kazuhiko', 'Kobayashi, Sanae', 'Horie, Kazuma', 'Ishida, Akira', 'Suwabe, Junichi', 'Satou, Rina', 'Okamura, Akemi', 'Itou, Miki', 'Yukino, Satsuki']
-animeStaff	[['Oomori, Takahiro', 'Director'], ['Deai, Kotomi', 'Director'], ['Ooshiro, Miyuki', 'Episode Director, Storyboard, Animation Director'], ['Aimer', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Natsume Yuujinchou Go	TV	11	2016-10-05 00:00:00	2016-12-21 00:00:00	153419	8.58	59996	76	1165	Season 5 of Natsume Yuujinchou.	['Natsume Yuujinchou', 'Natsume Yuujinchou Shi', 'Natsume Yuujinchou Go Specials', 'Natsume Yuujinchou Roku']	['Natsume, Takashi', 'Madara', 'Natsume, Reiko', 'Tanuma, Kaname', 'Natori, Shuuichi', 'Matoba, Seiji', 'Taki, Tooru', 'Hinoe', 'Fujiwara, Touko', 'Hiiragi']	['Kamiya, Hiroshi', 'Inoue, Kazuhiko', 'Kobayashi, Sanae', 'Horie, Kazuma', 'Ishida, Akira', 'Suwabe, Junichi', 'Satou, Rina', 'Okamura, Akemi', 'Itou, Miki', 'Yukino, Satsuki']	[['Oomori, Takahiro', 'Director'], ['Deai, Kotomi', 'Director'], ['Ooshiro, Miyuki', 'Episode Director, Storyboard, Animation Director'], ['Aimer', 'Theme Song Performance']]

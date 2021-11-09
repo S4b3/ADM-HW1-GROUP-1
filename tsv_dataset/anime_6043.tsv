@@ -1,17 +1,4 @@
-animeTitle	Pingu in the City
-animeType	TV
-animeNumEpisode	26
-releaseDate	2017-10-07 00:00:00
-endDate	2018-03-31 00:00:00
-animeNumMembers	39531
-animeScore	6.52
-animeUsers	15367
-animeRank	6043
-animePopularity	2832
-animeDescription	"Pingu and his family move from their small village to the big city; in which there are many people with many different occupations. The ever-curious Pingu tries to join them at their jobs, but his mischievous side gets the better of him and he ends up messing things up.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Pingu in the City	TV	26	2017-10-07 00:00:00	2018-03-31 00:00:00	39531	6.52	15367	6043	2832	"Pingu and his family move from their small village to the big city; in which there are many people with many different occupations. The ever-curious Pingu tries to join them at their jobs, but his mischievous side gets the better of him and he ends up messing things up.
 
-(Source: ANN)"
-animeRelated	['Pingu in the City (2018)']
-animeCharacters	['Pingu', 'Robby', 'Pinga', 'Pikuru']
-animeVoices	[]
-animeStaff	[['Iwata, Naomi', 'Director'], ['Asai, Shingo', 'Episode Director, Storyboard'], ['Ueno, Kimiko', 'Script'], ['Tanabe, Shigenori', 'Script']]
+(Source: ANN)"	['Pingu in the City (2018)']	['Pingu', 'Robby', 'Pinga', 'Pikuru']	[]	[['Iwata, Naomi', 'Director'], ['Asai, Shingo', 'Episode Director, Storyboard'], ['Ueno, Kimiko', 'Script'], ['Tanabe, Shigenori', 'Script']]

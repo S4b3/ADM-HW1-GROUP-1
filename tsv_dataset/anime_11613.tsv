@@ -1,15 +1,2 @@
-animeTitle	Rule
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2009-01-01 00:00:00
-endDate	
-animeNumMembers	301
-animeScore	4.85
-animeUsers	142
-animeRank	11613
-animePopularity	14632
-animeDescription	A short animation by Taku Furukawa.
-animeRelated	[]
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Rule	Movie	1	2009-01-01 00:00:00		301	4.85	142	11613	14632	A short animation by Taku Furukawa.	[]	[]	[]	[]

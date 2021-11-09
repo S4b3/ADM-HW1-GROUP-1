@@ -1,17 +1,4 @@
-animeTitle	Master Keaton
-animeType	TV
-animeNumEpisode	24
-releaseDate	1998-10-06 00:00:00
-endDate	1999-03-29 00:00:00
-animeNumMembers	21564
-animeScore	7.6
-animeUsers	4112
-animeRank	1312
-animePopularity	3875
-animeDescription	"Taichi Keaton is a half-British half-Japanese archeologist and SAS veteran of the Falklands War. He solves mysteries and investigates insurance fraud for Lloyd's around the world.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Master Keaton	TV	24	1998-10-06 00:00:00	1999-03-29 00:00:00	21564	7.6	4112	1312	3875	"Taichi Keaton is a half-British half-Japanese archeologist and SAS veteran of the Falklands War. He solves mysteries and investigates insurance fraud for Lloyd's around the world.
 
-(Source: ANN)"
-animeRelated	['Master Keaton', 'Master Keaton OVA']
-animeCharacters	"['Keaton, Taichi', 'Narrator', 'Sofia', 'Hiraga, Taihei', 'Hiraga, Yuriko', 'Funase, Shinsuke', 'Lyman, Flora', 'Chapman, Charlie', ""O'Connell, Daniel"", 'Flora']"
-animeVoices	['Inoue, Norihiro', 'Yamada, Keaton', 'Shinohara, Emi', 'Nagai, Ichiro', 'Kuwashima, Houko', 'Kamiya, Hiroshi', 'Minaguchi, Yuko', 'Sugawara, Masashi', 'Tsuji, Shinpachi', 'Uno, Ayumi']
-animeStaff	[['Tamura, Manabu', 'Producer'], ['Kojima, Masayuki', 'Director'], ['Kanbe, Mamoru', 'Episode Director'], ['Masaki, Shinichi', 'Episode Director']]
+(Source: ANN)"	['Master Keaton', 'Master Keaton OVA']	"['Keaton, Taichi', 'Narrator', 'Sofia', 'Hiraga, Taihei', 'Hiraga, Yuriko', 'Funase, Shinsuke', 'Lyman, Flora', 'Chapman, Charlie', ""O'Connell, Daniel"", 'Flora']"	['Inoue, Norihiro', 'Yamada, Keaton', 'Shinohara, Emi', 'Nagai, Ichiro', 'Kuwashima, Houko', 'Kamiya, Hiroshi', 'Minaguchi, Yuko', 'Sugawara, Masashi', 'Tsuji, Shinpachi', 'Uno, Ayumi']	[['Tamura, Manabu', 'Producer'], ['Kojima, Masayuki', 'Director'], ['Kanbe, Mamoru', 'Episode Director'], ['Masaki, Shinichi', 'Episode Director']]

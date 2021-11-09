@@ -1,15 +1,2 @@
-animeTitle	Shin Dokonjou Gaeru
-animeType	TV
-animeNumEpisode	30
-releaseDate	1981-09-07 00:00:00
-endDate	1982-03-29 00:00:00
-animeNumMembers	370
-animeScore	
-animeUsers	
-animeRank	13252
-animePopularity	13804
-animeDescription	Continuation of Dokonjougaeru series.
-animeRelated	['Dokonjougaeru', 'Dokonjou Gaeru', 'Shin Dokonjou Gaeru: Dokonjou Yumemakura']
-animeCharacters	['Hiroshi', 'Pyonkichi', 'Sagawa, Umesaburou', 'Minami-sensei', 'Machida-sensei']
-animeVoices	['Nozawa, Masako', 'Chijimatsu, Sachiko', 'Harada, Kazuo', 'Tanaka, Hideyuki', 'Nagai, Ichiro']
-animeStaff	[['Konparu, Tomoko', 'Script'], ['Takayashiki, Hideo', 'Script'], ['Sakurai, Masaaki', 'Script'], ['Kaneko, Yutaka', 'Script']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shin Dokonjou Gaeru	TV	30	1981-09-07 00:00:00	1982-03-29 00:00:00	370			13252	13804	Continuation of Dokonjougaeru series.	['Dokonjougaeru', 'Dokonjou Gaeru', 'Shin Dokonjou Gaeru: Dokonjou Yumemakura']	['Hiroshi', 'Pyonkichi', 'Sagawa, Umesaburou', 'Minami-sensei', 'Machida-sensei']	['Nozawa, Masako', 'Chijimatsu, Sachiko', 'Harada, Kazuo', 'Tanaka, Hideyuki', 'Nagai, Ichiro']	[['Konparu, Tomoko', 'Script'], ['Takayashiki, Hideo', 'Script'], ['Sakurai, Masaaki', 'Script'], ['Kaneko, Yutaka', 'Script']]

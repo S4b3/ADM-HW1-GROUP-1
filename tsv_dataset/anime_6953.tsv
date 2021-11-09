@@ -1,15 +1,2 @@
-animeTitle	Marie & Gali
-animeType	TV
-animeNumEpisode	40
-releaseDate	2009-03-31 00:00:00
-endDate	2010-03-23 00:00:00
-animeNumMembers	3822
-animeScore	6.35
-animeUsers	578
-animeRank	6953
-animePopularity	7753
-animeDescription	Marika is a gothic lolita who somehow ends up in the mysterious town  of Galihabara. There she meets different famous scientists like Galileo Galilei, Marie Skłodowska Curie and Sir Isaac Newton.
-animeRelated	['Marie & Gali Episode Zero', 'Marie & Gali Special', 'Marie & Gali ver. 2.0']
-animeCharacters	['Marika', 'Pet', 'Galilei, Galileo', 'Darwin, Charles', 'Hertz, Heinrich', 'Newton, Isaac', 'Edison, Thomas', 'da Vinci, Leonardo', 'Archimedes', 'Fleming, John Ambrose']
-animeVoices	['Chiba, Chiemi', 'Cho', 'Fujita, Yoshinori', 'Kosugi, Juurouta', 'Tamaki, Yuuki', 'Tanonaka, Isamu', 'Nishimura, Tomomichi', 'Kikuchi, Masami']
-animeStaff	[['Bogdan, Gyarmath', 'Producer'], ['Matsumoto, Rie', 'Episode Director, Storyboard'], ['Yamada, Takashi', 'Script'], ['Kakudou, Hiroyuki', 'Storyboard']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Marie & Gali	TV	40	2009-03-31 00:00:00	2010-03-23 00:00:00	3822	6.35	578	6953	7753	Marika is a gothic lolita who somehow ends up in the mysterious town  of Galihabara. There she meets different famous scientists like Galileo Galilei, Marie Skłodowska Curie and Sir Isaac Newton.	['Marie & Gali Episode Zero', 'Marie & Gali Special', 'Marie & Gali ver. 2.0']	['Marika', 'Pet', 'Galilei, Galileo', 'Darwin, Charles', 'Hertz, Heinrich', 'Newton, Isaac', 'Edison, Thomas', 'da Vinci, Leonardo', 'Archimedes', 'Fleming, John Ambrose']	['Chiba, Chiemi', 'Cho', 'Fujita, Yoshinori', 'Kosugi, Juurouta', 'Tamaki, Yuuki', 'Tanonaka, Isamu', 'Nishimura, Tomomichi', 'Kikuchi, Masami']	[['Bogdan, Gyarmath', 'Producer'], ['Matsumoto, Rie', 'Episode Director, Storyboard'], ['Yamada, Takashi', 'Script'], ['Kakudou, Hiroyuki', 'Storyboard']]

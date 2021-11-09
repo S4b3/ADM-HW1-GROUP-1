@@ -1,14 +1,5 @@
-animeTitle	Children Record
-animeType	Music
-animeNumEpisode	2
-releaseDate	2012-08-15 00:00:00
-endDate	
-animeNumMembers	3313
-animeScore	6.79
-animeUsers	1571
-animeRank	4668
-animePopularity	8129
-animeDescription	"Children Record features two songs, the titular one serving as an opening to the Kagerou Project song series.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Children Record	Music	2	2012-08-15 00:00:00		3313	6.79	1571	4668	8129	"Children Record features two songs, the titular one serving as an opening to the Kagerou Project song series.
 
 Kisaragi Attention
 For the ultra-popular idol Momo Kisaragi, going out in public is nearly impossible. No matter what, she always seems to capture everyone's attention. She's not even that talented! With so many doubts, one would think she might as well quit. However, after meeting with the ""Mekakushi-dan,"" Momo may finally find a place to belong.
@@ -17,8 +8,4 @@ Children Record
 Long ago, the heat-haze began drawing in victims, granting them red-eyed powers—but these powers bring more pain than good. Through the despair, these affected children push ever onward to a future full of hope.
 
 [Written by MAL Rewrite]
-"
-animeRelated	['Mekakucity Actors']
-animeCharacters	['Enomoto, Takane', 'Tateyama, Ayano']
-animeVoices	[]
-animeStaff	[['Jin', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['IA', 'Theme Song Performance']]
+"	['Mekakucity Actors']	['Enomoto, Takane', 'Tateyama, Ayano']	[]	[['Jin', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['IA', 'Theme Song Performance']]

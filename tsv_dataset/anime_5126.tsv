@@ -1,15 +1,2 @@
-animeTitle	Pokemon: Pichu to Pikachu
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2000-07-08 00:00:00
-endDate	
-animeNumMembers	37499
-animeScore	6.69
-animeUsers	21938
-animeRank	5126
-animePopularity	2917
-animeDescription	Pikachu meets the Pichu brothers and goes on an adventure through the city with them while trying to get back to the building where the rest of Ash's Pokemon are.
-animeRelated	['Pokemon', 'Pokemon Movie 03: Kesshoutou no Teiou Entei']
-animeCharacters	['Pikachu', 'Nyarth', 'Satoshi', 'Takeshi', 'Kasumi', 'Fushigidane', 'Narrator']
-animeVoices	['Ootani, Ikue', 'Inuyama, Inuko', 'Matsumoto, Rica', 'Ueda, Yuuji', 'Iizuka, Mayumi', 'Hayashibara, Megumi', 'Sakai, Noriko']
-animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Asada, Yuuji', 'Episode Director'], ['Sonoda, Hideki', 'Script']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Pokemon: Pichu to Pikachu	Movie	1	2000-07-08 00:00:00		37499	6.69	21938	5126	2917	Pikachu meets the Pichu brothers and goes on an adventure through the city with them while trying to get back to the building where the rest of Ash's Pokemon are.	['Pokemon', 'Pokemon Movie 03: Kesshoutou no Teiou Entei']	['Pikachu', 'Nyarth', 'Satoshi', 'Takeshi', 'Kasumi', 'Fushigidane', 'Narrator']	['Ootani, Ikue', 'Inuyama, Inuko', 'Matsumoto, Rica', 'Ueda, Yuuji', 'Iizuka, Mayumi', 'Hayashibara, Megumi', 'Sakai, Noriko']	[['Yuyama, Kunihiko', 'Director'], ['Mima, Masafumi', 'Sound Director'], ['Asada, Yuuji', 'Episode Director'], ['Sonoda, Hideki', 'Script']]

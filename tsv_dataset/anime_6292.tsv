@@ -1,15 +1,2 @@
-animeTitle	Cheburashka Arere?
-animeType	TV
-animeNumEpisode	26
-releaseDate	2009-10-07 00:00:00
-endDate	2010-03-31 00:00:00
-animeNumMembers	3160
-animeScore	6.47
-animeUsers	1310
-animeRank	6292
-animePopularity	8240
-animeDescription	"Based on the Russian ""national character"" Cheburashka. The character comes from Eduard Uspensky's story about a mysterious creature who gets accidentally transported in a box of oranges to Russia."
-animeRelated	['Cheburashka']
-animeCharacters	['Cheburashka', 'Gena', 'Shapoklyak', 'Lariska', 'Chandr', 'Galya']
-animeVoices	['Oohashi, Nozomi', 'Tsuchida, Hiroshi', 'Cho', 'Davidyuk, Jenya', 'Yahagi, Sayuri']
-animeStaff	[['Kudou, Susumu', 'Director'], ['Takahashi, Hideo', 'Sound Director'], ['Kishida, Takahiro', 'Character Design'], ['Shimada, Michiru', 'Series Composition']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Cheburashka Arere?	TV	26	2009-10-07 00:00:00	2010-03-31 00:00:00	3160	6.47	1310	6292	8240	"Based on the Russian ""national character"" Cheburashka. The character comes from Eduard Uspensky's story about a mysterious creature who gets accidentally transported in a box of oranges to Russia."	['Cheburashka']	['Cheburashka', 'Gena', 'Shapoklyak', 'Lariska', 'Chandr', 'Galya']	['Oohashi, Nozomi', 'Tsuchida, Hiroshi', 'Cho', 'Davidyuk, Jenya', 'Yahagi, Sayuri']	[['Kudou, Susumu', 'Director'], ['Takahashi, Hideo', 'Sound Director'], ['Kishida, Takahiro', 'Character Design'], ['Shimada, Michiru', 'Series Composition']]

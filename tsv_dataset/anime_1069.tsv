@@ -1,15 +1,2 @@
-animeTitle	Mitsudomoe Zouryouchuu!
-animeType	TV
-animeNumEpisode	8
-releaseDate	2011-01-09 00:00:00
-endDate	2011-02-27 00:00:00
-animeNumMembers	41770
-animeScore	7.69
-animeUsers	23796
-animeRank	1069
-animePopularity	2733
-animeDescription	Second season of Mitsudomoe.
-animeRelated	['Mitsudomoe']
-animeCharacters	['Marui, Hitoha', 'Marui, Mitsuba', 'Marui, Futaba', 'Yabe, Satoshi', 'Marui, Soujirou', 'Yoshioka, Yuki', 'Chiba, Yuudai', 'Miyashita', 'Matsuoka, Sakiko', 'Sugisaki, Marina']
-animeVoices	['Tomatsu, Haruka', 'Takagaki, Ayahi', 'Akesaka, Satomi', 'Shimono, Hiro', 'Amada, Masuo', 'Toyosaki, Aki', 'Yamamoto, Kazutomi', 'Oohara, Momoko', 'Hayama, Ikumi', 'Inoue, Kikuko']
-animeStaff	[['Oota, Masahiko', 'Director, Episode Director, Script, Storyboard'], ['Ebina, Yasunori', 'Sound Director'], ['Ookubo, Masao', 'Episode Director, Storyboard'], ['Aoba, Jou', 'Episode Director, Storyboard']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Mitsudomoe Zouryouchuu!	TV	8	2011-01-09 00:00:00	2011-02-27 00:00:00	41770	7.69	23796	1069	2733	Second season of Mitsudomoe.	['Mitsudomoe']	['Marui, Hitoha', 'Marui, Mitsuba', 'Marui, Futaba', 'Yabe, Satoshi', 'Marui, Soujirou', 'Yoshioka, Yuki', 'Chiba, Yuudai', 'Miyashita', 'Matsuoka, Sakiko', 'Sugisaki, Marina']	['Tomatsu, Haruka', 'Takagaki, Ayahi', 'Akesaka, Satomi', 'Shimono, Hiro', 'Amada, Masuo', 'Toyosaki, Aki', 'Yamamoto, Kazutomi', 'Oohara, Momoko', 'Hayama, Ikumi', 'Inoue, Kikuko']	[['Oota, Masahiko', 'Director, Episode Director, Script, Storyboard'], ['Ebina, Yasunori', 'Sound Director'], ['Ookubo, Masao', 'Episode Director, Storyboard'], ['Aoba, Jou', 'Episode Director, Storyboard']]

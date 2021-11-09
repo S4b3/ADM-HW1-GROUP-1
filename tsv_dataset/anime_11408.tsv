@@ -1,14 +1,5 @@
-animeTitle	Run=Dim
-animeType	TV
-animeNumEpisode	13
-releaseDate	2001-04-01 00:00:00
-endDate	2001-06-24 00:00:00
-animeNumMembers	2124
-animeScore	5.04
-animeUsers	394
-animeRank	11408
-animePopularity	9267
-animeDescription	"In the year 2050 A.D, approximately 1/10th of Japan is now under water due to the global warming effect. The city of Tokyo was no exception.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Run=Dim	TV	13	2001-04-01 00:00:00	2001-06-24 00:00:00	2124	5.04	394	11408	9267	"In the year 2050 A.D, approximately 1/10th of Japan is now under water due to the global warming effect. The city of Tokyo was no exception.
 
 The economy of Japan is crippled from this disaster and the government is willing for anything to help revive the country. As a result, the Japanese government forms ""JESAS"", a military foundation that has evil intentions of controlling Japan's future. JESAS handles the dumping of nuclear wastes into outer space.
 
@@ -16,8 +7,4 @@ To insure their protection from other countries, JESAS has developed ""R.B."" Ro
 
 Featuring JESAS pilots Kanna and Kazuto and Green Frontier's Doota Kang and Mira Yu, these four youngsters will decide the fate of the Earth through love, friendship and the passion for their duty.
 
-(Source: AniDB)"
-animeRelated	[]
-animeCharacters	['Nojima, Atsushi']
-animeVoices	['Kawada, Shinji']
-animeStaff	[['Kuwana, Shingo', 'Producer, Script, Original Creator, Screenplay'], ['Satou, Yoshiteru', 'Storyboard'], ['Mizuki, Nana', 'Theme Song Performance'], ['LEGOLGEL', 'Theme Song Composition, Theme Song Performance, Theme Song Arrangement']]
+(Source: AniDB)"	[]	['Nojima, Atsushi']	['Kawada, Shinji']	[['Kuwana, Shingo', 'Producer, Script, Original Creator, Screenplay'], ['Satou, Yoshiteru', 'Storyboard'], ['Mizuki, Nana', 'Theme Song Performance'], ['LEGOLGEL', 'Theme Song Composition, Theme Song Performance, Theme Song Arrangement']]

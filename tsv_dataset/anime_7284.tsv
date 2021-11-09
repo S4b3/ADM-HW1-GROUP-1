@@ -1,15 +1,2 @@
-animeTitle	Maroko
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1990-03-19 00:00:00
-endDate	
-animeNumMembers	1158
-animeScore	6.28
-animeUsers	225
-animeRank	7284
-animePopularity	10776
-animeDescription	Summary for the Gosenzosama Banbanzai! OVA.
-animeRelated	['Gosenzo-sama Banbanzai!']
-animeCharacters	['Yomota, Maroko']
-animeVoices	['Katsuki, Masako']
-animeStaff	[['Oshii, Mamoru', 'Director, Original Creator'], ['Chiba, Shigeru', 'Sound Director'], ['Kawai, Kenji', 'Theme Song Arrangement, Theme Song Composition, Music'], ['Yaginuma, Kazuyoshi', 'Key Animation']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Maroko	Movie	1	1990-03-19 00:00:00		1158	6.28	225	7284	10776	Summary for the Gosenzosama Banbanzai! OVA.	['Gosenzo-sama Banbanzai!']	['Yomota, Maroko']	['Katsuki, Masako']	[['Oshii, Mamoru', 'Director, Original Creator'], ['Chiba, Shigeru', 'Sound Director'], ['Kawai, Kenji', 'Theme Song Arrangement, Theme Song Composition, Music'], ['Yaginuma, Kazuyoshi', 'Key Animation']]

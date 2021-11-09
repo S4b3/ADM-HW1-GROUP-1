@@ -1,17 +1,4 @@
-animeTitle	Street Fighter II V
-animeType	TV
-animeNumEpisode	29
-releaseDate	1995-04-10 00:00:00
-endDate	1995-11-27 00:00:00
-animeNumMembers	23932
-animeScore	7.05
-animeUsers	13027
-animeRank	3576
-animePopularity	3680
-animeDescription	"Ryu and Ken Masters are close friends and both are martial artists. In order to become better fighters and learn new techniques, they travel the world and are exposed to many different fighting styles, as well as meeting new people. During their journey, they find themselves caught up in a conspiracy perpetrated by a mysterious organisation called Shadowlaw, both now face their ultimate challenge and must fight for their lives as they combat the evil M. Bison. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Street Fighter II V	TV	29	1995-04-10 00:00:00	1995-11-27 00:00:00	23932	7.05	13027	3576	3680	"Ryu and Ken Masters are close friends and both are martial artists. In order to become better fighters and learn new techniques, they travel the world and are exposed to many different fighting styles, as well as meeting new people. During their journey, they find themselves caught up in a conspiracy perpetrated by a mysterious organisation called Shadowlaw, both now face their ultimate challenge and must fight for their lives as they combat the evil M. Bison. 
 
-(Source: ANN)"
-animeRelated	['Street Fighter II V Retsuden: Shouryuu Souha', 'Street Fighter II Movie', 'Street Fighter II: Yomigaeru Fujiwara-Kyou - Toki wo Kaketa Fighter-tachi', 'Geori-eui Mubeopja']
-animeCharacters	['Ryuu', 'Chun-Li', 'Masters, Ken', 'White, Cammy', 'Balrog', 'Vega', 'Sagat', 'Guile', 'Fei-Long', 'Zangief']
-animeVoices	['Tsujitani, Kouji', 'Yokoyama, Chisa', 'Haga, Kenji', 'Sasaki, Youko', 'Shiozawa, Kaneto', 'Utsumi, Kenji', 'Ginga, Banjou', 'Genda, Tesshou', 'Yao, Kazuki', 'Tanaka, Yasuo']
-animeStaff	[['Satou, Takuya', 'Co-Director, Storyboard, Animation Director'], ['Maseba, Yutaka', 'Producer'], ['Sugii, Gisaburou', 'Director'], ['Kase, Mitsuko', 'Episode Director, Storyboard']]
+(Source: ANN)"	['Street Fighter II V Retsuden: Shouryuu Souha', 'Street Fighter II Movie', 'Street Fighter II: Yomigaeru Fujiwara-Kyou - Toki wo Kaketa Fighter-tachi', 'Geori-eui Mubeopja']	['Ryuu', 'Chun-Li', 'Masters, Ken', 'White, Cammy', 'Balrog', 'Vega', 'Sagat', 'Guile', 'Fei-Long', 'Zangief']	['Tsujitani, Kouji', 'Yokoyama, Chisa', 'Haga, Kenji', 'Sasaki, Youko', 'Shiozawa, Kaneto', 'Utsumi, Kenji', 'Ginga, Banjou', 'Genda, Tesshou', 'Yao, Kazuki', 'Tanaka, Yasuo']	[['Satou, Takuya', 'Co-Director, Storyboard, Animation Director'], ['Maseba, Yutaka', 'Producer'], ['Sugii, Gisaburou', 'Director'], ['Kase, Mitsuko', 'Episode Director, Storyboard']]

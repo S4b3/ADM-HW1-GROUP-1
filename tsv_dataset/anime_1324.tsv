@@ -1,15 +1,2 @@
-animeTitle	Utawarerumono Specials
-animeType	Special
-animeNumEpisode	6
-releaseDate	2006-08-23 00:00:00
-endDate	2007-02-21 00:00:00
-animeNumMembers	14426
-animeScore	7.6
-animeUsers	7383
-animeRank	1324
-animePopularity	4579
-animeDescription	DVD specials of comedic events that occurred during the story of Utawarerumono. The specials are included in the DVD Box special disc.
-animeRelated	['Utawarerumono']
-animeCharacters	['Eruruu', 'Hakuoro', 'Karura', 'Touka', 'Aruruu', 'Benawi', 'Oboro', 'Kamyu', 'Mukkuru', 'Yuzuha']
-animeVoices	['Yuzuki, Ryouka', 'Koyama, Rikiya', 'Miyake, Kaya', 'Sawashiro, Miyuki', 'Kirii, Daisuke', 'Shimoyama, Yoshimitsu']
-animeStaff	[['Iwasa, Gaku', 'Producer'], ['Chung, Jin Ho', 'Producer'], ['Aquaplus', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Utawarerumono Specials	Special	6	2006-08-23 00:00:00	2007-02-21 00:00:00	14426	7.6	7383	1324	4579	DVD specials of comedic events that occurred during the story of Utawarerumono. The specials are included in the DVD Box special disc.	['Utawarerumono']	['Eruruu', 'Hakuoro', 'Karura', 'Touka', 'Aruruu', 'Benawi', 'Oboro', 'Kamyu', 'Mukkuru', 'Yuzuha']	['Yuzuki, Ryouka', 'Koyama, Rikiya', 'Miyake, Kaya', 'Sawashiro, Miyuki', 'Kirii, Daisuke', 'Shimoyama, Yoshimitsu']	[['Iwasa, Gaku', 'Producer'], ['Chung, Jin Ho', 'Producer'], ['Aquaplus', 'Original Creator']]

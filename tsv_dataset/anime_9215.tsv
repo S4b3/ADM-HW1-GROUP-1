@@ -1,14 +1,5 @@
-animeTitle	Human Lost: Ningen Shikkaku
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2019-10-22 00:00:00
-endDate	
-animeNumMembers	16386
-animeScore	5.85
-animeUsers	2665
-animeRank	9215
-animePopularity	4369
-animeDescription	"""Mine has been a life of much shame.""
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Human Lost: Ningen Shikkaku	Movie	1	2019-10-22 00:00:00		16386	5.85	2665	9215	4369	"""Mine has been a life of much shame.""
 
 Tokyo, 2036 (Showa year 111): a revolution in medical treatment has conquered death...
 By means of internal nanomachines and the ""S.H.E.L.L."" system whose network controls them, human beings suffer no diseases, require no treatment for injuries, and are guaranteed a 120-year lifespan, free from illness. Yet this consummate social system warps the Japanese nation in a host of ways: unresolved economic disparities, ethical decadence resulting from deathlessness, grave environmental pollution, and the ""Human Lost"" phenomenon, in which people themselves, disconnected from the S.H.E.L.L. network, become malformed. Japan teeters wildly between two potential futures: civilization's restoration or its destruction.
@@ -17,8 +8,4 @@ Atmospheric pollution suffuses ""Route 16"" in the Outside—the area outside th
 
 Degradation and death. Life and hope. Buffeted by fate, a man tears himself apart and cries out. Rage. Sorrow. Pathos. Consumed by despair and bitter tears, Youzou Oba is himself transformed into a demon. A human lost... or a human who can find himself? 
 
-(Source: Official Site)"
-animeRelated	"['Ningen Shikkaku', 'Aoi Bungaku Series', ""Ningen Shikkaku: Director's Cut-ban"", 'HUMAN LOST feat. J. Balvin / m-flo']"
-animeCharacters	['Ooba, Youzou', 'Horiki, Masao']
-animeVoices	[]
-animeStaff	[['Kizaki, Fuminori', 'Director'], ['Ubukata, Tow', 'Storyboard, Original Creator, Screenplay'], ['m-flo', 'Theme Song Performance'], ['Dazai, Osamu', 'Original Creator']]
+(Source: Official Site)"	"['Ningen Shikkaku', 'Aoi Bungaku Series', ""Ningen Shikkaku: Director's Cut-ban"", 'HUMAN LOST feat. J. Balvin / m-flo']"	['Ooba, Youzou', 'Horiki, Masao']	[]	[['Kizaki, Fuminori', 'Director'], ['Ubukata, Tow', 'Storyboard, Original Creator, Screenplay'], ['m-flo', 'Theme Song Performance'], ['Dazai, Osamu', 'Original Creator']]

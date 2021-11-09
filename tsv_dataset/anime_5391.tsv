@@ -1,15 +1,2 @@
-animeTitle	Mobile Suit Gundam AGE: Memory of Eden
-animeType	OVA
-animeNumEpisode	2
-releaseDate	2013-07-26 00:00:00
-endDate	
-animeNumMembers	4468
-animeScore	6.64
-animeUsers	1589
-animeRank	5391
-animePopularity	7333
-animeDescription	This project will recompile the television series (from the Asemu arc onward) to focus on the characters Asemu Asuno and Zeheart Galette.
-animeRelated	['Mobile Suit Gundam AGE']
-animeCharacters	['Asuno, Asemu', 'Galette, Zeheart', 'Haro', 'Asuno, Flit', 'Enneacle, Woolf', 'Asuno, Kio', 'Stone, Romary', 'Gunhale, Arisa', 'Nara, Fram', 'Asuno, Unoa']
-animeVoices	['Eguchi, Takuya', 'Kamiya, Hiroshi', 'Inoue, Kazuhiko', 'Ono, Daisuke', 'Yamamoto, Kazutomi', 'Hanazawa, Kana', 'Koshimizu, Ami', 'Kotobuki, Minako', 'Oogame, Asuka']
-animeStaff	[['Watada, Shinya', 'Director'], ['Fujino, Sadayoshi', 'Sound Director'], ['Hino, Akihiro', 'Script, Series Composition'], ['Kimura, Noboru', 'Script']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Mobile Suit Gundam AGE: Memory of Eden	OVA	2	2013-07-26 00:00:00		4468	6.64	1589	5391	7333	This project will recompile the television series (from the Asemu arc onward) to focus on the characters Asemu Asuno and Zeheart Galette.	['Mobile Suit Gundam AGE']	['Asuno, Asemu', 'Galette, Zeheart', 'Haro', 'Asuno, Flit', 'Enneacle, Woolf', 'Asuno, Kio', 'Stone, Romary', 'Gunhale, Arisa', 'Nara, Fram', 'Asuno, Unoa']	['Eguchi, Takuya', 'Kamiya, Hiroshi', 'Inoue, Kazuhiko', 'Ono, Daisuke', 'Yamamoto, Kazutomi', 'Hanazawa, Kana', 'Koshimizu, Ami', 'Kotobuki, Minako', 'Oogame, Asuka']	[['Watada, Shinya', 'Director'], ['Fujino, Sadayoshi', 'Sound Director'], ['Hino, Akihiro', 'Script, Series Composition'], ['Kimura, Noboru', 'Script']]

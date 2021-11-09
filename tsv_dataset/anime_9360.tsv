@@ -1,14 +1,5 @@
-animeTitle	Backkom
-animeType	TV
-animeNumEpisode	52
-releaseDate	2005-01-01 00:00:00
-endDate	
-animeNumMembers	1721
-animeScore	5.8
-animeUsers	824
-animeRank	9360
-animePopularity	9842
-animeDescription	"A series of animated shorts centered on the fictional polar bear and main character of the same name. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Backkom	TV	52	2005-01-01 00:00:00		1721	5.8	824	9360	9842	"A series of animated shorts centered on the fictional polar bear and main character of the same name. 
 
 Each three-minute episode focuses on the bear's curiosity and have many moments of slapstick. Bernard never speaks with the exception of unintelligible noises.
 
@@ -16,8 +7,4 @@ Bernard is accompanied in the cartoons by a few other characters: Lloyd and Eva 
 
 He usually gets knocked unconscious or severely injured at the end of an episode, due to some calamity caused by his bumbling.
 
-(Source: Wikipedia)"
-animeRelated	['Backkom Meogeujan Yeohaeng', 'I Love Sky', 'Backkom 2', 'Contact 2', 'I Love Picnic', 'Super Backkom', 'Backkom: Jung-gug Gijeogwi']
-animeCharacters	['Bear, Bernard', 'Zack', 'Goliat', 'Eva', 'Lloyd']
-animeVoices	[]
-animeStaff	[]
+(Source: Wikipedia)"	['Backkom Meogeujan Yeohaeng', 'I Love Sky', 'Backkom 2', 'Contact 2', 'I Love Picnic', 'Super Backkom', 'Backkom: Jung-gug Gijeogwi']	['Bear, Bernard', 'Zack', 'Goliat', 'Eva', 'Lloyd']	[]	[]

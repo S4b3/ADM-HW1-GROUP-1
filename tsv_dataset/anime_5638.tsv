@@ -1,17 +1,4 @@
-animeTitle	Star Ocean EX
-animeType	TV
-animeNumEpisode	26
-releaseDate	2001-04-03 00:00:00
-endDate	2001-09-25 00:00:00
-animeNumMembers	11858
-animeScore	6.59
-animeUsers	5237
-animeRank	5638
-animePopularity	4962
-animeDescription	"Claude C. Kenni, a crewmember on the spaceship Calnus and son of the commander of the ship, is transported to Expel, a backwards planet with swords and magic. He teams up with Rena Lanford, who thinks he is the legendary Warrior of Light, and other characters to investigate the Sorcery Globe, a meteorite that has been causing problems all over the world. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Star Ocean EX	TV	26	2001-04-03 00:00:00	2001-09-25 00:00:00	11858	6.59	5237	5638	4962	"Claude C. Kenni, a crewmember on the spaceship Calnus and son of the commander of the ship, is transported to Expel, a backwards planet with swords and magic. He teams up with Rena Lanford, who thinks he is the legendary Warrior of Light, and other characters to investigate the Sorcery Globe, a meteorite that has been causing problems all over the world. 
 
-(Source: ANN)"
-animeRelated	['Star Ocean: The Second Story', 'Star Ocean: Anamnesis']
-animeCharacters	['Anchors, Ashton', 'Lanford, Rena', 'C. Kenni, Crawd', 'Jules, Celine', 'Flac, Dias', 'Vectra, Opera', 'Jean, Bowman', 'D.S. Geeste, Leon', 'Ururun', 'Yuki']
-animeVoices	['Seki, Tomokazu', 'Iizuka, Mayumi', 'Yuuki, Hiro', 'Kingetsu, Mami', 'Koyasu, Takehito', 'Matsumoto, Rica', 'Nakata, Jouji', 'Mitsuhashi, Kanako', 'Shimura, Tomoyuki', 'Matsumoto, Megumi']
-animeStaff	[['Yoshida, Shunji', 'Director'], ['Watanabe, Hiroshi', 'Director, Storyboard'], ['Kikuta, Hiromi', 'Sound Director'], ['Kamitsubo, Ryouki', 'Episode Director']]
+(Source: ANN)"	['Star Ocean: The Second Story', 'Star Ocean: Anamnesis']	['Anchors, Ashton', 'Lanford, Rena', 'C. Kenni, Crawd', 'Jules, Celine', 'Flac, Dias', 'Vectra, Opera', 'Jean, Bowman', 'D.S. Geeste, Leon', 'Ururun', 'Yuki']	['Seki, Tomokazu', 'Iizuka, Mayumi', 'Yuuki, Hiro', 'Kingetsu, Mami', 'Koyasu, Takehito', 'Matsumoto, Rica', 'Nakata, Jouji', 'Mitsuhashi, Kanako', 'Shimura, Tomoyuki', 'Matsumoto, Megumi']	[['Yoshida, Shunji', 'Director'], ['Watanabe, Hiroshi', 'Director, Storyboard'], ['Kikuta, Hiromi', 'Sound Director'], ['Kamitsubo, Ryouki', 'Episode Director']]

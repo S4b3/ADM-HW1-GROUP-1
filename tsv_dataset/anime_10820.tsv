@@ -1,15 +1,2 @@
-animeTitle	Minarai Diva
-animeType	TV
-animeNumEpisode	10
-releaseDate	2014-07-14 00:00:00
-endDate	2014-09-22 00:00:00
-animeNumMembers	1604
-animeScore	5.34
-animeUsers	186
-animeRank	10820
-animePopularity	10035
-animeDescription	The story follows two aspiring divas who hope to become famous through a unique brand of music.
-animeRelated	[]
-animeCharacters	['Harune, Ui', 'Aoi, Ruri']
-animeVoices	['Yamamoto, Nozomi', 'Murakawa, Rie']
-animeStaff	[['Ishidate, Koutarou', 'Director, Script, Series Composition'], ['Adachi, Shingo', 'Character Design'], ['Yoshida, Hisanori', 'Executive Producer'], ['Inoue, Junichi', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Minarai Diva	TV	10	2014-07-14 00:00:00	2014-09-22 00:00:00	1604	5.34	186	10820	10035	The story follows two aspiring divas who hope to become famous through a unique brand of music.	[]	['Harune, Ui', 'Aoi, Ruri']	['Yamamoto, Nozomi', 'Murakawa, Rie']	[['Ishidate, Koutarou', 'Director, Script, Series Composition'], ['Adachi, Shingo', 'Character Design'], ['Yoshida, Hisanori', 'Executive Producer'], ['Inoue, Junichi', 'Music']]

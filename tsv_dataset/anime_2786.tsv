@@ -1,15 +1,2 @@
-animeTitle	Kinnikuman
-animeType	TV
-animeNumEpisode	137
-releaseDate	1983-04-03 00:00:00
-endDate	1986-10-01 00:00:00
-animeNumMembers	9680
-animeScore	7.22
-animeUsers	2653
-animeRank	2786
-animePopularity	5372
-animeDescription	Kinnikuman is a superhero... a bad one. The one day a person named Meat tells Kinnikuman that he is the prince of an alien planet. Kinnikuman must save the day numerous times fighting evil chiyojins and competing in tournaments to prove himself to his family and to gain respect and money.
-animeRelated	['Kinnikuman', 'Kinnikuman (Movie)', 'Kinnikuman: Kinnikusei Oui Soudatsu-hen', 'Kinnikuman: Ooabare! Seigi Choujin', 'Kinnikuman: Seigi Choujin vs. Kodai Choujin', 'Kinnikuman: Kessen! Shichinin no Choujin tai Uchuu Nobushi', 'Tatakae!! Ramenman']
-animeCharacters	['Kinniku, Suguru', 'Alexandria Meat', 'Robin Mask', 'Ramenman, Victory', 'Warsman', 'Brocken Jr.', 'Terryman', 'Ashuraman', 'Buffaloman', 'Black Hole']
-animeVoices	['Kamiya, Akira', 'Matsushima, Minori', 'Gouri, Daisuke', 'Ginga, Banjou', 'Hori, Hideyuki', 'Mizutori, Tetsuo', 'Tanaka, Hideyuki', 'Satou, Masaharu']
-animeStaff	[['Tamiya, Takeshi', 'Producer'], ['Yamayoshi, Yasuo', 'Director'], ['Shirato, Takeshi', 'Episode Director'], ['Terada, Kenji', 'Script']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kinnikuman	TV	137	1983-04-03 00:00:00	1986-10-01 00:00:00	9680	7.22	2653	2786	5372	Kinnikuman is a superhero... a bad one. The one day a person named Meat tells Kinnikuman that he is the prince of an alien planet. Kinnikuman must save the day numerous times fighting evil chiyojins and competing in tournaments to prove himself to his family and to gain respect and money.	['Kinnikuman', 'Kinnikuman (Movie)', 'Kinnikuman: Kinnikusei Oui Soudatsu-hen', 'Kinnikuman: Ooabare! Seigi Choujin', 'Kinnikuman: Seigi Choujin vs. Kodai Choujin', 'Kinnikuman: Kessen! Shichinin no Choujin tai Uchuu Nobushi', 'Tatakae!! Ramenman']	['Kinniku, Suguru', 'Alexandria Meat', 'Robin Mask', 'Ramenman, Victory', 'Warsman', 'Brocken Jr.', 'Terryman', 'Ashuraman', 'Buffaloman', 'Black Hole']	['Kamiya, Akira', 'Matsushima, Minori', 'Gouri, Daisuke', 'Ginga, Banjou', 'Hori, Hideyuki', 'Mizutori, Tetsuo', 'Tanaka, Hideyuki', 'Satou, Masaharu']	[['Tamiya, Takeshi', 'Producer'], ['Yamayoshi, Yasuo', 'Director'], ['Shirato, Takeshi', 'Episode Director'], ['Terada, Kenji', 'Script']]

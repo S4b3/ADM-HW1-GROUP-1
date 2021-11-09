@@ -1,14 +1,5 @@
-animeTitle	Master of Torque
-animeType	ONA
-animeNumEpisode	4
-releaseDate	2014-03-20 00:00:00
-endDate	2014-07-18 00:00:00
-animeNumMembers	1439
-animeScore	5.06
-animeUsers	532
-animeRank	11370
-animePopularity	10267
-animeDescription	"It is Tokyo, Japan in the year 2017, just three years before the city's hosting of the 2020 Olympic Games.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Master of Torque	ONA	4	2014-03-20 00:00:00	2014-07-18 00:00:00	1439	5.06	532	11370	10267	"It is Tokyo, Japan in the year 2017, just three years before the city's hosting of the 2020 Olympic Games.
 
 Throughout the city, the Shutoko metropolitan highway system is being dismantled and renovated, and new areas and facilities are being constructed, all at a feverish pace to complete the work in time for the Games.
 
@@ -20,8 +11,4 @@ Dan Amo works at the General Affairs department of Hyuga Corp. By day, he is a n
 
 The threads of an inescapable fate begin to draw these three young riders together...
 
-(Source: Yamaha site)"
-animeRelated	['Master of Torque 2']
-animeCharacters	['Amo, Dan', 'Hyuga, Mitsukuni', 'Torimi, Sanae', 'Hyuga, Koutarou', 'Mikage, Makina']
-animeVoices	['Nojima, Hirofumi', 'Mukai, Osamu', 'Mine, Kaori', 'Ogino, Seirou', 'Enomoto, Atsuko']
-animeStaff	[['Akiyama, Yukio', 'Producer'], ['Shimoyama, Shingo', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Konno, Yasuyuki', 'Sound Effects']]
+(Source: Yamaha site)"	['Master of Torque 2']	['Amo, Dan', 'Hyuga, Mitsukuni', 'Torimi, Sanae', 'Hyuga, Koutarou', 'Mikage, Makina']	['Nojima, Hirofumi', 'Mukai, Osamu', 'Mine, Kaori', 'Ogino, Seirou', 'Enomoto, Atsuko']	[['Akiyama, Yukio', 'Producer'], ['Shimoyama, Shingo', 'Director'], ['Motoyama, Satoshi', 'Sound Director'], ['Konno, Yasuyuki', 'Sound Effects']]

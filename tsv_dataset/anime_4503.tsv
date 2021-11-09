@@ -1,15 +1,2 @@
-animeTitle	Kure-nai OVA
-animeType	OVA
-animeNumEpisode	2
-releaseDate	2010-07-02 00:00:00
-endDate	2010-12-03 00:00:00
-animeNumMembers	12615
-animeScore	6.83
-animeUsers	6276
-animeRank	4503
-animePopularity	4830
-animeDescription	A Kure-nai OVA featuring new character designs closer to the novel/manga.
-animeRelated	['Kure-nai']
-animeCharacters	['Kuhouin, Murasaki', 'Kurenai, Shinkurou', 'Murakami, Ginko', 'Houzuki, Yuuno', 'Kirishima, Kirihiko', 'Yamie', 'Mutou, Tamaki', 'May, Lucy', 'Cheng Shin, Lin']
-animeVoices	['Yuuki, Aoi', 'Sawashiro, Miyuki', 'Masu, Nozomi', 'Shintani, Ryouko', 'Takahashi, Mikako', 'Kimura, Haruka', 'Sanada, Asami', 'Tomisaka, Akira', 'Ueda, Kana']
-animeStaff	[['Matsuo, Kou', 'Director, Sound Director, Episode Director, Script, Storyboard'], ['Shibata, Katsunori', 'Episode Director, Storyboard, Key Animation'], ['Yamamoto, Yamato', 'Original Character Design'], ['Muramatsu, Ken', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kure-nai OVA	OVA	2	2010-07-02 00:00:00	2010-12-03 00:00:00	12615	6.83	6276	4503	4830	A Kure-nai OVA featuring new character designs closer to the novel/manga.	['Kure-nai']	['Kuhouin, Murasaki', 'Kurenai, Shinkurou', 'Murakami, Ginko', 'Houzuki, Yuuno', 'Kirishima, Kirihiko', 'Yamie', 'Mutou, Tamaki', 'May, Lucy', 'Cheng Shin, Lin']	['Yuuki, Aoi', 'Sawashiro, Miyuki', 'Masu, Nozomi', 'Shintani, Ryouko', 'Takahashi, Mikako', 'Kimura, Haruka', 'Sanada, Asami', 'Tomisaka, Akira', 'Ueda, Kana']	[['Matsuo, Kou', 'Director, Sound Director, Episode Director, Script, Storyboard'], ['Shibata, Katsunori', 'Episode Director, Storyboard, Key Animation'], ['Yamamoto, Yamato', 'Original Character Design'], ['Muramatsu, Ken', 'Music']]

@@ -1,17 +1,4 @@
-animeTitle	Sonic X
-animeType	TV
-animeNumEpisode	78
-releaseDate	2003-04-06 00:00:00
-endDate	2004-03-28 00:00:00
-animeNumMembers	64214
-animeScore	6.48
-animeUsers	36552
-animeRank	6251
-animePopularity	2175
-animeDescription	"Back on Sonic's home planet, Eggman has collected all 7 of the Chaos Emeralds, and is about to have absolute power when Sonic interferes, causing an explosion that sends everyone from their world to Earth. Sonic and his friends team up with 12 year old Christopher Thorndyke to collect all the Chaos Emeralds and defeat the evil Dr. Eggman.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Sonic X	TV	78	2003-04-06 00:00:00	2004-03-28 00:00:00	64214	6.48	36552	6251	2175	"Back on Sonic's home planet, Eggman has collected all 7 of the Chaos Emeralds, and is about to have absolute power when Sonic interferes, causing an explosion that sends everyone from their world to Earth. Sonic and his friends team up with 12 year old Christopher Thorndyke to collect all the Chaos Emeralds and defeat the evil Dr. Eggman.
 
-(Source: ANN)"
-animeRelated	['Sonic★the★Hedgehog', 'Sonic: Night of the WereHog', 'Sonic X Pilot']
-animeCharacters	['Sonic the Hedgehog', 'Prower, Miles', 'The Echidna, Knuckles', 'Robotnik, Ivo', 'Rose, Amy', 'The Rabbit, Cream', 'Thorndyke, Christopher', 'Shadow the Hedgehog', 'The Bat, Rouge', 'Cosmo']
-animeVoices	['Kanemaru, Junichi', 'Hirohashi, Ryou', 'Canna, Nobutoshi', 'Otsuka, Chikao', 'Kawata, Taeko', 'Aoki, Sayaka', 'Kobayashi, Sanae', 'Yusa, Kouji', 'Ochiai, Rumi', 'Kozakura, Etsuko']
-animeStaff	[['Kamegaki, Hajime', 'Director'], ['Moriwaki, Makoto', 'Episode Director, Storyboard'], ['Tomonaga, Kazuhide', 'Episode Director'], ['Kuzuya, Naoyuki', 'Episode Director, Storyboard']]
+(Source: ANN)"	['Sonic★the★Hedgehog', 'Sonic: Night of the WereHog', 'Sonic X Pilot']	['Sonic the Hedgehog', 'Prower, Miles', 'The Echidna, Knuckles', 'Robotnik, Ivo', 'Rose, Amy', 'The Rabbit, Cream', 'Thorndyke, Christopher', 'Shadow the Hedgehog', 'The Bat, Rouge', 'Cosmo']	['Kanemaru, Junichi', 'Hirohashi, Ryou', 'Canna, Nobutoshi', 'Otsuka, Chikao', 'Kawata, Taeko', 'Aoki, Sayaka', 'Kobayashi, Sanae', 'Yusa, Kouji', 'Ochiai, Rumi', 'Kozakura, Etsuko']	[['Kamegaki, Hajime', 'Director'], ['Moriwaki, Makoto', 'Episode Director, Storyboard'], ['Tomonaga, Kazuhide', 'Episode Director'], ['Kuzuya, Naoyuki', 'Episode Director, Storyboard']]

@@ -1,17 +1,4 @@
-animeTitle	Doraemon Movie 01: Nobita no Kyouryuu
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1980-03-15 00:00:00
-endDate	
-animeNumMembers	6419
-animeScore	7.09
-animeUsers	4014
-animeRank	3399
-animePopularity	6328
-animeDescription	"Nobita finds a fossilized dinosaur egg by accident, and with the help of Doraemon's tools, they hatched the egg and began raising the dinosaur. Knowing that they can't keep the dinosaur forever, Nobita was forced to send it back to prehistoric times where a group of hunters from the future threatens to endanger the dinosaurs. Determined to save the dinosaurs from the claws of the hunters, Doraemon and the gang returns to the past and sets out in a prehistoric adventure. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Doraemon Movie 01: Nobita no Kyouryuu	Movie	1	1980-03-15 00:00:00		6419	7.09	4014	3399	6328	"Nobita finds a fossilized dinosaur egg by accident, and with the help of Doraemon's tools, they hatched the egg and began raising the dinosaur. Knowing that they can't keep the dinosaur forever, Nobita was forced to send it back to prehistoric times where a group of hunters from the future threatens to endanger the dinosaurs. Determined to save the dinosaurs from the claws of the hunters, Doraemon and the gang returns to the past and sets out in a prehistoric adventure. 
 
-(Source: ANN)"
-animeRelated	['Daichouhen Doraemon', 'Doraemon Movie 26: Nobita no Kyouryuu 2006', 'Doraemon (1979)']
-animeCharacters	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Piisuke', 'Nobi, Tamako', 'Nobi, Nobisuke', 'Honekawa, Mother', 'Gouda, Mother']
-animeVoices	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Nomura, Michiko', 'Kimotsuki, Kaneta', 'Tatekabe, Kazuya', 'Yokozawa, Keiko', 'Chijimatsu, Sachiko', 'Katou, Masayuki', 'Ootori, Yoshino', 'Aoki, Kazuyo']
-animeStaff	"[['Urakami, Yasuo', 'Sound Director'], ['Ooyama, Nobuyo', 'Theme Song Performance'], [""Koorogi '73"", 'Theme Song Performance'], ['Takeda, Tetsuya', 'Theme Song Lyrics']]"
+(Source: ANN)"	['Daichouhen Doraemon', 'Doraemon Movie 26: Nobita no Kyouryuu 2006', 'Doraemon (1979)']	['Doraemon', 'Nobi, Nobita', 'Minamoto, Shizuka', 'Honekawa, Suneo', 'Gouda, Takeshi', 'Piisuke', 'Nobi, Tamako', 'Nobi, Nobisuke', 'Honekawa, Mother', 'Gouda, Mother']	['Ooyama, Nobuyo', 'Ohara, Noriko', 'Nomura, Michiko', 'Kimotsuki, Kaneta', 'Tatekabe, Kazuya', 'Yokozawa, Keiko', 'Chijimatsu, Sachiko', 'Katou, Masayuki', 'Ootori, Yoshino', 'Aoki, Kazuyo']	"[['Urakami, Yasuo', 'Sound Director'], ['Ooyama, Nobuyo', 'Theme Song Performance'], [""Koorogi '73"", 'Theme Song Performance'], ['Takeda, Tetsuya', 'Theme Song Lyrics']]"

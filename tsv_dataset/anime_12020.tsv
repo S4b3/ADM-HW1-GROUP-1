@@ -1,15 +1,2 @@
-animeTitle	Micchiri Wanko! Animation
-animeType	TV
-animeNumEpisode	24
-releaseDate	2020-04-01 00:00:00
-endDate	2020-09-09 00:00:00
-animeNumMembers	640
-animeScore	
-animeUsers	
-animeRank	12020
-animePopularity	12335
-animeDescription	Spin-off of Micchiri Neko.
-animeRelated	['Micchiri Neko']
-animeCharacters	['Kotarou', 'Hikomaro', 'Lucky', 'Moko', 'Kotetsu', 'Louis', 'Haru', 'Leo', 'Narrator']
-animeVoices	['Narisawa, Suguru', 'Nishimori, Chihiro', 'Miyazaki, Akari', 'Kinoshita, Suzuna', 'Mashiro, Kentarou', 'Ninomiya, Yui', 'Aira, Rin', 'Matsunaga, Akane', 'Uehara, Risa']
-animeStaff	[['Yamamoto, Yuuzou', 'Director'], ['Minagawa, Tomomi', 'Character Design'], ['Satou, Tadashi', 'Series Composition']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Micchiri Wanko! Animation	TV	24	2020-04-01 00:00:00	2020-09-09 00:00:00	640			12020	12335	Spin-off of Micchiri Neko.	['Micchiri Neko']	['Kotarou', 'Hikomaro', 'Lucky', 'Moko', 'Kotetsu', 'Louis', 'Haru', 'Leo', 'Narrator']	['Narisawa, Suguru', 'Nishimori, Chihiro', 'Miyazaki, Akari', 'Kinoshita, Suzuna', 'Mashiro, Kentarou', 'Ninomiya, Yui', 'Aira, Rin', 'Matsunaga, Akane', 'Uehara, Risa']	[['Yamamoto, Yuuzou', 'Director'], ['Minagawa, Tomomi', 'Character Design'], ['Satou, Tadashi', 'Series Composition']]

@@ -1,14 +1,5 @@
-animeTitle	Mobile Suit Gundam: The Origin - Advent of the Red Comet
-animeType	TV
-animeNumEpisode	13
-releaseDate	2019-04-29 00:00:00
-endDate	2019-08-12 00:00:00
-animeNumMembers	14618
-animeScore	8.1
-animeUsers	6202
-animeRank	432
-animePopularity	4574
-animeDescription	"What was the tragedy that decided the fates of Char Aznable, the man later nicknamed the ""Red Comet"" as an ace pilot of the Zeon forces, and his sister Sayla Mass?
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Mobile Suit Gundam: The Origin - Advent of the Red Comet	TV	13	2019-04-29 00:00:00	2019-08-12 00:00:00	14618	8.1	6202	432	4574	"What was the tragedy that decided the fates of Char Aznable, the man later nicknamed the ""Red Comet"" as an ace pilot of the Zeon forces, and his sister Sayla Mass?
 
 The two siblings' journeys, brought on by the sudden death of their father Zeon Zum Deikun who was a leader of the Spacenoids, are depicted in the four episodes of ""Chronicle of Char and Sayla.""
 
@@ -17,8 +8,4 @@ The Zabi family who seize control of Side 3 and lead the Principality of Zeon, t
 (Source: Official Website)
 
 Note: A re-edited TV version of the six OVAs released from 2015 through 2018.
-"
-animeRelated	['Mobile Suit Gundam: The Origin']
-animeCharacters	['Aznable, Char', 'Ray, Amuro', 'Mass, Sayla', 'Noa, Bright', 'Haro', 'Ral, Ramba', 'Zabi, Garma']
-animeVoices	[]
-animeStaff	[['Yasuhiko, Yoshikazu', 'Director, Character Design'], ['Imanishi, Takashi', 'Director'], ['miwa', 'Theme Song Performance'], ['LUNA SEA', 'Theme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement']]
+"	['Mobile Suit Gundam: The Origin']	['Aznable, Char', 'Ray, Amuro', 'Mass, Sayla', 'Noa, Bright', 'Haro', 'Ral, Ramba', 'Zabi, Garma']	[]	[['Yasuhiko, Yoshikazu', 'Director, Character Design'], ['Imanishi, Takashi', 'Director'], ['miwa', 'Theme Song Performance'], ['LUNA SEA', 'Theme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement']]

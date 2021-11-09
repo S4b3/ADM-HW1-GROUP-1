@@ -1,15 +1,2 @@
-animeTitle	Ashita no Joe Pilots
-animeType	Special
-animeNumEpisode	2
-releaseDate	1969-11-06 00:00:00
-endDate	1969-12-22 00:00:00
-animeNumMembers	3931
-animeScore	6.2
-animeUsers	1605
-animeRank	7670
-animePopularity	7697
-animeDescription	Pilot episodes.
-animeRelated	['Ashita no Joe']
-animeCharacters	['Yabuki, Joe', 'Rikiishi, Tooru', 'Tange, Danpei', 'Aoyama, Mamoru']
-animeVoices	['Tomiyama, Kei', 'Fujioka, Juukei']
-animeStaff	[['Dezaki, Osamu', 'Director, Storyboard'], ['Watanabe, Takeshi', 'Background Art']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Ashita no Joe Pilots	Special	2	1969-11-06 00:00:00	1969-12-22 00:00:00	3931	6.2	1605	7670	7697	Pilot episodes.	['Ashita no Joe']	['Yabuki, Joe', 'Rikiishi, Tooru', 'Tange, Danpei', 'Aoyama, Mamoru']	['Tomiyama, Kei', 'Fujioka, Juukei']	[['Dezaki, Osamu', 'Director, Storyboard'], ['Watanabe, Takeshi', 'Background Art']]

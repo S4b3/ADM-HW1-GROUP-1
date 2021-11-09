@@ -1,17 +1,4 @@
-animeTitle	"Lupin III: Episode 0 ""First Contact"""
-animeType	Special
-animeNumEpisode	1
-releaseDate	2002-07-26 00:00:00
-endDate	
-animeNumMembers	9034
-animeScore	7.6
-animeUsers	4084
-animeRank	1309
-animePopularity	5530
-animeDescription	"Jigen tells the story of the gang's first meeting. Jigen, still a member of the Mafia, is hired to protect an ancient artifact - one that Lupin and Fujiko are both trying to steal. Meanwhile, Inspector Zenigata, then of the Japanese police force, has come to the U.S. on Fujiko's trail, and Ishikawa Goemon is searching for the lost treasure of his clan. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+"Lupin III: Episode 0 ""First Contact"""	Special	1	2002-07-26 00:00:00		9034	7.6	4084	1309	5530	"Jigen tells the story of the gang's first meeting. Jigen, still a member of the Mafia, is hired to protect an ancient artifact - one that Lupin and Fujiko are both trying to steal. Meanwhile, Inspector Zenigata, then of the Japanese police force, has come to the U.S. on Fujiko's trail, and Ishikawa Goemon is searching for the lost treasure of his clan. 
 
-(Source: ANN)"
-animeRelated	['Lupin III']
-animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Elenor', 'Crawford', 'McFly, George', 'Galvez', 'Shade']
-animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou', 'Park, Romi', 'Ikeda, Masaru', 'Nagai, Ichiro', 'Moriyama, Shuichiro', 'Sakuya, Shunsuke']
-animeStaff	[['Oohara, Minoru', 'Director'], ['Yonemura, Shouji', 'Script'], ['Rosa, Sonia', 'Theme Song Lyrics, Theme Song Performance'], ['Monkey Punch', 'Original Creator']]
+(Source: ANN)"	['Lupin III']	['Lupin III, Arsene', 'Jigen, Daisuke', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zenigata, Kouichi', 'Elenor', 'Crawford', 'McFly, George', 'Galvez', 'Shade']	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Masuyama, Eiko', 'Inoue, Makio', 'Naya, Gorou', 'Park, Romi', 'Ikeda, Masaru', 'Nagai, Ichiro', 'Moriyama, Shuichiro', 'Sakuya, Shunsuke']	[['Oohara, Minoru', 'Director'], ['Yonemura, Shouji', 'Script'], ['Rosa, Sonia', 'Theme Song Lyrics, Theme Song Performance'], ['Monkey Punch', 'Original Creator']]

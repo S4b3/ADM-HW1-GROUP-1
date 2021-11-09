@@ -1,14 +1,5 @@
-animeTitle	Pui Pui Molcar
-animeType	TV
-animeNumEpisode	12
-releaseDate	2021-01-05 00:00:00
-endDate	2021-03-23 00:00:00
-animeNumMembers	9312
-animeScore	8.07
-animeUsers	5120
-animeRank	465
-animePopularity	5484
-animeDescription	"The stage sets in a world where guinea pigs became cars.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Pui Pui Molcar	TV	12	2021-01-05 00:00:00	2021-03-23 00:00:00	9312	8.07	5120	465	5484	"The stage sets in a world where guinea pigs became cars.
 
 The car that makes you relax, ""Molcar"".
 
@@ -20,8 +11,4 @@ Even when they cause trouble, their furry cuteness will somehow make you forgive
 
 Surrounded by situations only met by cars, it's a Mol-animation filled with cure, friendship, adventure and furry actions!
 
-(Source: Muse Asia, edited)"
-animeRelated	['Tobidase! Narase! Pui Pui Molcar']
-animeCharacters	['Teddy', 'Choko', 'Abbey', 'Potato', 'Emergency Molcar']
-animeVoices	[]
-animeStaff	[['Misato, Tomoki', 'Director'], ['Noguchi, Akira', 'Sound Director']]
+(Source: Muse Asia, edited)"	['Tobidase! Narase! Pui Pui Molcar']	['Teddy', 'Choko', 'Abbey', 'Potato', 'Emergency Molcar']	[]	[['Misato, Tomoki', 'Director'], ['Noguchi, Akira', 'Sound Director']]

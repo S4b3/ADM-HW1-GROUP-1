@@ -1,14 +1,5 @@
-animeTitle	Sidonia no Kishi: Ai Tsumugu Hoshi
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2021-06-04 00:00:00
-endDate	
-animeNumMembers	19851
-animeScore	7.27
-animeUsers	202
-animeRank	2540
-animePopularity	3992
-animeDescription	"After the Earth was destroyed by mysterious alien lifeforms known as the Gauna, surviving remnants of the human race escaped to space in the enormous generation ship Sidonia. Having drifted through space for millennia, the Sidonia found itself once more under attack from Gauna for the first time in a century.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Sidonia no Kishi: Ai Tsumugu Hoshi	Movie	1	2021-06-04 00:00:00		19851	7.27	202	2540	3992	"After the Earth was destroyed by mysterious alien lifeforms known as the Gauna, surviving remnants of the human race escaped to space in the enormous generation ship Sidonia. Having drifted through space for millennia, the Sidonia found itself once more under attack from Gauna for the first time in a century.
 
 Once again facing the threat of extinction, a temporary victory against the Gauna was eked out thanks to the human-Gauna hybrid Tsumugi Shiraui and ace Guardian mech pilot Nagate Tanikaze.
 
@@ -16,8 +7,4 @@ Once again facing the threat of extinction, a temporary victory against the Gaun
 
 The decision is made: a final battle, upon which rests the fate of humanity's last survivors. As the end approaches, will the crew be able to protect those they love?
 
-(Source: Polygon Pictures)"
-animeRelated	['Sidonia no Kishi: Daikyuu Wakusei Seneki']
-animeCharacters	['Shinatose, Izana', 'Shiraui, Tsumugi', 'Tanikaze, Nagate', 'Kobayashi', 'Hiyama, Lala', 'Midorikawa, Yuhata', 'Ittan, Samari', 'Sasaki', 'Honoka, Ren', 'Kunato, Norio']
-animeVoices	['Toyosaki, Aki', 'Suzaki, Aya', 'Oosaka, Ryouta', 'Ohara, Sayaka', 'Arai, Satomi', 'Kanemoto, Hisako', 'Tanaka, Atsuko', 'Honda, Takako', 'Kitamura, Eri', 'Sakurai, Takahiro']
-animeStaff	[['Seshita, Hiroyuki', 'Director'], ['Yoshihira, Tadahiro', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Murai, Sadayuki', 'Script']]
+(Source: Polygon Pictures)"	['Sidonia no Kishi: Daikyuu Wakusei Seneki']	['Shinatose, Izana', 'Shiraui, Tsumugi', 'Tanikaze, Nagate', 'Kobayashi', 'Hiyama, Lala', 'Midorikawa, Yuhata', 'Ittan, Samari', 'Sasaki', 'Honoka, Ren', 'Kunato, Norio']	['Toyosaki, Aki', 'Suzaki, Aya', 'Oosaka, Ryouta', 'Ohara, Sayaka', 'Arai, Satomi', 'Kanemoto, Hisako', 'Tanaka, Atsuko', 'Honda, Takako', 'Kitamura, Eri', 'Sakurai, Takahiro']	[['Seshita, Hiroyuki', 'Director'], ['Yoshihira, Tadahiro', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Murai, Sadayuki', 'Script']]

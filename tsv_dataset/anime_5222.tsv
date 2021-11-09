@@ -1,15 +1,2 @@
-animeTitle	Nyanpire The Animation
-animeType	TV
-animeNumEpisode	12
-releaseDate	2011-07-06 00:00:00
-endDate	2011-09-21 00:00:00
-animeNumMembers	25848
-animeScore	6.67
-animeUsers	12887
-animeRank	5222
-animePopularity	3547
-animeDescription	"A heartwarming story about a stray black cat, who was given blood from a vampire. He was taken in by a girl called Misaki and started to live with her. Nyanpire's favorite phrase is ""Give me blood nya."""
-animeRelated	[]
-animeCharacters	['Nyanpire', 'Nyatenshi', 'Dokuganryu, Masamunya', 'Chachamaru', 'Katsuo', 'Vampire', 'Misaki', 'Mouri', 'Komori']
-animeVoices	['Koshimizu, Ami', 'Fukuyama, Jun', 'Sugiyama, Noriaki', 'Gotou, Yuuko', 'Hirota, Shion', 'Tachibana, Shinnosuke', 'Maeda, Nozomi']
-animeStaff	[['Yoshimatsu, Takahiro', 'Director, Character Design'], ['Hyadain', 'Theme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement'], ['Aso, Natsuko', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Nyanpire The Animation	TV	12	2011-07-06 00:00:00	2011-09-21 00:00:00	25848	6.67	12887	5222	3547	"A heartwarming story about a stray black cat, who was given blood from a vampire. He was taken in by a girl called Misaki and started to live with her. Nyanpire's favorite phrase is ""Give me blood nya."""	[]	['Nyanpire', 'Nyatenshi', 'Dokuganryu, Masamunya', 'Chachamaru', 'Katsuo', 'Vampire', 'Misaki', 'Mouri', 'Komori']	['Koshimizu, Ami', 'Fukuyama, Jun', 'Sugiyama, Noriaki', 'Gotou, Yuuko', 'Hirota, Shion', 'Tachibana, Shinnosuke', 'Maeda, Nozomi']	[['Yoshimatsu, Takahiro', 'Director, Character Design'], ['Hyadain', 'Theme Song Lyrics, Theme Song Performance, Theme Song Composition, Theme Song Arrangement'], ['Aso, Natsuko', 'Theme Song Performance']]

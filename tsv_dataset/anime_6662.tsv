@@ -1,17 +1,4 @@
-animeTitle	Comic Party Specials
-animeType	Special
-animeNumEpisode	4
-releaseDate	2003-01-13 00:00:00
-endDate	
-animeNumMembers	3481
-animeScore	6.4
-animeUsers	1426
-animeRank	6662
-animePopularity	7995
-animeDescription	"The DVD Specials.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Comic Party Specials	Special	4	2003-01-13 00:00:00		3481	6.4	1426	6662	7995	"The DVD Specials.
 
-Kazuki, together with his friends, goes to a Comic Party that's going to be held in a hot spring. There, they make an incredible discovery that is going to reveal something amazing about comic conventions."
-animeRelated	['Comic Party']
-animeCharacters	['Sendou, Kazuki', 'Takase, Mizuki', 'Sakurai, Asahi', 'Kuhonbutsu, Taishi', 'Inagawa, Yuu']
-animeVoices	['Kikuchi, Masami', 'Sayama, Riko', 'Koorogi, Satomi', 'Toochika, Kouichi', 'Morota, Kaoru']
-animeStaff	[['Aquaplus', 'Original Creator']]
+Kazuki, together with his friends, goes to a Comic Party that's going to be held in a hot spring. There, they make an incredible discovery that is going to reveal something amazing about comic conventions."	['Comic Party']	['Sendou, Kazuki', 'Takase, Mizuki', 'Sakurai, Asahi', 'Kuhonbutsu, Taishi', 'Inagawa, Yuu']	['Kikuchi, Masami', 'Sayama, Riko', 'Koorogi, Satomi', 'Toochika, Kouichi', 'Morota, Kaoru']	[['Aquaplus', 'Original Creator']]

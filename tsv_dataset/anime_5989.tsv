@@ -1,15 +1,2 @@
-animeTitle	Hero Mask 2nd Season
-animeType	ONA
-animeNumEpisode	9
-releaseDate	2019-08-23 00:00:00
-endDate	
-animeNumMembers	9637
-animeScore	6.53
-animeUsers	3897
-animeRank	5989
-animePopularity	5394
-animeDescription	Second part of Hero Mask.
-animeRelated	['Hero Mask']
-animeCharacters	['Blood, James', 'Chandler, Edmond', 'Creighton, Harry', 'Gallagher, Lennox', 'Hurst, Tina']
-animeVoices	['Shimamura, Yuu']
-animeStaff	[['Aoki, Hiroyasu', 'Director, Series Composition'], ['Gonzalez, Silvio', 'ADR Director'], ['Schubert, Rafael', 'ADR Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Hero Mask 2nd Season	ONA	9	2019-08-23 00:00:00		9637	6.53	3897	5989	5394	Second part of Hero Mask.	['Hero Mask']	['Blood, James', 'Chandler, Edmond', 'Creighton, Harry', 'Gallagher, Lennox', 'Hurst, Tina']	['Shimamura, Yuu']	[['Aoki, Hiroyasu', 'Director, Series Composition'], ['Gonzalez, Silvio', 'ADR Director'], ['Schubert, Rafael', 'ADR Director']]

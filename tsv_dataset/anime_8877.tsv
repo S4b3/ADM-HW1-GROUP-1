@@ -1,15 +1,2 @@
-animeTitle	Baku Tech! Bakugan
-animeType	TV
-animeNumEpisode	51
-releaseDate	2012-04-07 00:00:00
-endDate	2013-03-30 00:00:00
-animeNumMembers	3925
-animeScore	5.94
-animeUsers	1714
-animeRank	8877
-animePopularity	7689
-animeDescription	"Bakugan is the card game for a new generation. In ""Baku TECH"" passionate warriors fight each other and risk their life for Bakugan."
-animeRelated	['Baku Tech! Bakugan', 'Bakugan Battle Brawlers', 'Baku Tech! Bakugan Gachi']
-animeCharacters	['Hinode, Harubaru', 'Kuronashi, Raichi']
-animeVoices	['Mizuno, Marie']
-animeStaff	[['Kato, Takao', 'Director'], ['Takadera, Takeshi', 'Sound Director'], ['Araki, Kenichi', 'Script'], ['Sekijima, Mayori', 'Series Composition']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Baku Tech! Bakugan	TV	51	2012-04-07 00:00:00	2013-03-30 00:00:00	3925	5.94	1714	8877	7689	"Bakugan is the card game for a new generation. In ""Baku TECH"" passionate warriors fight each other and risk their life for Bakugan."	['Baku Tech! Bakugan', 'Bakugan Battle Brawlers', 'Baku Tech! Bakugan Gachi']	['Hinode, Harubaru', 'Kuronashi, Raichi']	['Mizuno, Marie']	[['Kato, Takao', 'Director'], ['Takadera, Takeshi', 'Sound Director'], ['Araki, Kenichi', 'Script'], ['Sekijima, Mayori', 'Series Composition']]

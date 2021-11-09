@@ -1,15 +1,2 @@
-animeTitle	Youjo Senki II
-animeType	TV
-animeNumEpisode	Unknown
-releaseDate	
-endDate	
-animeNumMembers	61761
-animeScore	
-animeUsers	
-animeRank	
-animePopularity	2250
-animeDescription	Second season of Youjo Senki.
-animeRelated	['Youjo Senki', 'Youjo Senki Movie']
-animeCharacters	['Degurechaff, Tanya', 'Serebryakova, Viktoriya Ivanovna', 'von Zettour, Hans', 'von Lergen, Erich', 'von Rudersdorf, Kurt']
-animeVoices	['Yuuki, Aoi', 'Hayami, Saori', 'Ootsuka, Houchuu', 'Miki, Shinichiro', 'Genda, Tesshou']
-animeStaff	[['Uemura, Yutaka', 'Director'], ['Ihara, Kenta', 'Script'], ['Zen, Carlo', 'Original Creator'], ['Shinotsuki, Shinobu', 'Original Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Youjo Senki II	TV	Unknown			61761				2250	Second season of Youjo Senki.	['Youjo Senki', 'Youjo Senki Movie']	['Degurechaff, Tanya', 'Serebryakova, Viktoriya Ivanovna', 'von Zettour, Hans', 'von Lergen, Erich', 'von Rudersdorf, Kurt']	['Yuuki, Aoi', 'Hayami, Saori', 'Ootsuka, Houchuu', 'Miki, Shinichiro', 'Genda, Tesshou']	[['Uemura, Yutaka', 'Director'], ['Ihara, Kenta', 'Script'], ['Zen, Carlo', 'Original Creator'], ['Shinotsuki, Shinobu', 'Original Character Design']]

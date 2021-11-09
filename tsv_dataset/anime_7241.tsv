@@ -1,17 +1,4 @@
-animeTitle	Examurai Sengoku
-animeType	TV
-animeNumEpisode	24
-releaseDate	2009-01-11 00:00:00
-endDate	2009-06-25 00:00:00
-animeNumMembers	3975
-animeScore	6.29
-animeUsers	529
-animeRank	7241
-animePopularity	7657
-animeDescription	"The Examurai Sengoku anime production depicts the members of the EXILE group as futuristic samurai that are transported back in time to Japan’s sengoku (warring states) period. The anime character renditions of the EXILE members were designed by manga creator Hiroshi Takahashi (Crows, Worst). 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Examurai Sengoku	TV	24	2009-01-11 00:00:00	2009-06-25 00:00:00	3975	6.29	529	7241	7657	"The Examurai Sengoku anime production depicts the members of the EXILE group as futuristic samurai that are transported back in time to Japan’s sengoku (warring states) period. The anime character renditions of the EXILE members were designed by manga creator Hiroshi Takahashi (Crows, Worst). 
 
-(Source: AniDB)"
-animeRelated	['Examurai', 'Examurai Sengoku Recap']
-animeCharacters	['Atsushi', 'Matsu', 'Akira', 'Takahiro', 'Makidai', 'Usa', 'Hiro', 'Nori']
-animeVoices	['Tanaka, Hiroki', 'Kazama, Yuuto', 'Matsuda, Kenichirou', 'Masuda, Yuuki', 'Endou, Daisuke', 'Suzuki, Chihiro', 'Inada, Tetsu', 'Hiranuma, Norihisa']
-animeStaff	[['Motoyama, Satoshi', 'Sound Director'], ['Takahashi, Hiroshi', 'Original Character Design'], ['Miura, Kouji', 'Series Composition']]
+(Source: AniDB)"	['Examurai', 'Examurai Sengoku Recap']	['Atsushi', 'Matsu', 'Akira', 'Takahiro', 'Makidai', 'Usa', 'Hiro', 'Nori']	['Tanaka, Hiroki', 'Kazama, Yuuto', 'Matsuda, Kenichirou', 'Masuda, Yuuki', 'Endou, Daisuke', 'Suzuki, Chihiro', 'Inada, Tetsu', 'Hiranuma, Norihisa']	[['Motoyama, Satoshi', 'Sound Director'], ['Takahashi, Hiroshi', 'Original Character Design'], ['Miura, Kouji', 'Series Composition']]

@@ -1,21 +1,8 @@
-animeTitle	.hack//Roots
-animeType	TV
-animeNumEpisode	26
-releaseDate	2006-04-06 00:00:00
-endDate	2006-09-28 00:00:00
-animeNumMembers	69375
-animeScore	6.89
-animeUsers	31599
-animeRank	4238
-animePopularity	2054
-animeDescription	"After the termination of the incredibly popular virtual reality MMORPG ""The World,"" a new version of the game—The World R:2—is brought online. On his first day in the game, newcomer Haseo thinks he has made some friends to quest with. However, as if mocking his sentiments, they kill his character just for fun. Luckily, he is saved by a mysterious, one-armed player named Ovan who offers to show him around The World. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+.hack//Roots	TV	26	2006-04-06 00:00:00	2006-09-28 00:00:00	69375	6.89	31599	4238	2054	"After the termination of the incredibly popular virtual reality MMORPG ""The World,"" a new version of the game—The World R:2—is brought online. On his first day in the game, newcomer Haseo thinks he has made some friends to quest with. However, as if mocking his sentiments, they kill his character just for fun. Luckily, he is saved by a mysterious, one-armed player named Ovan who offers to show him around The World. 
 
 Alongside Ovan and his cleric friend Shino, Haseo enjoys a wonderful first year in the game. But this peaceful life is shattered when Shino's character is killed by a familiar figure notoriously known as Tri-Edge, whose victims have all fallen into comas in the real world. In a fit of rage, Haseo vows to find the elusive Tri-Edge and kill him.
 
 Taking place during Haseo's first year in The World, .hack//Roots explores the friendships Haseo built in the game before Tri-Edge ripped them away.
 
-[Written by MAL Rewrite]"
-animeRelated	['.hack//Sign', '.hack//Tasogare no Udewa Densetsu', '.hack//G.U. Trilogy', '.hack//Quantum']
-animeCharacters	['Haseo', 'Ovan', 'Shino', 'Tabby', 'Phyllo', 'Azure Kite', 'Silabus', 'Kuhn', 'Asta', 'Silver Knight']
-animeVoices	['Sakurai, Takahiro', 'Touchi, Hiroki', 'Nazuka, Kaori', 'Toyoguchi, Megumi', 'Takiguchi, Junpei', 'Aida, Sayaka', 'Sakaguchi, Daisuke', 'Miki, Shinichiro', 'Honna, Youko', 'Chiba, Isshin']
-animeStaff	[['Mashimo, Kouichi', 'Producer, Director, Storyboard, Sound Supervisor'], ['Uchiyama, Daisuke', 'Producer'], ['Morimoto, Kouji', 'Producer'], ['Sawai, Kouji', 'Director']]
+[Written by MAL Rewrite]"	['.hack//Sign', '.hack//Tasogare no Udewa Densetsu', '.hack//G.U. Trilogy', '.hack//Quantum']	['Haseo', 'Ovan', 'Shino', 'Tabby', 'Phyllo', 'Azure Kite', 'Silabus', 'Kuhn', 'Asta', 'Silver Knight']	['Sakurai, Takahiro', 'Touchi, Hiroki', 'Nazuka, Kaori', 'Toyoguchi, Megumi', 'Takiguchi, Junpei', 'Aida, Sayaka', 'Sakaguchi, Daisuke', 'Miki, Shinichiro', 'Honna, Youko', 'Chiba, Isshin']	[['Mashimo, Kouichi', 'Producer, Director, Storyboard, Sound Supervisor'], ['Uchiyama, Daisuke', 'Producer'], ['Morimoto, Kouji', 'Producer'], ['Sawai, Kouji', 'Director']]

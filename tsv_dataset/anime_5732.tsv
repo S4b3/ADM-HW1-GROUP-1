@@ -1,15 +1,2 @@
-animeTitle	Youjo Senki: Senkyou Houkoku
-animeType	Special
-animeNumEpisode	1
-releaseDate	2017-02-17 00:00:00
-endDate	
-animeNumMembers	29938
-animeScore	6.58
-animeUsers	15237
-animeRank	5732
-animePopularity	3302
-animeDescription	Recap of the first 6 episodes of Youjo Senki.
-animeRelated	['Youjo Senki']
-animeCharacters	['Degurechaff, Tanya', 'Serebryakova, Viktoriya Ivanovna', 'von Lergen, Erich', 'von Schugel, Adelheid']
-animeVoices	['Toriumi, Kousuke', 'Hayami, Saori', 'Miki, Shinichiro']
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Youjo Senki: Senkyou Houkoku	Special	1	2017-02-17 00:00:00		29938	6.58	15237	5732	3302	Recap of the first 6 episodes of Youjo Senki.	['Youjo Senki']	['Degurechaff, Tanya', 'Serebryakova, Viktoriya Ivanovna', 'von Lergen, Erich', 'von Schugel, Adelheid']	['Toriumi, Kousuke', 'Hayami, Saori', 'Miki, Shinichiro']	[]

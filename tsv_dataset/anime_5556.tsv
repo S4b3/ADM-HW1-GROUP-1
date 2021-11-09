@@ -1,15 +1,2 @@
-animeTitle	Beautiful World
-animeType	Music
-animeNumEpisode	1
-releaseDate	2014-12-02 00:00:00
-endDate	
-animeNumMembers	6512
-animeScore	6.61
-animeUsers	3594
-animeRank	5556
-animePopularity	6308
-animeDescription	"A music video directed by Tsurumaki Kazuya to promote the movies of Rebuild of Evangelion and the main music theme, ""Beautiful World."" The video includes both new animation and animation from the film."
-animeRelated	['Evangelion: 1.0 You Are (Not) Alone']
-animeCharacters	['Souryuu, Asuka Langley', 'Ikari, Shinji', 'Ayanami, Rei']
-animeVoices	[]
-animeStaff	[['Tsurumaki, Kazuya', 'Director'], ['Utada, Hikaru', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Beautiful World	Music	1	2014-12-02 00:00:00		6512	6.61	3594	5556	6308	"A music video directed by Tsurumaki Kazuya to promote the movies of Rebuild of Evangelion and the main music theme, ""Beautiful World."" The video includes both new animation and animation from the film."	['Evangelion: 1.0 You Are (Not) Alone']	['Souryuu, Asuka Langley', 'Ikari, Shinji', 'Ayanami, Rei']	[]	[['Tsurumaki, Kazuya', 'Director'], ['Utada, Hikaru', 'Theme Song Performance']]

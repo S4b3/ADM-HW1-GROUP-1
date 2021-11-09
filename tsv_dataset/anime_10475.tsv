@@ -1,15 +1,2 @@
-animeTitle	Hit wo Nerae! Specials
-animeType	Special
-animeNumEpisode	4
-releaseDate	2004-05-19 00:00:00
-endDate	2004-06-30 00:00:00
-animeNumMembers	1600
-animeScore	5.47
-animeUsers	677
-animeRank	10475
-animePopularity	10019
-animeDescription	DVD only specials.
-animeRelated	['Hit wo Nerae!']
-animeCharacters	['Ikuta, Mitsuki', 'Imamura, Sayaka']
-animeVoices	['Noto, Mamiko', 'Yoshida, Mayumi']
-animeStaff	[['Takahashi, Takeo', 'Director, Storyboard']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Hit wo Nerae! Specials	Special	4	2004-05-19 00:00:00	2004-06-30 00:00:00	1600	5.47	677	10475	10019	DVD only specials.	['Hit wo Nerae!']	['Ikuta, Mitsuki', 'Imamura, Sayaka']	['Noto, Mamiko', 'Yoshida, Mayumi']	[['Takahashi, Takeo', 'Director, Storyboard']]

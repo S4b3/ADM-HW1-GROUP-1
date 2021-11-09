@@ -1,15 +1,2 @@
-animeTitle	Teekyuu 6
-animeType	TV
-animeNumEpisode	12
-releaseDate	2015-10-06 00:00:00
-endDate	2015-12-22 00:00:00
-animeNumMembers	15245
-animeScore	6.59
-animeUsers	8282
-animeRank	5641
-animePopularity	4488
-animeDescription	Sixth season of the Teekyuu series.
-animeRelated	['Teekyuu', 'Teekyuu 5', 'Teekyuu 7', 'Teekyuu 6 Specials']
-animeCharacters	['Bandou, Marimo', 'Shinjou, Kanae', 'Takamiya, Nasuno', 'Oshimoto, Yuri', 'Tomalin', 'Tanaka, Kinako', 'Kondou, Annenkov', 'Oshimoto, Youta', 'Bobby', 'Kondou, Udonko']
-animeVoices	['Hanazawa, Kana', 'Mimori, Suzuko', 'Narumi, Kyoko', 'Watanabe, Yui', 'Ogura, Yui', 'Nakashima, Yuki', 'Oosaka, Ryouta', 'Shimozuma, Yoshiyuki', 'Ishihara, Kaori']
-animeStaff	[['Itagaki, Shin', 'Director, Sound Director, Episode Director, Script, Storyboard, Key Animation, Animation Director, Character Design, Chief Animation Director'], ['Earth Star Dream', 'Theme Song Performance'], ['Piyo', 'Original Character Design'], ['Terada, Tsugeo', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Teekyuu 6	TV	12	2015-10-06 00:00:00	2015-12-22 00:00:00	15245	6.59	8282	5641	4488	Sixth season of the Teekyuu series.	['Teekyuu', 'Teekyuu 5', 'Teekyuu 7', 'Teekyuu 6 Specials']	['Bandou, Marimo', 'Shinjou, Kanae', 'Takamiya, Nasuno', 'Oshimoto, Yuri', 'Tomalin', 'Tanaka, Kinako', 'Kondou, Annenkov', 'Oshimoto, Youta', 'Bobby', 'Kondou, Udonko']	['Hanazawa, Kana', 'Mimori, Suzuko', 'Narumi, Kyoko', 'Watanabe, Yui', 'Ogura, Yui', 'Nakashima, Yuki', 'Oosaka, Ryouta', 'Shimozuma, Yoshiyuki', 'Ishihara, Kaori']	[['Itagaki, Shin', 'Director, Sound Director, Episode Director, Script, Storyboard, Key Animation, Animation Director, Character Design, Chief Animation Director'], ['Earth Star Dream', 'Theme Song Performance'], ['Piyo', 'Original Character Design'], ['Terada, Tsugeo', 'Original Creator']]

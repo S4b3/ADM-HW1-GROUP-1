@@ -1,17 +1,4 @@
-animeTitle	Di Gi Charat Nyo
-animeType	TV
-animeNumEpisode	104
-releaseDate	2003-04-06 00:00:00
-endDate	2004-03-28 00:00:00
-animeNumMembers	6355
-animeScore	7.06
-animeUsers	1825
-animeRank	3501
-animePopularity	6359
-animeDescription	"Di Gi Charat (a.k.a. Dejiko) - along with Petit Charat (a.k.a. Puchiko) and Gema - travels to Earth as part of her training to become a full-fledged princess. They crash on a small town in Japan, where they meet the Omocha brothers (who spend most of their time thinking how cute Puchiko is) and Mr. & Mrs. Ankoro (an elderly couple that makes Japanese sweets).
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Di Gi Charat Nyo	TV	104	2003-04-06 00:00:00	2004-03-28 00:00:00	6355	7.06	1825	3501	6359	"Di Gi Charat (a.k.a. Dejiko) - along with Petit Charat (a.k.a. Puchiko) and Gema - travels to Earth as part of her training to become a full-fledged princess. They crash on a small town in Japan, where they meet the Omocha brothers (who spend most of their time thinking how cute Puchiko is) and Mr. & Mrs. Ankoro (an elderly couple that makes Japanese sweets).
 
-(Source: ANN)"
-animeRelated	['Di Gi Charat']
-animeCharacters	['Di Gi Charat', 'Petit Charat', 'Usada, Hikaru', 'Analogue III, Pyocola', 'Gema', 'Schweitzer, Ky', 'Erhard, Coo', 'Heisenberg, Rik', 'Abarenbou', 'Usada, Akari']
-animeVoices	['Sanada, Asami', 'Sawashiro, Miyuki', 'Hikami, Kyouko', 'Hayashibara, Megumi', 'Kamei, Yoshiko', 'Suzuki, Chihiro', 'Saeki, Tomo', 'Toriumi, Kousuke', 'Ueda, Yuuji', 'Iguchi, Yuka']
-animeStaff	[['Sakurai, Hiroaki', 'Director, Script'], ['Araki, Tetsurou', 'Episode Director, Storyboard'], ['Nakase, Rika', 'Script'], ['Kaneko, Shingo', 'Storyboard']]
+(Source: ANN)"	['Di Gi Charat']	['Di Gi Charat', 'Petit Charat', 'Usada, Hikaru', 'Analogue III, Pyocola', 'Gema', 'Schweitzer, Ky', 'Erhard, Coo', 'Heisenberg, Rik', 'Abarenbou', 'Usada, Akari']	['Sanada, Asami', 'Sawashiro, Miyuki', 'Hikami, Kyouko', 'Hayashibara, Megumi', 'Kamei, Yoshiko', 'Suzuki, Chihiro', 'Saeki, Tomo', 'Toriumi, Kousuke', 'Ueda, Yuuji', 'Iguchi, Yuka']	[['Sakurai, Hiroaki', 'Director, Script'], ['Araki, Tetsurou', 'Episode Director, Storyboard'], ['Nakase, Rika', 'Script'], ['Kaneko, Shingo', 'Storyboard']]

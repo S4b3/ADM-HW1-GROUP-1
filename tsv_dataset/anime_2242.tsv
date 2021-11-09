@@ -1,15 +1,2 @@
-animeTitle	Owaranai Seraph
-animeType	Special
-animeNumEpisode	9
-releaseDate	2015-06-24 00:00:00
-endDate	2015-09-26 00:00:00
-animeNumMembers	76325
-animeScore	7.33
-animeUsers	32104
-animeRank	2242
-animePopularity	1945
-animeDescription	Specials included in the Blu-ray and DVD releases.
-animeRelated	['Owari no Seraph']
-animeCharacters	['Hyakuya, Yuuichirou', 'Hiiragi, Shinoa', 'Hyakuya, Mikaela', 'Ichinose, Guren', 'Hiiragi, Shinya', 'Saotome, Yoichi', 'Kimizuki, Shihou', 'Sanguu, Mitsuba', 'Hiiragi, Kureto', 'Hiiragi, Seishirou']
-animeVoices	['Irino, Miyu', 'Hayami, Saori', 'Ono, Kensho', 'Nakamura, Yuuichi', 'Suzuki, Tatsuhisa', 'Okamoto, Nobuhiko', 'Ishikawa, Kaito', 'Iguchi, Yuka', 'Maeno, Tomoaki', 'Yoshino, Hiroyuki']
-animeStaff	[['Nakatake, Tetsuya', 'Producer'], ['Kagami, Takaya', 'Original Creator'], ['Yamamoto, Yamato', 'Original Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Owaranai Seraph	Special	9	2015-06-24 00:00:00	2015-09-26 00:00:00	76325	7.33	32104	2242	1945	Specials included in the Blu-ray and DVD releases.	['Owari no Seraph']	['Hyakuya, Yuuichirou', 'Hiiragi, Shinoa', 'Hyakuya, Mikaela', 'Ichinose, Guren', 'Hiiragi, Shinya', 'Saotome, Yoichi', 'Kimizuki, Shihou', 'Sanguu, Mitsuba', 'Hiiragi, Kureto', 'Hiiragi, Seishirou']	['Irino, Miyu', 'Hayami, Saori', 'Ono, Kensho', 'Nakamura, Yuuichi', 'Suzuki, Tatsuhisa', 'Okamoto, Nobuhiko', 'Ishikawa, Kaito', 'Iguchi, Yuka', 'Maeno, Tomoaki', 'Yoshino, Hiroyuki']	[['Nakatake, Tetsuya', 'Producer'], ['Kagami, Takaya', 'Original Creator'], ['Yamamoto, Yamato', 'Original Character Design']]

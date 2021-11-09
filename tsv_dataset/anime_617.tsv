@@ -1,15 +1,2 @@
-animeTitle	Haikyuu!! Movie 1: Owari to Hajimari
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2015-07-03 00:00:00
-endDate	
-animeNumMembers	72415
-animeScore	7.95
-animeUsers	25180
-animeRank	617
-animePopularity	2008
-animeDescription	First Haikyuu!! recap movie.
-animeRelated	['Haikyuu!!', 'Haikyuu!! Movie 2: Shousha to Haisha']
-animeCharacters	['Hinata, Shouyou', 'Kageyama, Tobio', 'Nishinoya, Yuu', 'Kozume, Kenma', 'Tsukishima, Kei', 'Kuroo, Tetsurou', 'Sugawara, Koushi', 'Tanaka, Ryuunosuke', 'Yamaguchi, Tadashi', 'Azumane, Asahi']
-animeVoices	['Murase, Ayumu', 'Ishikawa, Kaito', 'Okamoto, Nobuhiko', 'Kaji, Yuki', 'Uchiyama, Kouki', 'Nakamura, Yuuichi', 'Irino, Miyu', 'Hayashi, Yuu', 'Saitou, Souma', 'Hosoya, Yoshimasa']
-animeStaff	[['Morihiro, Fumi', 'Producer'], ['Matsushita, Keiko', 'Producer'], ['Mitsunaka, Susumu', 'Director'], ['Kikuta, Hiromi', 'Sound Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Haikyuu!! Movie 1: Owari to Hajimari	Movie	1	2015-07-03 00:00:00		72415	7.95	25180	617	2008	First Haikyuu!! recap movie.	['Haikyuu!!', 'Haikyuu!! Movie 2: Shousha to Haisha']	['Hinata, Shouyou', 'Kageyama, Tobio', 'Nishinoya, Yuu', 'Kozume, Kenma', 'Tsukishima, Kei', 'Kuroo, Tetsurou', 'Sugawara, Koushi', 'Tanaka, Ryuunosuke', 'Yamaguchi, Tadashi', 'Azumane, Asahi']	['Murase, Ayumu', 'Ishikawa, Kaito', 'Okamoto, Nobuhiko', 'Kaji, Yuki', 'Uchiyama, Kouki', 'Nakamura, Yuuichi', 'Irino, Miyu', 'Hayashi, Yuu', 'Saitou, Souma', 'Hosoya, Yoshimasa']	[['Morihiro, Fumi', 'Producer'], ['Matsushita, Keiko', 'Producer'], ['Mitsunaka, Susumu', 'Director'], ['Kikuta, Hiromi', 'Sound Director']]

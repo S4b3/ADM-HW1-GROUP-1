@@ -1,15 +1,2 @@
-animeTitle	Koala Boy Kokki
-animeType	TV
-animeNumEpisode	26
-releaseDate	1984-04-11 00:00:00
-endDate	1985-03-28 00:00:00
-animeNumMembers	740
-animeScore	6.2
-animeUsers	253
-animeRank	7687
-animePopularity	11906
-animeDescription	A little koala and his friends have adventures together and learn lessons about the world while having a lot of fun.
-animeRelated	[]
-animeCharacters	['Kokki']
-animeVoices	['Fujita, Toshiko']
-animeStaff	"[['Ishiguro, Megumu', 'Director'], ['Yamada, Katsuhisa', 'Storyboard'], [""D'Avena, Cristina"", 'Theme Song Performance'], ['Watanabe, Takashi', 'Animation Director']]"
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Koala Boy Kokki	TV	26	1984-04-11 00:00:00	1985-03-28 00:00:00	740	6.2	253	7687	11906	A little koala and his friends have adventures together and learn lessons about the world while having a lot of fun.	[]	['Kokki']	['Fujita, Toshiko']	"[['Ishiguro, Megumu', 'Director'], ['Yamada, Katsuhisa', 'Storyboard'], [""D'Avena, Cristina"", 'Theme Song Performance'], ['Watanabe, Takashi', 'Animation Director']]"

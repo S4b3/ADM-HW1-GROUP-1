@@ -1,15 +1,2 @@
-animeTitle	Moon Pride
-animeType	Music
-animeNumEpisode	1
-releaseDate	2014-07-19 00:00:00
-endDate	
-animeNumMembers	4931
-animeScore	6.85
-animeUsers	2676
-animeRank	4382
-animePopularity	7043
-animeDescription	"Music video for Momoiro Clover Z's song ""MOON PRIDE"""
-animeRelated	['Bishoujo Senshi Sailor Moon Crystal']
-animeCharacters	['Tsukino, Usagi', 'Hino, Rei', 'Kino, Makoto', 'Aino, Minako', 'Mizuno, Ami', 'Chiba, Mamoru', 'Luna', 'Oosaka, Naru', 'Umino, Gurio', 'Sakurada, Haruna']
-animeVoices	[]
-animeStaff	[['Revo', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['Momoiro Clover Z', 'Theme Song Performance'], ['Takeuchi, Naoko', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Moon Pride	Music	1	2014-07-19 00:00:00		4931	6.85	2676	4382	7043	"Music video for Momoiro Clover Z's song ""MOON PRIDE"""	['Bishoujo Senshi Sailor Moon Crystal']	['Tsukino, Usagi', 'Hino, Rei', 'Kino, Makoto', 'Aino, Minako', 'Mizuno, Ami', 'Chiba, Mamoru', 'Luna', 'Oosaka, Naru', 'Umino, Gurio', 'Sakurada, Haruna']	[]	[['Revo', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement'], ['Momoiro Clover Z', 'Theme Song Performance'], ['Takeuchi, Naoko', 'Original Creator']]

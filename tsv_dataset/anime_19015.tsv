@@ -1,15 +1,2 @@
-animeTitle	Gin no Otoko
-animeType	OVA
-animeNumEpisode	1
-releaseDate	1992-01-10 00:00:00
-endDate	
-animeNumMembers	505
-animeScore	5.05
-animeUsers	141
-animeRank	
-animePopularity	12945
-animeDescription	Based on the adult manga by Motomiya Hiroshi.
-animeRelated	[]
-animeCharacters	['Yuji', 'Hideaki', 'Shizuko', 'Mika', 'Sumio', 'Keiko', 'Kyoko']
-animeVoices	['Nakahara, Shigeru', 'Yara, Yuusaku', 'Yokoo, Mari', 'Emori, Hiroko', 'Tanaka, Hideyuki', 'Matsui, Naoko', 'Yoshida, Rihoko']
-animeStaff	[['Motomiya, Hiroshi', 'Original Creator'], ['Oomori, Hidetoshi', 'Animation Director, Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Gin no Otoko	OVA	1	1992-01-10 00:00:00		505	5.05	141		12945	Based on the adult manga by Motomiya Hiroshi.	[]	['Yuji', 'Hideaki', 'Shizuko', 'Mika', 'Sumio', 'Keiko', 'Kyoko']	['Nakahara, Shigeru', 'Yara, Yuusaku', 'Yokoo, Mari', 'Emori, Hiroko', 'Tanaka, Hideyuki', 'Matsui, Naoko', 'Yoshida, Rihoko']	[['Motomiya, Hiroshi', 'Original Creator'], ['Oomori, Hidetoshi', 'Animation Director, Character Design']]

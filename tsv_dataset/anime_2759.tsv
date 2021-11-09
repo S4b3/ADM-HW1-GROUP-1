@@ -1,15 +1,2 @@
-animeTitle	Lupin III (2015) Specials
-animeType	Special
-animeNumEpisode	2
-releaseDate	2015-09-06 00:00:00
-endDate	2015-11-22 00:00:00
-animeNumMembers	6874
-animeScore	7.23
-animeUsers	3147
-animeRank	2759
-animePopularity	6189
-animeDescription	Specials included in the Blu-ray and DVD releases of Lupin III (2015).
-animeRelated	['Lupin III (2015)']
-animeCharacters	['Lupin III, Arsene', 'Jigen, Daisuke', 'Zenigata, Kouichi', 'Rossellini, Rebecca', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zuccoli, Robson']
-animeVoices	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Yamadera, Kouichi', 'Fujii, Yukiyo', 'Sawashiro, Miyuki', 'Namikawa, Daisuke', 'Yamanoi, Jin']
-animeStaff	[['Tomonaga, Kazuhide', 'Director'], ['Takahashi, Yuuya', 'Script'], ['Masuda, Toshihiko', 'Storyboard'], ['Monkey Punch', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Lupin III (2015) Specials	Special	2	2015-09-06 00:00:00	2015-11-22 00:00:00	6874	7.23	3147	2759	6189	Specials included in the Blu-ray and DVD releases of Lupin III (2015).	['Lupin III (2015)']	['Lupin III, Arsene', 'Jigen, Daisuke', 'Zenigata, Kouichi', 'Rossellini, Rebecca', 'Mine, Fujiko', 'Ishikawa XIII, Goemon', 'Zuccoli, Robson']	['Kurita, Kanichi', 'Kobayashi, Kiyoshi', 'Yamadera, Kouichi', 'Fujii, Yukiyo', 'Sawashiro, Miyuki', 'Namikawa, Daisuke', 'Yamanoi, Jin']	[['Tomonaga, Kazuhide', 'Director'], ['Takahashi, Yuuya', 'Script'], ['Masuda, Toshihiko', 'Storyboard'], ['Monkey Punch', 'Original Creator']]

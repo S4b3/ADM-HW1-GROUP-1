@@ -1,15 +1,2 @@
-animeTitle	Nine: Kanketsu-hen
-animeType	Special
-animeNumEpisode	1
-releaseDate	1984-09-05 00:00:00
-endDate	
-animeNumMembers	586
-animeScore	5.99
-animeUsers	206
-animeRank	8666
-animePopularity	12531
-animeDescription	Last part of the Nine TV movies.
-animeRelated	['Nine', 'Nine 2: Koibito Sengen']
-animeCharacters	['Niimi, Katsuya']
-animeVoices	[]
-animeStaff	[['Sugii, Gisaburou', 'Director'], ['Serizawa, Hiroaki', 'Theme Song Composition, Theme Song Performance, Theme Song Arrangement, Music'], ['Adachi, Mitsuru', 'Original Creator'], ['Maeda, Minoru', 'Animation Director, Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Nine: Kanketsu-hen	Special	1	1984-09-05 00:00:00		586	5.99	206	8666	12531	Last part of the Nine TV movies.	['Nine', 'Nine 2: Koibito Sengen']	['Niimi, Katsuya']	[]	[['Sugii, Gisaburou', 'Director'], ['Serizawa, Hiroaki', 'Theme Song Composition, Theme Song Performance, Theme Song Arrangement, Music'], ['Adachi, Mitsuru', 'Original Creator'], ['Maeda, Minoru', 'Animation Director, Character Design']]

@@ -1,15 +1,2 @@
-animeTitle	One Room Third Season
-animeType	TV
-animeNumEpisode	12
-releaseDate	2020-10-06 00:00:00
-endDate	2020-12-22 00:00:00
-animeNumMembers	25625
-animeScore	6.46
-animeUsers	9163
-animeRank	6354
-animePopularity	3569
-animeDescription	Third season of One Room. 
-animeRelated	['One Room Second Season']
-animeCharacters	['Hanasaka, Yui', 'Momohara, Natsuki', 'Nanahashi, Minori', 'Orisaki, Saya', 'Kotokawa, Akira']
-animeVoices	['Ichimichi, Mao', 'Murakawa, Rie', 'Takahashi, Rie', 'Hanamori, Yumiri', 'Tomita, Miyu']
-animeStaff	[['Shimoi, Aose', 'Script'], ['Kantoku', 'Original Character Design'], ['Mano, Eiji', 'Original Creator'], ['Tani, Takuya', 'Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+One Room Third Season	TV	12	2020-10-06 00:00:00	2020-12-22 00:00:00	25625	6.46	9163	6354	3569	Third season of One Room. 	['One Room Second Season']	['Hanasaka, Yui', 'Momohara, Natsuki', 'Nanahashi, Minori', 'Orisaki, Saya', 'Kotokawa, Akira']	['Ichimichi, Mao', 'Murakawa, Rie', 'Takahashi, Rie', 'Hanamori, Yumiri', 'Tomita, Miyu']	[['Shimoi, Aose', 'Script'], ['Kantoku', 'Original Character Design'], ['Mano, Eiji', 'Original Creator'], ['Tani, Takuya', 'Character Design']]

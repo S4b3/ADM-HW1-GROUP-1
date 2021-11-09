@@ -1,15 +1,2 @@
-animeTitle	Osomatsu-san 3rd Season
-animeType	TV
-animeNumEpisode	25
-releaseDate	2020-10-13 00:00:00
-endDate	2021-03-30 00:00:00
-animeNumMembers	17477
-animeScore	7.32
-animeUsers	4751
-animeRank	2315
-animePopularity	4254
-animeDescription	Third season of Osomatsu-san.
-animeRelated	"['Osomatsu-san 2nd Season', 'Atsumare! Minna no Kontematsu-san!', ""Chocomatsu-san: Valentine's Day-hen"", 'Chocomatsu-san: White Day-hen']"
-animeCharacters	['Matsuno, Ichimatsu', 'Matsuno, Karamatsu', 'Matsuno, Juushimatsu', 'Matsuno, Osomatsu', 'Matsuno, Choromatsu', 'Matsuno, Todomatsu', 'Iyami', 'Yowai, Totoko', 'Chibita', 'Dayon']
-animeVoices	['Fukuyama, Jun', 'Nakamura, Yuuichi', 'Ono, Daisuke', 'Sakurai, Takahiro', 'Kamiya, Hiroshi', 'Irino, Miyu', 'Suzumura, Kenichi', 'Endou, Aya', 'Kokuryu, Sachi', 'Tobita, Nobuo']
-animeStaff	[['Fujita, Youichi', 'Director'], ['Kikuta, Hiromi', 'Sound Director'], ['Yamai, Sayaka', 'Episode Director, Storyboard'], ['Matsubara, Shuu', 'Script, Series Composition']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Osomatsu-san 3rd Season	TV	25	2020-10-13 00:00:00	2021-03-30 00:00:00	17477	7.32	4751	2315	4254	Third season of Osomatsu-san.	"['Osomatsu-san 2nd Season', 'Atsumare! Minna no Kontematsu-san!', ""Chocomatsu-san: Valentine's Day-hen"", 'Chocomatsu-san: White Day-hen']"	['Matsuno, Ichimatsu', 'Matsuno, Karamatsu', 'Matsuno, Juushimatsu', 'Matsuno, Osomatsu', 'Matsuno, Choromatsu', 'Matsuno, Todomatsu', 'Iyami', 'Yowai, Totoko', 'Chibita', 'Dayon']	['Fukuyama, Jun', 'Nakamura, Yuuichi', 'Ono, Daisuke', 'Sakurai, Takahiro', 'Kamiya, Hiroshi', 'Irino, Miyu', 'Suzumura, Kenichi', 'Endou, Aya', 'Kokuryu, Sachi', 'Tobita, Nobuo']	[['Fujita, Youichi', 'Director'], ['Kikuta, Hiromi', 'Sound Director'], ['Yamai, Sayaka', 'Episode Director, Storyboard'], ['Matsubara, Shuu', 'Script, Series Composition']]

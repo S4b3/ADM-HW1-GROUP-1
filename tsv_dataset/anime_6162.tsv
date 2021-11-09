@@ -1,15 +1,2 @@
-animeTitle	Turn A Gundam I Movie: Earth Light
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2002-02-09 00:00:00
-endDate	
-animeNumMembers	4316
-animeScore	6.5
-animeUsers	1246
-animeRank	6162
-animePopularity	7436
-animeDescription	A movie retelling of the first half of the Turn A Gundam series. 
-animeRelated	['Turn A Gundam', 'Turn A Gundam II Movie: Moonlight Butterfly']
-animeCharacters	['Soreil, Dianna', 'Cehack, Loran', 'Heim, Sochie', 'Heim, Kihel', 'Ord, Harry', 'Borjarno, Lily', 'Laijie, Keith', 'Doll, Fran', 'Nander, Corin', 'Rhineford, Guin Sard']
-animeVoices	['Takahashi, Rieko', 'Park, Romi', 'Murata, Akino', 'Inada, Tetsu', 'Kobayashi, Ai', 'Fukuyama, Jun', 'Watanabe, Kumiko', 'Kawazu, Yasuhiko', 'Aoba, Gou']
-animeStaff	[['Yatate, Hajime', 'Producer'], ['Tomino, Yoshiyuki', 'Director, Original Creator'], ['Watanabe, Tetsuya', 'Episode Director'], ['Kunihiro, Mori', 'Episode Director, Storyboard']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Turn A Gundam I Movie: Earth Light	Movie	1	2002-02-09 00:00:00		4316	6.5	1246	6162	7436	A movie retelling of the first half of the Turn A Gundam series. 	['Turn A Gundam', 'Turn A Gundam II Movie: Moonlight Butterfly']	['Soreil, Dianna', 'Cehack, Loran', 'Heim, Sochie', 'Heim, Kihel', 'Ord, Harry', 'Borjarno, Lily', 'Laijie, Keith', 'Doll, Fran', 'Nander, Corin', 'Rhineford, Guin Sard']	['Takahashi, Rieko', 'Park, Romi', 'Murata, Akino', 'Inada, Tetsu', 'Kobayashi, Ai', 'Fukuyama, Jun', 'Watanabe, Kumiko', 'Kawazu, Yasuhiko', 'Aoba, Gou']	[['Yatate, Hajime', 'Producer'], ['Tomino, Yoshiyuki', 'Director, Original Creator'], ['Watanabe, Tetsuya', 'Episode Director'], ['Kunihiro, Mori', 'Episode Director, Storyboard']]

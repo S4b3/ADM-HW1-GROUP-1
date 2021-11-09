@@ -1,15 +1,2 @@
-animeTitle	Goddamn
-animeType	OVA
-animeNumEpisode	2
-releaseDate	1990-04-27 00:00:00
-endDate	1990-08-16 00:00:00
-animeNumMembers	2715
-animeScore	5.79
-animeUsers	913
-animeRank	9404
-animePopularity	8659
-animeDescription	Car racing anime, based on the manga by Kaoru Shintani that serialised in Big Comic Superior from 1988 to 1990. 
-animeRelated	['Goddamn']
-animeCharacters	['Todoroki, Gen', 'Van Dyke, Dick', 'Polignac, Josephine', 'Utsugi, Joumu', 'Shindou, Yuki', 'Yasuda, Taeko', 'Announcer', 'Erik', 'Senmu, Saji', 'Schultz, Hans']
-animeVoices	['Yamadera, Kouichi', 'Ebara, Masashi', 'Fuchizaki, Yuriko', 'Naya, Gorou', 'Shinohara, Emi', 'Sakuma, Rei', 'Hashimoto, Tetsuya', 'Miki, Shinichiro', 'Takagi, Hitoshi', 'Seki, Toshihiko']
-animeStaff	[['Furuse, Noboru', 'Director, Animation Director, Character Design'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Shintani, Kaoru', 'Original Creator'], ['Takahashi, Hideki', 'Key Animation']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Goddamn	OVA	2	1990-04-27 00:00:00	1990-08-16 00:00:00	2715	5.79	913	9404	8659	Car racing anime, based on the manga by Kaoru Shintani that serialised in Big Comic Superior from 1988 to 1990. 	['Goddamn']	['Todoroki, Gen', 'Van Dyke, Dick', 'Polignac, Josephine', 'Utsugi, Joumu', 'Shindou, Yuki', 'Yasuda, Taeko', 'Announcer', 'Erik', 'Senmu, Saji', 'Schultz, Hans']	['Yamadera, Kouichi', 'Ebara, Masashi', 'Fuchizaki, Yuriko', 'Naya, Gorou', 'Shinohara, Emi', 'Sakuma, Rei', 'Hashimoto, Tetsuya', 'Miki, Shinichiro', 'Takagi, Hitoshi', 'Seki, Toshihiko']	[['Furuse, Noboru', 'Director, Animation Director, Character Design'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Shintani, Kaoru', 'Original Creator'], ['Takahashi, Hideki', 'Key Animation']]

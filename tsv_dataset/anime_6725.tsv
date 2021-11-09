@@ -1,14 +1,5 @@
-animeTitle	Shin Hikari Shinwa: Palutena no Kagami
-animeType	ONA
-animeNumEpisode	3
-releaseDate	2012-03-13 00:00:00
-endDate	2012-03-19 00:00:00
-animeNumMembers	3780
-animeScore	6.39
-animeUsers	1751
-animeRank	6725
-animePopularity	7786
-animeDescription	"Anime shorts of the 3DS game ""Kid Icarus: Uprising"", known as ""Shin Hikari Shinwa: Palutena no Kagami"" in Japan.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shin Hikari Shinwa: Palutena no Kagami	ONA	3	2012-03-13 00:00:00	2012-03-19 00:00:00	3780	6.39	1751	6725	7786	"Anime shorts of the 3DS game ""Kid Icarus: Uprising"", known as ""Shin Hikari Shinwa: Palutena no Kagami"" in Japan.
 
 Episode 1 - Thanatos Rising
 Animation: Production I.G
@@ -20,8 +11,4 @@ Director: Kazuto Nakazawa
 
 Episode 3 - Palutena's Revolting Dinner
 Animation: SHAFT
-Director: Akiyuki Shinbou"
-animeRelated	['Hikari no Megami']
-animeCharacters	['Palutena', 'Pit', 'Medusa', 'Thanatos']
-animeVoices	['Hisakawa, Aya', 'Takayama, Minami', 'Shindo, Naomi']
-animeStaff	[['Tanaka, Eiko', 'Producer'], ['Shinbou, Akiyuki', 'Director'], ['Nakazawa, Kazuto', 'Director'], ['Miyamoto, Yukihiro', 'Episode Director']]
+Director: Akiyuki Shinbou"	['Hikari no Megami']	['Palutena', 'Pit', 'Medusa', 'Thanatos']	['Hisakawa, Aya', 'Takayama, Minami', 'Shindo, Naomi']	[['Tanaka, Eiko', 'Producer'], ['Shinbou, Akiyuki', 'Director'], ['Nakazawa, Kazuto', 'Director'], ['Miyamoto, Yukihiro', 'Episode Director']]

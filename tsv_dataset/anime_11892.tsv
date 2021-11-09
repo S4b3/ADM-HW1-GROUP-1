@@ -1,15 +1,2 @@
-animeTitle	Comics
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1979-01-01 00:00:00
-endDate	
-animeNumMembers	659
-animeScore	4.34
-animeUsers	350
-animeRank	11892
-animePopularity	12241
-animeDescription	Furukawa Taku film.
-animeRelated	[]
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Comics	Movie	1	1979-01-01 00:00:00		659	4.34	350	11892	12241	Furukawa Taku film.	[]	[]	[]	[]

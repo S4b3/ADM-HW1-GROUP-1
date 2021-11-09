@@ -1,15 +1,2 @@
-animeTitle	Fractale
-animeType	TV
-animeNumEpisode	11
-releaseDate	2011-01-14 00:00:00
-endDate	2011-04-01 00:00:00
-animeNumMembers	77141
-animeScore	6.94
-animeUsers	32014
-animeRank	4015
-animePopularity	1927
-animeDescription	"The story takes place on an island, where a ""Fractale System"" is beginning to collapse. One day, Clain finds an injured girl called Phryne under a cliff. She disappears leaving a pendant. Clain sets out for a journey with the girl-shaped avatar Nessa to look for Phryne and discovers the secret of the Fractale System."
-animeRelated	['Fractale']
-animeCharacters	['Nessa', 'Phryne', 'Necran, Clain', 'Granitz, Enri', 'Granitz, Sunda', 'Dias', 'Moeran', 'Collin', 'Gale', 'Meegan']
-animeVoices	['Hanazawa, Kana', 'Tsuda, Minami', 'Kobayashi, Yuu', 'Iguchi, Yuka', 'Asanuma, Shintaro', 'Maeno, Tomoaki', 'Shimamoto, Sumi', 'Kamiya, Hiroshi', 'Juku, Ikkyuu', 'Toyosaki, Aki']
-animeStaff	[['Ueda, Masuo', 'Producer'], ['Ochikoshi, Tomonori', 'Producer'], ['Yamamoto, Yutaka', 'Director, Episode Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Fractale	TV	11	2011-01-14 00:00:00	2011-04-01 00:00:00	77141	6.94	32014	4015	1927	"The story takes place on an island, where a ""Fractale System"" is beginning to collapse. One day, Clain finds an injured girl called Phryne under a cliff. She disappears leaving a pendant. Clain sets out for a journey with the girl-shaped avatar Nessa to look for Phryne and discovers the secret of the Fractale System."	['Fractale']	['Nessa', 'Phryne', 'Necran, Clain', 'Granitz, Enri', 'Granitz, Sunda', 'Dias', 'Moeran', 'Collin', 'Gale', 'Meegan']	['Hanazawa, Kana', 'Tsuda, Minami', 'Kobayashi, Yuu', 'Iguchi, Yuka', 'Asanuma, Shintaro', 'Maeno, Tomoaki', 'Shimamoto, Sumi', 'Kamiya, Hiroshi', 'Juku, Ikkyuu', 'Toyosaki, Aki']	[['Ueda, Masuo', 'Producer'], ['Ochikoshi, Tomonori', 'Producer'], ['Yamamoto, Yutaka', 'Director, Episode Director, Storyboard'], ['Tsuruoka, Youta', 'Sound Director']]

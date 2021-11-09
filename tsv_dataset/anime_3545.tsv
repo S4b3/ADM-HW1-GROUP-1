@@ -1,15 +1,2 @@
-animeTitle	Show by Rock!! Stars!!
-animeType	TV
-animeNumEpisode	12
-releaseDate	2021-01-07 00:00:00
-endDate	2021-03-25 00:00:00
-animeNumMembers	8646
-animeScore	7.06
-animeUsers	1927
-animeRank	3545
-animePopularity	5636
-animeDescription	"""All stars"" season of Show by Rock!! featuring all the bands from previous seasons."
-animeRelated	['Show By Rock!! Mashumairesh!!']
-animeCharacters	['Hijirikawa, Cyan', 'Retoree', 'Howan', 'Moa', 'Chuchu', 'Mashima, Himeko', 'Delmin', 'Ruhuyu', 'Crow', 'Rom']
-animeVoices	['Inagawa, Eri', 'Numakura, Manami', 'Toono, Hikaru', 'Sakura, Ayane', 'Uesaka, Sumire', 'Natsuyoshi, Yuuko', 'Watada, Misaki', 'Yamane, Aya', 'Taniyama, Kishou', 'Hosoya, Yoshimasa']
-animeStaff	[['Ikezoe, Takahiro', 'Director'], ['Yamagishi, Daigo', 'Director'], ['Gou, Fumiyuki', 'Sound Director'], ['Machida, Touko', 'Series Composition']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Show by Rock!! Stars!!	TV	12	2021-01-07 00:00:00	2021-03-25 00:00:00	8646	7.06	1927	3545	5636	"""All stars"" season of Show by Rock!! featuring all the bands from previous seasons."	['Show By Rock!! Mashumairesh!!']	['Hijirikawa, Cyan', 'Retoree', 'Howan', 'Moa', 'Chuchu', 'Mashima, Himeko', 'Delmin', 'Ruhuyu', 'Crow', 'Rom']	['Inagawa, Eri', 'Numakura, Manami', 'Toono, Hikaru', 'Sakura, Ayane', 'Uesaka, Sumire', 'Natsuyoshi, Yuuko', 'Watada, Misaki', 'Yamane, Aya', 'Taniyama, Kishou', 'Hosoya, Yoshimasa']	[['Ikezoe, Takahiro', 'Director'], ['Yamagishi, Daigo', 'Director'], ['Gou, Fumiyuki', 'Sound Director'], ['Machida, Touko', 'Series Composition']]

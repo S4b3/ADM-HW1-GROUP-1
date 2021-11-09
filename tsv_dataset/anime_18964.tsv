@@ -1,14 +1,5 @@
-animeTitle	Visionary
-animeType	OVA
-animeNumEpisode	5
-releaseDate	1995-08-25 00:00:00
-endDate	1996-04-21 00:00:00
-animeNumMembers	1755
-animeScore	5.2
-animeUsers	430
-animeRank	
-animePopularity	9786
-animeDescription	"Episodes 1-2: (""SM Snake"", ""Miracle Alien"")
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Visionary	OVA	5	1995-08-25 00:00:00	1996-04-21 00:00:00	1755	5.2	430		9786	"Episodes 1-2: (""SM Snake"", ""Miracle Alien"")
 Using his computer, a frustrated 19-year-old computer nerd accidentally summons a sexy android named Doreimon from the 22nd century! Using her futuristic powers, she'll try to help him score with the woman of his dreams by ""compensating"" him for his shortcomings!
 
 Episode 3: (""Skydiving in Love"")
@@ -20,8 +11,4 @@ Mai Inoue desperately wants to become a showbiz personality, and she's ready to 
 Episode 5: (""The Vampire Tradition"")
 Beautiful co-eds are disappearing from St. Stoker University. Witnesses report seeing shadowy, bat-winged creatures in the night. The Student President suspects... vampires! When her friends are kidnapped, Kanna—a 19-year-old transfer student from Europe—must reveal her true identity!
 
-(Source: AniDB)"
-animeRelated	['Visionary']
-animeCharacters	['Okudera, Reiko']
-animeVoices	['Kanai, Mika']
-animeStaff	[['Kogure, Teruo', 'Director'], ['Andou, Toyohiro', 'Script'], ['U-jin', 'Original Creator'], ['Tanaka, Hideyuki', 'Music']]
+(Source: AniDB)"	['Visionary']	['Okudera, Reiko']	['Kanai, Mika']	[['Kogure, Teruo', 'Director'], ['Andou, Toyohiro', 'Script'], ['U-jin', 'Original Creator'], ['Tanaka, Hideyuki', 'Music']]

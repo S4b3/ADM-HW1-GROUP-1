@@ -1,17 +1,4 @@
-animeTitle	Count Down
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2011-01-01 00:00:00
-endDate	
-animeNumMembers	796
-animeScore	4.15
-animeUsers	492
-animeRank	11930
-animePopularity	11746
-animeDescription	"A promotional video of the exhibition 'ArtPath 2011' by Tokyo University of the Arts Musical Creativity and the Environment. The excitement before ArtPath starts.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Count Down	Movie	1	2011-01-01 00:00:00		796	4.15	492	11930	11746	"A promotional video of the exhibition 'ArtPath 2011' by Tokyo University of the Arts Musical Creativity and the Environment. The excitement before ArtPath starts.
 
-(Source: Official website)"
-animeRelated	[]
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+(Source: Official website)"	[]	[]	[]	[]

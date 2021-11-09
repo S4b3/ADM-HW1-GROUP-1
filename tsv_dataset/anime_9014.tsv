@@ -1,19 +1,6 @@
-animeTitle	Mahoutsukai Sally (Movie)
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1990-03-10 00:00:00
-endDate	
-animeNumMembers	665
-animeScore	5.91
-animeUsers	250
-animeRank	9014
-animePopularity	12195
-animeDescription	"This short movie tells the story of Sally, a teenage witch that came to Earth from the Magical Kingdom.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Mahoutsukai Sally (Movie)	Movie	1	1990-03-10 00:00:00		665	5.91	250	9014	12195	"This short movie tells the story of Sally, a teenage witch that came to Earth from the Magical Kingdom.
 
 For some mysterious reason, spring has not started yet. Sally and her friends have to find the cause and fix the problem.
 
-(Source: Fuko Ibuki)"
-animeRelated	['Mahoutsukai Sally']
-animeCharacters	['Yumeno, Sally', 'Poron', 'Hermes', 'Hanamura, Yoshiko']
-animeVoices	['Yamamoto, Yuriko', 'Ichiryuusai, Teiyuu']
-animeStaff	[['Kasai, Osamu', 'Director'], ['Asakawa, Hiroko', 'Theme Song Performance, Inserted Song Performance'], ['Shiramine, Mitsuko', 'Theme Song Lyrics'], ['Yokoyama, Mitsuteru', 'Original Creator']]
+(Source: Fuko Ibuki)"	['Mahoutsukai Sally']	['Yumeno, Sally', 'Poron', 'Hermes', 'Hanamura, Yoshiko']	['Yamamoto, Yuriko', 'Ichiryuusai, Teiyuu']	[['Kasai, Osamu', 'Director'], ['Asakawa, Hiroko', 'Theme Song Performance, Inserted Song Performance'], ['Shiramine, Mitsuko', 'Theme Song Lyrics'], ['Yokoyama, Mitsuteru', 'Original Creator']]

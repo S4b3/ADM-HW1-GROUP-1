@@ -1,15 +1,2 @@
-animeTitle	Super Lovers 2
-animeType	TV
-animeNumEpisode	10
-releaseDate	2017-01-12 00:00:00
-endDate	2017-03-16 00:00:00
-animeNumMembers	75487
-animeScore	7.2
-animeUsers	37774
-animeRank	2904
-animePopularity	1954
-animeDescription	Second season of Super Lovers.
-animeRelated	['Super Lovers']
-animeCharacters	['Kaidou, Ren', 'Kaidou, Haru', 'Kaidou, Aki', 'Kaidou, Shima', 'Dieckmann, Haruko Daniela', 'Sasaki, Ikuyoshi', 'Shiba, Natsuo', 'Takamori, Seiji', 'Kurosaki, Juuzen', 'Kashiwagi, Mikiko']
-animeVoices	['Minagawa, Junko', 'Maeno, Tomoaki', 'Matsuoka, Yoshitsugu', 'Terashima, Takuma', 'Tanaka, Atsuko', 'Murase, Ayumu', 'Satou, Takuya', 'Saiga, Mitsuki', 'Fukushima, Jun', 'Soumi, Youko']
-animeStaff	[['Ishihira, Shinji', 'Director'], ['Hata, Shouji', 'Sound Director'], ['Matsuoka, Yoshitsugu', 'Theme Song Performance'], ['Maeno, Tomoaki', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Super Lovers 2	TV	10	2017-01-12 00:00:00	2017-03-16 00:00:00	75487	7.2	37774	2904	1954	Second season of Super Lovers.	['Super Lovers']	['Kaidou, Ren', 'Kaidou, Haru', 'Kaidou, Aki', 'Kaidou, Shima', 'Dieckmann, Haruko Daniela', 'Sasaki, Ikuyoshi', 'Shiba, Natsuo', 'Takamori, Seiji', 'Kurosaki, Juuzen', 'Kashiwagi, Mikiko']	['Minagawa, Junko', 'Maeno, Tomoaki', 'Matsuoka, Yoshitsugu', 'Terashima, Takuma', 'Tanaka, Atsuko', 'Murase, Ayumu', 'Satou, Takuya', 'Saiga, Mitsuki', 'Fukushima, Jun', 'Soumi, Youko']	[['Ishihira, Shinji', 'Director'], ['Hata, Shouji', 'Sound Director'], ['Matsuoka, Yoshitsugu', 'Theme Song Performance'], ['Maeno, Tomoaki', 'Theme Song Performance']]

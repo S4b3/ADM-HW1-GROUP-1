@@ -1,14 +1,5 @@
-animeTitle	Biohazard 4D-Executer
-animeType	Special
-animeNumEpisode	1
-releaseDate	2000-01-01 00:00:00
-endDate	
-animeNumMembers	4103
-animeScore	5.47
-animeUsers	2155
-animeRank	10467
-animePopularity	7565
-animeDescription	"Biohazard 4D Executor was a 20 minute CG movie that people in Japan could see in a special theater. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Biohazard 4D-Executer	Special	1	2000-01-01 00:00:00		4103	5.47	2155	10467	7565	"Biohazard 4D Executor was a 20 minute CG movie that people in Japan could see in a special theater. 
 
 Though the CG was primitive, (the rendering and models aren’t much better than that seen in Resident Evil 2, it’s certainly not on par with Resident Evil 3) it told the story enough. Below is a summary of the events within the 20 minute movie. 
 
@@ -16,8 +7,4 @@ The story focuses on an elite unit of 5 UBCS members, sent into Raccoon City to 
 
 Upon entering the factory they are attacked by a large creature, a sort of hybrid between a Tyrant and the more evolved forms of Nemesis. 
 
-(Source: rehorror.net) "
-animeRelated	['Biohazard 4: Incubate']
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+(Source: rehorror.net) "	['Biohazard 4: Incubate']	[]	[]	[]

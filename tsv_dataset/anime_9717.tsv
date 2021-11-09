@@ -1,15 +1,2 @@
-animeTitle	Dragoon
-animeType	OVA
-animeNumEpisode	3
-releaseDate	1997-07-25 00:00:00
-endDate	1997-11-28 00:00:00
-animeNumMembers	1626
-animeScore	5.71
-animeUsers	476
-animeRank	9717
-animePopularity	9984
-animeDescription	"In the great Garubado Empire, a lethal weapon is in the process of being manufactured, but is stolen and subsequently lost in battle. Now the Empire is looking for this weapon: a girl that can call forth the ""Dragoon"" power. She has amnesia and is found by a wandering swordsman in training by who vows to help her find out who she is and why she has such a strange power. "
-animeRelated	[]
-animeCharacters	['Myuu', 'Keeves Fearudo, Rain', 'Caliver, Millie', 'Caliver, Sedi', 'Bashua', 'Bapu', 'Randy', 'Gabriel', 'Lilith', 'Ganto']
-animeVoices	['Kouda, Mariko', 'Seki, Toshihiko', 'Miyamura, Yuko', 'Ishida, Akira', 'Ootsuka, Akio', 'Sonozaki, Mie', 'Koyasu, Takehito', 'Iizuka, Shouzou', 'Imai, Yuka', 'Matsumoto, Dai']
-animeStaff	[['Maejima, Kenichi', 'Director, Storyboard'], ['Imai, Yuka', 'Theme Song Performance'], ['Nishimura, Satoshi', 'Mechanical Design'], ['Campbell, Charles', 'ADR Director, Editing']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Dragoon	OVA	3	1997-07-25 00:00:00	1997-11-28 00:00:00	1626	5.71	476	9717	9984	"In the great Garubado Empire, a lethal weapon is in the process of being manufactured, but is stolen and subsequently lost in battle. Now the Empire is looking for this weapon: a girl that can call forth the ""Dragoon"" power. She has amnesia and is found by a wandering swordsman in training by who vows to help her find out who she is and why she has such a strange power. "	[]	['Myuu', 'Keeves Fearudo, Rain', 'Caliver, Millie', 'Caliver, Sedi', 'Bashua', 'Bapu', 'Randy', 'Gabriel', 'Lilith', 'Ganto']	['Kouda, Mariko', 'Seki, Toshihiko', 'Miyamura, Yuko', 'Ishida, Akira', 'Ootsuka, Akio', 'Sonozaki, Mie', 'Koyasu, Takehito', 'Iizuka, Shouzou', 'Imai, Yuka', 'Matsumoto, Dai']	[['Maejima, Kenichi', 'Director, Storyboard'], ['Imai, Yuka', 'Theme Song Performance'], ['Nishimura, Satoshi', 'Mechanical Design'], ['Campbell, Charles', 'ADR Director, Editing']]

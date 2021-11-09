@@ -1,17 +1,4 @@
-animeTitle	Pulsar
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1990-01-01 00:00:00
-endDate	
-animeNumMembers	417
-animeScore	5.36
-animeUsers	195
-animeRank	10775
-animePopularity	13479
-animeDescription	"Clay (technically gypsum) animation set to a beat with robots, scifi motif, and alligators with human arms. It was broadcasted a year later (1991) by the Japanese TV program Miyake Yuuji no Ebizori Kyoshou Tengoku, ""Ebiten"" for short, which showed works of independent film makers.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Pulsar	Movie	1	1990-01-01 00:00:00		417	5.36	195	10775	13479	"Clay (technically gypsum) animation set to a beat with robots, scifi motif, and alligators with human arms. It was broadcasted a year later (1991) by the Japanese TV program Miyake Yuuji no Ebizori Kyoshou Tengoku, ""Ebiten"" for short, which showed works of independent film makers.
 
-This has the prototype character, Pulta, which was used for Bowda Katsuhi's Robot Pulta anime when he was hired by the NHK."
-animeRelated	['Robot Pulta', 'Form of Stress']
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+This has the prototype character, Pulta, which was used for Bowda Katsuhi's Robot Pulta anime when he was hired by the NHK."	['Robot Pulta', 'Form of Stress']	[]	[]	[]

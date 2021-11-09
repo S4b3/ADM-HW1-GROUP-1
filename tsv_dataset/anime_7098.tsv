@@ -1,15 +1,2 @@
-animeTitle	Shin Mitsubachi Maya no Bouken
-animeType	TV
-animeNumEpisode	52
-releaseDate	1982-10-12 00:00:00
-endDate	1983-09-27 00:00:00
-animeNumMembers	2809
-animeScore	6.32
-animeUsers	1408
-animeRank	7098
-animePopularity	8548
-animeDescription	The sequel to Mitsubachi Maya no Bouken.
-animeRelated	['Mitsubachi Maya no Bouken']
-animeCharacters	['Maya', 'Willi', 'Phillip']
-animeVoices	[]
-animeStaff	[['Endou, Masaharu', 'Episode Director'], ['Yoshida, Hiroshi', 'Storyboard'], ['Watanabe, Hiroya', 'Theme Song Arrangement'], ['Svoboda, Karel', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Shin Mitsubachi Maya no Bouken	TV	52	1982-10-12 00:00:00	1983-09-27 00:00:00	2809	6.32	1408	7098	8548	The sequel to Mitsubachi Maya no Bouken.	['Mitsubachi Maya no Bouken']	['Maya', 'Willi', 'Phillip']	[]	[['Endou, Masaharu', 'Episode Director'], ['Yoshida, Hiroshi', 'Storyboard'], ['Watanabe, Hiroya', 'Theme Song Arrangement'], ['Svoboda, Karel', 'Music']]

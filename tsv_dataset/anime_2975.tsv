@@ -1,15 +1,2 @@
-animeTitle	Mikan Enikki
-animeType	TV
-animeNumEpisode	30
-releaseDate	1992-10-16 00:00:00
-endDate	1993-06-18 00:00:00
-animeNumMembers	2452
-animeScore	7.18
-animeUsers	620
-animeRank	2975
-animePopularity	8898
-animeDescription	A kitten, abandoned and left for dead along with his siblings, is taken in by Tomu Kusanagi, who nurtures him and discovers that the tangerine cat he so adores is actually a genius who can talk, walk, read, and has even acquired a taste for liquor!
-animeRelated	['Mikan Enikki', 'Mikan Enikki Specials']
-animeCharacters	['Mikan', 'Kusanagi, Tom', 'Kusunoki, Sera', 'Hayashida-sensei', 'Chibitarou', 'Inagaki, Taizou', 'Karma', 'Matsuzawa, Fumie', 'Tachibana, Kyouko', 'Killey']
-animeVoices	['Tarako', 'Hiramatsu, Akiko', 'Ikura, Kazue', 'Suzuki, Katsumi', 'Asami, Junko', 'Ishimori, Takkou', 'Cho', 'Kyouda, Hisako', 'Matsui, Naoko']
-animeStaff	[['Ishiguro, Noboru', 'Director'], ['Kitagawa, Masato', 'Episode Director'], ['Kusumi, Naoko', 'Episode Director'], ['Sato, Hiroaki', 'Storyboard']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Mikan Enikki	TV	30	1992-10-16 00:00:00	1993-06-18 00:00:00	2452	7.18	620	2975	8898	A kitten, abandoned and left for dead along with his siblings, is taken in by Tomu Kusanagi, who nurtures him and discovers that the tangerine cat he so adores is actually a genius who can talk, walk, read, and has even acquired a taste for liquor!	['Mikan Enikki', 'Mikan Enikki Specials']	['Mikan', 'Kusanagi, Tom', 'Kusunoki, Sera', 'Hayashida-sensei', 'Chibitarou', 'Inagaki, Taizou', 'Karma', 'Matsuzawa, Fumie', 'Tachibana, Kyouko', 'Killey']	['Tarako', 'Hiramatsu, Akiko', 'Ikura, Kazue', 'Suzuki, Katsumi', 'Asami, Junko', 'Ishimori, Takkou', 'Cho', 'Kyouda, Hisako', 'Matsui, Naoko']	[['Ishiguro, Noboru', 'Director'], ['Kitagawa, Masato', 'Episode Director'], ['Kusumi, Naoko', 'Episode Director'], ['Sato, Hiroaki', 'Storyboard']]

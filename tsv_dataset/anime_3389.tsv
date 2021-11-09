@@ -1,15 +1,2 @@
-animeTitle	Usavich II
-animeType	TV
-animeNumEpisode	13
-releaseDate	2007-10-08 00:00:00
-endDate	2008-01-15 00:00:00
-animeNumMembers	4606
-animeScore	7.09
-animeUsers	2961
-animeRank	3389
-animePopularity	7241
-animeDescription	The adventures of Putin and Kirenenko, two rabbits stuck in a Russian prison, continue as they make their escape and try to avoid the fearsome Soviet bunnies on their trail! 
-animeRelated	['Usavich', 'Usavich III']
-animeCharacters	['Kirenenko', 'Putin', 'Boris', 'Comăneci', 'Leningrad', 'Koptsev']
-animeVoices	['Ueno, Hironori']
-animeStaff	[['Tomioka, Satoshi', 'Director, Script, Storyboard, Screenplay, Original Creator'], ['Bach, Johann Sebastian', 'Music'], ['Ueno, Hironori', 'Sound Effects, Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Usavich II	TV	13	2007-10-08 00:00:00	2008-01-15 00:00:00	4606	7.09	2961	3389	7241	The adventures of Putin and Kirenenko, two rabbits stuck in a Russian prison, continue as they make their escape and try to avoid the fearsome Soviet bunnies on their trail! 	['Usavich', 'Usavich III']	['Kirenenko', 'Putin', 'Boris', 'Comăneci', 'Leningrad', 'Koptsev']	['Ueno, Hironori']	[['Tomioka, Satoshi', 'Director, Script, Storyboard, Screenplay, Original Creator'], ['Bach, Johann Sebastian', 'Music'], ['Ueno, Hironori', 'Sound Effects, Music']]

@@ -1,15 +1,2 @@
-animeTitle	Decorator
-animeType	Music
-animeNumEpisode	1
-releaseDate	2014-02-20 00:00:00
-endDate	
-animeNumMembers	1883
-animeScore	6.12
-animeUsers	1126
-animeRank	8050
-animePopularity	9587
-animeDescription	livetune feat. Hatsune Miku「DECORATOR」Music Video
-animeRelated	[]
-animeCharacters	['Hatsune, Miku']
-animeVoices	[]
-animeStaff	[['wakamuraP', 'Director'], ['Hatsune, Miku', 'Theme Song Performance'], ['kz', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Decorator	Music	1	2014-02-20 00:00:00		1883	6.12	1126	8050	9587	livetune feat. Hatsune Miku「DECORATOR」Music Video	[]	['Hatsune, Miku']	[]	[['wakamuraP', 'Director'], ['Hatsune, Miku', 'Theme Song Performance'], ['kz', 'Theme Song Lyrics, Theme Song Composition, Theme Song Arrangement']]

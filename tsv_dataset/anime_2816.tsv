@@ -1,17 +1,4 @@
-animeTitle	Selector Destructed WIXOSS Movie
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2016-02-13 00:00:00
-endDate	
-animeNumMembers	16801
-animeScore	7.21
-animeUsers	5241
-animeRank	2816
-animePopularity	4318
-animeDescription	"This movie is a retelling/summary of Selector Infected and Spread, with extra scenes interspersed such as the characters in childhood. Despite mostly being previously used scenes, they were cut and altered to make a high intensity and fast paced story, highlighting the moments of slow silence and reflection. Some changes were made such as the true origin of Tama's name, the significance of Sachi and Rumi, and the relationship between your name and being alone.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Selector Destructed WIXOSS Movie	Movie	1	2016-02-13 00:00:00		16801	7.21	5241	2816	4318	"This movie is a retelling/summary of Selector Infected and Spread, with extra scenes interspersed such as the characters in childhood. Despite mostly being previously used scenes, they were cut and altered to make a high intensity and fast paced story, highlighting the moments of slow silence and reflection. Some changes were made such as the true origin of Tama's name, the significance of Sachi and Rumi, and the relationship between your name and being alone.
 
-(Source: Asenshi)"
-animeRelated	['Selector Infected WIXOSS', 'Selector Spread WIXOSS']
-animeCharacters	['Tama', 'Kominato, Ruuko', 'Aoi, Akira', 'Urazoe, Iona', 'Kurebayashi, Yuzuki', 'Ulith', 'Uemura, Hitoe', 'Piruluk', 'Kurebayashi, Kazuki', 'Eldora']
-animeVoices	['Kuno, Misaki', 'Kakuma, Ai', 'Akasaki, Chinatsu', 'Seto, Asami', 'Sakura, Ayane', 'Kugimiya, Rie', 'Kayano, Ai', 'Oonishi, Saori', 'Kobayashi, Yuusuke', 'Arai, Satomi']
-animeStaff	[['Satou, Takuya', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Okada, Mari', 'Script, Series Composition'], ['Sakurabi, Katsushi', 'Storyboard, Key Animation']]
+(Source: Asenshi)"	['Selector Infected WIXOSS', 'Selector Spread WIXOSS']	['Tama', 'Kominato, Ruuko', 'Aoi, Akira', 'Urazoe, Iona', 'Kurebayashi, Yuzuki', 'Ulith', 'Uemura, Hitoe', 'Piruluk', 'Kurebayashi, Kazuki', 'Eldora']	['Kuno, Misaki', 'Kakuma, Ai', 'Akasaki, Chinatsu', 'Seto, Asami', 'Sakura, Ayane', 'Kugimiya, Rie', 'Kayano, Ai', 'Oonishi, Saori', 'Kobayashi, Yuusuke', 'Arai, Satomi']	[['Satou, Takuya', 'Director'], ['Iwanami, Yoshikazu', 'Sound Director'], ['Okada, Mari', 'Script, Series Composition'], ['Sakurabi, Katsushi', 'Storyboard, Key Animation']]

@@ -1,14 +1,5 @@
-animeTitle	Last Exile: Ginyoku no Fam
-animeType	TV
-animeNumEpisode	21
-releaseDate	2011-10-15 00:00:00
-endDate	2012-03-24 00:00:00
-animeNumMembers	41406
-animeScore	7.08
-animeUsers	14553
-animeRank	3425
-animePopularity	2755
-animeDescription	"""I've made up my mind! I'm going to steal that ship!""
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Last Exile: Ginyoku no Fam	TV	21	2011-10-15 00:00:00	2012-03-24 00:00:00	41406	7.08	14553	3425	2755	"""I've made up my mind! I'm going to steal that ship!""
 
 All source of life originates from the Grand Lake.
 
@@ -20,8 +11,4 @@ The Vespa continues to weave through the barrage of bombs, while the fleets of t
 
 What are the motives of Luscinia, the man leading the Ades Federation into the war? And what is the secret behind ""Exile""?
 
-(Source: Animax, edited)"
-animeRelated	['Last Exile: Ginyoku no Fam', 'Last Exile', 'Last Exile: Ginyoku no Fam - Adjournment', 'Last Exile: Ginyoku no Fam Movie - Over the Wishes']
-animeCharacters	['Fan Fan, Fam', 'Collette, Giselle', 'Turan, Millia il Velch Cutrettola', 'Eraclea, Dio', 'Head, Lavie', 'Valca, Claus', 'Hamilton, Alvis E.', 'Wisła, Tatiana', 'Forrester, Sophia', 'Agrew, Alister']
-animeVoices	['Toyosaki, Aki', 'Yuuki, Aoi', 'Kayano, Ai', 'Noda, Junko', 'Saitou, Chiwa', 'Asano, Mayumi', 'Hanazawa, Kana', 'Kitamura, Eri', 'Yamazaki, Wakana', 'Kuwatani, Natsuko']
-animeStaff	[['Chigira, Kouichi', 'Director'], ['Takahashi, Yukio', 'Episode Director, Storyboard, Key Animation'], ['Ichimura, Tetsuo', 'Episode Director, Key Animation'], ['Soejima, Yasufumi', 'Episode Director']]
+(Source: Animax, edited)"	['Last Exile: Ginyoku no Fam', 'Last Exile', 'Last Exile: Ginyoku no Fam - Adjournment', 'Last Exile: Ginyoku no Fam Movie - Over the Wishes']	['Fan Fan, Fam', 'Collette, Giselle', 'Turan, Millia il Velch Cutrettola', 'Eraclea, Dio', 'Head, Lavie', 'Valca, Claus', 'Hamilton, Alvis E.', 'Wisła, Tatiana', 'Forrester, Sophia', 'Agrew, Alister']	['Toyosaki, Aki', 'Yuuki, Aoi', 'Kayano, Ai', 'Noda, Junko', 'Saitou, Chiwa', 'Asano, Mayumi', 'Hanazawa, Kana', 'Kitamura, Eri', 'Yamazaki, Wakana', 'Kuwatani, Natsuko']	[['Chigira, Kouichi', 'Director'], ['Takahashi, Yukio', 'Episode Director, Storyboard, Key Animation'], ['Ichimura, Tetsuo', 'Episode Director, Key Animation'], ['Soejima, Yasufumi', 'Episode Director']]

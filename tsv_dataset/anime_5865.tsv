@@ -1,15 +1,2 @@
-animeTitle	Yatterman
-animeType	TV
-animeNumEpisode	60
-releaseDate	2008-01-14 00:00:00
-endDate	2009-05-11 00:00:00
-animeNumMembers	4010
-animeScore	6.55
-animeUsers	878
-animeRank	5865
-animePopularity	7626
-animeDescription	Remake of the Yatterman series.
-animeRelated	['Yatterman', 'Time Bokan Series: Yatterman', 'Yatterman the Movie: Shin Yattermecha Osu Gou! Omocha no Kuni de Dai Ketsudan da Koron', 'Yatterman Specials', 'Believe', 'Yoru no Yatterman', 'Pandora to Akubi', 'Yatterman x Toshiba']
-animeCharacters	['Doronjo', 'Kaminari, Ai', 'Boyacky', 'Yatterwan', 'Takada, Gan', 'Omotchama', 'Tonzura', 'Dokurobe', 'Hitomoto, Masami', 'Narrator']
-animeVoices	['Ohara, Noriko', 'Itou, Shizuka', 'Yanami, Jouji', 'Yamadera, Kouichi', 'Yoshino, Hiroyuki', 'Takahashi, Chiaki', 'Tatekabe, Kazuya', 'Takiguchi, Junpei', 'Hisamoto, Masami']
-animeStaff	[['Sasagawa, Hiroshi', 'Director'], ['Shimizu, Katsunori', 'Sound Director'], ['Uemura, Yutaka', 'Episode Director'], ['Yamazaki, Kazuo', 'Episode Director, Storyboard, Key Animation']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Yatterman	TV	60	2008-01-14 00:00:00	2009-05-11 00:00:00	4010	6.55	878	5865	7626	Remake of the Yatterman series.	['Yatterman', 'Time Bokan Series: Yatterman', 'Yatterman the Movie: Shin Yattermecha Osu Gou! Omocha no Kuni de Dai Ketsudan da Koron', 'Yatterman Specials', 'Believe', 'Yoru no Yatterman', 'Pandora to Akubi', 'Yatterman x Toshiba']	['Doronjo', 'Kaminari, Ai', 'Boyacky', 'Yatterwan', 'Takada, Gan', 'Omotchama', 'Tonzura', 'Dokurobe', 'Hitomoto, Masami', 'Narrator']	['Ohara, Noriko', 'Itou, Shizuka', 'Yanami, Jouji', 'Yamadera, Kouichi', 'Yoshino, Hiroyuki', 'Takahashi, Chiaki', 'Tatekabe, Kazuya', 'Takiguchi, Junpei', 'Hisamoto, Masami']	[['Sasagawa, Hiroshi', 'Director'], ['Shimizu, Katsunori', 'Sound Director'], ['Uemura, Yutaka', 'Episode Director'], ['Yamazaki, Kazuo', 'Episode Director, Storyboard, Key Animation']]

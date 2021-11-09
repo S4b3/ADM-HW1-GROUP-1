@@ -1,15 +1,2 @@
-animeTitle	Tales of HR
-animeType	ONA
-animeNumEpisode	13
-releaseDate	2018-06-17 00:00:00
-endDate	2019-12-14 00:00:00
-animeNumMembers	1023
-animeScore	6.07
-animeUsers	104
-animeRank	8327
-animePopularity	11099
-animeDescription	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.
-animeRelated	['Tales of Vesperia: The First Strike', 'Tales of Zestiria the Cross', 'Tales of the Rays Gekijou', 'Tales of Puppet']
-animeCharacters	['Crowe, Velvet', 'Lowell, Yuri', 'Mikleo', 'Edna', 'Scifo, Flynn', 'Crowe, Laphicet', 'Barbatos', 'Presa']
-animeVoices	['Satou, Rina', 'Toriumi, Kousuke', 'Oosaka, Ryouta', 'Fukuen, Misato', 'Miyano, Mamoru', 'Asakura, Azumi', 'Wakamoto, Norio']
-animeStaff	[['Kasugamori, Haruki', 'Director'], ['Imaizumi, Yuuichi', 'Sound Director'], ['Watanabe, Keito', 'Art Director'], ['Su, Shiyi', 'Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Tales of HR	ONA	13	2018-06-17 00:00:00	2019-12-14 00:00:00	1023	6.07	104	8327	11099	No synopsis information has been added to this title. Help improve our database by adding a synopsis here.	['Tales of Vesperia: The First Strike', 'Tales of Zestiria the Cross', 'Tales of the Rays Gekijou', 'Tales of Puppet']	['Crowe, Velvet', 'Lowell, Yuri', 'Mikleo', 'Edna', 'Scifo, Flynn', 'Crowe, Laphicet', 'Barbatos', 'Presa']	['Satou, Rina', 'Toriumi, Kousuke', 'Oosaka, Ryouta', 'Fukuen, Misato', 'Miyano, Mamoru', 'Asakura, Azumi', 'Wakamoto, Norio']	[['Kasugamori, Haruki', 'Director'], ['Imaizumi, Yuuichi', 'Sound Director'], ['Watanabe, Keito', 'Art Director'], ['Su, Shiyi', 'Character Design']]

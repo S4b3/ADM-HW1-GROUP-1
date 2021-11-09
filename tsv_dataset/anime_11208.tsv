@@ -1,17 +1,4 @@
-animeTitle	Barom One
-animeType	TV
-animeNumEpisode	13
-releaseDate	2002-12-07 00:00:00
-endDate	2003-03-22 00:00:00
-animeNumMembers	1864
-animeScore	5.15
-animeUsers	487
-animeRank	11208
-animePopularity	9615
-animeDescription	"Takeshi Kido and Kentaro Shiratori are a pair of friends who have been together for almost their entire life. One night, a strange being comes out from the lake and starts attacking them. When Takeshi and Kentaro are almost eliminated, a strange being named Kopu calls them and tells them that they are the chosen ones to inherit the power to protect the world from an evil being named Goumon. Now, they join their hands to transform into Barom One, a being with superior skills, who will fight to protect the city.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Barom One	TV	13	2002-12-07 00:00:00	2003-03-22 00:00:00	1864	5.15	487	11208	9615	"Takeshi Kido and Kentaro Shiratori are a pair of friends who have been together for almost their entire life. One night, a strange being comes out from the lake and starts attacking them. When Takeshi and Kentaro are almost eliminated, a strange being named Kopu calls them and tells them that they are the chosen ones to inherit the power to protect the world from an evil being named Goumon. Now, they join their hands to transform into Barom One, a being with superior skills, who will fight to protect the city.
 
-(Source: ANN)"
-animeRelated	['Barom 1']
-animeCharacters	['Kido, Takeshi', 'Shiratori, Kentarou']
-animeVoices	['Yoshino, Hiroyuki', 'Namikawa, Daisuke']
-animeStaff	[['Tominaga, Tsuneo', 'Director'], ['Takahashi, Hideo', 'Sound Director'], ['Saitou, Takao', 'Original Creator'], ['Nakahara, Eitou', 'Art Director']]
+(Source: ANN)"	['Barom 1']	['Kido, Takeshi', 'Shiratori, Kentarou']	['Yoshino, Hiroyuki', 'Namikawa, Daisuke']	[['Tominaga, Tsuneo', 'Director'], ['Takahashi, Hideo', 'Sound Director'], ['Saitou, Takao', 'Original Creator'], ['Nakahara, Eitou', 'Art Director']]

@@ -1,15 +1,2 @@
-animeTitle	Monkey Turn V
-animeType	TV
-animeNumEpisode	25
-releaseDate	2004-07-04 00:00:00
-endDate	2004-12-19 00:00:00
-animeNumMembers	675
-animeScore	6.47
-animeUsers	135
-animeRank	6262
-animePopularity	12152
-animeDescription	Sequel to Monkey Turn.
-animeRelated	['Monkey Turn']
-animeCharacters	['Ubukata, Sumi', 'Hatano, Kenji', 'Pedro']
-animeVoices	['Noda, Junko', 'Kawashima, Tokuyoshi', 'Chafurin']
-animeStaff	[['Akiyama, Katsuhito', 'Director'], ['Watanabe, Jun', 'Sound Director'], ['Hanyuu, Naoyasu', 'Episode Director'], ['Ishiodori, Hiroshi', 'Episode Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Monkey Turn V	TV	25	2004-07-04 00:00:00	2004-12-19 00:00:00	675	6.47	135	6262	12152	Sequel to Monkey Turn.	['Monkey Turn']	['Ubukata, Sumi', 'Hatano, Kenji', 'Pedro']	['Noda, Junko', 'Kawashima, Tokuyoshi', 'Chafurin']	[['Akiyama, Katsuhito', 'Director'], ['Watanabe, Jun', 'Sound Director'], ['Hanyuu, Naoyasu', 'Episode Director'], ['Ishiodori, Hiroshi', 'Episode Director']]

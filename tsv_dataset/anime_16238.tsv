@@ -1,17 +1,4 @@
-animeTitle	Hurdle
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2005-01-15 00:00:00
-endDate	
-animeNumMembers	320
-animeScore	
-animeUsers	
-animeRank	16238
-animePopularity	14330
-animeDescription	"Yuuki has to move from Yokohama to a rural city and becomes the target of bullying.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Hurdle	Movie	1	2005-01-15 00:00:00		320			16238	14330	"Yuuki has to move from Yokohama to a rural city and becomes the target of bullying.
 
-(Source: AniDB)"
-animeRelated	[]
-animeCharacters	['Arisawa, Yuuki']
-animeVoices	['Minagawa, Junko']
-animeStaff	[['Dezaki, Satoshi', 'Director'], ['Shibuichi, Setsuko', 'Storyboard, Character Design'], ['Kobayashi, Shichiro', 'Art Director'], ['Nakajima, Yuuki', 'Music']]
+(Source: AniDB)"	[]	['Arisawa, Yuuki']	['Minagawa, Junko']	[['Dezaki, Satoshi', 'Director'], ['Shibuichi, Setsuko', 'Storyboard, Character Design'], ['Kobayashi, Shichiro', 'Art Director'], ['Nakajima, Yuuki', 'Music']]

@@ -1,15 +1,2 @@
-animeTitle	Fireball
-animeType	TV
-animeNumEpisode	13
-releaseDate	2008-04-07 00:00:00
-endDate	2008-06-30 00:00:00
-animeNumMembers	9386
-animeScore	6.66
-animeUsers	5162
-animeRank	5278
-animePopularity	5436
-animeDescription	Fireball takes place during the war between humans and robots. There is no real story, just individual episode skits.
-animeRelated	['Fireball Charming', 'Fireball Special', 'Fireball Humorous']
-animeCharacters	['von Flügel, Drossel', 'Gedächtnis', 'Die Schadenfreude']
-animeVoices	['Kawasho, Miyuki', 'Ookawa, Tooru']
-animeStaff	[['Arakawa, Wataru', 'Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Fireball	TV	13	2008-04-07 00:00:00	2008-06-30 00:00:00	9386	6.66	5162	5278	5436	Fireball takes place during the war between humans and robots. There is no real story, just individual episode skits.	['Fireball Charming', 'Fireball Special', 'Fireball Humorous']	['von Flügel, Drossel', 'Gedächtnis', 'Die Schadenfreude']	['Kawasho, Miyuki', 'Ookawa, Tooru']	[['Arakawa, Wataru', 'Director']]

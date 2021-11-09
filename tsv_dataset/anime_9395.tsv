@@ -1,15 +1,2 @@
-animeTitle	What's Michael?
-animeType	OVA
-animeNumEpisode	1
-releaseDate	1985-11-25 00:00:00
-endDate	
-animeNumMembers	932
-animeScore	5.79
-animeUsers	323
-animeRank	9395
-animePopularity	11312
-animeDescription	A series of adventures featuring the one cat apparently everyone in the world owns... Michael.
-animeRelated	"[""What's Michael?"", ""What's Michael? 2"", ""What's Michael? (TV)""]"
-animeCharacters	['Michael', 'Poppo', 'Narrator']
-animeVoices	['Tomiyama, Kei', 'Nozawa, Masako', 'Nagai, Ichiro']
-animeStaff	[['Yanagawa, Shigeru', 'Script, Series Composition'], ['Kobayashi, Makoto', 'Original Creator'], ['Katsumata, Geki', 'Art Director'], ['Iwasa, Tadashi', 'Background Art']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+What's Michael?	OVA	1	1985-11-25 00:00:00		932	5.79	323	9395	11312	A series of adventures featuring the one cat apparently everyone in the world owns... Michael.	"[""What's Michael?"", ""What's Michael? 2"", ""What's Michael? (TV)""]"	['Michael', 'Poppo', 'Narrator']	['Tomiyama, Kei', 'Nozawa, Masako', 'Nagai, Ichiro']	[['Yanagawa, Shigeru', 'Script, Series Composition'], ['Kobayashi, Makoto', 'Original Creator'], ['Katsumata, Geki', 'Art Director'], ['Iwasa, Tadashi', 'Background Art']]

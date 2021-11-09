@@ -1,15 +1,2 @@
-animeTitle	The Reflection
-animeType	TV
-animeNumEpisode	12
-releaseDate	2017-07-22 00:00:00
-endDate	2017-10-07 00:00:00
-animeNumMembers	27945
-animeScore	5.13
-animeUsers	5298
-animeRank	11241
-animePopularity	3414
-animeDescription	After the Reflection, some of the people in all parts of the world are discovered with super powers. Some become heroes, and others villains. How did the Reflection happen? What was the cause of it? With many unsolved mysteries, the world is led into turmoil.
-animeRelated	[]
-animeCharacters	['Exon', 'Izzet, Ian', 'Evans, Eleanor', 'Livingstone, Lisa', 'Mister Mystic', 'Saya', 'Hoden, Michael', 'Horn, Trevor', 'Uki', 'Dulles, Warren']
-animeVoices	['Miki, Shinichiro', 'Mikami, Satoshi', 'Ise, Mariya', 'Hanamura, Satomi', 'Nishimura, Tomomichi', 'Nishiwaki, Sayaka', 'Seki, Toshihiko', 'Satake, Uki', 'Umezu, Hideyuki']
-animeStaff	[['Nagahama, Hiroshi', 'Director, Original Character Design, Original Creator'], ['Soutome, Kouichirou', 'Director, Episode Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Asami, Matsuo', 'Episode Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+The Reflection	TV	12	2017-07-22 00:00:00	2017-10-07 00:00:00	27945	5.13	5298	11241	3414	After the Reflection, some of the people in all parts of the world are discovered with super powers. Some become heroes, and others villains. How did the Reflection happen? What was the cause of it? With many unsolved mysteries, the world is led into turmoil.	[]	['Exon', 'Izzet, Ian', 'Evans, Eleanor', 'Livingstone, Lisa', 'Mister Mystic', 'Saya', 'Hoden, Michael', 'Horn, Trevor', 'Uki', 'Dulles, Warren']	['Miki, Shinichiro', 'Mikami, Satoshi', 'Ise, Mariya', 'Hanamura, Satomi', 'Nishimura, Tomomichi', 'Nishiwaki, Sayaka', 'Seki, Toshihiko', 'Satake, Uki', 'Umezu, Hideyuki']	[['Nagahama, Hiroshi', 'Director, Original Character Design, Original Creator'], ['Soutome, Kouichirou', 'Director, Episode Director'], ['Tanaka, Kazuya', 'Sound Director'], ['Asami, Matsuo', 'Episode Director']]

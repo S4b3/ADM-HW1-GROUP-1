@@ -1,15 +1,2 @@
-animeTitle	s.CRY.ed Alteration II: Quan
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2012-03-10 00:00:00
-endDate	
-animeNumMembers	3762
-animeScore	6.8
-animeUsers	916
-animeRank	4633
-animePopularity	7796
-animeDescription	Second part of the s.CRY.ed recap.
-animeRelated	['s.CRY.ed', 's.CRY.ed Alteration I: Tao']
-animeCharacters	['Kazuma', 'Ryu, Ryuhou', 'Cougar, Straight', 'Yuta, Kanami', 'Adjani, Scheris', 'Tachibana, Asuka', 'Kiryu, Mimori', 'Biff', 'Zigmar, Elian', 'Terada, Ayase']
-animeVoices	['Hoshi, Souichirou', 'Midorikawa, Hikaru', 'Tsukui, Kyousei', 'Tamura, Yukari', 'Kurata, Masayo', 'Iwanaga, Tetsuya', 'Nagashima, Yuuko', 'Cho', 'Inoue, Takayuki', 'Nishihara, Kumiko']
-animeStaff	[['Taniguchi, Gorou', 'Director'], ['Urakami, Yasuo', 'Sound Director'], ['Sakai, Mikio', 'Theme Song Performance, Theme Song Composition, Theme Song Lyrics'], ['Yatate, Hajime', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+s.CRY.ed Alteration II: Quan	Movie	1	2012-03-10 00:00:00		3762	6.8	916	4633	7796	Second part of the s.CRY.ed recap.	['s.CRY.ed', 's.CRY.ed Alteration I: Tao']	['Kazuma', 'Ryu, Ryuhou', 'Cougar, Straight', 'Yuta, Kanami', 'Adjani, Scheris', 'Tachibana, Asuka', 'Kiryu, Mimori', 'Biff', 'Zigmar, Elian', 'Terada, Ayase']	['Hoshi, Souichirou', 'Midorikawa, Hikaru', 'Tsukui, Kyousei', 'Tamura, Yukari', 'Kurata, Masayo', 'Iwanaga, Tetsuya', 'Nagashima, Yuuko', 'Cho', 'Inoue, Takayuki', 'Nishihara, Kumiko']	[['Taniguchi, Gorou', 'Director'], ['Urakami, Yasuo', 'Sound Director'], ['Sakai, Mikio', 'Theme Song Performance, Theme Song Composition, Theme Song Lyrics'], ['Yatate, Hajime', 'Original Creator']]

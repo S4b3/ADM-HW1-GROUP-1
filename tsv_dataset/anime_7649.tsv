@@ -1,15 +1,2 @@
-animeTitle	Good Morning
-animeType	Music
-animeNumEpisode	1
-releaseDate	2008-04-01 00:00:00
-endDate	
-animeNumMembers	4443
-animeScore	6.21
-animeUsers	2805
-animeRank	7649
-animePopularity	7354
-animeDescription	"A not so ""good morning"" greets a little bear as he tries desperately to reach his destination on time but is hampered by improbable obstacles along the way. Directed and produced by Takashi Murakami of ""Superflat Monogram"" fame."
-animeRelated	[]
-animeCharacters	['Graduation Bear']
-animeVoices	[]
-animeStaff	[['Murakami, Takashi', 'Director'], ['West, Kanye', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Good Morning	Music	1	2008-04-01 00:00:00		4443	6.21	2805	7649	7354	"A not so ""good morning"" greets a little bear as he tries desperately to reach his destination on time but is hampered by improbable obstacles along the way. Directed and produced by Takashi Murakami of ""Superflat Monogram"" fame."	[]	['Graduation Bear']	[]	[['Murakami, Takashi', 'Director'], ['West, Kanye', 'Theme Song Performance']]

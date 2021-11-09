@@ -1,15 +1,2 @@
-animeTitle	Kyojin no Hoshi: Shukumei no Taiketsu
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1970-08-01 00:00:00
-endDate	
-animeNumMembers	317
-animeScore	
-animeUsers	
-animeRank	16976
-animePopularity	14361
-animeDescription	Fourth Kyojin no Hoshi movie.
-animeRelated	['Kyojin no Hoshi']
-animeCharacters	['Hoshi, Hyuuma']
-animeVoices	[]
-animeStaff	[['Nagahama, Tadao', 'Episode Director'], ['Tsuji, Masaki', 'Script, Screenplay'], ['Kajiwara, Ikki', 'Original Creator'], ['Watanabe, Takeo', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kyojin no Hoshi: Shukumei no Taiketsu	Movie	1	1970-08-01 00:00:00		317			16976	14361	Fourth Kyojin no Hoshi movie.	['Kyojin no Hoshi']	['Hoshi, Hyuuma']	[]	[['Nagahama, Tadao', 'Episode Director'], ['Tsuji, Masaki', 'Script, Screenplay'], ['Kajiwara, Ikki', 'Original Creator'], ['Watanabe, Takeo', 'Music']]

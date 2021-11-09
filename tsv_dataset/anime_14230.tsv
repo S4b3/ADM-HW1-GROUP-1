@@ -1,17 +1,4 @@
-animeTitle	Xevious
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2002-08-03 00:00:00
-endDate	
-animeNumMembers	493
-animeScore	
-animeUsers	
-animeRank	14230
-animePopularity	12998
-animeDescription	"In the year 2150 A.D. space pilot Takeru and human computer Martha come across a giant ship which contains two mechanical beings called Sara and Ru Mi. They warn Takeru and Martha of the Gump, an alien race that is heading to Earth so that it can take over the planet. With only 40 mintues remaining until Earth's invasion, Takeru enters the Solvalou, a combat aircraft, and heads to the Gump's base on the planet Andoa.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Xevious	Movie	1	2002-08-03 00:00:00		493			14230	12998	"In the year 2150 A.D. space pilot Takeru and human computer Martha come across a giant ship which contains two mechanical beings called Sara and Ru Mi. They warn Takeru and Martha of the Gump, an alien race that is heading to Earth so that it can take over the planet. With only 40 mintues remaining until Earth's invasion, Takeru enters the Solvalou, a combat aircraft, and heads to the Gump's base on the planet Andoa.
 
-(Source: ANN)"
-animeRelated	[]
-animeCharacters	['Sarah', 'Takeru', 'Me, Roux', 'Martha', 'Putnam']
-animeVoices	['Yuzuki, Ryouka', 'Oda, Yuusei', 'Araki, Kae', 'Akimoto, Yousuke']
-animeStaff	[['Seino, Kazumichi', 'Producer, Director'], ['Kobayashi, Nobumitsu', 'Mechanical Design'], ['Ogura, Shinya', 'Assistant Director, Setting']]
+(Source: ANN)"	[]	['Sarah', 'Takeru', 'Me, Roux', 'Martha', 'Putnam']	['Yuzuki, Ryouka', 'Oda, Yuusei', 'Araki, Kae', 'Akimoto, Yousuke']	[['Seino, Kazumichi', 'Producer, Director'], ['Kobayashi, Nobumitsu', 'Mechanical Design'], ['Ogura, Shinya', 'Assistant Director, Setting']]

@@ -1,17 +1,4 @@
-animeTitle	Gudetama
-animeType	TV
-animeNumEpisode	Unknown
-releaseDate	2014-03-31 00:00:00
-endDate	
-animeNumMembers	10196
-animeScore	7.03
-animeUsers	1949
-animeRank	3682
-animePopularity	5264
-animeDescription	"Gudetama, an egg that is dead to the world and completely lacks motivation. No matter what cooking method you use, Gudetama remains unmoved.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Gudetama	TV	Unknown	2014-03-31 00:00:00		10196	7.03	1949	3682	5264	"Gudetama, an egg that is dead to the world and completely lacks motivation. No matter what cooking method you use, Gudetama remains unmoved.
 
-(Source: ANN)"
-animeRelated	['Hot Minute: Gudetama', 'JRA x Gudetama', 'Sawatte! Gudetama: 3-dome no Shoujiki']
-animeCharacters	['Gudetama', 'Nisetama-san']
-animeVoices	[]
-animeStaff	[['Wagner, Richard', 'Music']]
+(Source: ANN)"	['Hot Minute: Gudetama', 'JRA x Gudetama', 'Sawatte! Gudetama: 3-dome no Shoujiki']	['Gudetama', 'Nisetama-san']	[]	[['Wagner, Richard', 'Music']]

@@ -1,17 +1,4 @@
-animeTitle	Mission-E
-animeType	TV
-animeNumEpisode	12
-releaseDate	2008-07-08 00:00:00
-endDate	2008-09-23 00:00:00
-animeNumMembers	5387
-animeScore	6.46
-animeUsers	1882
-animeRank	6352
-animePopularity	6793
-animeDescription	"Chinami and her friends have formed an organization called OZ, with the financial backing of the Kujo Group. Their goal is to peacefully integrate people with Type-E abilities into society, and oppose the Foundation, an organization which seeks to capture and control Type-E users for their own mysterious purposes.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Mission-E	TV	12	2008-07-08 00:00:00	2008-09-23 00:00:00	5387	6.46	1882	6352	6793	"Chinami and her friends have formed an organization called OZ, with the financial backing of the Kujo Group. Their goal is to peacefully integrate people with Type-E abilities into society, and oppose the Foundation, an organization which seeks to capture and control Type-E users for their own mysterious purposes.
 
-(Source: ANN)"
-animeRelated	['Code-E']
-animeCharacters	['Ebihara, Chinami', 'Kimizuka, Maori', 'Saihashi, Yuma', 'Kannagi, Koutarou', 'Brinberg, Adol', 'Brinberg, Mils', 'Kiriku', 'Kuramoto, Akane', 'Hiiragi, Tokio', 'Komatsuna, Keiko']
-animeVoices	['Hashimoto, Mai', 'Inamura, Yuuna', 'Mizuno, Risa', 'Nomura, Katsuhito', 'Kamiya, Hiroshi', 'Yusa, Kouji', 'Amano, Yuri', 'Yao, Kazuki', 'Momoi, Haruko']
-animeStaff	[['Satou, Takuya', 'Director'], ['Sakaki, Ichirou', 'Director'], ['Kato, Toshiyuki', 'Director, Episode Director, Storyboard'], ['Gouda, Hozumi', 'Sound Director']]
+(Source: ANN)"	['Code-E']	['Ebihara, Chinami', 'Kimizuka, Maori', 'Saihashi, Yuma', 'Kannagi, Koutarou', 'Brinberg, Adol', 'Brinberg, Mils', 'Kiriku', 'Kuramoto, Akane', 'Hiiragi, Tokio', 'Komatsuna, Keiko']	['Hashimoto, Mai', 'Inamura, Yuuna', 'Mizuno, Risa', 'Nomura, Katsuhito', 'Kamiya, Hiroshi', 'Yusa, Kouji', 'Amano, Yuri', 'Yao, Kazuki', 'Momoi, Haruko']	[['Satou, Takuya', 'Director'], ['Sakaki, Ichirou', 'Director'], ['Kato, Toshiyuki', 'Director, Episode Director, Storyboard'], ['Gouda, Hozumi', 'Sound Director']]

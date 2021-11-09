@@ -1,17 +1,4 @@
-animeTitle	Grey: Digital Target
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1986-12-13 00:00:00
-endDate	
-animeNumMembers	2302
-animeScore	6.12
-animeUsers	924
-animeRank	8052
-animePopularity	9065
-animeDescription	"Grey is a laconic trooper in a rough, futuristic military system which rewards success in battle with high pay and promotions, but only three precent of troopers live long enough for the final goal - citizenship and the chance for a life above the misery of most of the populace. Grey has managed to keep coming back alive, even earning the nickname Grey Death. But is the society he's fought for worth it?
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Grey: Digital Target	Movie	1	1986-12-13 00:00:00		2302	6.12	924	8052	9065	"Grey is a laconic trooper in a rough, futuristic military system which rewards success in battle with high pay and promotions, but only three precent of troopers live long enough for the final goal - citizenship and the chance for a life above the misery of most of the populace. Grey has managed to keep coming back alive, even earning the nickname Grey Death. But is the society he's fought for worth it?
 
-(Source: ANN)"
-animeRelated	['Grey']
-animeCharacters	['Grey', 'Dimitri, Robert J.', 'Komon, Rope', 'Red', 'Nova']
-animeVoices	['Inoue, Kazuhiko', 'Chiba, Kouichi', 'Sasaoka, Shigezou', 'Kobayashi, Kiyoshi', 'Okamoto, Maya']
-animeStaff	[['Dezaki, Satoshi', 'Director'], ['Shimizu, Katsunori', 'Sound Director'], ['Tominaga, Tsuneo', 'Episode Director'], ['Shimizu, Keizou', 'Episode Director']]
+(Source: ANN)"	['Grey']	['Grey', 'Dimitri, Robert J.', 'Komon, Rope', 'Red', 'Nova']	['Inoue, Kazuhiko', 'Chiba, Kouichi', 'Sasaoka, Shigezou', 'Kobayashi, Kiyoshi', 'Okamoto, Maya']	[['Dezaki, Satoshi', 'Director'], ['Shimizu, Katsunori', 'Sound Director'], ['Tominaga, Tsuneo', 'Episode Director'], ['Shimizu, Keizou', 'Episode Director']]

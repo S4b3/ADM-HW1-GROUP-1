@@ -1,15 +1,2 @@
-animeTitle	Tiger & Bunny Movie 1: The Beginning
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2012-09-22 00:00:00
-endDate	
-animeNumMembers	21859
-animeScore	7.43
-animeUsers	9132
-animeRank	1860
-animePopularity	3852
-animeDescription	The first of two Tiger and Bunny movies, based on the first two episodes of the TV series with additional new scenes.
-animeRelated	['Tiger & Bunny: The Beginning', 'Tiger & Bunny', 'Tiger & Bunny Movie 2: The Rising']
-animeCharacters	['Kaburagi, Kotetsu T.', 'Brooks Jr., Barnaby', 'Karelin, Ivan', 'Petrov, Yuri', 'Goodman, Keith', 'Lyle, Karina', 'Seymour, Nathan', 'Huang, Pao-Lin', 'Lopez, Antonio', 'Saito']
-animeVoices	['Hirata, Hiroaki', 'Morita, Masakazu', 'Okamoto, Nobuhiko', 'Yusa, Kouji', 'Inoue, Gou', 'Kotobuki, Minako', 'Tsuda, Kenjirou', 'Ise, Mariya', 'Kusunoki, Taiten', 'Iwasaki, Hiroshi']
-animeStaff	[['Yonetani, Yoshitomo', 'Director, Storyboard'], ['Kimura, Eriko', 'Sound Director'], ['Suzuki, Kiyotaka', 'Episode Director'], ['Yoshizawa, Toshikazu', 'Episode Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Tiger & Bunny Movie 1: The Beginning	Movie	1	2012-09-22 00:00:00		21859	7.43	9132	1860	3852	The first of two Tiger and Bunny movies, based on the first two episodes of the TV series with additional new scenes.	['Tiger & Bunny: The Beginning', 'Tiger & Bunny', 'Tiger & Bunny Movie 2: The Rising']	['Kaburagi, Kotetsu T.', 'Brooks Jr., Barnaby', 'Karelin, Ivan', 'Petrov, Yuri', 'Goodman, Keith', 'Lyle, Karina', 'Seymour, Nathan', 'Huang, Pao-Lin', 'Lopez, Antonio', 'Saito']	['Hirata, Hiroaki', 'Morita, Masakazu', 'Okamoto, Nobuhiko', 'Yusa, Kouji', 'Inoue, Gou', 'Kotobuki, Minako', 'Tsuda, Kenjirou', 'Ise, Mariya', 'Kusunoki, Taiten', 'Iwasaki, Hiroshi']	[['Yonetani, Yoshitomo', 'Director, Storyboard'], ['Kimura, Eriko', 'Sound Director'], ['Suzuki, Kiyotaka', 'Episode Director'], ['Yoshizawa, Toshikazu', 'Episode Director']]

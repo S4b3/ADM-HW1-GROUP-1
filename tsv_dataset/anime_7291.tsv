@@ -1,17 +1,4 @@
-animeTitle	Pokemon: Pikachu Tanken Club
-animeType	Special
-animeNumEpisode	1
-releaseDate	2007-08-01 00:00:00
-endDate	
-animeNumMembers	6151
-animeScore	6.28
-animeUsers	2296
-animeRank	7291
-animePopularity	6442
-animeDescription	"The fourth short premiered on ANA flights on August 1, 2007.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Pokemon: Pikachu Tanken Club	Special	1	2007-08-01 00:00:00		6151	6.28	2296	7291	6442	"The fourth short premiered on ANA flights on August 1, 2007.
 
-(Source: Wikipedia)"
-animeRelated	['Pokemon Diamond & Pearl']
-animeCharacters	['Pikachu', 'Nyarth', 'Soonansu', 'Narrator']
-animeVoices	['Ootani, Ikue', 'Inuyama, Inuko', 'Ueda, Yuuji', 'Horiuchi, Kenyuu']
-animeStaff	[['Yuyama, Kunihiko', 'Director'], ['Asada, Yuuji', 'Episode Director, Storyboard, Special Effects'], ['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design']]
+(Source: Wikipedia)"	['Pokemon Diamond & Pearl']	['Pikachu', 'Nyarth', 'Soonansu', 'Narrator']	['Ootani, Ikue', 'Inuyama, Inuko', 'Ueda, Yuuji', 'Horiuchi, Kenyuu']	[['Yuyama, Kunihiko', 'Director'], ['Asada, Yuuji', 'Episode Director, Storyboard, Special Effects'], ['Tajiri, Satoshi', 'Original Creator'], ['Sugimori, Ken', 'Original Character Design']]

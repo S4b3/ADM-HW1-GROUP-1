@@ -1,15 +1,2 @@
-animeTitle	DD Hokuto no Ken (2013)
-animeType	TV
-animeNumEpisode	13
-releaseDate	2013-04-03 00:00:00
-endDate	2013-06-26 00:00:00
-animeNumMembers	3508
-animeScore	6.49
-animeUsers	1127
-animeRank	6193
-animePopularity	7983
-animeDescription	It's a special project commemorating the 30th anniversary of Hokuto no Ken.
-animeRelated	['DD Hokuto no Ken', 'DD Hokuto no Ken 2 Ichigo Aji+']
-animeCharacters	['Kenshirou', 'Raou', 'Toki', 'Rei', 'Jagi', 'Souther', 'Juuza', 'Shin', 'Shuu', 'Bat']
-animeVoices	['Tachibana, Shinnosuke', 'Ichijo, Kazuya', 'Seki, Tomokazu', 'Kishio, Daisuke', 'Matsumoto, Yoshirou', 'Namikawa, Daisuke', 'Ichinose, Hidekazu', 'Okiayu, Ryoutarou', 'Takahashi, Hiroshi', 'Morishima, Shuuta']
-animeStaff	[['Daichi, Akitarou', 'Director'], ['Hyadain', 'Theme Song Performance'], ['Yoshiki, Risa', 'Theme Song Performance'], ['Buronson', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+DD Hokuto no Ken (2013)	TV	13	2013-04-03 00:00:00	2013-06-26 00:00:00	3508	6.49	1127	6193	7983	It's a special project commemorating the 30th anniversary of Hokuto no Ken.	['DD Hokuto no Ken', 'DD Hokuto no Ken 2 Ichigo Aji+']	['Kenshirou', 'Raou', 'Toki', 'Rei', 'Jagi', 'Souther', 'Juuza', 'Shin', 'Shuu', 'Bat']	['Tachibana, Shinnosuke', 'Ichijo, Kazuya', 'Seki, Tomokazu', 'Kishio, Daisuke', 'Matsumoto, Yoshirou', 'Namikawa, Daisuke', 'Ichinose, Hidekazu', 'Okiayu, Ryoutarou', 'Takahashi, Hiroshi', 'Morishima, Shuuta']	[['Daichi, Akitarou', 'Director'], ['Hyadain', 'Theme Song Performance'], ['Yoshiki, Risa', 'Theme Song Performance'], ['Buronson', 'Original Creator']]

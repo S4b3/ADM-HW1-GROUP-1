@@ -1,17 +1,4 @@
-animeTitle	Takarajima
-animeType	TV
-animeNumEpisode	26
-releaseDate	1978-10-08 00:00:00
-endDate	1979-04-01 00:00:00
-animeNumMembers	16080
-animeScore	7.92
-animeUsers	5385
-animeRank	668
-animePopularity	4401
-animeDescription	"Jim Hawkins is a young boy lead by progressive events to embark on a search journey for the legendary treasure of the once dreaded pirate, Captain Flint. On their way to Treasure Island, John Silver, Jim's best friend, take over command of the ship revealing his true self as the ruthless pirate who once was the right hand of Flint himself. Feeling betrayed, Jim now has to deal with his mixed feelings and face Silver who still consider himself and Jim as friends. 
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Takarajima	TV	26	1978-10-08 00:00:00	1979-04-01 00:00:00	16080	7.92	5385	668	4401	"Jim Hawkins is a young boy lead by progressive events to embark on a search journey for the legendary treasure of the once dreaded pirate, Captain Flint. On their way to Treasure Island, John Silver, Jim's best friend, take over command of the ship revealing his true self as the ruthless pirate who once was the right hand of Flint himself. Feeling betrayed, Jim now has to deal with his mixed feelings and face Silver who still consider himself and Jim as friends. 
 
-(Source: ANN)"
-animeRelated	['Takarajima Memorial: Yuunagi to Yobareta Otoko', 'Takarajima (Movie)']
-animeCharacters	['Silver, John', 'Hawkins, Jim', 'Gray, Abraham', 'Redruth', 'Anderson', 'Pew', 'Gunn, Ben', 'Papy', 'Smollett, Alexander', 'George']
-animeVoices	['Wakayama, Genzo', 'Shimizu, Mari', 'Nojima, Akio', 'Kitamura, Kouichi', 'Katou, Osamu', 'Ootake, Hiroshi', 'Kimotsuki, Kaneta', 'Kamiya, Akira', 'Esumi, Eimei', 'Senda, Mitsuo']
-animeStaff	[['Dezaki, Osamu', 'Director, Episode Director, Storyboard'], ['Takayashiki, Hideo', 'Episode Director'], ['Takeuchi, Yoshio', 'Episode Director'], ['Columbia Yurikago Kai', 'Theme Song Performance, Inserted Song Performance']]
+(Source: ANN)"	['Takarajima Memorial: Yuunagi to Yobareta Otoko', 'Takarajima (Movie)']	['Silver, John', 'Hawkins, Jim', 'Gray, Abraham', 'Redruth', 'Anderson', 'Pew', 'Gunn, Ben', 'Papy', 'Smollett, Alexander', 'George']	['Wakayama, Genzo', 'Shimizu, Mari', 'Nojima, Akio', 'Kitamura, Kouichi', 'Katou, Osamu', 'Ootake, Hiroshi', 'Kimotsuki, Kaneta', 'Kamiya, Akira', 'Esumi, Eimei', 'Senda, Mitsuo']	[['Dezaki, Osamu', 'Director, Episode Director, Storyboard'], ['Takayashiki, Hideo', 'Episode Director'], ['Takeuchi, Yoshio', 'Episode Director'], ['Columbia Yurikago Kai', 'Theme Song Performance, Inserted Song Performance']]

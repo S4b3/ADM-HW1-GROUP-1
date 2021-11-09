@@ -1,17 +1,4 @@
-animeTitle	Kinken Chochiku Shiobara Tasuke
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1925-01-01 00:00:00
-endDate	
-animeNumMembers	346
-animeScore	5.23
-animeUsers	157
-animeRank	11066
-animePopularity	14085
-animeDescription	"""Industrious farmer Tasuke makes the necessary sacrifices to advance his station in life from a farmer to a store-owner. Based on a well-known kabuki tale Shiobara Tasuke ichitai-ki (The Life Story of Shiobara Tasuke), this parable about the virtues of hard work is based on a true story.""
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kinken Chochiku Shiobara Tasuke	Movie	1	1925-01-01 00:00:00		346	5.23	157	11066	14085	"""Industrious farmer Tasuke makes the necessary sacrifices to advance his station in life from a farmer to a store-owner. Based on a well-known kabuki tale Shiobara Tasuke ichitai-ki (The Life Story of Shiobara Tasuke), this parable about the virtues of hard work is based on a true story.""
 
-(Source: Mubi)"
-animeRelated	[]
-animeCharacters	['Tasuke']
-animeVoices	[]
-animeStaff	[['Kimura, Hakuzan', 'Director']]
+(Source: Mubi)"	[]	['Tasuke']	[]	[['Kimura, Hakuzan', 'Director']]

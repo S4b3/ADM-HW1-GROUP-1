@@ -1,15 +1,2 @@
-animeTitle	Drill
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1983-01-01 00:00:00
-endDate	
-animeNumMembers	393
-animeScore	4.95
-animeUsers	194
-animeRank	11522
-animePopularity	13638
-animeDescription	Film by Takashi Ito.
-animeRelated	[]
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Drill	Movie	1	1983-01-01 00:00:00		393	4.95	194	11522	13638	Film by Takashi Ito.	[]	[]	[]	[]

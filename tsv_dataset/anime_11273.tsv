@@ -1,17 +1,4 @@
-animeTitle	Yellow
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2003-01-01 00:00:00
-endDate	
-animeNumMembers	550
-animeScore	5.12
-animeUsers	257
-animeRank	11273
-animePopularity	12731
-animeDescription	"Everybody wants to be fashionable and praised. So do grandmothers.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Yellow	Movie	1	2003-01-01 00:00:00		550	5.12	257	11273	12731	"Everybody wants to be fashionable and praised. So do grandmothers.
 
-(Source: Official website)"
-animeRelated	[]
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+(Source: Official website)"	[]	[]	[]	[]

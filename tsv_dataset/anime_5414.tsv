@@ -1,15 +1,2 @@
-animeTitle	MM! Specials
-animeType	Special
-animeNumEpisode	9
-releaseDate	2010-12-22 00:00:00
-endDate	2011-05-25 00:00:00
-animeNumMembers	31316
-animeScore	6.63
-animeUsers	15018
-animeRank	5414
-animePopularity	3219
-animeDescription	"The six Blu-ray Disc/DVD volumes for the MM! television anime series will each include one or two new, ""somewhat extreme"" anime short stories."
-animeRelated	['MM!']
-animeCharacters	['Isurugi, Mio', 'Sado, Taro', 'Yuuno, Arashiko', 'Hiiragi, Noa', 'Onigawara, Michiru', 'Sado, Tomoko', 'Himura, Yukinojo', 'Sado, Nanaha', 'Mamiya, Yumi', 'Sado, Shizuka']
-animeVoices	['Taketatsu, Ayana', 'Fukuyama, Jun', 'Hayami, Saori', 'Yahagi, Sayuri', 'Tanaka, Rie', 'Ohara, Sayaka', 'Gibu, Yuko', 'Asumi, Kana']
-animeStaff	[['Matsuno, Akinari', 'Original Creator'], ['QP:flapper', 'Original Character Design'], ['Taeko, Hori', 'Character Design']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+MM! Specials	Special	9	2010-12-22 00:00:00	2011-05-25 00:00:00	31316	6.63	15018	5414	3219	"The six Blu-ray Disc/DVD volumes for the MM! television anime series will each include one or two new, ""somewhat extreme"" anime short stories."	['MM!']	['Isurugi, Mio', 'Sado, Taro', 'Yuuno, Arashiko', 'Hiiragi, Noa', 'Onigawara, Michiru', 'Sado, Tomoko', 'Himura, Yukinojo', 'Sado, Nanaha', 'Mamiya, Yumi', 'Sado, Shizuka']	['Taketatsu, Ayana', 'Fukuyama, Jun', 'Hayami, Saori', 'Yahagi, Sayuri', 'Tanaka, Rie', 'Ohara, Sayaka', 'Gibu, Yuko', 'Asumi, Kana']	[['Matsuno, Akinari', 'Original Creator'], ['QP:flapper', 'Original Character Design'], ['Taeko, Hori', 'Character Design']]

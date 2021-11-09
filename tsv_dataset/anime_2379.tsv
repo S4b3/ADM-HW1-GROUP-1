@@ -1,15 +1,2 @@
-animeTitle	"""Bungaku Shoujo"" Memoire"
-animeType	OVA
-animeNumEpisode	3
-releaseDate	2010-06-25 00:00:00
-endDate	2010-12-24 00:00:00
-animeNumMembers	26853
-animeScore	7.3
-animeUsers	12395
-animeRank	2379
-animePopularity	3476
-animeDescription	"Episodes which depict the background stories of ""Bungaku Shoujo"" Movie's main heroines."
-animeRelated	"['""Bungaku Shoujo"" Series', '""Bungaku Shoujo"" Movie']"
-animeCharacters	['Amano, Tooko', 'Asakura, Miu', 'Kotobuki, Nanase', 'Inoue, Konoha', 'Sakurai, Ryuuto', 'Takeda, Chia', 'Amano, Fumiharu', 'Amano, Yui', 'Sakurai, Kanako', 'Miki']
-animeVoices	['Hanazawa, Kana', 'Hirano, Aya', 'Mizuki, Nana', 'Saitou, Chiwa', 'Miyano, Mamoru', 'Toyosaki, Aki', 'Fujiwara, Keiji', 'Inoue, Kikuko', 'Mitsuishi, Kotono', 'Tamura, Chika']
-animeStaff	[['Kuroki, Rui', 'Producer'], ['Tada, Shunsuke', 'Director'], ['Nakajima, Toshihiko', 'Sound Director'], ['Tagashira, Shinobu', 'Episode Director, Storyboard, Animation Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+"""Bungaku Shoujo"" Memoire"	OVA	3	2010-06-25 00:00:00	2010-12-24 00:00:00	26853	7.3	12395	2379	3476	"Episodes which depict the background stories of ""Bungaku Shoujo"" Movie's main heroines."	"['""Bungaku Shoujo"" Series', '""Bungaku Shoujo"" Movie']"	['Amano, Tooko', 'Asakura, Miu', 'Kotobuki, Nanase', 'Inoue, Konoha', 'Sakurai, Ryuuto', 'Takeda, Chia', 'Amano, Fumiharu', 'Amano, Yui', 'Sakurai, Kanako', 'Miki']	['Hanazawa, Kana', 'Hirano, Aya', 'Mizuki, Nana', 'Saitou, Chiwa', 'Miyano, Mamoru', 'Toyosaki, Aki', 'Fujiwara, Keiji', 'Inoue, Kikuko', 'Mitsuishi, Kotono', 'Tamura, Chika']	[['Kuroki, Rui', 'Producer'], ['Tada, Shunsuke', 'Director'], ['Nakajima, Toshihiko', 'Sound Director'], ['Tagashira, Shinobu', 'Episode Director, Storyboard, Animation Director']]

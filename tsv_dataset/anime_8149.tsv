@@ -1,15 +1,2 @@
-animeTitle	Bikkuriman
-animeType	TV
-animeNumEpisode	75
-releaseDate	1987-10-11 00:00:00
-endDate	1989-04-02 00:00:00
-animeNumMembers	623
-animeScore	6.1
-animeUsers	122
-animeRank	8149
-animePopularity	12375
-animeDescription	In a world divided between angels and evil creatures, only the young hero Yamato Shintei has the power to defeat the demons...
-animeRelated	['Shin Bikkuriman', 'Bikkuriman: Moen Zone no Himitsu', 'Bikkuriman: Daiichiji Seima Taisen', 'Bikkuriman Kids: Theme Fighter Nyander']
-animeCharacters	['Tenshi, Juujika', 'Prince Yamato', 'Zeus, Super']
-animeVoices	['Suzuki, Tomiko', 'Yanami, Jouji']
-animeStaff	[['Satou, Junichi', 'Episode Director, Storyboard'], ['Yamamoto, Yuusuke', 'Episode Director, Storyboard'], ['Kakudou, Hiroyuki', 'Episode Director'], ['Endou, Yuuji', 'Episode Director']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Bikkuriman	TV	75	1987-10-11 00:00:00	1989-04-02 00:00:00	623	6.1	122	8149	12375	In a world divided between angels and evil creatures, only the young hero Yamato Shintei has the power to defeat the demons...	['Shin Bikkuriman', 'Bikkuriman: Moen Zone no Himitsu', 'Bikkuriman: Daiichiji Seima Taisen', 'Bikkuriman Kids: Theme Fighter Nyander']	['Tenshi, Juujika', 'Prince Yamato', 'Zeus, Super']	['Suzuki, Tomiko', 'Yanami, Jouji']	[['Satou, Junichi', 'Episode Director, Storyboard'], ['Yamamoto, Yuusuke', 'Episode Director, Storyboard'], ['Kakudou, Hiroyuki', 'Episode Director'], ['Endou, Yuuji', 'Episode Director']]

@@ -1,15 +1,2 @@
-animeTitle	Cinnamon the Movie
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2007-12-22 00:00:00
-endDate	
-animeNumMembers	1734
-animeScore	6.42
-animeUsers	589
-animeRank	6548
-animePopularity	9822
-animeDescription	Mocha, Chiffon, Cappuccino, Espresso, and Milk go with Cinnamoroll in this adventure of a lifetime. Join them in their quest, meeting new friends like Anna (the girl who found Cinnamoroll/Cinnamon) and discovering new places like the Forest of Pastries and Bread and the Coffee Waterfalls.
-animeRelated	['Cinnamon no Parade']
-animeCharacters	['Cinnamoroll', 'Anna', 'Chiffon', 'Cherry', 'Berry']
-animeVoices	['Ootani, Ikue', 'Takimoto, Fujiko', 'Miyata, Kouki']
-animeStaff	[['Sugii, Gisaburou', 'Director, Screenplay'], ['Kuzuoka, Hiroshi', 'Storyboard'], ['TVXQ', 'Theme Song Performance'], ['Okada, Mari', 'Screenplay']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Cinnamon the Movie	Movie	1	2007-12-22 00:00:00		1734	6.42	589	6548	9822	Mocha, Chiffon, Cappuccino, Espresso, and Milk go with Cinnamoroll in this adventure of a lifetime. Join them in their quest, meeting new friends like Anna (the girl who found Cinnamoroll/Cinnamon) and discovering new places like the Forest of Pastries and Bread and the Coffee Waterfalls.	['Cinnamon no Parade']	['Cinnamoroll', 'Anna', 'Chiffon', 'Cherry', 'Berry']	['Ootani, Ikue', 'Takimoto, Fujiko', 'Miyata, Kouki']	[['Sugii, Gisaburou', 'Director, Screenplay'], ['Kuzuoka, Hiroshi', 'Storyboard'], ['TVXQ', 'Theme Song Performance'], ['Okada, Mari', 'Screenplay']]

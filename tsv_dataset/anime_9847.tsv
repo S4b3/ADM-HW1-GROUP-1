@@ -1,15 +1,2 @@
-animeTitle	Xabungle Graffiti
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1983-07-09 00:00:00
-endDate	
-animeNumMembers	745
-animeScore	5.67
-animeUsers	147
-animeRank	9847
-animePopularity	11891
-animeDescription	A movie recapping the events of the Xabungle TV series.
-animeRelated	['Sentou Mecha Xabungle']
-animeCharacters	['Amos, Jiron', 'Cargo, Elchi', 'Uralo, Rag', 'Big, Fatman', 'Chill', 'Sharon, Timp', 'Biel', 'Rank, Arthur', 'Horla, Kidd', 'Memuma, Cotsett']
-animeVoices	['Ootaki, Shinya', 'Ginga, Banjou']
-animeStaff	[['Tomino, Yoshiyuki', 'Director, Original Creator'], ['Kushida, Akira', 'Theme Song Performance'], ['MIQ', 'Theme Song Performance'], ['Yatate, Hajime', 'Original Creator']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Xabungle Graffiti	Movie	1	1983-07-09 00:00:00		745	5.67	147	9847	11891	A movie recapping the events of the Xabungle TV series.	['Sentou Mecha Xabungle']	['Amos, Jiron', 'Cargo, Elchi', 'Uralo, Rag', 'Big, Fatman', 'Chill', 'Sharon, Timp', 'Biel', 'Rank, Arthur', 'Horla, Kidd', 'Memuma, Cotsett']	['Ootaki, Shinya', 'Ginga, Banjou']	[['Tomino, Yoshiyuki', 'Director, Original Creator'], ['Kushida, Akira', 'Theme Song Performance'], ['MIQ', 'Theme Song Performance'], ['Yatate, Hajime', 'Original Creator']]

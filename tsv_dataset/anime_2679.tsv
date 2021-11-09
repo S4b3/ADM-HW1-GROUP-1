@@ -1,15 +1,2 @@
-animeTitle	Cencoroll Connect
-animeType	Movie
-animeNumEpisode	1
-releaseDate	2019-06-29 00:00:00
-endDate	
-animeNumMembers	32906
-animeScore	7.24
-animeUsers	4947
-animeRank	2679
-animePopularity	3155
-animeDescription	The sequel to Cencoroll.
-animeRelated	['Cencoroll', 'Cencoroll 3']
-animeCharacters	['Amamiya, Tetsu', 'Cenco', 'Yuki', 'Shuu', 'Gotouda', 'Kaname']
-animeVoices	['Shimono, Hiro', 'Hanazawa, Kana', 'Kimura, Ryouhei', 'Akabane, Kenji', 'Takamori, Natsumi']
-animeStaff	[['Uki, Atsuya', 'Director, Creator'], ['supercell', 'Theme Song Performance, Inserted Song Performance'], ['Yanagi, Nagi', 'Theme Song Performance'], ['gaku', 'Theme Song Performance']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Cencoroll Connect	Movie	1	2019-06-29 00:00:00		32906	7.24	4947	2679	3155	The sequel to Cencoroll.	['Cencoroll', 'Cencoroll 3']	['Amamiya, Tetsu', 'Cenco', 'Yuki', 'Shuu', 'Gotouda', 'Kaname']	['Shimono, Hiro', 'Hanazawa, Kana', 'Kimura, Ryouhei', 'Akabane, Kenji', 'Takamori, Natsumi']	[['Uki, Atsuya', 'Director, Creator'], ['supercell', 'Theme Song Performance, Inserted Song Performance'], ['Yanagi, Nagi', 'Theme Song Performance'], ['gaku', 'Theme Song Performance']]

@@ -1,17 +1,4 @@
-animeTitle	Listeners
-animeType	TV
-animeNumEpisode	12
-releaseDate	2020-04-04 00:00:00
-endDate	2020-06-20 00:00:00
-animeNumMembers	55610
-animeScore	5.37
-animeUsers	14760
-animeRank	10759
-animePopularity	2368
-animeDescription	"Set in a world where the concept of music ceases to exist. The story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Listeners	TV	12	2020-04-04 00:00:00	2020-06-20 00:00:00	55610	5.37	14760	10759	2368	"Set in a world where the concept of music ceases to exist. The story begins when a boy encounters Myuu, a mysterious girl who possesses an audio input jack in her body. The two intermingle with the history of rock music and embark on an unforgettable journey.
 
-(Source: MAL News)"
-animeRelated	"[""Into the Blue's""]"
-animeCharacters	['μ', 'Reck, Echo', 'Nir', 'Kim', 'Stonefree, Jimi', 'Roz', 'McGee', 'Neubauten, Zende', 'Reck, Swell', 'Walker, Tommy']
-animeVoices	['Takahashi, Rie', 'Murase, Ayumu', 'Kugimiya, Rie', 'Tanaka, Atsuko', 'Fukuyama, Jun', 'Hanazawa, Kana', 'Cho', 'Kurosawa, Tomoyo', 'Satou, Rina', 'Nakamura, Yuuichi']
-animeStaff	[['Andou, Hiroaki', 'Director'], ['Koizumi, Kisuke', 'Sound Director'], ['Jin', 'Original Creator'], ['Satou, Dai', 'Series Composition, Original Creator']]
+(Source: MAL News)"	"[""Into the Blue's""]"	['μ', 'Reck, Echo', 'Nir', 'Kim', 'Stonefree, Jimi', 'Roz', 'McGee', 'Neubauten, Zende', 'Reck, Swell', 'Walker, Tommy']	['Takahashi, Rie', 'Murase, Ayumu', 'Kugimiya, Rie', 'Tanaka, Atsuko', 'Fukuyama, Jun', 'Hanazawa, Kana', 'Cho', 'Kurosawa, Tomoyo', 'Satou, Rina', 'Nakamura, Yuuichi']	[['Andou, Hiroaki', 'Director'], ['Koizumi, Kisuke', 'Sound Director'], ['Jin', 'Original Creator'], ['Satou, Dai', 'Series Composition, Original Creator']]

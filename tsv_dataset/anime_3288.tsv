@@ -1,14 +1,5 @@
-animeTitle	Poketoon
-animeType	ONA
-animeNumEpisode	Unknown
-releaseDate	2020-06-04 00:00:00
-endDate	
-animeNumMembers	4156
-animeScore	7.11
-animeUsers	1787
-animeRank	3288
-animePopularity	7528
-animeDescription	"Animations released on Pokémon Kids TV Japan YouTube channel.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Poketoon	ONA	Unknown	2020-06-04 00:00:00		4156	7.11	1787	3288	7528	"Animations released on Pokémon Kids TV Japan YouTube channel.
 
 Episodes:
 #1: Zuruggu to Mimikkyu - Chase the Beans (ズルッグとミミッキュ), animated by Dandelion Animation Studio, released June 4, 2020.
@@ -17,8 +8,4 @@ Episodes:
 #4: Mattete ne! Koiking (まっててね！コイキング), animated by Studio Colorido, released July 2, 2021.
 #5: Pokapoka Magumaggu House (ぽかぽかマグマッグハウス), animated by Studio Colorido, released August 5, 2021.
 #6: Gengar ni Nacchatta!? (ゲンガーになっちゃった！？), animated by Studio Colorido, released September 10, 2021.
-#7: Fubuki no Natsu Yasumi (ふぶきのなつやみ), animated by Mimoid, released October 8, 2021."
-animeRelated	['Pokemon (2019)']
-animeCharacters	"['Tsubomi', 'Kino', 'Anna', 'Shouko', 'Gengar', 'Riel', 'Cupo', ""Anna's Mother"", ""Anna's Grandfather"", ""Tsubomi's Mother""]"
-animeVoices	['Minase, Inori', 'Miura, Chiyuki', 'Ozawa, Miyuu', 'Ishige, Kouki', 'Terasaki, Yuka', 'Inaba, Minoru', 'Numakura, Manami']
-animeStaff	[['Inoue, Taku', 'Director']]
+#7: Fubuki no Natsu Yasumi (ふぶきのなつやみ), animated by Mimoid, released October 8, 2021."	['Pokemon (2019)']	"['Tsubomi', 'Kino', 'Anna', 'Shouko', 'Gengar', 'Riel', 'Cupo', ""Anna's Mother"", ""Anna's Grandfather"", ""Tsubomi's Mother""]"	['Minase, Inori', 'Miura, Chiyuki', 'Ozawa, Miyuu', 'Ishige, Kouki', 'Terasaki, Yuka', 'Inaba, Minoru', 'Numakura, Manami']	[['Inoue, Taku', 'Director']]

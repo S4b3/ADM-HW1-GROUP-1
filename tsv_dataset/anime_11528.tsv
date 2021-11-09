@@ -1,15 +1,2 @@
-animeTitle	Coffee Break
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1977-01-01 00:00:00
-endDate	
-animeNumMembers	911
-animeScore	4.94
-animeUsers	496
-animeRank	11528
-animePopularity	11386
-animeDescription	A short film by Furukawa Taku.
-animeRelated	['Coffee Tadaiku']
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Coffee Break	Movie	1	1977-01-01 00:00:00		911	4.94	496	11528	11386	A short film by Furukawa Taku.	['Coffee Tadaiku']	[]	[]	[]

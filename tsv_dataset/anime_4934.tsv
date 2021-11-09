@@ -1,14 +1,5 @@
-animeTitle	number24
-animeType	TV
-animeNumEpisode	12
-releaseDate	2020-01-08 00:00:00
-endDate	2020-04-15 00:00:00
-animeNumMembers	46682
-animeScore	6.73
-animeUsers	12944
-animeRank	4934
-animePopularity	2603
-animeDescription	"Natsuza Yuzuki has been playing rugby as a left-winger ever since he was a child. After enrolling in Doushisha University, he quickly becomes a rising star in the Kansai University League.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+number24	TV	12	2020-01-08 00:00:00	2020-04-15 00:00:00	46682	6.73	12944	4934	2603	"Natsuza Yuzuki has been playing rugby as a left-winger ever since he was a child. After enrolling in Doushisha University, he quickly becomes a rising star in the Kansai University League.
 
 His dreams are shattered, however, when a nasty motorbike accident leaves him with a spinal hernia—making him unable to be able to play rugby ever again. With no role available other than the position of manager, he accepts his new post and hopes his squad can obtain a league title.
 
@@ -16,8 +7,4 @@ Yuzuki's team is an unlikely group, including his stoic best friend and full-bac
 
 Despite Natsuza putting his all into training his team for a league title, their squad still feels incomplete. A year ago, Ibuki Ueka, the genius fly-half that was once Doushisha's ace, suddenly quit rugby—and now Natsuza is determined to get him back.
 
-[Written by MAL Rewrite]"
-animeRelated	['number24 Recap']
-animeCharacters	['Yuzuki, Natsusa', 'Jingyouji, Seiichirou', 'Ueoka, Ibuki', 'Mashiro, Yuu', 'Tsuru, Yasunari', 'Yufu, Ikuto', 'Hidaka, Takumi', 'Taylor, Ethan', 'Uchinashi, Taisei', 'Kureha, Kotori']
-animeVoices	['Kawanishi, Kengo', 'Suzuki, Ryouta', 'Yanagita, Junichi', 'Murase, Ayumu', 'Komatsu, Shouhei', 'Tachibana, Shinnosuke', 'Yano, Shougo', 'Okitsu, Kazuyuki', 'Furukawa, Makoto']
-animeStaff	[['Sakamoto, Yoshiki', 'Producer'], ['Kimiya, Shigeru', 'Director'], ['Hamano, Takatoshi', 'Sound Director'], ['Nakase, Rika', 'Script, Series Composition']]
+[Written by MAL Rewrite]"	['number24 Recap']	['Yuzuki, Natsusa', 'Jingyouji, Seiichirou', 'Ueoka, Ibuki', 'Mashiro, Yuu', 'Tsuru, Yasunari', 'Yufu, Ikuto', 'Hidaka, Takumi', 'Taylor, Ethan', 'Uchinashi, Taisei', 'Kureha, Kotori']	['Kawanishi, Kengo', 'Suzuki, Ryouta', 'Yanagita, Junichi', 'Murase, Ayumu', 'Komatsu, Shouhei', 'Tachibana, Shinnosuke', 'Yano, Shougo', 'Okitsu, Kazuyuki', 'Furukawa, Makoto']	[['Sakamoto, Yoshiki', 'Producer'], ['Kimiya, Shigeru', 'Director'], ['Hamano, Takatoshi', 'Sound Director'], ['Nakase, Rika', 'Script, Series Composition']]

@@ -1,17 +1,4 @@
-animeTitle	Gundam Evolve
-animeType	OVA
-animeNumEpisode	15
-releaseDate	2001-01-01 00:00:00
-endDate	2007-01-26 00:00:00
-animeNumMembers	9775
-animeScore	6.57
-animeUsers	3625
-animeRank	5769
-animePopularity	5343
-animeDescription	"A series of short films packaged with certain model kits and aired at conventions, the Gundam Evolve series chronicles a number of side-stories, alternative scenes, and even bonus omake from all around the Gundam canon. Featuring a mix of animation media—from traditional cels to 3-D CG rendering to even cel-shaded 2-D animation—these often 3-5 minute shorts cover such events as Domon Kasshu's training (and a bit of a romantic tift with Rain Mikamura) from G Gundam, Amuro Ray battling Quess Paraya from Char's Counterattack, Kamille Bidan training in the Gundam Mk.II from Zeta Gundam, and Canard Pars dueling Prayer Reverie from the Gundam SEED X Astray manga.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Gundam Evolve	OVA	15	2001-01-01 00:00:00	2007-01-26 00:00:00	9775	6.57	3625	5769	5343	"A series of short films packaged with certain model kits and aired at conventions, the Gundam Evolve series chronicles a number of side-stories, alternative scenes, and even bonus omake from all around the Gundam canon. Featuring a mix of animation media—from traditional cels to 3-D CG rendering to even cel-shaded 2-D animation—these often 3-5 minute shorts cover such events as Domon Kasshu's training (and a bit of a romantic tift with Rain Mikamura) from G Gundam, Amuro Ray battling Quess Paraya from Char's Counterattack, Kamille Bidan training in the Gundam Mk.II from Zeta Gundam, and Canard Pars dueling Prayer Reverie from the Gundam SEED X Astray manga.
 
-(Source: ANN)"
-animeRelated	['Mobile Suit Gundam']
-animeCharacters	['Aznable, Char', 'Yuy, Heero', 'Ray, Amuro', 'Bidan, Kamille', 'Kasshu, Domon', 'Ashta, Judau', 'Mikamura, Rain', 'Noa, Hathaway', 'Louka, Roux', 'Sune, Lalah']
-animeVoices	['Ikeda, Shuuichi', 'Midorikawa, Hikaru', 'Furuya, Toru', 'Tobita, Nobuo', 'Seki, Tomokazu', 'Yao, Kazuki', 'Narahashi, Miki', 'Sasaki, Nozomu', 'Matsui, Naoko', 'Han, Keiko']
-animeStaff	[['Yatate, Hajime', 'Producer, Original Creator'], ['Murase, Shukou', 'Director, Script, Storyboard, 2nd Key Animation, Key Animation'], ['Yonetani, Yoshitomo', 'Director'], ['Imanishi, Takashi', 'Director']]
+(Source: ANN)"	['Mobile Suit Gundam']	['Aznable, Char', 'Yuy, Heero', 'Ray, Amuro', 'Bidan, Kamille', 'Kasshu, Domon', 'Ashta, Judau', 'Mikamura, Rain', 'Noa, Hathaway', 'Louka, Roux', 'Sune, Lalah']	['Ikeda, Shuuichi', 'Midorikawa, Hikaru', 'Furuya, Toru', 'Tobita, Nobuo', 'Seki, Tomokazu', 'Yao, Kazuki', 'Narahashi, Miki', 'Sasaki, Nozomu', 'Matsui, Naoko', 'Han, Keiko']	[['Yatate, Hajime', 'Producer, Original Creator'], ['Murase, Shukou', 'Director, Script, Storyboard, 2nd Key Animation, Key Animation'], ['Yonetani, Yoshitomo', 'Director'], ['Imanishi, Takashi', 'Director']]

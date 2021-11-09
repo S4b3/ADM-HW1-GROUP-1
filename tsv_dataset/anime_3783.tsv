@@ -1,14 +1,5 @@
-animeTitle	Halo Legends
-animeType	ONA
-animeNumEpisode	9
-releaseDate	2009-11-07 00:00:00
-endDate	2010-02-16 00:00:00
-animeNumMembers	36702
-animeScore	7.01
-animeUsers	20674
-animeRank	3783
-animePopularity	2955
-animeDescription	"Halo Legends features seven different stories set in the Halo universe, each made by a different studio.
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Halo Legends	ONA	9	2009-11-07 00:00:00	2010-02-16 00:00:00	36702	7.01	20674	3783	2955	"Halo Legends features seven different stories set in the Halo universe, each made by a different studio.
 
 The Babysitter follows the Helljumpers, Orbital Drop Shock Troopers who are sent behind enemy lines to perform an assassination.
 
@@ -22,8 +13,4 @@ Homecoming centers on the Spartan Daisy, who reminisces on her past, and the SPA
 
 Prototype is viewed from the perspective of Marine Sergeant Ghost, who is determined to fight for all he is worth in order to make up for past grievances.
 
-Odd One Out is a non-canon parody of Halo featuring Spartan 1337, who suffers from extremely bad luck."
-animeRelated	[]
-animeCharacters	"['Master Chief', 'Cortana', 'Ghost', 'Daisy-023', ""Fal 'Chavamee"", 'CAL-141', ""O'Brien"", 'Big Brother', 'Haka', 'Sister, Big']"
-animeVoices	['Genda, Tesshou', 'Touma, Yumi', 'Fujiwara, Keiji', 'Kuwashima, Houko', 'Touchi, Hiroki', 'Noto, Mamiko', 'Shigematsu, Tomo', 'Seki, Tomokazu', 'Ootomo, Ryuuzaburou', 'Yukana']
-animeStaff	[['Sugiyama, Keiichi', 'Co-Director'], ['Minami, Masahiko', 'Producer'], ['Ishikawa, Mitsuhisa', 'Producer, Executive Producer'], ['Tanaka, Eiko', 'Producer']]
+Odd One Out is a non-canon parody of Halo featuring Spartan 1337, who suffers from extremely bad luck."	[]	"['Master Chief', 'Cortana', 'Ghost', 'Daisy-023', ""Fal 'Chavamee"", 'CAL-141', ""O'Brien"", 'Big Brother', 'Haka', 'Sister, Big']"	['Genda, Tesshou', 'Touma, Yumi', 'Fujiwara, Keiji', 'Kuwashima, Houko', 'Touchi, Hiroki', 'Noto, Mamiko', 'Shigematsu, Tomo', 'Seki, Tomokazu', 'Ootomo, Ryuuzaburou', 'Yukana']	[['Sugiyama, Keiichi', 'Co-Director'], ['Minami, Masahiko', 'Producer'], ['Ishikawa, Mitsuhisa', 'Producer, Executive Producer'], ['Tanaka, Eiko', 'Producer']]

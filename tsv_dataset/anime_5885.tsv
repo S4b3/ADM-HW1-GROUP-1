@@ -1,19 +1,6 @@
-animeTitle	ID-0
-animeType	TV
-animeNumEpisode	12
-releaseDate	2017-04-09 00:00:00
-endDate	2017-06-25 00:00:00
-animeNumMembers	18814
-animeScore	6.55
-animeUsers	7572
-animeRank	5885
-animePopularity	4099
-animeDescription	"Transferring the human consciousness into a robotic ""I-Machine"" is now a reality thanks to the discovery of a valuable ore called ""orichalt."" However, there is the possibility of the consciousness failing to return to the host's body, rendering them stuck inside their new metallic frame for good. Such is the situation of members of the Excavate Company, a reckless band of I-Machine miners led by the notorious Grayman that aims to gather orichalt for profit.  
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+ID-0	TV	12	2017-04-09 00:00:00	2017-06-25 00:00:00	18814	6.55	7572	5885	4099	"Transferring the human consciousness into a robotic ""I-Machine"" is now a reality thanks to the discovery of a valuable ore called ""orichalt."" However, there is the possibility of the consciousness failing to return to the host's body, rendering them stuck inside their new metallic frame for good. Such is the situation of members of the Excavate Company, a reckless band of I-Machine miners led by the notorious Grayman that aims to gather orichalt for profit.  
 
 During a mining incursion, the group rescues Maya Mikuri, a student who was abandoned by her crew. Accused of stealing classified information on orichalt by her former colleagues, she joins the Excavate Company in hopes of clearing her name. They then begin an adventure that will change their lives—including that of Ido, an ace member of the group with no memory of his past. For the first time, Ido might have the chance to rediscover his true identity.
 
-[Written by MAL Rewrite]"
-animeRelated	[]
-animeCharacters	['Ido', 'Mikuri, Maya', 'Alice', 'Ayer, Rick', 'Houjou, Clair', 'Grayman', 'Genne, Cecilia', 'Anai', 'Record, Jennifer', 'Hakubi, Urakuou']
-animeVoices	['Okitsu, Kazuyuki', 'Tsuda, Minami', 'Ueda, Reina', 'Matsukaze, Masaya', 'Kanemoto, Hisako', 'Koyama, Rikiya', 'Katsuki, Masako', 'Watanabe, Akeno', 'Inoue, Kikuko', 'Mugihito']
-animeStaff	[['Taniguchi, Gorou', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Kageyama, Hironobu', 'Theme Song Performance'], ['Sasaki, Sayaka', 'Theme Song Performance']]
+[Written by MAL Rewrite]"	[]	['Ido', 'Mikuri, Maya', 'Alice', 'Ayer, Rick', 'Houjou, Clair', 'Grayman', 'Genne, Cecilia', 'Anai', 'Record, Jennifer', 'Hakubi, Urakuou']	['Okitsu, Kazuyuki', 'Tsuda, Minami', 'Ueda, Reina', 'Matsukaze, Masaya', 'Kanemoto, Hisako', 'Koyama, Rikiya', 'Katsuki, Masako', 'Watanabe, Akeno', 'Inoue, Kikuko', 'Mugihito']	[['Taniguchi, Gorou', 'Director'], ['Aketagawa, Jin', 'Sound Director'], ['Kageyama, Hironobu', 'Theme Song Performance'], ['Sasaki, Sayaka', 'Theme Song Performance']]

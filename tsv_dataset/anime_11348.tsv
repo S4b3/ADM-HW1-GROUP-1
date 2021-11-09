@@ -1,15 +1,2 @@
-animeTitle	Stone
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1975-01-01 00:00:00
-endDate	
-animeNumMembers	528
-animeScore	5.07
-animeUsers	148
-animeRank	11348
-animePopularity	12862
-animeDescription	Independent, stop motion animation by Aihara Nobuhiro, combining drawings and real landscapes.
-animeRelated	[]
-animeCharacters	[]
-animeVoices	[]
-animeStaff	[]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Stone	Movie	1	1975-01-01 00:00:00		528	5.07	148	11348	12862	Independent, stop motion animation by Aihara Nobuhiro, combining drawings and real landscapes.	[]	[]	[]	[]

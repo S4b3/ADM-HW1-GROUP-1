@@ -1,15 +1,2 @@
-animeTitle	Kuroi Ame ni Utarete
-animeType	Movie
-animeNumEpisode	1
-releaseDate	1984-08-12 00:00:00
-endDate	
-animeNumMembers	689
-animeScore	5.76
-animeUsers	199
-animeRank	9519
-animePopularity	12114
-animeDescription	Anime adaptation of the manga Kuroi Ame ni Utarete by Nakazawa Keiji.
-animeRelated	['Kuroi Ame ni Utarete']
-animeCharacters	['Junji', 'Eiko', 'Shouzou', 'Kondou, Yuri', 'Katsuta', 'Yoshio']
-animeVoices	['Saijo, Hideki', 'Han, Keiko', 'Masamune, Issei', 'Nakanishi, Taeko', 'Shibata, Hidekatsu', 'Tanaka, Hideyuki']
-animeStaff	[['Shirato, Takeshi', 'Director, Script'], ['Nakazawa, Keiji', 'Script, Planning, Original Creator'], ['Hashimoto, Takashi', 'In-Between Animation'], ['Yabuki, Tsutomu', 'Key Animation']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Kuroi Ame ni Utarete	Movie	1	1984-08-12 00:00:00		689	5.76	199	9519	12114	Anime adaptation of the manga Kuroi Ame ni Utarete by Nakazawa Keiji.	['Kuroi Ame ni Utarete']	['Junji', 'Eiko', 'Shouzou', 'Kondou, Yuri', 'Katsuta', 'Yoshio']	['Saijo, Hideki', 'Han, Keiko', 'Masamune, Issei', 'Nakanishi, Taeko', 'Shibata, Hidekatsu', 'Tanaka, Hideyuki']	[['Shirato, Takeshi', 'Director, Script'], ['Nakazawa, Keiji', 'Script, Planning, Original Creator'], ['Hashimoto, Takashi', 'In-Between Animation'], ['Yabuki, Tsutomu', 'Key Animation']]

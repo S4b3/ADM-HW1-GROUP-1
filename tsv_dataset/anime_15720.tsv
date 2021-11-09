@@ -1,15 +1,2 @@
-animeTitle	Gatapishi
-animeType	TV
-animeNumEpisode	199
-releaseDate	1990-04-23 00:00:00
-endDate	1991-03-29 00:00:00
-animeNumMembers	330
-animeScore	
-animeUsers	
-animeRank	15720
-animePopularity	14197
-animeDescription	Based on the comedy yonkoma manga by Sonoyama Shunji.
-animeRelated	[]
-animeCharacters	['Heino, Pesuke', 'Gatapishi', 'Heino, Hiroko', 'Heino, Heita']
-animeVoices	['Kimotsuki, Kaneta', 'Yokozawa, Keiko', 'Tanaka, Mayumi']
-animeStaff	[['Sasagawa, Hiroshi', 'Director'], ['Ishihara, Shinji', 'Theme Song Arrangement'], ['Minami, Rambow', 'Theme Song Lyrics, Theme Song Composition'], ['Arisawa, Takanori', 'Music']]
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+Gatapishi	TV	199	1990-04-23 00:00:00	1991-03-29 00:00:00	330			15720	14197	Based on the comedy yonkoma manga by Sonoyama Shunji.	[]	['Heino, Pesuke', 'Gatapishi', 'Heino, Hiroko', 'Heino, Heita']	['Kimotsuki, Kaneta', 'Yokozawa, Keiko', 'Tanaka, Mayumi']	[['Sasagawa, Hiroshi', 'Director'], ['Ishihara, Shinji', 'Theme Song Arrangement'], ['Minami, Rambow', 'Theme Song Lyrics, Theme Song Composition'], ['Arisawa, Takanori', 'Music']]
