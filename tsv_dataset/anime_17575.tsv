@@ -1,4 +1,4 @@
-animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff
+animeTitle	animeType	animeNumEpisode	releaseDate	endDate	animeNumMembers	animeScore	animeUsers	animeRank	animePopularity	animeDescription	animeRelated	animeCharacters	animeVoices	animeStaff	url
 Given: Uragawa no Sonzai	OVA	1	2021-12-01 00:00:00		38461				2876	"The OVA, bundled with the special edition version of the seventh manga volume, will tell an ""other side"" story centered on Mafuyu Satou and Ritsuka Uenoyama that wasn't featured in the Given movie.
 
-(Source: MAL News)"	['Given', 'Given Movie']	['Satou, Mafuyu', 'Uenoyama, Ritsuka', 'Nakayama, Haruki', 'Kaji, Akihiko']	['Yano, Shougo', 'Uchida, Yuuma', 'Nakazawa, Masatomo', 'Eguchi, Takuya']	[['Oohashi, Akiyo', 'Director'], ['Ayana, Yuniko', 'Script'], ['Kizu, Natsuki', 'Original Creator']]
+(Source: MAL News)"	['Given', 'Given Movie']	['Satou, Mafuyu', 'Uenoyama, Ritsuka', 'Nakayama, Haruki', 'Kaji, Akihiko']	['Yano, Shougo', 'Uchida, Yuuma', 'Nakazawa, Masatomo', 'Eguchi, Takuya']	[['Oohashi, Akiyo', 'Director'], ['Ayana, Yuniko', 'Script'], ['Kizu, Natsuki', 'Original Creator']]	https://myanimelist.net/anime/49053/Given__Uragawa_no_Sonzai

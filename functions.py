@@ -25,6 +25,7 @@ import itertools
 import math
 from collections import Counter
 import numpy as np
+from tabulate import tabulate
 
 
 
@@ -144,6 +145,14 @@ def parseDate(date, formats, file_path):
   print(f"No valid date format found for : {date} on {file_path}")
   return ""
 
+def extract_url_from_html(html) :
+    soup = BeautifulSoup(html, "html.parser")
+    url = soup.find("meta", property="og:url")
+    if(url):
+        return url["content"]
+    else : 
+        return ''
+
 def extract_informations_from_anime_html(file_path):
     with open(file_path, 'r', encoding="utf-8") as f:
         file_path = str(file_path)
@@ -233,6 +242,11 @@ def extract_informations_from_anime_html(file_path):
         except Exception as e :
           pass
           #print(f"animeStaff {e} on {file_path}") 
+        url = ''
+        try:
+            url = extract_url_from_html(html)
+        except:
+            pass
 
         article_i = re.findall(re.compile('[0-9]+'), file_path.split('/n')[-1])[-1]
         inherited_name = f"anime_{article_i}.tsv"
@@ -242,9 +256,9 @@ def extract_informations_from_anime_html(file_path):
         with open('./tsv_dataset/{}'.format(inherited_name), 'wt', encoding="utf-8") as out_file:
             tsv_writer = csv.writer(out_file, delimiter='\t')
             tsv_writer.writerow(['animeTitle','animeType','animeNumEpisode','releaseDate','endDate','animeNumMembers','animeScore',
-                                 'animeUsers','animeRank','animePopularity','animeDescription','animeRelated','animeCharacters','animeVoices','animeStaff'])
+                                 'animeUsers','animeRank','animePopularity','animeDescription','animeRelated','animeCharacters','animeVoices','animeStaff','url'])
             tsv_writer.writerow([animeTitle, animeType, animeNumEpisode, releaseDate, endDate, animeNumMembers, animeScore,
-                                 animeUsers, animeRank, animePopularity, animeDescription, animeRelated, animeCharacters, animeVoices, animeStaff])
+                                 animeUsers, animeRank, animePopularity, animeDescription, animeRelated, animeCharacters, animeVoices, animeStaff, url])
 
 
             
@@ -279,24 +293,25 @@ def preprocess_string(input_string, stemmer = EnglishStemmer(), tokenizer = word
     return output
       
 def preprocess_tsv(file_path):
-    file_name = str(file_path).split('\\')[-1]
-    with open(file_path, 'r', newline='', encoding="utf-8") as f:
-        Path("./preprocessed_dataset").mkdir(parents=True, exist_ok=True)
-        output = {}
-        tsv = csv.reader(f, delimiter='\t')
-        
-        columns = next(tsv)
-        next(tsv)
-        data = next(tsv)
-        for i in range(len(columns)) :
-            if(columns[i] not in ['releaseDate', 'endDate']) :
-                output[columns[i]] = ' '.join(preprocess_string(data[i]))
-            else :
-                output[columns[i]] = data[i]
-        print(file_name)
-        print(file_name.split('.tsv')[0])
-        with open('./preprocessed_dataset/{}.json'.format(file_name.split('\\')[-1].split('.')[0]), 'w', encoding="utf-8") as out_file:
-            json.dump(output, out_file)
+    try:
+        file_name = str(file_path).split('\\')[-1]
+        with open(file_path, 'r', newline='', encoding="utf-8") as f:
+            Path("./preprocessed_dataset").mkdir(parents=True, exist_ok=True)
+            output = {}
+            tsv = csv.reader(f, delimiter='\t')
+
+            columns = next(tsv)
+            next(tsv)
+            data = next(tsv)
+            for i in range(len(columns)) :
+                if(columns[i] not in ['releaseDate', 'endDate', 'url']) :
+                    output[columns[i]] = ' '.join(preprocess_string(data[i]))
+                else :
+                    output[columns[i]] = data[i]
+            with open('./preprocessed_dataset/{}.json'.format(file_name.split('\\')[-1].split('.')[0]), 'w', encoding="utf-8") as out_file:
+                json.dump(output, out_file)
+    except Exception as e:
+        print("Error on file {} : {}".format(file_path, e))
             
 def map_input_file_into_dictionary(dictionary, file_path):
     f = open(file_path, 'r', encoding='utf-8')
@@ -396,12 +411,13 @@ def hydrate_synopsys_inverted_index_with_given_files_and_vocabulary(
     with open(vocabulary_path, 'r', encoding='utf-8') as voc:
         print('1------------reading vocabulary----------------------------')
         vocabulary = json.load(voc)
+    idf_source_dictionary = {}
     if(want_idf) :
         with open(idf_source_dictionary_path, 'r', encoding='utf-8') as idf_source_dict :
             idf_source_dictionary = json.load(idf_source_dict)
     print('1------------proceeding to multiprocess inputs-------------')
     result = pool.map(lambda path : process_file_synopsis_to_output_given_vocabulary(
-        path, inverted_index, vocabulary, want_idf, tot_documents, idf_source_dictionary or {}
+        path, inverted_index, vocabulary, want_idf, tot_documents, idf_source_dictionary
     ), file_paths)
     print('1------------finished to multiprocess inputs---------------')
     
@@ -424,7 +440,7 @@ def associate_words_to_doc_ids(words, vocabulary):
         try:
             output.append(vocabulary[word])
         except :
-            raise ValueException(f"Couldn't find the word {word} in our dictionary! Are you sure it's not a typo?")
+            raise Exception(f"Couldn't find the word {word} in our dictionary! Are you sure it's not a typo?")
     return output
 
 def extract_documents_from_ids(ids, index) :
@@ -434,7 +450,22 @@ def extract_documents_from_ids(ids, index) :
         results[_id] = docs
     return results
 
+
+def print_query_results(results_ids) :
+    file_path = './tsv_dataset/'
+    results_files = []
+    for _id in results_ids :
+        with open(f"{file_path}{_id}.tsv", 'r', encoding='utf-8') as file:
+            tsv = csv.reader(file, delimiter='\t')
+            rows = list(tsv)
+            values = rows[2]
+            results_files.append([values[0], values[10]])
+    print(tabulate(  results_files, headers=['Title', 'Description'], tablefmt='orgtbl'))
+        
+
 def perform_query(query_string):
+    
+    starting_time = datetime.now()
     # load vocabulary
     with open('./vocabulary.json', 'r', encoding='utf-8') as voc_file: 
         vocabulary = json.load(voc_file)
@@ -451,47 +482,9 @@ def perform_query(query_string):
     
     #   [ [anime_1, anime_2], [anime_2], [anime_1, anime_2] ]
     results = set.intersection(*map(set,list_of_hits))
-    print(results)
-    
-    '''
-    # define document positions
-    # 0 1 2 
-    indexes = [i for i in range(len(query_ids))]
-    indexes_dict = {}
-    for i in indexes :
-        indexes_dict[query_ids[i]] = 0
-    
-    interception = []
-    
-    
-
-    processing = True
-    while (processing) :
-        
-        current_values = []
-        # find values for current index
-        for index_key in indexes_dict.keys() :
-            #print(f"key {index_key}")
-            #print(f"value {indexes_dict[index_key]}")
-            #print(f"hists {hits[index_key]}")
-            #print(f"currentValue {hits[index_key][indexes_dict[index_key]]}")
-            current_values.append(hits[index_key][indexes_dict[index_key]])
-            
-        print(current_values)
-        min_value = min(current_values)
-        print(f"min {min_value}")
-        
-        if(all_equal(current_values)) :
-            
-        
-        for i in range(len(current_values)) :
-            if(current_values[i] == min_value) :
-                indexes_dict[query_ids[i]] += 1
-        
-        print(indexes_dict)
-        processing = False     
-    '''
-
+    ending_time = datetime.now() 
+    print(f"Results for \"{query_string}\" : {len(results)} | elapsed time: {(ending_time - starting_time).total_seconds()} seconds")
+    print_query_results(results)
     
 def generate_query_vector(query_array, vocabulary_dict) :
   ## generate empty vector
@@ -505,36 +498,6 @@ def find_element_in_list(l, condition):
   for el in l :
     if(condition(el)):
       return el
-
-'''def generate_document_vector(query_words, document_id, vocabulary_dict, idf_index) :
-  doc_v = np.zeros(len(vocabulary_dict))
-  for word in query_words :
-    # 0 trova id parola
-    _id = vocabulary_dict[word]
-
-    # 1 accedi a index ed estrai array di tuple della parola corrent
-    array_list = idf_index[_id]
-
-    print('/n/n')
-    print(array_list)
-    print(document_id)
-    # [ (anime_1, 12 ) , (anime_2, 13 ) ]
-    # find tupla corretta con id = document_id
-    current_tuple = None
-    for tup in array_list :
-      if(tup[0] == document_id):
-        current_tuple = tup
-        break;
-    print(current_tuple)
-    #current_tuple = find_element_in_list(array_list, lambda tup : tup[0] == document_id)
-    # find tfidf of tuple
-    tf_idf = current_tuple[1]
-    print(tf_idf)
-    doc_v[list(vocabulary_dict.keys()).index(word)] = tf_idf
-
-    
-  return doc_v
-'''
 
 def generate_vector_for_given_document(document_id, vocabulary, index):
     doc_v = np.zeros(len(vocabulary))
@@ -588,3 +551,5 @@ def perform_query_with_idf(query_string):
         # query_words, document_id, vocabulary_dict, idf_index
         doc_v = generate_vector_for_given_document(doc_id, vocabulary, index )
         print(doc_v)
+        
+    print_query_results(results)
