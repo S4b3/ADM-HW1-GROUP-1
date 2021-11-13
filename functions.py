@@ -26,6 +26,7 @@ import math
 from collections import Counter
 import numpy as np
 from tabulate import tabulate
+import heapq
 
 
 
@@ -348,7 +349,7 @@ def map_input_to_tf_dictionary_given_vocabulary(file_id, input_words, output_dic
     
     for word in words_counter.keys() : 
         _id = vocabulary_dictionary[word]
-        tf = words_counter[word]
+        tf = words_counter[word] / len(input_words)
         # # of docs that contain this word
         occurencies = len(idf_source_dictionary[_id])
         # log (len(index) / len(# of documents that contain the word)
@@ -451,7 +452,7 @@ def extract_documents_from_ids(ids, index) :
     return results
 
 
-def print_query_results(results_ids) :
+def print_query_results(results_ids, with_similarity = False, similarity_dict = {}) :
     file_path = './tsv_dataset/'
     results_files = []
     for _id in results_ids :
@@ -459,8 +460,17 @@ def print_query_results(results_ids) :
             tsv = csv.reader(file, delimiter='\t')
             rows = list(tsv)
             values = rows[2]
-            results_files.append([values[0], values[10]])
-    print(tabulate(  results_files, headers=['Title', 'Description'], tablefmt='orgtbl'))
+            result = [values[0],
+                (values[10][:8] + '..') if len(values[10]) > 8 else values[8],
+                values[-1]]
+            if(with_similarity):
+                result.append(similarity_dict[_id])
+            results_files.append(result)
+    
+    _headers = ['Title', 'Description', 'Url', 'Similarity']
+    if(with_similarity) :
+        _headers.append('Similarity')
+    print(tabulate( results_files, headers=_headers, tablefmt='orgtbl'))
         
 
 def perform_query(query_string):
@@ -520,7 +530,8 @@ def generate_vector_for_given_document(document_id, vocabulary, index):
 
 
 
-def perform_query_with_idf(query_string):
+def query_K_top_documents(query_string, k):
+    starting_time = datetime.now()
     # load vocabulary
     with open('./vocabulary.json', 'r', encoding='utf-8') as voc_file: 
         vocabulary = json.load(voc_file)
@@ -530,9 +541,9 @@ def perform_query_with_idf(query_string):
     # extract query words
     query_words = preprocess_string(query_string)
     query_ids = associate_words_to_doc_ids(query_words, vocabulary)
-    query_v = generate_query_vector(query_words, vocabulary)
     
-    print(query_v)
+    # query vector having as 1 words that are in query and 0 elsewhere
+    query_v = generate_query_vector(query_words, vocabulary)
 
     # returns a dictionary containing hits for every word as a key
     hits = extract_documents_from_ids(query_ids, index)
@@ -546,10 +557,40 @@ def perform_query_with_idf(query_string):
                 list_of_hits[hits_keys.index(value)].append(tupl[0])
 
     results = set.intersection(*map(set,list_of_hits))
-    print(results)
-    for doc_id in results :
+    
+    
+    document_v_dictionary = {}
+    for doc_id in list(results) :
         # query_words, document_id, vocabulary_dict, idf_index
         doc_v = generate_vector_for_given_document(doc_id, vocabulary, index )
-        print(doc_v)
-        
-    print_query_results(results)
+        document_v_dictionary[doc_id] = doc_v
+    
+    top_k_results = compute_K_best_results_from_heap(query_v, document_v_dictionary, k)
+    
+    ending_time = datetime.now() 
+    # top_k_results = ['anime_1', 'anime_2']
+    print(f"Results for \"{query_string}\" : {len(results)} | elapsed time: {(ending_time - starting_time).total_seconds()} seconds")
+    print_query_results(top_k_results.keys(), True, top_k_results)
+    
+    
+
+def compute_K_best_results_from_heap(query_vector, document_vectors_dict, k) :
+    output = {}
+    # create a score heap structure and a dictionary of scores
+    heap = list()
+    heapq.heapify(heap)
+    scores_dictionary = dict()
+    
+    for key,value in document_vectors_dict.items() :
+        # Compute the cosine of the angle between the query vector and the document vector
+        cos = np.dot(query_vector, value)/(np.linalg.norm(query_vector)*np.linalg.norm(value))
+        scores_dictionary[cos] = key
+        # Update the heap
+        heapq.heappush(heap, cos)
+    
+    top_k = heapq.nlargest(k, heap)
+    for score in top_k :
+        output[scores_dictionary[score]] = score
+    
+    return output
+
