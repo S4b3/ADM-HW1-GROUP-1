@@ -27,7 +27,10 @@ from collections import Counter
 import numpy as np
 from tabulate import tabulate
 import heapq
-
+import pandas as pd
+pd.options.mode.chained_assignment = None
+import csv
+import heapq
 
 
 
@@ -517,15 +520,18 @@ def generate_vector_for_given_document(document_id, vocabulary, index):
     synopsis = document['animeDescription']
     
     for word in synopsis.split(' ') :
-        _id = vocabulary[word]
-        tuples = index[_id]
-        idf = 0
-        for tup in tuples :
-            if(tup[0] == document_id):
-                idf = tup[1]
-                break;
+        try: 
+            _id = vocabulary[word]
+            tuples = index[_id]
+            idf = 0
+            for tup in tuples :
+                if(tup[0] == document_id):
+                    idf = tup[1]
+                    break;
 
-        doc_v[list(vocabulary.keys()).index(word)] = idf
+            doc_v[list(vocabulary.keys()).index(word)] = idf
+        except :
+            raise Exception(f"Couldn't find the word {word} in our dictionary! Are you sure it's not a typo?")
     return doc_v
 
 
@@ -594,3 +600,249 @@ def compute_K_best_results_from_heap(query_vector, document_vectors_dict, k) :
     
     return output
 
+
+def print_resulting_dataframe(dataframe) :
+    dataframe['animeDescription'] = dataframe['animeDescription'].apply(lambda string : string[:8] + '...')
+    print(tabulate(dataframe, headers='keys', tablefmt='psql'))
+        
+
+def compute_query_on_jaccard_similarity(query_string, k, num_epidode_weight, date_weight, members_weight, score_weight, popularity_weight) :
+    starting_time = datetime.now()
+    output_dataframe = pd.DataFrame(columns=['animeTitle', 'animeDescription', 'url', 'similarity'])
+    # load vocabulary
+    with open('./vocabulary.json', 'r', encoding='utf-8') as voc_file: 
+        vocabulary = json.load(voc_file)
+    # Load inverted index
+    with open('./indexes/tf_idf_synopsis_index.json', 'r', encoding='utf-8') as index_file:
+        index = json.load(index_file)
+    # extract query words
+    query_words = preprocess_string(query_string)
+    query_ids = associate_words_to_doc_ids(query_words, vocabulary)
+    
+    # query vector having as 1 words that are in query and 0 elsewhere
+    query_v = generate_query_vector(query_words, vocabulary)
+
+
+    
+    # returns a dictionary containing hits for every word as a key
+    hits = extract_documents_from_ids(query_ids, index)
+    list_of_hits = [None] * len(hits)
+    hits_keys = list(hits.keys())
+    for value in hits :
+        for tupl in hits[value]: 
+            if list_of_hits[hits_keys.index(value)] == None :
+                list_of_hits[hits_keys.index(value)] = [tupl[0]]
+            else :
+                list_of_hits[hits_keys.index(value)].append(tupl[0])
+
+    results = set.intersection(*map(set,list_of_hits))
+    
+    
+    # compute dataframe 
+    dataframe = compute_pandas_dataframe_for_results(results)
+    
+    # calculate similarity on Title, Description, Charachters
+    jaccard_scores = compute_jaccard_scores(dataframe, query_words, k)
+    
+    # num_epidode_weight, date_weight, members_weight, score_weight, popularity_weight 
+    
+    dataframe['releaseDate'] =  dataframe['releaseDate'].apply(lambda d : datetime.strptime(d, '%Y-%m-%d %H:%M:%S').timestamp() * 1000)
+    #dataframe['releaseDate'] = pd.to_datetime(dataframe['releaseDate'], unit='ms')
+    
+    date_scores = compute_column_scores(dataframe, 'releaseDate', 'dateScores', date_weight)
+    num_ep_scores = compute_column_scores(dataframe, 'animeNumEpisode', 'numEpScores', num_epidode_weight)
+    anime_members_scores = compute_column_scores(dataframe, 'animeNumMembers', 'memberScores', members_weight)
+    anime_rate_scores = compute_column_scores(dataframe, 'animeScore', 'ratingScore', score_weight)
+    anime_popularity_score = compute_column_scores(dataframe, 'animePopularity', 'popularityScore', popularity_weight)
+    
+
+    
+    for index, row in jaccard_scores.iterrows() :
+        overall_similarity = row['similarity'] + date_scores['dateScores'][index] + num_ep_scores['numEpScores'][index] + anime_members_scores['memberScores'][index] + anime_rate_scores['ratingScore'][index]+ anime_popularity_score['popularityScore'][index]
+        temp_row = pd.DataFrame(data = {'animeTitle' : [dataframe['animeTitle'][index]],'animeDescription' : [dataframe['animeDescription'][index]], 'url' : [dataframe['url'][index]], 'similarity':[overall_similarity]})   
+        output_dataframe = output_dataframe.append(temp_row)
+    norm_factor = output_dataframe['similarity'].max()
+    output_dataframe['similarity'] = output_dataframe['similarity'].apply(lambda x : x / norm_factor)
+    top_k_results = compute_top_k_dataset(output_dataframe, k)
+    
+    print_resulting_dataframe(top_k_results)
+
+
+def compute_pandas_dataframe_for_results(results_ids):
+    documents_dataframe = pd.DataFrame(data = {
+        "animeTitle": [],
+        "animeType": [],
+        "animeNumEpisode": [],
+        "releaseDate": [],
+        "endDate": [],
+        "animeNumMembers": [],
+        "animeScore": [],
+        "animeUsers": [],
+        "animeRank": [],
+        "animePopularity": [],
+        "animeDescription": [],
+        "animeRelated": [],
+        "animeCharacters": [],
+        "animeVoices": [],
+        "animeStaff": [],
+        "url": [],
+        "similarity": []
+    })
+    anime_files = []
+    
+    # 1 : read docs
+    for _id in results_ids :
+        with open('./tsv_dataset/{}.tsv'.format(_id), 'r', encoding='utf-8') as document_file:
+            tsv = csv.reader(document_file, delimiter = '\t')
+            # 2 : add docs to dataset
+            r = next(tsv)
+            r = next(tsv)
+            tsv_data = next(tsv)
+            
+            temp = pd.DataFrame(data = {
+                "animeTitle" : [tsv_data[0]],
+                "animeType" : [tsv_data[1]],
+                "animeNumEpisode" : [tsv_data[2]],
+                "releaseDate" :[ tsv_data[3]],
+                "endDate" : [tsv_data[4]],
+                "animeNumMembers" : [tsv_data[5]],
+                "animeScore" : [tsv_data[6]],
+                "animeUsers" : [tsv_data[7]],
+                "animeRank" : [tsv_data[8]],
+                "animePopularity" : [tsv_data[9]],
+                "animeDescription" : [tsv_data[10]],
+                "animeRelated" :[ tsv_data[11]],
+                "animeCharacters" : [tsv_data[12]],
+                "animeVoices" : [tsv_data[13]],
+                "animeStaff" : [tsv_data[14]],
+                "url" :[tsv_data[15]],
+                "similarity" : [0]
+            })
+            # fix this
+            documents_dataframe = pd.concat([documents_dataframe, temp], sort = True)
+            
+    # print(f"documents dataframe is {documents_dataframe}")
+    return documents_dataframe.reset_index(drop=True)
+
+def jaccard_similarity(_query_array, _text_array):
+    _query = set(_query_array)
+    _text = set(_text_array)
+    return len(_query.intersection(_text)) / len(_query.union(_text))
+
+
+def normalize_jaccard(values, min_jac, max_jac):
+    return [(x - min_jac)  / (max_jac - min_jac) for x in values]
+
+def compute_jaccard_scores(documents_dataframe, query_text, k):
+    jac_dataframe = documents_dataframe[["animeTitle","animeDescription","animeRelated","animeCharacters","similarity"]]
+    
+    jac_scores = []
+    jac_score_final = []
+    
+    cols = jac_dataframe.columns
+    
+    # calculate jaccart scores
+    for index, row in jac_dataframe.iterrows():
+        score = []
+        for col in cols:
+            text = str(row[col])
+            # append the score of every variable of a given document
+            # animeTitle : score, animeDesc : score... exc...
+            jac_scores.append(jaccard_similarity(query_text, preprocess_string(text)))
+        
+        # sum up all the scores of a given document into a single score
+        jac_score_final.append(sum(jac_scores))
+    
+    if(len(jac_score_final) > 1) :
+        jac_score_final = normalize_jaccard(jac_score_final, min(jac_score_final), max(jac_score_final))
+    
+    # normalize jaccard 
+    jac_dataframe['similarity'] = list(map(lambda x: round(x, 2), jac_score_final))
+    return jac_dataframe[["animeTitle", "animeDescription", "similarity"]]
+    
+    
+
+    
+'''
+This function takes a pandas dataframe having:
+animeTitle | animeDescription | url | similarity
+as fields.
+It heap sorts the dataframe's rows based on similarity and returns
+k best elements
+'''
+def compute_top_k_dataset(input_dataset, k) :
+    
+    score_to_row_dictionary = {}
+    output = pd.DataFrame(columns = input_dataset.columns)
+    heap = list()
+    heapq.heapify(heap)
+    
+    for index, row in input_dataset.iterrows() :
+        score_to_row_dictionary[row['similarity']] = row
+        heapq.heappush(heap, row['similarity'])
+    
+    top_k_scores = heapq.nlargest(k, heap)
+    
+    for score in top_k_scores :
+        output = output.append([score_to_row_dictionary[score]])
+    
+    return output
+
+def convert_str_to_float(string):
+    try:
+        return float(string)
+    except:
+        return 0
+
+'''
+This takes a result dataframe as an input and returns a series of scores based on weight
+'''
+def compute_column_scores(dataframe, source_column, output_column, output_weight) :
+    result = pd.DataFrame(columns=[output_column])
+    source = dataframe[source_column].apply(lambda x : convert_str_to_float(x))
+   # source = pd.to_numeric(dataframe[source_column])
+    norm_factor = source.max()
+    result[output_column] = source.apply(lambda x: (x / norm_factor) * output_weight)
+    return result
+
+
+def take_simple_query_from_user():
+    try:
+        print("Hi! Type in your query : ")
+        query = str(input())
+        perform_query(query)
+    except Exception as e :
+        print(e)
+
+def take_top_k_of_query_from_user() :
+    try:
+        print("Hi! Type in your query : ")
+        query = str(input())
+        print("How many results would you like to retrieve?")
+        k = int(input())
+        query_K_top_documents(query, k)
+    except Exception as e :
+        print(e)
+        
+def take_biased_query_from_user():
+    try:
+        print("Hi! Type in your query : ")
+        query = str(input())
+        print("How many results would you like to retrieve?")
+        k = int(input())
+        print("You will now be asked to type in some preferences. \nConsider the range from -5 to 5, where -5 is the least, 5 is the max and 0 is indifferent.\n")
+        print("How many episodes do you prefer?")
+        ep_weight = int(input())/10
+        print("Are you looking for a newer or an older anime?")
+        date_weight = int(input())/10
+        print("Are you looking for an anime with a large fanbase?")
+        members_weight = int(input())/10
+        print("Are you looking for an anime with a good score?")
+        score_weight = int(input())/10
+        print("Are you looking for a very popular anime?")
+        popularity_weight = int(input())/10
+
+
+        compute_query_on_jaccard_similarity(query, k, ep_weight, date_weight, members_weight, score_weight, popularity_weight)
+    except Exception as e :
+        print(e)
