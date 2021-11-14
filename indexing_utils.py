@@ -230,9 +230,9 @@ def hydrate_synopsys_inverted_index_with_given_files_and_vocabulary(
     inverted_index_path, file_paths, vocabulary_path, cores_amount, want_idf = False, tot_documents = 0, idf_source_dictionary_path='') :
     
     """
-    Multiprocess, based on cores_amount, the creation of a new Inverted Index
-    in [inverted_index_path] and its hydratation it via every file read from [file_paths]. 
-    This assigns an _id to every word via a vocabulary read from [vocabulary_path]. 
+    Multiprocess, based on cores_amount, the creation of a new Inverted Index\n
+    in [inverted_index_path] and its hydratation it via every file read from [file_paths].\n
+    This assigns an _id to every word via a vocabulary read from [vocabulary_path].\n
 
     IF [want_idf] is True:
         this function will create a tfidf inverted index,
