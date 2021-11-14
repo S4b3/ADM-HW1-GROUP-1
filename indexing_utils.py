@@ -34,240 +34,17 @@ import heapq
 
 
 
-'''
-This function performs an HTTP Get Request to MyAnimeList and places its results in a given array.
-Params: 
-    [index] : Simply the page index. Sets up the url for pagination and defines where the page will be placed inside [destination_array]
-    [destination_array] : where the retrieved page will be stored. The result will be placed in index [index]
-'''
-def fetch_page(index, destination_array):
-    destination_array[index] = requests.get(f"https://myanimelist.net/topanime.php{'?limit={}'.format(50*index) if(index > 0) else ''}")
-    
-'''
-Finds all URL contained in a MyAnimeList top animes page, then substitutes them to the starting page inside [pages] array.
-Params: 
-    [page]  : MyAnimeList's Top Animes HTML Page
-    [pages] : Array containing all the pages. 
-'''
-def fetch_urls_in_page(page, pages):
-    # Defining an html parser
-    soup = BeautifulSoup(page.content, "html.parser")
-    # Find all URLs
-    animeUrls = soup.find_all("a", class_="hoverinfo_trigger fl-l ml12 mr8", id=lambda x: x and x.startswith('#area'), href=True)
-    animeUrls = [a['href'] for a in animeUrls]
-    # Substitues starting page with its URLs
-    pages[pages.index(page)] = animeUrls
-
-    
-'''
-Performs a GET Request on a given [url] and saves its results as an HTML inside a folder called "page_[folder]".
-The HTML file will be named "article_[index].html"
-'''
-def fetch_anime_and_parse_html(url, folder, index):
-    # Get current page
-    req = requests.get(url)
-    # MyAnimeList might refuse to respond to large amount of requests, if this happens, we need to stop the process
-    if(req.status_code != 200) : 
-        raise Exception(f"My anime list has closed the connection.\nComplete the captcha and restart the process.\nCurrent Page was : {index}")
-    # Define page's absolute destination path
-    _directory_path = f"{pathlib.Path().resolve()}/dataset/page_{folder}"
-    # Check if current page's destination folder exists... if not, create it!
-    Path(_directory_path).mkdir(parents=True, exist_ok=True)
-    # Write the html file in the destination directory.
-    with open(f"{_directory_path}/article_{index}.html", 'w') as file:
-        file.write(req.text)
-    
-
-'''
-Assigns fetching to all available threads and calls (fetch_anime_and_parse_html) with given [folderNumber]
-'''
-def fetch_animes_and_save_file(urls, folderNumber, cores_amount):
-    pool = ThreadPool(cores_amount)
-    pool.map(lambda url : fetch_anime_and_parse_html(url, folderNumber, (50*(folderNumber-1)) + urls.index(url) +1), urls)
-
-    
-## Defining classes for each argument:
-def extract_element_from_html(html, html_tag, class_name="", attrs= {}) :
-  # title class_name
-  soup = BeautifulSoup(html, "html.parser")
-  # Find given content
-  content = soup.find(html_tag, class_=class_name, attrs= attrs)
-  # print(f"Found {html_tag}: {content}")
-  return content
-
-def extract_element_from_information_content_by_span_text(html, span_text) :
-  # title class_name
-  soup = BeautifulSoup(html, "html.parser")
-  # Find given gontent
-  pads = soup.find_all("div", class_="spaceit_pad", )
-  for el in pads :
-    span = el.find('span')
-    if(span != None and span.text == span_text):
-      a = el.find('a')
-      if(a != None): 
-        return a.text
-      contents = el.contents
-      if(len(contents) >= 2): 
-        return contents[2].strip("\n ")
-  return ""
-
-def extract_related_animes(html):
-  soup = BeautifulSoup(html, "html.parser")
-  subtag = soup.find("table", "anime_detail_related_anime")
-  #print(f"Found subtag {subtag}")
-  related_animes = []
-  if(subtag != None): 
-    for el in subtag.find_all("a", href=True):
-      #print(el)
-      text = el.text
-      if(text not in related_animes):
-        related_animes.append(text)
-  return related_animes
-
-
-def extract_text_list_from_soup_and_class_names(soup, html_tag, class_name):
-  tag_list = soup.find_all(html_tag, class_name)
-  output = []
-  for el in tag_list:
-    text = el.text
-    if(text not in output):
-      output.append(text)
-  return output 
-
-def extract_soups_tag_list(html, html_tag, class_name):
-  soup = BeautifulSoup(html, "html.parser")
-  output = soup.find_all(html_tag, class_name)
-  #print(len(output))
-  return output
-
-def parseDate(date, formats, file_path):
-  for fmt in formats:
-    try:
-        return datetime.strptime(date, fmt)
-    except ValueError:
-        pass
-  print(f"No valid date format found for : {date} on {file_path}")
-  return ""
-
-def extract_url_from_html(html) :
-    soup = BeautifulSoup(html, "html.parser")
-    url = soup.find("meta", property="og:url")
-    if(url):
-        return url["content"]
-    else : 
-        return ''
-
-def extract_informations_from_anime_html(file_path):
-    with open(file_path, 'r', encoding="utf-8") as f:
-        file_path = str(file_path)
-        try:
-            html = f.read()
-        except:
-            print("Exception reading html")
-        animeTitle = extract_element_from_html(html, "h1", "title-name h1_bold_none")
-        animeTitle = "" if animeTitle == None else animeTitle.text
-
-        animeType = extract_element_from_information_content_by_span_text(html, "Type:")
-        animeNumEpisode = extract_element_from_information_content_by_span_text(html, "Episodes:")
-        rel_and_end_dates = extract_element_from_information_content_by_span_text(html, "Aired:")
-
-        dates = rel_and_end_dates.split(" to ")
-        date_formats = ["%b %d, %Y", "%Y", "%b %Y"]
-
-        releaseDate = ""
-        if (dates[0] != None) :
-          releaseDate = parseDate(dates[0], date_formats, file_path)
-
-
-        endDate = ""
-        if (len(dates) >= 2 and dates[1] != None) :
-          endDate = parseDate(dates[1], date_formats, file_path)
-
-        animeNumMembers = ""
-        try : 
-          animeNumMembers = int(extract_element_from_html(html, "span", "numbers members").text.split()[1].replace(',', ''))
-        except Exception as e :
-          pass
-          #print(f"animeNumMembers - {e} on {file_path}");
-
-        animeScore = ""
-        try:
-          animeScore = float(extract_element_from_html(html, "div", "score-label").text)
-        except Exception as e :
-          pass
-          #print(f"animeScore - {e} on {file_path}");
-        animeUsers = ""
-        try: 
-          animeUsers = int(extract_element_from_html(html, "div", "fl-l score").get('data-user').split()[0].replace(',',''))
-        except Exception as e :
-          pass
-          #print(f"animeUsers - {e} on {file_path}");
-        animeRank = ""
-        try: 
-          animeRank = int(extract_element_from_html(html, "span", "numbers ranked").text.split()[1].replace('#', '').replace(',',''))
-        except Exception as e :
-          pass
-          #print(f"animeRank - {e} on {file_path}");
-
-        animePopularity = ""
-        try:
-          animePopularity = int(extract_element_from_html(html, "span", "numbers popularity").text.split()[1].replace('#', '').replace(',',''))
-        except Exception as e :
-          pass
-          #print(f"animePopularity - {e} on {file_path}");
-        animeDescription = ""
-        try:
-          animeDescription = extract_element_from_html(html, "p", "", {"itemprop": "description"}).text
-        except Exception as e :
-          pass
-          #print(f"animeDescription - {e} on {file_path}");
-        animeRelated = extract_related_animes(html)
-        char_voices_staff_table = extract_soups_tag_list(html, "div", "detail-characters-list clearfix")
-
-        animeCharacters = []
-        try: 
-          animeCharacters = extract_text_list_from_soup_and_class_names(char_voices_staff_table[0], "h3", "h3_characters_voice_actors")
-        except Exception as e :
-          pass
-          #print(f"animeCharacters {e} on {file_path}")
-
-        animeVoices = []
-        try: 
-          animeVoices = extract_text_list_from_soup_and_class_names(char_voices_staff_table[0], "td", "va-t ar pl4 pr4")
-          animeVoices = [voice.strip('\n').split('\n')[0] for voice in animeVoices]
-        except Exception as e :
-          pass
-          #print(f"animeVoices {e} on {file_path}") 
-
-        animeStaff = []
-        try: 
-          animeStaff = extract_text_list_from_soup_and_class_names(char_voices_staff_table[1], "td", "borderClass")
-          animeStaff = [re.split('\n+', staff) for staff in list(filter(None, [staff.strip('\n') for staff in animeStaff]))]
-        except Exception as e :
-          pass
-          #print(f"animeStaff {e} on {file_path}") 
-        url = ''
-        try:
-            url = extract_url_from_html(html)
-        except:
-            pass
-
-        article_i = re.findall(re.compile('[0-9]+'), file_path.split('/n')[-1])[-1]
-        inherited_name = f"anime_{article_i}.tsv"
-        #print(inherited_name)
-        Path("./tsv_dataset").mkdir(parents=True, exist_ok=True)
-
-        with open('./tsv_dataset/{}'.format(inherited_name), 'wt', encoding="utf-8") as out_file:
-            tsv_writer = csv.writer(out_file, delimiter='\t')
-            tsv_writer.writerow(['animeTitle','animeType','animeNumEpisode','releaseDate','endDate','animeNumMembers','animeScore',
-                                 'animeUsers','animeRank','animePopularity','animeDescription','animeRelated','animeCharacters','animeVoices','animeStaff','url'])
-            tsv_writer.writerow([animeTitle, animeType, animeNumEpisode, releaseDate, endDate, animeNumMembers, animeScore,
-                                 animeUsers, animeRank, animePopularity, animeDescription, animeRelated, animeCharacters, animeVoices, animeStaff, url])
-
-
             
             
 def preprocess_string(input_string, stemmer = EnglishStemmer(), tokenizer = word_tokenize ) :
+    """
+    Takes in an input string and preprocess it by sequent steps:   
+        - Removing Punctuation
+        - Removing Stopwords
+        - Stemming
+    """
+
+    # Base case
     if not input_string :
         return ''
     # define stopwords
@@ -276,58 +53,86 @@ def preprocess_string(input_string, stemmer = EnglishStemmer(), tokenizer = word
     punctuation = string.punctuation
     translation_table = str.maketrans('', '', punctuation)
     output = []
+
     for token in [t.lower() for t in tokenizer(input_string)]:
-        #print(f"Processing token : {token}")
-        #print("removing punctuation")
+        # remove punctuation
         token = token.translate(translation_table)
         try :
             if token == '' or token in stop_words:
-              #print("token was a stopword, continuing.")
+              # If token is a stopword, go on to the next word
               continue
         except Exception as e:
             print(f"{e} thrown while using stop_words")
-        #print("token was NOT a stopword")
-        #print(f"token after punctuation removal: {token}")
+        
+        # If token was not a stopword, stem it after having removed punctuation
         if stemmer:
-            #print("Stemming token")
             token = stemmer.stem(token)
-            #print(f"token after stemming was {token}")
+        
+        # add the processed word to the output
         output.append(token)
-        #print(output)
+        
     return output
       
 def preprocess_tsv(file_path):
+    """
+    Takes in the file_path of an input tsv and preprocess
+    all of its values except dates and url by sequent steps:   
+        - Removing Punctuation
+        - Removing Stopwords
+        - Stemming
+    
+    This makes use of [preprocess_string] function.
+    """
     try:
+        # read file
         file_name = str(file_path).split('\\')[-1]
         with open(file_path, 'r', newline='', encoding="utf-8") as f:
+            # make output dir if nonexistant
             Path("./preprocessed_dataset").mkdir(parents=True, exist_ok=True)
+            # preprare output dictionary
             output = {}
+            # read tsv
             tsv = csv.reader(f, delimiter='\t')
-
+            # skip labels row
             columns = next(tsv)
+            # skip blank row
             next(tsv)
+            # read data
             data = next(tsv)
+            # preprocess data
             for i in range(len(columns)) :
                 if(columns[i] not in ['releaseDate', 'endDate', 'url']) :
                     output[columns[i]] = ' '.join(preprocess_string(data[i]))
                 else :
                     output[columns[i]] = data[i]
+            # dump all preprocessed informations inside a json 
             with open('./preprocessed_dataset/{}.json'.format(file_name.split('\\')[-1].split('.')[0]), 'w', encoding="utf-8") as out_file:
                 json.dump(output, out_file)
+
     except Exception as e:
         print("Error on file {} : {}".format(file_path, e))
             
 def map_input_file_into_dictionary(dictionary, file_path):
+    """
+    Reads a file from a [file_path] and maps each of its word inside a dictionary.
+    """
     f = open(file_path, 'r', encoding='utf-8')
     data = json.load(f)
     values = ' '.join(data.values()).split(' ')
+    # sort words for better performance
     values.sort()
     for word in values :
-        _id = str(hash(word))
+        # if word is not in the dictionary, map it.
         if(word not in dictionary) :
+            # make up an id from the word hashcode
+            _id = str(hash(word))
             dictionary[word] = _id
                 
 def hydrate_vocabulary_from_files(file_paths, cores_amount):
+    """
+    Multiprocess, based on [cores_amount] reading all files
+    relative to [file_paths] and mapping their content inside a dictionary.
+    """
     pool = ThreadPool(cores_amount)
     with open('./vocabulary.json', 'w+', encoding='utf-8') as dict_file :
         # our JSON dictionaries
@@ -341,13 +146,22 @@ def hydrate_vocabulary_from_files(file_paths, cores_amount):
 def map_input_to_tf_dictionary_given_vocabulary(file_id, input_words, output_dict,
                                                 vocabulary_dictionary,
                                                 tot_documents, idf_source_dictionary) : 
+    """
+    Takes informations of a file as input and then maps its content inside a tfidf dictionary
+    that will be used as an inverted index, saving file_id and tfidf score inside each record.
+
+    For every word, read its id from the voucabulary and map it to output_dict.
+    """
+    
     # sorting content to speed up the process
     input_words.sort()
     '''
     for each processed word, find its id via vocabulary and
     update its reference into the output_dict
     '''
-    #print('3------------processing input words-------------')
+
+    #------------processing input words-------------
+    # read input as a counter, speeding up the tf process
     words_counter = Counter(input_words)
     
     for word in words_counter.keys() : 
@@ -355,9 +169,9 @@ def map_input_to_tf_dictionary_given_vocabulary(file_id, input_words, output_dic
         tf = words_counter[word] / len(input_words)
         # # of docs that contain this word
         occurencies = len(idf_source_dictionary[_id])
-        # log (len(index) / len(# of documents that contain the word)
+        # idf is... log (len(index) / len(# of documents that contain the word)
         idf = math.log( tot_documents / occurencies)
-        
+        # save record in the output dictionary
         if(_id not in output_dict) :
             output_dict[_id] = [(file_id, tf * idf)]
         else :
@@ -366,13 +180,18 @@ def map_input_to_tf_dictionary_given_vocabulary(file_id, input_words, output_dic
 
 
 def map_input_to_output_dictionary_given_vocabulary(file_id, input_words, output_dict, vocabulary_dictionary) : 
+    """
+    Read input_words and assigns an id to each of them to then
+    map the file they belong to via file_id inside output_dict.
+    """
+    
     # sorting content to speed up the process
     input_words.sort()
     '''
     for each processed word, find its id via vocabulary and
     update its reference into the output_dict
     '''
-    #print('3------------processing input words-------------')
+    #------------processing input words-------------
     for word in input_words : 
         _id = vocabulary_dictionary[word]
         if(_id not in output_dict) :
@@ -380,14 +199,23 @@ def map_input_to_output_dictionary_given_vocabulary(file_id, input_words, output
         else :
             if file_id not in output_dict[_id] : 
                 output_dict[_id].append(file_id)
-    #print('3------------finished processing input-------------')
+    #------------finished processing input-------------
         
 def process_file_synopsis_to_output_given_vocabulary(file_path, output_dictionary, vocabulary_dictionary, want_idf, tot_documents, idf_source_dictionary):
-    
-    #print('2------------started processing synopsis-------------')
+    """
+    Reads file from [file_path] and processes every word inside his synopsis (animeDescription)
+    field; then maps it to the [output_dictionary] via given [vocabulary_dictionary]
+
+    IF [want_idf] is True:
+        this function will map the word to the tfidf dictionary,
+        basing its computation on [tot_documents] and [idf_source_dictionary]
+
+        SO: [tot_documents] and [idf_source_dictionary] MUST be provided if [want_idf] == True
+    """
+    #------------started processing synopsis-------------
     input_file = open(file_path, 'r', encoding='utf-8')
     input_file_id = str(file_path).split('\\')[-1].split('.')[0]
-    #print(f'2------------defined file_id {input_file_id}-------------')
+    #------------defined file_id {input_file_id}-------------
     input_dict = json.load(input_file)
      
     '''
@@ -403,6 +231,19 @@ def process_file_synopsis_to_output_given_vocabulary(file_path, output_dictionar
     
 def hydrate_synopsys_inverted_index_with_given_files_and_vocabulary(
     inverted_index_path, file_paths, vocabulary_path, cores_amount, want_idf = False, tot_documents = 0, idf_source_dictionary_path='') :
+    
+    """
+    Multiprocess, based on cores_amount, the creation of a new Inverted Index
+    in [inverted_index_path] and its hydratation it via every file read from [file_paths]. 
+    This assigns an _id to every word via a vocabulary read from [vocabulary_path]. 
+
+    IF [want_idf] is True:
+        this function will create a tfidf inverted index,
+        basing its computation on [tot_documents] and [idf_source_dictionary]
+
+        SO: [tot_documents] and [idf_source_dictionary] MUST be provided if [want_idf] == True
+    """
+    
     pool = ThreadPool(cores_amount)
     print('1------------starting hydrating inverted index-------------')
     try:
@@ -435,10 +276,16 @@ def hydrate_synopsys_inverted_index_with_given_files_and_vocabulary(
         
 
 def all_equal(iterable):
+    """
+    checks if all elements in an iterable are equal
+    """
     g = itertools.groupby(iterable)
     return next(g, True) and not next(g, False)
 
 def associate_words_to_doc_ids(words, vocabulary):
+    """
+    Reads word id from vocabulary
+    """
     output = []
     for word in words :
         try:
@@ -448,6 +295,9 @@ def associate_words_to_doc_ids(words, vocabulary):
     return output
 
 def extract_documents_from_ids(ids, index) :
+    """
+    Extracts all the documents that contain a word with id from an index
+    """
     results = {}
     for _id in ids :
         docs = index[_id]
@@ -456,6 +306,12 @@ def extract_documents_from_ids(ids, index) :
 
 
 def print_query_results(results_ids, with_similarity = False, similarity_dict = {}) :
+    """
+    Pretty prints the documents associated to [results_ids] found by query.
+    if [with_similarity] == True:
+        prints similarity field basing on [similarity_dict]
+    """
+
     file_path = './tsv_dataset/'
     results_files = []
     for _id in results_ids :
@@ -477,7 +333,9 @@ def print_query_results(results_ids, with_similarity = False, similarity_dict = 
         
 
 def perform_query(query_string):
-    
+    """
+    Takes a query string and looks for documents containing each of given words
+    """
     starting_time = datetime.now()
     # load vocabulary
     with open('./vocabulary.json', 'r', encoding='utf-8') as voc_file: 
@@ -500,19 +358,34 @@ def perform_query(query_string):
     print_query_results(results)
     
 def generate_query_vector(query_array, vocabulary_dict) :
-  ## generate empty vector
-  query_v = np.zeros(len(vocabulary_dict))
-  for word in query_array : 
-    query_v[list(vocabulary_dict.keys()).index(word)] = 1
+    """
+    Generates vector based on query string
+    having as 1 word in the query and 0 elsewhere
+    """
+    ## generate empty vector
+    query_v = np.zeros(len(vocabulary_dict))
+    for word in query_array : 
+        query_v[list(vocabulary_dict.keys()).index(word)] = 1
 
-  return query_v
+    return query_v
 
 def find_element_in_list(l, condition):
-  for el in l :
-    if(condition(el)):
-      return el
+    """
+    Find first element contained in a list that satisfies a condition
+    """
+    for el in l :
+        if(condition(el)):
+            return el
 
 def generate_vector_for_given_document(document_id, vocabulary, index):
+    """
+    Generates vector based on document content
+    having as values the tfidf factor of all words contained
+    inside the document synopsis (animeDescription) and 0 elsewhere
+
+    this looks for word ids in [vocabulary] and reads tfidf from [index]
+    """
+    ## generate empty vector
     doc_v = np.zeros(len(vocabulary))
 
     with open('./preprocessed_dataset/{}.json'.format(document_id)) as document_file:
@@ -521,15 +394,18 @@ def generate_vector_for_given_document(document_id, vocabulary, index):
     
     for word in synopsis.split(' ') :
         try: 
+            # find word id
             _id = vocabulary[word]
             tuples = index[_id]
-            idf = 0
+            tfidf = 0
+            # from every tuples obtained from this word inside the inverted index
+            # find the one having given document_id
             for tup in tuples :
                 if(tup[0] == document_id):
-                    idf = tup[1]
+                    tfidf = tup[1]
                     break;
-
-            doc_v[list(vocabulary.keys()).index(word)] = idf
+            # save tfidf score
+            doc_v[list(vocabulary.keys()).index(word)] = tfidf
         except :
             raise Exception(f"Couldn't find the word {word} in our dictionary! Are you sure it's not a typo?")
     return doc_v
@@ -537,6 +413,14 @@ def generate_vector_for_given_document(document_id, vocabulary, index):
 
 
 def query_K_top_documents(query_string, k):
+    """
+    Computes given query string by associating an _id to every word 
+    contained in the query and finding all documents containing every word
+    via the inverted index. 
+    
+    Then compute every document's tfidf score and find the best K results
+    via cosine similarity.
+    """
     starting_time = datetime.now()
     # load vocabulary
     with open('./vocabulary.json', 'r', encoding='utf-8') as voc_file: 
@@ -581,6 +465,11 @@ def query_K_top_documents(query_string, k):
     
 
 def compute_K_best_results_from_heap(query_vector, document_vectors_dict, k) :
+    """
+    Build a maxheap with the scores of the cosine similarity between
+    [query_vector] and document vectors contained in [document_vectors_dict], 
+    then compute the best K results and return them.
+    """
     output = {}
     # create a score heap structure and a dictionary of scores
     heap = list()
@@ -594,19 +483,33 @@ def compute_K_best_results_from_heap(query_vector, document_vectors_dict, k) :
         # Update the heap
         heapq.heappush(heap, cos)
     
+    # find the k best scores
     top_k = heapq.nlargest(k, heap)
     for score in top_k :
+        # find the doc associated to the score
         output[scores_dictionary[score]] = score
     
     return output
 
 
 def print_resulting_dataframe(dataframe) :
+    """
+    Pretty prints dataframe
+    """
     dataframe['animeDescription'] = dataframe['animeDescription'].apply(lambda string : string[:8] + '...')
     print(tabulate(dataframe, headers='keys', tablefmt='psql'))
         
 
 def compute_query_on_jaccard_similarity(query_string, k, num_epidode_weight, date_weight, members_weight, score_weight, popularity_weight) :
+    """
+    Computes given query string by associating an _id to every word 
+    contained in the query and finding all documents containing every word
+    via the inverted index. 
+    
+    compute every document's jaccard similarity score and find the best K results
+    after adapting similarity scores to given [weights] provided by the user.
+    """
+    
     starting_time = datetime.now()
     output_dataframe = pd.DataFrame(columns=['animeTitle', 'animeDescription', 'url', 'similarity'])
     # load vocabulary
@@ -628,6 +531,7 @@ def compute_query_on_jaccard_similarity(query_string, k, num_epidode_weight, dat
     hits = extract_documents_from_ids(query_ids, index)
     list_of_hits = [None] * len(hits)
     hits_keys = list(hits.keys())
+    # reduce hits to a document _ids array
     for value in hits :
         for tupl in hits[value]: 
             if list_of_hits[hits_keys.index(value)] == None :
@@ -635,6 +539,7 @@ def compute_query_on_jaccard_similarity(query_string, k, num_epidode_weight, dat
             else :
                 list_of_hits[hits_keys.index(value)].append(tupl[0])
 
+    # find interception
     results = set.intersection(*map(set,list_of_hits))
     
     
@@ -642,33 +547,42 @@ def compute_query_on_jaccard_similarity(query_string, k, num_epidode_weight, dat
     dataframe = compute_pandas_dataframe_for_results(results)
     
     # calculate similarity on Title, Description, Charachters
-    jaccard_scores = compute_jaccard_scores(dataframe, query_words, k)
+    jaccard_scores = compute_jaccard_scores(dataframe, query_words)
     
     # num_epidode_weight, date_weight, members_weight, score_weight, popularity_weight 
     
     dataframe['releaseDate'] =  dataframe['releaseDate'].apply(lambda d : datetime.strptime(d, '%Y-%m-%d %H:%M:%S').timestamp() * 1000)
     #dataframe['releaseDate'] = pd.to_datetime(dataframe['releaseDate'], unit='ms')
     
+    # compute sequent fields scores adapting them to user inputs
     date_scores = compute_column_scores(dataframe, 'releaseDate', 'dateScores', date_weight)
     num_ep_scores = compute_column_scores(dataframe, 'animeNumEpisode', 'numEpScores', num_epidode_weight)
     anime_members_scores = compute_column_scores(dataframe, 'animeNumMembers', 'memberScores', members_weight)
     anime_rate_scores = compute_column_scores(dataframe, 'animeScore', 'ratingScore', score_weight)
     anime_popularity_score = compute_column_scores(dataframe, 'animePopularity', 'popularityScore', popularity_weight)
     
-
-    
+    # compute the total similarity score of every document by 
+    # mixing up both the jaccard score and the weights adapted
+    # by the user preferences
     for index, row in jaccard_scores.iterrows() :
         overall_similarity = row['similarity'] + date_scores['dateScores'][index] + num_ep_scores['numEpScores'][index] + anime_members_scores['memberScores'][index] + anime_rate_scores['ratingScore'][index]+ anime_popularity_score['popularityScore'][index]
         temp_row = pd.DataFrame(data = {'animeTitle' : [dataframe['animeTitle'][index]],'animeDescription' : [dataframe['animeDescription'][index]], 'url' : [dataframe['url'][index]], 'similarity':[overall_similarity]})   
         output_dataframe = output_dataframe.append(temp_row)
+
+    # normalize similarities finding a top one
     norm_factor = output_dataframe['similarity'].max()
     output_dataframe['similarity'] = output_dataframe['similarity'].apply(lambda x : x / norm_factor)
+    
+    # compute the top k result
     top_k_results = compute_top_k_dataset(output_dataframe, k)
     
     print_resulting_dataframe(top_k_results)
 
 
 def compute_pandas_dataframe_for_results(results_ids):
+    """
+    Builds up a pandas dataframe containing every document associated with [results_ids]
+    """
     documents_dataframe = pd.DataFrame(data = {
         "animeTitle": [],
         "animeType": [],
@@ -718,26 +632,36 @@ def compute_pandas_dataframe_for_results(results_ids):
                 "url" :[tsv_data[15]],
                 "similarity" : [0]
             })
-            # fix this
+            # concats found document to output
             documents_dataframe = pd.concat([documents_dataframe, temp], sort = True)
-            
-    # print(f"documents dataframe is {documents_dataframe}")
+
     return documents_dataframe.reset_index(drop=True)
 
-def jaccard_similarity(_query_array, _text_array):
-    _query = set(_query_array)
-    _text = set(_text_array)
-    return len(_query.intersection(_text)) / len(_query.union(_text))
+def jaccard_similarity(query_array, text_array):
+    """
+    Compute jaccard similarity on given query and text
+    """
+    query = set(query_array)
+    text = set(text_array)
+    return len(query.intersection(text)) / len(query.union(text))
 
 
 def normalize_jaccard(values, min_jac, max_jac):
+    """
+    Normalize jaccard based on min and max
+    """
     return [(x - min_jac)  / (max_jac - min_jac) for x in values]
 
-def compute_jaccard_scores(documents_dataframe, query_text, k):
+def compute_jaccard_scores(documents_dataframe, query_text):
+    """
+    Computes the jaccard scores similarity between
+    every relevant field in a given document and
+    the given query_text
+    """
     jac_dataframe = documents_dataframe[["animeTitle","animeDescription","animeRelated","animeCharacters","similarity"]]
     
+    temp_scores = []
     jac_scores = []
-    jac_score_final = []
     
     cols = jac_dataframe.columns
     
@@ -748,30 +672,30 @@ def compute_jaccard_scores(documents_dataframe, query_text, k):
             text = str(row[col])
             # append the score of every variable of a given document
             # animeTitle : score, animeDesc : score... exc...
-            jac_scores.append(jaccard_similarity(query_text, preprocess_string(text)))
+            temp_scores.append(jaccard_similarity(query_text, preprocess_string(text)))
         
         # sum up all the scores of a given document into a single score
-        jac_score_final.append(sum(jac_scores))
+        jac_scores.append(sum(temp_scores))
     
-    if(len(jac_score_final) > 1) :
-        jac_score_final = normalize_jaccard(jac_score_final, min(jac_score_final), max(jac_score_final))
+    if(len(jac_scores) > 1) :
+        jac_scores = normalize_jaccard(jac_scores, min(jac_scores), max(jac_scores))
     
     # normalize jaccard 
-    jac_dataframe['similarity'] = list(map(lambda x: round(x, 2), jac_score_final))
+    jac_dataframe['similarity'] = list(map(lambda x: round(x, 2), jac_scores))
     return jac_dataframe[["animeTitle", "animeDescription", "similarity"]]
     
     
 
     
-'''
-This function takes a pandas dataframe having:
-animeTitle | animeDescription | url | similarity
-as fields.
-It heap sorts the dataframe's rows based on similarity and returns
-k best elements
-'''
+
 def compute_top_k_dataset(input_dataset, k) :
-    
+    '''
+    This function takes a pandas dataframe having:
+    animeTitle | animeDescription | url | similarity
+    as fields.
+    It heap sorts the dataframe's rows based on similarity and returns
+    k best elements
+    '''
     score_to_row_dictionary = {}
     output = pd.DataFrame(columns = input_dataset.columns)
     heap = list()
@@ -789,24 +713,31 @@ def compute_top_k_dataset(input_dataset, k) :
     return output
 
 def convert_str_to_float(string):
+    """
+    floats given string, if this is not possible return 0
+    """
     try:
         return float(string)
     except:
         return 0
 
-'''
-This takes a result dataframe as an input and returns a series of scores based on weight
-'''
 def compute_column_scores(dataframe, source_column, output_column, output_weight) :
+    '''
+    This takes a [dataframe] as an input and returns a series of scores
+    of a given [source_column] based on [output_weight], named as [output_column]
+    '''
     result = pd.DataFrame(columns=[output_column])
     source = dataframe[source_column].apply(lambda x : convert_str_to_float(x))
-   # source = pd.to_numeric(dataframe[source_column])
+    
     norm_factor = source.max()
     result[output_column] = source.apply(lambda x: (x / norm_factor) * output_weight)
     return result
 
 
 def take_simple_query_from_user():
+    """
+    Ask the user to perform a simple query.
+    """
     try:
         print("Hi! Type in your query : ")
         query = str(input())
@@ -815,6 +746,10 @@ def take_simple_query_from_user():
         print(e)
 
 def take_top_k_of_query_from_user() :
+    """
+    Ask the user to perform a simple query and the amount of results to return.
+    this computes the best k results based on tfidf scores
+    """
     try:
         print("Hi! Type in your query : ")
         query = str(input())
@@ -825,6 +760,12 @@ def take_top_k_of_query_from_user() :
         print(e)
         
 def take_biased_query_from_user():
+    """
+    Ask the user to perform a complex query by asking him a query string
+    and a series to preferences that will adapt the weights of every asked column
+    on his preferences. 
+    this computes the best k results adapting jaccard similarity scores to the user preferences
+    """
     try:
         print("Hi! Type in your query : ")
         query = str(input())
